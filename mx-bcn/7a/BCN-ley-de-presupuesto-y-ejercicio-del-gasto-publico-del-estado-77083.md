@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2021-03-12"
+last_updated: "2021-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2021.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -55,9 +55,15 @@ IV. Los Municipios del Estado; y,
 
 V. Los Órganos Autónomos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 2.
 
 La aplicación de la presente Ley corresponde:
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+
+I. En el Poder Ejecutivo: a la Secretaría de Hacienda y a la Secretaría de la Honestidad y la Función Pública, en sus respectivos ámbitos de competencia;
 
 I. En el Poder Ejecutivo: al Gobernador del Estado, a través de la Oficialía Mayor de Gobierno, la Dirección de Control y Evaluación Gubernamental y la Secretaría de Planeación y Finanzas, en sus respectivos ámbitos de competencia;
 
@@ -133,11 +139,11 @@ La programación, presupuestación y ejercicio del gasto público de las Depende
 
 Los Poderes Legislativo y Judicial, así como los Órganos Autónomos, en el ámbito de sus respectivas competencias, establecerán los lineamientos que se requieran de conformidad con lo previsto en el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 6.
 
-El Ejecutivo del Estado, a través de la Secretaría de Planeación y
-
-Finanzas, y los Presidentes Municipales, a través de las Tesorerías Municipales, coordinarán conforme lo establece la presente Ley, las actividades de programación, presupuestación, control, seguimiento y evaluación del gasto público, dentro de sus respectivos ámbitos de competencia.
+El Ejecutivo del Estado, a través de la Secretaría de Hacienda y los Presidentes Municipales, a través de las Tesorerías Municipales, coordinarán conforme lo establece la presente Ley, las actividades de programación, presupuestación, control, seguimiento y evaluación del gasto público, dentro de sus respectivos ámbitos de competencia.
 
 Los Poderes Legislativo y Judicial, así como los Órganos Autónomos, realizarán lo previsto en el párrafo anterior a través de sus respectivas Unidades Administrativas equivalentes.
 
@@ -147,27 +153,33 @@ Los Poderes Legislativo y Judicial, así como los Órganos Autónomos, realizar�
 
 Las Dependencias del Ejecutivo del Estado y de los Municipios orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del gasto de las Entidades Paraestatales o Paramunicipales que estén agrupadas en su sector, conforme a la perspectiva de equidad de género y al acuerdo respectivo que dicten el Ejecutivo del Estado y los Ayuntamientos, con base en las políticas y programas sectoriales, institucionales y especiales derivados de los Planes Estatal y Municipales de Desarrollo, respectivamente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE MAYO DE 2021)</small>
+
+La Secretaría de Hacienda y las Tesorerías Municipales, en sus respectivos ámbitos de competencia, verificarán que los proyectos de presupuestos de las Entidades sean presentados en los términos de esta Ley y que hayan sido aprobados por sus respectivos Órganos de Gobierno y por las Dependencias Coordinadoras de Sector a la que, en su caso, correspondan.
+
 ###### ARTÍCULO 8.
 
 Los Sujetos de esta Ley, generarán de manera periódica en la medida que corresponda, los estados y la información presupuestal y programática de conformidad con lo establecido en la presente Ley, la Ley General de Contabilidad, así como en la normatividad que emita el CONAC.
 
 Asimismo, las Dependencias y Entidades, así como las Unidades Administrativas de los Poderes Legislativo y Judicial y de los Órganos Autónomos, a efecto de ejercer las funciones previstas en esta Ley, deberán proporcionar a través de sus Titulares la información que les sea requerida:
 
-I. En el Poder Ejecutivo: Por la Oficialía Mayor, la Secretaría de Planeación y Finanzas y la Dirección de Control y Evaluación Gubernamental;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+
+I.-En (sic) el Poder Ejecutivo: Por la Secretaría de Hacienda y la Secretaría de la Honestidad y Función Pública;
 
 II. En los Municipios: Por la Oficialía Mayor, la Tesorería Municipal y a la Sindicatura Municipal; y,
 
 III. En los Poderes Legislativo y Judicial, así como en los Órganos Autónomos: por sus respectivas Unidades Administrativas equivalentes.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 9.
 
-Es facultad de la Secretaría de Planeación y Finanzas y de las Tesorerías Municipales formular la Cuenta Pública Anual de la Hacienda Estatal y Municipal, así como integrar la información o consolidar los estados financieros que emanen de las Entidades paraestatales o paramunicipales incluidas en los Presupuestos de Egresos de conformidad con el Artículo 26 de esta Ley, para someterla a consideración del Ejecutivo del Estado y de los Ayuntamientos respectivamente, para su presentación al Congreso del Estado en los términos y de acuerdo a las leyes vigentes respectivas.
+Es facultad de la Secretaría de Hacienda y las Tesorerías Municipales formular la Cuenta Pública Anual de la Hacienda Estatal y Municipal, así como integrar la información o consolidar los estados financieros que emanen de las Entidades paraestatales o paramunicipales incluidas en los Presupuestos de Egresos de conformidad con el Artículo 26 de esta Ley, para someterla a consideración del Ejecutivo del Estado y de los Ayuntamientos respectivamente, para su presentación al Congreso del Estado en los términos y de acuerdo a las leyes vigentes respectivas.
 
-Para el cumplimiento de lo anterior, la Secretaría de Planeación y Finanzas y las
+Para el cumplimiento de lo anterior, la Secretaría de Hacienda y las Tesorerías Municipales, dictarán las disposiciones administrativas que procedan.
 
-Tesorerías Municipales, dictarán las disposiciones administrativas que procedan.
-
-Así mismo, serán responsables la Secretaría de Planeación y Finanzas en el Poder Ejecutivo, las Tesorerías Municipales en los Municipios, y las Unidades Administrativas equivalentes en los demás sujetos de esta Ley, de la solventación de las observaciones sobre la Cuenta Pública anual que finque el Congreso del Estado por conducto del Órgano de Fiscalización Superior.
+Así mismo, serán responsables la Secretaría de Hacienda en el Poder Ejecutivo, las Tesorerías Municipales en los Municipios, y las Unidades Administrativas equivalentes en los demás sujetos de esta Ley, de la solventación de las observaciones sobre la Cuenta Pública anual que finque el Congreso del Estado por conducto de la Auditoria Superior del Estado.
 
 ## TÍTULO SEGUNDO. DE LOS INGRESOS
 
@@ -175,17 +187,25 @@ Así mismo, serán responsables la Secretaría de Planeación y Finanzas en el P
 
 De los Presupuestos de Ingresos.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 10.
 
-Todas las Dependencias y Entidades que de sus actividades generen ingresos por conceptos de los previstos en la legislación hacendaria estatal o municipal, deberán coordinarse con la Secretaría de Planeación y Finanzas y con las Tesorerías Municipales, según corresponda, para que se incorporen en la Iniciativa de Ley de Ingresos respectiva.
+Todas las Dependencias y Entidades que de sus actividades generen ingresos por conceptos de los previstos en la legislación hacendaria estatal o municipal, deberán coordinarse con la Secretaría de Hacienda y con las Tesorerías Municipales, según corresponda, para que se incorporen en la Iniciativa de Ley de Ingresos respectiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 11.
 
-Los Presupuestos de Ingresos de los sujetos de la presente Ley deberán incluir, en su caso, las expectativas de recaudación de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, deuda pública autorizada, recepción de subsidios, participaciones y de los demás ingresos provenientes del cumplimiento de su objeto legal. La Secretaría de Planeación y Finanzas en el Poder Ejecutivo, las Tesorerías Municipales en los Municipios, y las Unidades Administrativas equivalentes en los demás sujetos de esta Ley, establecerán lo conducente para su oportuna y debida formulación.
+Los Presupuestos de Ingresos de los sujetos de la presente Ley deberán incluir, en su caso, las expectativas de recaudación de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, deuda pública autorizada, recepción de subsidios, participaciones y de los demás ingresos provenientes del cumplimiento de su objeto legal. La Secretaría de Hacienda en el Poder Ejecutivo, las Tesorerías Municipales en los Municipios, y las Unidades Administrativas equivalentes en los demás sujetos de esta Ley, establecerán lo conducente para su oportuna y debida formulación.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
 Los Presupuestos de Ingresos deberán ser presentados:
 
-I. Al Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
+
+I. Al Ejecutivo del Estado, por conducto de la Secretaría de Hacienda:
 
 a) Los correspondientes a la Administración Pública Centralizada del Poder Ejecutivo y a las Entidades Paraestatales que reciban ingresos por conceptos de los previstos en la Ley de Ingresos del Estado, para ser enviados al Congreso del Estado conjuntamente con la Iniciativa de Ley de Ingresos del ejercicio fiscal de que se trate.
 
@@ -205,13 +225,15 @@ IV. Tratándose del Poder Legislativo, se estará a lo dispuesto en su respectiv
 
 De las Leyes de Ingresos.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE MARZO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 12.
 
 Las Iniciativas de las Leyes de Ingresos deberán ser presentadas:
 
-I. La del Estado, al Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas, para ser enviada al Congreso del Estado para su revisión y aprobación, en su caso, a más tardar el 1o. de diciembre del ejercicio fiscal inmediato anterior al que corresponde la Iniciativa, o hasta el 10 de diciembre cuando inicie su encargo Constitucional el Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+
+I. La del Estado, al Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, para ser enviada al Congreso del Estado para su revisión y aprobación, en su caso, a más tardar el 1o. de diciembre del ejercicio fiscal inmediato anterior al que corresponde la Iniciativa, o hasta el 10 de diciembre cuando inicie su encargo Constitucional el Ejecutivo del Estado.
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2021)</small>
 
@@ -269,9 +291,11 @@ Los Ayuntamientos tienen de manera exclusiva la facultad de presentar al Congres
 
 Del Control Presupuestal de los Ingresos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 16.
 
-El Ejecutivo del Estado, a través de la Secretaría de Planeación y Finanzas, y los Presidentes Municipales, a través de las Tesorerías Municipales, dentro de sus respectivos ámbitos de competencia, deberán registrar sus ingresos de manera armónica, delimitada y específica. Para tales efectos se aplicará, en lo conducente el Clasificador por Rubros de Ingresos emitido por el CONAC, el cual podrán desagregar de acuerdo a sus necesidades a partir de la estructura básica del clasificador.
+El Ejecutivo del Estado, a través de la Secretaría de Hacienda y los Presidentes Municipales, a través de las Tesorerías Municipales, dentro de sus respectivos ámbitos de competencia, deberán registrar sus ingresos de manera armónica, delimitada y específica. Para tales efectos se aplicará, en lo conducente el Clasificador por Rubros de Ingresos emitido por el CONAC, el cual podrán desagregar de acuerdo a sus necesidades a partir de la estructura básica del clasificador.
 
 Los Poderes Legislativo y Judicial, los Órganos Autónomos, y las Entidades Paraestatales y Paramunicipales, realizarán lo previsto en el párrafo anterior a través de sus respectivas Unidades Administrativas equivalentes.
 
@@ -371,7 +395,9 @@ III.- Fomentar la perspectiva de género en el diseño y la ejecución de progra
 
 IV.- En los programas bajo su responsabilidad, establecer o consolidar las metodologías de evaluación y seguimiento que generen información relacionada con indicadores para resultados con perspectiva de género;
 
-V.- Aplicar la perspectiva de género en las evaluaciones de los programas, con los criterios que emitan la Secretaría de Planeación y Finanzas y el Instituto de la Mujer del Estado de Baja California; e
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+
+V.- Aplicar la perspectiva de género en las evaluaciones de los programas, con los criterios que emitan la Secretaría de Hacienda y el Instituto de la Mujer del Estado de Baja California; e,
 
 VI.- Incluir en sus programas y campañas de comunicación social, contenidos que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género, y de roles y estereotipos que fomenten cualquier forma de discriminación. El Instituto de la Mujer del Estado coadyuvará con las unidades administrativas responsables del gasto de las dependencias y entidades, en el contenido de estos programas y campañas.
 
@@ -379,39 +405,55 @@ VI.- Incluir en sus programas y campañas de comunicación social, contenidos qu
 
 Los Presupuestos de Egresos de la Administración Pública Centralizada comprenderán también, en apartado especial, las previsiones de los subsidios, ayudas, transferencias y participaciones presupuestarias a Municipios, Entidades Paraestatales y Paramunicipales, Poderes Legislativo y Judicial, Órganos Autónomos, así como otras instituciones públicas o privadas y particulares que, en su ámbito de competencia, autoricen el Congreso del Estado y los Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 27.
 
-Los proyectos de Presupuestos de Egresos de la Administración Pública Centralizada, se integrarán de conformidad con la documentación, normas y lineamientos de programación y presupuestación que para el efecto establezcan la Secretaría de Planeación y Finanzas y las Tesorerías Municipales, en sus respectivos ámbitos de competencia. Tratándose de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos, la integración del proyecto de Presupuesto de Egresos se realizará conforme lo que establezcan las Unidades Administrativas equivalentes.
+Los proyectos de Presupuestos de Egresos de la Administración Pública Centralizada, se integrarán de conformidad con la documentación, normas y lineamientos de programación y presupuestación que para el efecto establezcan la Secretaría de Hacienda y las Tesorerías Municipales, en sus respectivos ámbitos de competencia. Tratándose de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos, la integración del proyecto de Presupuesto de Egresos se realizará conforme lo que establezcan las Unidades Administrativas equivalentes.
 
 ###### ARTÍCULO 28.
 
 Los Poderes Legislativo y Judicial, los Órganos Autónomos y las Entidades que reciban ayudas, subsidios, transferencias o participaciones de la administración centralizada, elaborarán su Proyecto de Presupuesto de Egresos con base en los montos asignados para tales conceptos y en los que se deriven de sus actividades propias.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 29.
 
-Los Poderes Legislativo y Judicial, así como los Órganos Autónomos, remitirán sus Proyectos de Presupuesto de Egresos al Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas, a más tardar el día 20 de noviembre del año inmediato anterior al que correspondan, para que se incorporen las ayudas, subsidios o transferencias que les correspondan en el proyecto de Presupuesto de Egresos de la Administración Pública Centralizada del Poder Ejecutivo.
+Los Poderes Legislativo y Judicial, así como los Órganos Autónomos, remitirán sus Proyectos de Presupuesto de Egresos al Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, a más tardar el día 20 de noviembre del año inmediato anterior al que correspondan, para que se incorporen las ayudas, subsidios o transferencias que les correspondan en el proyecto de Presupuesto de Egresos de la Administración Pública Centralizada del Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 30.
 
-La Secretaría de Planeación y Finanzas será la encargada de formular, considerando las propuestas que le presenten las Dependencias y Entidades Paraestatales, los Poderes Legislativo y Judicial, así como los Órganos Autónomos, el Proyecto de Presupuesto de Egresos de la Administración Pública Centralizada del Poder Ejecutivo; y las Tesorerías Municipales, la de formular, considerando las propuestas de las Dependencias y Entidades Paramunicipales, el Proyecto de Presupuesto de Egresos de los Municipios.
+La Secretaría de Hacienda será la encargada de formular, considerando las propuestas que le presenten las Dependencias y Entidades Paraestatales, los Poderes Legislativo y Judicial, así como los Órganos Autónomos, el Proyecto de Presupuesto de Egresos de la Administración Pública Centralizada del Poder Ejecutivo; y las Tesorerías Municipales, la de formular, considerando las propuestas de las Dependencias y Entidades Paramunicipales, el Proyecto de Presupuesto de Egresos de los Municipios.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 31.
 
-La Secretaría de Planeación y Finanzas y las Tesorerías Municipales, en sus respectivos ámbitos de competencia, quedan facultadas para formular los Proyectos y, en su caso, los Presupuestos de Ingresos y Egresos de las Dependencias y Entidades cuando no sean formulados por éstas en los términos y plazos de Ley.
+La Secretaría de Hacienda y las Tesorerías Municipales, en sus respectivos ámbitos de competencia, quedan facultadas para formular los Proyectos y, en su caso, los Presupuestos de Ingresos y Egresos de las Dependencias y Entidades cuando no sean formulados por éstas en los términos y plazos de Ley.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 32.
 
-La Secretaría de Planeación y Finanzas y las Tesorerías Municipales, al examinar los Proyectos de Presupuestos de Egresos de las Dependencias y Entidades, verificarán que los ingresos ordinarios y, en su caso, los extraordinarios, sean suficientes para cubrir los conceptos e importes previstos en dichos Proyectos.
+La Secretaría de Hacienda y las Tesorerías Municipales, al examinar los Proyectos de Presupuestos de Egresos de las Dependencias y Entidades, verificarán que los ingresos ordinarios y, en su caso, los extraordinarios, sean suficientes para cubrir los conceptos e importes previstos en dichos Proyectos.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 33.
 
-En caso de que los ingresos ordinarios y los extraordinarios no sean suficientes para cubrir los conceptos e importes previstos en los Proyectos de Presupuestos de Egresos del ejercicio de que se trate y se prevea la necesidad de contratar Deuda Pública, se deberá atender oportunamente lo establecido en la Ley de Deuda Pública del Estado de Baja California y sus Municipios.
+En caso de que los ingresos ordinarios y los extraordinarios no sean suficientes para cubrir los conceptos e importes previstos en los Proyectos de Presupuestos de Egresos del ejercicio de que se trate y se prevea la necesidad de contratar Deuda Pública, se deberá atender oportunamente lo establecido en la Ley que Regula los Financiamientos y Obligaciones para la Disciplina Financiera del Estado de Baja California y sus Municipios.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 34.
 
 Los Proyectos de Presupuestos de Egresos deberán ser presentados oportunamente:
 
-I. Al Congreso del Estado, por conducto de la Secretaría de Planeación y Finanzas, el Proyecto de Presupuesto de Egresos de la Administración Pública Centralizada del Poder Ejecutivo del Estado para su revisión y aprobación, en su caso, y los Presupuestos de Egresos aprobados por el Ejecutivo del Estado a las Entidades Paraestatales, a más tardar el 1o. de diciembre del año inmediato anterior al que correspondan, o hasta el 10 de diciembre en los años que inicie el período constitucional del Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+
+I. Al Congreso del Estado, por conducto de la Secretaría de Hacienda, el Proyecto de Presupuesto de Egresos de la Administración Pública Centralizada del Poder Ejecutivo del Estado para su revisión y aprobación, en su caso, y los Presupuestos de Egresos aprobados por el Ejecutivo del Estado a las Entidades Paraestatales, a más tardar el 1o. de diciembre del año inmediato anterior al que correspondan, o hasta el 10 de diciembre en los años que inicie el período constitucional del Ejecutivo del Estado;
 
 II. A los Ayuntamientos, por conducto de las Tesorerías Municipales, los Proyectos de Presupuestos de Egresos correspondientes a la Administración Pública Centralizada del Municipio y a las Entidades Paramunicipales, para su revisión y aprobación, en su caso, a más tardar el día 1o. de noviembre del año inmediato anterior al que correspondan.
 
@@ -497,9 +539,11 @@ En el cumplimiento de lo dispuesto en este artículo, el Poder Ejecutivo del Est
 
 En todo tiempo procurará fortalecer las fuentes de financiamiento a dicha tarea y destinar recursos presupuestarios crecientes, en términos reales, para la inversión pública. Para dar cabal cumplimiento a esta disposición, el Presupuesto del Poder Ejecutivo contemplará un incremento progresivo cada año.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 38.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas y los Titulares del Poder Judicial y de los Órganos Autónomos, proporcionarán al Congreso del Estado los datos estadísticos e información que solicite y que contribuya a la mejor comprensión de sus respectivos Proyectos de Presupuesto de Egresos.
+El Ejecutivo del Estado, por conducto de la Secretaría de Hacienda y los Titulares del Poder Judicial y de los Órganos Autónomos, proporcionarán al Congreso del Estado los datos estadísticos e información que solicite y que contribuya a la mejor comprensión de sus respectivos Proyectos de Presupuesto de Egresos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -553,7 +597,9 @@ De la Programación de los Egresos.
 
 Los Presupuestos de Egresos tendrán una base programática y se le dará una sustentación, lo suficientemente amplia, que abarque todas las responsabilidades de los sujetos de esta Ley.
 
-La Secretaría de Planeación y Finanzas, las Tesorerías Municipales y las Unidades Administrativas equivalentes de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos, definirán, en sus respectivos ámbitos de competencia, la estructura programática del Presupuesto de Egresos.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+La Secretaría de Hacienda, las Tesorerías Municipales y las Unidades Administrativas equivalentes de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos, definirán, en sus respectivos ámbitos de competencia, la estructura programática del Presupuesto de Egresos.
 
 ###### ARTÍCULO 43.
 
@@ -577,9 +623,11 @@ Los sujetos de la presente Ley cuidarán que la formulación de los programas a 
 
 Asimismo, los Titulares de los sujetos de esta Ley cuidarán que el alcance de sus programas, objetivos y metas sea congruente con los Presupuestos de Egresos aprobados por el Congreso del Estado, por el Titular del Ejecutivo del Estado o por los Ayuntamientos, en sus respectivos ámbitos de competencia.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 46.
 
-En cada una de las Dependencias y Entidades del Poder Ejecutivo y de los Municipios, los encargados de ejecutar los programas serán los responsables del avance de los mismos y deberán informar periódicamente de los resultados obtenidos, por conducto de sus Titulares, a la Secretaría de Planeación y Finanzas y Tesorerías Municipales, respectivamente; en los Poderes Legislativo y Judicial, así como en los Órganos Autónomos, se dará cumplimiento a esta disposición a través de las Unidades Administrativas equivalentes.
+En cada una de las Dependencias y Entidades del Poder Ejecutivo y de los Municipios, los encargados de ejecutar los programas serán los responsables del avance de los mismos y deberán informar periódicamente de los resultados obtenidos, por conducto de sus Titulares, a la Secretaría de Hacienda y Tesorerías Municipales, respectivamente; en los Poderes Legislativo y Judicial, así como en los Órganos Autónomos, se dará cumplimiento a esta disposición a través de las Unidades Administrativas equivalentes.
 
 ### CAPÍTULO TERCERO
 
@@ -589,21 +637,21 @@ Del Control Presupuestal de los Egresos.
 
 Los sujetos de esta Ley deberán llevar el control presupuestal de los egresos considerando el presupuesto aprobado, el presupuesto modificado, el presupuesto comprometido, el presupuesto devengado, el presupuesto ejercido y el presupuesto pagado, dichas definiciones se sujetarán a lo que establezca el CONAC, y en su caso, la información complementaria que emita el Consejo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 48.
 
-La Secretaría de Planeación y Finanzas en coordinación con la Dirección de Control y Evaluación Gubernamental, y las Tesorerías Municipales en coordinación con las Sindicaturas Municipales, podrán solicitar, y obtener de las Dependencias y Entidades la información programática y presupuestal que se requiera para el seguimiento, evaluación y control del ejercicio del Presupuesto de Egresos, de conformidad con las prioridades y estrategias establecidas en los Planes de Desarrollo respectivos, así como la información relativa a la aplicación sustantiva de la perspectiva de equidad de género en los programas y presupuestos.
+La Secretaría de Hacienda en coordinación con la Secretaría de la Honestidad y la Función Pública y las Tesorerías Municipales en coordinación con las Sindicaturas Municipales, podrán solicitar, y obtener de las Dependencias y Entidades la información programática y presupuestal que se requiera para el seguimiento, evaluación y control del ejercicio del Presupuesto de Egresos, de conformidad con las prioridades y estrategias establecidas en los Planes de Desarrollo respectivos, así como la información relativa a la aplicación sustantiva de la perspectiva de equidad de género en los programas y presupuestos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 En los Poderes Legislativo y Judicial, así como en los Órganos Autónomos, el seguimiento, evaluación y control del ejercicio del Presupuesto de Egresos estará en los mismos términos, a cargo de las Unidades Administrativas equivalentes a las mencionadas en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 49.
 
-La Secretaría de Planeación y Finanzas en el Poder Ejecutivo; las
-
-Tesorerías en los Municipios; y las Unidades Administrativas equivalentes en las
-
-Entidades Paraestatales y Paramunicipales, en los Poderes Legislativo y Judicial, así como en los Órganos Autónomos, vigilarán que se realicen las acciones necesarias para mantener el equilibrio presupuestal en el caso en que durante el ejercicio de que se trate se presenten situaciones que indiquen que los ingresos reales serán inferiores a los ingresos presupuestados y, por ende, pueden resultar insuficientes para cubrir el Presupuesto de Egresos aprobado.
+La Secretaría de Hacienda en el Poder Ejecutivo; las Tesorerías en los Municipios; y las Unidades Administrativas equivalentes en las Entidades Paraestatales y Paramunicipales, en los Poderes Legislativo y Judicial, así como en los Órganos Autónomos, vigilarán que se realicen las acciones necesarias para mantener el equilibrio presupuestal en el caso en que durante el ejercicio de que se trate se presenten situaciones que indiquen que los ingresos reales serán inferiores a los ingresos presupuestados y, por ende, pueden resultar insuficientes para cubrir el Presupuesto de Egresos aprobado.
 
 ### CAPÍTULO CUARTO
 
@@ -613,9 +661,9 @@ De las Modificaciones a los Presupuestos de Egresos.
 
 Si algunas partidas presupuestales requieren modificarse para adecuar su disponibilidad durante la vigencia del Presupuesto de Egresos, se estará a lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
-I. El Ejecutivo del Estado solicitará por conducto de la Secretaría de Planeación y Finanzas, la autorización del Congreso del Estado, y a su vez, deberá remitir simultáneamente copia de dicha solicitud, al Órgano de Fiscalización Superior del Estado, para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas del Presupuesto de Egresos autorizado a la Administración Pública Centralizada del Poder Ejecutivo, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de las siguientes modificaciones presupuestales, sobre las cuales sólo se deberá dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen:
+I. El Ejecutivo del Estado solicitará por conducto de la Secretaría de Hacienda, la autorización del Congreso del Estado, y a su vez, deberá remitir simultáneamente copia de dicha solicitud, a la Auditoría Superior del Estado de Baja California, para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas del Presupuesto de Egresos autorizado a la Administración Pública Centralizada del Poder Ejecutivo, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de las siguientes modificaciones presupuestales, sobre las cuales sólo se deberá dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen:
 
 a) Cuando se efectúen transferencias entre partidas presupuestales de un mismo ramo y capítulo en el Presupuesto de Egresos respectivo, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio del ejercicio.
 
@@ -623,15 +671,21 @@ b) Cuando se efectúen transferencias de distintos ramos y/o capítulos de gasto
 
 c) Cuando se trate de partidas de ampliación automática a las que se refiere el Artículo 54 de esta Ley.
 
-El Congreso del Estado, resolverá lo procedente, dentro de los treinta días siguientes a la recepción de la solicitud. La falta de respuesta por parte del Congreso del Estado dentro del plazo señalado será una aprobación tácita, salvo que medie requerimiento de información adicional al respecto por parte de éste o de su Órgano de Fiscalización, prorrogándose el plazo en los mismos términos a partir de la recepción de la información requerida, por una sola ocasión, así como en caso de que se susciten situaciones de emergencia, desastre, urgencia, caso fortuito o fuerza mayor cuya afectación, a juicio de la Autoridad competente, imposibilite el debido desarrollo y cumplimiento de las labores parlamentarias que realiza el Congreso del Estado o las funciones del Órgano de Fiscalización; quedando en suspenso el plazo para su resolución hasta en tanto se reanuden las labores respectivas, mismo que no deberá exceder de treinta días naturales, para lo cual, el Congreso del Estado a través de la Comisión correspondiente deberá notificar a la entidad la reactivación del cómputo del plazo para la resolución de su solicitud. En tanto que para efecto de las excepciones señaladas en los incisos a), b) y c) anteriores, el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y al cierre presupuestal del ejercicio.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-Los Titulares de las Entidades Paraestatales ejercerán las modificaciones presupuestales una vez que, en su caso, les hayan sido aprobadas por el Ejecutivo del Estado, debiendo remitir al Congreso del Estado, dentro de los 15 días siguientes a su aprobación, por conducto de la Secretaría de Planeación y Finanzas, la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas del Presupuesto de Egresos autorizado, para conocimiento y revisión de la Cuenta Pública. Misma obligación tendrán cuando se trate de partidas de ampliación automática.
+El Congreso del Estado, resolverá lo procedente, dentro de los treinta días siguientes a la recepción de la solicitud. La falta de respuesta por parte del Congreso del Estado dentro del plazo señalado será una aprobación tácita, salvo que medie requerimiento de información adicional al respecto por parte de éste o de la Auditoría Superior del Estado, prorrogándose el plazo en los mismos términos a partir de la recepción de la información requerida, por una sola ocasión, así como en caso de que se susciten situaciones de emergencia, desastre, urgencia, caso fortuito o fuerza mayor cuya afectación, a juicio de la Autoridad competente, imposibilite el debido desarrollo y cumplimiento de las labores parlamentarias que realiza el Congreso del Estado o las funciones de la Auditoría Superior del Estado; quedando en suspenso el plazo para su resolución hasta en tanto se reanuden las labores respectivas, mismo que no deberá exceder de treinta días naturales, para lo cual, el Congreso del Estado a través de la Comisión correspondiente deberá notificar a la entidad la reactivación del cómputo del plazo para la resolución de su solicitud. En tanto que para efecto de las excepciones señaladas en los incisos a), b) y c) anteriores, el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y al cierre presupuestal del ejercicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-II. El Titular del Poder Judicial solicitará al Congreso del Estado la autorización correspondiente, y a su vez, deberá remitir simultáneamente copia de dicha solicitud, al Órgano de Fiscalización Superior del Estado, para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas de su Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de transferencias presupuestales que se efectúen dentro de un mismo grupo de gastos en el Presupuesto de Egresos, en cuyo caso sólo se deberá dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio del ejercicio. Sobre estas transferencias el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y el cierre presupuestal del ejercicio.
+Los Titulares de las Entidades Paraestatales ejercerán las modificaciones presupuestales una vez que, en su caso, les hayan sido aprobadas por el Ejecutivo del Estado, debiendo remitir al Congreso del Estado, dentro de los 15 días siguientes a su aprobación, por conducto de la Secretaría de Hacienda, la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas del Presupuesto de Egresos autorizado, para conocimiento y revisión de la Cuenta Pública. Misma obligación tendrán cuando se trate de partidas de ampliación automática.
 
-En los casos en que se solicite ampliar el presupuesto autorizado del ejercicio del Poder Judicial, por motivos distintos a los de ampliación automática, la solicitud de autorización deberá acompañarse de la opinión de la Secretaría de Planeación y Finanzas sobre la viabilidad financiera de la propuesta.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
+
+II. El Titular del Poder Judicial solicitará al Congreso del Estado la autorización correspondiente, y a su vez, deberá remitir simultáneamente copia de dicha solicitud, a la Auditoría Superior del Estado de Baja California, para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas de su Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de transferencias presupuestales que se efectúen dentro de un mismo grupo de gastos en el Presupuesto de Egresos, en cuyo caso sólo se deberá dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio del ejercicio. Sobre estas transferencias el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y el cierre presupuestal del ejercicio.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+En los casos en que se solicite ampliar el presupuesto autorizado del ejercicio del Poder Judicial, por motivos distintos a los de ampliación automática, la solicitud de autorización deberá acompañarse de la opinión de la Secretaría de Hacienda sobre la viabilidad financiera de la propuesta.
 
 Para efectos de la resolución del Congreso del Estado se estará a lo dispuesto en el penúltimo párrafo de la fracción I del presente Artículo.
 
@@ -641,13 +695,17 @@ III. Tratándose del Presupuesto de Egresos del Poder Legislativo, las solicitud
 
 Tratándose de transferencias presupuestales que se efectúen dentro de un mismo grupo de gastos del Presupuesto de Egresos, solo deberá dar aviso al Congreso del Estado dentro de los 15 días siguientes a la fecha en que se efectúen, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio de ejercicio. Sobre estas transferencias el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y el cierre presupuestal del ejercicio.
 
-En las modificaciones que contemplen una ampliación al Presupuesto autorizado del ejercicio, por motivos distintos a los considerados de ampliación automática, se deberá obtener la opinión de la Secretaría de Planeación y Finanzas sobre la viabilidad financiera.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+En las modificaciones que contemplen una ampliación al Presupuesto autorizado del ejercicio, por motivos distintos a los considerados de ampliación automática, se deberá obtener la opinión de la Secretaría de Hacienda sobre la viabilidad financiera.
 
 Para efectos de la resolución del Congreso del Estado, se estará a lo dispuesto en el penúltimo párrafo de la fracción I del presente Artículo.
 
 Tratándose de partidas de las consideradas de ampliación automática, deberá darse aviso al Congreso del Estado dentro de los 15 días siguientes a la fecha en que las mismas se efectúen.
 
-IV. El Presidente Municipal y los Titulares de las Entidades Paramunicipales solicitarán, por conducto de la Tesorería Municipal en conjunto con la Sindicatura, la autorización del Ayuntamiento para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas de sus respectivos Presupuestos de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de las siguientes modificaciones presupuestales, sobre las cuales sólo se deberá dar aviso al Ayuntamiento dentro de los quince días siguientes a la fecha en que se efectúen:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
+
+IV. El Presidente Municipal y los Titulares de las Entidades Paramunicipales solicitarán, por conducto de la Tesorería Municipal, la autorización del Ayuntamiento para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas de sus respectivos Presupuestos de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de las siguientes modificaciones presupuestales, sobre las cuales sólo se deberá dar aviso al Ayuntamiento dentro de los quince días siguientes a la fecha en que se efectúen:
 
 a) Cuando se efectúen transferencias entre partidas presupuestales de un mismo ramo y capítulo de gasto en el Presupuesto de Egresos respectivo, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio del ejercicio.
 
@@ -657,13 +715,15 @@ c) Cuando se trate de partidas de ampliación automática a las que se refiere e
 
 El Ayuntamiento resolverá lo procedente, dentro de los treinta días siguientes a la recepción de la solicitud. La falta de respuesta por parte del Ayuntamiento dentro del plazo señalado será una aprobación tácita, salvo que medie requerimiento de información adicional al respecto por parte de éste, prorrogándose el plazo en los mismos términos a partir de la recepción de la información requerida, así como en caso de que se susciten situaciones de emergencia, desastre, urgencia, caso fortuito o fuerza mayor cuya afectación, a juicio de la Autoridad competente, imposibilite el debido desarrollo y cumplimiento de las labores que realiza el Ayuntamiento; quedando en suspenso el plazo para su resolución hasta en tanto se reanuden las labores, mismo que no deberá exceder de treinta días naturales, para lo cual, el Ayuntamiento a través de la Comisión correspondiente, deberá notificar a la entidad la reactivación del cómputo del plazo para la resolución de su solicitud. En tanto que para efecto de las excepciones señaladas en los incisos a), b) y c) anteriores, el Ayuntamiento resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y el cierre presupuestal del ejercicio. Las modificaciones, y en su caso, la certificación del Acuerdo del Ayuntamiento en que se autoricen, deberán ser remitidas dentro de los quince días siguientes al Congreso del Estado para su conocimiento y efectos de revisión de la Cuenta Pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
-V. Los Órganos Autónomos, por conducto de su Titular, solicitarán al Congreso del Estado la autorización correspondiente, y a su vez, deberá remitir simultáneamente copia de dicha solicitud, al Órgano de Fiscalización Superior del Estado, para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas de su Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada.
+V. Los Órganos Autónomos, por conducto de su Titular, solicitarán al Congreso del Estado la autorización correspondiente, y a su vez, deberá remitir simultáneamente copia de dicha solicitud, a la Auditoría Superior del Estado de Baja California, para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas de su Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada.
 
 Tratándose de transferencias presupuestales que se efectúen dentro de un mismo grupo de gastos del Presupuesto de Egresos, sólo deberá dar aviso al Congreso del Estado dentro de los 15 días siguientes a la fecha en que se efectúen, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio de ejercicio. Sobre estas transferencias el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y el cierre presupuestal del ejercicio.
 
-En los casos en que se solicite ampliar el Presupuesto autorizado del ejercicio a los Órganos Autónomos, por motivos distintos a los de ampliación automática, la solicitud de autorización deberá acompañarse de la opinión de la Secretaría de Planeación y Finanzas sobre la viabilidad financiera de la propuesta.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+En los casos en que se solicite ampliar el Presupuesto autorizado del ejercicio a los Órganos Autónomos, por motivos distintos a los de ampliación automática, la solicitud de autorización deberá acompañarse de la opinión de la Secretaría de Hacienda sobre la viabilidad financiera de la propuesta.
 
 Para efectos de la resolución del Congreso del Estado se estará a lo dispuesto en el penúltimo párrafo de la fracción I del presente Artículo.
 
@@ -709,11 +769,15 @@ Del Ejercicio del Gasto Público.
 
 El ejercicio del gasto público comprende el manejo y aplicación de los recursos con perspectiva de equidad de género, así como su justificación, comprobación y pago, con base en el Presupuesto de Egresos aprobado.
 
-Para tales efectos, la Secretaría de Planeación y Finanzas, las Tesorerías Municipales y las Unidades Administrativas equivalentes de las Entidades, Poderes Legislativo y Judicial, así como de los Órganos Autónomos, llevarán el control presupuestal establecido en el Capítulo Tercero del presente Título.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+Para tales efectos, la Secretaría de Hacienda, las Tesorerías Municipales y las Unidades Administrativas equivalentes de las Entidades, Poderes Legislativo y Judicial, así como de los Órganos Autónomos, llevarán el control presupuestal establecido en el Capítulo Tercero del presente Título.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 57.
 
-Para la ejecución del gasto público, las Dependencias y Entidades del Poder Ejecutivo y de los Municipios, deberán sujetarse a las prevenciones de esta Ley y observarán las disposiciones que al efecto expidan la Oficialía Mayor, la Secretaría de Planeación y Finanzas y las Tesorerías Municipales, dentro de sus respectivos ámbitos de competencia, así como en lo conducente, en la Ley General de Contabilidad y la normatividad que emita el CONAC.
+Para la ejecución del gasto público, las Dependencias y Entidades del Poder Ejecutivo y de los Municipios, deberán sujetarse a las prevenciones de esta Ley y observarán las disposiciones que al efecto expidan la Secretaría de Hacienda y las Tesorerías Municipales, dentro de sus respectivos ámbitos de competencia, así como en lo conducente, en la Ley General de Contabilidad y la normatividad que emita el CONAC.
 
 Los Poderes Legislativo y Judicial, así como los Órganos Autónomos atenderán las disposiciones expedidas por sus respectivas Unidades Administrativas equivalentes a las señaladas en el párrafo anterior.
 
@@ -721,11 +785,11 @@ Los Poderes Legislativo y Judicial, así como los Órganos Autónomos atenderán
 
 Los sujetos de la presente Ley sólo podrán ejercer el Presupuesto de Egresos que les haya sido aprobado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 59.
 
-Toda erogación a cargo de los Presupuestos de Egresos de los sujetos de la presente Ley deberá ser indispensable, con enfoque de género, normal y propia de quien los realiza, de aplicación estricta al ramo, capítulo, concepto y partida al que corresponda, y ajustada a la descripción de la partida contra la cual se realiza el cargo. La comprobación del gasto público se efectuará con la documentación original que demuestre la entrega del pago correspondiente y que reúna los requisitos que establecen las disposiciones fiscales y las reglas generales que emitan la Secretaría de Planeación y Finanzas, las Tesorerías Municipales y las Unidades Administrativas equivalentes, en el ámbito de sus respectivas competencias, las cuales se harán del conocimiento del Congreso del Estado para los efectos de la revisión de la Cuenta Pública.
+Toda erogación a cargo de los Presupuestos de Egresos de los sujetos de la presente Ley deberá ser indispensable, con enfoque de género, normal y propia de quien los realiza, de aplicación estricta al ramo, capítulo, concepto y partida al que corresponda, y ajustada a la descripción de la partida contra la cual se realiza el cargo. La comprobación del gasto público se efectuará con la documentación original que demuestre la entrega del pago correspondiente y que reúna los requisitos que establecen las disposiciones fiscales y las reglas generales que emitan la Secretaría de Hacienda, las Tesorerías Municipales y las Unidades Administrativas equivalentes, en el ámbito de sus respectivas competencias, las cuales se harán del conocimiento del Congreso del Estado para los efectos de la revisión de la Cuenta Pública.
 
 Una erogación se entenderá justificada cuando se destine a lograr los programas autorizados y existan las disposiciones y documentos legales que determinen el compromiso u obligación de hacer el pago, y que además exista la evidencia de haber sido tramitada ante las instancias facultadas para dotar de los recursos humanos, materiales o financieros.
 
@@ -735,9 +799,11 @@ Así mismo, la Entidad tendrá la obligación de verificar que los documentos co
 
 Toda erogación o gasto público deberá contar con saldo suficiente en la partida del Presupuesto de Egresos respectivo y su ejercicio se sujetará a los requisitos que se establezcan en la normatividad respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 61.
 
-La Secretaría de Planeación y Finanzas, así como las Tesorerías Municipales, en el ámbito de sus respectivas competencias, serán las encargadas de recaudar los ingresos de las Dependencias, y efectuar los pagos que requieran éstas para hacer frente al ejercicio del gasto público establecido en el Presupuesto de Egresos.
+La Secretaría de Hacienda, así como las Tesorerías Municipales, en el ámbito de sus respectivas competencias, serán las encargadas de recaudar los ingresos de las Dependencias, y efectuar los pagos que requieran éstas para hacer frente al ejercicio del gasto público establecido en el Presupuesto de Egresos.
 
 Las Entidades manejarán sus fondos y efectuarán sus pagos a través de sus Tesorerías o Unidades Administrativas equivalentes que para el efecto establezcan. Misma disposición aplicará tratándose de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos.
 
@@ -767,9 +833,11 @@ Las asignaciones consignadas en los Presupuestos de Egresos aprobados a los suje
 
 En el ejercicio fiscal que resulte excedente de ingresos sobre egresos, cualquiera que sea la causa de éste, de las Entidades que reciben subsidio o aportación de las Administraciones Públicas Centralizadas del Poder Ejecutivo y de los Municipios, se aplicará a cuenta del subsidio o aportación que les corresponda en el siguiente ejercicio fiscal, cuando no sean reprogramados y ejercidos en el mismo ejercicio.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 65.
 
-El Ejecutivo del Estado y los Ayuntamientos determinarán la forma en que deberán invertirse los subsidios que se otorguen a las Entidades, instituciones públicas o privadas y particulares, quienes proporcionarán a la Dirección de Control y Evaluación Gubernamental o a la Sindicatura Municipal, según corresponda, la información que se les solicite sobre la aplicación de los mismos.
+El Ejecutivo del Estado y los Ayuntamientos determinarán la forma en que deberán invertirse los subsidios que se otorguen a las Entidades, instituciones públicas o privadas y particulares, quienes proporcionarán a la Secretaría de la Honestidad y Función Pública o a la Sindicatura Municipal, según corresponda, la información que se les solicite sobre la aplicación de los mismos.
 
 ###### ARTÍCULO 66.
 
@@ -777,25 +845,35 @@ Las inversiones en obra pública que realicen los sujetos de esta Ley se apegar�
 
 En los informes de avance de gestión y en los de cierre del ejercicio contable y presupuestal a que obliga esta Ley, deberá formularse la debida conciliación del programa anual de obra pública con respecto a los recursos autorizados, los ejercidos y los comprometidos.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 67.
 
-La contratación y pago de deuda pública estará sujeta a lo establecido en la Ley de Deuda Pública del Estado de Baja California y sus Municipios.
+La contratación y pago de deuda pública estará sujeta a lo establecido en la Ley que Regula los Financiamientos y Obligaciones para la Disciplina Financiera del Estado de Baja California y sus Municipios.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 68.
 
-Cuando así se requiera, el Ejecutivo del Estado y los Ayuntamientos podrán disponer que los fondos y pagos correspondientes a las Entidades Paraestatales o Paramunicipales que reciban subsidios con cargo al Presupuesto de Egresos de las Administraciones Públicas Centralizadas del Poder Ejecutivo del Estado y de los Municipios, se manejen eventual o permanentemente por la Secretaría de Planeación y Finanzas o por las Tesorerías Municipales, respectivamente.
+Cuando así se requiera, el Ejecutivo del Estado y los Ayuntamientos podrán disponer que los fondos y pagos correspondientes a las Entidades Paraestatales o Paramunicipales que reciban subsidios con cargo al Presupuesto de Egresos de las Administraciones Públicas Centralizadas del Poder Ejecutivo del Estado y de los Municipios, se manejen eventual o permanentemente por la Secretaría de Hacienda o por las Tesorerías Municipales, respectivamente.
 
-Para efectos de la revisión de la Cuenta Pública correspondiente, el Ejecutivo del Estado y los Ayuntamientos, por conducto de la Secretaría de Planeación y Finanzas o de las Tesorerías Municipales, según corresponda, deberán dar aviso al Congreso del Estado de cualquier resolución tomada al amparo de lo señalado en el párrafo anterior, dentro de los 15 días siguientes a la fecha en que ello ocurra.
+Para efectos de la revisión de la Cuenta Pública correspondiente, el Ejecutivo del Estado y los Ayuntamientos, por conducto de la Secretaría de Hacienda o de las Tesorerías Municipales, según corresponda, deberán dar aviso al Congreso del Estado de cualquier resolución tomada al amparo de lo señalado en el párrafo anterior, dentro de los 15 días siguientes a la fecha en que ello ocurra.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 69.
 
-Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá hacer pagos con cargo al mismo por los conceptos efectivamente devengados en el año que corresponda y siempre que estén debidamente registrados contable y presupuestalmente al 31 de diciembre del ejercicio correspondiente, o por operaciones determinadas en el ámbito de su competencia por la Dirección de Control y Evaluación Gubernamental del Poder Ejecutivo del Estado, por las Sindicaturas Municipales y por los Órganos de Control de los demás sujetos de esta Ley, resultantes de las atribuciones de vigilancia y verificación del gasto público dispuestas por el Título Quinto de esta Ley; así como las determinadas por el Órgano de Fiscalización Superior resultantes de las atribuciones de fiscalización de las Cuentas Públicas de conformidad con las Leyes aplicables en la materia.
+Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá hacer pagos con cargo al mismo por los conceptos efectivamente devengados en el año que corresponda y siempre que estén debidamente registrados contable y presupuestalmente al 31 de diciembre del ejercicio correspondiente, o por operaciones determinadas en el ámbito de su competencia por la Secretaría de la Honestidad y la Función Pública, por las Sindicaturas Municipales y por los Órganos de Control de los demás sujetos de esta Ley, resultantes de las atribuciones de vigilancia y verificación del gasto público dispuestas por el Título Quinto de esta Ley; así como las determinadas por la Auditoría Superior del Estado de Baja California resultantes de las atribuciones de fiscalización de las Cuentas Públicas de conformidad con las Leyes aplicables en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 70.
 
-La Oficialía Mayor del Poder Ejecutivo del Estado y la de los Municipios, en el ámbito de su competencia, serán responsables de que se lleve un registro del personal de las Dependencias de las Administraciones Públicas Centralizadas y de las Entidades de las Administraciones Públicas Descentralizadas.
+La Secretaría de Hacienda y los Municipios, a través de su Oficialía Mayor, en el ámbito de su competencia, serán responsables de que se lleve un registro del personal de las Dependencias de las Administraciones Públicas Centralizadas y de las Entidades de las Administraciones Públicas Descentralizadas.
 
-La Oficialía Mayor del Poder Ejecutivo del Estado informará a la Secretaría de Planeación y Finanzas y a la Dirección de Control y Evaluación Gubernamental y, así mismo, la Oficialía Mayor de los Municipios, a la Tesorería y a la Sindicatura Municipal, cuando se lo soliciten, sobre el registro del personal a que se refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+La Oficialía Mayor de la Secretaría de Hacienda informará a la Secretaría de la Honestidad y la Función Pública y, así mismo, la Oficialía Mayor de los Municipios, a la Tesorería y a la Sindicatura Municipal, cuando se lo soliciten, sobre el registro del personal a que se refiere el párrafo anterior.
 
 En los Poderes Legislativo y Judicial así como en los Órganos Autónomos, igual responsabilidad de mantener un registro de personal tendrán las Unidades Administrativas equivalentes a las mencionadas en el párrafo anterior.
 
@@ -831,6 +909,8 @@ Las operaciones transitorias no formarán parte del Presupuesto de Ingresos y Eg
 
 De las Erogaciones Plurianuales.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 73.
 
 Los sujetos de la presente Ley podrán celebrar contratos plurianuales, siempre que:
@@ -845,15 +925,21 @@ IV. No se ponga en evidente peligro el equilibrio financiero de los presupuestos
 
 V. Se estipulen los tipos de instrumentos legales a través de los cuales se formalizará la contratación;
 
-VI. Se cuente, tratándose de los Poderes Ejecutivo, Legislativo y Judicial, así como de los Órganos Autónomos, con la opinión sobre la viabilidad financiera por parte de la Secretaría de Planeación y Finanzas y, en los casos de los Municipios, incluyendo sus Entidades Paramunicipales, con la de sus respectivas Tesorerías Municipales;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+
+VI. Se cuente. tratándose de los Poderes Ejecutivo, Legislativo y Judicial, así como de los Órganos Autónomos, con la opinión sobre la viabilidad financiera por parte de la Secretaría de Hacienda y, en los casos de los Municipios, incluyendo sus Entidades Paramunicipales, con la de sus respectivas Tesorerías Municipales;
 
 VII. Se solicite y obtenga autorización del Congreso del Estado; y,
 
 VIII. Se cumpla, en todos los casos, con lo establecido en la Ley de Obras Públicas, Equipamientos, Suministros y Servicios Relacionados con la Misma y en la Ley de Adquisiciones, Arrendamientos y Servicios y sus respectivos Reglamentos, así como en otras disposiciones legales que sean aplicables.
 
-Con base en lo previsto en el presente Artículo, la Secretaría de Planeación y Finanzas y las Tesorerías Municipales, en el ámbito de sus respectivas competencias, formularán los lineamientos presupuestarios específicos, los que someterán a la autorización del Ejecutivo del Estado y de los Ayuntamientos, respectivamente, debiendo remitirlos en un plazo de 10 días contados a partir de su autorización al Congreso del Estado, para efectos de sus atribuciones de fiscalización de las Cuentas Públicas.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-Quienes realicen los contratos plurianuales a que se refiere este Artículo, deberán informar al Órgano de Fiscalización Superior del Estado de Baja California y a sus respectivos Órganos de Control, sobre la celebración de los mismos dentro de los 15 días posteriores a su formalización.
+Con base en lo previsto en el presente Artículo, la Secretaría de Hacienda y las Tesorerías Municipales, en el ámbito de sus respectivas competencias, formularán los lineamientos presupuestarios específicos, los que someterán a la autorización del Ejecutivo del Estado y de los Ayuntamientos, respectivamente, debiendo remitirlos en un plazo de 10 días contados a partir de su autorización al Congreso del Estado, para efectos de sus atribuciones de fiscalización de las Cuentas Públicas.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+Quienes realicen los contratos plurianuales a que se refiere este Artículo, deberán informar a la Auditoría Superior del Estado de Baja California y a sus respectivos Órganos de Control, sobre la celebración de los mismos dentro de los 15 días posteriores a su formalización.
 
 Los montos de las erogaciones plurianuales contratadas al amparo del presente Artículo deberán ser incorporados en los Presupuestos de Egresos de los ejercicios subsecuentes, debiendo ser presentado el estado que guardan las mismas en los procesos de autorización de dichos Presupuestos.
 
@@ -871,7 +957,9 @@ Del Sistema de Evaluación del Desempeño.
 
 El Sistema de Evaluación del Desempeño es el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño, de los programas mediante la verificación del grado de cumplimiento de políticas públicas, programas, objetivos y metas, con base en indicadores de gestión y de género que permitan conocer su impacto económico, social e institucional, así como la población objetivo y la atendida por dichos programas, desagregada por sexo y grupo de edad.
 
-La Secretaría de Planeación y Finanzas en el Poder Ejecutivo, las Tesorerías Municipales en los Municipios, y las Unidades Administrativas equivalentes en los demás sujetos de esta Ley, deberán establecer, en sus respectivos ámbitos de competencia, el Sistema de Evaluación del Desempeño a que se refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+La Secretaría de Hacienda en el Poder Ejecutivo, las Tesorerías Municipales en los Municipios, y las Unidades Administrativas equivalentes en los demás sujetos de esta Ley, deberán establecer, en sus respectivos ámbitos de competencia, el Sistema de Evaluación del Desempeño a que se refiere el párrafo anterior.
 
 Para tales efectos, se sujetarán a las disposiciones generales previstas en el presente Capítulo.
 
@@ -919,21 +1007,25 @@ Los resultados de la Evaluación del Desempeño deberán ser considerados en la 
 
 De la Evaluación del Gasto Público.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 80.
 
-La Secretaría de Planeación y Finanzas, las Tesorerías Municipales y las Unidades Administrativas equivalentes en las Entidades Paraestatales y Paramunicipales, en los Poderes Legislativo, Judicial, así como en los Órganos Autónomos, proporcionarán a la Dirección de Control y Evaluación Gubernamental, a las Sindicaturas Municipales y a las Unidades de Control de los Poderes Legislativo, Judicial, así como de los Órganos Autónomos, en sus respectivos ámbitos de competencia y con la periodicidad que se les solicite, la información contable, financiera y de otra índole necesaria para la evaluación de la programación y presupuestación del gasto público.
+La Secretaría de Hacienda, las Tesorerías Municipales y las Unidades Administrativas equivalentes en las Entidades Paraestatales y Paramunicipales, en los Poderes Legislativo, Judicial, así como en los Órganos Autónomos, proporcionarán a la Secretaría de la Honestidad y la Función Pública, a las Sindicaturas Municipales y a las Unidades de Control de los Poderes Legislativo, Judicial, así como de los Órganos Autónomos, en sus respectivos ámbitos de competencia y con la periodicidad que se les solicite, la información contable, financiera y de otra índole necesaria para la evaluación de la programación y presupuestación del gasto público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 81.
 
-Sin perjuicio de lo señalado en el Artículo 74 de la presente Ley, la Secretaría de Planeación y Finanzas en coordinación con la Dirección de Control y Evaluación Gubernamental, y las Tesorerías Municipales en coordinación con las Sindicaturas Municipales podrán realizar en cualquier momento la evaluación del ejercicio del gasto público, en función de los objetivos y metas de los programas autorizados, que comprenderá el seguimiento de los avances físicos y financieros que vayan presentando periódicamente los programas anuales aprobados, a efecto de medir el grado de cumplimiento de sus objetivos y metas, así como el de la perspectiva de equidad de género.
+Sin perjuicio de lo señalado en el Artículo 74 de la presente Ley, la Secretaría de Hacienda en coordinación con la Secretaría de la Honestidad y la Función Pública, y las Tesorerías Municipales en coordinación con las Sindicaturas Municipales podrán realizar en cualquier momento la evaluación del ejercicio del gasto público, en función de los objetivos y metas de los programas autorizados, que comprenderá el seguimiento de los avances físicos y financieros que vayan presentando periódicamente los programas anuales aprobados, a efecto de medir el grado de cumplimiento de sus objetivos y metas, así como el de la perspectiva de equidad de género.
 
 En los Poderes Legislativo y Judicial y en los Órganos Autónomos, el cumplimiento de lo dispuesto por este Artículo recaerá en las Unidades Administrativas equivalentes a las mencionadas en el mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 82.
 
-Para efectos de la evaluación y fiscalización del gasto público, el Ejecutivo del Estado, a través de la Secretaría de Planeación y Finanzas, los Ayuntamientos, por conducto de los Presidentes Municipales, y los Titulares de las Entidades Paraestatales y Paramunicipales, del Poder Judicial, así como de los Órganos Autónomos, deberán remitir al Congreso del Estado, la información financiera que a continuación se señala:
+Para efectos de la evaluación y fiscalización del gasto público, el Ejecutivo del Estado, a través de la Secretaría de Hacienda, los Ayuntamientos, por conducto de los Presidentes Municipales, y los Titulares de las Entidades Paraestatales y Paramunicipales, del Poder Judicial, así como de los Órganos Autónomos, deberán remitir al Congreso del Estado, la información financiera que a continuación se señala:
 
 I. A más tardar el último día hábil de los meses de abril, julio y octubre del ejercicio en curso, la relativa a los trimestres primero, segundo y tercero, respectivamente:
 
@@ -973,7 +1065,9 @@ c. Indicadores de resultados.
 
 La información correspondiente al cuarto trimestre del ejercicio de que se trate, deberá enviarse junto con la Cuenta Pública, a más tardar el último día hábil del mes de marzo del año posterior al que corresponda la Cuenta Publica Anual.
 
-II. Adicionalmente a lo anterior, los sujetos obligados de esta Ley deberán mantener a disposición del Órgano de Fiscalización la siguiente información:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
+
+II. Adicionalmente a lo anterior, los sujetos obligados de esta Ley deberán mantener a disposición de la Auditoría Superior del Estado de Baja California la siguiente información:
 
 a. La Conciliación de los ingresos y egresos contables con relación a los ingresos y egresos presupuestales;
 
@@ -987,11 +1081,15 @@ e. El archivo de pólizas contables; y,
 
 f. Tratándose del Ejecutivo del Estado y los Municipios, el libramiento u orden de pago, del total de las erogaciones efectuadas en cada mes que integra el ejercicio fiscal, suscrito por los funcionarios responsables del manejo de fondos.
 
-La información a que se refiere este Artículo deberá ser presentada, además de forma impresa, en dispositivos electrónicos de almacenamiento de datos de uso común, cuando así sea solicitado por el Órgano de Fiscalización, con excepción de la prevista en los incisos d y e de la fracción II, en cuyo caso sólo procederá presentarla en dispositivos electrónicos.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+La información a que se refiere este Artículo deberá ser presentada, además de forma impresa, en dispositivos electrónicos de almacenamiento de datos de uso común, cuando así sea solicitado por la Auditoría Superior del Estado de Baja California, con excepción de la prevista en los incisos d y e de la fracción II, en cuyo caso sólo procederá presentarla en dispositivos electrónicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 83.
 
-La Secretaría de Planeación y finanzas en coordinación con la Dirección de Control y Evaluación Gubernamental, y las Tesorerías Municipales, en coordinación con las Sindicaturas Municipales, establecerán las disposiciones administrativas que se requieran para el seguimiento y evaluación de los programas que realicen las Dependencias y Entidades del Poder Ejecutivo del Estado y de los Municipios, respectivamente.
+La Secretaría de Hacienda en coordinación con la Secretaría de la Honestidad y la Función Pública, y las Tesorerías Municipales, en coordinación con las Sindicaturas Municipales, establecerán las disposiciones administrativas que se requieran para el seguimiento y evaluación de los programas que realicen las Dependencias y Entidades del Poder Ejecutivo del Estado y de los Municipios, respectivamente.
 
 Tratándose de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos, el cumplimiento de lo dispuesto por este Artículo recaerá en las Unidades Administrativas equivalentes a las mencionadas en el mismo.
 
@@ -999,31 +1097,33 @@ Tratándose de los Poderes Legislativo y Judicial, así como de los Órganos Aut
 
 Internamente, las Dependencias y Entidades del Poder Ejecutivo y de los Municipios, así como las Unidades Administrativas que conforman los Poderes Legislativo, Judicial, así como de los Órganos Autónomos, deberán incorporar indicadores de gestión en sus programas y subprogramas, a efecto de cuantificar los objetivos, metas y beneficios alcanzados, mejorar la utilización de los recursos, controlar los avances y desviaciones e instrumentar con oportunidad las medidas correctivas que racionalicen la aplicación del gasto en la procuración de mantener el equilibrio presupuestal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 85.
 
-Para efecto de evaluación del Gasto Público y del Presupuesto de
-
-Egresos, las Dependencias y Entidades del Poder Ejecutivo y de los Municipios, deberán proporcionar a la Secretaría de Planeación y Finanzas y a la Dirección de
-
-Control y Evaluación Gubernamental, y a las Tesorerías Municipales y Sindicaturas Municipales, respectivamente, la información adicional a la presentada periódicamente que les sea solicitada, en los términos de sus atribuciones y ámbitos de competencia.
+Para efecto de evaluación del Gasto Público y del Presupuesto de Egresos, las Dependencias y Entidades del Poder Ejecutivo y de los Municipios, deberán proporcionar a la Secretaría de Hacienda y a la Secretaría de la Honestidad y la Función Pública, y a las Tesorerías Municipales y Sindicaturas Municipales, respectivamente, la información adicional a la presentada periódicamente que les sea solicitada, en los términos de sus atribuciones y ámbitos de competencia.
 
 La obligación prevista en el presente Artículo será atendida por los Poderes Legislativo y Judicial, así como por los Órganos Autónomos, ante las Unidades Administrativas equivalentes a las mencionadas en el mismo.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 86.
 
-En los casos en que las Dependencias, Entidades, Poderes Legislativo y Judicial, así como los Órganos Autónomos no proporcionen la información a que se refiere el Artículo anterior, la Secretaría de Planeación y Finanzas, las Tesorerías Municipales y las Unidades Administrativas equivalentes, en sus ámbitos de competencia, podrán solicitar la intervención de sus respectivos Órganos de Control en los términos de la legislación aplicable.
+En los casos en que las Dependencias, Entidades, Poderes Legislativo y Judicial, así como los Órganos Autónomos no proporcionen la información a que se refiere el Artículo anterior, la Secretaría de Hacienda, las Tesorerías Municipales y las Unidades Administrativas equivalentes, en sus ámbitos de competencia, podrán solicitar la intervención de sus respectivos Órganos de Control en los términos de la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 87.
 
-La Secretaría de Planeación y Finanzas y las Tesorerías Municipales tendrán la obligación de informar trimestralmente al Ejecutivo del Estado y a los Ayuntamientos, respectivamente, sobre los resultados del seguimiento y evaluación del grado de avance físico y financiero, con base a indicadores de gestión, e indicadores para resultados con perspectiva de equidad de género, de los programas autorizados en los Presupuestos de Egresos de las Dependencias y Entidades del Poder Ejecutivo y de los Municipios, respectivamente.
+La Secretaría de Hacienda y las Tesorerías Municipales tendrán la obligación de informar trimestralmente al Ejecutivo del Estado y a los Ayuntamientos, respectivamente, sobre los resultados del seguimiento y evaluación del grado de avance físico y financiero, con base a indicadores de gestión, e indicadores para resultados con perspectiva de equidad de género, de los programas autorizados en los Presupuestos de Egresos de las Dependencias y Entidades del Poder Ejecutivo y de los Municipios, respectivamente.
 
 Tratándose de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos, el cumplimiento de lo dispuesto por este Artículo corresponderá a las Unidades Administrativas equivalentes a las mencionadas en el mismo, debiendo proporcionar la información referida a sus respectivos Titulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 88.
 
-La Dirección de Control y Evaluación Gubernamental y las Sindicaturas Municipales tendrán la obligación de informar al Ejecutivo del Estado y a los Presidentes Municipales, del resultado de las auditorías, visitas e inspecciones, que para verificar el cumplimiento de los programas y de las normas en el ejercicio del gasto público, realicen a las Dependencias y Entidades.
+La Secretaría de la Honestidad y la Función Pública y las Sindicaturas Municipales tendrán la obligación de informar al Ejecutivo del Estado y a los Presidentes Municipales, respectivamente, del resultado de las auditorías, visitas e inspecciones, que para verificar el cumplimiento de los programas y de las normas en el ejercicio del gasto público, realicen a las Dependencias y Entidades.
 
 Tendrán la misma obligación los Órganos de Control de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos, con los Titulares de los mismos.
 
@@ -1037,21 +1137,27 @@ Los Órganos de Control de los sujetos de esta Ley, en sus respectivos ámbitos 
 
 En los mismos términos, los órganos de control de los sujetos de esta ley, verificarán que el ejercicio del gasto público se haya ejercido con perspectiva de equidad de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 90.
 
-Las Dependencias del Poder Ejecutivo y de los Municipios y las Entidades Paraestatales y Paramunicipales que efectúen gasto público, estarán obligadas a proporcionar a la Secretaría de Planeación y Finanzas y a la Dirección de Control y Evaluación Gubernamental, y a las Tesorerías y Sindicaturas Municipales, según corresponda, la información que les soliciten, dentro de sus ámbitos de competencia, para la comprobación del cumplimiento de las obligaciones derivadas de esta Ley y de las disposiciones expedidas con base en ella.
+Las Dependencias del Poder Ejecutivo y de los Municipios y las Entidades Paraestatales y Paramunicipales que efectúen gasto público, estarán obligadas a proporcionar a la Secretaría de Hacienda y a la Secretaría de la Honestidad y la Función Pública, y a las Tesorerías y Sindicaturas Municipales, según corresponda, la información que les soliciten, dentro de sus ámbitos de competencia, para la comprobación del cumplimiento de las obligaciones derivadas de esta Ley y de las disposiciones expedidas con base en ella.
 
 Igual obligación se tendrá en los Poderes Legislativo y Judicial, así como en los Órganos Autónomos, con las Unidades Administrativas equivalentes a las mencionadas en el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 91.
 
-Sin detrimento de lo que establezcan otras disposiciones legales aplicables, la Secretaría de Planeación y Finanzas, la Dirección de Control y Evaluación Gubernamental y las Tesorerías y Sindicaturas Municipales, ejercerán sus atribuciones de vigilancia y verificación del gasto público que ejerzan las Dependencias y Entidades, con objeto de promover la eficiencia en sus operaciones y comprobar el cumplimiento, por parte de las mismas, de las disposiciones legales en vigor y la consecución de los objetivos y metas trazados en sus respectivos programas.
+Sin detrimento de lo que establezcan otras disposiciones legales aplicables, la Secretaría de Hacienda, la Secretaría de la Honestidad y de la Función Pública y las Tesorerías y Sindicaturas Municipales, ejercerán sus atribuciones de vigilancia y verificación del gasto público que ejerzan las Dependencias y Entidades, con objeto de promover la eficiencia en sus operaciones y comprobar el cumplimiento, por parte de las mismas, de las disposiciones legales en vigor y la consecución de los objetivos y metas trazados (sic) en sus respectivos programas.
 
 Igual atribución tendrán los Órganos de Control de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 92.
 
-La Dirección de Control y Evaluación Gubernamental y las Sindicaturas Municipales realizarán las visitas, inspecciones y auditorías en forma directa, o bien, requerir del auxilio de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas, y de la Oficialía Mayor y de las Tesorerías Municipales, en sus respectivos ámbitos de competencia, con el objeto de verificar la correcta aplicación de los recursos y comprobar el cumplimiento de los programas, o proveer lo necesario en caso de incumplimiento de los mismos.
+La Secretaría de la Honestidad y de la Función Pública y las Sindicaturas Municipales realizarán las visitas, inspecciones y auditorías en forma directa, o bien, requerir del auxilio de la Secretaría de Hacienda y de la Oficialía Mayor y de las Tesorerías Municipales, en sus respectivos ámbitos de competencia, con el objeto de verificar la correcta aplicación de los recursos y comprobar el cumplimiento de los programas, o proveer lo necesario en caso de incumplimiento de los mismos.
 
 Igual atribución tendrán los Órganos de Control de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos.
 
@@ -1119,11 +1225,13 @@ IX. El programa anual de evaluaciones, así como las metodologías e indicadores
 
 Así como, una vez concluidas las evaluaciones, los resultados de las mismas, e informar sobre las personas que realizaron dichas evaluaciones, a más tardar a los 30 días posteriores a su conclusión.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+ARTÍCULO 92 TER.- La Secretaría de Hacienda del Poder Ejecutivo, las tesorerías de los municipios y las unidades Administrativas de los Órganos Autónomos establecerán en sus páginas de Internet, enlaces electrónicos que permitan acceder a la información financiera de todos los entes públicos que conforman el correspondiente orden de gobierno, así como a los órganos o instancias de transparencia competentes.
+
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-ARTÍCULO 92 TER.- La Secretaría de Planeación y Finanzas del Poder Ejecutivo, las tesorerías de los municipios y las unidades Administrativas de los Órganos Autónomos establecerán en sus páginas de Internet, enlaces electrónicos que permitan acceder a la información financiera de todos los entes públicos que conforman el correspondiente orden de gobierno, así como a los órganos o instancias de transparencia competentes.
-
-La Secretaría de Planeación y Finanzas del Poder Ejecutivo, podrá incluir en su página de Internet, previo convenio administrativo, la información financiera de los municipios del Estado.
+La Secretaría de Hacienda del Poder Ejecutivo, podrá incluir en su página de Internet, previo convenio administrativo, la información financiera de los municipios del Estado.
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2013)</small>
 
@@ -1143,17 +1251,27 @@ Dicha información podrá complementar la que otros ordenamientos jurídicos apl
 
 Se crea el Consejo Estatal para la Armonización Contable en Baja California como una instancia técnica de coordinación para la armonización de la contabilidad gubernamental de los diversos entes públicos locales en la Entidad, encargado de la difusión y aplicación de las normas contables y lineamientos emitidos para la armonización contable en el Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 94.
 
 El Consejo se integrará de la forma siguiente:
 
-I.- El Poder Ejecutivo por conducto del Secretario de Planeación y Finanzas del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
 
-II.- El Subsecretario de Finanzas de la Secretaría de Planeación y Finanzas, quien fungirá como Secretario Técnico;
+I.- El Poder Ejecutivo por conducto del Secretario de Hacienda del Estado, quien lo presidirá;
 
-III.-El Subsecretario de Planeación y Presupuesto, de la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
 
-IV.- El Subsecretario de Innovación y Modernización de la Secretaría de Planeación y Finanzas;
+II.- El Subsecretario de la Secretaría de Hacienda, quien fungirá como Secretario Técnico;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+
+III.-EI (sic) Subsecretario de Ingresos de la Secretaría de Hacienda.
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+
+IV.- El Subsecretario de Tecnologías de Información y Comunicaciones de la Secretaría de Hacienda.
 
 V.- Un representante del Poder Legislativo del Estado;
 
@@ -1163,9 +1281,13 @@ VII.- Un representante de cada uno de los Órganos Autónomos;
 
 VIII.- Un representante de cada uno de los Municipios del Estado de Baja California;
 
-IX.- Un representante del Órgano de Fiscalización Superior del Estado de Baja California; y,
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
 
-X.- El Director de Control y Evaluación Gubernamental del Gobierno del Estado de Baja California.
+IX.- Un representante de la Auditoría Superior del Estado de Baja California; y,
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+
+X.-La (sic) Secretaría de la Honestidad y de la Función Pública del Gobierno del Estado de Baja California.
 
 El Consejo podrá nombrar a un Prosecretario a efecto de que auxilie al Secretario Técnico en sus funciones.
 
@@ -1175,9 +1297,9 @@ Los integrantes del Consejo tendrán derecho a voz y voto, a excepción de los m
 
 Cada integrante propietario deberá designar a un suplente, debiéndose comunicar por escrito dicha designación al Presidente del Consejo.
 
-Cuando el Gobernador del Estado asista a las sesiones del Consejo, fungirá como
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-Presidente del mismo, siendo en dicho caso el Secretario de Planeación y Finanzas un integrante más del Consejo, el cual únicamente tendrá derecho a voz.
+Cuando el Gobernador del Estado asista a las sesiones del Consejo, fungirá como Presidente del mismo, siendo en dicho caso el Secretario de Hacienda un integrante más del Consejo, el cual únicamente tendrá derecho a voz.
 
 ###### ARTÍCULO 96.
 
@@ -1209,9 +1331,11 @@ XII.- Las demás que sean necesarias para el cumplimiento de su objeto.
 
 ## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 97.
 
-El incumplimiento de las disposiciones de la presente Ley, y de las que de ella se deriven, será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California y de lo dispuesto en este Título.
+El incumplimiento de las disposiciones de la presente Ley, y de las que de ella se deriven, será sancionado en los términos de la Ley de Responsabilidades Administrativas del Estado de Baja California y de lo dispuesto en este Título.
 
 ###### ARTÍCULO 98.
 
@@ -1223,7 +1347,9 @@ II. Pliego de observaciones o de responsabilidades que emitan:
 
 a) Los Órganos de Control con motivo de las revisiones realizadas conforme a sus atribuciones; y,
 
-b) El Órgano de Fiscalización Superior del Estado, en los términos de la Ley de la materia.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+b) La Auditoría Superior del Estado de Baja California, en los términos de la Ley de la materia.
 
 ###### ARTÍCULO 99.
 
@@ -1334,3 +1460,9 @@ P.O. 12 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 200 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 12 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 > <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O. 7 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 223 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA CON PROYECTO DE DECRETO POR LA QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
