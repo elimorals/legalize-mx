@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-97205
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2021-04-06"
+last_updated: "2021-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de diciembre de 2013.
 
@@ -813,7 +813,9 @@ XI. Impulso a la cultura y al desarrollo de las formas específicas de organizac
 
 XII. Promoción del empleo productivo, incluyendo el impulso a la seguridad social y a la capacitación para el trabajo en las áreas agropecuaria, comercial, industrial y de servicios;
 
-XIII. Protección a los trabajadores rurales en general y a los jornaleros agrícolas y migratorios en particular, y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2021)</small>
+
+XIII. Protección a los jornaleros agrícolas tanto locales como foráneos, y
 
 XIV. Las demás disposiciones aplicables en la materia.
 
@@ -1410,5 +1412,13 @@ P.O. 6 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1150.- SE REFORMA EL ARTÍCULO 9° EN SU FRACCIÓN III, DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1168.- SE REFORMA EL ARTÍCULO 35 EN SU FRACCIÓN III, DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
