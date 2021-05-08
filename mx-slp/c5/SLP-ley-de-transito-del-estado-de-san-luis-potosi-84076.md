@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2020-12-24"
+last_updated: "2021-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2021.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -865,9 +865,11 @@ Las personas físicas o morales dedicadas a la compra-venta de vehículos nuevos
 
 Las personas físicas o morales dedicadas a la compra de vehículos para su desguace, o el propietario que desguace su vehículo, deberán dar aviso a la Secretaría de la destrucción total o parcial del vehículo, en un término de quince días hábiles posteriores a su compra o desmantelamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2021)</small>
+
 ###### ARTICULO 59.
 
-Los propietarios o responsables de lotes, depósitos o pensiones de vehículos en el Estado, deberán llevar un control puntual de las unidades que queden a su resguardo o cuidado; este registro deberá contener los datos que permitan la identificación del vehículo, así como la autoridad o persona que lo deposite; la autoridad o autoridades a las que están a su disposición; lo anterior, con independencia de las obligaciones que deriven de otras disposiciones y obligaciones administrativas.
+Los propietarios o responsables de lotes, depósitos o pensiones de vehículos en el Estado, deberán llevar un control puntual de las unidades que queden a su resguardo o cuidado; este registro deberá contener los datos que permitan la identificación del vehículo, así como la autoridad o persona que lo deposite; la autoridad o autoridades a las que están a su disposición; así mismo, estas pensiones o depósitos deberán entregar a las autoridades competentes cuando éstas así lo soliciten, el inventario actualizado de los vehículos que estén bajo su resguardo, y deberán informar a dichas autoridades cuando éstas así se los requieran, si determinados vehículos con reporte de robo o relacionados con la comisión de delitos, se encuentran depositados en las mismas; lo anterior, con independencia de las obligaciones que deriven de otras disposiciones y obligaciones administrativas.
 
 En los casos de vehículos que se dejen abandonados en estos establecimientos por más de un año, o se tenga duda sobre su legal procedencia o identificación, se hará del conocimiento de la Secretaría, la que verificará el vehículo y hará las anotaciones respectivas en el Padrón Vehicular del Estado.
 
@@ -1836,6 +1838,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 24 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1105.- SE REFORMA LOS ARTÍCULOS 43, 44, 46, 84, 99, 100 Y 117; Y DEROGA DE LOS ARTÍCULOS 44 LA FRACCIÓN III Y 46 SU AHORA PÁRRAFO ÚLTIMO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1166.- SE REFORMA EL ARTÍCULO 59 EN SU PÁRRAFO PRIMERO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
