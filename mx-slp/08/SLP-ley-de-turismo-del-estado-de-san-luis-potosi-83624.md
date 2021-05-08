@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2021-02-27"
+last_updated: "2021-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -331,11 +331,15 @@ XXXI. Diseñar y elaborar materiales gráficos y audiovisuales de promoción e i
 
 XXXII. Proponer y aplicar las políticas concernientes a la investigación, actualización y utilización de la información turística estatal;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2021)</small>
 
-XXXIII. Coadyuvar con el Ejecutivo Federal para la clasificación de establecimientos hoteleros y de hospedaje, en los términos de la regulación correspondiente, así como difundir la clasificación entre los prestadores de servicio del Estado, y
+XXXIII. Coadyuvar con el Ejecutivo Federal para la clasificación de establecimientos hoteleros y de hospedaje, en los términos de la regulación correspondiente, así como difundir la clasificación entre los prestadores de servicio del Estado;
 
-XXXIV. En general, ejercer todas aquellas facultades y actos que le otorgue esta Ley, así como otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2021)</small>
+
+XXXIV. Implementar y publicitar mediante convenios con los prestadores de servicios turísticos del Estado, programas de facilidades, descuentos o promociones aplicables a residentes de la Entidad, con el fin de impulsar el turismo local interno, y
+
+XXXV. En general, ejercer todas aquellas facultades y actos que le otorgue esta Ley, así como otras disposiciones legales.
 
 ###### ARTICULO 9°.
 
@@ -1095,9 +1099,15 @@ VI. Proponer métodos de control y evaluación del servicio;
 
 VII. Conocer y llevar a través del secretario técnico, un registro de los indicadores y estadísticas en materia del servicio de turismo regional y municipal, correspondiente a sus respectivos territorios;
 
-VIII. Promover mecanismos de coordinación, comunicación e intercambio de información con las entidades públicas y privadas relacionadas con el servicio turístico, y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2021)</small>
 
-IX. Las demás que procedan conforme a la normatividad vigente.
+VIII. Promover mecanismos de coordinación, comunicación e intercambio de información con las entidades públicas y privadas relacionadas con el servicio turístico;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2021)</small>
+
+IX. Proponer el establecimiento de convenios de la Secretaría con autoridades o prestadores de servicios turísticos, y
+
+X. Las demás que procedan conforme a la normatividad vigente.
 
 ## TITULO DECIMO. DE LA VERIFICACION; LAS INFRACCIONES Y SANCIONES
 
@@ -1326,6 +1336,14 @@ SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
 P.O. 27 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1121.- SE REFORMA EL ARTÍCULO 6º EN SU FRACCIÓN V Y ADICIONA AL ARTÍCULO 4º LA FRACCIÓN XXI BIS, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
+
+P.O. 8 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1165.- SE REFORMA LOS ARTÍCULOS 8° EN SU FRACCIÓN XXXIII Y 90 EN SU FRACCIÓN VIII; Y ADICIONA A LOS ARTÍCULOS 8° UNA FRACCIÓN Y 90 UNA FRACCIÓN, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
