@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-sanidad-inocuidad-y-calidad-agroalimentaria-del-89731"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-15"
-last_updated: "2017-07-06"
+last_updated: "2021-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE SANIDAD VEGETAL E INOCUIDAD AGRÍCOLA DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 8 DE MAYO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2021 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de septiembre de 2012.
 
@@ -33,7 +35,9 @@ DECRETO 1147
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
+
+[...]
 
 ###### ARTICULO PRIMERO.
 
@@ -2018,3 +2022,15 @@ P.O. 6 DE JULIO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1167.- LEY DE SANIDAD VEGETAL E INOCUIDAD AGRÍCOLA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. La Ley que se expide en este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se ABROGA la Ley de Sanidad, Inocuidad y Calidad Agroalimentaria del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 15 de septiembre de 2012.
+
+TERCERO. El Ejecutivo del Estado deberá emitir el Reglamento de esta Ley, dentro de los ciento ochenta días siguientes a su entrada en vigor.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
