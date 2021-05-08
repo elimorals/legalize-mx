@@ -4,7 +4,7 @@ identifier: "COL-ley-de-cultura-fisica-y-deporte-del-estado-de-colima-149233"
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-24"
-last_updated: "2021-04-24"
+last_updated: "2021-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE COLIMA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE MAYO DE 2021 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COLIMA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE MAYO DE 2021.]</small>
 
 Ley publicada en el Suplemento Núm. 4 al Número 35 del Periódico Oficial del Estado de Colima, el sábado 24 de abril de 2021.
 
@@ -1295,9 +1295,13 @@ Para los efectos de los nombramientos antes citados, éstos deberán de recaer e
 
 1. El titular del Poder Ejecutivo del Estado expedirá las normas reglamentarias necesarias para la integración y funcionamiento de la CEAAD. Asimismo, proporcionará anualmente el presupuesto para su funcionamiento.
 
-## TÍTULO DÉCIMO. DÍA DEL DEPORTISTA COLIMENSE
+> <small>(F. DE E., P.O. 8 DE MAYO DE 2021)</small>
 
-### CAPÍTULO ÚNICO. DEL RECONOCIMIENTO A LA CULTURA FÍSICA Y EL DEPORTE
+## TÍTULO DÉCIMO. DEL RECONOCIMIENTO A LA CULTURA FÍSICA Y EL DEPORTE
+
+> <small>(F. DE E., P.O. 8 DE MAYO DE 2021)</small>
+
+### CAPÍTULO ÚNICO. DÍA DEL DEPORTISTA COLIMENSE
 
 ###### Artículo 102.
 
