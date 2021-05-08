@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2021-04-22"
+last_updated: "2021-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -314,6 +314,10 @@ Se establece una prima vacacional, equivalente al cuarenta por ciento sobre el s
 Los trabajadores tendrán derecho a permisos con goce de sueldo, por un período no mayor de tres días, dos veces al año.
 
 Las instituciones públicas previo estudio, concederán permisos o licencias sin goce de sueldo a los trabajadores, hasta por seis meses, cuando tengan por lo menos un año de antigüedad.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2021)</small>
+
+La trabajadora o trabajador, que funja como cuidador de una hija o hijo con padecimiento de cáncer infantil menor de 16 años, podrá optar por un permiso o licencia sin goce de sueldo, en periodos críticos de hospitalización, de reposo o cuidados paliativos. Con una vigencia de uno a veintiocho días, se podrán expedir todas las licencias que se estimen necesarias, durante un periodo máximo de tres años sin que se excedan los 364 días, mismos que no necesariamente tendrán que ser continuos. Para el caso de que ambas personas cuidadoras de la menor o el menor, trabajen al servicio de las instituciones públicas, no podrán disfrutar de manera conjunta este tipo de permisos o licencias, por lo que deberán turnarse la asignación, para que, bajo criterios de equidad, se cuide de manera alternativa a las hijas e hijos sujetos a esta condición, estos permisos o licencias no generan la perdida de derechos de antigüedad para las o los trabajadores.
 
 Estos permisos o licencias en ningún momento podrán juntarse con otros similares o con períodos vacacionales, y estarán sujetos a los requisitos y condiciones establecidos al efecto en los reglamentos correspondientes.
 
@@ -2138,3 +2142,11 @@ P.O. 22 DE ABRIL DE 2021.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1164.- SE ADICIONA PÁRRAFO AL ARTÍCULO 35, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
