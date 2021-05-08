@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-publico-de-la-propiedad-y-del-catastro-101426"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-05"
-last_updated: "2019-11-12"
+last_updated: "2021-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 05 de junio de 2014.
 
@@ -1485,15 +1485,19 @@ El o la titular de la Dirección General, será designado y removido por la Junt
 
 Para ser Director General del Instituto se requiere:
 
-I. Ser mexicano por nacimiento, y contar con cuando menos veintiocho años de edad cumplidos a la fecha de su nombramiento;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2021)</small>
 
-II. Ser abogado o licenciado en derecho con título debidamente registrado, y contar con cédula profesional expedida por la autoridad competente;
+I. Ser mexicano por nacimiento;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2021)</small>
+
+II. Contar con titulo y cédula profesional de abogado o licenciado en derecho, expedidos por autoridad competente, con una antigüedad mínima de cinco años contados a la fecha de su designación;
 
 III. Encontrarse en pleno ejercicio de sus derechos civiles y políticos;
 
 IV. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2019)
 
-V. Contar con experiencia profesional en la materia de cuando menos tres años.
+V. (DEROGADA, P.O. 8 DE MAYO DE 2021)
 
 ###### ARTÍCULO 152.
 
@@ -1822,3 +1826,11 @@ P.O. 12 DE NOVIEMBRE DE 2019.
 PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1163.- SE REFORMA EL ARTÍCULO 151 EN SUS FRACCIONES I Y II; Y DEROGA DEL MISMO ARTÍCULO 151 LA FRACCIÓN V, DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por el presente Decreto.
