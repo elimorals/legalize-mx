@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2013-12-31"
+last_updated: "2021-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -51,9 +51,11 @@ QUE CONTIENE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés social y regulan en el Estado de Hidalgo, la participación de las autoridades Estatales y Municipales en el ámbito de su competencia, en la realización de acciones inherentes a la explotación, uso, y prestación de los servicios públicos de agua.
+Las disposiciones de esta Ley son de orden público e interés social y regulan en el Estado de Hidalgo, la participación de las autoridades Estatales y Municipales en el ámbito de su competencia, en la realización de acciones inherentes a la explotación, uso, y prestación de los servicios públicos de agua con respeto al medio ambiente y al desarrollo sustentable.
 
 ###### Artículo 2.
 
@@ -131,11 +133,15 @@ XXII. Saneamiento: el tratamiento de aguas residuales, la conducción, distribuc
 
 > <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XXII Bis. Secretaría: Secretaría de Medio Ambiente (y Ordenamiento Territorial);
+XXII BIS. Secretaría: Secretaría de Medio Ambiente (y Ordenamiento Territorial);
 
 XXIII. Servicios públicos: los servicios públicos de agua potable y alcantarillado, incluyendo, la potabilización, conducción y distribución de aguas y conducción, alojamiento y disposición final de las aguas del alcantarillado sanitario y pluviales;
 
 XXIV. Suspensión: la acción y efecto de interrumpir temporalmente los servicios públicos por falta de pago;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+XXIV BIS. Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico y protección al ambiente, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
 
 XXV. Tarifa: la tabla autorizada para la fijación del pago por cada tipo de usuario, por concepto de agua potable, alcantarillado y saneamiento considerando en su caso el nivel de consumo y los precios por unidad de servicio que deberá pagar cada usuario;
 
@@ -153,27 +159,25 @@ XXX. Uso doméstico: la utilización del agua potable en casa habitación, para 
 
 > <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XXX Bis. Uso para la Conservación: cuando el consumo es destinado a actividades de conservación de la biodiversidad, protección o restauración del ambiente, el paisaje y el patrimonio natural;
+XXX BIS. Uso para la Conservación: cuando el consumo es destinado a actividades de conservación de la biodiversidad, protección o restauración del ambiente, el paisaje y el patrimonio natural;
 
 XXXI. Uso público: cuando el consumo es destinado para satisfacer las necesidades de los bienes o servicios que prestan los gobiernos Federal, Estatal, Municipal y de sus Órganos Desconcentrados y
 
 XXXII. Usuario: la persona física o moral que utilice en los términos de esta Ley los servicios públicos.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+
 ###### Artículo 4.
 
-El Ejecutivo del Estado, por conducto de la Comisión, se coordinará con los Municipios y promoverá la concertación de éstos entre sí para la más eficiente prestación de los servicios públicos en todos los asentamientos humanos del Estado.
+El Ejecutivo del Estado, por conducto de la Comisión, se coordinará con los Municipios y promoverá la concertación de éstos entre sí para la más eficiente y sustentable prestación de los servicios públicos en todos los asentamientos humanos del Estado.
 
-Las autoridades Estatales y Municipales podrán solicitar al Gobierno Federal asistencia técnica en los proyectos de las obras de agua potable, alcantarillado, saneamiento, drenaje pluvial, que pretendan ejecutar, a fin de asegurar la compatibilidad de los sitios de entrega y recepción del agua en bloque, la eficiencia de la operación de las obras y el mejor aprovechamiento del agua, así como para el ejercicio de las atribuciones que les corresponda en términos de Ley.
+Las autoridades Estatales y Municipales podrán solicitar al Gobierno Federal asistencia técnica en los proyectos de las obras de agua potable, alcantarillado, saneamiento, drenaje pluvial, que pretendan ejecutar, a fin de asegurar la compatibilidad de los sitios de entrega y recepción del agua en bloque, la eficiencia de la operación de las obras, el respeto a las normas medioambientales y el mejor aprovechamiento del agua, así como para el ejercicio de las atribuciones que les corresponda en términos de Ley.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
 ###### Artículo 5.
 
-Los servicios públicos serán prestados en condiciones que aseguren su continuidad, regularidad, calidad y cobertura, de manera que se logre la satisfacción de las necesidades de los usuarios y la protección del medio ambiente.
-
-Los prestadores de los servicios serán responsables del tratamiento de las aguas residuales generadas por los sistemas a su cargo, previa su descarga a cuerpos receptores de propiedad nacional, conforme a las condiciones particulares de descarga determinadas por la Comisión Nacional del Agua, de acuerdo con lo establecido en la Ley de Aguas Nacionales, su Reglamento, y las Normas Oficiales Mexicanas.
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
-
-La Procuraduría investigará, verificará, vigilará y supervisará los procedimientos de tratamiento de aguas residuales, en términos del Libro Segundo de la Ley para la Protección al Ambiente del Estado de Hidalgo.
+Los servicios públicos serán prestados en condiciones que aseguren su desarrollo sustentable, continuidad, regularidad, calidad y cobertura, de manera que se logre la satisfacción de las necesidades de los usuarios y la protección del medio ambiente.
 
 ###### Artículo 6.
 
@@ -203,7 +207,9 @@ Se crea la COMISION ESTATAL DEL AGUA Y ALCANTARILLADO, como un Organismo Públic
 
 El objeto del Organismo es:
 
-I. Coordinar entre los Municipios y el Estado y entre éste y la Federación las acciones relacionadas con la explotación, uso y aprovechamiento del agua, coadyuvando en el ámbito de su competencia al fortalecimiento del pacto Federal y del Municipio libre en los términos de los artículos 115 de la Constitución General de la República, 115 y 116 de la Constitución Política del Estado, para lograr el desarrollo equilibrado y la descentralización de los servicios de agua en la Entidad;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+I.- Coordinar entre los Municipios y el Estado y entre éste y la Federación las acciones relacionadas con la explotación, uso, sustentabilidad y aprovechamiento del agua, coadyuvando en el ámbito de su competencia al fortalecimiento del pacto Federal y del Municipio libre en los términos de los artículos 115 de la Constitución General de la República, 115 y 116 de la Constitución Política del Estado, para lograr el desarrollo equilibrado y la descentralización de los servicios de agua en la Entidad;
 
 II. Coadyuvar con la Comisión Nacional del Agua en los planes de los distritos y unidades de riego, en los términos de los acuerdos de coordinación que se suscriban con la Federación;
 
@@ -253,17 +259,17 @@ VIII. El Secretario de Contraloría;
 
 IX. El Secretario de Obras Públicas;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-IX Bis. El Secretario de Medio Ambiente y Ordenamiento Territorial;
+IX BIS. El Secretario de Medio Ambiente y Recursos Naturales;
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 X. El titular en el Estado de la Comisión Nacional del Agua en función normativa y consultiva; y
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-XI. El Procurador de Protección al Ambiente y del Ordenamiento Territorial.
+XI.- El Procurador Estatal de Protección al Ambiente.
 
 Cada representante propietario designará a su suplente, quien gozará de las mismas facultades que los propietarios.
 
@@ -343,11 +349,19 @@ XXIV. Las demás que le asignen la presente Ley y otras disposiciones.
 
 El Director General de la Comisión será designado y removido libremente por el Gobernador del Estado y deberá satisfacer los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos;
+I.- Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos;
 
-II. No ser ministro de algún culto religioso, ni haber sido sentenciado por la comisión de algún delito intencional y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-III. No desempeñar ningún otro empleo, cargo o comisión, incompatible al cargo por cuestión de función o materia, a excepción de las relacionadas con la docencia o beneficencia.
+II.- No ser ministro de algún culto religioso, ni haber sido sentenciado por la comisión de algún delito intencional;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+III.- No desempeñar ningún otro empleo, cargo o comisión, incompatible al cargo por cuestión de función o materia, a excepción de las relacionadas con la docencia o beneficencia; y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+IV.- Preferentemente contar con un perfil profesional acorde a las funciones a desempeñar.
 
 ###### Artículo 15.
 
@@ -449,7 +463,11 @@ XLVI. Desarrollar programas de orientación a los usuarios, con el objeto de pre
 
 XLVII. Tramitar los procedimientos arbitrales a que se refiere el artículo 163 y someter a la Junta de Gobierno los proyectos de resolución correspondientes;
 
-XLVIII. Las demás que le señale la Junta de Gobierno, esta Ley y el Reglamento Interior.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
+
+XLVIII. Expedir certificaciones de los documentos que obren en sus archivos, salvo de aquellos que exijan reserva conforme a las disposiciones legales aplicables; y
+
+XLIX.- Las demás que le señale la Junta de Gobierno, esta Ley y el Reglamento Interior.
 
 ###### Artículo 16.
 
@@ -605,11 +623,11 @@ Los Municipios podrán prestar los servicios públicos en forma descentralizada,
 
 Los Municipios podrán concesionar la prestación de los servicios públicos, de conformidad con lo establecido en esta Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
 ###### Artículo 29.
 
-Los Municipios además de lo señalado con anterioridad, establecerán reglas específicas para la prestación de los servicios públicos a las que deberán sujetarse los Organismos Operadores Municipales, los concesionarios o contratistas, observando el aprovechamiento, explotación, uso y consumo sustentable del agua así como las medidas de adaptación y, en su caso, mitigación al cambio climático en la administración del recurso.
+Los Municipios además de lo señalado con anterioridad, establecerán reglas específicas para la prestación de los servicios públicos a las que deberán sujetarse los Organismos Operadores Municipales, los concesionarios o contratistas, observando el aprovechamiento, explotación, uso y consumo sustentable del agua, así como las medidas de adaptación y, en su caso, de mitigación al cambio climático o a daños ambientales en la administración del recurso.
 
 ### CAPITULO III
 
@@ -715,9 +733,17 @@ XII. Aprobar y expedir el Reglamento interior del Organismo y sus modificaciones
 
 XIII. Las demás que le asignen la presente Ley y otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+
 ###### Artículo 38.
 
-El Director General del Organismo Operador será designado y removido por el Presidente Municipal, deberá ser ciudadano mexicano con experiencia técnica, administrativa y profesional comprobada en materia de agua.
+El Director General del Organismo Operador será designado y removido por la o el Presidente Municipal, y deberá satisfacer los siguientes requisitos:
+
+I. Ser ciudadana o ciudadano mexicano en pleno goce y ejercicio de sus derechos;
+
+II. Contar con experiencia técnica, administrativa y preferentemente profesional comprobada en materia de agua.
+
+III. No desempeñar ningún otro empleo, cargo o comisión, incompatible al cargo por cuestión de función o materia, a excepción de las relacionadas con la docencia o beneficencia.
 
 ###### Artículo 39.
 
@@ -759,7 +785,11 @@ XVII. Someter a la aprobación de la Junta de Gobierno el Reglamento Interior de
 
 XVIII. El Director General contará con el auxilio de un Consejo Técnico, presidido por éste, mismo que se encargará de la integración y análisis de los programas de acción del Organismo Operador y
 
-XIX. Las demás que le señale la Junta de Gobierno, esta Ley y el Reglamento Interno del Organismo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
+
+XIX.- Expedir certificaciones de los documentos que obren en sus archivos, salvo de aquellos que exijan reserva conforme a las disposiciones legales aplicables; y
+
+XX.- Las demás que le señale la Junta de Gobierno, esta Ley y el Reglamento Interno del Organismo.
 
 ###### Artículo 40.
 
@@ -967,13 +997,21 @@ Las relaciones de trabajo entre el Organismo y su personal de base, se regirán 
 
 Los sectores social y privado podrán participar en:
 
-I. La prestación de los servicios públicos;
+I.- La prestación de los servicios públicos;
 
-II. La ejecución de obras de infraestructura hidráulica y proyectos relacionados con los servicios públicos, incluyendo el financiamiento en su caso;
+II.- La ejecución de obras de infraestructura hidráulica y proyectos relacionados con los servicios públicos, incluyendo el financiamiento en su caso;
 
-III. La construcción, administración, operación y mantenimiento total o parcial de los sistemas destinados a la prestación de los servicios públicos y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-IV. Las demás actividades que convengan con los Municipios, con los Organismos Operadores Municipales o Intermunicipales.
+III.- La construcción, administración, operación y mantenimiento total o parcial de los sistemas destinados a la prestación de los servicios públicos;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+IV.- Las demás actividades que convengan con los Municipios, con los Organismos Operadores Municipales o Intermunicipales;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+V.- La promoción del derecho humano al agua, así como los mecanismos de sustentabilidad y respeto al medio ambiente relacionados con la explotación, uso y aprovechamiento de los recursos hídricos.
 
 ###### Artículo 62.
 
@@ -985,9 +1023,13 @@ Para el otorgamiento de las concesiones a que se refiere el párrafo anterior, e
 
 Las concesiones mencionadas en el artículo anterior se otorgarán por el Municipio, Organismos Operadores Municipales, Intermunicipales o la Comisión, previa licitación pública, a quien resulte ganador de la misma, conforme a lo siguiente:
 
-I. La convocante expedirá convocatoria pública correspondiente para que, en un plazo razonable, se presenten propuestas en sobres cerrados que serán abiertos en un día prefijado y en presencia de todos los participantes;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-II. La convocatoria se publicará simultáneamente en el Periódico Oficial del Estado, en un diario de circulación nacional y en el diario de mayor circulación de la localidad;
+I. La convocante expedirá convocatoria pública correspondiente para que, en un plazo de 180 días, se presenten propuestas en sobres cerrados que serán abiertos en un día prefijado y en presencia de todos los participantes;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+II. La convocatoria se publicará simultáneamente en el Periódico Oficial del Estado, en un diario de circulación nacional, en los medios electrónicos y en el diario de mayor circulación de la localidad;
 
 III. Las bases del concurso, en cuya elaboración participará la Comisión cuando el convocante sea el Municipio, Organismo Operador Municipal e Intermunicipal, incluirán el señalamiento del área geográfica donde deberán prestarse los servicios públicos y los criterios con los que se seleccionará al ganador, los cuales tomarán en cuenta las contraprestaciones ofrecidas por el otorgamiento de la concesión, la calidad del servicio que se propone, las inversiones comprometidas, en su caso, las metas de desempeño físico y comercial y las demás condiciones que se consideren convenientes;
 
@@ -1012,6 +1054,10 @@ Las propuestas a que se refiere la fracción I de este artículo, deberán conte
 En caso de que exista un Organismo Operador, éste emitirá su opinión respecto de los procedimientos que considere necesario adoptar para la transferencia de los bienes destinados a la prestación de los servicios públicos.
 
 Tratándose de comunidades rurales, no se llevará a cabo el procedimiento de licitación señalado en este artículo. En este caso, la concesión podrá ser otorgada directamente por el Municipio a las organizaciones que para tal efecto se constitutyan (sic) en las comunidades y que así lo soliciten.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
+
+Las propuestas a que se refiere la fracción I de este artículo, deberán contener la descripción técnica general y cronograma de las acciones y obras proyectadas; las estimaciones de los beneficios, costos los cuales no superarán a la última cuota autorizada y no podrán ser incrementados más allá de la inflación del año inmediato, valor presente y rentabilidad asociados; las contraprestaciones propuestas y los demás requisitos que se fijen en las bases de licitación.
 
 ###### Artículo 64.
 
@@ -1297,7 +1343,9 @@ Los organismos públicos y privados que se destaquen en su labor en la promoció
 
 Con la finalidad de promover el cuidado y uso eficiente del agua en el Estado, el Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus atribuciones, llevarán a cabo las siguientes acciones:
 
-I.- Fomentar y difundir mediante programas y acciones, los beneficios sociales, económicos y ambientales del cuidado, uso racional y correcto aprovechamiento del agua subterránea y superficial;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+I.- Fomentar y difundir mediante programas y acciones, los derechos humanos asociados, los beneficios sociales, económicos y ambientales del cuidado, uso racional y correcto aprovechamiento del agua subterránea y superficial;
 
 II.- Promover la realización de estudios de investigación y desarrollo tecnológicos para proteger el recurso y asignarlo de manera eficiente y equitativa entre los distintos usuarios;
 
@@ -1305,9 +1353,17 @@ III.- Promover la utilización de tecnología de punta en la construcción de ed
 
 IV.- Propiciar el uso de infraestructura que permitan cuidar y usar de manera razonable el agua, en el desarrollo de viviendas, fraccionamientos, condominios, edificaciones y demás obras en el Estado;
 
-V.- Promover planes y programas coordinados con los organismos públicos y privados vinculados a la cultura, cuidado y uso razonable del agua; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-VI.- Coadyuvar con las autoridades educativas en la aplicación de una educación ambiental en torno a la cultura del agua.
+V.- Promover planes y programas coordinados con los organismos públicos y privados vinculados a la cultura, cuidado y uso razonable del agua;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+VI.- Coadyuvar con las autoridades educativas en la aplicación de una educación ambiental en torno a la cultura del agua;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+VII.- Promover el derecho humano al agua.
 
 ### CAPITULO IV. DEL SERVICIO PUBLICO DE TRATAMIENTO DE AGUAS VERTIDAS AL SISTEMA DE ALCANTARILLADO
 
@@ -1389,9 +1445,11 @@ Para producir y abastecerse de agua residual tratada para uso directo, la person
 
 #### SECCION CUARTA. MEDIDAS ALTERNATIVAS DE SEGURIDAD
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+
 ###### Artículo 99.
 
-Las plantas de tratamiento de agua residual, deberán contar con las medidas de seguridad que establezcan las Normas Técnicas Ecológicas y Sanitarias o el dictamen que emita la autoridad competente.
+Las plantas de tratamiento de agua residual, deberán contar con las medidas de seguridad y de protección ambiental que establezcan las Normas Técnicas Ecológicas y Sanitarias o el dictamen que emita la autoridad competente.
 
 #### SECCION QUINTA. DE LAS CONCESIONES DE LAS AGUAS RESIDUALES
 
@@ -1575,17 +1633,11 @@ Todo lo relacionado con los predios o establecimientos, la forma en que otras au
 
 #### SECCION SEGUNDA. DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+
 ###### Artículo 124.
 
-Todo usuario, tanto del sector público como del sector social o privado, está obligado al pago de los servicios públicos relacionados con el agua que se le presten, con base en las cuotas y tarifas fijadas en los términos de esta Ley. Las personas de la tercera edad, discapacitados y jubilados, que acrediten con estudio socioeconómico y demás elementos que fehacientemente y a satisfacción de los prestadores del servicio, no tener otros ingresos o depender económicamente de otra u otras personas, se les aplicará el subsidio correspondiente, en tarifa de servicio doméstico, que otorga el Estado.
-
-Para los casos de cambio de situación económica en el que el usuario deje de ser dependiente económico, se aplicará la tarifa general de acuerdo a sus consumos, eliminándose el subsidio otorgado.
-
-Las escuelas oficiales podrán gozar del beneficio del subsidio en el servicio, cuando su consumo sea menor de 50 metros cúbicos mensuales, aplicándose la cuota mínima al volumen anterior; rebasando los 50 metros cúbicos, al excedente se aplicará la tarifa general vigente.
-
-Este beneficio no será aplicable a las escuelas particulares, quienes deberán pagar la tarifa de uso comercial correspondiente.
-
-A los hospitales, clínicas y centros de salud del sector público, se aplicará el beneficio señalado en el párrafo tercero del presente artículo; quedan excluidos de este beneficio los hospitales y clínicas particulares.
+Todo usuario, tanto del sector público como del sector social o privado, está obligado al pago de los servicios públicos relacionados con el agua que se le presten, con base en las cuotas y tarifas fijadas en la Ley. Las personas adultas mayores, con discapacidad y/o jubiladas, que acrediten con estudio socioeconómico y demás elementos que fehacientemente y a satisfacción de los prestadores del servicio, no tener otros ingresos o depender económicamente de otra u otras personas, se les aplicará el subsidio correspondiente en la tarifa de servicio doméstico, que otorga el Estado.
 
 ###### Artículo 125.
 
@@ -1989,7 +2041,9 @@ VII. El que utilice el servicio de los hidrantes públicos para destinarlo a uso
 
 VIII. Los propietarios o poseedores de los predios frente a los cuales se localice alguna fuga que no haya sido reportada oportunamente al prestador del servicio;
 
-IX. Los que desperdicien el agua;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+IX.- Los que desperdicien el agua sean personas físicas o morales;
 
 X. Las personas que impidan la instalación de los servicios públicos;
 
@@ -2003,27 +2057,23 @@ XIV. Explotar, usar o aprovechar aguas residuales sin cumplir con las Normas Ofi
 
 XV. Incurrir en cualquier otra violación a los preceptos de esta Ley y su Reglamento, distinta de las anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
 ###### Artículo 165.
 
-Las infracciones a que se refiere el Artículo anterior serán sancionadas administrativamente por la Procuraduría o los Organismos Operadores, con multas que serán equivalentes a los siguientes días del salario mínimo general vigente en el área geográfica y en el momento en que se cometa la infracción:
+Las infracciones a que se refiere el Artículo anterior serán sancionadas administrativamente por la Procuraduría o los Organismos Operadores, con multas que serán equivalentes a las siguientes Unidades de Medida y Actualización, vigentes en el momento en que se cometa la infracción:
 
-1.- 10 a 50, en el caso de violación a las fracciones I al V y VII al X;
+1.- 12 a 60, en el caso de violación a las fracciones I al V y VII al X y XVI;
 
-2.- 50 a 75, en el caso de violaciones a la fracción VI y XI;
+2.- 60 a 90, en el caso de violaciones a la fracción VI y XI;
 
-3.- 100 a 300, en el caso de violación a la fracción XII;
+3.- 120 a 360, en el caso de violación a la fracción XII;
 
-4.- 500 a 1000, en el caso de violación a la fracción XIII;
+4.- 600 a 1200, en el caso de violación a la fracción XIII;
 
-5.- 100 a 1000, en el caso de violación a la fracción XIV y
+5.- 120 a 1200, en el caso de violación a la fracción XIV; y
 
-6.- 1 a 9, en caso de la violación a la fracción XV.
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
-
-Los Organismos Operadores, podrán celebrar convenio con la Procuraduría para que ésta ejerza las facultades de sanción a que hace referencia el presente Artículo.
+6.- 5 a 12, en caso de la violación a la fracción XV
 
 ###### Artículo 166.
 
@@ -2031,9 +2081,17 @@ Para sancionar las faltas a que se refiere este Capítulo, las infracciones se c
 
 I. La gravedad de la falta;
 
-II. Las condiciones económicas del infractor; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-III. La reincidencia.
+II.- Las condiciones económicas del infractor;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+III.- La reincidencia;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+IV.- El daño en infraestructura pública y privada.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -2095,11 +2153,15 @@ VI. En caso de concesionarios y contratistas, no cumplir con las obligaciones de
 
 VII. Las demás infracciones que le señala esta Ley, su Reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2021)</small>
+
 ###### Artículo 174.
 
-Las infracciones a que se refiere el artículo anterior, serán sancionadas por la Comisión, con multas de quinientos a cinco mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de las fracciones I a la III.
+Las infracciones a que se refiere el artículo anterior, será (sic) sancionadas por la Comisión, con multas de quinientos a cinco mil unidades de medida y actualización (UMA), tratándose de las fracciones I a la III.
 
-En caso de la fracción IV, con multa de quinientos a seis mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción; respecto de la fracción V, con multa de quinientos a mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción y tratándose de la fracción VI, con multa de mil a tres mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, con multa de quinientos días de salario mínimo diario general vigente en el área geográfica en caso de la fracción VII.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+
+En caso de la fracción IV, con multa de quinientos a seis mil unidades de medida y actualización (UMA); respecto de la fracción V, con multa de quinientos a mil unidades de medida y actualización (UMA), y tratándose de la fracción VI, con multa de mil a tres mil unidades de medida y actualización (UMA), con multa de quinientos unidades de medida y actualización (UMA), en caso de la fracción VII.
 
 En caso de reincidencia, la Comisión podrá imponer una sanción equivalente hasta por el doble de la cuantía señalada.
 
@@ -2204,3 +2266,9 @@ SEGUNDO. La tabla que contiene los plazos y periodos de pago del Impuesto Sobre 
 TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 CUARTO. Se abroga la Ley Estatal de Estímulos Fiscales para el Ejercicio Fiscal 2003, publicada en el Periódico Oficial del Estado de Hidalgo de fecha 30 de diciembre de 2002, dentro del Decreto número 16, expedido por la LVIII Legislatura Local.
+
+P.O. 10 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 702 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
