@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-del-deporte-nuevo-leon-7480"
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-17"
-last_updated: "2018-01-10"
+last_updated: "2021-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY ESTATAL DEL DEPORTE, NUEVO LEON
 
-LEY ESTATAL DEL DEPORTE
+LEY ESTATAL DEL DEPORTE DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de noviembre de 1993.
 
@@ -141,9 +141,17 @@ Los municipios se integran tanto al Sistema Estatal del Deporte como al Sistema 
 
 I.- Planear y determinar sus necesidades en materia deportiva y los medios para satisfacerlos;
 
-II.- Determinar y otorgar los estímulos y apoyos para la organización, el desarrollo y fomento de la actividad deportiva; y
+> <small>(REFORMADA, P. O. 10 DE MAYO DE 2021)</small>
 
-III.- Promover y apoyar a los organismos locales que desarrollen actividades deportivas e incorporarlos al Sistema Estatal del Deporte.
+II.- Determinar y otorgar los estímulos y apoyos para la organización, el desarrollo y fomento de la actividad deportiva;
+
+> <small>(REFORMADA, P. O. 10 DE MAYO DE 2021)</small>
+
+III.- Promover y apoyar a los organismos locales que desarrollen actividades deportivas e incorporarlos al Sistema Estatal del Deporte y
+
+> <small>(ADICIONADA, P. O. 10 DE MAYO DE 2021)</small>
+
+IV.- La promoción de programas que desarrollen la práctica del deporte y el derecho a la cultura física que tienen todas las personas en los diferentes municipios del Estado.
 
 ###### Artículo 17.
 
@@ -728,3 +736,9 @@ P.O. 10 DE ENERO DE 2018.
 [N. DE. E TRANSITORIO DEL "DECRETO NÚM. 318. SE REFORMA LA FRACCIÓN II Y III; ASÍ COMO POR ADICCIÓN DE LA FRACCIÓN IV AL ARTÍCULO 7; UNA SECCIÓN TERCERA BIS, QUE COMPRENDERÁ LOS ARTÍCULOS 18 BIS; 18 BIS I; 18 BIS II; 18 BIS III Y 18 BIS IV; DE LA LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE."]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P. O. 10 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 477. SE REFORMAN LAS FRACCIONES II Y III Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 16 DE LA LEY ESTATAL DEL DEPORTE, Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3, LAS FRACCIONES XXVII Y XXVIII DEL ARTÍCULO 5; Y SE ADICIONA UNA FRACCIÓN XXIX AL ARTÍCULO 5 DE LA LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
