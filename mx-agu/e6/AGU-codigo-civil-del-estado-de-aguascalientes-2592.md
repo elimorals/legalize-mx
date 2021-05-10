@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2021-05-03"
+last_updated: "2021-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -701,7 +701,13 @@ Si de acuerdo con lo dispuesto en el Artículo 199 fuere necesario que las capit
 
 VI.- Copia certificada del acta de defunción o de divorcio si alguno de los pretendientes es viudo o divorciado o copia certificada de la sentencia de nulidad del matrimonio en caso de que alguno de los pretendientes hubiese estado casado anteriormente.
 
-VII.- Copia del documento en que se haya otorgado la dispensa de impedimentos si los hubo.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+VII.- Copia del documento en que se haya otorgado la dispensa de impedimentos si los hubo; y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+VIII.- Constancia del curso prematrimonial expedida por el Sistema para el Desarrollo Integral de la Familia en el Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -17298,3 +17304,9 @@ P.O. 3 DE MAYO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 544.- SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 90; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 90 AL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
