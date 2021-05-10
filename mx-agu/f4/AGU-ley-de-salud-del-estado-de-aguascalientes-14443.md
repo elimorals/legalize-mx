@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2020-10-28"
+last_updated: "2021-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE OCTUBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1001,49 +999,43 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. Atención Materno-Infantil
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+
 ###### ARTICULO 69.
 
-La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
+La atención materno-infantil tiene carácter prioritario y comprende, por lo menos, las siguientes acciones:
 
-I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
+I.- La atención de la salud de las mujeres durante el embarazo, el parto, el puerperio y la crianza durante la primera infancia de sus hijos;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+II.- La atención prenatal de los infantes, durante el embarazo y en el momento del nacimiento, así como la detección de defectos o anomalías congénitas previas y después del nacimiento, mediante las pruebas y exámenes señalados en las Normas Oficiales Mexicanas aplicables, así como, la vigilancia de su nutrición, crecimiento y desarrollo, incluyendo la promoción de la lactancia materna y la vacunación oportuna;
 
-II.- La atención prenatal durante el embarazo y en el momento del nacimiento, así como la detección de defectos al nacimiento mediante las pruebas y exámenes señalados en las Normas Oficiales Mexicanas aplicables, y la vigilancia de su nutrición, crecimiento y desarrollo, incluyendo la promoción de la lactancia materna y la vacunación oportuna; y
+III.- La atención prenatal, a través de contactos, entrevistas o consultas con el personal de salud, a efecto de acompañar la evolución del embarazo y de preparar a las mujeres para el parto, puerperio y cuidado de la persona recién nacida. Esto incluye la información oportuna y veraz respecto al estado y desarrollo del embarazo.
 
-III.- La promoción de la integración y del bienestar familiar.
+La atención comprenderá recibir como mínimo cinco consultas prenatales, iniciando preferentemente en las primeras 8 semanas de gestación y/o de prueba positiva de embarazo atendiendo lo siguiente:
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+a).- Primera consulta: entre las 6 a las 8 semanas;
 
-La atención materno-infantil se regirá por los principios de respeto a la dignidad humana, no discriminación, no violencia obstétrica, integridad, libertad y seguridad del paciente; y habrá de realizarse con profesionalismo, calidad y calidez, humanismo médico, mínima medicación, consentimiento informado, infraestructura digna y adecuada, privacidad, y confidencialidad.
+b).- Segunda consulta: entre las 10 a las 13.6 semanas;
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+c).- Tercera consulta: entre las 16 a las 18 semanas;
 
-En caso de emergencia, la atención integral médica deberá ser de la manera más expedita posible, independientemente de que se haya realizado pago alguno, y/o éste se realice con recursos propios o mediante la contratación de seguros individuales o colectivos. Siendo que lo anterior incluirá en su caso, el traslado a la unidad médica u hospitalaria más cercana.
+d).- Cuarta consulta: a las 22 semanas;
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 25 DE MARZO DE 2019)</small>
+e).- Quinta consulta: a las 28 semanas;
 
-En el caso de la atención a embarazadas de bajo riesgo, ésta comprende recibir como mínimo cinco consultas prenatales, iniciando preferentemente en las primeras 8 semanas de gestación y/o prueba positiva de embarazo atendiendo lo siguiente:
+f).- Sexta consulta: a las 32 semanas;
 
-I.- Primera consulta: entre las 6 a las 8 semanas;
+g).- Séptima consulta: a las 36 semanas; y
 
-II.- Segunda consulta: entre las 10 a las 13.6 semanas;
+h).- Octava consulta: entre las 38 a las 41 semanas.
 
-III.- Tercera consulta: entre las 16 a las 18 semanas;
+En el caso de embarazo de alto riesgo, el personal médico determinará la necesidad de un mayor número de consultas;
 
-IV.- Cuarta consulta: a las 22 semanas;
+IV.- La promoción de la integración y del bienestar familiar para el acompañamiento de las mujeres durante el embarazo;
 
-V.- Quinta consulta: a las 28 semanas;
+V.- La atención oportuna, de calidad y gratuita a toda mujer embarazada que necesite atención obstétrica, en cualquier establecimiento público hospitalario, aunque no cuente con seguridad social, en los términos del Convenio General de Colaboración Interinstitucional para la Atención de la (sic) Emergencias Obstétricas; y
 
-VI.- Sexta consulta: a las 32 semanas;
-
-VII.- Séptima consulta: a las 36 semanas; y
-
-VIII.- Octava consulta: entre las 38 a las 41 semanas.
-
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2019)</small>
-
-Toda mujer embarazada que necesite atención obstétrica deberá ser atendida de manera inmediata y gratuita en cualquier establecimiento público hospitalario, aunque no cuente con seguridad social, en los términos del Convenio General de Colaboración Interinstitucional para la Atención de la Emergencia Obstétrica.
+VI.- El alojamiento conjunto de la persona recién nacida y de la madre en un mismo espacio, siempre que no exista riesgo de salud grave de alguno de los dos, con el fin de favorecer el contacto inmediato y permanente entre ambos, así como el inicio de la lactancia materna exclusiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
@@ -1055,7 +1047,9 @@ En los servicios de salud se promoverá la organización institucional de comit�
 
 Dichos comités tendrán las siguientes facultades:
 
-I.- Difundir entre las instituciones públicas y privadas del sector salud y educativo, los programas públicos al que pueden acceder las mujeres embarazada (sic) en materia de salud;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+I.- Difundir entre las instituciones públicas y privadas del sector salud y educativo, los programas públicos al que pueden acceder las mujeres embarazadas en materia de salud;
 
 II.- Ofrecer atención psicológica a las mujeres embarazadas, antes, durante e inclusive después del embarazo;
 
@@ -1065,29 +1059,47 @@ IV.- Informar a las mujeres embarazadas de los programas que ofrezcan las difere
 
 V.- Brindar asesoría integral a las mujeres embarazadas que manifiesten su intención de dar en adopción a su hija o hijo sobre los programas de salud, desarrollo social y atención familiar que brinden tanto instancias gubernamentales como Organizaciones de la Sociedad Civil; y
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
+
+VI.- Promover la educación prenatal dirigida a la familia, a la madre y a los hijos, a fin de que se vivan procesos de embarazo dignos y de bajo riesgo; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE MAYO DE 2021)</small>
+
 VII.- Celebrar convenios de todo tipo y naturaleza mediante los cuales logren llevar a cabo las facultades señaladas en las fracciones anteriores.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
 ###### ARTICULO 71.
 
-La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
+La protección de la salud física y mental de las niñas, niños y adolescentes antes y después del nacimiento es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
 
 ###### ARTICULO 72.
 
 En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado de Aguascalientes establecerán:
 
-I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+I.- Procedimientos que permitan la participación de la familia en la prevención y atención oportuna de los padecimientos de los usuarios en el embarazo, puerperio y crianza durante la primera infancia;
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 II.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses de vida y complementario hasta avanzado el segundo año de vida del menor; así como acciones para promover la instalación de lactarios o salas de lactancia en los centros de trabajo de los sectores público y privado;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años; y
+III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años;
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-IV.- Bancos de leche materna en los establecimientos de salud que cuenten con servicios neonatales, para que de manera subsidiaria, en caso de no ser posible que para la madre desempeñar el amamantamiento natural o encontrarse en casos de desnutrición, se brinde la ayuda alimentaria debida y la tendiente a mejorar el estado nutricional del grupo materno infantil.
+IV.- Bancos de leche materna en los establecimientos de salud que cuenten con servicios neonatales, para que, de manera subsidiaria, en caso de no ser posible para la madre desempeñar el amamantamiento natural o encontrarse en casos de desnutrición, se brinde la ayuda alimentaria debida y la tendiente a mejorar el estado nutricional del grupo materno infantil;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+V.- Acciones para que todas las mujeres accedan a un embarazo, parto y puerperio con enfoque humanizado, intercultural y seguro, evitando la intervención médica invasiva, innecesaria o excesiva, misma que, además, carezca de sustento científico e información oportuna y veraz a la mujer y su familia; y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+VI.- Acciones que garanticen la capacitación y actualización permanente de los recursos humanos para la salud, en materia de salud materno-infantil y prevención de la violencia obstétrica.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -1099,7 +1111,7 @@ I.- Los programas para padres destinados a promover la atención materno-infanti
 
 II.- Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE MAYO DE 2021)</small>
 
 III.- La vigilancia de actividades y ocupaciones que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
@@ -1107,13 +1119,17 @@ III.- La vigilancia de actividades y ocupaciones que puedan poner en peligro la 
 
 IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-V.- La promoción de habilitación de lactarios o salas de lactancia en los centros de trabajo de los sectores tanto público como privado; y
+V.- La promoción de habilitación de lactarios o salas de lactancia en los centros de trabajo de los sectores tanto público como privado;
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
 
-VI.- Las demás que coadyuven a la salud materno-infantil.
+VI.- La promoción de hábitos saludables para las mujeres embarazadas y sus familias, informando sobre el alto riesgo de las adicciones a sustancias químicas, la automedicación, la exposición a fármacos, tabaco, marihuana, alcohol o cualquier sustancia psicoactiva o psicotrópica que repercutan el desarrollo idóneo de la mujer y su hijo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MAYO DE 2021)</small>
+
+VII.- Las demás que coadyuven a la salud materno-infantil.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
@@ -1126,6 +1142,48 @@ I.- La práctica de la lactancia materna informando a las mujeres embarazadas de
 II.- La difusión, sensibilización y concientización de las familias y la sociedad respecto de los beneficios de la lactancia materna exclusiva durante los primeros seis meses de vida y complementaria hasta el segundo año de vida del menor; y
 
 III.- La donación de leche materna para abastecer los bancos de leche.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
+
+###### ARTICULO 73 Ter.
+
+En la prestación de los servicios de salud, la mujer embarazada tiene los siguientes derechos:
+
+I.- Recibir información integral, interdisciplinaria y actualizada sobre las siguientes materias:
+
+a) Los beneficios y riesgos de los procedimientos, fármacos y pruebas que se usan durante el embarazo, parto y puerperio;
+
+b) Los métodos de planificación familiar existentes, libre de presión psicológica y física;
+
+c) Los métodos integrales y más óptimos para la protección y salvaguarda de su vida y la de su hijo, en caso, de riesgo actual e inminente;
+
+d) Los beneficios de la lactancia materna exclusiva durante los primeros seis meses de vida de su hijo;
+
+e) Los procedimientos de trabajo de parto más adecuados, y que no impliquen secuelas físicas y psicológicas para si misma, y que permitan una recuperación más rápida y efectiva; y
+
+f) Los sistemas de orientación y queja disponibles, para que en su caso puedan hace (sic) comentarios sobre la prestación de los servicios d (sic) salud y denunciar la violencia obstétrica;
+
+II.- Solicitar por el procedimiento administrativo conducente, su historial clínico y al (sic) de su hijo;
+
+III.- Conocer la identidad y calificación profesional de la persona del personal de atención medica durante la gestación, el parto y el puerperio;
+
+IV.- Específicamente durante el parto:
+
+a) A recibir una atención respetuosa, digna, segura, informada y de calidad,
+
+b) A decidir de manera libre e informada la forma en que se llevará a cabo el parto, de manera natural, por intervención quirúrgica, o a través de los distintos mecanismos establecidos en la práctica médica. En todo caso, la madre deberá otorgar su consentimiento, o a través de las personas que autorice para otorgarlo;
+
+c) A estar acompañada por quien ella decida, en concordancia con las recomendaciones médicas objetivas;
+
+d) A ser informada de la evolución del parto y de todo lo que ocurre durante el proceso, las causas del dolor en el parto y las estrategias de su manejo desmedicalizado, siempre que no exista contraindicación médica estricta, y en general a que se le haga partícipe de las diferentes actuaciones del personal de salud;
+
+e) A no ser objeto de procedimientos innecesarios cuando estos sean injustificados, a criterio del médico tratante; y
+
+f) A realizar apego inmediato, mediante el contacto piel a piel inmediatamente después del nacimiento, siempre y cuando las condiciones médicas de la madre y de la persona recién nacida así lo permitan;
+
+VI (SIC).- Recibir el certificado de nacimiento o de defunción de su hijo, de forma inmediata, de acuerdo con el procedimiento administrativo que corresponde; y
+
+VII.– Se garantice mediante atención psicológica su salud mental antes y después del parto.
 
 ###### ARTICULO 74.
 
@@ -2965,9 +3023,11 @@ El certificado médico prenupcial será requerido por las autoridades del Regist
 
 Los certificados de defunción y de muerte fetal serán expedidos una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por el Organismo.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+
 ###### ARTICULO 248.
 
-El certificado de nacimiento será expedido por profesional de la medicina o quien haya atendido el parto, y será requerido por las autoridades del Registro Civil para la expedición del acta de nacimiento.
+El certificado de nacimiento será expedido, de forma obligatoria y gratuita, por profesional de la medicina o quien haya atendido el parto, mismo que hará constar el hecho y las circunstancias del nacimiento de un nacido vivo; dicho certificado será requerido por las autoridades del Registro Civil para la expedición del acta de nacimiento.
 
 ###### ARTICULO 249.
 
@@ -3987,67 +4047,13 @@ P.O. 26 DE OCTUBRE DE 2020.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 50/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS TRIBUNALES UNITARIOS PRIMERO, SEGUNDO Y TERCERO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN GUANAJUATO, GUANAJUATO, Y SU TRANSFORMACIÓN EN SEGUNDO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL DECIMOSEXTO CIRCUITO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, FECHA DE COMIENZO DE FUNCIONES Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS EN LA MATERIA, CIRCUITO Y RESIDENCIA INDICADOS, ASÍ COMO A LA CREACIÓN DE SU OFICINA DE CORRESPONDENCIA COMÚN.]
+P.O. 10 DE MAYO DE 2021.
 
-PRIMERO. El presente Acuerdo entrará en vigor el treinta de noviembre de dos mil dieciséis, con excepción de lo previsto en el transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 545.- SE REFORMAN LOS ARTÍCULOS 69; 70, PÁRRAFO SEGUNDO FRACCIONES I Y VI; 71; 72, FRACCIONES I, III Y IV; 73, FRACCIONES III, V Y VI; 248; Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 70; LAS FRACCIONES V Y VI AL ARTÍCULO 72; LA FRACCIÓN VII AL ARTÍCULO 73, Y EL ARTÍCULO 73 TER, A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. La integración del Pleno en Materia Penal del Decimosexto Circuito, se realizará conforme a lo establecido en el diverso Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
-
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado para la recepción y distribución de asuntos en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Penal del Decimosexto Circuito.
-
-QUINTO. La Secretaría Ejecutiva de Adscripción certificará las nuevas adscripciones de los magistrados de los tribunales unitarios que se transforman.
-
-SEXTO. Se reforman los numerales SEGUNDO, fracción XVI, número 1; y QUINTO, número 3 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. ...
-
-I. a XV. ...
-
-XVI. ...
-
-1. Nueve tribunales colegiados especializados: dos en materia penal, dos en materia administrativa, tres en materia civil y dos en materia de trabajo, todos con residencia en Guanajuato, Guanajuato.
-
-2. a 3. ...
-
-XVII. a XXXII. ...
-
-QUINTO. ...
-
-1. a 2. ...
-
-3. El Centro Auxiliar de la Tercera Región, se integrará por dos tribunales colegiados de Circuito Auxiliares, uno con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; dos tribunales unitarios de Circuito Auxiliares con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
-
-4. a 11. ...
-
-...”.
-
-SÉPTIMO. Se reforman los numerales PRIMERO, primer párrafo; y CUARTO; y se derogan los incisos a) a c) de la fracción II, del numeral PRIMERO, del Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
-
-“PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. El Centro Auxiliar de la Tercera Región, está conformado por dos tribunales colegiados de Circuito Auxiliares, uno con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; dos Tribunales Unitarios de Circuito Auxiliares con sede en Guadalajara, Jalisco y, dos Juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
-
-...
-
-I. ...
-
-II. ...
-
-a) Derogado.
-
-b) Derogado.
-
-c) Derogado.
-
-d) a e) ...
-
-III. ...
-
-CUARTO. OFICINA DE CORRESPONDENCIA COMÚN. El Centro Auxiliar de la Tercera Región contará con la Oficina de Correspondencia Común del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco; ésta se integrará con las plazas que fije la Dirección General de Estadística Judicial."
-
-D.O.F. 15 DE DICIEMBRE DE 2016.
+El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 51/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL COMIENZO DE FUNCIONES DE LOS JUZGADOS CUARTO Y QUINTO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADOS EN JUICIOS DE CUANTÍA MENOR, CON SEDE EN LA CIUDAD DE MÉXICO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y A LAS REGLAS PARA EL TURNO Y LA DISTRIBUCIÓN DE ASUNTOS".]
 
