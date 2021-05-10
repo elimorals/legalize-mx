@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-cultura-fisica-y-deporte-del-35829
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2018-01-10"
+last_updated: "2021-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -59,7 +59,9 @@ III. Organizar el deporte popular con la participación de los municipios, asoci
 
 IV. Promover, en coordinación con los sectores públicos, social y privado, el mantenimiento y construcción de instalaciones deportivas en la Entidad;
 
-V. Promover programas de fomento deportivo y recreativo, garantizando que se determine la participación adecuada de las personas con capacidades diferentes y de edad avanzada en los mismos;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+V. Promover programas de fomento deportivo y recreativo, garantizando que se determine la participación adecuada de las personas con discapacidad, adultos mayores y de aquellas personas que se encuentran en zonas de marginación en el Estado;
 
 VI.- Apoyar de manera integral el desarrollo de los deportistas nuevoleoneses de alto rendimiento; y
 
@@ -133,9 +135,17 @@ XXV. Definir e impulsar programas especiales para el fomento de la práctica de 
 
 XXVI. Concertar y suscribir acuerdos de colaboración con organismos gubernamentales, no gubernamentales, públicos y privados, nacionales e internacionales, para el desarrollo de la cultura física y del deporte;
 
-XXVII. Celebrar todos aquellos acuerdos, convenios y contratos que le permitan cumplir con su objeto y atribuciones; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-XXVIII. Las demás que le confiera esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
+XXVII. Celebrar todos aquellos acuerdos, convenios y contratos que le permitan cumplir con su objeto y atribuciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
+
+XXVIII. Ofrecer opciones de actividades deportivas a personas en zonas de marginación, acordes a los intereses y contextos de las personas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MAYO DE 2021)</small>
+
+XXIX. Las demás que le confiera esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
 
 ###### Artículo 6.
 
@@ -720,3 +730,9 @@ P.O. 10 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 318. SE REFORMA LA FRACCIÓN II Y III; ASÍ COMO POR ADICCIÓN (SIC) DE LA FRACCIÓN IV AL ARTÍCULO 7; UNA SECCIÓN TERCERA BIS, QUE COMPRENDERÁ LOS ARTÍCULOS 18 BIS; 18 BIS I; 18 BIS II; 18 BIS III Y 18 BIS IV; DE LA LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2021.
+
+## N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 477. SE REFORMAN LAS FRACCIONES II Y III Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 16 DE LA LEY ESTATAL DEL DEPORTE, Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3, LAS FRACCIONES XXVII Y XXVIII DEL ARTÍCULO 5; Y SE ADICIONA UNA FRACCIÓN XXIX AL ARTÍCULO 5 DE LA LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
