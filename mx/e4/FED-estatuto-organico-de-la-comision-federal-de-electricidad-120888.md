@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-120888
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-04-12"
-last_updated: "2021-03-05"
+last_updated: "2021-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120888&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-04-05"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2021.
 
 Estatuto publicado en la Segunda Sección al Número 8 del Diario Oficial de la Federación, el miércoles 12 de abril de 2017.
 
@@ -89,7 +89,9 @@ ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
 ### CAPÍTULO SEGUNDO. Objeto de las Unidades de Negocio
 
-### CAPÍTULO TERCERO. Gerencia de Centrales Nucleoeléctricas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE MAYO DE 2021)</small>
+
+### CAPÍTULO TERCERO. Coordinación Corporativa Nuclear
 
 ## TÍTULO SEXTO. De la relación entre la Comisión y sus Empresas Productivas Subsidiarias y Empresas Filiales
 
@@ -199,7 +201,9 @@ VI. Dirección Corporativa de Planeación Estratégica
 
 VII. Oficina del Abogado General
 
-D. Unidades de Negocio:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 10 DE MAYO DE 2021)</small>
+
+D. Unidades de negocio
 
 I. CFE TELECOM;
 
@@ -209,7 +213,9 @@ II. Laboratorio de Pruebas de Equipos y Materiales;
 
 III. Programa de Ahorro de Energía del Sector Eléctrico;
 
-IV. Gerencia de Centrales Nucleoeléctricas; y
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2021)</small>
+
+IV. Coordinación Corporativa Nuclear; y
 
 V. Las demás que se determinen de conformidad con los Términos para la estricta separación legal de la Comisión Federal de Electricidad y demás disposiciones jurídicas aplicables.
 
@@ -1041,13 +1047,13 @@ A la Subdirección de Contratación y Servicios, además de las funciones genér
 
 I. Emitir las convocatorias y pliegos de requisitos relativos a contrataciones en las materias de adquisiciones, arrendamientos y servicios, así como de obras y servicios relacionados que requiera la Comisión o cualquiera de sus empresas productivas subsidiarias que se lo solicite;
 
-> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2021)</small>
 
-II. Proponer disposiciones normativas, en las materias de adquisiciones, arrendamientos, servicios, obras y servicios relacionados, y almacenes;
+II. Proponer disposiciones normativas, en las materias de adquisiciones, arrendamientos, servicios, obras, inteligencia de mercado, servicios relacionados, y almacenes;
 
-> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2021)</small>
 
-III. Implementar las acciones referidas a procesos de servicios generales, protección civil, transporte de bienes, transportes aéreos y terrestres, logística administrativa en inmuebles, aplicables a la Comisión;
+III. Implementar las acciones referidas a procesos de inteligencia de mercado, servicios generales, protección civil, transporte de bienes, transportes aéreos y terrestres, logística administrativa en inmuebles, aplicables a la Comisión;
 
 IV. Coordinar la operación del sistema electrónico de contrataciones de la Comisión y sus empresas productivas subsidiarias.
 
@@ -1058,6 +1064,64 @@ V. Dirigir los procedimientos de contratación en las materias de adquisiciones,
 > <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
 
 VI. Tramitar los procedimientos de contratación y la firma de los contratos respectivos.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2021)</small>
+
+ARTÍCULO 44 BIS.- A la Subdirección de Contratación y Servicios estarán adscritas las siguientes áreas:
+
+I. Coordinación de Administración y Servicios
+
+II. Coordinación de Contratación de Obras y Servicios Relacionados.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2021)</small>
+
+ARTÍCULO 44 TER.- A la Coordinación de Administración y Servicios, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden las siguientes:
+
+I. Elaborar y emitir, por sí misma o a través de quien corresponda conforme al Manual operativo del área, las convocatorias y pliegos de requisitos relativos a contrataciones de adquisiciones, arrendamientos y servicios que requiera la Comisión o cualquiera de sus empresas productivas subsidiarias que lo solicite;
+
+II. Elaborar y proponer a la Subdirección de Contratación y Servicios la normativa en materia de adquisiciones, arrendamientos, servicios, inteligencia de mercado y almacenes;
+
+III. Coordinar la consolidación del Programa Anual de Contrataciones para bienes y servicios;
+
+IV. Planear, conducir y supervisar, en el ámbito de su competencia, por sí misma o a través de quien corresponda conforme al Manual operativo del área, cada una de las etapas de los procedimientos de contratación de adquisiciones, arrendamientos y servicios que requiera la Comisión o cualquiera de sus empresas productivas subsidiarias que lo solicite;
+
+V. Verificar, en el ámbito de su competencia y en coordinación con las áreas requirentes, que los contratos cumplan con los requisitos exigidos por la normativa en la materia y de acuerdo con la especialidad de los bienes, servicios o arrendamientos a contratar;
+
+VI. Requerir y verificar, en el ámbito de su competencia, toda información, documentación, requisitos que los concursantes deban presentar, exhibir o cumplir, de conformidad con la normativa en materia de adquisiciones, arrendamientos y servicios, inherente o necesaria en cada una de las etapas de los procedimientos de contratación, incluyendo los necesarios para la formalización y suscripción de los contratos respectivos;
+
+VII. Implementar las acciones necesarias para promover la integridad y transparencia de las contrataciones, en el ámbito de su competencia;
+
+VIII. Promover la participación y registro de Proveedores en los procedimientos de contratación de adquisiciones, arrendamientos y servicios, a fin de incentivar la competencia en la materia;
+
+IX. Ejecutar las acciones referentes a procesos de inteligencia de mercado, servicios, protección civil, transporte de bienes, transportes aéreos y terrestres, logística administrativa en inmuebles de la Comisión, aplicables a la Comisión;
+
+X. Operar el sistema electrónico de contrataciones de la Comisión y sus empresas productivas subsidiarias; y
+
+XI. Participar en los diversos órganos colegiados en materia de contrataciones y de acuerdo con la naturaleza de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2021)</small>
+
+ARTÍCULO 44 QUATER.- A la Coordinación de Contratación de Obras y Servicios Relacionados, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden las siguientes:
+
+I. Elaborar y emitir, por sí misma o a través de quien corresponda conforme al Manual operativo del área, las convocatorias y pliegos de requisitos relativos a contrataciones de obras y servicios relacionados que requiera la Comisión o cualquiera de sus empresas productivas subsidiarias que lo solicite.
+
+II. Elaborar y proponer a la Subdirección de Contratación y Servicios la normativa en materia de obras y servicios relacionados.
+
+III. Coordinar la integración del Programa Anual de Contrataciones de obra;
+
+IV. Determinar los criterios para la elaboración de investigaciones de mercado, condiciones técnicas y económicas de los costos de procedimientos, así como costos de obras y servicios relacionados;
+
+V. Planear, conducir y supervisar, en el ámbito de su competencia, por sí misma o a través de quien corresponda conforme al Manual operativo del área, cada una de las etapas los procedimientos de contratación obras y servicios relacionados que requiera la Comisión o cualquiera de sus empresas productivas subsidiarias que lo solicite;
+
+VI. Verificar, en el ámbito de su competencia y en coordinación con las áreas requirentes, que los contratos cumplan con los requisitos exigidos por la normativa en la materia y de acuerdo con la especialidad de las obras y servicios relacionados a contratar;
+
+VII. Requerir y verificar, en el ámbito de su competencia, toda información, documentación, requisitos que los concursantes deban presentar, exhibir o cumplir, de conformidad con la normativa en materia de obras y servicios relacionados, inherente o necesaria en cada una de las etapas de los procedimientos de contratación, incluyendo los necesarios para la formalización y suscripción de los contratos respectivos;
+
+VIII. Implementar las acciones necesarias para promover la integridad y transparencia de las contrataciones, en el ámbito de su competencia;
+
+IX. Promover la participación y registro de contratistas en los procedimientos de contratación de obras y servicios relacionados, a fin de incentivar la competencia en la materia; y
+
+X. Participar en los diversos órganos colegiados en materia de contrataciones y de acuerdo con la naturaleza de sus funciones.
 
 ###### ARTÍCULO 45.
 
@@ -1309,27 +1373,37 @@ El Laboratorio de Pruebas de Equipos y Materiales es la Unidad de Negocio respon
 
 El Programa de Ahorro de Energía del Sector Eléctrico es la Unidad de Negocio responsable de la creación de valor a través del aprovechamiento, administración y comercialización de los servicios relacionados a la evaluación, certificación y comercialización de dispositivos, técnicas, sistemas de control y tecnologías que promuevan el ahorro de energía eléctrica.
 
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 60.
 
-La Gerencia de Centrales Nucleoeléctricas es la Unidad de Negocio de Generación Nuclear de la Comisión, que tendrá a su cargo el control de los activos de generación nuclear.
+La Coordinación Corporativa Nuclear es la Unidad de Negocio de Generación Nuclear de la Comisión, que tendrá a su cargo el control de los activos de generación nuclear.
 
-La Gerencia de Centrales Nucleoeléctricas estará bajo el control inmediato del Director General y contará con un gerente que será nombrado por éste.
+La Coordinación Corporativa Nuclear estará bajo el control inmediato del Director General y contará con un Coordinador nombrado por éste.
 
-### CAPÍTULO TERCERO. Gerencia de Centrales Nucleoeléctricas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE MAYO DE 2021)</small>
+
+### CAPÍTULO TERCERO. Coordinación Corporativa Nuclear
+
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 61.
 
-El gerente será el responsable directo de que la operación de las centrales a su cargo se lleve a cabo conforme al Programa de Garantía de Calidad, las condiciones de la Licencia de Operación autorizada por la Comisión Nacional de Seguridad Nuclear y Salvaguardias, la normatividad y regulación aplicable, así como las mejores prácticas internacionales en la materia.
+El Coordinador será el responsable directo de que la operación de las centrales a su cargo se lleve a cabo conforme al Programa de Garantía de Calidad, las condiciones de la Licencia de Operación autorizada por la Comisión Nacional de Seguridad Nuclear y Salvaguardias, la normatividad y regulación aplicable, así como las mejores prácticas internacionales en la materia.
+
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 62.
 
-El Director General ejercerá la supervisión operativa y administrativa de la Gerencia de Centrales Nucleoeléctricas a través de la Dirección Corporativa de Operaciones, con base en la delegación de funciones que al efecto emita.
+El Director General ejercerá la supervisión operativa y administrativa de la Coordinación Corporativa Nuclear a través de la Dirección Corporativa de Operaciones, con base en la delegación de funciones que al efecto emita.
 
-El Director Corporativo de Operaciones llevará a cabo una auditoría anual a las condiciones de operación de dicha Central.
+El Director Corporativo de Operaciones llevará a cabo al menos una auditoría anual a las condiciones de operación de los activos de generación nuclear de la Comisión.
+
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 63.
 
-La Gerencia de Centrales Nucleoeléctricas tendrá la estructura que se determine en su Manual de Organización. La estructura de la Gerencia deberá ser tal que garantice su operación segura y eficaz conforme a las normas citadas en el presente Estatuto y demás disposiciones aplicables.
+La Coordinación Corporativa Nuclear tendrá la estructura que se determine en su Manual de Organización. La estructura de la Coordinación deberá ser tal que garantice su operación segura y eficaz conforme a las normas citadas en el presente Estatuto y demás disposiciones aplicables.
 
 ## TÍTULO SEXTO. De la Relación entre la Comisión y sus Empresas Productivas Subsidiarias y Empresas Filiales
 
@@ -1570,3 +1644,11 @@ D.O.F. 5 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DE LAS “MODIFICACIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD”.]
 
 ÚNICO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS “MODIFICACIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD”.]
+
+Primero.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En tanto no sea aprobado el manual de organización específico de la Coordinación Corporativa Nuclear, dicha Unidad de Negocio tendrá la estructura y las funciones con las que actualmente cuenta la Gerencia de Centrales Nucleoeléctricas y estará sujeta a la normatividad interna que actualmente la rige.
