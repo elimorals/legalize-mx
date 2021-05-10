@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-10353
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2017-07-10"
+last_updated: "2021-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -73,7 +73,9 @@ El Ministerio Público, representante del interés social, es una institución d
 
 El Ministerio Público es de carácter civil, disciplinado, profesional, único, indivisible y jerárquico en su organización; en sus funciones no podrá ser influido ni restringido por ninguna otra autoridad o instancia.
 
-Su actuación se sujetará a los principios de legalidad, responsabilidad, objetividad, transparencia, honradez, confidencialidad, lealtad, eficiencia y de respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que México forme parte y la Constitución Política del Estado de Hidalgo.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+
+Su actuación se sujetará a los principios de legalidad, responsabilidad, objetividad, transparencia, honradez, confidencialidad, lealtad, inmediatez, perspectiva de género, perspectiva intercultural y perspectiva a favor de las personas con discapacidad.
 
 ###### ARTÍCULO 3.
 
@@ -259,9 +261,11 @@ XII. Solicitar al Consejo de Honor y Justicia, la aplicación de sanciones a los
 
 XIII. Comparecer ante el Congreso del Estado, para informar sobre los asuntos de su competencia;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-XIV. Coadyuvar en la política criminológica del Estado, formulando programas que estén acordes con el conjunto de actividades tendientes a prevenir, controlar y combatir la delincuencia, así como los hechos que la ley señala como delitos de corrupción.
+XIV. De acuerdo con los registros oficiales de la Procuraduría, ordenar se rinda la información respecto a la incidencia delictiva en el Estado, con la finalidad de coadyuvar en la política criminológica de la Entidad, formulando programas que estén acordes con el conjunto de actividades tendientes a prevenir, controlar y combatir la delincuencia, así como los hechos que la ley señala como delitos de corrupción; debiendo en el caso de los ilícitos cometidos en agravio de mujeres, desagregar la información de acuerdo con los mecanismos que fijen las autoridades competentes, en materia de estadísticas de seguridad pública.
+
+En el caso de los ilícitos cometidos en agravio de mujeres, deberá dictar todas las medidas necesarias para que los Agentes del Ministerio Público responsables de la integración de las carpetas de investigación, apliquen la perspectiva de género, centrándose en la víctima y considerando todos los factores de violencia que pudo sufrir.
 
 XV. Garantizar la autonomía técnica y de gestión de la institución;
 
@@ -723,7 +727,9 @@ III. Toxicológicos;
 
 IV. Periciales de polígrafo; y
 
-V. Los demás que se consideren necesarios para la calificación del personal. Los procesos de evaluación tendrán por objeto comprobar que los servidores públicos a que se refiere el párrafo primero, dan debido cumplimiento a los principios de legalidad, eficiencia, profesionalismo, honradez, lealtad, objetividad, imparcialidad y de respeto a los derechos humanos.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+V. Los demás que se consideren necesarios para la calificación del personal. Los procesos de evaluación tendrán por objeto comprobar que los servidores públicos a que se refiere el párrafo primero, dan debido cumplimiento a los principios de legalidad, eficiencia, profesionalismo, honradez, lealtad, objetividad, imparcialidad, inmediatez, perspectiva de género, perspectiva intercultural, perspectiva a favor de las personas con discapacidad y de respeto a los derechos humanos.
 
 ###### ARTÍCULO 38.
 
@@ -952,3 +958,9 @@ PRIMERO. El presente Decreto entrará en vigencia al día siguiente de su public
 SEGUNDO. Dentro de los treinta días siguientes a la entrada en vigor de este Decreto, el Congreso del Estado de Hidalgo, emitirá la convocatoria para designar al Fiscal Especializado en Delitos de Corrupción de la Procuraduría General de Justicia del Estado, conforme a lo establecido en la Constitución Política del Estado y esta Ley.
 
 TERCERO. El actual Procurador General de Justicia del Estado de Hidalgo continuará en su encargo hasta que cumpla con el periodo para el cual fue nombrado.
+
+P.O. 10 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 701 QUE REFORMA EL ARTÍCULO 2 PÁRRAFO TERCERO, 14 FRACCIÓN XIV Y 37 FRACCIÓN V DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
