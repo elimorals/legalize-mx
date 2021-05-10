@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1422
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-16"
-last_updated: "2020-03-16"
+last_updated: "2021-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de marzo de 2020.
 
@@ -237,9 +237,17 @@ I.- Implementar y promover acciones para erradicar toda discriminación, basada 
 
 II.- Desarrollar actividades de concientización sobre la importancia de la Igualdad Sustantiva entre mujeres y hombres;
 
-III.- Garantizar la igualdad entre mujeres y hombres en las políticas; e
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-IV.- Crear las Unidades de Género conforme a lo dispuesto en la presente Ley, para fortalecer la institucionalización de la igualdad entre mujeres y hombres en el Estado.
+III.- Garantizar la igualdad entre mujeres y hombres en las políticas;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+IV.- Crear las Unidades de Género conforme a lo dispuesto en la presente Ley, para fortalecer la institucionalización de la igualdad entre mujeres y hombres en el Estado; y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+V.- Observar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económicas, laborales y sociales, con el fin de evitar la segregación laboral. Así como, eliminar las diferencias remuneratorias por medio del impulso de políticas y prácticas equitativas de salarios entre ambos sexos por un trabajo de igual valor, de acuerdo con lo establecido en el artículo 23 de la presente Ley.
 
 ### CAPÍTULO II. ÁMBITO EDUCATIVO
 
@@ -756,3 +764,13 @@ ELSA LUCÍA ARMENDÁRIZ SILVA
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 11 de marzo de 2020.- Martín Orozco Sandoval.- Rúbrica.- La Secretaria General de Gobierno, Mtra. Siomar Eline Estrada Cruz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 549.- SE REFORMAN LAS FRACCIONES III Y IV Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 13 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
