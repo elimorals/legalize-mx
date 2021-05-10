@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-mediacion-y-conciliacion-del-estado-de-aguascalientes-42
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2018-12-31"
+last_updated: "2021-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE MEDIACIÓN Y CONCILIACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 27 de diciembre de 2004.
 
@@ -53,11 +53,11 @@ Los procedimientos de mediación y conciliación estarán a cargo del Centro de 
 
 También podrán proporcionar servicios de mediación y conciliación los Jueces Menores Mixtos, las dependencias del Poder Ejecutivo y las Municipales que lo requieran para la mejor solución de los conflictos que ante ellas se presenten, de acuerdo con sus funciones, las instituciones privadas constituidas para tal efecto y las personas físicas.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
 ###### Artículo 3º.
 
-Todos los mediadores y conciliadores deberá (sic) someterse a la presente Ley y contar con certificación y registro del Centro de Mediación; además de contar con la capacitación que se requiera en materia de violencia y perspectiva de género, independientemente de que presten sus servicios para instituciones públicas o privadas, de conformidad con la presente Ley.
+Todos los mediadores y conciliadores deberán someterse a la presente Ley y contar con certificación y registro del Centro de Mediación; además de contar con la capacitación que se requiera en materia de violencia y perspectiva de género, independientemente de que presten sus servicios para instituciones públicas o privadas, de conformidad con la presente Ley.
 
 ###### Artículo 4º.
 
@@ -373,13 +373,25 @@ Por mecanismos de justicia restaurativa, se entenderá todo procedimiento no jur
 
 El pacto entre la víctima u ofendido y el imputado, tiene como finalidad la solución del conflicto, ya se refiera a la reparación, restitución o resarcimiento del daño y/o perjuicios ocasionados por el delito. Así mismo, se extenderá a la realización o abstención de determinada conducta, prestación de servicio a la propia víctima u ofendido o a la comunidad, e incluso el pedimento de una disculpa o del perdón, mediante cualquier mecanismo idóneo para concluir el procedimiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
 ###### Artículo 34.
 
-La justicia restaurativa se rige por los principios de voluntariedad de las partes, confidencialidad, flexibilidad; neutralidad, imparcialidad, equidad, legalidad y honestidad.
+La justicia restaurativa se regirá por los principios rectores que a continuación se definen:
+
+I.- Voluntariedad: La participación de los Intervinientes deberá ser por propia decisión, libre de toda coacción y no por obligación;
+
+II.- Información: Deberá informarse a los Intervinientes, de manera clara y completa, sobre los Mecanismos Alternativos, sus consecuencias y alcances;
+
+III.- Confidencialidad: La información tratada no deberá ser divulgada y no podrá ser utilizada en perjuicio de los Intervinientes dentro del proceso penal, salvo que se trate de un delito que se esté cometiendo o sea inminente su consumación y por el cual peligre la integridad física o la vida de una persona, en cuyo caso, el Facilitador lo comunicará al Ministerio Público para los efectos conducentes;
+
+IV.- Flexibilidad y simplicidad: Los mecanismos alternativos carecerán de toda forma estricta, propiciarán un entorno que sea idóneo para la manifestación de las propuestas de los Intervinientes para resolver por consenso la controversia; para tal efecto, se evitará establecer formalismos innecesarios y se usará un lenguaje sencillo;
+
+V.- Imparcialidad: Los Mecanismos Alternativos deberán ser conducidos con objetividad, evitando la emisión de juicios, opiniones, prejuicios, favoritismos, inclinaciones o preferencias que concedan u otorguen ventajas a alguno de los Intervinientes;
+
+VI.- Equidad: Los Mecanismos Alternativos propiciarán condiciones de equilibrio entre los Intervinientes;
+
+VII.- Honestidad: Los Intervinientes y el Facilitador deberán conducir su participación durante el mecanismo alternativo con apego a la verdad.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -560,3 +572,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 En caso de que a la entrada en vigor del presente Decreto se encuentre pendiente de resolución alguna queja, el Director del Centro de Mediación y Conciliación del Poder Judicial deberá requerir a quien la hubiere interpuesto, para que anexe las pruebas con que acredite su dicho, debiendo solicitar nuevamente al Mediador o Conciliador, para que rinda el informe correspondiente y pueda entonces proceder en términos de ley.
+
+P.O. 10 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 543.- SE REFORMAN LOS ARTÍCULOS 3° Y 34 DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
