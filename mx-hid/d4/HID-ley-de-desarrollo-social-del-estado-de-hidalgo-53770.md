@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2020-12-21"
+last_updated: "2021-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -69,9 +69,9 @@ Queda prohibida cualquier practica discriminatoria en la prestación de los bien
 
 La presente Ley tiene por objeto:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-I.- Garantizar el pleno ejercicio de los derechos sociales consagrados en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Hidalgo, asegurando el acceso de toda la población al desarrollo social;
+I.- Garantizar el pleno ejercicio de los derechos sociales consagrados en la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales celebrados por el Estado Mexicano y Constitución Política del Estado de Hidalgo, asegurando el acceso de toda la población al desarrollo social;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2018)</small>
 
@@ -121,23 +121,21 @@ IX.- Estado: El Estado Libre y Soberano de Hidalgo;
 
 X.- Ley: La presente Ley de Desarrollo Social del Estado de Hidalgo;
 
-XI.- Marginación: La dinámica mediante la cual las personas se encuentran fuera del acceso y disponibilidad de bienes, servicios y opciones para el desarrollo social;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+XI.- Marginación: A la condición social en la cual las personas en hogares presentan carencias sociales y bajo ingreso, y se encuentran geográficamente fuera del acceso y disponibilidad de bienes y servicios necesarios para su desarrollo integral;
 
 XII.- Organizaciones: Las asociaciones civiles y sociales legalmente constituidas, cuyo objeto sea realizar actividades relacionadas con el desarrollo social, y todas aquellas que aunque no cuenten con registro reciban recursos del erario público;
 
-XIII.- Padrón: La relación oficial de beneficiarios que incluye a las personas habitantes del Estado, atendidas por los Programas, Municipales, Estatales y Federales de desarrollo social;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+XIII.- Padrón: Al Padrón Único de Personas Beneficiarias de los Programas Sociales, que es la relación oficial de beneficiarios que reciben programas estatales y municipales de desarrollo social cuyo perfil socioeconómico se establece en la normatividad correspondiente;
 
 XIV.- PED: Plan Estatal de Desarrollo;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-XV.- Pobreza: La condición de vida de las personas que presentan carencias a partir de los espacios de bienestar económico, derechos sociales y/o contexto territorial.
-
-a).- El espacio del bienestar económico comprende las necesidades asociadas a los bienes y servicios que puede adquirir la población mediante el ingreso;
-
-b).- El espacio de los derechos sociales son las carencias de la población en el ejercicio de sus derechos contemplados en el artículo 4 de esta Ley; y
-
-c).- El espacio del contexto territorial contempla aspectos que trascienden al ámbito individual como características geográficas, sociales y culturales; en específico, aquellos asociados al grado de cohesión social, así como otros considerados relevantes para el desarrollo social.
+XV. Pobreza: La incapacidad de un individuo o un hogar de satisfacer de manera digna y suficiente sus necesidades básicas en materia de alimentación, salud, educación, vivienda, transporte, recreación y servicios;
 
 > <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2019)</small>
 
@@ -149,6 +147,10 @@ XVII.- Programas Sociales: Aquellos programas públicos, privados o mixtos, que 
 
 XVIII.- Registro Social: La base de datos de la sociedad que en coordinación con las Autoridades Estatales y Municipales contribuyen al desarrollo y/o a la asistencia social en la Entidad;
 
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+XVIII BIS.- Reglas de operación: Documento normativo que establece aspectos técnicos y operativos de los programas de desarrollo social;
+
 XIX.- Secretaría: La Secretaría de Desarrollo Social del Gobierno del Estado de Hidalgo, como dependencia coordinadora de programas, políticas y acciones en materia de Desarrollo Social;
 
 XX.- Sistema: El Sistema Estatal de Desarrollo Social;
@@ -157,13 +159,17 @@ XX.- Sistema: El Sistema Estatal de Desarrollo Social;
 
 XXI.- Zonas de Atención Prioritaria: Las áreas o regiones de carácter rural o urbano, definidas por la Secretaría, cuya población registra pobreza y altos grados de marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos sociales establecidos en esta Ley;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-XXII.- Contraloría Social: Mecanismo de los beneficiarios, para verificar el cumplimiento de las metas y la correcta aplicación de los recursos públicos asignados a los programas de desarrollo social; y
+XXII.- Contraloría Social: Mecanismo de los beneficiarios, para verificar el cumplimiento de las metas y la correcta aplicación de los recursos públicos asignados a los programas de desarrollo social;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-XXIII.- Comités de Contraloría Social: Instrumento de que disponen los beneficiarios y la sociedad de manera organizada, independiente, voluntaria y honorífica, para verificar el cumplimiento de las metas y los programas de desarrollo social, la correcta aplicación de los recursos destinados a cada programa social, así como para interponer quejas o denuncias ante la autoridad competente.
+XXIII.- Comités de Contraloría Social: Instrumento de que disponen los beneficiarios y la sociedad de manera organizada, independiente, voluntaria y honorífica, para verificar el cumplimiento de las metas y los programas de desarrollo social, la correcta aplicación de los recursos destinados a cada programa social, así como para interponer quejas o denuncias ante la autoridad competente; y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+XXIV.- Exclusión social: A la condición de las personas en la cual la insuficiencia de vínculos con la sociedad le limitan una adecuada integración y desarrollo, por razones de etnicidad, género, discapacidad o autoestima, así como aquellas que pudieren vulnerar sus derechos humanos y sociales.
 
 ### CAPITULO II. DE LOS DERECHOS SOCIALES
 
@@ -285,9 +291,13 @@ X.- Informar a la sociedad sobre las acciones en torno al desarrollo social;
 
 XI.- Fomentar la participación de instituciones académicas, de investigación, organizaciones no gubernamentales y de la sociedad en general en la creación, desarrollo e instrumentación de estrategias y programas sociales;
 
-XII.- Promover y ejecutar por sí o con la participación de los diversos órdenes de gobierno y de la sociedad programas, proyectos, estrategias y acciones para el desarrollo social, con enfoque sostenible, territorial, urbano, rural, local, Municipal, regional y/o metropolitano;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-XIII.- Promover el impulso económico, la promoción de la productividad, la generación del empleo, la distribución equitativa de la riqueza y el impulso a la competitividad.
+XII.- Promover y ejecutar por sí o con la participación de los diversos órdenes de gobierno y de la sociedad programas, proyectos, estrategias y acciones para el desarrollo social, con enfoque sostenible, territorial, urbano, rural, local, Municipal, regional y/o metropolitano; y
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+XIII.- Promover el impulso económico, la promoción de la productividad, la generación del empleo, la distribución equitativa de la riqueza, el impulso a la competitividad y la capacidad de autogestión.
 
 ###### Artículo 11.
 
@@ -331,7 +341,13 @@ VII.- Informar a la sociedad sobre las acciones de desarrollo social;
 
 VIII.- Concertar acciones con los sectores público, social y privado en materia de desarrollo social;
 
-IX.- Establecer mecanismos para incluir la participación social organizada, en los programas y acciones de desarrollo social; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+IX.- Establecer mecanismos para incluir la participación social organizada, en los programas y acciones de desarrollo social;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+IX BIS.- Participar en el Sistema Nacional de Desarrollo Social en los términos que señala la Ley General de Desarrollo Social; y
 
 X.- Las demás que le señala la Ley, su Reglamento y demás disposiciones aplicables.
 
@@ -347,7 +363,13 @@ II.- Promover un desarrollo económico con sentido social que propicie y conserv
 
 III.- Fortalecer el desarrollo regional equilibrado;
 
-IV.- Garantizar formas de participación social, en la formulación, ejecución, instrumentación, evaluación y control de los programas sociales.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+IV.- Garantizar formas de participación social, en la formulación, ejecución, instrumentación, evaluación y control de los programas sociales; y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+V.- Promover el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales.
 
 ###### Artículo 14.
 
@@ -391,13 +413,29 @@ XIV.- Accesibilidad: Principio cualitativo que permite que todas las personas pu
 
 XV.- Libre determinación y autonomía de los pueblos indígenas y sus comunidades: Reconocimiento en el marco constitucional a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales; elección de representantes ante los ayuntamientos y acceso pleno a la jurisdicción del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-XVI.- Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas; y
+XVI.- Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas;
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-XVII. Interés superior de la niñez: En todas las decisiones y actuaciones se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos.
+XVII.- Interés superior de la niñez: En todas las decisiones y actuaciones se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes, en los tratados internacionales aplicables de los que el Estado Mexicano sea parte y las leyes locales en la materia;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+XVIII.- Competitividad: Conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+XIX.- Bienestar: Satisfacción de las necesidades básicas de las personas que se expresan en los niveles de educación, salud, alimentación, seguridad social, vivienda, desarrollo urbano y medio ambiente;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+XX.- Desarrollo humano: El proceso mediante el cual se generan, fomentan y fortalecen las oportunidades y posibilidades de las personas para desplegar sus potencialidades y capacidades humanas, para el logro de un mejoramiento y realización personal y de la sociedad en su conjunto; y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+XXI.- Igualdad sustantiva: Mejora progresiva de la distribución de la riqueza, el ingreso y la propiedad, en el acceso al conjunto de los bienes públicos, en la capacidad de incidencia en las decisiones públicas y el abatimiento de las grandes desigualdades entre personas, familias, grupos sociales y ámbitos territoriales.
 
 ###### Artículo 15.
 
@@ -465,13 +503,17 @@ Los Municipios serán entes primordiales en la ejecución de los Programas Socia
 
 Los Planes Municipales de Desarrollo, siempre deberán apegarse a los lineamientos que señalan ésta Ley y el PED.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+
 ###### Artículo 22.
 
-La programación, aplicación y distribución de los recursos destinados a financiar los programas sociales, se basarán en los criterios de eficacia, eficiencia y calidad en la prestación de los servicios.
+La programación, aplicación y distribución de los recursos destinados a financiar los programas sociales, se basarán en los criterios de eficacia, eficiencia, calidad, equidad y transparencia, en la prestación de los servicios.
 
-###### Artículo 23.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2021)</small>
 
-La programación del Desarrollo Social, incluirá los Programas Estatales, Institucionales Especiales y Municipales de Desarrollo Social, contemplando prioritariamente las siguientes vertientes:
+###### Articulo 23.
+
+La programación del Desarrollo Social, incluirá los programas Estatales Sociales, Institucionales Especiales y Municipales de Desarrollo Social, contemplando prioritariamente las siguientes vertientes.
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
@@ -498,6 +540,10 @@ En materia de alimentación, el Gobierno del Estado establecerá programas que p
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
 
 En materia de fortalecimiento a la educación, habrá en forma permanente un programa gratuito de entrega de útiles escolares para cada ciclo escolar, a los alumnos de escuelas públicas de educación básica de conformidad con la lista oficial emitida por la Autoridad Educativa competente.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
+
+El Estado, a través de la Secretaria, deberá instrumentar, implementar y desarrollar políticas públicas y mecanismos institucionales que permitan el establecimiento de Bancos de Alimentos en la Entidad.
 
 ###### Artículo 24.
 
@@ -528,6 +574,56 @@ III.- El monto del gasto que se ejercerá en cada uno de los aspectos de las acc
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2013)</small>
 
 IV.- La elaboración y publicación en el Periódico Oficial del Estado de Hidalgo, de las reglas de operación de todos los programas de desarrollo social, así como de la metodología, normatividad y calendarización.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
+
+Artículo 27 BIS.- Las reglas de operación de los programas de desarrollo social que formule el Gobierno del Estado y, en su caso, los ayuntamientos, deberán contener cuando menos:
+
+I. Objetivos;
+
+II. Glosario;
+
+III. Cobertura geográfica;
+
+IV. Población objetivo;
+
+V. Beneficiarias y beneficiarios;
+
+VI. Características de los apoyos;
+
+VII. Derechos, obligaciones y causas de suspensión;
+
+VIII. Participantes;
+
+IX. Coordinación institucional;
+
+X. Proceso;
+
+XI. Ejecución;
+
+XII. Auditoría;
+
+XIII. Control y seguimiento;
+
+XIV. Monitoreo y evaluación;
+
+XV. Transparencia;
+
+XVI. Enfoque de derechos;
+
+XVII. Pertinencia de género;
+
+XVIII. Perspectiva de género;
+
+XIX. Participación social;
+
+XX. Interculturalidad;
+
+XXI. Corresponsabilidad, productividad y sostenibilidad;
+
+XXII. Alineación con la Agenda de Desarrollo Sostenible 2030; y
+
+XXIII. Quejas y denuncias.
 
 ### CAPITULO VIII. DE LA EVALUACION
 
@@ -639,9 +735,11 @@ VII.- Apoyo para que puedan participar en ferias y eventos Nacionales e Internac
 
 ### CAPITULO XII. DEL PADRON
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+
 ###### Artículo 40.
 
-El Gobierno del Estado y los Municipios, en sus ámbitos de competencia, integrarán sus padrones de beneficiarios y complementarán los derivados de los Programas Sociales Federales.
+Con el propósito de asegurar la transparencia, participación, justicia distributiva, igualdad sustantiva y efectividad de los programas sociales, la Secretaría y los municipios en el ámbito de su competencia, integrarán el Padrón, el cual se complementará con la información derivada de los programas en la materia a nivel federal.
 
 ###### Artículo 41.
 
@@ -651,9 +749,19 @@ El padrón será administrado y actualizado por la Secretaría y podrá ser remi
 
 El Ejecutivo Estatal por conducto de la Secretaría, dará a conocer y Publicará en el Periódico Oficial de Gobierno del Estado, los lineamientos generales para la integración y actualización del padrón de beneficiarios de los ámbitos Estatal y Municipal, en un plazo no mayor de treinta días posteriores a la Publicación del Reglamento de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
+
+El Padrón se implementará a partir de la aplicación de un formato único estandarizado y de aplicación sistemática.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+
 ###### Artículo 43.
 
-Los Municipios darán a conocer en sesión de cabildo, los lineamientos y requisitos para la integración y actualización del padrón de beneficiarios de los Programas Municipales, instruyendo la difusión correspondiente.
+Los Municipios darán a conocer en sesión de cabildo, los lineamientos y requisitos para la integración y actualización del padrón de beneficiarios de los Municipios darán a conocer en sesión de cabildo, los lineamientos, criterios y requisitos para la integración (sic) los programas municipales, instruyendo la difusión correspondiente, en términos de los ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
+
+Artículo 43 BIS.- Los datos personales de los beneficiarios que se integren en la base de datos del Padrón Único, serán preservados en los términos de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Hidalgo, reservando aquellos de carácter confidencial y haciendo públicos los que constituyan información fundamental. La información del Padrón Único no puede ser usada para fines comerciales, electorales, políticos, ni para otra de índole distinta a la consulta ciudadana y a los fines establecidos de políticas públicas; su uso indebido será sancionado en términos de esta Ley y demás normas aplicables.
 
 ### CAPITULO XIII. DEL REGISTRO SOCIAL
 
@@ -741,15 +849,29 @@ IX.- Las demás inherentes al cumplimiento de su objeto social en los términos 
 
 Son derechos de los beneficiarios de los programas sociales los siguientes:
 
-I.- Recibir la información acerca de los programas y servicios que promuevan la Secretaría y los Municipios; así como de aquéllos que la Federación aplique en la Entidad;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+I.- Recibir oportunamente la información acerca de los programas y servicios que promuevan la Secretaría y los Municipios; así como de aquellos que la Federación aplique en la Entidad;
 
 II.- Recibir por parte de los oferentes de programas sociales un trato oportuno, respetuoso y con calidad, asimismo, ser asesorado respecto a los mecanismos para acceder a los programas y alcanzar su desarrollo integral;
 
 III.- Solicitar su inclusión, participación y acceso en los programas sociales;
 
-IV.- Recibir los servicios y prestaciones de los programas conforme a sus lineamientos generales y requisitos, salvo que les sean suspendidos por resolución administrativa o judicial debidamente fundada y motivada; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-V.- Presentar denuncias y quejas por el incumplimiento de esta Ley.
+IV.- Recibir los servicios y prestaciones de los programas conforme a sus lineamientos generales y requisitos, salvo que les sean suspendidos por resolución administrativa o judicial debidamente fundada y motivada;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+V.- Presentar denuncias y quejas ante las instancias correspondientes por el incumplimiento de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+
+VI.- Tener la reserva y privacidad de la información personal conforme a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Hidalgo.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 10 DE MAYO DE 2021]</small>
+
+Los beneficiarios de los programas de desarrollo social que señala esta Ley, además de las fracciones anteriores, serán atendidos de forma prioritaria en todas las dependencias y entidades de la administración pública estatal y municipal, siempre y cuando acrediten su calidad de beneficiarios, de conformidad con la presente Ley.
 
 ###### Artículo 51.
 
@@ -783,9 +905,13 @@ III.- Incentivar la participación de las personas, familias y organizaciones y,
 
 IV.- Coordinar las acciones orientadas a la consecución de los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE MAYO DE 2021)</small>
+
 V.- Promover estrategias de desconcentración y descentralización de recursos y acciones para los Programas Federales de Desarrollo Social hacia el Estado y de éste hacia los Municipios; y
 
-VI.- Vigilar y asegurar que los recursos asignados para el desarrollo social sean ejercidos con honradez, oportunidad, transparencia y equidad, garantizando la rendición de cuentas de las políticas públicas de Desarrollo Social.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+VI.- Vigilar y asegurar que los recursos asignados para el desarrollo social sean ejercidos con honradez, oportunidad, transparencia y equidad, los cuales deberán entregarse de acuerdo a las reglas de operación previamente publicadas en el Periódico Oficial de manera directa mediante cheque, transferencia bancaria, vales o en su caso en especie. La entrega no se realizará con dinero efectivo, salvo en aquellas localidades que no cuenten con servicios bancarios, garantizando la rendición de cuentas de las políticas públicas de Desarrollo Social.
 
 ###### Artículo 54.
 
@@ -979,6 +1105,10 @@ Cuando en un Municipio exista población indígena, las Autoridades Municipales 
 
 La Secretaría, realizará la difusión de los programas sociales, en donde puedan ser beneficiadas personas con discapacidad.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
+
+También publicará en sistema braille, los programas de desarrollo social donde pueda ser beneficiada una persona con una discapacidad visual.
+
 ### CAPITULO XXI. DE LA CONTRALORIA SOCIAL
 
 ###### Artículo 79.
@@ -1023,6 +1153,10 @@ Toda persona u organización podrán presentar las quejas y denuncias ante la Au
 
 Toda persona u organización podrá presentar denuncia ante la autoridad competente sobre cualquier hecho, acto u omisión, que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta Ley o contravengan sus disposiciones y de los demás ordenamientos que regulen materias relacionadas con el desarrollo social.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
+
+Artículo 82 BIS.- Las autoridades que tengan conocimiento de las denuncias presentadas además de lo mencionado en el artículo anterior deberán proceder observando la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 83.
@@ -1037,6 +1171,10 @@ III.- Los datos que permitan identificar a la presunta autoridad infractora; y
 
 IV.- Las pruebas que en su caso ofrezca el denunciante.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
+
+La denuncia popular podrá ser anónima, y se sujetará únicamente a lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas.
+
 ### CAPITULO XXIII. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 84.
@@ -1047,9 +1185,11 @@ El beneficiario u organización que contravenga las disposiciones de la presente
 
 Podrán ser sancionados con la cancelación definitiva de su inscripción en el Registro, en el caso de infracción reiterada o causa grave. Se considera infracción reiterada el que una misma organización previamente suspendida, se hiciera acreedora a una nueva suspensión, sin importar cuáles hayan sido las disposiciones de esta ley cuya observancia hubiere violado.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+
 ###### Artículo 85.
 
-Los recursos destinados al desarrollo social y combate a la pobreza, no podrán ser utilizados para fines distintos a los establecidos. El servidor público Estatal o Municipal, que valiéndose de su función o en ejercicio de ésta, condicione los apoyos, haga proselitismo a favor de un partido político y, en general contravenga las disposiciones de esta Ley, será sancionado de acuerdo a lo dispuesto en la Ley de Responsabilidades de Servidores Públicos para el Estado de Hidalgo y demás ordenamientos relativos, en el caso de ser Servidor Público Federal, se deberá informar al órgano de control interno competente.
+Los recursos destinados al desarrollo social y combate a la pobreza, no podrán ser utilizados para fines distintos a los establecidos. El servidor público Estatal o Municipal, que valiéndose de su función o en ejercicio de ésta, condicione los apoyos, haga proselitismo a favor de un partido político y, en general contravenga las disposiciones de esta Ley, será sancionado de acuerdo a lo dispuesto en la Ley de Responsabilidades de Servidores Públicos para el Estado de Hidalgo; en la Ley General de Responsabilidad (sic) Administrativas y demás ordenamientos relativos, en el caso de ser servidor público federal, se deberá informar al órgano de control interno competente.
 
 ###### Artículo 86.
 
@@ -1202,3 +1342,13 @@ P.O. 21 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 523 QUE REFORMA EL ARTÍCULO 80 TER DE LA LEY DESARROLLO SOCIAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE CONTRALORÍA SOCIAL".]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 706 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Las autoridades competentes tendrán un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor para realizar la armonización con relación al presente Decreto.
+
+TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto, deberán contemplarse a más tardar en el ejercicio fiscal 2022, quedando sujeto a la disponibilidad presupuestaria anual que se apruebe, así como a lo establecido en los convenios, acuerdos, planes, programas y normatividad vigente.
