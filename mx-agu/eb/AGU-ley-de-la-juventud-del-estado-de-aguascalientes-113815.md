@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-juventud-del-estado-de-aguascalientes-113815"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-04"
-last_updated: "2020-12-21"
+last_updated: "2021-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 21 DE DICIEMBRE DE 2020 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 426 PUBLICADO EN EL P.O. DE 7 DE DICIEMBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2016.
 
@@ -49,11 +47,13 @@ LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
 La presente Ley es de orden público, interés social y observancia general en el Estado; su objeto es establecer, fomentar y garantizar el ejercicio de los derechos de los Jóvenes así como definir las políticas públicas dirigidas a la Juventud.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 2°.
 
-Los derechos previstos en la presente Ley beneficiarán a la Juventud tanto a los que sean adultos como a los adolescentes en lo que conforme a su edad y desarrollo sea aplicable, quedando prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra situación personal, que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de los Jóvenes o de sus padres, representantes legales o tutores.
+Son derechos de los jóvenes los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, los tratados internacionales en los que el Estado Mexicano sea parte y demás ordenamientos aplicables.
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, sexo, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra situación personal, que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de los jóvenes o de sus padres, representantes legales o tutores.
 
 ###### ARTÍCULO 3°.
 
@@ -199,7 +199,9 @@ VII. Vincular a la población estudiantil con las autoridades competentes en mat
 
 Para tal efecto el Estado deberá crear mecanismos y programas que fomenten la capacitación, desarrollo de habilidades y talentos de todos los jóvenes, los cuales podrán ser impartidos por el Instituto de Capacitación para el Trabajo del Estado de Aguascalientes;
 
-VIII. Promover créditos financieros, estímulos fiscales y capacitación para los Jóvenes emprendedores;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+VIII. Promover créditos financieros para el desarrollo (sic) proyectos productivos, creativos o académicos, así como estímulos fiscales y capacitación para los jóvenes emprendedores;
 
 IX. Implementar acciones para que la Juventud se integre a actividades deportivas y de recreación de acuerdo a sus intereses personales;
 
@@ -211,13 +213,17 @@ XI. Generar información para la mejor implementación, desarrollo y evaluación
 
 XII. Impulsar la cultura de la libre información en los Jóvenes que sea útil para la toma de decisiones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-XIII. Promover la inclusión laboral de jóvenes con discapacidad, basada en habilidades y competencias laborales; y
+XIII. Promover la inclusión laboral de jóvenes con discapacidad, basada en habilidades y competencias laborales;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
 
-XIV. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
+XIV. Promover la inclusión de los jóvenes en los proyectos de labor social y comunitaria; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MAYO DE 2021)</small>
+
+XV. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -514,3 +520,9 @@ El presente decreto entra en vigor al día siguiente de su publicación en el Pe
 ###### ARTÍCULO SEGUNDO.
 
 La Comisión de la Juventud deberá emitir la convocatoria pública abierta a que se refiere la fracción V del artículo 9° B dentro de los noventa días naturales siguientes a la publicación del presente decreto.
+
+P.O. 10 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 548.- SE REFORMA EL ARTÍCULO 2°; 9°, FRACCIONES VIII, XIII Y XIV; Y SE ADICIONA UNA FRACCIÓN XV AL ARTÍCULO 9°, DE LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
