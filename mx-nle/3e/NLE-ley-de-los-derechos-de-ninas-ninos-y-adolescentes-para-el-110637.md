@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2021-03-31"
+last_updated: "2021-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -1015,7 +1015,9 @@ IV. Adoptar medidas tendientes a la eliminación (sic) las prácticas culturales
 
 V. Desarrollar la atención sanitaria preventiva, la orientación a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, y la educación y cuidados en materia de salud y reproductiva;
 
-VI. Establecer las medidas tendientes a prevenir embarazos de las niñas y las adolescentes;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+VI. Establecer medidas tendientes a prevenir, informar, investigar, atender, controlar y vigilar el embarazo en niñas y adolescentes;
 
 VII. Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio, así como para sus hijas e hijos, y promover la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, así como garantizar el acceso a la información sobre métodos anticonceptivos, conforme a su edad, desarrollo evolutivo cognoscitivo y madurez fomentando la participación de quienes detenten la patria potestad, tutela o guarda para el desarrollo de una maternidad y paternidad responsable;
 
@@ -2181,13 +2183,21 @@ XXXII. Realizar y promover estudios e investigaciones para fortalecer las accion
 
 XXXIII. Rendir un informe bimestral al Sistema para el Desarrollo Integral de la Familia, con copia al Titular del Ejecutivo Estatal, al H. Congreso del Estado de Nuevo León y al Poder Judicial del Estado de Nuevo León, de los trabajos realizados en su Dependencia;
 
-XXXIV. La Procuraduría de Protección será la única autoridad facultada para capacitar, evaluar y certificar a las Instituciones Asistenciales y a los Sistemas DIF Municipales así como al personal que en estas labore, para llevar a cabo acogimiento familiar y/o adopción, de acuerdo al Código Civil del Estado; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+XXXIV. La Procuraduría de Protección será la única autoridad facultada para capacitar, evaluar y certificar a las Instituciones Asistenciales y a los Sistemas DIF Municipales así como al personal que en estas labore, para llevar a cabo acogimiento familiar y/o adopción, de acuerdo al Código Civil del Estado;
 
-XXXV. Ejercer acción para el aseguramiento de alimentos, iniciando al (sic) procedimiento previsto en el Código de Procedimientos Civiles del Estado, a favor de los derechos de las niñas, niños y adolescentes, dejando a salvo los derechos de los interesados; Y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-XXXVI. Las demás obligaciones establecidas en la presente Ley y demás disposiciones aplicables.
+XXXV. Ejercer acción para el aseguramiento de alimentos, iniciando al (sic) procedimiento previsto en el Código de Procedimientos Civiles del Estado, a favor de los derechos de las niñas, niños y adolescentes, dejando a salvo los derechos de los interesados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
+
+XXXVI. Realizar las acciones necesarias para investigar y proteger de manera integral a niñas y adolescentes, en situación de embarazo temprano; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MAYO DE 2021)</small>
+
+XXXVII. Las demás obligaciones establecidas en la presente Ley y demás disposiciones aplicables.
 
 El Procurador de Protección podrá delegar a sus subalternos las atribuciones que se señalan (sic) este artículo.
 
@@ -2645,7 +2655,9 @@ IV. Garantizar la transversalidad de la perspectiva de derechos de niñas, niño
 
 V. Difundir el marco jurídico estatal, nacional e internacional de protección a los derechos de niñas, niños y adolescentes;
 
-VI. Impulsar acciones de difusión sobre los derechos de las niñas, niños y adolescentes, así como promover a través de los medios masivos de comunicación, la sensibilización comunitaria acerca de la problemática que viven algunos (sic) niñas, niños y adolescentes de la entidad;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+
+VI. Impulsar acciones de difusión sobre los derechos de las niñas, niños y adolescentes, así como promover a través de los medios masivos de comunicación, la sensibilización comunitaria acerca de la problemática que viven algunos (sic) niñas, niños y adolescentes de la entidad, como educación sexual y embarazos;
 
 VII. Propiciar que los principios básicos de la presente Ley, sean considerados en el proceso de toma de decisiones y en la formulación e instrumentación de las políticas, programas y presupuestos, que tengan impacto directo en las acciones a favor de las niñas, niños y adolescentes que se ejecuten en la entidad;
 
@@ -3128,3 +3140,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- La Secretaría de Educación del Estado aplicará de manera gradual un plan para la implementación de la presente reforma a partir del ciclo escolar 2021-2022.
 
 TERCERO.- Para cumplir con lo establecido en el presente Decreto se dará prioridad, a ocupar los recursos humanos y materiales con los que cuenta la Secretaria de Educación.
+
+P.O. 10 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 476. SE REFORMAN LAS FRACCIONES XXVII Y XXVIII; Y POR ADICIÓN LA FRACCIÓN XXIX AL ARTÍCULO 13, DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN Y SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 60, LA FRACCIÓN XXXIV, XXXV Y XXXVI DEL ARTÍCULO 145 Y LA FRACCIÓN VI DEL ARTÍCULO 167; Y POR ADICIÓN DE LA FRACCIÓN XXXVII AL ARTÍCULO 145, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán acorde a las capacidades financieras del Gobierno del Estado y se tomarán en cuenta en el Presupuesto de Egresos del ejercicio fiscal correspondiente.
