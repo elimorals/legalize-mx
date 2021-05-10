@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-administracion-publica-municipal-9639
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-21"
-last_updated: "2020-12-14"
+last_updated: "2021-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
 
 Reglamento publicado en el Número 42 del Periódico Oficial del Estado de Hidalgo, el lunes 21 de octubre de 2013.
 
@@ -623,31 +623,55 @@ Para el despacho de los asuntos que le competen, durante las ausencias temporale
 
 #### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA GENERAL MUNICIPAL
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 32.
 
 Para el cumplimiento de las atribuciones y funciones a su cargo, la o el titular de la Secretaría General Municipal contará con la siguiente estructura:
 
-I. Dirección General Jurídica.
+I.- Coordinación General Jurídica;
 
-a) Dirección de lo Contencioso;
+a).- Dirección de lo Contencioso;
 
 1) Departamento de la Junta de Reclutamiento;
 
-b) Dirección de la Oficialía del Registro del Estado Familiar;
+b).- Dirección de la Oficialía del Registro del Estado Familiar;
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2018)</small>
+II.- Secretaría Técnica;
 
-c) Oficina Conciliadora
+III.- Dirección de Desarrollo Político;
 
-II. Dirección de Desarrollo Político;
+IV.- Dirección de Vinculación Ciudadana;
 
-III. Dirección de Vinculación Ciudadana;
+V.- Dirección de Reglamentos y Espectáculos;
 
-IV. Dirección de Reglamentos y Espectáculos;
+VI.- Dirección de Protección Civil, Bomberos y Gestión Integral de Riesgos; y
 
-V. Dirección de Protección Civil, Bomberos y Gestión Integral de Riesgos; y
+VII.- Dirección de Comunicación Social.
 
-VI. Dirección de Comunicación Social.
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
+
+ARTÍCULO 32 BIS.- La Secretaría Técnica de la Secretaría General Municipal, es el órgano de vinculación entre la propia Secretaría General Municipal y los diferentes niveles de gobierno, las dependencias municipales, organizaciones no gubernamentales y la sociedad en general, y tendrá las siguientes atribuciones:
+
+I.- Definir y dar seguimiento a las metas del gobierno municipal.
+
+II.- Revisar la propuesta de los Manuales de Organización y Procedimientos de la estructura orgánica para que sea presentada al titular de la Secretaría General Municipal;
+
+III.- Ejecutar los programas que le correspondan en el contexto del Plan Municipal de Desarrollo y de la reglamentación interior de la administración municipal;
+
+IV.- Auxiliar a la persona titular de la Secretaría General Municipal en la conducción de política interior del municipio;
+
+V.- Coordinar las acciones de los Consejos de Colaboración y delegados municipales;
+
+VI.- Auxiliar en la atención de la audiencia ciudadana a la persona titular de la Secretaría, previo acuerdo.
+
+VII.- Elaborar fichas técnicas de las reuniones que presida la persona titular de la Secretaría y de los acuerdos que se establezcan, tanto con otras dependencias del municipio, del Estado y las organizaciones sociales;
+
+VIII.- Realizar el registro, dar seguimiento y Vigilar el cumplimiento de los acuerdos, convenios, contratos y otros, celebrados con las diferentes áreas de la Secretaría y con otras Dependencias u organizaciones sociales, hasta concluir el proceso
+
+IX.- Coordinar, supervisar y evaluar a las direcciones de área de la Secretaría General Municipal, respecto de sus funciones encomendadas; y
+
+X.- Coordinarse técnicamente con el Oficial Mayor del Ayuntamiento para que las Sesiones de Cabildo se lleven a cabo de acuerdo a lo programado y autorizado previamente por dicho órgano colegiado.
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL JURÍDICA
 
@@ -3914,3 +3938,9 @@ P.O. 14 DE DICIEMBRE DE 2020.
 [N DE E. TRANSITORIO DEL “DECRETO MUNICIPAL NÚMERO NUEVE POR EL QUE SE ADICIONA Y SE RECORRE UNA FRACCIÓN AL ARTÍCULO 86 Y SE ADICIONAN (SIC) EL ARTÍCULO 86 BIS AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO”.]
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO MUNICIPAL NÚMERO TRES; POR EL QUE SE REFORMA EL ARTÍCULO 32 Y SE ADICIONA EL ARTÍCULO 32 BIS DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO”.]
+
+ÚNICO.- El presente RESOLUTIVO en vía de DECRETO, entrará en vigor al día siguiente de su publicación, tanto en el Periódico Oficial del Estado de Hidalgo; así como en la Gaceta Oficial del Municipio de Pachuca de Soto, Estado de Hidalgo.
