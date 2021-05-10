@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2020-04-01"
+last_updated: "2021-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -297,11 +297,17 @@ XXV.- Establecer y dar seguimiento a los programas tendientes a prevenir y atend
 
 XXVI.- Brindar atención psicológica a los menores u otros incapaces sujetos a violencia familiar así como a los abandonados y en general a quienes requieran de este apoyo, incluyendo en su caso a los sujetos generadores de violencia familiar, en los términos y condiciones que dictamine el propio Organismo u ordene la autoridad judicial competente;
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
-XXVII.- Gestionar apoyos a personas con padecimientos crónicos u oncológicos cuya situación económica y de salud no les permita valerse por sí mismas; y
+XXVII. Gestionar apoyos a personas con padecimientos crónicos u oncológicos cuya situación económica y de salud no les permita valerse por sí mismas;
 
-XXVIII.- Los demás servicios de salud en materia de asistencia social que sean complementarios para el debido cumplimiento de su objetivo, y los demás que establezcan las disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
+
+XXVIII. Establecer y proponer programas tendientes a evitar, prevenir y atender embarazos en las niñas y adolescentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MAYO DE 2021)</small>
+
+XXIX. Los demás servicios de salud en materia de asistencia social que sean complementarios para el debido cumplimiento de su objetivo, y los demás que establezcan las disposiciones jurídicas aplicables.
 
 ###### ARTICULO 14o.
 
@@ -640,3 +646,11 @@ P.O. 1 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 277. SE ADICIONA UN ARTÍCULO 9 BIS DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
 
 ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 476. SE REFORMAN LAS FRACCIONES XXVII Y XXVIII; Y POR ADICIÓN LA FRACCIÓN XXIX AL ARTÍCULO 13, DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN Y SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 60, LA FRACCIÓN XXXIV, XXXV Y XXXVI DEL ARTÍCULO 145 Y LA FRACCIÓN VI DEL ARTÍCULO 167; Y POR ADICIÓN DE LA FRACCIÓN XXXVII AL ARTÍCULO 145, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán acorde a las capacidades financieras del Gobierno del Estado y se tomarán en cuenta en el Presupuesto de Egresos del ejercicio fiscal correspondiente.
