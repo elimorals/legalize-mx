@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2021-04-15"
+last_updated: "2021-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -171,9 +171,17 @@ VII. Ser valoradas y educadas libres de estereotipos de comportamiento, práctic
 
 VIII. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia con perspectiva de igualdad de género;
 
-IX. Erradicar la impunidad en casos de violencia contra las mujeres a través de la investigación y sanción de actos de autoridades omisas o negligentes; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-X. Subsanar las deficiencias que se adviertan dentro de los procedimientos internos y externos de las autoridades, que propicien la violencia contra las mujeres.
+IX. Erradicar la impunidad en casos de violencia contra las mujeres a través de la investigación y sanción de actos de autoridades omisas o negligentes;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+
+X. Subsanar las deficiencias que se adviertan dentro de los procedimientos internos y externos de las autoridades, que propicien la violencia contra las mujeres; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
+
+XI. Garantizar que en los procesos que se realicen ante las autoridades competentes se desarrollen bajo los principios de cultura de paz.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -489,9 +497,13 @@ XIV. Promover la creación del observatorio de justicia y género que será conf
 
 La integración y funcionamiento se establecerá en las disposiciones reglamentarias;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
 
-XV. Las demás que le señale la presente Ley y otros ordenamientos aplicables.
+XV. Generar en coordinación con las autoridades competentes políticas públicas en materia de cultura de paz; y
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+
+XVI. Las demás que le señale la presente ley y otros ordenamientos aplicables.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE OCTUBRE DE 2020)</small>
 
@@ -1888,3 +1900,13 @@ P.O. 15 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28369/LXII/21 QUE REFORMA EL ARTÍCULO 13 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28388/LXII/21 SE EXPIDE LA LEY DE CULTURA DE PAZ DEL ESTADO DE JALISCO Y REFORMA LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; LA LEY DE DESARROLLO SOCIAL; Y LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA, AMBOS PARA EL ESTADO DE JALISCO; ASÍ COMO LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN; LEY PARA EL DESARROLLO ECONÓMICO; LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA, TODOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
+
+TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
