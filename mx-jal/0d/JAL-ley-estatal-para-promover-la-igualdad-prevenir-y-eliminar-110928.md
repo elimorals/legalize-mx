@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-promover-la-igualdad-prevenir-y-eliminar-11092
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2020-10-03"
+last_updated: "2021-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
 
 Ley publicada en la Sección LXIV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -285,9 +285,17 @@ VI. Fortalecer los servicios de salud para la prevención, detección y tratamie
 
 VII. Garantizar los ajustes razonables desde el diseño universal, del entorno urbano, los servicios y los medios de transporte público de manera que se permita el libre acceso y desplazamiento para todas las personas;
 
-VIII. Promover la cultura de la denuncia por cuestiones de discriminación y falta de igualdad de trato y oportunidades, facilitando que la misma sea a través de medios electrónicos en todo el Estado; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-IX. Garantizar la no violencia institucional en contra de personas, grupos o comunidades, así como la debida diligencia en la actuación de los entes públicos.
+VIII. Promover la cultura de la denuncia por cuestiones de discriminación y falta de igualdad de trato y oportunidades, facilitando que la misma sea a través de medios electrónicos en todo el Estado;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+
+IX. Garantizar la no violencia institucional en contra de personas, grupos o comunidades, así como la debida diligencia en la actuación de los entes públicos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
+
+X. Promover la cultura de paz en el Estado.
 
 ###### Artículo 13.
 
@@ -958,3 +966,13 @@ P.O. 3 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27760/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28388/LXII/21 SE EXPIDE LA LEY DE CULTURA DE PAZ DEL ESTADO DE JALISCO Y REFORMA LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; LA LEY DE DESARROLLO SOCIAL; Y LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA, AMBOS PARA EL ESTADO DE JALISCO; ASÍ COMO LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN; LEY PARA EL DESARROLLO ECONÓMICO; LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA, TODOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
+
+TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
