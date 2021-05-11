@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-trabajo-de-los-servidores-publicos-del-estado-de-9276"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-06"
-last_updated: "2020-02-04"
+last_updated: "2021-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 6 de enero de 1989.
 
@@ -472,6 +472,14 @@ IV.- Asociarse para la defensa de sus intereses, y los demás derivados de esta 
 > <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
 
 V.- Disfrutar de licencias y permisos por maternidad o paternidad a fin de fomentar la igualdad en las responsabilidades familiares, en los términos establecidos en los artículos 24 y 24 BIS de la presente Ley.
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2021)</small>
+
+VI. Percibir licencia de cinco días hábiles con goce de sueldo, por el fallecimiento de padres, hijos, cónyuge, concubina o concubinario.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 11 DE MAYO DE 2021]</small>
+
+El órgano gubernamental que funja como patrón estará obligado a otorgar los días de descanso siempre y cuando el trabajador así lo desee.
 
 ###### ARTICULO 42.
 
@@ -1350,3 +1358,13 @@ P.O. 4 DE FEBRERO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. Publíquese para su conocimiento general en el Periódico Oficial del Gobierno del Estado, en el portal web del Congreso del Estado y divúlguese en los medios de comunicación.
+
+P.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 735 POR EL QUE SE ADICIONA LA FRACCIÓN VI, AL ARTICULO 41, DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO, NÚMERO 248; Y SE ADICIONA EL ARTÍCULO 25 BIS A LA LEY NÚMERO 51, ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO.- Remítase este Decreto al Gobernador Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes:
+
+TERCERO.- Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.”
