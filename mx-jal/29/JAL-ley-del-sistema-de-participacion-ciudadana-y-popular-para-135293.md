@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-participacion-ciudadana-y-popular-para-13529
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-09"
-last_updated: "2021-04-13"
+last_updated: "2021-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el martes 9 de abril de 2019.
 
@@ -69,7 +69,9 @@ I. Comité: el Comité de Participación Social del Sistema Estatal Anticorrupci
 
 II. Consejo: el Consejo de Participación Ciudadana y Popular para la Gobernanza;
 
-III. Consejos Municipales: los Consejos Municipales de Participación Ciudadana y Popular;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+
+III. Consejos Municipales: los Consejos Municipales de Participación Ciudadana para la Gobernanza y la Paz;
 
 IV. Instituto: el Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
@@ -2282,3 +2284,13 @@ P.O. 13 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28337/LXII/21 QUE REFORMA EL ARTÍCULO 17 DE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28388/LXII/21 SE EXPIDE LA LEY DE CULTURA DE PAZ DEL ESTADO DE JALISCO Y REFORMA LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; LA LEY DE DESARROLLO SOCIAL; Y LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA, AMBOS PARA EL ESTADO DE JALISCO; ASÍ COMO LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN; LEY PARA EL DESARROLLO ECONÓMICO; LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA, TODOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
+
+TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
