@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2020-11-28"
+last_updated: "2021-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1003,9 +1003,9 @@ VIII. Expedir y aplicar los reglamentos relativos a la prestación de los servic
 
 IX. Apoyar la educación, la cultura, la asistencia social y demás funciones públicas en la forma que las leyes y reglamentos de la materia dispongan;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-X. Atender la seguridad en todo el Municipio y dictar las medidas tendientes a mantener la seguridad, el orden público y la preservación de los derechos humanos;
+X. Atender la seguridad en todo el Municipio y dictar las medidas tendientes a mantener la seguridad, la paz, el orden público, la preservación y garantía de los derechos humanos.
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1099,13 +1099,17 @@ XVI. Nombrar y remover a la persona titular del Órgano Interno de Control; en l
 
 XVII. Las demás que les establezcan las constituciones federal, estatal y demás leyes, tanto federales como locales y reglamentos.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2021)</small>
 
 ###### Artículo 38 Bis.
 
-Los Ayuntamientos pueden conformar consejos consultivos ciudadanos, para que apoyen y asesoren a la autoridad municipal en las áreas que para tal efecto establezcan los ordenamientos municipales respectivos.
+Los Ayuntamientos con pleno respeto de su autonomía podrán integrar consejos municipales de gobernanza y paz en los términos que establezcan los reglamentos municipales en la materia; asimismo, conformar consejos consultivos ciudadanos, para que apoyen y asesoren a la autoridad municipal en las áreas que para tal efecto establezcan los ordenamientos municipales respectivos.
 
-Dichos órganos de participación son creados libremente por los Ayuntamientos y al ser organismos de naturaleza ciudadana, no forman parte del Ayuntamiento, ni de las dependencias y entidades que le auxilian, por lo que en ningún caso pueden asumir funciones que constitucional y legalmente le correspondan al órgano de gobierno del Municipio o a la administración pública municipal de la que derivan.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2021)</small>
+
+Dichos órganos son creados por disposición de ley o libremente por los Ayuntamientos y al ser organismos de naturaleza ciudadana, no forman parte del Ayuntamiento, sin embargo, participarán en la discusión y toma de decisiones de los asuntos públicos del ámbito municipal en la forma, términos y con las funciones que les otorguen las leyes y los ordenamientos municipales.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 El cargo de integrante de estos órganos es honorífico por lo que no se recibe remuneración económica por su ejercicio y tratándose de servidores públicos, sus funciones son inherentes al cargo que desempeñen. Los representantes de la sociedad civil que forman parte de estos consejos carecen de la calidad de servidores públicos.
 
@@ -2401,9 +2405,9 @@ Es de orden e interés público, el funcionamiento de personas jurídicas que or
 
 Las asociaciones de vecinos cualesquiera que sea su denominación, deben adoptar la figura de asociación civil prevista en la legislación civil sustantiva estatal.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MAYO DE 2021)</small>
 
-Los reglamentos municipales deben regular el funcionamiento y las prevenciones mínimas que contendrán los estatutos de las asociaciones de vecinos y otras formas de organización ciudadana y vecinal a que se refiere el presente título, en lo que respecta a su papel como personas jurídicas auxiliares de la participación social, conforme a las siguientes bases:
+Los reglamentos municipales deben regular el funcionamiento y las prevenciones mínimas que contendrán los estatutos de los organismos sociales, las asociaciones de vecinos y otras formas de participación ciudadana y vecinal, conforme a las siguientes bases:
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2020)</small>
 
@@ -2421,13 +2425,13 @@ III. Corresponde al Ayuntamiento establecer los límites de la colonia, barrio, 
 
 IV. No pueden ser propuestos como miembros de las directivas, personas que sean integrantes del ayuntamiento o que desempeñen cargos en la administración pública municipal;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-V. Las personas jurídicas que tengan funciones de representación ciudadana y vecinal deben promover la conservación y mejoramiento del medio ambiente, con el fin de propiciar una mejor calidad de vida de los habitantes de su zona, barrio o colonia; y
+V. Las personas jurídicas que tengan funciones de representación ciudadana y vecinal deben promover la cultura de la paz, los derechos humanos, la conservación y mejoramiento del medio ambiente, con el fin de propiciar una mejor calidad de vida de los habitantes de su zona, barrio o colonia; y
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-VI. Los conflictos que se presenten entre los vecinos y las personas jurídicas que los representen, entre los integrantes de estas y las directivas, así como entre las diversas personas jurídicas con funciones de representación ciudadana y vecinal, serán resueltos mediante arbitraje de la dependencia municipal designada para coordinar las relaciones del Municipio con las personas jurídicas que señala este título.
+VI. Los conflictos que se presenten entre los vecinos y las personas jurídicas que los representen, entre los integrantes de éstas y las directivas, así como entre las diversas personas jurídicas con funciones de representación ciudadana y vecinal, serán resueltos mediante los métodos alternativos de solución de conflictos por un mediador certificado y ante la dependencia municipal designada para coordinar las relaciones del Municipio con las personas jurídicas que señala este título o en los términos de la ley en la materia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3318,3 +3322,13 @@ P.O. 28 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28003/LXII/20 QUE REFORMA EL ARTÍCULO 120, EL PÁRRAFO PRIMERO, LA FRACCIÓN I DEL ARTÍCULO 121, Y LA FRACCIÓN III DEL ARTÍCULO 123 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO".]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28388/LXII/21 SE EXPIDE LA LEY DE CULTURA DE PAZ DEL ESTADO DE JALISCO Y REFORMA LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; LA LEY DE DESARROLLO SOCIAL; Y LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA, AMBOS PARA EL ESTADO DE JALISCO; ASÍ COMO LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN; LEY PARA EL DESARROLLO ECONÓMICO; LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA, TODOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
+
+TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
