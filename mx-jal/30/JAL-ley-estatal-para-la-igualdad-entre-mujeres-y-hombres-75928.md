@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-la-igualdad-entre-mujeres-y-hombres-75928"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-05"
-last_updated: "2020-12-29"
+last_updated: "2021-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 5 de agosto de 2010.
 
@@ -187,9 +187,17 @@ Es política permanente del Estado, el desarrollo de acciones afirmativas conduc
 
 I. Generar las condiciones para la construcción de relaciones de igualdad de trato y oportunidades entre mujeres y hombres, así como también de las personas con discapacidad;
 
-II. Promover el desarrollo pleno y el respeto a los derechos de los niños, niñas y adolescentes; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-III. Reconocer y garantizar la participación ciudadana y los mecanismos de control social para el cumplimiento de las políticas de igualdad de trato y oportunidades.
+II. Promover el desarrollo pleno y el respeto a los derechos de los niños, niñas y adolescentes;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+
+III. Reconocer y garantizar la participación ciudadana y los mecanismos de control social para el cumplimiento de las políticas de igualdad de trato y oportunidades; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
+
+IV. Reconocer y promover el derecho humano a la paz.
 
 ###### Artículo 24.
 
@@ -920,3 +928,13 @@ P.O. 29 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28388/LXII/21 SE EXPIDE LA LEY DE CULTURA DE PAZ DEL ESTADO DE JALISCO Y REFORMA LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; LA LEY DE DESARROLLO SOCIAL; Y LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA, AMBOS PARA EL ESTADO DE JALISCO; ASÍ COMO LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN; LEY PARA EL DESARROLLO ECONÓMICO; LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA, TODOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
+
+TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
