@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-de-las-juventudes-del-148895"
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-03"
-last_updated: "2021-04-03"
+last_updated: "2021-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 3 de abril de 2021.
 
@@ -57,9 +57,17 @@ III. Definir los instrumentos de participación de las juventudes en el desarrol
 
 IV. Establecer las bases para la elaboracion de las políticas públicas por parte del Estado y los municipios, en materia de juventudes;
 
-V. Crear el Sistema Estatal de Atención a las Juventudes; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-VI. Establecer las bases para diseño y operación del Programa Estatal de las Juventudes.
+V. Crear el Sistema Estatal de Atención a las Juventudes;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+
+VI. Establecer las bases para diseño y operación del Programa Estatal de las Juventudes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
+
+VII. Garantizar las condiciones para el pleno goce al derecho humano a la paz.
 
 ###### Artículo 2.
 
@@ -173,9 +181,17 @@ II. Participar en las actividades culturales, recreativas, deportivas, educativa
 
 III. Proponer acciones legislativas, políticas públicas, estrategias y programas en materia de juventud en el estado y sus municipios por medio de las instancias correspondientes;
 
-IV. Elegir libremente la profesión, arte u oficio a que decida dedicarse, así como de emplear la forma, el tiempo y el sitio de trabajo que estime conveniente, siempre y cuando sea lícito; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-V. Votar y participar en los procesos democráticos de elección popular establecidos en la Constitución Política del Estado de Jalisco, promoviendo más y mejores oportunidades de participación.
+IV. Elegir libremente la profesión, arte u oficio a que decida dedicarse, así como de emplear la forma, el tempo (sic) y el sitio de trabajo que estime conveniente, siempre y cuando sea lícito;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+
+V. Votar y participar en los procesos democráticos de elección popular establecidos en la Constitución Política del Estado de Jalisco, promoviendo más y mejores oportunidades de participación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
+
+VI. Disfrutar del derecho humano a la paz.
 
 El goce de los derechos y libertades reconocidos a los jóvenes en la presente ley no admite ninguna discriminación fundada en la raza, el color, el origen nacional, la pertenencia a una minoría nacional, étnica o cultural, el sexo, la orientación sexual, la lengua, la religión, las opiniones, la condición social, las aptitudes físicas, o la discapacidad, el lugar donde se vive, los recursos económicos o cualquier otra condición o circunstancia personal o social del joven que pudiese ser invocada para establecer discriminaciones que afecten la igualdad de derechos y las oportunidades al goce de los mismos.
 
@@ -818,3 +834,15 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28388/LXII/21 SE EXPIDE LA LEY DE CULTURA DE PAZ DEL ESTADO DE JALISCO Y REFORMA LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; LA LEY DE DESARROLLO SOCIAL; Y LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA, AMBOS PARA EL ESTADO DE JALISCO; ASÍ COMO LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN; LEY PARA EL DESARROLLO ECONÓMICO; LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA, TODOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
+
+TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
