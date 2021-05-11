@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2020-11-07"
+last_updated: "2021-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -43,9 +43,9 @@ LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
 ### Capítulo I. Disposiciones Generales
 
-###### Artículo 1.
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2021)
 
-La presente ley es de interés social, orden público y observancia general en el Estado de Jalisco y tiene por objeto:
+Artículo 1 La presente ley es de interés social, orden público y observancia general en el Estado de Jalisco y tiene por objeto:
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
@@ -75,27 +75,37 @@ VII. Impulsar el desarrollo económico de las Zonas de Atención Prioritaria en 
 
 VIII. Fortalecer el desarrollo regional equilibrado, de conformidad con las disposiciones legales aplicables;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-IX. Crear y regular el Consejo Estatal para el Desarrollo Social y la Comisión para el Desarrollo Social;
+IX. Regular las atribuciones del Gobierno del Estado y los Municipios que en materia de desarrollo social otorga la Ley General de Desarrollo Social;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-X. Regular las atribuciones del Gobierno del Estado y los Municipios que en materia de desarrollo social otorga la Ley General de Desarrollo Social; y
+X. Establecer mecanismos de evaluación y seguimiento para vigilar que los recursos públicos aplicados a los programas de desarrollo social se ejerzan con efectividad y transparencia;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-XI. Crear mecanismos de evaluación y seguimiento para vigilar que los recursos públicos aplicados a los programas de desarrollo social se ejerzan con efectividad y transparencia.
+XI. Integrar el enfoque del derecho humano a la paz en el desarrollo social del Estado;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2021)</small>
+
+XII. Fomentar el desarrollo y cohesión social, la vida comunitaria y a vivir en un entorno de paz; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2021)</small>
+
+XIII. Las demás que se deriven de la Ley General de Desarrollo Social, la Constitución Local y demás ordenamientos legales que estén vinculados con los principios de la Política Estatal de Desarrollo Social.
 
 ###### Artículo 2.
 
 La aplicación de la presente ley corresponde a las dependencias, organismos y entidades del Gobierno del Estado y de los Municipios en el ámbito de su competencia.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2021)
 
 ###### Artículo 3.
 
 Para los efectos previstos en esta ley, se aplicará en forma supletoria:
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 I. La Ley General de Desarrollo Social;
 
@@ -103,13 +113,23 @@ I. La Ley General de Desarrollo Social;
 
 II. La Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 III. El Código de Asistencia Social del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 IV. El Código Civil para el Estado de Jalisco;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 V. La Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 VI. Legislación general y estatal de los derechos de niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 VII. Ley Estatal para la Igualdad entre Mujeres y Hombres;
 
@@ -117,13 +137,25 @@ VII. Ley Estatal para la Igualdad entre Mujeres y Hombres;
 
 VIII. Ley para el Desarrollo Integral del Adulto Mayor del Estado de Jalisco;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 IX. Legislación para la inclusión y desarrollo integral de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 X. Ley sobre los Derechos y el Desarrollo de los Pueblos y las Comunidades Indígenas;
 
-XI. La legislación general y estatal en materia de discriminación; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
 
-XII. Las demás leyes aplicables.
+XI. La Ley de Cultura de la Paz del Estado de Jalisco y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], P.O. 11 DE MAYO DE 2021)</small>
+
+XII. La legislación general y estatal en materia de discriminación; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XII], P.O. 11 DE MAYO DE 2021)</small>
+
+XIII. Las demás leyes aplicables.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -249,17 +281,17 @@ IX. El derecho a la cultura;
 
 X. El derecho al uso y aprovechamiento de las tecnologías de la comunicación y de la información;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-XI. El derecho a la recreación y el esparcimiento;
+XI. El derecho a la cohesión social, la vida comunitaria y a vivir en un entorno de paz;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-XII. El derecho a la cohesión social y la vida comunitaria; y
+XII. El derecho a la libre determinación de los pueblos indígenas y sus comunidades; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-XIII. El derecho a la libre determinación de los pueblos indígenas y sus comunidades.
+XIII. El derecho humano a la paz.
 
 ###### Artículo 8.
 
@@ -1330,3 +1362,13 @@ P.O. 7 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27984/LXII/20 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28388/LXII/21 SE EXPIDE LA LEY DE CULTURA DE PAZ DEL ESTADO DE JALISCO Y REFORMA LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; LA LEY DE DESARROLLO SOCIAL; Y LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA, AMBOS PARA EL ESTADO DE JALISCO; ASÍ COMO LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN; LEY PARA EL DESARROLLO ECONÓMICO; LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA, TODOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
+
+TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
