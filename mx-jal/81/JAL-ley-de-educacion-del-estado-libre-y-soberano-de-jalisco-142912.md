@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2021-03-18"
+last_updated: "2021-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -155,9 +155,17 @@ III. Fortalecer el tejido social para evitar la corrupción, a través del fomen
 
 IV. Combatir las causas de discriminación y violencia en las diferentes regiones del estado de Jalisco, especialmente la que se ejerce contra la niñez y las mujeres;
 
-V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-VI. Contribuir a la formación de mujeres y hombres autorresponsables de su salud, para contribuir en el desarrollo y bienestar del individuo y su entorno.
+V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+
+VI. Contribuir a la formación de mujeres y hombres autorresponsables de su salud, para contribuir en el desarrollo y bienestar del individuo y su entorno; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
+
+VII. Promover el valor de la justicia, la igualdad de derechos entre las personas, la cultura de paz y la cultura de la legalidad basada en la integridad de la persona.
 
 Bases para el fomento de la educación
 
@@ -2354,3 +2362,13 @@ P.O. 18 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28317/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 78 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO ADICIONANDO LA FRACCIÓN IV Y RECORRIENDO EN SU NUMERACIÓN LAS DEMÁS”.]
 
 ÚNICO. La presente reforma entrará en vigor el mismo día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28388/LXII/21 SE EXPIDE LA LEY DE CULTURA DE PAZ DEL ESTADO DE JALISCO Y REFORMA LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; LA LEY DE DESARROLLO SOCIAL; Y LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA, AMBOS PARA EL ESTADO DE JALISCO; ASÍ COMO LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN; LEY PARA EL DESARROLLO ECONÓMICO; LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA, TODOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
+
+TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
