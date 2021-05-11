@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2020-12-29"
+last_updated: "2021-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -53,11 +53,11 @@ De las Actividades del Desarrollo Económico.
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2021)</small>
 
 ###### Artículo 1.
 
-Esta ley es de orden-público, de interés social y de observancia general en el estado de Jalisco. Tiene como objetivos principales fomentar el desarrollo económico, la productividad, la cooperación y mejorar la competitividad en el estado de Jalisco, procurando la generación de condiciones favorables para el desarrollo sustentable y equitativo de todas las regiones y sectores económicos en la entidad, con el fin de, aumentar el ingreso de sus habitantes y mejorar su calidad de vida.
+Esta ley es de orden público, de interés social y de observancia general en el estado de Jalisco. Tiene como objetivos principales fomentar el desarrollo económico, la productividad, la cooperación y mejorar la competitividad en el estado de Jalisco, procurando la generación de condiciones favorables para el desarrollo sustentable, equitativo y pacífico de todas las regiones y sectores económicos en la entidad, con el fin de, aumentar el ingreso de sus habitantes y mejorar su calidad de vida.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
 
@@ -145,7 +145,9 @@ I. Impulsar el desarrollo económico sustentable de la entidad;
 
 II. Fomentar el crecimiento ordenado y descentralizado de la entidad, sus sectores y regiones, procurando el arraigo de los jaliscienses en sus lugares de origen, la reactivación de las zonas económicas más deprimidas y marginadas y el impulso de sectores estratégicos que coadyuven en la aceleración del desarrollo, en la productividad y en la competitividad del Estado;
 
-III. Promover el desarrollo del capital humano, coadyuvando a la mejora de la calidad de la educación pública y privada, y fomentando la capacitación y el adiestramiento en el trabajo;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+
+III. Promover el desarrollo del capital humano, coadyuvando a la mejora de la calidad de la educación pública y privada, y fomentando la capacitación, el adiestramiento y la cultura de la paz en el trabajo;
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
 
@@ -179,15 +181,25 @@ XV. Apoyar la creación y desarrollo de centros de innovación, de emprendimient
 
 XVI. Promover el aprovechamiento de los recursos y ventajas competitivas de la entidad;
 
-XVII. Incrementar el bienestar y la calidad de vida de los habitantes del Estado propiciando su arraigo en la Entidad;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+
+XVII. Incrementar el bienestar y la calidad de vida de los habitantes del Estado propiciando su arraigo en la Entidad en un entorno de paz;
 
 XVIII. Impulsar la adaptación de sistemas de gestión de calidad en las empresas y en las dependencias gubernamentales establecidas en el estado de Jalisco;
 
 XIX. Promover sistemas de apoyo financiero y crediticio acordes con las condiciones necesarias de las micro, pequeña y mediana empresas;
 
-XX. Proporcionar asesoría y gestión a las empresas que pretendan instalarse en la entidad, cuando así lo soliciten, y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
-XXI. Promover apoyos económicos y de capacitación en materia de artesanía, de manera directa o con la participación de las instancias gubernamentales competentes.
+XX. Proporcionar asesoría y gestión a las empresas que pretendan instalarse en la entidad, cuando así lo soliciten;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+
+XXI. Promover apoyos económicos y de capacitación en materia de artesanía, de manera directa o con la participación de las instancias gubernamentales competentes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
+
+XXII. Promover la cultura de paz en el sector económico del estado de Jalisco.
 
 ### Capítulo II. De las Actividades Sujetas a la Promoción y el Apoyo para el Desarrollo Económico
 
@@ -235,11 +247,21 @@ IX. Demuestren estar sujetas a un proceso de normalización, certificación o ve
 
 X. Destinen al menos un veinte por ciento de su gasto de operación a programas de investigación y desarrollo científico y tecnológico;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE MAYO DE 2021)</small>
+
 XI. Participen en la conservación y mejoramiento del patrimonio cultural del Estado;
 
-XII. Garanticen la generación de por lo menos un veinte por ciento de nuevos empleos a personas de grupos vulnerables por proyecto productivo, en los términos de lo que establece el Código de Asistencia Social del Estado, o
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
 
-XIII. Que en estado de emergencia económica, garanticen la creación o mantenimiento del empleo en el Estado.
+XII. Generen espacios y acciones que impulsen la cultura de la paz;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+
+XIII. Garanticen la generación de por lo menos un veinte por ciento de nuevos empleos a personas de grupos vulnerables por proyecto productivo, en los términos de lo que establece el Código de Asistencia Social del Estado; o
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+
+XIV. Que, en estado de emergencia económica, garanticen la creación o mantenimiento del empleo en el Estado.
 
 ###### Artículo 9.
 
@@ -295,7 +317,9 @@ b. Prioridad dos: Sector, rama o actividad económica definida por la Junta de G
 
 c. Prioridad tres: Sector, rama o actividad económica que genere una mayor cantidad de empleos permanentes, bien remunerados y consolide los ya existentes, en forma equitativa para todas las regiones.
 
-Se dará preferencia en el uso y destino de los recursos, a los proyectos colectivos, de agrupamientos o de encadenamientos productivos, por sobre las solicitudes que beneficien a personas o empresas en lo individual.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2021)</small>
+
+Se dará preferencia en el uso y destino de los recursos, a los proyectos colectivos, que generen entornos de paz, de agrupamientos o de encadenamientos productivos, por sobre las solicitudes que beneficien a personas o empresas en lo individual.
 
 En los casos en que el Ejecutivo estatal declare estado de emergencia Económica, el Consejo destinará los recursos que deberán ser prioritariamente aplicados al programa de mantenimiento y creación de empleo que para tal fin se establezca, en beneficio del empleo, su conservación y el mantenimiento de las unidades productivas en la entidad, especialmente de las micros, pequeñas y medianas empresas.
 
@@ -339,7 +363,9 @@ Para los efectos de lo señalado el artículo 13 de esta Ley, el Consejo deberá
 
 La promoción para el desarrollo económico, tiene por objeto el impulso en forma subsidiaria, selectiva y a corto plazo de la capacitación y la difusión de las especialidades sectoriales, los vocacionamientos territoriales y los encadenamientos productivos.
 
-La Secretaría desarrollará, de forma permanente, los planes y programas de promoción, a que se refiere el párrafo anterior, procurando en todo momento el desarrollo equilibrado de todas las regiones de la entidad.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2021)</small>
+
+La Secretaría desarrollará, de forma permanente, los planes y programas de promoción, a que se refiere el párrafo anterior, procurando en todo momento el desarrollo equilibrado y pacífico de todas las regiones de la entidad.
 
 Todas las actividades señaladas en el artículo 7.° de la Ley, podrán ser objeto de los programas de promoción, en los términos y plazos que establezca esta Ley y su Reglamento.
 
@@ -1584,3 +1610,13 @@ P.O. 29 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28267/LXII/20 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO".]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28388/LXII/21 SE EXPIDE LA LEY DE CULTURA DE PAZ DEL ESTADO DE JALISCO Y REFORMA LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; LA LEY DE DESARROLLO SOCIAL; Y LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA, AMBOS PARA EL ESTADO DE JALISCO; ASÍ COMO LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN; LEY PARA EL DESARROLLO ECONÓMICO; LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA, TODOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
+
+TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
