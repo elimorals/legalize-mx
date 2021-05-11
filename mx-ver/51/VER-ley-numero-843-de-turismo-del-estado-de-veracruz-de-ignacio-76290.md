@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2020-09-10"
+last_updated: "2021-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MAYO DE 2021.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -53,15 +53,19 @@ La interpretación en el ámbito administrativo de la presente Ley es facultad d
 
 ### CAPÍTULO II. Objeto de la Ley
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2021)</small>
+
 ###### Artículo 3.
 
-La presente Ley tiene por objeto:
+La presente ley tiene por objeto:
 
 I. Establecer las políticas públicas en materia de turismo en el Estado;
 
 II. Establecer las bases generales de coordinación entre el Ejecutivo Federal, el Estado y los Ayuntamientos, sobre las facultades concurrentes establecidas en la Ley General de Turismo, así como elevar la participación de los sectores social y privado del Estado en la actividad turística;
 
-III. Dictar las bases para la política, planeación y programación de la actividad turística, bajo criterios de beneficio social, sustentabilidad, competitividad y desarrollo equilibrado del Estado y de los municipios, a corto, mediano y largo plazos;
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2021)</small>
+
+III. Dictar las bases para la política, planeación, continuidad y programación de la actividad turística, bajo criterios de beneficio social, sustentabilidad, competitividad y desarrollo equilibrado del Estado y de los municipios, a corto, mediano y largo plazos;
 
 IV. Establecer los lineamientos que regirán la actividad turística en el Estado;
 
@@ -201,7 +205,9 @@ I. Aplicar los instrumentos de política turística previstos en la presente Ley
 
 II. Celebrar convenios en materia turística con el Gobierno Federal y los Ayuntamientos;
 
-III. Formular y conducir los programas de desarrollo del sector para las regiones turísticas;
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2021)</small>
+
+III. Formular y conducir los programas de desarrollo del sector para las regiones turísticas e impulsar la continuidad en programas iniciados vigilando su permanencia y operación;
 
 IV. Formular, ejecutar y evaluar el Programa Sectorial, de acuerdo con las directrices previstas en los Planes Nacional y Estatal de Desarrollo y en el Programa Nacional de Turismo;
 
@@ -527,11 +533,11 @@ IV. Proponer las necesidades de capacitación prioritarias en sus regiones e imp
 
 V. Todas aquellas actividades que propicien el desarrollo turístico de sus regiones.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2021)</small>
 
 ###### Artículo 20.
 
-Los Consejos Municipales serán encabezados por el Presidente Municipal y se integrarán, por lo menos, con cinco miembros, representantes de los sectores público y social y de cámaras y organismos empresariales con incidencia en la actividad turística de cada municipio. Todos sus integrantes tendrán derecho a voz y voto.
+Los Consejos Municipales serán encabezados por la o el Presidente Municipal y se integrarán, por la o el edil encargado de la Comisión de Turismo, la o el titular de la Dirección de Turismo quien fungirá como secretario técnico y, por lo menos, con cuatro miembros, representantes de los sectores público y social y de cámaras y organismos empresariales con incidencia en la actividad turística de cada municipio; de estos últimos, serán ocho miembros como mínimo cuando se trate de municipios con vocación turística y todos durarán en el cargo dos años sin derecho a reelección, hasta una vez concluido el mismo periodo inmediato. Todos sus integrantes tendrán derecho a voz y voto.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE AGOSTO DE 2014)</small>
 
@@ -545,9 +551,17 @@ II. Formular el inventario de riquezas turísticas de su municipio, así como la
 
 III. Elaborar el calendario de actividades culturales y turísticas del municipio;
 
-IV Promover la inscripción de los prestadores de servicios turísticos de cada municipio en el Registro Nacional de Turismo; y
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2021)</small>
 
-V Todas aquellas actividades que propicien el desarrollo turístico sustentable de sus municipios.
+IV. Promover la inscripción de los prestadores de servicios turísticos de cada municipio en el Registro Nacional de Turismo;
+
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2021)</small>
+
+V. Todas aquellas actividades que propicien el desarrollo turístico sustentable de sus Municipios; y
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2021)</small>
+
+VI. Diseñar productos turísticos estratégicos emergentes para la activación económica ante cualquier agente perturbador hidrometeorológico, geológico, químico tecnológico, sanitario o de cualquier otra índole fortuita.
 
 ## TÍTULO CUARTO. De los lineamientos para las políticas públicas en materia turística
 
@@ -1620,3 +1634,13 @@ G.O. 10 DE SEPTIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de (sic) Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 851 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Los Ayuntamientos contarán con un plazo no mayor de noventa días, contado a partir del inicio de la vigencia del presente Decreto, en el que deberán realizar las adecuaciones correspondientes a sus respetivos ordenamientos para darle puntual cumplimiento.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
