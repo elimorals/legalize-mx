@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2020-11-27"
+last_updated: "2021-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -1637,7 +1637,17 @@ V. Convocar a las sesiones extraordinarias en los términos de esta Ley;
 
 VI. Apoyar al Presidente Municipal en sus responsabilidades en los términos de esta Ley, y
 
-VII. Las demás que les otorgue la Ley y los reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
+
+VII. Presentar anualmente un informe escrito del ejercicio de sus funciones ante el Cabildo, sin perjuicio de que puedan hacerlo ante la ciudadanía;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2021)</small>
+
+VIII. Brindar en sus oficinas atención a la ciudadanía, conforme al ramo que le corresponda, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2021)</small>
+
+IX. Las demás que les otorgue la Ley y los reglamentos.
 
 ### CAPITULO IX. DE LA SUSPENSION E INSTALACION PROVISIONAL DE AYUNTAMIENTOS
 
@@ -4278,3 +4288,19 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
 
 CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
+
+P.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 720, POR EL QUE SE REFORMA LA FRACCIÓN VII, Y SE ADICIONAN LAS FRACCIONES VIII Y IX AL ARTÍCULO 80 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
