@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-51-del-estatuto-de-los-trabajadores-al-servicio-1473
 country: "mx"
 rank: "ley"
 publication_date: "1976-04-21"
-last_updated: "2020-02-04"
+last_updated: "2021-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 21 de abril de 1976.
 
@@ -228,6 +228,12 @@ Cuando un trabajador no pudiere hace (sic) uso de las vacaciones en los período
 ###### ARTICULO 25.
 
 Durante las horas de jornada legal, los trabajadores al servicio del Estado, podrán desarrollar las actividades sociales y culturales que fueren compatibles con sus aptitudes, edad y condiciones de salud; pero sin menoscabo de la función específica que tengan asignada.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2021)</small>
+
+ARTICULO 25 bis.- Los trabajadores, podrán percibir licencia de cinco días hábiles con goce de sueldo, por el fallecimiento de padres, hijos, cónyuge, concubina o concubinario.
+
+El órgano gubernamental que funja como patrón estará obligado a otorgar los días de descanso siempre y cuando el trabajador así lo desee.
 
 C A P I T U L O III.
 
@@ -988,3 +994,13 @@ P.O. 4 DE FEBRERO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. Publíquese para su conocimiento general en el Periódico Oficial del Gobierno del Estado, en el portal web del Congreso del Estado y divúlguese en los medios de comunicación.
+
+P.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 735 POR EL QUE SE ADICIONA LA FRACCIÓN VI, AL ARTÍCULO 41, DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO, NÚMERO 248; Y SE ADICIONA EL ARTÍCULO 25 BIS A LA LEY NÚMERO 51, ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO.- Remítase este Decreto al Gobernador Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes:
+
+TERCERO.- Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
