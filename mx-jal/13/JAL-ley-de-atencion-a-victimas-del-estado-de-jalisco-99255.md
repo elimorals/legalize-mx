@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-victimas-del-estado-de-jalisco-99255"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2019-08-29"
+last_updated: "2021-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 27 de febrero de 2014.
 
@@ -61,7 +61,9 @@ La reparación integral comprende las medidas de restitución, rehabilitación, 
 
 El objeto de esta Ley es:
 
-I. Reconocer y garantizar los derechos de las víctimas del delito y de violaciones a sus derechos humanos, en especial el derecho a la asistencia, protección, atención, verdad, justicia, reparación integral, debida diligencia y todos los demás derechos consagrados en la Constitución General, en los Tratados Internacionales de derechos humanos de los que el Estado Mexicano sea parte, la Constitución Política del Estado de Jalisco y demás ordenamientos jurídicos que reconozcan derechos humanos;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+
+I. Reconoce (sic) y garantizar los derechos de las víctimas del delito y de violaciones a sus derechos humanos, en especial el derecho a la asistencia, cultura de paz, protección, atención, verdad, justicia, reparación integral, debida diligencia y todos los demás derechos consagrados en la Constitución General, en los Tratados Internacionales de derechos humanos de los que el Estado Mexicano sea parte, la Constitución Política del Estado de Jalisco y demás ordenamientos jurídicos que reconozcan derechos humanos;
 
 II. Establecer y coordinar las acciones y medidas necesarias para promover, respetar, proteger, garantizar y permitir el ejercicio efectivo de los derechos de las víctimas; así como implementar los mecanismos para que todas las autoridades Estatales y municipales, en el ámbito de sus respectivas competencias; cumplan con sus obligaciones de prevenir, investigar, sancionar y lograr la reparación integral;
 
@@ -1772,3 +1774,13 @@ P.O. 29 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27328/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 17, 30 Y 120 DE LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28388/LXII/21 SE EXPIDE LA LEY DE CULTURA DE PAZ DEL ESTADO DE JALISCO Y REFORMA LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; LA LEY DE DESARROLLO SOCIAL; Y LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA, AMBOS PARA EL ESTADO DE JALISCO; ASÍ COMO LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN; LEY PARA EL DESARROLLO ECONÓMICO; LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA, TODOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
+
+TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
