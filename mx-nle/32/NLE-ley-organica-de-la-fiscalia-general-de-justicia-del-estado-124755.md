@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1247
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-06"
-last_updated: "2020-12-28"
+last_updated: "2021-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2021.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 6 de diciembre de 2017.
 
@@ -59,7 +59,9 @@ V. Fiscalía Especializada en Delitos Electorales: La Fiscalía Especializada en
 
 VI. Fiscal Especializado en Delitos Electorales: La persona titular de la Fiscalía Especializada en Delitos Electorales;
 
-VII. Fiscalías Especializadas: La Fiscalía Especializada en Combate a la Corrupción del Estado de Nuevo León, la Fiscalía Especializada en Delitos Electorales del Estado de Nuevo León; la Fiscalía Especializada Antisecuestros, la Fiscalía Especializada en Feminicidios, y las demás Fiscalías Especializadas de la Fiscalía General de Justicia del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
+
+VII. Fiscalías Especializadas: La Fiscalía Especializada en Combate a la Corrupción del Estado de Nuevo León, la Fiscalía Especializada en Delitos Electorales del Estado de Nuevo León; la Fiscalía Especializada Antisecuestros, la Fiscalía Especializada en Feminicidios; la Fiscalía Especializada en Tortura y las demás Fiscalías Especializadas de la Fiscalía General de Justicia del Estado de Nuevo León;
 
 VIII. Ley: La Ley Orgánica de la Fiscalía General de Justicia del Estado de Nuevo León;
 
@@ -207,6 +209,10 @@ V. Fiscalía Especializada Antisecuestros;
 
 VI. Fiscalía Especializada en Feminicidios;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+VI BIS. Fiscalía Especializada en Tortura;
+
 VII. Órgano Interno de Control;
 
 VIII. Visitaduría General;
@@ -229,7 +235,9 @@ XVI. Agencias del Ministerio Público; y
 
 XVII. Las demás que se determinen en esta Ley, su Reglamento Interno y otras disposiciones normativas aplicables.
 
-Los titulares de las unidades administrativas señaladas en las fracciones I, II, V, VI, VII, VIII IX, X y XI anteriores, dependerán directamente del Fiscal General, con las excepciones establecidas en esta Ley, su Reglamento Interno y demás normas aplicables.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2021)</small>
+
+Los titulares de las unidades administrativas señaladas en las fracciones I, II, V, VI, VI BIS, VII, VIII IX, X y XI anteriores, dependerán directamente del Fiscal General, con las excepciones establecidas en esta Ley, su Reglamento Interno y demás normas aplicables.
 
 Las unidades administrativas señaladas en las fracciones I, IX, X, XI, XII, XIII, XIV, XV y XVI, auxiliarán a la Fiscalía Especializada en Combate a la Corrupción y a la Fiscalía Especializada en Delitos Electorales, en los casos en que estas lo soliciten.
 
@@ -1286,3 +1294,9 @@ P.O. 28 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 398. SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 8 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 486. SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 2 Y EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 10; Y POR ADICIÓN CON UNA FRACCIÓN VI BIS, AL ARTÍCULO 10, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
