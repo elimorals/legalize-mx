@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transito-y-seguridad-vial-para-el-estado-de-hidalgo-1436
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-20"
-last_updated: "2020-07-20"
+last_updated: "2021-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de julio de 2020.
 
@@ -83,13 +83,35 @@ II.- Alcoholímetro: El Instrumento de medición, equipado con una impresora té
 
 III.- Autoridades municipales: Las referidas en el artículo 14 de la presente Ley;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+III Bis.- Boleta de Infracción: Documento por el cual se hace constar alguna violación a la presente Ley o su Reglamento;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+III Ter.- Bloqueo: Al cierre temporal o indefinido de las vialidades;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+III Quáter.- Ciclista: A la Persona que conduce un vehículo de tracción humana a través de pedales. Se considera ciclista también a aquella persona que conduce bicicleta asistida por motor eléctrico, siempre y cuando ésta desarrolle velocidades de hasta 25 kilómetros por hora;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+III Quinquies.- Ciclovía: A la infraestructura con señalización, para la circulación exclusiva de ciclistas;
+
 IV.- Conductor: La persona que conduce un vehículo o que tiene control físico sobre él cuando éste se encuentra en movimiento;
 
 V.- Comisario: El Comisario General de la Agencia;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+V Bis.- Depósito de Vehículos: Al lugar destinado para resguardo y custodia de los vehículos que están a disposición de la autoridad que corresponda;
+
 VI.- Dispositivos para el control del tránsito y de la seguridad vial: Los medios físicos empleados para regular y guiar el tránsito de vehículos, peatones y semovientes, tales como semáforos, señalamientos, marcas, reductores de velocidad, inmovilizadores de vehículos, medios electrónicos, instrumentos tecnológicos, programas y otros similares;
 
-VII.- Dispositivos Tecnológicos: Equipo electromecánico, eléctrico, análogo, digital u óptico, incluyendo radares, cinemómetros u otros instrumentos de innovación tecnológica que permitan la detección e identificación de infracciones y conductas en el tránsito de vehículos de transporte público;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
+
+VII.- Dispositivos Tecnológicos: Equipo electromecánico, eléctrico, análogo, digital u óptico, incluyendo radares, cinemómetros u otros instrumentos de innovación tecnológica que permitan la detección e identificación de infracciones y conductas en el tránsito de vehículos en general;
 
 VIII.- Estacionamiento: Los espacios públicos o privados destinados al aparcamiento o guarda de vehículos;
 
@@ -97,9 +119,37 @@ IX.- Estado: El Estado de Hidalgo;
 
 X.- Gobernador: La persona Titular del Poder Ejecutivo del Estado;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+X Bis.- Infracción: La conducta que transgrede alguna disposición establecida en la presente Ley y su Reglamento, y que tiene como consecuencia una sanción administrativa;
+
 XI.- Infraestructura vial: El conjunto de elementos que integran la vialidad, que tienen una finalidad de beneficio general y permiten su mejor funcionamiento o imagen visual;
 
 XII.- Ley: La Ley de Tránsito y Seguridad Vial para el Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+XII Bis.- Manifestación: A la concentración humana generalmente al aire libre, incluyéndose en esta la marcha y plantón;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+XII Ter.- Motociclistas: A los conductores de motonetas, bicicletas con motor de combustión interna y motocicletas de dos, tres o cuatro ruedas con transmisión de cadena o de flecha
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+XII Quater.- Movilidad: Capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+XII Quinquies.- Norma Oficial Mexicana NOM-012-SCT-2-2017: La Norma Oficial Mexicana NOM-012-SCT-2-2017, sobre el peso y dimensiones máximas con los que pueden circular los vehículos de autotransporte que transitan en las vías generales de comunicación vigente;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+XII Sexties.- Particular: A la persona física o moral que, al amparo del registro correspondiente ante la autoridad competente, satisface sus necesidades de transporte, siempre que tengan como fin el desarrollo de sus actividades personales o el cumplimiento de su objeto social;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+XII Septies.- Pasajero: A la persona que se encuentra a bordo de un vehículo y que no tiene el carácter de conductor;
 
 XIII.- Peatón: Persona que transita por la vía a pie y/o que utiliza ayudas técnicas como silla de ruedas, prótesis, aparato, artefacto o dispositivo ortopédico, por su condición de discapacidad o movilidad limitada;
 
@@ -125,6 +175,10 @@ XXIII.- UMA: La Unidad de Medida y Actualización;
 
 XXIV.- Vehículos: Todo bien mueble identificado en su individualidad, motorizado o no motorizado, diseñado para el transporte terrestre de personas o cosas en vías públicas y que su movimiento sea generado por una fuerza mecánica, ya sea por combustión, electricidad u otra fuente de energía. Para efectos del presente ordenamiento jurídico, no quedan comprendidos dentro de esta definición los vehículos y el equipo de transporte ferroviario de pasajeros y de carga;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+XXIV Bis.- Vía: Aquella que se integra de un conjunto de elementos cuya función es permitir el tránsito de vehículos y peatones, así como facilitar la comunicación entre las diferentes áreas o zonas de actividad;
+
 XXV.- Vía pública: Todo espacio de dominio público y uso común que, por disposiciones de la Ley de Bienes del Estado, de lo señalado en esta Ley y su Reglamento, se ocupen para el tránsito de personas, vehículos o semovientes.
 
 Quedan comprendidas dentro de las vías públicas de competencia del Estado, de conformidad con los (sic) normatividad y legislación aplicables:
@@ -148,6 +202,10 @@ La Secretaría y las autoridades municipales en materia de tránsito y seguridad
 ###### Artículo 6.
 
 La Secretaría emitirá y aplicará las disposiciones jurídicas pertinentes con el objeto de organizar el tránsito de vehículos por las vías públicas, coordinándose al efecto con las autoridades municipales, estatales, federales y de otras entidades federativas para el cumplimiento de dicho objetivo.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2021)</small>
+
+Las autoridades, en el ámbito de su competencia, promoverán el uso de la tecnología y demás alternativas para la agilización del tránsito.
 
 ###### Artículo 7.
 
@@ -365,9 +423,11 @@ Los propietarios de vehículos serán solidariamente responsables de los daños 
 
 Los conductores de todo vehículo están obligados a respetar los límites de velocidad establecidos por las autoridades de tránsito y seguridad vial, mediante los señalamientos respectivos. A falta de estos, la velocidad máxima será la que se especifique en el Reglamento de esta Ley atendiendo la clasificación de vialidades y los Reglamentos de los Municipios.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2021)</small>
+
 ###### Artículo 21.
 
-Los conductores de vehículos del servicio de transporte público de pasajeros y de carga, además de lo establecido en la Ley de Movilidad y Transporte del Estado de Hidalgo, se sujetarán a las disposiciones contenidas en esta Ley y su Reglamento.
+Los conductores de vehículos del servicio de transporte público de pasajeros y de carga, además de lo establecido en la Ley de Movilidad y Transporte del Estado de Hidalgo, se sujetarán a las disposiciones contenidas en esta Ley, su Reglamento, la Norma Oficial Mexicana NOM-012-SCT-2-2017 o cualquier otro ordenamiento que en la materia resulte aplicable.
 
 ###### Artículo 22.
 
@@ -489,9 +549,17 @@ II.- De servicio público, privado y complementario;
 
 III.- Oficiales;
 
-IV.- De seguridad pública, emergencia y protección civil; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
 
-V.- De tracción animal.
+IV.- De seguridad pública, emergencia y protección civil;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
+
+V.- De tracción animal; y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+VI.- Vehículos de carga.
 
 ###### Artículo 42.
 
@@ -515,6 +583,24 @@ El uso de caja de tonos, barra de luces y estrobos se reserva exclusivamente par
 
 Son vehículos de tracción animal aquellos que utilizan animales para el trasporte de personas, productos agrícolas o bienes, los cuales no deberán contravenir las disposiciones legales en contra del maltrato animal.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2021)</small>
+
+###### Artículo 46 Bis.
+
+Son vehículos de carga los que se encargan de realizar el transporte de mercancías de cualquier tipo, y se subdivide en:
+
+I. Transporte de carga ligera, de hasta 1.5 toneladas de peso transportado;
+
+II. Transporte de carga media, de hasta 3.5 toneladas de peso transportado; y
+
+III. Transporte de carga pesada, de más de 3.5 toneladas de peso transportado.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2021)</small>
+
+###### Artículo 46 Ter.
+
+En todo lo no previsto en la presente Ley respecto a los vehículos de carga, sobre el peso y dimensiones máximas con los que pueden circular los vehículos de autotransporte que transitan en las vías generales de comunicación, son aplicables supletoriamente las disposiciones establecidas en la Norma Oficial Mexicana NOM-012-SCT-2-2017 o cualquier otro ordenamiento que en la materia resulte aplicable.
+
 ###### Artículo 47.
 
 Para efectos de esta ley los vehículos en razón de su funcionamiento se clasifican en:
@@ -537,21 +623,47 @@ Toda persona que conduzca un vehículo no motorizado deberá utilizar casco de s
 
 Toda persona que conduzca un vehículo no motorizado podrá libremente dar vuelta a la derecha para incorporarse a otra vía con la debida precaución, pero cuando el conductor requiera girar a la izquierda, deberá cruzar como peatón por los pasos peatonales correspondientes.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2021)</small>
+
 ###### Artículo 51.
 
-Los conductores de bicicletas tienen prohibido:
+Los ciclistas tienen los siguientes derechos y obligaciones:
 
-I.- Circular sobre las aceras y áreas reservadas al uso exclusivo de peatones.
+A. Derechos:
 
-II.- Asirse o sujetarse de otra bicicleta, vehículo motorizado u otro vehículo que transite en la vía pública;
+I. Contar con una movilidad segura y preferencial en términos de la jerarquía de movilidad prevista en la presente Ley,
 
-III.- Conducir entre los carriles de tránsito y entre hileras adyacentes de vehículos;
+II. Disponer de las vías públicas destinadas para su tránsito; y
 
-IV.- Llevar carga de cualquier naturaleza, a menos que la bicicleta esté especialmente acondicionada para ello y no se afecte su estabilidad ni visibilidad;
+III. Tener preferencia sobre el tránsito vehicular siempre y cuando:
 
-V.- Detenerse sobre las áreas reservadas para el tránsito de peatones; y
+a. Habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no alcancen a cruzar la vía;
 
-VI.- Las demás que establezca esta Ley y su Reglamento.
+b. Se encuentren cruzando una vía en la que los vehículos deban dar vuelta a la derecha para entrar a otra vía; o
+
+c. Los vehículos circulando, deban circular o cruzar una ciclovía y en ésta haya ciclistas.
+
+B. Obligaciones:
+
+I. Circular con la responsabilidad de utilizar los espacios designados para tal efecto, respetar las indicaciones de la autoridad correspondiente, así como los señalamientos y dispositivos que regulen la circulación vial compartida o la exclusiva; asimismo respetar los espacios de circulación o accesibilidad peatonal y dar preferencia a las personas con discapacidad y al peatón;
+
+II. Evitar circular en los carriles centrales de las vías de acceso vehicular controlado;
+
+III. Transitar en el sentido de la circulación vehicular y utilizar el carril de extrema derecha de circulación;
+
+IV. Rebasar sólo por el carril izquierdo y circular entre carriles únicamente cuando el tránsito esté detenido, debiendo colocarse en un lugar visible para poder reiniciar su marcha;
+
+V. Contar con aditamentos luminosos o bandas fluorescentes en su persona, que les permitan ser visibles para los otros usuarios de la vía, cuando circulen en horario nocturno o existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad;
+
+VI. Indicar la dirección de su giro o cambio de carril, mediante señales con el brazo y la mano;
+
+VII. No llevar paquetes u objetos que excedan la dimensión del manubrio o vehículo que se conduzca, en el caso de exceder las dimensiones de largo será recomendado utilizar una banderola o algún elemento visible que permita al resto de los usuarios la identificación de la dimensión;
+
+VIII. No conducir bajo los efectos del alcohol, enervantes, estupefacientes, psicoactivos o cualquier otro que produzca efectos similares; y
+
+IX. No sujetarse a otros vehículos en movimiento.
+
+Los ciclistas que no cumplan con estas obligaciones serán amonestados verbalmente por los policías viales y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
 ###### Artículo 52.
 
@@ -645,7 +757,9 @@ Los conductores de vehículos motorizados que transiten en la vía pública tend
 
 I.- Circular con placas, licencia o permiso y tarjeta de circulación vigentes y que correspondan al tipo de vehículo utilizado;
 
-II.- Obedecer los dispositivos para el control del tránsito y de la seguridad vial, fijados por la autoridad competente y las indicaciones del policía de vialidad y tránsito;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
+
+II.- Obedecer los dispositivos tecnológicos, así como aquellos que sirven para el control del tránsito y la seguridad vial, fijados por la autoridad competente y las indicaciones del policía de vialidad y tránsito;
 
 III.- Respetar los límites de velocidad que establezca esta Ley, su Reglamento, los Reglamentos Municipales y los señalamientos viales, conduciendo con prudencia en zonas escolares y hospitales;
 
@@ -785,9 +899,11 @@ Los conductores menores de edad, así como vehículos destinados al servicio de 
 
 El procedimiento y protocolos de actuación de las pruebas sobre mínimo y máximo de alcoholes considerados en el artículo anterior, se establecerán en el Reglamento de la presente Ley y en la normatividad municipal aplicable.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2021)</small>
+
 ###### Artículo 75.
 
-Además de las sanciones respectivas, la Secretaría y las autoridades municipales en materia de tránsito y seguridad vial, establecerán medidas de sensibilización para quienes resulten infraccionados por conducir en estado de ebriedad o bajo el influjo de narcóticos, estupefacientes o psicotrópicos y en los casos de reincidencia, se les impondrá como medida de seguridad, la rehabilitación a través de las instancias competentes del sector salud.
+Además de las sanciones respectivas, la Secretaría y las autoridades municipales en materia de tránsito y seguridad vial, establecerán medidas de sensibilización para quienes resulten infraccionados por conducir o estar implicados en hechos de tránsito encontrándose en estado de ebriedad o bajo el influjo de narcóticos, estupefacientes o psicotrópicos y en los casos de reincidencia, se les impondrá como medida de seguridad, el tratamiento y rehabilitación en una institución especializada pública o privada, además de su incorporación a programas de rehabilitación de adicciones.
 
 ### CAPÍTULO IX. DE LOS PEATONES
 
@@ -889,9 +1005,11 @@ El Reglamento de esta Ley, deberá establecer condiciones que favorezcan el trá
 
 ### CAPÍTULO X. DE LOS HECHOS DE TRÁNSITO
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2021)</small>
+
 ###### Artículo 84.
 
-Un hecho de tránsito es un evento producido por la circulación vehicular, en el que interviene por lo menos un vehículo, causando daños materiales, lesiones y/o muerte de personas.
+Un hecho de tránsito es un evento producido por la circulación vehicular, en el que interviene por lo menos un vehículo, que de manera intencional o por impericia, negligencia o descuido, vulnera la vida, la integridad física y/o el patrimonio de las personas o del Estado, causando daños materiales, lesiones y/o muerte de personas.
 
 ###### Artículo 85.
 
@@ -951,7 +1069,9 @@ II.- Saber leer y escribir;
 
 III.- Elaborar solicitud acompañándola de los documentos establecidos en el artículo 93;
 
-IV.- Acreditar, a través de los exámenes y prácticas que se fijen para cada tipo de licencia, la capacidad indispensable para manejar los vehículos de que se trate;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
+
+IV.- Acreditar, a través de los exámenes y prácticas que se fijen para cada tipo de licencia, la capacidad indispensable para manejar los vehículos de que se trate; acreditación que será expedida en términos del artículo 93 fracción IV de la Ley.
 
 V.- Tener las condiciones psicomotrices, de agudeza visual y salud mental necesarias para conducir vehículos motorizados; y
 
@@ -997,7 +1117,9 @@ II.- Saber leer y escribir;
 
 III.- Elaborar solicitud acompañándola de los documentos establecidos en el artículo 98;
 
-IV.- Acreditar, a través de los exámenes y prácticas que se fijen, la capacidad indispensable para manejar los vehículos de que se trate;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
+
+IV.- Acreditar, a través de los exámenes y prácticas que se fijen para cada tipo de permiso, la capacidad indispensable para manejar los vehículos de que se trate; acreditación que será expedida en términos del artículo 98 fracción V de la Ley.
 
 V.- Tener las condiciones psicomotrices, de agudeza visual y salud mental necesarias para conducir vehículos motorizados; y
 
@@ -1056,6 +1178,12 @@ II.- Que al titular se le sancione en tres ocasiones con la suspensión de la li
 III.- Que lo ordene la autoridad administrativa o judicial; y
 
 IV.- Las demás que determine esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2021)</small>
+
+###### Artículo 102 Bis.
+
+La cancelación de la licencia o permiso de conducir aplicable a quien infrinja la ley por conducir en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos, drogas enervantes u otras sustancias, podrá ser definitiva o por el tiempo que fije la autoridad administrativa o el juez que conozca del asunto.
 
 ###### Artículo 103.
 
@@ -1177,9 +1305,11 @@ Los peatones, usuarios de vehículos, sus propietarios, poseedores y conductores
 
 ### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2021)</small>
+
 ###### Artículo 120.
 
-A los conductores, peatones, permisionarios, concesionarios y demás usuarios de la vía pública que infrinjan las disposiciones de la presente Ley, se les impondrá cualquiera de las siguientes sanciones:
+A los conductores, peatones, permisionarios, concesionarios y demás usuarios de la vía pública que infrinjan las disposiciones de la presente Ley, se les podrán imponer las siguientes sanciones:
 
 I.- Amonestación;
 
@@ -1191,7 +1321,21 @@ IV.- Suspensión o cancelación de autorización para la operación de escuelas 
 
 V.- Aseguramiento y remisión de vehículo al depósito oficial; o
 
-VI.- Las demás que señale esta Ley y su Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2021)</small>
+
+VI.- Arresto administrativo hasta por treinta y seis horas; o
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2021)</small>
+
+VII.- Las demás que señale esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2021)</small>
+
+El arresto administrativo sólo procederá cuando el infractor conduzca alcoholizado o bajo los efectos de alguna sustancia psicotrópica, enervante o estupefaciente, en cuyo caso será presentado inmediatamente ante la autoridad administrativa competente junto con la boleta de arresto correspondiente, el certificado médico y/o la impresión de los resultados que emita el equipo detector de los grados de alcohol.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2021)</small>
+
+Si la persona infractora es menor de edad, la autoridad administrativa competente ordenará inmediatamente la localización y llamado de sus padres o tutores a quienes previa comprobación de la minoría de edad y parentesco, les será entregada la persona menor de edad. No se alojará a personas menores de edad en lugares destinados a la detención primaria o arresto de mayores de edad. En todo momento, la autoridad deberá observar las disposiciones que para tal efecto se establezcan en el Reglamento y en el protocolo relativo al aseguramiento de personas menores de edad.
 
 ###### Artículo 121.
 
@@ -1379,7 +1523,9 @@ Serán motivo de infracción grave y se sancionarán con multa de diez a ochenta
 
 I.- Obstruya o utilice espacios destinados al estacionamiento de los vehículos de personas con discapacidad, así como las rampas de acceso a las aceras y vías peatonales o ciclovías, paraderos de trasporte público, accesos a centros hospitalarios de seguridad o protección civil;
 
-II.- No cuente con permiso o licencia vigente, o acorde al tipo de vehículo;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
+
+II.- No cuente con permiso o licencia vigente o de contar con ella, no sea acorde al tipo de vehículo;
 
 III.- Circule sin ambas placas, sin causa justificada;
 
@@ -1439,9 +1585,11 @@ IX.- Interfiera o impida que el policía de vialidad y tránsito realice su func
 
 En caso de reincidencia en más de tres ocasiones, los peatones serán sancionados con trabajo a favor de la comunidad.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2021)</small>
+
 ###### Artículo 130.
 
-Las autoridades estatales y municipales están facultadas para emplear mecanismos y dispositivos tecnológicos que permitan detectar infractores de los límites de velocidad en las vías de su competencia.
+Las autoridades estatales y municipales están facultadas para emplear mecanismos y dispositivos tecnológicos que permitan detectar infractores de los límites de velocidad en las vías de su competencia, así como cualquier conducta contraria a la presente Ley y su Reglamento.
 
 ###### Artículo 131.
 
@@ -1502,3 +1650,13 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 713 QUE REFORMAN LOS ARTÍCULOS 4 FRACCIÓN VII, 21, 41 FRACCIÓN IV Y V, 51, 67 FRACCIÓN II, 75, 84, 92 FRACCIÓN IV, 97 FRACCIÓN IV, 120 PÁRRAFO PRIMERO Y LA FRACCIÓN VI, 128 FRACCIÓN II Y 130; SE ADICIONA LA FRACCIÓN III BIS, III TER, III QUATER, III QUINQUIES, V BIS, X BIS, XII BIS, XII TER, XII QUATER, XII QUINQUIES, XII SEXTIES, XII SEPTIES Y XXIV BIS DEL ARTÍCULO 4, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 6, LA FRACCIÓN VI DEL 41, LOS ARTÍCULOS 46 BIS, 46 TER, 102 BIS Y 120 FRACCIÓN VII Y SUS PÁRRAFOS SEGUNDO Y TERCERO, DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Poder Ejecutivo del Estado, dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, deberá prever de la esfera administrativa necesaria para el cumplimiento de este Decreto y expedir el protocolo relativo al aseguramiento de personas menores de edad.
