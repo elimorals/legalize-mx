@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-568
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-07"
-last_updated: "2021-04-14"
+last_updated: "2021-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2021.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 7 de julio de 2007.
 
@@ -263,9 +263,13 @@ XL. Impedir o limitar el derecho al debido proceso o generar condiciones de desi
 
 XLI. Estigmatizar a las víctimas de cualquier delito, así como de violaciones a los derechos humanos, generando la revictimización;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2021)</small>
 
-XLII. En general, cualquier otra conducta discriminatoria en términos del artículo 4 de esta Ley.
+XLII. Prohibir, negar, limitar o restringir el acto de amamantar en espacios públicos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2021)</small>
+
+XLIII. En general, cualquier otra conducta discriminatoria en términos del artículo 4 de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ABRIL DE 2021)</small>
 
@@ -872,3 +876,15 @@ Las autoridades e instancias competentes, difundirán por los medios posibles, y
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0985/2021 II PO., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA Y LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
