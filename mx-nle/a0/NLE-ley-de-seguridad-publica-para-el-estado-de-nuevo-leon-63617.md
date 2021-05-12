@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2020-12-30"
+last_updated: "2021-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -55,11 +55,11 @@ II. Establecer las bases generales de coordinación entre las autoridades Federa
 
 III. Fijar las condiciones generales para la profesionalización y servicio de carrera del personal e instituciones preventivas de seguridad pública del Estado y de los Municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2021)</small>
 
 ###### Artículo 2.
 
-De conformidad a la Constitución Política del Estado Libre y Soberano de Nuevo León, se crea el Sistema Integral de Seguridad Pública para el Estado de Nuevo León, el cual forma parte del Sistema Nacional de Seguridad Pública, con el objeto de armonizar los distintos ámbitos de intervención que realizan las instituciones de seguridad pública del Estado y de los Municipios, en el marco de sus respectivas atribuciones y competencias, con el propósito de cumplir con el objeto de la Ley y fines de la seguridad pública.
+De conformidad a la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León y la Ley General del Sistema Nacional de Seguridad Pública, se crea el Sistema Integral de Seguridad Pública para el Estado de Nuevo León, el cual forma parte del Sistema Nacional de Seguridad Pública, con el objeto de armonizar los distintos ámbitos de intervención que realizan las instituciones de seguridad pública del Estado y de los Municipios, en el marco de sus respectivas atribuciones y competencias, con el propósito de cumplir con el objeto de la Ley y fines de la seguridad pública.
 
 En los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional y sus elementos deberán desempeñarse con respeto a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
@@ -391,7 +391,9 @@ El resultado de los procesos de evaluación previstos en el Artículo 198 Bis 29
 
 Le corresponde al Titular del Poder Ejecutivo expedir la Reglamentación relativa a la regulación de los procesos de evaluación previstos en este ordenamiento. Los propios Ayuntamientos de los Municipios serán quienes determinen los reglamentos para llevar a cabo sus evaluaciones, en los términos y condiciones que prevé esta Ley.
 
-Asimismo, los integrantes de la Procuraduría General de Justicia y del Poder Judicial, llevarán a cabo los procesos de evaluación a que se refiere este ordenamiento, con sujeción a las disposiciones contenidas en sus respectivas Leyes Orgánicas y en su reglamentación respectiva.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2021)</small>
+
+Asimismo, los integrantes de la Fiscalía General de Justicia y del Poder Judicial, llevarán a cabo los procesos de evaluación a que se refiere este ordenamiento, con sujeción a las disposiciones contenidas en sus respectivas Leyes Orgánicas y en su reglamentación respectiva.
 
 ## TÍTULO TERCERO. DEL SISTEMA DE COORDINACIÓN PARA LA SEGURIDAD PÚBLICA
 
@@ -467,7 +469,9 @@ I. Un Presidente, que será el Titular del Ejecutivo Estatal;
 
 II. Un Vicepresidente, que será el Secretario General de Gobierno, quien hará las veces de Presidente en ausencia del Titular del Poder Ejecutivo;
 
-III. Un Secretario General, que será el Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
+
+III. Un Secretario General, que será el Fiscal General de Justicia del Estado;
 
 IV. Un Secretario Técnico, que será el Secretario de Seguridad Pública del Estado; y
 
@@ -729,7 +733,9 @@ II. Presidente del Tribunal Superior de Justicia;
 
 III. Secretario General de Gobierno;
 
-IV. Procurador General de Justicia, Sub Procurador del Ministerio Público, Director General de Averiguaciones Previas, Director General de la Agencia Estatal de Investigaciones;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
+
+IV. Fiscal General de Justicia, Vice Fiscal del Ministerio Público, Director General de Averiguaciones Previas, Director General de la Agencia Estatal de Investigaciones;
 
 V. Los Titulares de las Instituciones Policiales Estatales; y
 
@@ -773,7 +779,9 @@ I. Los plazos de protección serán:
 
 a) De hasta seis años posteriores a la conclusión del encargo, para el Gobernador del Estado;
 
-b) De hasta tres años posteriores a la conclusión del encargo, para el Procurador General de Justicia y el Secretario General de Gobierno;
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2021)</small>
+
+b) De hasta tres años posteriores a la conclusión del encargo, para el Fiscal General de Justicia y el Secretario General de Gobierno;
 
 c) Por un periodo igual al tiempo en que desempeño su encargo o hasta tres años posteriores a la conclusión, lo que resulte menor, para Presidentes Municipales; o
 
@@ -1591,9 +1599,9 @@ I. El Gobernador del Estado;
 
 II. El Secretario General de Gobierno;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
 
-III. El Procurador General de Justicia;
+III. El Fiscal General de Justicia;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -3545,7 +3553,9 @@ Para el conocimiento, trámite y resolución de las quejas o denuncias que se in
 
 La participación del representante de las organizaciones de la sociedad civil organizada será a título de colaboración ciudadana y su desempeño tendrá carácter honorífico, rigiéndose por principios de buena fe y propósitos de interés general, por lo que no percibirá remuneración alguna por el desempeño de sus funciones ni será considerado servidor público.
 
-En cada municipio, en los términos de su reglamentación respectiva, se crearán comisiones con iguales fines. La Procuraduría General de Justicia aplicará las disposiciones de su Ley Orgánica en lo que no se oponga al presente ordenamiento.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2021)</small>
+
+En cada municipio, en los términos de su reglamentación respectiva, se crearán comisiones con iguales fines. La Fiscalía General de Justicia aplicará las disposiciones de su Ley Orgánica en lo que no se oponga al presente ordenamiento.
 
 ###### Artículo 227.
 
@@ -3856,3 +3866,9 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 488. SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 2, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 30, LA FRACCIÓN III DEL ARTÍCULO 34, LA FRACCIÓN IV DEL ARTÍCULO 54, EL INCISO B) DE LA FRACCIÓN I DEL ARTÍCULO 57, LA FRACCIÓN III DEL ARTÍCULO 122, EL TERCER PÁRRAFO DEL ARTÍCULO 226 TODOS DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
