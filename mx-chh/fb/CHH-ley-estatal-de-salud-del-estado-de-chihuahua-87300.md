@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2020-10-10"
+last_updated: "2021-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2021.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -783,6 +783,16 @@ VI.- El fomento de la lactancia materna y la creación de bancos de leche matern
 
 En dichos establecimientos se prohíbe la publicidad y promoción de la utilización de fórmulas lácteas por parte de las madres en personas menores de 6 meses, así como la entrega de muestras gratis, de las referidas fórmulas.
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+
+VII.- Fomentar que en los hospitales públicos y privados que presten servicios de atención materno-infantil, cuenten con la certificación "Hospital Amigo del Niño y de la Niña".
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2021)</small>
+
+###### Artículo 67 Bis.
+
+La Secretaría impulsará la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil, así como de lactancia materna, para tal efecto, promoverá la creación de redes de apoyo, con la finalidad de facilitar el acceso de las familias a información en la materia.
+
 ###### Artículo 68.
 
 En los servicios de salud se promoverá la organización institucional de comités de prevención de la morbi-mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
@@ -795,9 +805,9 @@ La protección de la salud física y mental de los menores es una responsabilida
 
 En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado, establecerán procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios, principalmente en materia de atención prenatal, nutrición y fomento a la lactancia materna.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2021)</small>
 
-Asimismo, se establecerán acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, con el objeto de que la leche materna sea alimento preponderante durante los primeros seis meses, y complementario hasta avanzado el segundo año de vida.
+Asimismo, se establecerán acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, con el objeto de que la leche materna sea alimento preponderante durante los primeros seis meses, y complementario hasta avanzado el segundo año de vida, además, se impulsará la instalación de lactarios en los centros de trabajo de los sectores público y privado.
 
 ###### Artículo 71.
 
@@ -1255,7 +1265,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud.
 
-III.- Orientar y capacitar a la población en materia de nutrición, sobrepeso y obesidad, salud mental, salud bucal, salud reproductiva, donación y trasplante de órganos y tejidos, donación de sangre, intoxicaciones, riesgos de automedicación, prevención de accidentes, adicciones y discapacidades, cuidados paliativos, salud ocupacional, uso adecuado de los servicios de salud, rehabilitación de personas con adicciones y en situación de discapacidad, detección oportuna de enfermedades, primordialmente cánceres de mama, cérvico-uterino y de próstata, hipertensión arterial y diabetes.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
+
+III.- Orientar y capacitar a la población en materia de nutrición, lactancia materna, sobrepeso y obesidad, salud mental, salud bucal, salud reproductiva, donación y trasplante de órganos y tejidos, donación de sangre, intoxicaciones, riesgos de automedicación, prevención de accidentes, adicciones y discapacidades, cuidados paliativos, salud ocupacional, uso adecuado de los servicios de salud, rehabilitación de personas con adicciones y en situación de discapacidad, detección oportuna de enfermedades, primordialmente cánceres de mama, cérvico-uterino y de próstata, hipertensión arterial y diabetes.
 
 ###### Artículo 119.
 
@@ -3870,3 +3882,15 @@ La Secretaría General de Gobierno, a través de la Dirección del Registro Civi
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento Interior del Registro Civil del Estado de Chihuahua, en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+P.O. 12 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0985/2021 II PO., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA Y LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
