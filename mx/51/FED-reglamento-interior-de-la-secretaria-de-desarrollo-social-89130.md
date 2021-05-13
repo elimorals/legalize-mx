@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-desarrollo-social-89130
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-24"
-last_updated: "2018-04-24"
+last_updated: "2021-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-08-21"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE BIENESTAR, PUBLICADO EN EL D.O.F. DE 13 DE MAYO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2021 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de agosto de 2012.
 
@@ -1978,3 +1980,27 @@ CUARTO. Los derechos de los trabajadores serán respetados conforme a las dispos
 QUINTO. Las erogaciones que, en su caso, sean necesarias para la implementación del presente Decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de Desarrollo Social, por lo que no se requerirá de recursos adicionales para tal efecto, y por tanto no se incrementará su presupuesto regularizable para el presente ejercicio fiscal ni los subsecuentes.
 
 SEXTO. La Secretaría deberá emitir un nuevo Acuerdo de Organización y Funcionamiento del Instituto Nacional de la Economía Social de conformidad con lo que establece el artículo tercero transitorio del Decreto por el que se reforman la denominación y diversas disposiciones de la Ley de la Economía Social y Solidaria, reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, y se adicionan las fracciones XIV y XV al artículo 32 y se deroga la fracción X del artículo 34 de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 30 de diciembre de 2015.
+
+D.O.F. 13 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE BIENESTAR”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social, publicado el 24 de agosto de 2012 en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento, así como los acuerdos delegatorios emitidos con anterioridad a la publicación del presente Reglamento.
+
+CUARTO.- Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas a las que este Reglamento les atribuya la competencia respectiva.
+
+QUINTO.- De conformidad con lo dispuesto en los artículos 17 Ter y Décimo Primero Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado el 30 de noviembre de 2018 en el Diario Oficial de la Federación, la estructura administrativa de las Delegaciones de Programas para el Desarrollo deberá quedar constituida en un plazo máximo de ciento ochenta días contados a partir de la publicación del presente Reglamento.
+
+Para lo anterior se podrán transferir, a las Delegaciones de Programas para el Desarrollo, las plazas de estructura y de base que se encontraban adscritas a las entonces Delegaciones de la Secretaría de Desarrollo Social en las entidades federativas.
+
+SEXTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, así como las modificaciones a las atribuciones conferidas a la Secretaría de Bienestar o a su estructura orgánica, deberán cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de la misma Secretaría.
+
+SÉPTIMO.- Los Manuales de Organización General, de organización específicos, de procedimientos y de servicios al público, deberán ser actualizados en un plazo no mayor a ciento ochenta días naturales, contados a partir de la publicación del presente Reglamento.
+
+OCTAVO.- Cuando, en términos del último párrafo del artículo 47 de este Reglamento, el auxilio que proporcione la Secretaría de Bienestar al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado el 30 de noviembre de 2018 en el Diario Oficial de la Federación.
+
+NOVENO.- El Titular de la Unidad de Administración y Finanzas de la Secretaría de Bienestar emitirá, en un plazo no mayor a sesenta días hábiles contados a partir de la publicación del presente Reglamento, las disposiciones a que se refiere la fracción XXVIII del artículo 13 de este Reglamento.
