@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2021-05-11"
+last_updated: "2021-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MAYO DE 2021.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -277,7 +277,9 @@ XXX. Gestionar fondos de financiamiento para la ejecución de proyectos turísti
 
 XXXI. Coadyuvar con la Secretaría de Seguridad Pública y la Secretaría de Protección Civil, cuando se determine que sea necesaria la protección de la integridad física de los turistas;
 
-XXXII. Colaborar con la Secretaría de Trabajo, Previsión Social y Productividad en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, mediante criterios de inclusión y equidad;
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2021)</small>
+
+XXXII. Colaborar con la Secretaría de Trabajo, Previsión Social y Productividad en el desarrollo de programas de fomento al empleo turístico, de capacitación y profesionalización de la actividad turística, mediante criterios de inclusión y equidad; así como en la capacitación gratuita de todas y todos los servidores públicos involucrados de los municipios con vocación turística;
 
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2012)</small>
 
@@ -299,13 +301,13 @@ XXXIX. Coadyuvar con los Ayuntamientos en la elaboración de su Programa de Desa
 
 XL. Administrar el Fondo;
 
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2021)</small>
 
-XLI. Impulsar la profesionalización del sector turístico, favoreciendo la vinculación entre el sector público, privado y social; y
+XLI. Impulsar la profesionalización del sector turístico, favoreciendo la vinculación entre los sectores público, privado y social;
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2021)</small>
 
-XLI Bis. Promover de conformidad con los Lineamientos de Pueblos Mágicos, y de acuerdo a la capacidad presupuestal de los municipios declarados Pueblo Mágico en el Estado de Veracruz, las acciones necesarias, con el objeto de garantizar su desarrollo y permanencia en el programa.
+XLI Bis. Promover de conformidad con los Lineamientos de Pueblos Mágicos, y de acuerdo a la capacidad presupuestal de los municipios declarados Pueblo Mágico en el Estado de Veracruz, las acciones necesarias, con el objeto de garantizar su desarrollo y permanencia en el programa; y
 
 > <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
@@ -353,7 +355,9 @@ XVI. Recibir y canalizar las quejas de los turistas, para su atención ante las 
 
 XVII. Emitir opinión ante la Secretaría Federal y la Secretaría, en aquellos casos en que una inversión concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos dentro de su territorio;
 
-XVIII. Coordinarse con la Secretaría para la implementación de políticas públicas en materia turística;
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2021)</small>
+
+XVIII. Coordinarse con la Secretaría para la implementación de políticas públicas y otorgar capacitación gratuita de todas y todos sus servidores públicos involucrados en materia turística;
 
 XIX. Participar en la formulación del Programa de Ordenamiento;
 
@@ -865,25 +869,35 @@ VII. Solicitar su inscripción al programa "Joyas de Veracruz"; y
 
 VIII. Acceder a la difusión en medios de comunicación, publicidad y eventos promocionales en los que participe el Gobierno del Estado, así como recibir el apoyo necesario para el diseño, implementación y operación de un sitio de internet exclusivo para su promoción turística.
 
+> <small>(REFORMADO, G.O. 13 DE MAYO DE 2021)</small>
+
 ###### Artículo 57.
 
-Los municipios con Vocación Turística estarán obligados a:
+Los municipios con vocación turística estarán obligados a:
 
 I. Formar Comités de Distintivo "Veracruz Sustentable" para la preservación del medio ambiente y el manejo de los recursos del municipio;
 
 II. Implementar en el municipio el estudio de perfil y grado de satisfacción de sus visitantes;
 
-III. Elaborar su inventario turístico, con base en los parámetros del Índice de Vocación Turística y enviarlo a la Secretaría para su análisis y calificación; y
+III. Elaborar su inventario turístico, con base en los parámetros del Índice de Vocación Turística y enviarlo a la Secretaría para su análisis y calificación;
 
-IV. Destinar recursos presupuestales para el fomento de la actividad y desarrollo de infraestructura turística, así como participar en el financiamiento del Programa de Ordenamiento Turístico de su territorio.
+IV. Destinar recursos presupuestales para el fomento de la actividad y desarrollo de infraestructura turística, así como participar en el financiamiento del Programa de Ordenamiento Turístico de su territorio;
 
-> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+V. Celebrar cada trimestre, comparecencia del Consejo Municipal de Turismo en sesión de cabildo, con la finalidad de informar el avance de sus actividades, propuestas y evaluación de acciones;
 
-V. Instalar, operar y actualizar de manera permanente un sitio de internet exclusivo para su promoción turística.
+VI. Instalar, operar y actualizar de manera permanente un sitio de internet exclusivo para su promoción turística.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN V, P.O. 26 DE NOVIEMBRE DE 2019]</small>
+El sitio deberá incluir atractivos naturales, directorio de prestadores de servicios clasificados en giros comerciales de interés para el visitante, terminales y servicios de transporte, rutas para movilidad turística, directorio de autoridades municipales u otras asentadas en el municipio y ubicación de servicios médicos y de emergencia; y
 
-El sitio deberá incluir atractivos naturales, directorio de prestadores de servicios clasificados en giros comerciales de interés para el visitante, terminales y servicios de transporte, rutas para movilidad turística, directorio de autoridades municipales u otras asentadas en el municipio y ubicación de servicios médicos y de emergencia.
+VII. Capacitar de manera gratuita a las y los prestadores de servicios turísticos y a todas las personas de primer contacto con el turista dentro de su territorio, encaminadas a mejorar el desempeño de las actividades y la calidad de los servicios, conforme a lo siguiente:
+
+a) Deberán dar herramientas enfocadas en el aprendizaje de nuevos métodos e ideas orientadas a la mejora continua de un establecimiento;
+
+b) Deberán ser por lo menos una vez al año;
+
+c) Fomentarán los criterios de higiene e interacción entre los trabajadores y hacia los visitantes, cuidando en todo momento las recomendaciones hechas por las autoridades de salud; y
+
+d) Deberán fomentar que el servicio turístico se brinde con las especificaciones y recomendaciones de las autoridades, para salvaguardar la integridad física y la salud de las y los involucrados.
 
 ### CAPÍTULO III. De las zonas de desarrollo turístico sustentable
 
@@ -1075,11 +1089,11 @@ La Secretaría tendrá a su cargo un registro de centros de enseñanza e investi
 
 La secretaría promoverá, entre los centros de enseñanza e investigación, estudios especializados sobre la mejor forma de integrar a las personas con discapacidad al mercado laboral del Sector Turístico Estatal.
 
+> <small>(REFORMADO, G.O. 13 DE MAYO DE 2021)</small>
+
 ###### Artículo 86.
 
-La Secretaría propondrá al titular del Ejecutivo del Estado la celebración de acuerdos con la Secretaría Federal, autoridades educativas y laborales, para la implementación de programas relacionados con la capacitación de empresarios, trabajadores y servidores públicos del ramo turístico sobre los conocimientos necesarios para el desarrollo de sus actividades, de acuerdo a los términos que establezca el marco legal vigente.
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)</small>
+La Secretaría propondrá al Titular del Poder Ejecutivo del Estado la celebración de acuerdos con la Secretaría Federal, así como con autoridades educativas y laborales, para la implementación de programas relacionados con la capacitación de prestadores de servicios turísticos, trabajadores y servidores públicos federales, estatal y municipales del ramo turístico sobre los conocimientos necesarios para el desarrollo de sus actividades, de acuerdo a los términos que establezca el marco legal vigente.
 
 En los acuerdos señalados en el párrafo anterior se promocionará incluir una cláusula para promover la capacitación de empresarios, trabajadores y servidores públicos del ramo turístico que presenten alguna discapacidad.
 
@@ -1211,13 +1225,15 @@ XX. Incluir en las tarifas de los servicios que se ofrecen al visitante, el pago
 
 XXI. Proporcionar al visitante los bienes o servicios ofrecidos en los términos acordados, excepto en casos fortuitos, de fuerza mayor o cuando aquél incumpla con el pago del servicio contratado o contravenga los reglamentos internos de los prestadores de servicios, regulados por las Normas Oficiales Mexicanas;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2021)</small>
 
-XXII. Cumplir con las obligaciones que en materia de seguridad, migración y salud les imponga la legislación vigente y, en su caso, los reglamentos municipales;
+XXII. Cumplir con las obligaciones que en materia de capacitación, seguridad, migración y salud les imponga la legislación vigente y, en su caso, los reglamentos municipales;
 
 XXIII. Garantizar al usuario la tranquila y segura disposición y goce de los bienes y servicios prestados;
 
-XXIV. Mantener actualizadas sus páginas electrónicas, con la finalidad de que contengan de manera detallada los servicios, ubicación, costo, restricciones y demás aspectos que sean de interés para el visitante; y
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2021)</small>
+
+XXIV. Mantener actualizadas sus páginas electrónicas, con la finalidad de que contengan de manera detallada los servicios, ubicación, costo, restricciones y demás aspectos que sean de interés para el visitante;
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2020)</small>
 
@@ -1644,3 +1660,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Ayuntamientos contarán con un plazo no mayor de noventa días, contado a partir del inicio de la vigencia del presente Decreto, en el que deberán realizar las adecuaciones correspondientes a sus respetivos ordenamientos para darle puntual cumplimiento.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 852 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
