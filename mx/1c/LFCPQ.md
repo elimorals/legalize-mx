@@ -4,7 +4,7 @@ identifier: "LFCPQ"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1997-12-26"
-last_updated: "2018-12-24"
+last_updated: "2021-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11057&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCI
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
-ÚLTIMA ACTUALIZACIÓN PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2018.
+ÚLTIMA ACTUALIZACIÓN PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de diciembre de 1997.
 
@@ -105,6 +105,8 @@ La Procuraduría General de la República tendrá la intervención que le corres
 [NOTA 4. DE CONFORMIDAD CON EL ACUERDO EMITIDO POR EL CONSEJO GENERAL DE SALUBRIDAD, D.O.F. FECHA 18 DE JULIO DE 2017, SE ADICIONAN LAS SUBSTANCIAS N-FENETIL-4-PIPERIDONA (NPP) Y 4-ANILINO-N-FENETILPIPERIDINA (ANPP), AL LISTADO DE LA CLASIFICACIÓN A QUE SE REFIERE LA FRACCIÓN I DEL LISTADO DE CLASIFICACIÓN DE SUBSTANCIAS CONTROLADAS, POR LO QUE SE SUGIERE CONSULTAR DICHA PUBLICACIÓN.]
 
 [NOTA 5. DE CONFORMIDAD CON EL ACUERDO EMITIDO POR EL CONSEJO GENERAL DE SALUBRIDAD, D.O.F. FECHA 24 DE DICIEMBRE DE 2018, SE ADICIONA LA SUBSTANCIA ALFA-FENILACETOACETONITRILO (APAAN), AL LISTADO DE LA CLASIFICACIÓN A QUE SE REFIERE LA FRACCIÓN I DEL LISTADO DE CLASIFICACIÓN DE SUBSTANCIAS CONTROLADAS, POR LO QUE SE SUGIERE CONSULTAR DICHA PUBLICACIÓN.]
+
+[NOTA 6. DE CONFORMIDAD CON EL ACUERDO EMITIDO POR EL CONSEJO DE SALUBRIDAD GENERAL, D.O.F. FECHA 13 DE MAYO DE 2021, SE ADICIONAN LAS SUBSTANCIAS N-FENIL-4-PIPERIDINAMINA (4-AP), DICLORHIDRATO DE N-FENIL-4-PIPERIDINAMINA, ANHÍDRIDO PROPIÓNICO Y CLORURO DE PROPIONILO), AL LISTADO DE LA CLASIFICACIÓN A QUE SE REFIERE A LA FRACCIÓN I, DEL ARTÍCULO 4, DE LA LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y MÁQUINAS PARA ELABORAR CÁPSULAS, TABLETAS Y/O COMPRIMIDOS; Y SE CONSIDERAN ESTUPEFACIENTES COMPRENDIDOS EN EL ARTÍCULO 234, DE LA LEY GENERAL DE SALUD, POR LO QUE SE SUGIERE CONSULTAR DICHA PUBLICACIÓN.]
 
 ###### Artículo 4.
 
@@ -395,6 +397,18 @@ D.O.F. 24 DE DICIEMBRE DE 2018.
 PRIMERO. Se adiciona a la fracción I, del artículo 4 de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos, la substancia denominada alfa-Fenilacetoacetonitrilo (APAAN).
 
 SEGUNDO. Se adiciona a la fracción I, del artículo 245 de la Ley General de Salud, la substancia denominada alfa-Fenilacetoacetonitrilo (APAAN).
+
+## TRANSITORIO
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE MAYO DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE ADICIÓN AL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se adicionan al listado de substancias controladas a que se refiere la fracción I, del artículo 4, de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos, las substancias denominadas N-Fenil-4-piperidinamina (4-AP), Diclorhidrato de N-Fenil-4-piperidinamina, Anhídrido propiónico y Cloruro de propionilo.
+
+SEGUNDO. Para los efectos de lo establecido en los artículos 234 y 235 de la Ley General de Salud, las substancias denominadas N-Fenil-4-piperidinamina (4-AP), Diclorhidrato de N-Fenil-4-piperidinamina (4-AP), Anhídrido propiónico y Cloruro de propionilo, se consideran estupefacientes.
 
 ## TRANSITORIO
 
