@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-familia-para-el-estado-de-sonora-70504"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2019-01-21"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de octubre de 2009.
 
@@ -98,6 +98,10 @@ Para preservar su estabilidad emocional será escuchado en privado por el Juez, 
 A fin de evitar conflictos de lealtades, no se dejará constancia de la opinión del menor, cuando se trate de conflictos que involucren a sus padres o a cualquier otro miembro de su familia ni en los juicios sobre adopción o reconocimiento de hijos.
 
 No se admitirá que el menor sea llamado como testigo por alguna de las partes, cuando se trate de juicios de divorcio, pérdida de la patria potestad o en las causas penales, cuando comparezca como testigo de cargo, a solicitud de alguno de sus padres y en perjuicio del otro.
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+Artículo 8 TER.- Los integrantes de la familia, en particular niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones pública (sic) de acuerdo con las leyes.
 
 ### CAPITULO II. DE LA CONSTITUCIÓN Y DISOLUCIÓN DE LOS ESTADOS DE FAMILIA
 
@@ -1171,13 +1175,15 @@ Las amenazas e injurias graves, la acusación calumniosa por delito infamante y 
 
 El delito infamante cometido por uno de los cónyuges en contra de terceros, sí requiere de sentencia penal de condena debidamente ejecutoriada, en la que se imponga al inculpado una pena de prisión, independientemente de su duración y de que ésta se suspenda o se conmute.
 
-> <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, B.O. 14 DE MAYO DE 2021)</small>
 
 ###### Artículo 166.
 
-Todos los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
+Todos los integrantes de la familia están obligados a evitar conductas que generen violencia familiar; así como también evitar el castigo corporal y humillante en niñas, niños y adolescentes.
 
 Por violencia familiar se entiende, todo acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, sexual, económica o patrimonialmente a cualquier miembro de la familia y que pueda causar maltrato físico, verbal, psicológico, sexual, económico o daño patrimonial, en los términos de la Ley de Prevención y Atención de la Violencia familiar.
+
+Se define el castigo corporal y humillante según lo dispuesto por el inciso i), de la fracción I, del artículo 36 de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Sonora.
 
 ### CAPITULO VII. DE LAS CONSECUENCIAS PATRIMONIALES Y PERSONALES DEL DIVORCIO
 
@@ -2217,13 +2223,17 @@ La anterior custodia podrá terminar por decisión del pariente que la realiza, 
 
 La patria potestad se ejerce sobre la persona y bienes de los hijos. Su ejercicio queda sujeto, en cuanto a la guarda y educación de los menores e incapacitados, a las modalidades que impongan este Código y las resoluciones sobre nulidad de matrimonio, divorcio y cuestiones familiares, así como a las Leyes que establecen el Sistema Integral de Justicia para Adolescentes y de Protección a Víctimas del Delito.
 
+> <small>(REFORMADO, B.O. 14 DE MAYO DE 2021)</small>
+
 ###### Artículo 317.
 
-A las personas que tienen al hijo bajo su patria potestad, incumbe la obligación de protegerlo y educarlo convenientemente. Tienen la facultad de amonestar y corregir, pero evitando los castigos crueles e innecesarios.
+Las personas que ejerzan la patria potestad o tengan a niñas, niños y adolescentes bajo su cuidado, tienen la facultad de corregirlos siempre que sea mediante formas de crianza positivas, no violentas y participativas, así como la obligación de proteger su integridad personal y su sano desarrollo integral. Tienen igualmente la obligación de educarlos para que obedezcan las normas de convivencia social y de observar una conducta que sirva de buen ejemplo a sus hijos.
 
-Tienen igualmente la obligación de observar una conducta que sirva de buen ejemplo a los hijos y educarlos para que obedezcan las normas de convivencia social. En caso necesario, las autoridades le darán el apoyo que requieran para proteger y socializar a sus descendientes y para restituirlos al domicilio familiar, en los casos en que proceda.
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia.
 
-Cuando llegue a conocimiento del Ministerio Público o del Procurador de la Defensa del Menor y la Familia, en su caso, que los que ejercen la patria potestad no cumplen con sus obligaciones, corrompen al menor o abusan de su derecho a corregir, promoverá de oficio, ante el juez competente, la suspensión o pérdida de la patria potestad o de la custodia, en su caso.
+Queda prohibido que la madre, padre o de quienes ejerzan la patria potestad, tutela o guarda, custodia y crianza de niños y adolescentes, utilice el castigo corporal o humillante como una forma de corregirlos o disciplinarlos.
+
+Cuando llegue a conocimiento del Ministerio Público o del Procurador de Protección de Niñas, Niños y Adolescentes, en su caso, que los que ejercen la patria potestad, tutela o guarda y custodia no cumplen con sus obligaciones, corrompen a la niña, niño o adolescente o transgredan el derecho a corregir, promoverá de oficio, ante el juez competente, la suspensión o pérdida de la patria potestad o de la custodia, en su caso.
 
 ###### Artículo 318.
 
@@ -4060,6 +4070,14 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 B.O. 21 DE ENERO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 4, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 195, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA, DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA, CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
