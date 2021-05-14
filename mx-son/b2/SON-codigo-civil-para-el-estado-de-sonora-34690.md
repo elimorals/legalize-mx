@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2020-11-30"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -6287,15 +6287,19 @@ Nadie puede construir cerca de una pared ajena o de copropiedad, fosos, cloacas,
 
 ###### Art. 1016.
 
-Nadie puede plantar árboles cerca de una heredad ajena, sino a la distancia de dos metros de la línea divisoria, si la plantación se hace de árboles grandes, o de un metro, si la plantación se hace de arbustos o árboles pequeños.
+(DEROGADO, B.O. 14 DE MAYO DE 2021)
+
+> <small>(REFORMADO, B.O. 14 DE MAYO DE 2021)</small>
 
 ###### Art. 1017.
 
-El propietario puede pedir que se arranquen los árboles plantados a menor distancia de su predio de la señalada en el artículo que precede, y hasta cuando sea mayor, si es evidente el daño que los árboles le causen.
+En el caso de que un árbol se extendiese a propiedad ajena, el propietario del inmueble podrá solicitar a la autoridad ambiental correspondiente que se arranque el árbol plantado, si es que se verifica que existe un daño o perjuicio.
+
+> <small>(REFORMADO, B.O. 14 DE MAYO DE 2021)</small>
 
 ###### Art. 1018.
 
-Si las ramas de los árboles se extienden sobre heredades, jardines o patios vecinos, el dueño de éstos tendrá derecho de que se corten en cuanto se extiendan sobre su propiedad; y si fueren las raíces de los árboles las que se extendieren en el suelo de otro, éste podrá hacerlas cortar por sí mismo dentro de su heredad, pero con previo aviso al vecino.
+Si las ramas de los árboles se extienden sobre heredades, jardines o patios vecinos, el dueño de éstos tendrá derecho a solicitar a la autoridad ambiental correspondiente a que se corten o poden en cuanto se extiendan sobre su propiedad; y si fueren las raíces de los árboles las que se extendieren en el suelo de otro, este podrá hacerlas cortar por sí mismo dentro de su heredad, con previa autorización de la autoridad competente en la materia.
 
 ###### Art. 1019.
 
@@ -19564,3 +19568,11 @@ En el caso de la reelección prevista en el artículo 129 de la presente ley, so
 ###### ARTÍCULO QUINTO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 198, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
