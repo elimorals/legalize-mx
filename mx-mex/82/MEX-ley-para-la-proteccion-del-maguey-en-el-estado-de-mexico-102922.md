@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-del-maguey-en-el-estado-de-mexico-102922
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-21"
-last_updated: "2020-09-29"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PROTECCIÓN DEL MAGUEY EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 21 de octubre de 2014.
 
@@ -45,19 +45,29 @@ LEY PARA LA PROTECCIÓN DEL MAGUEY EN EL ESTADO DE MÉXICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2021)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto la protección del cultivo del maguey en el Estado de México, el fomento de su desarrollo sostenible y así como el impulso y fortalecimiento de las organizaciones de agricultores y productores.
+La presente Ley es de orden público e interés social y tiene por objeto la protección del cultivo del maguey en el Estado de México, el fomento de su desarrollo sostenible, así como el impulso y fortalecimiento de las organizaciones de personas agricultoras y productoras.
 
 ###### Artículo 2.
 
 Para efectos de la presente Ley se entiende por:
 
-I. Maguey: A la planta de la familia Agavaceae, considerada en todos sus subgéneros, grupos, especies, subespecies, variedades y formas.
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+I. Maguey: A la planta de origen mexicano de la familia Agavaceae con la que se obtienen diversos productos agroalimentarios nativos, considerada en todos sus subgéneros, grupos, especies, subespecies, variedades y formas.
 
 II. Productor: A la persona física o jurídico colectiva que desarrolla el cultivo del maguey en cualquiera de sus especies para su explotación comercial.
 
-III. SAGARPA: A la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2021)</small>
+
+II Bis. Reglamento: Al Reglamento de la Ley para la Protección del Maguey en el Estado de México.
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+III. SADER: A la Secretaría de Agricultura y Desarrollo Rural.
 
 > <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -67,11 +77,23 @@ V. Registro: Al Registro Estatal de Agricultores y Productores de Maguey.
 
 VI. Ley: A la Ley para la Protección del Maguey en el Estado de México.
 
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2021)</small>
+
+VII. Producto: Al bien que resulta de un proceso productivo primario y consiste en la obtención de un fin principal de la explotación del maguey.
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2021)</small>
+
+VIII. Subproducto: A los derivados del proceso de producción o maduración de la planta del maguey.
+
 ### CAPÍTULO II. DE LAS AUTORIDADES
 
 ###### Artículo 3.
 
 Es autoridad competente para la aplicación de la Ley, la Secretaría.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2021)</small>
+
+La Secretaría en coordinación con los Ayuntamientos ejercerá sus atribuciones en materia de conservación, protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, sus productos y subproductos, de conformidad con lo previsto en esta Ley y las demás disposiciones jurídicas aplicables.
 
 ### CAPÍTULO III
 
@@ -83,29 +105,103 @@ DE LAS ATRIBUCIONES DE LA SECRETARÍA DEL CAMPO
 
 La Secretaría tendrá las siguientes facultades y obligaciones:
 
-I. Presidir el Consejo del Maguey del Estado de México y realizar las acciones necesarias para su eficaz funcionamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE MAYO DE 2021)</small>
 
-II. Promover, fomentar y apoyar la organización de los agricultores y productores.
+I. Regular la protección, conservación y restauración del maguey, así como la ordenación y aprovechamiento sostenible.
 
-III. Establecer programas de fomento a la investigación del agave.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.G. 14 DE MAYO DE 2021)</small>
 
-IV. Elaborar y mantener actualizado el Registro de Agricultores y Productores de Maguey, así como sus organizaciones.
+II. Presidir el Consejo del Maguey del Estado de México y realizar las acciones necesarias para su eficaz funcionamiento.
 
-V. Llevar un control estadístico del cultivo de maguey en el Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE MAYO DE 2021)</small>
 
-VI. Coordinarse con las instancias respectivas para la aplicación de las disposiciones que permitan el control y la inspección del maguey y sus productos.
+III. Coordinarse con los Ayuntamientos para la aplicación y ejecución de las políticas públicas de conservación, protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, sus productos y subproductos.
 
-VII. Impulsar programas que permitan diversificar la comercialización de otros productos del maguey tales como mieles y jarabes, fibras, esteroides, pulpa para forraje, sustratos para producción de hongos, insumos de alimentos forrajeros, "bagazos" y gusano rojo y blanco.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE MAYO DE 2021)</small>
 
-VIII. Fomentar la instalación y funcionamiento de centros de cría de gusanos de maguey.
+IV. Fomentar las actividades que protejan la biodiversidad del maguey mediante prácticas de aprovechamiento sostenible.
 
-IX. Resolver las consultas técnicas que le formulen los agricultores y productores del maguey.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE MAYO DE 2021)</small>
 
-X. Establecer, con recursos a cargo de su presupuesto y de acuerdo a la disponibilidad financiera, los fondos para la investigación.
+V. Capacitar y asesorar a las personas agricultoras en materia de conservación, protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey.
 
-XI. Realizar foros, ferias y cualquier otra actividad tendente al fomento del cultivo, producción y comercialización del maguey y sus subproductos.
+> <small>(REFORMADA Y REUBICADA, G.G. 14 DE MAYO DE 2021)</small>
 
-XII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+VI. Asesorar y apoyar a las personas productoras en el acceso a créditos con tasas preferenciales y seguros para la producción e innovaciones tecnológicas, canales de comercialización adecuados, almacenaje y mejores sistemas de administración, procurando siempre su bienestar y progreso.
+
+> <small>(REFORMADA Y REUBICADA, G.G. 14 DE MAYO DE 2021)</small>
+
+VII. Establecer y fomentar programas de investigación científica y proyectos de desarrollo tecnológico sobre el maguey, para beneficiar la protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, sus productos y subproductos, mediante convenios con instituciones educativas y de investigación, en beneficio del sector dedicado al maguey.
+
+> <small>(REFORMADA Y REUBICADA, G.G. 14 DE MAYO DE 2021)</small>
+
+VIII. Diseñar, definir y otorgar, en el ámbito de su competencia, estímulos e incentivos económicos a las personas productoras, para la conservación, protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, de sus productos y subproductos, así como los lineamientos para su aplicación y evaluación.
+
+> <small>(REFORMADA Y REUBICADA, G.G. 14 DE MAYO DE 2021)</small>
+
+IX. Promover ante las autoridades competentes la declaración de periodos de veda magueyera, para prohibir la explotación de las poblaciones magueyeras con fines de extracción de mixiote y pencas, así como de recolección de gusano rojo, gusano blanco y demás variedades.
+
+> <small>(REFORMADA Y REUBICADA, G.G. 14 DE MAYO DE 2021)</small>
+
+X. Promover en coordinación con las dependencias federales, municipales, organizaciones sociales y agropecuarias, así como organismos auxiliares, la difusión, vigilancia y control de aspectos sanitarios en la producción, industrialización, almacenaje, comercialización y movilización del maguey, sus productos y subproductos.
+
+> <small>(REFORMADA Y REUBICADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XI. Llevar un control estadístico del cultivo de maguey en el Estado, que será publicado en la página de Internet de la Secretaría.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.G. 14 DE MAYO DE 2021)</small>
+
+XII. Coordinarse con las instancias respectivas para la aplicación de las disposiciones que permitan el control y la inspección del maguey y sus productos.
+
+> <small>(REFORMADA Y REUBICADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XIII. Impulsar programas que permitan diversificar la comercialización de otros productos del maguey tales como mieles y jarabes, fibras, pulpa para forraje, sustratos para producción de hongos, insumos de alimentos forrajeros, "bagazos" y gusano rojo y blanco.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE MAYO DE 2021)</small>
+
+XIV. Otorgar asesoría técnica a las personas agricultoras y productoras del maguey.
+
+> <small>(REFORMADA Y REUBICADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XV. Elaborar y mantener actualizado el Registro.
+
+> <small>(REFORMADA Y REUBICADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XVI. Realizar foros, exposiciones, ferias y cualquier otra actividad tendiente al fomento de la conservación, producción, cultivo, manejo, aprovechamiento sostenible y comercialización del maguey, sus productos y subproductos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE MAYO DE 2021)</small>
+
+XVII. Promover ante las autoridades e instituciones públicas en materia de seguridad pública y tránsito del Estado, las garantías de seguridad y libre tránsito de productores para el traslado y movilización del maguey, sus productos y subproductos, quienes deberán acreditar su legal procedencia y cumplir con los requisitos obligatorios en la materia.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 14 DE MAYO DE 2021)</small>
+
+XVIII. Las demás que le confiera esta Ley, su reglamento y las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2021)</small>
+
+###### Artículo 4 Bis.
+
+Los Ayuntamientos tendrán las siguientes atribuciones:
+
+I. Coadyuvar a la Secretaría en la elaboración y actualización del Registro.
+
+II. Promover ante la comunidad en general la concientización del cuidado y preservación del maguey.
+
+III. Promover la participación de las personas agricultoras y productoras, en la política municipal de desarrollo y aprovechamiento sostenible del maguey.
+
+IV. Coordinarse con la Secretaría para la aplicación y ejecución de las políticas públicas de conservación, protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey y sus productos y subproductos.
+
+V. Diseñar, desarrollar y aplicar incentivos para promover el desarrollo y aprovechamiento sostenible del maguey en el Municipio.
+
+VI. Desarrollar programas para apoyar viveros para la producción de plantas de maguey.
+
+VII. Hacer del conocimiento a las autoridades competentes, y en su caso denunciar, todo hecho, acto u omisión que contravenga esta Ley, su Reglamento, Normas y demás disposiciones aplicables en materia de protección y preservación del maguey.
+
+VIII. Coadyuvar con la Federación en programas integrales de prevención y combate a la extracción clandestina del maguey y sus estructuras.
+
+IX. Garantizar, en el ámbito de su competencia, en materia de seguridad pública y tránsito, seguridad y libre tránsito de productores para el traslado y movilización del maguey y sus productos y subproductos, quienes deberán acreditar su legal procedencia y cumplir con los demás requisitos obligatorios en la materia, y
+
+X. Las demás que le confiera esta Ley, su reglamento y demás disposiciones jurídicas aplicables.
 
 ### CAPÍTULO IV. DEL CONSEJO DEL MAGUEY DEL ESTADO DE MÉXICO
 
@@ -113,15 +209,23 @@ XII. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 Se crea el Consejo del Maguey del Estado de México con el objeto de apoyar a la Secretaría en la ejecución de programas tendentes a incrementar la calidad y productividad del cultivo del maguey.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2021)</small>
+
 ###### Artículo 6.
 
-El Consejo del Maguey del Estado de México estará integrado por el titular de la Secretaría, quien los presidirá, los presidentes de las asociaciones de agricultores y productores reconocidos por la Secretaría, así como tres representantes de la industria del maguey.
+El Consejo del Maguey del Estado de México estará integrado por la persona Titular de la Secretaría, quien lo presidirá; por presidentes de las asociaciones de personas agricultoras y productoras reconocidas por la Secretaría, así como personas representantes de la industria del maguey en el Estado.
 
-Se podrá invitar a un representante de la delegación en el Estado de México de la SAGARPA.
+Se podrá invitar a un representante de la delegación en el Estado de México de la SADER.
+
+Para la elección de los representantes de las asociaciones de agricultores, productores y representantes de la industria del maguey, éstos deberán estar inscritos en el Registro, siendo elegidos bajo los principios de democracia y equidad de género, de conformidad con la Convocatoria emitida por la Secretaría para tal efecto.
+
+La participación de los integrantes del Consejo del Maguey del Estado de México será de carácter honorífico.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2021)</small>
 
 ###### Artículo 7.
 
-La Secretaría emitirá una convocatoria pública para la instalación del Consejo del Maguey del Estado de México, su instalación se realizará en los términos señalados en dicha convocatoria. El Consejo aprobará los lineamientos sobre su funcionamiento.
+La Secretaría emitirá una convocatoria pública para la instalación del Consejo del Maguey del Estado de México, con treinta días de anticipación a su instalación, la cual se realizará en los términos señalados en dicha convocatoria. El Consejo aprobará los lineamientos sobre su funcionamiento.
 
 ###### Artículo 8.
 
@@ -151,7 +255,9 @@ Son derechos de los agricultores y productores:
 
 I. Disfrutar en igualdad de circunstancias de los apoyos que el Gobierno del Estado otorgue para el fomento y desarrollo del cultivo del maguey.
 
-II. Recibir asesorías técnicas por parte de las autoridades estatales y municipales.
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+II. Recibir asesorías técnicas por parte de las autoridades estatales y municipales, para la protección, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, sus productos y subproductos.
 
 III. Participar de manera directa o indirecta en las decisiones que sobre la materia tome el Consejo del Maguey del Estado de México.
 
@@ -159,7 +265,21 @@ IV. Recibir, en la comercialización de sus productos, un precio adecuado a la c
 
 V. Obtener información veraz y oportuna sobre prácticas y productos permitidos o autorizados por las autoridades para el adecuado manejo de sus magueyes.
 
-VI. Las demás que le confieran la Ley y su reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE MAYO DE 2021)</small>
+
+VI. Ser asesorados y apoyados por parte de la Secretaría para la comercialización nacional e internacional del maguey, sus productos y subproductos.
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2021)</small>
+
+VII. Participar en la aplicación, evaluación y seguimiento de las políticas estatales y municipales de protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, sus productos y subproductos.
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2021)</small>
+
+VIII. Conocer y estar informados sobre el avance de los programas de investigación científica y proyectos de desarrollo tecnológico sobre el maguey, y ser beneficiados con los resultados de éstos, para la protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, sus productos y subproductos, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], G.G. 14 DE MAYO DE 2021)</small>
+
+IX. Los (sic) demás que le confieran la Ley y su reglamento.
 
 ###### Artículo 10.
 
@@ -169,7 +289,21 @@ I. Acatar las disposiciones legales y reglamentarias relativas al control del cu
 
 II. Permitir las inspecciones que por cuestiones fitosanitarias dicten las autoridades estatales y federales, en los términos de la Ley y las demás disposiciones legales aplicables.
 
-III. Las demás que le confiera la Ley y su reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE MAYO DE 2021)</small>
+
+III. Aplicar las medidas establecidas por la Secretaría para la protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, sus productos y subproductos.
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2021)</small>
+
+IV. Contar para las movilizaciones entre otros estados, además de la guía de tránsito y control estadístico, con el certificado fitosanitario de movilización nacional expedido por la SADER.
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2021)</small>
+
+V. Llevar a cabo la trazabilidad en todo el ciclo de producción del maguey, sus productos y subproductos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 14 DE MAYO DE 2021)</small>
+
+VI. Las demás que le confiera la Ley y su reglamento.
 
 ### CAPÍTULO VI. DE LA INSPECCIÓN
 
@@ -360,3 +494,19 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 268.- POR EL QUE SE REFORMAN EL ARTÍCULO 1, LAS FRACCIONES I Y III DEL ARTÍCULO 2, LOS ARTÍCULOS 4, 6 Y 7, LAS FRACCIONES II Y VI DEL ARTÍCULO 9 Y LA FRACCIÓN III DEL ARTÍCULO 10; SE ADICIONAN LAS FRACCIONES II BIS, VII Y VIII AL ARTÍCULO 2, UN SEGUNDO PÁRRAFO AL ARTÍCULO 3, EL ARTÍCULO 4 BIS, LAS FRACCIONES VII, VIII Y IX AL ARTÍCULO 9 Y LAS FRACCIONES IV, V Y VI AL ARTÍCULO 10 DE LA LEY PARA LA PROTECCIÓN DEL MAGUEY EN EL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo Estatal deberá realizar las modificaciones reglamentarias correspondientes de conformidad con lo establecido en el presente Decreto en un plazo no mayor a sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
