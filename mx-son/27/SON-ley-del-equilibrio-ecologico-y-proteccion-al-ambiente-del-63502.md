@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-63502
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2020-12-24"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
 
 Ley publicada en la Sección VIII del Boletín Oficial del Estado de Sonora, el jueves 25 de septiembre de 2008.
 
@@ -106,6 +106,10 @@ VII.- Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, in
 VIII.- Comisión o CEDES: La Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora;
 
 IX.- Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
+
+> <small>(ADICIONADA, B.O. 14 DE MAYO DE 2021)</small>
+
+IX BIS.- Contaminación lumínica: Emisión de flujo luminoso en la atmósfera de fuentes artificiales nocturnas, en intensidades, direcciones, rangos espectrales u horarios innecesarios para la realización de las actividades previstas en la zona en que se instala la fuente;
 
 X.- Contaminante: Materia o energía en cualesquier de sus estados físicos y formas que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique de manera nociva su composición y condición natural;
 
@@ -2607,6 +2611,44 @@ Quedan prohibidas las emisiones de ruido, vibraciones, olores, radiaciones elect
 
 ARTÍCULO 171 BIS.- Los responsables de los establecimientos que generen emisiones de ruido, deberán medirlas conforme a los criterios técnicos y la periodicidad establecida en la Norma Oficial Mexicana correspondiente.
 
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+ARTÍCULO 171 BIS 1.- Para la prevención y control de la contaminación lumínica la Comisión, tendrá las siguientes facultades:
+
+I.- Promover la creación y ejecución del Programa para la Prevención y Control de la Contaminación Lumínica, en apego a lo dispuesto en esta Ley, en la Ley General y las Normas Oficiales Mexicanas;
+
+II.- Promover la realización de estudios y proyectos destinados a prevenir y controlar la contaminación lumínica en los municipios de la entidad;
+
+III.- Apoyar a los Municipios en la elaboración y aplicación de sus reglamentos, normas y programas para prevenir la contaminación lumínica y sujetar a los establecimientos comerciales y de servicios a los requerimientos que consideren pertinentes en la materia;
+
+IV.- Promover campañas y actividades de capacitación, difusión y sensibilización sobre la importancia de prevenir la contaminación lumínica; y
+
+V.- Promover convenios de colaboración con organismos e instituciones de investigación local, nacional e internacional, interesadas en la preservación de la calidad de la atmósfera.
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+ARTÍCULO 171 BIS 2.- En materia de prevención y control de la contaminación lumínica, los municipios tendrán las siguientes facultades:
+
+I.- Participar en la elaboración del Programa para la Prevención y Control de la Contaminación Lumínica, en apego a lo dispuesto en esta Ley, en la Ley General y las Normas Oficiales Mexicanas;
+
+II.- Promover las disposiciones de protección ambiental para evitar la contaminación lumínica, en el ámbito de su competencia, en particular;
+
+a) La regulación de los establecimientos mercantiles o de servicios;
+
+b) En materia de alumbrado público;
+
+c) En materia de edificaciones;
+
+d) En materia de imagen urbana, y
+
+e) En general aquellas que pudieran generar contaminación lumínica.
+
+III.- Integrar y mantener actualizado el inventario de luminarias y coordinarse con el gobierno estatal para la integración del inventario en el estado;
+
+IV.- Promover campañas y actividades de capacitación, difusión y sensibilización sobre la importancia de prevenir la contaminación lumínica; y
+
+V.- Promover convenios de colaboración con organismos e instituciones de investigación local, nacional e internacional, interesadas en la preservación de la calidad de la atmósfera.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 172.
@@ -3644,3 +3686,11 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Hacienda, a más tardar el día 20 de febrero de 2021 y previa consulta con las Comisiones de Hacienda del Congreso del Estado, deberá emitir las reglas de carácter general para la distribución de los recursos que se recuden (sic) con motivo de la contribución para el fortalecimiento y sostenimiento de los cuerpos de bomberos contenida en los artículos 292 BIS-6, 292 BIS-7 y 292 Bis-8 de la Ley de Hacienda del Estado.
+
+B.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 196, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA Y DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
