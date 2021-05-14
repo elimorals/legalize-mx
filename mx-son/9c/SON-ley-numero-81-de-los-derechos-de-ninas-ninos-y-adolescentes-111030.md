@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-81-de-los-derechos-de-ninas-ninos-y-adolescentes-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2020-03-05"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 17 de diciembre de 2015.
 
@@ -601,13 +601,29 @@ e) El trabajo antes de la edad mínima de quince años, prevista en la Constituc
 
 f) El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables,
 
-> <small>(REFORMADO, B.O. 5 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, B.O. 14 DE MAYO DE 2021)</small>
 
-g) La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral, y
+g) La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral;
 
-> <small>(ADICIONADO, B.O. 5 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, B.O. 14 DE MAYO DE 2021)</small>
 
-h) El feminicidio de sus madres.
+h) El feminicidio de sus madres; y
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+i) El castigo corporal y humillante.
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el castigo humillante.
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+Castigo corporal o físico es todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+Castigo humillante es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenazar, molestar o humillar a las niñas, niños y adolescentes.
 
 II. Implementar las medidas apropiadas para prevenir, atender, sancionar y erradicar cualquier tipo de violencia o maltrato en contra de niñas, niños y adolescentes con discapacidad.
 
@@ -1243,9 +1259,11 @@ Los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia de n
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias están obligadas a proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en cuanto a las obligaciones que establecen esta Ley y demás disposiciones jurídicas aplicables y en la medida que se favorezca el interés superior de la niñez.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE MAYO DE 2021)</small>
+
 ###### Artículo 86.
 
-Atendiendo al interés superior de las niñas, niños y adolescentes, quienes ejercen la patria potestad, tutela o guarda y custodia, deberán:
+Atendiendo al interés superior de las niñas, niños y adolescentes, quienes ejercen la patria potestad, tutela o guarda y custodia, tienen las siguientes obligaciones:
 
 I. Tener y conservar la patria potestad, tutela o guarda y custodia de niñas, niños o adolescentes.
 
@@ -1281,6 +1299,14 @@ XVI. Administrar los bienes de niñas, niños o adolescentes.
 
 XVII. Ser atendidos por las autoridades respecto de las acciones, políticas y programas que posibiliten el ejercicio de los derechos de niñas, niños o adolescentes.
 
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+XVIII. Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerzan cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVIII, B.O. 14 DE MAYO DE 2021]</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y disciplina de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda, custodia y crianza, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el trato humillante.
+
 Las autoridades del Estado de Sonora y sus municipios tienen el compromiso y el deber de respetar y garantizar a quienes ejercen la patria potestad, tutela o guarda y custodia, el goce y ejercicio efectivo de los derechos reconocidos en la Constitución Federal y Estatal, esta Ley, los tratados internacionales y demás legislación aplicable.
 
 ###### Artículo 87.
@@ -1306,6 +1332,10 @@ VIII. Orientar, supervisar y, en su caso, restringir, las conductas y hábitos q
 IX. Considerar la opinión de niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
 X. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
+
+> <small>(ADICIONADA, B.O. 14 DE MAYO DE 2021)</small>
+
+XI. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción.
 
 Las sanciones en caso de incumplimiento de las obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia serán las dispuestas por esta Ley, el Código de Familia, el Código de Procedimientos Civiles del Estado y demás leyes aplicables.
 
@@ -2120,3 +2150,11 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 El Ejecutivo del Estado contará con 180 días naturales, a partir de la entrada en vigor del presente Decreto, para integrar los Registros a que se hace referencia en el mismo.
+
+B.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 195, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA, DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA, CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
