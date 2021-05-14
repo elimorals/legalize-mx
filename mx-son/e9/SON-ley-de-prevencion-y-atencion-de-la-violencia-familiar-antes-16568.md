@@ -4,7 +4,7 @@ identifier: "SON-ley-de-prevencion-y-atencion-de-la-violencia-familiar-antes-165
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-31"
-last_updated: "2018-01-29"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1999.
 
@@ -147,9 +147,21 @@ c).- Maltrato Psicológico.- Todo patrón de conducta consistente en actos u omi
 
 d).- Maltrato Sexual.- Al patrón de conducta consistente en actos u omisiones cuyas formas de expresión pueden ser: inducir a la realización de prácticas o conductas sexuales no deseadas o que generen dolor, así como aquellas que impliquen practicas de celotipia para el control, manipulación o dominio de la pareja;
 
-e).- Daño Patrimonial.- Cualquier acto u omisión tendiente a apropiarse o destruir el patrimonio del receptor de la violencia, ya sea apoderándose o controlando la libre disposición de sus ingresos o de sus bienes muebles e inmuebles, o bien menoscabando o destruyendo los mismos; y
+> <small>(REFORMADO, B.O. 14 DE MAYO DE 2021)</small>
 
-f).- Daño Económico.- A los actos que implican control de los ingresos, el apoderamiento de los bienes propiedad de la otra parte, la retención, menoscabo, destrucción o desaparición de objetos, documentos personales, bienes, valores, derechos o recursos económicos de la pareja o de un integrante de la familia. Así como, el incumplimiento de las obligaciones alimentarias por parte de la persona que tiene obligación de cubrir en materia de alimentos.
+e).- Daño Patrimonial.- Cualquier acto u omisión tendiente a apropiarse o destruir el patrimonio del receptor de la violencia, ya sea apoderándose o controlando la libre disposición de sus ingresos o de sus bienes muebles e inmuebles, o bien menoscabando o destruyendo los mismos;
+
+> <small>(REFORMADO, B.O. 14 DE MAYO DE 2021)</small>
+
+f).- Daño Económico.- A los actos que implican control de los ingresos, el apoderamiento de los bienes propiedad de la otra parte, la retención, menoscabo, destrucción o desaparición de objetos, documentos personales, bienes, valores, derechos o recursos económicos de la pareja o de un integrante de la familia. Así como, el incumplimiento de las obligaciones alimentarias por parte de la persona que tiene obligación de cubrir en materia de alimentos;
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+g).- Castigo corporal o físico.- Es todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve; y
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+h).- Castigo humillante.- Es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenazar, molestar o humillar a las niñas, niños y adolescentes.
 
 II.- Receptores de Violencia Familiar.- Aquella persona, grupo o individuos que tengan entre sí algún vínculo familiar y que sean sujetos de cualquier maltrato físico, psicológico ó sexual que los afecte en su integridad personal;
 
@@ -804,3 +816,11 @@ B.O. 29 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 120, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR Y DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA”.]
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 195, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA, DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA, CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
