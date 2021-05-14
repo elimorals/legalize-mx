@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2021-02-11"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 11 DE FEBRERO DE 2021 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL B.O. DE 1 DE OCTUBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -357,6 +355,14 @@ V.- Cumplir con todos los servicios de higiene y de prevención de accidentes a 
 
 VI.- Conceder licencias con goce de sueldo a sus trabajadores para el desempeño de las comisiones sindicales que no excedan de cinco días hábiles y sin goce de sueldo por mayor tiempo, salvo el caso de que por la naturaleza de la comisión y a juicio del titular, debe otorgarse licencia con goce de sueldo por mayor tiempo. Las licencias que se concedan serán computadas como tiempo efectivo de servicios;
 
+> <small>(ADICIONADA, B.O. 14 DE MAYO DE 2021)</small>
+
+VI Bis.- A no obligar a un trabajador a presentarse a trabajar, cuando éste haya hecho de su conocimiento o a la persona responsable del área administrativa o de recursos humanos bajo su cargo, que se encuentra contagiado de un virus peligroso y altamente contagioso decretado así por la autoridad de salud competente y que puede poner en riesgo la vida de los demás trabajadores de la entidad pública para la cual se encuentra adscrito el trabajador contagiado.
+
+La violación a la obligación prevista en esta fracción será considerada como falta grave de conformidad a lo dispuesto por la Ley Estatal de Responsabilidades y deberá ser sancionado con multa de ciento cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización e inhabilitado de dos a seis años.
+
+La multa e inhabilitación se aumentará al doble, cuando se trate de un trabajador del sector salud del Estado o Municipio;
+
 > <small>(REFORMADA, B.O. 1 DE OCTUBRE DE 2020)</small>
 
 VII.- Hacer las deducciones en los salarios, que soliciten los sindicatos respectivos, siempre que se ajusten a los términos de esta ley; y
@@ -404,6 +410,10 @@ VII.- Proceder con absoluta discreción en el desempeño de sus labores, guardan
 VIII.- Asistir a los cursos de capacitación para mejorar su preparación y eficiencia;
 
 IX.- Acreditar su buena salud mediante certificado médico al ingresar al servicio y sujetarse a exámenes médicos cuando el titular de la entidad en que preste sus servicios lo requiera.
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+El trabajador que al tener conocimiento de que está contagiado de algún virus peligroso y altamente contagioso decretado así por la autoridad de salud competente, que puede poner en riesgo la vida de otros trabajadores, por haber sido diagnosticado por un (sic) institución pública o privada de la salud o que tiene los síntomas característicos de contagio del virus y se presenta a trabajar a la entidad pública a la cual se encuentra adscrito, a pesar de estar impedido para hacerlo, se dará por terminada la relación de trabajo.
 
 El incumplimiento de estas obligaciones, si no amerita otra sanción, dará lugar a un extrañamiento que impondrá el titular de la dependencia o el superior jerárquico del trabajador, con audiencia de éste, y constituirá nota desfavorable en su expediente.
 
@@ -477,7 +487,19 @@ m) Por presentar documentos falsos para obtener el empleo u ocultar circunstanci
 
 n) Por ejecutar habitualmente en su vida privada actos que puedan poner en peligro los intereses de la entidad pública en que preste sus servicios, tratándose de empleados que manejen fondos o valores;
 
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTE PÁRRAFO ES SIMILAR AL INCISO P.]</small>
+
 ñ) Por cualquier otra causa similar a las anteriores, a juicio del Tribunal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 14 DE MAYO DE 2021)</small>
+
+o) Por comprometer la vida de otros trabajadores de la entidad pública a la cual esté adscrito, con motivo de contagio de algún virus peligroso y altamente contagioso decretado así por la autoridad de salud competente.
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTE PÁRRAFO ES SIMILAR AL INCISO Ñ.]</small>
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+p) Por cualquier otra causa similar a las anteriores, a juicio del Tribunal.
 
 > <small>(REFORMADO, B.O. 18 DE NOVIEMBRE DE 2014)</small>
 
@@ -1316,3 +1338,11 @@ B.O. 1 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 194, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SERVICIO CIVIL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
