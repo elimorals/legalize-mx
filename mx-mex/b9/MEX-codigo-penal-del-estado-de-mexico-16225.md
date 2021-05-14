@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2021-04-29"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2805,6 +2805,10 @@ Al que ejecutare o hiciere ejecutar a otra persona actos de exhibicionismo corpo
 
 El que, por cualquier medio, venda, difunda o exhiba material pornográfico entre personas menores de edad o personas que no tengan la capacidad para comprender el significado del hecho o de resistirlo, será castigado con pena de prisión de seis meses a un año y de doscientos a quinientos días multa.
 
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2021)</small>
+
+La pena se aumentará hasta el doble, cuando una persona mayor de edad por medio del engaño, simule ser una niña, niño o adolescente, con el propósito de solicitar u obtener de esta, imágenes, audios, videos, o grabaciones de voz con contenido sexual explicito u actos de connotación sexual en las que participe, o con la finalidad de concertar un encuentro o acercamiento físico.
+
 No se actualizará el delito tratándose de programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2012)</small>
@@ -2949,15 +2953,25 @@ Se excluye de este delito, al servidor público que en cumplimiento de su deber 
 
 A quien con la anuencia del sujeto pasivo, haya obtenido imágenes, audios, textos, grabaciones de voz o contenidos audiovisuales de naturaleza erótico, sexual o pornográfico; y las revele, publique, difunda o exhiba sin consentimiento de la víctima, a través de cualquier tecnología de la información y la comunicación, se le impondrá de uno a cinco años de prisión y multa de doscientas a quinientas unidades de medida y actualización.
 
-Las penas y sanciones referidas en el párrafo anterior, se aumentarán hasta una mitad cuando el sujeto activo sea o haya sido la o el cónyuge, concubina o concubinario o haya tenido alguna relación sentimental, afectiva, de confianza, laboral o análoga con la víctima, o haya cometido la conducta con fines lucrativos o haciendo uso de su calidad de servidor público y cuando sin el consentimiento expreso de las personas involucradas, por cualquier medio obtenga grabaciones, fotografías, filmaciones o capte la imagen o audio con contenido erótico, sexual, de actos íntimos, interpersonales, efectuados en lugar privado, y las publique, difunda, exhiba o propague sin el consentimiento de las personas involucradas.
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2021)</small>
+
+La misma pena se aplicará a la persona que le sea entregada por parte de la o el receptor original, a través de cualquiera de los medios previstos en el párrafo anterior, o bien encuentre en algún medio físico o cualquier tecnología de la información, comunicación o transmisión de datos, el material señalado y publique, difunda, adquiera, intercambie o comparta por cualquier medio sin el consentimiento de la persona que aparece en el mismo.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2021)</small>
+
+Las penas y sanciones referidas en los párrafos anteriores, se aumentarán hasta una mitad cuando el sujeto activo sea o haya sido la o el cónyuge, concubina o concubinario o haya tenido alguna relación sentimental, afectiva, de confianza, laboral o análoga con la víctima, o haya cometido la conducta con fines lucrativos o haciendo uso de su calidad de servidor público y cuando sin el consentimiento expreso de las personas involucradas, por cualquier medio obtenga grabaciones, fotografías, filmaciones o capte la imagen o audio con contenido erótico, sexual, de actos íntimos, interpersonales, efectuados en lugar privado, y las publique, difunda, exhiba o propague sin el consentimiento de las personas involucradas.
 
 Este delito se perseguirá por querella de la parte de la ofendida.
 
-> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2021)</small>
 
 ###### Artículo 211 Quater.
 
-A quien coaccione, hostigue o exija a otra persona, la elaboración o remisión de imágenes o grabaciones de voz o contenidos audiovisuales de naturaleza erótico, sexual o pornográfico bajo la amenaza de revelar, publicar, difundir o exhibir sin su consentimiento el material de la misma naturaleza que previamente la víctima le haya compartido directamente o que haya obtenido por cualquier otro medio, se le impondrá de tres a siete años de prisión y multa de doscientas a cuatrocientas unidades de medida y actualización.
+A quien coaccione, intimide, hostigue, exija o engañe a otra persona, para la elaboración o remisión de imágenes o grabaciones de voz o contenidos audiovisuales de naturaleza erótico, sexual o pornográfico bajo la amenaza de revelar, publicar, difundir o exhibir sin su consentimiento el material de la misma naturaleza que previamente la víctima le haya compartido directamente o que haya obtenido por cualquier otro medio, o bien, con la finalidad de concertar un encuentro o acercamiento físico, se le impondrá de tres a siete años de prisión y multa de doscientas a cuatrocientas unidades de medida y actualización.
+
+Asimismo, a quien mediante amenazas y engaños pretenda o logre concertar un encuentro o acercamiento físico con una persona para obtener concesiones de índole sexual o material audiovisual con contenido explícito, se le impondrá de cuatro a ocho años de prisión y multa de doscientas a cuatrocientas unidades de medida y actualización.
+
+La pena se aumentará hasta el doble, cuando la víctima sea menor de edad o sea declarada incapaz; así también, cuando para la obtención de imágenes o grabaciones de voz o contenidos audiovisuales de naturaleza erótico, sexual o pornográfico, la víctima se encuentre en estado de ebriedad o bajo el influjo de drogas, enervantes y otras análogas que produzcan efectos similares y que les hagan perder el control de su persona.
 
 (ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2019) (F. DE E., G.G. 6 DE SEPTIEMBRE DE 2019)
 
@@ -7288,3 +7302,11 @@ G.G. 29 DE ABRIL DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 267.- POR EL QUE SE REFORMA EL ARTÍCULO 211 QUATER Y SE ADICIONAN UN SEXTO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 204, RECORRIÉNDOSE LOS SUBSECUENTES, Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 211 TER, RECORRIÉNDOSE LOS SUBSECUENTES, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
