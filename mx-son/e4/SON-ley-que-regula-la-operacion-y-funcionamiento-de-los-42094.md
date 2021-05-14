@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2020-12-24"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -82,6 +82,10 @@ VIII.- Cerveza: aquélla bebida fermentada, elaborada con granos de cebada u otr
 > <small>(ADICIONADA, B.O. 13 DE JUNIO DE 2019)</small>
 
 VIII BIS.- Cerveza artesanal: Bebida fermentada elaborada principalmente con malta de cebada, lúpulo, levadura y agua potable, no utilizando productos transgénicos ni aditivos químicos que alteren su composición y desarrollo natural en su proceso de fermentación, cuyo contenido de alcohol a la temperatura de quince grados centígrados, sea mayor a dos por ciento por volumen, pero que no exceda de doce por ciento por volumen.
+
+> <small>(ADICIONADA, B.O. 14 DE MAYO DE 2021)</small>
+
+VIII BIS 1.- Vino regional: Bebidas con contenido alcohólico elaboradas a base de productos de uva y sus derivados dentro del territorio sonorense; y
 
 IX.- Productos no potables: aquéllas bebidas cuyo contenido alcohólico sea mayor de 55 grados Gay Lussac, los cuales no se autorizarán para su venta o suministro al público, para su ingestión directa.
 
@@ -173,6 +177,18 @@ III BIS.- Boutique de Cerveza Artesanal.- Establecimiento mercantil especializad
 
 Este tipo de establecimientos podrá complementar la venta de bebidas de contenido alcohólico con la venta de productos alimenticios tales como lácteos, embutidos y marinos enlatados pudiendo también contar con un área anexa, acondicionada con sillas y mesas, donde se podrá brindar atención y servicio a los clientes para que degusten las bebidas con contenido alcohólico, acompañadas con el consumo de productos alimenticios en su estado de presentación, adquiridos en el propio establecimiento.
 
+> <small>(ADICIONADA, B.O. 14 DE MAYO DE 2021)</small>
+
+III BIS 1.- Boutique de vino regional.- Establecimiento mercantil especializado en la venta de vino regional, hecho en Sonora, en envase cerrado, y mercancías relacionadas con su consumo externo.
+
+Este tipo de establecimientos podrá complementar la venta de bebidas con contenido alcohólico con la venta de productos alimenticios tales como lácteos, embutidos y marinos enlatados pudiendo también contar con un área anexa, acondicionada con sillas y mesas, donde se podrá brindar atención y servicio a los clientes para que degusten las bebidas con contenido alcohólico, acompañadas con el consumo de productos alimenticios en su estado de presentación, adquiridos en el propio establecimiento.
+
+> <small>(ADICIONADA, B.O. 14 DE MAYO DE 2021)</small>
+
+III BIS 2.- Boutique de vino.- Establecimiento mercantil especializado en la venta de vino, en envase cerrado, y mercancías relacionadas con su consumo externo.
+
+Este tipo de establecimientos podrá complementar la venta de vino con la venta de productos alimenticios tales como lácteos, embutidos y marinos enlatados pudiendo también contar con un área anexa, acondicionada con sillas y mesas, donde se podrá brindar atención y servicio a los clientes para que degusten las bebidas con contenido alcohólico, acompañadas con el consumo de productos alimenticios en su estado de presentación, adquiridos en el propio establecimiento.
+
 > <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 IV.- Cantina.- Establecimiento donde pueden expenderse bebidas con contenido alcohólico en envase abierto y para el consumo inmediato en el interior del mismo, contará con barra y contra-barra, funcional y salubre.
@@ -183,7 +199,7 @@ Los establecimientos a que se refiere esta fracción, no podrán contar con pist
 
 (ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013) (F. DE E., B.O. 27 DE JUNIO DE 2019)
 
-IV Bis.- Billar o Boliche.- Establecimientos destinados a operar instalaciones para practicar juegos de boliche y billar, de manera conjunta o separada, como actividades principales, donde además podrán expenderse bebidas con contenido alcohólico en envase abierto y para el consumo inmediato en el interior del mismo.
+IV BIS.- Billar o Boliche.- Establecimientos destinados a operar instalaciones para practicar juegos de boliche y billar, de manera conjunta o separada, como actividades principales, donde además podrán expenderse bebidas con contenido alcohólico en envase abierto y para el consumo inmediato en el interior del mismo.
 
 Podrá contar con mesas y sillas, juegos de mesa y otros servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental, así como con aparatos reproductores de música y video, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables.
 
@@ -198,6 +214,22 @@ Los establecimientos a que se refiere esta fracción, no podrán contar con pist
 IV BIS 1.- Sala de degustación para la venta exclusiva de cerveza artesanal.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal hecha en México con o sin alimentos.
 
 Podrá contar con mesas y sillas, y otros servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental, así como con aparatos reproductores de música y video, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables. Los establecimientos a que se refiere esta fracción, no podrán contar con pista de baile.
+
+> <small>(ADICIONADA, B.O. 14 DE MAYO DE 2021)</small>
+
+IV BIS 2.- Sala de degustación para la venta exclusiva de vino regional.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de vino regional hecho en Sonora con o sin alimentos.
+
+Podrá contar con mesas y sillas, y otros servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental, así como con aparatos reproductores de música y video, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables.
+
+Los establecimientos a que se refiere esta fracción, no podrán contar con pista de baile.
+
+> <small>(ADICIONADA, B.O. 14 DE MAYO DE 2021)</small>
+
+IV BIS 3.- Sala de degustación para la venta exclusiva de vino.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de vino con o sin alimentos.
+
+Podrá contar con mesas y sillas, y otros servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental, así como con aparatos reproductores de música y video, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables.
+
+Los establecimientos a que se refiere esta fracción, no podrán contar con pista de baile.
 
 > <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -658,6 +690,12 @@ Recibida la solicitud, el Ayuntamiento la analizará y otorgará la anuencia, si
 ###### Artículo 39.
 
 El Ayuntamiento negará la anuencia mediante acuerdo fundado y motivado, cuando el uso del suelo, para las actividades que se pretenden efectuar, se encuentre prohibido en los programas de desarrollo urbano de centros de población; cuando con base en los estudios de impacto social señalados en la fracción IV del artículo 13 de esta Ley se desprenda que el otorgamiento de la anuncia (sic) pudiera alterar el orden y la seguridad pública, o afectar la armonía de la comunidad; o cuando exista impedimento legal para la realización de las actividades reguladas por la presente Ley, esta situación se hará del conocimiento inmediatamente del interesado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 14 DE MAYO DE 2021)</small>
+
+###### Artículo 39 Bis.
+
+Se exentará del pago de derechos por anuencia municipal para la expedición de las licencias que se expidan para los giros denominados "tienda de autoservicio de productos típicos regionales", "boutique de vino regional" y "sala de degustación para la venta exclusiva de vino regional" a los que hace referencia el artículo 10, fracciones III BIS 1, IV BIS 2 y VI BIS de la presente Ley, no obstante deberán cumplir con los requisitos establecidos en otras leyes para el funcionamiento de las mismas.
 
 #### SECCIÓN II. DE LAS LICENCIAS
 
@@ -1774,3 +1812,15 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Hacienda, a más tardar el día 20 de febrero de 2021 y previa consulta con las Comisiones de Hacienda del Congreso del Estado, deberá emitir las reglas de carácter general para la distribución de los recursos que se recuden con motivo de la contribución para el fortalecimiento y sostenimiento de los cuerpos de bomberos contenida en los artículos 292 BIS-6, 292 BIS-7 y 292 Bis-8 de la Ley de Hacienda del Estado.
+
+B.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 197, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA Y DE LA LEY DE HACIENDA DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Hacienda y los Ayuntamientos deberán realizar los ajustes correspondientes en sus estimaciones recaudatorias dentro de la Ley de Ingresos para el ejercicio fiscal aplicable.
