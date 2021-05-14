@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-voluntad-anticipada-del-estado-de-mexico-94087"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-03"
-last_updated: "2013-05-03"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE VOLUNTAD ANTICIPADA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 3 de mayo de 2013.
 
@@ -51,35 +51,77 @@ Esta Ley es de orden público, interés social y de aplicación obligatoria en e
 
 La presente Ley tiene por objeto:
 
-I. Regular el derecho de una persona a planificar los tratamientos y cuidados de salud que desea recibir o rechazar en el momento en que no sea capaz, por sí misma, de tomar decisiones;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
 
-II. Salvaguardar el derecho a que nadie atente contra la integridad física, psicológica o moral, o someta a condiciones indignas a una/un enferma/o en situación terminal;
+I. Garantizar, proteger, regular y respetar el derecho de las personas a decidir y planificar de forma anticipada, informada, libre, y en previsión de una futura incapacidad que le impida tomar decisiones por sí mismas derivados de una enfermedad o accidente, los tratamientos o procedimientos médicos que desea recibir o rechazar, cuando se encuentre en fase terminal;
 
-III. Reconocer, promover y hacer efectivos los derechos de las/los pacientes en situación terminal y los de sus familiares;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
 
-IV. Promover el respeto a la autonomía y a la dignidad de las/los pacientes en situación terminal;
+II. Garantizar el derecho de acceso de las personas con enfermedad terminal a la atención médica de cuidados paliativos, a través de personal especializado, tecnología e insumos para satisfacer la demanda;
 
-V. Brindar asistencia tanatológica a las/los pacientes en situación terminal y a sus familiares;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
 
-VI. Señalar los derechos y obligaciones de las/los médicas/os y del personal de salud;
+III. Reconocer, respetar, promover y garantizar los derechos de las y los pacientes en fase terminal, así como, los derechos de sus familiares, previstos en la presente Ley;
 
-VII. Determinar las facultades y obligaciones de las instituciones de salud.
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+IV. Promover y garantizar el respeto a la autonomía y a la dignidad de las y los pacientes en fase terminal;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+V. Brindar asistencia tanatológica a las y los pacientes en fase terminal, así como a sus familiares;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+VI. Señalar las obligaciones de las y los médicos y del personal de salud para el otorgamiento de cuidados paliativos, así como para llevar a cabo la voluntad anticipada de los pacientes en fase terminal, en los términos de la presente Ley, y
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+VII. Determinar las facultades y obligaciones de las instituciones de salud para la prestación de cuidados paliativos, así como para llevar a cabo la voluntad anticipada de los pacientes en fase terminal, en los términos de la presente Ley.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2021)</small>
+
+###### Artículo 2 Bis.
+
+Son principios rectores en la aplicación de esta Ley:
+
+I. Autodeterminación;
+
+II. Autonomía;
+
+III. Derechos humanos;
+
+IV. El derecho de la persona enferma terminal a recibir cuidados paliativos integrales y un adecuado tratamiento del dolor en la fase final;
+
+V. La dignidad e integridad de la persona;
+
+VI. La garantía de que el sometimiento a cuidados paliativos, no supone menoscabo alguno a una atención integral y digna;
+
+VII. La preservación de la intimidad y confidencialidad de la persona enferma, y
+
+VIII. No discriminación y el acceso pleno a los servicios de salud del enfermo.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2021)</small>
 
 ###### Artículo 3.
 
-La Secretaría de Salud y el Instituto de Salud del Estado de México, en el ámbito de sus respectivas competencias, son las autoridades responsables de verificar el cumplimiento de lo dispuesto en la presente Ley.
+La Secretaria de Salud, a través de la Coordinación de Voluntades Anticipadas, en el ámbito de sus respectivas competencias, son las autoridades responsables de verificar el cumplimiento de lo dispuesto en la presente Ley.
 
 ###### Artículo 4.
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Escritura de voluntad anticipada: Al instrumento original que la/el notaria/o asienta en el protocolo para hacer constar la declaración de voluntad anticipada, autorizada con su firma y sello;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+I. Escritura de voluntad anticipada: Documento público otorgado ante notaria o notario público en el que una persona con capacidad de ejercicio y en pleno uso de sus facultades mentales, manifiesta su decisión libre, consciente e informada, de ser sometida, o no, a medios, tratamientos o procedimientos médicos o cuidados paliativos en caso de llegar a encontrase en fase terminal;
 
 II. Acta de voluntad anticipada: Al documento en el que se asienta la declaración de voluntad anticipada ante el personal de salud autorizado y ante dos testigos, en los términos del formato que para los efectos legales y conducentes emita la Secretaría;
 
 III. Asistencia tanatológica: A la atención profesional e integral proporcionada por un equipo interdisciplinario, tanto a la/el paciente en situación terminal, como a sus familiares, a fin de comprender la situación médica y las consecuencias de aplicar o no los cuidados paliativos, así como para enfrentar la muerte y el duelo;
 
-IV. Autonomía: A la facultad de adoptar decisiones, asumiendo la responsabilidad de éstas. En los casos en que las personas carezcan de capacidad para ejercerla, la presente Ley establece las medidas para hacer efectivos sus derechos;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+IV. Autonomía: Facultad de las personas de decidir y planificar de forma anticipada, informada y libre, la atención médica, los cuidados paliativos, tratamientos o procedimientos médicos que desea recibir o rechazar, cuando se encuentre en fase terminal, misma que debe respetarse en toda intervención médica;
 
 V. Código Civil: Al Código Civil del Estado de México;
 
@@ -93,53 +135,87 @@ IX. Consentimiento informado: Al acto a través del cual una persona, con capaci
 
 X. Coordinación: A la Coordinación de Voluntades Anticipadas del Estado de México;
 
-XI. Cuidados paliativos: Al cuidado activo y total de aquellas enfermedades que no responden a tratamiento curativo, al control del dolor y de otros síntomas, así como la atención de aspectos psicológicos, sociales y espirituales de la/el paciente;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XI. Cuidados paliativos: Al cuidado activo y total de aquellas enfermedades que no responden a tratamiento curativo, al control del dolor y de otros síntomas, así como la atención de aspectos psicológicos, sociales y espirituales de la o el paciente;
 
 XII. Declaración de voluntad anticipada: A la expresión del consentimiento plenamente informado, anticipado y voluntario, que toda persona capaz, mayor de edad y en pleno uso de sus facultades mentales, asienta en los términos de esta Ley, en un acta o en una escritura;
 
-XIII. Diagnóstico: Al acto médico que consiste en identificar la dolencia padecida por la persona enferma, tras la evaluación de los signos y síntomas observados en la misma;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
 
-XIV. Enfermedad en estado terminal: Al padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para la/el paciente sea menor a seis meses;
+XIII. Diagnóstico: Determinación médica sobre la naturaleza de la enfermedad de un paciente, basada en la valoración de sus signos, síntomas, estudios clínicos y demás datos sobre el probable curso, duración y posibles secuelas de la enfermedad;
 
-XV. Familiares: A la/el cónyuge, concubina o concubinario, descendientes consanguíneos o civiles hasta el cuarto grado, ascendientes consanguíneos o civiles hasta el cuarto grado, dependientes económicos y parientes colaterales hasta el cuarto grado;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
 
-XVI. Formato: Al Formato emitido por la Secretaría de Salud que contiene la Declaración de Voluntad Anticipada;
+XIV. Enfermedad en estado terminal: Todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para la o el paciente sea menor a seis meses;
 
-XVII. Instituciones de salud: A los hospitales, clínicas, centros de salud y todo establecimiento del sector público, social o privado, que preste servicios médicos y atención hospitalaria;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XV. Familiares: A la o el cónyuge, concubina o concubinario, descendientes consanguíneos o civiles hasta el cuarto grado, ascendientes consanguíneos o civiles hasta el cuarto grado, dependientes económicos y parientes colaterales hasta el cuarto grado;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XVI. Formato: Al Formato emitido y autorizado por la Secretaría de Salud para que la o el paciente con enfermedad terminal manifieste su Voluntad Anticipada;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XVII. Instituciones de salud: A los hospitales, clínicas y todo establecimiento del sector público, privado y social que preste servicios médicos y atención hospitalaria y que forme parte del sistema de salud;
 
 XVIII. Ley: A la Ley de Voluntad Anticipada del Estado de México;
 
-XIX. Médica/o tratante: A la persona autorizada para ejercer la medicina que tiene a su cargo coordinar la información, la atención y, en su caso, el seguimiento del plan de cuidados paliativos de una/un paciente en situación terminal;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
 
-XX. Medios extraordinarios: A los que constituyen un desgaste mayor para la/el paciente en situación terminal y cuyos efectos parecen ser más dolorosos o perjudiciales que los beneficios, en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comportan, los gastos necesarios y las posibilidades de aplicación, respecto del resultado que se puede esperar de todo ello;
+XIX. Médica o médico tratante: La persona autorizada por la autoridad competente y que cuenta con cédula profesional para ejercer la medicina, responsable de indicar o prescribir un tratamiento de cuidados paliativos, el cual deberá ser explicado en forma comprensible al paciente en fase terminal, así como a la familia o representantes del mismo;
 
-XXI. Medios ordinarios: A los que son útiles para conservar la vida de la/el paciente en situación terminal que no constituyen para ella/él una carga grave o desproporcionada, en relación a los beneficios que se pueden obtener;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
 
-XXII. Muerte digna: Al proceso de fallecimiento de una/un paciente en situación terminal, contando con asistencia física, psicológica y en su caso, espiritual;
+XX. Medios extraordinarios: Los que constituyen una carga demasiado grave para el paciente en fase terminal y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo, así como los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XXI. Medios ordinarios: Los que son útiles para conservar la vida de la o el paciente en fase terminal y que no constituyen para él una carga grave o desproporcionada a los beneficios que se pueden obtener;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XXII. Muerte digna: Al derecho del paciente en fase terminal de recibir los cuidados paliativos que mejoren el proceso de su muerte, con el objeto de no prolongar su agonía y fallecer sin dolor ni intervención médica intrusiva, contando con asistencia física, psicológica y en su caso, espiritual;
 
 XXIII. Notario: A la/el notario/a público del Estado de México;
 
-XXIV. Obstinación terapéutica: A la adopción de medidas desproporcionadas o inútiles con el objeto de alargar la vida;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
 
-XXV. Paciente: A la/el paciente en situación terminal; es decir, a la/el que tiene diagnosticada una enfermedad incurable e irreversible, cuyo pronóstico de vida sea inferior a seis meses;
+XXIV. Obstinación terapéutica: Toda medida desproporcionada o inútil con el objeto de alargar la vida de un paciente con una enfermedad terminal;
 
-XXVI. Personal autorizado: A las/los profesionales de las instituciones de salud públicas, sociales y privadas, preferentemente especialistas en salud mental, habilitadas/os y capacitadas/os por la Secretaría, para que conforme a esta Ley asistan a las personas en la formulación de las actas de voluntad anticipada en el Estado de México;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XXV. Paciente: A la o el paciente en fase terminal producto de una enfermedad o de un accidente; es decir, a aquél que tiene diagnosticada una enfermedad incurable e irreversible, cuyo pronóstico de vida sea inferior a seis meses o cuyas secuelas de un accidente conlleven de forme (sic) inminente a la muerte del paciente;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XXVI. Personal autorizado: A las y los profesionales de las instituciones de salud públicas, sociales y privadas, preferentemente especialistas en salud mental, habilitadas o habilitados y capacitadas o capacitados por la Secretaría, para que conforme a esta Ley asistan a las personas en la formulación de las actas de voluntad anticipada en el Estado de México;
 
 XXVII. Personal de salud: A las/los profesionales, especialistas, técnicas/os, auxiliares y demás trabajadoras/es que laboran en la prestación de los servicios de salud;
 
 XXVIII. Procedimientos: A las formas de llevar a cabo los actos o intervenciones médicas;
 
-XXIX. Pronóstico: Al juicio de la/el médica/o tratante respecto a los cambios que pueden sobrevenir en el transcurso de una enfermedad y sobre la duración y término de la misma;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
 
-XXX. Representantes: A las personas con capacidad de ejercicio que deben verificar el cumplimiento de una declaración de voluntad anticipada;
+XXIX. Pronóstico: Al juicio de la o el médico tratante respecto a los cambios que pueden sobrevenir en el transcurso de una enfermedad y sobre la duración y término de la misma;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XXX. Representante: La o las personas con capacidad de ejercicio que deben verificar el cumplimiento de una declaración de voluntad anticipada;
 
 XXXI. Secretaría: A la Secretaría de Salud del Estado de México;
 
 XXXII. Sistema digitalizado: Al medio tecnológico que será empleado para la gestión informática de las declaraciones de voluntad anticipada del Estado de México, al que tendrán acceso las instituciones de salud, con el objeto de garantizar el cumplimiento oportuno de la presente Ley;
 
-XXXIII. Terapéutica: A la parte de la medicina que se encarga del tratamiento de las enfermedades con el fin de curarlas o aliviarlas;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
 
-XXXIV. Tratamientos: Al conjunto de medios, cuidados y atenciones puestos a disposición de una persona, con el fin de curar, aliviar o prevenir una enfermedad;
+XXXIII. Terapéutica: Se refiere al tratamiento de enfermedades físicas y mentales, el alivio de los síntomas de las enfermedades y la modificación o regulación beneficiosa del estado físico y mental del organismo;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XXXIV. Tratamiento: Conjunto de medios que se utilizan para aliviar o curar una enfermedad, y
 
 XXXV. Voluntad anticipada: Al acto a través del cual una persona física, encontrándose en una situación de enfermedad terminal o previendo esta situación, expresa su voluntad en una declaración unilateral, de manera anticipada, sobre lo que desea para sí en relación con el o los tratamientos y cuidados de salud respectivos, ya sea en un acta o en una escritura de voluntad anticipada, en los términos que la presente Ley establece.
 
@@ -385,9 +461,11 @@ III. La aceptación o rechazo para que, después de perder la vida, se donen tot
 
 ### Capítulo VI. De los representantes
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2021)</small>
+
 ###### Artículo 25.
 
-La persona o la/el paciente que formule su declaración de voluntad anticipada podrá establecer en ésta, la designación de uno y hasta cinco representantes; los cuales deben aceptar dicho cargo en el mismo acto para que, en el orden de prelación que se indique, verifiquen el cumplimiento de su voluntad.
+La persona que formule su declaración de voluntad anticipada deberá designar de uno hasta tres representantes, los cuales deben aceptar dicho cargo en el mismo acto para que, en el orden de prelación que se indique, verifiquen el cumplimiento de la voluntad.
 
 ###### Artículo 26.
 
@@ -531,13 +609,19 @@ La Coordinación es el órgano administrativo adscrito a la Secretaría que tien
 
 I. Recibir, registrar, digitalizar, archivar y resguardar las declaraciones de voluntad anticipada, así como sus modificaciones o revocaciones;
 
-II. Operar, mantener, evaluar, mejorar y actualizar el sistema digitalizado;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
 
-III. Distribuir los formatos que faciliten el trámite para realizar las declaraciones de voluntad anticipada;
+II. Operar, mantener, mejorar, evaluar y actualizar el sistema digitalizado;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+III. Difundir y distribuir los formatos que faciliten el trámite para realizar las declaraciones de voluntad anticipada;
 
 IV. Garantizar a las instituciones de salud el acceso al sistema digitalizado y, en su caso, al contenido de las declaraciones de voluntad anticipada, en los términos de esta Ley y demás disposiciones aplicables;
 
-V. Proporcionar orientación y asesoría a las personas que lo soliciten;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+V. Proporcionar información respecto a la voluntad anticipada encaminada al bienestar social, mediante la capacitación a instituciones públicas, privadas, sociales y civiles, así como a las personas que lo soliciten directamente;
 
 VI. Expedir copias certificadas de las declaraciones de voluntad anticipada, en términos de esta Ley y demás disposiciones correspondientes;
 
@@ -549,7 +633,9 @@ IX. Hacer del conocimiento de las autoridades competentes las irregularidades qu
 
 X. Coordinarse con la Comisión para promover y difundir los beneficios establecidos en esta Ley;
 
-XI. Elaborar y ejecutar programas de investigación, estudio, capacitación, enseñanza, promoción y difusión de los derechos que tienen las/los pacientes;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XI. Elaborar y ejecutar programas de investigación, estudio, capacitación, enseñanza, promoción y difusión de los derechos que tienen las y los pacientes;
 
 XII. Proponer al Secretario de Salud los proyectos de leyes, reglamentos, decretos, acuerdos, convenios y contratos, sobre los asuntos de su competencia;
 
@@ -620,3 +706,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFREN ROJAS DAVILA
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 271.- POR EL QUE SE REFORMAN LAS FRACCIONES I, II, III, IV, V, VI Y VII, DEL ARTÍCULO 2, EL ARTÍCULO 3, LAS FRACCIONES I, IV, XI, XIII, XIV, XV, XVI, XVII, XIX, XX, XXI, XXII, XXIV, XXV, XXVI, XXIX, XXX, XXXIII Y XXXIV DEL ARTÍCULO 4, EL ARTÍCULO 25, Y LAS FRACCIONES II, III, V Y XI DEL ARTÍCULO 45, Y SE ADICIONA EL ARTÍCULO 2 BIS A LA LEY DE VOLUNTAD ANTICIPADA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
