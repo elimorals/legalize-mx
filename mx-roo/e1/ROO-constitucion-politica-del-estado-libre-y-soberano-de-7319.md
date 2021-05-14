@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2020-07-14"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -329,7 +329,13 @@ Los sujetos obligados deberán contar con sistemas electrónicos para que cualqu
 
 VI.- La ley determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
-VII.- La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2021)</small>
+
+VII.- La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes, y
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2021)</small>
+
+VIII.- Los sujetos obligados deberán regirse bajo los lineamientos de Estado Abierto, en donde se garantizará la transparencia, la rendición de cuentas, la participación ciudadana y la colaboración e innovación.
 
 Toda autoridad y servidor público estará obligado a coadyuvar con el órgano garante y sus integrantes para el buen desempeño de sus funciones.
 
@@ -819,11 +825,11 @@ La ciudad de Chetumal es la capital del Estado y la residencia oficial de los Po
 
 ### CAPITULO I. Principios
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2021)</small>
 
 ###### ARTICULO 49.
 
-El Supremo Poder del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial.
+El Supremo Poder del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial, quienes en el desempeño de sus actividades consolidarán el Estado Abierto. El Estado Abierto se conforma por Parlamento Abierto, Gobierno Abierto y Justicia Abierta, mismo que deberá regirse bajo los principios de transparencia, el acceso a la información, la rendición de cuentas, la participación ciudadana y la colaboración e innovación.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -1022,6 +1028,10 @@ ARTICULO 51 BIS.- Esta constitución reconoce que los órganos públicos autóno
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2020)</small>
 
 Cada uno de los nombramientos de las personas titulares o de los integrantes de los órganos colegiados de los órganos públicos autónomos se realizarán en apego al principio de paridad de género. En la estructura orgánica de estos órganos se promoverá este principio.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2021)</small>
+
+Los órganos públicos autónomos deberán regirse bajo los lineamientos de Estado Abierto, en donde se garantizará la transparencia, la rendición de cuentas, la participación ciudadana y la colaboración e innovación.
 
 ### CAPITULO II. Del Poder Legislativo
 
@@ -3463,6 +3473,10 @@ Los Ayuntamientos se instalarán el día 30 de septiembre del año que correspon
 
 Al término de la sesión de instalación, el Ayuntamiento procederá en sesión ordinaria a nombrar por mayoría de votos de sus integrantes a quienes ejerzan la titularidad de la Secretaría General, de la Tesorería, del Órgano Interno de Control, de la Dirección de Seguridad Pública Municipal y de las Direcciones de Ingresos y Egresos de la Tesorería Municipal. Dichos nombramientos, se realizará (sic) en apego al principio de paridad de género.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2021)</small>
+
+Los Ayuntamientos deberán regirse bajo los lineamientos de Estado Abierto, en donde se garantizará la transparencia, el acceso a la información, la rendición de cuentas, la participación ciudadana y la colaboración e innovación.
+
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 134.
@@ -5492,3 +5506,15 @@ SEGUNDO. La observancia del principio de paridad será progresiva y aplicable a 
 TERCERO. En un plazo no mayor a noventa días naturales siguientes a la entrada en vigor del presente Decreto, los Poderes, los Ayuntamientos, los Órganos Públicos Autónomos, y demás entes públicos deberán realizar las adecuaciones que correspondan a sus reglamentos o normatividad interna.
 
 CUARTO. Se derogan aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 108 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA DE CONSOLIDACIÓN DEL ESTADO ABIERTO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. La Legislatura del Estado deberá realizar en un plazo máximo de 180 días naturales, contados a partir de la publicación del presente Decreto, las armonizaciones a las legislaciones secundarias correspondientes.
+
+CUARTO. Los Poderes del Estado, los organismos autónomos, los Ayuntamientos del Estado y los demás sujetos obligados deberán realizar las adecuaciones correspondientes a sus disposiciones reglamentarias en los términos del presente Decreto.
