@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-110376"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-23"
-last_updated: "2019-11-22"
+last_updated: "2021-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 08
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 23 de octubre de 2015.
 
@@ -185,7 +185,9 @@ II. Secretaría de Planeación y Desarrollo Regional;
 
 III. Secretaría de Finanzas y Administración;
 
-IV. Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2021)</small>
+
+IV. Secretaría de Desarrollo y Bienestar Social;
 
 V. Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial;
 
@@ -557,9 +559,11 @@ LII.- Ejercer la facultad económico coactiva conforme a las leyes relativas, po
 
 LIII.- Los demás que le atribuyen expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 23.
 
-La Secretaría de Desarrollo Social, es el órgano encargado de la política general de desarrollo social en la Entidad, y le corresponde el despacho de los asuntos siguientes:
+La Secretaría de Desarrollo y Bienestar Social, es el órgano encargado de la política general de desarrollo y bienestar social en la Entidad, y le corresponde el despacho de los asuntos siguientes:
 
 I.- Planificar, diseñar y evaluar en coordinación con el Consejo de Políticas Públicas la política social de la entidad;
 
@@ -1932,3 +1936,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su difusión y conocimiento general.
+
+P.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 708 POR EL QUE SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 195 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO, NÚMERO 231 Y DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO, NÚMERO 08”.]
+
+PRIMERO.- La reforma a la Ley Orgánica del Poder Legislativo del Estado de Guerrero, Número 231, contenida en este Decreto, entrará en vigor a partir de su aprobación por el Congreso del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. La reforma a la Ley Orgánica de la Administración Pública del Estado de Guerrero, Número 08, contenida en este Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento y efectos conducentes.
