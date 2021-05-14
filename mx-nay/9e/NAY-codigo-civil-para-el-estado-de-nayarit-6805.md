@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2019-12-13"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -503,11 +503,11 @@ Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera d
 
 En las actas del Registro Civil por ningún concepto se asentarán palabras o expresiones que califiquen infamantemente a las personas. El acta que contenga alguna nota de tal naturaleza será testada por el Funcionario que tenga a su cargo el archivo correspondiente.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2021)</small>
 
 ###### Artículo 58.
 
-El acta de nacimiento contendrá la hora, día, mes, año, y lugar de nacimiento, sexo del registrado, el nombre propio que se le imponga y el primer apellido de los progenitores, si ambos se presentaren a reconocer, o, los dos apellidos del que lo presentare, sin que por motivo alguno puedan omitirse; la expresión de que si es registrado vivo o muerto, impresión de la huella digital, el nombre, edad, domicilio, ocupación y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos, que deberán ser dos; y si se cumplieron las prevenciones contenidas en los artículos siguientes.
+El acta de nacimiento contendrá la hora, día, mes, año, y lugar de nacimiento, sexo del registrado, el nombre propio que se le imponga y los apellidos de los progenitores, de acuerdo al orden de prelación que libremente convengan. En caso de desacuerdo, o imposibilidad de los progenitores, el Oficial del Registro Civil acordará el orden de los apellidos atendiendo al interés superior de los menores. El orden de los apellidos establecido para la primera inscripción de nacimiento determinará el orden para la inscripción de los posteriores nacimientos del mismo vínculo. O los dos apellidos del que lo presentare, sin que por motivo alguno puedan omitirse; la expresión de que si es registrado vivo o muerto, impresión de la huella digital, el nombre, edad, domicilio, ocupación y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos, que deberán ser dos; y si se cumplieron las prevenciones contenidas en los artículos siguientes.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -631,11 +631,11 @@ Si el padre o la madre de un hijo natural o ambos, lo presentaren para que se re
 
 Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2021)</small>
 
 ###### Artículo 79.
 
-El acta de reconocimiento de hijos contendrá: Nombre propio, apellidos, sexo, fecha y lugar de nacimiento, edad, domicilio y huella digital del reconocido; nombre, edad, domicilio y nacionalidad del reconocedor; nombre, nacionalidad y domicilio de los abuelos, padres del reconocedor; nombre, edad estado civil, domicilio, nacionalidad y parentesco con el reconocido de la persona o personas que otorgan el consentimiento, en su caso; y nombre, edad, domicilio y nacionalidad de los testigos.
+El acta de reconocimiento de hijos contendrá: Nombre propio, apellidos, de acuerdo al orden de prelación que libremente convengan los reconocedores con el consentimiento del reconocido, conforme a su edad, desarrollo evolutivo, cognitivo y madurez, el sexo, fecha y lugar de nacimiento, edad, domicilio y huella digital del reconocido; nombre, edad, domicilio y nacionalidad del reconocedor; nombre, nacionalidad y domicilio de los abuelos, padres del reconocedor; nombre, edad, estado civil, domicilio, nacionalidad y parentesco con el reconocido de la persona o personas que otorgan el consentimiento, en su caso; y nombre, edad, domicilio y nacionalidad de los testigos.
 
 ###### Artículo 80.
 
@@ -2681,7 +2681,9 @@ Si los padres hubieren fallecido durante la menor edad de los hijos, tienen ést
 
 El hijo reconocido por el padre, por la madre o por ambos tiene derecho:
 
-I.- A llevar el apellido paterno de sus progenitores, o ambos apellidos del que lo reconozca;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2021)</small>
+
+I.- A llevar el apellido de sus progenitores, o ambos apellidos del que lo reconozca;
 
 II.- A ser alimentado por las personas que lo reconozcan;
 
@@ -16476,3 +16478,13 @@ P.O. 13 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 304 DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT”.]
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Nayarit.
+
+SEGUNDO.- Comuníquese el presente Decreto a las Direcciones de Registro Civil del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
