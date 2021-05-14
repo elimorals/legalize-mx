@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-mediacion-conciliacion-y-promocion-de-la-paz-social-7781
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-22"
-last_updated: "2018-01-10"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE MEDIACION, CONCILIACION Y PROMOCION DE LA PAZ SOCIAL PARA EL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE MEDIACIÓN, CONCILIACIÓN Y PROMOCIÓN DE LA PAZ SOCIAL PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2021.
 
 Ley publicada en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 22 de diciembre de 2010.
 
@@ -118,6 +120,22 @@ XIII. Acuerdo reparatorio: Al pacto entre la víctima u ofendido y el imputado, 
 > <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
 
 XIV. Mediación Escolar: Al proceso en el que los maestros, padres de familia o tutores y/o alumnos de cada institución educativa intervienen como mediadores con objeto de prevenir o solucionar un conflicto.
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XV. Proceso de Justicia Alterna: A la Mediación, Conciliación, y Justicia Restaurativa;
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XVI. Facilitador Familiar: Al profesional experto en Justicia Alternativa Familiar;
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XVII. Grupo Multidisciplinario: A los especialistas en Psicología y Trabajo Social que de manera conjunta con el facilitador contribuyen en la solución del conflicto, y
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2021)</small>
+
+XVIII. Constancia de Asistencia a Junta Informativa: Al documento con el que acrediten las personas en conflicto haber acudido al Centro Estatal de Mediación, Conciliación y Justicia Restaurativa del Poder Judicial del Estado de México, y llevaron a cabo la primera fase del proceso de Justicia Alterna.
 
 ### CAPÍTULO II. Del Centro Estatal, de los Centros Públicos y de las Unidades de Mediación, Conciliación y de Justicia Restaurativa
 
@@ -287,6 +305,10 @@ VIII. La oralidad. Consistente en que los procesos de mediación, de conciliaci�
 
 IX. El consentimiento informado. El que se refiere a la completa comprensión de las partes sobre los principios, naturaleza, fines y compromisos de la mediación, de la conciliación y de la justicia restaurativa.
 
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2021)</small>
+
+X. Flexibilidad: El procedimiento de conciliación y mediación no se rige de forma estricta; por tanto, el conciliador, mediador o facilitador podrá gestionar el conflicto con libertad, siempre que no vulneren las normas de orden público y el interés social.
+
 ###### Artículo 21.
 
 En el sistema de justicia para adolescentes, de conformidad con lo establecido por la ley de la materia, podrá hacerse uso de la justicia restaurativa en todas las conductas antisociales; sin embargo, para que los adolescentes tengan acceso a criterios de oportunidad, a las formas anticipadas de terminación del proceso o a los beneficios en ejecución de medidas, será requisito indispensable que participen voluntariamente con su representante legal, en el proceso restaurativo correspondiente.
@@ -342,6 +364,18 @@ El Centro Estatal y los Centros Públicos, atenderán gratuitamente los casos qu
 ###### Artículo 30.
 
 Los procedimientos de mediación, conciliación y de justicia restaurativa, se desarrollarán en sesiones orales, conjuntas o individuales y se substanciarán de acuerdo a los reglamentos y manuales operativos de observancia general.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2021)</small>
+
+###### Artículo 30 Bis.
+
+El procedimiento de Mediación, Conciliación o Restauración Familiar se compondrá de dos etapas:
+
+1.- Junta Informativa. En esta etapa acudirá el o los interesados con un mediador, conciliador o facilitador para efecto de que se le informen sobre el servicio de mediación y conciliación; los derechos que tienen las partes; explique brevemente su problemática y se les informará sobre la viabilidad de resolver su conflictiva en el procedimiento. Esta será obligatoria para aquellos procesos judiciales que así lo prevean.
+
+En caso de no aceptar continuar con el servicio de mediación, conciliación o justicia restaurativa, se expedirá al o a los solicitantes la Constancia de Asistencia a dicha junta.
+
+2.- Procedimiento de Mediación, Conciliación o Restauración Familiar. Al aceptar los interesados, se llevarán a cabo sesiones de manera grupal o individual de acuerdo a los manuales que para tal efecto emita el Centro de Mediación, Conciliación y Justicia Restaurativa.
 
 ###### Artículo 31.
 
@@ -474,3 +508,25 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 269.- POR EL QUE SE REFORMA EL ARTÍCULO 5.46 Y SE ADICIONA EL ARTÍCULO 5.44.1 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO, Y SE ADICIONAN LAS FRACCIONES XV, XVI, XVII Y XVIII AL ARTÍCULO 5, LA FRACCIÓN X AL ARTÍCULO 20 Y EL ARTÍCULO 30 BIS DE LA LEY DE MEDIACIÓN, CONCILIACIÓN Y PROMOCIÓN DE LA PAZ SOCIAL PARA EL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor en los siguientes plazos y Distritos Judiciales:
+
+I. El uno de junio de dos mil veintiuno, en los Distritos Judiciales de Ecatepec de Morelos y Toluca;
+
+II. El cuatro de octubre de dos mil veintiuno, en los Distritos Judiciales de Chalco, Otumba y Tenango del Valle;
+
+III. El diez de enero dos mil veintidós, en los Distritos Judiciales de Cuautitlán, Lerma y Nezahualcóyotl, y
+
+IV. El cuatro de abril de dos mil veintidós, en los Distritos Judiciales de El Oro, Ixtlahuaca, Jilotepec, Sultepec, Temascaltepec, Tenancingo, Texcoco, Tlalnepantla, Valle de Bravo y Zumpango.
+
+TERCERO.- Los asuntos en trámite en cualquier instancia, se concluirán conforme a las disposiciones procesales aplicadas en su radicación.
+
+CUARTO.- En los Distritos Judiciales, cuando aún no entre en vigor este decreto en términos del transitorio segundo, se aplicarán las disposiciones legales anteriores al mismo.
+
+QUINTO.- La Legislatura Local proveerá lo conducente para la asignación de recursos presupuestales al Poder Judicial del Estado, a efecto de que cuente con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto.
