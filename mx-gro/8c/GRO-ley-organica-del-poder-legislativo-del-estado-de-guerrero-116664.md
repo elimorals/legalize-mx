@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-11666
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-12"
-last_updated: "2021-04-23"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
 
@@ -2563,7 +2563,9 @@ XIII. De Desarrollo Urbano y Obras Públicas;
 
 XIV. De Transporte;
 
-XV. De Desarrollo Social;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2021)</small>
+
+XV. De desarrollo y Bienestar Social;
 
 XVI. De Salud;
 
@@ -4716,3 +4718,13 @@ SEGUNDO. El titular del Órgano Interno de Control del Congreso del Estado, ser�
 TERCERO. El Congreso del Estado, dentro de un plazo de 180 días siguientes a la entrada en vigor del presente Decreto, emitirá los lineamientos respectivos, que servirán para la implementación del Parlamento Abierto.
 
 CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento y efectos conducentes.
+
+P.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 708 POR EL QUE SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 195 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO, NÚMERO 231 Y DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO, NÚMERO 08”.]
+
+PRIMERO.- La reforma a la Ley Orgánica del Poder Legislativo del Estado de Guerrero, Número 231, contenida en este Decreto, entrará en vigor a partir de su aprobación por el Congreso del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO.- La reforma a la Ley Orgánica de la Administración Pública del Estado de Guerrero, Número 08, contenida en este Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento y efectos conducentes.
