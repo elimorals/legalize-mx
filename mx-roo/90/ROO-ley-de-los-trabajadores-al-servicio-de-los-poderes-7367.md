@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "2014-12-09"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -333,43 +335,33 @@ Los trabajadores no están obligados a prestar servicios en sus días de descans
 
 Las mujeres disfrutarán del pago de salario íntegro de cuatro semanas de descanso antes de la fecha aproximada del parto y ocho semanas después del mismo.
 
-En caso de parto prematuro, la mujer trabajadora acumulará al descanso posterior al parto todo el lapso de descanso que no efectivizó antes del mismo, de modo de completar las doce semanas.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2021)</small>
+
+En caso de parto prematuro o cuando así lo requiera por decisión propia la mujer trabajadora, previa autorización escrita del médico de la institución de seguridad social que corresponda, tomando en cuenta la opinión del patrón y la naturaleza del trabajo que desempeñe, tendrá derecho a que se acumule su licencia de maternidad posterior al parto, el lapso de licencia que no hizo efectivo antes del mismo, de modo de completar las doce semanas.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 Durante el período de lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución, dependencia o entidad y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2021)</small>
 
 ###### ARTICULO 35
 
-BIS.- Las mujeres trabajadoras gozarán de licencia de maternidad remunerada la cual se concederá de acuerdo a las siguientes reglas y modalidades:
+BIS. Las mujeres trabajadoras y los hombres trabajadores gozarán de una licencia remunerada de sesenta días en caso de:
 
-I.- Licencia de veinte días hábiles con el pago de salario íntegro en caso de que:
+a) Celebrarse la adopción de una niña, un niño o un adolescente;
 
-a) Se configure la adopción de un menor, surtiendo efectos a partir del depósito del menor, de conformidad con las disposiciones relativas del derecho común sustantivo y procesal.
+b) Cuando la hija o el hijo adoptado presente alguna discapacidad conforme a la Ley para el Desarrollo y la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo;
 
-II.- Licencia de veinte días hábiles con el pago de salario íntegro, la cual podrá prorrogarse, a elección de la trabajadora, por cinco días hábiles con la reducción del 50% del salario y por otros cinco días hábiles más con reducción del 75% del salario en caso de que:
+c) Tratándose del trabajador, por presentarse complicación grave de salud de la madre durante el embarazo, parto o puerperio, y
 
-a) El hijo adoptado presente alguna discapacidad conforme a la Ley de Protección y Desarrollo Integral para las Personas con Discapacidad del Estado; o
+d) Por fallecimiento de la persona cónyuge o concubina cuando la hija o el hijo sea menor de edad.
 
-b) Fallecimiento del esposo o concubino cuando el hijo sea menor de edad.
-
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2021)</small>
 
 ###### ARTICULO 35
 
-TER.- Los hombres trabajadores disfrutarán de licencia de paternidad remunerada la cual se concederá de acuerdo a las siguientes reglas y modalidades:
-
-I.- Licencia de diez días hábiles con el pago de salario íntegro, la cual podrá prorrogarse, a elección del trabajador, por cinco días hábiles con la reducción del 50% del salario y por otros cinco días hábiles más con reducción del 75% del salario, con motivo del nacimiento o adopción de un hijo.
-
-II.- Licencia de veinte días hábiles con el pago de salario íntegro en caso de que:
-
-a) El hijo nacido o adoptado presente alguna discapacidad conforme a la Ley de Protección y Desarrollo Integral para las Personas con Discapacidad del Estado;
-
-b) La esposa o concubina presente una complicación grave de salud durante el embarazo, el parto o postparto, que le dificulte o impida proporcionar los cuidados maternales necesarios al hijo recién nacido o éste presente al momento de nacer alguna afectación grave en su salud;
-
-c) Fallecimiento de la esposa o concubina por complicaciones durante el embarazo, el parto, postparto o cuando el hijo sea menor de edad. La licencia de paternidad remunerada se concederá sin perjuicio de la prevista para la mujer en el artículo anterior.
+TER.- Los hombres trabajadores disfrutarán de licencia de paternidad remunerada en el caso del nacimiento de una hija o un hijo, que consistirá en el descanso de sesenta días con goce de sueldo.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
 
@@ -1592,3 +1584,11 @@ P.O. 9 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas reformas, para que las instituciones, dependencias, entidades y, en general todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
+
+P.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 109, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 35 Y LOS ARTÍCULOS 35 BIS Y 35 TER, TODOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero del año 2022, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
