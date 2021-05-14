@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2021-03-16"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -3317,13 +3317,13 @@ En todos los casos previstos en los dos artículos precedentes, el Ministerio P�
 
 ### CAPITULO V. MALTRATO INFANTIL
 
-> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, B.O. 14 DE MAYO DE 2021)</small>
 
-###### ARTICULO 234-D.
+ARTÍCULO 234 D.- Comete el delito de maltrato infantil quien lleve a cabo omisiones o conductas que implique agresión corporal y humillante, psicológica, emocional, sexual, o de cualquier tipo de sufrimiento o maltrato, en contra del menor de edad que este sujeto a su patria potestad, custodia, vigilancia, educación, enseñanza o cuidado.
 
-Comete el delito de maltrato infantil quien lleve a cabo omisiones o conductas de agresión física, psicológica, emocional, sexual, o de cualquier tipo de sufrimiento o maltrato, en contra del menor de edad que este sujeto a su patria potestad, custodia, vigilancia, educación, enseñanza o cuidado.
+Se define el castigo corporal y humillante según lo dispuesto por el inciso i) de la fracción I del artículo 36 de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Sonora.
 
-Este delito se perseguirá de oficio. El imputado se sujetará a las reglas a que se refieren el artículo 234-C, y en caso de quebrantar las medidas precautorias se le sancionará en los términos del artículo 157, fracción II del Código Penal del Estado de Sonora.
+Este delito se perseguirá de oficio. El imputado se sujetará a las reglas a que se refieren el artículo 234-C, y en caso de quebrantar las medidas precautorias se le sancionará en los términos del artículo 157, fracción II de este Código.
 
 > <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
 
@@ -3657,11 +3657,9 @@ Si la víctima fuere alguno de los parientes o personas a que se refieren los ar
 
 Si el delito se cometiera en contra de la víctima por su condición de género, o en contra de un adulto mayor, se aumentará la pena que corresponda hasta en una tercera parte.
 
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
-
 ###### ARTICULO 248.
 
-Las lesiones inferidas por quienes ejerzan la patria potestad o la tutela a los menores o pupilos bajo su guarda, en ejercicio del derecho de corregir, no serán punibles si se tratare de las comprendidas en la fracción I del artículo 243 y, además, el autor no abusare de ese derecho, corrigiendo con crueldad o con innecesaria frecuencia. En cualquier otro caso, las sanciones que correspondan por las lesiones que se causen conforme a los artículos precedentes, se aumentarán en cuatro años de prisión y multa de cincuenta Unidades de Medida y Actualización, pudiendo imponerse, además, a juicio del juzgador, la pérdida o suspensión de la patria potestad o la tutela. En este supuesto el delito se perseguirá de oficio.
+(DEROGADO, B.O. 14 DE MAYO DE 2021)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
@@ -5720,3 +5718,11 @@ B.O. 16 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreta entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 195, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA, DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA, CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
