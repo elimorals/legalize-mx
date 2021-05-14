@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ciencia-y-tecnologia-del-estado-de-mexico-49893"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2014-05-14"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 227, PUBLICADO EN LA G.G. DE 14 DE MAYO DE 2014, CUANDO EN LOS ORDENAMIENTOS JURÍDICOS ESTATALES SE HAGA REFERENCIA A LA SECRETARÍA DE FINANZAS, PLANEACIÓN Y ADMINISTRACIÓN; DE DESARROLLO URBANO Y OBRAS PÚBLICAS; DE EDUCACIÓN, CULTURA Y BIENESTAR SOCIAL; DEL TRABAJO Y DE LA PREVISIÓN SOCIAL Y, DE ECOLOGÍA, SE ENTENDERÁ, RESPECTIVAMENTE, A LA SECRETARÍA DE FINANZAS; DE DESARROLLO URBANO; DE EDUCACIÓN, DE TRABAJO Y, DE MEDIO AMBIENTE.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2021.
 
 Ley publicada en la Tercera Sección Bis de la Gaceta del Gobierno del Estado de México, el viernes 31 de diciembre de 2004.
 
@@ -84,6 +82,10 @@ VI. Comunidad Académica, a las instituciones de educación superior públicas y
 VII. Investigación Científica y Desarrollo Tecnológico, a las actividades de generación, aplicación, difusión y divulgación del conocimiento en las diversas áreas relacionadas con la ciencia y la tecnología, orientadas a las demandas sociales, a la atención de la problemática de la entidad, a sus sectores, así como al avance del conocimiento;
 
 VIII. Consejo Consultivo, al Consejo Consultivo de Ciencia y Tecnología del Estado de México.
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2021)</small>
+
+IX. Acceso Abierto. El acceso mediante una plataforma digital y sin requerimientos de suscripción, registro o pago, a las investigaciones, materiales educativos, académicos, científicos, tecnológicos y de innovación, financiados con recursos públicos estatales o que hayan utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada.
 
 ###### ARTICULO 3.
 
@@ -240,6 +242,10 @@ VI. Los servicios proporcionados por las instituciones de educación superior y 
 VII. Las demandas de ciencia y tecnología del sector productivo y social;
 
 VIII. Las demás que se consideren necesarias.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2021)</small>
+
+ARTICULO 13 BIS.- Las personas investigadoras, expertas en tecnología o que pertenecen a las comunidades académica, científica y/o tecnológica, cuya actividad de investigación sea financiada con recursos públicos estatales o que hayan utilizado infraestructura pública estatal en su realización, por decisión personal podrán autorizar expresamente el depósito de una copia de la versión final aceptada para publicar en Acceso Abierto, comprobando que han cumplido con el proceso de aprobación respectivo; lo anterior, bajo los términos que al efecto establezca el COMECYT, siempre y cuando no se contravengan derechos de terceros.
 
 ###### ARTICULO 14.
 
@@ -666,3 +672,15 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
+
+G.G. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 270.- POR EL QUE SE ADICIONAN LA FRACCIÓN IX AL ARTÍCULO 2 Y EL ARTÍCULO 13 BIS A LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
