@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129377"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2020-11-17"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 11 de junio de 2018.
 
@@ -347,9 +347,17 @@ XXIX.- Ejercer las acciones de verificación y vigilancia en el ámbito de su co
 
 XXX.- Imponer las medidas de seguridad y sanciones administrativas que correspondan, por violaciones a las disposiciones legales en la materia de su competencia, reglamentos, normas o programas de desarrollo urbano, reservas, usos del suelo, destinos de áreas, predios y demás disposiciones que de ellas se deriven; así como dar vista a las autoridades penales competentes, tratándose de delitos;
 
-XXXI.- Denunciar ante los órganos de control y evaluación gubernamental a los servidores públicos que no cumplan con las disposiciones legales establecidas en la Ley, en sus reglamentos y en los programas de desarrollo urbano; y
+> <small>(REFORMADA, B.O. 14 DE MAYO DE 2021)</small>
 
-XXXII.- Las demás que les señalen otras disposiciones legales aplicables.
+XXXI.- Denunciar ante los órganos de control y evaluación gubernamental a los servidores públicos que no cumplan con las disposiciones legales establecidas en la Ley, en sus reglamentos y en los programas de desarrollo urbano;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 14 DE MAYO DE 2021)</small>
+
+XXXII.- Participar en la elaboración del Programa para la Prevención y Control de la Contaminación Lumínica y cumplir con lo establecido en él; y
+
+[ADICIONADA [N. DE E. REUBICADA], B.O. 14 DE MAYO DE 2021)
+
+XXXIII.- Las demás que les señalen otras disposiciones legales aplicables.
 
 ### Capítulo Tercero. Coordinación y concertación
 
@@ -2172,3 +2180,11 @@ B.O. 17 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 196, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA Y DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
