@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-cardiologia-88480"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-04"
-last_updated: "2021-03-31"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88480&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-04-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2021.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 4 de julio de 2012.
 
@@ -139,9 +139,11 @@ Asimismo, el Instituto contará con las unidades subalternas necesarias para el 
 
 El Instituto cuenta con un Órgano Interno de Control que se regirá conforme a lo dispuesto en el artículo 56 de este Estatuto.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2021)</small>
+
 ###### ARTICULO 5o.
 
-Para su desarrollo y operación, el Instituto conducirá sus actividades en forma programada y de conformidad con la Ley, la Ley de Planeación, las políticas, estrategias y prioridades del Plan Nacional de Desarrollo, así como con las disposiciones que emita la Secretaría de Salud en su carácter de coordinadora del Sector y de su respectivo programa institucional.
+Para su desarrollo y operación, el Instituto conducirá sus actividades en forma programada y de conformidad con la Ley, la Ley de Planeación, la Ley Federal de Austeridad Republicana, las políticas, estrategias y prioridades del Plan Nacional de Desarrollo, así como con las disposiciones que emita la Secretaría de Salud en su carácter de coordinadora del Sector y de su respectivo programa institucional.
 
 ### CAPITULO II. DE LA JUNTA DE GOBIERNO
 
@@ -669,7 +671,9 @@ XV. Expedir y certificar las copias de los documentos o constancias que existan 
 
 La Dirección de Administración tendrá las siguientes funciones:
 
-I. Planear, organizar, coordinar y dirigir los sistemas y procesos inherentes a la administración de los recursos humanos, materiales y financieros del Instituto, para que éstos sean proporcionados con oportunidad y eficiencia, de acuerdo a la normatividad vigente y a las políticas internas establecidas.
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2021)</small>
+
+I. Planear, organizar, coordinar y dirigir los sistemas y procesos inherentes a la administración de los recursos humanos, materiales y financieros del Instituto, para que éstos sean proporcionados con oportunidad y eficiencia, de acuerdo a la Ley Federal de Austeridad Republicana, normatividad vigente y a las políticas internas establecidas.
 
 II. Coordinar y dirigir los sistemas y procesos inherentes a la integración, gestión, ejercicio, evaluación y control del presupuesto anual del Instituto y de las metas programáticas autorizadas, de acuerdo a la normatividad vigente y a las políticas internas establecidas.
 
@@ -701,7 +705,9 @@ XIV. Realizar los trabajos especiales, que dentro del ámbito de su competencia,
 
 La Subdirección de Administración y Desarrollo de Personal tendrá las siguientes funciones:
 
-I. Supervisar las actividades inherentes a la integración, autorización, ejercicio y control del presupuesto del Instituto en materia de servicios personales, vigilando que dichos procesos se apeguen al marco normativo vigente y a las políticas internas establecidas.
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2021)</small>
+
+I. Supervisar las actividades inherentes a la integración, autorización, ejercicio y control del presupuesto del Instituto en materia de servicios personales, vigilando que dichos procesos se apeguen a la Ley Federal de Austeridad Republicana, al marco normativo vigente y a las políticas internas establecidas.
 
 II. Supervisar la correcta operación de los sistemas y procedimientos implementados para el reclutamiento, selección, contratación, remuneración, control de incidencias y movimientos del personal, vigilando que todos ellos se realicen de acuerdo a la normatividad vigente y a las políticas internas establecidas.
 
@@ -733,7 +739,9 @@ XIV. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro d
 
 La Subdirección de Finanzas tendrá las siguientes funciones:
 
-I. Supervisar y vigilar que las actividades inherentes a la elaboración, gestión, ejercicio y control del presupuesto y de los demás recursos que perciba el Instituto, se realicen de acuerdo a los lineamientos establecidos y a la normatividad en la materia.
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2021)</small>
+
+I. Supervisar y vigilar que las actividades inherentes a la elaboración, gestión, ejercicio y control del presupuesto y de los demás recursos que perciba el Instituto, se realicen de acuerdo a la Ley Federal de Austeridad Republicana, los lineamientos establecidos y a la normatividad en la materia.
 
 II. Supervisar la correcta operación de los sistemas y procedimientos establecidos para: el manejo de los recursos monetarios y financieros del Instituto, el seguimiento presupuestal y la integración de los informes que periódicamente se remiten a las instancias correspondientes, vigilando que todos ellos se apeguen al marco normativo vigente.
 
@@ -891,23 +899,21 @@ XV. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro de
 
 Se podrán crear e instaurar las Comisiones, Comités y Subcomités necesarios, para el óptimo cumplimiento de las diferentes metas y objetivos del Instituto.
 
-> <small>[N. DE E. SE ADVIERTE QUE LA MODIFICACIÓN AL ESTATUTO PUBLICADA EN EL D.O.F. 31 DE MARZO DE 2021, DIFIERE EN EL NÚMERO DE PÁRRAFOS, DEROGÁNDO LOS PÁRRAFOS QUINTO, TRIGÉSIMO PRIMERO, TRIGÉSIMO CUARTO Y TRIGÉSIMO SÉPTIMO DEL ARTÍCULO 45 BIS, POR LO QUE SE SUGIERE CONSULTAR LA PUBLICACIÓN OFICIAL, PÁGINAS DE LA 20 A LA 21.]</small>
-
 ###### ARTICULO 45o.
 
 bis. El Instituto cuenta con las Comisiones, Comités y Subcomités que a continuación se mencionan:
 
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2021)</small>
 
-Comisión Central de Seguridad, Higiene y Medio Ambiente en el Trabajo, tendrá las funciones que le señalan el artículo 16 del Reglamento de Seguridad e Higiene de la S 42o.ecretaría (sic) de Salud, así como las referidas en las Condiciones Generales de Trabajo.
+Comisión Central de Seguridad, Higiene y Medio Ambiente en el Trabajo, tendrá las funciones que le señalan el Reglamento de Seguridad e Higiene de la Secretaría de Salud, así como las referidas en las Condiciones Generales de Trabajo y las Normas Oficiales Mexicanas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2021)</small>
 
-Comisión Auxiliar de Seguridad, Higiene y Medio Ambiente en el Trabajo tendrá las funciones que le señalan el artículo 17 del Reglamento de Seguridad e Higiene de la Secretaría de Salud, así como las referidas en las Condiciones Generales de Trabajo.
+Comisión Auxiliar de Seguridad, Higiene y Medio Ambiente en el Trabajo tendrá las funciones que le señalan el artículo 17 del Reglamento de Seguridad e Higiene de la Secretaría de Salud, así como las referidas en las Condiciones Generales de Trabajo y las Normas Oficiales Mexicanas.
 
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2021)</small>
 
-Comisión Evaluadora de Premios, Estímulos y Recompensas Civiles, tendrá las funciones que indica la NORMA para el sistema de evaluación del desempeño de los servidores públicos de nivel operativo.
+Comisión Evaluadora de Premios, Estímulos y Recompensas Civiles, tendrá las funciones que indica la NORMA para el sistema de evaluación del desempeño de los servidores públicos de nivel operativo y la Ley de Premios, Estímulos y Recompensas Civiles.
 
 > <small>(DEROGADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
@@ -1306,3 +1312,7 @@ D.O.F. 31 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DE LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ".]
 
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, previa aprobación emitida por el Órgano de Gobierno.
+
+D.O.F. 14 DE MAYO DE 2021.
+
+> <small>[N. DE E. LAS “MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
