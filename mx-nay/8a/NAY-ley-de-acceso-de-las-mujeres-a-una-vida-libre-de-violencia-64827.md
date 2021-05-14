@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6482
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-15"
-last_updated: "2020-07-06"
+last_updated: "2021-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de noviembre de 2008.
 
@@ -237,15 +237,31 @@ IV. Imposición vocacional en el ámbito escolar;
 
 V. Crear o favorecer el estado de riesgo de las mujeres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2021)</small>
+
 ###### Artículo 10.
 
-Para los efectos de la violencia familiar en las políticas públicas, que implemente el Estado y sus Municipios, se deberá:
+En el diseño e implementación de políticas públicas para la atención, prevención y sanción de la violencia familiar, el Estado y sus Municipios deberán:
 
 I. Establecer unidades especializadas para la atención psicojurídica, gratuita, pronta y expedita;
 
 II. Emitir normas técnicas para los diferentes niveles de atención;
 
-III. Proporcionar psicoterapia diferencial a mujeres víctimas de violencia familiar y generadores de ésta, desestimando cualquier práctica conciliatoria, de mediación o psicoterapia que confronte a la mujer con quién ejerce violencia en su contra, hasta en tanto, se les haya proporcionado la terapia correspondiente y la víctima tenga superado el trauma y las lesiones causadas.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2021)</small>
+
+III. Proporcionar psicoterapia diferencial a mujeres víctimas de violencia familiar y generadores de ésta, desestimando cualquier práctica conciliatoria, de mediación o psicoterapia que confronte a la mujer con quién ejerce violencia en su contra, hasta en tanto, se les haya proporcionado la terapia correspondiente y la víctima tenga superado el trauma y las lesiones causadas;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2021)</small>
+
+IV. Facilitar la separación y alejamiento del agresor con respecto a la víctima;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2021)</small>
+
+V. Establecer mecanismos que favorezcan la separación y alejamiento inmediato del agresor con respecto a la víctima, durante el resguardo domiciliario dictado por autoridad competente, en caso de epidemia de carácter grave, peligro de enfermedades transmisibles, situaciones de emergencia o catástrofe, y
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2021)</small>
+
+VI. Se procurará la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta y se buscará proporcionar el apoyo psicológico y legal adecuado. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
@@ -1314,3 +1330,9 @@ P.O. 6 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA POLÍTICA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 10 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
