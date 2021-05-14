@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2020-12-24"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -3784,6 +3784,22 @@ cc).- Sala de Degustación para la venta exclusiva de cerveza artesanal de produ
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
 dd).- Centros de consumo $4,500.00
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+ee) Boutique de vino de productores que tengan su principal establecimiento fuera del territorio del Estado. $120,000.00
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+ff) Sala de degustación para la venta exclusiva de vino de productores que tengan su principal establecimiento fuera del territorio del Estado. $100,000.00
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+gg) Boutique de vino regional hecho en Sonora por productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2021)</small>
+
+hh) Sala de degustación para la venta exclusiva de vino regional hecho en Sonora por productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -8330,3 +8346,15 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Hacienda, a más tardar el día 20 de febrero de 2021 y previa consulta con las Comisiones de Hacienda del Congreso del Estado, deberá emitir las reglas de carácter general para la distribución de los recursos que se recuden (sic) con motivo de la contribución para el fortalecimiento y sostenimiento de los cuerpos de bomberos contenida en los artículos 292 BIS-6, 292 BIS-7 y 292 Bis-8 de la Ley de Hacienda del Estado.
+
+B.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 197, POR EL QUE “SE ADICIONAN LOS INCISOS EE), FF), GG), Y HH), A LA FRACCIÓN I DEL ARTÍCULO 302 DE LA LEY DE HACIENDA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Hacienda y los Ayuntamientos deberán realizar los ajustes correspondientes en sus estimaciones recaudatorias dentro de la Ley de Ingresos para el ejercicio fiscal aplicable.
