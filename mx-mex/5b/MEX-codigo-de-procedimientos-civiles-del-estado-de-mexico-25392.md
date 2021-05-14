@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2021-04-14"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2021.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -8829,6 +8829,18 @@ Medidas provisionales
 
 44.- Cuando se controviertan derechos de niñas, niños y adolescentes o incapaces, el juez podrá dictar las medidas provisionales que estime pertinentes para salvaguardar los derechos de aquellos, ya sea a petición de parte, de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México y las procuradurías de protección municipales o de oficio, con conocimiento de la posición de las partes sobre el particular.
 
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2021)</small>
+
+Conciliación, mediación y justicia restaurativa
+
+###### Artículo 5.
+
+44.1.- En el auto admisorio de demanda y dictadas en su caso las medidas tendientes a garantizar de manera provisional el derecho de niñas, niños y adolescentes, personas con discapacidad, en materia de alimentos, guarda, custodia, patria potestad y decretadas las medidas cautelares para preservar la familia y proteger a sus miembros, el o la juzgadora ordenará que las partes en conflicto acudan ante el Centro de Mediación, Conciliación y Justicia Restaurativa de su jurisdicción, a efecto de que se celebre Junta Informativa y en su caso continúen el Proceso de Justicia Alterna Familiar. Para ello, en el mismo auto librará oficio o comunicación electrónica al director del centro de mediación que corresponda, con la finalidad de que establezca el día y hora en que las partes deberán comparecer para dar inicio al proceso descrito, sin que ello implique la interrupción de plazo judicial alguno.
+
+El Centro de Mediación, Conciliación y Justicia Restaurativa del Poder Judicial del Estado de México, extenderá una constancia a cualquiera de las partes para acreditar que acudieron a la sesión que se les señale de acuerdo a la Ley de Mediación, Conciliación y Promoción de la Paz Social para el Estado de México.
+
+El requisito previsto en el párrafo anterior, no será obligatorio en caso de violencia familiar o cuando se contravengan disposiciones de orden público.
+
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Revisión de las medidas provisionales
@@ -8839,13 +8851,13 @@ Revisión de las medidas provisionales
 
 Las resoluciones provisionales dictadas en la audiencia inicial sólo podrán modificarse en sentencia definitiva.
 
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2021)</small>
 
 Fecha para la celebración de la audiencia inicial
 
 ###### Artículo 5.
 
-46.- En el auto que tenga por contestada la demanda o reconvención, en su caso, se citará a las partes a la audiencia inicial a verificarse dentro de los cinco días siguientes.
+46.- Una vez contestada la demanda o en su caso la reconvención y exhibida la constancia expedida por el Centro de Mediación, Conciliación y Justicia Restaurativa del Poder Judicial del Estado México, relativa a la Junta Informativa que prevé la Ley de Mediación, Conciliación y Promoción de la Paz Social para el Estado de México, que acredite que no se logró la extinción total del conflicto a través de convenio, el o la Jueza en el auto que tenga por presentada dicha constancia, citará a audiencia inicial, la cual, se verificará dentro de los cinco días siguientes.
 
 > <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -8877,6 +8889,12 @@ De no existir prueba pendiente por desahogar y el juez no estime necesaria la re
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
+### CAPITULO V. Audiencia Inicial
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Etapas de la audiencia inicial
+
 ###### Artículo 5.
 
 50.- La audiencia inicial comprenderá:
@@ -8894,12 +8912,6 @@ V. Revisión de las medidas provisionales.
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Inasistencia de las partes
-
-### CAPITULO V. Audiencia Inicial
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Etapas de la audiencia inicial
 
 ###### Artículo 5.
 
@@ -9003,6 +9015,12 @@ Recepción de alegatos
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
+### CAPITULO VI. De la Audiencia Principal
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Desarrollo de la audiencia principal
+
 ###### Artículo 5.
 
 61.- La audiencia principal se desarrollará de la siguiente manera:
@@ -9024,12 +9042,6 @@ De la sentencia quedará constancia íntegra por escrito; una copia, se pondrá 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Causas de suspensión de la audiencia
-
-### CAPITULO VI. De la Audiencia Principal
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Desarrollo de la audiencia principal
 
 ###### Artículo 5.
 
@@ -9067,13 +9079,13 @@ Cuando se hayan solicitado informes de autoridades o particulares, se les requer
 
 > <small>(DEROGADA SU DENOMINACIÓN, G.G. 3 DE MAYO DE 2012)</small>
 
-###### Artículo 5.
-
-65.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
-
 ### CAPITULO VII. Cambio de Vía en el Divorcio Necesario
 
 Solicitud de divorcio por mutuo consentimiento
+
+###### Artículo 5.
+
+65.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
 ###### Artículo 5.
 
@@ -9123,6 +9135,12 @@ Aplicación supletoria
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
+### CAPITULO VIII. De los Recursos
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Revocación fuera de audiencia
+
 ###### Artículo 5.
 
 74.- Los autos y decretos dictados fuera de audiencia serán revocables conforme a las reglas generales.
@@ -9130,12 +9148,6 @@ Aplicación supletoria
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 De la revocación en audiencia
-
-### CAPITULO VIII. De los Recursos
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Revocación fuera de audiencia
 
 ###### Artículo 5.
 
@@ -9672,3 +9684,25 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente a su publicaci�
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
 CUARTO. Los procedimientos judiciales y recursos que se encuentren en trámite a la entrada en vigor de este Decreto, continuarán substanciándose conforme a las disposiciones anteriores. Salvo el caso en que las partes se sometan voluntariamente a las nuevas disposiciones.
+
+G.G. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 269.- POR EL QUE SE REFORMA EL ARTÍCULO 5.46 Y SE ADICIONA EL ARTÍCULO 5.44.1 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO, Y SE ADICIONAN LAS FRACCIONES XV, XVI, XVII Y XVIII AL ARTÍCULO 5, LA FRACCIÓN X AL ARTÍCULO 20 Y EL ARTÍCULO 30 BIS DE LA LEY DE MEDIACIÓN, CONCILIACIÓN Y PROMOCIÓN DE LA PAZ SOCIAL PARA EL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor en los siguientes plazos y Distritos Judiciales:
+
+I. El uno de junio de dos mil veintiuno, en los Distritos Judiciales de Ecatepec de Morelos y Toluca;
+
+II. El cuatro de octubre de dos mil veintiuno, en los Distritos Judiciales de Chalco, Otumba y Tenango del Valle;
+
+III. El diez de enero dos mil veintidós, en los Distritos Judiciales de Cuautitlán, Lerma y Nezahualcóyotl, y
+
+IV. El cuatro de abril de dos mil veintidós, en los Distritos Judiciales de El Oro, Ixtlahuaca, Jilotepec, Sultepec, Temascaltepec, Tenancingo, Texcoco, Tlalnepantla, Valle de Bravo y Zumpango.
+
+TERCERO.- Los asuntos en trámite en cualquier instancia, se concluirán conforme a las disposiciones procesales aplicadas en su radicación.
+
+CUARTO.- En los Distritos Judiciales, cuando aún no entre en vigor este decreto en términos del transitorio segundo, se aplicarán las disposiciones legales anteriores al mismo.
+
+QUINTO.- La Legislatura Local proveerá lo conducente para la asignación de recursos presupuestales al Poder Judicial del Estado, a efecto de que cuente con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto.
