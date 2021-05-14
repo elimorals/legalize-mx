@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2020-08-07"
+last_updated: "2021-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2021.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2015.
 
@@ -619,9 +619,17 @@ I. Promover acciones que contribuyan a erradicar toda discriminación basada en 
 
 II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
 
-III. Vigilar la integración de una perspectiva de igualdad en todas las políticas públicas, y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2021)</small>
 
-IV. Promover la utilización de un lenguaje con perspectiva de igualdad en la totalidad de las relaciones sociales.
+III. Vigilar la integración de una perspectiva de igualdad en todas las políticas públicas;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2021)</small>
+
+IV. Promover la utilización de un lenguaje con perspectiva de igualdad en la totalidad de las relaciones sociales; y,
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2021)</small>
+
+V. Vigilar que ninguna dependencia pública en el Estado, utilice estereotipos de género en publicidad, propaganda, promoción, programas o acciones que lleven a cabo bajo cualquier modalidad de comunicación social.
 
 ## TRANSITORIOS
 
@@ -680,3 +688,9 @@ P.O. 7 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 90 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 16, 20 Y 23 DE LA LEY PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 215 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 48 DE LA LEY PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
