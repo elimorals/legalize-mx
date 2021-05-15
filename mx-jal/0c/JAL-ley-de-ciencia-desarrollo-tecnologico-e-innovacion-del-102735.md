@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ciencia-desarrollo-tecnologico-e-innovacion-del-102735"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-09"
-last_updated: "2021-03-18"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 9 de octubre de 2014.
 
@@ -443,7 +443,9 @@ VI. Las demás que le encomiende el Presidente del Consejo Consultivo.
 
 1. El COECYTJAL tiene por objeto coadyuvar con la Secretaría en el desarrollo de las acciones públicas y privadas relacionadas con la investigación, innovación científica, tecnológica y educativa, el emprendimiento empresarial y social, la protección de la propiedad intelectual y el desarrollo y transferencia de conocimientos y tecnología de la Entidad. Para el cumplimiento de su objeto tendrá las siguientes funciones:
 
-I. Administrar, gestionar y otorgar recursos y estímulos económicos de programas y fondos estatales, federales e internacionales hacia las personas físicas o jurídicas, instituciones académicas y centros de investigación del estado de Jalisco, de acuerdo a los convenios que se suscriban para:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE MAYO DE 2021)</small>
+
+I. Administrar, gestionar y otorgar recursos y estímulos económicos de programas y fondos estatales e internacionales, así como los recursos provenientes de la federación, hacia las personas físicas o jurídicas, instituciones, académicas y centros de investigación del Estado de Jalisco, de acuerdo con los convenios que se suscriban para:
 
 a) La creación, constitución y desarrollo de empresas de base científica y tecnológica en Jalisco.
 
@@ -507,7 +509,9 @@ VIII. Los proyectos de ciencia, tecnología y de innovación que apoye el COECYT
 
 1. El COECYTJAL fomentará el desarrollo de la investigación científica, tecnológica y de innovación, así como el desarrollo del conocimiento a través de los siguientes instrumentos y apoyos:
 
-I. La administración de fondos federales destinados a promover y fortalecer la investigación científica y tecnológica y a la innovación;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
+
+I. La administración de recursos federales destinados a promover y fortalecer la investigación científica y tecnológica y a la innovación;
 
 II. El establecimiento y administración de una partida presupuestal anual destinada exclusivamente al impulso de:
 
@@ -775,7 +779,9 @@ Instrumentos de Apoyo a la Investigación Científica, el Desarrollo Tecnológic
 
 1. Las autoridades del artículo 5° de esta ley deben fomentar el desarrollo de la investigación científica, desarrollo tecnológico, la innovación y el desarrollo del conocimiento a través de los siguientes instrumentos y apoyos:
 
-I. La administración de fondos federales destinados a promover y fortalecer la investigación científica y tecnológica así como la innovación y el desarrollo del conocimiento;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
+
+I. La administración de recursos federales destinados a promover y fortalecer la investigación científica y tecnológica, así como la innovación y el desarrollo del conocimiento;
 
 II. La concesión y gestión de créditos que permitan financiar actividades científicas, tecnológicas, de innovación y desarrollo del conocimiento de conformidad con la legislación aplicable;
 
@@ -1014,3 +1020,9 @@ P.O. 18 DE MARZO DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
 
 SEGUNDO. El Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias en materia de educación a efecto de estar en aptitud de implementar mecanismos, acciones y metodologías que considere necesarias para llevar a cabo lo establecido en este decreto.
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28376/LXII/21 QUE REFORMA LOS ARTÍCULOS 33, 35 Y 49 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO, E INNOVACIÓN DEL ESTADO DE JALISCO”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
