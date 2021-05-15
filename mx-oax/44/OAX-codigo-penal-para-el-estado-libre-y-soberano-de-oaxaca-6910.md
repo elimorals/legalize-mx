@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2021-03-27"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4531,6 +4531,10 @@ III.- El delito sea cometido por persona que tenga al ofendido bajo su custodia,
 
 IV.- Tratándose del delito de violación, el hecho sea cometido por el cónyuge, concubina o concubino de la víctima.
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2021)</small>
+
+V.- El hecho sea cometido a bordo de un vehículo de servicio público o especial de transporte y el sujeto activo aproveche esa circunstancia para cometer el delito. Si el responsable fuere concesionario, además de la pena de prisión impuesta se le revocará la autorización respectiva.
+
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE ENERO DE 2016)</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2019)</small>
@@ -7434,3 +7438,9 @@ P.O. 27 DE MARZO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2458.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN V, AL ARTÍCULO 248 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
