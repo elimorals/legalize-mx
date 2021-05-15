@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2020-12-30"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -606,6 +606,10 @@ I. Nombrar al secretario, tesorero, oficial mayor, contralor, Juez Cívico y Dir
 II. Aprobar las comisiones a que se refiere esta Ley; y
 
 III. Proceder a la entrega-recepción de la situación que guarda la administración pública municipal, en los términos del artículo 33 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2021)</small>
+
+Se deberá garantizar la paridad de género en los nombramientos de los cargos señalados en la fracción I del presente artículo, como principio fundamental de igualdad sustantiva entre mujeres y hombres en el ejercicio del poder público, en términos de la Constitución y las leyes secundarias.
 
 ### CAPÍTULO III. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS Y SUS COMISIONES
 
@@ -2688,5 +2692,11 @@ SEGUNDO.- Al Poder Ejecutivo del Estado, se le otorga un plazo de 60 días natur
 P.O. 30 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 395 POR EL QUE SE ADICIONA EL ARTÍCULO 133 BIS, CON CUATRO PÁRRAFOS, DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA Y UN SEGUNDO PÁRRAFO AL INCISO M) DE LA FRACCIÓN I DEL ARTÍCULO 45 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 448.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 5, 10, 15 Y 45 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 36 DE LA LEY DE MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
