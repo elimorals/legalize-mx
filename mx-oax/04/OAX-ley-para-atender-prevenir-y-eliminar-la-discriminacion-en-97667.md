@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-atender-prevenir-y-eliminar-la-discriminacion-en-97667
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2020-10-24"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de diciembre de 2013.
 
@@ -53,9 +53,11 @@ Disposiciones Generales.
 
 Las disposiciones de esta Ley son de orden público, interés social y observancia general en el Estado de Oaxaca.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2021)</small>
+
 ###### Artículo 2.
 
-El objeto de la presente Ley es promover la igualdad real de oportunidades, atender, prevenir y eliminar todas las formas de discriminación que se ejerzan contra cualquier persona, para lo cual los Poderes Públicos Estatales y sus instancias, deberán respetar y garantizar, el ejercicio de los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en las normas de derechos humanos contenidas en los tratados y convenios internacionales firmados y ratificados por el Estado Mexicano, en la Constitución Política del Estado Libre y Soberano de Oaxaca, en la presente Ley y demás ordenamientos legales aplicables.
+El objeto de la presente Ley es promover la igualdad real de oportunidades, atender, prevenir y eliminar todas las formas de discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anual o menoscabar los derechos y libertades, que se ejerzan contra cualquier persona, para lo cual los Poderes Públicos Estatales y sus instancias, deberán respetar y garantizar, el ejercicio de los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en las normas de derechos humanos contenidas en los tratados y convenios internacionales firmados y ratificados por el Estado Mexicano, en la Constitución Política del Estado Libre y Soberano de Oaxaca, y en la presente Ley y demás ordenamientos legales y aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
@@ -1164,3 +1166,9 @@ P.O. 24 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 2428.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 2° DE LA LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
