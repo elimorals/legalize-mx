@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-que-crea-al-organismo-publico-descentralizado-1397
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-28"
-last_updated: "2019-12-28"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA QUE CREA AL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO PLATAFORMA ABIERTA DE INNOVACIÓN Y DESARROLLO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 2019.
 
@@ -71,9 +71,11 @@ La Plataforma, como ente de educación superior, tiene por objeto ofrecer formac
 
 La Plataforma tendrá su domicilio legal dentro del Área Metropolitana de Guadalajara y podrá establecer sedes en el resto de la República Mexicana, de acuerdo a las necesidades propias de su operación y según sus posibilidades presupuestales.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2021)</small>
+
 ###### Artículo 5.
 
-Serán disposiciones supletorias de la presente ley y su Reglamento, la Ley de Educación, la Ley de Responsabilidades Políticas y Administrativas, el Código Civil y la Ley para los Servidores Públicos, todas de aplicación en el Estado de Jalisco.
+Serán disposiciones supletorias de la presente ley y su Reglamento, la Ley de Educación del Estado Libre y Soberano de Jalisco, la Ley de Responsabilidades Políticas y Administrativas, el Código Civil y la Ley para los Servidores Públicos, todas de aplicación en el Estado de Jalisco.
 
 ### CAPÍTULO II. Estructura y atribuciones de la Plataforma
 
@@ -312,3 +314,11 @@ MTRO. JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28375/LXII/21 QUE REFORMA EL ARTÍCULO 5 DE LA LEY ORGNÁNICA QUE CREA AL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO PLATAFORMA ABIERTA DE INNOVACIÓN Y DESARROLLO DE JALISCO".]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
