@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-prevenir-sancionar-y-erradicar-los-delitos-en-129365"
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-12"
-last_updated: "2018-05-12"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Ley publicada en la Décima Octava Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -328,6 +328,12 @@ I. Condiciones peligrosas o insalubres, sin las protecciones necesarias de acuer
 II. Existencia de una manifiesta desproporción entre la cantidad de trabajo realizado y el pago efectuado por ello, o
 
 III. Salario por debajo de lo legalmente establecido.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2021)</small>
+
+###### Artículo 21 Bis.
+
+A quien emplee o contrate a personas menores de quince años de edad se le impondrá una pena de 1 a 4 años de prisión y de 250 a 5,000 días del valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito. Este delito, atendiendo el interés superior de la niñez será perseguido de oficio.
 
 ###### Artículo 22.
 
@@ -1214,3 +1220,11 @@ DÉCIMO. La Fiscalía General del Estado de Oaxaca, contará con el término de 
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 15 de abril de 2018.- Dip. José de Jesús Romero López, Presidente.- Dip. María de Jesús Melgar Vásquez, Secretaria.- Dip. Silvia Flores Peña, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 24 de Abril de 2018. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2426.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 21 BIS A LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
