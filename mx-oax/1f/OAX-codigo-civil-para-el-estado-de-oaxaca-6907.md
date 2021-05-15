@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2020-10-17"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1821,9 +1821,11 @@ La separación de bienes puede ser absoluta o parcial. En el segundo caso, los b
 
 Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2021)</small>
+
 ###### Artículo 222.
 
-No es necesario que consten en escritura pública las capitulaciones en que se pacte la separación de bienes, antes de la celebración del matrimonio, siendo suficiente el contrato que se celebre ante el Juez del Estado Civil. Si se pacta durante el matrimonio, se observarán las formalidades exigidas para la transmisión de los bienes de que se trate.
+No es necesario que consten en escritura pública las capitulaciones en que se pacte la separación de bienes, antes de la celebración del matrimonio, siendo suficiente el contrato que se celebre ante el Oficial del Registro Civil. Si se pacta durante el matrimonio, se observarán las formalidades exigidas para la transmisión de los bienes de que se trate.
 
 ###### Artículo 223.
 
@@ -3095,9 +3097,13 @@ El heredero que resulte perjudicado puede contradecir el reconocimiento dentro d
 
 El reconocimiento de un hijo nacido fuera del matrimonio deberá hacerse de alguno de los modos siguientes:
 
-I. En la partida de nacimiento, ante el Juez del Registro Civil;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
 
-II. Por acta especial ante el mismo juez;
+I. En la partida de nacimiento, ante el Oficial del Registro Civil;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
+
+II. Por acta especial ante el mismo Oficial;
 
 III. Por escritura pública;
 
@@ -16898,3 +16904,9 @@ P.O. 17 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2421.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 222 Y LAS FRACCIONES I Y II DEL ARTÍCULO 384 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
