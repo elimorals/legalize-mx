@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2021-02-13"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -3891,11 +3891,13 @@ ARTICULO 127 BIS. El Estado garantizará el desarrollo integral de las regiones 
 
 Los trabajadores al servicio de los Poderes del Estado y sus Ayuntamientos, tendrán derecho de asociarse para la defensa de sus intereses comunes en los términos de las leyes debidamente promulgadas para regular sus relaciones de trabajo.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2021)</small>
 
 ###### ARTICULO 129.
 
-Todos los habitantes en el Estado están obligados a trabajar para subvenir a sus propias necesidades y a las de sus familias. La ley determinará los casos de excepción.
+Toda persona tiene derecho al trabajo y para tal efecto, el Estado promoverá políticas de creación de empleos y establecerá condiciones para que sus habitantes puedan acceder a un trabajo digno, honesto, decente, bien remunerado y socialmente útil, para sufragar a sus propias necesidades y a las de sus familias.
+
+Estas políticas deberán ser principalmente orientadas con perspectiva de género y sin discriminación, además las instituciones educativas deberán brindar mayores oportunidades a los jóvenes para su primer empleo e inserción laboral.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2019)</small>
 
@@ -5647,7 +5649,7 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno E
 
 P.O. 13 DE FEBRERO DE 2021.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1794.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXX DEL ARTÍCULO 59; LA FRACCIÓN XXVII DEL ARTÍCULO 79; LA FRACCIÓN XVI DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 99; EL PRIMER PÁRRAFO DEL ARTÍCULO 102; LA DENOMINACIÓN DE LA SECCIÓN QUINTA DE LOS JUZGADOS EN MATERIA LABORAL DEL CAPÍTULO IV DEL TÍTULO CUARTO; EL ARTÍCULO 111 BIS; SE ADICIONA EL ARTÍCULO 21 BIS; Y SE DEROGA EL APARTADO B DEL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA",]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1794.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXX DEL ARTÍCULO 59; LA FRACCIÓN XXVII DEL ARTÍCULO 79; LA FRACCIÓN XVI DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 99; EL PRIMER PÁRRAFO DEL ARTÍCULO 102; LA DENOMINACIÓN DE LA SECCIÓN QUINTA DE LOS JUZGADOS EN MATERIA LABORAL DEL CAPÍTULO IV DEL TÍTULO CUARTO; EL ARTÍCULO 111 BIS; SE ADICIONA EL ARTÍCULO 21 BIS; Y SE DEROGA EL APARTADO B DEL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
@@ -5658,3 +5660,9 @@ TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opong
 CUARTO.- El Congreso del Estado, deberá realizar las reformas a las leyes secundarias en la materia dentro de los seis meses siguientes contados a partir de la publicación del presente Decreto.
 
 QUINTO.- La Secretaría General de Gobierno, El Congreso del Estado y el Tribunal Superior de Justicia, deberán establecer los mecanismos presupuestales y administrativos en el ámbito de sus respectivas competencias a efecto de instaurar el Centro Estatal de Conciliación Laboral de Oaxaca, los juzgados laborales, dentro de los plazos establecidos en el artículo quinto transitorio del decreto de fecha 29 de abril de 2019 por el que se reforma la Ley Federal del Trabajo publicado en el diario oficial de la federación con fecha 01 de mayo de 2019.
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2430.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 129 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación; Publíquese en el Periódico Oficial del Estado de Oaxaca.
