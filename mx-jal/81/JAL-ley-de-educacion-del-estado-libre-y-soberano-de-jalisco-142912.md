@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2021-05-11"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -1559,6 +1559,30 @@ II. Los integrantes del SIMEJORA acordarán los lineamientos que regirán su fun
 
 III. El SIMEJORA sesionará de manera ordinaria tres veces al año y de manera extraordinaria cuando así se requiera.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del SIMEJORA, se podrá sesionar a distancia empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología.
+
+> <small>(ADICIONADO [N. DE E. CON LOS INCISOS QUE LO INTEGRAN], P.O. 15 DE MAYO DE 2021)</small>
+
+Las sesiones para su validez deben contar con lo siguiente:
+
+a) La identificación visual plena de sus integrantes;
+
+b) La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos;
+
+c) Las votaciones que se realicen serán de carácter nominal asentando registro de las mismas; y
+
+d) Dejar registro audiovisual de la sesión y sus acuerdos.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2021)</small>
+
+En estos casos, las convocatorias a las sesiones del SIMEJORA serán realizadas también mediante el uso de herramientas tecnológicas que permitan dejar constancia de su envío.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2021)</small>
+
+La convocatoria de la celebración de sesiones a distancia así como la redacción y protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
+
 IV. El SIMEJORA contará con un Consejo Técnico Ciudadano, un órgano consultivo integrado por cinco personas expertas en investigación educativa, política educativa, pedagogía u otros afines, o bien tener experiencia docente o de gestión en cualquier tipo o modalidad educativa, a quienes se denominará Consejeros.
 
 Para su elección se deberá cubrir como mínimo los siguientes requisitos:
@@ -2372,3 +2396,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
 
 TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28371/LXII/21 QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 112 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
