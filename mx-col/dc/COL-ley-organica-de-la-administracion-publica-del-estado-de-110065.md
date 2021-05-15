@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-110065"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-01"
-last_updated: "2021-04-24"
+last_updated: "2021-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el jueves 1 de octubre de 2015.
 
@@ -83,9 +83,11 @@ El Gobernador tiene el deber de proveer en la esfera administrativa la exacta ob
 
 Las dependencias y entidades de la Administración Pública del Estado conducirán sus actividades en forma programada, con base en las políticas que para el logro de los objetivos y prioridades de la planeación estatal del desarrollo, establezca el Gobernador.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2021)</small>
+
 ###### Artículo 5.
 
-El Gobernador podrá nombrar y remover libremente a los titulares de las dependencias y entidades de la Administración Pública del Estado y demás servidores públicos cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución del Estado o en otras leyes.
+El Gobernador podrá nombrar y remover libremente, a los titulares de las dependencias y entidades de la Administración Pública del Estado y demás servidores públicos cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución del Estado o en otras leyes. Las designaciones se efectuarán con base al Principio Constitucional de Paridad de Género.
 
 ###### Artículo 6.
 
@@ -113,11 +115,11 @@ Por acuerdo expreso, el Gobernador podrá delegar en los titulares de las depend
 
 El Gobernador podrá acordar la creación y funcionamiento de consejos, comités, comisiones o juntas de carácter interinstitucional y consultivos para garantizar la participación ciudadana en los asuntos de interés público, en los que se integre por invitación a dependencias y entidades de la Administración Pública del Estado, de otros órdenes de gobierno, o a personas físicas y morales que por razón de sus respectivas atribuciones y actividades sea conveniente convocar.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2021)</small>
+
 ###### Artículo 10.
 
-El Gobernador podrá contar con unidades de apoyo, transitorias o permanentes, cualquiera que sea su denominación u organización, para planear, coordinar, administrar o ejecutar programas estratégicos, especiales o prioritarios a cargo de la Administración Pública del Estado, incluyendo los servicios de asesoría, consultoría y apoyo técnico que requiera el Titular del Poder Ejecutivo.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+El Gobernador podrá contar con unidades de apoyo, transitorias o permanentes, cualquiera que sea su denominación u organización, para planear, coordinar, administrar o ejecutar programas estratégicos, especiales o prioritarios a cargo de la Administración Pública del Estado, incluyendo los servicios de asesoría, consultoría y apoyo técnico que requiera el Titular del Poder Ejecutivo. Las designaciones se efectuarán con base al Principio Constitucional de Paridad de Género.
 
 ###### Artículo 11.
 
@@ -179,9 +181,11 @@ XVIII.- Contraloría General del Estado.
 
 Las Dependencias que integran la Administración Pública Centralizada tendrán igual rango y entre ellas no habrá, por lo tanto, preeminencia alguna. Sin perjuicio de lo anterior, por acuerdo del Gobernador, la Secretaría General de Gobierno coordinará las acciones de las Dependencias para cumplir sus acuerdos y órdenes.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2021)</small>
+
 ###### Artículo 15.
 
-Al frente de cada Secretaría habrá un Secretario, quien para el despacho de los asuntos de su competencia, se auxiliará por los Subsecretarios, Directores Generales, Directores, Subdirectores, Jefes de Departamento, oficina, sección y mesa, y por los demás funcionarios que establezca el reglamento interior respectivo y otras disposiciones normativas aplicables.
+Al frente de cada Secretaría habrá un Secretario, quien para el despacho de los asuntos de su competencia, se auxiliará por los Subsecretarios, Directores Generales, Directores, Subdirectores, Jefes de Departamento, oficina, sección y mesa, y por los demás funcionarios que establezca el reglamento interior respectivo y otras disposiciones normativas aplicables. Las designaciones se efectuarán con base al Principio Constitucional de Paridad de Género.
 
 ###### Artículo 16.
 
@@ -1105,9 +1109,11 @@ El Gobernador aprobará la participación del gobierno del Estado en las empresa
 
 Dicha aprobación también será indispensable para constituir o aumentar fideicomisos públicos. Las autorizaciones serán otorgadas por conducto de la Secretaría de Planeación y Finanzas, la que fungirá como fideicomitente único de la Administración Pública del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2021)</small>
+
 ###### Artículo 45.
 
-Los órganos de gobierno de las entidades estarán a cargo de la administración de los organismos descentralizados, de las empresas de participación estatal mayoritaria, así como, en su caso, los comités técnicos de los fideicomisos públicos, y deberán estar integrados mayoritariamente por servidores públicos de la Administración Pública del Estado, sin que en ningún caso existan regímenes especiales de voto que afecten la capacidad de decisión de dichos servidores públicos.
+Los órganos de gobierno de las entidades estarán a cargo de la administración de los organismos descentralizados, de las empresas de participación estatal mayoritaria, así como, en su caso, los comités técnicos de los fideicomisos públicos, y deberán estar integrados mayoritariamente por servidores públicos de la Administración Pública del Estado, sin que en ningún caso existan regímenes especiales de voto que afecten la capacidad de decisión de dichos servidores públicos. Para los nombramientos se deberá (sic) observar los criterios constitucionales de paridad de género.
 
 ###### Artículo 46.
 
@@ -1632,3 +1638,9 @@ P.O. 24 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 443.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 448.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 5, 10, 15 Y 45 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 36 DE LA LEY DE MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
