@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-fisica-y-deporte-del-estado-de-jalisco-87613"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-19"
-last_updated: "2021-03-11"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 2012.
 
@@ -208,6 +208,30 @@ Para que las reuniones del Consejo Técnico tengan validez legal, se convocará 
 ###### Artículo 16.
 
 El sistema estatal sesionará anualmente y podrá celebrar las reuniones extraordinarias que considere convenientes para el cumplimiento de la presente ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del sistema estatal, se podrá sesionar a distancia empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 15 DE MAYO DE 2021)</small>
+
+Las sesiones para su validez deben contar con lo siguiente:
+
+a) La identificación visual plena de sus integrantes;
+
+b) La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos;
+
+c) Las votaciones que se realicen serán de carácter nominal asentando registro de las mismas; y
+
+d) Dejar registro audiovisual de la sesión y sus acuerdos.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2021)</small>
+
+En estos casos, las convocatorias a las sesiones del sistema estatal serán realizadas también mediante el uso de herramientas tecnológicas que permitan dejar constancia de su envío.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2021)</small>
+
+La convocatoria de la celebración de sesiones a distancia así como la redacción y protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
 
 ###### Artículo 17.
 
@@ -1104,3 +1128,9 @@ P.O. 11 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28291/LXII/21 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 55 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28372/LXII/21 QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 16 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO”.]
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
