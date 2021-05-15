@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-premio-chihuahua-4729"
 country: "mx"
 rank: "ley"
 publication_date: "1981-11-11"
-last_updated: "2018-07-25"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE CREA EL "PREMIO CHIHUAHUA" DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 11 de noviembre de 1981.
 
@@ -49,25 +49,31 @@ Se declara de interés público la promoción y estímulo de las actividades cul
 
 Se otorgará el "PREMIO CHIHUAHUA", en las disciplinas comprendidas en cada una de las siguientes áreas:
 
-I.- Tecnológicas.
+I. Tecnológicas.
 
-II.- Biológicas.
+II. Biológicas.
 
-III.- Sociales.
+III. Sociales.
 
-IV.- Literarias.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
+IV. Literarias: en las categorías de dramaturgia, novela, cuento, ensayo y poesía.
 
-V.- Artes Visuales.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 1994)</small>
+V. Artes Visuales: en las categorías de escultura, óleo-acrílico, gráfica, acuarela-goauche (sic) y fotografía.
 
-VI.- Música.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2011)</small>
+VI. Composición Musical.
 
-VII.- Periodismo.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
+
+VII. Periodismo del género reportaje.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2021)</small>
+
+VIII. Artes Escénicas: en las categorías de teatro, danza y música.
 
 > <small>(REFORMADO, P.O. 23 DE ABRIL DE 1994)</small>
 
@@ -75,9 +81,11 @@ VII.- Periodismo.
 
 El Premio consistirá en la entrega de una cantidad en efectivo a determinarse anualmente por Acuerdo del titular del Poder Ejecutivo, a más tardar en el mes de febrero. En caso contrario la cantidad será la misma que la determinada en el año anterior.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2021)</small>
+
 ###### ARTICULO 4°.
 
-Los trabajos que se presenten deberán ser inéditos y contener una aportación original orientada a la creación, desarrollo o perfeccionamiento de las diversas disciplinas que integran las áreas del conocimiento mencionadas.
+Los trabajos que se presenten deberán ser inéditos, a excepción de las categorías de periodismo y artes escénicas, y contener una aportación original orientada a la creación, desarrollo o perfeccionamiento de las diversas disciplinas que integran las áreas del conocimiento mencionadas.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 1989)</small>
 
@@ -91,35 +99,53 @@ Solo podrán participar las personas que tengan su domicilio y radiquen actualme
 
 Los trabajos se enviarán a la Secretaría de Cultura, sujetándose a las siguientes bases:
 
-I. Para Tecnológicas y Biológicas, se presentarán por triplicado, escritos a máquina a doble espacio, en papel tamaño carta y por una sola cara, en un mínimo de treinta cuartillas.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
 
-II. En Sociales y Literarias, de la misma manera con un mínimo de sesenta cuartillas, pudiendo participar en el segundo caso, en los géneros de teatro, novela, cuento, ensayo y poesía, los cuales serán sujetos a concurso una vez cada cinco años, determinándose en la convocatoria respectiva, el género a evaluar.
+I. Para Tecnológicas y Biológicas, se presentarán, escritos en formato digital, en tipografía "arial", 12, a espacio y medio, en tamaño carta, con un mínimo de treinta cuartillas.
 
-III. En Artes Visuales, se presentará la obra original sin firmas y tres fotografías a color de siete por once pulgadas, dentro de las manifestaciones de: Escritura, óleo y acrílico, gráfica, gouache y fotografía.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
+
+II. En Sociales y Literarias, se presentarán, escritos en formato digital en tipografía "arial", 12, a espacio y medio, en tamaño carta, con un mínimo de sesenta cuartillas; en el caso de las Literarias, se alternarán los géneros descritos en la fracción IV del artículo 2.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE MAYO DE 2021)</small>
+
+III. En Artes Visuales, se presentarán tres fotografías de la obra original sin firma, en archivos digitales, de un máximo de diez pulgadas por cualquiera de sus lados, a 300 DPI, dentro de las manifestaciones de: Escultura, óleo y acrílico, gráfica, acuarela o "gouache" y fotografía, requiriendo esta última disciplina una serie de un mínimo de cuatro y un máximo de seis fotografías.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2018)</small>
 
 En este caso, la Secretaría de Cultura del Gobierno del Estado determinará anualmente, la manifestación sujeta a concurso.
 
-IV. En Música, la partitura en original y dos copias, con un mínimo de ocho compases y un máximo de treinta y dos en cualquiera de sus géneros. En el caso de canción, deberá incluirse la letra respectiva; y en el de música de concierto, podrá ser con un máximo de tres movimientos.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
+IV. En Composición Musical, deberá presentarse la partitura de la obra en formato digital. En el caso de canción, deberá incluirse la letra respectiva; y en el de música de concierto, el número y la duración de los movimientos es libre.
 
-V. En periodismo se deberá presentar un trabajo del género reportaje, publicado durante el año inmediato anterior al de la fecha de cierre de la convocatoria.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
 
-VI. Podrán acompañarse adicionalmente fotografías, diapositivas, gráficas, planos, diagramas o cualquier otro elemento complementario o explicativo a juicio del autor.
+V. En periodismo se deberá presentar un trabajo del género reportaje, publicado durante el año inmediato anterior al de la fecha de cierre de la convocatoria. El formato podrá ser audiovisual, radiofónico, podcast, gráfico o escrito, debiendo presentarlo en archivos digitales.
 
-VII. Los participantes deberán suscribirse con seudónimo, enviando adjunto al trabajo, un sobre cerrado con la identificación del autor, su domicilio, número telefónico y documento que acredite su origen chihuahuense o su residencia dentro del Estado.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
 
-En el sobre, se anotará el seudónimo, el título de la obra y el área en la que participa.
+VI. En Artes Escénicas, se presentará un video en alta definición que contenga un espectáculo completo con un mínimo de cuarenta y cinco minutos de duración, llevado a escena durante el año inmediato anterior de la fecha de cierre de la convocatoria, en las disciplinas de teatro, danza o música. Los videos deberán ir acompañados con la documentación que ampare la propiedad intelectual o la cesión de derechos para la puesta en escena.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
 
-Las placas de identificación, serán depositadas por la Secretaría de Cultura del Gobierno del Estado, en una Notaría Pública de la Ciudad de Chihuahua; el Notario abrirá únicamente las que el Jurado señale.
+VII. Los trabajos podrán acompañarse adicionalmente de fotografías, diapositivas, gráficas, planos, diagramas o cualquier otro elemento complementario o explicativo a juicio del autor. Los formatos digitales específicos para los archivos enviados en cada área serán determinados por la Secretaría de Cultura, de acuerdo con la compatibilidad técnica que corresponda al momento en que sea emitida la convocatoria.
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2021)</small>
 
-VIII. El certamen quedará abierto a partir de la publicación de la convocatoria respectiva, cerrándose el treinta y uno de agosto del año correspondiente.
+VIII. Salvo en las disciplinas de Periodismo y la de Artes Escénicas, en las cuales se participa con identidad abierta, las personas participantes deberán suscribirse con seudónimo, enviando adjunto al trabajo, una carpeta en formato digital que contenga la identificación del autor, su domicilio, número telefónico y documento que acredite su origen chihuahuense o su residencia dentro del Estado. En la disciplina de Artes Escénicas, cuando se trate de trabajos colectivos, la documentación corresponderá a un representante de la agrupación nombrado mediante carta firmada por el resto de las personas que integran la compañía artística.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2021)</small>
+
+IX. Los archivos con los datos de identificación, serán resguardados por la Secretaría de Cultura del Gobierno del Estado, y al momento de emitir los resultados del concurso, serán abiertos en presencia de un Notario Público únicamente aquellos que los jueces señalen como ganadores.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2021)</small>
+
+X. En las disciplinas que contemplan varios géneros o técnicas, cada año se concursará en solo una de ellas, estableciéndose un ciclo de alternancia.
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 15 DE MAYO DE 2021)</small>
+
+XI. El Certamen quedará abierto a partir de la publicación de la convocatoria respectiva, cerrándose el treinta y uno de agosto del año correspondiente.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2018)</small>
 
@@ -141,11 +167,11 @@ El fallo de los jurados se emitirá en el mes de octubre de cada año y será in
 
 Una vez emitido el fallo, se notificará inmediatamente a los concursantes que resulten triunfadores; a la vez que se divulgará por medio de la prensa.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2021)</small>
 
 ###### ARTICULO 10°.
 
-No se devolverán los trabajos que no obtengan el premio, excepto los participantes en el área de Artes Visuales, que podrán recogerse en el mismo lugar en que fueron depositados, dentro de un término máximo de sesenta días seguidos a la entrega de los premios; transcurrido dicho plazo el Gobierno del Estado podrá disponer de ellos para los fines que mejor convenga.
+Los archivos con los trabajos que no obtengan el premio, no serán devueltos y se eliminarán de las bases de datos de la Secretaría de Cultura, una vez emitido el fallo del jurado y dados a conocer los resultados del concurso.
 
 ###### ARTICULO 11°.
 
@@ -272,3 +298,9 @@ P.O. 25 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/1016/2021 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL "PREMIO CHIHUAHUA"".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
