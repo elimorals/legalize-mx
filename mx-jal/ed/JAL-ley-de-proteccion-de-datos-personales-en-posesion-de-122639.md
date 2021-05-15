@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-de-datos-personales-en-posesion-de-122639"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-26"
-last_updated: "2019-12-28"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 26 de julio de 2017.
 
@@ -397,7 +397,9 @@ Principios - Información.
 
 5. El aviso de privacidad se redactará conforme a lo dispuesto en la Ley General.
 
-6. En el caso de personas indígenas, el responsable hará los ajustes razonables pertinentes para dar a conocer el aviso de privacidad en su lengua de origen, con el objetivo de que el consentimiento sea considerado libre. Lo mismo aplicará para personas que comprendan el sistema braille y análogos.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2021)</small>
+
+6. En el caso de personas indígenas o afromexicanas, cualquiera que sea su autodenominación, el responsable hará los ajustes razonables pertinentes para dar a conocer el aviso de privacidad en su lengua de origen, con el objetivo de que el consentimiento sea considerado libre. Lo mismo aplicará para personas que comprendan el sistema braille y análogos.
 
 ###### Artículo 20.
 
@@ -2336,3 +2338,9 @@ P.O. 28 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27758/LXII/19 QUE REFORMA EL ARTÍCULO 7° DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28379/LXII/21 QUE REFORMA EL NUMERAL 6 DEL ARTÍCULO 19 DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
