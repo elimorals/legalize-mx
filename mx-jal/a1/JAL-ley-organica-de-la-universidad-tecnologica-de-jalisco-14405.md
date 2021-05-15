@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-tecnologica-de-jalisco-14405"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-08"
-last_updated: "2016-05-07"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 8 de mayo de 1999.
 
@@ -172,6 +172,30 @@ La renovación parcial o total del Consejo Directivo, se hará con arreglo a lo 
 Las sesiones ordinarias y extraordinarias del Consejo Directivo se celebrarán conforme a los tiempos y formalidades que se establezcan en su reglamento interno, al igual que su funcionamiento.
 
 El titular del Poder Ejecutivo del Estado o su representante, presidirá las sesiones del consejo directivo y tendrá voto de calidad en las mismas. Asimismo se auxiliará de un secretario en las sesiones del consejo quien tendrá voz pero no voto.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del Consejo Directivo, se podrá sesionar a distancia empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología.
+
+> <small>(ADICIONADO [N. DE E. CON LOS INCISOS QUE LO INTEGRAN], P.O. 15 DE MAYO DE 2021)</small>
+
+Las sesiones para su validez deben contar con lo siguiente:
+
+a) La identificación visual plena de sus integrantes;
+
+b) La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos;
+
+c) Las votaciones que se realicen serán de carácter nominal asentando registro de las mismas; y
+
+d) Dejar registro audiovisual de la sesión y sus acuerdos.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2021)</small>
+
+En estos casos, las convocatorias a las sesiones del Consejo Directivo serán realizadas también mediante el uso de herramientas tecnológicas que permitan dejar constancia de su envío.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2021)</small>
+
+La convocatoria de la celebración de sesiones a distancia así como la redacción y protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
 
 ###### Artículo 11.
 
@@ -442,3 +466,9 @@ P.O. 7 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25815/LXI/16 QUE REFORMA EL ARTÍCULO 7° DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28373/LXII/21 QUE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 10 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE JALISCO”.]
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
