@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-de-oaxaca-87658"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-04-28"
-last_updated: "2021-03-13"
+last_updated: "2021-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de abril de 2012.
 
@@ -59,9 +59,9 @@ El representante legal del Poder Judicial del Estado es el presidente del Tribun
 
 ###### Artículo 2.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2021)</small>
 
-Corresponde a los Tribunales del Poder Judicial la facultad de interpretar y aplicar la Constitución Política del Estado Libre y Soberano de Oaxaca, los tratados internacionales, las leyes en los asuntos de lo contencioso administrativo y de cuentas, del orden civil, familiar, penal y de adolescentes del fuero común.
+Corresponde a los Tribunales del Poder Judicial la facultad de interpretar y aplicar la Constitución Política del Estado Libre y Soberano de Oaxaca, los tratados internacionales, las leyes en los asuntos, del orden civil, familiar, penal, laboral y de adolescentes del fuero común.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -117,27 +117,19 @@ El Poder Judicial rendirá cuentas al Congreso del Estado de los recursos que re
 
 De igual forma, el Poder Judicial deberá rendir cuentas anualmente de la administración del Fondo para la Administración de Justicia al Congreso del Estado en el mismo plazo indicado en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2021)</small>
+
 ###### Artículo 4.
 
-El Poder Judicial se ejerce por:
+El Poder Judicial del Estado se ejerce por:
 
-I. El pleno del Tribunal Superior de Justicia del Estado;
+I. El Pleno del Tribunal Superior de Justicia;
 
-II. Las salas especializadas en razón de la materia;
+II. El Consejo de la Judicatura;
 
-III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
+III. Las salas especializadas en razón de la materia; y
 
-IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-V. El Tribunal de lo Contencioso Administrativo y de Cuentas;
-
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
-
-VI. Los juzgados de primera instancia en las materias penal, civil, familiar, administrativa, oral mercantil, mixtos, de control, especializados en justicia para adolescentes, ejecución de sanciones, ejecución de penas; tribunales de enjuiciamiento.
-
-VII. El Consejo de la Judicatura.
+IV. Los juzgados de primera instancia en las materias penal, civil, familiar, oral mercantil, laboral, mixtos, de control, especializados en justicia para adolescentes, ejecución de sanciones, ejecución de penas; y tribunales de enjuiciamiento.
 
 # LIBRO SEGUNDO.
 
@@ -565,11 +557,11 @@ DE LOS DISTRITOS JUDICIALES.
 
 Del territorio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
-
 ###### Artículo 34.
 
-En el Estado habrá juzgados penales, civiles, orales mercantiles, familiares, de control, tribunales de enjuiciamiento, especializados en justicia para adolescentes, de ejecución de sanciones, ejecución de penas, mixtos y de lo contencioso administrativo; que sean necesarios para la pronta y expedita administración de justicia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2021)</small>
+
+En el Estado habrá juzgados penales, civiles, orales mercantiles, familiares, de control, tribunales de enjuiciamiento, especializados en justicia para adolescentes, de ejecución de sanciones, ejecución de penas, mixtos y en materia laboral; que sean necesarios para la pronta y expedita administración de justicia.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -606,6 +598,14 @@ En ausencia del ejecutor o actuario judicial, el secretario de acuerdos ejercer�
 ###### Artículo 37.
 
 Los juzgados de control, especializados en justicia para adolescentes y de ejecución de penas, se integrarán por el número de jueces que requiera la carga de trabajo. El tribunal de enjuiciamiento, en el sistema de adultos, se integrará de manera unitaria cuando la pena máxima del delito de que se trate no exceda de ocho años de prisión; fuera de este supuesto se integrará de manera colegiada por tres jueces.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2021)</small>
+
+Artículo 37 bis.
+
+Cada juzgado laboral estará a cargo de un juez o jueza y contará con las y los secretarios así como el personal que se estime conveniente y que permita el presupuesto de egresos, mismos que serán designados por el Consejo de la Judicatura, que deberá observar lo dispuesto en esta ley, en cuanto a la carrera judicial y en relación a lo que dispone el artículo 525 BIS de la Ley Federal del Trabajo, respecto al ingreso, promoción, permanencia, evaluación de desempeño, separación y retiro del personal en servicio público.
+
+Los juzgados laborales conocerán de las diferencias o conflictos entre personas trabajadoras y la parte patronal, surgidos de las relaciones de trabajo comprendidas en el artículo 123, Apartado “A”, de la Constitución Política de los Estados Unidos Mexicanos, que no sean competencia de los órganos jurisdiccionales federales.
 
 ## Título Tercero.
 
@@ -645,11 +645,13 @@ Los jueces son inamovibles; la inamovilidad de los jueces se da en su relación 
 
 ###### Artículo 40.
 
-Son obligaciones de los jueces:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+Son obligaciones de las juezas y los jueces:
 
-I. Conocer en primera instancia, de los asuntos civiles, penales, responsabilidad para adolescentes, mercantiles, familiares; y auxiliar a los Tribunales Federales cuando para ello sean requeridos.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
+
+I. Conocer en primera instancia de los asuntos civiles, penales, responsabilidad para adolescentes, mercantiles, familiares y laborales; que se susciten dentro de su jurisdicción y que no sean de competencia federal; y auxiliar a los Tribunales Federales cuando para ello sean requeridos.
 
 II. Calificar las excusas y recusaciones de sus secretarios de acuerdos y de los peritos ante él designados;
 
@@ -917,7 +919,9 @@ De las comisiones.
 
 ###### Artículo 60.
 
-El Consejo de la Judicatura contará con aquellas comisiones permanentes, transitorias o especiales, de composición variable que determine el pleno del mismo, debiendo formarse por lo menos seis comisiones que serán:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2021)</small>
+
+El Consejo de la Judicatura contará con aquellas comisiones permanentes, transitorias o especiales, de composición variable que determine el pleno del mismo, debiendo formarse por lo menos siete comisiones que serán:
 
 I. Comisión de disciplina;
 
@@ -930,6 +934,10 @@ IV. Comisión de adscripción;
 V. Comisión de carrera judicial; y
 
 VI. Comisión de implementación de reformas judiciales.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2021)</small>
+
+VII. Comisión de Igualdad de Género
 
 Cada comisión se formará por tres miembros, de conformidad como lo determinen los propios consejeros.
 
@@ -1545,7 +1553,9 @@ I. Seleccionar, formar, capacitar, actualizar y perfeccionar continuamente a los
 
 II. Incentivar una reforma cultural en la administración de justicia que apunte a una gestión de calidad teniendo en cuenta las expectativas de los distintos operadores del derecho y de la sociedad;
 
-III. Impartir los conocimientos teóricos y prácticos de aplicación específica en la administración de justicia con la finalidad de lograr la eficacia de la función administrativo-judicial;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
+
+III. Impartir los conocimientos teóricos y prácticos de aplicación específica en la administración de justicia con la finalidad de lograr la eficacia de la función administrativo-judicial; debiendo incorporar la perspectiva de género y de derechos humanos en todos sus procesos formativos.
 
 IV. Promover la conciencia de la responsabilidad ética inherente a la función judicial; incorporar a los programas que se implementen el conocimiento de las técnicas de administración eficiente;
 
@@ -2752,3 +2762,23 @@ P.O. 13 DE MARZO DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2414.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 2, EL ARTÍCULO 4, EL PRIMER PÁRRAFO DEL ARTÍCULO 34, EL ÚNICO PÁRRAFO, LA FRACCIÓN I DEL ARTÍCULO 40; Y SE ADICIONA EL ARTÍCULO 37 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente del inicio de la vigencia de la reforma a la Constitución Política del Estado Libre y Soberano de Oaxaca, en materia de justicia laboral, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Poder Ejecutivo Estatal y la Legislatura del Estado de Oaxaca deberán realizar las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros que permitan el cumplimiento del presente decreto.
+
+TERCERO. En un término de 180 días naturales a partir de la publicación del Presente Decreto, los Poderes Ejecutivo y Judicial deberán realizar las modificaciones reglamentarias que sean necesarias para dar cumplimiento al presente Decreto.
+
+CUARTO. La Junta Local de Conciliación y Arbitraje del Estado, seguirá conociendo de los procedimientos que le competan, hasta en tanto entren en funciones los Juzgados Laborales y el Centro Estatal de Conciliación.
+
+QUINTO. La convocatoria a concurso para la selección de personal de los Juzgados Laborales, será de carácter abierto y se garantizará el derecho de participar en igualdad de oportunidades al personal de la Junta Local de Conciliación y Arbitraje del Estado.
+
+P.O. 15 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2425.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 60, LA FRACCIÓN III DEL ARTÍCULO 95 Y SE ADICIONA LA FRACCIÓN VII AL PRIMER PÁRRAFO DEL ARTÍCULO 60 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación; Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
