@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2021-04-08"
+last_updated: "2021-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -4215,27 +4215,31 @@ DELITOS CONTRA LA DIGNIDAD, LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2021)</small>
 
 ###### Artículo 305 Bis.
 
-Comete el delito de cobranza ilegítima quien con la intención de requerir el pago de una deuda ya sea propia del deudor, o quien funja como referencia o aval, utilice cualquier medio ilícito, o efectúe actos de hostigamiento, o intimidación, o amenazas de cualquier índole, o actos de molestia al deudor, sin mediar orden emanada de autoridad competente.
+Comete el delito de cobranza ilegítima, la persona que por cualquier medio requiera en nombre y representación de instituciones Bancarias, Tiendas departamentales o cualquier otra Institución Crediticia, del pago de una deuda propia o de alguien con quien esté ligado por algún vínculo familiar, afectivo, o quien funja como referencia o aval, y este requerimiento se haga fuera de los procedimientos judiciales en la ley o utilice cualquier medio ilícito, o efectué actos de hostigamiento, o intimidación, o amenazas de cualquier índole o actos de molestia al deudor, sin mediar orden emanada de autoridad competente.
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2021)</small>
 
 ###### Artículo 305 Ter.
 
-Se sancionará de uno a cuatro años de prisión y multa de setenta y dos a doscientos ochenta y ocho veces la Unidad de Medida y Actualización, a quien lleve la actividad de cobranza extrajudicial ilegal.
-
-Si en la comisión del delito se utilizara documentos o sellos falsos, la pena y la sanción económica aumentaran una mitad.
-
-Si se incurre en usurpación de funciones o de profesión se aplicarán las reglas del concurso de delitos señalados en el presente Código.
+Se sancionará de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos veces la Unidad de Medida y Actualización, a quien cometa el delito de cobranza ilegitima.
 
 > <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
 
+Si en la comisión del delito se utilizara documentos o sellos falsos, la pena y la sanción económica aumentaran una mitad.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+Si se incurre en usurpación de funciones o de profesión se aplicarán las reglas del concurso de delitos señalados en el presente Código.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2021)</small>
+
 ###### Artículo 305 Quater.
 
-No se considerará como intimidación ilícita, informar aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de acciones legales en contra del deudor, aval, obligado solidario o cualquier relacionado con estos, cuando estas sean jurídicamente posibles.
+No se considerará como intimidación, hostigamiento o amenazas el informar aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de acciones legales en contra del deudor, aval, obligado solidario o cualquier relacionado con estos, cuando estas sean jurídicamente posibles.
 
 ### CAPÍTULO I. TERRORISMO
 
@@ -6612,6 +6616,14 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 8 DE ABRIL DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 518.- QUE CONTIENE REFORMA AL PÁRRAFO CUARTO Y SE ADICIONAN UN QUINTO PÁRRAFO AL ARTÍCULO 297, SE REFORMA Y SE ADICIONAN TRES INCISOS AL ARTÍCULO 299, AMBOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 511.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 305 BIS, 305 TER Y 305 QUATER, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
