@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2021-05-12"
+last_updated: "2021-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -1868,6 +1868,16 @@ Le corresponde a los Ayuntamientos de los Municipios expedir la reglamentación 
 ###### Artículo 135.
 
 Las Instituciones Policiales de los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, Apodaca, General Escobedo, Santiago, Juárez, Cadereyta Jiménez y García, Nuevo León, y la Secretaría; se coordinarán en un esquema intermunicipal denominado como Policía Metropolitana o por sus siglas METROPOL, con el objeto de diseñar en conjunto las estrategias operativas para prevenir y controlar conductas delictivas o infracciones administrativas que afectan la paz, el orden y la tranquilidad pública de sus habitantes, coordinándose con las autoridades del sistema de Seguridad Pública del Estado o de la Federación, según corresponda, para ejercer funciones de intervención, control o de reacción frente a delitos de alto impacto social o que la legislación penal califica de graves.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2021)</small>
+
+###### Artículo 135 Bis.
+
+Las Policías de los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, Apodaca, General Escobedo, Santiago, Juárez, Cadereyta Jiménez y García, se coordinarán con las instituciones de procuración de justicia a través de la Policía Metropolitana de Investigación o por sus siglas PMI, con el objeto de establecer los principios y las reglas en la investigación de los delitos.
+
+La facultad de conducción y mando del Ministerio Público, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, tendrá por objetivos específicos garantizar la eficacia de la persecución del delito mediante una investigación ordenada y coherente; garantizar que los datos de prueba obtenidos durante la investigación puedan ser utilizados en el proceso penal para el esclarecimiento de los hechos y la reparación del daño; así como la tutela de los derechos humanos de las víctimas, personas imputadas y testigos.
+
+La Policía Metropolitana de Investigación ejecutará protocolos y diligencias eficaces que aseguren el intercambio de información, en las que se privilegiará el uso de la tecnología aplicada a la investigación de los delitos, de conformidad con las disposiciones aplicables necesarias para el cumplimiento de sus atribuciones.
 
 ###### Artículo 136.
 
@@ -3870,5 +3880,11 @@ P.O. 30 DE DICIEMBRE DE 2020.
 P.O. 12 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 488. SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 2, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 30, LA FRACCIÓN III DEL ARTÍCULO 34, LA FRACCIÓN IV DEL ARTÍCULO 54, EL INCISO B) DE LA FRACCIÓN I DEL ARTÍCULO 57, LA FRACCIÓN III DEL ARTÍCULO 122, EL TERCER PÁRRAFO DEL ARTÍCULO 226 TODOS DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 485. SE ADICIONA EL ARTÍCULO 135 BIS A LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
