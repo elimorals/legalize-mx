@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-privada-para-el-estado-de-nuevo-leon-56448"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-25"
-last_updated: "2020-12-30"
+last_updated: "2021-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de julio de 2007.
 
@@ -383,7 +383,9 @@ II.- Póliza de Fianza expedida por institución legalmente autorizada a favor d
 
 Para el desempeño de sus funciones, los directores, administradores, gerentes y personal administrativo de los prestadores de servicios deberán reunir los siguientes requisitos:
 
-I.- No haber sido sancionado por delito doloso;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
+
+I.- No haber sido condenado por delito doloso;
 
 II.- No haber sido separados o cesados de las fuerzas armadas o de alguna institución de seguridad federal, estatal, municipal o privada, o de procuración de justicia, por alguno de los siguientes motivos:
 
@@ -722,3 +724,9 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 489. SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 26 DE LA LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
