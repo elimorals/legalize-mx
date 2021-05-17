@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-educacion-para-el-estado-de-tlaxcala-143221"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-26"
-last_updated: "2020-05-26"
+last_updated: "2021-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 26 de mayo de 2020.
 
@@ -265,7 +265,11 @@ III. La participación activa en la transformación de la sociedad, al emplear e
 
 IV. Impulsar la conservación y protección del medio ambiente, y la sostenibilidad con el fin de hacer conciencia de una explotación racional de los recursos y de los temas sociales, culturales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación;
 
-V. Estimular y coordinar con las autoridades competentes la realización de programas de educación para la salud, así como campañas para fomentar la convivencia escolar positiva y las relativas a la prevención, combate y erradicación de la violencia escolar en cualquiera de sus posibilidades, los vicios como la drogadicción, el alcoholismo, el tabaquismo y demás adicciones nocivas, y
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
+
+V. Estimular y coordinar con las autoridades competentes la realización de programas de educación para la salud, así como campañas para fomentar la convivencia escolar positiva y las relativas a la prevención, combate y erradicación de la violencia escolar en cualquiera de sus posibilidades, los vicios como la drogadicción, el alcoholismo, el tabaquismo y demás adicciones nocivas.
+
+Como parte de la educación para la salud, se implementarán acciones que promuevan hábitos para una alimentación, sana y de calidad, procurando el consumo de productos bajos en azúcares, sodio, grasas saturadas y calorías, y
 
 VI. El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres del Estado.
 
@@ -1855,7 +1859,7 @@ X. Plazo y domicilio de la autoridad ante la que debe presentarse el escrito de 
 
 Al inicio de la visita, el servidor público comisionado exhibirá su credencial oficial vigente con fotografía, expedida por la Autoridad Educativa y entregará en ese acto la orden de visita a la persona con quien se dirija la diligencia.
 
-En (el) supuesto de que la Institución Educativa se encuentre cerrado (sic) al momento de realizar la visita, la orden se fijará en lugar visible del domicilio, circunstanciando ese hecho para los fines legales a que tenga lugar.
+En (sic) supuesto de que la Institución Educativa se encuentre cerrado (sic) al momento de realizar la visita, la orden se fijará en lugar visible del domicilio, circunstanciando ese hecho para los fines legales a que tenga lugar.
 
 ###### Artículo 167.
 
@@ -2214,3 +2218,17 @@ SECRETARIO DE GOBIERNO
 JOSÉ AARÓN PÉREZ CARRO
 
 Rúbrica y sello
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 333.- SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TLAXCALA; DE LA LEY DE SALUD DEL ESTADO DE TLAXCALA Y DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan al presente decreto.
