@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2021-04-19"
+last_updated: "2021-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -5627,9 +5627,11 @@ De igual manera, se podrá considerar como trabajo comunitario, la asistencia a 
 
 El Juez Municipal, a efecto de aplicar las sanciones administrativas que señala este Código, deberá de verificar si existe adecuación de la conducta del infractor con la falta descrita.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 326.
 
-Para fijar el importe de la multa económica, el Juez Municipal tomará en cuenta, la situación económica del infractor, su peligrosidad, la conducta desplegada al momento de ser detenido, y los antecedentes del infractor.
+Para fijar el importe de la multa económica, el Juez Municipal tomará en cuenta, la situación económica del infractor, su peligrosidad, la conducta desplegada al momento de ser detenido, los antecedentes del infractor, así como la reincidencia.
 
 ###### ARTÍCULO 327.
 
@@ -6153,11 +6155,15 @@ Cuando una falta pueda ser considerada bajo dos o más aspectos y cada uno de el
 
 El Juez Municipal podrá, a su juicio, amonestar o advertir; o bien reducir hasta la mínima las sanciones señaladas en este capítulo por la comisión de faltas de policía, de acuerdo con la peligrosidad en la conducta del infractor.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 356.
 
-En el caso de reincidencia el Juez Municipal podrá duplicar el máximo de las sanciones pecuniarias que establece este capítulo.
+En el caso de reincidencia el Juez Municipal deberá duplicar el máximo de las sanciones pecuniarias que establece este capítulo.
 
 Se considerará reincidente al que haya cometido la misma falta en un lapso menor a un año de ejecutada la primera u otra dentro de la misma clasificación de protección de valores que indica este capítulo.
+
+En el supuesto de la reincidencia el Juez Municipal conforme a la gravedad de la falta y conforme a lo establecido en el artículo 8 del Reglamento de Servicio Comunitario del Municipio de Aguascalientes y según lo considere oportuno y necesario impondrá como sanción administrativa el servicio comunitario de treinta y seis horas y su ejecución será en términos de lo dispuesto en el mismo ordenamiento jurídico; lo anterior no será aplicable a las faltas clasificadas como graves y muy graves por la Ley de Movilidad del Estado de Aguascalientes y el Reglamento de Movilidad del Municipio de Aguascalientes.
 
 (REUBICADO [N. DE E. ANTES APARTADO DÉCIMO PRIMERO], P.O. 9 DE ENERO DE 2017)
 
@@ -24928,3 +24934,11 @@ P.O. 19 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 140 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 ÚNICO.- La presente reforma al artículo 140 del Código Municipal de Aguascalientes, iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS A LOS ARTÍCULOS 326 Y 356 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, ASÍ COMO AL ARTÍCULO 8° DEL REGLAMENTO DE SERVICIO COMUNITARIO DEL MUNICIPIO DE AGUASCALIENTES Y LA REFORMA AL ARTÍCULO 150 DEL REGLAMENTO DE MOVILIDAD DEL MUNICIPIO DE AGUASCALIENTES".]
+
+PRIMERO.- La presente reforma al artículo 326 y 356 del Código Municipal de Aguascalientes, iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se instruye a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno para que a través de la Dirección de Justicia Municipal, se realicen los trámites legales y administrativos conducentes para la aplicación de la presente reforma.
