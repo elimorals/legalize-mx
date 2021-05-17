@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2021-01-20"
+last_updated: "2021-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -167,7 +167,9 @@ XXIX. Padrón.- Relación oficial de las personas beneficiarias atendidas por lo
 
 XXX. Patronato.- Consejo formado para apoyar a que el Organismo cumpla debidamente con su objeto otorgado por esta Ley;
 
-XXXI. Persona con discapacidad.- Toda persona que por razón congénita o adquirida, presenta una o más deficiencias de carácter físico, mental, psicológico, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, puede impedir su inclusión plena y efectiva en igualdad de condiciones con los demás;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
+
+XXXI. Persona con discapacidad.- Toda persona que por razones congénitas o adquirida, presenta una o más deficiencias de carácter físico, mental, psicológico, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, puede impedir su inclusión plena y efectiva en igualdad de condiciones con los demás;
 
 XXXII. Persona en Situación de Calle.- Persona que por factores multicausales, que pueden ser derivados por situaciones de abuso o maltrato o frustración en alguna etapa de su vida, padecen un mayor número de desórdenes mentales (depresión, niveles altos de angustia, ideas paranoides y psicosis, entre otros) o problemas adictivos (drogas y alcohol) que les ocasiona se olviden de cuidar de sí mismos y deambulen por las calles, lo que implica que no puedan garantizarse por ellos mismos su salud ni bienestar;
 
@@ -195,7 +197,9 @@ XLIII. Trata de personas.- La captación, transporte, traslado, acogida o la rec
 
 Dicha explotación incluirá como mínimo, la explotación de la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o las prácticas análogas a la esclavitud, la servidumbre o la extracción de órganos;
 
-XLIV. Víctima.- Persona que ha sufrido una pérdida, daño o lesión, sea en su persona propiamente dicha, su propiedad o sus derechos humanos;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
+
+XLIV. Víctima.- Persona que ha sufrido un daño o menoscabo económico, físico, mental, emocional, o en general cualquiera puesta en peligro o lesión a sus bienes jurídicos o derechos como consecuencia de la comisión de un delito o violaciones a sus derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte;
 
 XLV. Violencia Escolar.- Conducta agresiva e intencionada con el objeto de intimidar y/o someter de manera verbal, psicológica, física, sexual y/o por exclusión social, que se presenta entre uno o más miembros de la misma comunidad educativa, dentro y/o fuera de las instalaciones de la institución, que ponga en riesgo la convivencia escolar;
 
@@ -288,6 +292,10 @@ k Bis. Ser hijos de padres que padezcan enfermedades terminales o en condiciones
 > <small>(ADICIONADO, P.O. 31 DE JULIO DE 2018)</small>
 
 k Ter. Ser huérfanos;
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2021)</small>
+
+k Quater. Ser hijo o hija de víctima de feminicidio;
 
 l. Ser migrantes y repatriados; y
 
@@ -403,9 +411,17 @@ II.- Proporcionar los datos que le sean requeridos mediante diversas herramienta
 
 III.- Hacerse completamente responsable del uso y conservación de los equipos y materiales que se le entreguen derivados de los programas asistenciales;
 
-IV.- Proporcionar la información necesaria para su inclusión en el Registro de beneficiarios de los programas de asistencia social; y
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
 
-V.- Acreditar fehacientemente el buen uso y destino correcto de los recursos aportados por el Organismo.
+IV.- Proporcionar la información necesaria para su inclusión en el Registro de beneficiarios de los programas de asistencia social;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
+
+V.- Acreditar fehacientemente el buen uso y destino correcto de los recursos aportados por el Organismo; y
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2021)</small>
+
+VI.- Respetar a la persona que preste el servicio o auxilio, así como, conservar la infraestructura en un estado óptimo para su goce y disfrute.
 
 ### CAPÍTULO III. De los Servicios y Acciones de Asistencia Social
 
@@ -425,11 +441,11 @@ Se consideran servicios de asistencia social, al conjunto de acciones tendientes
 
 > <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-I. La prestación de servicios de asistencia jurídica;
+I.- La prestación de servicios de asistencia jurídica;
 
 > <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-II. La atención en espacios especializados para quienes son sujetos de esta Ley;
+II.- La atención en espacios especializados para quienes son sujetos de esta Ley;
 
 III.- El otorgamiento de atención de carácter integral en donde se impulse el desarrollo y bienestar de individuos, la familia y grupos de manera corresponsable;
 
@@ -457,9 +473,9 @@ XIV.- Las análogas y conexas a las anteriores que tienden a incrementar o modif
 
 XV.- La realización de investigaciones sobre las causas y efectos de la problemática social vigente y sus tendencias en materia de asistencia social;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
 
-XVI.- La prestación de servicios funerarios;
+XVI.- La prestación de servicios funerarios, así como de representación, asistencia jurídica, orientación y acompañamiento a los familiares de hidalguenses que, habiendo fallecido en el extranjero, requieran el traslado de sus restos a su lugar de origen para su inhumación;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE ENERO DE 2021)</small>
 
@@ -1303,6 +1319,10 @@ V.- Otorgar servicios y apoyo a la población sujeta de asistencia social que se
 
 VI.- Otorgar facilidades para la construcción o instalación de infraestructura dependiente del Organismo para atender problemáticas sociales a nivel municipio o región;
 
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2021)</small>
+
+VI BIS.- La apertura y operación de albergues y refugios permanentes, para la atención temporal de los sujetos de asistencia social señalados en este ordenamiento;
+
 VII.- Otorgar facilidades para la implementación de programas y/o proyectos en materia de asistencia social dependientes del Organismo;
 
 VIII.- Signar convenios de colaboración interinstitucional con las tres órdenes de gobierno Federal, Estatal y Municipal, así como con Organismos no Gubernamentales para la implementación de programas y proyectos en materia de asistencia social que potencialicen el desarrollo a nivel regional;
@@ -1321,9 +1341,17 @@ XIV.- Resguardar y custodiar los bienes muebles e inmuebles que el Organismo les
 
 XV.- Realizar acciones de coordinación con la Procuraduría a efecto de proporcionar asesoría jurídica y patrocinar los juicios en materia familiar, en el ámbito municipal de su competencia, velando por los intereses de los sujetos de asistencia social dando prioridad al interés superior de las niñas, niños y adolescentes;
 
-XVI.- Atender y dar seguimiento a los casos de maltrato a los sujetos de asistencia social, que le hagan de su conocimiento; y
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
 
-XVII.- Auxiliar a la Procuraduría en las acciones que ésta requiera para el seguimiento de los asuntos jurídicos o familiares.
+XVI.- Atender y dar seguimiento a los casos de maltrato a los sujetos de asistencia social, que le hagan de su conocimiento;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
+
+XVII.- Auxiliar a la Procuraduría en las acciones que ésta requiera para el seguimiento de los asuntos jurídicos o familiares; y
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2021)</small>
+
+XVIII.- Otorgar servicios funerarios, así como la prestación de orientación, acompañamiento y todas las facilidades administrativas de su competencia, a los familiares de hidalguenses que, habiendo fallecido en el extranjero, requieran el traslado de los restos a su lugar de origen, para su inhumación.
 
 ## TÍTULO SEXTO. DE LA ASISTENCIA SOCIAL PRIVADA
 
@@ -1552,3 +1580,9 @@ P.O. 20 DE ENERO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 712 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
