@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2021-03-11"
+last_updated: "2021-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MAYO DE 2021.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1374,9 +1374,9 @@ A).- Son mexicanos por nacimiento:
 
 I.- Los que nazcan en territorio de la República, sea cual fuere la nacionalidad de sus padres.
 
-> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 2021)</small>
 
-II.- Los que nazcan en el extranjero, hijos de padres mexicanos nacidos en territorio nacional, de padre mexicano nacido en territorio nacional, o de madre mexicana nacida en territorio nacional.
+II.- Los que nazcan en el extranjero, hijos de padres mexicanos, de madre mexicana o de padre mexicano;
 
 > <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 1997)</small>
 
@@ -2000,11 +2000,13 @@ V.- Las aguas de los mares territoriales en la extensión y términos que fija e
 
 VI.- El espacio situado sobre el territorio nacional, con la extensión y modalidades que establezca el propio Derecho Internacional.
 
-> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+> <small>[N. DE E. SE INCLUYEN LAS REFORMAS DE LOS DECRETOS PUBLICADOS EN EL D.O.F. EL 17 DE MAYO DE 2021, EN LOS QUE SE MODIFICAN LAS PORCIONES NORMATIVAS QUE ESTABLECEN LAS DENOMINACIONES DE LAS PARTES INTEGRANTES DE LA FEDERACIÓN "MICHOACÁN DE OCAMPO" Y "VERACRUZ DE IGNACIO DE LA LLAVE", RESPECTIVAMENTE.]</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 2021)</small>
 
 ###### Art. 43.
 
-Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila de Zaragoza, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán y Zacatecas; así como la Ciudad de México.
+Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila de Zaragoza, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán de Ocampo, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz de Ignacio de la Llave, Yucatán y Zacatecas; así como la Ciudad de México.
 
 > <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
@@ -2722,21 +2724,13 @@ IV.- Aprobar anualmente el Presupuesto de Egresos de la Federación, previo exam
 
 El Ejecutivo Federal hará llegar a la Cámara la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos de la Federación a más tardar el día 8 del mes de septiembre, debiendo comparecer el secretario de despacho correspondiente a dar cuenta de los mismos. La Cámara de Diputados deberá aprobar el Presupuesto de Egresos de la Federación a más tardar el día 15 del mes de noviembre.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DÉCIMO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 Cuando inicie su encargo en la fecha prevista por el artículo 83, el Ejecutivo Federal hará llegar a la Cámara la iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos de la Federación a más tardar el día 15 del mes de noviembre.
 
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 2021)</small>
 
-No podrá haber otras partidas secretas, fuera de las que se consideren necesarias, con ese carácter, en el mismo presupuesto; las que emplearán los secretarios por acuerdo escrito del Presidente de la República.
-
-> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
-
-> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
-
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
+No podrá haber partidas secretas en el Presupuesto de Egresos de la Federación.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2008)</small>
 
@@ -8767,3 +8761,27 @@ b) El establecimiento de los Plenos Regionales partirá de la agrupación de Cir
 Sexto. El sistema de creación de jurisprudencia por precedentes, que se incorpora como párrafo décimo segundo al artículo 94 constitucional, entrará en vigor cuando la Suprema Corte de Justicia de la Nación emita el Acuerdo General respectivo, de conformidad con su facultad autorregulatoria prevista en dicho precepto.
 
 Séptimo. Los recursos de reclamación y los de revisión administrativa en contra de las designaciones de juezas, jueces, magistradas y magistrados, que ya se encuentren en trámite y que conforme al nuevo marco constitucional resulten improcedentes, continuarán su tramitación hasta su archivo, sin que puedan declararse sin materia.
+
+D.O.F. 17 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 30 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE NACIONALIDAD”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS (MICHOACÁN DE OCAMPO)”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación. Surtirá efectos exclusivamente para modificar la porción normativa que establece la denominación de la parte integrante de la Federación "Michoacán de Ocampo", por lo que quedan subsistentes las denominaciones de las demás partes de la Federación vigentes al momento de la entrada en vigor.
+
+D.O.F. 17 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS (VERACRUZ DE IGNACIO DE LA LLAVE)”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación. Surtirá efectos exclusivamente para modificar la porción normativa que establece la denominación de la parte integrante de la Federación "Veracruz de Ignacio de la Llave", por lo que quedan subsistentes las denominaciones de las demás partes de la Federación vigentes al momento de la entrada en vigor.
+
+D.O.F. 17 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 74 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PARTIDAS SECRETAS.”]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
