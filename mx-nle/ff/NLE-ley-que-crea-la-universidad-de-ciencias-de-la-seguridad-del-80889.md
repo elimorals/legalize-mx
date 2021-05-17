@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-la-universidad-de-ciencias-de-la-seguridad-del-808
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-15"
-last_updated: "2018-12-28"
+last_updated: "2021-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LA UNIVERSIDAD DE CIENCIAS DE LA SEGURIDAD DEL ESTADO DE NUEVO LEÓN.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de abril de 2011.
 
@@ -399,9 +399,19 @@ IV. Tener experiencia profesional mínima de cinco años en materia de seguridad
 
 V. No ser dirigente de Partido Político;
 
-VI. No ser ministro de culto religioso; y
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
 
-VII. Haberse distinguido en su especialidad, prestar o haber prestado servicios docentes o de investigación en el ámbito Universitario, y gozar de estimación general como persona honorable y prudente.
+VI. No ser ministro de culto religioso;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
+
+VII. Haberse distinguido en su especialidad, prestar o haber prestado servicios docentes o de investigación en el ámbito Universitario; y
+
+(NOTA: EL 13 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 96/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2021)</small>
+
+VIII. Ser de notoria buena conducta Y NO HABER SIDO CONDENADO POR SENTENCIA IRREVOCABLE COMO RESPONSABLE DE UN DELITO DOLOSO.
 
 ###### Artículo 30.
 
@@ -578,3 +588,9 @@ P.O. 28 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 032. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 1° DE LA LEY QUE CREA LA UNIVERSIDAD DE CIENCIAS DE LA SEGURIDAD DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 17 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 490. SE REFORMA (SIC) LAS FRACCIONES VI Y VII, Y SE ADICIONA UNA FRACCIÓN VIII AMBOS DEL ARTÍCULO 29 DE LA LEY QUE CREA LA UNIVERSIDAD DE CIENCIAS DE LA SEGURIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial del Estado.
