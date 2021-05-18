@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-proteccion-de-los-migrantes-y-sus-123004
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-18"
-last_updated: "2019-12-23"
+last_updated: "2021-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2021.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 18 de agosto de 2017.
 
@@ -113,7 +113,9 @@ XXI. Secretaría: Secretaría del Migrante.
 
 Los órganos del Estado garantizarán y promoverán el ejercicio pleno de los derechos humanos de los migrantes establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, los instrumentos internacionales que, en la materia, México sea parte, así como, en la normatividad secundaria, siempre que maximice los derechos de las personas.
 
-Los presentes derechos se harán extensivos a las familias de los migrantes. Cuando exista vínculo legal, se considerará el parentesco hasta la tercera generación, entendiéndose por generación el parentesco por consanguinidad en línea recta. Cuando no exista vínculo legal, para efectos de verificar que se es familia, la Secretaría deberá comprobar dicha relación entre los sujetos, atendiendo a los lineamientos que al efecto emita; dicha comprobación no deberá ser, materialmente, de imposible cumplimiento.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2021)</small>
+
+Los presentes derechos se harán extensivos a las familias de los migrantes. Para tal efecto, el parentesco se acreditará de conformidad con lo que estipula el Código Familiar para el Estado de Michoacán de Ocampo; y para aquellas personas que no tenga (sic) un parentesco consanguíneo, adopción o de afinidad, la Secretaría acreditará su vínculo, atendiendo a los lineamientos que para tal efecto emita, sin que éstos sean materialmente imposibles de acreditar:
 
 Además de los derechos ya referidos, se otorgarán los siguientes:
 
@@ -121,7 +123,9 @@ I. Acceder a los programas de desarrollo humano, social y económico;
 
 II. A los servicios que presta la Administración Pública Estatal y Municipal;
 
-III. Recibir acompañamiento para acceder a los programas u obtener recursos ante instancias nacionales, sean federales, estatales o municipales, así como, internacionales, ya sean públicas o privadas;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2021)</small>
+
+III. Recibir orientación jurídica, apoyo y acompañamiento para acceder a los programas u obtener recursos ante instancias Nacionales ya sean de la Federación, del Estado y/o del Municipio, e Internacionales, ya sean públicos o privados; salvaguardo en todo momento el principio de interés superior de la niñez;
 
 IV. A un trato digno, respetuoso, oportuno y con calidad humana;
 
@@ -141,13 +145,25 @@ X. Ser consultados y participar en temas relacionados con la migración para la 
 
 XI. Recibir acompañamiento de la Secretaría ante las autoridades competentes, para realizar los trámites necesarios relacionados con su nacionalidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2021)</small>
 
-XII. Recibir apoyo dirigido a mejorar la condición social de la población femenina migrante y la erradicación de todas las formas de discriminación en su contra; y,
+XII. Recibir apoyo dirigido a mejorar la condición social de la población femenina migrante y la erradicación de todas las formas de discriminación en su contra;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2021)</small>
 
-XIII. Las demás que les confieran las normas jurídicas aplicables.
+XIII. Contar con interpretación y traducción cuando su idioma sea distinto al español en procesos y trámites legales; y,
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2021)</small>
+
+XV (SIC). Las demás que les confieran las normas jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2021)</small>
+
+###### Artículo 4 Bis.
+
+Tratándose de niñas, niños y adolescentes migrantes no acompañados, la protección y respeto de los derechos humanos será preponderante para todas las autoridades del Estado y los Municipios.
+
+Todas las autoridades, en el ámbito de sus respectivas competencias, deberán proteger la integridad y respeto a los derechos humanos de las personas extranjeras identificadas como víctimas de delitos, otorgando las facilidades de protección y denuncia de hechos presuntamente constitutivos de delito ante la autoridad en la materia.
 
 ###### Artículo 5.
 
@@ -155,13 +171,17 @@ La matrícula consular es un documento que reconocerán y aceptarán los órgano
 
 ### CAPÍTULO TERCERO. DE LAS POLÍTICAS PÚBLICAS PARA LOS MIGRANTES
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2021)</small>
+
 ###### Artículo 6.
 
-Las políticas públicas deberán atender las materias de cultura, educación, juventud, equidad de género, salud, justicia, turismo y desarrollo económico, rural y social, entre otras que los beneficien.
+Las políticas públicas deberán atender las materias de cultura, educación, juventud, equidad de género, salud, justicia, turismo, desarrollo económico, medio ambiente, rural y social, entre otras que los beneficien.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2021)</small>
 
 ###### Artículo 7.
 
-En la generación de las políticas públicas a cargo de los órganos del Estado, conforme a sus respectivos ámbitos de competencia, se observará como criterio obligatorio el reconocer, promover y garantizar los derechos establecidos en la presente Ley, así como:
+En la generación de las políticas públicas a cargo de los órganos del Estado, conforme a sus respectivos ámbitos de competencia, se observará como criterio obligatorio el reconocer, promover y garantizar los derechos establecidos en la Legislación General, Federal, Estatal y la presente Ley, bajo los principios de universalidad, progresividad, interdependencia, indivisibilidad, igualdad y equidad de género e interés superior de la niñez; así como:
 
 I. Contribuir a resolver las causas que originan la migración;
 
@@ -210,6 +230,10 @@ XXI. Los demás que contribuyan al mejoramiento de las condiciones de vida de lo
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 En el caso de las fracciones III, XII, XIV y XX, la Secretaría deberá indicar en los lineamientos que emita, los requisitos para poder acceder a los programas y beneficios, debiendo considerar a los migrantes que retornaron al Estado en el lapso de un año.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2021)</small>
+
+Para el cumplimiento de estas obligaciones, la Secretaría promoverá convenios con la Secretaría de Relaciones Exteriores, para dar apoyo a través de los diversos Consulados Mexicanos a todos los migrantes michoacanos.
 
 ###### Artículo 8.
 
@@ -265,7 +289,9 @@ I. Promover y garantizar el cumplimiento de esta Ley;
 
 II. Brindar acompañamiento a los migrantes michoacanos y sus familias para que puedan acceder a sus derechos de seguridad social en el extranjero, así como, a los beneficios en su calidad de ex trabajadores migratorios mexicanos, ante las dependencias correspondientes;
 
-III. Elaborar, promover, implementar y evaluar las políticas públicas para los migrantes y sus familias a fin de garantizar su desarrollo humano con dignidad con base a una nueva valoración y respeto a la condición de migrante, debiendo invitar a los demás órganos del Estado para conocer su opinión, quienes deberán remitir sus propuestas;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2021)</small>
+
+III. Elaborar, promover, implementar y evaluar las políticas públicas, mismas que deberán contener principios fundamentales de los derechos humanos, igualdad y equidad de género, así como al interés superior de la niñez, a fin de garantizar que los migrantes y sus familias tengan un desarrollo digno, tanto en el territorio nacional como en el extranjero. Para lo cual, la Secretaría, invitará a los demás órganos del Estado para conocer su opinión y en su caso remitir sus propuestas;
 
 IV. Implementar programas que tengan como finalidad facilitar la reinserción de los michoacanos a su comunidad de origen, siempre que hayan tenido la condición de migrante, y el fortalecimiento de la identidad y cultura de los migrantes michoacanos;
 
@@ -305,9 +331,35 @@ XXI. Proponer al Gobernador del Estado la celebración de convenios y acuerdos p
 
 XXII. Difundir la información respecto a las políticas públicas dirigidas a los migrantes y sus familias, así como los acuerdos del Consejo Estatal;
 
-XXIII. Difundir las actividades y programas del sector público y privado de interés para los migrantes; y,
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2021)</small>
 
-XXIV. Las demás que le confieren las normas jurídicas aplicables.
+XXIII. Difundir las actividades y programas del sector público y privado de interés para los migrantes;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2021)</small>
+
+XXIV. Gestionar ante las instancias competentes el otorgamiento de facilidades a los migrantes y sus familias para la obtención y envío de documentos oficiales, de identidad, estudios, propiedad y otros de carácter público que les sean necesarios;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2021)</small>
+
+XXV. Proporcionar asesoría, atención y protección a los migrantes víctimas de delitos ante las instancias competentes;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2021)</small>
+
+XXVI. Promover, en coordinación con las dependencias competentes, la realización de operativos tendientes al buen tránsito de migrantes por el Estado, otorgando en el ámbito de su competencia, asesoría, asistencia y seguridad;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2021)</small>
+
+XXVII. Coadyuvar con los órganos competentes, con los ayuntamientos y con los grupos organizados de michoacanos migrantes en el extranjero, la ejecución de acciones de beneficio social, de conformidad con la normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2021)</small>
+
+XXVIII. Proponer a las autoridades competentes la implementación de las acciones necesarias para prevenir y contrarrestar las causas generadoras de la migración forzada por el cambio climático;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2021)</small>
+
+XXIX. Firmar convenios de colaboración con el Poder Judicial del Estado y demás Instituciones del Gobierno Mexicano, así como de los países con mayor migración, a fin de asegurar que los hijos de migrantes no sean sustraídos sin autorización de quien legalmente tenga la guardia y custodia; y,
+
+XXX. Las demás que le confieren las normas jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
@@ -701,9 +753,11 @@ III. Signar las actas de las sesiones a las que asistan.
 
 ### CAPÍTULO PRIMERO. DEL BANCO DE DATOS DE MIGRANTES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2021)</small>
+
 ###### Artículo 25.
 
-La Secretaría integrará, organizará y operará el Banco de Datos de Migrantes del Estado de Michoacán de Ocampo, mediante un registro; para su elaboración contará con la colaboración de los órganos del Estado, entidades de la Administración Pública Federal, federaciones y clubes de migrantes, y deberá contener como mínimo:
+La Secretaría integrará, organizará y operará el Banco de Datos de Migrantes del Estado de Michoacán de Ocampo, mediante un registro detallado de los migrantes y sus familias en el extranjero; para su elaboración contará con el apoyo de los órganos del Estado de Michoacán, y se coordinará con las diversas entidades de la Administración Pública Federal, Federaciones y Clubes de Migrantes y deberá contener como mínimo:
 
 I. Nombre;
 
@@ -717,7 +771,9 @@ V. Sexo;
 
 VI. Edad;
 
-VII. Estado civil;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2021)</small>
+
+VII. Estado Civil; nombre y domicilio de su esposa, esposo, concubina, concubino e hijos; de éstos últimos, además se registrará la edad y si existe algún proceso judicial sobre alimentos o guardia y custodia.
 
 VIII. Nacionalidad;
 
@@ -793,7 +849,9 @@ II. Coadyuvar con la Secretaría para brindar los servicios y programas autoriza
 
 III. Brindar orientación, asesoría y acompañamiento a los migrantes michoacanos en todo trámite legal o administrativo;
 
-IV. Proponer a la Secretaría políticas y acciones que resulten en beneficio de los migrantes michoacanos;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2021)</small>
+
+IV. Proponer a la Secretaría políticas y acciones que resulten en beneficio de los migrantes y sus familias, mismas que deberán estar apegadas a los derechos humanos, igualdad y equidad de género y al interés superior de la niñez;
 
 V. Investigar y proponer a la Secretaría la celebración de convenios con organismos públicos y privados nacionales o extranjeros para potencializar las acciones de la Secretaría;
 
@@ -1144,3 +1202,9 @@ P.O. 23 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 521 POR EL QUE "SE REFORMA EL PÁRRAFO SEGUNDO, LAS FRACCIONES III Y XII Y SE ADICIONA LA FRACCIÓN XIII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL PÁRRAFO TERCERO DEL ARTÍCULO 4; SE ADICIONA EL ARTÍCULO 4 BIS; SE REFORMA EL ARTÍCULO 6; SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7; SE REFORMAN LAS FRACCIONES III Y XXIII Y SE ADICIONAN LAS FRACCIONES XXIV, XXV, XXVI, XXVII, XXVIII Y XXIX RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 12; Y, SE REFORMA EL PRIMER PÁRRAFO Y SU FRACCIÓN VII DEL ARTÍCULO 25 Y LA FRACCIÓN IV DEL ARTÍCULO 31, TODOS DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para todos los efectos legales a que haya lugar.
