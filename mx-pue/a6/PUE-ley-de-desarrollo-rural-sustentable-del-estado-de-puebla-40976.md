@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-rural-sustentable-del-estado-de-puebla-40976"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-18"
-last_updated: "2020-10-16"
+last_updated: "2021-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2021.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Puebla, el miércoles 18 de agosto de 2004.
 
@@ -378,6 +378,10 @@ La Secretaría, en coordinación con las dependencias correspondientes suscribir
 ###### ARTÍCULO 35.
 
 La Secretaría coordinará el establecimiento y mantenimiento de los mecanismos para la evaluación y registro de las tecnologías aplicables en el Estado, a las diversas condiciones agroambientales y socioeconómicas de los productores, atendiendo a los méritos productivos, las implicaciones y restricciones de las tecnologías, la sustentabilidad y la bioseguridad.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2021)</small>
+
+Cuando la Secretaría tenga conocimiento del uso, manejo o instalación de tecnologías prohibidas por la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, que supongan un riesgo a las actividades agropecuarias, lo informará a la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
@@ -1478,3 +1482,11 @@ P.O. 16 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2021.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado una vez a la entrada en vigor del presente Decreto, contará con ciento ochenta días hábiles para la adecuación de la reglamentación aplicable, en términos del presente Decreto.
