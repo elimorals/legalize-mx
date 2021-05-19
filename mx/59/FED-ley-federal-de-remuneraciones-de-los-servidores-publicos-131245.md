@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-remuneraciones-de-los-servidores-publicos-131245
 country: "mx"
 rank: "ley_federal"
 publication_date: "2018-11-05"
-last_updated: "2019-04-12"
+last_updated: "2021-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131245&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2018-09-13"
 ---
 # LEY FEDERAL DE REMUNERACIONES DE LOS SERVIDORES PUBLICOS, REGLAMENTARIA DE LOS ARTICULOS 75 Y 127 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY FEDERAL DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS, PUBLICADA EN EL D.O.F. DE 19 DE MAYO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY FEDERAL DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS, REGLAMENTARIA DE LOS ARTÍCULOS 75 Y 127 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2021 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 5 de noviembre de 2018.
 
@@ -420,3 +422,17 @@ Segundo.- Dentro del plazo de 30 días siguientes a la entrada en vigor del pres
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Quedan derogadas todas disposiciones que se opongan al contenido del presente Decreto.
+
+D.O.F. 19 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY FEDERAL DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS, REGLAMENTARIA DE LOS ARTÍCULOS 75 Y 127 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 5 DE NOVIEMBRE DE 2018, Y SE EXPIDE LA LEY FEDERAL DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se exceptúa de la aplicación del artículo 9 de la presente Ley a los servidores públicos aludidos en el Artículo Tercero Transitorio del Decreto por el que se reforman y adicionan los artículos 75, 115, 116, 122, 123 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 24 de agosto de 2009, que se encuentren en funciones a la entrada en vigor del presente Decreto y hasta la conclusión de su respectivo periodo.
+
+Tercero. Al momento de la entrada en vigor de la presente Ley quedan sin efectos todas las disposiciones contrarias a la misma.
+
+Cuarto. Se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018.
+
+Quinto. Para la determinación de la Remuneración Anual Máxima aplicable para el ejercicio fiscal de 2022 conforme a lo previsto en el artículo 12, inciso b), de esta Ley, se tomará como base la aprobada para el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2021.
