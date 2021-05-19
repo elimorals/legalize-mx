@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-ii-124877"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-22"
-last_updated: "2018-10-17"
+last_updated: "2021-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-11-28"
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN II
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2021.
 
 Estatuto publicado en la Octava Sección del Diario Oficial de la Federación, el viernes 22 de diciembre de 2017.
 
@@ -97,9 +97,11 @@ Unidades Operativas y Administrativas:
 
 1. Subgerencia de Producción Hidroeléctrica Balsas Santiago.
 
-2. Subgerencia de Producción Termoeléctrica Norpacífico.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
 
-3. Subgerencia de Producción Termoeléctrica Centro Norte.
+2. Subgerencia de Producción Termoeléctrica Occidente
+
+3. (DEROGADO, D.O.F. 19 DE MAYO DE 2021)
 
 4. Subgerencia de Administración y Recursos Humanos.
 
@@ -151,7 +153,9 @@ I. Tomar conocimiento del Plan de Negocios, de las políticas, lineamientos y vi
 
 II. Definir las directrices para la operación de CFE Generación II, alinear sus actividades al Plan de Negocios de la Comisión, así como conducir sus operaciones con base en las mejores prácticas del gobierno corporativo;
 
-III. Designar y remover a propuesta del Director General al siguiente nivel jerárquico de CFE Generación II y concederles licencias, entendiéndose como siguiente nivel jerárquico, el Subgerente de Producción Termoeléctrica Norpacífico, el Subgerente de Producción Termoeléctrica Centro-Norte, el Subgerente de Producción Hidroeléctrica Balsas Santiago, el Subgerente de Administración y Recursos Humanos, el Jefe del Departamento Jurídico y el Jefe del Departamento de Planeación y Finanzas;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+III. Designar y remover a propuesta del Director General al siguiente nivel jerárquico de CFE Generación II y concederles licencias, entendiéndose como siguiente nivel jerárquico, el Subgerente de Producción Termoeléctrica Occidente, el Subgerente de Producción Hidroeléctrica Balsas Santiago, el Subgerente de Administración y Recursos Humanos, el Jefe de Departamento Jurídico y el Jefe de Departamento de Planeación y Finanzas.
 
 IV. Vigilar y evaluar la operación de CFE Generación II;
 
@@ -283,7 +287,9 @@ XXXII. Dirigir la planeación estratégica de asociaciones, alianzas y nuevos ne
 
 XXXIII. Proponer al Consejo la designación y remoción del siguiente nivel jerárquico de CFE Generación II;
 
-XXXIV. Acordar con los Subgerentes de Producción Termoeléctrica Norpacífico, Termoeléctrica Centro Norte e Hidroeléctrica Balsas Santiago, el nombramiento de Superintendentes de Central;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+XXXIV. Acordar con los Subgerentes de Producción Termoeléctrica Occidente e Hidroeléctrica Balsas Santiago, el nombramiento de Superintendentes de Central;
 
 XXXV. Validar la estructura y plantilla de personal para la operación de CFE Generación II, que no corresponda a la estructura orgánica básica prevista en este Estatuto, en coordinación con la Subgerencia de Administración y Recursos Humanos;
 
@@ -435,9 +441,11 @@ XV. Coadyuvar como experto técnico en los procesos de elaboración de requisici
 
 XVI. Coordinar las visitas de supervisión técnica a las Centrales Hidroeléctricas que estén bajo su control, así como dar seguimiento a los hallazgos técnicos que en su caso se detecten.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 17.
 
-A las Subgerencias de Producción Termoeléctrica Norpacífico y Centro Norte les corresponde, además de las funciones genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
+A la Subgerencia de Producción Termoeléctrica Occidente le corresponde, además de las funciones genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
 
 I. Normar y unificar criterios a utilizar en los diversos aspectos técnicos - administrativos que surjan en el ámbito de las Centrales a su cargo;
 
@@ -923,7 +931,7 @@ XXXIII. Las demás que le resulten necesarias para el cumplimiento de las funcio
 
 Las Superintendencias de Centrales estarán jerárquicamente subordinadas a las Subgerencias de Producción a las cuales se encuentren adscritas, y con las funciones previstas en este Estatuto, los manuales o normatividad interna y demás ordenamientos legales aplicables. La CFE Generación II cuenta con las siguientes Superintendencias Generales:
 
-1. Superintendencia Central Hidroeléctrica Las Cruces [Proyecto – 2020*]
+1. (DEROGADO, D.O.F. 19 DE MAYO DE 2021)
 
 2. Superintendencia Central Hidroeléctrica Aguamilpa Solidaridad
 
@@ -943,17 +951,17 @@ Las Superintendencias de Centrales estarán jerárquicamente subordinadas a las 
 
 10. Superintendencia Central Hidroeléctrica Itzícuaro
 
-11. Superintendencia Central Ciclo Combinado Agua Prieta II (incluye termosolar)
+11. (DEROGADO, D.O.F. 19 DE MAYO DE 2021)
 
-12. Superintendencia Central Ciclo Combinado Chihuahua II (El Encino)
+12. (DEROGADO, D.O.F. 19 DE MAYO DE 2021)
 
-13. Superintendencia Central Ciclo Combinado San Lorenzo Potencia
+13. (DEROGADO, D.O.F. 19 DE MAYO DE 2021)
 
-14. Superintendencia Central Ciclo Combinado Poza Rica
+14. (DEROGADO, D.O.F. 19 DE MAYO DE 2021)
 
-15. Superintendencia Central Termoeléctrica Carbón II
+15. (DEROGADO, D.O.F. 19 DE MAYO DE 2021)
 
-16. Superintendencia Central Termoeléctrica Altamira
+16. (DEROGADO, D.O.F. 19 DE MAYO DE 2021)
 
 17. Superintendencia Central Hidroeléctrica Jumatán
 
@@ -973,17 +981,37 @@ Las Superintendencias de Centrales estarán jerárquicamente subordinadas a las 
 
 25. Superintendencia Central Hidroeléctrica Zumpimito
 
-26. Superintendencia Central Ciclo Combinado Tula
+26. (DEROGADO, D.O.F. 19 DE MAYO DE 2021)
 
-27. Superintendencia Central Ciclo Combinado Valle de México
+27. (DEROGADO, D.O.F. 19 DE MAYO DE 2021)
 
-28. Superintendencia Central Ciclo Combinado Valle de México II [Proyecto – 2017*]
+28. (DEROGADO, D.O.F. 19 DE MAYO DE 2021)
 
-29. Superintendencia Central Termoeléctrica Guadalupe Victoria (Lerdo)
+29. (DEROGADO, D.O.F. 19 DE MAYO DE 2021)
 
-30. Superintendencia Central Termoeléctrica Valle de México
+30. (DEROGADO, D.O.F. 19 DE MAYO DE 2021)
 
-31. Superintendencia Central de Combustión Interna Gral. Agustín Olachea A. (Pto. San Carlos)
+31. (DEROGADO, D.O.F. 19 DE MAYO DE 2021)
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+32. Superintendencia Central Termoeléctrica Gral. Manuel Álvarez Moreno (Manzanillo)
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+33. Superintendencia Central Termoeléctrica Manzanillo II
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+34. Superintendencia Central Ciclo Combinado Gral. Manuel Álvarez Moreno (Manzanillo)
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+35. Superintendencia Central Termoeléctrica Presidente Plutarco Elías Calles (Petacalco)
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+36. Superintendencia Central Geotermoeléctrica Los Azufres
 
 ### CAPÍTULO IV. Del Personal de CFE Generación II
 
@@ -1080,3 +1108,9 @@ D.O.F. 17 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DE LAS “MODIFICACIONES Y ADICIONES AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN II PUBLICADO EL 22 DE DICIEMBRE DE 2017”.]
 
 ÚNICO. Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE MAYO DE 2021
+
+## [N. DE E. TRANSITORIO DEL “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN II, PUBLICADO EL 22 DE DICIEMBRE DE 2017”.]
+
+Único.- La presente modificación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
