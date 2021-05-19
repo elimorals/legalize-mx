@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2020-06-03"
+last_updated: "2021-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2021.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -2589,23 +2589,21 @@ Cuando se presente el caso, el(la) Titular del Sujeto obligado, tendrá que nomb
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
-
 ###### ARTÍCULO 218.
 
 Las solicitudes de denuncia de Juicio Político y de Declaración de Procedencia, que se presenten en contra de las y los servidores públicos mencionados en el artículo 179 de la Constitución Política del Estado, se sujetarán a lo dispuesto en la Ley que expida el Poder Legislativo, para tales efectos.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MAYO DE 2021)</small>
 
 ### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
 
 ###### ARTÍCULO 219.
 
-Las denuncias por faltas administrativas en contra de servidores públicos del Congreso, de presidentes municipales, síndicos y regidores de los ayuntamientos, se presentarán ante la Secretaría de Asuntos Legislativos y Jurídicos.
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+(DEROGADO, P.O. 19 DE MAYO DE 2021)
 
 ###### ARTÍCULO 220.
 
-Una vez ratificadas las denuncias, la Secretaría de Asuntos Legislativos y Jurídicos las turnará a la Presidencia de la Mesa Directiva, con el objeto de que se substancie el procedimiento administrativo previsto en la Ley aplicable en materia de responsabilidades administrativas y formule el dictamen que se presentará para su resolución al Pleno, excepto cuando se trate de servidores públicos del Congreso, en que resolverá en definitiva la Presidencia.
+(DEROGADO, P.O. 19 DE MAYO DE 2021)
 
 ## TÍTULO DUODÉCIMO. DE LA ELECCIÓN DE SERVIDORES PÚBLICOS
 
@@ -2681,8 +2679,6 @@ DE LA DECLARACIÓN PATRIMONIAL
 
 ### CAPÍTULO II. DE LAS DENUNCIAS
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
-
 ###### ARTÍCULO 234.
 
 La información relacionada con las declaraciones de situación patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal de las y los servidores públicos del Congreso, deberá presentarse a través de la Plataforma Digital Nacional, de conformidad con lo establecido en la Ley General de Responsabilidades Administrativas.
@@ -2715,21 +2711,21 @@ La información relacionada con las declaraciones de situación patrimonial, de 
 
 (DEROGADO, P.O. 12 DE FEBRERO DE 2020)
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MAYO DE 2021)</small>
+
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 242.
 
-Las denuncias por faltas administrativas en contra de servidores públicos del Congreso, de presidentes municipales, síndicos y regidores de los ayuntamientos, se presentarán ante la Secretaría de Asuntos Legislativos y Jurídicos.
-
-Una vez ratificadas las denuncias, dicha Secretaría las turnará a la Presidencia de la Mesa Directiva, con el objeto de que se substancie el procedimiento administrativo previsto en las disposiciones que resulten aplicables y formule el dictamen que se presentará para su resolución al Pleno, excepto cuando se trate de servidores públicos del Congreso, en que resolverá en definitiva la Presidencia.
+(DEROGADO, P.O. 19 DE MAYO DE 2021)
 
 ###### ARTÍCULO 243.
 
-Si se observaren hechos que pudieran presumirse como conductas delictivas, se harán las denuncias correspondientes, ante la Fiscalía General del Estado, para que proceda conforme a derecho.
+(DEROGADO, P.O. 19 DE MAYO DE 2021)
 
 ###### ARTÍCULO 244.
 
-Es aplicable supletoriamente al presente Título, lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos y el Código de Procedimientos Civiles, ambos ordenamientos del Estado.
+(DEROGADO, P.O. 19 DE MAYO DE 2021)
 
 TÍTULO DECIMOQUINTO
 
@@ -3152,3 +3148,15 @@ P.O. 3 DE JUNIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/1015/2021 II P.O., MEDIANTE EL CUAL SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las denuncias y/o expedientes integrados con motivos de las mismas, materia de responsabilidades administrativas que en su caso se encontraran vigentes a la entrada en vigor del presente Decreto, iniciadas o tramitadas ante la Secretaría de Asuntos Legislativos y Jurídicos del Congreso del Estado, serán remitidas para su continuación y resolución, en su momento, al Órgano Interno de Control que corresponda según cada caso concreto.
