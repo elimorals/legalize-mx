@@ -4,7 +4,7 @@ identifier: "FED-ley-de-hidrocarburos-101933"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2021-05-04"
+last_updated: "2021-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101933&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-08-11"
 
 LEY DE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2021.
 
 Ley publicada en la Segunda Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -2059,17 +2059,11 @@ Petróleos Mexicanos y sus organismos subsidiarios se considerarán como usuario
 
 La Comisión Reguladora de Energía otorgará al Centro Nacional de Control del Gas Natural el Permiso como gestor independiente del Sistema de Transporte y Almacenamiento Nacional Integrado de Gas Natural en un plazo máximo de sesenta días naturales a partir de la emisión del Decreto de creación del referido Centro.
 
-Décimo Tercero.- La Comisión Reguladora de Energía continuará sujetando las ventas de primera mano de Hidrocarburos, Petrolíferos o Petroquímicos a principios de regulación asimétrica con objeto de limitar el poder dominante de Petróleos Mexicanos, en tanto se logra una mayor participación de agentes económicos que propicien el desarrollo eficiente y competitivo de los mercados, para lo cual tomará en cuenta, en lo que proceda, lo establecido en materia de precios en la Ley de Ingresos sobre Hidrocarburos.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
 
-La venta de primera mano se entiende como la primera enajenación, en territorio nacional, que realice Petróleos Mexicanos, sus organismos subsidiarios o divisiones, y cualquier otra empresa productiva del Estado, o una Persona Moral, por cuenta y orden del Estado, a un tercero o entre ellos. Dicha venta deberá realizarse a la salida de las plantas de procesamiento, las refinerías, los puntos de inyección de producto importado, Ductos de Internación o en los puntos de inyección de los Hidrocarburos provenientes de manera directa de campos de producción. Petróleos Mexicanos o sus organismos subsidiarios, así como cualquier otra empresa productiva del Estado, o una Persona Moral, por cuenta y orden del Estado, podrán comercializar Hidrocarburos, Petrolíferos o Petroquímicos siempre que desagregue los distintos servicios que preste y el precio de venta de primera mano del producto de que se trate.
+Décimo Tercero. Al haberse logrado una mayor participación de agentes económicos que propicien el desarrollo eficiente y competitivo de los mercados, se deja sin efectos la facultad otorgada a la Comisión Reguladora de Energía para sujetar a principios de regulación asimétrica las ventas de primera mano de Hidrocarburos, Petrolíferos o Petroquímicos, así como la comercialización que realicen personas controladas por Petróleos Mexicanos o sus organismos subsidiarios.
 
-La comercialización que realicen personas controladas por Petróleos Mexicanos o sus organismos subsidiarios, podrá realizarse en puntos distintos a los señalados en el párrafo anterior. Esta actividad también se sujetará a regulación asimétrica con objeto de limitar el poder dominante de las citadas personas, en tanto se logra una mayor participación de agentes económicos que propicien el desarrollo eficiente y competitivo de los mercados.
-
-La regulación de las ventas de primera mano incluirá la aprobación y expedición de los términos y condiciones generales, así como la expedición de la metodología para el cálculo de sus precios. En estas materias, se deberá observar la práctica común en mercados desarrollados de Hidrocarburos, Petrolíferos y Petroquímicos y los precios deberán reflejar, entre otros, el costo de oportunidad y las condiciones y prácticas de competitividad en el mercado internacional de dichos productos.
-
-En todo caso, se deberán observar las obligaciones de no discriminación previstas en esta Ley.
-
-El incumplimiento de la regulación que la Comisión Reguladora de Energía establezca sobre los términos y condiciones de ventas de primera mano y sus precios, se sancionará por dicha Comisión con multas de ciento cincuenta mil días a setenta y cinco millones de días de salario mínimo general vigente en el Distrito Federal.
+La enajenación que realicen Petróleos Mexicanos, sus empresas productivas subsidiarias, o una Persona Moral, por cuenta y orden del Estado, será considerada como comercialización en términos de lo establecido por la presente Ley y sus Reglamentos, por lo que se deberán observar los principios de generalidad y no indebida discriminación previstos en la misma.
 
 Décimo Cuarto.- En relación con los mercados de gasolina y diésel se observará lo siguiente:
 
@@ -2366,3 +2360,13 @@ Quinto. La autoridad competente privará de efectos jurídicos a los permisos qu
 Sexto. A la entrada en vigor del presente Decreto se revocarán los permisos respecto de los cuales se compruebe que sus titulares no cumplen con los requisitos correspondientes o que infrinjan las disposiciones de la Ley de Hidrocarburos.
 
 Séptimo. A la entrada en vigor del presente Decreto, la Comisión Reguladora de Energía y el Servicio de Administración Tributaria, en el ámbito de sus respectivas competencias, llevarán a cabo los actos conducentes para verificar el cumplimiento de las disposiciones aplicables en materia de medición de hidrocarburos, petrolíferos y petroquímicos, de conformidad con lo previsto en las disposiciones jurídicas correspondientes.
+
+D.O.F. 19 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO DÉCIMO TERCERO TRANSITORIO DE LA LEY DE HIDROCARBUROS, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 11 DE AGOSTO DE 2014”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+Tercero. En un plazo de 30 días naturales a partir de la entrada en vigor del presente Decreto, la Comisión Reguladora de Energía deberá dejar sin efectos los acuerdos, disposiciones administrativas de carácter general, resoluciones y lineamientos relacionados con la imposición de principios de regulación asimétrica a Petróleos Mexicanos y sus organismos subsidiarios, bajo la atribución concedida por la disposición transitoria que se reforma en el presente Decreto.
