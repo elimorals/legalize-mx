@@ -4,7 +4,7 @@ identifier: "LFCPO"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2014-03-14"
-last_updated: "2014-03-14"
+last_updated: "2021-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCPO"
 
 LEY FEDERAL DE CONSULTA POPULAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 14 de marzo de 2014.
 
@@ -52,41 +52,67 @@ La presente Ley es reglamentaria de la fracción VIII del artículo 35 de la Con
 
 La presente Ley tiene por objeto regular el procedimiento para la convocatoria, organización, desarrollo, cómputo y declaración de resultados de la consulta popular y promover la participación ciudadana en las consultas populares.
 
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 3.
 
-La aplicación de las normas de esta Ley corresponde al Congreso de la Unión, a la Suprema Corte de Justicia de la Nación, al Instituto Federal Electoral y al Tribunal Electoral del Poder Judicial de la Federación, en sus respectivos ámbitos de competencia.
+La aplicación de las normas de esta Ley corresponde al Congreso de la Unión, a la Suprema Corte de Justicia de la Nación, al Instituto Nacional Electoral y al Tribunal Electoral del Poder Judicial de la Federación, en sus respectivos ámbitos de competencia.
 
-En el caso del Instituto Federal Electoral, la organización y desarrollo de la consulta popular será responsabilidad de sus direcciones ejecutivas y unidades técnicas en el ámbito central; en lo concerniente a los órganos desconcentrados, serán competentes los consejos y juntas ejecutivas locales y distritales que correspondan.
+En el caso del Instituto, la organización y desarrollo de la consulta popular será responsabilidad de sus direcciones ejecutivas y unidades técnicas en el ámbito central; en lo concerniente a los órganos desconcentrados, serán competentes los consejos y juntas ejecutivas locales y distritales que correspondan.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
 
 ###### Artículo 4.
 
-La consulta popular es el mecanismo de participación por el cual los ciudadanos ejercen su derecho, a través del voto emitido mediante el cual expresan su opinión respecto de uno o varios temas de trascendencia nacional.
+La consulta popular es el instrumento de participación por el cual los ciudadanos, a través de la emisión del voto libre, secreto, directo, personal e intransferible, toman parte de las decisiones de los poderes públicos respecto de uno o varios temas de trascendencia nacional o regional competencia de la Federación.
 
-Los ciudadanos que residan en el extranjero podrán ejercer su derecho al voto en la consulta popular exclusivamente cuando la consulta coincida con la elección de Presidente de los Estados Unidos Mexicanos, aplicando en lo conducente lo dispuesto en el Código Federal de Instituciones y Procedimientos Electorales.
+Los ciudadanos que residan en el extranjero podrán ejercer su derecho al voto en la consulta popular mediante los mecanismos que al efecto determine el Instituto, conforme a lo dispuesto en la Ley General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
 
 ###### Artículo 5.
 
-Serán objeto de consulta popular los temas de trascendencia nacional.
+Serán objeto de consulta popular los temas de trascendencia nacional o regional competencia de la Federación.
 
 La trascendencia nacional de los temas que sean propuestos para consulta popular, será calificada por la mayoría de los legisladores presentes en cada Cámara, con excepción de la consulta propuesta por los ciudadanos, en cuyo caso lo resolverá la Suprema Corte de Justicia de la Nación.
 
-El resultado de la misma es vinculante para los poderes Ejecutivo y Legislativo federales así como para las autoridades competentes, cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+El resultado de la consulta popular, es vinculante para los poderes Ejecutivo y Legislativo federales así como para las autoridades competentes, cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores de la entidad o entidades federativas que correspondan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
 
 ###### Artículo 6.
 
-Se entiende que existe trascendencia nacional en el tema propuesto para una consulta popular cuando contenga elementos tales como:
+Se entiende que existe trascendencia en el tema propuesto para una consulta popular cuando contenga elementos tales como:
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE MAYO DE 2021)</small>
+
+A. Para la Nacional:
 
 I. Que repercutan en la mayor parte del territorio nacional, y
 
 II. Que impacten en una parte significativa de la población.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 19 DE MAYO DE 2021)</small>
+
+B. Para la Regional:
+
+I. Que repercuta en una o más entidades federativas, y
+
+II. Que impacten significativamente en los habitantes de la entidad o las entidades federativas de que se trate.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 7.
 
-Votar en las consultas populares constituye un derecho y una obligación de los ciudadanos para participar en la toma de decisiones sobre temas de trascendencia nacional.
+Votar en las consultas populares constituye un derecho y una obligación de los ciudadanos y ciudadanas para participar en la toma de decisiones sobre temas de trascendencia nacional o regional competencia de la Federación.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
 
 ###### Artículo 8.
 
-La consulta o consultas populares a que convoque el Congreso, se realizarán el mismo día de la jornada electoral federal.
+La consulta o consultas populares a que convoque el Congreso, se realizarán el primer domingo de agosto.
 
 ###### Artículo 9.
 
@@ -94,7 +120,9 @@ Para efectos de esta Ley se entenderá:
 
 I. Aviso de intención: Formato mediante el cual los ciudadanos expresan su voluntad a la Cámara que corresponda de presentar una petición de consulta popular;
 
-II. Código: Código Federal de Instituciones y Procedimientos Electorales;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+II. Ley General: Ley General de Instituciones y Procedimientos Electorales;
 
 III. Congreso: Congreso General de los Estados Unidos Mexicanos;
 
@@ -102,7 +130,9 @@ IV. Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
 V. Convocatoria: Convocatoria de consulta popular expedida por el Congreso de la Unión;
 
-VI. Instituto: Instituto Federal Electoral;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+VI. Instituto: Instituto Nacional Electoral;
 
 VII. Suprema Corte: Suprema Corte de Justicia de la Nación;
 
@@ -124,17 +154,29 @@ IV. No estar suspendido en sus derechos políticos.
 
 No podrán ser objeto de consulta popular:
 
-I. La restricción de los derechos humanos reconocidos por la Constitución;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+I. La restricción de los derechos humanos reconocidos por la Constitución y los respectivos tratados internacionales de los que el Estado Mexicano sea parte;
 
 II. Los principios consagrados en el artículo 40 de la Constitución;
 
-III. La materia electoral;
+> <small>(ADICIONADA, D.O.F. 19 DE MAYO DE 2021)</small>
 
-IV. Los ingresos y gastos del Estado;
+III. La permanencia o continuidad en el cargo de las personas servidoras públicas de elección popular;
 
-V. La seguridad nacional, y
+IV. La materia electoral;
 
-VI. La organización, funcionamiento y disciplina de la Fuerza Armada permanente.
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+V. El sistema financiero, ingresos, gastos y el Presupuesto de Egresos de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+VI. Las obras de infraestructura en ejecución;
+
+VII. La seguridad nacional, y
+
+VIII. La organización, funcionamiento y disciplina de la Fuerza Armada permanente.
 
 ### CAPÍTULO II. DE LA PETICIÓN DE CONSULTA POPULAR
 
@@ -148,37 +190,53 @@ I. El Presidente de la República;
 
 II. El equivalente al treinta y tres por ciento de los integrantes de cualquiera de las Cámaras del Congreso, o
 
-III. Los ciudadanos en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores.
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+III. Las ciudadanas y los ciudadanos en un número equivalente, al menos, al dos por ciento de las personas inscritas en la lista nominal de electores, para el caso de temas de trascendencia nacional, y el mismo porcentaje de las personas inscritas en la lista nominal de electores correspondiente a la entidad o las entidades federativas que correspondan, en el supuesto de los temas relacionados con la trascendencia regional competencia de la Federación.
 
 Los ciudadanos podrán respaldar más de una consulta popular, pero no procederá el trámite de las consultas que sean respaldadas por los mismos ciudadanos cuando estos rebasen el veinte por ciento de las firmas de apoyo. En este caso sólo procederá la primera solicitud.
 
 La inobservancia de la prohibición a que se refiere el párrafo anterior se resolverá conforme a las reglas previstas en el artículo 34, fracción IV de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+Cuando la petición provenga de cualquiera de los contemplados en las fracciones I y II del presente artículo estará sujeta a la aprobación de la mayoría de cada Cámara del Congreso de la Unión.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 13.
 
-La petición de consulta popular podrá presentarse ante las Cámaras del Congreso según corresponda, en términos de esta Ley, a partir del uno de septiembre del segundo año de ejercicio de cada legislatura y hasta el quince de septiembre del año previo al en que se realice la jornada electoral federal.
+La petición de consulta popular podrá presentarse ante las Cámaras del Congreso, según corresponda, en términos de esta Ley, hasta el treinta de noviembre del año inmediato anterior al en que se pretenda realizar la jornada de consulta.
 
 #### SECCIÓN SEGUNDA. DEL AVISO DE INTENCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 14.
 
-Los ciudadanos que deseen presentar una petición de consulta popular para la jornada de consulta inmediata siguiente, deberán dar Aviso de intención al Presidente de la Mesa Directiva de la Cámara que corresponda a través del formato que al efecto determine dicha Cámara.
+Las ciudadanas y los ciudadanos que deseen presentar una petición de consulta popular para la jornada de consulta inmediata siguiente, deberán dar Aviso de Intención a la Presidencia de la Mesa Directiva de la Cámara que corresponda a través del formato que al efecto determine dicha Cámara, mismo que deberá mantenerse disponible al público en general en físico y en su página de internet.
 
 El Presidente de la Mesa Directiva de la Cámara que corresponda emitirá en un plazo no mayor a diez días hábiles, una constancia que acredite la presentación del Aviso de intención, que se acompañará del formato para la obtención de firmas y con ello el inicio de los actos para recabar las firmas de apoyo. Las constancias de aviso serán publicadas en la Gaceta Parlamentaria.
 
-La falta de presentación del Aviso de intención, será causa para no admitir a trámite la petición de consulta popular.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
 
-Los formatos, el Aviso de intención y las constancias expedidas, únicamente tendrán vigencia para la consulta popular que se realice en la jornada de consulta inmediata siguiente.
+Las constancias y formatos emitidos conforme a los párrafos anteriores únicamente podrán utilizarse en el proceso de petición de consulta popular para la cual sea presentado el Aviso de Intención.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
 
 ###### Artículo 15.
 
 El formato para la obtención de firmas lo determinarán las Cámaras del Congreso de la Unión, previa consulta al Instituto, preservando que cumpla con los requisitos que señala esta Ley y que deberá contener por lo menos:
 
-I. El tema de trascendencia nacional planteado;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+I. El tema de trascendencia nacional o regional competencia de la Federación planteado;
 
 II. La propuesta de pregunta;
 
-III. El número de folio de cada hoja;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+III. El número de folio de cada hoja en caso de ser impreso;
 
 IV. El nombre, firma, la clave de elector o el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente, y
 
@@ -186,7 +244,17 @@ V. La fecha de expedición.
 
 Si las firmas se presentaran en un formato diverso al entregado por las Cámaras, la propuesta de Consulta Popular no será admitida a trámite.
 
-El Presidente de la Mesa Directiva de la Cámara que corresponda dará cuenta de los Avisos de intención que no hayan sido formalizados con la presentación de la solicitud de consulta popular dentro del plazo establecido por el artículo 13 de esta Ley o que no se hayan entregado en el formato correspondiente para la obtención de firmas, los cuales serán archivados como asuntos total y definitivamente concluidos.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+La Presidencia de la Mesa Directiva de la Cámara que corresponda dará cuenta de los Avisos de Intención que no hayan sido formalizados con la presentación de la solicitud de consulta popular dentro del plazo establecido por el artículo 13 de esta Ley o que no se hayan entregado en el formato correspondiente para la obtención de firmas, los cuales serán archivados como asuntos total y definitivamente concluidos.
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+Una vez definidos por las Cámaras del Congreso de la Unión, los formatos de Aviso de Intención y de obtención de firmas ciudadanas tendrán vigencia permanente. Cualquier modificación a los formatos deberá quedar hecha a más tardar el treinta y uno de marzo del año en el que se pretenda su aplicación en los procesos de petición de consulta popular.
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+Con apego a la información referida en el párrafo primero de este artículo, las Cámaras del Congreso de la Unión, en consulta previa con el Instituto, podrán implementar el uso de instrumentos tecnológicos de entre los formatos definidos para la obtención de firmas ciudadanas, cuando éstos faciliten el acceso de la ciudadanía al ejercicio del derecho constitucional de petición de la consulta popular.
 
 #### SECCIÓN TERCERA. DE LA PRESENTACIÓN
 
@@ -194,9 +262,13 @@ El Presidente de la Mesa Directiva de la Cámara que corresponda dará cuenta de
 
 El Presidente de la República sólo podrá presentar una petición para cada jornada de consulta popular.
 
-Tratándose de las peticiones de consulta popular formuladas por los legisladores integrantes de las Cámaras del Congreso, será objeto de la Convocatoria aquella que sea aprobada por la mayoría de cada una de las Cámaras del Congreso, sin que pueda ser más de una.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
 
-En el caso de las peticiones de ciudadanos, la Convocatoria se expedirá respecto de aquellas que hayan reunido el apoyo ciudadano en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores, de acuerdo al Informe emitido por el Instituto y previa declaración de constitucionalidad y calificación de la trascendencia nacional a cargo de la Suprema Corte.
+Tratándose de las peticiones de consulta popular formuladas por las legisladoras y los legisladores integrantes de las Cámaras del Congreso, serán objeto de la Convocatoria aquellas que sean admitidas por el voto de la mayoría de cada Cámara del Congreso de la Unión sin que puedan ser aprobadas más de una de entre las presentadas por cada cámara.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+En el caso de las peticiones de ciudadanas y ciudadanos, la Convocatoria se expedirá respecto de aquellas que hubieran reunido el apoyo ciudadano a que se hace mención en la fracción III del artículo 12, previa declaración de constitucionalidad y aprobación de la trascendencia nacional o regional a cargo de la Suprema Corte.
 
 ###### Artículo 17.
 
@@ -210,9 +282,11 @@ Tratándose de peticiones formuladas por legisladores federales, se presentarán
 
 El Presidente de la República y los legisladores federales, podrán retirar su solicitud de consulta popular hasta antes de que se publique la Convocatoria en el Diario Oficial de la Federación. Retirada la petición, podrán presentar una nueva petición de consulta, siempre que se realice dentro del plazo establecido en el artículo 13 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 20.
 
-La solicitud que provenga de los ciudadanos se presentará ante el Presidente de la Mesa Directiva de cualquiera de las Cámaras, conforme a la Sección Segunda del presente Capítulo.
+La solicitud que provenga de las ciudadanas y los ciudadanos se presentará ante la Presidencia de la Mesa Directiva de cualquiera de las Cámaras, conforme a la Sección Segunda del presente Capítulo.
 
 #### SECCIÓN CUARTA. DE LOS REQUISITOS
 
@@ -222,7 +296,9 @@ Toda petición de consulta popular deberá estar contenida en un escrito que cum
 
 I. Nombre completo y firma del solicitante o solicitantes;
 
-II. El propósito de la consulta y los argumentos por los cuales el tema se considera de trascendencia nacional, y
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+II. El propósito de la consulta y los argumentos por los cuales el tema se considera de trascendencia nacional o regional competencia de la Federación, según sea el caso, y
 
 III. La pregunta que se proponga para la consulta deberá ser elaborada sin contenidos tendenciosos o juicios de valor y formulada de tal manera que produzca una respuesta categórica en sentido positivo o negativo; y deberá estar relacionada con el tema de la consulta.
 
@@ -258,61 +334,101 @@ En caso de no subsanarse en el plazo establecido, se tendrá por no presentada.
 
 Cuando la petición de consulta popular provenga del Presidente de la República, se seguirá el siguiente procedimiento:
 
-I. El Presidente de la Mesa Directiva de la Cámara de origen dará cuenta de la misma y la enviará directamente a la Suprema Corte junto con la propuesta de pregunta formulada para que resuelva y le notifique sobre su constitucionalidad dentro de un plazo de veinte días naturales;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+I. La Presidencia de la Mesa Directiva de la Cámara de origen dará cuenta de la misma y la enviará directamente a la Suprema Corte junto con la propuesta de pregunta formulada para que resuelva y le notifique sobre su constitucionalidad dentro de un plazo de veinte días naturales;
 
 II. Recibida la solicitud del Congreso para verificar la constitucionalidad de la petición de consulta popular, la Suprema Corte deberá:
 
-a) Resolver sobre la constitucionalidad de la materia de la consulta popular y revisar que la pregunta derive directamente de la materia de la consulta; no sea tendenciosa o contenga juicios de valor; emplee lenguaje neutro, sencillo y comprensible, y produzca una respuesta categórica en sentido positivo o negativo.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+a) Resolver sobre la constitucionalidad de la materia de la consulta popular y revisar que la pregunta derive directamente de la materia de la consulta; no sea tendenciosa o contenga juicios de valor; emplee lenguaje neutro, sencillo, comprensible y, en su caso, su accesibilidad y traducción a lenguas indígenas y produzca una respuesta categórica en sentido positivo o negativo.
 
 b) Realizar las modificaciones conducentes a la pregunta, a fin de garantizar que la misma sea congruente con la materia de la consulta y cumpla con los criterios enunciados en el inciso anterior.
 
 c) Notificar a la Cámara de origen su resolución dentro de las veinticuatro horas siguientes a que la emita;
 
-III. En el supuesto de que la Suprema Corte declare la inconstitucionalidad de la materia de la consulta, el Presidente de la Mesa Directiva de la Cámara de origen, publicará la resolución en la Gaceta Parlamentaria, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
 
-IV. Si la resolución de la Suprema Corte es en el sentido de reconocer la constitucionalidad de la materia, la pregunta contenida en la resolución, no podrá ser objeto de modificaciones posteriores por el Congreso, el Presidente de la Mesa Directiva de la Cámara de origen, publicará la resolución en la Gaceta Parlamentaria y turnará la petición a la Comisión de Gobernación y, en su caso, a las comisiones que correspondan, según la materia de la petición, para su análisis y dictamen;
+III. En el supuesto de que la Suprema Corte declare la inconstitucionalidad de la materia de la consulta, la Presidencia de la Mesa Directiva de la Cámara de origen, publicará la resolución en la Gaceta, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido;
 
-V. El dictamen de la petición deberá ser aprobado por la mayoría de cada Cámara del Congreso; en caso contrario, se procederá a su archivo como asunto total y definitivamente concluido, y
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
 
-VI. Aprobada la petición por el Congreso, éste expedirá la Convocatoria de la consulta popular mediante Decreto, la notificará al Instituto para los efectos conducentes y ordenará su publicación en el Diario Oficial de la Federación.
+IV. Si la resolución de la Suprema Corte es en el sentido de reconocer la constitucionalidad de la materia, la pregunta contenida en la resolución no podrá ser objeto de modificaciones posteriores por el Congreso, la Presidencia de la Mesa Directiva de la Cámara de origen publicará la resolución en la Gaceta y turnará la petición a la Comisión de Gobernación y, en su caso, a las comisiones que correspondan, según la materia de la petición, para su análisis y dictamen;
+
+> <small>(ADICIONADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+V. El dictamen que emitan las comisiones correspondientes en cada Cámara, en caso de proponer la aprobación de la petición de consulta, contendrá un proyecto de Decreto que contenga la Convocatoria, misma que expresará, como mínimo: la Convocatoria a la ciudadanía para que ejerza su derecho a votar en la consulta, la fecha constitucional de la jornada de consulta, la materia y pregunta aprobadas por la Suprema Corte y la notificación al Instituto para los efectos conducentes;
+
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+VI. El dictamen de la petición deberá ser aprobado por la mayoría de cada Cámara del Congreso, dentro de un plazo de veinte días naturales para cada una, en forma sucesiva, contados a partir de la recepción del proyecto, en caso contrario, se procederá a su archivo como asunto total y definitivamente concluido, y
+
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+VII. Aprobada la petición por ambas Cámaras del Congreso, este expedirá el Decreto de Convocatoria de la consulta popular, lo notificará al Instituto para los efectos conducentes y ordenará su publicación en el Diario Oficial de la Federación.
 
 ###### Artículo 27.
 
 Cuando la petición de consulta popular provenga de por lo menos el treinta y tres por ciento de los integrantes de cualquiera de las Cámaras del Congreso, se seguirá el siguiente procedimiento:
 
-I. El Presidente de la Mesa Directiva de la Cámara de origen dará cuenta de la misma y la turnará a la Comisión de Gobernación y, en su caso, a las comisiones que correspondan, según la materia de la petición, para su análisis y dictamen.
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
 
-II. El dictamen de la petición deberá ser aprobado por la mayoría de cada Cámara del Congreso; en caso contrario, se procederá a su archivo como asunto total y definitivamente concluido;
+I. La Presidencia de la Mesa Directiva de la Cámara de origen dará cuenta de la misma y la turnará a la Comisión de Gobernación y, en su caso, a las comisiones que correspondan, según la materia de la petición, para su análisis y dictamen;
 
-III. Aprobada la petición por el Congreso, la Cámara revisora la enviará a la Suprema Corte junto con la propuesta de pregunta para que resuelva y le notifique sobre su constitucionalidad dentro de un plazo de veinte días naturales;
+> <small>(ADICIONADA, D.O.F. 19 DE MAYO DE 2021)</small>
 
-IV. Recibida la solicitud del Congreso para verificar la constitucionalidad de la petición de consulta popular, la Suprema Corte estará a lo dispuesto en la fracción II del artículo 26 de esta Ley;
+II. El dictamen que emitan las comisiones correspondientes en cada Cámara, en caso de proponer la aprobación de la petición de consulta, contendrá un proyecto de Decreto que contenga la Convocatoria, misma que expresará, como mínimo: la Convocatoria a la ciudadanía para que ejerza su derecho a votar en la consulta, la fecha constitucional de la jornada de consulta, la materia y pregunta aprobadas por la Suprema Corte y la notificación al Instituto para los efectos conducentes;
 
-V. En el supuesto de que la Suprema Corte declare la inconstitucionalidad de la materia de la consulta, el Presidente de la Mesa Directiva de la Cámara revisora, publicará la resolución en la Gaceta Parlamentaria, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
 
-VI. Si la resolución de la Suprema Corte es en el sentido de reconocer la constitucionalidad de la materia, el Congreso expedirá la Convocatoria de la consulta popular mediante Decreto, la notificará al Instituto para los efectos conducentes y ordenará su publicación en el Diario Oficial de la Federación.
+III. El dictamen de la petición deberá ser aprobado por la mayoría de cada Cámara del Congreso, dentro de un plazo de veinte días naturales para cada una, en forma sucesiva, contados a partir de la recepción del proyecto, en caso contrario, se procederá a su archivo como asunto total y definitivamente concluido;
+
+IV. Aprobada la petición por el Congreso, la Cámara revisora la enviará a la Suprema Corte junto con la propuesta de pregunta para que resuelva y le notifique sobre su constitucionalidad dentro de un plazo de veinte días naturales;
+
+V. Recibida la solicitud del Congreso para verificar la constitucionalidad de la petición de consulta popular, la Suprema Corte estará a lo dispuesto en la fracción II del artículo 26 de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+VI. En el supuesto de que la Suprema Corte declare la inconstitucionalidad de la materia de la consulta, la Presidencia de la Mesa Directiva de la Cámara revisora publicará la resolución en la Gaceta, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido, y
+
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+VII. Si la resolución de la Suprema Corte es en el sentido de reconocer la constitucionalidad de la materia, la pregunta contenida en la resolución no podrá ser objeto de modificaciones posteriores, el Congreso expedirá el Decreto de Convocatoria de la consulta popular, la notificará al Instituto para los efectos conducentes y ordenará su publicación en el Diario Oficial de la Federación.
 
 ###### Artículo 28.
 
 Cuando la petición provenga de los ciudadanos se seguirá el siguiente procedimiento:
 
-I. Recibida la petición por el Presidente de la Mesa Directiva de la Cámara que corresponda, la publicará en la Gaceta Parlamentaria, dará cuenta de la misma y solicitará al Instituto que en un plazo de treinta días naturales, verifique que ha sido suscrita, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
 
-II. En el caso de que el Instituto determine que no cumple con el requisito establecido en el artículo 35, fracción VIII, numeral 1o., inciso c) de la Constitución, el Presidente de la Mesa Directiva de la Cámara que corresponda, publicará el informe en la Gaceta Parlamentaria, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido;
+I. Recibida la petición por la Presidencia de la Mesa Directiva de la Cámara que corresponda, la publicará en su Gaceta, dará cuenta de la misma y solicitará al Instituto que en un plazo de treinta días naturales, verifique que ha sido suscrita bajo los parámetros establecidos en el artículo 35, fracción VIII, numeral 1o., inciso c) de la Constitución Federal y la fracción III del artículo 12 de la presente Ley;
+
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+II. En el caso de que el Instituto determine que no cumple con el requisito señalado en la fracción anterior, y una vez que dicha determinación quede firme frente a cualquier impugnación o vencido el plazo para que sea presentada, la Presidencia de la Mesa Directiva de la Cámara que corresponda, publicará el informe en su Gaceta, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido;
 
 III. En el caso de que el Instituto determine que se cumple el requisito establecido en la fracción I, el Presidente de la Mesa Directiva de la Cámara que corresponda, publicará el informe en la Gaceta Parlamentaria y enviará la petición a la Suprema Corte, junto con la propuesta de pregunta de los peticionarios para que resuelva sobre su constitucionalidad dentro de un plazo de veinte días naturales;
 
-IV. Recibida la solicitud del Presidente de la Mesa Directiva de la Cámara que corresponda para verificar la constitucionalidad de la petición de consulta popular, la Suprema Corte deberá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE MAYO DE 2021)</small>
 
-a) Resolver sobre la constitucionalidad de la materia de la consulta popular y revisar que la pregunta derive directamente de la materia de la consulta; no sea tendenciosa o contenga juicios de valor; emplee lenguaje neutro, sencillo y comprensible; y produzca una respuesta categórica en sentido positivo o negativo.
+IV. Recibida la solicitud (sic) la Presidencia de la Mesa Directiva de la Cámara que corresponda para verificar la constitucionalidad de la petición de consulta popular, la Suprema Corte deberá:
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+a) Resolver sobre la constitucionalidad de la materia de la consulta popular y revisar que la pregunta derive directamente de la materia de la consulta; no sea tendenciosa o contenga juicios de valor; emplee lenguaje neutro, sencillo, comprensible y, en su caso, su accesibilidad y traducción a lenguas indígenas y produzca una respuesta categórica en sentido positivo o negativo.
 
 b) Realizar, en su caso, las modificaciones conducentes a la pregunta, a fin de garantizar que la misma sea congruente con la materia de la consulta y cumpla con los criterios enunciados en el inciso anterior.
 
-c) Notificar a la Cámara que corresponda su resolución dentro de las veinticuatro horas siguientes al en que la emita;
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+c) Notificar a la Cámara que corresponda su resolución dentro de las veinticuatro horas siguientes;
 
 V. Si la resolución de la Suprema Corte es en el sentido de reconocer la constitucionalidad de la materia, la pregunta contenida en la resolución, no podrá ser objeto de modificaciones posteriores por el Congreso;
 
-VI. En el supuesto de que la Suprema Corte declare la inconstitucionalidad de la materia de la consulta popular, el Presidente de la Mesa Directiva de la Cámara que corresponda, publicará la resolución en la Gaceta Parlamentaria, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido, y
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+VI. En el supuesto de que la Suprema Corte declare la inconstitucionalidad de la materia de la consulta popular, la Presidencia de la Mesa Directiva de la Cámara que corresponda, publicará la resolución en su Gaceta, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido, y
 
 VII. Declarada la constitucionalidad por la Suprema Corte, el Congreso por conducto de sus Mesas Directivas, emitirá la Convocatoria, la notificará al Instituto para los efectos conducentes y ordenará su publicación en el Diario Oficial de la Federación.
 
@@ -326,9 +442,13 @@ La Convocatoria de consulta popular deberá contener:
 
 I. Fundamentos legales aplicables;
 
-II. Fecha de la jornada electoral federal en que habrá de realizarse la consulta popular;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
 
-III. Breve descripción de la materia sobre el tema de trascendencia nacional que se somete a consulta;
+II. Fecha en que habrá de realizarse la consulta popular;
+
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+III. Breve descripción de la materia sobre el tema de trascendencia nacional o regional, competencia de la Federación que se somete a consulta;
 
 IV. La pregunta a consultar, y
 
@@ -338,7 +458,9 @@ V. Lugar y fecha de la emisión de la Convocatoria.
 
 La Convocatoria que expida el Congreso deberá publicarse en el Diario Oficial de la Federación.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE CONSULTA POPULAR
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE MAYO DE 2021)</small>
+
+### CAPÍTULO III. DE LAS ATRIBUCIONES DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE CONSULTA POPULAR
 
 #### SECCIÓN PRIMERA. DE LA VERIFICACIÓN DEL APOYO CIUDADANO
 
@@ -346,7 +468,9 @@ La Convocatoria que expida el Congreso deberá publicarse en el Diario Oficial d
 
 Al Instituto le corresponde verificar el porcentaje establecido en el artículo 35, fracción VIII, numeral 1o., inciso c) de la Constitución.
 
-Para tal efecto, el Instituto contará con un plazo no mayor a treinta días naturales, contados a partir de la recepción del expediente que le remita el Presidente de la Mesa Directiva de la Cámara que corresponda, para constatar que los ciudadanos aparezcan en la lista nominal de electores.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+Para tal efecto, el Instituto contará con un plazo no mayor a treinta días naturales, contados a partir de la recepción del expediente que le remita la Presidencia de la Mesa Directiva de la Cámara que corresponda, para constatar que las ciudadanas y los ciudadanos aparezcan en la lista nominal de electores.
 
 ###### Artículo 33.
 
@@ -364,7 +488,9 @@ III. Un ciudadano haya suscrito dos o más veces la misma consulta popular; en e
 
 IV. Las firmas que correspondan a ciudadanos que ya hubieren respaldado otra consulta popular en el mismo proceso, excedan del veinte por ciento del total de firmas requeridas, en virtud de lo dispuesto en el artículo 12 de esta Ley. En este caso, sólo se contabilizará la primera firma que haya sido recibida en el Instituto, y
 
-V. Los ciudadanos hayan sido dados de baja de la lista nominal por alguno de los supuestos previstos en el Código.
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+V. Los ciudadanos hayan sido dados de baja de la lista nominal por alguno de los supuestos previstos en la Ley General.
 
 ###### Artículo 34.
 
@@ -380,13 +506,17 @@ IV. El número de ciudadanos que no hayan sido contabilizados en virtud de que y
 
 V. Los resultados del ejercicio muestral, y
 
-VI. Los ciudadanos que hayan sido dados de baja de la lista nominal por alguno de los supuestos previstos en el Código.
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+VI. Las ciudadanas y los ciudadanos que hayan sido dados de baja de la lista nominal por alguno de los supuestos previstos en la Ley General.
 
 #### SECCIÓN SEGUNDA. DE LA ORGANIZACIÓN DE LA CONSULTA POPULAR
 
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 35.
 
-El Instituto es responsable del ejercicio de la función estatal de la organización y desarrollo de las consultas populares y de llevar a cabo la promoción del voto, en términos de esta Ley y del Código.
+El Instituto es responsable del ejercicio de la función estatal de la organización y desarrollo de las consultas populares y de llevar a cabo la promoción del voto, en términos de esta Ley y de la Ley General.
 
 ###### Artículo 36.
 
@@ -436,23 +566,35 @@ Durante los tres días naturales anteriores a la jornada de consulta y hasta el 
 
 #### SECCIÓN CUARTA. DE LOS ACTOS PREVIOS A LA JORNADA DE CONSULTA POPULAR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 43.
 
-Para la emisión del voto en los procesos de consulta popular el Instituto imprimirá las papeletas conforme al modelo y contenido que apruebe el Consejo General, debiendo contener los siguientes datos:
+Para la emisión del voto en los procesos de consulta popular el Instituto diseñará el formulario conforme al modelo y contenido que apruebe el Consejo General, debiendo contener los siguientes datos:
 
-I. Breve descripción del tema de trascendencia nacional;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+I. Breve descripción del tema de la consulta;
 
 II. La pregunta contenida en la Convocatoria aprobada por el Congreso;
 
-III. Cuadros para el “SÍ” y para el “NO”, colocados simétricamente y en tamaño apropiado para facilitar su identificación por el ciudadano al momento de emitir su voto;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
 
-IV. Entidad, distrito, municipio o delegación, y
+III. Cuadros para el "SÍ", para el "NO" y para la "ABSTENCIÓN", colocados simétricamente y en tamaño apropiado para facilitar su identificación por el ciudadano al momento de emitir su voto;
 
-V. Las firmas impresas del Presidente del Consejo General y del Secretario Ejecutivo del Instituto.
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
 
-Habrá una sola papeleta, independientemente del número de convocatorias que hayan sido aprobadas por el Congreso.
+IV. Entidad y distrito, y
 
-Las papeletas estarán adheridas a un talón con folio, cuyo número será progresivo, del cual serán desprendibles. La información que contendrá este talón será la relativa a la entidad federativa, distrito electoral, municipio o delegación y la consulta popular.
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+V. Las medidas de seguridad que determine el Consejo General.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+Habrá un solo formulario, independientemente del número de convocatorias que hayan sido aprobadas por el Congreso.
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
 
 ###### Artículo 44.
 
@@ -470,15 +612,21 @@ IV. Al día siguiente al en que se realice el conteo de las boletas electorales,
 
 Los presidentes de los Consejos Distritales entregarán a cada presidente de mesa directiva de casilla, dentro de los cinco días previos al anterior de la jornada de consulta y contra el recibo detallado correspondiente:
 
-I. Las papeletas de la consulta popular, en número igual al de los electores que figuren en la lista nominal de electores con fotografía para cada casilla de la sección;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
 
-II. La urna para recibir la votación de la consulta popular;
+I. El material que deberá usarse en la jornada de consulta. De usarse formularios impresos, estos se entregarán en número igual al de los electores que figuren en la lista nominal de electores con fotografía para cada casilla de la sección;
 
-III. La documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios, con excepción de la lista nominal de electores con fotografía, y
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
 
-IV. En su caso, los instructivos que indiquen las atribuciones y responsabilidades de los funcionarios de la casilla.
+II. La documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios, y
 
-A los presidentes de mesas directivas de las casillas especiales les será entregada la documentación y materiales a que se refieren las fracciones anteriores, con excepción de la lista nominal de electores con fotografía, en lugar de la cual recibirán los medios informáticos necesarios para verificar que los electores que acudan a votar se encuentren inscritos en la lista nominal de electores que corresponde al domicilio consignado en su credencial para votar. El número de papeletas que reciban no será superior a 1,500.
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 19 DE MAYO DE 2021)</small>
+
+III. En su caso, los instructivos que indiquen las atribuciones y responsabilidades de los funcionarios de la casilla.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+A las presidencias de las mesas directivas de las casillas especiales les será entregada la documentación y materiales a que se refieren las fracciones anteriores, con excepción de la lista nominal de electores con fotografía, en lugar de la cual recibirán los medios informáticos necesarios para verificar que las electoras y los electores que acudan a votar se encuentren inscritos en la lista nominal de electores que corresponde al domicilio consignado en su credencial para votar. El número de ciudadanos y ciudadanas que ejerzan su derecho no será superior a 1,500 por cada casilla.
 
 La entrega y recepción del material a que se refieren los párrafos anteriores se hará con la participación de los integrantes de las Juntas Distritales que decidan asistir.
 
@@ -488,13 +636,23 @@ El Instituto, podrá designar adicionalmente a uno o más ciudadanos para que se
 
 #### SECCIÓN QUINTA. DE LA JORNADA DE CONSULTA POPULAR
 
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 47.
 
-La jornada de consulta popular se sujetará al procedimiento dispuesto por el Título Tercero del Libro Quinto del Código para la celebración de la jornada electoral, con las particularidades que prevé la presente sección.
+La jornada de consulta popular se sujetará al procedimiento dispuesto por el Título Tercero del Libro Quinto de la Ley General para la celebración de la jornada electoral, con las particularidades que prevé la presente sección.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
 
 ###### Artículo 48.
 
-Para todos los efectos legales, las mesas directivas de casilla funcionarán como mesas receptoras de la consulta popular.
+El Instituto garantizará la integración de nuevas mesas directivas de casilla para la jornada de consulta popular, compuestas por ciudadanas y ciudadanos a razón de un presidente, un secretario, un escrutador y un suplente general, en los términos que establezca la Ley General. No obstante, el Instituto podrá hacer las sustituciones que resulten necesarias de conformidad con el procedimiento señalado en la legislación electoral, hasta el día antes de la jornada de la consulta.
+
+El Instituto procurará habilitar los mismos inmuebles para la ubicación de las casillas que fueron determinados para la jornada electoral inmediata anterior. En los casos en que sea necesario, habilitará ubicaciones distintas de conformidad con el procedimiento que para el efecto establece la Ley General.
+
+El Instituto podrá crear centros de votación con las casillas que correspondan a la misma sección electoral, así como unificar en una sola hasta tres casillas cercanas que hubieran funcionado en la jornada electoral inmediata anterior.
+
+Los partidos políticos con registro nacional tendrán derecho a nombrar un representante ante cada mesa directiva de casilla, así como un representante general, bajo los términos, procedimientos y funciones dispuestos por la Ley General.
 
 ###### Artículo 49.
 
@@ -508,15 +666,17 @@ La urna en que los electores depositen la papeleta, deberán consistir de materi
 
 Los escrutadores de las mesas directivas de casilla contarán la cantidad de papeletas depositadas en la urna, y el número de electores que votaron conforme a la lista nominal de electores, cerciorándose de que ambas cifras sean coincidentes y, en caso de no serlo, consignarán el hecho. Asimismo, contarán el número de votos emitidos en la consulta popular y lo asentarán en el registro correspondiente.
 
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 52.
 
-En caso de ausencia del escrutador designado para el escrutinio y cómputo de la consulta popular, las funciones las realizarán cualquiera de los escrutadores presentes designados para la elección federal.
+La falta de las ciudadanas o de los ciudadanos designados como escrutadores por el Instituto para realizar el escrutinio y cómputo de la consulta popular en la casilla, no será causa de nulidad de la votación.
 
-La falta de los ciudadanos designados como escrutadores por el Instituto para realizar el escrutinio y cómputo de la consulta popular en la casilla, no será causa de nulidad de la votación de las elecciones constitucionales ni la de la consulta.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
 
 ###### Artículo 53.
 
-Una vez concluido el escrutinio y cómputo de las elecciones constitucionales en los términos del Título Tercero del Libro Quinto del Código, se procederá a realizar el escrutinio y cómputo de la consulta popular en cada casilla, conforme a las siguientes reglas:
+El escrutinio y cómputo de la consulta popular en cada casilla se realizará conforme a las siguientes reglas:
 
 I. El secretario de la mesa directiva de casilla contará las papeletas sobrantes y las inutilizará por medio de dos rayas diagonales con tinta, las guardará en un sobre especial que quedará cerrado, anotando en el exterior del mismo el número de papeletas que se contienen en él;
 
@@ -532,17 +692,33 @@ a) Emitidos a favor del “SÍ”;
 
 b) Emitidos a favor del “NO”, y
 
-c) Nulos.
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+c) Emitidos en abstención, y
+
+d) Nulos.
 
 VI. El secretario anotará en hojas dispuestas para el efecto los resultados de cada una de las operaciones señaladas en las fracciones anteriores, los que, una vez verificados por los demás integrantes de la mesa, transcribirá en el acta de escrutinio y cómputo de la consulta.
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+Es nulo el voto cuando no sea posible conocer el exacto sentido del mismo, pero siempre será contabilizado dentro de la concurrencia total a la consulta popular.
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+Bajo el sistema de voto electrónico, se colmarán los requisitos anteriores, pero adecuados a la naturaleza del registro, escrutinio y cómputo de los votos.
 
 ###### Artículo 54.
 
 Para determinar la nulidad o validez de los votos, se observarán las siguientes reglas:
 
-I. Se contará un voto válido por la marca que haga el ciudadano en un solo cuadro que determine claramente el sentido del voto como “SÍ” o “NO”, y
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
 
-II. Se contará como un voto nulo la sección de la papeleta que el ciudadano marque de forma diferente a lo señalado en la fracción anterior o cuando la deposite en blanco o altere con leyendas el texto de la papeleta.
+I. Se contará un voto válido por la marca que haga el ciudadano en un solo cuadro que determine claramente el sentido del voto como "SÍ", "NO" o "ABSTENCIÓN", y
+
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+II. Se contará como un voto nulo aquel en que no sea posible conocer el exacto sentido del mismo o cuando la deposite en blanco.
 
 ###### Artículo 55.
 
@@ -554,21 +730,27 @@ II. Un ejemplar del acta final de escrutinio y cómputo de la consulta, y
 
 III. Sobres por separado que contengan las papeletas sobrantes, los votos válidos y los votos nulos de la consulta.
 
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 56.
 
-Al término de la jornada electoral, los presidentes de las mesas directivas de casilla fijarán en un lugar visible al exterior de la casilla los resultados del cómputo de la consulta popular.
+Al término de la jornada, la presidencia de la mesa directiva de casilla fijará en un lugar visible al exterior de la casilla los resultados del cómputo de la consulta popular.
 
-La mesa directiva, bajo su responsabilidad, hará llegar dentro de la caja paquete (sic) electoral de las elecciones, el expediente de la consulta popular al Consejo Distrital correspondiente.
+La mesa directiva, bajo su responsabilidad, hará llegar el expediente de la consulta popular al Consejo Distrital correspondiente. Cuando el sistema opere mediante voto electrónico, la mesa directiva se cerciorará de que la información hubiera sido transmitida correcta y totalmente a través del dispositivo utilizado y así lo hará constar en el acta.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
 
 ###### Artículo 57.
 
-El Instituto incorporará al sistema de informática para recabar los resultados preliminares, los relativos a la consulta popular en términos de lo dispuesto por el artículo 125, párrafo 1, inciso l) del Código.
+El Instituto incorporará al sistema de informática los resultados preliminares de cada casilla tan luego como éstos se produzcan.
 
 #### SECCIÓN SEXTA. DE LOS RESULTADOS
 
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 58.
 
-Los consejos distritales realizarán el cómputo de la consulta popular el segundo miércoles siguiente a la jornada electoral, que consistirá en la suma de los resultados consignados en las actas de escrutinio y cómputo de las casillas instaladas.
+Los consejos distritales iniciarán cómputo ininterrumpido de los resultados a partir del término legal de la jornada de consulta y hasta la conclusión del mismo. El cómputo distrital consistirá en la suma de los resultados consignados en las actas de escrutinio y cómputo de las casillas instaladas.
 
 ###### Artículo 59.
 
@@ -600,9 +782,11 @@ Concluido el cómputo distrital, se remitirán los resultados al Secretario Ejec
 
 Al Consejo General del Instituto le corresponde realizar el cómputo total y hacer la declaratoria de resultados, con base en los resultados consignados en las actas de cómputos distritales, dar a conocer los resultados correspondientes e informar a la Suprema Corte los resultados de la consulta popular.
 
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 63.
 
-Transcurridos los plazos de impugnación y, en su caso, habiendo causado ejecutoria las resoluciones del Tribunal Electoral, el Consejo General del Instituto realizará la declaración de validez del proceso de consulta popular, aplicando en lo conducente lo que establezca el Título Tercero del Libro Quinto del Código, levantando acta de resultados finales del cómputo nacional, y la remitirá a la Suprema Corte, a fin de que se proceda conforme a los términos establecidos en esta Ley.
+Transcurridos los plazos de impugnación y, en su caso, habiendo causado ejecutoria las resoluciones del Tribunal Electoral, el Consejo General del Instituto realizará la declaración de validez del proceso de consulta popular, aplicando en lo conducente lo que establezca el Título Cuarto del Libro Quinto de la Ley General, levantando acta de resultados finales y la remitirá a la Suprema Corte, a fin de que se proceda conforme a los términos establecidos en esta Ley.
 
 ### CAPÍTULO IV. DE LA VINCULATORIEDAD Y SEGUIMIENTO
 
@@ -635,3 +819,13 @@ Sexto. Las referencias que esta Ley hace al Instituto Federal Electoral, se ente
 México, D.F., a 6 de marzo de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Iris Vianey Mendoza Mendoza, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE CONSULTA POPULAR”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los procesos de consulta popular que a la fecha de entrada en vigor del presente Decreto se encuentren en desarrollo se regirán por las disposiciones conforme a las cuales fueron convocados.
