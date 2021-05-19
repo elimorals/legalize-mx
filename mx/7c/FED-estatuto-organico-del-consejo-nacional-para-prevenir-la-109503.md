@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-prevenir-la-109503"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-08-21"
-last_updated: "2020-06-10"
+last_updated: "2021-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109503&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-13"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2021.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de agosto de 2015.
 
@@ -95,9 +95,11 @@ Cuando la información o documentación solicitada tenga el carácter de informa
 
 De conformidad con lo establecido en el artículo 15 Novenus de la Ley, el Consejo operará un Mecanismo de Registro y Monitoreo en el que se registrarán la aplicación de las medidas de nivelación, de inclusión y acciones afirmativas que adopten los poderes públicos federales y aquellas instituciones que estén bajo su regulación o competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 8.
 
-Para efectos del artículo anterior, el Consejo, a través de la persona titular de la Dirección General Adjunta de Estudios, Legislación y Políticas Públicas, solicitará semestralmente a las instancias públicas la información que le permita conocer:
+Para efectos del artículo anterior, el Consejo, a través de la persona titular de la Coordinación de Estudios, Legislación y Políticas Públicas, solicitará semestralmente a las instancias públicas la información que le permita conocer:
 
 I. Las medidas de nivelación, de inclusión y acciones afirmativas adoptadas, su temporalidad y el grupo social de personas al que van dirigidas;
 
@@ -133,9 +135,13 @@ c) De Vigilancia: El Comisario.
 
 II. Unidades administrativas:
 
-a) Dirección General Adjunta de Estudios, Legislación y Políticas Públicas;
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
 
-b) Dirección General Adjunta de Vinculación, Cultura y Educación;
+a) Coordinación de Estudios, Legislación y Políticas Públicas;
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+b) Coordinación de Vinculación, Cultura y Educación;
 
 c) Dirección General Adjunta de Quejas;
 
@@ -145,9 +151,13 @@ e) Dirección de Planeación, Administración y Finanzas;
 
 f) Dirección de Apoyo a Órganos Colegiados y Coordinación Interinstitucional;
 
-g) Coordinación de Comunicación Social;
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
 
-h) Coordinación de Gestión, y
+g) Subdirección de Comunicación Social;
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+h) Subdirección de Gestión, y
 
 i) Órgano Interno de Control.
 
@@ -215,7 +225,9 @@ IV. Fungir como representante del Consejo, en su carácter de organismo responsa
 
 V. Emitir opiniones institucionales que se le formulen sobre el derecho a la no discriminación;
 
-VI. Informar a la Junta de Gobierno, sobre las propuestas de reformas legislativas, reglamentarias o administrativas que garanticen el derecho a la no discriminación, formuladas por la Dirección General Adjunta de Estudios, Legislación y Políticas Públicas, a fin de someterlas a consideración del Ejecutivo Federal;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+VI. Informar a la Junta de Gobierno, sobre las propuestas de reformas legislativas, reglamentarias o administrativas que garanticen el derecho a la no discriminación, formuladas por la Coordinación de Estudios, Legislación y Políticas Públicas, a fin de someterlas a consideración del Ejecutivo Federal;
 
 VII. Suscribir resoluciones por disposición e informes especiales y, en su caso, establecer medidas administrativas y de reparación contra las personas servidoras públicas federales, los poderes públicos federales o particulares en caso de cometer alguna acción u omisión de discriminación previstas en esta Ley y, en su caso, delegar dicha firma en la Dirección General Adjunta de Quejas;
 
@@ -229,13 +241,15 @@ XI. Ejercer la representación legal del Consejo, conforme lo señalan los artí
 
 XII. Cualquier otra prevista en la Ley, el presente Estatuto y en los ordenamientos jurídicos que resulten aplicables.
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
 
 ###### Artículo 19.
 
-Las ausencias de carácter temporal de la persona titular de la Presidencia del Consejo serán suplidas de conformidad con la designación que realice mediante oficio, de entre las personas titulares de las Direcciones Generales Adjuntas y Direcciones del Consejo.
+Las ausencias de carácter temporal de la persona titular de la Presidencia del Consejo serán suplidas de conformidad con la designación que realice mediante oficio, de entre las personas titulares de la Dirección General Adjunta, Coordinaciones y Direcciones del Consejo.
 
-En el supuesto en el que la persona titular de la Presidencia no pudiera nombrar a la persona servidora pública encargada del despacho del Consejo, la suplencia será atendida en primer lugar por la persona titular de la Dirección General Adjunta de Vinculación, Cultura y Educación; en su ausencia, por la persona titular de la Dirección General Adjunta de Quejas, en ausencia de las dos anteriores, por la persona titular de la Dirección General Adjunta de Estudios, Legislación y Políticas Públicas, en ausencia de las precedentes por la persona titular de la Dirección de Planeación, Administración y Finanzas, y ante la ausencia de todas las personas precedentes la persona titular de la Dirección de Asuntos Jurídicos.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+
+En el supuesto en el que la persona titular de la Presidencia no pudiera nombrar a la persona servidora pública encargada del despacho del Consejo, la suplencia será atendida en primer lugar por la persona titular de la Coordinación de Vinculación, Cultura y Educación; en su ausencia, por la persona titular de la Dirección General Adjunta de Quejas, en ausencia de las dos anteriores, por la persona titular de la Coordinación de Estudios, Legislación y Políticas Públicas, en ausencia de las precedentes por la persona titular de la Dirección de Planeación, Administración y Finanzas, y ante la ausencia de todas las personas precedentes la persona titular de la Dirección de Asuntos Jurídicos.
 
 ## TÍTULO CUARTO. DE LA ASAMBLEA CONSULTIVA
 
@@ -465,9 +479,11 @@ A cargo de cada una de las Unidades Administrativas habrá una persona titular, 
 
 Las ausencias de carácter temporal de las personas titulares de las Unidades Administrativas serán suplidas por los inferiores jerárquicos inmediatos de la Unidad a que corresponda, mediante oficio signado por el Titular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 51.
 
-Las Direcciones Generales Adjuntas, Direcciones de Área y Coordinaciones adscritas a la Presidencia del Consejo, tendrán en el ámbito de su competencia, las siguientes atribuciones:
+La Dirección General Adjunta, Coordinaciones de Área, Direcciones de Área y Subdirecciones adscritas a la Presidencia del Consejo, tendrán en el ámbito de su competencia, las siguientes atribuciones:
 
 I. Planear, programar, organizar, dirigir y supervisar el funcionamiento de las unidades administrativas que les sean adscritas;
 
@@ -489,7 +505,9 @@ VIII. Proporcionar la información solicitada que le sea requerida por autoridad
 
 IX. Proponer a la persona titular de la Presidencia del Consejo la modificación de la estructura orgánico-funcional de la unidad administrativa a su cargo;
 
-X. Expedir copias certificadas de documentos y constancias existentes en los archivos de la unidad administrativa a su cargo;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+X. Proponer a la persona titular de la Presidencia del Consejo el nombramiento o remoción de las personas servidoras públicas adscritas a la Dirección General Adjunta o en su caso, a la Coordinación, Dirección o Subdirección de Área de la que son titulares; y aquellas que en virtud de su desempeño laboral puedan ser tomadas en consideración para recibir estímulos y recompensas; atendiendo lo estipulado en el artículo 30, fracción VII de la Ley;
 
 XI. Proponer a la persona titular de la Presidencia del Consejo el nombramiento o remoción de las personas servidoras públicas adscritas a la Dirección General Adjunta o, en su caso, a la Dirección o Subdirección de Área de la que son titulares; y aquellas que en virtud de su desempeño laboral puedan ser tomadas en consideración para recibir estímulos y recompensas; atendiendo lo estipulado en el artículo 30, fracción VII de la Ley;
 
@@ -499,9 +517,11 @@ XIII. Las demás que les confiera la persona titular de la Presidencia del Conse
 
 XIV. Las demás establecidas en la Ley y en este Estatuto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 52.
 
-La Dirección General Adjunta de Estudios, Legislación y Políticas Públicas tendrá las siguientes atribuciones:
+La Coordinación de Estudios, Legislación y Políticas Públicas tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
@@ -517,7 +537,9 @@ IV. Coordinar el diseño del Programa Nacional para la Igualdad y No Discriminac
 
 V. Coordinar con las diversas instancias públicas involucradas, la instrumentación del Programa a través de un sistema de monitoreo del cumplimiento del mismo para dar cumplimiento a lo establecido en la fracción XXIII del artículo 20 de la ley;
 
-VI. Impulsar y coadyuvar en la adopción de medidas de nivelación, medidas de inclusión y acciones afirmativas instrumentadas por parte de los poderes públicos federales, a través de un mecanismo de registro y monitoreo de las mismas, operado por la Dirección General Adjunta;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+VI. Impulsar y coadyuvar en la adopción de medidas de nivelación, medidas de inclusión y acciones afirmativas instrumentadas por parte de los poderes públicos federales, a través de un mecanismo de registro y monitoreo de las mismas, operado por la Coordinación;
 
 > <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
@@ -575,9 +597,11 @@ XXII. Generar insumos para orientar la toma de decisiones de la Presidencia del 
 
 XXIII. Las demás que le confiera la persona titular de la Presidencia del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 53.
 
-La Dirección General Adjunta de Vinculación, Cultura y Educación tendrá las siguientes atribuciones:
+La Coordinación de Vinculación, Cultura y Educación tendrá las siguientes atribuciones:
 
 I. Promover y difundir en los diversos ámbitos, instituciones y organismos públicos, privados y organizaciones de la sociedad civil, el conocimiento y aplicación del derecho a la no discriminación para contribuir al desarrollo cultural, social y democrático del país;
 
@@ -835,7 +859,9 @@ I. Formular el Programa Operativo Anual, con base en las propuestas presentadas 
 
 II. Coordinar la integración de la información para la elaboración del Informe de Actividades del Consejo, así como los informes sobre el cumplimiento de los objetivos y metas del Programa, y en lo que competa al Programa Sectorial de Gobernación;
 
-III. Definir conjuntamente con las Direcciones Generales Adjuntas del Consejo; las políticas, criterios y líneas generales para evaluar cuantitativamente el cumplimiento de los objetivos y metas del Programa, y acciones que emprenda el Consejo;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+III. Definir conjuntamente con la Dirección General Adjunta y Coordinaciones del Consejo; las políticas, criterios y líneas generales para evaluar cuantitativamente el cumplimiento de los objetivos y metas del Programa, y acciones que emprenda el Consejo;
 
 IV. Dirigir y administrar los recursos humanos, materiales, financieros, tecnológicos y de servicios del Consejo; conforme a la normatividad vigente;
 
@@ -911,9 +937,11 @@ VII. Gestionar la logística de las sesiones ordinarias y extraordinarias tanto 
 
 VIII. Las demás que le confiera la persona titular de la Presidencia del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 58.
 
-La Coordinación de Comunicación Social tendrá las siguientes atribuciones:
+La Subdirección de Comunicación Social tendrá las siguientes atribuciones:
 
 I. Coordinar el cumplimiento de los lineamientos y criterios de la política de comunicación social con perspectiva de igualdad y no discriminación del Consejo;
 
@@ -939,11 +967,15 @@ XI. Establecer los criterios para elaborar la Estrategia y el Programa Anual de 
 
 XII. Las demás que le confiera la persona titular de la Presidencia del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 59.
 
-La Coordinación de Gestión tendrá las siguientes atribuciones:
+La Subdirección de Gestión tendrá las siguientes atribuciones:
 
-I. Dar seguimiento a los acuerdos e instrucciones de la persona titular de la Presidencia del Consejo con las personas titulares de las Direcciones Generales Adjuntas y Direcciones de Área, y proporcionar el apoyo requerido para lograr su cumplimiento en calidad y oportunidad;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2021)</small>
+
+I. Dar seguimiento a los acuerdos e instrucciones de la persona titular de la Presidencia del Consejo con las personas titulares de la Dirección General Adjunta, Coordinaciones y Direcciones de Área, y proporcionar el apoyo requerido para lograr su cumplimiento en calidad y oportunidad.
 
 II. Mantener informada a la persona titular de la Presidencia de los asuntos a su cargo o del despacho de las instrucciones que ésta gire a las diversas unidades administrativas del Consejo;
 
@@ -1252,3 +1284,11 @@ D.O.F. 10 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN AL ARTÍCULO 55 FRACCIÓN IX DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, PUBLICADO EL VEINTIUNO DE AGOSTO DE DOS MIL QUINCE”.]
 
 UNICO.- La presente modificación entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER LA REFORMA AL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN”.]
+
+PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. En tanto se procede a la modificación de las normas administrativas internas del Consejo para homologar su contenido al de la presente reforma, se entenderá realizada toda referencia a las unidades administrativas del CONAPRED, en los términos señalados en el presente Acuerdo.
