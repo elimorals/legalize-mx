@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-sobre-el-uso-de-medios-electronicos-y-firma-41891"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-30"
-last_updated: "2018-07-17"
+last_updated: "2021-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA EN EL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2021.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 30 de noviembre de 2004.
 
@@ -49,7 +49,9 @@ El presente Reglamento tiene por objeto proveer el cumplimiento de la Ley sobre 
 
 Para los efectos de este Reglamento se entenderá por:
 
-I.- Dependencias.- Las Secretarías a que se refiere la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato y la Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2021)</small>
+
+I.- Dependencias.- Las Secretarías a las que se refiere la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato;
 
 II.- Entidades.- Los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos;
 
@@ -163,9 +165,9 @@ Deberán presentarse en forma impresa las solicitudes a las que se acompañen do
 
 Las dependencias y entidades que efectúen actuaciones y promociones electrónicas, deberán contar con un archivo electrónico para su resguardo una vez que se haya finalizado el trámite o procedimiento correspondiente.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2021)</small>
 
-El archivo electrónico deberá garantizar que se respeten los criterios específicos en materia de clasificación y conservación de documentos, así como de la organización de archivos, contenidos en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato, la Ley de Archivos Generales del Estado y los Municipios de Guanajuato y demás disposiciones aplicables.
+El archivo electrónico, deberá garantizar que se respeten los criterios específicos en materia de clasificación y conservación de documentos, así como de la organización de archivos, contenidos en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato, la Ley de Archivos del Estado de Guanajuato y demás disposiciones aplicables.
 
 ###### Artículo 17.
 
@@ -249,11 +251,11 @@ I.- La identificación de la autoridad certificadora o del prestador de servicio
 
 II.- Los datos de la identidad del titular del Certificado de Firma Electrónica, mencionando nombre, domicilio, teléfono, dirección de correo electrónico y Clave Única de Registro de Población.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2021)</small>
+
 ###### Artículo 23.
 
-La autoridad certificadora y los prestadores de servicios de certificación acreditados deberán comprobar fehacientemente la identidad del solicitante antes de la emisión del certificado correspondiente.
-
-Dicha comprobación la harán requiriendo la comparecencia personal y directa del solicitante o de su representante legal tratándose de una persona jurídico-colectiva.
+La autoridad certificadora y los prestadores de servicios de certificación acreditados deberán comprobar fehacientemente la identidad del solicitante antes de la emisión del certificado correspondiente. Para efecto de lo anterior, se atenderá lo dispuesto en las prácticas y políticas de certificación que emita la autoridad certificadora.
 
 ###### Artículo 24.
 
@@ -526,3 +528,11 @@ Firma Electrónica Normas y Procedimientos
 Asuntos en trámite
 
 Artículo Tercero. Los asuntos que se encuentren en trámite ante las unidades administrativas de la Secretaría que cambian su denominación, serán atendidos hasta su culminación por las nuevas unidades administrativas, de conformidad con lo dispuesto en el artículo anterior.
+
+P.O. 19 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 87 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2o. FRACCIÓN I; 16, PÁRRAFO SEGUNDO Y 23 DEL REGLAMENTO SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA EN EL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
