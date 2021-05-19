@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2021-04-09"
+last_updated: "2021-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -679,13 +679,21 @@ XVI.- El fomento de la riqueza cultural y natural de las regiones, la estructura
 
 XVII. El establecimiento de medidas eficaces para prevenir incidentes que pudieran generar daño ambiental grave o irreversible, basadas en los principios de precaución y progresividad;
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVII], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2021)</small>
 
-XVIII. La coordinación entre los distintos niveles de Gobierno y la concertación con la sociedad, para la eficacia de las acciones ambientales y el establecimiento de la corresponsabilidad ambiental entre ellos, y
+XVIII. La coordinación entre los distintos niveles de Gobierno y la concertación con la sociedad, para la eficacia de las acciones ambientales y el establecimiento de la corresponsabilidad ambiental entre ellos;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XVIII], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2021)</small>
 
-XIX. El fortalecimiento y la descentralización de recursos a los Municipios para asumir la responsabilidad de la protección ambiental en su respectiva esfera de acción en términos de la presente Ley.
+XIX. El fortalecimiento y la descentralización de recursos a los Municipios para asumir la responsabilidad de la protección ambiental en su respectiva esfera de acción en términos de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2021)</small>
+
+XX. Se aplicará el principio de precaución conforme a sus capacidades; cuando haya peligro de daño grave o irreversible, la falta de certeza científica absoluta no deberá utilizarse como razón para postergar la adopción de medidas eficaces en función de los costos para impedir la degradación del medio ambiente; y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2021)</small>
+
+XXI. Ante la duda sobre la certeza o exactitud científica de riesgos ambientales, las autoridades deben resolver y actuar a favor de la conservación y protección de la naturaleza.
 
 ### CAPÍTULO III. DE LOS INSTRUMENTOS DE POLÍTICA AMBIENTAL
 
@@ -1499,6 +1507,12 @@ II.- El aislamiento de los sistemas de drenaje y alcantarillado de las aguas plu
 
 El Ejecutivo del Estado, la Secretaría y la Comisión Estatal de Agua y Saneamiento, conjuntamente con los gobiernos municipales o los Sistemas Operadores, podrán celebrar con la Federación, convenios o acuerdos de coordinación para participar en las acciones de protección, preservación y restauración del equilibrio ecológico y la protección de los ecosistemas acuáticos.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2021)</small>
+
+ARTÍCULO 99 BIS.- El ciclo hidrológico natural en las fases de condensación y precipitación no puede alterarse por ningún medio artificial; quedando prohibido el uso, manejo e instalación de tecnologías, utensilios, instrumentos o cualquier otro medio que tengan como fin alterarlo.
+
+Corresponde a la Secretaría la inspección, vigilancia, dictado de medidas de seguridad y sanción por el incumplimiento a lo dispuesto en el presente artículo.
+
 ### CAPÍTULO II. DEL APROVECHAMIENTO SUSTENTABLE DEL SUELO Y SUS RECURSOS
 
 ###### ARTÍCULO 100.
@@ -2259,15 +2273,19 @@ La Secretaría verificará el cumplimiento de las medidas ordenadas en términos
 
 ### CAPÍTULO III. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2021)</small>
+
 ### CAPÍTULO IV. DE LOS MEDIOS DE PRUEBA
 
 ###### ARTÍCULO 176.
 
-Cuando se realicen obras o actividades que infrinjan las disposiciones de la Ley, sus Reglamentos, las Normas Oficiales Mexicanas o produzcan riesgo de contingencia ambiental, desequilibrio ecológico, daños a la salud, deterioro de los recursos naturales, los ecosistemas y sus componentes; la Secretaría o los Ayuntamientos en su caso, en forma fundada y motivada, podrán ordenar inmediatamente una o varias de las siguientes medidas de seguridad:
+Cuando se realicen obras o actividades que infrinjan las disposiciones de la Ley, sus Reglamentos, las Normas Oficiales Mexicanas o produzcan riesgo de contingencia ambiental, desequilibrio ecológico, daños a la salud, deterioro de los recursos naturales, los ecosistemas y sus componentes; la Secretaría o los Ayuntamientos en su caso, en forma fundada y motivada, de conformidad con los principios que rigen la más amplia protección al medio ambiente, podrán ordenar inmediatamente una o varias de las siguientes medidas de seguridad:
 
 I.- La clausura temporal, parcial o total, de fuentes fijas contaminantes o de las obras que no cuenten con la autorización en materia de impacto ambiental;
 
-II.- El aseguramiento precautorio de los bienes, utensilios o instrumentos directamente relacionados con la explotación de minerales o sustancias de competencia estatal; y
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2021)</small>
+
+II.- El aseguramiento precautorio de los bienes, tecnologías, utensilios o instrumentos que, estén prohibidos por esta Ley o, estén directamente relacionados con la explotación de minerales o sustancias de competencia estatal; y
 
 III.- El retiro de la circulación de vehículos para su remisión a un depósito de vehículos.
 
@@ -2676,3 +2694,13 @@ P.O. 9 DE ABRIL DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo previsto por esta Ley.
+
+P.O. 19 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 16, EL ACÁPITE Y LA FRACCIÓN II DEL ARTÍCULO 176, Y ADICIONA LAS FRACCIONES XX Y XXI AL ARTÍCULO 16, Y EL ARTÍCULO 99 BIS, TODOS DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA; ASIMISMO ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 35 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado una vez a la entrada en vigor del presente Decreto, contará con ciento ochenta días hábiles para la adecuación de la reglamentación aplicable, en términos del presente Decreto.
