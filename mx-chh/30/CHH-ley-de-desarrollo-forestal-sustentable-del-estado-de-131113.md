@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-forestal-sustentable-del-estado-de-131113"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-24"
-last_updated: "2018-10-24"
+last_updated: "2021-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2021.
 
 Ley publicada en el Folleto Anexo al Número 85 del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de octubre de 2018.
 
@@ -963,6 +963,10 @@ Estos Consejos deberán ser presididos por la persona que ocupe la titularidad d
 
 Los reglamentos internos de los Consejos Estatal y Municipales, establecerán la composición y funcionamiento del mismo, así como sus atribuciones.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2021)</small>
+
+En la composición del Consejo Estatal, deberá considerarse la inclusión de la Comisión Estatal para los Pueblos Indígenas, institución del Ejecutivo Estatal responsable de la protección de los intereses de los pueblos y comunidades indígenas, con el propósito de contribuir a la participación y consulta en los planes, programas y proyectos del gobierno que, en materia forestal, tengan como objetivo los pueblos originarios.
+
 En el Consejo podrán participar representantes de las dependencias y entidades federales, del Ejecutivo, Legislativo y Judicial Estatales, de los municipios y representantes de ejidos, propietarios de predios forestales, prestadores de servicios técnicos forestales, industriales, y demás personas físicas o morales relacionadas e interesadas en cada una de las demarcaciones.
 
 En los Consejos Municipales, además de la participación de los representantes de los otros dos órdenes de gobierno y el resto de los integrantes del Consejo, deberá haber representantes de pueblos y comunidades indígenas a través de sus autoridades tradicionales.
@@ -1248,3 +1252,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la ciudad de Chihuahua, Palacio de Gobierno del Estado, a los tres días del mes de octubre del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVL/RFLEY/1004/2021 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 74 UN PÁRRAFO SEGUNDO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
