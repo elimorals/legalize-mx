@@ -4,7 +4,7 @@ identifier: "LAMP"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-02"
-last_updated: "2018-06-15"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93440&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAMP"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
 
 > <small>[N. DE E. CONTIENE LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO PUBLICADO EL 14 DE JULIO DE 2014 “POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN”, PUBLICADA EN LA EDICIÓN VESPERTINA DEL DIARIO OFICIAL DE LA FEDERACIÓN EL 15 DE JUNIO DE 2018.]</small>
 
@@ -162,9 +162,13 @@ Si el menor hubiere cumplido catorce años, podrá hacer la designación de repr
 
 Las autoridades responsables podrán ser representadas o sustituidas para todos los trámites en el juicio de amparo en los términos de las disposiciones legales y reglamentarias aplicables. En todo caso podrán por medio de oficio acreditar delegados que concurran a las audiencias para el efecto de que en ellas rindan pruebas, aleguen, hagan promociones e interpongan recursos.
 
-El Presidente de la República será representado en los términos que se señalen en el acuerdo general que expida y se publique en el Diario Oficial de la Federación. Dicha representación podrá recaer en el propio Consejero Jurídico, en el Procurador General de la República o en los secretarios de estado a quienes en cada caso corresponda el asunto, en términos de las leyes orgánicas y reglamentos aplicables. Los reglamentos interiores correspondientes señalarán las unidades administrativas en las que recaerá la citada representación. En el citado acuerdo general se señalará el mecanismo necesario para determinar la representación en los casos no previstos por los mismos.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
-Los órganos legislativos federales, de los Estados y del Distrito Federal, así como los gobernadores y jefe de gobierno de éstos, procuradores General de la República y de las entidades federativas, titulares de las dependencias de la administración pública federal, estatales o municipales, podrán ser sustituidos por los servidores públicos a quienes las leyes y los reglamentos que las rigen otorguen esa atribución, o bien por conducto de los titulares de sus respectivas oficinas de asuntos jurídicos.
+El Presidente de la República será representado en los términos que se señalen en el acuerdo general que expida y se publique en el Diario Oficial de la Federación. Dicha representación podrá recaer en el propio Consejero Jurídico o en los secretarios de estado a quienes en cada caso corresponda el asunto, en términos de las leyes orgánicas y reglamentos aplicables. Los reglamentos interiores correspondientes señalarán las unidades administrativas en las que recaerá la citada representación. En el citado acuerdo general se señalará el mecanismo necesario para determinar la representación en los casos no previstos por los mismos.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Los órganos legislativos federales, de los Estados y de la Ciudad de México, así como los gobernadores y jefe de gobierno de éstos, instituciones de carácter federal o local con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos o de las Constituciones de los Estados, titulares de las dependencias de la administración pública federal, estatales o municipales, podrán ser sustituidos por los servidores públicos a quienes las leyes y los reglamentos que las rigen otorguen esa atribución, o bien por conducto de los titulares de sus respectivas oficinas de asuntos jurídicos.
 
 Cuando el responsable sea una o varias personas particulares, en los términos establecidos en la presente Ley, podrán comparecer por sí mismos, por conducto de un representante legal o por conducto de un apoderado.
 
@@ -214,7 +218,9 @@ En estos casos, el órgano jurisdiccional de amparo decretará la suspensión de
 
 Una vez lograda la comparecencia, se requerirá al agraviado para que dentro del término de tres días ratifique la demanda de amparo. Si éste la ratifica por sí o por medio de su representante se tramitará el juicio; de lo contrario se tendrá por no presentada la demanda y quedarán sin efecto las providencias dictadas.
 
-Si a pesar de las medidas tomadas por el órgano jurisdiccional de amparo no se logra la comparecencia del agraviado, resolverá la suspensión definitiva, ordenará suspender el procedimiento en lo principal y se harán los hechos del conocimiento del Ministerio Público de la Federación. En caso de que éste sea autoridad responsable, se hará del conocimiento al Procurador General de la República. Cuando haya solicitud expresa de la Comisión Nacional de los Derechos Humanos, se remitirá copia certificada de lo actuado en estos casos.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Si a pesar de las medidas tomadas por el órgano jurisdiccional de amparo no se logra la comparecencia del agraviado, resolverá la suspensión definitiva, ordenará suspender el procedimiento en lo principal y se harán los hechos del conocimiento del Ministerio Público de la Federación. En caso de que éste sea autoridad responsable, se hará del conocimiento al Fiscal General de la República. Cuando haya solicitud expresa de la Comisión Nacional de los Derechos Humanos, se remitirá copia certificada de lo actuado en estos casos.
 
 Transcurrido un año sin que nadie se apersone en el juicio, se tendrá por no interpuesta la demanda.
 
@@ -286,9 +292,11 @@ El quejoso y el tercero interesado podrán autorizar a cualquier persona con cap
 
 Cuando el quejoso y el tercero interesado cuenten con Firma Electrónica y pretendan que los autorizados en términos del párrafo anterior, utilicen o hagan uso de ésta en su representación, deberán comunicarlo al órgano jurisdiccional correspondiente, señalando las limitaciones o revocación de facultades en el uso de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 25.
 
-Las notificaciones al titular del Poder Ejecutivo Federal se entenderán con el titular de la Secretaría de Estado, de la Consejería Jurídica del Ejecutivo Federal o de la Procuraduría General de la República, que deba representarlo en el juicio de amparo, de acuerdo con lo dispuesto en el acuerdo general al que hace referencia el artículo 9o de esta Ley.
+Las notificaciones al titular del Poder Ejecutivo Federal se entenderán con el titular de la Secretaría de Estado o de la Consejería Jurídica del Ejecutivo Federal, que deba representarlo en el juicio de amparo, de acuerdo con lo dispuesto en el acuerdo general al que hace referencia el artículo 9o. de esta Ley.
 
 Las notificaciones a las entidades a que se hace referencia en el párrafo anterior deberán ser hechas por medio de oficio impreso dirigido al domicilio oficial que corresponda o en forma digital a través del uso de la Firma Electrónica.
 
@@ -494,11 +502,15 @@ Cuando se trate de amparos contra actos de autoridades que actúen en auxilio de
 
 En este caso, conocerá otro del mismo distrito y especialización, en su caso, y si no lo hubiera, el más cercano dentro de la jurisdicción del circuito a que pertenezca.
 
+> <small>(REFORMADO PRIMER PÁRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 40.
 
-El pleno o las salas de la Suprema Corte de Justicia de la Nación podrán ejercer, de manera oficiosa o a solicitud del Procurador General de la República la facultad de atracción para conocer de un amparo directo que corresponda resolver a los tribunales colegiados de circuito, cuando por su interés y trascendencia lo ameriten, de conformidad con el siguiente procedimiento:
+El pleno o las salas de la Suprema Corte de Justicia de la Nación podrán ejercer, de manera oficiosa o a solicitud del Fiscal General de la República la facultad de atracción para conocer de un amparo directo que corresponda resolver a los tribunales colegiados de circuito, cuando por su interés y trascendencia lo ameriten, de conformidad con el siguiente procedimiento:
 
-I. Planteado el caso por cualquiera de los ministros, o en su caso hecha la solicitud por el Procurador General de la República, el pleno o la sala acordará si procede solicitar los autos al tribunal colegiado de circuito, en cuyo caso, previa suspensión del procedimiento, éste los remitirá dentro del plazo de tres días siguientes a la recepción de la solicitud;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+I. Planteado el caso por cualquiera de los ministros, o en su caso hecha la solicitud por el Fiscal General de la República, el pleno o la sala acordará si procede solicitar los autos al tribunal colegiado de circuito, en cuyo caso, previa suspensión del procedimiento, éste los remitirá dentro del plazo de tres días siguientes a la recepción de la solicitud;
 
 II. Recibidos los autos se turnará el asunto al ministro que corresponda, para que dentro del plazo de quince días formule dictamen a efecto de resolver si se ejerce o no dicha facultad; y
 
@@ -2326,17 +2338,17 @@ La resolución que decida la contradicción de tesis no afectará las situacione
 
 La legitimación para denunciar las contradicciones de tesis se ajustará a las siguientes reglas:
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-I. Las contradicciones a que se refiere la fracción I del artículo anterior podrán ser denunciadas ante el Pleno de la Suprema Corte de Justicia de la Nación por los Ministros, los Plenos de Circuito, los Tribunales Colegiados de Circuito y sus integrantes, los Magistrados de los Tribunales Unitarios de Circuito, los Jueces de Distrito, el Procurador General de la República, o las partes en los asuntos que las motivaron.
+I. Las contradicciones a que se refiere la fracción I del artículo anterior podrán ser denunciadas ante el Pleno de la Suprema Corte de Justicia de la Nación por los Ministros, los Plenos de Circuito, los Tribunales Colegiados de Circuito y sus integrantes, los Magistrados de los Tribunales Unitarios de Circuito, los Jueces de Distrito, el Fiscal General de la República, o las partes en los asuntos que las motivaron.
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-II. Las contradicciones a que se refiere la fracción II del artículo anterior podrán ser denunciadas ante la Suprema Corte de Justicia de la Nación por los Ministros, los Plenos de Circuito o los Tribunales Colegiados de Circuito y sus integrantes, que hayan sustentado las tesis discrepantes, el Procurador General de la República, los Magistrados de Tribunal Unitario de Circuito, los Jueces de Distrito, o las partes en los asuntos que las motivaron.
+II. Las contradicciones a que se refiere la fracción II del artículo anterior podrán ser denunciadas ante la Suprema Corte de Justicia de la Nación por los Ministros, los Plenos de Circuito o los Tribunales Colegiados de Circuito y sus integrantes, que hayan sustentado las tesis discrepantes, el Fiscal General de la República, los Magistrados de Tribunal Unitario de Circuito, los Jueces de Distrito, o las partes en los asuntos que las motivaron.
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-III. Las contradicciones a que se refiere la fracción III del artículo anterior, podrán ser denunciadas ante los Plenos de circuito por el Procurador General de la República, los mencionados Tribunales y sus integrantes, los Magistrados de Tribunal Unitario de Circuito, los Jueces de Distrito o las partes en los asuntos que las motivaron.
+III. Las contradicciones a que se refiere la fracción III del artículo anterior, podrán ser denunciadas ante los Plenos de circuito por el Fiscal General de la República, los mencionados Tribunales y sus integrantes, los Magistrados de Tribunal Unitario de Circuito, los Jueces de Distrito o las partes en los asuntos que las motivaron.
 
 ### CAPÍTULO V. Jurisprudencia por sustitución
 
@@ -2422,7 +2434,9 @@ I. Multa;
 
 II. Auxilio de la fuerza pública que deberán prestar las autoridades policiacas federales, estatales o municipales; y
 
-III. Ordenar que se ponga al infractor a disposición del Ministerio Público por la probable comisión de delito en el supuesto de flagrancia; en caso contrario, levantar el acta respectiva y hacer la denuncia ante la representación social federal. Cuando la autoridad infractora sea el Ministerio Público de la Federación, la infracción se hará del conocimiento del Procurador General de la República.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+III. Ordenar que se ponga al infractor a disposición del Ministerio Público por la probable comisión de delito en el supuesto de flagrancia; en caso contrario, levantar el acta respectiva y hacer la denuncia ante la representación social federal. Cuando la autoridad infractora sea el Ministerio Público de la Federación, la infracción se hará del conocimiento del Fiscal General de la República.
 
 ### CAPÍTULO III. Delitos
 
@@ -2935,3 +2949,71 @@ D.O.F. 15 DE JUNIO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión", publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
+
+D.O.F. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE LA FISCALÍA GENERAL DE LA REPÚBLICA, SE ABROGA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS ORDENAMIENTOS LEGALES".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+
+Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+
+Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
+
+Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+
+Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+
+En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
+
+Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
+
+Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+
+Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
+
+Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
+
+El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
+
+A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
+
+Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
+
+Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
+
+Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+
+Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+
+El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
+
+Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+
+Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado "Fondo para el Mejoramiento de la Procuración de Justicia" o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+
+Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+
+Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
+
+Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+
+Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
+
+Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
+
+El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
+
+Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
+
+Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+
+Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+
+Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
+
+Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
+
+Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+
+Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
