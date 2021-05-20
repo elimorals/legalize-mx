@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2020-10-20"
+last_updated: "2021-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -57,7 +57,7 @@ De esta manera, esta nueva Ley Orgánica del Poder Judicial atiende fundamentalm
 
 Dependiente del Consejo de la Judicatura se crea la Visitaduría Judicial, encargada de atender este rubro con personal altamente capacitado; llevará a cabo su encomienda conforme a las estrictas reglas que al efecto también se establecen en esta Ley, cuestión que desahogará de esta responsabilidad a los magistrados del Tribunal, que previo a esta reforma se encontraban encargados de realizar personalmente esa labor en los juzgados de primera instancia del Estado.
 
-Esta Visitaduría del Poder Judicial del Estado, estará conformada por profesionistas debidamente capacitados y especializados en los procedimientos de visita, inspección, revisión, suspervisión y análisis de la calidad en el desempeño del trabajo que se lleva a cabo en los juzgados de Primera Instancia y menores del Estado; pero exclusivamente en lo que toca al aspecto administrativo de los órganos encargados de la justicia y no a su impartición; distinguiendo a estos conceptos con la claridad que la doctrina y la jurisprudencia les entrega; con esto se quiere decir que el Consejo de la Judicatura no podrá revisar el sentido, ni el contenido de las resoluciones jurisdiccionales; ni intervenir en sus fallos; ni mucho menos en los criterios que alimentan el arbitrio judicial en una sentencia, que es responsabilidad exclusiva de los juzgadores.
+Esta Visitaduría del Poder Judicial del Estado, estará conformada por profesionistas debidamente capacitados y especializados en los procedimientos de visita, inspección, revisión, supervisión y análisis de la calidad en el desempeño del trabajo que se lleva a cabo en los juzgados de Primera Instancia y menores del Estado; pero exclusivamente en lo que toca al aspecto administrativo de los órganos encargados de la justicia y no a su impartición; distinguiendo a estos conceptos con la claridad que la doctrina y la jurisprudencia les entrega; con esto se quiere decir que el Consejo de la Judicatura no podrá revisar el sentido, ni el contenido de las resoluciones jurisdiccionales; ni intervenir en sus fallos; ni mucho menos en los criterios que alimentan el arbitrio judicial en una sentencia, que es responsabilidad exclusiva de los juzgadores.
 
 Conforme a los criterios anteriores, se establecen en esta Ley el procedimiento que en cada caso debe seguirse para llevar a cabo tales visitas, garantizando así una revisión más objetiva y especializada.
 
@@ -253,6 +253,10 @@ El Pleno del Supremo Tribunal de Justicia conocerá de los asuntos de naturaleza
 
 Las sesiones del Pleno del Supremo Tribunal de Justicia podrán ser ordinarias o extraordinarias y, en ambos casos, públicas o privadas. Las sesiones ordinarias se celebrarán el día y la hora que previamente se haya acordado, con las formalidades que establece el Reglamento Interior; y las extraordinarias, cuando sea necesario para tratar y resolver asuntos urgentes, previa convocatoria del Presidente del mismo, en la que deberá incluir el orden del día a la cual debe sujetarse la sesión, determinándose si será pública o privada. De igual forma, se podrá celebrar sesión extraordinaria cuando lo soliciten por lo menos tres magistrados.
 
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2021)</small>
+
+En epidemias; peligro de invasión; caso fortuito o fuerza mayor, en el país o en el Estado, las sesiones del Pleno del Supremo Tribunal de Justicia podrán celebrarse mediante video conferencia, trabajo a distancia, o medios virtuales análogos que permitan la comunicación simultánea, con transmisión en tiempo real, debiendo quedar videograbadas.
+
 ###### ARTICULO 13.
 
 El Pleno del Supremo Tribunal de Justicia estará integrado por los magistrados adscritos a las diversas salas y por el Presidente del mismo. Para que sesione, se requiere la asistencia de la mayoría de sus integrantes, y sus resoluciones o determinaciones se tomarán por mayoría de votos de los magistrados presentes, teniendo el Presidente voto de calidad en caso de empate.
@@ -355,7 +359,7 @@ Para ser Secretario General, y Subsecretario, se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
-II. No tener más de sesenta y cinco años de edad al día de su designación;
+II. (DEROGADA, P.O. 20 DE MAYO DE 2021)
 
 III. Contar como mínimo con dos años de ejercicio de abogado;
 
@@ -1575,7 +1579,9 @@ Las funciones que en esta Ley se confieren a la Visitaduría Judicial serán eje
 
 Para ser Visitador se requiere:
 
-I. Ser ciudadano mexicano en ejercicio de sus derechos civiles y políticos, y con edad superior a los treinta años, y
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2021)</small>
+
+I. Ser ciudadano mexicano en ejercicio de sus derechos civiles y políticos, y
 
 II. Tener título legalmente expedido de abogado, licenciado en derecho o en ciencias jurídicas, y experiencia profesional de cuando menos cinco años.
 
@@ -1721,7 +1727,7 @@ Para ser médico legista se requiere:
 
 I. Ser mexicano, preferentemente potosino;
 
-II. Tener cuando menos veinticinco años cumplidos a la fecha de su designación;
+II. (DEROGADA, P.O. 20 DE MAYO DE 2021)
 
 III. Poseer título de médico cirujano, registrado ante la Dirección General de Profesiones, y la Secretaría de Salud;
 
@@ -2624,5 +2630,21 @@ P.O. 20 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0772.- SE REFORMA LOS ARTÍCULOS 8º EN SU PÁRRAFO ÚLTIMO, 54 QUÁTER EN SU FRACCIÓN IX, 94 EN SU FRACCIÓN XXIV, 109 EN SU FRACCIÓN III, 135 EN SU PÁRRAFO SEGUNDO, 177, 182 Y 188, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1176.- SE REFORMA EL ARTÍCULO 112 EN SU FRACCIÓN I; Y DEROGA DE LOS ARTÍCULOS 19 LA FRACCIÓN II Y 131 LA FRACCIÓN II, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1177.- SE ADICIONA AL ARTÍCULO 12 EL PÁRRAFO SEGUNDO, A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
