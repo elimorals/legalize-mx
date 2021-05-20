@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2020-10-24"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -468,6 +468,10 @@ p) titular del Instituto Potosino del Deporte.
 q) Tres personas adultas mayores, conforme a lo establecido en el reglamento de la presente Ley, y avaladas por del (sic) Delegado del INAPAM; y el Presidente del Consejo.
 
 r) Dos representantes de organismos no gubernamentales dedicados a la atención de las personas adultas mayores, que serán designadas entre ellos mismos.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2021)</small>
+
+s) Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -1280,5 +1284,13 @@ P.O. 24 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0777.- SE REFORMA EL ARTÍCULO 52 EN SU FRACCIÓN I, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1172.- SE ADICIONA AL ARTÍCULO 12 EN SU FRACCIÓN III EL INCISO S), DE (SIC) LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
