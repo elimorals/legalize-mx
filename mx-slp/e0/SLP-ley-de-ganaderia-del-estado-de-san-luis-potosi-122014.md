@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ganaderia-del-estado-de-san-luis-potosi-122014"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2019-08-05"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado de San Luis Potosí, el sábado 20 de mayo de 2017.
 
@@ -1757,9 +1757,13 @@ La citada credencial tendrá vigencia de tres años, pudiendo ser cancelada cuan
 
 Todo el que presente animales para su sacrificio sin justificar su legal adquisición, será considerado como presunto responsable del delito de abigeato, y se le consignará a la autoridad competente.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 160.
 
-Las empresas procesadoras de productos cárnicos podrán obtener la concesión del servicio, para que, anexo a su empacadora o procesadora, funcione un rastro autorizado dando cumplimiento a las disposiciones legales que correspondan.
+Las empresas procesadoras de productos cárnicos podrán obtener la concesión del servicio, para que, anexo a su empacadora o procesadora, funcione un rastro autorizado. De igual forma, los particulares que sean productores locales pecuarios, sea de forma asociada o individual, podrán obtener la concesión del servicio para funcionamiento de rastro.
+
+En todos los casos, los concesionarios deberán acreditar el cumplimiento de requisitos que determine la ley, y operar en cumplimiento de las disposiciones de esta Ley, la Ley de Salud del Estado, y de la Norma Oficial Mexicana aplicable.
 
 ###### ARTÍCULO 161.
 
@@ -2134,5 +2138,13 @@ P.O. 5 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0222.- SE REFORMA EL ARTÍCULO 17 DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1175.- SE REFORMA EL ARTÍCULO 160, DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
