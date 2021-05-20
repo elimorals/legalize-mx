@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-accesibilidad-para-el-estado-de-durango-129390"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-07"
-last_updated: "2017-12-07"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ACCESIBILIDAD PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de diciembre de 2017.
 
@@ -81,13 +81,37 @@ X. Persona con discapacidad: Ser humano que presenta de manera temporal o perman
 
 XI. Persona con movilidad limitada: Aquella que de forma temporal o permanente debido a su condición de salud, genética, edad, características físicas o alguna otra condición, tienen (sic) un desplazamiento lento, difícil o desequilibrado;
 
-XII. Ruta accesible: Es la que permite una circulación continua y sin obstáculos con la combinación de elementos construidos que garantiza a cualquier persona entrar, desplazarse, salir, orientarse y comunicarse de forma segura, autónoma y cómoda tanto en el espacio público como en los inmuebles y el mobiliario; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-XIII. Vida independiente: El estado que permite a una persona tomar decisiones, ejercer actos de manera autónoma y participar activamente en la comunidad, en ejercicio del derecho al libre desarrollo de la personalidad.
+XII. Ruta accesible: Es la que permite una circulación continua y sin obstáculos con la combinación de elementos construidos que garantiza a cualquier persona entrar, desplazarse, salir, orientarse y comunicarse de forma segura, autónoma y cómoda tanto en el espacio público como en los inmuebles y el mobiliario;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XIII. Vida independiente: El estado que permite a una persona tomar decisiones, ejercer actos de manera autónoma y participar activamente en la comunidad, en ejercicio del derecho al libre desarrollo de la personalidad, y;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XIV. Espacios privados de uso público: Son espacios, abiertos o cerrados, de propiedad y administración privada que, por su naturaleza, uso o afectación, satisfacen necesidades de uso público.
 
 ###### Artículo 3.
 
 Los edificios donde las autoridades estatales y municipales brinden sus servicios, deben garantizar que las personas con discapacidad o con movilidad limitada puedan desplazarse mediante una ruta accesible para utilizar todos los servicios que se ofrecen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], P.O. 20 DE MAYO DE 2021)</small>
+
+Los espacios de uso público o privados de uso público, en medida de lo posible y de conformidad con la disponibilidad presupuestal deberán contar, por lo menos, con los siguientes ajustes razonables:
+
+a) Rampas o elevadores en escaleras y desniveles;
+
+b) Escalón universal, fijo o móvil, en ventanillas, taquillas, mostradores;
+
+c) Anaqueles, sanitarios, elevadores y desniveles;
+
+d) Alarmas y anuncios o turnos en sistemas sonoros y visuales;
+
+e) Avisos de privacidad, reglamentos, términos, condiciones y toda información legal o relevante en formatos accesibles, como lo son Lengua de Señas Mexicana, sistema de escritura braille y formatos de lectura fácil, y;
+
+f) Ventanillas y mostradores adecuados para usuarios de silla de ruedas.
 
 ###### Artículo 4.
 
@@ -436,3 +460,15 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 530.- POR EL QUE SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 2; ASÍ COMO SE REFORMA EL ARTÍCULO 3, AMBOS DE LA LEY DE ACCESIBILIDAD PARA EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Las instituciones y organismos públicos, deberán realizar los ajustes razonables enmarcados en los incisos a) al f) del artículo 3 de la Ley de Accesibilidad para el Estado de Durango, de conformidad con la disponibilidad presupuestal que les sea asignado para el ejercicio de sus actividades o con los presupuestos existentes para el desarrollo de sus actividades.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
