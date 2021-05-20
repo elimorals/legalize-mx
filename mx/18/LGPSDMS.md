@@ -4,7 +4,7 @@ identifier: "LGPSDMS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2010-11-30"
-last_updated: "2018-01-19"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77437&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPSDMS"
 
 LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 30 de noviembre de 2010.
 
@@ -400,11 +400,11 @@ El cumplimiento del Programa Federal de Protección a Personas quedará a cargo 
 
 El cumplimiento de los programas de protección a personas de las entidades federativas quedará a cargo del Titular del Ministerio Público o el servidor público inmediato inferior en quien éste delegue esta responsabilidad, en coordinación con las autoridades cuya intervención sea necesaria de conformidad con lo dispuesto en este Capítulo, otras disposiciones aplicables y las disponibilidades presupuestarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### Artículo 29.
 
-La incorporación al Programa Federal de Protección a Personas, durante el procedimiento penal será autorizada por el Procurador General de la República o el Servidor Público inmediato inferior en quien éste delegue la facultad.
+La incorporación al Programa Federal de Protección a Personas, durante el procedimiento penal será autorizada por el Fiscal General de la República o el Servidor Público inmediato inferior en quien éste delegue la facultad.
 
 Para tal efecto, se deberán analizar las condiciones de cada persona, si éstas se encuentran en el supuesto que señala el artículo 26 de esta Ley y si cumplen con los requisitos que señale el programa.
 
@@ -544,7 +544,9 @@ El Fondo se orientará prioritariamente a la atención médica y psicológica de
 
 El Fondo se integrará de la siguiente manera:
 
-I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos de la Federación en el rubro correspondiente a la Procuraduría General de la República;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos de la Federación en el rubro correspondiente a la Fiscalía General de la República;
 
 II. Recursos obtenidos por la enajenación de bienes decomisados en procesos penales federales;
 
@@ -560,19 +562,21 @@ VII. Las donaciones o aportaciones hechas a su favor por terceros, garantizando 
 
 El Fondo a que se refiere este artículo se constituirá en los términos y porcentajes que establezca el Reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 39.
 
-La Procuraduría General de la República administrará el Fondo, siguiendo criterios de transparencia, oportunidad, eficiencia y racionalidad que serán plasmados en el Reglamento correspondiente, el cual determinará los criterios de asignación de recursos.
+La Fiscalía General de la República administrará el Fondo, siguiendo criterios de transparencia, oportunidad, eficiencia y racionalidad que serán plasmados en el Reglamento correspondiente, el cual determinará los criterios de asignación de recursos.
 
 Los recursos que lo integren serán fiscalizados anualmente por la Auditoría Superior de la Federación.
 
 ### Capítulo XII. Organización de la Federación y de las Entidades Federativas
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### Artículo 40.
 
-Conforme a lo dispuesto por el artículo 73, fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y las disposiciones de esta Ley, las instituciones de Seguridad Pública de los distintos órdenes de gobierno y las Procuradurías de Justicia de la Federación, de las entidades federativas, en el ámbito de su competencia y de acuerdo a los lineamientos que establezca el Consejo Nacional de Seguridad Pública, deberán coordinarse para:
+Conforme a lo dispuesto por el artículo 73, fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y las disposiciones de esta Ley, las instituciones de Seguridad Pública de los distintos órdenes de gobierno y las Fiscalías o Procuradurías de Justicia de la Federación, de las entidades federativas, en el ámbito de su competencia y de acuerdo a los lineamientos que establezca el Consejo Nacional de Seguridad Pública, deberán coordinarse para:
 
 I. Cumplir con los objetivos y fines de esta Ley;
 
@@ -614,11 +618,13 @@ XVIII. Establecer mecanismos de cooperación destinados al intercambio de inform
 
 XIX. Realizar las acciones y gestiones necesarias para restringir de manera permanente todo tipo de comunicación, ya sea transmisión de voz, datos, o imagen en los centros penitenciarios, cualquiera que sea su denominación.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 41.
 
-Las procuradurías deberán crear y operar unidades especiales para la investigación de las conductas previstas en esta Ley, que contarán con Ministerios Públicos y policías especializados, recursos humanos, financieros y materiales que requieran para su efectiva operación. Estas unidades se integrarán con servicios periciales y técnicos especializados para el ejercicio de su función.
+Las procuradurías o fiscalías deberán crear y operar unidades o fiscalías especializadas para la investigación de las conductas previstas en esta Ley, que contarán con Ministerios Públicos y policías especializados, recursos humanos, financieros y materiales que requieran para su efectiva operación. Estas unidades se integrarán con servicios periciales y técnicos especializados para el ejercicio de su función.
 
-La Procuraduría General de la República y las procuradurías de las entidades federativas capacitarán a su personal en materia de planeación de investigación.
+La Fiscalía General de la República y las procuradurías de las entidades federativas capacitarán a su personal en materia de planeación de investigación.
 
 ###### Artículo 42.
 
@@ -658,7 +664,9 @@ VIII. Solicitar a personas físicas o morales la entrega inmediata de informaci�
 
 IX. Proponer políticas para la prevención e investigación de las conductas previstas en esta Ley;
 
-X. Proponer al Procurador General de la República o a los procuradores de las entidades federativas, en su caso, la celebración de convenios con las empresas de telecomunicaciones para la obtención de datos adicionales contenidos en la base de datos prevista en la Ley Federal de Telecomunicaciones y sobre el uso de las mismas;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+X. Proponer al Fiscal General de la República o a los fiscales y procuradores de las entidades federativas, en su caso, la celebración de convenios con las empresas de telecomunicaciones para la obtención de datos adicionales contenidos en la base de datos prevista en la Ley Federal de Telecomunicaciones y sobre el uso de las mismas;
 
 XI. Utilizar cualquier medio de investigación que les permita regresar con vida a la víctima, identificar y ubicar a los presuntos responsables, y cumplir con los fines de la presente Ley, siempre y cuando dichas técnicas de investigación sean legales y con pleno respeto a los derechos humanos, y
 
@@ -767,3 +775,71 @@ D.O.F. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO TERCERO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE LA FISCALÍA GENERAL DE LA REPÚBLICA, SE ABROGA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS ORDENAMIENTOS LEGALES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+
+Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+
+Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
+
+Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+
+Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+
+En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
+
+Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
+
+Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+
+Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
+
+Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
+
+El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
+
+A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
+
+Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
+
+Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
+
+Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+
+Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+
+El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
+
+Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+
+Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+
+Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+
+Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
+
+Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+
+Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
+
+Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
+
+El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
+
+Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
+
+Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+
+Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+
+Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
+
+Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
+
+Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+
+Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
