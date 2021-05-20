@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-administrativas-para-el-estado-de-1227
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2021-05-13"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE MAYO DE 2021 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE MAYO DE 2021.]</small>
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 18 de julio de 2017.
 
@@ -1785,9 +1785,9 @@ TERCERO. Los procedimientos iniciados con anterioridad a la entrada en vigencia 
 
 CUARTO. Los servidores públicos que antes de la entrada en vigor de la presente Ley no se encontraban obligados a la presentación de la declaración de situación patrimonial y de intereses, quedarán obligados a presentarlas dentro de los 40 cuarenta días hábiles siguientes, a que el Comité Coordinador del Sistema Estatal Anticorrupción emita de manera oficial los formatos que se aplicarán para la presentación de dichas declaraciones, con los datos actualizados a la fecha de su presentación, debiendo cumplir en lo sucesivo con el resto de las obligaciones que esta Ley impone a los sujetos obligados en materia de declaración patrimonial y de intereses.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2021)</small>
+(REFORMADO, P.O. 13 DE MAYO DE 2021) (F. DE E., P.O. 20 DE MAYO DE 2021)
 
-QUINTO. A efecto de dar cumplimiento a las obligaciones establecidas para los servidores públicos, en el artículo 33 fracción II y cuarto transitorio de la presente Ley, referentes a la presentación de la declaración de situación patrimonial y de intereses y constancia de presentación de declaración final, que deban rendirse en el año 2021, el plazo se ampliará hasta el 31 de diciembre del año 2021.
+QUINTO. A efecto de dar cumplimiento a las obligaciones establecidas para los servidores públicos, en el artículo 33 fracción II y cuarto transitorio de la presente Ley, referentes a la presentación de la declaración de situación patrimonial y de intereses y constancia de presentación de declaración fiscal, que deban rendirse en el año 2021, el plazo se ampliará hasta el 31 de diciembre del año 2021.
 
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
