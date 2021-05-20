@@ -4,7 +4,7 @@ identifier: "LGBN"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-05-20"
-last_updated: "2020-10-21"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
 
 Ley publicada la Primera Sección del Diario Oficial de la Federación, el jueves 20 de mayo de 2004.
 
@@ -82,9 +82,9 @@ III.- Entidades: las entidades paraestatales que con tal carácter determina la 
 
 IV.- Federación: el orden de gobierno que en los términos de esta Ley ejerce sus facultades en materia de bienes nacionales, a través de los poderes Legislativo, Ejecutivo o Judicial;
 
-> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-V.- Instituciones públicas: los órganos de los Poderes Legislativo y Judicial de la Federación y de las entidades federativas; las dependencias y entidades de las administraciones públicas Federal, de las entidades federativas y municipales; la Procuraduría General de la República; las unidades administrativas de la Presidencia de la República, y las instituciones de carácter federal o local con autonomía otorgada por la Constitución Política de los Estados Unidos Mexicanos o por las Constituciones de las entidades federativas;
+V.- Instituciones públicas: los órganos de los Poderes Legislativo y Judicial de la Federación y de las entidades federativas; las dependencias y entidades de las administraciones públicas Federal, de las entidades federativas y municipales; las unidades administrativas de la Presidencia de la República y las instituciones de carácter federal o local con autonomía otorgada por la Constitución Política de los Estados Unidos Mexicanos o por las Constituciones de las entidades federativas;
 
 VI.- Instituciones destinatarias: las instituciones públicas que tienen destinados a su servicio inmuebles federales;
 
@@ -162,9 +162,13 @@ XV.- Los bienes muebles de la Federación considerados como monumentos históric
 
 XVI.- Los bienes muebles determinados por ley o decreto como monumentos arqueológicos;
 
-XVII.- Los bienes muebles de la Federación al servicio de las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, así como de los órganos de los Poderes Legislativo y Judicial de la Federación;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-XVIII.- Los muebles de la Federación que por su naturaleza no sean normalmente sustituibles, como los documentos y expedientes de las oficinas, los manuscritos, incunables, ediciones, libros, documentos, publicaciones periódicas, mapas, planos, folletos y grabados importantes o raros, así como las colecciones de estos bienes; las piezas etnológicas y paleontológicas; los especímenes tipo de la flora y de la fauna; las colecciones científicas o técnicas, de armas, numismáticas y filatélicas; los archivos, las fonograbaciones, películas, archivos fotográficos, magnéticos o informáticos, cintas magnetofónicas y cualquier otro objeto que contenga imágenes y sonido, y las piezas artísticas o históricas de los museos;
+XVII.- Los bienes muebles de la Federación al servicio de las dependencias y las unidades administrativas de la Presidencia de la República, así como de los órganos de los Poderes Legislativo y Judicial de la Federación;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 20 DE MAYO DE 2021)</small>
+
+XVIII.- Los bienes muebles e inmuebles de la Federación al servicio de los órganos constitucionales autónomos;
 
 XIX.- Los meteoritos o aerolitos y todos los objetos minerales, metálicos pétreos o de naturaleza mixta procedentes del espacio exterior caídos y recuperados en el territorio mexicano en términos del reglamento respectivo;
 
@@ -236,13 +240,17 @@ Sólo los tribunales federales serán competentes para conocer de los juicios ci
 
 Quedan sujetos a las disposiciones de esta Ley y sus reglamentos:
 
-I.- Los actos de adquisición, administración, control, uso, vigilancia, protección jurídica, valuación y enajenación de inmuebles federales, así como de bienes muebles propiedad federal al servicio de las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, sin perjuicio de la aplicación en lo que corresponda, en el caso de los bienes muebles, de las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+I.- Los actos de adquisición, administración, control, uso, vigilancia, protección jurídica, valuación y enajenación de inmuebles federales, así como de bienes muebles propiedad federal al servicio de las dependencias y las unidades administrativas de la Presidencia de la República, sin perjuicio de la aplicación en lo que corresponda, en el caso de los bienes muebles, de las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y
 
 II.- La asignación de responsabilidades institucionales en cuanto a la realización de las obras de construcción, reconstrucción, modificación, adaptación, conservación, mantenimiento, reparación y demolición en inmuebles federales, sin perjuicio de las disposiciones establecidas en la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 12.
 
-Las Secretarías de Seguridad Pública, de la Defensa Nacional y de Marina, así como la Procuraduría General de la República, prestarán el auxilio necesario cuando formalmente se les requiera, con el fin de salvaguardar los intereses patrimoniales de la Nación.
+Las Secretarías de Seguridad y Protección Ciudadana, de la Defensa Nacional y de Marina, así como la Consejería Jurídica del Ejecutivo Federal, prestarán el auxilio necesario cuando formalmente se les requiera, con el fin de salvaguardar los intereses patrimoniales de la Nación.
 
 ###### ARTÍCULO 13.
 
@@ -398,7 +406,9 @@ VI.- Instaurar los procedimientos administrativos encaminados a obtener, retener
 
 VII.- Promover el óptimo aprovechamiento y preservación del patrimonio inmobiliario federal y paraestatal;
 
-VIII.- Solicitar a la Procuraduría General de la República que intervenga en las diligencias judiciales que deban seguirse respecto de los inmuebles federales;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+VIII.- Solicitar a la Secretaría que intervenga en las diligencias judiciales que deban seguirse respecto de los inmuebles federales;
 
 IX.- Presentar y ratificar denuncias y querellas en el orden penal relativas a los inmuebles federales, así como respecto de estas últimas otorgar el perdón del ofendido en los casos en que sea procedente;
 
@@ -444,11 +454,15 @@ XII.- Registrar a los peritos que en materia de bienes nacionales se requieran, 
 
 XIII.- Emitir la declaratoria por la que la Federación adquiera el dominio de los bienes afectos a las concesiones, permisos o autorizaciones que así lo establezcan;
 
-XIV.- Llevar el registro de los responsables inmobiliarios de las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades, así como de los servidores públicos equivalentes en las demás instituciones destinatarias;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+XIV.- Llevar el registro de los responsables inmobiliarios de las dependencias, las unidades administrativas de la Presidencia de la República y las entidades, así como de los servidores públicos equivalentes en las demás instituciones destinatarias;
 
 XV.- Vigilar el uso y aprovechamiento de los inmuebles donados por la Federación y, en caso procedente, ejercer el derecho de reversión sobre los bienes donados;
 
-XVI.- Examinar en las auditorías y revisiones que practique, la información y documentación jurídica y contable relacionada con las operaciones inmobiliarias que realicen las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades, a fin de verificar el cumplimiento de esta Ley y de las disposiciones que de ella emanen;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+XVI.- Examinar en las auditorías y revisiones que practique, la información y documentación jurídica y contable relacionada con las operaciones inmobiliarias que realicen las dependencias, las unidades administrativas de la Presidencia de la República y las entidades, a fin de verificar el cumplimiento de esta Ley y de las disposiciones que de ella emanen.
 
 XVII.- Emitir los criterios para determinar los valores aplicables a cada tipo de operación a que se refieren los artículos 143 y 144 de esta Ley, entre los que las dependencias y entidades podrán elegir el que consideren conveniente;
 
@@ -488,9 +502,11 @@ Cuando los inmuebles adquiridos en el extranjero sean utilizados por dependencia
 
 Los ingresos que se obtengan por la venta de los inmuebles a que se refiere este artículo, deberán concentrarse en la Tesorería de la Federación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 32.
 
-Las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades que tengan destinados inmuebles federales o que, en el caso de estas últimas, cuenten con inmuebles dentro de su patrimonio, tendrán un responsable inmobiliario. Dicho responsable inmobiliario será el servidor público encargado de la administración de los recursos materiales de las mismas, quien deberá contar, por lo menos, con nivel de Director General o su equivalente, y tendrá las funciones siguientes:
+Las dependencias, las unidades administrativas de la Presidencia de la República y las entidades que tengan destinados inmuebles federales o que, en el caso de estas últimas, cuenten con inmuebles dentro de su patrimonio, tendrán un responsable inmobiliario. Dicho responsable inmobiliario será el servidor público encargado de la administración de los recursos materiales de las mismas, quien deberá contar, por lo menos, con nivel de Director General o su equivalente, y tendrá las funciones siguientes:
 
 I.- Investigar y determinar la situación física, jurídica y administrativa de los inmuebles, así como efectuar los levantamientos topográficos y elaborar los respectivos planos, para efectos del inventario, catastro y registro de dichos inmuebles;
 
@@ -500,7 +516,9 @@ III.- Programar, ejecutar, evaluar y controlar la realización de acciones y ges
 
 IV.- Adoptar las medidas conducentes para la adecuada conservación, mantenimiento, vigilancia y, en su caso, aseguramiento contra daños de los inmuebles;
 
-V.- Constituirse como coordinador de las unidades administrativas de las dependencias, la Procuraduría General de la República, la Presidencia de la República o las entidades de que se trate, así como enlace institucional con la Secretaría, para los efectos de la administración de los inmuebles;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+V.- Constituirse como coordinador de las unidades administrativas de las dependencias, la Presidencia de la República o las entidades de que se trate, así como enlace institucional con la Secretaría, para los efectos de la administración de los inmuebles;
 
 VI.- Coadyuvar con la Secretaría en la inspección y vigilancia de los inmuebles destinados, así como realizar estas acciones en el caso de los que son propiedad de las entidades;
 
@@ -516,7 +534,9 @@ XI.- Obtener y conservar el aviso del contratista y el acta de terminación de l
 
 XII.- Gestionar los recursos necesarios para el cabal cumplimiento de las responsabilidades a su cargo.
 
-Los órganos internos de control de las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades, vigilarán que el responsable inmobiliario cumpla con las funciones a que se refiere este artículo.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Los órganos internos de control de las dependencias, las unidades administrativas de la Presidencia de la República y las entidades vigilarán que el responsable inmobiliario cumpla con las funciones a que se refiere este artículo.
 
 ###### ARTÍCULO 33.
 
@@ -540,9 +560,11 @@ El Sistema de Información Inmobiliaria Federal y Paraestatal es la integración
 
 El Sistema de Información Inmobiliaria Federal y Paraestatal tiene por objeto constituir un instrumento de apoyo para alcanzar los fines del Sistema de Administración Inmobiliaria Federal y Paraestatal.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 36.
 
-La Secretaría, en coordinación con las demás dependencias administradoras de inmuebles y con la participación que, en su caso, corresponda al Instituto Nacional de Estadística, Geografía e Informática, emitirá las normas y procedimientos para que los responsables inmobiliarios de las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades realicen el acopio y actualización de la información y documentación necesaria para conformar el inventario, el catastro y el centro de documentación e información del patrimonio inmobiliario federal y paraestatal.
+La Secretaría, en coordinación con las demás dependencias administradoras de inmuebles y con la participación que, en su caso, corresponda al Instituto Nacional de Estadística, Geografía e Informática, emitirá las normas y procedimientos para que los responsables inmobiliarios de las dependencias, las unidades administrativas de la Presidencia de la República y las entidades realicen el acopio y actualización de la información y documentación necesaria para conformar el inventario, el catastro y el centro de documentación e información del patrimonio inmobiliario federal y paraestatal.
 
 ###### ARTÍCULO 37.
 
@@ -688,29 +710,41 @@ La Secretaría en los acuerdos de coordinación que celebre de manera general o 
 
 #### Sección Primera. De la Adquisición
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 49.
 
-Para satisfacer las solicitudes de inmuebles federales de dependencias, de la Procuraduría General de la República, de las unidades administrativas de la Presidencia de la República y de las entidades, la Secretaría deberá:
+Para satisfacer las solicitudes de inmuebles federales de dependencias, de las unidades administrativas de la Presidencia de la República y de las entidades, la Secretaría deberá:
 
 I.- Revisar el Sistema de Información Inmobiliaria Federal y Paraestatal, para determinar la existencia de inmuebles federales disponibles parcial o totalmente;
 
-II.- Difundir a las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades, la información relativa a los inmuebles federales que se encuentren disponibles;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-III.- Establecer el plazo para que las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades manifiesten por escrito, su interés a fin de que se les destine alguno de dichos bienes;
+II.- Difundir a las dependencias, las unidades administrativas de la Presidencia de la República y las entidades, la información relativa a los inmuebles federales que se encuentren disponibles;
 
-IV.- Fijar el plazo para que las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades solicitantes de un inmueble federal disponible, justifiquen su necesidad y acrediten la viabilidad de su proyecto;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+III.- Establecer el plazo para que las dependencias, las unidades administrativas de la Presidencia de la República y las entidades manifiesten por escrito, su interés a fin de que se les destine alguno de dichos bienes;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+IV.- Fijar el plazo para que las dependencias, las unidades administrativas de la Presidencia de la República y las entidades solicitantes de un inmueble federal disponible justifiquen su necesidad y acrediten la viabilidad de su proyecto;
 
 V.- Cuantificar y calificar las solicitudes, atendiendo a las características de los inmuebles solicitados y a la localización pretendida;
 
 VI.- Verificar respecto de los inmuebles federales disponibles el cumplimiento de los aspectos que señala el artículo 62 de esta Ley, y
 
-VII.- Destinar a la dependencia, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República o la entidad interesada los inmuebles federales disponibles para el uso requerido.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+VII.- Destinar a la dependencia, las unidades administrativas de la Presidencia de la República o la entidad interesada los inmuebles federales disponibles para el uso requerido.
 
 De no ser posible o conveniente destinar un inmueble federal a la entidad interesada, se podrá transmitir el dominio del inmueble en su favor mediante alguno de los actos jurídicos de disposición previstos por el artículo 84 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 50.
 
-La adquisición de derechos de dominio o de uso a título oneroso sobre inmuebles ubicados en territorio nacional para el servicio de las dependencias, la Procuraduría General de la República o las unidades administrativas de la Presidencia de la República, sólo procederá cuando no existan inmuebles federales disponibles o existiendo, éstos no fueran adecuados o convenientes para el fin que se requieran.
+La adquisición de derechos de dominio o de uso a título oneroso sobre inmuebles ubicados en territorio nacional para el servicio de las dependencias o las unidades administrativas de la Presidencia de la República, sólo procederá cuando no existan inmuebles federales disponibles o existiendo, éstos no fueran adecuados o convenientes para el fin que se requieran.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -718,7 +752,9 @@ La adquisición de derechos de dominio o de uso a título oneroso sobre inmueble
 
 Para efectos de lo dispuesto en el párrafo anterior, los responsables inmobiliarios de las dependencias, bajo su responsabilidad, harán constar que no existen inmuebles federales disponibles o que los existentes no son adecuados o convenientes para los fines requeridos, mediante consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal.
 
-Para adquirir derechos de dominio sobre inmuebles, las dependencias, la Procuraduría General de la República o las unidades administrativas de la Presidencia de la República, deberán realizar las siguientes acciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 20 DE MAYO DE 2021)</small>
+
+Para adquirir derechos de dominio sobre inmuebles, las dependencias o las unidades administrativas de la Presidencia de la República, deberán realizar las siguientes acciones:
 
 I.- Localizar el inmueble más adecuado a sus necesidades, considerando las características del bien;
 
@@ -732,29 +768,37 @@ V.- Tratándose de construcciones, obtener el respectivo dictamen de seguridad e
 
 VI.- Obtener la documentación legal necesaria para la adquisición del inmueble.
 
-Las dependencias, la Procuraduría General de la República o las unidades administrativas de la Presidencia de la República, sólo podrán arrendar bienes inmuebles para su servicio, cuando no sea posible o conveniente su adquisición. En el caso de inmuebles considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, éstos se sujetarán a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Las dependencias o las unidades administrativas de la Presidencia de la República, sólo podrán arrendar bienes inmuebles para su servicio, cuando no sea posible o conveniente su adquisición. En el caso de inmuebles considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, éstos se sujetarán a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
 La Secretaría, con la participación que en el ámbito de su competencia corresponda a la Secretaría de Hacienda y Crédito Público, emitirá los lineamientos sobre el arrendamiento de inmuebles, para establecer, entre otros aspectos, el procedimiento de contratación, la justipreciación de rentas, la forma y términos en que deberá efectuarse el pago de las mismas y las obras, mejoras, adaptaciones e instalaciones de equipos especiales que podrán realizarse en los inmuebles, así como los procedimientos para desocuparlos o continuar su ocupación.
 
-Las dependencias, la Procuraduría General de la República o las unidades administrativas de la Presidencia de la República podrán celebrar, como arrendatarias, contratos de arrendamiento financiero con opción a compra. El ejercicio de esta opción será obligatorio, salvo que a juicio de la Secretaría no sea favorable a los intereses de la Federación. Para la celebración de estos contratos, se deberán atender las disposiciones presupuestarias aplicables y obtener la autorización previa de la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
+Las dependencias o las unidades administrativas de la Presidencia de la República podrán celebrar, como arrendatarias, contratos de arrendamiento financiero con opción a compra. El ejercicio de esta opción será obligatorio, salvo que a juicio de la Secretaría no sea favorable a los intereses de la Federación. Para la celebración de estos contratos, se deberán atender las disposiciones presupuestarias aplicables y obtener la autorización previa de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 51.
 
-Cuando se pretenda adquirir el dominio de un inmueble, incluyendo los casos a que se refiere el último párrafo del artículo 50 de esta Ley, una vez seleccionado el más apropiado y siempre que exista previsión y suficiencia presupuestaria en la partida correspondiente, las dependencias, la Procuraduría General de la República o la unidad administrativa de Presidencia de la República, según sea el caso, procederán a firmar, en nombre y representación de la Federación, la escritura pública correspondiente, quedando a cargo de éstas realizar el pago del precio y demás gastos que origine la adquisición. En este caso se considerará que el inmueble ha quedado destinado a la institución que realizó la adquisición, sin que se requiera acuerdo de destino.
-
-La institución destinataria del inmueble tramitará la inscripción de la escritura en los registros correspondientes y remitirá ésta a la Secretaría para su custodia.
+Cuando se pretenda adquirir el dominio de un inmueble, incluyendo los casos a que se refiere el último párrafo del artículo 50 de esta Ley, una vez seleccionado el más apropiado y siempre que exista previsión y suficiencia presupuestaria en la partida correspondiente, las dependencias o la unidad administrativa de la Presidencia de la República, según sea el caso, procederán a firmar, en nombre y representación de la Federación, la escritura pública correspondiente, quedando a cargo de éstas realizar el pago del precio y demás gastos que origine la adquisición. En este caso se considerará que el inmueble ha quedado destinado a la institución que realizó la adquisición, sin que se requiera acuerdo de destino.
 
 > <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
 
+La institución destinataria del inmueble tramitará la inscripción de la escritura en los registros correspondientes y remitirá ésta a la Secretaría para su custodia.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 52.
 
-Cuando las dependencias, la Procuraduría General de la República o las unidades administrativas de Presidencia de la República, a nombre de la Federación, adquieran en los términos del derecho privado un inmueble para cumplir con finalidades de orden público, podrán convenir con los poseedores derivados, la forma y términos conforme a los cuales se darán por terminados los contratos de arrendamiento, comodato o cualquier otro tipo de relación jurídica que les otorgue la posesión derivada del bien, pudiendo cubrirse en cada caso una compensación, tomando en cuenta la naturaleza y vigencia de los derechos derivados de los actos jurídicos correspondientes a favor de los poseedores, así como los gastos de mudanza que tengan que erogar. El término para la desocupación y entrega del inmueble no deberá exceder de un año.
+Cuando las dependencias o las unidades administrativas de la Presidencia de la República, a nombre de la Federación, adquieran en los términos del derecho privado un inmueble para cumplir con finalidades de orden público, podrán convenir con los poseedores derivados, la forma y términos conforme a los cuales se darán por terminados los contratos de arrendamiento, comodato o cualquier otro tipo de relación jurídica que les otorgue la posesión derivada del bien, pudiendo cubrirse en cada caso una compensación, tomando en cuenta la naturaleza y vigencia de los derechos derivados de los actos jurídicos correspondientes a favor de los poseedores, así como los gastos de mudanza que tengan que erogar. El término para la desocupación y entrega del inmueble no deberá exceder de un año.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 53.
 
-Las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, aportarán el uno al millar sobre el monto de los precios por las adquisiciones onerosas de inmuebles que se realicen a favor de la Federación para el servicio de dichas instituciones públicas. Tal aportación se realizará al Fondo a que se refiere el artículo 33 de esta Ley.
+Las dependencias y las unidades administrativas de la Presidencia de la República, aportarán el uno al millar sobre el monto de los precios por las adquisiciones onerosas de inmuebles que se realicen a favor de la Federación para el servicio de dichas instituciones públicas. Tal aportación se realizará al Fondo a que se refiere el artículo 33 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
 
@@ -786,9 +830,11 @@ Asimismo, una vez en posesión, podrán cubrir anticipos adicionales con cargo a
 
 ARTÍCULO 54 QUINTUS.- Las dependencias y entidades integrarán un expediente de las negociaciones que realicen para la adquisición de inmuebles, bienes y derechos, en el que constarán los avalúos y documentos relativos a las mismas que el Reglamento señale.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 55.
 
-Cuando alguna dependencia, la Procuraduría General de la República o una de las unidades administrativas de la Presidencia de la República ejerza la posesión, control o administración a título de dueño, sobre un inmueble del que no exista inscripción en el Registro Público de la Propiedad que corresponda al lugar de su ubicación, el Ejecutivo Federal, por conducto de la Secretaría o la dependencia administradora de inmuebles de que se trate, podrá substanciar el siguiente procedimiento para expedir la declaratoria de que dicho bien forma parte del patrimonio de la Federación:
+Cuando alguna dependencia o una de las unidades administrativas de la Presidencia de la República ejerza la posesión, control o administración a título de dueño, sobre un inmueble del que no exista inscripción en el Registro Público de la Propiedad que corresponda al lugar de su ubicación, el Ejecutivo Federal, por conducto de la Secretaría o la dependencia administradora de inmuebles de que se trate, podrá substanciar el siguiente procedimiento para expedir la declaratoria de que dicho bien forma parte del patrimonio de la Federación:
 
 I.- Se publicará en uno de los periódicos locales de mayor circulación del lugar donde se ubique el bien un aviso sobre el inicio del procedimiento, a fin de que los propietarios o poseedores de los predios colindantes del inmueble y, en general, las personas que tengan interés jurídico manifiesten lo que a su derecho convenga y aporten las pruebas pertinentes dentro de un plazo de quince días hábiles, contados a partir de la fecha de su publicación;
 
@@ -796,7 +842,9 @@ II.- Se notificará por escrito el inicio del procedimiento a los propietarios o
 
 En el caso de que dichas personas se nieguen a recibir la notificación o de que el inmueble se encuentre abandonado, la razón respectiva se integrará al expediente y se hará una segunda publicación del aviso a que se refiere la fracción anterior, la cual surtirá efectos de notificación personal;
 
-III.- Tanto el aviso como la notificación a que aluden las fracciones anteriores, además deberán contener los siguientes datos del inmueble: ubicación, denominación si la tuviere, uso actual, superficie, medidas y colindancias. De igual manera, deberán expresar que el expediente queda a disposición de los interesados en la oficina que determine la Secretaría o la dependencia administradora de inmuebles correspondiente. Dicho expediente contendrá los datos y pruebas que acrediten la posesión, control o administración del inmueble por parte de alguna dependencia, la Procuraduría General de la República o una de las unidades administrativas de la Presidencia de la República, así como el plano o carta catastral respectiva, y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+III.- Tanto el aviso como la notificación a que aluden las fracciones anteriores, además deberán contener los siguientes datos del inmueble: ubicación, denominación si la tuviere, uso actual, superficie, medidas y colindancias. De igual manera, deberán expresar que el expediente queda a disposición de los interesados en la oficina que determine la Secretaría o la dependencia administradora de inmuebles correspondiente. Dicho expediente contendrá los datos y pruebas que acrediten la posesión, control o administración del inmueble por parte de alguna dependencia o una de las unidades administrativas de la Presidencia de la República, así como el plano o carta catastral respectiva, y
 
 IV.- Transcurridos los plazos a que se refieren las fracciones I y II de este artículo, sin que se hubiere presentado oposición de parte interesada, la Secretaría o la dependencia administradora de inmuebles que corresponda, procederá a expedir la declaratoria de que el inmueble de que se trate forma parte del patrimonio de la Federación. Dicha declaratoria deberá contener:
 
@@ -812,7 +860,9 @@ e) Expresión de haberse hecho las notificaciones a que alude la fracción II de
 
 f) Expresión de haber transcurrido los plazos señalados en las fracciones I y II de este artículo, sin haberse presentado oposiciones de parte legítimamente interesada;
 
-g) Expresión de los datos y pruebas que acreditan la posesión, control o administración del inmueble por parte de alguna dependencia, la Procuraduría General de la República o una de las unidades administrativas de la Presidencia de la República;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+g) Expresión de los datos y pruebas que acreditan la posesión, control o administración del inmueble por parte de alguna dependencia o una de las unidades administrativas de la Presidencia de la República;
 
 h) Declaratoria de que el inmueble forma parte del patrimonio de la Federación y de que la declaratoria constituye el título de propiedad, e
 
@@ -822,7 +872,9 @@ i) La previsión de que la declaratoria se publique en el Diario Oficial de la F
 
 En caso de que dentro del plazo señalado en las fracciones I y II del artículo anterior, alguna persona presentare oposición al procedimiento administrativo que regula el mismo precepto, la Secretaría o la dependencia administradora de inmuebles de que se trate, dentro de los quince días hábiles siguientes, valorará las pruebas aportadas y determinará si el opositor acredita su interés jurídico.
 
-En caso afirmativo, la Secretaría o la dependencia administradora de inmuebles que corresponda, se abstendrá de continuar con dicho procedimiento y tomará razón de tal situación, dando por terminado el mismo. Con el expediente respectivo le dará la intervención que corresponda a la Procuraduría General de la República, a efecto de que ejercite las acciones necesarias ante los tribunales federales competentes para obtener el título de propiedad del inmueble a favor de la Federación, de conformidad con las disposiciones del Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+En caso afirmativo, la Secretaría o la dependencia administradora de inmuebles que corresponda, se abstendrá de continuar con dicho procedimiento y tomará razón de tal situación, dando por terminado el mismo.
 
 En caso de que el opositor no haya acreditado su interés jurídico, la Secretaría o la dependencia administradora de inmuebles de que se trate, lo hará de su conocimiento y continuará con el procedimiento de expedición de la declaratoria correspondiente.
 
@@ -868,7 +920,9 @@ III.- Los destinados al servicio de las dependencias y entidades;
 
 IV.- Los destinados al servicio de los gobiernos de las entidades federativas y de los municipios o de sus respectivas entidades paraestatales;
 
-V.- Los destinados al servicio de la Procuraduría General de la República, de las unidades administrativas de la Presidencia de la República, y de las instituciones de carácter federal o local con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos o de las Constituciones de los Estados;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+V.- Los destinados al servicio de las unidades administrativas de la Presidencia de la República, y de las instituciones de carácter federal o local con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos o de las Constituciones de los Estados;
 
 VI.- Los que se adquieran mediante actos jurídicos en cuya formalización intervenga la Secretaría, en los términos de esta Ley, siempre y cuando en los mismos se determine la dependencia o entidad a la que se destinará el inmueble y el uso al que estará dedicado, y
 
@@ -928,9 +982,11 @@ La Secretaría de Medio Ambiente y Recursos Naturales respecto de los inmuebles 
 
 La Secretaría de Cultura, a través del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes y Literatura, según corresponda de acuerdo a la materia, podrá asignar o reasignar a título gratuito a favor de particulares, espacios de inmuebles federales considerados monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, que tenga destinados a su servicio, únicamente cuando se trate de cumplir convenios de colaboración institucional relacionados con actividades académicas y de investigación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 65.
 
-Las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República que tengan destinados a su servicio inmuebles federales de la competencia de la Secretaría, bajo su estricta responsabilidad y sin que se les dé un uso distinto al autorizado en el acuerdo de destino correspondiente, podrán realizar los siguientes actos respecto de dichos inmuebles, debiendo tomar en cuenta lo dispuesto por el artículo 62 de esta Ley:
+Las dependencias y las unidades administrativas de la Presidencia de la República que tengan destinados a su servicio inmuebles federales de la competencia de la Secretaría, bajo su estricta responsabilidad y sin que se les dé un uso distinto al autorizado en el acuerdo de destino correspondiente, podrán realizar los siguientes actos respecto de dichos inmuebles, debiendo tomar en cuenta lo dispuesto por el artículo 62 de esta Ley:
 
 I.- Asignar el uso de espacios a otras instituciones públicas o para el cumplimiento de los fines de fideicomisos públicos no considerados como entidades o de fideicomisos privados constituidos para coadyuvar con las instituciones destinatarias en el cumplimiento de los programas a su cargo, siempre que éstas registren previamente dichos fideicomisos privados ante la Secretaría como susceptibles de recibir en uso inmuebles federales, en el entendido de que dichas asignaciones no constituirán aportación al patrimonio fideicomitido;
 
@@ -998,7 +1054,9 @@ III.- Cuando se trate de servidores públicos que con motivo de su empleo, cargo
 
 IV.- En los demás casos previstos por leyes que regulen materias específicas.
 
-Estará a cargo de los responsables inmobiliarios de las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República o de las entidades que tengan destinados a su servicio los inmuebles federales, la observancia y aplicación de lo dispuesto en el párrafo anterior. En caso de incumplimiento, serán responsables solidarios con las personas que habiten indebidamente dichos bienes por los daños y perjuicios causados, independientemente de las responsabilidades en que incurran en los términos de las disposiciones legales aplicables.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Estará a cargo de los responsables inmobiliarios de las dependencias, las unidades administrativas de la Presidencia de la República o de las entidades que tengan destinados a su servicio los inmuebles federales, la observancia y aplicación de lo dispuesto en el párrafo anterior. En caso de incumplimiento, serán responsables solidarios con las personas que habiten indebidamente dichos bienes por los daños y perjuicios causados, independientemente de las responsabilidades en que incurran en los términos de las disposiciones legales aplicables.
 
 #### Sección Tercera. De las Concesiones
 
@@ -1256,7 +1314,9 @@ IV.- Venta a los propietarios de los predios colindantes, de los terrenos que ha
 
 V.- Donación a favor de organismos descentralizados de carácter federal cuyo objeto sea educativo o de salud;
 
-VI.- Enajenación onerosa o aportación al patrimonio de entidades;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+VI.- Enajenación onerosa o aportación al patrimonio de entidades e instituciones públicas;
 
 VII.- Afectación a fondos de fideicomisos públicos en los que el Gobierno Federal sea fideicomitente o fideicomisario;
 
@@ -1382,9 +1442,13 @@ La Secretaría emitirá los lineamientos que regulen aspectos específicos respe
 
 Las entidades podrán elegir libremente al notario público con residencia en la entidad federativa en que se ubique el inmueble de que se trate, para formalizar cada uno de los actos adquisitivos o traslativos de dominio de inmuebles que celebren.
 
-Las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, podrán elegir libremente al Notario del Patrimonio Inmobiliario Federal con residencia en la entidad federativa en que se ubique el inmueble de que se trate, para formalizar los actos adquisitivos de dominio de inmuebles a favor de la Federación.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
-A solicitud de la dependencia, la Procuraduría General de la República, una de las unidades administrativas de la Presidencia de la República o la entidad interesada, la Secretaría excepcionalmente y si lo considera procedente, podrá habilitar a un Notario del Patrimonio Inmobiliario Federal o, en el caso de entidades, a cualquier otro notario público de diferente circunscripción territorial, sin perjuicio de las leyes locales en materia del notariado.
+Las dependencias y las unidades administrativas de la Presidencia de la República, podrán elegir libremente al Notario del Patrimonio Inmobiliario Federal con residencia en la entidad federativa en que se ubique el inmueble de que se trate, para formalizar los actos adquisitivos de dominio de inmuebles a favor de la Federación.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+A solicitud de la dependencia, una de las unidades administrativas de la Presidencia de la República o la entidad interesada, la Secretaría excepcionalmente y si lo considera procedente, podrá habilitar a un Notario del Patrimonio Inmobiliario Federal o, en el caso de entidades, a cualquier otro notario público de diferente circunscripción territorial, sin perjuicio de las leyes locales en materia del notariado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2012)</small>
 
@@ -1492,7 +1556,9 @@ III.- La conservación y mantenimiento de las áreas de uso común de los inmueb
 
 IV.- La conservación y mantenimiento de los locales interiores del inmueble que sirvan para el uso exclusivo de alguna institución pública, quedarán a cargo de la misma.
 
-Para los efectos previstos en las fracciones I y III de este artículo, tratándose de las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades, éstas podrán tramitar las adecuaciones presupuestarias respectivas para que, en su caso, la Secretaría realice tales acciones, conforme al convenio que al efecto suscriban con sujeción a las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Para los efectos previstos en las fracciones I y III de este artículo, tratándose de las dependencias, las unidades administrativas de la Presidencia de la República y las entidades, éstas podrán tramitar las adecuaciones presupuestarias respectivas para que, en su caso, la Secretaría realice tales acciones, conforme al convenio que al efecto suscriban con sujeción a las disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
@@ -1706,23 +1772,31 @@ En el caso de que no existan vías públicas o accesos desde la vía pública, l
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 128.
 
-Las disposiciones de este Título serán aplicables a los bienes muebles de propiedad federal que estén al servicio de las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República.
+Las disposiciones de este Título serán aplicables a los bienes muebles de propiedad federal que estén al servicio de las dependencias y las unidades administrativas de la Presidencia de la República.
 
 Las atribuciones que en el presente Capítulo se confieren a los Oficiales Mayores o equivalentes de las dependencias, se entenderán conferidas a los titulares de los órganos desconcentrados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 129.
 
-La Secretaría expedirá las normas generales a que se sujetará el registro, afectación, disposición final y baja de los bienes muebles al servicio de las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República.
+La Secretaría expedirá las normas generales a que se sujetará el registro, afectación, disposición final y baja de los bienes muebles al servicio de las dependencias y las unidades administrativas de la Presidencia de la República.
 
 La Secretaría podrá practicar visitas de inspección a dichas instituciones y a las entidades, para verificar el control y existencia en almacenes e inventarios de bienes muebles, así como la afectación de los mismos.
 
-Corresponderá a los Oficiales Mayores o equivalentes de las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, emitir los lineamientos y procedimientos específicos, manuales, formatos e instructivos necesarios para la adecuada administración de los bienes muebles y el manejo de los almacenes.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Corresponderá a los Oficiales Mayores o equivalentes de las dependencias y las unidades administrativas de la Presidencia de la República, emitir los lineamientos y procedimientos específicos, manuales, formatos e instructivos necesarios para la adecuada administración de los bienes muebles y el manejo de los almacenes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 130.
 
-A los Oficiales Mayores o equivalentes de las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República les corresponderá, bajo su estricta responsabilidad, lo siguiente:
+A los Oficiales Mayores o equivalentes de las dependencias y las unidades administrativas de la Presidencia de la República les corresponderá, bajo su estricta responsabilidad, lo siguiente:
 
 I.- Autorizar el programa anual de disposición final de los bienes muebles;
 
@@ -1732,9 +1806,11 @@ III.- Autorizar la celebración de operaciones de permuta, dación en pago, tran
 
 El acuerdo administrativo de desincorporación a que se refiere la fracción II de este artículo, tendrá únicamente el efecto de que los bienes pierdan su carácter de inalienables. Dicho acuerdo podrá referirse a uno o más bienes debidamente identificados de manera individual.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 131.
 
-Será responsabilidad de las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, la enajenación, transferencia o destrucción de los bienes muebles de propiedad federal que estén a su servicio y que por su uso, aprovechamiento o estado de conservación no sean ya adecuados o resulte inconveniente su utilización en el mismo, así como la enajenación o destrucción de los desechos respectivos.
+Será responsabilidad de las dependencias y las unidades administrativas de la Presidencia de la República, la enajenación, transferencia o destrucción de los bienes muebles de propiedad federal que estén a su servicio y que por su uso, aprovechamiento o estado de conservación no sean ya adecuados o resulte inconveniente su utilización en el mismo, así como la enajenación o destrucción de los desechos respectivos.
 
 La enajenación de los bienes podrá llevarse a cabo mediante cualquier acto previsto al efecto por las leyes y el procedimiento se ajustará a lo dispuesto en éstas, en todo aquello que no se oponga a la presente Ley.
 
@@ -1744,7 +1820,9 @@ Cuando se trate de armamento, municiones, explosivos, agresivos químicos y arti
 
 Las enajenaciones a que se refiere este artículo no podrán realizarse a favor de los servidores públicos que en cualquier forma intervengan en los actos relativos a dichas enajenaciones, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado o civiles, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a lo dispuesto en este párrafo serán nulas y causa de responsabilidad.
 
-Los servidores públicos que no se encuentren en los supuestos señalados en el párrafo anterior, podrán participar en las licitaciones públicas de los bienes muebles al servicio de las dependencias, la Procuraduría General de la República o las unidades administrativas de la Presidencia de la República, que éstas determinen enajenar.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Los servidores públicos que no se encuentren en los supuestos señalados en el párrafo anterior, podrán participar en las licitaciones públicas de los bienes muebles al servicio de las dependencias o las unidades administrativas de la Presidencia de la República, que éstas determinen enajenar.
 
 ###### ARTÍCULO 132.
 
@@ -1752,11 +1830,13 @@ Salvo los casos comprendidos en los párrafos tercero y cuarto de este artículo
 
 Para efectos de la subasta se considerará postura legal la que cubra las dos terceras partes del valor base fijado para la licitación. Si en la primera almoneda no hubiere postura legal, se realizará una segunda, deduciendo en ésta un diez por ciento del importe que en la anterior hubiere constituido la postura legal. Si no se lograse la venta en la segunda almoneda, se podrán emplear los procedimientos a que se refiere el párrafo siguiente, considerando para tal efecto como valor base la postura legal de esta última almoneda.
 
-Las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, podrán vender bienes muebles sin sujetarse a licitación pública, mediante invitación a cuando menos tres personas o adjudicación directa, previa autorización de la Secretaría, cuando se presenten condiciones o circunstancias extraordinarias o imprevisibles o situaciones de emergencia, o no existan por lo menos tres posibles interesados capacitados legalmente para presentar ofertas. En estos casos, la selección del procedimiento de enajenación se hará en función de obtener las mejores condiciones para el Gobierno Federal, en cuanto a precio, oportunidad y demás circunstancias pertinentes.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+Las dependencias y las unidades administrativas de la Presidencia de la República, podrán vender bienes muebles sin sujetarse a licitación pública, mediante invitación a cuando menos tres personas o adjudicación directa, previa autorización de la Secretaría, cuando se presenten condiciones o circunstancias extraordinarias o imprevisibles o situaciones de emergencia, o no existan por lo menos tres posibles interesados capacitados legalmente para presentar ofertas. En estos casos, la selección del procedimiento de enajenación se hará en función de obtener las mejores condiciones para el Gobierno Federal, en cuanto a precio, oportunidad y demás circunstancias pertinentes.
 
-También podrán las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, vender bienes sin sujetarse a licitación pública, cuando el valor de éstos en su conjunto no exceda del equivalente a mil días de salario mínimo general vigente en la Ciudad de México.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+También podrán las dependencias y las unidades administrativas de la Presidencia de la República, vender bienes sin sujetarse a licitación pública, cuando el valor de éstos en su conjunto no exceda del equivalente a mil días de salario mínimo general vigente en la Ciudad de México.
 
 El monto de la enajenación no podrá ser inferior a los valores mínimos de los bienes que, en su caso, determine la Secretaría con base en el avalúo que para tal efecto practique o mediante el procedimiento que con ese objeto establezca. La Secretaría emitirá, conforme a las disposiciones aplicables, los instrumentos administrativos que contengan los referidos valores.
 
@@ -1764,11 +1844,11 @@ La enajenación de bienes muebles cuyo valor mínimo no hubiere fijado la Secret
 
 Lo dispuesto en los dos párrafos anteriores respecto al valor mínimo de venta no será aplicable a los casos de subasta a que se refiere el párrafo segundo de este artículo.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 133.
 
-Las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, con aprobación expresa de su Oficial Mayor o equivalente, o del Comité de Bienes Muebles, en su caso, podrán donar bienes muebles de propiedad federal que estén a su servicio, cuando ya no les sean útiles, a las entidades federativas, municipios, instituciones de salud, beneficencia o asistencia, educativas o culturales, a quienes atiendan la prestación de servicios sociales por encargo de las propias dependencias, a beneficiarios de algún servicio asistencial público, a las comunidades agrarias y ejidos y a entidades que los necesiten para sus fines, siempre que el valor de los bienes objeto de la donación, conforme al último párrafo de este artículo, no exceda del equivalente a diez mil Unidades de Medida y Actualización. Dicha donación se realizará conforme al procedimiento establecido en este Capítulo.
+Las dependencias y las unidades administrativas de la Presidencia de la República, con aprobación expresa de su Oficial Mayor o equivalente, o del Comité de Bienes Muebles, en su caso, podrán donar bienes muebles de propiedad federal que estén a su servicio, cuando ya no les sean útiles, a las entidades federativas, municipios, instituciones de salud, beneficencia o asistencia, educativas o culturales, a quienes atiendan la prestación de servicios sociales por encargo de las propias dependencias, a beneficiarios de algún servicio asistencial público, a las comunidades agrarias y ejidos y a entidades que los necesiten para sus fines, siempre que el valor de los bienes objeto de la donación, conforme al último párrafo de este artículo, no exceda del equivalente a diez mil Unidades de Medida y Actualización. Dicha donación se realizará conforme al procedimiento establecido en este Capítulo.
 
 Si el valor de los bienes excede de la cantidad mencionada, se requerirá de la previa autorización de la Secretaría.
 
@@ -1776,27 +1856,33 @@ En el caso de ayuda humanitaria o de investigación científica, la Federación 
 
 En todo caso, la donación de bienes deberá realizarse a valor de adquisición o de inventario.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 134.
 
-La transferencia de bienes muebles podrá realizarse exclusivamente entre dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República; para ello, deberá contarse con la autorización previa del Oficial Mayor o equivalente de la institución a cuyo servicio estén los bienes, la que no requerirá de la obtención de avalúo, sino que deberá formalizarse a valor de adquisición o de inventario, mediante acta de entrega recepción.
+La transferencia de bienes muebles podrá realizarse exclusivamente entre dependencias y las unidades administrativas de la Presidencia de la República; para ello, deberá contarse con la autorización previa del Oficial Mayor o equivalente de la institución a cuyo servicio estén los bienes, la que no requerirá de la obtención de avalúo, sino que deberá formalizarse a valor de adquisición o de inventario, mediante acta de entrega recepción.
 
 ###### ARTÍCULO 135.
 
 Efectuada la enajenación, transferencia o destrucción, se procederá a la cancelación de registros en inventarios y se dará aviso a la Secretaría de la baja respectiva en los términos que ésta establezca.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 136.
 
-Los actos de disposición final que respecto de los bienes muebles a su servicio, realicen en sus representaciones en el extranjero las dependencias y la Procuraduría General de la República, se regirán en lo procedente por este Capítulo, sin perjuicio de lo dispuesto por la legislación del lugar donde se lleven a cabo.
+Los actos de disposición final que respecto de los bienes muebles a su servicio, realicen en sus representaciones en el extranjero las dependencias, se regirán en lo procedente por este Capítulo, sin perjuicio de lo dispuesto por la legislación del lugar donde se lleven a cabo.
 
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 137.
 
-Las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, podrán otorgar bienes muebles en comodato a entidades, a los gobiernos de las entidades federativas y de los municipios, así como a instituciones de educación superior y asociaciones que no persigan fines de lucro, siempre y cuando con ello se contribuya al cumplimiento de programas del Gobierno Federal, lo que deberá ser objeto de acreditación y seguimiento por parte de la institución de que se trate.
+Las dependencias y las unidades administrativas de la Presidencia de la República, podrán otorgar bienes muebles en comodato a entidades, a los gobiernos de las entidades federativas y de los municipios, así como a instituciones de educación superior y asociaciones que no persigan fines de lucro, siempre y cuando con ello se contribuya al cumplimiento de programas del Gobierno Federal, lo que deberá ser objeto de acreditación y seguimiento por parte de la institución de que se trate.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 138.
 
-La Secretaría llevará y mantendrá permanentemente actualizado un catálogo o registro clasificatorio de los bienes muebles de las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, las que deberán remitirle la información necesaria para tales efectos, así como aquélla que les solicite.
+La Secretaría llevará y mantendrá permanentemente actualizado un catálogo o registro clasificatorio de los bienes muebles de las dependencias y las unidades administrativas de la Presidencia de la República, las que deberán remitirle la información necesaria para tales efectos, así como aquélla que les solicite.
 
 ###### ARTÍCULO 139.
 
@@ -1808,9 +1894,11 @@ Las bases que dicten los órganos de gobierno guardarán la debida congruencia c
 
 Las facultades a que se refieren los artículos 130 y 131 de esta Ley, corresponderán, en lo aplicable, al órgano de gobierno de la entidad, el que podrá delegarlas en el titular de la propia entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 140.
 
-Los titulares de las dependencias, de la Procuraduría General de la República y de las unidades administrativas de la Presidencia de la República, así como los órganos de gobierno de las entidades deberán establecer comités de bienes muebles para la autorización, control y seguimiento de las operaciones respectivas, según corresponda.
+Los titulares de las dependencias y de las unidades administrativas de la Presidencia de la República, así como los órganos de gobierno de las entidades deberán establecer comités de bienes muebles para la autorización, control y seguimiento de las operaciones respectivas, según corresponda.
 
 La integración y funcionamiento de estos comités se sujetarán a las normas que emita la Secretaría y a las bases generales que dicten dichos órganos, en los términos de los artículos 129 y 139 de esta Ley, respectivamente.
 
@@ -1826,7 +1914,9 @@ III.- Llevar a cabo el seguimiento del programa anual de disposición final de b
 
 IV.- Analizar los casos de excepción al procedimiento de licitación pública previstos en el tercer párrafo del artículo 132 de esta Ley y proponerlos para su autorización a la Secretaría;
 
-V.- Autorizar la constitución de subcomités en órganos desconcentrados, delegaciones o representaciones, determinando su integración y funciones específicas, así como la forma y términos en que deberán informar al comité de la dependencia, la Procuraduría General de la República o las unidades administrativas de la Presidencia de la República, según corresponda, sobre su actuación;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+V.- Autorizar la constitución de subcomités en órganos desconcentrados, delegaciones o representaciones, determinando su integración y funciones específicas, así como la forma y términos en que deberán informar al comité de la dependencia o las unidades administrativas de la Presidencia de la República, según corresponda, sobre su actuación;
 
 VI.- Autorizar los actos para la desincorporación patrimonial de desechos, con vigencia mayor a un año;
 
@@ -1836,9 +1926,13 @@ VIII.- Cuando le sea solicitado por el Oficial Mayor o equivalente, analizar la 
 
 IX.- Nombrar a los servidores públicos encargados de presidir los actos de apertura de ofertas y de fallo;
 
-X.- Analizar los informes trimestrales de conclusión o trámite de los asuntos sometidos al comité, así como de todas las enajenaciones efectuadas en el periodo por la dependencia, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, a fin de, en su caso, disponer las medidas de mejora o correctivas necesarias, y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-XI.- Aprobar el informe anual respecto de los resultados obtenidos de su actuación, en la primera sesión del ejercicio fiscal inmediato posterior, así como someterlo a la consideración del titular de la dependencia, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República correspondiente.
+X.- Analizar los informes trimestrales de conclusión o trámite de los asuntos sometidos al comité, así como de todas las enajenaciones efectuadas en el periodo por la dependencia y las unidades administrativas de la Presidencia de la República, a fin de, en su caso, disponer de las medidas de mejora o correctivas necesarias, y
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+XI.- Aprobar el informe anual respecto de los resultados obtenidos de su actuación, en la primera sesión del ejercicio fiscal inmediato posterior, así como someterlo a la consideración del titular de la dependencia y las unidades administrativas de la Presidencia de la República correspondiente.
 
 En ningún caso podrán los comités emitir las autorizaciones o aprobaciones a que se refiere este artículo, cuando falte el cumplimiento de algún requisito o no se cuente con los documentos esenciales exigidos por las disposiciones aplicables. En consecuencia, no producirán efecto alguno los acuerdos condicionados en cualquier sentido.
 
@@ -1852,9 +1946,11 @@ Las normas a que se refiere el artículo 129 de esta Ley, precisarán cuáles so
 
 La Secretaría emitirá las normas, procedimientos, criterios y metodologías de carácter técnico, conforme a los cuales se llevarán a cabo los avalúos y justipreciaciones de rentas a que se refieren los artículos 143 y 144 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 143.
 
-Previamente a la celebración de los actos jurídicos a que se refiere el presente artículo en los que intervengan las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y, en su caso, las entidades, corresponderá a la Secretaría dictaminar:
+Previamente a la celebración de los actos jurídicos a que se refiere el presente artículo en los que intervengan las dependencias, las unidades administrativas de la Presidencia de la República y, en su caso, las entidades, corresponderá a la Secretaría dictaminar:
 
 I.- El valor de los inmuebles respecto de los que la Federación pretenda adquirir derechos de propiedad, posesión o cualquier otro derecho real, mediante contratos de compraventa, permuta, arrendamiento financiero o cualquier otro de derecho común cuando se requiera el avalúo;
 
@@ -1882,7 +1978,9 @@ X.- El valor de los inmuebles federales materia de concesión para el efecto de 
 
 XI.- El monto de las rentas que la Federación y las entidades deban cobrar cuando tengan el carácter de arrendadoras;
 
-XII.- El monto de las rentas que las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades deban pagar cuando tengan el carácter de arrendatarias, salvo en los casos a que se refiere el último párrafo del artículo 50 de esta Ley;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+XII.- El monto de las rentas que las dependencias, las unidades administrativas de la Presidencia de la República y las entidades deban pagar cuando tengan el carácter de arrendatarias, salvo en los casos a que se refiere el último párrafo del artículo 50 de esta Ley;
 
 XIII.- El valor de los inmuebles afectos a los fines de las concesiones, permisos o autorizaciones a que se refiere el artículo 58 de esta Ley, en los casos en que se autorice su enajenación parcial, así como cuando se resuelva la nulidad, modificación, revocación o caducidad de dichos actos, para los efectos que señala el mismo precepto;
 
@@ -1900,9 +1998,11 @@ XVIII.- Los demás valores que las leyes, reglamentos y demás disposiciones apl
 
 Asimismo, la Secretaría podrá practicar todo tipo de trabajos valuatorios a nivel de consultoría, cuando se lo soliciten las instituciones públicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 144.
 
-Previamente a la celebración de los actos jurídicos a que se refiere el presente artículo en los que intervengan las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades, éstas podrán solicitar a la Secretaría, a las instituciones de crédito o a los especialistas en materia de valuación con cédula profesional expedida por autoridad competente, que determinen:
+Previamente a la celebración de los actos jurídicos a que se refiere el presente artículo en los que intervengan las dependencias, las unidades administrativas de la Presidencia de la República y las entidades, éstas podrán solicitar a la Secretaría, a las instituciones de crédito o a los especialistas en materia de valuación con cédula profesional expedida por autoridad competente, que determinen:
 
 I.- El valor de los inmuebles respecto de los que las entidades pretendan adquirir derechos de propiedad, posesión o cualquier otro derecho real, mediante contratos de compraventa, permuta, arrendamiento financiero o cualquier otro de derecho común cuando se requiera el avalúo;
 
@@ -1910,17 +2010,25 @@ II.- El valor de los inmuebles respecto de los que las entidades pretendan trans
 
 III.- El valor del patrimonio de las unidades económicas agropecuarias, industriales, comerciales o de servicios que por cualquier concepto adquieran o enajenen las entidades;
 
-IV.- El valor de los bienes objeto de dación en pago de créditos fiscales, de cuotas obrero-patronales y de adeudos de carácter mercantil o civil, así como de los bienes que las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades pretendan enajenar para cobrar dichos créditos;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-V.- El valor de los inmuebles que sean objeto de aseguramiento contra daños por parte de las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades;
+IV.- El valor de los bienes objeto de dación en pago de créditos fiscales, de cuotas obrero-patronales y de adeudos de carácter mercantil o civil, así como de los bienes que las dependencias, las unidades administrativas de la Presidencia de la República y las entidades pretendan enajenar para cobrar dichos créditos;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+V.- El valor de los inmuebles que sean objeto de aseguramiento contra daños por parte de las dependencias, las unidades administrativas de la Presidencia de la República y las entidades;
 
 VI.- El valor de los bienes inmuebles y demás activos de las entidades, cuando éstas lo soliciten para efectos de actualización de valores de sus inventarios con fines contables o para la reexpresión de sus estados financieros;
 
 VII.- El valor de los bienes que sean objeto de aseguramiento o decomiso por haber sido instrumento, medio, objeto o producto de un delito, cuando se vayan a enajenar;
 
-VIII.- El valor de los bienes muebles usados que las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades pretendan adquirir mediante el procedimiento de invitación a cuando menos tres proveedores o de adjudicación directa;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-IX.- El valor de los bienes muebles de propiedad federal al servicio de las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, así como de los muebles que formen parte de los activos o se encuentren al servicio de las entidades, cuando se pretendan enajenar, sin perjuicio de lo dispuesto por el artículo 132, párrafo quinto, de esta Ley;
+VIII.- El valor de los bienes muebles usados que las dependencias, las unidades administrativas de la Presidencia de la República y las entidades pretendan adquirir mediante el procedimiento de invitación a cuando menos tres proveedores o de adjudicación directa;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+IX.- El valor de los bienes muebles de propiedad federal al servicio de las dependencias y las unidades administrativas de la Presidencia de la República, así como de los muebles que formen parte de los activos o se encuentren al servicio de las entidades, cuando se pretendan enajenar, sin perjuicio de lo dispuesto por el artículo 132, párrafo quinto, de esta Ley;
 
 X.- El valor de los bienes muebles faltantes en el inventario, a fin de tomarlo como base para la cuantificación de los pliegos preventivos de responsabilidades calificados como definitivos por la autoridad competente;
 
@@ -1930,13 +2038,17 @@ XII.- El monto de la indemnización que se deba cubrir en concepto de daños y p
 
 XIII.- Los demás valores cuya determinación no esté encomendada exclusivamente a la Secretaría por esta Ley u otros ordenamientos jurídicos.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 145.
 
-Cuando con motivo de la celebración de los actos jurídicos a que se refieren los artículos 143 y 144, las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República o las entidades deban cubrir una prestación pecuniaria, ésta no podrá ser superior al valor dictaminado. Si le corresponde a la contraparte el pago de la prestación pecuniaria, ésta no podrá ser inferior al valor dictaminado, salvo las excepciones que esta Ley establece.
+Cuando con motivo de la celebración de los actos jurídicos a que se refieren los artículos 143 y 144, las dependencias, las unidades administrativas de la Presidencia de la República o las entidades deban cubrir una prestación pecuniaria, ésta no podrá ser superior al valor dictaminado. Si le corresponde a la contraparte el pago de la prestación pecuniaria, ésta no podrá ser inferior al valor dictaminado, salvo las excepciones que esta Ley establece.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 146.
 
-En el caso de que las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República o las entidades, pretendan continuar la ocupación de un inmueble arrendado, la Secretaría podrá fijar el porcentaje máximo de incremento al monto de las rentas pactadas en los contratos de arrendamiento correspondientes, sin que sea necesario justipreciar las rentas.
+En el caso de que las dependencias, las unidades administrativas de la Presidencia de la República o las entidades, pretendan continuar la ocupación de un inmueble arrendado, la Secretaría podrá fijar el porcentaje máximo de incremento al monto de las rentas pactadas en los contratos de arrendamiento correspondientes, sin que sea necesario justipreciar las rentas.
 
 Las instituciones mencionadas no requerirán obtener justipreciaciones de rentas, cuando el monto de las mismas no rebase el importe máximo de rentas que fije anualmente la Secretaría.
 
@@ -2119,3 +2231,71 @@ D.O.F. 21 DE OCTUBRE DE 2020.
 > <small>[N. DE E. TRANSITORO DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY GENERAL DE BIENES NACIONALES, PARA GARANTIZAR EL LIBRE ACCESO Y TRÁNSITO EN LAS PLAYAS”.]</small>
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE LA FISCALÍA GENERAL DE LA REPÚBLICA, SE ABROGA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS ORDENAMIENTOS LEGALES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+
+Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+
+Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
+
+Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+
+Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+
+En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
+
+Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
+
+Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+
+Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
+
+Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
+
+El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
+
+A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
+
+Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
+
+Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
+
+Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+
+Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+
+El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
+
+Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+
+Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+
+Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+
+Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
+
+Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+
+Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
+
+Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
+
+El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
+
+Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
+
+Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+
+Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+
+Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
+
+Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
+
+Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+
+Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
