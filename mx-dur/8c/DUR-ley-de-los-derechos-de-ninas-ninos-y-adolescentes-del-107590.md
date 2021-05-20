@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2021-04-08"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -1287,7 +1287,9 @@ Los requisitos para ser nombrado titular de la Procuraduría de Protección, son
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
-II. Tener más de 35 años de edad;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+II. Tener más de 30 años de edad.
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
@@ -1737,7 +1739,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 27 DE DICIEMBRE DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "QUE CONTIENE REFORMA AL PRIMER PÁRRAF (SIC) Y A LA FRACCIÓN VI DEL ARTÍCULO 82, SE DEROGAN LAS FRACCIONES I, XVII, XIX Y LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 82, ASÍ COMO EL SEGUNDO Y TERCER PARRAFO DEL NUMERAL 83, LOS ARTÍCULOS 83 BIS, 83 BIS 1, 83 BIS 2 Y 83 BIS 4, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL “QUE CONTIENE REFORMA AL PRIMER PÁRRAF (SIC) Y A LA FRACCIÓN VI DEL ARTÍCULO 82, SE DEROGAN LAS FRACCIONES I, XVII, XIX Y LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 82, ASÍ COMO EL SEGUNDO Y TERCER PARRAFO DEL NUMERAL 83, LOS ARTÍCULOS 83 BIS, 83 BIS 1, 83 BIS 2 Y 83 BIS 4, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1854,6 +1856,18 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE ABRIL DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 510.- POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 37 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 544.- QUE CONTIENE REFORMA A LA FRACCIÓN II DEL ARTÍCULO 78 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
