@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-procuraduria-de-proteccion-de-ninas-ninos-y-116765"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-01"
-last_updated: "2020-11-19"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de septiembre de 2016.
 
@@ -55,33 +55,59 @@ Las disposiciones de esta Ley son de orden público, interés social y de observ
 
 Para efectos de la presente Ley, se entiende por:
 
-Acogimiento Residencial: El brindado por Centros de Asistencia Social, como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Acuerdo de no reintegración: Es aquel que emite el Procurador o Subprocurador de Protección, cuando de los estudios practicados se desprende, que la familia de origen no es idónea para ejercer la patria potestad o tutela.
+I. Acogimiento Residencial: El brindado por Centros de Asistencia Social, como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar.
 
-Adolescente: Las personas de entre doce años cumplidos y menos de dieciocho años de edad. Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Asistencia Social: El conjunto de acciones del Estado, tendentes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de niñas, niños y adolescentes, así como su protección física, mental y social cuando se encuentren en estado de vulnerabilidad, necesidad, indefensión desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva; la cual comprende acciones de promoción, previsión, prevención, protección, rehabilitación y demás que sean necesarias para su desarrollo integral.
+II. Acuerdo de no reintegración: Es aquel que emite el Procurador de Protección o el Subprocurador de Restitución de Derechos, cuando de los estudios practicados se desprende, que la familia de origen no es idónea para ejercer la patria potestad o tutela.
 
-Adopción Internacional: La promovida por extranjeros o por mexicanos que residan permanentemente en otro país, que se regirá por la Convención Sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional y por los Tratados Internacionales de la materia que México suscriba y ratifique; así como en los demás instrumentos legales aplicables.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones.
+III. Adolescente: Las personas de entre doce años cumplidos y menos de dieciocho años de edad. Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente.
 
-Certificado de Idoneidad: El documento expedido por el Sistema Nacional DIF y los Sistemas de las Entidades, o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son idóneos para ello;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
+IV. Asistencia Social: El conjunto de acciones del Estado, tendentes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de niñas, niños y adolescentes, así como su protección física, mental y social cuando se encuentren en estado de vulnerabilidad, necesidad, indefensión desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva; la cual comprende acciones de promoción, previsión, prevención, protección, rehabilitación y demás que sean necesarias para su desarrollo integral.
 
-Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Familia de Acogida: Aquélla que cuente con la certificación de la Procuraduría de Protección y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
+V. Adopción Internacional: La promovida por extranjeros o por mexicanos que residan permanentemente en otro país, que se regirá por la Convención Sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional y por los Tratados Internacionales de la materia que México suscriba y ratifique; así como en los demás instrumentos legales aplicables.
 
-Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+VI. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones.
 
-Interés Superior de la Niñez: Es la prioridad que ha de otorgarse a los derechos de las niñas, los niños y adolescentes, respecto de los derechos de cualquier otra persona, procurando garantizar al menos lo siguiente:
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-a) El niño debe ser criado por su Familia de Origen o su Familia Extensa o Ampliada siempre que sea posible. Si esto no es posible o viable, entonces deberán ser consideradas otras formas de cuidado, tal como la Familia de Acogida, Familia de Acogimiento pre-adoptivo o la adopción;
+VII. Certificado de Idoneidad: El documento expedido por el Sistema Nacional DIF y los Sistemas de las Entidades, o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son idóneos para ello.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+VIII. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+IX. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+X. Familia de Acogida: Aquélla que cuente con la certificación de la Procuraduría de Protección y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XI. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XII. Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE MAYO DE 2021)</small>
+
+XIII. Interés Superior de la Niñez: Es la prioridad que ha de otorgarse a los derechos de las niñas, los niños y adolescentes, respecto de los derechos de cualquier otra persona, procurando garantizar al menos lo siguiente:
+
+a) El niño debe ser criado por su Familia de Origen o su Familia Extensa o Ampliada siempre que sea posible. Si esto no es posible o viable, entonces deberán ser consideradas otras formas de cuidado, tal como la Familia de Acogida, Familia de Acogimiento pre-adoptivo o la adopción, o persona significativa para la niña, niño o adolescente;
 
 b) El acceso a la salud física y mental, alimentación, y educación que fomente su desarrollo personal;
 
@@ -89,47 +115,87 @@ c) Otorgarle un ambiente de respeto, aceptación y afecto, libre de cualquier ti
 
 d) El desarrollo de la estructura de personalidad;
 
-e) Fomentar la responsabilidad personal y social, así como la toma de decisiones de niñas, niños y adolescentes acuerdo a su edad y madurez psicoemocional; y
+e) Fomentar la responsabilidad personal y social, así como la toma de decisiones de niñas, niños y adolescentes acuerdo a su edad y madurez psicoemocional.
 
-Ley: A la presente Ley de la Procuraduría de Protección de las Niñas, Niños y Adolescentes del Estado de Durango.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Ley Estatal: Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Durango.
+XIV. Ley: A la presente Ley de la Procuraduría de Protección de las Niñas, Niños y Adolescentes del Estado de Durango,
 
-Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Niña o niño: A la persona menor de doce años de edad. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
+XV. Ley Estatal: Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Durango.
 
-Niña, niño o adolescente migrante no acompañado: A todo migrante nacional o extranjero niño, niña o adolescente menor de dieciocho años de edad, que se encuentre en territorio nacional y que no esté acompañado de un familiar consanguíneo o persona que tenga su representación legal.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Órgano Jurisdiccional: Los juzgados o tribunales federales o del Estado de Durango.
+XVI. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
-Procurador de Protección: El Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango.
+XVII. Niña o niño: A la persona menor de doce años de edad. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
 
-Procuraduría de Protección Federal: La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Protección integral: Conjunto de mecanismos que se ejecutan en los tres órdenes de gobierno con el fin de garantizar de manera universal los derechos de las niñas, niños y adolescentes, en cada una de las materias que se relacionen con ellos, de conformidad con los principios rectores establecidos en la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales de los que el Estado Mexicano sea parte, Ley General de los Derechos de Niñas, Niños y Adolescentes, Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Durango y demás normatividad aplicable.
+XVIII. Niña, niño o adolescente migrante no acompañado: A todo migrante nacional o extranjero niño, niña o adolescente menor de dieciocho años de edad, que se encuentre en territorio nacional y que no esté acompañado de un familiar consanguíneo o persona que tenga su representación legal.
 
-Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con la Ley General y la Ley Estatal.
+XIX. Órgano Jurisdiccional: Los juzgados o tribunales federales o del Estado de Durango.
 
-Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, a falta de representación originaria, sin perjuicio de la intervención que corresponda al Ministerio Público.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Sistema DIF Estatal: Sistema para el Desarrollo Integral de la Familia en el Estado de Durango.
+XX. Procurador de Protección: El Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango.
 
-Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia.
+XXI. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango.
 
-Situación de vulnerabilidad: Cuando los derechos de las niñas, niños y adolescentes sean violentados, así como cuando estos tienen la imposibilidad para prever y resistir a los efectos de un peligro natural o causado por la actividad humana, que les impiden hacerles frente y en consecuencia recuperarse de los mismos.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Subprocurador de Atención: El Titular de la Subprocuraduría de Atención a Grupos Vulnerables.
+XXII. Procuraduría de Protección Federal: La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes.
 
-Subprocurador de Protección: El titular de la Subprocuraduría de Protección de Niñas, Niños y Adolescentes.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-Tratados Internacionales: Los tratados internacionales vigentes en relación a derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXIII. Protección integral: Conjunto de mecanismos que se ejecutan en los tres órdenes de gobierno con el fin de garantizar de manera universal los derechos de las niñas, niños y adolescentes, en cada una de las materias que se relacionen con ellos, de conformidad con los principios rectores establecidos en la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales de los que el Estado Mexicano sea parte, Ley General de los Derechos de Niñas, Niños y Adolescentes, Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Durango y demás normatividad aplicable.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XXIV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia sin perjuicio de la intervención que corresponda al Ministerio Público.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XXV. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con la Ley General y la Ley Estatal.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XXVI. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, a falta de representación originaria, sin perjuicio de la intervención que corresponda al Ministerio Público.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XXVII. Sistema DIF Estatal: Sistema para el Desarrollo Integral de la Familia en el Estado de Durango.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XXVIII. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XXIX. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XXX. Situación de vulnerabilidad: Cuando los derechos de las niñas, niños y adolescentes sean violentados, así como cuando estos tienen la imposibilidad para prever y resistir a los efectos de un peligro natural o causado por la actividad humana, que les impiden hacerles frente y en consecuencia recuperarse de los mismos.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XXXI. Subprocurador de Atención: El Titular de la Subprocuraduría de Atención a Grupos Vulnerables.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XXXII. Subprocurador de Restitución de Derechos: El Titular de la Subprocuraduría de Restitución de Derechos de Niñas, Niños y Adolescentes del Estado de Durango.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XXXIII. Tratados Internacionales: Los tratados internacionales vigentes en relación a derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN DE LA PROCURADURÍA DE PROTECCIÓN
 
@@ -139,35 +205,53 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes en el Estado es
 
 I. Un Procurador de Protección;
 
-II. Un Subprocurador de Protección;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+II. Un Subprocurador de Restitución de Derechos;
 
 III. Un Subprocurador de Atención a Grupos Vulnerables;
 
-IV. Coordinación de Delegaciones Municipales;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+IV. Coordinación de Seguimiento;
 
 V. Un Delegado de la Procuraduría de Protección por cada Municipio;
 
-VI. Coordinación de Asistencia Jurídica;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-VII. Coordinación de Atención al maltrato de Niñas, Niños y Adolescentes;
+VI. Coordinación de Representación Jurídica;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+VII. Coordinación de Investigación y Resolución;
 
 VIII. Coordinación del Centro de Psicoterapia Familiar;
 
 IX. Coordinación del Desarrollo Integral de la Infancia;
 
-X. Coordinación de Casa Refugio Esperanza;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+X. Coordinación de Casa Refugio;
 
 XI. Coordinación de Casa Hogar DIF;
 
 XII. Coordinación de Regulación de Centros de Asistencia Social.
 
-XIII. Coordinación de Casa Crecemos;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XIII. Coordinación de Mi Casa;
 
 XIV. Departamento de Adopciones;
 
-XV. Departamento de Trabajo Social; y
+XV. (DEROGADA, P.O. 20 DE MAYO DE 2021)
 
-XVI. El personal operativo, técnico y administrativo suficiente para las necesidades de la Institución, de conformidad con la disposición presupuestal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2021)</small>
+
+XVI. Coordinación de Familias de Acogida; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XVI, P.O. 20 DE MAYO DE 2021)</small>
+
+XVII. El personal operativo, técnico y administrativo suficiente para las necesidades de la Institución, de conformidad con la disposición presupuestal.
 
 ###### Artículo 4.
 
@@ -175,7 +259,9 @@ Para ser Procurador de Protección o Subprocurador se requiere:
 
 I. Ser ciudadano duranguense en pleno goce de sus derechos civiles y políticos;
 
-II. Tener más de 35 años de edad, en el caso del Procurador de Protección y más de 30 para el caso de los Subprocuradores;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+II. Tener más de 30 años de edad;
 
 III. Contar con título y cédula profesional de Licenciatura en Derecho, debidamente registrados, con una antigüedad mínima de 5 años;
 
@@ -275,13 +361,29 @@ XVIII. Realizar en el ámbito de su competencia, valoraciones psicológicas, soc
 
 XIX. Emitir el certificado de idoneidad, en caso de resultar procedente, a las personas que soliciten la adopción de Niñas, Niños y Adolescentes que se encuentren bajo su tutela;
 
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XIX BIS. Emitir los certificados de idoneidad, en caso de resultar procedente, a la persona o personas que soliciten constituirse como Familias de Acogida, de acuerdo a los lineamientos establecidos por la Procuraduría de Protección;
+
 XX. Otorgar la asignación de Niñas, Niños y Adolescentes bajo su tutela, a una Familia de Acogida Pre Adoptiva que cuente con certificado de idoneidad, observando los lineamientos que para el efecto señala el Reglamento del Consejo Técnico de Adopciones del Sistema DIF Estatal;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XX BIS. Llevar a cabo la asignación de Niñas, Niños y Adolescentes bajo la tutela del Estado a través de la figura de Familia de Acogida, a aquella persona o personas que cuenten con certificado de idoneidad;
 
 XXI. Dar seguimiento a la convivencia y al proceso de adaptación entre Niñas, Niños y Adolescentes bajo su tutela y la Familia de Acogida pre-adoptiva asignada;
 
 XXII. Iniciar el procedimiento respectivo a fin de reincorporar a Niñas, Niños y Adolescentes bajo su tutela, de haberse constatado que no se consolidaron las condiciones de adaptación entre éstos y la Familia de Acogida pre-adoptiva asignada;
 
 XXIII. Revocar la asignación a la Familia de Acogida pre-adoptiva asignada, en el supuesto de violación a los derechos de Niñas, Niños y Adolescentes bajo su tutela, sin perjuicio de ejercer en el ámbito de su competencia, las acciones conducentes;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XXIII BIS. Revocar la asignación de Niñas, Niños y Adolescentes a la Familias (sic) de Acogida;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XXIII BIS II. Revocar los certificados de idoneidad a la Familias (sic) de Acogida o con fines de adopción;
 
 XXIV. Llevar un sistema de información, donde registre a las Niñas, Niños y Adolescentes susceptibles de adopción por su situación jurídica o familiar, a las personas solicitantes de adopción, los procedimientos judiciales de adopción concluidos en virtud de su situación jurídica;
 
@@ -385,27 +487,39 @@ LXIX. Las demás que se deriven de la presente Ley o le sean conferidas por otra
 
 Los servidores públicos de la Procuraduría de Protección, deberán ejecutar las políticas públicas en materia de protección integral de los derechos de niñas, niños y adolescentes, estableciendo y promoviendo programas y acciones, conforme a los lineamientos y principios con un enfoque transversal, de inclusión, igualdad sustantiva, no discriminación y perspectiva de derechos humanos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MAYO DE 2021)</small>
+
 ### CAPÍTULO IV
 
-DE LA SUBPROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES.
+DE LA SUBPROCURADURÍA DE RESTITUCIÓN DE DERECHOS.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2021)</small>
 
 ###### Artículo 13.
 
-La Subprocuraduría de Protección de Niñas, Niños y Adolescentes, estará integrada por las siguientes coordinaciones y departamentos de:
+La Subprocuraduría de Restitución de Derechos, estará integrada por las siguientes coordinaciones y departamentos de:
 
-I. Asistencia Jurídica;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-II. Atención al Maltrato de Niñas, Niños y Adolescentes;
+I. Representación Jurídica;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+II. Investigación y Resolución;
 
 III. Del Centro de Psicoterapia Familiar;
 
-IV. De Delegaciones Municipales; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-V. Departamento de Trabajo Social.
+IV. Seguimiento; y
+
+V. (DEROGADA, P.O. 20 DE MAYO DE 2021)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2021)</small>
 
 ###### Artículo 14.
 
-La Subprocuraduría de Protección de Niñas, Niños y Adolescentes, tendrá además de las atribuciones contenidas en las fracciones I, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XV, XVI, XVII, XXX, XXXI, XXXII, XXXIX, XL, XLI, XLII, XLIII, XLIV, XLVI, XLVII, XLVIII, LII, LIII, LVII, LXII y LXIII del artículo 11, las siguientes:
+La Subprocuraduría de Restitución de Derechos, tendrá además de las atribuciones contenidas en las fracciones I, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XV, XVI, XVII, XXX, XXXI, XXXII, XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, LII, LIII, LVII, LXII, LXIII y LXVII del artículo 11, las siguientes:
 
 I. Otorgar asesoría jurídica en materia familiar a Niñas, Niños, Adolescentes y sus familias;
 
@@ -413,7 +527,9 @@ II. Integrar y registrar debidamente los expedientes a su cargo;
 
 III. Promover y gestionar los trámites judiciales y administrativos que sean necesarios para regularizar la situación jurídica de niñas, niños y adolescentes que se encuentren bajo la tutela de la Procuraduría de Protección;
 
-IV. Ordenar al Departamento de Trabajo Social, las investigaciones e informes que requiera para la correcta integración de expedientes y el seguimiento de las denuncias recibidas en la Procuraduría de Protección;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+IV. Ordenar a las Coordinaciones de Investigación y Resolución y a la de Seguimiento, las investigaciones e informes que requiera para la correcta integración de expedientes y el seguimiento de los reportes de vulneración de derechos recibidos en la Procuraduría de Protección;
 
 V. Ordenar a la Coordinación del Centro de Psicoterapia Familiar, los estudios y dictámenes necesarios para la debida integración de expedientes y el seguimiento de las denuncias recibidas en la Procuraduría de Protección;
 
@@ -435,15 +551,25 @@ XI. Las demás que le sean encomendadas por el Procurador de Protección, o en s
 
 La Subprocuraduría de Atención a Grupos Vulnerables estará integrada por las Coordinaciones de:
 
-I. Casa Refugio Esperanza;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+I. Casa Refugio;
 
 II. Casa Hogar DIF;
 
 III. Regulación de Centros de Asistencia Social;
 
-IV. Desarrollo Integral de la Infancia; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-V. Casa Crecemos.
+IV. Desarrollo Integral de la Infancia;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+V. Mi Casa; y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
+
+VI. Familias de Acogida.
 
 ###### Artículo 16.
 
@@ -495,9 +621,11 @@ En ausencia de los Subprocuradores, el despacho y resolución de asuntos corresp
 
 En ausencia que no exceda de diez días, de los Delegados Municipales, serán suplidos por quien designe el titular del DIF Municipal.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 20.
 
-Durante las vacantes del Procurador, Subprocuradores y Delegados Municipales, el despacho y resolución de los asuntos inherentes a la Procuraduría de Protección, estarán a cargo del Director General del Sistema DIF Estatal.
+Durante las vacantes del Procurador, Subprocuradores y Delegados Municipales, el despacho y resolución de los asuntos inherentes a la Procuraduría de Protección, estarán a cargo de quien designe o determine el Director General del Sistema DIF Estatal.
 
 ### CAPÍTULO VII. DEL PROCEDIMIENTO
 
@@ -525,9 +653,13 @@ VII. Tratándose de niñas, niños y adolescentes en situación de abandono o ex
 
 VIII. Practicar a través de profesionales en la materia, exámenes médicos, psicológicos y demás necesarios, para determinar si a la niña, niño o adolescente, se le han vulnerado sus derechos, podrá solicitar el apoyo de otras instituciones públicas para obtener resultados fidedignos;
 
-IX. Integrar un expediente con las constancias de investigación realizadas, así como el plan de restitución de derechos que incluya las propuestas de medidas para su protección, el cual será remitido de manera inmediata al Ministerio Público;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-X. En los casos de niñas, niños o adolescentes que hayan sido separados de su Familia de Origen, por resolución judicial, corresponderá a la Procuraduría de Protección, colocarlos en Centros de Asistencia Social pública o privada o con Familias de Acogida, previa autorización del Juez del conocimiento, hasta en tanto se resuelva su situación jurídica;
+IX. Integrar un expediente con las constancias de investigación realizadas y en el plan de restitución de derechos que incluya las propuestas de medidas para su protección;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+X. En los casos de niñas, niños o adolescentes que hayan sido separados de su Familia de Origen, Extensa o Ampliada, por resolución judicial, corresponderá a la Procuraduría de Protección, colocarlos en Centros de Asistencia Social pública o privada o con Familias de Acogida, previa autorización del Juez del conocimiento, hasta en tanto se resuelva su situación jurídica;
 
 XI. Las personas que tengan la patria potestad, custodia temporal o definitiva Familia Extensa o Ampliada, Familia de Acogida y Familia de Acogimiento pre-adoptivo de una niña, niño o adolescente, deberán presentarlo, a la práctica de cualquier diligencia cuando así lo solicite la autoridad correspondiente;
 
@@ -585,9 +717,11 @@ III. Auxilio de la fuerza pública; y
 
 IV. Arresto que podrá ser de seis hasta treinta y seis horas.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 30.
 
-Los funcionarios a quienes se refieren (sic) esta Ley, estarán a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, así como las contempladas en el Código Penal para el Estado de Durango y demás leyes aplicables.
+Los funcionarios a quienes se refieren esta Ley, estarán a lo dispuesto en la Ley General de Responsabilidades Administrativas, así como las contempladas en el Código Penal para el Estado de Durango y demás leyes aplicables.
 
 T R A N S I T O R I O S
 
@@ -650,5 +784,25 @@ P.O. 19 DE NOVIEMBRE DE 2020.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 542.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+A partir de la entrada en vigor del presente decreto, toda mención o alusión a la Subprocuraduría de Protección de Niñas, Niños y Adolescentes, en cualquier ordenamiento legal, se entenderán referidas a la Subprocuraduría de Restitución de Derechos; de igual forma, las alusivas a la Coordinación de Asistencia Jurídica se entenderán referidas a la Coordinación de Representación Jurídica; las relativas a la Coordinación de Atención al Maltrato de Niñas, Niños y Adolescentes se entenderán referidas a la Coordinación de Investigación y Resolución; las correspondientes a la Coordinación de Delegaciones Municipales y a la Coordinación de Trabajo Social se entenderán referidas a la Coordinación de Seguimiento; las aludidas a la Coordinación de Casa Crecemos se entenderán referidas a la Coordinación Mi Casa y finalmente las respectivas a la Coordinación de Casa Refugio Esperanza se entenderán referidas a la Coordinación Casa Refugio.
+
+###### ARTÍCULO TERCERO.
+
+En un periodo de 90 días posteriores a la entrada en vigor del presente decreto, el Titular del Poder Ejecutivo del Estado hará las adecuaciones necesarias, en su caso, a la normatividad en la materia, derivadas del presente decreto.
+
+###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
