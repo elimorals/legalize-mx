@@ -4,7 +4,7 @@ identifier: "LAC"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "2018-06-18"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2551&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAC"
 
 LEY DE AVIACIÓN CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -46,91 +46,81 @@ La presente Ley es de orden público y tiene por objeto regular la explotación,
 
 El espacio aéreo situado sobre el territorio nacional es una vía general de comunicación sujeta al dominio de la Nación.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 2.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Aeronave: cualquier vehículo capaz de transitar con autonomía en el espacio aéreo con personas, carga o correo;
+I. Aeronave: Toda máquina que puede sustentarse en la atmósfera por reacciones del aire que no sean las reacciones de esta contra la superficie de la tierra;
 
-> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+II. Aeródromo civil: Área definida de tierra o de agua adecuada para el despegue, aterrizaje, acuatizaje o movimiento de aeronaves, con instalaciones o servicios mínimos para garantizar la seguridad de su operación;
 
-I Bis. Aeronave no Tripulada: Aeronave destinada a volar sin piloto a bordo;
+III. Aeromodelo: Aeronave no tripulada, controlada por control remoto, fabricada a escala reducida del tamaño real de una aeronave tripulada, para uso exclusivamente recreativo;
 
-> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+IV. Aeronave Autónoma: Aeronave no tripulada que no permite la intervención del piloto en la gestión del vuelo;
 
-I Ter. Aeronave Autónoma: Aeronave no tripulada que no permite la intervención del piloto en la gestión del vuelo;
+V. Aeronave no Tripulada: Aeronave destinada a volar sin piloto a bordo;
 
-> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+VI. Aeropuerto: Aeródromo civil de servicio público, que cuenta con las instalaciones y servicios adecuados para la recepción y despacho de aeronaves, pasajeros, carga y correo del servicio de transporte aéreo regular, del no regular, así como del transporte privado comercial y privado no comercial;
 
-I Quáter. Aeromodelo: Aeronave no tripulada, controlada por control remoto, fabricada a escala reducida del tamaño real de una aeronave tripulada, para uso exclusivamente recreativo;
+VII. Aerovía: Ruta aérea dotada de radioayudas a la navegación;
 
-> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+VIII. Autoridad Aeronáutica: Se entenderá como autoridad a la Agencia Federal de Aviación Civil;
 
-I Quinquies. Globos Libres no Tripulados: Aerostato sin tripulación, propulsada por medios no mecánicos, en vuelo libre;
+IX. Avión (aeroplano): Aerodino propulsado por motor, que debe su sustentación en vuelo principalmente a reacciones aerodinámicas ejercidas sobre superficies que permanecen fijas en determinadas condiciones de vuelo;
 
-> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+X. Boleto: Documento que contiene el contrato realizado entre el concesionario o permisionario y el pasajero para efectuar el servicio de transporte. Para el cálculo de compensaciones, indemnizaciones u otras referencias que se hagan al boleto en la presente Ley, se considerará el monto total incluyendo tarifas, impuestos, comisiones, y cualquier otro cargo cubierto por el pasajero;
 
-I Sexies. Sistema de Aeronave Pilotada a Distancia: Aeronave pilotada a distancia, su estación o estaciones conexas de pilotaje a distancia, los enlaces requeridos de mando y control y cualquier otro componente;
+XI. Cabotaje: Transporte aéreo mediante remuneración o cualquier otro tipo de contraprestación onerosa, de pasajeros, carga, correo o una combinación de éstos, entre dos o más puntos en territorio nacional;
 
-II. Aeródromo civil: área definida de tierra o de agua adecuada para el despegue, aterrizaje, acuatizaje o movimiento de aeronaves, con instalaciones o servicios mínimos para garantizar la seguridad de su operación;
+XII. Certificado de aeronavegabilidad: Documento oficial que acredita que la aeronave está en condiciones técnicas satisfactorias para realizar operaciones de vuelo;
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+XIII. Certificado de matrícula: Documento que identifica y determina la nacionalidad de la aeronave;
 
-III. Aeropuerto: Aeródromo civil de servicio público, que cuenta con las instalaciones y servicios adecuados para la recepción y despacho de aeronaves, pasajeros, carga y correo del servicio de transporte aéreo regular, del no regular, así como del transporte privado comercial y privado no comercial;
+XIV. Comisión Investigadora y Dictaminadora de Accidentes Aéreos: Instancia integrada por la Secretaría y conformada por expertos en la materia aeronáutica, investigadores y dictaminadores de accidentes aéreos, encargada de identificar la causa probable del accidente, elaborar y presentar los informes preliminar y final a la Secretaría, a través de la Agencia Federal de Aviación Civil y hacer recomendaciones de carácter preventivo a todo concesionario, permisionario, operador aéreo y al personal técnico aeronáutico;
 
-IV. Aerovía: ruta aérea dotada de radioayudas a la navegación;
+XV. Disposiciones técnico administrativas: Normas y circulares técnicas emitidas por la Secretaría a través de la Agencia Federal de Aviación Civil, de carácter obligatorio que regulan la operación, certificación de aeronaves, sistemas, equipos, licencias, certificados, aeropuertos, servicios de tránsito aéreo, búsqueda y salvamento e investigación de accidentes e incidentes y procedimientos que se publicarán en el Manual de Publicación de Información Aeronáutica de México, así como en el Diario Oficial de la Federación;
 
-> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+XVI. Globos Libres no Tripulados: Aerostato sin tripulación, propulsada por medios no mecánicos, en vuelo libre;
 
-IV Bis. Boleto: documento que contiene el contrato realizado entre el concesionario o permisionario y el pasajero para efectuar el servicio de transporte. Para el cálculo de compensaciones, indemnizaciones u otras referencias que se hagan al boleto en la presente Ley, se considerará el monto total incluyendo tarifas, impuestos, comisiones, y cualquier otro cargo cubierto por el pasajero.
+XVII. Helicóptero: Aerodino que se mantiene en vuelo principalmente en virtud de la reacción del aire sobre uno o más rotores propulsados por motor que giran alrededor de ejes verticales o casi verticales;
 
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+XVIII. Helipuerto: Aeródromo civil para el uso exclusivo de helicópteros;
 
-V. Cabotaje: el transporte aéreo mediante remuneración o cualquier otro tipo de contraprestación onerosa, de pasajeros, carga, correo o una combinación de éstos, entre dos o más puntos en territorio nacional;
+XIX. Información sobre seguridad operacional: Datos de Seguridad operacional procesados, organizados o analizados en un determinado contexto a fin de que sean de utilidad para fines de gestión de la Seguridad operacional;
 
-VI. Certificado de aeronavegabilidad: documento oficial que acredita que la aeronave está en condiciones técnicas satisfactorias para realizar operaciones de vuelo;
+XX. Manual de Publicación de Información Aeronáutica: Medio de difusión de información en materia aeronáutica;
 
-VII. Certificado de matrícula: documento que identifica y determina la nacionalidad de la aeronave;
+XXI. Pasajero: Persona que se traslada a través del servicio de transporte aéreo. Tendrá esta calidad, desde el momento en que realiza el contrato con el concesionario o permisionario, hasta que se cumpla el objeto del mismo;
 
-VIII. Helipuerto: aeródromo civil para el uso exclusivo de helicópteros;
+XXII. Procuraduría: Procuraduría Federal del Consumidor;
 
-> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+XXIII. Programa Estatal de Seguridad Operacional: Conjunto integrado de reglamentos y actividades destinado a mejorar la Seguridad operacional;
 
-VIII Bis. Pasajero: persona que se traslada a través del servicio de transporte aéreo. Tendrá esta calidad, desde el momento en que realiza el contrato con el concesionario o permisionario, hasta que se cumpla el objeto del mismo.
+XXIV. Proveedores de servicio: Entre otros, los concesionarios y permisionarios del transporte aéreo de servicio al público y los concesionarios y permisionarios aeroportuarios, el organismo descentralizado Aeropuertos y Servicios Auxiliares, el órgano administrativo desconcentrado Servicios a la Navegación en el Espacio Aéreo Mexicano, los permisionarios de talleres aeronáuticos, las organizaciones responsables del diseño de tipo y las responsables de la fabricación de aeronaves, los prestadores de servicios de tránsito aéreo, los centros de formación, capacitación y adiestramiento y los operadores aéreos de aeronaves de Estado distintas de las militares;
 
-> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+XXV. Ruta: Conexión de puntos en el territorio nacional o entre un punto en territorio mexicano con destino a otro punto en el extranjero y viceversa que requieren autorización de la Secretaría;
 
-VIII Ter. Procuraduría: La Procuraduría Federal del Consumidor.
+XXVI. Secretaría: Secretaría de Comunicaciones y Transportes;
 
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+XXVII. Seguridad operacional: Estado en el que los riesgos asociados a las actividades de aviación relativas a la operación de las aeronaves, o que apoyan directamente dicha operación, se reducen y controlan a un nivel aceptable;
 
-IX. Programa estatal de seguridad operacional: el programa establecido por la Secretaría mediante un Sistema de gestión de seguridad operacional, a fin de alcanzar un nivel óptimo de Seguridad operacional en la aviación civil;
+XXVIII. Servicio al público de transporte aéreo: El que se ofrece de manera general y que, en términos de la presente Ley, incluye el servicio público sujeto a concesión, así como otros servicios sujetos a permiso;
 
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+XXIX. Servicio de transporte aéreo nacional: El que se presta entre dos o más puntos dentro del territorio nacional;
 
-X. Proveedores de servicio: entre otros, los concesionarios y permisionarios del transporte aéreo de servicio al público y los concesionarios y permisionarios aeroportuarios, el organismo descentralizado Aeropuertos y Servicios Auxiliares, el órgano administrativo desconcentrado Servicios a la Navegación en el Espacio Aéreo Mexicano, los permisionarios de talleres aeronáuticos, las organizaciones responsables del diseño de tipo y las responsables de la fabricación de aeronaves, los prestadores de servicios de tránsito aéreo, los centros de formación, capacitación y adiestramiento y los operadores aéreos de aeronaves de Estado distintas de las militares;
+XXX. Servicio de transporte aéreo no regular: El que no está sujeto a rutas, itinerarios y frecuencias fijos, podrá ser nacional o internacional y de conformidad con lo establecido por esta Ley;
 
-XI. Ruta: espacio aéreo establecido por la Secretaría para canalizar el tráfico aéreo;
+XXXI. Servicio de transporte aéreo regular: El que está sujeto a itinerarios, frecuencias de vuelos y horarios, podrá ser nacional o internacional y de conformidad con lo establecido por esta Ley;
 
-XII. Secretaría: la Secretaría de Comunicaciones y Transportes;
+XXXII. Sistema de Aeronave Piloteada a Distancia: Aeronave piloteada a distancia, su estación o estaciones conexas de pilotaje a distancia, los enlaces requeridos de mando y control y cualquier otro componente;
 
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+XXXIII. Sistema de gestión de la seguridad operacional: Enfoque sistemático para la gestión de la Seguridad operacional que incluye las estructuras orgánicas, la obligación de rendición de cuentas, las responsabilidades, las políticas y procedimientos necesarios, y
 
-XIII. Seguridad operacional: es el estado en que el riesgo en la prestación del servicio de transporte aéreo, de lesiones a las personas o daños a los bienes, se reduce y se mantiene en un nivel óptimo, o por debajo del mismo, por medio de un proceso continuo de identificación de peligros y gestión de riesgos;
+XXXIV. Tratados: Los definidos como tales en la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados.
 
-XIV. Servicio al público de transporte aéreo: el que se ofrece de manera general y que, en términos de la presente Ley, incluye el servicio público sujeto a concesión, así como otros servicios sujetos a permiso;
-
-XV. Servicio de transporte aéreo regular: el que está sujeto a itinerarios, frecuencias de vuelos y horarios;
-
-> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
-
-XVI. Servicio de transporte aéreo nacional: el que se presta entre dos o más puntos dentro del territorio nacional;
-
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
-
-XVII. Sistema de gestión de la seguridad operacional: es un enfoque sistemático para la gestión de la Seguridad operacional que se establece como un proceso documentado de manejo del riesgo que es parte de un sistema de recopilación y procesamiento de datos sobre Seguridad operacional, con el fin de minimizar los riesgos y realizar mejoras continuas de la Seguridad operacional de la aviación para proteger el interés público, el cual integra operaciones y sistemas técnicos relacionados con la administración de los recursos humanos y financieros, inclusive las estructuras orgánicas, la obligación de rendición de cuentas, las políticas y los procedimientos necesarios para la obtención de ese fin, y
-
-XVIII. Tratados: los definidos como tales en la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados.
+Para efectos de la presente Ley, las definiciones contenidas en los diversos tratados en materia de aviación civil suscritos por el Estado mexicano, así como en sus diversos anexos y documentos se tendrán como reproducidas en su literalidad en lo que no se contraponga a la misma, en los casos en que resulten ser invocadas.
 
 ###### Artículo 3.
 
@@ -146,11 +136,11 @@ Los hechos ocurridos y los actos realizados a bordo de una aeronave civil con ma
 
 Son aplicables a la navegación aérea civil las disposiciones que, sobre nacimientos y defunciones a bordo de un buque con bandera mexicana, establece el Código Civil Federal.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### Artículo 4.
 
-La navegación civil en el espacio aéreo sobre territorio nacional se rige por lo previsto en esta Ley, por los tratados y, a falta de disposición expresa, se aplicará:
+La prestación y desarrollo de los servicios de transporte aéreo civil y la navegación civil en el espacio aéreo sobre territorio nacional se rige por lo previsto en esta Ley, por los tratados y, a falta de disposición expresa, se aplicará:
 
 I. La Ley de Vías Generales de Comunicación;
 
@@ -192,7 +182,17 @@ I. Planear, formular y conducir las políticas y programas para la regulación y
 
 II. Otorgar concesiones y permisos, verificar su cumplimiento y resolver, en su caso, su modificación o terminación;
 
-III. Expedir las normas oficiales mexicanas y demás disposiciones administrativas;
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+II Bis. Otorgar las excepciones, exenciones y extensiones que se requieran en beneficio de la seguridad de las operaciones aéreas, las cuales deben estar contempladas en las disposiciones técnico administrativas en materia de aviación civil correspondientes siempre y cuando existan circunstancias de caso fortuito y fuerza mayor, problemas geográficos, sanitarios o de carácter físico;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+III. Expedir en los términos de la normatividad aplicable las Normas Oficiales Mexicanas;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+III Bis. Expedir las disposiciones técnico administrativas en materia de aviación civil y las demás que se estimen necesarias para el cumplimiento de lo dispuesto en esta Ley y en los tratados de los que el Estado mexicano es parte, mismas que se publicarán en el Diario Oficial de la Federación y en el Manual de Publicación de Información Aeronáutica;
 
 IV. Prestar y controlar los servicios a la navegación aérea y establecer las condiciones de operación a que deben sujetarse;
 
@@ -206,7 +206,9 @@ VI. Expedir certificados de matrícula, de aeronavegabilidad y los de explotador
 
 VII. Establecer y verificar el sistema de aerovías dentro del espacio aéreo nacional;
 
-VIII. Participar en los organismos internacionales y en las negociaciones de tratados;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+VIII. Participar en los organismos internacionales y en las negociaciones de tratados, así como acuerdos interinstitucionales en los términos de la ley sobre la materia;
 
 IX. Promover la formación, capacitación y adiestramiento del personal técnico aeronáutico;
 
@@ -244,57 +246,95 @@ XVIII. Expedir y aplicar las medidas y normas oficiales mexicanas relativas a ce
 
 XIX. Las demás que señalen esta Ley y otros ordenamientos aplicables.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
-Estas atribuciones podrán ser ejercidas a través de la Dirección General de Aeronáutica Civil, con excepción de aquellas facultades señaladas como indelegables en el Reglamento Interior de la Secretaría, y sin perjuicio de las conferidas en el mismo a dicha Unidad Administrativa.
+Estas atribuciones serán ejercidas a través de la Agencia Federal de Aviación Civil, con excepción de aquellas facultades señaladas como indelegables al titular de la Secretaría.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### Artículo 7.
 
-La Secretaría ejercerá la autoridad aeronáutica en los aeropuertos, helipuertos y aeródromos en general, a través de la Dirección General de Aeronáutica Civil, por conducto de los comandantes regionales y los comandantes de aeropuerto.
+La Secretaría ejercerá la autoridad aeronáutica en los aeropuertos, helipuertos y aeródromos en general, a través de la Agencia Federal de Aviación Civil, por conducto de los comandantes regionales y los comandantes de aeropuerto.
 
-Los comandantes regionales deberán ser mexicanos por nacimiento que no adquieran otra nacionalidad, y en el ejercicio de sus atribuciones dependerán funcional y operativamente de la Dirección General de Aeronáutica Civil.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
-Los comandantes regionales tendrán a su cargo las comandancias de aeropuerto que expresamente les sean determinadas por la propia Dirección General de Aeronáutica Civil, los cuales ejercerán las atribuciones que a continuación se mencionan:
+Los comandantes regionales deberán ser mexicanos por nacimiento que no adquieran otra nacionalidad, y en el ejercicio de sus atribuciones dependerán funcional y operativamente de la Agencia Federal de Aviación Civil.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 20 DE MAYO DE 2021)</small>
+
+Los comandantes regionales tendrán a su cargo las comandancias de aeropuerto que expresamente les sean determinadas por la propia Agencia Federal de Aviación Civil, los cuales ejercerán las atribuciones que a continuación se mencionan:
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 I. Vigilar y verificar permanentemente que los concesionarios, permisionarios, operadores de aeronaves y los prestadores de servicios a la navegación aérea, cumplan con lo dispuesto en esta Ley, su Reglamento, normas oficiales mexicanas y demás disposiciones aplicables;
 
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
 II. Vigilar el cumplimiento de las disposiciones e instrucciones contenidas en el Manual de Autoridades Aeronáuticas;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 III. Vigilar el estricto cumplimiento de los deberes y responsabilidades de los Comandantes de Aeropuerto;
 
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
 IV. Vigilar que el personal de las comandancias de aeropuerto de su región esté debidamente capacitado para el desempeño de sus funciones;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 V. Vigilar la seguridad y eficiencia de las operaciones aeronáuticas;
 
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
 VI. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos y normas oficiales mexicanas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos; y
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 VII. Las demás que expresamente les sean conferidas por su superior jerárquico y se encuentren fundadas en la legislación vigente aplicable a la materia.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### Artículo 7 Bis.
 
-Los comandantes de aeropuerto deberán ser mexicanos por nacimiento que no adquieran otra nacionalidad, y en el ejercicio de sus atribuciones dependerán funcional y operativamente de la Dirección General de Aeronáutica Civil, a través de los comandantes regionales.
+Los comandantes de aeropuerto deberán ser mexicanos por nacimiento que no adquieran otra nacionalidad, y en el ejercicio de sus atribuciones dependerán funcional y operativamente de la Agencia Federal de Aviación Civil, a través de los comandantes regionales.
 
-Los comandantes de aeropuerto tendrán las atribuciones que a continuación se mencionan, las cuales ejercerán en las demarcaciones geográficas que expresamente les sean determinadas por la propia Dirección General de Aeronáutica Civil:
+> <small>(REFORMADO [ N. DE E. ESTE PÁRRAFO], 20 DE MAYO DE 2021)</small>
+
+Los comandantes de aeropuerto tendrán las atribuciones que a continuación se mencionan, las cuales ejercerán en las demarcaciones geográficas que expresamente les sean determinadas por la propia Agencia Federal de Aviación Civil:
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 I. Autorizar o suspender la operación de las aeronaves, conforme a lo dispuesto por esta Ley;
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
 II. Verificar que los servicios de control de tránsito aéreo, de radioayudas a la navegación y de ayudas visuales se ajusten a las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 III. Verificar la vigencia de las licencias y capacidades del personal técnico aeronáutico, de los certificados de matrícula y de aeronavegabilidad de las aeronaves;
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
 IV. Verificar el cumplimiento de las condiciones de seguridad y eficiencia en los servicios de transporte aéreo;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 V. Disponer el cierre parcial o total de aeropuertos, helipuertos o aeródromos en general, cuando no reúnan las condiciones de seguridad para las operaciones aéreas;
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
 VI. Prohibir a cualquier piloto o miembro de la tripulación la realización de operaciones, cuando no cumplan con las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 VII. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos y normas oficiales mexicanas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos; y
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
 VIII. Las demás que señalen esta Ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 Para estos efectos, los comandantes dispondrán del apoyo de un cuerpo de verificadores aeronáuticos subordinados a ellos.
 
@@ -338,19 +378,29 @@ IV. Acepte las nuevas condiciones que establezca la Secretaría, con base en est
 
 #### Sección Segunda. De los permisos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 #### Sección Tercera. Disposiciones comunes
 
 ###### Artículo 11.
 
-Los servicios de transporte aéreo sujetos a permiso serán:
+El servicio de transporte aéreo sujeto a permiso tendrá las siguientes modalidades:
 
-I. Nacional no regular;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-II. Internacional regular;
+I. Servicio de transporte aéreo nacional no regular;
 
-III. Internacional no regular, y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-IV. Privado comercial.
+II. Servicio de transporte aéreo internacional regular;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+III. Servicio de transporte aéreo internacional no regular, y
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+IV. Servicio de transporte aéreo privado comercial.
 
 Los permisos se otorgarán: a personas morales mexicanas en el caso de la fracción I; a sociedades extranjeras en el supuesto de la fracción II; a personas morales mexicanas o sociedades extranjeras en el caso de la fracción III; y a personas físicas o morales mexicanas o extranjeras en el de la fracción IV.
 
@@ -369,6 +419,10 @@ Los certificados, o documentación equivalente, expedidos por centros de capacit
 En el caso de las fracciones I, III y IV los permisos se otorgarán por plazo indefinido. En el caso de la fracción II, los permisos podrán otorgarse por un plazo indefinido siempre y cuando existan convenios internacionales recíprocos con este fin. Si esto no fuera así, los permisos se otorgarán por un plazo máximo de un año.
 
 En el reglamento correspondiente se precisarán los requisitos para la obtención de los permisos a que se refiere este artículo.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+En el caso de los permisos de taller aeronáutico y los certificados de producción, la vigencia será de dos años.
 
 #### Sección Primera. Generalidades
 
@@ -480,6 +534,16 @@ En la prestación de los servicios de transporte aéreo se deberán adoptar las 
 
 Los servicios deberán prestarse de manera permanente y uniforme, en condiciones equitativas y no discriminatorias en cuanto a calidad, oportunidad y precio.
 
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+###### Artículo 17 Bis.
+
+Las prácticas de cabotaje por parte de permisionarios extranjeros en territorio mexicano están prohibidas.
+
+Los propietarios extranjeros de aeronaves no mexicanas destinadas para uso particular tienen prohibido realizar prácticas de cabotaje.
+
+Únicamente el permisionario mexicano que preste servicio de transporte aéreo internacional bajo la modalidad de taxi aéreo o de fletamento puede transportar entre dos o más puntos en territorio nacional a los pasajeros, carga, correo o una combinación de éstos que hayan embarcado en un punto en el extranjero.
+
 #### Sección Tercera. Del servicio de transporte aéreo privado comercial
 
 ###### Artículo 18.
@@ -488,9 +552,11 @@ El servicio al público de transporte aéreo podrá ser: nacional o internaciona
 
 El transporte aéreo entre dos o más puntos en territorio nacional, se realizará exclusivamente por personas morales mexicanas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 19.
 
-La prestación del servicio de transporte aéreo nacional regular estará sujeto a lo siguiente:
+La prestación del servicio público de transporte aéreo nacional regular estará sujeto a lo siguiente:
 
 I. Las concesiones contendrán las rutas específicas con las que se iniciará la prestación del servicio y las condiciones del mismo;
 
@@ -656,6 +722,22 @@ La Secretaría podrá suspender o cancelar el certificado, ante el incumplimient
 
 Se otorgará el permiso de licencia de estación de la aeronave, que tendrá una vigencia indefinida, excepto cuando hayan cambiado las características del equipo o la matrícula de la aeronave.
 
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+###### Artículo 32 Bis.
+
+En caso de que una aeronave no cumpla plenamente con los requisitos de aeronavegabilidad, establecidos en la normatividad aeronáutica nacional, se otorgará un certificado de aeronavegabilidad especial, de conformidad con lo establecido en las disposiciones técnico administrativas que se emitan para tal efecto, siempre que la aeronave sea capaz de efectuar un vuelo seguro. Estos casos pueden:
+
+I. Realizar un vuelo a algún sitio o a un punto de almacenamiento dentro y fuera del territorio nacional para reparación, alteración o mantenimiento;
+
+II. Realizar vuelos de prueba;
+
+III. Evacuación de aeronaves en zonas con peligro inminente, y
+
+IV. Realizar vuelos de demostración a clientes potenciales en aeronaves de nueva producción que han completado satisfactoriamente las pruebas de vuelo de producción.
+
+Asimismo, se otorgará un Certificado Especial de Vuelo para aeronaves que inicien su programa de pruebas de vuelo para la obtención de la certificación inicial y consecuentemente del otorgamiento de un certificado de Tipo o un Certificado de Aprobación de Tipo, como corresponda.
+
 ###### Artículo 33.
 
 En las aeronaves civiles no podrán abordar personas armadas, en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o enervantes; y sólo con las autorizaciones correspondientes podrán transportarse cadáveres o personas que, por la naturaleza de su enfermedad, presenten riesgo para los demás pasajeros.
@@ -663,6 +745,10 @@ En las aeronaves civiles no podrán abordar personas armadas, en estado de ebrie
 Los menores de edad podrán viajar solos, bajo responsiva de sus padres o tutores.
 
 Los concesionarios y permisionarios deberán adoptar las medidas necesarias que permitan atender de manera adecuada a las personas con discapacidad, así como a las de edad avanzada.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Los concesionarios, permisionarios y operadores aéreos realizarán el traslado de órganos, tejidos y células humanas, de conformidad con las disposiciones técnico administrativas que para tal efecto emita la Secretaría.
 
 ###### Artículo 34.
 
@@ -748,13 +834,19 @@ Toda persona a bordo está obligada a acatar las instrucciones del comandante pa
 
 El comandante registrará en el libro de bitácora los hechos que puedan tener consecuencias legales, ocurridos durante el vuelo, y los pondrá en conocimiento de las autoridades competentes del primer lugar de aterrizaje en el territorio nacional, o de las autoridades competentes y del cónsul mexicano, si el aterrizaje se realiza en el extranjero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 41.
 
-La responsabilidad del comandante comprende desde el momento en que se hace cargo de la aeronave para iniciar el vuelo hasta su entrega a la autoridad competente o al representante del concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, al propietario o poseedor de la aeronave, quienes serán solidariamente responsables con el comandante o piloto, por cualquier orden dictada en contravención a lo dispuesto por esta Ley.
+La responsabilidad del comandante con relación a la seguridad y operación de la aeronave comprende desde el momento en que la aeronave esté lista para moverse con el propósito de despegar hasta el momento en que se detiene por completo al finalizar el vuelo y que se apagan los motores utilizados como unidad de propulsión principal.
 
 > <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
 El aterrizaje de la aeronave en la estación se considerará como cierre de plan de vuelo.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Los concesionarios, permisionarios y operadores aéreos serán solidariamente responsables con el comandante o piloto al mando por cualquier orden dictada en contravención a lo dispuesto por esta Ley. Para el caso del servicio de transporte privado no comercial, el comandante o piloto al mando será solidario junto con el propietario o poseedor de la aeronave.
 
 ### Capítulo VIII. De las tarifas
 
@@ -916,7 +1008,9 @@ IX. Para vuelos nacionales e internacionales, el pasajero podrá transportar com
 
 El concesionario o permisionario proporcionará al pasajero, un talón de equipaje por cada pieza, maleta o bulto de equipaje que se entregue para su transporte. El talón debe contener la información indicada en las normas oficiales mexicanas correspondientes y debe constar de dos partes, una para el pasajero y otra que se adhiere al equipaje.
 
-Además, el pasajero podrá llevar en cabina hasta dos piezas de equipaje de mano. Las dimensiones de cada una serán de hasta 55 centímetros de largo por 40 centímetros de ancho por 25 centímetros de alto, y el peso de ambas no deberá exceder los diez kilogramos, siempre y cuando por su naturaleza o dimensiones no disminuyan la seguridad y la comodidad de los pasajeros. El permisionario o concesionario podrá solicitar al pasajero un pago por peso y dimensiones adicionales del equipaje de mano, pero no podrá realizar cobros por pesos y dimensiones menores a los establecidos en este párrafo.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Además, el pasajero podrá llevar en cabina hasta dos piezas de equipaje de mano. Las dimensiones de cada pieza de equipaje de mano serán de hasta 55 centímetros de largo por 40 centímetros de ancho por 25 centímetros de alto, y el peso de ambas no deberá exceder los diez kilogramos, siempre y cuando por su naturaleza o dimensiones no disminuyan la seguridad y la comodidad de los pasajeros. El permisionario o concesionario se asegurará que todo el equipaje de mano embarcado en el avión e introducido en la cabina de pasajeros quede bien asegurado y retenido, que se prevenga que caiga de los compartimientos superiores y cause alguna lesión, que no obstruya las salidas y equipo de emergencia, que no exceda las limitaciones de peso de los compartimientos de almacenaje, que no se lleve equipaje de mano durante una evacuación, así como que cuente con los procedimientos para el manejo del exceso en equipaje de mano. El permisionario o concesionario podrá solicitar al pasajero un pago por peso y dimensiones adicionales del equipaje de mano, pero no podrá realizar cobros por pesos y dimensiones menores a los establecidos en este párrafo.
 
 Para los servicios de transporte aéreo internacional, el transporte de equipaje se sujetará a lo dispuesto en los Tratados.
 
@@ -1302,7 +1396,9 @@ IV. El órgano administrativo desconcentrado Servicios a la Navegación en el Es
 
 V. Los permisionarios de talleres aeronáuticos;
 
-VI. Las organizaciones responsables de diseño de tipo y las organizaciones responsables de la fabricación de aeronaves;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+VI. Las organizaciones responsables del diseño de tipo o responsables de la fabricación de aeronaves, motores o hélices;
 
 VII. Los prestadores de servicio de tránsito aéreo;
 
@@ -1346,9 +1442,17 @@ I. Registros pertenecientes a las investigaciones de accidentes e incidentes de 
 
 II. Sistemas de notificación obligatoria de incidentes;
 
-III. Sistemas de notificación voluntaria de incidentes, y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-IV. Sistemas de autonotificación, incluidos los sistemas automáticos o manuales de captura de datos.
+III. Sistemas de notificación voluntaria de incidentes;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+IV. Sistemas de auto notificación, incluidos los sistemas automáticos o manuales de captura de datos, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+V. Información relativa a las investigaciones de Seguridad operacional efectuadas por la Secretaría o los proveedores de servicio del sector aeronáutico.
 
 > <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
@@ -1356,13 +1460,17 @@ IV. Sistemas de autonotificación, incluidos los sistemas automáticos o manuale
 
 La información sobre Seguridad operacional precisada en el artículo anterior tiene carácter de reservada.
 
-> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### Artículo 78 Bis 7.
 
-La información sobre Seguridad operacional que provenga de las fuentes señaladas en el artículo 78 Bis 4, así como los datos de las personas involucradas en los eventos relacionados con esa información, no se proporcionará para fines diferentes para los que fue recopilada, por lo que nadie puede ser requerido, en conexión con un proceso judicial, administrativo o disciplinario, a aportar evidencias concernientes a información de Seguridad operacional proporcionada de manera voluntaria a la Secretaría, excepto en las siguientes circunstancias:
+La información sobre Seguridad operacional que provenga de las fuentes señaladas en el artículo 78 Bis 5, así como los datos de las personas involucradas en los eventos relacionados con esa información, no se proporcionará para fines diferentes para los que fue recopilada, por lo que nadie puede ser requerido, en conexión con un proceso judicial, administrativo o disciplinario, a aportar evidencias concernientes a la información de Seguridad operacional proporcionada de manera voluntaria a la Secretaría, excepto en las siguientes circunstancias:
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
 I. Por requerimiento expreso de una autoridad judicial o administrativa competente, que haya determinado que la autoridad aeronáutica tiene información que podría ser necesaria para la administración de justicia, para lo cual la autoridad requirente deberá proteger la información como reservada dentro del proceso correspondiente, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
 II. Que una autoridad competente considere que, de acuerdo con las evidencias suficientes y las circunstancias que indiquen de manera razonable que un evento determinado pudo haber sido causado por una conducta dolosa o gravemente negligente.
 
@@ -1384,6 +1492,12 @@ Con el fin de promover la Seguridad operacional, la Secretaría tiene la faculta
 
 Con el fin de promover la Seguridad operacional, la Secretaría tiene la facultad de concertar acuerdos con los proveedores de servicio respecto a la recopilación, análisis, uso y difusión de información de Seguridad operacional.
 
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+###### Artículo 78 Bis 11.
+
+La Secretaría establecerá y mantendrá un proceso para analizar los datos e información sobre Seguridad operacional obtenida de los Sistemas de recopilación y procesamiento de datos referentes a la Seguridad operacional conexa.
+
 ### Capítulo XVI. De los accidentes y de la búsqueda y salvamento
 
 ### Capítulo XVII. De la requisa
@@ -1398,7 +1512,9 @@ Los concesionarios o permisionarios y, en el caso del servicio de transporte aé
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Accidente: todo suceso por el que se cause la muerte o lesiones graves a personas a bordo de la aeronave o bien, se ocasionen daños o roturas estructurales a la aeronave, o por el que la aeronave desaparezca o se encuentre en un lugar inaccesible, y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+I. Accidente: todo suceso en el cual se causen lesiones mortales o graves, a personas a bordo de la aeronave, o en tierra por partes que se hayan desprendido, o bien, se ocasionen daños o roturas estructurales a la aeronave, o por el que la aeronave desaparezca o se encuentre en un lugar inaccesible, y
 
 II. Incidente: todo suceso relacionado con la utilización de una aeronave, que no llegue a ser un accidente que afecte o pueda afectar la seguridad de las operaciones.
 
@@ -1406,13 +1522,83 @@ II. Incidente: todo suceso relacionado con la utilización de una aeronave, que 
 
 La búsqueda y salvamento en accidentes de aeronaves civiles es de interés público y las autoridades, propietarios, poseedores, concesionarios, permisionarios y miembros de la tripulación de vuelo estarán obligados a participar en las acciones que se lleven a cabo.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
-Las operaciones de búsqueda y salvamento estarán bajo la dirección y control de la Secretaría, y los costos directos que se originen por la investigación y el rescate de las víctimas o de sus bienes serán por cuenta del concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, del propietario o poseedor de la aeronave accidentada.
+Las operaciones de búsqueda y salvamento estarán bajo la dirección y control de la Secretaría. Los costos directos que se originen por el rescate en la aeronave, la investigación, la preservación de los restos de la aeronave, correo, carga, el rescate de las víctimas y de sus bienes, la repatriación de los restos mortales, sobrevivientes y la asistencia a los familiares de las víctimas será por cuenta del concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, del propietario o poseedor de la aeronave accidentada.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Cuando se vean involucradas aeronaves e instalaciones militares en accidentes o incidentes aéreos civiles las Dependencias Militares cooperaran en la investigación, proporcionando toda información que les requiera la Secretaría a través de la Agencia Federal de Aviación Civil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### Artículo 81.
 
-Corresponde a la Secretaría la investigación de los accidentes e incidentes sufridos por aeronaves civiles. Concluida la investigación, que se llevará a cabo con audiencia de los interesados, determinará la causa probable de los mismos y, en su caso, impondrá las sanciones. Si hay lugar a ello, hará los hechos del conocimiento de la autoridad competente.
+Corresponde a la Secretaría la investigación de los accidentes e incidentes sufridos por aeronaves civiles, a través de la Comisión Investigadora y Dictaminadora de Accidentes Aéreos, quien tendrá independencia para realizar la investigación y autoridad absoluta al llevarla a cabo, de conformidad con el Reglamento y las disposiciones técnico administrativas que se emitan para tal efecto. Concluida la investigación, que se llevará a cabo con audiencia de los interesados, determinará la causa probable de los mismos y, en su caso, tomará las acciones que estime pertinentes para el caso en concreto.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Los integrantes de la Comisión Investigadora y Dictaminadora de Accidentes Aéreos no deberán caer en conflictos de intereses en el ejercicio de su encargo, de conformidad con la Ley General de Responsabilidades Administrativas, los tratados suscritos por el Estado mexicano y demás disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+El objetivo de las investigaciones de accidentes o incidentes implementadas por la Secretaría será la prevención de futuros accidentes e incidentes. La identificación de la causa probable, factores contribuyentes y recomendaciones no implica la asignación de culpa ni determinación de responsabilidad administrativa, civil o penal.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+###### Artículo 81 Bis.
+
+La Comisión Investigadora y Dictaminadora de Accidentes Aéreos contará con las siguientes facultades para investigar accidentes e incidentes de aviación:
+
+I. Coordinar, requerir y recibir información, realizar la investigación del incidente o accidente;
+
+II. Requerir la asistencia de todas las personas que considere necesario entrevistar para que rindan cualquier aclaración, pregunta o proporcionen información sobre el accidente o incidente aéreo;
+
+III. Exigir la protección y preservación de:
+
+a) El lugar del accidente o incidente aéreo;
+
+b) La aeronave y cualquier parte de esta, y
+
+c) Los registros y documentos relacionados con el suceso.
+
+IV. Establecer o delimitar el lugar en que se considere que pueda existir información para acceder con fines de búsqueda y recopilar información, registros o evidencias relevantes para la investigación del accidente o incidente, entre ellos al taller de mantenimiento, oficina de despacho, proveedores de servicio, operador aéreo, aeropuerto, torre de control, así como obtener copia, previo cotejo del original de todo documento o evidencia de lo que se encuentre durante el transcurso de su búsqueda incluidas las transcripciones de las comunicaciones y registros de los servicios de tránsito aéreo;
+
+V. Prohibir o limitar, por el tiempo que sea necesario el acceso a las áreas diferentes al lugar del accidente, donde haya estado o estuvo la aeronave accidentada o incidentada, para los fines de conservación y protección de evidencias;
+
+VI. Solicitar instalaciones para el resguardo y para realizar cualquier tipo de pruebas y exámenes a los componentes, motores, sistemas y demás partes de la aeronave que sean necesarias para determinar las causas de ocurrencia del suceso, incluyendo las destructivas;
+
+VII. Obtener todo tipo de evidencia y copias de cualquier documento relevante relativo al accidente o incidente, a las personas, empresas y equipos relacionados con el mismo, en particular, la formación y calificación de las personas, que hayan participado en el mantenimiento, despacho, servicio de control y seguimiento del vuelo, construcción o diseño, tripulación, control de la(s) aeronave(s) implicadas, así como demás información que el investigador considere relevante;
+
+VIII. Realizar cualquier tipo de pruebas, incluyendo las destructivas, de todo material, componentes, líquidos, motores, entre otros, de lo que fue reunido durante la investigación, en laboratorios nacionales o en el extranjero que tengan la capacidad para realizarlas;
+
+IX. Custodiar cualquier documento o componente hasta que la investigación haya finalizado;
+
+X. Requerir un examen médico a la persona o personas que directa o indirectamente hayan estado implicadas en la operación de una aeronave involucrada en un accidente o incidente y si procede a los pasajeros;
+
+XI. Requerir a los médicos competentes la información con que cuenten de un paciente involucrado en un accidente o incidente, cuando sea relevante para la investigación;
+
+XII. Solicitar a la instancia medica competente los resultados de las necropsias realizadas a los miembros de la tripulación involucrados en un accidente y, en su caso, a pasajeros;
+
+XIII. Requerir a las autoridades locales por medio de la comandancia que realizó la investigación de campo, que aseguren la protección del lugar del accidente, de la aeronave y de su contenido, hasta el momento en que pueda tomar la custodia y seguridad de la aeronave y de su contenido, y
+
+XIV. Coordinar en el sitio del accidente la investigación en materia aeronáutica civil, con los representantes acreditados, investigadores y expertos técnicos.
+
+La comandancia de aeropuerto mantendrá la organización del sitio del accidente y restos de la aeronave durante el tiempo que dure la investigación en el sitio y hasta que determine que sean trasladados los restos para su protección e investigación.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+###### Artículo 81 Ter.
+
+La clasificación, desclasificación y acceso a la información que genere o custodie la autoridad aeronáutica en materia de investigación de accidentes o incidentes deberá ajustarse a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, así como a lo dispuesto en los tratados en los que el Estado mexicano sea parte.
+
+Respecto a la información relacionada con accidentes o incidentes aéreos que conforme a los tratados en los que el Estado mexicano sea parte deba ser objeto de clasificación de conformidad con las disposiciones aplicables, dicha clasificación deberá ajustarse a lo establecido en las normas señaladas en el primer párrafo de este artículo. Entre dicha información destaca la relativa al nombre de las personas involucradas en los accidentes e incidentes aéreos, las declaraciones de testigos, el contenido de comunicaciones en la operación, la información médica del personal técnico aeronáutico involucrado, el audio y conversaciones de cabinas y con los servicios de tránsito aéreo, los análisis y opiniones expresadas por los registradores del vuelo, proyectos de informe preliminar o definitivo de accidente o incidente y otros datos que por su naturaleza se considere que sean susceptibles de clasificación.
+
+Los investigadores de la autoridad aeronáutica respecto de las indagaciones a su cargo se limitarán exclusivamente a presentar su informe de hechos o preliminar o final al público en general y, en los casos que la autoridad competente los requiera, procederán a ratificar los mismos.
+
+Los resultados de la investigación con motivo de un accidente o incidente aéreo constarán en el informe de hechos o preliminar y final, los cuales se ajustarán a lo dispuesto en los tratados en la materia en los que el Estado mexicano sea parte. El informe de hechos o preliminar deberá emitirse al año de haber ocurrido el accidente o incidente, salvo que haya sido emitido el informe final antes de la conclusión de dicho plazo.
+
+La Secretaría y la Agencia Federal de Aviación Civil harán del conocimiento de la autoridad competente el informe preliminar y, en su caso, final, cuando así lo solicite.
 
 ###### Artículo 82.
 
@@ -1486,9 +1672,17 @@ En el caso de acreditar dentro de los tres días hábiles siguientes a la fecha 
 
 g) Sin los instrumentos de seguridad y equipo de auxilio que corresponda, con multa de quinientos a cinco mil Unidades de Medida y Actualización;
 
-h) Sin hacer uso de las instalaciones y de los servicios de tránsito aéreo, radioayudas, meteorología, telecomunicaciones e información aeronáuticas, así como de despacho e información de vuelos, en caso de ser aplicable, salvo casos de fuerza mayor, con multa de quinientas a cinco mil Unidades de Medida y Actualización, e
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
-i) Por no llevar a bordo certificado de aeronavegabilidad o de matrícula o copia certificada de este último, con una multa de doscientas a un mil Unidades de Medida y Actualización;
+h) Sin hacer uso de las instalaciones y de los servicios de tránsito aéreo, radioayudas, meteorología, telecomunicaciones e información aeronáutica, así como de despacho e información de vuelos, en caso de ser aplicable, salvo casos de fuerza mayor, con multa de quinientas a cinco mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+i) Por no llevar a bordo certificado de aeronavegabilidad o de matrícula o copia certificada de este último, con una multa de doscientas a un mil Unidades de Medida y Actualización, y
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+j) Por presentar a la Secretaría documentos que no son emitidos por una autoridad competente, con la intención de acreditar el cumplimiento de obligaciones o requisitos contenidos en esta Ley o en sus reglamentos, con una multa de dos mil a diez mil Unidades de Medida y Actualización.
 
 > <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
@@ -1502,9 +1696,9 @@ III. Operar aviones en aeródromos y aeropuertos no autorizados, salvo causa de 
 
 IV. Obtener la matrícula de la aeronave en el registro de otro Estado, sin haber obtenido la cancelación de la matrícula mexicana, con multa de un mil a ocho mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-V. Cuando de manera negligente no se haga del conocimiento de la Secretaría los incidentes o accidentes ocurridos a sus aeronaves, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización;
+V. Cuando de manera negligente en un término de veinticuatro horas no se haga del conocimiento de la Secretaría los incidentes o accidentes ocurridos a sus aeronaves, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización;
 
 > <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
@@ -1582,13 +1776,25 @@ XI. No proporcionar la información que le solicite la Secretaría, en los plazo
 
 XII. No sujetarse a los itinerarios, frecuencias de vuelo y horarios autorizados, multa de doscientas a un mil Unidades de Medida y Actualización;
 
-> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-XIII. Incumplir con lo señalado en el artículo 49 de la presente Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización, y
+XIII. Incumplir con lo señalado en el artículo 49 de la presente Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización;
 
-> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-XIV. No entregar mensualmente a la Secretaría la información señalada en el artículo 84, multa de tres mil a cinco mil Unidades de Medida y Actualización.
+XIV. No entregar mensualmente a la Secretaría la información señalada en el artículo 84, multa de tres mil a cinco mil Unidades de Medida y Actualización;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+XV. Transgredir las limitaciones existentes sobre tiempos de vuelo, servicio o de descanso del personal de vuelo o de sobrecargos, multa de tres mil a cinco mil Unidades de Medida y Actualización;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+XVI. Permitir que la aeronave transite sin llevar a bordo copia certificada del Certificado de explotador de servicios aéreos y copia de las especificaciones de operación, con multa de cinco mil a quince mil Unidades de Medida y Actualización, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+XVII. Presentar documentación que no fue emitida por la autoridad competente para realizar la operación de una aeronave, con una multa de dos mil a diez mil Unidades de Medida y Actualización, y la cancelación de la matrícula de la aeronave de que se trate.
 
 ###### Artículo 88.
 
@@ -1654,13 +1860,25 @@ XIV. Volar sobre zonas prohibidas, restringidas o peligrosas, sin autorización 
 
 XV. Arrojar o tolerar que innecesariamente se arrojen desde la aeronave en vuelo, objetos o lastre, multa de doscientas a dos mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-XVI. Negarse a participar en las operaciones de búsqueda o salvamento, salvo causa de fuerza mayor, multa de doscientas a dos mil Unidades de Medida y Actualización, y
+XVI. Negarse a participar en las operaciones de búsqueda o salvamento, salvo causa de fuerza mayor, multa de doscientas a dos mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-XVII. Realizar o permitir que se realicen abordo de la aeronave en vuelo, planificaciones aerofotográficas o aerotopográficas sin el permiso correspondiente, en el caso de tripular una aeronave civil extranjera, multa de doscientas a dos mil Unidades de Medida y Actualización.
+XVII. Realizar o permitir que se realicen abordo de la aeronave en vuelo, planificaciones aerofotográficas o aerotopográficas sin el permiso correspondiente, en el caso de tripular una aeronave civil extranjera, multa de doscientas a dos mil Unidades de Medida y Actualización;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+XVIII. Operar la aeronave sin los documentos que deban llevarse a bordo de conformidad con esta Ley, su reglamento y demás disposiciones administrativas aplicables, con una multa de quinientas a cinco mil Unidades de Medida y Actualización;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+XIX. Operar la aeronave de manera negligente o fuera de los límites y parámetros establecidos por el fabricante de la misma, sin que medie causa justificada, multa de mil a cinco mil Unidades de Medida y Actualización, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+XX. Presentar documentación que no fue emitida por la autoridad competente para realizar la operación de una aeronave, con una multa de dos mil a diez mil Unidades de Medida y Actualización.
 
 > <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
@@ -1680,6 +1898,30 @@ La Secretaría efectuará la revocación de cualquier certificado, registro, mat
 
 El titular de un permiso, certificado, registro, matrícula, autorización o licencia, que hubiere sido revocado, no podrá obtener, directa o indirectamente, otro permiso de los contemplados en la presente Ley dentro de un plazo de cinco años, contado a partir de la fecha en que hubiere quedado firme la resolución respectiva.
 
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+###### Artículo 88 Ter.
+
+Tratándose de centros de formación, capacitación o adiestramiento se les impondrán sanciones por:
+
+I. Permitir que se realicen vuelos de adiestramiento con más de un alumno, con una multa de quinientas a cinco mil Unidades de Medida y Actualización;
+
+II. Impartir cursos sin contar con un programa de formación o capacitación previamente autorizado por la Secretaría, con una multa de mil a cinco mil Unidades de Medida y Actualización;
+
+III. Permitir que los alumnos reciban instrucción o realicen prácticas sin contar con el permiso de formación o constancias de aptitud psicofísica, o cuando tales documentos estén vencidos, con una multa de mil a cinco mil Unidades de Medida y Actualización, y
+
+IV. Permitir que un instructor imparta clases sin contar con el permiso correspondiente o el mismo se encuentre vencido, con una multa de tres mil a cinco mil Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+###### Artículo 88 Quáter.
+
+Se le impondrá sanción al personal técnico aeronáutico por:
+
+I. No portar durante el ejercicio de sus actividades la licencia correspondiente y constancia de aptitud psicofísica vigentes, con una multa de quinientas a cinco mil Unidades de Medida y Actualización, y
+
+II. Realizar actividades distintas a las otorgadas en su licencia o a las capacidades inscritas en la misma, con una multa de quinientas a cinco mil Unidades de Medida y Actualización.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE JUNIO DE 2018)</small>
 
 ###### Artículo 89.
@@ -1692,9 +1934,23 @@ En caso de reincidencia, la Secretaría podrá imponer una sanción equivalente 
 
 Para efectos del presente capítulo, se entiende por Unidad de Medida y Actualización, la que será utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, publicada en el Diario Oficial de la Federación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 90.
 
-Se le revocará la licencia al comandante de la aeronave que tripule en estado de ebriedad o bajo los efectos de estupefacientes, psicotrópicos o enervantes o que permita que un miembro de la tripulación de vuelo participe en las operaciones en ese estado o bajo tales efectos, o cuando realice actos u omisiones que tiendan a la comisión de los delitos de contrabando y tráfico ilegal de personas, drogas y armas. Igual sanción se impondrá a cualquier miembro de la tripulación de vuelo, que se encuentre en los mismos supuestos.
+Sin perjuicio a las demás sanciones que establece esta Ley y su reglamento, se le revocará la licencia al comandante de la aeronave que incurra en los siguientes supuestos:
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+I. Que tripule en estado de ebriedad o bajo los efectos de estupefacientes, psicotrópicos o enervantes o que permita que un miembro de la tripulación de vuelo participe en las operaciones en ese estado o bajo tales efectos;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+II. Cuando realice actos u omisiones que tiendan a la comisión de los delitos de contrabando, contrabando equiparado, tráfico de órganos, ataques a las vías generales de comunicación, sabotaje, tráfico ilegal de personas, drogas y armas. Igual sanción se impondrá a cualquier miembro de la tripulación de vuelo, que se encuentre en los mismos supuestos, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+III. Presentar documentación que no fue emitida por la autoridad competente para realizar la operación de una aeronave.
 
 ###### Artículo 91.
 
@@ -1821,3 +2077,13 @@ D.O.F. 18 DE JUNIO DE 2018.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El Ejecutivo Federal contará con un plazo máximo de 180 días, contados a partir de la publicación del presente Decreto, para reformar los reglamentos correspondientes y emitir las disposiciones administrativas en materia de aeronaves pilotadas a distancia y de seguridad operacional.
+
+D.O.F. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AVIACIÓN CIVIL".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente Decreto. Seguirán teniendo aplicación y vigencia las disposiciones y demás circulares obligatorias emitidas con anterioridad a la entrada en vigor del presente Decreto, en particular las contenidas en el Acuerdo por el que se dan a conocer las disposiciones administrativas de carácter técnico aeronáutico de la Secretaría de Comunicaciones y Transportes, publicado en el Diario Oficial de la Federación el 15 de febrero de 2021.
+
+Tercero.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar, en el ámbito de sus respectivas competencias, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten la materialización del mismo.
