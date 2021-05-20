@@ -4,7 +4,7 @@ identifier: "LFPPIPP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2012-06-08"
-last_updated: "2016-06-17"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88147&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LFPPIPP"
 ---
 # LEY FEDERAL PARA LA PROTECCION A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 8 de junio de 2012.
 
@@ -62,9 +64,13 @@ III. Centro: El Centro Federal de Protección a Personas.
 
 IV. Director: El Director del Centro.
 
-V. Procuraduría: La Procuraduría General de la República.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-VI. Procurador: Titular de la Procuraduría General de la República.
+V. Fiscalía General: La Fiscalía General de la República.
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+VI. Fiscal: Titular de la Fiscalía General de la República.
 
 VII. Medidas de Protección: Las acciones realizadas por el Centro tendientes a eliminar o reducir los riesgos que pueda sufrir una persona derivado de la acción de represalia eventual con motivo de su colaboración, o participación en un Procedimiento Penal, así como de personas o familiares cercanas a éste.
 
@@ -72,19 +78,13 @@ VIII. Convenio de Entendimiento: Documento que suscribe el Titular del Centro y 
 
 IX. Persona Protegida: Todo aquel individuo que pueda verse en situación de riesgo o peligro por su intervención en un procedimiento penal. Asimismo, dentro de dicho concepto se considerarán a las personas ligadas con vínculos de parentesco o afectivos con el testigo, víctima, ofendido o servidores públicos, que se vean en situación de riesgo o peligro por las actividades de aquellos en el proceso.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 X. Testigo Colaborador: Es la persona que accede voluntariamente a prestar ayuda eficaz a la autoridad investigadora, rindiendo al efecto su testimonio o aportando otros medios de prueba conducentes para investigar, procesar o sentenciar a otros sujetos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 Podrá ser testigo colaborador, aquella persona que haya sido o sea integrante de la delincuencia organizada, de una asociación delictiva, o que pueda ser beneficiario de un criterio de oportunidad.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
@@ -96,9 +96,11 @@ XIII. Unidad: La Unidad de Protección a Personas del Centro.
 
 XIV. Estudio Técnico: Es el análisis elaborado por un grupo multidisciplinario del Centro para determinar acerca de la incorporación o separación de una persona al Programa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 3.
 
-Las Dependencias y Entidades de la Administración Pública Federal, en el ámbito de su competencia, están obligadas a prestar la colaboración que les requiera la Procuraduría General de la República, por conducto del Centro para la aplicación de las Medidas de Protección previstas en esta Ley.
+Las Dependencias y Entidades de la Administración Pública Federal, en el ámbito de su competencia, están obligadas a prestar la colaboración que les requiera la Fiscalía General de la República, por conducto del Centro para la aplicación de las Medidas de Protección previstas en esta Ley.
 
 La administración y ejecución de las medidas de protección contempladas en el Programa, son independientes del desarrollo del Procedimiento Penal, el cual sólo servirá para determinar y eliminar los factores de riesgo de la persona sujeta a protección.
 
@@ -108,13 +110,17 @@ Los servidores públicos que dejen de prestar sus servicios en el Centro, así c
 
 La anterior obligación, también comprende a los servidores públicos que participen en la aplicación de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 4.
 
-A fin de lograr los objetivos de esta Ley, el Procurador y/o el Director, en términos de sus atribuciones, podrán celebrar acuerdos, convenios o demás instrumentos jurídicos con personas físicas o morales, así como con autoridades federales, gobiernos del Distrito Federal, de los Estados de la Federación y Municipios, organismos públicos autónomos, incluso constitucionales, así como con organismos de los sectores social y privado e incluso internacionales, que resulten conducentes para otorgar la protección de las personas.
+A fin de lograr los objetivos de esta Ley, el Fiscal y/o Director, en términos de sus atribuciones, podrán celebrar acuerdos, convenios o demás instrumentos jurídicos con personas físicas o morales, así como con autoridades federales, gobiernos de la Ciudad de México, de los Estados de la Federación y Municipios, organismos públicos autónomos, incluso constitucionales, así como con organismos de los sectores social y privado e incluso internacionales, que resulten conducentes para otorgar la protección de las personas.
 
 Cuando se tenga que realizar la contratación o adquisición de servicios con particulares, se deben aplicar criterios de reserva y confidencialidad respecto de los antecedentes personales, médicos o laborales de la persona incorporada al Programa. Esto es, los proveedores de dichos servicios bajo ningún caso podrán tener acceso a la información que posibiliten por cualquier medio la identificación de la Persona Protegida.
 
-La Procuraduría podrá celebrar convenios de colaboración con las procuradurías de justicia, Fiscalía o su equivalente, de los Estados y del Distrito Federal, para establecer los mecanismos necesarios para incorporar al Programa a personas que deban ser sujetas de protección.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+La Fiscalía General podrá celebrar convenios de colaboración con las procuradurías de justicia, Fiscalía o su equivalente, de los Estados y de la Ciudad de México, para establecer los mecanismos necesarios para incorporar al Programa a personas que deban ser sujetas de protección.
 
 ### CAPÍTULO II. PRINCIPIOS BÁSICOS
 
@@ -140,35 +146,49 @@ VII. Gratuidad: El acceso a las Medidas de Protección otorgados por el Programa
 
 ### CAPÍTULO III. DEL CENTRO FEDERAL DE PROTECCIÓN A PERSONAS
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 6.
 
-El Centro es un Órgano Desconcentrado y Especializado de la Procuraduría General de la República; con autonomía técnica y operativa en la aplicación de las Medidas de Protección, el cual estará a cargo de un Director, nombrado y removido libremente por el Presidente de la República, a propuesta del Procurador.
+El Centro es una unidad de la Fiscalía General de la República; con autonomía técnica y operativa en la aplicación de las Medidas de Protección, el cual estará a cargo de un Director, nombrado y removido por el Fiscal.
 
 ###### ARTÍCULO 7.
 
 El Director, para el cumplimiento de la presente Ley contará con las siguientes facultades:
 
-I. Suscribir y emitir los instrumentos jurídicos que faciliten el funcionamiento y operación del Programa, previa consideración del Procurador.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+I. Suscribir y emitir los instrumentos jurídicos que faciliten el funcionamiento y operación del Programa, previa consideración del Fiscal.
 
 II. Recibir y analizar las solicitudes de incorporación de una persona al Programa, en virtud de encontrarse en situación de riesgo o peligro por su intervención en un Procedimiento Penal.
 
-Estas solicitudes deberán ser presentadas por el Titular de la Subprocuraduría o de la unidad administrativa equivalente a las que se encuentre asignado el Ministerio Público responsable del Procedimiento Penal, en donde interviene o ha intervenido la persona a proteger.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Estas solicitudes deberán ser presentadas por el Titular de la Fiscalía General o de la unidad administrativa equivalente a las (sic) que se encuentre asignado el Ministerio Público responsable del Procedimiento Penal, en donde interviene o ha intervenido la persona a proteger.
 
 III. Ordenar la práctica de estudios psicológicos, clínicos y, en general, de todos aquellos que sean necesarios para garantizar la idoneidad de la incorporación de la persona al Programa, así como para su permanencia.
 
 IV. En caso de ser procedente, autorizar la incorporación al Programa a la persona propuesta.
 
-V. Integrar y proponer al Procurador el presupuesto para la operatividad del Programa, en coordinación con las áreas competentes de la Procuraduría.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+V. Integrar y proponer al Fiscal el presupuesto para la operatividad del Programa, en coordinación con las áreas competentes de la Fiscalía General.
 
 VI. Llevar el registro y expediente de las personas incorporadas al Programa.
 
-VII. Mantener las Medidas de Protección que dicte provisionalmente el Ministerio Público o establecer las que estime necesarias para su debida protección, previa solicitud del Titular de la Subprocuraduría o de la unidad administrativa equivalente a la que pertenezca, hasta en tanto se determina su incorporación al Programa.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+VII. Mantener las Medidas de Protección que dicte provisionalmente el Ministerio Público o establecer las que estime necesarias para su debida protección, previa solicitud del Titular de la Fiscalía o de la unidad administrativa equivalente a la que pertenezca, hasta en tanto se determina su incorporación al Programa.
 
 VIII. Dictar las Medidas de Protección que resulten procedentes.
 
-IX. Acordar con el Procurador el cese de las Medidas de Protección cuando se entiendan superadas las circunstancias que las motivaron o, en caso de incumplimiento, de las obligaciones asumidas por la persona a través del Convenio de Entendimiento o por actualizarse alguna de las hipótesis planteadas en los artículos 27, 29, 33, 34, 36, 37 y demás relativos de la presente Ley.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-X. Gestionar ante la Oficialía Mayor de la Procuraduría lo relativo a la obtención de los recursos humanos, materiales, tecnológicos y financieros para la correcta aplicación de sus obligaciones, una vez que se haya autorizado el presupuesto para tal efecto.
+IX. Acordar con el Fiscal el cese de las Medidas de Protección cuando se entiendan superadas las circunstancias que las motivaron o, en caso de incumplimiento, de las obligaciones asumidas por la persona a través del Convenio de Entendimiento o por actualizarse alguna de las hipótesis planteadas en los artículos 27, 29, 33, 34, 36, 37 y demás relativos de la presente Ley.
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+X. Gestionar ante la Oficialía Mayor de la Fiscalía lo relativo a la obtención de los recursos humanos, materiales, tecnológicos y financieros para la correcta aplicación de sus obligaciones, una vez que se haya autorizado el presupuesto para tal efecto.
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
@@ -178,7 +198,9 @@ XI. Ejercer el mando directo e inmediato sobre el personal que le esté adscrito
 
 XII. Gestionar ante las autoridades competentes la documentación soporte para el cambio de identidad de la persona sujeta a protección, y
 
-XIII. Las demás que determinen otras disposiciones y el Procurador, cuando sean inherentes a sus funciones.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+XIII. Las demás que determinen otras disposiciones y el Fiscal, cuando sean inherentes a sus funciones.
 
 #### SECCIÓN I. DEL PERSONAL DEL CENTRO
 
@@ -190,7 +212,9 @@ Además, se implementarán procedimientos de selección que garanticen la idonei
 
 El personal del Centro, contará con un sistema complementario de seguridad social para sus familias y dependientes.
 
-La Procuraduría deberá garantizar las condiciones presupuestales, tecnológicas y de diversa índole que sean necesarias para el adecuado cumplimiento de las disposiciones de la presente Ley.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+La Fiscalía General deberá garantizar las condiciones presupuestales, tecnológicas y de diversa índole que sean necesarias para el adecuado cumplimiento de las disposiciones de la presente Ley.
 
 ###### ARTÍCULO 9.
 
@@ -226,13 +250,13 @@ La Unidad contará con un área de análisis de riesgo que apoyará en la elabor
 
 ### CAPÍTULO IV. DEL PROGRAMA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 13.
 
-El presente programa tendrá aplicación exclusivamente para aquellos casos en los que se encuentren relacionadas personas que estén en una situación de riesgo por su participación de forma directa o indirecta en un procedimiento penal que verse sobre delitos que ameriten prisión preventiva oficiosa en términos de lo previsto por la Constitución y la legislación aplicable. También podrá ser aplicable en asuntos relacionados con otros delitos cuando se considere necesario atendiendo a las características propias del hecho, a las circunstancias de ejecución, la relevancia social del mismo, por razones de seguridad o por otras que impidan garantizar el adecuado desarrollo del procedimiento para lo cual el Procurador emitirá el Acuerdo respectivo. Asimismo, cuando las disposiciones de los Tratados Internacionales de los que el Estado Mexicano sea parte establezcan expresamente la obligación de proporcionar dicha protección.
+El presente programa tendrá aplicación exclusivamente para aquellos casos en los que se encuentren relacionadas personas que estén en una situación de riesgo por su participación de forma directa o indirecta en un procedimiento penal que verse sobre delitos que ameriten prisión preventiva oficiosa en términos de lo previsto por la Constitución y la legislación aplicable. También podrá ser aplicable en asuntos relacionados con otros delitos cuando se considere necesario atendiendo a las características propias del hecho, a las circunstancias de ejecución, la relevancia social del mismo, por razones de seguridad o por otras que impidan garantizar el adecuado desarrollo del procedimiento para lo cual el Fiscal emitirá el Acuerdo respectivo. Asimismo, cuando las disposiciones de los Tratados Internacionales de los que el Estado Mexicano sea parte establezcan expresamente la obligación de proporcionar dicha protección.
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 En los demás casos corresponderá al Ministerio Público y a sus auxiliares dictar y ejecutar las medidas de protección distintas a las de aplicación exclusiva por el Director del Centro, tendientes a garantizar la seguridad de las personas que se encuentren en una situación de riesgo, por su participación dentro de alguna de las etapas del procedimiento penal, entre las cuales se podrán tomar en cuenta las previstas en los artículos 17 fracciones I, II y V, y 18, fracciones I, incisos a) y b), II, IV, VIII, incisos a), b) y c) y X del presente ordenamiento; así como las demás que estime pertinentes o las que se encuentren previstas en los ordenamientos legales aplicables.
 
@@ -308,15 +332,17 @@ II. Vigilancia.
 
 III. Modo y mecanismos para el traslado de las personas protegidas a distintos lugares, asegurando en todo momento el resguardo de las mismas.
 
-IV. Custodia policial, personal móvil y/o domiciliaria a las personas protegidas, que estará a cargo de los elementos de la Unidad; salvo en los supuestos de urgencia establecidos en el artículo 21 de la presente Ley, en los cuales el Ministerio Público podrá solicitar el apoyo de sus auxiliares en términos del artículo 22 de la Ley Orgánica de la Procuraduría General de la República.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+IV. Custodia policial, personal móvil y/o domiciliaria a las personas protegidas, que estará a cargo de los elementos de la Unidad; salvo en los supuestos de urgencia establecidos en el artículo 21 de la presente Ley, en los cuales el Ministerio Público podrá solicitar el apoyo de sus auxiliares en términos de la Ley de la Fiscalía General de la República y demás disposiciones aplicables.
 
 V. Suministrar a la persona alojamiento temporal o los medios económicos para transporte, alimentos, comunicación, atención sanitaria, mudanza, reinserción laboral, trámites personales y aquellos que requiera para cumplir con sus obligaciones, sistemas de seguridad, acondicionamiento de vivienda y demás gastos indispensables, dentro o fuera del país, mientras la Persona Protegida se halle imposibilitada de obtenerlos por sus propios medios.
 
 VI. Facilitar la reubicación, entendida como el cambio de domicilio y/o residencia, lugar de trabajo y centro de estudios de la persona.
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-VII. Previa determinación del Procurador se podrá otorgar y ordenar, con base en las circunstancias del caso, la autorización para que ante las autoridades competentes se gestione una nueva identidad de la Persona Protegida, dotándolo de la documentación soporte.
+VII. Previa determinación del Fiscal se podrá otorgar y ordenar, con base en las circunstancias del caso, la autorización para que ante las autoridades competentes se gestione una nueva identidad de la Persona Protegida, dotándolo de la documentación soporte.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
@@ -352,7 +378,9 @@ X. Implementar cualquier otra medida de seguridad que de conformidad con la valo
 
 Con el objeto de garantizar la seguridad de la persona protegida, todos los requerimientos para la práctica de una diligencia ministerial y/o judicial en los que esta intervenga, se solicitarán directamente al Director del Centro, quien adoptará las medidas necesarias para presentarlo ante la autoridad correspondiente. En caso de existir algún impedimento o que no existan las condiciones de seguridad adecuadas para cumplimentar la diligencia, lo hará del conocimiento de la autoridad y, en su caso, solicitará una prórroga para su cumplimiento, que le deberá ser otorgada.
 
-Tratándose de diligencias ministeriales, las solicitudes deberán ser presentadas por el Titular de la Subprocuraduría o de la unidad administrativa equivalente a la que se encuentre asignado el Ministerio Público responsable de la investigación.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Tratándose de diligencias ministeriales, las solicitudes deberán ser presentadas por el Titular de la Fiscalía correspondiente o de la unidad administrativa equivalente a la que se encuentre asignado el Ministerio Público responsable de la investigación.
 
 ###### ARTÍCULO 19.
 
@@ -374,17 +402,21 @@ VII. Otras circunstancias que justifiquen la medida.
 
 ### CAPÍTULO VII. DE LA INCORPORACIÓN AL PROGRAMA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 20.
 
-La solicitud de incorporación al Programa, la deberá realizar el Titular de la Subprocuraduría o unidad administrativa equivalente a la que pertenezca el Ministerio Público o el juez a que se refiere este artículo que conozca del Procedimiento Penal en los que intervenga la persona a proteger, las cuales serán resueltas por el Director del Centro.
+La solicitud de incorporación al Programa, la deberá realizar el Titular de la Fiscalía correspondiente o unidad administrativa equivalente a la que pertenezca el Ministerio Público o el juez a que se refiere este artículo que conozca del Procedimiento Penal en los que intervenga la persona a proteger, las cuales serán resueltas (sic) por el Director del Centro.
 
 Cuando se niegue el ingreso de una persona al Programa, se podrá reevaluar la solicitud de incorporación siempre que se aleguen hechos nuevos o supervenientes.
 
 En los casos que la solicitud provenga de la autoridad judicial en términos de lo dispuesto por la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la Fracción XXI, del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, se estará a lo dispuesto por el artículo 23 de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 21.
 
-Si el Ministerio Público responsable del Procedimiento Penal advierte que una persona se encuentra en situación de riesgo o peligro por su intervención en éste, podrá dictar provisionalmente las Medidas de Protección necesarias y, el Titular de la Subprocuraduría o unidad administrativa equivalente a la que pertenezca, remitirá inmediatamente, por cualquier medio idóneo, la solicitud de incorporación al Programa al Director del Centro, para que se inicie el Estudio Técnico correspondiente.
+Si el Ministerio Público responsable del Procedimiento Penal advierte que una persona se encuentra en situación de riesgo o peligro por su intervención en éste, podrá dictar provisionalmente las Medidas de Protección necesarias y, el Titular de la Fiscalía correspondiente o unidad administrativa equivalente a la que pertenezca, remitirá inmediatamente, por cualquier medio idóneo, la solicitud de incorporación al Programa al Director del Centro, para que se inicie el Estudio Técnico correspondiente.
 
 El juez que conozca del Procedimiento Penal, tomando en consideración cuando menos lo señalado en el párrafo anterior, podrá ordenar como parte de las Medidas de Protección, que ésta sea incorporada al Programa.
 
@@ -434,15 +466,21 @@ V. Las obligaciones legales que tenga la persona con terceros.
 
 VI. Los antecedentes penales que tuviere.
 
-VII. Que la admisión de la persona, no sea un factor que afecte la seguridad del Programa, del Centro o de la Procuraduría.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+VII. Que la admisión de la persona, no sea un factor que afecte la seguridad del Programa, del Centro o de la Fiscalía General.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 25.
 
-En la solicitud de incorporación de la persona al Programa, el Ministerio Público del conocimiento previa autorización del Titular de la Subprocuraduría o de la unidad administrativa equivalente a la que pertenezca, de ser el caso, informará al Centro la importancia de la intervención de la persona en el Procedimiento Penal.
+En la solicitud de incorporación de la persona al Programa, el Ministerio Público del conocimiento previa autorización del Titular de la Fiscalía correspondiente o de la unidad administrativa equivalente a la que pertenezca, de ser el caso, informará al Centro la importancia de la intervención de la persona en el Procedimiento Penal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 26.
 
-Una vez concluido el Estudio Técnico, el Director adoptará la decisión que corresponda, la cual podría ser reconsiderada a solicitud del Procurador, con independencia de lo previsto en el artículo 20, párrafo segundo de la presente Ley, la que será en el siguiente sentido:
+Una vez concluido el Estudio Técnico, el Director adoptará la decisión que corresponda, la cual podría ser reconsiderada a solicitud del Fiscal, con independencia de lo previsto en el artículo 20, párrafo segundo de la presente Ley, la que será en el siguiente sentido:
 
 a) Incorporar a la persona al Programa y establecer las Medidas de Protección que se le aplicarán.
 
@@ -540,6 +578,10 @@ VII. Velar para que los recursos asignados sean correctamente empleados y que la
 
 El Centro no responderá por las obligaciones adquiridas por la Persona Protegida antes de su incorporación al Programa, así como de aquellas que no se hubieran hecho de su conocimiento para el efecto de pronunciarse sobre su incorporación al Programa. De igual forma, el Centro tampoco asumirá como suyas las promesas que le hubieran hecho personal no autorizado para ello a la Persona Protegida.
 
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+ARTÍCULO 32 BIS. La Fiscalía General de la República prestará apoyo y protección suficientes a jueces, peritos, testigos, víctimas y demás personas, cuando se requiera por su intervención en un procedimiento penal de su competencia sobre delitos en materia de delincuencia organizada a que refiere el Código Penal Federal.
+
 ### CAPÍTULO XII. TERMINACIÓN DE LAS MEDIDAS DE PROTECCIÓN Y DESINCORPORACIÓN DEL PROGRAMA
 
 ###### ARTÍCULO 33.
@@ -552,7 +594,9 @@ El otorgamiento y mantenimiento de las Medidas de Protección está condicionado
 
 La persona podrá renunciar de manera voluntaria a las Medidas de Protección o al Programa, para lo cual el Centro deberá realizar las gestiones necesarias para dejar constancia de esa circunstancia.
 
-El Centro también podrá dar por concluida la permanencia de la Persona Protegida en el Programa, cuando dejen de actualizarse las circunstancias de riesgo que originaron su incorporación; o que su estancia sea un factor que afecte la seguridad del Programa, del Centro o de la Procuraduría.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+El Centro también podrá dar por concluida la permanencia de la Persona Protegida en el Programa, cuando dejen de actualizarse las circunstancias de riesgo que originaron su incorporación; o que su estancia sea un factor que afecte la seguridad del Programa, del Centro o de la Fiscalía General.
 
 La anterior resolución en todo caso será notificada por escrito a la Persona Protegida y en caso de que se desconozca su ubicación y después de haber realizado una búsqueda no se haya logrado dar con su paradero, se levantará constancia de dicha circunstancia y se acordará su baja correspondiente. Contra dicha determinación no se admitirá recurso alguno.
 
@@ -562,9 +606,11 @@ La anterior resolución en todo caso será notificada por escrito a la Persona P
 
 El Centro, una vez concluido el Procedimiento Penal e impuestas las sanciones del caso podrá, siempre que estime que se mantiene la circunstancia de amenaza o peligro extender la continuación de las Medidas de Protección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 36.
 
-La terminación del otorgamiento de las Medidas de Protección o la revocación de la incorporación al Programa, será decidido por el Director previo acuerdo con el Procurador, de oficio, a petición del Titular de la Subprocuraduría o unidad administrativa equivalente que solicitó su ingreso de la persona protegida, o cuando se entiendan superadas las circunstancias que motivaron la protección, o por incumplir con las obligaciones asumidas por la Persona Protegida.
+La terminación del otorgamiento de las Medidas de Protección o la revocación de la incorporación al Programa, será decidido por el Director previo acuerdo con el Fiscal, de oficio, a petición del Titular de la Fiscalía correspondiente o unidad administrativa equivalente que solicitó su ingreso de la persona protegida, o cuando se entiendan superadas las circunstancias que motivaron la protección, o por incumplir con las obligaciones asumidas por la Persona Protegida.
 
 Cuando la incorporación al Programa se hubiese realizado por mandato de la autoridad jurisdiccional, en términos de lo previsto por la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la fracción XXI, del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, el Director deberá solicitar la revocación de la incorporación al Programa al juez que conozca del procedimiento penal, cuando se actualice lo dispuesto del artículo 29 de la citada Ley y las causas de revocación o terminación señaladas en el artículo siguiente.
 
@@ -592,9 +638,11 @@ VII. Las demás establecidas en la presente Ley.
 
 El Estado o cualquiera de sus servidores públicos que apliquen la presente Ley no estarán sujetos a ninguna responsabilidad civil por la sola decisión de brindar o no protección, siempre que la misma haya sido tomada conforme a las disposiciones establecidas en la misma, así como a las circunstancias que sirvieron en su momento para tomar tal determinación.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 39.
 
-Tratándose de la incorporación al Programa, de Testigos Colaboradores, el Director deberá considerar la opinión del Titular de la Unidad Especializada a que se refiere el artículo 8 de la Ley Federal contra la Delincuencia Organizada.
+Tratándose de la incorporación al Programa, de Testigos Colaboradores, el Director deberá considerar la opinión del Titular de la Fiscalía correspondiente o Unidad Especializada en materia de Delincuencia Organizada.
 
 ###### ARTÍCULO 40.
 
@@ -640,9 +688,11 @@ Las solicitudes de asistencia en relación a la protección de personas, se tram
 
 Cuando se requiera la práctica de diligencias tendientes a obtener la declaración de un Testigo residente en el extranjero, se deberá realizar conforme a lo previsto en el Título XI del Libro Segundo, del Código Nacional de Procedimientos Penales.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 45.
 
-Si es autorizado por la autoridad judicial y/o en su caso por el Titular de la Subprocuraduría o unidad administrativa equivalente a la que pertenece el Ministerio Público encargado de la investigación, y las condiciones técnicas lo permiten, la declaración testimonial en otro país de una persona que se encuentre en México y viceversa, podrá realizarse mediante videoconferencia.
+Si es autorizado por la autoridad judicial y/o en su caso por el Titular de la Fiscalía correspondiente o unidad administrativa equivalente a la que pertenece el Ministerio Público encargado de la investigación, y las condiciones técnicas lo permiten, la declaración testimonial en otro país de una persona que se encuentre en México y viceversa, podrá realizarse mediante videoconferencia.
 
 ###### ARTÍCULO 46.
 
@@ -672,13 +722,17 @@ Además de los requisitos antes señalados, la persona que sea admitida para int
 
 ### CAPÍTULO XIV. DE LA TRANSPARENCIA DEL PROGRAMA
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 47.
 
-El Director por conducto del Procurador presentará un informe anual al H. Congreso de la Unión sobre los resultados y las operaciones del Programa. Dichos informes se elaborarán de modo que se ofrezca la relación estadística más detallada posible. Sin embargo, bajo ninguna circunstancia se podrán asentar datos que pongan en riesgo la integridad de las personas incorporadas al Programa.
+El Director por conducto del Fiscal presentará un informe anual al H. Congreso de la Unión sobre los resultados y las operaciones del Programa. Dichos informes se elaborarán de modo que se ofrezca la relación estadística más detallada posible. Sin embargo, bajo ninguna circunstancia se podrán asentar datos que pongan en riesgo la integridad de las personas incorporadas al Programa.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 48.
 
-El Órgano Interno de Control en la Procuraduría y la Auditoría Superior de la Federación podrán realizar todas las actividades de auditoría al Programa; su personal debe estar habilitado y suscribirá una carta compromiso en donde se establezca su obligación de confidencialidad, respecto a la operación del Programa, incluso una vez que se hubiese separado de su empleo, cargo o comisión.
+El Órgano Interno de Control en la Fiscalía General y la Auditoría Superior de la Federación podrán realizar todas las actividades de auditoría al Programa; su personal debe estar habilitado y suscribirá una carta compromiso en donde se establezca su obligación de confidencialidad, respecto a la operación del Programa, incluso una vez que se hubiese separado de su empleo, cargo o comisión.
 
 ### CAPÍTULO XV. DE LOS DELITOS
 
@@ -741,3 +795,71 @@ Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal,
 Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
 
 Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
+
+D.O.F. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE LA FISCALÍA GENERAL DE LA REPÚBLICA, SE ABROGA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS ORDENAMIENTOS LEGALES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+
+Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+
+Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
+
+Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+
+Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+
+En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
+
+Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
+
+Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+
+Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
+
+Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
+
+El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
+
+A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
+
+Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
+
+Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
+
+Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+
+Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+
+El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
+
+Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+
+Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+
+Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+
+Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
+
+Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+
+Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
+
+Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
+
+El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
+
+Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
+
+Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+
+Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+
+Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
+
+Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
+
+Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+
+Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
