@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-prevencion-y-gestion-integral-de-residuos-del-56633
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-12"
-last_updated: "2020-11-19"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 12 de julio de 2007.
 
@@ -176,6 +176,10 @@ XLIII. Valorización: Todo procedimiento que permite el aprovechamiento de los r
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 XLIV. Procuraduría Ambiental: Procuraduría de Protección al Ambiente del Estado de Durango;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XLV. Economía Circular: Modelo de producción y consumo que implica compartir, alquilar, reutilizar, reparar, renovar y reciclar materiales y productos existentes todas las veces que sea posible para crear un valor añadido.
 
 ###### Artículo 4.
 
@@ -533,9 +537,17 @@ VI. La celebración de convenios con medios de comunicación masiva para la prom
 
 VII. La promoción del reconocimiento a los esfuerzos más destacados de la sociedad en materia de prevención y gestión integral de los residuos;
 
-VIII. El impulso de la conciencia ecológica y la aplicación de la presente Ley, a través de la realización de acciones conjuntas con la comunidad para la prevención y gestión integral de los residuos. Para ello, podrán celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-IX. La concertación de acciones e inversiones con los sectores social y privado, instituciones académicas, grupos y organizaciones sociales y demás personas físicas y morales interesadas.
+VIII. El impulso de la conciencia ecológica y la aplicación de la presente Ley, a través de la realización de acciones conjuntas con la comunidad para la prevención y gestión integral de los residuos. Para ello, podrán celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+IX. La concertación de acciones e inversiones con los sectores social y privado, instituciones académicas, grupos y organizaciones sociales y demás personas físicas y morales interesadas; y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
+
+X. Todo establecimiento que comercialice productos de tabaco con filtro o colilla de cigarro; o cuente con zonas exclusivas para fumar, procurará establecer un programa de apoyo integral para el fomento de concientización, recolección y reciclado de filtros o colillas de cigarro, además de contar con contenedores exclusivos para depositar los filtros o colillas de cigarro para luego darle el tratamiento de conformidad con la Ley.
 
 ###### Artículo 21.
 
@@ -1077,6 +1089,22 @@ V. Mantener y difundir información actualizada sobre precios y tendencias de lo
 
 VI. Asesorar y asistir a servidores públicos en aspectos relacionados con la comercialización de los materiales reciclables.
 
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2021)</small>
+
+###### Artículo 79 Bis.
+
+La Secretaría, en coordinación con las autoridades competentes, promoverá la implantación de la Economía Circular como instrumento económico para que las personas físicas y morales que generen residuos sólidos, implementen en sus operaciones los principios de Economía Circular, los cuales pretenden preservar y mejorar el capital natural, mantener el valor de los productos en la economía el mayor tiempo posible y minimizar la generación de residuos, debiendo considerar lo siguiente:
+
+I. Incorporar materias primas recicladas en sus procesos;
+
+II. Diseñar, desarrollar y retroalimentar protocolos para la reducción de cantidades de desperdicios;
+
+III. Contemplar el análisis de ciclo de vida de sus productos y/o servicios;
+
+IV. Mantener en constante capacitación a sus trabajadores y brindarles la asistencia técnica que se requiera;
+
+V. Cumplir con las disposiciones específicas, normas y recomendaciones técnicas;
+
 ###### Artículo 80.
 
 La disposición de residuos sólidos urbanos o de manejo especial en rellenos sanitarios, es considerada como la última opción, una vez que se hayan agotado las posibilidades de aprovechar o tratar los residuos por otros medios.
@@ -1546,5 +1574,29 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 El Poder Ejecutivo del Estado y los Municipios a través de las autoridades competentes, deberán observar la Norma Oficial Mexicana relativa de la materia, una vez que sea publicada, a fin de cumplir con las disposiciones de aprovechamiento de la materia orgánica en generación de energía.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 525.- POR EL QUE SE ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN A LOS NO FUMADORES DEL ESTADO DE DURANGO, ASÍ COMO DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 526.- POR EL QUE SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 3; SE ADICIONA EL ARTÍCULO 79 BIS DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
