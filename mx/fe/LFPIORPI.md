@@ -4,7 +4,7 @@ identifier: "LFPIORPI"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2012-10-17"
-last_updated: "2018-03-09"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89738&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFPIORPI"
 
 LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de octubre de 2012.
 
@@ -92,13 +92,17 @@ IX. Metales Preciosos, al oro, la plata y el platino;
 
 X. Piedras Preciosas, las gemas siguientes: aguamarinas, diamantes, esmeraldas, rubíes, topacios, turquesas y zafiros;
 
-XI. Procuraduría, a la Procuraduría General de la República;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+XI. Fiscalía, a la Fiscalía General de la República;
 
 XII. Relación de negocios, a aquella establecida de manera formal y cotidiana entre quien realiza una Actividad Vulnerable y sus clientes, excluyendo los actos u operaciones que se celebren ocasionalmente, sin perjuicio de lo que establezcan otras disposiciones legales y reglamentarias;
 
 XIII. Secretaría, a la Secretaría de Hacienda y Crédito Público, y
 
-XIV. Unidad, a la Unidad Especializada en Análisis Financiero de la Procuraduría.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+XIV. Unidad, a la Unidad Especializada en Análisis Financiero de la Fiscalía.
 
 ###### Artículo 4.
 
@@ -140,13 +144,15 @@ VII. Emitir Reglas de Carácter General para efectos de esta Ley, para mejor pro
 
 VIII. Las demás previstas en otras disposiciones de esta Ley y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 7.
 
-La Procuraduría contará con una Unidad Especializada en Análisis Financiero, como órgano especializado en análisis financiero y contable relacionado con operaciones con recursos de procedencia ilícita.
+La Fiscalía contará con una Unidad Especializada en Análisis Financiero, como órgano especializado en análisis financiero y contable relacionado con operaciones con recursos de procedencia ilícita.
 
-La Unidad, cuyo titular tendrá el carácter de agente del Ministerio Público de la Federación, contará con oficiales ministeriales y personal especializados en las materias relacionadas con el objeto de la presente Ley, y estará adscrita a la oficina del Procurador General de la República.
+La Unidad, cuyo titular tendrá el carácter de agente del Ministerio Público de la Federación, contará con oficiales ministeriales y personal especializados en las materias relacionadas con el objeto de la presente Ley, y estará adscrita a la oficina del Fiscal General de la República.
 
-La Unidad podrá utilizar las técnicas y medidas de investigación previstas en el Código Federal de Procedimientos Penales y la Ley Federal Contra la Delincuencia Organizada.
+La Unidad podrá utilizar las técnicas y medidas de investigación previstas en el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 8.
 
@@ -156,9 +162,13 @@ I. Requerir a la Secretaría la información que resulte útil para el ejercicio
 
 II. Establecer los criterios de presentación de los reportes que elabore la Secretaría, sobre operaciones financieras susceptibles de estar vinculadas con esquemas de operaciones con recursos de procedencia ilícita;
 
-III. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Procuraduría, en especial la relacionada con los Avisos materia de la presente Ley;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-IV. Coadyuvar con otras áreas competentes de la Procuraduría, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los delitos de operaciones con recursos de procedencia ilícita y medir su riesgo regional y sectorial;
+III. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Fiscalía, en especial la relacionada con los Avisos materia de la presente Ley;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+IV. Coadyuvar con otras áreas competentes de la Fiscalía, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los delitos de operaciones con recursos de procedencia ilícita y medir su riesgo regional y sectorial;
 
 V. Generar sus propias herramientas para el efecto de investigar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
 
@@ -168,9 +178,13 @@ VII. Emitir guías y manuales técnicos para la formulación de dictámenes en m
 
 VIII. Establecer mecanismos de consulta directa de información que pueda estar relacionada con operaciones con recursos de procedencia ilícita, en las bases de datos de las autoridades de los tres órdenes de gobierno, para la planeación del combate a los delitos de operaciones con recursos de procedencia ilícita;
 
-IX. Conducir la investigación para la obtención de indicios o pruebas vinculadas a operaciones con recursos de procedencia ilícita de conformidad con el Capítulo II del Título Vigésimo Tercero del Libro Segundo del Código Penal Federal, y coadyuvar con la Unidad Especializada prevista en la Ley Federal contra la Delincuencia Organizada cuando se trate de investigaciones vinculadas en la materia;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-X. Requerir informes, documentos, opiniones y elementos de prueba en general a las dependencias y entidades de la administración pública de los tres órdenes de gobierno, y a otras autoridades, organismos públicos autónomos, incluso constitucionales, y a aquéllas personas responsables de dar Avisos en las organizaciones con Actividades sujetas a supervisión previstas en esta Ley. En todos los casos, estos requerimientos deberán hacerse en el marco de una investigación formalmente iniciada, así como sobre individuos y hechos consignados en una averiguación previa. En el caso de las Entidades Financieras, los requerimientos de información, opinión y pruebas en general, se harán a través de la Secretaría;
+IX. Conducir la investigación para la obtención de indicios o pruebas vinculadas a operaciones con recursos de procedencia ilícita de conformidad con el Código Penal Federal, y coadyuvar con la Unidad Especializada en materia de Delincuencia Organizada cuando se trate de investigaciones vinculadas con este tipo de hechos;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+X. Requerir informes, documentos, opiniones y elementos de prueba en general a las dependencias y entidades de la administración pública de los tres órdenes de gobierno, y a otras autoridades, organismos públicos autónomos, incluso constitucionales, y aquellas personas responsables de dar Avisos en las organizaciones con Actividades sujetas a supervisión previstas en esta Ley. En todos los casos, estos requerimientos deberán hacerse en el marco de una investigación formalmente iniciada, así como sobre individuos y hechos consignados en una carpeta de investigación. En el caso de las Entidades Financieras, los requerimientos de información, opinión y pruebas en general, se harán a través de la Secretaría;
 
 XI. Celebrar convenios con las entidades federativas para accesar directamente a la información disponible en los Registros Públicos de la Propiedad de las entidades federativas del país, para la investigación y persecución de los delitos de operaciones con recursos de procedencia ilícita;
 
@@ -178,9 +192,11 @@ XII. Emitir los dictámenes y peritajes en materia de análisis financiero y con
 
 XIII. Las demás que las disposiciones legales y reglamentarias determinen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 9.
 
-Los servidores públicos adscritos a la Unidad, además de reunir los requisitos de ingreso y selección que determine la Ley Orgánica de la Procuraduría, deberán:
+Los servidores públicos adscritos a la Unidad, además de reunir los requisitos de ingreso y selección que determine la Ley de la Fiscalía General de la República, deberán:
 
 I. Acreditar cursos de especialización en delitos de operaciones con recursos de procedencia ilícita y delincuencia organizada que se establezcan en las disposiciones aplicables;
 
@@ -192,9 +208,11 @@ III. No haber sido sancionado con suspensión mayor a quince días, destitución
 
 El personal de la Secretaría que tenga acceso a la base de datos que concentre los Avisos relacionados con las Actividades Vulnerables, deberá cumplir con los requisitos precisados en las fracciones del artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 11.
 
-La Secretaría, la Procuraduría y la Policía Federal deberán establecer programas de capacitación, actualización y especialización dirigidos al personal adscrito a sus respectivas áreas encargadas de la prevención, detección y combate al delito de operaciones con recursos de procedencia ilícita y en las materias necesarias para la consecución del objeto de esta Ley, en el ámbito de sus respectivas competencias.
+La Secretaría, la Fiscalía y la Policía Federal deberán establecer programas de capacitación, actualización y especialización dirigidos al personal adscrito a sus respectivas áreas encargadas de la prevención, detección y combate al delito de operaciones con recursos de procedencia ilícita y en las materias necesarias para la consecución del objeto de esta Ley, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 12.
 
@@ -596,11 +614,13 @@ La Secretaría, así como las autoridades competentes en las materias relacionad
 
 La Unidad podrá consultar las bases de datos de la Secretaría que contienen los Avisos de actos u operaciones relacionados con las Actividades Vulnerables y ésta última tiene la obligación de proporcionarle la información requerida.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 45.
 
-La Secretaría y la Procuraduría, en el ámbito de sus respectivas competencias, para efectos exclusivamente de la identificación y análisis de operaciones relacionadas con los delitos de operaciones con recursos de procedencia ilícita, están legalmente facultadas y legitimadas, por conducto de las unidades administrativas expresamente facultadas para ello en sus respectivos reglamentos, para corroborar la información, datos e imágenes relacionados con la expedición de identificaciones oficiales, que obre en poder de las autoridades federales, así como para celebrar convenios con los órganos constitucionales autónomos, entidades federativas y municipios, a efecto de corroborar la información referida.
+La Secretaría y la Fiscalía, en el ámbito de sus respectivas competencias, para efectos exclusivamente de la identificación y análisis de operaciones relacionadas con los delitos de operaciones con recursos de procedencia ilícita, están legalmente facultadas y legitimadas, por conducto de las unidades administrativas expresamente facultadas para ello en sus respectivos reglamentos, para corroborar la información, datos e imágenes relacionados con la expedición de identificaciones oficiales, que obre en poder de las autoridades federales, así como para celebrar convenios con los órganos constitucionales autónomos, entidades federativas y municipios, a efecto de corroborar la información referida.
 
-La Secretaría o la Procuraduría podrán celebrar convenios con las autoridades que administren los registros de los documentos de identificación referidos en este artículo, para el establecimiento de sistemas de consulta remota.
+La Secretaría o la Fiscalía podrán celebrar convenios con las autoridades que administren los registros de los documentos de identificación referidos en este artículo, para el establecimiento de sistemas de consulta remota.
 
 ###### Artículo 46.
 
@@ -608,9 +628,11 @@ La Unidad podrá solicitar a la Secretaría la verificación de información y d
 
 El Ministerio Público de la Federación podrá solicitar a la Secretaría que ejerza las facultades previstas en esta Ley, en los términos de los acuerdos de colaboración que al efecto suscriban.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 47.
 
-Sin perjuicio de la información y documentación que la Secretaría esté obligada a proporcionar a la Procuraduría, en caso de que la Secretaría, con base en la información que reciba y analice en términos de la presente Ley, conozca de la comisión de conductas susceptibles de ser analizadas o investigadas por las instancias encargadas del combate a la corrupción o de procuración de justicia de las entidades federativas, deberá comunicar a dichas instancias, de acuerdo con la competencia que les corresponda, la información necesaria para identificar actos u operaciones, así como personas presuntamente involucradas con recursos de procedencia ilícita.
+Sin perjuicio de la información y documentación que la Secretaría esté obligada a proporcionar a la Fiscalía en caso de que la Secretaría, con base en la información que reciba y analice en términos de la presente Ley, conozca de la comisión de conductas susceptibles de ser analizadas o investigadas por las instancias encargadas del combate a la corrupción o de procuración de justicia de las entidades federativas, deberá comunicar a dichas instancias, de acuerdo con la competencia que les corresponda, la información necesaria para identificar actos u operaciones, así como personas presuntamente involucradas con recursos de procedencia ilícita.
 
 ###### Artículo 48.
 
@@ -622,9 +644,11 @@ La Secretaría podrá dar información conforme a los tratados, convenios o acue
 
 En estos casos quienes reciban la información y los datos de parte de la Secretaría deberán garantizar la confidencialidad y reserva de aquello que se les proporcione.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 50.
 
-Los servidores públicos de la Secretaría, la Procuraduría y las personas que deban presentar Avisos en términos de la presente Ley, que conozcan de información, documentación, datos o noticias de actos u operaciones objeto de la presente Ley y que hayan sido presentados ante la Secretaría, se abstendrán de divulgarla o proporcionarla, bajo cualquier medio, a quien no esté expresamente autorizado en la misma.
+Los servidores públicos de la Secretaría, la Fiscalía y las personas que deban presentar Avisos en términos de la presente Ley, que conozcan de información, documentación, datos o noticias de actos u operaciones objeto de la presente Ley y que hayan sido presentados ante la Secretaría, se abstendrán de divulgarla o proporcionarla, bajo cualquier medio, a quien no esté expresamente autorizado en la misma.
 
 Para que se pueda proporcionar información, documentación, datos e imágenes a los servidores públicos de las entidades federativas, éstos deberán estar sujetos a obligaciones legales en materia de guarda, reserva y confidencialidad respecto de aquello que se les proporcione en términos de esta Ley y su inobservancia esté penalmente sancionada.
 
@@ -746,7 +770,9 @@ II. De manera dolosa, modifique o altere información, documentación, datos o i
 
 Se sancionará con prisión de cuatro a diez años y con quinientos a dos mil días multa conforme al Código Penal Federal:
 
-I. Al servidor público de alguna de las dependencias o entidades de la administración pública federal, del Poder Judicial de la Federación, de la Procuraduría o de los órganos constitucionales autónomos que indebidamente utilice la información, datos, documentación o imágenes a las que tenga acceso o reciban con motivo de esta Ley, o que transgreda lo dispuesto por el Capítulo VI de la misma, en materia de la reserva y el manejo de información, y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+I. Al servidor público de alguna de las dependencias o entidades de la administración pública federal, del Poder Judicial de la Federación o de los órganos constitucionales autónomos que indebidamente utilice la información, datos, documentación o imágenes a las que tenga acceso o reciban con motivo de esta Ley, o que transgreda lo dispuesto por el Capítulo VI de la misma, en materia de la reserva y el manejo de información, y
 
 II. A quien, sin contar con autorización de la autoridad competente, revele o divulgue, por cualquier medio, información en la que se vincule a una persona física o moral o servidor público con cualquier Aviso o requerimiento de información hecho entre autoridades, en relación con algún acto u operación relacionada con las Actividades Vulnerables, independientemente de que el Aviso exista o no.
 
@@ -797,3 +823,71 @@ DISPOSICIÓN TRANSITORIA
 ## TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
+
+D.O.F. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE LA FISCALÍA GENERAL DE LA REPÚBLICA, SE ABROGA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS ORDENAMIENTOS LEGALES".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+
+Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+
+Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
+
+Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+
+Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+
+En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
+
+Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
+
+Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+
+Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
+
+Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
+
+El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
+
+A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
+
+Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
+
+Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
+
+Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+
+Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+
+El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
+
+Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+
+Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado "Fondo para el Mejoramiento de la Procuración de Justicia" o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+
+Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+
+Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
+
+Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+
+Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
+
+Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
+
+El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
+
+Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
+
+Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+
+Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+
+Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
+
+Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
+
+Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+
+Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
