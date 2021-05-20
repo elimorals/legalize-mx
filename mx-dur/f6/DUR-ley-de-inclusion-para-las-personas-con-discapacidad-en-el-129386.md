@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-inclusion-para-las-personas-con-discapacidad-en-el-12938
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-10"
-last_updated: "2020-03-29"
+last_updated: "2021-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 10 de junio de 2018.
 
@@ -691,9 +691,17 @@ c) El Departamento de Valoración una vez concluido el proceso e integrado el ex
 
 d) Los procesos de rehabilitación de las personas con discapacidad se aplicarán una vez que se haya realizado el diagnóstico general resultante de la valoración que de acuerdo a los (sic) previsto por esta Ley y su reglamento, se efectúe en cada caso, y comprenderá, según se trate, de rehabilitación médico-funcional, orientación y tratamiento psicológico, educación general y especial, rehabilitación laboral, prevención, uso y manejo de la discapacidad.
 
-III. Implementar mecanismos para el fortalecimiento de la Red Estatal de Rehabilitación y la creación de nuevas unidades básicas de rehabilitación en los municipios y comunidades, que por su número de población con discapacidad así lo requieran; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2021)</small>
 
-IV. Las demás facultades y obligaciones que le confieran las leyes y reglamentos aplicables.
+III. Diseñar, construir y operar de manera permanente las rutas especiales de atención para personas con discapacidad en materia de asistencia social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2021)</small>
+
+IV. Implementar mecanismos para el fortalecimiento de la Red Estatal de Rehabilitación y la creación de nuevas unidades básicas de rehabilitación en los municipios y comunidades, que por su número de población con discapacidad así lo requieran; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2021)</small>
+
+V. Las demás facultades y obligaciones que le confieran las leyes y reglamentos aplicables.
 
 Artículo 87
 
@@ -1168,3 +1176,11 @@ P.O. 29 DE MARZO DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 529.- POR EL QUE SE REFORMA LA FRACCIÓN TERCERA DEL ARTÍCULO 86 DE LA LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
