@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-a-los-no-fumadores-para-el-estado-de-51130"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-29"
-last_updated: "2017-03-19"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN A LOS NO FUMADORES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 2006.
 
@@ -82,6 +82,10 @@ II. Certificado de espacio 100% libre de humo de tabaco.- El documento que acred
 III. Cigarrillo.- El cigarro pequeño de picadura envuelta en un papel de fumar;
 
 IV. Cigarro o puro.- El rollo de hojas de tabaco, que enciende por un extremo y se fuma por el opuesto;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
+
+IV BIS. Colilla o filtro de cigarrillo: Elemento fabricado a partir de acetato de celulosa, cuyo objetivo es reducir la entrada de partículas suspendidas de humo al cuerpo y mantiene alejada la ignición del tabaco a la boca del fumador.
 
 V. Denuncia Ciudadana.- La que realiza cualquier persona respecto de los hechos de incumplimiento de las disposiciones contenidas en esta Ley, su reglamento y demás disposiciones aplicables, ante la autoridad competente;
 
@@ -253,9 +257,17 @@ Las zonas exclusivas para fumar, deberán contar con las siguientes característ
 
 I. Estar en un área abierta, o
 
-II. Estar aislada de los espacios 100% libres de humo de tabaco, mediante mecanismos que eviten el traslado de partículas; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
-III. Que no sean paso obligado para los no fumadores.
+II. Estar aislada de los espacios 100% libres de humo de tabaco, mediante mecanismos que eviten el traslado de partículas;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+III. Que no sean paso obligado para los no fumadores, y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
+
+IV. Todo establecimiento que comercialice productos de tabaco con filtro o colilla de cigarro; o cuente con zonas exclusivas para fumar, procurará establecer un programa de apoyo integral para el fomento de concientización, recolección y reciclado de filtros o colillas de cigarro, además de contar con contenedores exclusivos para depositar los filtros o colillas de cigarro para luego darle el tratamiento de conformidad con la Ley para la Prevención y Gestión Integral de los Residuos del Estado de Durango.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
@@ -476,3 +488,15 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 525.- POR EL QUE SE ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN A LOS NO FUMADORES DEL ESTADO DE DURANGO, ASÍ COMO DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
