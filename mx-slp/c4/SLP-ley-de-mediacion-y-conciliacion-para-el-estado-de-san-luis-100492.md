@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mediacion-y-conciliacion-para-el-estado-de-san-luis-1004
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-15"
-last_updated: "2020-10-20"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 15 de abril de 2014.
 
@@ -277,7 +277,9 @@ IV. Contar con los conocimientos, aptitudes y habilidades en mecanismos alternat
 
 V. Haber residido en el Estado durante los dos años anteriores al día de la designación, y
 
-VI. Acreditar no haber sido condenado por delito doloso que amerite pena privativa de libertad, ni estar cumpliendo una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+VI. Acreditar no estar cumpliendo una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
 
 ###### Artículo 15.
 
@@ -357,7 +359,9 @@ IV. Contar con los conocimientos, aptitudes, habilidades, destrezas y experienci
 
 V. Haber residido en el Estado durante los dos años anteriores al día de la designación, y
 
-VI. Acreditar no haber sido condenado por delito doloso que amerite pena privativa de libertad, ni estar cumpliendo una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+VI. Acreditar no estar cumpliendo una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
 
 ###### Artículo 17.
 
@@ -425,7 +429,9 @@ V. Aprobar satisfactoriamente los exámenes de selección y los cursos de capaci
 
 VI. Haber residido en el Estado durante los dos años anteriores al día de la designación, y
 
-VII. Acreditar no haber sido condenado por delito doloso que amerite pena privativa de libertad, ni estar cumpliendo una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+VII. Acreditar no estar cumpliendo una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
 
 ###### Artículo 19.
 
@@ -467,7 +473,9 @@ VI. Contar con los conocimientos, y experiencia legal, para desempeñar el encar
 
 VII. Haber residido en el Estado durante los dos años anteriores al día de la designación, y
 
-VIII. Acreditar no haber sido condenado por delito doloso que amerite pena privativa de libertad, ni estar cumpliendo una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+VIII. Acreditar no estar cumpliendo una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
 
 ###### Artículo 21.
 
@@ -573,7 +581,9 @@ V. Tener título y cédula profesional, expedida por la autoridad o Institución
 
 VI. Haber residido en el Estado durante los dos años anteriores al día de la designación, y
 
-VII. Acreditar no haber sido condenado por delito doloso que amerite pena privativa de libertad, ni estar cumpliendo una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+VII. Acreditar no estar cumpliendo una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
 
 ###### Artículo 25.
 
@@ -657,7 +667,7 @@ I. Estar en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener su domicilio en el Estado;
 
-III. Acreditar no haber sido condenado por delito doloso mediante sentencia, que haya causado ejecutoria;
+III. (DEROGADA, P.O. 20 DE MAYO DE 2021)
 
 IV. Acreditar no haber cumplido o estar cumpliendo, una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público;
 
@@ -683,7 +693,7 @@ I. Estar en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener su domicilio en el Estado de San Luis Potosí;
 
-III. Acreditar no haber sido condenado por delito doloso mediante sentencia, que haya causado ejecutoria;
+III. (DEROGADA, P.O. 20 DE MAYO DE 2021)
 
 IV. Acreditar no haber cumplido o estar cumpliendo, una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público;
 
@@ -1396,5 +1406,13 @@ P.O. 20 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0770.- SE REFORMA EL ARTÍCULO 6º EN SU PÁRRAFO TERCERO, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1174.- SE REFORMA LOS ARTÍCULOS 14 EN SU FRACCIÓN VI, 16 EN SU FRACCIÓN VI, 18 EN SU FRACCIÓN VII, 20 EN SU FRACCIÓN VIII Y 24 EN SU FRACCIÓN VII; Y DEROGA DE LOS ARTÍCULOS 31 LA FRACCIÓN III Y 32 LA FRACCIÓN III, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
