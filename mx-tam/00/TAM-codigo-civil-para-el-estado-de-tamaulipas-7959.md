@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2020-12-17"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -617,9 +617,7 @@ VIII.- La embriaguez habitual, el uso no terapéutico de enervantes o estupefaci
 
 IX.- La impotencia incurable, la sífilis y las enfermedades crónicas e incurables que sean, además, contagiosas o hereditarias. Dejarán de ser impedimento cuando conste la manifestación por escrito frente al Juez que ambos contrayentes tienen conocimiento de las circunstancias enunciadas y que consienten en matrimonio bajo las mismas;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
-
-X.- La persona con discapacidad intelectual con un rango por debajo del 70 de coeficiente intelectual; y
+X.- (DEROGADA, P.O. 20 DE MAYO DE 2021)
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
 
@@ -10486,3 +10484,11 @@ P.O. 17 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-529 MEDIANTE EL CUAL SE DEROGA LA FRACCIÓN X, DEL ARTÍCULO 138 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
