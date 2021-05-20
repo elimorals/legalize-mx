@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-ejercicio-de-las-profesiones-en-el-estado-de-34396"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-24"
-last_updated: "2017-03-05"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de Agosto de 2003.
 
@@ -308,6 +308,10 @@ Cuando el servicio social requiera de la dedicación total de las actividades de
 ###### ARTÍCULO 28.
 
 Los estudiantes podrán prestar los servicios de índole social en comunidades de escasos recursos, instituciones públicas, privadas o donde la Dirección lo determine a través de asesoría, consultas, aportación de datos o ejecución de trabajos de su profesión, con la vigilancia y aprobación de la misma.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2021)</small>
+
+Las instituciones de nivel superior promoverán, de conformidad con su normatividad interna, la donación altruista de sangre, lo que podrá conmutarse en forma parcial por horas del servicio social estudiantil.
 
 ### CAPÍTULO VI. DE LOS COLEGIOS DE PROFESIONISTAS
 
@@ -916,3 +920,11 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 528.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 28 DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
