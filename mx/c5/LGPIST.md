@@ -4,7 +4,7 @@ identifier: "LGPIST"
 country: "mx"
 rank: "ley_general"
 publication_date: "2017-06-26"
-last_updated: "2017-06-26"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122146&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPIST"
 
 LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 26 de junio de 2017.
 
@@ -90,27 +90,33 @@ VI. Delitos Vinculados: Aquellos delitos previstos en esta Ley o en las legislac
 
 VII. Entidades federativas: Las partes integrantes de la Federación a que se refiere el artículo 43 de la Constitución.
 
-VIII. Fiscalías Especiales: Las instituciones especializadas en la investigación del delito de tortura de las Instituciones de Procuración de Justicia Federal y de las entidades federativas.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-IX. Instituciones de Procuración de Justicia: Las Instituciones de la Federación y de las entidades federativas que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél.
+VIII. Fiscalía: La Fiscalía General de la República.
 
-X. Instituciones de Seguridad Pública: Las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y otras autoridades del Consejo Nacional de Seguridad Pública encargadas o que realicen funciones de Seguridad Pública a nivel federal, local o municipal.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-XI. Instituciones Policiales: A los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general todas las dependencias encargadas de la seguridad pública a nivel federal, local y municipal, que realicen funciones similares.
+IX. Fiscalías Especializadas: Las instituciones especializadas en la investigación del delito de tortura de las Instituciones de Procuración de Justicia Federal y de las entidades federativas.
 
-XII. Ley: La Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+X. Instituciones de Procuración de Justicia: Las Instituciones de la Federación y de las entidades federativas que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél.
 
-XIII. Lugar de privación de libertad: Los establecimientos, las instalaciones o cualquier otro espacio o sitio en control de las autoridades federales, estatales o municipales en donde se encuentren o pudieran encontrarse personas en privación de la libertad, medie o no orden, medida cautelar o sentencia de una autoridad judicial o mandato de una autoridad administrativa u otra competente; así como establecimientos, instalaciones o cualquier otro sitio administrado por particulares, en los que se encuentren personas privadas de la libertad por determinación de la autoridad o con su consentimiento expreso o tácito.
+XI. Instituciones de Seguridad Pública: Las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y otras autoridades del Consejo Nacional de Seguridad Pública encargadas o que realicen funciones de Seguridad Pública a nivel federal, local o municipal.
 
-XIV. Mecanismo Nacional de Prevención: El Mecanismo Nacional de Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+XII. Instituciones Policiales: A los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general todas las dependencias encargadas de la seguridad pública a nivel federal, local y municipal, que realicen funciones similares.
 
-XV. Organismos de Protección de los Derechos Humanos: Los organismos públicos de protección de los derechos humanos de las entidades federativas.
+XIII. Ley: La Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
-XVI. Organismos Internacionales de Protección de los Derechos Humanos: Aquellos organismos que tienen la facultad de promover la protección y supervisar el respeto a los derechos humanos.
+XIV. Lugar de privación de libertad: Los establecimientos, las instalaciones o cualquier otro espacio o sitio en control de las autoridades federales, estatales o municipales en donde se encuentren o pudieran encontrarse personas en privación de la libertad, medie o no orden, medida cautelar o sentencia de una autoridad judicial o mandato de una autoridad administrativa u otra competente; así como establecimientos, instalaciones o cualquier otro sitio administrado por particulares, en los que se encuentren personas privadas de la libertad por determinación de la autoridad o con su consentimiento expreso o tácito.
 
-XVII. Privación de la libertad: Cualquier acto en el que se prive a una persona de su libertad deambulatoria que derive en alguna forma de retención, detención, presentación, aprehensión, internamiento, aseguramiento, encarcelamiento o de custodia de una persona, por orden o acto de autoridad judicial o administrativa u otra competente, o con el consentimiento expreso o tácito de cualquiera de éstas.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
-XVIII. Procuraduría: La Procuraduría General de la República.
+XV. Mecanismo Nacional de Prevención: El Mecanismo Nacional de Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+XVI. Organismos de Protección de los Derechos Humanos: Los organismos públicos de protección de los derechos humanos de las entidades federativas.
+
+XVII. Organismos Internacionales de Protección de los Derechos Humanos: Aquellos organismos que tienen la facultad de promover la protección y supervisar el respeto a los derechos humanos.
+
+XVIII. Privación de la libertad: Cualquier acto en el que se prive a una persona de su libertad deambulatoria que derive en alguna forma de retención, detención, presentación, aprehensión, internamiento, aseguramiento, encarcelamiento o de custodia de una persona, por orden o acto de autoridad judicial o administrativa u otra competente, o con el consentimiento expreso o tácito de cualquiera de éstas.
 
 XIX. Procuradurías: Las Fiscalías o Procuradurías Generales de Justicia de las entidades federativas.
 
@@ -246,15 +252,21 @@ II. Se actualicen las hipótesis previstas en la Ley Orgánica del Poder Judicia
 
 III. Exista una sentencia o decisión de algún organismo internacional de protección de los derechos humanos o una resolución de un órgano previsto en cualquier tratado internacional en la que se determine la responsabilidad del Estado mexicano por defecto u omisión en la investigación, persecución o enjuiciamiento de los delitos previstos en esta Ley;
 
-IV. El Ministerio Público de la Federación solicite a la Fiscalía Especial de la Entidad Federativa, le remita la investigación correspondiente, atendiendo a las características propias del hecho, así como a las circunstancias de ejecución o la relevancia social del mismo.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+IV. El Ministerio Público de la Federación solicite a la Fiscalía Especializada de la Entidad Federativa, le remita la investigación correspondiente, atendiendo a las características propias del hecho, así como a las circunstancias de ejecución o la relevancia social del mismo.
 
 La Víctima podrá pedir al Ministerio Público de la Federación que solicite la remisión de la investigación, a la que el Ministerio Público deberá responder de forma fundada y motivada.
 
-En los casos no contemplados en este artículo, serán competentes las Fiscalías Especiales de las entidades federativas.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+En los casos no contemplados en este artículo, serán competentes las Fiscalías Especializadas de las entidades federativas.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### Artículo 23.
 
-Todas las autoridades, en el ámbito de sus competencias, deberán prestar a las Fiscalías Especiales el auxilio y entregar la información que éstas les soliciten para el cumplimiento de lo dispuesto en esta Ley y demás disposiciones aplicables.
+Todas las autoridades, en el ámbito de sus competencias, deberán prestar a las Fiscalías Especializadas el auxilio y entregar la información que éstas les soliciten para el cumplimiento de lo dispuesto en esta Ley y demás disposiciones aplicables.
 
 ### CAPÍTULO TERCERO. DEL DELITO DE TORTURA
 
@@ -340,7 +352,9 @@ El delito de tortura se investigará y perseguirá de oficio, por denuncia, noti
 
 La vista judicial tendrá por efecto que la autoridad competente inicie la investigación del delito de tortura en términos de lo dispuesto en la presente Ley y en el Código Nacional de Procedimientos Penales.
 
-En el caso de que la autoridad que tenga conocimiento de los hechos constitutivos del delito de tortura no tenga competencia para iniciar la investigación, ésta deberá remitir el asunto de manera inmediata y por cualquier medio, a las Fiscalías Especiales competentes.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+En el caso de que la autoridad que tenga conocimiento de los hechos constitutivos del delito de tortura no tenga competencia para iniciar la investigación, ésta deberá remitir el asunto de manera inmediata y por cualquier medio, a las Fiscalías Especializadas competentes.
 
 Todo Servidor Público que tenga conocimiento de la comisión del delito de tortura tiene la obligación de denunciarlo de manera inmediata ante las autoridades competentes.
 
@@ -348,9 +362,11 @@ Todo Servidor Público que tenga conocimiento de la comisión del delito de tort
 
 El Ministerio Público o la Víctima podrán solicitar la acumulación de procesos distintos de conformidad con lo previsto en el Código Nacional de Procedimientos Penales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 35.
 
-Las Fiscalías Especiales, además de lo dispuesto en el Código Nacional de Procedimientos Penales, una vez que tengan conocimiento de la probable comisión del delito de tortura, deberán llevar a cabo, entre otras, las siguientes acciones:
+Las Fiscalías Especializadas, además de lo dispuesto en el Código Nacional de Procedimientos Penales, una vez que tengan conocimiento de la probable comisión del delito de tortura, deberán llevar a cabo, entre otras, las siguientes acciones:
 
 I. Iniciar de manera inmediata la investigación por el delito de tortura;
 
@@ -414,13 +430,17 @@ Cuando el dictamen médico-psicológico basado en el Protocolo de Estambul o de 
 
 En los casos de violencia sexual contra las mujeres, la asistencia médica será proporcionada por un médico especialista en ginecología, de sexo femenino o del sexo que la Víctima elija, o de cualquier otra especialidad que sea requerida y de conformidad con los principios establecidos en los protocolos con perspectiva de género en la materia.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 42.
 
-Las Fiscalías Especiales y las instituciones encargadas de atención a Víctimas podrán celebrar convenios de colaboración con el propósito de estar en posibilidades de dar cumplimiento a lo previsto en los artículos 40 y 41 de esta Ley.
+Las Fiscalías Especializadas y las instituciones encargadas de atención a Víctimas podrán celebrar convenios de colaboración con el propósito de estar en posibilidades de dar cumplimiento a lo previsto en los artículos 40 y 41 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### Artículo 43.
 
-Los peritos médicos y/o psicólogos que realicen el dictamen médico-psicológico basado en el Protocolo de Estambul, tendrán la obligación de entregar el mismo a la autoridad ministerial de la Fiscalía Especial que conozca del caso, a efecto de que se agregue a la carpeta de investigación, así como copia a la Víctima, a su defensor o a quien ésta designe.
+Los peritos médicos y/o psicólogos que realicen el dictamen médico-psicológico basado en el Protocolo de Estambul, tendrán la obligación de entregar el mismo a la autoridad ministerial de la Fiscalía Especializada que conozca del caso, a efecto de que se agregue a la carpeta de investigación, así como copia a la Víctima, a su defensor o a quien ésta designe.
 
 Solamente en los casos en que exista queja presentada ante la Comisión Nacional de los Derechos Humanos o ante los organismos públicos de protección de los derechos humanos competentes, se les remitirá copia para que se incluya en las mismas.
 
@@ -482,9 +502,11 @@ Durante el juicio, únicamente podrá solicitarse la nulidad de una prueba admit
 
 Procederá el reconocimiento de inocencia de la persona sentenciada, cuando se desacredite formalmente, en sentencia irrevocable, la prueba o pruebas en las que se fundó la condena, en virtud de haberse obtenido a través de una violación de derechos humanos o fundamentales, de conformidad con lo que establece el Código Nacional de Procedimientos Penales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 53.
 
-Cuando el Juez advierta la existencia de cualquier dato o medio de prueba obtenido a través de un acto de tortura, dará vista con efectos de denuncia a la Fiscalía Especial competente a efecto de que se inicie la investigación penal correspondiente.
+Cuando el Juez advierta la existencia de cualquier dato o medio de prueba obtenido a través de un acto de tortura, dará vista con efectos de denuncia a la Fiscalía Especializada competente a efecto de que se inicie la investigación penal correspondiente.
 
 Toda investigación, persecución, procesamiento y sanción del delito de tortura deberá ser competencia exclusiva de las autoridades del orden civil.
 
@@ -492,25 +514,35 @@ Toda investigación, persecución, procesamiento y sanción del delito de tortur
 
 De conformidad con las facultades establecidas en los artículos 99 y 101 de la Ley Orgánica del Poder Judicial de la Federación, los visitadores judiciales darán seguimiento a las vistas con efectos de denuncias del delito de tortura que hagan los órganos jurisdiccionales en el ámbito de sus competencias.
 
-## TÍTULO CUARTO. DE LAS FISCALÍAS ESPECIALES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE MAYO DE 2021)</small>
+
+## TÍTULO CUARTO. DE LAS FISCALÍAS ESPECIALIZADAS
 
 ### CAPÍTULO PRIMERO. DE SU INTEGRACIÓN
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 55.
 
-Las Instituciones de Procuración de Justicia deberán crear Fiscalías Especiales con plena autonomía técnica y operativa para el conocimiento, investigación y persecución de delitos previstos en esta Ley; contarán con Ministerios Públicos, policías, servicios periciales y técnicos especializados; y estarán dotadas de los recursos humanos, financieros y materiales que se requieran para su efectiva operación.
+Las Instituciones de Procuración de Justicia deberán crear Fiscalías Especializadas con plena autonomía técnica y operativa para el conocimiento, investigación y persecución de delitos previstos en esta Ley; contarán con Ministerios Públicos, policías, servicios periciales y técnicos especializados; y estarán dotadas de los recursos humanos, financieros y materiales que se requieran para su efectiva operación.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### Artículo 56.
 
-Las autoridades de los tres órdenes de gobierno deben garantizar el acceso de las Fiscalías Especiales a los registros de detenciones.
+Las autoridades de los tres órdenes de gobierno deben garantizar el acceso de las Fiscalías Especializadas a los registros de detenciones.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### Artículo 57.
 
-La Procuraduría y las procuradurías de las treinta y dos entidades federativas capacitarán permanentemente a su personal en materia de planeación, desarrollo y técnicas de investigación criminal, uso adecuado, legal, proporcional, razonable y gradual de la fuerza, así como en derechos humanos.
+La Fiscalía y las procuradurías de las treinta y dos entidades federativas capacitarán permanentemente a su personal en materia de planeación, desarrollo y técnicas de investigación criminal, uso adecuado, legal, proporcional, razonable y gradual de la fuerza, así como en derechos humanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
 ###### Artículo 58.
 
-Para ser integrante y permanecer en las Fiscalías Especiales encargadas de la investigación y persecución del delito de tortura será necesario cumplir con los siguientes requisitos:
+Para ser integrante y permanecer en las Fiscalías Especializadas encargadas de la investigación y persecución del delito de tortura será necesario cumplir con los siguientes requisitos:
 
 I. Tener acreditados los requisitos de ingreso y permanencia de la institución respectiva, de conformidad con la Ley General del Sistema Nacional de Seguridad Pública;
 
@@ -518,13 +550,17 @@ II. Tener el perfil que establezca la Conferencia Nacional de Procuración de Ju
 
 III. Aprobar los cursos de capacitación y de actualización que establezca la Conferencia Nacional de Procuración de Justicia y la Conferencia Nacional de Secretarios de Seguridad Pública, según corresponda.
 
-Para ingresar al servicio en las Fiscalías Especiales, los aspirantes asumirán el compromiso de sujetarse en cualquier tiempo de su servicio a la realización de exámenes de control de confianza cuando sean requeridos, mismos que deberán acreditar para continuar en el servicio.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Para ingresar al servicio en las Fiscalías Especializadas, los aspirantes asumirán el compromiso de sujetarse en cualquier tiempo de su servicio a la realización de exámenes de control de confianza cuando sean requeridos, mismos que deberán acreditar para continuar en el servicio.
 
 ### CAPÍTULO SEGUNDO. DE SUS OBLIGACIONES Y FACULTADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 59.
 
-Las Fiscalías Especiales tendrán en el ámbito de su competencia, las obligaciones y facultades siguientes:
+Las Fiscalías Especializadas tendrán en el ámbito de su competencia, las obligaciones y facultades siguientes:
 
 I. Iniciar y desarrollar la investigación y persecución de hechos delictivos relacionados con los delitos previstos en esta Ley;
 
@@ -542,7 +578,9 @@ VII. Solicitar las medidas cautelares aplicables al imputado por los delitos pre
 
 VIII. Establecer mecanismos de cooperación con otras autoridades competentes para el intercambio de plataformas de información y de la capacitación continua para dichos efectos;
 
-IX. Colaborar con otras autoridades competentes a efecto de sistematizar la información obtenida durante la investigación y promover su intercambio con otras Fiscalías Especiales con el fin de fortalecer el seguimiento y control de las conductas delictivas previstas en esta Ley y mantener actualizado el Registro Nacional;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+IX. Colaborar con otras autoridades competentes a efecto de sistematizar la información obtenida durante la investigación y promover su intercambio con otras Fiscalías Especializadas con el fin de fortalecer el seguimiento y control de las conductas delictivas previstas en esta Ley y mantener actualizado el Registro Nacional;
 
 X. Llevar a cabo análisis de contextos y patrones sobre la comisión del delito de tortura, con base en los datos del Registro Nacional y otra información disponible;
 
@@ -562,7 +600,9 @@ Las autoridades de los tres órdenes de gobierno, en sus respectivos ámbitos de
 
 I. Implementar programas y acciones para prevenir y fortalecer el combate de los delitos previstos en esta Ley;
 
-II. Desarrollar programas de formación, actualización, capacitación y profesionalización permanente de los Servidores Públicos que formen parte de las Instituciones de Seguridad Pública, Instituciones de Procuración de Justicia, Instituciones Policiales y, de manera especial, de quienes integran las Fiscalías Especiales, así como de otras autoridades involucradas en la investigación, documentación, dictaminación médica y psicológica de casos relacionados con los delitos previstos en esta Ley; así como en la custodia y tratamiento de toda persona sometida o en proceso de detención, medidas cautelares o prisión, mismas que deberán tomar en consideración las reglas contempladas en esta Ley, los tratados internacionales de los que el Estado mexicano sea parte y otros estándares internacionales de la materia;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+II. Desarrollar programas de formación, actualización, capacitación y profesionalización permanente de los Servidores Públicos que formen parte de las Instituciones de Seguridad Pública, Instituciones de Procuración de Justicia, Instituciones Policiales y, de manera especial, de quienes integran las Fiscalías Especializadas, así como de otras autoridades involucradas en la investigación, documentación, dictaminación médica y psicológica de casos relacionados con los delitos previstos en esta Ley; así como en la custodia y tratamiento de toda persona sometida o en proceso de detención, medidas cautelares o prisión, mismas que deberán tomar en consideración las reglas contempladas en esta Ley, los tratados internacionales de los que el Estado mexicano sea parte y otros estándares internacionales de la materia;
 
 III. Implementar el Protocolo Homologado en todas las instituciones de procuración de justicia para la investigación y persecución del delito de tortura;
 
@@ -574,7 +614,9 @@ VI. Desarrollar protocolos de actuación, campañas de sensibilización y difusi
 
 VII. Promover con las instancias educativas, sociales y de salud nacionales e internacionales, campañas de sensibilización, eventos de difusión y formación tendientes a la consolidación de la cultura de respeto a los derechos humanos en la materia;
 
-VIII. Proveer a las Fiscalías Especiales de todos los medios técnicos necesarios en materia de criminalística y ciencias forenses para desempeñar su función investigativa de manera profesional y científica; y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+VIII. Proveer a las Fiscalías Especializadas de todos los medios técnicos necesarios en materia de criminalística y ciencias forenses para desempeñar su función investigativa de manera profesional y científica, y
 
 IX. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
@@ -620,9 +662,11 @@ Las declaraciones o entrevistas de las Víctimas de los delitos o de los testigo
 
 La orientación, capacitación y profesionalización de los Servidores Públicos relativa a la prevención, la inhibición y la prohibición de la tortura y otros tratos o penas crueles, inhumanos o degradantes comprenderá, entre otras fuentes, a las normas y criterios de derecho nacional e internacional; así como el Protocolo de actuación para quienes imparten justicia en asuntos que involucren hechos constitutivos de tortura y malos tratos, y sus anexos, de la Suprema Corte de Justicia de la Nación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 68.
 
-La capacitación que en el ámbito de los derechos humanos reciban los Servidores Públicos adscritos a las Fiscalías Especiales será desarrollada preponderantemente por las instancias competentes que en materia de capacitación, formación, difusión y profesionalización tengan las Instituciones de Procuración de Justicia.
+La capacitación que en el ámbito de los derechos humanos reciban los Servidores Públicos adscritos a las Fiscalías Especializadas será desarrollada preponderantemente por las instancias competentes que en materia de capacitación, formación, difusión y profesionalización tengan las Instituciones de Procuración de Justicia.
 
 La impartición de los cursos sobre las normas y criterios del derecho nacional e internacional, serán obligatorios para los Servidores Públicos que forman parte de las Instituciones de Seguridad Pública, de Procuración de Justicia y Policiales; así como para aquellos que participen en la custodia y tratamiento de toda persona sometida a privación de la libertad y para las personas que deseen ingresar a éstas.
 
@@ -650,9 +694,11 @@ V. Los indicadores para la medición del logro de sus objetivos; y
 
 VI. Las bases para la creación de instrumentos de seguimiento y evaluación, los cuales deberán ser avalados por instancias independientes de las instituciones de procuración y administración de justicia, y de las administraciones públicas federal y de las entidades federativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 70.
 
-La Procuraduría establecerá las bases para garantizar la coordinación nacional en el diseño, elaboración, instrumentación y aplicación del Programa Nacional.
+La Fiscalía establecerá las bases para garantizar la coordinación nacional en el diseño, elaboración, instrumentación y aplicación del Programa Nacional.
 
 La coordinación nacional deberá involucrar la participación de los tres poderes y órdenes de gobierno, así como de la Comisión Nacional y los organismos de protección de los derechos humanos de carácter nacional e internacional, instituciones académicas y organizaciones de la sociedad civil especializada en la documentación de casos de tortura y/o acompañamiento de Víctimas de tortura y otros tratos crueles, inhumanos o degradantes.
 
@@ -766,7 +812,9 @@ IX. Presentar quejas ante la Comisión Nacional o, en su caso, ante los organism
 
 X. Denunciar ante la autoridad competente, los casos de tortura y otros tratos o penas crueles inhumanas y degradantes de los que tenga conocimiento;
 
-XI. Hacer recomendaciones en materia de investigación de tortura y otros tratos o penas crueles, inhumanas o degradantes a las Fiscalías Especiales;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+XI. Hacer recomendaciones en materia de investigación de tortura y otros tratos o penas crueles, inhumanas o degradantes a las Fiscalías Especializadas;
 
 XII. Hacer recomendaciones de política pública a las autoridades competentes de los tres órdenes de gobierno; así como formular propuestas sobre la legislación vigente o los proyectos de ley en la materia, con objeto de mejorar el trato y las condiciones de las personas privadas de su libertad y de prevenir la tortura y otros tratos o penas crueles, inhumanos o degradantes, tomando en consideración los más altos estándares internacionales;
 
@@ -824,9 +872,11 @@ El Registro Nacional incluirá entre otros datos, el lugar, fecha, circunstancia
 
 Asimismo, estará interconectado con el Registro Nacional de Víctimas, en términos de la Ley General de Víctimas, cuando proceda su inscripción en este, y procurará que las personas identificadas como Víctimas de tortura y otros tratos o penas crueles, inhumanos o degradantes aparezcan en ambos registros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 85.
 
-La Procuraduría coordinará la operación y la administración del Registro Nacional.
+La Fiscalía coordinará la operación y la administración del Registro Nacional.
 
 El Registro Nacional se alimentará con los datos proporcionados por los registros de cada una de las entidades federativas y de la Federación en términos de los convenios que se celebren para tal efecto.
 
@@ -850,9 +900,11 @@ Toda persona que haya sido Víctima de alguno de los delitos previstos en esta L
 
 Las medidas a que se refiere el Artículo anterior deben ser proporcionadas por las autoridades correspondientes, en el ámbito de sus competencias, a efecto de garantizar su reincorporación a la sociedad y la restitución plena de sus derechos.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
 ###### Artículo 89.
 
-Con independencia de lo previsto en la Ley General de Víctimas, la Comisión Ejecutiva es competente para proporcionar medidas de ayuda, asistencia y atención a las Víctimas relacionadas con la probable comisión del delito de tortura, perseguidos por la Fiscalía Especializada de la Procuraduría, y en los casos previstos en el artículo 91 de esta Ley.
+Con independencia de lo previsto en la Ley General de Víctimas, la Comisión Ejecutiva es competente para proporcionar medidas de ayuda, asistencia y atención a las Víctimas relacionadas con la probable comisión del delito de tortura, perseguidos por la Fiscalía Especializada que conozca del caso, y en los casos previstos en el artículo 91 de esta Ley.
 
 ###### Artículo 90.
 
@@ -894,7 +946,9 @@ III. Acompañar a las a Víctimas de los delitos de esta Ley y a sus familias a 
 
 IV. Solicitar a las instituciones que llevan a cabo la investigación de los delitos materia de esta Ley la información y apoyo que requiera para el cumplimiento de sus atribuciones;
 
-V. Solicitar información a la Fiscalía Especial competente para mejorar la atención brindada a las Víctimas de los delitos materia de esta Ley;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+
+V. Solicitar información a la Fiscalía Especializada competente para mejorar la atención brindada a las Víctimas de los delitos materia de esta Ley;
 
 VI. Incluir en el Registro Nacional de Víctimas a las Víctimas de los delitos previstos en esta Ley;
 
@@ -932,7 +986,9 @@ Las Víctimas del delito de tortura tienen derecho a la protección el (sic) Est
 
 Las medidas de protección antes referidas se deberán implementar con base en los principios contenidos en la Ley General de Víctimas y demás disposiciones aplicables.
 
-Además de las Fiscalías Especiales y las Víctimas, el Ministerio Público puede solicitar las medidas cautelares o de protección necesarias para la Víctima, sus familiares o sus bienes, cuando sea necesario.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+
+Además de las Fiscalías Especializadas y las Víctimas, el Ministerio Público puede solicitar las medidas cautelares o de protección necesarias para la Víctima, sus familiares o sus bienes, cuando sea necesario.
 
 ###### Artículo 96.
 
@@ -997,3 +1053,73 @@ Décimo Sexto. A fin de dar cumplimiento a las atribuciones que se establecen en
 Ciudad de México, a 26 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE LA FISCALÍA GENERAL DE LA REPÚBLICA, SE ABROGA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS ORDENAMIENTOS LEGALES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+
+Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+
+Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
+
+Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+
+Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+
+En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
+
+Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
+
+Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+
+Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
+
+Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
+
+El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
+
+A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
+
+Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
+
+Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
+
+Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+
+Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+
+El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
+
+Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+
+Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+
+Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+
+Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
+
+Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+
+Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
+
+Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
+
+El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
+
+Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
+
+Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+
+Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+
+Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
+
+Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
+
+Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+
+Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
