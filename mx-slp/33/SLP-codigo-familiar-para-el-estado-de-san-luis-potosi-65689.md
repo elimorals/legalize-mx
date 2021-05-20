@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2020-08-20"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -767,11 +767,11 @@ V. En caso de sociedad conyugal, presentarán la liquidación de la misma.
 
 ARTICULO 102 BIS. El divorcio voluntario podrá pedirse en cualquier momento, y en la forma que establecen, el Código de Procedimientos Civiles para el Estado de San Luis Potosí; y la Ley del Registro Civil del Estado de San Luis Potosí, según sea el caso.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2021)</small>
 
 ###### ARTICULO 103.
 
-Las o los cónyuges que hayan solicitado el divorcio voluntario, podrán reconciliarse en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio voluntario, sino pasado un año desde su reconciliación.
+Las o los cónyuges que hayan solicitado el divorcio voluntario, podrán reconciliarse en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. Si después de la reconciliación quisieran solicitar nuevamente el divorcio voluntario, podrán hacerlo en cualquier momento.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -3644,5 +3644,13 @@ P.O. 20 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0732.- SE REFORMA (SIC) LOS ARTÍCULOS 599 EN SU FRACCIÓN I Y 605, DEL CÓDIGO CIVIL PARA EL ESTADO. SE REFORMA (SIC) LOS ARTÍCULOS 175, 359 Y 379; Y ADICIONA AL ARTÍCULO 301 EL PÁRRAFO TERCERO, DEL CÓDIGO FAMILIAR PARA EL ESTADO".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1173.- SE REFORMA EL ARTÍCULO 103, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
