@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2019-10-16"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -134,6 +134,10 @@ VII. Conservación: El conjunto de políticas y medidas para mantener dinámicam
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
 VIII. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
+
+VIII Bis. Contaminación lumínica: El resplandor luminoso en ambientes nocturnos o brillo producido por la difusión y reflexión de la luz en los gases, aerosoles y partículas en suspensión en la atmósfera, que altera las condiciones naturales de luminosidad en horas nocturnas y dificultan las observaciones astronómicas de los objetos celestes, debido a la luz intrusa, debiendo distinguirse el brillo natural, atribuible a la radiación de fuentes u objetos celestes y a la luminiscencia de las capas altas de la atmósfera;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
@@ -246,6 +250,20 @@ XXXV. Ley General de Residuos: La Ley General para la Prevención y Gestión Int
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
 XXXVI. Ley de Vida Silvestre: La Ley General de Vida Silvestre;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
+
+XXXVI Bis. Luz intrusa: Parte de la luz de una instalación con fuente de iluminación que no cumple la función para la que fue diseñada y no previene la contaminación lumínica, la cual será considerada por la Secretaría en el ejercicio de sus atribuciones de prevención y control de la contaminación, contemplándose para este efecto:
+
+a) La luz que cae indebidamente fuera de la zona que se requiere iluminar;
+
+b) La luz difusa en las proximidades de la instalación de iluminación;
+
+c) La luminiscencia del cielo, es decir, la iluminación del cielo nocturno que resulta del reflejo directo e indirecto de la radiación visible e invisible, dispersada por los constituyentes de la atmosfera, moléculas de gas, aerosoles y partículas en la dirección de la observación;
+
+d) La luz difusa que se esparce en las proximidades de la fuente artificial de iluminación, y
+
+e) La luz que se proyecta en varias direcciones fuera de la zona terrestre a iluminar;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
@@ -1914,6 +1932,22 @@ VII. Cuando se pretendan colocar en espacios, monumentos o edificios públicos, 
 VIII. Contravengan este Código u otros ordenamientos aplicables a la materia.
 
 3. Los Ayuntamientos deberán incorporar en sus bandos de policía y buen gobierno y reglamentos, disposiciones que regulen obras, actividades y elementos publicitarios, a fin de evitar el deterioro del paisaje rural y urbano, y evitar la contaminación visual, procurando crear una imagen armónica de los centros de población.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2021)</small>
+
+ARTICULO 99 BIS. Para lograr la prevención, reducción y control de la contaminación lumínica en la atmósfera, se deberán considerar los siguientes objetivos:
+
+a) Promover la eficiencia energética a través de un uso eficiente del alumbrado exterior, sin menoscabo de la seguridad que debe proporcionar a los peatones, los vehículos y las propiedades;
+
+b) Preservar al máximo posible las condiciones naturales de las horas nocturnas en beneficio de la fauna, la flora y los ecosistemas en general;
+
+c) Prevenir, minimizar y corregir los efectos de la contaminación lumínica en el cielo;
+
+d) Promover la eficiencia energética a través de un uso eficiente del alumbrado exterior, sin menoscabo de la seguridad que debe proporcionar a los peatones, los vehículos y las propiedades;
+
+e) Preservar al máximo posible las condiciones naturales de las horas nocturnas en beneficio de la fauna, la flora y los ecosistemas en general; y
+
+f) Prevenir, minimizar y corregir los efectos de la contaminación lumínica en el cielo.
 
 ### CAPITULO III. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DEL AGUA
 
@@ -4936,6 +4970,14 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 16 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-1047 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONA LA FRACCIÓN VII, AL ARTÍCULO 39, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-528 MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES VIII BIS Y XXXVI BIS AL ARTÍCULO 4, ASÍ COMO EL ARTÍCULO 99 BIS AL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
