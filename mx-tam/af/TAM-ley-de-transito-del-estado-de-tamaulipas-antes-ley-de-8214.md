@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2020-06-19"
+last_updated: "2021-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "TAM"
 ---
 # LEY DE TRANSITO DEL ESTADO DE TAMAULIPAS - ANTES LEY DE TRANSITO Y TRANSPORTE -
 
-[NOTA 1: DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2002.]
-
-[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+[NOTA: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -367,11 +365,11 @@ Los vehículos automotores que no reúnan los requisitos para su uso, serán ret
 
 ### CAPITULO V. DEL ESTACIONAMIENTO DE VEHICULOS
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2021)</small>
 
 ###### ARTICULO 25.
 
-Previo estudio que se realice, los Ayuntamientos determinarán las condiciones y forma en que deben ser estacionados los vehículos automotores en la vía pública, considerando el interés social, el orden y la armónica convivencia, privilegiando los espacios para las personas con discapacidad.
+Previo estudio que se realice, los Ayuntamientos determinarán las condiciones y forma en que deben ser estacionados los vehículos automotores en la vía pública y espacios privados, considerando el interés social, el orden y la armónica convivencia, privilegiando los espacios para las personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -380,6 +378,10 @@ Los lugares con estacionamiento disponible para el público, que cuenten con má
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 Para ocupar el cajón correspondiente, las mujeres embarazadas, deberán mostrar en su vehículo el permiso especial, que para tal efecto les conceda la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2021)</small>
+
+Los estacionamientos públicos y privados, deberán contar con las instalaciones necesarias para proporcionar el servicio a los usuarios de bicicletas y motocicletas.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -896,3 +898,11 @@ P.O. 19 DE JUNIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+P.O. 20 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-527 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 25 DE LA LEY DE TRÁNSITO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
