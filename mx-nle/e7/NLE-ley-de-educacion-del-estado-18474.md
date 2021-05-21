@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2021-03-31"
+last_updated: "2021-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -423,17 +423,17 @@ XX.- APOYARÁN Y DESARROLLARÁN PROGRAMAS, CURSOS Y ACTIVIDADES QUE FORTALEZCAN 
 
 XXI.- DESARROLLARÁN UN PROGRAMA INTEGRAL EDUCATIVO PARA PERSONAS CON DISCAPACIDAD, TRANSITORIA O DEFINITIVA; ASÍ COMO UNO PARA QUIENES POSEEN APTITUDES SOBRESALIENTES, SUPERDOTADAS Y TALENTO EXTRAORDINARIO, ASÍ MISMO SE DESARROLLARÁN CURSOS Y ACTIVIDADES QUE POTENCIALICEN SUS HABILIDADES;
 
-(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE ADICIONÓ LA FRACCIÓN XXII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+XXII.- La Secretaría, con el apoyo de la Secretaría de Salud del Estado, de acuerdo a sus competencias y sujetándose a los lineamientos establecidos por la autoridad educativa federal realizarán, un protocolo de detección y atención temprana de educación especial que incluya la orientación de los padres o tutores, así como la capacitación a los maestros y personal de escuelas de educación básica, media superior regulares y especiales, para los alumnos con discapacidad, con aptitudes sobresalientes, personas superdotadas o con talento extraordinario;
 
-XXII.- LA SECRETARÍA, CON EL APOYO DE LA SECRETARÍA DE SALUD DEL ESTADO, DE ACUERDO A SUS COMPETENCIAS Y SUJETÁNDOSE A LOS LINEAMIENTOS ESTABLECIDOS POR LA AUTORIDAD EDUCATIVA FEDERAL REALIZARÁN, UN PROTOCOLO DE DETECCIÓN Y ATENCIÓN TEMPRANA DE EDUCACIÓN ESPECIAL QUE INCLUYA LA ORIENTACIÓN DE LOS PADRES O TUTORES, ASÍ COMO LA CAPACITACIÓN A LOS MAESTROS Y PERSONAL DE ESCUELAS DE EDUCACIÓN BÁSICA, MEDIA SUPERIOR REGULARES Y ESPECIALES, PARA LOS ALUMNOS CON DISCAPACIDAD, CON APTITUDES SOBRESALIENTES, PERSONAS SUPERDOTADAS O CON TALENTO EXTRAORDINARIO; Y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2021)</small>
 
-(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE ADICIONÓ LA FRACCIÓN XXIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+XXIII.- Desarrollarán programas integrales de educación física que fomente en los educandos la importancia de practicar el ejercicio como herramienta para cuidar la salud y el estado físico; y
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2021)</small>
 
-XXIII.- DESARROLLARÁN PROGRAMAS INTEGRALES DE EDUCACIÓN FÍSICA QUE FOMENTE EN LOS EDUCANDOS LA IMPORTANCIA DE PRACTICAR EL EJERCICIO COMO HERRAMIENTA PARA CUIDAR LA SALUD Y EL ESTADO FÍSICO.
+XXIV.- Promoverán la formación y capacitación de las maestras y maestros, para que desarrollen las habilidades necesarias en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital que permita favorecer el proceso educativo.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
@@ -1539,6 +1539,14 @@ Bajo el supuesto establecido en el artículo anterior, la Secretaría deberá im
 
 Asimismo, deberá realizar mecanismos que permita a los educandos hacer llegar sus trabajos y evaluaciones a las maestras y maestros sin que represente riesgo para su salud o integridad física.
 
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2021)</small>
+
+###### Artículo 91 Bis 2.
+
+Derivado de la suspensión de clases que tenga una duración de más de 15 días, en caso de una declaratoria de emergencia sanitaria emitida por la autoridad correspondiente, la Autoridad Educativa Estatal acatando las recomendaciones que señale (sic) las Autoridades Educativa y de Salud a nivel Federal, para un regreso a clases seguro y responsable, y en coordinación con las autoridades competentes, desarrollará o en su caso, modificará el protocolo de regreso a clases presenciales, observando que se garantice la seguridad, salud e integridad de los educandos, y que las instalaciones escolares se encuentren en condiciones para continuar con las clases presenciales.
+
+Cuando la suspensión de clases a que refiere el párrafo anterior se derive de un fenómeno natural, el protocolo de regreso a clases presenciales será realizado por la autoridad educativa estatal en coordinación con las autoridades estatales competentes.
+
 ### CAPÍTULO V. DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
 
 #### SECCIÓN 1. DE LOS PADRES Y MADRES DE FAMILIA
@@ -2486,3 +2494,15 @@ P.O. 31 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 469. SE REFORMA EL ARTÍCULO 46; Y SE ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 57 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 482. SE REFORMAN (SIC) POR ADICIÓN DE UN ARTÍCULO 91 BIS 2 DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente (sic) al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 484. SE REFORMAN LAS FRACCIONES XXII Y XXIII, Y SE ADICIONA UNA FRACCIÓN XXIV AL ARTÍCULO 16 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
