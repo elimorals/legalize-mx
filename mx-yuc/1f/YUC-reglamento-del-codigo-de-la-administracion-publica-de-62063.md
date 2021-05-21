@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2021-04-30"
+last_updated: "2021-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE MAYO DE 2021.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -725,13 +725,21 @@ VI. Coordinarse con los demás miembros de la Administración Pública para el m
 
 VII. Solicitar a las dependencias y entidades de la Administración Pública Estatal, la documentación e información necesaria para el cumplimiento de sus funciones;
 
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
+
+VIII. Recibir, registrar y analizar los proyectos y las solicitudes que presente la ciudadanía, así como remitirlos a la dependencia o entidad competente y darles seguimiento;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+IX. Apoyar en la elaboración de los discursos y mensajes públicos que requiera el Gobernador o que soliciten los titulares de las dependencias y entidades de la Administración Pública estatal;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+X. Elaborar los documentos y materiales de apoyo que tengan por objeto transmitir información sobre el Gobierno del estado, y apoyar en la elaboración de aquellos que para tal efecto generen las dependencias y entidades de la Administración Pública estatal, y
+
 > <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
-VIII. Recibir, analizar, registrar y darle seguimiento a los proyectos y solicitudes que lleguen por parte de la ciudadanía y, en su caso, remitirlos a la dependencia o entidad que se encuentre relacionada a los mismos, y
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-IX. Las demás que le asigne el Jefe del Despacho del Gobernador, de conformidad con las disposiciones legales aplicables.
+XI. Las demás que le asigne el Jefe del Despacho del Gobernador, de conformidad con las disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -839,7 +847,7 @@ El Coordinador General de Asesores tendrá las siguientes facultades y obligacio
 
 I. Brindar asesoría y apoyo técnico al Gobernador para el adecuado desempeño de sus facultades y obligaciones;
 
-II. Supervisar los discursos y mensajes públicos del Gobernador y opinar, previa solicitud, sobre aquellos que les correspondan a los titulares de las dependencias o entidades de la Administración Pública estatal;
+II. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -877,9 +885,9 @@ XII. Las demás que le confiera el Gobernador y establezcan las demás disposici
 
 El Coordinador de Asesores tendrá las siguientes facultades y obligaciones:
 
-I. Apoyar en la elaboración de los discursos y mensajes públicos que requiera el Gobernador o que soliciten los titulares de las dependencias y entidades de la Administración Pública estatal;
+I. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
-II. Elaborar documentos y materiales (sic) apoyo que transmitan información sobre el Gobierno del estado, y apoyar en la elaboración de aquellos que generen las dependencias y entidades de la Administración Pública estatal;
+II. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
 III. Integrar información cualitativa y cuantitativa que pueda ser de utilidad para la atención de los asuntos que sean competencia del Gobernador y del Coordinador General de Asesores;
 
@@ -2105,7 +2113,7 @@ VII. Convocar y llevar a cabo los procedimientos de contratación, así como eje
 
 VIII. Coadyuvar con el Secretario en la unificación de criterios y aplicabilidad en materia de administración de las Direcciones administrativas o sus equivalentes de las Dependencias y Entidades;
 
-IX. Administrar la oficialía de partes del Despacho del Gobernador;
+IX. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
 X. Programar, coordinar y ejecutar los trabajos en materia de servicios generales, para esta Secretaría;
 
@@ -2139,9 +2147,11 @@ XXIV. Atender los requerimientos del Despacho del Gobernador del Estado, en mate
 
 XXV. Representar los intereses del Poder Ejecutivo ante los sindicatos de trabajadores de la Administración Pública Centralizada;
 
-XXVI. Dirigir y aprobar los movimientos de altas, bajas, transferencias y cualquier otro movimiento de los servidores públicos de las Dependencias del Poder Ejecutivo del Estado;
+XXVI. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
-XXVII. Dirigir la ejecución de las altas, bajas, transferencias y cualquier otro movimiento de personal que sea (sic) autorizados por el Secretario, relativo a los servidores públicos de las Dependencias del Poder Ejecutivo del estado;
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXVII. Dirigir la ejecución de las altas, bajas, transferencias y cualquier otro movimiento relacionado con el personal de las dependencias de la Administración Pública estatal que autorice el Secretario de Administración y Fianzas;
 
 XXVIII. Normar los criterios y lineamientos en materia de adquisiciones no consolidadas;
 
@@ -3047,11 +3057,17 @@ Los titulares de dichos órganos serán nombrados y removidos libremente por el 
 
 Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, la Consejería Jurídica contará con la siguiente estructura:
 
-I. Despacho del Consejero Jurídico, al cual se adscribe la Secretaría Técnica;
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
+
+I. Despacho del Consejero Jurídico;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+II. Secretaría Técnica;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 12 DE FEBRERO DE 2019)</small>
 
-II. Subconsejería de Legislación y Normatividad:
+III. Subconsejería de Legislación y Normatividad:
 
 > <small>(REFORMADO, D.O. 22 DE JUNIO DE 2018)</small>
 
@@ -3063,7 +3079,7 @@ b) Dirección del Diario Oficial del Gobierno del Estado de Yucatán.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 12 DE FEBRERO DE 2019)</small>
 
-III. Subconsejería de Servicios Legales y Vinculación Institucional:
+IV. Subconsejería de Servicios Legales y Vinculación Institucional:
 
 a) Dirección de Contratos, Licitaciones y Procedimientos;
 
@@ -3079,19 +3095,19 @@ d) Dirección del Registro Civil;
 
 (REFORMADA [N. DE E. ADICIONADA], D.O. 12 DE FEBRERO DE 2019) (F. DE E., D.O. 15 DE MARZO DE 2019)
 
-IV. Dirección del Archivo Notarial;
+V. Dirección del Archivo Notarial;
 
 (REFORMADA [N. DE E. ADICIONADA], D.O. 12 DE FEBRERO DE 2019) (F. DE E., D.O. 15 DE MARZO DE 2019)
 
-V. Coordinación General de Transparencia y Acceso a la Información Pública;
+VI. Coordinación General de Transparencia y Acceso a la Información Pública;
 
 (ADICIONADA [N. DE E. REUBICADA], D.O. 12 DE FEBRERO DE 2019) (F. DE E., D.O. 15 DE MARZO DE 2019)
 
-VI. Secretariado Ejecutivo, y
+VII. Secretariado Ejecutivo, y
 
 (ADICIONADA [N. DE E. REUBICADA], D.O. 12 DE FEBRERO DE 2019) (F. DE E., D.O. 15 DE MARZO DE 2019)
 
-VII. Dirección de Administración y Finanzas.
+VIII. Dirección de Administración y Finanzas.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -3135,9 +3151,11 @@ XII. Brindar apoyo a las Dependencias y Entidades de la Administración Pública
 
 XIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE MAYO DE 2021)</small>
+
 ###### Artículo 72.
 
-El Secretario Técnico del Despacho del Consejero Jurídico tendrá las siguientes facultades y obligaciones:
+El Secretario Técnico tendrá las siguientes facultades y obligaciones:
 
 I. Brindar apoyo y asesoría técnica al Consejero Jurídico para la resolución de los asuntos de su competencia;
 
@@ -3221,9 +3239,7 @@ XV. Promover la difusión y el fácil acceso a las leyes, reglamentos, decretos 
 
 XVI. Apoyar en el desarrollo de las sesiones de los órganos colegiados coordinados por la Consejería o en los que participe, en materia de legislación y normatividad;
 
-> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2018)</small>
-
-XVII. Apoyar al Consejero Jurídico en el desarrollo de las sesiones de aprobación de la convocatoria y del dictamen de designación del recipiendario de la Comisión Dictaminadora para el Otorgamiento de la Medalla al Mérito Jurídico "Rafael Matos Escobedo", y resguardar las actas y la documentación correspondiente;
+XVII. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
 > <small>(REFORMADA, D.O. 22 DE JUNIO DE 2018)</small>
 
@@ -3241,9 +3257,9 @@ XX. Dar seguimiento a las obligaciones normativas que deriven de leyes y decreto
 
 XXI. Contribuir a la implementación de la política jurídica del Gobierno del estado, en materia técnico-legislativa y normativa, a través de la generación de formatos, guías y lineamientos, que propicien la calidad y legalidad de los proyectos normativos; y estandaricen y simplifiquen su revisión o elaboración; así como ponerlos a disposición de las dependencias y entidades de la Administración Pública estatal, que los requieran;
 
-> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
 
-XXII. Remitir, al Secretario Técnico del Despacho del Consejero Jurídico, los proyectos de iniciativa de ley o decreto, decreto, acuerdo del Ejecutivo o del Consejero Jurídico para el trámite de visado y firmas del Consejero Jurídico y de las demás autoridades; y solicitarle la devolución de estos proyectos normativos o, en su caso, información sobre su ubicación y estado;
+XXII. Remitir al Secretario Técnico los proyectos de iniciativa de ley o decreto; de decreto, de acuerdo del Ejecutivo; o de acuerdo del Consejero Jurídico, para el trámite de visado y firmas del Consejero Jurídico y de las demás autoridades; y solicitarle la devolución de estos proyectos normativos o, en su caso, información sobre su ubicación y estado;
 
 > <small>(REFORMADA, D.O. 22 DE JUNIO DE 2018)</small>
 
@@ -8547,15 +8563,23 @@ II. Subsecretaría de Inteligencia de Mercados:
 
 a) Dirección de Relaciones Públicas;
 
-b) Dirección de Mercadotecnia;
+> <small>(REFORMADO, D.O. 21 DE MAYO DE 2021)</small>
 
-c) Dirección de Promoción y Ferias Especializadas, y
+b) Dirección de Mercadotecnia, y
 
-d) Dirección de Producción de Eventos.
+> <small>(REFORMADO, D.O. 21 DE MAYO DE 2021)</small>
 
-III. Dirección de Administración y Finanzas, y
+c) Dirección de Promoción y Ferias Especializadas.
 
-IV. Secretaría Técnica.
+d) (DEROGADO, D.O. 21 DE MAYO DE 2021)
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+III. Dirección Jurídica.
+
+IV. Dirección de Administración y Finanzas, y
+
+V. Secretaría Técnica.
 
 ###### Artículo 491.
 
@@ -8591,11 +8615,19 @@ VIII. Coadyuvar con el Patronato de las Unidades de Servicios Culturales y Turí
 
 IX. Determinar el procedimiento de elaboración, actualización y revisión del Plan Rector en materia de Turismo, según lo establecido en la Ley para el Fomento y Desarrollo del Turismo en Yucatán y su Reglamento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
 
-X. Designar a los servidores públicos de la secretaría que fungirán como enlaces y representantes ante los sectores público, privado o social, en los eventos, programas, reuniones y demás, que se lleven a cabo a nivel local, nacional o internacional, y
+X. Designar a los servidores públicos de la secretaría que fungirán como enlaces y representantes ante los sectores público, privado o social en los programas, los eventos y las demás reuniones que se lleven a cabo a nivel local, nacional o internacional;
 
-XI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XI. Desarrollar, en el ámbito de su competencia, los procedimientos relacionados con las contrataciones que requiera la Secretaría de Fomento Turístico, de conformidad con las disposiciones legales y normativas aplicables;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XII. Adjudicar los contratos que celebre la Secretaría de Fomento Turístico en materia de adquisiciones, arrendamientos y prestación de servicios, de conformidad con las disposiciones legales y normativas aplicables, y
+
+XIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 > <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -8655,11 +8687,11 @@ IX. Las demás que le otorgue este Reglamento y otras disposiciones normativas a
 
 El Director de Infraestructura y Proyectos Turísticos tendrá las siguientes facultades y obligaciones:
 
-I. Desarrollar e instrumentar los mecanismos de evaluación y seguimiento permanente de las acciones de capacitación, operación y modernización de la infraestructura turística del estado;
+I. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
-II. Fomentar, en coordinación con otras dependencias y entidades de la Administración Pública Estatal y con los municipios, la instalación de módulos de orientación que distribuyan materiales y guías de información turística;
+II. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
-III. Establecer la coordinación que se requiera con otras autoridades e instituciones para auxiliar a los turistas en casos de emergencia y desastres;
+III. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
 IV. Identificar, proponer y evaluar las propuestas de las zonas de desarrollo turístico de acuerdo con lo establecido en la Ley para el Fomento y Desarrollo del Turismo en Yucatán y su Reglamento;
 
@@ -8667,7 +8699,7 @@ V. Proponer el aprovechamiento sustentable de los recursos y atractivos turísti
 
 VI. Coordinar la integración y promoción de la cartera de proyectos de infraestructura para el fomento de inversión turística, así como proponer los incentivos para estimularla;
 
-VII. Implementar el Sistema de Quejas de Turistas, de acuerdo con lo establecido en la Ley para el Fomento y Desarrollo del Turismo en Yucatán y su Reglamento;
+VII. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
 VIII. Formular planes estratégicos que permitan evaluar la infraestructura turística del estado;
 
@@ -8713,9 +8745,19 @@ V. Coordinar y desarrollar programas para la capacitación de empresas y prestad
 
 VI. Fomentar el emprendimiento en los servicios y productos turísticos a fin de elevar el nivel competitivo y generar un aumento en la calidad en los servicios;
 
-VII. Diseñar e instrumentar programas de capacitación, formación de recursos humanos y actualización para el área turística, en función de los requerimientos regionales y municipales, así como de los programas específicos, productos turísticos y segmentos de mercado que se atiendan, y
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
 
-VIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+VII. Diseñar e instrumentar programas de capacitación, formación de recursos humanos y actualización para el área turística, en función de los requerimientos regionales y municipales, así como de los programas específicos, productos turísticos y segmentos de mercado que se atiendan;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+VIII. Fomentar, en coordinación con otras dependencias y entidades de la Administración Pública estatal y con los municipios, la instalación de módulos de orientación que distribuyan materiales y guías de información turística;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+IX. Implementar el Sistema de Quejas de Turistas, de acuerdo con lo establecido en la Ley para el Fomento y Desarrollo del Turismo en Yucatán y su reglamento, y
+
+X. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 > <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -8833,25 +8875,29 @@ VI. Fomentar la promoción, difusión y comercialización de servicios, atractiv
 
 VII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, D.O. 21 DE MAYO DE 2021)</small>
 
 ###### Artículo 495 Quinquies.
 
-El Director de Producción de Eventos tendrá las siguientes facultades y obligaciones:
+El Director Jurídico tendrá, además de las previstas en el artículo 15 de este Reglamento, las siguientes facultades y obligaciones:
 
-I. Diseñar las políticas y programas, así como conducir las acciones para impulsar la producción de eventos que tengan como finalidad el incremento del turismo en el estado;
+I. Elaborar y revisar los proyectos de convenios, contratos o acuerdos en los que intervenga la Secretaría de Fomento Turístico con personas físicas o morales, o dependencias o entidades públicas federales, estatales o municipales;
 
-II. Supervisar el cumplimiento de la normativa aplicable en los eventos que se produzcan y desarrollen en el estado, garantizando la seguridad durante todo el proceso;
+II. Solicitar la publicación en el Diario Oficial del Gobierno del Estado de Yucatán de las normas o disposiciones que sean competencia de la Secretaría de Fomento Turístico;
 
-III. Promover el mercado de filmaciones con producciones nacionales y extranjeras para la realización de proyectos en locaciones del estado de Yucatán;
+III. Certificar los documentos y las copias de estos que obren en los archivos de la Secretaría de Fomento Turístico;
 
-IV. Establecer vínculos comerciales entre las empresas locales y las empresas nacionales e internacionales, para posicionar al estado en materia de desarrollo y producción de eventos, que tengan como finalidad el incremento del turismo;
+IV. Conocer los procedimientos administrativos que sean competencia de la Secretaría de Fomento Turístico y someter a consideración y aprobación de su titular los proyectos de resolución correspondientes;
 
-V. Impulsar la producción de eventos que tengan como objeto promover la cultura y costumbres del estado, a nivel nacional e internacional, a fin de fortalecer el turismo en el estado;
+V. Suscribir, en ausencia del Secretario de Fomento Turístico, los escritos y desahogar los trámites que correspondan a los casos urgentes relacionados con términos, interposición de recursos, contestación de demandas y toda clase de notificaciones en materia judicial;
 
-VI. Coordinar la capacitación para productores de eventos turísticos en el estado, y
+VI. Coordinar y dirigir a los servidores públicos encargados de realizar las notificaciones derivadas de los trámites seguidos ante la Secretaría de Fomento Turístico;
 
-VII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+VII. Coordinar el desarrollo de las visitas de inspección y verificación derivadas de los trámites seguidos ante la Secretaría de Fomento Turístico;
+
+VIII. Coordinar con la Consejería Jurídica las actuaciones de la Secretaría de Fomento Turístico en materia de transparencia y acceso a la información pública, y
+
+IX. Las demás que le otorguen este Reglamento y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 496.
 
@@ -8919,19 +8965,23 @@ XXIV. Dictaminar la aplicación de sanciones, la baja de los servidores público
 
 XXV. Tramitar ante las autoridades competentes, la adquisición, regularización e incorporación de bienes inmuebles al dominio público del estado, cuando éstos se destinen al servicio de esta Secretaría;
 
-> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
 
-XXVI. Elaborar y revisar los proyectos de acuerdos, convenios y contratos con personas físicas y morales, dependencias y entidades públicas federales, estatales y municipales en los que intervenga la Secretaría;
+XXVI. Convocar a los servidores públicos que deban participar en los procedimientos relacionados con las contrataciones que requiera la Secretaría de Fomento Turístico;
 
-> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
 
-XXVII. Solicitar la publicación en el Diario Oficial del Gobierno del Estado de Yucatán, de las disposiciones de carácter general dentro del ámbito de competencia de esta Secretaría;
+XXVII. Verificar el cumplimiento de las condiciones y los términos que en cuanto a cantidad, calidad y precio establezcan los contratos celebrados entre la Secretaría de Fomento Turístico y proveedores de bienes o prestadores de servicios, y que estos contratos presenten y mantengan vigentes las garantías con que deben contar para asegurar el cumplimiento de las obligaciones respectivas;
 
-> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
 
-XXVIII. Coordinar y organizar con el área competente de la Secretaría de Administración y Finanzas, las solicitudes de servicio social, prácticas profesionales, estadías o similares que se reciban en esta Secretaría por parte de las instituciones de educación públicas o privadas, observando en todo momento el beneficio mutuo de las partes y la atención a las necesidades de la sociedad, y
+XXVIII. Coordinar y organizar con el área competente de la Secretaría de Administración y Finanzas las solicitudes de servicio social, prácticas profesionales, estadías o similares que se reciban en la Secretaría de Fomento Turístico por parte de las instituciones de educación públicas o privadas, observando en todo momento el beneficio mutuo entre las partes y la atención a las necesidades de la sociedad;
 
-XXIX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXIX. Ejecutar, cuando proceda, las acciones necesarias para rescindir los convenios o contratos que tenga la Secretaría de Fomento Turístico con proveedores de bienes o prestadores de servicios, y aplicar las penas convencionales que procedan, de conformidad con las disposiciones legales y normativas aplicables, y
+
+XXX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -8973,9 +9023,19 @@ XVI. Fungir como enlace de la Secretaría de Fomento Turístico con el Fondo Nac
 
 XVII. Generar, revisar, actualizar y difundir el Inventario de Servicios Turísticos del Estado (InvenTur), con la participación de los prestadores de servicios turísticos;
 
-XVIII. Definir las normas para el uso de los bienes informáticos y para el aprovechamiento de los sistemas de información institucional de la dependencia, observando el funcionamiento de la red local de voz y datos de acuerdo con los lineamientos y normas emitidas por la Subsecretaría de Tecnologías de la Información y Comunicaciones de la Secretaría de Administración y Finanzas, y
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
 
-XIX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+XVIII. Definir las normas para el uso de los bienes informáticos y para el aprovechamiento de los sistemas de información institucional de la dependencia, observando el funcionamiento de la red local de voz y datos, de acuerdo con los lineamientos y normas emitidas por la Subsecretaría de Tecnologías de la Información y Comunicaciones de la Secretaría de Administración y Finanzas;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XIX. Desarrollar e instrumentar los mecanismos de evaluación y seguimiento permanente de las acciones de capacitación, operación y modernización de la infraestructura turística del estado;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XX. Establecer la coordinación que se requiera con otras autoridades e instituciones para auxiliar a los turistas en casos de emergencia o desastres, y
+
+XXI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -9021,9 +9081,13 @@ g) Dirección de Sanidad Agropecuaria;
 
 III. Dirección de Apoyo a la Mujer y Grupos Vulnerables;
 
-IV. Dirección de Administración y Finanzas, y
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
 
-V. Dirección Jurídica.
+IV. Dirección de Planeación, Financiamiento y Coordinación Sectorial;
+
+V. Dirección de Administración y Finanzas, y
+
+VI. Dirección Jurídica.
 
 > <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -9513,7 +9577,15 @@ a) Dirección de Planeación y Cambio Climático, y
 
 b) Dirección de Gestión y Conservación de Recursos Naturales.
 
-II. Dirección Jurídica, y
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
+
+II. Dirección General Jurídica:
+
+a) Dirección Jurídica;
+
+b) Dirección de Inspección y Vigilancia Ambiental, y
+
+c) Dirección de Evaluación Ambiental.
 
 III. Dirección de Administración y Finanzas.
 
@@ -9529,11 +9601,13 @@ II. Expedir o revocar, en el ámbito de su competencia, permisos, licencias, con
 
 III. Dictar los acuerdos y resoluciones en los procedimientos administrativos que, por violaciones a las leyes de la materia, sus reglamentos y otras disposiciones legales aplicables, conozca esta Secretaría;
 
-IV. Emitir los acuerdos y resoluciones en materia (sic) impacto ambiental, derivados del análisis y evaluación de la factibilidad urbana ambiental, la manifestación de impacto ambiental, informe preventivo, estudio de riesgo y programas de restauración otorgando en su caso las autorizaciones correspondientes;
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
 
-> <small>(F. DE E., D.O. 1 DE MARZO DE 2019)</small>
+IV. Emitir los acuerdos y resoluciones en materia de impacto ambiental, derivados del análisis y de la evaluación de la factibilidad urbana ambiental, la manifestación de impacto ambiental, el informe preventivo, el estudio de riesgo y los programas de restauración, otorgando, en su caso, las autorizaciones correspondientes;
 
-V. Autorizar el funcionamiento de fuentes fijas y la verificación de fuentes móviles de emisión de contaminación ambiental de competencia estatal con excepción de aquellas fuentes móviles destinadas para el transporte público de pasajeros;
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
+
+V. Autorizar el funcionamiento de fuentes fijas y la verificación de fuentes móviles de emisión de contaminantes de competencia estatal, con excepción de aquellas fuentes móviles destinadas para el transporte público de pasajeros, a través de la licencia ambiental única;
 
 VI. Formular el Programa de Ordenamiento Ecológico del Territorio, el Programa de Cambio Climático, los Programas Hídricos del Estado y el Programa Estatal Forestal;
 
@@ -9599,7 +9673,9 @@ XIII. Dar seguimiento del Programa Anual de Trabajo de las actividades estratég
 
 XIV. Coadyuvar con la Dirección de Administración y Finanzas en la elaboración e integración del Anteproyecto de Presupuesto anual de egresos de la Secretaría;
 
-XV. Elaborar los análisis costo-beneficio de los proyectos de inversión autorizados en la Secretaria;
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XV. Elaborar los análisis costo-beneficio de los proyectos de inversión autorizados por la Secretaría de Desarrollo Sustentable;
 
 XVI. Integración de la información y documentación de las direcciones de esta Secretaría para la elaboración del informe de gobierno;
 
@@ -9607,9 +9683,47 @@ XVII. Diseñar e implementar lineamientos de información estratégica para la S
 
 XVIII. Establecer los criterios de organización, actualización y difusión de la información de esta Secretaría;
 
-XIX. Coadyuvar con la promoción, difusión y sensibilización de la cultura sustentable, educación ambiental, cambio climático y participación social en coordinación con Dependencias, Entidades, organizaciones, instituciones académicas y de investigación, y
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
 
-XX. Las demás que le otorguen este Reglamento, otras normas aplicables, así como las disposiciones del titular de la Dependencia.
+XIX. Coadyuvar en la promoción, difusión y sensibilización de la cultura sustentable, educación ambiental, cambio climático y participación social, en coordinación con dependencias, entidades, organizaciones, así como instituciones académicas y de investigación;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XX. Proponer y brindar apoyo en la realización de acciones en materia de prevención, control, saneamiento, restauración y conservación del medioambiente;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXI. Coordinar y coadyuvar con la Dirección de Gestión y Conservación de Recursos Naturales en el correcto establecimiento de sistemas estatales, municipales y regionales de gestión de residuos de manejo especial y residuos sólidos urbanos;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXII. Proponer, en coordinación con las instancias correspondientes, alternativas de solución en materia de prevención y control de contingencias ambientales en el estado;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXIII. Apoyar en la administración de las áreas naturales protegidas de competencia estatal;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXIV. Promover el empleo de alternativas para reducir el impacto ambiental sobre los recursos naturales;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXV. Coadyuvar con la Dirección de Gestión y Conservación de Recursos Naturales en el desarrollo de propuestas para medir, reducir y controlar las emisiones a la atmósfera generadas por fuentes fijas y móviles, con excepción de las destinadas al transporte público de pasajeros;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXVI. Colaborar en el establecimiento de programas de preservación y propagación de la flora y fauna, para la promoción de la biodiversidad del estado;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXVII. Aportar propuestas para la restauración y conservación de cenotes y zonas geohidrológicas del estado;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXVIII. Proporcionar apoyo, gestionar y participar activamente en la planeación, elaboración y seguimiento de proyectos de turismo sustentable, y
+
+XXIX. Las demás que le otorguen este Reglamento, otras normas aplicables, así como las disposiciones del titular de la Dependencia.
 
 > <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -9625,13 +9739,17 @@ III. Estructurar con la Dirección de Administración y Finanzas la elaboración
 
 IV. Establecer y mantener sistemas de seguimiento en la ejecución de acciones del Programa Operativo Anual y proporcionar la información correspondiente a las dependencias competentes;
 
-V. Integrar la información que proporcionen las demás unidades administrativas de esta Secretaría sobre las actividades que realizan;
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
+
+V. Sistematizar la información que proporcionen las demás unidades administrativas de la Secretaría de Desarrollo Sustentable sobre las actividades que realizan, para su difusión y el fomento de la cultura para la sustentabilidad;
 
 VI. Evaluar el ejercicio del presupuesto de esta Secretaría con base en su Programa Operativo Anual, de acuerdo a los lineamientos aplicables;
 
 VII. Diseñar políticas públicas en materia de planeación, cambio climático, cultura ambiental y de proyectos geoestadísticos para el desarrollo sustentable del estado de Yucatán;
 
-VIII. Dirigir y coadyuvar en las actividades y acciones de los grupos de trabajo que se deriven de la Comisión Intersecretarial de Cambio Climático Estatal y del Consejo Estatal de Energía Sustentable;
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
+
+VIII. Dirigir y coadyuvar en las actividades y acciones de los grupos de trabajo que se deriven de la Comisión Intersecretarial de Cambio Climático Estatal;
 
 IX. Coadyuvar con el Subsecretario en la elaboración de los programas y estrategias para el cumplimiento de la Ley General de Cambio Climático;
 
@@ -9677,9 +9795,51 @@ XXIX. Integrar y coordinar la agenda de cooperación internacional en materia de
 
 XXX. Apoyar las acciones de fomento de las alianzas intermunicipales para la gestión ambiental y la conservación de la biodiversidad;
 
-XXXI. Estructurar con la Dirección de Administración y Finanzas la elaboración e integración del anteproyecto de presupuesto anual de egresos de esta Secretaría, y
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
 
-XXXII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+XXXI. Estructurar con la Dirección de Administración y Finanzas la elaboración e integración del anteproyecto de presupuesto anual de egresos de la Secretaría de Desarrollo Sustentable;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXII. Establecer y coordinar la operación del Sistema Estatal de Monitoreo de Calidad del Aire;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXIII. Proporcionar la información y asesoría requerida por las autoridades estatales y municipales con respecto a la operación e interpretación del Sistema Estatal de Monitoreo de Calidad del Aire;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXIV. Integrar y mantener actualizado el inventario de fuentes fijas de contaminación ambiental;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXV. Proponer medidas para medir, reducir y controlar las emisiones a la atmósfera generadas por fuentes fijas y móviles, con excepción de las destinadas al transporte público de pasajeros;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXVI. Ejecutar y vigilar, en su caso, el programa estatal de verificación de emisiones contaminantes a la atmósfera producidas por vehículos automotores en circulación, con excepción de los destinados al transporte público de pasajeros;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXVII. Coadyuvar con las instancias correspondientes en la prevención y control de contingencias ambientales relacionadas con la calidad del aire en el estado;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXVIII. Actualizar la base de datos de emisiones de fuentes fijas y móviles de competencia estatal, en coordinación con las autoridades competentes;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXIX. Promover las estrategias para la correcta gestión de la zona costera;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XL. Atender las denuncias ciudadanas relacionadas con las emisiones a la atmósfera, en coordinación con el personal de la unidad administrativa competente;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XLI. Coadyuvar con la Dirección Jurídica en la evaluación del funcionamiento de fuentes fijas y verificar las fuentes móviles de emisión de contaminantes, con excepción de aquellas fuentes móviles destinadas para el transporte público de pasajeros, y
+
+XLII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 > <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -9697,7 +9857,9 @@ IV. Brindar asesoría a los ayuntamientos en la ubicación adecuada de los sitio
 
 V. Asesorar, promover y apoyar en la realización de acciones para una gestión integral de residuos sólidos urbanos y de manejo especial que se generen en el Estado y formular el Programa para la Gestión Integral de los Residuos en el Estado de Yucatán;
 
-VI. Establecer y coordinar la operación del Sistema Estatal de Monitoreo en coordinación con la Dirección de Planeación y Política para la Sustentabilidad;
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
+
+VI. Establecer y coordinar la operación del Sistema Estatal de Monitoreo, en coordinación con la Dirección de Planeación y Cambio Climático;
 
 VII. Proporcionar la información y asesoría requerida por las autoridades estatales y municipales en la operación e interpretación del monitoreo ambiental;
 
@@ -9705,19 +9867,13 @@ VIII. Identificar las obras o actividades públicas o privadas que puedan causar
 
 IX. Coadyuvar a la dirección jurídica en la supervisión de la evaluación y emitir opinión técnica para elaboración del dictamen correspondiente de obras o actividades de competencia estatal que sean sometidas a autorización dentro del procedimiento en materia de impacto ambiental; así como en la determinación de las medidas necesarias para reducir el impacto ambiental de los recursos naturales del estado;
 
-X. Integrar y mantener actualizado el inventario de fuentes fijas de contaminación ambiental;
+X. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
-> <small>(F. DE E., D.O. 1 DE MARZO DE 2019)</small>
+XI. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
-XI. Proponer medidas para medir, reducir y controlar las emisiones a la atmósfera generadas por fuentes fijas y móviles, con excepción de las destinadas al transporte público de pasajeros;
+XII. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
-> <small>(F. DE E., D.O. 1 DE MARZO DE 2019)</small>
-
-XII. Ejecutar y vigilar, en su caso, el Programa Estatal de Verificación de Emisiones Contaminantes a la Atmósfera, producidas por vehículos automotores en circulación, con excepción de los destinados al transporte público de pasajeros;
-
-> <small>(F. DE E., D.O. 1 DE MARZO DE 2019)</small>
-
-XIII. Coadyuvar con las instancias correspondientes en la prevención y control de contingencias ambientales en el estado;
+XIII. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
 XIV. Coadyuvar con la promoción, difusión y sensibilización de la cultura sustentable, educación ambiental, cambio climático y participación social en coordinación con dependencias, entidades, organizaciones, instituciones académicas y de investigación;
 
@@ -9731,7 +9887,9 @@ XVIII. Promover la celebración de contratos, convenios o acuerdos de colaboraci
 
 XIX. Proporcionar la asistencia técnica requerida en materia de conservación y manejo de recursos naturales;
 
-XX. Promover la instauración de instrumentos legales para el manejo y aprovechamiento de la vida silvestre, su diversificación y reconversión productiva; así´ como el restablecimiento de los recursos forestales y su explotación racional, mediante una actividad empresarial regulada ecológicamente;
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XX. Promover la instauración de instrumentos legales para el manejo y aprovechamiento de la vida silvestre, su diversificación y reconversión productiva; así como el restablecimiento de los recursos forestales y su explotación racional, mediante una actividad empresarial regulada ecológicamente;
 
 XXI. Proponer las medidas necesarias para reducir el impacto ambiental sobre los recursos naturales;
 
@@ -9753,7 +9911,7 @@ XXIX. Participar en la planeación, elaboración y seguimiento de proyectos de t
 
 XXX. Promover la restauración de humedales costeros que se encuentren dentro de las poligonales de las áreas naturales protegidas del estado de Yucatán;
 
-XXXI. Actualizar la base de datos por emisiones de fuentes fijas y móviles de competencia estatal, en coordinación con el Instituto de Movilidad y Desarrollo Urbano Territorial;
+XXXI. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
 XXXII. Participación activa en campo tanto con personal adscrito a la Dirección, como en acompañamiento a la ciudadanía, en temas relacionados con la Dirección a su cargo;
 
@@ -9763,81 +9921,203 @@ XXXIV. Coordinar y gestionar proyectos y recursos, provenientes del fideicomiso 
 
 XXXV. Supervisión en la generación de información geográfica por parte del personal adscrito a la Dirección;
 
-XXXVI. Coadyuvar a la Dirección de Planeación en temas de educación ambiental en temas de Gestión Ambiental y Conservación de Recursos Naturales;
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXVI. Coadyuvar con la Dirección de Planeación y Cambio Climático en temas de educación ambiental, de gestión ambiental y de conservación de recursos naturales;
 
 XXXVII. Participar en el censo, caracterización y exploración de cuevas cavernas y cenotes;
 
-XXXVIII. Promover las estrategias para la correcta gestión de la zona costera;
+XXXVIII. (DEROGADA, D.O. 21 DE MAYO DE 2021)
 
 XXXIX. Coadyuvar en la promoción de la Juntas Intermunicipales; y
 
 XL. Las demás que le otorguen el Reglamento del Código de Administración Pública del Estado de Yucatán, otras disposiciones normativas aplicables, así como las disposiciones del titular de la dependencia.
 
-> <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(ADICIONADO, D.O. 21 DE MAYO DE 2021)</small>
+
+###### Artículo 518 Bis.
+
+El Director General Jurídico tendrá las siguientes facultades y obligaciones:
+
+I. Representar legalmente a la Secretaría de Desarrollo Sustentable en los asuntos en los cuales sea parte;
+
+II. Representar a la persona titular de la Secretaría de Desarrollo Sustentable en las actividades, eventos y acciones que así lo requiera;
+
+III. Revisar, visar y emitir las consideraciones pertinentes sobre los proyectos de convenios y contratos a celebrar por parte de la persona titular de la Secretaría de Desarrollo Sustentable u otras direcciones de esta con la federación, las entidades federativas, los municipios u otras instituciones públicas o privadas;
+
+IV. Dar seguimiento jurídico a las denuncias ciudadanas en materia ambiental de competencia estatal, en coordinación con las direcciones y áreas técnicas que correspondan;
+
+V. Devolver a las autoridades federales, estatales o municipales las denuncias en materia ambiental correspondientes, en caso de carecer de competencia para conocer sobre estas;
+
+VI. Atender todos los asuntos jurídicos de la Secretaría de Desarrollo Sustentable en relación con las demás dependencias y entidades de la Administración Pública del estado, así como con la federación y los municipios;
+
+VII. Interponer y dar seguimiento a las denuncias o querellas que se requiera interponer en contra de personas físicas o morales, en defensa de los intereses de la Secretaría de Desarrollo Sustentable;
+
+VIII. Establecer y operar el sistema de denuncia ciudadana, en coordinación con las unidades administrativas a su cargo;
+
+IX. Recibir, atender e investigar las denuncias en las materias competencia de la Secretaría de Desarrollo Sustentable y, en su caso, realizar, en términos de la normatividad aplicable, las diligencias necesarias para determinar la existencia de los actos, hechos u omisiones motivo de las denuncias;
+
+X. Solicitar a las instituciones académicas, centros de investigación y organismos de los sectores público, privado o social, opiniones, estudios, dictámenes o peritajes sobre cuestiones planteadas en las denuncias que le sean presentadas y recabar información de las autoridades estatales o municipales, así como de particulares, para el seguimiento y la conclusión de dichas denuncias;
+
+XI. Dar seguimiento a todos los juicios y procedimientos seguidos en forma de juicio en los que la Secretaría de Desarrollo Sustentable o su titular sea parte o tenga interés jurídico;
+
+XII. Coordinar y dirigir a los servidores públicos encargados de realizar las notificaciones derivadas de los trámites seguidos ante la Secretaría de Desarrollo Sustentable;
+
+XIII. Formular denuncias ante las autoridades correspondientes en aquellos casos en que la Secretaría de Desarrollo Sustentable tenga conocimiento de actos u omisiones que pudieran constituir delitos ambientales;
+
+XIV. Formular los proyectos de leyes, reglamentos, acuerdos, manuales, políticas y demás disposiciones normativas en las materias competencia de la Secretaría de Desarrollo Sustentable;
+
+XV. Designar y revocar a servidores públicos con el carácter de delegados o mandatarios en los juicios en los que la Secretaría de Desarrollo Sustentable sea parte;
+
+XVI. Investigar sobre actos, hechos u omisiones que pudieran constituir violaciones o incumplimiento de la legislación ambiental de competencia estatal;
+
+XVII. Coadyuvar con la Fiscalía General del Estado en los procedimientos penales que se instauren con motivo de delitos contra el medioambiente previstos en la legislación aplicable en la materia, así como de cualquier otro delito relacionado con la aplicación y el cumplimiento de las disposiciones jurídicas ambientales;
+
+XVIII. Diseñar políticas públicas en conjunto con las unidades administrativas a su cargo;
+
+XIX. Coadyuvar con la Dirección de Gestión y Conservación de Recursos Naturales en el correcto establecimiento de sistemas estatales, municipales y regionales de residuos de manejo especial y residuos sólidos urbanos;
+
+XX. Apoyar y coordinar las actividades, procedimientos y programas de las unidades administrativas a su cargo y presentar a la persona titular de la Secretaría de Desarrollo Sustentable los informes y avances que se requieran;
+
+XXI. Asistir a las reuniones de la Comisión de Estudios Jurídicos de la Administración Pública así como participar en las subcomisiones que se creen en el ámbito de competencia de la Secretaría de Desarrollo Sustentable y entregar los documentos y estudios que le sean solicitados;
+
+XXII. Expedir certificaciones de los documentos que obren en los expedientes o archivos a su cargo;
+
+XXIII. Programar, organizar, dirigir y evaluar estrategias para vigilar el cumplimiento de la normatividad ambiental y de las condicionantes dictadas en resolutivos, obras o proyectos que cuenten con la autorización de la persona titular de la Secretaría de Desarrollo Sustentable;
+
+XXIV. Vigilar y evaluar el cumplimiento de las obligaciones y disposiciones previstas en la Ley de Protección al Medio Ambiente del Estado de Yucatán, la Ley para la Gestión Integral de los Residuos en el Estado de Yucatán, la Ley para la Protección de la Fauna del Estado de Yucatán, la Ley de Prevención y Combate de Incendios Agropecuarios y Forestales del Estado de Yucatán, la Ley de Desarrollo Forestal Sustentable del Estado de Yucatán, sus respectivos reglamentos, y la demás normativa aplicable;
+
+XXV. Determinar las infracciones y sanciones correspondientes con motivo de los actos, hechos u omisiones relacionados con las denuncias ciudadanas interpuestas ante la Secretaría de Desarrollo Sustentable, y
+
+XXVI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+
+> <small>(REFORMADO, D.O. 21 DE MAYO DE 2021)</small>
 
 ###### Artículo 519.
 
 El Director Jurídico tendrá las siguientes facultades y obligaciones:
 
-I. Revisar y visar los documentos jurídicos previa firma del titular, relativos a los actos que celebre la Dependencia con intervención del titular de esta;
+I. Representar al Director General Jurídico en las actividades, eventos o acciones que así lo requiera;
 
-II. Revisar, visar y emitir las consideraciones pertinentes sobre los proyectos de convenios y contratos a celebrar por el titular de la Dependencia u otras Direcciones de esta, con la federación, las entidades federativas, los municipios u otras instituciones públicas o privadas;
+II. Revisar, visar y dar seguimiento a los acuerdos, dictámenes y resoluciones que se emitan en los procedimientos administrativos que sean competencia de la Secretaría de Desarrollo Sustentable y someter a consideración del Director General Jurídico los proyectos de resolución de aquellos;
 
-III. Revisar, visar y dar seguimiento de los acuerdos, dictámenes y resoluciones que se emitan en los procedimientos administrativos que sean competencia de esta Secretaría y someter a consideración de la Titular los proyectos de resolución de aquellos;
+III. Establecer un sistema de consulta sobre las disposiciones legales aplicables en materia ambiental;
 
-IV. Establecer un sistema de consulta sobre las disposiciones legales aplicables en materia ambiental;
+IV. Desempeñar las comisiones y representaciones que se le asignen;
 
-V. Dar seguimiento jurídico a las denuncias ciudadanas en materia ambiental de competencia estatal, con la coadyuvancia de las áreas técnicas que correspondan;
+V. Representar al Director General Jurídico en las reuniones de la Comisión de Estudios Jurídicos de la Administración Pública así como en las participaciones que se deriven de las subcomisiones que se creen en el ámbito de competencia de la Secretaría de Desarrollo Sustentable;
 
-VI. Returnar a las autoridades federales, estatales o municipales las denuncias en materia ambiental correspondientes en caso de carecer de competencia para conocer sobre estas;
+VI. Promover, previo acuerdo con el Director General Jurídico, y en coordinación con organismos públicos y privados, investigaciones o estudios, así como la celebración de talleres y foros en materia ambiental;
 
-VII. Desempeñar las comisiones y representaciones que se le asignen;
+VII. Brindar asesoría y orientación jurídica a las demás direcciones de la Secretaría de Desarrollo Sustentable, cuando estas lo requieran;
 
-VIII. Asistir a las reuniones de la Comisión de Estudios Jurídicos de la Administración Pública, participar en las subcomisiones que se creen en el ámbito de competencia de la Secretaría y entregar los documentos y estudios que le sean solicitados;
+VIII. Elaborar proyectos de resolución de los recursos de revisión interpuestos en contra de cualquiera de las determinaciones emitidas en los trámites a cargo de la Secretaría de Desarrollo Sustentable;
 
-IX. Promover previo acuerdo con el titular de la Secretaría, en coordinación con organismos públicos y privados, investigaciones y/o estudios, así como la celebración de talleres y foros en materia ambiental en el estado;
+IX. Compilar las normas jurídicas relacionadas con la competencia de la Secretaría de Desarrollo Sustentable y difundirlas al interior de esta;
 
-X. Atender todos los asuntos jurídicos de esta Secretaría en relación con las demás Dependencias y Entidades de la administración pública del estado, así como con la federación y los municipios;
+X. Formular los estudios, análisis y dictámenes jurídicos que le sean solicitados por la persona titular de la Secretaría de Desarrollo Sustentable o el Director General Jurídico, así como los que sean necesarios para atender los asuntos que sean de su competencia;
 
-XI. Brindar asesoría y orientación jurídica a las demás Direcciones de la Secretaría cuando estas lo requieran;
+XI. Recibir, coordinar su atención y turnar a las unidades administrativas los trámites ambientales que se promuevan ante la Secretaría de Desarrollo Sustentable;
 
-XII. Elaborar proyectos de resolución de los recursos de revisión interpuestos en contra de cualquiera de las determinaciones emitidas en los trámites a cargo de esta Dependencia;
+XII. Evaluar el cumplimiento de las disposiciones normativas en las solicitudes de los trámites presentados ante la Secretaría de Desarrollo Sustentable, a fin de determinar su admisión o desechamiento;
 
-XIII. Compilar las normas jurídicas relacionadas con la competencia de esta Secretaría y difundirlas al interior de esta;
+XIII. Emitir los acuerdos y las resoluciones correspondientes que deriven del análisis técnico de los trámites realizados ante la Secretaría de Desarrollo Sustentable;
 
-XIV. Interponer y dar seguimiento a las denuncias o querellas que se requiera interponer en contra de personas físicas o morales en defensa de los intereses de la Secretaría;
+XIV. Coadyuvar con las áreas técnicas correspondientes en la vigilancia del cumplimiento de las autorizaciones o permisos otorgados;
 
-XV. Dar seguimiento a todos los juicios y procedimientos seguidos en forma de juicio en los que la Dependencia sea parte o tenga interés jurídico;
+XV. Ordenar las visitas de inspección, verificación y vigilancia ambiental que se consideren pertinentes a todas aquellas obras o actividades reguladas por la Secretaría de Desarrollo Sustentable;
 
-XVI. Coordinar y dirigir a los servidores públicos encargados de realizar las notificaciones derivadas de los trámites seguidos en la Secretaría;
+XVI. Realizar las visitas de inspección, verificación y vigilancia ambiental señaladas en la fracción anterior;
 
-XVII. Formular estudios, análisis y dictámenes jurídicos que le sean solicitados por el titular de la Secretaría, así como los que sean necesarios para los asuntos que sean de su competencia;
+XVII. Ordenar la imposición de medidas de seguridad, según sea el caso, a obras, actividades, fuentes contaminantes e instalaciones en que se desarrollen actividades que den lugar a riesgo inminente de desequilibrio ecológico, daños a los recursos naturales, casos de contaminación con repercusiones peligrosas a los sistemas o cualquier otro supuesto contemplado en la legislación, así como coadyuvar con el área técnica correspondiente en su ejecución;
 
-XVIII. Recibir, coordinar su atención y turnar a las áreas administrativas los trámites ambientales que se promuevan ante la Secretaría;
+XVIII. Coadyuvar con la Dirección de Inspección y Vigilancia Ambiental, y la Dirección de Evaluación Ambiental en la imposición de medidas de seguridad, según sea el caso, a obras, actividades, fuentes contaminantes e instalaciones en que se desarrollen actividades que den lugar a riesgo inminente de desequilibrio ecológico, daños a los recursos naturales, casos de contaminación con repercusiones peligrosas a los sistemas o cualquier otro supuesto contemplado en la legislación;
 
-XIX. Recibir, evaluar y emitir dictamen de factibilidad urbano ambiental;
+XIX. Expedir certificaciones de los documentos que obren en los expedientes o archivos a su cargo;
 
-XX. Recibir, evaluar y autorizar informes preventivos, manifiestos de impacto ambiental o estudios de riesgo;
+XX. Actualizar y sistematizar la información del Registro Único de Control de Plásticos;
 
-XXI. Vigilar el cumplimiento de las autorizaciones o permisos otorgados;
+XXI. Determinar las sanciones correspondientes con motivo de los actos, hechos u omisiones motivo de los trámites de impacto ambiental, y
 
-XXII. Ordenar y realizar las visitas de inspección ambiental que se consideren pertinentes a todas aquellas obras o actividades de su competencia;
+XXII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
-XXIII. Ordenar y llevar a cabo la clausura o suspensión temporal, definitiva, parcial o total, según sea el caso, de obras, actividades, fuentes contaminantes y las instalaciones en que se desarrollen actividades que den lugar a riesgo inminente de desequilibrio ecológico, daños a los recursos naturales, casos de contaminación con repercusiones peligrosas a los sistemas o cualquier otro supuesto contemplado en la legislación;
+> <small>(ADICIONADO, D.O. 21 DE MAYO DE 2021)</small>
 
-XXIV. Formular denuncias ante las autoridades correspondientes en aquellos casos en que la Secretaría tenga conocimiento de actos u omisiones que pudieran constituir delitos ambientales;
+###### Artículo 519 Bis.
 
-XXV. Analizar los documentos técnicos unificados, los estudios técnicos justificativos, las manifestaciones de Impacto ambiental en modalidad regional y los estudios de aprovechamientos forestales provenientes de la federación para emitir la opinión técnica con respecto al cambio de uso de suelo solicitado;
+El Director de Inspección y Vigilancia Ambiental tendrá las siguientes facultades y obligaciones:
 
-XXVI. Identificar las obras y actividades públicas o privadas que puedan causar impacto ambiental e informar al titular de la Dependencia;
+I. Representar al Director General Jurídico en las actividades, eventos y acciones que así lo requiera;
 
-XXVII. Expedir certificaciones de los documentos que obren en los expedientes o archivos a su cargo;
+II. Coordinar la realización de las visitas de inspección ambiental que se consideren pertinentes para todas aquellas obras o actividades reguladas por la Secretaría de Desarrollo Sustentable, ya sea de oficio o derivadas de un procedimiento administrativo;
 
-XXVIII. Formular los proyectos de ley, reglamentos, acuerdos, manuales y políticas y demás disposiciones normativas en la materia competencia de la Dependencia;
+III. Ejecutar la imposición de medidas de seguridad, según sea el caso, para obras, actividades, fuentes contaminantes e instalaciones en que se desarrollen actividades que den lugar a riesgo inminente de desequilibrio ecológico, daños a los recursos naturales, casos de contaminación con repercusiones peligrosas a los sistemas o cualquier otro supuesto contemplado en la legislación;
 
-XXIX. Designar y revocar a servidores públicos con el carácter de delegados o mandatarios en los juicios en los que la Secretaría sea parte, y
+IV. Identificar las obras y actividades públicas o privadas que puedan causar impacto ambiental e informar de ello al Director General Jurídico;
 
-XXX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+V. Coadyuvar con la Dirección de Evaluación Ambiental, cuando así se requiera, para que, de manera coordinada, se realicen las visitas de inspección en seguimiento a las condicionantes impuestas en los resolutivos en materia de impacto ambiental;
+
+VI. Coordinar y supervisar al personal a su cargo para llevar a cabo las visitas de inspección que le sean encomendadas, con estricto apego en la normatividad aplicable;
+
+VII. Revisar y verificar los resultados de cada una de las visitas de inspección a su cargo realizadas y dar puntual seguimiento a cada caso particular;
+
+VIII. Coadyuvar con la Dirección de Evaluación Ambiental en la realización de las visitas de inspección derivadas de los estudios en materia de impacto ambiental que sean de su competencia, cuando así se requiera;
+
+IX. Emitir opinión técnica respecto de las obras o actividades de competencia estatal que sean sometidas a la autorización de la Secretaría de Desarrollo Sustentable, cuando así lo solicite cualquier unidad administrativa de la Dirección General Jurídica;
+
+X. Coordinar y ejecutar las visitas de inspección que le ordene el Director General Jurídico en materia de denuncias ciudadanas, de conformidad con la normativa aplicable en la materia;
+
+XI. Vigilar el cumplimiento de las autorizaciones o permisos otorgados por la Secretaría de Desarrollo Sustentable;
+
+XII. Apoyar y participar activamente en la elaboración, coordinación y actualización de los manuales de organización y procedimientos relacionados con la dirección a su cargo;
+
+XIII. Verificar que las obras o actividades que deban someterse al procedimiento de evaluación de impacto ambiental cuenten y cumplan con la autorización correspondiente, en los términos de las disposiciones jurídicas aplicables en la materia, cuando las obras o actividades puedan afectar o afecten los recursos naturales competencia de la Secretaría de Desarrollo Sustentable;
+
+XIV. Elaborar, someter a consideración del Director General Jurídico y aplicar las reglas y metodologías para determinar el grado de afectación ambiental ocasionado o que pudiera ocasionarse por la realización de obras o actividades que requieran someterse al procedimiento de evaluación del impacto ambiental y no cuenten con la autorización correspondiente;
+
+XV. Determinar las infracciones a la legislación aplicable en las materias competencia de los asuntos a su cargo;
+
+XVI. Expedir certificaciones de los documentos que obren en los expedientes o archivos a su cargo, y
+
+XVII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 21 DE MAYO DE 2021)</small>
+
+###### Artículo 519 Ter.
+
+El Director de Evaluación Ambiental tendrá las siguientes facultades y obligaciones:
+
+I. Representar al Director General Jurídico en las actividades, eventos o acciones que así lo requiera;
+
+II. Evaluar las solicitudes de factibilidad urbana ambiental;
+
+III. Evaluar informes preventivos, manifiestos de impacto ambiental o estudios de riesgo;
+
+IV. Recibir, evaluar y autorizar exenciones de manifiesto de impacto ambiental;
+
+V. Proponer acciones de prevención, mitigación y conservación del medioambiente en los asuntos a su cargo;
+
+VI. Emitir las opiniones técnicas que las distintas unidades administrativas de la Dirección General Jurídica y demás direcciones de la Secretaría de Desarrollo Sustentable le soliciten;
+
+VII. Realizar las visitas de inspección para verificar el cumplimiento de las condicionantes impuestas en los resolutivos en materia de impacto ambiental;
+
+VIII. Llevar a cabo las visitas de inspección que sean necesarias, derivadas de los asuntos a su cargo, en coordinación con la Dirección de Inspección y Vigilancia Ambiental, cuando el caso lo requiera;
+
+IX. Ejecutar la imposición de medidas de seguridad, según sea el caso, para obras o actividades que den lugar a riesgo inminente de desequilibrio ecológico, daños a los recursos naturales, casos de contaminación con repercusiones peligrosas a los sistemas o cualquier otro supuesto contemplado en la legislación, según sea ordenado;
+
+X. Apoyar y participar activamente en la elaboración, coordinación y actualización de los manuales de organización y procedimientos relacionados con la dirección a su cargo;
+
+XI. Coordinar con las demás direcciones o unidades administrativas de la Secretaría de Desarrollo Sustentable la ejecución de las acciones necesarias para el mejor despacho de los asuntos de su competencia;
+
+XII. Implementar los programas de desarrollo y capacitación del personal a su cargo que sean autorizados por el Director General Jurídico;
+
+XIII. Actualizar y sistematizar el Registro de Consultores en Materia Ambiental;
+
+XIV. Expedir certificaciones de los documentos que obren en los expedientes o archivos a su cargo;
+
+XV. Determinar las infracciones a la legislación aplicable en las materias competencia de los asuntos a su cargo, y
+
+XVI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 > <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -9899,9 +10179,15 @@ XXVI. Difundir y supervisar el cumplimiento de los lineamientos normativos de op
 
 XXVII. Administrar, instrumentar y actualizar la publicación de información ambiental en el sitio web de esta Secretaría, en coordinación con las demás unidades administrativas de la Dependencia;
 
-XXVIII. Proporcionar a los servidores públicos de esta secretaría, el soporte necesario en materia de tecnologías de información y comunicación para el desarrollo de sus funciones, y
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
 
-XXIX. Las demás que le otorguen este Reglamento y otras normas aplicables.
+XXVIII. Proporcionar a los servidores públicos de la Secretaría de Desarrollo Sustentable el soporte necesario en materia de tecnologías de la información y comunicación, para el desarrollo de sus funciones;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXIX. Desarrollar los procedimientos de licitación pública o invitación a cuando menos tres personas que sean necesarios para la adquisición de bienes, servicios u obra pública para la Secretaría de Desarrollo Sustentable, así como sus respectivas modificaciones, y
+
+XXX. Las demás que le otorguen este Reglamento y otras normas aplicables.
 
 ###### Artículo 521.
 
@@ -11861,9 +12147,27 @@ XVII. Promover y vigilar el desarrollo del parque científico y tecnológico de 
 
 XVIII. Expedir programas y reglas de operación, a través de los cuales se determinen las actividades, modalidades, procedimientos, criterios de evaluación y montos para la asignación de recursos a los proyectos de actividades científicas, tecnológicas, de innovación;
 
-XIX. Coordinar la unidad jurídica de la secretaría, la cual tendrá las atribuciones establecidas en el artículo 15 de este reglamento, y
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
 
-XX. Las demás que le otorguen este reglamento y otras disposiciones normativas aplicables.
+XIX. Coordinar la unidad jurídica de la secretaría, la cual tendrá las atribuciones establecidas en el artículo 15 de este reglamento;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XX. Administrar y otorgar créditos o apoyos en materia educativa a personas con necesidades económicas para concluir o continuar su formación académica de tipo superior;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXI. Definir las acciones jurídicas necesarias para la recuperación de los recursos otorgados por parte de la secretaría;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXII. Establecer vínculos de coordinación con instituciones públicas o privadas de educación superior que otorguen becas, créditos o apoyos en materia educativa;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXIII. Diseñar mecanismos de financiamiento enfocados en la optimización de los recursos económicos para satisfacer la demanda que se presente a mediano y largo plazos, y
+
+XXIV. Las demás que le otorguen este reglamento y otras disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
 
@@ -11925,9 +12229,47 @@ XXVI. Sustanciar, conjuntamente con las unidades administrativas respectivas, el
 
 XXVII. Establecer los mecanismos operativos que garanticen el cumplimiento, por parte de los particulares, de los requisitos legales y pedagógicos establecidos para el funcionamiento de planes y programas de estudio de nivel superior público y los incorporados a la secretaría;
 
-XXVIII. Emitir los lineamientos para el ingreso y permanencia de las instituciones de educación superior, centros de investigación y empresas de base tecnológica en el Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán y en el Parque Científico y Tecnológico de Yucatán, y
+> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
 
-XXIX. Las demás que le otorguen este reglamento y otras disposiciones normativas aplicables.
+XXVIII. Emitir los lineamientos para el ingreso y permanencia de las instituciones de educación superior, centros de investigación y empresas de base tecnológica en el Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán y en el Parque Científico y Tecnológico de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXIX. Difundir y promover el otorgamiento (sic) créditos o apoyos en materia educativa a personas con necesidades económicas para concluir o continuar su formación académica de tipo superior;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXX. Proponer al Secretario de Investigación, Innovación y Educación Superior las acciones necesarias para la recuperación de los apoyos otorgados por parte de la secretaría;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXI. Promover vínculos de coordinación entre la secretaría e instituciones públicas o privadas de educación superior que otorguen becas, créditos o apoyos en materia educativa;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXII. Fomentar en los beneficiarios la devolución de los recursos otorgados por parte de la secretaría;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXIII. Implementar mecanismos de financiamiento enfocados en la optimización de los recursos económicos para satisfacer la demanda que se presente a mediano y largo plazos;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXIV. Asesorar a la población sobre la oferta educativa de tipo superior presente en el estado;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXV. Promover la vinculación entre los sectores educativo y productivo;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXVI. Someter a aprobación del Secretario de Investigación, Innovación y Educación Superior los lineamientos para el otorgamiento de becas, créditos o apoyos en materia educativa, así como dirigir, administrar, supervisar y evaluar la operación de todos estos;
+
+> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+
+XXXVII. Promover la celebración de convenios, acuerdos, contratos o cualquier otro tipo de instrumento jurídico con instituciones públicas o privadas, que sean necesarios para el otorgamiento de créditos o apoyos en materia educativa, y
+
+XXXVIII. Las demás que le otorguen este reglamento y otras disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
 
@@ -14394,3 +14736,17 @@ D.O. 30 DE ABRIL DE 2021.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 21 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 366/2021 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE CONSOLIDACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuaciones presupuestales y administrativas
+
+La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales necesarias para formalizar las modificaciones orgánicas efectuadas en las dependencias de la Administración Pública estatal como resultado de este decreto.
+
+Por su parte, estas dependencias contarán con un plazo de treinta días naturales, contado a partir de la entrada en vigor de este decreto, para iniciar ante las autoridades competentes los trámites administrativos que sean necesarios para formalizar las modificaciones orgánicas efectuadas en virtud de este decreto.
