@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-del-deporte-nuevo-leon-7480"
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-17"
-last_updated: "2021-05-10"
+last_updated: "2021-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DEL DEPORTE DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de noviembre de 1993.
 
@@ -103,9 +103,17 @@ I .- Coordinar el Sistema Estatal del Deporte;
 
 II.- Ser el órgano rector para ejecutar la Política Estatal del Deporte;
 
-III.- Representar el Deporte Estatal ante las autoridades municipales, estatales e internacionales; y
+> <small>(REFORMADA, P. O. 21 DE MAYO DE 2021)</small>
 
-IV.- Las demás que otorguen otras disposiciones legales y las necesarias para el desarrollo del Deporte en el Estado.
+III.- Representar el Deporte Estatal ante las autoridades municipales, estatales e internacionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P. O. 21 DE MAYO DE 2021)</small>
+
+IV.- Fomentar el desarrollo de los deportistas de alto rendimiento en el Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P. O. 21 DE MAYO DE 2021)</small>
+
+V.- Las demás que otorguen otras disposiciones legales y las necesarias para el desarrollo del Deporte en el Estado.
 
 ###### Artículo 10.
 
@@ -742,3 +750,9 @@ P. O. 10 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 477. SE REFORMAN LAS FRACCIONES II Y III Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 16 DE LA LEY ESTATAL DEL DEPORTE, Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3, LAS FRACCIONES XXVII Y XXVIII DEL ARTÍCULO 5; Y SE ADICIONA UNA FRACCIÓN XXIX AL ARTÍCULO 5 DE LA LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P. O. 21 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 481. SE REFORMAN LAS FRACCIONES III Y IV, Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 9 DE LA LEY ESTATAL DEL DEPORTE”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al día siguiente (sic) de su publicación en el Periódico Oficial del Estado.
