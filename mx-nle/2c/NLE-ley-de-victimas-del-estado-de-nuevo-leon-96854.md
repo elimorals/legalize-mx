@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-victimas-del-estado-de-nuevo-leon-96854"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2020-12-28"
+last_updated: "2021-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE VÍCTIMAS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 7 de diciembre de 2013.
 
@@ -62,6 +62,10 @@ En cualquier caso, toda norma, institución o acto que se desprenda de la presen
 ###### Artículo 3.
 
 En las leyes de aplicación estatal que protejan a víctimas, se aplicará siempre la que más favorezca a la persona.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2021)</small>
+
+El mismo principio se aplicará para el acceso al Fondo de Atención, Auxilio y Protección a las Víctimas del Estado, el cual podrá ser decretado por la autoridad jurisdiccional. La aplicación del Fondo se llevará a cabo por el Comité en términos del artículo 101 de esta Ley.
 
 ### CAPÍTULO II. CONCEPTOS Y DEFINICIONES
 
@@ -1522,3 +1526,9 @@ P.O. 28 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 397. SE ADICIONA EL ARTÍCULO 78 BIS A LA LEY DE VÍCTIMAS DEL ESTADO DE NUEVO LEÓN”.]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 502. SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3 DE LA LEY DE VÍCTIMAS DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
