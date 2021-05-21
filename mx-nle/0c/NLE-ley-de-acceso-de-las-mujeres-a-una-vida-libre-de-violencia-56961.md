@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2021-03-31"
+last_updated: "2021-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -249,9 +249,11 @@ III. En el de la comunidad; y
 
 IV. En el de las instituciones públicas y privadas.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2021)</small>
+
 ###### Artículo 8.
 
-Para los efectos de esta Ley y en correlación con las leyes aplicables, la violencia familiar, es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, sexual, patrimonial o económica a las mujeres, dentro o fuera del domicilio familiar, cuando el individuo que la ejerce, tiene o ha tenido relación de parentesco por consanguinidad, afinidad o civil.
+Para los efectos de esta Ley y en correlación con las leyes aplicables, la violencia familiar, es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, sexual, patrimonial o económica a las mujeres, dentro o fuera del domicilio familiar, cuando el individuo que la ejerce, tiene o ha tenido relación de parentesco por consanguinidad, afinidad o civil, o en cualquier otra relación afectiva de hecho.
 
 ###### Artículo 9.
 
@@ -1680,3 +1682,9 @@ P.O. 31 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 470. SE REFORMAN LAS FRACCIONES VII Y VIII, Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 15 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 496. SE REFORMA EL ARTÍCULO 8, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+ÚNICO.- El presente Decreto entrara en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
