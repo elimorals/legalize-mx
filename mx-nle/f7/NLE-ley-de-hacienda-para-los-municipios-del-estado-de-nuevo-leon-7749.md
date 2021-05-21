@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2017-12-29"
+last_updated: "2021-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -2961,65 +2961,61 @@ Están exentos del pago, a que se refiere el párrafo anterior, los partidos pol
 
 ### CAPITULO IX. Por limpieza de Lotes Baldíos o Casas Desocupadas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRADO, P.O. 21 DE MAYO DE 2021)</small>
 
-###### Artículo 65.
+###### ARTICULO 65.
 
-Los propietarios de predios como lotes baldíos o casas desocupadas deberán efectuar el desmonte, desyerbe o limpieza de su inmueble, retirando la rama, basura o escombro, tres veces al año a más tardar en los meses de marzo, julio y noviembre respectivamente.
+Los propietarios de predios como lotes baldíos o casas desocupadas deberán efectuar el desmonte, deshierbe o limpieza de su inmueble, retirando la rama, basura o escombro, tres veces al año a más tardar en los meses de marzo, julio y noviembre respectivamente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2021)</small>
 
-Independientemente de las fechas señaladas en el párrafo anterior, la Autoridad Municipal podrá requerir en cualquier momento al propietario o poseedor del lote baldío o casa desocupada para que realice la limpieza, desmonte y desyerbe de su lote baldío o casa desocupada, cuando el mismo esté provocando condiciones de insalubridad o inseguridad.
+Independientemente de las fechas señaladas en el párrafo anterior, la Autoridad Municipal podrá requerir en cualquier momento al propietario o poseedor del lote baldío o casa desocupada, para que realice la limpieza, desmonte y deshierbe de su lote baldío o casa desocupada, cuando el mismo esté provocando condiciones de insalubridad o inseguridad.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2021)</small>
 
-De no cumplirse con lo dispuesto en los dos párrafos anteriores el Municipio podrá por sí mismo o mediante contratación de terceros, efectuar el servicio de desmonte, desyerbe o limpieza del lote baldío o casa desocupada, según sea el caso; esto de acuerdo con el procedimiento que se establezca en los reglamentos municipales correspondientes y el propietario estará obligado a pagar al Municipio la prestación del servicio. Así mismo la Autoridad Municipal competente le impondrá una multa de tres a seis tantos de los derechos que le correspondería pagar, dependiendo de la reincidencia.
+De no cumplirse con lo dispuesto en los dos párrafos anteriores el Municipio podrá por sí mismo o mediante contratación de terceros, efectuar el servicio de desmonte, deshierbe o limpieza del lote baldío o casa desocupada, según sea el caso; esto de acuerdo con el procedimiento que se establezca en los reglamentos municipales correspondientes y el propietario estará obligado a pagar al Municipio la prestación del servicio. Asimismo, la Autoridad Municipal competente le impondrá una multa de tres a seis tantos de los derechos que le correspondería pagar, dependiendo de la reincidencia.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 El pago de la multa que se impusiere al infractor no lo exime de las obligaciones establecidas en este artículo.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2021)</small>
 
-Cuando el Municipio efectúe los servicios a los que se refiere el párrafo anterior, se causarán los derechos conforme a la siguiente tarifa por metro cuadrado:
+Cuando el Municipio efectúe los servicios a los que se refiere el párrafo tercero de este artículo, se causarán los derechos conforme a la siguiente tarifa por metro cuadrado:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2021)</small>
 
-a) Lotes baldíos con superficie hasta 1,000 metros cuadrados, por cada metro cuadrado 0.84 cuotas
+a) Lotes baldíos o casas desocupadas con superficie hasta 1,000 metros cuadrados, por cada metro cuadrado de terreno…………… 2 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2021)</small>
 
-b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente en lotes baldíos 0.72 cuotas
+b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado de terreno excedente en lotes baldíos o casas desocupadas......... 1 cuota
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-En el caso de casas desocupadas se cobrarán las cuotas que resulten por la superficie que fue objeto de desmonte, desyerbe o limpieza.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 21 DE MAYO DE 2021)</small>
 
 Para los efectos de este artículo deberá entenderse por:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2021)</small>
 
-Desmonte.- Es la acción de cortar y retirar del predio baldío aquellos arbustos de tallo leñoso, cuyo diámetro sea inferior a 5 centímetros.
+a) Desmonte: Es la acción de cortar y retirar del predio baldío aquellos arbustos de tallo leñoso, cuyo diámetro sea inferior a 5 centímetros.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2021)</small>
 
-Desyerbe.- Es la acción de cortar y retirar del predio baldío aquellas plantas de tallo herbáceo que se encuentren en el mismo.
+b) Deshierbe: Es la acción de cortar y retirar del predio baldío aquellas plantas de tallo herbáceo que se encuentren en el mismo.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2021)</small>
 
-Casa desocupada.- Es aquella edificación que cualquiera que haya sido su uso no es la residencia habitual de ninguna persona ni es utilizada de forma estacional, periódica o esporádica por nadie; estando deshabitada o simplemente abandonada.
+c) Casa desocupada: Es aquella edificación que cualquiera que haya sido su uso no es la residencia habitual de ninguna persona ni es utilizada de forma estacional, periódica o esporádica por nadie, estando deshabitada o simplemente abandonada.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2021)</small>
 
-Entendiéndose por abandono, el estado físico del inmueble en cuestión que a simple vista puede observar algunas de estas características: deterioro en su fachada, suciedad, basura, plantas o maleza sin cortar, vidrios rotos, puertas o cerraduras en evidente estado de oxidación.
+d) Abandono: Es el estado físico del inmueble en cuestión que a simple vista puede observar algunas de estas características: deterioro en su fachada, suciedad, basura, plantas o maleza sin cortar, vidrios rotos, puertas o cerraduras en evidente estado de oxidación.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2021)</small>
 
-Reincidencia.- Se considera que se presenta la reincidencia cuando no se cumpla en más de una ocasión con la obligación que establece el primer párrafo de este artículo, habiéndose requerido previamente por el Municipio.
+e) Reincidencia: Se considera que se presenta la reincidencia cuando no se cumpla en más de una ocasión con la obligación que establece el primer párrafo de este artículo, habiéndose requerido previamente por el Municipio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE MAYO DE 2021)</small>
 
 El propietario podrá solicitar al Municipio el servicio de recolección, traslado y disposición final de basura producto de la limpieza de su lote baldío o casa desocupada, siendo el costo de este servicio la cantidad de 8.4 cuotas por metro cúbico o fracción de materia recolectada.
 
@@ -4008,3 +4004,9 @@ Primero.- El presente Decreto entrará en vigor el 1 de enero del 2018.
 Segundo.- Los Ayuntamientos deberán elaborar y aprobar los reglamentos a que hace referencia el inciso I) del Artículo (sic) BIS 12-C de la Ley de Hacienda para los Municipios del Estado de Nuevo León, con las especificaciones técnicos ambientales correspondientes, 60 días posteriores a la entrada en vigor del presente Decreto.
 
 Tercero.- De conformidad con lo establecido en el Artículo 19 de la Ley de Disciplina Financiera para las Entidades Federativas y Municipios los Ayuntamientos deberán contribuir al balance presupuestario sostenible para el ejercicio de 2018.
+
+P.O. 21 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 501. SE REFORMA EL ARTÍCULO 65 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
