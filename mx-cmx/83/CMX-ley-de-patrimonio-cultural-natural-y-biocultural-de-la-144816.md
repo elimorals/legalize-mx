@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-patrimonio-cultural-natural-y-biocultural-de-la-144816"
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-29"
-last_updated: "2020-10-29"
+last_updated: "2021-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144816&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-10-28"
 
 LEY DE PATRIMONIO CULTURAL, NATURAL Y BIOCULTURAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE MAYO DE 2021.
 
 Ley publicada en el Número 462 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 29 de octubre de 2020.
 
@@ -808,9 +808,11 @@ Procederá la revocación de Declaratoria de Patrimonio Cultural, Natural o Bioc
 
 Será la Comisión Interinstitucional quien establecerá los criterios y procedimientos para revocar las Declaratorias correspondientes.
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2021)</small>
+
 ###### Artículo 64.
 
-Una vez que un bien sea afecto a cualquiera de las Declaratorias enlistadas en la presente Ley, el mismo será inalienable, inembargable e imprescriptible.
+Cuando se trate de bienes culturales, objeto de estas declaratorias, que sean de dominio público y uso común, serán inalienables, inembargables e imprescriptibles y por ningún motivo serán objeto de permiso o concesión a los particulares para su explotación comercial, a excepción de la prestación de servicios que no sean ajenos a su naturaleza. Se podrán realizar actividades culturales y públicas que permitan financiar su preservación, protección, conservación, uso sustentable y disfrute, siempre que no se destruyan o dañen los elementos arquitectónicos u ornamentales del inmueble.
 
 ## TÍTULO QUINTO. DE LA MEMORIA HISTÓRICA DE LA CIUDAD
 
@@ -1033,3 +1035,13 @@ DÉCIMO PRIMERO. El Congreso de la Ciudad de México dentro del Tercer Año de E
 Palacio Legislativo del Congreso de la Ciudad de México, a los veinticuatro días del mes de septiembre del año dos mil veinte. POR LA MESA DIRECTIVA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, PRESIDENTA.- DIPUTADA DONAJI OFELIA OLIVERA REYES, SECRETARIA.- DIPUTADO HÉCTOR BARRERA MARMOLEJO, SECRETARIO.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21, párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los veintiocho días del mes de octubre del año dos mil veinte. LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- LA ENCARGADA DEL DESPACHO DE LA SECRETARÍA DE CULTURA, MARÍA GUADALUPE LOZADA LEÓN.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.-LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LARISA ORTIZ QUINTERO.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 21 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 64 DE LA LEY DE PATRIMONIO CULTURAL, NATURAL Y BIOCULTURAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
