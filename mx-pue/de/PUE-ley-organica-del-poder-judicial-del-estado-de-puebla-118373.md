@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-de-puebla-118373"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-01-09"
-last_updated: "2019-12-06"
+last_updated: "2021-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de enero de 2017.
 
@@ -57,9 +57,17 @@ I. El Tribunal Superior de Justicia;
 
 II. El Consejo de la Judicatura del Poder Judicial del Estado;
 
-III. Los Juzgados de Primera Instancia, y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2021)</small>
 
-IV. Los Juzgados Indígenas.
+III. Los Juzgados de Primera Instancia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MAYO DE 2021)</small>
+
+IV. Los Tribunales Laborales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE MAYO DE 2021)</small>
+
+V. Los Juzgados Indígenas.
 
 ###### Artículo 2.
 
@@ -83,7 +91,9 @@ VII. Constitución: Constitución Política del Estado Libre y Soberano de Puebl
 
 Corresponde al Poder Judicial:
 
-I. Decidir las controversias del orden civil, familiar, penal, de justicia para adolescentes y las que le competen conforme a las leyes;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2021)</small>
+
+I. Decidir las controversias del orden civil, familiar, penal, de justicia para adolescentes, laboral y las que les competen conforme a las leyes;
 
 II. Decidir las controversias del orden federal que se promuevan con arreglo a los artículos 104 fracción I y 107 fracción XII, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos, en los términos que establezcan las leyes respectivas, y
 
@@ -141,9 +151,17 @@ IX. Los árbitros, mediadores, tutores, curadores, depositarios, albaceas e inte
 
 X. Las asociaciones, sociedades e instituciones científicas, educativas o de investigación, legalmente reconocidas;
 
-XI. Los prestadores de servicios relacionados con la función jurisdiccional que no intervengan en los procedimientos, y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2021)</small>
 
-XII. Los demás a los que las leyes les confiera ese carácter.
+XI. Las personas prestadoras de servicios relacionados con la función jurisdiccional que no intervengan en los procedimientos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MAYO DE 2021)</small>
+
+XII. Las autoridades laborales y de seguridad social, estatales y federales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE MAYO DE 2021)</small>
+
+XIII. Los demás a los que las leyes les confiera ese carácter.
 
 ###### Artículo 7.
 
@@ -645,11 +663,19 @@ IX. Los de paz, y
 
 X. Los que para tal efecto sean creados por el Consejo de la Judicatura a propuesta del Pleno, atendiendo a las necesidades del servicio.
 
-### CAPÍTULO II. DE LOS JUZGADOS DE LO CIVIL, DE LO FAMILIAR, EN MATERIA PENAL Y DE JUSTICIA PARA ADOLESCENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MAYO DE 2021)</small>
+
+### CAPÍTULO II. DE LOS JUZGADOS DE LO CIVIL, DE LO FAMILIAR, EN MATERIA PENAL, DE JUSTICIA PARA ADOLESCENTES Y DE LOS TRIBUNALES LABORALES
 
 ###### Artículo 42.
 
 En los distritos y regiones judiciales habrá el número de juzgados que el Consejo de la Judicatura considere necesarios para que la administración de justicia sea expedita. En todo caso, dichos juzgados estarán numerados progresivamente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MAYO DE 2021)</small>
+
+En cada distrito o región judicial podrán crearse el número de tribunales o juzgados de primera instancia, que el Consejo de la Judicatura determine, los que tendrán competencia para conocer de los asuntos laborales, civiles, mercantiles, penales, de lo familiar, de justicia para adolescentes, y demás materias en que ejerzan su jurisdicción.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 21 DE MAYO DE 2021)</small>
 
 En el distrito judicial de Puebla y región judicial centro, los juzgados podrán ubicarse, por acuerdo del Pleno, dentro de la zona conurbada o área metropolitana.
 
@@ -717,11 +743,15 @@ IV. Resolver los conflictos de competencia que se susciten entre los jueces muni
 
 V. Conocer de los asuntos penales en los que el Tribunal les haya prorrogado jurisdicción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2021)</small>
+
 ###### Artículo 50.
 
-Son facultades de los jueces de lo civil, de lo familiar, de lo penal y de justicia para adolescentes:
+Son facultades de las personas titulares de los juzgados de lo civil, de lo familiar, de lo penal, de justicia para adolescentes y de los tribunales laborales:
 
-I. Proponer al Consejo de la Judicatura, para su nombramiento, al personal de sus respectivos juzgados, en los términos que establezca la presente ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2021)</small>
+
+I. Proponer al Consejo de la Judicatura, para su nombramiento, al personal de sus respectivos juzgados y tribunales laborales, en los términos que establezca la presente ley y demás disposiciones aplicables;
 
 II. Imponer las correcciones disciplinarias previstas por la fracción VIII del Artículo 19 de esta Ley;
 
@@ -2443,6 +2473,70 @@ Los jueces que, por cualquier causa, se separen de la función antes de obtener 
 
 Las prestaciones a que se refiere el presente capítulo, son independientes de los derechos establecidos en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2021)</small>
+
+## TÍTULO DÉCIMO PRIMERO. DE LOS TRIBUNALES LABORALES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2021)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2021)</small>
+
+###### Artículo 246.
+
+La función jurisdiccional en materia laboral se ejerce por los Tribunales Laborales.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2021)</small>
+
+###### Artículo 247.
+
+Las personas titulares de los tribunales laborales tendrán fe pública en el ejercicio de su función.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2021)</small>
+
+###### Artículo 248.
+
+Las personas titulares de los tribunales laborales conocerán de los conflictos individuales y colectivos, de conformidad con las disposiciones de la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2021)</small>
+
+###### Artículo 249.
+
+El tribunal laboral contará con el personal siguiente:
+
+I. Juez o Jueza laboral;
+
+II. Las personas titulares de las secretarías de los tribunales laborales, y
+
+III. Las y los servidores públicos que determine el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2021)</small>
+
+###### Artículo 250.
+
+Las personas titulares de los tribunales laborales tendrán las facultades y obligaciones que establecen la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2021)</small>
+
+###### Artículo 251.
+
+Las personas titulares de las secretarías de los tribunales laborales, además de las facultades que señala la Ley Federal del Trabajo, tendrán las siguientes:
+
+I. A petición del Juez o Jueza laboral, dictar los acuerdos relativos a la etapa escrita del procedimiento;
+
+II. Al inicio de las audiencias, hacer constar oralmente en el registro la fecha, hora y lugar de realización, el nombre de las y los servidores públicos del Tribunal, y demás personas que intervendrán;
+
+III. Tomar protesta previa de que se conducirán con verdad las partes y los terceros que intervengan en el desarrollo de las audiencias, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad;
+
+IV. Certificar el medio en donde se encuentre registrada la audiencia respectiva, identificar dicho medio con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse;
+
+V. Firmar las resoluciones que así lo ameriten, el día en que se emitan;
+
+VI. Decretar las providencias cautelares previstas en la Ley Federal del Trabajo, y
+
+VII. Las demás que determine la ley o el Consejo de la Judicatura.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -2504,3 +2598,39 @@ SEXTO. Todo instrumento legal, jurídico o administrativo y norma en sentido for
 SÉPTIMO. Los derechos y obligaciones contractuales, contraídos por el Servicio Médico Forense, serán atribuidos al Instituto de Ciencias Forenses de la Fiscalía General del Estado.
 
 OCTAVO. Los derechos laborales del personal que en virtud del proceso de transferencia derivado del presente Decreto, pasen del Poder Judicial del Estado de Puebla a la Fiscalía General del Estado de Puebla, se respetarán en términos de la Ley de los Trabajadores al Servicio del Estado.
+
+P.O. 21 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo dispuesto por los transitorios siguientes.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto y para dar cumplimiento a las disposiciones contenidas en el mismo:
+
+a) El Poder Judicial del Estado de Puebla incluirá en su proyecto de presupuesto de egresos para el ejercicio fiscal 2021, los recursos que sean necesarios para la creación, operación e inicio de funciones de los Tribunales Laborales.
+
+CUARTO. Hasta en tanto los Tribunales Laborales del Estado de Puebla no inicien sus funciones, la Junta Local de Conciliación y Arbitraje continuará con las funciones previstas en la Ley Federal del Trabajo vigente.
+
+QUINTO. Los Tribunales Laborales del Estado de Puebla a que hace referencia el presente Decreto iniciarán operaciones en la misma fecha en que lo haga, el Centro de Conciliación Laboral y Registro del Estado, conforme a las disposiciones previstas en el presente Decreto.
+
+Una vez que entren en operación el Centro de Conciliación Laboral del Estado de Puebla y los Tribunales Laborales, los procedimientos y los juicios se ventilarán ante ellos de conformidad con las disposiciones prevista en el Decreto en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019.
+
+SEXTO. Los procedimientos que se encuentren en trámite ante la Junta Local de Conciliación y Arbitraje del Estado de Puebla serán concluidos por ésta de conformidad con las disposiciones vigentes al momento de su inicio.
+
+SÉPTIMO. En la implementación de las disposiciones a que se refiere el Decreto en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019, los Tribunales Laborales deberán incorporar en sus programas de formación y capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de derechos humanos a personas en situación de vulnerabilidad.
+
+OCTAVO. Las convocatorias a concurso para la selección de personal de los Tribunales Laborales serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades al personal de las Juntas de Conciliación y Arbitraje.
+
+NOVENO. Las Juntas Locales de Conciliación y Arbitraje se ajustarán al plan de trabajo que hubieren presentado al Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral, respecto a la conclusión de los asuntos en trámite y la ejecución eficaz de los laudos, así como para el cierre y conclusión de labores en forma paulatina y gradual de dichos órganos.
+
+DÉCIMO. La Legislatura del Estado emitirá la Declaratoria de entrada en funciones de los Tribunales Laborales y el Centro de Conciliación Laboral del Estado de Puebla. Dicha Declaratoria deberá ser ampliamente difundida en todo el territorio del Estado y publicarse en el Periódico Oficial del Estado.
+
+DÉCIMO PRIMERO. De conformidad con la capacidad presupuestal y recursos humanos e informáticos del Poder Judicial, el Consejo de la Judicatura emitirá los acuerdos generales para implementar las herramientas necesarias para el funcionamiento del sistema de justicia laboral. Lo que hará del conocimiento de los interesados a través del Periódico Oficial del Estado, del Boletín Judicial y por cualquier otro medio de difusión.
+
+DÉCIMO SEGUNDO. El Consejo de la Judicatura deberá emitir los lineamientos administrativos a que se refiere este Decreto, entre otros, los referentes a los Sistemas de Notificación Electrónica y del Expediente Electrónico, dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
+
+DÉCIMO TERCERO. El Consejo de la Judicatura implementará un sistema de gestión que garantice el control y eficiencia de las Centrales de las personas ejecutoras y notificadoras en materia del trabajo.
+
+DÉCIMO CUARTO. La Legislatura Estatal promoverá en los presupuestos de egresos correspondientes los recursos necesarios para la implementación de la reforma del sistema de justicia laboral del Estado de Puebla y para dar cumplimiento a lo dispuesto en el presente Decreto.
