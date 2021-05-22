@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2021-05-08"
+last_updated: "2021-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -505,13 +505,17 @@ XII.- Contribuir para el fomento de actividades cívicas, culturales y deportiva
 
 XIII.- Proporcionar capacitación y adiestramiento en los términos de la presente Ley;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2021)</small>
 
-XIV.- Adoptar las medidas, adecuaciones, ajustes y mejoras necesarios que aseguren el libre acceso y desplazamiento de las personas en general, así como también de las personas trabajadoras que padezcan de alguna discapacidad en condiciones de igualdad y no discriminación. Para estos efectos deberán modificar, en su caso, las instalaciones, en los términos que señalen las propias autoridades y la normatividad vigente, y.
+XIV.- Adoptar las medidas, adecuaciones, ajustes y mejoras necesarios que aseguren el libre acceso y desplazamiento de las personas en general, así como también de las personas trabajadoras que padezcan de alguna discapacidad en condiciones de igualdad y no discriminación. Para estos efectos deberán modificar, en su caso, las instalaciones, en los términos que señalen las propias autoridades y la normatividad vigente;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2021)</small>
+
+XV.- Implementar, con base en el Programa Interno de Protección Civil que establece la Ley del Sistema de Protección Civil del Estado de San Luis Potosí, capacitación para las y los trabajadores en el rubro, por lo menos una vez al año dentro de la jornada laboral, y
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
-XV.- Cumplir con las demás obligaciones que deriven de este Ordenamiento.
+XVI.- Cumplir con las demás obligaciones que deriven de este Ordenamiento.
 
 ### CAPITULO II.
 
@@ -1481,11 +1485,11 @@ V.- Si en la casa, local u oficina designados para hacer la notificación se neg
 
 En todos los casos señalados anteriormente el actuario levantará razón en el acta, señalando con claridad los elementos de convicción en que se apoye.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
 ###### ARTICULO 154.
 
-Las siguientes notificaciones personales se harán al interesado o persona autorizada, si concurre al local del Tribunal, o en el domicilio que hubiere designado y si no estuviere presente, se le dejará copia de la resolución respectiva; si la casa o local estuvieren cerrados, se fijará la copia en la puerta de entrada y se asentará razón en autos de lo anterior.
+Las siguientes notificaciones personales se harán al interesado o persona autorizada, si concurre al local del Tribunal, o en el domicilio que hubiere designado y si no estuviere presente, se le dejará copia de la resolución y cédula; si la casa o local estuvieren cerrados, el actuario fijará en la puerta de entrada copia de la resolución respectiva y de la cédula de notificación, de todo lo cual asentará razón en autos.
 
 ###### ARTICULO 155.
 
@@ -2150,3 +2154,21 @@ P.O. 8 DE MAYO DE 2021.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1180.- SE REFORMA EL ARTÍCULO 51 EN SU FRACCIÓN XIV; Y ADICIONA AL MISMO ARTÍCULO 51 UNA FRACCIÓN, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Las instituciones públicas de gobierno que señala el artículo 5° de Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí, tendrán ciento ochenta días a partir de la entrada en vigor de este Decreto, para realizar la primera capacitación que refiere este Decreto en materia de protección civil.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1181.- SE REFORMA EL ARTÍCULO 154, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
