@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2020-12-19"
+last_updated: "2021-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -159,6 +159,14 @@ g) Otros servicios y actividades que no se encuentren comprendidos en este artí
 
 XXI. La promoción turística. Comprende el conjunto de información persuasiva, verbal, escrita, audiovisual o en formato digitalizado, que tiene por objeto dar a conocer, promover y difundir a los turistas los atractivos naturales, el patrimonio cultural y los servicios turísticos disponibles en los municipios con la finalidad de incrementar la afluencia turística.
 
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2021)</small>
+
+XXII. Patrimonio Turístico: Conjunto de bienes, servicios, recursos naturales, culturales, sociales, artísticos e históricos dentro del Estado, por su importancia e interés general, tienen el potencial para ser aprovechados para una actividad turística;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2021)</small>
+
+XXIII. Sistema Turístico: Conjunto de elementos básicos, (demanda turística, oferta turística, espacio geográfico y operadores del mercado), relacionados entre sí que permiten la existencia y el correcto desarrollo del turismo.
+
 ###### Artículo 5.
 
 Los principales tipos del turismo que pueden ser aprovechados en el Estado son, entre otros, los siguientes:
@@ -196,6 +204,10 @@ XV. Turismo Sustentable: Aquel que cumple con dar un uso óptimo a los recursos 
 XVI. Turismo Vivo o Etnográfico: Actividad cuyo principal objetivo es conectar dos culturas diferentes siendo estas las del visitante y las del anfitrión, se vincula específicamente a las tradiciones, costumbres y particularidades de los pueblos.
 
 XVII. Turismo Rosa: Es un sistema que crea las condiciones necesarias para que la Comunidad LGBT tenga acceso a los servicios turísticos de calidad y especializados, con pleno respeto a sus derechos humanos y no discriminación.
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2021)</small>
+
+XVIII. Geoturismo: Es aquel que se encuentra vinculado con la geología, tiene como finalidad dar a conocer al turista los rasgos que componen el paisaje y los procesos que le han dado origen y lo modelan. Es un turismo educativo, cuyo objetivo es que el turista comprenda la importancia de proteger y conservar el patrimonio natural desde una perspectiva integral, incorporando aspectos del medio físico, biológico y cultural.
 
 ###### Artículo 6.
 
@@ -461,19 +473,27 @@ Los prestadores de servicios turísticos deberán proveer lo necesario para que 
 
 La Secretaria y los Ayuntamientos, vigilarán que las disposiciones establecidas en el presente capitulo se cumplan.
 
-### CAPÍTULO V. DE LA CULTURA TURÍSTICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2021)</small>
+
+### CAPÍTULO V. DEL PATRIMONIO Y LA CULTURA TURÍSTICA
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
 ###### Artículo 25.
 
-La Secretaría, en coordinación con los Ayuntamientos, promoverán y fomentarán entre la población aquellos programas y actividades que difundan la cultura, con el fin de crear el conocimiento de los beneficios de la actividad turística.
+La Secretaría, en coordinación con los Ayuntamientos, promoverán y fomentarán entre la población aquellos programas y actividades que desarrollen conocimiento de los beneficios del sector turístico y difundan la protección al patrimonio y la cultura turística.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
 ###### Artículo 26.
 
-La Secretaría en conjunto con la Secretaría de Culturas y Artes de Oaxaca, promoverá programas que difundan la importancia de respetar y conservar los atractivos turísticos, así como mostrar un espíritu de servicio y hospitalidad hacia el turista nacional o extranjero.
+La Secretaría en coordinación con la Secretaría de Culturas y Artes de Oaxaca, promoverá programas que difundan la importancia de respetar y conservar el patrimonio turístico, así como mostrar un espíritu de servicio y hospitalidad hacia el turista nacional o extranjero.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
 ###### Artículo 27.
 
-La Secretaría, con la participación de las distintas dependencias y entidades de la Administración Pública del Estado promoverá la suscripción de acuerdos con prestadores de servicios turísticos para el cumplimiento de los objetivos de este capítulo. Los Poderes Públicos del Estado, los organismos autónomos del Estado, y los municipios promoverán entre sus trabajadores el turismo.
+La Secretaría, con la participación de las distintas dependencias y entidades de la Administración Pública del Estado y la Federación promoverán la suscripción de acuerdos con prestadores de servicios turísticos para el cumplimiento de los objetivos de este capítulo. Los Poderes Públicos del Estado, los organismos autónomos del Estado, y los municipios promoverán la colaboración interinstitucional para impulsar el sistema turístico de forma integral conjuntamente con la población.
 
 ###### Artículo 28.
 
@@ -481,7 +501,9 @@ La Secretaría elaborará el Programa Sectorial de Turismo del Estado, que se su
 
 La Secretaría al especificar en el programa las políticas, objetivos y prioridades que regirán a la actividad turística, procurará investigar las características de la demanda y los atractivos turísticos naturales y culturales con que cuenta cada ruta turística o región en el Estado.
 
-El Programa Sectorial podrá contener entre otros elementos metodológicos de la planificación, un diagnóstico y un pronóstico de la situación del turismo en el Estado y las políticas, objetivos y metas a corto, mediano y largo plazo de la actividad turística, en estricta observancia a los ordenamientos jurídicos, administrativos y de política económica que sean aplicables.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+
+El Programa Sectorial podrá contener entre otros elementos metodológicos de la planificación, un diagnóstico y un pronóstico de la situación del turismo en el Estado y las políticas, objetivos y metas a corto, mediano y largo plazo de la actividad turística, en estricta observancia a los ordenamientos jurídicos, administrativos y de política económica y de protección al patrimonio turístico que sean aplicables.
 
 ### CAPÍTULO VI. DE LOS PUEBLOS MÁGICOS
 
@@ -1044,3 +1066,15 @@ P.O. 19 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1761.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 66 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 2446.- MEDIANTE EL CUAL REFORMAN, LOS ARTÍCULO (SIC) 25, 26, 27 Y EL TERCER PÁRRAFO DEL ARTÍCULO 28, LA DENOMINACIÓN DEL CAPÍTULO V DEL TÍTULO CUARTO Y SE ADICIONAN LAS FRACCIONES XXII Y XXIII AL ARTÍCULO 4 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación; Publíquese en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2447.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 5, DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación; Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
