@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-coordinacion-de-sanidad-vegetal-de-chihuahua-106
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-07"
-last_updated: "2017-02-22"
+last_updated: "2021-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY ESTATAL DE COORDINACION DE SANIDAD VEGETAL DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEXTO DE LA LEY DE SANIDAD E INOCUIDAD VEGETAL DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 22 DE MAYO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ESTATAL DE COORDINACIÓN DE SANIDAD VEGETAL DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021 (ABROGADO)
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 7 de marzo de 2015.
 
@@ -890,3 +892,31 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. DE 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/EXLEY/1003/2021 II P.O., MEDIANTE EL CUAL SE EXPIDE LA LEY DE SANIDAD E INOCUIDAD VEGETAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Rural, expedirá el Reglamento de la presente Ley en un plazo de 180 días hábiles, a partir de la fecha en que entre en vigor el presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Rural, constituirá el Fondo Estatal para el Desarrollo de Actividades de Sanidad e Inocuidad Vegetal, en un plazo no mayor a 180 días hábiles, a partir de la fecha en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado, por conducto de las Secretarías de Desarrollo Rural, de Salud y General de Gobierno, expedirá los Reglamentos adicionales en un plazo no mayor a 360 días naturales, que permitan la correcta aplicación de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado, por conducto de las Secretarías de Hacienda y de Desarrollo Rural, deberá etiquetar cada año los recursos económicos necesarios para la aplicación de la Ley de Sanidad e Inocuidad Vegetal del Estado de Chihuahua.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga la Ley Estatal de Coordinación de Sanidad Vegetal de Chihuahua, publicada en el Periódico Oficial del Estado No. 19 del 7 de marzo de 2015.
