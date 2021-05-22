@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2020-02-15"
+last_updated: "2021-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -262,6 +262,14 @@ VI.- La contratación preferentes (sic) de contratistas locales; así como, la u
 VII.- Las medidas necesarias para la preservación y restauración de la obra pública, para el caso de que esta se deteriore, contemplando para ello de ser posible la utilización de tecnología nacional, preferentemente la existente en el Estado.
 
 Los Ayuntamientos para la planeación de sus obras en los términos anteriores, podrán recibir asesoría del COPLADE o de las Dependencias y Entidades del Ejecutivo que sean competentes.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2021)</small>
+
+###### Artículo 18 Bis.
+
+Las nuevas construcciones o edificaciones con techumbres o techos mayores de cuatrocientos metros cuadrados, deberán contar con sistemas de captación de agua pluvial y cisterna para su almacenamiento con una capacidad de veinte mil metros cúbicos, además de una red de distribución, para ser utilizada opcionalmente en sanitarios y jardines, a fin de ahorrar agua potable, contribuir al equilibrio ecológico y reducir los efectos adversos del calentamiento global.
+
+Los ayuntamientos deberán regular en sus disposiciones normativas la incorporación obligatoria de sistemas de captación de agua de lluvia y su almacenamiento en las obras que autorice, en término de lo dispuesto en el párrafo anterior.
 
 ###### Artículo 19.
 
@@ -1574,3 +1582,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 CUARTO. En un término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán expedir los formatos y procedimientos a que hace referencia la fracción II del artículo 102 de la Ley Estatal de Planeación.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2445.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 18 BIS A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación; Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los Ayuntamientos contarán con 60 días después de que entre en vigor el presente Decreto, para actualizar su norma respectiva.
