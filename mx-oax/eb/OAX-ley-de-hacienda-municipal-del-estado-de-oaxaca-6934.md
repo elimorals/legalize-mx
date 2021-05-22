@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "2019-09-07"
+last_updated: "2021-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -287,11 +287,11 @@ Queda prohibida la condonación del impuesto predial y sus accesorios respectivo
 
 Los notarios, jueces y demás servidores públicos autorizados por la Ley para dar fe pública, no autorizarán ningún contrato o acto que tenga por objeto la enajenación o gravamen de un inmueble o derechos reales sobre el mismo, mientras no se les compruebe con el certificado respectivo que están al corriente en el pago del impuesto predial.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
 ###### ARTICULO 20.
 
-Los notarios o las autoridades ante quienes se celebren contratos o actos por virtud de los cuales se transmita la propiedad o la posesión de un predio, están obligados a dar aviso al Instituto de Catastro del Estado dentro del término de 30 días siguientes a la fecha de la celebración del acto o contrato respectivo.
+Los notarios o las autoridades ante quienes se celebren contratos o actos por virtud de los cuales se transmita la propiedad o la posesión de un predio, están obligados a dar aviso al Instituto Catastral del Estado de Oaxaca, dentro del término de 30 días siguientes a la fecha de la celebración del acto o contrato respectivo.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
@@ -299,11 +299,11 @@ Los notarios o las autoridades ante quienes se celebren contratos o actos por vi
 
 En el caso de construcciones o de contratos no manifestados, se hará el cobro de diferencias resultantes del impuesto por los cinco años anteriores a la fecha del descubrimiento de la ocultación, salvo que el interesado pruebe que la omisión data de fecha posterior.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
 ###### ARTICULO 22.
 
-Para los efectos del impuesto predial, el contribuyente está obligado a manifestar su domicilio ante el Instituto de Catastro del Estado, dentro de los 30 días siguientes a la fecha en que adquiera el carácter de contribuyentes. En caso de no cumplir con esta obligación se tendrá como domicilio, para todos los efectos legales, el lugar donde se le localice y en defecto de éste el de la ubicación del predio si no es baldío; de serlo, será notificado por edictos publicados en el Periódico Oficial del Estado.
+Para los efectos del impuesto predial, el contribuyente está obligado a manifestar su domicilio ante el Instituto Catastral del Estado de Oaxaca, dentro de los 30 días siguientes a la fecha en que adquiera el carácter de contribuyentes (sic). En caso de no cumplir con esta obligación se tendrá como domicilio, para todos los efectos legales, el lugar donde se le localice y en defecto de éste el de la ubicación del predio si no es baldío; de serlo, será notificado por edictos publicados en el Periódico Oficial del Estado.
 
 ### CAPITULO II. IMPUESTO SOBRE TRASLACION DE DOMINIO
 
@@ -1772,3 +1772,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2444.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 20 Y 22 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
