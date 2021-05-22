@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2021-05-15"
+last_updated: "2021-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -555,6 +555,10 @@ IV. El nombre que le asignen los padres o persona distinta que presente al regis
 
 V. El primer apellido de cada uno de los progenitores, dejando a su elección y común acuerdo el Orden en que deban asentarse los apellidos, si ambos progenitores se presentaren al reconocimiento, o los apellidos del que se presente.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2021)</small>
+
+Tratándose de registro de nacimiento de niña y niños cuya madre haya fallecido con motivo del parto o cesárea, se tomará el certificado de nacimiento suscrito por medico o medica autorizado para el ejercicio de su profesión o persona que haya asistido al parto, en el formato expedido para tal efecto por la Secretaría de Salud, y de encontrarse asentado el nombre de la madre, se anotará este en el registro de nacimiento solicitando además el acta de defunción de esta.
+
 VI. Si lo presentare persona distinta, se le pondrán al registrado el nombre y los apellidos que ésta determine;
 
 VII. La razón de si se ha presentado vivo o muerto;
@@ -569,11 +573,11 @@ X. El nombre, edad, ocupación, domicilio y nacionalidad de la persona distinta 
 
 En todos los casos que se requiera, el Oficial del Registro Civil está obligado a registrar en el acta de nacimiento el nombre solicitado, con estricto apego a las formas orales, funcionales y simbólicas de comunicación pertenecientes a las lenguas indígenas.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2021)</small>
 
 ###### Artículo 69.
 
-Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio de sus padres, salvo sentencia judicial definitiva en contrario, se asentarán como progenitores a los cónyuges.
+Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio de sus padres se asentará como progenitores a los cónyuges; si el padre o la madre no pudiere concurrir, se asentarán los apellidos en el orden que hayan acordado los progenitores median documento expreso que así lo acredite, acuerdo que se presumirá fue realizado de buena fe, o bien, el orden de los apellidos que elija el progenitor que subsista salvo sentencia judicial definitiva en contrario.
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -2071,9 +2075,11 @@ III. Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsi
 
 IV. Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+
 ###### Artículo 275.
 
-Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomarán las precauciones a que se refiere el capítulo I del título quinto del libro tercero.
+Si al declararse la nulidad del matrimonio la mujer estuviere embarazada, se tomarán las precauciones a que se refiere el capítulo I del título quinto del libro tercero.
 
 ###### Artículo 276.
 
@@ -2171,7 +2177,9 @@ III. Establecer las modalidades del derecho de visita o convivencia de las perso
 
 IV. Señalar y asegurar los alimentos que debe dar el cónyuge obligado al cónyuge acreedor y a los hijos.
 
-V. Dictar, en su caso, las medidas precautorias que la ley establece respecto de la mujer que quede encinta;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2021)</small>
+
+V. Dictar, en su caso, las medidas precautorias que la ley establece respecto de la mujer que quede embarazada;
 
 VI. Dictar las medidas necesarias para que los cónyuges no se causen daños o perjuicios en sus personas ni en sus bienes, ni en los de la sociedad conyugal; bienes o derechos de sus hijos;
 
@@ -3007,27 +3015,11 @@ REFORMADO, P.O. 7 DE FEBRERO DE 1998)
 
 El matrimonio subsecuente de los padres, hace que se tengan como nacidos de matrimonio a los hijos habidos antes de su celebración.
 
-###### Artículo 368.
-
-Para que el hijo goce del derecho que le concede el artículo que precede, los padres deben reconocerlo expresamente antes de la celebración del matrimonio, en el acto mismo de celebrarlo, o durante él, haciendo en todo caso el reconocimiento ambos padres, junta o separadamente.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
 ###### Artículo 388.
 
-El hijo o hija biológica de un hombre casado o una mujer casada podrá ser reconocido como hijo o hija por persona distinta del marido o mujer, aun cuando éstos no lo hayan desconocido, si presenta cualquiera de los siguientes documentos:
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-I. Prueba pericial en genética molecular del ácido desoxirribonucleico o ADN, en la que resulte la compatibilidad genética entre el menor a registrar y quien se atribuya la paternidad o maternidad;
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-II. Constancia municipal de cohabitación con un mínimo de un año ininterrumpido anterior a la fecha de nacimiento del menor a registrar.
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-III. Sentencia ejecutoriada.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+se presume hija o hijo de la madre, las niñas y niños cuya madre haya fallecido con motivo del parto o cesárea, por lo que se tomará el certificado de nacimiento suscrito por médico o medica autorizado para el ejercicio de su profesión, o persona que haya asistido al parto, en el formato expedido para tal efecto por la Secretaría de Salud, para asentar el nombre de la madre en el registro de nacimiento.
 
 ###### Artículo 369.
 
@@ -3041,9 +3033,11 @@ Aunque el reconocimiento sea posterior a la celebración del matrimonio, los hij
 
 Pueden gozar también del derecho que les concede el artículo 367, los hijos que dejaren descendientes, si hubieren fallecido antes de celebrarse el matrimonio de sus padres.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+
 ###### Artículo 372.
 
-Pueden gozar también del mismo derecho, los hijos no nacidos, si el padre al casarse declara que reconoce al hijo de quien la mujer está encinta, o que lo reconoce si aquélla estuviere encinta.
+Pueden gozar también del mismo derecho, los hijos no nacidos, si el padre al casarse declara que reconoce al hijo de quien la mujer está embarazada, o que lo reconoce si aquélla estuviere embarazada.
 
 > <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
@@ -3128,6 +3122,24 @@ El Oficial del Registro Civil, el Juez de Primera Instancia en su caso, o el Not
 El padre o la madre podrán reconocer al hijo o hija nacidos antes o fuera del matrimonio de aquéllos; y el marido podrá reconocer al habido durante éste; pero no tendrá derecho de llevarlo a vivir al domicilio conyugal, si no es con el consentimiento expreso de la cónyuge.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 388.
+
+El hijo o hija biológica de un hombre casado o una mujer casada podrá ser reconocido como hijo o hija por persona distinta del marido o mujer, aun cuando éstos no lo hayan desconocido, si presenta cualquiera de los siguientes documentos:
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+I. Prueba pericial en genética molecular del ácido desoxirribonucleico o ADN, en la que resulte la compatibilidad genética entre el menor a registrar y quien se atribuya la paternidad o maternidad;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+II. Constancia municipal de cohabitación con un mínimo de un año ininterrumpido anterior a la fecha de nacimiento del menor a registrar.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+III. Sentencia ejecutoriada.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 389.
 
@@ -8883,9 +8895,9 @@ Artículo 1502 Bis B.- Si al morir el autor de la herencia, comparece más de un
 
 Artículo 1502 Bis C.- El concubino en su caso y la concubina, por si y en representación del hijo habido con el autor de la sucesión, o la madre del menor con derecho a investigar su paternidad, pueden deducir las acciones respectivas dentro del juicio universal, sin necesidad de procedimientos judicial previo.
 
-### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda quede encinta
+### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda quede embarazada
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
 ###### Artículo 1503.
 
@@ -8897,19 +8909,29 @@ Cuando sea heredera la Beneficencia Pública del Estado y entre lo que correspon
 
 ## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítimas
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2021)</small>
+
 ### CAPITULO II. Del derecho de acrecer
 
 ###### Artículo 1505.
 
-Cuando a la muerte del marido la viuda quede o cree quedar encinta, debe ponerlo dentro de cuarenta días en conocimiento del Juez para que lo notifique a los interesados en la sucesión. En la misma forma debe proceder la concubina a la muerte del concubino.
+Cuando a la muerte del marido la viuda quede o cree quedar embarazada, debe ponerlo dentro de cuarenta días en conocimiento del Juez o Jueza para que lo notifique a los interesados en la sucesión. En la misma forma debe proceder la concubina a la muerte del concubino.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
 ###### Artículo 1506.
 
-Los interesados podrán pedir al juez que se proceda oportuna y decorosamente a la averiguación de la preñez.
+Los interesados podrán pedir al Juez o Jueza que se proceda oportuna y decorosamente a la averiguación del embarazo.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
 ###### Artículo 1507.
 
-Aunque resulte cierta la preñez o los interesados no la contradigan, podrán pedir al juez que dicte las providencias convenientes para evitar la suposición del parto, o que el hijo que nazca pase como viable no siéndolo en realidad.
+Aunque resulte cierto el embarazo o los interesados no la contradigan, podrán pedir al Juez o Jueza que dicte las providencias convenientes para evitar la suposición del parto, o que el hijo que nazca pase como viable no siéndolo en realidad.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+
+Artículo·1508.·Cuando el resultado de la averiguación fuere contrario a la certeza del embarazo, y la viuda insista en que aquélla es verdadera, podrá pedir al Juez o Jueza que, con audiencia de los interesados le señale una casa decente donde sea guardada a vista y con todas las precauciones necesarias, hasta que llegue el tiempo natural del parto.
 
 ###### Artículo 1508.
 
@@ -8919,29 +8941,37 @@ Cuando el resultado de la averiguación fuere contrario a la certeza de la preñ
 
 Los interesados pueden pedir en cualquier tiempo que se repita la averiguación.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+
 ###### Artículo 1510.
 
-Si el marido reconoció en instrumento público o privado la certeza de la preñez de su consorte, no podrá procederse a la averiguación; pero los interesados podrán pedir que se practiquen las diligencias de que habla el artículo 1506.
+Si el marido reconoció en instrumento público o privado la certeza del embarazo de su consorte, no podrá procederse a la averiguación; pero los interesados podrán pedir que se practiquen las diligencias de que habla el artículo 1506.
 
-###### Artículo 1511
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
-La viuda encinta, aun cuando tenga bienes, debe ser alimentada competentemente de los bienes de la sucesión.
+###### Artículo 1511.
+
+La viuda embarazada, aun cuando tenga bienes, debe ser alimentada competentemente de los bienes de la sucesión.
 
 ###### Artículo 1512.
 
 Si la viuda no da aviso al juez o no observa las medidas dictadas por él, podrán los interesados negarle los alimentos, cuando tenga bienes.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+
 ###### Artículo 1513.
 
-Si por averiguaciones posteriores resultare cierta la preñez, se deberán abonar los alimentos que hubieren dejado de pagarse.
+Si por averiguaciones posteriores resultare cierto el embarazo, se deberán abonar los alimentos que hubieren dejado de pagarse.
 
 ###### Artículo 1514.
 
 La omisión de la madre no perjudica a la legitimidad del hijo, si por otros medios legales puede acreditarse.
 
-###### Artículo 1515.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
-La viuda no debe devolver los alimentos recibidos, aun cuando haya habido aborto o no resultare cierta la preñez, salvo el caso en que ésta hubiere sido contradicha por la información pericial.
+###### Articulo 1515.
+
+La viuda no debe devolver los alimentos recibidos, aun cuando haya habido aborto o no resultare cierto el embarazo, salvo el caso en que ésta hubiere sido contradicha por la información pericial.
 
 ###### Artículo 1516.
 
@@ -16910,3 +16940,17 @@ P.O. 15 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2421.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 222 Y LAS FRACCIONES I Y II DEL ARTÍCULO 384 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1635.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 275; LA FRACCIÓN V DEL ARTÍCULO 284 BIS; EL ARTÍCULO 372; LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO QUINTO DEL LIBRO TERCERO; EL ARTÍCULO 1505; El ARTÍCULO 1506; EL ARTÍCULO 1507; EL ARTÍCULO 1508; EL ARTÍCULO 1510; EL ARTÍCULO 1511; EL ARTÍCULO 1513; Y EL ARTÍCULO 1515, DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial de Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 2471.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 69; EL ARTÍCULO 338 Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 68 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese el en Periódico Oficial del Gobierno del Estado de Oaxaca.
