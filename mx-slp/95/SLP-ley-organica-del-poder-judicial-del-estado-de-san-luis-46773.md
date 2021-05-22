@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2021-05-20"
+last_updated: "2021-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -87,9 +87,11 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
 El Poder Judicial del Estado de San Luis Potosí es autónomo y desarrolla sus funciones en los términos que establecen la Constitución Política del Estado y la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2021)</small>
+
 ###### ARTICULO 2º.
 
-El Poder Judicial administrará en forma autónoma e independiente de cualquier otro poder, su presupuesto de egresos, que anualmente le será entregado en la forma y términos que prevenga la ley de la materia.
+El Poder Judicial administrará en forma autónoma e independiente de cualquier otro poder, su presupuesto de egresos, que anualmente le será entregado en la forma y términos que prevenga la ley de la materia, promoviendo prácticas sustentables en cuanto al uso del papel; energías limpias; ahorro de agua; y energía; y, en general, el desarrollo de programas que fomenten mejores prácticas en materia de aprovechamiento de insumos, así como el implemento de la digitalización como medida de optimización del uso de recursos.
 
 Asimismo, podrá formar un fondo de apoyo para el mejoramiento de la administración de justicia, que se integrará en términos de lo dispuesto en la presente Ley.
 
@@ -2644,6 +2646,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1177.- SE ADICIONA AL ARTÍCULO 12 EL PÁRRAFO SEGUNDO, A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1178.- SE REFORMA EL ARTÍCULO 2° EN SU PÁRRAFO PRIMERO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ."]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
