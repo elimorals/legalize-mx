@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-y-apoyo-a-migrantes-y-sus-familias-para-11577
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-23"
-last_updated: "2019-05-15"
+last_updated: "2021-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN Y APOYO A MIGRANTES PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de julio de 2016.
 
@@ -231,11 +231,17 @@ Por cada miembro propietario habrá un suplente.
 
 El Presidente del Consejo podrá invitar a las sesiones del mismo, a representantes de instituciones privadas o públicas federales, estatales o municipales, que guarden relación con el objeto del Consejo, quienes participarán solamente con derecho a voz.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2021)</small>
+
+Una persona representante de la Comisión Estatal de los Derechos Humanos será invitada permanente en las sesiones del Consejo y asistirá con derecho a voz.
+
 ###### Artículo 20.
 
 El Consejo tendrá las siguientes atribuciones:
 
-I.- Evaluar las acciones, políticas y programas estatales en materia de atención a migrantes.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2021)</small>
+
+I.- Evaluar las acciones, políticas, programas y campañas en materia de atención a migrantes.
 
 II.- Organizar y promover, ante las instancias competentes, la realización de estudios referentes al fenómeno migratorio y sobre nuevos esquemas de atención y protección de migrantes.
 
@@ -261,9 +267,11 @@ Para que el Consejo pueda sesionar se requerirá la asistencia de la mayoría de
 
 Los acuerdos que tome el Consejo serán por mayoría de votos de los presentes en las reuniones respectivas. En caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2021)</small>
+
 ###### Artículo 24.
 
-El Consejo sesionará, ordinariamente, cada seis meses y podrá celebrar las sesiones extraordinarias que sean necesarias, a juicio de la Presidencia.
+El Consejo sesionará, ordinariamente, cada dos meses y podrá celebrar las sesiones extraordinarias que sean necesarias, a juicio de la Presidencia.
 
 En ambos casos, la convocatoria se notificará a los integrantes del Consejo, por conducto del Secretario Ejecutivo, por lo menos con cinco días hábiles de anticipación a la fecha de su celebración, en los términos y condiciones que señale el Reglamento de esta Ley.
 
@@ -320,3 +328,15 @@ P.O. 15 DE MAYO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVI/RFLEY/1005/2021 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y APOYO A MIGRANTES PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo deberá reunirse dentro de los treinta días posteriores a la entrada en vigor del presente Decreto, para realizar las adecuaciones que corresponda (sic).
