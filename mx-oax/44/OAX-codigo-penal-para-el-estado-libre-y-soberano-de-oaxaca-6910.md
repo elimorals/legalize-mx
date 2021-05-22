@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2021-05-15"
+last_updated: "2021-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3119,9 +3119,9 @@ Prescripción.
 
 122.- La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad que señala la ley para el delito de que se trate, pero en ningún caso será menor de tres años.
 
-> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O.22 DE MAYO DE 2021)</small>
 
-122 Bis.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 241, 241 BIS, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
+122 BIS.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 202, 241, 241 BIS, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
@@ -3573,15 +3573,43 @@ III.- Si el sujeto activo es ministro de un culto religioso.
 
 198.- Los sujetos activos de los delitos a que se refiere este capítulo quedarán inhabilitados para ser tutores o curadores.
 
-199.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2021)</small>
 
-200.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
+199.- A quien de forma intencional cause cualquier daño o maltrato, agreda, denoste o humille a una niña, niño o adolescente menor de dieciocho años, causándole alguna alteración en la salud, desarrollo o dignidad se le impondrá una pena de tres a siete años de prisión y de veinte a doscientas jornadas de trabajo a favor de la comunidad, con independencia de las penas que correspondan en su caso, por la comisión de otros delitos.
+
+Quien además de lo establecido en el párrafo anterior, por cualquier medio divulgue, comparta, distribuya, publique audios o videos en los que se cometa la conducta descrita en el párrafo anterior, se le aumentará en una mitad del mínimo a una mitad del máximo de la pena establecida en el presente artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2021)</small>
+
+200.- Para los efectos del artículo anterior, la autoridad ordenará a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado el contenido referido en el artículo anterior, el retiro inmediato de la publicación que se realizó.
 
 200 Bis.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 
 201.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 
-202.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
+> <small>(ADICIONADO, P.O.22 DE MAYO DE 2021)</small>
+
+### CAPITULO IV. (SIC). Pederastia
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O.22 DE MAYO DE 2021)</small>
+
+202.- Comete el delito de pederastia, quien provechándose de la confianza, subordinación o superioridad que tiene sobre un menor de catorce años, en razón del parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole, ejecute u obligue, le induzca o convenza a ejecutar para sí o para otras personas cualquier acto sexual distinto a la cópula o le haga observar un acto sexual por cualquier medio con o sin su consentimiento.
+
+A quien cometa el delito de pederastia se le impondrá de doce a veinte años de prisión y multa de mil a cinco mil veces la unidad de medida y actualización vigente.
+
+La pena se aumentará en una mitad del mínimo y en una mitad del máximo cuando;
+
+I. El sujeto activo hiciera uso de violencia física o moral;
+
+II. Se cometa en contra de una persona que no tenga la capacidad de comprender el significado del hecho o para resistirlo; o
+
+III. Se hubiere administrado a la víctima alguna sustancia tóxica.
+
+Además de las anteriores penas, el autor del delito perderá, en su caso, la patria potestad, la tutela, la curatela, la adopción, el derecho de alimentos y el derecho que pudiera tener respecto de los bienes de la víctima, en términos de la legislación civil.
+
+Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de las penas antes señaladas, será inhabilitado, destituido o suspendido, de su empleo público o profesión por un término igual a la pena de prisión impuesta.
+
+A los autores y participes del delito previsto en este articulo no se les concederá ningún beneficio preliberaciónal en ejecución de sentencia. Este delito será imprescriptible.
 
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -3601,6 +3629,12 @@ II. Si el sujeto activo del delito tiene parentesco por consanguinidad o afinida
 
 III. Si el sujeto activo es ministro de un culto religioso.
 
+## TITULO SEXTO.
+
+Delitos contra la dignidad y el desarrollo de las personas Menores de edad o de quienes no tienen la capacidad Para comprender el significado del hecho.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
+
 ### CAPITULO UNICO.
 
 203.- Se aplicará multa de cien a tres mil pesos o prisión de dos meses a un año, al que sin justa causa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada, que conoce o ha recibido con motivo de su empleo, cargo o puesto.
@@ -3608,12 +3642,6 @@ III. Si el sujeto activo es ministro de un culto religioso.
 204.- Se aplicará prisión de uno a cinco años, multa de doscientos a tres mil pesos y suspensión de profesión, en su caso, de dos meses a un año, al que con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce por virtud de servicios personales o técnicos prestados, o cuando el secreto revelado o publicado sea de carácter industrial.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-## TITULO SEXTO.
-
-Delitos contra la dignidad y el desarrollo de las personas Menores de edad o de quienes no tienen la capacidad Para comprender el significado del hecho.
-
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
 ### CAPITULO I.
 
@@ -3680,6 +3708,10 @@ A quien cometa los delitos previstos en las fracciones II, III, VIII y IX, se le
 A quien cometa los delitos previstos en las fracciones I, IV, V, VI y VII, se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta días multa.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+## TITULO SEPTIMO.
+
+Revelación de secretos.
 
 ### CAPITULO II.
 
@@ -3773,9 +3805,11 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-## TITULO SEPTIMO.
+## TITULO OCTAVO.
 
-Revelación de secretos.
+Delitos por hechos de corrupción.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ### CAPITULO III.
 
@@ -3820,12 +3854,6 @@ Al que cometa el delito de abuso de autoridad en los términos previstos por las
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones II y IV de este artículo, en relación con las órdenes de protección de emergencia y las órdenes de protección preventivas por violencia contra las mujeres, se le impondrá de tres a diez años de prisión, de cien hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos. Si la autoridad omitiera emitir las órdenes de protección mencionadas, y con su omisión se llegase a cometer un delito contra la víctima, se tendrá su conducta como dolosa.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-## TITULO OCTAVO.
-
-Delitos por hechos de corrupción.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -4173,6 +4201,10 @@ V.- El que haga uso de una certificación verdadera expedida para otro, como si 
 
 VI.- El que a sabiendas gestione, obtenga o haga uso para sí o para otro, de un documento falso, sea público o privado.
 
+## TITULO NOVENO.
+
+Responsabilidad Profesional.
+
 ### CAPITULO III.
 
 Falsedad en declaraciones judiciales o en informes dados a una Autoridad.
@@ -4204,10 +4236,6 @@ IV.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2003)
 En caso de reincidencia se impondrá de dos a cuatro años de prisión y multa de quinientos a mil días multa.
 
 Si la conducta del infractor provoca un accidente o daños se impondrá de tres a cinco años de prisión y multa de quinientos a mil días multa.
-
-## TITULO NOVENO.
-
-Responsabilidad Profesional.
 
 ### CAPITULO IV.
 
@@ -4261,6 +4289,10 @@ Las penas previstas en este capítulo se impondrán con independencia de las que
 
 232 Bis B.- Los delitos comprendidos en este capítulo serán perseguidos por querella de parte ofendida o legítimo representante.
 
+## TITULO DECIMO.
+
+Falsedad.
+
 ### CAPITULO V.
 
 Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones y uniformes.
@@ -4274,10 +4306,6 @@ I.- Al que, sin ser funcionario público, se atribuya ese carácter y ejerza alg
 II.- Al que se atribuye el carácter de profesionista sin tener título legal y ejerza los actos propios de la profesión;
 
 III.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
-
-## TITULO DECIMO.
-
-Falsedad.
 
 ### CAPITULO VI.
 
@@ -4427,17 +4455,21 @@ II.- Se hiciere uso de violencia física o moral; y
 
 III.- Se hubiera administrado a la víctima alguna sustancia tóxica.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+> <small>(ADICIONADA, P.O.22 DE MAYO DE 2021)</small>
 
-Cuando el delito fuere cometido contra una persona menor de doce años, incapaz o cuando se realice en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena será de ocho a quince años de prisión y multa de trescientos a setecientas veces el valor diario de la unidad de medida y actualización. A los autores y partícipes del delito previsto en este párrafo no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
+IV.- El delito fuere cometido en contra de una persona mayor de catorce años y menor de dieciocho años de edad o que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; o
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O.22 DE MAYO DE 2021)</small>
 
-Cuando el delito fuere cometido por un servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo primero, será inhabilitado, destituido o suspendido, de su empleo público o profesión.
+V.- Sea cometido dentro de centros educativos, culturales, deportivos, religiosos o de trabajo;
 
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O.22 DE MAYO DE 2021)</small>
 
-Este delito se perseguirá por querella de la parte ofendida, salvo que se trate de una persona menor de edad será oficiosa.
+> <small>(REFORMADO, P.O.22 DE MAYO DE 2021)</small>
+
+Cuando el delito fuere cometido por un servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena de prisión impuesta, será inhabilitado, destituido o suspendido, de su empleo público o profesión, por un tiempo igual al que dure la pena de prisión impuesta. A los autores y. participes del delito previsto en este artículo no se les concederá ningún beneficio preliberacional en ejecución de sentencia.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O.22 DE MAYO DE 2021)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -5603,6 +5635,12 @@ VII. Se ejecute por personas que utilicen armas de fuego o explosivos en su comi
 
 375.- Sin en la comisión del delito de abigeato, se ejecutan otros delitos, se aplicarán las reglas de acumulación.
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO III.
 
 Abuso de Confianza.
@@ -5636,12 +5674,6 @@ III.- El hecho de que una persona haga aparecer como suyo un depósito que garan
 Los delitos previstos en este Capítulo se perseguirán por querella.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 ### CAPITULO III BIS.
 
@@ -6095,40 +6127,6 @@ Las anteriores sanciones se impondrán con independencia de otros delitos que se
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)</small>
 
-### CAPITULO IV. Discriminación
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
-
-412 BIS.- Comete el delito de discriminación quien por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, embarazo, opiniones políticas o de cualquier otra índole, que atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
-
-I. Provoque o incite al odio o a la violencia;
-
-II. Niegue a una persona un servicio o una prestación a la que tenga derecho;
-
-III. Veje o excluya a persona alguna o grupo de personas;
-
-IV. Niegue o restrinja derechos laborales, principalmente por razón de género o embarazo; o limite un servicio de salud, principalmente a la mujer en relación con el embarazo; o
-
-V. Niegue o restrinja derechos educativos.
-
-Al responsable se le impondrá la sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y hasta doscientos días multa.
-
-> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2020)</small>
-
-Cuando las conductas a que se refiere este artículo sean cometidas en contra de médicos, cirujanos, personal de enfermería y demás profesionistas similares y auxiliares o de cualquier personal de salud del sector privado o público que presten sus servicios en el Estado, durante el período que comprenda la declaración de una emergencia sanitaria, la pena de prisión se incrementará en una mitad o de doscientos veinticinco a cuatrocientos cincuenta días de trabajo a favor de la comunidad y hasta cuatrocientos días multa.
-
-Al servidor público que, por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación a que tenga derecho se le aumentará en una mitad la pena prevista en el segundo párrafo del presente artículo, y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
-
-No serán consideradas discriminatorias todas aquellas medidas tendentes a la protección de los grupos socialmente desfavorecidos.
-
-Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que la víctima tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
-
-Asimismo, se incrementará en una mitad la pena cuando los actos discriminatorios limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
-
-Este delito se perseguirá por querella.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
 ###### Artículo 412.
 
 A quien cometa el delito de feminicidio se le impondrá una sanción de cincuenta a sesenta años de prisión y multa de quinientos a mil veces el valor diario de la unidad de medida y actualización.
@@ -6154,6 +6152,62 @@ Cuando la víctima sea niña, adolescente, persona adulta mayor, persona con dis
 En caso de no tener elementos suficientes del feminicidio, se judicializará por el delito de homicidio simple o calificado, según lo determine el Ministerio Público.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2020)</small>
+
+### CAPITULO IV. Discriminación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2021)</small>
+
+412 BIS.- Comete el delito de discriminación quien por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, discapacidad, embarazo, opiniones políticas o de cualquier otra índole, que atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+I. Provoque o incite al odio o a la violencia;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+II. Niegue a una persona un servicio o una prestación a la que tenga derecho;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+III. Veje o excluya a persona alguna o grupo de personas;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+IV. Niegue o restrinja derechos laborales, principalmente por razón de género o embarazo; o limite un servicio de salud, principalmente a la mujer en relación con el embarazo; o
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+V. Niegue o restrinja derechos educativos.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Al responsable se le impondrá la sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y hasta doscientos días multa.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2020)</small>
+
+Cuando las conductas a que se refiere este artículo sean cometidas en contra de médicos, cirujanos, personal de enfermería y demás profesionistas similares y auxiliares o de cualquier personal de salud del sector privado o público que presten sus servicios en el Estado, durante el período que comprenda la declaración de una emergencia sanitaria, la pena de prisión se incrementará en una mitad o de doscientos veinticinco a cuatrocientos cincuenta días de trabajo a favor de la comunidad y hasta cuatrocientos días multa.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Al servidor público que, por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación a que tenga derecho se le aumentará en una mitad la pena prevista en el segundo párrafo del presente artículo, y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+No serán consideradas discriminatorias todas aquellas medidas tendentes a la protección de los grupos socialmente desfavorecidos.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que la víctima tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Asimismo, se incrementará en una mitad la pena cuando los actos discriminatorios limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Este delito se perseguirá por querella.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ### CAPITULO V. Violencia Política
 
@@ -6215,46 +6269,6 @@ Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-### CAPITULO PRIMERO. De la Crueldad Animal y la Agonía
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
-
-419.- Se castigará con cárcel de tres meses a dos años y con multa de 100 a 1000 veces el valor de la Unidad de Medida y Actualización vigente a quien:
-
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-I. Dolosamente realice actos de sufrimiento que no lleven a una muerte inmediata del animal vertebrado.
-
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-II. Cause lesiones que pongan en peligro la vida del animal vertebrado.
-
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-III. Cause lesiones y/o marcas de por vida que generen una agonía permanente para el animal vertebrado.
-
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
-
-419 Bis.- Se impondrá pena de seis meses a cinco años de prisión y el equivalente de doscientos a dos mil Unidades de Medida y Actualización a quien:
-
-l. Críe o entrene a un perro con el propósito de hacerlo participar en cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros para fines recreativos, de entretenimiento o de cualquier otra índole;
-
-II. Posea, transporte, compre o venda perros con el fin de involucrarlos en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros;
-
-III. Organice, promueva, anuncie, patrocine o venda entradas para asistir a espectáculos que impliquen peleas de perros;
-
-IV. Posea o administre una propiedad en la que se realicen peleas de perros con conocimiento de dicha actividad;
-
-V. Ocasione que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
-
-VI. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
-
-La sanción a que se hace mención en el párrafo anterior, se incrementará en una mitad cuando se trate de servidores públicos.
-
-Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
-
 ###### ARTÍCULO 388 Bis.
 
 Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
@@ -6297,6 +6311,46 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
+### CAPITULO PRIMERO. De la Crueldad Animal y la Agonía
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+419.- Se castigará con cárcel de tres meses a dos años y con multa de 100 a 1000 veces el valor de la Unidad de Medida y Actualización vigente a quien:
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
+
+I. Dolosamente realice actos de sufrimiento que no lleven a una muerte inmediata del animal vertebrado.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
+
+II. Cause lesiones que pongan en peligro la vida del animal vertebrado.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
+
+III. Cause lesiones y/o marcas de por vida que generen una agonía permanente para el animal vertebrado.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+419 Bis.- Se impondrá pena de seis meses a cinco años de prisión y el equivalente de doscientos a dos mil Unidades de Medida y Actualización a quien:
+
+l. Críe o entrene a un perro con el propósito de hacerlo participar en cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros para fines recreativos, de entretenimiento o de cualquier otra índole;
+
+II. Posea, transporte, compre o venda perros con el fin de involucrarlos en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros;
+
+III. Organice, promueva, anuncie, patrocine o venda entradas para asistir a espectáculos que impliquen peleas de perros;
+
+IV. Posea o administre una propiedad en la que se realicen peleas de perros con conocimiento de dicha actividad;
+
+V. Ocasione que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
+
+VI. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
+
+La sanción a que se hace mención en el párrafo anterior, se incrementará en una mitad cuando se trate de servidores públicos.
+
+Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
+
 ### CAPITULO SEGUNDO. De la Privación de la Vida
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
@@ -6309,6 +6363,10 @@ I. Dolosamente prive de la vida a un animal vertebrado.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
@@ -6320,10 +6378,6 @@ I. Dolosamente prive de la vida a un animal vertebrado.
 I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la utilización del animal con fines sexuales, quien practique actos de zoofilia con el animal, así mismo a quien venda, distribuya, exhiba o difunda material pornográfico donde se utilicen animales con fines sexuales.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO CUARTO. Excluyentes
 
@@ -6394,26 +6448,6 @@ II. Cuando las conductas delictivas sean realizadas por persona o personas que h
 III. Cuando los datos o información contenida en un sistema informático o electrónico, se refieran a datos personales o datos personales sensibles, en términos de lo dispuesto por la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
 
 ARTICULOS TRANSITORIOS:
-
-### CAPITULO CUARTO. Excluyentes
-
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-422.- Son excluyentes de responsabilidad de lo dispuesto en los artículos anteriores:
-
-I.- La muerte o mutilación de un animal vertebrado resultado de actividades licitas.
-
-II.- La muerte o mutilación de un animal vertebrado que constituya plaga.
-
-III.- La muerte o mutilación de un animal vertebrado por causa justificada ó cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos de la materia.
-
-IV.- El sacrificio de un animal vertebrado para consumo humano.
-
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-423.- Los delitos previstos en este título se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
 
@@ -7444,3 +7478,23 @@ P.O. 15 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2458.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN V, AL ARTÍCULO 248 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1579.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 412 BIS, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2424.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 199 Y 200 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O.22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2457.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 122 BIS, ADICIONA LA DENOMINACIÓN DELITO DEL CAPÍTULO IV "PEDERASTIA”, AL TÍTULO SEXTO DEL LIBRO SEGUNDO; REFORMA DEL ARTÍCULO 202; SE ADICIONAN LAS FRACCIONES IV Y V, Y SE DEROGAN LOS PÁRRAFOS TERCERO Y QUINTO DEL ARTÍCULO 241, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
