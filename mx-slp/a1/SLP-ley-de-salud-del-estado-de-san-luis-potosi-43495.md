@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2021-04-06"
+last_updated: "2021-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1226,6 +1226,10 @@ VII. Las demás que coadyuven a la salud materno-infantil.
 En materia de higiene escolar corresponde a la Secretaría de Salud del Estado, establecer las normas técnicas, reglamentos, lineamientos y demás disposiciones legales para proteger la salud de las y los educandos, y de la comunidad escolar de los centros educativos dependientes del Estado; las disposiciones aludidas deben incluir información sobre el ejercicio responsable de la sexualidad, salud reproductiva, así como medidas para la prevención del maltrato infantil y de la violencia de género y psicológica contra las mujeres. Las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas.
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación, que se establezcan entre las autoridades sanitarias estatales y educativas competentes.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2021)</small>
+
+En caso de que el paciente se encuentre realizando estudios de educación básica, y media superior, deberá recibir el acompañamiento técnico-pedagógico de las aulas hospitalarias, tanto en su estancia en el hospital, como durante su convalecencia en su hogar, para poder reintegrarlo al sistema educativo regular.
 
 ### CAPITULO VII. Servicios de Salud Reproductiva
 
@@ -4788,6 +4792,14 @@ TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decret
 P.O. 6 DE ABRIL DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1149.- SE REFORMA EL ARTÍCULO 23 EN SU FRACCIÓN X; Y ADICIONA AL MISMO ARTÍCULO 23 UNA FRACCIÓN, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1179.- SE ADICIONA AL ARTÍCULO 56 EL PÁRRAFO TERCERO, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
