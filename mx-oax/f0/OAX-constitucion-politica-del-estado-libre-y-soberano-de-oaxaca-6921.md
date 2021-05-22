@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2021-05-15"
+last_updated: "2021-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -105,9 +105,9 @@ Ninguna ley ni autoridad puede establecer la previa censura, ni coartar la liber
 
 No podrán ser encarcelados los expendedores, voceadores de periódicos operarios y demás empleados del establecimiento en que se haya impreso el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquellos.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
-El Estado garantizará y fomentará el derecho de acceso a las tecnologías de la información.
+El acceso a la ciencia y al adelanto tecnológico es un derecho común, así como un componente primordial del bienestar individual y social. Cualquier ciudadana y ciudadano tiene derecho al acceso, manejo y desarrollo de la ciencia, la tecnología y la innovación, de igual forma tienen derecho a gozar de los beneficios y al libre desarrollo de las transformaciones en apego a la ley.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -489,9 +489,9 @@ Las personas adultas mayores tienen derecho a un albergue decoroso e higiénico 
 
 El Estado promoverá lo necesario para que la población tenga acceso a una vivienda digna, a la asistencia médica y social, a la recreación y al deporte. En la asistencia médica y social se dará prioridad a los menores, a las personas de la tercera edad y discapacitados.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
-Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios culturales. El Estado garantizará su cumplimiento y promoverá el derecho a la creación y formación artística; la diversidad cultural de los individuos, comunidades y pueblos; la vinculación entre cultura y desarrollo sustentable; y la difusión y protección del patrimonio cultural, fomentando la participación social.
+Todo persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios culturales. El Estado garantizará su cumplimiento y promoverá el derecho a la creación y formación artística; la diversidad cultural de las personas, pueblos y comunidades indígenas y afromexicanas; la vinculación entre cultura y desarrollo sustentable; y la difusión y protección del patrimonio cultural, fomentando la participación social.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
 
@@ -525,7 +525,13 @@ Toda persona tiene derecho a la movilidad en condiciones de seguridad, accesibil
 
 Las autoridades adoptarán las medidas necesarias para asegurar el ejercicio de este derecho, especialmente en el uso del espacio vial en condiciones de equidad, así como garantizar el respeto de los derechos de los usuarios más vulnerables de la vía, el cual será adecuado a las necesidades sociales y ambientales del Estado.
 
-Toda persona dentro del territorio del Estado, tiene derecho a vivir en un medio ambiente sano para su desarrollo, salud y bienestar. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por las leyes.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+
+Toda persona tiene derecho a vivir dentro del territorio del Estado en un medio ambiente sano y en armonía con la naturaleza, para su desarrollo, salud y bienestar y disfrutar de manera responsable de la biodiversidad que en él se encuentra. El daño y deterioro a la naturaleza, medio ambiente y a su biodiversidad generará responsabilidad para quien lo provoque en términos de lo dispuesto por las leyes; por lo que se considera un deber ético de toda persona el respetarlos.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2021)</small>
+
+La naturaleza, el medio ambiente y su biodiversidad, son sujetos de derechos y tiene derecho a que se respete integralmente su existencia, mantenimiento y regeneración de sus ciclos vitales, estructura, funciones y procesos evolutivos. El Estado garantizará los derechos de la naturaleza, a ser respetado, preservado, protegido y restaurado íntegramente. Se considera deber ético de toda persona el respetar la naturaleza y (sic)
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
@@ -753,7 +759,9 @@ Tratándose de trabajadores no asalariados, la multa que se imponga por infracci
 
 El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
 
-La seguridad pública es una función a cargo del Estado y de los Municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Federal y esta Constitución.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+
+La seguridad pública es una función a cargo del Estado y de los Municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos con perspectiva de género, reconocidos en la Constitución Federal, esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte.
 
 Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales de los órdenes de gobierno estatal y municipal deberán coordinarse entre sí para cumplir los objetivos de la seguridad pública y conformarán el Sistema Estatal en la materia, debiendo coordinarse con las instituciones policiales del gobierno federal para formar parte del Sistema Nacional.
 
@@ -802,6 +810,10 @@ IV. (DEROGADA, P.O. 30 DE JUNIO DE 2015)
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
 
 V. Tratándose de los pueblos y comunidades indígenas, cumplir con las obligaciones, contribuciones y los cargos que la comunidad les señale conforme a los sistemas normativos indígenas.
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2021)</small>
+
+VI. Preservar, respetar y cuidar la naturaleza, el medio ambiente y la biodiversidad del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2791,11 +2803,13 @@ Como titular de la dependencia, estará una persona que se denominará Consejero
 
 El Poder Judicial se ejerce por el Tribunal Superior de Justicia, por los jueces de primera instancia y por los juzgados en materia laboral.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+Para lograr el acceso a la justicia, la actuación de las y los juzgadores deberá atender la perspectiva de género.
 
-El Poder Judicial administrará con autonomía su presupuesto, sin que pueda ser menor al ejercido en el año anterior. El Tribunal Superior de Justicia elaborará su propio proyecto de presupuesto y el Consejo de la Judicatura lo hará para el resto del Poder Judicial, con las excepciones dispuestas en esta Constitución, debiendo rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+
+El Poder Judicial administrará con autonomía su presupuesto, sin que pueda ser menor al ejercido en el año anterior. El Tribunal Superior de Justicia elaborará su propio proyecto de presupuesto y el Consejo de la Judicatura lo hará por el resto del Poder Judicial, con las excepciones dispuestas en esta Constitución, debiendo rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -5353,7 +5367,7 @@ TERCERO.- Con copia certificada del Decreto que se expida, notifíquese al Juzga
 
 P.O. 15 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 602.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 602.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSITITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -5649,7 +5663,7 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno E
 
 P.O. 13 DE FEBRERO DE 2021.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1794.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXX DEL ARTÍCULO 59; LA FRACCIÓN XXVII DEL ARTÍCULO 79; LA FRACCIÓN XVI DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 99; EL PRIMER PÁRRAFO DEL ARTÍCULO 102; LA DENOMINACIÓN DE LA SECCIÓN QUINTA DE LOS JUZGADOS EN MATERIA LABORAL DEL CAPÍTULO IV DEL TÍTULO CUARTO; EL ARTÍCULO 111 BIS; SE ADICIONA EL ARTÍCULO 21 BIS; Y SE DEROGA EL APARTADO B DEL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1794.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXX DEL ARTÍCULO 59; LA FRACCIÓN XXVII DEL ARTÍCULO 79; LA FRACCIÓN XVI DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 99; EL PRIMER PÁRRAFO DEL ARTÍCULO 102; LA DENOMINACIÓN DE LA SECCIÓN QUINTA DE LOS JUZGADOS EN MATERIA LABORAL DEL CAPÍTULO IV DEL TÍTULO CUARTO; EL ARTÍCULO 111 BIS; SE ADICIONA EL ARTÍCULO 21 BIS; Y SE DEROGA EL APARTADO B DEL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA"]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
@@ -5666,3 +5680,35 @@ P.O. 15 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2430.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 129 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación; Publíquese en el Periódico Oficial del Estado de Oaxaca.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 1766.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO TRIGÉSIMO PRIMERO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1767.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO OCTAVO DEL ARTÍCULO 21; Y SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 99 RECORRIÉNDOSE LOS SUBSECUENTES, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 2429.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO CUADRAGÉSIMO Y SE ADICIONA EL PÁRRAFO CUADRAGÉSIMO PRIMERO, RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación; Publíquese en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2474.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO DÉCIMO DEL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el (sic) en el Periódico Oficial del Estado de Oaxaca.
