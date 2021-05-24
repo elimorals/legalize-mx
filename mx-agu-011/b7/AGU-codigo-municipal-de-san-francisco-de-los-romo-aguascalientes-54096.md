@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2020-09-28"
+last_updated: "2021-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2021.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -405,9 +405,11 @@ VII. Por último el Presidente Municipal podrá dar a conocer los lineamientos g
 
 ### CAPITULO IV. De las Sesiones del H. Cabildo
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2021)</small>
+
 ###### ARTICULO 25.
 
-Se denomina H. Cabildo al H. Ayuntamiento en sesión. Las Sesiones del H. Ayuntamiento serán: ordinarias, extraordinarias, solemnes y secretas, conforme a la Ley Municipal para el Estado de Aguascalientes.
+Se denomina H. Cabildo al H. Ayuntamiento en sesión. Las Sesiones del H. Ayuntamiento serán: ordinarias, extraordinarias y solemnes, conforme a la Ley Municipal para el Estado de Aguascalientes.
 
 ###### ARTICULO 26.
 
@@ -439,13 +441,7 @@ V. El 15 de Septiembre de cada año.
 
 ###### ARTICULO 30.
 
-Las Sesiones Secretas serán aquellas en los que se traten asuntos que exijan reserva por su trascendencia o se traten de:
-
-I. Asuntos de carácter político, económico y social, así como asuntos internos del H. Ayuntamiento, o que exijan reserva de acuerdo a lo establecido en la Ley Municipal para el Estado de Aguascalientes;
-
-II. Asuntos de carácter secreto dirigidos al H. Ayuntamiento, por los Poderes Ejecutivo, Legislativo y Judicial, tanto Federal como Estatal, así como por otros Ayuntamientos; y
-
-III. Asuntos que a solicitud de uno o más Regidores o Síndico, acuerde el H. Ayuntamiento.
+(DEROGADO, P.O. 24 DE MAYO DE 2021)
 
 ###### ARTICULO 31.
 
@@ -2661,25 +2657,23 @@ Las adquisiciones de bienes muebles y servicios cuyo monto sea inferior a tres m
 
 Lo dispuesto en el presente Título, no será aplicable a los contratos que se celebren con otras dependencias de gobierno incluyendo los organismos descentralizados y desconcentrados, municipales, estatales y federales.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2021)</small>
+
 ###### ARTICULO 117.
 
 El Comité de Adquisiciones será integrado de la siguiente manera:
 
-I. El Presidente Municipal;
+l. El Director General de Finanzas y Administración, quien presidirá el Comité.
 
 II. El Regidor de Hacienda;
 
 III. El Síndico;
 
-IV. El Director General de Finanzas y Administración, quien fungirá como Secretario Ejecutivo;
+IV. El Contralor Municipal;
 
-V. El Contralor Municipal;
+V. Un representante de la Cámara Nacional de Comercio; y
 
-VI. Un representante de la Cámara Nacional de Comercio; y
-
-VII. Un representante de la Cámara Nacional de la Industria de la Transformación;
-
-Cada uno de los integrantes nombrará a un suplente, hecha excepción del Síndico.
+VI. Un representante de la Cámara Nacional de la Industria de la Transformación; Cada uno de los integrantes nombrará a un suplente, hecha excepción del Síndico.
 
 ###### ARTICULO 118.
 
@@ -4895,7 +4889,7 @@ Para que exista Quórum legal, se requiere la asistencia de al menos del cincuen
 
 ###### ARTICULO 367.
 
-Las sesiones tendrán el carácter de secretas, por lo tanto, no se permitirá el acceso a persona alguna, salvo que sea invitada de manera expresa por la Comisión.
+(DEROGADO, P.O. 24 DE MAYO DE 2021)
 
 ###### ARTICULO 368.
 
@@ -21464,3 +21458,17 @@ P.O. 28 DE SEPTIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL ARTÍCULO 25, ASÍ COMO LA DEROGACIÓN O SUPRESIÓN DE LOS ARTÍCULOS 30 Y 367 DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO EN LA ORGANIZACIÓN ADMINISTRATIVA Y FUNCIONAMIENTO DEL H. AYUNTAMIENTO".]
+
+PRIMERO.- La corrección del Artículo 25 al Código Municipal de San Francisco de los Romo es para su aplicación a partir de la fecha de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- La DEROGACION a los Artículos 30 y 367 al Código Municipal de San Francisco de los Romo es para su aplicación a partir de la fecha de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 117 DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO EN LA ORGANIZACIÓN ADMINISTRATIVA Y FUNCIONAMIENTO DEL H. AYUNTAMIENTO”.]
+
+UNICO.- La corrección del Artículo 117 al Código Municipal de San Francisco de los Romo es para su aplicación a partir de la fecha de su publicación en el Periódico Oficial del Estado de Aguascalientes.
