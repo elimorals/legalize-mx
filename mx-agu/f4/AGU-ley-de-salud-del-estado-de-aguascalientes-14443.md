@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2021-05-10"
+last_updated: "2021-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -2387,11 +2387,21 @@ El patrimonio de la beneficencia pública será administrado por el organismo cr
 
 ARTICULO 161 A.- Para ejecutar el programa nacional para la prevención y tratamiento de la farmacodependencia, estupefacientes y psicotrópicos, la Secretaría de Salud se coordinará con las instancias federales y municipales en el ámbito de sus respectivas competencias en términos de lo que establece la Ley General de Salud.
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2021)</small>
 
-ARTICULO 161 B.- La Secretaría de Salud, respetando los lineamientos de la Ley General de Salud y el programa nacional para la prevención y tratamiento de la farmacodependencia, elaborará el programa estatal para la prevención, tratamiento y control de las adicciones, el cual será de observancia obligatoria para los prestadores de servicios de salud en el Estado en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
+ARTICULO 161 B.- La Secretaría de Salud, respetando los lineamientos de la Ley General de Salud y el programa nacional para la prevención y tratamiento de la farmacodependencia, elaborará el programa estatal contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos, el cual será de observancia obligatoria para los prestadores de servicios de salud en el Estado en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia, considerando los siguientes aspectos:
 
-Las campañas de información y sensibilización que se difundan en el Estado deberán estar basadas en estudios científicos y alertar de manera adecuada sobre los efectos y daños físicos así como psicológicos del consumo de estupefacientes y psicotrópicos.
+I.- La prevención y el tratamiento de la farmacodependencia y, en su caso, la rehabilitación de los farmacodependientes;
+
+II.- La educación sobre los efectos del uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como sus consecuencias en las relaciones sociales;
+
+III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento;
+
+IV.- La investigación de las causas de la farmacodependencia, así como del consumo de estupefacientes y psicotrópicos y de las acciones para controlarlas;
+
+V.- Campañas de información y sensibilización basadas en estudios científicos, alertando de manera adecuada sobre los efectos y daños físicos, así como psicológicos del consumo de estupefacientes y psicotrópicos; y
+
+VI.- La superación de la farmacodependencia, a través del fomento de la participación comunitaria y familiar, y el reconocimiento de la importancia de los grupos de ayuda mutua.
 
 ###### ARTICULO 153.
 
@@ -4055,41 +4065,13 @@ P.O. 10 DE MAYO DE 2021.
 
 El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 51/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL COMIENZO DE FUNCIONES DE LOS JUZGADOS CUARTO Y QUINTO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADOS EN JUICIOS DE CUANTÍA MENOR, CON SEDE EN LA CIUDAD DE MÉXICO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y A LAS REGLAS PARA EL TURNO Y LA DISTRIBUCIÓN DE ASUNTOS".]
+P.O. 24 DE MAYO DE 2021.
 
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de diciembre de dos mil dieciséis, con excepción de lo previsto en el transitorio QUINTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de su aprobación.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 553.- SE REFORMA EL ARTÍCULO 161 B DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. Los juicios orales mercantiles que a la fecha del comienzo de funciones de los Juzgados Cuarto y Quinto de Distrito en Materia Mercantil Especializados en Juicios de Cuantía Menor, materia del presente Acuerdo, se encuentren radicados ante los Juzgados de Distrito en Materia Civil en la Ciudad de México, continuarán tramitándose ante ellos hasta su conclusión y eventual archivo definitivo.
-
-CUARTO. Los Juzgados de Distrito en Materia Civil en la Ciudad de México conservarán su actual denominación, jurisdicción territorial y competencia, con las excepciones señaladas en el presente Acuerdo.
-
-A fin de equilibrar las cargas de trabajo que llegaren a presentarse en los Juzgados Cuarto y Quinto de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor, con residencia en la Ciudad de México, la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal podrá establecer la competencia temporal compartida por parte de los Juzgados de Distrito en Materia Civil de la Ciudad de México, para conocer de juicios orales mercantiles y comunicaciones relacionadas con estos que se presenten en ese circuito, así como regular el turno, total o parcial, de éstos.
-
-QUINTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los nuevos órganos jurisdiccionales de la infraestructura y equipamiento necesario para el desempeño de sus funciones. Los órganos jurisdiccionales deberán contar con una sala para la celebración de las audiencias orales, así como con un sistema informático y de videograbación para el registro de éstas por medios electrónicos que garanticen su fidelidad, integridad, preservación, la reproducción de su contenido y el acceso a quienes tuvieren derecho a ello.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado para la recepción y distribución de asuntos en la Oficina de Correspondencia Común, de los Juzgados de Distrito en Materia Civil en la Ciudad de México a fin de habilitar los campos de captura necesarios.
-
-SEXTO. La Dirección General de Tecnologías de la Información suministrará los equipos, brindará la capacitación y asistencia técnica necesaria al personal de los Juzgados Cuarto y Quinto de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor, con residencia en la Ciudad de México, para la operación del sistema informático y de videograbación que registrará las audiencias que se celebren.
-
-SÉPTIMO. Se reforma el numeral SEGUNDO, fracción I, números 3 a 5; y se adiciona el número 6 a la fracción I del mismo numeral, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. .
-
-I. .
-
-1. a 2. .
-
-3. Setenta juzgados de Distrito en la Ciudad de México especializados: quince de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, catorce en materia civil, y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
-
-4. Dos Juzgados de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en la Ciudad de México.
-
-5. Ocho Juzgados Federales Penales Especializados: seis en Cateos, Arraigos e Intervención de Comunicaciones, y dos en Medidas Cautelares y Control de Técnicas de Investigación, todos con residencia en la Ciudad de México.
-
-6. Tres juzgados de Distrito Especializados en Ejecución de Penas, todos con residencia en la Ciudad de México.
-
-D.O.F. 15 DE FEBRERO DE 2017.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL ACUERDO GENERAL 1/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE COMIENZO DE FUNCIONES DEL JUZGADO OCTAVO DE DISTRITO EN EL ESTADO DE SAN LUIS POTOSÍ, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y SEDE INDICADAS".]
 
