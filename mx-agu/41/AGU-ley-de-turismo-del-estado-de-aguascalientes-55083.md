@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-turismo-del-estado-de-aguascalientes-55083"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-16"
-last_updated: "2017-07-03"
+last_updated: "2021-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de abril de 2007.
 
@@ -281,11 +281,21 @@ VII. Identificarse a satisfacción del prestador de servicios turísticos al mom
 
 Compete a la Secretaria la protección integral al turista, a efecto de lo cual deberá:
 
-I. Organizar y vigilar el cumplimiento de los programas y medidas de asistencia, auxilio y protección a quienes visitan la Entidad, en coordinación con las dependencias que concurran en tales objetivos;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2021)</small>
 
-II. Participar en todas aquellas acciones de auxilio a los turistas, en casos de emergencia o desastre; y
+I.- Organizar, coordinar, gestionar y vigilar el cumplimiento de los programas y medidas de asistencia, auxilio y protección, para las personas que visitan la Entidad, en coordinación con las dependencias y entidades que concurran en tales objetivos;
 
-III. Las demás que sean necesarias para proteger eficientemente los derechos de los turistas.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2021)</small>
+
+II.- Asistir y participar en todas aquellas acciones de auxilio que se brinden a los turistas, en casos de emergencia o desastre, conforme a los programas, políticas y operativos de prevención y atención de casos de fuerza mayor o fortuita, que para tal efecto emita la autoridad compete;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2021)</small>
+
+III.- Canalizar y dar seguimiento ante las autoridades competentes, sobre las quejas que reciba del turista en contra de los prestadores de servicios turísticos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2021)</small>
+
+IV.- Las demás acciones que sean necesarias para proteger eficientemente los derechos de los turistas.
 
 ### CAPITULO III. De los Derechos y Obligaciones de los Prestadores de Servicios Turísticos
 
@@ -365,13 +375,17 @@ XVII. Cumplir con los principios de ética empresarial y de turismo en los Trata
 
 XVIII. Prestar el servicio turístico de hospedaje, requiriendo al turista o visitante se identifique de conformidad con la Fracción VII del Artículo 13 de esta Ley;
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2021)</small>
 
-XIX. Llevar un "Libro de Registro de Visitantes o Turistas" con datos personales, donde se anotará el nombre del visitante o turista titular del contrato de hospedaje, dirección, procedencia, ocupación, descripción del tipo de identificación que presentó y el número de cuarto; y
+XIX. Llevar un "Libro de Registro de Visitantes o Turistas" con datos personales, donde se anotará el nombre del visitante o turista titular del contrato de hospedaje, dirección, procedencia, ocupación, descripción del tipo de identificación que presentó y el número de cuarto;
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2021)</small>
 
-XX. Colaborar con las autoridades correspondientes cuando investiguen un hecho delictivo.
+XX. Colaborar con las autoridades correspondientes cuando investiguen un hecho delictivo; y
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2021)</small>
+
+XXI. Contar con sistema de videovigilancia acorde con los servicios prestados por el establecimiento y sus dimensiones, como medio de prevención de delitos en los espacios a que se refiere el Artículo 6°, Fracción I de esta Ley, respetando en todo momento las disposiciones legales vigentes y los derechos fundamentales de protección de dato (sic) personales, privacidad e intimidad de las personas.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2010)</small>
 
@@ -837,6 +851,8 @@ La información contenida en el Registro Estatal, será turnada a la Secretaría
 
 ### CAPITULO II. De las Sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2021)</small>
+
 ###### Artículo 83.
 
 La Secretaría promoverá acciones de coordinación en la elaboración de planes y programas de estudios con las instancias educativas competentes, para que se promueva a través de libros de texto o cualquier otro medio didáctico, el significado de la actividad turística y su importancia para el Estado, así como para la formación de profesionales y asesores en esta actividad.
@@ -889,7 +905,11 @@ La Secretaría, en el marco de los convenios de coordinación que al efecto cele
 
 ###### Artículo 89.
 
-Las violaciones a la presente Ley, a sus reglamentos, a las Normas Oficiales Mexicanas y demás disposiciones legales que le atribuyan competencia a la Secretaría serán sancionadas por ésta, sin perjuicio de otras sanciones que correspondan por violaciones a las leyes y ordenamientos federales, estatales y municipales.
+Las violaciones de los particulares a la presente Ley, a sus reglamentos, a las Normas Oficiales Mexicanas y demás disposiciones legales que le atribuyan competencia a la Secretaría serán sancionadas por ésta, sin perjuicio de otras sanciones que correspondan por violaciones a las leyes y ordenamientos federales, estatales y municipales.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2021)</small>
+
+Los servidores públicos que incumplan lo dispuesto por esta Ley serán sujetos a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, independientemente de las acciones que procedan en materia penal.
 
 ###### Artículo 90.
 
@@ -899,9 +919,9 @@ Por violaciones a esta Ley, la Secretaría podrá imponer las siguientes sancion
 
 I. Por infracciones a lo dispuesto en el Artículo 13 fracciones II, III, IV y V, se impondrá una multa de 3 hasta por el equivalente a 50 veces el valor diario de la unidad de medida y actualización.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2021)</small>
 
-II. Por infracciones a lo dispuesto en las Fracciones I a la XVII del Artículo 16, se impondrá una multa de 50 hasta por el equivalente a 200 veces el valor diario de la unidad de medida y actualización. En el caso de las Fracciones XIX y XX, se podrá imponer una multa de 200 a 400 veces el valor diario de la unidad de medida y actualización; y
+II. Por infracciones a lo dispuesto en las Fracciones I a la XVIII del Artículo 16, se impondrá una multa de 50 hasta por el equivalente a 200 veces el valor diario de la unidad de medida y actualización. En el caso de las Fracciones XIX, XX y XXI, se podrá imponer una multa de 200 a 400 veces el valor diario de la unidad de medida y actualización; y
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -976,3 +996,19 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 551.- SE REFORMAN EL ARTÍCULO 14 FRACCIONES I, II Y III Y EL ARTÍCULO 89 Y SE ADICIONAN LA FRACCIÓN IV AL ARTÍCULO 14 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 89 DE LA LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 552.- SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 16 Y LA FRACCIÓN II DEL ARTÍCULO 90 Y SE ADICIONA UNA FRACCIÓN XXI AL ARTÍCULO 16 DE LA LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrara en vigor el (sic) día siguiente de su publicación en el periodo Oficial del Estado de Aguascalientes.
