@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-competencia-101697"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-08"
-last_updated: "2020-07-03"
+last_updated: "2021-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-07-07"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2021.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de julio de 2014.
 
@@ -275,9 +275,9 @@ XI. Delegaciones en el interior de la República Mexicana, y
 
 XII. Los demás órganos y unidades administrativas que determine el Pleno de la Comisión, de acuerdo con el presupuesto autorizado y según la estructura orgánica que para tales efectos sea aprobada.
 
-> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2021)</small>
 
-El Presidente, los Comisionados, los titulares de la Secretaría Técnica, de la Autoridad Investigadora y de la Unidad de Planeación, Vinculación y Asuntos Internacionales y los Directores Generales serán auxiliados por los Directores Ejecutivos que correspondan en términos de este Estatuto y conforme al Presupuesto asignado para el eficaz desarrollo de sus atribuciones, evitando la duplicidad de funciones.
+El Presidente, los Comisionados, los titulares de la Secretaría Técnica, de la Autoridad Investigadora y de la Unidad de Planeación, Vinculación y Asuntos Internacionales y los Directores Generales serán auxiliados por los Directores Ejecutivos que correspondan en términos de este Estatuto y demás personal necesario, conforme al Presupuesto asignado para el eficaz desarrollo de sus atribuciones, evitando la duplicidad de funciones. Los Directores Ejecutivos referidos en este Estatuto podrán ser auxiliados por el personal necesario para el cumplimiento de sus funciones conforme al Presupuesto asignado.
 
 ### Capítulo I. De la integración y de las atribuciones del Pleno
 
@@ -385,9 +385,11 @@ El Pleno no puede requerir información específica o intervenir respecto de las
 
 ### Capítulo II. De las Sesiones del Pleno y el turno de los expedientes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 6.
 
-Las sesiones del Pleno se realizarán de conformidad con el artículo 18 de la Ley; éstas serán válidas con la asistencia de cuando menos cuatro Comisionados, incluyendo al Presidente. El Secretario Técnico dará fe de las sesiones del Pleno.
+Las sesiones del Pleno se realizarán de conformidad con el artículo 18 de la Ley; éstas serán válidas con la asistencia de cuando menos cuatro Comisionados, incluyendo al Presidente. Los asuntos se decidirán por mayoría de votos de quienes puedan conocer del asunto correspondiente, siempre que voten al menos tres Comisionados. El Secretario Técnico dará fe de las sesiones del Pleno.
 
 > <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
 
@@ -617,11 +619,11 @@ X. Las demás que les sean encomendadas por el Comisionado al cual se encuentren
 
 ### Capítulo V. De la Autoridad Investigadora y la Secretaría Técnica
 
-> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 15.
 
-La Autoridad Investigadora y la Secretaría Técnica, de acuerdo con lo establecido en el presente Estatuto, serán apoyadas para el ejercicio de sus funciones por las Direcciones Generales Operativas que les correspondan y se auxiliarán del personal técnico y operativo necesario, de acuerdo con la disponibilidad presupuestal y las normas administrativas correspondientes, para el eficaz desarrollo de sus atribuciones.
+La Autoridad Investigadora y la Secretaría Técnica, de acuerdo con lo establecido en el presente Estatuto, serán apoyadas para el ejercicio de sus funciones por las Direcciones Generales Operativas que les correspondan y se auxiliarán del personal necesario, de acuerdo con la disponibilidad presupuestal y las normas administrativas correspondientes, para el eficaz desarrollo de sus atribuciones.
 
 #### Sección Primera. De la Autoridad Investigadora
 
@@ -1017,15 +1019,19 @@ XVII. Las demás atribuciones que le sean encomendadas o delegadas por el Secret
 
 ### Capítulo VI. De la Unidad de Planeación, Vinculación y Asuntos Internacionales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 21.
 
-La Unidad de Planeación, Vinculación y Asuntos Internacionales dependerá jerárquicamente del Presidente y tendrá a su cargo la promoción de la política de competencia económica a nivel nacional e internacional así como su difusión; además de realizar la planeación de la Comisión fijando metas institucionales y su seguimiento.
+La Unidad de Planeación, Vinculación y Asuntos Internacionales dependerá jerárquicamente del Presidente y tendrá a su cargo la promoción de la política de competencia económica a nivel nacional e internacional así como su difusión; además de realizar la planeación de la Comisión, proponiendo metas institucionales y llevando a cabo su seguimiento.
 
 > <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 Asimismo, tendrá a su cargo la coordinación y supervisión de las Delegaciones que se establezcan fuera de la Ciudad de México.
 
-La Unidad de Planeación, Vinculación y Asuntos Internacionales estará a cargo del Jefe de Unidad de Planeación, Vinculación y Asuntos Internacionales, quien será apoyado para el ejercicio de sus facultades de las Direcciones Generales de Coordinación.
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2021)</small>
+
+La Unidad de Planeación, Vinculación y Asuntos Internacionales estará a cargo del Jefe de Unidad de Planeación, Vinculación y Asuntos Internacionales, quien será apoyado para el ejercicio de sus facultades de las Direcciones Generales de Coordinación, los Directores Ejecutivos que correspondan en términos de este Estatuto y demás personal necesario.
 
 ###### ARTÍCULO 22.
 
@@ -2723,6 +2729,10 @@ El Titular del Órgano Interno de Control de la Comisión será suplido por ause
 
 Cuando el presente Estatuto haga referencia a los titulares de la Autoridad Investigadora, de la Secretaría Técnica, de la Unidad de Planeación, Vinculación y Asuntos Internacionales, del Órgano Interno de Control y de las Direcciones Generales, se entenderá que también se refiere al servidor público que los supla en los términos del presente Estatuto.
 
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2021)</small>
+
+Para efectos del artículo 19 de la Ley, para el caso de vacancia del Comisionado Presidente, la suplencia no podrá ser realizada por quien ya hubiera sido Comisionado Presidente.
+
 ###### ARTÍCULO 51.
 
 Sin perjuicio de lo previsto por otras normas aplicables, en casos de ausencia temporal o impedimento, los demás servidores públicos de la Comisión serán suplidos conforme al acuerdo correspondiente.
@@ -2876,3 +2886,9 @@ D.O.F. 3 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL EL PLENO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA”.]
 
 Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO MEDIANTE EL CUAL EL PLENO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA".]
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
