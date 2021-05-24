@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2021-03-16"
+last_updated: "2021-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -2223,6 +2223,8 @@ Cuando el abigeato sea cometido entre parientes consanguíneos o por afinidad, s
 
 ### CAPÍTULO V. USURA
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2021)</small>
+
 ###### Artículo 203 Ter.
 
 Comete el delito contra la ganadería y se le sancionará con prisión de tres a cinco años y multa de doscientas a trescientas Unidades de Medida y Actualización, quien:
@@ -2337,11 +2339,13 @@ XIV. Alcance un lucro indebido para sí o para otro valiéndose de alguna manipu
 
 ###### Artículo 208.
 
-Se impondrán de dos a seis años de prisión y multa de doscientos a un mil días de salario a quien obtenga para sí o para otro, en virtud de recibir títulos de crédito, documentos a la orden, o celebrar convenios o contratos de manera formal o informal, ganancias notoriamente superiores a las usuales en el mercado o a las tasas de interés bancario autorizadas, por concepto de intereses u otras ventajas pecuniarias.
+Se impondrán de cuatro a ocho años de prisión y multa de cuatrocientas a un mil Unidades de Medida y Actualización a quien obtenga para sí o para otro, en virtud de recibir títulos de crédito, documentos a la orden, o celebrar convenios o contratos de manera formal o informal, ganancias notoriamente superiores a las usuales en el mercado o a las tasas de interés bancario autorizadas, por concepto de intereses u otras ventajas pecuniarias.
 
 Se considerarán ganancias notoriamente superiores a las usuales en el mercado, las que excedan al interés bancario más alto vigente el día en que se celebre la operación.
 
-Este delito será perseguido por querella de parte.
+Cuando se emplee amenaza, intimidación u hostigamiento para lograr el cobro del préstamo o de los intereses, se estará a lo dispuesto en el artículo 171 bis de este Código.
+
+El delito establecido en este artículo se perseguirá de oficio.
 
 ### CAPÍTULO IX. ENCUBRIMIENTO POR RECEPTACIÓN
 
@@ -4674,3 +4678,13 @@ SEGUNDO.- La Secretaría de Seguridad Pública de la Administración Pública de
 TERCERO.- En un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado realizará las adecuaciones necesarias en el Reglamento Interior de la Secretaría de Seguridad Pública y demás disposiciones aplicables para el debido cumplimiento de este decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE "SE REFORMA EL ARTÍCULO 208 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a (sic) quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
