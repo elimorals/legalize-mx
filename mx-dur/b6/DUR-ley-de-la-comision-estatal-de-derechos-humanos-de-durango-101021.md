@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-comision-estatal-de-derechos-humanos-de-durango-10102
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-06"
-last_updated: "2020-05-03"
+last_updated: "2021-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 6 de mayo de 2014.
 
@@ -213,9 +213,9 @@ XX. Desarrollar programas encaminados a la protección de la libertad de expresi
 
 XXI. Difundir programas preventivos en materia de derechos humanos elaborados en la lengua materna de los grupos étnicos reconocidos en el Estado, para que sus integrantes los puedan entender y tengan acceso a una mejor defensa y conocimiento de sus derechos.
 
-> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE MAYO DE 2021)</small>
 
-XXII. Impulsar la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes en general y con las particulares consideraciones para los menores integrantes de los grupos indígenas de nuestro Estado; y
+XXII. Impulsar la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE MAYO DE 2020)</small>
 
@@ -1072,3 +1072,15 @@ P.O. 3 DE MAYO DE 2020.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+P.O. 25 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 545.- POR EL CUAL SE ADICIONA LA FRACCIÓN XXI Y SE RECORRE LA SIGUIENTE EN SU ORDEN AL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto.
