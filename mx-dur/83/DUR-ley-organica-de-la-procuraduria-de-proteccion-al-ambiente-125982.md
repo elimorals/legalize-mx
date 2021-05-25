@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-procuraduria-de-proteccion-al-ambiente-12598
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-31"
-last_updated: "2020-11-19"
+last_updated: "2021-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY ORGANICA DE LA PROCURADURIA DE PROTECCION AL AMBIENTE DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 533 DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 25 DE MAYO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 31 de diciembre de 2017.
 
@@ -1310,3 +1312,59 @@ La presente reforma entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 533 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+Se abroga la Ley Orgánica de la Procuraduría de Protección al Ambiente del Estado de Durango.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 533.- POR EL QUE SE ABROGA LA LEY ORGÁNICA DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE DURANGO".]
+
+PRIMERO. - El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se extingue el Organismo Público Descentralizado denominado Procuraduría de Protección al Ambiente del Estado de Durango, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación.
+
+TERCERO. - Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto serán concluidos por los titulares de las unidades administrativas del Organismo Público Descentralizado denominado Procuraduría de Protección al Ambiente del Estado de Durango, responsables de las mismas, conforme a las disposiciones jurídicas aplicables.
+
+CUARTO. - La Junta de Gobierno del Organismo Público Descentralizado denominado Procuraduría de Protección al Ambiente del Estado de Durango, continuará en funciones hasta que inicie el proceso de liquidación del organismo.
+
+QUINTO. - Una vez concluidos los asuntos señalados en el ARTÍCULO TERCERO del presente decreto, iniciara el proceso de liquidación del organismo.
+
+SEXTO. - La liquidación del Organismo Público Descentralizado denominado Procuraduría de Protección al Ambiente del Estado de Durango, estará a cargo de un liquidador nombrado por la Secretaria de Finanzas y de Administración del Gobierno del Estado de Durango, para lo cual tendrá las más amplicas facultades para actos de administración, dominio, pleitos y cobranzas y para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o clausula especial en términos de las disposiciones aplicables y para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación, sujetándose en su caso a la Ley General de Responsabilidades Administrativas.
+
+SÉPTIMO. - El liquidador realizará lo siguiente:
+
+I. Verificará el inventario de los bienes propiedad del organismo;
+
+II. Someterá a dictamen del auditor designado por la Secretaría de Contraloría, los estados financieros inicial y final de liquidación;
+
+III. Informará mensualmente a las Secretaria de Finanzas y Administración, de Contraloría, sobre el avance y estado que guarde el proceso;
+
+IV. Llevará a cabo la entrega de los bienes propiedad del Organismo Público Descentralizado denominado Procuraduría de Protección al Ambiente del Estado de Durango, a la Secretaría de Finanzas y de Administración del Estado, a través de la Dirección de Control Patrimonial;
+
+V. Transferirá en su caso, los recursos remanentes a la Secretaría de Finanzas y de Administración del Gobierno del Estado;
+
+VI. Se apegará a los acuerdos que emita el Gobierno del Estado de Durango, mediante los entes gubernamentales que se designen para tal efecto; y
+
+VII. Las demás inherentes para el desarrollo de las funciones relativas al proceso de liquidación.
+
+El liquidador actuará hasta que se concluya el proceso de liquidación el cual no podrá exceder de un año.
+
+OCTAVO. - A partir de la entrada en vigor del presente decreto en el Periódico Oficial del Gobierno del Estado de Durango, se tendrá por concluida la relación jurídico-laboral entre el organismo y los trabajadores de este, salvo los servidores públicos responsables de los asuntos señalados en el ARTÍCULO TERCERO del presente instrumento jurídico, quienes serán considerados trabajadores transitorios.
+
+En todo momento los derechos laborales de los trabajadores del organismo extinto se respetarán, las indemnizaciones correspondientes se harán conforme a lo dispuesto en la normatividad aplicable.
+
+NOVENO. - Los juicios promovidos ante autoridades laborales, jurisdiccionales y procedimientos administrativos, en que sea parte el Organismo Público Descentralizado denominado Procuraduría de Protección al Ambiente del Estado de Durango, pendientes de resolución, se continuarán de conformidad con las atribuciones y normas aplicables a la Secretaria de Recursos Naturales y Medio Ambiente del Estado.
+
+DÉCIMO. - Las funciones que desempeñaba como tal el Organismo Público Descentralizado denominado Procuraduría de Protección al Ambiente del Estado de Durango, serán asumidas a partir de la entrada en vigor del presente decreto por la Secretaría de Recursos Naturales y Medio Ambiente del Estado de Durango.
+
+DÉCIMO PRIMERO. - La Secretaría de Contraloría del Estado, será la responsable de sancionar el proceso de entrega recepción del organismo que se extingue mediante el presente decreto.
+
+DÉCIMO SEGUNDO. - Dentro del plazo no mayor a 30 días a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado expedirá las adecuaciones y reformas necesarias a la legislación secundaria y normatividad aplicable en la materia.
+
+DÉCIMO TERCERO. - El titular del Organismo Público Descentralizado denominado Procuraduría de Protección al Ambiente del Estado de Durango, inscribirá la extinción de dicho Organismo en la Dirección del Registro Público de la Coordinación General de Normatividad, registro y Seguimiento de Entidades Paraestatales.
+
+DÉCIMO CUARTO. - Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
