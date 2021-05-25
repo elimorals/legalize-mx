@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2021-03-23"
+last_updated: "2021-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2021.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -1755,9 +1755,13 @@ XXVII. Promover la cultura y recreación entre los trabajadores duranguenses y s
 
 XXVIII. Coordinar la integración y el establecimiento del Centro de Conciliación Laboral del Estado de Durango; y
 
-> <small>(REFORMADA Y REUBICADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MAYO DE 2021)</small>
 
-XXIX. Las demás que le señalen las leyes y reglamentos en la materia y las que le delegue el Gobernador.
+XXIX. Promoverá que en los centros de trabajo se implemente, mantenga y difunda una política de prevención de riesgos psicosociales y violencia laboral.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE MAYO DE 2021)</small>
+
+XXX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado o le delegue el titular del Poder Ejecutivo.
 
 ###### ARTICULO 37.
 
@@ -2858,6 +2862,18 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 498.- POR EL CUAL SE ADICIONA UNA FRACCIÓN LXII, RECORRIENDO LA SUBSECUENTE DEL ARTÍCULO 35 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 532.- POR EL CUAL SE ADICIONA UNA FRACCIÓN XXIX, RECORRIÉNDOSE LA ANTERIOR DE MANERA SUBSECUENTE AL ARTÍCULO 36 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
