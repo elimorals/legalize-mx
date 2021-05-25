@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transportes-para-el-estado-de-durango-25645"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-13"
-last_updated: "2017-03-05"
+last_updated: "2021-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 13 de junio de 2002.
 
@@ -383,7 +385,9 @@ Tendrá, asimismo, las Delegaciones Regionales que se requieran de acuerdo a las
 
 La Dirección contará con un Centro de Capacitación del Transporte con la finalidad de proporcionar en forma continua:
 
-I.- Capacitación técnica y profesional; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
+
+I.- Capacitación técnica, profesional y de primeros auxilios; y
 
 II.- Fomentar la investigación científica y el desarrollo tecnológico.
 
@@ -695,11 +699,11 @@ X. Operar solamente aquellos vehículos asegurados en materia de responsabilidad
 
 XI. Exhibir en lugar visible y en forma permanente la tarifa autorizada, tanto en los vehículos como en los sitios, terminales y centrales, así como la identificación visible del conductor en turno;
 
-XII. Proporcionar capacitación profesional y técnica en forma continua a sus trabajadores, con el fin de garantizar la calidad en el servicio, en los términos de la presente Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
+
+XII. Impulsar la capacitación profesional y técnica en forma continua a sus trabajadores, incluyendo la capacitación en primeros auxilios, con el fin de garantizar la calidad en el servicio, en los términos de la presente Ley y su Reglamento;
 
 XIII. Contar con terminales para la salida y llegada de autobuses, así como lugares para el estacionamiento y mantenimiento fuera de la vía pública;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2010)</small>
 
@@ -1558,3 +1562,13 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 25 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 536.- POR EL QUE SE ADICIONA UNA FRACCIÓN I AL ARTÍCULO 19, RECORRIÉNDOSE LA SUBSECUENTE Y SE REFORMA LA FRACCIÓN XII DEL ARTICULO 46, TODOS DE LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. En un plazo que no exceda de 90 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá expedir la reglamentación necesaria para dar cumplimiento a este decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
