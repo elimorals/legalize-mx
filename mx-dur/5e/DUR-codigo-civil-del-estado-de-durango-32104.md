@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2021-04-08"
+last_updated: "2021-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2021.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1775,9 +1775,9 @@ ART. 318-2.- Por violencia familiar se entiende como todo acto abusivo de poder 
 
 Así como el uso de la fuerza física o moral, y/o la omisión grave, respecto de un menor, por sus padres o por cualquier integrante de la familia.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2021)</small>
 
-La educación, formación y el cuidado de los menores e incapaces no será en ningún caso considerada como justificación para alguna forma de maltrato, abuso, abandono o violencia.
+La educación, formación y el cuidado de las niñas, niños y adolescentes e incapaces no será en ningún caso considerado como justificación para alguna forma de maltrato, abuso, abandono o violencia.
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -2223,7 +2223,9 @@ Cuando llegue a conocimiento de cualquier autoridad, que dichas personas no cump
 
 ART. 418.- Los que ejerzan la patria potestad o tengan niñas, niños y adolescentes, bajo su custodia, tienen la facultad de establecer normas, límites y restricciones de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, atendiendo en todo momento el derecho a una vida libre de violencia y a la integridad personal, psíquica, moral y sexual y además tienen la obligación de observar una conducta que sirva de buen ejemplo.
 
-Queda prohibido el uso del castigo corporal en todos los ámbitos, como método correctivo o disciplinario a niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2021)</small>
+
+Queda prohibido el uso del castigo corporal y humillante o cualquier otro tipo de trato degradante en todos los ámbitos, como método correctivo o disciplinario a niñas, niños y adolescentes.
 
 ART. 419.- El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
 
@@ -10948,3 +10950,11 @@ P.O. 8 DE ABRIL DE 2021.
 PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. - Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 535.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 318-2 Y 418 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
