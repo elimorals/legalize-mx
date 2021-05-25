@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2021-05-20"
+last_updated: "2021-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2021.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -109,67 +109,81 @@ III. Adopción Internacional: Aquélla que se realice en términos de lo dispues
 
 IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-V. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
 
-VI. Certificado de Idoneidad: El documento expedido por el Consejo Técnico de Adopciones u organizaciones que éste autorice o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
+V. Castigo Corporal: Todo castigo en el que se utilice de manera severa o innecesaria la fuerza física y tenga por objeto causar cierto grado de dolor o malestar, aunque sea leve;
 
-VII. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos;
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
 
-VIII. Constitución Local: Constitución Política del Estado Libre y Soberano de Durango;
+VI. Castigo Humillante: Cualquier trato que vulnere la dignidad, la salud mental y psicológica de niñas, niños y adolescentes, y que no corresponda a la naturaleza intrínseca de las medidas correctivas, como medio de disciplina positiva en beneficio de niñas, niños y adolescentes.
+
+VII. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
+
+VIII. Certificado de Idoneidad: El documento expedido por el Consejo Técnico de Adopciones u organizaciones que éste autorice o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
+
+IX. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos;
+
+X. Constitución Local: Constitución Política del Estado Libre y Soberano de Durango;
 
 > <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
-IX. Control de confianza: Las pruebas realizadas por el Centro Estatal de Acreditación y Control de Confianza en materia toxicológica, socioeconómica, psicológica, médica y de antecedentes penales así como los demás que establezcan en sus lineamientos el Centro Nacional de Certificación y Acreditación en la materia.
+XI. Control de confianza: Las pruebas realizadas por el Centro Estatal de Acreditación y Control de Confianza en materia toxicológica, socioeconómica, psicológica, médica y de antecedentes penales así como los demás que establezcan en sus lineamientos el Centro Nacional de Certificación y Acreditación en la materia.
 
-X. Familia de Origen: Aquélla compuesta por titulares de la patria potestad o tutela, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado, de conformidad con el Código Civil del Estado de Durango;
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
 
-XI. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
+XII. Crianza Positiva: Comportamiento de las madres, padres y tutores, con base en el interés superior de la niñez, que promueve la atención, el desarrollo de capacidades, el ejercicio de la no violencia, ofreciendo el reconocimiento y orientación necesaria sin dejar de contemplar el establecimiento de los límites relativos a la disciplina, los cuales permitan el pleno desarrollo de las niñas, niños y adolescentes;
 
-XII. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+XIII. Familia de Origen: Aquélla compuesta por titulares de la patria potestad o tutela, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado, de conformidad con el Código Civil del Estado de Durango;
 
-XIII. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
+XIV. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
-XIV. Igualdad: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos;
+XV. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
-XV. Informe de Adoptabilidad: El documento expedido por el Sistema Estatal DIF, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
+XVI. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
-XVI. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
+XVII. Igualdad: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos;
 
-XVII. Órgano Jurisdiccional: Los juzgados o tribunales federales o del Estado;
+XVIII. Informe de Adoptabilidad: El documento expedido por el Sistema Estatal DIF, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
 
-XVIII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango;
+XIX. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
-XIX. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes de cada Municipio;
+XX. Órgano Jurisdiccional: Los juzgados o tribunales federales o del Estado;
 
-XX. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Durango y los tratados internacionales de los que el Estado Mexicano forma parte;
+XXI. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango;
 
-XXI. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de las Procuradurías de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXII. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes de cada Municipio;
 
-XXII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en la legislación aplicable;
+XXIII. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Durango y los tratados internacionales de los que el Estado Mexicano forma parte;
 
-XXIII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
+
+XXIV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que, de manera oficiosa, quedará a cargo de las Procuradurías de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+XXV. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en la legislación aplicable;
+
+XXVI. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
 > <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
 
-XXIV. Secretaría Ejecutiva: Secretaría Ejecutiva del Sistema Local de Protección Integral de Niñas Niños y Adolescentes del Estado de Durango;
+XXVII. Secretaría Ejecutiva: Secretaría Ejecutiva del Sistema Local de Protección Integral de Niñas Niños y Adolescentes del Estado de Durango;
 
-XXV. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Durango;
+XXVIII. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Durango;
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
 
-XXVI. Sistema Local de Protección: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango;
+XXIX. Sistema Local de Protección: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
+
+XXX. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Durango
 
 > <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XXVII. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Durango;
+XXXI. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia; y
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
 
-XXVIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia; y
-
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
-
-XXIX. Violencia contra niñas, niños y adolescentes: Toda forma de perjuicio o abuso físico o mental, descuido o trato negligente, malos tratos o explotación, incluido el abuso sexual y la violencia digital.
+XXXII. Violencia contra niñas, niños y adolescentes: Toda forma de perjuicio o abuso físico o mental, descuido o trato negligente, malos tratos o explotación, incluido el abuso sexual.
 
 ###### Artículo 6.
 
@@ -483,9 +497,13 @@ Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y
 
 Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
+
+Dentro de las responsabilidades de velar por el sano desarrollo de niñas, niños y adolescentes, se adquiere la de brindar el acceso a una vida libre de condiciones de mendicidad, entendiéndose como toda situación que implique solicitar limosnas para sí o para un tercero.
+
 Las autoridades estatales y municipales, estarán obligadas de manera subsidiaria, en el ámbito de sus respectivas competencias, mediante políticas públicas, programas y acciones a crear condiciones para que la familia pueda desempeñar sus derechos y obligaciones de manera adecuada para asegurar los derechos de niñas, niños y adolescentes.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2021)</small>
 
 Queda prohibido el uso del castigo corporal en todos los ámbitos, como método correctivo o disciplinario a niñas, niños o adolescentes.
 
@@ -523,9 +541,11 @@ VI. Coordinar programas, talleres y campañas de información para padres, alumn
 
 ### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2021)</small>
+
 ###### Artículo 33.
 
-Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud. Las autoridades, en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
+Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud. Las autoridades Estatales y Municipales, en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
 
 I. Reducir la morbilidad y mortalidad;
 
@@ -539,7 +559,9 @@ V. Desarrollar la atención sanitaria preventiva, la orientación a quienes ejer
 
 VI. Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio;
 
-VII. Impulsar programas de prevención e información, así como la asistencia para combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable y el fomento del ejercicio físico;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
+
+VII. Impulsar programas de prevención e información, así como la asistencia para combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable, así como de medidas preventivas que inhiban o disminuyan el consumo de alimentos o bebidas con bajo contenido nutricional y excesivo contenido graso, de azúcares o sodio y el fomento del ejercicio físico;
 
 VIII. Fomentar y ejecutar los programas de vacunación y el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica;
 
@@ -556,6 +578,18 @@ XIII. Establecer medidas tendentes a la prevención, atención, combate y rehabi
 XIV. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación.
 
 En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, conforme al artículo 48 de la presente Ley, así como el derecho a la información de quienes detenten la patria potestad, tutela o guarda y custodia de niños niñas y adolescentes en relación a su estado de su salud, para cumplir con su obligación constitucional de proteger y exigir el cumplimiento del derecho a la salud de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
+
+###### Artículo 33 Bis.
+
+El Estado y los Municipios, establecerán medidas tendientes a que en los servicios de salud, se detecten y atiendan de manera especial los casos de Niñas, Niños y Adolescentes con problemas de salud mental, en específico los menores que han sido víctimas de cualquier tipo de violencia, comprenderá:
+
+I. La creación de mecanismos de detección de casos de violencia en niñas, niños y adolescentes que acudan a los distintos servicios de salud que ofrece el Estado de Durango y sus Municipios, para la implementación de medidas de prevención de violencia.
+
+II. Atención psicológica, y tratamiento a niñas, niños y adolescentes que sufran violencia de cualquier tipo.
+
+III. La promoción de la salud integral para la prevención de cualquier tipo de violencia en niñas, niños y adolescentes.
 
 ###### Artículo 34.
 
@@ -943,15 +977,39 @@ Se implementarán mecanismos de coordinación entre instancias a fin de capacita
 
 Las autoridades estatales y municipales, a fin de lograr la reinserción y participación ciudadana de niñas, niños y adolescentes en situaciones especiales, velarán por el seguimiento y cumplimiento de las políticas públicas implementadas a nivel estatal.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MAYO DE 2021)</small>
+
+### CAPÍTULO VIGÉSIMO PRIMERO. DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
+
+ARTÍCULO 60 BIS. Niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet establecidos en la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
+
+###### ARTÍCULO 60 Bis 1.
+
+El Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en el artículo 3° y 6° constitucional, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
+
+###### ARTÍCULO 60 Bis 2.
+
+Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
+
+###### ARTÍCULO 60 Bis 3.
+
+Los padres, tutores y quienes tengan a cargo el cuidado de niñas, niños o adolescentes, en apego al interés superior de la niñez, instruirán en el conocimiento y uso responsable de las tecnologías de la información y comunicación con el objeto de que en el ejercicio de su derecho, los riesgos derivados del acceso a medios de comunicación y uso de sistemas de información no afecten o impidan objetivamente su desarrollo integral, ejerciendo en caso de vulneración de sus derechos las acciones legales y medidas pertinentes para garantizar el interés superior de la niñez.
+
 ### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela, Guarda y Custodia de Niñas, Niños y Adolescentes
 
 ### Capítulo Único. De los Centros de Asistencia Social
 
-### Capítulo Primero. De las autoridades
-
 ## TÍTULO TERCERO. De los derechos y obligaciones
 
-### Capítulo Segundo. De la Procuraduría de Protección
+### Capítulo Primero. De las autoridades
 
 ###### Artículo 61.
 
@@ -1007,11 +1065,13 @@ II. Registrar su nacimiento ante la oficialía de registro civil correspondiente
 
 III. Brindarles una educación asegurando que cursen en igualdad de oportunidades, los niveles de la educación básica y media superior;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
 
-IV. Protegerlos de toda forma de violencia, maltrato, agresión, perjuicio, daño, abuso, venta, trata de personas, explotación, castigo corporal o cualquier acto que atente contra su integridad física, psicológica o menoscabe su desarrollo integral;
+IV. Protegerlos de toda forma de violencia, incluida la alienación parental, maltrato, agresión, perjuicio, daño, abuso, venta, trata de personas, explotación, castigo corporal o cualquier acto que atente contra su integridad física, psicológica o menoscabe su desarrollo integral;
 
-V. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia familiar, creando condiciones de bienestar que propicien un entorno afectivo y comprensivo que garantice el ejercicio de sus derechos conforme a la presente Ley y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
+
+V. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia familiar, incluida la alienación parental, creando condiciones de bienestar que propicien un entorno afectivo y comprensivo que garantice el ejercicio de sus derechos conforme a la presente Ley y demás disposiciones jurídicas aplicables;
 
 VI. Dar en consonancia con la evolución de sus facultades, la dirección y orientación apropiada a niñas, niños y adolescentes;
 
@@ -1019,9 +1079,19 @@ VII. Fomentar en niñas, niños y adolescentes el respeto a las personas, así c
 
 VIII. Orientar, supervisar y, en su caso, restringir, las conductas y hábitos que menoscaben el desarrollo integral de niñas, niños y adolescentes siempre que se atienda al interés superior de la niñez;
 
-IX. Considerar la opinión de niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 25 DE MAYO DE 2021)</small>
 
-### Capítulo Tercero. Del Sistema Local de Protección
+IX. Considerar la opinión de niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE MAYO DE 2021)</small>
+
+X. Evitar suministrar, facilitar o dar a consumir bebidas y alimentos a niñas y niños de cero a tres años de edad, que conforme a la Norma Oficial Mexicana de la materia se encuentren etiquetados con exceso de azúcares, grasas, sodio o calorías;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
+
+XI. Protegerlos de toda forma de malnutrición o alimentación deficiente.
+
+### Capítulo Segundo. De la Procuraduría de Protección
 
 ###### Artículo 64.
 
@@ -1037,7 +1107,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## TÍTULO CUARTO. De la Protección de Niñas, Niños y Adolescentes
 
-### Capítulo Cuarto. De los Sistemas Municipales de Protección
+### Capítulo Tercero. Del Sistema Local de Protección
 
 ###### Artículo 65.
 
@@ -1095,7 +1165,7 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ## TÍTULO QUINTO. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
-### Capítulo Quinto. De los Organismos de Protección de los Derechos Humanos
+### Capítulo Cuarto. De los Sistemas Municipales de Protección
 
 ###### Artículo 69.
 
@@ -1121,9 +1191,17 @@ II. De protegerlo contra toda forma de abuso, tratarlo con respeto a su dignidad
 
 III. Los cursos y programas educativos destinados a servidores públicos, padres de familia y estudiantes, con la finalidad de que comprendan las necesidades, conflictos e intereses de la adolescencia, las formas de violencia familiar, escolar, social, digital y la consecuencia de la victimización de los menores de dieciocho años, por actos u omisiones;
 
-IV. La obligación de familiares, vecinos, médicos, maestros, trabajadores sociales, servidores públicos o cualquier persona que tenga conocimiento de casos de niñas, niños y adolescentes que estén sufriendo la violación de los derechos consignados en esta Ley, en cualquiera de sus formas y de ponerlo en conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
 
-V. En las instituciones educativas, de recreación, esparcimiento y deporte, los educadores o maestros velarán por el respeto de los derechos de niñas, niños y adolescentes, a efecto de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación.
+IV. La obligación de familiares, vecinos, médicos, maestros, trabajadores sociales, servidores públicos o cualquier persona que tenga conocimiento de casos de niñas, niños y adolescentes que estén sufriendo la violación de los derechos consignados en esta Ley, en cualquiera de sus formas y de ponerlo en conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
+
+V. En las instituciones educativas, de recreación, esparcimiento y deporte, los educadores o maestros velarán por el respeto de los derechos de niñas, niños y adolescentes, a efecto de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
+
+VI. Las obligaciones de quienes tengan trato con niñas, niños y adolescentes observen la prohibición de ejercer cualquier tipo de violencia en su contra, incluyendo el castigo corporal y humillante.
 
 ###### Artículo 72.
 
@@ -1213,7 +1291,7 @@ VI. Promover la formación, capacitación y profesionalización del personal de 
 
 VII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
-### Capítulo Sexto. Del Programa Nacional y el Programa Local
+### Capítulo Quinto. De los Organismos de Protección de los Derechos Humanos
 
 ###### Artículo 75.
 
@@ -1311,7 +1389,7 @@ VI. Acreditar las pruebas de control de confianza emitidas por la autoridad comp
 
 El nombramiento de Procurador de Protección deberá ser aprobado por la Junta de Gobierno del Sistema DIF Estatal, a propuesta del Titular del Poder Ejecutivo.
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+### Capítulo Sexto. Del Programa Nacional y el Programa Local
 
 #### Sección Primera. De los Integrantes
 
@@ -1353,9 +1431,19 @@ XV. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de 
 
 XVI. Celebrar convenios de coordinación en la materia;
 
-XVII. Auxiliar a la Procuraduría de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones, y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
 
-XVIII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+XVII. Auxiliar a la Procuraduría de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
+
+XVIII. Establecer programas de integración familiar, así como implementar programas de formación para padres de familia, que promuevan el desarrollo de habilidades y herramientas parentales para la educación parental en el marco de una crianza positiva;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
+
+XIX. Impulsar mecanismos que permitan el desarrollo de un enfoque preventivo y multidisciplinario de las políticas, programas, estrategias y acciones en materia de protección y ejercicio de los derechos de las niñas, niños y adolescentes; y
+
+XX. Las demás que le otorguen otras disposiciones jurídicas aplicables.
 
 ###### Artículo 80.
 
@@ -1538,6 +1626,8 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 ###### Artículo 83 Bis 4.
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2020)
+
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 84.
 
@@ -1868,6 +1958,74 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 544.- QUE CONTIENE REFORMA A LA FRACCIÓN II DEL ARTÍCULO 78 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 534.- POR EL QUE SE REFORMAN EL CUARTO PÁRRAFO DEL ARTÍCULO 29 Y LA FRACCIÓN V DEL ARTÍCULO 63, SE ADICIONA LAS FRACCIONES V, VI, XII DEL ARTÍCULO 5, RECORRIÉNDOSE LAS ANTERIORES DE MANERA SUBSECUENTE PARA OCUPAR EL LUGAR CORRESPONDIENTE, LA FRACCIÓN X DEL ARTÍCULO 63; LA FRACCIÓN VI DEL ARTÍCULO 71, LAS FRACCIONES XVIII Y XIX, RECORRIÉNDOSE LA ANTERIOR PARA PASAR A SER XX DEL ARTÍCULO 79; TODAS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 538.- POR EL QUE SE ADICIONA EL ARTÍCULO 33 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 539.- QUE CONTIENE ADICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 540.- QUE CONTIENE REFORMAS A LAS FRACCIONES IV Y V DEL ARTÍCULO 63 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 25 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 541.- QUE CONTIENE REFORMAS AL PRIMER PÁRRAFO Y LA FRACCIÓN VII DEL ARTÍCULO 33 Y SE ADICIONAN LAS FRACCIONES X Y XI DEL ARTÍCULO 63 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 543.- POR EL CUAL SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 29 Y SE RECORREN DE MANERA SUBSECUENTE LOS SIGUIENTES PÁRRAFOS PARA OCUPAR EL LUGAR CORRESPONDIENTE, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
