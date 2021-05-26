@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2020-05-29"
+last_updated: "2021-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2021.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -255,11 +255,9 @@ IX. Intervenir en las discusiones y votaciones conforme a los procedimientos y f
 
 X. Contar cuando así lo soliciten, con el registro de audio, video, y trascripción estenográfica del trabajo plenario y de comisiones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
-
-XI.- Recibir con oportunidad los dictámenes, por medio de documento impreso o actuación electrónica, de conformidad a lo establecido en el Reglamento;
+XI. Recibir con oportunidad todas las iniciativas y los dictámenes, por medio de documento impreso o actuación electrónica, de conformidad a lo establecido en el Reglamento;
 
 XII. Solicitar licencia para separarse del cargo, así como para reincorporarse a sus funciones;
 
@@ -463,9 +461,9 @@ VIII. Proponer ante la Asamblea el nombramiento de los integrantes de las comisi
 
 IX. Resolver lo conducente sobre las licencias de los Diputados, del Secretario General, Oficial Mayor y titulares administrativos a su cargo;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2021)</small>
 
-X. Organizar y coordinar el área de Oficialía de Partes;
+X. Organizar y coordinar el Sistema Institucional de Archivos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2020)</small>
 
@@ -785,15 +783,17 @@ XX. Asuntos Migratorios; Gestoría Social y Grupos Vulnerables;
 
 XXI. Asuntos Pesqueros y Desarrollo Acuícola;
 
-XXII. Transparencia e Información Gubernamental;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2021)</small>
+
+XXII. Transparencia, Información Gubernamental, Protección de Datos y Archivos.
 
 > <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 XXIII. Ciencia, Tecnología e Innovación.
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2021)</small>
 
-XXIV. Participación Ciudadana.
+XXIV. Participación Ciudadana y Anticorrupción.
 
 Estas comisiones podrán ampliarse o disminuirse por acuerdo de la Legislatura, su funcionamiento será permanente y se regirán de conformidad a lo dispuesto por el Reglamento.
 
@@ -881,9 +881,9 @@ La estructura técnica del Congreso se integra por la Secretaría General, la Of
 
 Los titulares de los órganos técnicos serán propuestos por la Comisión de Gobierno, requiriéndose para su designación el voto afirmativo de las dos terceras partes de los integrantes de la Asamblea. Solo podrán ser removidos de sus cargos por causa de responsabilidad en términos de lo previsto por el Título Octavo de la Constitución Local y la Ley en materia de Responsabilidades Administrativas.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2021)</small>
 
-El período de duración del encargo comprenderá de la fecha de su designación y hasta culminar la Legislatura, y podrán ser ratificados una sola vez; la ratificación, remoción o sustitución en su caso, deberá ser aprobada con la misma votación.
+El período de duración del encargo será de la fecha de su designación y lo que comprenda la Legislatura que los designa, los cuales continuarán en el ejercicio de sus funciones hasta que la nueva Legislatura nombre a las personas titulares que hubieren de sucederles conforme al procedimiento respectivo, y podrán ser ratificados una sola vez; la ratificación, remoción o sustitución en su caso, deberá ser aprobada con la misma votación.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
@@ -925,15 +925,25 @@ I. Unidades de Comunicación Social;
 
 II. Unidad de Gestoría Social;
 
-III. Unidad de Enlace para la Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2021)</small>
+
+III. Unidad de Transparencia;
 
 > <small>(F. DE E., P.O. 16 DE ENERO DE 2014)</small>
 
 IV. Unidad Jurídica;
 
-V. Unidad de Asesores, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2021)</small>
 
-VI. Unidad de Tecnologías de la Información y Comunicaciones.
+V. Unidad de Asesores;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2021)</small>
+
+VI. Unidad de Tecnologías de la Información y Comunicaciones, y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2021)</small>
+
+VII. Coordinación de Archivos.
 
 #### SECCIÓN SEGUNDA. SECRETARÍA GENERAL
 
@@ -1109,13 +1119,11 @@ La administración de los recursos se realizará conforme a los principios seña
 
 #### SECCIÓN CUARTA. CONTRALORÍA INTERNA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2021)</small>
 
 ###### Artículo 82.
 
-La Contraloría Interna es la dependencia competente para promover el desarrollo administrativo institucional y verificar el cumplimiento de las obligaciones administrativas y legales de los servidores públicos de las demás dependencias del Congreso; al efecto podrá recibir las quejas, realizar investigaciones, auditorias y la aplicación de los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos del Congreso, de conformidad a la presente Ley, el Reglamento, la Ley de Responsabilidades de Servidores Públicos del Estado de Nayarit y demás ordenamientos jurídicos aplicables.
+La Contraloria Interna es el órgano interno de control y la dependencia competente para promover el desarrollo administrativo institucional y verificar el cumplimiento de las obligaciones administrativas y legales de los servidores públicos de las demás dependencias del Congreso; al efecto podrá realizar investigaciones, auditorías, al igual que recibir, investigar, substanciar y resolver las quejas respecto de la aplicación de los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos del Congreso, de conformidad a la presente Ley, el Reglamento, la Ley General de Responsabilidades Administrativas y demás ordenamientos jurídicos aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1123,17 +1131,21 @@ La Contraloría Interna es la dependencia competente para promover el desarrollo
 
 La Contraloría Interna para el cumplimiento de sus funciones contará con la estructura siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+I.- Dirección de Auditoría Financiera;
 
-I.- Dirección de Auditoría Financiera, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2021)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II.- Dirección de Auditoría Operacional y Administrativa;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2021)</small>
 
-II.- Dirección de Auditoria Operacional y Administrativa.
+III.- Autoridad Investigadora, y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2021)</small>
+
+IV.- Autoridad Substanciadora.
 
 La Contraloría dependerá técnicamente de la Comisión de Hacienda, Cuenta Pública y Presupuesto en los términos de esta ley, debiendo presentarles un informe trimestral sobre el cumplimiento de sus funciones.
 
@@ -1405,9 +1417,9 @@ Las modalidades para la utilización de cada uno de los sistemas de votación se
 
 Para profesionalizar y hacer más efectivos los servicios técnicos de apoyo legislativo, parlamentario y de orden administrativo, se instituye el Servicio Profesional de Carrera.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2021)</small>
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+Se implementarán capacitaciones constantes para incrementar el conocimiento de los legisladores propietarios y suplentes respecto de las funciones y prácticas legislativas.
 
 ###### Artículo 103.
 
@@ -1680,3 +1692,11 @@ P.O. 29 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT”.]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 26 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DE FUNCIONAMIENTO, COMPETENCIAS Y ESTRUCTURA INTERNA DEL CONGRESO DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Las personas titulares de los órganos técnicos del Congreso del Estado de Nayarit que se encuentran actualmente en funciones, continuarán en el ejercicio de su encargo hasta que la nueva Legislatura nombre a las personas titulares que hubieren de sucederles conforme al procedimiento respectivo.
