@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-mental-del-estado-de-morelos-83235"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-12"
-last_updated: "2018-09-26"
+last_updated: "2021-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 
@@ -593,9 +593,11 @@ IV.- Sensibilizar a la sociedad sobre los trastornos mentales y las alternativas
 
 Además de los grupos señalados en el artículo anterior, la Secretaría podrá considerar otras enfermedades, tomando en cuenta los estudios e investigaciones científicas que realice el Sistema de Información, Vigilancia y Evaluación en Salud Mental, mismos que serán agrupados e integrados en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2021)</small>
+
 ###### Artículo 42.
 
-La Secretaría, en coordinación con la Secretaría de Educación y Secretaría de Educación Pública del Gobierno federal, llevará a cabo acciones de coordinación para la aplicación de programas relacionados con la salud mental infantil en educación inicial y primaria, así como proporcionar material informativo básico en salud mental a los padres de familia, con el fin de identificar y prevenir algún tipo de trastorno en el menor y aplicar las medidas conducentes.
+La Secretaría, en coordinación con la Secretaría de Educación y Secretaría de Educación Pública del Gobierno Federal, llevará a cabo acciones de coordinación para la aplicación de programas relacionados con la salud mental infantil y juvenil en educación básica, media superior y superior, así como proporcionar material informativo básico y de fácil comprensión sobre salud mental a los padres de familia, con el fin de identificar diversos tipos de trastornos y prevenir suicidios, aplicando las medidas conducentes.
 
 ###### Artículo 43.
 
@@ -1076,3 +1078,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
+
+P.O. 26 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CIENTO CINCUENTA Y TRES POR EL QUE SE REFORMA EL ARTÍCULO 42 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MORELOS".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el Presente Decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que contravengan la presente reforma.
