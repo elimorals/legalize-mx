@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-promocion-de-la-convivencia-libre-de-violencia-8554
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-31"
-last_updated: "2019-12-09"
+last_updated: "2021-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85541&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-01-25"
 
 LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MAYO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 31 de enero de 2012.
 
@@ -56,9 +56,9 @@ LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLA
 
 Las disposiciones de esta Ley son de orden público, interés social y observancia general en la Ciudad de México y tienen por objeto:
 
-> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-I. Establecer los principios y criterios que, desde la perspectiva de una cultura de paz, enfoque de género y de derechos humanos de la infancia y juventud, orienten el diseño e instrumentación, evaluación y control de las políticas públicas para reconocer, atender, erradicar y prevenir el acoso escolar y la violencia en el entorno escolar, garantizando así la integridad física y psicológica de los estudiantes de los niveles básico y medio superior en la Ciudad de México.
+I. Establecer los principios y criterios que, desde la perspectiva de una cultura de paz, enfoque de género y de derechos humanos de la infancia y juventud, orienten el diseño e instrumentación, evaluación y control de las políticas públicas para reconocer, atender, erradicar y prevenir el acoso escolar y la violencia en el entorno escolar, garantizando así la integridad física y psicológica de la comunidad estudiantil de los niveles básico y medio superior en la Ciudad de México.
 
 II. Diseñar mecanismos, instrumentos y procedimientos para garantizar el derecho de las personas que integran la comunidad educativa a una vida libre de violencia en el entorno escolar promoviendo su convivencia pacífica;
 
@@ -104,17 +104,21 @@ VI. Ley: Ley para la Promoción de la Convivencia Libre de Violencia en el Entor
 
 VII. Organizaciones de la Sociedad Civil: agrupaciones u organizaciones mexicanas que, estando legalmente constituidas, realicen alguna o algunas de las actividades de apoyo, promoción y defensa de los derechos humanos, en materia de prevención o atención de la violencia en el entorno escolar o maltrato escolar que no persigan fines de lucro ni de proselitismo partidista, político-electoral o religioso, sin menoscabo de las obligaciones señaladas en otras disposiciones legales;
 
-> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-VIII. Personas involucradas en una dinámica de violencia en el entorno escolar: las personas que en forma individual o colectiva forman parte de una dinámica sistemática y reiterada de violencia dentro del ámbito escolar y que situacionalmente pueden asumir roles de reproductores o de receptores de la misma, tanto de forma directa como indirecta. Las principales personas que pueden asumir los referidos roles son fundamentalmente: los estudiantes, los profesores, el personal administrativo de las instituciones escolares así como los familiares y tutores;
+VIII. Personas involucradas en una dinámica de violencia en el entorno escolar: las personas que en forma individual o colectiva forman parte de una dinámica sistemática y reiterada de violencia dentro del ámbito escolar y que situacionalmente pueden asumir roles de reproductores o de víctimas de la misma, tanto de forma directa como indirecta. Las principales personas que pueden asumir los referidos roles son fundamentalmente: la comunidad estudiantil, las y los profesores, el personal administrativo de las instituciones escolares, así como los familiares y tutores;
 
-IX. Persona receptora de maltrato escolar: integrante de la comunidad educativa que sufra algún tipo de maltrato en cualquiera de sus tipos o modalidades por parte de otro integrante o integrantes de la comunidad educativa;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+IX. Víctima de maltrato escolar: integrante de la comunidad educativa que sufra algún tipo de maltrato en cualquiera de sus tipos o modalidades por parte de otro integrante o integrantes de la comunidad educativa;
 
 > <small>(ADICIONADA, G.O. 5 DE OCTUBRE DE 2017)</small>
 
 X. Persona reproductora de maltrato escolar: integrante de la comunidad educativa que ejerza conscientemente algún tipo de maltrato en cualquiera de sus tipos o modalidades hacia otro integrante o integrantes de la comunidad educativa;
 
-XI. Programa: el Programa General para la Prevención y Atención de la Violencia en el Entorno Escolar del Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+XI. Programa: el Programa General para la Prevención y Atención de la Violencia en el Entorno Escolar de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -124,9 +128,9 @@ XII. Comisión Interinstitucional: Comisión Interinstitucional para la Conviven
 
 XIII. Secretaría de Educación: la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-XIV. Receptor indirecto del maltrato escolar: familiares y, en su caso, tutores de la persona receptora del maltrato sistemático y reiterado en la comunidad educativa, personas que tengan o hayan tenido relación o convivencia con aquella y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo del maltrato ejercido en el entorno escolar; se considerarán también a aquellas personas que presencien el maltrato que se ejerce contra integrantes de la comunidad educativa, en calidad de testigos;
+XIV. Víctima indirecta del maltrato escolar: familiares y, en su caso, tutores de la persona víctima del maltrato sistemático y reiterado en la comunidad educativa, personas que tengan o hayan tenido relación o convivencia con aquella y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo del maltrato ejercido en el entorno escolar; se considerarán también a aquellas personas que presencien el maltrato que se ejerce contra integrantes de la comunidad educativa, en calidad de testigos;
 
 XV. Observatorio: el Observatorio sobre Convivencia en el Entorno Escolar del Distrito Federal.
 
@@ -180,13 +184,17 @@ XIV. El enfoque de derechos humanos.
 
 Los principios de esta Ley constituyen el marco conforme al cual las autoridades deberán planear, crear, ejecutar, dar seguimiento y evaluar el conjunto de acciones de gobierno para garantizar un ambiente libre de violencia en el entorno escolar y de maltrato escolar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2021)</small>
+
 ###### Artículo 4.
 
-La persona receptora de cualquier tipo y modalidad de violencia en el entorno escolar o de maltrato escolar tiene derecho a:
+La persona víctima de cualquier tipo y modalidad de violencia en el entorno escolar o de maltrato escolar tiene derecho a:
 
 I. Ser tratada con respeto a su integridad y el ejercicio pleno de sus derechos tanto por la comunidad educativa, como por las autoridades competentes;
 
-II. Contar con protección inmediata y efectiva por parte de las autoridades del Distrito Federal cuando se encuentre en riesgo su integridad física o psicológica;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+II. Contar con protección inmediata y efectiva por parte de las autoridades de la Ciudad de México cuando se encuentre en riesgo su integridad física o psicológica;
 
 III. Recibir información, veraz y suficiente que le permita decidir sobre las opciones de atención;
 
@@ -208,7 +216,9 @@ La persona que por sus actos se define como generadora de violencia en el entorn
 
 I. Ser tratada con respeto a su integridad y el ejercicio pleno de sus derechos;
 
-II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad, al ser receptores de violencia en otros contextos;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad, al ser víctima de violencia en otros contextos;
 
 III. Recibir información, veraz y suficiente que le permita decidir sobre las opciones de atención;
 
@@ -228,9 +238,11 @@ Las autoridades y la Comunidad escolar, en el ámbito de su competencia, deberá
 
 Las autoridades, en el ámbito de su competencia, desarrollarán e impulsarán campañas de difusión que transmitan la importancia de una convivencia democrática y libre de violencia en los ámbitos familiar, educativo, comunitario, social y familiar, haciendo uso también de las tecnologías de la información y comunicación para fomentar una cultura de la paz en el entorno escolar.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
+
 ###### Artículo 8.
 
-Las autoridades desarrollarán en el Reglamento de la presente Ley, sin menoscabo de las disposiciones que en ella se establecen, modelos de atención integral de las personas receptoras y generadoras de violencia en el entorno escolar y de maltrato escolar, así como para las receptoras indirectas de la misma.
+Las autoridades desarrollarán en el Reglamento de la presente Ley, sin menoscabo de las disposiciones que en ella se establecen, modelos de atención integral de las víctimas y de las generadoras de violencia en el entorno escolar y de maltrato escolar, así como para las víctimas indirectas de la misma.
 
 ###### Artículo 9.
 
@@ -240,11 +252,11 @@ En todas las acciones que se deriven con motivo de la aplicación de la Ley, se 
 
 Las autoridades para efectos de la presente Ley, en los Anteproyectos de Presupuestos que formulen, contendrán la previsión de gasto para el desarrollo de acciones de conocimiento, atención y prevención de violencia en el entorno escolar y de maltrato escolar.
 
-> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
 
 ###### Artículo 11.
 
-La Secretaría de Finanzas de la Ciudad de México, preverá en el Proyecto de Presupuesto de Egresos que la persona titular de la Jefatura de Gobierno envíe al Congreso de la Ciudad de México para su análisis, discusión y, en su caso, aprobación, las partidas presupuestales respectivas para la aplicación de acciones de atención y prevención en el entorno escolar conforme a las previsiones de gasto realicen las autoridades de la presente Ley.
+La Secretaría de Administración y Finanzas de la Ciudad de México, preverá en el Proyecto de Presupuesto de Egresos que la persona titular de la Jefatura de Gobierno envíe al Congreso de la Ciudad de México para su análisis, discusión y, en su caso, aprobación, las partidas presupuestales respectivas para la aplicación de acciones de atención y prevención en el entorno escolar conforme a las previsiones de gasto realicen las autoridades de la presente Ley.
 
 > <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -252,9 +264,11 @@ La Secretaría de Finanzas de la Ciudad de México, preverá en el Proyecto de P
 
 El Congreso de la Ciudad de México, durante el análisis, discusión y aprobación del Presupuesto de Egresos para cada ejercicio fiscal, tomará en cuenta las previsiones de gasto que formulen las autoridades de la presente Ley para el desarrollo de acciones de conocimiento, atención y prevención de violencia en el entorno escolar y de maltrato escolar, debiendo asignar los recursos de manera específica y en programas prioritarios.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
+
 ###### Artículo 13.
 
-En todo lo no previsto por la presente Ley, se observarán las disposiciones normativas compatibles con el objeto de la presente ley contenidas en la Ley de los Derechos de las Niñas y Niños, la Ley de las y los Jóvenes, la Ley de Asistencia y Prevención de la Violencia Familiar, la Ley de Salud, Ley de Educación, Ley de Procedimiento Administrativo, Ley de Protección de Datos Personales y el Código Civil, todos para el Distrito Federal, así como la Legislación Federal y los Tratados Internacionales ratificados por el Estado Mexicano.
+En todo lo no previsto por la presente Ley, se observarán las disposiciones normativas compatibles con el objeto de la presente ley contenidas en la Ley de los Derechos de Niñas, Niños y Adolescentes, la Ley de los Derechos de las Personas Jóvenes, la Ley de Salud, Ley de Educación, Ley de Procedimiento Administrativo, Ley de Protección de Datos Personales en Posesión de Sujetos Obligados y el Código Civil, todas vigentes en la Ciudad de México, así como la Legislación Federal y los Tratados Internacionales ratificados por el Estado Mexicano.
 
 ### Capítulo II. De las autoridades y sus competencias
 
@@ -280,13 +294,13 @@ IV. La Secretaría de Inclusión y Bienestar Social de la Ciudad de México;
 
 V. La Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-VI. La Procuraduría General de Justicia de la Ciudad de México;
+VI. La Fiscalía General de Justicia de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-VII. Los Alcaldes de las 16 demarcaciones territoriales;
+VII. Las Alcaldías de las 16 demarcaciones territoriales;
 
 > <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -296,15 +310,19 @@ VIII. El Sistema para el Desarrollo Integral de la Familia de la Ciudad de Méxi
 
 IX. Los directores de los planteles escolares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2021)</small>
+
 ###### Artículo 15.
 
-Corresponde a la Secretaría de Salud del Distrito Federal:
+Corresponde a la Secretaría de Salud de la Ciudad de México:
 
 I. Realizar investigaciones, recabar y sistematizar datos estadísticos en materia de salud pública sobre los impactos que tiene la violencia en el entorno escolar, especialmente el maltrato escolar, respecto a la salud psicológica de las niñas, los niños y las y los jóvenes, cuyos resultados contribuyan en la elaboración de políticas públicas para su prevención a cargo de la Red;
 
 II. Ejecutar programas especializados para prevenir las afectaciones en la salud mental de las personas en contextos de violencia en el entorno escolar, específicamente de las derivadas por el maltrato escolar y dirigidas a los integrantes de la comunidad educativa;
 
-III. Diseñar, implementar y evaluar periódicamente un programa integral de apoyo a las y los estudiantes receptores de maltrato escolar, receptores indirectos, así como a las personas generadoras de violencia en el entorno escolar, para proporcionar asistencia médica y psicológica especializada, dando seguimiento a la recuperación postraumática;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+III. Diseñar, implementar y evaluar periódicamente un programa integral de apoyo a las y los estudiantes víctimas de maltrato escolar, víctimas indirectas, así como a las personas generadoras de violencia en el entorno escolar, para proporcionar asistencia médica y psicológica especializada, dando seguimiento a la recuperación postraumática;
 
 IV. Elaborar e instrumentar mecanismos, programas y acciones tendientes a identificar y disminuir los factores de riesgo que afectan la salud de las y los estudiantes en contextos de maltrato escolar;
 
@@ -322,13 +340,19 @@ I. Coordinar la elaboración del Programa;
 
 II. Proponer las normas de operación y funcionamiento del Comité Técnico del Observatorio;
 
-III. Proporcionar atención adecuada a nivel psicosocial y, si es el caso, orientación legal a la persona generadora y receptora de maltrato escolar, así como a las receptoras indirectas de maltrato dentro la comunidad educativa;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-IV. Realizar estudios, investigaciones, informes y diagnósticos que permitan conocer la incidencia del fenómeno de maltrato entre escolares en las escuelas del Distrito Federal, así como su impacto en el entorno escolar en la deserción de los centros educativos, en el desempeño académico de los estudiantes, en sus vínculos familiares y comunitarios y el desarrollo integral de todas sus potencialidades;
+III. Proporcionar atención adecuada a nivel psicosocial y, si es el caso, orientación legal a la persona generadora y a la víctima de maltrato escolar, así como a las víctimas indirectas de maltrato dentro la comunidad educativa;
+
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+IV. Realizar estudios, investigaciones, informes y diagnósticos que permitan conocer la incidencia del fenómeno de maltrato entre escolares en las escuelas de la Ciudad de México, así como su impacto en el entorno escolar en la deserción de los centros educativos, en el desempeño académico de las y los estudiantes, en sus vínculos familiares y comunitarios y el desarrollo integral de todas sus potencialidades;
 
 V. Implementar una encuesta anual dirigida a estudiantes, personal docente, directivos escolares, personal administrativo de las escuelas, padres y madres de familia o tutores para identificar los centros educativos con mayor incidencia de maltrato escolar, la cual se mantendrá bajo resguardo en los términos de la Ley de Archivos del Distrito Federal por tener valor histórico;
 
-VI. Diseñar lineamientos, mecanismos, instrumentos e indicadores para el seguimiento y vigilancia de los objetivos de la presente Ley; así como para la capacitación y especialización de las y de los servidores públicos del Gobierno del Distrito Federal sobre el tema de violencia en el entorno escolar y maltrato escolar desde un enfoque de derechos humanos y con perspectiva de género;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+VI. Diseñar lineamientos, mecanismos, instrumentos e indicadores para el seguimiento y vigilancia de los objetivos de la presente Ley; así como para la capacitación y especialización de las y de los servidores públicos del Gobierno de la Ciudad de México sobre el tema de violencia en el entorno escolar y maltrato escolar desde un enfoque de derechos humanos y con perspectiva de género;
 
 VII. Celebrar convenios de cooperación, coordinación y concertación con los sectores públicos, privados y sociales, para promover los derechos de las niñas, los niños, las y los jóvenes, y el fomento de la cultura de la paz, resolución no violenta de conflictos, fortalecimiento de la cohesión comunitaria y convivencia armónica dentro de la comunidad educativa;
 
@@ -336,7 +360,9 @@ VIII. Generar acciones y mecanismos extraescolares que favorezcan el desarrollo 
 
 IX. Establecer mecanismos gratuitos de asesoría, orientación, reporte de casos y de protección para las niñas, los niños, las y los jóvenes que estén involucrados en el maltrato escolar, procurando ofrecer mecanismos remotos de recepción a través de una línea pública de atención telefónica y por medios electrónicos;
 
-X. Impartir capacitación y especialización, en coordinación con la Red, sobre la promoción y respeto de los derechos humanos de las niñas, los niños, las y los jóvenes, y de la perspectiva de género, al personal de las instituciones implicadas en la atención, prevención y tratamiento del maltrato escolar;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+X. Impartir capacitación y especialización, en coordinación con la Red, sobre la promoción y respeto de los derechos humanos de las niñas, los niños, las y los jóvenes, sobre la cultura de paz y de la perspectiva de género, al personal de las instituciones implicadas en la atención, prevención y tratamiento del maltrato escolar;
 
 XI. Impulsar, conjuntamente con las autoridades respectivas, la capacitación sobre el conocimiento, atención y prevención de la violencia en el entorno escolar y maltrato escolar al personal docente, directivos escolares, personal administrativo de las escuelas, padres y madres de familia o tutores de instituciones educativas públicas y a las personas que voluntariamente deseen recibirla;
 
@@ -356,9 +382,11 @@ XVI. Coordinar acciones con organizaciones de la sociedad civil, asociaciones de
 
 XVII. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2021)</small>
+
 ###### Artículo 17.
 
-Corresponde a la Secretaría de Desarrollo Social del Distrito Federal:
+Corresponde a la Secretaría de Inclusión y Bienestar Social de la Ciudad de México:
 
 I. Realizar campañas dirigidas a la población en general, especialmente a las niñas, los niños, las y los jóvenes, que pongan de manifiesto la importancia de una convivencia democrática y libre de violencia y en los ámbitos familiar, educativo, comunitario, social, así como el fomento de la cultura de la paz y la cohesión comunitaria; dicha información deberá ser incluida en los materiales de difusión de las acciones de política social a su cargo;
 
@@ -370,9 +398,11 @@ IV. Realizar acciones de capacitación y sensibilización a su personal en el te
 
 V. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2021)</small>
+
 ###### Artículo 18.
 
-Corresponde a la Secretaría de Seguridad Pública del Distrito Federal:
+Corresponde a la Secretaría de Seguridad Ciudadana de la Ciudad de México:
 
 > <small>(REFORMADA, G.O. 12 DE JUNIO DE 2012)</small>
 
@@ -386,9 +416,11 @@ IV. Realizar acciones de capacitación y sensibilización a su personal en el te
 
 V. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2021)</small>
+
 ###### Artículo 19.
 
-Corresponde a la Procuraduría General de Justicia del Distrito Federal:
+Corresponde a la Fiscalía General de Justicia de la Ciudad de México:
 
 I. Elaborar e instrumentar acciones de política de prevención social que incidan en la prevención de la violencia en el entorno escolar y del maltrato escolar dando prioridad a las zonas de mayor incidencia;
 
@@ -400,17 +432,25 @@ III. Realizar acciones de capacitación y sensibilización a su personal en el t
 
 IV. Formular y administrar bases de datos que contengan información de carácter público a efecto que pueda registrarse el seguimiento de los casos donde las personas que integren la comunidad educativa sean víctima de algún delito que atente contra su integridad personal, desde la etapa de averiguación previa o investigación y hasta la ejecución de la sentencia, incluyendo el procedimiento respectivo para la reparación del daño, observando la mayor protección de la identidad y datos personales conforme a la legislación aplicable;
 
-V. Participar con las instancias correspondientes en mecanismos de detección, denuncia y canalización de los casos de violencia en el entorno escolar, así como prácticas discriminatorias y de maltrato en la comunidad educativa, que permita articular una estrategia facilitadota (sic) de referencia y contrarreferencia de personas generadoras y receptoras de las mismas;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+V. Participar con las instancias correspondientes en mecanismos de detección, denuncia y canalización de los casos de violencia en el entorno escolar, así como prácticas discriminatorias y de maltrato en la comunidad educativa, que permita articular una estrategia facilitadora de referencia y contrarreferencia de personas generadoras y víctimas de las mismas;
 
 VI. Colaborar con las autoridades correspondientes para conocer, atender y prevenir la violencia en el entorno escolar y el maltrato escolar;
 
 VII. Difundir los servicios que prestan los centros que integran el Sistema de Auxilio a Víctimas del Delito; los derechos que tienen las víctimas de delitos que atentan contra la libertad y la seguridad sexuales y el normal desarrollo psicosexual, así como de violencia en el entorno escolar o maltrato escolar y las agencias especializadas que las atienden;
 
-VIII. Operar el Centro de Atención a Riesgos Victímales y Adicciones, para atender de manera integral y multidisciplinaria a las y los estudiantes que sufren maltrato escolar y las personas receptoras de maltrato escolar, independientemente de que las conductas de los agresores constituyan o no delito;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-IX. Crear unidades especializadas para la atención de las personas receptoras de violencia en el entorno escolar o de maltrato escolar que sean víctimas del delito;
+VIII. Operar el Centro de Atención a Riesgos Victímales y Adicciones, para atender de manera integral y multidisciplinaria a las y los estudiantes que sufren maltrato escolar y las personas víctimas de maltrato escolar, independientemente de que las conductas de las personas agresoras constituyan o no delito;
 
-X. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las y los estudiantes receptores de maltrato escolar, y
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+IX. Crear unidades especializadas para la atención de las víctimas de violencia en el entorno escolar o de maltrato escolar que sean víctimas del delito;
+
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+X. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las y los estudiantes víctimas de maltrato escolar, y
 
 XI. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
@@ -422,7 +462,9 @@ Corresponde a las y los alcaldes:
 
 I. Coordinarse con las autoridades correspondientes para fomentar un ambiente libre de violencia en el entorno escolar, priorizando su prevención;
 
-II. Proporcionar asesoría jurídica a las personas receptoras de maltrato en el entorno escolar;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+II. Proporcionar asesoría jurídica a las personas víctimas de maltrato en el entorno escolar;
 
 III. Impulsar campañas de difusión que transmitan la importancia de una convivencia libre de violencia y democrática en los ámbitos familiar, educativo, comunitario, social y familiar;
 
@@ -434,13 +476,17 @@ VI. Establecer Consejos Delegacionales para la Prevención y Atención de la Vio
 
 VII. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2021)</small>
+
 ###### Artículo 21.
 
-Corresponde al Sistema para el Desarrollo Integral de la Familia del Distrito Federal:
+Corresponde al Sistema para el Desarrollo Integral de la Familia de la Ciudad de México:
 
 I. Planear y desarrollar conjuntamente con la Red, campañas de información y prevención del maltrato entre escolares desde el ámbito familiar, así como para promover la convivencia libre de violencia en el entorno escolar;
 
-II. Participar con las instancias correspondientes en mecanismos de detección, denuncia y canalización de los casos de violencia en el entorno escolar, así como prácticas discriminatorias y de maltrato escolar, que permita articular una estrategia facilitadora de referencia y contrarreferencia de personas generadoras y receptoras de ese maltrato;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+II. Participar con las instancias correspondientes en mecanismos de detección, denuncia y canalización de los casos de violencia en el entorno escolar, así como prácticas discriminatorias y de maltrato escolar, que permita articular una estrategia facilitadora de referencia y contrarreferencia de personas generadoras y víctimas de ese maltrato;
 
 III. Realizar acciones de capacitación y sensibilización a su personal en el tema de violencia en el entorno escolar, con el fin de proporcionar una atención adecuada a todos los involucrados, basada en el respeto y garantía de los derechos humanos de las niñas, los niños, las y los jóvenes;
 
@@ -498,13 +544,17 @@ IV. La Secretaría de Inclusión y Bienestar Social de la Ciudad de México;
 
 V. La Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
-VI. La Procuraduría General de Justicia de la Ciudad de México;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+VI. La Fiscalía General de Justicia de la Ciudad de México;
 
 VII. El Sistema para el Desarrollo Integral de la Familia de la Ciudad de México;
 
 VIII. Un representante por cada demarcación territorial;
 
-IX. Un representante del Congreso de la Ciudad de México;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+IX. La Junta Directiva de las Comisiones de Educación y de Atención Especial a Víctimas del Congreso de la Ciudad de México;
 
 X. Representantes de las Zonas Escolares de la Ciudad de México;
 
@@ -534,15 +584,15 @@ El Presidente de la Comisión Interinstitucional formulará invitación para que
 
 Adicionalmente, se invitará a las sesiones, con voz pero sin voto, a personas expertas en materia de maltrato entre escolares representantes del sector público, social y privado; a representantes de instituciones públicas locales o federales; a representantes de instituciones educativas y de investigación y a representantes de organismos internacionales cuando se traten asuntos relacionados con sus respectivas atribuciones o especialidades, o cuya experiencia profesional sea útil para el análisis de los casos particulares que se presenten a deliberación para que emitan opiniones, aporten información, o apoyen acciones sobre los temas que se aborden.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2021)</small>
 
 ###### Artículo 23.
 
-La Comisión Interinstitucional sesionará de manera ordinaria de forma cuatrimestral y de manera extraordinaria cuando sea necesario o a petición de cualquiera de sus miembros, quienes solicitarán la reunión a través de la Presidencia o la Secretaría Técnica.
+La Comisión Interinstitucional sesionará de manera ordinaria de forma trimestral y de manera extraordinaria cuando sea necesario o a petición de cualquiera de sus miembros, quienes solicitarán la reunión a través de la Presidencia o la Secretaría Técnica.
 
-> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
 
-La Comisión Interinstitucional sesionará válidamente con la asistencia de la mayoría de sus integrantes. Si la sesión no pudiera celebrarse el día señalado por falta de quórum, se emitirá una nueva convocatoria, en la cual se indicará la fecha para celebrar la sesión.
+La Comisión Interinstitucional sesionará válidamente con la asistencia de la mayoría de sus integrantes. Si la sesión no pudiera celebrarse el día señalado por falta de quórum, se emitirá una nueva convocatoria, en la cual se indicará la fecha para celebrar la sesión que deberá realizarse en un plazo máximo de 30 días naturales.
 
 > <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -578,7 +628,9 @@ IV. Fungir como órgano de consulta en temas de violencia en el entorno escolar 
 
 V. Realizar, por sí o través de terceros, investigaciones multidisciplinarias e intersectoriales, en colaboración con instituciones académicas, organismos de la sociedad civil e internacionales, que permita conocer el estado que guarda el maltrato en las escuelas;
 
-VI. Coadyuvar en el diseño y difusión de campañas informativas en los medios de comunicación oficial o social, sobre los tipos y modalidades de violencia en el entorno escolar y maltrato escolar, así como de las instituciones que atienden a las posibles personas generadoras y receptoras de maltrato escolar;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+VI. Coadyuvar en el diseño y difusión de campañas informativas en los medios de comunicación oficial o social, sobre los tipos y modalidades de violencia en el entorno escolar y maltrato escolar, así como de las instituciones que atienden a las posibles personas generadoras y víctimas de maltrato escolar;
 
 VII. Promover la celebración de convenios de colaboración con las autoridades federales, locales, universidades, institutos de investigación, así como con organismos de la sociedad civil interesados en el estudio de la violencia en el entorno escolar y maltrato escolar;
 
@@ -620,11 +672,15 @@ XV. Las demás que señalen otras disposiciones legales.
 
 (DEROGADO, G.O. 9 DE DICIEMBRE DE 2019)
 
-### Capítulo III. Del Programa General para la Prevención y Atención de la Violencia en el Entorno Escolar del Distrito Federal
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE MAYO DE 2021)</small>
+
+### Capítulo III. Del Programa General para la Prevención y Atención de la Violencia en el Entorno Escolar de la Ciudad de México
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2021)</small>
 
 ###### Artículo 30.
 
-El Programa constituye la base de la política pública del Distrito Federal para el diseño y ejecución de acciones que promuevan un ambiente libre de violencia en el entorno escolar y de maltrato escolar.
+El Programa constituye la base de la política pública de la Ciudad de México para el diseño y ejecución de acciones que promuevan un ambiente libre de violencia en el entorno escolar y de maltrato escolar.
 
 Será propuesto por el Observatorio para su aprobación por la Red, previendo que su elaboración y revisión, de ser el caso, sea producto de un proceso de participación de todos los sectores interesados en el tema, especialmente de instituciones académicas, organismos internacionales que trabajan en la materia y organizaciones de la sociedad civil.
 
@@ -638,9 +694,11 @@ Fijará las líneas de acción que permitan a las autoridades cumplir con los pr
 
 ### Capítulo I. Del maltrato entre escolares y sus tipos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2021)</small>
+
 ###### Artículo 32.
 
-Se considera maltrato entre escolares, las conductas de maltrato e intimidación, discriminación entre estudiantes de una comunidad educativa. Asimismo, genera entre quien ejerce violencia y quien la recibe una relación jerárquica de dominación - sumisión, en la que el estudiante generador de maltrato vulnera en forma constante los derechos fundamentales del estudiante receptor del maltrato pudiendo ocasionarle repercusiones en su salud, bajo rendimiento en su desempeño escolar, depresión, inseguridad, baja autoestima, entre otras consecuencias que pongan en riesgo su integridad física y mental.
+Se considera maltrato entre escolares, las conductas de maltrato e intimidación, discriminación entre estudiantes de una comunidad educativa. Asimismo, genera entre quien ejerce violencia y quien la recibe una relación jerárquica de dominación - sumisión, en la que la o el estudiante generador de maltrato vulnera en forma constante los derechos fundamentales de la o el estudiante víctima del maltrato pudiendo ocasionarle repercusiones en su salud, bajo rendimiento en su desempeño escolar, depresión, inseguridad, baja autoestima, entre otras consecuencias que pongan en riesgo su integridad física y mental.
 
 El maltrato entre escolares es generado individual y colectivamente cuando se cometen acciones negativas o actos violentos de tipo físico, verbales, sexuales, psicoemocionales o a través de los medios tecnológicos, sin ser éstos respuestas a una acción predeterminada necesariamente, que ocurren de modo reiterativo prologándose durante un periodo de tiempo y que tienen como intención causar daño por el deseo consciente de herir, amenazar o discriminar por parte de uno o varios estudiantes a otro en el contexto escolar.
 
@@ -648,7 +706,9 @@ El maltrato entre escolares es generado individual y colectivamente cuando se co
 
 Para efectos de esta ley, son tipos de maltrato entre escolares los siguientes:
 
-I. Psicoemocional: toda acción u omisión dirigida a desvalorar, intimidar o controlar las acciones, comportamientos y decisiones, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, indiferencia, chantaje, humillaciones, comparaciones destructivas, abandono o actitudes devaluatorias, o cualquier otra, que provoque en quien la recibe alteración autocognitiva y autovalorativa que integran su autoestima o alteraciones en alguna esfera o área de su estructura psíquica.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 27 DE MAYO DE 2021)</small>
+
+I. Psicoemocional: toda acción u omisión dirigida a desvalorar, intimidar o controlar las conductas, comportamientos y decisiones, que pueden consistir en prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, indiferencia, chantaje, humillaciones, comparaciones destructivas, abandono o actitudes devaluatorias, exclusión, hostigamiento, rechazo a su identidad de género, o cualquier otra, que provoque en quien la recibe, alteración autocognitiva y/o autovalorativa que integran su autoestima o alteraciones en alguna esfera o área de su estructura psíquica.
 
 También comprende actos u omisiones cuyas formas de expresión pueden ser silencios, prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, insultos, actitudes de descuido, devaluatorias o de abandono que provoquen en la y el estudiante daño en cualquiera de sus esferas cognoscitiva, conductual, afectiva y social;
 
@@ -658,13 +718,23 @@ III. Físico indirecto: toda acción u omisión que ocasiona daño o menoscabo e
 
 IV. Sexual: toda acción u omisión que amenaza, pone en riesgo o lesiona la libertad, seguridad, integridad y desarrollo psicosexual de las y los estudiantes, como miradas o palabras lascivas, hostigamiento, prácticas sexuales no voluntarias, acoso, violación o el uso denigrante de la imagen de las y los estudiantes;
 
-V. A través de las Tecnologías de la Información y Comunicación: toda violencia psicoemocional implementada a partir del uso de plataformas virtuales y herramientas tecnológicas, tales como chats, blogs, redes sociales, correo electrónico, mensajes de texto enviados por aparatos celulares, foros, servidores que almacenan videos o fotografías, páginas web, teléfono y otros medios tecnológicos, incluyendo la suplantación de identidad por esa vía de comunicación. Suele ser anónima y masiva donde, por lo regular, la mayoría de integrantes de la comunidad educativa se entera de la violencia ejercida, y
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-VI. Verbal: acciones violentas que se manifiestan a través del uso del lenguaje, como los insultos, poner sobrenombres descalificativos, humillar, desvalorizar en público, entre otras.
+V. A través de las Tecnologías de la Información y Comunicación: toda violencia psicoemocional implementada a partir del uso de plataformas virtuales y herramientas tecnológicas, tales como chats, blogs, redes sociales, correo electrónico, mensajes de texto enviados por aparatos celulares, foros, servidores que almacenan videos o fotografías, páginas web, teléfono y otros medios tecnológicos, incluyendo la suplantación de identidad por esa vía de comunicación. Suele ser anónima y masiva donde, por lo regular, la mayoría de integrantes de la comunidad educativa se entera de la violencia ejercida;
+
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+VI. Verbal: acciones violentas que se manifiestan a través del uso del lenguaje, como los insultos, poner sobrenombres descalificativos, humillar, desvalorizar en público, entre otras, y
+
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2021)</small>
+
+VII. Patrimonial: conductas que ocasionan un daño o menoscabo a las pertenencias de la persona estudiante, así como acciones u omisiones que evidencien el menosprecio relacionado con su condición socioeconómica.
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
 
 ###### Artículo 34.
 
-El personal docente, directivos escolares y el personal administrativo de las escuelas dependientes del Gobierno del Distrito Federal que tengan conocimiento de casos de maltrato en cualquiera de sus manifestaciones definidas en esta Ley o de la comisión de algún delito en agravio de las y los estudiantes, lo harán del conocimiento inmediato y, en su caso, presentarán las (sic) denuncia correspondiente, ante la autoridad competente e informarán a los padres, madres de familia o tutores.
+El personal docente, directivos escolares y el personal administrativo de las escuelas dependientes del Gobierno de la Ciudad de México que tengan conocimiento de casos de maltrato en cualquiera de sus manifestaciones definidas en esta Ley o de la comisión de algún delito en agravio de las y los estudiantes, lo harán del conocimiento inmediato y, en su caso, presentarán la denuncia correspondiente, ante la autoridad competente e informarán a los padres, madres de familia o tutores.
 
 ### Capítulo II. De la prevención
 
@@ -684,27 +754,37 @@ A través de la prevención se propone brindar las habilidades psicosociales nec
 
 La Secretaría de Educación podrá firmar convenios de colaboración con instituciones educativas o con organizaciones de la sociedad civil para contar con manuales de buenas prácticas en materia de prevención y atención del maltrato entre escolares en México y en el extranjero.
 
-En los servicios educativos que impartan el Gobierno del Distrito Federal, sus organismos descentralizados y sus órganos desconcentrados, será obligatorio que el personal docente, directivos escolares y personal administrativo cursen los programas de capacitación que la Secretaría diseñe a partir de los manuales de buenas prácticas para conocer, atender y prevenir y (sic) el maltrato entre escolares.
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
 
-Las instituciones que presten servicios educativos en el Distrito Federal sin depender del Gobierno del Distrito Federal, podrán convenir con la Secretaría de Educación la incorporación a dichos programas de forma voluntaria.
+En los servicios educativos que impartan el Gobierno de la Ciudad de México, sus organismos descentralizados y sus órganos desconcentrados, será obligatorio que el personal docente, directivos escolares y personal administrativo cursen los programas de capacitación que la Secretaría diseñe a partir de los manuales de buenas prácticas para conocer, atender y prevenir y (sic) el maltrato entre escolares.
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
+
+Las instituciones que presten servicios educativos en la Ciudad de México sin depender del Gobierno de la Ciudad de México, podrán convenir con la Secretaría de Educación la incorporación a dichos programas de forma voluntaria.
 
 ### Capítulo III. De la atención y del Modelo Único de Atención Integral
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
+
 ###### Artículo 37.
 
-Las medidas de atención en materia de maltrato entre escolares son aquellos servicios psicológicos, sociales, médicos y jurídicos que permitan a todos los involucrados en una situación de maltrato escolar desarrollar las habilidades psicosociales para reparar las experiencias de violencia vividas, fomentando el empoderamiento de las y los estudiantes receptores de ese maltrato, la modificación de actitudes y comportamientos en quien violenta y el cambio en los patrones de convivencia de los integrantes de las comunidades educativas de los centros escolares involucrados.
+Las medidas de atención en materia de maltrato entre escolares son aquellos servicios psicológicos, sociales, médicos y jurídicos que permitan a todos los involucrados en una situación de maltrato escolar desarrollar las habilidades psicosociales para reparar las experiencias de violencia vividas, fomentando el empoderamiento de las y los estudiantes víctimas de ese maltrato, la modificación de actitudes y comportamientos en quien violenta y el cambio en los patrones de convivencia de los integrantes de las comunidades educativas de los centros escolares involucrados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2021)</small>
 
 ###### Artículo 38.
 
-La intervención especializada para las y los estudiantes receptores de maltrato entre escolares se regirá por los siguientes principios:
+La intervención especializada para las y los estudiantes víctimas de maltrato entre escolares se regirá por los siguientes principios:
 
 I. Atención integral: se realizará considerando el conjunto de necesidades derivadas de la situación de maltrato, tales como orientación psicológica y jurídica, atención médica, entre otras;
 
-II. Efectividad: se adoptarán las medidas necesarias para que las y los estudiantes receptores de maltrato, sobre todo aquellos que se encuentran en mayor condición de vulnerabilidad, accedan a los servicios integrales que les garantice el goce efectivo de sus derechos;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+II. Efectividad: se adoptarán las medidas necesarias para que las y los estudiantes víctimas de maltrato, sobre todo aquellos que se encuentran en mayor condición de vulnerabilidad, accedan a los servicios integrales que les garantice el goce efectivo de sus derechos;
 
-III. Auxilio oportuno: brindar apoyo inmediato y eficaz a los estudiantes en situación de riesgo o que hayan sido receptores de maltrato entre escolares, así como brindar protección a sus derechos fundamentales; este auxilio será extendido a las personas que sean generadoras de violencia en el entorno escolar con el fin de combatir en tiempo y de manera adecuada, las causas que dan origen a que ejerza violencia;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+III. Auxilio oportuno: brindar apoyo inmediato y eficaz a las y los estudiantes en situación de riesgo o que hayan sido víctimas de maltrato entre escolares, así como brindar protección a sus derechos fundamentales; este auxilio será extendido a las personas que sean generadoras de violencia en el entorno escolar con el fin de combatir en tiempo y de manera adecuada, las causas que dan origen a que ejerza violencia;
 
 > <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -714,9 +794,11 @@ IV. Respeto a los Derechos Humanos de las y los estudiantes: abstenerse en todo 
 
 V. El interés superior del niño y del adolescente.
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
+
 ###### Artículo 39.
 
-Con el fin de proporcionar una efectiva atención al maltrato entre escolares, se diseñará y aplicará un Modelo Único de Atención Integral, que garantice las intervenciones que en cada ámbito del maltrato que correspondan, con base en una unidad conceptual y un conjunto de lineamientos de coordinación que impidan la fragmentación de la acción de las dependencias y entidades y la revictimización que sufren las personas receptoras de violencia o de maltrato escolar al acudir a servicios de atención sin coordinación.
+Con el fin de proporcionar una efectiva atención al maltrato entre escolares, se diseñará y aplicará un Modelo Único de Atención Integral, que garantice las intervenciones que en cada ámbito del maltrato que correspondan, con base en una unidad conceptual y un conjunto de lineamientos de coordinación que impidan la fragmentación de la acción de las dependencias y entidades y la revictimización que sufren las víctimas de violencia o de maltrato escolar al acudir a servicios de atención sin coordinación.
 
 > <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -724,23 +806,27 @@ Con el fin de proporcionar una efectiva atención al maltrato entre escolares, s
 
 La elaboración del Modelo Único de Atención Integral será diseñada y coordinada por la Secretaría de Educación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2021)</small>
 
 ###### Artículo 41.
 
-El Modelo Único de Atención Integral establecerá que los servicios de atención social, psicológica, jurídica y médica de las distintas dependencias y entidades se coordinen para operar a través de la Comisión Interinstitucional, mediante una cédula de registro único, de tal manera que, con independencia de la institución a la que acudan por primera vez los estudiantes que vivan el fenómeno de maltrato, se garantice el seguimiento del caso hasta su conclusión.
+El Modelo Único de Atención Integral establecerá que los servicios de atención social, psicológica, jurídica y médica de las distintas dependencias y entidades se coordinen para operar a través de la Comisión Interinstitucional, mediante una cédula de registro único, de tal manera que, con independencia de la institución a la que acudan por primera vez las y los estudiantes que vivan el fenómeno de maltrato, se garantice el seguimiento del caso hasta su conclusión.
 
-> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
 
-El Reglamento de la presente Ley, contemplará las características y el mecanismo para instrumentar la cédula de registro único y el seguimiento posterior de los casos atendidos, cuya coordinación será responsabilidad de la Secretaría de Educación, observando las disposiciones contenidas en la Ley de Protección de Datos Personales para el Distrito Federal.
+El Reglamento de la presente Ley, contemplará las características y el mecanismo para instrumentar la cédula de registro único y el seguimiento posterior de los casos atendidos, cuya coordinación será responsabilidad de la Secretaría de Educación, observando las disposiciones contenidas en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México.
 
 ###### Artículo 42.
 
 El Modelo Único de Atención Integral tendrá las siguientes etapas:
 
-I. Identificación de la problemática, que consiste en determinar las características del problema, sus antecedentes, el tipo de maltrato, los efectos y posibles riesgos para el estudiante receptor de maltrato así como para el receptor indirecto de maltrato entre escolares, en su esfera social, económica, educativa y cultural;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-II. Determinación de prioridades, la cual identifica las necesidades inmediatas y mediatas, así como las medidas de protección que en su caso requiera el estudiante receptor de maltrato entre escolares;
+I. Identificación de la problemática, que consiste en determinar las características del problema, sus antecedentes, el tipo de maltrato, los efectos y posibles riesgos para las y los estudiantes víctimas de maltrato, así como para la víctima indirecta de maltrato entre escolares, en su esfera social, económica, educativa y cultural;
+
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+II. Determinación de prioridades, la cual identifica las necesidades inmediatas y mediatas, así como las medidas de protección que en su caso requieran las y los estudiantes víctimas de maltrato entre escolares;
 
 III. Orientación y canalización, que obliga a la autoridad o entidad a la que acuda la persona por primera vez, a proporcionar de manera precisa, con lenguaje sencillo y accesible, la orientación social y jurídica necesaria y suficiente con respecto al caso de maltrato que presente, realizando la canalización ante la instancia correspondiente o proporcionando el servicio pertinente, si fuera de su competencia;
 
@@ -758,25 +844,27 @@ Las dependencias, entidades, instituciones y organismos que conozcan o atienden 
 
 I. Actuar en todo momento con debida diligencia;
 
-> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-II. Canalizar de manera inmediata a las y los estudiantes receptores y generadores de maltrato entre escolares a las instituciones que conforman la Comisión Interinstitucional, y
+II. Canalizar de manera inmediata a las y los estudiantes víctimas y generadores de maltrato entre escolares a las instituciones que conforman la Comisión Interinstitucional, y
 
 III. Desarrollar campañas de difusión para la identificación del maltrato entre escolares y sus formas de prevenirlo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2021)</small>
+
 ###### Artículo 44.
 
-Las dependencias de gobierno que atiendan a los receptores de maltrato entre escolares deberán llevar un registro y control de las incidencias reportadas de conformidad con lo que se determine en el Reglamento.
+Las dependencias de gobierno que atiendan a las víctimas de maltrato entre escolares deberán llevar un registro y control de las incidencias reportadas de conformidad con lo que se determine en el Reglamento.
 
 > <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
 El registro y control será la base para que la Comisión Interinstitucional elabore un diagnóstico e indicadores que permitan conocer la problemática del maltrato escolar y distinguirlo de otras conductas que incidan en la generación de violencia para su debida atención.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2021)</small>
 
 ###### Artículo 45.
 
-Las dependencias y entidades de la Administración Pública de la Ciudad de México, así como las instituciones privadas y sociales que presten servicio de atención en materia de maltrato entre escolares deberán contar con personal profesional y especializado, quienes deberán recibir continuamente capacitación en materia de maltrato entre escolares de acuerdo a los principios rectores de la presente Ley.
+Las dependencias y entidades de la Administración Pública de la Ciudad de México, así como las instituciones privadas y sociales que presten servicio de atención en materia de maltrato entre escolares deberán contar con personal profesional y especializado, quienes deberán recibir continuamente capacitación en materia de maltrato entre escolares de acuerdo con los principios rectores de la presente Ley.
 
 > <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -829,3 +917,19 @@ G.O. 9 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 27 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 1; LAS FRACCIONES VIII, IX, XI Y XIV DEL ARTÍCULO 2; EL ARTÍCULO 4 PÁRRAFO PRIMERO Y SU FRACCIÓN II; LA FRACCIÓN II DEL ARTÍCULO 5; LOS ARTÍCULOS 8, 11 Y 13; LAS FRACCIONES VI Y VII DEL ARTÍCULO 14; EL ARTÍCULO 15 PÁRRAFO PRIMERO Y SU FRACCIÓN III; LAS FRACCIONES III, IV, VI Y X DEL ARTÍCULO 16; LOS ARTÍCULOS 17 Y 18; EL ARTÍCULO 19 PÁRRAFO PRIMERO Y SUS FRRACCIONES V, VIII, IX Y X; LA FRACCIÓN II DEL ARTÍCULO 20; EL ARTÍCULO 21 PÁRRAFO PRIMERO Y SU FRACCIÓN II; LAS FRACCIONES VI Y IX DEL ARTÍCULO 22; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 23; LA FRACCIÓN VI DEL ARTÍCULO 25; EL NOMBRE DEL CAPÍTULO III DEL TÍTULO SEGUNDO; EL ARTÍCULO 30 PÁRRAFO PRIMERO; EL ARTÍCULO 32 PÁRRAFO PRIMERO; EL ARTÍCULO 34; EL ARTÍCULO 36 PÁRRAFOS TERCERO Y CUARTO; EL ARTÍCULO 37; EL ARTÍCULO 38 PÁRRAFO PRIMERO Y SUS FRACCIONES II Y III; EL ARTÍCULO 39; EL ARTÍCULO 41 PÁRRAFOS PRIMERO Y SEGUNDO; LAS FRACCIONES I Y II DEL ARTÍCULO 42; LA FRACCIÓN II DEL ARTÍCULO 43; EL ARTÍCULO 44 PÁRRAFO PRIMERO Y EL ARTÍCULO 45 PÁRRAFO PRIMERO DE LA LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO PRIMERO DE LA FRACCIÓN I, EL PÁRRAFO SEGUNDO DE LA FRACCIÓN V Y LA FRACCIÓN VI, ADICIONÁNDOSE LA FRACCIÓN VII DEL ARTÍCULO 33 DE LA LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación.
