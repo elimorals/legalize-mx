@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-la-lectura-y-el-libro-de-la-ciudad-de-67091
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2021-04-16"
+last_updated: "2021-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67091&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-02-25"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE MAYO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 4 de marzo de 2009.
 
@@ -252,9 +252,9 @@ La Dirección General de Vinculación Cultural Comunitaria elaborará el program
 
 I. Proponer paquetes didácticos de estímulo y formación de lectores, adecuados para cada nivel de la educación básica, dirigidos a educandos, docentes y padres de familia;
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-II. Campañas informativas a través de los medios de comunicación;
+II. Campañas informativas permanentes a través de los medios de comunicación;
 
 III. Becas, premios y estímulos a escritores;
 
@@ -262,9 +262,13 @@ IV. Difusión del trabajo de los creadores y nuevos autores literarios;
 
 V. Promoción, edición y fomento de la lectura y el libro;
 
-VI. Exposiciones, ferias y festivales del libro y la lectura;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-VII. Cursos de capacitación, conferencias, talleres y otras actividades vinculadas a la escritura, al trabajo editorial, gráfico, librero y bibliotecario;
+VI. Exposiciones, ferias y festivales del libro y la lectura en las 16 demarcaciones territoriales de la Ciudad;
+
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+
+VII. Cursos de capacitación, conferencias, talleres y otras actividades vinculadas a la escritura, al trabajo editorial, gráfico, librero y bibliotecario; ya sea de manera presencial o vía remota;
 
 VIII. Producción y transmisión de programas de radio, televisión e internet dedicados a la lectura y el libro;
 
@@ -535,6 +539,14 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 G.O. 16 DE ABRIL DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 10 BIS A LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 27 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES II, VI Y VII DEL ARTÍCULO 9 DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
