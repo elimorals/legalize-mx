@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2020-12-16"
+last_updated: "2021-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE MAYO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -662,7 +662,7 @@ IX. Coordinar, supervisar y administrar la operación del Hospital Veterinario d
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 18 DE JUNIO DE 2012)</small>
 
-X. Las demás que esta Ley y aquellos ordenamientos jurídicos aplicables le confieren;
+X. Las demás que esta Ley y aquellos ordenamientos jurídicos aplicables le confieran.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -744,23 +744,29 @@ Las disposiciones contenidas en esta fracción no sustituyen las facultades que 
 
 h) Realizar operativos en los mercados y establecimientos que se tengan identificados los cuales se dediquen a la venta de animales, a fin de detectar posibles anomalías en dichos centros y establecimientos.
 
-(NOTA: EL 15 DE MARZO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 7/2021, DECLARÓ LA INVALIDEZ DEL INCISO i) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 17 DE DICIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], G.O. 16 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 16 DE DICIEMBRE DE 2020)</small>
+i) En los casos que exista flagrancia estará justificado su ingreso a un lugar cerrado sin orden judicial, cuando:
 
-i) EN LOS CASOS QUE EXISTA FLAGRANCIA ESTARÁ JUSTIFICADO SU INGRESO A UN LUGAR CERRADO SIN ORDEN JUDICIAL, CUANDO:
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
 
-I. SEA NECESARIO PARA EVITAR LA COMISIÓN DE LOS DELITOS PREVISTOS EN LOS ARTÍCULOS 350 BIS Y 350 TER DEL CAPÍTULO IV “DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD EN CONTRA DE ANIMALES NO HUMANOS”, DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL; O
+1. Sea necesario para evitar la comisión de los delitos previstos en los artículos 350 Bis y 350 Ter del Capítulo IV “Delitos cometidos por actos de maltrato o crueldad en contra de animales no humanos”, del Código Penal para el Distrito Federal; o
 
-II. SE REALIZA CON CONSENTIMIENTO DE QUIEN SE ENCUENTRE FACULTADO PARA OTORGARLO.
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
 
-> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2020)</small>
+2. Se realiza con consentimiento de quien se encuentre facultado para otorgarlo.
 
-En los casos de la fracción II, se procederá en términos de lo previsto en el artículo 290 del Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
+
+En los casos del numeral 2, se procederá en términos de lo previsto en el artículo 290 del Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2020)</small>
 
 Los motivos que determinaron la intromisión sin orden judicial constarán detalladamente en el informe que al efecto se levante.
+
+> <small>(ADICIONADO, G.O. 27 DE MAYO DE 2021)</small>
+
+j) Detener y remitir ante la autoridad competente a las personas probables infractoras que realicen y contribuyan en actos especificados en el artículo 25 de la presente ley.
 
 > <small>(ADICIONADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -1252,13 +1258,21 @@ Quedan exceptuadas de las disposiciones establecidas en la fracción IX del pres
 
 Las excepciones que establece el párrafo inmediato anterior, respecto a Corridas de Toros, Novillos, Jaripeos, Charreadas, Carrera de Caballos o Perros; espectáculos de adiestramiento y entretenimiento familiar, en que sean víctimas de abuso o maltrato los animales; se atenderá a petición de parte o denuncia ciudadana, ante el Juzgado Cívico correspondiente o autoridad competente. Los actos de zoofilia, podrán ser denunciados ante las instancias judiciales correspondientes competentes.
 
-> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-XXIII. La utilización de mamíferos marinos, cualquiera que sea la especie en actividades de espectáculo, manejo, adiestramiento, entretenimiento y terapia; y
+XXIII. La utilización de mamíferos marinos, cualquiera que sea la especie en actividades de espectáculo, manejo, adiestramiento, entretenimiento y terapia;
 
-> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-XXIV. Celebrar espectáculos públicos o privados, fijos, incluyendo los espectáculos a domicilio o itinerantes, con cualquier especie de mamíferos marinos.
+XXIV.- Celebrar espectáculos públicos o privados, fijos, incluyendo los espectáculos a domicilio o itinerantes, con cualquier especie de mamíferos marinos; y
+
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2021)</small>
+
+XXV. Realizar u ordenar la realización de tatuajes sobre la piel de animales con fines meramente estéticos u ornamentales, así como colocar u ordenar la colocación de aretes, piercings o perforaciones.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXV, G.O. 27 DE MAYO DE 2021]</small>
+
+Quedan exentos de lo anterior, los tatuajes y aretes que sirven como sistema de marcaje, identificación o registro de animales, los cuales deben ser realizados bajo supervisión de una persona especialista en medicina veterinaria zootecnista.
 
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -1718,17 +1732,17 @@ En caso de tener conocimiento de que un animal se encuentre bajo sufrimiento irr
 
 ### Capítulo VIII. De la Denuncia y Vigilancia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2021)</small>
 
 ###### Artículo 56.
 
-Toda persona podrá denunciar ante la Secretaría de Salud, la Procuraduría o las Delegaciones, según corresponda, todo hecho, acto u omisión que contravenga las disposiciones de la presente Ley y demás ordenamientos jurídicos aplicables, de conformidad con lo que establece el Artículo 83 de la Ley Ambiental para el Distrito Federal.
+Toda persona podrá denunciar ante las Secretarías de Salud y de Seguridad Ciudadana, la Agencia, la Procuraduría, o las Alcaldías, según corresponda, todo hecho, acto u omisión que contravenga las disposiciones de la presente Ley y demás ordenamientos jurídicos aplicables, de conformidad con lo que establece el Artículo 83 de la Ley Ambiental de Protección a la Tierra vigente en la Ciudad de México.
 
 Si por la naturaleza de los hechos denunciados se tratare de asuntos de competencia del orden federal o sujetos a la jurisdicción de otra autoridad federativa, las autoridades deberán turnarla a la autoridad competente.
 
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
 
-Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante la Procuraduría General de Justicia del Distrito Federal, si se considera que se trata (sic) hechos probablemente constitutivos de delito, en cuyo caso deberá sujetarse a lo dispuesto por la legislación de procedimientos penales aplicable en el Distrito Federal, o bien ante el juez cívico correspondiente, quien resolverá sobre la responsabilidad en el asunto de su competencia y notificará sobre la denuncia a las Delegaciones, o a la Secretaría de Salud, para el seguimiento de los procedimientos de verificación y vigilancia, previstos en el primer párrafo del presente artículo, si procediera.
+Sin perjuicio de lo anterior, las personas interesadas podrán presentar su denuncia directamente ante la Fiscalía General de Justicia de la Cuidad de México, si se considera que se trata de hechos probablemente constitutivos de delito, en cuyo caso deberá sujetarse a lo dispuesto por la legislación de procedimientos penales aplicable en la Cuidad de México, o bien ante el juzgado cívico correspondiente, quien resolverá sobre la responsabilidad en el asunto de su competencia y notificará sobre la denuncia a las Alcaldías o a la Secretaría de Salud, para el seguimiento de los procedimientos de verificación y vigilancia, previstos en el primer párrafo del presente artículo, si procediera.
 
 ###### Artículo 57.
 
@@ -1860,9 +1874,9 @@ Para el caso de mayores de dieciocho años, se procederá la amonestación o la 
 
 Las sanciones por las infracciones cometidas por la violación a las disposiciones de la presente Ley, se aplicarán conforme a lo siguiente:
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
-I. Corresponde a la Secretaría de Salud, en el ámbito de su respectiva competencia, siguiendo el procedimiento regulado por el artículo 56 párrafo primero, de la presente Ley, imponer sin perjuicio de las sanciones reguladas, en otras Legislaciones aplicables, multas de ciento cincuenta a trescientos veces la Unidad de Cuenta de la Ciudad de México vigente, por violaciones a lo dispuesto a los artículos 24, Fracciones II, III, 25 Fracción XIV, 46, 47, 49, 50, 52 y 53 de la presente Ley.
+I. Corresponde a la Secretarías de Salud y Seguridad Ciudadana en el ámbito de su respectiva competencia, siguiendo el procedimiento regulado por el artículo 56 párrafo primero, de la presente Ley, imponer sin perjuicio de las sanciones reguladas, en otras Legislaciones aplicables, multas de ciento cincuenta a trescientos (sic) veces la Unidad de Cuenta de la Ciudad de México vigente, por violaciones a lo dispuesto en los artículos 24 fracciones II y III, 25 fracciones XIV y XXV, 46, 47, 49, 50, 52 y 53 de la presente Ley.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE MAYO DE 2018)</small>
 
@@ -2331,3 +2345,11 @@ G.O. 16 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA EL INCISO “i)” A LA FRACCIÓN II DEL ARTÍCULO 10 BIS DE LA LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
+
+G.O. 27 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA NOMENCLATURA DE LOS NUMERALES Y EL PÁRRAFO SEGUNDO DEL INCISO I Y SE ADICIONA EL INCISO J A LA FRACCIÓN II DEL ARTÍCULO 10 BIS; SE REFORMAN LAS FRACCIONES XXIII Y XXIV Y SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 25; SE REFORMAN LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 56 Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 65 DE LA LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
