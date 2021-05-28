@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-86551"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-02"
-last_updated: "2019-12-22"
+last_updated: "2021-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. D
 
 LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2021.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el viernes 2 de marzo de 2012.
 
@@ -105,13 +105,21 @@ XIII. Secretaría, la Secretaría de la Juventud;
 
 XIV. SEDIF, al Sistema Estatal para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
 
-XV. Sustancias tóxicas, el elemento o compuesto o la mezcla química de ambos que, cuando por cualquier vía de ingreso, ya sea inhalación, ingestión o contacto con la piel o mucosas, causan efectos adversos al organismo, de manera inmediata o mediata, temporal o permanente, tales como adicciones, lesiones funcionales, alteraciones genéticas, teratogénicos, mutagénicas, carcinogénicas o la muerte; y
+XV. Sustancias tóxicas, el elemento o compuesto o la mezcla química de ambos que, cuando por cualquier vía de ingreso, ya sea inhalación, ingestión o contacto con la piel o mucosas, causan efectos adversos al organismo, de manera inmediata o mediata, temporal o permanente, tales como adicciones, lesiones funcionales, alteraciones genéticas, teratogénicos, mutagénicas, carcinogénicas o la muerte;
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
 
-XVI. Vulnerabilidad, el conjunto de circunstancias derivadas de los factores personales, familiares, económicos o sociales, que provocan un estado de amenaza en los jóvenes de sufrir daños físicos, psicológicos o emocionales o cualquier otro que impida su desarrollo integral.
+XVI. Vulnerabilidad, el conjunto de circunstancias derivadas de los factores personales, familiares, económicos o sociales, que provocan un estado de amenaza en los jóvenes de sufrir daños físicos, psicológicos o emocionales o cualquier otro que impida su desarrollo integral;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2021)</small>
+
+XVII. CCIJEQ, Consejo Ciudadano Juvenil del Estado de Querétaro; y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2021)</small>
+
+XVIII. CCJM, Consejo Ciudadano Juvenil Municipal;
 
 ###### Artículo 3.
 
@@ -154,6 +162,14 @@ Cualquier persona que tenga conocimiento de algún joven que se encuentre en con
 Las autoridades estatales y municipales deberán crear y promover, dentro del ámbito de sus respectivas competencias, los programas preventivos y de atención sociales, culturales, políticos y productivos para motivar a los jóvenes a participar en la actividad estatal, procurando que tengan como finalidad el servicio a la sociedad, la vida responsable, el bienestar, la solidaridad, el respeto, la equidad de género, la justicia, la formación integral de los jóvenes y la libre participación política.
 
 Dichas autoridades, con el fin de crear condiciones de igualdad real y efectiva para todos, desarrollarán programas que creen condiciones de vida digna para los jóvenes que se encuentren en circunstancias de vulnerabilidad, especialmente los que viven en condiciones de pobreza y en áreas rurales y para aquéllos que se encuentren afectados por alguna discapacidad.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+
+Las políticas públicas y acciones de gobierno en materia de juventud se encaminarán a garantizar el servicio a la sociedad, la vida responsable, el bienestar, la solidaridad, el respeto, la equidad de género, la justicia, la formación integral de los jóvenes y su libre participación política.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+
+Las autoridades estatales y municipales, con el fin de crear condiciones de igualdad real y efectiva, desarrollarán programas que creen condiciones de vida digna para los jóvenes que se encuentren en circunstancias de vulnerabilidad, especialmente los que viven en condiciones de pobreza y en áreas rurales, y para aquellos con alguna discapacidad.
 
 ## Título Segundo. De las autoridades y sus atribuciones
 
@@ -239,7 +255,9 @@ Para el cumplimiento de su objeto, la Secretaría tendrá como atribuciones las 
 
 I. Proponer, instrumentar e impulsar una política estatal de juventud que permita incorporar plenamente a los jóvenes queretanos al desarrollo del País y del Estado;
 
-II. Asesorar al Poder Ejecutivo del Estad (sic), en la planeación y programación de las políticas y acciones relacionadas con el desarrollo de la juventud, de acuerdo con el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
+
+II. Asesorar al Poder Ejecutivo del Estado en la Planeación y Programación de las políticas y acciones relacionadas con el desarrollo de la juventud, de acuerdo con el Plan Estatal de Desarrollo y procurando atender a las observaciones del CCIJEQ;
 
 III. Actuar como órgano de consulta y asesoría de las dependencias y entidades de las (sic) Administración Pública Estatal; así como de las autoridades municipales y de los sectores social y privado, en las materias comprendidas en esta Ley, cuando así lo requieran;
 
@@ -281,15 +299,27 @@ XXI. Analizar y, en su caso, aprobar los apoyos a jóvenes que demuestren tener 
 
 XXII. Coadyuvar en la evaluación de las políticas públicas en relación con su efectiva incidencia en la vida y desarrollo de las y los jóvenes del Estado de Querétaro;
 
-XXIII. Apoyar los sistemas de información de la juventud y promover la evaluación de los servicios que inciden en la atención de los jóvenes; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
 
-XXIV. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
+XXIII. Apoyar los sistemas de información de la juventud y promover la evaluación de los servicios que inciden en la atención de los jóvenes;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2021)</small>
+
+XXIV. Emitir cada dos años, la convocatoria para la renovación del CCIJEQ; y
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
+
+XXV. La (sic) demás que le otorgue la presente Ley y otros ordenamientos legales.
 
 ### Capítulo Cuarto. De los Municipios
 
 ###### Artículo 11.
 
 Los Municipios del Estado, de acuerdo con la normatividad que emitan, procurarán establecer, bajo la denominación que consideren, instancias municipales para el desarrollo de la juventud, que serán los órganos de administración en el ámbito municipal, para atender los problemas de la juventud dentro de su jurisdicción.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+
+Dichas instancias tendrán adscrito un Consejo Ciudadano Juvenil Municipal, con independencia de la organización interna que estas mismas determinen.
 
 ###### Artículo 12.
 
@@ -329,13 +359,17 @@ IX. Crear convenios de coordinación y colaboración entre los Estados, Municipi
 
 X. Ofrecer capacitaciones en el ámbito empresarial a jóvenes con discapacidad;
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
 
-XI. Crear los programas para la atención de jóvenes con discapacidad, mismos que deberán contemplar los mecanismos necesarios para que puedan bastarse por sí mismos, teniendo como su principal objetivo su participación de forma activa en la comunidad; y
+XI. Crear los programas para la atención de jóvenes con discapacidad, mismos que deberán contemplar los mecanismos necesarios para que puedan bastarse por sí mismos, teniendo como su principal objetivo su participación de forma activa en la comunidad;
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2021)</small>
 
-XII. Las demás que conforme a esta Ley, reglamentos y acuerdos le correspondan.
+XII. Emitir la convocatoria para la creación y renovación de los Consejos Ciudadanos Juveniles Municipales a través de las respectivas instancias municipales para el desarrollo de la juventud y de conformidad con las disposiciones que se establezcan; y
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
+
+XIII. Las demás que conforme a esta Ley, reglamentos y acuerdos le corresponda.
 
 ## Título Tercero. De los derechos y obligaciones de los jóvenes
 
@@ -721,17 +755,21 @@ El Programa Estatal para el Desarrollo Integral de la Juventud Queretana, se con
 
 El Programa tendrá una duración de tres años y no podrá contravenir al Plan Estatal de Desarrollo. Debe contemplar todas las acciones, programas y estrategias tendientes a la protección de los derechos de la juventud queretana, así como a propiciar las vías necesarias para mejorar las condiciones en todos los ámbitos posibles de ésta, encaminados a su desarrollo integral.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 54.
 
-El titular de la Secretaría de la Juventud, elaborará, presentará y supervisará el Programa.
+El titular de la Secretaría de la Juventud, elaborará, presentará, supervisará el Programa, para lo cual podrá atender, en su caso, las observaciones del CCIJEQ.
 
 ###### Artículo 55.
 
 El Programa debe ser elaborado a partir de la amplia participación de las organizaciones juveniles, especialistas, instituciones académicas, organizaciones no gubernamentales, asociaciones civiles e instituciones de asistencia privada, representantes populares y demás sectores sociales relacionados con los jóvenes y sus problemáticas, para la cual podrán llevar a cabo foros, conferencias, seminarios, reuniones de trabajo y demás mecanismos que se consideren necesarios para cumplir con este fin.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 56.
 
-Los municipios, a través de los titulares de las instancias municipales para el desarrollo de la juventud que corresponda, procurarán presentar, ejecutar y evaluar el Programa, a nivel municipal.
+Los municipios, a través de los titulares de las instancias municipales para el desarrollo de la juventud que corresponda, procurarán presentar, ejecutar y evaluar el Programa a nivel municipal, atendiendo en la medida de sus posibilidades, las observaciones de los Consejos Ciudadanos Juveniles Municipales correspondientes.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -932,6 +970,68 @@ El jurado calificador será conformado por la Secretaría de la Juventud en el m
 ###### Artículo 72.
 
 Podrán participar en el Concurso, quienes cumplan con los requisitos establecidos en las bases y lineamientos de la convocatoria respectiva.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2021)</small>
+
+## Título Séptimo Bis. De los Consejos Ciudadanos Juveniles
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2021)</small>
+
+### Capítulo Primero. Del Consejo Ciudadano Juvenil del Estado de Querétaro
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+
+###### Artículo 72 Bis.
+
+El Consejo Ciudadano Juvenil es un órgano colegiado, autónomo, ciudadano, plural, democrático e incluyente, conformado por jóvenes que residan en el Estado de Querétaro, encargado de representar a la juventud en el diseño y revisión de las políticas públicas en el Estado, para analizar, proponer, innovar y dar seguimiento a las acciones y estrategias que tengan como objetivo incorporar a las y los jóvenes al desarrollo del Estado, con el fin de mejorarlas. El Consejo trabajará en coordinación con la Secretaría de la Juventud del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+
+###### Artículo 72 Ter.
+
+El CCIJEQ tiene como finalidad fortalecer la participación de las y los jóvenes queretanos y su contribución en la legitimación y concertación de las políticas públicas de Gobierno del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+
+###### Artículo 72 Quáter.
+
+Para la integración, organización y facultades del CCIJEQ, se estará a lo dispuesto en su Estatuto Orgánico, el cual será elaborado en colaboración con el titular de la Secretaría de la Juventud del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+
+###### Artículo 72 Quinquies.
+
+El CCIJEQ estará conformado por 30 integrantes, los cuales serán designados por un comité seleccionador con base en los Lineamientos establecidos en el Estatuto Orgánico del Consejo.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+
+###### Artículo 72 Sexies.
+
+Con la finalidad de dar continuidad y certidumbre a las actividades propias del CCIJEQ, este seguirá en funcionamiento e integración con independencia del cambio de administración Estatal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2021)</small>
+
+### Capítulo Segundo. De los Consejos Ciudadanos Juveniles de los Municipios
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+
+###### Artículo 72 Septies.
+
+Los Consejos Ciudadanos Juveniles Municipales serán órganos de consulta que buscarán proponer, instrumentar e impulsar una política municipal de juventud que permita incorporar plenamente a los jóvenes al desarrollo del Municipio y del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+
+###### Artículo 72 Octies.
+
+Los Consejos Ciudadanos Juveniles Municipales servirán como órganos de análisis del Ayuntamiento respectivo, para la planeación y programación de políticas y acciones relacionadas con el desarrollo integral de la juventud, de acuerdo con lo establecido en el Programa Municipal de la Juventud.
+
+Además, promoverán permanentemente la participación social en la toma de decisiones relacionadas con el Desarrollo de la Juventud y la defensa de los derechos de las y los Jóvenes en el Municipio respectivo; así como la coordinación interinstitucional ante órganos gubernamentales.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+
+###### Artículo 72 Nonies.
+
+La integración y atribuciones de los Consejos Ciudadanos Juveniles Municipales se realizarán conforme a los Lineamientos establecidos en el Estatuto Orgánico del Consejo Ciudadano Juvenil del Estado de Querétaro.
 
 ## Título Octavo. De las responsabilidades y sanciones
 
@@ -1428,3 +1528,15 @@ d) La inscripción de la cancelación de licencia de ejecución de obras de urba
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
 
 XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+P.O. 28 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+Artículo Tercero. La Secretaría de la Juventud del Poder Ejecutivo del Estado de Querétaro, contará con un plazo de 60 días hábiles posteriores a la entrada en vigor de la presente Ley, a efecto de emitir el Estatuto Orgánico del Consejo Ciudadano Juvenil del Estado de Querétaro a que se refiere la presente Ley. En los Ayuntamientos se contará con un plazo igual al señalado, a efecto de que se emitan las disposiciones normativas correspondientes.
+
+Artículo Cuarto. Las acciones previstas en la presente reforma, y que impliquen aplicación de recursos, se llevarán a cabo atendiendo a la disponibilidad presupuestaria del ejercicio fiscal correspondiente.
