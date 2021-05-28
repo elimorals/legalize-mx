@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2021-05-17"
+last_updated: "2021-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2021.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -2515,6 +2515,18 @@ XXII.- Para conceder amnistías por delitos cuyo conocimiento pertenezca a los t
 > <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2019)</small>
 
 XXIII.- Para expedir leyes que, con respeto a los derechos humanos, establezcan las bases de coordinación entre la Federación, las entidades federativas y los Municipios; organicen la Guardia Nacional y las demás instituciones de seguridad pública en materia federal, de conformidad con lo establecido en el artículo 21 de esta Constitución; así como la Ley Nacional sobre el Uso de la Fuerza, y la Ley Nacional del Registro de Detenciones;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 28 DE MAYO DE 2021)</small>
+
+XXIII Bis.- Para expedir la ley general en materia de seguridad privada, que establezca:
+
+a) Las reglas y la autoridad facultada para autorizar y regular a los prestadores de servicios de seguridad privada en todo el territorio nacional;
+
+b) Las reglas de coordinación entre las personas autorizadas a prestar los servicios de seguridad privada y las autoridades correspondientes de la Federación, las entidades federativas y los municipios, para la adecuada organización y funcionamiento como auxiliares de la seguridad pública;
+
+c) La coordinación de esos prestadores con las instituciones de seguridad pública en situaciones de emergencia y desastre, y
+
+d) Los aspectos vinculados a la coordinación y supervisión de las policías complementarias en el país;
 
 > <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2015)</small>
 
@@ -8785,3 +8797,17 @@ D.O.F. 17 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 74 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PARTIDAS SECRETAS.”]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXIII BIS AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SEGURIDAD PRIVADA”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Dentro del plazo de 180 días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión deberá expedir la ley general en materia de seguridad privada a que hace referencia el artículo 73, fracción XXIII Bis de la Constitución Política de los Estados Unidos Mexicanos.
+
+Tercero. Dentro del plazo de 180 días naturales siguientes a la entrada en vigor de la ley general de seguridad privada a que se refiere el artículo 73, fracción XXIII Bis de la Constitución Política de los Estados Unidos Mexicanos, el Congreso de la Unión y las legislaturas de las entidades federativas deberán expedir la legislación necesaria para adecuar el marco normativo con este Decreto y la ley citada. Mientras tanto, continuará en vigor la legislación en los términos que se encuentre a la fecha de entrada en vigor del presente Decreto.
+
+Para el caso que no se lleven a cabo las adecuaciones normativas, dentro del plazo concedido al Congreso de la Unión y a las legislaturas de las entidades federativas, deberá cesar la aplicación de la legislación que no se ajuste al contenido de la mencionada ley general y, en su caso, aplicarse directamente el contenido de ésta.
+
+Cuarto. Los asuntos en trámite hasta el momento en que entre en vigor la ley general en materia de seguridad privada, se concluirán conforme a la legislación con que se iniciaron.
