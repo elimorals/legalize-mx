@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-movilidad-de-la-ciudad-de-mexico-123375
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-15"
-last_updated: "2020-12-11"
+last_updated: "2021-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123375&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-09-15"
 
 REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE MAYO DE 2021.
 
 Reglamento publicado en el Número 156 Bis de la Gaceta Oficial de la Ciudad de México, el 15 de septiembre de 2017.
 
@@ -76,7 +76,9 @@ XII. Lugar de Encierro: La instalación o inmueble destinado al estacionamiento,
 
 XIII. Monitoreo: Son los reportes efectuados por el personal de apoyo vial, así como los generados a través de medios electrónicos y de telecomunicación, sobre el estado que guardan las principales vías de la Ciudad de México;
 
-XIV. Órgano Regulador: Al Órgano Regulador del Transporte;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+XIV. Órgano Regulador: Órgano Regulador de Transporte.
 
 XV. Padrón vehicular: Es la relación nominal de datos, registros y archivos sistematizados por la Secretaría, relativo al control vehicular de la Ciudad de México;
 
@@ -104,6 +106,10 @@ XXI. Sanción: Pena establecida por incumplimiento total o parcial de los ordena
 
 XXII. Servicio Ejecutivo de Corredores de Transporte Público Colectivo: Es el que además de cumplir con las características del servicio ordinario de corredores de transporte, cuenta con características específicas determinadas por la Secretaría para tal efecto.
 
+> <small>(ADICIONADA, G.O. 28 DE MAYO DE 2021)</small>
+
+XXII BIS. Servicio Zonal: servicio complementario del Sistema Integrado de Transporte prestado por personas morales, con operación regulada, controlada y con un recaudo centralizado, que se presta preferentemente en vías secundarias, áreas periféricas y zonas altas de la Ciudad, podrá cambiar conforme a la demanda del servicio.
+
 XXIII. Servicio Privado de Transporte con Chofer: Servicio de transporte que pueden contratar los particulares a través de las personas morales que operen y/o administren aplicaciones y plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles que cuenten con el permiso correspondiente otorgado por la Secretaría.
 
 XXIV. Servicio Ordinario de Corredores de Transporte Público Colectivo: Es el que se presta a través de una ruta específica que comprende todas las zonas de ascenso y descenso autorizadas por la Secretaría;
@@ -116,13 +122,17 @@ XXV BIS. Sistemas de Transporte Individual Sustentable (SiTIS). El conjunto de s
 
 XXVI. Sitio.- Espacio físico autorizado por la Secretaría para el origen de la prestación del Servicio Público, Mercantil y Privado de Pasajeros y de Carga;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
-XXVII. Tarjeta de Circulación: Es el documento expedido por la Secretaría de manera impresa, indispensable para la circulación, coincidente con la Placa de Matrícula y Calcomanía de Circulación, que contiene los datos específicos del propietario, así como las características del vehículo autorizado para transitar;
+XXVII. Tarjeta de Circulación: documento expedido por la Secretaría de manera impresa o emitido de forma digital a través de las herramientas tecnológicas que la Secretaría determine, indispensable para la circulación, coincidente con la Placa de Matrícula y Calcomanía de Circulación, que contiene los datos específicos del propietario, así como las características del vehículo autorizado para transitar.
 
 XXVIII. Terminal: El espacio físico fuera de la vía pública autorizado por la Secretaría, donde inicia o termina el servicio público de transporte de pasajeros colectivo;
 
 XXIX. Vehículos de Escolta: Vehículo o vehículos designados para la prestación del servicio o actividad de seguridad personal, distintos al vehículo en el que viaja la persona a la que se brinda la protección y seguridad, previamente registrados y autorizados por la Secretaría de Seguridad Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 28 DE MAYO DE 2021)</small>
+
+XXIX BIS. Vehículo nuevo: vehículo automotor que cuente con un kilometraje cero y/o no tenga registro anterior en el padrón vehicular de la Ciudad de México.
 
 XXX. Zona de Parquímetros: Vía pública en la que se instalan y operan sistemas de control y cobro de estacionamiento en vía pública de la Ciudad de México.
 
@@ -590,6 +600,10 @@ VI. Servicio Ejecutivo de Corredores de Transporte Público Colectivo: Es el que
 
 VII. Servicio Ordinario de Corredores de Transporte Público Colectivo: Es el que se presta a través de una ruta específica que comprende todas las zonas de ascenso y descenso autorizadas por la Secretaría.
 
+> <small>(ADICIONADA, G.O. 28 DE MAYO DE 2021)</small>
+
+VIII. Servicio Zonal.
+
 Los servicios directo, exprés, así como ejecutivo de corredores pueden tener tarifa diferencial previa solicitud, presentación de estudios técnicos y autorización correspondiente.
 
 El servicio de transporte público colectivo metropolitano requiere de un permiso complementario que al efecto expida la Secretaría para la operación de itinerarios, bases e infraestructura complementaria.
@@ -898,7 +912,9 @@ IV. Número de concesión;
 
 V. Vigencia de la concesión;
 
-VI. Modalidad del servicio de transporte de Pasajeros Público, Individual, de Ruta, Corredor o de Carga;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+VI. Modalidad del servicio de transporte de Pasajeros Público, Individual, de Ruta, Corredor, Zonal o de Carga;
 
 VII. Derechos y obligaciones del concesionario;
 
@@ -916,9 +932,11 @@ En el caso de los concesionarios del servicio de transporte público individual 
 
 ### CAPÍTULO SEGUNDO. DE LOS ESTUDIOS TÉCNICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 75.
 
-Los estudios técnicos, que presenten los concesionarios o permisionarios deben contener, a que se refiere el artículo 88 Fracción I de la Ley, según sea el caso lo siguiente:
+Los estudios técnicos, que presenten los concesionarios o permisionarios deben contemplar, lo referido en el artículo 88, fracción I de la Ley, según sea el caso, lo siguiente:
 
 1. Análisis Técnico:
 
@@ -947,6 +965,10 @@ c) Estado de las paradas de transporte público a lo largo de los derroteros (po
 d) Iluminación, semaforización y obras complementarias; y
 
 e) Espacios disponibles para implementación de parque de bolsillo;
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+f) Ubicación y características de Lugares de Encierro, para el Servicio Zonal.
 
 1.4. Estudio de ascenso y descenso (ead) y tiempos de recorrido:
 
@@ -1500,9 +1522,17 @@ XVII. Presentar anualmente la revista vehicular, en los términos y procedimient
 
 XVIII. Disponer de un centro de atención para la recepción de quejas y denuncias;
 
-XIX. Asegurarse que el personal de apoyo cumpla con las disposiciones establecidas en este ordenamiento y demás normativa vigente y responder por las infracciones que cometan; y
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
-XX. Las demás que señale la normativa vigente.
+XIX. Asegurarse que el personal de apoyo cumpla con las disposiciones establecidas en este ordenamiento y demás normativa vigente y responder por las infracciones que cometan;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE MAYO DE 2021)</small>
+
+XX. Garantizar la instalación y mantener en resguardo los aditamentos, equipos, sistemas o dispositivos tecnológicos instalados en las unidades de Transporte Público Colectivo de Pasajeros en la Modalidad de Ruta, Corredor o Servicio Zonal, para el monitoreo del servicio, el pago del servicio de transporte público, o cualquier otro fin que determine la Secretaría, y mantener el buen estado físico de los mismos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 28 DE MAYO DE 2021)</small>
+
+XXI. Las demás que señale la normativa vigente.
 
 ###### Artículo 111.
 
@@ -1624,11 +1654,15 @@ h) Las demás que determine la Secretaría.
 
 II. Servicio de transporte de pasajeros público colectivo:
 
-a) Local; y
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
+a) Local.
 
 b) Metropolitano.
 
-c) Corredor.
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
+c) Corredor y Zonal.
 
 III. Servicio de transporte de pasajeros público individual:
 
@@ -1730,7 +1764,9 @@ XVII. Vigencia, que no podrá ser mayor a tres años, vencido este plazo, tendr�
 
 XVIII. Las demás que determine la Secretaría.
 
-El conductor del vehículo, siempre deberá portar el original de la tarjeta de circulación.
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
+El conductor del vehículo, siempre deberá portar el original de la tarjeta de circulación, ya sea en su versión física o digital, siempre que la misma se encuentre vigente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2019)</small>
 
@@ -1742,17 +1778,21 @@ La tarjeta de circulación se entregará para uso, conservación y custodia al i
 
 A los vehículos matriculados en otras entidades federativas, el correspondiente trámite podrá tener una duración no mayor de 30 días hábiles, a partir de la fecha del inicio de éste.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
-Para el refrendo de la tarjeta de circulación el solicitante podrá tramitarla de manera digital ingresando al Registro Electrónico y requisitando los campos que para tal efecto sean solicitados por la Secretaría. En caso de que el solicitante no pueda realizar el trámite de manera digital, deberá acudir personalmente, o bien a través de su Representante Legal, ante la Secretaría y deberá presentar la documentación que al efecto le sea solicitada.
+Para el refrendo de la tarjeta de circulación el solicitante podrá tramitarla de manera digital ingresando al Registro Electrónico y requisitando los campos que para tal efecto sean solicitados por la Secretaría. En caso de que el solicitante no pueda realizar el trámite de manera digital, podrá acudir personalmente, o bien a través de su Representante Legal, ante la Secretaría y presentar la documentación que al efecto le sea solicitada, en cuyo caso además, deberá entregar la tarjeta de circulación cuya vigencia se encuentre vencida y a cambio recibirá el documento renovado con la nueva vigencia correspondiente. En ambos casos, podrá obtener la versión digital de su tarjeta de circulación con vigencia renovada mediante las herramientas tecnológicas que la Secretaría determine.
 
 ### CAPÍTULO CUARTO. DE LOS REQUISITOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 120.
 
-Para realizar trámites relacionados con control vehicular, el propietario del vehículo o su representante legal, deberá cumplir, según sea el caso, con los requisitos siguientes:
+Para realizar trámites relacionados con control vehicular, el propietario del vehículo o su representante, deberá cumplir, según sea el caso, con los requisitos siguientes, presentando los documentos requeridos en original y copia para su cotejo:
 
-Tratándose de vehículos de transporte particular, existe el siguiente cuadro de requisitos, sin menoscabo de los existentes en el catálogo trámites y servicios autorizado (sic) a la Secretaría:
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
+Tratándose de vehículos de transporte particular, se establece el siguiente cuadro de requisitos, sin menoscabo de los existentes en el catálogo de trámites y servicios autorizado a la Secretaría. Todos los trámites que a continuación se enuncian deberán ser acompañados, para personas físicas, de la Clave Única de Registro de Población, y para personas morales, del documento donde conste su creación o constitución; señalando que, para la autorización de los mismos será necesario que la persona interesada acredite que el vehículo cuyo movimiento se solicita, se encuentra al corriente del pago de obligaciones fiscales, ambientales y cívicas, que devengan de las disposiciones contenidas en la Ley, el presente Reglamento y el Reglamento de Tránsito de la Ciudad de México. Además, en el caso de trámites digitales, los documentos que se acompañen deberán enviarse en formato digital mediante los mecanismos que la Secretaría determine.
 
 > <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAR EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINAS DE LA 37 A LA 38.]</small>
 
@@ -1854,15 +1894,25 @@ La Secretaría aprobará los procedimientos y requisitos para la emisión de la 
 
 Las licencias para conducir expedidas por la Secretaría serán:
 
-I. a) Tipo A.1.- Para conducir motocicletas, bicimotos, triciclos automotores, tetramotos, motonetas, con vigencia de tres años.. (sic)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE MAYO DE 2021)</small>
 
-b) Tipo A, para la conducción de vehículos particulares, con vigencia de tres años, ademas es válida para conducir motocicletas, bicimotos, triciclos automotores, tetramotos, motonetas, y automóviles clasificados como transporte particular que no exceda de 12 plazas y de carga cuyo peso máximo autorizado no exceda de 3.5 toneladas;
+I. a) Tipo A.- Para la conducción de automóviles particulares, con vigencia de tres años, además es válida para conducir automóviles clasificados como transporte particular que no exceda de 12 plazas y de carga cuyo peso máximo autorizado no exceda de 3.5 toneladas;
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
+b) Tipo A1.- Para conducir motocicletas, bicimotos, triciclos automotores, tetramotos, motonetas, con vigencia de tres años;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 28 DE MAYO DE 2021)</small>
+
+c) Tipo A2.- para la conducción de automóviles particulares, con vigencia de tres años, además es válida para conducir motocicletas, bicimotos, triciclos automotores, tetramotos, motonetas, y automóviles clasificados como transporte particular que no exceda de 12 plazas y de carga cuyo peso máximo autorizado no exceda de 3.5 toneladas.
 
 II. Tipo B, para la conducción de vehículos de transporte público individual de pasajeros, con una vigencia de dos a tres años.
 
 La licencia Tipo B, autoriza también la conducción de los vehículos que requieren licencia Tipo A;
 
-III. Tipo C, para la conducción de vehículos de Transporte Colectivo de Pasajeros de Ruta, así como incorporados a Corredor, con una vigencia de dos y tres años y válida para conducir vagoneta, microbús, minibús y autobús.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE MAYO DE 2021)</small>
+
+III. Tipo C, para la conducción de vehículos de Transporte Colectivo de Pasajeros de Ruta, así como de Servicios Zonales e incorporados a Corredor, con una vigencia de dos y tres años y válida para conducir vagoneta, microbús, minibús y autobús. La licencia Tipo C, autoriza también la conducción de los vehículos que requieren licencia Tipo A;
 
 La licencia Tipo C, autoriza también la conducción de los vehículos que requieren licencia Tipo A;
 
@@ -1926,83 +1976,135 @@ l) E12 para la conducción de los demás, que establezca la Secretaría como Tra
 
 La Licencia Tipo E tendrá una vigencia de dos y tres años y autoriza también la conducción de los vehículos que requieren licencia Tipo A.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
-Para la expedición de las Licencias tipo “C”, “D” y “E” (en cualquiera de los supuestos previstos de los incisos b) al l), se requiere acreditar o contar con Licencia Tipo A emitida por la Secretaría, con cuando menos cinco años de antigüedad.
+Para la expedición de las Licencias tipo “C” “D” y “E” (en cualquiera de los supuestos previstos de los incisos b) al l), se requiere acreditar o contar con Licencia Tipo “A” emitida por la Secretaría, o por la Dependencia responsable de la emisión de dichas licencias en el Estado de México, con cuando menos tres años de antigüedad. Para el caso de licencias para conducir emitidas por las autoridades responsables del Estado de México, la persona interesada deberá acreditar que dichos documentos se encuentran vigentes al momento de su presentación y que cumplen con la antigüedad requerida para el caso.
 
-> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 127.
 
-Para la expedición de la licencia para conducir Tipo A, la persona interesada deberá acudir a los módulos autorizados por la Secretaría, para lo cual deberá llenar la solicitud correspondiente, cumpliendo con los requisitos, formatos y mecanismos que emita la Secretaría. Adicionalmente la persona interesada deberá haber acreditado las evaluaciones y, en su caso, los cursos que para tal efecto establezca la propia Secretaría.
+Para la expedición de la licencia para conducir Tipo A, Tipo A1, y Tipo A2, la persona interesada deberá acudir a los módulos autorizados por la Secretaría, para lo cual deberá llenar la solicitud correspondiente, cumpliendo con los requisitos, formatos y mecanismos que emita la Secretaría. Adicionalmente la persona interesada deberá haber acreditado las evaluaciones y, en su caso, los cursos que para tal efecto establezca la propia Secretaría.
 
-En la solicitud deberá precisar nombre completo, domicilio en la Ciudad de México para oír y recibir notificaciones, así como acompañar en original y copia, los siguientes documentos los cuales no deben tener alteraciones, tachaduras y enmendaduras:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE MAYO DE 2021)</small>
+
+En la solicitud deberá precisar nombre completo, domicilio en la Ciudad de México o Estado de México, así como acompañar en original y copia los siguientes documentos, los cuales no deben tener alteraciones, tachaduras y enmendaduras:
+
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
 I. Comprobante de pago de los derechos correspondientes;
 
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
+
 II. Identificación oficial en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, cédula profesional con fotografía o cartilla de identidad del Servicio Militar Nacional);
 
-III. Comprobante de domicilio de la Ciudad de México. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+III. Comprobante de domicilio de la Ciudad de México o Estado de México. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente; y
+
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
 IV. Clave Única del Registro de Población (CURP); y
 
-V. Acreditación de evaluaciones correspondientes, de conformidad con lo dispuesto en el artículo 230 de la Ley de Movilidad de la Ciudad de México.
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
-En ese mismo sentido, y para el caso de que lo considere adecuado, la persona interesada podrá obtener la versión digital de su licencia mediante la plataforma electrónica que la Secretaría determine, en cuyo caso, deberá cumplir con los requisitos, formatos y mecanismos que la propia Secretaría establezca. En caso de que la persona interesada opte por la realización del trámite de forma digital, se tendrá por manifiesta su voluntad de obtener una versión digital de su licencia para conducir.
+V. Acreditación de evaluaciones correspondientes, de conformidad con lo dispuesto en el artículo 230 de la Ley de Movilidad de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
+En ese mismo sentido, y para el caso de que lo considere adecuado, la persona interesada podrá obtener la versión digital de su licencia mediante la plataforma electrónica que la Secretaría determine, en cuyo caso, deberá cumplir con los requisitos, formatos y mecanismos que la propia Secretaría establezca. En caso de que la persona interesada opte por la realización del trámite de forma digital, se tendrá por manifiesta su voluntad de obtener una versión digital de su licencia para conducir.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 127 Bis.
 
-La persona titular de la Licencia para Conducir Tipo A podrá solicitar su reposición en caso de mutilación, deterioro de la imagen, datos ilegibles, robo o extravío; misma que se tramitará únicamente por el tiempo que falte para la expiración del documento.
+La persona titular de la Licencia para Conducir Tipo A, Tipo A1, y Tipo A2, podrá solicitar su reposición en caso de mutilación, deterioro de la imagen, datos ilegibles, robo o extravío; misma que se tramitará únicamente por el tiempo que falte para la expiración del documento.
 
-Para la reposición de las licencias de conducir Tipo A, la persona interesada podrá realizar el trámite en los módulos autorizados por la Secretaría, para lo cual deberá llenar la solicitud correspondiente, cumpliendo con los requisitos, formatos, lineamientos y mecanismos que emita la Secretaría.
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
-En la solicitud deberá precisar nombre completo, domicilio en la Ciudad de México para oír y recibir notificaciones, además de acompañar la misma con los siguientes documentos en original y copia:
+Para la reposición de las licencias de conducir Tipo A, Tipo A1, y Tipo A2, la persona interesada podrá realizar el trámite en los módulos autorizados por la Secretaría, para lo cual deberá llenar la solicitud correspondiente, cumpliendo con los requisitos, formatos, lineamientos y mecanismos que emita la Secretaría.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE MAYO DE 2021)</small>
+
+En la solicitud deberá precisar nombre completo, domicilio en la Ciudad de México o Estado de México, además de acompañar la misma con los siguientes documentos en original y copia:
+
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
 I. Comprobante de pago de los derechos correspondientes;
+
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
 II. Identificación oficial con fotografía en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, cédula profesional con fotografía o cartilla de identidad del Servicio Militar Nacional);
 
-III. Comprobante de domicilio de la Ciudad de México. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente; y
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+III. Comprobante de domicilio de la Ciudad de México o Estado de México. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente; y
+
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
 IV. Clave Única del Registro de Población (CURP) o Registro Federal de Contribuyentes (RFC), según lo establecido en la Licencia de Conducir Tipo A aplicable
 
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 2020)</small>
+
 La reposición a que se refiere el presente artículo se tramitará conforme a la información registrada en la base de datos de la Secretaría. Para el caso de que la información registrada en dicha base de datos no se encuentre actualizada, la reposición deberá tramitarse de manera presencial en los módulos autorizados por la Secretaría, llenar la solicitud correspondiente, así como acompañarla de los documentos establecidos en las fracciones anteriores en original y copia.
 
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 2020)</small>
+
 En ese mismo sentido, y para el caso de que lo considere adecuado, la persona interesada podrá realizar el trámite de forma digital mediante la plataforma electrónica que la Secretaría determine, en cuyo caso, deberá llenar la solicitud digital, cumpliendo los requisitos, formatos y mecanismos que la propia Secretaría establezca.
+
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
 En caso de que la persona interesada opte por la realización del trámite de forma digital, se tendrá por manifiesta su voluntad para obtener una reposición de licencia para conducir digital. La Secretaría podrá expedir un documento físico a su favor en caso de que la persona interesada así lo requiera mediante los procesos que determine la Secretaría.
 
-> <small>(ADICIONADO, G.O. 11 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 127 Ter.
 
-Para la renovación de la licencia para conducir Tipo A, la persona interesada podrá realizar el trámite en los módulos autorizados por la Secretaría, para lo cual deberá llenar la solicitud correspondiente, cumpliendo con los requisitos, formatos, lineamientos y mecanismos que emita la Secretaría. La renovación a que se refiere el presente artículo podrá realizarse un mes antes de concluir la vigencia y en cualquier momento posterior a la conclusión de la misma.
+Para la renovación de las licencias para conducir Tipo A, Tipo A1, y Tipo A2, la persona interesada podrá realizar el trámite en los módulos autorizados por la Secretaría, para lo cual deberá llenar la solicitud correspondiente, cumpliendo con los requisitos, formatos, lineamientos y mecanismos que emita la Secretaría, y además, deberá entregar la licencia para conducir cuya vigencia se encuentre vencida, para así obtener una nueva licencia para conducir. La renovación a que se refiere el presente artículo podrá realizarse un mes antes de concluir la vigencia y en cualquier momento posterior a la conclusión de la misma.
 
-En la solicitud deberá precisar nombre completo, domicilio en la Ciudad de México para oír y recibir notificaciones, además de acompañar la misma con los siguientes documentos en original y copia:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE MAYO DE 2021)</small>
+
+En la solicitud deberá precisar nombre completo, domicilio en la Ciudad de México o Estado de México, además de acompañar la misma con los siguientes documentos en original y copia:
+
+> <small>(ADICIONADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
 I. Comprobante de pago de los derechos correspondientes;
 
+> <small>(ADICIONADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
+
 II. Identificación oficial en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, cédula profesional con fotografía o cartilla de identidad del Servicio Militar Nacional);
 
-III. Comprobante de domicilio de la Ciudad de México. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+III. Comprobante de domicilio de la Ciudad de México o Estado de México. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente;
+
+> <small>(ADICIONADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
 IV. Clave Única del Registro de Población (CURP) o Registro Federal de Contribuyentes (RFC), según lo establecido en la Licencia de Conducir Tipo A aplicable; y
 
+> <small>(ADICIONADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
+
 V. Acreditación de las evaluaciones correspondientes, de conformidad con lo dispuesto en el artículo 65 de la Ley de Movilidad de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
 Adicionalmente la persona interesada deberá haber acreditado las evaluaciones y, en su caso, los cursos requeridos en el artículo 230 de la Ley de Movilidad de la Ciudad de México y que para tal efecto establezca la propia Secretaría.
 
+> <small>(ADICIONADO, G.O. 11 DE DICIEMBRE DE 2020)</small>
+
 En ese mismo sentido, y para el caso de que lo considere adecuado, la persona interesada podrá realizar el trámite de forma digital mediante la plataforma electrónica que la Secretaría determine, en cuyo caso, deberá llenar la solicitud digital, cumpliendo los requisitos, formatos y mecanismos que la propia Secretaría establezca.
 
-En caso de que la persona interesada opte por la realización del trámite de forma digital, se tendrá por manifiesta su voluntad, de obtener una reposición de licencia para conducir digital. La Secretaría podrá expedir un documento físico a su favor, en caso de que la persona interesada así lo requiera mediante los procesos que determine la Secretaría.
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
+En caso de que la persona interesada opte por la realización del trámite de forma digital, se tendrá por manifiesta su voluntad, de obtener una renovación de licencia para conducir digital. La Secretaría podrá expedir un documento físico a su favor, en caso de que la persona interesada así lo requiera mediante los procesos que determine la Secretaría.
 
 ###### Artículo 128.
 
 Para la expedición de las licencias de conducir Tipo “B”, “C”, “D” y “E”, el interesado presentará la solicitud correspondiente en los formatos que al efecto emita la Secretaría, mediando declaración bajo protesta de decir verdad que los datos manifestados son correctos, que está capacitado para conducir y que conoce la normatividad en materia de tránsito.
 
-La solicitud señalará en forma precisa nombre, domicilio y deberá acompañarse en original y copia, de los siguientes documentos para registro ante esta Secretaría:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE MAYO DE 2021)</small>
+
+La solicitud señalará en forma precisa nombre, domicilio en la Ciudad de México o Estado de México, y deberá acompañarse en original y copia, de los siguientes documentos para registro ante esta Secretaría:
 
 I. Comprobante de pago de los derechos establecidos en el Código Fiscal de la Ciudad de México vigente en el ejercicio fiscal correspondiente;
 
@@ -2052,9 +2154,9 @@ VI. Capacitación;
 
 VII. Conocimientos y Desempeño (pericia);
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
-VIII. Se requiere acreditar o contar con Licencia tipo “A”, emitida por la Secretaría, cuando menos con tres años de antigüedad, para tramitar la Licencia Tipo “B” y la Licencia Tipo “E”, para el Servicio de Transporte de Pasajeros Privado Especializado con Chofer, según lo establecido en el artículo 126, fracción V, inciso a) E1.
+VIII. Se requiere acreditar o contar con licencia tipo “A” emitida por la Secretaría, o por la entidad responsable de la emisión de dichas licencias en el Estado de México, cuando menos con tres años de antigüedad. Para el caso de licencias para conducir emitidas por las autoridades responsables del Estado de México, la persona interesada deberá acreditar que dichos documentos se encuentran vigentes al momento de su presentación, y que cumplen con la antigüedad requerida para el caso.
 
 Se requiere acreditar o contar con Licencia tipo “A”, emitida por la Secretaría, cuando menos con cinco años de antigüedad, para tramitar las Licencias Tipo “C”, “D” y “E”, según lo establecido en el artículo 126, fracción V, para los incisos b) al l).
 
@@ -2062,7 +2164,13 @@ Se requiere acreditar o contar con Licencia tipo “A”, emitida por la Secreta
 
 IX. Constancia de capacitación en primeros auxilios
 
-X. Para la expedición de la Tarjeta de Identificación para la conducción de vehículos de transporte público individual de pasajeros en ciclotaxi, se debe contar con los requisitos previstos de las fracciones I a VII del presente artículo.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 28 DE MAYO DE 2021)</small>
+
+X. Clave Única del Registro de Población.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+La persona interesada podrá obtener la versión digital de su licencia mediante la plataforma electrónica que la Secretaría determine, en cuyo caso, deberá cumplir con los requisitos, formatos y mecanismos que la propia Secretaría establezca. En caso de que la persona interesada opte por la realización del trámite de forma digital, se tendrá por manifiesta su voluntad de obtener una versión digital de su licencia para conducir.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2019)</small>
 
@@ -2100,17 +2208,33 @@ d) Recibo de Predial.
 
 Los aspirantes a renovar una licencia Tipo “B”, “C”, “D” y “E”, tendrán que ser evaluados por Organismos Académicos, Sector Privado, y Dependencias de Gobiernos Locales y Federales, en su caso, aceptados por esta Secretaría:
 
-V (SIC). Evaluación Médica Integral;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
-VI. Capacitación;
+IV. Evaluación Médica Integral;
 
-VII. Conocimientos y Desempeño (pericia);
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2019)</small>
+V. Capacitación;
 
-VIII. La licencia Tipo “B”, C”, “D” y “E” vencida en original a canje
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
-IX. Constancia de capacitación en Primeros Auxilios para la Licencia Tipo “E”.
+VI. Conocimientos y Desempeño (pericia);
+
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+VII. La licencia Tipo “B”, C”, “D” y “E” vencida en original a canje.
+
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+VIII. Constancia de capacitación en Primeros Auxilios para la Licencia Tipo “E”.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+La persona interesada podrá realizar el trámite de forma digital mediante la plataforma electrónica que la Secretaría determine, en cuyo caso, deberá llenar la solicitud digital, cumpliendo los requisitos, formatos y mecanismos que la propia Secretaría establezca.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+En caso de que la persona interesada opte por la realización del trámite de forma digital, se tendrá por manifiesta su voluntad para obtener una renovación de licencia para conducir digital. La Secretaría podrá expedir un documento físico a su favor en caso de que la persona interesada así lo requiera mediante los procesos que determine la Secretaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2019)</small>
 
@@ -2147,6 +2271,10 @@ c) Recibo de Teléfono;
 d) Recibo de Predial.
 
 IV. Acta de robo levantada ante el Ministerio Público, o bien, en el caso de extravío, el acta levantada ante Ministerio Público o Juez Cívico.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+La persona interesada podrá realizar el trámite de forma digital mediante la plataforma electrónica que la Secretaría determine, en cuyo caso, deberá llenar la solicitud digital, cumpliendo los requisitos, formatos y mecanismos que la propia Secretaría establezca. En caso de que la persona interesada opte por la realización del trámite de forma digital, se tendrá por manifiesta su voluntad, de obtener una reposición de licencia para conducir digital. La Secretaría podrá expedir un documento físico a su favor, en caso de que la persona interesada así lo requiera mediante los procesos que determine la propia Secretaría.
 
 ###### Artículo 131.
 
@@ -2224,7 +2352,9 @@ XIII. De infracciones, sanciones y delitos relacionados con el transporte;
 
 XIV. De operadores no aptos y de aquellos solicitantes de permisos o licencias para conducir que se encuentren en la misma situación;
 
-XV. De operadores por concesión de transporte público, individual, en corredores, metropolitano y colectivo de pasajeros y de carga;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+XV. De operadores por concesión de transporte público, individual, en corredores, zonal, metropolitano y colectivo de pasajeros y de carga;
 
 XVI. De operadores con autorización de la Secretaria para otorgar servicio privado de pasajeros mediante aplicaciones (apps) y plataformas informáticas; y
 
@@ -2261,6 +2391,10 @@ d) Cancelación de gravamen;
 e) Copias certificadas de antecedentes registrales; y
 
 f) Las demás anotaciones y certificaciones registrales necesarias para el objeto registral.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+El interesado en obtener una certificación deberá realizar el trámite correspondiente, acreditar titularidad o interés jurídico, con los documentos señalados por la ley aplicable; así como pagar los derechos correspondientes.
 
 ###### Artículo 138.
 
@@ -2360,65 +2494,101 @@ IV. No desempeñar durante el periodo de su encargo ninguna otra comisión o emp
 
 Para los efectos de la planeación, el desarrollo, la operación y supervisión del corredor de transporte, el Órgano Regulador establecerá las normas y procedimientos que regirán la prestación de servicios que ofrecen los corredores.
 
-### CAPÍTULO SEGUNDO. DE LA CONFORMACION (SIC) CORREDORES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE MAYO DE 2021)</small>
+
+### CAPÍTULO SEGUNDO. DE LA CONFORMACIÓN (SIC) CORREDORES Y SERVICIOS ZONALES
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 152.
 
-Corresponde al Órgano conformar los corredores de transporte, cuya concesión para la prestación de servicio, será otorgada a las personas morales.
+Corresponde al Órgano Regulador, conformar los corredores de transporte y servicios zonales, cuya concesión para la prestación de servicio, será otorgada a las personas morales.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 153.
 
-El servicio de corredores de transporte contará con paradas específicas para el ascenso y descenso de los usuarios en la Ruta en la que se preste el servicio autorizado por la Secretaría.
+El Servicio de Corredores de Transporte contará con paradas específicas para el ascenso y descenso de los usuarios en la Ruta en la que se preste el servicio autorizado por la Secretaría.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+###### Artículo 153 Bis.
+
+El Servicio Zonal contará con paradas específicas, recorridos itinerantes para el ascenso y descenso de los usuarios predominantemente en vías secundarias, áreas periféricas y zonas altas de la Ciudad, que podrán modificarse conforme a la demanda local del servicio, previa autorización de la Secretaría.
+
+El Servicio de Corredores de Transporte y Servicio Zonal contará con paradas específicas para el ascenso y descenso de los usuarios en la Ruta en la que se preste el servicio autorizado por la Secretaría.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 154.
 
-El Órgano previo análisis a la prestación de servicio de corredores dictaminará y autorizara en su caso los estudios técnicos y proyectos ingresados con el fin de conformarse como corredor, para efecto de este reglamento se deberá contemplar los requisitos referente a los estudios de factibilidad correspondiente según sea el caso, estos de manera enunciativa mas no limitativa de acuerdo a lo siguiente
+El Órgano Regulador, previo análisis a la prestación de Servicio de Corredores y Zonal, dictaminará y autorizará en su caso los estudios técnicos y proyectos ingresados con el fin de conformarse como corredor o servicio zonal. Para efecto de este reglamento se deberá contemplar los requisitos referentes a los estudios de factibilidad correspondiente (sic) según sea el caso, estos de manera enunciativa más no limitativa de acuerdo a lo siguiente:
 
-a) Aprobar las normas y regulaciones jurídico-administrativas para la constitución y operación de corredores de transporte.
+a) Aprobar las normas y regulaciones jurídico-administrativas para la constitución y operación de corredores de transporte y servicios zonales.
 
-b) Aprobar el uso y explotación de espacios publicitarios y comerciales de los corredores de transporte, conforme a la normatividad especifica emitida para tal fin.
+b) Aprobar el uso y explotación de espacios publicitarios y comerciales de los corredores de transporte y servicios zonales, conforme a la normatividad específica emitida para tal fin.
 
-c) Vigila el cumplimiento de las especificaciones, normas técnicas para el arranque de la infraestructura y servicios a prestar en los corredores de transporte.
+c) Vigilar el cumplimiento de las especificaciones, normas técnicas para el arranque de la infraestructura y servicios a prestar en los corredores de transporte y servicios zonales.
 
-d) Aprobar la normatividad técnica que deben cumplir los vehículos que prestan el servicio de transporte de pasajeros en los corredores de transporte.
+d) Aprobar la normatividad técnica que deben cumplir los vehículos que prestan el servicio de transporte de pasajeros en los corredores de transporte y servicios zonales.
 
-e) Dirigir la revisión periódica de los vehículos utilizados en la prestación del servicio de corredores de transporte, para verificar que cumplan con las características de seguridad, comodidad, accesibilidad y sustentabilidad establecidas en las normas y técnicas correspondientes.
+e) Dirigir la revisión periódica de los vehículos utilizados en la prestación del servicio de corredores de transporte y servicios zonales, para verificar que cumplan con las características de seguridad, comodidad, accesibilidad y sustentabilidad establecidas en las normas y técnicas correspondientes.
 
-f) Controlar la verificación periódica del estado de la infraestructura y equipamiento de los corredores de transporte, para que cumplan con los estándares de seguridad, confort y calidad especificados en las normas técnicas correspondientes.
+f) Controlar la verificación periódica del estado de la infraestructura y equipamiento de los corredores de transporte y servicios zonales, para que cumplan con los estándares de seguridad, confort y calidad especificados en las normas técnicas correspondientes.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 155.
 
-El Órgano solicitará a través del Titular de la Secretaría, que se convoque al Comité de Evaluación y Análisis del Gabinete del Nuevo Orden Urbano, con la intención de aprobar en sesión, la publicación de la Declaratoria de Necesidad para la creación del corredor de transporte específico.
+El Órgano Regulador, solicitará a través del Titular de la Secretaría, que se convoque al Comité de Evaluación y Análisis del Gabinete del Nuevo Orden Urbano, con la intención de aprobar en sesión, la publicación de la Declaratoria de Necesidad para la creación del corredor de transporte específico o Servicio Zonal, de ser el caso.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 156.
 
-El Órgano instará la convocatoria al Comité Adjudicador de la Secretaría, para que la persona moral que cumpla con los requisitos establecidos en la Declaratoria de Necesidad, le sea adjudicada la concesión administrativa de explotación del corredor de transporte específico.
+El Órgano Regulador instará la convocatoria al Comité Adjudicador de la Secretaría, para que la persona moral que cumpla con los requisitos establecidos en la Declaratoria de Necesidad, le sea adjudicada la concesión administrativa de explotación del corredor de transporte específico o Servicio Zonal, de ser el caso.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 157.
 
-Para la planeación de los corredores de transporte público, se deberá considerar el Programa General de Desarrollo de la Ciudad de México, así como el Programa Integral de Movilidad.
+Para la planeación de los corredores de transporte público y Servicio Zonal, se deberá considerar el Programa General de Desarrollo de la Ciudad de México, así como el Programa Integral de Movilidad.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 158.
 
-La implementación de los Proyectos de los corredores de Transporte público, se determinara mediante el estudio técnico correspondiente, así como con los demás que considere necesarios la Secretaría en su caso.
+La implementación de los Proyectos de los corredores de Transporte público y servicios zonales, se determinará mediante el estudio técnico correspondiente, así como con los demás que considere necesarios la Secretaría en su caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 159.
 
-Previo a la implementación de los corredores de transporte público se deberá publicar en la Gaceta Oficial de la Ciudad de México:
+Previo a la implementación de los corredores de transporte público y servicios zonales, se deberá publicar en la Gaceta Oficial de la Ciudad de México:
 
-1.- El aviso de las vialidades en las que se implementará el servicio.
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
-2.- El Estudio de la Oferta y la Demanda.
+I. El aviso de las vialidades en las que se implementará el servicio.
 
-3.- La Declaratoria de Necesidades.
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+II. El Estudio de la Oferta y la Demanda.
+
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+III. La Declaratoria de Necesidades.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 160.
 
-El órgano Regulador, una vez presentado por los concesionarios interesados, el estudio técnico que sustente el Proyecto de Corredor de Transporte, deberá realizar la validación en campo de la información contenida en dicho estudio. Hecho lo anterior emitirá el dictamen correspondiente.
+El Órgano Regulador, una vez presentado por los concesionarios interesados, el estudio técnico que sustente el Proyecto de Corredor de Transporte o Servicio Zonal en su caso, deberá realizar la validación en campo de la información contenida en dicho estudio. Hecho lo anterior emitirá el dictamen correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 161.
 
-Se prohíbe a los usuarios del servicio público en su modalidad de corredor de transporte:
+Se prohíbe a los usuarios del servicio público en su modalidad de corredor de transporte o Servicio Zonal:
 
 I. Conducir y maniobrar los vehículos que proporcionan el servicio;
 
@@ -2462,15 +2632,17 @@ XX. Transportar objetos que puedan causar daño a las instalaciones, unidades ve
 
 Las infracciones a las que hace referencia el presente artículo, serán sancionadas conforme a la Ley de Cultura Cívica del Distrito Federal, sin perjuicio de lo que establezcan otros ordenamientos que resulten aplicables.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 162.
 
-El usuario del servicio de corredor de transporte, debe realizar el pago de la tarifa en el momento en que dicho servicio inicie; en caso de cualquier avería o hecho de tránsito del vehículo que le impida llegar a su destino, el operador quedará obligado a garantizar el viaje sin costo adicional.
+El usuario del Servicio de Corredor de Transporte o Zonal, debe realizar el pago de la tarifa en el momento en que dicho servicio inicie; en caso de cualquier avería o hecho de tránsito del vehículo que le impida llegar a su destino, el operador quedará obligado a garantizar el viaje sin costo adicional. En el Servicio de Corredor de Transporte o Zonal, el usuario podrá pagar la tarifa mediante tarjeta de prepago, en las modalidades que se cuente con dicha tecnología.
 
-En el servicio de corredor de transporte, el usuario podrá pagar la tarifa mediante tarjeta de prepago, en las modalidades que se cuente con dicha tecnología.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 163.
 
-Se consideran causas justificadas para negar la prestación del servicio de Corredor de Transporte, al usuario cuando:
+Se consideran causas justificadas para negar la prestación del Servicio de Corredor de Transporte o Zonal, al usuario cuando:
 
 I. Se encuentre notoriamente bajo el efecto de bebidas alcohólicas, estupefacientes o psicotrópicos;
 
@@ -2490,13 +2662,17 @@ El órgano presentará a la secretaría las solicitudes de gravamen de concesion
 
 Los concesionarios podrán gravar sus concesiones, exclusivamente para garantizar el otorgamiento de créditos para la adquisición, sustitución, modernización, mejoramiento y desarrollo del equipo, infraestructura y equipamiento auxiliar de transporte; dicho gravamen deberá ser inscrito ante el Registro Público del Transporte bajo su costo.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 165.
 
-Los estudios técnicos, que presenten los concesionarios o permisionarios parta (sic) la conformación de un corredor deberán contener, los requisitos señalados en el artículo 82 de este Reglamento, así como los demás que estime el Órgano.
+Los estudios técnicos, que presenten los concesionarios o permisionarios para la conformación de un corredor o Servicio Zonal, deberán contener, los requisitos señalados en el artículo 75 de este Reglamento, así como los demás que estime el Órgano Regulador.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 166.
 
-Los corredores de transporte sólo podrán concesionarse a personas morales, por lo tanto, el Órgano en coordinación con el área de la Secretaría correspondiente, integrarán los expedientes de los concesionarios que participen en el proceso de adjudicación, en forma individual previo a conformarse como persona moral, y conforme a lo estipulado en la Declaratoria de Necesidad, los siguientes requisitos forman parte de este proceso, en forma enunciativa, pues cada Declaratoria podrá manejar requisitos adicionales a los aquí descritos:
+Los corredores de transporte o servicios zonales, sólo podrán concesionarse a personas morales, por lo tanto, el Órgano Regulador en coordinación con el área de la Secretaría correspondiente, integrarán los expedientes de los concesionarios que participen en el proceso de adjudicación, en forma individual previo a conformarse como persona moral, y conforme a lo estipulado en la Declaratoria de Necesidad, los siguientes requisitos forman parte de este proceso, en forma enunciativa, pues cada Declaratoria podrá manejar requisitos adicionales a los aquí descritos:
 
 a) Original de título Concesión y/o cesión de derechos de cada concesionario que habrá de integrarse en la persona moral que desea participar de la Declaratoria de Necesidad;
 
@@ -2512,11 +2688,15 @@ f) Cinco últimas tenencias de cada vehículo de cada concesionario que habrá d
 
 g) Dos últimas revistas físico mecánico y documental de cada vehículo de cada concesionario que habrá de integrarse en la persona moral que desea participar de la Declaratoria de Necesidad;
 
-### CAPÍTULO TERCERO. DE LA VIGILANCIA Y SUPERVISIÓN DE LOS CORREDORES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE MAYO DE 2021)</small>
+
+### CAPÍTULO TERCERO. DE LA VIGILANCIA Y SUPERVISIÓN DE LOS CORREDORES Y SERVICIOS ZONALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 167.
 
-Previo al otorgamiento de la concesión las personas morales que presten el Servicio de manera exclusiva en un corredor de Transporte, deberán presentar:
+Previo al otorgamiento de la concesión las personas morales que presten el Servicio de manera exclusiva en un corredor de Transporte o Servicio Zonal, deberán presentar:
 
 I.- Acta Constitutiva de la empresa inscrita en el Registro Público de la Propiedad;
 
@@ -2530,7 +2710,9 @@ V.- Pago de Derechos de Representatividad.
 
 VI.- Renuncias individuales de los derechos de la concesión
 
-VII.- Expedientes para el ingreso y trámite de baja por conformación de corredor conforme a los requisitos señalado (sic) en este Reglamento
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+VII.- Expedientes para el ingreso y trámite de baja por conformación de corredor o Servicio Zonal conforme a los requisitos señalados en este Reglamento.
 
 VIII.- Pago de los derechos por el otorgamiento de la Concesión.
 
@@ -2538,7 +2720,11 @@ IX.- Estudio Técnico y;
 
 X.- Los demás que considere la Secretaría.
 
-Atículo (sic) 168.- Son obligaciones de los concesionarios de los corredores de transporte:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
+###### Artículo 168.
+
+Son obligaciones de los concesionarios de los corredores de transporte y servicios zonales:
 
 I. Estar constituidos en persona moral con fines de lucro;
 
@@ -2570,9 +2756,11 @@ XIV. Disponer de un centro de atención para la recepción de quejas y denuncias
 
 XV. Las demás que señale la normativa vigente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 169.
 
-El Órgano integrará los expedientes de los concesionarios que se incorporaran al Proyecto autorizado de Corredor de Transporte, debiendo entregar los mismos a la Dirección General de Transporte de Ruta y Especializado para la baja administrativa de las concesiones correspondiente conforme a los siguientes requisitos:
+El Órgano Regulador integrará los expedientes de los concesionarios que se incorporarán al Proyecto autorizado de Corredor de Transporte o Servicio Zonal de ser el caso, debiendo entregar los mismos al área responsable de la Subsecretaría del Transporte de la Secretaría de Movilidad para la baja administrativa de las concesiones correspondiente conforme a los siguientes requisitos:
 
 a) Original de título Concesión y/o cesión de derechos
 
@@ -2596,27 +2784,33 @@ El Órgano podrá requerir a los concesionarios todo tipo de documentación e in
 
 El Órgano Regulador emitirá su opinión para creación y conformación de sistema de corredores de transporte público de pasajeros del distrito federal, Metrobús.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 172.
 
-Las unidades de transporte para la prestación del servicio de Corredor de Transporte deberán ser con tecnología sustentable y amigable con el medio ambiente, es decir, con bajos niveles de emisión de contaminantes con el fin de optimizar la movilidad de la Ciudad de México.
+Las unidades de transporte para la prestación del Servicio de Corredor de Transporte o servicios zonales, deberán ser con tecnología sustentable y amigable con el medio ambiente, es decir, con bajos niveles de emisión de contaminantes con el fin de optimizar la movilidad de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 173.
 
-El órgano en coordinación con el Instituto de Verificación Administrativa, vigilará de manera periódica y aleatoria la operación de los servicios prestados en los corredores de transporte para garantizar que cumplan con las condiciones de equipamiento, cromática, accesibilidad, seguridad, comodidad y calidad en el servicio, así como el cumplimiento de las condiciones señaladas en el título concesión.
+El Órgano Regulador, en coordinación con el Instituto de Verificación Administrativa, vigilará de manera periódica y aleatoria la operación de los servicios prestados en los corredores de transporte o en los servicios zonales, para garantizar que cumplan con las condiciones de equipamiento, cromática, accesibilidad, seguridad, comodidad y calidad en el servicio, así como el cumplimiento de las condiciones señaladas en el título concesión.
 
 ### CAPÍTULO CUARTO. DE LAS SANCIONES
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 174.
 
-Sin perjuicio de las sanciones ya establecidas, el Órgano podrá suspender el recorrido de un corredor de transporte, cuando este cometa una conducta calificada como grave por la Secretaría, suspensión que podrá ser por un término no menor de quince días y no mayor a un año.
+Sin perjuicio de las sanciones ya establecidas, el Órgano Regulador podrá suspender el recorrido de un corredor de transporte y los servicios zonales, cuando estos cometan una conducta calificada como grave por la Secretaría, suspensión que podrá ser por un término no menor de quince días y no mayor a un año. La gravedad a que hace referencia este artículo, será en aquellos hechos de tránsito en los que por su motivo, haya pérdidas de vidas humanas.
 
-La gravedad a que hace referencia este artículo, será en aquellos hechos de tránsito en los que por su motivo, haya pérdidas de vidas humanas.
+Igual sanción se aplicará al vehículo que no cuente con el sistema de Radiocomunicación de dos vías, el sistema de Posicionamiento Global y con el Centro de Control de Operaciones, y en su caso con equipo, sistemas o dispositivos tecnológicos que sean proporcionados por la Secretaría, en el caso de transporte de pasajeros público colectivo en la modalidad de corredor o servicios zonales.
 
-Igual sanción se aplicará al vehículo que no cuente con el sistema de Radiocomunicación de dos vías, el sistema de Posicionamiento Global y con el Centro de Control de Operaciones, en el caso de transporte de pasajeros público colectivo en la modalidad de corredor;
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 175.
 
-En los casos del artículo anterior, el Órgano deberá garantizar que la ruta del corredor de transporte, sea cubierta de manera emergente en los términos que establece la Secretaría.
+En los casos del artículo anterior, el Órgano Regulador, deberá garantizar que las rutas del corredor de transporte o los servicios zonales, sean cubiertas de manera emergente en los términos que establece la Secretaría.
 
 ## TÍTULO DÉCIMO. DE LA PUBLICIDAD EN VEHÍCULOS DE TRANSPORTE
 
@@ -3174,9 +3368,11 @@ VIII. En general, cuando pretenda que el servicio se otorgue contraviniendo las 
 
 El servicio se podrá interrumpir cuando el usuario exija conducirse por vialidad intransitable o bien represente notorio peligro para el usuario o el conductor; o se contravengan las disposiciones en materia de tránsito.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 229.
 
-Los usuarios del Sistema de Transporte Colectivo, “Metro”, del Servicio de Transportes Eléctricos y de los Corredores de Transporte deben circular en las estaciones y las zonas de acceso o salida destinadas para el efecto y en el sentido que se encuentre señalado para tales fines y en su caso las medidas específicas complementarias para atender necesidades especiales.
+Los usuarios del Sistema de Transporte Colectivo, “Metro”, del Servicio de Transportes Eléctricos, de los Corredores (sic) Transporte y los servicios zonales, deben circular en las estaciones y las zonas de acceso o salida destinadas para el efecto y en el sentido que se encuentre señalado para tales fines y en su caso las medidas específicas complementarias para atender necesidades especiales.
 
 ###### Artículo 230.
 
@@ -3273,6 +3469,10 @@ III. Remisión a los depósitos vehiculares administrados por la Secretaría, de
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2019)</small>
 
 IV. Quienes incumplan lo mandatado en el artículo 59 del presente Reglamento, serán acreedores a la sanción establecida en el artículo 254 de la Ley, sin menoscabo de las sanciones administrativas que pudieran imputárseles. Además, la Secretaría podrá revocar la Constancia de Registro y los permisos, así como dar de baja las unidades registradas que se encuentren en dicho supuesto.
+
+> <small>(ADICIONADA, G.O. 28 DE MAYO DE 2021)</small>
+
+V. Ante el incumplimiento a lo establecido por el artículo 110 fracción XXI del presente Reglamento, se sancionará con multa de cien a doscientos veces la unidad de Medida y actualización de la Ciudad de México vigente y la reparación del daño ocasionado al equipo referido, conforme la evaluación realizada por el Órgano Regulador de Transporte.
 
 ### CAPÍTULO TERCERO. DE LOS DEPÓSITOS VEHICULARES
 
@@ -3415,3 +3615,17 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La implementación, expedición y renovación de la licencia digital para conducir Tipo A, se regirá de conformidad con los lineamientos correspondientes que emita la Secretaría de Movilidad de la Ciudad de México.
 
 CUARTO. Se instruye a la Dirección General de Licencias y Operación del Transporte Vehicular de la Secretaría de Movilidad a que, en términos del artículo 41 de la Ley de Mejora Regulatoria para la Ciudad de México, realice la modificación correspondiente en el Catálogo de Regulaciones, Trámites y Servicios de la Ciudad de México.
+
+G.O. 28 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación.
+
+TERCERO. La expedición de la licencia para conducir Tipo A1, y Tipo A2 entrará en vigor de forma progresiva con la apertura gradual de ventanillas para la atención de dichos trámites. El 31 de julio de 2021 será la fecha límite a partir de la cual toda licencia tipo “A”, que expire el plazo de su vigencia deberá realizar el trámite para obtener una renovación de licencia tipo “A”, o la obtención de una licencia tipo “A1” o “A2” según corresponda.
+
+CUARTO. Las licencias para conducir Tipo “A” expedidas con anterioridad a la entrada en vigor de las licencias para conducir Tipos A1 y A2, serán válidas para la conducción de automóviles clasificados como transporte particular que no exceda de 12 plazas y de carga cuyo peso máximo autorizado no exceda de 3.5 toneladas, así como para motocicletas, bicimotos, triciclos automotores, tetramotos y motonetas, hasta por el plazo de su vigencia. Además, para el caso de reposición de licencias Tipo “A”, éstas surtirán la misma suerte, hasta por el plazo de la vigencia que falte para la expiración del documento.
+
+QUINTO. Para el caso de expedición de nuevas licencias tipo “A” y la renovación de licencias tipo “A” cuya vigencia haya vencido al 31 de julio de 2021, se deberá apegar a lo establecido en el presente Decreto.
