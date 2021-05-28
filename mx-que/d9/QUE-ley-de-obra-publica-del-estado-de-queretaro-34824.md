@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obra-publica-del-estado-de-queretaro-34824"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-12"
-last_updated: "2019-12-22"
+last_updated: "2021-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "QUE"
 ---
 # LEY DE OBRA PUBLICA DEL ESTADO DE QUERETARO
 
-[NOTA 1: DE CONFORMIDAD CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]
+[NOTA: DE CONFORMIDAD CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 12 de noviembre de 2003.
 
@@ -297,7 +295,15 @@ La Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo tendr�
 
 La Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo hará del conocimiento de las dependencias, entidades, municipios y al público en general, de las personas registradas en el padrón; esta información será publicada en forma bimestral en las oficinas de dicha Secretaría y de manera anual en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", debidamente actualizada, en los primeros treinta días del año que corresponda. De la misma manera, los municipios que cuenten con éste, deberán hacer público su padrón de contratistas en las oficinas de la dependencia encargada de la ejecución de las obras públicas en forma bimestral y publicarlos en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en sus gacetas municipales, en los primeros treinta días del año que corresponda.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+
+Asimismo, implementará herramientas y el uso de tecnologías de la información, con la finalidad de crear una plataforma digital que compile los datos relativos al padrón, que permita su consulta de conformidad con lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
 Sólo podrán celebrar contratos de obra pública o de servicios relacionados con la misma, las personas con registro vigente en el padrón.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+
+Aquellas personas físicas o morales que estén registradas en el Padrón de Contratistas de obra pública del Estado de Querétaro, podrán celebrar contratos de obra pública y servicios relacionados con ésta, ya sea con el Estado o los municipios, independientemente del origen de los recursos con los que habrá de ejecutarse la obra o servicio.
 
 La clasificación por especialidad requerida, a que se refiere el primer párrafo de este artículo, deberá ser considerada en la convocatoria y en la contratación de la obra pública.
 
@@ -395,7 +401,9 @@ En lo que se refiere a los incisos c), d) y e), se les convocará dependiendo de
 
 En el caso de los concursos de obra pública bajo la modalidad de invitación restringida a cuando menos tres contratistas, los participantes deberán ser previamente propuestos por el Comité de Selección de Contratistas, de acuerdo al siguiente procedimiento:
 
-1. Para poder participar como candidato en el Comité de Selección para los concursos bajo esta modalidad, los interesados deberán estar inscritos en el Padrón de Contratistas del Gobierno del Estado de Querétaro, a cargo de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o en los padrones de contratistas de cada municipio y se trate exclusivamente de obras a ejecutarse con recursos propios del municipio, en los cuales no intervengan recursos estatales ni federales. Los registros deberán ser vigentes. Si no se contara con padrón de contratistas en el Municipio de que se trate, se atenderá al de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2021)</small>
+
+1. Para poder participar como candidato en el Comité de Selección para los concursos bajo esta modalidad, los interesados deberán estar inscritos en el Padrón de Contratistas de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o del municipio correspondiente. Los registros deberán ser vigentes. Independientemente de que el municipio de que se trate cuente con padrón de contratistas, bastará con que el candidato esté inscrito en el Padrón de Contratistas de obra pública del Estado de Querétaro.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
@@ -1958,3 +1966,13 @@ d) La inscripción de la cancelación de licencia de ejecución de obras de urba
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
 
 XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+P.O. 28 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA LOS ARTÍCULOS 20 Y 26 DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Lo previsto en el artículo 20 relativo a la plataforma digital se realizará atendiendo a la suficiencia presupuestal con que se cuente.
