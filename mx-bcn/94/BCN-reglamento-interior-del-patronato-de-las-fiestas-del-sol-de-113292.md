@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-patronato-de-las-fiestas-del-sol-de-113
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-02-12"
-last_updated: "2019-04-26"
+last_updated: "2021-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL PATRONATO DE LAS FIESTAS DEL SOL DE LA CIUDAD DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2021.
 
 Reglamento publicado en el No. 09 del Periódico Oficial del Estado de Baja California, el viernes 12 de febrero de 2016.
 
@@ -164,17 +164,11 @@ VIII. Auxiliar al Director en la eficiente administración de los recursos mater
 
 IX. Vigilar la correcta y oportuna comprobación de los gastos realizados por cada una de las áreas que integran “EL PATRONATO”.
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2019)</small>
+X. (DEROGADA, P.O. 28 DE MAYO DE 2021)
 
-X. Supervisar, operar y coordinar al personal de mantenimiento durante las Fiestas del Sol, Villa Navideña y durante los eventos que se realicen en el año en los diferentes recintos del FEX.
+XI. (DEROGADA, P.O. 28 DE MAYO DE 2021)
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2019)</small>
-
-XI. Realizar, supervisar y coordinar en conjunto con el Supervisor de Mantenimiento las obras de infraestructura y mantenimiento necesarias para Fiestas del Sol, Villa Navideña y el FEX.
-
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2019)</small>
-
-XII. Informar de cualquier eventualidad relacionada con el área de mantenimiento del FEX a la Dirección.
+XII. (DEROGADA, P.O. 28 DE MAYO DE 2021)
 
 > <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2019)</small>
 
@@ -248,9 +242,13 @@ II. Coordinar la gestión y obtención de patrocinios e intercambios durante Fie
 
 III. Gestionar los cobros correspondientes por arrendamiento de los módulos y/o espacios durante Fiestas del Sol, Villa Navideña y los diferentes eventos que durante el año se realicen en el FEX.
 
-IV. Coordinar a los Promotores de venta de módulos para un desarrollo exitoso de las Fiestas del Sol.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
 
-V. Atender a los Expositores para Fiestas del Sol, así como a los Promotores de eventos para impulsar que utilicen los Foros y Espacios de Centro de Ferias, Eventos y Exposiciones FEX durante el año.
+IV. Coordinar a los Promotores de venta de módulos para un desarrollo exitoso de las Fiestas del Sol y Villa Navideña.
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
+
+V. Atender a los Expositores para Fiestas del Sol, Villa Navideña así como a los promotores de eventos para impulsar que utilicen los Foros y Espacios de Centro de Ferias, Eventos y Exposiciones FEX durante el año.
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2019)</small>
 
@@ -294,9 +292,9 @@ V. Supervisar el sonido e iluminación de escenarios para Fiestas del Sol y Vill
 
 VI. Gestionar los trámites inherentes a la contratación del personal de escenarios y recreativos para Fiestas del Sol y Villa Navideña.
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
 
-VII. Coordinar la entrega de pases de acceso para los artistas locales y regionales, así como para los atractivos que se presenten en las Fiestas del Sol.
+VII. Coordinar la entrega de pases de acceso para los artistas locales y regionales, así como para los atractivos que se presenten en la (sic) las Fiestas del Sol y Villa Navideña.
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2019)</small>
 
@@ -310,19 +308,25 @@ IX. Coordinar la comunicación relativa a la promoción de los distintos eventos
 
 X. Coordinar y Supervisar el buen funcionamiento de los estacionamientos durante los eventos realizados en los distintos recintos del FEX, así como en el periodo de las Fiestas del Sol y Villa Navideña.
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2021)</small>
 
-XI. Administrar y controlar los recursos a su cargo, y
+XI. Supervisar, operar y coordinar al personal de mantenimiento durante las Fiestas del Sol, Villa Navideña así como durante los eventos que se realicen en el año en los diferentes recintos del FEX.
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2021)</small>
 
-XII. Las demás que le sean encomendadas por el Director.
+XII. Realizar, supervisar y coordinar en conjunto con el Supervisor de Mantenimiento, las obras de infraestructura y mantenimiento necesarias para Fiestas del Sol, Villa Navideña y el FEX.
 
-XIII. (DEROGADA, P.O. 26 DE ABRIL DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2021)</small>
 
-XIV. (DEROGADA, P.O. 26 DE ABRIL DE 2019)
+XIII. Informar cualquier eventualidad relacionada con el área de mantenimiento del FEX a la dirección.
 
-XV. (DEROGADA, P.O. 26 DE ABRIL DE 2019)
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
+
+XIV. Administrar y controlar los recursos a su cargo, y ;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2021)</small>
+
+XV. Las demás que le sean encomendadas por el Director.
 
 XVI. (DEROGADA, P.O. 26 DE ABRIL DE 2019)
 
@@ -346,7 +350,9 @@ V. Efectuar las notificaciones a los solicitantes.
 
 VI. Llevar un ingreso de las solicitudes de acceso a la información respuestas, resultados, costos de reproducción y envío.
 
-VII. Promover e implementar policitas (sic) de transparencia proactiva procurando su accesibilidad.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
+
+VII. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad.
 
 VIII. Fomentar la transparencia y accesibilidad al interior de (sic) sujeto obligado.
 
@@ -444,7 +450,9 @@ El Comité estará integrado por:
 
 I. El Titular de la Unidad de Transparencia, quien fungirá como Presidente, con derecho a voz y voto;
 
-II. El Titular de la Coordinación Administrativa Contable y Financiero, quien fundirá (sic) como Secretario Técnico, con derecho a voz y voto;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
+
+II. El titular de la Coordinación Administrativa, Contable y Financiera, quien fungirá como Secretario Técnico, con derecho a voz y voto;
 
 III. El Titular Coordinador de Comercialización, con derecho a voz y voto;
 
@@ -485,3 +493,9 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su p
 SEGUNDO.- Cualquier situación no prevista en el presente Reglamento será resuelta en su momento por el Director del Patronato o por cualquier servidor público de mayor autoridad en el Organismo.
 
 TERCERO.- El cambio de la denominación de las Coordinaciones que integran el Organismo no implica la creación de una Unidad Administrativa.
+
+P.O. 28 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL REGLAMENTO INTERIOR DEL PATRONATO DE LAS FIESTAS DEL SOL DE LA CIUDAD DE MEXICALI, BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entraran en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
