@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2021-05-10"
+last_updated: "2021-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -55,9 +55,13 @@ En los términos de esta Ley, son sujetos a la recepción de los servicios de sa
 
 I.- La familia, considerándola como parte fundamental de la sociedad;
 
-II.- Los menores en estado de abandono, desamparo, desnutrición o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
 
-III.- Menores infractores en lo referente a su atención integral y reintegración a la familia, sin menoscabo de lo que establezca la legislación penal y demás disposiciones jurídicas aplicables;
+II.- Las niñas, niños y adolescentes en estado de abandono, desamparo, desnutrición, extrema pobreza, sujetos a maltrato o abuso, víctimas de cualquier tipo de explotación, tráfico de personas, pornografía y comercio sexual, ser huérfanos o hijos de padres que padezcan enfermedades terminales o mentales incapacitantes.
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
+
+III.- Las niñas, niños y adolescentes infractores en lo referente a su atención integral y reintegración a la familia, sin menoscabo de lo que establezca la legislación penal y demás disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
@@ -91,13 +95,17 @@ XI.- Mujeres en estado de gestación o de lactancia que no puedan valerse por s�
 
 XII.- Personas víctimas de desastres;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
 
-XIII.- Personas con padecimientos crónicos u oncológicos cuya situación económica y de salud no les permita valerse por sí mismas; y
+XIII.- Personas con padecimientos crónicos u oncológicos cuya situación económica y de salud no les permita valerse por sí mismas;
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
 
-XIV.- Los menores, que dependen económicamente de quien se encuentra desaparecido.
+XIV.- Las niñas, niños y adolescentes, que dependen económicamente de quien se encuentra desaparecido; y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2021)</small>
+
+XV.- Madres adolescentes o en estado de embarazo.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
@@ -654,3 +662,9 @@ P.O. 10 DE MAYO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán acorde a las capacidades financieras del Gobierno del Estado y se tomarán en cuenta en el Presupuesto de Egresos del ejercicio fiscal correspondiente.
+
+P.O. 28 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 491. SE REFORMAN LAS FRACCIONES II, III, XIII Y XIV Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 4 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
