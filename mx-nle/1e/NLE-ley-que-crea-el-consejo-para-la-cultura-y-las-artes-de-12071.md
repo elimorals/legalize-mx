@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-consejo-para-la-cultura-y-las-artes-de-12071"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-07"
-last_updated: "2020-12-30"
+last_updated: "2021-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de junio de 1995.
 
@@ -67,7 +67,9 @@ I.- Planear, elaborar, ejecutar y evaluar las políticas y acciones culturales a
 
 II.- Promover las costumbres, tradiciones y valores culturales de la sociedad nuevoleonesa;
 
-III.- Proponer directrices en materia de educación artística y diseñar esquemas curriculares y extracurriculares de sensibilización al arte y la cultura dirigidas a los niños y jóvenes del Estado;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
+
+III.- Establecer programas de estímulo y financiamiento a las actividades culturales, privilegiando la integración de fondos financieros de estímulos a los artistas y creadores, con especial atención a las niñas, niños, adolescentes y jóvenes que se encuentran en situación de vulnerabilidad y zonas marginadas;
 
 IV.- Fomentar y coordinar las relaciones de orden cultural y artístico con la Federación, con los Estados, con los Municipios y con instituciones públicas y privadas locales, nacionales e internacionales;
 
@@ -123,11 +125,11 @@ XIII.- Supervisar la actualización y difusión permanente del inventario y cat�
 
 XIV.- Las demás que señalen ésta y otras Leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2021)</small>
+
+ARTICULO 3o BIS.- El Consejo establecerá en el sector educativo concursos que tengan por objeto difundir los valores culturales. Así como eventos de fomento a la cultura en zonas de marginación donde se encuentran las niñas, niños, adolescentes y jóvenes en situación de vulnerabilidad.
+
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2006)</small>
-
-###### ARTICULO 3o.
-
-BIS.- El Consejo establecerá en el sector educativo concursos que tengan por objeto difundir los valores culturales.
 
 El Consejo tendrá entre sus atribuciones, coordinarse con la Secretaría de Educación del Estado, a efecto de convocar a un concurso con temáticas específicas, donde participen los alumnos de enseñanza preescolar, elemental y secundaria del Sistema Educativo Estatal.
 
@@ -307,7 +309,9 @@ Para el desarrollo de las tareas de carácter ejecutivo operativo, el Presidente
 
 Las funciones del fomento, estímulo y financiamiento a las actividades culturales y artísticas en el estado buscarán privilegiar a la comunidad cultural nuevoleonesa, a través de la promoción de creadores, artistas e intelectuales establecidos en Nuevo León.
 
-El CONSEJO procurará establecer mecanismos financieros y fondos económicos de apoyo a las iniciativas de los creadores, artistas, intelectuales y promotores culturales de la entidad, que permitan allegarles recursos bajo esquemas modernos de financiamiento y propiciar con ello la multiplicación de la actividad cultural en todo el estado.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2021)</small>
+
+El CONSEJO procurará establecer mecanismos financieros y fondos económicos de apoyo a las iniciativas de los creadores, artistas, intelectuales y promotores culturales de la entidad, que permitan allegarles recursos bajo esquemas modernos de financiamiento y propiciar con ello la multiplicación de la actividad cultural en todo el estado. Asimismo, se procurará fomentar el apoyo primordial de la cultura en todas sus expresiones para las niñas, niños, adolescentes y jóvenes que se encuentran en situación de vulnerabilidad y zonas de marginación.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2002)</small>
 
@@ -414,3 +418,13 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 478. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 3, EL PRIMER PÁRRAFO DEL ARTÍCULO 3 BIS Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 15 DE LA LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para dar cumplimiento a las obligaciones financieras y económicas emanadas del presente Decreto, durante el ejercicio fiscal presente estas se realizarán acorde a las capacidades financieras del Estado, en los términos de los artículos 13 y 14 de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios.
+
+Para los ejercicios fiscales subsecuentes, se incluirán las partidas que se estimen necesarias en el Presupuesto de Egresos del ejercicio fiscal correspondiente, tomando en cuenta la capacidad financiera del Estado.
