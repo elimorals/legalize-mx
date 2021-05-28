@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2021-05-21"
+last_updated: "2021-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -2003,9 +2003,9 @@ XII.- Incumplir con lo dispuesto en el Artículo 113 de esta Ley;
 
 XIII.- Impartir la educación preescolar, primaria, secundaria, la normal y demás para la formación de maestros y maestras de educación básica, sin contar con la autorización correspondiente;
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
 
-XIV.- Permitir la venta de alimentos de bajo o nulo valor nutricional, en las escuelas de nivel básico;
+XIV.- Permitir la venta de alimentos de bajo o nulo valor nutricional, o bien con alto contenido calórico de acuerdo a los criterios nutrimentales y Normas Oficiales Mexicanas emitidas por la Secretaría de Salud en las escuelas de nivel básico;
 
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -2506,3 +2506,9 @@ P.O. 21 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 484. SE REFORMAN LAS FRACCIONES XXII Y XXIII, Y SE ADICIONA UNA FRACCIÓN XXIV AL ARTÍCULO 16 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 483. SE REFORMAN (SIC) LA FRACCIÓN XIV DEL ARTÍCULO 120 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al día siguiente (sic) de su publicación en el Periódico Oficial del Estado.
