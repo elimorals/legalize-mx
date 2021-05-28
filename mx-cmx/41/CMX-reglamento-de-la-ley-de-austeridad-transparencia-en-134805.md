@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-austeridad-transparencia-en-134805"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-04-01"
-last_updated: "2019-04-01"
+last_updated: "2021-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134805&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-03-27"
 
 REGLAMENTO DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE MAYO DE 2021.
 
 Reglamento publicado en el Número 62 de la Gaceta Oficial de la Ciudad de México, el lunes 1 de abril de 2019.
 
@@ -42,13 +42,19 @@ El presente ordenamiento es de orden público e interés general y tiene por obj
 
 Sus disposiciones son obligatorias para las dependencias, órganos desconcentrados y entidades de la Administración Pública. Los órganos de gobierno, órganos autónomos y las Alcaldías observarán el presente Reglamento en términos de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México y la Ley Orgánica de Alcaldías de la Ciudad de México, cuando ésta última sea aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 2.
 
-Además de las definiciones previstas en la Ley de Ley de (sic) Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México, para efectos del presente Reglamento se entiende por:
+Además de las definiciones previstas en la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México, para efectos del presente Reglamento se entiende por:
 
-I. Aspectos susceptibles de Mejora.- Son hallazgos, debilidades, oportunidades y amenazas identificadas en las evaluaciones internas y externas mismas que pueden ser atendidas para la mejora del Programa presupuestario.
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
-II. Calendario Presupuestario.- Instrumento presupuestario que tiene como objetivo lograr la correspondencia entre las fuentes y aplicación de recursos del sector público a lo largo del ejercicio fiscal y que permite a las Unidades Responsables del Gasto dar seguimiento, controlar y evaluar las operaciones relativas a la estructura por subfunción, resultado y actividad institucional o presupuestarias, entre otros, y lograr un manejo eficiente de los recursos públicos.
+I. Aspectos susceptibles de Mejora.- Los hallazgos, debilidades, oportunidades y amenazas que son identificadas por el evaluador externo como recomendaciones derivadas de los resultados de las evaluaciones, mismas que deben ser atendidas para mejorar la operación del Programa presupuestario y la ejecución de los Recursos Federales.
+
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+II. Calendario Presupuestario.- Instrumento presupuestario que tiene como objetivo lograr la correspondencia entre las fuentes y aplicación de recursos del sector público a lo largo del ejercicio fiscal y que permite a las Unidades Responsables del Gasto dar seguimiento, controlar y evaluar las operaciones relativas a la estructura programática que incluye el programa presupuestario, y lograr un manejo eficiente de los recursos públicos.
 
 III. Clasificación Económica del Gasto.- Identificación de las erogaciones con cargo al presupuesto de las Unidades Responsables del Gasto, según correspondan al gasto corriente o de capital.
 
@@ -58,13 +64,17 @@ V. Decreto.- Decreto de Presupuesto de Egresos de la Ciudad de México que anual
 
 VI. Flujo de Efectivo.- Estado que muestra el movimiento de ingresos y egresos y la disponibilidad de fondos a una fecha determinada.
 
-VII. Fuente de Financiamiento.- Componente que identifica la fuente de financiamiento del gasto.
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+VII. Fuente de Financiamiento.- Identificador que permite clasificar los diferentes tipos de recursos que conforman el presupuesto original y modificado de la Ciudad de México.
 
 VIII. Indicador.- Variable que mide el insumo, actividad, producto, resultado o impacto de la acción gubernamental.
 
 IX. Matriz de Indicadores para Resultados.- Es un instrumento de monitoreo construido con base en la Metodología del Marco Lógico que permite entender y mejorar el diseño de los Programas Presupuestarios e identificará los objetivos de un Programa, sus relaciones causales, indicadores, medios de verificación y supuestos o riesgos que pueden influir en su éxito o fracaso.
 
-X. Meta.- Cuantificación física y financiera de la unidad de medida en la realización de un proyecto.
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+X. Meta.- Expresión cuantitativa que se plantea a partir de una estimación objetiva del nivel de cumplimiento esperado de mejoría a lograr en un periodo determinado, el cual se mide a través de indicadores de desempeño.
 
 XI. Participaciones en Ingresos Federales.- Recursos de origen federal que por concepto de participaciones en los ingresos federales correspondan a la hacienda pública de la Ciudad de México, conforme a lo establecido en la Ley de Coordinación Fiscal, Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Decreto de Presupuesto de Egresos de la Federación.
 
@@ -78,9 +88,15 @@ XV. Subsecretaría.- Subsecretaría de Egresos adscrita a la Secretaría.
 
 XVI. Transferencias Federales.- Asignaciones de origen federal que por concepto de aportaciones, convenios, lineamientos y fondos federales a los que tenga derecho y participe la Ciudad de México, de conformidad con lo dispuesto por la Ley de Coordinación Fiscal, Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Decreto de Presupuesto de Egresos de la Federación, son destinadas a complementar los gastos de operación y mantenimiento, así como para incrementar sus activos reales o para la adquisición de bienes de capital.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 3.
 
-La Secretaría interpretará para efectos administrativos las disposiciones del presente Reglamento y emitirá las reglas para los trámites contables, presupuestarios y financieros, que deberán publicarse en la Gaceta y serán de observancia obligatoria para el Poder Ejecutivo, Legislativo y Judicial, las alcaldías, órganos autónomos, Unidades Responsables de Gasto y demás entes públicos de la Ciudad de México.
+La Secretaría interpretará para efectos administrativos las disposiciones del Reglamento y emitirá las reglas para los trámites contables, presupuestarios y financieros, que deberán publicarse en la Gaceta y serán de observancia obligatoria para el Poder Ejecutivo, Legislativo y Judicial, las Alcaldías, Órganos Autónomos, Unidades Responsables de Gasto y demás entes públicos de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+Asimismo, a través de la Subsecretaría se emitirán e interpretarán las disposiciones relacionadas con la implementación y operación del Presupuesto basado en Resultados y el Sistema de Evaluación del Desempeño, que serán de observancia obligatoria para las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías.
 
 La Secretaría de la Contraloría podrá establecer las medidas conducentes para la correcta aplicación de lo dispuesto en el Capítulo IV, del Título Tercero, del Libro Primero de la Ley.
 
@@ -98,9 +114,11 @@ III. La Secretaría determinará los conceptos de ingresos susceptibles de afect
 
 IV. En los instrumentos jurídicos que al efecto se suscriban, deberán precisarse los conceptos de ingreso que se afectan.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 5.
 
-Para la administración y pago de la deuda pública, la o el Jefe de Gobierno, a través de la Secretaría, podrá constituir fideicomisos en los que afecte total o parcialmente las participaciones de la Ciudad de México en ingresos federales, en los términos y condiciones que establezca la Ley Federal de la materia.
+Para la administración y pago de la deuda pública, la persona titular de la Jefatura de Gobierno, a través de la Secretaría, podrá constituir fideicomisos en los que afecte total o parcialmente las participaciones de la Ciudad de México en ingresos federales, en los términos y condiciones que establezca la Ley Federal de la materia.
 
 ### Capítulo II. Del Sistema Informático de Planeación de Recursos Gubernamentales
 
@@ -112,11 +130,15 @@ La Secretaría emitirá las reglas aplicables para la creación y operación del
 
 En la administración y operación del Sistema participarán, en el ámbito de sus respectivas competencias:
 
-I. Los Usuarios;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+I. La Subsecretaría;
 
 II. La Dirección General de Tecnologías y Comunicaciones, adscrita a la Secretaría, y
 
-III. La Unidad Certificadora.
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+III. Los Usuarios.
 
 ###### Artículo 8.
 
@@ -142,15 +164,21 @@ Los registros y autorizaciones que se emitan por la Subsecretaría y la Direcci�
 
 #### Sección Primera. De los Fideicomisos Públicos
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 11.
 
-Son fideicomisos públicos los que constituya el Gobierno de la Ciudad de México por conducto de la Secretaría en su carácter de fideicomitente único de la Administración Pública. Los fideicomisos públicos tendrán como propósito auxiliar a la o el Jefe de Gobierno o a las o los Alcaldes, mediante la realización de actividades prioritarias o de las funciones que legalmente les corresponden.
+Son fideicomisos públicos los que constituya el Gobierno de la Ciudad de México por conducto de la Secretaría en su carácter de fideicomitente único de la Administración Pública; estos, tendrán como propósito auxiliar a la persona titular de la Jefatura de Gobierno o a las personas titulares de las Alcaldías, mediante la realización de actividades prioritarias o de las funciones que legalmente les corresponden.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 12.
 
-Para la constitución de un fideicomiso público, las dependencias, órganos desconcentrados, alcaldías y entidades deberán cumplir con los siguientes requisitos:
+Para la constitución de un fideicomiso público, las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades deberán cumplir con los siguientes requisitos:
 
-I. Solicitud de autorización firmada por el titular de la dependencia, órgano desconcentrado, alcaldías o entidad que pretenda constituir dicho fideicomiso, la cual se acompañará de la siguiente documentación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE MAYO DE 2021)</small>
+
+I. Solicitud de autorización firmada por la persona titular de la Dependencia, Órgano Desconcentrado, Alcaldías o Entidad que pretenda constituir dicho fideicomiso, la cual se acompañará de la siguiente documentación:
 
 a) Justificación para la constitución del fideicomiso;
 
@@ -170,7 +198,9 @@ h) En su caso, opinión de la dependencia coordinadora de sector, y
 
 i) Para el caso de aquellos fideicomisos creados por mandato de ley, se deberá anexar la copia simple de la publicación en que conste su creación.
 
-II. Contar con la aprobación de la o el Jefe de Gobierno, cuya autorización se otorgará por conducto de la Secretaría, y
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+II. Contar con la aprobación de la persona titular de la Jefatura de Gobierno, cuya autorización se otorgará por conducto de la Secretaría, y
 
 III. En su caso, la documentación que sea necesaria a criterio de la Procuraduría Fiscal, quien queda facultada para requerir documentos complementarios para la constitución de un fideicomiso público.
 
@@ -184,7 +214,9 @@ Para el caso en que la Procuraduría Fiscal requiera documentación conforme a l
 
 La solicitud de autorización será tramitada ante la Procuraduría Fiscal conforme a lo siguiente:
 
-I. Deberá ser firmada por el titular de la dependencia, órgano desconcentrado, alcaldía o entidad que solicite la constitución del fideicomiso;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+I. Deberá ser firmada por la persona titular de la Dependencia, Órgano Desconcentrado, Alcaldía o Entidad que solicite la constitución del fideicomiso;
 
 II. Para el caso de la propuesta de recursos humanos del fideicomiso, será indispensable contar con la opinión previa que al respecto emitan la Secretaría, a través de la Subsecretaría de Capital Humano y Administración, así como la Secretaría de la Contraloría;
 
@@ -192,15 +224,21 @@ III. De igual forma, deberá contar con la opinión de la Subsecretaría, sobre 
 
 IV. Análisis comparativo de cuando menos, tres propuestas de fiduciarios.
 
-La veracidad y confiabilidad de la información enviada para estos efectos será responsabilidad exclusiva de los servidores públicos que la proporcionen.
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
+La veracidad y confiabilidad de la información enviada para estos efectos será responsabilidad exclusiva de las personas servidoras públicas que la proporcionen.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 15.
 
-Para constituir, modificar o extinguir fideicomisos públicos, cuando así convenga al interés público, las dependencias, órganos desconcentrados, alcaldías y entidades deberán contar con la aprobación de la o el Jefe de Gobierno, emitida por conducto de la Secretaría.
+Para constituir, modificar o extinguir fideicomisos públicos, cuando así convenga al interés público, las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades deberán contar con la aprobación de la persona titular de la Jefatura de Gobierno, emitida por conducto de la Secretaría.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 16.
 
-Las dependencias, órganos desconcentrados y alcaldías no podrán crear nuevos fideicomisos y fondos, sin la previa autorización de la o el Jefe de Gobierno por conducto de la Secretaría, y en el caso de las entidades, con la autorización previa de su órgano de gobierno y de la Secretaría.
+Las Dependencias, Órganos Desconcentrados y Alcaldías no podrán crear nuevos fideicomisos y fondos, sin la previa autorización de la persona titular de la Jefatura de Gobierno por conducto de la Secretaría, y en el caso de las Entidades, con la autorización previa de su órgano de gobierno y de la Secretaría.
 
 ###### Artículo 17.
 
@@ -226,15 +264,21 @@ Las Unidades Responsables del Gasto que aporten recursos a estos fideicomisos se
 
 Los fideicomisos públicos y los que se asimilen a éstos, deberán registrarse ante la Secretaría en los términos y condiciones establecidos en este capítulo.
 
-La veracidad y confiabilidad de la información enviada para estos efectos será responsabilidad exclusiva de los servidores públicos que la proporcionen.
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
+La veracidad y confiabilidad de la información enviada para estos efectos será responsabilidad exclusiva de las personas servidoras públicas que la proporcionen.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 21.
 
-La organización y funcionamiento del registro de fideicomisos estará a cargo de la Procuraduría Fiscal, con base en la información puesta a disposición por los servidores públicos que la proporcionen.
+La organización y funcionamiento del registro de fideicomisos estará a cargo de la Procuraduría Fiscal, con base en la información puesta a disposición por las personas servidoras públicas que la proporcionen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 22.
 
-En el caso de los fideicomisos públicos se registrarán, por parte de su Director General, el secretario técnico u homólogo, dentro de los siguientes treinta días hábiles contados a partir de su celebración, los actos siguientes:
+En el caso de los fideicomisos públicos se registrarán, por parte de la persona titular de la Dirección General, de la secretaría técnica u homóloga, dentro de los siguientes treinta días hábiles contados a partir de su celebración, los actos siguientes:
 
 I. Contrato constitutivo;
 
@@ -248,9 +292,11 @@ V. Convenio de extinción.
 
 La Procuraduría Fiscal podrá solicitar información o documentación adicional para proceder al registro y emitir opinión sobre los actos de dichos fideicomisos a que se refiere este artículo en cumplimiento a las disposiciones de la Ley y de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 23.
 
-Tratándose de fideicomisos públicos, sin perjuicio de las demás obligaciones de registro; de manera anual, en el primer mes del ejercicio fiscal que corresponda, el secretario técnico del órgano de gobierno o el servidor público facultado, deberá solicitar la inscripción en el Registro de la siguiente información:
+Tratándose de fideicomisos públicos, sin perjuicio de las demás obligaciones de registro; de manera anual, en el primer mes del ejercicio fiscal que corresponda, la secretaría técnica del órgano de gobierno o la persona servidora pública facultada deberá solicitar la inscripción en el Registro de la siguiente información:
 
 I. Programación anual de sesiones ordinarias, y
 
@@ -268,9 +314,11 @@ III. Convenio de extinción.
 
 La Procuraduría Fiscal podrá solicitar información o documentación adicional para proceder al registro y emitir opinión sobre los actos de dichos fideicomisos a que se refiere este artículo en cumplimiento a las disposiciones de la Ley y de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 25.
 
-Para la inscripción del contrato constitutivo de fideicomiso público, en forma indistinta, la solicitud será presentada por el Director General del Fideicomiso, u homólogo o por el Fiduciario, dentro de un plazo de treinta días hábiles contados a partir de la fecha de constitución del fideicomiso, y se acompañará de la siguiente documentación e información:
+Para la inscripción del contrato constitutivo de fideicomiso público, en forma indistinta, la solicitud será presentada por la persona titular de la Dirección General del Fideicomiso u homóloga o por el Fiduciario, dentro de un plazo de treinta días hábiles contados a partir de la fecha de constitución del fideicomiso, y se acompañará de la siguiente documentación e información:
 
 I. Justificación y objeto del fideicomiso, fideicomitente, fiduciario y fideicomisario;
 
@@ -286,9 +334,11 @@ VI. Recursos financieros y humanos.
 
 La Procuraduría Fiscal emitirá la constancia de registro en un plazo que no excederá de 30 días hábiles contados a partir de la presentación de la solicitud, o en su caso, a partir de la recepción de la documentación que aquella requiera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 26.
 
-Las solicitudes de inscripción de convenios modificatorios de fideicomisos públicos se efectuarán, por conducto del Director General, secretario técnico u homólogo, o en su caso, del fiduciario, integrando la información siguiente:
+Las solicitudes de inscripción de convenios modificatorios de fideicomisos públicos se efectuarán por conducto de la persona titular de la Dirección General, secretaría técnica u homóloga, o en su caso, del fiduciario, integrando la información siguiente:
 
 I. Justificación de la modificación;
 
@@ -300,9 +350,11 @@ IV. Acuerdo del Comité Técnico donde se aprueba o ratifica la modificación de
 
 V. Las demás que requiera la Procuraduría Fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 27.
 
-Las solicitudes de inscripción relativas a la extinción de fideicomisos públicos, se efectuarán por conducto del Director General, secretario técnico u homólogo, el responsable o encargado de la extinción, o en su caso, el fiduciario, asentando la siguiente información:
+Las solicitudes de inscripción relativas a la extinción de fideicomisos públicos, se efectuarán por conducto de la persona titular de la Dirección General, secretaría técnica u homóloga, el responsable o encargado de la extinción, o en su caso, el fiduciario, asentando la siguiente información:
 
 I. Justificación de la extinción;
 
@@ -362,9 +414,11 @@ En caso de que exista impacto presupuestario en dos o más dependencias, órgano
 
 Con la finalidad de guardar el equilibrio presupuestario, las dependencias, órganos desconcentrados, alcaldías y entidades que suscriban convenios, contratos y en general cualquier acto jurídico, independientemente de su naturaleza, en el cual se establezca que la Ciudad de México recibirá recursos provenientes de la Federación, y que deberá realizar aportaciones locales para el cumplimiento del objeto del instrumento, deberán contar con la opinión favorable de la Secretaría sobre el impacto presupuestario, previamente a la formalización. En el caso de aquellos instrumentos que no impliquen aportaciones locales, únicamente se remitirá copia a la Secretaría una vez formalizados.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 35.
 
-Las aportaciones locales previstas en los instrumentos a que se refiere el artículo anterior, deberán realizarse con cargo al presupuesto de la dependencia, órgano desconcentrado, alcaldías o entidad que participe en la ejecución del convenio.
+Las aportaciones locales previstas en los instrumentos a que se refiere el artículo anterior, deberán realizarse con cargo al presupuesto de la Dependencia, Órgano Desconcentrado, Alcaldías o Entidad que participe en la ejecución del convenio y se harán conforme a la disponibilidad financiera de la hacienda pública de la Ciudad de México.
 
 ###### Artículo 36.
 
@@ -372,29 +426,43 @@ En los instrumentos en los que se acuerde una transferencia de recursos federale
 
 #### Sección Segunda. Calendarios Presupuestarios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 37.
 
-En la elaboración de sus respectivos calendarios presupuestarios, las dependencias, órganos desconcentrados, alcaldías y entidades deberán estar a lo siguiente:
+En la elaboración de sus respectivos calendarios presupuestarios, las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades deberán estar a lo siguiente:
 
-I. Tendrán una programación anual con base mensual y deberá existir una relación directa entre las estimaciones de avance de metas y los requerimientos periódicos de recursos presupuestales necesarios para alcanzarlas;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
-II. Contemplarán las necesidades de gasto en función de los compromisos por contraer, para evitar recursos ociosos;
+I. Tendrán una proyección anual con base mensual y deberá existir una relación directa entre las metas programadas y los requerimientos de recursos presupuestales necesarios para alcanzarlas;
 
-III. Deberán sujetarse a los criterios de economía y gasto eficiente, tomando en cuenta las medidas de disciplina presupuestaria que establece la Ley o que emita la Secretaría de la Contraloría, así como las prioridades en el gasto. La calendarización guardará congruencia con las disponibilidades de fondos locales y federales, así como crediticios, y
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
-IV. Se procurará una presupuestación eficiente que reduzca las solicitudes de Adecuaciones Presupuestarias.
+II. Contemplarán las necesidades de gasto en función de los compromisos previstos para contraer a lo largo del año, por lo que se deberán considerar los plazos que implican la realización de los procesos de adjudicación, validación, recepción y gestión de pago de los bienes, servicios u obra pública, a fin de evitar recursos ociosos;
+
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+III. Observarán los criterios de economía y gasto eficiente, tomando en cuenta las medidas de disciplina presupuestaria que establece la Ley, el Decreto o que emita la Secretaría, y/o la Secretaría de la Contraloría, así como las prioridades en el gasto. La calendarización presupuestal en todo momento estará sujeta a las disponibilidades financieras de fondos locales y federales, así como crediticios, y
+
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+IV. Realizarán una presupuestación adecuada que reduzca progresivamente al mínimo indispensable en cada ejercicio fiscal las solicitudes de Adecuaciones Presupuestarias, lo que podrá ser monitoreado por la Subsecretaría.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 38.
 
-Las dependencias, órganos desconcentrados, alcaldías y entidades podrán hacer adecuaciones a los calendarios presupuestarios, que tengan por objeto anticipar la disponibilidad de recursos con la autorización de registro de la Subsecretaría, y llevarán el registro y control de su ejercicio presupuestario, sujetando sus compromisos de pago a la calendarización presupuestaria autorizada.
+La Subsecretaría, previo análisis del planteamiento y justificación, podrá autorizar adecuaciones a los calendarios presupuestarios de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que tengan por objeto anticipar la disponibilidad presupuestal de recursos y estarán sujetas a la determinación de la Subsecretaría, para cada caso; las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades llevarán el registro y control de su ejercicio presupuestario, sujetando sus compromisos de pago a la calendarización presupuestaria autorizada, así como a la disponibilidad financiera de la hacienda pública de la Ciudad de México.
 
 ###### Artículo 39.
 
 Las dependencias, órganos desconcentrados, alcaldías y entidades remitirán a la Secretaría sus proyectos de calendario conforme a las fechas que establezca al comunicar el techo definitivo aprobado por el Congreso Local.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 40.
 
-La Secretaría verificará que para el ejercicio del presupuesto, las dependencias, órganos desconcentrados, alcaldías y entidades se sujeten estrictamente a los techos y calendarios presupuestarios autorizados.
+La Secretaría verificará para el ejercicio del presupuesto que las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades se sujeten estrictamente a los techos y calendarios presupuestarios autorizados, así como a las disponibilidades financieras de la hacienda pública de la Ciudad de México.
 
 ## Título Segundo. De la Programación, Presupuestación y Aprobación
 
@@ -406,7 +474,9 @@ La Secretaría emitirá los lineamientos para la formulación del Programa Opera
 
 I. Objetivos globales de desarrollo;
 
-II. Metas físicas y financieras;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+II. Metas programadas y resultados esperados, así como el avance financiero;
 
 III. Prioridades;
 
@@ -430,39 +500,51 @@ La Secretaría podrá determinar nuevos elementos o modificar los anteriores, se
 
 Con independencia de la vigencia trianual del Programa Operativo, sus previsiones y proyecciones se podrán referir a un plazo mayor, que determinará la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 43.
 
-El Programa Operativo será utilizado para la ejecución de programas y acciones de la Administración Pública de la Ciudad de México. Así como para la formulación del anteproyecto de presupuesto.
+El Programa Operativo podrá ser utilizado para la ejecución de programas y acciones de la Administración Pública de la Ciudad de México. Así como para la formulación del anteproyecto de presupuesto, en su caso, sin que se contraponga con las disposiciones que emita la Subsecretaría para la implementación y operación del Presupuesto basado en Resultados y el Sistema de Evaluación del Desempeño.
 
-La Matriz de Indicadores para Resultados se podrá utilizar para la formulación del anteproyecto de presupuesto, enfocado en el diseño y monitoreo de indicadores de desempeño, a fin de medir los recursos presupuestarios que son utilizados para el cumplimiento de los objetivos y metas establecidas en el instrumento de Planeación vigente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
 
-La Matriz de Indicadores para Resultados dotará de mayores elementos a las Unidades Responsables del Gasto de una presupuestación orientada a resultados.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
 
 ### Capítulo II
 
 Implementación del Presupuesto basado en Resultados y el Sistema de Evaluación del Desempeño.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 44.
 
-La Secretaría emitirá, en el ámbito de sus atribuciones, las disposiciones específicas para la implementación progresiva del Presupuesto basado en Resultados y el Sistema de Evaluación del Desempeño, que incluye la Matriz de Indicadores para Resultados como instrumento para la elaboración del anteproyecto de presupuesto.
+La Secretaría emitirá, en el ámbito de sus atribuciones, las disposiciones específicas para la implementación y operación del Presupuesto basado en Resultados y el Sistema de Evaluación del Desempeño, el cual incluye la Matriz de Indicadores para Resultados como instrumento para la elaboración del anteproyecto de presupuesto.
 
 Las referidas disposiciones específicas serán de observancia obligatoria para las Unidades Responsables del Gasto de la Administración Pública de la Ciudad de México.
 
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+Las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías capacitarán a las personas servidoras públicas encargadas de la planeación, programación, presupuestación y ejercicio del gasto en materia de Presupuesto basado en Resultados y Sistema de Evaluación del Desempeño. Asimismo, los Órganos Autónomos y de Gobierno se podrán integrar a las acciones de profesionalización que en la materia lleve a cabo la Secretaría, a través de la Subsecretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 45.
 
-El Sistema de Evaluación del Desempeño comprende las acciones señaladas en el presente capítulo y todas aquellas que permitan conocer el grado de cumplimiento de los indicadores de desempeño vinculados a los Programas presupuestarios.
+El Sistema de Evaluación del Desempeño comprende las acciones señaladas en el presente capítulo y todas aquellas que permitan conocer el grado de cumplimiento de los indicadores de desempeño vinculados a los Programas presupuestarios, que contribuyan al cumplimiento de los objetivos a mediano y largo plazo contenidos en el Plan General de Desarrollo, en el Programa de Gobierno y demás instrumentos de planeación de la Ciudad, en términos de la Ley de Planeación.
 
 Los resultados del Sistema de Evaluación del Desempeño deben ser incorporados y considerados por la Secretaría y las Unidades Responsables del Gasto en las etapas de programación, presupuestación, aprobación, ejercicio y control del gasto público, conforme a los lineamientos que se emitan.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 46.
 
-El Presupuesto de Egresos de la Ciudad de México deberá estar orientado a resultados, para ello las dependencias, órganos desconcentrados, entidades y alcaldías deberán diseñar Programas presupuestarios y Matrices de Indicadores para Resultados apegados a la Estructura Programática determinada por la Secretaría, la cual contendrá como mínimo:
+El Presupuesto de Egresos de la Ciudad de México deberá estar orientado a resultados, para ello las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías deberán diseñar Programas presupuestarios y Matrices de Indicadores para Resultados apegados a la Estructura Programática de las Unidades Responsables del Gasto aprobada por la Secretaría, la cual contendrá como mínimo:
 
-I. Las categorías, que comprenderán la Función, la Subfunción y la Actividad Institucional;
+I. Las categorías que comprenderán la Finalidad, Función, Subfunción, Actividad Institucional y el Programa presupuestario;
 
-II. Los Programas presupuestarios, comprenden como mínimo la misión, los objetivos, las metas con base en indicadores de desempeño, establecidos a través de la Matriz de Indicadores para Resultados en congruencia con el Instrumento de Planeación vigente, y
+II. Los Programas presupuestarios comprenden como mínimo la misión, los objetivos, las metas con base en indicadores de desempeño, establecidos a través de la Matriz de Indicadores para Resultados en congruencia con el Plan General de Desarrollo, el Programa de Gobierno y demás instrumentos de planeación de la Ciudad, en términos de la Ley de Planeación, y
 
-III. La Matriz de Indicadores para Resultados deberá integrarse bajo la Metodología de Marco Lógico y corresponderá elaborar la ficha técnica respectiva, de acuerdo a los lineamentos emitidos por la Secretaría.
+III. La Matriz de Indicadores para Resultados deberá integrarse bajo la Metodología de Marco Lógico y corresponderá elaborar el diagnóstico, el documento de diseño y la ficha técnica de Indicadores, de acuerdo con los lineamentos emitidos por la Subsecretaría.
 
 ###### Artículo 47.
 
@@ -472,43 +554,67 @@ La totalidad de los Programas presupuestarios del gasto programable deberán con
 
 La Matriz de Indicadores para Resultados que elaboren las Unidades Responsables del Gasto deberá considerar lo siguiente:
 
-I. Alineación de los Programas presupuestarios y su contribución al cumplimiento a los objetivos y metas del Instrumento de Planeación vigente;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
-II. Vinculación de los Programas presupuestarios con los objetivos de la Agenda 2030 para el Desarrollo Sostenible, y
+I. Alineación de los Programas presupuestarios y su contribución al cumplimiento a los objetivos y metas del Plan General de Desarrollo, el Programa de Gobierno y demás instrumentos de planeación de la Ciudad, en términos de la Ley de Planeación;
 
-III. Indicadores específicos que permitan evaluar la incidencia de los programas presupuestarios en la igualdad entre mujeres y hombres, a través de la incorporación de la perspectiva de género y la inclusión del enfoque de derechos humanos de la niñez y adolescencia.
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+II. Vinculación de los Programas presupuestarios con los objetivos de la Agenda 2030 para el Desarrollo Sostenible;
+
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+III. Indicadores específicos que permitan evaluar la incidencia de los Programas presupuestarios en la igualdad entre mujeres y hombres, a través de la incorporación de la perspectiva de género y la inclusión del enfoque de derechos humanos de la niñez y adolescencia, y
+
+> <small>(ADICIONADA, G.O. 28 DE MAYO DE 2021)</small>
+
+IV. Vinculación con los objetivos de los Fondos de Aportaciones Federales.
 
 ###### Artículo 49.
 
 En caso que se requiera la actualización o modificación de algún elemento de la Matriz de Indicadores para Resultados, las dependencias, órganos desconcentrados, entidades y alcaldías, deberán enviar la justificación de cada uno de los cambios solicitados a la Secretaría, a fin de que ésta determine lo procedente; en este sentido las Unidades Responsables del Gasto, solo podrán actualizar las metas de los indicadores establecidos en la Matriz de Indicadores para Resultados previo a la integración de su anteproyecto de presupuesto.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 50.
 
-Para la creación de Programas presupuestarios o la realización de cambios sustanciales a los mismos que propongan incluir en el anteproyecto de Presupuesto, las dependencias, órganos desconcentrados, entidades y alcaldías deberán contar con un diagnóstico apegándose a los lineamientos emitidos por la Secretaría.
+Para la creación de Programas presupuestarios o la realización de cambios sustanciales a los mismos que propongan incluir en el anteproyecto de Presupuesto, las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías deberán contar con un diagnóstico apegándose a los lineamientos emitidos por la Secretaría.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+El periodo para solicitar lo establecido en los artículos 49 y 50 será entre los meses de febrero a junio del ejercicio fiscal que corresponda.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 51.
 
-Las Unidades Responsables del Gasto deberán remitir a la Secretaría los informes específicos sobre el ejercicio y destino del gasto, así como de los resultados obtenidos, con base en los indicadores de desempeño, de acuerdo a las disposiciones que emita la Secretaría, dentro de los 15 días naturales posteriores a la conclusión de cada trimestre del ejercicio fiscal.
+Las Unidades Responsables del Gasto deberán reportar trimestralmente los avances de las metas y resultados obtenidos con base en los indicadores de desempeño, informando además el avance presupuestal y las variaciones respecto del presupuesto original y modificado, de acuerdo a las disposiciones que emita la Secretaría y en los plazos que ésta determine.
 
 ###### Artículo 52.
 
 La Secretaría, una vez validada la información enviada por las Unidades Responsables del Gasto, procederá a la publicación de los informes, mismos que estarán a disposición del público en general a través de la página electrónica destinada a estos fines.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 53.
 
-Los Programas presupuestarios deberán ser evaluados conforme a las disposiciones establecidas en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, con base en indicadores de desempeño, por instancias técnicas independientes a las Unidades Responsables del Gasto, observando los requisitos de información correspondientes.
+Los Programas presupuestarios y los recursos federales transferidos deberán ser evaluados conforme a las disposiciones establecidas en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, con base en indicadores de desempeño, por instancias técnicas independientes a las Unidades Responsables del Gasto, observando los requisitos de información correspondientes.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 54.
 
-La Secretaría en conjunto con el Consejo de Evaluación del Desarrollo Social de la Ciudad de México (Evalúa) y las Unidades Responsables del Gasto, elaborarán el Programa Anual de Evaluación para el ejercicio fiscal que corresponda, así como los términos de referencia, observando los lineamientos relativos a la ejecución del Programa.
+La Secretaría en conjunto con las Unidades Responsables del Gasto elaborarán el Programa Anual de Evaluación para el ejercicio fiscal que corresponda, así como los términos de referencia, observando los Lineamientos Generales de Evaluación.
 
 ###### Artículo 55.
 
 Las Unidades Responsables del Gasto deberán proporcionar las fuentes de información establecidas en los términos de referencia que permitan la realización de las evaluaciones del desempeño.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 56.
 
-Las evaluaciones se efectuarán, conforme al Programa Anual de Evaluaciones, a través de personas físicas y morales o instituciones académicas externas, en cuyo caso la Secretaría y el Consejo de Evaluación del Desarrollo Social de la Ciudad de México (Evalúa) realizarán las contrataciones en apego a la normatividad aplicable a la Ciudad de México; los evaluadores deberán contar con experiencia probada en la materia que corresponda, así como cumplir con los requisitos de independencia, imparcialidad y transparencia.
+Las evaluaciones se efectuarán conforme a las disposiciones contenidas en el Programa Anual de Evaluaciones y en los Lineamientos Generales de Evaluación, ambos expedidos por la Subsecretaría, en los que se establecen las especificaciones para la contratación de personas físicas y morales o instituciones académicas externas, que deba realizar la Secretaría en apego a la normatividad aplicable a la Ciudad de México; los evaluadores deberán contar con experiencia probada en la materia que corresponda, así como cumplir con los requisitos de independencia, imparcialidad y transparencia.
 
 ###### Artículo 57.
 
@@ -532,9 +638,11 @@ VIII. Un resumen ejecutivo en el que se describan los principales hallazgos y re
 
 IX. El costo total de la evaluación externa, especificando la fuente de financiamiento.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 58.
 
-Las Unidades Responsables del Gasto deberán dar atención a las recomendaciones derivadas de los informes y evaluaciones del desempeño, para ello deberán apegarse a los Mecanismos para Seguimiento a los Aspectos Susceptibles de Mejora emitidos por la Secretaría.
+Las Unidades Responsables del Gasto deberán dar atención a las recomendaciones derivadas de los informes y evaluaciones del desempeño, para ello deberán apegarse al Mecanismo para (sic) Seguimiento a los Aspectos susceptibles de Mejora emitidos por la Secretaría.
 
 ###### Artículo 59.
 
@@ -544,9 +652,11 @@ Las Unidades Responsables del Gasto deberán entregar el avance del seguimiento 
 
 La Secretaría elaborará el Informe de Seguimiento a los Aspectos Susceptibles de Mejora de Programas y lo publicará en su página de internet en la que estará a disposición del público en general.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 61.
 
-Las dependencias órganos desconcentrados, entidades y alcaldías deberán integrar su anteproyecto de presupuesto, con base en el cumplimiento de los objetivos y metas de los indicadores de desempeño y los resultados de las evaluaciones, de conformidad con las disposiciones específicas que emita la Secretaría.
+Las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías deberán integrar su anteproyecto de presupuesto, con base en el cumplimiento de los objetivos y metas de los indicadores de desempeño y los resultados de las evaluaciones, de conformidad con las disposiciones específicas que emita la Secretaría, en congruencia con el Plan General de Desarrollo, el Programa de Gobierno y demás instrumentos de planeación de la Ciudad, en términos de la Ley de Planeación.
 
 ### Capítulo III. De los Ingresos
 
@@ -554,9 +664,11 @@ Las dependencias órganos desconcentrados, entidades y alcaldías deberán integ
 
 Con base en el Presupuesto de Ingresos a que se refiere el artículo 42 de la Ley, la Secretaría elaborará el proyecto de Iniciativa de Ley de Ingresos, el cual someterá con la debida oportunidad a la consideración de la o el Jefe de Gobierno.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 63.
 
-La Secretaría será la encargada de formular la Iniciativa de Ley de Ingresos, con base en las políticas, directrices y criterios generales que emita la o el Jefe de Gobierno.
+La Secretaría será la encargada de formular la Iniciativa de Ley de Ingresos, con base en las políticas, directrices y criterios generales que emita la persona titular de la Jefatura de Gobierno.
 
 ###### Artículo 64.
 
@@ -590,27 +702,43 @@ Los órganos de gobierno y órganos autónomos coadyuvarán con lo dispuesto en 
 
 #### Sección Primera. Aspectos Generales
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 68.
 
-La Secretaría será la encargada de consolidar el Proyecto de Presupuesto, para lo cual hará congruente las necesidades de egresos con las previsiones de ingresos.
+La Secretaría será la encargada de consolidar el Proyecto de Presupuesto de Egresos, el cual se integrará a partir de las previsiones de ingresos.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 69.
 
-Las reglas de carácter general para la integración del Anteproyecto de Presupuesto, serán emitidas por la Secretaría, mismas que deberán contener al menos los elementos siguientes:
+Las reglas de carácter general para la integración del Anteproyecto de Presupuesto, serán emitidas por la Secretaría, a través de la Subsecretaría, cuyo contenido será relativo a:
 
-I. El Módulo de Integración por Resultados, con las reglas para la integración del Programa Operativo Anual, el Marco de Política Pública y la Matriz de Indicadores para Resultados.
+I. La Integración de la Estructura Programática, considerando los criterios para la implementación y operación del Presupuesto basado en Resultados y el Sistema de Evaluación del Desempeño, así como su congruencia con el Plan General de Desarrollo, el Programa de Gobierno, la Agenda 2030 y demás instrumentos de planeación de la Ciudad, en términos de la Ley de Planeación.
 
-II. El Módulo de Integración Financiera, con las previsiones financieras desglosadas en el analítico de claves, el gasto de inversión y los flujos de efectivo, y
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
 
-III. Los lineamientos específicos por capítulo de gasto.
+A través de la Matriz de Indicadores para Resultados se identificará la necesidad o problema público que atiende el Programa Presupuestario, así como los bienes y servicios entregables y las actividades necesarias para generarlos, de tal manera que su medición se realizará a través de indicadores de desempeño estratégicos y de gestión con los criterios mínimos que deben cumplir para su monitoreo, a efecto de constatar la consecución de los objetivos; la información generada será un elemento importante para la evaluación de resultados e impactos, a fin de proveer de insumos a los tomadores de decisiones para la mejora de los procesos operativos y de gestión,
+
+II. La Presupuestación con base en las previsiones financieras, el analítico de claves, los proyectos de inversión y los flujos de efectivo,
+
+III. Los lineamientos específicos por capítulo de gasto, y
+
+> <small>(ADICIONADA, G.O. 28 DE MAYO DE 2021)</small>
+
+IV. Las demás que determine la Secretaría, a través de la Subsecretaría.
+
+(REFOMADO, G.O. 28 DE MAYO DE 2021)
 
 ###### Artículo 70.
 
-Las Reglas a que se refiere el artículo anterior serán obligatorias para las dependencias, órganos desconcentrados, alcaldías y entidades, quienes deberán sujetarse a los objetivos que se pretendan alcanzar y a las acciones para su consecución, mismos que deberán alinearse con las estrategias, objetivos y líneas de política contenidos en el Programa General.
+Las Reglas a que se refiere el artículo anterior serán obligatorias para las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, quienes deberán sujetarse a los objetivos y metas que se pretendan alcanzar y a las acciones para su consecución, mismos que deberán alinearse con las estrategias, objetivos y líneas de política contenidos en el Plan General de Desarrollo, el Programa de Gobierno y demás instrumentos de planeación de la Ciudad, en términos de la Ley de Planeación.
+
+(REFOMADO, G.O. 28 DE MAYO DE 2021)
 
 ###### Artículo 71.
 
-Los Anteproyectos de Presupuesto, deberán contener la perspectiva de género y de derechos humanos en su elaboración, asegurando su transversalización a través de acciones concretas, debiéndose considerar las líneas de acción del Programa de Derechos Humanos de la Ciudad de México.
+Los Anteproyectos de Presupuesto deberán contener la perspectiva de género, de derechos humanos y la atención a niños, niñas y adolescentes en su elaboración, asegurando su transversalización a través de acciones concretas, debiéndose considerar las líneas de acción del Programa de Derechos Humanos de la Ciudad de México, y demás que resulten aplicables.
 
 ###### Artículo 72.
 
@@ -628,9 +756,11 @@ Para el caso de que no se realicen los ajustes, la Secretaría los implementará
 
 A efecto de brindar mayor certidumbre y transparencia, la Secretaría deberá informar y comunicar mediante medios electrónicos a las dependencias, órganos desconcentrados, alcaldías y entidades, así como a los órganos de gobierno y órganos autónomos, el Decreto aprobado por el Congreso Local, con objeto de que envíen la información de sus respectivos presupuestos, conforme a lo establecido por la Secretaría, en función de la cifra definitiva comunicada.
 
+(REFOMADO, G.O. 28 DE MAYO DE 2021)
+
 ###### Artículo 75.
 
-Los montos de endeudamiento aprobados a la Ciudad de México serán la base para la contratación de los créditos necesarios para el financiamiento de las subfunciones contempladas en el Decreto.
+Los montos de endeudamiento aprobados a la Ciudad de México serán la base para la contratación de los créditos necesarios para el financiamiento de las Funciones de Gasto contempladas en el Decreto.
 
 ###### Artículo 76.
 
@@ -638,21 +768,27 @@ El ejercicio de los recursos provenientes de deuda pública quedará sujeto a la
 
 #### Sección Segunda. De la Clave Presupuestaria
 
+(REFOMADO, G.O. 28 DE MAYO DE 2021)
+
 ###### Artículo 77.
 
-La Clave Presupuestaria es el conjunto de elementos codificados que permitirá organizar y sistematizar la información presupuestal contenida en el Decreto e identificará la naturaleza y destino de los recursos autorizados a las Unidades Responsables del Gasto. Asimismo, es el instrumento a través del cual se registrarán las operaciones derivadas de la gestión presupuestal, que se desarrolle durante el ejercicio fiscal correspondiente.
+La Clave Presupuestaria es el conjunto de elementos codificados que permitirá organizar y sistematizar la información presupuestal contenida en el Decreto e identificará la naturaleza y destino de los recursos aprobados a las Unidades Responsables del Gasto. Asimismo, es el instrumento a través del cual se registrarán las operaciones derivadas de la gestión presupuestal, que se desarrolle durante el ejercicio fiscal correspondiente.
 
-La estructura y elementos de la Clave Presupuestaria, así como sus modificaciones, serán determinados por la Secretaría por conducto de la Subsecretaría, cuya clasificación podrá consistir en la siguiente:
+La estructura y elementos de la Clave Presupuestaria, así como sus modificaciones, serán determinados por la Secretaría por conducto de la Subsecretaría, la clasificación del gasto podrá ser la siguiente:
 
-I. Administrativa: Identifica a la (sic) Unidades Responsables del Gasto, conformada por sector, subsector y unidad responsable;
+> <small>(ADICIONADA, G.O. 28 DE MAYO DE 2021)</small>
 
-II. Funcional: Identifica la estructura por resultados y está conformada por resultado, subresultado, actividad institucional y programa presupuestario;
+I. Estructura dirigida al valor público: Establece la alineación al Plan General de Desarrollo, al Programa de Gobierno y demás instrumentos de planeación de la Ciudad, en términos de la Ley de Planeación.
 
-III. Fondo: Identifica la procedencia de los recursos a erogar, integrado por tipo de recurso y fuente de financiamiento;
+II. Administrativa: Identifica a las Unidades Responsables del Gasto conformada por sector, subsector y unidad responsable;
 
-IV. Económica: Identifica el objeto de gasto, integrada por partida presupuestal, origen de recurso, dígito identificador y destino de gasto.
+III. Funcional: Identifica la clasificación funcional del gasto (Finalidad, Función y Subfunción), la Actividad Institucional (propósito de las Unidades Responsables del Gasto) y la clasificación programática (nomenclatura de los Programas presupuestarios);
 
-La Secretaría por conducto de la Subsecretaría, podrá determinar otros elementos o modificar los anteriores, en términos de las reglas de carácter general para el ejercicio presupuestario que emita.
+IV. Fondo: Identifica la procedencia de los recursos a erogar, integrado por tipo de recurso y fuente de financiamiento; y
+
+V. Económica: Identifica el objeto de gasto, integrada por partida presupuestal, origen de recurso, dígito identificador y destino de gasto.
+
+La Secretaría por conducto de la Subsecretaría, podrá determinar otros elementos o modificar los anteriores, en términos de las reglas de carácter general para el ejercicio y control presupuestario que emita.
 
 ###### Artículo 78.
 
@@ -668,21 +804,43 @@ En la realización de los trámites presupuestarios, la Secretaría deberá veri
 
 Las dependencias, alcaldías y órganos desconcentrados, podrán celebrar convenios de coordinación entre sí en materia de gasto público, siempre que permitan un mejor cumplimiento de los objetivos de sus programas, sin menoscabo del cumplimiento de las disposiciones relativas a los documentos justificativos y comprobatorios del gasto.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 80.
 
-Los recursos de aplicación automática se asignarán a las dependencias, alcaldías y órganos desconcentrados que los generen, siempre y cuando se destinen para cubrir las necesidades inherentes a la realización de las funciones y actividades, siendo preferente el mejoramiento de las instalaciones de los centros que den lugar a la captación de dichos ingresos. Su ejercicio no podrá exceder el monto de lo ingresado ni la disponibilidad.
+Los recursos de aplicación automática se asignarán a las Dependencias, Alcaldías y Órganos Desconcentrados que los generen, siempre y cuando se destinen para cubrir las necesidades inherentes a la realización de las funciones y actividades, siendo preferente el mejoramiento de las instalaciones de los centros que den lugar a la captación de dichos ingresos.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+Su ejercicio se realizará con base en el comportamiento de la captación y del registro que se lleve a cabo ante la Secretaría, por lo que las Dependencias, Órganos Desconcentrados y Alcaldías deberán promover la gestión respectiva de manera oportuna, dentro de los plazos que señalan las reglas específicas; no será procedente devengar y por consiguiente erogar montos mayores a los que efectivamente sean captados y validados; la Subsecretaría podrá rechazar cualquier gestión del gasto que pretenda afectar el presupuesto con importes que excedan la disponibilidad financiera producto de la captación validada y contabilizada, aún y cuando los recursos se encuentren calendarizados presupuestalmente.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+Los registros presupuestales del gasto se deberán llevar a cabo en estricta observancia de los plazos que dicte la Subsecretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 81.
 
-Es responsabilidad de las dependencias, órganos desconcentrados, alcaldías y entidades establecer los registros necesarios para el adecuado control y seguimiento del presupuesto comprometido, sobre el cual existe la obligación de efectuar cargos presupuestales y pagos derivados de la contratación de adquisiciones, arrendamientos y servicios, obras públicas, así como por servicios personales y fondo revolvente. Asimismo, deberán aplicar las medidas que sean necesarias para garantizar que los bienes, servicios y obra pública contratados sean efectivamente devengados y se documenten correctamente las recepciones que correspondan.
+Es responsabilidad de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades establecer los registros necesarios para el adecuado control y seguimiento del presupuesto comprometido, sobre el cual existe la obligación de efectuar cargos presupuestales y pagos derivados de la contratación de adquisiciones, arrendamientos y servicios, obras públicas, así como por servicios personales y fondo revolvente. Asimismo, deberán aplicar las medidas necesarias para garantizar que los bienes, servicios y obra pública contratados sean efectivamente devengados y se documenten correctamente las recepciones que correspondan.
 
-La información relativa al reporte de presupuesto comprometido deberá ser elaborada y autorizada por los servidores públicos de nivel de estructura designados por los titulares de las dependencias, órganos desconcentrados, alcaldías y entidades.
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
+La información relativa al reporte de presupuesto comprometido deberá ser elaborada y autorizada por las personas servidoras públicas de nivel de estructura designadas por las personas titulares de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, y ser remitida a la Subsecretaría en la forma y nivel de desagregación que ésta determine.
 
 Quedan exceptuados de la fecha límite para establecer compromisos, los que se financien con recursos adicionales al presupuesto originalmente autorizado.
 
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+Artículo 81 BIS.- Es responsabilidad de las Unidades Responsables del Gasto llevar el control de las autorizaciones multianuales otorgadas por la Secretaría, ya que no se emitirán modificaciones a los compromisos multianuales cuando las solicitudes no se encuentren debidamente motivadas y fundamentadas, y que obedezcan a deficiencias de las áreas administrativas u operativas de los entes públicos.
+
+La Secretaría no considerará como compromisos multianuales presupuestales a aquellas obras o proyectos financiados con recursos provenientes de la Federación u otros, para los que la totalidad del recurso financiero se ministra a la Ciudad en el ejercicio de inicio o suscripción de los instrumentos respectivos, pudiendo la ejecución calendarizarse para el siguiente año inclusive, toda vez que no representan un impacto al Presupuesto de Egresos de la Federación y/o de la Ciudad de México en años subsecuentes; debiendo sujetarse en todo momento a los convenios o documentos que formalizan la transferencia del recurso y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 82.
 
-La Secretaría, a solicitud de las dependencias, órganos desconcentrados, alcaldías y entidades, podrá autorizar los trámites presupuestales necesarios para el cierre del ejercicio, a fin de registrar los resultados de la aplicación del gasto público y las metas alcanzadas al 31 de diciembre, procurando el aprovechamiento total de los recursos autorizados en el presupuesto, inclusive los de transferencias federales siempre que cumplan con los destinos que por disposición legal o administrativa se determinen, y los recursos que se encuentren disponibles provenientes de crédito, los cuales deberán cumplir con la normatividad aplicable.
+La Secretaría, a solicitud de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, podrá autorizar los trámites presupuestales y financieros necesarios para el cierre del ejercicio, a fin de registrar los resultados de la aplicación del gasto público y las metas alcanzadas al 31 de diciembre, procurando el aprovechamiento total de los recursos autorizados en el presupuesto, así como de los adicionales, propios, intereses, excedentes, remanentes y otros que los entes públicos integren a su presupuesto modificado, inclusive los de transferencias federales siempre que cumplan con los destinos que por disposición legal o administrativa se determinen, y los recursos que se encuentren disponibles provenientes de crédito, los cuales deberán cumplir con la normatividad aplicable.
 
 ### Capítulo II. De la Cartera de Proyectos de Inversión
 
@@ -704,9 +862,13 @@ III. Proyectos Integrales: Conjunto de obras y acciones asociadas a gasto en los
 
 El registro en la Cartera permitirá recabar información sobre los proyectos a que se refiere el artículo anterior, que permita una adecuada planeación, toma de decisiones oportunas y una eficaz administración de los recursos.
 
-Es responsabilidad de las dependencias, órganos desconcentrados, alcaldías y entidades mantener actualizada la información contenida en la Cartera. Para ello, solicitarán a la Subsecretaría la modificación o cancelación de los proyectos registrados.
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
-Se deberá actualizar la información de un proyecto, cuando se presenten variaciones mayores a 25 por ciento respecto al monto de su último registro en la Cartera.
+Es responsabilidad de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades mantener actualizada la información contenida en la Cartera. Para ello, solicitarán a la Subsecretaría la modificación o cancelación de los proyectos registrados.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
+Se deberá actualizar la información de un programa o proyecto, cuando se presenten variaciones mayores a 25 por ciento respecto al monto de su último registro en la Cartera, se modifiquen la o las fuentes de financiamiento, o cuando se ajusten los alcances del programa o proyecto, en cuanto a sus características técnicas y/o su ejecución física en las Alcaldías de influencia.
 
 ###### Artículo 86.
 
@@ -738,9 +900,11 @@ Los compromisos, las ministraciones de fondos, los pagos y las operaciones que s
 
 Todo pago a cargo de la Ciudad de México que no afecte el Decreto y que deba efectuarse por cuenta ajena, se hará por conducto de la Secretaría directamente o por conducto de los auxiliares autorizados, con apego a las disposiciones legales aplicables y de conformidad con las resoluciones o acuerdos de autoridad competente, convenios o contratos que estipulen obligaciones de pago a cargo de la propia Ciudad de México.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 91.
 
-El importe de los descuentos que por mandato de las leyes o por resoluciones judiciales o administrativas se practiquen a sueldos, honorarios, compensaciones o cualquier otra remuneración que perciban los servidores públicos o prestadores de servicios profesionales, se pagarán por la Secretaría u oficinas auxiliares a los terceros acreedores en los plazos que establezcan las propias leyes o resoluciones y, a falta de disposición expresa, a más tardar dentro de los treinta días siguientes al de la fecha en que se hubieran practicado los descuentos.
+El importe de los descuentos que por mandato de las leyes o por resoluciones judiciales o administrativas se practiquen a sueldos, honorarios, compensaciones o cualquier otra remuneración que perciban las personas servidoras públicas o prestadores de servicios profesionales, se pagarán por la Secretaría u oficinas auxiliares a los terceros acreedores en los plazos que establezcan las propias leyes o resoluciones y, a falta de disposición expresa, a más tardar dentro de los treinta días siguientes al de la fecha en que se hubieran practicado los descuentos.
 
 ###### Artículo 92.
 
@@ -774,9 +938,11 @@ VI. La Dirección General de Administración Financiera, supervisará de manera 
 
 #### Sección Segunda. Cuenta por Liquidar Certificada
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 93.
 
-Corresponderá al titular de la Unidad Responsable del Gasto o a los servidores públicos de nivel de estructura facultados, autorizar el pago de las Cuentas por Liquidar Certificadas mediante el uso de la firma electrónica o autógrafa, en su caso, de conformidad con lo establecido en la Ley, el Decreto y demás normatividad aplicable.
+Corresponderá a la persona titular de la Unidad Responsable del Gasto o a las personas servidoras públicas de nivel de estructura facultadas, autorizar el pago de las Cuentas por Liquidar Certificadas mediante el uso de la firma electrónica o autógrafa, en su caso, de conformidad con lo establecido en la Ley, el Decreto y demás normatividad aplicable.
 
 ###### Artículo 94.
 
@@ -806,21 +972,27 @@ El pago de las Cuentas por Liquidar Certificadas que se hayan registrado en el S
 
 La Dirección General de Administración Financiera recibirá las Cuentas por Liquidar Certificadas por el Sistema para su pago correspondiente, quien conformará su programa de pagos, dependiendo de la disponibilidad financiera.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 100.
 
-Los pagos a proveedores, contratistas y prestadores de servicios, que realice la Dirección General de Administración Financiera se harán vía transferencia electrónica a la cuenta de cheques que éstos designen y no podrán efectuarse los depósitos en tarjeta de débito, tarjeta de crédito, cuenta de ahorro o contrato de inversión. Sólo se cubrirán con cheque excepcionalmente bajo la responsabilidad del titular de la Unidad Responsable del Gasto o de los servidores públicos de nivel de estructura facultados, cuando la condición del beneficiario o la naturaleza del pago así lo requiera.
+Los pagos a proveedores, contratistas y prestadores de servicios, que realice la Dirección General de Administración Financiera se harán vía transferencia electrónica a la cuenta de cheques que éstos designen y no podrán efectuarse los depósitos en tarjeta de débito, tarjeta de crédito, cuenta de ahorro o contrato de inversión. Sólo se cubrirán con cheque excepcionalmente bajo la responsabilidad de la persona titular de la Unidad Responsable del Gasto o de las personas servidoras públicas de nivel de estructura facultadas, cuando la condición del beneficiario o la naturaleza del pago así lo requiera.
 
 ###### Artículo 101.
 
 Cuando se trate de compromisos contraídos en moneda extranjera, las Cuentas por Liquidar Certificadas consignarán el tipo de cambio estimado al momento de su expedición. La Dirección General de Administración Financiera para llevar a cabo el pago de este tipo de Cuentas por Liquidar Certificadas considerará el tipo de cambio del día en que se efectúe la transferencia electrónica, y comunicará a la Unidad Responsable del Gasto el tipo de cambio y el importe pagado a fin de regularizar los saldos que resulten por diferencias cambiarias.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 102.
 
-Las Cuentas por Liquidar Certificadas pagadas por la Dirección General de Administración Financiera deberán contener la firma electrónica o autógrafa en su caso, del servidor público facultado que haya atendido la autorización del pago.
+Las Cuentas por Liquidar Certificadas pagadas por la Dirección General de Administración Financiera deberán contener la firma electrónica o autógrafa en su caso, de la persona servidora pública facultada que haya atendido la autorización del pago emitida por la persona titular de la Unidad Responsable del Gasto o las personas servidoras públicas de nivel de estructura facultadas.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 103.
 
-Para el caso de Cuentas por Liquidar Certificadas no pagadas, la Dirección General de Administración Financiera las enviará por el sistema electrónico a la Unidad Responsable del Gasto correspondiente, justificando el motivo por el cual no se concretó el pago. Dichas Cuentas por Liquidar Certificadas deberán contener la firma del servidor público de la Dirección General de Administración Financiera facultado para ello.
+Para el caso de Cuentas por Liquidar Certificadas no pagadas, la Dirección General de Administración Financiera las enviará por el sistema electrónico a la Unidad Responsable del Gasto correspondiente, justificando el motivo por el cual no se concretó el pago. Dichas Cuentas por Liquidar Certificadas deberán contener la firma de la persona servidora pública de la Dirección General de Administración Financiera facultada para ello.
 
 ### Capítulo IV. De las Adecuaciones Presupuestarias
 
@@ -856,9 +1028,13 @@ III. Cuando no se disminuya el importe total de las prioridades de gasto.
 
 Las Adecuaciones Presupuestarias podrán ser:
 
-I. Compensadas.- Cuando impliquen transferencia de recursos de una Clave Presupuestaria a otra, debiendo contar las claves a reducir con disponibilidad presupuestal en los meses correspondientes que se afecten, por lo que las Unidades Responsables del Gasto deberán aplicar las medidas de control necesarias para que los saldos de las claves se actualicen de conformidad con los montos y calendarios autorizados, o
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
-II. Líquidas.- Cuando aumenten o reduzcan el presupuesto autorizado. En el caso de ampliación, deberán tener un fin específico, para lo cual se deberá identificar con un dígito; las Claves Presupuestarias que contengan el dígito señalado no podrán ser modificada a través de adecuaciones compensadas.
+I. Compensadas.- Cuando impliquen transferencia de recursos de un Programa presupuestario a otro y/o modificación de las metas previstas en el Programa Operativo Anual, debiendo para ello contar previamente con la autorización de la Subsecretaría; las claves a reducir deberán tener disponibilidad presupuestal en los meses correspondientes que se afecten, por lo que las Unidades Responsables del Gasto aplicarán las medidas de control necesarias para que los saldos de las claves se actualicen de conformidad con los montos y calendarios autorizados, o
+
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+II. Líquidas.- Cuando aumenten o reduzcan el presupuesto aprobado para los Programas presupuestarios, o se adicione uno a la estructura programática, lo que debe ser previamente autorizado por la Subsecretaría. En el caso de ampliación, deberán tener un fin específico, para lo cual se deberá identificar con el dígito que determine la Subsecretaría en los catálogos aplicables; las Claves Presupuestarias que contengan el dígito señalado no podrán ser modificadas a través de adecuaciones compensadas, salvo los ajustes a los calendarios, que estarán sujetos a la autorización de la Subsecretaría.
 
 ###### Artículo 109.
 
@@ -870,21 +1046,29 @@ II. Aquéllas que modifiquen el presupuesto, y
 
 III. Las que modifiquen los resultados establecidos.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 110.
 
-En todos los casos las Unidades Responsables del Gasto deberán justificar las Adecuaciones Presupuestarias, señalándose la información siguiente:
+En todos los casos que implique disminuir o incrementar las asignaciones aprobadas a los Programas presupuestarios, y/o las metas previstas en el Programa Operativo Anual, las Unidades Responsables del Gasto previo a la gestión de la Adecuación Presupuestaria deberán promover y contar con la autorización de la Subsecretaría; las Adecuaciones Presupuestarias se deberán justificar señalándose la información siguiente:
 
-I. Motivos de la propuesta de reducción al presupuesto, tanto de las actividades institucionales como de las claves presupuestales, señalando las acciones que se verán afectadas, derivadas de la disminución de recursos o bien, los efectos del resultado de la instrumentación de medidas de racionalidad y disciplina presupuestaria, así como la obtención de mejores cotizaciones en los procesos licitatorios, con respecto a los costos previstos, entre otros, y
+I. Motivos de la propuesta de reducción al presupuesto de los Programas presupuestarios aprobados, señalando las acciones y metas que se verán afectadas, derivadas de la disminución de recursos o bien, los efectos del resultado de la instrumentación de medidas de racionalidad y disciplina presupuestaria, así como la obtención de mejores cotizaciones en los procesos licitatorios, con respecto a los costos previstos, entre otros, y
 
-II. Por lo que se refiere a los movimientos de ampliación al presupuesto tanto de las actividades institucionales como de las claves presupuestales, se deberán incorporar los elementos que motivan la ampliación de recursos y el aumento de la cantidad física en las actividades institucionales.
+II. Por lo que se refiere a los movimientos de ampliación al presupuesto de los Programas presupuestarios aprobados, se deberán incorporar los elementos que motivan la ampliación de recursos y el señalamiento del aumento de las metas previstas.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+Para los casos en que no se modifique el presupuesto ni la meta de los Programas presupuestarios aprobados, se deberán justificar las Adecuaciones detallando las partidas específicas que se involucran, así como los razonamientos que se consideran en los movimientos, lo que estará a lo que disponga la Subsecretaría.
 
 ###### Artículo 111.
 
 La Secretaría, por conducto de la Subsecretaría, podrá solicitar mayor información a las Unidades Responsables del Gasto, cuando lo considere necesario.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 112.
 
-Corresponderá al titular de la Unidad Responsable del Gasto o a los servidores públicos de nivel de estructura facultados, solicitar el registro presupuestal de las Adecuaciones Presupuestarias mediante el uso de la firma electrónica o autógrafa en su caso, de conformidad con lo establecido en la Ley, el Decreto y demás normatividad aplicable.
+Corresponderá a la persona titular de la Unidad Responsable del Gasto o a las personas servidoras públicas de nivel de estructura facultadas, solicitar el registro presupuestal de las Adecuaciones Presupuestarias mediante el uso de la firma electrónica o autógrafa en su caso, de conformidad con lo establecido en la Ley, el Decreto y demás normatividad aplicable.
 
 ###### Artículo 113.
 
@@ -934,11 +1118,13 @@ Las dependencias, órganos desconcentrados, alcaldías y entidades adoptarán la
 
 Las dependencias, órganos desconcentrados, alcaldías y entidades deberán asegurar la entrega oportuna, de los documentos requeridos para la integración del expediente para hacer efectiva la fianza, en observancia a los preceptos aplicables del Código Fiscal en vigor.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 122.
 
-La Procuraduría Fiscal revisará el expediente y, en su caso, mediante oficio notificará a la dependencia, órgano desconcentrado, alcaldía o entidad sobre la documentación faltante para que en el término que señala el artículo 430 quinto párrafo del Código Fiscal sea remitida, apercibiéndola que en caso de no cumplir con dicho requerimiento, se tendrá por no presentado el oficio, dejando a salvo el derecho para volver a presentar la solicitud de efectividad en la que anexe completa la documentación.
+La Procuraduría Fiscal revisará el expediente y, en su caso, mediante oficio notificará a la Dependencia, Órgano Desconcentrado, Alcaldía o Entidad sobre la documentación faltante para que en el término que señala el artículo 430, quinto párrafo del Código Fiscal sea remitida, apercibiéndola que en caso de no cumplir con dicho requerimiento, se tendrá por no presentado el oficio, dejando a salvo el derecho para volver a presentar la solicitud de efectividad en la que anexe completa la documentación.
 
-En su caso, se dará vista a la Secretaría de la Contraloría para que actúe, en el ámbito de sus atribuciones, con relación a la probable omisión en que incurra el servidor público al no tener la documentación necesaria para hacer efectiva la fianza.
+En su caso, se dará vista a la Secretaría de la Contraloría para que actúe, en el ámbito de sus atribuciones, con relación a la probable omisión en que incurra la persona servidora pública al no tener la documentación necesaria para hacer efectiva la fianza.
 
 ###### Artículo 123.
 
@@ -1086,27 +1272,37 @@ Con base en la opinión que emita el Consejo de Evaluación, a que se refiere el
 
 El Consejo de Evaluación deberá publicar los lineamientos para la elaboración de reglas de operación de programas sociales en la Gaceta, a más tardar el 31 de octubre de cada año.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 133.
 
-Las dependencias, órganos desconcentrados, alcaldías y entidades podrán otorgar subsidios, donativos, apoyos y/o ayudas, a los fideicomisos, cumpliendo con los requisitos previstos en la Ley y demás normatividad aplicable, para lo cual además deberán apegarse a lo siguiente:
+Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades podrán otorgar subsidios, donativos, apoyos y/o ayudas, a los fideicomisos, cumpliendo con los requisitos previstos en la Ley y demás normatividad aplicable, para lo cual además deberán apegarse a lo siguiente:
 
 I. Contar con suficiencia presupuestal;
 
-II. Contar con autorización expresa del titular, la cual será indelegable;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+II. Contar con autorización expresa de la persona titular, la cual será indelegable;
 
 III. En el caso de las entidades deberán contar con la aprobación de su órgano de gobierno, y
 
-IV. Identificar en las Cuentas por Liquidar Certificadas los subsidios, donativos, apoyos y/o ayudas a otorgar, así como su cuantificación, fuente de financiamiento, temporalidad, número de oficio mediante el cual se autorizó por el titular y, en su caso, número o fecha del acuerdo de aprobación del órgano de gobierno de la entidad.
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+IV. Identificar en las Cuentas por Liquidar Certificadas los subsidios, donativos, apoyos y/o ayudas a otorgar, así como su cuantificación, fuente de financiamiento, temporalidad, número de oficio mediante el cual se autorizó por la persona titular y, en su caso, número o fecha del acuerdo de aprobación del órgano de gobierno de la entidad.
 
 Cuando se otorguen subsidios, donativos, apoyos y/o ayudas, a los fideicomisos constituidos por particulares, el informe que se remita a la Secretaría de la Contraloría, además deberá contener el monto global y los beneficios a efecto de que esta dependencia corrobore el cumplimiento de los criterios y las reglas correspondientes, pudiendo emitir observaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 134.
 
-Las dependencias, órganos desconcentrados, alcaldías y entidades podrán otorgar apoyos, donativos y/o ayudas, para beneficio social o interés público o general, a personas físicas o morales sin fines de carácter político, en términos de la Ley y normatividad aplicable, atendiendo además a lo siguiente:
+Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades podrán otorgar apoyos, donativos y/o ayudas, para beneficio social o interés público o general, a personas físicas o morales sin fines de carácter político, en términos de la Ley y normatividad aplicable, atendiendo además a lo siguiente:
 
 I. Las erogaciones se deberán realizar con cargo a las partidas presupuestales conforme al Clasificador por Objeto del Gasto, y
 
-II. Identificar en las Cuentas por Liquidar Certificadas el tipo de apoyo, donativo y/o ayuda a realizar, así como su cuantificación, fuente de financiamiento, temporalidad y el número de oficio mediante el cual el titular de la dependencia, órgano desconcentrado o alcaldía emitió la autorización correspondiente.
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+II. Identificar en las Cuentas por Liquidar Certificadas el tipo de apoyo, donativo y/o ayuda a realizar, así como su cuantificación, fuente de financiamiento, temporalidad y el número de oficio mediante el cual la persona titular de la Dependencia, Órgano Desconcentrado o Alcaldía emitió la autorización correspondiente.
 
 El informe que reciba la Secretaría de la Contraloría, de conformidad con la Ley, servirá para corroborar el cumplimiento de los criterios y las reglas correspondientes, pudiendo en su caso emitir observaciones.
 
@@ -1116,9 +1312,11 @@ El Consejo de Evaluación tendrá las facultades a que se refiere la Ley, a fin 
 
 Los objetivos a que se refiere el artículo 125 de la Ley, son la subfunción respectiva que establezca el Decreto vigente, la cual deberá señalarse en la solicitud de subsidio, así como las actividades con las que se relaciona y por las que se solicita el beneficio fiscal, sin perjuicio de los demás requisitos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 136.
 
-Para la aplicación de resoluciones individuales de subsidio, otorgadas por la o el Jefe de Gobierno, el contribuyente deberá:
+Para la aplicación de resoluciones individuales de subsidio, otorgadas por la persona titular de la Jefatura de Gobierno, el contribuyente deberá:
 
 I. Presentar el documento que acredite dicho otorgamiento, en original sin tachaduras ni enmendaduras en las cajas recaudadoras de la Administración Auxiliar “Módulo Central”;
 
@@ -1130,7 +1328,9 @@ En caso de incumplimiento a lo anterior, el subsidio dejará de surtir efectos y
 
 A fin de dar seguimiento a la aplicación, las unidades administrativas competentes de la Tesorería y de la Procuraduría Fiscal realizarán las conciliaciones periódicas de los subsidios autorizados y aplicados en cada ejercicio fiscal.
 
-La unidad administrativa competente de la Tesorería revisará que la aplicación de los subsidios individuales otorgados por la o el Jefe de Gobierno, a que se refiere el artículo 126 de la Ley, se realicen conforme a las disposiciones fiscales vigentes. La Tesorería podrá ejercer sus facultades de comprobación y verificación en caso de incumplimiento.
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
+La unidad administrativa competente de la Tesorería revisará que la aplicación de los subsidios individuales otorgados por la persona titular de la Jefatura de Gobierno, a que se refiere el artículo 126 de la Ley, se realicen conforme a las disposiciones fiscales vigentes. La Tesorería podrá ejercer sus facultades de comprobación y verificación en caso de incumplimiento.
 
 ###### Artículo 137.
 
@@ -1142,9 +1342,11 @@ El otorgamiento del subsidio no genera derecho a compensación o devolución alg
 
 La Secretaría de la Contraloría realizará el examen, verificación, comprobación, vigilancia y seguimiento al ejercicio del gasto público, asociado a la gestión gubernamental de la Administración Pública de la Ciudad de México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 139.
 
-La Secretaría evaluará el ejercicio del gasto enfocándose en la medición del nivel de cumplimiento de los objetivos y metas con base en el instrumento de Planeación vigente y los programas que deriven de él.
+La Secretaría evaluará el ejercicio del gasto enfocándose en la medición del nivel de cumplimiento de los objetivos y metas con base en el Plan General de Desarrollo, el Programa de Gobierno y demás instrumentos de planeación de la Ciudad, en términos de la Ley de Planeación.
 
 Esta evaluación se orientará a generar un mayor valor público a través del establecimiento de indicadores de desempeño que reflejen la eficiencia, eficacia, calidad, trasparencia (sic) y honradez con los que se ejercen los recursos públicos en la Ciudad de México.
 
@@ -1276,19 +1478,29 @@ Los créditos no fiscales a cargo de la Ciudad de México se registrarán contab
 
 ### Capítulo I. Informe en Materia de Equidad de Género
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 161.
 
-La Secretaría será la encargada de integrar la información que se remitirá trimestralmente a la Comisión de Igualdad de Género del Congreso Local, sobre los avances financieros y programáticos de las actividades institucionales a que hace referencia el artículo 13 de la Ley.
+La Secretaría será la encargada de integrar la información que se remitirá trimestralmente a la Comisión para la Igualdad de Género del Congreso Local, sobre los avances financieros y programáticos de (sic) a que hace referencia el artículo 13, apartado A de la Ley.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2021)</small>
+
+La Secretaría en coordinación con la Secretaría Ejecutiva del Sistema de Protección Integral de Niñas, Niños y Adolescentes, y con base en la información que proporcionen las Unidades Responsables del Gasto, remitirá a la Comisión de Atención al Desarrollo de la Niñez del Congreso de la Ciudad de México, un informe trimestral de los avances financieros y programáticos a que hace referencia el artículo 13, apartado B de la Ley.
 
 ###### Artículo 162.
 
 Para integrar la información a que se refiere el artículo anterior se considerará lo siguiente:
 
-I. Las dependencias, órganos desconcentrados, alcaldías y entidades enviarán a la Secretaría y a la Secretaría de las Mujeres de la Ciudad de México, dentro de los 15 días naturales siguientes de concluido cada trimestre la información correspondiente, de acuerdo a los criterios establecidos por la Secretaría;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE MAYO DE 2021)</small>
+
+I. Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades enviarán a la Secretaría y a la Secretaría de las Mujeres de la Ciudad de México, dentro de los 8 días naturales siguientes de concluido cada trimestre la información correspondiente, de acuerdo a los criterios establecidos por la Secretaría;
 
 Para la integración del informe trimestral a que se refiere este artículo, la Secretaría hará del conocimiento de las dependencias, órganos desconcentrados, alcaldías y entidades, el formato en el cual deben remitir la información.
 
-II. La Secretaría de las Mujeres de la Ciudad de México, dentro de los 35 días naturales siguientes de concluido cada trimestre, emitirá comentarios y recomendaciones en materia de presupuesto con perspectiva de género y sobre las oportunidades de mejora respecto al cumplimiento del Programa General de Igualdad de Oportunidades y no Discriminación hacia las Mujeres de la Ciudad de México, y las enviará a la Secretaría para ser incluidas en el informe;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+II. La Secretaría de las Mujeres de la Ciudad de México, dentro de los 20 días naturales siguientes de concluido cada trimestre, emitirá comentarios y recomendaciones en materia de presupuesto con perspectiva de género y sobre las oportunidades de mejora respecto al cumplimiento del Programa General de Igualdad de Oportunidades y no Discriminación hacia las Mujeres de la Ciudad de México, y las enviará a la Secretaría para ser incluidas en el informe;
 
 III. La Secretaría consolidará la información recibida, y
 
@@ -1298,13 +1510,17 @@ La Secretaría integrará la información que los órganos de gobierno y órgano
 
 ### Capítulo II. Disposiciones aplicables a los Informes Trimestrales y de Cuenta Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 163.
 
-La Secretaría consolidará e integrará la información para la elaboración de la Cuenta Pública así como de los Informes Trimestrales.
+La Secretaría consolidará e integrará la información para la elaboración de la Cuenta Pública, así como de los Informes Trimestrales.
 
 La información entregada a la Secretaría será responsabilidad de las Unidades Responsables del Gasto.
 
-La información que remitan las dependencias, órganos desconcentrados, alcaldías y entidades a la Secretaría deberá contar con la firma electrónica o autógrafa en su caso, del titular y del servidor público responsable del manejo de los recursos.
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
+La información que remitan las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades a la Secretaría deberá contar con la firma electrónica o autógrafa en su caso, de la persona titular y de la persona servidora pública responsable del manejo de los recursos.
 
 ###### Artículo 164.
 
@@ -1318,25 +1534,35 @@ Para efectos de la integración de los informes relativos a la deuda pública, a
 
 El informe de Cuenta Pública será de carácter definitivo una vez presentado al Congreso Local, por lo que no podrá modificarse.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 167.
 
-La Secretaría remitirá a las dependencias, órganos desconcentrados, alcaldías y entidades la guía para la elaboración de sus informes.
+La Secretaría emitirá la guía para la elaboración de los informes y la difundirá a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades; asimismo, indicará el área específica de la Subsecretaría a la que deberán ser enviados, la que en su caso, solicitará aclaraciones o información adicional.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 168.
 
-Las dependencias, órganos desconcentrados, alcaldías y entidades, sin necesidad de requerimiento previo de la Secretaría, remitirán su información con base en la guía a que se refiere el artículo anterior, dentro de los 15 días naturales después de concluido el trimestre, salvo que esta fecha sea un día inhábil, en cuyo caso se entregará al día hábil siguiente.
+Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, sin necesidad de requerimiento previo de la Secretaría, remitirán su información con base en la guía a que se refiere el artículo anterior, dentro de los 8 días naturales después de concluido el trimestre.
 
 ###### Artículo 169.
 
 Para efectos del Informe Trimestral y de la Cuenta Pública, se entiende por:
 
-I. Eficacia: El grado de cumplimiento de los objetivos y metas programadas para el ejercicio fiscal;
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+I. Eficacia: El grado de cumplimiento de los objetivos y metas de los Programas presupuestarios para el ejercicio fiscal;
 
 II. Eficiencia: La relación entre los productos y servicios generados con respecto a los insumos o recursos utilizados;
 
-III. Grado de Congruencia: La relación entre el costo promedio programado de las actividades institucionales con sus costos promedios reales, y
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
-IV. Cobertura: La relación porcentual entre la población beneficiaria y la población objetivo de un programa público.
+III. Grado de Congruencia: La relación entre el recurso programado para los Programas presupuestarios con el recurso real ejecutado, y
+
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+IV. Cobertura: La relación porcentual entre la población beneficiaria y la población objetivo de un Programa presupuestario.
 
 ###### Artículo 170.
 
@@ -1356,9 +1582,13 @@ II. Los subsidios, donativos, apoyos y/o ayudas otorgados en numerario a los fid
 
 III. Los avances en la operación de los programas de desarrollo social, la población beneficiaria de éstos, el monto de los recursos otorgados, así como la distribución por alcaldía y colonia;
 
-IV. Información presupuestal y de avance físico, y
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
-V. Otra información que considere necesaria la Secretaría.
+IV. Las Adecuaciones realizadas a los Programas presupuestarios aprobados, explicando a detalle los fundamentos, motivos y razonamientos de tales modificaciones, y
+
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+
+V. Información presupuestal y de cumplimiento de metas con base en indicadores de desempeño.
 
 Las Unidades Administrativas Consolidadoras serán las responsables de informar en la fecha y para los objetivos establecidos, a la Secretaría, conforme a los requerimientos de ésta, sobre la situación que guardan los compromisos consolidados o centralizados.
 
@@ -1388,9 +1618,11 @@ Las entidades deberán presentar el flujo de efectivo y el estado analítico de 
 
 La Secretaría, en caso de considerarlo necesario, solicitará información adicional a la presentada por las dependencias, órganos desconcentrados, alcaldías y entidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 175.
 
-Las entidades beneficiarias de subsidios y aportaciones, otorgados con cargo al Decreto, con la aprobación de su coordinadora de sector deberán proporcionar a la Secretaría cuenta detallada de la aplicación de los fondos recibidos, así como la información y justificación correspondiente en la forma y plazos que la propia Secretaría requiera.
+Las entidades beneficiarias de subsidios y aportaciones, otorgados con cargo al Decreto, deberán proporcionar a la Secretaría cuenta detallada de la aplicación de los fondos recibidos, así como la información y justificación correspondiente en la forma y plazos que la propia Secretaría requiera.
 
 El incumplimiento en el envío de la información motivará, en su caso, la inmediata suspensión de las subsecuentes ministraciones de fondos que por el mismo concepto se hubieren autorizado, así como el reintegro de lo que se haya suministrado.
 
@@ -1404,13 +1636,17 @@ La Secretaría hará del conocimiento de las dependencias coordinadoras de secto
 
 Corresponderá a las dependencias coordinadoras de sector captar y validar la información que sus entidades coordinadas deban remitir a la Secretaría. Asimismo, en caso de detectar desviaciones, determinarán sus posibles causas y efectos, proponiendo las medidas correctivas necesarias.
 
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+
 ###### Artículo 178.
 
-Las dependencias coordinadoras de sector darán a conocer a sus entidades coordinadas la forma, términos y periodicidad conforme a los cuales deberán proporcionarle información contable, financiera, presupuestal y económica, tanto para efecto de consolidaciones sectoriales, como para otros fines específicos.
+Las dependencias coordinadoras de sector darán a conocer a sus entidades coordinadas la forma, términos y periodicidad conforme a los cuales deberán proporcionarle información contable, financiera, presupuestal, de resultados y económica, tanto para efecto de consolidaciones sectoriales, como para otros fines específicos.
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
 ###### Artículo 179.
 
-Las dependencias coordinadoras de sector formularán consolidaciones sectoriales de la información contable, financiera, presupuestal y económica, de acuerdo con sus necesidades y para satisfacer los requerimientos de la Secretaría.
+Las dependencias coordinadoras de sector formularán consolidaciones sectoriales de la información contable, financiera, presupuestal, de resultados y económica, de acuerdo con sus necesidades y para satisfacer los requerimientos de la Secretaría.
 
 ###### Artículo 180.
 
@@ -1447,3 +1683,15 @@ Tercero. Todas las referencias hechas al Reglamento de la Ley de Presupuesto y G
 Cuarto. Se deroga el Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México, así como todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido por este Reglamento.
 
 Dado en la Residencia Oficial de la Jefa de Gobierno de la Ciudad de México, en la Ciudad de México, a los 27 días del mes de marzo de 2019.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.-FIRMA.-LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.-LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- EL SECRETARIO DE CULTURA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, JOSÉ LUIS BEATO GONZÁLEZ.- FIRMA.-LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUÍZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, GABRIELA RODRÍGUEZ RAMÍREZ.- FIRMA.-EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LARISA ORTIZ QUINTERO.- FIRMA.-LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, JESÚS ORTA MARTÍNEZ.- FIRMA.-LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.-FIRMA.-EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 28 DE MAYO DE 2021.
+
+> <small>[N. DE E. TRASITORIOS DEL “DECRETO POR EL QUE SE REFORMAN ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]</small>
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto surtirá efectos a partir del día siguiente de su publicación.
+
+TERCERO.- En tanto se elabore y apruebe el Plan General de Desarrollo de la Ciudad de México para la programación y presupuestación del gasto público, en lo relativo a las actividades para dar cumplimiento a los objetivos, políticas, estrategias, prioridades, metas y resultados con base en indicadores de desempeño, las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, deberán atender las directrices que la persona titular de la Jefatura de Gobierno expida para tales efectos.
