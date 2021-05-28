@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-construccion-y-rehabilitacion-de-pavimentos-del-706
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-11"
-last_updated: "2010-12-09"
+last_updated: "2021-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA CONSTRUCCION Y REHABILITACION DE PAVIMENTOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 2009.
 
@@ -41,21 +41,19 @@ LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO DE NUEVO LE
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 1.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2021)</small>
 
-Objeto.
+ARTÍCULO 1 Objeto.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
-
-La presente Ley tiene por objeto regular lo relativo a las obras de pavimentación que se realicen en los términos de la Ley de Desarrollo Urbano del Estado de Nuevo León, y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, a fin de que cuenten con las características adecuadas en materia de calidad y rodamiento seguro.
+La presente Ley tiene por objeto regular lo relativo a las obras de pavimentación que se realicen en los términos de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León, y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, a fin de que cuenten con las características adecuadas en materia de calidad y rodamiento seguro.
 
 ###### ARTÍCULO 2.
 
 Glosario.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MAYO DE 2021)</small>
 
-Además de las definiciones contenidas en la Ley de Desarrollo Urbano del Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, para los efectos de esta Ley se entenderá por:
+Además de las definiciones contenidas en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, para los efectos de esta Ley se entenderá por:
 
 I. AASHTO: la Asociación Americana de Oficiales de Autopista Estatal y Transporte;
 
@@ -173,23 +171,21 @@ II. A los municipios por conducto del Ayuntamiento, o de las dependencias u orga
 
 III. o en su caso de los servidores públicos competentes en la materia regulada por esta Ley, conforme a la reglamentación municipal;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2021)</small>
 
-IV. A los particulares que realicen proyectos regulados por la Ley de Desarrollo Urbano del Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, y que requieran la habilitación de vías públicas, o que realicen trabajos que impliquen la apertura o modificación temporal de los pavimentos de las vías públicas; y
+IV. A los particulares que realicen proyectos regulados por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, y que requieran la habilitación de vías públicas, o que realicen trabajos que impliquen la apertura o modificación temporal de los pavimentos de las vías públicas; y
 
 V. A las dependencias federales que realicen obras que impliquen la apertura o modificación temporal de los pavimentos de las vías públicas de jurisdicción estatal o municipal.
 
 En los casos que los municipios autoricen la realización de obras que impliquen la apertura o modificación temporal de los pavimentos de las vías públicas, la rehabilitación de los mismos se llevará a cabo bajo la supervisión de la autoridad municipal, la cual verificará que se cumplan los lineamientos de esta Ley para dichos casos.
 
-###### ARTÍCULO 4.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2021)</small>
 
-Legislación aplicable.
+ARTÍCULO 4 Legislación aplicable.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+Las obras de pavimentación que se realicen en las vías públicas se sujetarán a las disposiciones de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León, la Ley de Obras Públicas para el Estado y Municipios de Nuevo León y la presente Ley.
 
-Las obras de pavimentación que se realicen en las vías públicas se sujetarán a las disposiciones de la Ley de Desarrollo Urbano del Estado de Nuevo León, la Ley de Obras Públicas para el Estado y Municipios de Nuevo León y la presente Ley.
-
-Además de cumplir las especificaciones que se recogen en esta regulación, se deberá considerar el diseño y solución para la atención del drenaje pluvial, así como observar las medidas necesarias para el cumplimiento de la normatividad vigente en materia ambiental, de seguridad, y todas las demás que resulten aplicables.
+Además de cumplir las especificaciones que se recogen en esta regulación, se deberá considerar el diseño y solución para la atención del drenaje pluvial, así como observar las medidas necesarias para el cumplimiento de la normatividad vigente en materia ambiental, de seguridad vial al considerar el costo de la renivelación de registros invariablemente y todas las demás que resulten aplicables en temas de obras complementarias, desde el origen del proyecto; debiendo incluir cuando menos la instalación de señalamientos e iluminación en obras nuevas de pavimentación, en correlación a lo establecido en las etapas de planeación, programación y presupuestación de obras, establecido en (sic) Ley de Obras Públicas para el Estado y Municipios de Nuevo León.
 
 ###### ARTÍCULO 5.
 
@@ -231,9 +227,9 @@ Dicha certificación tendrá una vigencia por tres años y para su renovación e
 
 En los casos en que las obras públicas relativas a la pavimentación no sean realizadas directamente por las propias autoridades estatales o municipales, la persona contratada deberá señalar previamente a la firma del contrato respectivo, el nombre del laboratorio acreditado y del profesional responsable, quienes validarán técnicamente el cumplimiento de las disposiciones de la presente Ley.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2021)</small>
 
-Tratándose de obras realizadas por particulares que realicen proyectos regulados por la Ley de Desarrollo Urbano del Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, que requieran la habilitación de vías públicas, al momento de solicitar los permisos y autorizaciones que correspondan ante la autoridad municipal, el interesado deberá señalar el nombre del laboratorio acreditado y del profesional responsable, quienes validarán técnicamente el cumplimiento de las disposiciones de esta Ley.
+Tratándose de obras realizadas por particulares que realicen proyectos regulados por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, que requieran la habilitación de vías públicas, al momento de solicitar los permisos y autorizaciones que correspondan ante la autoridad municipal, el interesado deberá señalar el nombre del laboratorio acreditado y del profesional responsable, quienes validarán técnicamente el cumplimiento de las disposiciones de esta Ley.
 
 ###### ARTÍCULO 8.
 
@@ -2241,25 +2237,29 @@ El proyecto de rehabilitación deberá incluir también un plan de manejo del tr
 
 ### CAPÍTULO SEXTO. CONTROL, INFRACCIONES, MEDIDAS DE SEGURIDAD Y SANCIONES
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2021)</small>
 
-###### ARTÍCULO 116.
+###### Artículo 116.
 
-Las autoridades administrativas estatales y municipales en el ámbito de su competencia, llevarán a cabo visitas de inspección para comprobar el cumplimiento de las disposiciones de la Ley de Desarrollo Urbano del Estado de Nuevo León relativas al diseño y construcción de vías públicas, las de la presente Ley, las concernientes de la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, y demás disposiciones de carácter general en la materia.
+Las autoridades administrativas estatales y municipales en el ámbito de su competencia, llevarán a cabo visitas de inspección para comprobar el cumplimiento de las disposiciones de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León, y demás disposiciones de carácter general en la materia.
 
-En todo lo relativo al control, infracciones, medidas de seguridad y sanciones, las autoridades aplicarán las normas del Título Décimo Segundo de la Ley de Desarrollo Urbano del Estado de Nuevo León.
+En todo lo relativo al control, infracciones, medidas de seguridad y sanciones, las autoridades aplicarán las normas de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León independientemente sin prejuicio de las responsabilidades que conforme a otros Códigos, Leyes, Reglamentos, Disposiciones administrativas de Observancia General y Normas Oficiales Mexicanas que correspondan.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+Los Profesionales Técnicos que intervengan en los actos a que se refiere esta Ley mediante su aval o firma, serán responsables en los términos de la legislación y serán reportados a las autoridades correspondientes y en su caso, tendrán la obligación de indemnizar por los daños y perjuicios causados, además se informará al Colegio de Profesionales al que pertenezca el infractor, para los efectos a que haya lugar.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 117.
 
-La violación a las disposiciones de esta Ley, se sancionarán con multa de dos mil hasta diez mil veces el salario mínimo prevaleciente en la zona económica conforme lo dispuesto en el Artículo 342, fracción II, inciso f), de la Ley de Desarrollo Urbano del Estado de Nuevo León.
+La violación a las disposiciones de esta Ley, se sancionarán con multa de dos mil hasta diez mil Unidades de Medida y Actualización, cuya sanción se ejecutará conforme a la Ley de Responsabilidades Administrativas del Estado de Nuevo León. En caso de una obra ejercida con recursos públicos será aplicada al contratista y/o responsable técnico, supervisor responsable por parte del ejecutor de los trabajos; por detección de obra de mala calidad o por violación de las disposiciones previstas en esta Ley
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+Los Municipios en el ámbito de su competencia llevarán el procedimiento y aplicarán multa de dos mil hasta diez mil Unidades de Medida y Actualización, a los particulares que realicen pavimentos en obras de urbanización reguladas por esta ley y que hubieren infringido sus disposiciones.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 118.
 
-Contra los actos y resoluciones de las autoridades administrativas estatales y municipales, los interesados afectados podrán interponer los medios de defensa previstos en el Título Décimo Segundo, Capítulo Séptimo, de la Ley de Desarrollo Urbano del Estado de Nuevo León, o intentar el juicio contencioso administrativo correspondiente.
+Contra los actos y resoluciones de las autoridades administrativas estatales y municipales, los interesados afectados podrán interponer los medios de defensa previstos en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León, o intentar el juicio contencioso administrativo correspondiente.
 
 ###### ARTÍCULO 119.
 
@@ -2318,3 +2318,11 @@ Segundo.- Las Normas Técnicas Estatales a que se refiere el artículo 20 de la 
 P.O. 9 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 28 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 375. SE REFORMAN LOS ARTÍCULOS 1, 2, 3 FRACCIÓN IV, 4, 7 ÚLTIMO PÁRRAFO, 116, 117 Y 118, TODOS DE LA LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos de los Municipios tendrán un plazo de noventa días naturales contados a partir de la vigencia del presente Decreto para adecuar sus reglamentos a lo establecido en el mismo
