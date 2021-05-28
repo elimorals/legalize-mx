@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2021-02-22"
+last_updated: "2021-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -3729,6 +3729,10 @@ Toda persona tiene derecho a la movilidad, a gozar de ciudades sustentables que 
 
 Todas las personas tienen el derecho a la paz. El Estado y los Municipios desarrollarán e implementarán políticas públicas dentro del sistema educativo y en todos los ámbitos a fin de garantizar este derecho.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
+
+La educación en sus diferentes niveles deberá fomentar la práctica del deporte.
+
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
 
 ###### Art. 3o.
@@ -5512,3 +5516,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo Estatal propondrá en el proyecto de Presupuesto de Egresos del Estado, para el ejercicio fiscal correspondiente, las partidas presupuestarias necesarias para garantizar el cumplimento del presente decreto
 
 TERCERO.- Para atender la educación inicial, el Estado y los Municipios se sujetarán a la Estrategia Nacional de Atención a la Primera Infancia, que al efecto expida el Ejecutivo Federal, en la cual se determinará la gradualidad de su impartición y su financiamiento
+
+P.O. 28 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 309. SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso deberá realizar las modificaciones a los ordenamientos correspondientes para garantizar el derecho al fomento a la práctica del deporte en el sistema educativo en términos de lo dispuesto por el presente Decreto en un plazo no mayor a noventa días naturales posteriores a la entrada en vigor del mismo.
