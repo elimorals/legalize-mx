@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2021-02-06"
+last_updated: "2021-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2021.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -449,6 +449,10 @@ XIX. Derechos de niñas, niños y adolescentes migrantes; y
 
 XX. Derecho de acceso a las tecnologías de la información y comunicación.
 
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2021)</small>
+
+XXI.- Derecho a una alimentación saludable.
+
 Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
 ### CAPÍTULO II. DEL DERECHO A LA VIDA, A LA SUPERVIVENCIA Y AL DESARROLLO
@@ -849,7 +853,9 @@ VI. Establecer las medidas tendentes a prevenir embarazos de las niñas y las ad
 
 VII. Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio, así como para sus hijas e hijos, y promover la lactancia materna exclusiva dentro de los primeros seis meses de vida y complementaria hasta los dos años de edad, así como garantizar el acceso a métodos anticonceptivos;
 
-VIII. Combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable, el fomento del ejercicio físico, e impulsar programas de prevención e información sobre estos temas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2021)</small>
+
+VIII. Combatir la malnutrición, desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable, el fomento del ejercicio físico, e impulsar programas de prevención e información sobre estos temas. La Secretaría de Salud deberá generar acciones que eviten y desincentiven el consumo, de bebidas azucaradas y alimentos que excedan los límites máximos de azúcares, grasas saturadas, grasas trans y sodio añadido, que establece la Norma Oficial Mexicana correspondiente.
 
 IX. Fomentar y ejecutar los programas de vacunación y el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica;
 
@@ -870,6 +876,10 @@ XVI. Establecer medidas tendentes a que en los servicios de salud se detecten y 
 XVII. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación; y
 
 XVIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad.
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2021)</small>
+
+XIX. Prohibir la distribución, venta, exhibición y suministro en cualquiera de sus formas, de bebidas azucaradas y alimentos que excedan los límites máximos de azúcares, grasas saturadas, grasas trans y sodio añadido, que establece la Norma Oficial Mexicana correspondiente, en instituciones públicas y privadas de educación básica y media superior.
 
 Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses de vida y complementaria hasta los dos años de edad, así como la prevención de embarazos no planeados, higiene, medidas de prevención de adicciones, accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
@@ -1361,7 +1371,9 @@ En ningún caso una situación migratoria irregular de niña, niño o adolescent
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO XXII. DERECHO A UNA ALIMENTACIÓN SALUDABLE
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2021)</small>
 
 ###### Artículo 100 Bis.
 
@@ -1379,11 +1391,33 @@ El Estado y los Municipios garantizarán a las niñas, niños y adolescentes su 
 
 Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro del internet, como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento y no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones legales aplicables.
 
-### CAPÍTULO ÚNICO. DE LOS CENTROS DE ASISTENCIA SOCIAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2021)</small>
+
+### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+###### Artículo 100 Bis 3.
+
+Las Niñas, niños y adolescentes tienen derecho a una alimentación saludable que asegure su pleno desarrollo físico y mental. Este derecho será el eje de la política pública de seguridad alimentaria del Estado.
+
+La desnutrición y la obesidad entre las niñas, niños y adolescentes, son asuntos de salud pública en el Estado.
+
+El Poder Ejecutivo del Estado y los gobiernos municipales crearán programas de educación alimentaria y mejoramiento nutricional para las niñas, niños y adolescentes en la etapa inicial, preescolar, primaria, secundaria y medio superior en zonas identificadas con altos índices de desnutrición, anemia o en riesgo de desnutrición.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2021)</small>
+
+###### Artículo 100 Bis 4.
+
+Las instituciones educativas públicas y privadas de educación básica y media superior:
+
+a) Promoverán la enseñanza de la nutrición y alimentación, transmitiendo a los alumnos los conocimientos adecuados, para que estos alcancen la capacidad de elegir, correctamente, los alimentos, así como las cantidades más adecuadas, que les permitan componer una alimentación sana y equilibrada y ejercer el autocontrol en su alimentación.
+
+b) Velarán para que los alimentos que se ofrecen en sus centros de estudio sean variados, equilibrados y estén adaptados a las necesidades nutricionales de cada grupo de edad.
+
+c) Serán espacios protegidos de la publicidad de bebidas o alimentos de alto contenido calórico, azúcares, sodio o grasas. Las campañas de promoción alimentaria, educación nutricional o promoción del deporte o actividad física en los centros así como el patrocinio de equipos y eventos deportivos en el ámbito académico deberán ser previamente autorizados por las autoridades educativas competentes, de acuerdo con los criterios establecidos por las autoridades sanitarias que tengan por objetivo promover hábitos nutricionales y deportivos saludables y prevenir la obesidad.
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
-### CAPÍTULO I. DE LAS AUTORIDADES
+### CAPÍTULO ÚNICO. DE LOS CENTROS DE ASISTENCIA SOCIAL
 
 ###### Artículo 101.
 
@@ -1499,7 +1533,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO II. DEL SISTEMA ESTATAL DE PROTECCIÓN
+### CAPÍTULO I. DE LAS AUTORIDADES
 
 ###### Artículo 110.
 
@@ -1589,9 +1623,7 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ## TÍTULO QUINTO. DE LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO III. DEL DIF ESTATAL Y LOS DIF MUNICIPALES
-
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+### CAPÍTULO II. DEL SISTEMA ESTATAL DE PROTECCIÓN
 
 ###### Artículo 117.
 
@@ -1719,7 +1751,7 @@ XI. Impulsar la participación de las organizaciones privadas dedicadas a la pro
 
 XII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el DIF Estatal.
 
-### CAPÍTULO IV. DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO III. DEL DIF ESTATAL Y LOS DIF MUNICIPALES
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -1933,7 +1965,7 @@ La instancia a que se refiere el presente artículo coordinará a los servidores
 
 > <small>(ADICIONADO [N. DE E. CON EL ARTÍCULO QUE LO INTEGRA], P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO V. DEL PERSONAL ENCARGADO DE LA REPRESENTACIÓN Y RESTITUCIÓN DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO IV. DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -1955,7 +1987,7 @@ VI. Las demás establecidas en otras disposiciones legales, relativas a la prote
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO VI. MEDIDAS DE PROTECCIÓN ESPECIAL Y MEDIDAS URGENTES DE PROTECCIÓN ESPECIAL DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO V. DEL PERSONAL ENCARGADO DE LA REPRESENTACIÓN Y RESTITUCIÓN DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2335,7 +2367,7 @@ IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor pú
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO VII. DEL CUERPO ESPECIALIZADO DE SEGURIDAD PÚBLICA
+### CAPÍTULO VI. MEDIDAS DE PROTECCIÓN ESPECIAL Y MEDIDAS URGENTES DE PROTECCIÓN ESPECIAL DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2405,7 +2437,7 @@ Todo aquel que desobedezca u obstaculice el ejercicio de las facultades de los e
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO VIII. DE LA RESTITUCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO VII. DEL CUERPO ESPECIALIZADO DE SEGURIDAD PÚBLICA
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2553,7 +2585,7 @@ El personal de la Procuraduría realizará visitas periódicas a los lugares a q
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO IX. DE LA ATENCIÓN A NIÑAS, NIÑOS Y ADOLESCENTES A QUIENES SE LES ATRIBUYA LA COMISIÓN O PARTICIPACIÓN DE UN HECHO SEÑALADO COMO DELITO EN LA LEY PENAL
+### CAPÍTULO VIII. DE LA RESTITUCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2593,7 +2625,7 @@ La persona que funja como titular de la Procuraduría de Protección, planeará 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO X. DE LOS MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS
+### CAPÍTULO IX. DE LA ATENCIÓN A NIÑAS, NIÑOS Y ADOLESCENTES A QUIENES SE LES ATRIBUYA LA COMISIÓN O PARTICIPACIÓN DE UN HECHO SEÑALADO COMO DELITO EN LA LEY PENAL
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2647,7 +2679,7 @@ Para efectos de este artículo, la Procuraduría de Protección, sus Subprocurad
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO XI. DE LA PARTICIPACIÓN DE LA PROCURADURÍA DE PROTECCIÓN EN LOS PROCESOS DE ADOPCIÓN
+### CAPÍTULO X. DE LOS MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2657,7 +2689,7 @@ De conformidad con la Ley Nacional del Sistema Integral de Justicia Penal para A
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO XII. DE LAS AUTORIDADES DE PRIMER CONTACTO Y PROCURADURÍAS MUNICIPALES
+### CAPÍTULO XI. DE LA PARTICIPACIÓN DE LA PROCURADURÍA DE PROTECCIÓN EN LOS PROCESOS DE ADOPCIÓN
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -2679,9 +2711,9 @@ Las actuaciones que tengan lugar en la Procuraduría de Protección, relativas a
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO XIII. DE LOS ORGANISMOS DE PROTECCIÓN DE LOS DERECHOS HUMANOS
+### CAPÍTULO XII. DE LAS AUTORIDADES DE PRIMER CONTACTO Y PROCURADURÍAS MUNICIPALES
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 129], P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 181.
 
@@ -2703,9 +2735,9 @@ II. Cuando sea solicitada vía oficio por las diversas autoridades administrativ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO XIV. DEL PROGRAMA ESTATAL
+### CAPÍTULO XIII. DE LOS ORGANISMOS DE PROTECCIÓN DE LOS DERECHOS HUMANOS
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 20 DE OCTUBRE DE 2018)
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 129], P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 183.
 
@@ -2783,9 +2815,9 @@ Respecto a la forma y términos en que se llevará a cabo la coordinación opera
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 20 DE OCTUBRE DE 2018)
 
-### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO XIV. DEL PROGRAMA ESTATAL
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 134], P.O. 20 DE OCTUBRE DE 2018)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 188.
 
@@ -2828,6 +2860,10 @@ XII. Las demás que se establezcan en la Ley Orgánica de la Comisión de los De
 El titular de la Visitaduría será nombrado por el Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Colima, de conformidad con los requisitos previstos para el efecto en la Ley Orgánica de la Comisión de Derechos Humanos del Estado de Colima.
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO IV], P.O. 20 DE OCTUBRE DE 2018)
+
+### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 134], P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 191.
 
@@ -3062,3 +3098,15 @@ P.O. 6 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 411.- POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 49, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 102, ASÍ COMO, LA FRACCIÓN IV DEL ARTÍCULO 108 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA Y LOS ARTÍCULOS 300 BIS Y 423 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 29 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 453.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+TERCERO.- Los Ayuntamientos, en el ámbito de sus competencias, deberán evitar la distribución, venta, exhibición y suministro en cualquiera de sus formas, de bebidas azucaradas y alimentos que excedan los límites máximos de azúcares, grasas saturadas, grasas trans y sodio añadido, que establece la Norma Oficial Mexicana correspondiente, en las inmediaciones de las instituciones públicas y privadas de educación básica y media superior.
+
+CUARTO.- En un plazo de 60 días hábiles, los Ayuntamientos deberán actualizar su Reglamento para el Comercio en Vía Pública, en atención al Transitorio Tercero.
