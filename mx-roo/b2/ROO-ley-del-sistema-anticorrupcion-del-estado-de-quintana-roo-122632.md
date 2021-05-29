@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-sistema-anticorrupcion-del-estado-de-quintana-roo-12263
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2017-07-19"
+last_updated: "2021-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 19 de julio de 2017.
 
@@ -193,7 +193,9 @@ XIX. Las señaladas por esta Ley y las demás aplicables en la materia.
 
 Son integrantes del Comité Coordinador Estatal:
 
-I. Un representante del Comité de Participación Ciudadana, quien lo presidirá;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2021)</small>
+
+I. Un representante del Comité de Participación Ciudadana, quien presidirá este Comité, en funciones de Presidente del Comité de Participación Ciudadana;
 
 II. El titular de la Auditoría Superior del Estado;
 
@@ -241,11 +243,15 @@ El Comité Coordinador Estatal se reunirá en sesión ordinaria cada tres meses.
 
 Para que el Comité Coordinador Estatal pueda sesionar es necesario que esté presente la mayoría de sus integrantes.
 
-Para el desahogo de sus reuniones, el Comité Coordinador Estatal podrá invitar a los titulares de los órganos internos de control de los Municipios, y a los titulares de los órganos internos de control de los organismos públicos autónomos reconocidos en la Constitución Política del Estado Libre y Soberano de Quintana Roo, otros entes públicos, así como a organizaciones de la sociedad civil.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2021)</small>
+
+A las sesiones ordinarias y extraordinarias del Comité Coordinador Estatal podrán concurrir con derecho a voz, pero sin voto, los demás integrantes del Comité de Participación Ciudadana, y dos integrantes de cada órgano colegiado que forme parte del Comité Coordinador Estatal. Asimismo, para el desahogo de sus reuniones el Comité Coordinador Estatal podrá invitar a los titulares de los órganos internos de control de los Municipios, y a los titulares de los órganos internos de control de los organismos públicos autónomos reconocidos en la Constitución Política del Estado Libre y Soberano de Quintana Roo, otros entes públicos, así como a organizaciones de la sociedad civil. Dichos invitados participarán en las sesiones con derecho a voz, pero sin voto.
 
 El Sistema Estatal sesionará previa convocatoria del Comité Coordinador Estatal en los términos en que este último lo determine.
 
-Las sesiones del Comité Coordinador del Estado serán públicas.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2021)</small>
+
+Las sesiones del Comité Coordinador del Estado serán públicas y se transmitirán por los medios electrónicos, así como en las redes sociales oficiales qué para tal efecto disponga el Secretario Técnico. En los casos que se estime necesario serán videograbadas y los datos personales serán resguardados de conformidad con la Ley de la materia.
 
 ###### Artículo 14.
 
@@ -263,7 +269,9 @@ El Comité de Participación Ciudadana tiene como objetivo coadyuvar, en términ
 
 El Comité de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. Sus integrantes deberán reunir los mismos requisitos que esta Ley establece para ser nombrado Secretario Técnico.
 
-Los integrantes del Comité de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, un empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, estatal o municipal, ni cualquier otro empleo o desarrollar actividad comercial que les impida el libre ejercicio de los servicios que prestarán al Comité de Participación Ciudadana y a la Comisión Ejecutiva, por estar vinculada con el Gobierno del Estado.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2021)</small>
+
+Los integrantes del Comité de Participación Ciudadana con el propósito de garantizar el desempeño pleno, imparcial y objetivo de sus funciones, no podrán ocupar, una vez que inicien el periodo para el cual fueron designados, otro empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, estatal o municipal, ni cualquier otro empleo y/o actividad que les impida y/o limite el ejercicio de las funciones que prestarán al Comité de Participación Ciudadana y a la Comisión Ejecutiva, a excepción de la actividad docente.
 
 Durarán en su encargo cinco años, sin posibilidad de reelección y serán renovados de manera escalonada, y sólo podrán ser removidos por alguna de las causas establecidas en la normatividad relativa a los actos de particulares vinculados con faltas administrativas graves.
 
@@ -281,13 +289,19 @@ En la conformación del Comité de Participación Ciudadana se procurará que pr
 
 Los integrantes del Comité de Participación Ciudadana serán nombrados conforme al procedimiento siguiente:
 
-I. La Legislatura del Estado o la Diputación Permanente, en su caso, a través de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, constituirá una Comisión de Selección integrada por cinco miembros, quienes durarán en su encargo un periodo de tres años.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MAYO DE 2021)</small>
 
-Los candidatos a integrar la Comisión de Selección, deberán cumplir con los siguientes requisitos: Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles; haber residido en el Estado cinco años anteriores a la postulación del cargo; gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público; no haber desempeñado el cargo de Secretario de Despacho, Fiscal General de la República o del Estado, Senador, Diputado Federal o Estatal ni gobernador de algún Estado y haberse destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción.
+I. La Legislatura del Estado a través de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, constituirá una Comisión de Selección integrada por cinco miembros, quienes durarán en su encargo un periodo de tres años.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2021)</small>
+
+Los candidatos a integrar la Comisión de Selección, deberán cumplir con los siguientes requisitos: Ser ciudadana o ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles; haber residido en el Estado cinco años anteriores a la postulación del cargo; gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza, peculado y otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena; no haber desempeñado el cargo de Secretario de Despacho, Fiscal General de la República o del Estado, Senador, Diputado Federal o Estatal ni gobernador de algún Estado y haberse destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción.
 
 El procedimiento para su designación será el siguiente:
 
-a) La Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos del Poder Legislativo, expedirá una convocatoria pública, en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación, misma que deberá publicarse el mismo día de la emisión de la convocatoria en dos periódicos de mayor circulación en el Estado y en la página web del Poder Legislativo; además en las redes sociales del Poder Legislativo para mayor publicidad.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MAYO DE 2021)</small>
+
+a) La Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos del Poder Legislativo, expedirá una convocatoria pública, en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación, misma que deberá publicarse al día siguiente de la emisión de la convocatoria en dos periódicos de mayor circulación en el Estado y en la página web del Poder Legislativo; además en las redes sociales del Poder Legislativo para mayor publicidad.
 
 Dicha convocatoria será dirigida:
 
@@ -299,7 +313,9 @@ b) Las solicitudes deberán ser dirigidas a la Comisión Anticorrupción, Partic
 
 c) Posteriormente, la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, procederá a la revisión y análisis de las mismas, entrevistando de manera pública a cada uno de los aspirantes que hayan cumplido con los requisitos en los diez días naturales siguientes al cierre de la convocatoria.
 
-d) Una vez llevada a cabo la revisión y entrevista de los aspirantes que hayan cumplido con los requisitos, la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos procederá a presentar el dictamen con la lista de cada uno de los aspirantes que hayan cumplido con los requisitos, ante la Legislatura del Estado o en su caso, la Diputación Permanente, para la designación correspondiente.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2021)</small>
+
+d) Una vez llevada a cabo la revisión y entrevista de los aspirantes que hayan cumplido con los requisitos, la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos procederá a presentar el dictamen con la lista de cada uno de los aspirantes que hayan cumplido con los requisitos, ante la Legislatura del Estado para la designación correspondiente.
 
 e) La designación deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, señalando el inicio y fin del periodo.
 
@@ -309,7 +325,9 @@ Quienes funjan como miembros no podrán ser designados como integrantes del Comi
 
 II. La Comisión de Selección deberá emitir una convocatoria, con el objeto de realizar una amplia consulta pública en el Estado, dirigida a toda la sociedad, para que presenten sus postulaciones de aspirantes a ocupar el cargo.
 
-Para ello, definirá la metodología, plazos y criterios de selección de los integrantes del Comité de Participación Ciudadana Estatal y deberá hacerlos públicos; en donde deberá considerar al menos las siguientes características:
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2021)</small>
+
+Para ello, la Convocatoria definirá la metodología, plazos y criterios de selección de los integrantes del Comité de Participación Ciudadana, y deberá considerar al menos lo siguiente:
 
 a) El método de registro y evaluación de los aspirantes.
 
@@ -325,15 +343,39 @@ f) El plazo en que se deberá hacer la designación que al efecto se determine, 
 
 En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de noventa días y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2021)</small>
+
+g) El periodo de duración del cargo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2021)</small>
+
+El acuerdo del nombramiento que realice la Comisión de Selección señalará el inicio y fin del periodo del cargo. Dicho acuerdo deberá constar en un acta, la que deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, y será notificada al Comité Coordinador y a la Secretaría Ejecutiva.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2021)</small>
+
+###### Artículo 18 Bis.
+
+En caso de que se generen vacantes en el Comité de Participación Ciudadana, por ausencia definitiva, renuncia o actualizarse la prohibición descrita en el artículo 16 de esta ley, la Comisión de Selección iniciará el proceso de selección para cubrir la o las vacantes, la duración de este proceso, no podrá exceder de noventa días y el ciudadano que resulte electo desempeñará el cargo por el tiempo restante de la vacante a ocupar.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2021)</small>
+
 ###### Artículo 19.
 
-Los integrantes del Comité de Participación Ciudadana se rotarán anualmente la representación ante el Comité Coordinador Estatal, atendiendo a la antigüedad que tengan en el Comité de Participación Ciudadana.
+Los integrantes del Comité de Participación Ciudadana se rotarán anualmente la representación ante el Comité Coordinador Estatal, atendiendo a la antigüedad que tengan en el Comité de Participación Ciudadana. Dicha representación se hará constar en acta de la sesión que corresponda, señalando el inicio y fin del periodo de este cargo y será comunicada a los integrantes del Comité Coordinador Estatal y al Secretario Técnico.
 
-De presentarse la ausencia temporal del representante, el Comité de Participación Ciudadana nombrará de entre sus miembros a quien deba sustituirlo durante el tiempo de su ausencia. Esta suplencia no podrá ser mayor a dos meses. En caso de que la ausencia sea mayor, ocupará su lugar por un periodo máximo de dos meses el miembro al cual le correspondería el periodo anual siguiente y así sucesivamente.
+De presentarse la ausencia temporal del representante, el Comité de Participación Ciudadana nombrará de entre sus miembros a quien deba sustituirlo durante el tiempo de su ausencia. Esta suplencia no podrá ser mayor a dos meses. En caso de que la ausencia sea mayor, ocupará su lugar por un periodo máximo de dos meses el miembro al cual le correspondería el periodo anual siguiente y así sucesivamente. La ausencia a tres sesiones sin causa justificada dentro del periodo de tres meses, establece la presunción de renuncia como integrante del Comité de Participación Ciudadana.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2021)</small>
 
 ###### Artículo 20.
 
-El Comité de Participación Ciudadana se reunirá, previa convocatoria de su Presidente, cuando así se requiera a petición de la mayoría de sus integrantes. Las decisiones se tomarán por mayoría de votos de los miembros presentes y en caso de empate, se volverá a someter a votación, y en caso de persistir el empate se enviará el asunto a la siguiente sesión.
+El Comité de Participación Ciudadana se reunirá, previa convocatoria de su Presidente, cuando menos dos veces al mes de forma ordinaria, y de manera extraordinaria a petición de la mayoría de sus integrantes.
+
+Para que el Comité de Participación Ciudadana pueda sesionar es necesario que esté presente la mayoría de sus integrantes. Las decisiones se tomarán por mayoría de votos de los miembros presentes y en caso de empate, se volverá a someter a votación, y en caso de persistir el empate se enviará el asunto a la siguiente sesión.
+
+Para el desahogo de sus reuniones, el Comité de Participación Ciudadana podrá invitar a colegios de profesionistas, especialistas, organizaciones de la sociedad civil o instituciones académicas. Dichos invitados participarán en las sesiones con derecho a voz, pero sin voto.
+
+Las sesiones del Comité de Participación Ciudadana serán públicas y deberán ser difundidas en los medios electrónicos y redes sociales que para tal efecto disponga este Comité.
 
 ###### Artículo 21.
 
@@ -425,9 +467,11 @@ III. Los demás bienes que, en su caso, le sean transferidos bajo cualquier otro
 
 Las relaciones de trabajo entre la Secretaría Ejecutiva y sus trabajadores, se rigen por la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2021)</small>
+
 ###### Artículo 27.
 
-La Secretaría Ejecutiva contará con un órgano interno de control, que estará adscrito administrativamente a su Órgano de Gobierno, sin que ello se traduzca en subordinación alguna. Su titular será designado en términos de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, y contará con la estructura necesaria para el desarrollo de sus funciones.
+La Secretaría Ejecutiva contará con un órgano interno de control, que estará adscrito administrativamente a su Órgano de Gobierno, sin que ello se traduzca en subordinación alguna. El titular del Órgano Interno de Control, durará en su encargo cuatro años sin posibilidad de reelección y contará con la estructura necesaria para el desarrollo de sus funciones.
 
 El Órgano Interno de Control estará limitado en sus atribuciones al control y fiscalización de la Secretaría Ejecutiva, exclusivamente respecto a las materias siguientes:
 
@@ -443,15 +487,103 @@ V. Transparencia y acceso a la información pública, conforme a la ley de la ma
 
 La Secretaría de la Contraloría del Estado y el Órgano Interno de Control, como excepción a lo previsto en el Artículo 43 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2021)</small>
+
+###### Artículo 27 Bis.
+
+El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Tener treinta años de edad cumplidos el día de la designación;
+
+III. Gozar de buena reputación;
+
+IV. Contar al momento de su designación con experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
+
+V. Contar al día de su designación con título y cédula profesional de licenciado en derecho, contador, administrador, economista o financiero, expedidos con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
+
+VI. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
+
+El titular del Órgano Interno de Control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión público, salvo los no remunerados que realice en actividades relacionadas con la docencia, investigación, cultura o beneficencia.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2021)</small>
+
+###### Artículo 27 Ter.
+
+La designación del titular del Órgano Interno de Control se llevará a cabo de conformidad con el procedimiento siguiente:
+
+I. La Mesa Directiva de la Legislatura del Estado, a propuesta de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, expedirá una convocatoria pública en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación para la elección del titular del Órgano Interno de Control, la cual deberá publicarse al día siguiente de su emisión en la página web del Poder Legislativo y en dos periódicos de mayor circulación en el Estado, además en las redes sociales del Poder Legislativo para mayor publicidad;
+
+II. Las solicitudes deberán ser dirigidas a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, presentarse dentro de los cinco días hábiles contados a partir del día siguiente de la fecha de la publicación de la convocatoria, así como estar debidamente suscritas por el solicitante;
+
+III. Una vez vencido el plazo para la presentación de las solicitudes, la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, dentro de los cinco días hábiles siguientes, procederá a la revisión y análisis de las solicitudes, entrevistando de manera pública a cada uno de los aspirantes que hayan cumplido con los requisitos exigidos para el cargo. Dentro de este mismo plazo, presentará un dictamen con una terna conformada por los candidatos que resulten idóneos, ante la Legislatura del Estado, para la designación correspondiente.
+
+IV. Aprobada la designación el titular rendirá la protesta de ley ante la Legislatura del Estado.
+
+Dicha designación deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, señalando el inicio y fin del periodo del encargo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2021)</small>
+
+###### Artículo 27 Quáter.
+
+El titular del Órgano Interno de Control será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control serán sancionados por el Titular del Órgano Interno de Control, en términos de la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2021)</small>
+
+###### Artículo 27 Quinquies.
+
+El Órgano Interno de Control será removido de su cargo por la Legislatura del Estado, por las siguientes causas:
+
+I. Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte;
+
+II. Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades Administrativas;
+
+III. Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley;
+
+IV. Abstenerse de resolver sin causa justificada y en forma reiterada, los asuntos de su competencia dentro de los plazos previstos por la Ley;
+
+V. Incurrir en infracciones graves a la Constitución o a las leyes de la Federación o el Estado causando perjuicios graves a las instituciones democráticas del país, a la sociedad, o motivar alguna deficiencia en el funcionamiento normal de las instituciones del Estado Mexicano, y
+
+VI. Faltar gravemente en el ejercicio de su cargo a la observancia de los principios de legalidad, máxima publicidad, objetividad, eficiencia, profesionalismo, restricciones de contacto, honradez, debido proceso, transparencia y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2021)</small>
+
+###### Artículo 27 Sexies.
+
+En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el Órgano de Gobierno o el Secretario Técnico, cuando tengan conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y consideren que existen elementos de prueba, o cuando medie solicitud debidamente justificada, notificará inmediatamente al Presidente de la Mesa Directiva de la Legislatura o de la Comisión Permanente del Estado acompañando el expediente del asunto.
+
+El Presidente de la Mesa Directiva turnará el expediente a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para que sea instructora en el procedimiento.
+
+Dicha Comisión citará al titular del Órgano Interno de Control a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de remoción en los términos de esta Ley y demás disposiciones aplicables. La notificación deberá ser personal y expresar el lugar, día y hora en que tendrá verificativo la audiencia, los actos u omisiones que se le imputen y el derecho de éste a comparecer asistido de un defensor.
+
+Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días naturales.
+
+Concluida la audiencia, se concederá al titular del Órgano Interno de Control sujeto al proceso de remoción un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y una vez desahogadas las pruebas que fueren admitidas, la Comisión, dentro de los treinta días naturales siguientes someterá el dictamen con proyecto de resolución a la Legislatura del Estado, quien resolverá la remoción. Aprobada la remoción, ésta quedará firme y será notificada al Órgano de Gobierno para los efectos legales que correspondan.
+
+En caso de haber transcurrido más de dos años de la duración del cargo del titular removido, la Legislatura del Estado designará un nuevo titular para efectos de concluir el periodo.
+
 ###### Artículo 28.
 
 El Órgano de Gobierno estará integrado por los miembros del Comité Coordinador Estatal y será presidido por el Presidente del Comité de Participación Ciudadana.
 
 El Órgano de Gobierno celebrará por lo menos cuatro sesiones ordinarias por año, además de las extraordinarias que se consideren convenientes para desahogar los asuntos de su competencia. Las sesiones serán convocadas por su Presidente o a propuesta de cuatro integrantes de dicho órgano.
 
-Para poder sesionar válidamente, el órgano de gobierno requerirá la asistencia de la mayoría de sus miembros. Sus acuerdos, resoluciones y determinaciones se tomarán siempre por mayoría de votos de los miembros presentes; en caso de empate, el Presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2021)</small>
 
-Podrán participar con voz pero sin voto aquellas personas que el Órgano de Gobierno, a través del Secretario Técnico, decida invitar en virtud de su probada experiencia en asuntos que sean de su competencia.
+Para poder sesionar válidamente, de forma ordinaria o extraordinaria, el órgano de gobierno requerirá la asistencia de la mayoría de sus miembros, asimismo, concurrirán, con derecho a voz, pero sin voto los demás integrantes del Comité de Participación Ciudadana, y dos integrantes de cada órgano colegiado que forme parte del Comité Coordinador Estatal. Sus acuerdos, resoluciones y determinaciones se tomarán siempre por mayoría de votos de los miembros presentes; en caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2021)</small>
+
+Podrán participar con voz pero sin voto aquellas personas que el Órgano de Gobierno, a través del Secretario Técnico, decida invitar en virtud de su probada experiencia en asuntos que sean de su competencia. Dichos invitados participarán en las sesiones con derecho a voz, pero sin voto.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2021)</small>
+
+Las sesiones del Órgano de Gobierno serán públicas y deberán ser difundidas en los medios electrónicos, así como en las redes sociales oficiales qué para tal efecto, disponga el Secretario Técnico.
 
 ###### Artículo 29.
 
@@ -501,11 +633,15 @@ La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, emitir los exh
 
 #### Sección III. Del Secretario Técnico
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2021)</small>
+
 ###### Artículo 33.
 
-El Secretario Técnico será nombrado y removido por el Órgano de Gobierno de la Secretaría Ejecutiva, por el voto favorable de cinco de sus miembros. Durará cinco años en su encargo y no podrá ser reelegido.
+El Secretario Técnico será nombrado y removido por el Órgano de Gobierno de la Secretaría Ejecutiva, por el voto favorable de cinco de sus miembros. Durará cinco años en su encargo y no podrá ser reelegido. Dicho acuerdo de designación se hará constar en acta de la sesión que corresponda señalando el inicio y fin del periodo del cargo, y se deberá publicar en el Periódico Oficial del Estado de Quintana Roo
 
-Para efectos del párrafo anterior, el Presidente del Órgano de Gobierno, previa aprobación del Comité Estatal de Participación Ciudadana, someterá al mismo una terna de personas que cumplan los requisitos para ser designado Secretario Técnico, de conformidad con la presente Ley.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2021)</small>
+
+Para efectos del párrafo anterior, el Presidente del Órgano de Gobierno, previa aprobación del Comité de Participación Ciudadana, someterá al mismo una terna de personas que cumplan los requisitos para ser designado Secretario Técnico, de conformidad con la presente Ley.
 
 El Secretario Técnico podrá ser removido por falta a su deber de diligencia, o bien por causa plenamente justificada a juicio del Órgano de Gobierno y por acuerdo obtenido por la votación señalada en el presente artículo; o bien, en los siguientes casos:
 
@@ -515,29 +651,35 @@ II. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e inf
 
 III. Incurrir en alguna falta administrativa grave o hecho de corrupción.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2021)</small>
+
 ###### Artículo 34.
 
 Para ser designado Secretario Técnico se deberán reunir los requisitos siguientes:
 
-I. Ser ciudadana o ciudadano mexicano quintanarroense, en pleno goce y ejercicio de sus derechos civiles;
+I. Ser ciudadana o ciudadano mexicano, en pleno goce y ejercicio de sus derechos civiles;
 
-II. Experiencia verificable de al menos cinco años en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción;
+II. Contar con una residencia no menor de cinco años en el Estado de Quintana Roo anteriores a la designación;
 
-III. Tener más de treinta y cinco años de edad, al día de la designación;
+III. Experiencia verificable de al menos cinco años en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción;
 
-IV. Poseer al día de la designación, una antigüedad mínima de cinco años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionadas con la materia de esta Ley que le permitan el desempeño de sus funciones;
+IV. Tener más de treinta años de edad, al día de la designación;
 
-V. Gozar de buena reputación y no haber sido condenado por algún delito;
+V. Poseer al día de la designación, una antigüedad mínima de cinco años con título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionadas con la materia de esta Ley que le permitan el desempeño de sus funciones;
 
-VI. Presentar sus declaraciones de intereses, patrimonial y fiscal, de forma previa a su nombramiento;
+VI. Gozar de buena reputación y no haber sido condenado por algún delito;
 
-VII. No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
+VII. Presentar sus declaraciones de intereses, patrimonial y fiscal, de forma previa a su nombramiento;
 
-VIII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación;
+VIII. Presentar carta compromiso expresando que en el caso de ser designado, una vez que inicie el periodo no ocupará otro empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, estatal o municipal, ni cualquier otro empleo y/o actividad que les impida y/o limite el ejercicio de sus funciones, a excepción de la docencia;
 
-IX. No haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria, y
+IX. No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
 
-X. No ser titular de una dependencia o entidad del Estado, Fiscal General del Estado, Subsecretario, Oficial Mayor, Gobernador, Secretario de Gobierno, Consejero de la Judicatura a menos que se haya separado de su cargo un año antes del día de su designación.
+X. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación;
+
+XI. No haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria, y
+
+XII. No ser titular de una dependencia o entidad del Estado, Fiscal General del Estado, Subsecretario, Oficial Mayor, Gobernador, Secretario de Gobierno, Consejero de la Judicatura a menos que se haya separado de su cargo un año antes del día de su designación.
 
 ###### Artículo 35.
 
@@ -567,9 +709,23 @@ X. Administrar los Sistemas de Información que establecerá el Comité Coordina
 
 XI. Diseñar, implementar y administrar el Sistema Local de Información, con base en las medidas y protocolos que dicte el Sistema Nacional;
 
-XII. Integrar los sistemas de información necesarios para que los resultados de las evaluaciones sean públicas y reflejen los avances o retrocesos en la política estatal anticorrupción, y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2021)</small>
 
-XIII. Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboración de las propuestas a que se refiere la presente Ley. Para ello, podrá solicitar la información que estime pertinente para la realización de las actividades que le encomienda esta Ley, de oficio o a solicitud de los miembros de la Comisión Ejecutiva.
+XII. Integrar los sistemas de información necesarios para que los resultados de las evaluaciones sean públicos y reflejen los avances o retrocesos en la política estatal anticorrupción;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2021)</small>
+
+XIII. Celebrar convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines de la Secretaría Ejecutiva, que no comprometan recursos económicos y materiales;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2021)</small>
+
+XIV. Ordenar la publicación de la designación de su encargo, así como la designación de los integrantes del Comité de Participación Ciudadana en el Periódico Oficial del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2021)</small>
+
+XV. Preparar y organizar las sesiones del Comité Coordinador y del Órgano de Gobierno, así como vigilar su difusión en los medios electrónicos, así como en redes sociales oficiales de la Secretaría Ejecutiva, y
+
+XVI. Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboración de las propuestas a que se refiere la presente Ley. Para ello, podrá solicitar la información que estime pertinente para la realización de las actividades que le encomienda esta Ley, de oficio o a solicitud de los miembros de la Comisión Ejecutiva.
 
 ## TÍTULO TERCERO. DE LAS AUTORIDADES DEL ESTADO DE QUINTANA ROO INTEGRANTES DEL SISTEMA NACIONAL DE FISCALIZACIÓN
 
@@ -698,3 +854,17 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTAN ROO.
 RUBRICA
 
 LIC. FRANCISCO XAVIER LÓPEZ MENA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 115, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE QUINTANA ROO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Las disposiciones relativas a los requisitos de elegibilidad del cargo de los integrantes del Comité de Participación Ciudadana entrarán en vigor para las designaciones que se realicen a partir de la entrada en vigor del presente Decreto.
+
+Cuarto. La Legislatura del Estado designará al titular del Órgano Interno de Control en un plazo de sesenta días naturales a partir de la entrada en vigor del presente Decreto.
