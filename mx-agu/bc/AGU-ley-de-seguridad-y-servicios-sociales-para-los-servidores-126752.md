@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-12675
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2020-10-12"
+last_updated: "2021-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Número 9 al Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2018.
 
@@ -1347,9 +1347,11 @@ II. Las licencias o permisos, sin goce de sueldo, que conceda el titular de la E
 
 Solamente podrá computarse como período cotizado cuando se hubieren cubierto íntegramente cuotas y aportaciones patronales y del afiliado durante el tiempo de la propia licencia o suspensión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2021)</small>
+
 ###### Artículo 101.
 
-El monto de la Pensión de Retiro por Edad y Antigüedad en el servicio será igual al porcentaje del sueldo base de cotización promedio que el Servidor Público haya disfrutado durante los últimos seis años, en relación con los años de aportación al Instituto que establece la tabla siguiente:
+El monto de la Pensión de Retiro por Edad y Antigüedad en el servicio será igual al porcentaje del sueldo base de cotización promedio que el Servidor Público haya disfrutado durante los últimos tres años en el mismo puesto y nivel. Si el trabajador tuviere menos de tres años ocupando el mismo puesto y nivel, se calculará la media aritmética tomando en cuenta el sueldo base de los distintos puestos en los cuales haya laborado en los últimos tres años, lo anterior, en relación con los años de aportación al Instituto que establece la tabla siguiente:
 
 15 años de aportación 50%
 
@@ -2604,3 +2606,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los Poderes Ejecutivo y Judicial, así como los Órganos Constitucionales Autónomos en nuestro Estado, deberá (sic) adecuar sus disposiciones reglamentarias a efecto de ajustarlos al contenido del presente Decreto, en un plazo no mayor a noventa días de su entrada en vigor.
 
 TERCERO.- Una vez iniciada la vigencia de la presente reforma, el Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, llevará a cabo las acciones conducentes para que la Estancia de Bienestar Infantil y las estancias Subrogadas, reciban a los niños y niñas, a partir de la edad estipulada en el presente Decreto.
+
+P.O. 31 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 556.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 101 DE LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, y será aplicable para las prestaciones que hayan de enterarse con posterioridad a su entrada en vigor.
