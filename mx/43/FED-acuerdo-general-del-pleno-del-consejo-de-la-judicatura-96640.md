@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2021-04-02"
+last_updated: "2021-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2021.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -121,9 +121,9 @@ XIII. Presidente: Consejero Presidente del Consejo;
 
 XIV. Secretaría General: Secretaría General de la Presidencia del Consejo de la Judicatura Federal; y
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
-XV. Unidades administrativas: Las ponencias de las y los Consejeros, Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual; secretarías técnicas de Comisiones, direcciones generales, las Administraciones de los Centros de Justicia Penal, y demás que sean autorizadas por el Pleno.
+XV. Unidades administrativas: Las ponencias de las y los Consejeros, Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; de Prevención y Combate al Acoso Sexual; y de Peritos Judiciales; secretarías técnicas de Comisiones, direcciones generales, las Administraciones de los Centros de Justicia Penal, y demás que sean autorizadas por el Pleno.
 
 ###### Artículo 3.
 
@@ -291,9 +291,9 @@ VI. Vigilar el funcionamiento de los órganos auxiliares;
 
 VII. Informar al Pleno de la Suprema Corte de Justicia de la Nación, al Senado de la República o al Presidente de la República, según corresponda, la designación, la terminación del encargo de los Consejeros respectivos, con dos meses de antelación o la falta definitiva del Consejero que hubiesen designado, a efecto de que con toda oportunidad puedan hacerse los nombramientos concernientes;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
-VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a las y los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso a quienes ocupen la titularidad de la Secretaría General de la Presidencia, secretarías ejecutivas, de órganos auxiliares, coordinaciones, de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; la de Implementación de la Reforma en materia de Justicia Laboral; la de Transparencia; y la de Prevención y Combate al Acoso Sexual; la titularidad de direcciones generales, y del personal subalterno del Pleno.
+VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a las y los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso a quienes ocupen la titularidad de la Secretaría General de la Presidencia, secretarías ejecutivas, de órganos auxiliares, coordinaciones, de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; la de Implementación de la Reforma en materia de Justicia Laboral; la de Transparencia; la de Prevención y Combate al Acoso Sexual; y de Peritos Judiciales; la titularidad de direcciones generales, y del personal subalterno del Pleno.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 2015)</small>
 
@@ -371,13 +371,17 @@ e) Unidad de Implementación de la Reforma en materia de Justicia Laboral;
 
 f) Unidad de Transparencia;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
-g) Unidad de Prevención y Combate al Acoso Sexual; y
+g) Unidad de Prevención y Combate al Acoso Sexual;
 
-> <small>(ADICIONADO [N. DE E. REUBICADO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
-h) Las demás que determine el Pleno.
+h) Unidad de Peritos Judiciales; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
+
+i) Las demás que determine el Pleno.
 
 II. Dirección General de Comunicación Social y Vocería.
 
@@ -1177,7 +1181,7 @@ Asimismo, se faculta al titular de la Dirección de Normatividad y Enlace Instit
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
 ###### Artículo 65 Bis.
 
@@ -1251,11 +1255,11 @@ IX. Las demás que le señale la normativa y el Comité de Integridad.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, CON RELACIÓN A LA EXTINCIÓN DE LA UNIDAD DE ENLACE LEGISLATIVO, D.O.F. 1 DE SEPTIEMBRE DE 2020)
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
 ### CAPÍTULO SÉPTIMO
 
-DE LAS SECRETARÍAS EJECUTIVAS, COORDINACIONES Y UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL; DE TRANSPARENCIA; Y DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL
+DE LAS SECRETARÍAS EJECUTIVAS, COORDINACIONES Y UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL; DE TRANSPARENCIA; DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL; Y DE PERITOS JUDICIALES
 
 #### SECCIÓN SEGUNDA. DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA
 
@@ -1263,17 +1267,17 @@ DE LAS SECRETARÍAS EJECUTIVAS, COORDINACIONES Y UNIDADES PARA LA CONSOLIDACIÓN
 
 ###### Artículo 67.
 
-Al frente de la Secretaría General, de las secretarías ejecutivas; de las coordinaciones y de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual, estará una o un Titular, quien deberá tener experiencia profesional mínima de cinco años; contar con título profesional, expedido legalmente, relacionado con las funciones que deba desempeñar; gozar de buena reputación; y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
+Al frente de la Secretaría General, de las secretarías ejecutivas; de las coordinaciones y de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; de Prevención y Combate al Acoso Sexual; y de Peritos Judiciales, estará una o un Titular, quien deberá tener experiencia profesional mínima de cinco años; contar con título profesional, expedido legalmente, relacionado con las funciones que deba desempeñar; gozar de buena reputación; y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA, D.O.F. 29 DE MARZO DE 2019)</small>
 
 En el caso del Secretario General de la Presidencia, del Coordinador de Asesores, los Secretarios Ejecutivos del Pleno; de Adscripción; de Carrera Judicial; de Creación de Nuevos Órganos; y de Disciplina; y de los titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral, el título profesional deberá ser de Licenciado en Derecho.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
 ###### Artículo 68.
 
-Quien ocupe la titularidad de la Secretaría General de la Presidencia, las secretarías ejecutivas, las coordinaciones, y de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual, tendrán las siguientes atribuciones:
+Quien ocupe la titularidad de la Secretaría General de la Presidencia, las secretarías ejecutivas, las coordinaciones, y de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; de Prevención y Combate al Acoso Sexual; y de Peritos Judiciales, tendrán las siguientes atribuciones:
 
 I. Representar a la unidad administrativa que corresponda;
 
@@ -1329,11 +1333,11 @@ XVII. Definir, revisar y ser responsables de los contenidos e información, que 
 
 XVIII. Las demás que establezcan el Pleno y las Comisiones.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
 ###### Artículo 69.
 
-La Secretaría General, las secretarías ejecutivas, las coordinaciones y las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual, contarán con la estructura y el personal determinados por el Pleno con base en el presupuesto autorizado.
+La Secretaría General, las secretarías ejecutivas, las coordinaciones y las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; de Prevención y Combate al Acoso Sexual; y de Peritos Judiciales, contarán con la estructura y el personal determinados por el Pleno con base en el presupuesto autorizado.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
@@ -2121,7 +2125,7 @@ XXI. Las demás que establezcan el Pleno y las Comisiones.
 
 #### SECCIÓN SEXTA
 
-DE LAS UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL; DE TRANSPARENCIA; Y DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL
+DE LAS UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL; DE TRANSPARENCIA; DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL; Y DE PERITOS JUDICIALES
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
@@ -2251,7 +2255,7 @@ XVIII. Las demás que establezcan el Pleno y las Comisiones.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2412,6 +2416,44 @@ XIII. Desarrollar mecanismos, lineamientos o protocolos para detectar ambientes 
 XIV. Establecer mecanismos de interacción con las personas involucradas para solicitar información y allegarse de los elementos necesarios, para brindar la atención en términos de las fracciones anteriores; y
 
 XV. Las demás que establezcan el Pleno y las Comisiones.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
+
+###### Artículo 98 Nonies.
+
+La Unidad de Peritos Judiciales es un área técnica especializada en materia pericial. Su objeto es el auxilio a los órganos jurisdiccionales en materia laboral federal en los casos en que determine la Ley y le sea solicitado por los mismos.
+
+El titular de la Unidad de Peritos Judiciales será propuesto por el Presidente y designado por el Pleno.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
+
+###### Artículo 98 Decies.
+
+La persona titular de la Unidad de Peritos Judiciales tendrá las atribuciones siguientes:
+
+I. Elaborar y someter a consideración del Pleno del Consejo de la Judicatura Federal, las convocatorias para la celebración de concursos para la selección de peritos;
+
+II. Integrar el jurado de los concursos para la selección de peritos;
+
+III. Establecer los mecanismos, lineamientos y logística para la celebración de los concursos de selección;
+
+IV. Recibir y analizar las solicitudes de las y los aspirantes durante el plazo que determine la convocatoria, y verificar que sean ciudadanos mexicanos, gocen de buena reputación y conozcan la ciencia, arte u oficio sobre el que verse la convocatoria, conforme a lo previsto en el artículo 102 Ter 2, de la Ley;
+
+V. Designar al personal que otorgará el auxilio específico a los tribunales laborales federales, en términos de lo dispuesto en la normativa aplicable;
+
+VI. Emitir los criterios y lineamientos para la presentación y formulación de los dictámenes e informes periciales que se rindan ante los tribunales laborales federales;
+
+VII. Diseñar los mecanismos, procedimientos y programas de supervisión y seguimiento de las actividades que realicen los peritos adscritos a la Unidad; así como los mecanismos para realizar una evaluación anual, a efecto de determinar su continuidad;
+
+VIII. Supervisar la intervención de los peritos en las diversas especialidades;
+
+IX. Formular el Programa Anual de Trabajo de la unidad administrativa a su cargo y someterlo a la consideración de su superior jerárquico; y
+
+X. Las demás que establezcan el Pleno y las Comisiones.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
+
+Artículo 98 Undecies. De conformidad con lo dispuesto en el artículo 102 Ter 2 de la Ley, para ser perito de la Unidad de Peritos Judiciales se requiere poseer la ciudadanía mexicana, gozar de buena reputación, así como conocer la ciencia, arte u oficio sobre el que vaya a versar el peritaje y acreditar su pericia mediante examen que presentará ante un jurado que designe el Consejo, con la cooperación de instituciones públicas o privadas que a juicio del propio Consejo cuenten con la capacidad para ello. La decisión del jurado será irrecurrible.
 
 ### CAPÍTULO OCTAVO. DE LOS ÓRGANOS AUXILIARES DEL CONSEJO
 
@@ -3553,9 +3595,9 @@ VII. Representar al Consejo en los asuntos jurídicos que le encomiende el Pleno
 
 VIII. Formular denuncias o querellas y presentarlas ante la autoridad competente, en los casos en que, en términos de la fracción XI del artículo 81 de la Ley, se deba suspender en sus cargos a magistrados de Circuito y jueces de Distrito que aparecieren involucrados en la comisión de un delito, cuando así lo determine el Pleno;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
-IX. Intervenir, en representación del Consejo, las y los Consejeros, así como de sus órganos auxiliares y unidades administrativas, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, de la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual, en todas las controversias jurídicas en que sean parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercer acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público de la Federación cuando así proceda, interponer toda clase de recursos y desistirse de ellos y otorgar el perdón si procediere, previa autorización del Pleno; transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, promover juicio de amparo e interponer los recursos previstos por la ley de la materia; otorgar poderes para comparecer en controversias laborales; otorgar y revocar poderes generales y especiales, incluyendo los que requieran de cláusula o autorización especial y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan y salvaguarden los derechos del Consejo.
+IX. Intervenir, en representación del Consejo, las y los Consejeros, así como de sus órganos auxiliares y unidades administrativas, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, de la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; de Prevención y Combate al Acoso Sexual; y de Peritos Judiciales, en todas las controversias jurídicas en que sean parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercer acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público de la Federación cuando así proceda, interponer toda clase de recursos y desistirse de ellos y otorgar el perdón si procediere, previa autorización del Pleno; transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, promover juicio de amparo e interponer los recursos previstos por la ley de la materia; otorgar poderes para comparecer en controversias laborales; otorgar y revocar poderes generales y especiales, incluyendo los que requieran de cláusula o autorización especial y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan y salvaguarden los derechos del Consejo.
 
 La representación que se establece en esta fracción también se confiere a los secretarios técnicos adscritos a la Dirección General de Asuntos Jurídicos, en el ámbito de sus respectivas competencias, sin perjuicio de los mandatarios judiciales, delegados y autorizados, que para el efecto se designe conforme a la ley procesal de la materia;
 
@@ -3999,13 +4041,13 @@ XVIII. Elaborar las propuestas de prórroga de las plazas de adscripción tempor
 
 XIX. Autorizar en el ámbito de su competencia las sustituciones por maternidad y enfermedad, previa solicitud del titular del área administrativa u órgano jurisdiccional, o implementar el trámite correspondiente, verificando la existencia de recursos presupuestales disponibles y observando los criterios que emita la Comisión de Administración;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
-XX. Elaborar las propuestas de prórrogas de nombramiento que, por tiempo determinado o indefinido, soliciten los titulares de la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual, órganos auxiliares, y direcciones generales, respecto del personal a su cargo;
+XX. Elaborar las propuestas de prórrogas de nombramiento que, por tiempo determinado o indefinido, soliciten los titulares de la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; de Prevención y Combate al Acoso Sexual; y de Peritos Judiciales, órganos auxiliares, y direcciones generales, respecto del personal a su cargo;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
-XXI. Elaborar las propuestas para el otorgamiento de base al personal de apoyo adscrito a la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual, órganos auxiliares, y direcciones generales, a solicitud del titular de la adscripción del servidor público del que se trate, se tenga la plaza disponible en su plantilla autorizada, su desempeño haya resultado satisfactorio a juicio del propio titular, sin nota desfavorable en su expediente, y cuente con una antigüedad ininterrumpida de más de seis meses en el puesto;
+XXI. Elaborar las propuestas para el otorgamiento de base al personal de apoyo adscrito a la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; de Prevención y Combate al Acoso Sexual; y de Peritos Judiciales, órganos auxiliares, y direcciones generales, a solicitud del titular de la adscripción del servidor público del que se trate, se tenga la plaza disponible en su plantilla autorizada, su desempeño haya resultado satisfactorio a juicio del propio titular, sin nota desfavorable en su expediente, y cuente con una antigüedad ininterrumpida de más de seis meses en el puesto;
 
 XXII. Operar los cambios de rango salarial de las plazas de mandos medios; y homólogos que en su caso corresponde, a solicitud de los titulares de las áreas administrativas respectivas, previo cumplimiento de las disposiciones establecidas;
 
@@ -4531,9 +4573,9 @@ III. Entregar los asuntos que ingresen por su conducto a las diferentes áreas a
 
 IV. Enviar la documentación oficial dirigida al interior de la República al Servicio Postal Mexicano, o entregarla al Servicio de Mensajería que remitan las áreas del Edificio Sede;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
-V. Entregar documentación oficial en domicilios particulares y oficiales cuando así lo solicite el Pleno, las Comisiones, los Consejeros, la Secretaría General, las secretarías ejecutivas, la Coordinación de Seguridad del Poder Judicial de la Federación o las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual;
+V. Entregar documentación oficial en domicilios particulares y oficiales cuando así lo solicite el Pleno, las Comisiones, los Consejeros, la Secretaría General, las secretarías ejecutivas, la Coordinación de Seguridad del Poder Judicial de la Federación o las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; de Prevención y Combate al Acoso Sexual; y de Peritos Judiciales;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -5021,11 +5063,11 @@ Toda licencia deberá solicitarse por escrito ante el área administrativa corre
 
 La autorización de la licencia será por escrito, con copia dirigida a la Secretaría Ejecutiva de Administración.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
 ###### Artículo 231.
 
-Las licencias con o sin goce de sueldo, hasta por treinta días del Secretario General de la Presidencia, de los secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual, directores generales, y personal subalterno del Pleno, serán resueltas por el Presidente; en las que excedan de este término será el Pleno quien resuelva.
+Las licencias con o sin goce de sueldo, hasta por treinta días del Secretario General de la Presidencia, de los secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; de Prevención y Combate al Acoso Sexual; y de Peritos Judiciales, directores generales, y personal subalterno del Pleno, serán resueltas por el Presidente; en las que excedan de este término será el Pleno quien resuelva.
 
 ###### Artículo 232.
 
@@ -6354,3 +6396,21 @@ TERCERO. La Dirección General de Tecnologías de la Información, en coordinaci
 CUARTO. Los recursos de revisión administrativa ante el Pleno del Consejo de la Judicatura Federal interpuestos con posterioridad a la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, relativos al Poder Judicial de la Federación, se tramitarán conforme a lo dispuesto por el presente Acuerdo.
 
 QUINTO. Se instruye a la Dirección General de Innovación, Planeación y Desarrollo Institucional para que, en coordinación con la Secretaría Ejecutiva de Carrera Judicial, presente a la brevedad una propuesta de estructura temporal que auxilie a dicha área administrativa en el cumplimiento de las nuevas atribuciones que le confiere este Acuerdo.
+
+D.O.F. 31 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Unidad de Peritos Judiciales deberá convocar al primer concurso abierto para la selección de peritos y conformar el primer jurado respectivo, en el mes de julio de 2021.
+
+CUARTO. La Dirección General de Asuntos Jurídicos, en coordinación con la Unidad de Peritos Judiciales deberán presentar a consideración del Pleno del Consejo de la Judicatura Federal, las modificaciones normativas necesarias y los proyectos de acuerdos generales para regular la selección del personal especializado de la Unidad de Peritos Judiciales y el procedimiento para su designación en los tribunales laborales federales, dentro de los sesenta días naturales siguientes a la aprobación del presente Acuerdo.
+
+QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas que le están adscritas, llevará a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+SEXTO. La Dirección General de Innovación Planeación y Desarrollo Institucional, deberá realizar las acciones necesarias para incorporar dentro de los manuales correspondientes el puesto de Perito Judicial del Poder Judicial de la Federación con el nivel y remuneraciones que fije el presupuesto de egresos del Consejo de la Judicatura Federal.
+
+SÉPTIMO. En tanto se dé cumplimiento a lo dispuesto en el Transitorio Cuarto del presente Acuerdo se mantendrán vigentes la fracción XXIII del artículo 160 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reforma y adiciona el similar que reglamenta la organización y funcionamiento del propio Consejo, y el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la integración de la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación, por lo que la convocatoria a que se refiere el artículo Transitorio Tercero aplica exclusivamente para los peritos que podrán actuar ante los órganos jurisdiccionales Federales de materia Laboral.
