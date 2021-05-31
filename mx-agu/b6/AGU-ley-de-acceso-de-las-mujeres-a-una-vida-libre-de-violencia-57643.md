@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2020-12-21"
+last_updated: "2021-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 21 DE DICIEMBRE DE 2020 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 428 PUBLICADO EN EL P.O. DE 7 DE DICIEMBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -149,7 +147,9 @@ XXI. Todas aquellas que de alguna forma denigren la dignidad de la mujer.
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Ley: La Ley para el Acceso de las Mujeres a una Vida Libre de Violencia de Género para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+I. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes;
 
 II. Sistema: El Sistema Estatal para la Erradicación de la Violencia de Género contra las Mujeres;
 
@@ -159,13 +159,29 @@ III. Consejo: El Consejo Estatal para la Erradicación de la Violencia de Géner
 
 IV. Programa: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
 
-V. Perspectiva de Género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones; y
+V. Perspectiva de Género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
 
-VI. Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+VI. Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+
+VII. Persona agresora: Aquella que inflige cualquier tipo de violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+
+VIII. Derechos Humanos de las Mujeres: Derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todos (sic) las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer y demás instrumentos internacionales en la materia;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+
+IX. Empoderamiento de la Mujer: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, libertad, autodeterminación, autonomía y responsabilidad, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades; y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+
+X. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer.
 
 ###### Artículo 5°.
 
@@ -353,7 +369,7 @@ Los Refugios son espacios terapéuticos, secretos y temporales, en donde se podr
 
 ###### Artículo 21.
 
-La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos que persista su inestabilidad física, psicológica o su situación de riesgo. El personal médico, psicológico y jurídico evaluará, para tales efectos, su condición. En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
+La permanencia de las viíctimas en los refugios no podrá ser mayor a tres meses, a menos que persista su inestabilidad física, psicológica o su situación de riesgo. El personal médico, psicológico y jurídico evaluará, para tales efectos, su condición. En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
 ###### Artículo 22.
 
@@ -961,9 +977,33 @@ V. Establecer y difundir el servicio telefónico para denunciar casos de violenc
 
 VI. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
 
-VII. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
 
-VIII. Las demás que le asigne el Programa.
+VII. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2021)</small>
+
+VIII. Elaborar e implementar en coordinación con la Fiscalía General del Estado, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+
+IX. Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+
+X. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+
+XI. Diseñar políticas y programas para la prevención de delitos contra las mujeres y para fomentar entre la población la cultura del respeto a los derechos humanos de las mujeres;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+
+XII. Realizar, en coordinación con el Instituto Aguascalentense de las Mujeres, campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres; y
+
+> <small>(ADICIONADA [REFORMADA Y REUBICADA ANTES FRACCIÓN VIII], P.O. 31 DE MAYO DE 2021)</small>
+
+XIII. Las demás que le señalen las disposiciones legales aplicables y el programa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -1105,7 +1145,9 @@ II. Implementar un programa especial de asistencia social para mujeres víctimas
 
 III. Ejecutar campañas de prevención sobre violencia de género contra las mujeres, las que tendrán por objetivo que la sociedad perciba el fenómeno como un asunto de seguridad pública y de derechos humanos, y no como un problema familiar;
 
-IV. Impulsar procesos de capacitación sobre la violencia de género contra las mujeres para servidoras y servidores públicos del Sistema Estatal para el Desarrollo Integral de la Familia; así como para los comités municipales del mismo;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+IV. Impulsar procesos de capacitación sobre la violencia de género contra las mujeres, así como del empoderamiento de la mujer para servidoras y servidores públicos del Sistema Estatal para el Desarrollo Integral de la Familia; así como para los comités municipales del mismo;
 
 V. Apoyar la realización de proyectos de investigación en los municipios sobre temas relacionados con la violencia de género contra las mujeres;
 
@@ -1528,3 +1570,9 @@ P.O. 7 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO PRIMERO.
 
 El Presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 554 - SE REFORMAN LA (SIC) FRACCIONES I, V Y VI DEL ARTÍCULO 4°; LAS FRACCIONES VII Y VIII DEL ARTÍCULO 59, LA FRACCIÓN IV DEL ARTÍCULO 67 Y SE ADICIONAN LAS FRACCIONES VII, VIII, IX Y X AL ARTÍCULO 4°, LAS FRACCIONES IX, X, XI, XII Y XIII AL ARTÍCULO 59 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
