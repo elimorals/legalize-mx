@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2020-12-02"
+last_updated: "2021-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE DICIEMBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2021.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -193,6 +191,10 @@ II. Aparecer en la lista nominal de electores correspondiente a la sección elec
 
 III. Poseer la credencial para votar con fotografía correspondiente al listado nominal.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2021)</small>
+
+La ciudadana o el ciudadano que este privada o privado de la libertad y no le hayan dictado sentencia condenatoria, podrá votar en los procesos electorales y en cualquier mecanismo local de participación ciudadana organizados en el Estado de Hidalgo.
+
 ###### Artículo 6.
 
 Los derechos y obligaciones de los ciudadanos son:
@@ -245,7 +247,9 @@ El Instituto Estatal Electoral, el Tribunal Electoral del Estado de Hidalgo, los
 
 Son elegibles para ocupar los cargos de:
 
-I. Diputados al Congreso del Estado los ciudadanos que reúnan los requisitos que establece el artículo 31 de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+I. Diputada o Diputado al Congreso del Estado los ciudadanos que reúnan los requisitos que establece el artículo 31 de la Constitución Política del Estado;
 
 II. Gobernador del Estado, los ciudadanos que reúnan los requisitos que establece el artículo 63 de la Constitución Política del Estado; y
 
@@ -255,7 +259,9 @@ III. Elección popular de los Ayuntamientos, los ciudadanos que reúnan los requ
 
 Son inelegibles, los candidatos a:
 
-I. Diputados al Congreso del Estado, los ciudadanos que se encuentren en cualquiera de los casos previstos en el artículo 32 de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+I. Diputada o Diputado al Congreso del Estado, los ciudadanos que se encuentren en cualquiera de los casos previstos en el artículo 32 de la Constitución Política del Estado;
 
 II. Gobernador Constitucional del Estado, los ciudadanos que se encuentren en cualquiera de los casos previstos en el artículo 64 de la Constitución Política del Estado, párrafos tercero y cuarto incisos a y b; y
 
@@ -282,6 +288,18 @@ Los Consejeros Electorales, el Subprocurador de Asuntos Electorales, los integra
 ###### Artículo 10 Bis.
 
 Además de los requisitos de elegibilidad que se señalan en este capítulo, no deberán haber sido condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2021)</small>
+
+Así mismo, no estar condenada o condenado mediante sentencia ejecutoriada, por delito de acoso sexual o abuso sexual y/o delitos de violencia de género o violencia familiar.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2021)</small>
+
+Y, no ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien tramite el descuento correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2021)</small>
+
+Para los efectos de este artículo, el órgano electoral competente emitirá los formatos correspondientes.
 
 ## TÍTULO TERCERO. DE LA ELECCIÓN (SIC) DIPUTADOS, DEL GOBERNADOR Y AYUNTAMIENTOS
 
@@ -503,6 +521,10 @@ XII. Abstenerse de limitar, condicionar, excluir, impedir o anular la pretensió
 
 XIII. Garantizar en igualdad de condiciones la participación de mujeres y hombres en sus órganos internos de dirección y espacios de toma de decisiones;
 
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+
+XIII Bis. Distribuir, de manera paritaria y equitativa, todas las prerrogativas a que tienen derecho los partidos políticos conforme al presente Código;
+
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
 
 XIV. Abstenerse en su propaganda política o electoral, de cualquier expresión que denigre, discrimine o calumnie a las personas, y que constituya violencia política por razón de género;
@@ -561,7 +583,9 @@ VI. La emisión de los reglamentos internos y acuerdos de carácter general que 
 
 No podrán actuar como Representantes de los partidos ante los órganos electorales del Instituto, quienes se encuentren en los siguientes supuestos:
 
-I. Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los Poderes Ejecutivo y Judicial de la Federación y del Estado, así como de los Ayuntamientos, excepto en el caso de que se trate de los ramos de la docencia o de la beneficencia;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+I. Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los Poderes Ejecutivo y Judicial de la Federación y del Estado, así como de los Ayuntamientos, Concejos Municipales o en la administración pública municipal, tanto centralizada como de organismos descentralizados, excepto en el caso de que se trate de los ramos de la docencia o de la beneficencia;
 
 II. Los miembros en servicio activo de las fuerzas armadas, de la policía federal, estatal o municipal;
 
@@ -641,7 +665,9 @@ c. Para la elección de los integrantes de los Ayuntamientos, a cada partido pol
 
 El financiamiento de campaña para cada elección se otorgará independientemente que concurran dos o más elecciones locales en el mismo año.
 
-El financiamiento de campaña será administrado en su totalidad por los partidos políticos; estableciendo el prorrateo conforme lo previsto en este Código; teniendo que informarlas (sic) a la Unidad de Fiscalización del Instituto Nacional Electoral diez días antes del inicio de la campaña electoral, la cual lo hará del conocimiento de su Consejo General en la siguiente sesión, sin que dichos porcentajes de prorrateo puedan ser modificados.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
+
+El financiamiento de campaña será administrado en su totalidad por los partidos políticos; su distribución deberá hacerse de manera paritaria y equitativa entre sus candidatas y candidatos que encabecen las fórmulas o planillas; estableciendo el prorrateo conforme lo previsto en este Código; teniendo que informarlas a la Unidad de Fiscalización del Instituto Nacional Electoral diez días antes del inicio de la campaña electoral, la cual lo hará del conocimiento de su Consejo General en la siguiente sesión, sin que dichos porcentajes de prorrateo puedan ser modificados.
 
 (NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE DEROGA LA FRACCIÓN III DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -2109,7 +2135,13 @@ XV. Sesionar el día de la jornada electoral, de manera permanente, a partir de 
 
 XVI. Recibir hasta antes del inicio del cómputo municipal los escritos de protesta;
 
-XVII. Designar al personal encargado de operar el centro de captura del Programa de Resultados Preliminares y de la digitalización de las Actas de la Jornada Electoral; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+XVII. Designar al personal encargado de operar el centro de captura del Programa de Resultados Preliminares y de la digitalización de las Actas de la Jornada Electoral;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+
+XVII Bis. Canalizar las quejas de la ciudadanía y los actores del proceso electoral a los órganos competentes; y
 
 XVIII. Las demás que le confiera este Código, el pleno del Consejo General y otras disposiciones legales.
 
@@ -2355,7 +2387,9 @@ Las candidaturas para Diputados serán registradas por fórmulas y las de Ayunta
 
 En la totalidad de las solicitudes de registro de las candidaturas a Diputados, que se presenten, se deberá garantizar la paridad de género.
 
-Las listas de representación proporcional para Diputados se integrarán por candidaturas de género distinto, alternadamente. Las candidaturas deberán integrarse por fórmulas de propietarios y suplentes del mismo género.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
+
+Las listas de representación proporcional para Diputados se integrarán por candidaturas de género distinto, alternadamente. Las candidaturas deberán integrarse por fórmulas de propietarios y suplentes del mismo género, salvo que, a solicitud del partido político o candidatura independiente, la suplencia recaiga en una mujer cuando el propietario sea hombre.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2365,7 +2399,9 @@ Las planillas para Ayuntamientos serán integradas por candidatos a Presidente M
 
 De la totalidad de las solicitudes de registro de planillas para Ayuntamientos que los partidos políticos presenten, el 50% deberá estar encabezada (sic) por mujeres y el otro 50% por hombres.
 
-Toda planilla que se registre, se integrará por un propietario y un suplente del mismo género, atendiendo siempre la paridad de género, por consiguiente se alternarán las fórmulas de distinto género hasta agotar la lista correspondiente.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
+
+Toda planilla que se registre, se integrará por un propietario y un suplente del mismo género, atendiendo siempre la paridad de género, salvo que, a solicitud del partido político o candidatura independiente, la suplencia recaiga en una mujer cuando el propietario sea hombre; por consiguiente, se alternarán las fórmulas de distinto género hasta agotar la lista correspondiente.
 
 > <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
@@ -6396,3 +6432,15 @@ P.O. 2 DE DICIEMBRE DE 2020.
 > <small>(F. DE E., P.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ÚNICO. El presente decreto entrará en vigor, concluido el proceso de renovación de Ayuntamientos 2020, previa publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 714 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, concluidos los procesos electorales del año 2020-2021, previa publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
