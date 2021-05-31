@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-regula-las-actividades-de-los-agentes-inmobiliarios-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2016-11-07"
+last_updated: "2021-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY QUE REGULA LAS ACTIVIDADES DE LOS AGENTES INMOBILIARIOS EN EL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL 17 DE ENERO DE 2017.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY QUE REGULA LAS ACTIVIDADES DE LOS AGENTES INMOBILIARIOS EN EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial, el lunes 7 de noviembre del año 2016.
 
@@ -77,13 +77,53 @@ La presente Ley no es aplicable a las personas físicas que lleven a cabo Operac
 
 En lo no previsto por el presente ordenamiento serán de aplicación supletoria las disposiciones contenidas en el Código Civil del Estado de Aguascalientes y en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
-### CAPÍTULO II. Ética de los Agentes Inmobiliarios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2021)</small>
+
+### CAPÍTULO II. Ética y Principios de los Agentes Inmobiliarios
 
 ###### ARTÍCULO 5°.
 
 Los agentes inmobiliarios deberán conducirse con ética, apego a la verdad y honestidad en todo acto o hecho vinculado a las Operaciones Inmobiliarias, independientemente del carácter o calidad con la que se ostenten desde el principio y hasta la conclusión de la operación inmobiliaria, evitando los hechos o conductas que pudieran desacreditar la actividad.
 
 Los agentes inmobiliarios podrán llevar a cabo Operaciones Inmobiliarias, a cambio de una remuneración.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2021)</small>
+
+ARTÍCULO 5 A.- Todo agente Inmobiliario al momento de prestar sus servicios deberá basar su actuación en los siguientes principios:
+
+I.- Celeridad: Es actuar con rapidez y velocidad. Se traduce en la capacidad de agilizar los procesos, conforme a la ley, evitando su retraso o demora indebidas, a fin de lograr que se brinde un servicio adecuado, con prontitud y de manera expedita;
+
+II.- Competencia: Es el conjunto de conocimientos y capacidades de una persona que la acreditan para el correcto y adecuado desempeño del cargo, calificándolo como idónea;
+
+III.- Diligencia: Consiste en que se conduzcan en todos sus actos con el cuidado debido y principalmente que brinden un servicio de calidad;
+
+IV.- Eficacia: Es la exigencia de aplicarse debidamente para el cumplimiento de la ley y brindar un servicio, obteniéndose los mejores efectos de la actuación tanto para el agente inmobiliario como para el cliente;
+
+V.- Eficiencia: Es el aprovechamiento y utilización correcta de los recursos materiales y humanos de que dispone, dedicándolos exclusivamente al fin para el que se le proporcionan:
+
+VI.- Excelencia profesional: Es la actuación con una calidad, superior que sobresale en mérito y que va más allá de lo ordinario o normalmente exigido en la actuación. El ejercicio de la profesión con relevante capacidad y aplicación;
+
+VII.- Honestidad: Observa un comportamiento probo, recto y honrado;
+
+VIII.- Honradez: Es la buena fama pública que califica el agente Inmobiliario como una persona honorable;
+
+IX.- Humanismo económico: Impulsar una economía eficiente y moderna, equitativa en la distribución de oportunidades, responsabilidades y beneficios, sustentada en el trabajo libre, respetuoso de la dignidad humana y del medio ambiente, que tenga raíz en la libertad y en la iniciativa de las personas;
+
+X.- Laboriosidad: Cumple diligentemente sus obligaciones hacia el cliente;
+
+XI.- Legalidad: Es la conformidad y sujeción estricta de las conductas y decisiones a lo ordenado por la ley;
+
+XII.- Orden: Mantiene la adecuada organización y planificación en el trabajo a su cargo;
+
+XIII.- Profesionalismo: Es la disposición para ejercer de manera responsable y sería el servicio al que se dedica, con relevante capacidad y aplicación;
+
+XIV.- Respeto: Se abstiene de lesionar los derechos y dignidad de los demás;
+
+XV.- Responsabilidad social: es una entidad ética, comprometida y sostenible, pues genera una huella positiva a nivel social, medioambiental y económico en la comunidad;
+
+XVI.- Responsabilidad: Asume plenamente las consecuencias de sus actos, resultado de las decisiones que tome, procurando que sus subordinados hagan lo mismo; y
+
+XVII.- Veracidad: Es la cualidad que supone la sujeción y uso de la verdad.
 
 ###### ARTÍCULO 6°.
 
@@ -424,3 +464,11 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 3 de noviembre de 2016.- Carlos Lozano de la Torre.- Rúbrica.- Lic. Alejandro Bernal Rubalcava, en suplencia del Secretario General de Gobierno por ministerio de Ley. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 555.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II Y SE ADICIONAN (SIC) UN ARTÍCULO 5 A DE LA LEY QUE REGULA LAS ACTIVIDADES DE LOS AGENTES INMOBILIARIOS EN EL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO. - El presente decreto inciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
