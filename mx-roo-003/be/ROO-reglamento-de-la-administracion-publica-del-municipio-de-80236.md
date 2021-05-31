@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-la-administracion-publica-del-municipio-de-80236"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-23"
-last_updated: "2020-01-16"
+last_updated: "2021-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE ISLA MUJERES, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2021.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 23 de febrero de 2011.
 
@@ -1633,13 +1633,71 @@ XVII. Programar, promover y difundir los programas y estrategias de conservació
 
 XVIII. Los demás que le encomiende el Presidente Municipal y el Director General.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE MAYO DE 2021, PAGINAS 27 Y 28.]</small>
 
-#### Sección Tercera. Dirección de Parques y Jardines
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+#### Sección Tercera. Dirección de Bacheo, Parques y Jardines
 
-Artículo 51 SEXIES.- Corresponde a la Dirección de Parques y Jardines lo siguiente:
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE MAYO DE 2021, PÁGINAS 27 Y 28.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2021)</small>
+
+Artículo. 51 SEXTIES.- A la Dirección General de Servicios Públicos le corresponde planear, operar, ejecutar, supervisar y dirigir el buen funcionamiento y la eficiente prestación de los servicios públicos de alumbrado, conservación de pavimentos, rastros, para el ejercicio de sus atribuciones tendrá a su cargo el despacho de los siguientes asuntos:
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+I. Administrar, operar, mantener, reparar y supervisar la prestación de la atención a los servicios públicos municipales de riego, poda, limpieza, siembra, retiro de escombros, nivelación de áreas, aplicación de fertilizantes, herbicidas en parques, jardines, camellones, avenidas, calles y campos deportivos y todo lo relacionado al saneamiento ambiental en el Municipio de Isla Mujeres;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Coadyuvar con las dependencias competentes, en las labores de vigilancia, a fin de que los particulares cumplan con lo establecido en los reglamentos y disposiciones administrativas que regulan la prestación del servicio público de recolección, transporte, tratamiento y disposición final de los residuos sólidos, conservación de la imagen municipal y saneamiento ambiental en el Municipio; e intervenir en los procedimientos de sanción que correspondan en caso de trasgresiones al Reglamento respectivo;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Conservar en buen estado las instalaciones destinadas al funcionamiento de los servicios de imagen urbana municipal que le corresponden;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV. Revisar los programas tendientes a difundir entre la población la necesidad de contribuir con la administración pública municipal, y participar en la correcta realización y conservación de los servicios públicos municipales en materia de imagen y saneamiento ambiental que le correspondan;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+V. Vigilar que se preste en forma regular y continua los servicios de atención a la imagen municipal y de saneamiento ambiental, para garantizar la seguridad, comodidad y salubridad de los mismos;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VI. Conservar en buen estado la infraestructura inmobiliaria, equipo de cómputo y mobiliario destinado al funcionamiento y operación a su cargo, así como llevar el inventario y registro de los m ismos;(sic)
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VII. Establecer, mejorar, mantener, reparar y administrar los servicios de imagen municipal, en especial el cuidado de campos deportivos, jardineras, ornatos en plazas, parques, camellones y avenidas y la conservación del saneamiento ambiental en todo el Municipio procurando su funcionamiento en forma regular y continua;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VIII. En coordinación con la Tesorería Municipal, realizar estudios que tengan por objeto fijar o rectificar las tarifas relacionadas con los servicios públicos a su cargo;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IX. Cuidar, conservar, reparar y mantener en buen estado los vehículos, maquinaria pesada, equipos e implementos de trabajo, destinados a la prestación de los servicios relacionados con los mismos;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+X. Apoyar a las áreas de mantenimiento y limpieza urbana cuando éstas así lo soliciten; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XI. Dar seguimiento y solución a las quejas que se interpongan en relación con los servicios que le corresponden.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2021)</small>
+
+Para el despacho de los asuntos que competen a la Dirección General de Servicios Públicos, contará con la Subdirección General de Servicios Públicos en la Zona Continental y se auxiliarán en la (sic) Direcciones de Alumbrado Público, Recolección y Transferencia de Residuos Sólidos y de Bacheo Parques y Jardines, así como en las demás Unidades Administrativas que requiera para su desempeño.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE MAYO DE 2021, PÁGINA 28.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE MAYO DE 2021)</small>
+
+Articulo 51 NOVIES. (SIC) Corresponde a la Dirección de Bacheo Parques y Jardines lo siguiente:
 
 I. Administrar, operar, mantener, reparar y supervisar la prestación de la atención a los servicios públicos municipales de riego, poda, limpieza, siembra, retiro de escombros, nivelación de áreas, aplicación de fertilizantes, herbicidas en parques, jardines, camellones, avenidas, calles y campos deportivos y todo lo relacionado al saneamiento ambiental en el Municipio de Isla Mujeres;
 
@@ -1651,7 +1709,7 @@ IV. Revisar los programas tendientes a difundir entre la población la necesidad
 
 V. Vigilar que se preste en forma regular y continua los servicios de atención a la imagen municipal y de saneamiento ambiental, para garantizar la seguridad, comodidad y salubridad de los mismos;
 
-VI. Conservar en buen estado la infraestructura inmobiliaria, equipo de cómputo y mobiliario destinado al funcionamiento y operación a su cargo, así como llevar el inventario y registro de los m ismos;(sic)
+VI. Conservar en buen estado la infraestructura inmobiliaria, equipo de cómputo y mobiliario destinado al funcionamiento y operación a su cargo, así como llevar el inventario y registro de los mismos;
 
 VII. Establecer, mejorar, mantener, reparar y administrar los servicios de imagen municipal, en especial el cuidado de campos deportivos, jardineras, ornatos en plazas, parques, camellones y avenidas y la conservación del saneamiento ambiental en todo el Municipio procurando su funcionamiento en forma regular y continua;
 
@@ -1659,9 +1717,13 @@ VIII. En coordinación con la Tesorería Municipal, realizar estudios que tengan
 
 IX. Cuidar, conservar, reparar y mantener en buen estado los vehículos, maquinaria pesada, equipos e implementos de trabajo, destinados a la prestación de los servicios relacionados con los mismos;
 
-X. Apoyar a las áreas de mantenimiento y limpieza urbana cuando éstas así lo soliciten; y
+X. Apoyar a las áreas de mantenimiento y limpieza urbana cuando éstas así lo soliciten;
 
-XI. Dar seguimiento y solución a las quejas que se interpongan en relación con los servicios que le corresponden.
+XI. Planear y proyectar los trabajos de bacheo en vialidades urbanizadas y debidamente municipalizadas;
+
+XII. Dar mantenimiento de las vialidades municipales, mediante programas permanentes de bacheo y repavimentación de las mismas, en concordancia con la Dirección de Obras Públicas, la cual será la encargada de la construcción de las vialidades en el Municipio; y
+
+XIII. Dar seguimiento y solución a las quejas que se interpongan en relación con los servicios que le corresponden.
 
 ### CAPÍTULO VII. LA DIRECCIÓN GENERAL DE DESARROLLO URBANO Y MEDIO AMBIENTE
 
@@ -1791,15 +1853,15 @@ XIX. Elaborar informes semestrales sobre sus actividades y sobre el estado que g
 
 XX. Las demás que le señalen como de su competencia el Presidente Municipal, los acuerdos de Ayuntamiento y las leyes y reglamentos vigentes.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2021)</small>
 
-### CAPÍTULO VIII. LA DIRECCIÓN GENERAL DE DESARROLLO ECONÓMICO
+### CAPÍTULO VIII. LA DIRECCIÓN GENERAL DE DESARROLLO ECONÓMICO Y SOCIAL
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
 
 ###### Artículo 56.
 
-La Dirección General de Desarrollo Económico es la dependencia responsable de promover, gestionar e impulsar el desarrollo económico del Municipio en todos los órdenes, contando para ello con las siguientes atribuciones:
+·La Dirección General de Desarrollo Económico y Social es la dependencia responsable de promover, gestionar e impulsar el desarrollo económico y social del Municipio en todos los órdenes, contando para ello con las siguientes atribuciones:
 
 I. Conformar y presidir en nombre del Presidente Municipal, el Comité Municipal de Comercio, como órgano consultivo de participación ciudadana;
 
@@ -1813,29 +1875,69 @@ V. Dar seguimiento a la operación del Comité Municipal del Comercio, como un �
 
 VI. Realizar acciones que modifiquen los procesos y procedimientos que realiza la autoridad municipal para dar un adecuado registro, vigilancia y seguimiento a las actividades de los particulares que estén sujetos a regulación; buscando una reingeniería en los procesos municipales a través de una evaluación de satisfacción del cliente;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2019)</small>
-
-VII. Establecer y dar seguimiento al sistema de apertura rápida de empresas, buscando eliminar las barreras administrativas en el interior del Municipio y en su caso, entre los diferentes ámbitos de gobierno, con la finalidad de reducir el tiempo y esfuerzo que los ciudadanos tienen que invertir para encontrar y obtener los servicios que requieren, así como coordinando la administración de los centros comunitarios del Municipio.
+VII. Establecer y dar seguimiento al sistema de apertura rápida de empresas, buscando eliminar las barreras administrativas en el interior del Municipio y en su caso, entre los diferentes ámbitos de gobierno, con la finalidad de reducir el tiempo y esfuerzo que los ciudadanos tienen que invertir para encontrar y obtener los servicios que requieren, así como coordinando la administración de los centros comunitarios del Municipio;
 
 VIII. Dar seguimiento a los convenios de colaboración que el Municipio celebre entre los Gobiernos Federal y Estatal, o con los organismos públicos o privados, siempre y cuando sean de su competencia y tengan relación con la mejora regulatoria del municipio;
 
-IX. Acudir en representación del Municipio a los eventos públicos y privados, que se realicen en materia de Mejora Regulatoria dentro o fuera del Municipio, cuando se solicite la participación del Ayuntamiento siempre y cuando así se lo indique su superior jerárquico;
+IX. Acudir en representación del Municipio a los eventos públicos y privados, que se realicen en materia de Mejora Regulatoria dentro o fuera del Municipio, cuando se solicite la participación del Ayuntamiento, siempre y cuando así se lo indique su superior jerárquico;
 
 X. Elaborar su programa operativo anual, debidamente proyectado conforme al Plan Municipal de Desarrollo, a más tardar el 30 de octubre de cada año para el ejercicio siguiente;
 
-XI. Las demás que le confieran las leyes, decretos, reglamentos, acuerdos o convenios, o le atribuya directamente el Presidente Municipal;
+XI. Formular, conducir y evaluar la política general de desarrollo social en el Municipio, a través de mecanismos para el mejoramiento de las condiciones de vida de la población mediante la incorporación plena de los individuos, grupos y sectores de la sociedad, comunidades y regiones al desenvolvimiento integral y sustentable de sus capacidades productivas y su calidad de vida, así como la creación de oportunidades sociales, la erradicación de la desigualdad, la exclusión e inequidad social entre los individuos y grupos;
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2019)</small>
+XII. Coordinar los servicios de desarrollo social, tales como educación, cultura, salud y desarrollo humano a cargo del Municipio, con la intervención que le corresponda al Sistema Municipal para el Desarrollo Integral de la Familia en materia de asistencia social;
+
+XIII. Proyectar y coordinar, con la participación que corresponda a la ciudadanía y organismos competentes, la planeación del desarrollo social en concordancia con los planes y programas de la entidad y la Federación;
+
+XIV. Coordinarse con las dependencias y entidades federales y estatales en la aplicación de los programas sociales, para el combate a la pobreza y atención a grupos vulnerables;
+
+XV. Fomentar y apoyar la participación organizada de la ciudadanía en el desarrollo social a través de los órganos, consejos, comités y demás instancias previstas en las leyes del Estado y en las disposiciones del propio Municipio;
+
+XVI. Informar a la sociedad sobre las acciones en torno al desarrollo social, por conducto de las instancias o medios que determine el Presidente Municipal o se prevean en las disposiciones legales respectivas;
+
+XVII. Proponer al Presidente Municipal normas en materia de desarrollo social, tomando en cuenta las particularidades del Municipio y las disposiciones de la legislación federal y estatal en la materia;
+
+XVIII. Promover la celebración de convenios o acuerdos de coordinación con las dependencias o entidades de la Federación o del Estado, así como con organizaciones civiles y privadas, para la instrumentación de los programas relacionados con el desarrollo social;
+
+XIX. Representar al Ayuntamiento ante las dependencias federales y estatales encargadas de los programas de combate a la pobreza;
+
+XX. Dirigir y controlar las acciones municipales tendientes a la promoción de capacidades laborales y productivas a través de talleres y cursos;
+
+XXI. Elaborar estudios, planes y proyectos orientados al mejoramiento de la calidad de vida de la población;
+
+XXII. Participar en el Comité de Planeación y Desarrollo Municipal en el ámbito de su competencia y fomentar que los órganos de participación y colaboración ciudadana, lo hagan;
+
+XXIII. Coordinar la vinculación interinstitucional del Ayuntamiento con las dependencias estatales y federales encargadas de programas sociales y de combate a la pobreza, representando a la Administración Pública Municipal en las instancias de coordinación respectivas;
+
+XXIV. Auxiliar al Presidente Municipal en la participación de los comités de salud pública que funcionen en el Municipio;
+
+XXV. Coordinar y supervisar el seguimiento de los planes, programas y obras de salud pública en el Municipio;
+
+XXVI. Administrar y operar las clínicas municipales;
+
+XXVII. Ejercer las funciones que en materia sanitaria le correspondan al Ayuntamiento, las cuales estarán determinadas por los convenios que se celebren con la Federación, el Gobierno del Estado y por lo que dispongan los ordenamientos en la materia;
+
+XXVIII. Organizar, con sujeción a las disposiciones legales aplicables y en coordinación con las instituciones de salud, las autoridades educativas y de otros sectores, los comités de salud a que se refiere la Ley de Salud de la entidad y que se cumplan los fines para los que sean creados;
+
+XXIX. Colaborar con las autoridades estatales y federales en la definición y ejecución de programas educativos y culturales en el Municipio;
+
+XXX. Proponer al Presidente Municipal, a los ciudadanos y vecinos del Municipio que puedan ser considerados para formar el Consejo Consultivo previsto en la Ley de los Municipios;
+
+XXXI. Brindar apoyo a casas comunitarias con perfiles que se orienten a desarrollar una actividad productiva por cuenta propia ligada a un proyecto productivo sustentado e integrado;
+
+XXXII. Las demás que le confieran las leyes, decretos, reglamentos, acuerdos o convenios, o le atribuya directamente el Presidente Municipal;
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
 
 ###### Artículo 57.
 
-Para el despacho de los asuntos que competen a la Dirección General de Desarrollo Económico, se auxiliará en la Dirección de Promoción Pesquera y la Dirección de Desarrollo Empresarial y Productividad y las Coordinaciones Administrativas de los Centros de Desarrollo Comunitario en Zona insular y Zona Continental, así como en las demás unidades Administrativas que requiera para su desempeño.
+Para el despacho de los asuntos que competen a la Dirección General de Desarrollo Económico, se auxiliará en la Dirección de Promoción Pesquera y la Dirección de Desarrollo Empresarial y Productividad, Dirección de Salud, la Dirección de Educación, la Dirección de Participación Ciudadana y las Coordinaciones Administrativas de los Centros de Desarrollo Comunitario en Zona insular y Zona Continental, así como en las demás unidades Administrativas que requiera para su desempeño.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+(REPUBLICADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2021)
 
 #### Sección Primera. Dirección de Promoción Pesquera
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+(REPUBLICADO, P.O. 31 DE MAYO DE 2021)
 
 ###### Artículo 58.
 
@@ -1853,11 +1955,11 @@ V. Fomentar las actividades pesqueras en el Municipio;
 
 VI. Las demás que le asigne el Presidente Municipal.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+(REPUBLICADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2021)
 
 #### Sección Segunda. Dirección de Desarrollo Empresarial y Productividad
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+(REPUBLICADO, P.O. 31 DE MAYO DE 2021)
 
 ###### Artículo 59.
 
@@ -1905,7 +2007,7 @@ V. Las demás encomiendas que el Director General de Desarrollo Económico le co
 
 ###### Artículo 61.
 
-(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2016)
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2016) (REPUBLICADA SU DEROGACIÓN, P.O. 31 DE MAYO DE 2021)
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -1913,67 +2015,17 @@ V. Las demás encomiendas que el Director General de Desarrollo Económico le co
 
 LA DIRECCIÓN GENERAL DE DESARROLLO SOCIAL.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+Artículo 61 BIS. (DEROGADO, P.O. 31 DE MAYO DE 2021)
 
-Artículo 61 BIS.- Son facultades y obligaciones del titular de la Dirección General de Desarrollo Social las siguientes:
+Artículo 61 TER. (DEROGADO, P.O. 31 DE MAYO DE 2021)
 
-I. Formular, conducir y evaluar la política general de desarrollo social en el Municipio, a través de mecanismos para el mejoramiento de las condiciones de vida de la población mediante la incorporación plena de los individuos, grupos y sectores de la sociedad, comunidades y regiones al desenvolvimiento integral y sustentable de sus capacidades productivas y su calidad de vida, así como la creación de oportunidades sociales, la erradicación de la desigualdad, la exclusión e inequidad social entre los individuos y grupos;
+> <small>(ADICIONADA [N. DE E. REFORMADO SU NUMERAL ANTES SECCIÓN PRIMERA], P.O. 31 DE MAYO DE 2021)</small>
 
-II. Coordinar los servicios de desarrollo social, tales como educación, cultura, salud y desarrollo humano a cargo del Municipio, con la intervención que le corresponda al Sistema Municipal para el Desarrollo Integral de la Familia en materia de asistencia social;
+#### Sección Cuarta (SIC). Dirección de Salud
 
-III. Proyectar y coordinar, con la participación que corresponda a la ciudadanía y organismos competentes, la planeación del desarrollo social en concordancia con los planes y programas de la entidad y la Federación;
+(REPUBLICADO, P.O. 31 DE MAYO DE 2021)
 
-IV. Coordinarse con las dependencias y entidades federales y estatales en la aplicación de los programas sociales, para el combate a la pobreza y atención a grupos vulnerables;
-
-V. Fomentar y apoyar la participación organizada de la ciudadanía en el desarrollo social a través de los órganos, consejos, comités y demás instancias previstas en las leyes del Estado y en las disposiciones del propio Municipio;
-
-VI. Informar a la sociedad sobre las acciones en torno al desarrollo social, por conducto de las instancias o medios que determine el Presidente Municipal o se prevean en las disposiciones legales respectivas;
-
-VII. Proponer al Presidente Municipal normas en materia de desarrollo social, tomando en cuenta las particularidades del Municipio y las disposiciones de la legislación federal y estatal en la materia;
-
-VIII. Promover la celebración de convenios o acuerdos de coordinación con las dependencias o entidades de la Federación o del Estado, así como con organizaciones civiles y privadas, para la instrumentación de los programas relacionados con el desarrollo social;
-
-IX. Representar al Ayuntamiento ante las dependencias federales y estatales encargadas de los programas de combate a la pobreza;
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2019)</small>
-
-X. Dirigir y controlar las acciones municipales tendientes a la promoción de capacidades laborales y productivas a través de talleres y cursos.
-
-XI. Elaborar estudios, planes y proyectos orientados al mejoramiento de la calidad de vida de la población;
-
-XII. Participar en el Comité de Planeación y Desarrollo Municipal en el ámbito de su competencia y fomentar que los órganos de participación y colaboración ciudadana, lo hagan;
-
-XIII. Coordinar la vinculación interinstitucional del Ayuntamiento con las dependencias estatales y federales encargadas de programas sociales y de combate a la pobreza, representando a la Administración Pública Municipal en las instancias de coordinación respectivas;
-
-XIV. Auxiliar al Presidente Municipal en la participación de los comités de salud pública que funcionen en el Municipio;
-
-XV. Coordinar y supervisar el seguimiento de los planes, programas y obras de salud pública en el Municipio;
-
-XVI. Administrar y operar las clínicas municipales;
-
-XVII. Ejercer las funciones que en materia sanitaria le correspondan al Ayuntamiento, las cuales estarán determinadas por los convenios que se celebren con la Federación, el Gobierno del Estado y por lo que dispongan los ordenamientos en la materia;
-
-XVIII. Organizar, con sujeción a las disposiciones legales aplicables y en coordinación con las instituciones de salud, las autoridades educativas y de otros sectores, los comités de salud a que se refiere la Ley de Salud de la entidad y que se cumplan los fines para los que sean creados;
-
-XIX. Colaborar con las autoridades estatales y federales en la definición y ejecución de programas educativos y culturales en el Municipio;
-
-XX. Proponer al Presidente Municipal, a los ciudadanos y vecinos del Municipio que puedan ser considerados para formar el Consejo Consultivo previsto en la Ley de los Municipios;
-
-XXI. Brindar apoyo a casas comunitarias con perfiles que se orienten a desarrollar una actividad productiva por cuenta propia ligada a un proyecto productivo sustentado e integrado; y
-
-XXII. Las demás facultades que le confiera el Presidente Municipal.
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-Artículo 61 TER.- Para el despacho de los asuntos que competen a la Dirección General de Desarrollo Social, se auxiliará en la Dirección de Salud, la Dirección de Educación y la Dirección de Participación Ciudadana, así como en las demás unidades Administrativas que requiera para su desempeño.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-#### Sección Primera. Dirección de Salud
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-Artículo 61 QUATER.- A La Dirección de Salud le corresponden las siguientes funciones y obligaciones:
+Artículo 61 QUATER.- A la Dirección de Salud le corresponden las siguientes funciones y obligaciones:
 
 I. Trabajar en forma coordinada con los Organismos Públicos de Salud de los diferentes niveles de Gobierno para garantizar la salud a los habitantes del municipio.
 
@@ -1991,13 +2043,13 @@ VII. Coadyuvar en la elaboración de políticas públicas municipales en materia
 
 VIII. Las demás que le señalen como de su competencia el Presidente Municipal, los acuerdos de Ayuntamiento, las leyes y los reglamentos vigentes.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADO SU NUMERAL ANTES SECCIÓN SEGUNDA], P.O. 31 DE MAYO DE 2021)</small>
 
-#### Sección Segunda. Dirección de Educación
+#### Sección Quinta. Dirección de Educación
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+(REPUBLICADO, P.O. 31 DE MAYO DE 2021)
 
-Artículo 61 QUINQUIES.- Son facultades y obligaciones del titular de la Dirección de Educación las siguientes:
+Artículo 61 QUINQUIES Son facultades y obligaciones del titular de la Dirección de Educación las siguientes:
 
 I. Colaborar con las autoridades estatales y federales en la definición y ejecución de programas educativos en el Municipio;
 
@@ -2023,11 +2075,11 @@ XI. Administrar las bibliotecas del Municipio; y
 
 XII. Las demás facultades que le confiera el Director General.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADO SU NUMERAL ANTES SECCIÓN TERCERA], P.O. 31 DE MAYO DE 2021)</small>
 
-#### Sección Tercera. Dirección de Participación Ciudadana
+#### Sección Sexta. Dirección de Participación Ciudadana
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+(REPUBLICADO, P.O. 31 DE MAYO DE 2021)
 
 Artículo 61 SIXIES.- (SIC) Son facultades y obligaciones del titular de la Dirección de Participación Ciudadana las siguientes:
 
@@ -2642,3 +2694,9 @@ P.O. 16 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE ISLA MUJERES, QUINTANA ROO, APROBADO EN LA VIGÉSIMA NOVENA SESIÓN ORDINARIA, CELEBRADA EL DÍA 23 DE OCTUBRE DEL 2019.]
 
 Único. Las presentes, reformas y adiciones, artículo 39, se adiciona al Título II la Sección Tercera del Capítulo IV, se adiciona el artículo 41 BIS, se reforma el artículo 53, se reforma el Capítulo VIII TER del Título II, se reforma el artículo 61 SEPTIES, se reforma el artículo 61 OCTIES, entraran en vigor al día siguiente de su publicación.
+
+P.O. 31 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “MUNICIPIO DE ISLA MUJERES. ACUERDO MEDIANTE EL CUAL SE REFORMA EL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA”.]
+
+Único La presente, reforma al Reglamento de la Administración Pública del Municipio de Isla Mujeres, Quintana Roo, entrara en vigor al día siguiente de su publicación.
