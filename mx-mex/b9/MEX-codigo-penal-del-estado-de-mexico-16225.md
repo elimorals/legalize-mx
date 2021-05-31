@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2021-05-14"
+last_updated: "2021-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MAYO DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3441,9 +3441,9 @@ VIII. Cuando las lesiones se infieran a menores, personas adultas mayores, incap
 
 A quien ejerza la patria potestad, tutela o custodia del menor víctima de las lesiones que haya consentido la conducta, se le aplicará la misma pena, además de la suspensión o privación de esos derechos. Se entenderá que hubo consentimiento cuando haya omitido realizar la denuncia correspondiente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, G.G. 31 DE MAYO DE 2021)</small>
 
-IX. Cuando las lesiones se produzcan contra una persona en ejercicio de la actividad periodística, se aplicarán de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+IX. Cuando las lesiones se produzcan contra una persona en ejercicio de la actividad periodística o persona defensora de derechos humanos, se aplicarán de uno a tres años de prisión y de cien a doscientos días multa;
 
 > <small>(ADICIONADA, G.G. 12 DE JUNIO DE 2019)</small>
 
@@ -3511,9 +3511,9 @@ El delito de homicidio, se sancionará en los siguientes términos:
 
 I. Al responsable de homicidio simple, se le impondrán de diez a quince años de prisión y de doscientos cincuenta a trescientos setenta y cinco días multa;
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, G.G. 31 DE MAYO DE 2021)</small>
 
-Cuando el homicidio se cometa contra una persona en ejercicio de la actividad periodística, se le impondrán de doce a veinte años de prisión y de trescientos a quinientos cincuenta días multa.
+Cuando el homicidio se cometa contra una persona en ejercicio de la actividad periodística o persona defensora de derechos humanos, se le impondrán de quince a veinticinco años de prisión y de cuatrocientos a seiscientos cincuenta días multa;
 
 > <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
 
@@ -5451,6 +5451,10 @@ Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación e
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, G.G. 31 DE MAYO DE 2021)</small>
+
 ###### Artículo 351.
 
 Comete el delito de peculado:
@@ -5586,6 +5590,28 @@ En ningún caso, se devolverá a los inculpados de los delitos mencionados en el
 ###### Artículo 355.
 
 Además de las penas señaladas a los delitos de cohecho cometido por servidores públicos, abuso de autoridad con o sin contenido patrimonial, tráfico de influencia, concusión, peculado y enriquecimiento ilícito, en todos los casos el responsable de los delitos anteriores será sancionado con pago de la reparación del daño.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MAYO DE 2021)</small>
+
+## TITULO SEPTIMO. DE LOS DELITOS CONTRA LA LIBERTAD DE EXPRESION
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MAYO DE 2021)</small>
+
+###### Artículo 356.
+
+Se considerarán delitos cometidos contra las personas defensoras de derechos humanos o periodistas, cualquier conducta tendente a impedir, interferir, limitar o que atenten en contra de la actividad periodística y vulneren la libertad de expresión de periodistas y medios de comunicación.
+
+> <small>(ADICIONADO, G.G. 31 DE MAYO DE 2021)</small>
+
+###### Artículo 357.
+
+Cuando se cometa un delito doloso en contra de alguna persona defensora de derechos humanos o periodista o instalación periodística con la intención de afectar, limitar o menoscabar el derecho a la información o las libertades de expresión o de imprenta, se aumentará hasta en una cuarta parte la pena establecida para tal efecto.
+
+> <small>(ADICIONADO, G.G. 31 DE MAYO DE 2021)</small>
+
+###### Artículo 358.
+
+Cuando cualquiera de los delitos cometidos contra personas defensoras de derechos humanos o periodistas, sea realizado por un servidor público en ejercicio de sus funciones o la víctima sea mujer y concurran razones de género en la comisión del delito, se aumentará la pena hasta en una mitad.
 
 ## TRANSITORIOS
 
@@ -7310,3 +7336,27 @@ G.G. 14 DE MAYO DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 31 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 272.- POR EL QUE SE EXPIDE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERIODISTAS Y PERSONAS DEFENSORAS DE LOS DERECHOS HUMANOS DEL ESTADO DE MÉXICO; SE ADICIONA LA FRACCIÓN V Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 29 DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, Y SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 238, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 242; SE ADICIONA EL TÍTULO SÉPTIMO DENOMINADO “DE LOS DELITOS CONTRA LA LIBERTAD DE EXPRESIÓN” AL LIBRO SEGUNDO CON LOS ARTÍCULOS 356; 357 Y 358 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- El Mecanismo al que se refiere la presente Ley quedará establecido dentro de los seis meses siguientes contados a partir de la entrada en vigor de esta Ley.
+
+CUARTO.- El titular de la Coordinación Ejecutiva deberá ser nombrado por el titular de la Secretaría de Justicia y Derecho (sic) Humanos a más tardar dentro de los 120 días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+QUINTO.- Una vez cumplido el artículo transitorio anterior, la Coordinación Ejecutiva, por única ocasión, tendrá como término treinta días hábiles para emitir la convocatoria estatal pública a organizaciones de la sociedad civil y personas involucradas en la defensa y protección de los derechos humanos, así como en el ejercicio periodístico y la libertad de expresión para conformar el primer Consejo Consultivo.
+
+SEXTO.- Una vez emitida la convocatoria a que se refiere el artículo previo, las organizaciones de la sociedad civil y personas involucradas en la defensa y promoción de los derechos humanos y en el ejercicio del periodismo y la libertad de expresión, se registrarán ante la Coordinación Ejecutiva y en Asamblea Convocada para tal efecto, elegirán a los trece integrantes del primer Consejo Consultivo dentro del término de un mes concluido el registro de aspirantes a integrar el Consejo Consultivo.
+
+SÉPTIMO.- La presidencia y los tres representantes del Consejo Consultivo ante el Mecanismo deberán elegirse en la primera sesión del Consejo Consultivo.
+
+OCTAVO.- La Legislatura del Estado asignará los recursos presupuestales necesarios para la implementación y operación del Mecanismo en cada ejercicio presupuestal.
+
+NOVENO.- La Secretaría de Finanzas y la Secretaria de Justicia y Derechos Humanos proveerán lo necesario para el cumplimiento del presente Decreto y llevarán a cabo todos los actos necesarios de conformidad con las disposiciones jurídicas aplicables para constituir el Fondo a que hace alusión los artículos 60 al 64, en un término máximo de seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO.- En un plazo que no exceda de sesenta días contados a partir de la entrada en vigor del presente Decreto, la Fiscalía General de Justicia del Estado de México deberá realizar las modificaciones respectivas a su reglamento para dar cumplimiento con el presente Decreto.
