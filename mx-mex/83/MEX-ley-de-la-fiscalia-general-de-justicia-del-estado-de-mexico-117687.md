@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-fiscalia-general-de-justicia-del-estado-de-mexico-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-09"
-last_updated: "2020-09-24"
+last_updated: "2021-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MAYO DE 2021.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado Libre y Soberano de México, el viernes 9 de diciembre de 2016.
 
@@ -553,7 +553,11 @@ III. Delitos cometidos por adolescentes.
 
 IV. Delitos electorales.
 
-V. Las demás que se establezcan en el Reglamento.
+> <small>(ADICIONADA, G.G. 31 DE MAYO DE 2021)</small>
+
+V. Para la Atención de los Delitos cometidos contra la Libertad de Expresión, Periodistas y Personas Defensoras de Derechos Humanos.
+
+VI. Las demás que se establezcan en el Reglamento.
 
 El personal operativo que integre las unidades administrativas antes referidas contará con la capacitación y en su caso especialización continua en los asuntos de su competencia, observando las mejores prácticas para el desempeño de sus funciones y la atención de las víctimas u ofendidos.
 
@@ -1802,3 +1806,27 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La Legislatura deberá en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de aplicar el principio de paridad de género.
 
 CUARTO. Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 31 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 272.- POR EL QUE SE EXPIDE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERIODISTAS Y PERSONAS DEFENSORAS DE LOS DERECHOS HUMANOS DEL ESTADO DE MÉXICO; SE ADICIONA LA FRACCIÓN V Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 29 DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, Y SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 238, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 242; SE ADICIONA EL TÍTULO SÉPTIMO DENOMINADO "DE LOS DELITOS CONTRA LA LIBERTAD DE EXPRESIÓN" AL LIBRO SEGUNDO CON LOS ARTÍCULOS 356; 357 Y 358 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Mecanismo al que se refiere la presente Ley quedará establecido dentro de los seis meses siguientes contados a partir de la entrada en vigor de esta Ley.
+
+CUARTO.- El titular de la Coordinación Ejecutiva deberá ser nombrado por el titular de la Secretaría de Justicia y Derecho (sic) Humanos a más tardar dentro de los 120 días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+QUINTO.- Una vez cumplido el artículo transitorio anterior, la Coordinación Ejecutiva, por única ocasión, tendrá como término treinta días hábiles para emitir la convocatoria estatal pública a organizaciones de la sociedad civil y personas involucradas en la defensa y protección de los derechos humanos, así como en el ejercicio periodístico y la libertad de expresión para conformar el primer Consejo Consultivo.
+
+SEXTO.- Una vez emitida la convocatoria a que se refiere el artículo previo, las organizaciones de la sociedad civil y personas involucradas en la defensa y promoción de los derechos humanos y en el ejercicio del periodismo y la libertad de expresión, se registrarán ante la Coordinación Ejecutiva y en Asamblea Convocada para tal efecto, elegirán a los trece integrantes del primer Consejo Consultivo dentro del término de un mes concluido el registro de aspirantes a integrar el Consejo Consultivo.
+
+SÉPTIMO.- La presidencia y los tres representantes del Consejo Consultivo ante el Mecanismo deberán elegirse en la primera sesión del Consejo Consultivo.
+
+OCTAVO.- La Legislatura del Estado asignará los recursos presupuestales necesarios para la implementación y operación del Mecanismo en cada ejercicio presupuestal.
+
+NOVENO.- La Secretaría de Finanzas y la Secretaria de Justicia y Derechos Humanos proveerán lo necesario para el cumplimiento del presente Decreto y llevarán a cabo todos los actos necesarios de conformidad con las disposiciones jurídicas aplicables para constituir el Fondo a que hace alusión los artículos 60 al 64, en un término máximo de seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO.- En un plazo que no exceda de sesenta días contados a partir de la entrada en vigor del presente Decreto, la Fiscalía General de Justicia del Estado de México deberá realizar las modificaciones respectivas a su reglamento para dar cumplimiento con el presente Decreto.
