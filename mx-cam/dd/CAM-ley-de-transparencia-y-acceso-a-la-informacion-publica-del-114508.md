@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1145
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2017-07-13"
+last_updated: "2021-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 4 de mayo de 2016.
 
@@ -47,11 +47,15 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
 La presente Ley es de orden público, interés social y de observancia general en todo el territorio del Estado de Campeche y tiene por objeto establecer los principios, bases generales y procedimientos para garantizar el derecho de acceso a la información, así como la organización y funcionamiento del organismo garante señalado en el artículo 125 bis de la Constitución Política del Estado de Campeche.
 
-El derecho humano de acceso a la información comprende la facultad de las personas para solicitar, difundir, investigar, buscar y recibir información pública, así como la obligación de los sujetos obligados de difundir, de manera proactiva, la información pública de oficio, las obligaciones en materia de transparencia y en general, toda aquella información que se considere de interés público.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
+
+El derecho humano de acceso a la información comprende la facultad de las personas para solicitar, difundir, investigar, buscar y recibir información pública, así como el deber de los sujetos obligados de difundir, de manera proactiva, las obligaciones en materia de transparencia y en general, toda aquella información que se considere de interés público.
 
 A ninguna persona podrá coartarse su derecho humano de acceso a la información, así como tampoco será objeto de inquisición judicial o administrativa, ni podrá restringirse este derecho por vías o medios directos o indirectos, salvo en los casos que expresamente disponen la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la presente Ley y la demás normatividad aplicable en la materia.
 
-La Ley General de Transparencia y Acceso a la Información Pública, los lineamientos que determine el Sistema Nacional de Transparencia, la Constitución Política del Estado de Campeche, la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, y demás disposiciones relacionadas con el derecho de acceso a la información y la protección de datos personales, se aplicarán de manera supletoria en lo no previsto por esta ley.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
+
+La Ley General de Transparencia y Acceso a la Información Pública, los lineamientos que determine el Sistema Nacional de Transparencia, la Constitución Política del Estado de Campeche, la Ley General de Responsabilidades Administrativas, la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche, el Código de Procedimientos Civiles del Estado de Campeche y demás disposiciones relacionadas con los derechos de acceso a la información y a la protección de datos personales, se aplicarán de manera supletoria en lo no previsto por esta ley.
 
 ###### Artículo 2.
 
@@ -149,7 +153,9 @@ El Estado garantizará el efectivo acceso de toda persona a la información en p
 
 El derecho de acceso a la información o la clasificación de la información se interpretarán bajo los principios establecidos en la Constitución Federal, los tratados internacionales de los que el Estado Mexicano sea parte, la Ley General y la presente Ley.
 
-En la aplicación e interpretación de la presente Ley deberá prevalecer el principio de máxima publicidad, conforme a los (sic) dispuesto en la Constitución Federal, en los tratados internacionales de los que el Estado mexicano sea parte, así como en las resoluciones y sentencias vinculantes que emitan los órganos nacionales e internacionales especializados, favoreciendo en todo tiempo a las personas la protección más amplia.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
+
+En la aplicación e interpretación de la presente Ley deberá prevalecer el principio de máxima publicidad, conforme a lo dispuesto en la Constitución Federal, en los tratados internacionales de los que el Estado mexicano sea parte, así como en las resoluciones y sentencias vinculantes que emitan los órganos nacionales e internacionales especializados, favoreciendo en todo tiempo a las personas la protección más amplia.
 
 Para el caso de la interpretación, se podrá tomar en cuenta los criterios, determinaciones y opiniones de los organismos nacionales e internacionales, en materia de transparencia.
 
@@ -311,7 +317,9 @@ Los comisionados salientes seguirán en funciones hasta en tanto sean electos lo
 
 La duración del cargo de Comisionado será de seis años y el nombramiento se realizará de manera escalonada para garantizar el principio de autonomía. Quienes sean nombrados Comisionados no podrán ser reelectos.
 
-Los Comisionados sólo podrán ser removidos de su cargo en los términos del Capítulo XVII de la Constitución Política del Estado y serán sujetos de juicio político o de declaración de procedencia.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
+
+Los Comisionados podrán ser removidos de su cargo en los términos de la Ley General de Responsabilidades Administrativas y serán sujetos de juicio político en términos de ley.
 
 ###### Artículo 27.
 
@@ -407,7 +415,9 @@ I. Representar legalmente a la Comisión ante toda clase de autoridades federale
 
 II. Fungir como representante de la Comisión ante el Consejo Nacional, conforme a lo dispuesto en la Ley General, la presente ley y en las demás disposiciones aplicables;
 
-III. Establecer y coordinar los vínculos entre la Comisión y el Instituto, así como con los organismos garantes de las demás entidades federativas, igualmente lo hará con la Auditoría Superior del Estado, con las dependencias responsables del manejo, custodia y guarda de archivos y con el Instituto de Formación Estadística, Geográfica y Catastral del Estado;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+III. Establecer y coordinar los vínculos entre la Comisión y el Instituto, así como con los organismos garantes de las demás entidades federativas y los otros integrantes del Sistema Nacional;
 
 IV. Vigilar el correcto desempeño de las actividades y atribuciones de la Comisión y los Comisionados;
 
@@ -423,7 +433,7 @@ IX. Proponer al Pleno el nombramiento y remoción del titular de la Secretaría 
 
 X. Ejercer el Presupuesto de Egresos de la Comisión debidamente autorizado;
 
-XI. Ordenar la publicación en el Periódico Oficial del Estado de todos los acuerdos y resoluciones que emita el Pleno; y
+XI. (DEROGADA, P.O. 31 DE MAYO DE 2021)
 
 XII. Las demás que le confiera la presente Ley y otras disposiciones legales y reglamentarias aplicables.
 
@@ -471,9 +481,13 @@ El titular de la Secretaría Ejecutiva de la Comisión tendrá las atribuciones 
 
 I. Acordar con el Presidente y con los Comisionados lo conducente para la celebración de las sesiones ordinarias y extraordinarias del Pleno, así como participar en ellas con voz, pero sin voto;
 
-II. Levantar las actas de las sesiones del Pleno, someterlas a la aprobación del mismo y, una vez aprobadas, firmarlas en unión de los Comisionados, así como proveer a su publicación en los medios establecidos en su reglamento interior;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
 
-III. Dar fe, en común acuerdo con los Comisionados, de todo lo actuado y resuelto en materia de recursos de revisión, acuerdos de clasificación de reserva de información y, en general, de todos los acuerdos, resoluciones, lineamientos y demás decisiones del Pleno;
+II. Levantar las actas de las sesiones del Pleno, someterlas a la aprobación de éste y, una vez aprobadas, firmarlas en unión de los Comisionados;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+III. Dar fe, en común acuerdo con los Comisionados, de todos los acuerdos, resoluciones y demás decisiones del Pleno, así como proveer a su publicación en los medios establecidos;
 
 IV. Representar a la Comisión en los asuntos que el Pleno determine;
 
@@ -483,7 +497,7 @@ VI. Coordinar y supervisar la admisión, tramitación y resolución por el Pleno
 
 VII. Auxiliar al Comisionado Presidente en la ejecución de las resoluciones y acuerdos del Pleno, proveyendo lo necesario para su debida publicación y notificación;
 
-VIII. Remitir las resoluciones y recomendaciones a los órganos de control interno de los sujetos obligados sobre supuestas infracciones a la Ley, a su reglamento interior o a los lineamientos expedidos por la Comisión, para que se instaure el procedimiento administrativo disciplinario que prevé la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado:
+VIII. (DEROGADA, P.O. 31 DE MAYO DE 2021)
 
 IX. Coordinar la elaboración del proyecto anual de Presupuesto de Egresos de la Comisión y turnarlo al Presidente y a los Comisionados para su aprobación por el Pleno, vigilando la ejecución del gasto de acuerdo con el calendario, lineamientos y políticas establecidas, y la elaboración de los informes y estados financieros de la Comisión; y
 
@@ -653,9 +667,11 @@ En el caso de ausencias definitivas, se dará vista al Congreso del Estado para 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2021)</small>
+
 ###### Artículo 44.
 
-Son sujetos obligados a transparentar y permitir el acceso a su información y proteger los datos personales que obren en su poder: cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, los Municipios y sus órganos administrativos auxiliares y paramunicipales; órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, y los organismos de la sociedad civil constituidos conforme a las leyes mexicanas, por lo que concierne únicamente a las obligaciones de transparencia que les sean aplicables.
+Son sujetos obligados a transparentar y permitir el acceso a su información y proteger los datos personales que obren en su poder: cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, los Municipios y sus órganos administrativos auxiliares y paramunicipales; órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
 
 Los fideicomisos y fondos públicos, considerados entidades paraestatales, deberán dar cumplimiento a las obligaciones establecidas en esta Ley por sí mismos, o a través de sus propias áreas, Unidades de Transparencia y Comités de Transparencia. En el caso de los fideicomisos y fondos públicos que no cuenten con estructura orgánica, así como de los mandatos públicos y demás contratos análogos, cumplirán con las obligaciones de esta Ley a través de la unidad administrativa responsable de coordinar su operación.
 
@@ -675,7 +691,9 @@ V. Promover la generación, documentación y publicación de la información en 
 
 VI. Proteger y resguardar la información clasificada como reservada o confidencial;
 
-VII. Reportar a la Comisión sobre las acciones de implementación de la normatividad en la materia, en los términos que éstos determinen;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+VII. Reportar a la Comisión sobre las acciones de implementación de la normatividad en la materia, en los términos que ésta determine;
 
 VIII. Atender los requerimientos, observaciones, recomendaciones y lineamientos que, en materia de transparencia y acceso a la información, realicen la Comisión y el Sistema Nacional;
 
@@ -1223,7 +1241,9 @@ Además de lo señalado en el artículo 74 de la presente Ley, los sujetos oblig
 
 I. Las tesis jurisprudenciales y aisladas publicadas en el Semanario Judicial de la Federación que se relacionen con la normatividad aplicable al Tribunal de Justicia Administrativa del Estado, así como las ejecutorias publicadas en la gaceta del mismo;
 
-II. Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+II. Las versiones públicas de todas las sentencias emitidas;
 
 III. Las versiones estenográficas de las sesiones públicas;
 
@@ -1617,11 +1637,13 @@ VIII. Transcurrido el plazo señalado en la fracción anterior, el sujeto obliga
 
 IX. Recibido el informe, la Comisión verificará el cumplimiento a la resolución y si considera que se dio cumplimiento a la misma, emitirá un acuerdo de cumplimiento y ordenará el cierre del expediente.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
+
 ###### Artículo 99.
 
-Cuando la Comisión considere que existe un incumplimiento total o parcial de la resolución, notificarán, por conducto de la Unidad de Transparencia del sujeto obligado, al superior jerárquico del servidor público responsable de dar cumplimiento, para el efecto de que, en un plazo no mayor a cinco días, se dé cumplimiento a la resolución.
+Cuando la Comisión considere que existe un incumplimiento total o parcial de la resolución, notificará, por conducto de la Unidad de Transparencia del sujeto obligado, al superior jerárquico del servidor público responsable de dar cumplimiento, para el efecto de que, en un plazo no mayor a cinco días, se dé cumplimiento a la resolución.
 
-En caso de que la Comisión considere que subsiste el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco días posteriores al aviso de incumplimiento al superior jerárquico del servidor público responsable del mismo, se emitirá un acuerdo de incumplimiento y se informará al Pleno para que, en su caso, imponga las medidas de apremio o determinaciones que resulten procedentes.
+En caso de que la Comisión considere que subsiste el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco días posteriores a la conclusión del plazo otorgado en el aviso de incumplimiento al superior jerárquico del servidor público responsable del mismo, se emitirá un acuerdo de incumplimiento y se informará al Pleno para que, en su caso, imponga las medidas de apremio o determinaciones que resulten procedentes.
 
 ## TÍTULO SÉPTIMO. INFORMACIÓN CLASIFICADA
 
@@ -1731,7 +1753,9 @@ La información contenida en las obligaciones en materia de transparencia no pod
 
 Como información reservada podrá clasificarse aquella cuya publicación:
 
-I. Pueda poner en riesgo la vida, seguridad o salud de una persona física;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+I. Comprometa la seguridad pública o pueda poner en riesgo la vida, seguridad o salud de una persona física;
 
 II. Obstruya las actividades de verificación, inspección y auditoría relativas al cumplimiento de las leyes o afecte la recaudación de contribuciones;
 
@@ -2207,9 +2231,11 @@ Transcurrido el plazo señalado en el artículo anterior, el sujeto obligado deb
 
 La Comisión verificará de oficio la calidad de la información y a más tardar al día siguiente de recibir el informe, dará vista al recurrente para que, dentro de los cinco días siguientes, manifieste lo que a su derecho convenga. Si dentro del plazo señalado el recurrente manifiesta que el cumplimiento no corresponde a lo ordenado por la Comisión, deberá expresar las causas específicas por las cuales así lo considera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2021)</small>
+
 ###### Artículo 167.
 
-La Comisión deberá pronunciarse, en un plazo no mayor a cinco días, sobre todas las causas que el recurrente manifieste, así como del resultado de la verificación realizada. Si la Comisión considera que se dio cumplimiento a la resolución, emitirá un acuerdo de cumplimiento y se ordenará el archivo del expediente. En caso contrario, la Comisión:
+Vencido el plazo señalado en el artículo anterior, la Comisión deberá pronunciarse, en un plazo no mayor a cinco días, sobre todas las causas que el recurrente manifieste, así como del resultado de la verificación realizada. Si la Comisión considera que se dio cumplimiento a la resolución, emitirá un acuerdo de cumplimiento y se ordenará el archivo del expediente. En caso contrario, la Comisión:
 
 I. Emitirá un acuerdo de incumplimiento;
 
@@ -2257,9 +2283,11 @@ Si a pesar de la ejecución de las medidas de apremio previstas en el artículo 
 
 Transcurrido el plazo, sin que se haya dado cumplimiento, se determinarán las sanciones que correspondan.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
+
 ###### Artículo 172.
 
-Las medidas de apremio a que se refiere el presente Capítulo deberán ser impuestas por la Comisión y ejecutadas por sí mismos o con el apoyo de la autoridad competente, de conformidad con los procedimientos que establezca la legislación aplicable.
+Las medidas de apremio a que se refiere el presente Capítulo deberán ser impuestas por la Comisión y ejecutadas por sí misma o con el apoyo de la autoridad competente, de conformidad con los procedimientos que establezca la legislación aplicable.
 
 ###### Artículo 173.
 
@@ -2313,7 +2341,9 @@ Las conductas a que se refiere el artículo anterior serán sancionadas por la C
 
 Las responsabilidades que resulten de los procedimientos administrativos correspondientes derivados de la violación a lo dispuesto por el artículo 174 de esta Ley, son independientes de las del orden civil, penal o de cualquier otro tipo que se puedan derivar de los mismos hechos.
 
-Dichas responsabilidades se determinarán, en forma autónoma, a través del procedimiento administrativo establecido en la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado y las sanciones que, en su caso, se impongan por las autoridades competentes, también se ejecutarán de manera independiente.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
+
+Dichas responsabilidades se determinarán, en forma autónoma, a través del procedimiento administrativo establecido en la Ley General de Responsabilidades Administrativas y las sanciones que, en su caso, se impongan por las autoridades competentes, también se ejecutarán de manera independiente.
 
 Para tales efectos, la Comisión podrá denunciar ante las autoridades competentes cualquier acto u omisión violatoria de esta Ley y aportar las pruebas que consideren pertinentes, en los términos de las leyes aplicables.
 
@@ -2454,3 +2484,13 @@ TERCERO. En un término de 90 días contados a partir de la entrada en vigor de 
 CUARTO.- De conformidad con las posibilidades presupuestales, deberán tomarse las previsiones administrativas que correspondan para el cumplimiento de los efectos de este decreto.
 
 QUINTO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
+
+P.O. 31 DE MAYO DE 2021.
+
+## N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 226 POR EL QUE “SE REFORMAN LOS PÁRRAFOS SEGUNDO Y CUARTO DEL ARTÍCULO 1; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 5; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 26; LA FRACCIÓN III DEL ARTÍCULO 35; LAS FRACCIONES II Y III DEL ARTÍCULO 39; EL PÁRRAFO PRIMERO DEL ARTÍCULO 44; LA FRACCIÓN VII DEL ARTÍCULO 45; LA FRACCIÓN II DEL ARTÍCULO 78; EL ARTÍCULO 99; LA FRACCIÓN I DEL ARTÍCULO 113; EL PÁRRAFO PRIMERO DEL ARTÍCULO 167; EL ARTÍCULO 172; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 176 Y, SE DEROGAN LA FRACCIÓN XI DEL ARTÍCULO 35 Y LA FRACCIÓN VIII DEL ARTÍCULO 39, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrara´ en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Poder Judicial del Estado de Campeche contará con un plazo de 180 días contados a partir de la publicación del presente decreto, para iniciar la difusión de las versiones públicas de las sentencias emitidas.
+
+Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
