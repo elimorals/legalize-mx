@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-insumos-para-la-salud-11369"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-02-04"
-last_updated: "2014-03-14"
+last_updated: "2021-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1998-02-03"
 ---
 # REGLAMENTO DE INSUMOS PARA LA SALUD
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE INSUMOS PARA LA SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2021.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 4 de febrero de 1998.
 
@@ -345,9 +347,19 @@ Los medicamentos biotecnológicos innovadores, deberán incluir en su etiqueta l
 
 Cuando las etiquetas contengan las Denominaciones Genérica y Distintiva de los medicamentos, éstas deberán imprimirse en una proporción tal que el tamaño de una sea cuando menos una tercera parte de la otra, medida en puntos de la misma tipografía o, en su defecto, en letra helvética.
 
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 26.
 
-El etiquetado de los medicamentos destinados exclusivamente para las instituciones públicas de salud y de seguridad social, se sujetará a las disposiciones específicas que al efecto se emitan.
+La etiqueta de los medicamentos destinados exclusivamente para las instituciones públicas de salud y de seguridad social, se sujetará a las disposiciones siguientes:
+
+I. En el envase primario o en el secundario destinado para el sector público deberá diferenciarse de aquél destinado al sector privado;
+
+II. Contener la información sanitaria establecida en los artículos 24 y, en su caso, 24 Bis del presente Reglamento, así como los requisitos determinados en la Norma correspondiente;
+
+III. Incluir la leyenda “prohibida su venta” o “propiedad del Sector Salud”, y
+
+IV. Contener la clave del Compendio Nacional de Insumos para la Salud en el envase secundario; en el caso de medicamentos que no contengan envase secundario deberá expresarse en el envase primario.
 
 ###### ARTÍCULO 27.
 
@@ -1443,13 +1455,13 @@ Los trámites realizados por medios electrónicos se substanciarán y resolverá
 
 Las autorizaciones sanitarias se solicitarán en los formatos oficiales que al efecto proporcione la autoridad competente, los cuales se acompañarán de los documentos señalados en el presente Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
-Los documentos que acompañen a las solicitudes deberán encontrarse redactados en idioma español, y en caso contrario, deberán adjuntar a los mismos su respectiva traducción al español, avalada con la firma del responsable sanitario.
+Los documentos que acompañen a las solicitudes deberán encontrarse redactados en idioma español o inglés.
 
-> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
-Los documentos expedidos por autoridades de otros países deberán estar apostillados o legalizados y traducidos por perito traductor.
+Los documentos expedidos por autoridades de otros países deberán estar apostillados o legalizados; en caso de estar escritos en un idioma distinto al español o al inglés, se les deberá acompañar su correspondiente traducción por perito traductor, que cuente con cédula profesional para ejercer dicha profesión.
 
 ###### ARTÍCULO 154.
 
@@ -1831,17 +1843,13 @@ I. Cuando el medicamento se fabrique en el territorio nacional, y
 
 II. Cuando la fabricación y los estudios mencionados se hayan realizado en el extranjero y así lo determine la Secretaría, con base en la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 177
 
-bis 2. Para obtener el registro sanitario de medicamentos biotecnológicos biocomparables se requiere presentar solicitud en el formato oficial, que para tal efecto se publique en el Diario Oficial de la Federación, a la que se anexará la documentación contenida en las fracciones I a IX del artículo 177 y los estudios preclínicos y clínicos que señale la Secretaría como estudios de biocomparabilidad, estudios de inmunogenicidad y reportes de eventos adversos, y otros que la Secretaría determine, previa opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos, los cuales se harán del conocimiento de los interesados mediante publicación en el Diario Oficial de la Federación.
+bis 2. Para obtener el registro sanitario de medicamentos biotecnológicos biocomparables se requiere presentar solicitud en el formato oficial, que para tal efecto se publique en el Diario Oficial de la Federación, a la que se anexará la documentación contenida en las fracciones I a IX del artículo 177 y los estudios preclínicos y clínicos como estudios de biocomparabilidad, estudios de inmunogenicidad y reportes de eventos adversos, y otros que la Secretaría determine, previa opinión del Comité de Moléculas Nuevas.
 
 Una vez que un medicamento biotecnológico biocomparable haya demostrado su biocomparabilidad, le serán autorizadas las indicaciones que tenga aprobadas el medicamento biotecnológico de referencia, siempre y cuando el medicamento biotecnológico biocomparable se presente en la misma forma farmacéutica y dosis que el biotecnológico de referencia y que dichas indicaciones compartan el mismo mecanismo de acción o que el medicamento biotecnológico biocomparable presente el mismo efecto farmacodinámico, ya sea de acuerdo a lo publicado por el de referencia, o en su caso de acuerdo a la experiencia clínica y evidencia científica disponible. Lo anterior sin perjuicio de lo dispuesto en los tratados internacionales de los que México sea parte.
-
-Para efectos del párrafo anterior, la Secretaría, con base en la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos, determinará las pruebas de biocomparabilidad que permitan la autorización de las indicaciones terapéuticas a los medicamentos biotecnológicos biocomparables.
 
 Sin perjuicio de lo establecido en los párrafos anteriores, se podrá solicitar el registro de un medicamento biocomparable respecto de un medicamento biotecnológico protegido por una patente, con el fin de realizar los estudios, pruebas y producción experimental correspondientes, dentro de los ocho años anteriores al vencimiento de la patente. En cuyo caso, el registro sanitario se otorgará solamente al concluir la vigencia de la patente.
 
@@ -1855,17 +1863,19 @@ bis 3. El alcance de las pruebas clínicas de biocomparabilidad deberá estar su
 
 La posología, la dosis y la ruta de administración del medicamento biotecnológico biocomparable deben ser las mismas que las del medicamento biotecnológico de referencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 177
 
 bis 4. Los estudios preclínicos y clínicos, en los que el solicitante del registro de medicamentos biotecnológicos biocomparables sustente su solicitud, deberán utilizar el medicamento biotecnológico de referencia correspondiente, para la realización de los estudios comparativos y físico-químicos. Para tal efecto deberá presentar la siguiente información documental:
 
-I. Los estudios in vitro. No se requerirán de éstos cuando la Secretaría, con base en la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos, así lo determine;
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2021)</small>
 
-II. Los reportes de los estudios preclínicos en animales incluyendo la información que compare al medicamento biotecnológico de referencia y al medicamento biotecnológico biocomparable. Dichos estudios preclínicos deberán realizarse en especies animales relevantes para el modelo de estudio y deben incluir, de conformidad con la opinión que al efecto emita el Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos, los siguientes datos:
+I. Los estudios in vitro. No se requerirán de éstos cuando la Secretaría así lo determine, con base en la opinión del Comité de Moléculas Nuevas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 DE MAYO DE 2021)</small>
+
+II. Los reportes de los estudios preclínicos en animales incluyendo la información que compare al medicamento biotecnológico de referencia y al medicamento biotecnológico biocomparable. Dichos estudios preclínicos deberán realizarse en especies animales relevantes para el modelo de estudio y deben incluir, de conformidad con la opinión que al efecto emita el Comité de Moléculas Nuevas, los siguientes datos:
 
 a. Reporte comparativo del efecto farmacodinámico y actividad relevante para la aplicación clínica;
 
@@ -1877,7 +1887,9 @@ d. Si los resultados de los estudios mencionados no son suficientes, se deberán
 
 e. Sólo se requerirán reportes de otros estudios toxicológicos como seguridad farmacológica, toxicología reproductiva, mutagénesis y carcinogénesis para la evaluación de medicamentos biotecnológicos biocomparables, si los resultados de los estudios de dosis repetida así lo requieren;
 
-III. Un reporte de estudios comparativos de farmacocinética cuando así lo determine la Secretaría, tomando en cuenta la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos, para demostrar biocomparabilidad farmacocinética entre el medicamento biotecnológico biocomparable y el medicamento biotecnológico de referencia en relación a los parámetros claves;
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2021)</small>
+
+III. Un reporte de estudios comparativos de farmacocinética cuando así lo determine la Secretaría, tomando en cuenta la opinión del Comité de Moléculas Nuevas, para demostrar biocomparabilidad farmacocinética entre el medicamento biotecnológico biocomparable y el medicamento biotecnológico de referencia en relación a los parámetros claves;
 
 IV. Los reportes de estudios de farmacodinamia con las siguientes características:
 
@@ -1897,13 +1909,23 @@ b. Cumplir con la normatividad aplicable de buenas prácticas de investigación 
 
 c. Para aquellos medicamentos en donde la respuesta inmune pudiera afectar a la proteína endógena o a su función biológica, las pruebas de anticuerpos deben realizarse en los ensayos clínicos de seguridad, tomando en cuenta el papel que pudieran tener la hipersensibilidad, reacciones de infusión, la autogenicidad y pérdida de la eficacia.
 
-Para efecto de las fracciones anteriores, los requerimientos específicos para la aprobación de cada medicamento biotecnológico biocomparable serán determinados por la Secretaría considerando, la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos.
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
+
+Para efecto de las fracciones anteriores, los requerimientos específicos para la aprobación de cada medicamento biotecnológico biocomparable serán determinados por la Secretaría considerando la opinión del Comité de Moléculas Nuevas.
 
 Para el caso de los estudios de biocomparabilidad en relación con un medicamento biotecnológico de referencia, el mismo deberá ser usado durante todo el desarrollo del medicamento biotecnológico biocomparable, para comparar la calidad y los estudios preclínicos y clínicos.
 
-Una vez otorgado el primer registro de un medicamento biotecnológico biocomparable, respecto de una molécula identificada por la Denominación Común Internacional, el listado de los requisitos relativos a la información técnica con base en los que se otorgó el registro, deberá ser publicado por la Secretaría en el Diario Oficial de la Federación. Los mismos requisitos deberán cumplirse para la obtención del registro de los medicamentos biotecnológicos biocomparables subsecuentes que correspondan a la misma Denominación Común Internacional. Dichos requisitos podrán variar, tomando en cuenta los avances de la ciencia y la tecnología, lo que de ser así, se dará a conocer por la Secretaría, mediante publicación que se realice en el Diario Oficial de la Federación. Cuando en la Farmacopea de los Estados Unidos Mexicanos y en sus suplementos no exista información pertinente, ni tampoco en guías o monografías nacionales, la Secretaría podrá evaluar las pruebas de biocomparabilidad utilizando la información de guías internacionales.
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
-Los estudios clínicos de los medicamentos biotecnológicos biocomparables, deberán realizarse en México, cuando así lo determine la Secretaría con base en la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos.
+Cuando en la Farmacopea de los Estados Unidos Mexicanos y en sus suplementos no exista información pertinente, ni tampoco en guías o monografías nacionales, la Secretaría podrá evaluar las pruebas de biocomparabilidad utilizando la información de guías internacionales.
+
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
+
+Los estudios clínicos de los medicamentos biotecnológicos biocomparables, podrán realizarse en México.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MAYO DE 2021)</small>
+
+Cuando el solicitante del registro del medicamento biotecnológico biocomparable sustente su solicitud en los estudios clínicos de origen, deberá presentar estudios clínicos realizados en México cuando solicite la prórroga correspondiente.
 
 Para el caso de medicamentos biotecnológicos biocomparables de fabricación extranjera además de los documentos anteriores se deberán anexar los establecidos en las fracciones I, II y III del artículo 170 del presente Reglamento.
 
@@ -1911,13 +1933,11 @@ La Secretaría resolverá las solicitudes de registro de medicamentos biotecnol�
 
 En caso de que la Secretaría no emita la resolución respectiva en el plazo señalado, la solicitud de registro se entenderá resuelta en sentido negativo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
-> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+###### ARTÍCULO 177
 
-###### ARTÍCULO 177 Bis 5.
-
-Un medicamento biotecnológico innovador o un medicamento biotecnológico biocomparable puede ser aprobado para su uso en otras indicaciones clínicas, siempre y cuando exista justificación científica aprobada mediante los estudios clínicos, que determine la Secretaría considerando la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos.
+bis 5. Un medicamento biotecnológico innovador o un medicamento biotecnológico biocomparable puede ser aprobado para su uso en otras indicaciones clínicas, siempre y cuando exista justificación científica aprobada mediante los estudios clínicos, que determine la Secretaría considerando la opinión del Comité de Moléculas Nuevas.
 
 ###### ARTÍCULO 178.
 
@@ -1989,57 +2009,35 @@ Cualquier modificación que se pretenda efectuar a las condiciones en que fueron
 
 En el caso de cambio de distribuidor, se acompañarán, además, los proyectos de etiqueta o contraetiqueta, cuando se requiera, por duplicado en idioma español. Cuando se trate de Insumos con presentación exclusiva para instituciones públicas de salud o de seguridad social, se anexará copia de la clave correspondiente en el Cuadro Básico o en el Catálogo de Insumos y, en el caso de fuentes de radiación, copia de la licencia correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 185.
 
-Para obtener la autorización de modificaciones a las condiciones de registro de cualquier medicamento, deberá presentarse solicitud en el formato oficial acompañada de los proyectos de Etiquetas y, en su caso, los proyectos de texto de las versiones amplia y reducida de la información para prescribir, así como, cuando proceda, de lo siguiente:
+Deberán solicitar, conforme a lo dispuesto en la Norma correspondiente, la autorización de modificaciones a las condiciones de registro de cualquier medicamento, mediante solicitud en el formato oficial acompañada de los proyectos de Etiqueta y, en su caso, los proyectos de texto de las versiones amplia y reducida de la información para prescribir, así como:
 
-I. Las pruebas de estabilidad de acuerdo con la Norma correspondiente, para los cambios en los procesos de fabricación, material de envases primarios, plazo de caducidad, y de aditivos o excipientes;
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2021)</small>
 
-II. La justificación técnica por escrito que avale la necesidad o conveniencia de cambiar el envase primario;
+I. Las pruebas de estabilidad de acuerdo con la Norma correspondiente.
 
-III. Las copias de las monografías de los aditivos y excipientes y sus referencias bibliográficas para cambios de dichos ingredientes;
+II. (DEROGADA, D.O.F. 31 DE MAYO DE 2021)
 
-IV. El método de control y especificaciones de los fármacos y aditivos y producto terminado firmado por el responsable sanitario del Establecimiento, para cambios de proceso de fabricación, envases o aditivos y excipientes, y
+III. (DEROGADA, D.O.F. 31 DE MAYO DE 2021)
+
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2021)</small>
+
+IV. El método de control y especificaciones de los fármacos y aditivos y producto terminado, para cambios de proceso de fabricación, envase primario o aditivos y excipientes, y
 
 V. Lo señalado en el artículo 176 del presente Reglamento para cambios en la fabricación nacional a extranjera o de extranjera a nacional.
 
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 186.
 
-La Secretaría resolverá las solicitudes de modificaciones a las condiciones de registro de cualquier medicamento de conformidad con los siguientes plazos:
+La Secretaría resolverá las solicitudes de modificaciones a las condiciones de registro sanitario de cualquier medicamento en un plazo de cuarenta y cinco días hábiles para modificaciones técnicas y veinte días hábiles para modificaciones administrativas.
 
-I. En cuarenta y cinco días, cuando se trate de modificaciones que impliquen cambios en el proceso de producción;
+En caso de que la Secretaría no resuelva en el plazo antes señalado se entenderá procedente la solicitud.
 
-II. En treinta días, cuando se trate de modificaciones a:
-
-a. El plazo de caducidad;
-
-b. Los aditivos, sin cambio en la forma farmacéutica;
-
-c. Los envases primarios;
-
-d. El cambio de fabricación nacional a fabricación extranjera, sin modificaciones en el proceso de producción;
-
-e. El cambio de fabricación extranjera a fabricación nacional, sin modificación en el proceso de producción;
-
-III. En veinte días, cuando se trate de modificaciones a:
-
-a. El nombre o domicilio del titular del registro sin cambio en el proceso de producción;
-
-b. El nombre comercial del medicamento;
-
-c. El nombre o domicilio del fabricante extranjero, sin cambio en el proceso de producción;
-
-d. La presentación y contenido de los envases;
-
-e. Los envases secundarios, y
-
-f. Las condiciones de venta y suministro al público, sin cambios de indicación terapéutica y de formulación.
-
-En caso de que la Secretaría no resuelva dentro del plazo antes señalado se entenderá procedente la solicitud.
-
-Cuando se solicite más de un tipo de modificación al registro, el plazo máximo de respuesta será igual al mayor de los que resulten aplicables.
-
-Si el solicitante presenta solicitud de modificación a las condiciones de registro con dictamen expedido por Tercero Autorizado por la Secretaría, ésta la resolverá en un plazo de quince días.
+Cuando se solicite más de un tipo de modificación al registro sanitario, el plazo de respuesta será igual al mayor de los que resulten aplicables.
 
 En el caso de cualquier solicitud de modificación a las condiciones de registro de medicamentos homeopáticos, si la Secretaría no resuelve en los plazos correspondientes se entenderá procedente la solicitud.
 
@@ -2055,103 +2053,121 @@ La Secretaría resolverá las solicitudes de modificaciones a las condiciones de
 
 Si el solicitante presenta solicitud de modificación a las condiciones de registro con dictamen favorable expedido por Tercero Autorizado por la Secretaría, ésta la resolverá en un plazo de quince días.
 
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 189.
 
-El oficio en el que se autorice la modificación a las condiciones de registro, contendrá una leyenda en la que se señale que la Secretaría otorga al titular del registro un plazo de ciento veinte días para agotar la existencia de materiales de envase y producto terminado.
+En el oficio en el que se autorice la modificación a las condiciones de registro sanitario, se plasmará una leyenda en la que se señale el plazo que la Secretaría otorga al titular del registro sanitario para agotar la existencia de materiales de envase y producto terminado. El plazo que fije la Secretaría no podrá exceder de doscientos cuarenta días hábiles.
 
-En caso de que el titular requiera una prórroga al plazo señalado en el párrafo anterior, la obtendrá automáticamente mediante aviso a la Secretaría, en el formato que para tal efecto se expida, dentro de los diez días previos al vencimiento del plazo que habrá de prorrogarse. Mediante un primer aviso el plazo podrá prorrogarse hasta por sesenta días adicionales; hasta cuarenta días adicionales, mediante un segundo aviso; y hasta veinte días adicionales mediante un tercero y último aviso.
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 190.
 
-La cesión de derechos de un registro sanitario de los Insumos de que trata este Reglamento, deberá comunicarse por escrito a la Secretaría por el titular del mismo, en un plazo no mayor de treinta días a partir de la fecha en que se hubiere realizado. A esta comunicación se anexarán los documentos en los que conste la cesión y los proyectos de Etiqueta por duplicado en los que se exprese el nuevo titular.
+La cesión de derechos de un registro sanitario de los Insumos de que trata este Reglamento, deberá comunicarse por escrito a la Secretaría por el nuevo titular, en un plazo no mayor de treinta días hábiles contados a partir de la fecha en que se hubiere realizado. A esta comunicación se anexarán los documentos en los que conste la cesión y los proyectos de Etiqueta por duplicado en los que se exprese el nuevo titular.
 
-Para el trámite de la cesión de derechos a que se refiere el párrafo anterior se seguirá lo establecido para las modificaciones a las condiciones de registro.
-
-> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 190
 
-bis 1. Para obtener la prórroga del registro sanitario de medicamentos se deberá presentar con la solicitud, exclusivamente lo siguiente:
+bis 1. Para obtener la primera prórroga del registro sanitario de medicamentos se deberá presentar con la solicitud, exclusivamente lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2008)</small>
 
 I. Comprobante del pago de derechos, en términos de la Ley Federal de Derechos;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2008)</small>
 
 II. Número o copia simple del registro sanitario del cual se pide la prórroga;
 
-III. Informe técnico de las pruebas de intercambiabilidad, cuando haya cambios que puedan modificar la farmacocinética del medicamento, ya sea en los equipos de producción, en la calidad de los componentes, en los criterios de aceptación o en el proceso de producción;
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2021)</small>
 
-IV. Etiquetas en uso, instructivo, así como información para prescribir en sus formas amplia y reducida, previamente autorizados;
+III. En los casos de modificaciones mayores que impacten en la farmacocinética del medicamento, deberá presentar el informe técnico emitido por Unidades de Intercambiabilidad.
+
+IV. (DEROGADA, D.O.F. 31 DE MAYO DE 2021)
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2008)</small>
 
 V. Informe de farmacovigilancia del medicamento, en los términos de la normatividad aplicable, y
 
-VI. Para el caso de medicamentos alopáticos, certificado de buenas prácticas de fabricación del fármaco, expedido por la Secretaría o por la autoridad competente del país de origen.
+VI. (DEROGADA, D.O.F. 31 DE MAYO DE 2021)
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2014)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 31 DE MAYO DE 2021)</small>
 
-En caso de que el solicitante presente el certificado de la autoridad competente del país de origen, y éste provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación y el proceso de producción del medicamento, así como la certificación de sus principios activos, de conformidad con las Normas correspondientes. De ser el caso, la Secretaría fijará en un plazo no mayor a veinte días hábiles, la fecha en que la Secretaría o sus terceros autorizados, comprobarán el cumplimiento de las buenas prácticas de fabricación y el proceso de producción del medicamento, así como la certificación de sus principios activos en los términos previstos en la Ley y demás disposiciones aplicables. Si esta comprobación no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 31 DE MAYO DE 2021)</small>
 
-Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados.
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
-> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
+Para el otorgamiento de la prórroga del registro sanitario a que se refiere este artículo, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación del medicamento declarado en el oficio de registro, de conformidad con las Normas correspondientes.
 
-Para el otorgamiento de la prórroga del registro sanitario a que se refiere este artículo, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación y del proceso de producción del medicamento, así como la certificación de sus principios activos, de conformidad con las Normas correspondientes.
+> <small>(ADICIONADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
-> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
+Las solicitudes de prórroga de Registro Sanitario no serán un trámite adicional para revisar las condiciones autorizadas, la Secretaría únicamente considerará las modificaciones al Registro Sanitario para evaluar que los cambios realizados por el fabricante no impacten la calidad, eficacia y seguridad del medicamento.
+
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 190
 
-bis 2. Para obtener la prórroga del registro sanitario de medicamentos de fabricación extranjera, además de lo señalado en el artículo 190 Bis 1, fracciones I a V, se deberá presentar con la respectiva solicitud exclusivamente lo siguiente:
+bis 2. Para obtener la primera prórroga del registro sanitario de medicamentos de fabricación extranjera, además de lo señalado en el artículo 190 Bis 1, fracciones I, II, y V del presente Reglamento, se deberá adjuntar a la respectiva solicitud, exclusivamente lo siguiente:
 
 I. El documento que acredite a un representante legal con domicilio en los Estados Unidos Mexicanos;
 
-II. Para el caso de medicamentos alopáticos, certificado de buenas prácticas de fabricación del fármaco y del medicamento, expedido por la Secretaría o por la autoridad competente del país de origen, y
+II. Para el caso de medicamentos alopáticos, certificado de buenas prácticas de fabricación del medicamento, emitido por una agencia reguladora nacional reconocida por la Secretaría, y
 
-III. Para el caso de medicamentos herbolarios, vitamínicos y homeopáticos, certificado de buenas prácticas de fabricación del medicamento, expedido por la Secretaría o por la autoridad competente del país de origen.
+III. Para el caso de medicamentos herbolarios, homeopáticos, y vitamínicos cuando aplique, certificado de buenas prácticas de fabricación del medicamento, expedido por la Secretaría o por la autoridad competente del país de origen.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2014)</small>
+En caso de que el solicitante presente el certificado de buenas prácticas de fabricación del medicamento emitido por una agencia reguladora nacional que no sea reconocida por la Secretaría, ésta verificará el cumplimiento de las buenas prácticas de fabricación del medicamento, de conformidad con las Normas correspondientes.
 
-En caso de que el solicitante presente el certificado de la autoridad competente del país de origen, y éste provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación y el proceso de producción del medicamento, así como la certificación de sus principios activos, de conformidad con las Normas correspondientes. De ser el caso, la Secretaría fijará en un plazo no mayor a veinte días hábiles, la fecha en que la Secretaría o sus terceros autorizados, comprobarán el cumplimiento de las buenas prácticas de fabricación y el proceso de producción del medicamento, así como la certificación de sus principios activos en los términos previstos en la Ley y demás disposiciones aplicables. Si esta comprobación no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
-
-Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados.
-
-> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
-
-Para el otorgamiento de la prórroga del registro sanitario a que se refiere este artículo, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación y del proceso de producción del medicamento, así como la certificación de sus principios activos, de conformidad con las Normas correspondientes.
-
-> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 190
 
-bis 3. Para obtener la prórroga del registro sanitario de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación, productos higiénicos, y otros dispositivos de uso médico, que sean de fabricación nacional, se deberá presentar en el siguiente orden y con la solicitud exclusivamente lo siguiente:
+bis 3. Para obtener la primera prórroga del registro sanitario de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación, productos higiénicos, y otros dispositivos de uso médico, que sean de fabricación nacional, se deberá presentar en el siguiente orden y con la solicitud exclusivamente lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2007)</small>
 
 I. Comprobante del pago de derechos, en términos de la Ley Federal de Derechos;
 
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2007)</small>
+
 II. Número o copia simple del registro sanitario del cual se pide la prórroga y sus modificaciones;
 
-III. Etiquetas en uso, instructivo o manuales, previamente autorizados;
+III. (DEROGADA, D.O.F. 31 DE MAYO DE 2021)
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2007)</small>
 
 IV. Informe de tecnovigilancia por producto, en términos de la normatividad aplicable;
 
-V. Certificado de análisis emitido por la empresa que elabora el producto, con el membrete de su razón social y firmado por el responsable sanitario o su equivalente, y
+V. (DEROGADA, D.O.F. 31 DE MAYO DE 2021)
 
-VI. Certificado de buenas prácticas de fabricación del producto, expedido por la Secretaría. En caso de que el solicitante no presente este Certificado, la Secretaría fijará, en un plazo no mayor a veinte días hábiles, la fecha en que se realizará la visita de verificación, conforme al procedimiento establecido por la Secretaría y publicado en el Diario Oficial de la Federación. Si esta visita no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
+VI. (DEROGADA, D.O.F. 31 DE MAYO DE 2021)
 
-Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 31 DE MAYO DE 2021)</small>
 
-> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 190
 
-bis 4. Para obtener la prórroga del registro sanitario de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación, productos higiénicos y otros dispositivos de uso médico, que sean de fabricación extranjera, además de lo requerido en el artículo 190 Bis 3, fracciones I a V, se deberá presentar exclusivamente lo siguiente:
+bis 4. Para obtener la primera prórroga del registro sanitario de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación, productos higiénicos y otros dispositivos de uso médico, que sean de fabricación extranjera, además de lo requerido en el artículo 190 Bis 3, fracciones I, II, y IV, se deberá presentar exclusivamente lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2008)</small>
 
 I. El documento que acredite a un representante legal con domicilio en los Estados Unidos Mexicanos, y
 
-II. Certificado de buenas prácticas de fabricación del producto, expedido por la Secretaría, o por la autoridad competente del país de origen.
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2021)</small>
+
+II. Certificado de buenas prácticas de fabricación del producto, emitido por una agencia reguladora nacional reconocida por la Secretaría, y
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
 
 Para productos Clase I, II y Clase III se aceptará como equivalente del certificado de Buenas Prácticas de Fabricación al certificado ISO 13485 vigente o el certificado de marca CE expedido por un organismo de certificación autorizado.
 
-En caso de que el solicitante presente el certificado de la autoridad competente del país de origen y provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría podrá realizar una visita sanitaria al establecimiento para comprobar el cumplimiento de las buenas prácticas de fabricación. En dicho supuesto, la autoridad fijará en un plazo no mayor a veinte días hábiles, la fecha en que se realizará la visita de verificación, conforme al procedimiento establecido por la Secretaría y publicado en el Diario Oficial de la Federación. Si esta visita no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 31 DE MAYO DE 2021)</small>
 
-Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 31 DE MAYO DE 2021)</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE MAYO DE 2021)</small>
+
+Las solicitudes de prórroga de Registro Sanitario no serán un trámite adicional para revisar las condiciones autorizadas, la Secretaría únicamente considerará las modificaciones al Registro Sanitario para evaluar que los cambios realizados por el fabricante no impacten la calidad, eficacia y seguridad del insumo.
 
 > <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
 
@@ -2161,17 +2177,23 @@ bis 5. Al notificarse la resolución correspondiente a la solicitud de prórroga
 
 En caso de no contar con el original del registro deberá presentar copia de la denuncia efectuada ante el Ministerio Público de la pérdida o robo.
 
-> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 190
 
-bis 6. Las solicitudes de prórroga previstas en los artículos 190 Bis 1, 190 Bis 2, 190 Bis 3 y 190 Bis 4 deberán presentarse a más tardar ciento cincuenta días naturales antes de la fecha en que concluya la vigencia del registro correspondiente.
+bis 6. Las solicitudes de prórroga previstas en los artículos 190 Bis 1, 190 Bis 2, 190 Bis 3 y 190 Bis 4 deberán presentarse ciento cincuenta días naturales antes de la fecha en que concluya la vigencia del registro correspondiente.
 
-La Secretaría resolverá las solicitudes de prórroga de Insumos en un plazo máximo de ciento cincuenta días naturales siguientes a la presentación de la solicitud. Cuando el último día del plazo sea inhábil, se entenderá prorrogado hasta el día siguiente hábil. En caso de que la Secretaría no emita la resolución respectiva en los plazos señalados en este artículo, se entenderá procedente la solicitud.
+La Secretaría resolverá las solicitudes de prórroga de Insumos en un plazo máximo de ciento veinte días naturales siguientes a la presentación de la solicitud. Cuando el último día del plazo sea inhábil, se entenderá prorrogado hasta el día siguiente hábil. En caso de que la Secretaría no emita la resolución respectiva en los plazos señalados en este artículo, se entenderá procedente la solicitud.
 
-> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 2012)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
-En el caso de las solicitudes de prórroga, si el solicitante presenta dictamen expedido por Tercero Autorizado por la Secretaría, los plazos se reducirán a la mitad.
+###### ARTÍCULO 190
+
+bis 7. Los titulares de los Registros Sanitarios previstos en los artículos 190 Bis 1, 190 Bis 2, 190 Bis 3 y 190 Bis 4 de este Reglamento, para obtener su segunda prórroga y posteriores, deberán presentar a la Secretaría, cada cinco años y a más tardar ciento cincuenta días naturales antes de la fecha en que concluya la vigencia, la solicitud correspondiente, utilizando los formatos que dicha Secretaría expida para tal efecto.
+
+La constancia que emita la Secretaría, como acuse de recibo a la solicitud presentada, surtirá los efectos de prórroga del Registro Sanitario, la cual deberá conservar la misma clave alfanumérica asignada conforme a lo dispuesto por el artículo 165 de este Reglamento.
+
+De no presentarse las solicitudes en el período establecido para tal efecto, el Registro Sanitario perderá su vigencia y deberá solicitarse un nuevo registro conforme a lo dispuesto en este Reglamento.
 
 ###### ARTÍCULO 191.
 
@@ -2626,3 +2648,19 @@ SEGUNDO.- Las disposiciones del presente Decreto no le serán aplicables a los t
 D.O.F. 14 DE MARZO DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE INSUMOS PARA LA SALUD".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría de Salud tendrá ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas necesarias para el óptimo cumplimiento de su contenido, incluyendo la publicación en el Diario Oficial de la Federación del formato a que se refiere el primer párrafo del artículo 190 Bis 7.
+
+TERCERO.- A partir de la entrada en vigor del presente Decreto, el sector público contará con ciento ochenta días naturales, a efecto de implementar las medidas necesarias para la adquisición de medicamentos que cumplan con los requisitos establecidos en la presente reforma al artículo 26 del Reglamento de Insumos para la Salud.
+
+CUARTO.- A partir de la entrada en vigor del presente Decreto, los fabricantes o establecimientos cuyos medicamentos no cumplan con lo establecido en el artículo 26 del Reglamento de Insumos para la Salud, tendrán ciento veinte días naturales para agotar la existencia de materiales de envase y productos terminados de aquéllos.
+
+QUINTO.- Las solicitudes de prórroga de Registro Sanitario que se encuentren en trámite a la entrada en vigor del presente Decreto, así como las que se deban presentar durante el periodo que transcurra hasta la publicación del formato a que se refiere el primer párrafo del artículo 190 Bis 7, se atenderán hasta su conclusión conforme a las disposiciones vigentes al momento de su presentación.
+
+SEXTO.- Los titulares de registros sanitarios que cuenten con una primera prórroga, podrán solicitar la segunda o posteriores, una vez publicado el formato a que se refiere el primer párrafo del artículo 190 Bis 7 del presente Decreto, hasta en tanto se haga la publicación referida, se deberán ajustar a los requisitos y formatos vigentes al momento de presentación de la solicitud de prórroga correspondiente.
