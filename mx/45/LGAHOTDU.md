@@ -4,7 +4,7 @@ identifier: "LGAHOTDU"
 country: "mx"
 rank: "ley_general"
 publication_date: "2016-11-28"
-last_updated: "2020-12-01"
+last_updated: "2021-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117395&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGAHOTDU"
 
 LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2021.
 
 Ley publicada en la Primera Sección al Número 21 del Diario Oficial de la Federación, el lunes 28 de noviembre de 2016.
 
@@ -160,6 +160,18 @@ XXXIX. Zonificación Primaria: la determinación de las áreas que integran y de
 
 XL. Zonificación Secundaria: la determinación de los Usos de suelo en un Espacio Edificable y no edificable, así como la definición de los Destinos específicos.
 
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+XLI. Instituto Municipal de Planeación: Organismo público descentralizado de la administración pública municipal, con personalidad jurídica y patrimonio propio, creado y operado en los municipios con un rango de población igual o mayor a cien mil habitantes, cuyo objetivo es contribuir a la planeación, ordenamiento territorial y desarrollo urbano del municipio;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+XLII. Instituto Multimunicipal de Planeación: Organismo público descentralizado de la administración pública municipal, con personalidad jurídica y patrimonio propios, creado, operado de manera conjunta por municipios asociados, los cuales estén situados en un rango de población menor a cien mil habitantes, cuyo objetivo es contribuir a la planeación, ordenamiento territorial y desarrollo urbano de los municipios asociados;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+XLIII. Instituto Metropolitano de Planeación: Organismo público descentralizado de la administración pública estatal y municipal con personalidad jurídica y patrimonio propio, creado y operado de manera coordinada por las entidades federativas y los municipios que conforman una determinada zona metropolitana, cuyo objetivo es contribuir a la planeación y ordenamiento territorial de la zona metropolitana correspondiente.
+
 ### Capítulo Segundo. Principios
 
 ###### Artículo 4.
@@ -224,9 +236,11 @@ En términos de la Constitución Política de los Estados Unidos Mexicanos, las 
 
 ### Capítulo Primero. Concurrencia
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2021)</small>
+
 ###### Artículo 7.
 
-Las atribuciones en materia de ordenamiento territorial, asentamientos humanos, desarrollo urbano y desarrollo metropolitano, serán ejercidos de manera concurrente por la Federación, las entidades federativas, los municipios y las Demarcaciones Territoriales, en el ámbito de la competencia que les otorga la Constitución Política de los Estados Unidos Mexicanos y esta Ley, así como a través de los mecanismos de coordinación y concertación que se generen.
+Las atribuciones en materia de planeación, así como de ordenamiento territorial, asentamientos humanos, desarrollo urbano y desarrollo metropolitano, serán ejercidos de manera concurrente por la Federación, las entidades federativas, los municipios y las Demarcaciones Territoriales, en el ámbito de la competencia que les otorga la Constitución Política de los Estados Unidos Mexicanos y esta Ley, así como a través de los mecanismos de coordinación y concertación que se generen.
 
 ### Capítulo Segundo. Atribuciones de la Federación
 
@@ -246,7 +260,9 @@ IV. Expedir los lineamientos en materia de equipamiento, infraestructura, medio 
 
 V. Promover la implementación de sistemas o dispositivos de alta eficiencia energética en las obras públicas de infraestructura y Equipamiento Urbano, para garantizar el Desarrollo Urbano sostenible;
 
-VI. Prever a nivel nacional las necesidades de tierra para Desarrollo Urbano y vivienda, considerando la disponibilidad de agua determinada por la Secretaría de Medio Ambiente y Recursos Naturales y regular, en coordinación con los gobiernos de las entidades federativas y de los municipios, los mecanismos para satisfacer dichas necesidades;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+VI. Prever a nivel nacional las necesidades de tierra para Desarrollo Urbano y vivienda, evitando las zonas de riesgo, priorizando las zonas que faciliten la introducción de servicios básicos de infraestructura y su resiliencia, esto considerando la disponibilidad de agua determinada por la Secretaría de Medio Ambiente y Recursos Naturales y regular, en coordinación con los gobiernos de las entidades federativas y de los municipios, los mecanismos para satisfacer dichas necesidades;
 
 VII. Elaborar, apoyar y ejecutar programas que tengan por objeto satisfacer las necesidades de suelo urbano y el establecimiento de Provisiones y Reservas territoriales para el adecuado desarrollo de los Centros de Población, lo anterior con la colaboración entre las dependencias y entidades de la Administración Pública Federal correspondientes, con la coordinación entre éstas y los gobiernos de las entidades federativas y de los municipios, y con la participación y concertación con los diversos grupos sociales;
 
@@ -260,11 +276,15 @@ X. Formular y ejecutar el programa nacional de ordenamiento territorial y desarr
 
 XI. Participar en la identificación, delimitación y planeación de las Zonas Metropolitanas y conurbadas a que se refiere esta Ley;
 
-XII. Proponer a las instancias competentes de las entidades federativas y los municipios la creación de institutos de planeación, observatorios ciudadanos, consejos participativos y otras estructuras institucionales y ciudadanas, en los términos de esta Ley;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+XII. Impulsar y promover en las instancias competentes de las entidades federativas y los municipios la creación de institutos municipales, multimunicipales, metropolitanos y estatales de planeación, observatorios ciudadanos, así como proponer la creación de consejos participativos y otras estructuras institucionales y ciudadanas, en los términos de esta Ley;
 
 XIII. Coordinar sus actuaciones con las entidades federativas y los municipios, con la participación de los sectores social y privado, en la realización de acciones e inversiones para el ordenamiento territorial de los asentamientos humanos y el Desarrollo Urbano de los Centros de Población, mediante la celebración de convenios y acuerdos;
 
-XIV. Asesorar a los gobiernos estatales, municipales y las Demarcaciones Territoriales que lo soliciten, en la elaboración y ejecución de sus planes o programas de Desarrollo Urbano y en la capacitación técnica de su personal;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+XIV. Asesorar a los gobiernos estatales, municipales y las Demarcaciones Territoriales que lo soliciten, en la conformación de los Institutos municipales, multimunicipales, metropolitanos, así como en la elaboración y ejecución de sus planes o programas de Desarrollo Urbano y en la capacitación técnica de su personal;
 
 XV. Proponer a las autoridades de las entidades federativas la Fundación de Centros de Población;
 
@@ -280,7 +300,9 @@ XX. La expedición de las normas oficiales mexicanas y la vigilancia de su cumpl
 
 XXI. Participar en la ordenación y regulación de zonas conurbadas de Centros de Población ubicados en el territorio de dos o más entidades federativas;
 
-XXII. Fomentar el desarrollo de estudios e investigaciones, así como la capacitación y asistencia técnica en materia de ordenamiento territorial, Desarrollo Urbano y Desarrollo Metropolitano;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+XXII. Fomentar el desarrollo de estudios e investigaciones, así como la capacitación y asistencia técnica en materia de planeación, ordenamiento territorial, Desarrollo Urbano y Desarrollo Metropolitano;
 
 XXIII. Promover, en coordinación con la Secretaría de Gobernación, la elaboración de instrumentos que identifiquen las zonas de alto riesgo ante los fenómenos perturbadores de origen natural y antropogénicos;
 
@@ -336,7 +358,9 @@ V. Formular, aprobar y administrar su programa estatal de ordenamiento territori
 
 VI. Promover y decretar la Fundación de nuevos Centros de Población, a partir de las propuestas que hagan la Secretaría o los municipios;
 
-VII. Analizar y calificar la congruencia y vinculación con la planeación estatal, que deberán observar los distintos programas municipales de Desarrollo Urbano, incluyendo los de conurbaciones o zonas metropolitanas, a través de dictámenes de congruencia estatal;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+VII. Analizar y calificar la congruencia y vinculación con la planeación estatal, que deberán observar los distintos programas municipales de Desarrollo Urbano, incluyendo los de los municipios asociados, conurbaciones o zonas metropolitanas, a través de dictámenes de congruencia estatal;
 
 VIII. Inscribir en el Registro Público de la Propiedad, a petición de parte, los planes y programas municipales en materia de Desarrollo Urbano, Reservas, Usos del suelo y Destinos de áreas y predios, cuando éstos tengan congruencia y estén ajustados con la planeación estatal y federal;
 
@@ -350,9 +374,13 @@ XII. Emitir y, en su caso, modificar la legislación local en materia de Desarro
 
 XIII. Participar en la planeación y regulación de las zonas metropolitanas y conurbaciones, en los términos previstos en esta Ley y en las leyes de las entidades federativas que, en su caso, corresponda;
 
-XIV. Establecer y participar en las instancias de coordinación metropolitana en los términos de esta Ley;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2021)</small>
 
-XV. Coordinar sus acciones con la Federación, con otras entidades federativas sus municipios o Demarcaciones Territoriales, según corresponda, para el Ordenamiento Territorial de los Asentamientos Humanos y la planeación del Desarrollo Urbano y Desarrollo Metropolitano; así como para la ejecución de acciones, obras e inversiones en materia de infraestructura, equipamiento y Servicios Urbanos, incluyendo las relativas a la Movilidad y a la accesibilidad universal;
+XIV. Impulsar y promover la creación de los institutos municipales, multimunicipales y metropolitanos de planeación, así mismo, establecer y participar en las instancias de coordinación metropolitana en los términos de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+XV. Coordinar sus acciones con la Federación, con otras entidades federativas sus municipios, municipios asociados o Demarcaciones Territoriales, según corresponda, para el Ordenamiento Territorial de los Asentamientos Humanos y la planeación del Desarrollo Urbano y Desarrollo Metropolitano; así como para la ejecución de acciones, obras e inversiones en materia de infraestructura, equipamiento y Servicios Urbanos, incluyendo las relativas a la Movilidad y a la accesibilidad universal;
 
 XVI. Convenir con los sectores social y privado la realización de acciones e inversiones concertadas para el Desarrollo Regional, Desarrollo Urbano y Desarrollo Metropolitano, atendiendo a los principios de esta Ley y a lo establecido en las leyes en la materia;
 
@@ -360,7 +388,9 @@ XVII. Apoyar a los municipios que lo soliciten, en la administración de los ser
 
 XVIII. Evaluar y dar seguimiento, en los términos de las leyes locales relativas, al impacto urbano o regional de obras y proyectos que generen efectos en el territorio de uno o más municipios de la entidad de que se trate;
 
-XIX. Apoyar a las autoridades municipales que lo soliciten, en la administración de la planeación del Desarrollo Urbano, o convenir con ellas la transferencia de facultades estatales en materia urbana, en términos de los convenios que para ese efecto se celebren;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+XIX. Apoyar a las autoridades municipales que lo soliciten, en el asesoramiento y capacitación sobre la administración de la planeación del Desarrollo Urbano, o para la celebración de convenios entre estas para la creación y mantenimiento de institutos multimunicipales, metropolitanos de planeación o en dado caso, convenir con ellas la transferencia de facultades estatales en materia urbana, en términos de los convenios que para ese efecto se celebren;
 
 XX. Imponer sanciones administrativas a los infractores de las disposiciones jurídicas y de los programas estatales de Desarrollo Urbano y Desarrollo Metropolitano, conforme a lo que prevea la Ley General de Responsabilidades Administrativas, así como dar vista a las autoridades competentes, para la aplicación de las sanciones que en materia penal se deriven de las faltas y violaciones a tales disposiciones;
 
@@ -394,9 +424,13 @@ IV. Promover y ejecutar acciones, inversiones y servicios públicos para la Cons
 
 V. Proponer a las autoridades competentes de las entidades federativas la Fundación y, en su caso, la desaparición de Centros de Población;
 
-VI. Participar en la planeación y regulación de las zonas metropolitanas y conurbaciones, en los términos de esta Ley y de la legislación local;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2021)</small>
 
-VII. Celebrar convenios de asociación con otros municipios para fortalecer sus procesos de planeación urbana, así como para la programación, financiamiento y ejecución de acciones, obras y prestación de servicios comunes;
+VI. Impulsar y promover la conformación de institutos metropolitanos de planeación junto con los municipios que conforman una zona metropolitana determinada, así como participar en la planeación y regulación de las zonas metropolitanas y conurbaciones, en los términos de esta Ley y de la legislación local;
+
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+VII. Celebrar convenios de asociación con otros municipios para fortalecer sus procesos de planeación urbana, así como para la programación, financiamiento y ejecución de acciones, obras y prestación de servicios comunes; así como para crear y mantener un instituto multimunicipal de planeación, cuando los municipios se encuentren por debajo de un rango de población menor a cien mil habitantes;
 
 VIII. Celebrar con la Federación, la entidad federativa respectiva, con otros municipios, Demarcaciones Territoriales o con los particulares, convenios y acuerdos de coordinación y concertación que apoyen los objetivos y prioridades previstos en los planes o programas municipales de Desarrollo Urbano, de Centros de Población y los demás que de éstos deriven;
 
@@ -433,6 +467,10 @@ XXIII. Promover el cumplimiento y la plena vigencia de los derechos relacionados
 XXIV. Promover y ejecutar acciones para prevenir y, mitigar el riesgo de los asentamientos humanos y aumentar la Resiliencia de los mismos ante fenómenos naturales y antropogénicos, y
 
 XXV. Las demás que les señale esta Ley y otras disposiciones jurídicas federales y locales.
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+XXVI. Impulsar y promover un instituto municipal de planeación, cuando se encuentre en un rango de población de cien mil habitantes hacia arriba.
 
 ### Capítulo Quinto. Coordinación y concertación
 
@@ -476,7 +514,9 @@ VI. Conocer y opinar los convenios de zonas metropolitanas;
 
 VII. Conocer y opinar de la creación de nuevos Centros de Población;
 
-VIII. Promover la creación de institutos de planeación, observatorios ciudadanos, consejos participativos y otras estructuras institucionales y ciudadanas;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+VIII. Impulsar y promover la creación de institutos municipales, multimunicipales y metropolitanos de planeación, observatorios ciudadanos, así como promover la de los consejos participativos y otras estructuras institucionales y ciudadanas;
 
 IX. Opinar sobre los presupuestos de las dependencias y entidades de la Administración Pública Federal y de los organismos nacionales, estatales y, en su caso, municipales y de las Demarcaciones Territoriales, destinados a programas y acciones urbanísticas;
 
@@ -493,6 +533,10 @@ XIV. Emitir los lineamientos para su operación y funcionamiento;
 XV. Aprobar la creación de comités y grupos de trabajo para la atención de temas específicos y emitir los lineamientos para su operación, y
 
 XVI. Las demás que le señale esta Ley.
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+XVII. Apoyar a las autoridades de las entidades federativas y municipales que lo soliciten, en el asesoramiento y capacitación sobre la creacion, implementación, operación, organización, solicitud y generación de ingresos de los institutos, ya sean municipales, multimunicipales, y metropolitanos de planeación.
 
 ###### Artículo 17.
 
@@ -706,21 +750,27 @@ IV. Cumplidas las formalidades para su aprobación, el plan o programa respectiv
 
 ### Capítulo Quinto. Programas Metropolitanos y de Zonas Conurbadas
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2021)</small>
+
 ###### Artículo 31.
 
-Cuando uno o más centros urbanos situados en territorios municipales o demarcaciones territoriales de dos o más entidades federativas formen una continuidad física y demográfica, la Federación, las entidades federativas, los municipios o las Demarcaciones Territoriales respectivas, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros urbanos con apego a lo dispuesto por esta Ley, y constituirán una Zona Metropolitana o conurbada interestatal.
+Cuando uno o más centros urbanos situados en territorios municipales o demarcaciones territoriales de dos o más entidades federativas formen una continuidad física y demográfica, la Federación, las entidades federativas, los municipios o las Demarcaciones Territoriales respectivas, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros urbanos con apego a lo dispuesto por esta Ley, y constituirán una Zona Metropolitana o conurbada interestatal, la cual procurará contar con un instituto metropolitano de planeación, integrado y operado por miembros de cada municipio que constituye dicha zona metropolitana.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2021)</small>
 
 ###### Artículo 32.
 
-La Federación, las entidades federativas, los municipios y las Demarcaciones Territoriales deberán convenir la delimitación y constitución de una Zona Metropolitana o conurbada cuando sea procedente el estudio y planeación conjunta de dos o más Centros de Población, situados en el territorio de entidades federativas vecinas.
+La Federación, las entidades federativas, los municipios y las Demarcaciones Territoriales deberán convenir la delimitación y constitución de una Zona Metropolitana o conurbada cuando sea procedente el estudio y planeación conjunta de dos o más Centros de Población, situados en el territorio de una entidad federativa o en el territorio de entidades federativas vecinas.
 
 En las zonas metropolitanas interestatales y conurbaciones interestatales se constituirá una comisión de ordenamiento, que tendrá carácter permanente y será integrada por un representante de cada entidad federativa y de cada municipio que lo integre, así como un representante de la Secretaría quien lo presidirá; funcionará como mecanismo de coordinación institucional y de concertación de acciones e inversiones con los sectores social y privado.
 
 Dicha comisión formulará y aprobará el programa de ordenación de la Zona Metropolitana o conurbada interestatal e intermunicipal, así como gestionará y evaluará su cumplimiento.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2021)</small>
+
 ###### Artículo 33.
 
-Las zonas metropolitanas o conurbaciones ubicadas en el territorio de uno o más municipios de una misma entidad federativa, serán reguladas por la legislación local y se coordinarán con las autoridades federales y estatales, atendiendo a los principios, políticas y lineamientos a que se refiere esta Ley. Los gobiernos Federal, estatales y municipales planearán de manera conjunta y coordinada su desarrollo, con la participación efectiva de la sociedad, así como para la más eficaz prestación de los servicios públicos.
+Las zonas metropolitanas o conurbaciones ubicadas en el territorio de uno o más municipios de una misma entidad federativa, serán reguladas por la legislación local y se coordinarán con las autoridades federales y estatales, atendiendo a los principios, políticas y lineamientos a que se refiere esta Ley. Los gobiernos Federal, estatales y municipales planearán de manera conjunta y coordinada su desarrollo, procurando la creación y operación de un instituto metropolitano de planeación y la participación efectiva de la sociedad, así como para la más eficaz prestación de los servicios públicos.
 
 ###### Artículo 34.
 
@@ -772,7 +822,9 @@ II. Un consejo consultivo de desarrollo metropolitano que promoverá los proceso
 
 Dicho Consejo se integrará con perspectiva de género, por representantes de los tres órdenes de gobierno y representantes de agrupaciones sociales legalmente constituidas, colegios de profesionistas, instituciones académicas y expertos en la materia, este último sector que deberá conformar mayoría en el consejo. Sus integrantes elegirán a quien los presida;
 
-III. Los mecanismos de carácter técnico a cargo de las entidades federativas y municipios, bajo la figura que corresponda sesionarán permanentemente. La comisión de ordenamiento metropolitano y el consejo consultivo de Desarrollo Metropolitano que sesionarán por lo menos trimestralmente. Los instrumentos jurídicos, para su integración y funcionamiento, y su reglamento interior, estarán sujetos a lo señalado por esta Ley y la legislación estatal aplicable;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+III. Los mecanismos de carácter técnico a cargo de las entidades federativas y municipios, bajo la figura que corresponda, así como los institutos metropolitanos de planeación, sesionarán permanentemente. La comisión de ordenamiento metropolitano y el consejo consultivo de Desarrollo Metropolitano que sesionarán por lo menos trimestralmente. Los instrumentos jurídicos, para su integración y funcionamiento, y su reglamento interior, estarán sujetos a lo señalado por esta Ley y la legislación estatal aplicable;
 
 IV. Las instancias que permitan la prestación de servicios públicos comunes, y
 
@@ -808,7 +860,9 @@ XII. Las estrategias de seguridad, prevención del riesgo y Resiliencia, y
 
 XIII. Metodología o indicadores para dar seguimiento y evaluar la aplicación y el cumplimiento de los objetivos del programa de la Zona Metropolitana o Conurbación.
 
-Adicionalmente, los municipios y, en su caso, las Demarcaciones Territoriales, podrán formular y aprobar programas parciales que establecerán el diagnóstico, los objetivos y las estrategias gubernamentales para los diferentes temas o materias, priorizando los temas de interés metropolitano establecidos en esta Ley.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+Adicionalmente, los municipios y, en su caso, las Demarcaciones Territoriales, procurarán constituir e integrar un instituto metropolitano de planeación, crear sus institutos municipales de planeación y podrán formular y aprobar programas parciales que establecerán el diagnóstico, los objetivos y las estrategias gubernamentales para los diferentes temas o materias, priorizando los temas de interés metropolitano establecidos en esta Ley.
 
 ###### Artículo 38.
 
@@ -832,9 +886,11 @@ Las entidades federativas y los municipios promoverán la elaboración de progra
 
 Dichos programas parciales serán regulados por la legislación estatal y podrán integrar los planteamientos sectoriales del Desarrollo Urbano, en materias tales como: centros históricos, Movilidad, medio ambiente, vivienda, agua y saneamiento, entre otras.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2021)</small>
+
 ###### Artículo 42.
 
-Las leyes locales establecerán esquemas simplificados de planeación para las localidades menores a cincuenta mil habitantes que, en su caso, deberán tener la debida congruencia, coordinación y ajuste con planes o programas de Desarrollo Urbano elaborados conforme a las disposiciones de esta Ley.
+Las leyes locales establecerán esquemas de asociación y cooperación mutua entre dos o más municipios para crear y mantener un Instituto Municipal de planeación para las localidades menores a cien mil habitantes que, en su caso, tratarán temas de interés de cada municipio y aquellos que posiblemente compartan entre ellos, estos deberán tener la debida congruencia, coordinación y ajuste con planes o programas de Desarrollo Urbano elaborados conforme a las disposiciones de esta Ley.
 
 ###### Artículo 43.
 
@@ -1014,7 +1070,7 @@ I. En las Zonas de Conservación se regulará la mezcla de Usos del suelo y sus 
 
 (NOTA 1: EL 4 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, DÉCIMO QUINTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE FEBRERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-(NOTA 2: EL 8 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, DÉCIMO QUINTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 18/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE FEBRERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA 2: EL 8 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, DÉCIMO QUINTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 18/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE FEBRERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).}
 
 (NOTA 3: EL 8 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, DÉCIMO QUINTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 20/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE FEBRERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1769,3 +1825,9 @@ D.O.F. 1 DE DICIEMBRE DE 2020.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las acciones que realicen las dependencias y entidades de la Administración Pública para dar cumplimiento al presente Decreto se sujetarán a los programas presupuestarios en la materia y se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
+
+D.O.F. 1 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
