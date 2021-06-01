@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2020-11-28"
+last_updated: "2021-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2021.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -737,7 +737,9 @@ III. Proponer a la Asamblea la designación de los funcionarios públicos del Co
 
 IV. Proponer a la Asamblea, en los términos de esta ley, la designación del Secretario General; de los directores del Centro de Investigaciones Legislativas y del Sistema de Radio y Televisión del Congreso del Estado; de los titulares de los Órganos Técnicos Auxiliares de comisiones, y los titulares de las Coordinaciones de las Áreas Administrativa y Legislativa de la Secretaría General;
 
-V. Presentar propuestas al proyecto de Presupuesto de Egresos anual que presente la Comisión de Administración y Planeación Legislativa;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
+
+V. Presentar propuestas a la Proyección de Ingresos y al proyecto de Presupuesto de Egresos anual que presente la Comisión de Administración y Planeación Legislativa;
 
 VI. Presentar propuestas a la Mesa Directiva, del programa legislativo de las sesiones, así como el calendario para su desahogo;
 
@@ -1445,9 +1447,13 @@ VI. La propuesta a la Asamblea sobre la edición de libros, revistas, folletos o
 
 VII. Formular y presentar a la Asamblea para su aprobación, el Plan Institucional del Poder Legislativo;
 
-VIII. La formulación del dictamen del anteproyecto de Presupuesto de Egresos del Poder Legislativo para el ejercicio fiscal siguiente, y una vez aprobado por la Asamblea se remite al Poder Ejecutivo a más tardar el 15 de agosto del año anterior al ejercicio fiscal correspondiente;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
 
-IX. La formulación del dictamen del Presupuesto de Egresos del Congreso del Estado junto con la clasificación por objeto del gasto y la plantilla de personal, para el ejercicio fiscal correspondiente, posterior a la aprobación del Presupuesto de Egresos del Estado; y
+VIII. La formulación del dictamen de la Proyección de Ingresos y del anteproyecto de Presupuesto de Egresos del Poder Legislativo para el ejercicio fiscal siguiente, y una vez aprobado por la Asamblea se remite al Poder Ejecutivo a más tardar el 15 de agosto del año anterior al ejercicio fiscal correspondiente;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
+
+IX. La formulación del dictamen de la Proyección de Ingresos y Presupuesto de Egresos del Poder Legislativo junto con la clasificación por objeto del gasto y la plantilla de personal, para el ejercicio fiscal correspondiente, posterior a la aprobación del Presupuesto de Egresos del Estado; y
 
 X. La formulación y la remisión directa a la Auditoría Superior de los informes de avance de la gestión financiera y de gestión del desempeño del Congreso del Estado, éste último, con base en el Plan Institucional del Poder Legislativo y las Matrices de Indicadores de Resultados.
 
@@ -3836,5 +3842,11 @@ Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudad
 P.O. 28 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28002/LXII/20 QUE REFORMA EL ARTÍCULO 200, NUMERAL 1, FRACCIONES I Y II, Y ADICIONA LA FRACCIÓN III DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 1 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 28397/LXII/21 QUE REFORMA LOS ARTÍCULOS 47 Y 80 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, Y LOS ARTÍCULOS 73 Y 81 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
