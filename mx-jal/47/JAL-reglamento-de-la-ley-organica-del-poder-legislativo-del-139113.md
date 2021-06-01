@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-139113"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-11-09"
-last_updated: "2020-10-17"
+last_updated: "2021-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2021.
 
 Reglamento publicado en la Sección XXII del número 20 del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2020.
 
@@ -1153,6 +1153,8 @@ d) Las demás establecidas en otras disposiciones reglamentarias aplicables.
 
 ###### Artículo 73.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 1 DE JUNIO DE 2021)</small>
+
 1. El Secretario General tiene las siguientes atribuciones:
 
 I. Desempeñar sus funciones, conforme a la normatividad aplicable y los principios rectores siguientes: transparencia, racionalidad, austeridad, eficacia, eficiencia, economía, disciplina presupuestal, imparcialidad y profesionalismo;
@@ -1273,9 +1275,13 @@ L. Vigilar que los bienes del Congreso cuenten con los servicios preventivos y c
 
 LI. Proponer a la Comisión, la desincorporación de los bienes muebles del Congreso que resulte incosteable su conservación y mantenimiento;
 
-LII. Elaborar y presentar a la Comisión, el anteproyecto de Presupuesto de Egresos del Congreso, a más tardar en el mes de julio de cada año;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
 
-LIII. Elaborar y presentar a la Comisión, el proyecto de Presupuesto de Egresos del Congreso, junto con su clasificador por objeto del gasto y su plantilla de personal, posterior a la aprobación del Presupuesto de Egresos del Estado;
+LII. Elaborar y presentar a la Comisión la Proyección de Ingresos y el anteproyecto de Presupuesto de Egresos del Congreso, a más tardar en el mes de julio de cada año;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
+
+LIII. Elaborar y presentar a la Comisión la Proyección de Ingresos y el proyecto de Presupuesto de Egresos del congreso, junto con su clasificador por objeto del gasto y su plantilla de personal, posterior a la aprobación del Presupuesto de Egresos del Estado;
 
 LIV. Recibir los caudales correspondientes al Presupuesto de Egresos del Congreso del Estado;
 
@@ -1525,7 +1531,9 @@ V. Notificar al personal a través de los medios idóneos, las disposiciones nor
 
 VI. Elaborar, por instrucciones del Secretario General, los nombramientos de los servidores públicos del Congreso del Estado; y
 
-VII. Dirigir y coordinar la elaboración del anteproyecto de Presupuesto de Egresos del Congreso y presentarlo para su revisión al Secretario General;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
+
+VII. Dirigir y coordinar la elaboración de la proyección de ingresos y del anteproyecto de Presupuesto de Egresos del Congreso y presentarlo para su revisión al Secretario General;
 
 VIII. Tramitar ante la Secretaría de Hacienda del Estado la ministración de los fondos del Presupuesto de Egresos del Estado, correspondientes al Congreso del Estado;
 
@@ -1558,6 +1566,14 @@ XXI. Coordinar los trabajos de planeación de las Coordinaciones;
 XXII. Recibir los informes e integrar los diagnósticos de cumplimiento de objetivos y metas de las Matrices de Indicadores de Resultados de las Coordinaciones y remitirlos a la Comisión; y
 
 XXIII. Las demás que establezca este Reglamento y otras disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2021)</small>
+
+2. Para los efectos de la fracción III del párrafo 1 del presente artículo, los pagos de nómina a los servidores públicos del Congreso del Estado se realizarán a través de medios electrónicos en cumplimiento a las disposiciones de la Ley General en Materia de Contabilidad Gubernamental, mientras que los pagos de nómina mediante cheque nominativo se realizarán sólo cuando la situación laboral del servidor público lo requiera.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2021)</small>
+
+3. El comprobante fiscal digital por internet es el mecanismo a través del cual los servidores públicos podrán verificar las remuneraciones y las deducciones aplicadas en su nómina, y funge como comprobante del pago realizado por el Congreso del Estado.
 
 ### Capítulo VIII. Coordinación de Parlamento Abierto, Transparencia y Participación Ciudadana
 
@@ -4476,3 +4492,9 @@ P.O. 17 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 27995/LXII/20 QUE REFORMA LAS FRACCIONES XII Y XVI DEL ARTÍCULO 16 Y LA FRACCIÓN XV DEL ARTÍCULO 18 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entra en vigor el mismo día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 1 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28397/LXII/21 QUE REFORMA LOS ARTÍCULOS 47 Y 80 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, Y LOS ARTÍCULOS 73 Y 81 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
