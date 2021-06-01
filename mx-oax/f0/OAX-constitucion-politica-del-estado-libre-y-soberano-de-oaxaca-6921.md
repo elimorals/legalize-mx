@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2021-05-22"
+last_updated: "2021-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2021.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -2015,9 +2015,9 @@ LXVII. Expedir la convocatoria para la integración de los órganos establecidos
 
 LXVIII. Aprobar, mediante el voto de la mayoría de los diputados presentes, el convenio y el programa de gobierno de coalición que, en su caso, celebre el Gobernador con uno o varios partidos políticos representados en el Congreso del Estado;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
 
-LXIX. Expedir la Ley del Sistema Estatal de Combate a la Corrupción.
+LXIX. Expedir la Ley del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca.
 
 > <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2021)</small>
 
@@ -3373,21 +3373,31 @@ Durante el ejercicio de su encargo no podrá ocupar cargo en partidos políticos
 
 B.- (DEROGADO, P.O. 13 DE FEBRERO DE 2021)
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2021)</small>
 
-C. EL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES.
+C. EL ÓRGANO GARANTE DE ACCESO A LA INFORMACIÓN PÚBLICA, TRANSPARENCIA, PROTECCIÓN DE DATOS PERSONALES Y BUEN GOBIERNO DEL ESTADO DE OAXACA.
 
-El Instituto de Acceso a la Información Pública y Protección de Datos Personales, es un órgano autónomo del Estado, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos que establezca la ley.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
-Sesionará colegiadamente y públicamente, se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+El Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, es un órgano autónomo del Estado, especializado, independiente, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de salvaguardar el ejercicio de los derechos de acceso a la información pública, a la protección de datos personales y garantizar la observancia de las normas y principios de buen gobierno, en los términos que establezca la ley.
 
-Su Pleno estará integrado por un Comisionado Presidente y dos Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de reelección y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
+
+Sesionará colegiadamente y públicamente, se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia, máxima publicidad, buena fe, no discriminación, oportunidad y buen gobierno.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
+
+Su pleno estará integrado por un Comisionado Presidente y cuatro Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso de (sic) Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de relección (sic) y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia. La Presidencia del Consejo General será rotativa cada 2 años.
 
 El nombramiento podrá ser objetado por el Gobernador del Estado, en un plazo de diez días hábiles. Si el Gobernador no objetare el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionado, la persona nombrada por el Congreso del Estado.
 
-No podrán ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en el servicio público, excepto en instituciones docentes, científicas o de beneficencia, siempre que no medie remuneración alguna. Sólo podrán ser removidos de conformidad con lo dispuesto en esta Constitución y las leyes de la materia. Percibirán una remuneración conforme la legislación que establezca el Estado.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
-El Instituto contará con las siguientes atribuciones:
+Sus integrantes, no podrán ocupar cargo en partidos políticos ni desempeñar otro empleo cargo o comisión en el servicio público, excepto en instituciones docentes, científicas o de beneficencia, siempre que no medie remuneración alguna. Sólo podrán ser removidos de conformidad con lo dispuesto en esta Constitución y las leyes de la materia. Percibirán una remuneración conforme la legislación que establezca el Estado, observando en todo momento el principio de austeridad.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JUNIO DE 2021)</small>
+
+El Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca contará con las siguientes atribuciones:
 
 I. Conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad, órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, Órganos Autónomos del Estado, partidos políticos, fideicomisos y fondos públicos, así como, de cualquier persona física, moral o sindicatos que reciban y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal;
 
@@ -3395,9 +3405,13 @@ II. Emitir criterios generales y lineamientos para la salvaguarda de los derecho
 
 III. Conocer, instruir y resolver en única instancia, las impugnaciones y acciones que se presenten contra las autoridades que nieguen o restrinjan el acceso a la información pública;
 
-IV. El Instituto remitirá para conocimiento a petición fundada al organismo garante federal los recursos de revisión que por su interés y trascendencia así lo ameriten. La ley establecerá aquella información que se considere reservada o confidencial.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
 
-V. Las resoluciones del Instituto son vinculatorias, definitivas e inatacables para los sujetos obligados. El Consejero Jurídico del Gobierno del Estado podrá interponer recurso de revisión ante el Poder Judicial del Estado en los términos que establezca la ley, sólo en el caso que dichas resoluciones puedan poner en peligro la seguridad estatal y nacional conforme a la ley.
+IV. Remitir, para conocimiento a petición fundada al organismo garante federal los recursos de revisión que por su interés y trascendencia así lo ameriten. La ley establecerá aquella información que se considere reservada o confidencial.
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
+
+V. Las resoluciones del Órgano Garante son vinculatorias, definitivas e inatacables para los sujetos obligados. El Consejero Jurídico del Gobierno del Estado podrá interponer recurso de revisión ante el Poder Judicial del Estado en los términos que establezca la ley, sólo en el caso que dichas resoluciones puedan poner en peligro la seguridad estatal y nacional conforme a la ley.
 
 VI. Promover entre los servidores públicos y la población en general la cultura de la transparencia y el acceso a la información, y
 
@@ -3405,11 +3419,17 @@ VI. Promover entre los servidores públicos y la población en general la cultur
 
 VII. Ser integrante del Comité Coordinador del Sistema Estatal de Combate a la Corrupción.
 
-VIII. Las demás que señale; la Constitución Política de los Estados Unidos Mexicanos, La Ley General de Transparencia y acceso a la Información pública, esta Constitución Política y las leyes aplicables en la materia.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
 
-El Instituto tendrá un Consejo Consultivo integrado por cinco consejeros, de carácter honorífico y sin goce de sueldo, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados por el periodo de cinco años. La Ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente será substituido el consejero de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
+VIII. Las demás que señale; la Constitución Política de los Estados Unidos Mexicanos, La Ley General de Transparencia y Acceso a la Información Pública, esta Constitución Política y las leyes aplicables en la materia.
 
-El Instituto coordinará sus acciones con el órgano garante federal, con la entidad especializada en materia de archivos y con el organismo encargado de regular la captación, procesamiento y publicación de la información estadística y geográfica, con el objeto de fortalecer la rendición de cuentas del Estado mexicano.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
+
+El Órgano Garante tendrá un Consejo Consultivo integrado por cinco consejeros, de carácter honorífico y sin goce de sueldo, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados por el periodo de cinco años. La Ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente será substituido el consejero de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo. La Ley establecerá las facultades del Consejo Consultivo.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
+
+El Órgano Garante coordinará sus acciones con el Órgano Garante federal, con la entidad especializada en materia de archivos y con el organismo encargado de regular la captación, procesamiento y publicación de la información estadística y geográfica, con el objeto de fortalecer la rendición de cuentas del Estado mexicano.
 
 La Ley establecerá las medidas de apremio que podrá imponer el órgano garante para asegurar el cumplimiento de sus decisiones.
 
@@ -3749,13 +3769,13 @@ Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
 El Sistema Estatal de Combate a la Corrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DE LA PRESENTE FRACCIÓN FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2018)</small>
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares del Órgano Superior de Fiscalización del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría de la Contraloría y Transparencia Gubernamental; del Tribunal de Justicia Administrativa del Estado de Oaxaca; Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca, así como un representante del Consejo de la Judicatura y otro del Consejo de Participación Ciudadana;
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría de la Contraloría y Transparencia Gubernamental; del Tribunal de Justicia Administrativa del Estado de Oaxaca; del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca, así como por un representante del Consejo de la Judicatura y otro del Comité de Participación Ciudadana;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
 
-II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
+II. El Consejo de Participación Ciudadana del Sistema deberá integrarse de forma paritaria por cinco ciudadanas o ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
 
 III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
 
@@ -3767,15 +3787,17 @@ c) La determinación de los mecanismos de suministro, intercambio, sistematizaci
 
 d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos;
 
-e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia. Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia. Asimismo, en los casos en que así procedan, tanto el Comité Coordinador como el Consejo de Participación Ciudadana, emitirán recomendaciones dirigidas a los entes del orden estatal o municipal, las cuales deberán orientarse al fortalecimiento institucional para la prevención y erradicación de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Consejo de Participación Ciudadana y al Comité Coordinador, según corresponda, sobre el cumplimiento de las mismas. La ley establecerá las sanciones sobre el incumplimiento de esta disposición.
 
-Los órganos de control interno de los poderes, organismos autónomos y municipios, así como el Órgano Superior de Fiscalización del Estado de Oaxaca, desarrollarán programas y acciones para difundir y promover la ética y la honestidad en el servicio público, así como la cultura de la legalidad.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2018)</small>
+Los órganos internos de control de los poderes, organismos autónomos y municipios, así como el Órgano Superior de Fiscalización del Estado de Oaxaca, desarrollarán programas y acciones para difundir y promover la ética y la honestidad en el servicio público, así como la cultura de la legalidad.
 
-Las autoridades del Estado y de los Municipios colaborarán y prestarán auxilio a los órganos de control interno de los poderes, organismos autónomos, así como de la Auditoría Superior del Estado, de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa del Estado de Oaxaca, en materia de combate a la corrupción en los términos que fije la ley.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
+
+Las autoridades del Estado y de los Municipios colaborarán y prestarán auxilio a los órganos internos de control de los poderes, organismos autónomos, así como del Órgano Superior de Fiscalización del Estado de Oaxaca, de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa del Estado de Oaxaca, en materia de combate a la corrupción en los términos que fije la ley.
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
@@ -5367,7 +5389,7 @@ TERCERO.- Con copia certificada del Decreto que se expida, notifíquese al Juzga
 
 P.O. 15 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 602.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSITITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 602.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -5663,7 +5685,7 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno E
 
 P.O. 13 DE FEBRERO DE 2021.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1794.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXX DEL ARTÍCULO 59; LA FRACCIÓN XXVII DEL ARTÍCULO 79; LA FRACCIÓN XVI DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 99; EL PRIMER PÁRRAFO DEL ARTÍCULO 102; LA DENOMINACIÓN DE LA SECCIÓN QUINTA DE LOS JUZGADOS EN MATERIA LABORAL DEL CAPÍTULO IV DEL TÍTULO CUARTO; EL ARTÍCULO 111 BIS; SE ADICIONA EL ARTÍCULO 21 BIS; Y SE DEROGA EL APARTADO B DEL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA"]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1794.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXX DEL ARTÍCULO 59; LA FRACCIÓN XXVII DEL ARTÍCULO 79; LA FRACCIÓN XVI DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 99; EL PRIMER PÁRRAFO DEL ARTÍCULO 102; LA DENOMINACIÓN DE LA SECCIÓN QUINTA DE LOS JUZGADOS EN MATERIA LABORAL DEL CAPÍTULO IV DEL TÍTULO CUARTO; EL ARTÍCULO 111 BIS; SE ADICIONA EL ARTÍCULO 21 BIS; Y SE DEROGA EL APARTADO B DEL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
@@ -5712,3 +5734,81 @@ P.O. 22 DE MAYO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el (sic) en el Periódico Oficial del Estado de Oaxaca.
+
+P.O. 1 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2473.- MEDIANTE EL CUAL REFORMA LA DENOMINACIÓN DEL APARTADO C; LOS PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, QUINTO, SEXTO, SÉPTIMO Y OCTAVO; LAS FRACCIONES IV, V Y VIII, TODOS DEL APARTADO C DEL ARTÍCULO 114 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Congreso del Estado emitirá la nueva Ley de Acceso a la Información Pública, Transparencia y Buen Gobierno del Estado de Oaxaca, dentro del plazo de sesenta días naturales posteriores a la publicación de este Decreto.
+
+P.O. 1 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2495.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN LXIX DEL ARTÍCULO 59; ASÍ COMO LAS FRACCIONES I Y II, EL INCISO E) DE LA FRACCIÓN III, Y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 120 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Las y los integrantes del Consejo de Participación Ciudadana serán nombrados conforme al siguiente procedimiento:
+
+l. En cuanto a la designación de la Comisión de Selección del Consejo de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción, se retoma, hasta el estado en que se encuentre, el proceso iniciado mediante la CONVOCATORIA PÚBLICA PARA LA DESIGNACIÓN DE LAS Y LOS INTEGRANTES DE LA COMISIÓN DE SELECCIÓN DEL COMITÉ DE PARTICIPACIÓN CIUDADANA DEL SISTEMA ESTATAL DE COMBATE A LA CORRUPCIÓN DEL ESTADO DE OAXACA, aprobada mediante el acuerdo número 002 de fecha 24 de febrero de 2021, emitido por la Comisión Permanente de Vigilancia del Sistema Estatal de Combate a la Corrupción de este H. Congreso del Estado, con sustento en el articulo 18 fracción I de la Ley del Sistema Estatal de Combate a la Corrupción expedida mediante el Decreto Número 602 de la Sexagesimal Tercera Legislatura Constitucional del Congreso del Estado de Oaxaca, publicado en el Periódico Oficial del Gobierno del Estado el día veinte de mayo de dos mil diecisiete. En el entendido que las y los Comisionados que designe el Pleno de este Congreso, serán denominados: "Integrantes de la Comisión de Selección del Consejo de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción".
+
+II. La Comisión de Selección, una vez instalada, y dentro del plazo de quince días posteriores a dicho acto, deberá emitir una convocatoria, con el objeto de realizar una amplia consulta publica estatal dirigida a toda la sociedad en general, para que presenten sus postulaciones de aspirantes a ocupar el cargo de integrante de (sic) Consejo de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción. La Comisión de Selección deberá designar a cinco integrantes del citado Consejo de Participación Ciudadana. Para ello, definirá la metodología, plazos y criterios de selección de los integrantes del Consejo de Participación Ciudadana y deberá hacerlos públicos; en donde deberá considerar al menos las siguientes características:
+
+a) El método de registro y evaluación de los aspirantes;
+
+b) Hacer pública la lista de las y los aspirantes;
+
+c) Hacer públicos los documentos que hayan sido entregados para su inscripción en versiones públicas;
+
+d) Hacer publico el cronograma de audiencias;
+
+e) Deberán efectuarse audiencias publicas en las que se invitará a participar a investigadores, académicos y a organizaciones de la sociedad civil, especialistas en la materia;
+
+f) El plazo en que se deberá hacer la designación que al efecto se determine, y que se tomará, en sesión pública, por el voto de la mayoría de sus miembros.
+
+Las y los integrantes del Consejo de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción, para ser designados, deberán reunir los requisitos siguientes:
+
+a) Ser ciudadano mexicano, residente del Estado y estar en pleno goce y ejercicio de sus derechos civiles;
+
+b) Experiencia verificable de al menos cinco años en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción;
+
+c) Tener mas de treinta años de edad, al día de la designación;
+
+d) Poseer al día de la designación, titulo profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionadas (sic) con la materia de esta Ley que le permitan el desempeño de sus funciones;
+
+e) Gozar de buena reputación y no haber sido condenado por algún delito;
+
+f) Presentar sus declaraciones de intereses, patrimonial y fiscal cuando proceda, de forma previa a su nombramiento;
+
+g) No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
+
+h) No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los últimos cuatro años anteriores a la designación;
+
+i) No haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria;
+
+j) No ser Secretario de Despacho o equivalente, Fiscal General del Estado, Fiscal Especial, Subsecretario o equivalente, Oficial Mayor en la Administración Estatal, Consejero de la Judicatura, o Concejal, a menos que se haya separado de su cargo con un año antes del día de su designación
+
+Las y los integrantes del Consejo de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción, deberán designarse a más tardar dentro de los cuarenta y cinco días naturales posteriores a la emisión de la convocatoria respectiva.
+
+III. Por única ocasión las y los integrantes del Consejo de Participación Ciudadana, serán elegidos en los términos siguientes:
+
+a) Un integrante que durará en su encargo un año.
+
+b) Un integrante que durará en su encargo dos años.
+
+c) Un integrante que durará en su encargo tres años.
+
+d) Un integrante que durará en su encargo cuatro años
+
+e) Un integrante que durará en su encargo cinco años
+
+IV. Una vez integrado el Consejo de Participación Ciudadana, estos deberán llevar a cabo la sesión de instalación del Consejo citado, dentro del plazo de veinte días naturales
+
+V. La Presidencia del Consejo de Participación Ciudadana, será determinada por la votación mayoritaria de los miembros del propio Consejo, en observancia al principio de rotación del cargo. Dicha presidencia será determinada en la sesión de instalación del Consejo.
+
+CUARTO. El Congreso del Estado contara con un plazo de 60 días contados a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca para expedir la Ley del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca. En tanto no se emita la referida Ley, se aplicará la Ley vigente de la materia
+
+QUINTO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
