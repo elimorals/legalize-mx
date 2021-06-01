@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2021-02-23"
+last_updated: "2021-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1400,6 +1400,10 @@ Sólo por causas graves calificadas por las dos terceras partes de los miembros 
 Las comisiones podrán ser individuales o colegiadas y permanentes o transitorias, y su materia y funciones serán establecidas en el Reglamento Interior o por acuerdo del Ayuntamiento, siempre de conformidad con las necesidades municipales, teniendo el carácter de permanentes y obligatorias las de hacienda, patrimonio y cuenta pública; la de planeación, urbanismo y obras públicas; la de transparencia y acceso a la información, la de reglamentación, la de Igualdad de Género; la de Ciencia, Tecnología e Innovación; la de Salud Pública y la de Seguridad Pública y Tránsito.
 
 Cada una de estas comisiones, estarán integradas cuando menos por un regidor de la primera minoría.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2021)</small>
+
+Las comisiones de los Ayuntamientos deberán promover, en el desempeño de sus funciones, la participación ciudadana y de las organizaciones de la sociedad civil, en los términos de la Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza, y la Ley de Fomento a las Actividades de las Organizaciones de la Sociedad Civil en el Estado de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 112.
 
@@ -5266,3 +5270,11 @@ P.O. 23 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 978.- SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 106 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 65.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 111 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
