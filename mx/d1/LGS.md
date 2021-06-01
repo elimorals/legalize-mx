@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2021-02-19"
+last_updated: "2021-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2021.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -1097,6 +1097,10 @@ I Bis.- La atención de la transmisión del VIH/Sida y otras Infecciones de Tran
 > <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2013)</small>
 
 II.- La atención del niño y la vigilancia de su crecimiento, desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y en su caso atención, que incluya la aplicación de la prueba del tamiz ampliado, y su salud visual;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2021)</small>
+
+II Bis. La aplicación del tamiz neonatal para la detección de cardiopatías congénitas graves o críticas, se realizará antes del alta hospitalaria;
 
 > <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2013)</small>
 
@@ -9381,3 +9385,13 @@ A las personas que hayan cometido un delito de los contemplados en el presente D
 Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
 
 Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 1 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 61 DE LA LEY GENERAL DE SALUD”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría de Salud contará con 365 días contados a partir de la publicación del presente Decreto, para efecto de publicar la Norma Oficial Mexicana, relativa al tamiz neonatal para la detección de cardiopatías congénitas graves o críticas.
+
+Tercero. La aplicación del presente Decreto estará sujeta a la disponibilidad presupuestaria, que para tal efecto la Secretaría de Salud determine.
