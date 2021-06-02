@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2021-05-14"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -2173,29 +2173,47 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 ### CAPITULO III. Prevención de la violencia familiar
 
-> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
-Artículo 316 A.- Los integrantes de la familia tienen derecho a que sus miembros les respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo, para su plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
+Artículo 316 A.- Los integrantes de la familia, en particular niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
 Artículo 316 B.- El juez con jurisdicción en la materia, tiene por ministerio de ley la protección de la familia debiendo adoptar las medidas pertinentes para asegurarla en caso de violencia familiar, dando vista de inmediato al ministerio público las conductas que pudieran ser constitutivas de delito.
 
-> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2021)</small>
 
-Artículo 316 C.- Violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera psicológica, física, patrimonial, económica o sexual a un miembro de ella, dentro o fuera del dominio de ésta, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+Artículo 316 C.- Violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera psicológica, física, patrimonial, económica o sexual a un miembro de ella, incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, dentro o fuera del dominio de ésta, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
 Las distintas formas constitutivas de violencia familiar son:
 
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2007)</small>
+
 I.- Violencia Psicológica.- Daño a la estabilidad psicológica, que puede causarse mediante conductas traducidas en actos u omisiones consistentes en negligencia, abandono, descuido, celotipia, insultos, humillaciones, marginación, indiferencia, comparaciones destructivas, restricción a la autodeterminación, o rechazo, de forma reiterada; e infidelidad y amenazas, provocando una disminución en la autoestima.
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2007)</small>
 
 II.- Violencia física. Daño corporal de naturaleza intencional.
 
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2007)</small>
+
 III.- Violencia patrimonial.- Afectación patrimonial a los bienes comunes o propios de la víctima provocados por la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades;
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2007)</small>
 
 IV.- Violencia económica.- Afectación a su economía, manifestada a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas.
 
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2007)</small>
+
 V.- Violencia Sexual.- Es el acto abusivo de poder u omisión intencional que atenta contra la libertad sexual o la dignidad de la persona.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Artículo 316 D.- Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar. Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes.
+
+Se define el castigo corporal y humillante según lo dispuesto por la fracción VIII del artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.. (sic)
 
 ###### Artículo 294.
 
@@ -3091,21 +3109,29 @@ Solamente por falta o impedimento de todos los llamados preferentemente entrará
 
 Mientras estuviera el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen sin permiso de ellos o decreto de la autoridad competente.
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### Artículo 414.
 
-A las personas que tienen al menor bajo su patria potestad o custodia incumbe la obligación de educarlo.
-
-Si dichas personas no cumplieren con la obligación señalada, corresponde al ministerio público promover lo que corresponda.
-
-###### Artículo 415.
-
-Para los efectos del artículo anterior, los que ejerzan la patria potestad o tengan hijos bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+A las personas que tienen al menor de edad bajo su patria potestad o custodia incumbe la obligación de protegerlo y educarlo para su adecuado desarrollo integral.
 
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2007)</small>
 
-La facultad de corregir no implica infligir a los menores actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 316 de este Código.
+Si dichas personas no cumplieren con la obligación señalada, corresponde al ministerio público promover lo que corresponda.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+###### Artículo 415.
+
+Para los efectos del artículo anterior, los que ejerzan la patria potestad o tengan hijos bajo su custodia, tienen la facultad de corregirlos respetando siempre su dignidad humana y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole.
+
+Queda prohibido que la madre, padre o cualquier persona que ejerza la patria potestad, tutela o guarda, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños o adolescentes.
+
+La facultad de corregir no implica infligir a los menores de edad castigos corporales y humillantes o actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 316 A de este Código.
+
+Cuando la Fiscalía General del Estado o la Procuraduría de Protección de Niñas, Niños y Adolescentes, tenga conocimiento que las personas a que se refiere el primer párrafo de este artículo incumplan con su obligación o abusen de su derecho a corregir, promoverán la suspensión o pérdida de la patria potestad o de la custodia en su caso.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -3265,9 +3291,9 @@ VII.- Por la entrega que hagan los padres al sistema para el Desarrollo Integral
 
 VIII.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor de edad, y
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-IX.- Cuando el que la ejerza incurra en actos de violencia familiar en contra del menor de edad, en grado suficiente para determinar la pérdida de tal derecho.
+IX.- Cuando el que la ejerza incurra en actos de violencia familiar, castigo corporal y humillante en contra del menor de edad en grado suficiente para determinar la pérdida de tal derecho.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -3283,9 +3309,9 @@ Artículo 436 A.- La pérdida de la patria potestad, decretada mediante sentenci
 
 El progenitor que haya perdido de la patria potestad, promoverá, su restitución, una vez trascurridos dos años de que se haya decretado esta. Lo establecido en el presente dispositivo operará solo cuando la causa de la pérdida de la patria potestad no sea por haber cometido un delito doloso en contra del menor y que éste no haya sido dado en adopción.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
-Artículo 436 B.- La patria potestad podrá ser limitada cuando el titular de ésta incurra en conductas de violencia familiar previstas en este Código, en contra de las personas sobre las cuales la ejerza.
+Artículo 436 B.- La patria potestad podrá ser limitada cuando el titular de ésta incurra en castigos corporales y humillantes que arriesguen la integridad física y emocional del menor de edad, así como en conductas de violencia familiar previstas en este Código, en contra de las personas sobre las cuales la ejerza.
 
 ###### Artículo 437.
 
@@ -16488,3 +16514,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Comuníquese el presente Decreto a las Direcciones de Registro Civil del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
