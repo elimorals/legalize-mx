@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-sistema-para-el-desarrollo-integral-de-la-familia-95665
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-23"
-last_updated: "2018-09-21"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 23 de agosto de 2013.
 
@@ -61,29 +61,29 @@ IV. Coordinar y apoyar las actividades de los Sistemas para el Desarrollo Integr
 
 V. Promover el fortalecimiento de los valores, a efecto de elevar la calidad de vida de la población en el Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-VI. Operar, administrar, construir, rehabilitar, conservar, dar mantenimiento, reparar, demoler y promover la creación de bienes inmuebles destinados a brindar servicios de asistencia social en beneficio de niñas, niños, adolescentes, mujeres, adultos mayores y personas con discapacidad en situación de abandono, desamparo o sin recursos; así como llevar a cabo los servicios relacionados con las actividades mencionadas, en términos de las disposiciones legales aplicables y de acuerdo con el ámbito de su competencia;
+VI. Operar, administrar, construir, rehabilitar, conservar, dar mantenimiento, reparar, demoler y promover la creación de bienes inmuebles destinados a brindar servicios de asistencia social en beneficio de niñas, niños, adolescentes, mujeres, y personas con discapacidad en situación de abandono, desamparo o sin recursos, así mismo, también de aquellos destinados a las personas adultas mayores; así como llevar a cabo los servicios relacionados con las actividades mencionadas, en términos de las disposiciones legales aplicables y de acuerdo con el ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-VII. Realizar estudios e investigaciones sobre los problemas de la familia, de las niñas, niños y adolescentes, así como de los adultos mayores y de las personas con discapacidad;
+VII. Realizar estudios e investigaciones sobre los problemas de la familia, de las niñas, niños y adolescentes, así como de las personas adultas mayores y de las personas con discapacidad;
 
 VIII. Apoyar, en la medida de la capacidad presupuestaria, las actividades que lleven a cabo las instituciones de asistencia privada cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-IX. Prestar gratuitamente servicios de asistencia jurídica y de orientación social a las niñas, niños y adolescentes, adultos mayores y personas con discapacidad sin recursos y en estado de abandono;
+IX. Prestar gratuitamente servicios de asistencia jurídica y de orientación social a las niñas, niños y adolescentes y personas con discapacidad sin recursos y en estado de abandono, así como a las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-X. Coadyuvar con la Fiscalía General del Estado de Querétaro en la protección de las niñas, niños y adolescentes, adultos mayores y personas con discapacidad;
+X. Coadyuvar con la Fiscalía General del Estado de Querétaro en la protección de las niñas, niños y adolescentes, personas adultas mayores y personas con discapacidad;
 
 XI. Procurar permanentemente la adecuación y cumplimiento de sus objetivos y programas, así como los de los Sistemas para el Desarrollo Integral de la Familia de cada uno de los municipios del Estado, con el Sistema Nacional para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-XII. Actuar ante los tribunales del Estado, en todo juicio en que se vean afectados los derechos de niñas, niños, adolescentes, adultos mayores o personas con discapacidad;
+XII. Actuar ante los tribunales del Estado, en todo juicio en que se vean afectados los derechos de niñas, niños, adolescentes, personas adultas mayores o personas con discapacidad;
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
 
@@ -159,7 +159,9 @@ IV. La Procuraduría de Protección Estatal, y
 
 V. El Órgano Interno de Control.
 
-De igual forma, contará con aquellas áreas y el personal necesario para su eficaz funcionamiento.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+De igual forma, contará con aquellas áreas y el personal necesario para su eficaz funcionamiento, entre las que, de forma obligatoria, deberá contemplarse un área especializada para la atención de las personas adultas mayores.
 
 El Reglamento Interior del Sistema, determinará las funciones, atribuciones y obligaciones específicas que corresponden a las diversas unidades administrativas que lo integren, para su correcto desempeño.
 
@@ -498,3 +500,15 @@ P.O. 21 DE SEPTIEMBRE DE 2018.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE ASISTENCIA SOCIAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga.
+
+Artículo Segundo. Se derogan todas las disposiciones normativas que se opongan a lo previsto en la presente Ley.
+
+Artículo Tercero. El Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro contará con un plazo de seis meses a partir de la entrada en vigor de la presente Ley para realizar los ajustes necesarios para poner en marcha el área especializada para la atención de las personas adultas mayores.
+
+Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
