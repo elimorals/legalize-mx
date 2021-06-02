@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-movilidad-del-estado-de-quintana-roo-129124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-14"
-last_updated: "2020-11-13"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de junio de 2018.
 
@@ -1591,13 +1591,17 @@ Los derechos y obligaciones derivados de la concesión para la prestación del S
 
 Las concesiones otorgadas a personas morales, solo serán susceptibles de cesión o transmisión a las personas físicas que sean integrantes de la persona moral.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### Artículo 113.
 
-La persona física titular de una concesión tendrá derecho a nombrar hasta tres beneficiarios, para que, en caso de incapacidad física o mental, declarada judicialmente o clínicamente por una instancia del sector público; ausencia declarada judicialmente y/o muerte del titular de la concesión puedan sustituirlo en riguroso orden de prelación señalado por el concesionario, en el entendido de que solo en ausencia definitiva del primero se aplicará dicho orden en los derechos y obligaciones derivados de la concesión, a fin de que el Instituto proceda en cualquiera de dichos supuestos a designar al beneficiario como titular de la concesión.
+La persona física titular de una concesión podrá nombrar libremente hasta tres beneficiarios para que, en caso de incapacidad física o mental, declarada judicialmente o clínicamente por una instancia del sector público; ausencia declarada judicialmente y/o muerte del titular de la concesión, puedan sustituirlo en riguroso orden de prelación señalado por el concesionario, en el entendido de que solo en ausencia definitiva del primero se aplicará dicho orden en los derechos y obligaciones derivados de la concesión, a fin de que el Instituto proceda en cualquiera de dichos supuestos a designar al beneficiario como titular de la concesión.
 
-El titular de la concesión ante notario público designará a los beneficiarios que hace mención el párrafo anterior y notificará al Instituto para los efectos legales señalados en este artículo.
+El titular de la concesión designará ante el Instituto a los beneficiarios a que hace mención el párrafo anterior, para los efectos legales señalados en este artículo.
+
+El Instituto podrá celebrar con las personas morales concesionarias los convenios de colaboración que considere necesarios para cualquier trámite administrativo.
+
+En caso de que se haya dado inicio al trámite de designación de beneficiarios y se actualice alguna de las causales de procedencia establecidas en el párrafo primero de este artículo, el Instituto deberá concluir el mismo prevaleciendo la voluntad del concesionario. En caso de no haberse iniciado dicho trámite, se procederá a la extinción de la concesión en los términos de lo dispuesto en el artículo 120 de esta Ley.
 
 Para hacer valer su derecho el beneficiario deberá presentar la solicitud correspondiente ante el Instituto, en un plazo que no deberá exceder de ciento veinte días hábiles, a partir de la fecha en que se declare la incapacidad física o mental, declarada clínicamente por una instancia del sector público o judicialmente, ausencia declarada judicialmente y/o muerte del titular de la concesión que dé origen a esta transmisión de derechos.
 
@@ -3481,4 +3485,12 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se otorga un plazo de seis meses al Instituto, para conformar el Registro Estatal de Operadores de Taxi.
 
-En el mismo plazo, los concesionarios deberán señalar a sus beneficiarios de acuerdo a lo establecido por el artículo 113 de la presente ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 2 DE JUNIO DE 2021)</small>
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 119 POR EL QUE SE REFORMA EL ARTÍCULO 113 DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO Y SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 047 DE LA XVI LEGISLATURA DEL ESTADO, POR EL QUE SE REFORMAN EL ARTÍCULO 113 Y LA FRACCIÓN VI DEL ARTÍCULO 120 Y SE ADICIONAN LAS FRACCIONES LXXIII V LXXIV AL ARTÍCULO 5, UNA FRACCIÓN XXXV AL ARTÍCULO 25 Y UN ARTÍCULO 107 BIS, TODOS DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO, EL TRECE DE NOVIEMBRE DEL AÑO DOS MIL VEINTE".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
