@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-desarrollo-social-del-estado-de-queretaro-107069"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-27"
-last_updated: "2020-01-17"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de marzo de 2015.
 
@@ -239,6 +239,10 @@ XI. El derecho a la equidad y a la igualdad; y
 
 XII. El derecho al agua.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Las acciones de política pública que lleve a cabo el Estado para efectivizar estos derechos beneficiarán a las personas, en todas sus etapas, desde la gestación hasta la muerte natural.; (sic)
+
 ###### Artículo 11.
 
 Los beneficiarios de los programas de desarrollo social tienen los siguientes derechos:
@@ -347,9 +351,17 @@ VI. Promoción y fomento de la participación ciudadana en el desarrollo social;
 
 VII. Desarrollo sustentable;
 
-VIII. Atención a personas en situaciones de vulnerabilidad; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-IX. Equidad de género.
+VIII. Atención a personas en situaciones de vulnerabilidad;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+IX. Equidad de género, y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+X. Atención y apoyo a la mujer embarazada y a la infancia prenatal.
 
 ### Capítulo II. Planeación, programación y presupuestación
 
@@ -994,3 +1006,13 @@ P.O. 17 DE ENERO DE 2020.
 Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones normativas que se opongan a lo previsto en la presente Ley.
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA LOS ARTÍCULOS 10 Y 15 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo: Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
