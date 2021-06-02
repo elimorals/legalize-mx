@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-65075
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2020-12-18"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -43,9 +43,11 @@ LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO
 
 ### Capítulo Primero. Naturaleza jurídica y objeto
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social. Tiene por objeto reconocer y garantizar el ejercicio de los derechos de las personas adultas mayores, a fin de propiciarles una mejor calidad de vida y su plena integración al desarrollo social, económico, político y cultural en el Estado, mediante la acción coordinada de las instituciones públicas y privadas que para ello se requieran.
+La presente Ley es de orden público e interés social. Tiene por objeto reconocer y garantizar el ejercicio de los derechos de las personas adultas mayores, a fin de propiciarles una mejor calidad de vida para su vejez y su plena integración al desarrollo social, económico, político y cultural en el Estado, mediante la acción coordinada de las instituciones públicas y privadas que para ello se requieran.
 
 ###### Artículo 2.
 
@@ -55,7 +57,9 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Abandono: Todo acto de aislamiento sistemático, permanente, consistente y deliberado hacia las personas adultas mayores, entendidos como una exclusión o como actos discriminatorios o de menosprecio hacia su persona;
 
-II. Asistencia social: Acciones tendientes a mejorar las circunstancias de carácter social que impidan la protección física, mental y social, así como el desarrollo integral de las personas adultas mayores en estado de necesidad, desprotección o que se encuentren en desventaja física o mental;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+II. Asistencia social: Acciones tendientes a mejorar las circunstancias de carácter social que impidan la protección física, mental y social, así como el desarrollo integral de las personas adultas mayores;
 
 III. Atención médica: Conjunto de servicios médicos para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las personas adultas mayores, con el fin de preservar sus capacidades y funciones en las mejores condiciones posibles;
 
@@ -71,7 +75,9 @@ VII. Geriatría: Especialidad médica dedicada al estudio de los aspectos fisiol
 
 VIII. Gerontología: Conjunto de conocimientos y estudios del fenómeno del envejecimiento en su totalidad;
 
-IX. Integración social: Acciones que realizan las dependencias y entidades de la administración pública del Estado y de los municipios, así como la sociedad organizada, orientadas a modificar y superar las condiciones que impiden a las personas adultas mayores su desarrollo integral dentro del grupo social;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+IX. Integración social: Acciones que realizan las dependencias y entidades de la administración pública del Estado y de los municipios, así como la sociedad organizada, orientadas a modificar y superar las condiciones que impiden a las personas adultas mayores su desarrollo integral dentro del grupo social con el fin de lograr la plena calidad de vida para su vejez;
 
 X. Persona adulta mayor: La persona que cuenta con sesenta años o más de edad;
 
@@ -99,7 +105,9 @@ I. Atención preferente: La atención que obligatoriamente deben proporcionar la
 
 II. Autonomía y autorrealización: Todas las acciones que se realicen en beneficio de las personas adultas mayores, tendientes al fortalecimiento de su independencia, capacidad de decisión y desarrollo;
 
-III. Corresponsabilidad: La concurrencia y responsabilidad compartida entre las acciones realizadas por la familia y los sectores público, social y privado, en la atención a los adultos mayores;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+III. Corresponsabilidad: La concurrencia y responsabilidad compartida entre las acciones realizadas por la familia y los sectores público, social y privado, en la atención a las personas adultas mayores;
 
 IV. Equidad: El trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores para el bienestar de las personas adultas mayores, sin distinción de sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier otra circunstancia; y
 
@@ -121,9 +129,9 @@ c) A ser respetados en su integridad física, psíquica, emocional y sexual.
 
 d) A ser protegidos contra toda forma de explotación.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
-e) A vivir en el seno de su familia o mantener contacto directo con ella, salvo que esto sea contrario al bienestar del adulto mayor.
+e) A vivir en el seno de su familia o mantener contacto directo con ella, salvo que esto sea contrario al bienestar de la persona adulta mayor.
 
 f) A recibir protección de su familia, de la sociedad y de los órganos de gobierno estatales y municipales.
 
@@ -259,17 +267,25 @@ I. Garantizar su acceso a la atención y asistencia médica, cuidados y rehabili
 
 II. Implementar programas con el objeto de procurar el abasto y entrega oportunos de medicamentos;
 
-III. Fomentar la creación de programas de capacitación y sensibilización del personal del sector salud, sobre la problemática específica de los adultos mayores;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-IV. Proporcionar capacitación a las personas que cotidianamente auxilian a los adultos mayores, para que, de ser necesario, les administren primeros auxilios y terapias de rehabilitación, cuidados especiales en caso de encontrarse postrados y asistencia para su movilización e ingesta de alimentos y medicamentos;
+III. Fomentar la creación de programas de capacitación y sensibilización del personal del sector salud, sobre la problemática específica de las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+IV. Proporcionar capacitación a las personas que cotidianamente auxilian a las personas adultas mayores, para que, de ser necesario, les administren primeros auxilios y terapias de rehabilitación, cuidados especiales en caso de encontrarse postrados y asistencia para su movilización e ingesta de alimentos y medicamentos;
 
 V. Organizar, en colaboración con los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia, instituciones públicas y privadas, campañas de orientación nutricional y alternativas alimentarias, acordes a las condiciones físicas de las personas adultas mayores;
 
 VI. Proveer programas de capacitación en geriatría y gerontología al personal médico y de enfermería, de clínicas y hospitales del sector público;
 
-VII. Fomentar la creación de programas de capacitación a los integrantes de las familias de los adultos mayores, en el cuidado integral de su salud, nutrición y rehabilitación;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-VIII. Promover acciones de notificación y derivación a las instancias correspondientes, de los casos en que se detecte abuso, abandono o inequidad en el trato a los adultos mayores; y
+VII. Fomentar la creación de programas de capacitación a los integrantes de las familias de las personas adultas mayores, en el cuidado integral de su salud, nutrición y rehabilitación;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+VIII. Promover acciones de notificación y derivación a las instancias correspondientes, de los casos en que se detecte abuso, abandono o inequidad en el trato a las personas adultas mayores; y
 
 IX. Coordinar a las dependencias y entidades de la administración pública estatal que integran el Sistema Estatal de Salud, para cumplir las obligaciones señaladas en la presente Ley.
 
@@ -297,9 +313,13 @@ IV. Difundir permanentemente, a través de los medios masivos de comunicación, 
 
 Corresponde a la Secretaría de Educación, en relación con las personas adultas mayores, lo siguiente:
 
-I. Promover que las instituciones de educación en el área de salud, incluyan en sus programas curriculares el cuidado integral del adulto mayor;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-II. Instrumentar la ejecución de los convenios de coordinación celebrados entre los gobiernos Federal, Estatal y municipales, promoviendo el ingreso del adulto mayor a instituciones que les proporcionen educación formal;
+I. Promover que las instituciones de educación en el área de salud incluyan en sus programas curriculares el cuidado integral de la persona adulta mayor;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+II. Instrumentar la ejecución de los convenios de coordinación celebrados entre los gobiernos Federal, Estatal y municipales, promoviendo el ingreso de las personas adultas mayores a instituciones que les proporcionen educación formal;
 
 III. Impulsar la creación de programas educativos donde participen, ya sea como maestros o como alumnos; y
 
@@ -379,13 +399,23 @@ Las instituciones que proporcionen atención, cuidados o alberguen a personas ad
 
 I. Proveerles la atención integral necesaria, que satisfaga sus necesidades físicas y mentales;
 
-II. Fomentar actividades que sean de interés para el adulto mayor;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+II. Fomentar actividades que sean de interés para las personas adultas mayores;
 
 III. Llevar un registro de las personas que atiendan, integrando en el expediente de cada una de ellas, sus datos de identificación, los de su familia y sus antecedentes clínicos;
 
-IV. Dar seguimiento de la evolución y evaluación de los casos atendidos, registrando los datos obtenidos en los expedientes correspondientes; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-V. Expedir copia del expediente a los familiares autorizados, a las autoridades judiciales o a las instituciones que continúen la atención del adulto mayor, cuando así lo soliciten.
+IV. Dar seguimiento de la evolución y evaluación de los casos atendidos, registrando los datos obtenidos en los expedientes correspondientes;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+V. Expedir copia del expediente a los familiares autorizados, a las autoridades judiciales o a las instituciones que continúen la atención de las personas adultas mayores, cuando así lo soliciten; y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+VI. Atender las disposiciones establecidas en las leyes u ordenamientos de la materia.
 
 ###### Artículo 21.
 
@@ -393,23 +423,35 @@ Toda persona que tenga conocimiento de que una persona adulta mayor se encuentre
 
 ### Capítulo Tercero. La Familia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2021)</small>
+
 ###### Artículo 22.
 
-La familia de las personas adultas mayores, tiene las siguientes obligaciones:
+La familia de la persona adulta mayor deberá cumplir su función social; por tanto, de manera constante y permanente deberá velar por cada una de las personas adultas mayores que formen parte de ella, siendo responsable de mantener y preservar su calidad de vida; y tendrá las siguientes obligaciones para con ellos:
 
-I. Conocer los derechos de los adultos mayores;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-II. Cuidar de las personas adultas mayores que formen parte de su familia, procurando conocer sus necesidades y proporcionarles los elementos necesarios para su atención integral;
+I. Conocer los derechos de las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+II. Cuidar de las personas adultas mayores que formen parte de su familia, siendo responsables de mantener y preservar su calidad de vida y procurando conocer sus necesidades y proporcionarles los elementos necesarios para su atención integral;
 
 III. Procurar que permanezcan en el hogar del que forman parte y que sólo por decisión personal, enfermedad, causas de fuerza mayor o por determinación de autoridad competente, sean ingresadas en alguna institución de asistencia pública o privada, dedicada al cuidado y atención de personas adultas mayores;
 
 IV. Proporcionarles alimentos, según lo dispuesto en el Código Civil del Estado de Querétaro;
 
-V. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente y se cultiven valores que incidan en sus necesidades afectivas, de protección y de apoyo; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+V. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente y se cultiven valores que incidan en sus necesidades afectivas, de protección y de apoyo;
 
-VI. Evitar que cualquiera de los integrantes de la familia, realice o induzca la realización de acciones discriminatorias, de abuso, explotación, aislamiento, violencia, abandono, hacinamiento, o desalojo de la persona adulta mayor o actos jurídicos que pongan en riesgo la integridad física, bienes y derechos de los adultos mayores. Los actos descritos en la presente fracción serán sancionados acorde a lo establecido en el Código Penal para el Estado de Querétaro.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+VI. Evitar que cualquiera de los integrantes de la familia, realice o induzca a la realización de acciones discriminatorias, de abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo la integridad física, bienes y derechos de las personas adultas mayores. Los actos descritos en la presente fracción serán sancionados acorde a lo establecido en el Código Penal para el Estado de Querétaro; y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+VII. Atender sus necesidades psicoemocionales cuando el adulto mayor se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención a las personas adultas mayores a efecto de mantener los lazos familiares.
 
 ## Título Tercero. Consejo Asesor para la Atención, Promoción y Defensa de las Personas Adultas Mayores del Estado de Querétaro
 
@@ -497,17 +539,23 @@ Son obligaciones de los integrantes del Consejo:
 
 I. Brindar asesoría a las instituciones de la administración pública central y paraestatal del Estado, así como a las del ámbito municipal y paramunicipal que lo soliciten, en materia de atención, promoción y defensa de los derechos de las personas adultas mayores;
 
-II. Coordinar la implementación, seguimiento y evaluación de los programas y acciones establecidos en beneficio de los adultos mayores, procurando la unificación de criterios, a fin de evitar duplicidad de servicios y procurando la correcta aplicación de los recursos públicos;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+II. Coordinar la implementación, seguimiento y evaluación de los programas y acciones establecidos en beneficio de las personas adultas mayores, procurando la unificación de criterios, a fin de evitar duplicidad de servicios y procurando la correcta aplicación de los recursos públicos;
 
 III. Procurar la plena integración social y el desarrollo de las personas adultas mayores;
 
 IV. Proponer a las instituciones encargadas de los programas relacionados con personas adultas mayores, mecanismos de mejora para su ejecución;
 
-V. Propiciar la colaboración y participación de instituciones públicas y privadas, así como organizaciones de la sociedad civil, en las acciones que las administraciones públicas estatal y municipales emprendan para la atención integral de los adultos mayores;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+V. Propiciar la colaboración y participación de instituciones públicas y privadas, así como organizaciones de la sociedad civil, en las acciones que las administraciones públicas estatal y municipales emprendan para la atención integral de las personas adultas mayores;
 
 VI. Plantear la realización de estudios que contribuyan a mejorar la planeación y la ejecución de programas tendientes a elevar la calidad de vida de las personas adultas mayores;
 
-VII. Promover la implementación de programas en materia de salud y seguridad social, capacitación, educación, cultura, recreación y demás relativos que faciliten el bienestar de los adultos mayores;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+VII. Promover la implementación de programas en materia de salud y seguridad social, capacitación, educación, cultura, recreación y demás relativos que faciliten el bienestar de las personas adultas mayores;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
@@ -698,3 +746,15 @@ P.O. 18 DE DICIEMBRE DE 2020.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE ASISTENCIA SOCIAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga.
+
+Artículo Segundo. Se derogan todas las disposiciones normativas que se opongan a lo previsto en la presente Ley.
+
+Artículo Tercero. El Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro contará con un plazo de seis meses a partir de la entrada en vigor de la presente Ley para realizar los ajustes necesarios para poner en marcha el área especializada para la atención de las personas adultas mayores.
+
+Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
