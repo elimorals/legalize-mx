@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10910
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-08"
-last_updated: "2021-05-14"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 8 de julio de 2015.
 
@@ -91,63 +91,117 @@ III. Adopción Internacional: Aquélla que se realice en términos de lo dispues
 
 IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-V. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-VI. Certificado de Idoneidad: Documento expedido por el Consejo Estatal de Adopciones o por el Sistema Nacional DIF en casos de adopciones internacionales;
+V. Castigo corporal: Es todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve;
 
-VII. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-VIII. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
+VI. Castigo humillante: Es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes
 
-IX. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva, y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-X. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
+VII. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
 
-XI. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-XII. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
+VIII. Certificado de Idoneidad: Documento expedido por el Consejo Estatal de Adopciones o por el Sistema Nacional DIF en casos de adopciones internacionales;
 
-XIII. Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-XIV. Informe de adoptabilidad: El documento expedido por el Sistema Estatal DIF, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
+IX. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
 
-XV. Ley: Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nayarit;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-XVI. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
+X. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
 
-XVII. Órgano Jurisdiccional: Los juzgados o tribunales federales o de las entidades federativas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-XVIII. Procuraduría de Protección Estatal: La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Nayarit;
+XI. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva, y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
-XIX. Programa Estatal: El Programa de Protección de Niñas, Niños y Adolescentes del Estado de Nayarit;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-XX. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno, con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano forma parte y la Constitución Política del Estado Libre y Soberano de Nayarit;
+XII. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
-XXI. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección Estatal, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-XXII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección Estatal, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XIII. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
 
-XXIII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-XXIV. Sistema Estatal de Protección: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Nayarit;
+XIV. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
-XXV. Sistema Estatal DIF: El Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-XXVI. Sistema Municipal de Protección: El Sistema de Protección Integral de Niñas, Niños y Adolescentes de los municipios del Estado;
+XV. Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
-XXVII. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia de cada municipio del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+XVI. Informe de adoptabilidad: El documento expedido por el Sistema Estatal DIF, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
 
-XXVIII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+XVII. Ley: Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nayarit;
 
-XXIX. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+XVIII. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
-XXX. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XIX. Órgano Jurisdiccional: Los juzgados o tribunales federales o de las entidades federativas;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XX. Procuraduría de Protección Estatal: La Procuraduría de Protección de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XXI. Programa Estatal: El Programa de Protección de Niñas, Niños y Adolescentes del Estado de Nayarit;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XXII. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno, con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano forma parte y la Constitución Política del Estado Libre y Soberano de Nayarit;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XXIII. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección Estatal, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XXIV. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección Estatal, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XXV. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XXVI. Sistema Estatal de Protección: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Nayarit;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XXVII. Sistema Estatal DIF: El Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XXVIII. Sistema Municipal de Protección: El Sistema de Protección Integral de Niñas, Niños y Adolescentes de los municipios del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XXIX. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia de cada municipio del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XXX. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XXXI. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XXXII. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 5.
 
@@ -535,11 +589,19 @@ Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y
 
 Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Queda prohibido el uso de los castigos corporales y humillantes que arriesguen la integridad física y emocional del menor de edad, en todos los ámbitos, como método correctivo o disciplinario a niñas, niños o adolescentes.
+
 ### CAPÍTULO NOVENO. DEL DERECHO DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA Y A LA INTEGRIDAD PERSONAL
 
 ###### Artículo 44.
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el castigo humillante.
 
 ###### Artículo 45.
 
@@ -555,9 +617,17 @@ IV. El tráfico de menores;
 
 V. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
 
-VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral, y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+VIII. El castigo corporal y humillante.
 
 Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
 
@@ -1037,7 +1107,9 @@ VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, a
 
 VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
 
-VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+VIII. Abstenerse de cualquier atentado, castigos corporales y humillantes contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
 
 IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
 
@@ -1059,7 +1131,9 @@ II. Que las autoridades migratorias verifiquen la existencia de la autorización
 
 III. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas, y
 
-IV. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+IV. Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerzan cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante.
 
 ###### Artículo 97.
 
@@ -1842,3 +1916,9 @@ P.O. 14 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 20 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Nayarit.
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
