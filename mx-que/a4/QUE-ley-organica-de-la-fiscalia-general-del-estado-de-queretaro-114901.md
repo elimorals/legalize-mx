@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-fiscalia-general-del-estado-de-queretaro-114
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2018-09-07"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE AGOSTO DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -49,6 +51,10 @@ La presente Ley es de orden público e interés social, tiene por objeto organiz
 
 La Fiscalía General del Estado de Querétaro, es un organismo constitucional autónomo, con patrimonio propio, con autonomía técnica, presupuestal, de gestión y para emitir las reglas conforme a las cuales sistematizará la información bajo su resguardo acorde a los lineamientos establecidos en la ley respectiva, encargado de la procuración de justicia en el Estado.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Podrá implementar mecanismos tecnológicos digitales para sistematizar los procesos de su competencia, los cuales producirán efectos legales conforme a la normatividad aplicable.
+
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 3.
@@ -67,71 +73,125 @@ Para efectos de esta Ley, se entenderá por:
 
 I. Centro: al Centro de Evaluación y Control de Confianza de la Fiscalía General del Estado de Querétaro;
 
-II. Constitución Federal: a la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-III. Constitución Local: a la Constitución Política del Estado de Querétaro;
+II. Código Nacional: al Código Nacional de Procedimientos Penales;
 
-IV. Código Nacional: al Código Nacional de Procedimientos Penales;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-V. Consejo de la Fiscalía: al Consejo de la Fiscalía General del Estado;
+III. Consejo de la Fiscalía: al Consejo de la Fiscalía General del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-VI. Contraloría: al Órgano interno de control de la Fiscalía General;
+IV. Constitución Federal: a la Constitución Política de los Estados Unidos Mexicanos;
 
-VII. Dirección de Investigación: a la Dirección de Investigación de la Fiscalía General;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-VIII. Dirección de Acusación: a la Dirección de Acusación de la Fiscalía General;
+V. Constitución Local: a la Constitución Política del Estado Libre y Soberano de Querétaro;
 
-IX. Fiscal: a quien ejerza las funciones señaladas para el Ministerio Público en los procedimientos penales, de justicia para adolescentes, en la procuración de la aplicación de mecanismos alternativos de solución de controversias y de ejecución de sanciones penales;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+VI. Contraloría: al Órgano interno de control de la Fiscalía General del Estado de Querétaro;
 
-X. Fiscal Anticorrupción: al titular de la Fiscalía Especializada en el Combate a la Corrupción;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+VII. Dirección Anticorrupción: a la Dirección de Investigación y Persecución de Delitos en materia de Corrupción de la Fiscalía Especializada en el Combate a la Corrupción de la Fiscalía General del Estado de Querétaro;
 
-XI. Fiscalía Anticorrupción: a la Fiscalía Especializada en el Combate a la Corrupción;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
+VIII. Dirección de Acusación: a la Dirección de Acusación de la Fiscalía General del Estado de Querétaro;
 
-XII. Fiscalía Especializada en Desaparición de Personas: La Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-XIII. Fiscal General: al titular de la Fiscalía General del Estado de Querétaro;
+IX. Dirección de Investigación: a la Dirección de Investigación de la Fiscalía General del Estado de Querétaro;
 
-XIV. Fiscalía General: al organismo constitucional autónomo denominado Fiscalía General del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-XV. Instituto: al Instituto del Servicio Profesional de Carrera de la Fiscalía General del Estado de Querétaro;
+X. Fiscal: a quien ejerza las funciones señaladas para el Ministerio Público en los procedimientos penales, de justicia para adolescentes, en la procuración de la aplicación de mecanismos alternativos de solución de controversias y de ejecución de sanciones penales;
 
-XVI. Ley: a la Ley Orgánica de la Fiscalía General del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-XVII. Ley General del Sistema: a la Ley General del Sistema Nacional de Seguridad Pública;
+XI. Fiscal Anticorrupción: al titular de la Fiscalía Especializada en el Combate a la Corrupción de la Fiscalía General del Estado de Querétaro;
 
-XVIII. Perito: a los integrantes de los cuerpos de investigación técnica y científica de la Fiscalía General;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-XIX. Personal Sustantivo: a los Fiscales, Peritos y Policías de Investigación, que se encuentran sujetos al Servicio Profesional de Carrera de la Fiscalía General;
+XII. Fiscalía Anticorrupción: a la Fiscalía Especializada en el Combate a la Corrupción de la Fiscalía General del Estado de Querétaro;
 
-XX. Policía de Investigación: a los integrantes del cuerpo de Policía de Investigación del Delito de la Fiscalía General;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+XIII. Fiscalía Especializada en Desaparición de Personas: La Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares de la Fiscalía General del Estado de Querétaro;
 
-XXI. Reglamento: al Reglamento de la Ley Orgánica de la Fiscalía General;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+XIV. Fiscal General: al titular de la Fiscalía General del Estado de Querétaro;
 
-XXII. Reglamento del Centro: al Reglamento del Centro de Evaluación de Control de Confianza de la Fiscalía General;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+XV. Fiscalía General: al organismo constitucional autónomo denominado Fiscalía General del Estado de Querétaro;
 
-XXIII. Servicio Profesional: al Servicio Profesional de Carrera de la Fiscalía General;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+XVI. Instituto: al Instituto del Servicio Profesional de Carrera de la Fiscalía General del Estado de Querétaro;
 
-XXIV. SIU: Sistema Informático Único que permite la comunicación entre el personal operativo facultado para el uso legal de la fuerza pública y la Fiscalía General; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+XVII. Ley: a la Ley Orgánica de la Fiscalía General del Estado de Querétaro;
 
-XXV. UMA: a la Unidad de Medida y Actualización.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XVIII. Ley General del Sistema: a la Ley General del Sistema Nacional de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XIX. Perito: a los integrantes de los cuerpos de investigación técnica y científica de la Fiscalía General del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XX. Personal Sustantivo: a los Fiscales, Peritos y Policías de Investigación, que se encuentran sujetos al Servicio Profesional de Carrera de la Fiscalía General del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XXI. Policía de Investigación: a los integrantes del cuerpo de Policía de Investigación del Delito de la Fiscalía General del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XXII. Reglamento: al Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XXIII. Reglamento del Centro: al Reglamento del Centro de Evaluación de Control de Confianza de la Fiscalía General del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XXIV. Servicio Profesional: al Servicio Profesional de Carrera de la Fiscalía General del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XXV. SIU: Sistema Informático Único que permite la comunicación entre el personal operativo facultado para el uso legal de la fuerza pública y la Fiscalía General del Estado de Querétaro;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XXVI. UMA: a la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XXVII. Unidad de Análisis: La Unidad de Análisis Criminal de la Fiscalía General del Estado de Querétaro;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XXVIII. Unidad de Asuntos Internos: La Unidad de Asuntos Internos de la Fiscalía General del Estado de Querétaro;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XXIX. Unidad de Extinción de Dominio: La Unidad Especializada en materia de Extinción de Dominio de la Fiscalía General del Estado de Querétaro;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XXX. Unidad de Inteligencia: La Unidad de Inteligencia Patrimonial y Económica de la Fiscalía Especializada en el Combate a la Corrupción de la Fiscalía General del Estado de Querétaro, y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XXXI. Unidad de Transparencia: La Unidad de Transparencia de la Fiscalía General del Estado de Querétaro.
 
 ### Capítulo Segundo. De las funciones de la Fiscalía General del Estado de Querétaro
 
@@ -263,7 +323,9 @@ III. Un representante del Poder Legislativo del Estado, que será el Presidente 
 
 IV. El Fiscal Especializado en el Combate a la Corrupción;
 
-V. Hasta dos consejeros ciudadanos, nombrados por el Fiscal General; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+V. Hasta tres consejeros ciudadanos que formen parte de diferentes sectores de la sociedad, nombrados por el Fiscal General;
 
 VI. Un servidor público designado por el Fiscal General, que fungirá como Secretario Técnico, el cual tendrá voz pero no voto.
 
@@ -403,6 +465,10 @@ VI. No haber sido condenado por delito doloso y gozar de buena reputación.
 
 Las ausencias del Fiscal Anticorrupción se suplirán por el Titular de la Dirección adscrita a la Fiscalía Anticorrupción o, en su caso, por el servidor público que designe el Fiscal Anticorrupción.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+El nivel jerárquico del Fiscal Anticorrupción en la estructura organizacional corresponde al de Vice Fiscal.
+
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 Artículo 13 quáter. La Fiscalía Anticorrupción tiene las siguientes atribuciones:
@@ -441,11 +507,15 @@ XIII. Requerir y recabar de los funcionarios, empleados públicos y de los fedat
 
 XIV. Requerir a los particulares la información que resulte útil o necesaria para sus investigaciones;
 
-XV. Realizar análisis de la información fiscal, financiera, contable y cualquier otra que pueda ser utilizada por ésta y otras áreas competentes de la Fiscalía General, para el esclarecimiento de los hechos considera como delitos en materia de corrupción;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XV. Realizar el análisis de la información fiscal, financiera, patrimonial, económica, contable y cualquier otra que pueda ser utilizada por ésta y otras áreas competentes de la Fiscalía General, para el esclarecimiento de los hechos en materia de corrupción, de conformidad con las disposiciones aplicables;
 
 XVI. Certificar documentos, libros y registros que obren en sus archivos o expedientes, incluyendo los que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos de documentos e información que obre en su poder de acuerdo a la naturaleza de sus funciones o bien que se genere a través del SIU;
 
-XVII. Generar herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XVII. Generar herramientas metodológicas para identificar e investigar hechos que pudieran constituir el delito de Operaciones con Recursos de Procedencia Ilícita y demás delitos precedentes y conexos, así como para coadyuvar en su prevención;
 
 XVIII. Coadyuvar con otras áreas competentes de la Fiscalía General, en el desarrollo de herramientas de inteligencia con enfoque interdisciplinario en el análisis e investigación de los hechos que la ley considera como delitos en materia de corrupción; para conocer la evolución de las distintas variables criminales, socioeconómicas y financieras;
 
@@ -512,6 +582,34 @@ XII. Intervenir en los procedimientos de ejecución de sanciones penales conform
 XIII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
 La Fiscalía Anticorrupción contará con los órganos, las direcciones y el personal necesario para el cumplimiento de sus atribuciones y que se establezcan en las disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Dentro de su estructura orgánica contará con la Unidad de Inteligencia, la cual tendrá los recursos humanos, materiales y tecnológicos necesarios para el cumplimiento de sus atribuciones, conforme la normatividad aplicable y la disponibilidad presupuestaria.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+La Unidad de Inteligencia tendrá a cargo la investigación y persecución del delito de operaciones con recursos de procedencia ilícita, previsto en el Código Penal para el Estado de Querétaro; así como la generación, obtención, análisis, diseminación y consolidación de información financiera, económica y fiscal, y el de cualquier otra manifestación delictiva de carácter económico, que por su naturaleza requieran ser investigados por esta Unidad.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Todo el personal que integre la Unidad de Inteligencia será nombrado y removido por el Fiscal Anticorrupción.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+El personal sustantivo de la Unidad de Inteligencia, por la naturaleza de las funciones que desempeña, permanecerá bajo el régimen del Servicio Profesional de Carrera para todos los efectos a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Los analistas de información que realicen funciones de inteligencia son expertos en la materia para los efectos de investigación del delito, cuyos informes serán considerados dictámenes.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Los datos, documentos o cualquier otra información que obre en poder de la Unidad de Inteligencia, con motivo de las investigaciones realizadas conforme a sus funciones, tiene el carácter de reservada.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Las atribuciones de los integrantes de la Unidad de Inteligencia estarán reguladas en el Reglamento de la Fiscalía Anticorrupción.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE JUNIO DE 2018)</small>
 
@@ -593,13 +691,25 @@ VI. Impulsar estrategias y acciones de coordinación que posibiliten a las víct
 
 VII. Coordinar la aplicación y difusión de los Mecanismos Alternativos de Solución de Controversias en Materia Penal;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-VIII. Realizar el cobro de derechos por el servicio de expedición de certificado de antecedentes penales, así como expedición de certificado de cancelación administrativa de registro de antecedentes penales; y
+VIII. Realizar el cobro de derechos por el servicio de expedición de certificado de antecedentes penales, así como expedición de certificado de cancelación administrativa de registro de antecedentes penales;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-IX. Las demás contenidas en las disposiciones aplicables.
+IX. Autorizar el no ejercicio de la acción penal, los criterios de oportunidad y el procedimiento abreviado, que propongan los Fiscales de las Direcciones a su cargo;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+X. Implementar los mecanismos de seguimiento y control necesarios para las determinaciones que emitan los Fiscales a su cargo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XI. Las demás contenidas en las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Para la ejecución de sus atribuciones, contará con la Unidad de Fiscales Analistas, la Unidad de Control y Seguimiento de Mandatos, la Unidad de Extinción de Dominio, los departamentos, áreas y demás personal que el servicio requiera conforme a la disponibilidad presupuestal, cuyas funciones están reguladas en el Reglamento.
 
 ### Capítulo Séptimo. De la Vice Fiscalía de Derechos Humanos y Desarrollo Institucional
 
@@ -613,9 +723,35 @@ II. Coordinar el intercambio de información con instancias de procuración de j
 
 III. Realizar las gestiones para cumplir con las obligaciones institucionales en materia de control de confianza;
 
-IV. Realizar las acciones y trámites necesarios para mantener la vigencia de la Licencia Oficial Colectiva de Armas de Fuego de la Policía de Investigación; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-V. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
+IV. Realizar las acciones y trámites necesarios para mantener la vigencia de la Licencia Oficial Colectiva de Armas de Fuego de la Policía de Investigación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+V. Analizar la información criminal para auxiliar en el diseño de estrategias de investigación y persecución del delito;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+VI. Resolver en términos de las disposiciones legales aplicables las quejas en contra de la Policía de Investigación como parte del Régimen Disciplinario;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+VII. Autorizar a la Unidad de Asuntos Internos la presentación de solicitud del procedimiento abreviado, la aplicación de criterios de oportunidad y de abstención de sancionar ante la Comisión de Honor y Justicia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+VIII. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Para la ejecución de sus atribuciones, contará con la Unidad de Análisis, la Unidad de Asuntos Internos, los departamentos, áreas y demás personal que el servicio requiera conforme a la disponibilidad presupuestal, cuyas funciones están reguladas en el Reglamento y el Reglamento de la Comisión de Honor y Justicia de la Fiscalía General del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Artículo 16 bis. Los analistas de la Unidad de Análisis son expertos en la materia para los efectos de investigación del delito, cuyos informes serán considerados dictámenes.
+
+El personal sustantivo de la Unidad de Análisis, por la naturaleza de las funciones que desempeña, permanecerá bajo el régimen del Servicio Profesional de Carrera para todos los efectos a que haya lugar.
 
 ### Capítulo Primero. Disposiciones generales
 
@@ -627,9 +763,21 @@ I. Definir, instrumentar y evaluar las políticas y los mecanismos que orientan 
 
 II. Coordinar las acciones para (sic) cumplimiento de las obligaciones institucionales en materia de Derechos Humanos;
 
-III. Realizar en conjunto con las Vice Fiscalías, Direcciones y demás áreas de la Fiscalía, las acciones que propicien el desarrollo institucional de la Fiscalía General; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-IV. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
+III. Realizar en conjunto con las Vice Fiscalías, Direcciones y demás áreas de la Fiscalía, las acciones que propicien el desarrollo institucional de la Fiscalía General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+IV. Garantizar el cumplimiento de las obligaciones a que se refiere la legislación en materia de transparencia, acceso a la información y protección de datos personales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+V. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Para la ejecución de sus atribuciones, contará con la Unidad de Transparencia, departamentos, áreas y demás personal que el servicio requiera conforme a la disponibilidad presupuestal, cuyas funciones están reguladas en el Reglamento y la normatividad en la materia.
 
 ### Capítulo Segundo. De la Dirección de Investigación de la Fiscalía General
 
@@ -851,7 +999,7 @@ X. Hacer uso legal de la fuerza física y material, conforme a los protocolos es
 
 XI. Actuar bajo la conducción y mando del Fiscal en el aseguramiento de bienes relacionados con la investigación de los delitos;
 
-XII. Recibir, tramitar, investigar y resolver a través de la Unidad de Asuntos Internos, en términos de las disposiciones legales aplicables las quejas en contra de la policía de investigación como parte del Régimen Disciplinario; y
+XII. (DEROGADA, P.O. 2 DE JUNIO DE 2021)
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -925,9 +1073,7 @@ I. Fomentar entre los servidores públicos de la Fiscalía General, el pleno con
 
 II. Representar a la Fiscalía General ante las instancias correspondientes en todos aquellos procedimientos relativos a Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-III. Ejercer las funciones y obligaciones a que se refiere la legislación en materia de transparencia, acceso a la información y protección de datos personales;
+III. (DEROGADA, P.O. 2 DE JUNIO DE 2021)
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -1471,13 +1617,15 @@ VI. Por las bases de licitación, todos los proveedores interesados en participa
 
 VII. Por procesos de obtención de perfil genético, los integrantes de las instituciones de seguridad, de seguridad privada o del Sistema Estatal de Protección Civil de Querétaro, así como personas involucradas en procesos de ingreso a las mismas, cuando sea solicitado por el Centro Estatal de Evaluación y Control de Confianza.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### Artículo 53.
 
-Por los servicios prestados por la Fiscalía General, se causarán y pagarán derechos conforme a las siguientes cuotas:
+Por los servicios prestados por la Fiscalía General del Estado de Querétaro, se causarán y pagarán derechos conforme a las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. 26 DE DICIEMBRE DE 2017, PÁGINAS DE LA 28582 A LA 28583.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 26 DE DICIEMBRE DE 2017, PÁGINAS DE LA 28582 A LA 28583. PÁGINAS DE LA 17849 A LA 17851]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS DE LA TABLA EN EL P.O. DE 2 DE JUNIO DE 2021, PÁGINAS DE LA 17849 A LA 17851]</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -1656,3 +1804,13 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY POR LA QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Las áreas de la Fiscalía General brindarán en el ámbito de sus atribuciones el apoyo necesario para la conformación de la Unidad de Inteligencia Patrimonial y Económica, la Unidad Especializada en materia de Extinción de Dominio y la Unidad de Análisis Criminal.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
