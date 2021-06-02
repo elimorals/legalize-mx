@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-seguridad-integral-escolar-para-el-estado-de-nayarit-724
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-20"
-last_updated: "2012-05-23"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el miércoles 20 de enero de 2010.
 
@@ -607,9 +607,9 @@ Contra las resoluciones emitidas por la autoridad, dictadas con fundamento en la
 
 ## TITULO TERCERO
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JUNIO DE 2021)</small>
 
-### CAPÍTULO I. DEL ACOSO ESCOLAR
+### CAPÍTULO I. DEFINICIÓN, CARACTERÍSTICAS Y MODALIDADES DEL ACOSO ESCOLAR
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
 
@@ -627,17 +627,55 @@ III.- Generar condiciones de protección contra toda forma de acoso escolar, sea
 
 IV.- Establecer en sus reglamentos internos, disposiciones de carácter disuasivo, correctivo y reeducativo para impedir el acoso escolar.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 47 BIS.- Para los efectos de esta Ley, el acoso escolar se ejerce entre estudiantes, por directivos, docentes, personal de apoyo y administrativo, padres de familia, tutores, quienes ejerzan la patria potestad, o tengan bajo su guarda o custodia a los estudiantes, y las demás personas que con motivo de sus actividades y funciones estén relacionadas de manera directa o indirecta con las actividades realizadas en el entorno escolar, contra aquellos; así como la que realizan los estudiantes entre sí.
+
+En dicha conducta el generador del acoso vulnera en forma reiterada los derechos fundamentales del estudiante acosado, pudiendo ocasionarle repercusiones en su salud, interferir en el rendimiento escolar, la integración social, generar depresión, inseguridad, baja autoestima, entre otras consecuencias que ponen en riesgo su integridad física y mental; perjudica la disposición de un estudiante a participar o aprovechar los programas o actividades educativos del plantel educativo, al hacerle sentir un temor razonable a sufrir algún daño de cualquier tipo.
+
+También se considera como parte del acoso escolar cuando se ocasiona daño o menoscabo en las pertenencias del estudiante, como la sustracción, desaparición, ocultamiento o retención de objetos de su propiedad.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 48.
 
-Serán considerados como actos de acoso escolar, las conductas que sucedan:
+El acoso escolar se identificará por:
 
-I.- Dentro de las instalaciones de una institución educativa;
+I.- Comportamiento intencional y dañino hacia el receptor, quien se encuentra en situación de indefensión, aun cuando no sea reportado;
 
-II.- En el interior de un vehículo de transporte escolar al servicio de una institución educativa, o
+II.- Predominio de un desequilibrio de poder entre los que participan;
 
-III.- Durante el desenvolvimiento de un programa o actividad escolar auspiciada por una institución educativa.
+III.- Persistencia de dichas acciones de forma reiterada;
+
+IV.- Realización de dichas acciones por una o varias personas contra otro u otros, sin que intermedie necesariamente provocación alguna por parte del receptor, y
+
+V.- Provocación de algún tipo de daño en el receptor.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 48 BIS.- El acoso escolar se encuentra prohibido y será considerado como tal, cuando:
+
+I.- Se lleve a cabo dentro de las instalaciones de un plantel educativo, en las inmediaciones, o en otro lugar donde los sujetos tengan una relación por la pertenencia al mismo plantel educativo o a planteles educativos distintos;
+
+II.- Se realice durante el desenvolvimiento de un programa o actividad escolar a cargo de un plantel educativo, o
+
+III.- Suceda en el interior de un vehículo de transporte escolar.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 48 TER.- Las modalidades en términos de esta Ley en que se identificará el acoso escolar son las siguientes:
+
+I.- Acoso físico directo: Toda acción que de manera intencional cause daño corporal;
+
+II.- Acoso físico indirecto: Toda acción u omisión que ocasiona daño o menoscabo en las pertenencias del receptor;
+
+III.- Acoso psicoemocional: Toda acción u omisión dirigida a desvalorar, intimidar o controlar las acciones y comportamientos que provoquen en quien la recibe, alteraciones auto cognitivas y auto valorativas que integran su autoestima o alteraciones en alguna esfera de su estructura psíquica;
+
+IV.- Acoso verbal: Toda acción no corporal en la que se emplea el lenguaje, que de manera intencional o no, transgrede la dignidad del receptor;
+
+V.- Acoso cibernético: La que se produce mediante plataformas virtuales y herramientas tecnológicas para exponer la intimidad del menor hacia otras personas con la finalidad de propiciar un daño, y
+
+VI.- Acoso sexual: Toda acción u omisión que amenaza, pone en riesgo o lesiona la libertad, seguridad, integridad y desarrollo psicosexual de las y los estudiantes, como miradas o palabras lascivas, hostigamiento, prácticas sexuales no voluntarias, acoso o el uso denigrante de la imagen de las y los estudiantes.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2012)</small>
 
@@ -661,7 +699,9 @@ Los lineamientos estarán diseñados para que sean aplicados en todos los grados
 
 I.- La definición de acoso escolar;
 
-II.- La declaratoria que prohíbe el acoso escolar dirigida hacia cualquier alumno o docente;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+II.- La declaratoria que prohíbe el acoso escolar, así como cualquier acto de represalia o venganza en contra de cualquier persona que reporte alguna de estas conductas, dirigida hacia cualquier alumno o docente;
 
 III.- El procedimiento para instruir a estudiantes, padres de familia, docentes, administradores, directivos escolares y voluntarios en la identificación y prevención de actos de acoso escolar;
 
@@ -671,9 +711,33 @@ V.- La descripción de consecuencias y acciones en contra de aquella persona que
 
 VI.- El procedimiento para la denuncia de un acto de acoso escolar por parte de la víctima o de un tercero, en el cual se contenga una provisión donde se permita la denuncia anónima;
 
-VII.- La investigación de un acto acoso de (sic) escolar para determinar si éste puede ser atendido por la institución educativa y, en caso contrario, determinar la remisión inmediata a la autoridad competente, y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-VIII.- Las sanciones aplicables a las instituciones educativas, directores, docentes y administradores, en caso de hacer caso omiso a denuncia, queja o conocimiento alguno de actos que constituyan acoso escolar.
+VII.- La investigación de un acto de acoso escolar para determinar si este puede ser atendido por la institución educativa y, en caso contrario, determinar la remisión inmediata a la autoridad competente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+VIII.- Las acciones específicas para proteger a la persona de cualquier represalia que pueda sufrir a consecuencia de denunciar actos de acoso en el entorno escolar;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+IX.- Los procedimientos que deberán atenderse por parte de las instituciones educativas sobre los siguientes temas:
+
+a) La forma de abordar el acoso escolar, para responder a cualquiera de esos casos;
+
+b) La canalización de víctimas y agresores de acoso escolar, a tratamientos psicológicos y asesorías especializadas;
+
+c) Información de manera periódica y constante a los padres de la víctima, sobre las medidas tomadas para que el agresor o agresores no cometan nuevos actos de acoso en el entorno escolar en contra de ésta, y
+
+d) Documentación de cualquier tipo de acoso escolar para que sean incluidos en el informe anual que presentará cada institución educativa a la Secretaría, al final del ciclo escolar correspondiente.
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+X.- Información sobre el tipo de servicios de apoyo para víctimas, agresores y terceros afectados, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+XI.- Las sanciones aplicables a las instituciones educativas, directores, docentes y administradores, en caso de hacer caso omiso a denuncia, queja o conocimiento alguno de actos que constituyan acoso escolar.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
 
@@ -813,6 +877,68 @@ III.- Producir y distribuir material didácticos (sic) de sensibilización sobre
 
 IV.- Difusión de los lineamientos contenidos en el Manual de Convivencia Escolar.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2021)</small>
+
+### CAPÍTULO IV. LAS SANCIONES O MEDIDAS DISCIPLINARIAS PARA LOS ALUMNOS AGRESORES
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 67.
+
+Las sanciones o medidas disciplinarias para los alumnos agresores y cómplices de acoso en el entorno escolar o represalias en los tipos establecidos en esta Ley serán las siguientes:
+
+I.- Amonestación privada: advertencia verbal y mediante un reporte escrito de manera preventiva que se hace al agresor o cómplice sobre las consecuencias de su conducta, y de las medidas aplicables frente a una futura reincidencia;
+
+II.- Medida correctiva: obligación de cumplir con una medida correctiva determinada;
+
+III.- Suspensión de clases: cese temporal de asistencia a clases, acompañada de las tareas que, de acuerdo al programa de estudio vigente, deba realizar durante el tiempo que determine la dirección escolar, o
+
+IV.- Transferencia a otra escuela: baja definitiva de la institución educativa donde se encuentre el agresor o cómplice, cuando hayan sido agotadas las sanciones anteriores y exista reincidencia en su conducta. En este caso se deberá garantizar al agresor o cómplice su incorporación a otra institución educativa, en pleno respeto al derecho a la educación.
+
+Se aplicará la misma sanción si el padre, madre y/o tutor del generador, se negare, fuere negligente, o impidiera el tratamiento especificado por el profesional.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 68.
+
+La dirección escolar o el personal que se designe, serán los responsables de aplicar, previa investigación, la sanción correspondiente.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 69.
+
+El personal directivo, docente, de apoyo y administrativo de las escuelas que tengan conocimiento de casos de acoso en cualquiera de sus manifestaciones definidas en esta Ley o de la comisión de algún delito en agravio de las y los estudiantes, lo harán del conocimiento inmediato de la autoridad competente y se informará dicha situación a la madre, padre o quien ejerza la patria potestad, tutela o guarda, custodia o crianza.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2021)</small>
+
+### CAPÍTULO V. DE LAS SANCIONES PARA EL PERSONAL DIRECTIVO, DOCENTE, DE APOYO Y ADMINISTRATIVO
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 70.
+
+El personal directivo, docente, de apoyo y administrativo será sujeto de responsabilidad en términos de las disposiciones aplicables cuando:
+
+I.- Tolere o consienta el acoso escolar o sus represalias;
+
+II.- No tome las medidas para prevenir e intervenir en los casos de acoso escolar o sus represalias;
+
+III.- Tolere o consienta por parte de personal directivo de un centro educativo, que docentes, personal de apoyo o administrativos realicen conductas de acoso en contra de los alumnos por cualquier medio;
+
+IV.- Oculte a los padres o tutores de los agresores, cómplices o víctimas, los casos de acoso en el entorno escolar o represalias, en que hubiesen incurrido sus hijos o tutelados;
+
+V.-Proporcione información falsa u oculte información a las autoridades competentes, sobre hechos de violaciones a esta Ley;
+
+VI.- Cometa otra acción u omisión contrarias a este ordenamiento, o
+
+VII.- Se viole la confidencialidad de los datos contenidos en los expedientes que se realicen en materia de acoso escolar.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 71.
+
+Los procedimientos y sanciones para el personal escolar, se sujetarán a las disposiciones previstas por las leyes aplicables.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -842,3 +968,11 @@ P.O. 23 DE MAYO DE 2012.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Educación, deberá expedir el Manual de Convivencia Escolar previamente a la fecha de inicio del periodo escolar 2012 - 2013.
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISIPACIONES DE LA LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. La Secretaría de Educación del Estado en coordinación con las autoridades en la materia que considere, dentro del plazo de noventa días naturales expedirá o actualizará el Manual de Convivencia Escolar y los lineamientos para prevenir y erradicar el acoso escolar, los cuales serán de observancia general en todas las instituciones educativas de la entidad.
