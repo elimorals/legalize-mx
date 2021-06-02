@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-desarrollo-pecuario-del-estado-de-queretaro-69501"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2017-09-05"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69501&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DESARROLLO PECUARIO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -89,9 +89,21 @@ IV. Inspección: revisión para constatar el cumplimiento de las disposiciones d
 
 V. Productos biológicos: los reactivos biológicos, sueros y vacunas que puedan utilizarse para diagnosticar, tratar y prevenir enfermedades de los animales, así como hormonas y material genético de origen animal que sirva para fines reproductivos;
 
-VI. Rastro: establecimiento donde se da el servicio para sacrificio de animales, la alimentación y comercialización al mayoreo de sus productos; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-VII. VSMGZ: veces el salario mínimo general vigente en la zona a la que pertenece Querétaro.
+VI. Productos de especies pecuarias: animal sacrificado, eviscerado, sin cabeza y sin parte discal de los miembros locomotores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+VII. Subproductos de especies pecuarias: partes de los animales que salen de los rastros sin ser vendidos como carne, constituidos por la piel, sebo, cabeza, patas y vísceras torácicas y abdominales;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+VIII. Rastro: establecimiento donde se brinda el servicio para sacrificio de animales, la alimentación y comercialización al mayoreo de sus productos; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE JUNIO DE 2021)</small>
+
+IX. UMA: Unidad de Medida y Actualización. Es la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de todas las anteriores.
 
 ### Capítulo Segundo. De las autoridades competentes
 
@@ -350,6 +362,10 @@ III. Resolución judicial;
 IV. Documento expedido por la autoridad municipal competente; o
 
 V. Guía de tránsito.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Para el caso de movilización, la legitima procedencia se podrá acreditar con la guía de tránsito pecuaria, aviso de movilización y en el caso de la especie equina, con el pasaporte equino.
 
 ###### Artículo 25.
 
@@ -978,3 +994,13 @@ P.O. 5 DE SEPTIEMBRE DE 2017.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO Y DE LA LEY DE DESARROLLO PECUARIO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
