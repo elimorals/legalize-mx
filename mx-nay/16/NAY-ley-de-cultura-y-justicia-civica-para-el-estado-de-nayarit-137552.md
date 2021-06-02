@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-cultura-y-justicia-civica-para-el-estado-de-nayarit-1375
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-05"
-last_updated: "2020-11-26"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE CULTURA Y JUSTICIA CÍVICA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Ley publicada en la Sección Sexta al Número 109 del Periódico Oficial del Estado de Nayarit, el miércoles 5 de junio de 2019.
 
@@ -325,15 +325,39 @@ XI. Percutir armas de postas, diábolos, dardos o municiones contra personas o a
 
 XII. Participar de cualquier manera, organizar o inducir a otros a realizar competencias vehiculares de velocidad en vías públicas;
 
-XIII. Organizar o participar en peleas de animales, de cualquier forma, que no cuenten con el permiso de la autoridad competente, y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-XIV. Causar daño a un bien mueble o inmueble ajeno, en forma culposa y con motivo del tránsito de vehículos.
+XIII. Organizar o participar en peleas de animales, de cualquier forma, que no cuenten con el permiso de la autoridad competente;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XIV Causar daño a un bien mueble o inmueble ajeno, en forma culposa y con motivo del tránsito de vehículos;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XV. Impedir o estorbar de cualquier forma el uso de la vía y el espacio público, la libertad de tránsito o de acción de las personas, siempre que no exista permiso ni causa justificada para ello.
+
+Para estos efectos, se entenderá que existe causa justificada siempre que la obstrucción del uso de la vía pública, de la libertad de tránsito o de acción de las personas sea inevitable y necesaria y no constituya en sí misma un fin, sino un medio razonable de manifestación de las ideas, de expresión artística o cultural de asociación o de reunión pacífica;
+
+(NOTA: EL 6 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 103/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVI DEL APARTADO A DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XVI. USAR EL ESPACIO PÚBLICO SIN CONTAR CON LA AUTORIZACIÓN QUE SE REQUIERA PARA ELLO, Y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XVII. Reñir con una o más personas.
 
 Obra culposamente quien produce el daño, que no previó siendo previsible o previó confiando en que no se produciría, en virtud de la violación de un deber de cuidado que objetivamente era necesario observar.
 
-Las infracciones establecidas en las fracciones I y II, se sancionarán con multa de 11 a 20 veces la UMA o con arresto de 13 a 24 horas.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
-Las infracciones establecidas en las fracciones III, IV, V, VI, VII, IX, X y XI, se sancionarán con multa de 21 veces la UMA o con arresto de 25 a 36 horas.
+Las infracciones establecidas en las fracciones I, II, XV y XVI se sancionarán con multa de 11 a 20 veces la UMA o con arresto de 13 a 24 horas.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Las infracciones establecidas en las fracciones III, IV, V, VI, VII, IX, X, XI y XVII se sancionarán con multa de 15 a 30 veces la UMA o con arresto de 25 a 36 horas.
 
 La infracción establecida en la fracción VIII se sancionará con arresto de 25 a 36 horas.
 
@@ -345,7 +369,9 @@ Si el infractor o infractora fuese jornalera, obrera o trabajadora, no podrá se
 
 Tratándose de personas trabajadoras no asalariadas, la multa no excederá del equivalente a un día de su ingreso.
 
-Sólo se conmutará el arresto si, además de los requisitos que señala esta Ley, la persona responsable acredita su domicilio, señala domicilio en algún Municipio del Estado de Nayarit para oír y recibir notificaciones, y menciona, en su caso, el domicilio del propietario o propietaria del vehículo.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Sólo se conmutará el arresto cuando, además de los requisitos que señala esta Ley, la persona responsable acredita su domicilio, señala domicilio en algún Municipio del Estado de Nayarit para oír y recibir notificaciones, y menciona, en su caso, el domicilio del propietario o propietaria del vehículo.
 
 En el supuesto de la fracción XIV de este artículo, si con los elementos de prueba ofrecidos por las partes o personas allegadas al Juez o Jueza no es posible determinar quién es la persona responsable del daño causado, no se aplicará multa alguna y se devolverán los vehículos, quedando a salvo los derechos de las partes para hacerlos valer por la vía procedente.
 
@@ -361,7 +387,9 @@ IV. Desobedecer las disposiciones que las autoridades competentes emitan para li
 
 V. Incumplir, cuando se trate de prevenir la transmisión de enfermedades, las medidas de distanciamiento social y los hábitos de higiene y uso de instrumentos para la autoprotección y prevención de contagios, entre otros:
 
-a) Uso de cubre bocas o mascarilla y de gel sanitizante para manos;
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+a) Uso de cubre bocas o mascarilla y de gel desinfectante para manos;
 
 b) Mantener una distancia segura entre otras personas;
 
@@ -397,27 +425,43 @@ IV. Tirar basura en lugares no autorizados o quemarla aún dentro de su propieda
 
 V. Dañar, pintar, maltratar, ensuciar o hacer uso indebido de las fachadas de inmuebles públicos o de particulares, sin autorización expresa de éstos, estatuas, monumentos, postes, arbotantes, semáforos, parquímetros, buzones, tomas de agua, señalizaciones viales o de obras, puentes, pasos peatonales, plazas, parques, jardines, elementos de ornato u otros bienes semejantes. El daño a que se refiere esta fracción será competencia del Juez o Jueza hasta el valor de 20 veces la UMA;
 
-VI. Cambiar de manera permanente, el uso o destino de áreas o vía pública, sin la autorización correspondiente;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+VI. Cambiar de cualquier forma, el uso o destino de áreas, espacios o vía pública, sin la autorización correspondiente;
 
 VII. Abandonar muebles en áreas o vías públicas;
 
-VIII. Desperdiciar el agua o impedir el uso a quienes deben tener acceso a ella;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-IX. Colocar en la acera o en el arroyo vehicular, enseres o cualquier elemento propio de un establecimiento mercantil, sin la autorización correspondiente;
+VIII. Desperdiciar el agua o impedir el uso a quienes deben tener acceso a ella en tuberías, tanques o tinacos almacenadores, así como utilizar indebidamente los hidrantes públicos, obstruirlos o impedir su uso;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+IX. Colocar en la acera, en el arroyo vehicular, en espacios públicos, enseres o cualquier elemento propio de un establecimiento mercantil, sin la autorización correspondiente;
 
 X. Arrojar en la vía pública desechos, sustancias peligrosas para la salud de las personas o que despidan olores desagradables;
 
 XI. Ingresar a zonas señaladas como de acceso restringido en los lugares o inmuebles destinados a servicios públicos, sin la autorización correspondiente o fuera de los horarios establecidos;
 
-> <small>(F. DE E., P.O. 3 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-XII. Cubrir, borrar, pintar, alterar o desprender los letreros, señales, números o letras que identifiquen vías, inmuebles y lugares públicos, y
+XII. Cubrir, borrar, pintar, alterar o desprender los letreros, señales, números o letras que identifiquen vías, inmuebles y lugares públicos;
 
-> <small>(F. DE E., P.O. 3 DE MARZO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-XIII. Pintar, adherir, colgar o fijar anuncios o cualquier tipo de propaganda en elementos del equipamiento urbano, del mobiliario urbano, de ornato o árboles, sin autorización para ello.
+XIII. Pintar, adherir, colgar o fijar anuncios o cualquier tipo de propaganda en elementos del equipamiento urbano, del mobiliario urbano, de ornato o árboles, sin autorización para ello;
 
-Las infracciones establecidas en las fracciones I a IV, VI y VII se sancionarán con multa de 11 a 20 veces la UMA o con arresto de 13 a 24 horas.
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XIV. Colocar transitoriamente o fijar en el espacio público, sin autorización para ello, elementos destinados a la venta de productos o prestación de servicios, y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+XV. Obstruir o permitir la obstrucción del espacio público con motivo de la instalación, modificación, cambio o mantenimiento de los elementos constitutivos de un anuncio, sin tener la autorización correspondiente.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+Las infracciones establecidas en las fracciones I a IV, VI, VII, XIV y XV se sancionarán con multa de 11 a 20 veces la UMA o con arresto de 13 a 24 horas.
 
 La fracción V y VIII, se sancionará con multa de 21 a 40 veces la UMA o con arresto de 25 a 36 horas.
 
@@ -1170,3 +1214,9 @@ P.O. 26 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
 
 SEGUNDO.- Los Ayuntamientos de la Entidad, en el ámbito de sus respectivas competencias, expedirán las disposiciones pertinentes para el cumplimiento del presente Decreto.
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y JUSTICIA CÍVICA PARA EL ESTADO DE NAYARIT, EN MATERIA DE FALTAS ADMINISTRATIVAS”.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
