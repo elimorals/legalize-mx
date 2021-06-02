@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-los-fideicomisos-instituidos-en-113701"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-03-30"
-last_updated: "2017-10-09"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113701&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2026-10-05"
 
 ESTATUTO ORGÁNICO DE LOS FIDEICOMISOS INSTITUIDOS EN RELACIÓN CON LA AGRICULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2021.
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 30 de marzo de 2016.
 
@@ -144,6 +144,8 @@ VIII. Gestionar la contratación de pasivos para FIRA en coordinación con la Di
 
 IX. Las demás que le establezcan las leyes y los contratos constitutivos de FIRA.
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
 ###### Artículo 6.
 
 La Dirección General tiene adscritas las siguientes unidades administrativas.
@@ -153,6 +155,8 @@ I. Unidad de Análisis y Administración Integral de Riesgos.
 II. Contraloría Interna.
 
 III. Direcciones Generales Adjuntas.
+
+IV. Subdirección de Proyectos y Estrategia.
 
 ###### Artículo 7.
 
@@ -292,6 +296,40 @@ V. Atender a las instancias fiscalizadoras externas en las auditorías y requeri
 
 VI. Suscribir en ausencia del Titular de la Contraloría Interna la información financiera cuya fecha de entrega tenga término, para dar cumplimiento a las obligaciones que establezca la Comisión Nacional Bancaria y de Valores.
 
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+Artículo 14 bis.- La Subdirección de Proyectos y Estrategia tiene como objetivo administrar el seguimiento de la estrategia institucional, los proyectos relevantes de la Institución, así como establecer y coordinar la estrategia y operación de los Centros de Desarrollo Tecnológico y tiene las siguientes funciones:
+
+I. Diseñar e implementar el proceso de administración de la estrategia Institucional.
+
+II. Efectuar el seguimiento a la planeación estratégica de la Institución mediante la coordinación con las Unidades Administrativas de la Institución responsables de su implementación.
+
+III. Elaborar análisis e informes periódicos de seguimiento a la estratégica (sic), identificando desviaciones y observaciones.
+
+IV. Llevar a cabo el seguimiento a los principales proyectos de la institución mediante la aplicación de metodologías y herramientas que permitan la efectiva gestión de los mismos.
+
+V. Establecer y coordinar la estrategia y operación de los Centros de Desarrollo Tecnológico integrándolos a los proyectos institucionales de FIRA
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+Artículo 14 bis 2.- La Subdirección de Proyectos y Estrategia tiene adscritas las siguientes unidades administrativas:
+
+I.- Centros de Desarrollo Tecnológico.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+Artículo 14 bis 3.- Los Centros de Desarrollo Tecnológico tienen como objetivo diseñar y proveer servicios de transferencia de tecnología, capacitación y consultoría para incrementar la competitividad de los productores y empresas y mejorar las competencias de los prestadores de servicios especializados y tiene las siguientes funciones:
+
+I. Identificar, diseñar y proveer servicios de capacitación, transferencia de tecnología y consultoría a productores, prestadores de servicios especializados, intermediarios financieros y personal de FIRA en aspectos relevantes de redes de valor, competitividad y sostenibilidad de las empresas del sector rural.
+
+II. Operar las unidades productivas, documentar y difundir los resultados técnicos de las tecnologías validadas en los propios Centros de Desarrollo Tecnológico.
+
+III. Establecer vínculos con las principales instituciones de investigación y desarrollo, empresas y proveedores de tecnología, para impulsar el desarrollo del mercado de servicios tecnológicos del sector rural.
+
+IV. Apoyar en coordinación con las unidades administrativas correspondientes, al cumplimiento del Plan Anual de Negocios, así como en la identificación de opciones tecnológicas para la integración de las redes de valor y en el dictamen técnico de proyectos de inversión.
+
+V. Administrar y proponer las estrategias y políticas, en conjunto con las unidades administrativas correspondientes, para la operación sustentable de los Centros de Desarrollo Tecnológico integrándolos a las estrategias y modelos de negocio de FIRA.
+
 DE LAS DIRECCIONES GENERALES ADJUNTAS
 
 ###### Artículo 15.
@@ -304,7 +342,9 @@ II. Coordinar las acciones legales y brindar asesoría jurídica a FIRA.
 
 III. Coordinar el proceso integral de seguimiento y rescate de garantías pagadas y la recuperación de todos los derechos de cobro de FIRA.
 
-IV. Coordinar las acciones para el cumplimiento de las obligaciones de la Ley Federal de Acceso a la Información Pública Gubernamental.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+I (SIC). Coordinar las acciones para el cumplimiento de las obligaciones establecidas en la legislación y normativa aplicable en materia de acceso a la información, transparencia y protección de datos personales.
 
 V. Coordinar la elaboración, implementación, evaluación y seguimiento de los programas y medidas aplicables a los presupuestos autorizados a FIRA para el ejercicio del gasto corriente e inversión física con base en las disposiciones legales aplicables.
 
@@ -336,7 +376,9 @@ IV. Coordinar, administrar y participar en las labores jurídicas para el funcio
 
 V. Suscribir, rescindir y dar por terminados los contratos y convenios en los que participa FIRA, incluyendo los contratos en materia laboral y administrativa.
 
-VI. Coordinar las acciones para el cumplimiento de las obligaciones de la Ley Federal de Acceso a la Información Pública Gubernamental.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+VI. Coordinar las acciones para el cumplimiento de las obligaciones establecidas en la legislación y normativa aplicable en materia de acceso a la información, transparencia y protección de datos personales.
 
 VII. Asesorar en la atención de observaciones y requerimientos de instancias fiscalizadoras.
 
@@ -368,7 +410,9 @@ IV. Emitir opinión en la elaboración, autorización, emisión y publicación d
 
 V. Administrar el Catálogo de Poderes Notariales o Mandatos otorgados al personal de FIRA, y de los representantes de FIRA ante instancias externas.
 
-VI. Realizar las acciones para el cumplimiento de las obligaciones de la Ley Federal de Acceso a la Información Pública Gubernamental.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+VI. Realizar las acciones para el cumplimiento de las obligaciones establecidas en la legislación y normativa aplicable en materia de acceso a la información, transparencia y protección de datos personales.
 
 VIII. Asesorar en la atención de observaciones y requerimientos de instancias fiscalizadoras.
 
@@ -640,7 +684,9 @@ La Dirección General Adjunta de Inteligencia Sectorial tiene adscritas las sigu
 
 I. Dirección de Investigación y Evaluación Económica y Sectorial.
 
-II. Dirección Técnica, de Pesca y Redes de Valor.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+II. Dirección de Medio Ambiente, Pesca y Redes de Valor.
 
 ###### Artículo 40.
 
@@ -694,13 +740,17 @@ I. Elaborar estudios de evaluación del impacto de los programas y productos de 
 
 II. Coordinar la evaluación, de los programas y productos de FIRA, realizada por otras instancias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
 ###### Artículo 45.
 
-La Dirección Técnica, de Pesca y Redes de Valor tiene como objetivo analizar, evaluar y divulgar información técnica asociada con los sectores objetivo de FIRA que permita desarrollar y mejorar programas y productos, así como el análisis de temas relacionados con el medio ambiente y los sectores pesquero y forestal y tiene las siguientes funciones:
+La Dirección de Medio Ambiente, Pesca y Redes de Valor tiene como objetivo analizar, evaluar y divulgar información técnica asociada con los sectores objetivo de FIRA que permita desarrollar y mejorar programas y productos, así como el análisis de temas relacionados con el medio ambiente y los sectores pesquero y forestal y tiene las siguientes funciones:
 
 I. Coordinar las labores de obtención, procesamiento, análisis de información y elaboración de estudios económicos sobre redes de valor con la finalidad de proporcionar conocimientos e información técnica especializada a las otras unidades administrativas.
 
-II. Supervisar el análisis, evaluación y divulgación de información técnica asociada con los sectores objetivo de FIRA que permita desarrollar y mejorar programas y productos. Así como diseñar mecanismos de apoyo para incentivar la innovación en el sector, a fin de dinamizar la generación de patentes y marcas.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+II. Supervisar el análisis, evaluación y divulgación de información técnica asociada con los sectores objetivo de FIRA que permita desarrollar y mejorar programas y productos. Así como diseñar mecanismos de apoyo para incentivar la innovación en el sector.
 
 III. Coordinar grupos de expertos en temas técnicos de interés para FIRA, con la finalidad de vincular sus conocimientos con otras unidades administrativas de la misma.
 
@@ -708,33 +758,45 @@ IV. Supervisar las acciones para recabar, analizar, procesar y divulgar informac
 
 V. Supervisar las labores de obtención y análisis de la información técnica y económica relacionada con proyectos que involucran el cuidado del medio ambiente y colaborar con las unidades administrativas de Promoción de Negocios en el diseño de programas ambientales de FIRA.
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
 ###### Artículo 46.
 
-La Dirección Técnica, de Pesca y Redes de Valor tiene adscritas las siguientes unidades administrativas:
+La Dirección de Medio Ambiente, Pesca y Redes de Valor tiene adscritas las siguientes unidades administrativas:
 
-I. Subdirección Técnica y de Redes de Valor.
+I. Subdirección de Pesca, Forestal y Redes de Valor.
 
-II. Subdirección de Pesca, Forestal y Medio Ambiente.
+II. Subdirección de Medio Ambiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2021)</small>
 
 ###### Artículo 47.
 
-La Subdirección Técnica y de Redes de Valor tiene como objetivo analizar, evaluar y divulgar información técnica y económica asociada con las redes de valor de los sectores objetivo y tiene las siguientes funciones:
+La Subdirección de Pesca, Forestal y Redes de Valor tiene como objetivo analizar, evaluar y divulgar información técnica y económica asociada con las redes de valor de los sectores objetivo y tiene las siguientes funciones:
 
 I. Integrar y supervisar grupos de expertos en temas técnicos de interés para FIRA, con la finalidad de vincular sus conocimientos con otras unidades administrativas de la misma.
 
-II. Elaborar análisis técnicos y económicos que permitan identificar y dar seguimiento a los principales factores que influyen en la eficiencia y competitividad de las redes de valor de interés para FIRA. Así como diseñar mecanismos de soporte para incentivar la innovación en el sector, a fin de dinamizar la generación de patentes y marcas.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2021)</small>
 
-III. Recabar, procesar y analizar información técnica para aportar elementos de análisis que apoyen la toma de decisiones en otras unidades administrativas de FIRA.
+II. Elaborar análisis técnicos y económicos que permitan identificar y dar seguimiento a los principales factores que influyen en la eficiencia y competitividad de las redes de valor de interés para FIRA. Así como diseñar mecanismos de soporte para incentivar la innovación en el sector,
 
-IV. Colaborar con las unidades administrativas de Promoción de Negocios en el diseño de productos y programas.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+III. Recabar, procesar y analizar información técnica de costos de producción, así como de los sectores de pesca y forestal para aportar elementos de análisis que apoyen la toma de decisiones en otras unidades administrativas de FIRA y divulgar información de carácter económico relacionada con estos sectores.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+IV. Colaborar con las unidades administrativas de Promoción de Negocios en el diseño de productos y programas, así como realizar las labores de seguimiento y análisis de los sectores de pesca y forestal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2021)</small>
 
 ###### Artículo 48.
 
-La Subdirección de Pesca, Forestal y Medio Ambiente tiene como objetivo analizar, evaluar y divulgar información técnica y económica relacionada con los sectores de pesca y forestal, así como atender los temas relacionados con el medio ambiente y tiene las siguientes funciones:
+La Subdirección de Medio Ambiente tiene como objetivo analizar, evaluar y divulgar información relacionada con el medio ambiente, así como atender los temas relacionados esta materia y tiene las siguientes funciones:
 
-I. Recabar, procesar, analizar y divulgar información técnica de carácter económico relacionada con los sectores de pesca y forestal.
+I. (DEROGADA, D.O.F. 2 DE JUNIO DE 2021)
 
-II. Colaborar con las unidades administrativas de Promoción de Negocios en el diseño de programas y productos, así como realizar las labores de seguimiento y análisis de los sectores de pesca y forestal.
+II. (DEROGADA, D.O.F. 2 DE JUNIO DE 2021)
 
 III. Recabar, procesar, analizar y divulgar información técnica de carácter económico relacionada con proyectos que involucran el cuidado del medio ambiente.
 
@@ -878,7 +940,7 @@ III. Determinar e instruir al área correspondiente la aplicación de los recurs
 
 IV. Generar y enviar a los intermediarios financieros, la información de los movimientos que afectan la cartera de crédito y del servicio de garantías.
 
-V. Administrar y actualizar el registro de personas físicas y morales con antecedentes negativos en el sistema correspondiente.
+V. (DEROGADA, D.O.F. 2 DE JUNIO DE 2021)
 
 ###### Artículo 60.
 
@@ -1342,9 +1404,11 @@ IV. Diseñar e instrumentar la estrategia y contratación de productos derivados
 
 V. Elaborar metodologías para determinar las tasas de interés de la cartera de crédito a tasa fija y en dólares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
 ###### Artículo 97.
 
-La Dirección General Adjunta de Promoción de Negocios tiene como objetivo dirigir las estrategias para integrar y establecer el Plan Anual de Negocios, para identificar, diseñar, desarrollar, autorizar y ampliar la oferta de programas, productos y servicios, tendientes a facilitar el acceso al financiamiento, fortalecer la relación de negocios con intermediarios financieros y con empresas tractoras para promover y ampliar la inclusión financiera en el medio rural, así como dirigir las estrategias para establecer y ejecutar los planes de comunicación social, mercadotecnia y de enlace institucional y tiene las siguientes funciones:
+La Dirección General Adjunta de Promoción de Negocios tiene como objetivo dirigir las estrategias para integrar y establecer el Plan Anual de Negocios, para identificar, diseñar, desarrollar, autorizar y ampliar la oferta de programas, productos y servicios, tendientes a facilitar el acceso al financiamiento, fortalecer la relación de negocios con intermediarios financieros y con empresas tractoras para promover y ampliar la inclusión financiera en el medio rural, dirigir las estrategias para establecer y ejecutar los planes de comunicación social, mercadotecnia y de enlace institucional, así como identificar, analizar y adoptar elementos de innovación tecnológica, financiera y geoespacial y tiene las siguientes funciones:
 
 I. Dirigir las estrategias y acciones para establecer el Plan Anual de Negocios y proponerlo a la Dirección General, así como definir las acciones para su seguimiento.
 
@@ -1363,6 +1427,10 @@ VI. Dirigir las estrategias y acciones para establecer y ejecutar el plan de com
 VII. Dirigir las estrategias y acciones de enlace institucional para el establecimiento de acuerdos, acciones y oportunidades de cooperación con entidades y dependencias del Gobierno Federal, así como con instituciones públicas y privadas, en coordinación con las diferentes unidades administrativas de FIRA.
 
 VIII. Dirigir y establecer las estrategias y acciones para la creación y modificación de las Reglas de Operación de los apoyos que otorga FIRA, así como proponerlas a la Dirección General, con el propósito de facilitar el acceso al financiamiento en el medio rural y aumentar su competitividad.
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+IX. Coordinar la identificación, análisis y el desarrollo de planes de adopción de los elementos y herramientas tecnológicas, financieras y geoespaciales en los procesos internos de prospección, otorgamiento, monitoreo y supervisión de créditos, para coadyuvar en la gestión de riesgos y provisión de asesoría técnica inteligente entre los intermediarios financieros y acreditados y beneficiarios finales y población en general.
 
 ###### Artículo 98.
 
@@ -1480,9 +1548,11 @@ V. Integrar en coordinación con otras unidades administrativas el Plan Anual de
 
 VI. Instrumentar modelos organizativos, productivos, tecnológicos, financieros y de integración a las redes de valor a partir de los diagnósticos de mapeo de redes, así como coordinar el diseño y ejecución de programas de capacitación y asistencia técnica para incrementar la competitividad en el sector e inclusión financiera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
 ###### Artículo 107.
 
-La Dirección de Desarrollo y Promoción de Productos y Servicios tiene como objetivo diseñar nuevos programas, productos y servicios en coordinación con otras unidades administrativas dar seguimiento a su instrumentación, operación y evaluación tanto de los nuevos como de los ya existentes, así como aplicar estrategias de mercadotecnia para impulsarlos; establecer acciones y mecanismos de enlace institucional y administrar la política de comunicación y tiene las siguientes funciones:
+La Dirección de Desarrollo y Promoción de Productos y Servicios tiene como objetivo analizar, adoptar y procesar elementos de innovación tecnológica, financiera y geoespacial, diseñar nuevos programas, productos y servicios en coordinación con otras unidades administrativas dar seguimiento a su instrumentación, operación y evaluación tanto de los nuevos como de los ya existentes, así como aplicar estrategias de mercadotecnia para impulsarlos; establecer acciones y mecanismos de enlace institucional y administrar la política de comunicación y tiene las siguientes funciones:
 
 I. Coordinar el diseño de programas, productos y servicios con las necesidades identificadas de Intermediarios Financieros y acreditados finales: por redes de valor, segmento de productores, regiones, esquemas de integración y modelos de negocios.
 
@@ -1494,13 +1564,23 @@ IV. Coordinar las relaciones interinstitucionales en la celebración de convenio
 
 V. Coordinar la elaboración, ejecución y seguimiento del Plan Estratégico de Comunicación y de Mercadotecnia de los programas, productos y servicios de FIRA, así como a la elaboración de los presupuestos correspondientes.
 
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+VI. Coordinar las labores de identificación, análisis, procesamiento y adopción de tendencias de innovación tecnológica, financiera y geoespacial para diseñar, desarrollar e implementar herramientas para soportar procesos internos e incrementar la gestión de riesgos en el portafolio de proyectos de FIRA, de los intermediarios financieros y acreditados y beneficiarios finales y población en general.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
 ###### Artículo 108.
 
-La Dirección de Desarrollo y Promoción de Productos tiene adscritas las siguientes unidades administrativas:
+La Dirección de Desarrollo y Promoción de Productos y Servicios tiene adscritas las siguientes unidades administrativas:
 
 I. Subdirección de Promoción de Productos y Servicios.
 
 II. Subdirección de Desarrollo de Productos y Servicios.
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+III. Subdirección de Desarrollo de Innovación Tecnológica
 
 ###### Artículo 109.
 
@@ -1524,6 +1604,22 @@ II. Gestionar la autorización e instrumentación de los nuevos programas produc
 
 III. Dar seguimiento a la operación y evaluación del desempeño de los nuevos programas, productos y servicios, así como de los ya existentes.
 
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+Artículo 110 bis.- La Subdirección de Desarrollo de Innovación Tecnológica tiene como objetivo identificar, analizar, proponer, desarrollar, evaluar y divulgar, elementos y herramientas de innovación tecnológica, financiera, geoespacial y de percepción remota, para fortalecer los procesos internos de crédito, promoción e inteligencia, que sirvan para promover la administración de riesgos y asistencia técnica inteligente entre los intermediarios financieros y acreditados y beneficiarios finales y tiene las siguientes funciones:
+
+I. Identificar, analizar y priorizar tendencias de innovación tecnológica y financiera, su potencial utilidad para FIRA y la situación actual del mercado en términos de tendencias y participantes, para soportar los procesos internos de prospección, promoción, otorgamiento, monitoreo y supervisión de créditos.
+
+II. Determinar, implementar y supervisar la adopción de las herramientas tecnológicas y financieras necesarias en la Institución para fortalecer a los procesos internos de prospección, promoción, otorgamiento, monitoreo y supervisión de créditos.
+
+III. Desarrollar, gestionar y dirigir la implementación de la estrategia Geoespacial en FIRA, referido a las modificaciones normativas, operativas y de proceso requeridas para la adopción y promoción Institucional de las herramientas geoespaciales y de percepción remota requeridas para fortalecer los procesos internos para la mejor gestión de riesgos y provisión de asistencia técnica de los intermediarios financieros y acreditados y beneficiarios finales.
+
+IV. Determinar e implementar las herramientas geoespaciales y de percepción remota en la Institución, que sirvan para fortalecer procesos internos de administración y supervisión de créditos con carácter preventivo entre los intermediarios financieros y acreditados finales.
+
+V. Identificar y desarrollar elementos de vinculación y colaboración con otras Instituciones nacionales e internacionales, como Convenios de Colaboración, para fortalecer el desarrollo y la implementación de los elementos y herramientas en la estrategia Geoespacial de FIRA
+
+VI. Identificar y analizar herramientas, servicios y tendencias en el mercado geoespacial y de percepción remota.
+
 ###### Artículo 111.
 
 La Dirección General Adjunta de Coordinación de Regionales tiene como objetivo dirigir y establecer las estrategias y acciones a nivel nacional para la ejecución y cumplimiento del Plan Anual de Negocios a través de la venta, colocación e implementación de los programas, productos y servicios institucionales, representar a FIRA ante los Gobiernos de los Estados, dar seguimiento a la cartera de clientes e identificar oportunidades de negocio y nuevos intermediarios financieros para incrementar la promoción, el financiamiento, las capacidades y competencias de los productores y empresas del medio rural y tiene las siguientes funciones:
@@ -1536,7 +1632,7 @@ III. Dirigir y establecer las acciones a nivel nacional de preanálisis y evalua
 
 IV. Dirigir y establecer las estrategias y acciones para integrar y dar seguimiento a los apoyos, a la cartera de crédito y al portafolio de clientes para ampliar la cobertura de programas, productos y servicios de FIRA y fortalecer las relaciones de negocio en el medio rural a nivel nacional.
 
-V. Dirigir y establecer las estrategias y acciones de los Centros de Desarrollo Tecnológico para la transferencia de tecnología y capacitación, desarrollo de redes de valor, estructuración de modelos de negocio a nivel nacional con el propósito de mejorar la competitividad de los productores y empresas en el medio rural.
+V. (DEROGADA, D.O.F. 2 DE JUNIO DE 2021)
 
 VI. Dirigir y establecer las estrategias y acciones para la atención y coordinación del financiamiento al sector rural con los Gobiernos Estatales y Municipales, intermediarios financieros, empresas, organizaciones de productores, instituciones públicas y privadas a nivel nacional de acuerdo con las estrategias institucionales.
 
@@ -1566,7 +1662,7 @@ IV. Coordinar la integración y el seguimiento a la cartera de clientes y apoyos
 
 V. Integrar y gestionar adecuaciones a la normativa, programas, productos y servicios, así como participar en la creación de nuevos productos y servicios en función de la demanda identificada.
 
-VI. Articular a los Centros de Desarrollo Tecnológico, en el desarrollo de las redes de valor y en la estructuración de los modelos de negocio en las entidades federativas adscritas a su competencia.
+VI. (DEROGADA, D.O.F. 2 DE JUNIO DE 2021)
 
 VII. Fomentar la instrumentación de modelos de negocio que impulsen la productividad.
 
@@ -1578,9 +1674,11 @@ I. Subdirecciones Regionales de Promoción de Negocios.
 
 II. Residencias Estatales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
 ###### Artículo 115.
 
-Las Subdirecciones Regionales de Promoción de Negocios tienen como objetivo facilitar la coordinación de acciones para dar cumplimiento al Plan Anual de Negocios dentro del ámbito de su influencia, dar seguimiento a la cartera de clientes, la identificación de oportunidades de negocio y nuevos intermediarios financieros, así como coordinar la operación de los Centros de Desarrollo Tecnológico que le correspondan y tiene las siguientes funciones:
+Las Subdirecciones Regionales de Promoción de Negocios tienen como objetivo facilitar la coordinación de acciones para dar cumplimiento al Plan Anual de Negocios dentro del ámbito de su influencia, dar seguimiento a la cartera de clientes, la identificación de oportunidades de negocio y nuevos intermediarios financieros y tiene las siguientes funciones:
 
 I. Coadyuvar en la integración y elaboración del Plan Anual de Negocios de la Dirección Regional y apoyar en la coordinación de las acciones para dar cumplimiento al mismo.
 
@@ -1592,29 +1690,17 @@ IV. Integrar y dar seguimiento al portafolio de clientes a nivel regional.
 
 V. Proponer adecuaciones a la normativa, programas, productos y servicios.
 
-VI. Coordinar la operación, planeación y programación anual de recursos presupuestales de los Centros de Desarrollo Tecnológico a su cargo integrándolos a las estrategias y modelos de negocio de FIRA.
+VI. (DEROGADA, D.O.F. 2 DE JUNIO DE 2021)
 
 VII. Colaborar en la instrumentación de modelos de negocio que impulsen la productividad.
 
 ###### Artículo 116.
 
-Las Subdirecciones Regionales de Promoción de Negocios tienen adscritas las siguientes unidades administrativas:
-
-I. Centros de Desarrollo Tecnológico.
+(DEROGADO, D.O.F. 2 DE JUNIO DE 2021)
 
 ###### Artículo 117.
 
-Los Centros de Desarrollo Tecnológico tienen como objetivo diseñar y proveer servicios de transferencia de tecnología, capacitación y consultoría para incrementar la competitividad de los productores y empresas y mejorar las competencias de los prestadores de servicios especializados y tiene las siguientes funciones:
-
-I. Identificar, diseñar y proveer servicios de capacitación, transferencia de tecnología y consultoría a productores, prestadores de servicios especializados, intermediarios financieros y personal de FIRA en aspectos relevantes de redes de valor, competitividad y sostenibilidad de las empresas del sector rural.
-
-II. Operar las unidades productivas, documentar y difundir los resultados técnicos de las tecnologías validadas en los propios Centros de Desarrollo Tecnológico.
-
-III. Establecer vínculos con las principales instituciones de investigación y desarrollo, empresas y proveedores de tecnología, para impulsar el desarrollo del mercado de servicios tecnológicos del sector rural.
-
-IV. Apoyar en coordinación con las unidades administrativas correspondientes, al cumplimiento del Plan Anual de Negocios, así como en la identificación de opciones tecnológicas para la integración de las redes de valor y en el dictamen técnico de proyectos de inversión.
-
-V. Administrar y proponer las estrategias y políticas, en conjunto con las unidades administrativas correspondientes, para la operación sustentable de los Centros de Desarrollo Tecnológico integrándolos a las estrategias y modelos de negocio de FIRA.
+(DEROGADO, D.O.F. 2 DE JUNIO DE 2021)
 
 ###### Artículo 118.
 
@@ -1658,6 +1744,74 @@ VI. Participar y apoyar en la instrumentación de modelos de negocio que impulse
 
 VII. Dar seguimiento a la cartera de clientes y apoyos, y en su caso, informar a las unidades administrativas correspondientes las irregularidades detectadas a nivel de los municipios de influencia de la Agencia.
 
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+Artículo 120 bis.- La Dirección de Auditoría Interna, tiene como objetivo coordinar y supervisar la evaluación de la eficiencia del Sistema de Control Interno en FIRA, así como contribuir al cumplimiento de los objetivos y metas institucionales; aportando un enfoque sistemático y disciplinado para evaluar y mejorar la eficiencia de los procesos de Dirección y Control, de Negocio y de Soporte de FIRA, y tiene las siguientes funciones:
+
+I. Coordinar anualmente la ejecución de auditorías en materia de crédito, legal, y administración integral de riesgos, a fin de verificar que los procedimientos se desarrollen conforme a la normatividad aplicable, así como la ejecución de otras auditorías que sean necesarias para supervisar el Sistema de Control Interno.
+
+II. Evaluar la aplicación del Sistema de Control Interno en la entidad para proporcionar elementos necesarios al Comité de Auditoría para la valoración de la eficiencia y efectividad de dicho Sistema.
+
+III. Coordinar la evaluación del funcionamiento operativo de las distintas unidades de la Entidad incluyendo la observancia del Código de Ética. mediante pruebas sustantivas, procedimentales y de cumplimiento.
+
+IV. Verificar que la calidad, suficiencia y oportunidad de la información financiera, sea confiable para las adecuadas decisiones, y tal información se proporcione en forma correcta y oportuna a las autoridades competentes.
+
+V. Coordinar el seguimiento a las deficiencias o desviaciones relevantes detectadas en relación con la operación de la Entidad a fin de que sean subsanadas oportunamente.
+
+VI. Establecer los mecanismos para verificar que los sistemas informáticos, incluyendo los contables, operacionales de Cartera Crediticia, con valores de cualquier otro tipo, cuenten con mecanismos para preservar la integridad, confidencialidad y disponibilidad de la información.
+
+VII. Facilitar a las autoridades financieras competentes la información necesaria que dispongan con motivo de sus funciones.
+
+VIII. Verificar la estructura organizacional en relación con la independencia de las distintas funciones que los requieran, así como la efectiva segregación de funciones y ejercicio de facultades atribuidas a cada unidad administrativa.
+
+IX. Coordinar la elaboración del Plan Anual de Auditoría Interna y presentarlo para aprobación del Comité de Auditoría.
+
+X. Asistir a los Comités de la Institución en carácter de invitado sin voto.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+Artículo 120 bis 2.- La Dirección de Auditoría Interna tiene adscrita las siguientes unidades administrativas
+
+I. Subdirección de Auditoría de Crédito
+
+II. Subdirección de Auditoría Financiera
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+Artículo 120 bis 3.- La Subdirección de Auditoría de Crédito, tiene como objetivo evaluar la eficiencia del Sistema de Control Interno en FIRA en materia de crédito y legal, así como contribuir al cumplimiento de los objetivos y metas institucionales; aportando un enfoque sistemático y disciplinado para evaluar y mejorar la eficiencia de los procesos de Dirección y Control, de Negocio y de Soporte de FIRA, y tiene las siguientes funciones:
+
+I. Llevar a cabo anualmente auditorías en materia de crédito y legal, a fin de verificar que los procedimientos se desarrollen conforme a la normatividad aplicable, así como la ejecución de otras auditorías que sean necesarias para supervisar el Sistema de Control Interno.
+
+II. Revisar en el ámbito de su competencia la aplicación del Sistema de Control Interno en la entidad para proporcionar elementos necesarios al Comité de Auditoría para la evaluación de la eficiencia y efectividad del Sistema
+
+III. Evaluar mediante pruebas sustantivas, procedimentales y de cumplimiento, el funcionamiento operativo de las distintas unidades de la Entidad incluyendo la observancia del Código de Ética.
+
+IV. Dar seguimiento a las deficiencias o desviaciones relevantes detectadas en relación con la operación de la Entidad a fin de que sean subsanadas oportunamente.
+
+V. Evaluar la estructura organizacional en relación con la independencia de las distintas funciones que los requieran, así como la efectiva segregación de funciones y ejercicio de facultades atribuidas a cada unidad administrativa.
+
+VI. Facilitar a las autoridades financieras competentes la información necesaria que dispongan con motivo de sus funciones.
+
+VII. Participar en la elaboración del Plan Anual de Trabajo de Auditoría Interna en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+Artículo 120 bis 4.- La Subdirección de Auditoría Financiera, tiene como objetivo evaluar la eficiencia del Sistema de Control Interno en FIRA en materia financiera y de administración de riesgos, así como contribuir al cumplimiento de los objetivos y metas institucionales; aportando un enfoque sistemático y disciplinado para evaluar y mejorar la eficiencia de los procesos de Dirección y Control, de Negocio y de Soporte de FIRA, y tiene las siguientes funciones:
+
+I. Llevar a cabo anualmente auditorías en materia de administración integral de riesgos, a fin de verificar que los procedimientos se desarrollen conforme a la normatividad aplicable, así como la ejecución de otras auditorías que sean necesarias para supervisar el Sistema de Control Interno.
+
+II. Revisar en el ámbito de su competencia la aplicación del Sistema de Control Interno en la entidad para proporcionar elementos necesarios al Comité de Auditoría para la evaluación de la eficiencia y efectividad del Sistema.
+
+III. Verificar que la calidad, suficiencia y oportunidad de la información financiera, sea confiable para la adecuada toma de decisiones, y tal información se proporcione en forma correcta y oportuna a las autoridades competentes.
+
+IV. Dar seguimiento a las deficiencias o desviaciones relevantes detectadas en relación con la operación de la Entidad a fin de que sean subsanadas oportunamente.
+
+V. Verificar el cumplimiento de los límites en la asunción de riesgos al celebrar operaciones, así como a los niveles de tolerancia definidos, en el caso de los riesgos no discrecionales, acorde con las disposiciones legales aplicables.
+
+VI. Participar en la elaboración del Plan Anual de Trabajo de Auditoría Interna en el ámbito de su competencia.
+
+VII. Facilitar a las autoridades financieras competentes la información necesaria que dispongan con motivo de sus funciones.
+
 DE LAS FUNCIONES COMUNES
 
 ###### Artículo 121.
@@ -1694,7 +1848,9 @@ XIV. Evaluar y actualizar el control interno en sus respectivas unidades adminis
 
 XV. Elaborar las especificaciones funcionales para el desarrollo de los sistemas informáticos institucionales propiedad de la Unidad Administrativa, así como verificar el correcto funcionamiento tanto en su etapa de puesta en producción como durante su operación.
 
-XVI. Atender con oportunidad los requerimientos que le efectúe la Unidad de Enlace y/o la Coordinadora de los Trabajos en materia de transparencia y acceso a la información pública gubernamental.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2021)</small>
+
+XVI. Atender con oportunidad los requerimientos que le efectúe la autoridad competente en materia de acceso a la información, transparencia y de tratamiento de datos personales.
 
 XVII. Garantizar la confidencialidad, integridad y conservación de la información, expedientes y documentos electrónicos y físicos, que estén bajo su resguardo y custodia, conforme a la normativa aplicable, y
 
@@ -1800,19 +1956,21 @@ La Dirección Regional del Noroeste tiene como sede la ciudad de Hermosillo, Son
 
 - Baja California Sur.
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2021)</small>
+
 ###### Artículo 128.
 
 FIRA cuenta con cinco Centros de Desarrollo Tecnológico ubicados en las siguientes localidades:
 
-- Valle de Santiago, Guanajuato, asignado a la Dirección Regional de Occidente.
+- Valle de Santiago, Guanajuato.
 
-- Morelia, Michoacán, asignado a la Dirección Regional de Occidente.
+- Morelia, Michoacán.
 
-- Tzucacab, Yucatán, asignado a la Dirección Regional del Sureste.
+- Tzucacab, Yucatán.
 
-- Tamuín, San Luis Potosí, asignado a la Dirección Regional del Norte.
+- Tamuín, San Luis Potosí.
 
-- Emiliano Zapata, Morelos, asignado a la Dirección Regional del Sur.
+- Emiliano Zapata, Morelos.
 
 DE LOS ORGANOS COLEGIADOS
 
@@ -1851,3 +2009,9 @@ D.O.F. 9 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DE LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DE LOS FIDEICOMISOS INSTITUIDOS EN RELACIÓN CON LA AGRICULTURA".]
 
 ÚNICO.- Las presentes modificaciones al Estatuto Orgánico entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DE “MODIFICACIONES AL ESTATUTO ORGÁNICO DE LOS FIDEICOMISOS INSTITUIDOS EN RELACIÓN CON LA AGRICULTURA”.]
+
+ÚNICO.- El presente Estatuto Orgánico, entrará en vigor una vez que se cuente con las (sic) aprobación y registro emitido por la Secretaría de la Función Pública.
