@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-atencion-y-apoyo-a-migrantes-y-personas-sujetas-de-14961
 country: "mx"
 rank: "ley"
 publication_date: "2021-05-28"
-last_updated: "2021-05-28"
+last_updated: "2021-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE ATENCION Y APOYO A MIGRANTES Y PERSONAS SUJETAS DE PROTECCION INTERNACIONAL DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA ATENCIÓN DE LAS MIGRACIONES EN EL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2021; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A PARTIR DEL TREINTA Y UNO DE DICIEMBRE DEL AÑO DOS MIL VEINTIUNO.]</small>
+
 LEY DE ATENCIÓN Y APOYO A MIGRANTES Y PERSONAS SUJETAS DE PROTECCIÓN INTERNACIONAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021 (ABROGADA).
 
 Ley publicada en el Número 43 del Periódico Oficial del Estado de Querétaro, el viernes 28 de mayo de 2021.
 
@@ -690,3 +692,17 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE CREA LA LEY PARA LA ATENCIÓN DE LAS MIGRACIONES EN EL ESTADO DE QUERÉTARO Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del 31 de diciembre del año 2021.
+
+Artículo Segundo. Se abroga la Ley de Atención y Apoyo a Migrantes y Personas Sujetas de Protección Internacional del Estado de Querétaro.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Estado de Querétaro "La Sombra de Arteaga".
