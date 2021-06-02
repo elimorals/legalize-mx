@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2020-12-08"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -829,9 +829,9 @@ X. DE ASUNTOS DE LA JUVENTUD.- Tendrá a su cargo fomentar, contribuir e impulsa
 
 XI. DE ASUNTOS INDÍGENAS.- En aquellos municipios en que existan pueblos o comunidades indígenas, deberá existir una Comisión que se encargue de los asuntos relacionados en el Capítulo Cuarto del Título I de la presente Ley.
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-XII. DE TRABAJADORES MIGRANTES.- Tendrá a su cargo fomentar, contribuir e impulsar a los trabajadores migrantes; la participación de las actividades políticas, sociales y los servicios de información en materia de derechos de los trabajadores migrantes; procurará establecer garantías y mecanismos para que se respeten sus derechos para entrar y salir del país, garantizando y promoviendo su reintegración y contacto con sus familias, acciones para el empleo e incorporación al mercado laboral, así como los envíos de dinero que realicen; actividades científicas y tecnológicas; el sano esparcimiento; la realización de actividades tendientes a su formación y capacitación; y demás acciones encaminadas a lograr la superación y desarrollo integral de los trabajadores migrantes.
+XII. DE ATENCIÓN DE LAS MIGRACIONES.- Tendrá a su cargo la coordinación de acciones en relación con la atención que se brinde a los Migrantes Queretanos, los Nacionales migrantes, las Personas extranjeras radicadas en el Estado de Querétaro y las Personas migrantes en tránsito por el territorio estatal, en términos de la Ley para la Atención de las Migraciones en el Estado de Querétaro. Coadyuvará con las Dependencias estatales en lo relacionado con la participación en las actividades políticas y sociales de los Migrantes queretanos, sus derechos y obligaciones, y con los servicios de información y atención para las Personas extranjeras radicadas en Querétaro y las Personas migrantes en tránsito por el territorio estatal. Procurará establecer garantías y mecanismos para que los Queretanos migrantes puedan entrar y salir del país, garantizando y promoviendo su reintegración y contacto con sus familias, acciones para el empleo e incorporación al mercado laboral, así como los envíos de dinero que realicen; actividades científicas y tecnológicas; el sano esparcimiento; la realización de actividades tendientes a su formación y capacitación; y demás acciones encaminadas a lograr la superación y desarrollo integral de los mismos..
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3136,3 +3136,19 @@ P.O. 8 DE DICIEMBRE DE 2020.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE CREA LA LEY PARA LA ATENCIÓN DE LAS MIGRACIONES EN EL ESTADO DE QUERÉTARO Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+Las disposiciones previstas en los artículos SEGUNDO y TERCERO de este ordenamiento entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
