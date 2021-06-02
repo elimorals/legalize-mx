@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2021-03-05"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -1973,9 +1973,9 @@ I. Acceso a la Información y rendición de cuentas. Tiene a su cargo la atenci�
 
 II. Administración y Procuración de Justicia. Tiene a su cargo la atención de asuntos relativos a la administración y procuración de justicia, así como aquellos asuntos en las ramas del derecho civil, penal y administrativo;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-III. Asuntos del Migrante. Tiene a su cargo la atención de asuntos relacionados con el tránsito de migrantes queretanos;
+III. Atención de las Migraciones. Tiene a su cargo la atención de asuntos relacionados con los efectos de las migraciones en el Estado, en los términos de la legislación aplicable;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3300,3 +3300,19 @@ Artículo Séptimo. Las solicitudes de pensiones y jubilaciones que en cumplimie
 Artículo Octavo. Los Órganos y Dependencias del Poder Legislativo del Estado de Querétaro deberán coadyuvar a efecto de agilizar los trámites legislativos y administrativos que correspondan en lo relativo a pensiones y jubilaciones.
 
 Artículo Noveno. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE CREA LA LEY PARA LA ATENCIÓN DE LAS MIGRACIONES EN EL ESTADO DE QUERÉTARO Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las disposiciones previstas en los artículos SEGUNDO y TERCERO de este ordenamiento entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
