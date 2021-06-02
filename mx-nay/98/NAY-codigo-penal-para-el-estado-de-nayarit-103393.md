@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2020-05-18"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -3341,9 +3341,15 @@ III. Cuando las lesiones sean de naturaleza y consecuencias diversas y se ignore
 
 Si las lesiones fueren calificadas, además de las sanciones señaladas en los artículos que anteceden, la pena correspondiente se aumentará de una tercera parte del mínimo a dos terceras partes del máximo, de la sanción que correspondiere a la lesión inferida.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 351.
 
-Si el ofendido fuere ascendiente del autor de una lesión, se aumentarán dos años de prisión al mínimo y al máximo de la sanción que corresponda conforme los artículos que preceden.
+A quien cause lesiones a un ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, persona con la que mantenga o haya mantenido una relación de hecho, adoptante o adoptado, o a un incapaz, se le aumentará en una mitad la pena que corresponda según las lesiones inferidas de conformidad con las sanciones previstas en el Capítulo I del presente Título.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 351 BIS.- Cuando las lesiones se infieran con crueldad o frecuencia a un menor de edad o a un incapaz, sujetos a la patria potestad, tutela, custodia del agente o a una persona mayor de sesenta años, la pena se incrementará hasta dos terceras partes de la correspondiente al máximo de la sanción prevista, de conformidad con el Capítulo I del presente Título.
 
 ###### ARTÍCULO 352.
 
@@ -4456,3 +4462,9 @@ P.O. 18 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE PROTECCIÓN A LOS TRABAJADORES DE LA SALUD”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 351 Y ADICIONAR (SIC) EL ARTÍCULO 351 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
