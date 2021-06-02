@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2020-12-18"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1253,11 +1253,15 @@ IX.- De 6 a 12 años de prisión si causan incapacidad permanente para trabajar 
 
 ARTICULO 127 BIS.- (DEROGADO, P.O. 14 DE MARZO DE 2008)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2021)</small>
+
+ARTICULO 127 BIS-1.- Al que sabiendo que padece una enfermedad grave en periodo infectante, sin que la víctima u ofendido tenga conocimiento de esta circunstancia, ponga en peligro de contagio la salud de otro o de varias personas, por cualquier forma o medio de transmisión, o por relaciones sexuales, se le impondrán de tres a seis años de prisión o de tres a seis meses de trabajo a favor de la comunidad, así como las medidas de seguridad por confinamiento que sean necesarias.
+
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-ARTICULO 127 BIS 1.- Al que sabiendo que padece una enfermedad grave en periodo infectante, sin que la víctima u ofendido tenga conocimiento de esta circunstancia, ponga en peligro de contagio la salud de otro o de varias personas, por cualquier forma o medio de transmisión, o por relaciones sexuales, se le impondrán de tres a seis años de prisión y de tres a seis meses de trabajo a favor de la comunidad, así como las medidas de seguridad por confinamiento que sean necesarias.
-
 Cuando la conducta anterior se realice en agravio de una persona mayor de sesenta años, un menor o persona que no tiene capacidad para comprender el significado del hecho o capacidad para resistirlo, sujeto a su tutela, custodia o guarda, se aumentará, hasta en una mitad, la pena señalada en este artículo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 Este delito se perseguirá de oficio, a excepción de cuando se trate de cónyuges, concubinarios o concubinas en cuyo caso solo podrá procederse por querella del ofendido.
 
@@ -1345,7 +1349,7 @@ Si la persona a quien se instigue o ayude al suicidio, fuere menor de edad o per
 
 ### CAPITULO I. OMISIÓN DE AUXILIO
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 136.
 
@@ -1399,7 +1403,9 @@ II.- Cuando el embarazo sea resultado de una violación.
 
 ###### ARTICULO 143.
 
-Al que omita prestar el auxilio necesario a quien se encuentre desamparado y en peligro manifiesto en su persona, cuando conforme a las circunstancias pudiere hacerlo sin riesgo propio ni de terceros, o al que no estando en condiciones de prestarlo no diere aviso inmediato a la autoridad o no solicitare auxilio a quienes pudieren prestarlo, se le impondrá prisión de uno a cinco años o trabajo en favor de la comunidad hasta por el mismo tiempo.
+Al que omita prestar el auxilio necesario a quien se encuentre desamparado y en peligro manifiesto en su persona, cuando conforme a las circunstancias pudiere hacerlo sin riesgo propio ni de terceros, o al que no estando en condiciones de prestarlo no diere aviso inmediato a la autoridad o no solicitare auxilio a quienes pudieren prestarlo, se le impondrá prisión de seis meses a un año o trabajo en favor de la comunidad hasta por el mismo tiempo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 Si la conducta se realiza en agravio de una persona mayor de sesenta años, un menor o persona que no tiene capacidad para comprender el significado del hecho o capacidad para resistirlo, sujeto a su tutela, custodia o guarda, se aumentará, hasta en una mitad, la pena señalada en este artículo.
 
@@ -1803,7 +1809,7 @@ Cada una de estas medidas deberá ser atendida por el Juzgador para determinar s
 
 ### CAPITULO II. ABIGEATO
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 170.
 
@@ -1819,11 +1825,9 @@ IV. Niegue o restrinja derechos laborales.
 
 Al servidor público que incurra en alguna de las conductas previstas en este artículo o niegue o retarde a las personas un trámite, servicio o prestación al que tenga derecho, se le aumentará hasta en una mitad la pena prevista en el primer párrafo del presente artículo y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, hasta por el mismo lapso de la pena de prisión impuesta.
 
-(NOTA: EL 5 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2021 Y SU ACUMULADA 6/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE DICIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-CUANDO LA CONDUCTA DEL PÁRRAFO PRIMERO SE EJECUTE CONTRA PERSONAL DE SERVICIOS DE SALUD PÚBLICOS O PRIVADOS, SEGURIDAD O PROTECCIÓN CIVIL, LA PENA SE INCREMENTARÁ HASTA EN UNA MITAD MÁS.
+Durante una emergencia sanitaria decretada por la autoridad competente, cuando la conducta del párrafo primero se ejecute contra personal de servicios de salud públicos o privados, seguridad o protección civil, la pena se incrementará hasta en una mitad más.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE DICIEMBRE DE 2020)</small>
 
@@ -1995,41 +1999,67 @@ Se tendrá por consumado el robo desde el momento en que el ladrón tiene en su 
 
 ###### ARTICULO 189.
 
-Comete el delito de abigeato el que en cualquier sitio se apodere de una o más cabezas de ganado mayor o menor sin consentimiento de quien legalmente pueda disponer de ellos. A quien le cometa, se le impondrán las penas siguientes:
+Comete el delito de abigeato el que se apodere de uno o más animales de las especies pecuarias, sin el consentimiento de quien legalmente pueda disponer de ellos. A quien lo cometa, se le impondrán las penas siguientes:
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2015)</small>
+I. Prisión de 3 meses a 3 años y multa de 20 a 100 días, cuando el valor de los animales no exceda de 50 veces, el valor diario de la Unidad de Medida y Actualización;
 
-I. De 1 a 3 años de prisión y de 30 a 180 días multa, si la conducta descrita se ejecuta sobre una o dos cabezas de ganado menor;
+II. Prisión de 3 a 6 años y multa de 100 a 300 días, cuando el valor de los animales sea de 51 a 100 veces, el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2015)</small>
+III. Prisión de 4 a 8 años y multa de 300 a 600 días, cuando el valor de los animales sea de 101 a 500 veces, el valor diario de la Unidad de Medida y Actualización; y
 
-II. De 3 a 8 años de prisión y de 180 a 500 días multa, si la conducta descrita se ejecuta sobre tres a cinco cabezas de ganado menor o una o dos cabezas de ganado mayor; y
+IV. Prisión de 8 a 16 años y multa de 600 a 1000 días, cuando el valor de los animales exceda de 500 veces, el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2015)</small>
-
-III. De 4 a 10 años de prisión y de 500 a 600 días multa, si la conducta descrita se ejecuta sobre más de cinco cabezas de ganado menor o sobre más de dos cabezas de ganado mayor.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 190.
 
-Se aplicará prisión de 1 a 6 años y de 90 a 600 días multa a quien:
+Se equipara al abigeato y se sancionará con prisión de 6 meses a 6 años y de 100 a 500 días multa, a quién:
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+I. No acredite la propiedad de animales, productos o subproductos, ante cualquier autoridad competente que lo requiera;
 
-I.- Altere o elimine las marcas de animales vivos, cueros o pieles;
+II. A sabiendas o sin tomar las medidas necesarias para cerciorarse de la procedencia legítima, adquiera, comercie o enajene, animales, productos o subproductos de abigeato o intervenga en dichas operaciones;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+III. A sabiendas, o sin tomar las medidas necesarias para cerciorarse de la procedencia legítima, posea u oculte en un lugar destinado para la venta o transmisión, uno o más animales, productos o subproductos, objeto de abigeato;
 
-II.- A sabiendas marque, contramarque, señale o contraseñale sin derecho animales; y
+IV. A sabiendas, o sin tomar las medidas necesarias para cerciorarse de la procedencia legítima, o sin portar la documentación necesaria, transporte animales, productos o subproductos, objeto de abigeato;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+V. Sin el consentimiento de quien pueda otorgarlo conforme a la ley, marque, contramarque, señale o contraseñale, uno o más animales;
 
-III.- Expida certificados de contenido falso para obtener guías simulando ventas o haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados o guías falsificadas para cualquier negociación sobre ganado, pieles o cueros.
+VI. Altere, desfigure o elimine las marcas o señales de identificación de uno o más animales, sin consentimiento de quien está facultado conforme a la ley para otorgarlo;
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2015)</small>
+VII. Expida o haga uso de factura, guía de tránsito, certificado de movilización de uso sanitario, aviso de movilización o dispositivo de identificación oficial apócrifo, para simular venta de animales, productos o subproductos, de los que no se acredite la propiedad o para traslados para fines de movilización de vida o sacrificio, sin estar debidamente autorizado;
 
-Al que, sin tomar las medidas necesarias para cerciorarse de la procedencia legítima de los animales, adquiera ganado o comercie con pieles, carne u otros derivados obtenidos del abigeato, se le impondrá prisión de 3 a 12 años y de 90 a 600 días multa
+VIII. Extraiga, altere, modifique o encime dispositivos de identificación oficial de animales, sin consentimiento de quien pueda otorgarlo conforme a la ley;
+
+IX. A sabiendas o sin tomar las medidas necesarias para cerciorarse de la procedencia legítima, consienta el sacrificio de animales para consumo humano, producto de abigeato; o
+
+X. Sacrifique intencionalmente animales ajenos, sin consentimiento de quien pueda otorgarlo conforme a la ley.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+ARTICULO 190 BIS.- La pena se agravará hasta en una mitad más, si concurre alguna de las circunstancias siguientes:
+
+I. Lo cometa un empleado o dependiente contra su patrón o algún familiar de éste;
+
+II. Lo cometa quien tenga el carácter de autoridad, a sabiendas o sin tomar las medidas necesarias para cerciorarse de la procedencia legítima, adquiera, comercie o enajene, animales, productos o subproductos de abigeato o intervenga en dichas operaciones;
+
+III. Lo cometan ganaderos inscritos o personas que tengan intereses o vínculos con cualquier unión o asociación ganadera;
+
+IV. Se cometa por dos o más personas;
+
+V. Se simule ser miembro de algún cuerpo de seguridad pública o alguna otra autoridad;
+
+VI. Se ejecute en el medio rural;
+
+VII. Se cometa aprovechando la falta de vigilancia sobre los animales;
+
+VIII. Se ejecute con violencia física o moral, ya sea al perpetrarse el hecho o después de consumado, para lograr la fuga o defender el objeto del delito; o
+
+IX. Cuando se trate de animales para el mejoramiento genético.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+ARTICULO 190 TER.- Se presumirá producto del abigeato, salvo prueba en contrario, el animal herrado con un fierro no registrado ante la autoridad competente o con uno falsificado o alterado mediante el uso de alambre, planchas, argollas o por cualquier otro medio.
 
 ### CAPITULO VII. EXTORSIÓN
 
@@ -3465,7 +3495,7 @@ Además de las penas establecidas en el párrafo que antecede el agente sufrirá
 
 ### CAPITULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 276.
 
@@ -3579,49 +3609,45 @@ ARTICULO 285 BIS.- Al que cometa un delito en contra de un servidor público en 
 
 ###### ARTICULO 286.
 
-Al que sin causa legítima rehusare prestar un servicio al que la ley obligue o desobedeciere un mandato legítimo de la autoridad, se le impondrá prisión de 3 a 5 años y hasta 500 veces el valor diario de la UMA de multa.
+Al que sin causa legítima rehusare prestar un servicio al que la ley obligue o desobedeciere un mandato legítimo de la autoridad, se le impondrá prisión de seis meses a dos años y hasta cuarenta veces el valor diario de la UMA de multa.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 Si la desobediencia fuera respecto de medidas de seguridad sanitaria o de protección civil que se hubiesen decretado por la autoridad competente, durante una emergencia sanitaria, se aplicará la misma sanción del párrafo anterior.
 
-(NOTA: EL 5 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2021 Y SU ACUMULADA 6/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE DICIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 287.
 
-Al que debiendo declarar ante la autoridad y sin que le beneficien las excepciones legales se niegue a otorgar la protesta de ley o a declarar, se le impondrán de 3 a 4 años de prisión y hasta 5000 veces el valor diario de la UMA de multa, o trabajo en favor de la comunidad de hasta por un año.
+Al que debiendo declarar ante la autoridad y sin que le beneficien las excepciones legales se niegue a otorgar la protesta de ley o a declarar, se le impondrán de seis meses a cuatro años de prisión y hasta cuarenta veces el valor diario de la UMA de multa, o trabajo en favor de la comunidad de hasta por un año.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 288.
 
-Al que por medio de amenazas o de violencia se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones en forma legal o resista el cumplimiento de un mandato de autoridad que satisfaga todos los requisitos legales, se le aplicará prisión de 2 a 4 años y hasta 500 veces el valor diario de la UMA de multa, o trabajo en favor de la comunidad hasta por seis meses.
+Al que por medio de amenazas o de violencia se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones en forma legal o resista el cumplimiento de un mandato de autoridad que satisfaga todos los requisitos legales, se le aplicará prisión de dos a cuatro años y hasta ochenta veces el valor diario de la UMA de multa, o trabajo en favor de la comunidad hasta por seis meses.
 
-Cuando la conducta del párrafo anterior se ejecute contra autoridades de servicios de salud, seguridad o protección civil, la pena se incrementará hasta en una mitad más.
+Durante una emergencia sanitaria decretada por la autoridad competente, cuando la conducta del párrafo anterior se ejecute contra autoridades de servicios de salud, seguridad o protección civil, la pena se incrementará hasta en una mitad más.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 289.
 
-Al que procure con actos materiales impedir la ejecución de una obra o trabajos públicos, dispuestos por la autoridad competente con los requisitos legales o con su autorización, se le aplicarán de 1 a 2 años de prisión y hasta 200 veces el valor diario de la UMA de multa, o trabajo a favor de la comunidad hasta por cuatro meses.
+Al que procure por medio de violencia física impedir la ejecución de una obra o trabajos públicos, dispuestos por la autoridad competente con los requisitos legales o con su autorización, se le aplicarán de uno a dos años de prisión y hasta doscientas veces el valor diario de la UMA de multa, o trabajo a favor de la comunidad hasta por cuatro meses.
 
-Cuando el delito se cometa por varias personas de común acuerdo se les aplicará prisión de 2 a 4 años y de 300 a 500 veces el valor diario de la UMA de multa, o trabajo a favor de la comunidad hasta por cuatro meses. Si se usare violencia, las penas se aumentarán hasta en una mitad más.
+Cuando el delito se cometa por varias personas de común acuerdo se les aplicará prisión de dos a cuatro años y de trescientas a quinientas veces el valor diario de la UMA de multa, o trabajo a favor de la comunidad hasta por cuatro meses.
 
-(NOTA: EL 5 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2021 Y SU ACUMULADA 6/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE DICIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 290.
 
-Cuando la Ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiere empleado algún medio de apremio, CON EXCEPCIÓN DE LOS CASOS PREVISTOS EN ESTE CÓDIGO PENAL.
+Cuando la Ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiere empleado algún medio de apremio.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
-(NOTA: EL 5 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2021 Y SU ACUMULADA 6/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE DICIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 291.
 
@@ -3637,11 +3663,11 @@ Al que indebidamente destruya, retire, oculte o de cualquier otro modo quebrante
 
 (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 293.
 
-Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, cuando se tenga conocimiento de esa circunstancia, se le aplicarán de tres a cinco años de prisión y hasta seis meses de trabajo a favor de la comunidad, además de la que le corresponda por el delito cometido.
+Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, cuando se tenga conocimiento de esa circunstancia, se le aplicarán de dos a cinco años de prisión o hasta seis meses de trabajo a favor de la comunidad, además de la que le corresponda por el delito cometido.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3731,15 +3757,13 @@ Si la conducta se realiza por un servidor público cuyas funciones sean las de i
 
 ###### ARTICULO 299.
 
-A quien quebrante la prohibición de residir en una circunscripción territorial determinada, se le impondrán de 2 a 5 años de prisión y de 10 a 120 veces el valor diario de la UMA de multa.
+A quien quebrante la prohibición de residir en una circunscripción territorial determinada, se le impondrán de seis meses a cinco años de prisión y de diez a ciento veinte veces el valor diario de la UMA de multa.
 
-(NOTA: EL 5 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2021 Y SU ACUMULADA 6/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE DICIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 300.
 
-Al que violare la prohibición de ir a una circunscripción territorial determinada, se le aplicará prisión de 2 a 5 años o hasta 500 veces el valor diario de la UMA de multa.
+Al que violare la prohibición de ir a una circunscripción territorial determinada, se le aplicará prisión de seis meses a un año o hasta ciento veinte veces el valor diario de la UMA de multa.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3753,19 +3777,17 @@ Se sancionará con prisión de 3 meses a 1 año y de 10 a 40 días multa, el que
 
 A quien quebrante una pena de privación, suspensión o inhabilitación de derechos, funciones o empleos, se le impondrán de 10 a 50 días multa. En caso de reincidencia, se le aplicará prisión de 5 meses a 2 años y se duplicará la multa.
 
-(NOTA: EL 5 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2021 Y SU ACUMULADA 6/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE DICIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 303.
 
-Por el quebrantamiento de cualquier otra pena no privativa de libertad o medida de seguridad, definitiva o cautelar, no se aplicará sanción alguna, salvo que se hiciere uso de violencia o se cause daño, O SE TRATE DE MEDIDAS DE SEGURIDAD SANITARIA DECRETADAS POR AUTORIDAD COMPETENTE, en cuyo caso se impondrán de 1 a 5 años de prisión y hasta seis meses de trabajo a favor de la comunidad.
+Por el quebrantamiento de cualquier otra pena no privativa de libertad o medida de seguridad, definitiva o cautelar, no se aplicará sanción alguna, salvo que se hiciere uso de violencia o se cause daño, o se trate de medidas de seguridad sanitaria decretadas por autoridad competente, en cuyo caso se impondrán de seis meses a dos años de prisión o hasta seis meses de trabajo a favor de la comunidad.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 304.
 
-A quien de cualquier modo favorezca el quebrantamiento de alguna de las sanciones a que se refiere este Capítulo, se le aplicará prisión de 1 a 3 años y hasta seis meses de trabajo a favor de la comunidad.
+A quien de cualquier modo favorezca el quebrantamiento de alguna de las sanciones a que se refiere este Capítulo, se le aplicará prisión de seis meses a dos años o hasta seis meses de trabajo a favor de la comunidad.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -4630,3 +4652,23 @@ P.O. 18 DE DICIEMBRE DE 2020.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO Y DE LA LEY DE DESARROLLO PECUARIO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
