@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-sistema-de-asistencia-social-del-estado-de-queretaro-65
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2020-01-17"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL SISTEMA DE ASISTENCIA SOCIAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -67,7 +67,9 @@ III. Los alcohólicos y fármaco dependientes;
 
 IV. Las mujeres en estado de abandono, en período de gestación o lactancia y aquéllas que presenten embarazos y nacimientos múltiples;
 
-V. Los adultos mayores en estado de abandono, con incapacidad legal, marginación o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+V. Las personas adultas mayores en estado de abandono, con incapacidad legal, marginación o sujetos a maltrato;
 
 VI. Las personas con alguna discapacidad de las que señala la Ley para las personas con Discapacidad del Estado de Querétaro;
 
@@ -105,15 +107,21 @@ Los servicios de salud en materia de asistencia social que se presten como servi
 
 Para los efectos de esta Ley, se entienden como servicios básicos de salud en materia de asistencia social, los siguientes:
 
-I. La atención a personas que por sus carencias socio-económicas, problemas de invalidez, minusvalía o discapacidad, se vean impedidos para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-II. La atención, en establecimientos especializados, a menores y adultos mayores en estado de abandono o desamparo;
+I. La atención a personas que, por sus carencias socioeconómicas, problemas de invalidez, minusvalía, discapacidad o senectud, se vean impedidos para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+II. La atención, en establecimientos especializados, a menores en estado de abandono o desamparo, y a las personas adultas mayores;
 
 III. La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
 
 IV. El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-V. La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, adultos mayores, inválidos, discapacitados o incapaces sin recursos;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+
+V. La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, inválidos, discapacitados o incapaces sin recursos, así como a las personas adultas mayores;
 
 VI. La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -376,3 +384,15 @@ P.O. 17 DE ENERO DE 2020.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE ASISTENCIA SOCIAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga.
+
+Artículo Segundo. Se derogan todas las disposiciones normativas que se opongan a lo previsto en la presente Ley.
+
+Artículo Tercero. El Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro contará con un plazo de seis meses a partir de la entrada en vigor de la presente Ley para realizar los ajustes necesarios para poner en marcha el área especializada para la atención de las personas adultas mayores.
+
+Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
