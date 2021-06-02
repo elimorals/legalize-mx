@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2020-06-10"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -77,6 +77,10 @@ Se reconoce como derecho humano, la protección, conservación, restauración y 
 Es derecho de todos los morelenses, acceder a la sociedad de la información y el conocimiento, como una política prioritaria del Estado, a fin de lograr una comunidad integrada y comunicada, en la que cada uno de los morelenses pueda tener acceso libre y universal al internet como un derecho fundamental para su pleno desarrollo, en un entorno de igualdad de oportunidades, con respeto a su diversidad, preservando su identidad cultural y orientada a su crecimiento personal, que permita un claro impacto de beneficios en la educación, la salud, la seguridad, el desarrollo económico, el turismo, la transparencia, la cultura y los trámites gubernamentales.
 
 En el Estado de Morelos se reconoce el derecho al acceso a la cultura y al disfrute de los bienes y servicios culturales. Será obligación del Estado promover los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones, con pleno respeto a la libertad creativa. La Ley establecerá los mecanismos para el acceso, fomento y participación de cualquier manifestación cultural.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
+
+En el estado de Morelos toda persona tiene derecho al trabajo digno y socialmente útil; la resolución de las diferencias o los conflictos entre trabajadores y patrones estará a cargo del tribunal laboral del estado que consiste en los juzgados especializados en materia laboral del Poder Judicial, con excepción de aquellos asuntos burocráticos que le corresponda conocer al Tribunal de Arbitraje a que se refiere el inciso L de la fracción XX del artículo 40 de esta Constitución. Antes de acudir a dichos tribunales, los trabajadores y patrones deberán asistir a la instancia de conciliación que corresponda.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
@@ -1236,9 +1240,9 @@ XXV.- Excitar a los Poderes de la Federación para que presten protección al Es
 
 XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-XXVII.- Recibir de los Diputados, del Gobernador, del Fiscal General del Estado, de los Magistrados del Tribunal Superior de Justicia, de los Magistrados del Tribunal Laboral del Poder Judicial del Estado de Morelos, de los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, del Magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, de los Comisionados del Instituto Morelense de Información Pública y Estadística, del Auditor General de la Entidad Superior de Auditoría y Fiscalización y Secretario de la Contraloría, la protesta a que se refiere el artículo 133 de esta Constitución;
+XXVII.- Recibir de los diputados, del gobernador, del fiscal general del Estado, de los magistrados del Tribunal Superior de Justicia, de los magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, del magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, de los Comisionados del Instituto Morelense de Información Pública y Estadística, del Auditor General de la Entidad Superior de Auditoría y Fiscalización y Secretario de la Contraloría, la protesta a que se refiere el artículo 133 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
 
@@ -1258,13 +1262,13 @@ XXX.- Conceder licencias para separarse de sus respectivos cargos a los diputado
 
 XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, del Tribunal Laboral del Poder Judicial del Estado de Morelos, del Tribunal de Justicia Administrativa del Estado de Morelos, del Fiscal General del Estado, de los Comisionados del Instituto Morelense de Información Pública y Estadística, del Auditor General de la Entidad Superior de Auditoría y Fiscalización, del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los órganos internos de control de los Organismos Constitucionales Autónomos;
+XXXII.- Admitir la renuncia de sus cargos a los magistrados del Tribunal Superior de Justicia, del magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, del Tribunal de Justicia Administrativa del Estado de Morelos, del fiscal general del estado, de los comisionados del Instituto Morelense de Información Pública y Estadística, del auditor general de la Entidad Superior de Auditoría y Fiscalización, del presidente y consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los Órganos Internos de Control de los organismos constitucionales autónomos;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, del Tribunal Laboral del Poder Judicial del Estado de Morelos, del Tribunal de Justicia Administrativa, al Fiscal General del Estado y al Auditor General de la Entidad Superior de Auditoría y Fiscalización, siempre que su ausencia exceda de treinta días;
+XXXIII.- Conceder licencias a los magistrados del Tribunal Superior de Justicia, al magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, a los magistrados del Tribunal de Justicia Administrativa, al fiscal general del estado y al auditor general de la Entidad Superior de Auditoría y Fiscalización, siempre que su ausencia exceda de treinta días;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1276,9 +1280,9 @@ XXXV.- (DEROGADA, P.O. 15 DE FEBRERO DE 2018)
 
 XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta Constitución.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
-XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia; al Magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, a los Magistrados del Tribunal Laboral del Poder Judicial del Estado de Morelos; a los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos de conformidad con lo previsto en esta Constitución; así como al Fiscal General del Estado de Morelos, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado. Las designaciones a que alude esta fracción deberán reunir el voto aprobatorio de las dos terceras partes de los integrantes del Congreso;
+XXXVII.- Designar a los magistrados del Tribunal Superior de Justicia; al magistrado del Tribunal Unitario de Justicia Penal para Adolescentes; a los magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, de conformidad con lo previsto en esta Constitución; así como al fiscal general del estado de Morelos, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del estado. Las designaciones a que alude esta fracción deberán reunir el voto aprobatorio de las dos terceras partes de los integrantes del Congreso;
 
 > <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
@@ -1472,11 +1476,11 @@ Para que una iniciativa tenga el carácter de ley o decreto, necesita en votaci�
 
 El Congreso o la Diputación Permanente podrán llamar a los Secretarios del Poder Ejecutivo Estatal y a los Comisionados del Instituto Morelense de Información Pública y Estadística a cualquiera de sus sesiones secretas o públicas para pedirles los informes verbales que necesiten sobre asuntos relacionados con el desempeño de sus funciones y estos funcionarios deberán presentarse a ministrarlos.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### Artículo 46.
 
-El Congreso podrá llamar a uno o más Magistrados del Tribunal Superior de Justicia, al Magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, del Tribunal de Justicia Administrativa del Estado de Morelos y del Tribunal Laboral del Poder Judicial del Estado de Morelos al discutirse los dictámenes sobre iniciativas de Leyes o Decretos, para ilustrar la materia de que se trate en el ámbito de sus respectivas competencias.
+El Congreso podrá llamar a uno o más magistrados del Tribunal Superior de Justicia, al magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, y del Tribunal de Justicia Administrativa del Estado de Morelos, al discutirse los dictámenes sobre iniciativas de leyes o decretos, para ilustrar la materia de que se trate en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2011)</small>
 
@@ -2322,17 +2326,27 @@ El Ejecutivo del Estado garantizará que el desarrollo en la entidad sea integra
 
 ### CAPÍTULO VIII. DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MORELOS
 
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
-Artículo 85 F.- La resolución de las diferencias o los conflictos entre trabajadores y patrones de competencia estatal se resolverá en términos del artículo 105 Bis de esta Constitución.
+###### Artículo 85-F.
 
-Antes de acudir a los tribunales laborales, los trabajadores y patrones deberán asistir a la instancia conciliatoria correspondiente, conforme lo dispone la fracción XX del artículo 123 de la Constitución Federal.
+La resolución de las diferencias o los conflictos entre trabajadores y patrones de competencia estatal se resolverá en términos del artículo 1 Bis párrafo onceavo de esta Constitución.
 
-En el estado de Morelos la función conciliatoria a que se refiere el párrafo anterior estará a cargo del Centro de Conciliación Laboral del Estado de Morelos, como organismo descentralizado del Poder Ejecutivo Estatal, especializado e imparcial, el cual contará con personalidad jurídica y patrimonio propios; así como con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su organización y funcionamiento se determinarán en su ley orgánica.
+La instancia conciliatoria correspondiente, se conformará y regulará su procedimiento en términos de lo dispuesto por la fracción XX del artículo 123 de la Constitución Federal.
 
-La persona titular del Centro de Conciliación Laboral del Estado de Morelos será designada por el Gobernador del Estado en términos de la normativa aplicable y deberá cumplir con los requisitos que establezca la misma.
+En el estado de Morelos la función conciliatoria a que se refiere el párrafo anterior estará a cargo del Centro de Conciliación Laboral del Estado de Morelos, como organismo descentralizado del Poder Ejecutivo estatal, especializado e imparcial, el cual contará con personalidad jurídica y patrimonio propios; así como con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su organización y funcionamiento se determinarán en su ley orgánica.
 
-La persona titular del organismo público descentralizado desempeñará su encargo por periodos de siete años y podrá ser reelecto por una sola ocasión.
+La persona titular del Centro de Conciliación Laboral del Estado de Morelos, será designada por las dos terceras partes de los diputados presentes, de la terna que someterá a su consideración el Ejecutivo del estado, previa comparecencia de las personas propuestas.
+
+Su designación deberá realizarse dentro del improrrogable plazo de treinta días a partir de que reciba la propuesta. Si el Legislativo no resolviere dentro de dicho plazo, ocupará el cargo aquél que, dentro de dicha terna, designe el Ejecutivo.
+
+En caso de que la (sic) Congreso rechace la totalidad de la terna propuesta, el Ejecutivo someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Ejecutivo.
+
+(NOTA: EL 22 DE SEPTIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 149/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+La persona titular del organismo público descentralizado deberá cumplir con los requisitos de Ley, además de contar con capacidad y experiencia en las materias de la competencia del organismo descentralizado; que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular, en ningún ámbito, en los tres años anteriores a la designación; goce de buena reputación Y NO HAYA SIDO CONDENADO POR DELITO DOLOSO.
+
+Desempeñará su encargo por períodos de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el periodo respectivo. Sólo podrá ser removido por causa grave en los términos de esta Constitución y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 
 ## TITULO QUINTO.
 
@@ -2342,15 +2356,19 @@ DEL PODER JUDICIAL.
 
 DISPOSICIONES PRELIMINARES.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### Artículo 86.
 
-El ejercicio del Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, el cual funcionará en Pleno y Salas Colegiadas; en un Tribunal Unitario de Justicia Penal para Adolescentes y en un Tribunal Laboral; así como los juzgados de primera instancia, juzgados menores y especializados, organizados de acuerdo con su competencia establecida en las leyes.
+El ejercicio del Poder Judicial del estado se deposita en el Tribunal Superior de Justicia, el cual funcionará en Pleno y Salas Colegiadas; en un Tribunal Unitario de Justicia Penal para Adolescentes; así como los juzgados de primera instancia, juzgados menores y especializados, organizados de acuerdo con su competencia establecida en las leyes.
 
-La vigilancia y disciplina del Poder Judicial, con excepción del Pleno del Tribunal Superior de Justicia, de los Magistrados del Tribunal Laboral y el Tribunal Unitario de Justicia Penal para Adolescentes, estarán a cargo de la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, a quien le corresponderá también la administración de dicho Poder en general, en los términos que establezcan las leyes.
+La vigilancia y disciplina del Poder Judicial, con excepción del Pleno del Tribunal Superior de Justicia, y el Tribunal Unitario de Justicia Penal para Adolescentes, estarán a cargo de la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, a quien le corresponderá también la administración de dicho poder en general, en los términos que establezcan las leyes.
 
 Los órganos jurisdiccionales aplicarán las leyes federales, tratándose de jurisdicción concurrente.
+
+El Poder Judicial contará con jueces especializados en materia laboral, que tendrán las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo, esta Constitución, la Ley Orgánica del Poder Judicial del Estado de Morelos y las demás leyes aplicables les confieran.
+
+Los integrantes de los juzgados especializados en materia laboral serán designados atendiendo a lo dispuesto por el artículo 116, fracción III, de la Constitución Política de los Estados Unidos Mexicanos y conforme a los procedimientos de selección y formación que la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Morelos determine y deberán contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 
 El Poder Judicial contará con jueces de control que tendrán las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, esta Constitución y las demás leyes aplicables les confieran.
 
@@ -2652,29 +2670,13 @@ Habrá también el número de Jueces de categoría inferior que establezca la Le
 
 La Ley determinará los asuntos de la competencia de los Jueces de Primera Instancia y de los de categoría inferior, y la manera de cubrir las faltas temporales y absolutas de los mismos.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE FEBRERO DE 2018)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE JUNIO DE 2021)</small>
 
 ### CAPÍTULO III BIS. DEL TRIBUNAL LABORAL DEL PODER JUDICIAL DEL ESTADO DE MORELOS
 
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2018)</small>
-
 ###### Artículo 105 Bis.
 
-La resolución de las diferencias o los conflictos entre trabajadores y patrones de competencia estatal y los diversos que le corresponda conocer al Tribunal de Arbitraje que refiere el inciso L de la fracción XX del artículo 40 de esta Constitución, estará a cargo del Tribunal Laboral del Poder Judicial del Estado de Morelos, cuyos integrantes serán designados de conformidad con los artículos 116, fracción III, de la Constitución Federal y 20, 21, 86, 87 y 88 de esta Constitución. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
-
-La ley determinará la integración, atribuciones, funcionamiento y demás particularidades del Tribunal Laboral, misma que deberá observar lo dispuesto en la Constitución Federal y demás normativa aplicable.
-
-Los Magistrados integrantes del Tribunal Laboral deberán reunir los mismos requisitos que se requieren para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con capacidad y experiencia en materia laboral.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
-
-Serán designados por el Pleno del Congreso del Estado a propuesta del Órgano político del Congreso, el cual emitirá la Convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado, debiendo observar el principio de paridad de género en las designaciones.
-
-Durarán en su cargo catorce años, contados a partir de la fecha en que rindan la protesta constitucional y sólo podrán ser removidos de sus cargos en los términos que establece esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
-
-Ninguna persona que haya sido nombrada magistrado podrá volver a ocupar el cargo o ser nombrada para un nuevo periodo.
-
-En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo, podrán rebasar catorce años en ejercicio del mismo. Al término de su respectivo encargo, los Magistrados tendrán derecho a un haber por retiro, en los términos establecidos para los Magistrados del Tribunal Superior de Justicia, conforme lo establece esta Constitución y la Ley de la materia. El retiro forzoso del cargo se producirá en los mismos términos que para los Magistrados del Tribunal Superior de Justicia.
+(DEROGADO, P.O. 2 DE JUNIO DE 2021)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -5501,3 +5503,29 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor rango que (sic) lo establecido en el presente Decreto.
+
+P.O. 2 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS NOVENTA Y UNO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE JUSTICIA LABORAL”.]
+
+PRIMERO. Aprobado el presente decreto por el poder reformador local y hecha la declaratoria correspondiente se remitirá al gobernador constitucional del estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44, 70, fracción XVII, inciso a), y 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. El Pleno del Tribunal Superior de Justicia contará con un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para proponer las adecuaciones necesarias a la Ley Orgánica del Poder Judicial, y remitirlas con carácter de iniciativa al Congreso del Estado de Morelos para su discusión y, en su caso, aprobación correspondiente.
+
+CUARTO. La persona titular del Poder Ejecutivo del Estado contará con un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para que remita la iniciativa de la Ley Orgánica que crea el Centro de Conciliación Laboral del Estado de Morelos, al Congreso del Estado para su discusión y, en su caso, aprobación correspondiente.
+
+QUINTO. El Centro de Conciliación Laboral del Estado de Morelos deberá entrar en operación en la misma fecha en que lo hagan los juzgados especializados en materia laboral, en términos de la normativa aplicable.
+
+SEXTO. Dentro del plazo a que se refiere el artículo cuarto transitorio de (sic) presente decreto, el Poder Ejecutivo local someterá al Congreso del Estado, la terna para la designación del titular del Centro de Conciliación Laboral del Estado de Morelos.
+
+SÉPTIMO. En tanto se instituyen e inician operaciones el Centro Federal de Conciliación y Registro Laboral, los juzgados especializados en materia laboral del Poder Judicial del Estado de Morelos, y el Centro de Conciliación Laboral del Estado de Morelos; la Junta Local de Conciliación y Arbitraje del Estado de Morelos continuará atendiendo las diferencias o conflictos laborales que se presenten entre patrones y trabajadores, y sobre el registro de contratos colectivos de trabajo y organizaciones sindicales, así como todos los procesos administrativos relacionados.
+
+OCTAVO. Los asuntos que se encuentren en trámite ante la Junta Local de Conciliación y Arbitraje al momento de iniciar sus funciones los juzgados especializados en materia laboral del Poder Judicial del Estado de Morelos y el Centro de Conciliación Laboral del Estado de Morelos, serán resueltos por ella de conformidad con las disposiciones aplicables al momento de su inicio.
+
+NOVENO. La Junta Local de Conciliación y Arbitraje del Estado de Morelos deberá transferir todos los expedientes de registros de asociaciones sindicales, contratos colectivos de trabajo, reglamentos interiores de trabajo y procedimientos administrativos relacionados, que en el ámbito de su competencia tengan bajo su atención o resguardo, al Centro Federal de Conciliación y Registro Laboral, de conformidad con lo establecido por la Ley Federal del Trabajo y la normativa aplicable.
+
+DÉCIMO. El Congreso del Estado deberá contemplar y destinar en el Presupuesto de Egresos del estado para el siguiente ejercicio fiscal los recursos que aún resultaran necesarios para la continuidad de la implementación de la reforma al Sistema de Justicia Laboral.
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al contenido del presente Decreto.
