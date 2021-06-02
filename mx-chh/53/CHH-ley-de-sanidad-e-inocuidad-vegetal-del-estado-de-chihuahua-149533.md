@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-sanidad-e-inocuidad-vegetal-del-estado-de-chihuahua-1495
 country: "mx"
 rank: "ley"
 publication_date: "2021-05-22"
-last_updated: "2021-05-22"
+last_updated: "2021-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE SANIDAD E INOCUIDAD VEGETAL DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE JUNIO DE 2021 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE SANIDAD E INOCUIDAD VEGETAL DEL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE JUNIO DE 2021.]</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 22 de mayo de 2021.
 
@@ -907,7 +907,9 @@ I. Confirmar el acto impugnado.
 
 II. Declararlo improcedente o sobreseerlo.
 
-III. Revocar el acto impugnado, lisa y llanamente, o bien, señalando (sic)
+> <small>(F. DE E., P.O. 2 DE JUNIO DE 2021)</small>
+
+III. Revocar el acto impugnado, lisa y llanamente, o bien, señalando los efectos de la revocación.
 
 ###### Artículo 82.
 
