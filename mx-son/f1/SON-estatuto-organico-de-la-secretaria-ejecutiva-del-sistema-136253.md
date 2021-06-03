@@ -4,7 +4,7 @@ identifier: "SON-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-136253
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-04-11"
-last_updated: "2019-04-11"
+last_updated: "2021-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "SON"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE JUNIO DE 2021.
 
 Estatuto publicado en la Sección II al Número 29 del Boletín Oficial del Estado de Sonora, el jueves 11 de abril de 2019.
 
@@ -76,11 +76,17 @@ I. Unidad de Riesgos y Política Pública.
 
 II. Unidad de Servicios Tecnológicos y Plataforma Digital Estatal.
 
-III. Dirección General de Vinculación Interinstitucional.
+> <small>(REFORMADA, B.O. 3 DE JUNIO DE 2021)</small>
 
-IV. Dirección General de Administración.
+III. Dirección de Vinculación Interinstitucional;
 
-V. Dirección General de Asuntos Jurídicos.
+> <small>(REFORMADA, B.O. 3 DE JUNIO DE 2021)</small>
+
+IV. Unidad de Administración; y
+
+> <small>(REFORMADA, B.O. 3 DE JUNIO DE 2021)</small>
+
+V. Unidad de Transparencia y Asuntos Jurídicos.
 
 El Órgano de Gobierno se integrará y funcionará en los términos previstos en la Ley del Sistema Estatal Anticorrupción, su Reglamento Interno y en las demás disposiciones jurídicas aplicables.
 
@@ -126,7 +132,9 @@ El Secretario Técnico y, en su caso, los servidores públicos que deban interve
 
 VII. Aprobar la estructura básica de la organización de (sic) Secretaría Ejecutiva, así como las modificaciones que procedan a la misma;
 
-VIII. Nombrar y remover a los servidores públicos de la Secretaría Ejecutiva que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, esto es, Titulares de Unidad y Directores Generales, así como aprobar la fijación de sus sueldos y prestaciones y concederles licencias;
+> <small>(REFORMADA, B.O. 3 DE JUNIO DE 2021)</small>
+
+VIII. Nombrar y remover a los servidores públicos de la Secretaría Ejecutiva que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquel, esto es, Titulares de Unidad y Directores, así como aprobar la fijación de sus sueldos, prestaciones y concederles licencia;
 
 IX. Analizar y aprobar, en su caso, los informes periódicos que rinda el Secretario Técnico;
 
@@ -238,9 +246,13 @@ IV. Establecer los métodos que permitan el óptimo aprovechamiento de los biene
 
 V. Tomar las medidas pertinentes a fin de que las funciones de la entidad se realicen de manera articulada, congruente y eficaz;
 
-VI. Proponer al Órgano de Gobierno el nombramiento o la remoción de los servidores públicos de la Secretaría Ejecutiva que ocupen cargos con las dos jerarquías administrativas inferiores, esto es, Titulares de Unidad y Directores Generales, así como la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio Órgano de Gobierno, mismas que estarán sujetas al tabulador de sueldos y salarios de la Administración Pública Estatal;
+> <small>(REFORMADA, B.O. 3 DE JUNIO DE 2021)</small>
 
-VII. Autorizar los perfiles profesionales que deberán cubrir los cargos de los Titulares de Unidad y Director (sic) Generales, así como proponerlos al Órgano de Gobierno.
+VI. Proponer al Órgano de Gobierno el nombramiento o la remoción de los servidores públicos de la Secretaría Ejecutiva, que ocupen cargos con las dos jerarquías administrativas inferiores, esto es, titulares de unidad y directores, así como la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio Órgano de Gobierno, mismas que estarán sujetas al tabulador de sueldos y salarios de la administración pública estatal;
+
+> <small>(REFORMADA, B.O. 3 DE JUNIO DE 2021)</small>
+
+VII. Autorizar los perfiles profesionales que deberán cubrir los cargos de los titulares de unidad y directores, y proponerlos al Órgano de Gobierno;
 
 VIII. Supervisar la información y elementos estadísticos recabados que reflejen el estado de las funciones de la Secretaría Ejecutiva para así poder mejorar la gestión de la misma;
 
@@ -298,9 +310,11 @@ XXXIV. Ejercer todas las facultades de la Secretaría Ejecutiva.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 18.
 
-Las Unidades y las Direcciones Generales que conforman la Secretaría Ejecutiva, para el desahogo de los asuntos de su competencia contarán con las siguientes facultades comunes:
+Las unidades y direcciones que conforman la Secretaría Ejecutiva, para el desahogo de los asuntos de su competencia contarán con las siguientes facultades comunes:
 
 I. Recibir y dar trámite a las solicitudes de acceso a la información y de protección de datos personales que les sean turnadas por razón de competencia por la Unidad de Transparencia;
 
@@ -374,9 +388,11 @@ IX. Diseñar, coordinar y supervisar la aplicación, el desarrollo y la difusió
 
 X. Las demás que le confieran las disposiciones legales aplicables y su Superior Jerárquico dentro de la esfera de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 21.
 
-La Dirección General de Vinculación Interinstitucional estará adscrita directamente al Secretario Técnico y tendrá el cumplimiento de las siguientes atribuciones.
+La Dirección de Vinculación Interinstitucional estará adscrita directamente al Secretario Técnico y tendrá el cumplimiento de las siguientes atribuciones.
 
 I. Apoyar y dar seguimiento a la celebración de convenios, foros, seminarios, cursos y concursos que se lleven a cabo en el marco de las atribuciones de la Secretaría Ejecutiva en coordinación con los integrantes del Sistema Estatal;
 
@@ -396,9 +412,11 @@ VIII. Determinar e instrumentar los mecanismos, bases y principios para la coord
 
 IX. Las demás que le confieran las disposiciones legales aplicables y su Superior Jerárquico dentro de la esfera de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 22.
 
-La Dirección General de Administración estará adscrita directamente al Secretario Técnico y tendrá el cumplimiento de las siguientes atribuciones:
+La Unidad de Administración estará adscrita directamente al Secretario Técnico y tendrá el cumplimiento de las siguientes atribuciones.
 
 I. Administrar los recursos humanos, financieros y materiales de la Secretaría Ejecutiva;
 
@@ -440,9 +458,11 @@ XIX. Coordinar las actividades de la Secretaría Ejecutiva en materia de archivo
 
 XX. Las demás que le confieran las disposiciones legales aplicables y su Superior Jerárquico dentro de la esfera de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 23.
 
-La Dirección General de Asuntos Jurídicos estará adscrita directamente al Secretario Técnico y tendrá el cumplimiento de las siguientes atribuciones.
+La Unidad de Transparencia y Asuntos Jurídicos estará adscrita directamente al Secretario Técnico y tendrá el cumplimiento de las siguientes atribuciones.
 
 I. Representar legalmente a la Secretaría Ejecutiva en asuntos jurisdiccionales, contencioso-administrativos y ante toda clase de autoridades administrativas, judiciales y laborales, en los procesos de toda índole, cuando requiera su intervención y para absolver posiciones;
 
@@ -474,9 +494,45 @@ XIV. Asesorar en los procedimientos relativos a las adquisiciones, arrendamiento
 
 XV. Participar y emitir las opiniones jurídicas que correspondan en las sesiones que se instauren en el Comité de Adquisiciones, Arrendamientos y Servicios y en el Comité de Bienes Muebles;
 
-XVI. Dictaminar los proyectos de contratos y convenios específicos que le remita la Dirección General de Administración, derivados de procedimientos de licitación pública o que hubieren sido aprobados por el Comité de Adquisiciones, Arrendamientos y Servicios de la Secretaría Ejecutiva, así como las garantías correspondientes a fin de que se adecuen a las disposiciones legales y demás normativa aplicable; y
+> <small>(REFORMADA, B.O. 3 DE JUNIO DE 2021)</small>
 
-XVII. Las demás que le confieran las disposiciones legales aplicables y su Superior Jerárquico dentro de la esfera de sus atribuciones.
+XVI. Dictaminar los proyectos de contratos y convenios específicos que le remita la Unidad de Administración derivados de procedimientos de licitación pública o que hubieren sido aprobados por el Comité de Adquisiciones, Arrendamientos y Servicios de la Secretaría Ejecutiva, así como las garantías correspondientes a fin de que se adecuen a las disposiciones legales y demás normativa aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 3 DE JUNIO DE 2021)</small>
+
+XVII. Fungir como unidad de transparencia, de acuerdo con lo dispuesto por el artículo 58 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 3 DE JUNIO DE 2021)</small>
+
+XVIII. Ejercer las funciones previstas por el artículo 119 de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 3 DE JUNIO DE 2021)</small>
+
+XIX. Presidir el Comité de Transparencia de la Secretaría conforme a las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 3 DE JUNIO DE 2021)</small>
+
+XX. Proponer al Comité de Transparencia los procedimientos internos que aseguren la eficiencia en la gestión de las solicitudes de acceso a la información y de protección de datos personales conforme a la normatividad aplicable;
+
+> <small>(ADICIONADA, B.O. 3 DE JUNIO DE 2021)</small>
+
+XXI. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad y atendiendo a las políticas de no discriminación, inclusión y perspectiva de género;
+
+> <small>(ADICIONADA, B.O. 3 DE JUNIO DE 2021)</small>
+
+XXII. Requerir a las unidades administrativas de la Secretaría la información necesaria para el trámite y atención a solicitudes de información pública y el ejercicio de los derechos de acceso, rectificación, cancelación y oposición a los datos personales;
+
+> <small>(ADICIONADA, B.O. 3 DE JUNIO DE 2021)</small>
+
+XXIII. Dar contestación y seguimiento a los recursos de revisión que interpongan en contra de la Secretaría, e interponer los medios de defensa pertinentes;
+
+> <small>(ADICIONADA, B.O. 3 DE JUNIO DE 2021)</small>
+
+XXIV. Dar a conocer al o a la titular de la Secretaría, la resolución que recaiga a los recursos de revisión, a efecto de que se cumplimenten en tiempo y forma;
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XVII], B.O. 3 DE JUNIO DE 2021)</small>
+
+XXV. Las demás que le confieren las disposiciones legales aplicables y su Superior Jerárquico dentro de la esfera de sus atribuciones.
 
 ### CAPÍTULO VII. DEL CONTROL Y VIGILANCIA
 
@@ -502,9 +558,13 @@ V.- Transparencia y acceso a la información pública, conforme a la ley de la m
 
 En los casos de ausencia temporal, los servidores públicos adscritos a la Secretaría Ejecutiva serán suplidos en los términos siguientes:
 
-I. La ausencia del Secretario Técnico será suplida por el Titular de la Unidad de Riesgos y Política Pública, por el Titular de la Unidad de Servicios Tecnológicos y Plataforma Digital Estatal, por el Director General de Asuntos Jurídicos y por el Director General de Administración, en ese orden.
+> <small>(REFORMADA, B.O. 3 DE JUNIO DE 2021)</small>
 
-II. La ausencia de los Titulares de Unidad, Directores Generales y demás servidores públicos de rango inferior a éstos, será suplida por el servidor público de su adscripción que ocupe el cargo de nivel jerárquico inmediato inferior.
+I. La ausencia del o la Secretario Técnico será suplida por el titular de la Unidad de Riesgos y Política Pública, por el titular de la Unidad de Servicios Tecnológicos y Plataforma Digital Estatal, por el Titular de la Unidad de Transparencia y Asuntos Jurídicos, y por el titular de la Unidad de Administración, en ese orden.
+
+> <small>(REFORMADA, B.O. 3 DE JUNIO DE 2021)</small>
+
+II. La ausencia de los titulares de unidad, directores y demás servidores públicos de rango inferior a éstos, será suplida por el servidor público de su adscripción que ocupe el cargo de nivel jerárquico inmediato inferior.
 
 Cuando existan dos o más servidores públicos con un nivel jerárquico inmediato inferior adscritos al ausente, la suplencia procederá de forma indistinta por cualquiera de ellos.
 
@@ -533,3 +593,19 @@ Se abroga el Estatuto Orgánico publicado en el Boletín Oficial numero 14 secc.
 (SIC) CUARTO. La atribución referida en el artículo 17, fracción VII del presente Estatuto, será ejercida por el Secretario Técnico a partir de la entrada en vigor del mismo.
 
 Hermosillo, Sonora.- El Secretario Técnico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, Raúl Guillen López.- Rubrica.
+
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 3 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE REFORMAN LAS FRACCIONES III, IV, V DEL ARTÍCULO 4°, LA FRACCIÓN VIII DEL ARTÍCULO 6, LAS FRACCIONES VI Y VII DEL ARTÍCULO 17, LA DENOMINACIÓN DE LOS ARTÍCULOS 18, 21, 22 Y 23 Y SUS FRACCIONES XVI Y XVII, ASÍ COMO LAS FRACCIONES I Y II DEL ARTÍCULO 25; SE ADICIONAN LAS FRACCIONES DE LA XVII A LA XXV AL ARTÍCULO 23, TODOS DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN”.]
+
+###### ARTICULO PRIMERO.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los manuales de organización y procedimientos deberán expedirse dentro de los sesenta días posteriores a la publicación del presente Acuerdo.
+
+El o la Titular de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción queda facultado para resolver cuestiones que se presenten y tengan relación con los manuales antes citados en tanto se expidan los mismos.
