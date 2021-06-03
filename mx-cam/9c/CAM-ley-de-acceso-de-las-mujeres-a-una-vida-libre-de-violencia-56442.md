@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2020-05-27"
+last_updated: "2021-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -577,6 +577,8 @@ XII. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 ### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 31.
 
 Corresponde a los Municipios, en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres:
@@ -609,11 +611,155 @@ XI. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 ###### ARTÍCULO 32.
 
-Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente inmediatamente que conozcan de hechos que impliquen violencia contra las mujeres, en los términos que para tal efecto dispone la legislación Penal del Estado.
+Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
 
 > <small>(ADICIONADO, P.O. 27 DE MAYO DE 2020)</small>
 
 En materia de violencia política de las mujeres en razón de género, el Instituto Electoral del Estado de Campeche y el Tribunal Electoral del Estado de Campeche, podrán solicitar a las autoridades competentes las medidas a que se refiere el presente capítulo
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 32 BIS.- Quien en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un hecho que la ley señale como delito en contra de una mujer o niña, está obligado a denunciarlo inmediatamente al Ministerio Público, proporcionándole todos los datos que tuviere, poniendo a su disposición a la persona imputada, si hubiere sido detenida en flagrancia.
+
+Quien tenga el deber jurídico de denunciar y no lo haga, será acreedor a las sanciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 32 TER.- Las órdenes de protección que señala la presente ley son personalísimas e intransferibles y podrán ser:
+
+I. Administrativas: que son emitidas por el Ministerio Público y las autoridades administrativas, y
+
+II. De naturaleza jurisdiccional: que son las emitidas por los órganos encargados de la administración de justicia.
+
+Las órdenes de protección tendrán una duración de hasta 60 días, prorrogables por 30 días más o por el tiempo que dure la investigación o prolongarse hasta que cese la situación de riesgo para la víctima y deberán expedirse de manera inmediata o a más tardar dentro de las 4 horas siguientes al conocimiento de los hechos que las generan.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 32 QUATER.- Las órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
+
+I. Principio de protección: Considera primordial la vida, la integridad física, la libertad y la seguridad de las personas;
+
+II. Principio de necesidad y proporcionalidad: Las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria, y deben garantizar su seguridad o reducir los riesgos existentes;
+
+III. Principio de confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo;
+
+IV. Principio de oportunidad y eficacia: Las órdenes deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima, y deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo;
+
+V. Principio de accesibilidad: Se deberá articular un procedimiento sencillo para que facilite a las víctimas obtener la protección inmediata que requiere su situación;
+
+VI. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un solo acto y de forma automática, y
+
+VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 32 QUINQUIES.- Cuando una mujer o una niña víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
+
+La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud. Así también deberá realizar la medición y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 32 SEXIES.- Para la emisión de las órdenes de protección las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente tomará en consideración:
+
+I. Los hechos relatados por la mujer o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o por quien lo haga del conocimiento a la autoridad;
+
+II. Las peticiones explícitas de la mujer o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o de quien informe sobre el hecho;
+
+III. Las medidas que ella considere oportunas, una vez informada de cuáles pueden ser esas medidas. Tratándose de niñas, las medidas siempre serán determinadas conforme al principio del interés superior de la niñez;
+
+IV. Las necesidades que se deriven de su situación particular analizando su identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, así como cualquier otra condición relevante;
+
+V. La persistencia del riesgo aún después de su salida de un refugio temporal, y
+
+VI. La manifestación de actos o hechos previos de cualquier tipo de violencia que hubiese sufrido la víctima.
+
+Además, deberán ordenar la protección necesaria, atendiendo:
+
+I. Los principios establecidos en esta ley;
+
+II. Que sea adecuada, oportuna y proporcional;
+
+III. Que los sistemas normativos propios basados en usos y costumbres no impidan la garantía de los derechos de las mujeres reconocidos en la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales ratificados por el Estado Mexicano;
+
+IV. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión o cualquiera otra, que las coloque en una situación de mayor riesgo, y
+
+V. Las necesidades expresadas por la mujer o niña solicitante.
+
+Las autoridades administrativas, el Ministerio Público y los órganos jurisdiccionales determinarán las órdenes de protección para denunciantes anónimas de violencia, privilegiando la integridad y la seguridad de las víctimas.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULOS 32 SEPTIES.- Las órdenes de naturaleza jurisdiccional, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes acciones:
+
+I. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a la persona agresora o su familia puedan ubicar a la víctima;
+
+II. El uso de medios o dispositivos electrónicos para impedir el contacto directo de la persona agresora con la víctima;
+
+III. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y en su caso, de sus hijas e hijos;
+
+IV. Medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares. Tratándose de niñas hay una prohibición absoluta de transmitir datos e imágenes que permitan su identificación;
+
+V. Prohibir el acceso a la persona agresora al domicilio, permanente o temporal de la mujer, o la niña, en situación de violencia, así como acercarse al lugar de trabajo, estudio o cualquier lugar que frecuente;
+
+VI. Embargo preventivo de bienes de la persona agresora, a efecto de garantizar las obligaciones alimentarias;
+
+VII. La desocupación por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, y en su caso el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad;
+
+VIII. Obligación alimentaria provisional e inmediata;
+
+IX. La notificación al superior jerárquico inmediato, cuando la persona agresora sea servidora pública y en el ejercicio de su cargo, comisión o servicio, se le involucre en un hecho de violencia contra las mujeres.
+
+Esta orden será emitida en todos los casos donde la persona agresora pertenezca a los cuerpos policiacos o de seguridad, ya sea corporaciones públicas o privadas;
+
+X. La obligación de la persona agresora de presentarse periódicamente ante el órgano jurisdiccional que emitió la orden;
+
+XI. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza, y
+
+XII. Las demás que se requieran para brindar una protección a la víctima.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 32 OCTIES.- Las autoridades competentes deberán de establecer los lineamientos básicos para la implementación de las órdenes de protección en coordinación con las instancias responsables de atenderlas e implementarlas.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 32 NOVIES.- La tramitación y otorgamiento de una orden de protección podrá contener una o varias medidas, atendiendo al principio de integralidad. No se necesita una orden para cada medida, una sola orden de protección podrá concentrar el número de medidas necesarias para garantizar la seguridad y bienestar de la mujer en situación de violencia y en su caso de las víctimas indirectas.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 32 DECIES.- Las órdenes de protección deberán ser evaluadas para modificarse o adecuarse, en caso de que al momento de evaluar la efectividad de la orden se detecten irregularidades o incumplimiento, se sustanciará la comunicación correspondiente a los órganos internos de control de las dependencias involucradas.
+
+Previo a la suspensión de las órdenes de protección decretadas, las autoridades administrativas, ministeriales y órganos jurisdiccionales deberán asegurarse bajo su más estricta responsabilidad que la situación de riesgo o peligro de la víctima ha cesado, realizando una nueva evaluación de riesgo y analizando los informes de implementación por parte de las autoridades responsables de su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 32 UNDECIES.- En los casos donde la persona agresora pertenezca a los cuerpos policiacos o de seguridad, ya sea de corporaciones públicas o privadas, la autoridad deberá retirar el arma de cargo o de cualquier otra que tenga registrada.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 32 DUODECIES.- Al momento de dictarse sentencia las autoridades judiciales competentes determinarán las órdenes de protección y medidas similares que deban dictarse de manera temporal o durante el tiempo que dure la sentencia.
+
+Las órdenes de protección podrán ser dictadas de oficio o a solicitud de la mujer en situación de violencia, de su representante legal o del Ministerio Público, tratándose de niñas víctimas de un delito, la autoridad judicial se encuentra obligada a hacer la determinación del interés superior de la niñez, a fin de dictar órdenes de protección, aun cuando no exista una solicitud.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 32 TER DECIES.- Por ninguna circunstancia las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional notificará de sus actuaciones a la persona agresora a través de la víctima. Cualquier notificación es responsabilidad exclusiva de la autoridad.
+
+Las autoridades que intervengan en el cumplimiento de una orden, también serán las responsables de informar a la autoridad ordenadora sobre su implementación de forma periódica.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 32 QUATER DECIES.- A ninguna mujer o niña y sus hijas e hijos en situación de violencia que solicite orden de protección, se le podrá requerir que acredite su situación migratoria, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 32 QUINQUIES DECIES.- La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Campeche, deberán solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 32 SEXIES DECIES.- En caso de que la persona agresora incumpla la orden de protección, se emitirán las medidas de apremio conforme a la legislación aplicable.
+
+Asimismo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las mujeres y niñas.
 
 ## TÍTULO SEXTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
 
@@ -752,3 +898,11 @@ Primero.- El presente decreto entrará en vigor a los tres días después de su 
 Segundo.- Los municipios del Estado, en la medida de sus posibilidades deberán hacer ajustes presupuestarios necesarios para la aplicación de lo dispuesto en el párrafo quinto del artículo 36 del presente decreto.
 
 Tercero.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 3 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 227 POR EL QUE "SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 32 Y SE ADICIONAN LOS ARTÍCULOS 32 BIS; 32 TER; 32 QUATER; 32 QUINQUIES; 32 SEXIES; 32 SEPTIES; 32 OCTIES; 32 NOVIES; 32 DECIES; 32 UNDECIES; 32 DUODECIES; 32 TER DECIES; 32 QUATER DECIES; 32 QUINQUIES DECIES; 32 SEXIES DECIES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE".]
+
+Primero. El presente decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
