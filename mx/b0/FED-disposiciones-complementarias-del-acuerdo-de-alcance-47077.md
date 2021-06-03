@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-alcance-47077"
 country: "mx"
 rank: "otro"
 publication_date: "2000-04-17"
-last_updated: "2007-04-06"
+last_updated: "2021-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47077&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,54 +18,36 @@ scjn_last_update: "2022-08-26"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE ALCANCE PARCIAL No.38 (PARAGUAY, 1993)
 
-ACUERDO QUE MODIFICA EL SIMILAR QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS A MERCANCIAS DIVERSAS
+DECRETO POR EL QUE SE ABROGA EL DIVERSO QUE ESTABLECE LAS BASES CONFORME A LAS CUALES SE APLICARÁ EL ACUERDO DE ALCANCE PARCIAL NO. 38, SUSCRITO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPÚBLICA DEL PARAGUAY, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 17 DE ABRIL DE 2000
 
-Acuerdo publicado en el Diario Oficial de la Federación, el viernes 6 de abril de 2007.
+Decreto publicado en el Diario Oficial de la Federación, el jueves 3 de junio de 2021.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4 de la Ley Federal de Procedimiento Administrativo; 5o. fracciones III, V y X, 16 fracción III, 17, 20 y 21 de la Ley de Comercio Exterior; 1, numeral 4 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación de la Organización Mundial del Comercio; 18, 19, 20 y 22 del Reglamento de la Ley de Comercio Exterior; 4 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, 2o. y 4o., fracción I de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que en el marco de su política comercial y de mejora regulatoria, la Secretaría de Economía publicó en el Diario Oficial de la Federación del 9 de noviembre de 2005, el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, el cual ha sido reformado mediante diversos dados a conocer en el mismo órgano informativo los días 20 de diciembre de 2005; 29 de marzo, 2 de octubre y 26 de diciembre de 2006;
+Que el 28 de diciembre de 1980 el Senado de la República aprobó el Tratado de Montevideo 1980 (Tratado), cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración (ALADI);
 
-Que a efecto de otorgar seguridad jurídica en la aplicación de los criterios y requisitos para otorgar permisos previos, basados en los principios de transparencia, certidumbre, imparcialidad, mejora regulatoria y simplificación, el 31 de mayo de 2006 se publicó en el Diario Oficial de la Federación el Acuerdo que establece los criterios para otorgar permisos previos a mercancías diversas;
+Que en el marco del Tratado, los Estados Unidos Mexicanos y la República del Paraguay, suscribieron el 31 de mayo de 1993 el Acuerdo de Alcance Parcial de Renegociación No. 38 (Acuerdo de Alcance Parcial No. 38), mismo que establece diversas preferencias arancelarias aplicables a la importación de los productos originarios de sus respectivos territorios;
 
-Que con el objeto de simplificar los instrumentos de comercio exterior y evitar trámites innecesarios, el 2 de octubre de 2006 se publicó en el Diario Oficial de la Federación, el Acuerdo que modifica el similar que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, mediante el cual se liberó del cumplimiento de permiso previo aquellas fracciones arancelarias sujetas a doble regulación y aquéllas que se encuentran incluidas en algunos Acuerdos Regionales en el marco del Tratado de Montevideo de 1980, por lo que es necesario actualizar sus criterios;
+Que el 17 de abril de 2000 se publicó en el Diario Oficial de la Federación el Decreto que establece las bases conforme a las cuales se aplicará el Acuerdo de Alcance Parcial No. 38, suscrito entre los Estados Unidos Mexicanos y la República del Paraguay, reformado en diversos instrumentos publicados en el mismo medio de difusión el 17 de marzo y 7 de diciembre de 2005 y 5 de septiembre de 2006, con el fin de aplicar las preferencias arancelarias otorgadas por los Estados Unidos Mexicanos a la República del Paraguay, en el marco del referido Acuerdo;
 
-Que tratándose de diversos acuerdos comerciales de los que nuestro país es parte, es necesario reconocer, dentro del criterio para otorgar los permisos previos los antecedentes de importación, especialmente para los productos agropecuarios;
+Que el 27 de junio de 2014 la Organización Mundial de Aduanas adoptó la Sexta Enmienda al Sistema Armonizado de Designación y Codificación de Mercancías que incluye, entre otras, modificaciones a las notas legales, la eliminación de partidas o subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o restructuración de otras para identificar productos nuevos en el comercio mundial;
 
-Que es necesario dar a conocer el criterio para que diversos sectores de la región fronteriza norte puedan importar vehículos usados especiales para realizar sus actividades tanto comerciales, de servicios e industriales, sin tener que contratar los servicios de terceros propiciando con ello mejores condiciones para elevar su competitividad;
+Que para adoptar las modificaciones derivadas de la Sexta Enmienda señalada en el párrafo anterior, el 1 de julio de 2020 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación, y se reforman y adicionan diversas disposiciones de la Ley Aduanera (Decreto), en virtud del cual, en las disposiciones referentes a la Ley de los Impuestos Generales de Importación y de Exportación se establece la Tarifa con los aranceles aplicables a la importación y exportación de mercancías en el territorio nacional;
 
-Que adicionalmente, con el objeto de apoyar a los gobiernos estatales y municipales que se encuentran ubicados en la región fronteriza norte del país que realicen programas de servicios a la población, es conveniente establecer el criterio bajo el cual podrán realizar la importación de este tipo de vehículos usados, y
+Que de conformidad con el Transitorio Primero del referido Decreto, los artículos 1o. y 2o., fracciones I y II y reglas 1ª, 2ª y 4ª a 9ª de la Ley de los Impuestos Generales de Importación y de Exportación entraron en vigor el 28 de diciembre de 2020, y
 
-Que el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que en razón de lo anterior, el Decreto que establece las bases conforme a las cuales se aplicará el Acuerdo de Alcance Parcial No. 38, suscrito entre los Estados Unidos Mexicanos y la República del Paraguay, publicado en el Diario Oficial de la Federación el 17 de abril de 2000, no refleja las obligaciones asumidas por México en el marco del Acuerdo de Alcance Parcial No. 38, en términos de la Ley de los Impuestos Generales de Importación y de Exportación vigente, por lo que he tenido a bien expedir el siguiente
 
-ACUERDO QUE MODIFICA EL SIMILAR QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS A MERCANCIAS DIVERSAS
+DECRETO
 
-###### ARTICULO 1.
-
-Se modifican los numerales IV, V, VI y VII del artículo 3, el primero y segundo párrafo del artículo 4, y el numeral IV de la hoja de requisitos, y se derogan los numerales VIII y IX del artículo 3 y de la hoja de requisitos del Acuerdo que establece los criterios para otorgar permisos previos a mercancías diversas, publicado el 31 de mayo de 2006 en el Diario Oficial de la Federación, para quedar como siguen:
-
-“ARTICULO 3.-…
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTICULO 4.
-
-Las solicitudes de permiso previo a que se refiere el presente Acuerdo deberán presentarse en el formato SE-03-057 Solicitud de Permiso de Importación o Exportación y de Modificaciones en la ventanilla de atención al público de la representación federal de la Secretaría de Economía que le corresponda, adjuntando los requisitos específicos a que se refiere la hoja de requisitos anexa al presente Acuerdo.
-
-Este formato estará disponible en las representaciones federales de la Secretaría o en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-057-A
-
-...”.
+Único.- Se abroga el Decreto que establece las bases conforme a las cuales se aplicará el Acuerdo de Alcance Parcial No. 38, suscrito entre los Estados Unidos Mexicanos y la República del Paraguay, publicado en el Diario Oficial de la Federación el 17 de abril de 2000 y reformado en diversos instrumentos publicados en el mismo medio de difusión el 17 de marzo y 7 de diciembre de 2005 y el 5 de septiembre de 2006.
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-HOJA DE REQUISITOS
-
-(VEASE ARCHIVO ANEXO)
-
-México, D.F., a 27 de marzo de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Arturo Herrera Gutiérrez.- Rúbrica.- La Secretaria de Economía, Tatiana Clouthier Carrillo.- Rúbrica.
