@@ -4,7 +4,7 @@ identifier: "LDRS"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2021-01-07"
+last_updated: "2021-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDRS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2021.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2001.
 
@@ -1846,9 +1846,11 @@ El Gobierno Federal, de acuerdo con lo establecido en el artículo 110 de esta L
 
 La Comisión lntersecretarial, con la participación activa de los consejos mexicano, estatales y regionales, y demás agentes y sujetos intervinientes en el desarrollo rural sustentable, serán los responsables de evaluar el cumplimiento de lo establecido en el artículo anterior de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2021)</small>
+
 ###### Artículo 182.
 
-Las acciones para la soberanía y la seguridad alimentaria deberán abarcar a todos los productores y agentes intervinientes, impulsando la integración de las cadenas productivas de alimentos.
+Las acciones para la soberanía y la seguridad alimentaria deberán abarcar a todos los productores y agentes intervinientes, de manera prioritaria a los pequeños productores en condiciones de pobreza, impulsando la integración de las cadenas productivas de alimentos.
 
 ###### Artículo 183.
 
@@ -2073,3 +2075,9 @@ D.O.F. 7 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 3o. DE LA LEY DE DESARROLLO RURAL SUSTENTABLE”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 182 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
