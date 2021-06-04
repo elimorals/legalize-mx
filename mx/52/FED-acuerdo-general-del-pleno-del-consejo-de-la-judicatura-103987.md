@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2020-11-27"
+last_updated: "2021-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2021.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -721,7 +721,9 @@ II. Haya laborado en la o las plazas respectivas de base, ininterrumpidamente, d
 
 III. Durante los primeros seis meses de las labores desarrolladas en la o las plazas de base, no exista nota desfavorable en su contra.
 
-Se entenderá por nota desfavorable lo dispuesto en el artículo 82, fracción III, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales; y
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE JUNIO DE 2021)</small>
+
+Se entenderá por nota desfavorable lo dispuesto en el artículo 85, fracción III, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales; y
 
 IV. Al cumplirse más de seis meses en el desarrollo de labores en una o más plazas de base, se encuentre alguna de ellas vacante en definitiva, es decir, sin titular a quien se haya otorgado nombramiento definitivo.
 
@@ -13534,3 +13536,11 @@ DÉCIMO. Las nuevas categorías previstas para la Carrera Judicial entrarán en 
 DECIMOPRIMERO. Los plazos para el llenado del Padrón Electrónico de Relaciones Familiares empezarán a correr a partir de la entrada en vigor del presente Acuerdo, reiniciando los previstos originalmente cuando se aprobó el citado Padrón, y reconociendo la validez de los registros que ya se hubieren realizado.
 
 DECIMOSEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 4 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
