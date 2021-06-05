@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2021-03-27"
+last_updated: "2021-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -418,6 +418,14 @@ Para ser miembro de un Ayuntamiento se requiere satisfacer los requisitos del ar
 La instalación del Ayuntamiento se hará en sesión solemne, misma en la que el Presidente Municipal electo rendirá la protesta de ley en los términos siguientes: “protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de Presidente Municipal que el municipio me ha conferido y si no lo hiciere así, que la Nación, el Estado y el Municipio me lo demanden”. Acto seguido, tomará la protesta a los demás concejales. La sesión se celebrará a las diez horas del día primero de enero del año siguiente al de su elección, en el lugar de costumbre.
 
 Para el acto a que se refiere el párrafo anterior, el Ayuntamiento en funciones podrá convocar a los concejales electos.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 36 BIS.- Una vez realizado lo establecido en el artículo anterior, el Presidente Municipal convocará a los integrantes del Ayuntamiento a la primera Sesión Ordinaria de cabildo, para la instalación formal del Ayuntamiento y para la asignación de regidurías de los integrantes de representación proporcional, así como para la integración de las comisiones; misma que se llevará a cabo a las doce horas del día primero de enero del primer año de su gestión.
+
+Así mismo en términos de la presente ley a los municipios que se rigen por partidos políticos, en la primera sesión ordinaria de cabildo, a la planilla ganadora le serán reconocidos las regidurías en el orden de prelación en que fueron enlistados.
+
+La presidencia municipal, sindicatura y hacienda les serán reconocidas en el orden de prelación en que fueron enlistados, las demás comisiones serán asignadas entre los demás concejales por acuerdo de cabildo.
 
 ###### ARTÍCULO 37.
 
@@ -1173,6 +1181,10 @@ IX.- La violencia política ejercida por razón de género, decretada por un ór
 
 X.- Desacatar las medidas sanitarias o protocolos de salud pública, tratándose de emergencias sanitarias, epidemias, o cualquier crisis de salud.
 
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+XI.- El no tomar protesta de ley a los concejales electos bajo el principio de representación proporcional y asignarle su regiduría correspondiente, conforme a lo establecido en la Ley de Instituciones Políticas y Procedimientos Electorales del Estado de Oaxaca.
+
 ###### ARTÍCULO 62.
 
 Compete exclusivamente al Congreso del Estado declarar la suspensión o desaparición de un Ayuntamiento, así como la suspensión o revocación del mandato de uno o más de sus integrantes.
@@ -1181,21 +1193,47 @@ Compete exclusivamente al Congreso del Estado declarar la suspensión o desapari
 
 La solicitud para estos casos deberá presentarse ante la Secretaría de Servicios Parlamentarios del Congreso del Estado. Podrá ser formulada por el Titular del Ejecutivo del Estado, por los legisladores locales, por los integrantes del ayuntamiento respectivo o por los ciudadanos vecinos del municipio.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 63.
 
-El escrito de solicitud, deberá contar por lo menos con los siguientes requisitos:
+El escrito de solicitud, deberá contar con los siguientes requisitos:
 
-I.- Nombre del solicitante y domicilio que señale para recibir notificaciones en la capital del Estado de Oaxaca, para que se practiquen las diligencias necesarias, así como la designación de persona para recibirla;
+I.- Nombre y firma del solicitante, señalar domicilio para oír y recibir notificaciones en la capital del estado de Oaxaca, así como la designación de persona para recibirlas, si el solicitante omite señalar domicilio para que se practiquen las diligencias necesarias, están (sic) se llevarán a cabo por estrados.
 
-II.- Tratándose de particulares, deberán acreditar su vecindad;
+II.- Tratándose de los funcionarios que se mencionan en el artículo anterior, deberán acreditar la personalidad con la que actúan. En caso de particulares deberán acreditar su vecindad;
 
 III.- Nombre, domicilio y cargo que desempeñe en el ayuntamiento, la persona o personas en contra de las cuales se dirige la pretensión;
 
-IV.- El o los actos en que se funda la solicitud; y
+IV.- Mencionar de manera clara y precisa el o los actos en que se funda la solicitud;
 
-V.- Las pruebas que sirven de base a la petición y anunciar aquéllas que requieren término para su desahogo;
+V.- Ofrecer las pruebas que sirven de base a la petición, las que deban requerirse, enunciar aquéllas que requieren término para su desahogo y las que justifique que oportunamente solicitó por escrito al órgano competente y estas no le hubiesen sido entregadas; y
 
-VI.- A la solicitud deberán acompañarse para efectos de emplazamiento copias simples de cada uno de los documentos exhibidos.
+VI.- A la solicitud deberán acompañarse para efectos de emplazamiento y traslado las copias simples de cada uno de los documentos exhibidos.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 63 BIS.- La solicitud de suspensión y desaparición del Ayuntamiento y suspensión o revocación de mandato de alguno de sus miembros serán improcedentes y desechados de plano cuando:
+
+1.- Del Desechamiento
+
+I.- No afecte el interés jurídico del solicitante.
+
+II.- Que el funcionario solicitante no acredite la personalidad con que la actúa; y en caso de particulares no acrediten su vecindad.
+
+III.- No se haga constar el nombre y firma del promovente.
+
+IV.- Su escrito resulte evidentemente frívolo o de la lectura de los hechos no se pueda deducir agravio alguno.
+
+2.- El Sobreseimiento
+
+I.- Cuando el solicitante se desista por escrito, mismo que deberá ratificar ante la Comisión Permanente de Gobernación y Asuntos Agrarios, advertido que en caso de no hacerlo se le tendrá por ratificado.
+
+II.- Que la autoridad municipal modifique o revoque el acto del que se le señala, de tal forma que este quede sin materia,
+
+III.- El solicitante fallezca o sea privado o suspendido de sus derechos político electorales.
+
+IV.- El acto que se señala haya dejado de existir.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
@@ -1203,29 +1241,33 @@ VI.- A la solicitud deberán acompañarse para efectos de emplazamiento copias s
 
 El Titular de la Secretaría de Servicios Parlamentarios dará cuenta al Pleno del Congreso del Estado o en su caso a la Diputación Permanente de la solicitud y anexos presentados, para que se turne a la Comisión Permanente de Gobernación y Asuntos Agrarios. Esta Comisión estará a cargo de la instrucción del caso, en su actuación deberá cuidar que se cumplan las formalidades del procedimiento y se respete la garantía de audiencia.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 65.
 
-El procedimiento y las reglas que observara en el mismo serán las siguientes:
+El procedimiento y las reglas que observará en el mismo serán las siguientes:
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+A) Una vez radicado el expediente en la Comisión Permanente de Gobernación y Asuntos Agrarios, determinará si la solicitud satisface los requisitos establecidos en la presente Ley; la Comisión puede prevenir a los solicitantes para que, en un plazo no mayor de tres días hábiles después de haber sido legalmente notificados, subsanen algún requisito, de no hacerlo se procederá en términos de la presente Ley.
 
-A) Una vez radicado el expediente en la Comisión Permanente de Gobernación y Asuntos Agrarios, ésta determinará si la solicitud satisface los requisitos de ley; puede también la Comisión prevenir a los solicitantes que subsanen algún requisito.
+B) La Comisión citará a los solicitantes para ratificar su petición, concediendo un plazo de tres días hábiles, si no lo hicieren se tendrá por no presentada y se desechará de plano.
 
-B) Satisfechos los requisitos de la solicitud, la Comisión citará a los denunciantes para ratificarla. Si así lo hicieren, la Comisión ordenará notificar personalmente, correr traslado y emplazar a él o a los integrantes del Ayuntamiento, para que en un término de diez días produzcan su contestación, so pena de declararlos en rebeldía y presuntamente confesos.
+La Comisión hará excepción de la ratificación, cuando la solicitud sea consecuencia del incumplimiento o inejecución de una resolución judicial en materia electoral o por el incumplimiento de una resolución en materia de Transparencia y Acceso a la Información Pública, dictada por el órgano garante de transparencia del Estado, o el órgano garante a nivel nacional.
 
-Si transcurrido el plazo para contestar sin que se hubiere producido ésta, y sin necesidad de acuse, se hará la declaración de rebeldía y se presumirán confesos los hechos de la solicitud que se dejaron de contestar.
+Hecha la ratificación, la Comisión ordenará notificar personalmente, correr traslado y emplazar a él o a los integrantes del Ayuntamiento, para que en un término de diez días produzcan su contestación, so pena de declararlos en rebeldía y presuntamente confesos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE AGOSTO DE 2019)</small>
+Para efectos del párrafo anterior la Comisión podrá hacer uso de los medios electrónicos y tecnológicos que estén en su alcance.
 
-C) Concluido el plazo para de (sic) la contestación, la Comisión Permanente de Gobernación y Asuntos Agrarios dentro de los diez días siguientes fijará día y hora para una audiencia de pruebas, la cual se efectuará ante el Presidente de la Comisión y los integrantes de ésta que deseen estar presentes. Si las pruebas ofrecidas en la audiencia lo requieren se fijará un término de hasta veinte días naturales para su desahogo.
+Si transcurrido el plazo para contestar sin que se hubiere producido está, y sin necesidad de acuse, se hará la declaración de rebeldía y se presumirán confesos los hechos de la solicitud que dejaron de contestar.
+
+En este procedimiento las partes podrán asistirse de un abogado.
+
+C) Concluido el plazo para la contestación, la Comisión fijará el día y hora para una audiencia de pruebas, la cual se efectuará ante el presidente de la Comisión y los integrantes de esta que deseen estar presentes. Si las pruebas ofrecidas en la audiencia lo requieren se fijará un termino de hasta veinte días naturales para el desahogo.
 
 Podrán aceptarse pruebas supervenientes a juicio de la Comisión cuando fuesen desconocidas a la fecha de la presentación de la solicitud o habiéndose anunciado hubiesen motivos justificados para no haberlos exhibido en tiempo. La Comisión, en todo tiempo tiene amplia facultad para allegarse los elementos probatorios que estime eficaces e idóneos.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+D) Una vez agotado el término de prueba, se concederá a las partes un término de cinco días para presentar por escrito sus alegatos. Transcurrido este término, la Comisión Permanente de gobernación y Asuntos Agrarios, formulará su dictamen dentro de un plazo de veinte días hábiles, el cual puede ser ampliado por autorización expresa del Congreso. El dictamen debe satisfacer los requisitos de una resolución judicial, resultandos, considerandos y puntos resolutivos.
 
-D) Una vez agotado el término de prueba, se concederá a las partes un término de cinco días para presentar por escrito sus alegatos. Trascurrido este término, la Comisión Permanente de Gobernación y Asuntos Agrarios formulará su dictamen dentro de un plazo de veinte días naturales, el cual puede ser ampliado por autorización expresa del Congreso. El dictamen debe satisfacer los requisitos de una resolución judicial, resultandos, considerandos y puntos resolutivos.
-
-E) El dictamen con propuesta de suspensión o desaparición de ayuntamiento, suspensión o revocación de mandato de alguno de sus integrantes, requerirá para su aprobación del voto de las dos terceras partes de los Diputados que integran el Congreso del Estado. La resolución del Congreso se publicará en el Periódico Oficial de Estado. En este procedimiento la parte demandada podrán (sic) asistirse de abogado.
+E) El dictamen con propuesta de suspensión o desaparición de ayuntamiento, suspensión o revocación de mandato alguno de sus integrantes, requerirá para su aprobación del voto de las dos terceras partes de los Diputados que integran el Congreso del Estado. La resolución del Congreso se publicará en el Periódico Oficial del Estado.
 
 F) Para lo no previsto en el presente Capítulo, se aplicará de manera supletoria en los actos de notificación y desahogo de pruebas, el Código de Procedimientos Civiles del Estado.
 
@@ -4088,3 +4130,11 @@ P.O. 27 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2368.- MEDIANTE EL CUAL SE ADICIONA UN CUARTO PÁRRAFO A LA FRACCIÓN XLII DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2415.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULO (SIC) 63 Y 65; Y SE ADICIONAN EL ARTÍCULO (SIC) 36BIS (SIC), 63 BIS Y LA FRACCIÓN XI DEL ARTÍCULO 61 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Publíquese (sic) en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
