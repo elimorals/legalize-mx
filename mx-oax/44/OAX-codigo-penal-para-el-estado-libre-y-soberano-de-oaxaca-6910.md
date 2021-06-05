@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2021-05-22"
+last_updated: "2021-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1181,11 +1181,15 @@ La Procuraduría podrá promover ante la autoridad judicial, cuando vea amenazad
 
 Reparación del daño.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2021)</small>
 
-27.- La reparación del daño debe ser integral, adecuada, eficaz, efectiva, proporcional a la gravedad del daño causado y a la afectación sufrida, comprenderá cuando menos:
+27.- La reparación del daño debe ser oportuna, plena, diferenciada, transformadora, integral, adecuada, eficaz, efectiva, expedita, justa, proporcional a la gravedad del daño causado y a la afectación sufrida, como consecuencia de un delito o de las violaciones de derechos humanos que han sufrido, comprenderá cuando menos:
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
 
 I. La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma, a su valor actualizado;
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
 
 II. La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
 
@@ -1193,9 +1197,15 @@ II. La indemnización del daño material y moral causado, incluyendo la atenció
 
 III. El resarcimiento de los perjuicios ocasionados o el lucro cesante, incluyendo el pago de los salarios o percepciones correspondientes, cuando por lesiones cause incapacidad temporal o permanente para trabajar en oficio, arte o profesión;
 
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
+
 IV. El pago de la pérdida de ingreso económico y lucro cesante, para ello se tomará como base el salario que en el momento de sufrir el delito tenía la víctima y en caso de no contar con esa información, será conforme al salario mínimo vigente;
 
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
+
 V. El costo de la pérdida de oportunidades, en particular el empleo, educación y prestaciones sociales, acorde a sus circunstancias,
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
 
 VI. La declaración que restablezca la dignidad y reputación de la víctima, a través de medios electrónicos o escritos;
 
@@ -1219,6 +1229,8 @@ X. El pago de los gastos y costas judiciales del asesor jurídico cuando éste s
 
 XI. Los gastos comprobables de transporte, alojamiento, comunicación o alimentación que le ocasione el trasladarse al lugar del juicio o para asistir a su tratamiento, si la víctima reside en un municipio o lugar distinto al del enjuiciamiento o donde recibe la atención.
 
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
+
 Los medios para la rehabilitación deben ser lo más completos posible, y deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)</small>
@@ -1237,13 +1249,11 @@ La indemnización a que se refiere el párrafo anterior, no puede ser inferior a
 
 29.- A falta de pruebas específicas para fijar el monto de la reparación del daño:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JUNIO DE 2021)</small>
 
-I.- En caso de homicidio y feminicidio, los jueces, para calcular el monto de la reparación, tomarán como base la Unidad de Medida y Actualización, y las disposiciones establecidas en el artículo 502 de la Ley Federal del Trabajo, en materia de indemnizaciones en caso de muerte por riesgo de trabajo.
+I.- En caso de homicidio y feminicidio, los jueces, para calcular el monto de la reparación, tomarán como base la Unidad de Medida y Actualización, y las disposiciones establecidas en el artículo 502 de la Ley Federal del Trabajo, en materia de indemnizaciones en caso de muerte por riesgo de trabajo. Esta disposición también se aplicará aun cuando la víctima u ofendido fuere menor de edad, persona con alguna discapacidad o pertenezca a un grupo en situación de vulnerabilidad.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
-
-Tratándose de menores de dieciocho años o de incapacitados, que no contribuyan económicamente al sustento familiar, el monto será la cantidad equivalente al importe de setecientos noventa veces, calculada sobre el valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE JUNIO DE 2021)</small>
 
 > <small>(REFORMADA PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
@@ -7498,3 +7508,11 @@ P.O.22 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2457.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 122 BIS, ADICIONA LA DENOMINACIÓN DELITO DEL CAPÍTULO IV "PEDERASTIA”, AL TÍTULO SEXTO DEL LIBRO SEGUNDO; REFORMA DEL ARTÍCULO 202; SE ADICIONAN LAS FRACCIONES IV Y V, Y SE DEROGAN LOS PÁRRAFOS TERCERO Y QUINTO DEL ARTÍCULO 241, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1793.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 27; EL PÁRRAFO PRIMERO DE LA FRACCIÓN I DEL ARTÍCULO 29; SE DEROGA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN I DEL ARTÍCULO 29 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
