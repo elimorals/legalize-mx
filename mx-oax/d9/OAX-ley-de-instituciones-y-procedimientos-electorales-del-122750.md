@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2021-03-27"
+last_updated: "2021-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -153,37 +153,45 @@ XXIX.- Sistema normativo indígena: Es el conjunto de principios, normas orales 
 
 XXX.- Tribunal: El Tribunal Electoral del Estado de Oaxaca;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XXXI.- La violencia política contra las mujeres en razón de género: Es toda acción u omisión, realizada por sí o por interpósita, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el reconocimiento o ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+XXXI.- Usurpación de identidad de género: el acto mediante el cual un ciudadano o persona se autoadscribe de manera mendaz a género diverso al propio, con el fin de beneficiarse de las acciones afirmativas para cumplir con el requisito de paridad de género y alternancia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JUNIO DE 2021)</small>
+
+XXXII.- La violencia política contra las mujeres en razón de género: Es toda acción u omisión, realizada por sí o por interpósita (sic), incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el reconocimiento o ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas funciones o cargos públicos del mismo tipo.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
 Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer, le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General y Estatal de Acceso de las Mujeres a una Vida Libre de Violencia y puede ser perpetrada indistintamente por agentes estatales, superiores jerárquicos, colegas de trabajo, servidores públicos, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus Integrantes, por un particular o por un grupo de personas particulares; así como por asambleas comunitarias, autoridades municipales y/o autoridades comunitarias;
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General y Estatal de Acceso de las Mujeres a una Vida Libre de Violencia y puede ser perpetrada indistintamente por agentes estatales, superiores jerárquicos, colegas de trabajo, servidores públicos, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares; así como por asambleas comunitarias, autoridades municipales y/o autoridades comunitarias;
 
 > <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-XXXII.- Votación estatal efectiva: La que resulte de deducir de la votación estatal valida emitida los votos de los partidos políticos a los que se les aplicó alguno de los limites establecidos en el artículo 33 fracción V de la Constitución Política del Estado Libre y Soberano de Oaxaca, en relación con el artículo 23, apartado 1, párrafo cuarto, de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca;
+XXXIII.- Votación estatal efectiva: La que resulte de deducir de la votación estatal valida emitida los votos de los partidos políticos a los que se les aplicó alguno de los limites establecidos en el artículo 33 fracción V de la Constitución Política del Estado Libre y Soberano de Oaxaca, en relación con el artículo 23, apartado 1, párrafo cuarto, de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca;
 
 > <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-XXXIII.- Votación estatal válida emitida: La que resulte de deducir de la votación total emitida los votos a favor de los partidos políticos que no hayan obtenido el tres por ciento de dicha votación los votos emitidos para candidatos independientes y los votos nulos.
+XXXIV.- Votación estatal válida emitida: La que resulte de deducir de la votación total emitida los votos a favor de los partidos políticos que no hayan obtenido el tres por ciento de dicha votación los votos emitidos para candidatos independientes y los votos nulos.
 
 > <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-XXXIV.- Votación total emitida: La suma de todos los votos depositados en la urna, en tratándose de la votación de diputados y diputadas plurinominales se incluirán los votos emitidos en las casillas especiales;
+XXXV.- Votación total emitida: La suma de todos los votos depositados en la urna, en tratándose de la votación de diputados y diputadas plurinominales se incluirán los votos emitidos en las casillas especiales;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+XXXVI.- Votación Valida Emitida: La que resulte de deducir de la suma de todos los votos depositados en las urnas los votos nulos y los correspondientes a candidatos no registrados, y
 
 > <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-XXXV.- Votación Valida Emitida: La que resulte de deducir de la suma de todos los votos depositados en las urnas los votos nulos y los correspondientes a candidatos no registrados y
-
-> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
-
-XXXVI.- Voto nulo: Es una boleta electoral que fue utilizada y al que la mesa directiva de casilla y la autoridad electoral le atribuye tal carácter, por no cumplir con las características que esta Ley establece, en el escrutinio y cómputo, y lo asienta en el acta respectiva
+XXXVII.- Voto nulo: Es una boleta electoral que fue utilizada y al que la mesa directiva de casilla y la autoridad electoral le atribuye tal carácter, por no cumplir con las características que esta Ley establece, en el escrutinio y cómputo, y lo asienta en el acta respectiva.
 
 > <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
 
-XXXVII.- lnterculturalidad: Implica tomar en cuenta las distintas visiones, perspectivas e intereses que se vean involucrados en el proceso de consulta, a fin de generar las condiciones necesarias que hagan posible que los proyectos o leyes con expresiones culturales e intereses diversos, se vuelvan compartidos y benéficos para las partes.
+XXXVIII.- Interculturalidad: Implica tomar en cuenta las distintas visiones, perspectivas e intereses que se vean involucrados en el proceso de consulta, a fin de generar las condiciones necesarias que hagan posible que los proyectos o leyes con expresiones culturales e intereses diversos, se vuelvan compartidos y benéficos para las partes.
 
 Artículo 3
 
@@ -3513,6 +3521,10 @@ Artículo 188
 
 2.- En la misma forma se publicarán y difundirán las cancelaciones de registros o sustituciones de candidatos.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2021)</small>
+
+3.- En caso que algún partido político, candidato o ciudadano advierta la posible usurpación de identidad de género por parte de un candidato, deberá denunciarlo ante la instancia correspondiente para su substanciación.
+
 Artículo 189
 
 Para la sustitución de candidatos, los partidos políticos, candidatos comunes y coaliciones lo solicitarán por escrito al Consejo General del Instituto Estatal, observando las siguientes disposiciones:
@@ -6108,3 +6120,11 @@ P.O. 27 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 2366.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 52; EL PRIMER PÁRRAFO DEL NUMERAL 6 DEL ARTÍCULO 273; Y EL NUMERAL 1 DEL ARTÍCULO 278, ASÍ COMO LA ADICIÓN DE LA FRACCIÓN XX AL ARTÍCULO 32 RECORRIÉNDOSE LAS SUBSECUENTES, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1565.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XXXI, RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 2 Y EL NUMERAL 3 AL ARTÍCULO 188, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
