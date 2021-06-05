@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2021-05-20"
+last_updated: "2021-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1792,6 +1792,10 @@ A petición de alguno de los ascendientes, la recepción y entrega de la o el me
 > <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
 ARTICULO 269 BIS. Al ostentador de la custodia que reiterada e injustificadamente incurra en desacato de un mandato judicial que lo obligue a permitir la convivencia del menor con el no custodio, o bien con los demás parientes que tengan derecho a ello; en aras del interés superior del menor, le será suspendido de inmediato el ejercicio de la custodia, para poner al menor bajo el cuidado de la persona a quien se esté negando el derecho de convivencia, previa aceptación y compromiso ante la autoridad judicial, de cumplir con las obligaciones que implica el ejercicio de la custodia.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2021)</small>
+
+Para lo señalado en el párrafo anterior, la o el juez de lo Familiar, una vez que tenga conocimiento de ello, deberá de allegarse de las pruebas que hagan constar que se está coartando el derecho de convivencia que tiene la o el menor con sus progenitores, o familiares, y viceversa, y al cerciorarse que existen las condiciones para ello, se decretará el cambio de guarda y custodia, tomando las previsiones necesarias según sea el caso, velando siempre por el interés superior del menor.
 
 ###### ARTICULO 270.
 
@@ -3652,5 +3656,13 @@ P.O. 20 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1173.- SE REFORMA EL ARTÍCULO 103, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1187.- SE ADICIONA AL ARTÍCULO 269 BIS EL PÁRRAFO SEGUNDO, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
