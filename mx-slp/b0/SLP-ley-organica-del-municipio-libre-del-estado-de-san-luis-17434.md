@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2021-02-26"
+last_updated: "2021-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -2677,6 +2677,8 @@ En todo lo referente a la declaración de la situación patrimonial, se observar
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 167.
 
 Por el incumplimiento de las funciones públicas previstas en esta Ley, se impondrán a los servidores públicos municipales, las sanciones señaladas por la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
@@ -2685,7 +2687,7 @@ Por el incumplimiento de las funciones públicas previstas en esta Ley, se impon
 
 ###### ARTICULO 168.
 
-Las personas afectadas por resoluciones definitivas dictadas con fundamento en esta Ley, podrán interponer en su favor los recursos que establezca la Ley de Procedimiento Administrativo de los Municipios del Estado de San Luis Potosí.
+Las personas afectadas por resoluciones definitivas dictadas con fundamento en esta Ley, podrán interponer en su favor los recursos que establezca el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ## TRANSITORIOS
 
@@ -3304,3 +3306,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Las solicitudes que se encuentren en trámite ante el Congreso del Estado deberán declararse sin materia, y remitir la documentación exhibida al ayuntamiento solicitante.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1186.-SE REFORMA EL ARTÍCULO 168, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que (sic) opongan al presente Decreto.
