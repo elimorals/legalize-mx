@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2020-12-15"
+last_updated: "2021-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -713,11 +713,11 @@ VII. No pertenecer o haber pertenecido en los cuatro años anteriores a su desig
 
 VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 40.
 
-La persona titular del Órgano Interno de Control será elegida, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros presentes. Durará en su encargo cuatro años, y no podrá ser reelecta; así mismo, no podrá ser removida sino por los casos y causas que establezcan las leyes de la materia.
+La persona titular del Órgano Interno de Control será elegida, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros presentes. Durará en su encargo cuatro años, y podrá ser reelecta por una sola ocasión; así mismo, no podrá ser removida sino por los casos y causas que establezcan las leyes de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
@@ -3170,5 +3170,13 @@ P.O. 15 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0954- SE REFORMA EL ARTÍCULO 87 EN SU FRACCIÓN III, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor el diez de febrero del año 2021, previa publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1184.- SE REFORMA EL ARTÍCULO 40, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
