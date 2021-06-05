@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-72604
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-18"
-last_updated: "2020-12-12"
+last_updated: "2021-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 18 de julio de 2009.
 
@@ -985,9 +985,9 @@ La SEMAEDESO, en coordinación con los Ayuntamientos interesados, instrumentará
 
 Las dependencias y entidades de los Gobiernos estatal y municipales, así como los órganos autónomos, establecerán en sus oficinas y dependencias sistemas de manejo ambiental, los cuales tendrán por objeto prevenir y minimizar la generación de residuos sólidos urbanos, su manejo responsable y su reutilización y reciclaje.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
 
-En sus procesos de adquisiciones de bienes y servicios, dichas dependencias, entidades y órganos autónomos optarán por productos amigables con el ambiente. La Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable vigilará el cumplimiento de ello.
+En sus procesos de adquisiciones de bienes y servicios, dichas dependencias, entidades y órganos autónomos optarán por productos amigables con el ambiente, elaborados preferentemente por artesanas y artesanos, mujeres, jóvenes, personas con discapacidad y empresas locales. La Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable vigilará el cumplimiento de ello.
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2019)</small>
 
@@ -1413,7 +1413,9 @@ IV. Incumplir la realización y ejecución de las medidas correctivas, de seguri
 
 Las infracciones establecidas en el artículo anterior, serán sancionadas administrativamente por la SEMAEDESO y/o la autoridad municipal correspondiente en el ámbito de sus competencias, en la resolución que ponga fin al procedimiento de inspección respectivo, con una o más de las siguientes sanciones:
 
-I. Multa por el equivalente de diez a cincuenta mil días de salario mínimo general vigente en el Estado al momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+I. Multa por el equivalente de diez a cincuenta mil días de la Unidad de Medida y Actualización vigente al momento de imponer la sanción;
 
 II. La suspensión o revocación de las concesiones o autorizaciones correspondientes;
 
@@ -1481,11 +1483,13 @@ En los casos en que se imponga como sanción la clausura temporal, la SEMAEDESO 
 
 La SEMAEDESO y/o la autoridad municipal correspondiente dará a los bienes decomisados alguno de los siguientes destinos:
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-l. Venta a través de invitación a cuando menos tres compradores, en aquellos casos en que el valor de lo decomisado no exceda de 5 mil veces el salario mínimo general vigente en el Estado al momento de imponer la sanción. Si dichos invitados no comparecen el día señalado para la venta o sus precios no fueren aceptados, la SEMAEDESO y/o la autoridad municipal correspondiente podrá proceder a su venta directa; y
+l. Venta a través de invitación a cuando menos tres compradores, en aquellos casos en que el valor de lo decomisado no exceda de 5 mil veces la Unidad de Medida de Actualización vigente al momento de imponer la sanción. Si dichos invitados no comparecen el día señalado para la venta o sus precios no fueren aceptados, la SEMAEDESO y/o la autoridad municipal correspondiente podrá proceder a su venta directa; y
 
-II. Remate en subasta pública cuando el valor de lo decomisado exceda de 5 mil veces el salario mínimo general vigente en el Estado al momento de imponer la sanción.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+II. Remate en subasta pública cuando el valor de lo decomisado exceda de 5 mil veces la Unidad de Medida de Actualización vigente al momento de imponer la sanción.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
@@ -1652,3 +1656,19 @@ P.O. 12 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2411.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 68 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2412.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 108; Y LAS FRACCIONES I Y II DEL ARTÍCULO 112 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS".]
+
+PRIMERO. - El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
