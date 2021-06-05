@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2020-12-19"
+last_updated: "2021-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -47,9 +47,11 @@ Esta Ley tiene por objeto establecer la organización y funcionamiento del Poder
 
 El Poder Legislativo del Estado se deposita en una Asamblea de Diputados que se denomina Honorable Congreso del Estado, integrado por representantes populares electos democráticamente cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 2.
 
-Son principios rectores del Congreso del Estado de Oaxaca: la transparencia, máxima publicidad, rendición de cuentas, austeridad, eficiencia, eficacia, independencia, interculturalidad e imparcialidad, por lo que todo acto o determinación de sus órganos garantizarán la observancia de los mismos.
+Son principios rectores del Congreso del Estado de Oaxaca: la transparencia, máxima publicidad, rendición de cuentas, austeridad, eficiencia, eficacia, independencia, interculturalidad, imparcialidad y la perspectiva de género, por lo que todo acto o determinación de sus órganos garantizarán la observancia de los mismos.
 
 ###### ARTÍCULO 3.
 
@@ -691,7 +693,9 @@ VIII. Participar a solicitud de las comisiones permanentes y especiales en la re
 
 IX. Proponer al Pleno el proyecto del presupuesto anual de egresos del Congreso, en términos de la normatividad aplicable;
 
-X. Integrar la propuesta que se pondrá a consideración del Pleno para la designación de los Titulares de las Secretarías de Servicios Parlamentarios, Servicios Administrativos así como del Titular del Órgano Interno de Control, e informar sobre la renuncia, remoción o licencia de éstos;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+X. Observando el principio de paridad de género se pondrá a consideración del Pleno, la integración de la propuesta sobre la designación de los Titulares de las Secretarias de Servicios Parlamentarios, Servicios Administrativos, así como del Titular del Órgano Interno de Control, e informar sobre la renuncia, remoción o licencia de éstos;
 
 XI. Recibir informes periódicos de gestión de los servidores públicos mencionados en la fracción anterior en términos de lo dispuesto en la presente Ley;
 
@@ -733,7 +737,9 @@ IV. Solicitar a las (sic) Secretaría de Servicios Parlamentarios y a la Secreta
 
 V. Expedir los nombramientos de los servidores públicos del Poder Legislativo, designados por el Pleno.
 
-VI. Nombrar y remover, previo acuerdo de la Jucopo, al personal del Congreso y cubrir las vacantes que resulten necesarias para el servicio de la Legislatura, en los casos que no sea competencia del Pleno;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+VI. Nombrar y remover, previo acuerdo de la Jucopo al personal del Congreso y cubrir las vacantes que resulten necesarias para el servicio de la Legislatura, observando el principio de paridad de género, en los casos que no sea competencia del Pleno;
 
 VII. Resolver sobre licencias y renuncias de los servidores públicos del Congreso cuando no hayan sido designados por el Pleno;
 
@@ -1536,3 +1542,13 @@ P.O. 19 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1729.- MEDIANTE EL CUAL REFORMAN EL ARTÍCULO 2, LA FRACCIÓN X DEL ARTÍCULO 48 Y LA FRACCIÓN VI DEL ARTÍCULO 49 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 13 de noviembre del año 2021.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. La Sexagésima Cuarta Legislatura del Honorable Congreso del Estado de Oaxaca, tendrá un plazo improrrogable de ocho meses para realizar las modificaciones correspondientes a la normatividad interna, a partir de la publicación de este Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
