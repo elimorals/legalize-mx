@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2021-01-16"
+last_updated: "2021-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -87,55 +87,95 @@ f) Participar en talleres, exposiciones, muestras culturales, artísticas y/o de
 
 g) Las demás que determine la autoridad correspondiente.
 
-II. Conductor: A la persona que conduce un vehículo terrestre en cualquiera de sus modalidades, o que tiene control físico sobre él, cuando éste se encuentra en movimiento;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-III. Delegados Regionales: A los encargados de coordinar las acciones de tránsito, movilidad y vialidad en las regiones del Estado;
+II. Banqueta: La porción de vía destinada a la movilidad peatonal para permitir accesos cómodos, seguros y universalmente accesibles, generalmente comprendida entre el arroyo de circulación de vehículos y el alineamiento de las propiedades.
 
-IV. Dispositivos para el control de la vialidad: A los elementos de diversa índole empleados para regular y guiar el tránsito de peatones y vehículos, tales como semáforos, señalizaciones viales, reductores de velocidad, medios electrónicos, instrumentos tecnológicos y otros similares;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-V. Director: Al Director General de la Policía Vial Estatal de la Secretaría de Seguridad Pública;
+III. Bicicleta: Vehículo impulsado directamente por la fuerza humana, que consta de dos o más ruedas alineadas, donde una o más personas se pueden sentar o montar sobre asientos. Se considerará como un medio de transporte cuando se le utilice en la vía pública;
 
-VI. Estado de ebriedad: Cuando los conductores o peatones tengan una cantidad superior a 0.8 gramos por litro de alcohol en la sangre o una cantidad superior a 0.4 miligramos por litro de alcohol en aire espirado;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-VII. Encierro: Al lugar autorizado, propiedad del Gobierno del Estado o de un particular concesionado, para resguardar los vehículos asegurados por la autoridad competente;
+IV. Carril bicibus: Es un carril exclusivo para transporte público y bicicletas, con un ancho adecuado para que conductores de autobuses y ciclistas compartan el carril de manera segura. Los vehículos pueden ser de combustión de diésel, gasolina, gas natural o eléctrico, incluso a través de catenarias (en el caso de los trolebuses), pero no deben tener rieles para su rodamiento;
 
-VIII. Grúa: Al servicio motorizado para el traslado de vehículos;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
+V. Carril compartido ciclista: El carril compartido ciclista se define como el que está ubicado en la extrema derecha del área de circulación vehicular, con un ancho suficiente para permitir que ciclistas y conductores de vehículos motorizados compartan el espacio de forma segura;
 
-IX. Ley: A la Ley de Tránsito y Vialidad del Estado de Oaxaca;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
+VI. Carril preferente ciclista: Zona o espacio de la vialidad destinado para el uso compartido de vehículos motorizados o ciclistas donde la preferencia siempre la tendrá la bicicleta;
 
-X. Licencia: Al Documento expedido por la Secretaria de Movilidad, que autoriza a personas a conducir un vehículo;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XI. Pasajero: A la persona distinta al conductor que viaja a bordo de un vehículo;
+VII. Ciclista: Persona que transita por las vías públicas del Estado y los Municipios a bordo de un vehículo de tracción humana;
 
-XII. Peatón: A la persona que transita a pie por la vía pública;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XIII. Policía Vial Estatal: A los elementos dependientes o adscritos a la Dirección General de la Policía Vial Estatal, de la Secretaría de Seguridad Pública;
+VIII. Ciclocarril: Carril exclusivo para la circulación ciclista, delimitado con marcas en el pavimento;
 
-XIV. Reglamento: Al Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XV. Secretaría: A la Secretaría de Seguridad Pública del Estado;
+IX. Ciclovía: Carril de circulación exclusiva para ciclistas, físicamente segregado del tránsito automotor. Puede estar confinado con elementos fijos en el pavimento o semifijos;
 
-XVI. Tránsito: Al movimiento de vehículos o peatones, que se desplazan sobre una vialidad;
+X. Conductor: A la persona que conduce un vehículo terrestre en cualquiera de sus modalidades, o que tiene control físico sobre él, cuando éste se encuentra en movimiento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XVII. UMA: A la Unidad de Medida y Actualización que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes. Establecida por el Instituto Nacional de Estadística y Geografía;
+XI. Cruce peatonal: Zonas en la vialidad que forman una intersección entre el tránsito vehicular y el peatonal ya sea en un mismo o diferente nivel que su función es obligar a los vehículos a detenerse para permitir el cruce seguro de los peatones exista o no semáforo, generalmente está señalizado por franjas paralelas de color blanco o amarillo;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+XII. Delegados Regionales: A los encargados de coordinar las acciones de tránsito, movilidad y vialidad en las regiones del Estado;
 
-XVIII. Vialidad: Al conjunto de Servicios pertenecientes a las vías públicas, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos;
+XIII. Dispositivos para el control de la vialidad: A los elementos de diversa índole empleados para regular y guiar el tránsito de peatones y vehículos, tales como semáforos, señalizaciones viales, reductores de velocidad, medios electrónicos, instrumentos tecnológicos y otros similares;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+XIV. Director: Al Director General de la Policía Vial Estatal de la Secretaría de Seguridad Pública;
 
-XIX. Vehículo: Todo medio de transporte, de personas, carga o mixto, motorizado o eléctrico, de tracción humana o animal, autorizado por el Estado para circular en vía pública, y
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+XV. Estacionamiento: Espacio físico o lugar utilizado para detener, custodiar y/o guardar un vehículo por tiempo determinado;
 
-XX. Vía Pública: Todo espacio de dominio público y de uso común destinado al tránsito de personas y vehículos.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+XVI. Estacionamiento en vía pública: Espacio físico establecido en la vialidad, para detener y desocupar los vehículos, cuando así lo disponga la autoridad se realizará el pago de una tarifa;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+XVII. Estacionamiento público: Espacio físico para satisfacer las necesidades del público en general para el resguardo mediante el pago de una tarifa;
+
+XVIII. Estado de ebriedad: Cuando los conductores o peatones tengan una cantidad superior a 0.8 gramos por litro de alcohol en la sangre o una cantidad superior a 0.4 miligramos por litro de alcohol en aire espirado;
+
+XIX. Encierro: Al lugar autorizado, propiedad del Gobierno del Estado o de un particular concesionado, para resguardar los vehículos asegurados por la autoridad competente;
+
+XX. Grúa: Al servicio motorizado para el traslado de vehículos;
+
+XXI. Ley: A la Ley de Tránsito y Vialidad del Estado de Oaxaca;
+
+XXII. Licencia: Al Documento expedido por la Secretaría de Movilidad, que autoriza a personas a conducir un vehículo;
+
+XXIII. Pasajero: A la persona distinta al conductor que viaja a bordo de un vehículo;
+
+XXIV. Peatón: A la persona que transita a pie por la vía pública;
+
+XXV. Policía Vial Estatal: A los elementos dependientes o adscritos a la Dirección General de la Policía Vial Estatal, de la Secretaría de Seguridad Pública;
+
+XXVI. Reglamento: Al Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+XXVII. Sistema Citybus: El Organismo público descentralizado, denominado Sistema de Transporte Colectivo Metropolitano Citybus Oaxaca;
+
+XXVIII. Secretaría: A la Secretaría de Seguridad Pública del Estado;
+
+XXIX. Tránsito: Al movimiento de vehículos o peatones, que se desplazan sobre una vialidad;
+
+XXX. UMA: A la Unidad de Medida y Actualización que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes. Establecida por el Instituto Nacional de Estadística y Geografía;
+
+XXXI. Vialidad: Al conjunto de Servicios pertenecientes a las vías públicas, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos;
+
+XXXII. Vehículo: Todo medio de transporte, de personas, carga o mixto, motorizado o eléctrico, de tracción humana o animal, autorizado por el Estado para circular en vía pública, y
+
+XXXIII. Vía Pública: Todo espacio de dominio público y de uso común destinado al tránsito de personas y vehículos.
 
 ###### Artículo 4.
 
@@ -185,11 +225,11 @@ IV. Policías Viales Municipales.
 
 Las autoridades señaladas en el artículo anterior, están facultadas en el ámbito de sus respectivas competencias, para emitir las disposiciones necesarias, a efecto de planear, establecer, regular, administrar, controlar, supervisar y ejecutar el tránsito y la vialidad de peatones y vehículos; así como, resguardar la seguridad pública y la protección de los derechos y bienes de las personas, preservando el orden público en las vías públicas terrestres abiertas a la circulación, en los términos establecidos en esta Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
 
 ###### Artículo 8.
 
-La Secretaría de Movilidad, la Secretaría, la Policía Vial Estatal y demás autoridades, en el ámbito de sus respectivas competencias, se coordinarán en la vigilancia, verificación e inspección de los servicios de autotransporte Estatal, sus servicios auxiliares y transporte privado, cuando circulen en el Estado.
+La Secretaría de Movilidad, la Secretaría, la Policía Vial Estatal, el Sistema Citybus y demás autoridades, en el ámbito de sus respectivas competencias, se coordinarán en la vigilancia, verificación e inspección de los servicios de autotransporte Estatal, sus servicios auxiliares y transporte privado, cuando circulen en el Estado.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES
 
@@ -409,11 +449,15 @@ V. Mantener la vialidad libre de obstáculos u objetos que impidan, dificulten u
 
 VI. Colocar, mantener y preservar en estado óptimo de utilización, la nomenclatura de la vialidad, de sus demarcaciones territoriales;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-VII. Instrumentar los programas y acciones necesarias con especial referencia a la población infantil escolar, personas con discapacidad, de la tercera edad, y mujeres en período de gestación, que les faciliten el transporte y libre desplazamiento en las vialidades coordinando la instalación de la infraestructura y señalamientos que se requieran para cumplir con dicho fin; y
+VII. Instrumentar los programas y acciones necesarias con especial referencia a la población infantil escolar, personas con discapacidad, de la tercera edad, y mujeres en período de gestación, que les faciliten el transporte y libre desplazamiento en las vialidades, coordinando la instalación de la infraestructura y señalamientos que se requieran para cumplir con dicho fin;
 
-VIII. Las demás que le otorguen la presente Ley y el Reglamento respectivo que al efecto expida.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+VIII. Establecer en los uniformes, documentos, vehículos y demás identificativos que utilicen los servidores públicos que regulen el tránsito y la vialidad en el Municipio, la denominación a que se refiere la fracción IV del párrafo segundo del artículo 6 de la presente Ley; de ser omisos se iniciarán los procedimientos sancionatorios correspondientes; y
+
+IX. Las demás que le otorguen la presente Ley y el Reglamento respectivo que al efecto expida.
 
 ###### Artículo 20.
 
@@ -483,7 +527,9 @@ V. Dar oportuna asistencia a las personas que resulten lesionadas en accidentes 
 
 VI. Proporcionar a las personas que lo soliciten toda clase de facilidades e informes inherentes al tránsito en las vías públicas;
 
-VII. Observar estricta disciplina y buen trato en el desempeño de sus funciones, y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+VII. Observar estricta disciplina y buen trato en el desempeño de sus funciones, así como portar en el uniforme, vehículos y demás identificativos de manera clara la denominación “Policía Vial Municipal”; y
 
 VIII. Las demás que le otorguen las autoridades estatales y municipales en el cumplimiento de las disposiciones jurídicas y administrativas aplicables.
 
@@ -509,23 +555,33 @@ En el caso de que se detecten indicios de alteraciones en números de identifica
 
 III. Cuando a simple vista se advierta que el vehículo se halle en condiciones, que su circulación constituya un peligro cierto e inminente para sus ocupantes o para otras personas, y
 
-IV. Cuando se trate de un vehículo con el cual se realice servicio público de pasajeros o de carga, sin que se tenga permiso o concesión vigentes para prestarlo.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+IV. Cuando se trate de un vehículo con el cual se realice servicio público de pasajeros o de carga, sin que se tenga permiso o concesión vigentes para prestarlo. Esta infracción se considerará agravada y se sancionará en términos de esta Ley y su Reglamento.
 
 Los vehículos de motor asegurados se devolverán hasta que se cumplan los requisitos cuyo incumplimiento motivó la infracción, previo pago de las infracciones correspondientes, y acreditar con documento idóneo la propiedad del vehículo.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2021)</small>
 
 ###### Artículo 25.
 
-En ningún caso se asegurarán como garantía del pago de las infracciones el permiso para circular, la tarjeta de circulación, la licencia de manejo o placas, a los conductores que infrinjan esta Ley o su Reglamento.
+En ningún caso se asegurarán como garantía de pago de las infracciones el permiso para circular, la tarjeta de circulación, la licencia de manejo o placas, a los conductores que infrinjan esta ley o su reglamento, salvo que se trate del servicio de transporte público, el cual estará sujeto a lo dispuesto por la Ley de Movilidad para el Estado de Oaxaca.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 El derecho que tienen los conductores a no ser desposeídos de los bienes a que se refiere el presente Artículo, es irrenunciable.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2021)</small>
+
+###### Artículo 25 Bis.
+
+Todos los vehículos que transiten en el Estado de Oaxaca deberán contar con placas de circulación vigentes, expedidas por la autoridad estatal competente; en caso de no contar con placas de circulación o cuando provengan de otras entidades federativas y se haya cometido alguna infracción a lo establecido en la Ley o al Reglamento, se aplicará lo establecido en este último.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
+
 ###### Artículo 26.
 
-El Titular del Poder Ejecutivo, aplicará y vigilará el estricto cumplimiento de esta Ley y su Reglamento, por conducto de la Secretaría y de la Dirección de la Policía Vial Estatal, en las Vías Públicas de jurisdicción Estatal y en aquellas de jurisdicción Federal o Municipal, que le sean transferidas mediante convenio.
+El Titular del Poder Ejecutivo, aplicará y vigilará el estricto cumplimiento de esta Ley y su Reglamento, por conducto de la Secretaría, de la Dirección de la Policía Vial Estatal, y del Sistema Citybus en el ámbito de sus facultades y atribuciones, en las Vías Públicas de jurisdicción Estatal y en aquellas de jurisdicción Federal o Municipal, que le sean transferidas mediante convenio.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -629,7 +685,9 @@ XIV. Las demás que se deriven de esta Ley y el Reglamento aplicable.
 
 Es obligación de los conductores que manejen vehículos:
 
-I. Obtener y portar licencia o permiso vigente de conducir;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+I. Obtener y portar licencia ya sea de manera impresa y/o digital o permiso vigente de conducir;
 
 II. Verificar que el vehículo porte placas, tarjeta de circulación o, en su caso, el permiso para circular vigente, y
 
@@ -1123,11 +1181,17 @@ IX. Llevar a cabo todas las acciones en beneficio y enriquecimiento de los princ
 
 #### SECCIÓN TERCERA. DEL RECURSO ADMINISTRATIVO
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
+
 ###### Artículo 92.
 
 Las sanciones por infracciones a las normas de tránsito y vialidad, se aplicarán tomando en cuenta, la gravedad de la infracción, el peligro, la reincidencia y las condiciones médicas y psicológicas del infractor.
 
 En caso de fuga del infractor, se aumentará en una mitad el monto máximo de la multa.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2021)</small>
+
+En los casos en que se infrinjan las fracciones III, IV, V, VI, VII y VIII del artículo 94 de esta Ley, se aumentará en una mitad el monto máximo de la multa.
 
 ###### Artículo 93.
 
@@ -1143,13 +1207,13 @@ II. Actividades de apoyo a la comunidad;
 
 III. Multa de 3 a 150 UMA.;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-IV. Suspensión temporal de la licencia de manejo;
+IV. Suspensión temporal de la licencia impresa o digital de manejo;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-V. Cancelación de la licencia de manejo;
+V. Cancelación de la licencia de manejo impresa o digital;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
 
@@ -1175,7 +1239,23 @@ III. Cuando el conductor se retire del lugar de los hechos;
 
 IV. Estacionarse en las zonas reservadas para personas con discapacidad, y no se tenga la autorización respectiva, y
 
-V. Las que se señalen en el Reglamento y demás disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+V. Estacionarse en los carriles destinados al Sistema Cytibus (sic), en el horario en el que determine la autoridad su funcionamiento;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+VI. Estacionarse obstruyendo la libre circulación de bicicletas en los carriles determinados como compartido ciclista, preferentes ciclistas, ciclocarril o ciclovías en cualquiera de sus rutas;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+VII. Estacionar cualquier tipo de vehículos sobre las banquetas obstruyendo la libre circulación peatonal;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+VIII. Obstruir los cruces peatonales; y
+
+IX. Las que se señalen en el Reglamento y demás disposiciones aplicables.
 
 Tratándose de estas infracciones se podrán aplicar conjuntamente dos o más sanciones señaladas en esta Ley.
 
@@ -1207,7 +1287,7 @@ La Secretaría de Finanzas del Poder Ejecutivo del Estado, adoptará las medidas
 
 ###### Artículo 101.
 
-Los actos y resoluciones dictadas conforme a las disposiciones de esta Ley, su Reglamento y demás aplicables, podrán recurrirse en términos de la Ley de Justicia Administrativa para el Estado de Oaxaca.
+Los actos y resoluciones dictadas conforme a las disposiciones de esta Ley, su Reglamento y demás aplicables, podrán recurrirse en términos de la Ley de Procedimientos y Justicia Administrativa para el Estado de Oaxaca.
 
 TRANSITORIOS:
 
@@ -1394,3 +1474,11 @@ P.O. 16 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1782.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 6; Y SE ADICIONAN, LA FRACCIÓN III AL ARTÍCULO 19, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, LA FRACCIÓN I AL ARTÍCULO 21, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, Y LA FRACCIÓN I AL ARTÍCULO 22, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2460.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- En un plazo de 90 días naturales contados a partir de la fecha de entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado de Oaxaca, expedirá el Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca, que permita la plena ejecución del presente Decreto.
