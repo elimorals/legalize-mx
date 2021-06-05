@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-mediacion-para-el-estado-de-oaxaca-39432"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-12"
-last_updated: "2020-09-26"
+last_updated: "2021-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE MEDIACIÓN PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el día 12 de abril de 2004.
 
@@ -65,7 +65,13 @@ El objeto de esta Ley es regular la aplicación de la mediación para la pronta 
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Mediación: Método alternativo no adversarial para la solución de conflictos, mediante el cual uno o más mediadores, quienes no tienen facultad de decisión, intervienen únicamente facilitando la comunicación entre los mediados en conflicto, con el propósito de que ellos acuerden voluntariamente una solución que ponga fin al mismo total o parcialmente;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JUNIO DE 2021)</small>
+
+I.- Mediación: Es el método alternativo no adversarial, que se lleva a cabo mediante un procedimiento voluntario y confidencial, por el cual las partes en conflicto buscan llegar a un acuerdo, con la intervención de un tercero imparcial llamado mediador o mediadora, cuya participación se concreta a facilitar la comunicación entre las partes que se encuentran involucradas en un conflicto, para que éstas, por sí mismas, a través de la autocomposición, busquen, construyan y propongan opciones reales de alternativas viables para dirimir su controversia y así, lleguen a un acuerdo justo, razonable y que ofrezca soluciones de mutua satisfacción.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2021)</small>
+
+Se entenderá por autocomposición a las reglas que los propios particulares involucrados en una controversia establecen para efecto de encontrar una solución a la misma.
 
 II.- Mediador: Persona física que interviene en la mediación facilitando la comunicación entre los mediados. Cuando intervenga más de un mediador se les denominará comediadores;
 
@@ -548,3 +554,11 @@ P.O. 26 DE SEPTIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2422.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA EL PÁRRAFO SEGUNDO A LA FRACCIÓN I DEL ARTÍCULO 4 DE LA LEY DE MEDIACIÓN PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
