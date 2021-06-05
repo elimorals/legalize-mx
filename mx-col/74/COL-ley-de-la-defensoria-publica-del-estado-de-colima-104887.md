@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-defensoria-publica-del-estado-de-colima-104887"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-13"
-last_updated: "2019-11-02"
+last_updated: "2021-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 5 DE JUNIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021 (ABROGADA).
 
 Ley publicada en el Suplemento No. 6 del Periódico Oficial del Estado de Colima, el sábado 13 de diciembre de 2014.
 
@@ -1488,3 +1490,25 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 148 POR EL QUE SE REFORMAN CON LA FINALIDAD DE ARMONIZAR EL TÉRMINO DE ADULTO MAYOR EN SUSTITUCIÓN DEL TÉRMINO ADULTO EN PLENITUD EN LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA, LEY DE HACIENDA PARA EL ESTADO DE COLIMA, LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, LEY ESTATAL DE OBRAS PÚBLICAS, LEY DE PARTICIPACIÓN CIUDADADANA (SIC) DEL ESTADO DE COLIMA, LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA”.]
+
+PRIMERO. La presente ley, entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se abroga la Ley de la Defensoría Pública del Estado de Colima, publicada en el Periódico Oficial “El Estado de Colima”, el 13 de diciembre de 2014.
+
+TERCERO. El Instituto entrará en funciones al momento de la entrada en vigor de la presente ley.
+
+CUARTO. Con fundamento y conforme lo señala el artículo Cuarto Transitorio de la Ley Orgánica de la Administración Pública del Estado de Colima; el personal que actualmente se encuentra adscrito y laborando en la Dirección General de la Defensoría Pública, pasará a formar parte del Instituto de (sic)
+
+Defensoría Pública del Estado de Colima, preservando los derechos laborales, y de ser el caso, quedará incorporado al Sistema del Servicio Profesional Carrera sin la necesidad de cubrir las etapas de ingreso y selección, al reunir previamente las competencias necesarias para el desempeño de sus funciones.
+
+QUINTO. Todos los recursos, instalaciones y mobiliario pertenecientes a Gobierno del Estado y bajo resguardo de la Dirección General de la Defensoría Pública del Estado, pasará, previo inventario de la Dirección de Bienes Patrimoniales del Gobierno del Estado, al Instituto de Defensoría Pública del Estado de Colima.
+
+SEXTO. Hasta en tanto el Instituto no cuente con los peritos que sean necesarios para el apoyo de sus servidores públicos, la Fiscalía General del Estado a través del área de servicios periciales o las instituciones públicas que cuenten con personal especializado, estarán obligadas a proporcionar los peritos para el auxilio en los asuntos que conozcan los Defensores Públicos; lo anterior, previa solicitud del Director General, debiendo ser otorgado dicho servicio sin costo alguno para el usuario del servicio requerido; con excepción de aquellos asuntos en los que el Ministerio Público sea contraparte.
+
+SÉPTIMO. Las obligaciones presupuestarias que se consignan en la presente ley, serán obligatorias a partir del Presupuesto de Egresos correspondiente al ejercicio fiscal 2021.
+
+OCTAVO. El Reglamento Interno del Instituto, deberá ser aprobado en un plazo no mayor de 180 días contados a partir de la entrada en funciones del Instituto de Defensoría Pública del Estado de Colima.
