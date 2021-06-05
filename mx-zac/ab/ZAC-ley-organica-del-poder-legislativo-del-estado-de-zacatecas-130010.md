@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2021-02-06"
+last_updated: "2021-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -72,6 +72,26 @@ El año legislativo se computará del ocho de septiembre al siete de septiembre 
 ###### Artículo 5.
 
 La presente Ley, su reglamentación y otros documentos internos, sus reformas y adiciones, no necesitarán de promulgación del Gobernador del Estado, ni podrán ser objeto de veto.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2021)</small>
+
+###### Artículo 5 Bis.
+
+En los casos que se presenten contingencias relativas a la salubridad, protección civil o seguridad pública, que pongan en riesgo la vida o integridad física de quienes integran la Legislatura del Estado, las y los Diputados podrán continuar con los trabajos legislativos en sesiones virtuales.
+
+Los medios tecnológicos, procedimientos, lineamientos y reglamentación para el desarrollo de las sesiones virtuales serán determinados por la Comisión de Régimen Interno y Concertación Política y la Presidencia de la Mesa Directiva.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2021)</small>
+
+###### Artículo 5 Ter.
+
+En las sesiones virtuales no podrán discutirse temas relacionados con reformas a la Constitución Estatal, al Código Penal del Estado y las relacionadas con la materia fiscal, además de los nombramientos y ratificaciones de servidores públicos de los Poderes Ejecutivo y Judicial, Municipios y de los organismos constitucionales autónomos.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2021)</small>
+
+###### Artículo 5 Quáter.
+
+Las sesiones virtuales se regirán por los principios de transparencia, rendición de cuentas, parlamento abierto, certeza, legalidad y máxima publicidad.
 
 ###### Artículo 6.
 
@@ -445,7 +465,15 @@ X. Designar y tomar la protesta a los Consejeros representantes del Poder Legisl
 
 XI. Incorporar la perspectiva de género en las políticas, procesos, estrategias y demás acciones del Poder Legislativo, además de establecer protocolos de actuación en los diferentes rubros de su actividad interna; y
 
-XII. Las demás que le confiera la Constitución estatal y las leyes del estado.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+XII. Declarar la suspensión de actividades legislativas presenciales cuando se presenten contingencias relativas a la salubridad, protección civil o seguridad pública, que pongan en riesgo la vida o integridad física de quienes integran la Legislatura del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+XIII. Autorizar a la Comisión de Régimen Interno y Concertación Política para que, en conjunto con la Presidencia de la Mesa Directiva, determine los medios tecnológicos, procedimientos, lineamientos y reglamentación conforme a los cuales se desarrollarán las sesiones virtuales, y
+
+XIV. Las demás que le confiera la Constitución estatal y las leyes del estado.
 
 ### Capítulo Séptimo. Atribuciones jurisdiccionales
 
@@ -1339,7 +1367,15 @@ XVIII. Coordinar la relación con los medios de comunicación y propiciar que la
 
 XIX. Asumir las atribuciones que no estén expresamente conferidas a la Mesa Directiva o la Comisión de Planeación, Patrimonio y Finanzas, y
 
-XX. Las demás que establezca esta Ley, su Reglamento General y demás disposiciones o acuerdos que emita la Legislatura.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+XX. Emitir, en conjunto con la Presidencia de la Mesa, los procedimientos, lineamientos y la reglamentación conforme a los cuales se desarrollarán las sesiones virtuales, así como determinar la plataforma digital que se habrá de utilizar para ello;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+XXI. Establecer las reglas conforme a las cuales se sujetarán las actividades de las unidades administrativas de la Legislatura, cuando se determine la suspensión del trabajo legislativo, en términos del artículo 26, fracción XII, de esta Ley, y
+
+XXII. Las demás que establezca esta Ley, su Reglamento General y demás disposiciones o acuerdos que emita la Legislatura.
 
 ### Capítulo Cuarto. Comisión Permanente
 
@@ -1541,7 +1577,11 @@ VIII. Salvaguardar los documentos y expedientes de los asuntos que le sean turna
 
 IX. Presentar el informe anual ante el Pleno y la Comisión de Régimen Interno y Concertación Política, y
 
-X. Las demás que señala esta Ley y las disposiciones reglamentarias aplicables.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+X. Celebrar sesiones de trabajo de carácter virtual, cuando se hubiere declarado la suspensión de actividades legislativas, en términos del artículo 26, fracción XII, de esta Ley, observando, en lo conducente, los lineamientos y la reglamentación emitidos por la Comisión de Régimen Interno, y
+
+XI. Las demás que señala esta Ley y las disposiciones reglamentarias aplicables.
 
 AGRICULTURA, GANADERÍA Y DESARROLLO RURAL SUSTENTABLE
 
@@ -2580,3 +2620,11 @@ P.O. 6 DE FEBRERO DE 2021.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 647.- REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS Y REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
