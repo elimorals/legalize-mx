@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2021-02-26"
+last_updated: "2021-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,2039 +21,1075 @@ state: "SLP"
 ---
 # LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+REGLAMENTO DE CONSTRUCCIÓN E IMAGEN URBANA PARA EL MUNICIPIO DE BERRIOZABAL, CHIAPAS
 
-LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
+TEXTO ORIGINAL.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
+Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 25 de diciembre de 2002.
 
-Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
+REGLAMENTO DE CONSTRUCCIÓN E IMAGEN URBANA DEL MUNICIPIO DE BERRIOZABAL, CHIAPAS
 
-FERNANDO SILVA NIETO, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed:
+C. PEDRO OVANDO MORALES, PRESIDENTE MUNICIPAL CONSTITUCIONAL DE BERRIOZABAL, CHIAPAS; CON FUNDAMENTO EN LOS ARTICULOS 108, 109 FRACCIONES VII Y VIII, 112, 113, 114, 146, 150, 155 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS Y 15 FRACCION XXIV DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIAPAS, EN CUMPLIMIENTO AL ACUERDO DE CABILDO TOMADO POR EL AYUNTAMIENTO EN LA REUNION EXTRAORDINARIA NO. 46 CELEBRADA EL DIA 21 DE NOVIEMBRE DE 2002, A SUS HABITANTES HACE SABER:.
 
-Que la Quincuagésima Quinta Legislatura Constitucional del Estado se ha servido dirigirme el siguiente:
+CON BASE EN LAS CONSIDERACIONES ANTERIORMENTE DESCRITAS, ESTE HONORABLE AYUNTAMIENTO CONSTITUCIONAL EXPIDE EL SIGUIENTE:
 
-DECRETO 554
+REGLAMENTO DE CONSTRUCCIÓN E IMAGEN URBANA PARA EL MUNICIPIO DE BERRIOZABAL, CHIAPAS
 
-LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
+## TITULO PRIMERO
 
-[...]
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
+###### ARTICULO 1.
 
-## TITULO PRIMERO. DEL MUNICIPIO
+EL PRESENTE REGLAMENTO ES DE ORDEN PUBLICO E INTERES SOCIAL, Y LAS DISPOSICIONES EN EL CONTENIDAS REGIRAN PARA EL MUNICIPIO DE BERRIOZABAL, CHIAPAS, Y SE SUJETARAN A LO ESTABLECIDO EN LA LEY DE DESARROLLO URBANO PARA EL ESTADO DE CHIAPAS, LEY DE FRACCIONAMIENTOS DEL ESTADO, LEY DE CONDOMINIOS DEL ESTADO, LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO, LEY DE LA REFORMA AGRARIA, CODIGO CIVIL DE CHIAPAS, A LA ACTUALIZACION DEL PROGRAMA DE DESARROLLO URBANO DEL CENTRO DE POBLACION Y DEMAS DISPOSICIONES LEGALES APLICABLES.
 
-### CAPITULO I. Disposiciones Generales
+###### ARTICULO 2.
 
-###### ARTICULO 1°.
+DICHO INSTRUMENTO TIENE COMO OBJETIVO:
 
-La presente Ley determina la estructura, la organización y el funcionamiento del gobierno municipal en el Estado de San Luis Potosí, conforme a lo dispuesto por el artículo 115 y demás relativos de la Constitución Política de los Estados Unidos Mexicanos, y reglamenta las disposiciones contenidas en la Constitución Política del Estado referentes al Municipio Libre.
+REGULAR EL DESARROLLO URBANO
 
-###### ARTICULO 2°.
+PRESERVAR LA IMAGEN URBANA
 
-El Municipio Libre constituye la base de la división territorial y de la organización política y administrativa del Estado.
+PROTEGER EL PATRIMONIO CULTURAL
 
-###### ARTICULO 3°.
+VIGILAR LA SEGURIDAD, ESTABILIDAD E HIGIENE DE LAS CONSTRUCCIONES
 
-El Municipio Libre es una entidad de carácter público, dotado de personalidad jurídica y patrimonio propios; autónomo en su régimen interior y con libertad para administrar su hacienda conforme a las disposiciones constitucionales y a esta Ley.
+VIGILAR EL USO Y DESTINO DE LOS TERRENOS, RESERVAS O EDIFICACIONES DE PROPIEDAD PUBLICA O PRIVADA
 
-###### ARTICULO 4°.
+###### ARTICULO 3.
 
-Para el cumplimiento de sus fines y aprovechamiento de sus recursos, los ayuntamientos formularán planes de desarrollo y programas de acuerdo con las leyes y reglamentos de la materia, buscando sin menoscabo de la autonomía municipal, la congruencia con las administraciones estatal y federal como elemento fundamental para el fortalecimiento del federalismo.
+TODA OBRA, USO, DESTINO Y RESERVA CONSIDERADA DENTRO DEL MUNICIPIO DEBERA REGIRSE POR EL PRESENTE REGLAMENTO; ENTENDIENDOSE POR OBRA TODA ACTIVIDAD RELACIONADA CON LA EXCAVACION, CONSTRUCCION, INSTALACION, MODIFICACION, AMPLIACION, REPARACION, RESTAURACION Y DEMOLICION, ASI COMO TODO ACTO DE OCUPACION DE LA VIA PUBLICA, CONSTRUCCIONES, ESTRUCTURAS, INSTALACIONES Y SERVICIOS PUBLICOS.
 
-> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2020)</small>
+###### ARTICULO 4.
 
-Asimismo, se deberá fomentar el uso adecuado de los recursos públicos, promoviendo el ahorro en consumibles e insumos; impulsando además el uso de cero papel; fortaleciendo la digitalización de trámites y el gobierno digital.
+TODAS ESTAS DISPOSICIONES SON APLICABLES A OBRAS O PREDIOS DE PROPIEDAD PARTICULAR, EJIDAL, COMUNAL, MUNICIPAL, ESTATAL O FEDERAL QUE SE ENCUENTREN DENTRO DEL MUNICIPIO DE BERRIOZABAL, CHIAPAS.
 
-###### ARTICULO 5°.
+###### ARTICULO 5.
 
-Los municipios, previo acuerdo entre sus ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse entre sí para la resolución de sus necesidades comunes y la mejor prestación de los servicios públicos; en cuanto proceda, buscarán la coordinación con los gobiernos estatal y federal.
+EL PRESENTE REGLAMENTO SE SUSTENTA EN:
 
-### CAPITULO II. De la División Territorial del Estado
+I. LEY GENERAL: A LA LEY GENERAL DE ASENTAMIENTOS HUMANOS.
 
-###### ARTICULO 6°.
+II. LEY: A LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIAPAS.
 
-El territorio del Estado de San Luis Potosí está dividido en cincuenta y ocho municipios, siendo éstos los siguientes:
+III. LEY DE FRACCIONAMIENTOS: A LA LEY DE FRACCIONAMIENTOS DEL ESTADO DE CHIAPAS.
 
-1. Ahualulco
+IV. LEY DE CONDOMINIOS: A LA LEY DE CONDOMINIOS DEL ESTADO DE CHIAPAS.
 
-2. Alaquines
+V. LEY DE EQUILIBRIO ECOLOGICO: LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO.
 
-3. Aquismón
+VI. LEY ORGANICA: A LA LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS.
 
-4. Armadillo de los Infante
+VII. LEY AGRARIA: A LA LEY DE LA REFORMA AGRARIA.
 
-5. Axtla de Terrazas
+VIII. CODIGO: AL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIAPAS.
 
-6. Cárdenas
+IX. CODIGO CIVIL: AL CODIGO CIVIL DE CHIAPAS Y
 
-7. Catorce
+X. PROGRAMA: ACTUALIZACION DEL PROGRAMA DE DESARROLLO URBANO DEL CENTRO DE POBLACION DE BERRIOZABAL, CHIAPAS.
 
-8. Cedral
+PARA LOS EFECTOS DEL PRESENTE REGLAMENTO SE ENTENDERA POR:
 
-9. Cerritos
+I. AYUNTAMIENTO: AL HONORABLE AYUNTAMIENTO DE BERRIOZABAL, CHIAPAS.
 
-10. Cerro de San Pedro
+II. DIRECCION: A LA DIRECCION DE OBRAS PUBLICAS Y SERVICIOS MUNICIPALES.
 
-11. Coxcatlán
+III. FOMENTO AGROPECUARIO: A LA DIRECCION DE FOMENTO AGROPECUARIO MUNICIPAL.
 
-12. Ciudad del Maíz
+IV. REGLAMENTO: REGLAMENTO DE CONSTRUCCION E IMAGEN URBANA PARA EL MUNICIPIO DE BERRIOZABAL, CHIAPAS.
 
-13. Ciudad Valles
+### CAPITULO PRIMERO. DEFINICIONES Y GENERALIDADES
 
-14. Ciudad Fernández
+###### ARTICULO 6.
 
-15. Charcas
+CON FUNDAMENTO EN LA LEY ORGANICA, LAS LEYES DE INGRESO Y HACIENDA MUNICIPAL, LA APLICACION DEL PRESENTE REGLAMENTO CORRESPONDERA AL AYUNTAMIENTO A TRAVES DE LA DIRECCION, PARA LO CUAL TENDRA LAS SIGUIENTES FACULTADES:
 
-16. Ebano
+I. FIJAR LOS REQUISITOS TECNICOS A QUE DEBERAN SUJETARSE LAS CONSTRUCCIONES E INSTALACIONES, PREDIOS Y VIAS PUBLICAS A FIN DE SATISFACER LAS CONDICIONES DE HABITABILIDAD, SEGURIDAD, HIGIENE, COMODIDAD Y BUEN ASPECTO.
 
-17. El Naranjo
+II. FIJAR LAS RESTRICCIONES A QUE DEBERAN SUJETARSE LAS EDIFICACIONES Y LAS CONSTRUCCIONES TALES COMO FUENTES, ESCULTURAS, ARCOS, COLUMNAS, MONUMENTOS Y SIMILARES LOS CUALES FORMEN PARTE DEL PATRIMONIO ARTISTICO Y CULTURAL DEL MUNICIPIO, DE ACUERDO CON LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLOGICAS, ARTISTICOS E HISTORICOS.
 
-18. Guadalcázar
+III. PREVIO A LOS REQUISITOS RECABADOS, OTORGAR O NEGAR LICENCIAS Y PERMISOS PARA LA EJECUCION DE LAS OBRAS, EL USO DE EDIFICACIONES Y PREDIOS A QUE SE REFIERE EL ARTICULO 3 DE ESTE REGLAMENTO.
 
-19. Huehuetlán
+IV. ESTABLECER DE ACUERDO A LAS DISPOSICIONES LEGALES APLICABLES, LOS FINES PARA LOS QUE SE PUEDAN AUTORIZAR EL USO DE LOS TERRENOS, DETERMINAR EL TIPO DE CONSTRUCCIONES QUE SE PUEDAN LEVANTAR EN ELLOS, EN LOS TERMINOS DE LO DISPUESTO POR LA LEY.
 
-20. Lagunillas
+V. LLEVAR UN REGISTRO CLASIFICADO DE LOS DIRECTORES RESPONSABLES DE OBRA.
 
-21. Matehuala
+VI. REALIZAR INSPECCIONES A LAS OBRAS EN PROCESOS DE EJECUCION O TERMINADAS.
 
-22. Matlapa
+VII. PRACTICAR INSPECCIONES PARA VERIFICAR QUE EL USO DE LOS PREDIOS, ESTRUCTURAS, INSTALACIONES, EDIFICACIONES O CONSTRUCCIONES, SE AJUSTEN A LAS CARACTERISTICAS PREVIAMENTE REGISTRADAS; ASIMISMO, NOTIFICAR A LAS AUTORIDADES CORRESPONDIENTES LA VIOLACION DE LAS LEYES DE LA MATERIA.
 
-23. Mexquitic de Carmona
+VIII. ACORDAR LAS MEDIDAS QUE FUESEN PROCEDENTES EN RELACION CON LOS EDIFICIOS PELIGROSOS, MALSANOS O QUE CAUSEN MOLESTIAS.
 
-24. Moctezuma
+IX. AUTORIZAR O NEGAR DE ACUERDO CON ESTE REGLAMENTO LA OCUPACION O EL USO DE UNA ESTRUCTURA, INSTALACION, EDIFICIO O CONSTRUCCION.
 
-25. Rayón
+X. ORDENAR LA SUSPENSION TEMPORAL O LA CLAUSURA DE OBRAS EN EJECUCION O TERMINADAS Y LA DESOCUPACION EN LOS CASOS PREVISTOS EN ESTE REGLAMENTO Y DEMAS DISPOSICIONES APLICABLES.
 
-26. Rioverde
+XI. ORDENAR Y EJECUTAR DEMOLICIONES DE CONSTRUCCIONES EN LOS CASOS PREVISTOS EN ESTE REGLAMENTO.
 
-27. Salinas
+XII. APLICAR LAS CUOTAS POR DERECHO DE LICENCIAS Y PERMISOS E IMPORTAR LAS SANCIONES CORRESPONDIENTES POR INFRACCIONES A ESTE REGLAMENTO; EJECUTAR CON CARGO A LOS DIRECTORES RESPONSABLES DE OBRA Y PROPIETARIOS LO QUE SE HUBIERE ORDENADO REALIZAR Y QUE ESTOS ULTIMOS NO HUBIERAN LLEVADO A CABO.
 
-28. San Antonio
+XIII. EXPEDIR Y MODIFICAR LAS NORMAS TECNICAS COMPLEMENTARIAS, LOS ACUERDOS, INSTRUCTIVOS, CIRCULARES, Y DEMAS DISPOSICIONES ADMINISTRATIVAS QUE PROCEDAN PARA EL CUMPLIMIENTO DE ESTE REGLAMENTO.
 
-29. San Luis Potosí
+XIV. PREVIA NOTIFICACION Y CITATORIO NO ATENDIDOS SE UTILIZARA LA FUERZA PUBLICA CUANDO FUERE NECESARIO PARA HACER CUMPLIR SUS DETERMINACIONES.
 
-30. San Martín Chalchicuautla
+XV. CONTROLAR EL CRECIMIENTO URBANO, LAS DENSIDADES DE CONSTRUCCION Y POBLACION, DE ACUERDO CON EL INTERES PUBLICO Y CON SUJECION A LAS LEYES APLICABLES SOBRE LA MATERIA.
 
-31. San Ciro de Acosta
+XVI. DICTAMINAR SOBRE LOS ASPECTOS DE ORDENAMIENTO URBANO Y DEMAS QUE LE CONFIEREN A ESTE REGLAMENTO LAS NORMAS JURIDICAS APLICABLES.
 
-32. San Nicolás Tolentino
+XVII. APLICARA DE ACUERDO A LO ESTABLECIDO EN EL PROGRAMA, LAS RESTRICCIONES EN LAS ZONAS DE RIESGO Y VULNERABILIDAD Y LO HARA CONSTAR EN LOS PERMISOS, LICENCIAS O CONSTANCIAS DE ALINEAMIENTO O USOS DEL SUELO QUE EXPIDA.
 
-33. San Vicente Tancuayalab
+XVIII. EN COORDINACION CON FOMENTO AGROPECUARIO VIGILARA EL ESTRICTO CUMPLIMIENTO DE LAS DISPOSICIONES ESTABLECIDAS EN LA LEY DE EQUILIBRIO ECOLOGICO.
 
-34. Santa Catarina
+XIX. VIGILAR QUE EN LOS MONUMENTOS O EN LAS ZONAS DE MONUMENTOS A QUE SE REFIERE LA LEY FEDERAL DE MONUMENTOS Y ZONAS ARQUEOLOGICAS, ARTISTICAS E HISTORICAS, Y EN AQUELLAS QUE HAYAN SIDO DETERMINADAS POR EL PROGRAMA, NO SE EJECUTEN NUEVAS CONSTRUCCIONES, OBRAS O INSTALACIONES DE CUALQUIER NATURALEZA, SIN CONTAR CON LA AUTORIZACION DEL INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA.
 
-35. Santa María del Río
+XX. VIGILAR LA CONSERVACION DE LA IMAGEN URBANA DE LA CIUDAD EN LAS ZONAS ESTABLECIDAS EN EL PROGRAMA.
 
-36. Santo Domingo
+###### ARTICULO 7.
 
-37. Soledad de Graciano Sánchez
+DE ACUERDO A LA LEY, EL AYUNTAMIENTO A TRAVES DE LA COMISION CONSULTIVA MUNICIPAL DE DESARROLLO URBANO, DARA SEGUIMIENTO A ESTUDIOS, PROPUESTAS Y RECOMENDACIONES QUE EN MATERIA DE DESARROLLO URBANO Y OBRAS PUBLICAS SE ESTABLEZCAN.
 
-38. Tamasopo
+###### ARTICULO 8.
 
-39. Tamazunchale
+VIA PUBLICA ES TODO ESPACIO DE DOMINIO PUBLICO Y DE USO COMUN QUE POR DISPOSICION DE LA AUTORIDAD SE ENCUENTRE DESTINADO AL LIBRE TRANSITO, ASI COMO TODO INMUEBLE QUE DE HECHO SE UTILICE PARA ESE FIN, TENIENDO COMO CARACTERISTICA LA AIREACION, ILUMINACION Y ASOLEAMIENTO DE ACCESO A LOS PREDIOS COLINDANTES Y CONSTRUCCIONES COLINDANTES, DE INSTALACION DE INFRAESTRUCTURA E INMOBILIARIO URBANO DE USO PUBLICO.
 
-40. Tampacán
+###### ARTICULO 9.
 
-41. Tampamolón Corona
+TODO INMUEBLE QUE EN LOS PLANOS O REGISTROS OFICIALES EXISTENTES EN CUALQUIERA DE LAS DEPENDENCIAS DEL MUNICIPIO, EN LOS ARCHIVOS MUNICIPALES, ESTATALES O DE LA NACION, MUSEO O BIBLIOTECA PUBLICA, APAREZCA COMO VIA PUBLICA EN RELACION A LOS DEMAS BIENES DE USO COMUN Y LOS DESTINADOS A UN SERVICIO PUBLICO, SE PRESUMIRA POR ESTE SOLO HECHO DE PROPIEDAD MUNICIPAL, SALVO QUE EL AFECTADO PRUEBE LO CONTRARIO.
 
-42. Tamuín
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2001)</small>
-
-43. Tancanhuitz
-
-44. Tanlajás
-
-45. Tanquián de Escobedo
-
-46. Tierra Nueva
-
-47. Vanegas
-
-48. Venado
-
-49. Villa de Arista
-
-50. Villa de Arriaga
-
-51. Villa de Guadalupe
-
-52. Villa de la Paz
-
-53. Villa de Ramos
-
-54. Villa de Reyes
-
-55. Villa Hidalgo
-
-56. Villa Juárez
-
-57. Xilitla
-
-58. Zaragoza.
-
-Los municipios antes citados, contarán para su administración y jurisdicción, con la extensión territorial y límites que actualmente tienen definidos, y tendrán su cabecera municipal en la población de su nombre.
-
-###### ARTICULO 7°.
-
-Salvo lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos aplicables, las controversias que se susciten entre uno o más municipios, entre éstos y el Poder Ejecutivo o el Poder Judicial, serán resueltas por el Congreso del Estado conforme al siguiente procedimiento:
-
-I. El Congreso del Estado recibirá a través de su Oficialía Mayor, por escrito, la solicitud de intervención para resolver la controversia, presentada por el Ejecutivo del Estado, el Supremo Tribunal de Justicia del Estado o el ayuntamiento o ayuntamientos involucrados en el asunto de que se trate, según sea el caso. El escrito deberá contener cuando menos los siguientes requisitos y anexar la documentación siguiente:
-
-a) Denominación y domicilio de la autoridad que presenta la solicitud;
-
-b) Documentación que acredite la personalidad de los promoventes, y en su caso, copia certificada del Acta de Cabildo en la que se apruebe por el voto de las dos terceras partes de los integrantes del mismo, la presentación de la solicitud;
-
-c) Antecedentes del caso y copia certificada de la documentación relacionada, si existiere;
-
-d) Pruebas documentales y ofrecimiento de las demás que se estimen pertinentes;
-
-e) Especificación de la materia de la controversia;
-
-f) Consideraciones;
-
-g) Fundamentos legales en que basen su razón; y
-
-h) Lugar, fecha, nombre y firma del funcionario competente;
-
-II. Una vez recibida la solicitud, se citará a los firmantes de la misma para que dentro del término de cinco días contados a partir de la recepción de la notificación respectiva, concurran al Congreso del Estado a ratificarla. En caso de que la denuncia no sea ratificada se desechará de plano;
-
-III. Ratificada que sea la solicitud, se turnará al Pleno del Congreso del Estado o a la Diputación Permanente en su caso, para que dé cuenta de la misma en la sesión próxima inmediata. El Presidente del Congreso, la turnará a la Comisión correspondiente, para su estudio y dictamen;
-
-IV. La Comisión Legislativa correrá traslado con la solicitud y documentos anexos a la o las partes en la controversia, las que contarán con un término de diez días hábiles para contestar lo que a su derecho convenga, acompañar las pruebas documentales que consideren procedentes y ofrecer las que deban desahogarse. En caso de no dar contestación dentro del término señalado, se asentará tal razón en el expediente y se continuará el procedimiento sin su intervención.
-
-V. La Comisión una vez recibida la contestación, citará a las partes involucradas en la controversia, quienes podrán optar por concurrir personalmente o a través del funcionario con facultades resolutivas que designen para ello, para que se presenten al Congreso del Estado en la fecha y hora que la Comisión determine. Las partes citadas podrán en esta audiencia llegar a un acuerdo legal que será calificado por la Comisión; en caso de calificarse de procedente, el acuerdo se asentará en el dictamen respectivo concluyendo con ello el procedimiento;
-
-VI. La Comisión, en caso de que no se llegue al acuerdo que se señala en la fracción anterior, notificará por escrito a las partes sobre la fecha, hora y lugar para el desahogo de las pruebas ofrecidas por las partes que haya lugar a desahogar, no pudiendo exceder esta etapa de los quince días hábiles siguientes a la fecha de la audiencia antes citada;
-
-VII. Agotada la etapa a que se refiere la fracción anterior, contarán las partes con un término común de cinco días hábiles para presentar los alegatos que a su derecho convenga, y
-
-VIII. Desahogadas las pruebas y vencido el término para la presentación de los alegatos, la Comisión deberá emitir su dictamen dentro de los quince días naturales siguientes, presentándolo al Pleno en la sesión próxima inmediata a la conclusión del citado término, para su discusión y aprobación en su caso.
-
-###### ARTICULO 8°.
-
-Para los efectos de su organización política y administrativa, los municipios se dividirán en cabeceras, delegaciones y comunidades, entendiéndose para efectos de la presente Ley por:
-
-I. Cabecera municipal: el centro de población donde reside el Ayuntamiento;
-
-II. Delegación municipal: la demarcación territorial declarada así por el Congreso del Estado, previa solicitud formulada por el Ayuntamiento respectivo, y
-
-III. Comunidad: toda congregación de habitantes, distinta a las antes enunciadas.
-
-###### ARTICULO 9°.
-
-En los municipios del Estado las localidades tendrán distinta categoría política, cuya denominación estará en función del número de habitantes, infraestructura y servicios con que cuenten, siendo éstas las siguientes:
-
-I. Ciudad: Centro de población no menor de veinte mil habitantes; con servicios médicos y de policía; principales calles pavimentadas; edificios adecuados para oficinas municipales; mercado, cárcel y panteón; instituciones bancarias, industriales, comerciales y agrícolas; e instituciones de enseñanza preescolar, primaria, media y media superior;
-
-II. Villa: Centro de población que cuente con más de siete mil quinientos mil (sic) habitantes; servicios médicos y de policía; principales calles pavimentadas; edificios adecuados para oficinas municipales; mercado, cárcel y panteón; e instituciones de enseñanza preescolar, primaria y media;
-
-III. Pueblo: Centro de población que cuente con más de mil habitantes; más servicios públicos básicos, oficinas para las autoridades del lugar; panteón e instituciones de enseñanza preescolar y primaria, y
-
-IV. Ranchería: Centro de población con menos (sic) mil habitantes.
-
-El Congreso del Estado, previa solicitud del Ayuntamiento respectivo, otorgará la categoría que corresponda, cuya declaratoria deberá publicarse en el Periódico Oficial del Estado.
-
-### CAPITULO III. De los Habitantes de los Municipios
+### CAPITULO SEGUNDO. USO DE LA VIA PUBLICA
 
 ###### ARTICULO 10.
 
-Adquieren la calidad de habitantes del municipio, los avecindados en él con una residencia efectiva de más de seis meses.
+LA DIRECCION DICTARA LAS MEDIDAS ADMINISTRATIVAS PARA MANTENER O RECUPERAR LA POSESION DE LAS VIAS PUBLICAS Y DEMAS BIENES DE USO COMUN O DESTINADOS A UN SERVICIO PUBLICO DEL PROPIO MUNICIPIO. AQUELLAS VIAS PUBLICAS QUE NO SE LES DE EL USO PUBLICO A QUE ESTAN DESTINADAS POR RESOLUCION DE LAS AUTORIDADES MUNICIPALES, TENDRAN CARACTER DE INALIENABLES E IMPRESCRIPTIBLES.
 
 ###### ARTICULO 11.
 
-Los ciudadanos del municipio tendrán las obligaciones y prerrogativas que establecen la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado.
+CORRESPONDE A LA DIRECCION DICTAR LAS MEDIDAS NECESARIAS PARA REMOVER LOS OBSTACULOS QUE IMPIDAN EL GOCE DE LOS ESPACIOS PUBLICOS, EN LOS INMUEBLES A QUE SE REFIERE EL ARTICULO ANTERIOR, CONSIDERANDOSE DE ORDEN PUBLICO TALES MEDIDAS.
 
-## TITULO SEGUNDO. DE LOS AYUNTAMIENTOS
+## TITULO SEGUNDO. VIA PUBLICA
 
-### CAPITULO I. De la Integración de los Ayuntamientos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2009)</small>
+### CAPITULO TERCERO. INSTALACIONES SUBTERRANEAS Y AEREAS EN LA VIA PUBLICA
 
 ###### ARTICULO 12.
 
-En cada municipio habrá un ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Para los efectos de esta Ley, por Cabildo se entiende los miembros del Ayuntamiento, reunidos en sesión y como un cuerpo colegiado de gobierno; y por Ayuntamiento se entiende el órgano de gobierno del Municipio, a través del cual sus ciudadanos realizan su voluntad política y la autogestión de los intereses de la comunidad.
-
-La competencia que otorga al gobierno municipal la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de San Luis Potosí, la presente Ley y demás ordenamientos, se ejercerá por el Ayuntamiento de manera exclusiva.
+LAS VIAS PUBLICAS Y LOS DEMAS BIENES DE USO COMUN DESTINADOS A UN SERVICIO PUBLICO, SON BIENES DE DOMINIO PUBLICO DEL MUNICIPIO, REGIDOS POR LAS DISPOSICIONES CONTENIDAS EN LA LEY ORGANICA Y TENDRAN EL DISEÑO Y SECCION QUE ESTABLEZCA LA LEY DE FRACCIONAMIENTOS Y LAS RESOLUCIONES DEL AYUNTAMIENTO TOMADOS (SIC) EN CADA CASO.
 
 ###### ARTICULO 13.
 
-Los ayuntamientos se integrarán mediante la aplicación de los principios de mayoría relativa, y de representación proporcional, de la forma siguiente:
-
-I. El Municipio de San Luis Potosí con un Presidente, un regidor y dos síndicos de mayoría relativa y hasta catorce regidores de representación proporcional;
-
-II. Los de Ciudad Valles, Matehuala, Rioverde, Soledad de Graciano Sánchez y Tamazunchale, con un Presidente, un regidor y dos síndicos de mayoría relativa, y hasta once regidores de representación proporcional, y
-
-III. Los restantes municipios, con un Presidente, un regidor y un síndico de mayoría relativa, y hasta cinco regidores de representación proporcional.
-
-Por cada Regidor y Síndico propietarios se elegirá un suplente.
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
-
-La o el síndico deberá tener título y cédula profesional de abogado, o licenciado en derecho, con una antigüedad mínima de tres años en el ejercicio de la profesión.
-
-Ningún integrante del Ayuntamiento podrá ocupar cargo honorífico o remunerado de director, jefe de departamento o empleado del Municipio, ni ningún otro de sus organismos intermunicipales o paramunicipales, debiendo constreñirse su responsabilidad al ejercicio propiamente edilicio.
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
-
-El desempeño de cualquiera de los cargos mencionados en el párrafo anterior, por algún integrante del ayuntamiento, sin la respectiva licencia, será considerado como causal de responsabilidad en los términos y para los efectos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+LA DETERMINACION DE VIA PUBLICA OFICIAL LA REALIZARA LA DIRECCION A TRAVES DE LOS PLANOS DE ALINEAMIENTO, NUMEROS OFICIALES Y DERECHOS DE VIA QUE FORMEN PARTE INTEGRANTE DE LA DOCUMENTACION TECNICA DEL PROGRAMA O QUE EN SU CASO SE DICTEN.
 
 ###### ARTICULO 14.
 
-El Presidente Municipal, regidores y síndicos del Ayuntamiento electos por votación popular, podrán ser reelectos para el período inmediato. Para poder reelegirse, la postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato por resolución firme.
+SE REQUIERE LA AUTORIZACION EXPRESA LA DIRECCION (SIC) A TRAVES DE LA DIRECCION PARA:
 
-En el caso de los funcionarios suplentes, podrán ser electos para el período inmediato siguiente sin ser considerado como reelección, siempre que no hayan ejercido funciones o hayan hecho la protesta de ley del cargo como propietarios en el Ayuntamiento respectivo.
+I. REALIZAR OBRAS, MODIFICACIONES O REPARACIONES EN LA VIA PUBLICA.
+
+II. OCUPAR LA VIA PUBLICA CON INSTALACIONES DE SERVICIO PUBLICO, CON MATERIALES O CONSTRUCCIONES PROVISIONALES U OTROS QUE OBSTACULICEN EL LIBRE TRANSITO.
+
+III. ROMPER EL PAVIMENTO O HACER CORTES EN LAS GUARNICIONES, ACERAS Y ANDADORES DE LA VIA PUBLICA PARA LA EJECUCION DE OBRAS PUBLICAS O PRIVADAS.
+
+IV. CONSTRUIR INSTALACIONES SUBTERRANEAS EN LA VIA PUBLICA.
 
 ###### ARTICULO 15.
 
-Para ser miembro de un Ayuntamiento o Concejo Municipal en su caso, se requiere:
-
-I. Ser ciudadano potosino en ejercicio de sus derechos;
-
-II. Ser originario del Municipio y con un año por lo menos de residencia efectiva en el mismo inmediata anterior a la fecha de la elección o designación, en su caso; o ser vecino del mismo, con residencia efectiva de dos años inmediata anterior al día de la elección o designación;
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2008)</small>
-
-III. No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme, por la comisión de delitos dolosos que hayan ameritado pena de prisión;
-
-IV. No ser miembro de las fuerzas armadas o de policía que estén en servicio activo en el Estado, con cargo y atribuciones de mando en el municipio respectivo, a menos que (sic) separen de su cargo en el tiempo y forma que establece la ley de la materia, y
-
-V. No ser ministro de culto religioso a menos que haya renunciado a su cargo en los términos que establece la ley de la materia.
+EL AYUNTAMIENTO EN CORRESPONDENCIA CON EL PROGRAMA Y LAS NORMAS TECNICAS OFICIALES CORRESPONDIENTES, PODRA OTORGAR AUTORIZACION PARA LAS OBRAS ANTERIORES, SEÑALANDO EN CADA CASO, LAS CONDICIONES BAJO LAS CUALES SE CONCEDERA; MEDIDAS DE PROTECCION QUE DEBERAN TOMARSE; ACCIONES DE RESTRICCION Y HORARIOS AUTORIZADOS, Y MEJORAMIENTO DE LAS AREAS VERDES Y ZONAS ARBOLADAS AFECTADAS, ACATANDO LAS DISPOSICIONES TANTO URBANAS COMO ECOLOGICAS. LOS SOLICITANTES ESTARAN OBLIGADOS A EFECTUAR INMEDIATAMENTE LAS REPARACIONES CORRESPONDIENTES PARA RESTAURAR O MEJORAR EL ESTADO ORIGINAL DE LA VIA PUBLICA A SATISFACCION DEL AYUNTAMIENTO O A PAGAR SU IMPORTE CUANDO ESTE ULTIMO LAS REALICE.
 
 ###### ARTICULO 16.
 
-La Ley Electoral del Estado normará el proceso de preparación, desarrollo y verificación de las elecciones para la renovación de los ayuntamientos, así como el procedimiento para la asignación de regidurías de representación proporcional.
+NO SE AUTORIZA EL USO DE LA VIA PUBLICA EN LOS CASOS SIGUIENTES:
 
-### CAPITULO II. De la Instalación de los Ayuntamientos
+I. PARA AUMENTAR EL AREA DE UN PREDIO O DE UNA CONSTRUCCION.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+II. PARA OBRAS, ACTIVIDADES O FINES QUE OCASIONEN MOLESTIAS A LOS VECINOS, TALES COMO LA PRODUCCION DE POLVOS, HUMO, MALOS OLORES, GASES, RUIDOS Y LUCES INTENSAS.
+
+III. PARA CONDUCIR LIQUIDOS POR SU SUPERFICIE.
+
+IV. PARA DEPOSITOS FIJOS DE BASURA Y OTROS DESECHOS.
+
+V. PARA INSTALAR COMERCIOS SEMI-FIJOS QUE LESIONEN INTERESES DEL COMERCIO ESTABLECIDO.
+
+VI. PARA PREPARACION DE MEZCLAS, REALIZAR CORTES DE MATERIALES, TRABAJOS DE VARILLAS; REPARAR VEHICULOS O EFECTUAR CUALQUIER OTRO TRABAJO, INCLUSO EXTENSION DE UN ESTABLECIMIENTO COMERCIAL EN LA VIA PUBLICA; Y
+
+VII. PARA AQUELLOS OTROS FINES QUE EL AYUNTAMIENTO CONSIDERE CONTRARIOS AL INTERES PUBLICO.
+
+EL QUE OCUPE SIN AUTORIZACION LA VIA PUBLICA CON CONSTRUCCIONES O INSTALACIONES SUPERFICIALES, AEREAS O SUBTERRANEAS, ESTARA OBLIGADO A RETIRARLAS O A DEMOLERLAS. EN CASO DE QUE EL AYUNTAMIENTO LLEVE A CABO EL RETIRO O DEMOLICION DE LAS OBRAS, LOS GASTOS SERAN A CUENTA DEL PROPIETARIO O POSEEDOR.
+
+### CAPITULO CUARTO. NOMENCLATURA OFICIAL
 
 ###### ARTICULO 17.
 
-Los ayuntamientos serán electos para un periodo de tres años; se instalarán solemne y públicamente el día uno de octubre del año de su elección; sus miembros protestarán ante quien designe el Honorable Congreso del Estado.
+LOS PERMISOS O CONCESIONES QUE EL AYUNTAMIENTO OTORGUE PARA LA OCUPACION, USO Y APROVECHAMIENTO DE LAS VIAS PUBLICAS O CUALESQUIERA OTROS BIENES DE USO COMUN O DESTINADOS A UN SERVICIO PUBLICO, NO CREAN NINGUN DERECHO REAL O POSESORIO. LOS PERMISOS O CONCESIONES SERAN SIEMPRE REVOCABLES Y TEMPORALES Y EN NINGUN CASO PODRA OTORGARSE CON PERJUICIO DEL LIBRE, SEGURO Y EXPEDITO TRANSITO, DEL ACCESO A LOS PREDIOS COLINDANTES, DE LOS SERVICIOS PUBLICOS INSTALADOS Y EN GENERAL DE CUALESQUIERA DE LOS FINES A QUE ESTEN DESTINADAS LAS VIAS PUBLICAS Y LOS BIENES MENCIONADOS.
 
 ###### ARTICULO 18.
 
-Para la instalación de los ayuntamientos se requerirá la presencia de cuando menos las dos terceras partes de sus miembros electos.
-
-En caso de que por cualquier causa no se presentare el número de integrantes necesarios para llevar a cabo la instalación, se declararán en sesión permanente y mediante escrito signado por los miembros presentes, se mandará llamar a los suplentes de los que no se hubieren presentado, si los hubiera, para que acudan dentro de las tres horas siguientes del mismo día.
-
-Si tampoco se presentaren los suplentes, tratándose de regidores de representación proporcional, se llamará en términos del párrafo anterior al que le siga en la lista, y si tampoco se presentare se llamará a su suplente y así sucesivamente hasta agotar la lista respectiva. Si realizado lo anterior aún no se completare el quórum que señala el primer párrafo de este artículo, pero se encuentran presentes por lo menos la mitad de los integrantes del Ayuntamiento, se llevará a cabo la instalación.
-
-Los miembros propietarios que no se hubieren presentado a la sesión de instalación, se entenderá por ese hechos (sic), que renuncian al ejercicio del mandato, salvo cuando dicha inasistencia se justifique debidamente dentro de los tres días siguientes al de la instalación; si no lo hicieren, serán suplidos en forma definitiva por sus suplentes que hayan acudido.
-
-Si la instalación no fuere posible en términos de los párrafos anteriores, se dará aviso al Congreso del Estado para que proceda conforme lo establece la Constitución Política del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
+EN LOS PERMISOS QUE LA PROPIA DIRECCION EXPIDA PARA OCUPACION O USO DE LA VIA PUBLICA; SE INDICARA EL PLAZO PARA RETIRAR LAS OBRAS O LAS INSTALACIONES A QUE HA HECHO REFERENCIA. TODO PERMISO QUE EXPIDA PARA LA OCUPACION O USO DE LA VIA PUBLICA SE ENTENDERA CONDICIONADO A LA OBSERVANCIA DEL PRESENTE TITULO AUNQUE NO SE EXPRESE.
 
 ###### ARTICULO 19.
 
-El Ayuntamiento saliente dará posesión de las oficinas, bienes y fondos municipales, así como de los inventarios, en los términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí, a los miembros del nuevo Ayuntamiento. Inmediatamente después, quien haya sido designado por el Congreso del Estado, tomará la protesta del nuevo Ayuntamiento en los siguientes términos: "Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las demás disposiciones que de ellas emanen y desempeñar fielmente los cargos que el pueblo de este Municipio les ha conferido" (los interpelados contestarán: "Sí protesto") "Si así no lo hicieran, que el pueblo se los demande".
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
-
-Rendida la protesta de ley, el Presidente Municipal enunciará las líneas generales de trabajo que se propone realizar el Ayuntamiento durante el periodo de su gestión. Acto seguido, en la misma sesión, el Cabildo, a propuesta del Presidente Municipal, designará conforme a lo dispuesto en las fracciones, V del artículo 70, y XXIV del inciso C) del artículo 31 de la presente Ley, a la o el Secretario; a la o el Tesorero; y, en su caso, la o el Oficial Mayor, y delegadas o delegados municipales. En la misma sesión se hará el nombramiento de la o el Contralor Interno, así como a las o los titulares de las unidades, investigadora; y substanciadora, en los términos establecidos en esta Ley. De todo lo anterior se levantará el acta de cabildo, respectiva.
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
-
-El nombramiento de la o el Secretario; la o el Tesorero; la o el Oficial Mayor; y delgadas o delegados municipales, será por un período máximo igual a la duración de la administración que los designó; pudiendo removerlos libremente a propuesta de la o el Presidente Municipal y por acuerdo del Cabildo, sin responsabilidad para el ayuntamiento. En el caso de la o el Contralor Interno Municipal, así como las o los titulares de las unidades, investigadora; y substanciadora, que serán nombrados; removidos, en su caso; y permanecerán en el cargo, en los términos establecidos en esta Ley.
+TODA PERSONA QUE OCUPE LA OBRA PUBLICA CON OBRA O INSTALACIONES, ESTARA OBLIGADA A RETIRARLA POR SU CUENTA CUANDO LA DIRECCION LO REQUIERA, ASI COMO MANTENER LAS SEÑALES NECESARIAS PARA EVITAR ACCIDENTES.
 
 ###### ARTICULO 20.
 
-El Ayuntamiento residirá en la cabecera del Municipio. Podrá funcionar temporal o permanentemente en otro centro de población del propio Municipio, mediante la aprobación del Pleno del Cabildo y con el acuerdo del Congreso del Estado.
+SOLO PODRAN UTILIZARSE LAS BANQUETAS PARA EL TRANSITO DE PEATONES, QUEDANDO PROHIBIDO USAR LAS MISMAS PARA EL ESTABLECIMIENTO DE CUALQUIER OBSTACULO, YA SEA FIJO, SEMI-FIJO O MOVIL, QUE IMPIDA LA DEBIDA CIRCULACION QUE A DICHAS BANQUETAS CORRESPONDE; TAMPOCO SE PERMITIRA ESTACIONAR VEHICULOS SOBRE LAS ACERAS O SITIOS PARA EL TRANSITO PEATONAL.
 
-### CAPITULO III. Del Funcionamiento de los Ayuntamientos
+### CAPITULO QUINTO. ALINEAMIENTO Y NUMERO OFICIAL
 
 ###### ARTICULO 21.
 
-Para resolver los asuntos de su competencia los ayuntamientos celebrarán sesiones ordinarias, extraordinarias y solemnes.
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-I. Las sesiones ordinarias se llevarán a cabo por lo menos dos veces por mes;
-
-II. Las sesiones extraordinarias se llevarán a cabo cuando se considere que debe tratarse algún o algunos asuntos que requieran urgente resolución. En las sesiones extraordinarias se tratarán exclusivamente los asuntos que las hayan motivado, y
-
-III. Las sesiones solemnes serán las que determine el Cabildo para la conmemoración de aniversarios históricos y para la presentación de los informes anuales que deba rendir el Presidente Municipal, o cuando ocurran representantes de los Poderes del Estado, de la Federación o personalidades distinguidas.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-Las sesiones de Cabildo serán públicas, permitiéndose el libre acceso al público y a los servidores públicos del ayuntamiento.
-
-Las sesiones podrán llevarse a cabo previa solicitud de por lo menos una tercera parte de los integrantes del Ayuntamiento, cuando por cualquier motivo el Presidente Municipal se encuentre imposibilitado o se niegue a hacerlo.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-En los ayuntamientos de más de 150,000 habitantes, las sesiones de Cabildo deberán ser trasmitidas en vivo mediante medios electrónicos.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-Únicamente podrán celebrarse sesiones privadas a petición del presidente municipal o de la mayoría de los miembros del cabildo, cuando se traten asuntos relativos a la responsabilidad de los integrantes del Cabildo o de los servidores públicos de la administración municipal, o bien cuando se rindan informes en materia contenciosa.
+EL ESTACIONAMIENTO DE VEHICULOS EN LAS CALLES Y AVENIDAS DE ESTE MUNICIPIO SERA REGULADO POR LA DIRECCION; QUEDANDO FACULTADO PARA SUPRIMIRLO O MODIFICARLO SEGUN CONVENGA AL INTERES PUBLICO. EN AQUELLOS LUGARES DONDE SE PROHIBA EL ESTACIONAMIENTO EN FORMA DEFINITIVA O LIMITE DE TIEMPO, SE COLOCARAN SEÑALES QUE ASI LO INDIQUEN, EN COORDINACION CON LA DELEGACION DE TRANSITO DEL ESTADO.
 
 ###### ARTICULO 22.
 
-El Ayuntamiento podrá realizar las sesiones antes citadas, fuera del recinto oficial del Cabildo dentro de su circunscripción territorial cuando lo considere conveniente, mediante acuerdo de sus integrantes que harán público. Asímismo podrá realizarlas con la finalidad de escuchar y consultar a la ciudadanía para la atención y solución de sus necesidades y problemas colectivos, así como sobre todo aquello que coadyuve al desarrollo de la comunidad. A estas sesiones deberá convocarse a la ciudadanía y podrá invitarse a representantes de los poderes del Estado, de la Federación y servidores públicos municipales.
-
-Los ayuntamientos no podrán sesionar en recintos de organismos políticos o religiosos.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+SE REQUIERE LA AUTORIZACION DE LA DIRECCION Y DELEGACION DE TRANSITO DEL ESTADO PARA EL USO EXCLUSIVO DE ESTACIONAMIENTO EN LA VIA PUBLICA EN LOS ESPACIOS DE USO PUBLICO Y COMERCIAL PARA AQUELLOS VEHICULOS QUE PRESTEN SERVICIO DE TRANSPORTE PUBLICO Y DE CARGA, DEBIENDO CUBRIR LA CUOTA CORRESPONDIENTE Y SUJETANDOSE A LO ESTABLECIDO EN EL PRESENTE REGLAMENTO.
 
 ###### ARTICULO 23.
 
-A las sesiones ordinarias deberá citarse a los integrantes del cabildo, con por lo menos cuarenta y ocho horas de anticipación; debiendo acompañar al citatorio el orden del día correspondiente, al cual deberá ajustarse la sesión, así como la documentación de los asuntos que se van a tratar en dicha sesión.
+EN CASO DE FUERZA MAYOR, LAS EMPRESAS ENCARGADAS DE PRESTAR SERVICIOS PUBLICOS PODRAN EJECUTAR DE INMEDIATO LAS OBRAS DE EMERGENCIA QUE SE REQUIERAN, PERO ESTARAN OBLIGADOS A DAR AVISO Y REGULARIZAR EL TRAMITE CORRESPONDIENTE A LAS ACCIONES REALIZADAS, EN UN PLAZO NO MAYOR DE TRES DIAS, A PARTIR DE AQUEL EN QUE SE INICIAN DICHAS OBRAS.
 
-Para el caso de sesiones extraordinarias, la convocatoria se hace para tratar uno o más asuntos urgentes, no aplica el punto de asuntos generales; y deberá citarse a los integrantes del ayuntamiento cuando menos con veinticuatro horas de anticipación, debiendo acompañar al citatorio el orden del día correspondiente, al cual deberá ajustarse la sesión, así como la documentación de los asuntos que se tratarán en dicha sesión.
+CUANDO EL AYUNTAMIENTO TENGA NECESIDAD DE REMOVER O DE RETIRAR DICHAS OBRAS, NO ESTARA OBLIGADO A PAGAR CANTIDAD ALGUNA POR LOS DAÑOS CAUSADOS Y EL COSTO DEL RETIRO SERA A CARGO DE LA EMPRESA CORRESPONDIENTE.
 
 ###### ARTICULO 24.
 
-Los integrantes del Ayuntamiento no podrán excusarse de asistir a las sesiones, sino por causa justificada y previo aviso por escrito al Cabildo.
+QUEDA PROHIBIDO A LOS PARTICULARES EL DESIGNAR A LOS ESPACIOS DE DOMINIO PRIVADO DESTINADOS A DAR ACCESO A PROPIEDADES PRIVADAS, CON NOMBRES COMUNES DE CALLE, CALLEJON, PLAZA, RETORNO U OTRO SIMILAR PROPIOS DE LAS VIAS PUBLICAS, O USAR NOMENCLATURA PROPIA DE ESTAS VIAS.
 
 ###### ARTICULO 25.
 
-Los ayuntamientos podrán sesionar con la asistencia de más de la mitad de sus integrantes quienes tendrán los mismos derechos. Presidirá las sesiones el Presidente Municipal, debiendo tomarse los acuerdos por mayoría de votos; teniendo éste voto de calidad cuando haya empate; en su caso, el voto de calidad lo tendrá quien lo sustituya.
+LAS INSTALACIONES SUBTERRANEAS, PARA LOS SERVICIOS PUBLICOS DE TELEFONOS, ALUMBRADO, SEMAFOROS, ENERGIA ELECTRICA, GAS Y CUALESQUIERA OTRAS, DEBERAN COLOCARSE A LO LARGO DE LAS ACERAS O CAMELLONES Y EN TAL FORMA QUE NO INTERFIERAN ENTRE SI, CUANDO SE LOCALICEN EN LAS ACERAS, DEBERAN DISTAR POR LO MENOS 0.50 METROS DEL ALINEAMIENTO OFICIAL. EL AYUNTAMIENTO AUTORIZARA LA CONSTRUCCION DE INSTALACIONES SUBTERRANEAS FUERA DE LAS ZONAS DESCRITAS EN EL PARRAFO ANTERIOR, CUANDO LA NATURALEZA DE LAS OBRAS LO REQUIERA.
 
 ###### ARTICULO 26.
 
-Si alguno de los miembros del Ayuntamiento tuviere un interés directo o indirecto en algún asunto de los que se vayan a tratar, deberá manifestarlo y ausentarse de la sala de sesiones durante la discusión y resolución del mismo.
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
-
-La infracción a lo dispuesto en el párrafo anterior, será causa de responsabilidad y se sancionará en los términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+EN LOS CASOS DE CALLES CON RESTRICCIONES POR TRATARSE DE ZONAS HISTORICAS, MONUMENTALES, VIAS DE USO PEATONAL Y PARA CONSERVAR LA IMAGEN URBANA DEL CENTRO DE POBLACION, DETERMINADOS POR EL PROGRAMA, LA UBICACION DE LAS DIVERSAS INSTALACIONES SERA SUBTERRANEA U OCULTA, DE MANERA QUE SOLO QUEDEN VISIBLES LOS ELEMENTOS ESTRICTAMENTE NECESARIOS.
 
 ###### ARTICULO 27.
 
-A solicitud de los ayuntamientos el Gobernador del Estado podrá asistir a las sesiones de Cabildo y podrá tomar parte en las discusiones.
-
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2007)</small>
+LAS INSTALACIONES AEREAS EN LA VIA PUBLICA, DEBERAN ESTAR SOSTENIDAS SOBRE POSTES, ENTENDIDOS ESTOS COMO ELEMENTOS DE MADERA, CONCRETO O FIERRO, EMPOTRADO EN EL SUELO Y QUE SIRVE A ALGUN SERVICIO PUBLICO, COMO TELEFONOS O DE ELECTRICIDAD, O BIEN, COMO UN DISTINTIVO COMO SEÑAL. DICHOS POSTES SE COLOCARAN A 0.25 METROS HACIA ADENTRO DE LA ORILLA DE LAS BANQUETAS Y EN CASO DE NO EXISTIR ESTAS, SE COLOCARAN A 0.25 METROS HACIA ADENTRO DE LA BANQUETA EN PROYECTO. EN LA VIA PUBLICA EN QUE NO EXISTAN ACERAS, LOS INTERESADOS SOLICITARAN AL AYUNTAMIENTO EL TRAZO DE LA GUARNICION.
 
 ###### ARTICULO 28.
 
-El resultado de las sesiones se hará constar por el Secretario en un libro de actas, en donde quedarán anotados los extractos de los asuntos tratados y el resultado de las votaciones. Cuando el acuerdo de Cabildo se refiera a normas de carácter general, tales como reglamentos, bandos o iniciativas de leyes, éstos constarán íntegramente en el libro de actas. En los otros casos, además del extracto, bastará con que los documentos relativos al asunto tratado se agreguen al apéndice del libro de actas. En ambos casos, deberán firmar los miembros que hubieren estado presentes.
-
-Para garantizar la salvaguarda de los acuerdos tomados en las sesiones de Cabildo y consignados en el Libro de Actas, el Ayuntamiento, por conducto del Secretario, deberá remitir al Archivo Histórico del Estado, al término de cada año de su gestión, debidamente enumeradas, una copia certificada de las actas correspondientes a dicho periodo.
+EL AYUNTAMIENTO PODRA ORDENAR A LOS DUEÑOS DE PREDIOS EL RETIRO, SUPRESION O CAMBIO DE LUGAR DE POSTES O INSTALACIONES, POR RAZONES DE SEGURIDAD, INTERES PUBLICO O POR QUE SE MODIFIQUE LA ANCHURA DE LAS ACERAS O SE EJECUTE CUALQUIER OBRA EN LA VIA PUBLICA QUE LO REQUIERA. SI NO LO HICIERE DENTRO DEL PLAZO QUE SE LE HAYA FIJADO, EL PROPIO AYUNTAMIENTO LO EJECUTARA CON CARGO A DICHOS PROPIETARIOS.
 
 ###### ARTICULO 29.
 
-Los reglamentos, bandos, circulares y disposiciones administrativas de observancia general que expidan los ayuntamientos dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, que deriven de la presente Ley y de las demás en materia municipal que de conformidad con lo establecido en el artículo 114 de la Constitución del Estado expida el Congreso Local, complementarán en lo conducente las disposiciones de las mismas y asegurarán en cuanto corresponda, la participación ciudadana y vecinal.
-
-La facultad de presentar las iniciativas correspondientes a las normas que deriven de lo consignado en el párrafo anterior corresponde:
-
-I. Al Presidente Municipal, regidores y síndicos;
-
-II. A las comisiones de Cabildo colegiadas o individuales, y
-
-III. A los ciudadanos vecinos del municipio.
-
-Las iniciativas correspondientes al presupuesto de egresos y sus reformas sólo podrá (sic) presentarse por los miembros del Ayuntamiento.
+QUEDA PROHIBIDO A TODO PARTICULAR O PRESTADORES DE SERVICIOS PUBLICOS, LA COLOCACION DE SUS INSTALACIONES EN ACERAS Y BANQUETAS, CUANDO CON ELLO SE IMPIDA LA ENTRADA A UN PREDIO O CALLE. SI EL ACCESO AL PREDIO SE CONSTRUYE ESTANDO YA COLOCADO EL POSTE O LAS INSTALACIONES, DEBERA SER CAMBIADO DE LUGAR POR EL PROPIETARIO DE LA MISMA, PERO LOS GASTOS SERAN POR CUENTA DEL PROPIETARIO DEL PREDIO. ASIMISMO CUANDO SE PRETENDAN REALIZAR EDIFICACIONES O REMODELACIONES EN SUS INMUEBLES Y REQUIERAN LA REMOCION DE ALGUNA INSTALACION DE SERVICIO PUBLICO, HARAN LA SOLICITUD A LA DIRECCION, LA CUAL RESOLVERA LO CONDUCENTE, SIENDO EL COSTO DE LOS TRABAJOS A CARGO DEL SOLICITANTE.
 
 ###### ARTICULO 30.
 
-La expedición de las normas a que se refiere el artículo anterior se sujetará al siguiente procedimiento:
+EL AYUNTAMIENTO ESTABLECERA Y AUTORIZARA LA NOMENCLATURA OFICIAL PARA LA DENOMINACION DE LAS CALLES, AVENIDAS, CALLEJONES, PARQUES, JARDINES, PLAZAS, BARRIOS, COLONIAS, FRACCIONAMIENTOS Y DEMAS ESPACIOS DE USO COMUN O BIENES PUBLICOS DENTRO DEL MUNICIPIO.
 
-I. En la discusión para la aprobación de las normas a que se refiere el artículo anterior, podrán participar únicamente los integrantes del Cabildo y el Secretario General del Ayuntamiento, éste último sólo con voz informativa;
-
-Cuando se rechace por el Cabildo la iniciativa de una norma municipal, ésta no podrá volver a presentarse para su estudio sino transcurridos por lo menos seis meses desde el acuerdo de la negativa;
-
-II. Para aprobar un proyecto de norma municipal se requerirá el voto en sentido afirmativo, tanto en lo general como en lo particular, de la mayoría de los integrantes del Ayuntamiento que participen en la sesión en que sea sometido a votación;
-
-III. La norma aprobada en los términos de la fracción anterior se pasará al Presidente Municipal para su promulgación obligatoria;
-
-IV. Las normas expedidas por los ayuntamientos que sean de observancia general, serán obligatorias a partir de su publicación, salvo disposición en contrario, la que deberá hacerse en el Periódico Oficial del Estado, así como en lugares públicos y visibles de la cabecera municipal y en su caso delegaciones, lo que certificará el Secretario del Ayuntamiento, y
-
-V. Los reglamentos emanados de los ayuntamientos podrán modificarse en cualquier tiempo, siempre que se cumpla con los requisitos de su aprobación, promulgación y publicación.
-
-### CAPITULO IV. De las Facultades de los Ayuntamientos
+### CAPITULO SEXTO. RESTRICCIONES DE ALINEAMIENTO DE CONSTRUCCION
 
 ###### ARTICULO 31.
 
-Son facultades y obligaciones de los ayuntamientos:
-
-a) En materia de Planeación:
-
-I. Constituir a través de la dependencia correspondiente, al inicio de su gestión, el Comité de Planeación y Desarrollo Municipal, atendiendo las sugerencias de los sectores social y privado cuyas opiniones se hayan solicitado previamente; dicho Comité promoverá la coordinación con los planes nacionales y estatales de desarrollo;
-
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2019)</small>
-
-I BIS. Constituir, a más tardar en el primer semestre el Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable, cuyas funciones y organización se establecerán en su reglamento;
-
-II. Formular y actualizar los programas municipales de desarrollo urbano con sujeción a las leyes estatales y federales, en los cuales se deberán incluir estadísticas y datos sociológicos;
-
-III. Colaborar en el fortalecimiento del desarrollo rural; al incremento de la producción agrícola y ganadera; así como al impulso de la organización económica de ejidatarios, comuneros y pequeños propietarios, con el propósito de cumplir con las atribuciones que le asignan las leyes reglamentarias del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos. Los ayuntamientos deberán ejercitarlas, dictando a su vez las disposiciones legales que aseguren el cumplimiento de los programas agrarios;
-
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2008)</small>
-
-IV. Acordar la colaboración con otros municipios, con el Estado, o con los particulares, sobre programas de beneficio a la población, así como de asesoría y de acciones administrativas, contables, jurídicas, logísticas y demás que resulten necesarias para el cumplimiento eficiente de las funciones y servicios a su cargo;
-
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2016)</small>
-
-V. Autorizar mediante el acuerdo de por lo menos las dos terceras partes de sus integrantes, los empréstitos, gravámenes o enajenaciones de los bienes municipales, y en general las deudas que puedan pagarse dentro del periodo constitucional de su administración o fuera de éste con aprobación del Congreso, observando en todo caso lo previsto en la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí;
-
-VI. Autorizar mediante el acuerdo de por lo menos las dos terceras partes de sus integrantes, los contratos, concesiones de obras o servicios municipales, en los términos de lo dispuesto en la Constitución Política del Estado y demás ordenamientos aplicables, solicitando en su caso la aprobación del Congreso del Estado;
-
-VII. Participar en el ámbito de su competencia, de conformidad con las leyes federales y estatales de la materia, y en coordinación con la Federación y el Estado, en la planeación y regularización del desarrollo de los centros urbanos involucrados en procesos de conurbación;
-
-VIII. Participar en la formulación de planes de desarrollo regional, que deberán estar en concordancia con los planes generales en la materia;
-
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
-
-IX. Contar a más tardar durante el segundo semestre de la administración, con el plano de la cabecera municipal, en el que se indique el fundo legal y la ubicación de los bienes inmuebles de su patrimonio; asimismo, contar con un plano del municipio y de la cabecera municipal, en el que se indiquen los usos de suelo, debiendo actualizarlo por lo menos en forma bianual;
-
-X. Participar en la creación y administración de sus reservas territoriales y zonas de reserva ecológica, y en la elaboración y aplicación de programas de ordenamiento en esta materia;
-
-XI. Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, y emitir las declaratorias de provisiones, usos, reservas y destinos de áreas y predios;
-
-XII. Celebrar con el acuerdo previo de las dos terceras partes de sus integrantes, convenios con la Federación para la administración y custodia de las zonas federales;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
-
-XIII. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando éstos afecten su ámbito territorial;
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
-
-XIV. Contar con atlas municipal de riesgos;
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
-
-XV. Asociarse en comisiones intermunicipales para enfrentar problemas comunes, para la ejecución y operación de obras, prestación de servicios públicos, concesiones de éstos, administración de ingresos y egresos, o la asunción de atribuciones, a través de la celebración de los convenios respectivos, y
-
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
-
-XVI. Apoyar, en la medida de sus respectivas capacidades presupuestales, al Fondo Municipal para la Cultura y las Artes previsto en el artículo 12 fracción XX de la Ley de Cultura para el Estado y Municipio de San Luis Potosí, con el objeto de propiciar la creación, formación y desarrollo de los creadores y artistas de cada municipio.
-
-b) En materia Normativa:
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2011)</small>
-
-I. Expedir y publicar bandos de policía y gobierno, reglamentos, circulares y demás disposiciones municipales conforme al procedimiento que establece la presente Ley;
-
-II. Iniciar leyes y sus reformas ante el Congreso del Estado, en asuntos de competencia municipal;
-
-III. Intervenir ante toda clase de autoridades, cuando por disposiciones de tipo administrativo se afecten intereses municipales;
-
-IV. Dividir la demarcación territorial municipal para efectos administrativos;
-
-V. Otorgar con la aprobación del Congreso del Estado, previo cumplimiento de los requisitos necesarios, la categoría política y denominación que les corresponda a los centros de población conforme a esta Ley;
-
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
-
-VI. Formular y remitir al Congreso del Estado para su aprobación, a más tardar el veinticinco de noviembre de cada año, su proyecto de Ley de Ingresos para el ejercicio fiscal siguiente. De no hacerlo así, se tomarán como iniciativas las leyes que hubiesen regido durante el año fiscal inmediato anterior. Los integrantes del ayuntamiento que incumplan con esta obligación serán sancionados de conformidad con lo establecido en la Ley de Responsabilidades Administrativas para el Estado y Municipios San Luis Potosí y demás ordenamientos que sean aplicables;
-
-VII. Los ayuntamientos podrán solicitar al Congreso del Estado las modificaciones que a su juicio ameriten las leyes de ingresos ya aprobadas;
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2019)</small>
-
-VIII. Remitir anualmente al Congreso del Estado, a más tardar el quince de marzo de cada año, la actualización al Catálogo General de Inmuebles Municipales, así como el inventario de bienes muebles de su propiedad para efectos del control y registro de los mismos;
-
-(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2020.
-
-IX. Aprobar a más tardar el treinta de diciembre de cada año, el presupuesto anual de egresos que regirá el ejercicio fiscal inmediato posterior, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 133 de la Constitución Política del Estado; así como la cuenta pública municipal anual que presente el tesorero del ayuntamiento, remitiéndola al Congreso del Estado para su revisión y fiscalización, a más tardar el día quince de marzo del año siguiente al del ejercicio.
-
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2007)</small>
-
-Dentro de los quince días previos al inicio de cada ejercicio fiscal, el Tesorero someterá a la consideración del Ayuntamiento, las normas y criterios para fijar los parámetros que servirán de base para la asignación de las remuneraciones de sus integrantes; entre los que se considerará la proporción con el número de habitantes del municipio y su ingreso promedio, así como los ingresos disponibles.
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
-
-Al determinar en el presupuesto de egresos las remuneraciones totales de sus miembros, con independencia de los conceptos con los que se integren, los ayuntamientos deberán atender a los referidos criterios y parámetros. La asignación de una remuneración sin observar lo previsto en este artículo, se sancionará en términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí;
-
-X. Proponer para su aprobación al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XI. Reglamentar los espectáculos públicos, la publicidad y anuncios, vigilando que se desarrollen conforme a derecho, a la moral y a las buenas costumbres;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XII. Formular y aprobar su reglamento interno, en el que se habrá de considerar, entre otros, el procedimiento en caso de que fallezca algún integrante del ayuntamiento, en los términos de la fracción VI del artículo 10 de la Ley que Establece las Bases para la Emisión de Bandos de Policía y Gobierno, y Ordenamientos de los Municipios del Estado de San Luis Potosí, y
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XIII. Autorizar en los términos de la ley, los incentivos fiscales a los propietarios de los predios que tengan estatus de baldíos y que se encuentren limpio (sic), debidamente delimitados y cercados. Estímulo que operará en favor de quienes lo soliciten y demuestren el cumplimiento en los términos que establezca cada ayuntamiento.
-
-c) En materia Operativa:
-
-I. Solicitar al Ejecutivo del Estado, previo acuerdo aprobado por lo menos por las dos terceras partes de sus integrantes, y a través del Presidente Municipal, la expropiación de bienes por causa de utilidad pública;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2020)</small>
-
-II. Nombrar, a propuesta de la o el Presidente Municipal, a la o el Secretario; la o el Tesorero; la o el Contralor Interno y, en su caso, a la o el Oficial Mayor; pudiendo removerlos libremente a propuesta de la o el presidente Municipal y por acuerdo del cabildo, sin responsabilidad para el ayuntamiento. La o el Contralor Interno Municipal y las o los titulares de las unidades, investigadora; y substanciadora, serán designados de conformidad con la fracción V del artículo 70 de este Ordenamiento, por el voto de cuando menos las dos terceras partes del cuerpo edilicio, y sólo podrá ser removido por la misma mayoría.
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
-
-En caso de ausencia definitiva por cualquier motivo de la o el Secretario; la o el Tesorero; la o el Oficial Mayor; la o el Contralor Interno, o las o los titulares de las unidades, investigadora; y substanciadora, la o el Presidente deberá convocar dentro de un plazo máximo de cinco días contados a partir de la ausencia definitiva, a sesión de cabildo, a fin de que se proceda al nombramiento respectivo en los términos de este artículo.
-
-Los integrantes del ayuntamiento, y los funcionarios que designe el mismo, deberán abstenerse de recomendar o contratar, por sí o por conducto de terceros, a familiares por afinidad o consanguinidad, en línea directa o transversal hasta el cuarto grado, respecto de ellos, para obtener cualquier tipo de contrato o nombramiento con el municipio.
-
-En todo momento deberán observar el cumplimiento y salvaguarda de los derechos de los trabajadores del municipio que representan, por lo que son responsables de los procesos laborales que deriven en pago, por actos propios o de sus subalternos, generados en su administración. Esta Responsabilidad se extiende a los laudos recaídos incluso, en periodos constitucionales posteriores a su mandato, cuyo inicio del procedimiento respectivo, se haya dado durante éste;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2021)</small>
-
-III. Acordar, con la aprobación de cuando menos las dos terceras partes de sus integrantes, la concesión de los bienes y servicios públicos municipales. En ningún caso podrán concesionarse los de seguridad pública, policía preventiva municipal y tránsito;
-
-IV. Asignar a cada miembro del Ayuntamiento las comisiones relativas a los ramos de la administración municipal;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-V. Conceder por causa debidamente justificada y calificada, aprobada por lo menos por las dos terceras partes de sus integrantes, licencia al Presidente Municipal, cuando ésta sea por un término mayor de diez días naturales. Si la ausencia fuese menor de este término, bastará que dé aviso por escrito al Cabildo;
-
-VI. Nombrar en los casos en que proceda, Presidente municipal interino o sustituto, según sea el caso, de entre los miembros del Ayuntamiento;
-
-VII. Solucionar dificultades con otros ayuntamientos cuando las hubiere; y si el caso lo ameritare ocurrir al Congreso del Estado para la resolución del asunto;
-
-VIII. Conceder a los regidores y síndicos por causa debidamente justificada, permiso para ausentarse hasta por diez días naturales. Si el término es mayor deberá sujetarse a lo dispuesto en la fracción V de este inciso.
-
-IX. Administrar responsable y libremente su hacienda, así como los bienes destinados al servicio público municipal;
-
-X. Determinar el monto de apoyo económico que le corresponderá al Sistema Municipal para el Desarrollo Integral de la Familia, para el cumplimiento de sus acciones asistenciales; así como revisar el ejercicio y aplicación de dicho presupuesto;
-
-XI. Adquirir bienes en cualquiera de las formas previstas por la ley de la materia;
-
-XII. Prevenir y combatir en coordinación con las autoridades competentes, el alcoholismo, la prostitución, la adicción a las drogas y toda actividad que implique una conducta antisocial según las leyes del país y los tratados internacionales;
-
-XIII. (DEROGADA, P.O. 22 DE MAYO DE 2014)
-
-XIV. Intervenir en la regularización de la tenencia de la tierra urbana en los términos que establezca la ley;
-
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2016)</small>
-
-XV. Señalar un destino diverso a las partidas presupuestales no agotadas, cumpliendo en todo caso con lo previsto en la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí;
-
-XVI. Celebrar convenios para la seguridad social de sus trabajadores con las instituciones del ramo;
-
-XVII. Proveer lo necesario en auxilio de las autoridades competentes, para el cumplimiento de las disposiciones en materia del servicio militar nacional y seguridad pública;
-
-XVIII. Infraccionar a las personas físicas o morales por violaciones a las leyes, bandos y reglamentos municipales vigentes;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-XIX. Procurar la protección legal de las etnias en sus jurisdicciones, y tomar en consideración la opinión de las comunidades en las decisiones de Cabildo que les afecten, respetando sus tradiciones y costumbres; así como atender diligentemente las necesidades de las clases más desprotegidas socialmente;
-
-XX. Atender conforme a lo dispuesto por la ley, las recomendaciones y recursos que sobre la protección y respeto de los derechos humanos emitan las comisiones estatal y nacional;
-
-XXI. Disponer la realización del peritaje técnico a aquellos inmuebles que por su deterioro representen riesgo para la población, y promover en su caso, los procedimientos judiciales para su demolición o reparación en los términos de ley;
-
-XXII. Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia en sus jurisdicciones territoriales, conforme a las leyes federales y estatales relativas;
-
-XXIII. Constituir dentro de los primeros treinta días del inicio de la administración, el Consejo Municipal de Protección Civil, con el objeto de prevenir y actuar en casos de riesgo, siniestro o desastre en coordinación con las autoridades del Estado y la Federación. A este organismo concurrirán los sectores público, social y privado, con las funciones y atribuciones que para el efecto señalen la Ley de Protección Civil del Estado y el Reglamento Municipal correspondiente;
-
-(REFORMADA, P.O. 13 DE MAYO DE 2014) (REFORMADA, [N. DE E. REPUBLICADA], P.O. 4 DE JULIO DE 2015)
-
-XXIV. Designar por el voto de cuando menos las dos terceras partes de sus integrantes, a propuesta del Presidente Municipal, a los delegados municipales que correspondan según sea el caso;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
-
-XXV. Emitir recibos por todos y cada uno de los cobros que realice el ayuntamiento, los cuales deberán contener de forma enunciativa más no limitativa, el nombre del ayuntamiento, Clave del Registro Federal de Contribuyentes, Régimen Fiscal en que tributen conforme a la Ley del Impuesto Sobre la Renta, se deberá señalar el domicilio del área o departamento en el que se emitan las facturas electrónicas, contener el número de folio y sello digital asignado por el Sistema de Administración Tributaria, sello digital del contribuyente que lo expide, lugar y fecha de expedición, Clave del Registro Federal de Contribuyentes de la persona a favor de quien se expida, cantidad, unidad de medida y clase de los bienes, mercancías o descripción del servicio o del uso o goce que amparen, valor unitario consignado en número, importe total señalado en número y en letra, señalamiento expreso cuando la prestación se pague en una sola exhibición o en parcialidades, cuando proceda, se indicará el monto de los impuestos trasladados, desglosados por tasa de impuesto y, en su caso, el monto de los impuestos retenidos, forma en que se realizó el pago, efectivo, transferencia electrónica de fondos, cheque nominativo o tarjeta de débito, de crédito, de servicio o la denominada monedero electrónico que autorice el Servicio de Administración Tributaria, además debe contener la fecha y hora de certificación;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE MARZO DE 2020)</small>
-
-XXVI. Coordinarse con la Auditoría Superior del Estado, con el objeto de que los contralores municipales reciban capacitación y certificación en las materias específicas de fiscalización y vigilancia, relativas a sus funciones, y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE MARZO DE 2020)</small>
-
-XXVII. Las demás que señalen la presente Ley y los ordenamientos.
+ES OBLIGACION DEL AYUNTAMIENTO A TRAVES DE LA DIRECCION VIGILAR LA INSTALACION DE LA NOMENCLATURA URBANA OFICIAL. LAS PLACAS DE NOMENCLATURA DE LAS CALLES DEBERAN COLOCARSE A UNA ALTURA MINIMA DE 2.20 METROS.
 
 ###### ARTICULO 32.
 
-Quedan impedidos los ayuntamientos para:
+QUEDA ESTRICTAMENTE PROHIBIDO Y SUJETO A SANCION, EL QUE LOS PARTICULARES ALTEREN LAS PLACAS DE NOMENCLATURA O PONGAN NOMBRES NO AUTORIZADOS. ASIMISMO LA DESTRUCCION O ROBO DE LAS PLACAS SERA MOTIVO DE SANCION.
 
-I. (DEROGADA, P.O. 26 DE FEBRERO DE 2021)
-
-II. Cobrar contribuciones, y otorgar exenciones y subsidios que no estén establecidos en su Ley de Ingresos;
-
-III. Imponer sanciones administrativas por violaciones a los reglamentos municipales, que excedan los límites a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
-
-IV. Ejercer su facultad reglamentaria invadiendo las esferas de competencia de las autoridades federales, estatales o de otros municipios;
-
-V. Retener o destinar a fines distintos la cooperación que en numerario o en especie, aporten los particulares para la realización de obras de utilidad pública, y
-
-VI. Autorizar o destinar recursos humanos y partidas para el financiamiento de campañas políticas de partidos o candidatos.
-
-### CAPITULO V. De la Suspensión y Desaparición Definitiva de los Ayuntamientos
+### CAPITULO SEPTIMO. DISPOSITIVOS DE PROTECCION
 
 ###### ARTICULO 33.
 
-Para declarar la suspensión o desaparición de un Ayuntamiento, se requerirá el voto de por lo menos las dos terceras partes de los miembros del Congreso del Estado, previa audiencia de los afectados.
-
-Procede declarar desaparecido un Ayuntamiento cuando el cuerpo edilicio se haya desintegrado, o cuando no sea legal o materialmente posible el ejercicio de sus funciones, conforme al orden constitucional.
-
-Para los efectos de este artículo, se entiende que el cuerpo edilicio se ha desintegrado cuando por cualquier causa no sea posible reunir quórum legal para sesionar por tres o más veces consecutivas, siempre que no procediere que entraren en funciones los suplentes conforme a esta Ley.
-
-Se considera que no es legal o materialmente posible el ejercicio de las funciones del Ayuntamiento conforme al orden constitucional, cuando por cualquier causa se realicen actos o se incurra en omisiones que contravengan las disposiciones constitucionales y se puedan afectar los intereses del Estado o del municipio.
+EL ALINEAMIENTO OFICIAL ES LA TRAZA SOBRE EL TERRENO QUE LIMITA EL PREDIO RESPECTIVO CON LA VIA PUBLICA EN USO, O CON LA FUTURA VIA PUBLICA, DETERMINADA EN EL PROGRAMA O LOS PLANOS Y PROYECTOS LEGALMENTE APROBADOS.
 
 ###### ARTICULO 34.
 
-Son causas para la suspensión de un Ayuntamiento, las contenidas en el artículo 121 de la Constitución Política del Estado.
+EL AYUNTAMIENTO, SEÑALARA PARA CADA PREDIO QUE TENGA FRENTE A LA VIA PUBLICA UN SOLO NUMERO OFICIAL, QUE CORRESPONDA A LA ENTRADA DEL MISMO; EN EL CASO DE CONSTRUCCIONES NUEVAS ESTE SE OTORGARA PREVIA SOLICITUD, PARA LO CUAL DEBERA PRESENTAR LOS SIGUIENTES DOCUMENTOS:
+
+1. SOLICITUD
+
+2. BOLETA DE PAGO PREDIAL ACTUALIZADA (COPIA)
+
+3. ESCRITURAS O TITULO DE PROPIEDAD (COPIA)
+
+4. CEDULA CATASTRAL (COPIA)
+
+5. CROQUIS DE LOCALIZACION (MEDIDAS Y COLINDANCIAS DE CALLES)
+
+EL NUMERO OFICIAL DEBERA COLOCARSE EN PARTE VISIBLE DE LA ENTRADA DE CADA PREDIO, Y DEBERA SER CLARAMENTE LEGIBLE A UN MINIMO DE 5.00 METROS DE DISTANCIA Y A UNA ALTURA MAXIMA DE 2.40 METROS Y MINIMA DE 2.10 METROS SOBRE EL PARAMENTO. EL FRACCIONADOR TENDRA LA OBLIGACION DE COLOCAR LA NOMENCLATURA OFICIAL EN LAS CALLES DEL FRACCIONAMIENTO, CONFORME A LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE REGLAMENTO. LOS PROPIETARIOS ESTARAN OBLIGADOS A CONSERVAR EN BUEN ESTADO LAS PLACAS Y SIGNOS DE NOMENCLATURA.
 
 ###### ARTICULO 35.
 
-En caso de declararse suspendido o desaparecido un Ayuntamiento, se atenderá a lo dispuesto por el artículo 122 de la Constitución Política del Estado, conforme al procedimiento establecido en los siguientes artículos de este Capítulo.
+EL AYUNTAMIENTO PODRA ORDENAR EL CAMBIO DEL NUMERO OFICIAL PARA LO CUAL NOTIFICARA AL PROPIETARIO QUEDANDO ESTE OBLIGADO A COLOCAR EL NUEVO NUMERO EN EL PLAZO QUE SE FIJE, PUDIENDO CONSERVAR EL ANTERIOR NOVENTA DIAS NATURALES. DESPUES DE ESTE PLAZO LA CONSERVACION DEL NUMERO ANTIGUO ES MOTIVO DE SANCION. CUALQUIER CAMBIO DE NOMENCLATURA O NUMERO OFICIAL DEBERA SER NOTIFICADO POR EL AYUNTAMIENTO POR ESCRITO AL IFE, SERVICIO POSTAL MEXICANO, AL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO, A LA DIRECCION DE CATASTRO DEL ESTADO, AL SISTEMA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO Y EN SU CASO, A LA COMISION FEDERAL DE ELECTRICIDAD Y TELEFONOS DE MEXICO, ASI COMO LAS INSTITUCIONES QUE LA SOLICITEN A FIN DE QUE SE HAGAN LAS MODIFICACIONES NECESARIAS EN LOS REGISTROS CORRESPONDIENTES, CON COPIA AL PROPIETARIO.
 
 ###### ARTICULO 36.
 
-La petición para que el Congreso del Estado conozca de las causas de suspensión o desaparición de un Ayuntamiento, podrá ser formulada por el Ejecutivo del Estado, por los diputados o por ciudadanos del Municipio.
+EL AYUNTAMIENTO EXPEDIRA UN DOCUMENTO QUE CONSIGNE, A SOLICITUD DEL PROPIETARIO O POSEEDOR, ALINEAMIENTO Y/O NUMERO OFICIAL; DICHO DOCUMENTO TENDRA UNA VIGENCIA DE UN AÑO CONTADO A PARTIR DE LA FECHA DE SU EXPEDICION. SI ENTRE LA EXPEDICION DE LAS CONSTANCIAS VIGENTES Y LA PRESENTACION DE LA SOLICITUD DE LICENCIA DE CONSTRUCCION SE HUBIERE MODIFICADO EL ALINEAMIENTO O EL PROGRAMA, EL PROYECTO DE CONSTRUCCION DEBERA DE AJUSTARSE A LOS NUEVOS REQUERIMIENTOS.
+
+SI LAS MODIFICACIONES OCURRIERAN DESPUES DE CONCEDIDA LA LICENCIA DE CONSTRUCCION, SE ORDENARA LA SUSPENSION DE LOS TRABAJOS PARA QUE SE REVISE EL PROYECTO DE CONSTRUCCION Y SE AJUSTE A LAS MODALIDADES Y LIMITACIONES DEL ALINEAMIENTO QUE SE SEÑALEN EN LA NUEVA LICENCIA DE ALINEAMIENTO.
+
+CUANDO POR CAUSA DE UN PROYECTO DE PLANIFICACION LEGALMENTE APROBADO, QUEDE UNA CONSTRUCCION FUERA DEL ALINEAMIENTO OFICIAL, NO SE PERMITIRA HACER OBRAS QUE MODIFIQUEN LA PARTE DE DICHA CONSTRUCCION QUE SOBRESALGA DEL ALINEAMIENTO, SALVO AQUELLOS QUE A JUICIO DE LAS AUTORIDADES COMPETENTES SEAN NECESARIAS PARA CONSERVAR LA REFERIDA CONSTRUCCION EN LAS DEBIDAS CONDICIONES DE SEGURIDAD.
+
+EN EL EXPEDIENTE DE CADA SOLICITUD, SE CONSERVARA COPIA DE LA LICENCIA DEL ALINEAMIENTO RESPECTIVA; SE ENVIARA INFORME TRIMESTRAL A LAS INSTANCIAS CORRESPONDIENTES AFINES, PARA REALIZAR LOS REGISTROS DE AFECTACION CORRESPONDIENTE POR REMETIMIENTOS RESULTANTES DEL ALINEAMIENTO OFICIAL.
 
 ###### ARTICULO 37.
 
-Recibida la petición, previa la integración de los elementos necesarios, el Congreso la turnará a la Comisión correspondiente, la que citará al Ayuntamiento a una audiencia que se llevará a cabo ante la propia Comisión, en la fecha que al efecto se señale.
+DE ACUERDO A LA TIPOLOGIA ARQUITECTONICA DE LA ZONA Y PAAA MEJORAR LAS CONDICIONES DE CIRCULACION, EN LOS CRUZAMIENTOS DE VIAS PUBLICAS Y LA IMAGEN URBANA, ES DE UTILIDAD PUBLICA LA FORMACION DE OCHAVOS EN LOS PREDIOS SITUADOS EN LAS ESQUINAS, ENTRE LOS DE LAS CALLES CONCURRENTES. ESTOS SE FIJARAN PREVIO ESTUDIO TECNICO DE LA DIRECCION Y PODRAN SUPRIMIRSE, CUANDO EL ANGULO EN QUE SE CORTAN LOS ALINEAMIENTOS SEA MAYOR DE CIENTO VEINTE GRADOS.
 
 ###### ARTICULO 38.
 
-En dicha audiencia el Ayuntamiento por conducto de quien legalmente lo represente, contando con la presencia de sus defensores si de ellos se hace acompañar, podrá rendir en forma verbal o escrita las pruebas que estime conducentes y alegar lo que al interés del Ayuntamiento convenga.
+TODA ALTERACION AL TRAZO DEL FRENTE DE UNA CONSTRUCCION HACIA AFUERA DEL ALINEAMIENTO OFICIAL, SERA CONSIDERADA COMO INVASION DE LA VIA PUBLICA Y SERA SANCIONADO CONFORME AL PRESENTE ORDENAMIENTO.
 
 ###### ARTICULO 39.
 
-Celebrada la audiencia, la Comisión dictaminadora formulará el dictamen de resolución a fin de turnarlo al Pleno, el cual resolverá lo conducente por el voto de por lo menos las dos terceras partes de los integrantes del Congreso del Estado; en todo caso, la resolución deberá ser dictada dentro de los quince días naturales siguientes a la recepción de la petición.
+LA DIRECCION NO OTORGARA LICENCIAS DE CONSTRUCCION SIN QUE EL SOLICITANTE PREVIAMENTE PRESENTE LA LICENCIA DE USO DEL SUELO Y LA LICENCIA DE ALINEAMIENTO OFICIAL, EN LA QUE SE FIJARAN INVARIABLEMENTE LAS RESTRICCIONES QUE SOBRE LAS EDIFICACIONES DEBE IMPONERSE, ATENDIENDO A LAS QUE DETERMINE EL PROGRAMA, A LAS RESTRICCIONES ESTABLECIDAS EN LA LEY DE FRACCIONAMIENTOS, A LAS CARACTERISTICAS DE CADA PREDIO Y A LAS LIMITACIONES COMUNMENTE LLAMADAS SERVIDUMBRES QUE PARA FRENTES Y LATERALES SEA EL CASO ESTABLECER PARA QUE NO SE CONSTRUYA SOBRE DICHOS ESPACIOS.
 
 ###### ARTICULO 40.
 
-En los recesos del Congreso del Estado, la Diputación Permanente convocará de inmediato a período extraordinario para efectos de lo anterior, en cuyo caso el término para que se dicte la resolución se computará a partir de la fecha de inicio del período.
+LA DIRECCION NEGARA LA EXPEDICION DE LICENCIAS DE ALINEAMIENTO OFICIAL A PREDIOS SITUADOS FRENTE A VIAS PUBLICAS NO AUTORIZADAS PERO ESTABLECIDA (SIC) SOLO DE HECHO, ASI COMO A PREDIOS PROVENIENTES DE DIVISIONES NO AUTORIZADAS, SI NO SE AJUSTA A LA PLANIFICACION OFICIAL O NO SATISFACEN LAS CONDICIONES DE ESTE REGLAMENTO.
 
-### CAPITULO VI. De la Suspensión y Revocación del Mandato de Algún Miembro del Ayuntamiento
+### CAPITULO OCTAVO. LETREROS Y ANUNCIOS
 
 ###### ARTICULO 41.
 
-El Congreso del Estado, previo procedimiento, por acuerdo de cuando menos las dos terceras partes de sus integrantes, podrá declarar la suspensión hasta por un año conforme a la gravedad de la falta a alguno o algunos de los miembros de un Ayuntamiento, por cualquiera de las siguientes causas:
-
-I. Por faltar consecutivamente a más de tres sesiones de Cabildo sin causa justificada;
-
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
-
-II. Por la instauración de los procedimientos de: juicio político, o responsabilidad administrativa, a que se refieren la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí; y la Ley de Juicio Político del Estado de San Luis Potosí, respectivamente.
-
-III. Por incapacidad física o legal que le impida cumplir con su responsabilidad.
+CUANDO POR RAZONES DE UTILIDAD PUBLICA, PLENAMENTE JUSTIFICADAS, SE REQUIERA ALGUNA PROPIEDAD, EL AYUNTAMIENTO ADQUIRIRA CONFORME A LA LEY DE EXPROPIACION Y LEY AGRARIA, EL PREDIO O INMUEBLE POR ENTERO O LA PARTE NECESARIA. LAS INDEMNIZACIONES CORRESPONDIENTES, NO SE SATISFARAN (SIC), SINO PREVIA JUSTIFICACION DE PROPIEDAD LEGAL DEL PREDIO Y DE QUE EL INMUEBLE EXISTIA CUANDO EL PROYECTO SE HIZO DEL CONOCIMIENTO DEL PROPIETARIO.
 
 ###### ARTICULO 42.
 
-El Congreso del Estado, previo procedimiento, por acuerdo de cuando menos las dos terceras partes de sus integrantes, podrá revocar definitivamente su mandato conforme a la gravedad de la falta a alguno o algunos de los miembros de un Ayuntamiento, por cualquiera de las siguientes causas:
+PARA LOS EFECTOS DEL PRESENTE REGLAMENTO, SE ENTIENDE POR RESTRICCION DE ALINEAMIENTO DE CONSTRUCCION, A LA SEPARACION QUE DEBE EXISTIR LIBRE DE CONSTRUCCION CERRADA ENTRE EL ALINEAMIENTO OFICIAL Y LA CONSTRUCCION DEL PREDIO.
 
-I. Por infringir la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los ordenamientos legales locales, ocasionando con ello perjuicio grave al Estado, al Municipio o a la colectividad;
-
-II. Por desatender sistemáticamente las funciones y obligaciones derivadas de su cargo;
-
-III. Por abuso de autoridad, realización de actos que alteren el orden, la tranquilidad, la seguridad de la comunidad o de alguno de los habitantes del Municipio, declarada judicialmente;
-
-IV. Por usurpar funciones o atribuciones públicas;
-
-V. Por utilizar su autoridad o influencia oficial para hacer que los votos en las elecciones recaigan en determinada persona o personas;
-
-VI. Por ordenar la privación de la libertad de las personas fuera de los casos previstos por la ley;
-
-VII. Por sentencia ejecutoriada dictada por delito doloso;
-
-VIII. Por disponer ilegalmente de caudales públicos y bienes del patrimonio municipal, y
-
-IX. Por realizar actos que impliquen violaciones sistemáticas a los planes y programas oficiales.
-
-### CAPITULO VII. De la Suplencia de los Miembros de los Ayuntamientos y Delegados Municipales
+### CAPITULO NOVENO. FERIAS CON APARATOS MECANICOS
 
 ###### ARTICULO 43.
 
-En las faltas temporales del Presidente Municipal que no excedan de sesenta días naturales, será suplido por el Primer Regidor, y en ausencia o declinación expresa de éste, por los que le sigan en orden numérico.
+SI COMO CONSECUENCIA DE UN PROYECTO DE PLANIFICACION APROBADO, EL NUEVO ALINEAMIENTO OFICIAL DE UN PREDIO QUEDARE DENTRO DE LAS EDIFICACIONES DEL MISMO, NO SE PERMITIRA AL PROPIETARIO REALIZAR CONSTRUCCIONES QUE SOBRESALGAN DE ESTE NUEVO ALINEAMIENTO.
 
-En las ausencias temporales que excedan de sesenta días naturales, o ante la falta definitiva del Presidente Municipal, el Ayuntamiento designará de entre sus miembros a un interino o un sustituto, según sea el caso.
+## TITULO TERCERO. DESARROLLO URBANO
 
-Las solicitudes de licencia que presente el Presidente Municipal se harán por escrito; las que sean para ausentarse por más de diez días naturales del cargo, sólo se concederán por causa debidamente justificada y con la calificación y aprobación de cuando menos las dos terceras partes de los miembros del Ayuntamiento. En todos los casos las licencias deberán precisar su duración.
-
-Tratándose de otros miembros del Ayuntamiento se procederá de la siguiente manera:
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-I. Los regidores y los síndicos no se suplirán cuando se trate de faltas menores a los diez días naturales y mientras no se afecte el número necesario para la integración del quórum en el Cabildo;
-
-II. Cuando el número de miembros no sea suficiente para la integración del quórum, o la falta excediera del plazo indicado en la fracción anterior, se llamará a los suplentes respectivos quienes rendirán protesta antes de asumir el cargo.
-
-En el supuesto de que el suplente no comparezca a rendir protesta dentro de las dos sesiones ordinarias de Cabildo siguientes a la citación que se le haya hecho, no obstante previo requerimiento de presentación por notificación personal, en caso de regidores de representación proporcional, el Cabildo mandará cubrir la vacante a la persona que siga en el orden de la lista que hubiese registrado el partido político correspondiente ante el organismo electoral.
-
-A falta de quórum en el Cabildo, el llamado a los suplentes lo hará el Presidente Municipal o en ausencia de éste, el Secretario del Ayuntamiento a solicitud de miembros del Cabildo;
-
-III. En faltas menores de diez días naturales se requerirá autorización del Presidente Municipal. Las licencias temporales que excedan de este término serán puestas a la consideración del Cabildo quien resolverá lo conducente, y
-
-IV. La falta definitiva del Delegado Municipal será cubierta por el Secretario quien será designado Delegado por el Ayuntamiento. La ausencia definitiva del Secretario designado Delegado, será cubierta por la persona que designe el Cabildo, a propuesta del Presidente Municipal.
-
-## TITULO TERCERO. DE LOS CONCEJOS MUNICIPALES
-
-### Capítulo Unico
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2003)</small>
+### CAPITULO DECIMO. AREAS VERDES Y DE DONACION
 
 ###### ARTICULO 44.
 
-Los concejos municipales designados por el Congreso del Estado en los casos que establece la Constitución Política del Estado, se formarán por un número de concejales igual al de los miembros del ayuntamiento que conforme a esta Ley debe tener el municipio de que se trate.
-
-Los concejales designados deberán reunir los requisitos que establece la Constitución del Estado para ser miembro de un Ayuntamiento.
-
-El decreto de creación del Concejo determinará la fecha de inicio y conclusión del ejercicio de funciones del mismo, y los cargos que desempeñará cada concejal, debiendo designarse también a los suplentes.
+EN LAS ZONAS QUE HAYAN SIDO DETERMINADAS COMO DE PRESERVACION DEL PATRIMONIO CULTURAL POR EL PROGRAMA, NO PODRAN EJECUTARSE NUEVAS CONSTRUCCIONES, AMPLIACIONES, REMODELACIONES, OBRAS NUEVAS, DEMOLICIONES O INSTALACIONES DE CUALQUIER NATURALEZA SIN CONTAR CON LA AUTORIZACION DEL INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA, DEL AYUNTAMIENTO Y DEL INSTITUTO DE HISTORIA NATURAL Y ECOLOGIA.
 
 ###### ARTICULO 45.
 
-El Concejo designado tendrá la misma organización interna y funciones que corresponden a los ayuntamientos, y sus integrantes asumirán las atribuciones y obligaciones análogas a las que corresponden al Presidente Municipal, regidores y síndicos, respectivamente.
+TODA EDIFICACION EFECTUADA CON INVASION DE LA RESTRICCION DEL ALINEAMIENTO O DE LAS SERVIDUMBRES, DEBERA SER DEMOLIDA A COSTA DEL PROPIETARIO DEL INMUEBLE INVASOR DENTRO DE UN PLAZO QUE AL EFECTO SEÑALE LA DIRECCION. EN CASO DE INCUMPLIMIENTO, LA DIRECCION EFECTUARA LOS TRABAJOS CON CARGO AL PROPIETARIO O INFRACTOR SIN PERJUICIO DE LAS SANCIONES A QUE SE HAGA ACREEDOR.
 
-## TITULO CUARTO. DE LA FORMACION, FUSION Y SUPRESION DE MUNICIPIOS Y DELEGACIONES MUNICIPALES
+## TITULO CUARTO. LICENCIAS DE CONSTRUCCION Y OTRAS AUTORIZACIONES
 
-### CAPITULO I. Generalidades
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 46.
 
-Corresponde al Congreso del Estado erigir, fusionar o suprimir municipios y delegaciones municipales, con base en criterios de orden demográfico, político, social y económico; fijar sus límites territoriales y resolver las diferencias que se susciten sobre las demarcaciones de sus respectivos territorios.
+NO SE CONCEDERA LICENCIA PARA LA EJECUCION DE OBRAS, SEAN ESTAS AMPLIACIONES O REPARACIONES, NI PARA NUEVAS CONSTRUCCIONES EN LAS YA EXISTENTES QUE INVADAN LA RESTRICCION DE ALINEAMIENTO DE CONSTRUCCION, A MENOS QUE SUJETEN DE INMEDIATO A LA MISMA, DEMOLIENDO LA PARTE DE LA CONSTRUCCION QUE INVADA DICHA RESTRICCION Y REGULARIZANDO SU SITUACION POR LO QUE A SERVIDUMBRES SE REFIERE.
 
-### CAPITULO II. De la Formación de Municipios y Delegaciones Municipales
+### CAPITULO SEGUNDO. ZONIFICACION
 
-#### SECCION I. De los requisitos para la formación de municipios
+#### SECCION SEGUNDA. DE LOS MATERIALES Y PROCEDIMIENTOS DE CONSTRUCCION
+
+###### ARTICULO 198.
+
+LOS MATERIALES EMPLEADOS EN LA CONSTRUCCION DEBERAN CUMPLIR CON LAS SIGUIENTES DISPOSICIONES:
+
+I. LA RESISTENCIA, CALIDAD Y CARACTERISTICAS DE LOS MATERIALES EMPLEADOS EN LA CONSTRUCCION, SERAN LAS QUE SE SEÑALEN EN LAS ESPECIFICACIONES DE DISEÑO Y LOS PLANOS CONSTRUCTIVOS REGISTRADOS, Y DEBERAN SATISFACER LAS NORMAS DE CALIDAD ESTABLECIDAS POR LAS NORMAS OFICIALES MEXICANAS (NOM).
+
+II. CUANDO SE PROYECTE UTILIZAR EN UNA CONSTRUCCION ALGUN MATERIAL NUEVO DEL CUAL NO EXISTAN NORMAS TECNICAS COMPLEMENTARIAS O NORMAS TECNICAS OFICIALES MEXICANAS CORRESPONDIENTES, EL DIRECTOR RESPONSABLE DE OBRA DEBERA SOLICITAR LA APROBACION PREVIA DE LA DIRECCION PARA LO CUAL PRESENTARA LOS RESULTADOS DE LA PRUEBA DE VERIFICACION DE CALIDAD DE DICHO MATERIAL.
+
+###### ARTICULO 199.
+
+LA DIRECCION PODRA EXIGIR LOS MUESTREOS Y LAS PRUEBAS NECESARIAS PARA VERIFICAR LAS RESISTENCIAS ESPECIFICADAS DE LOS MATERIALES QUE FORMEN PARTE DE LOS ELEMENTOS ESTRUCTURALES, AUN EN OBRAS TERMINADAS.
+
+###### ARTICULO 200.
+
+ANTES DE INICIAR UNA CONSTRUCCION, DEBERA VERIFICARSE EL TRAZO DEL ALINEAMIENTO Y LAS MEDIDAS DEL RESTO DE LA POLIGONAL DEL PERIMETRO, ASI COMO LA SITUACION DEL PREDIO EN RELACION CON LOS COLINDANTES, LA CUAL DEBERA COINCIDIR CON LOS DATOS CORRESPONDIENTES DEL TITULO DE PROPIEDAD. SE TRAZARAN DESPUES LOS EJES PRINCIPALES DEL PROYECTO, REFIRIENDOSE A PUNTOS QUE PUEDAN CONSERVARSE FIJOS.
+
+SI LOS DATOS QUE ARROJE EL LEVANTAMIENTO DEL PREDIO EXIGEN UN AJUSTE DE LAS DISTANCIAS ENTRE LOS EJES CONSIGNADOS EN LOS PLANOS ARQUITECTONICOS, PODRAN HACERSE SIN MODIFICAR LOS CALCULOS, SIEMPRE QUE EL AJUSTE NO INCREMENTE NINGUN CLARO EN MAS DEL 1.0%, NI LO DISMINUYA EN MAS DEL 5.0%. EN SU CASO DEBERAN MODIFICARSE LOS PLANOS CONSTRUCTIVOS.
+
+LA POSICION DE LOS EJES DE LOS ELEMENTOS DE LA CONSTRUCCION NO DIFERIRA RESPECTO A SU POSICION CONSIDERADA EN EL PROYECTO, DEPENDIENDO DEL MATERIAL EMPLEADO EN:
+
+A) 2.0 MILIMETROS EN ESTRUCTURAS METALICAS;
+
+B) 1.0 CENTIMETROS EN CONSTRUCCIONES DE CONCRETO;
+
+C) 2.0 CENTIMETROS EN CONSTRUCCIONES DE MAMPOSTERIA Y,
+
+D) 3.0 CENTIMETROS EN CONSTRUCCIONES DE MADERA.
+
+###### ARTICULO 201.
+
+PODRAN UTILIZARSE NUEVOS PROCEDIMIENTOS DE CONSTRUCCION QUE EL DESARROLLO DE LA TECNICA INTRODUZCA, PREVIA AUTORIZACION DE LA DIRECCION, PARA LO CUAL EL DIRECTOR RESPONSABLE DE OBRA PRESENTARA UNA SOLICITUD JUSTIFICADA, DETALLANDO EL PROCEDIMIENTO PROPUESTO Y ANEXANDO EN SU CASO, LOS DATOS DE LOS ESTUDIOS Y LOS RESULTADOS DE PRUEBAS EXPERIMENTALES EFECTUADAS.
+
+LA DIRECCION PODRA EXIGIR LA CONSTRUCCION DE MODELOS O EL USO DE SIMULACIONES PARA PROBAR EL PROCEDIMIENTO BAJO LAS CONDICIONES QUE JUZGUE TECNICAMENTE NECESARIAS.
 
 ###### ARTICULO 47.
 
-El Congreso del Estado podrá otorgar la categoría de municipio a los centros de población que por sí solos o unidos a otros cumplan los siguientes requisitos:
-
-I. Que medie solicitud por escrito de los interesados, respaldada con el nombre, las firmas y el número de credencial de elector, de cuando menos el veinticinco porciento (sic) de los ciudadanos inscritos en la lista nominal de electores de la circunscripción territorial que se pretenda erigir como municipio. Asimismo, en la solicitud deberá señalarse el nombre con el que pretenda denominarse el nuevo municipio;
-
-II. Que tengan un censo de población no menor de veinte mil habitantes;
-
-III. Que cuenten con los recursos económicos suficientes para cubrir las erogaciones que requiera la administración pública municipal, de acuerdo a los estudios que los sectores interesados presenten como prueba, sujeta a la comprobación del propio Congreso del Estado;
-
-IV. Que el centro de población señalado como cabecera municipal, cuente con los inmuebles e instalaciones necesarios para el funcionamiento de los servicios públicos municipales que establece la Constitución Política del Estado;
-
-V. Que los centros de población que lo integren, cuando sean varios, estén debidamente comunicados;
-
-VI. Que se tome en cuenta, mediante plebiscito, la opinión ciudadana del municipio o municipios en que se encuentre la fracción territorial que pretende erigirse como municipio;
-
-VII. Que se tome en cuenta la opinión, expresada por escrito, del Ejecutivo del Estado así como de los ayuntamientos afectados por la posible creación del municipio, los que deberán emitirla dentro de los sesenta días naturales siguientes a la fecha en la que el Congreso del Estado les comunique la solicitud, y
-
-VIII. Que a criterio del Congreso del Estado no se perjudique la subsistencia de los demás municipios.
+ES OBLIGACION DE QUIEN EJECUTE OBRAS COLINDANTES CON LA VIA PUBLICA, COLOCAR DISPOSITIVOS DE PROTECCION O TAPIALES SOBRE LA MISMA VIA, PARA PROTEGER DE PELIGROS O PERJUICIOS A TERCEROS, PREVIA AUTORIZACION DE LA DIRECCION, LA CUAL OTORGARA EL PLAZO Y LAS CONDICIONES A QUE LOS MISMOS QUEDAN SUJETOS. EN CASO DE SINIESTRO, DEBERAN SER COLOCADOS LOS DISPOSITIVOS DE SEGURIDAD AUN SIN EL PERMISO DE LA DIRECCION, DEBIENDO ESTOS MANIFESTARSE A LA DIRECCION EN UN PLAZO NO MAYOR DE TRES DIAS.
 
 ###### ARTICULO 48.
 
-A la solicitud de creación de un municipio deberán acompañarse los siguientes documentos:
-
-I. Una lista con el nombre, la firma y el número de credencial de elector de los ciudadanos a que se refiere la fracción I del artículo anterior;
-
-II. Monto estimado de los ingresos y egresos que pueda tener la hacienda pública municipal;
-
-III. Relación de edificios y terrenos con que se cuente para oficinas y la prestación de los servicios públicos municipales, que deberán ser cuando menos, mercados, rastro, policía, cárcel y panteón; así como escuelas que atiendan al menos la educación preescolar, primaria y secundaria; servicios médicos; instituciones bancarias, industriales, comerciales y agrícolas, ubicadas en el poblado que se señale como cabecera municipal;
-
-IV. Descripción de las vías de comunicación entre el poblado que se proponga como cabecera municipal con la capital del Estado, y con los demás centros de población que vayan a formar parte del nuevo municipio, y
-
-V. Nombres, categorías políticas, censos de población, agropecuarios, comerciales e industriales, del poblado o de los poblados que se propongan para la integración del nuevo municipio; así como la descripción de sus perímetros y límites territoriales.
+LOS TAPIALES DEBERAN CONSTRUIRSE DE MADERA, LAMINA, CONCRETO, MAMPOSTERIA U OTRO MATERIAL, QUE A JUICIO DE LA DIRECCION OFREZCA GARANTIAS DE SEGURIDAD, PROPORCIONEN UNA ESTABILIDAD ADECUADA Y PRESENTEN SUPERFICIES SIN RESALTES QUE PUEDAN PONER EN PELIGRO LA SEGURIDAD DEL PEATON. SALVO CASOS ESPECIALES Y A CRITERIO DE LA DIRECCION, EL TAPIAL DEBERA TENER SOLAMENTE UNA PUERTA DE ENTRADA QUE DEBERA MANTENERSE CERRADA BAJO LA RESPONSABILIDAD DEL CONSTRUCTOR PARA CONTROLAR EL ACCESO.
 
 ###### ARTICULO 49.
 
-El Congreso del Estado podrá solicitar a las autoridades municipales o a los ciudadanos requirentes, los datos adicionales que estime necesarios para resolver sobre la creación del municipio.
+TRATANDOSE DE OBRAS CUYA ALTURA SEA INFERIOR A 10.00 METROS, LOS TAPIALES TENDRAN CUANDO MENOS UNA ALTURA LIBRE DE 2.40 METROS Y UN ANCHO LIBRE DE 1.20 METROS; CUANDO LA ALTURA DE LA OBRA EXCEDA LOS 10.00 METROS, DEBERA HACERSE HACIA LA VIA PUBLICA UN PASO CUBIERTO PARA PEATONES, CON EL OBJETO DE QUE LOS TRANSEUNTES PUEDAN CIRCULAR POR DEBAJO DE LA CUBIERTA Y SOBRE LAS ACERAS O BANQUETAS SIN PELIGRO DE TENER ACCIDENTES VIALES. EN NINGUN CASO, LOS TAPIALES DEBERAN MENGUAR LA VISIBILIDAD DE LA NOMENCLATURA DE CALLES O SEÑALES DE TRANSITO O CUALQUIER ELEMENTO DE SERVICIO PUBLICO.
 
 ###### ARTICULO 50.
 
-En la creación de municipios se evitará que los centros de población afectados quebranten su unidad social, cultural o geográfica; se reduzca a menos de veinte mil habitantes la población del o los municipios afectados o se disminuyan los ingresos de éstos en forma tal que sean insuficientes para cubrir las erogaciones de su administración pública.
+LOS EQUIPOS Y MATERIALES DESTINADOS A LA OBRA O ESCOMBROS QUE PROVENGAN DE ELLA, DEBERAN QUEDAR INVARIABLEMENTE COLOCADOS DENTRO DEL PREDIO, DE TAL MANERA QUE EN NINGUN CASO SE OBSTRUYA LA VIA PUBLICA.
 
 #### SECCION II. Del procedimiento para la formación de municipios
 
 ###### ARTICULO 51.
 
-Cumplidos los requisitos a que se refieren los artículos anteriores, el Congreso del Estado verificará aquellos en los que haya lugar a desahogo y previa valoración de todos y cada uno de los mismos, procederá en su caso, a decretar la creación del municipio, fijar sus límites territoriales, señalar su cabecera municipal y dar a éste el nombre correspondiente.
+LOS PROPIETARIOS Y DIRECTORES RESPONSABLES DE OBRA, ESTARAN OBLIGADOS A CONSERVAR LOS TAPIALES EN BUENAS CONDICIONES DE ESTABILIDAD Y ASPECTO.
 
 ###### ARTICULO 52.
 
-El Concejo Municipal del nuevo municipio será designado por el Congreso del Estado de conformidad con lo establecido en la Constitución Política del Estado, el cual fungirá hasta la fecha en que deba tomar posesión el Ayuntamiento que resulte electo en las elecciones municipales que se realicen, conforme a los plazos y términos señalados por las disposiciones electorales respectivas.
+PARA LAS REPARACIONES O MEJORAS PARCIALES COMO REVOQUES Y OTRAS OPERACIONES ANALOGAS, EN FACHADAS, EL PASO DE PEATONES SE RESTRINGIRA CON UN SEÑALAMIENTO PREVENTIVO.
 
 #### SECCION III. De los requisitos y procedimiento para la creación de delegaciones municipales
 
 ###### ARTICULO 53.
 
-Los ayuntamientos de los municipios de la Entidad podrán solicitar al Congreso del Estado, la creación de delegaciones municipales dentro de sus respectivas circunscripciones territoriales debiendo cumplir los siguientes requisitos:
-
-I. Presentar la solicitud exponiendo los motivos para la creación de la Delegación de que se trate;
-
-II. Señalar el nombre de la Delegación que se pretende crear y acompañar la documentación necesaria para determinar la delimitación territorial de la misma;
-
-III. Acompañar el Acta de Cabildo en la que se haya aprobado solicitar al Congreso del Estado la creación de la Delegación Municipal respectiva;
-
-IV. Acreditar que la circunscripción territorial de la Delegación que se pretende crear, cuenta por lo menos con cinco mil habitantes, y
-
-V. Acreditar que en la Delegación que se pretende crear, se cuenta por lo menos con servicios médicos y de policía; edificios adecuados para las oficinas delegacionales; mercado, cárcel y panteón; así como escuelas de enseñanza preescolar y de educación básica.
+SI LA EJECUCION DE UNA OBRA, REPRESENTARA PELIGRO O DIFICULTAD AL TRANSITO DE VEHICULOS, LA DIRECCION LO COMUNICARA A LA DELEGACION DE TRANSITO DEL ESTADO EN LA CIUDAD PARA LOS EFECTOS CORRESPONDIENTES.
 
 ###### ARTICULO 54.
 
-Una vez verificado por el Congreso del Estado el cumplimiento de los requisitos señalados en el artículo anterior, decretará en su caso, la creación de la Delegación Municipal correspondiente, estableciendo el nombre y delimitación territorial de la misma.
+EN RELACION A LOS ANDAMIOS SE DEBERAN CUMPLIR LOS SIGUIENTES REQUISITOS:
 
-### CAPITULO III. De la fusión de Municipios y Delegaciones Municipales
+I. LOS ANDAMIOS, DEBERAN DISEÑARSE PARA RESISTIR EL PESO DE LOS ELEMENTOS ESTRUCTURALES QUE INCLUYAN CARGA VIVA Y CARGA MUERTA.
+
+II. EL ARMADO Y DESMANTELAMIENTO DE LOS ANDAMIOS, PUNTALES Y DEMAS APAREJOS PARA LAS OBRAS SE HARA BAJO LA SUPERVISION Y RESPONSABILIDAD DEL DIRECTOR RESPONSABLE DE OBRA DE LAS MISMAS.
+
+III. EN LAS OBRAS DE EDIFICIOS DE MAS DE UN PISO, LOS ANDAMIOS SERAN TODOS ANTETECHADOS (SIC) CON TABLAS HASTA LA ALTURA DE 1.00 METRO (SIC) Y TENDRA COMO MINIMO 1.00 METRO DE ANCHO.
+
+### CAPITULO TERCERO. USOS Y DESTINOS DEL SUELO
 
 #### SECCION I. De la fusión de municipios
 
 ###### ARTICULO 55.
 
-Los ayuntamientos de dos o más municipios podrán solicitar al Congreso del Estado la fusión de los mismos, debiendo cumplir los siguientes requisitos:
-
-I. Exponer por escrito los motivos en los que funden su petición;
-
-II. Acreditar que los municipios que pretendan fusionarse están debidamente comunicados, y
-
-III. Señalar la cabecera municipal y el nombre que ha de adoptar el nuevo municipio.
+LAS CABRIAS O TIROS, NO PODRAN SITUARSE EN LA VIA PUBLICA SINO PRECISAMENTE EN EL INTERIOR DE LA CONSTRUCCION, DEL SOLAR O DENTRO DE LA CERCA DE PROTECCION.
 
 ###### ARTICULO 56.
 
-Una vez recibida la solicitud a que se refiere el artículo anterior, el Congreso del Estado determinará:
-
-I. Que se tome en cuenta mediante plebiscito, la opinión ciudadana de los habitantes de los municipios que pretendan fusionarse, y
-
-II. Que se tome en cuenta la opinión expresada por escrito al Congreso del Estado, del Ejecutivo del Estado y los ayuntamientos colindantes a los que pretendan fusionarse, los que deberán emitirla dentro de los sesenta días naturales siguientes a la fecha en la que se les comunique la solicitud.
+CUANDO LA DIRECCION AUTORICE ROMPER UNA PARTE DE LAS ACERAS O PAVIMENTOS CON EL OBJETO DE LEVANTAR O ARMAR ANDAMIOS PARA OBRAS DE CONSTRUCCION EN LA VIA PUBLICA, LOS INTERESADOS DEBERAN HACER LAS REPARACIONES CORRESPONDIENTES A SU COSTA DENTRO DEL PLAZO QUE LES SEÑALE Y BAJO LA SUPERVISION DE LA DIRECCION, PROCURANDO NO INTERRUMPIR EL TRANSITO PUBLICO.
 
 ###### ARTICULO 57.
 
-Verificados y valorados los requisitos a que se refieren los artículos anteriores, el Congreso del Estado procederá, en su caso, a decretar la desaparición de los municipios y sus ayuntamientos solicitantes, y la creación del nuevo municipio señalando cuál será su cabecera municipal y el nombre correspondiente.
-
-Asimismo, procederá a designar conforme a la Constitución Política del Estado, al Concejo Municipal que concluirá el período constitucional iniciado por los ayuntamientos fusionados.
+EN TODA OBRA UBICADA EN O COLINDANTE CON LA VIA PUBLICA, SERA OBLIGACION DEL DIRECTOR RESPONSABLE DE OBRA COLOCAR DESDE EL ANOCHECER HASTA LA MAÑANA SIGUIENTE, COMO MINIMO UNA SEÑAL LUMINOSA Y MANTENER LIMPIOS LOS FRENTES DE LAS OBRAS Y SIN OBSTACULO PARA EL TRANSITO PUBLICO.
 
 ###### ARTICULO 58.
 
-El Congreso del Estado podrá por sí mismo, decretar la fusión de dos o más municipios cuando lo considere conveniente, con base a las atribuciones que le otorga la Constitución Política del Estado, debiendo consultar en todo caso a los ciudadanos de los municipios afectados, mediante plebiscito.
+SE ENTIENDE POR LETREROS Y ANUNCIOS A LOS MEDIOS DE INFORMACION, COMUNICACION Y PUBLICIDAD, COLOCADOS HACIA Y EN LA VIA PUBLICA, YA SEA CON FINES COMERCIALES O DE SERVICIO. LAS DISPOSICIONES PARA LETREROS Y ANUNCIOS DISPUESTOS EN ESTE APARTADO INCLUYE A TODO EL MUNICIPIO.
 
 #### SECCION II. De la fusión de delegaciones municipales
 
 ###### ARTICULO 59.
 
-Para solicitar al Congreso del Estado la fusión de dos o más delegaciones municipales, el Ayuntamiento respectivo deberá cubrir los siguientes requisitos:
-
-I. Exponer por escrito los motivos en los que funden su petición, acompañando el acta de Cabildo en la que se haya aprobado realizar dicha solicitud al Congreso del Estado;
-
-II. Acreditar que las delegaciones que pretendan fusionarse están debidamente comunicadas, y
-
-III. Señalar el nombre que ha de adoptar la delegación que se pretende conformar con las preexistentes.
+CORRESPONDE A LA DIRECCION OTORGAR LOS PERMISOS CORRESPONDIENTES A LA COLOCACION DE ANUNCIOS DE ACUERDO A LOS LINEAMIENTOS DEL PRESENTE REGLAMENTO Y COMO CONSECUENCIA DE HABER REUNIDO LAS CONDICIONES DE SEGURIDAD NECESARIAS. EN LOS CAPITULOS CUARTO Y SEXTO DEL PRESENTE REGLAMENTO SE ESTABLECE LO RELATIVO A LA AUTORIZACION Y DISEÑO DE ESTOS ELEMENTOS.
 
 ###### ARTICULO 60.
 
-Valorada la conveniencia de la fusión de las delegaciones solicitada por el Ayuntamiento, el Congreso del Estado procederá, en su caso, a decretar la desaparición de las delegaciones preexistentes, y la creación de la nueva delegación señalando su denominación y delimitación territorial.
+LOS PROPIETARIOS O RESPONSABLES DE LOS APARATOS MECANICOS DE UNA FERIA, DEBERAN PREVIO AL INICIO DE SUS ACTIVIDADES, SOLICITAR AL AYUNTAMIENTO, LA LICENCIA DE FUNCIONAMIENTO, LA CUAL SOLO SE CONCEDERA SI ACREDITAN QUE SUS INSTALACIONES OFRECEN SEGURIDAD AL PUBLICO, SEGUN DICTAMEN DE LA DIRECCION.
 
-### CAPITULO IV. De la Supresión de Municipios y Delegaciones Municipales
+### CAPITULO CUARTO. LICENCIAS DE USO Y DESTINO DEL SUELO (REQUISITOS DE APROBACION Y CERTIFICACION)
 
 #### SECCION I. De la supresión de municipios
 
 ###### ARTICULO 61.
 
-El Ejecutivo del Estado, el Ayuntamiento correspondiente o los diputados locales, podrán solicitar al Congreso del Estado, la supresión de un municipio cuando exista probada incapacidad económica para el sostenimiento de su administración o la notoria disminución de sus habitantes.
+AL OTORGAR LA DIRECCION UN PERMISO PARA LA INSTALACION DE UNA FERIA CON APARATOS MECANICOS, LE CORRESPONDERA LA VIGILANCIA PARA QUE LOS MISMOS ESTEN CERCADOS DEBIDAMENTE PARA PROTECCION DEL PUBLICO, CONTANDO CON ADECUADOS ESPACIOS PARA CIRCULACION Y LOS SERVICIOS SANITARIOS QUE LA MISMA DIRECCION ESTIME INDISPENSABLES.
 
 ###### ARTICULO 62.
 
-Al acordarse la supresión de un municipio, la Legislatura determinará a cuál o cuáles de los municipios colindantes se agregarán los centros de población y territorio que lo formaban, procurando su unidad social, cultural y geográfica.
+SERA FACULTAD DE LA DIRECCION EL IMPEDIR EL USO DE ALGUNO O ALGUNOS APARATOS MECANICOS QUE A SU JUICIO NO REUNAN LAS CONDICIONES DE SEGURIDAD PARA LOS USUARIOS HASTA QUE NO SEAN SEPARADOS EN LA FORMA QUE SATISFAGA ESTOS REQUERIMIENTOS A JUICIO DE LA MISMA.
 
 #### SECCION II. De la supresión de delegaciones municipales
 
 ###### ARTICULO 63.
 
-Los ayuntamientos podrán solicitar al Congreso del Estado, la supresión de una o más de sus delegaciones municipales cuando dejaren de cumplir alguno de los requisitos que establece el artículo 53 de esta Ley o cuando así lo consideren conveniente para la administración municipal.
+CUANDO SE ESTABLEZCAN FERIAS, CARPAS U OTROS ESPECTACULOS CERCA DE ALGUN JARDIN O AREA VERDE, ESTOS DEBERAN SER PROTEGIDOS MEDIANTE ALAMBRADOS O MALLA METALICA, QUEDANDO PROHIBIDO EL USO DE ALAMBRE DE PUAS, SIENDO RESPONSABLES DE SU INSTALACION LOS EMPRESARIOS DE DICHOS ESPECTACULOS, ACATANDO LAS INDICACIONES QUE AL EFECTO LES SEAN SEÑALADAS POR LA DIRECCION.
 
 ###### ARTICULO 64.
 
-El Congreso del Estado, previa valoración de la conveniencia de la supresión de la delegación municipal solicitada, la decretará señalando en su caso la situación de las comunidades que la conformaban.
+ES OBLIGACION DE LOS PROPIETARIOS O INQUILINOS EN SU CASO, DE INMUEBLES CUYOS FRENTES Y/O COSTADOS TIENEN ESPACIOS PARA JARDINES Y ARBOLES EN LAS BANQUETAS, EL SEMBRARLOS, CUIDARLOS Y CONSERVARLOS EN BUEN ESTADO.
 
-### CAPITULO V. De la Fijación de Límites Municipales
+### CAPITULO QUINTO. RESTRICCIONES Y NORMAS
 
 ###### ARTICULO 65.
 
-El Congreso del Estado establecerá los límites de los municipios de la Entidad, y resolverá las diferencias que se presenten al respecto sobre las demarcaciones de sus respectivos territorios.
+CORRESPONDE AL AYUNTAMIENTO SEMBRAR, CUIDAR Y CONSERVAR EN BUEN ESTADO LOS PARQUES, JARDINES, CAMELLONES Y AREAS VERDES DE USO PUBLICO.
 
 ###### ARTICULO 66.
 
-Los municipios deberán someter a la aprobación del Congreso del Estado, los convenios que en su caso pretendan celebrar para arreglar las diferencias de sus respectivos límites territoriales.
+ES FACULTAD DE FOMENTO AGROPECUARIO EL VIGILAR QUE LOS PARTICULARES SOLO PLANTEN EN LAS AREAS ESPECIFICAS DE LA VIA PUBLICA, ARBOLES DE ESPECIES CONVENIENTES QUE NO CONSTITUYAN OBSTACULOS O PROBLEMAS PARA LAS INSTALACIONES DE SERVICIOS PUBLICOS O MOLESTIAS EN LOS VECINOS QUEDANDO PROHIBIDO SU DERRIBO, SIN LA PREVIA AUTORIZACION DE FOMENTO AGROPECUARIO.
 
 ###### ARTICULO 67.
 
-Los convenios aprobados por el Congreso del Estado en los que se fijen los límites de los municipios y las resoluciones dictadas en los casos de diferencia, serán publicados en el Periódico Oficial del Estado.
+EL AYUNTAMIENTO, CONFORME A LAS ATRIBUCIONES CONTENIDAS EN LA LEY DE EQUILIBRIO ECOLOGICO PODRA IMPONER SANCIONES A TODA PERSONA QUE DERRIBE ARBOLES SIN LA AUTORIZACION QUE ESTE EXPIDA Y SEÑALARA LOS IMPEDIMENTOS PARA EL DESARROLLO DEL PROYECTO A EJECUTAR, CUANDO SOLICITE CUALQUIER LICENCIA O AUTORIZACION.
 
 ###### ARTICULO 68.
 
-Los centros de población afectados, los ayuntamientos o los interesados en todas las cuestiones a que se refiere este título, podrán hacer valer sus derechos ante el Congreso del Estado, personalmente o a través de su representante común según sea el caso, o por conducto del Presidente Municipal y del Síndico del Ayuntamiento respectivo.
+DE LA TOTALIDAD DE LAS AREAS DESTINADAS COMO DE DONACION, EL FRACCIONADOR DEBERA MANTENER UN PORCENTAJE COMO MINIMO DE AREA VERDE DE ACUERDO A LA LEY DE FRACCIONAMIENTOS, LA QUE DEBERA SER DEBIDAMENTE ENTREGADA POR EL MISMO FRACCIONADOR.
+
+EL AYUNTAMIENTO ESTABLECERA LAS RESTRICCIONES, CARACTERISTICAS Y NORMAS PARA LA CONSTRUCCION DE RAMPAS EN GUARNICIONES Y/O ACERAS PARA LA ENTRADA DE VEHICULOS Y DE SERVICIOS A PERSONAS CON DISCAPACIDAD; ORDENARA EL USO DE RAMPAS MOVILES CUANDO CORRESPONDA.
 
 ###### ARTICULO 69.
 
-Las resoluciones del Congreso del Estado por las que se ponga fin a los conflictos de límites municipales y los convenios que sean aprobados por ésta, no admitirán recurso alguno.
+ES OBJETO DE ESTE TITULO ESTABLECER LAS NORMAS CONFORME A LAS CUALES EL AYUNTAMIENTO EJERCERA SUS ATRIBUCIONES EN MATERIA DE DESARROLLO URBANO Y DARA CUMPLIMIENTO AL PROGRAMA, OTORGARA LAS LICENCIAS DE USO, DESTINO Y RESERVA DEL SUELO, ATENDIENDO A LA ZONIFICACION Y VOCACION DEL MISMO.
 
-## TITULO QUINTO. DE LAS AUTORIDADES MUNICIPALES
+## TITULO QUINTO. PROYECTO ARQUITECTONICO
 
-### CAPITULO I. De las Facultades y Obligaciones del Presidente Municipal
+### CAPITULO PRIMERO. LICENCIAS DE CONSTRUCCION Y AUTORIZACIONES
 
 ###### ARTICULO 70.
 
-El Presidente Municipal es el ejecutivo de las determinaciones del Ayuntamiento; tendrá las siguientes facultades y obligaciones:
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-I. Cumplir y hacer cumplir la Ley Orgánica del Municipio Libre, el Bando de Policía y Gobierno, los reglamentos y demás ordenamientos del Municipio, y las resoluciones de Cabildo que estén apegadas a derecho;
-
-II. Promulgar y ordenar conforme lo establece la presente Ley, la publicación de los reglamentos y disposiciones de observancia general aprobadas por el Cabildo;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-III. Convocar por conducto del Secretario, y presidir las sesiones de Cabildo, teniendo voz y voto para tomar parte en las discusiones; y voto de calidad en caso de empate;
-
-(NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-(NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2015)</small>
-
-IV. CELEBRAR A NOMBRE DEL AYUNTAMIENTO Y POR ACUERDO DE ÉSTE LOS ACTOS Y CONTRATOS NECESARIOS PARA EL DESPACHO DE LOS NEGOCIOS ADMINISTRATIVOS Y LA ATENCIÓN DE LOS SERVICIOS PÚBLICOS MUNICIPALES, SALVO LOS CONVENIOS CUYA CELEBRACIÓN CORRESPONDE DIRECTAMENTE AL AYUNTAMIENTO EN LOS TÉRMINOS DE ESTA LEY. ADEMÁS, ESTABLECER LAS MEDIDAS FINANCIERAS, LEGALES Y OPERATIVAS NECESARIAS QUE APOYEN Y GARANTICEN LA INDEPENDENCIA TÉCNICA DE LA CONTRALORÍA INTERNA;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
-
-V. Proponer al Ayuntamiento en la primera sesión de Cabildo, los nombramientos de la o el Secretario, de la o el Tesorero, de la o el Contralor, de las o los titulares de las unidades, investigadora; y substanciadora, de la o el Oficial Mayor, y las delegadas o delegados, en su caso. La propuesta que presente la o el Presidente Municipal será sometida a la aprobación del Cabildo; de no acordarse procedente, la o el Presidente Municipal presentará en la misma sesión una terna de candidatos para cada puesto, de entre los cuales el Cabildo hará la designación respectiva; si dicho cuerpo colegiado no acordare favorablemente o negare en su caso la propuesta de los candidatos, el Presidente Municipal expedirá inmediatamente el nombramiento en favor de cualquiera de los integrantes de la terna propuesta para cada cargo.
-
-En el nombramiento de la o el secretario; la o el tesorero; la o el contralor interno; la o el oficial mayor; delegadas o delegados, en su caso, el cabildo deberá observar que se cumplan de manera satisfactoria e íntegra los requisitos establecidos en los artículos, 77, 80, 83, 85 BIS, y 95, respectivamente, de este Ordenamiento;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-VI. Nombrar a los servidores públicos municipales cuya designación no sea facultad exclusiva del Cabildo, garantizando que las relaciones laborales entre el Ayuntamiento y sus trabajadores, se apeguen a lo dispuesto en la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado y Municipios de San Luis Potosí.
-
-Tratándose de directores, subdirectores de área, o jefes de área o departamento, así como todo servidor público que ejerza funciones de dirección, inspección, vigilancia y fiscalización, cuando tengan carácter general, así como todas aquéllas que por su naturaleza se definan como tales en los catálogos o tabuladores generales de puestos a que se refiere la Ley de los Trabajadores de las Instituciones Públicas del Estado de San Luis Potosí, el nombramiento será por el periodo de duración de la administración que los designó; pudiendo removerlos anticipadamente por causa justificada sin que proceda, reinstalación o pago de salarios vencidos, más allá del periodo establecido en el nombramiento respectivo;
-
-VII. Nombrar al Presidente del Sistema Municipal para el Desarrollo Integral de la Familia;
-
-VIII. Vigilar que las dependencias administrativas municipales se integren y funcionen legalmente, atendiendo las actividades que les están encomendadas con la eficiencia requerida;
-
-IX. Coordinar las funciones y la prestación de los servicios públicos municipales, proponiendo al Ayuntamiento la creación de organismos especiales para la prestación o la concesión de dichos servicios cuando así lo estime conveniente;
-
-X. Cuidar el correcto desempeño de las funciones encomendadas a la policía preventiva municipal y tránsito;
-
-XI. Vigilar la coordinación y el cumplimiento de los planes nacional, estatal y municipal de desarrollo;
-
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2011)</small>
-
-XII. Observar que se lleve a cabo el Plan Municipal de Desarrollo Urbano en congruencia con los planes estatal y nacional, remitiéndolo al Ejecutivo del Estado para que emita en su caso observaciones, y ordenar, una vez realizadas las correcciones que el Cabildo considere procedentes, la inscripción del mismo en el Registro Público de la Propiedad;
-
-XIII. Vigilar la recaudación en todas las ramas de la hacienda pública municipal, cuidando que la inversión de los fondos se haga con estricto apego al presupuesto y a las leyes correspondientes;
-
-XIV. Pasar diariamente a la Tesorería Municipal, en forma directa o a través del servidor público que prevea el Reglamento Interior, noticias detalladas de las multas que impusiere y vigilar que, en ningún caso, omita esa dependencia expedir recibos de los enteros que se efectúen;
-
-XV. Ejercer en materia de lo dispuesto por el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos, las facultades y responsabilidades que determine la ley;
-
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2007)</small>
-
-XVI. Solicitar licencia por escrito y por causa justificada al Cabildo, para ausentarse del Municipio por más de diez días; debiendo formular aviso para ausentarse por un término menor;
-
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2005)</small>
-
-XVII. Rendir ante el Pleno del Ayuntamiento en sesión solemne, durante la segunda quincena del mes de septiembre de cada año, un informe por escrito en el que manifieste el estado que guarda la administración pública municipal; y comparecer posteriormente cuando así lo acuerde con el propio Cabildo, a fin de responder a las observaciones que el edilicio le formule;
-
-XVIII. Vigilar la conducta oficial de los empleados del Municipio, corrigiendo oportunamente las faltas que observe y haciendo del conocimiento de la autoridad competente aquellas que pudieran ser tipificadas como delito;
-
-XIX. Coadyuvar al funcionamiento del Registro Civil en forma concurrente con la Dirección del mismo, en los términos de la ley de la materia;
-
-XX. Coordinar y vigilar las actividades de los delegados municipales en sus respectivas demarcaciones;
-
-XXI. Conceder y expedir en los términos de ley, las licencias para el aprovechamiento de parte de particulares de las vías públicas, así como las relativas al funcionamiento de comercios, espectáculos, cantinas, centros nocturnos, bailes y diversiones públicas en general, mediante el pago a la Tesorería de los derechos correspondientes;
-
-XXII. Prestar a las autoridades judiciales el auxilio que soliciten para la ejecución de sus mandatos y cumplimentar en el orden municipal, los acuerdos fundados y motivados que provengan de autoridades distintas al Ayuntamiento;
-
-XXIII. Autorizar los libros de la administración municipal, firmando y sellando la primera y última hojas;
-
-XXIV. Autorizar los documentos de compraventa de ganado y las licencias para degüello;
-
-XXV. Vigilar la exactitud del catastro y padrón municipal, actualizado anualmente, cuidando que se inscriban en él todos los ciudadanos y asociaciones civiles, del comercio y la industria, sindicatos, agrupaciones cívicas y partidos políticos, con la expresión de nombre, edad, estado civil, domicilio, propiedades, profesión, industria o trabajo de que subsistan los particulares y, en su caso, de los directivos de las asociaciones intermedias;
-
-XXVI. Determinar el trámite de los asuntos, oficios y solicitudes en general que se presenten al Ayuntamiento, y hacer que recaiga acuerdo a todas las peticiones que se presenten siempre que éstas se formulen por escrito, de manera pacífica y respetuosa, así como ordenar se notifiquen los acuerdos a los interesados;
-
-XXVII. Recibir la protesta de los servidores públicos municipales que ante él deban rendirla;
-
-XXVIII. Representar al Municipio ante los tribunales en los casos a que se refiere el artículo 71 de esta Ley, con todas las facultades de un apoderado general para pleitos y cobranzas; nombrar asesores y representantes, así como otorgar poderes generales y especiales para pleitos y cobranzas;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-XXIX. Celebrar a nombre del Municipio, en ejercicio de las facultades que la ley le confiere, o en ejecución de los acuerdos de Cabildo o del Congreso del Estado, los actos y contratos necesarios para el desempeño de los negocios administrativos, y la eficaz prestación de las funciones y los servicios públicos municipales, dando cuenta al Ayuntamiento o al Congreso del Estado, en su caso, del resultado de las gestiones;
-
-XXX. Realizar el control y vigilancia en materia de fraccionamientos, sobre construcción de obras públicas y privadas, de ornato, nomenclatura, numeración oficial, planificación y alineamiento de edificaciones y calles;
-
-XXXI. Informar al Ejecutivo del Estado o al Congreso del Estado, sobre cualquier asunto de orden municipal que interfiera o pueda afectar de alguna forma las funciones encomendadas al Ayuntamiento;
-
-XXXII. Proveer lo relativo al fomento, construcción, mantenimiento, control y vigilancia de los espacios destinados a prestar al público el servicio de estacionamiento de vehículos;
-
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
-
-XXXIII. Ordenar la publicación trimestral de los estados financieros en la forma que determine el Cabildo;
-
-XXXIV. Expedir o negar permisos y licencias para la construcción y demoliciones, debiendo solicitar la autorización del Instituto Nacional de Antropología e Historia cuando el caso lo requiera;
-
-XXXV. Expedir, previa aprobación del Cabildo en los términos de esta Ley, licencias de uso de suelo para dividir o subdividir inmuebles y para fraccionar en los términos de la ley de la materia;
-
-XXXVI. Visitar cuando menos dos veces al año todas las localidades que se encuentren dentro de la circunscripción municipal, para verificar el estado que guardan los servicios públicos;
-
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
-
-XXXVII. En materia de seguridad pública ejercer las facultades que le confieren la Ley de Seguridad Pública del Estado, las que le correspondan en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, así como las que le confiera la Ley que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, y los convenios que en materia de seguridad pública celebre el Ayuntamiento;
-
-XXXVIII. (DEROGADA, P.O. 27 DE FEBRERO DE 2020)
-
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
-
-XXXIX. Asistir y acreditar los cursos de inducción, talleres de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del Ramo correspondiente, o por universidades públicas o privadas; y participar en el proceso de entrega-recepción de los recursos públicos por cambio de administración municipal, una vez que cuenten con la constancia de la autoridad electoral que los acredite como tales y antes de tomar posesión de su cargo; así como asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
-
-XL. Constituir, dentro de los primeros treinta días del inicio de la administración, el Consejo Municipal de Protección Civil, con el objeto de prevenir y actuar en casos de riesgo, siniestro o desastre, en coordinación con las autoridades del Estado y la Federación. A este organismo concurrirán los sectores, público, social, y privado, con las funciones y atribuciones que para el efecto señalen, la Ley de Protección Civil del Estado; y el Reglamento municipal correspondiente;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XLI. Designar a los coordinadores municipales de protección civil, verificando que cuenten con la debida certificación de competencia, expedida por una institución avalada por la Escuela Nacional de Protección Civil;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XLII. Nombrar al enlace municipal de atención al migrante, el que tendrá las atribuciones que determine la Ley, y
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XLIII. Las demás que se deriven de esta Ley u otros ordenamientos aplicables.
+LA DEMANDA DE MEJORES SERVICIOS PUBLICOS POR PARTE DE LOS HABITANTES DEL MUNICIPIO DE BERRIOZABAL HA PRECISADO CONTROLAR Y REGULAR EL CRECIMIENTO DEL CENTRO DE POBLACION Y SUS ALREDEDORES A FIN DE QUE SE LLEVE A CABO EN FORMA ORDENADA. CONSIDERANDO QUE DENTRO DEL MUNICIPIO SE MANTIENE POR UNA PARTE EL CRECIMIENTO Y DESARROLLO DEL AMBITO URBANO Y PARALELO A ESTE, EL RURAL, EL CRECIMIENTO, EQUILIBRIO Y DESARROLLO DEL CENTRO DE POBLACION DEBE SER ADECUADO CONFORME A LO ESTABLECIDO EN ESTE REGLAMENTO Y AL PROGRAMA.
 
 ###### ARTICULO 71.
 
-El Presidente Municipal asumirá la representación jurídica del Ayuntamiento en los litigios en que éste fuere parte, únicamente en los siguientes casos:
+EL AYUNTAMIENTO DE BERRIOZABAL TIENE COMPETENCIA URBANISTICA Y EL RESPALDO EN LAS LEYES FEDERALES, ESTATALES Y MUNICIPALES, REFERIDAS EN EL ARTICULO 1 DE ESTE REGLAMENTO PARA:
 
-I. Cuando el Síndico esté legalmente impedido para ello, y
+I. EXPEDIR REGLAMENTOS, SANCIONES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL.
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
+II. PRESTAR LOS SERVICIOS PUBLICOS DE AGUA ENTUBADA (EN COORDINACION CON EL SISTEMA MUNICIPAL CORRESPONDIENTE) Y ALCANTARILLADO, ALUMBRADO PUBLICO, LIMPIA, MERCADOS Y CENTRALES DE ABASTO, PANTEONES, RASTRO, CALLES, PARQUES Y JARDINES, SEGURIDAD PUBLICA Y TRANSITO.
 
-II. En cualquier otra circunstancia por la que el Síndico se vea impedido para ello. En este caso deberá presentar escrito al cabildo, a través de la Secretaría del municipio, de las razones que justifiquen su impedimento; recibido el escrito se emitirá convocatoria, de acuerdo a la urgencia del caso, para que el cabildo en pleno la valide o rechace.
+III. COORDINARSE Y ASOCIARSE CON LOS OTROS MUNICIPIOS PARA LA EFICAZ PRESTACION DE LOS SERVICIOS PUBLICOS.
+
+IV. FORMULAR, APROBAR Y ADMINISTRAR LA ZONIFICACION Y PROGRAMAS DE DESARROLLO URBANO MUNICIPAL.
+
+V. PARTICIPAR EN LOS OBJETIVOS SIGUIENTES:
+
+A) EN LA CREACION Y ADMINISTRACION DE SUS RESERVAS TERRITORIALES;
+
+B) EN LA CREACION Y ADMINISTRACION DE ZONAS DE RESERVA ECOLOGICA, Y
+
+C) EN LA REGULARIZACION DE LA TENENCIA DE LA TIERRA.
+
+VI. CONTROLAR Y VIGILAR LA UTILIZACION DEL SUELO.
+
+VII. OTORGAR LICENCIAS DE CONSTRUCCION; Y
+
+VIII. LAS DEMAS QUE SEÑALEN LAS LEYES.
 
 ###### ARTICULO 72.
 
-Para el cumplimiento de las actividades inherentes a su cargo, el Presidente Municipal deberá auxiliarse de los demás integrantes del Ayuntamiento formando comisiones permanentes o temporales.
+PARA LOS EFECTOS DEL PRESENTE REGLAMENTO, SE ENTIENDE POR PROGRAMA, AL CONJUNTO DE NORMAS, PRINCIPIOS Y DISPOSICIONES QUE CON BASE EN ESTUDIOS URBANISTICOS ADECUADOS, COORDINA Y DIRIGE EL CRECIMIENTO, MEJORAMIENTO Y CONSERVACION DEL CENTRO DE POBLACION DE BERRIOZABAL, EXPRESANDOSE EN LOS PLANOS Y DISPOSICIONES NECESARIAS PARA ESTE FIN.
 
 ###### ARTICULO 73.
 
-El Presidente Municipal estará impedido para:
+PARA LOS EFECTOS DEL PRESENTE REGLAMENTO, SE ENTIENDE POR PROGRAMA MUNICIPAL DE DESARROLLO URBANO, AL CONJUNTO DE NORMAS, PRINCIPIOS Y DISPOSICIONES QUE CON BASE EN ESTUDIOS URBANISTICOS ADECUADOS, COORDINA Y DIRIGE EL CRECIMIENTO, MEJORAMIENTO Y CONSERVACION DEL MUNICIPIO DE BERRIOZABAL, EXPRESANDOSE EN LOS PLANOS Y DISPOSICIONES NECESARIAS PARA ESTE FIN.
 
-I. Distraer los fondos y bienes municipales de los fines a que estén destinados;
-
-II. Imponer contribución o sanción alguna que no esté señalada en las leyes correspondientes;
-
-III. Intervenir en las materias reservadas a las autoridades federales y estatales e invadir la competencia o jurisdicción de otros municipios;
-
-IV. Proporcionar apoyo a un determinado partido político o candidato por sí o a través de sus subordinados;
-
-V. Ausentarse del Municipio por más de diez días sin licencia del Cabildo; o por un término menor sin formular el aviso correspondiente;
-
-VI. Cobrar personalmente o por interpósita persona multa o arbitrio alguno; así como consentir o autorizar que alguna oficina distinta de la Tesorería municipal conserve o disponga de fondos municipales;
-
-VII. Distraer a los empleados o policías municipales para asuntos particulares;
-
-VIII. Residir durante su gestión fuera del territorio municipal;
-
-IX. Intervenir como patrocinador de alguna persona en negocios que se relacionen con el gobierno municipal, y
-
-X. Destinar recursos del erario municipal sea en dinero o en especie, para el financiamiento de campañas electorales.
-
-### CAPITULO II. De las Facultades y Obligaciones de los Regidores
+### CAPITULO SEGUNDO. TERMINACION Y OCUPACION DE LAS OBRAS
 
 ###### ARTICULO 74.
 
-Son facultades y obligaciones de los regidores las siguientes:
+EL PROGRAMA ESTABLECE EN SU ESTRATEGIA GENERAL, LA ORGANIZACION DE SUS UNIDADES TERRITORIALES Y LAS DEFINE CONFORME A LA DIVERSIDAD DE LAS FUNCIONES QUE ALOJA A TRAVES DE LA ZONIFICACION.
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-I. Asistir puntualmente a las sesiones de Cabildo, participando en las discusiones con voz y voto;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
-
-II. Desempeñar las comisiones que les encomiende el cabildo, informando a más tardar cada dos meses en sesión ordinaria, del trabajo realizado y de los resultados obtenidos;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-III. Proponer al Cabildo los acuerdos que deban dictarse para la eficaz prestación de los servicios públicos, o el mejor ejercicio de las funciones municipales cuya vigilancia les haya sido encomendada;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-IV. Vigilar los ramos de la administración municipal que les correspondan, para lo cual contarán con la información suficiente y expedita de las dependencias municipales, informando periódicamente de ello al Cabildo;
-
-V. Suplir al Presidente en sus faltas temporales en la forma prevista en esta Ley;
-
-VI. Concurrir a las ceremonias oficiales y a los demás actos que fueren citados por el Presidente Municipal;
-
-VII. Solicitar se convoque a sesiones ordinarias y extraordinarias al Cabildo. Cuando se rehusare el Presidente Municipal a convocar a sesión sin causa justificada, o cuando por cualquier motivo no se encontrare en posibilidad de hacerlo, los regidores podrán convocar en los términos del último párrafo del artículo 21 de la presente Ley;
-
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
-
-VIII. Suplir las faltas temporales de los síndicos suplentes en funciones, cuando para ello fueren designados por el Cabildo;
-
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
-
-IX. Asistir y acreditar los cursos de inducción, talleres de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del Ramo correspondiente, o por universidades públicas o privadas; y participar en el proceso de entrega-recepción de los recursos públicos por cambio de administración municipal, una vez que cuenten con la constancia de la autoridad electoral que los acredite como tales y antes de tomar posesión de su cargo; así como asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo, y
-
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
-
-X. Las demás que les otorguen la Ley y los reglamentos aplicables.
-
-### CAPITULO III. De las Facultades y Obligaciones del Síndico
+### CAPITULO TERCERO. AMPLIACIONES
 
 ###### ARTICULO 75.
 
-El Síndico tendrá las siguientes facultades y obligaciones:
+LA ZONIFICACION PRIMARIA DEFINE EL LIMITE DEL CENTRO DE POBLACION DE ACUERDO A LAS DINAMICAS DE URBANIZACION Y COMPRENDE LOS SIGUIENTES ELEMENTOS:
 
-I. La procuración, defensa y promoción de los intereses municipales;
+I. ZONAS URBANIZADAS
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+II. RESERVAS TERRITORIALES
 
-II. La representación jurídica del Ayuntamiento en los asuntos en que éste sea parte, y en la gestión de los negocios de la hacienda municipal, con todas las facultades de un apoderado general para pleitos y cobranzas, pudiendo además nombrar ante los tribunales, delegados, representantes legales, apoderados, coadyuvantes, según sea el caso, ello en los términos que establezca la ley que rija la materia en cuyo procedimiento comparezca;
+III. AREAS DE USO ESPECIFICO
 
-III. Vigilar la correcta aplicación del presupuesto municipal;
-
-IV. Asistir en coordinación con el Contralor Interno, a las visitas de inspección que se hagan a la Tesorería Municipal;
-
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
-
-V. Vigilar con la oportunidad necesaria, que se presente al Congreso del Estado en tiempo y forma la cuenta pública anual; asimismo, cerciorarse de que se ordene la publicación de los estados financieros trimestrales, previo conocimiento del Ayuntamiento;
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2019)</small>
-
-VI. Legalizar la propiedad de los bienes municipales e intervenir en la formulación y actualización de los inventarios de bienes muebles e inmuebles del Municipio, en coordinación con la Oficialía Mayor o la Secretaría, en su caso, procurando que se establezcan los registros administrativos necesarios para su control y vigilancia;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-VII. Asistir puntualmente a las sesiones de Cabildo, y participar en las discusiones con voz y voto;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-VIII. Refrendar con su firma, conjuntamente con las del Presidente Municipal y del Secretario, los contratos, concesiones y convenios que autorice el Cabildo, responsabilizándose de que los documentos se apeguen a la ley;
-
-IX. Presidir las comisiones para las cuales fuere designado;
-
-X. Intervenir como asesor en las demás comisiones cuando se trate de dictámenes o resoluciones que afecten al Municipio;
-
-XI. (DEROGADA, P.O. 11 DE JUNIO DE 2019)
-
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
-
-XII. Asistir y acreditar los cursos de inducción, talleres de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del Ramo correspondiente, o por universidades públicas o privadas; y participar en el proceso de entrega-recepción de los recursos públicos por cambio de administración municipal, una vez que cuenten con la constancia de la autoridad electoral que los acredite como tales y antes de tomar posesión de su cargo; así como asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo;
-
-(NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE ADICIONÓ LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-(NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE ADICIONÓ LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2015)</small>
-
-XIII. PRESENTAR LAS DENUNCIAS Y QUERELLAS ANTE EL MINISTERIO PÚBLICO QUE CORRESPONDA, DENTRO DE LOS TREINTA DÍAS SIGUIENTES A LA EXPEDICIÓN DE LOS DICTÁMENES O RESOLUCIONES QUE EMITA LA CONTRALORÍA INTERNA MUNICIPAL, DENTRO DE LOS PROCEDIMIENTOS DISCIPLINARIOS ADMINISTRATIVOS PROMOVIDOS EN CONTRA DE LOS SERVIDORES PÚBLICOS, CUANDO SE PRESUMA LA PROBABLE COMISIÓN DE UN DELITO, Y
-
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
-
-XIV. Las demás que le concedan o le impongan las leyes, los reglamentos o el Ayuntamiento.
+IV. AREA DE RESERVA ECOLOGICA
 
 ###### ARTICULO 76.
 
-El Síndico no puede desistirse, transigir o comprometerse en árbitros, ni hacer cesión de bienes, sin autorización expresa que para cada caso le otorgue el Ayuntamiento.
+LA ZONIFICACION SECUNDARIA DETERMINA AL INTERIOR DE LA ZONIFICACION PRIMARIA POLIGONOS DE MENOR AREA A LOS QUE POR SUS CARACTERISTICAS SE LE ASIGNAN SUS CORRESPONDIENTES USOS Y DESTINOS, TOMANDO COMO ELEMENTOS BASICOS LOS QUE SE SEÑALAN EN EL PROGRAMA. LA ZONIFICACION SECUNDARIA PROPONE LA DESCONCENTRACION DEL CENTRO DE SERVICIOS, CREANDO ZONAS PERIFERICAS Y DIVIDIENDO AL CENTRO DE POBLACION EN DISTINTOS BARRIOS, ADEMAS DE DEFINIR LAS ZONAS EN LO RELATIVO A LA VIVIENDA, LA INDUSTRIA, LAS AREAS DE RESTRICCION, LAS ZONAS DE MONUMENTOS HISTORICOS Y LOS CORREDORES URBANOS. ESTA ZONIFICACION SECUNDARIA, ESTA DEFINIDA EN EL PROGRAMA, TANTO EN LOS TEXTOS COMO EN LA DOCUMENTACION GRAFICA Y PLANOS.
 
-### CAPITULO IV. De la Secretaría
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+### CAPITULO CUARTO. DEMOLICIONES Y MEDIDAS PREVENTIVAS
 
 ###### ARTICULO 77.
 
-Para el despacho de los asuntos y para auxiliar al Presidente en sus funciones, cada Ayuntamiento contará con un Secretario, mismo que deberá reunir los siguientes requisitos:
+EL PROGRAMA ESTABLECE UNA DIVISION DE LA CIUDAD EN UN CENTRO URBANO Y TRES CENTROS DE BARRIO, LOS CUALES COMPRENDEN EL CENTRO GEOGRAFICO Y CUATRO PERIMETRALES, DE ACUERDO A LAS CARACTERISTICAS DE CADA UNO SE HAN ORIENTADO LOS USOS DEL SUELO:
 
-I. Ser ciudadano potosino en pleno uso de sus derechos civiles y políticos;
+CENTRO URBANO: BARRIO SAN SEBASTIAN
 
-II. (DEROGADA, P.O. 22 DE JUNIO DE 2018)
+CENTRO DE BARRIO NORPONIENTE: BARRIO SAN JOSE
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+CENTRO DE BARRIO SURPONIENTE: BARRIO GUADALUPE PONIENTE
 
-III. Contar con título y cédula profesional o nivel licenciatura, con la antigüedad mínima de tres años en el ejercicio de la profesión. Respecto a las demarcaciones con población de más de cien mil habitantes, será necesario que el título y cédula profesional sean de licenciatura en derecho, o abogado;
+CENTRO DE BARRIO SURORIENTE: BARRIO JUAN SABINES
 
-IV. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes del Ayuntamiento, y
+CENTRO DE BARRIO NORORIENTE: BARRIO SAN MIGUEL
 
-V. No haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión.
+EN ESTAS ZONAS SE INTEGRAN LA ZONIFICACION SECUNDARIA, SE PROPONEN LOS ELEMENTOS RELATIVOS A LA TIPOLOGIA DE LA VIVIENDA, DENSIDAD OCUPACIONAL, REGIMEN DE PROPIEDAD, RESERVA TERRITORIAL, TENDENCIAS DE CRECIMIENTO POBLACIONAL, CLASIFICACION Y UBICACION DE LA INDUSTRIA ACTUAL CON SUS RESPECTIVAS RESTRICCIONES Y LA ESTRUCTURA VIAL ACTUAL Y PROPUESTA PARA EL PLENO FUNCIONAMIENTO DEL CENTRO DE POBLACION.
 
 ###### ARTICULO 78.
 
-Son facultades y obligaciones del Secretario:
+CON BASE EN LOS ELEMENTOS MENCIONADOS EN EL ARTICULO ANTERIOR, CORRESPONDERA A LA DIRECCION, EL DICTAMINAR SOBRE LA APROBACION O NEGACION DE UBICACION DE CUALQUIER PROYECTO DE CONSTRUCCION, TOMANDO EN CUENTA LAS NORMAS DEL PRESENTE REGLAMENTO Y DISPOSICIONES SOBRE LA MATERIA.
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-I. Tener bajo su responsabilidad la recepción, organización, sistematización de su contenido, conservación y dirección del Archivo General del Ayuntamiento;
-
-II. Controlar la correspondencia y dar cuenta diaria de todos los asuntos al Presidente Municipal, para acordar el trámite correspondiente;
-
-III. Citar por escrito a los miembros del Ayuntamiento a las sesiones de Cabildo, formando el orden del día para cada sesión;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-IV. Estar presente en todas las sesiones de Cabildo con voz informativa, disponiendo de los antecedentes necesarios para el mejor conocimiento de los negocios que se deban resolver;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-V. Levantar las actas al término de cada sesión y recabar las firmas de los miembros del Ayuntamiento presentes, así como de aquellos funcionarios municipales que deban hacerlo;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-VI. Vigilar que oportunamente en los términos de ley se den a conocer a quienes corresponda, los acuerdos de Cabildo y del Presidente Municipal, autentificándolos con su firma;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-VII. Expedir cuando proceda, las copias, credenciales y demás certificaciones que acuerden el Cabildo y el Presidente Municipal;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-VIII. Autentificar con su firma las actas y documentos emanados del Cabildo y del Presidente Municipal;
-
-(NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-(NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2015)</small>
-
-IX. SUSCRIBIR LAS PÓLIZAS DE PAGO DE LA TESORERÍA, ASÍ COMO LOS TÍTULOS DE CRÉDITO QUE SE EMITAN POR EL AYUNTAMIENTO, EN UNIÓN DEL PRESIDENTE MUNICIPAL, Y DEL TESORERO, PREVIA REVISIÓN DEL CONTRALOR INTERNO;
-
-X. Distribuir entre los departamentos o secciones en que se divida la administración municipal los asuntos que les correspondan, cuidando proporcionar la documentación y datos necesarios para el mejor despacho de los asuntos;
-
-XI. Presentar en las sesiones ordinarias de Cabildo, informe del número de asuntos que hayan sido turnados a comisiones, los despachados y el total de los pendientes;
-
-XII. Expedir las circulares y comunicados en general, que sean necesarios para el buen despacho de los asuntos del Municipio;
-
-XIII. Proporcionar asesoría jurídica a las dependencias municipales;
-
-XIV. Compilar las disposiciones jurídicas que tengan vigencia en el Municipio;
-
-XV. Coadyuvar con las autoridades federales y estatales cuando así proceda, para el cumplimiento de lo dispuesto por el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
-
-XVI. Cuidar el funcionamiento de la Junta Municipal de Reclutamiento;
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2016)</small>
-
-XVII. En los municipios que no cuenten con Oficial Mayor, atender lo relativo a las relaciones laborales con los empleados del Ayuntamiento. Así como elaborar y revisar permanentemente, con el concurso de las demás dependencias municipales, los manuales de, organización; y de procedimientos; que requiera la administración pública municipal;
-
-XVIII. Imponer sanciones a quienes corresponda, por violación al Reglamento Interior del Ayuntamiento, y
-
-XIX. Las demás que le señalen las leyes y reglamentos municipales.
-
-### CAPITULO V. De la Tesorería
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2009)</small>
+### CAPITULO QUINTO. USOS Y CONSERVACION DE PREDIOS Y EDIFICACIONES
 
 ###### ARTICULO 79.
 
-Para el control del erario municipal cada ayuntamiento contará con un Tesorero, mismo que no deberá guardar parentesco con ninguno de los integrantes del ayuntamiento, conforme a lo establecido por la legislación de responsabilidades de los servidores públicos aplicable.
+CADA ZONA DEL CENTRO DE POBLACION, QUE CONSTITUYEN LA ZONIFICACION SECUNDARIA, SE CARACTERIZA POR UN USO PREDOMINANTE, PUDIENDO ESTOS SER DE TIPO HABITACIONAL, DE SERVICIOS, INDUSTRIA, ESPACIOS ABIERTOS E INFRAESTRUCTURA DE ACUERDO CON EL PROGRAMA.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
+POR CADA ZONA EXISTE UN NUMERO DE USOS PERMITIDOS, INCLUYENDO EL USO PREDOMINANTE, ESTO CONSTITUYE EL RANGO DE USOS DEL SUELO QUE SE PROMUEVEN EN EL PROGRAMA, PORQUE SON COMPATIBLES CON LA APTITUD DEL TERRITORIO CON LA CAPACIDAD ACTUAL Y PREVISTA DE LA INFRAESTRUCTURA VIAL Y DE SERVICIOS Y SON CONGRUENTES CON LAS POLITICAS DE DESARROLLO URBANO PREVISTAS EN EL PROGRAMA EN MENCION.
 
-El tesorero y todos los empleados que manejen fondos y valores, están obligados a caucionar su manejo de manera honrada y responsable, debiéndose fijar una fianza de por lo menos el equivalente a un mes de los ingresos propios, misma que deberá depositarse para su resguardo en la tesorería municipal; no podrá ejercerse el cargo sin que se haya otorgado dicha garantía, además de cumplir con todas las obligaciones y responsabilidades previstas por el Reglamento Interior Municipal; el presidente municipal, y el propio tesorero, serán responsables de que se realice dicho depósito.
+ASIMISMO, EXISTE UN CIERTO NUMERO DE USOS CONDICIONADOS, QUE SIENDO IMPORTANTES PARA LA CONSOLIDACION DE LAS DIVERSAS ZONAS URBANAS, PODRAN SI NO SE CONTROLAN, REPRESENTAR PROBLEMAS Y NO BENEFICIOS EN LA ZONA DONDE SE LOCALIZAN. LA AUTORIZACION DE CIERTOS USOS DENTRO DE UNA ZONA, SE DARA EN FUNCION DE LA MAGNITUD, INTENSIDAD Y UBICACION DEL USO EN CUESTION, OBEDECIENDO AL IMPACTO QUE DICHO USO PUEDA EJERCER SOBRE ASPECTOS COMO LA CAPACIDAD DE LA VIALIDAD EN EL AREA INMEDIATA AL DESARROLLO PROPUESTO, LA CAPACIDAD DE LAS REDES DE AGUA POTABLE Y ALCANTARILLADO, LA CALIDAD AMBIENTAL DEL LUGAR, LA SEGURIDAD URBANA Y LA COMPATIBILIDAD CON LOS USOS EXISTENTES EN LOS ALREDEDORES DEL LUGAR.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2014)</small>
+POR ULTIMO, PARA CADA ZONA SE INDICAN AQUELLOS USOS QUE EN ELLA SE ENCUENTRAN PROHIBIDOS POR SER INCOMPATIBLES CON LA APTITUD DE LA ZONA Y CONTRARIOS A LOS OBJETIVOS Y POLITICAS DEL PROGRAMA. COMPLEMENTADO LA APLICACION DE LOS USOS DEL SUELO EL PROGRAMA SEÑALA LOS RANGOS DE INTENSIDAD O DENSIDAD DE POBLACION, CON LOS CUALES SE PUEDEN DESARROLLAR LOS DIVERSOS USOS PERMITIDOS EN CADA ZONA. EL CONCEPTO DE INTENSIDAD DE USO, SE APLICA COMO MEDIDA DE CONTROL EN TODOS LOS USOS NO HABITACIONALES, EN TANTO QUE LA DENSIDAD DE POBLACION SE APLICA A LOS USOS HABITACIONALES. LA INFORMACION RELATIVA A LA ZONIFICACION Y USOS PERMITIDOS, CONDICIONADOS Y PROHIBIDOS, APARECE EN EL PROGRAMA.
 
 ###### ARTICULO 80.
 
-Para ser Tesorero del ayuntamiento es necesario cumplir con los requisitos siguientes:
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
-
-I. Contar con título y cédula profesional de licenciado en contabilidad pública, administración pública o economía, con una antigüedad mínima de tres años en el ejercicio de la profesión;
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
-
-II. No haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad, y
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
-
-III. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes del ayuntamiento.
+PARA PODER DAR USO O DESTINO A UN PREDIO O CONSTRUCCION, EL PROPIETARIO O POSEEDOR DEBERA TRAMITAR ANTE LA DIRECCION LA LICENCIA DE USO DEL SUELO.
 
 ###### ARTICULO 81.
 
-Son facultades y obligaciones del Tesorero:
+LA DIRECCION OTORGARA LAS LICENCIAS DEL USO DEL SUELO, CUANDO A SOLICITUD DEL INTERESADO, SE VERIFIQUE QUE EL USO O DESTINO QUE SE PRETENDE DAR AL AREA O PREDIO ES COMPATIBLE CON LO ESTABLECIDO EN EL PROGRAMA.
 
-I. Intervenir en la elaboración de los proyectos de leyes, reglamentos y demás disposiciones relacionadas con el manejo de los asuntos financieros del Municipio;
-
-II. Asumir bajo su estricta responsabilidad lo relativo a las erogaciones que realice fuera de los presupuestos y programas aprobados por el Ayuntamiento;
-
-III. Determinar, liquidar y recaudar los impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos que correspondan al Municipio conforme a la respectiva ley de ingresos municipal y demás leyes fiscales; así como administrar las participaciones y transferencias en contribuciones federales y estatales;
-
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
-
-IV. Resguardar los ingresos que en efectivo recaude por los conceptos enunciados en la fracción anterior que correspondan al municipio, en términos de la ley de ingresos respectiva, y realizar el depósito bancario de los mismos al día hábil siguiente de su recaudación; se exceptúa de esta obligación al ayuntamiento que no cuente en su municipio con institución bancaria, en cuyo caso, el depósito lo deberá efectuar a más tardar el tercer día hábil siguiente al de su recepción;
-
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
-
-V. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones de carácter fiscal;
-
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
-
-VI. Tener al corriente el padrón fiscal municipal, así como ordenar y practicar visitas de auditoría conforme a derecho, a los obligados en materia de contribuciones hacendarias municipales;
-
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
-
-VII. Ejercer la facultad para hacer efectivo el pago de las contribuciones cuyo cobro le corresponda al municipio;
-
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
-
-VIII. Llevar la contabilidad del municipio;
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
-
-IX. Formular trimestralmente un estado financiero de los recursos municipales, y presentarlo al Cabildo, debiendo enviarlo posteriormente para su fiscalización al Congreso del Estado; asimismo, en los términos acordados por el Ayuntamiento, deberá publicarlo en los primeros diez días del mes siguiente y exhibirlo en los estrados del ayuntamiento.
-
-Cuando el ayuntamiento se encuentre en su último año de Ejercicio Legal, deberá formular de manera mensual la información financiera de los meses de julio y agosto del año respectivo, debiendo enviarlos al Congreso del Estado para su fiscalización, dentro de los diez días del mes siguiente. Corresponderá al ayuntamiento entrante formular y remitir en el mismo plazo, el informe financiero del mes de septiembre, con base en la información financiera proporcionada en la entrega-recepción;
-
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
-
-X. Ejercer el presupuesto anual de egresos y vigilar que los gastos se apliquen de acuerdo con los programas aprobados por el ayuntamiento, exigiendo que los comprobantes respectivos estén visados por el presidente municipal, el secretario del ayuntamiento, y el presidente de la Comisión de Hacienda;
-
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
-
-XI. Intervenir en la formulación de convenios de coordinación fiscal con el Gobierno del Estado;
-
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2016)</small>
-
-XII. Elaborar el proyecto y someter a la aprobación del cabildo en forma oportuna, la cuenta pública anual municipal, y el presupuesto anual de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 133 de la constitución Política del Estado;
-
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2016)</small>
-
-XIII. Confirmar que los financiamientos que se contraten se celebren en las mejores condiciones del mercado, y
-
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2016)</small>
-
-XIV. Las demás que le señalen las leyes y reglamentos municipales.
-
-### CAPITULO VI. De la Oficialía Mayor
+### CAPITULO PRIMERO. REQUERIMIENTO DEL PROYECTO ARQUITECTONICO
 
 ###### ARTICULO 82.
 
-Los municipios del Estado que cuenten con una población mayor de cuarenta mil habitantes tendrán en el Ayuntamiento un Oficial Mayor.
-
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
+LA PRESENTACION DE LA LICENCIA DEL USO DEL SUELO, SERA INDISPENSABLE PARA INICIAR EL TRAMITE DE LAS LICENCIAS DE CONSTRUCCION Y DE FUNCIONAMIENTO CORRESPONDIENTES, QUE EXPIDE LA MISMA DIRECCION.
 
 ###### ARTICULO 83.
 
-Para ser Oficial Mayor se requiere:
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
-
-I. Contar con título profesional de nivel licenciatura, con una antigüedad mínima de tres años en el ejercicio de la profesión;
-
-II. No ser pariente consanguíneo o por afinidad, hasta el cuarto grado, de cualquiera de los integrantes del ayuntamiento, y
-
-III. No haber sido condenado, por sentencia firme, por la comisión de delitos patrimoniales que hayan ameritado pena privativa de la libertad.
+LA LICENCIA DEL USO DEL SUELO TENDRA VIGENCIA DE UN AÑO. SI LA LICENCIA DE CONSTRUCCION NO SE OBTIENE DENTRO DE ESE PERIODO, SERA NECESARIO SOLICITAR NUEVA LICENCIA DEL USO DEL SUELO.
 
 ###### ARTICULO 84.
 
-A efecto de proporcionar el apoyo administrativo a las dependencias, unidades y organismos municipales, el Oficial Mayor tendrá a su cargo las siguientes funciones:
+LOS PROPIETARIOS O POSEEDORES DE LOS PREDIOS O CONSTRUCCIONES, NO PODRAN MODIFICAR O ALTERAR EL USO O DESTINO DE SU PREDIO O CONSTRUCCION, SI NO SE OBTIENEN PREVIAMENTE LA LICENCIA DE LA DIRECCION.
 
-I. Coadyuvar con el Tesorero en la formulación de planes y programas del gasto público y en la elaboración del presupuesto anual de egresos;
-
-II. Autorizar el gasto corriente de las dependencias municipales;
-
-III. Adquirir los bienes y proporcionar los servicios requeridos para el mejor funcionamiento del Ayuntamiento;
-
-IV. Proveer oportunamente a las dependencias, unidades administrativas y organismos municipales, de los recursos humanos y materiales necesarios para el desarrollo de sus funciones;
-
-V. Levantar y tener actualizado el inventario general de los bienes muebles e inmuebles propiedad del Ayuntamiento;
-
-VI. Administrar, controlar y vigilar los almacenes generales del Ayuntamiento;
-
-VII. Controlar el servicio de mantenimiento de vehículos, maquinaria, mobiliario y equipo a cargo del Ayuntamiento;
-
-VIII. Participar en la entrega recepción de las unidades administrativas, de las dependencias y entidades municipales, conjuntamente con el Síndico y el Contralor Interno;
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2016)</small>
-
-IX. Expedir los nombramientos del personal que hayan dado el Cabildo o el Presidente Municipal; atender lo relativo a las relaciones laborales con los empleados al servicio del Ayuntamiento; así como elaborar y, revisar permanentemente, con el concurso de las demás dependencias municipales, los manuales de, organización; y de procedimientos; que requiera la administración pública municipal, y
-
-X. Las demás que le señalen las leyes y reglamentos municipales.
-
-### CAPITULO VII. De la Contraloría
-
-(NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-(NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2015)</small>
+### CAPITULO SEGUNDO. PREVISIONES PARA PERSONAS CON DISCAPACIDAD
 
 ###### ARTICULO 85.
 
-Los ayuntamientos del Estado contarán con una Contraloría Interna Municipal, la cual está investida de independencia técnica y de gestión. El titular de ésta durará en su encargo todo el ejercicio legal del cabildo que lo nombre, y sólo podrá ser removido, previo procedimiento en los términos a que alude el artículo 85 Ter de esta ley.
+PARA QUE A UN PREDIO O CONSTRUCCION SE LE PUEDA DAR UN USO O DESTINO ESPECIFICO, EL PROPIETARIO PRESENTARA POR ESCRITO A LA DIRECCION LA SOLICITUD DE LA LICENCIA DE USO DEL SUELO ADJUNTANDO POR DUPLICADO LOS SIGUIENTES DOCUMENTOS:
 
-ARTICULO 85 BIS. El Contralor Interno debe acreditar al momento de su nombramiento, el siguiente perfil:
+I. BOLETA DE PAGO PREDIAL ACTUALIZADA (COPIA)
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+II. ESCRITURAS O TITULO DE PROPIEDAD (COPIA)
 
-l. Tener título y cédula profesional de, licenciado en, Derecho; Contador Público; Administrador Publico; o Economista, o cualquiera otra relacionada con las actividades de fiscalización, con una antigüedad mínima de tres años;
+III. IDENTIFICACION DEL PROPIETARIO (COPIA)
 
-II. (DEROGADA, P.O. 20 DE AGOSTO DE 2020)
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-III. No haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-IV. Demostrar trayectoria, formación académica, actualización profesional, y experiencia laboral;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-V. No haber desempeñado el cargo de Secretario, Tesorero, Oficial Mayor, Delegado, Director o Jefe de Departamento, en la administración municipal inmediata anterior;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-VI. No desempeñar o haber desempeñado algún cargo de dirección en un partido político estatal o nacional en los últimos cinco años antes del nombramiento, y
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-VII. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes del Ayuntamiento.
-
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2015)</small>
-
-ARTICULO 85 TER. El Contralor Interno podrá ser removido de su cargo en cualquier momento, por el voto de cuando menos las dos terceras partes del cabildo, siempre que se actualice algunos de los motivos siguientes:
-
-I. Falta de probidad u honradez;
-
-II. Notoria ineficiencia, negligencia e impericia en el desempeño del cargo;
-
-III. Comisión de faltas administrativas o delitos graves;
-
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
-
-IV. Incumplir cualquiera de las causas de responsabilidad como servidor público establecidas en los capítulos, I, y II, del Título Tercero de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, y
-
-V. Las demás que le señalen las leyes y reglamentos municipales.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-Para el caso de que el Contralor Interno sea removido de su cargo, el Cabildo deberá nombrar un nuevo Contralor Municipal, de acuerdo con el procedimiento previsto en la parte relativa del artículo 31 inciso c) fracción II de la presente Ley.
+IV. CROQUIS DE LOCALIZACION (MEDIDAS Y COLINDANCIAS DE CALLES)
 
 ###### ARTICULO 86.
 
-Son facultades y obligaciones del Contralor Interno:
+TODAS LAS INSTITUCIONES Y DEPENDENCIAS MUNICIPALES, ESTATALES Y FEDERALES, QUE POSEAN O PRETENDAN ADQUIRIR PREDIOS CON O SIN CONSTRUCCION DENTRO DEL MUNICIPIO DE BERRIOZABAL, DEBERAN SOLICITAR Y COORDINARSE CON LA DIRECCION PARA OBTENER LAS LICENCIAS DE USO Y DESTINO DEL SUELO.
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-I. Desarrollar y coordinar el Sistema de Control Interno de la administración pública municipal;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-II. Establecer y vigilar el cumplimiento de las normas de control, fiscalización y auditoría que deban observar las dependencias y entidades de la administración pública municipal;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-III. Expedir las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública Municipal, para lo cual podrá requerir de las dependencias competentes, la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador de los Sistemas, Nacional y Estatal Anticorrupción;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-IV. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a las dependencias y entidades de la Administración Pública Municipal, en la promoción de su cumplimiento;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-V. Inspeccionar el ejercicio del gasto público municipal y la obtención de los ingresos, su apego y congruencia a las respectivas leyes, reglamentos, reglas y lineamientos aplicables;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-VI. Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de revisiones y auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Municipal;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-VII. Opinar sobre la idoneidad de los sistemas y normas de registro y contabilidad, de administración de recursos humanos, materiales y financieros, de contratación de obra pública, de adquisición de bienes, de contratación de servicios, de contratación de deuda pública, y de manejo de fondos y valores;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-VIII. Comprobar por sí, el cumplimiento por parte de las dependencias y entidades de la administración pública municipal de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento e inversión; adquisiciones, obra pública, servicios; deuda, sistema de registro y contabilidad, personal, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de muebles e inmuebles y demás activos y recursos materiales; fondos y valores de la propiedad o al cuidado del gobierno municipal;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-IX. Coordinar acciones y, en su caso, celebrar convenios con la Auditoría Superior, la Contraloría General, ambas del Estado, para el cumplimiento de sus funciones;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-X. Participar, cuando proceda, en el Comité del Sistema Estatal de Fiscalización;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XI. Intervenir en los convenios de concertación con la Contraloría General del Estado y con la Auditoría Superior del Estado en relación a recursos federales, así como vigilar su ejecución y cumplimiento;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XII. Informar a la ciudadanía mediante su publicación, el resultado final de la evaluación, fiscalización y auditoría de las dependencias y entidades de la administración pública municipal, así como de la recepción, seguimiento y avance o resolución de los asuntos a que se refiere la fracción XI de este artículo;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XIII. Recibir y registrar las declaraciones patrimoniales, la constancia de presentación de declaración fiscal y la declaración de conflicto de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones legales aplicables;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XIV. Atender las quejas y denuncias que presente la ciudadanía derivadas de las actuaciones de los servidores públicos de la Administración Pública Municipal;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XV. Conocer e investigar las conductas de los servidores públicos de la Administración Pública Municipal y de los particulares, que pudieran constituir responsabilidades administrativas; así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública Municipal; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal Estatal de Justicia Administrativa; y, cuando se trate de faltas administrativas graves o de faltas administrativas de particulares, emitir el informe de presunta responsabilidad administrativa y ejercer la acción que corresponda ante ese Tribunal o ante la Auditoría Superior del Estado; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Materia de Delitos Relacionados con Hechos de Corrupción y ante otras autoridades competentes, en términos de las disposiciones legales aplicables;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XVI. Llevar en la administración pública municipal, el registro de los servidores públicos sujetos a procedimientos administrativos instaurados, de los sancionados e inhabilitados, de los recursos e impugnaciones que se hayan hecho valer y, en su caso, las resoluciones por las que se dejen sin efectos las resoluciones dictadas; para lo cual deberá realizar la captura, así como el envío oportuno y veraz de la información a la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, en términos de lo previsto por la Ley del Sistema Estatal Anticorrupción, y de la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XVII. Fiscalizar de manera coordinada con el Órgano Interno de Control de la Federación, o de quien haga sus veces, la obra pública federal programada para el Municipio, en los términos de los convenios, acuerdos o programas conjuntos de trabajo;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XVIII. Solicitar el apoyo de la Contraloría General y Auditoría Superior del Estado, en la implantación de sistemas y órganos de control y evaluación municipal, en el marco del Sistema Estatal de Fiscalización y los convenios particulares que se establezcan;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XIX. Inspeccionar y vigilar la aplicación de los subsidios y fondos que el Estado otorgue al municipio, dependencias y entidades de la administración pública; y, en su caso los que otorgue la Federación, previo acuerdo con ésta;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XX. Intervenir en los procesos de entrega y recepción de las oficinas de las dependencias y entidades de la administración pública municipal, a efecto de verificar el procedimiento a seguir, y conocer de las incidencias que pudieran resultar en faltas administrativas;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXI. Auxiliar a las dependencias y entidades de la administración pública en la prevención de irregularidades en los procesos administrativos;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXII. Normar, coordinar y evaluar el desempeño de los órganos internos de control de las dependencias y entidades de la Administración Pública Municipal;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXIII. Designar y remover libremente a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Paramunicipal, quienes dependerán jerárquica y funcionalmente de la Contraloría Interna Municipal; asimismo, designar y remover libremente a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control, quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales, representando al titular de dicha Contraloría;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXIV. Designar y remover para el mejor desarrollo del Sistema de Control Interno de la Gestión Gubernamental, delegados de la propia Contraloría ante las dependencias y órganos desconcentrados de la Administración Pública Municipal descentralizada y comisarios públicos de los órganos de gobierno o vigilancia de las entidades de la Administración Pública Paramunicipal; así como normar y controlar su desempeño;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXV. Designar y remover a los auditores externos de las entidades de la administración pública paramunicipal, así como normar y controlar su desempeño;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXVI. Promover la innovación gubernamental y la mejora de la gestión pública en las dependencias y entidades de la Administración Pública Municipal, bajo los principios de participación ciudadana, transparencia, rendición de cuentas e innovación, y con criterios de eficacia, legalidad, eficiencia y simplificación administrativa, para lo cual podrá emitir normas, lineamientos específicos y manuales; así mismo, realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXVII. Desarrollar y aplicar mecanismos de verificación, competencias y cumplimiento de metas individuales de los servidores públicos de la administración pública municipal, en base a la política y lineamientos para la administración de los recursos humanos que expida la Oficialía Mayor o la que haga sus veces;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXVIII. Verificar que se dé cumplimiento a lo establecido en materia de certificación y evaluación de conocimientos en los términos establecidos en la presente Ley;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXIX. Colaborar en el marco de los Sistemas Nacionales Anticorrupción y de Fiscalización, así como con los correspondientes en la Entidad, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXX. Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones legales aplicables;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXXI. Suspender de acuerdo a lo establecido en la normatividad aplicable, en el manejo, custodia o administración de recursos y valores de la propiedad o al cuidado del Gobierno del Municipal (sic), a los servidores públicos responsables de irregularidades, interviniendo los recursos y valores correspondientes, dando aviso de ello al titular de la dependencia o ente de que se trate y, en su caso, al Cabildo para la sustitución correspondiente;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXXII. Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al Cabildo, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos municipales, y promover ante las autoridades competentes las acciones que procedan, para corregir las irregularidades detectadas;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXXIII. Vigilar el cumplimiento de la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Municipal, que apruebe la comisión edilicia de transparencia;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXXIV. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Municipal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXXV. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Nacional y Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública Municipal;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXXVI. Establecer un sistema para seleccionar a los integrantes de los órganos internos de control sujetos a su designación, que garantice la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XXXVII. Emitir el Código de Ética de los servidores públicos de la Administración Pública Municipal, y las Reglas de Integridad para el ejercicio de la función pública;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
-
-XXXVIII. Recibir, tramitar y resolver las inconformidades o impugnaciones que formulen los particulares con motivo de los actos realizados por los servidores públicos de las dependencias y entidades de la administración pública municipal, en materia de adquisiciones, arrendamientos, obras públicas y servicios relacionados con las mismas;
-
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
-
-XXXIX. Recibir capacitación y certificaciones de la Auditoría Superior del Estado, en las materias específicas de fiscalización y vigilancia relativas a sus atribuciones, con independencia de los cursos y talleres señalados en el artículo 107 Bis de esta Ley, y
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XL. Las demás que le encomienden expresamente las leyes y reglamentos.
-
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
-
-ARTICULO 86 BIS. La o el contralor interno estará auxiliado por los titulares de las unidades, investigadora; y substanciadora, correspondiendo a la primera, la investigación de faltas administrativas; y a la segunda, dirigir y conducir el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa, y hasta la conclusión de la audiencia inicial, en los términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
-
-Las o los titulares de las unidades, investigadora; y substanciadora, deberán reunir los mismos requisitos que para la o el contralor interno establece esta Ley.
-
-### CAPITULO VIII. Del Departamento de Asuntos Indígenas
+### CAPITULO TERCERO. ACONDICIONAMIENTO AMBIENTAL Y SERVICIOS
 
 ###### ARTICULO 87.
 
-En los municipios que cuenten con una población indígena significativa, los ayuntamientos contarán con un Departamento de Asuntos Indígenas para atender o canalizar, con respeto a su cultura, usos, costumbres, tradiciones y formas de organización comunitaria, las demandas y propuestas de las personas y comunidades indígenas de su circunscripción y que correspondan a su competencia.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+EN TERMINOS DEL ARTICULO 8° DE LA LEY, LOS ACTOS, CONTRATOS O CONVENIOS RELATIVOS A LA PROPIEDAD, POSESION O APROVECHAMIENTO O CUALQUIER OTRA FORMA JURIDICA DE TENENCIA DE AREAS O PREDIOS, NO ALTERARAN LOS USOS, DESTINOS Y RESERVAS ESTABLECIDOS EN LOS PROGRAMAS DE DESARROLLO URBANO APLICABLES. ESTOS ACTOS JURIDICOS DEBERAN CONTENER LAS CLAUSULAS RELATIVAS AL APROVECHAMIENTO DE AREAS Y PREDIOS CONFORME A LA ZONIFICACION QUE SE DETERMINE EN LOS PROGRAMAS DE DESARROLLO MENCIONADOS. SERAN INEXISTENTES Y COMO CONSECUENCIA DE ELLO NO PRODUCIRAN EFECTO ALGUNO, AQUELLOS ACTOS QUE CONTRAVENGAN A LO DISPUESTO EN EL PARRAFO ANTERIOR.
 
 ###### ARTICULO 88.
 
-El Departamento de asuntos indígenas estará a cargo de una persona que hable y escriba suficientemente la lengua o lenguas indígenas de la región de que se trate, la que será propuesta de las comunidades y pueblos indígenas, de conformidad con sus sistemas normativos y formas de organización comunitaria, garantizando el principio de paridad de género, en cumplimiento de lo establecido en el artículo 2o. de la Constitución Federal. La persona designada por las comunidades y pueblos indígenas, deberá ser ratificada por el presidente municipal para la ocupación del cargo.
+LA DIRECCION ESTABLECERA LAS RESTRICCIONES QUE JUZGUEN NECESARIAS PARA TODA CONSTRUCCION O USO DE LOS PREDIOS, YA SEA EN FORMA GENERAL O EN ZONAS DETERMINADAS EN FRACCIONAMIENTOS, EN LUGARES O PREDIOS ESPECIFICOS, QUE SE HARAN CONSTAR EN LAS AUTORIZACIONES, LICENCIAS O CONSTANCIAS DE ALINEAMIENTO OFICIAL QUE EXPIDA, QUEDANDO OBLIGADOS A RESPETARLAS, LOS PROPIETARIOS O POSEEDORES DE LOS MISMOS.
 
-La o el jefe del departamento realizará las funciones y ejercerá las atribuciones que señale el Reglamento Interior del municipio correspondiente. Se procurará que el personal de este departamento sea preferentemente indígena.
+### CAPITULO CUARTO. DE LAS INSTALACIONES Y PREVENCIONES CONTRA INCENDIOS
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JUNIO DE 2014)</small>
+### CAPITULO QUINTO. ANALISIS POR CLIMATOLOGIA
 
-### CAPÍTULO VIII BIS. DE LA COORDINACIÓN DE DERECHOS HUMANOS
+###### ARTICULO 178.
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2014)</small>
+SE DEBERA CONSIDERAR EL ANALISIS DEL MICROCLIMA DEL MUNICIPIO, SEGUN SU CLASIFICACION CLIMATICA DE ACUERDO A LO ESTIPULADO EN EL PROGRAMA Y EN LAS LEYES RELATIVAS, EN EL CUAL SE CONSIGNAN LA TEMPERATURA Y EL GRADO DE HUMEDAD, A FIN DE APROVECHARLOS O DEFENDERSE DE EL.
 
-ARTICULO 88 BIS. Sólo en aquellos municipios del Estado que cuenten con población mayor a cuarenta mil habitantes, será obligatorio contar con la Coordinación de Derechos Humanos. En el resto de los municipios, el responsable de atender los asuntos jurídicos del ayuntamiento, será quien ejercerá las atribuciones de la Coordinación de Derechos Humanos.
+###### ARTICULO 179.
 
-Para elegir al del titular de la Coordinación de Derechos Humanos en cada municipio, los ayuntamientos, a través de la Comisión Permanente de Derechos Humanos, determinarán las bases y lineamientos de elección, así como la publicación de la convocatoria respectiva.
+EL ANALISIS DE LOS FACTORES CLIMATICOS EN LA ZONA INDICADOS EN EL PROGRAMA Y QUE ACTUAN DIRECTA O INDIRECTAMENTE EN EL DESARROLLO DE UN PROYECTO SON:
 
-El nombramiento del Coordinador de Derechos Humanos del municipio será por un período igual a la duración de la administración que lo eligió, por acuerdo de las dos terceras partes de los integrantes del cabildo, sin responsabilidad para el ayuntamiento.
+TEMPERATURA MAXIMA Y MINIMA.
 
-Quien ocupe la titularidad de la Coordinación de Derechos Humanos, rendirá ante el cabildo un informe semestral de actividades, en sesión solemne, debiendo asistir el Presidente de la Comisión Estatal de Derechos Humanos, o quien éste designe para que lo represente.
+% MAXIMO Y MINIMO DE HUMEDAD RELATIVA.
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2014)</small>
+NO. DE DIAS SOLEADOS Y DIAS NUBLADOS.
 
-ARTICULO 88 TER. Son atribuciones de la Coordinación Municipal de Derechos Humanos:
+PRECIPITACION PLUVIAL.
 
-I. Recibir las quejas de la población de su municipalidad, y remitirlas a la Comisión Estatal de Derechos Humanos, por conducto de las visitadurías, dentro de las veinticuatro horas siguientes a que tenga conocimiento de las mismas;
+FRECUENCIA Y VELOCIDAD DE LOS VIENTOS DOMINANTES.
 
-II. Informar a la Comisión Estatal de Derechos Humanos, acerca de presumibles violaciones a los derechos humanos por actos u omisiones cometidas por cualquier autoridad o servidor público que resida en el municipio de su adscripción;
+LOS FACTORES CLIMATOLOGICOS POR CONSIDERAR SON LOS SIGUIENTES:
 
-III. Observar que el presidente municipal rinda de manera oportuna y veraz los informes que solicite la Comisión Estatal de Derechos Humanos;
+ASOLEAMIENTO.
 
-IV. Verificar que las medidas precautorias o cautelares solicitadas por la Comisión Estatal de Derechos Humanos sean cumplidas en sus términos, una vez aceptadas por la autoridad dentro de su municipio;
+TEMPERATURA.
 
-V. Elaborar acta circunstanciada por hechos que puedan ser considerados violatorios de derechos humanos que ocurran dentro de su adscripción, teniendo fe pública sólo para ese efecto, debiendo remitirla a la visitaduría correspondiente, dentro de las veinticuatro horas siguientes a que tenga conocimiento de los mismos;
+VIENTOS.
 
-VI. Practicar, conjuntamente con el visitador designado por la Comisión Estatal de Derechos Humanos, las conciliaciones y mediaciones que se deriven de las quejas sobre las que tenga conocimiento, conforme lo establecen la Ley de la Comisión de Derechos Humanos del Estado, y su reglamento;
+REGIMEN PLUVIOMETRICO.
 
-VII. Coadyuvar con la Comisión Estatal de Derechos Humanos, en el seguimiento de las recomendaciones que el organismo dicte en contra de autoridades o servidores públicos que residan o ejerzan sus atribuciones dentro del municipio;
+HUMEDAD.
 
-VIII. Proponer medidas administrativas a los servidores públicos para que, durante el desempeño de sus funciones, actúen con pleno respeto a los derechos humanos;
+###### ARTICULO 180.
 
-IX. Desarrollar programas y acciones tendientes a promover los derechos humanos;
+PARA EL ESTUDIO DE ASOLEAMIENTO ES NECESARIO CONSIDERAR LOS SIGUIENTES ASPECTOS:
 
-X. Fomentar y difundir la práctica de los derechos humanos, con la participación de organismos no gubernamentales del municipio;
+I. PARA DEFINIR LA ORIENTACION OPTIMA, EN FUNCION DE LAS NECESIDADES DE ASOLEAMIENTO, SE REQUIERE RECONOCER Y ANALIZAR LA DIRECCION E INCIDENCIA DE LOS RAYOS SOLARES EN DIFERENTES EPOCAS DEL AÑO.
 
-XI. Participar en las acciones y programas de los organismos no gubernamentales de derechos humanos de su municipio, así como supervisar las actividades y eventos que éstos realicen;
+II. LA GRAFICA SOLAR SE COMPLEMENTA CON LA GRAFICA DE TEMPERATURA A FIN DE DETERMINAR EL EJE TERMICO.
 
-XII. Asesorar y orientar a los habitantes de su municipio, en especial a los menores, mujeres, adultos mayores, personas con discapacidad, indígenas, y detenidos o arrestados, a fin de que les sean respetados sus derechos humanos;
+### CAPITULO PRIMERO. REQUERIMIENTOS DE INTEGRACION DEL PROYECTO A LA IMAGEN URBANA
 
-XIII. Participar, promover y fomentar los cursos de capacitación que imparta la Comisión Estatal de Derechos Humanos;
+###### ARTICULO 181.
 
-XIV. Coordinar acciones con autoridades de salud, de seguridad pública estatal y otras que correspondan, para supervisar que en los centros de atención de adicciones del municipio no se vulneren los derechos humanos de las personas que se encuentran dentro de éstos;
+LA CONSERVACION DE LA IMAGEN URBANA DE LA CIUDAD DE BERRIOZABAL EN PARTICULAR Y DEL MUNICIPIO EN LO GENERAL, PROPICIARA EL ESTABLECIMIENTO DE ZONAS DE CONSERVACION DE LA ARQUITECTURA VERNACULA, PATRIMONIO HISTORICO, ARTISTICO Y ZONAS DE PRESERVACION ECOLOGICA, MISMAS QUE SE ENCUENTRAN ASENTADOS EN EL PROGRAMA.
 
-XV. Supervisar las comandancias y separos municipales, a fin de verificar que cuenten con las condiciones necesarias para realizar sus funciones, y no se vulneren los derechos humanos de las personas privadas de su libertad;
+###### ARTICULO 182.
 
-XVI. Realizar investigaciones y diagnósticos en materia económica, social, cultural y ambiental, relacionados con la observancia y vigencia de los derechos humanos, para el planteamiento de políticas públicas y programas que se traduzcan en acciones que en la esfera de su competencia aplique el municipio, en coordinación con la Comisión Estatal de Derechos Humanos;
+LAS EDIFICACIONES QUE SE PROYECTEN EN ZONAS DE PATRIMONIO HISTORICO, ARTISTICO O ARQUEOLOGICO Y EN ZONAS DE PRESERVACION ECOLOGICA DEL MUNICIPIO, DEBERAN SUJETARSE A LAS RESTRICCIONES DE ALTURA, MATERIALES, ACABADOS, COLORES, ABERTURAS, Y A TODAS LAS DEMAS QUE SEÑALEN PARA CADA CASO EL INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA Y LAS LEYES APLICABLES EN LA MATERIA.
 
-XVII. Proponer a la autoridad municipal y comprometer que privilegie la adopción de medidas para el ejercicio de los derechos de protección y asistencia a la familia, a la alimentación, a la vivienda, a la salud, a la educación, a la cultura y a un medio ambiente sano, a partir de un mínimo universal existente que registre avances y nunca retrocesos;
+###### ARTICULO 183.
 
-XVIII. Promover los derechos de la niñez, de los adolescentes, de la mujer, de los adultos mayores, de las personas con discapacidad, de los indígenas, y de todos los grupos vulnerables, y
+SE ENTIENDE POR EDIFICACION PATRIMONIAL, A LOS MONUMENTOS ARQUEOLOGICOS, HISTORICOS, ARTISTICOS Y A LA ARQUITECTURA TRADICIONAL Y VERNACULA.
 
-XIX. Las demás que les confiera esta Ley y otras disposiciones legales.
+###### ARTICULO 184.
 
-### CAPITULO IX. De las Comisiones del Ayuntamiento
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-### CAPITULO X. De los Delegados Municipales
+LOS INMUEBLES UBICADOS EN LAS ZONAS DESCRITAS EN EL ARTICULO 176, NO SE ALTERARAN MODIFICARAN O DESTRUIRAN. CUALQUIER INTERVENCION DEBERA SER APROBADA POR INSTITUTO (SIC) NACIONAL DE ANTROPOLOGIA E HISTORIA CORRESPONDIENTE EN COORDINACION CON EL AYUNTAMIENTO.
 
 ###### ARTICULO 89.
 
-En la primera sesión del año en que se instale el Ayuntamiento, se procederá a nombrar de entre sus miembros a los que formarán las comisiones permanentes, mismas que vigilarán el ramo de la administración que se les encomiende; dichas comisiones estarán conformadas por lo menos con tres integrantes, y serán las siguientes:
+LICENCIA DE CONSTRUCCION ES EL DOCUMENTO EXPEDIDO POR EL AYUNTAMIENTO, A TRAVES DEL CUAL SE AUTORIZA A LOS PROPIETARIOS PARA CONSTRUIR, AMPLIAR, MODIFICAR, REPARAR O DEMOLER UNA EDIFICACION O INSTALACION EN SUS PREDIOS.
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+LA REVISION DE LOS EXPEDIENTES Y PLANOS RESPECTIVOS, SE HARA DE ACUERDO A LOS INSTRUCTIVOS Y NORMATIVIDAD ESTABLECIDA, POR LA DIRECCION, CONFORME LO ESTABLECE EL REGLAMENTO.
 
-I. Agua Potable, Alcantarillado y Saneamiento;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
-
-II. Alumbrado y Obras Públicas;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
-
-III. Comercio, Anuncios y Espectáculos;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
-
-IV. Cultura, Recreación, Deporte y Juventud;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
-
-V. Derechos Humanos y Participación Ciudadana;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
-
-VI. Desarrollo Rural y Asuntos Indígenas;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
-
-VII. Desarrollo y Equipamiento Urbano;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
-
-VIII. Ecología;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
-
-IX. Educación Pública y Bibliotecas;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
-
-X. Gobernación;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
-
-XI. Grupos Vulnerables;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
-
-XII. Hacienda Municipal;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
-
-XIII. Mercados, Centros de Abasto y Rastro;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
-
-XIV. Policía Preventiva, Vialidad y Transporte;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
-
-XV. Salud Pública y Asistencia Social;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XVI. Servicios;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XVII. Vigilancia, y
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-XVIII. Transparencia y Acceso a la Información.
-
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2013)</small>
+A PARTIR DE LA PRESENTACION DE LA SOLICITUD DE LA LICENCIA DE CONSTRUCCION Y DE LA DOCUMENTACION COMPLETA, EL AYUNTAMIENTO EN UN TERMINO DE 10 DIAS HABILES EMITIRA SU DICTAMEN RESPECTIVO.
 
 ###### ARTICULO 90.
 
-Además de las comisiones enunciadas en el artículo anterior, podrán crearse otras en atención a las necesidades del propio ayuntamiento; asimismo, cuando algún asunto lo amerite se integrarán comisiones temporales o especiales, mismas que conocerán exclusivamente del asunto que motive su creación.
+PREVIA A LA SOLICITUD DEL PROPIETARIO O POSEEDOR Y PARA LA EXPEDICION DE LA LICENCIA DE CONSTRUCCION A LA QUE SE REFIERE EL ARTICULO ANTERIOR, AQUEL DEBERA OBTENER DEL AYUNTAMIENTO LICENCIA POR FACTIBILIDAD DE USO DEL SUELO EN LOS SIGUIENTES CASOS:
 
-Las comisiones se conformarán de forma plural y proporcional, teniendo en cuenta el número de sus integrantes y la importancia de los ramos encomendados a las mismas; para su integración se debe considerar el conocimiento, profesión, ocupación, vocación y experiencia de los integrantes del cabildo.
+I. CONJUNTOS HABITACIONALES.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+II. EDIFICACIONES DESTINADAS A OFICINAS, COMERCIOS Y SERVICIOS, DESPUES DE LOS 1,000 METROS CUADRADOS CONSTRUIDOS O MAS DE 2 NIVELES DE CONSTRUCCION.
 
-El Reglamento respectivo determinará el trámite y los procedimientos que deberán de seguir los asuntos, disposiciones y acuerdos que se turnen expresamente a una comisión, así como los plazos y resolución de los mismos.
+III. EDIFICACIONES DESTINADAS AL ALOJAMIENTO Y TURISMO.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2013)</small>
+IV. EDIFICACIONES DE INFRAESTRUCTURA.
+
+V. BODEGAS, TALLERES O INDUSTRIAS.
+
+VI. EDIFICIOS O INSTALACIONES QUE POR SU NATURALEZA, SIN IMPORTAR SU MAGNITUD, A JUICIO DEL AYUNTAMIENTO, GENEREN LA INTENSA CONCENTRACION DE USUARIOS, DE TRANSITO DE VEHICULOS O ESTACIONAMIENTO Y DEN ORIGEN A PROBLEMAS ESPECIALES DE CARACTER URBANO.
+
+VII. EDIFICACIONES COMPRENDIDAS DENTRO DEL SISTEMA NORMATIVO DE EQUIPAMIENTO URBANO DE LA SEDESOL.
+
+VIII. DEPOSITOS DE COMBUSTIBLES, EXPLOSIVOS, GASOLINERAS Y RASTROS.
+
+IX. EDIFICACIONES ESTABLECIDAS EN ZONAS DE PATRIMONIO CULTURAL, ARTISTICO Y ARQUEOLOGICO O DE PRESERVACION ECOLOGICA O TIPOLOGIA ESTABLECIDA POR EL PROGRAMA.
+
+ESTE TIPO DE SOLICITUD DEBERA ACOMPAÑARSE CON LOS SIGUIENTES DOCUMENTOS:
+
+COPIA DE DOCUMENTO QUE AVALE LA PROPIEDAD (ESCRITURA PUBLICA, TITULO DE PROPIEDAD O CESION EJIDAL).
+
+ANTEPROYECTO ARQUITECTONICO Y MEMORIA DE CALCULO EN EL QUE SE INCLUYAN PLANTAS DE DISTRIBUCION Y LOCALIZACION, CORTES Y FACHADAS, ASI COMO LOS ESTUDIOS DE IMAGEN URBANA Y DE PROYECCION DE SOMBRAS.
+
+ESTE ESTUDIO DE FACTIBILIDAD DE USO DEL SUELO ES APLICABLE A LOS CASOS DE CONSTRUCCION NUEVA, RECONSTRUCCION, ADAPTACION, MODIFICACION DE EDIFICIOS O INSTALACIONES Y CAMBIO DE USO DE LOS MISMOS.
+
+EN CADA FACTIBILIDAD DE USO DEL SUELO QUE SE EXPIDAN SE SEÑALARAN LAS CONDICIONES QUE FIJE EL PROGRAMA EN MATERIA DE VIALIDAD, ESTACIONAMIENTO, AREAS VERDES, INTENSIDAD DE USO DEL SUELO, AREAS DE MANIOBRAS, DENSIDAD DE POBLACION Y CUALESQUIERA OTRAS. ESTAS CONDICIONES SE TRANSCRIBIRAN EN LA LICENCIA DE CONSTRUCCION CORRESPONDIENTE.
+
+ESTA LICENCIA DE FACTIBILIDAD DE USO DEL SUELO ES APLICABLE A LOS CASOS DE CONSTRUCCION NUEVA, RECONSTRUCCION, ADAPTACION, MODIFICACION O EDIFICIOS O INSTALACIONES Y CAMBIO DE USO DE LOS MISMOS.
+
+PARA LAS EDIFICACIONES DESTINADAS A LA SALUD (CLINICAS, SANATORIOS, ETC.), Y EDIFICIOS QUE ALBERGUEN SUSTANCIAS TOXICAS (INDUSTRIAS, LABORATORIOS. ETC.), DEBERAN PRESENTAR ADEMAS DE LOS REQUISITOS ESTABLECIDOS, LA LICENCIA SANITARIA EXPEDIDA POR LA SECRETARIA DE SALUD.
 
 ###### ARTICULO 91.
 
-Las comisiones carecerán de facultades ejecutivas, y podrán ser modificadas por el voto de las dos terceras partes de los miembros del cabildo.
+PARA LA AUTORIZACION DE LAS LICENCIAS EL INTERESADO PRESENTARA TRES JUEGOS DE PLANOS DEL PROYECTO FIRMADOS EN ORIGINAL CON EL NUMERO DEL DIRECTOR RESPONSABLE DE LA OBRA, PARA SER SELLADOS Y AUTORIZADOS POR LA DIRECCION EN SU CASO, ASI COMO LA DOCUMENTACION ESPECIFICADA EN EL ARTICULO SIGUIENTE.
 
-Las comisiones del ayuntamiento serán responsables de estudiar, examinar y proponer a éste los acuerdos, acciones o normas tendientes a mejorar la administración pública municipal, así como de vigilar e informar sobre los asuntos a su cargo; además sobre el cumplimiento de las disposiciones y acuerdos que dicte el cabildo.
+### CAPITULO SEGUNDO. MEJORAMIENTO Y PROTECCION
 
-Las comisiones deben entregar al ayuntamiento, en sesión ordinaria, informe trimestral que permita conocer y transparentar el desarrollo de sus actividades, trabajo y gestiones realizadas.
+###### ARTICULO 185.
 
-Los asuntos, disposiciones y acuerdos que no se turnen expresamente a una comisión, quedarán bajo responsabilidad de la Comisión de Gobernación, que estará a cargo del Presidente Municipal.
+SE ENTIENDE POR MACIZO A TODO PARAMENTO CERRADO EN SU TOTALIDAD Y POR VANO A TODO HUECO O VACIO QUE SE UBICA SOBRE EL MACIZO Y SIRVA DE ACCESO O DE ILUMINACION Y VENTILACION.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2013)</small>
+I. SE PROHIBEN LAS ALTERACIONES A: LA FORMA, COMPOSICION, RITMO Y PROPORCION DE VANOS Y MACIZOS.
 
-ARTICULO 91 BIS. Las comisiones notificarán al cabildo que llamarán a comparecer a los titulares de las dependencias administrativas municipales, a efecto de que les informen, cuando así se requiera, sobre la situación que guardan los asuntos de su competencia.
+II. SE PERMITE EFECTUAR ACTIVIDADES DE CONSOLIDACION EN CERRAMIENTOS, DINTELES, PILARES Y ELEMENTOS ESTRUCTURALES, SUJETO A RESTRICCIONES.
 
-Las comisiones podrán solicitar al secretario del ayuntamiento, a través del presidente de la comisión, la información necesaria con el propósito de que puedan atender los asuntos que les han sido encomendados, o que les son propios en ejercicio de sus funciones; éste deberá entregarla oportunamente.
+###### ARTICULO 186.
 
-### CAPITULO XI. Del Cronista Municipal
+LAS VENTANERIAS Y CANCELERIAS SE APEGARAN A LAS SIGUIENTES DISPOSICIONES:
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+I. SE PERMITE EL USO DE TUBULARES RECTANGULARES Y CUADRADOS DE FIERRO ESTRUCTURAL ACORDES A LA FISONOMIA DEL INMUEBLE.
+
+II. SE RESTRINGE EL USO DE LAMINAS METALICAS Y ALUMINIO, EN CANCELES, PUERTAS Y PORTONES.
+
+###### ARTICULO 187.
+
+EL COLOR SE TENDRA QUE APLICAR A TODOS LOS ELEMENTOS QUE COMPONEN LA FACHADA, A MENOS QUE EL MATERIAL TENGA APARENTE Y DEBERA SER ACORDE AL CONTEXTO CROMATICO.
+
+I. SE PERMITE EL USO DE PINTURAS A LA CAL O VINILICA MATE; LOS COLORES SERAN EN TONOS TIERRA O COLOR PASTEL, CON CONTRASTES EN MARCOS, PILASTRAS Y REMATES. TODO EL EDIFICIO DEBERA SER PINTADO EN LOS MISMOS COLORES, ES DECIR QUE DE HABER SUBDIVISIONES COMERCIALES NO SE EXPRESE EN FACHADA, Y QUE DEBE CONSERVARSE LA UNIDAD TOTAL DEL INMUEBLE.
+
+II. SE ADECUARA EL USO DE COLORES BRILLANTES O FOSFORESCENTES, SEGUN LA CONCORDANCIA DEL COLOR EN LA FACHADA.
+
+III. SE PROHIBE SUBDIVIDIR LAS FACHADAS POR MEDIO DEL COLOR.
 
 ###### ARTICULO 92.
 
-En las delegaciones municipales la autoridad será ejercida por un Delegado Municipal, que será designado por acuerdo del Cabildo correspondiente, en los términos de la fracción XXV inciso C del artículo 31 de esta Ley, y durará en su cargo el mismo período que el Ayuntamiento.
+PARA EFECTOS DEL ARTICULO 90 DE ESTE TITULO, EL INTERESADO DEBERA PRESENTAR A LA DIRECCION, LA SOLICITUD CORRESPONDIENTE, ACOMPAÑADA DE LA DOCUMENTACION QUE A CONTINUACION SE DETALLA:
+
+1.- DOCUMENTACION TECNICA Y QUE SE RELACIONA A CONTINUACION:
+
+A) SOLICITUD (ORIGINAL Y COPIA), EN EL CASO DE ANUNCIOS, SEÑALAR EN LA PARTE POSTERIOR EL PROYECTO DE ANUNCIOS QUE SE PROPONGA.
+
+B) ALINEAMIENTO Y NUMERO OFICIAL ACTUALIZADO.
+
+C) FOTOGRAFIAS A COLOR DEL PREDIO Y DE SUS COLINDANTES, REFERIDAS A UN PLANO DE UBICACION (PEGADAS EN HOJA TAMAÑO CARTA).
+
+D) FOTOGRAFIAS A COLOR DE LA EDIFICACION Y DE SUS COLINDANCIAS, REFERIDAS A UN PLANO DE UBICACION (PEGADAS EN HOJAS TAMAÑO CARTA).
+
+E) FOTOGRAFIAS A COLOR DEL INTERIOR Y EXTERIOR DEL INMUEBLE CON SUS COLINDANTES, REFERIDAS A UN PLANO DE LOCALIZACION.
+
+F) DOS FOTOGRAFIAS A COLOR DEL INMUEBLE, SEÑALANDO CLARAMENTE ESTAS, EL LUGAR EN QUE SERA COLOCADO Y LA EDIFICACION VECINA.
+
+G) TRES JUEGOS DE PLANOS DEL PROYECTO (ORIGINAL Y 2 COPIAS) DEBIDAMENTE FIRMADOS POR EL DIRECTOR RESPONSABLE DE OBRA (D.R.O.).
+
+H) TRES JUEGOS DE PLANOS ARQUITECTONICOS Y MEMORIA DE CALCULO (ORIGINAL Y DOS COPIAS) DEL AREA CONSTRUIDA EXISTENTE, QUE INCLUYA EL AREA A REMODELAR.
+
+I) DOS JUEGOS DE PLANOS ARQUITECTONICOS (ORIGINAL Y COPIA) DE LA CONSTRUCCION EXISTENTE, INDICANDO EL AREA A DEMOLER.
+
+J) COPIA DE ESCRITURAS (PUBLICA, TITULO DE PROPIEDAD O CESION EJIDAL).
+
+K) COPIA DE UNA IDENTIFICACION OFICIAL DEL PROPIETARIO (IFE, SEDENA O PASAPORTE).
+
+L) COPIA DE CEDULA PROFESIONAL DEL DIRECTOR RESPONSABLE DE OBRA.
+
+M) LOS TRAMITES DEBERAN SER REALIZADOS POR EL D.R.O., EXCLUSIVAMENTE.
+
+N) LOS TRAMITES DEBERAN SER REALIZADOS POR EL D.R.O., EN LOS CASOS EN QUE, A JUICIO DE LA DIRECCION, SE PONGA EN RIESGO UN ELEMENTO ESTRUCTURAL.
+
+O) SEÑALAR LAS CARACTERISTICAS DEL ANUNCIO, ACOMPAÑANDO ESTE SEÑALAMIENTO DE UN ESQUEMA GRAFICO.
+
+2.- LA DOCUMENTACION REQUERIDA PARA EL TRAMITE DE LAS LICENCIAS DE CONSTRUCCION SEGUN LA OBRA A REALIZAR, SERA LA SIGUIENTE:
+
+I. OBRA NUEVA (A, B, C, G, H, J, K, L, M)
+
+II. OBRAS DE AMPLIACION Y REMODELACION (A, B, D, H, J, K, L, N)
+
+III. OBRAS DE DEMOLICION (A, B, E, I, J, K, L, N)
+
+IV. LICENCIAS DE ANUNCIOS (A, F, O)
 
 ###### ARTICULO 93.
 
-El Delegado Municipal será auxiliado en sus funciones por un Secretario nombrado por él, quién tendrá en lo conducente las obligaciones y atribuciones que señala el artículo 78 de la presente Ley.
+PARA LA EXPEDICION DE PERMISOS DE CONSTRUCCION NO SE REQUERIRA RESPONSABLE DE OBRA, CUANDO SE TRATE DE LOS SIGUIENTES CASOS:
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2009)</small>
+I. REPARACION O CAMBIO DE TECHOS DE AZOTEA O ENTREPISOS, CUANDO EN LA REPARACION SE EMPLEE EL MISMO TIPO DE CONSTRUCCION Y SIEMPRE QUE EL CLARO NO SEA MAYOR DE 4.00 METROS, NI SE AFECTE MIEMBROS ESTRUCTURALES IMPORTANTES.
+
+II. CONSTRUCCIÓN DE BARDAS INTERIORES O EXTERIORES CON UNA ALTURA MAXIMA DE 2.50 METROS.
+
+III. APERTURA DE CLAROS DE 1.50 METROS COMO MAXIMO, EN CONSTRUCCION HASTA DE DOS NIVELES, SI NO SE AFECTAN ELEMENTOS ESTRUCTURALES Y NO SE CAMBIA TOTAL O PARCIALMENTE EL USO O DESTINO DEL INMUEBLE.
+
+IV. CONSTRUCCION O INSTALACION DE CHAPOTEADEROS, CISTERNAS, FOSAS SEPTICAS O ALBAÑALES EN CASA HABITACION.
+
+V. CASOS EN LOS QUE SE REQUIERA REALIZAR APERTURAS EN LOSAS, MUROS, ETC., PARA DAR MAYOR VENTILACION A LA CONSTRUCCION PERO SIN QUE SE AFECTEN ELEMENTOS ESTRUCTURALES.
+
+VI. EN CASOS DE QUE EL CAMBIO DE TECHO IMPLIQUE CAMBIO DE MATERIAL EN CASAS DE ADOBE EN AREAS MAYORES DE 40.00 METROS CUADRADOS, SE DEBERA REMITIR AL ARTICULO 92, INCISO 2.11 DE ESTE REGLAMENTO. EN CASO CONTRARIO QUEDARA A JUICIO DE LA DIRECCION.
 
 ###### ARTICULO 94.
 
-Las ausencias del Delegado Municipal serán cubiertas por el Secretario de la Delegación, en los términos de la fracción IV del artículo 43 de esta Ley.
+NO SE REQUERIRAN LICENCIAS DE CONSTRUCCION PARA EFECTUAR LAS SIGUIENTES OBRAS:
+
+I. RESANES Y APLANADOS INTERIORES.
+
+II. REPOSICION Y REPARACION DE PISOS, SIN AFECTAR ELEMENTOS ESTRUCTURALES.
+
+III. PINTURA Y REVESTIMIENTO DE INTERIORES.
+
+IV. REPARACION DE ALBAÑALES.
+
+V. REPARACION DE TUBERIAS DE AGUA E INSTALACION SANITARIAS SIN AFECTAR ELEMENTOS ESTRUCTURALES.
+
+VI. COLOCACION DE MADRINAS EN TECHOS, SALVO EN LOS DE CONCRETO.
+
+VII. LIMPIEZA, APLANADOS, PINTURA Y REVESTIMIENTOS EN FACHADA, EN ESTOS CASOS DEBERAN ADOPTARSE LAS MEDIDAS NECESARIAS PARA NO CAUSAR MOLESTIAS AL PUBLICO.
+
+VIII. DIVISIONES INTERIORES EN PISO DE DESPACHOS O COMERCIOS, CUANDO SU CONSTRUCCION NO SE HAYA ESPECIFICADO EN EL PROYECTO ARQUITECTONICO, PERO SI SE HAYA CONSIDERADO EN EL DISEÑO ESTRUCTURAL.
+
+IX. IMPERMEABILIZACION Y REPARACION DE AZOTEAS, SIN AFECTAR ELEMENTOS ESTRUCTURALES.
+
+X. OBRAS URGENTES PARA PREVENCION DE ACCIDENTES; A RESERVA DE DAR AVISO AL AYUNTAMIENTO DENTRO DE UN PLAZO MINIMO DE 72 HRS., CONTADOS (SIC) A PARTIR DE LA INICIACION DE LAS OBRAS.
+
+XI. DEMOLICION HASTA DE UN CUARTO AISLADO DE 16.00 METROS CUADRADOS, SI ESTA DESOCUPADO, SIN AFECTAR LA ESTABILIDAD DEL RESTO DE LAS CONSTRUCCIONES.
+
+XII. CONSTRUCCIONES PROVISIONALES PARA USO DE OFICINAS, BODEGAS O VIGILANCIA DE PREDIOS DURANTE LA EDIFICACION DE UNA OBRA, Y DE LOS SERVICIOS SANITARIOS CORRESPONDIENTES.
+
+SE EXCEPTUAN DE LAS DISPOSICIONES DE ESTE ARTICULO AQUELLOS INMUEBLES CATALOGADOS COMO MONUMENTOS HISTORICOS, LOS CUALES DEBERAN CUMPLIR CON LA LICENCIA DE RIGOR, REQUERIDA POR LAS LEYES Y ESPECIFICACIONES EN LA MATERIA, EN COORDINACION CON LA DIRECCION.
 
 ###### ARTICULO 95.
 
-Para ser Delegado Municipal se requiere:
+EXPIRANDO EL PLAZO DE LA LICENCIA O DEL PERMISO, EN CASO DE QUE LAS OBRAS NO SE HAYAN TERMINADO, SE DEBERA TRAMITAR LA PRORROGA CORRESPONDIENTE Y PARA ELLO SE REQUERIRA DE LA SIGUIENTE DOCUMENTACION:
 
-I. Ser ciudadano potosino en ejercicio de sus derechos;
+I. RENOVACION O PRORROGA DE LICENCIA PARA ANUNCIOS.
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+A) LA VIGENCIA DE LAS LICENCIAS ES DE UN AÑO A PARTIR DE SU EXPEDICION POR LO QUE AL TERMINO DE ESTE SE REVALUARAN Y CALIFICARAN LOS ANUNCIOS.
 
-II. Ser originario del Municipio, y con un año por lo menos de residencia efectiva inmediata anterior a la fecha de la designación; o ser vecino del mismo, con residencia efectiva de dos años inmediata anterior al día de la designación; y
+B) PRESENTAR FORMA OFICIAL DE SOLICITUD (ORIGINAL Y TRES COPIAS).
 
-III. No haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión.
+C) LICENCIA ANTERIOR.
+
+A) (SIC) RECIBO DE PAGO (ORIGINAL Y COPIA).
+
+D) DOS FOTOGRAFIAS DEL ANUNCIO QUE SE ENCUENTRA COLOCADO, EN LAS QUE APAREZCA EL INMUEBLE Y EDIFICACIONES VECINAS.
+
+II. PRORROGA DE LICENCIA DE LAS OBRAS DE RESTAURACION, REHABILITACION, REUTILIZACION, AMPLIACION Y REMODELACION.
+
+A) PRESENTAR FORMA OFICIAL DE SOLICITUD (ORIGINAL Y TRES COPIAS).
+
+B) LICENCIA ANTERIOR (ORIGINAL Y COPIA).
+
+C) RECIBO DE PAGO (ORIGINAL Y COPIA).
+
+D) JUEGO COMPLETO DE PLANOS AUTORIZADOS, CORRESPONDIENTE A LA LICENCIA OTORGADA.
+
+E) FOTOGRAFIAS DEL AVANCE DE OBRA, REFERIDAS A UN PLANO DE LOCALIZACION (PEGADAS EN HOJA TAMAÑO CARTA).
 
 ###### ARTICULO 96.
 
-Son facultades y obligaciones del Delegado Municipal:
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
-
-I. Ejecutar los acuerdos de Cabildo y los del Presidente Municipal en su demarcación;
-
-II. Vigilar y mantener el orden público de su jurisdicción;
-
-III. Participar en la formulación de planes y programas municipales;
-
-IV. Dar curso o trámite a los asuntos y negocios que conozca;
-
-V. Promover el establecimiento y conservación de los servicios públicos municipales, así como llevar su administración coordinadamente con las estructuras del Ayuntamiento conforme a lo previsto en la presente Ley;
-
-VI. Hacer el censo de los contribuyentes municipales;
-
-VII. Actuar como conciliador en los conflictos que se le presenten;
-
-VIII. Auxiliar a las autoridades federales, estatales y municipales en el desempeño de sus atribuciones;
-
-IX. Coadyuvar con el Presidente Municipal y la Dirección del Registro Civil, al funcionamiento del Registro Civil en términos de la ley de la materia, y
-
-X. Las demás que le señalen las leyes y reglamentos municipales.
+LAS LICENCIAS O PERMISOS SE CONCEDERAN PREVIO PAGO DE LOS DERECHOS, LOS CUALES DEBERAN SER TRAMITADOS CON LA RESPONSIVA DEL DIRECTOR RESPONSABLE DE OBRA MENCIONADO EN EL TITULO OCTAVO EN SU SECCION SEGUNDA DE ESTE REGLAMENTO.
 
 ###### ARTICULO 97.
 
-Los delegados municipales deberán dar cuenta mensualmente, de los asuntos de su respectiva demarcación al Ayuntamiento. Si el Cabildo lo estimare procedente, solicitará su comparecencia a efecto de que informe de tales asuntos. Por lo que se refiere a casos urgentes, deberán informar inmediatamente de los mismos al Presidente Municipal, quien los hará del conocimiento del Ayuntamiento para que éste resuelva lo conducente.
+SOLO SE CONCEDERAN LICENCIAS DE CONSTRUCCION A LOS PROPIETARIOS DE LOS INMUEBLES CUANDO LA SOLICITUD RESPECTIVA CUMPLA CON LOS REQUISITOS SEÑALADOS EN ESTE REGLAMENTO Y CUENTE CON LA RESPONSIVA MENCIONADA EN EL ARTICULO ANTERIOR.
 
 ###### ARTICULO 98.
 
-Los delegados municipales se asesorarán con el Secretario del Ayuntamiento, en todos aquellos asuntos que por su importancia así lo requieran.
+EN CASO DE QUE LA DIRECCION LO CONSIDERE CONVENIENTE, SOLICITARA ADICIONALMENTE LA ENTREGA DE DOCUMENTACION COMPLEMENTARIA PARA LOS CASOS ESPECIALES QUE ASI LO DETERMINE.
 
 ###### ARTICULO 99.
 
-Los Delegados Municipales no podrán otorgar licencias para el establecimiento de giros mercantiles o establecimientos industriales.
+PARA LA REALIZACION DE LOS TRABAJOS ESPECIFICADOS EN EL ARTICULO 92 SE REQUERIRA DE LA BITACORA DE OBRA EN SITIO.
 
-### CAPITULO XII. De los Organismos de Participación Ciudadana
+### CAPITULO TERCERO. LETREROS Y ANUNCIOS
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+###### ARTICULO 188.
+
+LAS DISPOSICIONES PARA LETREROS Y ANUNCIOS DISPUESTOS EN ESTE APARTADO INCLUYE A TODO EL MUNICIPIO, Y LAS AUTORIZACIONES SE OTORGARAN DE ACUERDO A LO ESTIPULADO EN EL ARTICULO 93, DE ESTE REGLAMENTO.
+
+###### ARTICULO 189.
+
+LA PROPORCION, TAMAÑO Y FORMA DE ESTOS, TENDRA QUE INTEGRARSE A LA COMPOSICION GENERAL DEL INMUEBLE Y ENTORNO DEL ESPACIO. EL DISEÑO, PROPORCION Y COLOCACION DE LOS ANUNCIOS, DEBERA RESPETAR: LA COMPOSICION, HOMOGENEIDAD Y ARMONIA DE LOS INMUEBLES.
+
+###### ARTICULO 190.
+
+EL TEXTO Y REDACCION DE ESTOS DEBERA SER EN IDIOMA ESPAÑOL, SUJETOS A LAS REGLAS DE ORTOGRAFIA Y SINTAXIS DEL MISMO; ES NECESARIO CONSIDERAR QUE:
+
+I. SE PERMITIRA LA UTILIZACION DE TEXTOS EN IDIOMAS EXTRANJEROS ACTUALES, UNICAMENTE COMO APOYO DE LOS TEXTOS EN ESPAÑOL.
+
+II. LOS TEXTOS DEBERAN CONTENER SOLAMENTE EL NOMBRE DE LA EMPRESA O PERSONA Y EL GIRO COMERCIAL MAS IMPORTANTE.
+
+III. LA COLOCACION EN PLANTAS SUPERIORES SERA SOLAMENTE EN LA PARTE SUPERIOR INTERNA DE LOS VANOS, OCUPANDO EL CLARO DE ESTOS; SE PERMITIRA LA COLOCACION DE LETREROS O ANUNCIOS EN LOS INMUEBLES DE LA ZONA, OCUPANDO UN QUINTO DE LA ALTURA COMO MAXIMO, DEBIENDO QUEDAR UNA ALTURA LIBRE MINIMA DEL VANO EN EL CASO DE LAS PUERTAS DE 2.20 METROS.
+
+IV. LA COLOCACION EN PLANTAS SUPERIORES SERA SOLAMENTE A LO LARGO DEL 40% DE LA FACHADA DEL INMUEBLE, CON UNA ALTURA MAXIMA DE 0.70 CENTIMETROS, SIN CUBRIR VANOS NI ELEMENTOS DECORATIVOS.
+
+V. SE AUTORIZAN LOS ANUNCIOS Y PROPAGANDA TEMPORALES, POR MOTIVOS DE INTERES SOCIAL, SIEMPRE Y CUANDO NO AFECTEN O ALTEREN EL INMUEBLE Y AL CONTEXTO DONDE SE UBIQUEN.
+
+VI. NO SE PERMITIRA MAS DE UN LOGOTIPO POR ESTABLECIMIENTO; CUANDO SE PRETENDAN USAR TOLDOS, ESTOS SERAN DE TECNICA Y MATERIALES CONTEMPORANEOS, PERO SIEMPRE DENTRO DE LOS VANOS Y SIGUIENDO SU FORMA, SIN COLGANTES Y DE COLORES ARMONICOS A LA GAMA DEL EDIFICIO Y DEL ENTORNO.
+
+###### ARTICULO 191.
+
+LOS ANUNCIOS SERAN ARMONICOS CON EL EDIFICIO O PARAMENTO EN QUE SE UBIQUEN; TODO ANUNCIO PODRA SER RETIRADO O MODIFICADO CUANDO LAS AUTORIDADES COMPETENTES LO CONSIDEREN CONVENIENTE, POR TANTO, SU SISTEMA DE FIJACION NO PODRA IR CONTRA LA INTEGRIDAD DE CUALQUIER ELEMENTO DECORATIVO ARQUITECTONICO DEL EDIFICIO ADEMAS:
+
+I. SE PROHIBE LA COLOCACION DE CUALQUIER TIPO DE ANUNCIOS SOBRE AZOTEAS, NO SE PERMITIRA COLOCAR ANUNCIOS ESPECTACULARES O DE CUALQUIER OTRA NATURALEZA, SOBRE LOS TEJADOS, AZOTEAS, CORNISAS BALCONES Y PAÑOS LATERALES A COLINDANCIAS, ASI COMO EN ARBOLES, POSTES O CUALQUIER OTRO ELEMENTO DE MOBILIARIO URBANO UBICADO DENTRO DE LA ZONA ESTIPULADA POR EL PROGRAMA O POR LAS DISPUESTAS POR LA DIRECCION.
+
+II. SE PROHIBE COLOCAR ANUNCIOS DE PIE, DE BANDERA Y COLGANTES CUANDO OBSTRUYAN LAS CIRCULACIONES.
+
+III. SE PERMITEN ANUNCIOS Y PROPAGANDAS OFICIALES, POPULARES Y/O PARTICULARES TEMPORALMENTE; HACIENDOSE RESPONSABLE EL ANUNCIANTE DE SU RETIRO, EN UN PERIODO MAXIMO DE 30 DIAS, DE SU LIMPIEZA Y DEL AREA OCUPADA.
+
+IV. SE PROHIBE CUALQUIER TIPO DE ANUNCIO SOBRE MARQUESINAS.
+
+V. SE PROHIBEN LAS PINTAS Y CUALQUIER TIPO DE ANUNCIO EN PARAMENTOS, INMUEBLES, MOBILIARIO URBANO Y PAVIMENTOS.
+
+VI. EL SISTEMA ESTRUCTURAL Y DE FIJACION DE LOS ANUNCIOS O LETREROS DEBERA CUMPLIR LOS REQUERIMIENTOS DE SEGURIDAD ADECUADOS.
+
+VII. EL SOLICITANTE DEBERA PRESENTAR A LA DIRECCION, JUNTO CON SU SOLICITUD, UN PROYECTO DETALLADO DEL ANUNCIO A COLOCARSE Y LOS DEMAS ELEMENTOS QUE LE SEAN REQUERIDOS PARA EL OTORGAMIENTO DEL PERMISO. UNA VEZ OTORGADO POR LA DIRECCION EL PERMISO PARA LA COLOCACION DE UN ANUNCIO, DEBERAN RESPETAR EL PERMISO POR LO QUE SE REFIERE A DISEÑO ESTRUCTURAL Y CRITERIOS DE CALCULO PARA SU INSTALACION.
+
+###### ARTICULO 192.
+
+SE PERMITE LA COLOCACION DE PLACAS DE SERVICIOS PUBLICOS Y PROFESIONALES, DE TAMAÑO MAXIMO DE 0.30 X 0.60 METROS.
+
+I. PARA RAZON SOCIAL SOLO SE PERMITIRA EL USO DE DOS COLORES: UNO DE FONDO Y EL OTRO PARA LETREROS. EL COLOR DEL LETRERO O ANUNCIO DEBERA ARMONIZAR CON LOS COLORES DE LA FACHADA DEL INMUEBLE EN QUE SE ESTE COLOCANDO.
+
+###### ARTICULO 193.
+
+PARA PROPAGANDAS POLITICAS, CULTURALES, VOLANTES, AVISOS, LAMINAS, CARTELES, ETC., EL AYUNTAMIENTO POR CONDUCTO DE LA DIRECCION DESTINARA LOS INMUEBLES Y ESPACIOS NECESARIOS PARA SU UBICACION.
+
+###### ARTICULO 194.
+
+PARA PROPAGANDAS COMERCIALES Y CULTURALES, EL USO DE COLOR ES LIBRE, SIEMPRE Y CUANDO SE APEGUEN A LO QUE MARCA ESTE REGLAMENTO, BUSCANDO QUE LA DENSIDAD DE ANUNCIOS SOBRE LA MISMA FACHADA NO OBSTRUYAN LA VISTA.
 
 ###### ARTICULO 100.
 
-La Comisión de Cultura, Recreación y Deporte, propondrá al Cabildo la designación de la persona que ocupe el cargo de Cronista Municipal.
+TODA LA INFORMACION AUTORIZADA EXPEDIDA POR LA DIRECCION, DEBERA PERMANECER EN LA OBRA DURANTE EL TRANSCURSO DE LA MISMA.
 
-Dos a más municipios vecinos podrán convenir en la designación de un cronista regional.
+### CAPITULO CUARTO. DE LA TRAZA URBANA, VIALIDAD Y ESPACIOS ABIERTOS
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+###### ARTICULO 195.
 
-ARTICULO 100 BIS. El nombramiento de cronista municipal, o regional, recaerá en un ciudadano que se distinga por su labor y conocimiento de la historia y la cultura del municipio; y que tenga además la vocación de registrar y difundir los valores y tradiciones de la localidad.
+LA TRAZA URBANA, ES EL PATRON QUE ORGANIZA EL ESPACIO DE LA CIUDAD; LO CONFORMAN LOS PARAMENTOS, LAS VIALIDADES Y CADA UNO DE LOS ESPACIOS ABIERTOS EXISTENTES, CONSTITUYENDOSE EN UN LEGADO DEL PATRIMONIO CULTURAL DE LA LOCALIDAD. PARA LA TRAZA SE ESTABLECE LO SIGUIENTE:
 
-Este nombramiento podrá ser ejercido durante el tiempo que determine el o los gobiernos municipales, según se trate, o hasta los setenta años de edad del Cronista Municipal o Regional, considerando que haya cumplido con las siguientes actividades:
+I. DEBERAN MEJORARSE Y CONSERVARSE LAS CARACTERISTICAS FISICO-AMBIENTALES CON QUE CUENTA (SIC) ACTUALMENTE LAS ZONAS URBANAS, PROCURANDO ADECUACION EN DIMENSIONES, TANTO DE CALLES, PLAZAS Y ESPACIOS ABIERTOS COMO LOS ALINEAMIENTOS Y PARAMENTOS (SIC) ORIGINALES.
 
-I. Investigación de asuntos históricos y su difusión en los diferentes medios de comunicación;
+II. BAJO NINGUNA CIRCUNSTANCIA SE PERMITIRA QUE LA TRAZA ORIGINAL DE LA CIUDAD SEA MODIFICADA CON EL CRECIMIENTO URBANO, POR EL CONTRARIO, LAS CALLES SE PROLONGARAN CON EL MISMO PATRON DE MEDIDAS DE LARGO Y ANCHO Y SE PROHIBE LA OBSTRUCCION O CIERRE DEFINITIVO DE CALLES.
 
-II. Actualización de la monografía del municipio;
+III. LOS PROYECTOS DE AMPLIACION DE BANQUETAS, CALLES PEATONALES, ARBOLAMIENTOS, ETC., SE AJUSTARAN A LO QUE DETERMINE CONVENIENTEMENTE EL PROGRAMA LA DIRECCION Y LOS PROGRAMAS PARCIALES.
 
-III. Colaboración en el rescate del patrimonio documental e histórico del municipio, así como en la conformación de archivos, hemerotecas, museos y bibliotecas para el servicio público;
+IV. LOS EDIFICIOS Y SUS FACHADAS PODRAN FUSIONARSE SIEMPRE QUE NO REBASEN LOS 30.00 METROS DE LONGITUD; NO SE DEBE OLVIDAR LAS LATERALES DE LOS EDIFICIOS PUES AUNQUE DEN A COLINDANCIAS DEBERAN TRATARSE COMO FACHADAS SI ES QUE SON VISIBLES, ES IMPORTANTE CUIDAR EL ASPECTO DE TINACOS, TENDEDEROS Y ANTENAS, LOS QUE NUNCA DEBERAN SER VISIBLES DESDE LA CALLE.
 
-IV. Elaboración de biografías de personajes importantes del municipio;
+V. EN VANOS, SE PERMITE COMO MAXIMO EL 40% DEL TOTAL DE LA FACHADA, ESTE PORCENTAJE NO PODRA ESTAR CONCENTRADO SINO DISTRIBUIDO EN VARIOS VANOS EN LA TOTALIDAD DE LA FACHADA, PROCURANDO EL EQUILIBRIO ESTETICO ENTRE EL VANO Y EL MACIZO DE LA CONSTRUCCION. EL PORCENTAJE DE VANOS SIEMPRE SERA MENOR QUE EL DE LOS MACIZOS. DICHOS VANOS, SE DEBERAN DESTACAR MEDIANTE MARCOS Y/O HERRERIA SIMPLE.
 
-V. Promoción de eventos artísticos, deportivos y culturales, así como homenajes a personas distinguidas del municipio;
-
-VI. Apego de su labor a la verdad histórica, apolítico, y alejado de lisonjas que desvirtúen su labor, y
-
-VII. Colaboración en eventos cívicos, desfiles y conformación de un calendario de fechas históricas locales.
-
-Una vez alcanzada la edad referida, y habiendo cumplido con estas actividades, durante diez años ininterrumpidos se nombrará al cronista municipal, o regional, Cronista Emérito, y se procederá al nombramiento de un nuevo cronista municipal, o regional, según se trate.
-
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2011)</small>
-
-ARTICULO 100 TER. Para el cumplimiento de sus funciones y atribuciones, el cronista municipal, o regional, contará dentro del ayuntamiento con las herramientas básicas para el desempeño de las mismas, así como con los recursos que se deriven del trabajo coordinado con las instituciones públicas y privadas, que tengan injerencia en la investigación, acervo y difusión de las culturas populares.
-
-El cronista municipal, o regional, percibirá una remuneración adecuada e irrenunciable por el desempeño de su función, la cual deberá ser directamente proporcional a sus responsabilidades.
-
-Tratándose de un cronista regional, los gobiernos municipales deberán acordar los aspectos establecidos en los párrafos anteriores de este artículo.
-
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2011)</small>
-
-ARTICULO 100 QUATER. Son funciones y atribuciones del cronista municipal, las siguientes:
-
-I. Registrar literaria y documentalmente los personajes y acontecimientos relevantes de la comunidad;
-
-II. Elaborar escritos referentes a la vida e historia de la comunidad;
-
-III. Colaborar en la sistematización y difusión del acervo documental del archivo general del ayuntamiento;
-
-IV. Fungir como investigador, asesor, promotor, y expositor de la cultura de la comunidad municipal;
-
-V. Elaborar una monografía de la vida institucional del municipio, para crear conciencia cívica, fortalecer la identidad y el arraigo local de los ciudadanos;
-
-VI. Coadyuvar en el fomento y difusión de eventos culturales, tradiciones y costumbres locales o regionales, y
-
-VII. Promover la inserción en los medios de comunicación de noticias, boletines, reportajes sobre el municipio y sus instituciones.
-
-### CAPITULO XIII. De los Organismos Auxiliares Municipales
+VI. QUEDAN PROHIBIDAS LAS INSTALACIONES Y CONSTRUCCIONES PRECARIAS EN LAS AZOTEAS DE LAS EDIFICACIONES, CUALQUIERA QUE SEA EL USO QUE PRETENDA DARSELES.
 
 ###### ARTICULO 101.
 
-Para coadyuvar en los fines y funciones de la administración pública municipal, los ayuntamientos constituirán mediante asambleas democráticas, dentro del cuarto mes del inicio de su periodo constitucional, los Consejos de Desarrollo Social Municipal a que se refiere la Ley para la Administración de las Aportaciones Transferidas al Estado y Municipios de San Luis Potosí.
+EL AYUNTAMIENTO NO OTORGARA LICENCIA DE CONSTRUCCION RESPECTO A LOS LOTES O FRACCIONES DE TERRENOS DE LOS NUEVOS FRACCIONAMIENTOS QUE NO CUMPLAN CON LA LEY DE FRACCIONAMIENTOS QUE NOS RIGE ACTUALMENTE Y QUE NO CUENTEN CON LOS SERVICIOS BASICOS OBLIGATORIOS SEGUN ARTICULOS NO. 8, 9, 10, 11, 12 Y 13 DE LA MENCIONADA LEY.
 
-La constitución de las juntas vecinales de mejoras, y demás organismos de participación ciudadana, se apegarán a los tiempos y plazos establecidos en la presente Ley o en su reglamento respectivo. Los que cualquiera que sea el nombre con que se les designe, presentarán propuestas al ayuntamiento para fijar las bases de los planes y programas municipales o modificarlos, en su caso; el cabildo supervisará sus actividades y vigilará, en su caso, el destino de los fondos que manejen.
+LAS DIMENSIONES MINIMAS DE PREDIOS QUE AUTORICE EL AYUNTAMIENTO PARA QUE PUEDA OTORGARSE LA LICENCIA DE CONSTRUCCION EN ELLOS, SERAN DE 90.00 METROS CUADRADOS DE SUPERFICIE Y 5.60 METROS DE FRENTE SIN PERJUICIO DE LO SEÑALADO POR EL PROGRAMA.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2016)</small>
-
-ARTICULO 101 BIS. Las Juntas Vecinales de Mejoras se conformarán y constituirán durante el tercer mes de ejercicio de los ayuntamientos.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+NO OBSTANTE LO DISPUESTO EN EL PARRAFO ANTERIOR, TRATANDOSE DE PREDIOS REMANENTES O YA EXISTENTES E INSCRITOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD CON SUPERFICIE MENOR A 90.00 METROS CUADRADOS Y 5.60 METROS DE FRENTE, SE SUJETARAN COMO CASOS ESPECIALES A LOS CRITERIOS SEÑALADOS POR EL PROGRAMA Y LO DISPUESTO POR EL AYUNTAMIENTO.
 
 ###### ARTICULO 102.
 
-Los ayuntamientos cuidarán que en los Consejos de Desarrollo Social Municipal, se incluyan a los Representantes Sociales Comunitarios de barrios, colonias populares, comunidades y ejidos.
+EL TIEMPO DE VIGENCIA DE LAS LICENCIAS DE CONSTRUCCION QUE EXPIDA EL AYUNTAMIENTO, ESTARA EN RELACION CON LA MAGNITUD DE LA OBRA POR EJECUTAR.
 
-Asimismo, procurarán que en la integración de todos los organismos se incluyan personas de los sectores de mayor representatividad en la población, y que tengan el perfil idóneo para el desempeño de las responsabilidades que se les asigne.
+EL PROPIO AYUNTAMIENTO TENDRA FACULTAD PARA FIJAR EL PLAZO DE VIGENCIA DE CADA LICENCIA DE CONSTRUCCION DE ACUERDO CON LAS SIGUIENTES BASES:
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2017)</small>
+I. PARA LA CONSTRUCCION DE OBRAS CON SUPERFICIE HASTA DE 300 METROS CUADRADOS, LA VIGENCIA MAXIMA SERA DE 12 MESES.
 
-ARTÍCULO 102 BIS. Para la integración de los organismos a que se refiere este Capítulo, los ayuntamientos deberán contar con la colaboración y coordinación del Consejo Estatal Electoral y de Participación Ciudadana, a efecto de que les proporcione el apoyo logístico, operativo y material para realizar los procesos de elección correspondientes, y se haga cargo de los mismos.
+II. PARA LA CONSTRUCCION DE OBRAS CON SUPERFICIE HASTA DE 1,000 METROS CUADRADOS, DE 24 MESES, Y
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2017)</small>
+III. PARA LA CONSTRUCCION DE OBRAS CON SUPERFICIE DE MAS DE 1,000 METROS CUADRADOS DE 36 MESES.
 
-ARTÍCULO 102 TER. Para el debido cumplimiento de lo dispuesto en el artículo anterior, los ayuntamientos deberán expedir el Reglamento para la integración y funcionamiento de los organismos de participación ciudadana, para lo cual el Consejo Estatal Electoral y de Participación Ciudadana emitirá lineamientos de apoyo al respecto, a fin de unificar la metodología de todos los ayuntamientos, para dotar de certeza, legalidad, imparcialidad y objetividad los procedimientos respectivos. Los procesos llevados a cabo sin observar los lineamientos generales emitidos por el Consejo Estatal Electoral y de Participación Ciudadana, serán nulos.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
+SI TERMINADO EL PLAZO AUTORIZADO PARA LA CONSTRUCCION DE UNA OBRA ESTA NO SE HUBIERE CONCLUIDO, PARA CONTINUARLA, DEBERA OBTENERSE PRORROGA DE LA LICENCIA DE CONSTRUCCION Y CUBRIR LOS DERECHOS POR LA PARTE NO EJECUTADA DE LA OBRA; A LA SOLICITUD SE ACOMPAÑARA UNA DESCRIPC¡ON DE LOS TRABAJOS QUE SE VAYA (SIC) A LLEVAR A CABO, CROQUIS O PLANOS Y LICENCIAS AUTORIZADAS CON ANTERIORIDAD.
 
 ###### ARTICULO 103.
 
-Cuando alguno de los representantes de los organismos referidos no cumpla con sus obligaciones, el cabildo deberá sustituirlo llamando al suplente respectivo o, en su defecto, al que resulte electo mediante un nuevo proceso de elección.
+TODAS LAS LICENCIAS CAUSARAN LOS DERECHOS QUE FIJEN LAS TARIFAS SEÑALADAS EN LA LEY DE INGRESOS DEL MUNICIPIO. SI EN UN PLAZO DE 15 DIAS NATURALES A PARTIR DEL DICTAMEN APROBATORIO, LA LICENCIA NO SE EXPIDIERA POR FALTA DE PAGO DE LOS DERECHOS, SE PODRA CANCELAR LA SOLICITUD CORRESPONDIENTE, MANDANDO A ARCHIVAR EL EXPEDIENTE.
 
-### CAPITULO XIV. De la Capacitación y Profesionalización del Cabildo, y Servidores Públicos Municipales de Confianza
+### CAPITULO PRIMERO. GENERALIDADES
 
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2015)</small>
+###### ARTICULO 196.
 
-ARTICULO 107 BIS. Los integrantes del Cabildo, así como los servidores públicos municipales que desempeñen cargos de confianza en el ayuntamiento, están obligados a asistir y acreditar los cursos de inducción, talleres de capacitación y profesionalización que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia o entidad competente, tendentes a la certificación en el ramo o función a desempeñar, a fin de que cuenten con los conocimientos y habilidades necesarias para cumplir con las funciones que desempeñan, bajo los criterios de eficacia, eficiencia, legalidad, imparcialidad, y honradez. El Ejecutivo Estatal determinará en el Reglamento correspondiente, el índice de materias básicas a certificar.
+SE ENTIENDE POR OBRA NUEVA, A TODA LA EDIFICACION QUE SE ERIJA EN EL MOMENTO ACTUAL SOBRE UN ESPACIO YA SEA PROVISIONAL O PERMANENTE. SERAN CONSTRUIDAS BAJO LAS SIGUIENTES CONSIDERACIONES:
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
+I. LAS ALTURAS PODRAN INCREMENTARSE CON RENDIMIENTOS (ESTABLECIDOS POR LA DIRECCION DE ACUERDO A LOS LINEAMIENTOS ESTABLECIDOS EN EL PROYECTO); ES TAMBIEN IMPORTANTE CONSERVAR LA ARMONIA DEL ENTORNO DE ACUERDO A LO ESTIPULADO EN EL TITULO SEXTO DE ESTE REGLAMENTO, TANTO A LOS LADOS COMO ENFRENTE, SIGUIENDO LOS NIVELES PREDOMINANTES O LA RELACION PROPUESTA EN EL PROYECTO.
 
-El incumplimiento de la obligación señalada en el párrafo que antecede, será objeto de las sanciones que establece la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, siempre y cuando no la realice durante el primer año del ejercicio de sus funciones.
+II. SE PODRAN CONSTRUIR MAYORES NIVELES SI FUERA POSIBLE ESTRUCTURALMENTE, SIEMPRE Y CUANDO SE RESPETEN LAS ALTURAS DE ENTREPISOS ESPECIFICADAS EN EL PROYECTO.
 
-La institución o instituciones certificadoras serán designadas mediante los procedimientos que establezcan las leyes de la materia.
+III. EN LAS FACHADAS DE LA OBRA NUEVA, SUS ELEMENTOS, MATERIALES Y FORMAS DEBEN INTEGRARSE AL CONTEXTO, ES RECOMENDABLE EL USO DE REMATES, CORNISAS, MARCOS LEVEMENTE REALZADOS EN PUERTAS Y VENTANAS, PILASTRAS, ETC., DEBIENDOSE CONSERVAR LOS PAÑOS, SIN REMETER NI VOLAR O SOBRESALIR DE LOS INMUEBLES ADYACENTES.
 
-El Ejecutivo del Estado, por conducto de la entidad competente, llevará un Registro de Servidores Públicos Certificados, que deberá publicarse en el Periódico Oficial del Estado, actualizándolo cada ciclo lectivo de certificación.
+IV. SE PROHIBEN INSTALACIONES VISIBLES EN FACHADAS.
+
+###### ARTICULO 197.
+
+PARA LOS EFECTOS DE ESTE TITULO LAS CONSTRUCCIONES SE CLASIFICAN EN LOS SIGUIENTES GRUPOS:
+
+I. GRUPO A. ESTRUCTURAS EN QUE SE REQUIERE UN GRADO DE SEGURIDAD ALTO. EDIFICACIONES CUYA FALLA ESTRUCTURAL PODRIA CAUSAR LA PERDIDA DE UN NUMERO ELEVADO DE VIDAS O PERDIDAS ECONOMICAS O CULTURALES EXCEPCIONALMENTE ALTAS, O QUE CONSTITUYAN UN PELIGRO SIGNIFICATIVO POR CONTENER SUSTANCIAS TOXICAS O EXPLOSIVAS, ASI COMO EDIFICACIONES CUYO FUNCIONAMIENTO ES ESENCIAL A RAIZ DE UNA EMERGENCIA, COMO: PUENTES PRINCIPALES, HOSPITALES, ESCUELAS, TERMINALES DE TRANSPORTE, ESTACIONES DE BOMBEROS, CENTRALES ELECTRICAS Y DE TELECOMUNICACIONES, ESTADIOS, DEPOSITOS DE SUSTANCIAS TOXICAS O INFLAMABLES, MUSEOS Y EDIFICIOS QUE ALOJEN ARCHIVOS Y REGISTROS PUBLICOS DE VITAL IMPORTANCIA, ASI COMO EDIFICIOS CLASIFICADOS COMO PATRIMONIALES.
+
+II. GRUPO B. ESTRUCTURAS EN QUE SE REQUIERE UN GRADO DE SEGURIDAD INTERMEDIO. EDIFICACIONES CUYA FALLA ESTRUCTURAL OCASIONARIA PERDIDAS DE MAGNITUD INTERMEDIA O PONDRIA EN PELIGRO OTRAS CONSTRUCCIONES DE ESTE GRUPO O DEL GRUPO A, TALES COMO ESTRUCTURAS COMUNES DESTINADAS A LA VIVIENDA, OFICINAS Y LOCALES COMERCIALES, HOTELES Y CONSTRUCCIONES COMERCIALES E INDUSTRIALES NO INCLUIDAS EN EL GRUPO A, LAS QUE SE SUBDIVIDEN EN:
+
+SUBGRUPO B1. EDIFICACIONES DE MAS DE 15.00 METROS DE ALTURA O CON MAS DE 3000M_ DE AREA TOTAL CONSTRUIDA EN UN SOLO CUERPO DE EDIFICIO QUE CUENTE CON MEDIOS PROPIOS DE DESALOJO (ACCESOS Y ESCALERAS), INCLUYENDO LAS AREAS DE ANEXOS, COMO PUEDEN SER LOS PROPIOS CUERPOS. EL AREA DE UN CUERPO QUE NO CUENTE CON MEDIOS PROPIOS DE DESALOJO SE ADICIONARA A LA DE AQUEL OTRO A TRAVES DEL CUAL SE DESALOJE. ADEMAS DE TEMPLOS, SALAS DE ESPECTACULOS Y EDIFICIOS QUE TENGAN SALAS DE REUNION QUE PUEDEN ALOJAR MAS DE 200 PERSONAS.
+
+SUBGRUPO B2. LAS DEMAS DE ESTE GRUPO.
+
+III. GRUPO C. ESTRUCTURAS CUYA FALLA SIGNIFICARIA UN RIESGO Y COSTO MENOR, Y NO CAUSARIAN NORMALMENTE DAÑOS A CONSTRUCCIONES DE LOS GRUPOS A Y B. SE INCLUYEN EN ESTE GRUPO BODEGAS PROVISIONALES, CIMBRAS, CARTELES, MUROS AISLADOS Y BARDAS CON ALTURA NO MAYOR DE 2.50 METROS.
 
 ###### ARTICULO 104.
 
-Los organismos auxiliares son los que tienen por objeto la prestación de un servicio público o social; la explotación de bienes o recursos propiedad del Municipio; la investigación científica y tecnológica; o la obtención y aplicación de recursos para fines de asistencia y seguridad sociales.
-
-Se consideran como organismos auxiliares municipales, los organismos descentralizados, las empresas de participación municipal, los fideicomisos y los patronatos.
-
-Las estructuras de los órganos de gobierno y vigilancia de estas entidades, serán definidas de conformidad con lo estipulado en las leyes, decretos y reglamentos correspondientes.
-
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2013)</small>
+LOS CONJUNTOS HABITACIONALES CLASIFICADOS COMO TALES POR LAS LEYES QUE LOS REGULAN O POR LOS INSTRUCTIVOS CORRESPONDIENTES, CUBRIRAN LAS APORTACIONES Y LOS DERECHOS ESTIPULADOS POR LA LEY DE FRACCIONAMIENTOS Y LA LEY DE INGRESOS MUNICIPALES.
 
 ###### ARTICULO 104 Bis.
 
@@ -2067,425 +1103,889 @@ II. Se haya realizado previamente un estudio de las características del municip
 
 ###### ARTICULO 105.
 
-Son organismos paramunicipales las entidades que tienen por objeto atender el interés general y el beneficio colectivo, a través de la prestación de servicios públicos en un municipio.
-
-Son organismos intermunicipales las entidades que tienen por objeto la prestación de servicios públicos en dos o más municipios.
+LOS PROPIETARIOS Y LOS DIRECTORES RESPONSABLES DE OBRAS ESTAN OBLIGADOS CONJUNTAMENTE A MANIFESTAR POR ESCRITO AL AYUNTAMIENTO LA TERMINACION DE LAS OBRAS REALIZADAS EN SUS PREDIOS EN UN PLAZO NO MAYOR A 15 DIAS HABILES, A PARTIR DE LA CONCLUSION DE LAS MISMAS.
 
 ###### ARTICULO 106.
 
-El Congreso del Estado a solicitud de los ayuntamientos, podrá autorizar la creación de organismos paramunicipales e intermunicipales, con personalidad jurídica y patrimonio propios, a efecto de que coadyuven en la prestación de los servicios públicos municipales.
+RECIBIDA LA SOLICITUD DE TERMINACION DE OBRA EL AYUNTAMIENTO ORDENARA UNA INSPECCION PARA VERIFICAR EL CUMPLIMIENTO DE LOS REQUISITOS SEÑALADOS EN LA AUTORIZACION DE LA LICENCIA RESPECTIVA Y SI LA CONSTRUCCION SE AJUSTO A LOS PLANOS ARQUITECTONICOS Y DEMAS DOCUMENTOS QUE HAYAN SERVIDO DE BASE PARA EL OTORGAMIENTO DE LA LICENCIA, SE PROCEDERA CONFORME A LAS SIGUIENTES DISPOSICIONES:
+
+I. EL AYUNTAMIENTO PERMITIRA DIFERENCIAS EN LA OBRA EJECUTADA CON RESPECTO AL PROYECTO APROBADO SIEMPRE QUE NO SE AFECTEN LAS CONDICIONES DE SEGURIDAD, ESTABILIDAD, DESTINO, USO, SERVICIO, Y SALUBRIDAD; SE RESPETEN LAS RESTRICCIONES INDICADAS EN LA CONSTANCIA DE ALINEAMIENTO; LAS CARACTERISTICAS AUTORIZADAS EN LA LICENCIA RESPECTIVA; EL NUMERO DE NIVELES ESPECIFICADOS Y LAS TOLERANCIAS QUE FIJA ESTE REGLAMENTO.
+
+II. VERIFICADO EL CUMPLIMIENTO DE LOS REQUISITOS ESTABLECIDOS EN LA LICENCIA, SE OTORGARA CONSTANCIA DE TERMINACION DE OBRA.
 
 ###### ARTICULO 107.
 
-Los ayuntamientos podrán constituir para un objeto específico de interés público o de beneficio colectivo, fideicomisos en los que el ayuntamiento será el único fideicomitente.
+PARA EL ESTABLECIMIENTO Y FUNCIONAMIENTO DE GIROS INDUSTRIALES, TALES COMO FABRICAS, BODEGAS, TALLERES O LABORATORIOS SE REQUERIRA LA AUTORIZACION O REGULARIZACION (EN EL CASO DE LOS GIROS INDUSTRIALES EN FUNCIONAMIENTO AL MOMENTO DE ENTRAR EN VIGOR EL PRESENTE REGLAMENTO) DE OPERACION, PREVIA INSPECCION QUE PRACTIQUE EL AYUNTAMIENTO; LA CUAL SE OTORGARA SI EL INMUEBLE REUNE LAS CARACTERISTICAS DE UBICACION DE ACUERDO AL PROGRAMA, DE CONSTRUCCION Y DE OPERACION QUE PARA ESTA CLASE DE ESTABLECIMIENTO O INSTALACIONES EXIGE ESTE REGLAMENTO Y LA LEY DE EQUILIBRIO ECOLOGICO. LA AUTORIZACION TENDRA UNA VIGENCIA DE DOS AÑOS Y SERA REVALIDADA POR PERIODOS IGUALES DE TIEMPO, PREVIA VERIFICACION DE LAS AUTORIDADES COMPETENTES DE QUE EL INMUEBLE SATISFACE LOS REQUISITOS EXIGIDOS EN RELACION CON EL GIRO, EQUIPO, MAQUINARIA E INSTALACIONES EXISTENTES EN EL.
 
-De igual forma, podrán crearse patronatos que tengan fines específicos, que estarán integrados con una participación mayoritaria de la sociedad civil, teniendo por objeto el bienestar social a través de la promoción del desarrollo municipal.
+### CAPITULO TERCERO. EXCAVACIONES Y CIMENTACIONES
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE ENERO DE 2015)</small>
+###### ARTICULO 202.
 
-### CAPITULO I. Del Patrimonio Municipal
+LAS CIMENTACIONES DEBERAN REALIZARSE DE ACUERDO CON LOS MATERIALES, SECCIONES Y CARACTERISTICAS MARCADAS EN LOS PLANOS ESTRUCTURALES AUTORIZADOS.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2007)</small>
+###### ARTICULO 203.
 
-## TITULO SEXTO. DEL PATRIMONIO Y DE LA HACIENDA PUBLICA MUNICIPAL
+EL DESPLANTE DE CUALQUIER CIMENTACION SE HARA A LA PROFUNDIDAD SEÑALADA EN EL PROYECTO; SE DEBERAN TOMAR LAS PRECAUCIONES NECESARIAS PARA EVITAR QUE EN LA SUPERFICIE DE CONTACTO DE LA CIMENTACION CON EL SUELO SE PRESENTEN DEFORMACIONES. LAS SUPERFICIES DE DESPLANTE TENDRAN LAS DIMENSIONES, RESISTENCIA Y CARACTERISTICAS QUE SEÑALE EL PROYECTO Y ESTARAN LIBRES DE CUERPOS EXTRAÑOS O SUELTOS (ARCILLAS EXPANSIVAS), LOS CUALES DEBERAN ESTABILIZARSE O REMOVERSE ANTES DE LA EDIFICACION.
 
-### CAPITULO II. De la Hacienda Municipal
+EN EL CASO DE ELEMENTOS DE CIMENTACION DE CONCRETO REFORZADO, SE APLICARAN PROCEDIMIENTOS QUE GARANTICEN EL RECUBRIMIENTO MINIMO DEL ACERO, SEGUN INDICAN LAS NORMAS OFICIALES. CUANDO EXISTAN POSIBILIDADES DE QUE EL PROPIO SUELO O CUALQUIER LIQUIDO O GAS CONTENIDO EN EL, PUEDAN ATACAR AL CONCRETO O AL ACERO, SE TOMARAN LAS MEDIDAS NECESARIAS PARA EVITARLO. ASIMISMO, EN EL MOMENTO DEL COLADO SE EVITARA QUE EL CONCRETO SE MEZCLE O CONTAMINE CON PARTICULAS DE SUELO O AGUA FREATICA QUE PUEDAN AFECTAR SUS CARACTERISTICAS DE RESISTENCIA O DURABILIDAD.
+
+###### ARTICULO 204.
+
+LOS CIMIENTOS EN NINGUN CASO PODRAN CONSTRUIRSE SOBRE RELLENO VEGETAL, RELLENOS SUELTOS O DESECHOS, LOS CUALES SERAN REMOVIDOS EN SU TOTALIDAD PARA DESPLANTAR LA ESTRUCTURA.
+
+SE ACEPTARA CIMENTAR SOBRE RELLENOS CUANDO SE DEMUESTRE QUE ESTOS SEAN COMPACTADOS EN FORMA ADECUADA.
+
+###### ARTICULO 205.
+
+PARA LA EJECUCION DE LAS EXCAVACIONES Y LA CONSTRUCCION DE CIMENTACIONES SE SUJETARAN AL CALCULO CORRESPONDIENTE, ASI COMO LAS (SIC) NORMAS TECNICAS OFICIALES MEXICANAS CORRESPONDIENTES DE CIMENTACIONES, EN PARTICULAR SE CUMPLIRA LO RELATIVO A LAS PRECAUCIONES PARA QUE NO RESULTEN AFECTADAS LAS CONSTRUCCIONES Y PREDIOS VECINOS NI LOS SERVICIOS PUBLICOS.
+
+###### ARTICULO 206.
+
+EL USO DE EXPLOSIVOS EN LAS EXCAVACIONES QUEDARA CONDICIONADO A LA AUTORIZACION DE LA SECRETARIA DE LA DEFENSA NACIONAL Y A LAS RESTRICCIONES Y ELEMENTOS DE PROTECCION QUE ORDENE DICHA DEPENDENCIA, PREVIA COORDINACION CON LA DIRECCION.
+
+###### ARTICULO 207.
+
+SI EN EL PROCESO DE UNA EXCAVACION SE ENCUENTRAN FOSILES O PIEZAS ARQUEOLOGICAS, SE DEBERA SUSPENDER DE INMEDIATO LA EXCAVACION EN ESE LUGAR Y NOTIFICAR EL HALLAZGO AL AYUNTAMIENTO Y AL INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA.
+
+###### ARTICULO 208.
+
+CUANDO SE INTERRUMPA UNA EXCAVACION POR UN PERIODO MAYOR A DOS SEMANAS, SE TOMARAN LAS PRECAUCIONES NECESARIAS PARA EVITAR QUE SE PRESENTEN MOVIMIENTOS QUE PUEDAN DAÑAR A LAS EDIFICACIONES Y PREDIOS COLINDANTES O LAS INSTALACIONES DE LA VIA PUBLICA Y QUE OCURRAN FALLAS EN LAS PAREDES O TALUDES DE LA EXCAVACION POR INTEMPERISMO PROLONGADO.
+
+SE TOMARAN TAMBIEN LAS PRECAUCIONES NECESARIAS PARA IMPEDIR EL ACCESO AL SITIO DE LA EXCAVACION MEDIANTE SEÑALAMIENTO ADECUADO Y BARRERAS PARA EVITAR ACCIDENTES.
+
+## TITULO SEXTO. IMAGEN URBANA
+
+### CAPITULO CUARTO. SEGURIDAD E HIGIENE
+
+###### ARTICULO 209.
+
+DURANTE LA EJECUCION DE CUALQUIER EDIFICACION, EL DIRECTOR RESPONSABLE DE OBRA O EL PROPIETARIO DE LA MISMA ADOPTARAN LAS MEDIDAS TECNICAS Y REALIZARAN LOS TRABAJOS NECESARIOS PARA PROTEGER LA VIDA Y LA INTEGRIDAD FISICA DE LOS TRABAJADORES Y LA DE TERCEROS, PARA LO CUAL DEBERAN CUMPLIR CON LO ESTABLECIDO EN ESTE TITULO, ASI COMO LAS NORMAS TECNICAS OFICIALES MEXICANAS CORRESPONDIENTES A LAS CONDICIONES DE LA SEGURIDAD E HIGIENE PARA CENTROS DE TRABAJO. CON FUNDAMENTO EN LA LEY FEDERAL DEL TRABAJO Y PREVISION SOCIAL.
+
+###### ARTICULO 210.
+
+EN LAS OBRAS DE CONSTRUCCION DEBERAN PROPORCIONARSE A LOS TRABAJADORES SERVICIOS PROVISIONALES DE AGUA Y UN SANITARIO PORTATIL, EXCUSADO O LETRINA POR CADA VEINTICINCO TRABAJADORES O FRACCION EXCEDENTE DE QUINCE; Y MANTENER PERMANENTEMENTE UN BOTIQUIN CON LOS MEDICAMENTOS E INSTRUMENTOS DE CURACION NECESARIOS PARA PROPORCIONAR PRIMEROS AUXILIOS.
+
+###### ARTICULO 211.
+
+LOS MATERIALES DE CONSTRUCCION Y LOS ESCOMBROS DE LAS OBRAS PODRAN COLOCARSE MOMENTANEAMENTE, EL TIEMPO MINIMO NECESARIO PARA LAS MANIOBRAS DE INTRODUCCION O EXTRACCION DEL PREDIO, SIN INVADIR LA SUPERFICIE DE RODAMIENTO EVITANDO LOS HORARIOS DE MAYOR TRANSITO Y BAJO LAS CONDICIONES QUE FIJE LA DIRECCION PARA CADA CASO.
+
+LOS MATERIALES DE CONSTRUCCION, GRAVA Y ARENA, PODRAN DEPOSITARSE EN LA VIA PUBLICA, PREVIA AUTORIZACION DE LA DIRECCION, NO DEBIENDOSE OCUPAR EN NINGUN CASO UN ANCHO MAYOR AL 50% DEL DE LA BANQUETA.
+
+###### ARTICULO 212.
+
+LOS VEHICULOS QUE CARGUEN Y DESCARGUEN MATERIALES PARA UNA OBRA PODRAN ESTACIONARSE EN LA VIA PUBLICA DURANTE LOS HORARIOS QUE FIJE LA DIRECCION Y CON APEGO A LO QUE DISPONGA EL REGLAMENTO DE TRANSITO DEL ESTADO.
+
+###### ARTICULO 213.
+
+LOS MATERIALES DESTINADOS A OBRAS PARA SERVICIOS PUBLICOS PERMANECERAN EN LA VIA PUBLICA SOLO EL TIEMPO PRECISO PARA LA EJECUCION DE ESAS OBRAS; INMEDIATAMENTE DESPUES DE TERMINAR ESTAS LOS MATERIALES Y ESCOMBROS SERAN RETIRADOS.
+
+###### ARTICULO 214.
+
+LOS MATERIALES, DESECHOS Y ESCOMBROS PROVENIENTES DE UNA DEMOLICION, DEBERAN SER RETIRADOS EN TU (SIC) TOTALIDAD EN UN PLAZO NO MAYOR DE 7 DIAS HABILES CONTADOS A PARTIR DE LA DEMOLICION Y BAJO LAS CONDICIONES QUE ESTABLEZCAN LAS AUTORIDADES CORRESPONDIENTES EN MATERIA DE VIALIDAD Y TRANSPORTE.
+
+###### ARTICULO 215.
+
+LOS PROPIETARIOS DE OBRA CUYA CONSTRUCCION SEA SUSPENDIDA POR MAS DE VEINTE DIAS, ESTAN OBLIGADOS A LIMITAR SUS PREDIOS DE LA SIGUIENTE MANERA:
+
+I. POR MEDIO DE BARDAS CUANDO FALTE EL MURO DE LA FACHADA.
+
+II. CLAUSURANDO LOS VANOS QUE EXISTAN, CUANDO EL MURO DE FACHADA ESTE YA CONSTRUIDO, DE MANERA QUE SE IMPIDA EL ACCESO, SOLAMENTE QUEDARA UNA PUERTA CON CIERRE SEGURO QUE DARA ACCESO AL INTERIOR DE LA CONSTRUCCION.
+
+###### ARTICULO 216.
+
+QUEDA ESTRICTAMENTE PROHIBIDO HACER MEZCLAS DE CONCRETO, PASTAS O MORTEROS EN LA VIA PUBLICA. SI SE DIERA EL CASO, SE MULTARA AL PROPIETARIO POR TAL MOTIVO Y SE LE CONMINARA A NO REPETIRLO. SI QUEDARAN RESTOS ENDURECIDOS DE LA MEZCLA EN LA SUPERFICIE DE LA VIA PUBLICA, LA DIRECCION PROCEDERA A QUITARLA Y REPARAR EL PAVIMENTO A CUENTA DEL PROPIETARIO DE LA CONSTRUCCION EN QUE SE USO LA MEZCLA.
+
+###### ARTICULO 217.
+
+CUANDO UN PREDIO DE PROPIEDAD PARTICULAR, SE ENCUENTRE ABANDONADO O SEA MOTIVO DE INSALUBRIDAD (POR DESECHOS ORGANICOS E INORGANICOS) E INSEGURIDAD (FALTA DE CERCA O BARDA PERIMETRAL), LAS AUTORIDADES MUNICIPALES ORDENARAN A LOS PROPIETARIOS DE ESE PREDIO, HAGAN DESAPARECER ESOS MOTIVOS. DE NO DAR CUMPLIMIENTO EN EL PLAZO QUE FIJE, EL AYUNTAMIENTO SE HARA CARGO DE LOS TRABAJOS QUE CONLLEVEN AL SANEAMIENTO DE DICHO PREDIO, EL IMPORTE DE LAS OBRAS RELATIVAS SERA A CARGO DEL PROPIETARIO.
 
 ###### ARTICULO 108.
 
-El patrimonio del Municipio se compone de los bienes que son de su propiedad y de los que adquiera conforme a la ley; del producto de las contribuciones y demás ingresos decretados por el Congreso del Estado; de los vacantes y mostrencos que estén en su territorio; de los créditos que tenga a su favor; así como de los subsidios, de las transferencias y de las participaciones en el rendimiento de las contribuciones federales y estatales que deba percibir de acuerdo a las leyes.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-Son inalienables e imprescriptibles los bienes del patrimonio municipal. Los bienes desafectados podrán ser enajenados, previo cumplimiento de los requisitos, procedimientos y restricciones previstos en, la Constitución Política del Estado; esta Ley; la Ley de Bienes del Estado y Municipios de San Luis Potosí; la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de San Luis Potosí, y los demás ordenamientos legales aplicables.
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-En ningún caso podrán enajenarse los bienes muebles o inmuebles municipales, para destinarse al gasto corriente o al pago de obligaciones, incluyendo el pago de laudos laborales.
+SI EL RESULTADO DE LA INSPECCION A QUE SE REFIERE EL ARTICULO 6, FRACCION VI Y DEL COTEJO DE LA DOCUMENTACION CORRESPONDIENTE APARECIERA QUE LA OBRA NO SE AJUSTO A LA LICENCIA, EXIGENCIAS SANITARIAS Y A LOS PLANOS AUTORIZADOS, EL AYUNTAMIENTO ORDENARA AL PROPIETARIO EFECTUAR LAS MODIFICACIONES QUE FUEREN NECESARIAS, Y EN TANTO ESTAS NO SE EJECUTEN A SATISFACCION DEL PROPIO AYUNTAMIENTO, NO AUTORIZARA EL USO Y OCUPACION DE LA OBRA.
 
 ###### ARTICULO 109.
 
-Los bienes que integran el patrimonio del Municipio son:
-
-I. Del dominio público:
-
-a) Los de uso común;
-
-b) Los que sean de su propiedad, destinados a los servicios públicos;
-
-c) Los inmuebles y muebles de valor histórico y cultural que se encuentren dentro de su territorio, y que no sean propiedad de la Nación o de propiedad privada, y
-
-d) Los demás que señalen las leyes respectivas, y
-
-II. el dominio privado:
-
-a) Los que ingresen a su patrimonio no comprendidos en la fracción anterior, y
-
-b) Aquellos que, de conformidad con las leyes, sean desafectados de un servicio público.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2019)</small>
+CUALQUIER CAMBIO DE USO EN EDIFICACIONES YA EJECUTADAS, REQUERIRA DE PREVIA LICENCIA DE CONSTRUCCION Y LICENCIA SANITARIA CUANDO ASI SE REQUIERA POR LA SECRETARIA DE SALUD. EN LOS TERMINOS SEÑALADOS EN EL REGLAMENTO, SE PODRAN AUTORIZAR LOS CAMBIOS DE USO SI EL PROGRAMA LO PERMITE Y SI SE EFECTUAN LAS MODIFICACIONES E INSTALACIONES NECESARIAS PARA CUMPLIR CON LOS REQUERIMIENTOS QUE ESTABLECE EL PRESENTE REGLAMENTO PARA EL USO NUEVO.
 
 ###### ARTICULO 110.
 
-El Ayuntamiento por medio de la Oficialía Mayor o de la Secretaría en su caso, formulará y actualizará en el mes de enero de cada año, el inventario general de los bienes muebles e inmuebles propiedad del Municipio, estableciendo el Catálogo General de Inmuebles Municipales, mismo que deberá contener el valor y las características de identificación de cada uno de éstos.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+LAS OBRAS DE AMPLIACION PODRAN SER AUTORIZADAS SI NO AFECTAN EL USO Y LA DENSIDAD PERMITIDA POR EL PROGRAMA.
 
 ###### ARTICULO 111.
 
-Los ayuntamientos no podrán efectuar la venta de sus bienes muebles, excepto en el caso en que se acredite que los mismos han dejado de tener utilidad suficiente para los fines respecto de su naturaleza que corresponda, de tal forma que su uso o mantenimiento sea contrario a la administración eficiente y eficaz. El producto de la venta deberá ser destinado en todos los casos, a la adquisición de bienes muebles necesarios para las actividades competencia de las dependencias del ayuntamiento. No podrán adquirirse vehículos automotores, con excepción de que vayan a ser habilitados y destinados como patrullas para prestar servicios de seguridad pública municipal, o como ambulancia o transporte de personas con discapacidad.
-
-Para autorizar una desafectación o enajenación, deberá integrarse un expediente con los documentos que señala el artículo 32 de la Ley de Bienes del Estado y Municipios de San Luis Potosí, y la venta deberá llevarse a cabo por medio de subasta pública, en los términos de dicho Ordenamiento.
-
-Los ayuntamientos no podrán permutar sus bienes inmuebles, salvo en el caso de que se acredite que el inmueble a recibir en la permuta, puede ser destinado a la prestación de un servicio público en mejores condiciones respecto del originario. En todos los casos, a la solicitud de autorización por el ayuntamiento, deberá acompañarse el proyecto ejecutivo que, en su caso, se ejecutará, así como la suficiencia de recursos para llevarlo a cabo.
-
-Los ayuntamientos no podrán vender sus bienes inmuebles, excepto cuando el producto de la venta, sea suficiente para cubrir el costo de una obra pública de impacto general en el ayuntamiento, y previa consulta pública de dicha obra, en los términos de la ley de la materia.
-
-Los ayuntamientos podrán donar sus bienes inmuebles sólo en favor de instituciones públicas, o de personas físicas o morales con fines de asistencia social que cumplan con los requisitos que al efecto establece la Ley de Desarrollo Social para el Estado y Municipios de San Luis Potosí, siempre y cuando sobre los mismos se vayan a ejecutar obras que representen, la satisfacción de servicios o necesidades de interés general para los habitantes del municipio, o bien, sirvan para la regularización de la tenencia de la tierra en favor de personas que no tengan otra propiedad registrada a nombre de ellas o de sus parientes por afinidad o consanguinidad hasta el cuarto grado. En todos los casos, tratándose de bienes adquiridos como área de donación, deberán de observarse los porcentajes y las restricciones que, para los inmuebles obtenidos como áreas de donación, establezca la Ley Local de Ordenamiento Territorial y Desarrollo Urbano, y cualquier otra disposición legal aplicable.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+LAS OBRAS DE AMPLIACION, CUALESQUIERA QUE SEA SU TIPO, DEBERAN CUMPLIR CON LOS REQUERIMIENTOS DE HABITABILIDAD, FUNCIONAMIENTO, SEGURIDAD, HIGIENE, PROTECCION AL AMBIENTE, INTEGRACION AL CONTEXTO Y MEJORAMIENTO DE LA IMAGEN URBANA, QUE ESTABLECEN LOS TITULOS SEXTO Y SEPTIMO DE ESTE REGLAMENTO.
 
 ###### ARTICULO 112.
 
-La autorización para la venta, permuta o donación, de bienes muebles e inmuebles, según sea el caso, y en los términos de esta Ley, la o el presidente municipal deberá convocar a sesión de Cabildo, en la que de forma exclusiva se tratará este tema. El ayuntamiento, en su caso, autorizará la enajenación de que se trate, por el voto de cuando menos las dos terceras partes del total de los integrantes del ayuntamiento.
-
-Para la autorización de enajenación de bienes inmuebles, se deberá acompañar a la convocatoria respectiva lo siguiente:
-
-I. Expediente de la consulta pública en el caso de venta de bienes inmuebles;
-
-II. Título con el que se acredite la propiedad del inmueble, debidamente inscrito ante el Instituto Registral y Catastral;
-
-III. Certificado de libertad de gravamen en el caso de inmuebles;
-
-IV. Plano con medidas y colindancias de la propiedad de que se trate;
-
-V. Constancia o certificación del valor fiscal; y tratándose de permutas, los avalúos comerciales de ambos inmuebles, que practique un perito valuador inscrito en el Registro Estatal de Peritos;
-
-VI. Dictamen de factibilidad expedido por, la dirección o autoridad municipal competente, y por la Coordinación Estatal de Protección Civil, respectivamente, mediante el cual se establezca la posibilidad de desarrollar, edificar, construir o realizar obras de infraestructura y los asentamientos humanos en un predio determinado; señalando el uso general y específico del suelo; densidad, los coeficientes de ocupación y uso de suelo; y las restricciones federales, estatales y municipales al mismo, así como la identificación del análisis de riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción, así como identificación de riesgos, que se entenderá como reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
-
-VII. Exposición de motivos en que se fundamente la solicitud; además de la mención del acto jurídico que habrá de formalizarla;
-
-VIII. Protesto (sic) de que el adquiriente no sea familiar por afinidad, ni por consanguinidad hasta el cuarto grado, de alguno de los integrantes del ayuntamiento, en cuyo caso la enajenación será nula;
-
-IX. Certificación de que el inmueble carece de valor arqueológico, histórico o artístico;
-
-X. Señalará los beneficiarios, especificando si se trata de personas físicas o morales.
-
-Tratándose de personas físicas se expresarán sus nombres completos, edad, domicilio particular y de trabajo, estado civil; y al efecto se agregará al listado copia certificada de sus identificaciones, así como de sus actas de nacimiento, comprobantes de domicilio y, en su caso, de sus actas de matrimonio.
-
-Tratándose de personas morales se expresará su denominación, domicilio fiscal, su nómina de socios o asociados y del órgano de administración; y se acompañará copia certificada del acta constitutiva respectiva, así como de las modificaciones a sus estatutos, y
-
-XI. En los casos de donación a personas físicas éstas habrán de comprobar que no son propietarias de algún predio; la superficie donada no excederá a la necesaria para vivienda de interés social.
-
-Cualquier autorización de enajenación que no cumpla con los requisitos establecidos en esta Ley, y en otras disposiciones legales aplicables, será nula de pleno derecho: y la o el presidente municipal, será responsable de manera solidaria y subsidiaria de los daños y perjuicios que se causen a la hacienda pública municipal.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+LAS OBRAS DE AMPLIACION NO DEBERAN SOBREPASAR NUNCA LOS LIMITES DE RESISTENCIA ESTRUCTURAL Y LAS CAPACIDADES DE SERVICIO DE LAS TOMAS, ACOMETIDAS Y DESCARGAS DE LAS INSTALACIONES HIDRAULICAS, ELECTRICAS Y SANITARIAS DE LAS EDIFICACIONES EN USO.
 
 ###### ARTICULO 113.
 
-La venta de los bienes inmuebles deberá efectuarse en subasta pública, conforme al procedimiento que señale el Reglamento que al efecto autorice el Ayuntamiento, debiendo cumplir en todos los casos, con los requisitos y procedimientos previos que, para cada supuesto de enajenación, establecen esta Ley y las demás disposiciones legales aplicables.
+EL AYUNTAMIENTO ESTARA FACULTADO PARA ORDENAR LA DEMOLICION PARCIAL O TOTAL DE UNA OBRA REALIZADA SIN LICENCIA, CUANDO ESTA SE HAYA REALIZADO EN VIA PUBLICA O FUERA DEL ALINEAMIENTO DE CALLE, CON CARGO AL PROPIETARIO DE LA OBRA O POSEEDOR, CUANDO LA OBRA SE REALICE DENTRO DE UN PREDIO PARTICULAR Y ESTE NO HAYA OBTENIDO EL PERMISO DE OBRA SE LE APLICARA LAS SANCIONES DE ACUERDO A LAS DISPOSICIONES DE ESTE REGLAMENTO.
 
 ###### ARTICULO 114.
 
-La Oficialía Mayor o la Secretaría Municipal, establecerán reglas y procedimientos para dar de alta los bienes muebles propiedad de los municipios; así como los requisitos para los resguardos que los servidores públicos deban otorgar, cuando se les confíen bienes municipales para la prestación de servicios públicos en el desempeño de sus labores.
+ANEXO A LA SOLICITUD DE LICENCIA DE DEMOLICION CONSIDERADA EN EL ARTICULO 93 FRACCION III DE ESTE ORDENAMIENTO, SE DEBERA PRESENTAR UN PROGRAMA DE DEMOLICION, EN EL QUE SE INDICARA EL ORDEN Y FECHAS APROXIMADAS EN EL QUE SE DEMOLERAN LOS ELEMENTOS DE LA CONSTRUCCION. EN CASO DE PREVER EL USO DE EXPLOSIVOS, EL PROGRAMA DE DEMOLICION SEÑALARA CON TODA PRECISION EL O LOS DIAS Y LA HORA O LAS HORAS EN QUE SE REALIZARAN LAS EXPLOSIONES CON LA DEBIDA AUTORIZACION DE LA SECRETARIA DE LA DEFENSA NACIONAL (SEDENA).
 
-### CAPITULO I. De la Planeación
+### CAPITULO PRIMERO. ADMISION DE RESPOSNABLES (SIC) DE OBRAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2013)</small>
+###### ARTICULO 218.
+
+SE CREA UNA COMISION DE ADMISION DE RESPONSABLES DE OBRA, LA CUAL ESTA INTEGRADA POR:
+
+I. DOS REPRESENTANTES DEL AYUNTAMIENTO DESIGNADOS POR EL TITULAR Y APROBADOS EN SESION DE CABILDO, UNO DE ELLOS PRESIDIRA LA COMISION Y TENDRA VOTO DE CALIDAD EN CASO DE EMPATE.
+
+II. UN REPRESENTANTE DE CADA UNO DE LOS COLEGIOS Y CAMARAS SIGUIENTES, A INVITACION DEL PRESIDENTE MUNICIPAL:
+
+A) COLEGIO DE INGENIEROS CIVILES.
+
+B) COLEGIO DE ARQUITECTOS.
+
+C) COLEGIO DE INGENIEROS MECANICOS ELECTRICISTAS, Y
+
+D) CAMARA MEXICANA DE LA INDUSTRIA DE LA CONSTRUCCION.
+
+LAS SESIONES DE LA COMISION SERAN VALIDAS CUANDO ASISTAN POR LO MENOS LOS REPRESENTANTES DEL AYUNTAMIENTO Y UNO DE LAS INSTITUCIONES MENCIONADAS.
+
+###### ARTICULO 219.
+
+LA COMISION DE ADMISION TENDRA LAS SIGUIENTES ATRIBUCIONES Y CONTARA CON UN COMITE TECNICO PARA SU CUMPLIMIENTO:
+
+A) ATRIBUCIONES.
+
+I. VERIFICAR QUE LAS PERSONAS ASPIRANTES A OBTENER EL REGISTRO COMO RESPONSABLES DE OBRA CUMPLAN CON LOS REQUISITOS ESTABLECIDOS EN LOS ARTICULOS 217 Y 221 DE ESTE REGLAMENTO, APLICANDO LOS FORMULARIOS Y CURSOS QUE CONSIDEREN NECESARIOS, ASI COMO LOS CURSOS DE ACTUALIZACION CUANDO LO ESTIME CONVENIENTE.
+
+II. OTORGAR EL REGISTRO RESPECTIVO A LAS PERSONAS QUE HAYAN CUMPLIDO CON LO ESTABLECIDO EN LOS PRECEPTOS SEÑALADOS EN LA FRACCION ANTERIOR
+
+III. LLEVAR UN REGISTRO DE LICENCIAS DE CONSTRUCCION CONCEDIDAS A CADA RESPONSABLE DE OBRA, ASI COMO EL EXPEDIENTE PERSONAL DE CADA RESPONSABLE DE OBRA.
+
+IV. EMITIR OPINION SOBRE LA ACTUACION DE LOS RESPONSABLES DE OBRA CUANDO LES SEA SOLICITADO POR LAS AUTORIDADES DEL PROPIO AYUNTAMIENTO.
+
+V. VIGILAR CUANDO LO CONSIDERE CONVENIENTE LA ACTUACION DE LOS RESPONSABLES DE OBRA DURANTE EL PROCESO DE EJECUCION DE LAS OBRAS POR LAS CUALES HAYAN EXTENDIDO SU RESPONSIVA.
+
+VI. DAR A CONOCER LA CONVOCATORIA RESPECTIVA A TRAVES DE LA GACETA MUNICIPAL Y POR LOS ESTRADOS REALIZANDO LA PUBLICACION DEL PADRON APROBADO, EN LOS MISMOS MEDIOS.
+
+B) INTEGRACION DEL COMITE TECNICO.
+
+EL COMITE TECNICO ESTARA INTEGRADO POR PROFESIONALES DE RECONOCIDA EXPERIENCIA Y CAPACIDAD TECNICA, DESIGNADOS POR LA COMISION, A PROPUESTA DEL PROPIO COMITE.
+
+EL AYUNTAMIENTO TENDRA DERECHO DE VETO EN LA DESIGNACION DE LOS MIEMBROS DEL COMITE.
+
+DICHO COMITE QUEDARA INTEGRADO DE LA SIGUIENTE FORMA:
+
+I. POR UN ESPECIALISTA EN DISEÑO Y CONSTRUCCION DE CIMENTACIONES Y ESTRUCTURAS; UNO EN DISEÑO URBANO Y ARQUITECTONICO Y UNO EN INSTALACLONES;
+
+II. EL COMITE EVALUARA LOS CONOCIMIENTOS A QUE SE REFIERE LA FRACCFON III DEL ARTICULO 217 Y LA FRACCION II DEL ARTICULO 221 DE ESTE REGLAMENTO, DE LOS ASPIRANTES A RESPONSABLES DE OBRA, DEBIENDO EMITIR EL DICTAMEN CORRESPONDIENTE Y ENVIARLO A LA COMISION, PARA LOS EFECTOS CORRESPONDIENTES;
+
+III. CADA DOS AÑOS SE SUSTITUIRA UN MIEMBRO DEL COMITE.
+
+EL AYUNTAMIENTO DEBERA EXPEDIR EL MANUAL DE FUNCIONAMIENTO DEL COMITE, A PROPUESTA DEL MISMO, QUE CONTEMPLARA EL PROCEDIMIENTO DE EVALUACION DE LOS ASPIRANTES A RESPONSABLES DE OBRA, LOS SUPUESTOS DE REMOCION DE SUS MIEMBROS, EL PROCEDIMIENTO A SEGUIR EN LOS CASOS DE RENUNCIA O FALLECIMIENTO Y EL CARACTER ROTATORIO DE LA PRESIDENCIA DEL COMITE. DICHO MANUAL DEBERA PUBLICARSE EN LA GACETA OFICIAL DEL AYUNTAMIENTO.
 
 ###### ARTICULO 115.
 
-La Hacienda Pública Municipal estará integrada por:
-
-I. Los impuestos, derechos, productos, aprovechamientos y contribuciones de mejoras que decrete su Ley de Ingresos correspondiente;
-
-II. Las participaciones y transferencias de ingresos federales y estatales que establezcan las leyes y convenios de coordinación;
-
-III. Las utilidades de las entidades públicas del Municipio;
-
-IV. Los capitales y créditos a favor del Municipio, así como las donaciones, herencias y legados que recibiere;
-
-V. Los subsidios a favor del Municipio, y
-
-VI. Todos los bienes que forman su patrimonio en los términos del artículo 108 y demás relativos de esta Ley.
+LAS DEMOLICIONES DE LOCALES CONSTRUIDOS O EDIFICACIONES DE 3 A MAS NIVELES DE ALTURA, DEBERA CONTAR CON UN DIRECTOR RESPONSABLE DE OBRA, SEGUN LO DISPUESTO EN EL TITULO OCTAVO DE ESTE REGLAMENTO.
 
 ###### ARTICULO 116.
 
-Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por los ayuntamientos, o en su caso, por quien ellos autoricen conforme a la ley.
+CUALQUIER SOLICITUD DE LICENCIA DE DEMOLICION EN ZONAS DEL PATRIMONIO HISTORICO, ARTISTICO Y ARQUEOLOGICO DE LA FEDERACION, REQUERIRA LA AUTORIZACION POR PARTE DE LAS AUTORIDADES FEDERALES QUE CORRESPONDAN Y EN TODOS LOS CASOS, LA RESPONSIVA DEL DIRECTOR RESPONSABLE DE OBRA.
 
 ###### ARTICULO 117.
 
-La Ley de Hacienda Municipal fijará los conceptos de impuestos, derechos y contribuciones de mejoras que deberá cobrar el Ayuntamiento, por lo que éste podrá hacer la reclamación correspondiente ante el Congreso del Estado, cuando se establezcan en favor del Estado impuestos y derechos que por ley correspondan al Municipio.
+EL USO Y CONSERVACION DE PREDIOS Y EDIFICACIONES SE SUJETARA A LAS DISPOSICIONES DE LA LEY Y SUS REGLAMENTOS.
 
 ###### ARTICULO 118.
 
-Los municipios deberán verificar que sus participaciones económicas de carácter federal, coincidan con los montos publicados anualmente por el Gobierno del Estado.
+LOS USOS QUE PUEDEN GENERAR PELIGRO, INSALUBRIDAD O MOLESTIA, EN LUGARES EN QUE NO EXISTA INCONVENIENTE DE ACUERDO CON LA ZONIFICACION AUTORIZADA Y CON LA CONDICION DE QUE SE TOMEN PREVIAMENTE LAS MEDIDAS DE PROTECCION QUE LA DIRECCION SEÑALE, SE PODRAN AUTORIZAR DE MANERA CONDICIONADA.
+
+EN SU CASO, ANTES DE EXPEDIR LA AUTORIZACION DE USOS A QUE SE REFIERE EL PARRAFO ANTERIOR, LA DIRECCION VERIFICARA QUE SE HAYAN TOMADO LAS MEDIDAS DE PROTECCION SEÑALADAS Y QUE SE HAYA DADO CUMPLIMIENTO A LAS DISPOSICIONES RELATIVAS DE LA LEY DE EQUILIBRIO ECOLOGICO Y DE SUS REGLAMENTOS.
 
 ###### ARTICULO 119.
 
-Los recursos que correspondan a los municipios en los términos de la Ley de Aportaciones Transferidas al Estado y Municipios de San Luis Potosí, deberán aplicarse en los rubros que establece el citado ordenamiento.
+PARA LOS EFECTOS DEL PRESENTE TITULO, SERAN CONSIDERADOS COMO USOS PELIGROSOS, INSALUBRES O MOLESTOS, LOS SIGUIENTES:
 
-Los que el Estado les transfiera mediante convenio se aplicarán a la satisfacción de las siguientes prioridades:
+I. LA PRODUCCION, ALMACENAMIENTO, DEPOSITO, VENTA O MANEJO DE OBJETOS O DE SUSTANCIAS TOXICAS, EXPLOSIVAS, INFLAMABLES O DE FACIL COMBUSTION.
 
-I. Agua potable, alcantarillado y saneamento (sic);
+II. LA ACUMULACION DE ESCOMBROS O BASURA.
 
-II. Electrificación y alumbrado público;
+III. LA EXCAVACION PROFUNDA DE TERRENOS.
 
-III. Unidades de atención médica;
+IV. LOS QUE IMPLIQUEN LA APLICACION DE EXCESIVAS O DESCOMPENSADAS CARGAS O LA TRANSMISION DE VIBRACIONES EXCESIVAS A LAS CONSTRUCCIONES.
 
-IV. Espacios educativos;
+V. LOS QUE PRODUZCAN HUMEDAD; SALINIDAD, CORROSION, GASES, HUMOS, POLVOS, RUIDOS, TREPIDACIONES, CAMBIOS IMPORTANTES DE TEMPERATURA, MALOS OLORES Y OTROS EFECTOS PERJUDICIALES O MOLESTOS PARA LAS PERSONAS O QUE PUEDAN OCASIONAR DAÑO A LAS PROPIEDADES.
 
-V. Caminos rurales;
+VI. LOS DEMAS QUE ESTABLECE LA LEY DE EQUILIBRIO ECOLOGICO, EL CODIGO SANITARIO Y LOS REGLAMENTOS RESPECTIVOS.
 
-VI. Tiendas de abasto popular;
+VII. LOTES BALDIOS ABANDONADOS Y CASAS DESHABITADAS QUE PRESENTEN PROBABILIDAD DE DERRUMBE Y,
 
-VII. Obras de apoyo a la producción agropecuaria;
-
-VIII. Regularización de la tenencia de la tierra y reservas territoriales para vivienda;
-
-IX. Generación de nuevos empleos, y
-
-X. Las demás que en orden prioritario se consideren con tal carácter.
+VIII. LA REPRODUCCION, MANEJO O MATANZA DE ANIMALES SIN CONTAR CON LA FACTIBILIDAD RESPECTIVA.
 
 ###### ARTICULO 120.
 
-No se hará pago alguno que no esté previsto en el presupuesto anual de egresos correspondiente.
+LA DIRECCION PODRA AUTORIZAR EL CAMBIO DE USO DE UN PREDIO O DE LA EDIFICACION, DE ACUERDO CON EL PROGRAMA APROBADO PARA LA ZONA DONDE SE UBIQUE EL PREDIO, PREVIO DICTAMEN TECNICO Y EN SU CASO, LA AUTORIZACION DE UBICACION EN LOS TERMINOS SEÑALADOS POR EL ARTICULO 82 DE ESTE CUERPO NORMATIVO.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
+EL NUEVO USO DEBERA AJUSTARSE A LAS DISPOSICIONES DE ESTE REGLAMENTO Y DE LOS DEMAS REGLAMENTOS APLICADOS A LA LEY.
 
-Las omisiones o excesos de las autoridades municipales en el manejo de la Hacienda Municipal, se sancionarán en los términos previstos por la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+EN CONSTRUCCIONES YA EJECUTADAS, LA DIRECCION PODRA AUTORIZAR EL CAMBIO DE USO, SI SE EFECTUAN LAS MODIFICACIONES NECESARIAS Y SE CONSTRUYEN LAS INSTALACIONES ADECUADAS PARA CUMPLIR CON LAS DISPOSICIONES LEGALES Y REGLAMENTARIAS CORRESPONDIENTES, A SATISFACCION DE LA PROPIA DIRECCION.
 
-> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
+## TITULO SEPTIMO. EDIFICACION
 
-## TITULO SEPTIMO. DE LA PLANEACION
+### CAPITULO SEGUNDO. RESPONSABLES DE OBRA
 
-### CAPITULO II. Del Presupuesto
+###### ARTICULO 220.
+
+RESPONSABLE DE OBRA, ES LA PERSONA FISICA QUE SE HACE RESPONSABLE DE LA OBSERVANCIA DE ESTE REGLAMENTO EN LAS OBRAS PARA LAS QUE SE OTORGUE SU RESPONSIVA.
+
+LA CALIDAD DEL RESPONSABLE DE OBRA SE ADQUIERE CON EL REGISTRO DE LA PERSONA ANTE LA COMISION A LA QUE SE REFIERE EL ARTICULO 213 DE ESTE REGLAMENTO, HABIENDO CUMPLIDO PREVIAMENTE CON LOS REQUISITOS ESTABLECIDOS EN EL ARTICULO 214 DE ESTE REGLAMENTO.
+
+###### ARTICULO 221.
+
+PARA LOS EFECTOS DE ESTE REGLAMENTO, SE ENTIENDE QUE UN RESPONSABLE DE OBRA OTORGA SU RESPONSIVA PROFESIONAL CUANDO:
+
+I. SUSCRIBE UNA SOLICITUD DE LICENCIA DE UNA CONSTRUCCION O DEMOLICION Y EL PROYECTO DE UNA OBRA DE LA QUE SE REFIERE EN ESTE REGLAMENTO, CUYA EJECUCION VAYA A REALIZARSE DIRECTAMENTE POR EL O POR PERSONA FISICA, O MORAL, SIEMPRE QUE SUPERVISE QUIEN OTORGA LA RESPONSIVA;
+
+II. TOME A SU CARGO SU OPERACION Y MANTENIMTENTO, ACEPTANDO LA RESPONSABILIDAD DE LA MISMA;
+
+III. SUSCRIBE UN DICTAMEN DE ESTABILIDAD Y/O SEGURIDAD DE UNA EDIFICACION O INSTALACION;
+
+IV. SUSCRIBA UNA CONSTANCIA DE SEGURIDAD ESTRUCTURAL; O
+
+V. SUSCRIBA EL VISTO BUENO DE SEGURIDAD, FUNCIONALIDAD Y OPERACION DE UNA OBRA.
+
+###### ARTICULO 222.
+
+PARA OBTENER EL REGISTRO COMO RESPONSABLE DE OBRA, SE DEBEN SATISFACER LOS SIGUIENTES REQUISITOS:
+
+I. SER DE NACIONALIDAD MEXICANA, O EN SU CASO CONTAR CON UNA CARTA DE NATURALIZACION;
+
+II. ACREDITAR QUE POSEE CEDULA PROFESIONAL COMO INGENIERO CIVIL, INGENIERO ARQUITECTO, O ARQUITECTO, INGENIERO CONSTRUCTOR MILITAR O INGENIERO MUNICIPAL; EN SU CASO, ACREDITAR CON EL CERTIFICADO DE RECONOCIMIENTO O REVALIDACION EXPEDIDO POR LA AUTORIDAD COMPETENTE.
+
+III. ACREDITAR ANTE LA COMISION QUE MENCIONA EL ARTICULO 213 QUE CONOCE LA LEY DE FRACCIONAMIENTO DEL ESTADO, EL PROGRAMA Y OTRAS LEYES Y DISPOSICIONES REGLAMENTARIAS RELATIVAS AL DESARROLLO URBANO, VIVIENDA, CONSTRUCCION Y PRESERVACION DEL PATRIMONIO ECOLOGICO, HISTORICO, ARTISTICO Y ARQUEOLOGICO, PARA LO CUAL DEBERA PRESENTAR EL DICTAMEN FAVORABLE A QUE SE REFIERE EL ARTICULO 214 DE ESTE REGLAMENTO.
+
+IV. ESTAR DOMICILIADO EN LA CIUDAD, ACREDITANDOLO A SATISFACCION DE LA COMISION.
+
+V. ACREDITAR, COMO MINIMO CINCO AÑOS CON CEDULA PROFESIONAL Y DOS EN EL EJERCICIO PROFESIONAL DE LAS CONSTRUCCIONES DE LAS OBRAS A QUE SE REFIERE ESTE REGLAMENTO.
+
+###### ARTICULO 223.
+
+SON OBLIGACIONES DEL RESPONSABLE DE OBRA:
+
+I. VERIFICAR QUE LOS DATOS EN LAS SOLICITUDES Y EN LOS PROYECTOS SEAN VERACES Y CUMPLAN CON LO ESTABLECIDO EN LOS ORDENAMIENTOS Y DEMAS DISPOSICIONES A QUE SE REFIERE LA FRACCION III DEL ARTICULO ANTERIOR DE ESTE ORDENAMIENTO.
+
+II. DEBERA CONTAR EN LOS CASOS QUE SE REQUIERAN, CON LOS CORRESPONSABLES DE OBRA QUE SEÑALA EN EL ARTICULO 219;
+
+III. DIRIGIR Y/O VIGILAR LA OBRA, ASEGURANDOSE QUE CORRESPONDA AL PROYECTO APROBADO, YA SEA QUE EN SUS DIMENSIONES, DISPOSICIONES, EN LA CALIDAD DE LOS MATERIALES Y QUE LOS PROCEDIMTENTOS DE CONSTRUCCION SEAN LOS ADECUADOS;
+
+IV. RESPONDER DE CUALQUIER VIOLACION A LAS DISPOSICIONES DE ESTE REGLAMENTO. PARA EL AYUNTAMIENTO, EL RESPONSABLE DE OBRA ES EL ENCARGADO DE CUMPLIR CON LAS REGLAS, AUN CUANDO EN LA OBRA INTERVENGAN OTRAS PERSONAS FISICAS O MORALES;
+
+V. NOTIFICAR AL AYUNTAMIENTO CUALQUIER IRREGULARIDAD QUE SE SUSCITE EN LA OBRA Y QUE CONTRAVENGA LAS DISPOSICIONES DE ESTE REGLAMENTO; AQUI SE INCLUYEN SUS INSTRUCCIONES COMO RESPONSABLE DE OBRA QUE NO SEAN ATENDIDAS POR EL PROPIETARIO. EL AYUNTAMIENTO PROCEDERA A LA SUSPENSION DE LOS TRABAJOS O ESTABLECERA LAS SANCIONES CORRESPONDIENTES.
+
+VI. PLANEAR Y SUPERVISAR LAS MEDIDAS DE SEGURIDAD DEL PERSONAL Y DE TERCERAS PERSONAS EN LA OBRA, SUS COLINDANCIAS Y EN LA VIA PUBLICA DURANTE SU EJECUCION.
+
+VII. LLEVAR EN LAS OBRAS UN LIBRO DE BITACORA, FOLIADO Y ENCUADERNADO, DEBIDAMENTE SELLADO POR LA DIRECCION, EN EL CUAL SE ANOTARAN LOS SIGUIENTES DATOS:
+
+A) NOMBRE, ATRIBUCIONES Y FIRMAS DEL RESPONSABLE DE OBRA Y DEL RESIDENTE;
+
+B) FECHAS DE LAS VISITAS DEL RESPONSABLE DE OBRA;
+
+C) NOMBRE O RAZON SOCIAL DE LA PERSONA FISICA O MORAL QUE EJECUTE LA OBRA;
+
+D) FECHA DE INICIO DE CADA ETAPA DE LA OBRA.
+
+E) PROCEDIMIENTOS GENERALES DE CONSTRUCCION Y DE CONTROL DE CALIDAD;
+
+F) MATERIALES EMPLEADOS PARA FINES ESTRUCTURALES O DE SEGURIDAD;
+
+G) DESCRIPCION DE LOS DETALLES DEFINIDOS DURANTE LA EJECUCION DE LA OBRA;
+
+H) INCIDENTES Y ACCIDENTES;
+
+I) OBSERVACIONES E INSTRUCCIONES ESPECIALES DEL RESPONSABLE DE OBRA Y DEL SUPERVISOR DEL AYUNTAMIENTO.
+
+VIII. CUANDO EL AYUNTAMIENTO REVISE EL PROYECTO U OBRA Y SE ENCUENTRE QUE ES NECESARIO HACER MODIFICACIONES, EL RESPONSABLE DE OBRA ESTARA OBLIGADO A REALIZARLOS POR SU CUENTA, SI EL PROYECTO NO SE AJUSTA A LAS DISPOSICIONES DE ESTE REGLAMENTO O SI LA CONSTRUCCION NO CUMPLE CON EL PROYECTO AUTORIZADO.
+
+IX. COLOCAR EN UN LUGAR VISIBLE DE LA OBRA UN LETRERO CON SU NOMBRE Y SUS NUMEROS DE REGISTRO, NUMERO DE LICENCIA DE LA OBRA, ALINEAMIENTO Y NUMERO OFICIAL;
+
+X. RESPONDER POR PERJUICIOS QUE POR NEGLIGENCIA, IMPERICIA O DOLO CON MOTIVO DE LAS OBRAS QUE VIGILE, SE CAUSE A BIENES PROPIOS DEL MUNICIPIO O A LOS DEL SERVICIO PUBLICO QUE MANEJE EL MISMO;
+
+XI. NOTIFICAR AL AYUNTAMIENTO EL RETIRO DE SU VIGILANCIA COMO RESPONSABLES DE OBRA A UNA CONSTRUCCION AUTORIZADA, EXPONIENDO LOS MOTIVOS DE LA DETERMINACION. EL AYUNTAMIENTO PROCEDERA A LA SUSPENSION DE LA OBRA EN TANTO SE DESIGNE UN NUEVO RESPONSABLE DE OBRA EN SU CASO
+
+XII. ENTREGAR AL PROPIETARIO, LOS PLANOS REGISTRADOS Y ACTUALIZADOS DEL PROYECTO COMPLETO EN ORIGINAL; ASI COMO LA MEMORIA DE CALCULO EN CASO DE QUE LO AMERITE.
+
+XIII. REFRENDAR SU REGISTRO DE RESPONSABLE DE OBRA CADA AÑO.
+
+LOS RESPONSABLES DE OBRA PASARAN PERSONALMENTE A LAS OFICINAS DEL AYUNTAMIENTO A REGISTRAR SU FIRMA Y DOMICILIO DE INMEDIATO A LA ACREDITACION SEÑALADA ANTERIORMENTE; EN CASO DE CAMBIO DE DOMICILIO, DEBERA NOTIFICARLO AL AYUNTAMIENTO DENTRO DE LOS OCHO DIAS SIGUIENTES.
+
+###### ARTICULO 224.
+
+CORRESPONSABLE ES LA PERSONA FISICA CON LOS CONOCIMIENTOS TECNICOS ADECUADOS PARA RESPONDER EN FORMA SOLIDARIA CON EL RESPONSABLE DE OBRA EN TODOS LOS ASPECTOS DE LAS OBRAS EN LAS QUE SE OTORGUE SU RESPONSIVA, RELATIVOS A LA SEGURIDAD ESTRUCTURAL, DISEÑO URBANO Y ARQUITECTONICO E INSTALACIONES.
 
 ###### ARTICULO 121.
 
-Los ayuntamientos, con apoyo, en su caso, del organismo referido en el artículo 104 Bis de este Ordenamiento, planearán sus actividades en un Plan Municipal de Desarrollo, que deberá elaborarse y publicarse en un plazo no mayor de cuatro meses a partir de la instalación del ayuntamiento.
+CUANDO UNA EDIFICACION O UN PREDIO SE UTILICE TOTAL O PARCIALMENTE PARA USO DIFERENTE AL ESTABLECIDO EN EL PROGRAMA, PARA EL CAMBIO DE USO QUE ESTABLECE EL ARTICULO 82 DE ESTE REGLAMENTO, LA DIRECCION Y EL AYUNTAMIENTO ORDENARAN CON BASE EN EL DICTAMEN TECNICO LO SIGUIENTE:
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2002)</small>
+I. LA RESTITUCION DE INMEDIATO AL USO APROBADO, SI ESTO PUEDE HACERSE SIN LA NECESIDAD DE EJECUTAR OBRAS.
 
-La vigencia del Plan no excederá del período constitucional que le corresponde; este programa debe ser congruente con el Plan Estatal de Desarrollo.
+II. LA EJECUCION DE OBRAS, ADAPTACIONES, INSTALACIONES Y OTROS TRABAJOS QUE SEAN NECESARIOS PARA EL CORRECTO FUNCIONAMIENTO DEL INMUEBLE Y RESTITUCION AL USO APROBADO DENTRO DEL PLAZO QUE PARA ELLO SE SEÑALE.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2005)</small>
+### CAPITULO TERCERO. RESPONSABILIDADES Y SANCIONES
 
-Dentro de los dos meses siguientes a su toma de posesión, los ayuntamientos convocarán a foros de consulta popular y, tomando en consideración sus resultados, propondrán a través del Comité de Planeación del Desarrollo Estatal, los objetivos y prioridades municipales que deban incorporarse al Plan Estatal de Desarrollo. En lo aplicable, los ayuntamientos deberán sujetarse a lo dispuesto por la Ley de Planeación del Estado y Municipios de San Luis Potosí.
+###### ARTICULO 225.
 
-> <small>(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
+LAS FUNCIONES Y RESPONSABILIDADES DEL RESPONSABLE DE OBRA, EN CUANTO A LA TERMINACION DE LA RESPONSIVA PROFESIONAL, SE SUJETARA A LO SIGUIENTE:
 
-### CAPITULO III. Del Ejercicio del Gasto Público
+I. LAS FUNCIONES DEL RESPONSABLE DE OBRA EN AQUELLAS OBRAS PARA LAS QUE HAYAN DADO SU RESPONSIVA TERMINARAN:
+
+A) CUANDO OCURRA CAMBIO, ABANDONO O RETIRO DEL RESPONSABLE DE OBRA DE QUIEN PRESTE LOS SERVICIOS PROFESIONALES CORRESPONDIENTES, SE DEBERA LEVANTAR UN ACTA POR UNA PERSONA DESIGNADA POR EL AYUNTAMIENTO Y POR EL PROPIETARIO DE LA OBRA.
+
+EL AYUNTAMIENTO ORDENARA LA SUSPENSION DE LA OBRA:
+
+A) CUANDO EL RESPONSABLE DE OBRA NO SEA SUSTITUIDO EN FORMA INMEDIATA Y NO SE PERMITIRA LA REANUDACION HASTA EN TANTO NO SE DESIGNE UN NUEVO RESPONSABLE.
+
+B) CUANDO NO HAYA REFRENDADO SU CALIDAD DE RESPONSABLE. EN ESTE CASO, SE SUSPENDERA (SIC) LAS OBRAS EN PROCESO DE EJECUCION, POR LAS QUE HAYA DADO SU RESPONSIVA; Y
+
+C) CUANDO EL AYUNTAMIENTO AUTORICE LA OCUPACION DE LA OBRA.
+
+EL TERMINO DE LAS FUNCIONES DEL RESPONSABLE DE OBRA NO LOS EXIME DE LA RESPONSABILIDAD DE CARACTER CIVIL, PENAL O ADMINISTRATIVA QUE PUDIERAN DERIVARSE DE SU INTERVENCION EN LA OBRA PARA LA CUAL HAYA OTORGADO SU RESPONSIVA.
+
+PARA LOS EFECTOS DEL PRESENTE REGLAMENTO, LA RESPONSABILIDAD DE CARACTER ADMINISTRATIVO DE LOS RESPONSABLES DE OBRA, TERMINARA A LOS CINCO AÑOS CONTADOS A PARTIR DE LA FECHA EN QUE SE EXPIDA LA AUTORIZACION DE USO Y OCUPACION A QUE SE REFIERE EL ARTICULO 107 DE ESTE REGLAMENTO, A PARTIR DE LA FECHA EN QUE, EN SU CASO, SE CONCEDE EL REGISTRO PREVIO POR EL ARTICULO 93 DE ESTE REGLAMENTO, CUANDO SE TRATE DE OBRAS EJECUTADAS SIN LICENCIA O A PARTIR DEL MOMENTO EN QUE FORMALMENTE HAYA DEJADO DE SER EL RESPONSABLE DE OBRA CORRESPONDIENTE.
+
+###### ARTICULO 226.
+
+EL AYUNTAMIENTO PODRA DETERMINAR LA SUSPENSION DE LOS EFECTOS DE SU REGISTRO A UN RESPONSABLE DE OBRA EN LOS SIGUIENTES CASOS:
+
+I. CUANDO HAYA OBTENIDO SU INSCRIPCION, PROPORCIONANDO DATOS FALSOS O CUANDO DOLOSAMENTE PRESENTE DOCUMENTOS FALSIFICADOS O EN FORMACION EQUIVOCADA EN LA SOLICITUD DE LICENCIAS O EN SUS ANEXOS.
+
+II. CUANDO, A JUICIO DE LA COMISION DE ADMISION DE RESPONSABLES DE OBRA NO HUBIERA CUMPLIDO SUS OBLIGACIONES EN LOS CASOS EN QUE HAYA DADO SU RESPONSIVA PROFESIONAL.
+
+III. CUANDO HAYA REINCIDIDO EN VIOLACIONES EN ESTE REGLAMENTO.
+
+LA SUSPENSION SE DECRETARA POR UN MINIMO DE TRES MESES HASTA UN MAXIMO DE DOCE MESES, EN CASO EXTREMO PODRA SER CANCELADO EL REGISTRO SIN PERJUICIO DE QUE EL RESPONSABLE DE OBRA SUBSANE LAS IRREGULARIDADES EN QUE HAYA INCURRIDO.
 
 ###### ARTICULO 122.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+LOS PROPIETARIOS DE EDIFICACIONES TIENEN LA OBLIGACION DE CONSERVARLAS EN BUENAS CONDICIONES DE ESTABILIDAD, SERVICIO, ASPECTO E HIGIENE Y DE EVITAR QUE SE CONVIERTAN EN MOLESTIA O PELIGRO PARA LAS PERSONAS O LOS BIENES.
+
+LOS PREDIOS NO EDIFICADOS DEBERAN ESTAR LIBRES DE ESCOMBROS Y BASURA, Y DRENADOS ADECUADAMENTE.
 
 ###### ARTICULO 123.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+EL PROYECTO ARQUITECTONICO ES EL ELEMENTO FISICO AL QUE HACE REFERENCIA ESTE REGLAMENTO, Y QUE SE CLASIFICAN EN LOCALES HABITABLES (VIVIENDAS), LOCALES COMPLEMENTARIOS, OFICINAS, COMERCIO, HOSPITALES, CLINICAS Y CENTROS DE SALUD, ASISTENCIA SOCIAL, EDUCACION, INSTALACIONES PARA EXHIBICIONES, CENTROS DE INFORMACION, ESPACIOS RELIGIOSOS, DEPORTIVOS, ENTRETENIMIENTO Y RECREACION, VESTIBULOS, CENTRO SOCIAL, ALOJAMIENTO, TRANSPORTES TERRESTRES (TERMINALES Y ESTACIONES) Y ESTACIONAMIENTOS.
 
 ###### ARTICULO 124.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+PARA GARANTIZAR LAS CONDICIONES DE HABITABILIDAD, FUNCIONAMIENTO, HIGIENE, ACONDICIONAMIENTO AMBIENTAL, COMUNICACION, SEGURIDAD EN EMERGENCIAS, SEGURIDAD ESTRUCTURAL, INTEGRACION AL CONTEXTO E IMAGEN URBANA DE LAS EDIFICACIONES EN EL MUNICIPIO, LOS PROYECTOS ARQUITECTONICOS CORRESPONDIENTES DEBERAN CUMPLIR LOS REQUERIMIENTOS ESTABLECIDOS EN ESTE (SIC) TITULOS SEXTO Y SEPTIMO DE ESTE REGLAMENTO, ASI COMO A LAS NORMAS TECNICAS OFICIALES MEXICANAS CORRESPONDIENTES.
 
 ###### ARTICULO 125.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+SE CONSIDERA VIVIENDA MINIMA LA QUE TENGA CUANDO MENOS, UNA PIEZA HABITABLE Y SERVICIO COMPLETO DE COCINA Y BAÑO, O BIEN, NO EXCEDA LOS 40.00 METROS CUADRADOS, DE CONSTRUCCION.
 
 ###### ARTICULO 126.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+LOS ELEMENTOS ARQUITECTONICOS QUE CONSTITUYEN UN PERFIL DE UNA FACHADA, TALES COMO PILASTRAS, MARCOS DE PUERTAS Y VENTANAS, SITUADOS A UNA ALTURA MENOR DE 2.75 METROS SOBRE EL NIVEL DE BANQUETA, PODRAN SOBRESALIR DEL ALINEAMIENTO HASTA 0.10 METROS, ESTOS MISMOS ELEMENTOS SITUADOS A UNA ALTURA MAYOR, PODRAN SOBRESALIR HASTA 0.20 METROS.
+
+LOS BALCONES SITUADOS A MAYOR ALTURA DE LA MENCIONADA, PODRAN SOBRESALIR DEL ALINEAMIENTO HASTA 1.00 METRO (SIC), PERO AL IGUAL QUE TODOS LOS ELEMENTOS ARQUITECTONICOS, DEBERAN AJUSTARSE A LAS RESTRICCIONES SOBRE DISTANCIAS A LINEAS DE TRANSMISION QUE SEÑALEN LAS NORMAS SOBRE OBRAS E INSTALACIONES ELECTRICAS APLICABLES.
+
+TODOS LOS ELEMENTOS DE LA MARQUESINA DEBERAN ESTAR SITUADOS A UNA ALTURA MAYOR DE 2.75 METROS, SOBRE EL NIVEL DE LA BANQUETA.
 
 ###### ARTICULO 127.
 
-La aplicación de recursos federales o estatales transferidos al Ayuntamiento según leyes y convenios, a gastos municipales distintos a los previstos, dará lugar a responsabilidad de quienes ordenen la desviación y de los que la consientan.
+LOS EDIFICIOS DE HABITACION PLURIFAMILIAR DEBERAN APEGARSE A LA LEY DE CONDOMINIOS VIGENTE.
 
 ###### ARTICULO 128.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+CUANDO EL PROYECTO DE UNA EDIFICACION SE LOCALICE EN UNA ESQUINA DE DOS CALLES DE ANCHO DIFERENTE, LA ALTURA MAXIMA DE LA EDIFICACION PODRA SER IGUAL A LA QUE CORRESPONDE AL ARROYO DE LA CALLE MAS ANCHA.
 
 ###### ARTICULO 129.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+LAS EDIFICACIONES DEBERAN CONTAR CON LOS ESPACIOS PARA ESTACIONAMIENTO DE VEHICULOS DE ACUERDO A LAS DISPOSICIONES ESTABLECIDAS EN EL SISTEMA NORMATIVO DE EQUIPAMIENTO URBANO DE LA SEDESOL.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
+### CAPITULO PRIMERO. DE LAS PROHIBICIONES EN ZONAS VULNERABLES Y DE RIESGO
 
-### CAPITULO IV. De la Contabilidad Municipal
+###### ARTICULO 227.
+
+EL AYUNTAMIENTO APLICARA LO ESTABLECIDO EN EL PROGRAMA SOBRE LAS RESTRICCIONES EN LAS ZONAS DE RIESGO Y VULNERABILIDAD QUE JUZGUE NECESARIAS PARA LA CONSTRUCCION O PARA USOS DE BIENES INMUEBLES YA SEA EN FORMA GENERAL, EN FRACCIONAMIENTOS, EN LUGARES O PREDIOS ESPECIFICOS Y LOS HARA CONSTAR EN LOS PERMISOS, LICENCIAS O CONSTANCIAS DE ALINEAMIENTO O ZONIFICACION QUE EXPIDA, QUEDANDO LOS PROPIETARIOS O POSEEDORES DE LOS INMUEBLES OBLIGADOS A RESPETARLAS, TANTO PARA CONSTRUCCIONES PUBLICAS COMO PRIVADAS.
+
+###### ARTICULO 228.
+
+LAS OPINIONES Y DISPOSICIONES ESTABLECIDAS POR LAS DEPENDENCIAS ESTATALES O MUNICIPALES DE PROTECCION CIVIL SERAN DETERMINANTES EN LAS ZONAS QUE SEAN CONSIDERADAS VULNERABLES O REPRESENTEN ALGUN TIPO DE RIESGO.
+
+###### ARTICULO 229.
+
+LAS CONSTRUCCIONES SERAN AUTORIZADAS DE MANERA CONDICIONADA EN LOS TERRENOS CON PENDIENTES MAYORES DE 15% Y HASTA LA COTA 960 M.S.N.M., EN CONFORMIDAD CON LAS ESTIPULACIONES DEL PROGRAMA, EN TERRENOS UBICADOS EN COTAS MAYORES SERAN NEGADAS LAS AUTORIZACIONES.
+
+###### ARTICULO 230.
+
+NO SE AUTORIZARAN LAS CONSTRUCCIONES EN ZONAS CONSIDERADAS COMO INUNDABLES POR EL PROGRAMA Y POR LAS DEPENDENCIAS ESTATALES O MUNICIPALES DE PROTECCION CIVIL, COMPRENDIENDO LOS TERRENOS UBICADOS EN ZONAS BAJAS, RIBERAS DE RIOS Y EN CAUCES INTERMITENTES Y SECOS.
+
+###### ARTICULO 231.
+
+SE LIMITARAN LAS CONSTRUCCIONES EN TERRENOS UBICADOS EN CERROS, MONTAÑAS Y LOMERIOS, DE ACUERDO A LO DISPUESTO POR EL PROGRAMA Y A LAS OPINIONES DE LAS DEPENDENCIAS ESTATALES O MUNICIPALES DE PROTECCION CIVIL
 
 ###### ARTICULO 130.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+TODO ESTACIONAMIENTO PUBLICO DEBERA ESTAR DRENADO ADECUADAMENTE Y BARDADO (SIC) EN SUS COLINDANCIAS CON LOS PREDIOS VECINOS.
 
 ###### ARTICULO 131.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+LAS EDIFICACIONES QUE NO CUENTEN CON ESPACIOS PARA EL TOTAL DE CAJONES DE ESTACIONAMIENTO REQUERIDO, PODRAN UBICARLOS EN OTRO PREDIO, SIEMPRE Y CUANDO NO SE ENCUENTRE A UNA DISTANCIA MAYOR DE 150.00 METROS Y NO SE ATRAVIESEN VIALIDADES PRIMARIAS PARA LLEGAR A EL; LOS PROPIETARIOS DE DICHAS EDIFICACIONES, DEBERAN COMPROBAR QUE TAMBIEN SON PROPIETARIOS DEL PREDIO SEÑALADO, MEDIANTE ESCRITURA PUBLICA O TITULO DE PROPIEDAD INSCRITO EN EL REGISTRO PUBLICO DE LA PROPIEDAD.
 
 ###### ARTICULO 132.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+EL AYUNTAMIENTO PODRA EXIGIR QUE UNA EDIFICACION DESTINADA A EQUIPAMIENTO URBANO, SE AJUSTE A LAS DISPOSICIONES SEÑALADAS EN EL SISTEMA NORMATIVO DE EQUIPAMIENTO URBANO DE LA SEDESOL Y EN LAS NORMAS DE CONSTRUCCION RELATIVAS.
 
 ###### ARTICULO 133.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+LA SALIDA DE EMERGENCIA ES EL SISTEMA DE PUERTAS, CIRCULACIONES HORIZONTALES, ESCALERAS Y RAMPAS QUE CONDUCEN A LA VIA PUBLICA O AREAS EXTERIORES COMUNICADAS DIRECTAMENTE CON ESTA, ADICIONAL A LOS ACCESOS DE USO NORMAL, QUE SE REQUIERAN, CUANDO LAS EDIFICACIONES SEAN DE RIESGO MAYOR; MISMAS QUE ESTARAN SEÑALADAS CON LETREROS Y FLECHAS MENCIONANDO LA LEYENDA «SALIDA DE EMERGENCIA».
 
 ###### ARTICULO 134.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+CON OBJETO DE QUE TODAS LAS INSTALACIONES Y SERVICIOS DEL AMBITO URBANO SEAN ACCESIBLES A LAS PERSONAS CON PROBLEMAS DE DISCAPACIDAD, SE DEBERAN OBSERVAR LOS LINEAMIENTOS QUE SE REFIEREN A LOS SIGUIENTES ASPECTOS:
+
+I. ESTACIONAMIENTOS.
+
+II. SENDEROS PEATONALES.
+
+III. CIRCULACIONES VERTICALES.
+
+IV. PREVICIONES ESPECIALES EN AREAS PUBLICAS.
+
+V. SEÑALIZACION.
+
+VI. SIMBOLOGIA EN LA SEÑALIZACION.
 
 ###### ARTICULO 135.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+SE DEBERA PREVER UNA CLARA SEÑALIZACION EN TODOS LOS LUGARES DESTINADOS PARA EL USO DE PERSONAS CON DISCAPACIDAD: DE TIPO LOCOMOTOR VISUAL, AUDITIVA Y TACTIL, QUE FACILITE EL LIBRE TRANSITO Y SU EVACUACION; TALES COMO CAJONES DE ESTACIONAMIENTO, RAMPAS, ELEVADORES, SANITARIOS Y TELEFONOS.
 
 ###### ARTICULO 136.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+LA SIMBOLOGIA Y DISEÑO GRAFICO PARA REALIZAR ESTOS SEÑALAMIENTOS DEBERAN SEGUIR CODIGOS ACEPTADOS INTERNACIONALMENTE, DEBIENDO SER ELABORADOS CON MATERIALES RESISTENTES A LA INTEMPERIE, CUANDO SEA EL CASO, Y SUJETOS A UN MANTENIMIENTO ADECUADO.
 
 ###### ARTICULO 137.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+EL AYUNTAMIENTO ESTABLECERA LAS CARACTERISTICAS Y NORMAS PARA LA CONSTRUCCION DE RAMPAS EN GUARNICIONES Y ACERAS PARA LA ENTRADA DE VEHICULOS Y DE SERVICIOS A PERSONAS CON DISCAPACIDAD, Y ORDENARA EL USO DE RAMPAS MOVILES CUANDO CORRESPONDA.
 
 ###### ARTICULO 138.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+DEBERAN DESTINARSE ZONAS DE ESTACIONAMIENTO RESERVADO EXCLUSIVAMENTE A LOS VEHICULOS DE LAS PERSONAS CON DISCAPACIDAD, CON LAS SIGUIENTES CARACTERISTICAS:
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
+I. LA SUPERFICIE DESTINADA EN ESTACIONAMIENTOS NO DEBE SER INFERIOR AL 5% DE LA TOTAL.
 
-### CAPITULO I. De las Modalidades en su Prestación
+II. ES NECESARIO QUE ESTOS ESPACIOS SE UBIQUEN LO MAS CERCA POSIBLE DE LA ENTRADA PRINCIPAL. SE COLOCARA SEÑALIZACION APROPIADA PARA INDICAR LA ZONA RESERVADA.
+
+### CAPITULO SEGUNDO. PREVENCIONES SISMICAS
+
+###### ARTICULO 232.
+
+DADA LA UBICACION DEL MUNICIPIO EN UNA ZONA SISMICA DEBERAN CONSIDERARSE LOS METODOS DE ANALISIS Y REQUISITOS EXIGIDOS POR LAS NORMAS OFICIALES EN EL DISEÑO SISMICO.
+
+###### ARTICULO 233.
+
+EL PROYECTO ARQUITECTONICO DE REFERENCIA PERMITIRA UNA ESTRUCTURACION REGULAR QUE CUMPLA CON LO (SIC) REQUISITOS QUE SE ESTABLEZCAN EN LAS NORMAS TECNICAS OFICIALES MEXICANAS CORRESPONDIENTES DE DISEÑO SISMICO.
+
+LAS CONSTRUCCIONES QUE NO CUMPLAN CON DICHA CONDICION DE REGULARIDAD SERAN DISEÑADAS PARA CONDICIONES SISMICAS MAS SEVERAS, EN LA FORMA EN QUE LO ESPECIFIQUEN LAS NORMAS CORRESPONDIENTES.
+
+###### ARTICULO 234.
+
+CLASIFICACION DE LAS CONSTRUCCIONES SEGUN SU DESTINO. PARA FINES DE ANALISIS SISMICOS LAS ESTRUCTURAS SE CLASIFICAN EN LOS SIGUIENTES GRUPOS:
+
+GRUPO A.- ESTRUCTURAS QUE SEAN ESPECIALMENTE IMPORTANTES A RAIZ DE UN SISMO O QUE EN CASO DE FALLAR CAUSARIAN PERDIDAS DIRECTAS O INDIRECTAS EXCEPCIONALMENTE ALTAS, EN COMPARACION CON EL COSTO NECESARIO PARA AUMENTAR SU SEGURIDAD. TAL ES EL CASO DE LAS SUBESTACIONES ELECTRICAS, CENTRALES TELEFONICAS, ESTACIONES DE BOMBEROS, ARCHIVOS Y REGISTROS PUBLICOS, HOSPITALES, ESCUELAS, ESTADIOS, AUDITORIOS, TEMPLOS, SALAS DE ESPECTACULOS, ESTACIONES TERMINALES DE TRANSPORTE, MONUMENTOS, MUSEOS Y LOCALES QUE ALOJAN EQUIPO ESPECIALMENTE COSTOSO EN RELACION CON LA ESTRUCTURA.
+
+GRUPO B.- ESTRUCTURA CUYA FALLA OCASIONARIAN (SIC) PERDIDAS DE MAGNITUD INTERMEDIA TALES COMO: PLANTAS INDUSTRIALES, BODEGAS ORDINARIAS, GASOLINERAS, COMERCIOS, BANCOS, RESTAURANTES, CASAS HABITACION, HOTELES, EDIFICIOS DE APARTAMENTOS Y OFICINAS, BARDAS CUYA ALTURA EXCEDE DE 2.50 METROS Y TODAS AQUELLAS ESTRUCTURAS CUYA FALLA POR MOVIMIENTOS SISMICOS PUEDA PONER EN PELIGRO OTRAS CONSTRUCCIONES DE ESTE GRUPO O DEL A.
+
+GRUPO C.- ESTRUCTURAS CUYA (SIC) FALLAS POR SISMO IMPLICARIA UN COSTO PEQUEÑO Y NO PUEDA NORMALMENTE CAUSAR DAÑOS A CONSTRUCCIONES DE LOS PRIMEROS GRUPOS. SE INCLUYEN EN EL PRESENTE GRUPO, BARDAS CON ALTURA DE 2.50 METROS Y BODEGAS PROVISIONALES PARA CONSTRUCCION DE OBRAS PEQUEÑAS.
+
+###### ARTICULO 235.
+
+TANTO LA ESTRUCTURA COMO LA CIMENTACION DEBERAN TENER LA CAPACIDAD DE RESISTIR LAS FUERZAS CORTANTES, MOMENTOS TORSIONANTES DE ENTREPISO Y MOMENTOS DE VOLTEO INDUCIDOS POR SISMO, COMBINADOS CON LOS QUE CORRESPONDAN AL FACTOR CARGA, COMO SE ESPECIFICAN EN LAS NORMAS OFICIALES. SE VERIFICARA QUE LAS FUERZAS CORTANTES TOTALES QUE OBRAN EN CADA PISO, NO EXCEDAN A LA SUMA DE LAS RESISTENCIAS AL CORTE DE LOS MUROS DE CARGA PROYECTADOS EN LA DIRECCION EN QUE SE CONSIDERA LA ACELERACION, DEBIENDOSE VERIFICAR EN DOS DIRECCIONES ORTOGONALES.
+
+###### ARTICULO 236.
+
+LAS DIFERENCIAS ENTRE LOS DESPLAZAMIENTOS LATERALES DE PISOS CONSECUTIVOS DEBIDOS A LAS FUERZAS CORTANTES HORIZONTALES, CALCULADAS MEDIANTE LOS METODOS DE ANALISIS SISMICO, NO EXCEDERAN A 0.006 VECES LA DIFERENCIA DE LAS ELEVACIONES CORRESPONDIENTES, SALVO QUE LOS ELEMENTOS INCAPACES DE SOPORTAR DEFORMACIONES APRECIABLES, COMO MUROS DE MAMPOSTERIA ESTEN SEPARADOS DE LA ESTRUCTURA PRINCIPAL DE MANERA QUE NO SUFRAN DAÑOS POR LAS DEFORMACIONES DE ESTA, EN TAL CASO, EL LIMITE EN CUESTION SERA DE 0.006
+
+###### ARTICULO 237.
+
+SE DEBERAN ESTABLECER PRECAUCIONES CONTRA ROTURAS DE VIDRIOS, CONSIDERANDO QUE EN FACHADAS INTERIORES Y EXTERIORES, LOS VIDRIOS DE LAS VENTANAS SE COLOCARAN EN SUS MARCOS DEJANDO ALREDEDOR DE CADA PANEL UNA HOLGURA DE, CUANDO MENOS, LA MITAD DEL DESPLAZAMIENTO HORIZONTAL RELATIVO ENTRE SUS EXTREMOS, CALCULADO A PARTIR DE LA DEFORMACION POR FUERZA CORTANTE DEL ENTREPISO Y DIVIDIDO ENTRE (1 H/B); DONDE B ES LA BASE Y H LA ALTURA DEL TABLERO DE VIDRIO DE QUE SE TRATE.
+
+ESTA PRECAUCION PODRA SER OMITIDA CUANDO LOS MARCOS DE LA VENTANA ESTEN LIGADOS A LA ESTRUCTURA DE TAL MANERA QUE SUS DESPLAZAMIENTO (SIC) HORIZONTALES NO LO AFECTEN.
+
+###### ARTICULO 238.
+
+TODA CONSTRUCCION DEBERA SEPARARSE DE SUS LINDEROS CON LOS PREDIOS VECINOS UNA DISTANCIA NO MAYOR DE 0.05 METROS NI MENOR QUE EL DESPLAZAMIENTO HORIZONTAL CALCULADO PARA EL NIVEL DE QUE SE TRATE, EL DESPLAZAMIENTO HORIZONTAL CALCULADO SE OBTENDRA CON LAS FUERZAS SISMICAS REDUCIDAS SEGUN CRITERIOS QUE FIJAN LAS NORMAS TECNICAS OFICIALES MEXICANAS CORRESPONDIENTES.
+
+LA SEPARACION ENTRE CUERPOS DE UN MISMO EDIFICIO O ENTRE EDIFICIOS ADYACENTES SERA CUANDO MENOS IGUAL A LA SUMA DEL DESPLAZAMIENTO QUE DE ACUERDO CON EL PARRAFO PRECEDENTE CORRESPONDA A CADA UNO.
+
+SE ANOTARAN EN LOS PLANOS ARQUITECTONICOS Y EN LOS STRUCTURALES LAS SEPARACIONES QUE DEBEN DEJARSE EN LOS LINDEROS Y ENTRE CUERPOS DE UN MISMO EDIFICIO.
+
+LOS ESPACIOS ENTRE CONSTRUCCIONES COLINDANTES Y ENTRE CUERPOS DE UN MISMO EDIFICIO, DEBEN QUEDAR LIBRES DE TODO MATERIAL, SI SE USAN TAPAJUNTAS, ESTAS DEBEN PERMITIR LOS DESPLAZAMIENTOS RELATIVOS TANTO EN SU PLANO COMO PERPENDICULARMENTE A EL.
+
+SECCION (SIC) TERCERA
+
+PREVENCIONES POR VIENTOS
+
+###### ARTICULO 239.
+
+EN ESTA SECCION SE ESTABLECEN LAS BASES PARA LA REVISION DE LA SEGURIDAD Y LAS CONDICIONES DE SERVICIOS DE LAS ESTRUCTURAS ANTE LOS EFECTOS DEL VIENTO.
+
+###### ARTICULO 240.
+
+LOS DATOS SOBRE VIENTOS SON DETERMINANTES Y SE REQUIERE UNA VENTILACION QUE COMPENSE LA ALTA TEMPERATURA E INSOLACION. PARA EL ESTUDIO DE VIENTOS SE DEBE ELABORAR UNA CARTA DE LOS DATOS BIOCLIMATICOS EXISTENTES, EN LA CUAL SE INDIQUE LOS SIGUIENTES ASPECTOS:
+
+AREAS PROTEGIDAS POR EL VIENTO
+
+AREAS CON VIENTOS DIRECTOS FRECUENTES
+
+AREAS CON VIENTOS DISPERSOS
+
+FRECUENCIA DE VIENTOS
+
+PORCENTAJE DE CALMA
+
+###### ARTICULO 241.
+
+GENERALIDADES, LAS ESTRUCTURAS SE ANALIZARAN, SUPONIENDO QUE EL VIENTO ACTUA EN DOS DIRECCIONES ORTOGONALES, SIN CONSIDERAR LA PROTECCION QUE PUDIERAN DARLES LAS ESTRUCTURAS VECINAS. SE ACEPTA LA EXISTENCIA SIMULTANEA DEL VIENTO, LAS CARGAS MUERTAS Y LAS CARGAS VIVAS. NO SE CONSIDERARA LA ACCION SIMULTANEA DEL SISMO Y VIENTO.
+
+LOS ESFUERZOS PERMISIBLES BAJO LA ACCION DEL VIENTO, SE ESTIPULAN DE ACUERDO CON LOS MATERIALES USADOS COMO SE INDICAN EN LOS ARTICULOS CORRESPONDIENTES DE ESTE REGLAMENTO. EN EL CASO ESPECIFICO DEL CONCRETO REFORZADO ESTOS ESFUERZOS PODRAN SER INCREMENTADOS EN UN 30%.
+
+DESPUES DE ANALIZAR LA ESTABILIDAD GENERAL, SE REVISARAN LAS CONDICIONES NECESARIAS PARA GARANTIZAR LA ESTABILIDAD LOCAL, CONSIDERANDO EL EFECTO DE PRESIONES INTERIORES Y LOS INCREMENTOS DE PRESIONES EXTERIORES.
+
+###### ARTICULO 242.
+
+CLASIFICACION DE LAS CONSTRUCCIONES.
+
+SEGUN SU DESTINO LAS CONSTRUCCIONES SE CLASIFICAN EN LOS GRUPOS A, B Y C, QUE SE CONSIDERAN EN EL ANALISIS SISMICO. SEGUN SU RESPUESTA A LA ACCION DEL VIENTO, LAS CONSTRUCCIONES DEL MUNICIPIO SE CLASIFICAN DE ACUERDO LO SIGUIENTE:
+
+TIPO UNICO. CONSTRUCCIONES CUYO PERIODO FUNDAMENTAL DE VIBRACION ES INFERIOR A 0.7 SEG. DENTRO DE ESTE TIPO SE CONSIDERAN LAS CASAS, LOS EDIFICIOS HASTA 3 PISOS Y GENERALMENTE AQUELLAS CONSTRUCCIONES CUYA ALTURA SEA INFERIOR A 12.00 METROS.
+
+PARA EL CALCULO DEL PERIODO FUNDAMENTAL DE UNA ESTRUCTURA PUEDE SEGUIRSE EL METODO QUE APARECE EN EL ARTICULO CORRESPONDIENTE EN EL CAPITULO DE ANALISIS SISMICO.
+
+###### ARTICULO 243.
+
+DISEÑO. PARA DISEÑO DEBEN ANALIZARSE LOS SIGUIENTES ASPECTOS:
+
+1).- VELOCIDAD DE DISEÑO BASICO: SE TOMARA EN CUENTA EL FACTOR DE TOPOGRAFIA SEGUN SE TRATE DE TERRENO PLANO, ZONAS DE PROMONTORIOS, ZONAS DEL CENTRO DE LAS CIUDADES, ZONAS RESIDENCIALES, INDUSTRIAS, FACTOR DE FECUENCIA, SE TOMARA IGUAL A 1.15 EN CONSTRUCCIONES DEL GRUPO A, 1.00 EN CONSTRUCCIONES DEL GRUPO B. LAS CONSTRUCCIONES DEL GRUPO C, NO REQUIEREN ANALISIS POR VIENTO. LA VELOCIDAD REGIONAL EN KILOMETRO POR HORA SE TOMARA DEL MAPA DE ZONIFICACION DE VIENTOS, DE LAS NORMAS TECNICAS COMPLEMENTARIAS.
+
+2).- VARIACION DE LA VELOCIDAD DE DISEÑO CON LA ALTURA: PARA CONSTRUCCIONES ALTAS, TOMANDO EN CUENTA VELOCIDAD DEL VIENTO Y TOPOGRAFIA DEL TERRENO QUE RODEA LA CONSTRUCCION.
+
+3).- EMPUJES ESTATICOS DE VIENTO EN ESTRUCTURA TIPO UNICA: LAS FUERZAS RESULTANTES SE CALCULARAN MULTIPLICANDO LA PRESION DE DISEÑO POR EL AREA EXPUESTA EQUIVALENTE. EL AREA EXPUESTA SERA:
+
+A) EN SUPERFICIES PLANAS SERA EL AREA TOTAL DE LA SUPERFICIE.
+
+B) EN TECHOS EN FORMA DE DIENTES DE SIERRA, SERA LA TOTALIDAD DEL AREA DEL PRIMER DIENTE Y LA MITAD DEL AREA PARA CADA UNO DE LOS RESTANTES.
+
+C) PARA EL CALCULO DE LA SUCCION VERTICAL, LA PROYECCION HORIZONTAL DEL TECHO DE LA CONSTRUCCION.
+
+D) EN ESTRUCTURAS RETICULARES DEL TIPO DE ARMADURAS, 20% DEL AREA LIMITADA POR LAS ARISTAS EXTERIORES.
+
+E) EN CONSTRUCCIONES TIPO TORRE DE SECCION CIRCULAR, SE TOMARA LA PROYECCION VERTICAL DE LA SECCION TRANSVERSAL.
+
+4).- VOLTEO. SE VERIFICARA LA SEGURIDAD DE LAS CONSTRUCCIONES CONTRA VOLTEO CONSIDERANDO SIMULTANEAMENTE LA ACCION DE CARGAS VIVAS QUE TIENDEN A INCREMENTARLO.
+
+5).- COEFICIENTES DE EMPUJE. SE EVALUARA EL EFECTO DE LA PRESION EXTERIOR USANDO LOS COEFICIENTES QUE SE SEÑALAN EN LAS NORMAS TECNICAS COMPLEMENTARIAS, DE ESTE REGLAMENTO Y QUE SE REFIEREN PARA LOS SIGUIENTES CASOS.
+
+A) PAREDES RECTANGULARES VERTICALES.
+
+B) EDIFICIOS PRISMATICOS RECTANGULARES.
+
+C) CUBIERTAS DE DOS AGUAS.
+
+D) CUBIERTAS CON UNA SOLA AGUA.
+
+E) CUBIERTAS EN FORMA DE DIENTES DE SIERRA.
+
+F) ESTRUCTURAS CILINDRICAS.
+
+G) TRABES Y ARMADURAS.
+
+6).- EFECTOS DE TURBULENCIAS. LOS EFECTOS ESTATICOS Y DINAMICOS DEBIDOS A LAS TURBULENCIAS DEL VIENTO DEBERAN TOMARSE EN CUENTA EN CONSTRUCCIONES DEL TIPO UNICO.
+
+7).- EFECTO DE VORTICES ALTERNANTES. PARA CONSIDERAR ESTE EFECTO QUE GENERALMENTE SE PRESENTAN EN CILINDROS, SE ANALIZARA LA ESTRUCTURA SUPONIENDO LA EXISTENCIA DE UNA FUERZA HORIZONTAL QUE VARIA ARMONICAMENTE CON EL TIEMPO.
+
+###### ARTICULO 244.
+
+ANALISIS ESTRUCTURAL PARA EFECTO DE ANALISIS ESTRUCTURAL, DEBERA PROCEDERSE DE CONFORMIDAD CON EL METODO GENERAL, O EL METODO SIMPLIFICADO DE ANALISIS, SEÑALADOS EN LAS NORMAS TECNICAS COMPLEMENTARIAS. CUALQUIER OTRO PROCEDIMIENTO PRESENTARSE A LA APROBACION DE LA DIRECCION.
 
 ###### ARTICULO 139.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+EN LOS EDIFICIOS DE ESTACIONAMIENTOS SE DEBERAN PREVER CUATRO CAJONES RESERVADOS PARA VEHICULOS DE PERSONAS CON DISCAPACIDAD, UBICADOS AL FRENTE DE LOS ELEVADORES.
+
+SI NO EXISTEN ELEVADORES, SE DEBERA PREVER UN CAJON RESERVADO POR CADA 25 VEHICULOS SEGUN LA CAPACIDAD DEL ESTACIONAMIENTO; LOS CAJONES RESERVADOS DEBERAN ESTAR UBICADOS EN EL NIVEL DE ACCESO AL EDIFICIO PROCURANDO QUE EVITE EL USO DE ESCALERAS.
+
+LOS CAJONES DE ESTACIONAMIENTO RESERVADOS PARA VEHICULOS DE PERSONAS CON DISCAPACIDAD, DEBERAN TENER UN ANCHO MINIMO DE 3.80 METROS Y ESTAR CLARAMENTE SEÑALIZADOS PARA SU USO EXCLUSIVO.
 
 ###### ARTICULO 140.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
+TODAS LAS RUTAS O SENDEROS PEATONALES, SEAN BANQUETAS, ANDADORES O PASAJES DEBERAN CUMPLIR CON LOS SIGUIENTES LINEAMIENTOS:
 
-## TITULO OCTAVO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
+A. CONTAR EN LOS PUNTOS DE CRUCE CON LOS ARROYOS VEHICULARES CON RAMPAS ESPECIALES PARA SILLAS DE RUEDAS. ESTAS RAMPAS DEBERAN OBSERVAR LAS SIGUIENTES DIMENSIONES MINIMAS:
 
-### CAPITULO II. De la Seguridad Pública y Tránsito
+I. ANTES DE INICIAR LA RAMPA, SOBRE LA BANQUETA, DEBERA HABER UN MINIMO DE 0.90 METROS A NIVEL.
+
+II. EL ANCHO MINIMO DE LAS RAMPAS SERA DE 1.20 METROS.
+
+III. LA PENDIENTE DE LA RAMPA SERA DE 8% COMO MAXIMO, PARA SALVAR EL DESNIVEL DE LA GUARNICION DE UNA ALTURA MAXIMA DE 0.15 METROS.
+
+IV. EL ACABADO DEL PAVIMENTO DE LA RAMPA DEBERA SER TERSO PERO NO RESBALADIZO.
+
+B. EN LOS PASOS PEATONALES A DESNIVEL SUBTERRANEOS, SE DEBERA PREVER SU ACCESO TANTO POR MEDIO DE LAS ESCALERAS COMO POR RAMPAS. LAS RAMPAS EN ESTOS CASOS DEBERAN TENER UNA PENDIENTE DEL 12%.
+
+C. EN LOS ANDADORES PEATONALES SE DEBERA PREVER QUE EXISTAN AREAS DE DESCANSO AL MENOS A CADA 50.0 METROS DE DISTANCIA, QUE NO INTERFIERAN CON LA CIRCULACION PEATONAL Y
+
+D. LA PENDIENTE MAXIMA EN LOS ANDADORES SERA DEL 8%.
+
+## TITULO OCTAVO. PADRON DE RESPONSABLES DE OBRA
+
+### CAPITULO PRIMERO. VISITAS DE INSPECCION
+
+###### ARTICULO 245.
+
+LAS DISPOSICIONES DE ESTE TITULO SE APLICARAN EN LA REALIZACION DE ACTOS DE INSPECCION, DETERMINACION DE SANCIONES Y RECURSOS Y CORRESPONDERA AL AYUNTAMIENTO APLICAR LO DISPUESTO EN EL PRESENTE TITULO.
+
+###### ARTICULO 246.
+
+LAS INSPECCIONES TENDRAN POR OBJETO VERIFICAR QUE LAS EDIFICACIONES Y LAS OBRAS DE CONSTRUCCION QUE SE ENCUENTREN EN PROCESO O TERMINADAS Y EL USO AUTORIZADO EN UN PREDIO, CUMPLAN CON LAS DISPOSICIONES DE LA LEY, ESTE REGLAMENTO Y DEMAS ORDENAMIENTOS JURIDICOS APLICABLES.
+
+###### ARTICULO 247.
+
+EL PERSONAL AUTORIZADO, AL REALIZAR LA NOTIFICACION SE IDENTIFICARA DEBIDAMENTE CON LA PERSONA CON QUIEN SE ENTIENDA LA DILIGENCIA (PROPIETARIO, POSEEDOR O ENCARGADO DE LA OBRA), EXHIBIRA NOTIFICACION RESPECTIVA Y LE ENTREGARA COPIA DE LA MISMA.
+
+EN CASO DE NEGATIVA SE HARA CONSTAR EN EL ACTA DE INSPECCION QUE AL EFECTO SE LEVANTE SIN QUE ESTA CIRCUNSTANCIA INVALIDE LOS EFECTOS DE LA INSPECCION.
+
+###### ARTICULO 248.
+
+EN TODA VISITA DE INSPECCION SE LEVANTARA ACTA, EN LA QUE SE HARA CONSTAR EN FORMA CIRCUNSTANCIADA, LOS HECHOS U OMISIONES QUE SE HUBIESEN PRESENTADO DURANTE LA DILIGENCIA.
+
+CONCLUIDA LA INSPECCION, SE DARA OPORTUNIDAD A LA PERSONA CON LA QUE SE ENTENDIO LA DILIGENCIA PARA MANIFESTAR LO QUE A SU DERECHO CONVENGA, EN RELACION CON LOS HECHOS ASENTADOS EN EL ACTA.
+
+A CONTINUACION SE PROCEDERA A FIRMAR EL ACTA POR LA PERSONA CON QUIEN SE ENTENDIO LA DILIGENCIA, POR LOS TESTIGOS Y POR EL PERSONAL AUTORIZADO, QUIENES ENTREGARAN COPIA DEL ACTA AL INTERESADO.
+
+SI LA PERSONA CON LA QUE SE ATENDIO LA DILIGENCIA O LOS TESTIGOS SE NEGARAN A FIRMAR EL ACTA, O BIEN EL INTERESADO A ACEPTAR COPIA DE LA MISMA, DICHAS CIRCUNSTANCIAS SE ASENTARAN EN ELLA, SIN QUE ESTA AFECTE SU VALIDEZ.
+
+###### ARTICULO 249.
+
+AL TERMINO DE LA INSPECCION, LOS ENCARGADOS DE LA MISMA DEBERAN FIRMAR EL LIBRO DE LA BITACORA DE LAS OBRAS EN PROCESO DE CONSTRUCCION, ANOTANDO LA FECHA DE SU VISITA Y SUS OBSERVACIONES.
 
 ###### ARTICULO 141.
 
-Los municipios organizarán y reglamentarán la administración, prestación, conservación y explotación en su caso, de los servicios públicos y funciones municipales, considerándose que tienen este carácter los siguientes:
+CUANDO EXISTAN CAMBIOS DE NIVEL EN LOS ESPACIOS EXTERIORES PUBLICOS, HACIENDOSE NECESARIO EL USO DE CIRCULACIONES VERTICALES, SE DEBERAN PREVER TANTO DE ESCALERAS CON PASAMANOS, COMO RAMPAS, ESTANDO ESTAS SUJETAS A LOS SIGUIENTES LINEAMIENTOS:
 
-I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
+I. EL ANCHO MINIMO DE LAS RAMPAS SERA DE 1.20 METROS Y SU PENDIENTE MAXIMA DE 12% EXCEPTO CUANDO EL DESNIVEL ES MENOR A 0.60 METROS EN DONDE LA PENDIENTE PODRA INCREMENTARSE HASTA UN 12%. CUANDO EXISTAN ELEVADORES PODRA PRESCINDIRSE DE RAMPAS.
 
-II. Alumbrado público;
-
-III. Limpia, recolección, traslado, tratamiento y disposición final de residuos;
-
-IV. Mercados y centrales de abasto;
-
-V. Panteones;
-
-VI. Rastros;
-
-VII. Calles, parques y jardines, y su equipamiento;
-
-VIII. Seguridad pública en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito;
-
-IX. Cultura, recreación y deporte, y
-
-X. Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de los municipios, y en atención a su capacidad administrativa y financiera, pudiendo tener el concurso del Estado respecto de los mismos cuando así fuere necesario y lo determinen las leyes.
-
-En el desempeño de las funciones y la prestación de los servicios públicos a su cargo, los municipios deberán observar lo dispuesto en las leyes federales y estatales, sin perjuicio de su competencia constitucional.
+II. EN LAS ESCALINATAS EXTERIORES DEBERA DOTARSE DE UN DESCANSO CADA 1.20 METROS DE DESNIVEL, Y EN ESCALERAS INTERIORES SERA CADA 1.80 METROS DE DESNIVEL.
 
 ###### ARTICULO 142.
 
-La prestación de los servicios públicos y funciones municipales será responsabilidad de los ayuntamientos, y podrá ser realizada por sí o a través de organismos paramunicipales o intermunicipales, y de concesionarios o contratistas.
+EN ACCESOS A EDIFICIOS PUBLICOS EN LOS CUALES EXISTAN CAMBIOS DE NIVEL DESDE LA BANQUETA O ESCALERAS HACIA EL INTERIOR, SE DEBERAN PREVER RAMPAS CON LAS SIGUIENTES CARACTERISTICAS:
+
+I. ANTES DE INICIAR LA RAMPA, SOBRE LA BANQUETA, DEBERA HABER UN MINIMO DE 0.90 METROS A NIVEL.
+
+II. EL ANCHO MINIMO DE LAS RAMPAS SERA DE 0.90 METROS.
+
+III. LA PENDIENTE DE LA RAMPA SERA DEL 12% COMO MAXIMO, EXCEPTO CUANDO EL DESNIVEL ES MENOR A 0.60 METROS EN DONDE LA PENDIENTE PODRA INCREMENTARSE HASTA UN 12%.
+
+IV. DEBERA DOTARSE DE UN DESCANSO CADA METRO DE DESNIVEL. DICHO DESCANSO SERA DE UN ANCHO MINIMO DE 0.90 METROS Y UN LARGO DE 1.20 METROS COMO MINIMO.
 
 ###### ARTICULO 143.
 
-Cuando las funciones y servicios públicos municipales sean prestados en forma parcial o total, por organismos paramunicipales o intermunicipales, o concesionarios o contratistas, se sujetarán a las disposiciones legales aplicables.
+ES NECESARIO CONSIDERAR ALTURAS ADECUADAS PARA EL ACCESO EN LA SILLA DE RUEDAS A TELEFONOS PUBLICOS Y BUZONES, A FIN DE PERMITIR A LAS PERSONAS CON DISCAPACIDAD UN COMPLETO DESENVOLVIMIENTO, Y DEBERA CONSIDERAR ADEMAS QUE:
+
+I. EL MOBILIARIO URBANO CONTEMPLE LA ADAPTACION EN SU DISEÑO Y CONSTRUIRSE PARA PERSONAS CON CAPACIDADES DIFERENTES.
+
+II. LA ALTURA DE TELEFONOS Y BUZONES SERA DE 0.90 Y 1.20 METROS.
+
+III. LA ALTURA DE BOTES DE BASURA SERA DE 0.90 METROS.
 
 ###### ARTICULO 144.
 
-Cuando un Ayuntamiento no pueda proporcionar los servicios que esta Ley determina, el Ejecutivo del Estado podrá asumir, mediante la celebración de convenio respectivo y por el tiempo estrictamente necesario, la prestación de los mismos en forma total o parcial, según sea el caso.
+LAS RETENIDAS DE LOS POSTES DEBERAN CUBRIRSE CON MATERIALES BLANDOS DE COLORES VIVOS, TANTO PARA PROTEGER A LOS INVIDENTES COMO A LOS DEBILES VISUALES.
 
 ###### ARTICULO 145.
 
-Los convenios a que se refiere el artículo anterior, así como los demás que se celebren entre el Gobierno del Estado y los municipios en los diversos casos que establecen las fracciones III y IV del artículo 114 de la Constitución del Estado y el segundo párrafo del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, atenderán a las siguientes normas generales:
+EN LOS SERVICIOS SANITARIOS LOS PISOS DEBEN SER ANTIDERRAPANTES, Y LAS RANURAS EN REJILLAS NO DEBEN TENER MAS DE UN 0.01 METRO DE ANCHO Y LOS WC DEBEN TENER LOS ESPACIOS Y HERRAJES NECESARIOS PARA PERSONAS CON DISCAPACIDAD.
 
-I. Se incluirá la fecha y trascripción de los puntos de acuerdo consignados en el Acta de Cabildo en la que se apruebe por el voto de por lo menos las dos terceras partes de sus integrantes la celebración del convenio y la determinación precisa del servicio o función de que se trate;
+EN LOS MINGITORIOS, RETRETES Y REGADERAS, DEBEN EXISTIR BARRAS DE APOYO Y ACCESORIOS PARA COLOCAR MULETAS Y BASTONES.
 
-II. Deberá acreditarse conforme a derecho la personalidad de los funcionarios que celebran el convenio, y se establecerán los antecedentes y la justificación de la imposibilidad parcial o total para la prestación del servicio o función de que se trate;
+LOS LAVABOS DEBEN ESTAR LIBRES DE OBSTACULOS EN LA PARTE BAJA CON UNA ALTURA DE 0.76 METROS. LAS LLAVES DEBEN SER DEL TIPO ALETA O PALANCA.
 
-III. Se consignará la duración del convenio, incluyendo cláusula de terminación natural, anticipada o de ratificación anual según sea el caso, así como causales de nulidad y rescisión administrativa. Los convenios que excedan el término constitucional de una administración municipal deberán ser aprobados por Congreso del Estado;
-
-IV. Se establecerán las obligaciones y responsabilidades que adquiere el Estado o el municipio según sea el caso, con la asunción del servicio o función de que se trate;
-
-V. Se fijarán las condiciones en las que deberá prestarse el servicio o desarrollarse la función que se asuma;
-
-VI. En los casos en que se amerite, se incluirá un programa de capacitación para personal municipal que atienda la operación de los servicios públicos en administración, para que cuando las condiciones lo permitan, se reasuma la operación del servicio público por los municipios en condiciones satisfactorias;
-
-VII. En los casos de convenios para la ejecución o administración de obras deberá incluirse el costo de las mismas, los anexos técnicos, la asignación de los recursos económicos que se pacten, el plazo y modalidad de la ejecución o administración, así como la previsión de los casos de suspensión y conclusión anticipada del convenio de que se trate;
-
-VIII. El procedimiento para la transferencia y entrega-recepción de las funciones o servicios de que se trate, y
-
-IX. Las demás que sean necesarias y procedentes para la celebración del mismo.
-
-Los convenios a que se refiere este artículo que se celebren con municipios de otras Entidades Federativas, requerirán la autorización del Congreso del Estado y del Congreso o Congresos locales de las mismas. Deberán publicarse en el Periódico Oficial del Estado y señalarán la fecha de su entrada en vigor.
+CADA MUEBLE DEBERA ABATIRSE HACIA EL EXTERIOR DE PREFERENCIA O SER CORREDIZA, PARA CASOS DE EMERGENCIA, LO IDEAL ES QUE SEA DE DOBLE ABATIMIENTO.
 
 ###### ARTICULO 146.
 
-El Gobierno del Estado concurrirá con los ayuntamientos a la prestación de los servicios o funciones municipales en los siguientes casos:
+LOS CRUCEROS URBANOS DEBEN ESTAR ALINEADOS CON LAS RAMPAS DE BANQUETAS Y DEBEN PERMITIR SU CRUCE EN UN ANCHO DE 1.0 METRO MINIMO Y AL MISMO NIVEL DE LAS CALLES.
 
-I. Por incapacidad administrativa, técnica o financiera del ayuntamiento para la prestación del servicio público o desarrollo de la función;
+ES CONVENIENTE QUE SE COLOQUE UNA FRANJA DE 0.20 METROS DE ANCHO AL FINAL ENTRE LA RAMPA Y EL PAVIMENTO, ESTO FACILITA LA DETECCION POR LOS INVIDENTES.
 
-II. Cuando el servicio que corresponda prestar al municipio tenga una relación cercana con actividades o servicios que también corresponda prestar al Estado;
+EN EL CRUCE DE PEATONES, EN LAS ESQUINAS, DEBE INSTALARSE UN DISPOSITIVO, CON UN ZUMBADOR QUE INDIQUE EL CAMBIO DE LUCES EN EL SEMAFORO, SE PODRA UTILIZAR DISTINTOS TONOS PARA INDICAR LOS DIFERENTES COLORES.
 
-III. Cuando por las características del servicio o función, los actos o hechos que implique el mismo, deban surtir efectos fuera del ámbito territorial del municipio, y
+LOS ANUNCIOS Y SEÑALAMIENTOS DE TRANSITO, MARQUESINAS, TOLDOS DE EDIFICIOS, ETC., DEBERAN COLOCARSE TOTALMENTE FUERA DEL CAMINO POR DONDE TRANSITAN LOS PEATONES, ASI COMO A UNA ALTURA MINIMA DE 2.75 METROS, LOS ANUNCIOS Y SEÑALAMIENTOS DEBEN ESTAR PUESTOS EN COLORES BRILLANTES, PREFERIBLES EN AMARILLO Y NEGRO.
 
-IV. Cuando el Estado por causas de interés público debidamente fundadas y motivadas estime necesaria su prestación en concurso con un municipio, correspondiendo en este caso, al Congreso del Estado determinar su procedencia.
-
-En todos los casos deberán establecerse bases de coordinación entre los municipios y las dependencias del Estado que se relacionen con el servicio o función de que se trate.
+EN ZONAS EN QUE NO SEA POSIBLE REMOVER LOS OBSTACULOS, SE DISEÑARA UNA RUTA TANTO PARA SILLAS DE RUEDAS COMO INVIDENTES, DEBILES VISUALES, PERSONAS DE LA TERCERA EDAD, ETC. CONCENTRANDO EN UNA ACERA DETERMINADA LOS OBSTACULOS QUE NO SE PUEDAN SUPRIMIR Y DEJANDO LIBRE UNA RUTA DEFINIDA.
 
 ###### ARTICULO 147.
 
-Cuando no exista convenio entre el Municipio de que se trate y el Gobierno del Estado, éste último deberá asumir las funciones o servicios municipales cuando se presenten las siguientes condiciones:
+EL ANCHO DE LAS ESCALERAS DE ACCESO DEBE SER DE 1.80 METROS, COMO MINIMO, Y DEBERAN CONTAR CON BARANDAL.
 
-I. Que exista solicitud presentada al Congreso del Estado por el Ayuntamiento respectivo, aprobada en sesión de Cabildo por el voto de las dos terceras partes de sus integrantes, y
+PERALTES MAXIMO ENTRE DESCANSOS Y PERALTES DE 0.14 METROS, Y HUELLA DE 0.34 METROS.
 
-II. Que el Congreso del Estado considere en el dictamen respectivo, que el municipio de que se trate se encuentra imposibilitado para ejercerlos o prestarlos.
+LOS ESCALONES NO DEBEN CONTAR CON ARISTAS AGUDAS.
+
+PARA LOS INVIDENTES DEBE HABER SEÑALAMIENTOS TACTILES EN PISO A UNA DISTANCIA DE 0.75 METROS, AL INICIO DEL PRIMER ESCALON Y EMPLEAR COLORES CONTRASTANTES, PARA AYUDAR A DEBILES VISUALES.
 
 ###### ARTICULO 148.
 
-Previa a la emisión del dictamen citado en la fracción II del artículo anterior, el Congreso del Estado deberá agotar el siguiente procedimiento:
+LAS SALIENTES EN LAS CIRCULACIONES A UNA ALTURA MENOR DE 2.00 METROS PUEDE OCASIONAR ACCIDENTES EN PERSONAS CON DISCAPACIDAD Y PERSONAS DE LA TERCERA EDAD; ASIMISMO, LOS OBSTACULOS SOBRESALIENTES DEBERAN ESTAR A UNA ALTURA MINIMA DE 2.50 MEROS (SIC) Y CONSIDERANDO COLORES CLAROS DE FACIL IDENTIFICACION.
 
-I. Recibida la solicitud se dará cuenta con la misma al Pleno del Congreso del Estado y se turnará a las Comisiones correspondientes para su estudio y dictamen;
+### CAPITULO SEGUNDO. INFRACCIONES
 
-II. Las Comisiones analizarán si la solicitud cumple con los requisitos y es acompañada por los documentos que a continuación se detallan:
+###### ARTICULO 250.
 
-a) Copia certificada del Acta de Cabildo en la que el Ayuntamiento acuerde por el voto de por lo menos las dos terceras partes de sus integrantes, la presentación de la solicitud al Congreso del Estado;
+RECIBIDA EL ACTA DE INSPECCION POR LA AUTORIDAD, ESTA REQUERIRA AL INTERESADO MEDIANTE NOTIFICACION PERSONAL, PARA QUE ADOPTE DE INMEDIATO LAS MEDIDAS CORRECTIVAS DE URGENTE APLICACION, FUNDANDO Y MOTIVANDO EL REQUERIMIENTO, PARA QUE, DENTRO DEL TERMINO DE TRES DIAS HABILES A PARTIR DE QUE SURTA EFECTO DICHA NOTIFICACION, MANIFIESTE POR ESCRITO LO QUE A SU DERECHO CONVENGA EN RELACION CON EL ACTA DE INSPECCION Y OFREZCA EN RELACION CON LOS HECHOS U OMISIONES QUE EN LA MISMA SE ASISTEN.
 
-b) Antecedentes y exposición de motivos en la que se determinen las causas que dan lugar a la solicitud, y
+EL SUPUESTO INFRACTOR O SU REPRESENTANTE DEBERAN ACREDITAR AL MOMENTO DE COMPARECER ANTE LA AUTORIDAD CORRESPONDIENTE SU PERSONALIDAD JURIDICA.
 
-c) Las razones que justifiquen la imposibilidad del municipio para prestar el servicio o ejercer la función que le compete, sustentando de cualquier modo su valoración en un dictamen técnico financiero que presente la Comisión de Servicios del Ayuntamiento, sin perjuicio de los dictámenes o estudios que la Legislatura solicite;
+###### ARTICULO 251.
 
-III. Si la solicitud cumple con los requisitos antes señalados se le dará curso; en caso contrario, se concederá un término de diez días hábiles al Ayuntamiento para que la perfeccione; en caso de que no lo haga dentro del término referido, la solicitud se desechará de plano quedando a salvo los derechos del Ayuntamiento para volver a presentarla;
+UNA VEZ OIDO AL PRESUNTO INFRACTOR, RECIBIDAS Y DESAHOGADAS LAS PRUEBAS QUE OFRECIERON, O EN CASO DE QUE EL INTERESADO NO HAYA HECHO USO DEL DERECHO QUE LE CONCEDE EL ARTICULO ANTERIOR DENTRO DEL PLAZO MENCIONADO, SE PROCEDERA A DICTAR LA RESOLUCION ADMINISTRATIVA QUE CORRESPONDA DENTRO DE LOS DIEZ DIAS HABILES SIGUIENTES, MISMA QUE SE NOTIFICARA AL INTERESADO.
 
-IV. Una vez calificada de procedente la solicitud, las Comisiones fijarán fecha y hora para el desahogo de las pruebas que haya lugar a desahogar, dentro de los veinte días naturales siguientes a la citada calificación. Desahogadas que sean, revisará la idoneidad de las pruebas documentales presentadas, debiendo valorar cada una de las mismas;
+###### ARTICULO 252.
 
-V. Las Comisiones podrán solicitar y allegarse toda la documentación, así como llevar a cabo las diligencias y estudios pertinentes para determinar sobre la existencia de la necesidad planteada;
+EN LA RESOLUCION ADMINISTRATIVA CORRESPONDIENTE, SE SEÑALARAN O EN SU CASO ADICIONARAN, LAS MEDIDAS QUE DEBERAN LLEVARSE A CABO PARA CORREGIR LAS DEFICIENCIAS O IRREGULARIDADES OBSERVADAS, EL PLAZO OTORGADO AL INFRACTOR PARA SATISFACERLA Y LAS SANCIONES A QUE SE HUBIERE HECHO ACREEDOR CONFORME A LAS DISPOSICIONES APLICABLES.
 
-VI. El dictamen que expidan las Comisiones, en caso de considerar que el Ayuntamiento se encuentra efectivamente imposibilitado para prestar el servicio o función planteada en la solicitud, deberá especificar si el Estado asumirá en forma total o parcial la función, servicio o servicios que correspondan, las condiciones y la temporalidad bajo las que se prestarán. En caso de ser en sentido negativo, deberá contener las consideraciones, razonamientos y fundamentos que den lugar a tal resolución, y
+DENTRO DE LOS CINCO DIAS HABILES QUE SIGAN AL VENCIMIENTO DEL PLAZO OTORGADO AL INFRACTOR PARA SUBSANAR LAS DEFICIENCIAS O IRREGULARIDADES OBSERVADAS, ESTE DEBERA COMUNICAR POR ESCRITO Y EN FORMA DETALLADA A LA AUTORIDAD ORDENADORA, HABER DADO CUMPLIMIENTO A LAS MEDIDAS ORDENADAS EN LOS TERMINOS DEL REQUERIMIENTO RESPECTIVO.
 
-VII. El Congreso del Estado deberá resolver la solicitud planteada en un término no mayor a quince días naturales contados a partir del desahogo de la última prueba. En caso de que el Congreso se encontrare en receso, se convocará a período extraordinario para el desahogo del caso concreto.
+CUANDO SE TRATE DE UNA SEGUNDA O POSTERIOR INSPECCION PARA VERIFICAR EL CUMPLIMIENTO DE UN REQUERIMIENTO O REQUERIMIENTOS ANTERIORES Y DEL ACTA CORRESPONDIENTE SE DESPRENDA QUE NO SE HA DADO CUMPLIMIENTO A LAS MEDIDAS PREVIAMENTE ORDENADAS, EL AYUNTAMIENTO PODRA IMPONER LA SANCION O SANCIONES QUE PROCEDAN CONFORME AL ARTICULO SIGUIENTE DE ESTE REGLAMENTO.
 
-### CAPITULO III. De la Concesión de Bienes y Servicios Públicos Municipales
+###### ARTICULO 253.
+
+LAS VIOLACIONES A LOS PRECEPTOS DE ESTE REGLAMENTO, CONSTITUYEN INFRACCION Y SERAN SANCIONADAS ADMINISTRATIVAMENTE POR EL AYUNTAMIENTO, CON UNA O MAS DE LAS SIGUIENTES SANCIONES:
+
+I. MULTA EQUIVALENTE DE DIEZ HASTA CIEN DIAS DE SALARIO MINIMO VIGENTE, DE ACUERDO A LA APLICACION QUE SEÑALA LA LEY DE INGRESOS MUNICIPALES.
+
+II. CLAUSURA O SUSPENSION TEMPORAL, PARCIAL O TOTAL.
+
+III. CANCELACION DE LA LICENCIA DE CONSTRUCCION.
+
+IV. PROCEDER JURIDICAMENTE
+
+LA IMPOSICION Y CUMPLIMIENTO DE LAS SANCIONES NO EXIMIRA AL INFRACTOR DE LA OBLIGACION DE CORREGIR LAS IRREGULARIDADES QUE HAYAN DADO MOTIVO AL LEVANTAMIENTO DE LA INFRACCION.
+
+LAS SANCIONES QUE SE IMPONGAN SERAN INDEPENDIENTES DE LAS MEDIDAS QUE ORDENE EL AYUNTAMIENTO EN LOS CASOS PREVISTOS EN ESTE REGLAMENTO, Y PODRAN SER IMPUETAS CONJUNTA O SEPARADAMENTE EN LO CONDUCENTE.
+
+###### ARTICULO 254.
+
+PARA LA IMPOSICION DE LAS SANCIONES POR INFRACCIONES A ESTE REGLAMENTO SE TOMARA EN CUENTA:
+
+I. LA GRAVEDAD DE LA INFRACCION.
+
+II. LAS CONDICIONES ECONOMICAS DEL INFRACTOR, Y
+
+III. LA REINCIDENCIA SI LA HUBIERE.
+
+###### ARTICULO 255.
+
+CUANDO PROCEDA COMO SANCION LA CLAUSURA O SUSPENSION TEMPORAL, PARCIAL O TOTAL, EL PERSONAL COMISIONADO PARA EJECUTARLA PROCEDERA A LEVANTAR ACTA DETALLADA DE LA DILIGENCIA SIGUIENDO PARA ELLO LOS LINEAMIENTOS GENERALES ESTABLECIDOS PARA LAS INSPECCIONES.
+
+LAS PERSONAS AFECTADAS POR LAS RESOLUCIONES DICTADAS CON FUNDAMENTO EN ESTE REGLAMENTO PODRAN RECURRIRLAS MEDIANTE ESCRITO QUE PRESENTARAN ANTE EL AYUNTAMIENTO, DENTRO DE LOS QUINCE DIAS HABILES SIGUIENTES A LA FECHA DE SU NOTIFICACION.
+
+###### ARTICULO 256.
+
+LAS RESOLUCIONES DICTADAS POR EL AYUNTAMIENTO SERAN RECURRIBLES EN LOS SIGUIENTES CASOS:
+
+I. FALTA DE COMPETENCIA PARA DICTAR LA RESOLUCION.
+
+II. INCUMPLIMIENTO DE LAS FORMALIDADES QUE LEGALMENTE DEBA REUNIR EL ACTO RECURRIDO.
+
+III. INEXACTA APLICACION DE LA DISPOSICION EN QUE SE FUNDE LA RESOLUCION IMPUGNADA.
+
+###### ARTICULO 257.
+
+CUANDO EL RECURSO NO SE INTERPONGA EN NOMBRE PROPIO DEBERA ACREDITARSE LA PERSONALIDAD DE QUIEN LO PROMUEVA.
+
+###### ARTICULO 258.
+
+EL ESCRITO EN QUE SE INTERPONGA EL RECURSO NO ESTARA SUJETO A FORMA ESPECIAL ALGUNA, BASTARA CON QUE EL RECURRENTE PRECISE EL ACTO RECLAMADO, LOS AGRAVIOS QUE A SU JUICIO LE CAUSE LA RESOLUCION IMPUGNADA, ACREDITE DEBIDAMENTE SU PERSONALIDAD, SUSCRIBA DICHO ESCRITO Y OFREZCA LAS PRUEBAS CORRESPONDIENTES ANEXADAS AL MISMO.
+
+###### ARTICULO 259.
+
+EN EL RECURSO ADMINISTRATIVO PODRA OFRECERSE, TODA CLASE DE PRUEBAS, EXCEPTO LA CONFESIONAL.
+
+###### ARTICULO 260.
+
+SI SE OFRECIERAN PRUEBAS QUE AMERITEN DESAHOGO, SE CONCEDERA AL INTERESADO UN PLAZO NO MENOR DE 8 NI MAYOR DE 15 DIAS HABILES PARA TAL EFECTO.
+
+QUEDARA A CARGO DEL RECURRENTE LA PRESENTACION DE TESTIGOS, DICTAMENES Y TODA CLASE DE PRUEBAS QUE DE NO PRESENTARLAS DENTRO DEL TERMINO CONCEDIDO, NO SE TENDRAN EN CUENTA AL EMITIR LA RESOLUCION RESPECTIVA.
+
+###### ARTICULO 261.
+
+LA AUTORIDAD QUE CONOZCA DEL RECURSO PRONUNCIARA SU RESOLUCION DENTRO DE LOS 30 DIAS HABILES SIGUIENTES A LA FECHA DE RECEPCION DE LAS PRUEBAS, O DEL DESAHOGO DE LAS MISMAS.
+
+###### ARTICULO 262.
+
+EL RECURSO SE TENDRA POR NO INTERPUESTO:
+
+I. CUANDO SE PRESENTE FUERA DEL TERMINO A QUE SE REFIERE EL ARTICULO 258 DE ESTE REGLAMENTO.
+
+II. CUANDO NO SE ACREDITE DEBIDAMENTE LA PERSONALIDAD DE QUIEN LO SUSCRIBA, Y
+
+III. CUANDO NO APAREZCA SUSCRITO, A MENOS QUE SE FIRME ANTES DEL VENCIMIENTO DEL TERMINO PARA INTERPONERLO. LA AUTORIDAD QUE CONOZCA DEL RECURSO PREVENDRA AL RECURRENTE PARA QUE LO FIRME.
+
+###### ARTICULO 263.
+
+LA INTERPOSICION DEL RECURSO SUSPENDERA LA EJECUCION, DE LA RESOLUCION IMPUGNADA PREVIA GARANTIA ANTE LA TESORERIA MUNICIPAL CORRESPONDIENTE. SI LA RESOLUCION IMPUGNADA NO ES DE CARACTER ECONOMICO, LA SUSPENSION SE OTORGARA SI CONCURREN LOS SIGUIENTES REQUISITOS:
+
+I. QUE LA SOLICITE EL RECURRENTE.
+
+II. QUE EL RECURSO SEA PROCEDENTE, ATENTO A LO DISPUESTO EN ESTE REGLAMENTO.
+
+III. QUE DE OTORGARSE LA SUSPENSION, ESTA NO TENGA POR EFECTO LA CONSUMACION O CONTINUACION DE ACTOS U OMISIONES QUE IMPLIQUEN PREJUICIOS DE INTERES SOCIAL O PUBLICO.
+
+IV. QUE NO SE CAUSEN DAÑOS O PERJUICIOS A TERCEROS, A MENOS QUE SE GARANTICE SU PAGO, PARA EL CASO DE NO OBTENER RESOLUCION FAVORABLE, POR EL MONTO QUE FIJE DISCRECIONALMENTE LA AUTORIDAD ADMINISTRATIVA Y
+
+V. QUE LA EJECUCION DE LA RESOLUCION RECURRIDA PRODUZCA DAÑOS O PERJUICIOS DE IMPOSIBLE O DE DIFICIL REPARACION EN CONTRA DEL RECURRENTE.
+
+###### ARTICULO 264.
+
+LAS RESOLUCIONES QUE PONGAN FIN AL RECURSO ADMINISTRATIVO PODRAN SER REVISADAS EN LOS TERMINOS DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO.
+
+T R A N S I T O R I O S
+
+###### ARTICULO PRIMERO.
+
+EL AYUNTAMIENTO DEL MUNICIPIO DE BERRIOZABAL, CHIAPAS, APRUEBA EL PRESENTE REGLAMENTO EN LA SESION EXTRAORDINARIA DE CABILDO N° 46 DE FECHA 21 DE NOVIEMBRE DE 2002. EN CUMPLIMIENTO CON LAS DISPOSICIONES DESCRITAS EN EL PROEMIO CORRESPONDIENTE, EL PRESIDENTE MUNICIPAL CONSTITUCIONAL SOLICITARA LA PUBLICACION RESPECTIVA EN EL PERIODICO OFICIAL AL C. GOBERNADOR COSTITUCIONAL DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+LAS DISPOSICIONES DEL PRESENTE REGLAMENTO ENTRARAN EN VIGOR EL DIA SIGUIENTE DE SU PUBLICACION CONFORME A LO ESTABLECIDO EN EL ARTICULO ANTERIOR.
+
+###### ARTICULO TERCERO.
+
+LAS SOLICITUDES DE LICENCIA DE CONSTRUCCION EN TRAMITE Y LAS OBRAS EN EJECUCION, A LA FECHA DE ENTRADA EN VIGOR DE ESTE REGLAMENTO, SE SUJETARAN A LAS DISPOSICIONES QUE PARA TAL EFECTO HAYAN ESTABLECIDO EL REGLAMENTO Y ACUERDOS VIGENTES A LA FECHA DE SU EXPEDICION.
+
+###### ARTICULO CUARTO.
+
+SE DEROGAN TODAS LAS DISPOSICIONES REGLAMENTARIAS Y ADMINISTRATIVAS QUE SE OPONGAN AL PRESENTE REGLAMENTO.
+
+DADO EN EL SALON DE SESIONES DE CABILDO DEL AYUNTAMIENTO DE BERRIOZABAL, CHIAPAS A LOS 21 DIAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DOS.
+
+PEDRO OVANDO MORALES, PRESIDENTE MUNICIPAL.- ISMAEL GOMEZ GUTIERREZ, SECRETARIO MUNICIPAL.- BLEYER ALVAREZ MORALES, SINDICO MUNICIPAL.- JORGE OVANDO DE LA CRUZ, 1ER REGIDOR PROPIETARIO.- MIGUEL OVANDO OVANDO, 2° REGIDOR PROPIETARIO.- ROSALBA VAZQUEZ OVANDO, 3ER REGIDOR PROPIETARIO.- ELISEO CHANONA GALDAMEZ, 4° REGIDOR PROPIETARIO.- ABELARDO HERNANDEZ DE LA CRUZ, 5° REGIDOR PROPIETARIO.- ROCIO DE LOS A. LOPEZ MEJIA, 6° REGIDOR PROPIETARIO.- JORGE AMIN GORDILLO GOMEZ, REGIDOR PLURINOMINAL POR EL PARTIDO ACCION N ACIONAL (SIC).- JOSE WARDEN CRUZ ESTRADA, REGIDOR PLURINOMINAL POR EL PARTIDO ACCION NACIONAL.- CARLOS CASTAÑON GOMEZ, REGIDOR PLURINOMINAL POR EL PARTIDO REVOLUCIONARIO INSTITUCIONAL.- CARLOS CASTAÑON LOPEZ, REGIDOR PLURINOMINAL POR EL PARTIDO REVOLUCIONARIO INSTITUCIONAL.- RUBRICAS.
 
 ###### ARTICULO 149.
 
-Para los efectos de la seguridad pública, los ayuntamientos y presidentes municipales ejercerán, de conformidad con lo dispuesto en los artículos 21 y 115 de la Constitución Política de los Estados Unidos Mexicanos, las facultades que determine la ley.
+LA PENDIENTE MAS ADECUADA PARA LAS RAMPAS ES LA DEL 5%, ESTAS DEBERAN TENER ACABADO ANTIDERRAPANTE; ES NECESARIO SE CONSTRUYAN EN TODAS LAS AREAS DESTINADAS A CIRCULACIONES PEATONALES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2009)</small>
+NO SE PERMITEN RAMPAS EN CURVAS, CONSIDERANDO QUE EL ANCHO MINIMO PARA EL DESPLAZAMIENTO ADECUADO CON SILLA DE RUEDAS ES DE 1.50 METROS.
+
+SE IMPLEMENTARAN LOS CAMBIOS DE TEXTURA Y DE COLOR EN LOS CAMBIOS DE NIVEL.
+
+LOS ACCESOS A RAMPAS SE UBICARAN YA SEA EN LOS CRUCEROS PEATONALES, INDICADOS EN LA VIALIDAD O DIRECTAMENTE EN LAS ESQUINAS.
 
 ###### ARTICULO 150.
 
-La policía preventiva municipal estará al mando del Presidente Municipal en los términos que establezca el reglamento respectivo; y su actuación se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez el titular de la policía preventiva, así como el de tránsito municipal, tendrán las atribuciones establecidas en los reglamentos correspondientes y en el caso del titular de tránsito tendrá además, las señaladas en la Ley de Tránsito y Vialidad del Estado de San Luis Potosí.
+TODOS LOS EDIFICIOS DEBERAN POR LO MENOS CONTAR CON LOS ACCESOS TRANSITABLES EN SILLA DE RUEDAS, CONECTADOS CON LA CIRCULACION PEATONAL ADECUADA.
 
-La policía preventiva municipal deberá acatar las órdenes que el Gobernador del Estado les transmita, en los casos en que él mismo juzgue como de fuerza mayor o alteración grave del orden público.
+LAS AREAS DE CONVIVENCIA SOCIAL DEBERAN TENER TODOS LOS SERVICIOS PARA QUE LAS PERSONAS CON DISCAPACIDAD PUEDAN ASISTIR Y PARTICIPAR.
+
+LAS COLADERAS Y REJILLAS SE EVITARAN EN CIRCULACIONES PEATONALES DE MODO QUE NO SEAN OBSTACULOS PARA TRANSITO SEGURO Y ADECUADO.
 
 ### CAPITULO I. De los Bandos y Reglamentos
 
@@ -2495,153 +1995,75 @@ La policía preventiva municipal deberá acatar las órdenes que el Gobernador d
 
 ###### ARTICULO 151.
 
-El otorgamiento de concesiones para la prestación de servicios públicos municipales se sujetará al siguiente procedimiento:
+LOS LOCALES EN LAS EDIFICACIONES CONTARAN CON MEDIOS QUE ASEGUREN LA ILUMINACION DIURNA Y NOCTURNA ASI COMO LA VENTILACION NECESARIA PARA SUS OCUPANTES Y DEBERAN OBSERVAR LOS SIGUIENTES REQUISITOS:
 
-I. En sesión de Cabildo deberá establecerse la determinación, aprobada por acuerdo de las dos terceras partes de sus integrantes, sobre la imposibilidad de prestar por sí mismo el servicio; la que deberá hacerse del conocimiento público a través de tres publicaciones de tres en tres días, en por lo menos uno de los diarios de mayor circulación en la Entidad y en la localidad, así como en el Periódico Oficial del Estado;
+I. LOS LOCALES HABITABLES TENDRAN ILUMINACION DIURNA NATURAL POR MEDIO DE VENTANAS QUE DEN DIRECTAMENTE A LA VIA PUBLICA, TERRAZAS, AZOTEAS, SUPERFICIES DESCUBIERTAS, INTERIORES O PATIOS QUE SATISFAGAN LO ESTABLECIDO EN EL PRESENTE REGLAMENTO. EL AREA DE LAS VENTANAS NO SERA INFERIOR A LOS SIGUIENTES PORCENTAJES, CORRESPONDIENTES A LA SUPERFICIE DEL LOCAL, PARA CADA UNA DE LAS ORIENTACIONES:
 
-II. Posteriormente y en la misma forma que establece la fracción anterior, el Ayuntamiento emitirá una convocatoria a concurso para la obtención de la concesión de que se trate, señalando el término para que los interesados presenten las solicitudes correspondientes;
+NORTE: 15%
 
-III. Los interesados en obtenerla deberán presentar la solicitud respectiva al Cabildo dentro del término señalado al efecto en la convocatoria, y deberán cubrir por su cuenta los gastos generados por la elaboración de los estudios correspondientes;
+SUR: 15%
 
-IV. Adjunto a la solicitud deberán anexar en sobre cerrado, la documentación mediante la que se compruebe que se cuenta con los medios y recursos para procurar las mejores condiciones, así como para el otorgamiento de garantías suficientes para responder sobre el cumplimiento y la eficacia en la prestación del servicio, y
+ESTE: 15%
 
-V. Una vez concluido el término para la presentación de las solicitudes, el Cabildo determinará por el voto de cuando menos las dos terceras partes de sus integrantes, cuál de los solicitantes ofrece las mejores condiciones para la prestación del servicio de que se trate, y es suficientemente solvente para garantizar el debido y eficaz cumplimiento del mismo; debiendo posteriormente dar a conocer a los participantes la resolución respectiva.
+OESTE: 15%
+
+II. CUANDO SE TRATE DE VENTANAS CON DISTINTAS ORIENTACIONES EN UN MISMO LOCAL, LAS VENTANAS SE DIMENSIONARAN APLICANDO EL PORCENTAJE MINIMO DE ILUMINACION A LAS SUPERFICIES DEL LOCAL DIVIDIDA ENTRE EL NUMERO DE VENTANAS.
+
+III. AL MENOS UNA TERCERA PARTE DE LOS CLAROS DE ILUMINACION DEBEN PODER ABRIRSE PARA VENTILACION.
+
+IV. LOS LOCALES CUYAS VENTANAS ESTEN UBICADAS BAJO MARQUESINAS, TECHUMBRES, PORTICOS O VOLADOS, SE CONSIDERARAN ILUMINADOS Y VENTILADOS EN FORMA NATURAL, CUANDO DICHAS VENTANAS SE ENCUENTREN REMETIDAS COMO MAXIMO LO EQUIVALENTE A LA MITAD DE LA ALTURA DE PISO A TECHO DE LA PIEZA O LOCAL.
+
+V. SE PERMITIRA LA ILUMINACION DIURNA NATURAL POR MEDIO DE DOMOS O TRAGALUCES EN LOS CASOS DE BAÑOS, COCINAS NO DOMESTICAS, LOCALES DE TRABAJO, ALMACENAMIENTO, CIRCULACIONES Y SERVICIOS.
+
+VI. QUEDA RESTRINGIDA LA COLOCACION DE VENTANAS EN MUROS DE COLINDANCIA.
+
+VII. QUEDA PROHIBIDO EL USO E INSTALACION DE EQUIPOS DE AIRE ACONDICIONADO EN MUROS DE COLINDANCIA Y FACHADAS.
 
 ###### ARTICULO 152.
 
-Los contratos que se lleven a efecto para otorgar las concesiones se sujetarán a las siguientes bases y disposiciones:
-
-I. Determinarán con precisión el servicio o servicios materia de la concesión, y los bienes que se afecten a la prestación del mismo por el concesionario;
-
-II. Señalarán las medidas que deba tomar el concesionario para asegurar el buen funcionamiento y continuidad del servicio, así como las sanciones que le serán impuestas para el caso de incumplimiento;
-
-III. Determinarán el régimen especial al que deba someterse la concesión y el concesionario, fijando el término de la duración de la concesión. La temporalidad por la que se otorgue la concesión no excederá en ningún caso de quince años;
-
-IV. Establecerán las causas de caducidad o pérdida anticipada de la concesión, la forma de vigilar el cumplimiento en la prestación del servicio, así como el pago de los impuestos y prestaciones que se causen;
-
-V. Fijarán las condiciones bajo las cuales podrán los usuarios utilizar los bienes y servicios;
-
-VI. Consignarán las tarifas, forma de modificarlas y las contraprestaciones que deba cubrir el beneficiario;
-
-VII. Establecerán el procedimiento administrativo para oír al concesionario y a todo interesado, en los asuntos que importen reclamación o afectación de los derechos que genere la concesión o el servicio público;
-
-VIII. Señalarán, en su caso, cuándo se ha de solicitar la expropiación por causa de utilidad pública o de imponer restricciones a la propiedad privada, en los términos de la Constitución y la ley de la materia, y
-
-IX. Determinarán la fianza o garantía que deba otorgar el concesionario para responder de la eficaz prestación del servicio.
+LAS INSTALACIONES ELECTRICAS, HIDRAULICAS, SANITARIAS, CONTRA INCENDIOS, DE GAS, VAPOR, COMBUSTIBLES, LIQUIDOS, AIRE ACONDICIONADO, TELEFONICAS, DE COMUNICACION Y TODAS AQUELLAS QUE SE COLOQUEN EN LAS EDIFICACIONES, SERAN LAS QUE INDIQUE EL PROYECTO; GARANTIZARAN LA EFICIENCIA DE LAS MISMAS; ASI COMO LA SEGURIDAD DE LA EDIFICACION, TRABAJADORES Y USUARIOS, PARA LO CUAL DEBERA CUMPLIR CON LO SEÑALADO EN LAS NORMAS TECNICAS OFICIALES MEXICANAS CORRESPONDIENTES.
 
 ###### ARTICULO 153.
 
-En el título de concesión se tendrán por establecidas, aunque no se expresen, las cláusulas siguientes:
-
-I. La facultad del Ayuntamiento de modificar por causa justificada, la organización, modo o condiciones de la prestación del servicio;
-
-II. La de inspeccionar la ejecución de las obras y la prestación del servicio;
-
-III. La de que todos los bienes muebles e inmuebles que adquiera el concesionario para la prestación del servicio, se considerarán destinados exclusivamente a los fines del mismo;
-
-IV. El derecho del Ayuntamiento como acreedor privilegiado, sobre todos los bienes muebles e inmuebles destinados a la prestación del servicio;
-
-V. La obligación del concesionario de prestar el servicio de manera uniforme, regular o continua;
-
-VI. La de reemplazar todos los bienes necesarios para la prestación del servicio, o de ejecutar todas las obras de reparación, conservación y reconstrucción, para la regularidad y continuidad del servicio;
-
-VII. La de que el ejercicio de los derechos de los acreedores del concesionario, aun en el caso de quiebra, no podrá traer como consecuencia la suspensión o interrupción del servicio;
-
-VIII. La de prestar el servicio a toda persona que lo solicite, conforme a la naturaleza del servicio de que se trate, y de acuerdo con los precios o tarifas aprobadas;
-
-IX. La obligación del concesionario de someter a la aprobación del Cabildo, los contratos de crédito, prenda, hipoteca, emisión de obligaciones, bonos o cualquiera otra, para el financiamiento de la empresa, y
-
-X. La prohibición de enajenar o traspasar la concesión o los derechos de ella derivados, o de los bienes empleados en su explotación, sin previa autorización por escrito del Cabildo.
+LAS EDIFICACIONES DEBERAN ESTAR PROVISTAS DE SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO O EN SU DEFECTO PRESENTAR UNA ALTERNATIVA PARA EL TRATADO DE AGUAS RESIDUALES (POZO DE ABSORCION, FOSA SEPTICA) AVALADA POR EL AYUNTAMIENTO.
 
 ###### ARTICULO 154.
 
-Procederá la cancelación de concesiones de servicios públicos municipales, previo dictamen de procedencia del Congreso del Estado, emitido a solicitud de parte interesada:
-
-I. Cuando no se inicie la prestación del servicio dentro del plazo señalado en las concesiones;
-
-II. Cuando se constate que el servicio se presta en forma irregular o distinta a la concesionada, salvo caso fortuito o de fuerza mayor;
-
-III. Cuando no se cumpla con las obligaciones que deriven de la concesión;
-
-IV. Cuando se constate que el concesionario no conserva los bienes o instalaciones en buen estado, o cuando éstos sufran deterioro por su negligencia, con perjuicio para la prestación normal del servicio;
-
-V. Cuando se enajene, subconcesione o se grave la concesión o alguno de los derechos en ella establecidos o sobre los bienes que afecten para proporcionar el servicio público de que se trate, sin que medie autorización del Ayuntamiento;
-
-VI. Cuando se modifique o altere en lo substancial la naturaleza o condiciones en que opere el servicio, las instalaciones o su ubicación, sin previa aprobación del Ayuntamiento;
-
-VII. Cuando exista la falta de pago estipulado en la concesión;
-
-VIII. Cuando se violen las cuotas y tarifas o precios autorizados por el Ayuntamiento y el Congreso del Estado, y
-
-IX. Cuando exista incumplimiento de alguna de las obligaciones contenidas en esta Ley o en el título de concesión.
+LAS INSTALACIONES DE INFRAESTRUCTURA SANITARIA QUE DEBAN REALIZARSE EN EL INTERIOR DE PREDIOS DE CONJUNTOS HABITACIONALES Y OTRAS EDIFICACIONES DE GRAN MAGNITUD, DEBERAN SUJETARSE A LO QUE DISPONGA EL AYUNTAMIENTO Y EL SISTEMA AGUA (SIC) POTABLE Y ALCANTARILLADO MUNICIPAL.
 
 ###### ARTICULO 155.
 
-Al operar la cancelación de las concesiones, los bienes con que se preste el servicio se revertirán en favor del Municipio, exceptuando los que no sean de su propiedad; pero si el Ayuntamiento los considera necesarios para la prestación del servicio, solicitará su expropiación en los términos de la ley de la materia.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+EL AYUNTAMIENTO EXIGIRA LA REALIZACION DE ESTUDIOS DE FACTIBILIDAD DE TRATAMIENTO Y REUSO DE AGUAS RESIDUALES, SUJETANDOSE A LO DISPUESTO POR LA LEY DE EQUILIBRIO ECOLOGICO Y DEMAS ORDENAMIENTOS APLICABLES.
 
 ###### ARTICULO 156.
 
-A petición formulada por los concesionarios antes de la expiración del plazo de la concesión, el ayuntamiento podrá prorrogarla hasta por un término igual por el que fue otorgada, siempre que subsistan las condiciones que motivaron su otorgamiento, y haya cumplido el concesionario con todas las obligaciones impuestas.
+EN LOS CONJUNTOS HABITACIONALES LAS EDIFICACIONES UBICADAS EN ZONAS CUYA RED PUBLICA DE AGUA POTABLE TENGA PRESION INFERIOR A 10.00 METROS DE COLUMNA DE AGUA, DEBERAN CONTAR CON CISTERNAS CALCULADAS PARA ALMACENAR 2 VECES LA DEMANDA MINIMA DIARIA DE AGUA DE LA EDIFICACION Y EQUIPADAS CON SISTEMA DE BOMBEO.
 
 ###### ARTICULO 157.
 
-Queda prohibida la concesión de los servicios públicos municipales a:
-
-I. Miembros del Ayuntamiento, servidores públicos en general, así como sus cónyuges, parientes consanguíneos en línea directa sin limitación de grado, colaterales hasta el segundo grado y parientes por afinidad, y
-
-II. Empresas en las que sean representantes o tengan intereses económicos las personas a que se refiere la fracción anterior.
-
-Las concesiones otorgadas en contravención a lo dispuesto en este artículo, serán consideradas nulas de pleno derecho y causarán responsabilidad para quien las autorice.
+LAS CISTERNAS DEBERAN SER COMPLETAMENTE IMPERMEABLES, TENER REGISTROS CON CIERRE HERMETICO Y SANITARIO Y UBICARSE A 2.00 METROS CUANDO MENOS DE CUALQUIER TUBERIA DE AGUAS NEGRAS.
 
 ###### ARTICULO 158.
 
-El Ayuntamiento fijará anualmente, con la aprobación del Congreso del Estado, y publicará las tarifas o precios de los servicios públicos municipales concesionados, en el Periódico Oficial del Estado y en uno de los de mayor circulación en la región.
+LOS TINACOS DEBERAN COLOCARSE A UNA ALTURA DE POR LO MENOS 2.00 METROS ARRIBA DEL MUEBLE SANITARIO MAS ALTO; DEBERAN SER DE MATERIALES IMPERMEABLES E INOCUOS Y TENER REGISTROS CON CIERRE HERMETICO Y SANITARIO.
 
-Si para el primero de enero de cada año no se ha hecho la publicación de precios o tarifas, se aplicarán las vigentes en el ejercicio fiscal anterior.
+LAS TUBERIAS DE DESAGÜE TENDRAN UN DIAMETRO NO MENOR DE 0.032 METROS (PARA LAVABOS, LAVADEROS Y FREGADEROS) Y DE 0.10 METROS (PARA EXCUSADOS Y COLADERAS), NI INFERIOR AL DE LA BOCA DE DESAGÜE DE CADA MUEBLE SANITARIO; SE COLOCARAN CON UNA PENDIENTE MINIMA DE 2% PARA DIAMETROS HASTA DE 75 MM. Y 1.5% PARA DIAMETROS MAYORES. LOS ALBAÑALES DEBERAN ESTAR PROVISTOS EN SU ORIGEN DE UN TUBO VENTILADOR DE 0.050 METROS DE DIAMETRO COMO MINIMO, QUE SE PROLONGARA CUANDO MENOS 1.50 METROS ARRIBA DEL NIVEL DE LA AZOTEA DE LA CONSTRUCCION.
 
-## TITULO NOVENO. DE LA REGLAMENTACION DE LOS AYUNTAMIENTOS
+## TITULO NOVENO. RIESGOS Y VULNERABILIDAD
 
 ### CAPITULO II. De las Sanciones
 
 ###### ARTICULO 159.
 
-Los ayuntamientos expedirán en forma obligatoria, de acuerdo con las bases previstas en esta Ley y en las leyes que en materia municipal expida el Congreso del Estado, los bandos de policía y gobierno, reglamentos, circulares y demás disposiciones administrativas que sean de observancia general en sus respectivas municipalidades, las que en todo tiempo podrán ser modificadas con autorización del Ayuntamiento. Tales documentos para su validez deberá certificarlos el Secretario del Ayuntamiento y promulgarlos el presidente municipal, enviándolos para su publicación en el Periódico Oficial del Estado.
+QUEDAN PROHIBIDAS LAS DESCARGAS DE AGUAS PLUVIALES, TANTO DE LOS EDIFICIOS COMO DEL PREDIO, HACIA EL DRENAJE DEL MUNICIPIO, DEBIENDOSE DAR DIRECTAMENTE HACIA EL ARROYO DE CALLE; COMO ASI TAMBIEN EL USO DE CANALETAS CON DESCARGA DE AGUA A CHORROS A LAS BANQUETAS, LAS CUALES DEBERAN SER CANALIZADAS POR DISPOSITIVOS ADECUADOS DE TUBERIA DE BAJADA HASTA EL NIVEL DE LAS BANQUETAS.
 
 ### CAPITULO I. Generalidades
 
 ###### ARTICULO 160.
 
-Las infracciones a las normas contenidas en los reglamentos, bandos y demás disposiciones de autoridades municipales se sancionarán de la siguiente forma:
+LAS TUBERIAS O ALBAÑALES QUE CONDUCEN LAS AGUAS RESIDUALES DE UNA EDIFICACION HACIA AFUERA DE LOS LIMITES DE SU PREDIO DEBERAN SER DE 0.15 METROS DE DIAMETRO COMO MINIMO, CONTAR CON UNA PENDIENTE MINIMA DE 1.5% Y CUMPLIR CON LAS NORMAS DE CALIDAD QUE EXPIDA LA AUTORIDAD COMPETENTE.
 
-I. Amonestación;
-
-II. Multa;
-
-Si el infractor fuere jornalero, obrero o trabajador, sólo podrá ser sancionado con una multa que no excederá del importe de un salario mínimo diario vigente en la Entidad; en el caso de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2009)</small>
-
-III. Clausura;
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2009)</small>
-
-IV. Suspensión de obra;
-
-> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2009)</small>
-
-V. Arresto hasta por 36 horas. Esta sanción podrá ser sustituida por multa, en los términos de la fracción II del presente artículo, a opción del infractor;
-
-> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2009)</small>
-
-VI. Suspensión temporal o cancelación del permiso o licencia en su caso, y
-
-> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2009)</small>
-
-VII. Reparación o resarcimiento del daño.
-
-## TITULO DECIMO. DE LOS SERVIDORES PUBLICOS MUNICIPALES
+## TITULO DECIMO. DE LAS VISITAS DE INSPECCION, SANCIONES Y RECURSOS
 
 ### CAPITULO II. De la Declaración de la Situación Patrimonial
 
@@ -2649,11 +2071,13 @@ VII. Reparación o resarcimiento del daño.
 
 ###### ARTICULO 161.
 
-Las relaciones laborales de las administraciones municipales y sus trabajadores, se regirán por la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado y Municipios de San Luis Potosí.
+LOS ALBAÑALES DEBERAN TENER REGISTROS COLOCADOS A DISTANCIAS NO MAYORES DE 12.00 METROS, ENTRE CADA UNO Y EN CADA CAMBIO DE DIRECCION DEL ALBAÑAL; LOS REGISTROS DEBERAN SER DE 0.40 X 0.60 METROS, EN PROFUNDIDADES DE HASTA DE 1.00 METRO, Y DE 0.50 X 0.70 METROS PARA PROFUNDIDADES DE 1.00 HASTA 2.00 METROS. LOS REGISTROS DEBERAN TENER TAPAS CON CIERRE HERMETICO, A PRUEBA DE ROEDORES; CUANDO UN REGISTRO DEBA COLOCARSE BAJO LOCALES HABITABLES O COMPLEMENTARIOS A LOCALES DE TRABAJO Y REUNION, DEBERAN TENER DOBLE TAPA CON CIERRE HERMETICO.
 
 ###### ARTICULO 162.
 
-Los servidores públicos administrativos serán suplidos en la forma que prevenga el Reglamento Interior del Ayuntamiento.
+EN LAS ZONAS EN DONDE NO EXISTA RED DE ALCANTARILLADO PUBLICO, EL AYUNTAMIENTO AUTORIZARA EL USO DE FOSAS SEPTICAS DE PROCESOS BIOENZIMATICOS DE TRANSFORMACION RAPIDA, SIEMPRE Y CUANDO SE DETERMINE LA ABSORCION DEL TERRENO. A LAS FOSAS SEPTICAS DESCARGARAN UNICAMENTE LAS AGUAS NEGRAS QUE PROVENGAN DE EXCUSADOS Y MINGITORIOS.
+
+EN EL CASO DE ZONAS CON SUELOS INADECUADOS PARA LA ABSORCION DE AGUAS RESIDUALES, EL AYUNTAMIENTO DETERMINARA EL SISTEMA DE TRATAMIENTO A INSTALAR.
 
 ### CAPITULO III. De las Sanciones y de los Recursos
 
@@ -2661,31 +2085,85 @@ Los servidores públicos administrativos serán suplidos en la forma que preveng
 
 ###### ARTICULO 163.
 
-En todo lo referente a la declaración de la situación patrimonial, se observará lo dispuesto en la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
+LA DESCARGA DE AGUA DE TALLERES DE REPARACION DE VEHICULOS, SERVICIOS DE LAVADO Y ENGRASADO, GASOLINERAS O RESTAURANTES, ANTES DE CONECTARLAS A COLECTORES PUBLICOS QUE CONDUZCAN A POZOS DE ABSORCION, TERRENOS DE OXIDACION O A LA RED DE DRENAJE DEBERAN CONTAR CON TRAMPAS DE GRASAS REGISTRABLES DE TRES COMPARTIMIENTOS.
 
 ###### ARTICULO 164.
 
-(DEROGADO, P.O. 3 DE JULIO DE 2019)
+EN LAS EDIFICACIONES UBICADAS EN CALLES CON RED DE ALCANTARILLADO PUBLICO, EL PROPIETARIO DEBERA SOLICITAR AL AYUNTAMIENTO LA CONEXION DEL ALBAÑAL CON DICHA RED.
 
 ###### ARTICULO 165.
 
-(DEROGADO, P.O. 3 DE JULIO DE 2019)
+LAS INSTALACIONES ELECTRICAS DE LAS EDIFICACIONES SE DEBERAN AJUSTAR A LAS DISPOSICIONES APLICABLES A INSTALACIONES ELECTRICAS POR LA COMISION FEDERAL DE ELECTRICIDAD Y CUMPLIR CON LAS NORMAS TECNICAS OFICIALES MEXICANAS CORRESPONDIENTES.
 
 ###### ARTICULO 166.
 
-(DEROGADO, P.O. 3 DE JULIO DE 2019)
+LAS EDIFICACIONES QUE REQUIERAN INSTALACIONES TELEFONICAS DEBERAN CUMPLIR CON LO QUE ESTABLEZCAN LAS NORMAS TECNICAS OFICIALES DE INSTALACIONES TELEFONICAS DE TELEFONOS DE MEXICO, S.A., Y/O SECRETARIA DE COMUNICACIONES Y TRANSPORTES.
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 167.
 
-Por el incumplimiento de las funciones públicas previstas en esta Ley, se impondrán a los servidores públicos municipales, las sanciones señaladas por la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
+EN LAS EDIFICACIONES QUE REQUIEREN LICENCIA DE USO DEL SUELO, DEBERAN UBICARSE UNO O VARIOS LOCALES PARA ALMACENAR DEPOSITOS O BOLSAS DE BASURA, VENTILADOS Y A PRUEBA DE ROEDORES, CON LAS SIGUIENTES CARACTERISTICAS:
+
+USOS DIMENSIONES MINIMAS
+
+ALIMENTOS Y BEBIDAS 0.01 M2/M2
+
+MERCADOS Y TIENDAS DE AUTOSERVICIO CON MAS
+
+DE 500 METROS CUADRADOS 0.02 M2/M2
+
+VIVIENDAS EN
+
+CONDOMINIO 0.05 M2/VIV CONSTRUIDA
 
 ## TITULO DECIMO PRIMERO. DE LOS RECURSOS ADMINISTRATIVOS
 
 ###### ARTICULO 168.
 
-Las personas afectadas por resoluciones definitivas dictadas con fundamento en esta Ley, podrán interponer en su favor los recursos que establezca la Ley de Procedimiento Administrativo de los Municipios del Estado de San Luis Potosí.
+LAS EDIFICACIONES DEBERAN CONTAR CON LAS INSTALACIONES Y EQUIPOS NECESARIOS PARA PREVENIR Y COMBATIR LOS INCENDIOS. LOS EQUIPOS Y SISTEMAS CONTRA INCENDIOS DEBERAN SER REVISADOS Y PROBADOS PERIODICAMENTE. EL PROPIETARIO O DIRECTOR RESPONSABLE DE OBRA DESIGNADO PARA LA ETAPA DE OPERACION Y MANTENIMIENTO, LLEVARA UN LIBRO DONDE SE REGISTRARAN LOS RESULTADOS DE ESTAS PRUEBAS Y LOS EXHIBIRA A LAS AUTORIDADES COMPETENTES A SOLICITUD DE ESTAS.
+
+###### ARTICULO 169.
+
+EL AYUNTAMIENTO TENDRA FACULTAD DE EXIGIR EN CUALQUIER CONSTRUCCION LAS INSTALACIONES O EQUIPOS ESPECIALES QUE JUZGUE NECESARIO.
+
+###### ARTICULO 170.
+
+PARA PREVISIONES CONTRA INCENDIOS LA TIPOLOGIA DE EDIFICACIONES SE BASA EN EL ARTICULO 192 DE ESTE REGLAMENTO, AGRUPANDOSE DE LA SIGUIENTE MANERA:
+
+I. DE RIESGO MENOR SON LAS EDIFICACIONES DE HASTA 15.00 METROS DE ALTURA, 250 OCUPANTES O 3,000 METROS CUADRADOS CONSTRUIDOS.
+
+II. DE RIESGO MAYOR, SON LA (SIC) EDIFICACIONES DE MAS DE 250 OCUPANTES O MAYOR A 3,000 METROS CUADRADOS, CONSTRUIDOS. LAS BODEGAS, DEPOSITOS E INDUSTRIAS DE CUALQUIER MAGNITUD, QUE MANEJEN COMBUSTIBLES O EXPLOSIVOS DE CUALQUIER TIPO TAMBIEN SE CONSIDERAN EDIFICACIONES DE RIESGO MAYOR.
+
+###### ARTICULO 171.
+
+LAS EDIFICACIONES DE RIESGO MENOR, DEBERAN CONTAR EN CADA PISO CON EXTINGUIDORES CONTRA INCENDIOS COLOCADOS EN LOS LUGARES FACILMENTE ACCESIBLES Y CON SEÑALAMIENTOS QUE INDIQUEN SU UBICACION DE TAL MANERA QUE SU ACCESO, DESDE CUALQUIER PUNTO DEL EDIFICIO NO SE ENCUENTRE A MAYOR DISTANCIA DE 30.0 METROS.
+
+LAS EDIFICACIONES DE RIESGO MAYOR DEBERAN DISPONER ADEMAS DE LO REQUERIDO PARA LAS DE RIESGO MENOR A QUE SE REFIERE EL PARRAFO ANTERIOR, DE REDES DE HIDRANTES QUE CUMPLAN CON LAS ESPECIFICACIONES MIMAS (SIC) REQUERIDAS.
+
+###### ARTICULO 172.
+
+LOS ELEMENTOS ESTRUCTURALES DE ACERO Y DE MADERA DE LAS EDIFICACIONES DE RIESGO MAYOR DEBERAN PROTEGERSE CON PINTURAS RETARDANTES AL FUEGO U OTROS MATERIALES AISLANTES QUE APRUEBE EL AYUNTAMIENTO, EN LOS ESPESORES NECESARIOS PARA AUMENTAR LA RESISTENCIA AL FUEGO.
+
+###### ARTICULO 173.
+
+LOS PLAFONES Y SUS ELEMENTOS DE SUSPENSION Y SUSTENTACION SE CONSTRUIRAN EXCLUSIVAMENTE CON MATERIALES CUYA RESISTENCIA AL FUEGO SEA DE UNA HORA CUANDO MENOS.
+
+###### ARTICULO 174.
+
+EN LOS PAVIMENTOS DE LAS AREAS DE CIRCULACION GENERALES DE EDIFICIOS SE EMPLEARA UNICAMENTE MATERIALES A PRUEBA DE FUEGO.
+
+###### ARTICULO 175.
+
+EL FUNCIONAMIENTO DE LOS SISTEMAS CONTRA INCENDIO, DEBERA SER PROBADO COMO MAXIMO CADA 180 DIAS NATURALES.
+
+###### ARTICULO 176.
+
+LOS DUCTOS PARA INSTALACIONES EXCEPTO LOS DE RETORNO DE AIRE ACONDICIONADO, PROLOGARAN (SIC) Y VENTILARAN SOBRE LA AZOTEA MAS ALTA QUE TENGAN ACCESO.
+
+###### ARTICULO 177.
+
+LOS EDIFICIOS DE ESPARCIMIENTO O DE CONCENTRACIONES MAYORES A 100 OCUPANTES, DEBERAN CONTAR CON SEÑALAMIENTO DE SALIDAS DE EMERGENCIA Y EN CASO DE SER MAYOR DE UN NIVEL CON ESCALERAS DE EMERGENCIA.
 
 ## TRANSITORIOS
 
