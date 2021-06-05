@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2021-05-22"
+last_updated: "2021-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -245,7 +245,9 @@ X. Fomentar la comercialización, promoción y difusión de las rutas y destinos
 
 XI. Promover la inversión nacional y extranjera en el desarrollo de infraestructura turística en todo el territorio oaxaqueño;
 
-XII. Impulsar la capacitación permanente de los prestadores de servicios, buscando con ello generar una cultura de servicio y asistencia al turista;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+XII. Impulsar la capacitación permanente de los prestadores de servicios en turismo sustentable, con perspectiva de género, buscando con ello generar una cultura de servicio y asistencia al turista;
 
 XIII. Elaborar y emprender proyectos estratégicos, innovadores y sustentables que sean eficaces para lograr el desarrollo turístico conservando en un ámbito de respeto el patrimonio cultural.
 
@@ -365,9 +367,15 @@ XIV. Expedir o revocar previo acuerdo del Gobernador del Estado las concesiones 
 
 XV. Participar y coadyuvar con los Gobiernos Municipales, así como los sectores social y privado, dentro del proceso integral de planeación turística Estatal;
 
-XVI. Promover la celebración de acuerdos, convenios de coordinación y bases de colaboración con otras dependencias estatales, con los gobiernos federal y municipal y con organizaciones de los sectores social y privado a fin de facilitar e intensificar las actividades turísticas; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XVII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, el Reglamento de ésta Ley, el Reglamento Interno y demás disposiciones aplicables.
+XVI. Promover la celebración de acuerdos, convenios de coordinación y bases de colaboración con otras dependencias estatales, con los gobiernos federal y municipal y con organizaciones de los sectores social y privado a fin de facilitar e intensificar las actividades turísticas;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+XVII. Implementar mecanismos de coordinación con los Municipios, para lograr la transversalidad de la perspectiva de género, en el sector turístico a través de la coordinación de acciones a nivel municipal en el ámbito de sus respectivas competencias; y
+
+XVIII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, el Reglamento de esta Ley, el Reglamento Interno y demás disposiciones aplicables.
 
 ###### Artículo 10.
 
@@ -385,7 +393,9 @@ COMISIÓN EJECUTIVA DE TURISMO.
 
 La Comisión Ejecutiva de Turismo, es un órgano intersecretarial, que tiene por objeto conocer, atender y resolver los asuntos de naturaleza turística relacionados con la competencia de dos o más dependencias o entidades de la Administración Pública del Estado, así como fungir como órgano de consulta para los asuntos que la Secretaría considere oportuno poner a su consideración.
 
-La Comisión será presidida por el titular de la Secretaría, quien tendrá voto de calidad, y estará integrada por los titulares de las Secretarias de Gobierno, Finanzas, de Administración, de Economía, de las Infraestructuras y el Ordenamiento Territorial Sustentable, de Desarrollo Social y Humano y de Contraloría y Transparencia Gubernamental.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
+
+La Comisión será presidida por el titular de la Secretaría, quien tendrá voto de calidad, y estará integrada por los titulares de las Secretarías de Gobierno, Finanzas, de Administración, de Economía, de las Infraestructuras y el Ordenamiento Territorial Sustentable, de Desarrollo Social y Humano, de las Mujeres de Oaxaca, y de Contraloría y Transparencia Gubernamental.
 
 A la Comisión podrán ser invitados a participar las principales organizaciones sectoriales de turismo, legisladores, autoridades municipales, instituciones de educación superior, representantes de los sectores social y privado, exclusivamente con derecho a voz.
 
@@ -1078,3 +1088,9 @@ P.O. 22 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2447.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 5, DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación; Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1784.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XII DEL ARTÍCULO 7,; (SIC) LA FRACCIÓN XVI DEL ARTÍCULO 9; Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 11; Y SE ADICIONA LA FRACCIÓN, XVII RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 9 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
