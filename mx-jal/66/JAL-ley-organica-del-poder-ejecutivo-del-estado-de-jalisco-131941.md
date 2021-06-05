@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2021-03-09"
+last_updated: "2021-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -1641,9 +1641,9 @@ d) Actividades culturales y recreativas entre los trabajadores y sus familias;
 
 XI. Realizar las funciones de inspección de jurisdicción estatal y vigilar el cumplimiento de las normas laborales en todos los rubros;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XII. Operar el Padrón de Jornaleros Agrícolas con el objetivo de identificar la fuerza laboral agrícola en la entidad, para lo cual podrá coordinarse mediante Convenio de Colaboración con los municipios del Estado de Jalisco; y
+XII. Operar y publicar el Padrón de Jornaleros Agrícolas con el objetivo de identificar la fuerza laboral agrícola en la entidad, para lo cual podrá coordinarse mediante Convenio de Colaboración con los municipios del Estado de Jalisco, además de que usará los medios al alcance para difundir a la comunidad agrícola sobre la operación de dicho padrón y éste tendrá que actualizarse por lo menos una vez al año.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2020)</small>
 
@@ -3140,3 +3140,9 @@ P.O. 9 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28289/LXII/2021 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXXII, XXXVIII, XLIII, XLVII DEL NUMERAL 1, DEL ARTÍCULO 17, FRACCIÓN IX DEL NUMERAL 1 DEL ARTÍCULO 23, FRACCIONES XIV, XX, XXVII, XXIX Y XXXI DEL NUMERAL 1 DEL ARTÍCULO 25 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 5 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28392/LXII/21 DEL CONGRESO DEL ESTADO, QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 32 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
