@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2020-05-29"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -193,117 +193,123 @@ XXVIII. Estudio de Riesgo: Documento mediante el cual se da a conocer a partir d
 
 XXIX. Evaluación de Impacto Ambiental: Procedimiento a través del cual la secretaría analizará la procedencia ambiental de proyectos específicos, así como las condiciones a que se sujetarán los mismos para la realización de las obras, públicas o privadas, que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente, preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos;
 
-XXX. Fuentes Fijas: Los establecimientos industriales, mercantiles, agropecuarios o de servicios que emitan contaminantes al ambiente y cuya regulación no se encuentra reservada a la federación;
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-XXXI. Fuentes Móviles: Todo artefacto propulsado por un motor que se encuentre destinado al transporte terrestre o acuático de personas o de carga, o ambos, de uso privado o de servicio público que emitan o puedan emitir contaminantes al ambiente;
+XXX. Fondo Estatal: Al Fondo de Vigilancia, Inspección, Preservación, Restauración y Mejoramiento de la Biodiversidad y el Medio Ambiente;
 
-XXXII. Generación: Acción de producir residuos a través del desarrollo de procesos productivos o de consumo;
+XXXI. Fuentes Fijas: Los establecimientos industriales, mercantiles, agropecuarios o de servicios que emitan contaminantes al ambiente y cuya regulación no se encuentra reservada a la federación;
 
-XXXIII. Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
+XXXII. Fuentes Móviles: Todo artefacto propulsado por un motor que se encuentre destinado al transporte terrestre o acuático de personas o de carga, o ambos, de uso privado o de servicio público que emitan o puedan emitir contaminantes al ambiente;
 
-XXXIV. Germoplasma: Conjunto formado por el total del material hereditario o banco genético; que contiene todas las posibles variaciones que presentan una o varias especies, poblaciones y grupos;
+XXXIII. Generación: Acción de producir residuos a través del desarrollo de procesos productivos o de consumo;
 
-XXXV. Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
+XXXIV. Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
 
-XXXVI. Hábitat: El sitio específico en un medio ambiente, físico, ocupado por un organismo, una población, una especie o comunidades de especies en un tiempo determinado;
+XXXV. Germoplasma: Conjunto formado por el total del material hereditario o banco genético; que contiene todas las posibles variaciones que presentan una o varias especies, poblaciones y grupos;
 
-XXXVII. Impacto Ambiental: Modificación del ambiente, ocasionado por la acción del hombre o de la naturaleza;
+XXXVI. Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
 
-XXXVIII. Información Ambiental: Cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades ambientales en materia de agua, aire, suelo, vida silvestre y recursos naturales en general, así como sobre las actividades o medidas que les afecten o puedan afectarlos;
+XXXVII. Hábitat: El sitio específico en un medio ambiente, físico, ocupado por un organismo, una población, una especie o comunidades de especies en un tiempo determinado;
 
-XXXIX. Informe Preventivo: El documento mediante el cual se da a conocer la información ambiental que establece esta Ley sobre una obra o actividad;
+XXXVIII. Impacto Ambiental: Modificación del ambiente, ocasionado por la acción del hombre o de la naturaleza;
 
-XL. Lago: Depósito natural de aguas nacionales delimitado por la cota de la creciente máxima ordinaria;
+XXXIX. Información Ambiental: Cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades ambientales en materia de agua, aire, suelo, vida silvestre y recursos naturales en general, así como sobre las actividades o medidas que les afecten o puedan afectarlos;
 
-XLI. Ley: Ley Estatal del Equilibrio Ecológico y Protección al Ambiente del Estado de Nayarit;
+XL. Informe Preventivo: El documento mediante el cual se da a conocer la información ambiental que establece esta Ley sobre una obra o actividad;
 
-XLII. Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
+XLI. Lago: Depósito natural de aguas nacionales delimitado por la cota de la creciente máxima ordinaria;
 
-XLIII. Lixiviado: Líquido que se forma por la reacción, arrastre o filtrado de los materiales que constituyen los residuos y que contiene en forma disuelta o en suspensión, sustancias que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositan los residuos y que puede dar lugar a la contaminación del suelo y de cuerpos de agua, provocando su deterioro y representar un riesgo potencial a la salud humana y de los demás organismos vivos;
+XLII. Ley: Ley Estatal del Equilibrio Ecológico y Protección al Ambiente del Estado de Nayarit;
 
-XLIV. Manejo: Conjunto de actividades que incluyen, tratándose de recursos naturales, la extracción, utilización, explotación, aprovechamiento, administración, conservación, restauración, desarrollo, mantenimiento y vigilancia; o tratándose de materiales o residuos, el almacenamiento, la recolección, transporte, alojamiento, reuso, tratamiento, reciclaje, incineración y disposición final;
+XLIII. Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
 
-XLV. Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+XLIV. Lixiviado: Líquido que se forma por la reacción, arrastre o filtrado de los materiales que constituyen los residuos y que contiene en forma disuelta o en suspensión, sustancias que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositan los residuos y que puede dar lugar a la contaminación del suelo y de cuerpos de agua, provocando su deterioro y representar un riesgo potencial a la salud humana y de los demás organismos vivos;
 
-XLVI. Manifestación de Impacto Ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+XLV. Manejo: Conjunto de actividades que incluyen, tratándose de recursos naturales, la extracción, utilización, explotación, aprovechamiento, administración, conservación, restauración, desarrollo, mantenimiento y vigilancia; o tratándose de materiales o residuos, el almacenamiento, la recolección, transporte, alojamiento, reuso, tratamiento, reciclaje, incineración y disposición final;
 
-XLVII. Material Genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
+XLVI. Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-XLVIII. Materiales Peligrosos: Los elementos, substancias, compuestos o residuos y sus mezclas, que por sus características corrosivas, tóxicas, reactivas, explosivas, inflamables, o biológico infecciosas, representan un riesgo para el ambiente, de conformidad con las normas oficiales aplicables;
+XLVII. Manifestación de Impacto Ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
-XLIX. Medidas de Mitigación: Conjunto de acciones que deberá ejecutar el promovente de una obra o actividad para atenuar los impactos y restablecer o compensar las condiciones ambientales;
+XLVIII. Material Genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
 
-L. Medidas de Prevención: Conjunto de acciones que deberá ejecutar el promovente de una obra o actividad para evitar efectos previsibles del deterioro del ambiente;
+XLIX. Materiales Peligrosos: Los elementos, substancias, compuestos o residuos y sus mezclas, que por sus características corrosivas, tóxicas, reactivas, explosivas, inflamables, o biológico infecciosas, representan un riesgo para el ambiente, de conformidad con las normas oficiales aplicables;
 
-LI. Mitigación de Gases de Efecto Invernadero: Emprendimiento de planes y programas encaminados a reducir o capturar gases de efecto invernadero;
+L. Medidas de Mitigación: Conjunto de acciones que deberá ejecutar el promovente de una obra o actividad para atenuar los impactos y restablecer o compensar las condiciones ambientales;
 
-LII. Normas Oficiales: Las Normas Oficiales Mexicanas;
+LI. Medidas de Prevención: Conjunto de acciones que deberá ejecutar el promovente de una obra o actividad para evitar efectos previsibles del deterioro del ambiente;
 
-LIII. Normas Ambientales: Las Normas de carácter técnico expedidas por la Secretaría;
+LII. Mitigación de Gases de Efecto Invernadero: Emprendimiento de planes y programas encaminados a reducir o capturar gases de efecto invernadero;
 
-LIV. Ordenamiento Ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del ambiente, la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+LIII. Normas Oficiales: Las Normas Oficiales Mexicanas;
 
-LV. Parques Estatales: Son aquellos que se constituirán tratándose de representaciones biogeográficas en el ámbito estatal de uno o más ecosistemas que se caractericen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora y fauna, por su aptitud para el desarrollo del turismo sustentable o bien por otras razones análogas de interés general;
+LIV. Normas Ambientales: Las Normas de carácter técnico expedidas por la Secretaría;
 
-LVI. Preservación: Conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitats naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitats naturales;
+LV. Ordenamiento Ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del ambiente, la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
-LVII. Prevención: Conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+LVI. Parques Estatales: Son aquellos que se constituirán tratándose de representaciones biogeográficas en el ámbito estatal de uno o más ecosistemas que se caractericen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora y fauna, por su aptitud para el desarrollo del turismo sustentable o bien por otras razones análogas de interés general;
 
-LVIII. Programa de Manejo: Documento rector y planificador de las áreas naturales protegidas que contiene la información básica y establece normas de uso de los recursos;
+LVII. Preservación: Conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitats naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitats naturales;
 
-LIX. Protección: Conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
+LVIII. Prevención: Conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-LX. Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
+LIX. Programa de Manejo: Documento rector y planificador de las áreas naturales protegidas que contiene la información básica y establece normas de uso de los recursos;
 
-LXI. Reciclaje: Método de tratamiento que consiste en la transformación de los residuos con fines productivos y de reutilización;
+LX. Protección: Conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+LXI. Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
 
-LXI bis. Recipiente de Unicel: se refiere a recipientes, platos o contenedores del tipo de plástico denominado poliestireno, reciclable identificado con el número 06 y las siglas PS;
-
-LXII. Recurso Natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
-
-LXIII. Reservas Estatales: Las áreas donde existan uno o más ecosistemas que deban preservarse por ser de interés para la comunidad;
-
-LXIV. Residuo: Cualquier material que se genere en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita que pueda ser usado nuevamente y que requiera ser dispuesto finalmente, conforme a lo señalado por la presente ley;
-
-LXV. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
-
-LXVI. Residuos Domésticos: Aquellos que se generan en las casas habitación construcciones, demoliciones, parques, vía pública, oficinas, sitios de reunión, mercados, comercios, establecimientos de servicios e industrias y que no sean catalogados como industriales o peligrosos;
-
-LXVII. Residuos Incompatibles: Aquellos que al entrar en contacto o al ser mezclados con agua u otros materiales o residuos, reaccionan produciendo calor, presión, fuego, partículas, gases o vapores dañinos;
-
-LXVIII. Residuos Industriales: Todos aquellos residuos que se generan en actividades industriales, que no sean catalogados como domésticos o como residuos peligrosos;
-
-LXIX. Residuos Peligrosos: Son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en esta Ley;
-
-LXX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
-
-LXXI. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
-
-LXXII. Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
-
-LXXIII. Secretaría: Secretaría de Desarrollo Rural y Medio Ambiente;
-
-LXXIV. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales;
-
-LXXV. Separación Primaria: Acción de segregar los residuos sólidos urbanos y de manejo especial en orgánicos e inorgánicos;
-
-LXXVI. Separación Secundaria: Acción de segregar entre sí los residuos sólidos urbanos y de manejo especial que sean inorgánicos y susceptibles de ser valorizados;
-
-LXXVII. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad, a fin de que puedan incorporarse al ciclo económico o ser dispuestos con seguridad;
-
-LXXVIII. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
-
-LXXIX. Vaso: El depósito natural de aguas, delimitando por la cota de la creciente máxima y ordinaria;
-
-LXXX. Vida silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales, y
+LXII. Reciclaje: Método de tratamiento que consiste en la transformación de los residuos con fines productivos y de reutilización;
 
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-LXXX bis. Zona costera nacional: Es el territorio determinado por acuerdo de los gobiernos federal, estatal y municipal correspondiente a los ecosistemas costeros en términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
+LXII bis. Recipiente de Unicel: se refiere a recipientes, platos o contenedores del tipo de plástico denominado poliestireno, reciclable identificado con el número 06 y las siglas PS;
 
-LXXXI. Zonas críticas prioritarias: Las áreas o sitios que presenten graves problemas de degradación que afectan la calidad de los recursos del aire, agua, suelo o biota y que representen peligro a largo plazo a la salud pública o al ambiente.
+LXIII. Recurso Natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
+
+LXIV. Reservas Estatales: Las áreas donde existan uno o más ecosistemas que deban preservarse por ser de interés para la comunidad;
+
+LXV. Residuo: Cualquier material que se genere en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita que pueda ser usado nuevamente y que requiera ser dispuesto finalmente, conforme a lo señalado por la presente ley;
+
+LXVI. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+
+LXVII. Residuos Domésticos: Aquellos que se generan en las casas habitación construcciones, demoliciones, parques, vía pública, oficinas, sitios de reunión, mercados, comercios, establecimientos de servicios e industrias y que no sean catalogados como industriales o peligrosos;
+
+LXVIII. Residuos Incompatibles: Aquellos que al entrar en contacto o al ser mezclados con agua u otros materiales o residuos, reaccionan produciendo calor, presión, fuego, partículas, gases o vapores dañinos;
+
+LXIX. Residuos Industriales: Todos aquellos residuos que se generan en actividades industriales, que no sean catalogados como domésticos o como residuos peligrosos;
+
+LXX. Residuos Peligrosos: Son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en esta Ley;
+
+LXXI. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
+
+LXXII. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+
+LXXIII. Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+LXXIV. Secretaría: Secretaría de Desarrollo Sustentable;
+
+LXXV. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales;
+
+LXXVI. Separación Primaria: Acción de segregar los residuos sólidos urbanos y de manejo especial en orgánicos e inorgánicos;
+
+LXXVII. Separación Secundaria: Acción de segregar entre sí los residuos sólidos urbanos y de manejo especial que sean inorgánicos y susceptibles de ser valorizados;
+
+LXXVIII. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad, a fin de que puedan incorporarse al ciclo económico o ser dispuestos con seguridad;
+
+LXXIX. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
+
+LXXX. Vaso: El depósito natural de aguas, delimitando por la cota de la creciente máxima y ordinaria;
+
+LXXXI. Vida silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales, y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+LXXXI bis. Zona costera nacional: Es el territorio determinado por acuerdo de los gobiernos federal, estatal y municipal correspondiente a los ecosistemas costeros en términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
+
+LXXXII. Zonas críticas prioritarias: Las áreas o sitios que presenten graves problemas de degradación que afectan la calidad de los recursos del aire, agua, suelo o biota y que representen peligro a largo plazo a la salud pública o al ambiente.
 
 ### CAPÍTULO II. De las atribuciones del Estado, concurrencia del Gobierno de la Entidad y sus Municipios, y coordinación entre los tres niveles de Gobierno
 
@@ -1661,11 +1667,15 @@ Artículo 119 C.- La Comisión Intersecretarial de Cambio Climático es el órga
 
 Artículo 119 D.- La Comisión Intersecretarial se conformará por los titulares de las siguientes Secretarías del Gobierno del Estado:
 
-I. De Desarrollo Rural y Medio Ambiente, quien la presidirá;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+I. De Desarrollo Sustentable, quien la presidirá;
 
 II. General de Gobierno;
 
-III. De Planeación, Programación y Presupuesto;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+III. De Desarrollo Rural;
 
 IV. De Educación;
 
@@ -1673,7 +1683,9 @@ V. De Turismo;
 
 VI. De Salud;
 
-VII. De Obras Públicas, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+VII. De Infraestructura, y
 
 VIII. De Administración y Finanzas.
 
@@ -3833,9 +3845,15 @@ En ningún caso, los responsables de la infracción que hubiera dado lugar al de
 
 La Secretaría podrá promover ante las autoridades federales o locales competentes, con base en los estudios que haga para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o cualquier actividad que afecte o pueda afectar el ambiente, los recursos naturales, o causar desequilibrio ecológico o pérdida de la biodiversidad.
 
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 260.
 
-Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley, su reglamento y demás disposiciones que de ella se deriven, así como los que se obtengan del remate en subasta pública o la venta directa de los bienes decomisados, se destinarán a la integración de fondos para desarrollar programas vinculados con la inspección y la vigilancia en las materias a que se refiere esta Ley.
+Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley, su reglamento y demás disposiciones que de ella se deriven, los que se obtengan del remate en subasta pública o la venta directa del decomiso de los instrumentos o bienes señalados en la presente Ley, así como los ingresos por los conceptos reconocidos en los artículos 92 y 113 D de esta Ley, se destinarán a la integración del Fondo Estatal, para desarrollar programas vinculados con la inspección, vigilancia, preservación, restauración y mejoramiento de la biodiversidad y el medio ambiente.
+
+Las multas y demás ingresos señalados en el párrafo anterior, deberán ser pagados en el área encargada de administrar los recursos de la Secretaría; sí el infractor no cumple con su obligación, la Secretaría dará vista a las autoridades hacendarias a efecto de que procedan a su ejecución coactiva conforme a la legislación fiscal aplicable.
+
+Los recursos económicos cobrados de manera coactiva por las autoridades hacendarias obtenidos por la aplicación de la presente Ley, serán remitidos por la autoridad hacendaria en un plazo no mayor a 30 días hábiles, al área destinada a administrar los recursos de la Secretaría.
 
 ### CAPÍTULO III. Recurso de Revisión
 
@@ -4096,3 +4114,9 @@ P.O. 29 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LOS INCISOS A) Y B) DEL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT, EN MATERIA DE FONDO ESTATAL PARA LA VIGILANCIA, INSPECCIÓN, PRESERVACIÓN, RESTAURACIÓN Y MEJORAMIENTO DE LA BIODIVERSIDAD Y EL AMBIENTE”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
