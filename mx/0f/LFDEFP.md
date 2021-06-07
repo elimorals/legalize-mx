@@ -4,7 +4,7 @@ identifier: "LFDEFP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1998-05-28"
-last_updated: "2019-05-01"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11736&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LFDEFP"
 ---
 # LEY FEDERAL DE DEFENSORIA PUBLICA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el jueves 28 de mayo de 1998.
 
@@ -48,11 +50,11 @@ LEY FEDERAL DE DEFENSORÍA PÚBLICA
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1.
 
-La presente Ley tiene por objeto regular la prestación del servicio de defensoría pública en asuntos del fuero federal, a fin de garantizar el derecho a la defensa en materia penal y laboral y el acceso a la justicia mediante la orientación, asesoría y representación jurídica en los términos que la misma establece.
+La presente Ley tiene por objeto regular la prestación del servicio de defensoría pública en asuntos del fuero federal, a fin de garantizar el derecho a la defensa en materia penal, laboral, así como amparo en materia familiar u otras materias que determine el Consejo de la Judicatura Federal, y el acceso a la justicia mediante la orientación, asesoría y representación jurídica en los términos que la misma establece.
 
 ###### Artículo 2.
 
@@ -84,9 +86,9 @@ III. Tener como mínimo tres años de experiencia profesional en las materias re
 
 IV. Gozar de buena fama y solvencia moral;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
 
-V. Aprobar los exámenes de ingreso y oposición correspondientes;
+V. Aprobar los exámenes de ingreso y oposición correspondientes, que para tal efecto implemente la Escuela Federal de Formación Judicial;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
@@ -126,9 +128,11 @@ II. El ejercicio particular de la profesión de abogado, salvo que se trate de c
 
 III. Actuar como mandatarios judiciales, tutores, curadores o albaceas, depositarios judiciales, síndicos, administradores, interventores en quiebra o concurso, ni corredores, notarios, comisionistas, árbitros, ni ser mandatarios judiciales ni endosatarios en procuración, o ejercer cualquier otra actividad cuando ésta sea incompatible con sus funciones.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 8.
 
-El servicio civil de carrera para los defensores públicos y asesores jurídicos, comprende la selección, ingreso, adscripción, permanencia, promoción, capacitación, prestaciones, estímulos y sanciones. Este servicio civil de carrera se regirá por esta Ley, por las disposiciones generales que dicte el Consejo de la Judicatura Federal y por las bases generales de organización y funcionamiento del Instituto Federal de Defensoría Pública.
+El servicio civil de carrera para las y los defensores públicos y las y los asesores jurídicos, comprende la selección, ingreso, adscripción, permanencia, promoción, capacitación, prestaciones, estímulos y sanciones. Este servicio civil de carrera se regirá por esta Ley, por las disposiciones generales que dicte el Consejo de la Judicatura Federal y por la normatividad aplicable.
 
 ###### Artículo 9.
 
@@ -406,17 +410,17 @@ La Junta Directiva tendrá las facultades siguientes:
 
 I. Fijar la política y las acciones relacionadas con la defensoría pública, considerando las opiniones que al respecto se le formulen;
 
-II. Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de los defensores públicos y asesores jurídicos, e igualmente se proporcione a la Junta asesoramiento técnico en las áreas o asuntos específicos en que ésta lo requiera;
+II. (DEROGADA, D.O.F. 7 DE JUNIO DE 2021)
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 III. Propiciar que las diversas instancias públicas y privadas apoyen las modalidades del sistema de libertad provisional o de garantía económica de los defendidos que carezcan de recursos económicos suficientes para el pago de la caución que se les fije;
 
-IV. Promover la realización de estudios tendientes a perfeccionar el servicio de defensoría pública;
+IV. (DEROGADA, D.O.F. 7 DE JUNIO DE 2021)
 
 V. Impulsar la celebración de convenios con los distintos sectores sociales y organismos públicos y privados;
 
-VI. Aprobar los lineamientos para la selección, ingreso y promoción de los defensores públicos y asesores jurídicos;
+VI. (DEROGADA, D.O.F. 7 DE JUNIO DE 2021)
 
 VII. Aprobar las bases generales de organización y funcionamiento del Instituto Federal de Defensoría Pública;
 
@@ -424,7 +428,9 @@ VIII. Aprobar la propuesta de anteproyecto de presupuesto que se someta a la con
 
 IX. Aprobar los lineamientos generales para la contratación de abogados particulares en los casos a que se refiere esta Ley, atendiendo los criterios presupuestales y de administración que determine el Consejo de la Judicatura Federal;
 
-X. Aprobar el Plan Anual de Capacitación y Estímulos del Instituto Federal de Defensoría Pública;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+X. Aprobar el Plan Anual de Estímulos del Instituto Federal de Defensoría Pública;
 
 XI. Examinar y aprobar los informes periódicos que someta a su consideración el Director General, y
 
@@ -522,19 +528,47 @@ II. Sean deudores, socios, arrendatarios, herederos, tutores o curadores de la p
 
 El asesor jurídico expondrá por escrito su excusa a su superior jerárquico, el cual, después de cerciorarse que es justificada lo expondrá al solicitante designando a otro defensor.
 
-### CAPÍTULO VI. Del Plan Anual de Capacitación y Estímulo
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+### CAPÍTULO VI. Del Plan Anual de Capacitación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 36.
 
-Para el mejor desempeño del personal del Instituto Federal de Defensoría Pública se elaborará un Plan Anual de Capacitación y Estímulo, de acuerdo con los criterios siguientes:
+Para el mejor desempeño del personal del Instituto Federal de Defensoría Pública, la Escuela Federal de Formación Judicial elaborará un Plan Anual de Capacitación, de acuerdo con los criterios siguientes:
 
-I. Se recogerán las orientaciones que proporcione la Junta Directiva del Instituto;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+I. Se recogerán las recomendaciones que proporcione la Junta Directiva del Instituto;
 
 II. Se concederá amplia participación a los defensores públicos y asesores jurídicos en la formulación, aplicación y evaluación de los resultados del plan;
 
 III. Se procurará extender la capacitación a los trabajadores sociales y peritos, en lo que corresponda y para interrelacionar a todos los profesionales del Instituto Federal de Defensoría Pública y optimar su preparación y el servicio que prestan, y
 
-IV. Se preverán estímulos económicos para el personal cuyo desempeño lo amerite.
+IV. (DEROGADA, D.O.F. 7 DE JUNIO DE 2021)
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+###### Artículo 36 Bis.
+
+La Escuela Federal de Formación Judicial tendrá las atribuciones siguientes:
+
+I. La capacitación de las personas defensoras públicas y las personas asesoras jurídicas del Instituto para efectos del servicio de carrera;
+
+II. Aprobar los lineamientos para la selección, ingreso y promoción de los defensores públicos, defensoras públicas y asesores jurídicos o asesoras jurídicas;
+
+III. Llevar a cabo el proceso de selección y oposición para el ingreso al servicio de carrera;
+
+IV. Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de las y los defensores públicos y las y los asesores jurídicos, e igualmente se proporcione a la Junta asesoramiento técnico en las áreas o asuntos específicos en que ésta lo requiera;
+
+V. Promover la realización de estudios tendientes a perfeccionar el servicio de defensoría pública;
+
+VI. Aprobar y ejecutar el Plan Anual de Capacitación del Instituto Federal de Defensoría Pública, en los términos de esta Ley y demás disposiciones aplicables;
+
+VII. Llevar a cabo la capacitación de las personas trabajadoras sociales y peritos, en lo que corresponda, para interrelacionar a todos los profesionales del Instituto Federal de Defensoría Pública, así como optimizar su preparación y el servicio que prestan, y
+
+VIII. Las demás que le otorgue esta Ley y otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO VII. De la Responsabilidad de los Defensores Públicos y Asesores Jurídicos
 
@@ -781,3 +815,51 @@ Vigésimo Séptimo. Representantes de los trabajadores y de los patrones ante la
 Asimismo, de incurrir los representantes trabajadores y patrones en algún tipo de responsabilidad, le serán aplicables las sanciones contenidas en la Ley Federal del Trabajo vigente.
 
 Vigésimo Octavo. Derogación explícita y tácita de preceptos incompatibles. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+
+D.O.F. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LA LEY DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACIÓN; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA; DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; DE LA LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo siguiente:
+
+I. Las disposiciones relativas a los Tribunales Colegiados de Apelación en sustitución de los Tribunales Unitarios de Circuito, entrarán en vigor de manera gradual y escalonada en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
+II. Las disposiciones relativas a los plenos Regionales en sustitución de los plenos de Circuito, entrarán en vigor en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
+III. Entrarán en vigor en la fecha en la que el Poder Judicial de la Federación realice la declaratoria a que se refiere el artículo Séptimo Transitorio de este Decreto:
+
+a) El artículo segundo del presente Decreto;
+
+b) Las disposiciones relativas a la Escuela Federal de Formación Judicial, y
+
+c) Las nuevas categorías de la Carrera Judicial.
+
+IV. Las reformas a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, entrarán en vigor a los 18 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+V. La reforma al artículo 218 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, entrará en vigor a los 6 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Segundo. Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
+
+Tercero. El procedimiento de sustituciones por ausencia de las personas titulares de los órganos jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Quinto. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Séptimo. Dentro de los 18 meses siguientes a la publicación del presente Decreto, el Poder Judicial de la Federación deberá emitir y publicar, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, la declaratoria para el inicio de la observancia de las nuevas reglas de la Carrera Judicial contenidas en el presente Decreto.
+
+Octavo. Las y los actuales oficiales administrativos podrán acceder a la categoría de oficial judicial, previo cumplimiento de los requisitos y evaluación que para tal efecto implemente el Consejo de la Judicatura Federal, en los términos de las disposiciones que éste emita. En caso de que dichos oficiales administrativos no puedan acceder a la nueva categoría, conservarán su actual puesto y los derechos inherentes a este.
+
+Noveno. Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su formato.
+
+Décimo. Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente Decreto mantendrán su obligatoriedad, salvo que sean interrumpidas en los términos que se prevén en el artículo 228 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al momento de la interrupción.
+
+Décimo Primero. Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran emitido con anterioridad a la entrada en vigor del nuevo sistema de precedentes obligatorios, mantendrán ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del presente Decreto podrán constituir jurisprudencia por precedente.
+
+Décimo Segundo. Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 26 de mayo de 1995.
+
+(NOTA: EL 16 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2021 Y SU ACUMULADA 105/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO DÉCIMO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+DÉCIMO TERCERO. CON EL FIN DE IMPLEMENTAR LA REFORMA CONSTITUCIONAL AL PODER JUDICIAL DE LA FEDERACIÓN PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 11 DE MARZO DE 2021 Y LAS LEYES REGLAMENTARIAS A LAS QUE SE REFIERE EL PRESENTE DECRETO, LA PERSONA QUE A SU ENTRADA EN VIGOR OCUPE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL DURARÁ EN ESE ENCARGO HASTA EL 30 DE NOVIEMBRE DE 2024. ASIMISMO, EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2016 CONCLUIRÁ SU ENCARGO EL 30 DE NOVIEMBRE DE 2023; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 24 DE FEBRERO DE 2019 CONCLUIRÁ SUS FUNCIONES EL 23 DE FEBRERO DE 2026; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL EJECUTIVO FEDERAL EL 18 DE NOVIEMBRE DE 2019 CONCLUIRÁ EL 17 DE NOVIEMBRE DE 2026; LAS CONSEJERAS DE LA JUDICATURA FEDERAL DESIGNADAS POR EL SENADO DE LA REPÚBLICA EL 20 DE NOVIEMBRE DE 2019 CONCLUIRÁN SU ENCARGO EL 19 DE NOVIEMBRE DE 2026; Y EL CONSEJERO DE LA JUDICATURA FEDERAL DESIGNADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2019 DURARÁ EN FUNCIONES HASTA EL 30 DE NOVIEMBRE DE 2026.
