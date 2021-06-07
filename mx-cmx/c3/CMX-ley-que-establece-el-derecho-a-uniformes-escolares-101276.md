@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-establece-el-derecho-a-uniformes-escolares-101276"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-11"
-last_updated: "2014-06-11"
+last_updated: "2021-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101276&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2014-06-10"
 ---
 # LEY QUE ESTABLECE EL DERECHO A UNIFORMES ESCOLARES GRATUITOS A ALUMNAS Y ALUMNOS INSCRITOS EN ESCUELAS PUBLICAS DE NIVEL BASICO EN EL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 7 DE JUNIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE ESTABLECE EL DERECHO A UNIFORMES ESCOLARES GRATUITOS A ALUMNAS Y ALUMNOS INSCRITOS EN ESCUELAS PÚBLICAS DE NIVEL BÁSICO EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JUNIO DE 2021 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 11 de junio de 2014.
 
@@ -95,3 +97,35 @@ TERCERO.- Durante el ciclo escolar 2012-2013 autorizado por la Secretaría de Ed
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiséis días del mes de noviembre del año dos mil trece.- POR LA MESA DIRECTIVA.- DIP. KARLA VALERIA GÓMEZ BLANCAS, PRESIDENTA.- DIP. BERTHA ALICIA CARDONA, SECRETARIA.- DIP. RODOLFO ONDARZA ROVIRA, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diez días del mes de junio del año dos mil catorce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, DR. MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- EL SECRETARIO DE GOBIERNO, HÉCTOR SERRANO CORTÉS.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, MARA ROBLES VILLASEÑOR.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE EDUCACIÓN DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se abrogan las siguientes leyes: Ley de Educación del Distrito Federal, publicada en la Gaceta Oficial de la Ciudad de México el 08 de junio del 2000; Ley que establece el derecho a uniformes escolares gratuitos a alumnas y alumnos inscritos en escuelas públicas de nivel básico en el Distrito Federal, publicada en la Gaceta Oficial de la Ciudad de México el 11 de junio de 2014; Ley que establece el derecho a un paquete de útiles escolares por ciclo escolar a todos los alumnos residentes en el Distrito Federal, inscritos en escuelas públicas del Distrito Federal en los niveles de preescolar, primaria y secundaria, publicada en la Gaceta Oficial de la Ciudad de México el 08 de mayo de 2008; Ley del Sistema Integral de Atención y Apoyo a las y los Estudiantes de Escuelas Públicas en el Distrito Federal, publicada en la Gaceta Oficial el 08 de octubre de 2014 y la Ley que establece el derecho a contar con una beca para los jóvenes residentes en el Distrito Federal, que estudien en los planteles de educación media superior y superior del Gobierno del Distrito Federal, publicada en la Gaceta Oficial de la Ciudad de México el 28 de noviembre del 2014.
+
+CUARTO.- La persona titular de la Jefatura de Gobierno contará con 180 días hábiles a partir de la entrada en vigor del presente decreto, para expedirá (sic) las normas reglamentarias correspondientes.
+
+QUINTO.- De acuerdo con lo que establecen las disposiciones de carácter federal, la Autoridad Educativa Federal mantendrá sus facultades y atribuciones correspondientes para la impartición de la educación inicial, básica, incluyendo la indígena, especial, así como la normal y demás para la formación de maestros de educación básica, en el ámbito de la Ciudad, mientras se lleve a cabo la descentralización de los servicios educativos y la transferencia de los recursos humanos, materiales y presupuestales, conforme al Acuerdo que celebre la Federación y el Gobierno de la Ciudad.
+
+Asimismo, de acuerdo con las disposiciones aplicables, la Secretaría de Educación Pública, hasta que no se lleve a cabo el proceso de descentralización referido en el Cuarto Transitorio de la presente Ley, realizará las actividades en materia de infraestructura educativa que le correspondan a la Ciudad en términos del Capítulo I, del Título Quinto de la Ley General de Educación.
+
+SEXTO.- La Secretaría, en coordinación con las autoridades correspondientes, realizará consultas de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, en pueblos y comunidades indígenas o afromexicanas, relativas a la aplicación de las disposiciones que en materia de educación indígena son contempladas en este Decreto; hasta en tanto, las autoridades educativas no realicen ninguna acción derivada de la aplicación de dichas disposiciones.
+
+SÉPTIMO.- El Gobierno de la Ciudad deberá presentar la propuesta educativa correspondiente a los servicios de educación inicial, comunitaria, técnica, profesional, educación especial y complementaria o de extensión académica, y de atención a la diversidad étnica o cultural, en un plazo que no exceda los dieciocho meses a partir de la publicación del presente Decreto.
+
+OCTAVO.- En un plazo de noventa días posteriores a la publicación de la presente ley, deberán armonizarse y emitirse los ordenamientos correspondientes a los Centros de Educación Inicial de conformidad a lo señalado en la presente Ley.
+
+NOVENO.- En un plazo no mayor a 180 días hábiles, a partir de la publicación del presente Decreto, la Secretaría emitirá las disposiciones y lineamientos para regular la operación de servicios educativos a cargo de particulares que no requieran autorización o no sean susceptibles del reconocimiento de validez oficial de estudios; los cuales serán publicados en la Gaceta Oficial de la Ciudad de México.
+
+DÉCIMO.- En un plazo no mayor a un año, a partir de la publicación del presente Decreto, la Secretaría emitirá las disposiciones y lineamientos en materia de evaluación del personal docente y de apoyo a la docencia adscrito a las instituciones educativas dependientes del Gobierno de la Ciudad.
+
+DÉCIMO PRIMERO.- En tanto se lleve a cabo la descentralización de los servicios educativos y la transferencia de los recursos humanos, materiales y presupuestales de la Federación a la Ciudad, entre la Autoridad Educativa Federal y la Secretaría, será suscrito un Acuerdo Marco de Colaboración, cuyo objetivo será facilitar el trabajo conjunto y cooperativo en todas aquellas áreas y aspectos en que concurran ambas autoridades. Este acuerdo tendrá fuerza legal, será revisado en forma anual, o cuando así convenga a las partes interesadas, e incluirá convenios específicos en áreas de interés mutuo.
+
+DÉCIMO SEGUNDO.- El Gobierno de la Ciudad garantizará que las erogaciones presupuestales generadas con motivo de las Leyes que abroga el presente Decreto, serán dirigidas a las dependencias del Sistema Educativo de la Ciudad de México que, en el marco de esta Ley, serán encargadas de su administración.
