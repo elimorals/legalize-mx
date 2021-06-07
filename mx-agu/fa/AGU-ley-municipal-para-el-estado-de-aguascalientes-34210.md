@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2019-09-30"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -2123,31 +2123,41 @@ Los cuerpos de bomberos serán dotados por el Ayuntamiento respectivo del equipa
 
 ## TITULO DECIMO PRIMERO. DE LA JUSTICIA MUNICIPAL
 
-### CAPITULO UNICO. De los Jueces Calificadores
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2021)</small>
+
+### CAPITULO UNICO. De los Jueces Cívicos
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 175.
 
-En cada Municipio, el Ayuntamiento designará, al menos, a un Juez Calificador con sede en la cabecera municipal y en los centros de población que se determine en cada caso.
+En cada Municipio, el Ayuntamiento designará, al menos, a un Juez Cívico con sede en la cabecera municipal y en los centros de población que se determine en cada caso.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 176.
 
-El Bando o Reglamento Municipal establecerá los requisitos para ocupar el cargo de Juez Calificador, pero invariablemente deberán ser evaluados actitudinalmente, a fin de que no efectúe prácticas discriminatorias, prejuiciosas, ausentes de perspectiva de género, y deberán acreditar contar con capacitación en materia de violencia y perspectiva de género, así como en arbitraje.
+El Bando o Reglamento Municipal establecerá los requisitos para ocupar el cargo de Juez Cívico, pero invariablemente deberán ser evaluados actitudinalmente, a fin de que no efectúe prácticas discriminatorias, prejuiciosas, ausentes de perspectiva de género, y deberán acreditar contar con capacitación en las materias de prevención de la violencia, perspectiva de género, así como mecanismos alternativos de solución de conflictos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 177.
 
-Son atribuciones de los jueces calificadores:
+Son atribuciones de los Jueces Cívicos:
 
-I. Conciliar a los habitantes de su adscripción en los conflictos que no sean constitutivos de delito, ni de la competencia de los órganos jurisdiccionales o de otras autoridades;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-II. Conocer, calificar e imponer las sanciones administrativas municipales que procedan por faltas o infracciones al Bando Municipal, reglamentos y demás disposiciones de carácter general contenidas en los ordenamientos expedidos por los ayuntamientos, excepto los de carácter fiscal;
+I. Ofrecer mecanismos alternativos de solución de conflictos a los habitantes de su adscripción en los conflictos que no sean constitutivos de delito, ni de la competencia de los órganos jurisdiccionales o de otras autoridades;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+II. Conocer, determinar e imponer las sanciones administrativas municipales que procedan por faltas o infracciones al Bando Municipal, reglamentos y demás disposiciones de carácter general contenidas en los ordenamientos expedidos por los ayuntamientos, excepto los de carácter fiscal;
 
 III. Apoyar a la autoridad municipal que corresponda, en la conservación del orden público y en la verificación de daños que, en su caso, se causen a los bienes propiedad municipal, haciéndolo saber a quien corresponda;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-IV. Llevar un libro en donde se asiente todo lo actuado;
+IV. Llevar un libro o una base de datos en donde se asiente todo lo actuado;
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -2157,9 +2167,11 @@ V. Informar diariamente por escrito de las novedades ocurridas durante el ejerci
 
 VI. Solicitar los informes de las instancias municipales facultadas para impartir cursos de concientización, referidos en el artículo 179, fracción VII de esta ley.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 178.
 
-El Bando o Reglamento Municipal determinará la forma de organización y funcionamiento de los juzgados calificadores de su Municipio.
+El Bando o Reglamento Municipal determinará la forma de organización y funcionamiento de los juzgados cívicos de su Municipio.
 
 ## TITULO DECIMO SEGUNDO. DE LAS SANCIONES ADMINISTRATIVAS
 
@@ -2540,3 +2552,15 @@ P.O. 30 DE SEPTIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 559.- SE REFORMAN LOS ARTÍCULOS 175, 176, 177 PRIMER PÁRRAFO Y SUS FRACCIONES I, II Y IV Y 178, ASÍ COMO EL NOMBRE DEL CAPÍTULO ÚNICO “DE LOS JUECES CALIFICADORES” DEL TÍTULO DÉCIMO PRIMERO, PARA PASAR A SER “DE LOS JUECES CÍVICOS”, TODOS DE LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de la entidad deberán adecuar sus normas internas de conformidad con esta reforma en un plazo máximo de un año contado a partir de su inicio de vigencia.
