@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-81582
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2018-12-21"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 25 de Mayo de 2011.
 
@@ -43,13 +43,11 @@ Ley de Pesca y Acuacultura Sustentables para el Estado de Nayarit
 
 ### Capítulo I. Generalidades
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de esta ley son de orden público e interés social y tienen por objeto planear, regular, fomentar y administrar el aprovechamiento integral y sustentable de los recursos pesqueros y acuícolas en el ámbito de competencia del Estado, con el fin de propiciar su desarrollo integral y sustentable, estableciendo las bases para el ejercicio de sus atribuciones que en términos de la Ley General de Pesca y Acuacultura Sustentables y su Reglamento, le competen al Estado y sus municipios, bajo el principio de concurrencia previsto en la Constitución Política de los Estados Unidos Mexicanos.
+Las disposiciones de esta ley son de orden público e interés social y tienen por objeto planear, regular, fomentar, ordenar, investigar y administrar el aprovechamiento integral y sustentable de los recursos pesqueros y acuícolas en el ámbito de competencia del Estado, con el fin de propiciar su desarrollo integral y sustentable, estableciendo las bases para el ejercicio de sus atribuciones que en términos de la Ley General de Pesca y Acuacultura Sustentables y su Reglamento, le competen al Estado y sus municipios, bajo el principio de concurrencia previsto en la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 2.
 
@@ -79,17 +77,21 @@ V. Promover y apoyar la investigación científica y tecnológica en la materia;
 
 VI. Promover las acciones de coordinación entre autoridades de los tres órdenes de gobierno, en donde se garantice la participación de los pescadores y acuacultores y sus organizaciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+VII. Organizar y promover la comercialización de los productos de la pesca y la acuacultura, así como de sus bienes y servicios;
 
-VII. Organizar y promover la comercialización de los productos de la pesca y la acuacultura, así como de sus bienes y servicios, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII. Fomentar la industrialización y el valor agregado a los productos pesqueros y acuícolas;
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-VIII. Fomentar la industrialización y el valor agregado a los productos pesqueros y acuícolas.
+IX. Impulsar de forma coordinada con la autoridad federal competente, los programas concurrentes previstos en el artículo 13 de la Ley General de Pesca y Acuacultura Sustentables, y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+X. Celebrar convenios de participación con el Gobierno Federal en acciones de inspección y vigilancia que contribuya a la conservación, preservación y la sustentabilidad de los recursos pesqueros y acuícolas involucrando la participación de los municipios y los productores.
 
 ###### Artículo 3.
 
@@ -405,17 +407,17 @@ LIII. Unidad de Manejo: Se integra con las áreas comprendidas en una zona delim
 
 LIV. Unidad de Pesca: Es la unidad operacional ocupada en la pesca y formada por el complejo de mano de obra y equipo, que puede llevar a cabo operaciones de pesca;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+LV. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un periodo o zona específica, establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie;
 
-LV. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un periodo o zona específica, establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+LVI. Zona de escasa prevalencia: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad o plaga de especies acuáticas vivas, en una especie y periodos específicos, y
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-LVI. Zona de escasa prevalencia: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad o plaga de especies acuáticas vivas, en periodos específicos.
+LVII. Zona de Refugio: Las áreas delimitadas en las aguas de jurisdicción federal, con la finalidad primordial de conservar y contribuir, natural o artificialmente, al desarrollo de los recursos pesqueros con motivo de su producción, crecimiento o reclutamiento, así como preservar y proteger el ambiente que lo rodea.
 
 ### Capítulo II. Competencias
 
@@ -447,7 +449,9 @@ II. Formular y ejercer la política local de inspección y vigilancia en materia
 
 III. Promover la creación de Comités Municipales de Pesca y Acuacultura, en donde se garantice la participación de los pescadores y acuicultores del municipio que se trate, a efecto de impulsar el desarrollo del sector;
 
-IV. Celebrar convenios o acuerdos de coordinación y colaboración con el gobierno federal, los municipios y otras entidades federativas en materia de pesca y acuacultura, conforme a las disposiciones de la Ley General y la presente ley;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+IV. Celebrar convenios o acuerdos de coordinación y colaboración con el gobierno federal, los municipios y otras entidades federativas en materia de pesca y acuacultura, conforme a las disposiciones de la Ley General de Pesca y Acuacultura Sustentables y la presente ley;
 
 V. Participar con las dependencias competentes de la Administración Pública Federal en la elaboración de planes de manejo y normas oficiales, conforme a las disposiciones de la Ley General;
 
@@ -517,25 +521,27 @@ XIX. Promover un plan integral de rehabilitación de los sistemas lagunarios, es
 
 XX. Las demás que le confiera la presente ley y su reglamento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 6.
 
-El Consejo Estatal de Pesca y Acuacultura es un organismo de planeación, consulta, promoción y análisis, para la formulación y evaluación de las acciones que se emprendan en materia de pesca y acuacultura en el Estado y tendrá los siguientes objetivos:
+El Consejo Estatal de Pesca y Acuacultura es un organismo de planeación, consulta, promoción, gestión y análisis, para la formulación y evaluación de las acciones que se emprendan en materia de pesca y acuacultura en el Estado y tendrá los siguientes objetivos:
 
 I. Proponer programas de carácter regional, estatal y municipal para el manejo adecuado de cultivos y pesquerías que impulsen el desarrollo de la pesca y la acuacultura, fortalecer las acciones de inspección y vigilancia, así como para la descentralización de programas, recursos y funciones;
 
 II. Contribuir a impulsar el aprovechamiento sustentable de los recursos pesqueros y acuícolas del Estado, con base en el conocimiento científico y tecnológico, y garantizando el cuidado y conservación del medio ambiente;
 
-III. Promover la coordinación entre los tres ordenes de gobierno, con la participación concertada de los sectores productivos de la Entidad, y los centros e instituciones de enseñanza e investigación, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+III. Promover la coordinación entre los tres órdenes de gobierno, con la participación concertada de los sectores productivos de la Entidad, y los centros e instituciones de enseñanza e investigación;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-IV. Proponer mecanismos de participación ordenada de los diversos sectores, en las actividades de pesca y acuacultura que se realicen en el Estado.
+IV. Proponer mecanismos de participación ordenada de los diversos sectores, en las actividades de pesca y acuacultura que se realicen en el Estado, y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+V. Representar por conducto de quien determine el Consejo a la Entidad, ante el Consejo Nacional de Pesca y Acuacultura y participar en el Comité Mixto del Fondo Mexicano para el Desarrollo Pesquero y Acuícola, de conformidad con la Ley General de Pesca y Acuacultura Sustentables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -559,9 +565,17 @@ d) Secretaria de Planeación, Programación y Presupuesto;
 
 e) Secretaría de Salud;
 
-f) Fiscalía General del Estado, y
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
-g) Dirección de Pesca y Acuacultura de la Secretaría, fungiendo su titular como secretario técnico.
+f) Fiscalía General del Estado;
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+g) Dirección de Pesca y Acuacultura de la Secretaría, fungiendo su titular como secretario técnico, y
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+h) Secretaría de Seguridad y Protección Ciudadana.
 
 III. El Presidente de la Comisión de Asuntos Pesqueros y Desarrollo Acuícola del Poder Legislativo del Estado;
 
@@ -579,9 +593,17 @@ b) Un representante del sector académico de la Universidad Autónoma de Nayarit
 
 c) Un representante de cada uno de los sistema-producto pesqueros y acuícolas;
 
-d) Un representante de la pesca deportivo-recreativa, y
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
-e) Un representante del INAPESCA.
+d) Un representante de la pesca deportivo-recreativa;
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+e) Un representante del INAPESCA, y
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+f) Un representante del Ayuntamiento de los Municipios donde se realicen actividades de Pesca y Acuacultura comercial.
 
 Los integrantes del Consejo designarán a su suplente por escrito y con carácter permanente, para que los supla en sus ausencias.
 
@@ -2606,3 +2628,9 @@ P.O. 21 DE DICIEMBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO.- Dentro de los seis meses siguientes a la entrada en vigor del presente decreto, los Ayuntamientos en coordinación con la Secretaría elaborarán el primer el (sic) registro de personas físicas y morales que se dedican a realizar actividades de compra a productores y comercio de recursos pesqueros y acuícolas el cual será publicado en las páginas electrónicas oficiales de la Secretaría y los Ayuntamientos donde se tengan actividades de producción y comercio de los referidos productos, en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
