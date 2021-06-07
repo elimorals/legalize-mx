@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2021-01-18"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -2035,7 +2035,9 @@ XIV. (DEROGADA, P.O. 18 DE MAYO DE 2018)
 
 XV. (DEROGADA, P.O. 18 DE MAYO DE 2018)
 
-XVI. (DEROGADA, P.O. 18 DE MAYO DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2021)</small>
+
+XVI. Integrar, equipar y operar brigadas de vigilancia animal para responder a las necesidades de protección y rescate de animales en situación de riesgo, estableciendo una coordinación interinstitucional para implantar operativos en esta materia y coadyuvar con asociaciones civiles en la protección y canalización de animales a centros de atención, refugios y albergues de animales. Así como tomar las acciones conducentes para prevenir o inhibir la comisión de delitos contra animales domésticos o silvestres, considerando la flagrancia y las facultades dispuestas en la legislación de protección de la fauna en el Estado de Nayarit;
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -2780,3 +2782,9 @@ P.O. 18 DE ENERO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO.- En un plazo que no exceda de sesenta días contados a partir de la entrada en vigor del presente Decreto habrán de realizarse las adecuaciones necesarias para la atención de lo dispuesto en el presente instrumento.
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 40 B, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
