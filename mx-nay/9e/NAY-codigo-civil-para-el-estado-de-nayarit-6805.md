@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2021-06-02"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -364,6 +364,34 @@ La Dirección Estatal del Registro Civil, establecerá las técnicas que se empl
 ###### Artículo 36.
 
 Estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, tutela, matrimonio, divorcio, defunción, declaración de ausencia, presunción de muerte y pérdida o limitación de la capacidad legal para administrar bienes, levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa anotación correspondiente al acta de nacimiento primigenia.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+La Dirección Estatal del Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos del Estado de Nayarit, en el que se inscribirá el nombre de las personas que hayan dejado de cumplir por más de noventa días, sus obligaciones alimentarias, ordenadas por los jueces y tribunales o establecidas por convenio judicial.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+El Registro Civil expedirá un certificado que informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos del Estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+El Registro Civil, una vez hecha la inscripción a que se refiere el presente artículo, formulará solicitud al Registro Público de la Propiedad a efecto de que se anote el Certificado respectivo en los folios reales de que sea propietario el deudor alimentario moroso. El Registro Público de la Propiedad informará al Registro Civil si fue procedente la anotación.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+El Registro Público de la Propiedad verificará el Registro de Deudores Alimentarios Morosos para que en caso de que el deudor alimentario pretenda adquirir, transmitir, modificar, limitar, extinguir la propiedad o posesión de bienes raíces o cualquier derecho real, deberá informar al Juez para que este resuelva lo que a su derecho corresponda y no podrá realizarse la inscripción.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+El Juez dará aviso al Colegio de Notarios del Estado de Nayarit para que hagan del conocimiento a los Notarios del Estado que el deudor alimentario cuenta con las prohibiciones señaladas en el párrafo anterior, así como su obligación de informar al Juez en caso de que el deudor alimentario pretenda realizar cualquiera de los actos jurídicos señalados en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+###### Artículo 36 Bis.
+
+La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
+Las copias certificadas de las actas de nacimiento expedidas por el Oficial del Registro Civil no tendrán caducidad, por lo que se podrán utilizar en la realización de trámites ante cualquier ente público o privado, siempre que se encuentren legibles y no presenten tachaduras, enmendaduras o cualquier aspecto que altere su contenido, o sobrevenga un cambio de nombre, de estado familiar, u otro que afecte los datos inscritos en ese documento.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -736,6 +764,10 @@ II.- Que no tienen impedimento legal para casarse, y;
 III.- Que es su voluntad unirse en matrimonio.
 
 Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere escribir, lo hará otra persona conocida, mayor de edad y vecina del lugar.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+El oficial del Registro Civil informará a los contrayentes inmediatamente después de la presentación de la solicitud, que es un requisito previo a la celebración del matrimonio, el tramitar y obtener un certificado expedido por el propio registro, para hacer de su conocimiento, si alguno de ellos se encuentra inscrito en el Registro de Deudores Alimentarios Morosos del Estado de Nayarit.
 
 ###### Artículo 94.
 
@@ -2257,6 +2289,58 @@ Los alimentos comprenden la comida, el vestido, la habitación y la asistencia e
 
 El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+Aquella persona que incumpla con el párrafo anterior por un periodo de noventa días se constituirá en deudor alimentario moroso.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+El juez ordenará al Registro Civil su inscripción en el Registro de Deudores Alimentarios Morosos del Estado de Nayarit, proporcionando al Registro los datos de identificación del deudor alimentario que señala el artículo 302 Bis, los cuales le serán proporcionados al juez por el acreedor alimentario.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+El deudor alimentario moroso que acredite ante el juez que han sido pagados en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+El Registro Civil cancelará las inscripciones a que se refiere el tercer párrafo previa orden judicial.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+###### Artículo 302 Bis.
+
+En el Registro de Deudores Alimentarios Morosos del Estado de Nayarit, se harán las inscripciones a que se refiere el artículo 302 del presente Código.
+
+Dicho registro contendrá:
+
+I. Nombre, apellidos, Registro Federal de Contribuyentes y Clave Única del Registro de Población del deudor alimentario moroso;
+
+II. Nombre del acreedor o acreedores alimentarios;
+
+III. Número de pagos incumplidos y monto del adeudo alimentario;
+
+IV. Órgano jurisdiccional que ordena el registro, y
+
+V. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+###### Artículo 302 Ter.
+
+El certificado a que se refiere el artículo 36 de este Código contendrá lo siguiente:
+
+I. Nombre, apellidos, Registro Federal de Contribuyentes y Clave Única de Registro de Población del deudor alimentario moroso;
+
+II. Número de acreedores alimentarios;
+
+III. Monto de la obligación adeudada;
+
+IV. Órgano jurisdiccional que ordenó el registro, y
+
+V. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+
+El Certificado a que se refiere el presente artículo, será expedido por el Registro Civil dentro de los tres días hábiles contados a partir de su solicitud. Para tal efecto, se deberá atender lo dispuesto por la normatividad aplicable en materia de protección de datos personales y con la modalidad que se establezca en términos del reglamento.
+
 ###### Artículo 303.
 
 El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
@@ -2735,11 +2819,17 @@ IV. Que la adopción es benéfica para la persona que trata de adoptarse;
 
 V. No haber sido condenado a la pérdida de la patria potestad;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-VI. No tener antecedentes penales por delito doloso; y
+VI. No tener antecedentes penales por delito doloso;
 
-VII. Las que señale la legislación aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2021)</small>
+
+VII. Que ninguno de los adoptantes se encuentre inscrito en el Registro de Deudores Alimentarios Morosos del Estado de Nayarit, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA , P.O. 7 DE JUNIO DE 2021)</small>
+
+VIII. Las que señale la legislación aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
 
@@ -4889,9 +4979,11 @@ Los beneficiarios de los bienes afectos al patrimonio de la familia serán repre
 
 El representante tendrá también la administración de dichos bienes.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 715.
 
-Los bienes afectos al patrimonio de la familia son inalienables y no estarán sujetos a embargo ni a gravamen alguno.
+Los bienes que constituyen el patrimonio de familia son inalienables, imprescriptibles, no podrán sujetarse a gravámenes reales ni a embargos y serán transmisibles a título de herencia con simplificación de las formalidades de los juicios sucesorios.
 
 ###### Artículo 716.
 
@@ -4901,11 +4993,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 718.
 
-El valor de los bienes afectos al patrimonio de la familia será la cantidad que resulte de multiplicar la UMA por veinte mil, en la época en que se constituya dicho patrimonio, con sujeción a avalúo realizado por perito oficial debidamente autorizado en el que se determinará el valor comercial de los bienes en cuestión.
+El valor de los bienes afectos al patrimonio de la familia será la cantidad que resulte de multiplicar la Unidad de Medida y Actualización diaria vigente por treinta mil, en la época en que se constituya dicho patrimonio, con sujeción a avalúo realizado por perito oficial debidamente autorizado en el que se determinará el valor comercial de los bienes en cuestión.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2000)</small>
 
@@ -8818,6 +8910,10 @@ Los daños y perjuicios deben ser consecuencia inmediata y directa de la falta d
 ###### Artículo 1484.
 
 Nadie está obligado al caso fortuito sino cuando ha dado causa o contribuido a él, cuando ha aceptado expresamente esa responsabilidad o cuando la ley se le impone.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+Se considerará enunciativamente caso fortuito las situaciones derivadas de catástrofes sufridas por fenómenos meteorológicos o de la naturaleza, plagas, epidemias, así como pandemias declaradas oficialmente cuando afecten la movilidad y convivencia social por recomendación u orden de la autoridad competente en la materia que corresponda.
 
 ###### Artículo 1485.
 
@@ -13539,7 +13635,13 @@ XII.- Las resoluciones judiciales en que se declare un concurso o se admita una 
 
 XIII.- El testimonio de las informaciones ad perpetuam promovidas y protocolizadas de acuerdo con lo que disponga el Código de Procedimientos Civiles;
 
-XIV.- Los demás títulos que la ley ordene expresamente que sean registrados.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2021)</small>
+
+XIV.- El Certificado del Registro de Deudores Alimentarios Morosos a que se refiere el artículo 36 del presente Código, atendiendo lo dispuesto por la normatividad aplicable en materia de protección de datos personales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2021)</small>
+
+XV.- Los demás títulos que la ley ordene expresamente que sean registrados.
 
 ###### Artículo 2374.
 
@@ -16520,3 +16622,19 @@ P.O. 2 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE PATRIMONIO FAMILIAR, REGISTRO DE DEUDORES ALIMENTARIOS, CASO FORTUITO Y EXPEDICIÓN DE ACTA DE NACIMIENTO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, deberán cubrirse con cargo al presupuesto aprobado para el ejercicio fiscal 2021 y sus subsecuentes, de la Dirección Estatal de (sic) Registro Civil del Estado de Nayarit, por lo que no requerirán de recursos adicionales para su cumplimiento.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado de Nayarit, tendrá un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para que se realicen las adecuaciones necesarias al Reglamento del Registro Civil.
+
+CUARTO.- La Dirección Estatal de (sic) Registro Civil del Estado de Nayarit, tendrá un plazo 90 días hábiles a partir de la entrada en vigor del presente Decreto para crear y operar el Registro de Deudores Alimentarios Morosos del Estado de Nayarit.
+
+Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este Decreto y la creación del Registro de Deudores Alimentarios Morosos del Estado de Nayarit.
+
+QUINTO.- Comuníquese a la Dirección de (sic) Registro Civil de los Ayuntamientos de la Entidad, para los efectos conducentes.
