@@ -4,7 +4,7 @@ identifier: "LRFIYII_ART105"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-11"
-last_updated: "2021-05-20"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8654&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRFIYII_ART105"
 
 LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de mayo de 1995.
 
@@ -40,9 +40,11 @@ LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTICULO 105 DE LA CONSTITUCION P
 
 ## Título I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 1o.
 
-La Suprema Corte de Justicia de la Nación conocerá y resolverá con base en las disposiciones del presente Título, las controversias constitucionales y las acciones de inconstitucionalidad a que se refieren las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos. A falta de disposición expresa, se estará a las prevenciones del Código Federal de Procedimientos Civiles.
+La Suprema Corte de Justicia de la Nación conocerá y resolverá con base en las disposiciones del presente Título, las controversias constitucionales en las que se hagan valer violaciones a la Constitución Política de los Estados Unidos Mexicanos, así como las acciones de inconstitucionalidad a que se refieren las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos. A falta de disposición expresa, se estará a las prevenciones del Código Federal de Procedimientos Civiles.
 
 ###### ARTICULO 2o.
 
@@ -116,7 +118,9 @@ Tendrán el carácter de parte en las controversias constitucionales:
 
 I. Como actor, la entidad, poder u órgano que promueva la controversia;
 
-II. Como demandado, la entidad, poder u órgano que hubiere emitido y promulgado la norma general o pronunciado el acto que sea objeto de la controversia;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+II. Como demandada o demandado, la entidad, poder u órgano que hubiere emitido y promulgado la norma general, pronunciado el acto o incurrido en la omisión que sea objeto de la controversia;
 
 III. Como tercero o terceros interesados, las entidades, poderes u órganos a que se refiere la fracción I del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, que sin tener el carácter de actores o demandados, pudieran resultar afectados por la sentencia que llegare a dictarse, y
 
@@ -184,17 +188,29 @@ I. Contra decisiones de la Suprema Corte de Justicia de la Nación;
 
 II. Contra normas generales o actos en materia electoral;
 
-III. Contra normas generales o actos que sean materia de una controversia pendiente de resolver, siempre que exista identidad de partes, normas generales o actos y conceptos de invalidez;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
 
-IV. Contra normas generales o actos que hubieren sido materia de una ejecutoria dictada en otra controversia, o contra las resoluciones dictadas con motivo de su ejecución, siempre que exista identidad de partes, normas generales o actos y conceptos de invalidez, en los casos a que se refiere el artículo 105, fracción I, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos;
+III. Contra normas generales, actos u omisiones que sean materia de una controversia pendiente de resolver, siempre que exista identidad de partes, normas generales o actos y conceptos de invalidez;
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+IV. Contra normas generales, actos u omisiones que hubieren sido materia de una ejecutoria dictada en otra controversia, o contra las resoluciones dictadas con motivo de su ejecución, siempre que exista identidad de partes, normas generales o actos y conceptos de invalidez, en los casos a que se refiere el artículo 105, fracción I, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos;
 
 V. Cuando hayan cesado los efectos de la norma general o acto materia de la controversia;
 
 VI. Cuando no se haya agotado la vía legalmente prevista para la solución del propio conflicto;
 
-VII. Cuando la demanda se presentare fuera de los plazos previstos en el artículo 21, y
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
 
-VIII. En los demás casos en que la improcedencia resulte de alguna disposición de esta ley.
+VII. Cuando la demanda se presentare fuera de los plazos previstos en el artículo 21;
+
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+VIII. Cuando de la demanda se advierta que no se hacen valer violaciones a la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+IX. En los demás casos en que la improcedencia resulte de alguna disposición de esta Ley.
 
 En todo caso, las causales de improcedencia deberán examinarse de oficio.
 
@@ -218,7 +234,9 @@ IV. Cuando por convenio entre las partes, haya dejado de existir el acto materia
 
 El plazo para la interposición de la demanda será:
 
-I. Tratándose de actos, de treinta días contados a partir del día siguiente al en que conforme a la ley del propio acto surta efectos la notificación de la resolución o acuerdo que se reclame; al en que se haya tenido conocimiento de ellos o de su ejecución; o al en que el actor se ostente sabedor de los mismos;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+I. Tratándose de actos u omisiones, de treinta días contados a partir del día siguiente al en que conforme a la ley del propio acto surta efectos la notificación de la resolución o acuerdo que se reclame; al en que se haya tenido conocimiento de ellos o de su ejecución; o al en que el actor se ostente sabedor de los mismos;
 
 II. Tratándose de normas generales, de treinta días contados a partir del día siguiente a la fecha de su publicación, o del día siguiente al en que se produzca el primer acto de aplicación de la norma que dé lugar a la controversia, y
 
@@ -234,7 +252,9 @@ II. La entidad, poder u órgano demandado y su domicilio;
 
 III. Las entidades, poderes u órganos terceros interesados, si los hubiere, y sus domicilios;
 
-IV. La norma general o acto cuya invalidez se demande, así como, en su caso, el medio oficial en que se hubieran publicado;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+IV. La norma general, acto u omisión cuya invalidez se demande, así como, en su caso, el medio oficial en que se hubieran publicado;
 
 V. Los preceptos constitucionales que, en su caso, se estimen violados;
 
@@ -336,15 +356,21 @@ En todos los casos la Suprema Corte de Justicia de la Nación deberá suplir la 
 
 Las sentencias deberán contener:
 
-I. La fijación breve y precisa de las normas generales o actos objeto de la controversia y, en su caso, la apreciación de las pruebas conducentes a tenerlos o no por demostrados;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+I. La fijación breve y precisa de las normas generales, actos u omisiones objeto de la controversia y, en su caso, la apreciación de las pruebas conducentes a tenerlos o no por demostrados;
 
 II. Los preceptos que la fundamenten;
 
 III. Las consideraciones que sustenten su sentido, así como los preceptos que en su caso se estimaren violados;
 
-IV. Los alcances y efectos de la sentencia, fijando con precisión, en su caso, los órganos obligados a cumplirla, las normas generales o actos respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda. Cuando la sentencia declare la invalidez de una norma general, sus efectos deberán extenderse a todas aquellas normas cuya validez dependa de la propia norma invalidada;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
 
-V. Los puntos resolutivos que decreten el sobreseimiento, o declaren la validez o invalidez de las normas generales o actos impugnados, y en su caso la absolución o condena respectivas, fijando el término para el cumplimiento de las actuaciones que se señalen;
+IV. Los alcances y efectos de la sentencia, fijando con precisión, en su caso, los órganos obligados a cumplirla, las normas generales, actos u omisiones respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda. Cuando la sentencia declare la invalidez de una norma general, sus efectos deberán extenderse a todas aquellas normas cuya validez dependa de la propia norma invalidada;
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+V. Los puntos resolutivos que decreten el sobreseimiento, o declaren la validez o invalidez de las normas generales, actos u omisiones impugnados y, en su caso, la absolución o condena respectivas, fijando el término para el cumplimiento de las actuaciones que se señalen, y
 
 VI. En su caso, el término en el que la parte condenada deba realizar una actuación.
 
@@ -356,11 +382,19 @@ En aquellas controversias respecto de normas generales en que no se alcance la v
 
 En todos los demás casos las resoluciones tendrán efectos únicamente respecto de las partes en la controversia.
 
-> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 43.
 
-Las razones contenidas en los considerandos que funden los resolutivos de las sentencias aprobadas por cuando menos ocho votos, serán obligatorias para las Salas, Plenos de Circuito, tribunales unitarios y colegiados de circuito, juzgados de distrito, tribunales militares, agrarios y judiciales del orden común de los Estados y del Distrito Federal, y administrativos y del trabajo, sean éstos federales o locales.
+Las razones que justifiquen las decisiones de las sentencias aprobadas por cuando menos ocho votos, serán obligatorias para todas las autoridades jurisdiccionales de la federación y de las entidades federativas. Las cuestiones de hecho o de derecho que no sean necesarias para justificar la decisión no serán obligatorias.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+La Suprema Corte no estará obligada a seguir sus propios precedentes. Sin embargo, para que pueda apartarse de ellos deberá proporcionar argumentos suficientes que justifiquen el cambio de criterio.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+La Suprema Corte estará vinculada por sus precedentes en los términos antes descritos, incluso cuando éstos se hayan emitido con una integración de Ministras y Ministros distinta.
 
 ###### ARTICULO 44.
 
@@ -703,3 +737,51 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LA LEY DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACIÓN; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA; DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; DE LA LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo siguiente:
+
+I. Las disposiciones relativas a los Tribunales Colegiados de Apelación en sustitución de los Tribunales Unitarios de Circuito, entrarán en vigor de manera gradual y escalonada en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
+II. Las disposiciones relativas a los plenos Regionales en sustitución de los plenos de Circuito, entrarán en vigor en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
+III. Entrarán en vigor en la fecha en la que el Poder Judicial de la Federación realice la declaratoria a que se refiere el artículo Séptimo Transitorio de este Decreto:
+
+a) El artículo segundo del presente Decreto;
+
+b) Las disposiciones relativas a la Escuela Federal de Formación Judicial, y
+
+c) Las nuevas categorías de la Carrera Judicial.
+
+IV. Las reformas a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, entrarán en vigor a los 18 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+V. La reforma al artículo 218 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, entrará en vigor a los 6 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Segundo. Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
+
+Tercero. El procedimiento de sustituciones por ausencia de las personas titulares de los órganos jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Quinto. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Séptimo. Dentro de los 18 meses siguientes a la publicación del presente Decreto, el Poder Judicial de la Federación deberá emitir y publicar, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, la declaratoria para el inicio de la observancia de las nuevas reglas de la Carrera Judicial contenidas en el presente Decreto.
+
+Octavo. Las y los actuales oficiales administrativos podrán acceder a la categoría de oficial judicial, previo cumplimiento de los requisitos y evaluación que para tal efecto implemente el Consejo de la Judicatura Federal, en los términos de las disposiciones que éste emita. En caso de que dichos oficiales administrativos no puedan acceder a la nueva categoría, conservarán su actual puesto y los derechos inherentes a este.
+
+Noveno. Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su formato.
+
+Décimo. Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente Decreto mantendrán su obligatoriedad, salvo que sean interrumpidas en los términos que se prevén en el artículo 228 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al momento de la interrupción.
+
+Décimo Primero. Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran emitido con anterioridad a la entrada en vigor del nuevo sistema de precedentes obligatorios, mantendrán ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del presente Decreto podrán constituir jurisprudencia por precedente.
+
+Décimo Segundo. Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 26 de mayo de 1995.
+
+(NOTA: EL 16 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2021 Y SU ACUMULADA 105/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO DÉCIMO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+DÉCIMO TERCERO. CON EL FIN DE IMPLEMENTAR LA REFORMA CONSTITUCIONAL AL PODER JUDICIAL DE LA FEDERACIÓN PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 11 DE MARZO DE 2021 Y LAS LEYES REGLAMENTARIAS A LAS QUE SE REFIERE EL PRESENTE DECRETO, LA PERSONA QUE A SU ENTRADA EN VIGOR OCUPE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL DURARÁ EN ESE ENCARGO HASTA EL 30 DE NOVIEMBRE DE 2024. ASIMISMO, EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2016 CONCLUIRÁ SU ENCARGO EL 30 DE NOVIEMBRE DE 2023; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 24 DE FEBRERO DE 2019 CONCLUIRÁ SUS FUNCIONES EL 23 DE FEBRERO DE 2026; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL EJECUTIVO FEDERAL EL 18 DE NOVIEMBRE DE 2019 CONCLUIRÁ EL 17 DE NOVIEMBRE DE 2026; LAS CONSEJERAS DE LA JUDICATURA FEDERAL DESIGNADAS POR EL SENADO DE LA REPÚBLICA EL 20 DE NOVIEMBRE DE 2019 CONCLUIRÁN SU ENCARGO EL 19 DE NOVIEMBRE DE 2026; Y EL CONSEJERO DE LA JUDICATURA FEDERAL DESIGNADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2019 DURARÁ EN FUNCIONES HASTA EL 30 DE NOVIEMBRE DE 2026.
