@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2021-04-05"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -149,41 +149,47 @@ VIII. TRANSPARENCIA: La información relativa al desarrollo social es pública e
 
 IX. PERSPECTIVA DE GÉNERO: Garantizar la equidad e igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social, desde una visión científica, analítica, política y compensatoria sobre las mujeres y los hombres, que elimine las causas de la opresión, la desigualdad, la injusticia y la jerarquización de las personas.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 6°.
 
 Para efectos de la presente Ley, se entenderá por:
 
-I. ACTORES SOCIALES.- Sujetos colectivos estructurados a partir de una conciencia de identidad propia, portadores de valores, poseedor de un cierto número de recursos que le permiten actuar en el seno de una sociedad con vistas a defender los intereses de los miembros que lo componen y/o de los individuos que representa, para colaborar y coadyuvar a dar respuesta a las necesidades identificadas como prioritarias;
+I. ACTORES SOCIALES: Son los sujetos colectivos estructurados a partir de una conciencia de identidad propia, portadores de valores, poseedor de un cierto número de recursos que le permiten actuar en el seno de una sociedad con vistas a defender los intereses de los miembros que lo componen y de los individuos que representa, para colaborar y coadyuvar a dar respuesta a las necesidades identificadas como prioritarias;
 
-II. BENEFICIARIOS: Aquellas personas que forman parte de la población atendida por los programas de desarrollo social;
+II. BENEFICIARIOS: Son aquellas personas que forman parte de la población atendida por los programas de desarrollo social;
 
-II. (SIC) COESPO: Consejo Estatal de Población.
+III. COESPO: El Consejo Estatal de Población;
 
 IV. COMISIÓN: La Comisión de Desarrollo Social del Estado de Aguascalientes;
 
-V. CONSEJO: El Consejo Estatal de Evaluación de la Política de Desarrollo Social;
+V. CONEVAL: El Consejo Nacional de Evaluación de la Política de Desarrollo Social;
 
-VI. GRUPOS SOCIALES EN SITUACIÓN DE VULNERABILIDAD: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de la atención e inversión del gobierno para lograr su bienestar;
+VI. CONSEJO: El Consejo Estatal de Evaluación de la Política de Desarrollo Social;
 
-VII. INEGI: Instituto Nacional de Estadística, Geografía e Informática;
+VII. CORRESPONSABILIDAD: Es la intervención comprometida de todos los actores involucrados en el combate a la pobreza y el desarrollo social, para buscar soluciones a los problemas compartidos, y aportar trabajo técnico, mano de obra, recursos económicos y materiales, en la medida de las posibilidades de las partes, que permitan superar rezagos sociales;
 
-VIII. LEY: Ley de Desarrollo Social para el Estado de Aguascalientes;
+VIII. DESARROLLO HUMANO: Es un proceso permanente que genera las condiciones que permiten a las personas detonar sus potenciales, a través de un conjunto de oportunidades de valor político, económico o social, orientadas a lograr una mejor calidad de vida;
 
-IX. ORGANIZACIONES: Agrupaciones civiles y sociales, legalmente constituidas, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social;
+IX. GRUPOS SOCIALES EN SITUACIÓN DE VULNERABILIDAD: Son aquellos núcleos de población y personas que, por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de la atención e inversión del gobierno para lograr su bienestar;
 
-X. PADRÓN ÚNICO DE BENEFICIARIOS: Relación oficial única de Beneficiarios que incluye a personas atendidas por los programas federales, estatales y municipales de Desarrollo Social;
+X. INEGI: El Instituto Nacional de Estadística Geografía e Informática;
 
-XI. REGIONES: A los Municipios y zonas de atención prioritaria e inmediata que muestren un mayor atraso respecto de las políticas de desarrollo social;
+XI. LEY: La Ley de Desarrollo Social para el Estado de Aguascalientes;
 
-XII. SECRETARIA: La Secretaria de Desarrollo Social;
+XII. ORGANIZACIONES: Son las agrupaciones civiles y sociales, legalmente constituidas, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social;
 
-XIII. SECTORES SOCIALES VULNERABLES: A las personas adultas mayores o con alguna discapacidad, las madres solteras, niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad social;
+XIII. PADRÓN ÚNICO DE BENEFICIARIOS: Es la relación oficial única de beneficiarios que incluye a personas atendidas por los programas federales, estatales y municipales de desarrollo social;
 
-XIV. SISTEMA ESTATAL: Sistema Estatal de Desarrollo Social; y
+XIV. REGIONES: Son los Municipios y zonas de atención prioritaria e inmediata que muestren un mayor atraso respecto de las políticas de desarrollo social;
 
-XV. ZONA DE ATENCIÓN PRIORITARIA: Área o región, sea predominantemente rural o urbana, cuya población registra altos índices de pobreza y marginación indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social establecidos en esta Ley.
+XV. SECRETARIA: La Secretaria de Desarrollo Social:
+
+XVI. SECTORES SOCIALES VULNERABLES: Son las personas adultas mayores o con alguna discapacidad, las madres solteras, niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad social;
+
+XVII. SISTEMA ESTATAL: El Sistema Estatal de Desarrollo Social; y
+
+XVIII. ZONA DE ATENCIÓN PRIORITARIA: Es el área o región, sea predominantemente rural o urbana, cuya población registra altos índices de pobreza y marginación indicativos de la existencia de marcadas insuficiencias y rezagas en el ejercicio de los derechos para el desarrollo social establecidos en esta Ley.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS DEL DESARROLLO SOCIAL
 
@@ -1238,3 +1244,9 @@ P.O. 5 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 520.- SE REFORMAN LAS FRACCIONES VIII, IX, XI, Y XII Y SE ADICIONAN LAS FRACCIONES VII, XIV, XV Y XVI TODAS DEL ARTÍCULO 1° DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 558.- SE REFORMA EL ARTÍCULO 6° DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
