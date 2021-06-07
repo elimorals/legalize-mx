@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2021-06-02"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -2327,6 +2327,24 @@ VIII. Alterar, destruir, perder o perturbar ilícitamente el lugar de los hechos
 
 Se impondrá suspensión de tres meses a tres años y multa de diez a treinta días, al defensor de oficio de un inculpado, que sólo se concrete a aceptar el cargo o a solicitar la libertad caucional, sin promover injustificadamente las pruebas conducentes o que no interponga los recursos procedentes contra las resoluciones en que se adviertan violaciones notorias a la Ley.
 
+(NOTA: EL 18 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 8 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 261 Bis.
+
+Se impondrá SUSPENSIÓN O destitución del cargo, así como de dos a seis años de prisión, y multa de quinientas a mil Unidades de Medida y Actualización a la persona servidora pública que, difunda, publique, transmita, exponga, remita, distribuya, comercialice, oferte, intercambie o comparta imágenes, audios, videos, información clasificada, documentos del lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos relacionados con el procedimiento penal en relación con hechos señalados por la Ley como constitutivos de delito.
+
+No se ejercerá acción penal, en aquellos casos que previa autorización por autoridad competente, se utilicen para fines académicos o de investigación científica, siempre que se proteja la información clasificada en los términos de la ley de la materia.
+
+Las penas se incrementarán hasta una tercera parte sí la información que se difunda:
+
+I.- Sea con el fin de menoscabar la dignidad de las víctimas o de sus familiares;
+
+II.- Se trate de cadáveres de mujeres, niñas, o adolescentes, o
+
+III.- Sea de las circunstancias de la muerte, de las lesiones o del estado de salud de la víctima.
+
 ###### ARTÍCULO 262.
 
 Las disposiciones de los artículos anteriores se aplicarán, en lo conducente, a todos los funcionarios o empleados de la administración pública cuando, en el ejercicio de su cargo o comisión, ejecuten los hechos o incurran en las omisiones que expresan los propios artículos.
@@ -2665,7 +2683,7 @@ Se impondrá prisión de uno a cincos (sic) años y multa de diez a cincuenta d�
 
 ### CAPÍTULO II. ESTUPRO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 289.
 
@@ -2673,7 +2691,9 @@ Al que sin consentimiento de una persona púber, ejecute en ella un acto erótic
 
 Si se cometiera en impúber o en persona que por cualquier causa no pudiere resistir, la sanción será de uno a cinco años y multa de diez a treinta días.
 
-Cuando se cometa el delito valiéndose de su posición jerárquica o de cualquier circunstancia que implique subordinación, se le impondrá de dos a siete años de prisión y multa de veinte a cien Unidades de Medida y Actualización diarias.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+Cuando se cometa el delito valiéndose de su posición jerárquica o de cualquier circunstancia que implique subordinación, o cuando los hechos ocurran en vehículos destinados al transporte público o en aquellos de transporte privado solicitado a través de una aplicación móvil, en este caso, ejecutado por el conductor del mismo, se le impondrá de dos a siete años de prisión y multa de veinte a cien Unidades de Medida y Actualización diarias.
 
 ###### ARTÍCULO 290.
 
@@ -2685,7 +2705,7 @@ El ilícito de atentados al pudor, solo se perseguirá a petición del ofendido 
 
 ###### ARTÍCULO 291.
 
-Al que tenga cópula con una persona mayor de doce y menor de dieciocho años, obteniendo su consentimiento por medio de la seducción o del engaño, se le impondrá de uno a seis años de prisión, y multa de cien a trescientos días.
+Al que tenga cópula con una persona mayor de quince y menor de dieciocho años de edad, obteniendo su consentimiento por medio de la seducción o del engaño, se le impondrá de uno a seis años de prisión, y multa de cien a trescientos días.
 
 La seducción o el engaño se presumen salvo prueba en contrario.
 
@@ -2701,7 +2721,7 @@ No se procederá contra el estuprador, sino por queja de persona ofendida o de s
 
 ### CAPÍTULO IV. HOSTIGAMIENTO O ACOSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 293.
 
@@ -2739,33 +2759,31 @@ V. Cuando la violación se cometa sobre persona impúber o púber menor de doce 
 
 Se equipara a la violación y se sancionará con las mismas penas que anteceden:
 
-I. Al que tenga cópula con persona impúber o privada de razón o de sentido, o cuando por enfermedad o por cualquiera otra causa no pueda resistir;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+I. Al que tenga cópula con persona menor de quince años de edad;
 
 II. La introducción por vía anal o vaginal de cualquier objeto o parte del cuerpo humano distinto al miembro viril, mediando violencia física o moral, cualquiera que sea el sexo de la víctima;
 
-III. La introducción por vía anal o vaginal de cualquier objeto o parte del cuerpo humano distinto al miembro viril, cometida sobre persona impúber o privada de razón o de sentido, o cuando por enfermedad o por cualquiera otra causa no pueda resistir, cualquiera que sea el sexo de la víctima, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-IV. Cuando el sujeto activo por medio de la violencia física o moral obligue al sujeto pasivo menor de edad a que le realice cópula.
+III. La introducción por vía anal o vaginal de cualquier objeto o parte del cuerpo humano distinto al miembro viril, cometida sobre persona menor de quince años de edad o privada de razón o de sentido, o cuando por enfermedad o por cualquiera otra causa no pueda resistir, cualquiera que sea el sexo de la víctima;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+IV. Cuando el sujeto activo por medio de la violencia física o moral obligue al sujeto pasivo menor de edad a que le realice cópula, y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+V. Al que tenga cópula con persona privada de razón o de sentido, o cuando por enfermedad o por cualquiera otra causa no pueda resistir.
 
 ### CAPÍTULO V. DELITOS CONTRA LA INTIMIDAD PERSONAL
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
-
-ARTÍCULO 297 BIS.- Comete el delito contra la intimidad personal, quien o quienes, revelen, difundan, publiquen o exhiban imágenes, audios o videos de contenido erótico, sexual o pornográfico de una persona sin su consentimiento mediante correo electrónico, mensajes telefónicos, redes sociales o por cualquier otro medio electrónico, de almacenamiento o impresos.
-
-A quien cometa el delito descrito en el párrafo anterior, se le impondrá prisión de seis meses a seis años y multa de ochocientas a dos mil Unidades de Medida y Actualización.
-
-Cuando el sujeto activo del delito mantenga o haya mantenido con la víctima una relación de confianza, afectiva o sentimental, considerando la pena señalada en el párrafo anterior, se incrementará en una mitad respecto de la que imponga el juzgador.
-
-La sanción establecida al delito básico se incrementará en una mitad respeto (sic) de la que imponga el juzgador, si el objeto de la difusión es con fines lucrativos.
-
-Cuando las imágenes, audio o videos de contenido erótico, sexual o pornográfico hayan sido obtenidos cuando la víctima fuese menor de dieciocho años de edad, o bien, cuando no tenga la capacidad de comprender el carácter erótico, sexual o pornográfico del hecho que constituye el contenido revelado, difundido, publicado o exhibido, considerando la pena al delito básico, se incrementará esta al doble respecto de la que imponga el juzgador.
-
-Este delito sólo será perseguido por querella del ofendido, salvo que se trate de las personas descritas en el párrafo anterior, en cuyo caso se procederá de oficio.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 296.
 
-Al que con fines sexuales acose reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica o de cualquier circunstancia que genere condiciones de preeminencia entre el ofensor y el ofendido, trátese del ámbito familiar, doméstico, docente, laboral, vecinal o cualquier otro que implique subordinación, respeto o ventaja, se le impondrá de dos a seis años de prisión y multa de cien a trescientos días.
+Al que con fines sexuales acose reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica o de cualquier circunstancia que genere condiciones de preeminencia entre el ofensor y el ofendido, trátese del ámbito familiar, doméstico, docente, laboral, vecinal o cuando los hechos ocurrieran en vehículos destinados al transporte público o en aquellos de transporte privado solicitado a través de una aplicación móvil, o cualquier otro medio o circunstancia que implique subordinación, respeto o ventaja, se le impondrá de dos a seis años de prisión y multa de cien a trescientos días.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -2796,6 +2814,28 @@ Si el acosador fuese servidor público y utilizare los medios o circunstancias q
 ### CAPÍTULO I. DE LA SUPOSICIÓN Y SUPRESIÓN DEL ESTADO CIVIL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 297 Bis.
+
+Comete el delito contra la intimidad personal, quien o quienes, revelen, difundan, publiquen, expongan, divulguen, compartan, distribuyan, comercien, hagan circular, oferten o exhiban imágenes, audios o videos, de contenido real o manipulado o alterado de una persona, de contenido erótico, sexual o pornográfico, sin su consentimiento mediante correo electrónico, mensajes telefónicos, redes sociales o por cualquier otro medio electrónico, de almacenamiento o impreso, grabado o digital.
+
+A quien cometa el delito descrito en el párrafo anterior, se le impondrá prisión de dos a seis años y multa de mil a dos mil Unidades de Medida y Actualización.
+
+La anterior sanción será aumentada hasta en una mitad, respecto de la que imponga el juzgador, cuando:
+
+I. Cuando el sujeto activo del delito mantenga o haya mantenido con la víctima una relación de confianza, laboral, política, conyugal, de concubinato, afectiva o sentimental;
+
+II. Se cometa en contra de una persona que por su situación de discapacidad o incapacidad no comprenda el significado del hecho o no tenga capacidad para resistirlo;
+
+III. Se cometa contra una persona en situación de vulnerabilidad social, por su pertenencia a algún pueblo originario o etnia;
+
+IV. Cuando se cometa con menores de 18 años de edad;
+
+V. Cuando un medio de comunicación impreso o digital reproduzca estos contenidos y los haga públicos, o
+
+VI. Cuando el objeto de la difusión sea con fines lucrativos.
+
+Este delito sólo será perseguido por querella del ofendido, salvo que se trate de los supuestos descritos en las fracciones anteriores, en cuyo caso se procederá de oficio.
 
 ### CAPÍTULO II. EXPOSICIÓN DE MENORES
 
@@ -2871,7 +2911,9 @@ A quienes dirijan, organicen o aporten recursos económicos, técnicos o materia
 
 ### CAPÍTULO VI. ABANDONO DE FAMILIARES
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
+(NOTA: EL 20 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 110/2021, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 8 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 303.
 
@@ -2899,15 +2941,17 @@ Se aplicará esta última sanción en caso de incesto entre hermanos.
 
 ###### ARTÍCULO 306.
 
-Al que sin causa justificada, falte en forma total o parcial, ésta última sólo cuando ya se haya decretado la pensión provisional o definitiva por el juez de familia; o por convenio firmado ante cualquier autoridad distinta a la judicial, por más de treinta días naturales a la obligación de suministrar alimentos a sus hijos, cónyuge, concubina o cualquier otra persona con quien tenga el deber de asistencia conforme al Código Civil para el Estado de Nayarit, aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero, se le impondrá de dos a cinco años de prisión y multa de treinta a doscientos días.
+Al que sin causa justificada, falte en forma total o parcial, ÉSTA ÚLTIMA SÓLO cuando ya se haya decretado la pensión provisional o definitiva por el juez de familia; o por convenio firmado ante cualquier autoridad distinta a la judicial, por más de treinta días naturales a la obligación de suministrar alimentos a sus hijos, cónyuge, concubina o cualquier otra persona con quien tenga el deber de asistencia conforme al Código Civil para el Estado de Nayarit, aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero, se le impondrá de dos a cinco años de prisión y multa de treinta a doscientos días. SI EL ADEUDO EXCEDE DE NOVENTA DÍAS, el Juez ordenará al Registro Civil el ingreso de los datos del sentenciado en el Registro de Deudores Alimentarios Morosos del Estado de Nayarit.
 
 > <small>(F. DE E., P.O. 1 DE FEBRERO DE 2017)</small>
 
 La penalidad antes referida podrá aumentarse hasta en una mitad más, cuando el deudor alimentario abandone o incumpla sus obligaciones de asistencia alimentaria para con una mujer en estado de gravidez con quien se presuma la paternidad en razón de la relación de matrimonio o concubinato que los una.
 
+(NOTA: EL 20 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 110/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 8 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 > <small>(F. DE E., P.O. 1 DE FEBRERO DE 2017)</small>
 
-Además de las sanciones señaladas y de la reparación del daño a que se tenga derecho, en caso de reincidencia el juez podrá decretar la suspensión o pérdida de los derechos de patria potestad, tutela, hereditarios o de alimentos que pudiere tener el sujeto activo a su favor respecto de la víctima.
+ADEMÁS DE LAS SANCIONES SEÑALADAS Y DE LA REPARACIÓN DEL DAÑO A QUE SE TENGA DERECHO, EN CASO DE REINCIDENCIA EL JUEZ PODRÁ DECRETAR LA SUSPENSIÓN O PÉRDIDA DE LOS DERECHOS DE PATRIA POTESTAD, TUTELA, HEREDITARIOS O DE ALIMENTOS QUE PUDIERE TENER EL SUJETO ACTIVO A SU FAVOR RESPECTO DE LA VÍCTIMA.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -3300,6 +3344,10 @@ Al que infiera una lesión que no ponga el (sic) peligro la vida del ofendido y 
 ###### ARTÍCULO 344.
 
 Se impondrán de dos a seis años de prisión y multa de tres a quince días al que infiera una lesión que deje a la ofendida cicatriz en la cara, perpetuamente notable.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 344 BIS.- Se impondrá pena de cuatro a doce años de prisión y multa de cien a doscientos días, cuando se lesione dolosamente a una mujer o a cualquier persona derivado de su preferencia sexual, empleando ácidos, sustancias corrosivas o inflamables.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -4193,11 +4241,13 @@ V. De tres meses a cinco años de prisión y multa, por el equivalente de cien y
 
 VI. De tres a ocho años de prisión y multa, por el equivalente de cien a diez mil días, a quien sin tomar las debidas precauciones e informar previamente a las autoridades municipales y ejidales inicie un incendio que rebase los límites del terreno que posea y dé lugar a un daño generalizado.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 422.
 
-Se impondrá de tres meses a tres años de prisión y multa de sesenta a trescientos sesenta días, al que realice actos de maltrato o crueldad animal.
+Se impondrá de seis meses a cinco años de prisión y multa de sesenta a trescientos sesenta días, al que realice actos de maltrato o crueldad animal.
+
+> <small>(REFORMADO [N. DE E.CON SUS FRACCIONES] , P.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
 Se consideran actos de maltrato o crueldad animal:
 
@@ -4468,3 +4518,21 @@ P.O. 2 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 351 Y ADICIONAR (SIC) EL ARTÍCULO 351 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 297 BIS Y ADICIONA UN NUMERAL 261 BIS AL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE ATENTADOS AL PUDOR, ESTUPRO, VIOLACIÓN EQUIPARADA, HOSTIGAMIENTO O ACOSO SEXUAL, LESIONES A MUJERES CON SUSTANCIAS CORROSIVAS Y MALTRATO ANIMAL”.]
+
+ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 306 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
