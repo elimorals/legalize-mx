@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2017-07-27"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -3771,6 +3771,10 @@ III.- El registrador público de la propiedad y el encargado del Periódico Ofic
 
 IV.- El Juez, una vez recibida por él la constancia de haberse inscrito el embargo, el certificado de gravámenes y el ejemplar del Periódico Oficial en que se haya hecho la publicación, remitirá la cuenta de esos derechos a la oficina de Recaudación de Rentas correspondiente, para que la cobre al deudor de alimentos en la vía económica coactiva.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+Cuando el deudor alimentario haya dejado de cumplir con sus obligaciones ordenadas por resolución judicial o establecida en convenio, por más de noventa días continuos, el Juez ordenará al Registro Civil la inscripción de su nombre en el Registro de Deudores Alimentarios Morosos del Estado de Nayarit.
+
 ### CAPITULO X. JUICIOS SOBRE PATERNIDAD Y MATERNIDAD
 
 ###### ARTICULO 500.
@@ -5376,3 +5380,9 @@ P.O. 27 DE JULIO DE 2017.
 Primero.- El presente decreto entrará en vigor a los 120 días hábiles siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo.- El Titular del Ejecutivo y los Ayuntamientos del Estado contará (sic) con 120 días hábiles para crear el Reglamento y Manual de Procedimientos del Registro Civil de conformidad con lo señalado en el presente decreto.
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 499 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
