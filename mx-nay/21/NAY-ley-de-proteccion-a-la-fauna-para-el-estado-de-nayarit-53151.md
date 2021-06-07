@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-a-la-fauna-para-el-estado-de-nayarit-53151"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-16"
-last_updated: "2019-09-02"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
 
 Ley publicada en la Sección Décima Tercera al Periódico Oficial del Estado de Nayarit, el sábado 16 de diciembre de 2006.
 
@@ -671,6 +671,14 @@ La denuncia contendrá los datos de identificación del denunciante y del denunc
 
 La admisión de la denuncia no se condiciona al acreditamiento, afectación o interés personal y directo.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 68 BIS.- Las autoridades de seguridad pública, en el ámbito de su competencia, al recibir una denuncia por autoridades o particulares implementarán operativos para rescatar animales del interior de un domicilio al momento de que se esté cometiendo el delito de maltrato en contra de fauna doméstica o silvestre. Quien irrumpa deberá tener datos ciertos, derivados de una percepción directa, siendo determinante la urgencia del hecho, de modo que la intromisión se torne inaplazable, ya sea para evitar la consumación de un ilícito o hacer cesar sus efectos.
+
+Los elementos policiales que realicen el rescate al interior de un domicilio deberán asegurar la integridad física de los animales y de las personas que se encuentran en su interior. Una vez realizado el rescate deberán levantar un acta circunstanciada en el lugar, en presencia de dos testigos propuestos por el ocupante del domicilio; de no haber personas que pudiesen testificar, o quien ocupe el domicilio se negare a proponer testigos, los elementos policiales, así lo asentarán en el acta.
+
+La intromisión realizada al domicilio al amparo de este artículo tendrá el objetivo de rescatar al o los animales objeto de maltrato y únicamente tendrá efectos respecto del delito de maltrato animal. Si derivado de la intromisión se tuviera la presunción de la comisión de otros delitos, se deberá proceder conforme a las leyes correspondientes.
+
 ### CAPITULO II. DE LA INSPECCIÓN
 
 ###### ARTÍCULO 69.
@@ -814,3 +822,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los 60 días naturales posteriores a la entrada en vigor del presente Decreto, las autoridades municipales deberán realizar las adecuaciones normativas necesarias, para que de acuerdo a su disponibilidad presupuestaria, realicen actividades de supervisión sanitaria o bien destinen ésta tarea a personas adiestradas debidamente y equipadas para tal efecto, y así evitar cualquier acto de crueldad, tormento, sobreexcitación o escándalo público en el sacrificio de animales para no consumo humano.
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA UN ARTÍCULO 68 BIS A LA LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
