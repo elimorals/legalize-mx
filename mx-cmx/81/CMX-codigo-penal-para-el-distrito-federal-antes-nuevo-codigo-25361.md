@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2021-02-26"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JUNIO DE 2021.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -886,9 +886,9 @@ Lo previsto en el párrafo anterior no es aplicable para la reparación del dañ
 
 ARTÍCULO 71 BIS. (De la disminución de la pena en delitos no graves). Cuando el sujeto activo confiese su participación en la comisión de delito no grave ante el Ministerio Público y la ratifique ante el Juez en la declaración preparatoria, se disminuirá la pena en una mitad, según el delito que se trate.
 
-> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2021)</small>
 
-ARTÍCULO 71 TER. (De la disminución de la pena en delitos graves) Cuando el sujeto activo confiese su participación en la comisión de delito grave ante el Ministerio Público y la ratifique ante el Juez en la declaración preparatoria se disminuirá la pena una tercera parte, según el delito que se trate, excepto cuando estén relacionados con delincuencia organizada, en cuyo caso se aplicará la Ley de la materia. Este beneficio no es aplicable para los delitos de Homicidio, previsto en el artículo 123 en relación al 18, párrafo segundo; Secuestro, contenido en los artículos 163, 163 Bis, 164, 165, 166 y 166 Bis, con excepción de lo previsto en el último párrafo del artículo 164; Desaparición Forzada de Personas, previsto en el artículo 168; Violación, previsto en los artículos 174 y 175; Corrupción de personas menores de edad o personas que no tengan capacidad para comprender el significado del hecho o de personas que no tengan capacidad de resistir la conducta, previsto en los artículos 183, 184 y 185; Turismo Sexual, previsto en el artículo 186; Pornografía, previsto en los artículos 187 y 188; Trata de Personas, previsto en el artículo 188 Bis; Lenocinio, previstos en los artículos 189 y 189 bis; Robo, previsto en el artículo 220, en relación al artículo 225; Tortura, previsto en los artículos 294 y 295; todos de este Código.
+ARTÍCULO 71 TER (De la disminución de la pena en delitos graves) Cuando el sujeto activo confiese su participación en la comisión de delito grave ante el Ministerio Público y la ratifique ante el Juez en la declaración preparatoria se disminuirá la pena una tercera parte, según el delito que se trate, excepto cuando estén relacionados con delincuencia organizada, en cuyo caso se aplicará la Ley de la materia. Este beneficio no es aplicable para los delitos de Homicidio, previsto en el artículo 123 en relación al 18, párrafo segundo; Secuestro, contenido en los artículos 163, 163 Bis, 164, 165, 166 y 166 Bis, con excepción de lo previsto en el último párrafo del artículo 164; Desaparición Forzada de Personas, previsto en el artículo 168; Violación, previsto en los artículos 174 y 175; Corrupción de personas menores de edad o personas que no tengan capacidad para comprender el significado del hecho o de personas que no tengan capacidad de resistir la conducta, previsto en los artículos 183, 184 y 185; Turismo Sexual, previsto en el artículo 186; Pornografía, previsto en los artículos 187 y 188; Trata de Personas, previsto en el artículo 188 Bis; Lenocinio, previstos en los artículos 189 y 189 bis ; Robo, previsto en el artículo 220, en relación al artículo 225; Enriquecimiento ilícito, previsto en el artículo 256 Bis; Ejercicio abusivo de funciones, previsto en el artículo 267; Tortura, previsto en los artículos 294 y 295; todos de este Código.
 
 > <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
 
@@ -1046,19 +1046,13 @@ La equivalencia de la multa sustitutiva de la pena de prisión, será en razón 
 
 ARTÍCULO 85 (Sustitución de la multa). La multa podrá ser sustituida por trabajo en beneficio de la víctima o en favor de la comunidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2021)</small>
 
-###### ARTÍCULO 86.
-
-La sustitución de la sanción privativa de libertad procederá cuando se cumpla la reparación del daño, pudiendo el juez fijar plazos para ello, de acuerdo a la situación económica del sentenciado. En los casos de delitos que impliquen violencia la sustitución prevalecerá en tanto el sentenciado no se acerque ni se comunique, por cualquier medio, por si o por interpósita persona, con la víctima u ofendido, victimas indirectas o testigos.
-
-> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+Artículo 86 La sustitución de la sanción privativa de libertad procederá cuando se cumpla la reparación del daño, pudiendo el juez fijar plazos para ello, de acuerdo a la situación económica del sentenciado. En los casos de delitos que impliquen violencia la sustitución prevalecerá en tanto el sentenciado no se acerque ni se comunique, por cualquier medio, por si o por interpósita persona, con la víctima u ofendido, victimas indirectas o testigos.
 
 En caso de delitos relacionados con violencia sexual, en los que se haya ordenado como medida de seguridad la inclusión del sentenciado en el Registro Público de Personas Agresoras Sexuales, este registro no será sustituido, por lo que deberá continuar en términos del artículo 69 Ter de este Código.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], G.O. 20 DE MARZO DE 2020)</small>
-
-La sustitución de la pena de prisión no podrá aplicarse por el juzgador, cuando se trate de un sujeto al que anteriormente se le hubiere condenado en sentencia ejecutoriada por delito doloso que se persiga de oficio y cuando no proceda en los términos de las leyes respectivas, tratándose de una trasgresión en perjuicio de la hacienda pública.
+La sustitución de la pena de prisión no podrá aplicarse por el juzgador, cuando se trate de la comisión de cualquiera de los delitos previstos en los Títulos Décimo Octavo, Décimo Noveno y Vigésimo de este Código o se trate de un sujeto al que anteriormente se le hubiere condenado en sentencia ejecutoriada por delito doloso que se persiga de oficio y cuando no proceda en los términos de las leyes respectivas, tratándose de una trasgresión en perjuicio de la hacienda pública.
 
 ARTÍCULO 87 (Revocación de la sustitución). El Juez podrá dejar sin efecto la sustitución y ordenar que se ejecute la pena de prisión impuesta, en los siguientes casos:
 
@@ -1238,9 +1232,9 @@ IV. El momento en que se realizó el último acto de ejecución o se omitió la 
 
 V. El día en que el Ministerio Público de la adscripción haya recibido el oficio correspondiente, en los casos en que se hubiere librado orden de reaprehensión o presentación, respecto del procesado que se haya sustraído de la acción de la justicia;
 
-> <small>(ADICIONADA, G.O. 22 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2021)</small>
 
-VI. En los delitos tipificados en el Libro Segundo, Títulos Quinto y Sexto de este Código, cuando la víctima fuere menor de edad, el plazo de prescripción de la acción penal empezará a correr para el menor de edad que haya sido víctima, al momento que cumpla los dieciocho años.
+VI. En los delitos tipificados en el Libro Segundo, Títulos Quinto y Sexto de este Código, cuando la víctima fuere menor de edad, el plazo de prescripción de la acción penal empezará a correr para el menor de edad que haya sido víctima, al momento que cumpla treinta años de edad.
 
 ARTÍCULO 109 (Plazos para la prescripción de la potestad para ejecutar las penas y medidas de seguridad). Los plazos para la prescripción de la potestad para ejecutar las penas y las medidas de seguridad, serán continuos y correrán desde el día siguiente a aquél en que el sentenciado se sustraiga de la acción de la justicia, si las penas o las medidas de seguridad fueren privativas o restrictivas de la libertad. En caso contrario, desde la fecha en que cause ejecutoria la sentencia.
 
@@ -1255,6 +1249,14 @@ I. En un plazo igual al término medio aritmético de la pena privativa de la li
 Esta regla se aplicará cuando la pena privativa de la libertad esté señalada en forma conjunta o alterna con otra diversa.
 
 II. En un año, si el delito se sanciona con pena no privativa de la libertad.
+
+> <small>(ADICIONADA, G.O. 7 DE JUNIO DE 2021)</small>
+
+III. Tratándose de las conductas descritas en el primero, segundo y tercer párrafo del artículo 181 BIS de este Código, las penas serán imprescriptibles.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 111 BIS. Para los delitos previstos en los títulos décimo octavo, décimo noveno y vigésimo del presente Código, la prescripción será por un plazo igual a la mayor de las sanciones que corresponda al delito de que se trate. Asimismo, se interrumpirá la prescripción cuando el indiciado se sustraiga a la acción de la justicia.
 
 ARTÍCULO 112 (Prescripción de la pretensión punitiva en caso de concurso de delitos). En los casos de concurso ideal de delitos, la pretensión punitiva prescribirá conforme a las reglas para el delito que merezca la pena mayor.
 
@@ -1880,21 +1882,23 @@ Si la recuperación de la víctima se logra por datos proporcionados por el incu
 
 ### CAPÍTULO VI. VIOLACIÓN, ABUSO SEXUAL Y ACOSO SEXUAL, COMETIDO A MENORES DE DOCE AÑOS DE EDAD
 
-> <small>(ADICIONADO, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2021)</small>
 
-ARTÍCULO 181 BIS. Al que realice cópula con persona de cualquier sexo menor de doce años, se le impondrá prisión de ocho a veinte años.
+ARTÍCULO 181 BIS. Al que realice cópula con persona de cualquier sexo menor de dieciocho años, se le impondrá de doce a veinte años de prisión.
 
-Se sancionará con la misma pena antes señalada, al que introduzca en una persona menor de doce años de edad por vía vaginal o anal cualquier elemento, instrumento o cualquier parte del cuerpo humano, distinto al pene, con fines sexuales.
+Comete el delito de pederastia quien valiéndose de la relación de confianza o de subordinación o de cualquier índole, convenza a una persona de cualquier sexo menor de dieciocho años para realizar, con él o con un tercero, cópula. Al autor del delito, se le impondrá de diecisiete a veinticuatro años de prisión.
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+Se sancionará con la pena prevista en el párrafo anterior, al que introduzca por vía vaginal o anal cualquier elemento, instrumento o cualquier parte del cuerpo humano, distinto al pene por motivos de la relación de confianza o de subordinación, a una persona de cualquier sexo menor de dieciocho años.
 
-Al que sin el propósito de llegar a la cópula, ejecute un acto sexual, en una persona menor de doce años o persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo o quien realice actos en los que muestre, exponga o exhiba sus órganos genitales con fines lascivos, tanto en el ámbito público como privado, ejecute en ella un acto sexual o lo obligue a observarlo, se le impondrán de dos a siete años de prisión.
+Si una persona servidora pública teniendo conocimiento de las conductas antes descritas, omite hacer del conocimiento al ministerio público, se le impondrá la destitución e inhabilitación para desempeñar empleo, cargo o comisión por el mismo tiempo de la pena de prisión impuesta a la parte autora del delito.
 
-Al que acose sexualmente a la víctima menor de doce años con la amenaza de causarle un mal relacionado respecto de la actividad que los vincule, se le impondrán de dos a siete años de prisión.
+Al que sin el propósito de llegar a la cópula, ejecute un acto sexual, en una persona menor de dieciocho años o persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo o quien realice actos en los que muestre, exponga o exhiba sus órganos genitales con fines lascivos, tanto en el ámbito público como privado, ejecute en ella un acto sexual o lo obligue a observarlo, se le impondrán de cuatro a nueve años de prisión.
+
+Al que acose sexualmente a un menor de dieciocho años con la amenaza de causarle un mal relacionado respecto de la actividad que los vincule, se le impondrá de dos a siete años de prisión.
 
 Si se ejerciere violencia física o moral, las penas previstas se aumentarán en una mitad.
 
-Las penas anteriores se aumentarán hasta una tercera parte si se cometieran en contra de dos o más personas.
+Las penas anteriores se aumentarán hasta una tercera parte si se cometieran en contra de dos o más personas menores de dieciocho años.
 
 > <small>(ADICIONADO, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
@@ -3070,7 +3074,9 @@ Al que por cualquier motivo, teniendo a su cargo la administración o el cuidado
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES SOBRE SERVIDORES PÚBLICOS
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(NOTA: EL 13 DE FEBRERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2021 Y SU ACUMULADA 108/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 08 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 235.
 
@@ -3078,7 +3084,7 @@ Al que se coloque en estado de insolvencia, con el objeto de eludir las obligaci
 
 ### CAPÍTULO II. EJERCICIO ILEGAL Y ABANDONO DEL SERVICIO PÚBLICO
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], G.O. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 236.
 
@@ -3208,9 +3214,9 @@ Se impondrá además, suspensión de los derechos en cuyo ejercicio hubiese come
 
 Al conductor de un vehículo automotor que se retire del lugar en que participó en un hecho donde únicamente se causó daño a la propiedad, en su forma de comisión culposa y con motivo del tránsito vehicular, con el propósito de no llegar a un acuerdo en la forma de reparación de los daños y sin acudir ante el juez cívico competente, se le impondrá de uno a tres años de prisión y de 100 a 500 días multa, independientemente de la responsabilidad administrativa o civil que resulten de esos hechos.
 
-### CAPÍTULO V. USO ILEGAL DE ATRIBUCIONES Y FACULTADES
+### CAPÍTULO V. EJERCICIO ABUSIVO DE FUNCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 243.
 
@@ -3330,49 +3336,75 @@ Se impondrán prisión de cuatro a ocho años y de cien a mil días multa al que
 
 (DEROGADO, G.O. 13 DE SEPTIEMBRE DE 2013)
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 7 DE JUNIO DE 2021)</small>
 
-## TÍTULO DÉCIMO OCTAVO. DELITOS RELACIONADOS CON HECHOS DE CORRUPCIÓN CONTRA EL SERVICIO PÚBLICO COMETIDOS POR SERVIDORES PÚBLICOS
+## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA LA BUENA ADMINISTRACIÓN COMETIDOS POR SERVIDORES PÚBLICOS
 
 ### CAPÍTULO X. PECULADO
 
 ###### ARTÍCULO 256.
 
-Para los efectos de este Código, es servidor público de la Ciudad de México toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública de la Ciudad de México, en el Poder Legislativo local, en los órganos que ejercen la función judicial del fuero común en la Ciudad de México y en los órganos constitucionales autónomos.
+Para los efectos de este Código, es servidora o servidor público de la Ciudad de México toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública de la Ciudad de México, en el Poder Legislativo local, en los órganos que ejercen la función judicial del fuero común en la Ciudad de México y en los órganos constitucionales autónomos O BIEN, QUE TENGA LA DIRECCIÓN O ADMINISTRACIÓN DE UNA ASOCIACIÓN CIVIL QUE RECIBA FONDOS, RECURSOS O APOYOS PÚBLICOS.
 
-(NOTA: EL 1 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL 3 DE OCTUBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 13 DE FEBRERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2021 Y SU ACUMULADA 108/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 08 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+COMETE EL DELITO DE CORRUPCIÓN EL SERVIDOR PÚBLICO QUE REALICE O DEJE DE LLEVAR A CABO LO QUE LA LEY LE IMPONE CUMPLIR O SE ABSTENGA DE REALIZAR LO QUE LE PROHÍBE, PARA OBTENER UN BENEFICIO INDEBIDO DE CUALQUIER NATURALEZA, INCLUSIVE ECONÓMICA, PARA SÍ O EN FAVOR DE UN TERCERO.
 
-DE MANERA ADICIONAL A DICHAS SANCIONES, SE IMPONDRÁ A LOS RESPONSABLES DE SU COMISIÓN, LA PENA DE DESTITUCIÓN Y LA INHABILITACIÓN PARA DESEMPEÑAR EMPLEO, CARGO O COMISIÓN PÚBLICOS Y CARGO DE ELECCIÓN POPULAR, ASÍ COMO PARA PARTICIPAR EN ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS U OBRAS PÚBLICAS, CONCESIONES DE PRESTACIÓN DE SERVICIO PÚBLICO O DE EXPLOTACIÓN, APROVECHAMIENTO Y USO DE BIENES DE DOMINIO DE LA CIUDAD DE MÉXICO POR UN PLAZO DE UNO A VEINTE AÑOS, ATENDIENDO A LOS SIGUIENTES CRITERIOS:
+(NOTA: EL 13 DE FEBRERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2021 Y SU ACUMULADA 108/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 08 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-I.- SERÁ POR UN PLAZO DE UNO HASTA DIEZ AÑOS CUANDO NO EXISTA DAÑO O PERJUICIO O CUANDO EL MONTO DE LA AFECTACIÓN O BENEFICIO OBTENIDO POR LA COMISIÓN DEL DELITO NO EXCEDA DE DOSCIENTAS VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN VIGENTE, Y
+ADEMÁS DE LAS PENAS PREVISTAS EN LOS TÍTULOS DECIMOCTAVO Y VIGÉSIMO, SE IMPONDRÁ A LOS RESPONSABLES DE SU COMISIÓN, LA PENA DE DESTITUCIÓN Y LA INHABILITACIÓN PARA DESEMPEÑAR EMPLEO, CARGO O COMISIÓN PÚBLICOS Y CARGO DE ELECCIÓN POPULAR, ASÍ COMO PARA PARTICIPAR EN ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS U OBRAS PÚBLICAS, CONCESIONES DE PRESTACIÓN DE SERVICIO PÚBLICO O DE EXPLOTACIÓN, APROVECHAMIENTO Y USO DE BIENES DE DOMINIO DE LA CIUDAD DE MÉXICO POR UN PLAZO DE OCHO A VEINTICINCO AÑOS, ATENDIENDO A LOS SIGUIENTES CRITERIOS:
 
-II.- SERÁ POR UN PLAZO DE DIEZ A VEINTE AÑOS SI DICHO MONTO EXCEDE EL LÍMITE SEÑALADO EN LA FRACCIÓN ANTERIOR.
+I.- SERÁ POR UN PLAZO DE OCHO HASTA DIEZ AÑOS CUANDO NO EXISTA DAÑO O PERJUICIO O CUANDO EL MONTO DE LA AFECTACIÓN O BENEFICIO OBTENIDO POR LA COMISIÓN DEL DELITO NO EXCEDA DE DOSCIENTAS VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN VIGENTE, Y
 
-(NOTA: EL 1 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL 3 DE OCTUBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+II.- SERÁ POR UN PLAZO DE DIEZ A VEINTICINCO AÑOS SI DICHO MONTO EXCEDE EL LÍMITE SEÑALADO EN LA FRACCIÓN ANTERIOR.
 
-> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(NOTA: EL 13 DE FEBRERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO, TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2021 Y SU ACUMULADA 108/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA “O LA NATURALEZA DE LOS FINES DE LA ASOCIACIÓN CIVIL QUE TENÍA BAJO SU DIRECCIÓN O ADMINISTRACIÓN” Y POR EXTENSIÓN, DE LA PORCIÓN NORMATIVA "PARA EFECTOS DE LO ANTERIOR, SE DEBERÁ CONSIDERAR, EN CASO DE QUE EL RESPONSABLE TENGA EL CARÁCTER DE SERVIDOR PÚBLICO, ADEMÁS DE LO PREVISTO EN EL ARTÍCULO 257 DE ESTE CÓDIGO, LOS ELEMENTOS DEL EMPLEO, CARGO O COMISIÓN QUE DESEMPEÑABA CUANDO INCURRIÓ EN EL DELITO”, DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 08 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-PARA EFECTOS DE LO ANTERIOR, SE DEBERÁ CONSIDERAR, EN CASO DE QUE EL RESPONSABLE TENGA EL CARÁCTER DE SERVIDOR PÚBLICO, ADEMÁS DE LO PREVISTO EN EL ARTÍCULO 257 DE ESTE CÓDIGO, LOS ELEMENTOS DEL EMPLEO, CARGO O COMISIÓN QUE DESEMPEÑABA CUANDO INCURRIÓ EN EL DELITO.
+PARA EFECTOS DE LO ANTERIOR, SE DEBERÁ CONSIDERAR, EN CASO DE QUE EL RESPONSABLE TENGA EL CARÁCTER DE SERVIDOR PÚBLICO, ADEMÁS DE LO PREVISTO EN EL ARTÍCULO 257 DE ESTE CÓDIGO, LOS ELEMENTOS DEL EMPLEO, CARGO O COMISIÓN QUE DESEMPEÑABA CUANDO INCURRIÓ EN EL DELITO O LA NATURALEZA DE LOS FINES DE LA ASOCIACIÓN CIVIL QUE TENÍA BAJO SU DIRECCIÓN O ADMINISTRACIÓN.
 
-(NOTA: EL 1 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL 3 DE OCTUBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 13 DE FEBRERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2021 Y SU ACUMULADA 108/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 08 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+CUANDO EL RESPONSABLE TENGA EL CARÁCTER DE PARTICULAR, EL JUEZ DARÁ VISTA A LA SECRETARIA DE LA CONTRALORÍA GENERAL DE LA CIUDAD Y A LA SECRETARÍA DE LA FUNCIÓN PÚBLICA FEDERAL, CON EL FIN DE HACER DE SU CONOCIMIENTO QUE EL PARTICULAR HA SIDO INHABILITADO PARA DESEMPEÑAR UN CARGO PÚBLICO O PUESTO DE ELECCIÓN POPULAR, ASÍ COMO PARA PARTICIPAR EN ADQUISICIONES, ARRENDAMIENTOS, CONCESIONES, SERVICIOS U OBRAS PÚBLICAS, O BIEN PARTICIPAR EN LA DIRECCIÓN O ADMINISTRACIÓN DE CUALQUIER ASOCIACIÓN CIVIL QUE RECIBA FONDOS, RECURSOS O APOYOS PÚBLICOS CONSIDERANDO, EN SU CASO, LO SIGUIENTE:
 
-CUANDO EL RESPONSABLE TENGA EL CARÁCTER DE PARTICULAR, EL JUEZ DARÁ VISTA A LA SECRETARIA DE LA CONTRALORÍA GENERAL DE LA CIUDAD Y A LA SECRETARÍA DE LA FUNCIÓN PÚBLICA FEDERAL, CON EL FIN DE HACER DE SU CONOCIMIENTO QUE EL PARTICULAR HA SIDO INHABILITADO PARA DESEMPEÑAR UN CARGO PÚBLICO O PUESTO DE ELECCIÓN POPULAR, ASÍ COMO PARA PARTICIPAR EN ADQUISICIONES, ARRENDAMIENTOS, CONCESIONES, SERVICIOS U OBRAS PÚBLICAS, CONSIDERANDO, EN SU CASO, LO SIGUIENTE:
+A) LOS DAÑOS Y PERJUICIOS PATRIMONIALES CAUSADOS POR LOS ACTOS U OMISIONES;
 
-I.- LOS DAÑOS Y PERJUICIOS PATRIMONIALES CAUSADOS POR LOS ACTOS U OMISIONES;
+B) LAS CIRCUNSTANCIAS SOCIOECONÓMICAS DEL RESPONSABLE;
 
-II.- LAS CIRCUNSTANCIAS SOCIOECONÓMICAS DEL RESPONSABLE;
+C) LAS CONDICIONES EXTERIORES Y LOS MEDIOS DE EJECUCIÓN, Y
 
-III.- LAS CONDICIONES EXTERIORES Y LOS MEDIOS DE EJECUCIÓN, Y
+D) EL MONTO DEL BENEFICIO QUE HAYA OBTENIDO EL RESPONSABLE. SIN PERJUICIO DE LO ANTERIOR, LA CATEGORÍA DE FUNCIONARIO O EMPLEADO DE CONFIANZA SERÁ UNA CIRCUNSTANCIA QUE PODRÁ DAR LUGAR A UNA AGRAVACIÓN DE LA PENA.
 
-IV.- EL MONTO DEL BENEFICIO QUE HAYA OBTENIDO EL RESPONSABLE. SIN PERJUICIO DE LO ANTERIOR, LA CATEGORÍA DE FUNCIONARIO O EMPLEADO DE CONFIANZA SERÁ UNA CIRCUNSTANCIA QUE PODRÁ DAR LUGAR A UNA AGRAVACIÓN DE LA PENA.
+(NOTA: EL 13 DE FEBRERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2021 Y SU ACUMULADA 108/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 08 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+LOS DELITOS PREVISTOS EN EL CAPÍTULO SEGUNDO A DÉCIMO CUARTO DE ESTE TÍTULO DÉCIMO OCTAVO, ASÍ COMO LOS CONTENIDOS EN LOS TÍTULOS DÉCIMO NOVENO Y VIGÉSIMO, SERÁN MODALIDADES DEL DELITO DE CORRUPCIÓN Y SE SANCIONARÁN CON LAS PENAS QUE CADA FIGURA DELICTIVA SEÑALE, ADEMÁS DE LAS AGRAVANTES PREVISTAS EN EL PRESENTE ARTÍCULO.
 
-Cuando los delitos a que se refieren los artículos 259, 267, 271, 272, 273 y 275, del presente Código sean cometidos por servidores públicos electos popularmente o cuyo nombramiento este sujeto a ratificación del Poder Legislativo local, las penas previstas serán aumentadas hasta en un tercio.
+(NOTA: EL 13 DE FEBRERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2021 Y SU ACUMULADA 108/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 08 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+CUANDO LOS DELITOS A LOS QUE SE REFIERE EL PÁRRAFO ANTERIOR SEAN COMETIDOS POR SERVIDORES PÚBLICOS ELECTOS POPULARMENTE O CUYO NOMBRAMIENTO ESTÉ SUJETO A RATIFICACIÓN DEL PODER LEGISLATIVO LOCAL, LAS PENAS PREVISTAS SERÁN AUMENTADAS HASTA EN DOS TERCIOS.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 256 BIS. Comete el delito de enriquecimiento ilícito, la persona servidora pública que:
+
+I. Maneje, administre o ejerza, ilícitamente, dinero, valores, inmuebles o cualquier otra cosa en un objeto, fin o destino distinto para el que los hubiere recibido por razón de su empleo, cargo o comisión.
+
+II. Utilice ilícitamente su empleo, cargo o comisión para incrementar su patrimonio, el de su cónyuge, concubino, o de la persona con quien tenga cualquier tipo de relación sentimental o afectiva, de sus ascendientes o descendientes sin límite de grado, y en línea colateral hasta cuarto grado, sean por consanguinidad o afinidad, así como de sus dependientes económicos directos, sin comprobar su legítima procedencia.
+
+Para efectos de esta fracción, se tomarán en cuenta los bienes a nombre de las personas que a que se refiere el párrafo anterior, o aquellos sobre los que éstos ejercen derechos de uso, goce, disfrute, aprovechamiento o disposición, se conduzcan o no como dueños de los mismos.
+
+Se equipará al delito enriquecimiento ilícito y se sancionará con las mismas penas y medidas de seguridad, al que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio de la Ciudad de México, con la finalidad de obtener un beneficio para sí o para un tercero:
+
+A. Genere y utilice información falsa o alterada, respecto de los beneficios que obtenga, y
+
+B. Cuando estando legalmente obligado a entregar a una autoridad información sobre los beneficios que obtenga, la oculte.
+
+Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización, vigente en el momento en que se comete el delito, se impondrá de uno a diez años de prisión y de cincuenta a trescientos días de multa.
+
+Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se comete el delito, se impondrá de diez a veinte años de prisión y de dos mil a cinco mil días multa.
+
+Si en la planeación, organización, dirección, ejecución, realización u ocultamiento de las conductas a que se refiere el presente artículo o del resultado material de la misma, hubieran participado dos o más personas servidoras públicas, las penas anteriores se aumentarán en tres cuartas partes.
+
+Asimismo, se impondrá destitución e inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta.
 
 > <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3412,43 +3444,23 @@ II. Continúe ejerciendo las funciones de un empleo, cargo o comisión después 
 
 III. Por sí o por interpósita persona, sustraiga, destruya, oculte, altere, utilice o inutilice, indebidamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
 
-> <small>(ADICIONADA, G.O. 10 DE ENERO DE 2014)</small>
+III BIS. (DEROGADA, G.O. 7 DE JUNIO DE 2021)
 
-III Bis. Sustraiga, destruya, oculte, altere, utilice, inutilice o introduzca ilegalmente información o documentos auténticos, falsos, alterados o que no sean reconocidos por la autoridad que los expidió, en expedientes, archivos o bases de datos que se encuentren bajo su custodia o a los que tenga acceso en virtud de su empleo, cargo, comisión o cualquier otra clase de prestación de servicios, con la finalidad de que se expidan o registren algunos de los documentos siguientes:
-
-a) Certificado único de zonificación de uso del suelo;
-
-b) Certificado de acreditación de uso del suelo por derechos adquiridos;
-
-c) Manifestaciones de construcción;
-
-d) Licencia de construcción especial para demolición;
-
-e) Permisos para la ejecución de obras; o
-
-> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
-
-f) Cualquier otro relacionado con la zonificación, el uso del suelo, construcción y demolición, independientemente de su denominación; En contravención con la normativa vigente relativa al desarrollo urbano, construcciones, inmuebles y ordenamiento territorial para la Ciudad de México.
-
-> <small>(REFORMADA, G.O. 17 DE ENERO DE 2005)</small>
-
-IV. Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas o a los lugres (sic), instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado; y
+IV. (DEROGADA, G.O. 7 DE JUNIO DE 2021)
 
 > <small>(ADICIONADA, G.O. 8 DE JULIO DE 2011)</small>
 
 IV Bis. Teniendo la obligación de custodiar, vigilar y evitar el asentamiento humano en zonas dictaminadas como de alto riesgo, autorice, permita o tolere la existencia de los mismos.
 
-> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
-
-V. Teniendo un empleo, cargo o comisión en los Centros de Reclusión de la Ciudad de México, facilite o fomente en los centros de readaptación social y penitenciarías la introducción, uso, consumo, posesión o comercio de bebidas alcohólicas, sustancias psicotrópicas, así como de teléfonos celulares, radio localizadores o cualquier otro instrumento de comunicación radial o satelital para uso de los internos.
+V. (DEROGADA, G.O. 7 DE JUNIO DE 2021)
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 1 DE SEPTIEMBRE DE 2017, PÁGINA 237 Y 239.]</small>
 
 Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este artículo, se le impondrán de uno a tres años de prisión y de veinticinco a doscientos cincuenta días multa.
 
-> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2021)</small>
 
-Al que cometa alguno de los delitos a los que se refieren las fracciones I, II III, III Bis, IV, IV Bis y V de este artículo, se le impondrán de dos a siete años de prisión y multa de veinticinco a doscientos cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
+Al que cometa alguno de los delitos a los que se refieren las fracciones III y IV Bis de este artículo, se le impondrán de seis a doce años de prisión y multa de veinticinco a doscientos cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3490,9 +3502,9 @@ Al servidor público que con cualquier pretexto obtenga de un subalterno parte d
 
 ###### ARTÍCULO 266.
 
-A los servidores públicos que, con el fin de impedir o suspender las funciones legislativas, administrativas o jurisdiccionales, se coaliguen y tomen medidas contrarias a una ley, reglamento o disposición de carácter general, impidan su aplicación, ejecución o dimitan de sus puestos, se les impondrá prisión de dos a siete años y de cien a trescientos días multa.
+(DEROGADO, G.O. 7 DE JUNIO DE 2021)
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 7 DE JUNIO DE 2021)</small>
 
 ### CAPÍTULO XIV. REMUNERACIÓN ILICITA
 
@@ -3524,49 +3536,71 @@ IV. Si el beneficio otorgado u obtenido en contravención de las disposiciones d
 
 ###### ARTÍCULO 267.
 
-Comete el delito de uso ilegal de atribuciones y facultades:
+Comete el delito de ejercicio abusivo de funciones:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2014)</small>
+I. El servidor público que, con motivo de su empleo, cargo o comisión, ilegalmente:
 
-I. Al (sic) servidor público que ilegalmente:
+a. Se coaligue con otras personas servidoras públicas y tomen medidas contrarias a una ley, reglamento o disposición de carácter general, impidan su aplicación, ejecución o dimitan de sus puestos, con el fin de impedir o suspender las funciones legislativas, administrativas o jurisdiccionales.
 
-> <small>(REFORMADO, G.O. 01 DE SEPTIEMBRE DE 2017)</small>
+b. Por sí o a través de un tercero, solicite o reciba indebidamente para sí o para otro, dinero, bien o beneficio, o acepte una promesa, para hacer o dejar de hacer algo relacionado con sus funciones.
 
-a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del patrimonio de la Ciudad México;
+c. Indebidamente utilice fondos, bienes o servicios públicos, con el objeto de promover su imagen personal, para fines políticos o sociales, de su superior jerárquico o de un tercero, o a fin de denigrar a cualquier persona.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+d. Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del patrimonio de la Ciudad México.
 
-b) Otorgue permisos, licencias o autorizaciones de contenido económico;
+e. Otorgue permisos, licencias o autorizaciones de contenido económico;
 
-> <small>(REFORMADO, G.O. 01 DE SEPTIEMBRE DE 2017)</small>
+f. Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados por la administración pública de la Ciudad de México;
 
-c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados por la administración pública de la Ciudad de México;
+g. Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, o colocaciones de fondos y valores con recursos económicos públicos;
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2014)</small>
+h. Expida, otorgue o permita el otorgamiento o la expedición de certificados, autorizaciones o licencias en materia de uso del suelo, construcción o inmuebles;
 
-d) Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, o colocaciones de fondos y valores con recursos económicos públicos y,
+i. Indebidamente niegue, retarde u obstaculice el auxilio o la protección o el servicio que tenga obligación de otorgar;
 
-> <small>(ADICIONADO, G.O. 10 DE ENERO DE 2014)</small>
+II. El servidor público que teniendo a su cargo elementos de la fuerza pública y habiendo sido requerido legalmente por una autoridad competente para que le preste el auxilio, se niegue indebidamente a proporcionarlo.
 
-e) Expida, otorgue o permita el otorgamiento o la expedición de certificados, autorizaciones o licencias en materia de uso del suelo, construcción o inmuebles;
+III. La persona servidora pública que, teniendo un empleo, cargo o comisión en los Centros de Reclusión de la Ciudad de México, por cualquier medio facilite, fomente, induzca o realice en los centros de readaptación social y penitenciarías la introducción, uso, consumo, posesión o comercio de bebidas alcohólicas, sustancias psicotrópicas, así como de teléfonos celulares, radio localizadores o cualquier otro instrumento de comunicación radial o satelital para uso de los internos.
 
-II. El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal.
+IV. La persona servidora pública que, con motivo de empleo, cargo o comisión:
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.O. 01 DE SEPTIEMBRE DE 2017)</small>
+A). Tenga a su cargo fondos públicos, les dé una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal;
 
-III. Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio de la Ciudad de México, con la finalidad de obtener un beneficio para sí o para un tercero:
+B). Conozca de un asunto para el cual tenga impedimento legal;
 
-A.- Genere y utilice información falsa o alterada, respecto de los beneficios que obtenga, y
+C). Obligué a una persona imputada, acusada o inculpada a declarar;
 
-B.- Cuando estando legalmente obligado a entregar a una autoridad información sobre los beneficios que obtenga, la oculte.
+D) Sustraiga, destruya, oculte, altere, utilice, inutilice o introduzca ilegalmente información o documentos auténticos, falsos, alterados o que no sean reconocidos por la autoridad que los expidió, en expedientes, archivos o bases de datos que se encuentren bajo su custodia o a los que tenga acceso en virtud de su empleo, cargo, comisión o cualquier otra clase de prestación de servicios, con la finalidad de que se expidan o registren algunos de los documentos siguientes:
 
-> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+1. Certificado único de zonificación de uso del suelo;
 
-Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y una multa de treinta a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
+2. Certificado de acreditación de uso del suelo por derechos adquiridos;
 
-> <small>(ADICIONADO, G.O. 8 DE JULIO DE 2011)</small>
+3. Manifestaciones de construcción;
 
-Si la conducta que se señala en la fracción II se hiciere en perjuicio de la protección de la vida, bienes y entorno de la población, la pena será de tres a siete años de prisión y de mil a diez mil días multa.
+4. Licencia de construcción especial para demolición;
+
+5. Permisos para la ejecución de obras; o
+
+6. Cualquier otro relacionado con la zonificación, el uso del suelo, construcción y demolición, independientemente de su denominación; En contravención con la normativa vigente relativa al desarrollo urbano, construcciones, inmuebles y ordenamiento territorial para la Ciudad de México.
+
+E). Cumplimente una orden de aprehensión sin poner al detenido a disposición de la Jueza o Juez o lo realice con dilación injustificada, en el término señalado por el párrafo cuarto del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+
+F). Indebidamente se abstenga de ejercitar acción penal o de poner a disposición del órgano Jurisdiccional a una persona que se encuentre detenida o retenida por un hecho con apariencia de delito sancionado por la Ley, de conformidad con los plazos establecidos en la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia;
+
+G). Fabrique, altere o simule datos de prueba, medios de prueba y pruebas, para incriminar o exculpar a otro;
+
+H). Altere o permita la alteración de los indicios, instrumentos, huellas, objetos, vestigios o productos del hecho con apariencia de delito;
+
+I). Teniendo la obligación, atendiendo a su calidad de garante, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpla dicha obligación en cualquier forma, dando como resultado el daño, pérdida o sustracción de los mismos;
+
+J). Detenga a un individuo durante la integración de una carpeta de investigación o investigación de un hecho que la ley señale como delito, fuera de los casos señalados por la ley, o lo retenga por más tiempo del previsto en el párrafo décimo del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
+
+K). Se abstenga de iniciar carpeta de investigación o realizar un acto de investigación de un hecho que la ley señale como delito, cuando sea puesto a su disposición una persona sujeta a una investigación o un imputado de delito doloso que sea perseguible de oficio; y
+
+L). Retarde deliberadamente emitir sentencia definitiva o cualquier otra resolución de fondo o de trámite dentro del plazo legal.
+
+Al que realice cualquiera de las conductas descritas en el presente artículo, se le impondrán de cinco a veinte años de prisión y de dos mil a cinco mil días de multa.
 
 > <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
@@ -3604,13 +3638,7 @@ III. Las mismas sanciones se impondrán al servidor público que por sí o por i
 
 ###### ARTÍCULO 270.
 
-Se impondrá prisión de dos a ocho años, al servidor público que:
-
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
-
-I. Indebidamente niegue, retarde u obstaculice el auxilio o la protección o el servicio que tenga obligación de otorgar.
-
-II. Teniendo a su cargo elementos de la fuerza pública y habiendo sido requerido legalmente por una autoridad competente para que le preste el auxilio, se niegue indebidamente a proporcionarlo.
+(DEROGADO, G.O. 7 DE JUNIO DE 2021)
 
 ### CAPÍTULO III. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJO PÚBLICOS
 
@@ -3626,29 +3654,13 @@ Si la conducta anterior produce un beneficio económico, la sanción se aumentar
 
 ###### ARTÍCULO 272.
 
-Al servidor público que por sí o por interpósita persona, solicite o reciba indebidamente para sí o para otro, dinero o cualquier otra dádiva, o acepte una promesa, para hacer o dejar de hacer algo relacionado con sus funciones, se le impondrán las siguientes sanciones:
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-I. Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente en el momento de cometerse el delito, o no sea valuable, se impondrán de uno a cuatro años de prisión y de treinta a trescientos días multa; o
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente en el momento de cometerse el delito, se impondrán de dos a nueve años de prisión y de trescientos a ochocientos días multa.
+(DEROGADO, G.O. 7 DE JUNIO DE 2021)
 
 ### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
 
 ###### ARTÍCULO 273.
 
-Se impondrán (sic) prisión de seis meses a cuatro años y de cincuenta a quinientos días multa, al servidor público que:
-
-I. Disponga o distraiga de su objeto, dinero, valores, inmuebles o cualquier otra cosa, si los hubiere recibido por razón de su cargo; o
-
-II. Indebidamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo 267 de este Código, con el objeto de promover la imagen política o social de su persona, de su superior jerárquico o de un tercero, o a fin de denigrar a cualquier persona.
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Cuando el monto o valor exceda de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente, se impondrán (sic) prisión de cuatro a doce años y de quinientos a dos mil días multa.
+(DEROGADO, G.O. 7 DE JUNIO DE 2021)
 
 ### CAPÍTULO VI. EJERCICIO ILEGAL DEL PROPIO DERECHO
 
@@ -3660,19 +3672,7 @@ Al servidor público que con tal carácter exija por sí o por interpósita pers
 
 ###### ARTÍCULO 275.
 
-Comete el delito de enriquecimiento ilícito el servidor público que utilice su puesto, cargo o comisión para incrementar su patrimonio sin comprobar su legítima procedencia.
-
-Para determinar el enriquecimiento del servidor público, se tomarán en cuenta los bienes a su nombre y aquellos respecto de los cuales se conduzca como dueño, además de lo que a este respecto disponga la legislación sobre responsabilidades de los servidores públicos.
-
-Al servidor público que cometa el delito de enriquecimiento ilícito, se le impondrán las siguientes sanciones:
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente a cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente en el momento en que se comete el delito, se impondrá de seis meses a cinco años de prisión y de cincuenta a trescientos días multa.
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente a cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente antes anotado, se impondrán de dos a doce años de prisión y de trescientos a seiscientos días multa.
+(DEROGADO, G.O. 7 DE JUNIO DE 2021)
 
 ### CAPÍTULO VIII. FABRICACIÓN, COMERCIALIZACIÓN Y USO INDEBIDO DE INSIGNIAS Y UNIFORMES
 
@@ -3710,7 +3710,7 @@ Al que sin ser servidor público se atribuya ese carácter y ejerza alguna de la
 
 ### CAPÍTULO II. DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE. REPUBLICADO PRIMER PÁRRAFO], G.O. 7 DE JUNIO DE 2021)</small>
 
 ## TÍTULO DÉCIMO NOVENO. HECHOS DE CORRUPCIÓN Y DELITOS CONTRA EL SERVICIO PÚBLICO COMETIDOS POR PARTICULARES
 
@@ -3838,11 +3838,13 @@ I. Dicte una sentencia definitiva o cualquier otra resolución de fondo que viol
 
 II. No cumpla con una disposición que legalmente se le comunique por un superior competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 291.
 
-Se impondrán prisión de uno a cinco años y de cincuenta a doscientos cincuenta días multa, al servidor público que:
+Se impondrán de diez a veinte años de prisión y de mil a cinco mil días multa, al servidor público que:
 
-I. Conozca de un negocio para el cual tenga impedimento legal;
+I. (DEROGADA, G.O. 7 DE JUNIO DE 2021)
 
 II. Litigue por sí o por interpósita persona, cuando la ley les prohíba el ejercicio de su profesión, dirija o aconseje a las personas que litiguen ante él;
 
@@ -3858,11 +3860,13 @@ VII. Nombre síndico o interventor en un concurso o quiebra, a una persona que s
 
 La misma sanción se impondrá a quien, como intermediario de un servidor público, remate algún bien objeto del remate en cuyo juicio haya intervenido aquél.
 
+> <small>(REFORMADO [N. DE. REPUBLICADO PRIMER PÁRRAFO], G.O. 7 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 292.
 
 Se impondrán de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa, al servidor público que:
 
-I. Se abstenga, sin tener impedimento legal, de conocer un asunto que le corresponda por razón de su cargo o comisión;
+I. (DEROGADA, G.O. 7 DE JUNIO DE 2021)
 
 II. Omita dictar deliberadamente, dentro del plazo legal, una sentencia definitiva o cualquier otra resolución de fondo o de trámite;
 
@@ -3880,25 +3884,17 @@ ARTÍCULO 292 BIS. Al servidor público que retarde o entorpezca indebidamente l
 
 Se impondrán de dos a ocho años de prisión y de cien a cuatrocientos veces el valor diario de la Unidad de Medida y Actualización vigente, al servidor público que:
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+I. (DEROGADA, G.O. 7 DE JUNIO DE 2021)
 
-I. Detenga a un individuo durante la averiguación previa o investigación de un hecho que la ley señale como delito, fuera de los casos señalados por la ley, o lo retenga por más tiempo del previsto en el párrafo décimo del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
-
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-II. Obligue al imputado, acusado o inculpado a declarar;
+II. (DEROGADA, G.O. 7 DE JUNIO DE 2021)
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 III. Ejercite la acción penal o pretensión punitiva cuando no preceda denuncia o querella;
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+IV. (DEROGADA, G.O. 7 DE JUNIO DE 2021)
 
-IV. Realice una aprehensión sin poner al aprehendido a disposición del juez sin dilación alguna, en el término señalado por el párrafo cuarto del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-V. Se abstenga indebidamente de hacer la consignación que corresponda o de poner a disposición del Juez de Control a una persona que se encuentre detenida a su disposición como probable responsable o imputado de algún delito, o de ejercitar en todo caso la acción penal, cuando sea procedente conforme a la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia;
+V. (DEROGADA, G.O. 7 DE JUNIO DE 2021)
 
 VI. (DEROGADA, G.O. 1 DE SEPTIEMBRE DE 2017)
 
@@ -3912,19 +3908,15 @@ VIII. Se abstenga de iniciar una averiguación previa o una investigación de un
 
 IX. Practique cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-X. Fabrique, altere o simule elementos, datos o medios de prueba para incriminar o exculpar a otro;
+X. (DEROGADA, G.O. 7 DE JUNIO DE 2021)
 
 > <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 XI. Aplique un criterio de oportunidad fuera de los casos señalados en la ley o la legislación procesal penal aplicable al Distrito Federal; o
 
-> <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+XII. (DEROGADA, G.O. 7 DE JUNIO DE 2021)
 
-XII. Altere o permita la alteración de los indicios, huellas o vestigios del hecho delictivo, así como de los instrumentos, objetos o productos del delito.
-
-> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 7 DE JUNIO DE 2021)</small>
 
 Las sanciones previstas en el primer párrafo de este artículo se duplicarán cuando la persona imputada, acusada o procesada sea integrante o miembro de un pueblo o comunidad indígena.
 
@@ -6149,3 +6141,23 @@ G.O. 26 DE FEBRERO DE 2021.
 Primero: El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. Remítase a la persona titular de la Jefatura de Gobierno para los efectos procesales correspondientes.
+
+G.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 71 TER, 86 DENOMINACIÓN DEL TÍTULO DÉCIMO OCTAVO, 256, 259, DENOMINACIÓN DEL CAPÍTULO V, 267, 291, 292, Y 293; ADICIONA LOS ARTÍCULOS 111 BIS Y 256 BIS; Y DEROGA LOS ARTÍCULOS 266, 270, 272, 273 Y 275; TODOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+Primero. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. Remítase a la Jefa de Gobierno para sus efectos legales correspondientes.
+
+G.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN, LOS ARTÍCULOS 108, 111 Y 181 BIS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+Primero. El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. Remítase a la Jefa de Gobierno para sus efectos legales correspondientes.
