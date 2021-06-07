@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-sistema-de-transporte-convencional-de-103
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-10-27"
-last_updated: "2014-10-27"
+last_updated: "2021-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA DE TRANSPORTE CONVENCIONAL DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE CONVENCIONAL DE HIDALGO, PUBLICADO EN EL P.O. DE 7 DE JUNIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE CONVENCIONAL DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021 (DEROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de octubre de 2014.
 
@@ -598,3 +600,19 @@ CUARTO. El presente Estatuto Orgánico deberá inscribirse en el Registro Públi
 Dado en la ciudad de Pachuca de Soto, Hidalgo a los 28 días del mes de enero del año dos mil catorce.
 
 LOS INTEGRANTES DE LA H. JUNTA DE GOBIERNO: CAPITÁN ROBERTO TERÁN CONTRERAS, PRESIDENTE SUPLENTE DE LA JUNTA DE GOBIERNO DEL SISTEMA DE TRANSPORTE CONVENCIONAL DE HIDALGO.- RÚBRICA; CONSEJEROS ASISTENTES; LIC. YOLANDA MUÑOZ FRANCO, CONSEJERO SUPLENTE DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN.- RÚBRICA; LIC. IGNACIO IBARGUENGOTIA FRANSON Y, CONSEJERO SUPLENTE DE LA SECRETARÍA DE PLANEACIÓN, DESARROLLO REGIONAL Y METROPOLITANO.- RÚBRICA; LIC. FLOR DE MARÍA LÓPEZ GONZÁLEZ, CONSEJERO PROPIETARIO DE LA SECRETARÍA DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL.- RÚBRICA; LIC. BERNARDO IVÁN PONCE SOBREVILLA, CONSEJERO SUPLENTE DE LA SECRETARÍA DE DESARROLLO ECONÓMICO.- RÚBRICA; M.G.P. JESÚS ROMERO QUINTANAR CONSEJERO PROPIETARIO DE LA SECRETARÍA DE OBRAS PÚBLICAS Y ORDENAMIENTO TERRITORIAL.- RÚBRICA; LIC. ALAIN SOUVERBILLE GARCÍA, COMISARIO PÚBLICO DEL STCH, DIRECTOR GENERAL Y SECRETARIO DE LA JUNTA DE GOBIERNO DE STCH.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE CONVENCIONAL DE HIDALGO”.]
+
+PRIMERO. El presente Estatuto Orgánico, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor de este Estatuto Orgánico, el Sistema de Transporte, deberá emitir sus Manuales de Organización y Procedimientos en un plazo de 180 días hábiles.
+
+TERCERO. En tanto no se expidan los Instrumentos Jurídicos que regulen internamente las actividades de las unidades del Sistema de Transporte, se continuarán aplicando los vigentes al momento de entrar en vigor del presente Estatuto Orgánico.
+
+CUARTO. Queda derogado el Estatuto Orgánico del Sistema de Transporte publicado en fecha 27del (sic) mes de Octubre de 2014, en el Periódico Oficial del Estado, así como cualquier disposición que se oponga al presente Estatuto Orgánico.
+
+QUINTO. Se ordena la inscripción del presente Estatuto Orgánico, en el Registro Público de Organismos Descentralizados, en términos de lo que establece la Ley de Entidades Paraestatales del Estado de Hidalgo, y su Reglamento.
