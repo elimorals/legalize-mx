@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2021-05-20"
+last_updated: "2021-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,11 @@ abbreviation: "LOPJF"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LA LEY DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACIÓN; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA; DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; DE LA LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES, PUBLICADO EN EL D.O.F. DE 7 DE JUNIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2021 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -4417,3 +4419,49 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LA LEY DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACIÓN; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA; DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; DE LA LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo siguiente:
+
+I. Las disposiciones relativas a los Tribunales Colegiados de Apelación en sustitución de los Tribunales Unitarios de Circuito, entrarán en vigor de manera gradual y escalonada en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
+II. Las disposiciones relativas a los plenos Regionales en sustitución de los plenos de Circuito, entrarán en vigor en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
+III. Entrarán en vigor en la fecha en la que el Poder Judicial de la Federación realice la declaratoria a que se refiere el artículo Séptimo Transitorio de este Decreto:
+
+a) El artículo segundo del presente Decreto;
+
+b) Las disposiciones relativas a la Escuela Federal de Formación Judicial, y
+
+c) Las nuevas categorías de la Carrera Judicial.
+
+IV. Las reformas a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, entrarán en vigor a los 18 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+V. La reforma al artículo 218 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, entrará en vigor a los 6 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Segundo. Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
+
+Tercero. El procedimiento de sustituciones por ausencia de las personas titulares de los órganos jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Quinto. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Séptimo. Dentro de los 18 meses siguientes a la publicación del presente Decreto, el Poder Judicial de la Federación deberá emitir y publicar, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, la declaratoria para el inicio de la observancia de las nuevas reglas de la Carrera Judicial contenidas en el presente Decreto.
+
+Octavo. Las y los actuales oficiales administrativos podrán acceder a la categoría de oficial judicial, previo cumplimiento de los requisitos y evaluación que para tal efecto implemente el Consejo de la Judicatura Federal, en los términos de las disposiciones que éste emita. En caso de que dichos oficiales administrativos no puedan acceder a la nueva categoría, conservarán su actual puesto y los derechos inherentes a este.
+
+Noveno. Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su formato.
+
+Décimo. Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente Decreto mantendrán su obligatoriedad, salvo que sean interrumpidas en los términos que se prevén en el artículo 228 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al momento de la interrupción.
+
+Décimo Primero. Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran emitido con anterioridad a la entrada en vigor del nuevo sistema de precedentes obligatorios, mantendrán ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del presente Decreto podrán constituir jurisprudencia por precedente.
+
+Décimo Segundo. Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 26 de mayo de 1995.
+
+Décimo Tercero. Con el fin de implementar la reforma constitucional al Poder Judicial de la Federación publicada en el Diario Oficial de la Federación de 11 de marzo de 2021 y las leyes reglamentarias a las que se refiere el presente Decreto, la persona que a su entrada en vigor ocupe la Presidencia de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal durará en ese encargo hasta el 30 de noviembre de 2024. Asimismo, el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2016 concluirá su encargo el 30 de noviembre de 2023; el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 24 de febrero de 2019 concluirá sus funciones el 23 de febrero de 2026; el Consejero de la Judicatura Federal nombrado por el Ejecutivo Federal el 18 de noviembre de 2019 concluirá el 17 de noviembre de 2026; las Consejeras de la Judicatura Federal designadas por el Senado de la República el 20 de noviembre de 2019 concluirán su encargo el 19 de noviembre de 2026; y el Consejero de la Judicatura Federal designado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2019 durará en funciones hasta el 30 de noviembre de 2026.
