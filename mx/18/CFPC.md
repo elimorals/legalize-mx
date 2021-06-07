@@ -4,7 +4,7 @@ identifier: "CFPC"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-02-24"
-last_updated: "2021-05-20"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CFPC"
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2021.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el miércoles 24 de febrero de 1943.
 
@@ -176,9 +176,11 @@ A falta de los jueces, magistrados o ministros normalmente competentes, conocer�
 
 Ningún tribunal puede negarse a conocer de un asunto, sino por considerarse incompetente. El auto en que un juez se negare a conocer, es apelable.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 15.
 
-Ningún juez puede sostener competencia con su tribunal de apelación; pero sí con otro juez o tribunal que, aun superior en grado, no ejerza sobre él jurisdicción.
+Ninguna jueza o juez puede sostener competencia con su Tribunal Colegiado de Apelación; pero sí con otra jueza, juez o Tribunal que, aun superior en grado, no ejerza sobre ella o él jurisdicción.
 
 ###### ARTICULO 16.
 
@@ -196,9 +198,11 @@ No obstante esta nulidad, las partes pueden convenir en reconocer como válidas 
 
 #### SECCION PRIMERA. Competencia por materia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 18.
 
-Los negocios de la competencia de la Suprema Corte de Justicia, hecha excepción de los procedimientos de amparo, se verán siempre por el Tribunal Pleno, en única instancia. Los restantes negocios de competencia federal, cuando no exista ley especial, se verán por los Juzgados de Distrito, en primer grado, y, en apelación, ante los tribunales de Circuito, en los términos en que sea procedente el recurso, de conformidad con las disposiciones de este ordenamiento.
+Los negocios de la competencia de la Suprema Corte de Justicia, hecha excepción de los procedimientos de amparo, se verán siempre por el Tribunal Pleno, en única instancia. Los restantes negocios de competencia federal, cuando no exista ley especial, se verán por los Juzgados de Distrito, en primer grado, y, en apelación, ante los Tribunales Colegiados de Apelación, en los términos en que sea procedente el recurso, de conformidad con las disposiciones de este ordenamiento.
 
 Si dentro de un negocio del orden local o de la competencia de un tribunal federal de organización especial, se hace valer un interés de la Federación en forma de tercería o de cualquiera otra manera, cesará la competencia del que esté conociendo, y pasará el negocio a la Suprema Corte de Justicia o al Juzgado de Distrito que corresponda, según sea la naturaleza del interés de la Federación. Inversamente, desaparecido el interés de la Federación en un negocio, o resuelta definitivamente la cuestión que a ella importaba, cesará la competencia de los tribunales ordinarios de la Federación.
 
@@ -206,9 +210,11 @@ Si dentro de un negocio del orden local o de la competencia de un tribunal feder
 
 Los juzgados de Distrito tienen la competencia material que detalladamente les atribuye la Ley Orgánica del Poder Judicial de la Federación.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 20.
 
-Los tribunales de Circuito conocerán de la segunda instancia de los negocios de la competencia de los juzgados de Distrito.
+Los Tribunales Colegiados de Apelación, conocerán de la segunda instancia de los negocios de la competencia de los juzgados de Distrito.
 
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
 
@@ -1654,11 +1660,11 @@ Otorgada la garantía de que trata el artículo anterior, la parte contraria al 
 
 En este caso y en el del artículo anterior, la garantía se calificará con audiencia de la contraparte.
 
-> <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 237.
 
-Cuando el auto contra el cual se haya admitido el recurso de apelación en ambos efectos, hubiere recaído en expediente tramitado por cuerda separada, sólo serán remitidos, al tribunal de apelación, los autos relativos al punto apelado; sin perjuicio de que, en copia, se remitan las constancias que, del principal, soliciten las partes, o de que se envíe éste, si ambas lo solicitaren.
+Cuando el auto contra el cual se haya admitido el recurso de apelación en ambos efectos, hubiere recaído en expediente tramitado por cuerda separada, sólo serán remitidos, al Tribunal Colegiado de Apelación, los autos relativos al punto apelado; sin perjuicio de que, en copia, se remitan las constancias que, del principal, soliciten las partes, o de que se envíe éste, si ambas lo solicitaren.
 
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
 
@@ -1682,23 +1688,27 @@ Sólo son apelables los autos cuando lo sea la sentencia definitiva del juicio e
 
 La apelación debe interponerse ante el tribunal que haya pronunciado la resolución, en el acto de la notificación o, a más tardar, dentro de los cinco días siguientes de que cause estado, si se tratare de sentencia, o de tres, si fuere de auto.
 
-> <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 242.
 
-Interpuesta la apelación en tiempo hábil, el tribunal la admitirá sin substanciación alguna, si procede legalmente, y, dentro de los tres días siguientes a la notificación, remitirá, al tribunal de apelación, los autos originales, cuando el recurso se hubiere admitido en ambos efectos. Si se hubiere admitido sólo en el efecto devolutivo, se remitirá el testimonio correspondiente, tan pronto como quede concluido.
+Interpuesta la apelación en tiempo hábil, el tribunal la admitirá sin substanciación alguna, si procede legalmente, y, dentro de los tres días siguientes a la notificación, remitirá, al Tribunal Colegiado de Apelación, los autos originales, cuando el recurso se hubiere admitido en ambos efectos. Si se hubiere admitido sólo en el efecto devolutivo, se remitirá el testimonio correspondiente, tan pronto como quede concluido.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 243.
 
-En el auto en que se admita la apelación, se emplazará, al apelante, para que, dentro de los tres días siguientes de estar notificado, ocurra al tribunal de apelación a continuar el recurso, ampliándose el término que se le señale, en su caso, por razón de la distancia.
+En el auto en que se admita la apelación, se emplazará, a la o al apelante, para que, dentro de los tres días siguientes de estar notificado, ocurra al Tribunal Colegiado de Apelación a continuar el recurso, ampliándose el término que se le señale, en su caso, por razón de la distancia.
 
 ###### ARTICULO 244.
 
 En el escrito en que el apelante se presente a continuar el recurso, expresará los agravios que le cause la resolución apelada, y los conceptos por los que, a su juicio, se hayan cometido.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 245.
 
-El tribunal de apelación, recibidos los autos o el testimonio, en su caso, lo hará saber a las partes.
+El Tribunal Colegiado de Apelación, recibidos los autos o el testimonio, en su caso, lo hará saber a las partes.
 
 ###### ARTICULO 246.
 
@@ -1792,11 +1802,11 @@ Si el recurrente o las demás partes no hicieren la indicación de que trata el 
 
 El testimonio se remitirá dentro del término de cinco días.
 
-> <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 263.
 
-En el auto a que se refiere el artículo 261, el juez emplazará al recurrente para que, dentro del término de tres días, que se ampliará, en su caso, con los que correspondan por razón de la distancia, se presente al tribunal de apelación, para continuar el recurso.
+En el auto a que se refiere el artículo 261, la jueza o el juez emplazará a la persona recurrente para que, dentro del término de tres días, que se ampliará, en su caso, con los que correspondan por razón de la distancia, se presente al Tribunal Colegiado de Apelación, para continuar el recurso.
 
 ###### ARTICULO 264.
 
@@ -1814,7 +1824,9 @@ Cuando se reciba el testimonio y de él aparezca que transcurrió ya el término
 
 Si se revoca la calificación del grado y se declara admisible la apelación en ambos efectos, se ordenará, al inferior, que remita los autos.
 
-Si se declara admisible la apelación en el efecto devolutivo, se le ordenará que envíe testimonio de las constancias que las partes designen y de las que el juez señale, si no se consideran bastantes las conteniidas (sic) en el remitido para la denegada apelación, si se tratare de apelación de auto, o que remita los autos, si se tratare de sentencia definitiva. En el primer caso, los términos para que designen constancias las partes se contarán a partir de la notificación del auto en que el inferior les haga saber que está en su poder la resolución del tribunal de apelación.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+Si se declara admisible la apelación en el efecto devolutivo, se le ordenará que envíe testimonio de las constancias que las partes designen y de las que la jueza o el juez señale, si no se consideran bastantes las contenidas en el remitido para la denegada apelación, si se tratare de apelación de auto, o que remita los autos, si se tratare de sentencia definitiva. En el primer caso, los términos para que designen constancias las partes se contarán a partir de la notificación del auto en que el inferior les haga saber que está en su poder la resolución del Tribunal Colegiado de Apelación.
 
 ###### ARTICULO 266.
 
@@ -1898,7 +1910,9 @@ Tratándose de procedimientos en los que una o ambas partes afirmen tener la cal
 
 El juez recibirá, por sí, todas las declaraciones, y presidirá todos los actos de prueba.
 
-En los tribunales colegiados, el instructor tiene todas las facultades y obligaciones del juez singular, hasta llegar al período de alegatos de la audiencia final del juicio. Los alegatos tendrán lugar ante el personal del tribunal colegiado, y el proyecto de sentencia lo formulará el instructor.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+En los Tribunales Colegiados de Apelación, la persona instructora tiene todas las facultades y obligaciones de la Jueza o del Juez, hasta llegar al período de alegatos de la audiencia final del juicio. Los alegatos tendrán lugar ante el personal del Tribunal Colegiado de Apelación, y el proyecto de sentencia lo formulará la persona instructora.
 
 Las reclamaciones de las partes por violaciones del procedimiento se reservarán para decidir sobre ellas al pronunciar la santencia (sic), y, si se estimase necesario, se ordenará que el instructor practique las diligencias indebidamente omitidas, o reponga el procedimiento en la parte o partes indispensables para que el reclamante no quede sin defensa, cumplido lo cual se repetirá la audiencia de alegatos y se pronunciará el fallo.
 
@@ -2440,11 +2454,11 @@ II.- Las que, admitiendo algún recurso, no fueren recurridas, o, habiéndolo si
 
 III.- Las consentidas expresamente por las partes, sus representantes legítimos o sus mandatarios con poder bastante.
 
-> <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 357.
 
-En los casos de las fracciones I y III del artículo anterior, las sentencias causan ejecutoria por ministerio de la ley; en los casos de la fracción II se requiere declaración judicial, la que será hecha a petición de parte. La declaración se hará por el tribunal de apelación, en la resolución que declare desierto el recurso. Si la sentencia no fuere recurrida, previa certificación de esta circunstancia por la Secretaría, la declaración la hará el tribunal que la haya pronunciado, y, en caso de desistimiento, será hecha por el tribunal ante el que se haya hecho valer.
+En los casos de las fracciones I y III del artículo anterior, las sentencias causan ejecutoria por ministerio de la ley; en los casos de la fracción II se requiere declaración judicial, la que será hecha a petición de parte. La declaración se hará por el Tribunal Colegiado de Apelación, en la resolución que declare desierto el recurso. Si la sentencia no fuere recurrida, previa certificación de esta circunstancia por la Secretaría, la declaración la hará el tribunal que la haya pronunciado, y, en caso de desistimiento, será hecha por el tribunal ante el que se haya hecho valer.
 
 La declaración de que una sentencia ha causado ejecutoria no admite ningún recurso.
 
@@ -4863,3 +4877,51 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LA LEY DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACIÓN; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA; DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; DE LA LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo siguiente:
+
+I. Las disposiciones relativas a los Tribunales Colegiados de Apelación en sustitución de los Tribunales Unitarios de Circuito, entrarán en vigor de manera gradual y escalonada en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
+II. Las disposiciones relativas a los plenos Regionales en sustitución de los plenos de Circuito, entrarán en vigor en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
+III. Entrarán en vigor en la fecha en la que el Poder Judicial de la Federación realice la declaratoria a que se refiere el artículo Séptimo Transitorio de este Decreto:
+
+a) El artículo segundo del presente Decreto;
+
+b) Las disposiciones relativas a la Escuela Federal de Formación Judicial, y
+
+c) Las nuevas categorías de la Carrera Judicial.
+
+IV. Las reformas a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, entrarán en vigor a los 18 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+V. La reforma al artículo 218 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, entrará en vigor a los 6 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Segundo. Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
+
+Tercero. El procedimiento de sustituciones por ausencia de las personas titulares de los órganos jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Quinto. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Séptimo. Dentro de los 18 meses siguientes a la publicación del presente Decreto, el Poder Judicial de la Federación deberá emitir y publicar, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, la declaratoria para el inicio de la observancia de las nuevas reglas de la Carrera Judicial contenidas en el presente Decreto.
+
+Octavo. Las y los actuales oficiales administrativos podrán acceder a la categoría de oficial judicial, previo cumplimiento de los requisitos y evaluación que para tal efecto implemente el Consejo de la Judicatura Federal, en los términos de las disposiciones que éste emita. En caso de que dichos oficiales administrativos no puedan acceder a la nueva categoría, conservarán su actual puesto y los derechos inherentes a este.
+
+Noveno. Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su formato.
+
+Décimo. Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente Decreto mantendrán su obligatoriedad, salvo que sean interrumpidas en los términos que se prevén en el artículo 228 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al momento de la interrupción.
+
+Décimo Primero. Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran emitido con anterioridad a la entrada en vigor del nuevo sistema de precedentes obligatorios, mantendrán ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del presente Decreto podrán constituir jurisprudencia por precedente.
+
+Décimo Segundo. Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 26 de mayo de 1995.
+
+(NOTA: EL 16 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2021 Y SU ACUMULADA 105/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO DÉCIMO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+DÉCIMO TERCERO. CON EL FIN DE IMPLEMENTAR LA REFORMA CONSTITUCIONAL AL PODER JUDICIAL DE LA FEDERACIÓN PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 11 DE MARZO DE 2021 Y LAS LEYES REGLAMENTARIAS A LAS QUE SE REFIERE EL PRESENTE DECRETO, LA PERSONA QUE A SU ENTRADA EN VIGOR OCUPE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL DURARÁ EN ESE ENCARGO HASTA EL 30 DE NOVIEMBRE DE 2024. ASIMISMO, EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2016 CONCLUIRÁ SU ENCARGO EL 30 DE NOVIEMBRE DE 2023; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 24 DE FEBRERO DE 2019 CONCLUIRÁ SUS FUNCIONES EL 23 DE FEBRERO DE 2026; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL EJECUTIVO FEDERAL EL 18 DE NOVIEMBRE DE 2019 CONCLUIRÁ EL 17 DE NOVIEMBRE DE 2026; LAS CONSEJERAS DE LA JUDICATURA FEDERAL DESIGNADAS POR EL SENADO DE LA REPÚBLICA EL 20 DE NOVIEMBRE DE 2019 CONCLUIRÁN SU ENCARGO EL 19 DE NOVIEMBRE DE 2026; Y EL CONSEJERO DE LA JUDICATURA FEDERAL DESIGNADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2019 DURARÁ EN FUNCIONES HASTA EL 30 DE NOVIEMBRE DE 2026.
