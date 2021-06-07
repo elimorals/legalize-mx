@@ -4,7 +4,7 @@ identifier: "LAMP"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-02"
-last_updated: "2021-05-20"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93440&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LAMP"
 ---
 # LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2021.
 
 > <small>[N. DE E. CONTIENE LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO PUBLICADO EL 14 DE JULIO DE 2014 “POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN”, PUBLICADA EN LA EDICIÓN VESPERTINA DEL DIARIO OFICIAL DE LA FEDERACIÓN EL 15 DE JUNIO DE 2018.]</small>
 
@@ -460,7 +462,9 @@ I. La Suprema Corte de Justicia de la Nación;
 
 II. Los tribunales colegiados de circuito;
 
-III. Los tribunales unitarios de circuito;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+III. Los tribunales colegiados de apelación;
 
 IV. Los juzgados de distrito; y
 
@@ -474,15 +478,19 @@ La competencia de los tribunales se fija de acuerdo con la residencia de la auto
 
 En materia agraria y en los juicios en contra de tribunales federales de lo contencioso administrativo, es competente el tribunal colegiado de circuito que tenga jurisdicción en donde el acto reclamado deba tener ejecución, trate de ejecutarse, se esté ejecutando o se haya ejecutado; si el acto reclamado puede tener ejecución en más de un circuito o ha comenzado a ejecutarse en uno de ellos y sigue ejecutándose en otro, es competente el tribunal colegiado de circuito que primero hubiere recibido la demanda; en su defecto, aquél que dicte acuerdo sobre la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 35.
 
-Los juzgados de distrito y los tribunales unitarios de circuito son competentes para conocer del juicio de amparo indirecto.
+Los juzgados de distrito y los tribunales colegiados de apelación son competentes para conocer del juicio de amparo indirecto.
 
 También lo serán las autoridades del orden común cuando actúen en auxilio de los órganos jurisdiccionales de amparo.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 36.
 
-Los tribunales unitarios de circuito sólo conocerán de los juicios de amparo indirecto promovidos contra actos de otros tribunales de la misma naturaleza. Será competente otro tribunal del mismo circuito, si lo hubiera, o el más próximo a la residencia de aquél que haya emitido el acto reclamado.
+Los tribunales colegiados de apelación sólo conocerán de los juicios de amparo indirecto promovidos contra actos de otros tribunales de la misma naturaleza. Será competente otro tribunal del mismo circuito, si lo hubiera, o el más próximo a la residencia de aquél que haya emitido el acto reclamado.
 
 ###### Artículo 37.
 
@@ -502,15 +510,15 @@ Cuando se trate de amparos contra actos de autoridades que actúen en auxilio de
 
 En este caso, conocerá otro del mismo distrito y especialización, en su caso, y si no lo hubiera, el más cercano dentro de la jurisdicción del circuito a que pertenezca.
 
-> <small>(REFORMADO PRIMER PÁRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 40.
 
-El pleno o las salas de la Suprema Corte de Justicia de la Nación podrán ejercer, de manera oficiosa o a solicitud del Fiscal General de la República la facultad de atracción para conocer de un amparo directo que corresponda resolver a los tribunales colegiados de circuito, cuando por su interés y trascendencia lo ameriten, de conformidad con el siguiente procedimiento:
+El Pleno o las Salas de la Suprema Corte de Justicia de la Nación podrán ejercer, de manera oficiosa o a solicitud de la persona titular de la Fiscalía General de la República la facultad de atracción para conocer de un amparo directo que corresponda resolver a los tribunales colegiados de circuito, cuando por su interés y trascendencia lo ameriten, de conformidad con el siguiente procedimiento:
 
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
 
-I. Planteado el caso por cualquiera de los ministros, o en su caso hecha la solicitud por el Fiscal General de la República, el pleno o la sala acordará si procede solicitar los autos al tribunal colegiado de circuito, en cuyo caso, previa suspensión del procedimiento, éste los remitirá dentro del plazo de tres días siguientes a la recepción de la solicitud;
+I. Planteado el caso por cualquiera de las ministras o los ministros, o en su caso hecha la solicitud de la persona titular de la Fiscalía General de la República, el pleno o la sala acordará si procede solicitar los autos al tribunal colegiado de circuito, en cuyo caso, previa suspensión del procedimiento, éste los remitirá dentro del plazo de tres días siguientes a la recepción de la solicitud;
 
 II. Recibidos los autos se turnará el asunto al ministro que corresponda, para que dentro del plazo de quince días formule dictamen a efecto de resolver si se ejerce o no dicha facultad; y
 
@@ -554,17 +562,21 @@ Cuando el tribunal colegiado de circuito que conozca de un juicio o recurso esti
 
 Si éste acepta la competencia, se avocará al conocimiento; en caso contrario, dentro de los tres días siguientes comunicará su resolución al órgano que declinó la competencia y remitirá los autos a la Suprema Corte de Justicia de la Nación para que dentro del plazo de ocho días resuelva lo que proceda.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 47.
 
-Cuando se presente una demanda de amparo ante un juez de distrito o ante un tribunal unitario de circuito, en la que se reclamen actos que estimen sean materia de amparo directo, declararán carecer de competencia y de inmediato remitirán la demanda y sus anexos al tribunal colegiado de circuito que corresponda.
+Cuando se presente una demanda de amparo ante una jueza o un juez de distrito o ante un tribunal colegiado de apelación, en la que se reclamen actos que estimen sean materia de amparo directo, declararán carecer de competencia y de inmediato remitirán la demanda y sus anexos al tribunal colegiado de circuito que corresponda.
 
-El presidente del tribunal decidirá, sin trámite alguno, si acepta o no la competencia. En el primer caso, mandará tramitar el expediente y señalará al quejoso un plazo de cinco días para la presentación de las copias, notificará a la autoridad responsable para que en su caso, provea respecto a la suspensión del acto reclamado y le otorgará un plazo de diez días para que rinda el informe correspondiente. En el caso que decida no aceptar la competencia, remitirá los autos al juzgado o tribunal que estime competente, sin perjuicio de las cuestiones de competencia que pudieran suscitarse entre jueces de distrito o tribunales unitarios de circuito.
+La presidenta o el presidente del tribunal decidirá, sin trámite alguno, si acepta o no la competencia. En el primer caso, mandará tramitar el expediente y señalará a la quejosa o al quejoso un plazo de cinco días para la presentación de las copias, notificará a la autoridad responsable para que, en su caso, provea respecto a la suspensión del acto reclamado y le otorgará un plazo de diez días para que rinda el informe correspondiente. En el caso que decida no aceptar la competencia, remitirá los autos al juzgado o tribunal que estime competente, sin perjuicio de las cuestiones de competencia que pudieran suscitarse entre juezas o jueces de distrito o tribunales colegiados de apelación.
 
-Si la competencia del tribunal colegiado de circuito aparece del informe justificado de la autoridad responsable, el juez de distrito o tribunal unitario de circuito se declarará incompetente conforme a este artículo, remitirá los autos al tribunal colegiado de circuito que estime competente para el efecto previsto en el párrafo anterior y lo comunicará a la autoridad responsable para que ésta en su caso, continúe lo relativo a la suspensión del acto reclamado conforme a lo establecido en esta Ley.
+Si la competencia del tribunal colegiado de circuito aparece del informe justificado de la autoridad responsable, la jueza o el juez de distrito o el tribunal colegiado de apelación se declarará incompetente conforme a este artículo, remitirá los autos al tribunal colegiado de circuito que estime competente para el efecto previsto en el párrafo anterior y lo comunicará a la autoridad responsable para que ésta, en su caso, continúe lo relativo a la suspensión del acto reclamado conforme a lo establecido en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 48.
 
-Cuando se presente una demanda de amparo ante juez de distrito o tribunal unitario de circuito y estimen carecer de competencia, la remitirán de plano, con sus anexos, al juez o tribunal competente, sin decidir sobre la admisión ni sobre la suspensión del acto reclamado, salvo que se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales.
+Cuando se presente una demanda de amparo ante jueza o juez de distrito o tribunal colegiado de apelación y estimen carecer de competencia, la remitirán de plano, con sus anexos, a la jueza, juez o tribunal competente, sin decidir sobre la admisión ni sobre la suspensión del acto reclamado, salvo que se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales.
 
 Recibida la demanda y sus anexos por el órgano requerido, éste decidirá de plano, dentro de las cuarenta y ocho horas siguientes, si acepta o no el conocimiento del asunto. Si acepta, comunicará su resolución al requirente, previa notificación de las partes. En caso contrario, devolverá la demanda al requirente, quien deberá resolver dentro de las cuarenta y ocho horas siguientes si insiste o no en declinar su competencia. Si no insiste, se limitará a comunicar su resolución al requerido y se dará por terminado el conflicto competencial. Si insiste en declinar su competencia y la cuestión se plantea entre órganos de la jurisdicción de un mismo tribunal colegiado de circuito, remitirá los autos al tribunal colegiado de circuito de su jurisdicción, el cual dará aviso al requerido para que exponga lo que estime pertinente.
 
@@ -574,21 +586,27 @@ Recibidos los autos y el oficio relativo, el tribunal colegiado de circuito tram
 
 Admitida la demanda de amparo indirecto ningún órgano jurisdiccional podrá declararse incompetente para conocer del juicio antes de resolver sobre la suspensión definitiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 49.
 
-Cuando el juez de distrito o el tribunal unitario de circuito ante el cual se hubiese promovido un juicio de amparo tenga información de que otro está conociendo de un juicio diverso promovido por el mismo quejoso, contra las mismas autoridades y por el mismo acto reclamado, aunque los conceptos de violación sean distintos, lo comunicará de inmediato por oficio a dicho órgano, y anexará la certificación del día y hora de presentación de la demanda, así como, en su caso, del auto dictado como primera actuación en el juicio.
+Cuando la jueza o el juez de distrito o el tribunal colegiado de apelación ante el cual se hubiese promovido un juicio de amparo tenga información de que otro está conociendo de un juicio diverso promovido por la misma quejosa o quejoso, contra las mismas autoridades y por el mismo acto reclamado, aunque los conceptos de violación sean distintos, lo comunicará de inmediato por oficio a dicho órgano, y anexará la certificación del día y hora de presentación de la demanda, así como, en su caso, del auto dictado como primera actuación en el juicio.
 
 Recibido el oficio, el órgano resolverá dentro de las veinticuatro horas siguientes si se trata del mismo asunto y si le corresponde su conocimiento, y comunicará lo anterior al oficiante. Si reconoce la competencia de éste, le remitirá los autos relativos.
 
 En caso de conflicto competencial, se estará a lo dispuesto en el artículo 48 de esta Ley.
 
-Cuando se resuelva que se trata de un mismo asunto, se continuará el juicio promovido ante el juez de distrito o tribunal unitario de circuito que haya resultado competente y se deberá sobreseer en el otro juicio.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+Cuando se resuelva que se trata de un mismo asunto, se continuará el juicio promovido ante la jueza o el juez de distrito o tribunal colegiado de apelación que haya resultado competente y se deberá sobreseer en el otro juicio.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 50.
 
-Cuando alguna de las partes estime que un juez de distrito o tribunal unitario de circuito está conociendo de un juicio de amparo que debe tramitarse como directo, podrá ocurrir ante el tribunal colegiado de circuito que estime competente y exhibir copia de la demanda y de las constancias conducentes.
+Cuando alguna de las partes estime que una jueza o un juez de distrito o tribunal colegiado de apelación está conociendo de un juicio de amparo que debe tramitarse como directo, podrá ocurrir ante el tribunal colegiado de circuito que estime competente y exhibir copia de la demanda y de las constancias conducentes.
 
-El presidente del tribunal colegiado pedirá informe al juez de distrito o tribunal unitario de circuito, que deberá rendirse en el plazo de veinticuatro horas, y resolverá dentro de las cuarenta y ocho horas siguientes.
+La presidenta o el presidente del tribunal colegiado pedirá informe a la jueza o juez de distrito o tribunal colegiado de apelación, que deberá rendirse en el plazo de veinticuatro horas, y resolverá dentro de las cuarenta y ocho horas siguientes.
 
 ### CAPÍTULO VI. Impedimentos, Excusas y Recusaciones
 
@@ -636,13 +654,25 @@ a) De uno de sus magistrados;
 
 b) De dos o más magistrados de otro tribunal colegiado de circuito;
 
-c) De los jueces de distrito, los titulares de los tribunales unitarios y demás autoridades que conozcan de los juicios de amparo, que se encuentren en su circuito.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+c) De las juezas o jueces de distrito, que se encuentren en su circuito.
+
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+IV. Los tribunales colegiados de apelación:
+
+a) De una de sus magistradas o magistrados;
+
+b) De dos o más magistradas o magistrados de otro tribunal colegiado de apelación.
 
 ###### Artículo 55.
 
 Los ministros de la Suprema Corte de Justicia de la Nación manifestarán estar impedidos ante el tribunal pleno o ante la sala que conozca del asunto de que se trate.
 
-Los magistrados de circuito y los jueces de distrito manifestarán su impedimento y lo comunicarán al tribunal colegiado de circuito que corresponda.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+Las magistradas o los magistrados de circuito y las juezas o los jueces de distrito manifestarán su impedimento y lo comunicarán al tribunal que corresponda.
 
 Las excusas se calificarán de plano.
 
@@ -652,19 +682,25 @@ Cuando uno de los ministros se manifieste impedido en asuntos del conocimiento d
 
 Cuando se manifiesten impedidos dos o más ministros de una de las salas, se calificarán las excusas por otra sala. Si las admiten, se pedirá al presidente de la Suprema Corte de Justicia de la Nación la designación de los ministros que se requieran para que la primera pueda funcionar válidamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 57.
 
-Cuando uno de los integrantes de un tribunal colegiado de circuito se excuse o sea recusado, los restantes resolverán lo conducente.
+Cuando uno de los integrantes de un tribunal colegiado de circuito o de un tribunal colegiado de apelación, se excuse o sea recusado, los restantes resolverán lo conducente.
 
-En caso de empate, la resolución corresponderá al tribunal colegiado de circuito siguiente en orden del mismo circuito y especialidad y, de no haberlos, al del circuito más cercano.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+En caso de empate, la resolución corresponderá al tribunal colegiado de circuito siguiente en orden del mismo circuito y especialidad y, de no haberlos, al del circuito más cercano. El mismo procedimiento se seguirá tratándose de empate en tribunales colegiados de apelación.
 
 Cuando la excusa o recusación se refiera a más de un magistrado, la resolución se hará en términos del párrafo anterior.
 
 Si sólo es fundada la excusa o recusación de uno de los magistrados, el asunto se devolverá al tribunal de origen para que resuelva. Si fueren dos o más los magistrados que resulten impedidos, el propio tribunal que así lo decidió resolverá el asunto principal.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 58.
 
-Cuando se declare impedido a un juez de distrito o magistrado de tribunal unitario de circuito, conocerá del asunto otro del mismo distrito o circuito, según corresponda y, en su caso, especialización; en su defecto, conocerá el más próximo perteneciente al mismo circuito.
+Cuando se declare impedida a una jueza o un juez de distrito, conocerá del asunto otra u otro adscrito, al mismo circuito, según corresponda y, en su caso, especialización; en su defecto, conocerá el más próximo perteneciente al mismo circuito.
 
 ###### Artículo 59.
 
@@ -922,7 +958,9 @@ El órgano jurisdiccional de amparo podrá especificar qué medidas adicionales 
 
 La autoridad que conozca del juicio de amparo deberá suplir la deficiencia de los conceptos de violación o agravios, en los casos siguientes:
 
-I. En cualquier materia, cuando el acto reclamado se funde en normas generales que han sido consideradas inconstitucionales por la jurisprudencia de la Suprema Corte de Justicia de la Nación y de los Plenos de Circuito. La jurisprudencia de los Plenos de Circuito sólo obligará a suplir la deficiencia de los conceptos de violación o agravios a los juzgados y tribunales del circuito correspondientes;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+I. En cualquier materia, cuando el acto reclamado se funde en normas generales que han sido declaradas inconstitucionales por la jurisprudencia de la Suprema Corte de Justicia de la Nación y de los plenos regionales. La jurisprudencia de los plenos regionales sólo obligará a suplir la deficiencia de los conceptos de violación o agravios a los juzgados y tribunales de la región correspondientes;
 
 II. En favor de los menores o incapaces, o en aquellos casos en que se afecte el orden y desarrollo de la familia;
 
@@ -962,6 +1000,12 @@ Los medios de impugnación, así como los escritos y promociones que se realicen
 
 Para el caso de que los recursos se presenten de manera electrónica, se podrá acceder al expediente de esa misma forma.
 
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+###### Artículo 80 Bis.
+
+La Suprema Corte de Justicia de la Nación de oficio o a petición fundada del tribunal colegiado que conozca del asunto, de la persona titular de la Fiscalía General de la República, del Ministerio Público de la Federación que sea parte, o de la persona titular del Poder Ejecutivo Federal, por conducto de la o del titular de la Consejería Jurídica del Ejecutivo Federal, podrá atraer cualquiera de los recursos a los que se refiere esta Ley cuando su interés y trascendencia lo ameriten.
+
 #### Sección Primera. Recurso de Revisión
 
 ###### Artículo 81.
@@ -980,9 +1024,11 @@ d) Las que declaren el sobreseimiento fuera de la audiencia constitucional; y
 
 e) Las sentencias dictadas en la audiencia constitucional; en su caso, deberán impugnarse los acuerdos pronunciados en la propia audiencia.
 
-II. En amparo directo, en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales que establezcan la interpretación directa de un precepto de la Constitución Política de los Estados Unidos Mexicanos o de los derechos humanos establecidos en los tratados internacionales de los que el Estado Mexicano sea parte, u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que fijen un criterio de importancia y trascendencia, según lo disponga la Suprema Corte de Justicia de la Nación, en cumplimiento de acuerdos generales del pleno.
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
 
-La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales, sin poder comprender otras.
+II. En amparo directo, en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales que establezcan la interpretación directa de un precepto de la Constitución Política de los Estados Unidos Mexicanos u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que a juicio de la Suprema Corte de Justicia de la Nación el asunto revista un interés excepcional en materia constitucional o de derechos humanos. La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales sin poder comprender otras.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 82.
 
@@ -1000,9 +1046,7 @@ Son competentes los tribunales colegiados de circuito para conocer del recurso d
 
 ###### Artículo 85.
 
-Cuando la Suprema Corte de Justicia de la Nación estime que un amparo en revisión, por sus características especiales deba ser de su conocimiento, lo atraerá oficiosamente conforme al procedimiento establecido en el artículo 40 de esta Ley.
-
-El tribunal colegiado del conocimiento podrá solicitar a la Suprema Corte de Justicia de la Nación que ejercite la facultad de atracción, para lo cual expresará las razones en que funde su petición y remitirá los autos originales a ésta, quien dentro de los treinta días siguientes al recibo de los autos originales, resolverá si ejercita la facultad de atracción, procediendo en consecuencia en los términos del párrafo anterior.
+(DEROGADO, D.O.F. 7 DE JUNIO DE 2021)
 
 ###### Artículo 86.
 
@@ -1037,6 +1081,10 @@ Tratándose de resoluciones relativas a la suspensión definitiva, el expediente
 ###### Artículo 91.
 
 El presidente del órgano jurisdiccional, según corresponda, dentro de los tres siguientes días a su recepción calificará la procedencia del recurso y lo admitirá o desechará.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+Cuando se trate del recurso de revisión en amparo directo no procederá ningún medio de impugnación en contra del auto que deseche el recurso.
 
 ###### Artículo 92.
 
@@ -1142,9 +1190,11 @@ La falta o deficiencia de los informes establece la presunción de ser ciertos l
 
 Recibidas las constancias, se dictará resolución dentro de los cuarenta días siguientes, o dentro de las cuarenta y ocho horas en los casos del artículo 97, fracción I, inciso b) de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 102.
 
-En los casos de resoluciones dictadas durante la tramitación del amparo indirecto que por su naturaleza trascendental y grave puedan causar un perjuicio no reparable a alguna de las partes, con la interposición de la queja el juez de distrito o tribunal unitario de circuito está facultado para suspender el procedimiento, hecha excepción del incidente de suspensión, siempre que a su juicio estime que la resolución que se dicte en ella pueda influir en la sentencia, o cuando de resolverse en lo principal, se hagan nugatorios los derechos que pudiera hacer valer el recurrente en el acto de la audiencia.
+En los casos de resoluciones dictadas durante la tramitación del amparo indirecto que por su naturaleza trascendental y grave puedan causar un perjuicio no reparable a alguna de las partes, con la interposición de la queja la jueza o el juez de distrito o tribunal colegiado de apelación está facultado para suspender el procedimiento, hecha la excepción del incidente de suspensión, siempre que a su juicio estime que la resolución que se dicte en ella pueda influir en la sentencia, o cuando de resolverse en lo principal, se hagan nugatorios los derechos que pudiera hacer valer el recurrente en el acto de la audiencia.
 
 ###### Artículo 103.
 
@@ -1157,6 +1207,10 @@ En caso de resultar fundado el recurso se dictará la resolución que correspond
 El recurso de reclamación es procedente contra los acuerdos de trámite dictados por el presidente de la Suprema Corte de Justicia de la Nación o por los presidentes de sus salas o de los tribunales colegiados de circuito.
 
 Dicho recurso se podrá interponer por cualquiera de las partes, por escrito, en el que se expresan agravios, dentro del término de tres días siguientes al en que surta sus efectos la notificación de la resolución impugnada.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+En contra del acuerdo que deseche el recurso de revisión en amparo directo no procede medio de impugnación alguno.
 
 ###### Artículo 105.
 
@@ -1340,9 +1394,11 @@ No procederá que la autoridad responsable al rendir el informe pretenda variar 
 
 Tratándose de actos materialmente administrativos, cuando en la demanda se aduzca la falta o insuficiencia de fundamentación y motivación, en su informe justificado la autoridad deberá complementar en esos aspectos el acto reclamado. En esos casos, deberá correrse traslado con el informe al quejoso, para que en el plazo de quince días realice la ampliación de la demanda, la que se limitará a cuestiones derivadas de la referida complementación. Con la ampliación se dará vista a las responsables así como al tercero interesado y, en su caso, se emplazará a las diversas autoridades que en ampliación se señalen. Para tales efectos deberá diferirse la audiencia constitucional.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 118.
 
-En los casos en que el quejoso impugne la aplicación por parte de la autoridad responsable de normas generales consideradas inconstitucionales por la jurisprudencia decretada por la Suprema Corte de Justicia de la Nación o por los Plenos de Circuito, el informe con justificación se reducirá a tres días improrrogables, y la celebración de la audiencia se señalará dentro de diez días contados desde el siguiente al de la admisión de la demanda.
+En los casos en que la quejosa o el quejoso impugne la aplicación por parte de la autoridad responsable de normas generales consideradas inconstitucionales por la jurisprudencia decretada por la Suprema Corte de Justicia de la Nación o por los plenos regionales, el informe con justificación se reducirá a tres días improrrogables, y la celebración de la audiencia se señalará dentro de diez días contados desde el siguiente al de la admisión de la demanda.
 
 ###### Artículo 119.
 
@@ -2046,9 +2102,11 @@ Cuando se trate de juicios del orden penal, la autoridad responsable con la sola
 
 ### CAPÍTULO I. Cumplimiento e Inejecución
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 192.
 
-Las ejecutorias de amparo deben ser puntualmente cumplidas. Al efecto, cuando cause ejecutoria la sentencia en que se haya concedido el amparo, o se reciba testimonio de la dictada en revisión, el juez de distrito o el tribunal unitario de circuito, si se trata de amparo indirecto, o el tribunal colegiado de circuito, tratándose de amparo directo, la notificarán sin demora a las partes.
+Las ejecutorias de amparo deben ser puntualmente cumplidas. Al efecto, cuando cause ejecutoria la sentencia en que se haya concedido el amparo, o se reciba testimonio de la dictada en revisión, la jueza o el juez de distrito o el tribunal colegiado de apelación, si se trata de amparo indirecto, o el tribunal colegiado de circuito, tratándose de amparo directo, la notificarán sin demora a las partes.
 
 En la notificación que se haga a la autoridad responsable se le requerirá para que cumpla con la ejecutoria dentro del plazo de tres días, apercibida que de no hacerlo así sin causa justificada, se impondrá a su titular una multa que se determinará desde luego y que, asimismo, se remitirá el expediente al tribunal colegiado de circuito o a la Suprema Corte de Justicia de la Nación, según el caso, para seguir el trámite de inejecución, que puede culminar con la separación de su puesto y su consignación.
 
@@ -2066,7 +2124,9 @@ En cambio, si la autoridad demuestra que la ejecutoria está en vías de cumplim
 
 En el supuesto de que sea necesario precisar, definir o concretar la forma o términos del cumplimiento de la ejecutoria, cualquiera de los órganos judiciales competentes podrá ordenar, de oficio o a petición de parte, que se abra un incidente para tal efecto.
 
-Al remitir los autos al tribunal colegiado de circuito, el juez de distrito o el tribunal unitario de circuito formará un expedientillo con las copias certificadas necesarias para seguir procurando el cumplimiento de la ejecutoria.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+Al remitir los autos al tribunal colegiado de circuito, la jueza o el juez de distrito o el tribunal colegiado de apelación, formará un expedientillo con las copias certificadas necesarias para seguir procurando el cumplimiento de la ejecutoria.
 
 El tribunal colegiado de circuito notificará a las partes la radicación de los autos, revisará el trámite del a quo y dictará la resolución que corresponda; si reitera que hay incumplimiento remitirá los autos a la Suprema Corte de Justicia de la Nación con un proyecto de separación del cargo del titular de la autoridad responsable y, en su caso, del de su superior jerárquico, lo cual será notificado a éstos.
 
@@ -2150,9 +2210,11 @@ La persona extraña a juicio que resulte afectada por el cumplimiento o ejecuci�
 
 Cuando el amparo se haya otorgado en contra de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, la inconformidad podrá ser interpuesta en cualquier tiempo.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 203.
 
-El órgano jurisdiccional, sin decidir sobre la admisión del recurso de inconformidad, remitirá el original del escrito, así como los autos del juicio a la Suprema Corte de Justicia de la Nación, la cual resolverá allegándose los elementos que estime convenientes.
+El órgano jurisdiccional, sin decidir sobre la admisión del recurso de inconformidad, remitirá el original del escrito, así como los autos del juicio al tribunal colegiado de circuito, el cual resolverá allegándose de los elementos que estime convenientes.
 
 ### CAPÍTULO IV. Incidente de Cumplimiento Sustituto
 
@@ -2160,19 +2222,29 @@ El órgano jurisdiccional, sin decidir sobre la admisión del recurso de inconfo
 
 El incidente de cumplimiento sustituto tendrá por efecto que la ejecutoria se dé por cumplida mediante el pago de los daños y perjuicios al quejoso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 205.
 
-El cumplimiento sustituto podrá ser solicitado por cualquiera de las partes o decretado de oficio por la Suprema Corte de Justicia de la Nación, en los casos en que:
+El cumplimiento sustituto podrá ser solicitado por cualquiera de las partes o decretado de oficio por el órgano jurisdiccional que hubiera emitido la sentencia de amparo, en los casos en que:
 
 I. La ejecución de la sentencia afecte gravemente a la sociedad en mayor proporción a los beneficios que pudiera obtener el quejoso; o
 
 II. Por las circunstancias materiales del caso, sea imposible o desproporcionadamente gravoso restituir las cosas a la situación que guardaban con anterioridad al juicio.
 
-La solicitud podrá presentarse, según corresponda, ante la Suprema Corte de Justicia de la Nación o por conducto del órgano jurisdiccional a partir del momento en que cause ejecutoria la sentencia.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+La solicitud podrá presentarse ante el órgano jurisdiccional que hubiera emitido la sentencia de amparo a partir del momento que ésta cause ejecutoria.
 
 El cumplimiento sustituto se tramitará incidentalmente en los términos de los artículos 66 y 67 de esta Ley.
 
-Declarado procedente, el órgano jurisdiccional de amparo determinará la forma y cuantía de la restitución.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+En el incidente, el órgano jurisdiccional que hubiera emitido la sentencia determinará si ha lugar o no al cumplimiento sustituto. En caso de resultar favorecida la petición, se abrirá un nuevo incidente para cuantificar el pago de daños y perjuicios.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+Tanto la determinación sobre la procedencia del cumplimiento sustituto como la que cuantifique los daños y perjuicios serán recurribles mediante el recurso de queja previsto en el artículo 97, fracción I, inciso h) de esta Ley, del cual conocerán los tribunales colegiados de circuito.
 
 Independientemente de lo establecido en los párrafos anteriores, el quejoso y la autoridad responsable pueden celebrar convenio a través del cual se tenga por cumplida la ejecutoria. Del convenio se dará aviso al órgano judicial de amparo; éste, una vez que se le compruebe que los términos del convenio fueron cumplidos, mandará archivar el expediente.
 
@@ -2184,9 +2256,11 @@ El incidente a que se refiere este Capítulo procede en contra de las autoridade
 
 Este incidente podrá promoverse en cualquier tiempo, mientras no cause ejecutoria la resolución que se dicte en el juicio de amparo.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 207.
 
-El incidente se promoverá ante el juez de distrito o el tribunal unitario de circuito, si se trata de la suspensión concedida en amparo indirecto, y ante el presidente del tribunal colegiado de circuito si la suspensión fue concedida en amparo directo.
+El incidente se promoverá ante la jueza o el juez de distrito o el tribunal colegiado de apelación, si se trata de la suspensión concedida en amparo indirecto, y ante la presidenta o el presidente del tribunal colegiado de circuito si la suspensión fue concedida en amparo directo.
 
 ###### Artículo 208.
 
@@ -2248,159 +2322,221 @@ No podrá archivarse ningún juicio de amparo sin que se haya cumplido la senten
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 215.
 
-La jurisprudencia se establece por reiteración de criterios, por contradicción de tesis y por sustitución.
+La jurisprudencia se establece por precedentes obligatorios, por reiteración y por contradicción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 216.
 
-La jurisprudencia por reiteración se establece por la Suprema Corte de Justicia de la Nación, funcionando en pleno o en salas, o por los tribunales colegiados de circuito.
+La jurisprudencia por precedentes obligatorios se establece por la Suprema Corte de Justicia de la Nación, funcionando en Pleno o en Salas.
 
-La jurisprudencia por contradicción se establece por el pleno o las salas de la Suprema Corte de Justicia de la Nación y por los Plenos de Circuito.
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+La jurisprudencia por reiteración se establece por los tribunales colegiados de circuito.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+La jurisprudencia por contradicción se establece por el Pleno o las Salas de la Suprema Corte de Justicia de la Nación y por los plenos regionales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 217.
 
-La jurisprudencia que establezca la Suprema Corte de Justicia de la Nación, funcionando en pleno o en salas, es obligatoria para éstas tratándose de la que decrete el pleno, y además para los Plenos de Circuito, los tribunales colegiados y unitarios de circuito, los juzgados de distrito, tribunales militares y judiciales del orden común de los Estados y del Distrito Federal, y tribunales administrativos y del trabajo, locales o federales.
+La jurisprudencia que establezca la Suprema Corte de Justicia de la Nación será obligatoria para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas, con excepción de la propia Suprema Corte.
 
-La jurisprudencia que establezcan los Plenos de Circuito es obligatoria para los tribunales colegiados y unitarios de circuito, los juzgados de distrito, tribunales militares y judiciales del orden común de las entidades federativas y tribunales administrativos y del trabajo, locales o federales que se ubiquen dentro del circuito correspondiente.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
-La jurisprudencia que establezcan los tribunales colegiados de circuito es obligatoria para los órganos mencionados en el párrafo anterior, con excepción de los Plenos de Circuito y de los demás tribunales colegiados de circuito.
+La jurisprudencia del Pleno de la Suprema Corte de Justicia de la Nación será obligatoria para sus Salas, pero no lo será la de ellas para el Pleno. Ninguna sala estará obligada a seguir la jurisprudencia de la otra.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+La jurisprudencia que establezcan los plenos regionales es obligatoria para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas de su región, salvo para la Suprema Corte de Justicia de la Nación y los plenos regionales.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+La jurisprudencia que establezcan los tribunales colegiados de circuito es obligatoria para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas de su circuito, con excepción de la Suprema Corte de Justicia de la Nación, los plenos regionales y los tribunales colegiados de circuito.
 
 La jurisprudencia en ningún caso tendrá efecto retroactivo en perjuicio de persona alguna.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 218.
 
-Cuando la Suprema Corte de Justicia de la Nación, los Plenos de Circuito o los tribunales colegiados de circuito establezcan un criterio relevante, se elaborará la tesis respectiva, la cual deberá contener:
+Cuando la Suprema Corte de Justicia de la Nación, los plenos regionales o los tribunales colegiados de circuito establezcan un criterio relevante, se elaborará la tesis respectiva en la que se recojan las razones de la decisión, esto es, los hechos relevantes, el criterio jurídico que resuelve el problema abordado en la sentencia y una síntesis de la justificación expuesta por el tribunal para adoptar ese criterio.
 
-I. El título que identifique el tema que se trata;
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O.F. 7 DE JUNIO DE 2021)</small>
 
-II. El subtítulo que señale sintéticamente el criterio que se sustenta;
+De esta manera la tesis deberá contener los siguientes apartados:
 
-III. Las consideraciones interpretativas mediante las cuales el órgano jurisdiccional haya establecido el criterio;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
 
-IV. Cuando el criterio se refiera a la interpretación de una norma, la identificación de ésta; y
+I. Rubro: mediante el cual se identificará el tema abordado en la tesis;
 
-V. Los datos de identificación del asunto, el número de tesis, el órgano jurisdiccional que la dictó y las votaciones emitidas al aprobar el asunto y, en su caso, en relación con el criterio sustentado en la tesis.
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
 
-Además de los elementos señalados en las fracciones I, II, III y IV de este artículo, la jurisprudencia emitida por contradicción o sustitución deberá contener, según sea el caso, los datos de identificación de las tesis que contiendan en la contradicción o de la tesis que resulte sustituida, el órgano que las emitió, así como la votación emitida durante las sesiones en que tales contradicciones o sustituciones se resuelvan.
+II. Narración de los hechos: en este apartado se describirán de manera muy breve los hechos relevantes que dieron lugar al criterio adoptado por el tribunal para resolver el caso;
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+III. Criterio jurídico: en el que se reflejará la respuesta jurídica adoptada para resolver el problema jurídico que se le planteaba al órgano jurisdiccional;
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+IV. Justificación: se expondrán de manera sucinta los argumentos expuestos por el órgano jurisdiccional en la sentencia para sostener el criterio jurídico adoptado en la resolución, y
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+V. Datos de identificación del asunto: comprenderán el número de tesis, el órgano jurisdiccional que la dictó y las votaciones emitidas al aprobar el asunto y, en su caso, en relación con el criterio sustentado en la tesis.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+Además de los elementos señalados en las fracciones anteriores, la jurisprudencia emitida por contradicción de criterios deberá contener, según sea el caso, los datos de identificación de las tesis que contiendan en la contradicción, el órgano que las emitió, así como la votación emitida durante las sesiones en que tales contradicciones se resuelvan.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+Las cuestiones de hecho y de derecho que no sean necesarias para justificar la decisión, en ningún caso deberán incluirse en la tesis.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 219.
 
-El pleno o las salas de la Suprema Corte de Justicia de la Nación, los Plenos de Circuito o los tribunales colegiados de circuito deberán remitir las tesis en el plazo de quince días a la dependencia de la Suprema Corte de Justicia de la Nación encargada del Semanario Judicial de la Federación, para su publicación.
+El pleno o las salas de la Suprema Corte de Justicia de la Nación, los plenos regionales y los tribunales colegiados de circuito deberán remitir las tesis a la dependencia de la Suprema Corte de Justicia de la Nación encargada del Semanario Judicial de la Federación, para su publicación.
 
 ###### Artículo 220.
 
 En el Semanario Judicial de la Federación se publicarán las tesis que se reciban y se distribuirá en forma eficiente para facilitar su conocimiento.
 
-Igualmente se publicarán las resoluciones necesarias para constituir, interrumpir o sustituir la jurisprudencia y los votos particulares. También se publicarán las resoluciones que los órganos jurisdiccionales competentes estimen pertinentes.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+Igualmente se publicarán las resoluciones necesarias para constituir o interrumpir la jurisprudencia y los votos particulares. También se publicarán las resoluciones que los órganos jurisdiccionales competentes estimen pertinentes.
 
 ###### Artículo 221.
 
-Cuando las partes invoquen tesis de jurisprudencia o precedentes expresarán los datos de identificación y publicación. De no haber sido publicadas, bastará que se acompañen copias certificadas de las resoluciones correspondientes.
+(DEROGADO, D.O.F. 7 DE JUNIO DE 2021)
 
-### CAPÍTULO II. Jurisprudencia por Reiteración de Criterios
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+### CAPÍTULO II. Jurisprudencia por Precedentes Obligatorios
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 222.
 
-La jurisprudencia por reiteración del pleno de la Suprema Corte de Justicia de la Nación se establece cuando se sustente un mismo criterio en cinco sentencias no interrumpidas por otra en contrario, resueltas en diferentes sesiones, por una mayoría de cuando menos ocho votos.
+Las razones que justifiquen las decisiones contenidas en las sentencias que dicte el Pleno de la Suprema Corte de Justicia de la Nación, constituyen precedentes obligatorios para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas cuando sean tomadas por mayoría de ocho votos. Las cuestiones de hecho o de derecho que no sean necesarias para justificar la decisión no serán obligatorias.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 223.
 
-La jurisprudencia por reiteración de las salas de la Suprema Corte de Justicia de la Nación se establece cuando se sustente un mismo criterio en cinco sentencias no interrumpidas por otra en contrario, resueltas en diferentes sesiones, por una mayoría de cuando menos cuatro votos.
+Las razones que justifiquen las decisiones contenidas en las sentencias que dicten las salas de la Suprema Corte de Justicia de la Nación, constituyen precedentes obligatorios para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas cuando sean tomadas por mayoría de cuatro votos. Las cuestiones de hecho o de derecho que no sean necesarias para justificar la decisión no serán obligatorias.
 
-### CAPÍTULO III. Jurisprudencia por Contradicción de Tesis
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+### CAPÍTULO III. Jurisprudencia por Reiteración
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 224.
 
-Para el establecimiento de la jurisprudencia de los tribunales colegiados de circuito deberán observarse los requisitos señalados en este Capítulo, salvo el de la votación, que deberá ser unánime.
+La jurisprudencia por reiteración se establece por los tribunales colegiados de circuito cuando sustenten, por unanimidad, un mismo criterio en cinco sentencias no interrumpidas por otra en contrario. Las cuestiones de hecho o de derecho que no sean necesarias para justificar la decisión no serán obligatorias.
 
-### CAPÍTULO IV. Interrupción de la Jurisprudencia
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+### CAPÍTULO IV. Jurisprudencia por Contradicción de Criterios
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 225.
 
-La jurisprudencia por contradicción se establece al dilucidar los criterios discrepantes sostenidos entre las salas de la Suprema Corte de Justicia de la Nación, entre los Plenos de Circuito o entre los tribunales colegiados de circuito, en los asuntos de su competencia.
+La jurisprudencia por contradicción se establece al dilucidar los criterios discrepantes sostenidos entre las salas de la Suprema Corte de Justicia de la Nación, entre los plenos regionales o entre los tribunales colegiados de circuito, en los asuntos de su competencia.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 226.
 
-Las contradicciones de tesis serán resueltas por:
+Las contradicciones de criterios serán resueltas por:
 
-I. El pleno de la Suprema Corte de Justicia de la Nación cuando deban dilucidarse las tesis contradictorias sostenidas entre sus salas;
+I. El pleno de la Suprema Corte de Justicia de la Nación cuando deban dilucidarse los criterios contradictorios sostenidos entre sus salas;
 
-II. El pleno o las salas de la Suprema Corte de Justicia de la Nación, según la materia, cuando deban dilucidarse las tesis contradictorias sostenidas entre los Plenos de Circuito de distintos Circuitos, entre los Plenos de Circuito en materia especializada de un mismo Circuito, o sus tribunales de diversa especialidad, así como entre los tribunales colegiados de diferente circuito; y
+II. El pleno o las salas de la Suprema Corte de Justicia de la Nación cuando deban dilucidarse los criterios contradictorios sostenidos entre plenos regionales o entre tribunales colegiados de circuito pertenecientes a distintas regiones, y
 
-III. Los Plenos de Circuito cuando deban dilucidarse las tesis contradictorias sostenidas entre los tribunales colegiados del circuito correspondiente.
+III. Los plenos regionales cuando deban dilucidarse criterios contradictorios entre los tribunales colegiados de circuito de la región correspondiente.
 
-Al resolverse una contradicción de tesis, el órgano correspondiente podrá acoger uno de los criterios discrepantes, sustentar uno diverso, declararla inexistente, o sin materia. En todo caso, la decisión se determinará por la mayoría de los magistrados que los integran.
+Al resolverse una contradicción de criterios, el órgano correspondiente podrá acoger uno de los criterios discrepantes, sustentar uno diverso, declararla inexistente o sin materia. En todo caso, la decisión se determinará por mayoría.
 
-La resolución que decida la contradicción de tesis no afectará las situaciones jurídicas concretas de los juicios en los cuales se hayan dictado las sentencias que sustentaron las tesis contradictorias.
+La resolución que decida la contradicción de criterios, no afectará las situaciones jurídicas concretas de los juicios en los cuales se hayan dictado las sentencias que sustentaron los criterios contendientes.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 227.
 
-La legitimación para denunciar las contradicciones de tesis se ajustará a las siguientes reglas:
+La legitimación para denunciar las contradicciones de criterios se ajustará a las siguientes reglas:
 
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+I. Las contradicciones a que se refiere la fracción I del artículo anterior podrán ser denunciadas ante el pleno de la Suprema Corte de Justicia de la Nación por las ministras o los ministros, los plenos regionales, los tribunales colegiados de circuito y sus integrantes, las magistradas o los magistrados de los tribunales colegiados de apelación, las juezas o los jueces de distrito, el o la Fiscal General de la República, o las partes en los asuntos que las motivaron;
 
-I. Las contradicciones a que se refiere la fracción I del artículo anterior podrán ser denunciadas ante el Pleno de la Suprema Corte de Justicia de la Nación por los Ministros, los Plenos de Circuito, los Tribunales Colegiados de Circuito y sus integrantes, los Magistrados de los Tribunales Unitarios de Circuito, los Jueces de Distrito, el Fiscal General de la República, o las partes en los asuntos que las motivaron.
+II. Las contradicciones a que se refiere la fracción II del artículo anterior podrán ser denunciadas ante la Suprema Corte de Justicia de la Nación por las ministras o los ministros, los plenos regionales, o los tribunales colegiados de circuito y sus integrantes, que hayan sustentado criterios discrepantes, la o el Fiscal General de la República, las magistradas o los magistrados del tribunal colegiado de apelación, las juezas o los jueces de distrito, o las partes en los asuntos que las motivaron, y
 
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+III. Las contradicciones a que se refiere la fracción III del artículo anterior, podrán ser denunciadas ante los plenos regionales por la o el Fiscal General de la República, los mencionados tribunales y sus integrantes, las magistradas o los magistrados de tribunal colegiado de apelación, las juezas o los jueces de distrito o las partes en los asuntos que las motivaron.
 
-II. Las contradicciones a que se refiere la fracción II del artículo anterior podrán ser denunciadas ante la Suprema Corte de Justicia de la Nación por los Ministros, los Plenos de Circuito o los Tribunales Colegiados de Circuito y sus integrantes, que hayan sustentado las tesis discrepantes, el Fiscal General de la República, los Magistrados de Tribunal Unitario de Circuito, los Jueces de Distrito, o las partes en los asuntos que las motivaron.
+### CAPÍTULO V. Interrupción de la Jurisprudencia
 
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
-
-III. Las contradicciones a que se refiere la fracción III del artículo anterior, podrán ser denunciadas ante los Plenos de circuito por el Fiscal General de la República, los mencionados Tribunales y sus integrantes, los Magistrados de Tribunal Unitario de Circuito, los Jueces de Distrito o las partes en los asuntos que las motivaron.
-
-### CAPÍTULO V. Jurisprudencia por sustitución
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 228.
 
-La jurisprudencia se interrumpe y deja de tener carácter obligatorio cuando se pronuncie sentencia en contrario. En estos casos, en la ejecutoria respectiva deberán expresarse las razones en que se apoye la interrupción, las que se referirán a las consideraciones que se tuvieron para establecer la jurisprudencia relativa.
+Los tribunales no estarán obligados a seguir sus propias jurisprudencias. Sin embargo, para que puedan apartarse de ellas deberán proporcionar argumentos suficientes que justifiquen el cambio de criterio. En ese caso, se interrumpirá la jurisprudencia y dejará de tener carácter obligatorio.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+Los tribunales de que se trata estarán vinculados por sus propias jurisprudencias en los términos antes descritos, incluso cuando éstos se hayan emitido con una integración distinta.
 
 ###### Artículo 229.
 
 Interrumpida la jurisprudencia, para integrar la nueva se observarán las mismas reglas establecidas para su formación.
 
-### CAPÍTULO VI. Declaratoria General de Inconstitucionalidad
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+### CAPÍTULO V (SIC). Jurisprudencia por sustitución
 
 ###### Artículo 230.
 
-La jurisprudencia que por reiteración o contradicción establezcan el pleno o las salas de la Suprema Corte de Justicia de la Nación, así como los Plenos de Circuito, podrá ser sustituida conforme a las siguientes reglas:
+(DEROGADO, D.O.F. 7 DE JUNIO DE 2021)
 
-I. Cualquier tribunal colegiado de circuito, previa petición de alguno de sus magistrados, con motivo de un caso concreto una vez resuelto, podrán solicitar al Pleno de Circuito al que pertenezcan que sustituya la jurisprudencia que por contradicción haya establecido, para lo cual expresarán las razones por las cuales se estima debe hacerse.
+### CAPÍTULO VI. Declaratoria General de Inconstitucionalidad
 
-Para que los Plenos de Circuito sustituyan la jurisprudencia se requerirá de las dos terceras partes de los magistrados que lo integran.
-
-II. Cualquiera de los Plenos de Circuito, previa petición de alguno de los magistrados de los tribunales colegiados de su circuito y con motivo de un caso concreto una vez resuelto, podrán solicitar al pleno de la Suprema Corte de Justicia de la Nación, o a la sala correspondiente, que sustituya la jurisprudencia que hayan establecido, para lo cual expresarán las razones por las cuales se estima debe hacerse. La solicitud que, en su caso, enviarían los Plenos de Circuito al pleno de la Suprema Corte de Justicia de la Nación, o a la sala correspondiente, debe ser aprobada por la mayoría de sus integrantes.
-
-III. Cualquiera de las salas de la Suprema Corte de Justicia de la Nación, previa petición de alguno de los ministros que las integran, y sólo con motivo de un caso concreto una vez resuelto, podrán solicitar al pleno de la Suprema Corte de Justicia de la Nación que sustituya la jurisprudencia que haya establecido, para lo cual expresarán las razones por las cuales se estima debe hacerse. La solicitud que, en su caso, enviaría la sala correspondiente al pleno de la Suprema Corte de Justicia de la Nación, deberá ser aprobada por la mayoría de sus integrantes.
-
-Para que la Suprema Corte de Justicia de la Nación sustituya la jurisprudencia en términos de las fracciones II y III del presente artículo, se requerirá mayoría de cuando menos ocho votos en pleno y cuatro en sala.
-
-Cuando se resuelva sustituir la jurisprudencia, dicha resolución no afectará las situaciones jurídicas concretas derivadas de los juicios en los que se hayan dictado las sentencias que la integraron, ni la que se resolvió en el caso concreto que haya motivado la solicitud. Esta resolución se publicará y distribuirá en los términos establecidos en esta Ley.
-
-### CAPÍTULO I. Medidas Disciplinarias y de Apremio
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 231.
 
-Cuando las salas o el pleno de la Suprema Corte de Justicia de la Nación, en los juicios de amparo indirecto en revisión, resuelvan la inconstitucionalidad de una norma general por segunda ocasión consecutiva, en una o en distintas sesiones, el presidente de la sala respectiva o de la Suprema Corte de Justicia de la Nación lo informará a la autoridad emisora de la norma.
+Cuando las salas o el pleno de la Suprema Corte de Justicia de la Nación, en los juicios de amparo indirecto en revisión, resuelvan la inconstitucionalidad de una norma general, el presidente o la presidenta de la sala respectiva o de la Suprema Corte de Justicia de la Nación deberá informarlo a la autoridad emisora de la norma en un plazo de quince días.
 
 Lo dispuesto en el presente Capítulo no será aplicable a normas en materia tributaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 232.
 
-Cuando el pleno o las salas de la Suprema Corte de Justicia de la Nación, en los juicios de amparo indirecto en revisión, establezcan jurisprudencia por reiteración, en la cual se determine la inconstitucionalidad de la misma norma general, se procederá a la notificación a que se refiere el tercer párrafo de la fracción II del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos.
+Cuando el pleno o las salas de la Suprema Corte de Justicia de la Nación, en los juicios de amparo indirecto en revisión, establezcan jurisprudencia en la que determinen la inconstitucionalidad de una norma general, se procederá a la notificación a que se refiere el tercer párrafo de la fracción II del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Una vez que se hubiere notificado al órgano emisor de la norma y transcurrido el plazo de 90 días naturales sin que se modifique o derogue la norma declarada inconstitucional, el pleno de la Suprema Corte de Justicia de la Nación emitirá la declaratoria general de inconstitucionalidad correspondiente siempre que hubiera sido aprobada por mayoría de cuando menos ocho votos.
 
 Cuando el órgano emisor de la norma sea el órgano legislativo federal o local, el plazo referido en el párrafo anterior se computará dentro de los días útiles de los periodos ordinarios de sesiones determinados en la Constitución Federal, en el Estatuto de Gobierno del Distrito Federal, o en la Constitución Local, según corresponda.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 233.
 
-Los plenos de circuito, conforme a los acuerdos generales que emita la Suprema Corte de Justicia de la Nación, podrán solicitar a ésta, por mayoría de sus integrantes, que inicie el procedimiento de declaratoria general de inconstitucionalidad cuando dentro de su circuito se haya emitido jurisprudencia derivada de amparos indirectos en revisión en la que se declare la inconstitucionalidad de una norma general.
+Los plenos regionales, conforme a los acuerdos generales que emita la Suprema Corte de Justicia de la Nación, podrán solicitar a ésta, por mayoría de sus integrantes, que inicie el procedimiento de declaratoria general de inconstitucionalidad cuando dentro de su región se haya emitido jurisprudencia derivada de amparos indirectos en revisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 234.
 
-La declaratoria en ningún caso podrá modificar el sentido de la jurisprudencia que le da origen, será obligatoria, tendrá efectos generales y establecerá:
+La declaratoria en ningún caso podrá modificar el sentido de la resolución o jurisprudencia que le dio origen, será obligatoria, tendrá efectos generales y establecerá:
 
 I. La fecha a partir de la cual surtirá sus efectos; y
 
@@ -2414,7 +2550,7 @@ La declaratoria general de inconstitucionalidad se remitirá al Diario Oficial d
 
 ## TÍTULO QUINTO. Medidas Disciplinarias y de Apremio, Responsabilidades, Sanciones y Delitos
 
-### CAPÍTULO II. Responsabilidades y Sanciones
+### CAPÍTULO I. Medidas Disciplinarias y de Apremio
 
 ###### Artículo 236.
 
@@ -2438,7 +2574,7 @@ II. Auxilio de la fuerza pública que deberán prestar las autoridades policiaca
 
 III. Ordenar que se ponga al infractor a disposición del Ministerio Público por la probable comisión de delito en el supuesto de flagrancia; en caso contrario, levantar el acta respectiva y hacer la denuncia ante la representación social federal. Cuando la autoridad infractora sea el Ministerio Público de la Federación, la infracción se hará del conocimiento del Fiscal General de la República.
 
-### CAPÍTULO III. Delitos
+### CAPÍTULO II. Responsabilidades y Sanciones
 
 ###### Artículo 238.
 
@@ -2482,13 +2618,17 @@ En el caso del artículo 28, fracción II de esta Ley, si el encargado de la ofi
 
 En los casos de los artículos 32 y 68 de esta Ley, al servidor público que de mala fe practique una notificación que sea declarada nula se le impondrá multa de treinta a trescientos días.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### Artículo 248.
 
-Se impondrá multa de cincuenta a quinientos días a quien para dar competencia a un juez de distrito o tribunal unitario de circuito, de mala fe designe como autoridad ejecutora a quien no lo sea, siempre que no se reclamen actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales.
+Se impondrá multa de setenta a setecientas veces el valor diario de la Unidad de Medida y Actualización a quien para dar competencia a una jueza o un juez de distrito o magistradas o magistrados del tribunal colegiado de apelación, de mala fe designe como autoridad ejecutora a quien no lo sea, siempre que no se reclamen actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 249.
 
-En los casos a que se refiere el artículo 49 de esta Ley, si el juez de distrito o tribunal unitario de circuito no encontraren motivo fundado para la promoción de dos o más juicios de amparo contra el mismo acto reclamado, impondrá al o los infractores multa de cincuenta a quinientos días, salvo que se trate de los casos mencionados en el artículo 15 de esta Ley.
+En los casos a que se refiere el artículo 49 de esta Ley, si la jueza o el juez de distrito o tribunal colegiado de apelación, no encontraren motivo fundado para la promoción de dos o más juicios de amparo contra el mismo acto reclamado, impondrá al o los infractores multa de cincuenta a quinientos días, salvo que se trate de los casos mencionados en el artículo 15 de esta Ley.
 
 ###### Artículo 250.
 
@@ -2545,6 +2685,8 @@ IV. No trámite (sic) la demanda de amparo o no remita con la oportunidad debida
 Tratándose de amparo contra normas generales, las autoridades que hayan intervenido en el refrendo del decreto promulgatorio de la norma o en su publicación, únicamente rendirán el informe justificado cuando adviertan que su intervención en el proceso legislativo o de creación de la norma general, se impugne por vicios propios.
 
 La falta del informe justificado de las autoridades legislativas, además de lo señalado en el párrafo anterior, no dará lugar a sanción alguna. En la inteligencia que ello no impide al órgano jurisdiccional examinar los referidos actos, si advierte un motivo de inconstitucionalidad.
+
+### CAPÍTULO III. Delitos
 
 ###### Artículo 261.
 
@@ -3017,3 +3159,51 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LA LEY DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACIÓN; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA; DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; DE LA LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo siguiente:
+
+I. Las disposiciones relativas a los Tribunales Colegiados de Apelación en sustitución de los Tribunales Unitarios de Circuito, entrarán en vigor de manera gradual y escalonada en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
+II. Las disposiciones relativas a los plenos Regionales en sustitución de los plenos de Circuito, entrarán en vigor en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
+III. Entrarán en vigor en la fecha en la que el Poder Judicial de la Federación realice la declaratoria a que se refiere el artículo Séptimo Transitorio de este Decreto:
+
+a) El artículo segundo del presente Decreto;
+
+b) Las disposiciones relativas a la Escuela Federal de Formación Judicial, y
+
+c) Las nuevas categorías de la Carrera Judicial.
+
+IV. Las reformas a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, entrarán en vigor a los 18 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+V. La reforma al artículo 218 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, entrará en vigor a los 6 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Segundo. Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
+
+Tercero. El procedimiento de sustituciones por ausencia de las personas titulares de los órganos jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Quinto. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Séptimo. Dentro de los 18 meses siguientes a la publicación del presente Decreto, el Poder Judicial de la Federación deberá emitir y publicar, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, la declaratoria para el inicio de la observancia de las nuevas reglas de la Carrera Judicial contenidas en el presente Decreto.
+
+Octavo. Las y los actuales oficiales administrativos podrán acceder a la categoría de oficial judicial, previo cumplimiento de los requisitos y evaluación que para tal efecto implemente el Consejo de la Judicatura Federal, en los términos de las disposiciones que éste emita. En caso de que dichos oficiales administrativos no puedan acceder a la nueva categoría, conservarán su actual puesto y los derechos inherentes a este.
+
+Noveno. Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su formato.
+
+Décimo. Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente Decreto mantendrán su obligatoriedad, salvo que sean interrumpidas en los términos que se prevén en el artículo 228 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al momento de la interrupción.
+
+Décimo Primero. Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran emitido con anterioridad a la entrada en vigor del nuevo sistema de precedentes obligatorios, mantendrán ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del presente Decreto podrán constituir jurisprudencia por precedente.
+
+Décimo Segundo. Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 26 de mayo de 1995.
+
+(NOTA: EL 16 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2021 Y SU ACUMULADA 105/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO DÉCIMO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+DÉCIMO TERCERO. CON EL FIN DE IMPLEMENTAR LA REFORMA CONSTITUCIONAL AL PODER JUDICIAL DE LA FEDERACIÓN PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 11 DE MARZO DE 2021 Y LAS LEYES REGLAMENTARIAS A LAS QUE SE REFIERE EL PRESENTE DECRETO, LA PERSONA QUE A SU ENTRADA EN VIGOR OCUPE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL DURARÁ EN ESE ENCARGO HASTA EL 30 DE NOVIEMBRE DE 2024. ASIMISMO, EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2016 CONCLUIRÁ SU ENCARGO EL 30 DE NOVIEMBRE DE 2023; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 24 DE FEBRERO DE 2019 CONCLUIRÁ SUS FUNCIONES EL 23 DE FEBRERO DE 2026; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL EJECUTIVO FEDERAL EL 18 DE NOVIEMBRE DE 2019 CONCLUIRÁ EL 17 DE NOVIEMBRE DE 2026; LAS CONSEJERAS DE LA JUDICATURA FEDERAL DESIGNADAS POR EL SENADO DE LA REPÚBLICA EL 20 DE NOVIEMBRE DE 2019 CONCLUIRÁN SU ENCARGO EL 19 DE NOVIEMBRE DE 2026; Y EL CONSEJERO DE LA JUDICATURA FEDERAL DESIGNADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2019 DURARÁ EN FUNCIONES HASTA EL 30 DE NOVIEMBRE DE 2026.
