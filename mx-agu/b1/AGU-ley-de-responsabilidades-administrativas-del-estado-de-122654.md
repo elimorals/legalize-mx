@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-administrativas-del-estado-de-122654"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-01"
-last_updated: "2021-04-19"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 1 de agosto de 2017.
 
@@ -231,17 +231,9 @@ III. Presentar denuncias por hechos que las leyes señalen como presuntamente co
 
 Tratándose de actos u omisiones que hayan sido calificados como faltas administrativas no graves, además de las facultades señaladas en el párrafo anterior, la Secretaría y los órganos internos de control de los entes públicos serán competentes para resolver los procedimientos de responsabilidad administrativa derivados de la comisión de dichas faltas, y en su caso imponer sanciones en los términos previstos en esta Ley.
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 9°.
 
-En caso de que el Órgano Superior detecte posibles faltas administrativas en el manejo de recursos públicos derivados de la revisión de la cuenta pública, dará cuenta de ello a la Secretaría o a los órganos internos de control de los entes públicos, según corresponda, para que realicen la investigación respectiva y califiquen la probable comisión de una falta administrativa.
-
-En el caso de faltas administrativas no graves, la Secretaría y los órganos internos de control de los entes públicos, deberán, además de lo establecido en el párrafo anterior, substanciar y resolver los procedimientos de responsabilidad administrativa derivados de la comisión de dichas faltas.
-
-Tratándose de faltas administrativas graves, una vez realizada la investigación y calificada la falta, la Secretaría o los órganos internos de control de los entes públicos, procederán a remitir el informe de presunta responsabilidad administrativa junto con los autos del expediente, al Órgano Superior para su substanciación, de tal forma que una vez concluida esta etapa, se procederá en los términos de lo establecido por el Artículo 193 de la presente Ley.
-
-En los casos en que, derivado de las investigaciones, acontezca la presunta comisión de hechos presuntamente constitutivos de delitos, presentará las denuncias correspondientes ante el Ministerio Público competente.
+(DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
 ###### Artículo 10.
 
@@ -327,39 +319,11 @@ La Secretaría y los órganos internos de control de los entes públicos, según
 
 #### SECCIÓN SEGUNDA. Los Sujetos Obligados a Presentar Declaración Patrimonial y de Intereses
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 21.
 
-Estarán obligados a presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad y ante la Secretaría o su respectivo órgano interno de control, todos los servidores públicos que a continuación se mencionan:
-
-I. En el Poder Legislativo: los Diputados, el Auditor Superior del Órgano Superior de Fiscalización del Estado de Aguascalientes, el Secretario General, los Directores Generales, el titular de la Contraloría Interna y los Jefes de Departamento o su equivalente;
-
-II. En el Poder Ejecutivo: desde el nivel de Jefes de Departamento o equivalente hasta el Titular del Poder Ejecutivo del Estado;
-
-III. En el Poder Judicial: desde el nivel de Jefes de Departamento o equivalente, de Actuario hasta los Magistrados del Supremo Tribunal de Justicia;
-
-IV. En los Órganos Constitucionales Autónomos: desde el nivel de Jefes de Departamento o equivalente hasta el Titular del órgano; y
-
-V. En los Municipios: desde el nivel de Jefes de Departamento o equivalente hasta los integrantes del Ayuntamiento.
-
-Esta misma obligación la tendrán los servidores públicos que tengan a su cargo, una o más de las funciones siguientes:
-
-a) Procuración y administración de justicia y reeducación social;
-
-b) Representación legal titular delegada para realizar actos de dominio, de administración general o de ejercicio presupuestal;
-
-c) Administración de fondos y recursos federales, estatales o municipales;
-
-d) Custodia de bienes y valores;
-
-e) Resolución de trámites directos con el público para efectuar pagos de cualquier índole para obtener licencias, permisos, concesiones o cualquier otra clase de autorización;
-
-f) Adquisición o comercialización de bienes y servicios; y
-
-g) Auditores y Supervisores.
-
-Asimismo, deberán presentar declaración de situación patrimonial los demás servidores públicos que determine la Secretaría y los órganos internos de control de los entes públicos, mediante disposiciones generales debidamente fundadas y motivadas, debiendo además presentar su declaración fiscal anual, en los términos que disponga la legislación de la materia.
+Estarán obligados a presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad y ante la Secretaría o su respectivo órgano interno de control, todos los servidores públicos, en los términos previstos en la presente ley, debiendo además presentar su declaración fiscal anual, en los términos que disponga la legislación de la materia.
 
 #### SECCIÓN TERCERA. Los Plazos y Mecanismos de Registro al Sistema de Evolución Patrimonial, de Declaración de Intereses y Constancia de Presentación de Declaración Fiscal
 
@@ -491,77 +455,39 @@ IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrenda
 
 Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales;
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+X. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-X. CUMPLIR CON LA MÁXIMA DILIGENCIA EL SERVICIO QUE LE SEA ENCOMENDADO Y ABSTENERSE DE CUALQUIER ACTO U OMISIÓN QUE CAUSE LA SUSPENSIÓN O DEFICIENCIA DE DICHO SERVICIO, O IMPLIQUE ABUSO O EJERCICIO INDEBIDO DE UN EMPLEO, CARGO O COMISIÓN;
+XI. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XII. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-XI. FORMULAR Y EJECUTAR LOS PLANES, PROGRAMAS Y PRESUPUESTOS CORRESPONDIENTES A SU COMPETENCIA, Y CUMPLIR CON LAS LEYES Y OTRAS NORMAS QUE DETERMINEN EL MANEJO DE RECURSOS PÚBLICOS;
+XIII. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XIV. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-XII. UTILIZAR EXCLUSIVAMENTE PARA LOS FINES A QUE ESTÉN AFECTOS, LOS RECURSOS QUE TENGAN ASIGNADOS PARA EL DESEMPEÑO DE SU EMPLEO, CARGO O COMISIÓN, LAS FACULTADES QUE LE SEAN ATRIBUIDAS, O LA INFORMACIÓN CONFIDENCIAL QUE OBTENGAN CON MOTIVO DE SUS FUNCIONES;
+XV. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XVI. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-XIII. ABSTENERSE DE EJERCER LAS FUNCIONES DE SU EMPLEO, CARGO O COMISIÓN DESPUÉS DE CONCLUIDO EL PERÍODO PARA EL CUAL SE LE ASIGNÓ O DESPUÉS DE HABER CESADO, POR CUALQUIER OTRA CAUSA, EN EL EJERCICIO DE SUS FUNCIONES, DEBIENDO EN TODO CASO ENTREGAR A QUIEN SU SUPERIOR JERÁRQUICO DESIGNE O A QUIEN LEGALMENTE DEBA SUSTITUIRLO, TODOS LOS RECURSOS QUE HAYA TENIDO A SU DISPOSICIÓN, ASÍ COMO LOS DOCUMENTOS Y ASUNTOS RELACIONADOS CON SUS FUNCIONES EN UN TÉRMINO NO MAYOR DE CINCO DÍAS HÁBILES, CONTADOS A PARTIR DE LA FECHA DE SU SEPARACIÓN, DEBIENDO LEVANTARSE ACTA ADMINISTRATIVA CIRCUNSTANCIADA ANTE EL ÓRGANO DE CONTROL QUE CORRESPONDA;
+XVII. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XVIII. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-XIV. ABSTENERSE DE OCUPAR MÁS DE UNA PLAZA PRESUPUESTAL O DESEMPEÑAR ALGÚN OTRO EMPLEO, CARGO O COMISIÓN PÚBLICOS POR EL QUE SE DISFRUTE DE SUELDO O QUE LA LEY LE PROHÍBA, CON EXCEPCIÓN DEL RAMO DE LA INSTRUCCIÓN;
+XIX. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XX. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-XV. ABSTENERSE DE AUTORIZAR A SUS SUBORDINADOS A NO ASISTIR SIN CAUSA JUSTIFICADA A SUS LABORES POR MÁS DE TRES DÍAS CONTINUOS O QUINCE DISCONTINUOS EN UN AÑO, ASÍ COMO DE OTORGAR INDEBIDAMENTE LICENCIAS, PERMISOS O COMISIONES CON GOCE PARCIAL O TOTAL DE SUELDO Y OTRAS PERCEPCIONES, CUANDO NO ESTÉN JUSTIFICADAS;
+XXI. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XXII. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-XVI. ABSTENERSE DE CUALQUIER ACTO U OMISIÓN QUE IMPLIQUE INCUMPLIMIENTO DE ALGUNA DISPOSICIÓN JURÍDICA RELACIONADA CON EL SERVICIO PÚBLICO;
+XXIII. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XXIV. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-XVII. ABSTENERSE DE TENER COLABORADORES EN EL DESEMPEÑO DE SU EMPLEO, CARGO O COMISIÓN, QUE NO SEAN SERVIDORES PÚBLICOS, SALVO AQUELLOS QUE COLABOREN CON MOTIVO DE PROGRAMAS DE SERVICIO SOCIAL O PRÁCTICAS PROFESIONALES;
+XXV. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-XVIII. VELAR POR LA EXPEDITA ADMINISTRACIÓN PÚBLICA, EVITANDO EN TODO CASO PROCEDIMIENTOS INNECESARIOS;
-
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-XIX. PROPORCIONAR, EN SU CASO, EN TIEMPO Y FORMA ANTE LAS DEPENDENCIAS COMPETENTES, LA DOCUMENTACIÓN COMPROBATORIA DE LA APLICACIÓN DE RECURSOS ECONÓMICOS FEDERALES, ESTATALES O MUNICIPALES, ASIGNADOS A TRAVÉS DE LOS PLANES Y PROGRAMAS RESPECTIVOS;
-
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-XX. PROPORCIONAR EL APOYO, ASISTENCIA Y ATENCIÓN QUE REQUIERA EL ÓRGANO DE CONTROL INTERNO DE LA DEPENDENCIA, ORGANISMO AUXILIAR, FIDEICOMISO O MUNICIPIO, A EFECTO DE QUE PUEDA CUMPLIR CON LAS ATRIBUCIONES QUE LE SEÑALEN LAS LEYES, REGLAMENTOS Y DEMÁS DISPOSICIONES APLICABLES;
-
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-XXI. ABSTENERSE DE TRAMITAR O INTERVENIR COMO ABOGADO, REPRESENTANTE, APODERADO O EN CUALQUIER OTRA FORMA SEMEJANTE, EN LA ATENCIÓN DE ASUNTOS DE LOS QUE HAYA TENIDO CONOCIMIENTO, TRAMITADO O QUE SE ENCUENTREN EN EL ÁREA EN LA CUAL SE DESEMPEÑÓ COMO SERVIDOR PÚBLICO. ESTA PREVENCIÓN ES APLICABLE HASTA UN AÑO DESPUÉS DE QUE EL SERVIDOR PÚBLICO SE HAYA RETIRADO DEL EMPLEO, CARGO O COMISIÓN;
-
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-XXII. ABSTENERSE DE REALIZAR CUALQUIER ACTO QUE IMPLIQUE DISTINCIÓN, EXCLUSIÓN O RESTRICCIÓN QUE, BASADA EN EL ORIGEN ÉTNICO O NACIONALIDAD, GÉNERO, EDAD, DISCAPACIDAD, CONDICIÓN SOCIAL O ECONÓMICA, CONDICIONES DE SALUD, EMBARAZO, LENGUA, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, ESTADO CIVIL O CUALQUIER OTRA QUE TENGA POR EFECTO IMPEDIR O ANULAR EL RECONOCIMIENTO O EL EJERCICIO DE LOS DERECHOS Y LA IGUALDAD REAL DE OPORTUNIDADES DE LAS PERSONAS;
-
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
-
-XXIII. ABSTENERSE DE PROPORCIONAR APOYO O PRESTAR ALGÚN SERVICIÓ A LOS PARTIDOS POLÍTICOS O A SUS CANDIDATOS, POR SÍ O A TRAVÉS DE SUS SUBORDINADOS, USANDO DEL TIEMPO CORRESPONDIENTE A SUS LABORES, DE MANERA ILEGAL;
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
-
-XXIV. Permitir al personal de la Comisión de Derechos Humanos del Estado de Aguascalientes, una vez identificado, el acceso inmediato, directo y sin impedimento alguno a las instalaciones a su cargo;
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
-
-XXV. Fundar y motivar adecuadamente su determinación de no aceptar o cumplir una recomendación de la Comisión de Derechos Humanos del Estado de Aguascalientes; y
-
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
-
-XXVI. LAS DEMÁS QUE LES IMPONGAN LAS LEYES Y DISPOSICIONES REGLAMENTARIAS O ADMINISTRATIVAS.
+XXVI. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
 ###### Artículo 37.
 
@@ -579,11 +505,11 @@ La autoridad resolutora podrá abstenerse de imponer la sanción que corresponda
 
 Las conductas previstas en el presente Capítulo constituyen faltas administrativas graves de los servidores públicos, por lo que deberán abstenerse de realizarlas, mediante cualquier acto u omisión.
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 39.
 
-Incurrirá en cohecho el servidor público que exija, acepte, obtenga o pretenda obtener, por sí o a través de terceros, con motivo de sus funciones, cualquier beneficio no comprendido en su remuneración como servidor público, que podría consistir en dinero; valores; bienes muebles o inmuebles, incluso mediante enajenación en precio notoriamente inferior al que se tenga en el mercado; donaciones; servicios; empleos y demás beneficios indebidos para sí o para su cónyuge, CONCUBINA O CONCUBINARIO, parientes consanguíneos o civiles HASTA EL CUARTO GRADO, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
+Incurrirá en cohecho el servidor público que exija, acepte, obtenga o pretenda obtener, por sí o a través de terceros, con motivo de sus funciones, cualquier beneficio no comprendido en su remuneración como servidor público, que podría consistir en dinero; valores; bienes muebles o inmuebles, incluso mediante enajenación en precio notoriamente inferior al que se tenga en el mercado; donaciones; servicios; empleos y demás beneficios indebidos para sí o para su cónyuge, parientes consanguíneos o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
 
 ###### Artículo 40.
 
@@ -783,9 +709,9 @@ IV. Inhabilitación temporal para desempeñar empleos, cargos, comisiones o func
 
 V. Inhabilitación definitiva para desempeñar empleos, cargos, comisiones o funciones en el servicio público, si la falta es reiterada.
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
-A juicio de la Sala, podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre y cuando sean compatibles entre ellas y de acuerdo a la gravedad de la falta administrativa grave. LA INHABILITACIÓN Y LA DESTITUCIÓN PODRÁN IMPONERSE CONJUNTAMENTE CON LA SANCIÓN ECONÓMICA.
+A juicio de la Sala, podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre y cuando sean compatibles entre ellas y de acuerdo a la gravedad de la falta administrativa grave.
 
 La suspensión del empleo, cargo, comisión o función que se imponga podrá ser de treinta a noventa días naturales.
 
@@ -917,9 +843,9 @@ Cuando el servidor público o los particulares presuntamente responsables de est
 
 La persona que haya realizado alguna de las faltas administrativas graves o faltas de particulares, o bien, se encuentre participando en su realización, podrá confesar su responsabilidad con el objeto de acogerse al beneficio de reducción de sanciones que se establece en el Artículo siguiente.
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
-Esta confesión se podrá hacer ante la autoridad investigadora O SUBSTANCIADORA, la cual procederá inmediatamente a turnar el expediente a la autoridad resolutora a fin de que ésta imponga las sanciones correspondientes.
+Esta confesión se podrá hacer ante la autoridad investigadora, la cual procederá inmediatamente a turnar el expediente a la autoridad resolutora a fin de que ésta imponga las sanciones correspondientes.
 
 ###### Artículo 75.
 
@@ -941,9 +867,7 @@ El Comité Coordinador podrá recomendar mecanismos de coordinación efectiva a 
 
 Si el presunto infractor confiesa su responsabilidad sobre los actos que se le imputan una vez iniciado el procedimiento de responsabilidad administrativa a que se refiere esta Ley, le aplicará una reducción de hasta treinta por ciento del monto de la sanción aplicable y, en su caso, una reducción de hasta el treinta por ciento del tiempo de inhabilitación que corresponda.
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-EN EL CASO DE CAUSACIÓN DE DAÑOS Y PERJUICIOS A LA HACIENDA PÚBLICA O AL PATRIMONIO DE LOS ENTES PÚBLICOS, EL MONTO DE LA SANCIÓN DEBERÁ SER SUFICIENTE PARA INDEMNIZARLOS O RESARCIRLOS. EN TODO CASO DEBERÁ RESTITUIRSE CUALQUIER BIEN O PRODUCTO QUE SE HUBIESE PERCIBIDO POR MOTIVO DE LA INFRACCIÓN.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 7 DE JUNIO DE 2021)</small>
 
 # LIBRO SEGUNDO. DISPOSICIONES ADJETIVAS
 
@@ -1009,11 +933,9 @@ II. Solicitar el auxilio de la fuerza pública, los que deberán de atender de i
 
 III. Arresto hasta por treinta y seis horas.
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 84.
 
-En caso de que el Órgano Superior tenga conocimiento de la presunta comisión de faltas administrativas relativas al uso, manejo y aplicación de recursos públicos derivados de la revisión de la cuenta pública, dará vista a la Secretaría o a los órganos internos de control de los entes públicos que correspondan, a efecto de que procedan a realizar la investigación y calificación correspondiente.
+(DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
 ###### Artículo 85.
 
@@ -1151,11 +1073,11 @@ Tratándose de personas morales estas deberán comparecer en todo momento a trav
 
 En lo que no se oponga a lo dispuesto en el procedimiento de responsabilidad administrativa, será de aplicación supletoria lo dispuesto en la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### Artículo 105.
 
-En los procedimientos de responsabilidad administrativa se estimarán como días hábiles todos los del año, con excepción de sábados y domingos, y aquellos días que, por virtud de ley, algún decreto o disposición administrativa, se determine como inhábil, durante los que no se practicará actuación alguna. SERÁN HORAS HÁBILES LAS QUE MEDIEN ENTRE LAS 8:00 Y LAS 18:00 HORAS. Las autoridades substanciadora o resolutora podrán habilitar días y horas inhábiles para la práctica de aquellas diligencias que, a su juicio, lo requieran.
+En los procedimientos de responsabilidad administrativa se estimarán como días hábiles todos los del año, con excepción de sábados y domingos, y aquellos días que, por virtud de ley, algún decreto o disposición administrativa, se determine como inhábil, durante los que no se practicará actuación alguna. Serán horas hábiles las que medien entre las 9:00 y las 18:00 horas. Las autoridades substanciadora o resolutora podrán habilitar días y horas inhábiles para la práctica de aquellas diligencias que, a su juicio, lo requieran.
 
 #### SECCIÓN SEGUNDA. Las Medidas de Apremio
 
@@ -2169,11 +2091,11 @@ Recibida por el Congreso del Estado la notificación de la declaratoria de la C�
 
 T R A N S I T O R I O S
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ARTÍCULO TRANSITORIO PRIMERO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO PRIMERO.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, NO OBSTANTE SE DARÁ UN PLAZO DE 180 DÍAS NATURALES PARA QUE SE HAGAN LAS ADECUACIONES NECESARIAS AL PRESUPUESTO Y DEMÁS NORMATIVIDAD NECESARIA PARA LA IMPLEMENTACIÓN DE LA PRESENTE LEY.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -2189,17 +2111,13 @@ Una vez que entre en vigor la Ley de Responsabilidades Administrativas del Estad
 
 Los procedimientos administrativos iniciados por las autoridades locales con anterioridad a la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, serán concluidos conforme a la normatividad vigente a su inicio.
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO QUINTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### ARTÍCULO QUINTO.
 
-UNA VEZ VIGENTE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES Y HASTA EN TANTO EL COMITÉ COORDINADOR DEL SISTEMA ESTATAL ANTICORRUPCIÓN DETERMINE LOS FORMATOS PARA LA PRESENTACIÓN DE LAS DECLARACIONES PATRIMONIAL Y DE INTERESES, LOS SERVIDORES PÚBLICOS PRESENTARÁN SUS DECLARACIONES EN LOS FORMATOS QUE A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO SE VIENEN EMPLEANDO.
-
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO SEXTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
 ###### ARTÍCULO SEXTO.
 
-LA SECRETARÍA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS Y LOS ÓRGANOS DE CONTROL INTERNO DE LOS ENTES PÚBLICOS, DEBERÁN REALIZAR, DENTRO DEL PLAZO DE 180 DÍAS NATURALES, CONTADOS A PARTIR DE LA PUBLICACIÓN DEL PRESENTE DECRETO, LAS MODIFICACIONES NECESARIAS A SU ESTRUCTURA ORGÁNICA, A FIN DE QUE PUEDAN REALIZAR LAS FUNCIONES CORRESPONDIENTES A LAS AUTORIDADES INVESTIGADORAS Y SUBSTANCIADORAS, GARANTIZANDO LA INDEPENDENCIA ENTRE AMBAS EN EL EJERCICIO DE SUS FUNCIONES.
+(DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -2280,3 +2198,9 @@ P.O. 19 DE ABRIL DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 560.- SE REFORMAN LOS ARTÍCULOS 21; 39; 64, PÁRRAFO SEGUNDO; 74, PÁRRAFO SEGUNDO; Y 105; Y SE DEROGAN LOS ARTÍCULOS 9°; 36 FRACCIONES X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV Y XXVI; 75 PÁRRAFO SEXTO; Y 84; TODOS DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
