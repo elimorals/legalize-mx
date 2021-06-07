@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "2021-04-23"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -1426,25 +1426,61 @@ Cuando se pida la ejecución de un laudo, el Tribunal despachará auto de ejecuc
 
 ### CAPITULO I
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 152.
 
-Los conflictos entre el Poder Judicial de la Federación y sus servidores, serán resueltos en única instancia por el pleno de la Suprema Corte de Justicia de la Nación.
+Los conflictos entre el Poder Judicial de la Federación y sus servidoras o servidores, serán resueltos por una Comisión de Conflictos Laborales del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+Dichas resoluciones podrán ser impugnadas mediante el correspondiente recurso de revocación que se presente ante el Pleno de la Suprema Corte de Justicia de la Nación por lo que respecta a sus trabajadoras o trabajadores o ante el Pleno del Consejo de la Judicatura Federal tratándose de sus empleadas o empleados. La resolución de este recurso será definitiva e inatacable.
+
+(REFORMADO, D.O.F. 7 DE JUNIO DE 2021.
 
 ###### ARTICULO 153.
 
-Para los efectos del artículo anterior, se constituye con carácter permanente, una comisión encargada de substanciar los expedientes y de emitir un dictamen, el que pasará al Pleno de la Suprema Corte de Justicia de la Nación para su resolución.
+Las cuestiones relativas a la substanciación de los asuntos a que hace referencia el presente Capítulo, incluido el recurso de revocación, se regulará a través de los acuerdos generales que para tal efecto emita el Pleno de la Suprema Corte de Justicia de la Nación o del Consejo de la Judicatura Federal, según corresponda.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 154.
 
-La Comisión substanciadora se integarará (sic) con un representante de la Suprema Corte de Justicia de la Nación, nombrado por el Pleno, otro que nombrará el Sindicato de Trabajadores del Poder Judicial de la Federación, y un tercero, ajeno a uno y otro, designado de común acuerdo por los mismos. Las resoluciones de la comisión se dictarán por mayoría de votos.
+La Comisión de Conflictos Laborales del Poder Judicial de la Federación se integrará de la siguiente forma:
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 7 DE JUNIO DE 2021)</small>
+
+I. Tratándose de conflictos laborales de servidoras o servidores de la Suprema Corte de Justicia de la Nación, por las o los siguientes representantes:
+
+a) Una o uno de la Suprema Corte de Justicia de la Nación, nombrado por el Pleno de ésta, quien la presidirá;
+
+b) Una o uno nombrado por el Sindicato de Trabajadores del Poder Judicial de la Federación, y
+
+c) Una o un tercero ajeno a los mencionados en los incisos anteriores, designado de común acuerdo por las y los demás integrantes de la Comisión.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 7 DE JUNIO DE 2021)</small>
+
+II. Tratándose de conflictos laborales de servidoras y servidores del Consejo de la Judicatura Federal, por los siguientes representantes:
+
+a) Una o uno del Consejo de la Judicatura Federal, nombrado por el Pleno de dicho Consejo, quien la presidirá;
+
+b) Una o uno nombrado por el Sindicato de Trabajadores del Poder Judicial de la Federación, y
+
+c) Una o un tercero ajeno a los mencionados en los incisos anteriores, designado de común acuerdo por las y los demás integrantes de la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
+La o el representante del Sindicato, así como la tercera ajena o el tercero ajeno, a que se hace referencia en los incisos b) y c), de las fracciones I y II de este artículo, serán las mismas personas en ambos supuestos.
 
 ###### ARTICULO 155.
 
 La comisión funcionará con un Secretario de Acuerdos que autorice y dé fe de lo actuado; y contará con los actuarios y la planta de empleados que sea necesaria. Los sueldos y gastos que origine la comisión se incluirán en el Presupuesto de Egresos del Poder Judicial de la Federación.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 156.
 
-Los miembros de la Comisión Substanciadora deberán reunir los requisitos que señala el artículo 121 de esta Ley. El designado por el Pleno de la Suprema Corte de Justicia de la Nación, y el tercer miembro, deberán ser además, licenciados en derecho y durarán en su encargo seis años. El representante del Sindicato durará en su encargo sólo tres años. Los tres integrantes disfrutarán del sueldo que les fije el presupuesto de egresos y únicamente podrán ser removidos por causas justificadas y por quienes les designaron.
+Las personas integrantes de la Comisión de Conflictos Laborales del Poder Judicial de la Federación deberán reunir los requisitos que señala el artículo 121 de esta Ley. Las personas a que se refieren los incisos a) y c) de las fracciones I y II del artículo 154 de esta Ley, deberán ser además, licenciadas y licenciados en derecho y durarán en su encargo seis años. La persona representante del Sindicato de Trabajadores del Poder Judicial de la Federación durará en su encargo sólo tres años. Las personas integrantes de la Comisión disfrutarán del sueldo que les fije el presupuesto de egresos y únicamente podrán ser removidas por causas justificadas y por quienes les designaron.
 
 ###### ARTICULO 157.
 
@@ -1456,17 +1492,23 @@ Los miembros de la Comisión substanciadora que falten definitiva o temporalment
 
 La Comisión Substanciadora, se sujetará a las disposiciones del capítulo III del Título Séptimo de esta Ley, para la tramitación de los expedientes.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 159.
 
-En los conflictos en que sea parte un Tribunal Colegiado de Circuito, un Magistrado Unitario de Circuito o un Juez de Distrito y tengan que desahogar diligencias encomendadas por la Comisión Substanciadora, actuarán como auxiliares de la misma con la intervención de un representante del Sindicato. El trabajador afectado tendrá derecho a estar presente.
+En los conflictos en que sea parte un Tribunal Colegiado de Circuito, una Magistrada o Magistrado Colegiado de Apelación o una Jueza o Juez de Distrito y tengan que desahogar diligencias encomendadas por la Comisión de Conflictos Laborales del Poder Judicial de la Federación, actuarán como auxiliares de la misma con la intervención de una persona representante del Sindicato. La persona trabajadora afectada tendrá derecho a estar presente.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 160.
 
-El Pleno de la Suprema Corte de Justicia de la Nación se reunirá cuantas veces sea necesario, para conocer y resolver los dictámenes que eleve a su consideración la Comisión Substanciadora.
+La Comisión de Conflictos Laborales del Poder Judicial de la Federación se reunirá cuantas veces sea necesario, para conocer y resolver por mayoría los conflictos laborales que se le presenten.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 161.
 
-La audiencia se reducirá a la lectura y discusión del dictamen dé la Comisión Substanciadora y a la votación del mismo. Si fuere aprobado en todas sus partes o con alguna modificación, pasará al Presidente de la Suprema Corte para su cumplimiento; en caso de ser rechazado, se turnarán los autos al ministro que se nombre ponente para la emisión de un nuevo dictamen.
+La audiencia se reducirá a la lectura y discusión del proyecto de resolución del caso y a la votación del mismo por la Comisión de Conflictos Laborales del Poder Judicial de la Federación. Si fuere aprobado en todas sus partes o con alguna modificación, pasará a la Presidenta o Presidente de la Comisión para su cumplimiento.
 
 ## TITULO DÉCIMO. De las Correcciones Disciplinarias y de las Sanciones
 
@@ -1757,3 +1799,51 @@ Las personas físicas o morales que presten servicios especializados o ejecuten 
 Noveno. Las conductas delictivas que hayan sido cometidas con anterioridad a la entrada en vigor del presente Decreto serán sancionadas de conformidad con la legislación vigente al momento de la comisión de los hechos.
 
 Décimo. Las dependencias y entidades de la Administración Pública Federal involucradas en la implementación del presente Decreto, realizarán las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del mismo, se realicen con cargo al presupuesto aprobado a cada una de ellas en el presente ejercicio fiscal y subsecuentes, por lo que no requerirán recursos adicionales que tengan por objeto solventar las mismas y no se incrementará el presupuesto regularizable de éstas para el presente ejercicio fiscal ni posteriores.
+
+D.O.F. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LA LEY DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACIÓN; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA; DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; DE LA LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo siguiente:
+
+I. Las disposiciones relativas a los Tribunales Colegiados de Apelación en sustitución de los Tribunales Unitarios de Circuito, entrarán en vigor de manera gradual y escalonada en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
+II. Las disposiciones relativas a los plenos Regionales en sustitución de los plenos de Circuito, entrarán en vigor en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
+III. Entrarán en vigor en la fecha en la que el Poder Judicial de la Federación realice la declaratoria a que se refiere el artículo Séptimo Transitorio de este Decreto:
+
+a) El artículo segundo del presente Decreto;
+
+b) Las disposiciones relativas a la Escuela Federal de Formación Judicial, y
+
+c) Las nuevas categorías de la Carrera Judicial.
+
+IV. Las reformas a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, entrarán en vigor a los 18 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+V. La reforma al artículo 218 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, entrará en vigor a los 6 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Segundo. Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
+
+Tercero. El procedimiento de sustituciones por ausencia de las personas titulares de los órganos jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Quinto. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Séptimo. Dentro de los 18 meses siguientes a la publicación del presente Decreto, el Poder Judicial de la Federación deberá emitir y publicar, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, la declaratoria para el inicio de la observancia de las nuevas reglas de la Carrera Judicial contenidas en el presente Decreto.
+
+Octavo. Las y los actuales oficiales administrativos podrán acceder a la categoría de oficial judicial, previo cumplimiento de los requisitos y evaluación que para tal efecto implemente el Consejo de la Judicatura Federal, en los términos de las disposiciones que éste emita. En caso de que dichos oficiales administrativos no puedan acceder a la nueva categoría, conservarán su actual puesto y los derechos inherentes a este.
+
+Noveno. Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su formato.
+
+Décimo. Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente Decreto mantendrán su obligatoriedad, salvo que sean interrumpidas en los términos que se prevén en el artículo 228 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al momento de la interrupción.
+
+Décimo Primero. Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran emitido con anterioridad a la entrada en vigor del nuevo sistema de precedentes obligatorios, mantendrán ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del presente Decreto podrán constituir jurisprudencia por precedente.
+
+Décimo Segundo. Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 26 de mayo de 1995.
+
+(NOTA: EL 16 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2021 Y SU ACUMULADA 105/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO DÉCIMO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+DÉCIMO TERCERO. CON EL FIN DE IMPLEMENTAR LA REFORMA CONSTITUCIONAL AL PODER JUDICIAL DE LA FEDERACIÓN PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 11 DE MARZO DE 2021 Y LAS LEYES REGLAMENTARIAS A LAS QUE SE REFIERE EL PRESENTE DECRETO, LA PERSONA QUE A SU ENTRADA EN VIGOR OCUPE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL DURARÁ EN ESE ENCARGO HASTA EL 30 DE NOVIEMBRE DE 2024. ASIMISMO, EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2016 CONCLUIRÁ SU ENCARGO EL 30 DE NOVIEMBRE DE 2023; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 24 DE FEBRERO DE 2019 CONCLUIRÁ SUS FUNCIONES EL 23 DE FEBRERO DE 2026; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL EJECUTIVO FEDERAL EL 18 DE NOVIEMBRE DE 2019 CONCLUIRÁ EL 17 DE NOVIEMBRE DE 2026; LAS CONSEJERAS DE LA JUDICATURA FEDERAL DESIGNADAS POR EL SENADO DE LA REPÚBLICA EL 20 DE NOVIEMBRE DE 2019 CONCLUIRÁN SU ENCARGO EL 19 DE NOVIEMBRE DE 2026; Y EL CONSEJERO DE LA JUDICATURA FEDERAL DESIGNADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2019 DURARÁ EN FUNCIONES HASTA EL 30 DE NOVIEMBRE DE 2026.
