@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6482
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-15"
-last_updated: "2021-05-14"
+last_updated: "2021-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de noviembre de 2008.
 
@@ -489,13 +489,21 @@ V. Violencia económica.- La acción limitativa y de control de los ingresos pro
 
 VI. Violencia obstétrica.- Toda conducta, acción u omisión, que ejerce el personal de salud tanto en el ámbito público como en el privado, sobre el cuerpo y los procesos reproductivos de las mujeres, de manera directa o indirecta, expresada en un trato deshumanizado, un abuso de medicalización o patologización de los procesos naturales, menoscabando la capacidad de la mujer de decidir de manera libre e informada;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-VII. Violencia Política.- En términos de lo dispuesto por la presente Ley, se consideran todas aquellas acciones y omisiones incluida la tolerancia, que basadas en elementos de género y dadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público, y
+VII. Violencia Política.- En términos de lo dispuesto por la presente Ley, se consideran todas aquellas acciones y omisiones incluida la tolerancia, que basadas en elementos de género y dadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-VIII. Violencia contra los derechos reproductivos.- Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente, su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, servicios de atención prenatal, así como a servicios obstétricos de emergencia.
+VIII. Violencia contra los derechos reproductivos.- Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente, su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, servicios de atención prenatal, así como a servicios obstétricos de emergencia;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+IX. Violencia simbólica.- Es la expresión, emisión o difusión por cualquier medio, ya sea en el ámbito público o privado, de discursos, mensajes, patrones estereotipados, signos, valores icónicos e ideas que transmiten, reproducen, justifican o naturalizan la subordinación, desigualdad, discriminación y violencia contra las mujeres en la sociedad, y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+X. Violencia mediática.- Es la exposición a través de cualquier medio de comunicación de contenidos que de manera directa o indirecta promuevan estereotipos de género, así como la humillación, explotación, degradación, desigualdad, discriminación, o cualquier otra forma de violencia contra las mujeres.
 
 ## TÍTULO TERCERO
 
@@ -1336,3 +1344,9 @@ P.O. 14 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 10 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LAS FRACCIONES VII Y VIII Y ADICIONA LAS FRACCIONES IX Y X AL ARTÍCULO 23 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT".]
+
+ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
