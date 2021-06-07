@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2021-03-15"
+last_updated: "2021-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "HID"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JULIO DE 2021 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -327,7 +329,9 @@ I. Consentimiento presunto. Se presume que hay consentimiento, cuando el hecho s
 
 II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
 
-Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause una lesión o incluso prive de la vida, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar o penetre sin derecho, a su hogar o centro de trabajo, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación, o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
 
 III. Estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
@@ -1039,6 +1043,10 @@ II.- Para el error de prohibición, se aplicará la mitad de la punibilidad prev
 
 Al que incurra en exceso en alguna de las causas de justificación se le impondrá la sanción correspondiente al error de prohibición vencible, pero quedará subsistente la atribución del hecho a título doloso.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+
+No se considerará exceso en la legítima defensa cuando la persona que la ejerce se encuentre en estado de confusión, miedo o terror que afecte su capacidad para determinar el límite adecuado de su respuesta o la racionalidad de los medios empleados.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO V. PUNIBILIDAD DE LOS ACTOS PREPARATORIOS Y DE LA TENTATIVA
@@ -1539,9 +1547,17 @@ Hay ventaja cuando se haya realizado el hecho empleando medios o aprovechando ci
 
 II.- Cuando se ejecuten por retribución dada o prometida;
 
-III.- Cuando se causen dolosamente por inundación, incendio o explosión; o
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
 
-IV.- Cuando se dé tormento al ofendido, se obre con ensañamiento o por motivos depravados.
+III.- Cuando se causen dolosamente por inundación, incendio o explosión;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+IV.- Cuando se dé tormento al ofendido, se obre con ensañamiento o por motivos depravados; o
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+V. Cuando el resultado sea asociado con razones de discriminación a la víctima.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -1683,45 +1699,27 @@ Se impondrá prisión de cinco a quince años y multa de 50 a 250 días, al que 
 
 ## TITULO TERCERO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
-### CAPITULO II. SECUESTRO Y SIMULACION DE SECUESTRO
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
+### CAPITULO II. SECUESTRO Y SIMULACION DE SECUESTRO
 
 ###### ARTICULO 163.
 
-Al que ilegítimamente prive a otro de su libertad, se le aplicará prisión de tres meses a tres años y de 10 a 50 días multa.
+(DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
-La misma pena se aplicará al particular que por cualquier medio, obligue a una persona a prestarle trabajo y servicios personales sin la debida retribución o celebre un contrato que ponga en condiciones de servidumbre a otra, o afecte su libertad de cualquier modo.
-
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2002)</small>
-
-ARTICULO 163 BIS.- Se considera también como privación ilegal de la libertad, cuando el ascendiente sin limitación de grado o pariente consanguíneo colateral hasta el cuarto grado de un menor de edad, lo sustraiga o cambie de domicilio donde habitualmente resida, lo retenga o impida que regrese al mismo sin autorización de quienes ejerzan la patria potestad, entendiéndose que se necesita la autorización de todos los que ejercen este derecho aunque no se tenga la custodia y no permita que el padre o la madre visiten o convivan con el menor, se aplicará una pena de uno a tres años de prisión y multa de 30 a 300 días. En este contexto, sólo podrán cambiar de domicilio o impedir que regrese al mismo de manera unilateral, cuando exista resolución de autoridad competente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+ARTICULO 163 BIS.- (DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
 ###### ARTICULO 164.
 
-La punibilidad prevista en el artículo 163 se aumentará en una mitad, cuando en la privación de la libertad concurra alguna de las circunstancias siguientes:
-
-I.- Que se realice con violencia o se veje a la víctima;
-
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2014)</small>
-
-II.- Que la víctima sea menor de dieciséis o mayor de sesenta años de edad, o por cualquier otra circunstancia esté en situación de inferioridad física respecto al agente; o
-
-III.- Que la privación se prolongue por más de ocho días.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+(DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
 ###### ARTICULO 165.
 
-Si el agente espontáneamente pone en libertad a la víctima dentro de las setenta y dos horas siguientes al momento de inicio de la privación, se aplicará la mitad de la punibilidad prevista en los dos artículos anteriores.
+(DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2021)</small>
 
 ### CAPITULO III. RAPTO
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO IV. AMENAZAS
 
@@ -1729,41 +1727,19 @@ Si el agente espontáneamente pone en libertad a la víctima dentro de las seten
 
 ###### ARTICULO 166.
 
-Cuando la privación ilegal de la libertad tenga el carácter de secuestro, se aplicará prisión de diez a cuarenta años y multa de 200 a 500 días. Habrá secuestro si el hecho se realiza con el propósito de:
-
-I.- Obtener un rescate;
-
-II.- Que la autoridad realice o deje de hacer un acto de cualquier índole;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-III.- Causar daño o perjuicio al secuestrado o a persona distinta relacionada con él;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-IV.- Obligarlo a hacer o dejar de hacer un acto de cualquier índole, o para que un tercero lo haga o lo omita; y
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-V.- Cometer secuestro exprés, entendiéndose por éste, el que prive de la libertad a otro por el tiempo estrictamente indispensable para cometer los delitos de robo o extorsión o para obtener algún beneficio económico. Lo anterior, con independencia de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+(DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
 ###### ARTICULO 167.
 
-Si el agente espontáneamente pone en libertad al secuestrado dentro de las setenta y dos horas posteriores al inicio de la privación de libertad, la punibilidad será de uno a seis años de prisión y multa de 30 a 150 días, siempre y cuando el sujeto no haya logrado los propósitos a que se refiere el artículo 166 de este Código.
+(DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 1999)</small>
-
-ARTICULO 167 BIS.- A quien, simulando encontrarse secuestrado, lo haga con el propósito de obtener para sí o para otro una cantidad de dinero o cualquier otro lucro indebido o para obligar a alguien a que haga o deje de hacer un acto de cualquier índole bajo tal intimidación, se le impondrá de ocho a veinte años de prisión y de 150 a 300 días multa.
-
-La misma punibilidad se aplicará a quien le resulte responsabilidad penal en términos de lo previsto por el Capítulo III del Título Segundo del Libro Primero de este Código.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+ARTICULO 167 BIS.- (DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
 ###### ARTICULO 168.
 
-Las punibilidades previstas en este capítulo, se aplicarán independientemente de la que resulte por la comisión de otros delitos.
+(DEROGADO, P.O. 7 DE JUNIO DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2021)</small>
 
 ### CAPITULO V. ASALTO
 
@@ -1771,9 +1747,7 @@ Las punibilidades previstas en este capítulo, se aplicarán independientemente 
 
 ###### ARTICULO 169.
 
-Al que se apodere de una persona por medio de la violencia o del engaño, con el propósito de satisfacer algún deseo erótico sexual o para casarse con ella, se le impondrá de uno a seis años de prisión y multa de 10 a 60 días.
-
-La misma punibilidad se aplicará al que, con los fines a que se refiere el párrafo precedente, sin hacer uso de la violencia, se apodere de una persona menor de dieciocho años o que no tenga capacidad de comprender el hecho delictuoso que se comete en su persona o que por cualquier causa no pudiere resistirlo; si el medio que se empleare fuese la violencia, la punibilidad se aumentará en una mitad.
+(DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
 ###### ARTICULO 170.
 
@@ -1781,7 +1755,7 @@ La misma punibilidad se aplicará al que, con los fines a que se refiere el pár
 
 ###### ARTICULO 171.
 
-El delito de rapto se perseguirá por querella de la persona ofendida o de su legítimo representante.
+(DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
 ### CAPITULO VI. ALLANAMIENTO DE MORADA
 
@@ -1959,9 +1933,9 @@ ARTICULO 182 QUÁTER.- En los delitos previstos en este Capítulo, además de la
 
 Comete el delito de abuso sexual, quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella actos sexuales, la obligue a observarlos o la haga ejecutarlos para sí o en otra persona, y-se (sic) le impondrá prisión de dos a cuatro años y multa de 50 a 100 días.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
-Si la víctima de abuso sexual fuere persona menor de quince años de edad o que no tenga capacidad para comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo, se impondrá de cinco a nueve años de prisión y multa de 200 a 500 veces la Unidad de Medida y Actualización.
+Si la víctima de abuso sexual fuere persona menor de edad o que no tenga capacidad para comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo, se impondrá de cinco a nueve años de prisión y multa de 200 a 500 veces la Unidad de Medida y Actualización.
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -2029,31 +2003,55 @@ El delito previsto en el presente capítulo, sólo se perseguirá por querella d
 
 ### CAPITULO UNICO. DISCRIMINACION
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2021)</small>
 
-ARTICULO 202 BIS. Comete el delito de discriminación quien por razones de origen o identidad indígena o nacional, sexo o género, edad, discapacidad, condición social o económica, estado de salud, embarazo, lengua, religión, opiniones, preferencia sexual, estado civil, identidad política, apariencia física, características genéticas, situación migratoria o de otra índole, que atente contra la dignidad humana, anule o menoscabe los derechos y libertades de otra persona o grupo, a través de la realización de cualquiera de las siguientes conductas:
+ARTICULO 202 BIS.- Comete el delito de discriminación quien por razones de origen o identidad indígena o nacional, sexo, identidad de género, preferencia u orientación sexual,_ edad, discapacidad, condición social o económica, trabajo, profesión, escolaridad, estado de salud, embarazo, lengua, religión, opiniones, estado civil, identidad política, apariencia física, características genéticas, situación migratoria o de otra índole, que atente contra la dignidad humana, anule o menoscabe los derechos y libertades de otra persona o grupo, a través de la realización de cualquiera de las siguientes conductas:
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 I. Niegue o retarde un servicio o una prestación a la que tenga derecho;
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 II. Niegue o restrinja sus derechos laborales;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 III. Niegue o limite el acceso a un servicio de salud;
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 IV. Provoque o incite al odio o a la violencia;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 V. Veje o excluya a alguna persona o grupo de personas.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 Al responsable del delito de discriminación se impondrá de uno a tres años de prisión y multa de ciento cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 Se aumentará hasta en una mitad la punibilidad que corresponda, cuando en la comisión del delito de discriminación concurra alguna de las siguientes circunstancias:
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 I. Sea cometido por un servidor público, imponiéndose además la destitución e inhabilitación para el desempeño de cualquier, empleo, cargo o comisión públicos, por un tiempo igual al de la pena de prisión impuesta;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 II. Sea cometido por persona con la que la víctima tenga una relación de subordinación laboral;
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 III. Sea cometido en contra de mujeres embarazadas, personas indígenas, niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 No serán discriminatorias todas aquellas medidas tendentes a la protección de los grupos socialmente desfavorecidos.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 Este delito se perseguirá por querella.
 
@@ -4658,3 +4656,11 @@ PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicac
 SEGUNDO. El Titular del Poder Ejecutivo del Estado, deberá prever lo necesario a efecto de que, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se expidan y/o actualicen los protocolos necesarios para la atención y seguimiento de las víctimas de violencia mediática y digital.
 
 TERCERO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando y ejecutando conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen.
+
+P.O. 7 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 715 QUE REFORMA EL ARTÍCULO 25 APARTADO B, FRACCIÓN II PÁRRAFO SEGUNDO, 147 FRACCIÓN III Y IV, 183 PÁRRAFO SEGUNDO Y 202 BIS PÁRRAFO PRIMERO; SE ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 101 Y LA FRACCIÓN V DEL ARTÍCULO 147; Y SE DEROGA EL CAPÍTULO I, II Y III DEL TÍTULO TERCERO DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO Y SUS ARTÍCULOS 163, 163 BIS, 164, 165, 166, 167, 167 BIS, 168, 169 Y 171 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO.”]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los procedimientos penales en materia de delitos en contra de la libertad y la seguridad de las personas, iniciados antes de la vigencia del presente Decreto así como las sentencias emitidas con anterioridad, no serán afectados por su entrada en vigor, por lo tanto, deberán concluirse y ejecutarse respectivamente, conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen.
