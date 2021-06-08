@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2021-03-06"
+last_updated: "2021-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1099,9 +1099,9 @@ IV. La ubicación y reubicación de instalaciones industriales, comerciales y de
 
 V. El establecimiento, manejo y vigilancia de áreas naturales protegidas de competencia estatal y municipal;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2021)</small>
 
-VI. La producción, promoción, entrega y utilización de bolsas de plástico biodegradables;
+VI. La producción, promoción, entrega y utilización de contenedores biodegradables o compostables;
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
@@ -3662,5 +3662,13 @@ P.O. 6 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1135.- SE REFORMA EL ARTÍCULO 109 EN SUS FRACCIONES III Y IV; Y ADICIONA AL MISMO ARTÍCULO 109 LA FRACCIÓN V, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1188.- SE REFORMA EL ARTÍCULO 47 EN SU FRACCIÓN VI, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
