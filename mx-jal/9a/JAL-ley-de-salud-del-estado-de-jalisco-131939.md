@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2021-03-18"
+last_updated: "2021-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2021.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -1941,11 +1941,17 @@ Enfermedades Transmisibles. Facultad de Inspeccionar Espacios Privados.
 
 1. Los servidores de las instituciones públicas estatales y municipales, así como los de otras instituciones facultadas por las autoridades sanitarias del Estado, cuando así lo requieran las necesidades técnicas de los programas específicos de prevención y control de enfermedades, o situaciones que pongan en peligro la salud de la población, tendrán acceso al interior de todo tipo de local o casa habitación, para el cumplimiento de actividades encomendadas a su responsabilidad, para cuyo fin deberán contar con la autorización, debidamente fundada y motivada por la autoridad competente, en los términos de las disposiciones legales aplicables.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 8 DE JUNIO DE 2021)</small>
+
 ###### Artículo 149.
 
 Enfermedades Transmisibles. Lucha Contra Epidemias.
 
 1. Quedan facultadas las autoridades para utilizar como elementos auxiliares, en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado, existentes en las regiones afectadas y en las colindantes de acuerdo con las disposiciones de esta Ley y los reglamentos aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2021)</small>
+
+2. Las autoridades de salud deberán verificar el cumplimiento de las medidas preventivas urgentes para la protección del personal de salud que labora en las instituciones públicas privadas de salud, asimismo deberá verificar que se les proporcione el equipo de protección personal necesario para el desempeño de su trabajo.
 
 ###### Artículo 150.
 
@@ -4664,3 +4670,9 @@ P.O. 28 DE NOVIEMBRE DE 2020.
 P.O. 18 DE MARZO DE 2021.
 
 > <small>[N. DE E. EL “DECRETO 28324/LXII/21 DEL CONGRESO DEL ESTADO QUE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 5, SE MODIFICA LA FRACCIÓN XI, SE REFORMA LA FRACCIÓN XII, SE RECORRE Y SE CREA LA FRACCIÓN XIII AL ARTÍCULO 34, MODIFICA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 107, ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 108, SE REFORMA LA FRACCIÓN XXIII Y SE RECORREN LAS SUBSECUENTES PARA CREAR LA XXV DEL ARTÍCULO 166 Y AGREGA EL ARTÍCULO 171 BIS A LA LEY DE SALUD DEL ESTADO DE JALISCO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O. 8 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28396/LXII/21 QUE REFORMA EL ARTÍCULO 149 DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
