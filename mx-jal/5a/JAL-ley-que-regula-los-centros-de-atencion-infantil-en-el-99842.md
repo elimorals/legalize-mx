@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-regula-los-centros-de-atencion-infantil-en-el-99842"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-25"
-last_updated: "2019-10-08"
+last_updated: "2021-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el 25 de marzo de 2014.
 
@@ -401,9 +401,31 @@ I. Los integrantes del Consejo se reunirán en sesiones ordinarias por lo menos 
 
 II. Los integrantes del Consejo podrán reunirse en sesiones extraordinarias para atender asuntos que merezcan atención inmediata, las cuales serán convocadas por su Presidente a propuesta de cualquiera de los integrantes;
 
-III. Los integrantes del Consejo, intercambiarán y analizarán información y datos referentes a los temas de su competencia con el fin de cumplir con los objetivos establecidos; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JUNIO DE 2021)</small>
 
-IV. Deberá entregar un informe semestral de actividades al H. Congreso del Estado, quien en todo momento y, si así lo considere necesario, podrá llamar a comparecer a sus integrantes.
+III. En los casos en que no sea posible la presencia física de los integrantes del Consejo en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+a) La identificación visual plena de los integrantes;
+
+b) La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+c) Se debe garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+d) El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y
+
+e) Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+La convocatoria de la celebración de las sesiones a distancia, así como la redacción y la protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
+
+En caso de no verificarse quórum, el Presidente podrá convocar por escrito, con un mínimo de veinticuatro horas de anticipación, a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE JUNIO DE 2021)</small>
+
+IV. Los integrantes del Consejo, intercambiarán y analizarán información y datos referentes a los temas de su competencia con el fin de cumplir con los objetivos establecidos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE JUNIO DE 2021)</small>
+
+V. Deberá entregar un informe semestral de actividades al H. Congreso del Estado, quien en todo momento y, si así lo considera necesario, podrá llamar a comparecer a sus integrantes.
 
 ### CAPÍTULO VII. Del Registro Estatal y las modalidades y tipos de los Centros de Atención
 
@@ -840,5 +862,11 @@ P.O. 18 DE MAYO DE 2019.
 P.O. 8 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27351/LXII/19 QUE REFORMA LOS ARTÍCULOS 18, 44 Y 60 DE LA LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28395/LXII/21 QUE REFORMA EL ARTÍCULO 25 DE LA LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
