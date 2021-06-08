@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-para-el-estado-de-michoacan-de-ocampo-59759"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2017-09-01"
+last_updated: "2021-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2021.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -120,6 +120,62 @@ La ignorancia de las leyes no excusa su cumplimiento; pero los jueces tomando en
 ###### Artículo 16.
 
 Son personas físicas los seres humanos, quienes adquieren la capacidad de goce y ejercicio en los términos y condiciones establecidos legalmente.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2021)</small>
+
+###### Artículo 16 Bis.
+
+Toda persona capaz, tiene derecho a disponer parcialmente de su cuerpo para donación, siempre y cuando no ponga en peligro su vida.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2021)</small>
+
+###### Artículo 16 Ter.
+
+Puede de igual forma disponer de su cuerpo total o parcialmente, para después de su muerte, con fines terapéuticos, de enseñanza o investigación.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2021)</small>
+
+###### Artículo 16 Quáter.
+
+La disposición de cuerpos, órganos y tejidos de seres humanos con fines terapéuticos y de investigación, será siempre a título gratuito, y será revocable en cualquier momento para el donante y no podrá ser revocada por persona alguna después de su muerte.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2021)</small>
+
+###### Artículo 16 Quinquies.
+
+En el caso de disposición de cuerpos, total o parcialmente para después de la muerte, el consentimiento para ello se regirá por cualquiera de las siguientes formas:
+
+I. Deberá hacerse constar a través del documento que la ley en la materia disponga, y/o,
+
+II. Expresarse ante notario público a través de cualquier instrumento público; y,
+
+III. Surtirá efectos la declaración que se haga en forma expresa ante las autoridades competentes de vialidad o tránsito, con motivo de la expedición de los documentos en los que conste la autorización para conducir automotores. La autoridad respectiva deberá percatarse que se cumplieron los requisitos antes citados y entregará el cuerpo u órgano al beneficiario, recabando previamente la opinión de un médico legista.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2021)</small>
+
+###### Artículo 16 Sexies.
+
+La disposición de órganos con fines de donación, puede consentirse también por quienes sean sus familiares o convivieron con la persona fallecida durante los dos años anteriores a su fallecimiento, en el siguiente orden:
+
+I. El cónyuge y/o concubino y/o concubina;
+
+II. Los descendientes y/o adoptado;
+
+III. Los ascendientes y/o adoptante;
+
+IV. Los hermanos;
+
+V. En caso de concurrencia entre dos o más sujetos de los considerados en las fracciones anteriores y de existir conflicto para otorgar el consentimiento decidirá quien tenga prelación en su derecho, conforme a lo establecido en el presente Código.
+
+Si se trata de sujetos con el mismo derecho, se suspenderá el trámite de la donación de órganos, levantándose constancia para todos los fines legales correspondientes; y,
+
+VI. En caso de no existir ninguno de los familiares señalados, la solicitud de autorización para la disposición de órganos deberá efectuarse ante el Consejo Estatal de Trasplantes quien podrá delegar por escrito esta función al Secretario Técnico del Consejo.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2021)</small>
+
+###### Artículo 16 Septies.
+
+Cuando se presente la muerte cerebral se estará a lo previsto por la Ley General de Salud, La Ley del Salud del Estado y la ley particular en la materia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
@@ -10860,3 +10916,17 @@ P.O. 1 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 385 POR EL QUE "SE DEROGA EL ARTÍCULO 1095 DEL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 540 POR EL QUE “SE ADICIONAN LOS ARTÍCULOS 16 BIS, 16 TER, 16 QUÁTER, 16 QUINQUIES, 16 SEXTIES Y 16 SEPTIES, AL CÓDIGO CIVIL PARA EL ESTADO MICHOACÁN DE OCAMPO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. La Secretaría de Salud en el Estado, en forma conjunta con el Consejo de Trasplantes del Estado de Michoacán, regulados en la Ley de Trasplantes y Donación de Órganos, Tejidos y Células en el Estado de Michoacán de Ocampo y contemplados en el artículo primero del presente Decreto, verificarán que los Comités Internos de Trasplantes queden conformados legalmente a los 90 días posteriores a la aprobación del presente Decreto.
+
+Artículo Tercero. El Registro Estatal regulado en la Ley de Trasplantes y Donación de Órganos, Tejidos y Células en el Estado de Michoacán de Ocampo y contemplado en el artículo primero del presente Decreto quedará conformado a los 120 días posteriores a la aprobación del presente Decreto.
+
+Artículo Cuarto. El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Trasplantes y Donación de Órganos, Tejidos y Células en el Estado de Michoacán de Ocampo y contenido en el artículo primer o (sic) del presente Decreto, a los 120 días siguientes de su aprobación.
+
+Artículo Quinto. El Reglamento Interno del Consejo de Trasplantes del Estado de Michoacán, regulado en la Ley de Trasplantes y Donación de Órganos, Tejidos y Células en el Estado de Michoacán de Ocampo, deberá ser reformado y adecuado, a lo establecido en el artículo primero del presente Decreto, a los 120 días de su aprobación.
