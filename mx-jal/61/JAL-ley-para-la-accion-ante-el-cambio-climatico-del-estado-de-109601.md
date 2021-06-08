@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-accion-ante-el-cambio-climatico-del-estado-de-10960
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2020-09-19"
+last_updated: "2021-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2021.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 27 de agosto de 2015.
 
@@ -1053,7 +1053,9 @@ XXVII. Participar en la difusión de la información científica ambiental entre
 
 XXVIII. Fomentar la construcción de capacidades del Estado y de los municipios en la elaboración de sus respectivos programas e inventarios de emisiones;
 
-XXIX. Proponer al sistema educativo estatal el contenido educativo en materia de cambio climático en libros de texto y materiales didácticos sobre cambio climático, de conformidad con la Ley de Educación del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2021)</small>
+
+XXIX. Proponer al sistema educativo estatal el contenido educativo en materia de cambio climático en libros de texto y materiales didácticos sobre cambio climático, de conformidad con la Ley de Educación del Estado Libre y Soberano de Jalisco;
 
 XXX. Fomentar la capacidad científica, tecnológica y de innovación en materia de desarrollo sustentable, cuestiones ambientales y cambio climático, en coordinación al menos con la Secretaría, la Secretaría de Educación, la Secretaría de Innovación, Ciencia y Tecnología, y las instituciones de investigación y educación superior del Estado;
 
@@ -1689,7 +1691,9 @@ La Secretaría, en coordinación y colaboración con las autoridades competentes
 
 Se consideran establecimientos sujetos a reporte en tanto que son fuentes emisoras, los micro generadores de residuos peligrosos, los grandes generadores de residuos de manejo especial, los grandes generadores de residuos sólidos urbanos, y las fuentes fijas de emisiones a la atmósfera que no sean de jurisdicción federal.
 
-Se integrará como parte del Registro Estatal la información sobre fuentes móviles de emisiones que se obtenga en necesaria colaboración con la Secretaría de Movilidad, de acuerdo a lo establecido por la presente Ley y las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2021)</small>
+
+Se integrará como parte del Registro Estatal la información sobre fuentes móviles de emisiones que se obtenga en necesaria colaboración con la Secretaría de Transporte, de acuerdo a lo establecido por la presente Ley y las disposiciones aplicables.
 
 ###### Artículo 91.
 
@@ -2176,3 +2180,15 @@ P.O. 19 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27952/LXII/20 QUE REFORMA EL ARTÍCULO 3 FRACCIÓN VIII DE LA LA (SIC) LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. La presente ley entrará en vigor un día después de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 8 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28393/LXII/21 QUE REFORMA EL ARTÍCULO 45 FRACCIÓN XXIX DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. La presente ley entrará en vigor un día después de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28394/LXII/21 QUE REFORMA EL ARTÍCULO 90 DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
