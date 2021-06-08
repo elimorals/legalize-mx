@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2021-06-05"
+last_updated: "2021-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -75,7 +75,9 @@ Los municipios, previo acuerdo entre sus ayuntamientos y con sujeción a la ley,
 
 El territorio del Estado de San Luis Potosí está dividido en cincuenta y ocho municipios, siendo éstos los siguientes:
 
-1. Ahualulco
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2021)</small>
+
+1. Ahualulco del Sonido 13
 
 2. Alaquines
 
@@ -1253,9 +1255,11 @@ I. Ser ciudadano potosino en pleno uso de sus derechos civiles y políticos;
 
 II. (DEROGADA, P.O. 22 DE JUNIO DE 2018)
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2021)</small>
 
-III. Contar con título y cédula profesional o nivel licenciatura, con la antigüedad mínima de tres años en el ejercicio de la profesión. Respecto a las demarcaciones con población de más de cien mil habitantes, será necesario que el título y cédula profesional sean de licenciatura en derecho, o abogado;
+III. Contar con título y cédula profesional de nivel licenciatura, con una antigüedad mínima de tres años en el ejercicio de la profesión.
+
+Respecto a las demarcaciones con población de más de cien mil habitantes, preferentemente será Licenciado en Derecho, abogado, o afín;
 
 IV. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes del Ayuntamiento, y
 
@@ -1309,7 +1313,9 @@ XI. Presentar en las sesiones ordinarias de Cabildo, informe del número de asun
 
 XII. Expedir las circulares y comunicados en general, que sean necesarios para el buen despacho de los asuntos del Municipio;
 
-XIII. Proporcionar asesoría jurídica a las dependencias municipales;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2021)</small>
+
+XIII. Proporcionar asesoría jurídica a las dependencias municipales por conducto del Asesor Jurídico o, en su caso, de la Dirección de Asuntos Jurídicos, según corresponda;
 
 XIV. Compilar las disposiciones jurídicas que tengan vigencia en el Municipio;
 
@@ -3312,5 +3318,21 @@ P.O. 5 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1186.-SE REFORMA EL ARTÍCULO 168, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que (sic) opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1189.- SE REFORMA EL ARTÍCULO 6° EN SU NUMERAL UNO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que (sic) opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1190.- SE REFORMA (SIC) LOS ARTÍCULOS 77 EN SU FRACCIÓN III Y 78 EN SU FRACCIÓN XIII, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que (sic) opongan al presente Decreto.
