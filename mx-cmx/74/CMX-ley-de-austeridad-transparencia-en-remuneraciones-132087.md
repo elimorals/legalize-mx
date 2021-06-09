@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-transparencia-en-remuneraciones-132087"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2020-12-01"
+last_updated: "2021-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JUNIO DE 2021.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -110,9 +110,13 @@ XX. Corto Plazo: Periodo que comprende de 1 y hasta 3 años;
 
 XXI. Cuenta Comprobada: Documentos relativos a un periodo determinado, integrados por el resumen de operaciones de caja o de pólizas de ingresos o egresos;
 
-XXII. Cuenta por Liquidar Certificada: Instrumento mediante el cual las personas servidoras públicas facultadas de las Dependencias, Alcaldías, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno, autorizan el pago de los compromisos adquiridos con cargo a su Presupuesto de Egresos;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
-XXIII. Cuenta Pública: Es el documento técnico que elabora el Poder Ejecutivo y entrega al Congreso local con la información de los recursos, las finanzas y contabilidad de los Poderes Ejecutivo, Legislativo y Judicial, las Alcaldías, Órganos Autónomos y demás entes públicos de la Ciudad de México.
+XXII. Cuenta por Liquidar Certificada: Instrumento mediante el cual las personas servidoras públicas facultadas de las Dependencias, Alcaldías, Órganos Desconcentrados, Entidades, el Poder Legislativo, el Poder Judicial y Organismos Autónomos, autorizan el pago de los compromisos adquiridos con cargo a su Presupuesto de Egresos;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+XXIII. Cuenta Pública: Es el documento técnico que elabora el Poder Ejecutivo y entrega al Congreso local con la información de los recursos, las finanzas y contabilidad de los Poderes Ejecutivo, Legislativo y Judicial, las Alcaldías, Organismos Autónomos y demás entes públicos de la Ciudad de México;
 
 XXIV. Decreto: Decreto de Presupuesto de Egresos de la Ciudad de México que anualmente autoriza el Congreso;
 
@@ -142,9 +146,9 @@ XXXVI. Jefe de Gobierno: La persona titular de la Jefatura de Gobierno de la Ciu
 
 XXXVII. Largo Plazo: Periodo que comprende más de 6 años;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
-XXXVIII. Ley: Ley de Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos en la Ciudad de México;
+XXXVIII. Ley: Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos en la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
 
@@ -170,9 +174,9 @@ XLIII. Mediano Plazo: Periodo que comprende más de 3 y hasta 6 años;
 
 XLIV. Metodología del Marco Lógico: Es la herramienta de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
-XLV. Órganos Autónomos: Los Órganos Autónomos que establece la Constitución Política de la Ciudad de México;
+XLV. Organismos Autónomos: Los Organismos Autónomos que establece la Constitución Política de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
 
@@ -190,13 +194,13 @@ XLVIII. Plan General de Desarrollo: Plan General de Desarrollo de la Ciudad de M
 
 XLIX. Poder Ejecutivo: La persona titular de la Jefatura de Gobierno de la Ciudad de México;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
-L. Poder Judicial: El Tribunal Superior de Justicia;
+L. Poder Judicial: El Tribunal Superior de Justicia de la Ciudad de México, que incluye al Consejo de la Judicatura de la Ciudad de México, como su órgano técnico;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
-LI. Poder Legislativo: El Congreso de la Ciudad de México;
+LI. Poder Legislativo: El Congreso de la Ciudad de México, que incluye a la Auditoría Superior de la Ciudad de México, como su órgano técnico;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
@@ -262,9 +266,9 @@ LXVI. Proyecto de Presupuesto: Documento que elabora, integra y consolida la Sec
 
 LXVII. Proyectos de Inversión: Acciones realizadas por las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades, que son registradas en la cartera de proyectos de inversión que administra la Secretaría, que implican erogaciones de gasto de capital y que son destinadas a la adquisición de activos requeridos para atender una necesidad o problemática pública específica; el desarrollo de proyectos específicos y la construcción, adquisición y modificación de inmuebles, así como las rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
-LXVIII. Reglamento Interior: Reglamento Interior del Poder Ejecutivo de la Ciudad de México;
+LXVIII. Reglamento Interior: Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
@@ -318,9 +322,9 @@ LXXX. Tesorería: Tesorería de la Ciudad de México;
 
 LXXXI. Transversalidad de la perspectiva de género: Incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
-LXXXII. Unidades Responsables del Gasto: Órganos Autónomos y de Gobierno, Dependencias, Órganos Desconcentrados, Alcaldías y Entidades y cualquier otro órgano o unidad que realicen erogaciones con cargo al Presupuesto de Egresos.
+LXXXII. Unidades Responsables del Gasto: Al Poder Legislativo, Poder Judicial, Organismos Autónomos, Dependencias, Órganos Desconcentrados, Alcaldías y Entidades y cualquier otro órgano o unidad que realicen erogaciones con cargo al Presupuesto de Egresos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -340,9 +344,11 @@ Los sujetos obligados, emitirán las disposiciones administrativas generales en 
 
 La austeridad no podrá ser invocada para justificar la restricción, disminución o supresión de programas sociales, a excepción de que exista una evaluación del impacto presupuestario que acredite un dispendio de recursos con relación al beneficio que otorgue el programa social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2021)</small>
+
 ###### Artículo 5.
 
-La Secretaría interpretará para efectos administrativos las disposiciones de esta Ley y establecerá para las Dependencias, Alcaldías, Entidades y Órganos Desconcentrados, con la participación de la Secretaría de la Contraloría, en el ámbito de su competencia, las medidas conducentes para aplicar correctamente lo dispuesto en esta Ley y en su Reglamento, así como en la normatividad en materia de disciplina financiera y contabilidad gubernamental.
+La Secretaría interpretará para efectos administrativos las disposiciones de esta Ley y establecerá para las Dependencias, Alcaldías, Entidades y Órganos Desconcentrados, con la participación de la Secretaría de la Contraloría, en el ámbito de su competencia, las medidas conducentes para aplicar correctamente lo dispuesto en esta Ley y en su Reglamento, así como en la normatividad en materia de disciplina financiera y contabilidad gubernamental. En el caso del Poder Legislativo, Poder Judicial y Organismos Autónomos, sus respectivas unidades de administración podrán establecer las medidas conducentes para interpretar y aplicar correctamente lo dispuesto en esta Ley, las cuales para su vigencia deberán publicarse en la Gaceta.
 
 En el caso de los Órganos Autónomos y de Gobierno, sus respectivas unidades de administración podrán establecer las medidas conducentes para interpretar y aplicar correctamente lo dispuesto en esta Ley, las cuales para su vigencia deberán publicarse en la Gaceta.
 
@@ -354,9 +360,11 @@ El gasto público en la Ciudad de México, se basará en el Presupuesto de Egres
 
 Las Unidades Responsables del Gasto están obligadas a rendir cuentas por la administración de los recursos públicos en los términos de la presente Ley y de las demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2021)</small>
+
 ###### Artículo 7.
 
-La autonomía presupuestaria y de gestión otorgada a los Órganos Autónomos y de Gobierno a través de la Constitución Política de los Estados Unidos Mexicanos, en su caso, de disposición expresa contenida en las respectivas leyes de su creación, comprende:
+La autonomía presupuestaria y de gestión otorgada al Poder Legislativo, Poder Judicial y Organismos Autónomos a través de la Constitución Política de los Estados Unidos Mexicanos, en su caso, de disposición expresa contenida en las respectivas leyes de su creación, comprende:
 
 I. Aprobar sus proyectos de presupuesto y enviarlos a la Secretaría para su integración al proyecto de Presupuesto de Egresos, observando las previsiones de ingresos que les comunique la Secretaría y los criterios generales en los cuales se fundamente el Decreto;
 
@@ -376,11 +384,15 @@ V. Llevar contabilidad y elaborar los informes correspondientes, en términos de
 
 VI. Emitir, de conformidad con la Ley en la materia vigente en la Ciudad de México, las políticas, bases y lineamientos en materia de adquisiciones, arrendamiento de bienes muebles y prestación de servicios, sujetándose a sus propios órganos de control para la verificación de los procedimientos y destino y uso de estos.
 
-Los Órganos Autónomos y de Gobierno deberán publicar trimestralmente en su página de internet y en la Gaceta los ingresos del periodo distintos a las transferencias del Gobierno de la Ciudad de México, incluyendo sus rendimientos financieros, el destino y saldo de los fideicomisos en los que participen, en los términos de las disposiciones generales aplicables.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+El Poder Legislativo, Poder Judicial y los Organismos Autónomos deberán publicar trimestralmente en su página de internet y en la Gaceta los ingresos del periodo distintos a las transferencias del Gobierno de la Ciudad de México, incluyendo sus rendimientos financieros, el destino y saldo de los fideicomisos en los que participen, en los términos de las disposiciones generales aplicables.
 
 La información a que se refiere el párrafo anterior deberá remitirse a la Secretaría para su integración en los informes trimestrales y en la Cuenta Pública.
 
-Los Órganos Autónomos y de Gobierno deberán seguir en lo conducente las disposiciones de esta Ley, de las leyes de su creación y demás normatividad aplicable en la materia.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+El Poder Legislativo, Poder Judicial y los Organismos Autónomos deberán seguir en lo conducente las disposiciones de esta Ley, de las leyes de su creación y demás normatividad aplicable en la materia.
 
 ###### Artículo 8.
 
@@ -416,13 +428,19 @@ La persona titular de la Jefatura de Gobierno, a través de la Secretaría, info
 
 Podrán incluirse las obligaciones derivadas de los convenios de seguridad social entre el Gobierno Federal y la Administración Pública.
 
-En el caso de las Entidades, Órganos Autónomos y de Gobierno, éstos deberán garantizar en su presupuesto el cumplimiento de estas obligaciones de seguridad social.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+En el caso de las Entidades, el Poder Legislativo, Poder Judicial y Organismos Autónomos, éstos deberán garantizar en su presupuesto el cumplimiento de estas obligaciones de seguridad social.
 
 En caso de que no cubran los adeudos en los plazos correspondientes y se hayan agotado los procesos de conciliación de pagos en los términos y condiciones que establezca la Ley Federal en la materia, la Secretaría queda facultada para enterar los recursos a la autoridad federal competente y afectar directamente el presupuesto que les autorice el Congreso por el equivalente a las cantidades adeudadas, a fin de no afectar las participaciones de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
 ###### Artículo 9.
 
-Cuando derivado del incumplimiento de obligaciones directamente atribuibles a las Unidades Responsables del Gasto, la Federación realice una afectación en las participaciones en ingresos federales que le asigna a la Ciudad de México, las Dependencias, Órganos Desconcentrados, Alcaldías, Entidades, Órganos de Gobierno y Autónomos que lo hayan generado, deberán realizar el ajuste correspondiente a su presupuesto conforme a lo que determine la Secretaría.
+Cuando derivado del incumplimiento de obligaciones directamente atribuibles a las Unidades Responsables del Gasto, la Federación realice una afectación en las participaciones en ingresos federales que le asigna a la Ciudad de México, las Dependencias, Órganos Desconcentrados, Alcaldías, Entidades, Poder Legislativo, Poder Judicial y
+
+Organismos Autónomos que lo hayan generado, deberán realizar el ajuste correspondiente a su presupuesto conforme a lo que determine la Secretaría.
 
 ###### Artículo 10.
 
@@ -432,7 +450,9 @@ Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades incorporarán
 
 Asimismo, respecto de los registros contables y la información financiera, éstos quedaran regulados en el Libro Segundo de la presente Ley.
 
-Los Órganos Autónomos y de Gobierno coordinarán con la Secretaría la instrumentación del sistema en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+El Poder Legislativo, Poder Judicial y los Organismos Autónomos coordinarán con la Secretaría la instrumentación del sistema en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -530,7 +550,9 @@ III. Que las personas servidoras públicas, en la aplicación de los programas, 
 
 Son fideicomisos públicos los que constituya el Gobierno de la Ciudad de México por conducto de la Secretaría en su carácter de fideicomitente único de la Administración Pública. Los fideicomisos públicos tendrán como propósito auxiliar a la persona titular de la Jefatura de Gobierno o a las personas titulares de las Alcaldías, mediante la realización de actividades prioritarias o de las funciones que legalmente les corresponden.
 
-Se asimilarán a los fideicomisos públicos en términos de transparencia y rendición de cuentas, aquellos que constituyan los Órganos Autónomos y de Gobierno a los que se les asignen recursos del Presupuesto de Egresos.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+Se asimilarán a los fideicomisos públicos en términos de transparencia y rendición de cuentas, aquellos que constituya el Poder Legislativo, el Poder Judicial y los Organismos Autónomos a los que se les asignen recursos del Presupuesto de Egresos.
 
 Los fideicomisos públicos y los que se asimilen a éstos, deberán registrarse ante la Secretaría en los términos y condiciones que se establecen en la presente Ley y su Reglamento
 
@@ -546,9 +568,11 @@ Cuando los fideicomisos públicos no cuenten con la autorización y registro de 
 
 Cuando se extingan los fideicomisos públicos a que se refiere esta Ley, los recursos financieros deberán enterarse a la Secretaría
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2021)</small>
+
 ###### Artículo 17.
 
-A fin de asegurar la transparencia y rendición de cuentas, los Órganos Autónomos y de Gobierno deberán publicar trimestralmente en su página de internet y en la Gaceta, sus ingresos incluyendo los rendimientos financieros, egresos, destino y saldo de cualquier fideicomiso en los que participen.
+A fin de asegurar la transparencia y rendición de cuentas, el Poder Legislativo, Poder Judicial y los Organismos Autónomos deberán publicar trimestralmente en su página de internet y en la Gaceta, sus ingresos incluyendo los rendimientos financieros, egresos, destino y saldo de cualquier fideicomiso en los que participen.
 
 Asimismo, deberán informar a la Secretaría, el ejercicio de los recursos públicos aportados a dichos fideicomisos, para efectos de la Cuenta Pública.
 
@@ -618,7 +642,9 @@ En el caso de que la contingencia represente una reducción que supere el 5% de 
 
 El Congreso, en un plazo de 10 días hábiles a partir de la recepción de la propuesta, la analizará con el fin de proponer en su caso, modificaciones en el marco de las disposiciones generales aplicables y la información disponible. La persona titular de la Jefatura de Gobierno, a través de la Secretaría, con base en la opinión del Congreso, resolverá lo conducente informando de ello a la misma.
 
-En caso de que el Congreso no emita opinión dentro de dicho plazo, será procedente la propuesta enviada por la persona titular de la Jefatura de Gobierno. Los Órganos Autónomos y de Gobierno, de conformidad con las disposiciones de esta Ley deberán coadyuvar al cumplimiento de las normas de disciplina y de equilibro presupuestarios a que se refiere el presente artículo y esta Ley, a través de ajustes en sus respectivos presupuestos. Asimismo, deberán reportar los ajustes realizados en el informe trimestral y en la Cuenta Pública.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+En caso de que el Congreso no emita opinión dentro de dicho plazo, será procedente la propuesta enviada por la persona titular de la Jefatura de Gobierno. El Poder Legislativo, Poder Judicial y los Organismos Autónomos, de conformidad con las disposiciones de esta Ley deberán coadyuvar al cumplimiento de las normas de disciplina y de equilibro presupuestarios a que se refiere el presente artículo y esta Ley, a través de ajustes en sus respectivos presupuestos. Asimismo, deberán reportar los ajustes realizados en el informe trimestral y en la Cuenta Pública.
 
 Para el caso de las Alcaldías, la Secretaría se coordinará con éstas, para que en el ámbito de sus respectivas competencias, analicen, autoricen y apliquen las medidas de disciplina y equilibrio presupuestal que plantee la persona titular de la Jefatura de Gobierno.
 
@@ -628,9 +654,13 @@ Para el caso de las Alcaldías, la Secretaría se coordinará con éstas, para q
 
 Cuando la disminución en los ingresos previstos en el calendario mensual de recaudación se presente de manera concurrente con una emergencia sanitaria o desastre natural, la persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, únicamente durante el ejercicio fiscal en el que duren estos supuestos, aplicará las medidas de disciplina y equilibrio presupuestario, ordenando a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades llevar a cabo las reducciones a su presupuesto de egresos en los rubros de gasto que no constituyan un subsidio entregado directamente a la población, a efecto de salvaguardar el interés social y público de la Ciudad, debiendo observar en todo momento la ética, la austeridad republicana, la transparencia, la responsabilidad y la rendición de cuentas. En caso de no hacerlo, la Secretaría estará facultada para realizar las adecuaciones necesarias.
 
-Para el caso de los Poderes Legislativo, Judicial y los Órganos Autónomos, éstos se deberán coordinar con la Secretaría para que aprueben, en un plazo máximo de 10 días naturales las adecuaciones a su presupuesto.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
-En caso de que los Poderes Legislativo, Judicial y los Órganos Autónomos no realicen las adecuaciones a sus presupuestos o no resulten suficientes, la persona titular de la Jefatura de Gobierno enviará al Congreso Local la iniciativa con el monto a reducir en el Decreto de Presupuesto de Egresos, para que por conducto de la Comisión de Presupuesto y Cuenta Pública se examine, discuta y, en su caso, apruebe o modifique en un plazo de 15 días hábiles a partir del día siguiente al de su recepción.
+Para el caso de los Poderes Legislativo, Judicial y los Organismos Autónomos, éstos se deberán coordinar con la Secretaría para que aprueben, en un plazo máximo de 10 días naturales las adecuaciones a su presupuesto.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+En caso de que los Poderes Legislativo, Judicial y los Organismos Autónomos no realicen las adecuaciones a sus presupuestos o no resulten suficientes, la persona titular de la Jefatura de Gobierno enviará al Congreso Local la iniciativa con el monto a reducir en el Decreto de Presupuesto de Egresos, para que por conducto de la Comisión de Presupuesto y Cuenta Pública se examine, discuta y, en su caso, apruebe o modifique en un plazo de 15 días hábiles a partir del día siguiente al de su recepción.
 
 Si la Comisión respectiva no emitiera el dictamen, la iniciativa deberá presentarse en el pleno para su discusión y análisis en los términos como fue presentada.
 
@@ -688,9 +718,9 @@ I. Las actividades que deberán realizar las Dependencias, Órganos Desconcentra
 
 II. Las previsiones de gasto público para cubrir los recursos humanos, materiales, financieros y de otra índole, necesarios para el desarrollo de las actividades señaladas en la fracción anterior;
 
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
-III. Las actividades y sus respectivas previsiones de gasto público correspondiente a los Órganos Autónomos y de Gobierno; y
+III. Las actividades y sus respectivas previsiones de gasto público correspondiente al Poder Legislativo, Poder Judicial y Organismos Autónomos; y
 
 IV. Las previsiones de gasto público para cubrir los recursos humanos, materiales, financieros y de otra índole, necesarios para la operación y el cumplimiento de los Programas Presupuestarios.
 
@@ -950,9 +980,13 @@ XII. Estimación de los ingresos y gastos del ejercicio fiscal en curso;
 
 XIII. Los montos de endeudamiento propuestos al Congreso de la Unión;
 
-XIV. Los proyectos de Presupuesto de Egresos de los Órganos Autónomos especificando los montos de los recursos públicos que sometan a consideración del Congreso;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
-XV. Los montos de los recursos públicos que correspondan a los Órganos de Gobierno;
+XIV. Los proyectos de Presupuesto de Egresos de los Organismos Autónomos especificando los montos de los recursos públicos que sometan a consideración del Congreso;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+XV. Los montos de los recursos públicos que correspondan al Poder Legislativo y al Poder Judicial;
 
 XVI. La propuesta de monto para el Fondo Adicional de Financiamiento de las Alcaldías mandatado en la Constitución Local, así como su propuesta de distribución entre las Alcaldías, conforme a los criterios de población, marginación, infraestructura y equipamiento urbano;
 
@@ -964,13 +998,15 @@ XVIII. Analítico de plazas;
 
 XIX. Catálogo de Unidades Responsables; y
 
-XX. En general, toda la información presupuestal que se considere útil para sustentar el proyecto en forma clara y completa
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
-La Secretaría podrá solicitar a las Unidades Responsables del Gasto toda la información que considere necesaria para la elaboración del Presupuesto de Egresos a que se refiere este capítulo, respetando la autonomía presupuestaria y de gestión de los Órganos de Gobierno y Autónomos, conforme a esta Ley.
+XX. En general, toda la información presupuestal que se considere útil para sustentar el proyecto en forma clara y completa La Secretaría podrá solicitar a las Unidades Responsables del Gasto toda la información que considere necesaria para la elaboración del Presupuesto de Egresos a que se refiere este capítulo, respetando la autonomía presupuestaria y de gestión del Poder Legislativo, Poder Judicial y Organismos Autónomos, conforme a esta Ley.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 48.
 
-Los Órganos Autónomos y de Gobierno presentarán a la Secretaría sus proyectos de presupuesto, a efecto de integrarlos al proyecto de Presupuesto de Egresos, a más tardar 10 días naturales antes de la fecha de presentación del mismo. Su proyecto de presupuesto deberá incorporar perspectiva de derechos humanos.
+El Poder Legislativo, Poder Judicial y Organismos Autónomos presentarán a la Secretaría sus proyectos de presupuesto, a efecto de integrarlos al proyecto de Presupuesto de Egresos, a más tardar 10 días naturales antes de la fecha de presentación del mismo. Su proyecto de presupuesto deberá incorporar perspectiva de derechos humanos.
 
 > <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -998,11 +1034,11 @@ Las Unidades Responsables del Gasto deberán contar con sistemas de control pres
 
 La Secretaría emitirá las reglas de carácter general para los procedimientos del ejercicio presupuestal, con apego a lo dispuesto en esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 52.
 
-Las personas titulares de las Dependencias, Órganos Desconcentrados, Alcaldías, Entidades, Órganos de Gobierno y Autónomos de la Ciudad de México, así como las personas servidoras públicas adscritos a estas Unidades Responsables del Gasto encargados de la administración de los recursos asignados, que ejerzan recursos aprobados en el Decreto, tendrán la obligación de cubrir las contribuciones, aprovechamientos y productos federales y locales correspondientes y, en su caso, sus accesorios, con cargo a sus presupuestos de conformidad con las disposiciones aplicables.
+Las personas titulares de las Dependencias, Órganos Desconcentrados, Alcaldías, Entidades, Poder Legislativo, Poder Judicial y Organismos Autónomos de la Ciudad de México, así como las personas servidoras públicas adscritos a estas Unidades Responsables del Gasto encargados de la administración de los recursos asignados, que ejerzan recursos aprobados en el Decreto, tendrán la obligación de cubrir las contribuciones, aprovechamientos y productos federales y locales correspondientes y, en su caso, sus accesorios, con cargo a sus presupuestos de conformidad con las disposiciones aplicables.
 
 Para el caso de las Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, las operaciones se consolidarán y se contabilizarán en el sector central, para tal efecto, las Entidades deberán ajustarse a las disposiciones establecidas en esta Ley, en lo que a Dependencias, Órganos Desconcentrados y Alcaldías se refiere.
 
@@ -1110,7 +1146,9 @@ IV. Cumplir con lo establecido en esta Ley.
 
 Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que efectúen gasto público con cargo al Presupuesto de Egresos estarán obligados a proporcionar a la Secretaría la información que les solicite.
 
-En los casos de los Órganos Autónomos y de Gobierno, a fin de garantizar la transparencia y rendición de cuentas enviarán a la Secretaría la información correspondiente para la integración de los informes a que se refiere esta Ley.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+En los casos del Poder Legislativo, Poder Judicial y Organismos Autónomos, a fin de garantizar la transparencia y rendición de cuentas enviarán a la Secretaría la información correspondiente para la integración de los informes a que se refiere esta Ley.
 
 ###### Artículo 63.
 
@@ -1164,7 +1202,9 @@ El manejo financiero de los recursos recibidos por concepto de transferencias y 
 
 La Secretaría atenderá las solicitudes de pago o de fondos que las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades autoricen con cargo a sus presupuestos para el financiamiento de sus funciones, en razón de sus disponibilidades financieras y conforme al calendario presupuestal previamente aprobado.
 
-Por lo que hace a los órganos de gobierno y autónomos, la Secretaría ministrará los fondos autorizados el Congreso, conforme el calendario financiero previamente aprobado, en términos de lo dispuesto en esta Ley.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+Por lo que hace al Poder Legislativo, Poder Judicial y Organismos Autónomos, la Secretaría ministrará los fondos autorizados el Congreso, conforme el calendario financiero previamente aprobado, en términos de lo dispuesto en esta Ley.
 
 > <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1258,19 +1298,19 @@ Las unidades responsables del gasto que por cualquier motivo al término del eje
 
 De los remanentes a los que se refieren los párrafos anteriores, se destinará como mínimo una cantidad equivalente al 30% del total, a un fondo para estabilizar los recursos presupuestales de las Dependencias, Entidades, Órganos Desconcentrados y Alcaldías, el cual será destinado a la atención de contingencias y emergencias epidemiológicas y de desastres naturales; así como a mejorar el balance fiscal, de conformidad con las reglas que para tal efecto emita la Secretaría.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO ESTE PÁRRAFO], G.O. 23 DE ENERO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 23 DE ENERO DE 2020)</small>
 
 Una vez que el fondo alcance el valor equivalente al 0.50% del PIB de la Ciudad de México del año inmediato anterior, los excedentes del fondo podrán ser destinados conforme a lo siguiente:
 
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 a) Proyectos de infraestructura, hasta por un cincuenta por ciento.
 
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 b) Proyectos ambientales, hasta por un treinta por ciento.
 
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 c) Proyectos de infraestructura peatonal y ciclista en las Alcaldías, hasta por un veinte por ciento. Los proyectos deberán ser presentados para la aprobación de la Secretaría y se ejecutarán bajo un esquema de coinversión por medio del cual las Alcaldías aportarán un peso por cada uno que se obtenga del Fondo. La ejecución del proyecto estará a cargo de la Alcaldía correspondiente.
 
@@ -1278,7 +1318,9 @@ c) Proyectos de infraestructura peatonal y ciclista en las Alcaldías, hasta por
 
 La Secretaría deberá emitir las Reglas de Operación del Fondo para estabilizar los recursos presupuestales de las Dependencias, Entidades, Órganos Desconcentrados y Alcaldías dentro de los primeros quince días del mes de enero del respectivo ejercicio fiscal.
 
-Los Órganos de Gobierno deberán informar al Congreso dentro de los primeros 5 días de enero de cada año, los fondos presupuestales o recursos provenientes del Gobierno de la Ciudad de México y, en su caso, los rendimientos obtenidos, que al término del ejercicio anterior conserven. Asimismo, deberán informar al Congreso los recursos remanentes del ejercicio fiscal anterior, así como proponerle su aplicación y destino a más tardar el 5 de marzo siguiente.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+El Poder Legislativo y el Poder Judicial deberán informar al Congreso dentro de los primeros 5 días de enero de cada año, los fondos presupuestales o recursos provenientes del Gobierno de la Ciudad de México y, en su caso, los rendimientos obtenidos, que al término del ejercicio anterior conserven. Asimismo, deberán informar al Congreso los recursos remanentes del ejercicio fiscal anterior, así como proponerle su aplicación y destino a más tardar el 5 de marzo siguiente.
 
 El Congreso o cuando ésta (sic) se encuentre en receso, su órgano competente, deberá resolver lo conducente en un plazo que no excederá de quince días naturales y, de no ser así, se considerará como parte del presupuesto, por lo que serán descontados de las ministraciones que se les realicen, de conformidad con lo dispuesto por esta Ley. Para tal efecto, el Congreso comunicará a la Secretaría lo que resuelva al respecto.
 
@@ -1324,7 +1366,9 @@ El Congreso, para autorizar la ampliación deberá tomar en cuenta que no se afe
 
 Las garantías que se otorguen ante autoridades judiciales y las que reciban las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades por licitaciones o adjudicaciones de obras, adquisiciones, contratos administrativos, anticipos, permisos, autorizaciones, concesiones, prórrogas y otras obligaciones de naturaleza no fiscal, se regirán por esta Ley y su Reglamento, así como por las disposiciones administrativas que expida la Secretaría.
 
-Los Órganos Autónomos y de Gobierno, por conducto de sus respectivas unidades de administración, establecerán en el ámbito de su competencia, los requisitos aplicables a las garantías que se constituyan a su favor.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+El Poder Legislativo, Poder Judicial y Organismos Autónomos, por conducto de sus respectivas unidades de administración, establecerán en el ámbito de su competencia, los requisitos aplicables a las garantías que se constituyan a su favor.
 
 ###### Artículo 84.
 
@@ -1410,9 +1454,11 @@ Cuando el ajuste alcance o rebase en forma acumulada el 10% del presupuesto anua
 
 Lo dispuesto en el párrafo anterior no será aplicable tratándose de emergencia sanitaria o desastre natural, en cuyo supuesto la persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, aplicará únicamente durante el ejercicio fiscal en el que duren estos supuestos, las modificaciones al contenido orgánico y financiero de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, informando al Congreso conforme lo señalado en el último párrafo del artículo 23 Bis de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2021)</small>
+
 ###### Artículo 89.
 
-Los Órganos Autónomos y de Gobierno, a través de sus respectivas unidades de administración, previa autorización de su órgano competente, podrán autorizar adecuaciones a sus respectivos presupuestos siempre que permitan un mejor cumplimiento de los objetivos de las funciones a su cargo, siempre y cuando, emitan las normas aplicables.
+El Poder Legislativo, Poder Judicial y Organismos Autónomos, a través de sus respectivas unidades de administración, previa autorización de su órgano competente, podrán autorizar adecuaciones a sus respectivos presupuestos siempre que permitan un mejor cumplimiento de los objetivos de las funciones a su cargo, siempre y cuando, emitan las normas aplicables.
 
 > <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1420,17 +1466,23 @@ Dichas adecuaciones, deberán ser informadas a la persona titular de la Jefatura
 
 ### CAPÍTULO IV. De la Disciplina Presupuestaria
 
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
 ###### Artículo 90.
 
-Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, así como los Órganos Autónomos y de Gobierno sin menoscabo de su autonomía, en el ejercicio de sus respectivos presupuestos, deberán tomar medidas para racionalizar el gasto destinado a las actividades administrativas y de apoyo, sin afectar el cumplimiento de las metas de las funciones aprobadas en el Decreto de Presupuesto de Egresos.
+Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, así como el Poder Legislativo, Poder Judicial y Organismos Autónomos, sin menoscabo de su autonomía, en el ejercicio de sus respectivos presupuestos, deberán tomar medidas para racionalizar el gasto destinado a las actividades administrativas y de apoyo, sin afectar el cumplimiento de las metas de las funciones aprobadas en el Decreto de Presupuesto de Egresos.
 
-Los recursos generados como resultado de la aplicación de dichas medidas deberán destinarse, en primer lugar a mitigar, en su caso, el déficit presupuestal de origen y, en segundo lugar, las funciones prioritarias del ejecutor de gasto que los genere, previa autorización de la Secretaría o de la instancia competente, tratándose de los Órganos Autónomos y de Gobierno.
+Los recursos generados como resultado de la aplicación de dichas medidas deberán destinarse, en primer lugar, a mitigar, en su caso, el déficit presupuestal de origen y, en segundo lugar, las funciones prioritarias del ejecutor de gasto que los genere, previa autorización de la Secretaría o de la instancia competente, tratándose del Poder Legislativo, Poder Judicial y Organismos Autónomos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 91.
 
-Esta Ley establece los criterios de economía y gasto eficiente que regirán para la elaboración, control y ejercicio anual del presupuesto que realicen las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y los Órganos Autónomos y de Gobierno. Se aplicará sin perjuicio de lo dispuesto por otros ordenamientos legales y de la Secretaría de la Contraloría, en el ámbito de su competencia, interpretará y vigilará su debida observancia para las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades.
+Esta Ley establece los criterios de economía y gasto eficiente que regirán para la elaboración, control y ejercicio anual del presupuesto que realicen las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, así como del Poder Legislativo, Poder Judicial y Organismos Autónomos. Se aplicará sin perjuicio de lo dispuesto por otros ordenamientos legales y de la Secretaría de la Contraloría, en el ámbito de su competencia, interpretará y vigilará su debida observancia para las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades.
 
-Los Órganos Autónomos y de Gobierno, respetando su autonomía, evaluarán y ajustarán dichos criterios con la finalidad de optimizar sus presupuestos.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+El Poder Legislativo, Poder Judicial y Organismos Autónomos, respetando su autonomía, evaluarán y ajustarán dichos criterios con la finalidad de optimizar sus presupuestos.
 
 Se establece como criterio de gasto eficiente, que toda adquisición tenga racionalidad económica, que sea necesaria, que cumpla un fin predeterminado, que no sea redundante y que su costo monetario sea inferior al beneficio que aporte.
 
@@ -1684,11 +1736,11 @@ Ninguna persona servidora pública podrá disponer de los servicios de escolta, 
 
 Será causa de responsabilidad administrativa de las personas servidoras públicas que no cumplan con lo establecido en el presente artículo.
 
-> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 113.
 
-Los Órganos de Gobierno y Autónomos ajustarán sus criterios de economía y gasto eficiente con el fin de que el sueldo de las personas servidoras públicas y funcionarias públicas no sea mayor al salario de la persona titular de la Jefatura de Gobierno de la Ciudad de México.
+El Poder Legislativo, Poder Judicial y Organismos Autónomos ajustarán sus criterios de economía y gasto eficiente con el fin de que el sueldo de las personas servidoras públicas y funcionarias públicas no sea mayor al salario de la persona titular de la Jefatura de Gobierno de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -2014,15 +2066,21 @@ Los recursos relacionados con los pagos que realicen las Dependencias, Órganos 
 
 Tratándose de garantías que deban constituirse en contratos de prestación de servicios a largo plazo, se estará a lo dispuesto por esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2021)</small>
+
 ###### Artículo 139.
 
-Los Órganos de Gobierno podrán contemplar en su anteproyecto de presupuesto, recursos para la celebración de proyectos y contratos de prestación de servicios a largo plazo.
+Los Poderes Legislativo y Judicial podrán contemplar en su anteproyecto de presupuesto, recursos para la celebración de proyectos y contratos de prestación de servicios a largo plazo.
 
-Los Órganos de Gobierno observarán en lo conducente una perspectiva de mediano y largo plazo con relación a los mecanismos de programación, presupuestación y pago de las obligaciones derivadas al amparo de un proyecto de prestación de servicios a largo plazo.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+Los Poderes Legislativo y Judicial observarán en lo conducente una perspectiva de mediano y largo plazo con relación a los mecanismos de programación, presupuestación y pago de las obligaciones derivadas al amparo de un proyecto de prestación de servicios a largo plazo.
 
 En consecuencia, tomarán en cuenta y se adecuarán a las líneas del Presupuesto Plurianual y la respectiva estrategia integral de inversión pública en infraestructura de la Ciudad de México.
 
-En caso de incumplimiento de las obligaciones de pago de proyectos y contratos de prestación de servicios a largo plazo por parte de los Órganos de Gobierno, la Secretaría podrá afectar directamente las ministraciones correspondientes al pago de las contraprestaciones derivadas de los proyectos, contratos de prestación de servicios a largo plazo que les correspondan al Órgano de Gobierno respectivo, conforme al presupuesto autorizado por el Congreso, hasta por el monto debido, sin perjuicio de las responsabilidades administrativas correspondientes.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+En caso de incumplimiento de las obligaciones de pago de proyectos y contratos de prestación de servicios a largo plazo por parte de los Poderes Legislativo y Judicial, la Secretaría podrá afectar directamente las ministraciones correspondientes al pago de las contraprestaciones derivadas de los proyectos, contratos de prestación de servicios a largo plazo que les correspondan al Poder respectivo, conforme al presupuesto autorizado por el Congreso, hasta por el monto debido, sin perjuicio de las responsabilidades administrativas correspondientes.
 
 ### CAPÍTULO III. De los proyectos de coinversión
 
@@ -2104,9 +2162,13 @@ La contabilidad gubernamental se sujetará a las disposiciones de la Ley General
 
 El desarrollo y operación del sistema contable para las Dependencias, Órganos Desconcentrados y Alcaldías, así como la emisión de la normatividad contable para efectos administrativos, estarán a cargo de la Secretaría. El desarrollo y operación de los sistemas de contabilidad de las Entidades, estará a cargo de las mismas y se requerirá la autorización del plan de cuentas por parte de la Secretaría.
 
-El desarrollo y operación de los sistemas de contabilidad de los Órganos de Gobierno y Autónomos, estarán a cargo de su órgano competente.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
-Las Entidades, así como los Órganos de Gobierno y Autónomos, serán responsables de que la información que emane de los documentos técnicos contables emitidos por el CONAC se encuentre considerada en sus sistemas de contabilidad
+El desarrollo y operación de los sistemas de contabilidad del Poder Legislativo, Poder Judicial y Organismos Autónomos, estarán a cargo de su órgano competente.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+Las Entidades, así como el Poder Legislativo, Poder Judicial y Organismos Autónomos, serán responsables de que la información que emane de los documentos técnicos contables emitidos por el CONAC se encuentre considerada en sus sistemas de contabilidad.
 
 ###### Artículo 152.
 
@@ -2124,9 +2186,9 @@ Los informes trimestrales deberán ser remitidos por la persona Titular de la Je
 
 La información contable financiera de aquellas Entidades que operen con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, será consolidada por la Secretaría.
 
-> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
-Los Órganos Autónomos y de Gobierno remitirán oportunamente los estados financieros e información a que se refiere el párrafo anterior al Congreso quien enviará por conducto de la Secretaría a la persona titular de la Jefatura de Gobierno para su incorporación, en capítulo por separado, a los Informes Trimestrales y Cuenta Pública.
+El Poder Legislativo, Poder Judicial y Organismos Autónomos remitirán oportunamente los estados financieros e información, a que se refiere el párrafo anterior, a la Secretaría para su incorporación, en capítulo por separado, a los Informes Trimestrales y Cuenta Pública.
 
 Dicha información deberá permitir el análisis de los resultados obtenidos en el año y comparación con las previsiones contenidas en el presupuesto de egresos del año de que se trate, respecto de:
 
@@ -2150,7 +2212,9 @@ La contabilidad de las operaciones deberá estar respaldada por los documentos j
 
 Será responsabilidad de las personas titulares de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, así como de las personas servidoras públicas encargados de su administración, la recepción, guarda, custodia y conservación de los documentos justificantes y comprobatorios del gasto, así como de los registros auxiliares e información relativa, y en el caso de las Entidades, de sus libros de contabilidad, en términos de las disposiciones aplicables.
 
-Los Órganos Autónomos y de Gobierno, definirán al interior las responsabilidades para dar cumplimiento a esta disposición, en los términos que aplique la presente Ley, así como la Ley General.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+El Poder Legislativo, Poder Judicial y Organismos Autónomos, definirán al interior las responsabilidades para dar cumplimiento a esta disposición, en los términos que aplique la presente Ley, así como la Ley General.
 
 ###### Artículo 155.
 
@@ -2166,9 +2230,11 @@ El plan de cuentas deberá permitir la armonización de la información contable
 
 Las Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, consolidarán y contabilizarán dichas operaciones en el Sector Central, para lo cual deberán ajustarse a las disposiciones que en esta materia establece la Ley para las Dependencias y Órganos Desconcentrados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2021)</small>
+
 ###### Artículo 158.
 
-La Secretaría, Entidades, Órganos de Gobierno y Autónomos contabilizarán las operaciones financieras y presupuestales en sus libros principales de contabilidad, que serán en su caso los denominados diario, mayor e inventarios y balances. Cuando el Sistema electrónico emita de forma impresa dichos libros, éstos tendrán la misma validez.
+La Secretaría, Entidades, el Poder Legislativo, Poder Judicial y Organismos Autónomos contabilizarán las operaciones financieras y presupuestales en sus libros principales de contabilidad, que serán en su caso los denominados diario, mayor e inventarios y balances. Cuando el Sistema electrónico emita de forma impresa dichos libros, éstos tendrán la misma validez.
 
 > <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -2354,7 +2420,9 @@ La Secretaría dará a conocer a las Unidades Responsables del Gasto de quienes 
 
 Con base en los estados financieros y demás información financiera, presupuestal y contable que emane de los registros de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades comprendidas en el Presupuesto de Egresos, la Secretaría integrará la Cuenta Pública y la someterá a la consideración de la persona titular de la Jefatura de Gobierno para su presentación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
 
-Las áreas competentes de los Órganos Autónomos y Órganos de Gobierno, remitirán a más tardar dentro de los primeros 3 días hábiles del mes de abril, la información presupuestaria, programática y contable, así como el Dictamen de Estados Financieros, conforme a los términos que establezca la persona titular de la Jefatura de Gobierno por conducto de la Secretaría para su integración a la Cuenta Pública de la Ciudad de México.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+Las áreas competentes del Poder Legislativo, Poder Judicial y Organismos Autónomos, remitirán a más tardar dentro de los primeros 3 días hábiles del mes de abril, la información presupuestaria, programática y contable, así como el Dictamen de Estados Financieros, conforme a los términos que establezca la persona titular de la Jefatura de Gobierno por conducto de la Secretaría para su integración a la Cuenta Pública de la Ciudad de México.
 
 ###### Artículo 170.
 
@@ -2466,9 +2534,11 @@ Toda persona servidora pública por motivo de su empleo, cargo o comisión en cu
 
 Los que no cumplan con alguna de las disposiciones previstas en esta Ley y en su Reglamento, serán sancionados en los términos de la Ley de Responsabilidades Administrativas de la Ciudad de México, con independencia de las responsabilidades de carácter civil, penal, laboral y/o resarcitoria.
 
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
 ###### Artículo 178.
 
-La Secretaría de la Contraloría a través de la contraloría interna, la Auditoría Superior y la instancia competente de cada Órgano de Gobierno y Órgano Autónomo ejercerán las atribuciones que conforme a su competencia les correspondan en materia de responsabilidades.
+La Secretaría de la Contraloría a través de la contraloría interna, la Auditoría Superior y la instancia competente en el Poder Legislativo, Poder Judicial y Organismos Autónomos ejercerán las atribuciones que conforme a su competencia les correspondan en materia de responsabilidades.
 
 ###### Artículo 179.
 
@@ -2643,3 +2713,13 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
 
 TERCERO. Las Unidades Responsables del Gasto tendrán un plazo de sesenta días hábiles a partir de la entrada en vigor de la presente reforma, para rotular todos y cada uno de sus vehículos oficiales.
+
+G.O. 9 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES XXII, XXIII,XXXVIII, XLV, L, LI, LXVIII, LXXXII; 5; 7, 8; 9; 10; 15; 17; 23; 23 BIS; 27; 47, FRACCIONES XIV,XV,XX; 48; 52; 62; 70; 80; 83; 89; 90; 91; 113; 139; 151; 153; 154; 158; 169 Y 178, TODOS DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- La normatividad que derive de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México, y que haga referencia a Órganos de Gobierno y Órganos Autónomos, se entenderán realizadas al Poder Legislativo, Poder Judicial y Organismos Autónomos, respectivamente y en términos del presente Decreto.
