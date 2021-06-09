@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2021-04-24"
+last_updated: "2021-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2021.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -1821,7 +1821,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- El Poder Ejecutivo del Estado de Chihuahua, a través del Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, a partir de la publicación del presente Decreto, contará con un plazo de 180 días naturales para publicar el Modelo Homologado de los Módulos de Atención a la Violencia Familiar y de Género.
 
-TERCERO.- Será prioritaria la instalación de Módulos de Atención a la Violencia Familiar y de Género en los municipios que no cuenten con ellos. Los Módulos de Atención ya instalados, tendrán la obligación de adecuar su operación al Modelo Homologado.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
+
+TERCERO.- Los Módulos de Atención a la Violencia Familiar y de Género ya instalados, tendrán la obligación de adecuar su operación al Modelo Homologado.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2021)</small>
+
+CUARTO.- El Congreso del Estado asignará de manera anual en el presupuesto de egresos, en las partidas presupuestales, lo suficiente para el cumplimiento del presente Decreto.
 
 P.O. 24 DE ABRIL DE 2021.
 
@@ -1844,3 +1850,9 @@ A efecto de dar cumplimiento al presente Decreto, se incorporarán las partidas 
 4. En el año 2024, se creará y operará la Unidad Regional Zona Noroeste.
 
 El personal asignado a la Fiscalía Especializada, así como a cada una de las Unidades Regionales podrá aumentarse gradualmente para establecer la estructura orgánica necesaria, conforme a la incidencia delictiva y la suficiencia presupuestal.
+
+P.O. 9 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVI/RFLYC/1019/2021 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA Y DEL DECRETO Nº LXVI/RFLYC/0749/2020 IX P.E.".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
