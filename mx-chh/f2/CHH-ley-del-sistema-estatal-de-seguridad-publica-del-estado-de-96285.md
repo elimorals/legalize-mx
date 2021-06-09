@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2021-02-27"
+last_updated: "2021-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2021.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -233,9 +233,9 @@ IX. Establecer, supervisar, utilizar y mantener actualizados los instrumentos de
 
 X. Coadyuvar con la Federación en la protección y vigilancia de las instalaciones estratégicas.
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2021)</small>
 
-X Bis. Implementar las instancias que operen bajo el Modelo Homologado de Módulos de Atención a la Violencia Familiar y de Género.
+X Bis. Promover la instalación de los Módulos de Atención a la Violencia Familiar y de Género en los municipios.
 
 XI. Prestar el auxilio necesario para hacer efectivas las resoluciones de las autoridades judiciales.
 
@@ -3995,4 +3995,16 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- El Poder Ejecutivo del Estado de Chihuahua, a través del Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, a partir de la publicación del presente Decreto, contará con un plazo de 180 días naturales para publicar el Modelo Homologado de los Módulos de Atención a la Violencia Familiar y de Género.
 
-TERCERO.- Será prioritaria la instalación de Módulos de Atención a la Violencia Familiar y de Género en los municipios que no cuenten con ellos. Los Módulos de Atención ya instalados, tendrán la obligación de adecuar su operación al Modelo Homologado.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
+
+TERCERO.- Los Módulos de Atención a la Violencia Familiar y de Género ya instalados, tendrán la obligación de adecuar su operación al Modelo Homologado.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2021)</small>
+
+CUARTO.- El Congreso del Estado asignará de manera anual en el presupuesto de egresos, en las partidas presupuestales, lo suficiente para el cumplimiento del presente Decreto.
+
+P.O. 9 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLYC/1019/2021 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA Y DEL DECRETO N° LXVI/RFLYC/0749/2020 IX P.E".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
