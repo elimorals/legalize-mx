@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2021-05-05"
+last_updated: "2021-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2021.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -3829,13 +3829,13 @@ Los municipios, a fin de lograr una mejor prestación de servicios públicos, y 
 
 En los municipios que se cuente con la figura de Administración de la Ciudad, la persona que ocupe su titularidad será responsable de la evaluación y supervisión de lo dispuesto por este artículo de conformidad a los reglamentos particulares de cada Municipio, con excepción de lo previsto en su fracción I.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
 
-Para efectos de la fracción I, del presente artículo, en relación con el artículo 40 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, los municipios deberán implementar los Módulos de Atención a la Violencia Familiar y de Género en sus demarcaciones territoriales, asignando para tal fin los recursos necesarios, y deberán privilegiar su instalación en los inmuebles destinados a la seguridad pública.
+Para efectos de la fracción I, del presente artículo, en relación con el artículo 40 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, los municipios implementarán progresivamente los Módulos de Atención a la Violencia Familiar y de Género en sus demarcaciones territoriales, asignando para tal fin los recursos necesarios; para ello, el Consejo Estatal de Seguridad Pública, con la participación del Instituto Chihuahuense de las Mujeres, determinará los municipios en que se habrán de instalar los Módulos de Atención a la Violencia Familiar y de Género, de conformidad con la propuesta debidamente sustentada en índices y estadísticas que presente el Instituto Chihuahuense de las Mujeres.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
 
-Los municipios podrán convenir con el Ejecutivo Estatal o con otros municipios para el correcto funcionamiento de los Módulos a los que se refiere el párrafo anterior. Así mismo, deberán convenir con la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, para adscribir a personal ministerial especializado en dichos Módulos.
+Para atender la violencia contra las mujeres, los Módulos podrán regionalizarse de tal manera que estos atiendan a dos o más municipios, en cuyo caso los municipios involucrados deberán convenir sobre la operación de los mismos. Los municipios donde ya operen los Centros de Justicia para las Mujeres impulsarán la instalación de áreas para atender y canalizar a dichos Centros a las personas que se estime sean víctimas de violencia familiar y de género.
 
 ###### ARTICULO 181.
 
@@ -5571,7 +5571,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- El Poder Ejecutivo del Estado de Chihuahua, a través del Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, a partir de la publicación del presente Decreto, contará con un plazo de 180 días naturales para publicar el Modelo Homologado de los Módulos de Atención a la Violencia Familiar y de Género.
 
-TERCERO.- Será prioritaria la instalación de Módulos de Atención a la Violencia Familiar y de Género en los municipios que no cuenten con ellos. Los Módulos de Atención ya instalados, tendrán la obligación de adecuar su operación al Modelo Homologado.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
+
+TERCERO.- Los Módulos de Atención a la Violencia Familiar y de Género ya instalados, tendrán la obligación de adecuar su operación al Modelo Homologado.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2021)</small>
+
+CUARTO.- El Congreso del Estado asignará de manera anual en el presupuesto de egresos, en las partidas presupuestales, lo suficiente para el cumplimiento del presente Decreto.
 
 P.O. 27 DE FEBRERO DE 2021.
 
@@ -5600,3 +5606,9 @@ P.O. 5 DE MAYO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVL/RFLYC/1019/2021 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA Y DEL DECRETO Nº LXVL/RFLYC/0749/2020 IX P.E.”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
