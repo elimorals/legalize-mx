@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vialidad-para-el-estado-libre-y-soberano-de-puebla-91334
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2021-01-22"
+last_updated: "2021-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2021.
 
 Ley publicada en la Décima Séptima Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -183,9 +183,9 @@ XXVII. Marcha: A cualquier desplazamiento de un conjunto de individuos por la vi
 
 XXVIII. Motociclistas: A los conductores de motonetas, bicicletas con motor de combustión interna y motocicletas de dos, tres o cuatro ruedas con transmisión de cadena o de flecha;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2021)</small>
 
-XXIX. Movilidad: Capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma;
+XXIX. Movilidad: Capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión, igualdad, equidad, modernidad e innovación tecnológica.
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
@@ -429,9 +429,9 @@ IV. Cumplir con las disposiciones de la presente Ley, su Reglamento y demás ord
 
 Los peatones tienen los siguientes derechos y obligaciones:
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2021)</small>
 
-l. Transitar en una movilidad urbana libre, segura, incluyente y accesible, así como de zonas seguras designadas para la misma; y a la disposición de áreas de aparcamiento que no afecten su fluidez;
+I. Transitar en una movilidad efectiva, en términos de ley, así como de zonas seguras designadas para la misma; y a la disposición de áreas de aparcamiento que no afecten su fluidez;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
@@ -916,6 +916,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 22 DE ENERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 19 DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXX DEL ARTÍCULO 3, LA FRACCIÓN I DEL 4, LAS FRACCIONES III Y XV DEL 16, EL SEGUNDO PÁRRAFO DEL 115 Y EL 118 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA; ASIMISMO REFORMA LA FRACCIÓN XXIX DEL ARTÍCULO 4, Y LA FRACCIÓN I DEL 18, DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
