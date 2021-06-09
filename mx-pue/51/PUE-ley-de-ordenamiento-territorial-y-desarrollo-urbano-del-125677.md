@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-125677"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-29"
-last_updated: "2021-04-09"
+last_updated: "2021-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2021.
 
 Ley publicada en la Décima Quinta Sección al Número 20 del Periódico Oficial de Puebla, el viernes 29 de diciembre de 2017.
 
@@ -137,7 +137,9 @@ Ordenamiento Territorial y Desarrollo Urbano;
 
 XXIX. Mejoramiento: La acción tendente a reordenar, renovar, consolidar y dotar de infraestructuras, equipamientos y servicios, las zonas de un centro de población de incipiente desarrollo, subutilizadas o deterioradas física o funcionalmente;
 
-XXX. Movilidad: La capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2021)</small>
+
+XXX. Movilidad: La capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión, igualdad, equidad, modernidad e innovación tecnológica.
 
 XXXI. Ordenamiento territorial: Es una política pública que tiene como objeto la ocupación y utilización racional del territorio como base espacial de las estrategias integrales;
 
@@ -179,7 +181,9 @@ XLIV. Zonificación secundaria: La determinación de los usos del suelo en un es
 
 La planeación, regulación y gestión de los asentamientos humanos, centros de población y la ordenación territorial, deben conducirse en apego a los siguientes principios de política pública:
 
-I. Accesibilidad universal y movilidad. Promover una adecuada accesibilidad universal que genere cercanía y favorezca la relación entre diferentes actividades urbanas, con medidas como la flexibilidad de usos del suelo compatibles y densidades sustentables, un patrón coherente de redes viales primarias, la distribución jerarquizada de los equipamientos y una efectiva movilidad que privilegie las calles completas, el transporte público, peatonal y no motorizado;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2021)</small>
+
+I. Accesibilidad universal y movilidad. Promover una adecuada accesibilidad universal que genere cercanía y favorezca la relación entre diferentes actividades urbanas, con medidas como la flexibilidad de usos del suelo compatibles y densidades sustentables, un patrón coherente de redes viales primarias, la distribución jerarquizada de los equipamientos y una movilidad asequible en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión, igualdad, equidad, modernidad e innovación tecnológica, que privilegie las calles completas, el transporte público alternativo, peatonal y no motorizado;
 
 II. Coherencia y racionalidad. Adoptar perspectivas que promuevan el ordenamiento territorial y el desarrollo urbano de manera equilibrada, armónica, racional y congruente, acorde a las políticas nacionales, planes y programas y políticas nacionales, estatales y municipales; así como procurar la eficiencia y transparencia en el uso de los recursos públicos;
 
@@ -385,7 +389,9 @@ I. Formular, aprobar, administrar, ejecutar y actualizar sus planes o programas 
 
 II. Solicitar al Ejecutivo del Estado, previa aprobación o modificación de los programas de desarrollo urbano regulados por esta Ley, el dictamen de congruencia con los planes o programas estatales de desarrollo urbano y ordenamiento territorial, y vigilar la misma, en la instrumentación de dichos programas;
 
-III. Formular y aplicar las políticas, así como realizar las acciones en materia de estructuración urbana, gestión del suelo, conservación del patrimonio natural y cultural y accesibilidad universal, incluyendo la movilidad;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2021)</small>
+
+III. Formular y aplicar las políticas, así como realizar las acciones en materia de estructuración urbana, gestión del suelo, conservación del patrimonio natural y cultural y accesibilidad universal, incluyendo la movilidad accesible, eficiente, sostenible, incluyente, equitativa, moderna, segura y de calidad;
 
 IV. Enviar al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado, los planes y Programas Municipales de Desarrollo Urbano y los reglamentos que expida en la materia;
 
@@ -409,7 +415,9 @@ XIII. Celebrar convenios de asociación con otros municipios y, en su caso, Esta
 
 XIV. Celebrar con la federación, el Estado, con otros municipios, o con los particulares, convenios y acuerdos de coordinación y concertación que apoyen los objetivos y prioridades previstos en los planes o programas municipales de desarrollo urbano, de centros de población y los demás que de éstos deriven;
 
-XV. Coordinar sus acciones con la Federación, con otras entidades federativas, sus municipios, según corresponda, para el ordenamiento territorial de los centros de población, la planeación del desarrollo urbano y desarrollo metropolitano; así como para la ejecución de acciones, obras e inversiones en materia de infraestructura, equipamiento y servicios urbanos, incluyendo las relativas a la movilidad y a la accesibilidad universal;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2021)</small>
+
+XV. Coordinar sus acciones con la Federación, con otras entidades federativas, sus municipios, según corresponda, para el ordenamiento territorial de los centros de población, la planeación del desarrollo urbano y desarrollo metropolitano, así como para la ejecución de acciones, obras e inversiones en materia de infraestructura, equipamiento y servicios urbanos, incluyendo las relativas a la movilidad, la accesibilidad universal y seguridad vial;
 
 XVI. Prestar los servicios públicos municipales, atendiendo a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla y la demás legislación aplicable;
 
@@ -1697,7 +1705,9 @@ La Secretaría promoverá la emisión de las normas, lineamientos y manuales par
 
 Para la accesibilidad universal de los habitantes a los servicios y satisfactores urbanos; las políticas de movilidad deberán asegurar y garantizar que las personas puedan elegir libremente la forma de trasladarse a fin de acceder a los bienes, infraestructura, servicios y oportunidades que ofrecen sus centros de población.
 
-Las políticas y programas para la movilidad serán parte del proceso de planeación de los asentamientos humanos.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
+
+Las políticas y programas para la movilidad serán parte del proceso de planeación de los asentamientos humanos las cuales deberán realizarse al amparo de los principios de accesibilidad, eficiencia, sostenibilidad, calidad, inclusión, igualdad, equidad, seguridad y modernidad.
 
 ###### ARTÍCULO 116.
 
@@ -1739,9 +1749,11 @@ II. La gestión de instrumentos en la materia, tales como: cargos por congestió
 
 III. La priorización, congruencia y eficacia en las inversiones públicas, considerando el nivel de vulnerabilidad de usuarios, las externalidades que genera cada modo de transporte y su contribución a la productividad de la colectividad.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 118.
 
-El Estado y los municipios deberán promover y priorizar en la población la adopción de nuevos hábitos de movilidad sustentable y prevención de accidentes, encaminados a mejorar las condiciones en que se realizan los desplazamientos de la población, lograr una sana convivencia en las calles, respetar el desplazamiento del peatón y su preferencia, prevenir conflictos de tránsito, desestimular el uso del automóvil particular, promover el uso intensivo del transporte público y no motorizado y el reconocimiento y respeto a la siguiente jerarquía: personas con movilidad limitada y peatones, usuarios de transporte no motorizado, usuarios del servicio de trasporte público de pasajeros, prestadores del servicio de trasporte público de pasajeros, prestadores del servicio de transporte de carga y usuarios de transporte particular.
+El Estado y los municipios deberán promover y priorizar en la población la adopción de nuevos hábitos de movilidad bajo los principios de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión, igualdad, equidad y modernidad, encaminados a la prevención de accidentes y a mejorar las condiciones en que se realizan los desplazamientos de la población, lograr una sana convivencia en las calles, respetar el desplazamiento del peatón y su preferencia, prevenir conflictos de tránsito, desestimular el uso del automóvil particular, promover el uso intensivo del transporte público y no motorizado y el reconocimiento y respeto a la siguiente jerarquía: personas con movilidad limitada y peatones, usuarios de transporte no motorizado, usuarios del servicio de trasporte público de pasajeros, prestadores del servicio de trasporte público de pasajeros, prestadores del servicio de transporte de carga y usuarios de transporte particular.
 
 ## TÍTULO OCTAVO. DE LOS INSTRUMENTOS NORMATIVOS Y DE CONTROL
 
@@ -2904,6 +2916,14 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 9 DE ABRIL DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 32 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXX DEL ARTÍCULO 3, LA FRACCIÓN I DEL 4, LAS FRACCIONES III Y XV DEL 16, EL SEGUNDO PÁRRAFO DEL 115 Y EL 118 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA; ASIMISMO REFORMA LA FRACCIÓN XXIX DEL ARTÍCULO 4, Y LA FRACCIÓN I DEL 18, DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
