@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-mitigacion-y-adaptacion-al-cambio-climatico-y-81715"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-16"
-last_updated: "2017-11-02"
+last_updated: "2021-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81715&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,13 @@ issue_date: "2011-06-15"
 ---
 # LEY DE MITIGACION Y ADAPTACION AL CAMBIO CLIMATICO Y DESARROLLO SUSTENTABLE PARA LA CIUDAD DE MEXICO -- ANTES LEY DE MITIGACION Y ADAPTACION AL CAMBIO CLIMATICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL --
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO Y ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO, PUBLICADOS EN LA G.O. DE 9 DE JUNIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE JUNIO DE 2021 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 16 de junio de 2011.
 
@@ -969,3 +971,25 @@ PRIMERO.- El presente Decreto entrará en vigor el 17 de septiembre de 2018, en 
 SEGUNDO.- El Jefe de Gobierno de la Ciudad de México contará con el plazo de un año, a partir de la entrada en vigor del presente Decreto, para modificar, de ser el caso, el Contrato de Fideicomiso identificado con el número 11023231, denominado “Fondo Ambiental Público del Distrito Federal”, de fecha 30 de noviembre de 2015, así como todos aquellos reglamentos y disposiciones administrativas que, en la esfera de su competencia, resulten aplicables.
 
 TERCERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 9 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA LA CIUDAD DE MÉXICO PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 16 DE JUNIO DE 2011 Y SE EXPIDE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga la Ley de Mitigación y Adaptación al Cambio Climático y Desarrollo Sustentable para la Ciudad de México, publicada en la Gaceta Oficial de la Ciudad de México del 16 de junio del 2011 y se derogan todas las demás disposiciones legales que se opongan a la presente Ley.
+
+CUARTO. La reglamentación de esta Ley deberá ser expedida dentro de los noventa días hábiles siguientes a la entrada en vigor de este ordenamiento.
+
+QUINTO. Dentro de los 180 días naturales siguientes a la entrada en vigor del presente, el Gobierno de la Ciudad de México expedirá las disposiciones necesarias para armonizar los instrumentos administrativos de su competencia al contenido de este decreto, en función de la suficiencia presupuestal.
+
+SEXTO. El Congreso de la Cuidad de México, otorgará la suficiencia presupuestal que, para tal efecto se asigne dentro del Presupuesto de Egresos, a fin de garantizar la operación de la presente Ley.
+
+SÉPTIMO. Con el objetivo de lograr la neutralidad en emisiones de carbono hacia el año 2050, la Administración Pública de la Ciudad de México en el ámbito de su competencia, implementará estrategias tendientes a promover en todos los sectores, acciones para mitigar la emisión de gases efecto invernadero y de adaptación al cambio climático, atendiendo al presupuesto de carbono previsto en la presente Ley.
+
+> <small>[N. DE E. SE TRANSCRIBE EL ARTÍCULO PRIMERO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. SE ABROGA LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA LA CIUDAD DE MÉXICO PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 16 DE JUNIO DE 2011.
