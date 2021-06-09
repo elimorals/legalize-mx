@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-137467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-31"
-last_updated: "2021-04-14"
+last_updated: "2021-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2019.
 
@@ -1123,9 +1123,17 @@ XIV. Fomentar, apoyar y coordinar los programas de investigación agropecuaria y
 
 XV. Coadyuvar con las autoridades competentes en el establecimiento y aprovechamiento de aguas pluviales y aguas de propiedad nacional y estatal, para el servicio de las actividades agropecuaria, pesca y acuacultura, así como para la realización de estudios y proyectos de construcción y conservación de obras de riego y drenaje, con la participación de los usuarios de riego;
 
-XVI. Promover la realización de congresos, ferias, exposiciones y concursos relacionados con el sector agroalimentario de la entidad, así como de otras actividades en beneficio del medio rural, y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2021)</small>
 
-XVII. Los demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XVI. Promover la realización de congresos, ferias, exposiciones y concursos relacionados con el sector agroalimentario de la entidad, así como de otras actividades en beneficio del medio rural;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2021)</small>
+
+XVII. Fomentar e implementar mecanismos que faciliten la protección y reproducción de los agentes polinizadores naturales, para la conservación e incremento de la biodiversidad, en coordinación con el sector agropecuario y con la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE JUNIO DE 2021)</small>
+
+XVIII. Los demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ### CAPÍTULO XI. DE LA SECRETARÍA DE INFRAESTRUCTURA
 
@@ -1607,6 +1615,10 @@ XXVIII. Establecer criterios, lineamientos, requisitos, especificaciones, condic
 
 XXIX. Realizar acciones para la protección y conservación de la vida silvestre y la biodiversidad en el estado, así como colaborar con las demás autoridades competentes en las acciones de protección, preservación y restauración del equilibrio ecológico y la protección de los sistemas acuáticos;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2021)</small>
+
+XXIX Bis. Instrumentar acciones encaminadas a la concientización y coordinación para el respeto y protección de los agentes polinizadores naturales en el sector agropecuario y en la sociedad en general;
+
 XXX. Coadyuvar con las autoridades competentes, en la conservación del patrimonio histórico, cultural, natural y paisajístico, así como respetar y hacer respetar su conservación en la ejecución de obras públicas y en los programas de ordenamiento territorial y desarrollo urbano;
 
 XXXI. Hacer del conocimiento de las autoridades competentes, y en su caso, denunciar, las infracciones o delitos que se cometan en las materias de su competencia;
@@ -2062,5 +2074,13 @@ P.O. 14 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 36 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XVI Y XVII DEL (SIC) 40, Y ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 40, Y LA FRACCIÓN XXIX BIS AL ARTÍCULO 47, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
