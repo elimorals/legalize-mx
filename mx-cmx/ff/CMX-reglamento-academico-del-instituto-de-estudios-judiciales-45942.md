@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-academico-del-instituto-de-estudios-judiciales-45942
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-01"
-last_updated: "2004-12-01"
+last_updated: "2021-06-09"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45942&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2004-10-27"
 ---
 # REGLAMENTO ACADEMICO DEL INSTITUTO DE ESTUDIOS JUDICIALES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO 11-18/ 2021 EMITIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, EN SESIÓN DE FECHA VEINTISIETE DE ABRIL DEL AÑO DOS MIL VEINTIUNO, POR EL QUE SE ESTABLECE EL REGLAMENTO ACADÉMICO DEL INSTITUTO DE ESTUDIOS JUDICIALES DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 9 DE JUNIO DE 2021, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS, INFORMACIÓN OBTENIDA DE: https://www.poderjudicialcdmx.gob.mx/wpcontent/uploads/Acuerdo_11_18_2021_Reglamento_Academico_IEJ_CJCDMX.pdf.]</small>
+
 REGLAMENTO ACADEMICO DEL INSTITUTO DE ESTUDIOS JUDICIALES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JUNIO DE 2021 (SIN EFECTOS).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 1 de diciembre de 2004.
 
@@ -761,3 +763,35 @@ LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 (Firma)
 
 LIC. MATILDE RAMÍREZ HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 9 DE JUNIO DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO POR EL QUE SE DAN A CONOCER LOS ENLACES ELECTRÓNICOS PARA CONSULTA, RELATIVOS A DIVERSOS AVISOS EMITIDOS POR EL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
+
+De conformidad con lo establecido en el artículo 217, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Ciudad de México, y en cumplimiento a lo ordenado en Acuerdo 11-18/2021, emitido por el Pleno del Consejo de la Judicatura de la Ciudad de México, en sesión ordinaria celebrada el día veintisiete de abril del año dos mil veintiuno, se hace del conocimiento de las y los servidores públicos del Poder Judicial de la Ciudad de México, litigantes y público en general que, este órgano colegiado determinó autorizar la expedición del:
+
+-“Reglamento del Servicio de Carrera Judicial del Poder Judicial de la Ciudad de México" Aviso publicado en el Boletín Judicial número 48, del Poder Judicial de la Ciudad de México, de fecha jueves seis de mayo de dos mil veintiuno, y que pueden ser consultado en la siguiente liga:
+
+https://www.poderjudicialcdmx.gob.mx/wpcontent/uploads/Aviso_11_18_2021_Reglamento_Servicio_CJPJCDMX.pdf
+
+-"Reglamento Interior del Instituto de Estudios Judiciales del Consejo de la Judicatura de la Ciudad de México" Aviso publicado en el Boletín Judicial número 48, del Poder Judicial de la Ciudad de México, de fecha jueves seis de mayo de dos mil veintiuno, y que pueden ser consultado en la siguiente liga:
+
+https://www.poderjudicialcdmx.gob.mx/wpcontent/uploads/Aviso_Acuerdo_11_18_2021_Reglamento_Interior_IEJCJCDMX.pdf
+
+-"Reglamento Académico del Instituto de Estudios Judiciales del Consejo de la Judicatura de la Ciudad de México”. Aviso publicado en el Boletín Judicial número 48, del Poder Judicial de la Ciudad de México, de fecha jueves seis de mayo de dos mil veintiuno, y que pueden ser consultado en la siguiente liga:
+
+https://www.poderjudicialcdmx.gob.mx/wpcontent/uploads/Acuerdo_11_18_2021_Reglamento_Academico_IEJ_CJCDMX.pdf
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.poderjudicialcdmx.gob.mx/wpcontent/uploads/Acuerdo_11_18_2021_Reglamento_Academico_IEJ_CJCDMX.pdf]</small>
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 11-18/ 2021 EMITIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, EN SESIÓN DE FECHA VEINTISIETE DE ABRIL DEL AÑO DOS MIL VEINTIUNO, POR EL QUE SE ESTABLECE EL REGLAMENTO ACADÉMICO DEL INSTITUTO DE ESTUDIOS JUDICIALES DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Boletín Judicial del Poder Judicial de la Ciudad de México y para su mayor difusión será publicado en el Portal de Internet del Poder Judicial de la Ciudad de México y en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se deja sin efectos el Reglamento Académico emitido por el Consejo de la Judicatura de la Ciudad de México mediante Acuerdo 1.8-51/2004 de sesión de fecha 27/10/2004, así como cualquier disposición administrativa que se oponga al presente Reglamento.
+
+TERCERO: Para propósitos del cumplimiento del mínimo de créditos bianuales señalados en el presente Reglamento, se contarán periodos de dos años calendario a partir de la entrada en vigor de este Reglamento. Durante el primer periodo bianual después de la entrada en vigor de este Reglamento, todas las personas integrantes se encuentran en cumplimiento del mínimo de créditos bianuales. A partir del mes veinticinco y en adelante, se contabilizarán los créditos obtenidos en los veinticuatro meses previos.
