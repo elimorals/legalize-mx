@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2021-02-27"
+last_updated: "2021-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2021.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -627,9 +627,9 @@ XIII. Convocar a los sectores de la sociedad para su integración al Sistema y e
 
 XIV. Cerciorarse que los refugios para la atención a mujeres víctimas de la violencia y centros de rehabilitación para agresores, cumplan con las especificaciones que las normas nacionales e internacionales exigen para la atención especializada a mujeres víctimas de violencia y de cualquier delito, así como dar parte a las autoridades correspondientes en caso de encontrar irregularidades graves que puedan ser constitutivas de un delito; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2021)</small>
 
-XV. Elaborar el Modelo Homologado de los Módulos de Atención a la Violencia Familiar y de Género.
+XV. Aprobar, a propuesta del Instituto Chihuahuense de las Mujeres, el Modelo Homologado para la operación de los Módulos de Atención a la Violencia Familiar y de Género.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE FEBRERO DE 2021)</small>
 
@@ -833,13 +833,13 @@ XVII. Exhortar a los medios de comunicación para que realicen jornadas de cero 
 
 XVIII. Promover la cultura de denuncia de la violencia contra las mujeres; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2021)</small>
 
-XIX. Coadyuvar en la elaboración del Modelo Homologado de Módulos de Atención a la Violencia Familiar y de Género.
+XIX. Elaborar la propuesta y, en su caso, las modificaciones del proyecto del Modelo Homologado de los Módulos de Atención a la Violencia Familiar y de Género.
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2021)</small>
 
-XX. Verificar que los Centros de Atención a la Violencia contra las Mujeres operen bajo el Modelo Homologado de Módulos de Atención a la Violencia Familiar y de Género.
+XX. Verificar que los Módulos de Atención a la Violencia Familiar y de Género operen bajo el Modelo Homologado.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE FEBRERO DE 2021)</small>
 
@@ -889,9 +889,9 @@ XV. Promover la cultura de denuncia de la violencia contra las mujeres;
 
 XVI. Implementar, en coordinación con las autoridades federales, en el ámbito de sus respectivas competencias, los programas, mecanismos y protocolos de seguridad, como el denominado Protocolo Alba, entre otros que tengan por objeto la localización inmediata de niñas, adolescentes y mujeres sustraídas, trasladadas o retenidas ilícitamente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2021)</small>
 
-XVII. Adscribir personal ministerial calificado y con perspectiva de género, atención a víctimas e interés superior de la niñez a las instancias que operen bajo el Modelo Homologado de Módulos de Atención a la Violencia Familiar y de Género, considerando las circunstancias y necesidades de cada lugar en donde se encuentren ubicados.
+XVII. Asignar personal ministerial a los Módulos de Atención a la Violencia Familiar y de Género, de acuerdo con las previsiones presupuestales que autorice el presupuesto de egresos cada año.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
@@ -987,9 +987,9 @@ II. Participar con las autoridades estatales en la conformación y consolidació
 
 III. Capacitar, con perspectiva de género, al personal del ayuntamiento y en especial a las personas que asisten a las víctimas de violencia, en coordinación con el Consejo;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2021)</small>
 
-IV. Realizar las acciones necesarias para el cumplimiento del programa, así como implementar y coadyuvar en la operación de los Módulos de Atención a la Violencia Familiar y de Género que trabajen, dentro de la infraestructura destinada a la Seguridad Pública del municipio.
+IV. Realizar las acciones necesarias para el cumplimiento del programa, así como implementar y coadyuvar en la operación de los Módulos de Atención a la Violencia Familiar y de Género que se implementen.
 
 V. Fomentar la creación de refugios para la atención de mujeres víctimas de violencia y centros de atención para agresores, de acuerdo con su capacidad presupuestal y financiera;
 
@@ -1099,31 +1099,27 @@ V. Evitar que la atención que reciban las víctimas y el agresor sea proporcion
 
 VI. Prohibir los acuerdos reparatorios, por ser inviables en una relación de sometimiento entre la víctima y el agresor.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JUNIO DE 2021)</small>
 
-### CAPÍTULO SEXTO BIS. DEL MODELO HOMOLOGADO DE MÓDULOS DE ATENCIÓN A LA VIOLENCIA FAMILIAR Y DE GÉNERO
+### CAPÍTULO SEXTO BIS. DE LOS MÓDULOS DE ATENCIÓN A LA VIOLENCIA FAMILIAR Y DE GÉNERO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2021)</small>
+
+Artículo 40 BIS. Los Módulos de Atención a la Violencia Familiar y de Género, deberán operar bajo el Modelo Homologado.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
-
-###### Artículo 40 Bis.
-
-Las instancias municipales o estatales que brinden atención integral a las víctimas de la violencia de género y violencia familiar, deberán operar bajo el Modelo Homologado de Módulos de Atención a la Violencia Familiar y de Género.
 
 El Consejo, deberá crear un comité para dar seguimiento, evaluación y monitoreo permanente a los Módulos de Atención a la Violencia Familiar y de Género, el cual contará con la participación de autoridades estatales y municipales, así como de organizaciones de la sociedad civil.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
 
-###### Artículo 40 Ter.
+Artículo 40 TER. Para garantizar que brinden un servicio integral a las mujeres y a las demás víctimas de la violencia de género, los Módulos de Atención a la Violencia Familiar y de Género otorgarán una atención transversal, multidisciplinaria, multicultural, enfocada a los derechos humanos y con perspectiva de género.
 
-Para garantizar que las instancias que operen bajo el Modelo Homologado de Módulos de Atención a la Violencia Familiar y de Género, otorguen una atención integral a las mujeres y a las demás víctimas de la violencia de género, cuando menos deberá de ser transversal, multidisciplinaria, multicultural, enfocada a los derechos humanos y con perspectiva de género.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+Artículo 40 QUÁTER. Las y los servidores públicos que laboren y brinden sus servicios en los Módulos de Atención a la Violencia Familiar y de Género, deberán contar con capacitación de perspectiva de género, atención a víctimas y de niñas, niños y adolescentes.
 
-###### Artículo 40 Quáter.
-
-Las y los servidores públicos que laboren y brinden atención bajo el Modelo Homologado, deberán contar con capacitación de perspectiva de género, atención a víctimas y de niñas, niños y adolescentes.
-
-Las personas adscritas a cualquier instancia que opere bajo el Modelo Homologado, generarán cualquier relación laboral únicamente con la institución de origen.
+Las personas adscritas a los Módulos de Atención a la Violencia Familiar y de Género, generarán relación laboral únicamente con la institución de origen.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
 
@@ -1139,15 +1135,15 @@ IV. Seguimiento.
 
 V. Revisión de resultados.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
 
-Artículo 40 Sextus.- Los Módulos de Atención deberán registrar la información respectiva de las víctimas en el Sistema Único a cargo del Consejo.
+Artículo 40 SEXTUS. Los Módulos de Atención a la Violencia Familiar y de Género, deberán llevar un registro de las víctimas.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
 
-Artículo 40 Septimus.- Los espacios destinados para la atención bajo el Modelo Homologado, deberán contar con la infraestructura necesaria que asegure un entorno de protección y privacidad para las víctimas.
+Artículo 40 SEPTIMUS. Los espacios destinados para la operación de los Módulos de Atención a la Violencia Familiar y de Género, deberán contar con la infraestructura necesaria que asegure un entorno de protección y privacidad para las víctimas.
 
-En la medida de las posibilidades, los Módulos de Atención a la Violencia Familiar y de Género se ubicarán físicamente en las instalaciones de seguridad pública en los municipios.
+En la medida de las posibilidades, los Módulos de Atención a la Violencia Familiar y de Género se ubicarán físicamente en las instalaciones que determinen los Ayuntamientos.
 
 ### CAPÍTULO SÉPTIMO. DE LOS REFUGIOS PARA LA ATENCIÓN A MUJERES VICTIMAS DE VIOLENCIA
 
@@ -1527,4 +1523,16 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- El Poder Ejecutivo del Estado de Chihuahua, a través del Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, a partir de la publicación del presente Decreto, contará con un plazo de 180 días naturales para publicar el Modelo Homologado de los Módulos de Atención a la Violencia Familiar y de Género.
 
-TERCERO.- Será prioritaria la instalación de Módulos de Atención a la Violencia Familiar y de Género en los municipios que no cuenten con ellos. Los Módulos de Atención ya instalados, tendrán la obligación de adecuar su operación al Modelo Homologado.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2021)</small>
+
+TERCERO.- Los Módulos de Atención a la Violencia Familiar y de Género ya instalados, tendrán la obligación de adecuar su operación al Modelo Homologado.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2021)</small>
+
+CUARTO.- El Congreso del Estado asignará de manera anual en el presupuesto de egresos, en las partidas presupuestales, lo suficiente para el cumplimiento del presente Decreto.
+
+P.O. 9 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLYC/1019/2021 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA Y DEL DECRETO NO. LXVI/RFLYC/0749/2020 IX P.E.”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
