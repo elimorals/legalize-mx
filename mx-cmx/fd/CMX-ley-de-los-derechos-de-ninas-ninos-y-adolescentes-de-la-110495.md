@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2021-05-07"
+last_updated: "2021-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE JUNIO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -454,7 +454,9 @@ XVIII. Derecho a la seguridad jurídica, acceso a la justicia y al debido proces
 
 XIX. Derecho a recibir protección especial cuando se encuentre en situación de discriminación múltiple; y
 
-XX. Derecho de acceso a la información y a las tecnologías de la información.
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+XX. Derecho de acceso a la información y a las tecnologías de la información y comunicación;
 
 > <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
 
@@ -1364,7 +1366,9 @@ XVI. Procurar la erradicación de las prácticas pedagógicas discriminatorias o
 
 XVII. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente, a través de campañas y acciones de concienciación (sic);
 
-XVIII. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+XVIII. Establecer mecanismos y programas; que fomenten el uso responsable, respetuoso y seguro de las tecnologías de información y comunicación; mismos que serán adaptados conforme a la edad y tomando en cuenta el grado de desarrollo cognoscitivo y evolutivo de niñas, niños y adolescentes;
 
 XIX. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional y;
 
@@ -1642,11 +1646,33 @@ VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, ni
 
 Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección.
 
-### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia o Cuidados Alternativos de Niñas, Niños y Adolescentes
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE JUNIO DE 2021)</small>
+
+### Capítulo Décimo Noveno. Derecho de Acceso a las Tecnologías de la Información y Comunicación
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+###### Artículo 88 Bis.
+
+Niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+###### Artículo 88 Ter.
+
+Las autoridades garantizarán a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento e impulsarán el uso de las tecnologías de la información y la comunicación mediante una política de inclusión digital universal y de conformidad con la Agenda Digital Educativa en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad, calidad. El reglamento y las reglas de operación determinarán los criterios para establecer las acciones y la progresividad de este derecho.
+
+Las autoridades correspondientes, rendirán un informe escrito anual ante la Comisión de Atención al Desarrollo de la Niñez del Congreso de la Ciudad de México, respecto de la situación que guarda el Derecho de Acceso a las Tecnologías de la información y la Comunicación de niñas, niños y adolescentes en la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2021)</small>
+
+###### Artículo 88 Quáter.
+
+Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del Internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables. Asimismo, tendrán derecho a recibir información suficiente y necesaria sobre el uso responsable, respetuoso y adecuado de las tecnologías.
 
 ## Título Tercero. De las Obligaciones
 
-### Capítulo Primero. De las autoridades
+### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia o Cuidados Alternativos de Niñas, Niños y Adolescentes
 
 ###### Artículo 89.
 
@@ -1676,9 +1702,17 @@ IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violen
 
 X. Considerar su opinión y preferencia para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
-XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación y;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
-XII. Promover y fomentar acciones libres de prejuicios, roles, estereotipos que denigren a las niñas, niños y las adolescentes.
+XI. Educar en el conocimiento, respeto y uso responsable de las tecnologías de la información y comunicación;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+XII. Promover y fomentar acciones libres de prejuicios, roles, estereotipos que denigren a las niñas, niños y las adolescentes; y
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+XIII. Sensibilizar sobre los riesgos y amenazas respecto del contenido generado al utilizar medios de comunicación digitales.
 
 En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, atendiendo a los principios rectores de esta Ley.
 
@@ -1724,7 +1758,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## Título Cuarto. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
-### Capítulo Segundo. Del Sistema de Protección Integral de Niñas, Niños y Adolescentes de la Ciudad de México
+### Capítulo Primero. De las autoridades
 
 ###### Artículo 97.
 
@@ -1890,7 +1924,7 @@ VIII. Habilitar albergues o espacios de alojamiento para recibir a niñas, niño
 
 IX. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
-### Capítulo Tercero. De los Sistemas de Protección de los órganos político administrativos
+### Capítulo Segundo. Del Sistema de Protección Integral de Niñas, Niños y Adolescentes de la Ciudad de México
 
 ###### Artículo 103.
 
@@ -2360,9 +2394,7 @@ El Programa deberá incluir líneas estratégicas específicas sobre las medidas
 
 El Programa de Protección Integral incluirá mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y será publicado en la Gaceta Oficial del Gobierno del Distrito Federal.
 
-### Capítulo Primero. De las Sanciones Administrativas
-
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2021)</small>
+### Capítulo Tercero. De los Sistemas de Protección de los órganos político administrativos
 
 ###### Artículo 127.
 
@@ -2384,9 +2416,9 @@ El Sistema de Protección de la Ciudad de México y los Sistemas de Protección 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE FEBRERO DE 2021)</small>
 
-### Capítulo Segundo. Del Fideicomiso de Restitución de Derechos de Niñas, Niños y Adolescentes
+### Capítulo Primero. De las Sanciones Administrativas
 
-> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 130.
 
@@ -2461,6 +2493,10 @@ Contra las sanciones impuestas con motivo de esta Ley, se podrá interponer recu
 Para los efectos de este capítulo, a falta de disposición expresa y en lo que no contravenga esta Ley, se aplicará supletoriamente la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE FEBRERO DE 2021)</small>
+
+### Capítulo Segundo. Del Fideicomiso de Restitución de Derechos de Niñas, Niños y Adolescentes
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 138.
 
@@ -2645,3 +2681,13 @@ G.O. 7 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA AL ARTÍCULO 2 UNA FRACCIÓN I RECORRIENDO EN SU ORDEN LAS SUBSECUENTES, AL ARTÍCULO 89 UNA FRACCIÓN I RECORRIENDO EN SU ORDEN LAS SUBSECUENTES; SE REFORMA EL ARTÍCULO 2 EN SU ÚLTIMO PÁRRAFO, ARTÍCULO 4 FRACCIÓN VIII, ARTÍCULO 6 FRACCIÓN VI, ARTÍCULO 13 FRACCIÓN I, ARTÍCULO 15 EN SU PÁRRAFO PRIMERO Y SEGUNDO, ARTÍCULO 99 FRACCIÓN VI, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO SEGUNDO; TODOS ELLOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 9 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 13; LA FRACCIÓN XVIII DEL ARTÍCULO 58; LA FRACCIÓN XI Y XII DEL ARTÍCULO 89 Y SE ADICIONA: UN CAPÍTULO DÉCIMO NOVENO TITULADO “DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN” QUE CONTIENE LOS ARTÍCULOS 88 BIS, 88 TER, 88 QUÁTER; Y, LA FRACCIÓN XIII AL ARTÍCULO 89 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El establecimiento de política de inclusión digital universal se realizará de acuerdo a las disposiciones reglamentarias y en su caso por las reglas de operación del programa emitidas por la Jefatura de Gobierno de la Ciudad de México, y se sujetarán a la disponibilidad presupuestaria con la que se cuente.
+
+TERCERO.- El primer informe a que hace referencia el segundo párrafo del artículo 88 Ter, deberá ser presentado al Congreso de la Ciudad de México al año siguiente de la entrada en vigor del presente Decreto.
