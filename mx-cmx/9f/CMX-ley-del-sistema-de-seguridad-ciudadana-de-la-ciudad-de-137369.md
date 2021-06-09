@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-seguridad-ciudadana-de-la-ciudad-de-137369"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-01"
-last_updated: "2020-12-16"
+last_updated: "2021-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137369&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-08-01"
 
 LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JUNIO DE 2021.
 
 Ley publicada en el No. 147 bis de la Gaceta Oficial de la Ciudad de México, el jueves 1 de agosto de 2019.
 
@@ -136,15 +136,11 @@ XXXIV. Sistema Unificado de Información de la Ciudad de México: Sistema al que
 
 XXXV. Sistema: Sistema de Seguimiento para la Seguridad Ciudadana de la Ciudad de México, es el conjunto instrumentos, mecanismos y actividades, organizados y sistematizados que proponen y coadyuvan en el diseño de políticas públicas estrategias y protocolos; en los mecanismos de evaluación de resultados, en los criterios para el servicio profesional de carrera y que establece los lineamientos relativos al manejo de datos de incidencia delictiva.
 
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+
 ###### Artículo 3.
 
-A falta de previsión expresa en la presente Ley se aplicarán las siguientes disposiciones de supletoriedad:
-
-(NOTA: EL 7 DE ENERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO Y DÉCIMO SEGUNDO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2019 Y SU ACUMULADA 98/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE ENERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-I. RESPECTO DEL APOYO Y COORDINACIÓN INTERINSTITUCIONAL DE LOS TRES ÓRDENES DE GOBIERNO SE ESTARÁ A LO DISPUESTO EN LAS LEYES DE LA MATERIA EN EL ÁMBITO FEDERAL, LAS RESOLUCIONES Y ACUERDOS EMITIDOS POR EL CONSEJO NACIONAL DE SEGURIDAD PÚBLICA Y EL CONSEJO, LA LEY GENERAL, LA LEY DE LA GUARDIA NACIONAL Y LA LEY NACIONAL SOBRE EL USO DE LA FUERZA.
-
-II. En materia de procedimientos administrativos disciplinarios se estará a lo dispuesto en la Ley de Responsabilidades Administrativas de la Ciudad de México
+A falta de previsión expresa en la presente Ley, en materia de procedimientos administrativos disciplinarios se estará a lo dispuesto en la Ley de Responsabilidades Administrativas de la Ciudad de México.
 
 ###### Artículo 4.
 
@@ -2028,11 +2024,13 @@ La información contenida en las bases de datos del sistema de información sobr
 
 ### Capítulo III. Socialización de la información
 
-(NOTA: EL 7 DE ENERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO Y DÉCIMO SEGUNDO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2019 Y SU ACUMULADA 98/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE ENERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 131.
 
-Se clasifica como reservada la información contenida en la Plataforma, así como en las fuentes que alimentan a la misma, CUYA CONSULTA ES EXCLUSIVA DE LAS INSTITUCIONES DE SEGURIDAD CIUDADANA QUE ESTÉN FACULTADAS EN CADA CASO, A TRAVÉS DE LAS PERSONAS SERVIDORAS PÚBLICAS QUE CADA INSTITUCIÓN DESIGNE, POR LO QUE EL PÚBLICO NO TENDRÁ ACCESO A LA INFORMACIÓN QUE EN ELLOS SE CONTENGA con las excepciones que señala la presente Ley y demás disposiciones aplicables. La información que obre en la Plataforma deberá sujetarse a las reglas de tratamiento de datos personales en posesión de sujetos obligados.
+Se clasifica como reservada la información contenida en la Plataforma, así como en las fuentes que alimentan a la misma, con las excepciones que señala la presente Ley y demás disposiciones aplicables.
+
+La información que obre en la Plataforma deberá sujetarse a las reglas de tratamiento de datos personales en posesión de sujetos obligados.
 
 ###### Artículo 132.
 
@@ -2353,3 +2351,11 @@ PRIMERO. Publíquese el presente decreto en la Gaceta Oficial de la Ciudad de M�
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en (sic) Gaceta Oficial de la Ciudad de México.
 
 TERCERO. La Secretaría de Seguridad Ciudadana durante el ejercicio fiscal anual, determinará los criterios para la instalación de cámaras de video vigilancia en los centros escolares.
+
+G.O. 9 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3 Y 131 DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
