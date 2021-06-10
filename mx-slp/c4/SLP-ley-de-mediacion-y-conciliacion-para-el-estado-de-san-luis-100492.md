@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mediacion-y-conciliacion-para-el-estado-de-san-luis-1004
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-15"
-last_updated: "2021-05-20"
+last_updated: "2021-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 15 de abril de 2014.
 
@@ -269,7 +269,7 @@ Para ser Director del Centro Estatal se requiere:
 
 I. Ser ciudadano potosino, y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II. Tener cuando menos treinta y cinco años de edad cumplidos el día de la designación;
+II. (DEROGADA, P.O. 10 DE JUNIO DE 2021)
 
 III. Tener título de abogado o licenciado en derecho y cédula profesional expedida por la autoridad o institución legalmente facultada para ello, con una antigüedad mínima de cinco años;
 
@@ -351,7 +351,7 @@ Para ser Subdirector del Centro Estatal o Regional, se requiere:
 
 I. Ser ciudadano potosino, y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II. Tener cuando menos veintiocho años de edad cumplidos el día de la designación;
+II. (DEROGADA, P.O. 10 DE JUNIO DE 2021)
 
 III. Tener título de abogado o licenciado en Derecho y cédula profesional expedida por la autoridad o institución legalmente facultada para ello, con una antigüedad mínima de cinco años;
 
@@ -421,7 +421,7 @@ I. Ser ciudadano potosino, y estar en pleno goce y ejercicio de sus derechos civ
 
 II. Tener título y cédula profesional, expedida por la autoridad o Institución legalmente facultada para ello, con una antigüedad mínima de cinco años preferentemente de abogado o licenciado en derecho;
 
-III. Tener cuando menos veintiocho años cumplidos el día de la designación;
+III. (DEROGADA, P.O. 10 DE JUNIO DE 2021)
 
 IV. Acreditar que cuenta con los conocimientos, aptitudes, habilidades, destrezas, capacitación y experiencia en mediación y conciliación, para desempeñar el encargo con calidad y eficiencia;
 
@@ -461,7 +461,7 @@ Para ser facilitador e invitador del Centro Estatal o Regional, se requiere:
 
 I. Ser ciudadano potosino, y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II. Tener cuando menos veinticinco años cumplidos el día de la designación;
+II. (DEROGADA, P.O. 10 DE JUNIO DE 2021)
 
 III. Acreditar que cuenta con los conocimientos, aptitudes, habilidades y destrezas en mediación y conciliación;
 
@@ -571,7 +571,7 @@ Para ser Psicólogo del Centro Estatal o Regional, se requiere:
 
 I. Ser ciudadano potosino, y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II. Tener cuando menos veinticinco años cumplidos el día de la designación;
+II. (DEROGADA, P.O. 10 DE JUNIO DE 2021)
 
 III. Acreditar que cuenta con los conocimientos, aptitudes, habilidades, destrezas y experiencia en mediación y conciliación, para desempeñar el encargo con calidad y eficiencia;
 
@@ -1414,5 +1414,13 @@ P.O. 20 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1174.- SE REFORMA LOS ARTÍCULOS 14 EN SU FRACCIÓN VI, 16 EN SU FRACCIÓN VI, 18 EN SU FRACCIÓN VII, 20 EN SU FRACCIÓN VIII Y 24 EN SU FRACCIÓN VII; Y DEROGA DE LOS ARTÍCULOS 31 LA FRACCIÓN III Y 32 LA FRACCIÓN III, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1192.- SE DEROGA DE LOS ARTÍCULOS 14 LA FRACCIÓN II, 16 LA FRACCIÓN II, 18 LA FRACCIÓN III, 20 LA FRACCIÓN II Y 24 LA FRACCIÓN II, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
