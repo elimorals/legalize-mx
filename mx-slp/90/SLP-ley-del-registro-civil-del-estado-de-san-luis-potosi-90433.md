@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2020-03-17"
+last_updated: "2021-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -69,51 +69,47 @@ El Registro Civil mediante la inscripción de los actos y hechos constitutivos, 
 
 En todo lo no previsto por la presente Ley se aplicarán supletoriamente, los códigos, Civil; Familiar; y de Procedimientos Civiles para el Estado.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 5°.
 
-Para los efectos de la presente Ley, se entenderá por:
+Para efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+I. Apostilla. Certificación efectuada por la autoridad competente del Poder Ejecutivo del Estado, respecto a la firma y el sello de un documento público que se expidió por una autoridad en uso de sus facultades, pero que no certifica la validez del contenido del mismo; esta certificación sólo presenta validez entre los países firmantes del Convenio de la Haya.
 
-I. Apostilla. Certificación efectuada por la autoridad competente del Poder Ejecutivo del Estado, respecto de la firma y el sello de un documento público que se expidió por una autoridad en uso de sus facultades, pero que no certifica la validez del contenido del mismo; esta certificación sólo presenta validez entre los países firmantes del Convenio de la Haya;
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+Para efectos del registro de nacimiento la verificación del documento de identidad emitido en el extranjero, se podrá realizar a través de los medios electrónicos autorizados por el Registro Nacional de Población;
 
 II. Archivo Estatal. En el que se custodia y resguardan los libros que contienen el duplicado de las actas que hacen constar los actos o hechos del estado civil de las personas;
 
-III. Declarantes. Personas que hacen conocer al oficial el hecho o acto que debe asentarse en las actas;
+III. Declarantes. Personas que hacen conocer al o la oficial, el hecho o acto que debe asentarse en las actas;
 
-IV. Demarcación. Ámbito territorial de la actuación de un oficial del Registro Civil;
+IV. Demarcación. Ámbito territorial de la actuación del o la oficial del Registro Civil;
 
-V. Dirección. La Dirección del Registro Civil;
+V. Dirección. La Dirección del Registro Civil del Estado;
 
-VI. Director. El o la titular de la Dirección del Registro Civil;
+VI. Director. La persona titular de la Dirección del Registro Civil;
 
-VII. Firma digitalizada. La representación gráfica de la firma manuscrita obtenida a través de un escáner u otro medio aportado por la ciencia y la tecnología;
+VII. Firma digitalizada. La representación gráfica de la firma autógrafa obtenida a través de un escáner, o de otro medio aportado por la ciencia y la tecnología;
 
-VIII. Firma Electrónica. Los datos en forma electrónica que pueden ser usados para identificar al signatario del documento e indicar que éste aprueba la información que tal documento contiene, el que produce los mismos efectos que la firma autógrafa;
+VIII. Firma Electrónica. Los datos en forma electrónica que pueden ser usados para identificar a la persona signataria del documento e indicar que ésta aprueba la información que tal documento contiene, el que produce los mismos efectos que la firma autógrafa;
 
-IX. Jurisdicción. Espacio territorial en donde fue nombrado para ejercer funciones el Oficial del Registro Civil;
+IX. Jurisdicción. Espacio territorial en donde fue nombrado para ejercer funciones la o el Oficial del Registro Civil;
 
-X. Ley. La Ley del Registro Civil del Estado de San Luis Potosí;
+X. Ley. Ley del Registro Civil del Estado de San Luis Potosí;
 
-XI. Ley de Responsabilidades. La Ley e (sic) Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí:
+XI. Ley de Responsabilidades. Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí:
 
-XII. Legalización: Proceso a través del cual adquiere validez a nivel internacional un documento expedido por un organismo oficial;
+XII. Legalización. Proceso mediante el cual adquiere validez a nivel internacional un documento expedido por un organismo oficial;
 
-XIII. Oficial: Es la persona investida de fe pública que en el ámbito de su jurisdicción y de las atribuciones que la ley le otorga, inscribe, registra, autoriza, certifica, da publicidad y solemnidad a los actos y hechos relativos al estado civil de las personas;
+XIII. Oficial. Persona investida de fe pública que en el ámbito de su jurisdicción y de las atribuciones que la ley le otorga, inscribe, registra, autoriza, certifica, da publicidad y solemnidad a los actos y hechos relativos al estado civil de las personas;
 
-XIV. Oficialía. Oficinas del Registro Civil en el Estado;
+XIV. Oficialía. Oficinas del Registro Civil en la Entidad;
 
-XV. (DEROGADA, P.O. 9 DE ENERO DE 2014)
+XV. Registro Civil. La institución del Estado que inscribe y da publicidad a los actos y hechos constitutivos, modificativos y extintivos del estado civil de las personas;
 
-XVI. Registro Civil. La institución del Estado que inscribe y da publicidad a los actos y hechos constitutivos, modificativos y extintivos del estado civil de las personas;
+XVI. Secretaría: La Secretaría General de Gobierno, y
 
-XVII. Secretaría: La Secretaría General de Gobierno, y
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
-
-XVIII. Testigo. Persona encargada de declarar sobre la veracidad de los hechos que les conste, sobre cuestiones relacionadas con el estado civil de las personas.
+XVII. Testigo: Persona encargada de declarar sobre la veracidad de los hechos que le consten, sobre cuestiones relacionadas con el estado civil de las personas.
 
 ###### ARTÍCULO 6°.
 
@@ -199,11 +195,11 @@ X. Unidad de Actas Foráneas, y
 
 XI. Unidad Administrativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 18.
 
-La Dirección es el órgano al que le corresponderá organizar, dirigir y coadyuvar al funcionamiento de las oficialías del Registro Civil, incluyendo sus oficinas móviles; así como la administración de sus áreas o unidades administrativas. Suministrará oportunamente los formatos para inscribir los actos del estado civil. Y tendrá como sede la Capital del Estado.
+La Dirección es el órgano al que le corresponderá organizar, dirigir y coadyuvar al funcionamiento de las oficialías del Registro Civil, y los módulos del registro civil que se instalen en los hospitales; así como la administración de sus áreas o unidades administrativas; suministrará oportunamente los formatos para inscribir los actos del estado civil, y tendrá como sede la Capital del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
 
@@ -229,7 +225,7 @@ I. Ser mexicano por nacimiento y estar en pleno goce de sus derechos;
 
 II. Tener título de Licenciado en Derecho, debidamente registrado ante las autoridades competentes;
 
-III. Ser mayor de veinticinco años de edad;
+III. (DEROGADA, P.O. 10 DE JUNIO DE 2021)
 
 IV. Tener residencia efectiva dentro del Estado no menor a 2 años anteriores a la fecha del nombramiento.
 
@@ -319,7 +315,7 @@ Para ser Oficial, se deberán cubrir los siguientes requisitos:
 
 I. Ser mexicano por nacimiento y ciudadano potosino, en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Ser mayor de veinticinco años de edad.
+II. (DEROGADA, P.O. 10 DE JUNIO DE 2021)
 
 III. Tener residencia efectiva dentro del territorio del estado, no menor a dos años anteriores a la fecha del nombramiento;
 
@@ -537,11 +533,11 @@ Serán objeto de inscripción en el Registro Civil, el nacimiento, el reconocimi
 
 Las actas correspondientes al Archivo General, y a la Oficialía, se integrarán en libros, de acuerdo a su contenido, enumerándolas progresivamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 37.
 
-Los oficiales y la Dirección del Registro Civil llevarán seis libros anuales, pudiendo levantar cuantos tomos sean necesarios que se integrarán por un máximo de 150 actas cada uno en los formatos autorizados por la Dirección del Registro Civil, que se denominarán "Registro Civil" y que contendrán:
+Las y los oficiales del Registro Civil, y la Dirección llevarán seis libros anuales, pudiendo levantar cuantos tomos sean necesarios que se integrarán por un máximo de 150 actas cada uno en los formatos autorizados por la Dirección del Registro Civil, que se denominarán “Registro Civil” y que contendrán:
 
 I. Nacimiento y Reconocimiento;
 
@@ -555,7 +551,9 @@ V. Defunción, y
 
 VI. Inscripciones de las ejecutorias relacionadas con el estado civil de las personas.
 
-Los oficiales deberán anotar en hoja anexa a la última acta la razón de cierre del libro con los datos siguientes: total de actas levantadas, las utilizadas, las que no pasaron inutilizadas, certificación de que los dos ejemplares del libro coinciden en contenido, nombre, firma del oficial, sello de la oficialía y un índice en cada libro.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2021)</small>
+
+Deberán anotar en hoja anexa a la última acta la razón de cierre del libro con los datos siguientes: total de actas levantadas, las utilizadas, las que no pasaron inutilizadas, certificación de que los dos ejemplares del libro coinciden en contenido, nombre, firma del oficial, sello de la oficialía y un índice en cada libro.
 
 ###### ARTÍCULO 38.
 
@@ -759,11 +757,13 @@ Sí éste se presenta como hija o hijo de madre y padre desconocidos, el Oficial
 
 Cuando el nacido se presente como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de la madre y el padre; los nombres y domicilios de las abuelas y abuelos; y los de la persona que hubiere hecho la presentación.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 69.
 
-La madre y el padre no tienen el derecho de dejar de reconocer a su hijo. Tienen la obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacer la presentación se proporciona el nombre de la madre se pondrá éste~ (sic) si no se proporciona se hará constar esta circunstancia~ (sic) pero la investigación de la maternidad podrá hacerse ante los tribunales de acuerdo con las disposiciones del Código Familiar para el Estado. Cuando figure el nombre de la madre y del padre, se hará constar en el acta de nacimiento, las (sic) generales de ambos. Queda absolutamente prohibido asentar en el acta que el hijo es natural, nacido fuera del matrimonio, o adulterino.
+La madre y el padre no tienen el derecho de dejar de reconocer a su hijo o hija. Tienen la obligación de que su nombre figure en el acta de nacimiento de su hijo o hija. Si al hacer la presentación se proporciona el nombre de la madre se pondrá éste, si no se proporciona se hará constar esta circunstancia, pero la investigación de la maternidad podrá hacerse ante los tribunales de acuerdo con las disposiciones del Código Familiar para el Estado. Cuando figure el nombre de la madre y del padre, se hará constar en el acta de nacimiento, las (sic) generales de ambos.
+
+Queda prohibido asentar en el acta de nacimiento alguna mención que califique la filiación de las personas, en forma alguna. Las palabras “hija o hijo legítimo”, “hija o hijo natural”, “hija o hijo ilegítimo”, “hija o hijo de padres desconocidos”, “hija o hijo de padre desconocido”, “hija de madre desconocida”, o “habido como consecuencia de cualquier método de fecundación humana asistida”, que se inserten con infracción de este artículo, se testarán de oficio, de manera que queden ilegibles.
 
 ###### ARTÍCULO 70.
 
@@ -789,9 +789,11 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 La madre y el padre de un hijo producto de una relación incestuosa podrán reconocerlo y hacer que consten sus nombres en el acta, pero no se expresará en la misma que el hijo es incestuoso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 75.
 
-Toda persona que encontrare una o un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial, o al Sistema para el Desarrollo Integral de la Familia, con los vestidos, papeles o cualesquiera otros objetos encontrados en él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+Toda persona que encontrare una o un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo a la Procuraduría de Protección de Niñas, Niños y Adolescentes, con los vestidos, papeles o cualesquiera otros objetos encontrados con la o el menor, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
 
 La misma obligación tienen los jefes, directores o administradores de las prisiones, o de cualquiera casa de comunidad, especialmente los de los hospitales, casas de maternidad, e inclusas, respecto de los niños nacidos o expuestos en ellas.
 
@@ -1383,19 +1385,19 @@ El término ordinario para el registro de defunción deberá ser de veinticuatro
 
 Para el registro de los actos del estado civil celebrados por mexicanos en el extranjero, se deberá transcribir íntegramente el contenido de los documentos o constancias que exhiban los interesados, con ellos se formará en el libro correspondiente, asignándole el orden progresivo del acta.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 154.
 
-Los documentos que los interesados deberán exhibir ante el Oficial son:
+Los documentos que las personas interesadas deberán exhibir ante la o el Oficial son:
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+I. Copia certificada de la constancia, o del documento del acto del estado civil celebrado ante autoridades extranjeras, acompañada de la legalización o apostillamiento del lugar en donde se verificó el acto, para que surta todos sus efectos en territorio mexicano.
 
-I. Copia certificada de la constancia o del documento del acto del estado civil celebrado ante autoridades extranjeras, acompañada de la legalización o apostillamiento del lugar en donde se verificó el acto para que surta todos sus efectos en territorio mexicano;
+La apostilla o legalización de los documentos emitidos por autoridades extranjeras a que se refiere el párrafo anterior, podrán dispensarse cuando existan, medios electrónicos simplificados y autorizados por el Registro Nacional de Población, para constatar el nacimiento y la filiación. La información que por estos medios conozcan los oficiales del registro civil será impresa y certificada por los mismos y se guardará en el apéndice del archivo;
 
-II. Si las constancias estuvieren redactadas en idioma diferente al español, se requerirá, además, que se adjunte traducción realizada por perito registrado, y
+II. Si las constancias estuvieren redactadas en idioma diferente al español, se deberá adjuntar traducción realizada por perito registrado, y
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
-
-III. Tratándose de extranjero que haya realizado algún acto jurídico con mexicano deberá presentar aquéllas que la ley respectiva de la materia imponga.
+III. Tratándose de persona extranjera que haya realizado algún acto jurídico con persona mexicana, deberá presentar las constancias que la ley respectiva de la materia imponga.
 
 > <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
 
@@ -1666,5 +1668,13 @@ P.O. 17 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0628.- SE REFORMA (SIC) LOS ARTÍCULOS, 19 EN SU FRACCIÓN VII, Y 26 EN SU FRACCIÓN V, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1191.- SE REFORMA LOS ARTÍCULOS 5°, 18 EN SU PÁRRAFO PRIMERO, 37 EN SUS PÁRRAFOS PRIMERO Y OCTAVO, 69, 75 EN SU PÁRRAFO PRIMERO Y 154; Y DEROGA DE LOS ARTÍCULOS 19 LA FRACCIÓN III Y 26 LA FRACCIÓN II, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
