@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg1260-2018-del-consejo-general-del-instituto-13086
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-10-12"
-last_updated: "2018-10-12"
+last_updated: "2021-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130861&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-09-12"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL CUAL SE EMITEN REGLAS GENERALES APLICABLES AL PROCEDIMIENTO DE LIQUIDACIÓN DE LOS PARTIDOS POLÍTICOS NACIONALES QUE NO OBTUVIERON EL PORCENTAJE MÍNIMO DE LA VOTACIÓN ESTABLECIDO EN LA LEY PARA CONSERVAR SU REGISTRO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JUNIO DE 2021.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 12 de octubre de 2018.
 
@@ -161,19 +161,43 @@ Lo anterior sin perjuicio de las sanciones a las que pudiera hacerse acreedor ta
 
 En todos los casos, los contratos que se celebren con los Interventores seleccionados, deberán sujetarse a lo siguiente:
 
-a) Su vigencia no deberá ser mayor a 1 año.
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2021)</small>
 
-b) Establecer que serán por la realización de todas las actividades del proceso de liquidación, con independencia del tiempo que lleve realizarlas.
+a) Su vigencia no deberá ser mayor a 1 año, salvo el que se celebre para la etapa de prevención, cuya duración está sujeta a la confirmación de la declaratoria de la pérdida del registro del Partido Político Nacional por parte de la autoridad jurisdiccional.
 
-c) Los honorarios deberán pactarse por la realización de todas las actividades del proceso de liquidación, ya sea por toda la etapa de prevención, o bien por toda la etapa de liquidación o por ambas, con independencia de la duración de cada una de ellas
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2021)</small>
 
-d) En ningún caso se pagarán más honorarios, que los establecidos en el contrato por la realización de todas las actividades inherentes al proceso de liquidación, hasta su conclusión total, incluyendo, en su caso, la reintegración de remanentes a la Tesorería de la Federación o a la de las entidades federativas según corresponda.
+b) Establecer que será por la realización de todas las actividades del proceso de liquidación, con independencia del tiempo que lleve realizarlas.
 
-Cuando exista causa justificada, a criterio de la Comisión de fiscalización, el plazo contemplado por el inciso a) del presente artículo, podrá prorrogarse por periodos de un año cada vez, previó informe del Interventor en el que se justifique la necesidad de prorrogar la duración del contrato para concluir con la liquidación, sin que su aprobación implique en forma alguna que se le paguen más honorarios al Interventor, que los pactados en el contrato original.
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2021)</small>
 
-Para fijar el monto mensual de los honorarios a los que se refiere el inciso c) anterior, la cantidad total que se haya pactado por la realización de todas las actividades hasta la conclusión de la liquidación deberá prorratearse entre el total de meses por los que se haya celebrado el contrato, y se pagarán mensualmente contra la presentación y aprobación del informe mensual correspondiente, y el comprobante fiscal respectivo, ante la Unidad Técnica de Fiscalización.
+c) Los honorarios deberán pactarse por la realización de todas las actividades del proceso de liquidación, ya sea por toda la etapa de prevención, o bien por toda la etapa de liquidación o por ambas, con independencia de la duración de cada una de ellas.
 
-Si habiéndose pactado la vigencia del contrato para una duración mayor a la que le lleve al Interventor concluir con la liquidación, se tienen honorarios prorrateados, pendientes de cubrir, el Interventor podrá cobrarlos en su totalidad del patrimonio remanente, o, en su caso, solicitar el pago del saldo total de sus honorarios pendientes al Instituto Nacional Electoral, siempre que el informe final de la conclusión de la liquidación haya sido aprobado a satisfacción por el Consejo General del Instituto.
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2021)</small>
+
+d) En ningún caso se pagarán más honorarios, que los establecidos en el contrato por la realización de todas las actividades inherentes a la etapa de liquidación, hasta su conclusión total, incluyendo, en su caso, la reintegración de remanentes a la Tesorería de la Federación o a la de las entidades federativas según corresponda.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 11 DE JUNIO DE 2021)</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2021)</small>
+
+En relación con los honorarios para la etapa de liquidación, el monto total de los honorarios, podrá dividirse en mensualidades y diferirse en más de un ejercicio, sin que en ningún caso se pueda exceder el monto total de honorarios pactados por la realización de todas las actividades inherentes a la liquidación hasta su conclusión.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2021)</small>
+
+El contrato podrá tener una vigencia mayor a un año, siempre que existan causas que no permitan concluir con la liquidación dentro de los primeros 12 meses. En este caso, el Interventor continuará en su encargo con las mismas obligaciones establecidas en el contrato original, sin necesidad de prórroga ni convenio modificatorio, y sin que ello implique el pago de honorarios adicionales a los originalmente acordados en el contrato, toda vez que, los mismos se pactan por la realización de todas las actividades inherentes a la liquidación hasta su total conclusión.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2021)</small>
+
+Por cuanto hace al pago de los honorarios, éstos seguirán las siguientes reglas. El 60% del monto de los honorarios se pagará dividido en 12 mensualidades durante el primer año de contrato en la etapa de liquidación y cada mensualidad se pagará contra la presentación y validación del informe mensual correspondiente, y el comprobante fiscal respectivo, ante la Unidad Técnica de Fiscalización. El 40% restante se cubrirá una vez concluida la totalidad de las actividades de la liquidación, siempre que ya se hubiera presentado, aprobado y publicado, en el Diario Oficial de la Federación, el Informe final de cierre del procedimiento, y éste haya quedado firme, atendiendo a la forma y términos que se contemplan en los artículos 4 y 8 de la Ley General de Medios de Impugnación en Materia Electoral, por tratarse de un asunto de dicha materia.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2021)</small>
+
+Si el Interventor concluyera con la liquidación con anterioridad al vencimiento del contrato y hubiera honorarios pendientes de cubrir, el Interventor podrá cobrarlos en su totalidad del patrimonio remanente si fuere posible, o, en su caso, solicitar el pago del saldo total de sus honorarios pendientes, al Instituto Nacional Electoral, siempre que el informe final de cierre del procedimiento de liquidación ya hubiere sido presentado por el especialista, haya sido aprobado por el Consejo General del Instituto, publicado en el Diario Oficial de la Federación, y quedado firme conforme a lo señalado en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2021)</small>
+
+Salvo causa justificada y mediante solicitud de la Unidad Técnica de Fiscalización a la Comisión de Fiscalización, no podrá ser incluido en la selección, y posterior contratación, ningún especialista que hubiere participado o se encuentre participando en el procedimiento de liquidación de un Partido Político Nacional; tampoco serán incluidos los especialistas que, por cualquier causa, hayan sido removidos de su encargo antes de concluir en su totalidad con la liquidación, ni aquellos que, habiendo concluido, no lo hayan hecho de manera satisfactoria a juicio del Instituto Nacional Electoral, o por haber incurrido de forma reincidente en incumplimiento a requerimientos que le hubieren sido realizados por la Unidad Técnica de Fiscalización, la Comisión de Fiscalización o el Consejo General del Instituto, aun cuando formen parte de la lista validada por la Comisión de Fiscalización y publicada por el Consejo General en el Diario Oficial de la Federación.
 
 TERCERO. El presente Acuerdo es de aplicación general y observancia obligatoria para los Partidos Políticos Nacionales que pierdan su registro, así como para los Interventores designados en el periodo de prevención y liquidación de dichos partidos políticos.
 
@@ -188,3 +212,17 @@ SÉPTIMO. Publíquese en el Diario Oficial de la Federación, así como en la p�
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 12 de septiembre de 2018, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Doctora Adriana Margarita Favela Herrera, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE JUNIO DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICA Y ADICIONA EL ARTÍCULO 16 DE LAS REGLAS GENERALES APLICABLES AL PROCEDIMIENTO DE LIQUIDACIÓN DE LOS PARTIDOS POLÍTICOS NACIONALES QUE NO OBTUVIERON EL PORCENTAJE MÍNIMO DE LA VOTACIÓN ESTABLECIDO EN LA LEY PARA CONSERVAR SU REGISTRO EMITIDAS MEDIANTE ACUERDO INE/CG1260/2018”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. El presente Acuerdo es de observancia obligatoria para los Partidos Políticos Nacionales que pierdan su registro, así como para los Interventores designados en el periodo de prevención y liquidación de dichos Partidos Políticos.
+
+TERCERO. Notifíquese a los Organismos Públicos Locales Electorales de las treinta y dos entidades federativas, a través de la Unidad Técnica de Vinculación con los Organismos Públicos Locales.
+
+CUARTO. El presente Acuerdo entra en vigor a partir de su aprobación.
+
+QUINTO. Publíquese en el Diario Oficial de la Federación, así como en la página del Instituto Nacional Electoral.
