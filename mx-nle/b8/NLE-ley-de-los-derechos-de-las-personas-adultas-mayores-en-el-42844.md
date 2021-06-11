@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2020-12-21"
+last_updated: "2021-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -395,7 +395,9 @@ IX. Las demás que le confieran otros ordenamientos jurídicos.
 
 Corresponde a la Secretaría de Salud del Estado, de conformidad con las disposiciones jurídicas aplicables:
 
-I. Garantizar el derecho al acceso a la atención médica en las clínicas y hospitales públicos o privados, con una orientación especializada, para las Personas Adultas Mayores, en condiciones de pobreza y vulnerabilidad;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2021)</small>
+
+I. Garantizar el derecho al acceso a la atención médica en las clínicas y hospitales públicos o privados, con una orientación especializada para las Personas Adultas Mayores. Las especialidades médicas encargadas de la atención de la salud de las personas adultas mayores, son la Gerontología y la Geriatría;
 
 II. Proporcionar a las Personas Adultas Mayores una cartilla médica de autocuidado, que será utilizada indistintamente en las instituciones públicas y privadas. En esta se especificará el estado general de salud, enfermedades crónicas, tipo de sangre, medicamentos administrados, reacciones secundarias e implementos para aplicarlos, tipo de dieta suministrada, consultas médicas y asistencias a grupos de autocuidado;
 
@@ -561,17 +563,17 @@ X. Convocar a las dependencias y entidades de las administraciones públicas est
 
 XI. Impulsar la creación de institutos municipales de atención a las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2021)</small>
 
-XII. Celebrar convenios, contratos, acuerdos y todo tipo de actos jurídicos que sean necesarios para el cumplimiento de su objeto;
+XII. Impulsar y promover en el Estado la creación de centros de atención Gerontológica y Geriátrica;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2021)</small>
 
-XIII. Analizar, planear, diseñar e ¡implementar (sic) políticas públicas orientadas al uso de nuevas tecnologías; y
+XIII. Celebrar convenios, contratos, acuerdos y todo tipo de actos jurídicos que sean necesarios para el cumplimiento de su objeto; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ENERO DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE JUNIO DE 2021)</small>
 
-XIV. Las demás que establezca esta Ley o que sean necesarias para el cumplimiento del objeto del Instituto, y las que establezcan otros ordenamientos jurídicos.
+XIV. Las demás que establezca esta ley o que sean necesarias para el cumplimiento del objeto del Instituto, y las que establezcan otros ordenamientos jurídicos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2018)</small>
 
@@ -1178,3 +1180,9 @@ PRIMERO.- El presente Decreto entrara en vigor el día siguiente al de su public
 SEGUNDO.- El Congreso del Estado de Nuevo León, destinará los recursos necesarios en el proyecto de presupuesto de egresos 2021.
 
 TERCERO.- El Poder Ejecutivo podrá llevar a cabo la entrega de dicho apoyo a través de un Convenio de Colaboración entre sus diversas áreas de la Administración Pública Estatal y con base en su información, registro, padrón o cualquier otra base de datos que tengan a su disposición de personas adultas mayores, que se encuentren catalogadas de necesidad de apoyo por su salud a causa de una emergencia sanitaria.
+
+P.O. 11 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 480. SE ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 4 DE LA LEY ESTATAL DE SALUD; Y SE MODIFICAN LA FRACCIÓN I DEL ARTÍCULO 12; LAS FRACCIONES XII Y XIII DEL ARTÍCULO 24; Y SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 24, TODAS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
