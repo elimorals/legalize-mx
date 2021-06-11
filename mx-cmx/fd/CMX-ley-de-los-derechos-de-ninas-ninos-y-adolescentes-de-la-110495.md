@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2021-06-09"
+last_updated: "2021-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE JUNIO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -432,7 +432,9 @@ VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral
 
 VIII. Derecho a una vida libre de violencia y a la integridad personal;
 
-IX. Derecho a la protección de la salud y a la seguridad social;
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2021)</small>
+
+IX. Derecho a la protección de la salud física y mental, y a la seguridad social;
 
 X. Derechos de niñas, niños y adolescentes con discapacidad;
 
@@ -1182,9 +1184,11 @@ VERIFICANDO CON TODA OPORTUNIDAD QUE LOS SENTENCIADOS A QUE SE REFIERE LA LEGISL
 
 ### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE JUNIO DE 2021)</small>
+
 ###### Artículo 47.
 
-Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica integral gratuita y de calidad, de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud. Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
+Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica integral gratuita y de calidad, de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud física y mental. Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
 
 I. Reducir la morbilidad y mortalidad;
 
@@ -1370,9 +1374,21 @@ XVII. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente, a 
 
 XVIII. Establecer mecanismos y programas; que fomenten el uso responsable, respetuoso y seguro de las tecnologías de información y comunicación; mismos que serán adaptados conforme a la edad y tomando en cuenta el grado de desarrollo cognoscitivo y evolutivo de niñas, niños y adolescentes;
 
-XIX. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional y;
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2021)</small>
 
-XX. Fortalecer la infraestructura tecnológica de las escuelas públicas para fomentar la formación científica y tecnológica de las niñas, niños y adolescentes.
+XIX. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional;
+
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2021)</small>
+
+XX. Fortalecer la infraestructura tecnológica de las escuelas públicas para fomentar la formación científica y tecnológica de las niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, G.O. 11 DE JUNIO DE 2021)</small>
+
+XXI. Establecer mecanismos para detectar los casos de niñas, niños y adolescentes que requieran atención especializada y coordinarse con las autoridades competentes a fin de que les sea garantizado el derecho de atención especializada en los sistemas de salud correspondientes; e
+
+> <small>(ADICIONADA, G.O. 11 DE JUNIO DE 2021)</small>
+
+XXII. Implementar acciones para proporcionar a las niñas, niños y adolescentes formación de inteligencia emocional.
 
 ###### Artículo 59.
 
@@ -2691,3 +2707,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El establecimiento de política de inclusión digital universal se realizará de acuerdo a las disposiciones reglamentarias y en su caso por las reglas de operación del programa emitidas por la Jefatura de Gobierno de la Ciudad de México, y se sujetarán a la disponibilidad presupuestaria con la que se cuente.
 
 TERCERO.- El primer informe a que hace referencia el segundo párrafo del artículo 88 Ter, deberá ser presentado al Congreso de la Ciudad de México al año siguiente de la entrada en vigor del presente Decreto.
+
+G.O. 11 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 13, FRACCIÓN IX 47, PRIMER PÁRRAFO Y, SE ADICIONAN LAS FRACCIONES XXI Y XXII AL ARTÍCULO 58, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
