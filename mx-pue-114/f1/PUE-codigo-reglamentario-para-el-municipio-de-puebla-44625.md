@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2021-03-12"
+last_updated: "2021-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2021
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -4887,13 +4887,17 @@ V. Chofer para el Servicio de Transporte Mercantil. Conductores de vehículos de
 
 VI. Automovilistas o Motociclistas con Licencia Provisional. Conductores de dieciséis a dieciocho años o que sean mayores de esta última edad y estén aprendiendo a conducir;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2021)</small>
 
-VII. Choferes del Servicio Público de Transporte y del Servicio de Transporte Mercantil con Licencia Temporal de Entrenamiento. Conductores que estén en proceso de capacitación y adiestramiento para operar vehículos destinados al servicio público; y
+VII. Choferes del Servicio Público de Transporte y del Servicio de Transporte Mercantil con Licencia Temporal de Entrenamiento. Conductores que estén en proceso de capacitación y adiestramiento para operar vehículos destinados al servicio público;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 2021)</small>
 
-VIII. Usuarios de equipo especial móvil.
+VIII. Chofer para el Servicio de Transporte Federal. Conductores de vehículos destinados al servicio público de transporte o al servicio federal, sin menos cabo (sic) de que pueden conducir cualquier otro tipo de vehículos de uso particular, excepto los referidos en la fracción II de este artículo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE JUNIO DE 2021)</small>
+
+IX. Usuarios de equipo especial móvil.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -5183,13 +5187,13 @@ APARTADO I
 
 DE LAS OBLIGACIONES PARA LA CIRCULACIÓN DE LOS VEHÍCULOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2021)</small>
 
 ###### Artículo 300.
 
-Los conductores que manejen vehículos en el Municipio deben ser aptos para realizar su conducción y contar con la licencia correspondiente.
+Las personas conductoras que manejen vehículos en el Municipio deben ser aptas para realizar su conducción con precaución y contar con la licencia correspondiente.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 En caso de que alguna persona tenga una disminución de su capacidad física o mental podrá realizar la conducción del vehículo siempre que demuestre tener tal aptitud.
 
@@ -5875,9 +5879,17 @@ IX. Cumplido lo anterior, se procederá a la firma del Acta de Infracción por q
 
 X. Una vez firmada el Acta de Infracción, hará de conocimiento del conductor la opción que tiene para realizar el pago mediante una terminal electrónica de infracción digital; si el infractor accede, el Agente podrá recibir el pago respectivo por medio de tarjeta de débito o crédito, entregando al conductor el recibo correspondiente. No procederá en este caso, la retención de garantía;
 
-XI. En caso de que se detecte un vehículo infringiendo alguna de las disposiciones del presente Capítulo, y el conductor no se encuentre presente, se procederá a realizar el Acta de Infracción dejándose en el parabrisas y el Agente retirará la placa de circulación como garantía. Si el vehículo no cuenta con placas se procederá a su retiro de la circulación y aseguramiento para ser trasladado al Depósito Oficial; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2021)</small>
 
-XII. A la persona que conduzca en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicoactivos o cualquier otra sustancia que produzca efecto similar, se deberá practicar dictamen clínico toxicológico, en todo caso se procederá a la puesta a disposición del Juez Calificador por considerarse una falta a las disposiciones del Capítulo de Policía y Gobierno de este Código Reglamentario y al retiro de la circulación y aseguramiento del vehículo para ser trasladado al Depósito Oficial.
+XI. En caso de que se detecte un vehículo infringiendo alguna de las disposiciones del presente Capítulo, y el conductor no se encuentre presente, se procederá a realizar el Acta de Infracción dejándose en el parabrisas y el Agente retirará la placa de circulación como garantía. Si el vehículo no cuenta con placas se procederá a su retiro de la circulación y aseguramiento para ser trasladado al Depósito Oficial;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2021)</small>
+
+XII. A la persona que conduzca en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicoactivos o cualquier otra sustancia que produzca efecto similar, se deberá practicar dictamen clínico toxicológico, en todo caso se procederá a la puesta a disposición del Juez Calificador por considerarse una falta a las disposiciones del Capítulo de Policía y Gobierno de este Código Reglamentario y al retiro de la circulación y aseguramiento del vehículo para ser trasladado al Depósito Oficial; y
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2021)</small>
+
+XIII. Si los policías preventivos, en ejercicio de sus atribuciones y acorde con la naturaleza del evento, tiene conocimiento de la comisión de probables hechos delictivos, deberá poner a disposición del Ministerio Público por medio del informe policial homologado respectivo y en forma inmediata, a las personas que haya detenido.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -5904,6 +5916,32 @@ La oposición de cualquier persona a la verificación de los vehículos, el esta
 ###### Artículo 334.
 
 Para efectos del artículo 290 del presente Capítulo la fuga del infractor se considerará desobediencia a un mandato legítimo de autoridad, pero también constituirá una infracción administrativa y será motivo de sanción.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2021)</small>
+
+###### Artículo 334 Bis.
+
+Si como resultado de un accidente de tránsito sólo se ocasionan daños a bienes, en cuanto a la reparación de los mismos se procederá de la siguiente forma:
+
+I. De no existir acuerdo entre las partes afectadas, los implicados serán puestos a disposición de la autoridad competente para garantizar la reparación del daño y en su caso, determinar la responsabilidad penal;
+
+II. De existir acuerdo entre los involucrados, el policía preventivo, procurará que dicho acuerdo sea debidamente suscrito por ambas partes y conste por escrito; y
+
+III. De tratarse de bienes del Municipio se dará aviso a las autoridades correspondientes para que procedan de conformidad con las disposiciones legales aplicables.
+
+Cuando alguna de las personas conductoras se encuentre en estado de ebriedad o bajo el influjo de sustancias psicoactivas, enervantes, psicotrópicos o cualquier otra sustancia que produzcan efectos similares, no se aplicará lo dispuesto en la fracción II, remitiéndose a los involucrados ante la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2021)</small>
+
+###### Artículo 334 Ter.
+
+En todos los casos de accidentes de tránsito:
+
+I. El policía preventivo debe llenar la acta de infracción señalando la falta que causó el accidente, atendiendo lo que corresponda de lo dispuesto por el artículo 331; y
+
+II. Los vehículos deben retirarse para despejar la vía pública, a fin de no obstruir la circulación, una vez que las autoridades competentes lo determinen.
+
+La persona que conduzca o propietario del vehículo podrá elegir al prestador del servicio de arrastre a fin de ejecutar las maniobras correspondientes. En caso de que éste no esté presente o se encuentre imposibilitado para elegir a un prestador del servicio, el policía preventivo deberá llamar al servicio de arrastre de vehículos más próximo al lugar del percance, de conformidad con las disposiciones aplicables. En todos los casos, los servicios de arrastre de vehículos que sean utilizados con motivo de un hecho de tránsito, serán los que cuenten con el permiso o autorización de la autoridad que corresponda.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -5935,7 +5973,9 @@ II. Para realizar los operativos de prevención en materia de movilidad, bastar�
 
 III. Los Agentes detendrán la marcha de algún vehículo y explicarán al conductor la naturaleza del operativo, en caso de detectar aliento etílico, indicará al conductor el lugar en el que deberá estacionar su vehículo;
 
-IV. El Agente indicará al conductor que descienda de su vehículo con llaves, licencia para conducir y tarjeta de circulación y que le acompañe al área designada para realizar una prueba con el alcoholímetro;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2021)</small>
+
+IV. El Agente indicará al conductor que descienda de su vehículo con llaves, licencia para conducir y tarjeta de circulación y que le acompañe al área designada para realizar pruebas para detección del grado de intoxicación, de conformidad con las disposiciones aplicables o los convenios que en materia de salud se suscriban con las instancias competentes;
 
 V. Una vez realizada la prueba de alcoholímetro y de resultar positivo, el Agente informará al conductor que ha superado los niveles de intoxicación permitidos, por lo que se le pondrá a disposición del Juez Calificador por conducir en la Vía Pública en algún nivel de intoxicación, conforme al artículo 294 fracción VI del presente Capítulo;
 
@@ -6227,7 +6267,9 @@ a) No estar provisto de placas, engomado, tarjeta de circulación o permiso de c
 
 b) Estacionarse en forma o lugares prohibidos;
 
-c) Conducir sin licencia vigente o estar inhabilitado para conducir;
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2021)</small>
+
+c) Conducir sin portar licencia, o que ésta no se encuentre vigente o estar inhabilitado para conducir;
 
 d) Conducir vehículos en algún nivel de intoxicación etílica, bajo el influjo de sustancias psicoactivas, enervantes, psicotrópicas o cualquier otra sustancia que produzca efectos similares; y
 
@@ -6519,9 +6561,17 @@ Los establecimientos autorizados como Depósito Oficial, a que se refiere el art
 
 10. Elaborar una memoria descriptiva de las maniobras realizadas y un inventario del vehículo que será firmado por el conductor, el Agente de la Dirección de Tránsito y el operador de la grúa en el lugar del hecho;
 
-11. Atender los requerimientos de servicio que solicite la autoridad, tanto en los supuestos contemplados en el artículo 352 como en los originados por mandamientos administrativos, judiciales o ministeriales, así como las colisiones y siniestros en general, y
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2021)</small>
 
-12. Brindar el servicio las 24 horas de los 365 días del año.
+11. Atender los requerimientos de servicio que solicite la autoridad, tanto en los supuestos contemplados en el artículo 352 como en los originados por mandamientos administrativos, judiciales o ministeriales, así como las colisiones y siniestros en general;
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2021)</small>
+
+12. Brindar el servicio las 24 horas de los 365 días del año; y
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2021)</small>
+
+13. Condonar el pago de Ocupación de Espacios, a aquellas personas que demuestren tener la calidad de víctima u ofendido por la comisión de un delito de conformidad con la resolución emitida por la autoridad judicial o en su caso por lo declarado por el Agente del Ministerio Público cuando el caso no sea judicializado.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
@@ -26357,7 +26407,9 @@ d) Regular los usos, destinos y reservas de áreas para el servicio público de 
 
 e) Determinar las normas relativas al uso de suelo y destinos condicionados, consignándose lo conducente en las licencias;
 
-f) Solicitar a SSPTM, la realización del dictamen, que derive del estudio y análisis del impacto en la vialidad que produzca la apertura de un estacionamiento público;
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2021)</small>
+
+f) Solicitar a la Secretaría de Movilidad, la realización del dictamen, que derive del estudio y análisis del impacto en la vialidad que produzca la apertura de un estacionamiento público, coadyuvando a definir las estrategias que permitan una mejor planeación en materia de estacionamientos con servicio al público y estacionamiento en la vía pública;
 
 g) Fijar los requisitos técnicos a que deberán sujetarse las construcciones o instalaciones en predios para estacionamientos; y
 
@@ -26365,7 +26417,7 @@ h) Las facultades que le confiera el presente Capítulo y disposiciones normativ
 
 V. De la SSPTM:
 
-a) Evaluar y en su caso llevar a cabo los estudios de impacto vial en asuntos relacionados al otorgamiento de uso de suelo, coadyuvando a definir las estrategias que permitan una mejor planeación en materia de estacionamientos con servicio al público y estacionamiento en la vía pública;
+a) (DEROGADO, P.O. 11 DE JUNIO DE 2021)
 
 b) Vigilar que en los estacionamientos, no se altere el orden y la seguridad pública;
 
@@ -26411,13 +26463,13 @@ Una vez que la Secretaría de Gestión integre el expediente correspondiente y l
 
 En caso de ser negada la licencia, la Tesorería pondrá a disposición del solicitante la documentación que haya presentado, dejando a salvo sus derechos para formular nueva petición.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1679 Bis.
 
-La Secretaría de Gestión notificará a la SSPTM, la solicitud de licencia o modificación de un estacionamiento y le dará aviso para que revise y apruebe el estudio de impacto vial; dicha aprobación será un requisito indispensable para que los interesados obtengan la licencia de uso de suelo específico, en su caso, la licencia de construcción y la licencia expedida por la Tesorería.
+La Secretaría de Desarrollo Urbano y Sustentabilidad notificará a la Secretaría de Movilidad, la solicitud de licencia o modificación de un estacionamiento y le dará aviso para que revise y apruebe el estudio de impacto vial; dicha aprobación será un requisito indispensable para que los interesados obtengan la licencia de uso de suelo específico, en su caso, la licencia de construcción y la licencia expedida por la Tesorería.
 
-Cuando con posterioridad a la apertura se modifiquen las características de un estacionamiento con servicio al público, el prestador del servicio deberá presentar ante la Secretaría de Gestión un escrito complementario en el que detalle los cambios realizados, a fin de aprobarlos y mantener actualizado el registro de las licencias.
+Cuando con posterioridad a la apertura se modifiquen las características de un estacionamiento con servicio al público, el prestador del servicio deberá presentar ante la Secretaría de Desarrollo Urbano y Sustentabilidad un escrito complementario en el que detalle los cambios realizados, a fin de aprobarlos y mantener actualizado el registro de las licencias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2009)</small>
 
@@ -39282,5 +39334,13 @@ P.O. 12 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE FEBRERO DE 2021, QUE APRUEBA EL DICTAMEN PRESENTADO POR LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE ADICIONA EL CAPÍTULO 4 BIS, ASÍ COMO LOS ARTÍCULOS 21 BIS, 21 TER, 21 QUÁTER, 21 QUINQUIES, 21 SEXIES, 21 SEPTIES, 21 OCTIES, 21 NONIES, 21 DECIES, 21 UNDECIES, 21 DUODECIES, 21 TERDECIES, 21 QUATERDECIES, 21 QUINDECIES, 21 SEXDECIES Y 21 SEPTDECIES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
 
 PRIMERO. Las adiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 11 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 20 DE MAYO DE 2021, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA LOS ARTÍCULOS 286 FRACCIONES VII Y VIII, 300 PÁRRAFO PRIMERO, 331 FRACCIONES XI Y XII, 337 FRACCIÓN IV, 352 INCISO C) DE LA FRACCIÓN II, 365 QUÁTER NUMERALES 11 Y 12, 1677 INCISO F) DE LA FRACCIÓN IV Y 1679 BIS, ADICIONA LA FRACCIÓN IX AL ARTÍCULO 286, LA FRACCIÓN XIII AL ARTÍCULO 331, EL 334 BIS, EL 334 TER, EL NUMERAL 13 AL ARTÍCULO 365 QUÁTER, Y DEROGA EL INCISO A) DE LA FRACCIÓN V DEL ARTÍCULO 1677 BIS, TODOS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. Las reformas, adiciones y derogación aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
