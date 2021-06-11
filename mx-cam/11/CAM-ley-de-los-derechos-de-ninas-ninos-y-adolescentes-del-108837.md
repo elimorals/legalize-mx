@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2018-02-16"
+last_updated: "2021-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -564,6 +566,10 @@ Se establece como edad mínima para contraer matrimonio los dieciocho años.
 ###### Artículo 45.
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2021)</small>
+
+Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerzan cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante. Entendiéndose por castigo corporal o físico todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve. Y por castigo humillante cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
 
 ###### Artículo 46.
 
@@ -1961,8 +1967,16 @@ Segundo.- Se derogan todas las disposiciones legales que se opongan al presente 
 
 P.O. 16 DE FEBRERO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 256 POR EL QUE "SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 2 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 256 POR EL QUE “SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 2 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
 
 PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 11 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 229 POR EL QUE “SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 45 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al contenido de este decreto.
