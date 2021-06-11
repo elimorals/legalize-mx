@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-salud-del-estado-de-nuevo-leon-7631"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2021-04-23"
+last_updated: "2021-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -80,6 +80,10 @@ A.- EN MATERIA DE SALUBRIDAD GENERAL.
 I.- LA ATENCIÓN MÉDICA, PREFERENTEMENTE EN BENEFICIO DE LOS GRUPOS SOCIAL Y ECONÓMICAMENTE VULNERABLES;
 
 II.- LA ATENCIÓN MATERNO INFANTIL;
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2021)</small>
+
+II BIS.- LA ATENCIÓN MÉDICA A LAS PERSONAS ADULTAS MAYORES EN ÁREAS DE SALUD GERONTOLÓGICA Y GERIÁTRICA.
 
 III.- LA PLANIFICACIÓN FAMILIAR;
 
@@ -2592,5 +2596,11 @@ P.O. 29 DE MARZO DE 2021.
 P.O. 23 DE ABRIL DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 322. SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 73; Y SE ADICIONA UN ARTÍCULO 72 BIS 1, AMBOS DE LA LEY ESTATAL DE SALUD".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 480. SE ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 4 DE LA LEY ESTATAL DE SALUD; Y SE MODIFICAN LA FRACCIÓN I DEL ARTÍCULO 12; LAS FRACCIONES XII Y XIII DEL ARTÍCULO 24; Y SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 24, TODAS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
