@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2021-06-05"
+last_updated: "2021-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -343,6 +343,10 @@ VI.- Respetar los Símbolos Patrios.
 
 VII.- Los ciudadanos que mantengan un bien inmueble deshabitado, deberán de conservarlo en buenas condiciones conforme a los bandos de policía y gobierno y reglamentos en la materia.
 
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2021)</small>
+
+VIII.- Auspiciar la sana alimentación, la práctica de algún deporte y la sana recreación en familia.
+
 En los municipios donde se encuentren asentados pueblos indígenas, los ayuntamientos promoverán, en el marco de las prácticas tradicionales de las Comunidades y Pueblos Indígenas, el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Particular del Estado y la Ley de los Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
 
 ## TÍTULO TERCERO. DEL GOBIERNO MUNICIPAL
@@ -447,13 +451,19 @@ Cuando por cualquier circunstancia especial no se verificare la elección de alg
 
 En aquellos casos en que se ponga en peligro la paz pública o la estabilidad de las instituciones, no se celebrarán nuevas elecciones, esto a juicio del Congreso del Estado, quien lo hará del conocimiento del Titular del Poder Ejecutivo mismo que procederá a proponerle la integración de un Consejo Municipal, en los términos establecidos por la Constitución Local y por esta Ley. Hasta en tanto sea posible la instalación del Consejo, el Titular del Poder Ejecutivo nombrará a un encargado de la Administración Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 41.
 
-Los Ayuntamientos podrán instalarse válidamente con la mayoría de sus miembros.
+Los Ayuntamientos electos tanto por el sistema de partidos políticos como por sistemas normativos internos, podrán instalarse válidamente con la mayoría de sus miembros.
 
-El Ayuntamiento instalado, sin la totalidad de los miembros electos propietarios, procederá de inmediato a notificar a los ausentes para que asuman su cargo en un plazo no mayor de cinco días hábiles, si no se presentan, transcurrido este plazo, serán llamados los Suplentes, quienes entrarán en ejercicio definitivo.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2021)</small>
 
-Si no se presentan los Suplentes que correspondan, se dará aviso a la Legislatura del Estado, para que ésta designe de entre los Suplentes electos restantes al o los que deban ocupar el o los cargos vacantes.
+El Ayuntamiento instalado, existiendo ausencia de alguno o algunos de los miembros electos propietarios, procederá de inmediato a notificar a los ausentes para que asuman su cargo en un plazo no mayor de cinco días hábiles, si no se presentan, transcurrido este plazo, serán llamados los Suplentes, quienes entrarán en ejercicio definitivo.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2021)</small>
+
+Si no se presentan los Suplentes que correspondan, el ayuntamiento designará de entre los Suplentes electos restantes al o los que deban ocupar el o los cargos vacantes, respetando el derecho de prelación. De no lograr el acuerdo respectivo, el Congreso del Estado los designará.
 
 > <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2019)</small>
 
@@ -1841,7 +1851,9 @@ IV.- Contraloría Interna Municipal
 
 V.- Oficialía de Partes Municipal.
 
-Cuando las posibilidades económicas de un Municipio no permitan el funcionamiento de más dependencias administrativas, los concejales realizarán las actividades relativas a la regiduría o comisión que les haya asignado el Ayuntamiento, pero no así las correspondientes al secretario y tesorero.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2021)</small>
+
+Cuando las posibilidades económicas de un Municipio no permitan el funcionamiento de más dependencias administrativas, los concejales realizarán las actividades relativas a la regiduría o comisión que les haya asignado el Ayuntamiento, pero no así las correspondientes al secretario, tesorero y contralor Interno Municipal.
 
 ###### ARTÍCULO 89.
 
@@ -2313,39 +2325,63 @@ ARTÍCULO 126 BIS.- Las funciones de supervisión, evaluación y control de los 
 
 El órgano interno municipal es el mecanismo que promueve e integra la participación plural y democrática de la sociedad.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2021)</small>
 
-ARTÍCULO 126 TER.- Los Municipios con población de veinte mil habitantes o más, deberán contar con una Contraloría Interna Municipal, la cual tendrá un titular denominado Contralor Interno Municipal, quien será designado por la mayoría de los integrantes del Ayuntamiento; y por los comités de contraloría social, los cuales serán electos en asamblea general, por los ciudadanos del Municipio.
+ARTÍCULO 126 TER.- Los Municipios deberán contar con un Órgano Interno de Control Municipal, el cual tendrá un titular denominado Contralor Interno Municipal; quien será designado por la mayoría de los integrantes del Ayuntamiento; y por los comités de contraloría social, los cuales serán electos en asamblea general, previo procedimiento de convocatoria pública.
 
-En los Municipios con población menor de veinte mil habitantes, las funciones de la Contraloría Interna Municipal serán realizadas por la Comisión de Rendición de Cuentas, Transparencia y Acceso a la Información, la Comisión que se acuerde en sesión de cabildo o el Ayuntamiento y el Tesorero Municipal de conformidad con lo dispuesto en el artículo 126 de la presente Ley.
+La designación del titular del Órgano Interno de Control se llevará a cabo mediante convocatoria pública abierta para todas las personas en la que se establecerán las etapas completas para el procedimiento, las fechas límite y los plazos improrrogables, así como los requisitos que el artículo 126 Quinquies que esta Ley señala que deben satisfacer los aspirantes y los documentos que deben presentar para acreditarlos.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2017)</small>
+En los Municipios con población menor de veinte mil habitantes; las funciones del Órgano Interno de Control Municipal serán realizadas por la Comisión de Rendición de Cuentas, Transparencia y Acceso a la Información, la Comisión que se acuerde en sesión de cabildo o el Ayuntamiento y el Tesorero Municipal de conformidad con lo dispuesto en el artículo 126 de la presente Ley.
+
+> <small>(DEROGADA, P.O. 12 DE JUNIO DE 2021)</small>
 
 #### Sección Primera. De la Contraloría Municipal
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2021)</small>
 
-ARTÍCULO 126 QUATER.- La Contraloría Interna Municipal, tendrá las siguientes atribuciones:
+ARTÍCULO 126 QUATER.- El Órgano Interno de Control Municipal, tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 I.- La revisión y fiscalización de la hacienda pública municipal, para verificar que se haya recibido, recaudado, administrado, ejercido y aplicado los recursos económicos que conforme a los diversos ordenamientos legales y normatividades le corresponden al Municipio;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 II.- Vigilar que el patrimonio municipal esté debidamente resguardado, valuado y registrado en el sistema de contabilidad municipal y se refleje en los estados financieros del Municipio y demás informes que deban de emitirse de conformidad con la normatividad emitida por el Consejo Nacional de Armonización Contable;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 III.- Comprobar que todos los ingresos y egresos del Municipio, estén debidamente comprobados, justificados y registrados en el sistema de contabilidad gubernamental y se reflejen en los estados financieros e informes que deban emitirse periódicamente de conformidad con las normas emitidas por el Consejo Nacional de Armonización Contable;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 IV.- Vigilar que se cumpla con la Ley de Ingresos del Municipio y el Presupuesto Anual de Egresos del Municipio, realizando un análisis de las desviaciones detectadas y en su caso emitir las recomendaciones que procedan a las áreas implicadas.
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 V.- Establecer las políticas, lineamientos, objetivos y acciones en materia de control interno, transparencia, rendición de cuentas, prevención y combate a la corrupción;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 VI.- Ordenar y realizar auditorías a las Dependencias y Entidades de la Administración Pública Municipal, con el propósito de proponer medidas correctivas en sus operaciones y el cumplimiento de los objetivos contenidos en sus programas, así como corroborar la correcta aplicación de los recursos provenientes de programas federales, estatales y los concertados con la federación conforme a sus reglas de operación;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 VII.- Vigilar que los recursos financieros destinados a la ejecución de programas, prestación de servicios y la administración Municipal, sean enfocados a los objetivos propuestos y se apliquen con oportunidad, eficacia honestidad, transparencia y rendición de cuentas;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 VIII.- Vigilar que la Tesorería Municipal y demás áreas implicadas cumplan con las normas y disposiciones en materia de sistemas de registro, contabilidad, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 IX.- Supervisar que la ejecución de los convenios celebrados entre el Ayuntamiento del Municipio con el Gobierno del Estado y con la Federación se cumplan en sus términos acordados;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 X.- Evaluar, supervisar, verificar, física y financieramente, el avance e información de los programas e inversión y obra pública, así como la aplicación de los recursos a ellos destinados, autorizados previamente y conforme a las disposiciones legales en la materia;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 XI.- Revisar y auditar la ejecución física y financiera de los programas de inversión y obra pública, que se realicen en el Municipio con recursos propios o con recursos provenientes de convenios con el Estado, con la federación o de cualquier otra índole;
 
@@ -2353,37 +2389,71 @@ XI.- Revisar y auditar la ejecución física y financiera de los programas de in
 
 XII.- Vigilar el cumplimiento de las observaciones y recomendaciones emitidas por el Órgano Superior de Fiscalización del Estado de Oaxaca;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 XIII.- Supervisar que los proveedores de bienes y servicios, y contratistas, cumplan lo estipulado en los contratos que celebren con el Ayuntamiento del Municipio o sus dependencias y entidades;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 XIV.- Participar en las licitaciones públicas convocadas para seleccionar a los proveedores de bienes, servicios y obras públicas, con el objeto de vigilar y validar que los procedimientos para las adjudicaciones que se asignen, se realicen con estricto apego a las leyes y demás ordenamientos legales aplicables.
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 XV.- Recibir y registrar en la plataforma nacional las declaraciones patrimoniales, de intereses y fiscal en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 XVI.- Reglamentar y participar en el procedimiento de Entrega-Recepción de las oficinas de las Dependencias y Entidades de la Administración Pública Municipal, en los términos de las disposiciones legales, aplicando en su caso, las responsabilidades en que incurran los funcionarios e imponer la sanción correspondiente;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 XVII.- Reglamentar y participar en el procedimiento de Entrega-Recepción de la Administración Pública Municipal, en los términos de la presente ley y demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 XVIII.- Vigilar que la prestación de los servicios públicos sea conforme a los principios de legalidad, transparencia, honradez e imparcialidad, y atender e investigar las quejas, denuncias, peticiones, recomendaciones y sugerencias que presente cualquier interesado en relación con las responsabilidades de los servidores públicos de las dependencias, y entidades de la Administración Pública Municipal, e investigar los actos, omisiones o conductas de los servidores públicos y, en su caso, fincar responsabilidades administrativas, para imponer sanciones de acuerdo con las disposiciones aplicables;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 XIX.- Vigilar que las obras públicas se realicen de acuerdo a la planeación, programación, presupuesto y especificaciones convenidas, debiendo supervisar desde la contratación, autorización y anticipo de pago de estimaciones, hasta su finiquito y entrega, sin demérito de la responsabilidad directa del Responsable de la Obra Pública Municipal.
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 XX.- Vigilar e investigar los actos, omisiones o conductas de los servidores públicos y particulares que constituyan alguna responsabilidad administrativa, aplicando las sanciones en los términos de las disposiciones legales, y en su caso, formular la denuncia o querella correspondiente ante el Ministerio Público o promover las acciones legales que procedan ante el Tribunal de lo Contencioso Administrativo y de Cuentas;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 XXI.- Llevar el registro y control de los servidores públicos sancionados;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 XXII.- Llevar el registro y control de los proveedores, contratistas y particulares que hayan sido sancionados;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 XXIII.- Imponer las sanciones que conforme a derecho procedan;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 XXIV.- Formar parte del Comité de Transparencia y Acceso a la Información Pública del Municipio y sancionar en su caso a los servidores públicos, que por negligencia u omisión incumplan con dar respuesta a las solicitudes de acceso a la información pública o de protección de datos personales o con las resoluciones emitidas por el órgano local y federal garantes de este derecho o los tribunales federales;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 XXV.- Vigilar que las Dependencias y Entidades Municipales, cumplan para la celebración de sus contratos con lo dispuesto en las leyes y normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 XXVI.- Informar permanentemente al Ayuntamiento del resultado de las evaluaciones y auditorías realizadas, y proponer las medidas correctivas que procedan;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 XXVII.- Fomentar entre los servidores públicos municipales, la cultura de la legalidad, ética y calidad en el servicio público, a través de programas y acciones para la atención eficiente y de calidad, que el Ayuntamiento, sus Dependencias y Entidades de la Administración Pública Municipal deban proporcionar a la ciudadanía;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+
 XXVIII.- Cumplir con la (sic) obligaciones que le impone la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción, así como las recomendaciones, políticas públicas, lineamientos y cualquier normatividad que emitan las instancias del Sistema Nacional Anticorrupción y del Sistema Estatal de Combate a la Corrupción, para la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de la hacienda pública y el patrimonio municipal; y,
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
 XXIX.- Las demás que en el ámbito de su competencia le confieran el Ayuntamiento y demás disposiciones legales aplicables.
 
@@ -2401,13 +2471,13 @@ IV. Ser de reconocida honorabilidad, responsabilidad en el ejercicio de su profe
 
 V. No haber sido sentenciado por delito doloso, ni haber sido inhabilitado.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2021)</small>
 
-ARTÍCULO 126 SEXDECIES (SIC).- El titular de la Contraloría Interna Municipal durante el ejercicio de su función no podrá desempeñar otro cargo remunerado dentro de la administración pública federal, estatal o municipal; así como participar en actividades proselitistas a favor de partidos políticos.
+ARTÍCULO 126 SEXDECIES (SIC).- El titular del Órgano Interno de Control Municipal, durante el ejercicio de su función no podrá desempeñar otro cargo remunerado dentro de la administración pública federal, estatal o municipal; así como participar en actividades proselitistas a favor de partidos políticos.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2017)</small>
+(REUBICADA [N. DE E. ANTES SECCIÓN SEGUNDA], P.O. 12 DE JUNIO DE 2021)
 
-#### Sección Segunda. De los Comités de Contraloría Social
+#### Sección Primera. De los Comités de Contraloría Social
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
 
@@ -2457,9 +2527,9 @@ El Ayuntamiento, a través de las autoridades correspondiente (sic) que construy
 
 Asimismo, el Órgano Superior de Fiscalización del Estado de Oaxaca, la Secretaría de la Contraloría y Transparencia Gubernamental deberá capacitar y asesorar a los comités de contraloría social para el ejercicio de sus funciones.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES SECCIÓN TERCERA], P.O. 12 DE JUNIO DE 2021)</small>
 
-#### Sección Tercera. De las Sanciones a la Contraloría Interna Municipal
+#### Sección Segunda. De las sanciones de la contraloría interna municipal
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
@@ -2861,9 +2931,11 @@ Cada Municipio establecerá una Unidad de Protección Civil, la cual estará obl
 
 ### CAPÍTULO VIII. DE LA CRÓNICA MUNICIPAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 164.
 
-Para propiciar e impulsar el rescate de la historia del Municipio, se elegirá un Cronista o Consejo de Cronistas por mayoría simple. El nombramiento del Cronista o de los miembros del Consejo de Cronistas lo otorgará el Ayuntamiento en sesión de Cabildo y deberá ser honorífico.
+Para propiciar e impulsar el rescate de la historia del Municipio, al inicio de cada administración se elegirá un Cronista o Consejo de Cronistas o en su caso se ratificarán los mismos por mayoría simple. El nombramiento del Cronista o de los miembros del Consejo de Cronistas lo otorgará el Ayuntamiento en sesión de Cabildo y deberá ser honorífico.
 
 Son deberes del Cronista o del Consejo de Cronistas: llevar un registro de hechos notables relativos al Municipio, promover el acervo y manifestaciones culturales, proponer la integración del escudo municipal, ser asesor en la materia y fuente de información del Municipio, registrando en su caso, los usos y costumbres de la comunidad.
 
@@ -4136,5 +4208,13 @@ P.O. 5 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2415.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULO (SIC) 63 Y 65; Y SE ADICIONAN EL ARTÍCULO (SIC) 36BIS (SIC), 63 BIS Y LA FRACCIÓN XI DEL ARTÍCULO 61 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Publíquese (sic) en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2431.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 41; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 88; EL ARTÍCULO 126 TER; EL ARTÍCULO 126 QUÁTER; EL ARTÍCULO 126 SEXDECIES Y EL PRIMER PÁRRAFO DEL ARTÍCULO 164. SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 28. SE DEROGA LA DENOMINACIÓN DE LA SECCIÓN PRIMERA "DE LA CONTRALORÍA MUNICIPAL”, DEL CAPÍTULO IV BIS; ASUMIENDO LA SECCIÓN PRIMERA, LA SECCIÓN SUBSECUENTE DENOMINADA "DE LOS COMITÉS DE CONTRALORÍA SOCIAL" QUE CONTIENE LOS ARTÍCULOS 126 SEPTENDECIES, 126 OCTODECIES, 126 NOVODECIES, 126 VICIES Y 126 UNVICIES, Y ASUMIENDO LA SECCION SEGUNDA LA SECCION SUBSECUENTE DENOMINADA "DE LAS SANCIONES A LA CONTRALORÍA INTERNA MUNICIPAL", QUE CONTIENE LOS ARTÍCULOS 126 DUOVICIES Y 126 TERVICIES; TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
