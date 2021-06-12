@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-cultural-para-el-estado-de-oaxaca-76635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-28"
-last_updated: "2021-03-13"
+last_updated: "2021-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,109 +21,81 @@ state: "OAX"
 ---
 # LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
+LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2021.
 
-Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
+Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 28 de Agosto de 2010.
 
-DECRETO # 75
+LIC. ULISES ERNESTO RUIZ ORTIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
 
-LA HONORABLE QUINCUAGESIMA QUINTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO DECRETA.
+QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN, APROBAR LO SIGUIENTE:
 
-EXPOSICION DE MOTIVOS
+DECRETO NUM. 1980
 
-Los trabajadores y empleados al servicio de las entidades públicas del Estado de Zacatecas comparten con los funcionarios públicos, ya sean de elección popular o los denominados de confianza, la responsabilidad de hacer un buen gobierno. Ellos han comprendido que sin su leal cooperación, las mejores intenciones de los funcionarios no pueden ser eficaces.
+LA SEXAGÉSIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, APRUEBA:
 
-Tiempo hubo cuando, lo mismo en Zacatecas que en otras entidades federativas, el trabajador al servicio del Estado ocupaba una situación precaria. Cada cambio político de la administración y hasta cualquier cambio de jefes de oficina, significaba la pérdida del empleo con la consecuente zozobra económica y moral para los trabajadores. Los empleos en las oficinas del Estado se consideraban como legítimo botín de los políticos afortunados. Esa situación afectaba grandemente el carácter de la política estatal.
+LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-La presente ley garantiza los derechos de los trabajadores al servicio de las entidades públicas y los coloca al abrigo de arbitrariedades de los jefes de oficina; los libera de las angustias de la cesantía y los reviste de la seguridad necesaria, para que en el seno de su familia se mantenga la dignidad y el Gobierno cuente con la garantía de un servicio eficaz.
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-En virtud del presente ordenamiento se les reconocen a los trabajadores al servicio de las entidades públicas los legítimos derechos que históricamente han conquistado, pero como contrapartida se les imponen responsabilidades legalmente exigibles, porque se les han creado obligaciones que cumplir.
-
-El otro gran deber de los trabajadores oficiales es su eficacia creciente. La seguridad en sus empleos no debe traducirse en molicie sino en estímulo de mejoramiento. El trabajo en el sector gubernamental debe realizarse con puntualidad, sin dilaciones, con exactitud y con lealtad. De ahí que la presente ley ponga un énfasis especial para brindar a los trabajadores del Estado las facilidades adecuadas para capacitarse y adiestrarse a la altura de sus justas ambiciones y de las necesidades de los servicios públicos.
-
-El Estado deberá en esa forma dar ejemplo, haciendo que la capacitación, el decoro, la dedicación y la honradez de sus servidores, sea premiada con una amplia remuneración, de tal manera que ser empleado del Gobierno signifique poder tener para sí y para sus familias, satisfacción de todas sus necesidades y aspiraciones legítimas.
-
-En lo sucesivo y en virtud de la presente ley, los trabajadores al servicio del Estado tendrán la garantía de sus derechos y las oportunidades para lograr su bienestar y para ascender a mejores condiciones en la medida de sus aspiraciones y de sus empeños.
-
-La anterior Ley del Servicio Civil databa del año de 1989 y su contenido tomó en cuenta las circunstancias propias de ese momento para una regulación justa de la relación de trabajo y solución de la problemática suscitada entre los titulares de las entidades públicas y sus trabajadores.
-
-Debido al constante incremento del sujeto activo a quien le es dirigida y aplicable la norma laboral, en virtud de que, por una parte, el magisterio se descentralizó quedando adscrito al propio régimen de las entidades públicas y por la otra, que los registros naturales y por gestión sindical, denotan un aumento considerable en la membresía, hizo necesaria la expedición de una nueva legislación del servicio civil.
-
-Resultado de un estudio comparativo de nuestra legislación con las similares de otras entidades federativas, nuestra ley aparecía fuera de contexto y actualización real para las exigencias presentes de los servidores públicos. En la elaboración de la iniciativa, y posteriormente, en el análisis a fondo, que se realizó al seno de las Comisiones Legislativas de la Legislatura, concurrieron opiniones tanto de los servidores públicos, de los dirigentes de sus organizaciones sindicales, las cuales quedaron debidamente plasmadas en el contenido de las disposiciones de este nuevo ordenamiento legal.
-
-Del contenido de la nueva Ley de Servicio Civil se desprende que ésta regula una relación jurídica administrativa justa entre el Estado y sus servidores, de acuerdo con los postulados del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y en algunos casos, rebasa los mínimos de protección a que se contrae dicho artículo, humanizando en todo lo posible esta relación, porque respeta los siguientes principios:
-
-- El salario sólo puede afectarse en los casos previstos por la Ley Suprema.
-
-- Los servidores públicos gozan de los derechos de escalafón, de capacitación y adiestramiento.
-
-- Los servidores sólo pueden ser suspendidos en los términos que fija la Carta Magna.
-
-- Los trabajadores de confianza tendrán, no únicamente derecho a disfrutar las medidas de protección al salario y de la seguridad social, sino que, por vez primera, disfrutarán de la prerrogativa de convertirse en trabajdores (sic) de base siempre y cuando se cumplan razonables requisitos.
-
-- Los servidores públicos tienen derecho de asociarse para la defensa de sus intereses y el derecho de huelga previamente al cumplimiento de los requisitos que señala esa misma ley, según los términos de la fracción X del Apartado B del artículo 123 constitucional.
-
-- Al respecto, la nueva Ley garantiza con particular énfasis, la plena libertad de asociación de que deben disfrutar los trabajadores.
-
-- Los conflictos individuales, colectivos, intrasindicales o intersindicales, serán sometidos a la jurisdicción de un Tribunal Local de Conciliación y Arbitraje, cuyos tres magistrados durarán en su encargo seis años, pudiendo ser reelectos.
-
-Las fórmulas normativas de la nueva ley establecen novedades, pero sobre todo, equitativos mecanismos para la designación de los magistrados integrantes del Tribunal.
-
-Así, los sindicatos en una convención designarán a su magistrado representante.
-
-A su vez, el nombramiento del magistrado representante de las entidades públicas lo hará la Legislatura del Estado de una terna formada por un candidato propuesto por la Asamblea de Presidentes Municipales, y dos candidatos propuestos por el titular del Ejecutivo del Estado.
-
-Por su parte, el Magistrado Presidente será nombrado por la propia Asamblea de Diputados, de una terna que proponga el Tribunal Superior de Justicia del Estado.
-
-Con tales procedimientos de designación se garantiza la imparcialidad y la independencia de criterio en los miembros del Tribunal Local de Conciliación y Arbitraje.
-
-Con todo ello, la finalidad que se pretende es elevar la calidad de la justicia laboral entre las entidades públicas y los trabajadores a su servicio
-
-La presente ley proporcionará a los servidores públicos un régimen laboral fincado en los principios constitucionales de legalidad y seguridad jurídica, pues incorpora derechos e instituciones que antes sólo eran reconocidos para los trabajadores protegidos por el Apartado A del artículo 123 constitucional, entre ellos el relativo a la carga de la prueba. Además, regula el aspecto procesal, estableciendo el procedimiento adecuado para los diversos tipos de conflictos que se pueden suscitar en el ámbito administrativo laboral.
-
-Un gobierno que tiene como cimientos al estado de derecho debe procurar que los diversos regímenes jurídicos se apeguen a los principios constitucionales de 1917, en particular, a los principios de justicia social emanados del artículo 123 de nuestra Carta Magna. Por ello, la presente ley es una respuesta a las demandas de los trabajadores al servicio del Estado, que se asume como un compromiso de quienes sólo disponen de su fuerza de trabajo para obtener los medios necesarios para una vida digna y humana.
-
-Por lo anteriormente expuesto, en nombre del Pueblo, es de decretarse y se
-
-DECRETA:
-
-LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
-
-## TITULO PRIMERO. PRINCIPIOS GENERALES
-
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2006)</small>
+### CAPÍTULO ÚNICO. PRINCIPIOS Y OBJETO DE LA PRESENTE LEY
 
 ###### Artículo 1.
 
-La presente ley tiene por objeto: normar la relación de trabajo entre los Poderes del Estado, dependencias del Poder Ejecutivo, municipios, entidades paramunicipales, y las de la administración pública paraestatal a que se refiere el artículo 3o. de la Ley Orgánica de la Administración Pública del Estado, con sus respectivos trabajadores.
-
-A todas las instituciones señaladas se les denominará entidades públicas.
+La presente ley es de observancia general en el Estado de Oaxaca y las disposiciones que contiene son de orden público e interés social.
 
 ###### Artículo 2.
 
-Para los efectos de esta ley, se entiende por:
+Esta ley tiene por objeto:
 
-I.- Relación de trabajo: La establecida entre las entidades públicas, a través de sus titulares y los trabajadores a su servicio.
+I. Reconocer y garantizar los derechos y principios establecidos en el artículo 12 párrafo vigésimo quinto de la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
-II.- Tribunal: El Tribunal Local de Conciliación y Arbitraje.
+II. Garantizar a través de un marco jurídico el respeto, protección y fomento de la diversidad cultural del Estado, así como del patrimonio cultural de los individuos, comunidades y pueblos;
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2006)</small>
+III. Definir y ejecutar los principios generales de la política cultural en el Estado;
 
-III.- Entidades públicas: los poderes del Estado, dependencias del Poder Ejecutivo, municipios, entidades paramunicipales, y las de la administración pública paraestatal.
+IV. Organizar y establecer las competencias de las autoridades estatales en materia de desarrollo cultural;
+
+V. Implementar mecanismos de participación social en el desarrollo cultural del Estado; y
+
+VI. Vincular los bienes y servicios culturales con los procesos de desarrollo económico y social del Estado.
 
 ###### Artículo 3.
 
-Trabajador es todo servidor público que presta un trabajo personal subordinado, físico o intelectual, o de ambos géneros, en virtud de nombramiento expedido, o por figurar en las nóminas de salario de los trabajadores temporales.
+Para los efectos de esta ley, se entenderá por:
+
+I. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
+
+II. Constitución Local: La Constitución Política del Estado Libre y Soberano de Oaxaca;
+
+III. Estado: El Estado Libre y Soberano de Oaxaca;
+
+IV. El Ejecutivo: El Ejecutivo del Estado;
+
+V. Ley: Ley de Desarrollo Cultural para el Estado de Oaxaca;
+
+VI. Secretaría: La Secretaría de Cultura del Gobierno del Estado;
+
+VII. El Consejo: El Consejo de Participación para el Desarrollo Cultural del Estado;
+
+VIII. Ayuntamientos: Aquellos constituidos en el Estado en términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+
+IX. Programa: El Programa Estatal de Cultura;
+
+X. Regiones: Las ochos (sic) regiones geográficas reconocidas en la legislación del Estado; y
+
+XI. Fondo: El Fondo Estatal para el Desarrollo Cultural del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 3 Bis.
 
 Todos los habitantes tienen los siguientes derechos culturales:
 
-I. Acceder a la cultura y al disfrute de los bienes y servicios que brinda el Estado en la materia;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2021)</small>
+
+I. Acceder a la cultura y al disfrute de los bienes y servicios que brinda el Estado en la materia, sin distinción de origen étnico, género, edad, discapacidad, condición física o mental, situación socio-económica, religión o preferencia sexual;
 
 II. Procurar el acceso al conocimiento y a la información del patrimonio material e inmaterial de las culturas que se han desarrollado y desarrollan en el territorio estatal y de la cultura las comunidades y pueblos que habitan las regiones del Estado;
 
@@ -147,143 +119,183 @@ El Estado garantizará que los bienes y servicios culturales estén disponibles 
 
 Toda persona que produzca cualquier obra científica, literaria o artística, tiene derecho a beneficiarse de la protección de los derechos que le correspondan, conforme a lo dispuesto en esta Ley, la Ley Federal del Derecho de Autor y demás disposiciones jurídicas aplicables.
 
-## TITULO SEGUNDO. CONDICIONES DE TRABAJO
+## TÍTULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE DESARROLLO CULTURAL
 
-### CAPITULO II. DE LOS NOMBRAMIENTOS
+### CAPÍTULO I. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
 ###### Artículo 4.
 
-Para los efectos de esta ley, los trabajadores se clasifican en tres grupos:
+Son autoridades para la aplicación de la presente Ley las siguientes:
 
-I.- De confianza;
+I. El Ejecutivo del Estado;
 
-II.- De base; y
+II. La Secretaría de Cultura;
 
-III.- Temporales.
+III. La Secretaría de Turismo;
+
+IV. El Instituto Estatal de Educación Pública para el Estado de Oaxaca; y
+
+V. Los Ayuntamientos.
 
 ###### Artículo 5.
 
-Son trabajadores de confianza aquéllos que realizan funciones de:
+Corresponde al Ejecutivo del Estado:
 
-I.- Dirección, en los cargos de directores generales, directores de área, directores adjuntos y jefes de departamento que tengan esas funciones;
+I. Definir la política cultural del Estado y aprobar el Programa Estatal de Cultura que sea propuesto por la Secretaría;
 
-II.- Inspección, vigilancia y fiscalización, así como el personal técnico que, en forma exclusiva y permanente, esté desempeñando tales funciones;
+II. Establecer una política cultural que promueva una mayor participación social en el desarrollo cultural del Estado;
 
-III.- Manejo de fondos o valores, cuando se implique la facultad legal de determinar su aplicación o destino. Queda excluido el personal de apoyo;
+III. Celebrar acuerdos, convenios, bases de colaboración o los instrumentos jurídicos que se requieran, con los órganos federales competentes, entidades federativas, instancias y organismos públicos y privados, nacionales e internacionales, para coordinar la realización de acciones, que tengan por objeto el desarrollo cultural del Estado;
 
-IV.- Auditoría, a nivel de auditores y subauditores, así como el personal técnico que, en forma exclusiva y permanente, desempeñe tales funciones, siempre que presupuestalmente dependa de las contralorías o de las áreas de auditoría;
+IV. Otorgar estímulos al trabajo creativo en los términos establecidos en la presente Ley;
 
-V.- Control directo de adquisiciones, cuando tengan la representación de la entidad pública de que se trate, con facultades para tomar decisiones sobre las adquisiciones y compras, así como el personal técnico que, en forma exclusiva y permanente, esté encargado de apoyar estas decisiones;
+V. Establecer mecanismos de vinculación entre cultura y desarrollo sustentable para fomentar el desarrollo económico y social;
 
-VI.- Investigación científica, siempre que implique facultades para determinar el sentido y la forma de investigación que se lleve; y
+VI. En el ámbito de sus atribuciones, garantizar el respeto a la diversidad cultural de los individuos, comunidades y pueblos;
 
-VII.- Control de almacén, autorización de ingreso o salida de bienes o valores y su destino; o la alta y baja en inventarios.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VII. Crear incentivos y estímulos fiscales y crediticios para personas e instituciones que desarrollen e impulsen acciones culturales;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+VIII. Contribuir con el Congreso del Estado para difundir la Convocatoria para el Premio al Periodismo Cultural “Andrés Henestrosa”, Medalla “Álvaro Carrillo” y el reconocimiento “Narciso Lico Carrillo” a la música de aliento de los Pueblos Originarios;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2021)</small>
+
+IX. Establecer políticas y acciones para otorgar subsidios y descuentos en favor (sic) las personas mayores, las personas con discapacidad y aquellas que viven en zonas con rezago económico, con el objeto de garantizar el acceso de los bienes y servicios culturales en el Estado de Oaxaca; y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 13 DE MARZO DE 2021)</small>
+
+X. Las demás que le otorgue la Ley y las disposiciones aplicables.
 
 ###### Artículo 6.
 
-Son personal de confianza los funcionarios y empleados al servicio directo del despacho del Gobernador del Estado.
+Corresponde a la Secretaría:
 
-Independientemente de la entidad pública en que preste sus servicios, se considera específicamente trabajador de confianza quien ocupe alguno de los cargos siguientes:
+I. Dirigir y ejecutar la política cultural del Estado que para el efecto establezca el Ejecutivo del Estado y la presente ley;
 
-I.- Magistrado;
+II. Proponer el Programa Estatal de Cultura al Ejecutivo, para su aprobación;
 
-II.- Secretario de Despacho;
+III. Implementar acciones y programas en relación a ejes de la política cultural señalados en la presente ley: Salvaguarda del Patrimonio Cultural; Respeto a la Diversidad Cultural; Formación, Capacitación, Educación e Investigación Artística y Cultural; Difusión y Divulgación Cultural; y Desarrollo Cultural Sustentable;
 
-III.- Procurador General de Justicia del Estado;
+IV. Establecer mecanismos que proporcionen el acceso general y equitativo hacia el disfrute de las expresiones artísticas y manifestaciones culturales; así como el uso y disfrute de los bienes y servicios culturales en el Estado;
 
-IV.- Oficial Mayor;
+V. Promover y fomentar en los diversos sectores la participación adecuada que permita obtener financiamientos adicionales a los que otorgue el Estado, para los artistas, gestores y creadores, así como para adquisición, mejoramiento o rehabilitación de la infraestructura cultural a partir de la participación activa de la sociedad civil y en especial, de los sectores económicos;
 
-V.- Representante del Gobierno del Estado en el Distrito Federal;
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2016)</small>
 
-VI.- Subsecretario;
+VI. Asesorar técnicamente a las comunidades indígenas, autoridades municipales y comunitarias en relación a sus propuestas, relativas al fortalecimiento, transmisión y preservación de sus manifestaciones culturales, así como la gestión de proyectos orientados a la cooperación cultural.
 
-VII.- Subprocurador;
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2016)</small>
 
-VIII.- Contador Mayor;
+VII. Promover programas y acciones que consideren los lugares simbólicos y al medio ambiente como un valor y bien cultural, en cuya preservación debe estimularse y coordinarse la participación de las comunidades indígenas así como el pueblo afromexicano, en su conjunto;
 
-IX.- Subcontador Mayor;
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2016)</small>
 
-X.- Director General;
+VIII. Generar centros de capacitación regionales y comunitarios que fomenten la construcción de la equidad social entre los diversos grupos étnicos en el Estado, así como el reconocimiento de la diversidad cultural y el desarrollo de relaciones de convivencia interculturales del Estado.
 
-XI.- Director de Area;
+IX. Estimular en todos los sectores de la población, el fomento de la cultura popular y la educación artística, formal e informal, el fomento a la lectura, las artes plásticas, la música, las artes escénicas, audiovisuales, tecnologías culturales, la creación literaria, la difusión editorial entre otras;
 
-XII.- Tesorero;
+X. Organizar talleres, concursos, festivales, ferias y otras formas de participación para el enriquecimiento cultural, incluyendo las actividades de organización, promoción, preservación y realización de las tradiciones;
 
-XIII.- Jefe de Departamento;
+XI. Convocar a la participación ciudadana respecto de la elaboración, promoción y divulgación de los proyectos culturales a cargo de la administración pública;
 
-XIV.- Secretario Particular;
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XV, VÉASE PUBLICACIÓN OFICIAL DE FECHA 12 DE JUNIO DE 2021.]</small>
 
-XV.- Coordinador;
+> <small>(REFORMADA , P.O. 12 DE JUNIO DE 2021)</small>
 
-XVI.- Asesor;
+XII. Otorgar reconocimientos y estímulos al mérito de los creadores artísticos, investigadores, intérpretes los promotores e investigadores culturales, mediante evaluaciones con perspectiva de género, sustentadas en los principios de objetividad, imparcialidad, interculturalidad, no discriminación e igualdad además de impulsar la formación profesional y la capacitación constante de investigadores y promotores culturales;
 
-XVII.- Vocal Ejecutivo;
+XIII. Establecer las políticas y lineamientos para la creación, uso y aprovechamiento de la infraestructura cultural disponible;
 
-XVIII.- Presidente de Organo Colegiado;
+XIV. Coordinar los trabajos del Consejo de Participación para el Desarrollo Cultural del Estado;
 
-XIX.- Juez;
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XII, VÉASE PUBLICACIÓN OFICIAL DE FECHA 12 DE JUNIO DE 2021.]</small>
 
-XX.- Secretario de Acuerdos;
+XV. Otorgar reconocimientos y estímulos al mérito de los creadores artísticos, investigadores, intérpretes o promotores e investigadores culturales, mediante evaluaciones sustentadas en los principios de objetividad, imparcialidad y equidad de género, además de impulsar la formación profesional y la capacitación constante de investigadores y promotores culturales;
 
-XXI.- Secretario de Estudio y Cuenta;
+XVI. Gestionar la recepción y la entrega de donaciones en dinero o en especie a favor del desarrollo cultural del Estado, de conformidad con las disposiciones normativas aplicables;
 
-XXII.- Defensor de Oficio;
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XXIII.- Agente del Ministerio Público;
+XVII. Establecer las políticas y lineamientos para el rescate y promoción de los deportes autóctonos y tradicionales en nuestro Estado;
 
-XXIV.- Administrador;
+XVIII. Coordinar, organizar y supervisar el funcionamiento de la Coordinación de archivos bibliográficos y hemerográficos, la Coordinación Estatal de Culturas Populares, compañías estatales y talleres de diferentes disciplinas artísticas, museos y teatros así como las entidades de la Administración Pública Local en materia de cultura que para tal efecto le sean sectorizadas;
 
-XXV.- Cajero;
+XIX. Establecer mecanismos de coordinación con los Ayuntamientos, para el funcionamiento de las Casas de Cultura, Casas del Pueblo, Bibliotecas y Hemerotecas Públicas;
 
-XXVI.- Auditor;
+XX. Impulsar la coordinación con los cronistas Municipales para sistematizar y recopilar la información acerca de la historia y tradiciones del Estado, llevando a cabo registros de temas culturales de trascendencia para la memoria cultural de Oaxaca; y
 
-XXVII.- Contralor;
-
-XXVIII.- Supervisor;
-
-XXIX.- Visitador;
-
-XXX.- Oficial de policía
-
-XXXI.- Custodio; y
-
-XXXII.-Vigilante.
-
-En los casos no previstos en la enunciación anterior, la naturaleza del trabajo se determinará tomando en cuenta las funciones abstractas del artículo precedente.
+XXI. Las demás que le confieran la presente ley y los demás ordenamientos aplicables.
 
 ###### Artículo 7.
 
-La clasificación de los puestos de confianza en cada una de las entidades públicas deberá formar parte del catálogo de puestos.
+Corresponde a la Secretaría de Turismo:
+
+I. Promover conjuntamente con la Secretaría, la cultura local como patrimonio de los oaxaqueños;
+
+II. Difundir la riqueza cultural, artesanal, artística, arqueológica, natural e histórica del Estado, a través de los diferentes medios con que disponga;
+
+III. Establecer mecanismos de coordinación con las autoridades federales, estatales y municipales, para llevar a cabo acciones que, garanticen el uso sustentable de los sitios que constituyen el patrimonio cultural de Oaxaca y coadyuven a la preservación de los mismos;
+
+IV. Realizar la planeación estratégica de las rutas, circuitos y paradores culturales, de manera integral con los distintos festivales culturales y expresiones artísticas, de las regiones del Estado, para fomentar el turismo, regional nacional e internacional; y
+
+V. Las demás que le confieran la presente ley y los demás ordenamientos aplicables.
 
 ###### Artículo 8.
 
-Los trabajadores de confianza tendrán las siguientes prerrogativas:
+Corresponde al Instituto Estatal de Educación Pública para el Estado de Oaxaca:
 
-I.- Disfrutarán de las medidas de protección al salario y de la seguridad social;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-II.- Tendrán derecho a convertirse en trabajadores de base, con opinión del sindicato, dentro de las disponibilidades del catálogo de puestos, cuando reúnan los siguientes requisitos:
+I. Incorporar en los planes y programas de estudio en la estructura formal de la educación básica, el conocimiento de las artes, la práctica de los deportes autóctonos y juegos tradicionales de nuestro Estado, la diversidad cultural y las distintas expresiones de los pueblos y comunidades fomentando las culturas locales y regionales y respetando la autodeterminación indígena;
 
-a) Que acrediten una antigüedad mínima de seis años al servicio de un mismo municipio o de la Legislatura, o de doce años, como trabajadores de cualquier otra entidad pública;
+II. Impulsar en conjunto con la Secretaría programas de fomento a la lectura y creación literaria;
 
-b) Que en sus expedientes personales, no aparezcan notas graves, a juicio del Tribunal, que hayan sido motivo de sanción.
+III. Impulsar la capacitación conjuntamente con la Secretaría a docentes de educación básica en temas relativos al patrimonio cultural del estado;
 
-III.- En los casos de la fracción anterior, el cómputo para efectos de jubilación comenzará a partir de su ingreso al trabajo, independientemente de la naturaleza de éste, en los términos de la legislación sobre seguridad social; y
+IV. Celebrar convenios de colaboración con la Secretaría, para la promoción y difusión de la cultura en las diversas instancias de educación básica, media, media superior y superior en el Estado; y
 
-IV.- Ejercitar las acciones a que se refiere el artículo 33 de este ordenamiento, cuando la entidad rescinda la relación laboral, sin que medie motivo razonable de pérdida de la confianza, aún cuando no coincida con las causas justificadas de rescisión a que se refiere al artículo 29 de esta Ley.
+V. Las demás que señale la presente Ley o los ordenamientos jurídicos aplicables.
 
 ###### Artículo 9.
 
-Han de considerarse de base las categorías que con esta clasificación consigne el catálogo de puestos del Estado para el personal de la Secretaría de Educación y Cultura.
+Corresponde a los Ayuntamientos:
 
-## TITULO TERCERO. DEL ESCALAFON
+I. Elaborar y ejecutar programas para el desarrollo de las expresiones culturales dentro de los territorios municipales;
 
-### CAPITULO III. DE LA SUSPENSION DE LOS EFECTOS DE LA RELACION DE TRABAJO
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+
+II. Preservar el patrimonio cultural, así como fomentar e impulsar las manifestaciones y actividades artísticas y culturales, así como los deportes autóctonos y tradicionales propias (sic) de los municipios, sus ferias, tradiciones, realizando un registro y catalogación de los mismos;
+
+III. Establecer mecanismos de coordinación con la Secretaría para el funcionamiento de las Casas de Cultura, Casas del Pueblo, Bibliotecas y Hemerotecas Públicas, para que éstas coadyuven al desarrollo de la promoción, difusión y estimulación de la creación y formación artística y la investigación cultural en los municipios;
+
+IV. Constituir órganos de apoyo en la coordinación y ejecución de los programas culturales municipales;
+
+V. Promover y organizar por si o en coordinación con las dependencias y entidades competentes e instancias privadas o sociales, la realización de exposiciones, ferias, festivales, certámenes, cursos y representaciones de carácter cultural y artístico, que fomenten el desarrollo de las manifestaciones artísticas en todas sus disciplinas;
+
+VI. Designar cronistas municipales, de conformidad con la Ley Municipal para el Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VII. Estimular la creatividad popular y los programas que permitan la preservación y difusión de las manifestaciones culturales en su territorio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Coadyuvar con las instituciones de educación básica, para el desarrollo de la educación cultural y la realización de actividades artísticas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX. Las demás que señale la presente Ley o los ordenamientos jurídicos aplicables.
+
+## TÍTULO TERCERO. DE LA POLÍTICA CULTURAL
+
+### CAPÍTULO PRIMERO. DE LOS EJES ESTRATÉGICOS DE LA POLÍTICA CULTURAL
 
 ###### Artículo 10.
 
-Son trabajadores temporales aquéllos a quienes se otorgue nombramiento de los señalados en las fracciones II, III, IV y V del artículo 18 de esta ley.
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2005)</small>
+El Estado como parte de la política cultural, reconoce el derecho de toda persona al acceso a la cultura y al disfrute de los bienes y servicios culturales, así como a la libre manifestación de sus expresiones culturales.
 
 ###### Artículo 10 Bis.
 
@@ -291,63 +303,71 @@ En la clasificación relativa a los trabajadores que prevé la presente ley, se 
 
 ###### Artículo 11.
 
-Las disposiciones de esta ley son de orden público, por lo que no producirá efecto legal, ni impedirá el ejercicio y goce de los derechos, sea escrita o verbal, la estipulación que establezca:
+La política cultural del Estado estará sustentada en base a los lineamientos y principios de los siguientes ejes estratégicos:
 
-I.- Una jornada mayor que la permitida por esta ley;
+I. Salvaguarda del Patrimonio Cultural;
 
-II.- Horas extraordinarias para los menores de dieciséis años;
+II. Respeto a la Diversidad Cultural;
 
-III.- Un salario inferior al mínimo;
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2021)</small>
 
-IV.- La obligación directa o indirecta para obtener artículos de consumo en tienda o lugar determinado;
+III. Igualdad de Género.
 
-V.- La facultad del titular de la entidad pública para retener el salario por concepto de multa;
+IV. Formación, Capacitación, Educación e Investigación Artística y Cultural;
 
-VI.- Renuncia por parte del trabajador de cualquiera de los derechos o prerrogativas consignados en las normas de trabajo; y
+V. Difusión y divulgación cultural; y
 
-VII.- Una jornada excesiva o peligrosa para la salud de la servidora pública embarazada, o para el producto de la concepción.
+VI. Desarrollo Cultural Sustentable.
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2017)</small>
+
+VII. Salvaguarda del Patrimonio Biocultural Colectivo.
 
 ###### Artículo 12.
 
-En lo no previsto por esta Ley, se aplicarán supletoriamente y en su orden:
-
-I.- Los principios generales de justicia social que derivan del artículo 123, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal de los Trabajadores al Servicio del Estado;
-
-II.- Los principios generales de justicia social que derivan del artículo 123, apartado A, de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo;
-
-III.- La jurisprudencia;
-
-IV.- La costumbre; y
-
-V.- La equidad.
+El Ejecutivo del Estado por conducto de la Secretaría establecerá en la ejecución de políticas públicas en materia cultural acciones que eviten toda discriminación cultural motivada por origen étnico o nacional, género, idioma, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias u orientación sexual, estado civil o cualquier otra circunstancia o condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades.
 
 ###### Artículo 13.
 
-En la interpretación de esta ley se tomará en cuenta que el trabajo no es artículo de comercio, que exige respeto para la libertad y dignidad de quien lo presta y debe efectuarse en condiciones que aseguren la vida, salud y nivel de vida decoroso para el trabajador y su familia; en caso de duda prevalecerá la interpretación más favorable al trabajador.
+Para efectos de esta Ley se entenderá por actividades, bienes y servicios culturales, aquellas que desde el punto de vista de su calidad, utilidad o finalidad, contienen o transmiten expresiones culturales, independientemente del valor comercial que puedan tener
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2021)</small>
 
 ###### Artículo 14.
 
-El personal operativo de las fuerzas de seguridad del Estado y municipios, que no desempeñen funciones administrativas, se regirán por sus propios reglamentos, los cuales deberán contener las disposiciones legales para proteger los derechos que correspondan a estos servidores públicos.
+En la planeación y ejecución de las políticas públicas en materia cultural en el Estado, la Secretaría observará en todo momento los principios de transparencia y rendición de cuentas, perspectiva de género, interculturalidad, no discriminación, igualdad y lenguaje incluyente, entre otros.
 
-### CAPITULO IV. DE LA TERMINACION DE LA RELACION DE TRABAJO
+### CAPÍTULO SEGUNDO. DE LA SALVAGUARDA DEL PATRIMONIO CULTURAL
 
 ###### Artículo 15.
 
-El cambio de titulares de las entidades públicas no afectará a los derechos de los trabajadores.
+Se entiende por patrimonio cultural tangible o material, el constituido por los bienes muebles e inmuebles, tanto públicos como privados, localidades, conjuntos poblacionales, sus territorios y bellezas naturales, centros históricos, conjuntos urbanos y rurales, así como los bienes que por su valor antropológico, arquitectónico, histórico, artístico, técnico etnográfico, científico, cosmogónico o tradicional, tengan relevancia para los habitantes del Estado, representativos de una época o sea conveniente su conservación para la posteridad, y por patrimonio cultural intangible o inmaterial los usos, representaciones, expresiones, conocimientos y técnicas, que las comunidades, los grupos y en algunos casos los individuos, reconocen como parte integrante de su patrimonio cultural.
 
 ###### Artículo 16.
 
-Las actuaciones y certificaciones que hubieren de hacerse con motivo de la aplicación de las disposiciones contenidas en la presente ley, no causarán impuestos o derechos estatales o municipales.
+Se declara de interés público la salvaguarda, conservación, restauración, recuperación, preservación, promoción, difusión, enriquecimiento e investigación del patrimonio cultural tangible e intangible del Estado, el cual debe ser valorizado y transmitido a las generaciones futuras en todas sus formas como testimonio de la experiencia y de las aspiraciones humanas, a fin de nutrir la creatividad en toda su diversidad e instaurar un verdadero diálogo intercultural en el Estado.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 17.
 
-El nombramiento es el instrumento jurídico que formaliza la relación de trabajo entre la entidad pública y el trabajador.
+Las autoridades estatales y municipales competentes en materia de protección al Patrimonio Cultural, desarrollo urbano y ecología, podrán coordinarse y realizar acuerdos de colaboración con las dependencias federales en la materia, cuando dentro del territorio estatal o municipal se encuentren monumentos arqueológicos, artísticos e históricos, para:
 
-Los trabajadores prestarán sus servicios en virtud de nombramiento expedido por el funcionario competente, excepto cuando se trate de trabajadores temporales, para obra o tiempo determinados, en cuyo caso el nombramiento podrá ser sustituido por la lista de raya correspondiente.
+I. Construir o acondicionar edificios a efecto de exhibir monumentos arqueológicos, históricos y artísticos, así como restaurarlos y conservarlos;
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2005)</small>
+II. Colaborar en la conservación de los monumentos arqueológicos, históricos y artísticos;
 
-Los mayores de dieciséis años y las personas con alguna discapacidad física pueden prestar libremente sus servicios, los mayores de catorce y menores de dieciséis años, necesitan de autorización de sus padres y tutores a falta de ellos, por resolución de Tribunal.
+III. Solicitar a las dependencias federales en materia de protección del Patrimonio Cultural, asesoría para la conservación y restauración de los monumentos y zonas de protección;
+
+IV. Auxiliar a los inspectores de zonas de protección o monumentos arqueológicos, históricos o artísticos, cuando éstos se lo soliciten;
+
+V. Negar cualquier licencia de obra, sobre las colindancias o las zonas de protección o monumentos arqueológicos, históricos o artísticos, sin la previa autorización de la dependencia federal competente;
+
+VI. Promover de manera conjunta, la organización de las asociaciones civiles y vecinales o en su caso, a la unión de campesinos y comunidades indígenas para que sean considerados como órganos auxiliares para impedir el saqueo arqueológico e histórico, así como establecer museos regionales; e
+
+VII. Intervenir cuando se presuma daño, saqueo, deterioro o destrucción de los monumentos arqueológicos, debiendo en su caso, hacerlo del conocimiento de la autoridad competente en la mayor brevedad posible.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 17 Bis.
 
@@ -361,239 +381,183 @@ III. Los procedimientos para expedir licencia de construcción en monumentos y z
 
 IV. Las prevenciones y medidas científicas, jurídicas y técnicas que sugieran dentro de su competencia, las dependencias federales sobre los monumentos arqueológicos, artísticos e históricos.
 
-### CAPITULO V. DE LA RESCISION DE LA RELACION DE TRABAJO
+### CAPÍTULO TERCERO. DE LA DECLARATORIA DE PATRIMONIO CULTURAL
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-Los nombramientos de los trabajadores podrán ser:
+Los bienes del Patrimonio Cultural del Estado podrán ser objeto de declaratoria. La declaratoria es el acto jurídico del Titular del Poder Ejecutivo, del Congreso del Estado o del Ayuntamiento, que tiene por objeto otorgar un reconocimiento adicional a un bien.
 
-I.- Definitivos, aquéllos que se otorguen para ocupar plazas de base;
+La declaratoria podrá hacerse sobre un elemento individual o sobre un conjunto de elementos que guarden algún tipo de relación entre sí.
 
-II.- Interinos, los que se otorguen para ocupar plazas vacantes que no excedan de seis meses;
+La solicitud para la emisión de una declaratoria podrá ser promovida de oficio, por acuerdo de Ayuntamiento o a petición de parte, mediante escrito dirigido a la Secretaría o al Ayuntamiento según sea el caso, con los siguientes datos:
 
-III.- Provisionales, los que de acuerdo con el escalafón, se otorguen para ocupar plazas de base vacantes, por licencias mayores de seis meses;
+I. Nombre y domicilio del promovente;
 
-IV.- Por tiempo determinado, los que se expidan con fecha precisa de terminación para trabajos eventuales o de temporada; y
+II. Descripción del bien, conjunto de bienes o zona objeto de la solicitud, de acuerdo a la reglamentación correspondiente;
 
-V.- Por obra determinada, los que se otorguen para realizar tareas directamente ligadas a una obra que por su naturaleza no es permanente; su duración será la de la materia que le dio origen.
+III. Exposición de motivos que sustenten su petición, los documentos o elementos que estime necesarios para sustentar y justificar su petición.
+
+La declaratoria podrá recaer tanto en bienes materiales e inmateriales, propiedad del Estado o de los municipios como en los bienes de propiedad privada, sin afectar su titularidad.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 19.
 
-Los nombramientos deberán contener:
+El procedimiento para la emisión de la declaratoria será el siguiente:
 
-I.- Nombre, nacionalidad, edad, sexo, estado civil y domicilio del nombrado;
+I. Recibida una solicitud de declaratoria, la Secretaría o la dependencia municipal en materia de cultura, contará con un término de sesenta días para integrar un expediente que deberá contener cuando menos lo siguiente:
 
-II.- Los servicios que deban prestarse, los que se determinarán con la mayor precisión posible;
+a) Antecedentes;
 
-III.- El carácter del nombramiento: definitivo, interino, provisional, por tiempo o por obra determinada;
+b) Fundamentación y motivación;
 
-IV.- La duración de la jornada de trabajo;
+c) Descripción y características del bien; y
 
-V.- El salario asignado para la categoría respectiva en el tabulador correspondiente;
+d) Diagnóstico de los aspectos técnicos, naturales, culturales, sociales, jurídicos e históricos del bien de que se trate;
 
-VI.- Localidad y entidad en que prestará los servicios;
+Para la integración del expediente la Secretaría o la dependencia municipal en materia de cultura, podrán apoyarse de especialistas en la materia.
 
-VII.- Lugar en que se expida;
+II. Integrado el expediente, la Secretaría o la dependencia municipal, en su caso, dentro del término de quince días hábiles notificará personalmente la instauración del procedimiento al propietario o poseedor del bien o bienes objeto de la solicitud, acompañando copia del expediente correspondiente.
 
-VIII.- Fecha en que deba comenzar a surtir efectos; y
+III. Hecha la notificación, el propietario o poseedor de los bienes de que se trate, contará con un plazo de veinte días naturales para que manifieste lo que a su interés convenga y en su caso, ofrezca los elementos de prueba que estime pertinentes.
 
-IX.- Nombre, firma y cargo de quien lo expide.
+IV. Transcurrido el plazo señalado en la fracción anterior, la Secretaría o la dependencia municipal, según sea el caso, en el término de sesenta días naturales, emitirá un dictamen que someterá a la consideración del Gobernador del Estado o del Ayuntamiento, para que en un plazo no mayor a sesenta días y de resultar procedente, emita la declaratoria correspondiente.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+En el caso del dictamen a que se hace referencia en la presente fracción, la misma deberá contar al menos con los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2005)</small>
+a) Antecedentes;
+
+b) Fundamentación y motivación de la propuesta de declaratoria;
+
+c) Análisis de los aspectos técnicos, naturales, culturales, sociales, jurídicos e históricos del bien de que se trate;
+
+d) Proyecto de declaratoria, que incluirá los efectos de la misma y los usos del Patrimonio Cultural del Estado compatibles con los planes de desarrollo urbano y la normatividad vigente; y
+
+e) La valoración que se realice respecto de las manifestaciones realizadas por el poseedor del bien y cualquier otra circunstancia que se considere como necesaria para el cumplimiento de la presente Ley.
+
+V. Una vez que el Ayuntamiento emita el Proyecto de Declaratoria, deberá remitirlo al Poder Legislativo para la publicación del Decreto correspondiente en el Periódico Oficial del Estado.
+
+Una vez publicada la Declaratoria, la Secretaría o el Ayuntamiento a través del área competente emitirá su Guía de Manejo, entendiéndose ésta como las disposiciones administrativas que emitirán para el manejo y conservación de los bienes que sean declarados Patrimonio Histórico.
+
+VI. Una solicitud de declaratoria rechazada, no podrá ser presentada de nuevo si no ha transcurrido por lo menos un año a partir de la fecha de resolución.
+
+### CAPÍTULO CUARTO. RESPETO A LA DIVERSIDAD CULTURAL
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 20.
 
-El nombramiento aceptado obliga al trabajador a regir sus actos con el más alto concepto de profesionalismo, honestidad, rectitud y a cumplir con todos los deberes inherentes al cargo o empleo correspondiente y a las consecuencias que sean conformes a la ley, a la costumbre y a la buena fe.
+Se entiende por Diversidad Cultural las diversas formas que adquiere la cultura a través del tiempo y el espacio. La Diversidad Cultural se manifiesta en la originalidad y la pluralidad de las identidades que caracterizan a los grupos y las sociedades, las cuales deberán protegerse y preservarse de conformidad con lo que dispone la presente Ley. La diversidad cultural es fuente de intercambios, de innovación y de creatividad.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 21.
 
-Solamente se podrá autorizar el cambio de adscripción de un trabajador, en alguna de las modalidades que a continuación se enumeran:
+El Ejecutivo por conducto de la Secretaria y los Municipios en el ámbito de sus competencias, implementarán una serie de acciones a fin de garantizar el respeto a esa diversidad cultural, con el apoyo integral a las culturas populares e indígenas, con una amplia participación social en el diseño y ejecución de los programas que para tal efecto se implementen y con el apoyo de los mecanismos establecidos en la presente Ley.
 
-I.- De una dependencia a otra de la misma entidad pública y localidad;
-
-II.- Al interior de la misma dependencia y localidad; y
-
-III.-. Dentro de la misma o diversa entidad pública, pero distinta localidad.
-
-El cambio de adscripción procederá cuando se produzca alguna de las siguientes causas:
-
-a) Por reorganización, en cuyo caso se estará a la aprobación del sindicato y a lo que determinen las condiciones generales de trabajo;
-
-b) Por desaparición del centro de trabajo;
-
-c) Por permuta autorizada;
-
-d) Por solicitud del trabajador; y
-
-e) Por fallo del Tribunal.
-
-En el caso de la fracción III de este artículo, la entidad en que labore el trabajador, le dará a conocer, con quince días de anticipación al en que deba surtir efectos la medida, las causas del traslado y tendrá obligación de sufragar los gastos de viaje; si la permanencia del servidor público es por período mayor de seis meses, tendrá derecho a que se le cubran los gastos que origine el transporte del menaje de casa indispensable para la instalación de su cónyuge y dependientes económicos que habiten en su domicilio. Se exceptúa a la entidad de esta obligación, cuando el traslado se deba a solicitud del propio trabajador.
-
-Cuando el cambio del trabajador, determinado por el titular de la entidad pública, sea de adscripción, el trabajador conservará su mismo nivel salarial, categoría, plaza, antigüedad, derechos y prestaciones, pero de considerarse el cambio improcedente el trabajador podrá recurrir al Tribunal.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 22.
 
-Los trabajadores del Gobierno del Estado se clasifican conforme a lo señalado en los catálogos generales de puestos que para el efecto se expidan. Los trabajadores de las demás entidades sometidas al régimen de la presente ley, se clasifican conforme a sus propios catálogos que se establezcan dentro de su régimen interno. En la formulación, aplicación y actualización de los catálogos de puestos se escuchará la opinión de sus respectivos sindicatos.
+Por lo que en diseño y ejecución de los programas para el respeto a la diversidad cultural se deberá tomar en cuenta lo siguiente:
 
-### CAPITULO II. DE LA JORNADA DE TRABAJO
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+I. Contribuir al reconocimiento de formas de organización, concepciones del mundo, lenguajes y desarrollo de las capacidades estéticas de los portadores de las culturas populares, especialmente las indígenas, así como a la protección y preservación de sus costumbres y tradiciones en cualquiera de sus manifestaciones.
+
+II. Apoyar a los creadores para realizar proyectos culturales de alto impacto en sus comunidades a través de programas que destinen recursos económicos, asesoría y gestión, en una vinculación directa con las comunidades y en estrecha relación con las instancias estatales de cultura;
+
+III. Fortalecer las expresiones del arte popular y la artesanía mexicanas, fortaleciendo sus raíces, y construir puentes de interculturalidad, con respeto a las concepciones culturales propias de cada expresión étnica;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+IV. Fomentar la recuperación, revalorización y recreación de la tradición artística popular en el Estado, como parte de la preservación y salvaguardia del patrimonio cultural material e inmaterial; y
+
+V. Investigar, recopilar y sistematizar el universo simbólico del arte popular, así como el significado de sus formas e iconografías expresado a través de su gran diversidad de lenguajes.
+
+### CAPÍTULO QUINTO. FORMACIÓN, CAPACITACIÓN, EDUCACIÓN E INVESTIGACIÓN ARTÍSTICA Y CULTURAL
 
 ###### Artículo 23.
 
-Son causa de suspensión temporal de la obligación del trabajador de prestar sus servicios, sin su responsabilidad:
-
-I.- Que el servidor público contraiga alguna enfermedad grave que implique riesgo de contagio para las personas que trabajan con él;
-
-II.- La incapacidad temporal ocasionada por un accidente o enfermedad que no constituya un riesgo de trabajo;
-
-III.- La prisión preventiva del trabajador;
-
-IV.- El arresto del trabajador;
-
-V.- El cumplimiento de los servicios y desempeño de los cargos mencionados en el artículo 5o. de la Constitución y el de las obligaciones consignadas en el artículo 31, fracción III, de la propia Constitución;
-
-VI.- La designación del trabajador como representante ante el Tribunal;
-
-VII.- La atención de citatorios expedidos por una autoridad del Estado;
-
-VIII.- La falta de los documentos que exijan las leyes y reglamentos, necesarios para la prestación del servicio, cuando sean imputables al trabajador;
-
-IX.- La disposición que como sanción disciplinaria dicte el titular de la entidad pública respectiva, por faltas cometidas en el desempeño del servicio y que no ameriten el cese definitivo. Esta suspensión en ningún caso podrá exceder de diez días hábiles; y
-
-X.- Los trabajadores que manejen fondos, valores o bienes, podrán ser suspendidos hasta por dos meses por el titular de la entidad pública respectiva, cuando apareciere alguna irregularidad en su gestión. La suspensión referida tendrá por objeto la práctica de la investigación y resolución correspondientes. En caso de que esta sea absolutoria, se pagarán al trabajador los salarios vencidos y se le reintegrará a su puesto.
+La Formación, Capacitación, Educación e Investigación Artística y Cultural es esencial como fuente de enriquecimiento en el proceso de enseñanza aprendizaje, para un mejor conocimiento de los fenómenos culturales y como elemento indispensable en la definición de políticas culturales. La formación y capacitación de artistas, intérpretes, investigadores, museógrafos, restauradores, personal especializado en los diversos servicios culturales, promotores y gestores es un factor de especial importancia para la continuidad de la creación cultural y la profesionalización del trabajo en todos los ámbitos de la política cultural.
 
 ###### Artículo 24.
 
-En los casos del artículo anterior no tendrá el titular de la entidad pública la obligación de pagar el salario al trabajador, salvo en el caso de la fracción III, cuando la prisión derive de un acto del trabajador realizado en defensa de los intereses de la entidad pública, en el que tendrá el titular de la misma la obligación de pagar los salarios durante el tiempo en que permanezca privado de la libertad.
+La Secretaría establecerá como líneas de acción prioritarias en materia de formación artística y cultural, profundizar en la descentralización de los procesos de formación y capacitación; readecuar, mejorar y ampliar las escuelas de educación artística y conservación en historia y antropología; intensificar las relaciones con instituciones educativas públicas y privadas desde formación básica hasta universidades con programas en la materia.
 
 ###### Artículo 25.
 
-La suspensión surtirá efectos en los casos de las fracciones que se indican en el artículo 23 de esta Ley:
+Para establecer programas y acciones específicas en materia de formación artística y cultural se deberá tomar en cuenta:
 
-I.- En los casos de las fracciones I y II, desde la fecha en que el titular de la entidad pública tenga conocimiento de la enfermedad o incapacidad del trabajador, hasta que termine el periodo fijado por la institución de seguridad social correspondiente, o antes, si desaparece la incapacidad para el trabajo, sin que la suspensión pueda exceder del término fijado en la ley de seguridad social respectiva para el tratamiento de las enfermedades que no sean consecuencia de un riesgo de trabajo;
+I. Impulsar la preparación artística en la educación básica;
 
-II.- Tratándose de las fracciones III y IV, desde el momento en que el trabajador acredite estar detenido a disposición de la autoridad judicial o administrativa, hasta la fecha en que recupere su libertad o cause ejecutoria la sentencia que le imponga una pena de prisión que le impida el cumplimiento de la relación de trabajo;
+II. Ampliar la infraestructura de centros de aprendizaje y capacitación inicial y profesional, con una amplia oferta educativa en material (sic) artística;
 
-III.- En los casos de las fracciones V y VI, desde la fecha en que deban prestarse los servicios o desempeñarse los cargos, hasta por un periodo de seis años;
+III. Crear mecanismos y procedimientos de titulación, acreditación por competencias, revalidación y equivalencias de estudios, que abatan el rezago educativo, el egreso informal y el convencional y amplíen la certificación de competencias laborales, profesionales y académicas;
 
-IV.- En el caso de la fracción VII, durante el tiempo estrictamente necesario para atender el citatorio. De ser compatibles con los servicios prestados, el trabajador y el titular de la entidad pública podrán convenir en que se suspenda únicamente la parte proporcional de la jornada correspondiente, o en cambiar el horario del día o la jornada de trabajo, en vez de la suspensión;
+IV. Implementar procesos de aprendizaje de la música tradicional a través de la capacitación permanente y de intercambios culturales y artísticos; y
 
-V.- En el caso de la fracción VIII, desde la fecha en que el titular de la entidad pública tenga conocimiento del hecho, hasta por un periodo de dos meses;
+V. Fomentar la investigación y formación de profesionales en gestión cultural, para mejorar la participación con los creadores y portadores de las culturas populares e indígenas.
 
-VI.- En el caso de la fracción IX, desde la fecha en que se haya señalado como inicio de la suspensión por el titular de la entidad pública; y
-
-VII.- En el caso de la fracción X, desde la fecha en que el titular de la entidad pública tenga conocimiento de la irregularidad en que incurrió el trabajador.
-
-### CAPITULO III. DIAS DE DESCANSO
+### CAPÍTULO SEXTO. DIFUSIÓN Y DIVULGACIÓN CULTURAL
 
 ###### Artículo 26.
 
-De conformidad con lo previsto en el artículo 23 de esta Ley, el trabajador deberá regresar a sus labores:
-
-I.- En los casos de las fracciones I, II, IV, VII, VIII, IX y X, al día siguiente de la fecha en que termine la causa de la suspensión; y
-
-II.- En los casos de las fracciones III, V y VI, dentro de los diez días siguientes a la terminación de la causa de suspensión.
+La Difusión y Divulgación Cultural como eje estratégico tendrá como finalidades promover el mayor disfrute de las manifestaciones artísticas y culturales, la diversidad y calidad de sus contenidos, coadyuvando con la ampliación de vínculos culturales y estimulando la labor de los creadores e intérpretes como una oferta atractiva y formativa en el ámbito local, nacional e internacional.
 
 ###### Artículo 27.
 
-Son causas de terminación de las relaciones de trabajo:
+Por lo que para instrumentar de manera eficaz se deben implementar entre otras acciones:
 
-I.- El mutuo consentimiento de las partes, ya sea que se exprese a través de un acuerdo de voluntades, o de la renuncia libre del trabajador;
+I. Fomentar la preservación y la manifestación de las culturas populares;
 
-II.- Por conclusión de la obra o vencimiento del término por el que fue contratado el trabajador;
+II. Realizar una difusión efectiva para atraer mayores públicos;
 
-III.- La incapacidad permanente parcial que impida al trabajador seguir desempeñando sus actividades habituales, salvo que sea posible que realice otro trabajo compatible con sus aptitudes;
+III. Desarrollar el potencial de las instituciones dedicadas a la promoción artística;
 
-IV.- La incapacidad permanente total que derive de un riesgo de trabajo;
+IV. Impulsar los programas referentes a la infraestructura cultural del Estado, comprendiendo todas las instalaciones y espacios físicos, así como su equipamiento y recursos materiales, en que se ofrecen a la población los servicios y el acceso a los bienes culturales: Disfrute del patrimonio cultural; espectáculos artísticos; información y lectura; formación artística y cultural; turismo y esparcimiento culturales. Fomentar el programa editorial, de fomento a la lectura, ampliar el acceso a la información electrónica en bibliotecas públicas como mecanismo de difusión y divulgación cultural; y
 
-V.- La incapacidad física o mental, o la inhabilidad manifiesta del trabajador, no derivadas de un riesgo de trabajo, que hagan imposible la continuación de la relación de trabajo;
+V. Respaldar la participación de los gestores culturales en sus actividades de promoción y difusión artística y cultural.
 
-VI.- La jubilación del trabajador;
-
-VII.- La muerte del trabajador; y
-
-VIII.- La imposibilidad del trabajador de cumplir con la relación de trabajo por una sentencia ejecutoriada que le imponga pena de la privación de la libertad.
-
-### CAPITULO IV. VACACIONES Y LICENCIAS
+### CAPÍTULO SÉPTIMO. DESARROLLO CULTURAL SUSTENTABLE
 
 ###### Artículo 28.
 
-Una parte de la relación laboral, en cualquier tiempo, podrá rescindir la relación de trabajo por causas imputables a la otra.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2005)</small>
-
-Si fuere el titular de la entidad pública quien pretenda la rescisión, previamente deberá instaurar un procedimiento administrativo que respete la garantía de audiencia y que sea substanciado en condiciones de igualdad procesal.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2005)</small>
+Como eje de la política cultural del Estado los programas y acciones de la Secretaría y de las Autoridades en materia de cultura conforme a la presente Ley, deberán estar orientadas al desarrollo sustentable del Estado, potenciando a través de la oferta cultural, una actividad económica importante que contribuya al desarrollo social y económico del Estado.
 
 ###### Artículo 29.
 
-El titular de la entidad pública podrá rescindir la relación de trabajo al trabajador, sin incurrir en responsabilidad.
+El Ejecutivo del Estado por conducto de las autoridades en materia de cultura, impulsará el disfrute turístico responsable y sustentable del patrimonio cultural del Estado, como una forma de incorporar los recursos culturales dentro de los procesos del desarrollo social y económico. En los programas turístico-culturales que se establezcan en forma conjunta se velará por la protección del patrimonio cultural y de los recursos naturales del Estado, buscando un equilibrio con el entorno y hábitat natural como una forma de preservar la riqueza cultural de las expresiones culturales basadas en su riqueza natural.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2005)</small>
-
-Para ello, deberá substanciarse un procedimiento al que asisten el propio trabajador, la parte denunciante en caso de haberla y la parte sindical correspondiente para garantizar que exista igualdad de condiciones procesales. Lo anterior, siempre y cuando se produzca cualesquiera de las causales siguientes.
-
-I.- Que incurra el trabajador en faltas de probidad u honradez; o en actos de violencia, amagos, injurias o malos tratos contra sus jefes o compañeros, o familiares de unos u otros, dentro de horas de servicio, salvo que medie provocación o que obre en legítima defensa, si son de tal manera graves que hagan imposible la relación de trabajo;
-
-II.- Que cometa el trabajador contra algunos de sus compañeros, cualquiera de los actos enumerados en la fracción anterior, si como consecuencia de ello se altera la disciplina del lugar en que desempeña el trabajo;
-
-III.- Que ocasione el trabajador, intencionalmente, daños materiales en los edificios, obras, maquinaria, instrumentos, materias primas y demás objetos relacionados con el trabajo; o causar dichos daños por negligencia tal, que ella sea la causa del perjuicio;
-
-IV.- Que cometa el trabajador actos inmorales durante el desempeño de su trabajo, si con ello daña la imagen de la entidad pública;
-
-V.- Por revelar los asuntos secretos o reservados que tuviere conocimiento con motivo de su trabajo;
-
-VI.- Por desobedecer el trabajador, sin justificación, las órdenes que recibe de sus superiores;
-
-VII.- Que por su imprudencia o descuido inexcusables, comprometa la seguridad del establecimiento o de quienes ahí se encuentren; que se niegue a adoptar las medidas para prevenir accidentes o enfermedades o que realice sus labores o concurra a realizarlas en estado de embriaguez, o bajo la influencia de alguna droga, salvo que en este último caso presente previamente la prescripción médica correspondiente;
-
-VIII.- Que dentro del término de treinta días naturales, falte a sus labores cuatro o más días, sin permiso del titular de la entidad pública o sin causa justificada;
-
-IX.- Que de manera injustificada abandone sus actividades;
-
-X.- Que no presente los documentos necesarios para la prestación de sus servicios dentro del término de dos meses a que se refiere la fracción VIII del Artículo 23; y
-
-XI.- Que incurra en una conducta análoga a las anteriores, igualmente grave y de consecuencias semejantes en lo que al trabajo se refiere.
-
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 30.
 
-Cuando la relación de trabajo haya tenido una duración de más de veinte años, no procederá la rescisión, no obstante que se actualice alguna de las causas señaladas en el artículo 29 de esta ley, pero de probarse las señaladas causa, se impondrá al trabajador la corrección disciplinaria que corresponda.
+Las Secretarías de Turismo y Cultura y aquellas dependencias y entidades del sector público estatal competentes en la materia, promoverán de manera coordinada acciones con los gobiernos federal y municipal para el establecimiento de programas de promoción, protección, preservación y difusión del patrimonio cultural, a través de los respectivos planes de manejo y operación, conforme lo dispone la presente Ley.
 
-Si en el lapso de un año el trabajador repite la falta, o cometa otra u otras que constituya una causa legal de rescisión, dejará de tener efecto la disposición anterior.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2005)</small>
+### CAPÍTULO OCTAVO. SALVAGUARDA DEL PATRIMONIO BIOCULTURAL COLECTIVO
 
-### CAPITULO V. DE LOS SALARIOS
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 31.
 
-En caso de que el titular de la entidad pública inicie el procedimiento de rescisión de la relación de trabajo por causas imputables al trabajador, deberá notificarle legalmente y por escrito su determinación, que contenga con claridad los hechos que la motivan y la fecha o fechas en que se cometieron, señalando además con precisión las fechas de las audiencias o de la práctica de cualesquier diligencia administrativa, tendiente a demostrar la comisión o no de los hechos que se le imputan.
+Se entiende por Patrimonio Biocultural Colectivo como el conjunto de conocimientos, innovaciones, prácticas y expresiones culturales de pueblos y comunidades originarias compartidas colectivamente vinculadas a sus recursos y territorios; incluso la diversidad de genes, variedades, especies dentro de sus comunidades y su medio ambiente, incluyendo los recursos biológicos, conocimientos y prácticas tradicionales.
 
-La notificación deberá entregarse personalmente al trabajador en la fecha misma de la determinación de inicio del procedimiento de rescisión de la relación de trabajo o bien, comunicarlo al Tribunal dentro de los cinco días siguientes, en cuyo caso deberá proporcionar el último domicilio que tenga registrado del trabajador, a fin de que dicha autoridad se lo notifique.
-
-La falta de notificación al trabajador, personalmente o por conducto del Tribunal, será suficiente para determinar la nulidad del inicio del procedimiento de rescisión y, en consecuencia, la injustificación de la separación, si así se hubiere determinado.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 32.
 
-Toda rescisión de la relación de trabajo que no hubiese sido precedida de la substanciación de un procedimiento de investigación, en la que se hayan observado las garantías de legalidad, seguridad jurídica y audiencia, será nula.
+Se declara de interés público la salvaguarda, conservación, restauración, recuperación, preservación, promoción, difusión, estudio, supervisión, enriquecimiento e investigación del Patrimonio Biocultural Colectivo que se reconoce en toda y cada una de sus expresiones.
 
-En el acta de investigación administrativa, el titular de la entidad pública o su representante otorgará al trabajador el derecho de audiencia y defensa, en la que tendrá intervención la representación sindical, asentándose en ella los hechos, motivo de su origen, con toda precisión; la declaración del trabajador afectado y la del representante sindical, si intervinieron y quisieron hacerlo, las de los testigos de cargo y descargo idóneos; asimismo se recibirán las demás pruebas que pertinentemente procedan, firmándose las actuaciones al término de las mismas por los interesados, lo que harán de igual forma dos testigos de asistencia.
+## TÍTULO CUARTO. DEL PROGRAMA ESTATAL DE CULTURA Y DE LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA
 
-De no querer firmar el acta los intervenientes se asentará tal circunstancia, lo que no invalidará el contenido de la misma, debiéndose entregar una copia al trabajador y otra al representante sindical.
+### CAPÍTULO PRIMERO. DEL PROGRAMA ESTATAL DE CULTURA
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2005)</small>
-
-## TITULO CUARTO. DE LAS ORGANIZACIONES COLECTIVAS DE LOS TRABAJADORES
-
-Y DE LAS CONDICIONES GENERALES DE TRABAJO
-
-### CAPITULO VI. OBLIGACIONES Y PROHIBICIONES DE LAS ENTIDADES PUBLICAS
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 69.
 
@@ -657,31 +621,51 @@ VII.- Distraer a sus trabajadores para realizar actividades propias de partidos 
 
 ###### Artículo 33.
 
-El trabajador que haya sido separado injustificadamente, podrá demandar ante el Tribunal a su elección, que se le indemnice con el importe de tres meses de salario, o el cumplimiento de la relación laboral y la consecuente reinstalación; tendrá derecho además, a que se le cubran los salarios vencidos, desde la fecha de la separación hasta la de su reincorporación, así como la publicación en el Periódico Oficial del Estado, de la resolución respectiva.
+Para la ejecución e implementación de la política cultural y sus distintos ejes establecidos en la presente ley, la Secretaría coordinará en conjunto con el Consejo de Participación para el Desarrollo Cultural y con los demás órganos de consulta y apoyo, la elaboración, análisis y propuesta del Programa Estatal de Cultura que deberá ser aprobado por el Ejecutivo del Estado y que será de observancia general para todas las dependencias y entidades estatales, municipios y demás sujetos comprendidos en la presente ley. El cuál una vez aprobado deberá ser publicado en el Periódico Oficial del Estado.
 
 ###### Artículo 34.
 
-Son causas de rescisión de la relación de trabajo, sin responsabilidad para el trabajador:
+Además de lo dispuesto en la Ley de Planeación del Estado y por la normatividad aplicable, el Programa deberá contener los siguientes elementos:
 
-I.- Que incurra el titular de la entidad pública o el superior jerárquico en faltas de probidad u honradez; o en actos de violencia, amagos, injurias o malos tratos contra el trabajador o familiares de éste, dentro de horas de servicio, salvo que medie provocación o que obre en legítima defensa, si son de tal manera graves que hagan imposible la relación de trabajo;
+I. Un diagnóstico en materia de cultura;
 
-II.- Que lo obligue el titular de la entidad pública a laborar o permanecer bajo la existencia de un peligro grave para la seguridad o salud del trabajador; ya sea por la carencia de condiciones higiénicas o por no cumplir las medidas preventivas y de seguridad que establezcan las leyes y las autoridades;
+II. La metodología, elementos estadísticos de análisis, diagnóstico y políticas específicas para el desarrollo cultural;
 
-III.- Modificar el titular de la entidad pública las condiciones de trabajo en perjuicio del trabajador, sin su consentimiento o sin la aprobación del Tribunal, salvo cuando concurran circunstancias extraordinarias que lo justifiquen, para evitar problemas graves;
+III. Las políticas, estrategias, acciones y metas en materia de fortalecimiento para el desarrollo cultural, así como una proyección de los recursos presupuestales anuales que se requieran para su ejecución; y
 
-IV.- No recibir el salario en la fecha debida por causas imputables al titular de la entidad pública; y
-
-V.- Las análogas a las establecidas en las fracciones anteriores, igualmente graves y de consecuencias semejantes en lo que al trabajo se refiere.
+IV. Los indicadores de gestión del Programa, que permitan evaluar los resultados obtenidos conforme a los objetivos, metas y responsabilidades planteados en el mismo, como una expresión cualitativa y cuantitativa del desarrollo cultural y su desempeño, para poder tomar acciones correctivas o preventivas según el caso.
 
 ###### Artículo 35.
 
-El trabajador podrá separarse de su trabajo dentro del mes siguiente a la fecha en que se dé cualquiera de las causas mencionadas en el artículo anterior, o que tenga conocimiento de ellas, y tendrá derecho a que la entidad pública lo indemnice con el importe de las prestaciones a que se refiere el artículo 50 de la Ley Federal del Trabajo.
+Para la adecuada integración del Programa, corresponde a la Secretaría:
+
+I. Observar los lineamientos y ejes de la política cultural que establece la presente Ley;
+
+II. Coordinar la recopilación y actualización de la información, su organización y sistematización, destinada a la conformación del Programa;
+
+III. Convocar en coordinación con el Consejo a foros de consulta ciudadana, sobre temas específicos, así como a los diversos actores del desarrollo cultural, a través de mecanismos transparentes y objetivos para la evaluación o en su caso integración de las propuestas; y
+
+IV. Establecer criterios de coordinación con las dependencias y entidades del sector público estatal para incorporar al Programa acciones de carácter intersectorial en beneficio del desarrollo cultural.
 
 ###### Artículo 36.
 
-Las condiciones de trabajo en ningún caso podrán ser inferiores a las fijadas en esta Ley, sin que puedan establecerse diferencias por motivo de raza, nacionalidad, sexo, edad, credo religioso, doctrina política o discapacidad alguna.
+Son programas y acciones prioritarias para el desarrollo cultural, entre otros, los siguientes:
 
-### CAPITULO VII. OBLIGACIONES Y PROHIBICIONES DE LOS TRABAJADORES
+I. De investigación, protección, restauración, recuperación, conservación, preservación y enriquecimiento sustentable del patrimonio cultural;
+
+II. De programas que deriven de los convenios de colaboración celebrados entre el Gobierno Federal, del Estado y los Ayuntamientos;
+
+III. De estímulos y apoyos a los creadores, promotores y gestores culturales;
+
+IV. De acciones de coinversión para la producción artística;
+
+V. De premios instituidos por la Secretaría; y
+
+VI. De mantenimiento, conservación y equipamiento de la infraestructura cultural del Estado.
+
+### CAPÍTULO SEGUNDO. DE LA PARTICIPACIÓN CIUDADANA
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 71.
 
@@ -737,21 +721,75 @@ VII.- Suspender las labores sin autorización del titular de la entidad pública
 
 ###### Artículo 37.
 
-Toda prestación legal deberá pagarse con el salario vigente al momento de hacer el pago.
+El Gobierno del Estado y los Ayuntamientos, deberán propiciar los mecanismos adecuados que faciliten el acceso a las tareas y discusiones en materia de protección del Patrimonio Cultural del Estado.
+
+A efecto de sustentar el trabajo cultural en la entidad, el Ejecutivo podrá suscribir convenios de coordinación y colaboración con los organismos públicos y privados, nacionales o extranjeros, con el propósito de preservar, promover y difundir la cultura, de conformidad con lo que disponga esta Ley y las demás disposiciones aplicables.
+
+Todo ciudadano u organismo social podrán denunciar ante las instituciones o dependencias federales, estatales o municipales, cualquier violación a las leyes federales, a la presente ley, así como a los reglamentos de la materia.
+
+Una vez presentada la denuncia, la autoridad competente deberá comprobar a la brevedad posible la situación que se da a conocer, a efecto de que se ejecuten las acciones y medidas necesarias conforme a lo establecido por la presente Ley y demás disposiciones jurídicas aplicables y se decida la intervención precautoria.
+
+Los particulares podrán promover, ante la autoridad estatal o municipal correspondiente, el inicio del procedimiento para la declaratoria de un bien como Patrimonio Cultural del Estado, en los términos de la presente Ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 38.
 
-Jornada de trabajo es el tiempo durante el cual el trabajador está a disposición de la entidad pública para prestar sus servicios.
+Todo habitante del Estado tiene derecho a:
+
+I. Proponer la declaratoria de un bien Patrimonio Cultural del Estado;
+
+II. Proponer ante las instancias municipales y estatales competentes, la inclusión de bienes Patrimonio Cultural en planes y programas de desarrollo urbano, así como iniciativas sobre cualquier asunto o tema relacionado con el Patrimonio Cultural;
+
+III. Denunciar toda falta, acción u omisión de cualquier persona física, jurídica o autoridad, que perjudique al Patrimonio Cultural; y
+
+IV. Asociarse, agruparse y manifestarse, sobre el uso, destino y protección del Patrimonio Cultural.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+V. Disfrutar de los bienes artísticos y culturales y acceder a sus beneficios, y;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VI. Las demás que les otorguen la presente Ley y demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 39.
 
-La jornada de trabajo puede ser diurna, que es la comprendida entre las seis y veinte horas; nocturna, que es la comprendida entre las veinte y las seis horas; y mixta, que es la que comprende periodos de las jornadas diurna y nocturna, siempre que el periodo nocturno sea menor de tres horas y media, pues si comprende mayor lapso, se considerará jornada nocturna.
+Son organismos de consulta y apoyo para la aplicación del presente ordenamiento:
+
+I. El Consejo de Participación para el Desarrollo Cultural del Estado.
+
+II. El Comité de Autenticidad, en los términos señalados en la presente Ley.
+
+III. Las personas jurídicas que tengan como objeto la protección, preservación, investigación, restauración, promoción o difusión del Patrimonio Cultural del Estado o realicen actividades que tengan relación con el objeto de esta ley;
+
+IV. Las asociaciones vecinales o de colonos registrados ante el Ayuntamiento, que entre sus fines se constituyan para la restauración, conservación y mejoramiento del Patrimonio Cultural del Estado;
+
+V. Los colegios y las asociaciones de profesionistas relacionadas con el objeto de esta Ley;
+
+VI. Las Cámaras de la Industria de la Construcción y similares que tengan relación con la protección al Patrimonio Cultural del Estado; y
+
+VII. Las instituciones de educación superior e investigación en el Estado.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 40.
 
-La duración máxima de la jornada será: ocho horas la diurna; siete horas la nocturna; y siete horas y media la mixta.
+Los organismos de consulta y apoyo podrán:
 
-### CAPITULO VIII. DE LA CAPACITACION Y ADIESTRAMIENTO
+I. Auxiliar a las autoridades en el cumplimiento de sus atribuciones en los términos de la presente ley;
+
+II. Auxiliar a las autoridades estatales o municipales en las acciones de intervención de los bienes y zonas de protección del Patrimonio Cultural del Estado;
+
+III. Presentar propuestas ante la autoridad estatal o municipal que corresponda; a efecto de inscribir en el Inventario o para que se emita declaratoria de un bien identificado como Patrimonio Cultural;
+
+IV. Implementar acciones en coordinación con la Secretaría, en materia educativa entre los miembros de la comunidad, sobre la importancia del Patrimonio Cultural y fomentar la difusión del mismo; y
+
+V. Las demás que les otorguen la presente Ley y demás normatividad aplicable.
+
+### CAPÍTULO TERCERO. DEL CONSEJO DE PARTICIPACIÓN PARA EL DESARROLLO CULTURAL DEL ESTADO
 
 ###### Artículo 73.
 
@@ -819,23 +857,61 @@ Los trabajadores que aprueben los exámenes de evaluación recibirán de los ins
 
 ###### Artículo 41.
 
-Cuando la naturaleza del servicio así lo exija, la jornada máxima se reducirá teniendo en cuenta el número de horas que pueda trabajar un individuo sin sufrir quebranto en su salud.
+La Secretaría incorporará la participación ciudadana en la planeación, elaboración y seguimiento del Programa Estatal de Cultura.
 
 ###### Artículo 42.
 
-Cuando por circunstancias especiales deban aumentarse las horas de la jornada máxima, este trabajo será considerado como extraordinario y nunca podrá exceder de tres horas diarias ni de tres veces en una semana. Las horas de trabajo extraordinario se pagarán con un ciento por ciento más del salario que corresponde a las horas de la jornada.
+Conforme al artículo anterior se instituye el Consejo de Participación para el Desarrollo Cultural del Estado, como un organismo de participación y vinculación entre las autoridades culturales del Estado y la sociedad en general, con funciones de asesoría, análisis y opinión, en el que converjan de manera conjunta representantes de los sectores público, privado y social.
 
 ###### Artículo 43.
 
-Los trabajadores no están obligados a prestar sus servicios por un tiempo mayor del permitido en este capítulo.
+El Consejo tendrá las siguientes atribuciones:
 
-La prolongación del tiempo extraordinario que exceda de nueve horas a la semana será facultativo para el trabajador y obliga a la entidad pública a pagarle el tiempo excedente con un doscientos por ciento más del salario que corresponda a las horas de jornada.
+I. Analizar y desarrollar propuestas para el diseño de la política cultural;
+
+II. Opinar en el diseño, elaboración, formulación y seguimiento del Programa Estatal de Cultura;
+
+III. Formular sugerencias para el cumplimiento de los programas relacionados con la cultura;
+
+IV. Promover en materia cultural, la participación de la sociedad;
+
+V. Sugerir las medidas adecuadas para la preservación del patrimonio cultural, así como el impulso de la cultura y las artes, la formación y la creación artística;
+
+VI. Formular propuestas y opiniones a las autoridades competentes, para el mejoramiento del desarrollo de las políticas y programas en materia cultural así como en los principios y ordenamientos de la presente Ley; y
+
+VII. Opinar sobre las condiciones que estimulen la creación cultural, así como la producción y distribución mayoritaria de los bienes culturales.
 
 ###### Artículo 44.
 
-Durante la jornada continua de trabajo se concederá al trabajador un descanso de media hora, en el lugar adecuado que dispongan las Condiciones Generales de Trabajo, sin que se afecte la atención del servicio.
+El Consejo estará integrado de la siguiente manera:
 
-### CAPITULO UNICO
+I. Un Presidente: Que será el Ejecutivo del Estado o la persona que éste designe;
+
+II. Un Secretario Técnico: Que será el Titular de la Secretaría; y
+
+Los siguientes vocales:
+
+III. El Titular de la Secretaría de Turismo;
+
+IV. El Titular del Instituto Estatal de Educación Pública para el Estado de Oaxaca;
+
+V. Integrantes de la comunidad artística y cultural;
+
+VI. Un representante por cada una de las ocho regiones del Estado, miembros de las comunidades culturales y artísticas; y
+
+VII. Representantes de las asociaciones, sociedades, grupos de la sociedad civil, y aquellas personas morales, que de acuerdo al tema o materia tengan una participación activa en el desarrollo cultural del estado, y su inclusión sea de gran importancia para los efectos del presente capítulo.
+
+Los vocales a excepción de los señalados en las fracciones III y IV del presente artículo, serán invitados por el Presidente del Consejo y su permanencia en el Consejo será de un año, los cuales podrán participar en otro periodo similar a consideración del Ejecutivo del Estado, sus cargos de Vocales serán honoríficos y se buscará la equidad de género en sus (sic) conformación. Asimismo a consideración de los integrantes del Consejo, podrán asistir a las sesiones para temas específicos como invitados, personas destacadas en determinada materia del área cultural, quienes participaran en las propuestas y deliberaciones pero sólo con voz.
+
+Cada integrante titular podrá nombrar su suplente, quien deberá ser de nivel jerárquico inmediato inferior, en el caso de las fracciones III y IV.
+
+Las Sesiones del Consejo se celebrarán por lo menos dos veces al año, o en cualquier momento si los asuntos a tratarse así lo ameritan, las sesiones serán convocadas por el Secretario Técnico, de las que se levantará un acta y los votos será (sic) por mayoría en caso de empate el Presidente del Consejo tendrá el voto de calidad.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+### CAPÍTULO IV. DEL COMITÉ DE AUTENTICIDAD
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 81.
 
@@ -943,21 +1019,45 @@ El procedimiento para resolver las permutas de empleos, así como las inconformi
 
 ###### Artículo 45.
 
-En los casos de siniestro o riesgo para los servidores públicos o la seguridad de las instalaciones, la jornada de trabajo podrá prolongarse por el tiempo estrictamente indispensable para restablecer las condiciones de seguridad. El trabajador podrá auxiliar en las labores correspondientes.
+El Comité de autenticidad es el organismo de consulta y apoyo que garantiza con su opinión, la conservación y reivindicación de las costumbres y tradiciones con las que se ejecutan las danzas, bailables, música, vestimenta y demás elementos característicos con los que se presenten las diversas delegaciones en la festividad que se conoce como la Guelaguetza, que se escenifica en la fiesta del Lunes del Cerro.
+
+El Comité de Autenticidad tendrá como objetivo el de contribuir a la conservación, la investigación y difusión de nuestro patrimonio cultural, principalmente en el área de tradiciones, costumbres, música, danzas y bailes de nuestro Estado.
+
+Para el cumplimiento de sus funciones, el Comité se coordinará con la Secretaría de Turismo y Desarrollo Económico y con la Secretaría de las Culturas y Artes de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 46.
 
-La jornada de trabajo de los menores de dieciséis años no podrá exceder de seis horas diarias y deberá dividirse en dos periodos máximos de tres horas. Entre los distintos periodos de la jornada, disfrutarán una hora de reposo por lo menos.
+El Comité de Autenticidad estará conformado por hombres y mujeres con amplio conocimiento de las costumbres y tradiciones de las diferentes regiones de Oaxaca, así como de la historia, evolución e importancia de las fiestas de la Guelaguetza que se presentan en los Lunes del Cerro, para tal efecto la Secretaría de las Culturas y Artes de Oaxaca como dependencia estatal operativa, establecerá los mecanismos para su selección, debiendo instituir criterios y procedimientos claros de evaluación, así como garantizar la transparencia y la máxima publicidad en el proceso de selección e integración del Comité de Autencidad (sic); que deberá integrar a una persona de cada una de las 16 etnias que existen en el Estado y uno más que represente al pueblo afrodescendiente de Oaxaca; y que tengan o hayan tenido participación en el ámbito cultural o en alguna actividad artística relacionada con la etnia a la que pertenece. La integración del Comité de Autenticidad se hará atendiendo al principio de paridad de género.
+
+Los integrantes del Comité de Autenticidad por ningún motivo podrán durar en su encargo más de cinco años, la Secretaría deberá además establecer los mecanismos para que su renovación se realice de forma escalonada.
+
+Los cargos en el Comité de Autenticidad serán honoríficos.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 47.
 
-Por cada cinco días de servicio disfrutará el trabajador de dos días de descanso con pago de salario íntegro. Se procurará que los días de descanso semanal sean el sábado y domingo.
+El Comité de Autenticidad tendrá las siguientes atribuciones:
 
-En los trabajos que requieran una labor continua, se fijarán los días en que los trabajadores disfrutarán el descanso semanal, de acuerdo a los roles de actividades que se establezcan por el titular de la entidad pública, escuchando la opinión del sindicato.
+I. Establecer en coordinación con la Secretaría de las Culturas y las Artes de Oaxaca y con la Secretaría de Turismo y Desarrollo Económico, los mecanismos y procedimientos para la selección de las danzas y bailables que habrán de presentarse en las fiestas de los Lunes del Cerro.
 
-## TITULO QUINTO. DE LA HUELGA
+II. Emitir la declaratoria de procedencia en la selección de bailables que habrán de presentar las diferentes delegaciones en las fiestas de la Guelaguetza que se celebran los lunes del Cerro.
 
-### CAPITULO I. DE LOS SINDICATOS
+III. Garantizar la conservación de las costumbres y tradiciones en la ejecución de las danzas, bailables, música, vestimenta y demás elementos característicos que presenten las delegaciones en las fiestas de la Guelaguetza.
+
+IV. Emitir su opinión sobre los planes, programas o campañas publicitarias que promuevan oficialmente o difundan el folklor de Oaxaca para las fiestas de la Guelaguetza a fin de buscar preservar la esencia de las tradiciones populares y los valores de las culturas de las etnias de Oaxaca.
+
+V. Emitir los lineamientos que estime necesarios para el rescate y la preservación de las costumbres, danzas, bailables, vestuario y demás elementos característicos de las delegaciones que se presentan en las fiestas de los Lunes del Cerro.
+
+VI. Las demás que le confiere la presente Ley.
+
+Las decisiones que emitan las y los integrantes del Comité, serán inatacables.
+
+## TÍTULO QUINTO. DE LOS MECANISMOS PARA EL DESARROLLO CULTURAL
+
+### CAPÍTULO PRIMERO. DE LA CULTURA Y MEDIOS DE COMUNICACIÓN
 
 ###### Artículo 100.
 
@@ -1157,17 +1257,19 @@ III.- Forma en que sus miembros estarán representados en la directiva y en las 
 
 ###### Artículo 48.
 
-A los trabajadores que laboren en domingo, sin que éste fuere su día de descanso, percibirán una prima del veinticinco por ciento del salario que corresponda a un día de jornada normal.
+La Secretaría y los organismos públicos en materia de cultura conforme a lo señalado en la presente ley, promoverán una efectiva relación y colaboración con los medios de comunicación electrónica y escrita para llevar a cabo acciones de fortalecimiento y difusión de la cultura, así como para contribuir a promover el desarrollo cultural del estado.
 
 ###### Artículo 49.
 
-Serán considerados como días de descanso obligatorio, los que señala el calendario oficial, así como los días en que se verifiquen elecciones federales y locales. También podrán ser días de descanso los que convengan los titulares de las entidades con los trabajadores.
+La Secretaría a través de los medios de comunicación con que cuente el Estado, apoyará el fortalecimiento y difusión del desarrollo cultural conforme a los principios que fija esta Ley bajo los términos y condiciones que establecen los ordenamientos aplicables.
 
 ###### Artículo 50.
 
-Los trabajadores que por necesidad del servicio laboren en sus días de descanso obligatorio, independientemente de su salario, percibirán un doscientos por ciento más del mismo por el servicio prestado, sin que tal evento pueda repetirse en más de dos ocasiones en treinta días naturales.
+La Secretaría a través de los diversos fondos y programas culturales para el impulso y desarrollo de la cultura, establecerá programas de apoyo, estímulo, becas y cofinanciamiento de las producciones culturales de las radios comunitarias, así como de las estaciones y sistemas de radio y televisión permisionados, para la producción de contenidos culturales audiovisuales.
 
-### CAPITULO II. DE LAS CONDICIONES GENERALES DE TRABAJO
+### CAPÍTULO SEGUNDO. FORTALECIMIENTO DE LAS EMPRESAS E INDUSTRIAS CULTURALES
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 124.
 
@@ -1215,15 +1317,25 @@ Si el sindicato objetare substancialmente las condiciones generales de trabajo, 
 
 ###### Artículo 51.
 
-Los trabajadores que tengan más de seis meses ininterrumpidos de servicio, disfrutarán de dos periodos anuales de vacaciones de diez días laborables cada uno, en las fechas que se señalen en el calendario que para ese efecto establezca la entidad pública, de acuerdo con las necesidades del servicio. En todo caso, se dejarán guardias para los asuntos urgentes, para las que se utilizarán, de preferencia, los trabajadores que no tuvieron derecho a vacaciones.
+El Gobierno del Estado, mediante diferentes mecanismos promoverá la creación, desarrollo, protección, conservación y consolidación de las micro, pequeñas y medianas empresas culturales, privilegiando la incorporación de nuevas tecnologías.
 
-Cuando por necesidad del servicio un trabajador no pudiere hacer uso de las vacaciones en el periodo señalado, disfrutará de ellas durante los quince días siguientes a la fecha en que haya desaparecido la causa que impidiere el disfrute de ese descanso, pero en ningún caso los trabajadores que laboren en periodos vacacionales tendrán derecho a doble pago de salario. Las vacaciones son irrenunciables y no podrán compensarse con una remuneración.
+Las industrias culturales tendrán por objeto el desarrollo de las expresiones culturales, a través de la organización para incorporarse al mercado del comercio cultural, comprendiendo las siguientes:
+
+I. La Industria Audiovisual,
+
+II. La Industria Fonográfica,
+
+III. La Industria Cinematográfica,
+
+IV. La Industria Literaria y
+
+V. El Teatro.
 
 ###### Artículo 52.
 
-Los trabajadores percibirán una prima adicional al salario, equivalente al 30.33 por ciento de los días correspondientes a cada periodo.
+Las organizaciones y empresas de los sectores privado y social que realicen acciones tendientes a incentivar el desarrollo cultural, así como la preservación, fortalecimiento y difusión del patrimonio, podrán ser beneficiarios de subsidios y estímulos fiscales en las contribuciones estatales y municipales, en los términos aprobados por el Congreso del Estado en las Leyes de Ingresos correspondientes y demás ordenamientos legales aplicables.
 
-### CAPITULO UNICO
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN PARA EL DESARROLLO CULTURAL EN LOS MUNICIPIOS
 
 ###### Artículo 129.
 
@@ -1281,13 +1393,13 @@ IV.- Por laudo del Tribunal.
 
 ###### Artículo 53.
 
-Los trabajadores que cuenten con más de diez años de servicios, tendrán derecho a cinco días más laborables por concepto de vacaciones en cada periodo.
+La Secretaría conjuntamente con los Municipios, implementará acciones para el fomento cultural, a través del impulso a las Casas de Cultura, Casas del Pueblo, Bibliotecas y Hemerotecas Públicas.
 
 ###### Artículo 54.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha en que aproximadamente se fije para el parto y de otros dos después del mismo. Durante la lactancia tendrá un descanso extraordinario por día, de una hora, para amamantar a sus hijos. Para determinar los descansos a que se refiere este artículo, la interesada exhibirá los certificados médicos, que establezcan la fecha aproximada del parto y que hagan saber la fecha en que sucedió el mismo.
+La Secretaría conjuntamente con los Municipios, promoverán, mecanismos para la capacitación, certificación académica de competencias y profesionalización del personal de las áreas culturales, promotores y gestores culturales.
 
-### CAPITULO UNICO
+### CAPÍTULO CUARTO. DEL FONDO ESTATAL PARA EL DESARROLLO CULTURAL DE (SIC) ESTADO
 
 ###### Artículo 139.
 
@@ -1299,25 +1411,25 @@ La seguridad social de los trabajadores de la educación federalizados se regir�
 
 ###### Artículo 55.
 
-Cuando los trabajadores tengan que desempeñar comisión de representación del Estado o de elección popular, incompatibles con su trabajo, la entidad pública les concederá el permiso o licencia necesarios sin goce de salario y sin perder sus derechos escalafonarios y de antigüedad, por todo el tiempo que el interesado esté en el desempeño correspondiente de dicho encargo.
-
-La entidad pública, previo estudio del caso, podrá conceder permiso o licencia sin goce de sueldo a sus trabajadores, hasta por seis meses por cada año calendario, cuando éstos tengan por lo menos un año de antigüedad en el servicio.
-
-Para que los permisos o licencias se concedan es requisito previo la solicitud por escrito del trabajador, cuando menos cinco días anteriores a la fecha en que debe empezar a surtir efectos el mismo; asimismo, deberá de avisar de la reanudación del servicio, con una anticipación de diez días al del vencimiento del permiso o licencia.
+Con la finalidad de administrar los donativos, herencias y legados que le sean otorgados por personas físicas o morales, nacionales o extranjeras, con el objeto de sufragar una o más de las actividades y acciones incorporados en el Programa Estatal de Cultura, especialmente para el otorgamiento de apoyo financiero, técnico y logístico al desarrollo cultural y artístico, el financiamiento de los programas considerados en la presente Ley, se crea el Fondo Estatal para el Desarrollo Cultural del Estado, como instrumento financiero de la Secretaría, la preservación del patrimonio cultural y el otorgamiento de subsidios y recursos de coinversión a las micros, pequeñas y medianas empresas culturales. Para tal efecto se observará la normatividad aplicable.
 
 ###### Artículo 56.
 
-Los trabajadores que sufran enfermedades no profesionales, previa comprobación que hagan los médicos de la institución de seguridad social respectiva, y donde no exista, los médicos particulares, tendrán derecho a licencias, para dejar de concurrir a sus labores, en los siguientes términos:
+Las autoridades competentes en materia de cultura, gestionarán la participación pública y privada en el financiamiento de proyectos culturales que:
 
-I.- A los trabajadores que tengan más de seis meses pero menos de cinco años de servicio, hasta sesenta días con salario íntegro; hasta treinta días más con medio salario y hasta sesenta días más sin sueldo;
+I. Apoyen el desarrollo, investigación y difusión de la actividad cultural y a sus creadores;
 
-II.- A los que tengan de cinco a diez años de servicio, hasta noventa días con goce de salario íntegro; hasta cuarenta y cinco días más con medio salario y hasta noventa días más sin salario; y
+II. Promuevan la protección, conservación y crecimiento del patrimonio cultural;
 
-III.- A los que tengan más de diez años de servicio, hasta ciento veinte días con goce de salario íntegro; hasta sesenta días más con medio salario y hasta ciento veinte días más sin salario.
+III. Propicien la salvaguarda de las culturas regionales; y
 
-Los cómputos deberán hacerse por servicio continuo o cuando de existir una interrupción en la prestación de dichos servicios, ésta no sea mayor de seis meses.
+IV. Estimulen la formación, educación y perfeccionamiento de los integrantes de la comunidad cultural y faciliten su proyección en el ámbito local, nacional y regional.
 
-### CAPITULO UNICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2019)</small>
+
+### CAPÍTULO QUINTO. DEL SISTEMA DE INFORMACIÓN Y SALVAGUARDA DE LOS CONOCIMIENTOS, CULTURA E IDENTIDAD DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2019)</small>
 
 ###### Artículo 140.
 
@@ -2561,11 +2673,67 @@ P.O. 15 DE JULIO DE 2006.
 
 ###### Artículo 57.
 
-Salario es la remuneración que debe pagarse al trabajador por los servicios prestados, sin perjuicio de otras prestaciones que se establezcan.
+El Sistema de Información y salvaguarda de los conocimientos, cultura e identidad de los pueblos y comunidades indígenas y afromexicanas es un mecanismo del Ejecutivo del Estado, a cargo de la Secretaría, para integrar, organizar, sistematizar y hacer del conocimiento de la población, la información referente a las actividades, bienes y servicios culturales, así como de los conocimientos, cultura e identidad de los pueblos y comunidades indígenas y afromexicanas del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2019)</small>
 
 ###### Artículo 58.
 
-El salario de los trabajadores será uniforme para cada una de las categorías y se fijará en los presupuestos de egresos respectivos, de acuerdo a la capacidad económica de cada entidad pública, sin que puedan ser disminuidos durante la vigencia de éstos. En ningún caso los salarios podrán ser inferiores al mínimo general y profesional para la zona económica donde se preste el servicio, de acuerdo con las categorías similares contenidas en los tabuladores.
+Las dependencias y entidades de la Administración Pública Estatal proporcionarán la información necesaria para la conformación y actualización permanente del Sistema, en coordinación con la federación, entidades federativas, municipios del Estado, organismos de los sectores sociales y privados del sector cultural municipio donde se registre población indígena y afromexicana.
+
+T R A N S I T O R I O S:
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley, el Ejecutivo deberá expedir el Reglamento de esta Ley.
+
+TERCERO. Dentro de los noventa días siguientes a la entrada en vigor de la presente Ley, deberá instalarse el Consejo de Participación para el Desarrollo Cultural del Estado.
+
+CUARTO. Dentro de los ciento veinte días siguientes a la entrada en vigor de la presente Ley, el Ejecutivo del Estado deberá constituir el Fondo Estatal para el Desarrollo Cultural del Estado.
+
+Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
+
+DADO EN EL SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- San Raymundo Jalpan, Centro, Oax., 12 de agosto de 2010.
+
+DIP. JORGE OCTAVIO GUERRERO SÁNCHEZ
+
+PRESIDENTE.
+
+DIP. CLAUDIA DEL CARMEN SILVA FERNANDEZ
+
+SECRETARIA.
+
+DIP. OSCAR VALENCIA GARCÍA
+
+SECRETARIO.
+
+Por lo tanto mando que se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Tlalixtac de Cabrera, Centro, Oax., a 13 de agosto del 2010.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+LIC. ULISES ERNESTO RUIZ ORTIZ.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+DR. EVENCIO NICOLÁS MARTÍNEZ RAMÍREZ.
+
+Y lo comunico a usted, para su conocimiento y fines consiguientes.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
+
+"EL RESPETO AL DERECHO AJENO ES LA PAZ"
+
+Tlalixtac de Cabrera, Centro, Oax., a 13 de agosto del 2010.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+DR. EVENCIO NICOLÁS MARTÍNEZ RAMÍREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE OCTUBRE DE 2016.
 
 ###### Artículo 59.
 
@@ -2652,3 +2820,27 @@ P.O. 20 DE ABRIL DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Quedan derogadas las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 29 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1198.- MEDIANTE EL CUAL REFORMAN LA FRACCIÓN I DEL ARTÍCULO 8, Y LA FRACCIÓN II DEL ARTÍCULO 9; SE ADICIONA UNA FRACCIÓN XVII DEL ARTÍCULO 6 RECORRIÉNDOSE LA SUBSECUENTE, TODAS DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2127.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII, Y SE ADICIONA LA FRACCIÓN IX RECORRIENDOSE LA SUBSECUENTE DEL ARTÍCULO 5 DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el periódico oficial del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
+
+P.O. 12 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1765.- MEDIANTE EL CUAL REFORMAN LA FRACCIÓN I DEL ARTÍCULO 3 BIS; LA FRACCIÓN XII DEL ARTÍCULO 6; Y EL ARTÍCULO 14; Y SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 11 RECORRIÉNDOSE LAS SUBSECUENTES, DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
