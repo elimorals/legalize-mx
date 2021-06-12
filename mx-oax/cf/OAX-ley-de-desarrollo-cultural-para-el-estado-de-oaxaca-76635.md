@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-cultural-para-el-estado-de-oaxaca-76635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-28"
-last_updated: "2021-03-13"
+last_updated: "2021-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2021.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 28 de Agosto de 2010.
 
@@ -93,7 +93,9 @@ XI. Fondo: El Fondo Estatal para el Desarrollo Cultural del Estado.
 
 Todos los habitantes tienen los siguientes derechos culturales:
 
-I. Acceder a la cultura y al disfrute de los bienes y servicios que brinda el Estado en la materia;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2021)</small>
+
+I. Acceder a la cultura y al disfrute de los bienes y servicios que brinda el Estado en la materia, sin distinción de origen étnico, género, edad, discapacidad, condición física o mental, situación socio-económica, religión o preferencia sexual;
 
 II. Procurar el acceso al conocimiento y a la información del patrimonio material e inmaterial de las culturas que se han desarrollado y desarrollan en el territorio estatal y de la cultura las comunidades y pueblos que habitan las regiones del Estado;
 
@@ -199,11 +201,17 @@ X. Organizar talleres, concursos, festivales, ferias y otras formas de participa
 
 XI. Convocar a la participación ciudadana respecto de la elaboración, promoción y divulgación de los proyectos culturales a cargo de la administración pública;
 
-XII. Establecer e impulsar un sistema de información cultural integral a fin de difundir los catálogos de artistas, registro de creadores y promotores, gestores, bienes y servicios culturales, así como de espacios físicos y virtuales, frecuencias radiofónicas, medios impresos, canales informáticos cuyos fines se orienten al fomento cultural y artístico de la entidad;
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XV, VÉASE PUBLICACIÓN OFICIAL DE FECHA 12 DE JUNIO DE 2021.]</small>
+
+> <small>(REFORMADA , P.O. 12 DE JUNIO DE 2021)</small>
+
+XII. Otorgar reconocimientos y estímulos al mérito de los creadores artísticos, investigadores, intérpretes los promotores e investigadores culturales, mediante evaluaciones con perspectiva de género, sustentadas en los principios de objetividad, imparcialidad, interculturalidad, no discriminación e igualdad además de impulsar la formación profesional y la capacitación constante de investigadores y promotores culturales;
 
 XIII. Establecer las políticas y lineamientos para la creación, uso y aprovechamiento de la infraestructura cultural disponible;
 
 XIV. Coordinar los trabajos del Consejo de Participación para el Desarrollo Cultural del Estado;
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XII, VÉASE PUBLICACIÓN OFICIAL DE FECHA 12 DE JUNIO DE 2021.]</small>
 
 XV. Otorgar reconocimientos y estímulos al mérito de los creadores artísticos, investigadores, intérpretes o promotores e investigadores culturales, mediante evaluaciones sustentadas en los principios de objetividad, imparcialidad y equidad de género, además de impulsar la formación profesional y la capacitación constante de investigadores y promotores culturales;
 
@@ -297,15 +305,19 @@ I. Salvaguarda del Patrimonio Cultural;
 
 II. Respeto a la Diversidad Cultural;
 
-III. Formación, Capacitación, Educación e Investigación Artística y Cultural;
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2021)</small>
 
-IV. Difusión y divulgación cultural; y
+III. Igualdad de Género.
 
-V. Desarrollo Cultural Sustentable.
+IV. Formación, Capacitación, Educación e Investigación Artística y Cultural;
+
+V. Difusión y divulgación cultural; y
+
+VI. Desarrollo Cultural Sustentable.
 
 > <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2017)</small>
 
-VI. Salvaguarda del Patrimonio Biocultural Colectivo
+VII. Salvaguarda del Patrimonio Biocultural Colectivo.
 
 ###### Artículo 12.
 
@@ -315,9 +327,11 @@ El Ejecutivo del Estado por conducto de la Secretaría establecerá en la ejecuc
 
 Para efectos de esta Ley se entenderá por actividades, bienes y servicios culturales, aquellas que desde el punto de vista de su calidad, utilidad o finalidad, contienen o transmiten expresiones culturales, independientemente del valor comercial que puedan tener
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2021)</small>
+
 ###### Artículo 14.
 
-En la planeación y ejecución de las políticas públicas en materia cultural en el Estado, la Secretaría observará en todo momento los principios de transparencia y rendición de cuentas, equidad de género y lenguaje incluyente, entre otros.
+En la planeación y ejecución de las políticas públicas en materia cultural en el Estado, la Secretaría observará en todo momento los principios de transparencia y rendición de cuentas, perspectiva de género, interculturalidad, no discriminación, igualdad y lenguaje incluyente, entre otros.
 
 ### CAPÍTULO SEGUNDO. DE LA SALVAGUARDA DEL PATRIMONIO CULTURAL
 
@@ -940,3 +954,11 @@ P.O. 13 DE MARZO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el periódico oficial del Estado de Oaxaca.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
+
+P.O. 12 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1765.- MEDIANTE EL CUAL REFORMAN LA FRACCIÓN I DEL ARTÍCULO 3 BIS; LA FRACCIÓN XII DEL ARTÍCULO 6; Y EL ARTÍCULO 14; Y SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 11 RECORRIÉNDOSE LAS SUBSECUENTES, DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
