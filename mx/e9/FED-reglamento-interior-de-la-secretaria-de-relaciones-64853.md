@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-relaciones-64853"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-08"
-last_updated: "2013-09-30"
+last_updated: "2021-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-12-30"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE RELACIONES EXTERIORES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE RELACIONES EXTERIORES, PUBLICADO EN EL D.O.F. DE 14 DE JUNIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE RELACIONES EXTERIORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2021 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 8 de enero de 2009.
 
@@ -2388,3 +2390,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- Las solicitudes de permisos presentadas ante la Dirección General de Protocolo con anterioridad a la entrada en vigor del presente Decreto, se tramitarán en los términos establecidos en este.
 
 TERCERO.- Las erogaciones que en su caso sean necesarias para la instrumentación del presente Decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de Relaciones Exteriores, por lo que no se requerirá de recursos adicionales para tal efecto, y por tanto no se incrementará su presupuesto regularizable para el presente ejercicio fiscal ni los subsecuentes.
+
+D.O.F. 14 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE RELACIONES EXTERIORES”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Relaciones Exteriores, publicado en el Diario Oficial de la Federación el 8 de enero de 2009.
+
+TERCERO. Las disposiciones administrativas vigentes que fueron expedidas con base en el Reglamento que se abroga, señalado en el transitorio segundo, continuarán en vigor en lo que no contravengan las disposiciones del nuevo Reglamento que se expide y en tanto no se abroguen o deroguen expresamente, por lo que todas las referencias que cualquier disposición normativa haga a las unidades administrativas cuya denominación haya cambiado por virtud de este Reglamento, se entenderán hechas a las mismas unidades previamente a su cambio de denominación.
+
+CUARTO. La Secretaría de Relaciones Exteriores tendrá ciento ochenta días, a partir de la entrada en vigor del presente acuerdo, para realizar las reformas y adiciones que correspondan a fin de adecuar los instrumentos jurídicos relacionados con la apertura, suspensión o cierre de Oficinas Estatales y Municipales de Enlace.
+
+QUINTO. Las erogaciones que se generen con la entrada en vigor del presente Reglamento, se llevarán a cabo mediante movimientos compensados y no se requerirán recursos adicionales, por lo que la Secretaría de Relaciones Exteriores deberá sujetarse a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, por lo que no se incrementará su presupuesto regularizable.
+
+SEXTO. Cuando, en términos del último párrafo del artículo 74 de este Reglamento, el auxilio que proporcione la Secretaría de Relaciones Exteriores al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
