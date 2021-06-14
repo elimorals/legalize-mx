@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2021-03-08"
+last_updated: "2021-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2021.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -279,6 +279,8 @@ IV.- Los Delegados, Subdelegados y Comisarios Municipales; y
 
 V.- Los Organismos Auxiliares.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 18.
 
 Los Organismos Auxiliares serán honorarios y ejercerán las atribuciones que les confieran las leyes, reglamentos y disposiciones administrativas, siendo los siguientes:
@@ -295,13 +297,13 @@ V.- El Comité de Desarrollo Urbano y Rural;
 
 VI.- El Comité de Adquisiciones; y
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-VII. Consejo Municipal de la Mujer; y
+VII.- El Consejo Municipal de Protección al Ambiente;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2021)</small>
 
-VIII. Aquellos Comités o Consejos Ciudadanos que estén previstos en alguna Ley o sean aprobados por acuerdo del Ayuntamiento.
+VIII.- Aquellos Comités o Consejos Ciudadanos que estén previstos en alguna Ley o sean aprobados por acuerdo del Ayuntamiento.
 
 ###### Artículo 19.
 
@@ -1067,6 +1069,8 @@ Las Comisiones tendrán un mínimo de tres integrantes y un máximo de cinco, de
 
 En la medida de lo posible las Comisiones y servidores públicos que integren la Administración Pública Municipal, establecerán el mismo número de mujeres y hombres, respetándose la equidad de género.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 97.
 
 Las Comisiones permanentes son las siguientes:
@@ -1085,7 +1089,9 @@ V.- Comisión de Salud, Asistencia Social, Familia, Menores y Tercera Edad;
 
 VI.- Comisión de Desarrollo Económico, Turismo y Rural Sustentable;
 
-VII.- Comisión de Servicios Públicos y Ecología;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+VII.- Comisión de Servicios Públicos y Medio Ambiente;
 
 VIII.- Comisión de Agua Potable y Alcantarillado;
 
@@ -2491,39 +2497,69 @@ Los titulares de las dependencias ejercerán la competencia correspondiente a su
 
 ### CAPÍTULO II. De las Dependencias de la Administración Pública Municipal
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 304.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal cuenta con las dependencias siguientes:
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+
 I.- Secretaría de Gobernación y del H. Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
 II.- Secretaría de Finanzas y Administración;
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+
 III.- Órgano Interno de Control;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
 IV.- Secretaría de Seguridad Pública y Vialidad;
 
-V.- Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente,
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+V.- Secretaría de Obras Públicas.
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
 VI.- Secretaría de Servicios Públicos;
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+
 VII.- Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
 VIII.- Secretaría de Desarrollo Económico y Rural,
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+
 IX.- Secretaría de Turismo y Cultura;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
 X. Secretaría de Desarrollo Integral de la Familia;
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+
 XI.- Secretaría Particular;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
 XII.- Secretaría de Comunicación Social e Imagen Institucional;
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+
 XIII.- Secretaría Ejecutiva;
 
-XIV.- Instituto Municipal de Planeación
+XIV.- (DEROGADA, P.O. 14 DE JUNIO DE 2021)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2021)</small>
+
+XV.- Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
 ###### Artículo 305.
 
@@ -2549,7 +2585,7 @@ Los Manuales de Organización y Procedimientos, una vez publicados, imponen carg
 
 Los Manuales de Organización y Procedimientos serán elaborados por cada dependencia o en su caso, elaborados por la Secretaría encargada del ámbito administrativo interno municipal, de conformidad a los lineamientos de la dependencia correspondiente y aprobados en todo caso por el titular de la Secretaría respectiva o del organismo descentralizado correspondiente.
 
-> <small>(REFORMADO [N. DE. E. REPUBLICADO PRIMER PÁRRAFO], P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 311.
 
@@ -2655,21 +2691,31 @@ b). Dirección Administrativa,
 
 2). Departamento de Prevención del Delito.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-V. Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente
+V. Secretaría de Obras Públicas.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2021)</small>
 
 a). Dirección de Obras Públicas,
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2021)</small>
+
 1). Departamento de Licitaciones y Costos,
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2021)</small>
 
 2). Departamento de Proyectos,
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2021)</small>
+
 3). Departamento de Supervisión,
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2021)</small>
+
 4). Departamento de Calidad de Obra y Administración, y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2021)</small>
 
 5). Departamento de Parque de Maquinaria.
 
@@ -2795,17 +2841,7 @@ f). Departamento de Trabajo Social
 
 XII. (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
-
-XIII. INSTITUTO MUNICIPAL DE PLANEACIÓN (IMPLAN)
-
-a) Departamento Jurídico.
-
-b) Departamento de Sistema Municipal de Evaluación.
-
-c) Departamento de Sistema Municipal de Planeación Integral.
-
-d) Departamento de Sistema De Información Estratégica Municipal.
+XIII.- (DEROGADA, P.O. 14 DE JUNIO DE 2021)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2840,6 +2876,28 @@ XVI.- Secretaría Ejecutiva
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
 
 a). Departamento de coordinación con autoridades auxiliares.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS Y NUMERALES], P.O. 14 DE JUNIO DE 2021)</small>
+
+XVII.- Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
+
+a). Dirección de Ordenamiento Territorial e Imagen Urbana.
+
+1) Departamento de Ordenamiento Territorial,
+
+2) Departamento de Imagen urbana,
+
+b) Dirección de Planeación.
+
+1) Departamento de Planeación Integral e Información Estratégica Municipal,
+
+2) Departamento Municipal de Evaluación.
+
+c). Dirección de Medio Ambiente.
+
+1) Departamento de Gestión Ambiental.
+
+d). Departamento Jurídico Administrativo,
 
 ###### Artículo 312.
 
@@ -2967,7 +3025,7 @@ La estructura orgánica, en cuanto a niveles de jerarquía funcional, no implica
 
 #### SECCIÓN PRIMERA. De la Secretaría de Gobernación y del H. Ayuntamiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 326.
 
@@ -3105,19 +3163,19 @@ XLII.- Administrar las bibliotecas y museos del Municipio a través del Titular 
 
 XLIII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XLIV.- Hacer y entregar informes en temas transversales en colaboración con las dependencias y en correlación con el IMPLAN.
+XLIV.- Hacer y entregar informes en temas transversales en colaboración con las dependencias y en correlación con la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XLV.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+XLV.- Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; Página 85 de 688 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XLVI.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+XLVI.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 327.
 
@@ -3171,21 +3229,21 @@ XXIII.- Coordinar la realización de los actos cívicos, en los que se conmemore
 
 XXIV.- Las demás que el Presidente Municipal le encomiende.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XXV.- Hacer y entregar informes en temas transversales en colaboración con las dependencias y en correlación con el IMPLAN.
+XXV.- Hacer y entregar informes en temas transversales en colaboración con las dependencias y en correlación con la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XXVI.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+XXVI.- Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XXVII.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+XXVII.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED)
 
 #### SECCIÓN SEGUNDA. De la Secretaría de Finanzas y Administración
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 328.
 
@@ -3291,71 +3349,119 @@ XXXVIII.- Establecer y coordinar los sistemas y procesos informáticos que habr�
 
 XXXIX.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XL.- Hacer y entregar informes en temas transversales en colaboración con las dependencias y en correlación con el IMPLAN.
+XL.- Hacer y entregar informes en temas transversales en colaboración con las dependencias y en correlación con la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XLI.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+XLI.- Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos: 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XLII.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+XLII.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 #### SECCIÓN TERCERA. De la Secretaría de Contraloría Interna
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 329.
 
-Corresponde al Órgano Interno de Control:
+Corresponde al órgano Interno de Control:
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
 I.- Vigilar el correcto manejo de las finanzas municipales, apegándose a lo establecido en la Ley de Ingresos y a los presupuestos de ingresos y egresos municipales;
 
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
 II.- Fijar, en su caso, las normas internas de carácter obligatorio necesarias para que los procesos administrativos del Municipio se realicen con transparencia, seguridad jurídica, agilidad y orden;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
 III.- Ordenar y practicar auditorias, revisiones, visitas e inspecciones a las dependencias y entidades de la administración pública municipal como empresas para municipales (sic), fideicomisos y organismos públicos descentralizados.
 
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
 IV.- Supervisar los procesos de asignación, adjudicación, ejecución, entrega, recepción y pago de la obra pública y la correcta aplicación en ellos de los fondos públicos;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
 V.- Dictar las disposiciones que requiera el Órgano Interno de Control para la adecuada aplicación y cumplimiento de la Entrega-Recepción de las dependencias municipales;
 
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
 VI.- Investigar de oficio o en atención a las quejas, a las denuncias y a los hechos o elementos detectados en las auditorias, revisiones, visitas e inspecciones practicadas por el órgano Interno de Control, las conductas y/o faltas de los servidores públicos municipales y faltas de particulares que impliquen presuntas faltas administrativas y en su caso, substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
 VII.- Coordinar y vigilar que los servidores públicos obligados a presentar declaración de situación patrimonial, lo hagan en tiempo y forma, apegándose a la normatividad establecida;
 
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
 VIII.- Supervisar que las adquisiciones de bienes y servicios que realice el Municipio correspondan en cantidad y calidad a las necesidades reales;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
 IX.- Vigilar los recursos patrimoniales del Municipio, así como los que provengan del Gobierno Federal y del Estatal;
 
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
 X.- Fijar las normas de carácter obligatorio necesarias para el control interno, fiscalización, contabilidad y auditoría que deben observar las dependencias municipales que deben observar las dependencias municipales (sic).
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
 XI.- Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento, así como las normas señaladas en la fracción anterior; además de las normas jurídicas y administrativas que rigen su funcionamiento.
 
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
 XII.- Designar a su personal que practicará auditarías a las dependencias y entidades municipales como empresas para municipales, fideicomisos y organismos públicos descentralizados, así como normar y controlar su desempeño, verificando el destino de los fondos públicos sean propios o transferidos;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
 XIII.- Vigilar y controlar el gasto público para el rendimiento máximo de los recursos del Municipio, y el adecuado equilibrio presupuestal;
 
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
 XIV.- Vigilar que las obras realizadas por el Municipio, directamente o con participación de terceros se ajusten a las especificaciones fijadas;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
 XV.- Dictaminar los estados financieros que expida la Secretaría de Finanzas y Administración;
 
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
 XVI.- Coordinar el módulo de Transparencia y Acceso a la Información Pública Municipal; Poner a la disposición de la ciudadanía los formatos para recabar la información pública Municipal;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
 XVII.- Evaluar el Sistema de Control Interno en la administración pública municipal.
 
-XVIII.- Entregar la información requerida por el IMPLAN.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XIX.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+XVIII.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
-XX.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+XIX.-· Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+XX.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED)
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
 XXI.- Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias y entidades municipales como empresas para municipales (sic), fideicomisos y organismos públicos descentralizados.
 
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
 XXII.- Ejecutar las funciones establecidas en este Código y en la legislación Federal, Estatal y Municipal aplicables para los órganos internos de control.
 
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
 XXIII.- Designar, para el adecuado desarrollo del Sistema de Control y Evaluación Interno Gubernamental, en los casos que así lo determine el Órgano Interno de Control, Delegados de la propia ante las dependencias de la administración pública municipal.
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
 XXIV.- Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
 
@@ -3363,7 +3469,7 @@ XXIV.- Las demás que expresamente le señalen las leyes y reglamentos vigentes 
 
 #### SECCIÓN CUARTA. De la Dirección de Desarrollo Urbano
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 330.
 
@@ -3435,101 +3541,111 @@ XXXII.- Llevar control interno de las incidencias, incapacidades y control del r
 
 XXXIII.- Las demás que le otorguen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XXXIV.- Entregar la información requerida por el IMPLAN.
+XXXIV.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XXXV.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+XXXV.- Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los Página 96 de 691 (sic) términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XXXVI.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+XXXVI.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 #### SECCIÓN QUINTA. De la Secretaría de Planeación y Desarrollo Municipal
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 331.
 
-Corresponde a la Dirección de Desarrollo Urbano:
+Corresponde a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente:
 
-I.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
+I.- Proponer y elaborar los programas y esquemas de desarrollo urbano de la cabecera y comunidades de Calvillo; así como los esquemas en materia de desarrollo urbano y reservas territoriales para presentarlos al Ayuntamiento a través del Presidente Municipal;
 
-II.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
+II.- Preparar los proyectos de programas y esquemas en materia de desarrollo urbano para presentarlos al Ayuntamiento a través del Presidente Municipal;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+III.- Promover la creación de reservas territoriales en el Municipio;
 
-III.- Proponer la elaboración de los programas y esquemas de desarrollo urbano de la cabecera y comunidades de Calvillo; así como los esquemas en materia de desarrollo urbano y reservas territoriales para presentarlos al Ayuntamiento a través del Presidente Municipal;
+IV.- Organizar los Programas Operativos Anuales;
 
-IV.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
+V.- Preparar los proyectos derivados de los Programas Operativos Anuales;
 
-V.- Preparar los proyectos de programas y esquemas en materia de desarrollo urbano para presentarlos al Ayuntamiento a través del Presidente Municipal;
+VI.- Instrumentar los procesos de consulta ciudadana para la preparación de planes y programas municipales;
 
-VI.- Promover la creación de reservas territoriales en el Municipio;
+VII.- Relacionar la Administración Pública Municipal con los ciudadanos, a fin de que estos participen del proceso de planeación democrática del desarrollo;
 
-VII.- Organizar los Programas Operativos Anuales;
+VIII.- Proponer la nomenclatura de calles, parques y demás espacios públicos, así como la numeración oficial de los predios y expedir las constancias relativas;
 
-VIII.- Preparar los proyectos derivados de los Programas Operativos Anuales;
+IX.- Participar en la elaboración de los proyectos de reglamentación de zonificación y usos del suelo, de construcciones y de protección al ambiente;
 
-IX.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
+X.- Ejercer las atribuciones que le otorga el Código Urbano al Municipio, en cuanto a la creación de condominios, creación de fraccionamientos y su municipalización, así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
 
-X.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
+XI.- Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano y la Ley Municipal del Estado de Aguascalientes;
 
-XI.- Promover la creación de reservas territoriales en el Municipio;
+XII.- Administrar el control urbano con el otorgamiento de las autorizaciones de compatibilidad urbanística, alineamiento, anuncios, subdivisiones, fusión y relotificación de predios y fraccionamientos, así como las licencias para construcción, remodelación y demolición de fincas, realización de obras, edificaciones y reparaciones en la vía pública y la expedición de números oficiales conforme a lo estipulado en el Código Urbano;
 
-XII.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
+XIII.- Llevar un registro de peritos, así como asignar peritajes por servicio social en los casos que prevé este Código;
 
-XIII.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
+XIV.- Inspeccionar obras, edificios y construcciones en general;
 
-XIV.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
+XV.- Verificar el uso que se está dando a un predio, edificio o construcción, y que éste se ajuste a las características previamente registradas;
 
-XV.- Proponer la nomenclatura de calles, parques y demás espacios públicos, así como la numeración oficial de los predios y expedir las constancias relativas;
+XVI.- Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de vía pública;
 
-XVI.- Participar en la elaboración de los proyectos de reglamentación de zonificación y usos del suelo, de construcciones y de protección al ambiente;
+XVII.- Acordar las medidas que fueren procedentes en relación con las edificaciones peligrosas, que generen insalubridad o causen molestias;
 
-XVII.- Ejercer las atribuciones que le otorga el Código Urbano al Municipio, en cuanto a la creación de condominios, creación de fraccionamientos y su municipalización, así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
+XVIII.- Ordenar la realización de visitas de inspección y la aplicación de medidas de seguridad;
 
-XVIII.- Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano y la Ley Municipal del Estado de Aguascalientes;
+XIX.- Imponer las sanciones por violación a las normas en materia de desarrollo urbano;
 
-XIX.- Administrar el control urbano con el otorgamiento de las autorizaciones de compatibilidad urbanística, alineamiento, anuncios, subdivisiones, fusión y relotificación de predios y fraccionamientos, así como las licencias para construcción, remodelación y demolición de fincas, realización de obras, edificaciones y reparaciones en la vía pública y la expedición de números oficiales conforme a lo estipulado en el Código Urbano;
+XX.- Solicitar el auxilio de la fuerza pública, cuando fuese necesario para hacer cumplir sus determinaciones;
 
-XX.- Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
+XXI.- Expedir normas técnicas complementarias para el debido cumplimiento en lo relativo a las construcciones;
 
-XXI.- Llevar un registro de peritos, así como asignar peritajes por servicio social en los casos que prevé este Código;
+XXII.- Proponer y vigilar el establecimiento del registro de programas y esquemas de desarrollo urbano en el Gobierno Municipal;
 
-XXII.- Inspeccionar obras, edificios y construcciones en general;
+XXIII.- Aplicar las normas jurídicas de contenido ecológico y de preservación, cuidado, vigilancia y control del medio ambiente municipales;
 
-XXIII.- Verificar el uso que se está dando a un predio, edificio o construcción, y que éste se ajuste a las características previamente registradas;
+XXIV.- Realizar acciones tendientes a la educación ambiental en el Municipio, en su caso, en colaboración con las instituciones educativas y culturales;
 
-XXIV.- Acordar las medidas que fueren procedentes en relación con las edificaciones peligrosas, que generen insalubridad o causen molestias;
+XXV.- Fomentar las acciones tendientes a un adecuado aprovechamiento de los recursos naturales en el Municipio, buscando en todo el desarrollo municipal sustentable;
 
-XXV.- Ordenar la realización de visitas de inspección y la aplicación de medidas de seguridad;
+XXVI.- La administración, planeación y control del Centro de Estudios Medio Ambiental (GEMA);
 
-XXVI.- Imponer las sanciones por violación a las normas en materia de desarrollo urbano;
+XXVII.- Promover campañas de reciclaje ecológico y de limpieza de ríos y afluentes y demás lugares afectados por basuras o desechos;
 
-XXVII.- Solicitar el auxilio de la fuerza pública, cuando fuese necesario para hacer cumplir sus determinaciones;
+XXVIII.- Realizar diagnósticos participativos sobre la problemática pública en el Municipio;
 
-XXVIII.- Expedir normas técnicas complementarias para el debido cumplimiento en lo relativo a las construcciones;
+XXIX.- Coordinar las actividades necesarias para la elaboración del Plan Municipal de Desarrollo, así como sus modificaciones o adiciones;
 
-XXIX.- Proponer y vigilar el establecimiento del registro de programas y esquemas de desarrollo urbano en el Gobierno Municipal;
+XXX.- Proveer la información necesaria a la Secretaría de Obras Públicas para elaborar el Programa anual y trianual de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que señale el Plan Municipal de Desarrollo;
 
-XXX.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
+XXXI.- Coordinar en conjunto con los enlaces de las Dependencias y Organismos de la Administración Pública Municipal la creación de los programas presupuestarios atendiendo las líneas de acción del Plan Municipal de Desarrollo;
 
-XXXI.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
+XXXII.- Coordinar las acciones con las Dependencias y Organismos de la Administración Pública Municipal en las actividades relacionadas con el diseño y la gestión de los proyectos estratégicos complementarios del Plan Municipal de Desarrollo;
 
-XXXII.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
+XXXIII.- Realizar diagnósticos municipales;
 
-XXXIII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XXXIV.- Recopilar, mantener actualizada y difundir la información estadística y geográfica necesaria para la planeación municipal;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+XXXV.- Participar en el Consejo de Desarrollo Municipal, además de las instancias de planeación a nivel federal, estatal y municipal;
 
-XXXV (SIC).- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+XXXVI.- Dar seguimiento y evaluar periódicamente los planes, programas y proyectos para el cumplimiento de las metas establecidas en el Plan Municipal de Desarrollo;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+XXXVII.- Coordinar la organización de los trabajos de las Dependencias y Organismos de la Administración Pública Municipal en mesas temáticas para garantizar la eficacia de la Administración Pública Municipal, a través de los ejes del Plan Municipal de Desarrollo y sus indicadores.
 
-XXXVI.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+XXXVIII.- Atender solicitudes oficiales y emitir las opiniones para las dependencias y organismos de la Administración Pública Municipal; en el ámbito de su competencia;
+
+XXXIX.- Asesorar al H. Ayuntamiento y a la Administración Pública Municipal en las acciones que integran el proceso de planeación estratégica integral para el desarrollo sustentable a mediano y largo plazo;
+
+XL.- Coordinar, operar y mantener actualizados los sistemas municipales de Planeación Participativa, Programación, Información Geográfica y Estadística, y Gestión Basada en Resultados;
+
+XLI.- Construir y operar las bases de datos estadísticos municipales;
+
+XLII.- Requerir la información necesaria en temas transversales en colaboración con las dependencias municipales, y
+
+XLIII.- Todas aquellas atribuciones que las leyes, reglamentos y el H. Ayuntamiento le confieran.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
 
@@ -3547,17 +3663,21 @@ V.- Promover campañas de reciclaje ecológico y de limpieza de ríos y afluente
 
 VI.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal;
 
-VII.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-VIII.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+VII.- Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+VIII.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED)
 
 #### SECCIÓN SEXTA. De la Secretaría de Obras Públicas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 332.
 
-Corresponde a la Secretaría de Obras Públicas y Desarrollo Urbano:
+Corresponde a la Secretaría de Obras Públicas:
 
 I.- Ejecutar el Programa Municipal de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que le señale el Presidente Municipal;
 
@@ -3573,21 +3693,21 @@ VI.- Expedir las convocatorias y bases a que deben ajustarse los concursos de ob
 
 VII.- Las demás que señale la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-VIII.- Entregar la información requerida por el IMPLAN
+VIII.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XI (SIC).- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+XI (SIC).- Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-X (SIC).- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+X (SIC).- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 #### SECCIÓN SÉPTIMA. De la Secretaría de Servicios Públicos
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 333.
 
@@ -3603,7 +3723,9 @@ c).- Establecer los horarios de prestación del servicio, así como los turnos d
 
 d).- Determinar las instalaciones de los centros de acopio en sitios específicos para ser recolectados por los vehículos destinados para tal efecto;
 
-e).- Determinar las acciones necesarias para mantener la limpieza en toda la circunscripción municipal y eliminar cualquier foco de proliferación de plagas y fauna nociva;
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
+
+e).- En coordinación con la Dirección de Medio Ambiente determinar las acciones necesarias para mantener la limpieza en toda la circunscripción municipal y eliminar cualquier foco de proliferación de plagas y fauna nociva;
 
 f).- Buscar lugares adecuados para instalar y operar rellenos sanitarios, cuando considere necesario, verificando que funcionen adecuadamente;
 
@@ -3631,19 +3753,27 @@ p).- Conservar la limpieza de los bienes municipales;
 
 II.- Establecer a los particulares los horarios, días, lugares y condiciones en los que podrá depositar los residuos sólidos;
 
-III.- Diseñar programas y campañas de limpieza a realizarse dentro del Municipio;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+III.- En coordinación con la Dirección de Medio Ambiente diseñar programas y campañas de limpieza a realizarse dentro del Municipio;
 
 IV.- Coordinar con las autoridades estatales y federales las medidas sanitarias y programas, que deben de operar los sitios de tratamiento y disposición finales de residuos domésticos;
 
 V.- Autorizar el diseño, resistencia y características de los contenedores para el depósito de residuos domésticos;
 
-VI.- Realizar inspecciones periódicas a los establecimientos que generen residuos peligrosos;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+VI.- En coordinación con la Dirección de Medio Ambiente realizar inspecciones periódicas a los establecimientos que generen residuos peligrosos;
 
 VII.- Denunciar ante las autoridades federales, a las empresas o establecimientos que generen residuos peligrosos y no cumplan con las disposiciones normativas aplicables;
 
-VIII.- Exigir a mercados particulares, hospitales y demás establecimientos que así lo requieran, la adquisición o construcción de depósitos apropiados y especiales para el almacenamiento temporal de residuos sólidos no peligrosos;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-IX.- Recomendar, y cuando fuere necesario, obligar a las personas físicas o morales, la clasificación de desechos sólidos que generen, en orgánicos, inorgánicos y confiables, para su aprovechamiento;
+VIII.- Exigir a mercados particulares, hospitales y demás establecimientos que así lo requieran, la adquisición o construcción de depósitos apropiados y especiales para el almacenamiento temporal de residuos sólidos no peligrosos y dar aviso a la autoridad ambiental.
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+IX.- Recomendar cuando fuere necesario a las personas físicas o morales a realizar la clasificación de desechos sólidos que generen, en orgánicos, inorgánicos y confiables, para su aprovechamiento, de ser necesario dar aviso a la Dirección de Medio ambiente.
 
 X.- Realizar campañas de concientización y promoción del manejo adecuado de la basura y de mantener limpia la ciudad;
 
@@ -3659,7 +3789,9 @@ XV.- Ejecutar la instalación de los equipos disponibles de luz y sonido en even
 
 XVI.- Efectuar las acciones de mantenimiento de parques, plazas, camellones y jardines públicos;
 
-XVII.- Proyectar y equipar nuevas áreas verdes municipales;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+XVII.-·En coordinación con la Dirección de Medio ambiente proyectar y equipar nuevas áreas verdes municipales;
 
 XVIII.- Apoyo a diversos servicios que en materia de parques y jardines realice el Municipio;
 
@@ -3705,21 +3837,21 @@ XXXIII (SIC).- Realizar el mantenimiento preventivo y correctivo en los cementer
 
 XXXIX.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XL.- Entregar la información requerida por el IMPLAN
+XL.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente:
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XLI.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del. Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+XLI.· Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XLII.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+XLII.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED)
 
 #### SECCIÓN OCTAVA. De la Secretaría de Desarrollo Social
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 334.
 
@@ -3751,17 +3883,17 @@ XII.- Promover y difundir las actividades artesanales, maquilas de mano de obra,
 
 XIII.- Lo demás que señalen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XIV.- Entregar la información requerida por el IMPLAN
+XIV.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente:
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XV.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+XV.- Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XVI.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+XVI.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ENERO DE 2015)</small>
 
@@ -3769,39 +3901,69 @@ XVI.- Entregar la información requerida por el IMPLAN para realizar las Evaluac
 
 De la Secretaría (sic) Desarrollo Económico, Turismo y Rural.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 335.
 
 Corresponde a la Secretaría de Desarrollo Económico y Rural:
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 I. Procurar el mejoramiento de las condiciones de vida de la población del municipio, a través del impulso al desarrollo económico, promoviendo la inversión pública y privada en los sectores económicos, primarios, de transformación y servicios;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 II. Coordinar la operación de la Unidad Regional del Servicio Nacional del Empleo y coadyuvar al cumplimiento de sus programas y metas;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 III. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos al fomento e impulso de las actividades económicas como la industria, el comercio, los servicios y las actividades agropecuarias realizando los diversos eventos y/o exposiciones;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 IV. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos a la conservación de los recursos naturales y las áreas naturales protegidas, así como todos los que apliquen a estas zonas y mejoren las condiciones de vida de su población;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 V. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos al desarrollo de capacidades en la población en general así como para el desarrollo de los distintos sectores productivos del municipio;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 VI. Establecer vínculos de cooperación con las dependencias afines a la Secretaría en el ámbito federal y estatal a fin de establecer mecanismos de cooperación y estrategias para cumplir con los objetivos establecidos en (sic) Plan Municipal de Desarrollo;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 VII. Programar y organizar las sesiones del Consejo Municipal para el Desarrollo Rural Sustentable, así como dar seguimiento a los acuerdos;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 VIII. Establecer vínculos de cooperación con las dependencias afines a la Secretaría en el ámbito federal y estatal a fin de establecer mecanismos de cooperación y estrategias para cumplir con los objetivos establecidos en (sic) Plan Municipal de Desarrollo;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 IX. Establecer vínculos de cooperación con las organizaciones y asociaciones de productores de cada uno de los sectores a los que atiende la Secretaría, a fin de coadyuvar al cumplimiento de sus metas y objetivos;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 X. Ejecutar esquemas de apoyo para las micro, pequeñas y medianas empresas derivadas de las políticas públicas establecidas en los Planes Estatal y Nacional de Desarrollo;
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 XI. Facilitar la apertura de nuevas empresas a través de la implementación de la Ventanilla Única de Atención Empresarial; y
 
-XII. Entregar la información requerida por el IMPLAN;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XIII. Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia;
+XII. Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente;
 
-XIV. Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED);
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+XIII. Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+XIV. Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempef1o (SED);
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 XV. Las demás que este Código y otras disposiciones legales determinen.
 
@@ -3809,59 +3971,101 @@ XV. Las demás que este Código y otras disposiciones legales determinen.
 
 #### SECCIÓN DÉCIMA. SECRETARÍA DE TURISMO Y CULTURA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 336.
 
 Corresponde a la Secretaría de Turismo y Cultura:
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 I. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos al fomento e impulso de las actividades económicas como la industria, el comercio, los servicios, el turismo y las actividades agropecuarias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 II. Desarrollar y coordinar acciones para la promoción de Calvillo como atractivo turístico, mantener y mejorar la afluencia de visitantes a través de la búsqueda de alianzas con operadores turísticos;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 III. Coadyuvar con las actividades del Comité Calvillo Pueblo Mágico para dar cumplimiento a los lineamientos del Programa Pueblos Mágicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 IV. Establecer vínculos de cooperación con las dependencias afines a la Secretaría en el ámbito federal y estatal a fin de establecer mecanismos de cooperación y estrategias para cumplir con los objetivos establecidos en (sic) Plan Municipal de Desarrollo;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 V. Crear planes estratégicos de desarrollo turístico efectivo que vigilen el cuidado del patrimonio natural, arquitectónico y sociocultural del municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 VI. Atender de manera atenta y ordenada a los turistas que eligen Calvillo para su visita;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 VII. Aprovechar plenamente los recursos naturales, artísticos, artesanales e históricos en beneficio de la economía del Municipio y de sus habitantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 VIII. Fomentar e incentivar y desarrollar actividades educativas y de difusión de los valores históricos y de turismo cultural del Municipio;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 IX. Promover e incrementar el número de visitantes al Municipio, ofreciendo una mejor y mayor calidad de los servicios de turismo cultural;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 X. Aumentar la captación de los recursos provenientes de la actividad cultural, destinándolos a la conservación, ampliación y mejoramiento de las instalaciones, eventos y fomento de la cultura Calvillense;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 XI. Promover regional, nacional e internacionalmente la cultura, el arte y en especial el trabajo artesanal de nuestra gente, a través de los diversos eventos, festivales, exposiciones y demostraciones culturales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 XII. Organizar, supervisar y controlar las ferias tradicionales del Municipio, como son la Fiesta de Mayo y la Feria de la Guayaba, y apoyar a la realización de las fiestas patronales de las diversas comunidades y/o delegaciones del municipio;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 XIII. Coadyuvar en la producción ejecutiva de eventos artísticos a nivel estatal, regional, nacional e internacional que impulsen al Municipio, así como llevar a cabo su promoción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 XIV. Fomentar la conservación y el desarrollo de las actividades artesanales del municipio reconociendo este conocimiento como un patrimonio de todos los Calvillenses;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 XV. Proponer a la Presidencia Municipal, para su aprobación por el Ayuntamiento los perímetros feriales para la "Feria de la Guayaba" y las diversas fiestas patronales y populares que se realicen en el Municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 XVI. Disponer del área a que se refiere la fracción anterior para los efectos de instalación de las negociaciones y de los atractivos en general que corresponden a la feria y fiestas;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 XVII. Fijar con autorización del Ayuntamiento las tarifas, gravámenes o exenciones en su caso, que sean de la competencia del Municipio y que deban aplicarse por servicios y otros espectáculos que se relacionen directamente con la feria y las fiestas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 XVIII. Tener bajo su resguardo las instalaciones del Museo Municipal;
 
-XIX. Entregar la información requerida por el IMPLAN:
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XX. Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia;
+XIX. Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente;
 
-XXI. Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED);
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+XX. Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+XXI. Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED);
 
 XXII. Las demás que este Código y otras disposiciones legales determinen.
 
 #### SECCIÓN DÉCIMA PRIMERA. De la Secretaría de Desarrollo Integral de la Familia
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 337.
 
@@ -3909,21 +4113,21 @@ XX.- Procurar y promover la coordinación con otras instituciones afines, cuyo o
 
 XXI.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XXII.- Entregar la información requerida por el IMPLAN
+XXII.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XXIII.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+XXIII.- Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XXIV.- Entregar la información requerida por el IMPLAN para reali.tar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+XXIV.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 #### SECCIÓN DÉCIMA SEGUNDA. De la Secretaría Particular
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 338.
 
@@ -3973,23 +4177,23 @@ XV.- Establecer sistemas de captación de demandas populares en las giras que re
 
 XVI.- Las demás que el Presidente Municipal le encomiende.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XVII.- Entregar la información requerida por el IMPLAN
+XVII.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XVIII.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+XVIII.- Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para llevar a cabo los Programas Presupuestarlos (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XIX.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+XIX.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 ###### ARTÍCULO 339.
 
 (DEROGADO, P.O. 15 DE MAYO DE 2017)
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 340.
 
@@ -4017,83 +4221,69 @@ X.- Observar las normas que la Coordinación de Comunicación Social y Relacione
 
 XI.- Las demás que el Presidente Municipal le encomiende.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XII.- Entregar la información requerida por el IMPLAN
+XII.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 21 DE OCTUBRE DE 2019)</small>
 
 #### SECCIÓN DÉCIMA TERCERA.. De la Secretaría Ejecutiva
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 Artículo 340 BIS.- Corresponde a la Secretaría Ejecutiva:
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+
 I.- Fungir como enlace bajo la supervisión del Presidente Municipal, para asegurar una adecuada vinculación de las dependencias y organismos de la Administración Pública Municipal con los diferentes niveles y poderes de gobierno, así como con las diversas instituciones y organizaciones de la sociedad en general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
 
 II.- Establecer los mecanismos necesarios para el seguimiento y cumplimiento de los acuerdos entre el Presidente Municipal y los Titulares de las Dependencias y Organismos de la Administración Pública Municipal;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+
 III.- Coordinar la organización de los trabajos de las Dependencias y Organismos de la Administración Pública Municipal en gabinetes temáticos para garantizar la eficiencia de la Administración Pública Municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
 
 IV.- Coordinar los servicios de asesoría y consultoría al Presidente Municipal;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+
 V.- Realizar análisis, estudios y encuestas en materia de opinión pública y documentar los resultados y datos estadísticos, así como coordinar la elaboración de otro tipo de estudios pertinentes para la innovación y mejora de la gestión pública y el desempeño gubernamentales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
 
 VI.- Coordinar las acciones con los Titulares de las Dependencias y Organismos de la Administración Pública Municipal para integrar y elaborar los documentos relacionados con los informes de Gobierno;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+
 VII.- Llevar a cabo la coordinación con la Secretaría Particular del Presidente Municipal para el diseño, seguimiento y evaluación de la agenda, así como para establecer las bases para la integración y contenido de las giras del Presidente Municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
 
 VIII.- Llevar a cabo la coordinación con la Secretaría de Comunicación Social e Imagen Institucional para la definición, seguimiento y evaluación de las políticas de difusión institucional;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+
 IX.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
 
 X.- Servir de enlace entre la ciudadanía, la Presidencia Municipal y las Dependencias o Entidades del Gobierno Federal o Estatal que operen en el Municipio;
 
-XI.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XII.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+XI.- Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia; y
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+XII.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 ###### Artículo 340 Ter.
 
-Corresponde al Instituto Municipal de Planeación de Calvillo lo siguiente:
-
-I.- Realizar diagnósticos participativos sobre la problemática pública en el Municipio;
-
-II.- Coordinar las actividades necesarias para la elaboración del Plan Municipal de Desarrollo, así como sus modificaciones o adiciones;
-
-III.- Proveer la información necesaria a la Secretaría de Obras Públicas y Desarrollo Urbano para elaborar el Programa anual y trianual de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que señale el Plan Municipal de Desarrollo;
-
-IV.- Proponer esquemas de desarrollo urbano y sustentable del Municipio y presentarlos al H. Ayuntamiento a través del Presidente Municipal;
-
-V.- Proveer la información de áreas de crecimiento poblacional a la Dirección de Desarrollo Urbano;
-
-VI.- Coordinar en conjunto con los enlaces de las Dependencias y Organismos de la Administración Pública Municipal la creación de los programas presupuestarios atendiendo las líneas de acción del Plan Municipal de Desarrollo;
-
-VII.- Coordinar las acciones con las Dependencias y Organismos de la Administración Pública Municipal en las actividades relacionadas con el diseño y la gestión de los proyectos estratégicos complementarios del Plan Municipal de Desarrollo;
-
-VIII.- Instrumentar los procesos de consulta ciudadana para la preparación de planes y programas municipales;
-
-IX.- Recopilar, mantener actualizada y difundir la información estadística y geográfica necesaria para la planeacíón municipal;
-
-X.- Participar en el Consejo de Desarrollo Municipal, además de las instancias de planeación a nivel federal, estatal y municipal;
-
-XI.- Dar seguimiento y evaluar periódicamente los planes, programas y proyectos para el cumplimiento de las metas establecidas en el Plan Municipal de Desarrollo;
-
-XII.- Coordinar la organización de los trabajos de las Dependencias y Organismos de la Administración Pública Municipal en mesas temáticas para garantizar la eficacia de la Administración Pública Municipal, a través de los ejes del Plan Municipal de Desarrollo y sus indicadores.
-
-XIII.- Atender solicitudes oficiales y emitir las opiniones para las dependencias y organismos de la Administración Pública Municipal; en el ámbito de su competencia;
-
-XIV.- Asesorar al H. Ayuntamiento y a la Administración Pública Municipal en las acciones que integran el proceso de planeación estratégica integral para el desarrollo sustentable a mediano y largo plazo;
-
-XV.- Coordinar, operar y mantener actualizados los sistemas municipales de Planeación Participativa, Programación, Información Geográfica y Estadística, y Gestión Basada en Resultados;
-
-XVI.- Proveer de información estadística y geográfica a la Dirección de Desarrollo Urbano para que elabore sus programas de crecimiento Urbano, Rural y Sustentables del Municipio;
-
-XVII.- Requerir la información necesaria en temas transversales en colaboración con las dependencias municipales, y
-
-XVIII.- Todas aquellas atribuciones que las leyes, reglamentos y el H. Ayuntamiento le confieran.
+(DEROGADO, P.O. 14 DE JUNIO DE 2021)
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL Y DESCONCENTRADA
 
@@ -6593,6 +6783,8 @@ El cableado de toda instalación nueva de alumbrado público deberá hacerse en 
 
 En cualquier caso la caída de tensión máxima del punto de entrega a la Comisión Federal de Electricidad, la luminaria más lejano será del tres por ciento. El cableado del sistema de alumbrado deberá ser del calibre que garantice tal porcentaje.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 626.
 
 Para la instalación de luminarias se podrán utilizar:
@@ -6601,7 +6793,9 @@ I.- Postes de concreto o tubulares de la Comisión Federal de Electricidad;
 
 II.- Arbotantes octagonal, hexagonal, cuadrado, cónico o tubular, en alturas de siete a doce metros; y
 
-III.- Los arbotantes y brazos para instalar las luminarias deberán de estar pintados con fondo y esmalte anticorrosivo en el color que sea señalado por la Secretaría de Obras Públicas.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+III.- Los arbotantes y brazos para instalar las luminarias deberán de estar pintados con fondo y esmalte anticorrosivo en el color que sea señalado por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
 ###### Artículo 627.
 
@@ -6811,39 +7005,57 @@ La Secretaría de Obras Públicas es la dependencia encargada de construir, cont
 
 La Secretaría de Servicios Públicos es la encargada del mantenimiento de las áreas verdes públicas, lo que comprende la selección de especies, su propagación, plantación, riego, poda, fertilización, control de plagas y demás actividades necesarias para el buen desarrollo de las especies vegetales de dichas áreas verdes.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 664.
 
-Las áreas verdes urbanas privadas, excepto las de casas habitación, serán objeto de vigilancia y control del Municipio, por lo que cualquier acción como creación, manejo, cambio de uso del suelo, derribe de árboles y remoción de la cubierta vegetal, tendrán que ser previamente autorizados por el Municipio.
+Las áreas verdes urbanas privadas, serán objeto de vigilancia y control del Municipio, por lo que cualquier acción como creación, manejo, cambio de uso del suelo, derribe de árboles y remoción de la cubierta vegetal, tendrán que ser previamente autorizados por el Municipio, así como las áreas verdes de casa habitación que requieran específicamente la acción de derribo de árboles
 
 ###### Artículo 665.
 
 Las acciones de derribo y remoción de vegetación, así como la disposición de los residuos vegetales producto de éstas, una vez autorizadas por el Municipio, serán responsabilidad del interesado, a quien sólo se dará asesoría al respecto.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 666.
 
 La adecuada forestación de banquetas, camellones y aquellas áreas de donación que el Municipio determine en el proceso de autorización de fraccionamientos de nueva creación, deberá ser por cuenta del fraccionador y se apegará a lo siguiente:
 
-I.- Utilizar sólo especies adecuadas según el Manual que emita la Secretaría de Servicios Públicos Municipales;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+I.- Utilizar sólo especies adecuadas según el Manual que emita la Dirección de Medio Ambiente en coordinación con la Secretaría de Servicios Públicos Municipales;
 
 II.- La planta utilizada deberá cumplir las características en cuanto a tamaño, salud y estado físico, que marque el mencionado Manual; y
 
 III.- Las dimensiones y distancia entre las cepas, la preparación de las mismas, y la tierra a utilizar deberá ser según lo marca dicho Manual de Forestación y Manejo de Áreas Verdes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 667.
 
-El derribo, poda, extracción o remoción de vegetación de un área verde pública sólo podrá efectuarse en los siguientes casos, previa autorización de la Secretaría de Servicios Públicos.
+El derribo, poda, extracción o remoción de vegetación de un área verde pública sólo podrá efectuarse en los siguientes casos, previa autorización de la Dirección de Medio Ambiente.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2021)</small>
 
 I.- Cuando se ponga en riesgo la integridad física de personas, bienes o la infraestructura urbana;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2021)</small>
+
 II.- Cuando se halla comprobado que el vegetal está muerto o en caso de enfermedad o plaga severa y con riesgos de contagio;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2021)</small>
 
 III.- Cuando la imagen urbana se vea afectada significativamente; y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2021)</small>
+
 IV.- Cuando se compruebe que es de utilidad pública.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 668.
 
-Para efectos de la autorización a que se refiere el artículo anterior los interesados deberán presentar solicitud por escrito, en la que expresarán los motivos y circunstancias de su petición. Posteriormente la Secretaría de Servicios Públicos, realizará inspección en el lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
+Para efectos de la autorización a que se refiere el artículo anterior los interesados deberán presentar solicitud por escrito, en la que expresarán los motivos y circunstancias de su petición ante la Dirección de Medio Ambiente del Municipio. Posteriormente la Dirección de Medio Ambiente, realizará inspección en el lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización
 
 ###### Artículo 669.
 
@@ -6867,15 +7079,17 @@ En el camellón de las avenidas sólo deberá plantarse de una a tres especies, 
 
 La distancia entre los árboles no deberá ser menor que la anchura de sus copas en estado de madurez, excepto en el caso de setos o cortinas rompevientos, para lo cual deberá consultarse el Manual de Forestación y Manejo de Áreas Verdes.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 674.
 
-La Secretaría de Servicios Públicos, autorizará y supervisará el derribo y desrame de árboles en espacios públicos y en predios urbanos de propiedad particular, condicionando la autorización a la reposición del doble de la cobertura vegetal perdida.
+La Dirección de Medio Ambiente, autorizará y supervisará el derribo y desrame de árboles en espacios públicos y en predios urbanos de propiedad particular, condicionando la autorización a la reposición de la cobertura vegetal perdida conforme al reglamento de protección ambiental de Calvillo. La poda de los árboles deberá realizarse tomando en cuenta las características biológicas...(sic)
 
-La poda de los árboles deberá realizarse tomando en cuenta las características biológicas de la especie y el objetivo de dicha poda, para lo cual se deberá apegar a lo especificado en el Manual mencionado en el artículo anterior.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 675.
 
-Dentro de los programas de forestación preferentemente deberán utilizarse especies propias de la región o que se ha comprobado su adaptación y con bajo requerimiento de agua, tomando como base las reportadas en el Manual de Forestación y Manejo de Áreas Verdes emitido por la Secretaría de Servicios Públicos Municipales.
+Dentro de los programas de forestación preferentemente deberán utilizarse especies propias de la región o que se ha comprobado su adaptación y con bajo requerimiento de agua, tornando como base las reportadas en el Manual de Forestación y Manejo de Áreas Verdes emitido por la Dirección de Medio Ambiente en coordinación con la Secretaría de Servicios Públicos Municipales
 
 ###### Artículo 676.
 
@@ -6901,9 +7115,11 @@ Bajo líneas de alta tensión, sólo deberán plantarse árboles de poca altura,
 
 El servicio de limpia, recolección, traslado, tratamiento y disposición final de residuos constituye un Servicio Público Municipal, cuya prestación será realizada directamente por el H. Ayuntamiento a través de la Secretaría de Servicios Públicos por medio de su Departamento de Aseo Público.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 681.
 
-Para cumplir lo establecido en el presente Capítulo, el Departamento de Aseo Público, se coordinará con las autoridades sanitarias municipales, la Secretaría de Planeación y Desarrollo Municipal, el Instituto de Medio Ambiente y la Procuraduría de Protección al Ambiente en el Estado, Procuraduría Federal de Protección al Medio Ambiente, organizaciones sociales y particulares en general, para celebrar convenios de concertación, mismos que serán publicados por el H. Ayuntamiento.
+Para cumplir lo establecido en el presente Capitulo, el Departamento de Aseo Público, se coordinará con las autoridades Sanitarias Municipales y la Dirección de Medio Ambiente de La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente del municipio, La Secretaría de Sustentabilidad, Medio Ambiente y Agua del Estado y la Procuraduría Estatal de Protección al Ambiente, Procuraduría Federal de Protección al Medio Ambiente, organizaciones sociales y particulares en general, para celebrar convenios de concertación, mismos que serán publicados por el H. Ayuntamiento.
 
 ###### Artículo 682.
 
@@ -7179,9 +7395,11 @@ XX.- Fijar o pintar anuncios en paredes, pasos peatonales, postes y puentes; en 
 
 XXI.- En general, cualquier conducta que provoque el desaseo de la vía pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 696.
 
-El Ayuntamiento a través del Departamento de Ecología, tiene la facultad de intervenir en todos aquellos casos en que se vea afectada la sanidad del medio ambiente y el equilibrio ecológico del Municipio.
+El Ayuntamiento a través de la Dirección de Medio Ambiente, tiene la facultad de intervenir en todos aquellos casos en que se vea afectada la sanidad del medio ambiente y el equilibrio ecológico del Municipio.
 
 Las acciones directas de aseo público y de conservación de las condiciones higiénicas y de salubridad en el Municipio se fortalecerán con campañas preventivas dirigidas a obtener la participación y colaboración de la población.
 
@@ -7197,15 +7415,23 @@ El servicio de limpia, a más tardar dentro de los quince días hábiles siguien
 
 La Secretaría de Servicios Municipales, otorgará a la ciudadanía las suficientes instancias de recepción de que disponga durante días hábiles y horarios de oficina, para atender las denuncias que presente la ciudadanía, ya sea: Personalmente, telefónicamente, telégrafo, correo, fax o correo electrónico.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 698.
 
 El Ayuntamiento, a través de la Comisión de Parques, Jardines, Limpia y Recolección de Basura, vigilará que el Departamento de Aseo Público, cumpla con su función de manera eficiente.
 
-La vigilancia del cumplimiento a las disposiciones de este Capítulo, queda a cargo de la Secretaría de Servicios Públicos y del Departamento de Ecología de la Secretaría de Planeación y Desarrollo Municipal, mediante la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad, calificación de infracciones administrativas y sanciones, así como procedimientos y recursos administrativos cuando se refiera a asuntos de su competencia.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
+
+La vigilancia del cumplimiento a las disposiciones de este Capítulo, queda a cargo de la Secretaría de Servicios Públicos y de la Dirección de Medio Ambiente de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente mediante la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad, calificación de infracciones administrativas y sanciones, así como procedimientos y recursos administrativos cuando se refiera a asuntos de su competencia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 Son órganos auxiliares en esta materia:
 
-I.- Los inspectores del Departamento de Ecología;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+I.- Los inspectores de la Dirección de Medio Ambiente;
 
 II.- Los miembros del Departamento de Seguridad Pública;
 
@@ -7237,13 +7463,17 @@ El servicio de limpia podrá formar Comités de limpia pública con ciudadanos v
 
 El cargo de inspector honorario será de servicio social y el vecino a quien se le confiera lo cumplirá en el horario que le resulte más conveniente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 702.
 
 Corresponde a los inspectores honorarios:
 
 I.- Informar al Departamento de Aseo Público y al Departamento de Ecología, sobre la existencia de sitios no autorizados en los que se deposite basura y/o residuos sólidos a efecto de que se tomen las medidas pertinentes para su recolección, ya sea instalando y/o colocando contenedores, notificando las fechas y horarios de recolección u orientando a la población sobre la ubicación de los centros de acopio autorizados;
 
-II.- Comunicar al Departamento de Ecología, los nombres o datos que sirvan para identificar a las personas que depositen basura y/o residuos sólidos, escombro o desperdicios, en sitios no autorizados; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+II.- Comunicar a la Dirección de Medio Ambiente, los nombres o datos que sirvan para identificar a las personas que depositen basura y/o residuos sólidos, escombro o desperdicios, en sitios no autorizados
 
 III.- Informar al Departamento de Aseo Público, sobre las deficiencias o carencias del servicio en su zona.
 
@@ -9245,57 +9475,103 @@ la Comisión podrá solicitar al Instituto del Agua del Estado, su coadyuvancia 
 
 #### SECCIÓN QUINTA (SIC). Órgano Interno de Control
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE MARZO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
-###### Artículo 916 Bis.
+Artículo 916 BIS.- El OOSAC para un funcionamiento contará con un Órgano Interno de Control al cual le corresponderá lo siguiente:
 
-El OOSAC para un funcionamiento contará con un Órgano Interno de Control al cual le corresponderá lo siguiente:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
 
 I.- Vigilar el correcto manejo de las finanzas del OOSAC, apegándose a lo establecido en las cuotas y tarifas por los servicios de agua potable y alcantarillado y a los presupuestos de ingresos y egresos del Organismo.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
+
 II.- Fijar, en su caso, las normas internas de carácter obligatorio necesarias para que los procesos administrativos del OOSAC se realicen con transparencia, seguridad jurídica, agilidad y orden.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
 
 III.- Ordenar practicar auditorias, revisiones, visitas e inspecciones a las dependencias y entidades del OOSAC.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
+
 IV.- Supervisar los procesos de asignación, adjudicación, ejecución, entrega recepción y pago de la obra pública y la correcta aplicación en ellos de los fondos públicos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
 
 V.- Dictar las disposiciones que requiera el Órgano Interno de Control para la adecuada aplicación y cumplimiento de la Entrega- Recepción del OOSAC.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
+
 VI.- Investigar de oficio o en atención a las quejas, denuncias y a los hechos o elementos detectados en las auditorias, revisiones, visitas e inspecciones practicadas por el Órgano Interno de Control, las conductas y/o faltas de los servidores públicos y faltas de particulares que impliquen presuntas faltas administrativas y en su caso, substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
 
 VII.- Coordinar y vigilar que los servidores públicos obligados a presentar declaraciones de situación patrimonial, lo hagan en tiempo y forma, apegándose a la normatividad establecida;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
+
 VIII.- Supervisar que las adquisiciones de bienes y servicios que realice el OOSAC correspondan en cantidad y calidad a las necesidades reales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
 
 IX.- Vigilar los recursos patrimoniales del OOSAC, así como los que provengan del Gobierno Federal, Estatal y del Municipal;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
+
 X.- Fijar las normas de carácter obligatorio necesarias para el control interno, fiscalización, contabilidad y auditoría que deben observar en el OOSAC.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
 
 XI.- Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento de Calvillo y el Consejo Directivo, así como las normas señalados en la fracción anterior; además de las normas jurídicas y administrativas que rigen su funcionamiento.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
+
 XII.- Designar a su personal que practicara auditorias, así como normas y controlar su desempeño, verificando el destino de los fondos públicos sean propios o transferibles;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
 
 XIII.- Vigilar y controlar el gasto público para el rendimiento máximo de los recursos del OOSAC, y el adecuado equilibrio presupuestal;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
+
 XIV.- Vigilar que las obras realizadas por el OOSAC, directamente o con participación de terceros se ajusten a las especificaciones fijadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
 
 XV.- Dictar los estados financieros que expida el Área Administrativa del OOSAC.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
+
 XVI.- Coordinar el módulo de Transparencia y Acceso a la Información Pública Municipal; Poner a la disposición de la ciudadanía los formatos para recabar la información pública del OOSAC.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
 
 XVII.-Evaluar el Sistema de Control Interno en la administración pública del OOSAC.
 
-XVIII.- Entregar la información requerida por el IMPLAN.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XIX.- Designar un enlace entre el IMPLAN para llevar a cabo los programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+XVIII.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
-XX.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que dispongan el OOSAC esto es base al Sistema de Evaluación del Desempeño (SED).
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+XIX.- Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para llevar a cabo los programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+XX.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que dispongan el OOSAC esto es base al Sistema de Evaluación del Desempeño (SED).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
 
 XXI.-Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias y entidades municipales como empresas para municipales, fideicomisos y organismos públicos descentralizados.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
+
 XXII.- Ejecutar las funciones establecidas en este Código y en la legislación Federal, Estatal y Municipal aplicables para los órganos Internos de Control.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
+
 XXIII.- Designar, para el adecuado desarrollo del Sistema de Control y Evolución Interno del OOSAC, en los casos que lo determine el Órgano Interno de Control, delegados del propio ante otras dependencias gubernamentales o el propio OOSAC.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2020)</small>
 
 XXIV.- Las demás facultades le señalen las normativas aplicables, el Consejo Directivo, el H. Ayuntamiento o el Presidente Municipal.
 
@@ -11315,9 +11591,11 @@ XXII.- Abstenerse de abastecer de gasolina o de gas natural o licuado de petról
 
 Los propietarios o poseedores de inmuebles que colindan con la vía pública o los usuarios de ésta deberán abstenerse de colocar obstáculos para el tránsito de peatones, semovientes y vehículos o realizar obras que pongan en peligro a las personas, vehículos o causen daños a las propiedades públicas y privadas.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1091.
 
-Si el responsable no los remueve, la Secretaría, por sí o con el auxilio de la Secretaría de Planeación, Obras Públicas y Servicios Públicos Municipales, podrá realizar el retiro, con costo para el infractor, poniendo los artículos en depósito en la Presidencia Municipal.
+Si el responsable no los remueve, la Secretaría, por sí o con el auxilio de Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, la Secretaría Obras Públicas y la Secretaría de Servicios Públicos, podrán realizar el retiro, con costo para el infractor, poniendo los artículos en depósito en la Presidencia Municipal.
 
 ###### Artículo 1092.
 
@@ -12309,17 +12587,17 @@ XI.- La definición de esquemas de desarrollo urbano y manifestaciones de impact
 
 El Programa Municipal de Desarrollo Urbano, será elaborado, aprobado, ejecutado, controlado y evaluado por el Ayuntamiento, a través de la coordinación que para el efecto establezcan los presidentes municipales con el gobierno del Estado, atendiendo la opinión de la Comisión Estatal, del Comité de Desarrollo Urbano y Rural.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1209.
 
-A fin de ordenar y regular áreas o zonas comprendidas dentro de los centros de población, el Instituto Municipal de Planeación podrá derivar Programas Parciales de Desarrollo Urbano.
+A fin de ordenar y regular áreas o zonas comprendidas dentro de los centros de población, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente podrá derivar Programas Parciales de Desarrollo Urbano.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1210.
 
-Para regular los sistemas y servicios públicos, prevención de riesgos por derecho de vía y naturales la Secretaría de Obras Públicas y Desarrollo Urbano impulsará Programas Sectoriales de Desarrollo Urbano.
+Para regular los sistemas y servicios públicos, prevención de riesgos por derecho de vía y naturales la Secretaría de Obras Públicas y la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, impulsarán Programas Sectoriales de Desarrollo Urbano.
 
 ###### Artículo 1211.
 
@@ -12327,23 +12605,23 @@ En la aprobación y/o modificación de los programas municipales de Desarrollo U
 
 I.- El Ayuntamiento dará aviso público del inicio del proceso de planeación y formulará el proyecto de Programa de Desarrollo Urbano o sus modificaciones, difundiéndolo ampliamente;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-II.- Se organizarán audiencias públicas para que los interesados presenten por escrito a la Secretaría de Obras Públicas y Desarrollo Urbano, los planteamientos, observaciones y sugerencias que consideren respecto del proyecto de programa de desarrollo urbano;
+II.- Se organizarán audiencias públicas para que los interesados presenten por escrito a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, los planteamientos, observaciones y sugerencias que consideren respecto del proyecto de programa de desarrollo urbano;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-III.- Las respuestas a los planteamientos improcedentes y las modificaciones del proyecto deberán fundarse y motivarse y estarán para consulta de los interesados en las oficinas que ocupa la Secretaría de Obras Públicas y Desarrollo Urbano, durante 10 días naturales previos a la aprobación de los Programas de Desarrollo Urbano;
+III.- Las respuestas a los planteamientos improcedentes y las modificaciones del proyecto deberán fundarse y motivarse y estarán para consulta de los interesados en las oficinas que ocupa la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, durante 10 días naturales previos a la aprobación de los Programas de Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-IV.- Concluida la consulta el H. Ayuntamiento a través de la Secretaría de Obras Públicas y Desarrollo Urbano, remitirá al Comité de Planeación para el Desarrollo Municipal COPLADEM, para que emita su opinión dentro de los 20 días hábiles contados a partir de su recepción; en caso de no recibir ninguna opinión en el término establecido se considerará que no tiene inconveniente para su aprobación;
+IV.- Concluida la consulta el H. Ayuntamiento a través de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, remitirá al Comité de Planeación para el Desarrollo Municipal COPLADEM, para que emita su opinión dentro de los 20 días hábiles contados a partir de su recepción; en caso de no recibir ninguna opinión en el término establecido se considerará que no tiene inconveniente para su aprobación;
 
 V.- Cumplidas las formalidades para su aprobación, los programas respectivos o sus modificaciones serán publicadas en el Periódico Oficial del Estado y en un periódico de mayor circulación; y
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-VI.- Los diversos programas una vez aprobados, se inscribirán en la sección correspondiente del Registro Público de la Propiedad y en la Coordinación Estatal de Planeación, Secretaría de Obras Públicas y Desarrollo Urbano y en el Instituto Municipal de Planeación
+VI.- Los diversos programas una vez aprobados, se inscribirán en la sección correspondiente del Registro Público de la Propiedad y en la Coordinación Estatal de Planeación, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente;
 
 ###### Artículo 1212.
 
@@ -12415,11 +12693,11 @@ V.- La definición de la infraestructura de las zonas de crecimiento y las modif
 
 ### CAPÍTULO IV. De la Zonificación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1220.
 
-El Municipio a través de la Secretaría de Obras Públicas y Desarrollo Urbano, aprobará la zonificación de los diferentes Programas de Desarrollo Urbano en la que se definirán:
+El Municipio a través de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, aprobará la zonificación de los diferentes Programas de Desarrollo Urbano en la que se definirán:
 
 I.- Las áreas que integran y delimitan el centro de población;
 
@@ -12505,17 +12783,17 @@ VII.- Las demás normas que de acuerdo con este Código sean procedentes.
 
 Todas las obras, acciones, servicios e inversiones en materia de desarrollo urbano y vivienda, que se realicen en el Municipio, sean públicas o privadas, deberán sujetarse a lo dispuesto en este Código y a los programas aplicables. Sin este requisito, no se otorgará permiso, autorización, licencia o concesión para efectuarlas.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1226.
 
-La persona física o moral, pública o privada, que pretenda realizar obras, acciones, servicios o inversiones en materia de desarrollo urbano y vivienda en el Municipio, deberá obtener, previa a la ejecución de las mismas, constancia de compatibilidad urbanística que le expida la Secretaría de Obras Públicas y Desarrollo Urbano.
+La persona física o moral, pública o privada, que pretenda realizar obras, acciones, servicios o inversiones en materia de desarrollo urbano y vivienda en el Municipio, deberá obtener, previa a la ejecución de las mismas, constancia de compatibilidad urbanística que le expida la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1227.
 
-Para dar un uso o destino distinto al que se le ha venido dando a un área, predio o construcción, los propietarios o poseedores deberán tramitar y obtener la constancia de compatibilidad urbanística correspondiente expedida por la Secretaría de Obras Públicas y Desarrollo Urbano. La presentación de la constancia será necesaria para iniciar el trámite de las licencias de construcción y de las licencias para la apertura y funcionamiento de giros comerciales, industriales y de servicios.
+Para dar un uso o destino distinto al que se le ha venido dando a un área, predio o construcción, los propietarios o poseedores deberán tramitar y obtener la constancia de compatibilidad urbanística correspondiente expedida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente. La presentación de la constancia será necesaria para iniciar el trámite de las licencias de construcción y de las licencias para la apertura y funcionamiento de giros comerciales, industriales y de servicios.
 
 ###### Artículo 1228.
 
@@ -12575,17 +12853,17 @@ Para efectos de este Código, vía pública es todo espacio de uso común que po
 
 Todo inmueble consignado como vía pública en algún plano o registro oficial existente en cualquiera de las unidades administrativas del gobierno del Estado o del Municipio, en el Archivo Histórico del Estado, o en otro archivo, museo, biblioteca o dependencia oficial, se presumirá salvo prueba en contrario, que es vía pública y pertenece al propio Municipio. Esta disposición será aplicable a todos los demás bienes de uso común o destinado a un servicio público.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1233.
 
-Los predios o inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente a través de la Dirección de Desarrollo Urbano, emitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano, al Registro Público de la Propiedad y a la Dirección General de Catastro, para que se realicen los registros y las cancelaciones respectivas.
+Los predios o inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, emitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano, al Registro Público de la Propiedad y a la Dirección General de Catastro, para que se realicen los registros y las cancelaciones respectivas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1234.
 
-Se requiere permiso o autorización expresa de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente o bien de la Dirección de Desarrollo Urbano, para:
+Se requiere permiso o autorización expresa de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para:
 
 I.- Realizar obras, modificaciones o reparaciones en la vía pública;
 
@@ -12621,11 +12899,11 @@ V.- Para construir comercios semifijos en vías públicas; y
 
 VI.- Para aquellos otros fines que el Ayuntamiento considere contrarios al interés público.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1237.
 
-Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Dirección de Desarrollo Urbano señale. Si este plazo fuese sobrexcedido, la misma Dirección de Desarrollo Urbano con la colaboración de la Secretaría de Obras Públicas, desarrollo Urbano y Medio Ambiente, realizará los trabajos con cargo al propietario, independientemente de las sanciones que conforme al Libro Séptimo del presente Código, sean aplicables.
+Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente señale. Si este plazo fuese sobrexcedido, la misma Secretaría con la colaboración de la Secretaría de Obras Públicas, realizará los trabajos con cargo al propietario, independientemente de las sanciones que, conforme al Libro Séptimo del presente Código, sean aplicables.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
@@ -12633,59 +12911,61 @@ Toda persona que ocupe sin autorización la vía pública con construcciones e i
 
 Las instalaciones subterráneas para los servicios públicos de teléfonos, alumbrado, semáforos, energía eléctrica, gas y cualesquiera otras, deberán localizarse a lo largo de aceras y camellones.
 
-Cuando se localicen en las aceras, deberán distar por lo menos cincuenta centímetros del alineamiento oficial. La Dirección de Desarrollo Urbano, podrá autorizar la construcción de instalaciones subterráneas fuera de las zonas descritas en el párrafo anterior, cuando la naturaleza de las obras así lo requieran, respetando y observando la normatividad en la materia determinada para la instalación que corresponda.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+Cuando se localicen en las aceras, deberán distar por lo menos cincuenta centímetros del alineamiento oficial. La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente podrá autorizar la construcción de instalaciones subterráneas fuera de las zonas descritas en el párrafo anterior, cuando la naturaleza de las obras así lo requieran, respetando y observando la normatividad en la materia determinada para la instalación que corresponda.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1239.
 
-La Dirección de Desarrollo Urbano, en coordinación con la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, fijarán en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, en coordinación con la Secretaría de Obras Públicas, fijarán en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1240.
 
-Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se interfiera alguna vialidad, La Dirección de Desarrollo Urbano en coordinación con la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, determinarán la forma en que se lleven a cabo los trabajos.
+Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se interfiera alguna vialidad, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, en coordinación con la Secretaría de Obras Públicas, determinarán la forma en que se lleven a cabo los trabajos.
 
 ###### Artículo 1241.
 
 Las instalaciones aéreas en la vía pública deberán estar sostenidas sobre postes colocados para ese efecto, colocándose dentro de la acera a una distancia mínima de veinticinco centímetros entre el borde de la guarnición y el punto más próximo del poste.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1242.
 
-En las vías públicas en que no existen aceras, los interesados solicitarán a la Secretaría de Obras Públicas y Desarrollo Urbano, el trazo de la guarnición.
+En las vías públicas en que no existen aceras, los Interesados solicitarán a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, así como a la Secretaría de Obras Públicas, el trazo de la guarnición.
 
 ###### Artículo 1243.
 
 Las ménsulas, las alcayatas así como cualquier otro apoyo que se use, para ascenso a los postes o a las instalaciones, deberán colocarse a no menos de dos metros cincuenta centímetros de altura sobre el nivel de la acera. Igual tratamiento se dará a cualquier obstáculo en vía pública.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1244.
 
-Los postes y las instalaciones deberán ser identificados por sus propietarios con una señal que apruebe la Secretaría de Obras Públicas y Desarrollo Urbano.
+Los postes y las instalaciones deberán ser identificados por sus propietarios con una señal que apruebe la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
 ###### Artículo 1245.
 
 Los propietarios de postes o instalaciones colocados en la vía pública, están obligados a conservarlos en buenas condiciones de servicio y a retirarlos cuando dejen de cumplir su función.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1246.
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, podrá ordenar el retiro o el cambio de lugar de postes o instalaciones por cuenta de sus propietarios, por razones de seguridad o porque se modifique la anchura de las aceras o se ejecute cualquier obra en la vía pública que lo requiera. Si no lo hiciera dentro del plazo que se les haya fijado, la propia Secretaría, lo ejecutarán (sic) con cargo a los propietarios.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá ordenar el retiro o el cambio de lugar de postes o instalaciones por cuenta de sus propietarios, por razones de seguridad o porque se modifique la anchura de las aceras o se ejecute cualquier obra en la vía pública que lo requiera. Si no lo hiciera dentro del plazo que se les haya fijado, la propia Secretaría, en colaboración con la Secretaría de Obras Públicas, lo ejecutarán con cargo a los propietarios.
 
 ###### Artículo 1247.
 
 No se autorizará la instalación de postes y líneas de conducción en banquetas cuando con éstas se obstruya e impida la entrada a un predio; si el acceso al predio se construye contando con los postes y líneas de conducción, estos se podrán cambiar por los propietarios de los mismos con cargo al propietario del predio.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1248.
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, determinará las zonas de protección a lo largo de líneas de conducción y servicios subterráneos tales como viaductos, pasos a desnivel e instalaciones similares, dentro de los cuales solamente podrán realizarse excavaciones, cimentaciones, demoliciones, y otras obras previa autorización especial de la propia Secretaría, la que señalará las obras de protección que sean necesarias realizar o ejecutar para salvaguardar los servicios e instalaciones antes mencionados. La reparación de los daños que se ocasionen en esas zonas, correrán a cargo de la persona física o moral a quien se le otorgue la autorización.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, determinará las zonas de protección a lo largo de líneas de conducción y servicios subterráneos tales como viaductos, pasos a desnivel e instalaciones similares, dentro de los cuales solamente podrán realizarse excavaciones, cimentaciones, demoliciones, y otras obras previa autorización especial de la propia Secretaría, la que señalará las obras de protección que sean necesarias realizar o ejecutar para salvaguardar los servicios e instalaciones antes mencionados. La reparación de los daños que se ocasionen en esas zonas, correrá a cargo de la persona física o moral a quien se le otorgue la autorización.
 
 ### CAPÍTULO VII. De la Nomenclatura y Números Oficiales
 
@@ -12725,17 +13005,17 @@ I.- En intersección de dos vialidades, un mínimo de cuatro placas; y
 
 II.- En intersecciones mayores a dos vialidades, una placa por cada calle antes y después de la intersección.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1254.
 
-Los promotores inmobiliarios y fraccionadores, deberán presentar ante la Dirección de Desarrollo Urbano, la propuesta de nomenclatura a vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro lugar público factible de denominación dentro de tres días hábiles siguientes a la solicitud de autorización presentada ante la SEPLADE.
+Los promotores inmobiliarios y fraccionadores, deberán presentar ante La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, la propuesta de nomenclatura a vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro luga1· público factible de denominación dentro de tres días hábiles siguientes a la solicitud de autorización presentada ante la SEPLADE.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1255.
 
-La Dirección de Desarrollo Urbano, tomará en cuenta la propuesta del promotor inmobiliario o fraccionador al momento de determinar sobre la nomenclatura, con el fin de someter al Cabildo la propuesta de dictamen de nomenclatura, debiéndose apegar a lo siguiente:
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, tomará en cuenta la propuesta del promotor inmobiliario o fraccionador al momento de determinar sobre la nomenclatura, con el fin de someter al Cabildo la propuesta de dictamen de nomenclatura, debiéndose apegar a lo siguiente:
 
 I.- Análisis de la propuesta de los promotores inmobiliarios y fraccionadores, expresando las razones que se tomaron en cuenta para estimar o desestimar dicha opinión;
 
@@ -12771,9 +13051,9 @@ III.- Los nombres propuestos no deberán contravenir a la moral y las buenas cos
 
 Toda solicitud de nomenclatura deberán apegarse al procedimiento siguiente:
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-I.- Presentada la solicitud por escrito a la Dirección de Desarrollo Urbano, quien emitirá dictamen positivo o negativo en base a lo establecido en este Código y demás disposiciones jurídicas aplicables;
+I.- Presentada la solicitud por escrito a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, quien emitirá dictamen positivo o negativo en base a lo establecido en este Código y demás disposiciones jurídicas aplicables;
 
 II.- Cuando se dictamine improcedente la solicitud deberá notificarse personalmente al promovente;
 
@@ -12793,9 +13073,9 @@ Todo cambio o asignación de nomenclatura y números oficiales deberá ser notif
 
 El trámite e instalación de números oficiales deberá apegarse a lo siguiente:
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-I.- Tramitar el número oficial en la ventanilla única de la Dirección de Desarrollo Urbano, instancia autorizada para la autorización del número oficial;
+I.- Tramitar el número oficial en la ventanilla única de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, instancia autorizada para la autorización del número oficial;
 
 II.- La instalación en inmuebles construidos deberán colocarse en el exterior, al frente de la construcción junto al acceso principal;
 
@@ -12833,11 +13113,11 @@ II.- Cuando se trate de propietarios de predios individuales: Copia certificada 
 
 III.- Cuando el promotor inmobiliario o fraccionador tramite los números oficiales de forma previa a las construcciones, para que el adquirente de los inmuebles reciba las placas correspondientes de los números, deberá presentar el documento en original de la boleta de asignación del número que le entregará el promovente o fraccionador.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1262.
 
-La Dirección de Desarrollo Urbano, autorizará números oficiales al solicitante, cuando el fraccionador o promotor inmobiliario haya cumplido con los requisitos del dictamen de autorización de la Comisión Estatal de Desarrollo Urbano o la Secretaría de Planeación Estatal, en el ámbito de su competencia y de la legislación urbana aplicable.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, autorizará números oficiales al solicitante, cuando el fraccionador o promotor inmobiliario haya cumplido con los requisitos del dictamen de autorización de la Comisión Estatal de Desarrollo Urbano o la Secretaría de Planeación Estatal, en el ámbito de su competencia y de la legislación urbana aplicable.
 
 ###### Artículo 1263.
 
@@ -12861,35 +13141,35 @@ III.- Constancia de alineamiento y compatibilidad urbanística; y
 
 IV.- Cuando se trate de subdivisiones o fusiones deberá acompañar el documento que acredite la autorización de las mismas según corresponda.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1265.
 
-Son causas de ratificación de número oficial: Cuando se requiera para comprobar la inexistencia de error en el número oficial y nomenclatura, incluyendo la certificación de cambio del nombre provisional de una vía pública, para poder expedirse este documento se deberá presentar solicitud por escrito ante la Dirección de Desarrollo Urbano, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
+Son causas de ratificación de número oficial: Cuando se requiera para comprobar la inexistencia de error en el número oficial y nomenclatura, incluyendo la certificación de cambio del nombre provisional de una vía pública, para poder expedirse este documento se deberá presentar solicitud por escrito ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1266.
 
-Una vez satisfechos los requisitos que establece el presente Capítulo, la Dirección de Desarrollo Urbano, procederá a expedir un documento en el que se incluirá el número oficial y las placas correspondientes, debiendo presentar el original de la boleta y en su caso la constancia de compatibilidad urbanística y la licencia de construcción.
+Una vez satisfechos los requisitos que establece el presente Capitulo, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, procederá a expedir un documento en el que se incluirá el número oficial y las placas correspondientes, debiendo presentar el original de la boleta y en su caso la constancia de compatibilidad urbanística y la licencia de construcción.
 
 ## TÍTULO SEGUNDO. DE LAS CONSTRUCCIONES
 
 ### CAPÍTULO I. De la Licencia de Construcción
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1267.
 
-Toda obra de construcción, edificación, instalación, reparación, ampliación, remodelación, reconstrucción o demolición de fincas rústicas o urbanas requerirá licencia expresa, otorgada por la Dirección de Desarrollo Urbano, con anterioridad al inicio de la obra.
+Toda obra de construcción, edificación, instalación, reparación, ampliación, remodelación, reconstrucción o demolición de fincas rústicas o urbanas requerirá licencia expresa, otorgada la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, con anterioridad al inicio de la obra.
 
 Dicha licencia deberá obtenerse en todo tipo de obras públicas o privadas, independientemente del régimen de propiedad o ubicación de los predios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1268.
 
-Son facultades de la Dirección de Desarrollo Urbano en materia de construcciones, las siguientes:
+Son facultades de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, en materia de construcciones, las siguientes:
 
 I.- Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
 
@@ -12917,17 +13197,17 @@ XII.- Expedir normas técnicas complementarias para el debido cumplimiento del p
 
 XIII.- Asignar peritajes por servicio social a los peritos responsables de obra y especializados, en los casos que prevé este Código.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1269.
 
-Licencia de construcción es el documento expedido por la Dirección de Desarrollo Urbano, por el cual se autoriza a los propietarios para construir o demoler una edificación y/o instalación en sus predios.
+Licencia de construcción es el documento expedido por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, por el cual se autoriza a los propietarios para construir o demoler una edificación y/o instalación en sus predios.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1270.
 
-Las solicitudes de licencia de construcción deberán recibir resoluciones de expedición o rechazo expedidas por la Dirección de Desarrollo Urbano, en un lapso no mayor a 10 días hábiles. La revisión de los expedientes y planos respectivos se hará de acuerdo a los requisitos y especificaciones contenidas en el presente Código y demás ordenamientos legales vigentes aplicables.
+Las solicitudes de licencia de construcción deberán recibir resoluciones de expedición o rechazo expedidas por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, en un lapso no mayor a 10 días hábiles. La revisión de los expedientes y planos respectivos se hará de acuerdo a los requisitos y especificaciones contenidas en el presente Código y demás ordenamientos legales vigentes aplicables.
 
 > <small>(REFORMADO [N. DE. E. REPUBLICADO PRIMER PÁRRAFO], P.O. 28 DE OCTUBRE DE 2019)</small>
 
@@ -12953,9 +13233,9 @@ VIII.- Divisiones interiores prefabricadas en pisos de despachos o comercios, cu
 
 IX.- Impermeabilización y reparación de azoteas sin afectar elementos estructurales;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-X.- Obras urgentes para la prevención de accidentes, a reserva de dar aviso a la Dirección de Desarrollo Urbano, dentro de un plazo de cuarenta y ocho horas contadas a partir del inicio de las mismas;
+X.- Obras urgentes para la prevención de accidentes, a reserva de dar aviso a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, dentro de un plazo de cuarenta y ocho horas contadas a partir del inicio de las mismas;
 
 XI.- Demoliciones hasta de un cuarto aislado de dieciséis metros cuadrados no consecutivo, si está desocupado y sin afectar la estabilidad del resto de las construcciones;
 
@@ -12985,41 +13265,41 @@ VI.- Las modificaciones al proyecto original de cualquier obra. Se deberá acomp
 
 No se concederá licencia cuando el cambio de uso sea incompatible con la zonificación de destinos, usos y reservas autorizadas en los diferentes Programas de Desarrollo Urbano, o bien el inmueble no reúna las condiciones de estabilidad y servicio para el nuevo uso. Las solicitudes para este tipo de licencias, se presentarán con la firma del propietario del predio y con la responsiva de un perito responsable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1273.
 
-El tiempo de vigencia de las licencias de construcción que expida la Dirección de Desarrollo Urbano, estará en relación con la naturaleza y magnitud de la obra por ejecutar de acuerdo a las bases siguientes:
+El tiempo de vigencia de las licencias de construcción que expida la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, estará en relación con la naturaleza y magnitud de la obra por ejecutar de acuerdo a las bases siguientes:
 
 I.- Para la construcción de obras con superficie hasta 300 m2 (trescientos metros cuadrados), la vigencia máxima será 12 meses (doce meses); de 301 m2 (trescientos un metros cuadrados) hasta 1000 m2 (mil metros cuadrados) de 24 meses, y de más de 1000 m2 (mil metros cuadrados) de 36 meses;
 
 II.- Si terminado el plazo autorizado para la construcción de una obra, ésta no se hubiese concluido, para continuarla, deberá obtenerse refrendo de la licencia y cubrir los derechos por la parte no ejecutada de la obra; a la solicitud se acompañará una descripción de los trabajos que se llevarán a cabo y croquis o planos, cuando sea necesario; y
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-III.- El responsable de la obra podrá solicitar a la Dirección de Desarrollo Urbano, suspensión temporal de la licencia de construcción por un plazo no mayor a 6 meses, siempre y cuando se solicite dentro de la vigencia autorizada.
+III.- El responsable de la obra podrá solicitar a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, suspensión temporal de la licencia de construcción por un plazo no mayor a 6 meses, siempre y cuando se solicite dentro de la vigencia autorizada.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1274.
 
-En zonas y predios catalogados con valor patrimonial, artístico, histórico, cultural, no podrán ejecutarse nuevas obras, construcciones, demoliciones o instalaciones de cualquier naturaleza sin la autorización de la Dirección de Desarrollo Urbano, y previo dictamen de la Delegación Estatal del Instituto Nacional de Antropología e Historia. Esta autorización y dictamen aplica también para los predios colindantes.
+En zonas y predios catalogados con valor patrimonial, artístico, histórico, cultural, no podrán ejecutarse nuevas obras, construcciones, demoliciones o instalaciones de cualquier naturaleza sin la autorización de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, y previo dictamen de la Delegación Estatal del Instituto Nacional de Antropología e Historia. Esta autorización y dictamen aplica también para los predios colindantes.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1275.
 
-Los propietarios de inmuebles y predios producto de subdivisión o fusión que pretendan construir ocupando dos o más lotes contiguos, deberán presentar las autorizaciones correspondientes de la subdivisión o fusión emitidas por la Secretaría de Obras Públicas y Desarrollo Urbano.
+Los propietarios de inmuebles y predios producto de subdivisión o fusión que pretendan construir ocupando dos o más lotes contiguos, deberán presentar las autorizaciones correspondientes de la subdivisión o fusión emitidas por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
 ###### Artículo 1276.
 
 Los propietarios de inmuebles y predios que se encuentren en un conjunto o sujeto al régimen de propiedad en condominio, y deseen realizar cualquier tipo de obra deberán presentar oficio de autorización y planos del proyecto en dos tantos sellados y firmados por la administración del condominio y/o asamblea de condóminos legalmente constituida.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1277.
 
-Para solicitar el trámite de licencia para construcciones, reparaciones, o ampliaciones menores de noventa metros cuadrados en casa habitación unifamiliar, se requiere que el particular presente ante la Dirección de Desarrollo Urbano, los documentos siguientes:
+Para solicitar el trámite de licencia para construcciones, reparaciones, o ampliaciones menores de noventa metros cuadrados en casa habitación unifamiliar, se requiere que el particular presente ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, los documentos siguientes:
 
 I.- Constancia de compatibilidad urbanística y número oficial;
 
@@ -13053,11 +13333,11 @@ c).- Si la finca a construir o ampliar, no se ubica dentro de un fraccionamiento
 
 d).- Si la ampliación y construcción se realiza en inmueble o predio con uso habitacional y las obras a desarrollar son para uso comercial o de servicios o prevén usos habitacionales multifamiliares, deberá presentar constancia de compatibilidad urbanística de uso mixto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1279.
 
-Para solicitar el trámite de licencias para construcciones, reparaciones, o ampliaciones mayores de noventa metros cuadrados en una vivienda o construcción en serie de una o varias viviendas de cualquier superficie, se requiere presentar a la Dirección de Desarrollo Urbano, los documentos siguientes:
+Para solicitar el trámite de licencias para construcciones, reparaciones, o ampliaciones mayores de noventa metros cuadrados en una vivienda o construcción en serie de una o varias viviendas de cualquier superficie, se requiere presentar a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, los documentos siguientes:
 
 I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
@@ -13079,7 +13359,7 @@ c).- Análisis de cargas;
 
 d).- Dimensionamiento y cálculo de: Cimentación, columnas y/o muros, entrepisos y techos, trabes y/o vigas y/o armaduras. Todo lo anterior, debe respetar lo estipulado en el título de requisitos estructurales del presente título, de Construcciones. Si el predio está ubicado dentro de la zona de mediano riesgo de alguna falla geológica, se deberá anexar a la memoria de cálculo, el análisis y diseño por sismo de la estructura con los coeficientes que se establecen en el presente Código; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 VII.- Cuatro copias por lámina de los planos de la obra en caso de requerir estos últimos conforme al presente título de Construcciones vigentes ante la Secretaría de Obras Públicas y Desarrollo Urbano, conteniendo lo siguiente:
 
@@ -13099,9 +13379,9 @@ e).- Cuadro de datos indicando: Tipo de obra, ubicación, propietario, contenido
 
 Además, en los casos de construcción de casas en serie, se deberá presentar los documentos siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-I.- Copia de la factibilidad de servicios de agua potable y alcantarillado, para los predios donde se pretenda construir, expedida por el Organismo Operador de los Servicios de Agua y Alcantarillado de Calvillo, en caso de que la factibilidad esté condicionada, deberá demostrar ante la Dirección de Desarrollo Urbano, el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
+I.- Copia de la factibilidad de servicios de agua potable y alcantarillado, para los predios donde se pretenda construir, expedida por el Organismo Operador de los Servicios de Agua y Alcantarillado de Calvillo, en caso de que la factibilidad esté condicionada, deberá demostrar ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
 
 II.- En sustitución del requisito del numeral anterior, convenio suscrito con el Organismo Operador de los Servicios de Agua y Alcantarillado de Calvillo, en el que el constructor o propietario manifieste bajo protesta de decir verdad no entregar ninguna vivienda hasta que el adquirente contrate los servicios de agua potable y alcantarillado;
 
@@ -13119,11 +13399,11 @@ II.- Cuando el predio se ubique en una zona no regularizada como fraccionamiento
 
 III.- Cuando se trate de usos habitacional dúplex, multifamiliar o condominio vertical dúplex.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1282.
 
-Para solicitar el trámite de licencias de construcción para edificios de oficinas, comercio, servicios y otros usos diferentes al habitacional mayores de sesenta metros cuadrados construidos se requiere presentar ante la Dirección de Desarrollo Urbano, los documentos siguientes:
+Para solicitar el trámite de licencias de construcción para edificios de oficinas, comercio, servicios y otros usos diferentes al habitacional mayores de sesenta metros cuadrados construidos se requiere presentar ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, los documentos siguientes:
 
 I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
@@ -13131,7 +13411,9 @@ II.- Solicitud de licencia de construcción y bitácora debidamente llenas y fir
 
 III.- Copia del contrato de servicios de agua potable y alcantarillado del predio donde se pretende construir;
 
-IV.- Memoria de cálculo estructural y planos estructurales en dos tantos firmados por el perito responsable de obra y el perito especializado (en los casos que se requieran de este último conforme al Título de Construcciones) con el siguiente contenido:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+
+VI.- Cuatro copias por lámina de los planos de la obra, firmados por el perito responsable de obra y los peritos especializados vigentes ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, en caso de requerir estos últimos conforme al presente título conteniendo lo siguiente:
 
 a).- Descripción de sistemas constructivo-estructurales;
 
@@ -13167,11 +13449,11 @@ h).- Cuando el proyecto considere ventilación o refrigeración artificial, debe
 
 i).- Se requerirá la autorización del proyecto por parte del Instituto de Servicios de Salud y de la Secretaría de Obras Públicas del Estado, para la construcción, remodelación, ampliación o modificación de centros de salud, clínicas, hospitales, laboratorios, bancos de sangre y consultorios de rayos X.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1283.
 
-Para solicitar el trámite de licencia de construcción para estaciones de servicio o gasolineras se requiere presentar ante la Dirección de Desarrollo Urbano
+Para solicitar el trámite de licencia de construcción para estaciones de servicio o gasolineras se requiere presentar ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente lo siguiente:
 
 I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
@@ -13179,7 +13461,9 @@ II.- Solicitud y bitácora llenas y firmadas por perito responsable de obra, per
 
 III.- Copia del contrato de servicios de agua potable y alcantarillado del predio donde se pretende construir;
 
-IV.- Deberá presentar el dictamen de impacto ambiental autorizado por el Instituto del Medio Ambiente del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+IV.- Deberá presentar el dictamen positivo de impacto ambiental autorizado, licencia única ambiental y demás documentos otorgados por la Agencia de Seguridad, Energía y Ambiente, así como lo correspondiente a la Secretaría de Sustentabilidad Medio Ambiente y Agua del Estado de ser necesario;
 
 V.- Memoria de cálculo estructural y planos estructurales, firmados por el perito responsable de obra y por un perito especializado en estructuras, así como el plano de cimentación signado por el perito en mecánica de suelos;
 
@@ -13251,11 +13535,11 @@ XII.- Anexo fotográfico; y
 
 XIII.- En caso de instalarse en zona habitacional tendrá que contar con firmas de colindantes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1285.
 
-Para solicitar el trámite para licencias de demolición, se deberán presentar ante la Dirección de Desarrollo Urbano, los documentos siguientes:
+Para solicitar el trámite para licencias de demolición, se deberán presentar ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, los documentos siguientes:
 
 I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
@@ -13291,9 +13575,9 @@ I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
 II.- Recibo de pago o contrato de servicio de agua potable y alcantarillado; y
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-III.- Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un perito responsable de obra inscrito en el padrón de la Secretaría de Obras Públicas y Desarrollo Urbano.
+III.- Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un perito responsable de obra inscrito en el padrón de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
 ###### Artículo 1288.
 
@@ -13303,13 +13587,13 @@ I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
 II.- Recibo de pago o contrato de servicio de agua potable y alcantarillado;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-III.- Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un perito responsable de obra inscrito en el padrón de la Secretaría de Obras Públicas y Desarrollo Urbano
+III.- Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un perito responsable de obra inscrito en el padrón de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-IV.- Obtener las especificaciones constructivas en la Secretaría de Obras Públicas y Desarrollo Urbano;
+IV.- Obtener las especificaciones constructivas en la Secretaría de Obras Públicas;
 
 V.- Presentar programa de obra signado por el perito responsable de obra; y
 
@@ -13385,9 +13669,9 @@ Son aquellas arterias y avenidas que integran la red vial de la ciudad, que perm
 
 En este tipo de vialidad se permiten anuncios de tipo: Adosado, pintado, autosoportado e integrados. También se permitirán los anuncios de tipo bandera siempre y cuando éstos no salgan del alineamiento y se encuentren dentro del predio sin invadir la vía pública;
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-El tipo de material permitido podrá ser: Rotulación en muro, manta, acrílicos y luminosos; las características permitidas varían de acuerdo a previo estudio que realice la Secretaría de Obras Públicas y Desarrollo Urbano, conforme a lo dispuesto por el Reglamento de Imagen Urbana Municipal, por este Código y el Código Urbano para el Estado de Aguascalientes.
+El tipo de material permitido podrá ser: Rotulación en muro, manta, acrílicos y luminosos; las características permitidas varían de acuerdo a previo estudio que realice la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, conforme a lo dispuesto por el Reglamento de Imagen Urbana Municipal, por este Código y el Código Urbano para el Estado de Aguascalientes.
 
 IV.- Las vialidades de tipo primario:
 
@@ -13399,11 +13683,11 @@ Son aquellas vialidades cuya función es la de facilitar la movilidad de altos v
 
 Perito responsable de obra, es la persona física que se hace responsable de la observancia de las diferentes normas aplicables de este Código en las obras para las que otorgue su responsiva.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1295.
 
-La calidad de perito responsable de obra se adquiere con el registro de la persona ante la Secretaría de Obras Públicas y Desarrollo Urbano de Calvillo.
+La calidad de perito responsable de obra se adquiere con el registro de la persona ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
 ###### Artículo 1296.
 
@@ -13473,21 +13757,21 @@ VII.- Refrendar su calidad de perito en el mes de enero de cada año, actualizan
 
 Las atribuciones, facultades y funciones de perito responsable de obra y de perito especializado terminarán:
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-I.- Cuando ocurra cambio, suspensión, abandono o retiro del perito responsable de obra y en su caso del perito especializado. Para lo cual se deberá levantar un acta asentando a detalle el avance de la obra hasta el momento de la suspensión, la cual será suscrita por una persona designada por la Secretaría de Obras Públicas y Desarrollo Urbano, por el perito responsable y por el propietario de la obra; el cambio de perito responsable no exime al anterior de su responsabilidad por la parte de la obra que le haya correspondido dirigir. La Secretaría de Obras Públicas y Desarrollo Urbano, ordenará la suspensión de la obra cuando el perito responsable no sea sustituido en forma inmediata, y no permitirá su reanudación hasta en tanto no se designe nuevo perito;
+I.- Cuando ocurra cambio, suspensión, abandono o retiro del perito responsable de obra y en su caso del perito especializado. Para lo cual se deberá levantar un acta asentando a detalle el avance de la obra hasta el momento de la suspensión, la cual será suscrita por una persona designada por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, por el perito responsable y por el propietario de la obra; el cambio de perito responsable no exime al anterior de su responsabilidad por la parte de la obra que le haya correspondido dirigir. La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, ordenará la suspensión de la obra cuando el perito responsable no sea sustituido en forma inmediata, y no permitirá su reanudación hasta en tanto no se designe nuevo perito;
 
 II.- Cuando no ha refrendado su calidad de perito responsable de obra o perito especializado. En este caso se suspenderán las obras en proceso de ejecución para las que haya dado responsiva profesional; y
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-III.- Cuando la Secretaría de Obras Públicas y Desarrollo Urbano, autorice la ocupación de la obra. El término de las funciones del perito responsable de obra, no le exime de la responsabilidad de carácter civil, administrativo y penal que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
+III.- Cuando la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, autorice la ocupación de la obra. El término de las funciones del perito responsable de obra, no le exime de la responsabilidad de carácter civil, administrativo y penal que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1301.
 
-Para efectos del presente Código, la responsabilidad profesional y de carácter administrativo de los peritos responsables de obra y especializados, concluirá a los tres años de la terminación de la obra. Dentro del mismo lapso, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá exigir el cumplimiento de las obligaciones derivadas de dicha responsiva.
+Para efectos del presente Código, la responsabilidad profesional y de carácter administrativo de los peritos responsables de obra y especializados, concluirá a los tres años de la terminación de la obra. Dentro del mismo lapso, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá exigir el cumplimiento de las obligaciones derivadas de dicha responsiva.
 
 ### CAPÍTULO III. De los Proyectos Arquitectónicos
 
@@ -13499,11 +13783,11 @@ Estos mismos elementos situados a una altura mayor de dos metros cincuenta cent�
 
 Los balcones abiertos situados a una altura mayor de dos metros cincuenta centímetros podrán salir del alineamiento, el ancho de la acera disminuido en sesenta centímetros hasta un metro, pero al igual que todos los elementos arquitectónicos, deberán ajustarse a las restricciones sobre distancias a líneas de transmisión.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1303.
 
-Cuando la acera tenga una anchura menor de un metro cincuenta centímetros, la Dirección de Desarrollo Urbano, fijará las dimensiones de los balcones y los niveles en que se pueda permitir.
+Cuando la acera tenga una anchura menor de un metro cincuenta centímetros, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, fijará las dimensiones de los balcones y los niveles en que se pueda permitir.
 
 ###### Artículo 1304.
 
@@ -13511,25 +13795,29 @@ Las marquesinas podrán sobresalir del alineamiento, el ancho de la acera dismin
 
 Todos los elementos de la marquesina deberán estar situados a una altura mayor de dos metros cincuenta centímetros sobre el nivel de la banqueta, pero al igual deberán ajustarse a las restricciones sobre distancias a líneas de transmisión y a lo dispuesto en el Reglamento de Imagen Urbana.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1305.
 
-Los toldos podrán sobresalir del alineamiento el ancho de la acera, ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, y la Dirección de Desarrollo Urbano, podrá revocarlos en cualquier momento que se juzgue conveniente.
+Los toldos podrán sobresalir del alineamiento el ancho de la acera, ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, y la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá revocarlos en cualquier momento que se juzgue conveniente.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1306.
 
-Ningún punto de un edificio podrá estar a mayor altura que la que se marque en los contenidos correspondientes del Programa de Desarrollo Urbano para la ciudad de Calvillo vigente o lo que dictamine la Dirección de Desarrollo Urbano.
+Ningún punto de un edificio podrá estar a mayor altura que la que se marque en los contenidos correspondientes del Programa de Desarrollo Urbano para la ciudad de Calvillo vigente o lo que dictamine la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1307.
 
-Tratándose de asoleamiento entre viviendas unifamiliares y edificios superiores a cinco niveles sobre la banqueta, éstos deberán permitir un mínimo de asoleamiento en la época de invierno, respetando una separación mínima en su colindancia posterior cuando ésta coincida con la orientación norte, para ese efecto deberá respetar una distancia entre ambos que corresponda al quince por ciento de la altura máxima del edificio, sin perjuicio de cumplir con lo establecido en este Código para patios de iluminación y ventilación.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 La Presidencia Municipal podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas, de acuerdo con este Código y demás legislación de la materia vigente.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas.
 
@@ -13861,9 +14149,9 @@ Las características y dimensiones de las circulaciones horizontales deberán aj
 
 I.- Todos los locales de un edificio deberán tener salidas, pasillos o corredores que conduzcan directamente a las puertas de salida o a las escaleras;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-II.- El ancho mínimo de los pasillos y de las circulaciones para el público, cuando su longitud no exceda de seis metros será de un metro veinte centímetros, excepto en interiores de viviendas unifamiliares y de oficinas en donde podrá ser noventa centímetros. En pasillos con longitud mayor, su anchura deberá ser aumentada proporcionalmente según lo determine la Secretaría de Obras Públicas y Desarrollo Urbano;
+II.- El ancho mínimo de los pasillos y de las circulaciones para el público, cuando su longitud no exceda de seis metros será de un metro veinte centímetros, excepto en interiores de viviendas unifamiliares y de oficinas en donde podrá ser noventa centímetros. En pasillos con longitud mayor, su anchura deberá ser aumentada proporcionalmente según lo determine la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente;
 
 III.- Los pasillos y los corredores no deberán tener salientes o tropezones que disminuya su anchura, a una altura inferior a dos metros cincuenta centímetros y atender las recomendaciones de accesibilidad para personas con capacidades diferentes que determina que las rejillas, tapajuntas y entrecalles de los pavimentos, no deberán tener separaciones o desniveles mayores a 13 mm; y
 
@@ -14083,11 +14371,11 @@ Los depósitos de residuos sólidos domésticos basura, papel, trapos y los de r
 
 Queda prohibido el almacenamiento de líquidos o materiales inflamables o explosivos en las circulaciones generales y en las zonas de concentración de personas dentro de cualquier tipo de edificación y centro de reunión.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1336.
 
-Cuando se utilicen plafones a base de materiales que no sea a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Secretaría de Obras Públicas y Desarrollo Urbano, previo dictamen del área competente o de Protección Civil Municipal.
+Cuando se utilicen plafones a base de materiales que no sea a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, previo dictamen del área competente o de Protección Civil Municipal.
 
 ###### Artículo 1337.
 
@@ -15227,11 +15515,11 @@ En el proyecto de las viviendas, deberá tomarse en cuenta el crecimiento de és
 
 La vivienda progresiva deberá contar en un principio con un área mínima de 33 metros cuadrados.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1373.
 
-Las ampliaciones en unidades habitacionales, deberán ser aprobadas por la Secretaría de Obras Públicas y Desarrollo Urbano, con el fin de que armonicen con el conjunto. Cuando se tratare de obras en las áreas comunes, una vez que lo determine la Asamblea, con los términos que marca el Código Urbano para el Estado de Aguascalientes, recabará la aprobación de la Presidencia Municipal, para los fines citados en el párrafo anterior.
+Las ampliaciones en unidades habitacionales, deberán ser aprobadas por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, con el fin de que armonicen con el conjunto. Cuando se tratare de obras en las áreas comunes, una vez que lo determine la Asamblea, con los términos que marca el Código Urbano para el Estado de Aguascalientes, recabará la aprobación de la Presidencia Municipal, para los fines citados en el párrafo anterior.
 
 ###### Artículo 1374.
 
@@ -17407,25 +17695,25 @@ Durante la ejecución de cualquier construcción, el perito responsable de obra,
 
 Deberán usarse redes de seguridad o cinturones de seguridad, con líneas de amarre para los trabajadores, que realicen trabajos en las obras a una altura mayor de nueve metros.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1577.
 
-Los planos autorizados y las licencias de las obras, deberán conservarse en las propias obras durante la ejecución de éstas y estar a disposición de los supervisores de la Secretaría de Obras Públicas y Desarrollo Urbano. Estos documentos quedarán a resguardo del propietario una vez terminadas las obras, debiendo presentarlos a la Secretaría de Obras Públicas y Desarrollo Urbano, para cualquier aclaración, solicitud de modificación o ampliación de éstas.
+Los planos autorizados y las licencias de las obras, deberán conservarse en las propias obras durante la ejecución de éstas y estar a disposición de los supervisores de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente. Estos documentos quedarán a resguardo del propietario una vez terminadas las obras, debiendo presentarlos a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente para cualquier aclaración, solicitud de modificación o ampliación de éstas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1578.
 
-El perito responsable de obra está obligado a mantener en la obra el libro de bitácora a que se refiere este Libro, encuadernado y foliado y tenerlo a disposición de los supervisores de la Secretaría de Obras Públicas y Desarrollo Urbano.
+El perito responsable de obra está obligado a mantener en la obra el libro de bitácora a que se refiere este Libro, encuadernado y foliado y tenerlo a disposición de los supervisores de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
 El perito responsable cuidará de la veracidad de las anotaciones suscritas por él, por sus auxiliares técnicos y por los contratistas que participen en la obra.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1579.
 
-Para la utilización de los distintos materiales o la aplicación de sistemas estructurales, deberá (sic) seguirse procedimientos constructivos que cumplan con los requisitos especificados por la Secretaría de Obras Públicas y Desarrollo Urbano. Tales procedimientos deberán garantizar que el comportamiento de la estructura esté de acuerdo con lo especificado en el diseño estructural.
+Para la utilización de los distintos materiales o la aplicación de sistemas estructurales, deberá (sic) seguirse procedimientos constructivos que cumplan con los requisitos especificados por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente. Tales procedimientos deberán garantizar que el comportamiento de la estructura esté de acuerdo con lo especificado en el diseño estructural.
 
 ###### Artículo 1580.
 
@@ -17439,13 +17727,13 @@ III.- Nivel y alineamiento de los elementos estructurales; y
 
 IV.- Cargas muertas en la estructura, tales como: El peso volumétrico propio y el provocado por la colocación de materiales durante la ejecución de la obra.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1581.
 
-Podrá utilizarse los nuevos procedimientos de construcción que el desarrollo de la técnica introduzca, previa autorización de la Secretaría de Obras Públicas y Desarrollo Urbano, para lo cual, el perito responsable de la obra presentará una solicitud detallando el procedimiento propuesto y anexando en su caso, los datos de los estudios y los resultados de las pruebas experimentales efectuadas.
+Podrá (sic) utilizarse los nuevos procedimientos de construcción que el desarrollo de la técnica introduzca, previa autorización de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para lo cual, el perito responsable de la obra presentará una solicitud detallando el procedimiento propuesto y anexando en su caso, los datos de los estudios y los resultados de las pruebas experimentales efectuadas.
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, podrá exigir la construcción de modelos para probar el procedimiento bajo las condiciones que juzgue técnicamente necesarias.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá exigir la construcción de modelos para probar el procedimiento bajo las condiciones que juzgue técnicamente necesarias.
 
 ###### Artículo 1582.
 
@@ -17479,11 +17767,11 @@ En las obras de construcción, deberá proporcionarse a los trabajadores servici
 
 La resistencia, calidad y características de los materiales empleados en la construcción, serán las que se señalen en las especificaciones de diseño y en los planos constructivos y deberán satisfacer las normas de calidad establecidas.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1589.
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, exigirá los muestreos y las pruebas necesarias para verificar la calidad y resistencia especificadas en los materiales que formen parte de los elementos estructurales, aún en obras terminadas, cuando, así lo juzgue pertinente o por dictamen técnico solicitado del perito.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, exigirá los muestreos y las pruebas necesarias para verificar la calidad y resistencia especificadas en los materiales que formen parle de los elementos estructurales, aún en obras terminadas, cuando, así lo juzgue pertinente o por dictamen técnico solicitado del perito.
 
 ###### Artículo 1590.
 
@@ -17493,25 +17781,25 @@ El muestreo deberá efectuarse siguiendo métodos estadísticos que aseguren que
 
 Los elementos estructurales cuyos materiales se encuentren en ambiente corrosivo o sujetos a la acción de agentes físicos, químicos o biológicos, que puedan hacer disminuir su resistencia, deberán ser cubiertos con materiales o substancias protectoras y tendrán un mantenimiento preventivo que asegure su funcionamiento dentro de las condiciones previstas en el diseño.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1592.
 
-Cuando se proyecte utilizar en una construcción un material nuevo que no esté sujeto a normas de calidad reconocidas oficialmente, el perito responsable de obra deberá solicitar la aprobación previa de la Secretaría de Obras Públicas y Desarrollo Urbano, para lo cual presentará los resultados de las pruebas de resistencia y calidad de dicho material.
+Cuando se proyecte utilizar en una construcción un material nuevo que no esté sujeto a normas de calidad reconocidas oficialmente, el perito responsable de obra deberá solicitar la aprobación previa de la Secretaría de Obras Públicas, para lo cual presentará los resultados de las pruebas de resistencia y calidad de dicho material.
 
 ###### Artículo 1593.
 
 Cuando se utilizaren predios colindantes ajenos como área de maniobras, deberán retirarse todos los desechos producidos por la obra al término de ésta, o durante el proceso si hubiese quejas de los propietarios afectados.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
-Para los efectos de este artículo, deberá presentarse ante la Secretaría de Obras Públicas y Desarrollo Urbano, la autorización por escrito del propietario del predio en cuestión.
+Para los efectos de este artículo, deberá presentarse ante la Secretaría de Obras Públicas, la autorización por escrito del propietario del predio en cuestión.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1594.
 
-Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Secretaría de Obras Públicas y Desarrollo Urbano, la cual investigará la viabilidad y en su caso autorizará la petición determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
+Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, la cual investigará la viabilidad y en su caso autorizará la petición determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
 
 ###### Artículo 1595.
 
@@ -17525,17 +17813,17 @@ Los propietarios estarán obligados a reponer por su cuenta, las banquetas y gua
 
 Siempre que se ejecuten obras de cualquier clase en la vía pública o cerca de ella, se tomarán las medidas de seguridad necesarias para evitar daños o perjuicios a las instalaciones, a los trabajadores y a terceros.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1598.
 
-Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Secretaría de Obras Públicas y Desarrollo Urbano.
+Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1599.
 
-Cuando se requiera reubicar postes, ya sea de Comisión Federal de Electricidad, telefonía, alumbrado público, o semáforos, deberá pedirse el permiso y coordinar las acciones correspondientes, con la dependencia responsable del poste y comunicar tal autorización a la Secretaría de Obras Públicas y Desarrollo Urbano
+Cuando se requiera reubicar postes, ya sea de Comisión Federal de Electricidad, telefonía, alumbrado público, o semáforos, deberá pedirse el permiso y coordinar las acciones correspondientes, con la dependencia responsable del poste y comunicar tal autorización a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
 ###### Artículo 1600.
 
@@ -17553,15 +17841,15 @@ II.- De marquesinas: Cuando los trabajos se ejecuten a más de diez metros de al
 
 III.- Fijos: En las obras que se ejecuten en un predio a una distancia menor de diez metros de la vía pública, se colocarán tapiales fijos que cubran todo el frente de la misma. Cuando la fachada quede al paño del alineamiento, el tapial podrá abarcar una faja anexa hasta de cincuenta centímetros sobre la banqueta. Previa solicitud, podrá concederse mayor superficie de ocupación de banqueta; y
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-IV.- De paso cubierto: En obras cuya altura sea mayor de diez metros o en aquellas en que la invasión de la acera lo amerite, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá exigir, que se construya un paso cubierto, además del tapial.
+IV.- De paso cubierto: En obras cuya altura sea mayor de diez metros o en aquellas en que la invasión de la acera lo amerite, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá exigir, que se construya un paso cubierto, además del tapial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1602.
 
-Los tapiales de barrera se construirán de manera que no obstruyan o impidan la vista de las señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la Secretaría de Obras Públicas y Desarrollo Urbano, su traslado provisional a otro lugar.
+Los tapiales de barrera se construirán de manera que no obstruyan o Impidan la vista de las señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, su traslado provisional a otro lugar.
 
 Los tapiales de marquesina se colocarán a la altura necesaria, de tal manera que la altura de caída de los materiales de demolición o de construcción sobre ellos, no exceda de cinco metros.
 
@@ -17595,35 +17883,35 @@ Si se emplean puntales, vigas, armaduras, estructuras o cualquier otro medio, pa
 
 Los trabajadores deberán efectuar los trabajos de demolición, usando el equipo necesario para su protección personal, tal como anteojos de protección, máscara contra polvo, caretas, cascos, guantes, botas, redes o cualquier otro, que sea necesario de acuerdo con el tipo de demolición.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1608.
 
-Se prohíbe el uso de explosivos para llevar a cabo demoliciones o excavaciones en la zona urbana, así como en la zona rural cuando en esta última existan construcciones dentro de un radio menor de cincuenta metros. Excepcionalmente, previa justificación técnica de la necesidad de su uso, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá autorizar el empleo de explosivos en las demoliciones bajo la exclusiva responsabilidad del perito responsable de obra, siempre que se tomen las medidas necesarias para evitar daños.
+Se prohíbe el uso de explosivos para llevar a cabo demoliciones o excavaciones en la zona urbana, así como en la zona rural cuando en esta última existan construcciones dentro de un radio menor de cincuenta metros, Excepcionalmente, previa justificación técnica de la necesidad de su uso, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá autorizar el empleo de explosivos en las demoliciones bajo la exclusiva responsabilidad del perito responsable de obra, siempre que se tomen las medidas necesarias para evitar daños.
 
-La autorización que la Secretaría de Obras Públicas y Desarrollo Urbano, otorgue en los casos a que se refiere este artículo, queda condicionada a que la Secretaría de la Defensa Nacional, en ejercicio de sus atribuciones, otorgue el permiso correspondiente para la adquisición y uso de explosivos con el fin indicado.
+La autorización que la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, otorgue en los casos a que se refiere este artículo, queda condicionada a que la Secretaría de la Defensa Nacional, en ejercicio de sus atribuciones, otorgue el permiso correspondiente para la adquisición y uso de explosivos con el fin indicado.
 
 ###### Artículo 1609.
 
 Los materiales y escombros provenientes de una demolición, que vayan a ser desechados de la obra, deberán ser retirados en la forma establecida en el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, señalará las condiciones en que deban ser transportados y el lugar en que puedan ser depositados dichos escombros.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, señalará las condiciones en que deban ser transportados y el lugar en que puedan ser depositados dichos escombros.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1610.
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, podrá ordenar que se suspendan los trabajos cuando no sean tomadas las precauciones necesarias para evitar daños o perjuicios.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá ordenar que se suspendan los trabajos cuando no sean tomadas las precauciones necesarias para evitar daños o perjuicios.
 
 ### CAPÍTULO V. De las Mediciones y Trazos
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1611.
 
-En las construcciones en que se requiere llevar registro de posibles movimientos verticales, así como en aquellas en que el perito responsable de obra considere necesario o la Secretaría de Obras Públicas y Desarrollo Urbano, lo ordene, se señalarán referencias o bancos de nivel superficiales, suficientemente alejados de la cimentación o estructuras de que se trate, para no ser afectados por los movimientos de las mismas o de otras cargas cercanas, y se referirán a éstos las nivelaciones que se hagan.
+En las construcciones en que se requiere llevar registro de posibles movimientos verticales, así como en aquellas en que el perito responsable de obra considere necesario o la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, lo ordene, se señalarán referencias o bancos de nivel superficiales, suficientemente alejados de la cimentación o estructuras de que se trate, para no ser afectados por los movimientos de las mismas o de otras cargas cercanas, y se referirán a éstos las nivelaciones que se hagan.
 
 ###### Artículo 1612.
 
@@ -17633,11 +17921,11 @@ En los planos de cimentación se deberán indicar si se requiere el registro de 
 
 Antes de iniciarse una construcción deberá verificarse el trazo del alineamiento del predio, con base en la constancia de alineamiento y compatibilidad urbanística y las medidas del resto de la poligonal del perímetro, así como la situación del predio en relación con los colindantes, la cual deberá coincidir con los datos correspondientes del título de propiedad en su caso.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1614.
 
-Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos que puedan conservarse fijos. Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los planos arquitectónicos, deberá asentarse en la bitácora, elaborando a su vez los planos del proyecto ajustado, presentándolos a la Secretaría de Obras Públicas y Desarrollo Urbano El perito responsable de obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
+Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos que puedan conservarse fijos. Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los planos arquitectónicos, deberá asentarse en la bitácora, elaborando a su vez los planos del proyecto ajustado, presentándolos a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente. El perito responsable de obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
 
 ###### Artículo 1615.
 
@@ -17649,19 +17937,19 @@ Las separaciones entre construcciones deberán protegerse por medio de tapajunta
 
 El procedimiento de ejecución de excavaciones deberá garantizar que no se rebasen los estados límites definidos en este Libro. De ser necesario, la excavación se realizará por etapas, de acuerdo con un programa que deberá incluirse en la memoria de diseño, señalando además, las precauciones que se tomarán para que no resulten afectadas las construcciones, los predios vecinos o los servicios públicos. Estas precauciones se consignarán debidamente en los planos.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
-Si en el proceso de una excavación se encuentran restos fósiles o arqueológicos, se deberá suspender de inmediato la excavación en ese lugar y notificar el hallazgo a la Secretaría de Obras Públicas y Desarrollo Urbano
+Si en el proceso de una excavación se encuentran restos fósiles o arqueológicos, se deberá suspender de inmediato la excavación en ese lugar y notificar el hallazgo a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
 ###### Artículo 1617.
 
 Cuando los procedimientos de ejecución de una obra señalen la necesidad de instalar ademe, éste se colocará troquelándolo a presión contra los paramentos del terreno. Sus características serán determinadas por un estudio de mecánica de suelos particular para cada caso.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1618.
 
-Previa autorización de la Secretaría de Obras Públicas y Desarrollo Urbano, podrá extraerse agua de un predio mediante bombeo siempre que se tomen precauciones para limitar los efectos del mismo sobre los predios colindantes y sobre el propio predio, las cuales serán determinadas por el estudio de mecánica de suelos correspondiente.
+Previa autorización de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá extraerse agua de un predio mediante bombeo siempre que se tomen precauciones para limitar los efectos del mismo sobre los predios colindantes y sobre el propio predio, las cuales serán determinadas por el estudio de mecánica de suelos correspondiente.
 
 ###### Artículo 1619.
 
@@ -17801,11 +18089,11 @@ La ejecución de las estructuras de madera deberá ajustarse a las especificacio
 
 ### CAPÍTULO VIII. De la Mampostería y el Concreto
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1640.
 
-Se consideran elementos de mampostería los construidos con piezas regulares o irregulares de piedra natural o artificial, maciza o hueca, unidas por un mortero cementante, los materiales que se utilicen en la construcción de elementos de mampostería deberán cumplir los requisitos generales de calidad especificados por la Secretaría de Obras Públicas y Desarrollo Urbano
+·Se consideran elementos de mampostería los construidos con piezas regulares o irregulares de piedra natural o artificial, maciza o hueca, unidas por un mortero cementante, los materiales que se utilicen en la construcción de elementos de mampostería deberán cumplir los requisitos generales de calidad especificados por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
 ###### Artículo 1641.
 
@@ -17917,21 +18205,23 @@ Los elementos de concreto simple, reforzado o presforzado, que se encuentren exp
 
 ### CAPÍTULO IX. De las Estructuras Metálicas
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1659.
 
 Las estructuras metálicas deberán sujetarse a lo previsto en este Libro y a sus Normas Técnicas Complementarias.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+Los materiales que se utilicen en la construcción de estructuras metálicas, deberán cumplir con las normas de calidad especificadas por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
-Los materiales que se utilicen en la construcción de estructuras metálicas, deberán cumplir con las normas de calidad especificadas por la Secretaría de Obras Públicas y Desarrollo Urbano
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1660.
 
 En el montaje de las estructuras se observará lo siguiente:
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-I.- El montaje deberá efectuarse con el equipo apropiado. Durante la carga, transporte y descarga de material y durante el montaje, se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. Aquellas piezas que se maltratan o deformen, deberán ser enderezadas o repuestas a juicio del perito responsable o del perito especializado en estructuras antes de montarlas. Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Secretaría de Seguridad Pública y Vialidad Municipal y notificar a la Secretaría de Obras Públicas y Desarrollo Urbano
+I.- El montaje deberá efectuarse con el equipo apropiado. Durante la carga, transporte y descarga de material y durante el montaje, se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. Aquellas piezas que se maltratan o deformen, deberán ser enderezadas o repuestas a juicio del perito responsable o del perito especializado en estructuras antes de montarlas. Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Secretaría de Seguridad Pública y Vialidad Municipal y notificar a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
 II.- Anclajes.- Antes de iniciar la colocación de la estructura, el perito responsable de obra, revisará la posición de las anclas colocadas a las posiciones mostradas en los planos, se tomarán las providencias necesarias para corregirlas, en su caso;
 
@@ -18093,19 +18383,19 @@ V.- Los que produzcan humedad, salinidad, corrosión, gases, humos, polvos, ruid
 
 VI.- Los demás que se establezcan en la Legislación Federal y Estatal de la materia.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1685.
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, podrá autorizar el cambio de uso de un predio o de una edificación, de acuerdo con los Programas de Desarrollo Urbano vigentes y con los planos aprobados para la zona donde se ubique el predio, previo dictamen técnico y en su caso, la autorización de ubicación en los términos señalados por este Código. El nuevo uso deberá ajustarse a las disposiciones de este Código y demás legislación vigente en la materia.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá autorizar el cambio de uso de un predio o de una edificación, de acuerdo con los Programas de Desarrollo Urbano vigentes y con los planos aprobados para la zona donde se ubique el predio, previo dictamen técnico y en su caso, la autorización de ubicación en los términos señalados por este Código. El nuevo uso deberá ajustarse a las disposiciones de este Código y demás legislación vigente en la materia.
 
-En construcciones ya ejecutadas, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
+En construcciones ya ejecutadas, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1686.
 
-Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece el artículo anterior, la Secretaría de Obras Públicas y Desarrollo Urbano, ordenará con base en dictamen técnico lo siguiente:
+Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece el artículo anterior, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, ordenará con base en dictamen técnico lo siguiente:
 
 I.- La restitución de inmediato al uso aprobado, si esto puede hacerse sin la necesidad de ejecutar obras; y
 
@@ -18127,11 +18417,11 @@ Quedan prohibidas instalaciones y construcciones precarias en las zonas de las e
 
 ## TÍTULO SEXTO. PROTECCIÓN, CONSERVACIÓN Y MEJORAMIENTO DEL AMBIENTE Y DEL EQUILIBRIO ECOLÓGICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1689.
 
-Para proteger y conservar el equilibrio ecológico dentro del Municipio de Calvillo, el Ayuntamiento a través de la Secretaría de Obras Públicas y Desarrollo Urbano, tendrá las atribuciones siguientes:
+Para proteger y conservar el equilibrio ecológico dentro del Municipio de Calvillo, el Ayuntamiento a través de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, tendrá las atribuciones siguientes:
 
 I.- La preservación y restauración del equilibrio ecológico y la protección al ambiente, que se realicen en bienes y zonas de la jurisdicción del Municipio, salvo cuando se refieran a asuntos reservados al gobierno del Estado o a la Federación;
 
@@ -18149,17 +18439,21 @@ VII.- Proteger el ambiente de los diversos centros de población, respecto de lo
 
 VIII.- Participar concurrentemente con las autoridades responsables en la materia, para analizar la reubicación de las industrias que se encuentren en zonas habitacionales y urbanas, cuando se afecte ecológicamente a la sociedad del Municipio; y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2021)</small>
+
 IX.- Las demás que le confieran otros ordenamientos jurídicos en la materia.
 
-El Ayuntamiento en ejercicio de las atribuciones que las leyes sobre la materia le confieren a través de Secretaría de Planeación y Desarrollo Municipal, podrá regular, promover, restringir, prohibir, orientar e inducir, la participación de los particulares en acciones económicas y sociales, donde se observen los criterios de preservación, conservación, instauración y restauración del equilibrio ecológico
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
+
+El Ayuntamiento en ejercicio de las atribuciones que las leyes sobre la materia le confieren a través de la Secretaría de Planeación, Ordenamiento Territorial y Medio ambiente, podrá regular, promover, restringir, prohibir, orientar e inducir, la participación de los particulares en acciones económicas y sociales, donde se observen los criterios de preservación, conservación, instauración y restauración del equilibrio ecológico.
 
 ### CAPÍTULO I. Prevención y Control Ambiental
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1690.
 
-Es facultad del Municipio a través de la Secretaría de Obras Públicas y Desarrollo Urbano dictar las medidas de seguridad para prevenir y controlar la contaminación del ambiente, causada por fuentes que no sean de jurisdicción Estatal o Federal dentro del territorio municipal.
+Es facultad del Municipio a través de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente dictar las medidas de seguridad para prevenir y controlar la contaminación del ambiente, causada por fuentes que no sean de jurisdicción Estatal o Federal dentro del territorio municipal.
 
 ###### Artículo 1691.
 
@@ -18197,11 +18491,11 @@ XV.- Las demás que le confieran otros ordenamientos jurídicos en la materia.
 
 ### CAPÍTULO II. Participación Social
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1692.
 
-El Ayuntamiento a través de la Secretaría de Obras Públicas y Desarrollo Urbano, promoverá la participación solidaria y responsable de los habitantes del Municipio, en la política ambiental y en la observancia del presente Código y demás disposiciones jurídicas de la materia, por medio de acciones de difusión y vigilancia de los trabajos que en materia ecológica se realicen dentro de la jurisdicción municipal.
+El Ayuntamiento a través de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, promoverá la participación solidaria y responsable de los habitantes del Municipio, en la política ambiental y en la observancia del presente Código y demás disposiciones jurídicas de la materia, por medio de acciones de difusión y vigilancia de los trabajos que en materia ecológica se realicen dentro de la jurisdicción municipal.
 
 ###### Artículo 1693.
 
@@ -18215,17 +18509,17 @@ El Consejo Municipal de Protección al Ambiente, es un cuerpo colegiado de aseso
 
 El Ayuntamiento convocará en el ámbito territorial de su jurisdicción, a representantes de organizaciones obreras, empresariales, de campesinos, de productores agropecuarios, de las comunidades, de instituciones educativas y de investigación de instituciones privadas y de otros representantes de la sociedad, en el seno del Consejo Municipal de Protección al Ambiente, para que manifiesten su opinión y propuestas, para la formulación de la política ambiental municipal, promoviendo la participación y corresponsabilidad de la sociedad en las acciones que en materia de ecología emprenda.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1696.
 
-El Ayuntamiento a través de las (sic) Secretaría de Obras Públicas y Desarrollo Urbano, podrán celebrar convenios de concertación y participación social con particulares, grupos interesados y organizaciones sociales, instituciones privadas de carácter no lucrativo e instituciones educativas, a fin de fomentar y mejorar la protección del ambiente, para que en la sede o ámbito de influencia de los mismos, participen responsablemente en la protección del ambiente y restauración del equilibrio ecológico.
+El Ayuntamiento a través de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá celebrar convenios de concertación y participación social con particulares, grupos interesados y organizaciones sociales, instituciones privadas de carácter no lucrativo e instituciones educativas, a fin de fomentar y mejorar la protección del ambiente, para que en la sede o ámbito de influencia de los mismos, participen responsablemente en la protección del ambiente y restauración del equilibrio ecológico.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1697.
 
-El Ayuntamiento a través de la Secretaría de Obras Públicas y Desarrollo Urbano, promoverá reconocimientos públicos a ciudadanos, grupos o instituciones que de manera altruista se distinga (sic) por su labor en la protección, instauración y restauración del ambiente y equilibrio ecológico.
+El Ayuntamiento a través de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, promoverá reconocimientos públicos a ciudadanos, grupos o instituciones que de manera altruista se distingan por su labor en la protección, instauración y restauración del ambiente y equilibrio ecológico.
 
 ### CAPÍTULO III. Consejo Municipal de Protección al Ambiente
 
@@ -18233,19 +18527,25 @@ El Ayuntamiento a través de la Secretaría de Obras Públicas y Desarrollo Urba
 
 El Consejo Municipal de Protección al Ambiente, podrá recibir denuncias por actos u omisiones realizados por cualquier persona que contravenga las disposiciones legales dictadas en la materia, asimismo servirá de enlace entre el particular y las autoridades municipales, estatales y federales, para gestionar la solución de la problemática ambiental; también promoverá permanentemente la participación ciudadana y la formación de una auténtica cultura ecológica entre los habitantes del Municipio.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1699.
 
 El Consejo Municipal de Protección al Ambiente se integrará por:
 
 I.- Un Presidente: Que será el Presidente Municipal o quien designe;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-II.- Un Secretario: Que será el Secretario de Obras Públicas y Desarrollo Urbano y quien sustituirá en sus ausencias al Presidente Municipal;
+II.- Un Secretario: Que será el Secretario de Planeación, Ordenamiento Territorial y Medio Ambiente y quien sustituirá en sus ausencias al Presidente Municipal;
 
-III.- Un Coordinador técnico: Que será el responsable del área de ecología y se encargará de atender las sesiones del Consejo conjuntamente con el Presidente; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-IV.- Vocales: Conformados por los regidores de la Comisión de Ecología, Planeación, Obras Públicas, y de Agua Potable y Alcantarillado, así como de representantes de instituciones sociales y privadas, coordinadores de los Consejos de Participación Ciudadana, Delegados, Subdelegados Estatales y Federales.
+III.- Un Coordinador técnico: Que será el responsable del área de Medio Ambiente y se encargará de atender las sesiones del Consejo conjuntamente con el Presidente; y
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+IV.- Vocales: Conformados por los regidores de la Comisión de Medio ambiente, Planeación, Obras Públicas, y de Agua Potable y Alcantarillado, así como de representantes de instituciones sociales y privadas, coordinadores de los Consejos de Participación Ciudadana, delegados, Subdelegados Estatales y Federales.
 
 ###### Artículo 1700.
 
@@ -18257,23 +18557,23 @@ El Consejo Municipal de Protección al Ambiente, promoverá la creación de un f
 
 La denuncia popular es el acto en virtud del cual una persona física o moral hace del conocimiento de la autoridad municipal, la verificación o comisión de posibles ilícitos relativos a las fuentes de contaminación y desequilibrio ecológico, que pudieran repercutir en daños ecológicos a la población, señalando en su caso a él o los presuntos responsables para la aplicación de las sanciones previstas en el presente Código y demás leyes relacionadas con la materia.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
-###### Articulo 1702.
+###### Artículo 1702.
 
-La denuncia popular podrá presentarse ante la Secretaría de Obras Públicas y Desarrollo Urbano o ante un Consejo Municipal de Protección al Ambiente, quienes le darán seguimiento, mediante previo trámite e investigación otorgará (sic) respuesta al denunciante, en un plazo no mayor de 10 días hábiles a la fecha de su recepción.
+La denuncia popular podrá presentarse ante la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, o ante un Consejo Municipal de Protección al Ambiente, quienes le darán seguimiento, mediante previo trámite e investigación otorgarán respuesta al denunciante, en un plazo no mayor de 10 días hábiles a la fecha de su recepción.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
-###### Artículo 1703.
+1703 (SIC).- Si la denuncia popular resultare de competencia federal o estatal, (sic) Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, o el Consejo Municipal de Protección Ambiental, remitirán para su atención y trámite a la autoridad competente, en un plazo que no exceda de 5 días hábiles a partir de la fecha de su recepción, informando de ello por escrito al denunciante.
 
-Si la denuncia popular resultare de competencia federal o estatal, la Secretaría de Obras Públicas y Desarrollo Urbano o el Consejo Municipal de Protección Ambiental, remitirán para su atención y trámite a la autoridad competente, en un plazo que no exceda de 5 días hábiles a partir de la fecha de su recepción, informando de ello por escrito al denunciante.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1704.
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, requiere para darle curso y seguimiento a la denuncia popular los datos siguientes:
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, requiere para darle curso y seguimiento a la denuncia popular los datos siguientes:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2021)</small>
 
 I.- Ubicación de la posible fuente de contaminación, calle, número, colonia y código postal, en su caso;
 
@@ -18285,11 +18585,11 @@ IV.- Datos del presunto(s) responsable(s) en caso de que se conozcan; y
 
 V.- Datos del denunciante para respuesta y seguimiento.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1705.
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, darán (sic) curso y seguimiento a la denuncia, y ordenará a un inspector para que se constituya en el domicilio de la posible fuente de contaminación, a efecto de que proceda a realizar las inspecciones necesarias para la comprobación de la existencia de la contaminación denunciada.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, dará curso y seguimiento a la denuncia, y ordenará a un inspector para que se constituya en el domicilio de la posible fuente de contaminación, a efecto de que proceda a realizar las inspecciones necesarias para la comprobación de la existencia de la contaminación denunciada.
 
 ###### Artículo 1706.
 
@@ -18301,11 +18601,11 @@ Si la persona a quien haya de notificarse para llevarse a cabo la diligencia, no
 
 El inspector, al constituirse en el lugar donde se ubica la fuente contaminante, procederá a levantar el acta de visita de inspección para clasificarla y evaluarla, y así determinar las infracciones y sanciones correspondientes, en presencia de dos testigos del lugar.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1708.
 
-En los casos de flagrancia, el personal autorizado por la Secretaría de Obras Públicas y Desarrollo Urbano, procederá de oficio a la práctica de las diligencias de inspección de los establecimientos o lugares en donde haya fuentes contaminantes.
+En los casos de flagrancia, el personal autorizado por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, procederá de oficio a la práctica de las diligencias de inspección de los establecimientos o lugares en donde haya fuentes contaminantes.
 
 ### CAPÍTULO V. Política Ambiental
 
@@ -18313,11 +18613,11 @@ En los casos de flagrancia, el personal autorizado por la Secretaría de Obras P
 
 La Política Ambiental Municipal, es el conjunto de criterios, objetivos, planes, programas y acciones, establecidos por el Ayuntamiento con base en estudios técnicos, científicos, sociales y económicos, que permitan orientar las actividades públicas hacia la utilización, regeneración, preservación racional y sustentable, de los recursos naturales con que cuenta el Municipio, fomentando el equilibrio ecológico y la protección ambiental.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1710.
 
-El Presidente Municipal a través de la Secretaría de Obras Públicas y Desarrollo Urbano, formulará, conducirá, evaluará y adecuará la política ambiental, en congruencia con la política estatal y federal.
+El Presidente Municipal a través de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, formulará, conducirá, evaluará y adecuará la política ambiental, en congruencia con la política estatal y federal.
 
 ###### Artículo 1711.
 
@@ -18357,11 +18657,11 @@ II.- La evaluación del impacto ambiental está enfocada a evitar la realizació
 
 ### CAPÍTULO VII. Ordenamiento Ecológico
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1714.
 
-El Ayuntamiento, a través de la Secretaría de Obras Públicas y Desarrollo Urbano, establecerá las acciones y restricciones que en materia ecológica deba aplicarse en el territorio del Municipio que permitan realizar la prevención, control y mitigación de contaminantes, así como señalar los requisitos que habrán de observarse para evitar el deterioro ambiental.
+El Ayuntamiento, a través de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, establecerá las acciones y restricciones que en materia ecológica deba aplicarse en el territorio del Municipio que permitan realizar la prevención, control y mitigación de contaminantes, así como señalar los requisitos que habrán de observarse para evitar el deterioro ambiental.
 
 ###### Artículo 1715.
 
@@ -18449,11 +18749,11 @@ I.- Los usos productivos del suelo no deben alterar el equilibrio de los ecosist
 
 II.- Regular, corregir y sancionar toda acción o actividad que al generar o manejar residuos sólidos, conlleve a la disminución de las características del suelo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1724.
 
-Para la protección del suelo y el manejo de los residuos sólidos municipales, las (sic) Secretaría de Obras Públicas y Desarrollo Urbano, y la de Servicios Públicos en sus respectivas atribuciones observarán:
+Para la protección del suelo y el manejo de los residuos sólidos municipales, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, y la de Servicios Públicos en sus respectivas atribuciones observarán:
 
 I.- Que los servicios municipales no propicien o generen residuos sólidos sin control;
 
@@ -18485,11 +18785,11 @@ I.- En los asentamientos urbanos, sin descuidar los de características rurales,
 
 II.- La contaminación atmosférica es resultado, tanto de las emisiones provocadas por fuentes naturales, como de aquellas provenientes de fuentes artificiales, fijas y móviles, por lo que éstas deben prevenirse y controlarse, con el fin de asegurar la calidad del aire en beneficio de la comunidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1728.
 
-Para promover y efectuar el saneamiento atmosférico, el Ayuntamiento a través de la Secretaría de Obras Públicas y Desarrollo Urbano podrá:
+Para promover y efectuar el saneamiento atmosférico, el Ayuntamiento a través de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente podrá:
 
 I.- Formular y conducir la política municipal en materia de prevención y control de la contaminación atmosférica en el ámbito de su competencia;
 
@@ -18499,11 +18799,11 @@ III.- Previo acuerdo de coordinación con las autoridades estatales, implementar
 
 IV.- Integrar y mantener actualizado el inventario de fuentes emisoras de contaminantes a la atmósfera, que estén ubicadas en el territorio del Municipio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1729.
 
-El Ayuntamiento, a través de la Secretaría de Obras Públicas y Desarrollo Urbano, vigilará e inspeccionará las fuentes emisoras de contaminantes atmosféricos siguientes:
+El Ayuntamiento, a través de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, vigilará e inspeccionará las fuentes emisoras de contaminantes atmosféricos siguientes:
 
 I.- Las fijas, que incluyen talleres, giros comerciales y de prestación de servicios, así como giros industriales previo convenio con la autoridad estatal;
 
@@ -18511,11 +18811,11 @@ II.- Diversas; como depósitos o quema a cielo abierto de residuos sólidos en e
 
 III.- Coadyuvará previo acuerdo o convenio con el Estado, con las móviles como: Vehículos automotores de combustión interna, motocicletas y similares, salvo el transporte federal.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1730.
 
-Se requerirá autorización de la Secretaría de Obras Públicas y Desarrollo Urbano, para instalación y funcionamiento de ladrilleras y alfarerías, las que sólo podrán instalarse en los sitios que para tal fin haya designado la autoridad competente, en apego a la normatividad vigente.
+Se requerirá autorización de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para instalación y funcionamiento de ladrilleras y alfarerías, las que sólo podrán instalarse en los sitios que para tal fin haya designado la autoridad competente, en apego a la normatividad vigente.
 
 ###### Artículo 1731.
 
@@ -18527,21 +18827,21 @@ Los productores a gran escala de ladrillos, cerámica y materiales similares deb
 
 ### CAPÍTULO XII. Protección contra la Contaminación Visual o Producida por Olores, Ruidos, Vibraciones, Radiaciones u otros Agentes Vectores de Energía
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1733.
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, establecerá los procedimientos tendientes a prevenir y controlar la contaminación visual y la provocada por olores, ruidos, vibraciones y energía térmica o lumínica, para ello considerará que:
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, establecerá los procedimientos tendientes a prevenir y controlar la contaminación visual y la provocada por olores, ruidos, vibraciones y energía térmica o lumínica, para ello considerará que:
 
 La contaminación que es generada por los olores, ruidos, vibraciones, energía térmica y lumínica, entre otros, podrá ser prevenida mediante los dictámenes de impacto ambiental; y
 
 Regulada a través de aplicar las sanciones a toda acción que contribuya a la generación de las emisiones contaminantes antes mencionadas para evitar que rebasen los límites máximos de tolerancia humana, en su caso.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1734.
 
-Toda persona física o moral, pública o privada, que realice actividades industriales, comerciales, de servicios o de cualquier otro tipo, que por su naturaleza produzcan emisiones de olores, ruidos, vibraciones, energía térmica, lumínica y que estén afectando a la población, a la fauna y/o flora, los bienes y/o los ecosistemas, deberán establecer medidas correctivas, instalar dispositivos y aislamientos necesarios para reducir dichas emisiones a niveles tolerables, y de no ser suficiente lo anterior, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá reubicarla o cancelar la licencia de uso específico de suelo.
+Toda persona física o moral, pública o privada, que realice actividades industriales, comerciales, de servicios o de cualquier otro tipo, que por su naturaleza produzcan emisiones de olores, ruidos, vibraciones, energía térmica, lumínica y que estén afectando a la población, a la fauna y/o flora, los bienes y/o los ecosistemas, deberán establecer medidas correctivas, instalar dispositivos y aislamientos necesarios para reducir dichas emisiones a niveles tolerables, y de no ser suficiente lo anterior, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá reubicarla o cancelar la licencia de uso específico de suelo o permiso correspondiente.
 
 ###### Artículo 1735.
 
@@ -18569,11 +18869,11 @@ II.- Las zonas sujetas a preservación ecológica; y
 
 III.- Las demás que tengan este carácter conforme a las disposiciones legales.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1739.
 
-Con independencia de lo señalado en el artículo precedente, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá realizar estudios previos que fundamenten la expedición de la declaratoria de nuevas áreas naturales que serán protegidas por el Municipio. En caso necesario, podrá solicitar asesoría técnica o legal a las autoridades competentes estatales o federales.
+Con independencia de lo señalado en el artículo precedente, Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá realizar estudios previos que fundamenten la expedición de la declaratoria de nuevas áreas naturales que serán protegidas por el Municipio. En caso necesario, podrá solicitar asesoría técnica o legal a las autoridades competentes estatales o federales.
 
 ###### Artículo 1740.
 
@@ -18581,37 +18881,35 @@ El Ayuntamiento está facultado para celebrar convenios con las autoridades esta
 
 ### CAPÍTULO XV. Medidas de Seguridad y Contingencias Ambientales
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1741.
 
-Cuando se presenten emergencias o contingencias ambientales, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá ordenar el aseguramiento de materiales o substancias contaminantes; la clausura temporal, parcial o definitiva de las fuentes contaminantes correspondientes, observando desde luego el marco jurídico estatal y federal relativo a la materia.
+Cuando se presenten emergencias o contingencias ambientales, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá ordenar el aseguramiento de materiales o substancias contaminantes; la clausura temporal, parcial o definitiva de las fuentes contaminantes correspondientes, observando desde luego el marco jurídico estatal y federal relativo a la materia.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1742.
 
-la Secretaría de Obras Públicas y Desarrollo Urbano, podrá solicitar el auxilio de la fuerza pública para efectuar visitas de inspección o para la aplicación de medidas de seguridad, con el objeto de hacer frente de manera inmediata, a la emergencia o contingencia ambiental, cuando se obstaculice la práctica de las diligencias, independientemente de la aplicación de las sanciones que resulten procedentes para quienes se opongan al cumplimiento de las medidas de seguridad.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá solicitar el auxilio de la fuerza pública para efectuar visitas de inspección o para la aplicación de medidas de seguridad, con el objeto de hacer frente de manera inmediata, a la emergencia o contingencia ambiental, cuando se obstaculice la práctica de las diligencias, independientemente de la aplicación de las sanciones que resulten procedentes para quienes se opongan al cumplimiento de las medidas de seguridad.
 
 ### CAPÍTULO XVI. Del Manejo de Áreas Verdes
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1743.
 
-Las áreas verdes privadas, excepto las de las casas habitación, serán objeto de vigilancia y control del Municipio, por lo que cualquier acción, creación, manejo, cambio de uso de suelo, derribo de árboles y remoción de la cubierta vegetal, deberá ser previamente autorizada por el Municipio a través de la Secretaría de Obras Públicas y Desarrollo Urbano.
-
-Las acciones de derribo y remoción de la vegetación, así como la disposición de los residuos vegetales productos de estas acciones, una vez autorizadas por la Secretaría de Obras Públicas y Desarrollo Urbano, serán responsabilidad del interesado, a quien solo se le dará asesoría al respecto.
+Las áreas verdes urbanas privadas, serán objeto de vigilancia y control del Municipio, por lo que cualquier acción, creación, manejo, cambio de uso de suelo, derribo de árboles y remoción de la cubierta vegetal, así como las áreas verdes de casa habitación que requieran específicamente la acción de derribo de árboles deberá ser previamente autorizada por el Municipio a través de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente. Las acciones de derribo y remoción de la vegetación, así como la disposición de los residuos vegetales productos de estas acciones, una vez autorizadas por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, serán responsabilidad del interesado, a quien solo se le dará asesoría al respecto.
 
 ###### Artículo 1744.
 
 La forestación de parques, camellones y áreas de donación que el Municipio autorice; deberán utilizar especies propias de la región o que se ha comprobado su adaptación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1745.
 
-El derribo, poda, extracción o remoción de vegetación de un área verde, solo podrá efectuarse en los casos siguientes, previa autorización de la Secretaría de Obras Públicas y Desarrollo Urbano:
+El derribo, poda, extracción o remoción de vegetación de un área verde, solo podrá efectuarse en los casos siguientes, previa autorización de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente:
 
 I.- Cuando ponga en riesgo la integridad física de personas, bienes o la infraestructura urbana;
 
@@ -18621,25 +18919,23 @@ III.- Cuando la imagen urbana se vea afectada significativamente; y
 
 IV.- Cuando se compruebe que es de utilidad pública.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
-###### Artículo 1746.
-
-Para efectos de la autorización a que se refiere el artículo anterior, los interesados deberán presentar por escrito, en la que expresarán los motivos y circunstancias de la petición. Posteriormente la Secretaría de Obras Públicas y Desarrollo Urbano, realizará inspección en el lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
+Artículo. 1746.- Para efectos de la autorización a que se refiere el artículo anterior, los interesados deberán presentar por escrito, en la que expresarán los motivos y circunstancias de la petición. Posteriormente la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, realizará inspección en el lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
 
 ### CAPÍTULO XVII. Inspección y Vigilancia
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1747.
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, podrá ordenar la realización de visitas de inspección ecológica, con el objeto de constatar el cumplimiento de la normatividad ambiental que sean de su competencia.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá ordenar la realización de visitas de inspección ecológica, con el objeto de constatar el cumplimiento de la normatividad ambiental que sean de su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1748.
 
-Para efectos de verificar e inspeccionar las fuentes contaminantes la Secretaría de Obras Públicas y Desarrollo Urbano, se apegará a las acciones siguientes:
+Para efectos de verificar e inspeccionar las fuentes contaminantes la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, se apegará a las acciones siguientes:
 
 I.- Vigilar las áreas ecológicas que así lo requieran y que se encuentren dentro del Municipio;
 
@@ -18667,21 +18963,21 @@ El personal autorizado para la inspección, deberá dejar el original de orden d
 
 Si la persona con quien se entendió la diligencia, se negare a firmar el acta o aceptar copia de la misma, dichas circunstancias se asentarán en ella sin que esto afecte su validez.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1753.
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, con base en el documento de la visita de inspección, dictará las medidas necesarias para exigir a quien corresponda que se corrijan las deficiencias que se hubieren encontrado, fundando y motivando el requerimiento; a su vez notificará al interesado en forma personal, otorgándole un plazo no mayor de quince días hábiles, contados a partir de que surta efectos la legal notificación del proveído, para que manifieste lo que a su derecho convenga y aporte pruebas.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, con base en el documento de la visita de inspección, dictará las medidas necesarias para exigir a quien corresponda que se corrijan las deficiencias que se hubieren encontrado, fundando y motivando el requerimiento; a su vez notificará al interesado en forma personal, otorgándole un plazo no mayor de quince días hábiles, contados a partir de que surta efectos la legal notificación del proveído, para que manifieste lo que a su derecho convenga y aporte pruebas.
 
 ###### Artículo 1754.
 
 Dentro del plazo señalado el infractor deberá comunicar el cumplimiento de las medidas ordenadas para subsanar las deficiencias o irregularidades, detallando las acciones que para ello se hubiesen realizado.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1755.
 
-Si transcurrido el plazo señalado, el infractor o infractores no dieran cumplimiento a lo ordenado por la Secretaría de Obras Públicas y Desarrollo Urbano, procederá a emitir la resolución administrativa en la que se precisarán y ratificarán las violaciones en materia ambiental y las medidas que se deberán adoptar para corregir las deficiencias o irregularidades detectadas, en la que se impondrá la sanción tomando en cuenta la gravedad de la responsabilidad y el incumplimiento.
+Si transcurrido el plazo señalado, el infractor o infractores no dieran cumplimiento a lo ordenado por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, procederá a emitir la resolución administrativa en la que se precisarán y ratificarán las violaciones en materia ambiental y las medidas que se deberán adoptar para corregir las deficiencias o irregularidades detectadas, en la que se impondrá la sanción tomando en cuenta la gravedad de la responsabilidad y el incumplimiento.
 
 ### CAPÍTULO XVIII. Prohibiciones y Obligaciones de la Ciudadanía
 
@@ -23243,23 +23539,23 @@ V.- Cuando no cuente con la respectiva licencia de construcción, o la obra no s
 
 VI.- Cuando no se respeten las afectaciones y las restricciones físicas y de uso impuestas a los predios en la Constancia de Alineamiento y Compatibilidad Urbanística.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 2419.
 
-En caso de que el propietario o poseedor de un predio o de una edificación, no cumpla con las órdenes giradas de reparación, demolición o suspensión de obra, con base en este Código y las demás disposiciones legales aplicables, la Secretaría de Obras Públicas y Desarrollo Urbano, previo dictamen que emita y ordene, estará facultado para ejecutar, a costa del propietario o poseedor, las obras, reparaciones o demoliciones que hayan ordenado; para clausurar y para tomar las demás medidas que considere necesarias, pudiendo hacer uso de la fuerza pública.
+En caso de que el propietario o poseedor de un predio o de una edificación, no cumpla con las órdenes giradas de reparación, demolición o suspensión de obra, con base en este Código y las demás disposiciones legales aplicables, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, previo dictamen que emita y ordene, estará facultado para ejecutar, a costa del propietario o poseedor, las obras, reparaciones o demoliciones que hayan ordenado; para clausurar y para tomar las demás medidas que considere necesarias, pudiendo hacer uso de la fuerza pública.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 2420.
 
-Si el propietario o poseedor del predio en el que la Secretaría de Obras Públicas y Desarrollo Urbano, se vea obligada a ejecutar obras o trabajos conforme a este artículo, se negare a pagar el costo de dichas obras, la Secretaría de Finanzas y Administración del Municipio, efectuará su cobro por medio del procedimiento económico coactivo.
+Si el propietario o poseedor del predio en el que la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, se vea obligada a ejecutar obras o trabajos conforme a este artículo, se negare a pagar el costo de dichas obras, la Secretaría de Finanzas y Administración del Municipio, efectuará su cobro por medio del procedimiento económico coactivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 2421.
 
-Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá clausurar las obras terminadas cuando ocurra alguna de las circunstancias siguientes:
+Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá clausurar las obras terminadas cuando ocurra alguna de las circunstancias siguientes:
 
 I.- Cuando la obra se haya ejecutado sin licencia;
 
@@ -23287,6 +23583,8 @@ III.- Las del tercer grupo tendrán una sanción económica de treinta y una a d
 
 IV.- Las del grupo cuarto ameritarán una sanción económica de doscientas cincuenta a veinte mil veces el salario mínimo, que rige en la zona para el Estado de Aguascalientes.
 
+> <small>(REFORMADO [N. DE E REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2425.
 
 Para los efectos del artículo anterior, las infracciones se agrupan en:
@@ -23301,17 +23599,17 @@ c).- Por la falta de placa del perito responsable.
 
 II.- Grupo Dos:
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
-a).- Por tener escombro en la vía pública sin el permiso correspondiente de la Secretaría de Obras Públicas y Desarrollo Urbano;
+a).- Por tener escombro en la vía pública sin el permiso correspondiente de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente;
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
-b).- Por tirar escombro en los lugares no autorizados por la Secretaría de Obras Públicas y Desarrollo Urbano;
+b).- Por tirar escombro en los lugares no autorizados por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente;
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
-c).- Ejecutar excavaciones que dificulten el libre tránsito en calles o banquetas ó sin el permiso de la Secretaría de Obras Públicas y Desarrollo Urbano;
+c).- Ejecutar excavaciones que dificulten el libre tránsito en calles o banquetas o sin el permiso de la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente;
 
 d).- Por falta de visitas a la obra y firma de bitácora correspondiente, por parte del perito responsable;
 
@@ -23351,11 +23649,11 @@ Las infracciones especificadas en el artículo anterior serán aplicables indist
 
 Para toda violación a las normas y disposiciones municipales en materia de construcciones, no especificadas de manera expresa en el presente Capítulo, se aplicará una multa de cinco a cien veces el salario mínimo, independientemente de la medida de seguridad o arresto atendiendo a la gravedad de la falta que en su caso procedan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 2428.
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, podrá revocar la licencia de construcción cuando
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, podrá revocar la licencia de construcción cuando:
 
 I.- Se hayan dictado con base en informes o documentos falsos o erróneos o emitidos con dolo o error, una vez comprobado lo anterior;
 
@@ -24443,19 +24741,29 @@ Las disposiciones de este Libro son de orden e interés público, y se aplicará
 
 ### CAPÍTULO II. Del Sistema de Evaluación del Desempeño
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 2547.
 
-En materia de programación y presupuestación, el IMPLAN y la Secretaría de Finanzas y Administración, en el ámbito de sus respectivas competencias, y sin perjuicio de lo que establecen otras disposiciones legales, deberán:
+En materia de programación y presupuestación, la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente y la Secretaría de Finanzas y Administración, en el ámbito de sus respectivas competencias, y sin perjuicio de lo que establecen otras disposiciones legales, deberán:
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
 
 I.- Emitir el conjunto de políticas, normas y lineamientos para la programación del Gasto Público, con base en el Plan Municipal de Desarrollo respectivo, y observando en todo caso lo establecido por la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables;
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
 II.- Formular y emitir lineamientos para definir los Programas Presupuestarios de conformidad con lo dispuesto por la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus municipios;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
 
 III.- Dar seguimiento al ejercicio de los programas presupuestarios;
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
 IV.- Asesorar, capacitar y dar apoyo técnico en materia de programación y presupuestación; y
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
 
 V.- Emitir el conjunto de políticas, normas y lineamientos para la presupuestación con base en resultados, observando en todo caso lo establecido por la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
 
@@ -24477,7 +24785,9 @@ III.- Asesorar, en materia de presupuestación y contabilidad.
 
 La Secretaría de Finanzas realizará trimestralmente la evaluación económica de los ingresos y egresos en función de los calendarios de presupuesto de las dependencias y entidades. Las metas de los programas aprobados serán analizadas y evaluadas por las Comisiones Ordinarias de la Cámara de Diputados.
 
-La evaluación del desempeño se realizará a través de la verificación del grado de cumplimiento de objetivos y metas, con base en indicadores estratégicos y de gestión que permitan conocer los resultados de la aplicación de los recursos públicos federales. Para tal efecto, las instancias públicas a cargo de la evaluación del desempeño (IMPLAN) se sujetarán a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+
+La evaluación del desempeño se realizará a través de la verificación del grado de cumplimiento de objetivos y metas, con base en indicadores estratégicos y de gestión que permitan conocer los resultados de la aplicación de los recursos públicos federales. Para tal efecto, las instancias públicas a cargo de la evaluación del desempeño (Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente) se sujetarán a lo siguiente:
 
 I. Efectuarán las evaluaciones por sí mismas o a través de personas físicas y morales especializadas y con experiencia probada en la materia que corresponda evaluar, que cumplan con los requisitos de independencia, imparcialidad, transparencia y los demás que se establezcan en las disposiciones aplicables;
 
@@ -24509,31 +24819,39 @@ V. Las evaluaciones deberán incluir información desagregada por sexo relaciona
 
 VI. Deberán dar seguimiento a la atención de las recomendaciones que se emitan derivado de las evaluaciones correspondientes.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 2550.
 
-La Secretaría de Finanzas y Administración en conjunto con el IMPLAN verificará periódicamente, al menos cada trimestre, los resultados de recaudación y de ejecución de los programas y presupuestos de las dependencias y entidades, con base en el Sistema de Evaluación del Desempeño, entre otros, para identificar la eficiencia, economía, eficacia, y la calidad en la Administración Pública y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Igual obligación y para los mismos fines, tendrán las dependencias, respecto de sus entidades coordinadas.
+La Secretaría de Finanzas y Administración en conjunto con la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente verificará periódicamente, al menos cada trimestre, los resultados de recaudación y de ejecución de los programas y presupuestos de las dependencias y entidades, con base en el Sistema de Evaluación del Desempeño, entre otros, para identificar la eficiencia, economía, eficacia, y la calidad en la Administración Pública y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Igual obligación y para los mismos fines, tendrán las dependencias, respecto de sus entidades coordinadas.
 
-El sistema de evaluación del desempeño a que se refiere el párrafo anterior será obligatorio para los ejecutores del gasto. Dicho sistema incorporará indicadores para evaluar los resultados presentados en los informes trimestrales, enfatizando en la calidad de los bienes y servicios públicos, la satisfacción del ciudadano y el cumplimiento de los criterios establecidos en el artículo 1 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. La Secretaría de Finanzas y Administración en conjunto con el IMPLAN emitirán las disposiciones para la aplicación y evaluación de los indicadores estratégicos en las dependencias y entidades. Los Poderes Legislativo y Judicial y los entes autónomos emitirán sus respectivas disposiciones por conducto de sus unidades de administración.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
+
+El sistema de evaluación del desempeño a que se refiere el párrafo anterior será obligatorio para los ejecutores del gasto. Dicho sistema Incorporará indicadores para evaluar los resultados presentados en los informes trimestrales, enfatizando en la calidad de los bienes y servicios públicos, la satisfacción del ciudadano y el cumplimiento de los criterios establecidos en el artículo 1 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. La Secretaría de Finanzas y Administración en conjunto con la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente emitirán las disposiciones para la aplicación y evaluación de los indicadores estratégicos en las dependencias y entidades. Los Poderes Legislativo y Judicial y los entes autónomos emitirán sus respectivas disposiciones por conducto de sus unidades de administración.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2018)</small>
 
 En la elaboración de los anteproyectos de presupuesto a los que se refiere el artículo 25 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las dependencias y entidades deberán considerar los indicadores del sistema de evaluación de desempeño, mismos que formarán parte del Presupuesto de Egresos e incorporarán sus resultados en la Cuenta Pública, explicando en forma detallada las causas de las variaciones y su correspondiente efecto económico.
 
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2018)</small>
+
 El sistema de evaluación del desempeño deberá incorporar indicadores específicos que permitan evaluar la incidencia de los programas presupuestarios en la igualdad entre mujeres y hombres, la erradicación de la violencia de género y de cualquier forma de discriminación de género.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2018)</small>
 
 Los resultados a los que se refiere este artículo deberán ser considerados para efectos de la programación, presupuestación y ejercicio de los recursos.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 2551.
 
-El IMPLAN evaluará los fondos y recursos que crea necesarios, en conjunto con la Secretaría de Finanzas y Administración y las dependencias ejecutoras de los programas.
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente evaluará los fondos y recursos que crea necesarios, en conjunto con la Secretaría de Finanzas y Administración y las dependencias ejecutoras de los programas.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
 ###### Artículo 2552.
 
-El IMPLAN en conjunto de la Secretaría de Finanzas y administración gestionarán la realización de evaluaciones a los fondos, recursos y programas que se considere necesarios y cursos de capacitación en materia de Presupuesto Basado en Resultados y Sistemas de Evaluación del Desempeño (PBR - SED).
+La Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente en conjunto de la Secretaría de Finanzas y administración gestionarán la realización de evaluaciones a los fondos, recursos y programas que se considere necesarios y cursos de capacitación en materia de Presupuesto Basado en Resultados y Sistemas de Evaluación del Desempeño (PBR - SED).
 
 T R A N S I T O R I O S :
 
@@ -24828,3 +25146,23 @@ Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del
 Artículo Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Cuarto.- Cúmplase.
+
+P.O. 14 DE JUNIO DE 2021.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO QUE SE RELACIONAN CON LA “REFORMA AL CÓDIGO MUNICIPAL DE CALVLLLO, AGS”.]</small>
+
+Artículo Primero. Se reforma el Código Municipal de Calvillo, Ags., en los siguientes términos:
+
+[…]
+
+Artículo Segundo.- Todos los artículos del Código Municipal de Calvillo, Ags., y demás reglamentación municipal que mencionan Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente se refieren a la Secretaría de Obras Públicas, lo anterior para todos los efectos legales a los que haya lugar.
+
+Artículo Tercero.- Todos los artículos del Código Municipal de Calvillo, Ags., y demás reglamentación municipal que mencionan Dirección de Desarrollo Urbano se refieren a la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, lo anterior para todos los efectos legales a los que haya lugar.
+
+Artículo Cuarto.- Todos los artículos del Código Municipal de Calvillo, Ags, y demás reglamentación municipal que mencionan Departamento de Ecología se refieren a la Dirección de Medio Ambiente, lo anterior para todos los efectos legales a los que haya lugar.
+
+Artículo Quinto.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Sexto.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Séptimo.- Cúmplase.
