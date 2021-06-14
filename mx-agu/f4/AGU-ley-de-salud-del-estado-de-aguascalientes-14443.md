@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2021-05-24"
+last_updated: "2021-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -285,13 +285,17 @@ XXIII.- Promover, orientar, fomentar y apoyar las acciones en materia de salubri
 
 XXIV.- Promover la donación de órganos y tejidos, y células de seres humanos, y establecer los mecanismos necesarios para la donación y trasplante de órganos en las instituciones de Salud del Estado;
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XXV.- Fomentar, promover y desarrollar unidades administrativas para el almacenamiento y desarrollo de la investigación científica en el área de estudio de las células madre; y
+XXV.- Fomentar, promover y desarrollar unidades administrativas para el almacenamiento y desarrollo de la investigación científica en el área de estudio de las células madre;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXIV], P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2021)</small>
 
-XXVI.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XXVI.- Desarrollar campañas de información, promoción y sensibilización en materia de uso correcto de medicamentos bajo prescripción médica, así como los riesgos para la salud por el uso inadecuado de antibióticos y otros antimicrobianos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2021)</small>
+
+XXVII.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -961,9 +965,17 @@ V.- En la formulación de sugerencias para mejorar los servicios de salud;
 
 VI.- En la información a las autoridades sanitarias acerca de los efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos;
 
-VII.- En la información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-VIII.- En otras actividades que coadyuven a la protección de la salud.
+VII.- En la información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2021)</small>
+
+VIII.- Fomentar y promover el uso correcto de antibióticos y otros antimicrobianos, exclusivamente bajo prescripción médica.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2021)</small>
+
+IX.- En otras actividades que coadyuven a la protección de la salud.
 
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2015)</small>
 
@@ -4073,59 +4085,11 @@ P.O. 24 DE MAYO DE 2021.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL ACUERDO GENERAL 1/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE COMIENZO DE FUNCIONES DEL JUZGADO OCTAVO DE DISTRITO EN EL ESTADO DE SAN LUIS POTOSÍ, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y SEDE INDICADAS".]
+P.O. 14 DE JUNIO DE 2021.
 
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de febrero de dos mil diecisiete, con excepción de lo previsto en el transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 563.- SE REFORMA (SIC) LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 9° Y LA FRACCIÓN VIII DEL ARTÍCULO 64 Y SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 9° Y UNA FRACCIÓN IX AL ARTÍCULO 64 DE LA LEY DE SALUD PARA EL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
-
-TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, vigente a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, continuará aplicándose hasta las ocho horas con veintinueve minutos del trece de marzo de dos mil diecisiete.
-
-A partir de las ocho horas con treinta minutos del propio trece de marzo de dos mil diecisiete, las guardias de turno en términos del artículo 5 del presente Acuerdo quedarán como sigue:
-
-PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE CORRESPONDE LA GUARDIA
-
-Del 13 al 20 de marzo de 2017 Juzgado Octavo de Distrito en el Estado de San Luis Potosí, con
-
-residencia en la ciudad del mismo nombre
-
-Del 20 al 27 de marzo de 2017 Juzgado Primero de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre
-
-Del 27 de marzo al 3 de abril de 2017 Juzgado Segundo de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre
-
-Del 3 al 10 de abril de 2017 Juzgado Tercero de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre
-
-Del 10 al 17 de abril de 2017 Juzgado Cuarto de Distrito en el Estado de San Luis Potosí, con
-
-residencia en la ciudad del mismo nombre
-
-Del 17 al 24 de abril de 2017 Juzgado Sexto de Distrito en el Estado de San Luis Potosí, con
-
-residencia en la ciudad del mismo nombre
-
-Del 24 de abril al 1 de mayo de 2017 Juzgado Octavo de Distrito en el Estado de San Luis Potosí, con
-
-residencia en la ciudad del mismo nombre
-
-Y así sucesivamente de forma semanal.
-
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción IX, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. ...
-
-I. a VIII. ...
-
-IX. ...
-
-1. a 2. ...
-
-3. Ocho juzgados de Distrito en el Estado de San Luis Potosí: seis con sede en la ciudad del mismo nombre; y dos con residencia en Ciudad Valles.
-
-X. a XXXII. ...".
-
-D.O.F. 3 DE MARZO DE 2017.
+ÚNICO.- El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES ADSCRITOS A LOS CENTROS DE JUSTICIA PENAL FEDERAL PARA CONOCER DE DELITOS COMETIDOS EN EL EXTRANJERO Y EXTENSIONES DEL TERRITORIO NACIONAL”.]
 
