@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2021-05-24"
+last_updated: "2021-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -247,13 +247,17 @@ XXIII.- Promover, orientar, fomentar y apoyar las acciones en materia de salubri
 
 XXIV.- Promover la donación de órganos y tejidos, y células de seres humanos, y establecer los mecanismos necesarios para la donación y trasplante de órganos en las instituciones de Salud del Estado;
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XXV.- Fomentar, promover y desarrollar unidades administrativas para el almacenamiento y desarrollo de la investigación científica en el área de estudio de las células madre; y
+XXV.- Fomentar, promover y desarrollar unidades administrativas para el almacenamiento y desarrollo de la investigación científica en el área de estudio de las células madre;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXIV], P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2021)</small>
 
-XXVI.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XXVI.- Desarrollar campañas de información, promoción y sensibilización en materia de uso correcto de medicamentos bajo prescripción médica, así como los riesgos para la salud por el uso inadecuado de antibióticos y otros antimicrobianos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2021)</small>
+
+XXVII.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -923,9 +927,17 @@ V.- En la formulación de sugerencias para mejorar los servicios de salud;
 
 VI.- En la información a las autoridades sanitarias acerca de los efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos;
 
-VII.- En la información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-VIII.- En otras actividades que coadyuven a la protección de la salud.
+VII.- En la información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2021)</small>
+
+VIII.- Fomentar y promover el uso correcto de antibióticos y otros antimicrobianos, exclusivamente bajo prescripción médica.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2021)</small>
+
+IX.- En otras actividades que coadyuven a la protección de la salud.
 
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2015)</small>
 
@@ -4032,3 +4044,9 @@ P.O. 24 DE MAYO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 563.- SE REFORMA (SIC) LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 9° Y LA FRACCIÓN VIII DEL ARTÍCULO 64 Y SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 9° Y UNA FRACCIÓN IX AL ARTÍCULO 64 DE LA LEY DE SALUD PARA EL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
