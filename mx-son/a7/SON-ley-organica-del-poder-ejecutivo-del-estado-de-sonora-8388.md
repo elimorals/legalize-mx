@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2021-05-04"
+last_updated: "2021-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "SON"
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE MAYO DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 14 DE JUNIO DE 2021.]</small>
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -1217,7 +1219,7 @@ A. En materia de fomento del desarrollo económico:
 
 > <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
 
-I. Proponer las políticas y ejecutar los programas relativos al desarrollo económico del Estado en las ramas de la industria, el comercio, los servicios y la minería, de conformidad con los planes nacional y estatal de desarrollo y las leyes de la materia;
+I.- Proponer las políticas y ejecutar los programas relativos al desarrollo económico del Estado en las ramas de la industria, el comercio, los servicios y la minería, de conformidad con los planes nacional y estatal de desarrollo y las leyes de la materia;
 
 II.- Promover el crecimiento económico de las regiones de la Entidad sobre bases de desarrollo equilibrado y sustentable, considerando sus ventajas competitivas;
 
@@ -1227,13 +1229,19 @@ IV.- Proponer proyectos que propicien el desarrollo económico y equilibrado de 
 
 > <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
-V. Promover la creación y fomento del desarrollo de la micro, pequeña y mediana empresa, así como la creación de parques industriales;
+V.- Promover la creación y fomento del desarrollo de la micro, pequeña y mediana empresa, así como la creación de parques industriales;
 
-VI.- Asesorar a los sectores social y privado, en el establecimiento de nuevas empresas;
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN VII.]</small>
 
-> <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
+(REFORMADA, B.O. 16 DE MARZO DE 2021) (F. DE E., B.O. 14 DE JUNIO DE 2021)
 
-VII.- Organizar, apoyar y difundir estudios e investigaciones que contribuyan al desarrollo de la productividad y el crecimiento económico de las empresas, de la industria y de la minería;
+VI.- Organizar, apoyar y difundir estudios e investigaciones que contribuyan al desarrollo de la productividad y el crecimiento económico de las empresas, de la industria y de la minería;
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN VI.]</small>
+
+> <small>(F. DE E., B.O. 14 DE JUNIO DE 2021)</small>
+
+VII.- Organizar, apoyar y difundir estudios e investigaciones que contribuyan al desarrollo de la productividad y el crecimiento económico de las empresas, de la industria, del turismo y de la minería;
 
 VIII.- Evaluar anualmente la aplicación de los incentivos que se otorguen conforme a la Ley de Fomento Económico y comunicar sus resultados a la Secretaría de Hacienda y al Titular del Poder Ejecutivo;
 
