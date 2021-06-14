@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2021-04-19"
+last_updated: "2021-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2021.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -319,13 +319,17 @@ XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
 XIX. Derechos de niñas, niños y adolescentes migrantes;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión; y
+XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radio- difusión;
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XXI. A mantener vínculos con sus progenitores sin que alguno de éstos pueda impedirlo u obstaculizarlo mediante la manipulación de la conciencia del menor.
+XXI. Derecho a mantener vínculos con sus progenitores sin que alguno de éstos pueda impedirlo u obstaculizarlo mediante la manipulación de la conciencia del menor; y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+XXII. Derecho a una alimentación suficiente, nutritiva y de calidad que asegure su pleno desarrollo físico y mental; incluyendo el derecho a la lactancia materna, se procurará sea exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, siempre que las condiciones de salud del bebé, la salud y la voluntad de la madre lo permitan.
 
 Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -335,7 +339,9 @@ Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito 
 
 Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a la supervivencia y al desarrollo.
 
-Las autoridades del Estado de Aguascalientes y las de sus Municipios, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
+
+Las autoridades del Estado de Aguascalientes y las de sus Municipios, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, velando por que en todo momento dichas acciones garanticen el interés superior de las niñas, niños y adolescentes; así como para investigar y sancionar efectivamente los actos de privación de la vida.
 
 ###### Artículo 15.
 
@@ -737,13 +743,17 @@ XVI. Establecer medidas tendientes a que en los servicios de salud se detecten y
 
 XVII. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XVIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad; y
+XVIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad;
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XIX. Diseñar e implementar las políticas y programas necesarios para la prevención y protección de la integridad sexual de niñas, niños y adolescentes.
+XIX. Diseñar e implementar las políticas y programas necesarios para la prevención y protección de la integridad sexual de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+XX. Asegurar una alimentación nutritiva, suficiente y de calidad que permita lograr su normal crecimiento y óptimo desarrollo físico y mental.
 
 Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
@@ -1417,7 +1427,9 @@ II. Especializado en proporcionar atención en actividades de estimulación, for
 
 III. El número de personas que presten sus servicios en cada centro de asistencia social será determinado en función de la capacidad económica de éstos, así como del número de niñas, niños y adolescentes que tengan bajo su custodia en forma directa e indirecta, debiendo contar con, por lo menos, una persona de atención por cada cuatro niños o niñas menores de un año, y una persona de atención por cada ocho mayores de esa edad;
 
-IV. Además del personal señalado en el presente artículo, el centro de asistencia social podrá solicitar la colaboración de instituciones, organizaciones o dependencias que brinden apoyo en psicología, trabajo social, derecho, pedagogía, y otros para el cuidado integral de las niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+IV. Además del personal señalado en las fracciones anteriores, los centros de asistencia social podrán solicitar la colaboración y celebrar convenios escritos con instituciones públicas, universidades públicas o privadas y organizaciones de la sociedad civil, a fin de que brinden apoyo en psicología, trabajo social, derecho, pedagogía y otras disciplinas para el cuidado integral de las niñas, niños y adolescentes;
 
 V. Brindar, de manera permanente, capacitación y formación especializada a su personal; y
 
@@ -1539,9 +1551,13 @@ III. Promover la libre manifestación de ideas de niñas, niños y adolescentes 
 
 IV. Ser enlace entre la administración pública municipal y niñas, niños y adolescentes que deseen manifestar inquietudes;
 
-V. Recibir quejas y denuncias por violaciones a los derechos contenidos en la Ley General o en esta Ley y demás disposiciones aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección Local, sin perjuicio que ésta pueda recibirla directamente;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-VI. Auxiliar a la Procuraduría Local de Protección competente en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
+V. Recibir quejas y denuncias por violaciones a los derechos contenidos en la Ley General o en esta Ley y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+VI. Solicitar a la Procuraduría Local de Protección, las medidas urgentes de protección que se consideren necesarias para las niñas, niños y adolescentes de los Municipios y auxiliar en las acciones que correspondan al ámbito de sus atribuciones;
 
 VII. Promover la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes;
 
@@ -1553,11 +1569,11 @@ X. Coadyuvar en la integración del sistema de información a nivel nacional de 
 
 XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales;
 
-XII. Contar con un programa de atención y con un área o con servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias locales y federales competentes.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2020)</small>
+XII. Contar con un programa de atención, así mismo podrán contar (sic) una Procuraduría de Protección Municipal como autoridad de primer contacto con niñas, niños o adolescentes, misma que será el enlace con las instancias locales y federales competentes.
 
-La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos de las niñas, niños y adolescentes, contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección Local de forma inmediata;
+La Procuraduría de Protección Municipal coordinará a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos de las niñas, niños y adolescentes, contenidos en la presente Ley, a efecto de que, en caso de necesidad de medidas urgentes de protección, se dé vista a la Procuraduría de Protección Local de forma inmediata;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MAYO DE 2020)</small>
 
@@ -1573,9 +1589,11 @@ XIV. Las demás que establezcan los ordenamientos locales y aquéllas que derive
 
 Para asegurar una adecuada protección de los derechos de niñas, niños y adolescentes en el Estado de Aguascalientes, se crea el Sistema Local de Protección, como instancia encargada de establecer instrumentos, políticas, procedimientos, servicios, programas y acciones de protección de los derechos de niñas, niños y adolescentes. Garantizará además, la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 112.
 
-El Sistema Local de Protección tendrá, cuando menos, las siguientes atribuciones:
+El Sistema Local de Protección tendrá, cuando menos, las siguientes atribuciones y obligaciones:
 
 I. Instrumentar y articular sus políticas públicas en concordancia con la política nacional;
 
@@ -1617,17 +1635,21 @@ XIX. Coordinar las acciones de la Procuraduría de Protección Local y de las de
 
 XX. Celebrar convenios de coordinación en la materia que correspondan en el ámbito de sus atribuciones;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2021)</small>
 
 XXI. Coordinarse con los Sistemas Municipales de Protección, que establezcan los Municipios del Estado para el cumplimiento de lo dispuesto en esta Ley y en la Ley General;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XXII. Diseñar e implementar las políticas y programas necesarios para la prevención de la violación de los derechos de niñas, niños y adolescentes; y
+XXII. Realizar por sí o por convenio con terceros especialistas, brigadas y recorridos institucionales e interinstitucionales diurnos y nocturnos, encuestas anuales, censos de población infantil en situación de calle, a fin de sectorizar a las familias y su problemática, y atender las necesidades primarias en las zonas identificadas de alto riesgo, debiendo enviar al Congreso del Estado de Aguascalientes, el análisis y las estadísticas de los resultados de las anteriores actividades;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MAYO DE 2020)</small>
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XXII. Las demás que les otorguen otras disposiciones aplicables.
+XXIII. Implementar políticas, acciones y convenios con instituciones públicas y organizaciones de la sociedad civil, en los que se establezcan lineamientos encaminados a la protección y dignificación de la población infantil y juvenil callejera, donde se abran espacios de diálogo para atender a sus necesidades y con base en ellas se establezcan parámetros para brindarles una atención integral; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ], P.O. 14 DE JUNIO DE 2021)</small>
+
+XXIV. Las demás que les otorguen otras disposiciones aplicables.
 
 ###### Artículo 113.
 
@@ -1783,9 +1805,15 @@ En el ejercicio de sus funciones, la Procuraduría de Protección Local podrá s
 
 Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección Local deberá establecer contacto y trabajar conjuntamente con las autoridades administrativas de asistencia social, de servicios de salud, de educación, de protección social, de cultura, deporte y con todas aquellas con las que sea necesario para garantizar los derechos de niñas, niños y adolescentes.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2021)</small>
+
+La Procuraduría de Protección Local remitirá a la Procuraduría de Protección Municipal respectiva, la Información relativa a los expedientes en los que se ordenen medidas de protección de niñas, niños y adolescentes, a fin de que se dé el seguimiento y auxilio correspondientes dentro de sus Municipios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 119.
 
-La Procuraduría de Protección Local, tendrá las atribuciones siguientes:
+La Procuraduría de Protección Local, tendrá las atribuciones y obligaciones siguientes:
 
 I. Procurar la protección integral de los derechos de niñas, niños y adolescentes previstos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Ley General, esta Ley y demás disposiciones aplicables. Dicha protección integral deberá abarcar, por lo menos:
 
@@ -1801,7 +1829,9 @@ III. Coordinar la ejecución y dar seguimiento a las medidas de protección para
 
 IV. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
 
-V. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+
+V. Denunciar ante el Ministerio Público todos aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes, así como en hechos en donde se haga participar a menores de edad en actividades delictivas; auxiliando a la autoridad correspondiente con la información que se le solicite para la investigación de estos;
 
 VI. Solicitar al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales, las siguientes:
 
@@ -1839,9 +1869,9 @@ XV. Realizar y promover estudios e investigaciones para fortalecer las acciones 
 
 XVI. Recibir solicitud de activación de Alerta Amber por motivo de desaparición de niñas, niños o adolescentes, y en su caso proceder inmediatamente de conformidad con el protocolo nacional o la normatividad aplicable;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
-XVII. Recibir del C4, de las Instituciones Policiales a que se refiere la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, o del Poder Judicial, los informes de situaciones en que exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes;
+XVII. Recibir del C4, de las Instituciones Policiales a que se refiere la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes o del Poder Judicial, los informes de situaciones en que exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, debiendo actuar de forma inmediata según corresponda;
 
 > <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
 
@@ -1901,17 +1931,63 @@ El Reglamento Interior del Sistema DIF Estatal, conforme a la demanda de servici
 
 Los Sistemas Municipales serán presididos por los Presidentes Municipales, y estarán integrados por las dependencias e instituciones vinculadas con la protección de los derechos de niñas, niños y adolescentes.
 
-Los Sistemas Municipales contarán con una Secretaría Ejecutiva y garantizarán la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
-El eje rector de los Sistemas Municipales será el fortalecimiento familiar con el fin de proteger de forma integral los derechos de las niñas, niños y adolescentes del Estado.
+Los Sistemas Municipales podrán contar con una Procuraduría de Protección Municipal de los Derechos de Niñas, Niños y Adolescentes, la cual será integrada por lo menos por un titular, así como el personal que las disposiciones presupuestales le permitan a cada Municipio.
 
-Cada Sistema Municipal contará con una Secretaría Ejecutiva cuyo titular será nombrado y removido libremente por el Presidente Municipal, quien deberá contar con experiencia en materia de asistencia social.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
 
-Los Sistemas Municipales funcionarán y se organizarán de acuerdo a los establecidos sus respectivos Ayuntamientos; se reunirán por lo menos dos veces al año, para sesionar válidamente se requerirá el quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
+El eje rector de los Sistemas Municipales será el fortalecimiento familiar con el fin de proteger de forma integral los derechos de las niñas, niños y adolescentes de sus municipios. Garantizarán la participación del sector público y privado, de las familias y sus niñas, niños y adolescentes en la instrucción subsidiaria de la asistencia social.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
+
+Los titulares de las Procuradurías de Protección Municipal serán nombrados y removidos por el Presidente Municipal correspondiente, quienes deberán contar con título de licenciado en Derecho y experiencia comprobada en materia de asistencia social y derecho familiar.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
+
+Los Sistemas Municipales se reunirán por lo menos cuatro veces al año, para sesionar válidamente se requerirá el quorum de la mayoría de sus miembros, sus decisiones se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad. En lo demás, los Sistemas Municipales funcionarán y se organizarán de acuerdo con lo establecido en la reglamentación municipal.
 
 ###### Artículo 123.
 
 Corresponde a los municipios, de conformidad con la Ley General y esta Ley, las atribuciones contenidas en el artículo 110 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2021)</small>
+
+Artículo 123 A. Las Procuradurías de Protección Municipal, tendrán las atribuciones siguientes:
+
+I. Procurar la protección y restitución integral de los derechos de niñas, niños y adolescentes, principalmente, en los ámbitos jurídico, psicológico y asistencial;
+
+II. Prestar asesoría jurídica y representación a niñas, niños y adolescentes;
+
+III. Prestar asesoría psicológica a niñas, niños y adolescentes;
+
+IV. Fungir como conciliadoras y mediadoras en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
+
+V. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
+
+VI. Recibir de las autoridades municipales competentes, los informes de situaciones en que exista un riesgo Inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, para proceder según corresponda;
+
+VII. Recibir por escrito, medios digitales o telefónicos, debidamente autorizados, de forma personal o anónima todas las solicitudes de intervención relacionadas con posibles violaciones a los derechos de niñas, niños y adolescentes en el territorio del Municipio correspondiente;
+
+Dentro de las cuarenta y ocho horas siguientes a la recepción de las solicitudes de intervención, la Procuraduría deberá emitir el acuerdo respectivo señalando el tratamiento que se dará a éstas.
+
+VIII. Presentar de forma inmediata a la Procuraduría de Protección Local, las denuncias y solicitudes en las que sean necesarias medidas de protección porque exista riesgo inminente contra la vida, integridad o libertad niñas, niños y adolescentes;
+
+IX. Dar seguimiento a las medidas de protección ordenadas por las autoridades competentes, que recaigan sobre menores de edad habitantes del Municipio correspondiente;
+
+X. Promover la participación de los sectores público, social y privado de los Municipios, en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
+
+XI. Recibir solicitudes de activación de Alerta AMBER por motivo de desaparición de niñas, niños o adolescentes de los Municipios correspondientes, para remitirlas de forma inmediata a la Procuraduría de Protección Local;
+
+XII. Canalizar a la Procuraduría de Protección Local a las personas de los Municipios con la intención de adoptar;
+
+XIII. Asesorar a las autoridades competentes y a los sectores público, social y privado de los Municipios, en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
+
+XIV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades municipales en competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
+
+XV. Realizar de manera permanente y continua, campanas de información y divulgación acerca de los derechos de las niñas, niños y adolescentes, así como de los mecanismos y procedimientos para presentar denuncias o solicitudes de intervención; y
+
+XVI. Las demás que les confieran otras disposiciones aplicables.
 
 ### CAPÍTULO ÚNICO. De las Infracciones y Sanciones Administrativas
 
@@ -2009,9 +2085,11 @@ Las sanciones a las que se refiere el artículo anterior serán impuestas por la
 
 En el caso de que la transgresión constituya un hecho punible penalmente, se hará del conocimiento del Ministerio Público, a efecto de que se proceda en los términos de su competencia.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 132.
 
-Tratándose de servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación del Poder Judicial del Estado de Aguascalientes; del Congreso del Estado de Aguascalientes; u de órganos constitucionales autónomos o de los Municipios, las sanciones serán impuestas por los órganos que establezcan sus respectivos ordenamientos legales.
+Tratándose de servidores públicos de la Administración Pública, del Poder Judicial del Estado de Aguascalientes, del Congreso del Estado de Aguascalientes, de órganos constitucionales autónomos o de los Municipios, las sanciones administrativas serán impuestas por los órganos que establezcan sus respectivos ordenamientos legales.
 
 ###### Artículo 133.
 
@@ -2328,3 +2406,19 @@ P.O. 19 DE ABRIL DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 561.- SE REFORMAN LOS ARTÍCULOS 14, PÁRRAFO SEGUNDO; 103 FRACCIÓN IV; 110 FRACCIONES V, VI Y XII; 112 PRIMER PÁRRAFO, Y LAS FRACCIONES XXI Y XXII, ARTÍCULO 119 PRIMER PÁRRAFO, Y LAS FRACCIONES V Y XVII; ARTÍCULO 122 PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO; 132; Y SE ADICIONAN LAS FRACCIONES XXIII Y XXIV AL ARTÍCULO 112; UN CUARTO PÁRRAFO AL ARTÍCULO 118; EL ARTÍCULO 123 A DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Las autoridades competentes contarán con un plazo de 180 días naturales para hacer las adecuaciones normativas correspondientes.
+
+P.O. 14 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 564.- SE REFORMAN LOS ARTÍCULOS 13, FRACCIONES XX Y XXI Y 50, FRACCIONES XVIII Y XIX; Y SE ADICIONA UNA FRACCIÓN XXII AL ARTÍCULO 13 Y UNA FRACCIÓN XX AL ARTÍCULO 50 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
