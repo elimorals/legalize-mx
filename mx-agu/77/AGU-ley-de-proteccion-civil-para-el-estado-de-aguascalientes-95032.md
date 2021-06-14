@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-civil-para-el-estado-de-aguascalientes-95032"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-08"
-last_updated: "2017-12-25"
+last_updated: "2021-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2013.
 
@@ -278,6 +278,24 @@ XIII. Promover la constitución de grupos voluntarios integrados al Sistema Muni
 XIV. Coordinar las asociaciones de vecinos constituidas conforme a las disposiciones municipales.
 
 Las dependencias y organismos del sector público, como también las instituciones y empresas del sector privado, serán las encargadas de instrumentar en el ámbito de sus funciones la ejecución de los programas de protección civil, atendiendo las necesidades específicas de prevención y atención de riesgos para seguridad de su personal y bienes.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 11-A.
+
+Corresponde a la Secretaría General de Gobierno del Poder Ejecutivo del Estado, el ejercicio de las siguientes atribuciones:
+
+I.- Apoyar, coordinar y evaluar a las diversas dependencias y entidades de la Administración Pública Estatal que, por sus funciones, participen en las labores de protección civil;
+
+II.- Supervisar la prestación de las acciones de prevención y auxilio en caso de emergencias o desastres;
+
+III.- Gestionar la incorporación de los criterios de prevención y auxilio dentro de las leyes, reglamentos y demás disposiciones en materia de asentamientos humanos, medio ambiente, salud, construcción y demás relacionados con la materia de protección civil;
+
+IV.- Elaborar y convocar a las instancias correspondientes, para el estudio y emisión de normas técnicas estatales en materia de protección civil;
+
+V.- Coadyuvar con las autoridades federales, estatales y municipales en la adopción de acciones y medidas encaminadas a mejorar los sistemas de protección civil, y
+
+VI.- Las demás que le confiera la presente ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 12.
 
@@ -1592,3 +1610,11 @@ P.O. 25 DE DICIEMBRE DE 2017.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 562.- SE ADICIONA EL ARTÍCULO 11-A, A LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO
+
+El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
