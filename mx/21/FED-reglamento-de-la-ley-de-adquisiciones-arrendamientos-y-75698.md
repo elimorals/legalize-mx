@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-75698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-28"
-last_updated: "2020-11-13"
+last_updated: "2021-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-07-13"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2021.
 
 Reglamento publicado en la Octava Sección del Diario Oficial de la Federación, el miércoles 28 de julio de 2010.
 
@@ -1023,19 +1023,27 @@ Solamente los fallos de las licitaciones públicas internacionales bajo la cober
 
 En el caso de que los licitantes no proporcionen la dirección de correo electrónico a que se refiere la fracción VII del artículo 29 de la Ley, la convocante quedará eximida de la obligación de realizar el aviso a que hacen referencia los párrafos cuarto y quinto del artículo 37 de la Ley.
 
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2021)</small>
+
 ###### Artículo 59.
 
-En las licitaciones públicas en las que se prevea la adjudicación del contrato mediante el procedimiento de abastecimiento simultáneo a que se refieren los artículos 29, fracción XII, y 39 de la Ley, las convocantes considerarán lo siguiente:
+En todos los procedimientos de contratación podrá preverse la adjudicación del contrato mediante el abastecimiento simultáneo a que se refieren los artículos 29, fracción XII y 39 de la Ley, para lo cual las convocantes considerarán lo siguiente:
 
-I. En la convocatoria a la licitación pública indicarán el número de fuentes de abastecimiento requeridas, los rangos en cantidades o porcentajes de los bienes o servicios que se asignarán a cada una y el porcentaje diferencial de precio considerado para determinar las proposiciones susceptibles de ser consideradas para la adjudicación del contrato, el cual no podrá ser superior al diez por ciento respecto de la proposición ganadora;
+I. Sólo en licitaciones públicas deberá acreditarse que no se limita la libre participación, mientras que en invitaciones a cuando menos tres personas y adjudicaciones directas, se estará a lo dispuesto por el artículo 40, párrafo tercero de la Ley;
 
-II. En caso de omisión de lo indicado en la fracción anterior, la adjudicación del contrato correspondiente se efectuará a favor del licitante que ofrezca las mejores condiciones en cada partida o concepto de la licitación pública;
+II. En la convocatoria a la licitación pública, en la invitación a cuando menos tres personas o en la solicitud de cotización, las dependencias y entidades indicarán el número de fuentes de abastecimiento requeridas, los rangos en cantidades o porcentajes de los bienes o servicios que se asignarán a cada una y el porcentaje diferencial de precio considerado para determinar las proposiciones susceptibles de ser consideradas para la adjudicación del contrato, el cual no podrá ser superior al diez por ciento respecto de la proposición ganadora.
 
-III. Al licitante cuya proposición haya sido seleccionada en primer lugar se le adjudicará el contrato por una cantidad igual o superior al cuarenta por ciento de los requerimientos, conforme al precio de su proposición, salvo que haya ofrecido una cantidad inferior;
+Tratándose de la adquisición de medicamentos e insumos para la salud, no será aplicable el porcentaje diferencial de precio referido, siempre que como consecuencia de caso fortuito o fuerza mayor se requiera garantizar el abasto de los bienes, previa justificación del área requirente;
 
-IV. La asignación por el porcentaje que reste después de aplicar lo dispuesto en la fracción anterior, se hará conforme al orden de evaluación, a los licitantes cuyos precios se encuentren dentro del rango indicado por la convocante, conforme a la fracción I de este artículo, y
+III. En caso de omisión de lo indicado en la fracción anterior, la adjudicación del contrato correspondiente se efectuará a favor del licitante que ofrezca las mejores condiciones en cada partida o concepto de la licitación pública;
 
-V. Si alguna cantidad queda pendiente de asignación, según se precise en la convocatoria a la licitación pública, se podrá asignar al proveedor seleccionado en primer lugar y en caso de que éste no acepte, se podrá adjudicar el contrato respectivo al licitante que haya obtenido el segundo lugar, siempre que la diferencia en precio no sea superior al porcentaje señalado en la convocatoria a la licitación pública, el cual no podrá exceder el porcentaje indicado en la fracción I de este artículo, y en caso de no aceptar, se declarará desierta y se procederá a efectuar otro procedimiento de contratación sólo por dicha cantidad.
+IV. Al licitante cuya proposición haya sido seleccionada en primer lugar se le adjudicará el contrato por una cantidad igual o superior al cuarenta por ciento de los requerimientos, conforme al precio de su proposición, salvo que haya ofrecido una cantidad inferior;
+
+V. La asignación por el porcentaje que reste después de aplicar lo dispuesto en la fracción anterior, se hará conforme al orden de evaluación, a los licitantes cuyos precios se encuentren dentro del rango indicado por la convocante, conforme a la fracción I de este artículo, y
+
+VI. Si alguna cantidad queda pendiente de asignación, según se precise en la convocatoria a la licitación pública, se podrá asignar al proveedor seleccionado en primer lugar y en caso de que este no acepte, se podrá adjudicar el contrato respectivo al licitante que haya obtenido el segundo lugar, siempre que la diferencia en precio no sea superior al porcentaje señalado en la convocatoria a la licitación pública, el cual no podrá exceder el porcentaje indicado en la fracción II de este artículo, y en caso de no aceptar, se declarará desierta y se procederá a efectuar otro procedimiento de contratación sólo por dicha cantidad.
+
+Tratándose de la adquisición de medicamentos e insumos para la salud, no será aplicable el porcentaje diferencial de precio referido, siempre que como consecuencia de caso fortuito o fuerza mayor se requiera garantizar el abasto de los bienes previa justificación del área requirente.
 
 ### CAPÍTULO TERCERO. DE LOS TESTIGOS SOCIALES
 
@@ -1996,3 +2004,9 @@ D.O.F. 13 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 92 DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 59 DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
