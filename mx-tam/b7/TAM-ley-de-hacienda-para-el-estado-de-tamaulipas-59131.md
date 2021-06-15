@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2020-12-17"
+last_updated: "2021-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2021.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -2829,8 +2829,6 @@ b).- Por la actualización anual del Plan de Manejo, quince veces el valor diari
 
 ### CAPITULO VIII. DERECHOS DE COOPERACION
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
 ###### Artículo 76 Bis.
 
 El objetivo y finalidad del derecho es que la Hacienda Pública del Estado cuente con recursos que le permitan financiar las políticas y programas de adaptación al cambio climático y la mitigación de emisiones de gases y compuestos de efecto invernadero, al fomento de la sustentabilidad en las actividades económicas, industriales y productivas en el Estado, así como para cumplir con las obligaciones de protección a la salud, al ambiente y a la preservación y restauración del equilibrio ecológico, de conformidad con lo establecido por los artículos 4º, 25 y 73, fracción XXIX-G, de la Constitución Política de los Estados Unidos Mexicanos, así como el diverso 16 de la Constitución Política del Estado Libre y Soberano de Tamaulipas.
@@ -3057,11 +3055,11 @@ V.- Régimen de propiedad en condominio habitacional, 4 por ciento el valor diar
 
 ###### Artículo 79.
 
-Se causarán derechos por cooperación para ejecución de obra de interés público en términos de la Ley de Derechos de Cooperación para la Ejecución de Obras de Interés-Público.
+(DEROGADO, P.O. 15 DE JUNIO DE 2021)
 
 ###### Artículo 80.
 
-Los propietarios o poseedores de predios que se encuentren dentro del área de beneficio de las obras públicas, causarán los derechos de cooperación que establece el Decreto citado en el artículo anterior.
+(DEROGADO, P.O. 15 DE JUNIO DE 2021)
 
 ### CAPITULO XI. DE LOS DERECHOS POR LOS SERVICIOS DE ADMINISTRACIÓN Y CONTROL EN MATERIA AGROPECUARIA
 
@@ -4116,3 +4114,11 @@ La Secretaría podrá, mediante reglas de carácter general, establecer facilida
 ###### ARTÍCULO CUARTO.
 
 En materia de derechos referente a los servicios proporcionados con relación a la protección contra riesgos sanitarios, comprendidos en la adición al artículo 93, fracción VIII de un numeral 40 de la Ley de Hacienda para el Estado de Tamaulipas, se determina que solamente el cobro estipulado en la referida adición entrará en vigor una vez concluida la emergencia sanitaria provocada por el virus COVID-19, ya que es fundamental se cumplan las condiciones sanitarias adecuadas reuniendo todos los requisitos inherentes al tema sobre el traslado de cadáveres o sus partes.
+
+P.O. 15 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-530 MEDIANTE EL CUAL SE DEROGAN LOS ARTÍCULOS 79 Y 80 DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
