@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-mejora-regulatoria-en-el-estado-de-tamaulipas-y-106
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-18"
-last_updated: "2019-08-20"
+last_updated: "2021-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 18 de marzo de 2015.
 
@@ -209,9 +209,17 @@ X. Se generarán los mecanismos de evaluación de impacto ex ante y ex post de l
 
 XI. Se propiciará la materialización de la mejora regulatoria y la simplificación administrativa en beneficio de la sociedad;
 
-XII. Las agencias gubernamentales coadyuvarán para que sea más eficiente la administración pública estatal y municipal; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
 
-XIII. Se promoverá la transparencia en la elaboración y aplicación de la regulación para abatir la corrupción administrativa y propiciar el beneficio para la sociedad.
+XII. Las agencias gubernamentales coadyuvarán para que sea más eficiente la administración pública estatal y municipal;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
+
+XIII. Se promoverá la transparencia en la elaboración y aplicación de la regulación para abatir la corrupción administrativa y propiciar el beneficio para la sociedad; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2021)</small>
+
+XIV. Verificará que la regulación cuente con perspectiva de género.
 
 ###### ARTÍCULO 7.
 
@@ -1144,6 +1152,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-817”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIV-534 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XII Y XIII Y SE ADICIONA LA FRACCIÓN XIV, DEL PÁRRAFO 2 DEL ARTÍCULO 6, DE LA LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
