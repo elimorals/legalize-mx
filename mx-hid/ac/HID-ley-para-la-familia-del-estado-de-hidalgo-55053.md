@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2020-12-02"
+last_updated: "2021-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -189,9 +189,7 @@ VIII.- La existencia de tutela entre los pretendientes;
 
 IX.- El adoptante no puede contraer matrimonio con el adoptado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-X.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando haya sido judicialmente comprobado siempre y cuando existan hijos de los ex cónyuges;
+X.- (DEROGADA, P.O. 15 DE JUNIO DE 2021)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -967,6 +965,14 @@ Si el monto de los gastos por concepto de alimentos no pudiera determinarse, el 
 
 El acreedor alimentista puede exigir el cumplimiento de la obligación ante el Juez Familiar cuando el deudor haya incurrido en mora.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2021)</small>
+
+Artículo 141 BIS.- Toda persona obligada al pago de pensión alimenticia-mediante sentencia firme o convenio debidamente ratificado ante el Juez de conocimiento, que incumpla con la obligación de dar alimentos por un periodo de tres meses consecutivos o discontinuos en un año, se constituirá en deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, formalice el descuento correspondiente.
+
+De no desvirtuarse este incumplimiento, el Juez de lo Familiar ordenará de inmediato su inscripción en el Registro de Deudoras y Deudores Alimentarios Morosos.
+
+La persona deudora alimentaria morosa que acredite ante el Juez de conocimiento, haber cumplido con el pago correspondiente podrá solicitar la cancelación de la inscripción.
+
 ## TITULO QUINTO. DEL ESTADO FAMILIAR
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
@@ -1017,9 +1023,17 @@ I.- Por voluntad expresa de los concubinos;
 
 II.- Por muerte de alguno de los concubinos;
 
-III.- Por unirse los concubinos en matrimonio entre ellos mismos o con persona distinta; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
 
-IV.- Por abandono de un concubino a otro.
+III.- Por unirse los concubinos en matrimonio entre ellos mismos o con persona distinta;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
+
+IV.- Por abandono de un concubino a otro; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2021)</small>
+
+V.- Por disolución conforme a las reglas del divorcio cuando con anterioridad haya estado inscrito o haya sido declarado judicialmente.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1027,7 +1041,9 @@ IV.- Por abandono de un concubino a otro.
 
 El concubinato declarado judicialmente tendrá los siguientes efectos:
 
-I.- Obtener el pago de la compensación que refiere el Artículo 476 de la Ley adjetiva de la materia.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
+
+I.- Obtener una compensación en términos de lo dispuesto en el Artículo 476 Bis de (sic) Código de Procedimientos Familiares para el Estado de Hidalgo.
 
 II.- A heredar conforme a las disposiciones contenidas en el Código Civil.
 
@@ -1189,7 +1205,7 @@ Contra la presunción del Artículo anterior se admite la prueba de haber sido f
 
 ###### Artículo 178.
 
-El adulterio de la esposa, no autoriza al marido para desconocer al hijo de su matrimonio; excepto que el nacimiento se le haya ocultado, o por haberse cometido adulterio en la época de la concepción y así se declara en sentencia ejecutoriada.
+(DEROGADO, P.O. 15 DE JUNIO DE 2021)
 
 ###### Artículo 179.
 
@@ -1361,6 +1377,10 @@ Atendiendo al principio del interés superior de los menores de edad, todas las 
 
 En la adopción plena el adoptado, tiene respecto a los adoptantes y la familia de éstos los mismos derechos, deberes y obligaciones del hijo consanguíneo, extinguiéndose con ello cualquier lazo con su familia de origen, excluyendo los impedimentos para contraer matrimonio.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2021)</small>
+
+Excepcionalmente y atendiendo al interés superior de la niñez, cuando el juez de conocimiento considere necesario el mantenimiento del vínculo biológico entre hermanos, deberá establecer las medidas para una sana convivencia, contacto y comunicación.
+
 ###### Artículo 206.
 
 Tienen derecho a adoptar:
@@ -1387,27 +1407,49 @@ Quienes pretendan adoptar, deberán satisfacer los requisitos siguientes según 
 
 I.- El consentimiento de quienes refiere el numeral 210 de este ordenamiento;
 
-II.- Tener los adoptantes una edad mínima de veinticinco años y plena capacidad de goce y de ejercicio;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
 
-III.- Tener por lo menos dieciocho años de edad más que el que se pretenda adoptar;
+II.- Tener uno o ambos adoptantes una edad mínima de veinticinco años y plena capacidad de goce y de ejercicio;
 
-IV.- Que entre los presuntos adoptantes y aquél a quien pretendan adoptar, exista una diferencia de edades no mayor de cuarenta y cinco años;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
 
-V.- Acreditar cuando menos tres años de matrimonio;
+III.- Tener por lo menos diecisiete años más que la persona que se pretenda adoptar.
+
+A juicio de la autoridad competente y previa motivación, se puede excusar el requisito de la edad y lo relativo a la diferencia de edad en cualquier adopción, especialmente cuando se atienda al interés superior de la niñez y la adolescencia.
+
+IV.- (DEROGADA, P.O. 15 DE JUNIO DE 2021)
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
+
+V.- Acreditar cuando menos un año de matrimonio;
 
 VI.- Tener recursos económicos suficientes para alimentar al menor o menores que se pretendan adoptar;
 
 VII.- Ser benéfica la adopción para el adoptado;
 
-VIII.- Que los adoptantes sean de buenas costumbres;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
+
+VIII.- Que los adoptantes tengan un modo honesto de vivir;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 IX.- Su idoneidad previa valoración psicológica y socioeconómica realizada a través del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo;
 
-X.- Tener buena salud; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
 
-XI.- Acreditar el concubinato debidamente inscrito.
+X.- Tener buena salud;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
+
+XI.- Acreditar el concubinato debidamente inscrito; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2021)</small>
+
+XII.- Que ninguno de los adoptantes haya sido sentenciado o se encuentre sujeto a proceso penal por el delito de feminicidio, violación, abuso sexual, violación a la intimidad sexual, estupro, aprovechamiento sexual, incumplimiento de las obligaciones alimentarias, sustracción de menores e incapaces, tráfico de menores y violencia familiar.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2021)</small>
+
+Cuando el juez de conocimiento lo considere necesario, se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente, atendiendo siempre al interés superior de la niñez.
 
 ###### Artículo 209.
 
@@ -1433,9 +1475,11 @@ c).- Se trate de menores expósitos o abandonados por más de seis meses consecu
 
 V.- Si el menor de edad a adoptar tiene más de doce años, deberá otorgar su consentimiento para la adopción.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2021)</small>
+
 ###### Artículo 211.
 
-Si el tutor, el Ministerio Público o el Sistema para el Desarrollo Integral de la Familia en el Estado, a través del titular de la Procuraduría de la Defensa del Menor y la Familia no consienten en la adopción, deberán expresar la causa en que se funden. El juez valorará la causa de la negativa y atendiendo al interés superior del menor de edad, podrá autorizar la adopción, cuando notare que la misma es conveniente para los intereses de éste.
+Si el tutor, el Ministerio Público o el Sistema para el Desarrollo Integral de la Familia en el Estado, a través del titular de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo no consienten en la adopción, deberán expresar la causa en que se funden. El juez valorará la causa de la negativa y atendiendo al interés superior de la niñez, podrá autorizar la adopción, cuando notare que la misma es conveniente para los intereses de éste.
 
 ###### Artículo 212.
 
@@ -1577,13 +1621,19 @@ II.- Representar y administrar sus bienes.
 
 Quienes ejerzan la patria potestad, la custodia o tutela, tienen el deber de guiar la conducta de los menores de edad o personas con capacidades diferentes con actitud de disposición positiva, mostrando buen ejemplo. Dicha facultad no implica infligir al menor actos que atenten contra su integridad.
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2021)</small>
 
-Los que ejercen la patria potestad, la custodia o tutela no podrán imponer castigo corporal o cualquier otro tipo de trato humillante como forma de corrección disciplinaria.
+Queda prohibido que quienes ejercen la patria potestad, la custodia o tutela o cualquier persona que tenga a su cargo el cuidado y atención de niñas, niños y adolescentes, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina. Lo anterior en términos de lo dispuesto en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo.
 
 Se concede acción popular para denunciar los malos tratos a los menores de edad, pudiendo ser de manera anónima para su investigación oficiosa, dando vista de manera inmediata al Ministerio Público para su intervención.
 
 Las instituciones de asistencia pública o privada del Estado Libre y Soberano de Hidalgo que tengan bajo su cuidado y protección a menores que hayan sufrido los actos previstos en los párrafos anteriores están legitimadas para ejercitar la acción de suspensión o pérdida de la patria potestad, por conducto del titular de la Procuraduría de la Defensa del menor del Sistema Estatal para el Desarrollo Integral de la Familia.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2021)</small>
+
+Artículo 225 BIS.- Quien ejerza la guarda y custodia de un niño, niña o adolescente debe procurar el respeto de los menores para ambos ascendientes; en consecuencia, cada uno de los ascendientes deberá evitar cualquier acto encaminado a producir en el niño, niña o adolescente rechazo, rencor, odio, miedo o desprecio.
+
+En cualquier momento en que se presente por alguno de los progenitores, actos encaminados a producir en el niño, niña o adolescente rechazo, rencor, odio, miedo o desprecio hacia el otro progenitor, el Juez de oficio ordenará las medidas necesarias, con la finalidad de restablecer la sana convivencia de la niña, niño o adolescente con ambos padres, teniendo éstos la obligación de colaborar en el cumplimiento de las medidas que al efecto se ordenen.
 
 ###### Artículo 226.
 
@@ -1759,9 +1809,13 @@ I.- Garantizar la seguridad física, psicológica y sexual;
 
 II.- Fomentar hábitos adecuados de alimentación, de higiene personal y de desarrollo físico. Así como impulsar habilidades de desarrollo intelectual y escolares;
 
-III.- Realizar demostraciones afectivas, con respeto y aceptación de éstas por parte del menor, y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
 
-IV.- Determinar límites y normas de conducta preservando el interés superior del menor;
+III.- Realizar demostraciones afectivas, con respeto y aceptación de éstas por parte del menor, así como asegurar ambientes libres de cualquier tipo de violencia; y
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
+
+IV.- Determinar límites y normas de conducta e impulsar el desarrollo evolutivo de la personalidad y la autonomía progresiva, preservando el interés superior del menor.
 
 V.- Se considerará incumplimiento de las obligaciones de crianza, el que sin justificación y de manera permanente y sistemática, no realicen las actividades señaladas; lo que el Juez valorará en los casos de suspensión de la patria potestad, de la determinación de la guarda y custodia provisional y definitiva, y el régimen de convivencia.
 
@@ -2667,6 +2721,10 @@ El Registro del Estado Familiar como una institución administrativa estará a c
 
 En el Estado Libre y Soberano de Hidalgo, estará a cargo de los Oficiales del Registro del Estado Familiar, con facultades, atribuciones, obligaciones y derechos para constatar y autorizar los actos del estado familiar y extender las actas relativas a nacimiento, reconocimiento de hijos, matrimonio, concubinato, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en la demarcación mencionada, inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, la de haber perdido la capacidad legal para administrar bienes y las resoluciones definitivas del estado familiar de las personas, las cuales se asentarán en documentos especiales que se denominarán "Formas del Registro del Estado Familiar", de las que se llevará un duplicado en la Dirección del Registro del Estado Familiar.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2021)</small>
+
+Artículo 393 BIS.- El Registro del Estado Familiar tendrá a su cargo el Registro de Deudoras y Deudores Alimentarios Morosos.
+
 ###### Artículo 394.
 
 Para asentar las Actas, las Oficinas del Registro del Estado Familiar tendrán las siguientes formas: De nacimiento, de reconocimiento de hijos, de tutela, de matrimonio, de concubinato, de divorcio, de defunción y el de las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
@@ -3203,6 +3261,48 @@ La corrección de los vicios o defectos de carácter genérico o específico que
 
 La resolución a que se refiere el Artículo anterior, se hará por triplicado, siendo una copia de ésta para la Dirección del Registro del Estado Familiar, otra para Oficialía del Registro del Estado Familiar que levantó el Acta original, y la otra para el promovente, debiendo consignarse en las actas correspondientes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2021)</small>
+
+### CAPITULO XI. DEL REGISTRO DE DEUDORAS Y DEUDORES ALIMENTARIOS MOROSOS
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2021)</small>
+
+###### Artículo 478.
+
+En el Registro de Deudoras y Deudores Alimentarios Morosos, se harán las inscripciones a que se refiere el artículo 141 BIS de la presente Ley, dicho registro contendrá:
+
+I.- Nombre, apellidos y Clave Única de Registro de Población de la persona deudora alimentaria morosa;
+
+II.- Nombre de la acreedora o acreedor o acreedores alimentarios;
+
+III.- Datos del acta que acrediten el vínculo entre la persona deudora y la o el acreedor alimentario, en su caso;
+
+IV.- Número de pagos incumplidos y monto del adeudo alimentario a ese momento;
+
+V.- Órgano jurisdiccional que ordena el registro; y
+
+VI.- Datos del expediente del que deriva su inscripción.
+
+El Registro del Estado Familiar llevará a cabo la inscripción al día hábil siguiente a la recepción del oficio judicial que así lo ordene.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2021)</small>
+
+###### Artículo 479.
+
+El Registro estará a disposición de toda persona que acredite legítimo interés. Los Oficiales del Registro del Estado Familiar expedirán certificados de No inscripción o Inscripción en el Registro de Deudoras y Deudores Alimentarios Morosos, con base en las constancias que obren en su poder, previo pago de los derechos correspondientes.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2021)</small>
+
+###### Artículo 480.
+
+El certificado expedido por el Registro de Deudoras y Deudores Alimentarios Morosos contendrá:
+
+I.- Fecha de emisión;
+
+II.- Nombre Completo y Clave Única de Registro de Población de la persona deudora morosa; y
+
+III.- Especificación de contar con inscripción en el Registro de Deudoras y Deudores Alimentarios Morosos o en su caso de No inscripción.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -3336,3 +3436,11 @@ P.O. 2 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 528 DECRETO QUE REFORMA LOS ARTÍCULO 416 Y 417 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 716 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Ejecutivo del Estado, cuenta con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones reglamentarias y administrativas, a fin de establecer e iniciar la operación del Registro de Deudoras y Deudores Alimentarios Morosos.
