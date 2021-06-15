@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ingresos-del-estado-de-quintana-roo-para-el-145961"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-21"
-last_updated: "2020-12-21"
+last_updated: "2021-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2021
 
-TEXTIO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2021.
 
 Ley publicada en el Tomo III, número 170 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 21 de diciembre de 2020.
 
@@ -39,9 +39,19 @@ D E C R E T A:
 
 LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2021.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 1.
+
+En el ejercicio fiscal 2021, el Estado de Quintana Roo percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se mencionan:
+
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 21 DE DICIEMBRE DE 2020, PÁGINAS DE LA 143 A LA 149]</small>
 
-ARTÍCULO 2 (SIC). El pago extemporáneo de créditos fiscales dará lugar al cobro de recargos, de conformidad con lo que establezca el Código Fiscal del Estado.
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 15 DE JUNIO DE 2021, PÁGINAS DE LA 66 A LA 67.]</small>
+
+###### ARTÍCULO 2.
+
+El pago extemporáneo de créditos fiscales dará lugar al cobro de recargos, de conformidad con lo que establezca el Código Fiscal del Estado.
 
 ###### ARTÍCULO 3.
 
@@ -152,3 +162,11 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTIÚN DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL VEINTE
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, DR. JORGE ARTURO CONTRERAS CASTILLO, RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 118 POR EL QUE SE REFORMA EL IMPORTE DEL RUBRO 6 APROVECHAMIENTOS DE LA TABLA QUE DESCRIBE LOS INGRESOS QUE PERCIBIRÁ EL ESTADO DE QUINTANA ROO EN EL EJERCICIO FISCAL 2021 Y SE ADICIONA UN PÁRRAFO PRIMERO A LA TABLA QUE DESCRIBE LOS INGRESOS QUE PERCIBIRÁ EL ESTADO DE QUINTANA ROO EN EL EJERCICIO FISCAL 2021, PARA QUEDAR COMO ARTÍCULO 1º A LA LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2021”.]
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
