@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-combatir-y-sancionar-la-trata-de-personas-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-19"
-last_updated: "2016-12-13"
+last_updated: "2021-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de octubre de 2010.
 
@@ -141,11 +141,15 @@ V. Secretaría de Educación del Estado de Tamaulipas;
 
 VI. Secretaría de Turismo;
 
-VII. Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
+
+VII. Fiscalía General de Justicia del Estado;
 
 VIII. Sistema Estatal para el Desarrollo Integral de la Familia; y
 
-IX. Instituto de la Mujer Tamaulipeca.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
+
+IX. Instituto de las Mujeres en Tamaulipas.
 
 Por cada miembro propietario de la Comisión Interinstitucional habrá un suplente designado por escrito por el titular, quien en su caso deberá tener por lo menos el nivel de Director de área o equivalente. El suplente contará con las mismas facultades que los propietarios y podrá asistir, con voz y voto, a las sesiones de la Comisión cuando el propietario respectivo no concurra.
 
@@ -165,9 +169,11 @@ V. Tres expertos académicos vinculados con la trata de personas.
 
 Los integrantes de la Comisión Interinstitucional podrán invitar a las personas, instituciones, organismos, dependencias o entidades estatales o municipales que por su experiencia, conocimientos o atribuciones, se vinculen con la materia de trata de personas, previa aprobación de sus integrantes.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 16.
 
-La Comisión Interinstitucional será presidida por el Procurador General de Justicia del Estado, y el Secretario Técnico responsable será el Primer Subprocurador de dicha dependencia.
+La Comisión Interinstitucional será presidida por el Fiscal General de Justicia del Estado, y el Secretario Técnico responsable será el titular de la Vicefiscalía de Delitos de Alto Impacto y de Violaciones a Derechos Humanos.
 
 ### CAPITULO III. DE LAS SESIONES
 
@@ -207,7 +213,9 @@ VIII. Informar y advertir al personal de hoteles, servicios de transporte públi
 
 IX. Orientar al personal responsable de los diversos medios de transporte acerca de las medidas necesarias para asegurar, en especial, la protección de las personas menores de dieciocho o mayores de sesenta años de edad, indígenas, así como de quienes no tienen capacidad para comprender el significado del hecho o de quienes tienen alguna discapacidad que viajen a través del territorio del Estado;
 
-X. Recopilar, con la ayuda de la Procuraduría General de Justicia del Estado y demás instituciones y organismos pertinentes, los datos estadísticos relativos a la incidencia delictiva en materia de trata de personas, con la finalidad de utilizarse en la toma de decisiones y para elaborar los contenidos de los programas en la materia. Dicha información deberá contener:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE JUNIO DE 2021)</small>
+
+X. Recopilar con la ayuda de la Fiscalía General de Justicia del Estado y demás instituciones y organismos pertinentes, los datos estadísticos relativos a la incidencia delictiva en materia de trata de personas, con la finalidad de utilizarse en la toma de decisiones y para elaborar los contenidos de los programas en la materia. Dicha información deberá contener:
 
 a) El número de detenciones, procesos judiciales, número de sentencias condenatorias en el que estén involucrados traficantes y tratantes de personas y de quienes cometen delitos relacionados con la trata de personas en las diferentes modalidades; y
 
@@ -540,6 +548,14 @@ Se derogan todas aquellas disposiciones legales que se opongan al presente Decre
 P.O. 13 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-532 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 14, FRACCIONES VII Y IX; 16, Y 19, FRACCIÓN X, DE LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
