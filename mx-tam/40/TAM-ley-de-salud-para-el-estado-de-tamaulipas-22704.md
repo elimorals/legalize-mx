@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2020-10-15"
+last_updated: "2021-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1895,6 +1895,10 @@ Cuando se trate de realizar la construcción, reconstrucción, modificación o a
 
 Asimismo, deberán cumplir con los requerimientos arquitectónicos para facilitar el acceso, tránsito y permanencia de las personas con discapacidad; y, cuando sean construcciones para los establecimientos descritos en el artículo 114 Bis, se procurará que éstas cuenten con baños familiares.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2021)</small>
+
+ARTICULO 115 BIS.- Las instalaciones sanitarias referidas en el artículo que antecede, deberán contar con un espacio habilitado para que mujeres y hombres realicen el cambio de pañal a niñas y niños en edad de primera infancia.
+
 ###### ARTICULO 116.
 
 El responsable de la construcción, reconstrucción, modificación o acondicionamiento de cualquiera de los establecimientos a que se refiere este capítulo, deberá dar aviso de inicio y terminación de la obra a la autoridad sanitaria competente, quien vigilará el cumplimiento de los requisitos aprobados en el proyecto.
@@ -3736,6 +3740,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 15 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-144 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS; LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE TAMAULIPAS; LEY DE PROTECCIÓN PARA LOS NO FUMADORES DEL ESTADO DE TAMAULIPAS; LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-533 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 115 BIS, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
