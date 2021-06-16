@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1424
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-01"
-last_updated: "2020-04-01"
+last_updated: "2021-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 1 de abril de 2020.
 
@@ -1297,13 +1297,17 @@ XVI. El padrón de cabilderos, de acuerdo a la normatividad aplicable.
 
 Además de las obligaciones de transparencia comunes descritas en el artículo 85 de la presente Ley, el Poder Judicial del Estado deberá poner a disposición del público y mantener actualizada (sic) las siguientes obligaciones de transparencia:
 
-I. Las versiones públicas de las sentencias y resoluciones que sean de interés público, pudiendo las partes oponerse a la publicación de sus datos personales.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+I. Las versiones públicas de todas las sentencias emitidas.
 
 II. Las versiones o transcripciones estenográficas de las sesiones públicas.
 
 III. La relacionada con los procesos por medio de los cuales fueron designados los jueces y magistrados.
 
-V. La lista de acuerdos y sentencias que diariamente se publiquen.
+> <small>(REFORMADA [N. DE E. EN SU NUMERACIÓN], P.O. 16 DE JUNIO DE 2021)</small>
+
+IV. La lista de acuerdos y sentencias que diariamente se publiquen.
 
 ###### Artículo 89.
 
@@ -2664,3 +2668,13 @@ El Ejecutivo del Estado dispondrá se publique, circule y se le dé el debido cu
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández”, del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 28 días del mes de Marzo del año dos mil veinte.- D. P. C. ROSA ELIZABETH BONILLA HIDALGO.- D. S. C. SILVIA TORREBLANCA ALFARO.- Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 01 días del mes de Abril del año dos mil veinte.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Ismael Brito Mazariegos, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 357 POR EL QUE SE REFORMAN LAS FRACCIONES I Y V DEL ARTÍCULO 88 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
