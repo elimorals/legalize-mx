@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-adquisiciones-arrendamientos-y-contratacion-de-93676"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-27"
-last_updated: "2020-12-30"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de marzo de 2013.
 
@@ -905,9 +905,17 @@ XVII. Se trate de equipos especializados, sustancias y materiales de origen quí
 
 XVIII. Se acepte por la Tesorería del Estado o por la Tesorería Municipal respectiva, la adquisición de bienes o la prestación de servicios a título de dación en pago, en los términos del Código Fiscal del Estado y demás Leyes aplicables;
 
-XIX. Cuando, por la naturaleza de la negociación, existan circunstancias o características del contrato que hagan del todo indispensable acudir al método de adjudicación directa, según los criterios o casos que señale el Reglamento de esta Ley; y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-XX. Se trate de la suscripción de contratos específicos que deriven de un convenio marco.
+XIX. Cuando, por la naturaleza de la negociación, existan circunstancias o características del contrato que hagan del todo indispensable acudir al método de adjudicación directa, según los criterios o casos que señale el Reglamento de esta Ley;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+XX. Se trate de la suscripción de contratos específicos que deriven de un convenio marco; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+XXI. La adquisición de bienes o prestación de servicios para la salud que se contrate con organismos intergubernamentales internacionales, a través de mecanismos de colaboración previamente establecidos, siempre que se acredite la aplicación de los principios previstos en la Constitución Política de los Estados Unidos Mexicanos.
 
 Las contrataciones a que se refiere este Artículo, se realizarán preferentemente a través de procedimientos de invitación restringida, en los casos previstos en sus fracciones VIII, IX, X primera oración, XII y XV.
 
@@ -1680,3 +1688,9 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 479. SE REFORMAN LAS FRACCIONES IXX (SIC) Y XX, Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 42 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
