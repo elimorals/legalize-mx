@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2019-11-27"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO 242 PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -219,7 +217,9 @@ Es obligación de toda persona que tenga conocimiento de casos de niñas, niños
 
 Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-I. Derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+I. Derecho a la vida, a la paz, a la supervivencia y al desarrollo.
 
 II. Derecho de prioridad;
 
@@ -263,7 +263,9 @@ XXI. Así como cualquier otro derecho humano reconocido en los tratados internac
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
-### Capítulo Primero. Del Derecho a la Vida, a la Supervivencia y al Desarrollo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2021)</small>
+
+### Capítulo Primero. Del Derecho a la Vida, a la Paz, a la Supervivencia y al Desarrollo
 
 ###### Artículo 13.
 
@@ -275,9 +277,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
 ###### Artículo 15.
 
-Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos.
+Niñas, niños y adolescentes tienen derecho a la paz, a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos.
 
 ### Capítulo Segundo. Del Derecho de Prioridad
 
@@ -1724,3 +1728,11 @@ P.O. 11 DE SEPTIEMBRE DE 2019.
 PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 16 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CIENTO CINCUENTA Y OCHO QUE REFORMA LOS ARTÍCULOS 12, FRACCIÓN I, Y 15; Y EL TÍTULO DEL CAPÍTULO PRIMERO, "DEL DERECHO A LA VIDA, A LA SUPERVIVENCIA Y AL DESARROLLO" PARA SER "DEL DERECHO A LA VIDA, A LA PAZ, A LA SUPERVIVENCIA Y AL DESARROLLO", DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS".]
+
+PRIMERO.- Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
