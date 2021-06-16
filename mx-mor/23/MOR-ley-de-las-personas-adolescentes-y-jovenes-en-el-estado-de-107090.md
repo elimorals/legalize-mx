@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-las-personas-adolescentes-y-jovenes-en-el-estado-de-1070
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-01"
-last_updated: "2020-03-11"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2015.
 
@@ -841,57 +841,63 @@ La Oficina, para efectos de sus reportes, evaluaciones y recomendaciones no esta
 
 Se crea el Concejo de las Juventudes del Estado de Morelos como Órgano Consultivo del Instituto para la participación de las personas adolescentes y jóvenes. Tiene por objeto incluir propuestas de un grupo plural de personas adolescentes y jóvenes sobre las Políticas, Planes, Programas, Proyectos, Acciones y campañas de juventud, además de cumplir con las actividades que establezca la presente Ley.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
 ###### Artículo 67.
 
 El Concejo de las Juventudes del Estado de Morelos estará integrado de la siguiente manera con miembros con derecho a voz y voto:
 
-I. Un Presidente que será el Director General del Instituto;
+I. Una presidenta o un presidente que será el Director General del Instituto;
 
-II. Un Secretario Técnico, que será nombrado por el Presidente del Concejo de las Juventudes del Estado de Morelos; y
+II. Una secretaria o secretario técnico, que será nombrado por el presidente del Concejo de las Juventudes del Estado de Morelos; y
 
-III. Los integrantes del pleno que serán:
+III. Las y los integrantes del Pleno que serán:
 
-a) Un integrante de alguna organización estudiantil;
+a) Un representante estudiantil;
 
-b) Un integrante de algún colectivo LGBTI;
+b) Un representante de la comunidad LGBTI;
 
-c) Un integrante de alguna organización indígena;
+c) Un representante de las juventudes indígenas;
 
-d) Un integrante de alguna organización de carácter cultural o artístico;
+d) Un representante promovente de la cultura;
 
-e) Un integrante de alguna (sic) colectivo que promueva los derechos de las mujeres;
+e) Dos representantes que promuevan los derechos de las mujeres;
 
-f) Un integrante de alguna organización de jóvenes con discapacidad;
+f) Un representante de jóvenes con discapacidad;
 
-g) Un integrante de alguna organización de jóvenes deportistas;
+g) Un representante del deporte;
 
-h) Dos integrantes de organizaciones que promuevan la salud integral de las personas adolescentes y jóvenes;
+h) Un representante que promueva la salud integral de las personas adolescentes y jóvenes;
 
-i) Un integrante de alguna organización del ámbito de la ciencia, la tecnología o la academia;
+i) Un representante del ámbito científico, tecnológico o académico;
 
-j) Un integrante de alguna organización empresarial;
+j) Un representante empresarial;
 
-k) Un integrante de alguna organización sindical;
+k) Un representante de seguridad pública;
 
-l) Un integrante de alguna organización campesina;
+l) Un representante del sector campesino;
 
-m) Un integrante de alguna organización ambientalista;
+m) Un representante del sector ambientalista;
 
-n) Dos integrantes de alguna organización en el ámbito de los Derechos Humanos;
+n) Dos representantes que promuevan los Derechos Humanos;
 
-o) Dos integrantes de alguna organización de adolescentes o jóvenes en el ámbito de la participación ciudadana; y
+o) Un representante que promueva la participación ciudadana,
 
-p) Dos integrantes de asociaciones religiosas.
+p) Un representante de asociaciones religiosas.
 
-El Director General del Instituto emitirá Convocatoria Pública para la selección de los integrantes señalados en la fracción III de este artículo, en la cual deberán establecerse los requisitos de elegibilidad, atendiendo a criterios de representatividad y desempeño.
+La integración del consejo deberá estar conformado por lo menos de tres adolescentes, con el objetico (sic) de dar voz al interior de la toma de decisiones del Consejo de las Juventudes del Estado de Morelos.
 
-Los postulantes de cada categoría que hayan cumplido con los requisitos serán convocados por el Instituto y deberán elegir por consenso a quien ocupará cada uno de los asientos del Concejo, en caso de no haber llegado al consenso en el periodo que señale la convocatoria el Director General del Instituto someterá a consideración del Gobernador del Estado una terna para ocupar el espacio de representación en cuestión. Una vez resueltos la totalidad de los asientos del Concejo, el Director General del Instituto enviará al Gobernador del Estado la relación de integrantes del Concejo para ser ratificada y publicada en el Periódico Oficial.
+La directora o director general del instituto emitirá convocatoria pública para la selección de los integrantes señalados en la fracción III de este artículo, en la cual deberán establecerse los requisitos de elegibilidad, atendiendo a criterios de representatividad y desempeño.
 
-Los miembros del Concejo serán designados en carácter honorífico y no recibirán remuneración alguna. Su período será de tres años sin posibilidad de reelección.
+Las y los postulantes de cada categoría que hayan cumplido con los requisitos serán convocados por el Instituto y deberán elegir por consenso a quien ocupará cada uno de los asientos del Concejo, en caso de no haber llegado al consenso en el periodo que señale la convocatoria el director general del instituto someterá a consideración del gobernador del estado una terna para ocupar el espacio de representación en cuestión. Una vez resueltos la totalidad de los asientos del concejo, el director general del instituto enviará al gobernador del estado la relación de integrantes del concejo para ser ratificada y publicada en el Periódico Oficial.
 
-Quienes hayan participado en el proceso de selección y no resultaran integrantes del Concejo podrán formar mesas de trabajo temáticas que servirán de apoyo a quienes ocupen los asientos del Concejo.
+Las y los miembros del concejo serán designados en carácter honorífico y no recibirán remuneración alguna. Su período será de tres años sin posibilidad de reelección.
 
-El Presidente del Concejo podrá invitar sin derecho a voto a representantes de organizaciones juveniles o jóvenes destacados para opinar sobre asuntos que puedan interesar al Concejo.
+Quienes hayan participado en el proceso de selección y no resultaran integrantes del concejo podrán formar mesas de trabajo temáticas que servirán de apoyo a quienes ocupen los asientos del Concejo.
+
+La presidenta o presidente del concejo podrá invitar sin derecho a voto a representantes de organizaciones juveniles o jóvenes destacados para opinar sobre asuntos que puedan interesar al concejo.
+
+La integración del concejo y el Pleno en mención deberá de garantizar la paridad de género, esto con el objetivo de que mujeres y hombres tengan las mismas oportunidades de representar a los adolescentes y jóvenes del estado.
 
 ###### Artículo 68.
 
@@ -1168,3 +1174,9 @@ SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERA.- Se derogan las disposiciones de igual o menor grado que se opongan a la presente reforma.
 
 CUARTA.- Se consulta a la asamblea en votación económica si el presente se considera de urgente y obvia resolución para ser discutido y votado en esta misma sesión.
+
+P.O. 16 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE APRUEBAN OBSERVACIONES REALIZADAS POR EL EJECUTIVO DEL ESTADO, AL DECRETO NÚMERO NOVECIENTOS CINCUENTA Y SEIS POR EL CUAL SE ADICIONA UN PÁRRAFO AL ARTÍCULO 67 DE LA LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS Y AL DECRETO NÚMERO NOVECIENTOS CINCUENTA Y SIETE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS”.]
+
+ÚNICA. El presente decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
