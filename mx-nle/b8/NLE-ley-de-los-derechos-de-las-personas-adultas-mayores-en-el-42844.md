@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2021-06-11"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -263,13 +263,19 @@ a) Gozar de inclusión e igualdad de oportunidades en el acceso al trabajo que l
 
 b) Desempeñarse en forma productiva tanto tiempo como lo deseen;
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
 
-c) Recibir una capacitación adecuada; y
+c) Recibir una capacitación adecuada;
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
 
-d) Recibir la protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral.
+d) Recibir la protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral; y,
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+e) Ser contratados e incorporarse como Servidores Públicos en los tres Poderes del Estado o los Municipios. Los entes públicos mencionados formularán y ejecutarán acciones específicas, las cuales deberán garantizar que al menos el 2 por ciento del total de la plantilla laboral de la administración pública sea destinada a la contratación de personas adultas mayores.
+
+Las autoridades competentes realizarán las acciones necesarias para impulsar la contratación de personas adultas mayores en los términos establecidos en este inciso, y para ello deberán utilizar fuentes de información accesible sobre los empleos en el sector público.
 
 VI. Asistencia social, que incluye:
 
@@ -466,6 +472,10 @@ La Secretaría de Economía y Trabajo en coordinación con la Secretaría de Des
 ###### Artículo 20.
 
 La Secretaría de Economía y Trabajo, en coordinación con el Instituto, impulsará programas de autoempleo para las personas adultas mayores, de acuerdo a su profesión u oficio, a través de apoyos financieros, de capacitación y la creación de redes de producción, distribución y comercialización.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+Además, organizarán semestralmente una bolsa de trabajo mediante la cual se identifiquen actividades laborales que puedan ser desempeñadas por las personas adultas mayores; así como también la implementación de programas de asistencia jurídica a las personas adultas mayores para orientarlas en la toma de decisiones relativas a sus actividades laborales en el sector público privado.
 
 ### CAPÍTULO VII. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN EL
 
@@ -1186,3 +1196,13 @@ P.O. 11 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 480. SE ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 4 DE LA LEY ESTATAL DE SALUD; Y SE MODIFICAN LA FRACCIÓN I DEL ARTÍCULO 12; LAS FRACCIONES XII Y XIII DEL ARTÍCULO 24; Y SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 24, TODAS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 492. SE REFORMAN LOS INCISOS C) Y D) A LA FRACCIÓN V DEL ARTÍCULO 5° Y SE ADICIONA UN INCISO E) A LA FRACCIÓN V DEL ARTÍCULO 5° Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 20 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las acciones que realicen los Tres Poderes del Estado, los Municipios y sus dependencias de administración pública que correspondan para dar cumplimiento al presente decreto, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14, según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones y el uso de recursos excedentes.
+
+TERCERO. En el caso de que una persona adulta mayor esté siendo incorporada como funcionario público en los términos de la presente Ley, y además tenga una discapacidad de acuerdo con la Ley para la Protección de los Derechos de las Personas con Discapacidad deberá tomarse en consideración dentro del porcentaje del 2% del previsto en el artículo 5° fracción V, inciso e) de la presente Ley.
