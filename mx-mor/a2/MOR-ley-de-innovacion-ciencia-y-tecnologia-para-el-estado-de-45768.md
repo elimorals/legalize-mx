@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-innovacion-ciencia-y-tecnologia-para-el-estado-de-45768"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-03"
-last_updated: "2015-08-19"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 3 de agosto de 2005.
 
@@ -147,11 +147,13 @@ VIII. La información científica y tecnológica en la Entidad.
 
 IX. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 2°.
 
-La investigación científica, el desarrollo tecnológico y la innovación, son actividades prioritarias y estratégicas del Poder Ejecutivo del Estado y del Sistema de Innovación, Ciencia y Tecnología en el Estado, a través de la interacción de los actores públicos, privados y sociales, como parte del quehacer fundamental para el desarrollo integral de la persona, el avance del conocimiento y la transformación económica, social y cultural de la población en su conjunto.
+La investigación científica, el desarrollo tecnológico y la innovación, son actividades prioritarias y estratégicas del Poder Ejecutivo del Estado y del Sistema de Innovación, Ciencia y Tecnología en el Estado, a través de la interacción de las y los actores públicos, privados y sociales, como parte del quehacer fundamental para el desarrollo integral de la persona, el avance del conocimiento y la transformación económica, social y cultural de la población en su conjunto.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 El Sistema de Innovación, Ciencia y Tecnología en el Estado, promoverá una participación equitativa de mujeres y hombres en la innovación, la ciencia y la tecnología con una visión transversal y, en lo posible, el Sistema deberá incluir información diferenciada entre mujeres y hombres, a fin de medir el impacto en materia de desarrollo científico tecnológico y de innovación.
 
@@ -169,31 +171,45 @@ III. Desarrollo tecnológico: Al proceso de aplicación del conocimiento para la
 
 IV. Innovación: La transformación de una idea en un producto, proceso de fabricación o enfoque de un servicio social determinado, en uno nuevo o mejorado, así como a la transformación de una tecnología en otra de mayor utilidad;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-V. Vinculación: A la relación formal y estructurada de intercambio y cooperación del Sistema de Innovación, Ciencia y Tecnología en el Estado, con los sectores productivo, gubernamental y social, que tienen como objetivo, para el primero, avanzar en el desarrollo científico y académico y para los segundos, la solución de problemas concretos y la atención de las necesidades y expectativas del desarrollo de la Entidad. Se lleva a cabo mediante la modalidad que a los interesados convengan y formalicen Contratos, Convenios o Programas; se favorece a través de la divulgación, difusión y enseñanza de la ciencia y la tecnología; se gestiona preferentemente por medio de estructuras académico-administrativas específicas. Operado por el vinculador o gestor científico o tecnológico;
+V. Vinculación: A la relación formal y estructurada de intercambio y cooperación del Sistema de Innovación, Ciencia y Tecnología en el Estado, con los sectores productivo, gubernamental y social, que tienen como objetivo, para el primero, avanzar en el desarrollo científico y académico y para los segundos, la solución de problemas concretos y la atención de las necesidades y expectativas del desarrollo de la Entidad. Se lleva a cabo mediante la modalidad que a las y los interesados convengan y formalicen Contratos, Convenios o Programas; se favorece a través de la divulgación, difusión y enseñanza de la ciencia y la tecnología; se gestiona preferentemente por medio de estructuras académico-administrativas específicas. Operado por el vinculador o gestor científico o tecnológico;
 
-VI. Comunidad científica: Al conjunto de investigadores, ayudantes de investigación, documentalistas, vinculadores, divulgadores, gestores y administradores científicos y tecnológicos adscritos a las instituciones y empresas científicas, tecnológicas, y educativas localizadas en la entidad;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
+VI. Comunidad científica: Al conjunto de investigadoras, investigadores, ayudantes de investigación, documentalistas, vinculadoras, vinculadores, divulgadoras, divulgadores, gestoras, gestores y administradoras administradores científicos y tecnológicos adscritos a las instituciones y empresas científicas, tecnológicas, y educativas localizadas en la entidad;
 
-VII. Investigador: El investigador en Ciencia y Tecnología es un profesional adscrito a las instituciones comprendidas en el registro nacional de instituciones y empresas científicas y tecnológicas o en el padrón que establezca el CCYTEM que representa la célula básica del edificio del conocimiento humano, que a través de una amplia preparación profesional ostenta un nivel académico reconocido nacionalmente, (de licenciatura, especialidad, maestría o doctorado), que ejecuta acciones sistemáticas orientadas a la creación, aplicación e innovación de conocimientos, productos, procesos o métodos y participa en la promoción, gestión, difusión, divulgación y enseñanza, en cualquier área de la ciencia o la tecnología relevantes para el desarrollo de la sociedad donde se encuentra inmerso;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-VIII. Ayudante de investigación: Al personal técnico de apoyo, al investigador en el desarrollo de los proyectos de investigación;
+VII. Investigador o Investigadora: El investigador en Ciencia y Tecnología es un profesional adscrito a las instituciones comprendidas en el registro nacional de instituciones y empresas científicas y tecnológicas o en el padrón que establezca el CCYTEM que representa la célula básica del edificio del conocimiento humano, que a través de una amplia preparación profesional ostenta un nivel académico reconocido nacionalmente, (de licenciatura, especialidad, maestría o doctorado), que ejecuta acciones sistemáticas orientadas a la creación, aplicación e innovación de conocimientos, productos, procesos o métodos y participa en la promoción, gestión, difusión, divulgación y enseñanza, en cualquier área de la ciencia o la tecnología relevantes para el desarrollo de la sociedad donde se encuentra inmerso;
 
-IX. Documentalista: Personal de apoyo al investigador encargado de localizar, identificar, categorizar y sistematizar la información necesaria para la construcción actualizada del estado del conocimiento científico y tecnológico;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-X. Vinculador: Personal que, a través de la divulgación y la gestión científica y tecnológica interrelaciona a las instituciones públicas y privadas en la aplicación del conocimiento, en la producción de bienes y servicios;
+VIII. Ayudante de investigación: Al personal técnico de apoyo, al investigador o investigadora en el desarrollo de los proyectos de investigación;
 
-XI. Divulgador: Al personal de apoyo al investigador especializado en las tareas de difusión, divulgación y enseñanza de la ciencia y la tecnología a través de medios escritos, audiovisuales y electrónicos, o la organización de foros, conferencias, mesas redondas, demostraciones, paneles, congresos, entre otros;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-XII. Gestor: Al promotor de la aplicación del conocimiento científico y tecnológico, así como de los instrumentos de gestión para el mejoramiento de la productividad y competitividad de las empresas públicas, privadas y sociales;
+IX. Documentalista: Personal de apoyo a la investigadora o investigador encargado de localizar, identificar, categorizar y sistematizar la información necesaria para la construcción actualizada del estado del conocimiento científico y tecnológico;
 
-XIII. Administrador: Al personal de apoyo del investigador encargado de las tareas de gestión y administración de recursos, necesarios para el desarrollo científico y tecnológico;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+X. Vinculador o Vinculadora: Personal que, a través de la divulgación y la gestión científica y tecnológica interrelaciona a las instituciones públicas y privadas en la aplicación del conocimiento, en la producción de bienes y servicios;
 
-XIV. Sistema: Al Sistema de Innovación, Ciencia y Tecnología en el Estado, definido como el conjunto de subsistemas regionales y municipales, instituciones y empresas científicas y tecnológicas, públicas y privadas, diferenciadas e interdependientes, integradas por investigadores, grupos, centros y redes de investigación y demás miembros de la comunidad científica por su infraestructura científica y tecnológica, por sus programas de posgrado y su acervo científico y tecnológico, acreditadas en el Padrón del Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas o en el padrón de instituciones y organismos de Ciencia y Tecnología en la Entidad que instaure la Secretaría, así como los organismos de la Administración Pública Federal, Estatal y Municipal relacionados con la Ciencia y Tecnología de la Entidad, que interactúen orientados por la legislación, normatividad y políticas públicas en la materia;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+XI. Divulgador o Divulgadora: Al personal de apoyo a la investigadora o investigador especializado en las tareas de difusión, divulgación y enseñanza de la ciencia y la tecnología a través de medios escritos, audiovisuales y electrónicos, o la organización de foros, conferencias, mesas redondas, demostraciones, paneles, congresos, entre otros;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+XII. Gestor o Gestora: Al promotor de la aplicación del conocimiento científico y tecnológico, así como de los instrumentos de gestión para el mejoramiento de la productividad y competitividad de las empresas públicas, privadas y sociales;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+XIII. Administrador o Administradora: Al personal de apoyo de la investigadora o investigador encargado de las tareas de gestión y administración de recursos, necesarios para el desarrollo científico y tecnológico;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+XIV. Sistema: Al Sistema de Innovación, Ciencia y Tecnología en el Estado, definido como el conjunto de subsistemas regionales y municipales, instituciones y empresas científicas y tecnológicas, públicas y privadas, diferenciadas e interdependientes, integradas por investigadoras, investigadores, grupos, centros y redes de investigación y demás miembros de la comunidad científica por su infraestructura científica y tecnológica, por sus programas de posgrado y su acervo científico y tecnológico, acreditadas en el Padrón del Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas o en el Padrón de Instituciones y Organismos de Ciencia y Tecnología en la entidad que instaure la Secretaría, así como los organismos de la Administración Pública Federal, Estatal y Municipal relacionados con la ciencia y tecnología de la entidad, que interactúen orientados por la legislación, normatividad y políticas públicas en la materia;
 
 XV. Áreas prioritarias: A las áreas del conocimiento que por su importancia estratégica para el desarrollo del Estado, requieren de acciones de generación, aplicación e innovación científica y tecnológica;
 
@@ -203,7 +219,9 @@ XVII. Programa: Al programa especial de Ciencia y Tecnología del Estado de More
 
 XVIII. Institución y Empresa Científica y Tecnológica: Organismo público o privado que desarrolla investigación científica y tecnológica registrada en el registro nacional de instituciones y empresas científicas y tecnológicas o el Padrón del CCYTEM;
 
-XIX. Red científica y Tecnológica: Asociación formal o informal articulada horizontalmente de instituciones, investigadores y demás integrantes de la comunidad científica que interactúan atendiendo a un interés científico y tecnológico común;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+XIX. Red Científica y Tecnológica: Asociación formal o informal articulada horizontalmente de instituciones, investigadoras o investigadores y demás integrantes de la comunidad científica que interactúan atendiendo a un interés científico y tecnológico común;
 
 XX. CONACYT: Al Consejo Nacional de Ciencia y Tecnología;
 
@@ -219,6 +237,8 @@ XXII. Consejo Consultivo. Al Consejo Consultivo Científico y Tecnológico; y
 
 XXIII. Secretaría. A la unidad dependiente del Poder Ejecutivo del Estado encargada de la Innovación, Ciencia y Tecnología.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2021)
+
 ###### ARTÍCULO 4°.
 
 La finalidad de esta Ley, es establecer normas para:
@@ -227,9 +247,9 @@ La finalidad de esta Ley, es establecer normas para:
 
 I. Planear el desarrollo de la innovación, la ciencia y la tecnología en la Entidad, para la formulación y regulación del Programa, en el marco del Sistema Estatal de Planeación, identificando prioridades para el desarrollo del Estado, en materia científica, tecnológica y de innovación, a fin de concretar y fortalecer los programas, acciones y recursos que se destinen para tal propósito;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-II. Integrar, incrementar y consolidar la capacidad del Sistema, mediante la creación de centros, grupos y redes de investigación, el fortalecimiento de su infraestructura, la multiplicación de proyectos de investigación, el impulso a la formación e integración de científicos y tecnólogos de alto nivel académico, y la vinculación de sus resultados, a fin de constituirles en instrumento promotor del desarrollo de la Entidad;
+II. Integrar, incrementar y consolidar la capacidad del sistema, mediante la creación de centros, grupos y redes de investigación, el fortalecimiento de su infraestructura, la multiplicación de proyectos de investigación, el impulso a la formación e integración de científicas, científicos y tecnólogos y tecnólogas de alto nivel académico, y la vinculación de sus resultados, a fin de constituirles en instrumento promotor del desarrollo de la entidad;
 
 III. Garantizar la vinculación del sistema con las instituciones de los sectores, gubernamental, productivo y social para que la investigación científica y tecnológica contribuya a la promoción del desarrollo, la competitividad económica, la transformación del sistema educativo, la mejoría de la calidad de vida, el avance del conocimiento y la transformación cultural de la sociedad;
 
@@ -245,7 +265,9 @@ VII. Promover la colaboración interinstitucional e intersectorial en los tres n
 
 VIII. Reconocer y estimular el quehacer de la comunidad científica y tecnológica del Estado de Morelos;
 
-IX. Crear el Sistema Estatal de Investigadores;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+IX. Crear el Sistema Estatal de Investigadores e Investigadoras;
 
 X. Identificar, organizar y difundir ampliamente la información científica y tecnológica;
 
@@ -271,7 +293,9 @@ II. Los ayuntamientos;
 
 III. El CCYTEM;
 
-###### ARTÍCULO 6°.
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2021)
+
+###### ARTÍCULO 6.
 
 Corresponde al Ejecutivo del Estado:
 
@@ -439,7 +463,9 @@ I. Atender los asuntos legales que se interpongan contra sus actos y resolucione
 
 II. Impulsar el financiamiento de proyectos de infraestructura, de formación de recursos humanos, de vinculación y de investigación científica, desarrollo tecnológico e innovación orientados a la atención a las necesidades esenciales de la entidad;
 
-III. Apoyar mediante el otorgamiento de becas, apoyos y otros medios, la formación de recursos humanos de alto nivel académico para la investigación científica y el desarrollo tecnológico, contribuyendo al fortalecimiento de los programas de postgrado en la Entidad, y en general todas aquellas acciones, cursos, programas de formación continua y de intercambio académico que tiendan a fomentar la reproducción de las nuevas generaciones de investigadores y actualizar los conocimientos de más alto nivel;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+III. Apoyar mediante el otorgamiento de becas, apoyos y otros medios, la formación de recursos humanos de alto nivel académico para la investigación científica y el desarrollo tecnológico, contribuyendo al fortalecimiento de los programas de postgrado en la entidad, y en general todas aquellas acciones, cursos, programas de formación continua y de intercambio académico que tiendan a fomentar la reproducción de las nuevas generaciones de investigadoras e investigadores y actualizar los conocimientos de más alto nivel;
 
 IV. Formular las acciones tendientes a la vinculación y gestión tecnológica, la difusión, divulgación y enseñanza de la ciencia, así como otras que favorezcan la aplicación de la ciencia y la transferencia de la tecnología para el mejoramiento de los procesos económico, social y ambiental, así como su socialización entre la población y las comunidades de la entidad;
 
@@ -531,7 +557,9 @@ V. La persona Titular de la Secretaría de Desarrollo Agropecuario del Poder Eje
 
 VI. La persona Titular de la Secretaría de Salud del Poder Ejecutivo Estatal;
 
-VII. Una persona representante del sector productivo, que será el Presidente de la Cámara Nacional de la Industria de la Transformación, Delegación Cuernavaca;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+VII. Una persona representante del sector productivo, que será el presidente o presidenta de la Cámara Nacional de la Industria de la Transformación, Delegación Cuernavaca;
 
 VIII. Una persona representante del sector productivo, que será nombrado de conformidad con el Reglamento de la presente Ley;
 
@@ -539,17 +567,29 @@ IX. Una persona representante de la Academia de Ciencias de Morelos;
 
 X. La persona titular de la Rectoría de la Universidad Autónoma del Estado de Morelos, y
 
-XI. Los invitados que la propia Junta considere, los cuales tendrán derecho a voz, pero sin voto.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-El Director General del CCYTEM, fungirá como Secretario Técnico de la Junta Directiva y tendrá derecho a voz, pero sin voto.
+XI. Las y los invitados que la propia Junta considere, los cuales tendrán derecho a voz, pero sin voto.
 
-El Presidente de la Comisión de Ciencia y Tecnología del Congreso del Estado de Morelos, concurrirá a las sesiones de la Junta Directiva como invitado permanente y representante del Poder Legislativo, quien tendrá derecho a voz, pero sin voto.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
 
-Por cada miembro propietario, habrá un suplente que será designado por la persona Titular, quien deberá contar con nivel mínimo de Director General, y contará con las mismas facultades que los propietarios en caso de ausencia de éstos.
+La o el director general del CCYTEM, fungirá como secretaria o secretario técnico de la Junta Directiva y tendrá derecho a voz, pero sin voto.
 
-Para el caso de que el representante que designe el Gobernador Constitucional del Estado para fungir como Presidente de la Junta Directiva, sea un integrante de ésta última, en términos del presente artículo; dicho integrante deberá designar a su vez a la persona que lo supla, a fin de evitar la concentración de votos en una sola persona en la toma de decisiones.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
 
-Los cargos de los integrantes de la Junta Directiva serán honoríficos, por lo que no recibirán retribución, emolumento, ni compensación alguna por su desempeño.
+El presidente o presidenta de la Comisión de Ciencia y Tecnología del Congreso del Estado de Morelos, concurrirá a las sesiones de la Junta Directiva como invitado o invitada permanente y representante del Poder Legislativo, quien tendrá derecho a voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+Por cada miembro propietario o propietaria, habrá un o una suplente que será designado o designada por la persona titular, quien deberá contar con nivel mínimo de director general, y contará con las mismas facultades que los propietarios o propietarias en caso de ausencia de éstos.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+Para el caso de que el representante que designe el Gobernador o Gobernadora Constitucional del Estado para fungir como presidente o presidenta de la Junta Directiva, sea un integrante de ésta última, en términos del presente artículo; dicho integrante deberá designar a su vez a la persona que lo o la supla, a fin de evitar la concentración de votos en una sola persona en la toma de decisiones.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+Los cargos de las y los integrantes de la Junta Directiva serán honoríficos, por lo que no recibirán retribución, emolumento, ni compensación alguna por su desempeño.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
 
@@ -569,9 +609,9 @@ III. Aprobar el manual de funcionamiento y el catálogo de cuentas del CCYTEM;
 
 IV. Conocer y resolver directamente sobre los asuntos de su competencia, así como aquellos que le presente el Titular de la Dirección General, cuando la naturaleza del asunto lo amerite;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-V. Designar y remover a los servidores públicos del CCYTEM de mandos medios, a propuesta del Titular de la Dirección General, así como aprobar sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración del Poder Ejecutivo Estatal, y las demás establecidas en el Estatuto Orgánico del CCYTEM, así como concederles las licencias que procedan;
+V. Designar y remover a las y los servidores públicos del CCYTEM de mandos medios, a propuesta del titular de la Dirección General, así como aprobar sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración del Poder Ejecutivo Estatal, y las demás establecidas en el Estatuto Orgánico del CCYTEM, así como concederles las licencias que procedan;
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -597,7 +637,7 @@ XIII. Autorizar, al término de cada año, la aplicación de auditorías interna
 
 XIV. Aprobar las bases generales para la suscripción de convenios;
 
-XV. (DEROGADA, P.O. 26 DE MARZO DE 2014)
+XV. (DEROGADA, P.O. 26 DE MARZO DE 2014) (REPUBLICADA SUS DEROGACIÓN, P.O. 16 DE JUNIO DE 2021)
 
 XVI. Conocer el informe acerca del estado que guarda el desarrollo de la ciencia y la tecnología en la entidad, y;
 
@@ -637,11 +677,13 @@ VII. La persona Titular de la Dirección General del Instituto Tecnológico de C
 
 VIII. Una persona representante del Centro Nacional de Investigación y Desarrollo Tecnológico (CENIDET);
 
-IX. La persona Titular de la Presidencia del Consejo Coordinador Empresarial;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+IX. La persona titular de la Presidencia del Consejo Coordinador Empresarial;
 
-X. Dos investigadores distinguidos designados por la Junta Directiva, a propuesta del Titular de la Dirección General del CCYTEM, quien deberá consultar y obtener las opiniones y propuestas de la comunidad científica, de conformidad con el Reglamento de esta Ley;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+X. Dos investigadoras o investigadores distinguidos designados o designadas por la Junta Directiva, a propuesta del titular de la Dirección General del CCYTEM, quien deberá consultar y obtener las opiniones y propuestas de la comunidad científica, de conformidad con el Reglamento de esta Ley;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
 
@@ -651,9 +693,13 @@ XI. Dos empresarios de amplia trayectoria y reconocimiento en el Estado designad
 
 XII. Dos personas representantes distinguidos de los subsistemas tecnológicos existentes del nivel medio superior, designados por la Junta Directiva a propuesta del Titular de la Dirección General, quien deberá consultar y obtener las propuestas de conformidad con el Reglamento de esta Ley.
 
-Los miembros del Consejo, no percibirán emolumentos o compensación alguna.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
 
-Todos los integrantes del Consejo Consultivo, con excepción de los invitados, tendrán derecho a voz y voto, respecto de los asuntos que se traten.
+Las y los miembros del Consejo, no percibirán emolumentos o compensación alguna.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+Todos los integrantes y las integrantes del Consejo Consultivo, con excepción de las y los invitados, tendrán derecho a voz y voto, respecto de los asuntos que se traten.
 
 ###### ARTÍCULO 19°.
 
@@ -725,11 +771,13 @@ En aquellos en los cuales se comprometa el patrimonio del organismo, deberá con
 
 III. Representar legalmente al CCYTEM y delegar esta representación;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-IV. Someter a la aprobación de la Junta Directiva, los nombramientos, cambios, licencias y remociones de los servidores públicos del CCYTEM, con funciones de mandos medios, así como sus sueldos y demás prestaciones de acuerdo a las asignaciones globales de presupuesto de gasto corriente, aprobado por la Junta Directiva;
+IV. Someter a la aprobación de la Junta Directiva, los nombramientos, cambios, licencias y remociones de las y los servidores públicos del CCYTEM, con funciones de mandos medios, así como sus sueldos y demás prestaciones de acuerdo a las asignaciones globales de presupuesto de gasto corriente, aprobado por la Junta Directiva;
 
-V. Nombrar y remover a los servidores públicos del organismo, de los niveles inferiores a los mencionados en la fracción que precede;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+V. Nombrar y remover a las y los servidores públicos del organismo, de los niveles inferiores a los mencionados en la fracción que precede;
 
 VI. Conducir las relaciones laborales con el personal adscrito al organismo;
 
@@ -753,21 +801,21 @@ XV. Los demás que les señalen las disposiciones legales aplicables, la Ley y s
 
 #### SECCIÓN QUINTA. DEL CONTROL Y VIGILANCIA
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 24°.
 
-El CCYTEM contará con un órgano de vigilancia, a través de un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+El CCYTEM contará con un órgano de vigilancia, a través de una o un comisario público propietario o propietaria y un suplente, designados o designadas por la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
 
-El Comisario Público, evaluará la actividad general y por funciones del CCYTEM; asimismo, realizará estudios sobre la eficiencia con la cual se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos, vigilando que el manejo y aplicación de los recursos públicos se efectúe de acuerdo a las disposiciones legales aplicables.
+La o el comisario público, evaluará la actividad general y por funciones del CCYTEM; asimismo, realizará estudios sobre la eficiencia con la cual se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos, vigilando que el manejo y aplicación de los recursos públicos se efectúe de acuerdo a las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 25°.
 
-El Comisario Público formará parte de la estructura del CCYTEM, dependerá de la Secretaría de la Contraloría del Poder Ejecutivo del Estado y presupuestalmente del CCYTEM, conforme a lo previsto por los artículos 67 y 69, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+La o el comisario público formará parte de la estructura del CCYTEM, dependerá de la Secretaría de la Contraloría del Poder Ejecutivo del Estado y presupuestalmente del CCYTEM, conforme a lo previsto por los artículos 67 y 69, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
 
-El Comisario Público, tendrá las facultades que le confieren el Reglamento Interior de la Secretaría de la Contraloría, y demás disposiciones jurídicas que le sean aplicables.
+La o el comisario público, tendrá las facultades que le confieren el Reglamento Interior de la Secretaría de la Contraloría, y demás disposiciones jurídicas que le sean aplicables.
 
 ###### ARTÍCULO 26°.
 
@@ -821,7 +869,9 @@ c). La vinculación;
 
 d). El sistema;
 
-e). La formación de investigadores, tecnólogos y profesionales de alto nivel;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+e). La formación de investigadoras, investigadores, tecnólogas, tecnólogos y profesionales de alto nivel;
 
 f). La infraestructura científica y tecnológica;
 
@@ -861,9 +911,9 @@ IX. Se promoverá a través de los divulgadores científicos, la difusión de la
 
 X. Las personas y entidades que realicen investigación y desarrollo tecnológico y reciban apoyos por parte del Ejecutivo del Estado deberán divulgar y difundir en la sociedad con apoyo de los divulgadores científicos sus actividades y los resultados de sus investigaciones, sin perjuicio que los derechos de propiedad industrial o intelectual y la información que por razón de su naturaleza deba ser reservada;
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-XI. Las políticas, instrumentos y criterios con los que el Ejecutivo Estatal fomente y apoye la investigación científica y el desarrollo tecnológico, deberán buscar el mayor efecto benéfico, de estas actividades, en la enseñanza y el aprendizaje de la ciencia y la tecnología, en la calidad de la educación, en la vinculación con el sector productivo y de servicios, así como incentivar la participación equilibrada y sin discriminación entre mujeres y hombres y el desarrollo de las nuevas generaciones de investigadores y tecnólogos.
+XI. Las políticas, instrumentos y criterios con los que el Ejecutivo Estatal fomente y apoye la investigación científica y el desarrollo tecnológico, deberán buscar el mayor efecto benéfico, de estas actividades, en la enseñanza y el aprendizaje de la ciencia y la tecnología, en la calidad de la educación, en la vinculación con el sector productivo y de servicios, así como incentivar la participación equilibrada y sin discriminación entre mujeres y hombres y el desarrollo de las nuevas generaciones de investigadoras, investigadores y tecnólogas y tecnólogos.
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -901,9 +951,9 @@ IV. Apoyar la integración de las comunidades científica y tecnológica del Est
 
 Para desarrollar, fortalecer y consolidar una cultura científica en la sociedad, el Ejecutivo del Estado y los Ayuntamientos, en su caso, promoverán la participación de los sectores gubernamental, académico, empleador y social en la divulgación y difusión de las actividades científicas y tecnológicas.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
 
-Asimismo, fomentarán la realización de actividades orientadas a la divulgación de la Ciencia y Tecnología, al interior de las Secretarías, Dependencias y Entidades de la Administración Pública Estatal. La participación de los divulgadores y científicos será fundamental en este propósito.
+Asimismo, fomentarán la realización de actividades orientadas a la divulgación de la Ciencia y Tecnología, al interior de las Secretarías, Dependencias y Entidades de la Administración Pública Estatal. La participación de las y los divulgadores y científicas y científicos será fundamental en este propósito.
 
 ###### ARTÍCULO 34°.
 
@@ -977,9 +1027,11 @@ Las bases preverán lo necesario para que el Sistema favorezca la vinculación e
 
 La investigación científica y tecnológica que el Ejecutivo del Estado apoya en los términos de esta Ley, buscará contribuir a desarrollar un sistema de educación, de formación y de capacitación de recursos humanos de calidad y alto nivel académico, en igualdad de oportunidades y acceso entre mujeres y hombres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 41°.
 
-Las instituciones públicas de educación superior, colaborarán a través de sus investigadores y docentes en actividades de divulgación y enseñanza científica y tecnológica, sin perjuicio de sus ámbitos de autonomía, a fin de promover el desarrollo sustentable del Estado a través de la promoción de la cultura científica.
+Las instituciones públicas de educación superior, colaborarán a través de sus investigadoras e investigadores y docentes en actividades de divulgación y enseñanza científica y tecnológica, sin perjuicio de sus ámbitos de autonomía, a fin de promover el desarrollo sustentable del Estado a través de la promoción de la cultura científica.
 
 Asimismo, promoverá la incorporación de contenidos científicos y tecnológicos en todos los programas educativos y fomentarán la realización de acciones de divulgación de la ciencia y la tecnología en el Estado, a fin de satisfacer las necesidades de la población en materia de educación científica y tecnológica.
 
@@ -1021,7 +1073,9 @@ Para la creación y la operación de los instrumentos de fomento a que se refier
 
 De igual forma, serán prioritarios los proyectos que se propongan lograr un uso racional, más eficiente y ecológicamente sustentable de los recursos naturales, así como las asociaciones cuyo propósito sea la creación y funcionamiento de redes científicas y tecnológicas.
 
-Para otorgar apoyo a las actividades de investigación tecnológica a que se refiere el presente artículo se requerirá que el proyecto respectivo cuente con una declaración formal de interés en la aplicación de la tecnología, expresada por él o los potenciales usuarios. Asimismo, salvo casos debidamente justificados, se requerirá que los beneficiarios del proyecto aporte recursos para el financiamiento conjunto del mismo.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+Para otorgar apoyo a las actividades de investigación tecnológica a que se refiere el presente artículo se requerirá que el proyecto respectivo cuente con una declaración formal de interés en la aplicación de la tecnología, expresada por él o los potenciales usuarios. Asimismo, salvo casos debidamente justificados, se requerirá que las y los beneficiarios del proyecto aporte recursos para el financiamiento conjunto del mismo.
 
 En cada caso se determinará la forma y condiciones en que la dependencia o entidad que apoye el proyecto tecnológico recuperará total o parcialmente los recursos que canalice y se ajustará a la modalidad conforme a la cual participará de los beneficios que resulte de la explotación de la tecnología de conformidad con lo establecido en la Ley de la materia.
 
@@ -1063,7 +1117,9 @@ IV. Legalidad y transparencia.
 
 Los fondos a que se refiere este capítulo deberán constituirse especificando en cada caso el instrumento jurídico que lo constituya, las reglas y los manuales de procedimientos a los que se sujetará la operación de los recursos destinados al fondo, entre otros, a través de: fideicomisos, convenios de coordinación o concertación; así como los demás que la legislación administrativa o bancaria prevén.
 
-###### ARTÍCULO 53°.
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2021)
+
+###### ARTÍCULO 53.
 
 Los fondos se sujetarán a las siguientes disposiciones:
 
@@ -1071,7 +1127,9 @@ I. Los recursos se canalizarán invariablemente a la finalidad a la que hayan si
 
 II. La canalización de recursos se considerará como erogaciones devengadas del presupuesto de egresos de la administración publica estatal; por lo tanto el ejercicio de los recursos deberá realizarse conforme a los términos de los contratos correspondientes y a sus reglas de operación, y;
 
-III. Los beneficiarios podrán ser las personas físicas o morales que previamente haya seleccionado la institución, dependencia o entidad otorgante.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+III. Las y los beneficiarios podrán ser las personas físicas o morales que previamente haya seleccionado la institución, dependencia o entidad otorgante.
 
 ###### ARTÍCULO 54°.
 
@@ -1131,7 +1189,9 @@ III. Se emitirán por el Comité, a más tardar el último día del mes de marzo
 
 IV. Se determinará la aplicación de los estímulos o exenciones y la forma, los términos y las modalidades con que se podrán acreditar, con base en las reglas que para tal efecto expida el Comité, basado en las normas que les sean aplicables;
 
-V. La aplicación de este beneficio se limitará al monto total del estímulo a cubrir o la exención respectiva, entre los aspirantes, y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+V. La aplicación de este beneficio se limitará al monto total del estímulo a cubrir o la exención respectiva, entre las y los aspirantes, y
 
 VI. El Comité, tendrá como término el último día de los meses de julio y diciembre para publicitar el monto erogado por concepto de este estímulo o por exención fiscal correspondiente, durante el primero y segundo semestre, así como las empresas merecedoras y los proyectos por los cuales se determinó el beneficio.
 
@@ -1139,27 +1199,37 @@ VI. El Comité, tendrá como término el último día de los meses de julio y di
 
 ### CAPÍTULO PRIMERO. DEL SISTEMA ESTATAL DE INVESTIGADORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 58°.
 
-Se integra el Sistema Estatal de Investigadores del Estado de Morelos, que tendrá como objetivos:
+Se integra el Sistema Estatal de investigadoras e Investigadores del Estado de Morelos, que tendrá como objetivos:
 
-I. Reconocer y estimular el desempeño de los integrantes de la Comunidad Científica del Estado de Morelos;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-II. Promover e impulsar las actividades científicas y tecnológicas de los integrantes de la comunidad científica del Estado, propiciando el incremento de la productividad, el mejoramiento de la calidad y su participación en la formación de nuevos investigadores que colaboren en el desarrollo del Estado, así como la consolidación de los ya existentes;
+I. Reconocer y estimular el desempeño de las y los integrantes de la comunidad científica del estado de Morelos;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+II. Promover e impulsar las actividades científicas y tecnológicas de los integrantes de la comunidad científica del Estado, propiciando el incremento de la productividad, el mejoramiento de la calidad y su participación en la formación de nuevos investigadores e investigadoras que colaboren en el desarrollo del Estado, así como la consolidación de los ya existentes;
 
 III. Establecer y actualizar un padrón de miembros de la comunidad científica;
 
-IV. Facilitar a los miembros de la comunidad científica la obtención de los méritos necesarios para su incorporación en los esquemas nacionales e internacionales de reconocimiento a la función de investigación y desarrollo tecnológico;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+IV. Facilitar a las y los miembros de la comunidad científica la obtención de los méritos necesarios para su incorporación en los esquemas nacionales e internacionales de reconocimiento a la función de investigación y desarrollo tecnológico;
 
 V. Orientar la investigación que se realiza en el Estado de acuerdo con las prioridades establecidas en el Plan Estatal de Desarrollo y en el Programa Especial, y;
 
-VI. Apoyar la integración de grupos de investigadores en el Estado, que participen en el proceso de generación de conocimientos científicos y tecnológicos hasta su aplicación en la planta productiva de bienes y servicios, de las instituciones de los sectores público, social y privado.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+VI. Apoyar la integración de grupos de investigadoras e investigadores en el Estado, que participen en el proceso de generación de conocimientos científicos y tecnológicos hasta su aplicación en la planta productiva de bienes y servicios, de las instituciones de los sectores público, social y privado.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 59°.
 
-Podrán formar parte del Sistema Estatal de Investigadores, todos aquellos miembros de la comunidad científica reconocidos como activos por la Secretaría, cuya labor científica o tecnológica cumpla con lo estipulado en el Reglamento Interno del propio Sistema Estatal de Investigadores y las bases que para el otorgamiento de los reconocimientos y estímulos se emitan.
+Podrán formar parte del Sistema Estatal de Investigadoras e Investigadores, todos aquellos miembros de la comunidad científica reconocidos como activos por la Secretaría, cuya labor científica o tecnológica cumpla con lo estipulado en el Reglamento Interno del propio Sistema Estatal de Investigadores y las bases que para el otorgamiento de los reconocimientos y estímulos se emitan.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
 
@@ -1169,9 +1239,11 @@ La Secretaría será la encargada de instaurar, desarrollar y administrar el Sis
 
 ### CAPÍTULO SEGUNDO. RECONOCIMIENTO AL MÉRITO ESTATAL DE INVESTIGACIÓN
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 61°.
 
-Se crea el reconocimiento al mérito Estatal de Investigación, con el objeto de reconocer y estimular la investigación científica y tecnológica de calidad, su promoción y difusión realizada por el científico y tecnólogo o equipos de científicos o equipos de tecnólogos morelenses o que radiquen en Morelos, cuya obra en estos campos los haga acreedores a tal distinción.
+Se crea el Reconocimiento al Mérito Estatal de Investigación, con el objeto de reconocer y estimular la investigación científica y tecnológica de calidad, su promoción y difusión realizada por la o el científico y tecnóloga, tecnólogo o equipos de científicas, científicos o equipos de tecnólogas, tecnólogos morelenses o que radiquen en Morelos, cuya obra en estos campos las y los haga acreedores a tal distinción.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
 
@@ -1312,3 +1384,11 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente decreto.
+
+P.O. 16 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO CINCUENTA Y UNO.- POR EL QUE SE REFORMA LA LEY DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
