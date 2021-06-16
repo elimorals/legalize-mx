@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2021-05-28"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -613,13 +613,17 @@ XXI.- Establecer mecanismos tendientes a promover las actividades extracurricula
 
 XXII.- Implementar en coordinación con la autoridad competente y la Secretaría de Salud las medidas de protección para los alumnos ante la declaratoria de alerta de contingencia atmosférica de acuerdo a los lineamientos del Programa de Respuesta a Contingencias Atmosféricas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-XXIII.- Establecer programas educativos para el aprendizaje de las lenguas extranjeras para el nivel de Educación Básica; y
+XXIII.- Establecer programas educativos para el aprendizaje de las lenguas extranjeras para el nivel de Educación Básica;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2021)</small>
 
-XXIV.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+XXIV.- Canalizar al Instituto de Salud Mental a los estudiantes y sus familias para que se les brinde el tratamiento y seguimiento correspondiente o en su caso dar vista a laProcuraduría (sic) de Protección de Niñas, Niños y Adolescentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2021)</small>
+
+XXV.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -2512,3 +2516,13 @@ P.O. 28 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 483. SE REFORMAN (SIC) LA FRACCIÓN XIV DEL ARTÍCULO 120 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al día siguiente (sic) de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 495. SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 12; LOS ARTÍCULOS 14, 15 Y 83; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 16, TODOS DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XXIII Y XXIV; Y SE ADICIONA UNA FRACCIÓN XXV AL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO; Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 336 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado tendrá 90 días naturales para elaborar los lineamientos, bajo los que se llevará a cabo lo dispuesto en el presente Decreto. La Procuraduría de Protección de Niñas, Niños y Adolescentes, la Secretaría Estatal de Salud y la Secretaría de Educación del Estado de Nuevo León, deberán adecuar todas las disposiciones normativas correspondientes 30 días naturales después de emitidos los lineamientos mencionados.
+
+TERCERO.- En los lineamientos que se realicen, deberá darse prioridad a que el Tamiz de Salud Mental, se aplique haciendo uso de medios telemáticos, aprovechando los recursos materiales, humanos y tecnológicos con los que ya se cuenta, tanto en la Secretaria de Educación, así como en la Secretaria de Salud, sin que sea limitativo, en caso de que el Titular del Ejecutivo del Estado, considere la dispensa de mayores recursos para cumplir debidamente con lo dispuesto en el presente Decreto, deberá de prever en su proyecto de presupuesto de egresos para el ejercicio fiscal siguiente, la partida presupuestal correspondiente.
