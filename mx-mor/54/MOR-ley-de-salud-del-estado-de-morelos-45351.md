@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2020-10-28"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -2253,11 +2253,15 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPÍTULO II. PROGRAMA CONTRA EL TABAQUISMO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2021)</small>
+
+### CAPÍTULO II. PROGRAMA CONTRA EL TABAQUISMO Y SUS DERIVADOS
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2021)</small>
 
 ###### Artículo 167.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
+El Tabaquismo es una enfermedad adictiva, crónica y recurrente, dependencia que produce la nicotina, que afecta de manera diversa la salud de las personas, y así como sus derivados, como lo son, cigarros combustibles, cigarrillo electrónico, vapeador, vaporizadores, pipas y derivados productos del Tabaco.
 
 ###### ARTÍCULO 168.
 
@@ -4772,3 +4776,13 @@ PRIMERO.- Aprobado que sea el presente Decreto, remítase al Titular del Poder E
 SEGUNDO.- El presente Decreto iniciará su vigencia a partir de los sesenta días naturales siguientes a su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del gobierno del estado de Morelos.
 
 TERCERO: Las autoridades sanitarias en el Estado, el Gobernador del Estado, el Secretario de Salud, el Organismo público descentralizado denominado “Servicios de Salud de Morelos”, los H. Ayuntamientos, en el ámbito de su respectiva competencia, dentro del plazo de vigencia otorgado en el transitorio segundo, deberán actualizar sus disposiciones, lineamientos y/o reglamentos internos necesarios de acuerdo a la reforma aplicada a la Ley de Salud del Estado de Morelos.
+
+P.O. 16 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO CINCUENTA Y DOS POR EL QUE SE REFORMA Y ADICIONA A (SIC) LA LEY DE SALUD DEL ESTADO DE MORELOS, EN MATERIA DE CONSUMO DE TABACO Y SUS DERIVADOS”.]
+
+PRIMERO.- Aprobado que sea el presente Decreto, remítase al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia a partir del día siguiente a su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERO.- Las autoridades sanitarias en el Estado, el Gobernador del Estado, el secretario de Salud, el organismo público descentralizado denominado “Servicios de Salud de Morelos”, los H. Ayuntamientos, en el ámbito de su respectiva competencia, dentro del plazo de noventa días, deberán actualizar sus disposiciones, lineamientos y/o Reglamentos Internos necesarios de acuerdo a la reforma aplicada a la Ley de Salud del Estado de Morelos.
