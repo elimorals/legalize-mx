@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-salud-mental-para-el-estado-de-nuevo-leon-128480"
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-09"
-last_updated: "2021-03-31"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
 
 Ley publicada en la Sección III al Número 58 del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 2018.
 
@@ -291,23 +291,39 @@ Los servicios de atención a la salud mental proporcionados a Niñas, Niños y A
 
 La internación es un recurso terapéutico de carácter excepcional, en caso de que se solicite en Niñas, Niños o Adolescentes ésta deberá ser lo más breve posible en función de los criterios terapéuticos interdisciplinarios. El internamiento de Niñas, Niños o Adolescentes deberá cumplir con las reglas establecidas en esta Ley y en el Reglamento correspondiente. No obstante lo anterior, los profesionales de salud mental que proporcionen servicios de atención a la salud mental a Niñas, Niños y Adolescentes bajo la modalidad de internamiento deberán brindarlo en áreas acordes a sus especiales necesidades y en lugar distinto al del internamiento de usuarios adultos.
 
-En todo caso, los profesionales de salud mental que proporcionen servicios de atención a la salud mental a Niñas, Niños y Adolescentes bajo la modalidad de internamiento deberán emitir, inmediatamente después de su ingreso, el reporte clínico correspondiente, mediante el cual justifiquen los motivos del internamiento, debiendo dar vista desde luego, mediante la entrega de su original, a la Procuraduría de Protección de Niñas, Niños y Adolescentes y ser anexada al expediente clínico una copia del mismo. La Procuraduría de Protección de Niñas, Niños y Adolescentes, el Ministerio Público y las autoridades judiciales podrán exigir a los profesionales de salud mental que proporcionen servicios de atención a la salud mental a Niñas, Niños y Adolescentes bajo la modalidad de internamiento, dictámenes y reportes sobre el estado de salud de los usuarios de sus servicios, y aquellos en todo momento tendrán la obligación de expedirlos.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+En todo caso, los profesionales de salud mental que proporcionen servicios de atención a la salud mental a Niñas, Niños y Adolescentes bajo la modalidad de internamiento deberán emitir, inmediatamente después de su ingreso, el reporte clínico correspondiente, mediante el cual justifiquen los motivos del internamiento, debiendo dar vista desde luego, mediante la entrega de su original, a la Procuraduría de Protección de Niñas, Niños y Adolescentes y ser anexada al expediente clínico una copia del mismo. La Procuraduría de Protección de Niñas, Niños y Adolescentes, el Ministerio Público y las autoridades judiciales podrán exigir a los profesionales de salud mental que proporcionen servicios de atención a la salud mental a Niñas, Niños y Adolescentes bajo la modalidad de tratamiento ambulatorio o domiciliario, internamiento, dictámenes y reportes sobre el estado de salud de los usuarios de sus servicios, y aquellos en todo momento tendrán la obligación de realizarlos y expedirlos.
 
 ###### Artículo 13.
 
 El derecho de Niñas, Niños y Adolescentes a la salud mental y a vivir en condiciones de bienestar serán garantizados por las autoridades en sus distintos ámbitos de competencia, aún, ante la negativa de quienes ejerzan su patria potestad o custodia, en caso de urgencia, previa autorización otorgada mediante responsiva médica y, en el resto de los casos, mediante resolución del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
 ###### Artículo 14.
 
-En caso de que una Niña, Niño o Adolescente requiera un servicio de atención a la salud mental y no pueda ser identificado o se trate de migrantes sin compañía, el profesional de la salud mental que conozca del caso, desde luego, dará vista a la Procuraduría de Protección de Niñas, Niños y Adolescentes quien realizará el acompañamiento correspondiente y fungirá como su representante en protección de sus intereses. Para el caso de Niñas, Niños o Adolescentes migrantes acompañados, la Procuraduría de Protección de Niñas, Niños y Adolescentes protegerá sus intereses hasta en tanto su acompañante se acredité como su tutor.
+Toda Niña, Niño o Adolescente que requiera de un servicio de atención a la salud mental, deberá ser acompañado por su padre, madre o quien ejerza la tutela, guarda o custodia desde el inicio del tratamiento hasta la rehabilitación.
+
+En caso de que la Niña, Niño o Adolescente no puedan ser identificados o se trate de migrantes sin compañía, el profesional de la salud mental que conozca del caso, desde luego, dará vistaa (sic) la Procuraduría de Protección de Niñas, Niños y Adolescentes quien realizará el acompañamiento correspondiente y fungirá como su representante en protección de sus intereses. Para el caso de Niñas, Niños o Adolescentes migrantes acompañados, la Procuraduría de Protección de Niñas, Niños y Adolescentes protegerá sus intereses hasta en tanto su acompañante se acredité como su tutor.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
 
 ###### Artículo 15.
 
-Todo profesional de la salud mental que al proporcionar sus servicios a una Niña, Niño o Adolescente advierta que el usuario está siendo o ha sido víctima de negligencia, violencia o maltrato de carácter físico, psicológico, sexual, emocional o económico por parte de sus padres, tutores, cuidadores o de cualquier persona, deberá notificarlo a la Procuraduría de Protección de Niñas, Niños y Adolescentes o al Ministerio Público.
+Todo profesional de la salud mental que, al proporcionar sus servicios a las Niñas, Niños o Adolescentes, advierta que el usuario está siendo o ha sido víctima de negligencia, abandono, violencia o maltrato de carácter físico, psicológico, sexual, emocional o económico por parte de sus padres, tutores, cuidadores o de cualquier persona, deberá notificarlo a la Procuraduría de Protección de Niñas, Niños y Adolescentes o al Ministerio Público.
 
 ###### Artículo 16.
 
 El sistema educativo estatal, público y privado, a fin de procurar el normal desarrollo de Niñas, Niños y Adolescentes deberá contar con especialistas en salud mental que además de proveer la atención, realizarán el tamizaje de salud mental y, en su caso, la canalización correspondiente a los centros especializados. Para ello, la Secretaría de Educación, por conducto del Instituto, capacitará al personal docente y administrativo de las escuelas públicas y privadas en la detección de factores de riesgo que alteren la salud de la comunidad escolar y de la sociedad en general.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+El tamizaje de salud mental, a que hace referencia el párrafo anterior, se llevará a cabo por los especialistas de salud mental del sistema educativo, por lo menos 1 vez en el transcurso del ciclo escolar. Para su realización contarán con el apoyo del Instituto de Salud Mental y las herramientas materiales, humanas y tecnológicas que deberán ser proporcionadas de manera coordinada por la Secretaria de Salud y la Secretaria de Educación del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+Si derivado del Tamizaje de Salud Mental, se advirtiera la necesidad de atención a la salud mental de alguno de los alumnos, la autoridad educativa deberá actuar conforme a la fracción I del artículo 29 de esta Ley. Pero si dentro del plazo de 15 días hábiles, el padre, la madre o quien ejerza la tutela, guarda o custodia, no demuestra ante la autoridad educativa que ha brindado a la niña, niño o adolescente la debida atención médica, dicha autoridad dará vista a la Procuraduría de Protección de Niñas, Niños y Adolescentes quien realizará el acompañamiento correspondiente y fungirá como su representante en protección de sus intereses hasta en tanto su padre, madre o quien ejerza la tutela, guarda o custodia cumpla con su obligación.
 
 ###### Artículo 17.
 
@@ -853,9 +869,11 @@ La autoridad o institución intervinientes terminan su participación hasta que 
 
 Todo ingreso debe ser comunicado por el director, responsable o encargado del establecimiento sea público, social o privado, a los familiares de la persona o representante legal si los tuviere y al juez de la causa si correspondiere, así como a otra persona que el paciente indique.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
 ###### Artículo 83.
 
-El ingreso de niñas, niños y adolescentes, sólo será con la autorización de los padres o quien tenga depositado la tutela, o en caso de urgencia, por el Ministerio Público.
+El ingreso de niñas, niños y adolescentes, sólo será con la autorización de los padres o de quien tenga la tutela y, en caso de urgencia, por el Ministerio Público o por la Procuraduría de protección de Niñas, Niños y Adolescentes.
 
 ###### Artículo 84.
 
@@ -1012,3 +1030,13 @@ P.O. 31 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 466. SE REFORMAN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 24, Y EL ARTÍCULO 53; Y SE ADICIONAN LA FRACCIÓN XX AL ARTÍCULO 24 Y LAS FRACCIONES VIII BIS Y VIII BIS 1 AL ARTÍCULO 36; TODOS DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN”,]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 495. SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 12; LOS ARTÍCULOS 14, 15 Y 83; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 16, TODOS DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XXIII Y XXIV; Y SE ADICIONA UNA FRACCIÓN XXV AL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO; Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 336 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado tendrá 90 días naturales para elaborar los lineamientos, bajo los que se llevará a cabo lo dispuesto en el presente Decreto. La Procuraduría de Protección de Niñas, Niños y Adolescentes, la Secretaría Estatal de Salud y la Secretaría de Educación del Estado de Nuevo León, deberán adecuar todas las disposiciones normativas correspondientes (sic) 30 días naturales después de emitidos los lineamientos mencionados.
+
+TERCERO.- En los lineamientos que se realicen, deberá darse prioridad a que el Tamiz de Salud Mental, se aplique haciendo uso de medios telemáticos, aprovechando los recursos materiales, humanos y tecnológicos con los que ya se cuenta, tanto en la Secretaria de Educación, así como en la Secretaria de Salud, sin que sea limitativo, en caso de que el Titular del Ejecutivo del Estado, considere la dispensa de mayores recursos para cumplir debidamente con lo dispuesto en el presente Decreto, deberá de prever en su proyecto de presupuesto de egresos para el ejercicio fiscal siguiente, la partida presupuestal correspondiente.
