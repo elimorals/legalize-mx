@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2021-06-11"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -1119,11 +1119,25 @@ El Sistema DIF Estatal enviará al Sistema DIF Nacional la información en el mo
 
 En ningún caso una situación migratoria irregular de niña, niño o adolescente, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
 
-### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2021)</small>
+
+### CAPÍTULO VIGÉSIMO. DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+Artículo 97 bis. Las niñas, niños y adolescentes gozarán del derecho de acceso universal a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General y, en la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+Artículo 97 ter. El Estado procurará que niñas, niños y adolescentes accedan a la información y el conocimiento, acorde a los fines establecidos en la Constitución Política de los Estados Unidos Mexicanos, mediante políticas de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+Artículo 97 quater. Las niñas, niños y adolescentes tienen derecho al acceso y uso del internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
-### CAPÍTULO ÚNICO. DE LOS CENTROS DE ASISTENCIA SOCIAL
+### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 98.
 
@@ -1193,7 +1207,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO PRIMERO. DE LAS AUTORIDADES
+### CAPÍTULO ÚNICO. DE LOS CENTROS DE ASISTENCIA SOCIAL
 
 ###### Artículo 103.
 
@@ -1353,7 +1367,7 @@ El procedimiento para la supervisión a los Centros de Asistencia Social se esta
 
 ## TÍTULO QUINTO. DE LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO SEGUNDO. DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO PRIMERO. DE LAS AUTORIDADES
 
 ###### Artículo 111.
 
@@ -1499,7 +1513,7 @@ XVI. Prestar apoyo y colaboración técnica y administrativa a los municipios en
 
 XVII. Las demás que establezcan los ordenamientos estatales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema DIF Nacional.
 
-### CAPÍTULO TERCERO. DEL SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
+### CAPÍTULO SEGUNDO. DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 116.
 
@@ -1601,7 +1615,7 @@ La Procuraduría de Protección se auxiliará con las Procuradurías de Protecci
 
 Las Procuradurías de Protección de los Municipios del Estado, según corresponda en el ámbito de sus competencias, tendrán las atribuciones que se señalan en el artículo 117 con excepción de lo dispuesto en las fracciones X, XI y XIII del citado numeral.
 
-### CAPÍTULO CUARTO. DE LOS ORGANISMOS DE PROTECCIÓN DE DERECHOS HUMANOS
+### CAPÍTULO TERCERO. DEL SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
 
 #### SECCIÓN PRIMERA. DE LOS INTEGRANTES
 
@@ -1827,7 +1841,7 @@ Las bases generales de la administración pública municipal dispondrán la obli
 
 La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos contenidos en la presente Ley, a efecto de que se dé vista a los Sistemas DIF Municipales de forma inmediata, así como deberá ejercer, sin perjuicio de otras que dispongan las leyes aplicables, las atribuciones previstas en el artículo 115 de esta Ley.
 
-### CAPÍTULO QUINTO. DE LOS PROGRAMAS ESTATALES Y MUNICIPALES
+### CAPÍTULO CUARTO. DE LOS ORGANISMOS DE PROTECCIÓN DE DERECHOS HUMANOS
 
 ###### Artículo 131.
 
@@ -1835,7 +1849,7 @@ La Comisión Estatal de Derechos Humanos y los organismos de protección de los 
 
 Tendrá a su cargo capacitar a los servidores públicos y sociedad en general respecto a los derechos humanos de niñas, niños y adolescentes.
 
-### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO QUINTO. DE LOS PROGRAMAS ESTATALES Y MUNICIPALES
 
 ###### Artículo 132.
 
@@ -1858,6 +1872,8 @@ Los Programas Estatal y Municipal deberán incluir mecanismos transparentes que 
 Los Sistemas Estatal y Municipal de Protección Integral contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
 
 ## TÍTULO SEXTO. DE LAS INFRACCIONES ADMINISTRATIVAS
+
+### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 137.
 
@@ -1980,3 +1996,11 @@ P.O. 11 DE JUNIO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al contenido de este decreto.
+
+P.O. 16 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 230 POR EL QUE “SE ADICIONA UN CAPÍTULO VIGÉSIMO DENOMINADO “DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN” AL TÍTULO SEGUNDO, CON LOS ARTÍCULOS 97 BIS, 97 TER, Y 97 QUATER A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
