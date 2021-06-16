@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2021-06-02"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -7019,9 +7019,11 @@ TAMBIEN SE SANCIONARA POR LA COMISION DE ESTE DELITO A LA PERSONA QUE, EJERCIEND
 
 AL QUE ENCUENTRE ABANDONADO EN CUALQUIER SITIO A UN MENOR INCAPAZ DE CUIDARSE A SI MISMO O A UNA PERSONA HERIDA, INVALIDA O AMENAZADA DE UN PELIGRO CUALQUIERA, SE LE APLICARAN DE UNO A DOS MESES DE PRISION, O MULTA DE TRES CUOTAS, SI NO DIERE AVISO INMEDIATO A LA AUTORIDAD U OMITIERE PRESTARLE EL AUXILIO NECESARIO, CUANDO PUDIERA HACERLO SIN RIESGO PERSONAL.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2021)</small>
 
-ARTICULO 336 BIS.- AL QUE TENIENDO LA OBLIGACION DE CUIDAR A UN MENOR O A OTRA PERSONA QUE NO PUEDA CUIDARSE A SI MISMA, EN VIRTUD DE SU ESTADO DE SALUD O FISICO, LO ABANDONE EN FORMA EN LA QUE SE VEA EXPUESTO A UN PELIGRO CUALQUIERA, SE LE APLICARA DE UNO A SIETE AÑOS DE PRISION Y UNA MULTA DE TREINTA A TRESCIENTAS CUOTAS, CUANDO NO RESULTARE LESIONADO.
+ARTICULO 336 BIS.- AL QUE TENIENDO LA OBLIGACION DE CUIDAR A UN MENOR O A OTRA PERSONA QUE NO PUEDA CUIDARSE A SI MISMA, EN VIRTUD DE SU ESTADO DE SALUD; FISICO O MENTAL, LO ABANDONE EN FORMA EN LA QUE SE VEA EXPUESTO A UN PELIGRO CUALQUIERA, SE LE APLICARA DE UNO A SIETE AÑOS DE PRISION Y UNA MULTA DE TREINTA A TRESCIENTAS CUOTAS, CUANDO NO RESULTARE LESIONADO.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2006)</small>
 
 PARA EL CASO DE QUE RESULTARA ALGUNA LESION GRAVE A LA PERSONA O PERSONAS ABANDONADAS, SE LE APLICARAN DE DOS A NUEVE AÑOS DE PRISION Y MULTA DE SESENTA A CUATROCIENTAS CUOTAS.
 
@@ -9536,6 +9538,16 @@ I. En los procesos incoados, en los que aún no se formulen conclusiones acusato
 II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
 
 III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+P.O. 16 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 495. SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 12; LOS ARTÍCULOS 14, 15 Y 83; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 16, TODOS DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XXIII Y XXIV; Y SE ADICIONA UNA FRACCIÓN XXV AL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO; Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 336 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado tendrá 90 días naturales para elaborar los lineamientos, bajo los que se llevará a cabo lo dispuesto en el presente Decreto. La Procuraduría de Protección de Niñas, Niños y Adolescentes, la Secretaría Estatal de Salud y la Secretaría de Educación del Estado de Nuevo León, deberán adecuar todas las disposiciones normativas correspondientes 30 días naturales después de emitidos los lineamientos mencionados.
+
+TERCERO.- En los lineamientos que se realicen, deberá darse prioridad a que el Tamiz de Salud Mental, se aplique haciendo uso de medios telemáticos, aprovechando los recursos materiales, humanos y tecnológicos con los que ya se cuenta, tanto en la Secretaria de Educación, así como en la Secretaria de Salud, sin que sea limitativo, en caso de que el Titular del Ejecutivo del Estado, considere la dispensa de mayores recursos para cumplir debidamente con lo dispuesto en el presente Decreto, deberá de prever en su proyecto de presupuesto de egresos para el ejercicio fiscal siguiente, la partida presupuestal correspondiente.
 
 ###### ARTICULO UNICO.
 
