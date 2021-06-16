@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-de-la-cultura-del-cuidado-del-agua-en-el-89149"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-22"
-last_updated: "2013-08-14"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO DE LA CULTURA DEL CUIDADO DEL AGUA EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 22 de agosto de 2012.
 
@@ -253,6 +253,8 @@ El Programa Estatal, será el principal instrumento de acción gubernamental en 
 
 El Programa Estatal deberá ser incluido como un apartado especifico en los Programas e Informes del Gobierno del Estado, así como en el Proyecto de Presupuesto de Egresos de cada año y en el Decreto respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2021)</small>
+
 ###### Artículo 18.
 
 El Programa a que se refiere el presente Capitulo, promoverá el cumplimiento de los siguientes objetivos:
@@ -269,7 +271,33 @@ V.- Fomentar, en la iniciativa privada, la capacitación de recursos humanos en 
 
 VI.- Promover la investigación y el desarrollo tecnológico en la materia;
 
-VII.- Las demás que determine el Titular del Ejecutivo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2021)</small>
+
+VII.- Implementar, por conducto del Sistema Educativo Estatal tanto en su dimensión pública como privada, los programas educativos la materia del cuidado, uso racional y responsable del agua;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+VIII.- Formular medidas para el uso racional del agua que den la debida observancia a las normas y leyes vigentes en la materia y asimismo, recuperen las mejores prácticas reconocidas de uso racional;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+IX.- Fomentar el uso de aguas residuales tratadas para todos los usos que no requieran la calidad de agua potable, así como la captación y aprovechamiento del agua de lluvia;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+X.- Sensibilizar a la población en general y a todas las entidades públicas y privadas sobre el costo del suministro del agua, tanto para lograr el uso racional del recurso como para promover la cultura del pago;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+XI.- Difundir los beneficios y costos socioeconómicos y ambientales que puede llevar consigo el uso racional y el cuidado del agua;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+XII.- Realizar campañas permanentes de detección de fugas en inmuebles público (sic), redes municipales, negocios y casas habitación, en razón de coadyuvar en la creación de la cultura ambiental y la educación sobre el cuidado del agua; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2021)</small>
+
+XIII.- Las demás que determine el titular del Ejecutivo.
 
 ### CAPÍTULO CUARTO (SIC)
 
@@ -330,3 +358,13 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente.
+
+P.O. 16 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO CUARENTA Y NUEVE POR EL QUE SE REFORMA LA FRACCIÓN VII Y SE ADICIONAN LAS FRACCIONES VIII, IX, X, XI, XII Y XIII DEL ARTÍCULO 18 DE LA LEY DE FOMENTO DE LA CULTURA DEL CUIDADO DEL AGUA EN EL ESTADO DE MORELOS”.]
+
+PRIMERA. Aprobado el presente decreto se remitirá al gobernador constitucional del estado para que se publique en el Periódico Oficial " Tierra y Libertad “, órgano de difusión oficial del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan (sic) contenido del presente decreto.
