@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-mental-del-estado-de-morelos-83235"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-12"
-last_updated: "2021-05-26"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 
@@ -357,7 +357,9 @@ V.- Diseñar y llevar a cabo campañas que reduzcan los factores de riesgo, y co
 
 VI.- Establecer medidas y acciones que permitan la prevención del suicidio en el Estado de Morelos y formular un Programa Estatal de Atención y Prevención del Suicidio;
 
-VII.- Participar en las acciones de atención psicológica a personas afectadas en situación de emergencia o desastre en el Estado de Morelos, y
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+VII.- Participar en las acciones de atención psicológica a personas afectadas en situación de desastres, emergencias, contingencias y condiciones de aislamiento o distanciamiento social, y
 
 VIII.- Elaborar, difundir y llevar a cabo los programas de salud mental; así como contribuir en su elaboración y aplicación cuando sea requerido por otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable.
 
@@ -397,9 +399,15 @@ XII.- Implementar estrategias de coordinación de índole institucional con los 
 
 XIII.- Coordinarse con la Secretaría del Trabajo, a efecto de establecer acciones y convenios para que las personas con trastornos mentales, puedan ser incluidos como parte de la plantilla laboral de las empresas e instituciones de Gobierno, mismas que se especificarán en el Reglamento de la presente Ley;
 
-XIV.- Presentar un informe anual sobre las políticas públicas implementadas en materia de salud mental, así como el estado de avance en el cumplimiento del Programa de Salud Mental para el Estado de Morelos y los diversos programas generados, el cual deberán remitir al Consejo y al Congreso del Estado; y
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
 
-XV.- Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
+XIV.- Presentar un informe anual sobre las políticas públicas implementadas en materia de salud mental, así como el estado de avance en el cumplimiento del Programa de Salud Mental para el Estado de Morelos y los diversos programas generados, el cual deberán remitir al Consejo y al Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+XV.- Crear, elaborar, implementar y aplicar mecanismos, protocolos, campañas y programas especializados para la prestación de servicios en materia de salud mental y atención psicológica a las personas afectadas por situaciones críticas, desastres naturales, emergencias, contingencias y por condiciones de aislamiento o distanciamiento social; procurando su promoción y difusión utilizando las tecnologías de la información y demás medios de difusión masiva, con el objeto de reducir los niveles de estrés, ansiedad, depresión y los diversos tipos de trastornos mentales o cualquier otra condición psicológica negativa que se origine como consecuencia de dichas situaciones críticas, desastres o emergencias, y
+
+XVI.- Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -421,9 +429,11 @@ VI. Establecer los criterios necesarios para la difusión de información sobre 
 
 Para la elaboración del presente Programa, los Servicios de Salud de Morelos podrán considerar la participación de la Secretaría de Salud, de las dependencias y entidades públicas del Sistema Estatal de Salud, de las autoridades municipales y de los sectores social y privado involucrados en el tema.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
 ###### Artículo 13.
 
-La Secretaría deberá disponer de lo necesario para que se establezcan programas permanentes especiales de atención en salud mental, de acuerdo con la norma oficial en la materia, entre los que se encuentran Depresión, epilepsia, esquizofrenia, demencias y trastornos asociados, psicopatología infantil y de la adolescencia, trastorno por déficit de atención, enfermedad de Parkinson y atención psicológica en casos de desastres y otros que por su importancia requieran de atención.
+La secretaría deberá disponer de lo necesario para que se establezcan programas permanentes especiales de atención en salud mental, de acuerdo con la norma oficial en la materia, entre los que se encuentran depresión, epilepsia, esquizofrenia, demencias y trastornos asociados, psicopatología infantil y de la adolescencia, trastorno por déficit de atención, enfermedad de Parkinson y atención psicológica en casos de desastres, emergencias, contingencias y en condiciones de aislamiento o distanciamiento social, determinados por la autoridad competente y otros que por su importancia requieran de atención.
 
 ###### Artículo 14.
 
@@ -451,9 +461,11 @@ Todo servidor público que tenga acercamiento o contacto con personas usuarias p
 
 La formación profesional en materia de prevención, requiere de la capacitación de los profesionistas en psicología y psiquiatría en los métodos para la elaboración de programas preventivos y actualizados en las diferentes campañas y programas gubernamentales internacionales, nacionales y regionales vinculados con la salud mental;
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
 ###### Artículo 20.
 
-La capacitación en materia de prevención, comprende el acceso al conocimiento sobre los avances científicos de los padecimientos crónicos, deterioro de la calidad de vida y posibles riesgos ante situaciones críticas o de desastres naturales, así como actualización en los distintos tipos de seguimiento y sus consecuencias.
+La capacitación en materia de prevención, comprende el acceso al conocimiento sobre los avances científicos de los padecimientos crónicos, deterioro de la calidad de vida y posibles riesgos ante situaciones críticas, de desastres naturales, emergencias, contingencias o por condiciones de aislamiento y distanciamiento social, así como actualización en los distintos tipos de seguimiento y sus consecuencias.
 
 ### CAPÍTULO III. DE LOS PRESTADORES DE SERVICIOS
 
@@ -557,9 +569,11 @@ Con la finalidad de dar seguimiento a las personas usuarias de los servicios de 
 
 Para efectos del presente Capítulo, se consideran trastornos mentales en particular, aquellas afecciones psicopatológicas que presentan las personas y que requieren una atención prioritaria derivado del grado de peligrosidad para la vida del paciente, de terceros o bien de los bienes tanto propios como de terceros.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+
 ###### Artículo 39.
 
-Derivado de las (sic) trastornos mentales que presentan los diversos sectores de la sociedad y en virtud de que requieren cada uno de ellos atención especializada, los tipos de atención en salud mental que proporcione la Secretaría buscarán dar prioridad a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo y puerperio, menopausia, adultos mayores y personas que se encuentran en situación de calle, de emergencia o desastre.
+Derivado de las (sic) trastornos mentales que presentan los diversos sectores de la sociedad y en virtud de que requieren cada uno de ellos atención especializada, los tipos de atención en salud mental que proporcione la secretaría buscarán dar prioridad a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo y puerperio, menopausia, adultos mayores y personas que se encuentran en situación de calle, en casos de desastres, emergencias, contingencias, y en condiciones de aislamiento o distanciamiento social.
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -741,9 +755,15 @@ VI.- Analizar y asesorar los planes y proyectos de las acciones para la atenció
 
 VII.- Funcionar como un organismo de consulta permanente de planes, proyectos y programas encaminados hacia la atención integral de la salud mental;
 
-VIII.- Desempeñarse como un organismo de vinculación entre los sectores público, social y privado, en materia de salud mental, para la implementación de estrategias que beneficien a la población, y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2021)</small>
 
-IX.- Las demás que le reconozca la presente Ley y demás disposiciones normativas aplicables.
+VIII.- Desempeñarse como un organismo de vinculación entre los sectores público, social y privado, en materia de salud mental, para la implementación de estrategias que beneficien a la población;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2021)</small>
+
+IX.- La realización y vigilancia de programas específicos de prevención, atención, apoyo y seguimiento, dirigidos tanto para el personal del sector salud público o privado, como para la población en general, con el fin de evitar problemas de salud mental derivados de su participación en situaciones críticas tales como, emergencias, desastres naturales, emergencias sanitarias o contingencias y por condiciones de aislamiento o distanciamiento social, y
+
+X.- Las demás que le reconozca la presente ley y demás disposiciones normativas aplicables.
 
 ### CAPÍTULO II. DEL SISTEMA ESTATAL DE INFORMACIÓN, VIGILANCIA Y EVALUACIÓN EN SALUD MENTAL
 
@@ -1094,3 +1114,17 @@ El presente Decreto entrará en vigencia a partir del día siguiente de su publi
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que contravengan la presente reforma.
+
+P.O. 16 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO SESENTA POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD MENTAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos, y publíquese en la Gaceta Oficial del Congreso del Estado.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Dentro del plazo de 90 días hábiles contados a partir de la entrada en vigor del presente decreto, la Secretaría de Salud del Poder Ejecutivo Estatal deberá emitir los protocolos, el Programa de Salud Mental y los demás programas respectivos que considere pertinentes, en materia de salud mental, así como expedir o actualizar los reglamentos que correspondan.
+
+CUARTA. Se derogan todas las disposiciones jurídicas o administrativas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto por el presente decreto.
+
+QUINTA. Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
