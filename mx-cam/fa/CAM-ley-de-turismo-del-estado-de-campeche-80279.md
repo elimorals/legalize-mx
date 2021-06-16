@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-turismo-del-estado-de-campeche-80279"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-04"
-last_updated: "2019-07-15"
+last_updated: "2021-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE TURISMO DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TURISMO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 4 de marzo de 2011.
 
@@ -168,6 +170,28 @@ VII. Empresas de transporte especializado en excursiones o viajes de Turismo por
 VIII. Empresas dedicadas a la renta de automóviles u otros medios de transporte.
 
 IX. Los demás considerados como tales según se disponga en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2021)</small>
+
+Artículo 6 bis. Son principios rectores de la actividad turística en el Estado, los siguientes:
+
+I. Accesibilidad;
+
+II. Calidad;
+
+III. Calidez;
+
+IV. Eficiencia;
+
+V. Honradez;
+
+VI. Inclusión;
+
+VII. Oportunidad, y
+
+VIII. Sustentabilidad.
+
+La Secretaría vigilará que los servicios turísticos en el Estado sean prestados con apego a los principios rectores de la actividad turística, en coordinación con las autoridades competentes que velarán por la protección de los recursos naturales, los valores artísticos, culturales, arqueológicos, arquitectónicos y típicos de los centros turísticos del Estado.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES Y SU COORDINACIÓN
 
@@ -904,3 +928,11 @@ P.O. 15 DE JULIO DE 2019.
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.-·Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 16 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 231 POR EL QUE “SE ADICIONA UN ARTÍCULO 6 BIS A LA LEY DE TURISMO DEL ESTADO DE CAMPECHE”
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
