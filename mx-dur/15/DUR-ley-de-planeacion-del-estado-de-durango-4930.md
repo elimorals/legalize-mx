@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-planeacion-del-estado-de-durango-4930"
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-01"
-last_updated: "2019-03-31"
+last_updated: "2021-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE PLANEACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 1 de febrero de 1987.
 
@@ -383,11 +383,15 @@ Al informar a la legislatura sobre el contenido y orientación de las iniciativa
 
 En lo conducente, las iniciativas de leyes y decretos; así como los reglamentos y acuerdos que formule el Ejecutivo del Estado señalarán las relaciones existentes entre los cuerpos normativos de que se trate, el Plan y los Programas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 34o.
 
-Los Ayuntamientos elaborarán y aprobarán, de conformidad con las bases de coordinación que se hubieren establecido con el Gobierno del Estado, los planes de desarrollo y programas municipales, de acuerdo con las siguientes previsiones:
+Los Ayuntamientos elaborarán y aprobarán, de conformidad con las bases de coordinación que se hubieren establecido con el Gobierno del Estado, los planes municipales de desarrollo, de acuerdo con las siguientes previsiones:
 
-I.- Los planes serán trianuales y se presentarán ante el Congreso del Estado para su examen y opinión dentro de los tres primeros meses del año en que los Ayuntamientos inicien su gestión administrativa constitucional.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+I.- Los planes serán trianuales y se presentarán ante el Congreso del Estado para su conocimiento dentro de los cuatro primeros meses del año en que los Ayuntamientos inicien su gestión administrativa constitucional.
 
 II.- Los programas serán anuales, salvo los casos en que las prioridades del desarrollo determinen lo contrario; pero bajo ninguna circunstancia excederá del período de la gestión administrativa municipal.
 
@@ -810,3 +814,9 @@ P.O. 31 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 77.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE PLANEACIÓN DEL ESTADO DE DURANGO”.]
 
 ÚNICO. El presente decreto entrará en vigor el 14 de septiembre del año 2022, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 551.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE PLANEACIÓN DEL ESTADO DE DURANGO”.]
+
+ÚNICO. El presente decreto entrará en vigor (sic) el Periódico Oficial del Gobierno del Estado.
