@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-para-la-proteccion-de-periodistas-y-personas-104913
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-25"
-last_updated: "2014-12-25"
+last_updated: "2021-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "DUR"
 ---
 # LEY ESTATAL PARA LA PROTECCION DE PERIODISTAS Y PERSONAS DEFENSORAS DE DERECHOS HUMANOS DEL ESTADO DE DURANGO
 
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN DE PERIODISTAS Y PERSONAS DEFENSORAS DE DERECHOS HUMANOS EN EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 LEY ESTATAL PARA LA PROTECCIÓN DE PERIODISTAS Y PERSONAS DEFENSORAS DE DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 25 de diciembre de 2014.
 
@@ -248,3 +252,19 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MIGUEL ANGEL OLVERA ESCALERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “DECRETO NO. 580.- QUE .EXPIDE LA LEY DE PROTECCIÓN DE PERIODISTAS Y PERSONAS DEFENSORAS DE DERECHOS HUMANOS EN EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2022 previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga Ley Estatal para la Protección de Periodistas y Personas Defensoras de Derechos Humanos, publicada en el Periódico Oficial número 103 de fecha 25 de diciembre de 2014.
+
+TERCERO. El Ejecutivo del Estado en un plazo no mayor de seis meses a partir de la entrada en vigor de la presente Ley, elaborará el Reglamento correspondiente.
+
+CUARTO. El Mecanismo para la Protección de Periodistas y Personas Defensoras de Derechos Humanos deberá iniciar su funcionamiento en un plazo no mayor de 10 días a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. La Junta de Gobierno del Mecanismo se instalará en un plazo no mayor de 10 días a partir de la entrada en vigor de la presente Ley.
