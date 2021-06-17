@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-de-prevencion-y-eliminacion-de-la-72123"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-24"
-last_updated: "2020-10-01"
+last_updated: "2021-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ESTATAL DE PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -89,15 +89,11 @@ Las entidades de los poderes públicos adoptarán las medidas necesarias, por s�
 
 El derecho a la no discriminación, es fundamental de las personas, minorías y grupos que se encuentran en el territorio del Estado de Durango, a recibir un trato de igualdad en cualquier circunstancia, salvo motivo o causa que sea racionalmente justificable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2021)</small>
 
 ###### Artículo 9.
 
-Discriminación es toda distinción, exclusión o restricción que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades especialmente de niñas, niños y adolescentes, cuando se base en uno o más de los siguientes motivos: el origen étnico, o nacional, el color de la piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, profesión u oficio, la situación migratoria, el embarazo, la lengua, las opiniones, orientación sexual o identidad de género, la identidad o la filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2016)</small>
-
-También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia
+Discriminación es toda distinción, exclusión o restricción que por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades especialmente de niñas niños y adolescentes, cuando se base en uno o más de los siguientes motivos; el origen étnico o nacional, el color de la piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria o de reclusión, el embarazo, la lengua, las opiniones, orientación sexual o identidad de género, la identidad o la filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2014)</small>
 
@@ -674,3 +670,15 @@ P.O. 1 DE OCTUBRE DE 2020.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 547.- POR EL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 9 DE LA LEY ESTATAL DE PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
