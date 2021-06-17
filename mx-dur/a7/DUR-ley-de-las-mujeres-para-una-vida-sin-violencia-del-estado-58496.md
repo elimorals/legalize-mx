@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2021-05-25"
+last_updated: "2021-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -1019,6 +1019,22 @@ VIII. Las demás que sean afines a las anteriores y que coadyuven en la mejor at
 
 IX. Educar y capacitar con perspectiva de género, Derechos Humanos y eliminación de violencia de género a todo el personal encargado de las políticas públicas de prevención, atención, sanción y eliminación de la violencia contra las mujeres del Estado de Durango.
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+X. Realizar en conjunto con otras dependencias campañas de prevención, sensibilización y capacitación sobre la violencia contra las mujeres en el transporte público;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XI. Promover la implementación de plataformas y redes de comunicación e información que permitan garantizar la seguridad e integridad de las mujeres dentro del transporte público;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XII. Promover la colaboración interinstitucional para la detección, registro y seguimiento de la información sobre casos de violencias sexuales; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XIII. Las demás que le señalen las disposiciones legales aplicables.
+
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
 ###### Artículo 32.
@@ -1447,7 +1463,37 @@ XII. Fomentar la participación ciudadana para prevenir, atender y erradicar la 
 
 XIII. Supervisar y evaluar el funcionamiento del Sistema Estatal; y
 
-XIV. Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XIV. Generar mecanismos y protocolos de prevención, detección y canalización de las mujeres víctimas de violencia;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XV. Realizar estudios estadísticos e investigación que permitan la elaboración de políticas que prevengan y erradiquen la violencia contra las mujeres en el transporte público;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XVI. Realizar con otras dependencias campañas de prevención, sensibilización y capacitación sobre la violencia contra las mujeres en el transporte público;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XVII. Promover la implementación de plataformas y redes de comunicación e información que permitan garantizar la seguridad e integridad de las mujeres dentro del transporte público;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XVIII. Coordinar la operación de infraestructura segura y de vigilancia oportuna para la atención de violencia sexual y agresiones hacia las mujeres;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XIX. Establecer protocolos de respuesta inmediata ante denuncias y casos de violencia y acoso sexual dentro del transporte público; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE JUNIO DE 2021)</small>
+
+XX. Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2021)</small>
+
+Lo previsto en las fracciones XIV, XV, XVI, XVII, XVIII y XIX se llevará a cabo a través de la Subsecretaría de Movilidad y Transportes.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -2248,6 +2294,14 @@ QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 537.- POR EL QUE SE ADICIONA UNA FRACCIÓN XXIII AL ARTÍCULO 4, Y SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 22 DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 556.- QUE CONTIENE REFORMAS A LAS FRACCIONES VII Y VIII Y SE ADICIONAN LAS FRACCIONES IX, X, XI Y XII DEL ARTÍCULO 31, SE REFORMAN LAS FRACCIONES XII Y XIII Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 34 BIS, SE ADICIONA LA SECCIÓN DÉCIMA PRIMERA BIS DENOMINADA DE LA SUBSECRETARIA DE MOVILIDAD Y TRANSPORTES ASÍ COMO LOS ARTÍCULOS 49 BIS Y 49 TER, DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
 
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
