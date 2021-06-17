@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-atencion-y-proteccion-de-personas-con-la-115072"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-26"
-last_updated: "2019-07-11"
+last_updated: "2021-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de mayo de 2016.
 
@@ -217,7 +217,9 @@ III. Sistema Estatal para el Desarrollo Integral de la Familia;
 
 IV. Secretaría del Trabajo y Previsión Social;
 
-V. Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+V. Secretaría de Bienestar Social
 
 VI. Secretaría General de Gobierno;
 
@@ -225,7 +227,9 @@ VII. Secretaría de Finanzas y de Administración, y
 
 VIII. Dos representantes de la sociedad civil cuya actividad se relacione con el objetivo de la presente Ley.
 
-El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, serán invitados permanentes de la Comisión.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2021)</small>
+
+El Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y la Comisión Estatal de Derechos Humanos, serán invitados permanentes de la Comisión, con derecho a voz, pero sin voto.
 
 Los integrantes de la Comisión Estatal podrán designar a sus respectivos suplentes.
 
@@ -346,3 +350,11 @@ P.O. 11 DE JULIO DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 548.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente decreto.
