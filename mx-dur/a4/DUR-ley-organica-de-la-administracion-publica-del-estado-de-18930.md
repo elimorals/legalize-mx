@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2021-05-25"
+last_updated: "2021-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -198,6 +198,10 @@ Los titulares de las dependencias y entidades podrán emitir acuerdos y circular
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2012)</small>
 
 El Titular de cada Secretaría y demás dependencias y órganos descentralizados de éstas, de la Administración Pública Estatal, expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicaciones y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados. Los manuales de organización general deberán publicarse en el Periódico Oficial del Estado. En cada una de las dependencias y entidades de la Administración Pública del Estado, se establecerán los sistemas de estímulos y recompensas que determine la ley y las condiciones generales de trabajo respectivas que deberán contemplar medidas para garantizar un ambiente adecuado libre de acoso en el trabajo.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2021)</small>
+
+Así mismo, el Titular de cada Secretaría, dependencia y Entidad de la Administración Pública impulsará mecanismos que permitan la reducción ordenada del uso de papel, propiciando la sustitución de oficios y circulares de manera física por comunicaciones a través de medios electrónicos de las tecnologías de la Información y la comunicación.
 
 ###### ARTICULO 16.
 
@@ -2882,3 +2886,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 552.- QUE CONTIENE ADICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Las Secretarias, Dependencias y Entidades de la Administración Pública, contarán con un plazo de 120 días posteriores a la entrada en vigor de este Decreto, para emitir las disposiciones reglamentarias que den cumplimiento al presente mismo.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
