@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2019-12-16"
+last_updated: "2021-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 17 DE JUNIO DE 2021.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -2077,11 +2077,11 @@ El presente capítulo tiene por objeto precisar, determinar y regular el trámit
 
 Las estaciones de servicio, por sus características intrínsecas y la normatividad que las regula en su proyecto y en su operación, no pueden considerarse giros de libre ubicación, por ello se sujetarán a las normas generales de uso de suelo de conformidad al Código, los Planes Parciales de Desarrollo Urbano y lo dispuesto en el presente capítulo.
 
-> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, G.M. 17 DE JUNIO DE 2021)</small>
 
 ###### Artículo 121 Quáter.
 
-Con la finalidad de proteger la seguridad de las personas, sus bienes y permitir a la Unidad Municipal de Protección Civil ejecutar las acciones de prevención, auxilio y restablecimiento ante cualquier contingencia, desastre o suceso de alto riesgo, cada estación de servicio o gasolinera se establecerá con base a los Planes Parciales de Desarrollo Urbano vigentes y a los requisitos técnicos para el establecimiento de estaciones de servicios previstos en la normatividad federal.
+Con la finalidad de proteger la seguridad de las personas, sus bienes y permitir a la Unidad Municipal de Protección Civil ejecutar las acciones de prevención, auxilio y restablecimiento ante cualquier contingencia, desastre o suceso de alto riesgo, cada estación de servicio o gasolinera se establecerá con base a los Planes Parciales de Desarrollo Urbano vigentes y a los requisitos técnicos para el establecimiento de estaciones de servicios previstos en la normatividad federal, específicamente en lo que disponga la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, ASEA, la Norma Oficial Mexicana NOM-005-ASEA-2016, Diseño, Construcción, Operación y Mantenimiento de Estaciones de Servicio para Almacenamiento y Expendio de Diésel y Gasolinas y deben de contar con los permisos de comercialización de petrolíferos, gasolinas y diésel otorgados por la Comisión Reguladora de Energía, CRE, dependencias de la Administración Pública Federal Centralizada, que tengan el carácter de Órgano Regulador Coordinador en Materia Energética, así como por lo que disponga la Secretaria de Energía, SENER y además se establecerán con un área de protección y amortiguamiento de 500 metros de radio, que no podrá intersectarse en ningún punto con el área de protección y amortiguamiento de cualquier otra estación de servicio o gasolinera.
 
 > <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
@@ -2109,11 +2109,11 @@ IV. Están prohibidas en predios que se encuentren dentro del Perímetro "A" de 
 
 Queda prohibida la instalación de estaciones de servicio en predios con uso que no sean los mencionados en el artículo 121 Sexies.
 
-> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, G.M. 17 DE JUNIO DE 2021)</small>
 
 ###### Artículo 121 Octies.
 
-En los predios que se ubiquen en esquina, presentando dos frentes a las vialidades de confluencia, al menos una de las vías, deberá tener una sección mínima de 18 metros, o estar jerarquizada como colectora. Los accesos rodados de la estación de servicio serán conforme lo indica el artículo 276 fracción III, estando prohibido que toda la banqueta que dé frente al lindero, sea destinada a rampa de acceso.
+En el caso de predios que se ubiquen en esquina, presentando dos frentes a las vialidades de confluencia, el inmueble deberá contar con una superficie mínima de 400 metros cuadrados, en tanto que alguna de las vías deberá tener una sección mínima de 20 metros o estar jerarquizada como colectora. Los accesos rodados de la estación de servicio serán conforme lo indica el artículo 276 fracción III de este reglamento, estando prohibido que toda la banqueta que dé frente al lindero, sea destinada a rampa de acceso.
 
 > <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
 
@@ -5642,3 +5642,15 @@ Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación 
 Tercero. Quedan derogadas las disposiciones de orden municipal que se opongan a lo establecido.
 
 Cuarto. Una vez publicadas las presentes reformas, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO PARA LA GESTION INTEGRAL DEL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Las solicitudes y trámites para la obtención de la licencia de estación de servicio o gasolinera, presentados previo a la entrada en vigor de las presentes reformas, serán resueltos conforme a la normatividad vigente al momento de su presentación.
+
+Cuarto. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en las fracciones VI y VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
