@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-rural-sustentable-para-el-estado-de-96386"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-25"
-last_updated: "2019-05-02"
+last_updated: "2021-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 25 de agosto de 2013.
 
@@ -165,7 +165,9 @@ XXII.- Gobierno del Estado.- El Poder Ejecutivo del Estado Libre y Soberano de D
 
 XXIII.- Ley.- La Ley de Desarrollo Rural Sustentable para el Estado de Durango;
 
-XXIV.- Ley Ecológica Estatal: La Ley de Equilibrio y Protección al Ambiente del Estado de Durango;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XXIV.- Ley de Gestión Ambiental: La Ley de Gestión Ambiental Sustentable del Estado de Durango;
 
 XXV.- Manejo Sustentable de Cuencas Hidrográficas: La gestión en un determinado sistema hidrográfico para aprovechar sus recursos naturales, sin menoscabo de su integridad física, química y biológica;
 
@@ -197,7 +199,9 @@ XXXVIII.- Restauración de las Tierras: Las actividades tendientes a la recupera
 
 XXXIX.- Riesgo Fitozoosanitario.- La posibilidad de introducción, establecimiento o diseminación de una enfermedad o plaga en la población animal o en vegetales;
 
-XL.- SAGARPA.- Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XL.- SADER. Secretaría de Agricultura y Desarrollo Rural;
 
 XLI.- Secretaría.- La Secretaría de Agricultura, Ganadería y Desarrollo Rural;
 
@@ -255,11 +259,15 @@ Son autoridades concurrentes para efectos de esta Ley en el ámbito de sus respe
 
 I.- La Secretaría de Desarrollo Económico;
 
-II.- La Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+II.- La Secretaría de Finanzas y de Administración;
 
 III.- La Secretaría General de Gobierno;
 
-IV.- La Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+IV.- Secretaría de Bienestar Social;
 
 V.- La Fiscalía General del Estado;
 
@@ -273,7 +281,9 @@ IX.- La Secretaría de Comunicaciones y Obras Públicas;
 
 X.- La Secretaría de Contraloría y Modernización Administrativa; y
 
-XI.- La Secretaría de Medio Ambiente y Recursos Naturales.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XI.- Secretaría de Recursos Naturales y Medio Ambiente.
 
 ###### ARTÍCULO 10.
 
@@ -304,6 +314,10 @@ El Gobierno del Estado considerará las adecuaciones presupuestales aprobadas po
 ###### ARTÍCULO 12.
 
 Para impulsar el desarrollo rural sustentable, los órdenes de Gobierno promoverán la capitalización del sector mediante obras de infraestructura básica y productiva, y de servicios a la producción, así como a través de apoyos directos a los productores y pequeños productores, que les permitan realizar las inversiones necesarias para incrementar la eficiencia de sus unidades de producción, mejorar sus ingresos y fortalecer su competitividad.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2021)</small>
+
+Todos los apoyos de los gobiernos Estatal y municipales en el ámbito de su competencia, que se otorguen a las actividades agropecuarias, tendrán que ser compatibles con la protección de los suelos forestales, de manera que no se realice el cambio de uso de suelo de forestal a agrícola o pecuario.
 
 El Gobierno del Estado y el de los municipios fomentarán la inversión en infraestructura a fin de alcanzar los siguientes objetivos:
 
@@ -501,7 +515,9 @@ VI.- Los representantes de las organizaciones sociales y privadas de carácter e
 
 VII.- El Presidente de la Comisión de Asuntos Agrícolas y Ganaderos del H. Congreso del Estado de Durango;
 
-VIII.- El Delegado en el Estado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+VIII.- El Delegado en el Estado de la SADER;
 
 IX.- Los sistemas-productos, agrícolas y pecuarios; y
 
@@ -509,7 +525,9 @@ X.- Los delegados federales que tengan injerencia en el sector.
 
 El Consejo será presidido por el Gobernador del Estado y en su ausencia por el Secretario de Agricultura, Ganadería y Desarrollo Rural del Gobierno del Estado.
 
-El Delegado en el Estado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, fungirá como se determine por las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2021)</small>
+
+El Delegado en el Estado de la SADER, fungirá como se determine por las disposiciones legales aplicables
 
 Las decisiones serán tomadas por mayoría simple de los integrantes presentes, en casos de empate el Presidente del Consejo tendrá voto de calidad.
 
@@ -541,9 +559,11 @@ VIII.- Proponer modificaciones en las reglas de operación a los programas estat
 
 IX.- Proponer proyectos que establezcan las reglas de operación de los programas de fomento al desarrollo rural.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 31.
 
-Para fines prácticos, de atención más oportuna, eficiente, eficaz y de conformidad con la Ley Federal de Desarrollo Rural Sustentable, el Consejo participará con la SAGARPA en la demarcación territorial de los distritos de desarrollo rural.
+Para fines prácticos, de atención más oportuna, eficiente, eficaz y de conformidad con la Ley Federal de Desarrollo Rural Sustentable, el Consejo participará con la SADER en la demarcación territorial de los distritos de desarrollo rural.
 
 ###### ARTÍCULO 32.
 
@@ -589,7 +609,9 @@ II.- Secretaría General de Gobierno;
 
 III.- Secretaría de Finanzas y de Administración;
 
-IV.- Secretaría de Desarrollo Social; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+IV.- Secretaría de Bienestar Social; y
 
 V.- Secretaría de Recursos Naturales y Medio Ambiente;
 
@@ -673,13 +695,19 @@ X.- Los procedimientos mediante los cuales se solicite fundadamente al Gobierno 
 
 ### CAPÍTULO PRIMERO. DE LA RECONVERSIÓN PRODUCTIVA SUSTENTABLE
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 46.
 
-Los gobiernos Estatal y municipales en el ámbito de su competencia, estimularán la reconversión, en términos de estructura productiva sustentable, incorporación de cambios tecnológicos y de procesos que contribuyan a la productividad y competitividad del sector agropecuario, a la seguridad y soberanía alimentarias y al óptimo uso de las tierras mediante apoyos e inversiones complementarias.
+Los gobiernos Estatal y municipales en el ámbito de su competencia, estimularán la reconversión, en términos de estructura productiva sustentable, incorporación de cambios tecnológicos y de procesos que contribuyan a la productividad, al desarrollo regional y competitividad del sector agropecuario, a la seguridad, soberanías alimentarias, la reconversión de cultivos y al óptimo uso de las tierras mediante apoyos e inversiones complementarias.
+
+Todos los apoyos de los gobiernos Estatal y municipales en el ámbito de su competencia, que se otorguen a las actividades agropecuarias, incluyendo los estímulos a la reconversión, tendrán que ser compatibles con la protección de los suelos forestales, de manera que no se realice el cambio de uso de suelo de forestal a agrícola o pecuario.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 47.
 
-El Gobierno del Estado en el ámbito de su competencia y a través de la Secretaría, creará los instrumentos de políticas públicas que planteen alternativas para las unidades de producción a las ramas del campo que vayan quedando rezagadas o excluidas del desarrollo. Para ello tendrán preferencia las actividades económicas que preserven el equilibrio de los ecosistemas, respetando su vocación.
+El Gobierno del Estado en el ámbito de su competencia y a través de la Secretaría, creará los instrumentos de políticas públicas que planteen alternativas para las unidades de producción a las ramas del campo que vayan quedando rezagadas o excluidas del desarrollo. Para ello tendrán preferencia las actividades económicas que preserven el equilibrio de los ecosistemas e impulsen el desarrollo regional, respetando su vocación.
 
 ###### ARTÍCULO 48.
 
@@ -697,7 +725,9 @@ V.- Reorientar y restaurar el uso del suelo cuando existan niveles altos de eros
 
 VI.- Promover la adopción de tecnologías que conserven y mejoren la productividad de las tierras, la biodiversidad y los servicios ambientales;
 
-VII.- Incrementar la productividad en regiones con limitantes naturales para la producción, pero con ventajas comparativas que justifiquen la producción bajo condiciones controladas;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+VII.- Incrementar la productividad y la reconversión de cultivos de las regiones con limitantes naturales para la producción, pero con ventajas comparativas que justifiquen la producción bajo condiciones controladas;
 
 VIII.- Fomentar la producción hacia productos con oportunidades de exportación y generación de divisas, dando prioridad al abastecimiento nacional de productos considerados estratégicos;
 
@@ -739,7 +769,9 @@ IX.- Mejorar la estructura de costos.
 
 Los apoyos y la reconversión productiva se acompañarán de estudios de factibilidad realizados por la Secretaría, así como de procesos de capacitación, educación y fortalecimiento de las habilidades de gestión y organización de los actores sociales involucrados, con el propósito de contribuir en el cambio social y la concepción del uso y manejo sustentable de los recursos naturales.
 
-En las tierras dictaminadas por la Secretaría de Medio Ambiente y Recursos Naturales del Estado como frágiles y preferentemente forestales, de acuerdo con lo establecido en la Ley de Desarrollo Forestal Sustentable del Estado y demás ordenamientos aplicables, los apoyos para la reconversión productiva deberán inducir el uso forestal o agroforestal de las tierras o, en su caso, la aplicación de prácticas de restauración y conservación.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2021)</small>
+
+En las tierras dictaminadas por la Secretaría de Recursos Naturales y Medio Ambiente del Gobierno del Estado como frágiles y preferentemente forestales, de acuerdo con lo establecido en la Ley de Desarrollo Forestal Sustentable del Estado y demás ordenamientos aplicables, los apoyos para la reconversión productiva deberán inducir el uso forestal o agroforestal de las tierras o, en su caso, la aplicación de prácticas de restauración y conservación.
 
 ###### ARTÍCULO 51.
 
@@ -1359,7 +1391,9 @@ La Secretaría apoyará la constitución, operación y consolidación de las org
 
 ## TÍTULO QUINTO. DE LA CONSERVACIÓN Y RESTAURACIÓN DE LAS TIERRAS
 
-### CAPÍTULO PRIMERO. DISPOCISIONES (SIC) GENERALES
+> <small>(REFORMADA SU DEOMINACIÓN, P.O. 17 DE JUNIO DE 2021)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 142.
 
@@ -1431,11 +1465,17 @@ Se prohíbe la disposición de residuos contaminantes y el uso de los compuestos
 
 Los cambios de utilización de la tierra en zonas frágiles y zonas de restauración, dentro de los márgenes establecidos por esta Ley, la Ley Forestal y correlativas, requieren autorización del Ejecutivo en coordinación con las autoridades correspondientes, de conformidad con los siguientes criterios:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 17 DE JUNIO DE 2021)</small>
+
 I. Por excepción:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2021)</small>
 
 a) De forestal a cualquier otra, de acuerdo con lo establecido en la Ley Forestal; y,
 
-b) De ganadera de pastoreo a agrícola, de acuerdo con lo establecido en esta Ley, la LGEEPA, la Ley Ecológica Estatal y demás disposiciones aplicables;
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2021)</small>
+
+b) De ganadera de pastoreo a agrícola, de acuerdo con lo establecido en esta Ley, la LGEEPA, la Ley de Gestión Ambiental y demás disposiciones aplicables;
 
 II. Previa autorización:
 
@@ -1461,9 +1501,11 @@ La Secretaría, coadyuvará con las autoridades competentes a fin de delimitar l
 
 ### CAPÍTULO QUINTO. DE LAS ÁREAS ESPECIALES DE CONSERVACIÓN Y RESTAURACIÓN DE TIERRAS
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 153.
 
-La Secretaría promoverá ante la autoridad federal, en los términos establecidos por la Ley Ecológica Estatal y demás normatividad aplicable, la declaratoria de Zona de Restauración, cuando considere, con la participación del Sistema, que dicha medida se requiera.
+La Secretaría promoverá ante la autoridad federal, en los términos establecidos por la Ley de Gestión Ambiental y demás normatividad aplicable, la declaratoria de Zona de Restauración, cuando considere, con la participación del Sistema, que dicha medida se requiera.
 
 ###### ARTÍCULO 154.
 
@@ -1579,9 +1621,11 @@ IV.- Promover la modernización, incorporando tecnologías a fin de que las empr
 
 V.- Impulsar activamente al sector productivo, a fin de aprovechar las ventajas comparativas y los nichos de mercado que ofrece la apertura comercial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 170.
 
-La Secretaría, orientará a los productores y empresas rurales debidamente acreditadas, teniendo preferencia a grupos vulnerables, adultos mayores, población indígena, colonias menonitas, pequeños propietarios y agentes económicos con bajos ingresos, para que puedan acceder a recursos financieros adaptados, suficientes, oportunos y accesibles para desarrollar exitosamente sus actividades económicas, de las siguientes líneas de crédito:
+La Secretaría, orientará a los productores y empresas rurales debidamente acreditadas, teniendo preferencia a grupos vulnerables, adultos mayores, población indígena, colonias menonitas, pequeños propietarios, los que empleen tecnologías de mitigación y adaptación a los efectos del cambio climático y agentes económicos con bajos ingresos, para que puedan acceder a recursos financieros adaptados, suficientes, oportunos y accesibles para desarrollar exitosamente sus actividades económicas, de las siguientes líneas de crédito:
 
 I.- De avío y refaccionarios para la producción e inversión de capital en las actividades agropecuarias, para promover la agricultura por contrato, para el fomento de las asociaciones estratégicas, para la constitución y consolidación de empresas rurales, para el desarrollo de plantaciones frutícolas, industriales y forestales, para la agroindustria y las explotaciones acuícolas, así como para actividades que permitan diversificar las oportunidades de ingreso y empleo en el ámbito rural;
 
@@ -2122,6 +2166,22 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 83.- SE REFORMA EL ARTÍCULO 12 Y 60 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO.”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 549. QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 550.- QUE CONTIENE REFORMA A LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
