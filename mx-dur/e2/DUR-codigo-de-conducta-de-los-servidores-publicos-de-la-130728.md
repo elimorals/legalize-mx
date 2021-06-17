@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-de-los-servidores-publicos-de-la-130728"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-08-26"
-last_updated: "2019-05-23"
+last_updated: "2021-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA UNIVERSIDAD TECNOLOGICA DE POANAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA UNIVERSIDAD TECNOLÓGICA DE POANAS DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 23 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA UNIVERSIDAD TECNOLÓGICA DE POANAS DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 23 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DE POANAS, DURANGO, PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA UNIVERSIDAD TECNOLÓGICA DE POANAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2019 (DEROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 26 de agosto de 2018.
 
@@ -250,3 +252,13 @@ TERCERO.- Lo no previsto en el presente Código será resuelto por el Comité de
 CUARTO.- El presente Código una vez publicado en el Periódico Oficial del Gobierno del Estado de Durango se difundirá y publicará en la página web de la Universidad Tecnológica de Poanas.
 
 QUINTO.- El presente Código deroga al anterior publicado en agosto del 2018 en el Periódico Oficial del Gobierno del Estado de Durango No. 68.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO.- DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DE POANAS”.]
+
+PRIMERO.- El presente acuerdo entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga el Código de Conducta de la Universidad publicado en el Periódico Oficial del Gobierno del Estado de Durango número 63 del 26 de agosto de 2018.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet de la Universidad.
