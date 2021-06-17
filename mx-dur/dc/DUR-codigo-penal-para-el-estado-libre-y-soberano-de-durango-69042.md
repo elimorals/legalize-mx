@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2021-05-16"
+last_updated: "2021-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1515,13 +1515,17 @@ La amnistía extingue la pretensión punitiva o la potestad de ejecutar las pena
 
 Efectos y características de la prescripción.
 
-La prescripción es personal y extingue la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad y para ello bastará el transcurso del tiempo señalado por la ley.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2021)</small>
+
+La prescripción es personal y extingue la pretensión punitiva y la potestas (sic) de ejecutar las penas y las medidas de seguridad y para ello bastara el Trascurso del tiempo señalado por la ley.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE MAYO DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 17 DE JUNIO DE 2021)</small>
 
-Los delitos de secuestro, desaparición forzada de personas, tráfico de influencias, cohecho en los términos de la fracción II del artículo 338, peculado cuando la cuantía exceda de quinientas veces del valor de la Unidad de Medida y Actualización de conformidad con el artículo 339, concusión en los términos de la fracción II del artículo 340, homicidio calificado, feminicidio, violación de conformidad con los artículos 176 y 177, abuso sexual de conformidad con el artículo 179, tortura, enriquecimiento ilícito en los términos de la fracción II del artículo 322 y pederastia de conformidad con el artículo 177 BIS, de este Código, son imprescriptibles.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2021)</small>
+
+Los delitos de secuestro, desaparición forzada de personas, tráfico de influencias, cohecho en los términos de la fracción II del artículo 338, peculado cuando la cuantía exceda de quinientas veces del valor de la Unidad de Medida y Actualización de conformidad con el artículo 339, concusión en los términos de la fracción II del artículo 340, homicidio calificado, feminicidio, violación de conformidad con los artículos 176 y 177 y 180, abuso sexual de conformidad con el artículo 179 y 180, tortura, enriquecimiento ilícito en los términos de la fracción II del artículo 322, pederastia de conformidad con el artículo 177 BIS, exposición de incapaces o menores de edad de conformidad con en el artículo 193, estupro de conformidad con el artículo 181, y tráfico de menores de conformidad a los artículos (sic) 159 de este Código, son imprescriptibles.
 
 ###### Artículo 116.
 
@@ -1851,17 +1855,17 @@ I. El cuerpo de la víctima presente signos de violencia sexual de cualquier tip
 
 II. El cuerpo de la víctima presente lesiones infamantes o degradantes o mutilaciones, previas o posteriores a la privación de la vida o actos de necrofilia;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
 
-III. Existan antecedentes o datos que establezcan que se han cometido amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima;
+III. Existan antecedentes o datos de prueba que acrediten que el sujeto activo ha cometido amenazas, acoso, violencia, lesiones o cualquier tipo de violencia previstas (sic) la Ley de las Mujeres para una Vida sin Violencia vigente en el Estado, en contra de la víctima;
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
 
-IV. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público; o
+IV. El cuerpo de la víctima sea expuesto, depositado, arrojado, ocultado o enterrado en un lugar público;
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
 
-V. La víctima haya sido incomunicada sin ánimo de obtención de lucro, cualquiera que sea el tiempo previo a su fallecimiento.
+V. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento;
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 2020)</small>
 
@@ -1875,6 +1879,10 @@ VII. Entre el activo y la víctima hubo o haya existido una relación laboral, d
 
 VIII. Cuando la víctima se haya encontrado en un estado de indefensión.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JUNIO DE 2021)</small>
+
+IX. Que el sujeto activo haya obligado a la víctima a ejercer prostitución.
+
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
 A quien cometa feminicidio se impondrá de cuarenta a sesenta años de prisión y de dos mil ochocientos ochenta a cuatro mil trecientos veinte veces la Unidad de Medida y Actualización de multa.
@@ -1883,9 +1891,13 @@ A quien cometa feminicidio se impondrá de cuarenta a sesenta años de prisión 
 
 Si la víctima es menor de edad, adulta mayor, embarazada o con discapacidad, así como cuando el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición, se impondrán de cuarenta y cinco a sesenta y cinco años de prisión y multa de tres mil doscientos cuarenta a cuatro mil seiscientas ochenta veces la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2021)</small>
 
-Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2021)</small>
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluídos los de carácter sucesorio.
 
 ###### Artículo 147 Bis.
 
@@ -6624,6 +6636,22 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 16 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 511.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 305 BIS, 305 TER Y 305 QUATER, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 560.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.– Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 561.- QUE CONTIENE REFORMA Y ADICIÓN AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
