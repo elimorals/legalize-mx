@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2020-12-10"
+last_updated: "2021-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -365,13 +365,17 @@ XIV. La prevención de adicciones;
 
 XV. Diseñar y ejecutar políticas públicas que proporcionen y desarrollen acciones, proyectos con alcance de corto, mediano y largo plazo para que ayuden a incrementar y fortalecer la concientización para la donación de órganos en el Estado;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
 
-XVI. Impulsar y promover los beneficios y consecuencias para el bienestar general de la cultura de la donación de órganos; y
+XVI. Impulsar y promover los beneficios y consecuencias para el bienestar general de la cultura de la donación de órganos;
 
-> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
 
-XVII. Diseñar y ejecutar políticas públicas que favorezcan el cuidado de la salud mental, que garanticen un combate eficaz a las enfermedades mentales y cuyos avances y resultados sean objeto de evaluación.
+XVII. Diseñar y ejecutar políticas públicas que favorezcan el cuidado de la salud mental, que garanticen un combate eficaz a las enfermedades mentales y cuyos avances y resultados sean objeto de evaluación; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XVIII. La prevención del suicidio.
 
 ###### ARTÍCULO 10.
 
@@ -4138,5 +4142,17 @@ P.O. 10 DE DICIEMBRE DE 2020.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 558.- QUE CONTIENE ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
