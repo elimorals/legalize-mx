@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-del-estado-de-durango-113824"
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2017-12-07"
+last_updated: "2021-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TURISMO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial de Estado de Durango, el jueves 3 de marzo de 2016.
 
@@ -81,7 +81,9 @@ V. Formular las reglas y procedimientos para establecer, el ordenamiento turíst
 
 VI. Promover y vigilar el desarrollo del turismo social, propiciando el acceso de toda persona al descanso y recreación mediante esta actividad;
 
-VII. Facilitar a las personas con discapacidad las oportunidades necesarias para el uso y disfrute de las instalaciones destinadas a la actividad turística, así como su participación dentro de los programas de turismo accesible;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+VII. Facilitar a las personas con discapacidad y a las personas adultas mayores las oportunidades necesarias para el uso y disfrute de las instalaciones destinadas a la actividad turística, así como su participación dentro de los programas de turismo accesible;
 
 VIII. Salvaguardar la igualdad de género en la instrumentación y aplicación de políticas de apoyo y fomento al turismo;
 
@@ -211,7 +213,9 @@ c) Promover programas que difundan la importancia de respetar y conservar los at
 
 d) La creación de escuelas de enseñanza del idioma español certificadas para extranjeros, así como su difusión en el exterior.
 
-VI. Colaborar con la Secretaría del Trabajo y Previsión Social del Gobierno del Estado de Durango, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, incluyendo a las personas con discapacidad;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+VI. Colaborar con la Secretaría del Trabajo y Previsión Social del Gobierno del Estado de Durango, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, incluyendo a las personas con discapacidad y a las personas adultas mayores.
 
 VII. Con el Instituto de Cultura del Estado de Durango:
 
@@ -381,25 +385,33 @@ Las instituciones, dependencias y entidades del sector público del Ejecutivo Es
 
 ### CAPÍTULO VII. DEL TURISMO ACCESIBLE
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2021)</small>
 
 ###### Artículo 14.
 
-La Secretaría, con el apoyo y en coordinación con las dependencias y autoridades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad conforme a las disposiciones establecidas en el presente capítulo y en la Ley Estatal para la Integración Social de las Personas con Discapacidad. La Secretaría también deberá:
+La Secretaría, con el apoyo y en coordinación con las dependencias y autoridades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a las personas adultas mayores y a la población con alguna discapacidad conforme a las disposiciones establecidas en el presente capítulo y en la Ley de Inclusión para las Personas con Discapacidad en el Estado de Durango. La Secretaría también deberá:
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2017)</small>
 
 I.- Contar con personal preparado para atender a personas con discapacidad, que conozca los diversos medios especiales de comunicación con ellas;
 
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2017)</small>
+
 II.- En el material impreso y digital donde promueva la actividad turística, incluirá información sobre los servicios e instalaciones accesibles, incorporando los símbolos internacionales de la materia;
 
-III.- Promover la creación de material y actividades turísticas en formatos accesibles para personas con discapacidad; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
 
-IV.- Incluir en el Registro Estatal de Turismo, un apartado que incluya a los prestadores de servicios turísticos que cuenten con instalaciones, infraestructura y transporte para personas con discapacidad, así como los proveedores de asistencia médica especializada.
+III.- Promover la creación de material y actividades turísticas en formatos accesibles para personas con discapacidad y a las personas adultas mayores
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+IV.- Incluir en el Registro Estatal de Turismo, un apartado que incluya a los prestadores de servicios turísticos que cuenten con instalaciones, infraestructura y transporte para personas con discapacidad y a las personas adultas mayores, así como los proveedores de asistencia médica especializada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2021)</small>
 
 ###### Artículo 15.
 
-Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas, lo cual no será motivo para incrementar sus tarifas.
+Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad y las personas adultas mayores cuenten con accesibilidad a los servicios en condiciones adecuadas, lo cual no será motivo para incrementar sus tarifas.
 
 La misma obligación tendrán las autoridades respecto de los sitios culturales, de recreación, áreas públicas y afines con afluencia turística.
 
@@ -805,9 +817,9 @@ VII. Expedir, aún sin solicitud del turista, factura detallada, nota de consumo
 
 VIII. Profesionalizar a sus trabajadores y empleados, en los términos de las leyes respectivas, participando en las convocatorias de capacitación que se ofrezcan al sector, en coordinación con la Secretaría;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
 
-IX. Disponer de lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a toda persona de cualquier condición. Además, deberán estar preparados para atender a personas con discapacidad en casos de evacuación o situaciones de emergencia;
+IX. Disponer de lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a toda persona de cualquier condición. Además, deberán estar preparados para atender a personas con discapacidad y a las personas adultas mayores en casos de evacuación o situaciones de emergencia;
 
 X. Cumplir con las características y requisitos exigidos, de acuerdo a su clasificación en los términos de la presente Ley;
 
@@ -891,7 +903,9 @@ La Secretaría realizará estudios e investigaciones en materia turística, y ll
 
 La Secretaría participará en la elaboración de programas de profesionalización turística y promoverá, en coordinación con las dependencias de la Administración Pública Federal y Estatal, los Municipios y los organismos públicos, privados y sociales, nacionales e internacionales, el establecimiento de centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la actividad turística. Asimismo establecerá lineamientos, contenidos y alcances a fin de promover y facilitar la certificación de competencias laborales.
 
-En los citados programas se deberá considerar la profesionalización respecto a la atención de las personas con discapacidad.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2021)</small>
+
+En los citados programas se deberá considerar la profesionalización respecto a la atención de las personas con discapacidad y a las personas adultas mayores.
 
 ### CAPÍTULO XXV. DE LAS SANCIONES Y DEL RECURSO DE REVISIÓN
 
@@ -1058,3 +1072,11 @@ P.O. 7 DE DICIEMBRE DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno de Durango.
 
 Segundo. Se derogan todas las disposiciones legales y administrativas que contravengan lo dispuesto en el presente decreto.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 553.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE TURISMO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
