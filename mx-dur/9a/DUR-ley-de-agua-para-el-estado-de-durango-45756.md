@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-agua-para-el-estado-de-durango-45756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-07"
-last_updated: "2017-03-05"
+last_updated: "2021-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE AGUA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de julio de 2005.
 
@@ -169,7 +169,9 @@ XXXIII.- SANEAMIENTO: La conducción, tratamiento, alejamiento y descarga de las
 
 XXXIV.- SERVICIO DE AGUA EN BLOQUE: Volumen de agua predeterminado que se proporciona al usuario, sin que para ello se haga necesaria la construcción de la red de distribución o cualquier otro de los componentes del sistema de agua potable;
 
-XXXV.- SISTEMA DE ABASTECIMIENTO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO: Conjunto de obras y acciones que permiten la prestación de servicios públicos de extracción, conducción, potabilización y distribución de agua de primer uso y la recolección y alejamiento de las aguas usadas, donde se incluya tanto el drenaje de las aguas residuales y pluviales, como el tratamiento de aguas residuales de origen municipal y el tratamiento y manejo de los lodos;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XXXV.- SISTEMA DE ABASTECIMIENTO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO: Conjunto de obras y acciones que permiten la prestación de servicios públicos de extracción, conducción, potabilización y distribución de agua de primer uso y la recolección y alejamiento de las aguas usadas, donde se incluya tanto el drenaje de las aguas residuales, además de la captación de aguas pluviales a fin de que permitan la recuperación hídrica, así como el tratamiento de aguas residuales de origen municipal y el tratamiento y manejo de los lodos.
 
 XXXVI.- SERVIDOR PÚBLICO: Las personas físicas que realicen cualquier actividad en nombre o al servicio de algún ente público, cualquiera que sea su nivel jerárquico;
 
@@ -2860,3 +2862,15 @@ SEGUNDO.- El valor de la Unidad de Medida y Actualización, será el publicado p
 TERCERO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 546. QUE CONTIENE REFORMAS A LAS FRACCIONES XXXV DEL ARTÍCULO 2º. Y, FRACCIÓN V, RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 4º. DE LA LEY DEL AGUA PARA EL ESTADO DE DURANGO”].
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
