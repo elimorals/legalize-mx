@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2021-05-25"
+last_updated: "2021-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -261,7 +261,9 @@ X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad;
 
 XI. Derecho a la educación;
 
-XII. Derecho al descanso y al esparcimiento;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XII. Derecho al descanso, al juego, al deporte y al esparcimiento;
 
 XIII. Derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura;
 
@@ -1091,6 +1093,14 @@ X. Evitar suministrar, facilitar o dar a consumir bebidas y alimentos a niñas y
 
 XI. Protegerlos de toda forma de malnutrición o alimentación deficiente.
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+XII. Educar y supervisar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2021)</small>
+
+Quienes ejercen la patria potestad, tutela o guarda y custodia, independientemente de que habiten en domicilios distintos, darán cumplimiento a las obligaciones a su cargo de manera coordinada y respetuosa.
+
 ### Capítulo Segundo. De la Procuraduría de Protección
 
 ###### Artículo 64.
@@ -1319,7 +1329,9 @@ III. Coordinar la ejecución y dar seguimiento a las medidas de protección para
 
 IV. Fungir como conciliador y mediador en casos de conflicto familiar y cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones jurídicas aplicables. La conciliación no procederá en casos de violencia;
 
-V. Denunciar ante el Ministerio Público dentro de las siguientes 24 horas de las que se tenga conocimiento de aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+
+V. Denunciar ante el Ministerio Público dentro de las siguientes 24 horas de las que se tenga conocimiento todos aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes; así como en hechos en donde se haga participar a niñas, niños o adolescentes en actividades delictivas; auxiliando a la autoridad correspondiente con la información que se le solicite para la investigación correspondiente;
 
 VI. Solicitar al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales y demás disposiciones jurídicas aplicables, las siguientes:
 
@@ -2026,6 +2038,18 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 543.- POR EL CUAL SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 29 Y SE RECORREN DE MANERA SUBSECUENTE LOS SIGUIENTES PÁRRAFOS PARA OCUPAR EL LUGAR CORRESPONDIENTE, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 557.- QUE CONTIENE REFORMAS Y ADICIONES A LOS ARTÍCULOS 10, 63 Y 76 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
