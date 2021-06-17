@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-de-atencion-y-proteccion-al-118637"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-25"
-last_updated: "2017-11-16"
+last_updated: "2021-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY QUE CREA EL INSTITUTO DE ATENCIÓN Y PROTECCIÓN AL MIGRANTE Y SU FAMILIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el domingo 25 de diciembre de 2016.
 
@@ -775,6 +775,10 @@ DE LOS TRANSMIGRANTES Y LOS TURISTAS
 
 Los transmigrantes y los turistas que se encuentren en territorio estatal, tienen derecho a recibir un trato justo y humano, prohibiéndose cualquier acto de discriminación, xenofobia, antisemitismo, anti islamismo, segregación, exclusión o restricción por razón de su origen étnico, social, religioso o nacionalidad y cualquiera otra conducta que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos y libertades fundamentales del ser humano.
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2021)</small>
+
+Para el caso de las niñas, niños y adolescente (sic) transmigrantes o turistas, el instituto vigilará el respeto de todos sus derechos humanos conforme al principio del interés superior de la niñez y el cumplimiento de lo establecido en la Ley de los Derechos de las Niñas, Niños y Adolescentes vigente en la entidad y de la legislación aplicable.
+
 ###### Artículo 75.
 
 Los transmigrantes de probados escasos recursos económicos, y excepcionalmente los turistas que se encuentren en territorio estatal, tienen derecho a recibir:
@@ -888,3 +892,15 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 17 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 554.- QUE CONTIENE REFORMA A LA LEY QUE CREA EL INSTITUTO DE ATENCIÓN Y PROTECCIÓN AL MIGRANTE Y SU FAMILIA DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto.
