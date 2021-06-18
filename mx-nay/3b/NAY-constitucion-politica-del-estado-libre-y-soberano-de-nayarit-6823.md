@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2021-04-28"
+last_updated: "2021-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -715,11 +715,11 @@ Cuando se produzcan vacantes en el Congreso por cualquiera de las causas previst
 
 Si una vez instalado el Congreso o abierto su período de sesiones, no pudiere ejercer su cargo por falta de la mayoría requerida, se llamará inmediatamente a los suplentes los que permanecerán en funciones hasta la inmediata apertura de sesiones ordinarias.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2021)</small>
 
 ###### Art. 34.
 
-El Diputado que sin causa justificada, faltare a cinco sesiones continuas o a diez discontinuas en un período ordinario de sesiones, perderá el derecho de concurrir a sesiones hasta el nuevo período ordinario, y se llamará al Suplente en los términos que la Ley Orgánica respectiva determine.
+El Diputado que, sin causa justificada, faltare a cinco sesiones continuas o a diez discontinuas en un Período Ordinario de Sesiones, de manera presencial o virtual a distancia, perderá el derecho de concurrir a sesiones hasta el nuevo período ordinario, y se llamará al Suplente en los términos que la Ley Orgánica respectiva determine.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 1980)</small>
 
@@ -732,6 +732,10 @@ El Congreso del Estado se renovará cada tres años contados desde el 18 de Agos
 ###### Art. 36.
 
 La Legislatura del Estado celebrará anualmente dos períodos ordinarios de sesiones: uno que contará desde el 18 de agosto hasta el 17 de diciembre y, previa aprobación, podrá prorrogarse hasta el día 30 del mismo mes; y otro que comenzará el 18 de febrero terminando el 17 de mayo, pudiendo también, previa aprobación, prorrogarse hasta el día 30 del mismo mes. En los recesos del Congreso podrán verificarse períodos extraordinarios de sesiones por el tiempo y objeto que así lo exija la importancia de los asuntos, en los términos de las convocatorias respectivas.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2021)</small>
+
+Cuando exista un desastre natural, contingencia ambiental o de salud, o cualquier otra situación que ponga en riesgo la celebración de las sesiones presenciales en el recinto legislativo, el Congreso del Estado podrá celebrar y desahogar, mediante la autorización correspondiente, sesiones del Pleno y reuniones de trabajo de las comisiones de manera virtual, utilizando las tecnologías de la información y comunicación a distancia, la celebración de dichas sesiones y reuniones serán válidas cumpliendo con los requisitos previstos en la legislación interna.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
@@ -937,11 +941,13 @@ XI. Aprobar o reprobar los convenios que el Gobernador celebre con los Estados v
 
 XII. Condonar contribuciones, oyendo al Ejecutivo en caso de indigencia y autorizar tratamiento fiscal especial como estímulo al desarrollo industrial y económico del Estado.
 
-XIII. Elegir quien deba sustituir al Gobernador en sus faltas.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+XIII. Designar al Gobernador interino o sustituto según corresponda.
 
-XIV. Autorizar al Ejecutivo para gravar, enajenar y ceder los bienes del Estado, así como contraer obligaciones a nombre del mismo.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2021)</small>
+
+XIV. Autorizar al Ejecutivo para gravar, enajenar, otorgar en comodato y ceder los bienes inmuebles del Estado, así como contraer obligaciones a nombre del mismo.
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2017)</small>
 
@@ -1155,9 +1161,9 @@ Durante los recesos de la Cámara, funcionará la Diputación Permanente con las
 
 I. Dictaminar sobre todos los asuntos pendientes al tiempo de receso, y proveer en los nuevos lo que fuera indispensable para dar cuenta de unos y otros a la Legislatura.
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 1943)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2021)</small>
 
-II. Nombrar al Gobernador Provisional que deba sustituir al que esté en funciones.
+II. Convocar a periodo extraordinario de sesiones para la designación del Gobernador interino o sustituto, según corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
@@ -1231,15 +1237,19 @@ VI. No haber figurado directa ni indirectamente en alguna sedición, cuartelazo,
 
 El Gobernador será electo popular y directamente cada seis años, empezará a ejercer sus funciones el diecinueve de Septiembre posterior a la elección, protestando ante el Congreso del Estado y en ningún caso, ni por motivo alguno, podrá ser reelecto.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2021)</small>
 
 ###### Art. 64.
 
-En las faltas absolutas del Gobernador se procederá a nueva elección y el que resulte electo tomará posesión de su cargo luego que se haga la declaratoria correspondiente.
+En caso de falta absoluta del Gobernador, ocurrida durante los tres primeros años de su ejercicio, la Legislatura constituida en (sic) Colegio Electoral nombrará a un Gobernador interino, quien ejercerá sus funciones hasta que tome posesión el Gobernador que resulte electo. Una vez que se haya realizado dicha designación, la misma Legislatura deberá convocar a elecciones extraordinarias en los términos de la ley correspondiente.
 
-En las faltas temporales y en las absolutas, mientras se verifica la elección y se presenta el nuevo electo, entrará en el ejercicio del Poder Ejecutivo, Interinamente, el ciudadano a quien designe el Congreso en escrutinio secreto y por mayoría absoluta.
+Si la falta absoluta del Gobernador ocurriera en los tres últimos años del período constitucional, no se convocará a elecciones extraordinarias, sino que asumirá el Poder Ejecutivo el Gobernador sustituto que nombre la Legislatura constituida en (sic) Colegio Electoral, quien ejercerá sus funciones hasta la terminación del periodo.
 
-Si la falta absoluta del Gobernador ocurriere en los tres últimos años del período Constitucional, no se convocará a elecciones extraordinarias sino que asumirá el Poder Ejecutivo la persona que designe la Legislatura.
+Para el nombramiento de Gobernador interino o sustituto no será aplicable lo establecido en la fracción III del artículo 62 de esta Constitución.
+
+En las faltas temporales y en las absolutas, en tanto se nombra al Gobernador interino y se verifica la elección y se presente el nuevo electo o en su caso se nombre al sustituto, lo que deberá ocurrir en un término no mayor a sesenta días, entrará en el ejercicio del Poder Ejecutivo provisionalmente, la persona titular de la Secretaría General de Gobierno del Estado.
+
+Quien ocupe provisionalmente la gubernatura no podrá remover o designar a los titulares de las dependencias y entidades de la administración pública sin autorización previa del Congreso del Estado. Asimismo, entregará al Congreso del Estado un informe de labores en un plazo no mayor a diez días, contados a partir del momento en que termine su encargo.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -1253,11 +1263,11 @@ a). El Gobernador substituto Constitucional o el designado para concluir el per�
 
 b). El Gobernador Interino, el Provisional o el Ciudadano que bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1980)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2021)</small>
 
 ###### Art. 66.
 
-Si al comenzar el período Constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha ni declarada el 18 de Septiembre, cesará sin embargo, el Gobernador cuyo período hubiere terminado, entonces, como en las faltas repentinas, se encargará desde luego del Poder Ejecutivo con el carácter de interino, el Ciudadano que la Legislatura designe si ésta estuviere en funciones, en caso contrario lo designará la Diputación permanente en los términos establecidos en esta misma Constitución.
+Si al comenzar el período Constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha ni declarada el 18 de septiembre, cesará sin embargo, el Gobernador cuyo período hubiere terminado, entonces, se encargará desde luego del Poder Ejecutivo con el carácter de gobernador interino, el ciudadano que la Legislatura designe, mientras se realiza la elección correspondiente, en los términos previstos para la ausencia absoluta del Gobernador dentro de los tres primeros años de ejercicio constitucional que establece esta Constitución.
 
 ###### Art. 67.
 
@@ -1633,11 +1643,15 @@ La planeación del desarrollo institucional, evaluación, administración, vigil
 
 4.- Podrá expedir acuerdos para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la Ley Orgánica del Poder Judicial.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2021)</small>
+
+5.- El Consejo de la Judicatura se integrará por cinco miembros, de los cuales, uno será el Presidente del Tribunal Superior de Justicia quien a su vez lo será del Consejo; un Magistrado electo por el Pleno del Tribunal Superior de Justicia, quien durará en su encargo dos años con posibilidad de relección hasta en una ocasión; un Juez de Primera Instancia electo por el Consejo de la Judicatura por un periodo de cuatro años, mediante procedimiento de insaculación y en sesión pública, de entre quienes se registren en la convocatoria; un Consejero nombrado por el Congreso del Estado a propuesta de la Comisión de Gobierno, mediante el voto de las dos terceras partes de los diputados presentes en la sesión; y un Consejero designado por el titular del Poder Ejecutivo Estatal. En el caso del consejero nombrado por el Congreso del Estado, se designará a un suplente al momento de la elección del consejero propietario.
+
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-5.- El Consejo de la Judicatura se integrará por cinco miembros, de los cuales, uno será el Presidente del Tribunal Superior de Justicia quien a su vez lo será del Consejo; un Magistrado electo por el Pleno del Tribunal Superior de Justicia, quien durará en su encargo dos años con posibilidad de relección hasta en una ocasión; un Juez de Primera Instancia electo por el Consejo de la Judicatura por un periodo de cuatro años, mediante procedimiento de insaculación y en sesión pública, de entre quienes se registren en la convocatoria; un Consejero nombrado por el Congreso del Estado a propuesta de la Comisión de Gobierno, mediante el voto de las dos terceras partes de los diputados presentes en la sesión; y un Consejero designado por el titular del Poder Ejecutivo Estatal.
-
 El procedimiento para la designación de los Consejeros mediante insaculación deberá atender en todo momento los principios de transparencia y máxima publicidad.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
 Asimismo, contará con un Secretario Ejecutivo que será la instancia de coordinación de los órganos internos. Será nombrado por el propio Consejo para un periodo de cinco años, de entre el personal de carrera judicial, quien tendrá voz, pero no voto y percibirá una remuneración adecuada al ejercicio del cargo.
 
@@ -1645,11 +1659,19 @@ Asimismo, contará con un Secretario Ejecutivo que será la instancia de coordin
 
 Los Consejeros nombrados por los Poderes Legislativo y Ejecutivo, deberán reunir los mismos requisitos que para ser Magistrado, durarán en el cargo el tiempo que se encuentre en funciones la Legislatura o el Poder Ejecutivo que los designó y hasta que la siguiente legislatura o Poder Ejecutivo designen a sus respectivos consejeros. Percibirán una remuneración igual a la de un Juez.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
 A excepción de los Magistrados, el resto de Consejeros no podrán ser reelectos.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
 El Presidente tendrá la facultad de convocar a las sesiones ordinarias o extraordinarias del Consejo; en caso de omisión, por acuerdo de la mayoría de los Consejeros se podrá realizar la convocatoria correspondiente.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+
 Las decisiones del Consejo se tomarán por mayoría de votos o unanimidad, en caso de empate el presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
 Toda obstrucción para el adecuado ejercicio del cargo de los Consejeros, será materia de responsabilidad en términos de ley.
 
@@ -1757,7 +1779,13 @@ c).- Dos o más municipios;
 
 d).- El Poder Legislativo o Ejecutivo con uno o más organismos autónomos del Estado;
 
-e).- Uno o más municipios y uno o más organismos autónomos del Estado.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2021)</small>
+
+e).- Uno o más municipios y uno o más organismos autónomos del Estado, y
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2021)</small>
+
+f).- Un órgano de relevancia constitucional y el Poder Legislativo o Ejecutivo, o contra uno o más órganos autónomos o uno o más municipios. Las controversias suscitadas por la Auditoría Superior del Estado de Nayarit, no procederán contra actos u omisiones del Congreso del Estado.
 
 Lo anterior, siempre que tales controversias no sean competencia de la Suprema Corte de Justicia de la Nación conforme al artículo 105, fracción I, de la Constitución General de la República.
 
@@ -2379,11 +2407,11 @@ El año fiscal queda comprendido del primero de enero al 31 de diciembre, inclus
 
 ### CAPITULO SEGUNDO. De la Fiscalización Superior del Estado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2021)</small>
 
 ###### Art. 121.
 
-La Auditoría Superior del Estado, órgano especializado en materia de fiscalización del Congreso del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
+La Auditoría Superior del Estado, es un órgano de relevancia constitucional especializado en materia de fiscalización del Congreso del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
 
@@ -2401,15 +2429,23 @@ Asimismo, por lo que corresponde a los trabajos de planeación de las auditoría
 
 Apartado A. La Auditoría Superior del Estado tendrá a su cargo:
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2021)</small>
 
-I. Fiscalizar los ingresos, egresos y deuda, las garantías que, en su caso, otorgue el Gobierno Estatal respecto a empréstitos de los Municipios, el manejo, la custodia y la aplicación de fondos y recursos de los poderes del estado, de los municipios, órganos autónomos, y demás entes públicos estatales y municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los planes de desarrollo estatal y municipales, y en los programas gubernamentales que deriven de éstos, a través de los informes que se rendirán en los términos que disponga la ley; también fiscalizará en los términos que establezca la ley, en coordinación con la Auditoría Superior de la Federación, las participaciones federales.
+I. Fiscalizar los ingresos, egresos y deuda, las garantías que, en su caso, otorgue el Gobierno Estatal respecto a empréstitos de los Municipios, el manejo, la custodia y la aplicación de fondos y recursos de los poderes del estado, de los municipios, órganos autónomos, y demás entes públicos estatales y municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los planes de desarrollo estatal y municipales, y en los programas gubernamentales que deriven de estos, a través de los informes que se rendirán en los términos que disponga la ley.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
 
 También fiscalizará los recursos estatales y municipales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos o privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En el caso de los Municipios cuyos empréstitos cuenten con la garantía del Estado, fiscalizará el destino y ejercicio de los recursos correspondientes que hayan realizado los gobiernos municipales.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
 En todo caso, si de las auditorías que realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se realizará el procedimiento respectivo para que se determinen las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, la Auditoría Superior del Estado sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
 La Auditoría Superior del Estado, podrá solicitar y fiscalizar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales o municipales. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
 
 Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la ley, derivado de denuncias que acompañen elementos de prueba, convenios o solicitudes formuladas por los propios sujetos fiscalizables, la Auditoría Superior del Estado, previa autorización de su Titular, podrá revisar durante el ejercicio fiscal en curso a los sujetos fiscalizables, así como respecto de ejercicios anteriores. Los sujetos fiscalizados proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoría Superior del Estado rendirá un informe específico al Congreso y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes.
 
@@ -2759,11 +2795,11 @@ El manejo de recursos federales convenidos se sujetará a las disposiciones de �
 
 Los servidores públicos del Estado y sus Municipios serán responsables del cumplimiento a las mencionadas disposiciones en los términos del Título Octavo de esta Constitución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2021)</small>
 
 ###### Art. 134.
 
-Corresponde al Gobierno del Estado la rectoría del desarrollo para garantizar que sea integral y con una visión al menos de veinticinco años que fortalezca su economía, su régimen democrático, la igualdad de hombres y mujeres, el empleo y una más justa distribución del ingreso, permitiendo el ejercicio de las libertades y la dignidad del ser humano, en el marco de los mandatos que prescribe la Constitución General de la República, esta Constitución y las Leyes que de ellas emanen.
+Corresponde al Gobierno del Estado la rectoría del desarrollo para garantizar que sea integral y con una visión al menos de veinticinco años que fortalezca su economía, su régimen democrático, la igualdad de hombres y mujeres, el empleo y una más justa distribución del ingreso, en el que concurrirán, con responsabilidad social, el sector público, el sector social y el sector privado; permitiendo el ejercicio de las libertades y la dignidad del ser humano, en el marco de los mandatos que prescribe la Constitución General de la República, esta Constitución y las Leyes que de ellas emanen.
 
 El Estado velará por la estabilidad de las finanzas públicas y del sistema financiero para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El Sistema Estatal de Planeación y sus instrumentos, así como los Sistemas Municipales de Planeación, deberán fundamentarse en dichos principios.
 
@@ -4340,3 +4376,15 @@ TERCERO.- Dentro de los noventa días posteriores a la entrada en vigor de este 
 CUARTO.- Dentro de los treinta días posteriores a la entrada en vigor de la presente reforma, los órganos competentes deberán realizar los ajustes presupuestales para su debida ejecución.
 
 QUINTO.- Remítase el presente Decreto a los Ayuntamientos del Estado de Nayarit, para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit.
+
+P.O. 18 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE FALTAS ABSOLUTAS DEL EJECUTIVO, SUPLENCIAS DEL CONSEJO DE LA JUDICATURA, SESIONES VIRTUALES DEL CONGRESO Y FACULTADES DEL CONGRESO; Y RELATIVAS A LA AUDITORÍA SUPERIOR DEL ESTADO DE NAYARIT".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Comuníquese el presente Decreto, al titular del Poder Ejecutivo del Estado de Nayarit, al Magistrado Presidente del Poder Judicial del Estado de Nayarit, así como a la Auditoría Superior del Estado de Nayarit, para los efectos conducentes.
+
+TERCERO.- De conformidad a lo dispuesto por el artículo 85 numeral 5 objeto de la presente reforma, el Congreso del Estado procederá a designar a la persona suplente, para efectos de cubrir en su caso las ausencias que se presentaren, sin que la ocupación de la persona suplente pueda exceder el tiempo de nombramiento de la persona titular.
+
+CUARTO.- Remítase el presente Decreto a los Ayuntamientos del Estado de Nayarit, para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit.
