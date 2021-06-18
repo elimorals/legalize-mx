@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ejecucion-de-penas-y-medidas-judiciales-del-estado-80231
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-02"
-last_updated: "2011-03-02"
+last_updated: "2021-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 122 DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 18 DE JUNIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2021 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 2 de marzo de 2011.
 
@@ -1914,3 +1916,15 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. EDUARDO OVANDO MARTINEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JUNIO DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO: 122 DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 18 DE JUNIO DE 2021.]</small>
+
+ÚNICO. Se abroga la Ley de Ejecución de Penas y Medidas Judiciales del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo, de fecha 2 de marzo de 2011.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 122 POR EL QUE SE ABROGA LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO, DE FECHA 2 DE MARZO DE 2011”.]
+
+Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
