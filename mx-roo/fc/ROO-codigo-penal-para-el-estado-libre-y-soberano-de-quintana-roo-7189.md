@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2021-04-06"
+last_updated: "2021-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -2101,7 +2101,9 @@ I.- Con violencia contra la persona robada o sobre otra que la acompañe, o cuan
 
 II.- En lugar cerrado o habitado o destinado para habitación, o sus dependencias, comprendiendo no solo los que están fijos en la tierra, sino también en los movibles:
 
-III.- Aprovechando la consternación que una desgracia privada cause al ofendido, a su familia o a las condiciones de confusión que se produzcan por catástrofe o desorden público;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2021)</small>
+
+III.- Aprovechando la consternación de una desgracia, o aprovechando situaciones de emergencia, catástrofe natural, contingencia sanitaria, epidemia, invasión, desorden público o cualquier evento extraordinario que perturbe la paz pública;
 
 IV.- Por intervención de dos o más personas;
 
@@ -2120,6 +2122,24 @@ VIII.- En agravio de bienes que pertenezcan o estén destinados al servicio educ
 ###### ARTICULO 145
 
 TER.- Se impondrá de dos a cuatro años de prisión y de diez a veinte días de multa a quien posea, transporte, adquiera, enajene, acopie o comercialice piezas, partes o accesorios objeto de las conductas descritas en las fracciones VII del artículo 145 y VIII del artículo 145-Bis de este Código.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2021)</small>
+
+###### ARTICULO 145
+
+QUÁTER.- Se impondrá de 6 meses a 4 años de prisión y de 10 a 40 días multa, al que utilice medios de comunicación para convocar, organizar, coordinar, promover, compartir o difundir información que propicie la realización de las conductas previstas en el capítulo primero del Título sexto, sección primera, parte especial, libro segundo del presente Código.
+
+Se entenderá por convocar a la actividad consistente en citar a una o más personas para la realización de lo previsto en el párrafo anterior.
+
+Se entenderá por organizar a la actividad consistente en establecer las acciones a desarrollar para la realización de las conductas a las que se refiere el párrafo primero del presente artículo.
+
+Se entenderá por coordinar a la actividad consistente en asignar y vigilar el desarrollo de las acciones previstas para la realización de las conductas a las que se refiere el párrafo primero del presente artículo.
+
+Se entenderá por promover a la actividad consistente en impulsar el desarrollo de las conductas a las que se refiere el párrafo primero del presente artículo.
+
+Se entenderá por compartir a la actividad consistente en distribuir la información que propicie la realización de las conductas a las que se refiere el párrafo primero del presente artículo.
+
+Se entenderá por difundir a la actividad consistente en extender, esparcir y/o propagar las acciones que propicien la realización de la conducta prevista en el párrafo primero del presente artículo.
 
 ###### ARTICULO 146.
 
@@ -2597,11 +2617,15 @@ Cuando el delito lo cometa un familiar del menor que no ejerza sobre él la patr
 
 Si el agente devuelve a la persona menor o que no tiene la capacidad para comprender el significado del hecho espontáneamente, dentro de los cinco días siguientes a la consumación del delito, se le aplicará hasta una tercera parte de las penas arriba señaladas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2021)</small>
+
+ARTICULO 171 BIS.- Se impondrá pena privativa de libertad de dos a seis años al padre o la madre, que no dé aviso por los medios legales a que haya lugar o que sin el consentimiento o autorización del otro progenitor, retuviere o trasladare a su hijo o hijos menores de dieciocho años fuera o dentro del País con la finalidad de cambiar su residencia habitual o impida de algún modo la convivencia del niño, niña o adolescente con su otro progenitor, de acuerdo con lo dispuesto en el Código Civil para el Estado de Quintana Roo; salvo en los casos en los que el juez competente hubiere condenado a alguno de los padres a no convivir, o hacerlo de manera condicionada con sus hijos, o de que el progenitor sea víctima de violencia familiar.
+
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-ARTICULO 171 BIS.- Se impondrá pena privativa de libertad de dos a seis años al padre o la madre, que no dé aviso por los medios legales a que haya lugar o que sin el consentimiento o autorización del otro progenitor, retuviere o trasladare a su hijo o hijos menores de dieciocho años fuera o dentro del País con la finalidad de cambiar su residencia habitual o impida de algún modo la convivencia del niño, niña o adolescente con su otro progenitor, de acuerdo con la Ley de la materia en el Estado; salvo en los casos en los que el juez competente hubiere condenado a alguno de los padres a no convivir o ha hacerlo de manera condicionada con sus hijos o de que el progenitor sea víctima de violencia familiar.
-
 Si el agente devuelve a la persona menor de dieciocho años dentro de los cinco días naturales siguientes a la consumación del delito, se le aplicará hasta una tercera parte de la pena señalada en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 Tratándose de abuelos solo procederá, cuando no existan padres que ejerzan la patria potestad y cesará toda acción para perseguirlo cuando se haga el aviso o notificación correspondiente.
 
@@ -4812,3 +4836,19 @@ P.O. 6 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 098 POR EL QUE SE REFORMAN EL ARTÍCULO 129; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 130 BIS; LOS PÁRRAFOS PRIMERO Y CUARTO DEL ARTÍCULO 130 TER; Y SE DEROGAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 88; EL PÁRRAFO TERCERO DEL ARTÍCULO 89; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 118; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 127 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 128, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 18 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 120 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 145-BIS Y SE ADICIONA EL ARTÍCULO 145-QUÁTER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 121, POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 171 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO Se derogan las disposiciones que se opongan al presente Decreto.
