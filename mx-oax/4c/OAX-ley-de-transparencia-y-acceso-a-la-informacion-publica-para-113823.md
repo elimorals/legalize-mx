@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-11"
-last_updated: "2020-12-19"
+last_updated: "2021-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 11 de marzo de 2016.
 
@@ -291,7 +291,9 @@ III. Asegurar la protección de los datos personales en posesión del sujeto obl
 
 IV. Dar acceso a la información pública que les sea requerida, en los términos de la Ley General, esta Ley y demás disposiciones aplicables;
 
-V. Promover la capacitación para los servidores públicos, en temas de transparencia, acceso a la información, rendición de cuentas, datos personales y archivos;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2021)</small>
+
+V. Establecer un programa de formación y capacitación en materia de transparencia, acceso a la información, rendición de cuentas, datos personales y archivos; para las personas del servicio público que laboran en él;
 
 VI. Cumplir los acuerdos y resoluciones del Instituto;
 
@@ -307,7 +309,7 @@ XI. Responder las solicitudes de acceso de información que le sean presentadas 
 
 XII. Fomentar en los servidores públicos la cultura de la transparencia y el respeto del derecho a la información pública y de acceso a la información pública;
 
-XIII. Establecer un programa de formación y capacitación en materia de transparencia para los servidores públicos que laboran en él;
+XIII. (DEROGADA, P.O. 19 DE JUNIO DE 2021)
 
 XIV. Contar con una página web con diseño adaptable a dispositivos móviles, que tenga cuando menos un buscador temático y un respaldo con todos los registros electrónicos para cualquier persona que lo solicite;
 
@@ -1443,11 +1445,11 @@ El Instituto gozará, respecto de su patrimonio, de las franquicias, exenciones 
 
 Todas las funciones y actividades del instituto, se regirán por los principios de constitucionalidad, legalidad, certeza, eficiencia, independencia, imparcialidad, transparencia, máxima publicidad, profesionalismo y objetividad.
 
-(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2021)</small>
 
 ###### Artículo 79.
 
-El Instituto, a través de su Comisionado Presidente, deberá presentar, a más tardar en el mes de febrero de cada año, un informe por escrito ante el Congreso del Estado sobre los trabajos realizados, el cual deberá hacer público a través de los medios electrónicos disponibles en formatos abiertos, accesibles y reutilizables. Para este efecto el Instituto expedirá los Lineamientos que resulten necesarios.
+El Instituto, a través de su Comisionado Presidente, deberá presentar, a más tardar en el mes de febrero de cada año, un informe por escrito ante el Congreso del Estado sobre los avances en el Estado, en materia de transparencia, acceso a la información, protección de datos personales, gobierno abierto, y los vinculados al Sistema Estatal de Combate a la Corrupción, el cual deberá hacer público a través de los medios electrónicos disponibles en formatos abiertos, accesibles y reutilizables. Para este efecto el Instituto expedirá los Lineamientos que resulten necesarios.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -1643,7 +1645,9 @@ g) Emitir las recomendaciones a los sujetos obligados para diseñar, implementar
 
 h) Conocer y resolver las quejas, denuncias y procedimiento de verificación que marca esta ley;
 
-i) Elaborar los formatos utilizados para el ejercicio del derecho de acceso a la información; verificar si están considerados en la Plataforma Nacional;
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2021)</small>
+
+i) Elaborar los formatos utilizados para el ejercicio del derecho de acceso a la información;
 
 j) Determinar y hacer del conocimiento de la instancia competente la probable responsabilidad por incumplimiento de las obligaciones previstas en la Ley General, esta ley y demás disposiciones aplicables;
 
@@ -1657,7 +1661,9 @@ a) Establecer las normas y políticas para la administración, seguridad y resgu
 
 b) Cumplir y hacer cumplir los principios y normas en la materia;
 
-c) Elaborar los formatos utilizados para el ejercicio de los derechos de acceso, rectificación, cancelación u oposición; verificar en Plataforma Nacional;
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2021)</small>
+
+c) Elaborar los formatos utilizados para el ejercicio de los derechos de acceso, rectificación, cancelación u oposición;
 
 d) Emitir las reglas, criterios o lineamientos necesarios para el adecuado tratamiento de los datos personales;
 
@@ -2125,13 +2131,15 @@ IV. La modalidad en la que prefiere se otorgue la información, la cual podrá s
 
 Cuando las Unidades de Transparencia determinen la notoria incompetencia por parte de los sujetos obligados dentro del ámbito de su aplicación, para atender la solicitud de acceso a la información, deberán de comunicarlo al solicitante, dentro de los tres días posteriores a la recepción de la solicitud y, en caso de poder determinarlo, señalarán al solicitante el o los sujetos obligados competentes.
 
-Si los sujetos obligados son competentes para atender parcialmente la solicitud de acceso a la información, deberán de dar respuesta respecto de dicha parte. Respecto de la información sobre la cual es incompetente se procederá conforme a lo señalado en el párrafo anterior.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2021)</small>
 
-(REFORMADO, P.O. 16 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+Si los sujetos obligados son competentes para atender parcialmente la solicitud de acceso a la información, se deberá dar respuesta respecto de dicha parte y únicamente en estos casos, la notificación de la declaración de incompetencia se realizará dentro de los plazos del procedimiento de acceso a la información.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2021)</small>
 
 ###### Artículo 115.
 
-Cuando la solicitud presentada no fuese clara en cuanto a la información requerida o no cumpla con alguno de los requisitos señalados en el artículo 113 de esta Ley, el sujeto obligado dentro de los cinco días siguientes a la recepción de la solicitud, mandará requerir al solicitante en el medio señalado por éste para recibir notificaciones, a efecto de que en un plazo de cinco días contados, a partir del día siguiente a la notificación del requerimiento, aclare, precise o complemente su solicitud de acceso a la información. En caso de que el solicitante no cumpla con dicha prevención, la solicitud de información se tendrá como no presentada. Este requerimiento interrumpirá el plazo establecido en el artículo 124 de esta Ley. Ninguna solicitud de información podrá desecharse si el sujeto obligado omite requerir al solicitante para que subsane su solicitud.
+Cuando la solicitud presentada no fuese clara en cuanto a la información requerida o no cumpla con alguno de los requisitos señalados en el artículo 113 de esta Ley, el sujeto obligado dentro de los cinco días siguientes a la recepción de la solicitud, mandará requerir al solicitante en el medio señalado por éste para recibir notificaciones, a efecto de que en un plazo de cinco días contados, a partir del día siguiente a la notificación del requerimiento, aclare, precise o complemente su solicitud de acceso a la información. En caso de que el solicitante no cumpla con dicha prevención, la solicitud de información se tendrá como no presentada. Este requerimiento interrumpirá el plazo establecido en el artículo 123 de esta Ley. Ninguna solicitud de información podrá desecharse si el sujeto obligado omite requerir al solicitante para que subsane su solicitud.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -2501,13 +2509,15 @@ V. El sujeto obligado responsable del acto lo modifique o revoque de tal manera 
 
 Las actuaciones y resoluciones del instituto se notificarán, en el domicilio que al efecto señalen las partes o a través de la Plataforma Nacional, o en su defecto en los estrados. Las resoluciones deberán ser notificadas dentro de los tres días siguientes a que se dicten y surtirán efectos al día siguiente de que se notifiquen.
 
-(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2021)</small>
 
 ###### Artículo 148.
 
-Los sujetos obligados deberán informar al instituto del cumplimiento de sus resoluciones, en un plazo no mayor a tres días a partir de que sean cumplimentadas.
+Los sujetos obligados deberán cumplir con las resoluciones del Instituto dentro de los diez días siguientes a su notificación, bajo apercibimiento de la imposición de una de las medidas de apremio establecidas en el artículo 156 de esta Ley.
 
-En caso de incumplimiento de la resolución, el instituto conminará para que se cumpla en un plazo no mayor a cinco días, apercibido que de no hacerlo se iniciará procedimiento a fin de determinar si existe una causa de responsabilidad establecida en el artículo 156 de ésta Ley.
+Los Sujetos Obligados deberán informar al Instituto, dentro de los tres días siguientes sobre el cumplimiento de las Resoluciones, exhibiendo las constancias que lo acrediten.
+
+En caso de incumplimiento a la resolución, se dará paso a lo dispuesto por el Capítulo II del Título Sexto de la presente Ley.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -2633,9 +2643,9 @@ I. Apercibimiento;
 
 II. Amonestación pública, o
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2021)</small>
 
-III. Multa, de veinte hasta trescientas veces el valor de la Unidad de Medida y Actualización vigente en el Estado.
+III. Multa, de veinte hasta trescientas Unidades de Medida y Actualización Diaria.
 
 (F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -2648,6 +2658,52 @@ En caso de que el incumplimiento de las determinaciones del Instituto implique l
 (F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 Las medidas de apremio de carácter económico no podrán ser cubiertas con recursos públicos.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2021)</small>
+
+###### Artículo 156 Bis.
+
+Al calificar las medidas de apremio, deberán tomarse en consideración los siguientes elementos:
+
+I. El daño causado: el perjuicio, menoscabo o agravio a los principios generales o bases constitucionales reconocidos en el artículo 6o, apartado A, de la Constitución Política de los Estados Unidos Mexicanos, así como la afectación a los principios u objetivos previstos en la Ley General y en la Ley Local.
+
+II. Los indicios de intencionalidad: los elementos subjetivos que permiten individualizar el grado de responsabilidad, entendidos como el aspecto volitivo en la realización de la conducta antijurídica.
+
+Para determinar lo anterior, deberá considerarse si existió contumacia total para dar cumplimiento a las disposiciones en la materia o, en su caso, se acreditó estar en vías de cumplimiento a las mismas.
+
+III. La duración del incumplimiento: el lapso de tiempo que persistió el incumplimiento del sujeto obligado.
+
+IV. La afectación al ejercicio de las atribuciones del Instituto: el obstáculo que representa el incumplimiento del sujeto obligado al ejercicio de las atribuciones del organismo garante local, conferidas en el artículo 6o, apartado A, de la Constitución Política de los Estados Unidos Mexicanos, así como en la Ley General y en la Ley Local.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2021)</small>
+
+###### Artículo 156 Ter.
+
+El Instituto podrá de manera directa o indirecta, allegarse de los elementos necesarios, para determinar la condición económica de la persona infractora; cuando se requiera directamente, se le apercibirá que en caso de no proporcionar la información, la cuantificación de las multas se hará con base en los elementos que se tengan a disposición, entendidos estos, como aquellos que se encuentren en los registros públicos, los que contengan medios de información o sus propias páginas de Internet y, en general cualquiera que evidencie su condición, quedando facultado el Instituto para requerir aquella documentación que se considere indispensable para tal efecto a las autoridades competentes.
+
+Sin perjuicio de lo anterior, deberán utilizarse los elementos que se tengan a disposición o las evidencias que obren en registros públicos, páginas de internet oficiales, medios de información o cualquier otra que permita cuantificar la multa.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2021)</small>
+
+###### Artículo 156 Quáter.
+
+La reincidencia deberá ser considerada como agravante, por lo que siempre deberán consultarse los antecedentes de la persona bajo apremio.
+
+Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada, cometa otra igual o del mismo tipo.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2021)</small>
+
+###### Artículo 156 Quinquies.
+
+La notificación que contenga la imposición de la medida de apremio deberá realizarse en un plazo máximo de quince días hábiles, contados a partir de la emisión de la resolución correspondiente.
+
+Deberá contener el texto íntegro del acto, así como el fundamento legal en que se apoye, con la indicación del medio de impugnación que proceda contra la misma, el órgano ante el cual hubiera de presentarse y el plazo para su interposición.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2021)</small>
+
+###### Artículo 156 Sexies.
+
+Será supletorio a los mecanismos de notificación y ejecución de medidas de apremio y sanciones, lo dispuesto en el Código de Procedimientos Civiles para el Estado de Oaxaca; en la Ley de Procedimientos y Justicia Administrativa para el Estado de Oaxaca; y, en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -2663,7 +2719,9 @@ Transcurrido el plazo, sin que se haya dado cumplimiento, se determinarán las s
 
 Las medidas de apremio deberán ser impuestas por el Instituto y ejecutadas por sí mismo o con el apoyo de la autoridad competente, de conformidad con las disposiciones normativas aplicables.
 
-Las multas que fijen el Instituto se harán efectivas ante la Secretaría de Finanzas, del Poder Ejecutivo del Estado, a través de los procedimientos que las leyes establezcan.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2021)</small>
+
+Las multas que fije el Instituto se harán efectivas por la Secretaría de Finanzas del Estado.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -2769,21 +2827,47 @@ Las infracciones a lo previsto en la presente Ley por parte de sujetos obligados
 
 I. El apercibimiento, por única ocasión, para que el sujeto obligado cumpla su obligación de manera inmediata, en los términos previstos en esta Ley, tratándose de los supuestos previstos en las fracciones I, III, V, VI y X del artículo 206 de la Ley General y conforme a lo señalado en esta Ley;
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2021)</small>
 
-Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de veinte a cien veces el valor de la Unidad de Medida y Actualización vigente en el Estado;
+Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de veinte a cien Unidades de Medida y Actualización Diaria.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2021)</small>
 
-II. Multa de cincuenta a doscientos veces el valor de la Unidad de Medida y Actualización vigente en el Estado, en los casos previstos en las fracciones II y IV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley, y;
+II. Multa de cincuenta a doscientos Unidades de Medida y Actualización Diaria, en los casos previstos en las fracciones II y IV del Artículo 206 de la Ley General y conforme a lo señalado en esta Ley, y
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2021)</small>
 
-III. Multa de cien a trescientos veces el valor de la Unidad de Medida y Actualización vigente en el Estado, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV y XV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley.
+III. Multa de cien a trescientos Unidades de Medida y Actualización Diaria, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV y XV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2021)</small>
 
-Se aplicará multa adicional de cinco veces el valor de la Unidad de Medida y Actualización vigente en el Estado, por día, a quien persista en las infracciones citadas en los incisos anteriores.
+Se aplicará multa adicional de cinco Unidades de Medida y Actualización Diaria, por día, a quien persista en las infracciones citadas en los incisos anteriores.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2021)</small>
+
+###### Artículo 167 Bis.
+
+Para determinar el monto de las multas y calificar las sanciones establecidas en el presente Capítulo, el Instituto deberá considerar:
+
+I. La gravedad de la falta del sujeto obligado, determinada por elementos tales como el daño causado; los indicios de intencionalidad; la duración del incumplimiento de las determinaciones del Instituto y la afectación al ejercicio de sus atribuciones;
+
+II. La condición económica del infractor;
+
+III. La reincidencia, y
+
+IV. En su caso, el cumplimiento espontáneo de las obligaciones que dieron origen al procedimiento sancionatorio, el cual podrá considerarse como atenuante de la sanción a imponerse.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2021)</small>
+
+###### Artículo 167 Ter.
+
+El Instituto determinará las atribuciones de las áreas encargadas de calificar la gravedad de la falta y la ejecución de las sanciones que se apliquen o implementen, conforme a los elementos desarrollados en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2021)</small>
+
+###### Artículo 167 Quáter.
+
+Con independencia del carácter de los presuntos infractores, las facultades del Instituto para conocer, investigar, remitir documentación y, en su caso, sancionar, prescribirán en un plazo de cinco años a partir del día siguiente en que se hubieren cometido las infracciones o a partir del momento en que hubieren cesado, si fueren de carácter continuo.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -2968,3 +3052,11 @@ PRIMERO. La Fiscalía General del Estado de Oaxaca, deberá contemplar, el presu
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1763.- MEDIANTE EL CUAL DEROGAN LOS ARTÍCULOS 116 Y 117 DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE OAXACA; Y SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
