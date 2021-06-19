@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-de-datos-personales-en-posesion-de-125252"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-29"
-last_updated: "2020-12-19"
+last_updated: "2021-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2021.
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el miércoles 29 de noviembre de 2017.
 
@@ -1485,27 +1485,11 @@ Las sanciones de carácter económico no podrán ser cubiertas con recursos púb
 
 ###### Artículo 116.
 
-A quien cometa alguna de las infracciones establecidas en la presente Ley, se le sancionará de la siguiente forma:
-
-I. El apercibimiento para que el Responsable lleve a cabo los actos solicitados por el titular, en los términos previstos por esta Ley tratándose de los supuestos previstos en la fracción XIII, del artículo anterior;
-
-II. Multa de ciento cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización, en los casos previstos en las fracciones III, V, VII, VIII, IX, y XI, del artículo anterior; y
-
-III. Multa de quinientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, en los casos previstos en las fracciones I, II, IV, VI, X, XII y XIV, del artículo anterior.
+(DEROGADO, P.O. 19 DE JUNIO DE 2021)
 
 ###### Artículo 117.
 
-El Instituto fundará y motivará la determinación de las infracciones y sanciones, considerando:
-
-I. La naturaleza del dato;
-
-II. La notoria improcedencia de la negativa del responsable, para realizar los actos solicitados por el titular, en términos de esta Ley;
-
-III. El carácter intencional o no, de la acción u omisión constitutiva de la infracción;
-
-IV. La capacidad económica del Responsable; y
-
-V. La reincidencia.
+(DEROGADO, P.O. 19 DE JUNIO DE 2021)
 
 T R A N S I T O R I O S:
 
@@ -1536,3 +1520,11 @@ P.O. 19 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1763.- MEDIANTE EL CUAL DEROGAN LOS ARTÍCULOS 116 Y 117 DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE OAXACA; Y SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
