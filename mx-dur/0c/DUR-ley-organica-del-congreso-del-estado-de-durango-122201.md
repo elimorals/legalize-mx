@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2020-06-11"
+last_updated: "2021-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -1429,6 +1429,10 @@ XXXIII. Protección Civil.
 
 XXXIV. Administración y Cuidado del Agua.
 
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2021)</small>
+
+XXXV. Transparencia y Acceso a la Información.
+
 ###### Artículo 119.
 
 Las Comisiones Legislativas ordinarias son las siguientes:
@@ -1479,7 +1483,7 @@ IX. Controversias que se susciten entre los municipios, y entre éstos y el Pode
 
 X. Legislación sobre derecho registral y relativa a expropiaciones;
 
-XI. Elección de Comisionados propietarios y suplentes del Instituto Duranguense de Acceso a la Información Pública y Protección de Datos Personales, previa convocatoria pública, de conformidad con la ley; y,
+XI. (DEROGADA, P.O. 20 DE JUNIO DE 2021)
 
 XII. Las demás que le encomiende el Congreso del Estado.
 
@@ -1724,6 +1728,18 @@ Artículo 151 ter.- La Comisión del Administración y Cuidado del Agua, conocer
 I. Lo relacionado con la legislación en materia del Agua en el Estado; y
 
 II. Lo relacionado y vinculado con actividades de fomento del cuidado, conservación, protección, restauración, aprovechamiento y administración del agua en el Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2021)</small>
+
+Artículo 151 quater.- A la Comisión de Transparencia y Acceso a la Información Pública, le corresponde dictaminar y conocer sobre los siguientes asuntos:
+
+I.- Elección de Comisionados propietarios y suplentes del Instituto Duranguense de Acceso a la Información Pública y Protección de Datos Personales, previa convocatoria pública, de conformidad con la ley;
+
+II.- Lo relativo a la legislación en materia de transparencia, acceso a la información pública y protección de datos personales;
+
+III.- Vinculación con instituciones públicas y organizaciones de la sociedad civil en materia de Estado abierto; y
+
+IV.- Las demás que le encomiende el Congreso.
 
 ###### Artículo 152.
 
@@ -3142,3 +3158,15 @@ P.O. 11 DE JUNIO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- La Secretaria General del Congreso realizara los ajustes administrativos necesarios para dar cumplimiento al presente decreto.
+
+P.O. 20 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 590.- QUE CONTIENE REFORMA Y ADICIÓN A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará (sic) el 31 de agosto de 2021 previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
