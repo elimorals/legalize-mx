@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2021-02-26"
+last_updated: "2021-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -603,9 +603,11 @@ El Servicio a que se refiere el párrafo anterior se prestará:
 
 Este servicio no estará sujeto a itinerarios, rutas, frecuencias de paso ni a horarios fijos.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
 
-ARTICULO 12 BIS.- Para efectos de esta Ley, se entenderá como Empresa de Redes de Transporte a las Sociedades Mercantiles Nacionales cuyo objeto sea la prestación del Servicio Ejecutivo, mediante la administración y operación de aplicaciones y plataformas informáticas, basadas en el desarrollo de las tecnologías de los dispositivos inteligentes y los sistemas de posicionamiento global y de pagos electrónicos, cuyos esquemas tarifarios serán determinados por la misma.
+ARTÍCULO 12 BIS.- Para efectos de esta Ley, se entenderá como Empresa de Redes de Transporte a las Sociedades Mercantiles Nacionales cuyo objeto sea la prestación del Servicio Ejecutivo, mediante la administración y operación de aplicaciones y plataformas informáticas, basadas en el desarrollo de las tecnologías de los dispositivos inteligentes y los sistemas de posicionamiento global, cuyos esquemas tarifarios serán determinados por la misma.
+
+La contraprestación por los servicios de estas empresas podrá realizarse en pagos electrónicos o en efectivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
 
@@ -2792,3 +2794,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Todo instrumento jurídico ya sea legal o administrativo y/o norma en sentido formal o material, que a la entrada en vigor del presente Decreto, se refiera a la Ley de Transporte para el Estado de Puebla, se entenderá realizada a la Ley de Movilidad y Transporte del Estado de Puebla; en igual sentido, respecto a la Dependencia que se modifica su denominación, se entenderá atribuido a la Secretaría de Movilidad y Transporte del Estado a que se refiere el presente ordenamiento.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 12 BIS DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
