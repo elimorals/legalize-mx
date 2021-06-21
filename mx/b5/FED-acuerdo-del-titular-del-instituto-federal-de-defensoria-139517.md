@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-titular-del-instituto-federal-de-defensoria-139517"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-12-11"
-last_updated: "2020-11-13"
+last_updated: "2021-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139517&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-11-29"
 
 ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2021.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de diciembre de 2019.
 
@@ -465,11 +465,13 @@ XII. Las demás funciones que determine la Dirección General y la normativa apl
 
 #### SECCIÓN SEXTA. De la Unidad de Asesoría Jurídica
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2021)</small>
 
 ARTÍCULO 14 BIS. Objetivos de la Unidad.
 
-La Unidad de Asesoría Jurídica tiene como objetivos lograr el desempeño óptimo de las funciones de asesoría jurídica, así como la especializada en materia de igualdad de género, de atención a grupos en situación de vulnerabilidad, así como generar y promover estrategias de colaboración con entidades públicas nacionales e internacionales y organizaciones de la sociedad civil, para fortalecer el trabajo institucional en seguimiento a los compromisos nacionales e internacionales en materia de derechos humanos de los mencionados grupos.
+La Unidad de Asesoría Jurídica tiene como objetivos lograr el desempeño óptimo de las funciones de asesoría jurídica, incluyendo la especializada en materia de igualdad de género, de atención a grupos en situación de vulnerabilidad y en materia laboral, así como generar y promover estrategias de colaboración con entidades públicas nacionales e internacionales y organizaciones de la sociedad civil, para fortalecer el trabajo institucional en seguimiento a los compromisos nacionales e internacionales en materia de derechos humanos de los mencionados grupos.
 
 > <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
@@ -491,7 +493,11 @@ VI. Conocer, tramitar y resolver sobre el procedimiento de retiro del servicio d
 
 VII. Vigilar que la prestación del servicio de asesoría jurídica en casos de urgencia, se encuentre justificada;
 
-VIII. La o el Titular de la Unidad y el personal adscrito a la misma, podrán realizar funciones de asesoría jurídica en los casos que determine la Dirección General de acuerdo a las necesidades del servicio;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+VIII. Realizar funciones de asesoría jurídica en los casos que determine la Dirección General de acuerdo a las necesidades del servicio;
 
 IX. Resolver las consultas formuladas por el personal adscrito a la Unidad sobre las cuestiones sustantivas y procesales, que se planteen sobre el servicio de asesoría jurídica;
 
@@ -499,21 +505,25 @@ X. Coordinar acciones de investigación y monitoreo respecto de temas de grupos 
 
 XI. Proponer proyectos de mejora al Director General para establecer acciones en materia de igualdad de género, así como para la atención de grupos en situación de vulnerabilidad, tales como personas en movilidad y sujetas a protección internacional, niñas, niños y adolescentes, población indígena y afrodescendiente, personas con discapacidad, personas trabajadoras y sus beneficiarios, entre otros;
 
-XII. La o el titular de la Unidad y, en su caso, el personal adscrito a la misma, realizará funciones de asesoría jurídica en los casos relacionados con los temas encomendados a ésta por la Dirección General;
+XII. Investigar, analizar, evaluar y dar seguimiento a las recomendaciones nacionales e internacionales en materia de derechos humanos competencia de la Unidad para proponer acciones que correspondan al Instituto;
 
-XIII. Investigar, analizar, evaluar y dar seguimiento a las recomendaciones nacionales e internacionales en materia de derechos humanos competencia de la Unidad para proponer acciones que correspondan al Instituto;
+XIII. Proponer al Director General proyectos al interior del Instituto, relacionados con el tema de hostigamiento y acoso sexual;
 
-XIV. Proponer al Director General proyectos al interior del Instituto, relacionados con el tema de hostigamiento y acoso sexual;
+XIV. Proponer al Director General ajustes razonables en las instalaciones del Instituto o donde su personal se encuentre adscrito, que permitan la adecuada y segura prestación de los servicios a personas con discapacidad;
 
-XV. Proponer al Director General ajustes razonables en las instalaciones del Instituto o donde su personal se encuentre adscrito, que permitan la adecuada y segura prestación de los servicios a personas con discapacidad;
+XV. Coordinar la certificación y evaluación del personal bilingüe indígena del Instituto;
 
-XVI. Coordinar la certificación y evaluación del personal bilingüe indígena del Instituto;
+XVI. Coordinar las actividades del personal que determine el Director General en los temas que le encomiende;
 
-XVII. Coordinar las actividades del personal que determine el Director General en los temas que le encomiende;
+XVII. Coordinar, integrar y revisar el registro único de acciones colectivas a nivel nacional, y
 
-XVIII. Coordinar, integrar y revisar el registro único de acciones colectivas a nivel nacional, y
+XVIII. Las demás funciones que determine el Director General del Instituto y la normativa aplicable.
 
-XIX. Las demás funciones que determine el Director General del Instituto y la normativa aplicable.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+XIX. Comisionar a las y los oficiales para la realización de actividades de apoyo, tales como acudir a audiencias, formular entrevistas, búsquedas de información, visitas a hospitales, albergues, asilos, comunidades indígenas, entre otras, cuando así se requiera sin incurrir en actos de molestia y a petición del personal de asesoría por el plazo que sea necesario.
 
 ### CAPÍTULO VI. De las Delegaciones
 
@@ -541,9 +551,11 @@ En el interior de la República las y los Delegados, y en la Ciudad de México l
 
 I. Planear, organizar, dirigir y supervisar el trabajo, el control administrativo, la gestión y el seguimiento de acciones institucionales con el personal profesional, administrativo, de apoyo y con personal de defensa pública adscrito en cada Delegación o en la Dirección;
 
-> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
 
-II. Realizar, de manera permanente, la supervisión documental al personal para constatar que la información y documentación, a que se refiere el Título Tercero de estas Bases, se haya remitido conforme lo indican tales preceptos;
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+II. Realizar, de manera permanente, la supervisión documental al personal de defensa penal y asesoría jurídica para constatar que la información, a que se refiere el Título Tercero de estas Bases, se haya remitido e integrado conforme lo indican tales preceptos;
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
@@ -557,9 +569,11 @@ IV. Los expedientes de control deberán ser digitales para su consulta, y a su v
 
 V. Supervisar que el personal jurídico mantenga permanentemente actualizada la información, relacionada con sus respectivas funciones, que sea necesario registrar en los sistemas electrónicos empleados por el Instituto;
 
-> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
 
-VI. Designar defensora o defensor público sustituto o suplente en los casos de faltas temporales o tratándose de los casos previstos en el artículo 8º de la Ley de Amparo, así como para asesorar y representar a una persona adulta que tenga limitada la capacidad para representarse por sí misma, o exista impedimento a fin de evitar que se actualice la hipótesis del tipo penal prevista en la fracción I del artículo 232 del Código Penal Federal, así como a las y los defensores públicos que atiendan, por turno, las solicitudes que se presenten en materia de ejecución de sentencias;
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+VI. Designar a la defensora o defensor público en los casos que se requiera, incluyendo a los sustitutos o suplentes en los supuestos de faltas temporales o tratándose de los casos previstos en el artículo 8º de la Ley de Amparo, así como para asesorar y representar a una persona adulta que tenga limitada la capacidad para representarse por sí misma, o exista impedimento a fin de evitar que se actualice la hipótesis del tipo penal prevista en la fracción I del artículo 232 del Código Penal Federal, así como a las y los defensores públicos que atiendan, por turno, las solicitudes que se presenten en materia de ejecución de sentencias. Tratándose de personas usuarias que sean mujeres y así lo soliciten, deberá designarse a una defensora pública para que la represente;
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
@@ -637,7 +651,13 @@ XXXII. Asignar a las y los oficiales para la obtención de datos de prueba que l
 
 XXXIII. Comisionar a las y los oficiales para la realización de las actividades de apoyo previstas en la fracción anterior, cuando así se requiera, y a petición del personal de defensa o asesoría, por el plazo que sea necesario, contando con el apoyo de pasajes o viáticos, y
 
-XXXIV. Las demás que determine la Dirección General.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+XXXIV. Coadyuvar con la Unidad de Asesoría Jurídica para la designación de asesora o asesor jurídicos, a petición de órganos jurisdiccionales, difusión del servicio, identificación y seguimiento de las acciones colectivas, así como de cualquier otro acto de carácter urgente con conocimiento de la Unidad.
+
+XXXV. Las demás que determine la Dirección General.
 
 ### CAPÍTULO VII. Del Secretariado Técnico
 
@@ -909,6 +929,12 @@ Promover la perspectiva de género
 
 El personal del Instituto tiene la obligación de prestar sus servicios con especial consideración de la perspectiva de género, la diversidad cultural e interseccionalidad. En el caso de las y los defensores y asesores deberán señalar siempre en sus promociones el contexto socioeconómico y cultural de las personas que representen.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+Las y los defensores públicos y asesores jurídicos, en la promoción de sus asuntos, deben invocar precedentes, doctrina, tratados internacionales y soft law internacional, así como todos aquellos instrumentos que fortalezcan la calidad de los servicios que se brinde, que sean relevantes para garantizar los derechos de las y los representados.
+
 ### CAPÍTULO II. De la Orientación Institucional y Primer Contacto
 
 ###### ARTÍCULO 28.
@@ -947,15 +973,17 @@ Las atenciones derivadas del servicio de primer contacto, deberán registrarse e
 
 #### SECCIÓN PRIMERA. Disposiciones generales
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 32.
 
 Actuación de las y los defensores públicos.
 
-El servicio de defensa penal se presta en asuntos del orden federal, en todas las etapas del procedimiento penal hasta la ejecución de sentencias, para lo cual la o el Delegado deberá procurar que sea la misma persona quien lleve la representación en todas las etapas del proceso penal, a fin de que se brinde una defensa adecuada y efectiva.
+El servicio de defensa penal se presta en asuntos del orden federal, en todas las etapas del procedimiento hasta la ejecución de sentencias, para lo cual la o el Delegado deberá procurar que sea la misma persona quien lleve la representación en todas las etapas, con excepción de la de ejecución penal, la que será responsabilidad de defensores especializados quienes de manera preponderante realizarán estas funciones, pudiendo llevar representaciones en otras etapas de acuerdo con las cargas de trabajo y necesidades del servicio. Y también ser asistidos por defensoras y defensores no especializados en ejecución penal por las mismas razones.
 
-> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
-
-En caso de que exista un impedimento, la titularidad de la Delegación o Dirección correspondiente, deberá comunicarlo a la Unidad de Defensa Penal, y enviar la justificación que sea necesaria para que, en su caso, se autorice la excepción.
+Lo anterior, a fin de que se brinde una defensa adecuada y efectiva.
 
 ###### ARTÍCULO 33.
 
@@ -975,6 +1003,12 @@ Existe conflicto de intereses que impide la intervención del Instituto Federal 
 
 Existe conflicto de intereses que obliga a la sustitución de la o el defensor, cuando las personas defendidas incurren en declaraciones contradictorias o cuando se hacen imputaciones entre ellas.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+También podrá plantearse cuando por condiciones de género, o vulnerabilidad, se adviertan relaciones asimétricas de poder o desventajas hacia un o una representada
+
 #### SECCIÓN SEGUNDA. De la visita a detenidos
 
 ###### ARTÍCULO 35.
@@ -989,13 +1023,29 @@ En los centros de reclusión, en los que deberá proporcionarse un espacio adecu
 
 I. Visita inicial.- Es la que se lleva a cabo dentro de las cuarenta y ocho horas siguientes a la aceptación de la defensa en ambas instancias, y tiene por objeto conocer de manera directa la versión de su defendida o defendido sobre los hechos que se le imputan, para contar con mayores elementos al plantear la estrategia de defensa. En dicha visita, se entrega a la persona inculpada la tarjeta informativa señalada en el título referente a la información documental de estas Bases. La o el defensor público deberá solicitar a la persona inculpada el número de teléfono de un familiar de confianza, que será informado periódicamente del estado que guarda el caso, y
 
-II. Visita ordinaria.- Es la que realiza durante el arraigo o la tramitación del proceso a cada persona defendida, con la finalidad de allegarse probanzas que puedan aportarse en su defensa, preparar el ofrecimiento y desahogo de las mismas, interponer medios d impugnación y tomar decisiones junto con la persona arraigada o encausada para una adecuada defensa, independientemente de lo previsto por la fracción VIII del artículo 12 de la Ley.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+II. Visita ordinaria.- Es la que realiza durante el arraigo o la tramitación del proceso a cada persona defendida, con la finalidad de allegarse probanzas que puedan aportarse en su defensa, preparar el ofrecimiento y desahogo de las mismas, interponer medios de impugnación y tomar decisiones junto con la persona arraigada o encausada para una adecuada defensa, independientemente de lo previsto por la fracción XVI del artículo 12 de la Ley.
 
 Las y los defensores públicos deben mantener permanentemente informados (sic) a las personas representadas acerca de su caso por todos los medios a su alcance, para permitirles una efectiva participación en el proceso. En razón de lo anterior, las y los defensores públicos garantizarán que las personas defendidas reciban una visita carcelaria por lo menos una vez al mes.
 
 En cuanto a la ejecución de sentencias, las y los defensores públicos deberán practicar visitas carcelarias y realizar los trámites que correspondan para obtener los beneficios solicitados por las y los internos sentenciados por delitos federales. Cuando la persona sentenciada se encuentre cumpliendo pena privativa de libertad en razón de una sentencia condenatoria, la defensa deberá velar por su integridad física, psicológica y por su libertad, agotando todas las instancias posibles a fin de darle acceso a los beneficios preliberacionales y a las sanciones no privativas de la libertad bajo los supuestos que establece la Ley Nacional de Ejecución Penal.
 
 Asimismo, en cada visita, las y los defensores públicos deberán hacer las preguntas pertinentes a sus representadas y representados, que permitan identificar posibles actos de tortura o malos tratos cometidos en su contra en relación con las condiciones de internamiento. De ser el caso, deberán promover las actuaciones pertinentes y necesarias para garantizar la investigación, juzgamiento, sanción y reparación de dichos hechos. La defensa pública debe comunicarse con una o un familiar de confianza de la persona representada, al menos una vez al mes, para informar el estado que guarda el caso.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+Tratándose de las visitas carcelarias en la modalidad a distancia las y los Defensores Públicos podrán realizarlas a través de llamadas telefónicas o de videoconferencias, de conformidad con los equipos, aplicaciones o sistemas, o cualquier otro medio con que cuente o se autorice realizarlas por los centros penitenciarios.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+Queda prohibida la realización de visitas carcelarias que por coordinación se lleven a cabo a través de una o un defensor público distinto al que está formalmente desginado para la representación de la persona usuaria.
 
 ### CAPÍTULO IV. Del servicio de asesoría jurídica
 
@@ -1015,7 +1065,11 @@ b) Asuntos en los que sea procedente la interposición de recursos o medios de d
 
 c) Asuntos que se tramiten ante dependencias federales y entidades de la Administración Pública Federal, conforme a procedimientos seguidos en forma de juicio.
 
-d) Asuntos en los que sea procedente promover juicio de amparo directo contra sentencias definitivas o resoluciones que pongan fin al juicio, dictadas por tribunales administrativos federales.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+d) Asuntos en los que sea procedente promover juicio de amparo directo contra sentencias definitivas o resoluciones que pongan fin al juicio, dictadas por tribunales administrativos.
 
 e) Asuntos migratorios.
 
@@ -1029,7 +1083,11 @@ c) Asuntos en los que sea procedente interponer recurso de revocación en contra
 
 III. Materia civil:
 
-a) Asuntos previstos en las fracciones I, II, III, V, VI y VII del artículo 53 de la Ley Orgánica del Poder Judicial de la Federación.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+a) Asuntos previstos en las fracciones I, II, III, V, VI y VII del artículo 53 y 53 Bis de la Ley Orgánica del Poder Judicial de la Federación.
 
 b) Asuntos contemplados en el artículo 54 de la Ley Orgánica del Poder Judicial de la Federación, en la inteligencia que en esta materia se excluyen aquellos casos que provengan o se hayan originado en el fuero común, o en los que la o el solicitante cuente ya con la asesoría o asistencia jurídica de la institución de defensoría correspondiente a dicho fuero, o que por razón del mismo, debe acudir en requerimiento de sus servicios a esa institución.
 
@@ -1051,13 +1109,17 @@ d) Asuntos en los que sea procedente promover recurso de reconsideración contra
 
 e) Asuntos en los que sea procedente promover juicio de amparo directo contra sentencias definitivas o resoluciones que pongan fin al juicio, dictadas por tribunales laborales federales.
 
-f) Asuntos en los que la Dirección General instruya la prestación del servicio.
-
 V. En los que sea procedente tramitar, ante los órganos investigadores o jurisdiccionales, la devolución de bienes u objetos a favor de terceros.
 
 VI. Tratándose de asuntos en los que sea procedente promover acciones colectivas para la tutela de las pretensiones en materia de consumo de bienes o servicios, públicos o privados y medio ambiente, cuya titularidad corresponda a un grupo de al menos treinta personas.
 
 VII. En todas las materias, excepto en materia penal, tratándose de juicios de amparo en que las titularidades de órganos jurisdiccionales requieran la designación de una representación especial para una persona menor de edad o adulta que tenga alguna limitación para representarse por sí misma o por estar privada de su libertad.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+VIII. En todos los asuntos en que la Dirección General instruya la prestación del servicio, para no dejar en estado de indefensión a alguna persona usuaria.
 
 Dado que el servicio de asesoría jurídica es gratuito, se prestará en la Delegación o adscripción que corresponda al domicilio particular de la persona usuaria, para no incidir en su patrimonio.
 
@@ -1241,7 +1303,11 @@ III. Acuerdos y resoluciones judiciales.- Contiene las determinaciones emitidas 
 
 IV. Acta de entrevista.- En ella se asienta el contenido de la conversación sostenida entre la defensa pública y la persona inculpada, salvo causa de fuerza mayor, en la oficina de aquélla si ésta no estuviese detenida, y en caso contrario en el lugar de la detención;
 
-V. Acta de visita.- En ella se asienta el contenido de la conversación entre la defensa pública y la persona defendida, cuando ésta se encuentra interna en algún centro de reclusión o arraigada en cualquier lugar, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+V. Acta de visita.- Es el documento en el que se hace constar la visita presencial o a distancia, entre la o el defensor público y la persona representada, y en la que se da cuenta, en su caso, de alguna diligencia ordenada por la autoridad jurisdiccional, sin que se haga constar información que pueda afectar la estrategia de defensa, ni algún otro elemento sensible que pueda utilizarse en perjuicio de la persona defendida, y
 
 VI. Promociones.- Escritos en los que la defensa pública promueve todo lo relacionado a la defensa ante el Ministerio Público de la Federación, Juzgados de Distrito y Tribunales Unitarios de Circuito de su adscripción, u otras autoridades judiciales o administrativas.
 
@@ -1273,7 +1339,11 @@ III. Agenda oficial de actividades.- En la que se anotan la fecha y hora de las 
 
 IV. Tarjeta informativa.- Contiene los datos y obligaciones de quien otorga la asesoría, así como el área correspondiente del Instituto donde se pueden presentar quejas o inconformidades, y debe ser entregada a la persona destinataria del servicio a partir de que ésta sea legalmente representada, o a sus familiares en los casos que se estime necesario, y
 
-V. Libro de trabajo social.- Se utiliza para llevar un control y registro de los estudios socioeconómicos que se ordenen practicar.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+V. Libro digital de trabajo social.- Se utiliza para llevar un control y registro de los estudios socioeconómicos que se ordenen practicar, así como de los dictámenes periciales rendidos a petición del personal del Instituto u órgano jurisdiccional respectivo.
 
 ###### ARTÍCULO 52.
 
@@ -1527,7 +1597,11 @@ La Unidad de Supervisión, Evaluación y Servicio Civil de Carrera debe verifica
 
 Objetivo y sujetos de la evaluación.
 
-El objetivo de la evaluación es calificar el desempeño del personal que realiza funciones de defensa penal y asesoría jurídica, para elevar la calidad de los servicios que presta el Instituto, utilizando fundamentalmente para este fin, la información obtenida en la supervisión. Asimismo, en su caso, es complementaria del servicio civil de carrera.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2021)</small>
+
+El objetivo de la evaluación es calificar el desempeño del personal que realiza funciones de defensa penal y asesoría jurídica, para elevar la calidad de los servicios que presta el Instituto, estará a cargo del cuerpo de evaluadoras y evaluadores, quienes utilizarán fundamentalmente para este fin, la información obtenida en la supervisión. Asimismo, en su caso, es complementaria del servicio civil de carrera.
 
 Es sujeto de evaluación, el personal siguiente:
 
@@ -2240,3 +2314,23 @@ SEGUNDO. Las modificaciones y adiciones de las Bases Generales de Organización 
 ## TRANSITORIO
 
 ÚNICO. Las modificaciones y adiciones de las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del veintidós de septiembre del año dos mil veinte, entrarán en vigor al día siguiente de la publicación del presente acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA".]
+
+PRIMERO. El presente Acuerdo y su ANEXO ÚNICO entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el transitorio siguiente.
+
+SEGUNDO. La modificación del artículo 35 consistente en la prohibición de realizar visitas carcelarias por coordinación a través de una o un defensor público distinto al que está formalmente designado para la representación de la persona usuaria, entrará en vigor a partir de 2022.
+
+TERCERO. La Dirección General del Instituto realizará las gestiones que resulten necesarias para la publicación de este Acuerdo y su anexo único en el Diario Oficial de la Federación y en la página electrónica del Instituto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, PUBLICADO EN EL D.O.F. DE 21 DE JUNIO DE 2021.]</small>
+
+PRIMERO. En cumplimiento a lo ordenado por la Junta Directiva del Instituto Federal de Defensoría Pública, en sesión ordinaria del 26 de abril del 2021, publíquese el presente acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO. Las modificaciones y adiciones de las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del 26 de abril del 2021 estarán disponibles en los siguientes vínculos electrónicos: https://www.ifdp.cjf.gob.mx/resources/documentos/2021/acuerdoModificacionesJD_26042021.pdf y www.dof.gob.mx/2021/CJF/ModBasesGenerales_26abr21.pdf.
+
+## TRANSITORIO
+
+ÚNICO. Las modificaciones y adiciones de las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del 26 de abril del 2021, entrarán en vigor al día siguiente de la publicación del presente acuerdo en el Diario Oficial de la Federación con excepción de la modificación del artículo 35 consistente en la prohibición de realizar visitas carcelarias por coordinación a través de una o un defensor público distinto al que está formalmente designado para la representación de la persona usuaria que entrará en vigor a partir de 20222.
