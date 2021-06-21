@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-organica-de-la-fiscalia-general-del-138762
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-09-27"
-last_updated: "2019-09-27"
+last_updated: "2021-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MIC"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2021.
 
 Reglamento publicado en la Quinta Sección del Núm. 47 del Periódico Oficial del Estado de Michoacán, el viernes 27 de septiembre de 2019.
 
@@ -66,9 +66,19 @@ REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN
 
 Las disposiciones de este Reglamento son de orden público y de observancia obligatoria para el personal de la Fiscalía General del Estado de Michoacán; tiene por objeto regular su organización interna para el estricto cumplimiento de las obligaciones constitucionales y legales que le son conferidas.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 2.
 
-La actuación del personal de la Fiscalía General del Estado de Michoacán se rige por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, siendo responsables del correcto manejo de los recursos humanos, materiales y financieros que le sean asignados, así como de la guarda, custodia, secrecía y manejo de la información relacionada con la institución y sus actuaciones.
+La actuación del personal de la Fiscalía General del Estado de Michoacán, se rige por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género, proactividad y respeto a los derechos humanos, siendo responsables del correcto manejo de los recursos humanos, materiales y financieros que le sean asignados, así como de la guarda, custodia, secrecía y manejo de la información relacionada con la institución y sus actuaciones.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 2 Bis.
+
+El personal de la Fiscalía General es de confianza, conforme a las disposiciones normativas que regulan a las instituciones de seguridad pública.
+
+La relación entre la Fiscalía General del Estado de Michoacán y los agentes del Ministerio Público, policías de investigación y peritos, se regirá por lo establecido en el artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 3.
 
@@ -80,15 +90,21 @@ II. Centro de Mecanismos: Centro de Mecanismos Alternativos de Solución de Cont
 
 III. Código Nacional: Código Nacional de Procedimientos Penales;
 
-IV. Conferencia Nacional: Conferencia Nacional de Procuración de Justicia;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-V. Contraloría: Contraloría de la Fiscalía General;
+IV. Código Penal: Código Penal para el Estado de Michoacán;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+V. Comité Interno de Adquisiciones de la Fiscalía General; Órgano encargado de realizar las acciones necesarias para adquirir, arrendar, contratar la prestación de servicios, y de obra pública e infraestructura de la institución;
 
 VI. Dirección General de Tecnologías: Dirección General de Tecnologías de la Información, Planeación y Estadística;
 
 VII. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
 
-VIII. Fiscalía General: La Fiscalía General del Estado de Michoacán;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VIII. Dictámenes Periciales: Documentos expedidos de conformidad con el Catálogo de Servicios de la Coordinación General de Servicios Periciales, y los que admitan la experiencia, la ciencia y la técnica;
 
 IX. Fiscalías Regionales, Fiscalías o Unidades Especializadas: Unidades administrativas integrantes de la estructura orgánica básica, a que hace referencia el presente Reglamento;
 
@@ -100,7 +116,11 @@ XII. Personal: Las personas en el servicio público integrantes de la Fiscalía 
 
 XIII. Plan: Plan de Persecución de Delitos; y,
 
-XIV. Reglamento: El Reglamento de la Ley Orgánica.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIV. Ley Orgánica: Ley Orgánica de la Fiscalía General del Estado de Michoacán;
+
+XV. al XVII. (sic)
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN DE LA FISCALÍA GENERAL
 
@@ -112,7 +132,39 @@ I. Fiscalía General:
 
 a) Secretaría Particular;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+1. Dirección de Vinculación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+2. Coordinación de Previsión y Salud.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+3. Asesores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+4. Oficina de agentes del Ministerio Público Auxiliares del Fiscal General.
+
 b) Secretaría Técnica;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+1. Unidad de Planeación y Seguimiento del Plan de Persecución de Delitos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+2. Dirección de Comunicación Social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+3. Unidad de Transparencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+4. Unidad de Archivo y Memoria Institucional.
 
 c) Dirección de Planeación y Seguimiento del Plan de Persecución de Delitos;
 
@@ -126,9 +178,21 @@ g) Asesores.
 
 II. Fiscalía Coordinadora:
 
-a) Unidad de Asuntos Especiales; y,
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
 
-b) Unidad de Atención Inmediata.
+a) Subcoordinación Operativa;
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+b) Subcoordinación de Trámites y Servicios;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+c) Unidad de Atención Inmediata; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+d) Fiscalía de Asuntos Especiales.
 
 III. Fiscalías Regionales:
 
@@ -290,7 +354,9 @@ IX. Fiscalía Especializada en Materia de Derechos Humanos y Libertad de Expresi
 
 a) Unidad de Derechos Humanos y Libertad de Expresión;
 
-b) Unidad de Atención de Trata de Personas;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+b) Unidad de Investigación de Delitos de Trata de Personas;
 
 c) Unidad de Justicia Penal para Adolescentes;
 
@@ -328,21 +394,39 @@ e) Dirección de Atención a Víctimas; y,
 
 f) Dirección de Policía de Investigación.
 
-XIII. Unidad Especializada de Investigación y Persecución del Homicidio Doloso, Homicidio Doloso contra la Mujer y Feminicidio:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE JUNIO DE 2021)</small>
+
+XIII. Unidad Especializada de Investigación del Homicidio Doloso y Feminicidio:
 
 a) Fiscalía de Homicidio Doloso;
 
-b) Fiscalía de Investigación y Persecución del Homicidio Doloso contra la Mujer y Feminicidio;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
 
-c) Dirección de Carpetas de Investigación;
+b) Fiscalía de Investigación del Homicidio Doloso contra la Mujer y Feminicidio;
 
-d) Dirección de Litigación;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
 
-e) Centro de Investigación Estratégica;
+c) Unidades Regionales de Investigación del Homicidio Doloso y Feminicidio;
 
-f) Unidad de Servicios Periciales y Escena del Crimen; y,
+(REUBICADO [N. DE E. ANTES INCISO C) ], P.O. 21 DE JUNIO DE 2021)
 
-g) Dirección de Policía de Investigación.
+d) Dirección de Carpetas de Investigación;
+
+(REUBICADO [N. DE E. ANTES INCISO D) ], P.O. 21 DE JUNIO DE 2021)
+
+e) Dirección de Litigación;
+
+(REUBICADO [N. DE E. ANTES INCISO E) ], P.O. 21 DE JUNIO DE 2021)
+
+f) Centro de Investigación Estratégica;
+
+(REUBICADO [N. DE E. ANTES INCISO F) ], P.O. 21 DE JUNIO DE 2021)
+
+g) Unidad de Servicios Periciales y Escena del Crimen; y,
+
+(REUBICADO [N. DE E. ANTES INCISO G) ], P.O. 21 DE JUNIO DE 2021)
+
+h) Dirección de Policía de Investigación.
 
 XIV. Agencia de Inteligencia Criminal:
 
@@ -354,17 +438,45 @@ c) Dirección de Policía Cibernética.
 
 XV. Policía de Investigación:
 
-a) Centro de Protección a Personas Intervinientes;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE JUNIO DE 2021)</small>
 
-b) Dirección de Mandamientos Judiciales;
+a) Subcoordinación de Operaciones;
 
-c) Dirección de Reacción y Operaciones Estratégicas;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
 
-d) Dirección de Control de Plataforma México;
+1. Dirección de Reacción y Operaciones Estratégicas.
 
-e) Dirección de Seguridad Institucional; y,
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
 
-f) Unidad de Control de Internamiento.
+2. Unidad Canina Especializada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+3. Unidad de Control de Internamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+4. Dirección de Mandamientos Judiciales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+5. Unidad de Asistencia Jurídica Internacional y Extradiciones.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE JUNIO DE 2021)</small>
+
+b) Subcoordinación Técnica;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+1. Centro de Protección a Personas Intervinientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+2. Dirección de Seguridad Institucional.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+3. Dirección de Control de Plataforma México.
 
 XVI. Coordinación General de Servicios Periciales:
 
@@ -396,7 +508,13 @@ a) Dirección de Acceso a la Justicia;
 
 b) Dirección de Empoderamiento; y,
 
-c) Dirección de Servicios Integrales.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+c) Dirección de Servicios Integrales; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2021)</small>
+
+d) Dirección de Policía de Investigación.
 
 XX. Dirección General Jurídica y de Derechos Humanos:
 
@@ -424,7 +542,9 @@ c) Dirección de Recursos Materiales;
 
 d) Dirección de Servicios Aéreos;
 
-e) Dirección de Infraestructura y Servicios Generales; y,
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+e) Dirección de Patrimonio, Infraestructura y Servicios Generales; y,
 
 f) Dirección de Registro y Control de Bienes Asegurados.
 
@@ -442,7 +562,89 @@ Durante los procesos electorales la Fiscalía General contará con una Fiscalía
 
 La Fiscalía General contará con un Centro de Evaluación y Control de Confianza, con el propósito de cumplir los objetivos y fines de la evaluación y certificación de las personas integrantes de las instituciones de seguridad pública, el cual deberá estar acreditado por el Centro Nacional de Certificación y Acreditación.
 
-Las atribuciones y funcionamiento del Centro de Evaluación y Control de Confianza, estarán previstas en su reglamento y demás normativa aplicable.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+La estructura, atribuciones y funcionamiento del Centro de Evaluación y Control de Confianza, estarán previstas en su reglamento y demás normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 5 Bis.
+
+Para efectos de organización interna, son unidades administrativas dependientes directas de la persona titular de la Fiscalía General, las siguientes:
+
+I. Fiscalía de Asuntos Internos;
+
+II. Unidad Especializada de Combate al Secuestro;
+
+III. Unidad Especializada de Investigación del Homicidio Doloso y Feminicidio;
+
+IV. Policía de Investigación;
+
+V. Coordinación General de Servicios Periciales;
+
+VI. Centro de Mecanismos Alternativos de Solución de Controversias;
+
+VII. Instituto de Capacitación y Servicio Profesional de Carrera;
+
+VIII. Centro de Justicia Integral para las Mujeres;
+
+IX. Dirección General Jurídica y de Derechos Humanos;
+
+X. Dirección General de Tecnologías de la Información, Planeación y Estadística;
+
+XI. Dirección General de Administración;
+
+XII. Fiscalía Especializada para la Atención de Delitos Electorales; y,
+
+XIII. Centro de Evaluación y Control de Confianza.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 5 Ter.
+
+Para efectos de organización interna, son Unidades Administrativas dependientes directas de la persona titular de la Fiscalía Coordinadora, las siguientes:
+
+I. Fiscalía de Morelia;
+
+II. Fiscalía de Uruapan;
+
+III. Fiscalía de Zamora;
+
+IV. Fiscalía de Zitácuaro;
+
+V. Fiscalía de Apatzingán;
+
+VI. Fiscalía de La Piedad;
+
+VII. Fiscalía de Jiquilpan;
+
+VIII. Fiscalía de Lázaro Cárdenas;
+
+IX. Fiscalía de Huetamo;
+
+X. Fiscalía de Coalcomán;
+
+XI. Fiscalía Especializada para la Atención de Delitos de Alto Impacto;
+
+XII. Fiscalía Especializada para la Atención de Delitos de Violencia Familiar y de Género;
+
+XIII. Fiscalía Especializada para el Delito de Tortura, Tratos Crueles, Inhumanos o Degradantes;
+
+XIV. Fiscalía Especializada para la Investigación y Persecución de Delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares;
+
+XV. Fiscalía Especializada en Materia de Derechos Humanos y Libertad de Expresión;
+
+XVI. Fiscalía Especializada en Combate a los Delitos Contra el Ambiente y la Fauna; y,
+
+XVII. Agencia de Inteligencia Criminal.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 5 Quáter.
+
+La Fiscalía Especializada en Combate a la Corrupción y la Contraloría de la Fiscalía General, son órganos con autonomía técnica, operativa y de gestión, de conformidad con la Ley Orgánica.
+
+Para el ejercicio de sus facultades y atribuciones, deben coordinarse con las Unidades Administrativas de la institución.
 
 ### CAPÍTULO III. DE LA PERSONA TITULAR DE LA FISCALÍA GENERAL Y SU DESPACHO
 
@@ -488,15 +690,47 @@ XVIII. Acordar con las personas titulares de las unidades administrativas de la 
 
 XIX. Designar agentes del Ministerio Público auxiliares en forma temporal cuando la carga de trabajo así lo requiera;
 
-XX. Presentar el proyecto de presupuesto de ingresos y egresos;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XX. Presentar el proyecto de presupuesto anual de egresos de la Fiscalía General y en su caso, sus modificaciones;
 
 XXI. Crear mediante acuerdo unidades administrativas de apoyo directo para el mejor cumplimiento de sus atribuciones;
 
 XXII. Otorgar y revocar estímulos por productividad, desempeño o riesgo al personal de la institución, o de las personas titulares de las unidades administrativas de la Fiscalía General;
 
-XXIII. Autorizar la asignación de personal de seguridad para la salvaguarda y protección de personas integrantes del servicio público, durante el tiempo que desempeñen el cargo o aún después de concluido, en términos del acuerdo que se emita; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XXIV. Las demás que le confieran las disposiciones legales vigentes.
+XXIII. Autorizar la asignación de personal de seguridad para la salvaguarda y protección de personas integrantes del servicio público, durante el tiempo que desempeñen el cargo o aún después de concluido, en términos del acuerdo que se emita;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XXIV. Otorgar mandato, poder general o especial al personal de la institución, en términos del Código Civil para el Estado de Michoacán de Ocampo;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XXV. Conocer y determinar las excusas y recusaciones;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XXVI. Conformar gabinetes para el cumplimiento de los fines de la institución;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XXVII. Autorizar la contratación y los cambios de adscripción del personal;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XXVIII. Suscribir contratos para cumplir con los fines y requerimientos de la institución;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XXIX. Designar a los integrantes del Comité de Seguridad e Higiene;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XXX. Instaurar la identidad institucional, fortalecer los valores cívicos y culturales; y,
+
+XXXI. Las demás que le confieran las disposiciones legales vigentes.
 
 #### SECCIÓN I. DE LA DELEGACIÓN DE FACULTADES
 
@@ -526,9 +760,17 @@ VIII. Ordenar directamente la localización geográfica en tiempo real o la entr
 
 IX. Requerir a los sujetos obligados, en términos del Código Nacional y de la Ley Federal de Telecomunicaciones y Radiodifusión, la conservación inmediata de datos contenidos en redes, sistemas o equipos de informática;
 
-X. Pronunciarse, ante la autoridad judicial que le solicite, sobre el incumplimiento de las obligaciones de los agentes del Ministerio Público en la etapa de investigación complementaria, respecto de solicitar el sobreseimiento parcial o total, la suspensión del proceso o formular acusación; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XI. Solicitar y atender los oficios de colaboración con otras entidades federativas.
+X. Pronunciarse, ante la autoridad judicial que le solicite, sobre el incumplimiento de las obligaciones de los agentes del Ministerio Público en la etapa de investigación complementaria, respecto de solicitar el sobreseimiento parcial o total, la suspensión del proceso o formular acusación;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XI. Solicitar y atender los oficios de colaboración con otras entidades federativas; y,
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XII. Autorizar los procedimientos abreviados.
 
 La delegación de facultades señaladas en el presente artículo, no impide la posibilidad del ejercicio directo por parte de la persona titular de la Fiscalía General.
 
@@ -566,7 +808,97 @@ XI. Coordinar las actividades en materia de relaciones públicas, giras y protoc
 
 XII. Coadyuvar en el buen funcionamiento de la oficina de despacho de la persona titular de la Fiscalía General; y,
 
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIII. Coordinar las actividades de vinculación de la Fiscalía General con el sector público de los tres órdenes de gobierno, privado y social;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIV. Coordinar los trabajos de los agentes del Ministerio Público auxiliares del Fiscal General y de las personas que fungen como asesores, en los asuntos que les sean encomendados por la persona titular de la Fiscalía General; y,
+
+XV. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 10 Bis.
+
+La Dirección de Vinculación, tiene las atribuciones siguientes:
+
+I. Coordinar la vinculación de la persona titular de la Fiscalía General con el sector público y privado;
+
+II. Proporcionar a la persona titular de la Fiscalía General la información necesaria para la toma de decisiones en su relación con los sectores de la sociedad;
+
+III. Proponer a la persona titular de la Fiscalía General la realización de trabajos coordinados con integrantes del sector público o privado, para la elaboración de estudios en materia de procuración de justicia;
+
+IV. Proporcionar, previa autorización de la persona titular de la Fiscalía General, la información y cooperación técnica que les sea requerida por dependencias, entidades u organismos de los tres órdenes de gobierno;
+
+V. Fungir como enlace con la Conferencia Nacional;
+
+VI. Dar seguimiento a los acuerdos asumidos por la persona titular de la Fiscalía General en la Conferencia Nacional, así como conducir su cumplimiento;
+
+VII. Solicitar a las unidades administrativas de la institución la información y documentación necesaria para el desempeño de sus funciones;
+
+VIII. Preparar los informes requeridos a la Fiscalía General por la Secretaría Técnica de la Conferencia Nacional;
+
+IX. Informar a la persona titular de la Fiscalía General los resultados del cumplimiento a las medidas adoptadas en la Conferencia Nacional;
+
+X. Comunicar a las unidades administrativas de la institución, los acuerdos de la Conferencia Nacional cuando se considere necesario para el desempeño de sus funciones; y,
+
+XI. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 10 Ter.
+
+La persona titular de la Coordinación de Previsión y Salud, tiene las atribuciones siguientes:
+
+I. Presidir el Comité de Seguridad e Higiene;
+
+II. Aplicar y supervisar el cumplimiento de las disposiciones normativas que emitan las autoridades e instituciones sanitarias, que coadyuven a evitar brotes infecciosos o contagios de enfermedades, que pongan en riesgo la salud del personal de la institución y de las usuarias que acudan a realizar trámites o solicitar un servicio;
+
+III. Coordinarse con las instituciones y autoridades sanitarias para el intercambio de información relativa a la protección y prevención de riesgos de trabajo;
+
+IV. Aplicar en coordinación con las unidades administrativas de la institución, los planes y programas para la realización de acciones que mejoren de manera continua la seguridad laboral;
+
+V. Elaborar y proponer a la persona titular de la Fiscalía General, el Plan Anual de Salud y Seguridad Laboral, el Programa de Promoción de Buenas Prácticas de Higiene, Previsión y Salud, y rendir un informe por año calendario;
+
+VI. Proponer a la persona titular de la Fiscalía General, la celebración de convenios o acuerdos con las autoridades federales, estatales y municipales involucradas en materia de higiene, previsión y salud;
+
+VII. Coordinar y supervisar a los enlaces administrativos designados en las unidades administrativas, para que en el ámbito de su competencia realicen las acciones necesarias para dar cumplimiento a las determinaciones que se emitan en materia de promoción, previsión y salud;
+
+VIII. Solicitar a las personas titulares de las unidades administrativas, información que sea necesaria para dar cumplimiento a las disposiciones que se emitan en materia sanitaria y de seguridad laboral;
+
+IX. Validar la reincorporación a sus funciones a las personas que pudieron haber sido portadoras de enfermedades de contagio, declaradas como de alto riesgo por las autoridades sanitarias, previa confirmación de su total recuperación a través del documento de alta respectivo expedido por la institución de salud o su médico tratante, informando a la Dirección de Recursos Humanos para el trámite correspondiente;
+
+X. Coordinar las actividades de supervisión de las medidas de prevención sanitaria, y en su ámbito de competencia, realizar las recomendaciones pertinentes;
+
+XII. Coordinarse con la Policía de Investigación a través de la Dirección de Seguridad Institucional, en materia de protección civil; y,
+
 XIII. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 10 Quáter.
+
+Las personas que fungen como asesores, tienen las atribuciones siguientes:
+
+I. Brindar asistencia y colaboración a la persona titular de la Fiscalía General y a las diversas unidades administrativas de la institución, en los asuntos que les sean encomendados por la persona titular de la Fiscalía General;
+
+II. Elaborar estudios especializados u opiniones que les sean encomendadas por la persona titular de la Fiscalía General;
+
+III. Actuar con calidad de agente del Ministerio Público en cualquier etapa del procedimiento penal, en los asuntos que le encomiende la persona titular de la Fiscalía General;
+
+IV. Proponer a la persona titular de la Fiscalía General proyectos o estrategias, cuyo fin sea la mejora de las funciones de la institución; y,
+
+V. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 10 Quinquies.
+
+La Oficina de agentes del Ministerio Público Auxiliares del Fiscal General, es el área integrada por personas servidoras públicas con carácter de Ministerio Público las cuáles actuarán cuando el titular de la institución les instruya”.
+
+La coordinación de la Oficina de agentes del Ministerio Público Auxiliares del Fiscal General, está a cargo de la persona titular de la Secretaría Particular.
 
 #### SECCIÓN III. DE LA SECRETARÍA TÉCNICA
 
@@ -588,15 +920,25 @@ VI. Coordinar y supervisar la organización, conservación, administración, pre
 
 VII. Coordinar las actividades de la oficialía de partes de la institución;
 
-VIII. Fungir como enlace con las instituciones educativas para la prestación del servicio social y prácticas profesionales; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-IX. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+VIII. Fungir como enlace con las instituciones educativas para la prestación del servicio social y prácticas profesionales;
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE PLANEACIÓN Y SEGUIMIENTO DEL PLAN DE PERSECUCIÓN DE DELITOS
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-###### ARTÍCULO 12.
+IX. Coordinar la elaboración o modificación del Plan, y una vez expedido, dar seguimiento a su ejecución, así como, supervisar el avance de sus indicadores;
 
-La Dirección de Planeación y Seguimiento del Plan de Persecución de Delitos, tiene las atribuciones siguientes:
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+X. Coordinar los trabajos para la identificación, conservación y resguardo de la Memoria Institucional; y,
+
+XI. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 11 Bis.
+
+La Unidad de Planeación y Seguimiento del Plan de Persecución de Delitos, tiene las atribuciones siguientes:
 
 I. Coadyuvar en la elaboración o modificación del Plan y, una vez expedido, supervisar el avance de sus indicadores;
 
@@ -612,43 +954,9 @@ VI. Dar atención y seguimiento a las observaciones o comentarios que, en su cas
 
 VII. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
 
-#### SECCIÓN V. DE LA UNIDAD DE ENLACE Y SEGUIMIENTO DE ACUERDOS DE LA CONFERENCIA NACIONAL DE PROCURACIÓN DE JUSTICIA
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
 
-###### ARTÍCULO 13.
-
-La Unidad de Enlace y Seguimiento de Acuerdos de la Conferencia Nacional de Procuración de Justicia, tiene las atribuciones siguientes:
-
-I. Fungir como enlace con la Conferencia Nacional;
-
-II. Dar seguimiento a los acuerdos asumidos por la persona titular de la Fiscalía General en la Conferencia Nacional, así como conducir su cumplimiento;
-
-III. Solicitar a las unidades administrativas de la institución la información y documentación necesaria para el desempeño de sus funciones;
-
-IV. Preparar los informes requeridos a la Fiscalía General por la Secretaría Técnica de la Conferencia Nacional;
-
-V. Informar a la persona titular de la Fiscalía General los resultados del cumplimiento a las medidas adoptadas en la Conferencia Nacional; y,
-
-VI. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
-
-#### SECCIÓN VI. DE LA DIRECCIÓN DE VINCULACIÓN
-
-###### ARTÍCULO 14.
-
-La Dirección de Vinculación, tiene las atribuciones siguientes:
-
-I. Coordinar la vinculación de la persona titular de la Fiscalía General con el sector público y privado;
-
-II. Proporcionar a la persona titular de la Fiscalía General la información necesaria para la toma de decisiones en su relación con los sectores de la sociedad;
-
-III. Proponer a la persona titular de la Fiscalía General la realización de trabajos coordinados con integrantes del sector público o privado, para la elaboración de estudios en materia de procuración de justicia;
-
-IV. Proporcionar, previo acuerdo con la persona titular de la Fiscalía General, la información y cooperación técnica que les sea requerida por dependencias, entidades u organismos de los tres órdenes de gobierno; y,
-
-V. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
-
-#### SECCIÓN VII. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
-
-###### ARTÍCULO 15.
+###### ARTÍCULO 11 Ter.
 
 La Dirección de Comunicación Social, tiene las atribuciones siguientes:
 
@@ -674,21 +982,47 @@ X. Ejecutar las políticas que establezca la persona titular de la Fiscalía Gen
 
 XI. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE JUNIO DE 2021)</small>
+
+#### SECCIÓN IV. DE LA DIRECCIÓN DE PLANEACIÓN Y SEGUIMIENTO DEL PLAN DE PERSECUCIÓN DE DELITOS
+
+###### ARTÍCULO 12.
+
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE JUNIO DE 2021)</small>
+
+#### SECCIÓN V
+
+DE LA UNIDAD DE ENLACE Y SEGUIMIENTO DE ACUERDOS DE LA CONFERENCIA NACIONAL DE PROCURACIÓN DE JUSTICIA.
+
+###### ARTÍCULO 13.
+
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE JUNIO DE 2021)</small>
+
+#### SECCIÓN VI. DE LA DIRECCIÓN DE VINCULACIÓN
+
+###### ARTÍCULO 14.
+
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE JUNIO DE 2021)</small>
+
+#### SECCIÓN VII. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
+
+###### ARTÍCULO 15.
+
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE JUNIO DE 2021)</small>
+
 #### SECCIÓN VIII. DE LOS ASESORES
 
 ###### ARTÍCULO 16.
 
-Las personas que fungen como asesores, tienen las atribuciones siguientes:
-
-I. Brindar asistencia y colaboración a la persona titular de la Fiscalía General y a las diversas unidades administrativas de la institución, en los asuntos que les sean encomendados por la persona titular de la Fiscalía General;
-
-II. Elaborar estudios especializados u opiniones que les sean encomendadas por la persona titular de la Fiscalía General;
-
-III. Actuar con calidad de agente del Ministerio Público en cualquier etapa del procedimiento penal, en los asuntos que le encomiende la persona titular de la Fiscalía General;
-
-IV. Proponer a la persona titular de la Fiscalía General proyectos o estrategias, cuyo fin sea la mejora de las funciones de la institución; y,
-
-V. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
 
 ## TÍTULO II. DE LAS FISCALÍAS
 
@@ -726,97 +1060,175 @@ XII. Proponer a la persona titular de la Fiscalía General criterios para solven
 
 XIII. Practicar las visitas que la persona titular de la Fiscalía General le encomiende, a cualquier unidad administrativa de la institución;
 
-XIV. Coordinar la expedición de certificaciones o cartas de no antecedentes penales, en términos de la Ley Orgánica y las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XV. Autorizar los cambios de adscripción de los agentes del Ministerio Público, previo acuerdo con la persona titular de la Fiscalía General; y,
+XIV. Proponer al Fiscal General el Catálogo de Trámites y Servicios de la Fiscalía General;
 
-XVI. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-#### SECCIÓN I. DE LA UNIDAD DE ASUNTOS ESPECIALES
+XV. Autorizar y coordinar los trámites y servicios no relacionados con la investigación y persecución de delitos, y los demás establecidos en materia de mejora regulatoria;
 
-###### ARTÍCULO 18.
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-La Unidad de Asuntos Especiales, conoce de:
+XVI. Solicitar autorización para el cambio de adscripción de los agentes del Ministerio Público a la persona titular de la Fiscalía General;
 
-I. Delitos de alto impacto social que tengan como finalidad trastornar la estabilidad económica, política y social del Estado;
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-II. Delitos contra las instituciones del Estado;
+XVII. Coordinar los gabinetes que establezca el Fiscal General;
 
-III. Aquellos asuntos en los que, por su relevancia y reserva, deba ejercer la facultad de atracción; y,
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-IV. Aquellos que le sean encomendados por la persona titular de la Fiscalía General.
+XVIII. Instruir a la persona titular de la Subcoordinación Operativa, la coordinación técnica de los trabajos de los gabinetes;
 
-###### ARTÍCULO 19.
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-La persona titular de la Unidad de Asuntos Especiales, tiene el carácter y las atribuciones de un Ministerio Público.
+XIX. Sistematizar la información relativa a las soluciones alternas o formas de terminación anticipada del proceso, y cualquier otra que sea necesaria en coordinación con la Dirección General de Tecnologías; y,
 
-#### SECCIÓN II. DE LA UNIDAD DE ATENCIÓN INMEDIATA
+XX. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
 
-###### ARTÍCULO 20.
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 17 Bis.
+
+Para el desempeño de sus funciones, cuenta con la Subcoordinación Operativa y la Subcoordinación de Trámites y Servicios, como áreas auxiliares y de coordinación; además de la Unidad de Atención Inmediata y la Fiscalía de Asuntos Especiales.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 17 Ter.
+
+La Subcoordinación Operativa cuenta con las atribuciones siguientes:
+
+I. Coadyuvar con la persona titular de la Fiscalía Coordinadora en la ejecución de acuerdos y directrices de carácter operativo;
+
+II. Atender y dar seguimiento a las solicitudes de colaboración y auxilio con la federación y las entidades federativas, que le instruya el titular de la Fiscalía Coordinadora;
+
+III. Dar seguimiento a los programas y medidas para la priorización y despresurización de las investigaciones;
+
+IV. Administrar la información relativa a las soluciones alternas o formas de terminación anticipada del proceso, y cualquier otra que le solicite la persona titular de la Fiscalía Coordinadora;
+
+V. Vigilar el correcto desempeño de las actuaciones que realicen las unidades administrativas dependientes de la Fiscalía Coordinadora;
+
+VI. Elaborar los proyectos para solventar los conflictos competenciales que se susciten entre una o más unidades administrativas;
+
+VII. Atender la coordinación técnica y el seguimiento a los trabajos de los gabinetes; y,
+
+VIII. Las demás que le instruya la persona titular de la Fiscalía Coordinadora.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 17 Quáter.
+
+La Subcoordinación de Trámites y Servicios cuenta con las atribuciones siguientes:
+
+I. Elaborar el Catálogo de Trámites y Servicios de la Fiscalía General;
+
+II. Elaborar y proponer a la persona titular de la Fiscalía Coordinadora, los mecanismos para realizar los trámites y servicios no relacionados con la investigación y persecución de los delitos, así como el cobro cuando así sea procedente;
+
+III. Recabar y rendir los informes correspondientes de la expedición de cartas, constancias, certificaciones y demás documentos que sean expedidos por la Fiscalía General, y que no se encuentren relacionados con la investigación y persecución de delitos;
+
+IV. Informar a la persona titular de la Fiscalía Coordinadora, el estado que guarden los asuntos de la Subcoordinación de Trámites y Servicios;
+
+V. Mantener actualizados los directorios y medios de contacto de las personas titulares de las Fiscalías Regionales y Especializadas, y del personal a su cargo;
+
+VI. Representar a la persona titular de la Fiscalía Coordinadora en los asuntos que le sean asignados;
+
+VII. Dar seguimiento a los acuerdos que emitan los consejos, comités, comisiones, órganos colegiados e instrumentos jurídicos, en que sea parte la Fiscalía Coordinadora;
+
+VIII. Fungir como enlace institucional ante las autoridades en materia de mejora regulatoria; y,
+
+IX. Las demás que le instruya la persona titular de la Fiscalía Coordinadora.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 17 Quinquies.
 
 La Unidad de Atención Inmediata es la unidad administrativa responsable de implementar y operar el Modelo de Atención Inmediata, para lo cual tiene las atribuciones siguientes:
 
-I. Recibir denuncias o querellas que presenten las personas ante la institución, derivado de la posible comisión de algún hecho delictivo;
+I. Recibir denuncias o querellas que se presenten de manera presencial o a través de los sistemas digitales, derivado de la posible comisión de algún hecho delictivo, y canalizarlas a las Unidades Administrativas que corresponda;
 
 II. Ordenar la realización de actos urgentes cuando sea necesario para la preservación del lugar de los hechos o del hallazgo, así como para garantizar la integridad de los indicios;
 
-III. Asesorar y canalizar a la ciudadanía que acuda a la Fiscalía General a las diversas unidades administrativas de la institución atendiendo al ámbito de competencia;
+III. Asesorar y canalizar a la ciudadanía que acuda a la Fiscalía General a las diversas dependencias, entidades u órganos autónomos de los tres órdenes de gobierno atendiendo al ámbito de competencia;
 
 IV. Orientar a las personas usuarias de la institución sobre las unidades administrativas, competencias y servicios con las que cuenta la Fiscalía General;
 
 V. Informar a las personas usuarias de la institución, cuando así proceda, la existencia de mecanismos alternativos de solución de controversias, sus ventajas y alcances, así como canalizarlas al Centro de Mecanismos en caso de ser procedente;
 
-VI. Expedir certificaciones o cartas de no antecedentes penales, en términos de la Ley Orgánica y las disposiciones jurídicas aplicables; y,
+VI. Implementar y administrar el sistema de registro y control de atención a las personas usuarias; y,
 
 VII. Brindar orientación a las personas cuando los asuntos planteados no sean constitutivos de delito.
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 17 Sexies.
+
+La Fiscalía de Asuntos Especiales, conoce de:
+
+I. Delitos de alto impacto social que tengan como finalidad trastornar la estabilidad económica, política y social del Estado;
+
+II. Delitos contra las instituciones del Estado;
+
+III. Aquellos asuntos en los que, por su relevancia y reserva, deba ejercer la facultad de atracción, por instrucción de la persona titular de la Fiscalía Coordinadora; y,
+
+IV. Aquellos que le sean encomendados por la persona titular de la Fiscalía Coordinadora.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 17 Septies.
+
+La persona titular de la Fiscalía de Asuntos Especiales, tiene las atribuciones de una Fiscalía Especializada.
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE JUNIO DE 2021)</small>
+
+#### SECCIÓN I. DE LA UNIDAD DE ASUNTOS ESPECIALES
+
+###### ARTÍCULO 18.
+
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
+
+###### ARTÍCULO 19.
+
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE JUNIO DE 2021)</small>
+
+#### SECCIÓN II. DE LA UNIDAD DE ATENCIÓN INMEDIATA
+
+###### ARTÍCULO 20.
+
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
+
 ###### ARTÍCULO 21.
 
-En las Fiscalías Regionales, con excepción de la de Morelia, las unidades administrativas encargadas de la atención inmediata son las responsables de expedir certificaciones o cartas de no antecedentes penales, en términos de la Ley Orgánica y las disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE JUNIO DE 2021)</small>
 
 #### SECCIÓN III. DE LAS CERTIFICACIONES O CARTAS DE NO ANTECEDENTES PENALES
 
 ###### ARTÍCULO 22.
 
-La Fiscalía Coordinadora, a través de la Unidad de Atención Inmediata, expedirá cartas de no antecedentes penales, única y exclusivamente, en los siguientes casos:
-
-I. Cuando la soliciten las autoridades administrativas y judiciales competentes, para fines de investigación criminal, procesales o por requerimiento de autoridad judicial;
-
-II. Cuando sea solicitada por ser necesaria para ejercitar un derecho o cumplir con un deber legalmente previstos;
-
-III. En los casos específicos en los que la normatividad lo establezca como requisito para desempeñar un empleo, cargo o comisión en el servicio público, o bien para el ingreso a instituciones de seguridad pública o privada, así como cuando por la naturaleza del empleo o por razones de interés público se considere exigible; y,
-
-IV. Cuando sea solicitada por una embajada o consulado extranjero en México, o bien, a través de una embajada o consulado de México en el extranjero.
-
-Fuera de los supuestos señalados en el presente artículo, únicamente podrá otorgarse una constancia en la que se manifieste el motivo por el cual no puede expedirse la carta de no antecedentes penales solicitada.
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
 
 ###### ARTÍCULO 23.
 
-La persona interesada en la expedición de una carta de no antecedentes penales, que se encuentre en alguno de los supuestos señalados en el artículo anterior, podrá solicitarla debiendo cumplir además con las formalidades que al efecto establece la Fiscalía General.
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
 
 ###### ARTÍCULO 24.
 
-Para comprobar la actualización de alguno de los supuestos señalados en la Ley Nacional de Ejecución Penal, la persona interesada deberá presentar la solicitud de cartas (sic) de no antecedentes penales, expedida por cualquiera de las siguientes autoridades:
-
-I. Autoridad administrativa o judicial competente;
-
-II. Dependencia o entidad gubernamental;
-
-III. Embajada o consulado en México; y,
-
-IV. Embajada o consulado de México en el extranjero.
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
 
 ###### ARTÍCULO 25.
 
-La Fiscalía General no expedirá cartas de no antecedentes penales, con el objeto de obtener empleo o demostrar solvencia en operaciones mercantiles o de crédito, sino únicamente en los casos y términos a que se refiere la Ley Nacional de Ejecución Penal.
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
 
 ###### ARTÍCULO 26.
 
-Las solicitudes de expedición de una carta de no antecedentes penales, que no se encuentren en alguno de los supuestos establecidos en el presente Reglamento, deberán ser atendidas de manera oficial por escrito, en el que conste el motivo por el cual no puede realizarse la emisión de dicho documento.
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
 
 ###### ARTÍCULO 27.
 
-El servidor público que incumpla con lo dispuesto en el presente Reglamento, o, en su caso, autorice, apoye o consienta la expedición de cartas de no antecedentes penales fuera de los supuestos previamente establecidos, será sujeto de responsabilidad administrativa, sin perjuicio de la que penalmente correspondan.
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
 
 ### CAPÍTULO II. DE LAS FISCALÍAS REGIONALES
 
@@ -832,7 +1244,9 @@ Las Fiscalías Regionales estarán ubicadas en las cabeceras de los municipios d
 
 Las personas titulares de la (sic) Fiscalías Regionales, tienen el carácter de Ministerio Público y de manera complementaria las atribuciones siguientes:
 
-I. Vigilar la observancia y cumplimiento de las disposiciones del presente Reglamento, así como de todas aquellas disposiciones jurídicas que impacten el desempeño profesional y actuación del personal a su cargo y, en su caso, dar vista de manera inmediata a la autoridad competente;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+I. Vigilar la observancia y cumplimiento de las disposiciones del Reglamento, acuerdos, protocolos, lineamientos, manuales y demás normativa interna que emita la persona titular de la Fiscalía General, así como de todas aquellas disposiciones jurídicas que impacten el desempeño profesional y actuación del personal a su cargo y, en su caso, dar vista de manera inmediata a la autoridad competente;
 
 II. Elaborar las solicitudes de técnicas de investigación de intervención de comunicaciones;
 
@@ -854,19 +1268,49 @@ X. Proponer a la persona titular de la Fiscalía General la habilitación de per
 
 XI. Conceder licencias y periodos vacacionales al personal a su cargo, bajo las directrices que establezca la persona titular de la Fiscalía General;
 
-XII. Asegurar la remisión expedita al Centro de Mecanismos, de los asuntos en los que resulten procedentes;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XII. Asegurar la derivación expedita al Centro de Mecanismos, de los asuntos en los que resulten procedentes;
 
 XIII. Autorizar las dispensas de necropsia cuando así proceda, en términos del Código Nacional y demás normativa aplicable;
 
 XIV. Informar a la persona titular de la Fiscalía Coordinadora sobre irregularidades que advierta en los juzgados o tribunales que afecten el acceso a la justicia;
 
-XV. Coordinarse en sus atribuciones con las Fiscalías que tengan injerencia en una misma investigación, a fin de integrar debidamente las carpetas de investigación;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XV. Coordinarse en sus atribuciones con las Unidades Administrativas que tengan el carácter de Ministerio Público y tengan injerencia en una misma investigación, a fin de integrar debidamente las carpetas de investigación;
 
 XVI. Supervisar el registro de los mandamientos judiciales dictados por los órganos jurisdiccionales y su comunicación inmediata a la Dirección de Mandamientos Judiciales;
 
-XVII. Proponer a la persona titular de la Fiscalía Coordinadora cambios de adscripción de los agentes del Ministerio Público, bajo su mando; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XVIII. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+XVII. Proponer a la persona titular de la Fiscalía Coordinadora cambios de adscripción de los agentes del Ministerio Público, bajo su mando;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XVIII. Recibir las denuncias o querellas presentadas con independencia que no sea materia de su competencia, y en su caso, remitirlas a las unidades administrativas que le correspondan;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIX. Certificar documentos que obren en sus archivos, sobre los asuntos de su competencia;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XX. Instruir a las personas agentes del Ministerio Público para que informen de manera inmediata a la Dirección de Registro y Control de Bienes Asegurados, los bienes muebles e inmuebles que hayan sido asegurados por estar relacionados con un hecho delictuoso;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XXI. Recibir y remitir a la persona titular de la Fiscalía General los asuntos relacionados con las excusas y recusaciones;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XXII. Comunicar y remitir a la Dirección General Jurídica y de Derechos Humanos los asuntos que provengan de los organismos protectores de los derechos humanos; y,
+
+XXIII. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+La especialización por competencia territorial o material, no debe ser obstáculo para recibir las denuncias o querellas que se presenten y que, por circunstancias particulares, puedan ser competencia de otra unidad administrativa, caso en el cual se deberá privilegiar la atención inmediata a la víctima y la salvaguarda de su integridad, sin perjuicio de ser remitida al área competente.
 
 ### CAPÍTULO III. DE LAS FISCALÍAS Y UNIDADES ESPECIALIZADAS
 
@@ -892,11 +1336,15 @@ VIII. Fiscalía Especializada en Combate a los Delitos contra el Ambiente y la F
 
 IX. Unidad Especializada de Combate al Secuestro; y,
 
-X. Unidad Especializada de Investigación y Persecución del Homicidio Doloso, Homicidio Doloso contra la Mujer y Feminicidio.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+X. Unidad Especializada de Investigación del Homicidio Doloso y Feminicidio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 32.
 
-Las personas titulares de las Fiscalías y Unidades Especializadas, tienen el carácter de Ministerio Público, así como las atribuciones inherentes a una Fiscalía Regional y de manera complementaria las siguientes:
+Las personas titulares de las Fiscalías y Unidades Especializadas, tienen el carácter de agentes de Ministerio Público, así como las atribuciones inherentes a una Fiscalía Regional y de manera complementaria las siguientes:
 
 I. Coordinarse con las diversas unidades administrativas de la Fiscalía General para la investigación y práctica de diligencias;
 
@@ -904,15 +1352,25 @@ II. Actuar de manera coordinada con las Fiscalías Regionales a efecto de perseg
 
 III. Mantener el registro y monitoreo de los delitos relacionados con su competencia, incluyendo cuando las Fiscalías Regionales actúen de manera auxiliar;
 
-IV. Conocer de los asuntos que tengan a su cargo las agencias del Ministerio Público, relacionados con los delitos materia de su competencia y ejercer la facultad de atracción respecto de asuntos que se hayan iniciado en las Fiscalías Regionales, de conformidad con las normas aplicables y políticas institucionales;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-V. Remitir a las Fiscalías Regionales, las investigaciones relacionadas con delitos materia de su competencia para su prosecución, de conformidad con los acuerdos y criterios establecidos por la persona titular de la Fiscalía General;
+IV. Conocer de los asuntos que tengan a su cargo las agencias del Ministerio Público, relacionados con los delitos materia de su competencia o distintos a ésta cuando se actualice el concurso de delitos y ejercer la facultad de atracción respecto de asuntos que se hayan iniciado en las Fiscalías Regionales, de conformidad con las normas aplicables y políticas institucionales;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+V. Remitir a las Fiscalías Regionales, Fiscalías o Unidades Especializadas, las investigaciones relacionadas con delitos materia de su competencia para su prosecución, de conformidad con los acuerdos y criterios establecidos por la persona titular de la Fiscalía General;
 
 VI. Proponer a la persona titular de la Fiscalía General la celebración de convenios con organismos afines, nacionales e internacionales, para la cooperación e intercambio de información, así como en las tareas de investigación, persecución y acusación de las personas imputadas de delitos de su competencia;
 
 VII. Recabar de las dependencias y entidades de la administración pública de los tres órdenes de gobierno, órganos constitucionales, así como de particulares, los informes, documentos, opiniones y dictámenes necesarios para las diligencias de las investigaciones de su competencia; y,
 
 VIII. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 32 Bis.
+
+Las Fiscalías o Unidades Especializadas cuentan con las facultades que les señalen las leyes generales, nacionales, federales y estatales de la materia de su competencia, y demás normativa aplicable.
 
 #### SECCIÓN I. DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN
 
@@ -990,9 +1448,13 @@ e) Delito de operaciones con recursos de procedencia ilícita.
 
 II. Unidad de Robo al Transporte, la cual conoce:
 
-a) Del delito de robo de vehículos automotores que transporten carga, mercancía, pasajeros y turismo; y,
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
 
-b) Del delito de receptación, cuando se trate de la posesión de un vehículo con reporte de robo, con las características del inciso anterior, en términos de lo dispuesto por el Código Penal.
+a) Del delito de robo de vehículos automotores de carga, y traslado de mercancía, pasajeros y turismo, así como los pertenecientes a personas morales y jurídicas colectivas; y,
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+b) Del delito de receptación, cuando se trate de la posesión de un vehículo con reporte de robo, con las características del inciso anterior, o que cuente con alteraciones en sus medios de identificación, en términos de lo dispuesto por el Código Penal.
 
 III. Unidad de Robo de Vehículos, la cual conoce de:
 
@@ -1028,6 +1490,12 @@ a) Llevar a cabo el registro, evaluación, modificación, confirmación, revocac
 
 b) Realizar las actuaciones necesarias ante la autoridad jurisdiccional competente, para la cancelación, modificación o ratificación de las medidas de protección otorgadas a mujeres víctimas de violencia.
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 36 Bis.
+
+La Fiscalía Especializada para la Atención de Delitos de Violencia Familiar y de Género, debe recibir las denuncias o querellas presentadas por mujeres víctimas de violencia, con independencia de que sean competencia del Centro de Justicia, remitiéndose en su caso de manera inmediata.
+
 #### SECCIÓN IV. DE LA FISCALÍA ESPECIALIZADA PARA EL DELITO DE TORTURA, TRATOS CRUELES, INHUMANOS O DEGRADANTES
 
 ###### ARTÍCULO 37.
@@ -1062,27 +1530,39 @@ Además de las unidades administrativas comunes establecidas en la estructura de
 
 I. Unidad de Derechos Humanos y Libertad de Expresión, la cual conoce de los delitos derivados de recomendaciones pronunciadas por las Comisiones Nacional y Estatal de los Derechos Humanos, así como de las denuncias presentadas por probables conductas delictivas cometidas contra personas defensoras de derechos humanos, periodistas, del delito de discriminación y aquellos que determine la persona titular de la Fiscalía General;
 
-II. Unidad de Atención de Trata de Personas, la cual conoce de los delitos establecidos en la Ley general de la materia, así como de conductas homólogas y delitos conexos establecidos en el Código Penal;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-III. Unidad de Justicia Penal para Adolescentes, la cual conoce de las conductas tipificadas como delito, previstos en el Código Penal, atribuidas a personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, en términos de la Ley de la materia; y,
+II. Unidad de Investigación de Delitos de Trata de Personas, la cual conoce de los delitos establecidos en la Ley general de la materia, así como de conductas homólogas y delitos conexos establecidos en el Código Penal.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE JUNIO DE 2021)</small>
+
+III. Unidad de Justicia Penal para Adolescentes, la cual conoce de las conductas tipificadas como delito, previstos en el Código Penal atribuidas a personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, en términos de la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+La Unidad de Justicia Penal para Adolescentes podrá contar con personas agentes del Ministerio Público que funjan como enlaces especializados en las Fiscalías Regionales.
 
 IV. Unidad de Atención a Personas Indígenas y grupos en condición de vulnerabilidad, la cual conoce de delitos del fuero común cometidos a personas integrantes de pueblos indígenas y personas en condición de vulnerabilidad.
 
 ###### ARTÍCULO 40.
 
-Las Fiscalías o Unidades Especializadas cuentan con las facultades que les señalen las leyes nacionales y generales de la materia de su competencia, las previstas en este Reglamento y las que le confiere la demás normativa aplicable.
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
 
 #### SECCIÓN VII. DE LA FISCALÍA DE ASUNTOS INTERNOS
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 41.
 
-La Fiscalía de Asuntos Internos es competente para recibir y conocer de denuncias o querellas presentadas por hechos posiblemente constitutivos de delito, atribuibles a personal de la Fiscalía General en ejercicio de sus funciones o bien cuando aún sin ser parte de esta, los hechos que se atribuyen se hayan cometido en el tiempo en el que la persona se desempeñó en la institución.
+La Fiscalía de Asuntos Internos es competente para recibir y conocer de vistas, denuncias o querellas presentadas por hechos posiblemente constitutivos de delito, atribuibles a personal de la Fiscalía General en ejercicio de sus funciones o bien cuando aún sin ser parte de esta, los hechos que se atribuyen se hayan cometido en el tiempo en el que la persona se desempeñó en la institución.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 42.
 
-La Fiscalía de Asuntos Internos cuenta con la estructura que señala el presente Reglamento.
+La Fiscalía de Asuntos Internos, podrá realizar visitas de supervisión a las unidades administrativas de la Fiscalía General, y en su caso iniciar las carpetas de investigación en los casos que se adviertan posibles hechos constitutivos de delito.
 
-Sus actuaciones, así como del personal que la integra se realizará de conformidad con el Código Nacional, los protocolos que al efecto emita la persona titular de la Fiscalía General y demás normativa aplicable.
+Con independencia de las atribuciones que tenga la Contraloría, y la Fiscalía de Asuntos Internos, éstas podrán realizar visitas de supervisión de manera coordinada y conjunta, respetando sus competencias.
 
 #### SECCIÓN VIII. DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LOS DELITOS CONTRA EL MEDIO AMBIENTE Y LA FAUNA
 
@@ -1136,7 +1616,9 @@ b) Proponer a la persona titular de la Unidad Especializada de Combate al Secues
 
 c) Proponer a la persona titular de la Unidad Especializada de Combate al Secuestro los protocolos y modelos de atención integral para las víctimas del delito de secuestro.
 
-#### SECCIÓN X. DE LA UNIDAD ESPECIALIZADA DE INVESTIGACIÓN Y PERSECUCIÓN DEL HOMICIDIO DOLOSO, HOMICIDIO DOLOSO CONTRA LA MUJER Y FEMINICIDIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2021)</small>
+
+#### SECCIÓN X. DE LA UNIDAD ESPECIALIZADA DE INVESTIGACIÓN DEL HOMICIDIO DOLOSO Y FEMINICIDIO
 
 ###### ARTÍCULO 45.
 
@@ -1144,7 +1626,9 @@ Además de las unidades administrativas comunes que se establecen en la estructu
 
 I. Fiscalía de Homicidio Doloso;
 
-II. Fiscalía de Investigación y Persecución del Homicidio Doloso contra la Mujer y Feminicidio;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+II. Fiscalía de Investigación del Homicidio Doloso contra la mujer y Feminicidio;
 
 III. Centro de Investigación Estratégica, el cual es competente para:
 
@@ -1175,6 +1659,26 @@ e) Asegurar la transportación de indicios al laboratorio autorizado o al almac�
 f) Realizar la entrega de los indicios o evidencias al almacén, de acuerdo con los requisitos de ley; y,
 
 g) Realizar la recepción, custodia y movimiento de indicios en el almacén, de acuerdo con las formalidades requeridas.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 45 Bis.
+
+La Unidad Especializada de Investigación del Homicidio Doloso y Feminicidio, podrá contar con las Unidades Regionales, que determine el Fiscal General.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 45 Ter.
+
+La persona titular de la Unidad Especializada de Investigación del Homicidio Doloso y Feminicidio, podrá proponer al Fiscal General la promoción y cambios de adscripción de los agentes del Ministerio Público, policías de investigación y peritos de su Unidad.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 45 Quáter.
+
+El personal de las Unidades Regionales, dependerá de manera directa de la persona titular de la Unidad Especializada de Investigación del Homicidio Doloso y Feminicidio, sin perjuicio de la coordinación operativa que deberán tener con el Fiscal Regional y sus áreas sustantivas.
+
+El personal de las Unidades Regionales deberá observar el orden, disciplina y respeto en la línea jerárquica de mando del Fiscal Regional, en tanto la representación que tienen del Fiscal General.
 
 #### SECCIÓN XI. DE LA AGENCIA DE INTELIGENCIA CRIMINAL
 
@@ -1214,6 +1718,8 @@ XIII. Proponer a la persona titular de la Fiscalía General los sistemas y mecan
 
 XIV. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2021)
+
 ###### ARTÍCULO 48.
 
 La Agencia de Inteligencia Criminal cuenta con las siguientes unidades administrativas:
@@ -1252,7 +1758,9 @@ III. Dirección de Policía Cibernética la cual, además de las inherentes a un
 
 a) Proponer los mecanismos, lineamientos, políticas, protocolos y procedimientos que permitan la aplicación de herramientas técnico-científicas en las funciones que desarrolla la institución;
 
-b) Coadyuvar en las acciones de investigación y persecución de delitos que utilicen medios electrónicos para su comisión;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+b) Coadyuvar en las acciones de investigación y persecución de delitos que utilicen medios electrónicos, redes sociales, tecnologías de la información y comunicación, para su comisión;
 
 c) Coordinar las actividades para implementar políticas y procedimientos para las campañas de difusión orientadas a promover una cultura de prevención, identificación y denuncia sobre delitos en los que se utilizan medios cibernéticos, electrónicos o tecnológicos para su comisión, así como las orientadas para difundir el marco legal que los sanciona;
 
@@ -1290,7 +1798,9 @@ Las Direcciones de Carpetas de Investigación, tienen las atribuciones siguiente
 
 I. Supervisar y vigilar la correcta integración de las carpetas de investigación a cargo de los agentes del Ministerio Público bajo su mando;
 
-II. Llevar el control y registro de las carpetas de investigación;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+II. Llevar el control y registro de las carpetas de investigación, utilizando las plataformas de los sistemas informáticos institucionales;
 
 III. Revisar las carpetas de investigación que le turnen las personas titulares de las Fiscalías Regionales y Fiscalías o Unidades Especializadas y, en su caso, determinar lo que conforme a derecho proceda;
 
@@ -1300,9 +1810,17 @@ V. Ejercer funciones de investigación respecto de los delitos en materias concu
 
 VI. Ordenar a la Policía de Investigación, la práctica de actos de investigación, en el ámbito de su competencia tendentes al esclarecimiento del hecho delictivo, supervisando que la investigación se realice conforme a los parámetros legales establecidos;
 
-VII. Coordinar los requerimientos de información o documentación realizados por la Policía de Investigación a las diversas unidades administrativas de la Fiscalía General, así como del sector público y privado, necesarios para el esclarecimiento de los hechos delictivos, y solicitar la práctica de peritajes y diligencias para la obtención de otros medios de prueba; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-VIII. Supervisar el cumplimiento de los indicadores cuantitativos y cualitativos para determinar la eficiencia y eficacia de las carpetas de investigación de los agentes del Ministerio Público bajo su mando.
+VII. Coordinar los requerimientos de información o documentación realizados por la Policía de Investigación a las diversas unidades administrativas de la Fiscalía General, así como del sector público y privado, necesarios para el esclarecimiento de los hechos delictivos, y solicitar la práctica de peritajes y diligencias para la obtención de otros medios de prueba;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VIII. Supervisar el cumplimiento de los indicadores cuantitativos y cualitativos para determinar la eficiencia y eficacia de las carpetas de investigación de los agentes del Ministerio Público bajo su mando; y,
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+IX. Dar vista a la Fiscalía de Asuntos Internos, cuando detecten o identifiquen acciones u omisiones de las personas agentes del Ministerio Público en la integración de carpetas de investigación, que puedan ser constitutivas de delito.
 
 #### SECCIÓN II. DE LAS DIRECCIONES DE LITIGACIÓN
 
@@ -1310,19 +1828,37 @@ VIII. Supervisar el cumplimiento de los indicadores cuantitativos y cualitativos
 
 Las Direcciones de Litigación, tienen las atribuciones siguientes:
 
-I. Intervenir por sí o por conducto de los agentes del Ministerio Público ante el órgano jurisdiccional, en los expedientes a través de la promoción y desahogo de las actuaciones procesales a que haya lugar, en los asuntos que tengan a su cargo;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-II. Coordinar las acciones de los agentes del Ministerio Público ante el órgano jurisdiccional;
+I. Intervenir por sí o por conducto de los agentes del Ministerio Público ante el órgano jurisdiccional en las etapas del procedimiento penal, a través de los actos de investigación o las intervenciones en las audiencias, así como por medio de las promociones que resulten necesarias;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+II. Coordinar y supervisar la calidad técnico jurídica de las actuaciones de los agentes del Ministerio Público ante el órgano jurisdiccional, así como en todas aquellas actividades inherentes a su cargo;
 
 III. Proponer a las personas titulares de las Fiscalías Regionales y Fiscalías o Unidades Especializadas las políticas institucionales para la actuación de los agentes del Ministerio Público ante los órganos jurisdiccionales;
 
-IV. Realizar la supervisión y evaluación de la calidad técnico jurídica de los expedientes a cargo de los agentes del Ministerio Público, en su actuación ante las instancias judiciales correspondientes;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+IV. Intervenir por sí o por conducto de los agentes del Ministerio Público ante el juez de ejecución penal, para el seguimiento y cumplimiento de la ejecución de sentencias.
 
 V. Establecer mecanismos de coordinación con las unidades administrativas de la Fiscalía General, que tengan a su cargo la investigación y persecución de delitos, a fin de mejorar sus atribuciones con relación al ejercicio o no ejercicio de la acción penal, así como facilitar las actuaciones procesales que deban desahogarse ante los órganos jurisdiccionales;
 
-VI. Llevar un registro de los mandamientos judiciales dictados por los órganos jurisdiccionales e informarlo inmediatamente a la Dirección de Mandamientos Judiciales; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-VII. Supervisar el cumplimiento de los indicadores cuantitativos y cualitativos para determinar la eficiencia y eficacia de las carpetas de investigación de los agentes del Ministerio Público bajo su mando.
+VI. Llevar un registro de los mandamientos judiciales dictados por los órganos jurisdiccionales e informarlo inmediatamente a la Dirección de Mandamientos Judiciales;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VII. Supervisar el cumplimiento de los indicadores cuantitativos y cualitativos para determinar la eficiencia y eficacia de las carpetas de investigación de los agentes del Ministerio Público bajo su mando;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VIII. Ordenar a la Policía de Investigación, la práctica de actos de investigación en la etapa de investigación complementaria; y,
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+IX. Suministrar la información relativa a las soluciones alternas o formas de terminación anticipada del proceso, y cualquier otra que le requiera la persona titular del Fiscalía Coordinadora.
 
 #### SECCIÓN III. DE LAS UNIDADES DE SERVICIOS PERICIALES
 
@@ -1338,9 +1874,13 @@ III. Supervisar que en el manejo de cadáveres, órganos y tejidos humanos, se c
 
 IV. Brindar atención médica de emergencia a las personas detenidas o, en su caso, remitirlas a las instituciones de salud correspondientes;
 
-V. Mantener en absoluta reserva y bajo su más estricta responsabilidad, los registros de los dictámenes que se elaboren;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-VI. Establecer mecanismos de supervisión para evitar presiones, coacciones o solicitudes de quien pudiera tener interés en el sentido de un dictamen pericial hacia quien lo practica;
+V. Mantener en absoluta reserva y bajo su más estricta responsabilidad, los registros de los dictámenes periciales que se elaboren;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VI. Establecer mecanismos de supervisión para evitar presiones, coacciones o solicitudes de quien pudiera tener interés en el sentido de los dictámenes periciales hacia quien lo practica;
 
 VII. Vigilar que las necropsias se realicen en lugares autorizados para ello, conforme a las disposiciones legales aplicables;
 
@@ -1354,7 +1894,9 @@ XI. Supervisar que las intervenciones periciales cumplan con los lineamientos no
 
 XII. Proponer a las personas titulares de las Fiscalías Regionales y Fiscalías o Unidades Especializadas, la capacitación y actualización científica o técnica del personal especializado en materia pericial y criminalística, así como las políticas necesarias para el mejoramiento de los servicios;
 
-XIII. Emitir los dictámenes que, en las diversas especialidades, soliciten las Fiscalías, Unidades o las autoridades judiciales, que versen sobre el esclarecimiento de hechos relacionados con posibles delitos y presuntos delincuentes; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIII. Emitir los dictámenes periciales que, en las diversas especialidades, soliciten las Fiscalías Regionales, Fiscalías o Unidades Especializadas, autoridades judiciales o personas usuarias de los servicios y trámites de la institución; y,
 
 XIV. Establecer, previa autorización de la persona titular de la Coordinación General de Servicios Periciales y en coordinación con las personas titulares de las Fiscalías Regionales y Fiscalías o Unidades Especializadas, los turnos de los Peritos que deban asistir al Ministerio Público, para los casos urgentes.
 
@@ -1376,19 +1918,31 @@ III. Ordenar a las personas integrantes de la Policía de Investigación a su ca
 
 IV. Supervisar que las personas integrantes de la Policía de Investigación cumplan con sus obligaciones en materia de detenciones;
 
-V. Coordinar la ejecución de los mandamientos judiciales que se dicten en la Fiscalía o Unidad de su adscripción, informando de ello de manera inmediata a la Dirección de Mandamientos Judiciales;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+V. Coordinar la ejecución de los mandamientos judiciales en las Fiscalías Regionales y Fiscalías o Unidades Especializadas, informando de ello de manera inmediata a la Dirección de Mandamientos Judiciales;
 
 VI. Dirigir a las personas integrantes de la Policía de Investigación a su cargo en los operativos que se realicen para la investigación de un hecho delictivo o la detención de probables responsables;
 
 VII. Vigilar que las personas integrantes de la Policía de Investigación actúen con estricto apego a derecho y respeto de los derechos humanos;
 
-VIII. Supervisar que las personas integrantes de la Policía de Investigación a su mando cuenten con el equipamiento necesario para la correcta realización de los actos de investigación; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-IX. Implementar las medidas necesarias para garantizar la disciplina de las personas integrantes de la Policía de Investigación a su cargo.
+VIII. Supervisar que las personas integrantes de la Policía de Investigación a su mando cuenten con el equipamiento necesario para la correcta realización de los actos de investigación;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+IX. Implementar las medidas necesarias para garantizar la disciplina de las personas integrantes de la Policía de Investigación a su cargo; y,
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+X. Expedir certificaciones de no reporte de robo vehicular y no alteración en sus números confidenciales de identificación, en coordinación con la Subcoordinación de Trámites y Servicios de la Fiscalía Coordinadora.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 56.
 
-Las Fiscalías y unidades administrativas que contemplen Direcciones de Policía de Investigación quedan subordinadas materialmente a la propia unidad administrativa donde se encuentren adscritas, cumpliendo funciones estrictamente de su materia. Lo anterior no implica que la persona titular de la Coordinación General de la Policía de Investigación pierda el mando directo en cuanto superior jerárquico y coordinador de cada una de ellas.
+Las Fiscalías Regionales y Fiscalías o Unidades Especializadas que contemplen Direcciones de Policía de Investigación quedan subordinadas materialmente a la propia unidad administrativa donde se encuentren adscritas, cumpliendo funciones estrictamente de su materia. Lo anterior no implica que la persona titular de la Coordinación General de la Policía de Investigación pierda el mando directo en cuanto superior jerárquico y coordinador de cada una de ellas.
 
 ## TÍTULO III. DE LAS COORDINACIONES GENERALES
 
@@ -1418,7 +1972,9 @@ VII. Ordenar la intervención de la Dirección de Reacción y Operaciones Estrat
 
 VIII. Promover la capacitación y profesionalización de las personas integrantes de la Policía de Investigación;
 
-IX. Adscribir a las personas integrantes de la Policía de Investigación para que se desempeñen en las Fiscalías Regionales y Fiscalías o Unidades Especializadas según las necesidades del servicio, previo acuerdo con la persona titular de la Fiscalía General;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+IX. Adscribir a las personas integrantes de la Policía de Investigación para que se desempeñen en las Fiscalías Regionales y Fiscalías o Unidades Especializadas según las necesidades del servicio, previa autorización con la persona titular de la Fiscalía General;
 
 X. Coordinar las acciones necesarias para dar seguimiento y cumplimiento a los compromisos de carácter internacional, asumidos con la Federación o el Estado, en el ámbito de su competencia, en materia de extradiciones y asistencia jurídica internacional;
 
@@ -1432,95 +1988,153 @@ XIV. Designar y coordinar las labores del personal destinado a la seguridad inst
 
 XV. Asignar personal de seguridad para la salvaguarda y protección de personas integrantes del servicio público, durante el tiempo que desempeñen el cargo o aún después de concluido, con base en las necesidades o nivel de riesgo existente;
 
-XVI. Vigilar la observancia y cumplimiento de las disposiciones del presente Reglamento, así como de todas aquellas disposiciones jurídicas que impacten el desempeño profesional y actuación de las personas del servicio público a su cargo y, en su caso, dar vista de manera inmediata a la autoridad competente; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XVII. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+XVI. Vigilar la observancia y cumplimiento de las disposiciones del presente Reglamento, así como de todas aquellas disposiciones jurídicas que impacten el desempeño profesional y actuación de las personas del servicio público a su cargo y, en su caso, dar vista de manera inmediata a la autoridad competente;
 
-#### SECCIÓN I. DEL CENTRO DE PROTECCIÓN A PERSONAS INTERVINIENTES
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE SEGURIDAD INSTITUCIONAL
+XVII. Acordar con el Fiscal General los asuntos de su competencia y con las unidades administrativas a su cargo;
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE MANDAMIENTOS JUDICIALES
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE REACCIÓN Y OPERACIONES ESTRATÉGICAS
+XVIII. Ejercer las atribuciones de alto mando y potestad disciplinaria de la Policía de Investigación;
 
-###### ARTÍCULO 59.
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-El Centro de Protección a Personas Intervinientes, tiene las atribuciones siguientes:
+XIX. Recibir y remitir a la persona titular de la Fiscalía General los asuntos relacionados con las excusas y recusaciones;
 
-I. Establecer las acciones de protección a personas intervinientes en el proceso penal o de justicia integral para adolescentes, conforme a la legislación aplicable;
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-II. Coadyuvar con el Ministerio Público, para que los sujetos protegidos proporcionen los datos o elementos de prueba con los que cuenten, tanto en la investigación como en el proceso; y,
+XX. Supervisar que las Direcciones de Policía de Investigación expidan certificaciones de no reporte de robo vehicular y no alteración en sus números confidenciales de identificación, de acuerdo a la normativa aplicable;
 
-III. Fungir como vínculo entre el sujeto protegido y los especialistas necesarios para su atención médica, psicológica o legal, a través de las unidades administrativas respectivas.
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE CONTROL DE PLATAFORMA MÉXICO
+XXI. Coordinar las acciones para el correcto funcionamiento del depósito de armamento de la Fiscalía General;
 
-###### ARTÍCULO 60.
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-La Dirección de Seguridad Institucional, tiene las atribuciones siguientes:
+XXII. Cumplir con las disposiciones para el registro de los elementos de identificación de huella balística a las armas asignadas a la institución; y,
 
-I. Supervisar el resguardo y protección del personal de la Fiscalía General que, por la naturaleza de sus funciones, autorice la persona titular de la Fiscalía General o bien se encuentre regulado por alguna disposición legal;
+XXIII. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
 
-II. Proponer a la persona titular de la Coordinación General de la Policía de Investigación lineamientos, políticas, procedimientos y proyectos de seguridad institucional y protección civil, con la finalidad de preservar la integridad física del personal de la Fiscalía General y el buen estado de los bienes patrimoniales;
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE JUNIO DE 2021)</small>
 
-III. Coordinar las acciones que, en materia de protección civil, deban realizarse en términos de las disposiciones jurídicas aplicables;
+#### SECCIÓN I. DE LAS SUBCOORDINACIONES
 
-IV. Coordinar el control de accesos y monitoreo del circuito cerrado de televisión en las unidades administrativas de la Fiscalía General;
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
 
-V. Coordinar y programar los operativos y dispositivos de seguridad institucional, tanto al interior como al exterior de las instalaciones;
+###### ARTÍCULO 58 Bis.
 
-VI. Presentar a la persona titular de la Coordinación General de la Policía de Investigación los estudios, propuestas y requerimientos de material, equipo, personal, instalaciones y apoyos institucionales e interinstitucionales que por su importancia, costos y urgencia requieran para el desempeño de las funciones de protección de las unidades administrativas de la Fiscalía General; y,
+Para el desempeño de sus funciones, la persona titular de la Coordinación General de la Policía de Investigación cuenta con la Subcoordinación de Operaciones y la Subcoordinación Técnica, como áreas estratégicas para la conducción y mando de la Policía de Investigación, con el orden siguiente:
 
-VII. Proponer a la persona titular de la Coordinación General de la Policía de Investigación los cursos de formación, capacitación y actualización en materia de seguridad personal e institucional, y protección civil.
+I. Subcoordinación de Operaciones:
 
-#### SECCIÓN VI. DE LA UNIDAD DE CONTROL DE INTERNAMIENTO
+a) Dirección de Reacción y Operaciones Estratégicas;
 
-###### ARTÍCULO 61.
+b) Unidad Canina Especializada;
 
-La Dirección de Mandamientos Judiciales, tiene las atribuciones siguientes:
+c) Unidad de Control de Internamiento;
 
-I. Llevar el registro, control y seguimiento de los mandamientos emitidos por los órganos jurisdiccionales;
+d) Dirección de Mandamientos Judiciales; y,
 
-II. Cumplimentar los mandamientos judiciales emitidos por los órganos jurisdiccionales competentes;
+e) Unidad de Asistencia Jurídica Internacional y Extradiciones.
 
-III. Ejecutar las solicitudes de colaboración que soliciten las Fiscalías Generales de las entidades federativas, respecto de los mandamientos emitidos por órganos jurisdiccionales; y,
+II. Subcoordinación Técnica:
 
-IV. Realizar las gestiones necesarias para dar seguimiento y cumplimiento de los compromisos de carácter internacional, asumidos con la Federación o el Estado, en el ámbito de su competencia, en materia de extradiciones y asistencia jurídica internacional.
+a) Centro de Protección a Personas Intervinientes;
 
-#### SECCIÓN I. DE LA UNIDAD DE CRIMINALÍSTICA
+b) Dirección de Seguridad Institucional; y,
 
-###### ARTÍCULO 62.
+c) Dirección de Control de Plataforma México.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 58 Ter.
+
+La persona titular de la Coordinación General de la Policía de Investigación, podrá ejercer sus funciones a través de la Subcoordinación de Operaciones y la Subcoordinación Técnica, sin que por ello pierda el mando directo de cada una de las unidades administrativas.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 58 Quáter.
+
+La Subcoordinación de Operaciones y la Subcoordinación Técnica, actuarán con estricto apego a lo dispuesto por la persona titular de la Coordinación General de la Policía de Investigación.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 58 Quinquies.
+
+Las personas titulares de la Subcoordinación de Operaciones y la Subcoordinación Técnica, serán las encargadas de dar seguimiento y supervisión a las acciones desarrolladas por las unidades que coordinen, asimismo, fungirán como enlace inmediato entre éstas y la persona titular de la Policía de Investigación.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 58 Sexies.
+
+Las personas titulares de la Subcoordinación de Operaciones y la Subcoordinación Técnica, deben informar a la persona titular de la Coordinación General de la Policía de Investigación, las actividades que desarrollen, con la periodicidad que ésta les señale.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 58 Septies.
+
+Corresponde a la persona titular de la Coordinación General de la Policía de Investigación, a través de la Subcoordinación Técnica, expedir Certificaciones de no reporte de robo vehicular y no alteración en sus números confidenciales de identificación, en coordinación con la Subcoordinación de Trámites y Servicios de la Fiscalía Coordinadora.
+
+En el caso de las Fiscalías Regionales, las Direcciones de Policía de Investigación podrán expedir las certificaciones, en coordinación con la Subcoordinación Técnica y la Subcoordinación de Trámites y Servicios de la Fiscalía Coordinadora.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE JUNIO DE 2021)</small>
+
+#### SECCIÓN II. DE LA SUBCOORDINACIÓN DE OPERACIONES
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 58 Octies.
 
 La Dirección de Reacción y Operaciones Estratégicas, tiene las atribuciones siguientes:
 
-I. Participar en operativos que ameriten una situación especial dada la naturaleza de los delitos o delincuentes, así como el contexto social, peligrosidad de la intervención o cualquier otro factor que lo amerite;
+I. Realizar la planeación y operación estratégica, respecto de situaciones de alto riesgo en la que interviene la Dirección de Reacción y Operaciones Estratégicas.
 
-II. Detectar posibles riesgos y amenazas, que puedan comprometer las efectivas actuaciones de las personas integrantes de la Policía de Investigación durante un operativo de alto riesgo;
+II. Participar en operativos que ameriten una situación especial dada la naturaleza de los delitos o delincuentes, así como el contexto social, peligrosidad de la intervención o cualquier otro factor que lo amerite;
 
-III. Recolectar información susceptible de ser utilizada con fines de inteligencia;
+III. Detectar posibles riesgos y amenazas, que puedan comprometer las efectivas actuaciones de las personas integrantes de la Policía de Investigación durante un operativo de alto riesgo;
 
-IV. Desarrollar y operar un sistema integral de datos, orientando a la intercepción de objetivos, investigación y persecución del delito, así como al respaldo de la función ministerial; y,
+IV. Recolectar información susceptible de ser utilizada con fines de inteligencia;
 
-V. Coadyuvar en la identificación de objetivos de investigación criminal para su captura, previo acuerdo con la persona titular de la Coordinación General de la Policía de Investigación.
+V. Desarrollar y operar un sistema integral de datos, orientando a la intercepción de objetivos, investigación y persecución del delito, así como al respaldo de la función ministerial;
 
-#### SECCIÓN II. DE LA UNIDAD DE QUÍMICA Y GENÉTICA
+VI. Coadyuvar en la identificación de objetivos de investigación criminal para su captura, previa autorización de la persona titular de la Coordinación General de la Policía de Investigación;
 
-###### ARTÍCULO 63.
+VII. Mantener el control y mando durante la ejecución de operativos de alto riesgo en los que intervenga la Dirección de Reacción y Operaciones Estratégicas;
 
-La Dirección de Control de Plataforma México, tiene las atribuciones siguientes:
+VIII. Dar cumplimiento a las acciones de coordinación y colaboración con autoridades del orden nacional e internacional, en la cumplimentación de ordenes de aprehensión, actos de investigación y, búsqueda y localización de personas, que le instruya la persona titular de la Policía de Investigación; y,
 
-I. Llevar a cabo la recepción, captura, supervisión, validación y registro en bitácora, así como en el sistema de seguimiento de los informes policiales homologados;
+IX. Ejecutar los operativos aéreos y terrestres que ameriten la intervención directa de la Dirección de Reacción y Operaciones Estratégicas.
 
-II. Realizar consultas al Sistema Único de Información Criminal, a petición de las unidades administrativas de la Fiscalía General o de la persona titular de la institución;
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
 
-III. Supervisar y coordinar el centro de manejo de datos útiles en las distintas etapas del procedimiento penal, a través de las diversas plataformas; y,
+###### ARTÍCULO 58 Nonies.
 
-IV. Informar a la persona titular de la Coordinación General de la Policía de Investigación sobre contingencias o amenazas que puedan surgir sobre los sistemas de información y de seguridad informática de su unidad administrativa, así como tomar las medidas preventivas necesarias.
+La Unidad Canina Especializada, tiene las atribuciones siguientes:
 
-#### SECCIÓN III. DE LA UNIDAD DE MEDICINA FORENSE
+I. Proporcionar a las personas agentes del Ministerio Público de las Fiscalías Regionales, Fiscalías o Unidades Especializadas, el apoyo de binomios caninos en la detección de estupefacientes, artefactos explosivos, papel moneda, búsqueda y rescate de personas, cadáveres e intervención en operaciones;
 
-###### ARTÍCULO 64.
+II. Establecer colaboración con instituciones de seguridad pública federal, estatal y municipal, en la detección de estupefacientes, armamento, artefactos explosivos, papel moneda, búsqueda y rescate de personas, cadáveres e intervención en operaciones para prevenir y combatir los delitos;
+
+III. Cumplir con los mecanismos de evaluación, certificación y registro de los binomios caninos;
+
+IV. Presentar a la persona titular de la Coordinación General de la Policía de Investigación, los criterios para la selección, adquisición, retiro y baja de elementos caninos;
+
+V. Proponer a la persona titular de la Coordinación General de la Policía de Investigación, las capacitaciones para instructores y manejadores caninos con reconocimiento nacional e internacional;
+
+VI. Diseñar los perfiles conforme a los protocolos establecidos para los manejadores y entrenadores caninos en las diferentes especialidades, así como llevar su registro de actuación policial;
+
+VII. Colaborar con instituciones de gobierno y organizaciones de la sociedad civil, cuando así lo soliciten, para dar a conocer las distintas especialidades, acciones y objetivos en la prevención, combate al delito, búsqueda de personas y labores de rescate;
+
+VIII. Proponer a la persona titular de la Coordinación General de la Policía de Investigación, los programas para establecer un cuerpo de instructores, entrenadores y manejadores que permitan la reducción de costos en la adquisición, crianza y adiestramiento de los caninos; y,
+
+IX. Proponer a la persona titular de la Coordinación General de la Policía de Investigación, la vinculación con las dependencias y entidades de la administración pública de los tres órdenes de gobierno, así como con organizaciones de la sociedad civil, para establecer programas y acuerdos de asistencia canina.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 58 Decies.
 
 La Unidad de Control de Internamiento, tiene las atribuciones siguientes:
 
@@ -1528,9 +2142,9 @@ I. Llevar un control y registro de las personas que ingresen a las áreas de res
 
 II. Garantizar la seguridad de la persona detenida;
 
-III. Fungir como enlace institucional con el Centro Nacional de Información del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública en materia de detenciones;
+III. Comunicar de manera inmediata a la Dirección de Control de Plataforma México, el ingreso de las personas a las áreas de resguardo de la institución;
 
-IV. Conservar y mantener actualizadas las bases de datos que establezcan las leyes en materia de registro de detenciones;
+IV. Establecer la coordinación necesaria con la Dirección de Control de Plataforma México en materia de detenciones;
 
 V. Instruir las medidas necesarias a efecto de garantizar el orden, la disciplina y el buen comportamiento de las personas detenidas;
 
@@ -1546,7 +2160,135 @@ X. Coordinar el suministro de agua y alimentos a las personas detenidas;
 
 XI. Supervisar que las áreas de resguardo de la institución cumplan con las condiciones necesarias de higiene; y,
 
-XII. Vigilar que el personal de las áreas de resguardo de la institución actúe con respeto a los derechos humanos de las personas detenidas y, en caso de incumplimiento, informar de manera inmediata a la autoridad competente.
+XII. Vigilar que el personal de las áreas de resguardo de la institución actúe con respeto a los derechos humanos de las personas detenidas y, en caso de incumplimiento, informar de manera inmediata a su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 58 Undecies. La Dirección de Mandamientos Judiciales, tiene las atribuciones siguientes:
+
+I. Llevar el registro, control y seguimiento de los mandamientos emitidos por los órganos jurisdiccionales;
+
+II. Cumplimentar mandamientos judiciales emitidos por los órganos jurisdiccionales competentes;
+
+III. Ejecutar solicitudes de colaboración que soliciten las Fiscalías Generales de las entidades federativas, respecto de los mandamientos emitidos por órganos jurisdiccionales; y,
+
+IV. Realizar las gestiones necesarias para dar seguimiento y cumplimiento de los compromisos de carácter internacional, asumidos con la Federación o el Estado, en el ámbito de su competencia, en materia de extradiciones y asistencia jurídica internacional.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 58 Duodecies. La Unidad de Asistencia Jurídica Internacional y Extradiciones, tiene las atribuciones siguientes:
+
+I. Ser enlace con autoridades internacionales, federales y estatales en materia de extradición y asistencia jurídica internacional, e informar a la persona titular de la Dirección de Mandamientos Judiciales los trámites realizados;
+
+II. Solicitar a través del Coordinador General a las Direcciones de Carpetas de Investigación y de Litigación de las Fiscalías Regionales, Fiscalías y Unidades Especializadas, información relativa a probables responsables que radiquen fuera del país;
+
+III. Realizar el trámite correspondiente en materia de deportación, extradición y asistencia jurídica internacional;
+
+IV. Brindar apoyo a las personas agentes del Ministerio Público en la práctica de diligencias, obtención de información y documentación en el extranjero que requieran en materia de investigación o búsqueda de personas relacionadas con la misma;
+
+V. Solicitar a través de la Dirección de Mandamientos Judiciales la intervención de la Policía de Investigación, para la práctica de diligencias de actos de investigación o captura de personas reclamadas por autoridades internacionales que radiquen en el Estado;
+
+VI. Solicitar y dar seguimiento a las notificaciones de personas con orden de aprehensión o desaparecidas, emitidas por las autoridades nacionales e internacionales; y,
+
+VII. Realizar las gestiones y trámites administrativos en materia de legalización de documentos ante dependencias y entidades de la administración pública federal y estatal, para la debida cumplimentación de las colaboraciones internacionales, así como la obtención de información y documentación en materia de extradición.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE JUNIO DE 2021)</small>
+
+#### SECCIÓN III. DE LA SUBCOORDINACIÓN TÉCNICA
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 58 Terdecies. El Centro de Protección a Personas Intervinientes, tiene las atribuciones siguientes:
+
+I. Proponer y en su caso ejecutar las acciones correspondientes a la protección de personas intervinientes en el proceso penal o de justicia integral para adolescentes, conforme a la legislación aplicable;
+
+II. Coadyuvar con el Ministerio Público, para que las personas sujetas a protección proporcionen los datos o elementos de prueba con los que cuenten, tanto en la investigación como en el proceso;
+
+III. Fungir como vínculo entre la persona sujeta a protección y los especialistas necesarios para su atención médica, psicológica o legal, a través de las unidades administrativas respectivas; y,
+
+IV. Coordinar al personal de seguridad que designe la persona titular de la Fiscalía General para la salvaguarda y protección de personas integrantes del servicio público.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 58 Quaterdecies. La Dirección de Seguridad Institucional, tiene las atribuciones siguientes:
+
+I. Supervisar el resguardo y protección del personal de la Fiscalía General que, por la naturaleza de sus funciones, autorice la persona titular de la Fiscalía General o bien se encuentre regulado por alguna disposición legal;
+
+II. Proponer a la persona titular de la Coordinación General de la Policía de Investigación lineamientos, políticas, procedimientos y proyectos de seguridad institucional y protección civil, con la finalidad de preservar la integridad física del personal de la Fiscalía General y el buen estado de los bienes patrimoniales;
+
+III. Implementar las acciones necesarias con la Coordinación de Previsión y Salud, y las demás Unidades Administrativas, en materia de protección civil en términos de las disposiciones jurídicas aplicables;
+
+IV. Coordinar el control de accesos y monitoreo del circuito cerrado de televisión en las unidades administrativas de la Fiscalía General;
+
+V. Coordinar y programar los operativos y dispositivos de seguridad institucional, tanto al interior como al exterior de las instalaciones;
+
+VI. Presentar a la persona titular de la Coordinación General de la Policía de Investigación los estudios, propuestas y requerimientos de material, equipo, personal, instalaciones y apoyos institucionales e interinstitucionales que por su importancia, costos y urgencia requieran para el desempeño de las funciones de protección de las unidades administrativas de la Fiscalía General;
+
+VII. Proponer a la persona titular de la Coordinación General de la Policía de Investigación los cursos de formación, capacitación y actualización en materia de seguridad personal e institucional, y protección civil;
+
+VIII. Establecer los mecanismos necesarios para el control y mantenimiento de armas, municiones y accesorios del depósito de armamento; y
+
+IX. Vigilar que el depósito de armamento tenga las condiciones de seguridad para evitar el extravío, robo o accidentes.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 58 Quinquiesdecies. En materia de protección civil, debe coordinarse con la Coordinación de Previsión y Salud.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 58 Sexiesdecies. La Dirección de Control de Plataforma México, tiene las atribuciones siguientes:
+
+I. Llevar a cabo la recepción, captura, supervisión, validación y registro en bitácora, así como en el sistema de seguimiento de los informes policiales homologados;
+
+II. Realizar consultas al Sistema Único de Información Criminal, a petición de las unidades administrativas de la Fiscalía General o de la persona titular de la institución;
+
+III. Supervisar y coordinar el centro de manejo de datos útiles en las distintas etapas del procedimiento penal, a través de las diversas plataformas;
+
+IV. Informar a la persona titular de la Coordinación General de la Policía de Investigación sobre contingencias o amenazas que puedan surgir sobre los sistemas de información y de seguridad informática de su unidad administrativa, así como tomar las medidas preventivas necesarias;
+
+V. Supervisar y coordinar el correcto suministro de datos de los vehículos robados y recuperados en el Estado de Michoacán y mantener actualizadas las bases de datos que correspondan;
+
+VI. Fungir como enlace institucional con el Centro Nacional de Información del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública en materia de detenciones;
+
+VII. Conservar y mantener actualizadas las bases de datos que establezcan las leyes en materia de registro de detenciones; y,
+
+VIII. Supervisar y dar soporte técnico sobre el uso y aplicación del Registro Nacional de Detenciones, a la Policía de Investigación.
+
+#### SECCIÓN I. DEL CENTRO DE PROTECCIÓN A PERSONAS INTERVINIENTES
+
+###### ARTÍCULO 59.
+
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
+
+#### SECCIÓN II. DE LA DIRECCIÓN DE SEGURIDAD INSTITUCIONAL
+
+###### ARTÍCULO 60.
+
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
+
+#### SECCIÓN III. DE LA DIRECCIÓN DE MANDAMIENTOS JUDICIALES
+
+###### ARTÍCULO 61.
+
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
+
+#### SECCIÓN IV. DE LA DIRECCIÓN DE REACCIÓN Y OPERACIONES ESTRATÉGICAS
+
+###### ARTÍCULO 62.
+
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
+
+#### SECCIÓN V. DE LA DIRECCIÓN DE CONTROL DE PLATAFORMA MÉXICO
+
+###### ARTÍCULO 63.
+
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
+
+#### SECCIÓN VI. DE LA UNIDAD DE CONTROL DE INTERNAMIENTO
+
+###### ARTÍCULO 64.
+
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
 
 ### CAPÍTULO II. DE LA COORDINACIÓN GENERAL DE SERVICIOS PERICIALES
 
@@ -1558,7 +2300,9 @@ La Coordinación General de Servicios Periciales es la unidad administrativa enc
 
 La Coordinación General de Servicios Periciales, tiene las atribuciones siguientes:
 
-I. Diseñar y establecer los criterios y lineamientos a que deben apegarse la presentación y formulación de los dictámenes e informes de las diversas especialidades periciales;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+I. Diseñar y establecer los criterios y lineamientos a que deben apegarse la presentación y formulación de los dictámenes periciales e informes de las diversas especialidades periciales;
 
 II. Coordinar el adecuado funcionamiento de los servicios periciales proporcionados por la Fiscalía General;
 
@@ -1568,9 +2312,13 @@ IV. Vigilar que, en el manejo de cadáveres, órganos y tejidos humanos, se cump
 
 V. Supervisar que se brinde la atención médica de emergencia a las personas detenidas o, en su caso, que sean remitidas a las instituciones de salud correspondientes;
 
-VI. Mantener en absoluta reserva y bajo su más estricta responsabilidad, los registros de los dictámenes que se elaboren;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-VII. Establecer mecanismos de supervisión para evitar presiones, coacciones o solicitudes de quien pudiera tener interés en el sentido de un dictamen pericial hacia quien lo practica;
+VI. Mantener en absoluta reserva y bajo su más estricta responsabilidad, los registros de los dictámenes periciales que se elaboren;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VII. Establecer mecanismos de supervisión para evitar presiones, coacciones o solicitudes de quien pudiera tener interés en el sentido de los dictámenes periciales hacia quien lo practica;
 
 VIII. Proponer a la persona titular de la Fiscalía General la habilitación de Peritos, cuando la Fiscalía General no cuente con especialistas en una determinada disciplina, ciencia o arte que se requiera, o en casos de urgencia;
 
@@ -1592,33 +2340,57 @@ XVI. Supervisar que las intervenciones periciales cumplan con los lineamientos n
 
 XVII. Proponer a la persona titular de la Fiscalía General, la capacitación y actualización científica o técnica del personal a su cargo, en materia pericial y criminalística, así como las políticas necesarias para el mejoramiento de los servicios;
 
-XVIII. Emitir a través de sus unidades administrativas los dictámenes, que en las diversas especialidades soliciten las demás unidades administrativas de la Fiscalía General o los órganos jurisdiccionales, que versen sobre el esclarecimiento de hechos relacionados con posibles delitos y presuntos delincuentes;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XIX. Proponer a la persona titular de la Fiscalía General, el costo de recuperación de los diversos estudios, dictámenes, constancias y demás documentos que expida la Coordinación General de Servicios Periciales;
+XVIII. Emitir a través de sus unidades administrativas los dictámenes periciales, que en las diversas especialidades se soliciten de conformidad con lo establecido en el Catálogo de Servicios Periciales;
 
-XX. Adscribir a los Peritos para que se desempeñen en las Fiscalías Regionales y Fiscalías o Unidades Especializadas según las necesidades del servicio, previo acuerdo con la persona titular de la Fiscalía General;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIX. Proponer a la persona titular de la Fiscalía General, el costo de recuperación de los diversos cursos, talleres de capacitación y, dictámenes periciales que expida la Coordinación General de Servicios Periciales;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XX. Solicitar autorización para el cambio de adscripción de las personas integrantes de la Coordinación General de Servicios Periciales al Fiscal General;
 
 XXI. Programar los turnos de los Peritos que deban asistir al Ministerio Público, para los casos urgentes;
 
-XXII. Vigilar la observancia y cumplimiento de las disposiciones del presente Reglamento, así como de todas aquellas disposiciones jurídicas que impacten el desempeño profesional y actuación de las personas del servicio público a su cargo y, en su caso, dar vista de manera inmediata a la autoridad competente; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XXIII. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+XXII. Vigilar la observancia y cumplimiento de las disposiciones del presente Reglamento, así como de todas aquellas disposiciones jurídicas que impacten el desempeño profesional y actuación de las personas del servicio público a su cargo y, en su caso, dar vista de manera inmediata a la autoridad competente;
 
-La aplicación de pruebas periciales para asuntos no relacionados a la persecución de los delitos, sólo será procedente cuando su desahogo no retrase las actividades esenciales de investigación.
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-Dichos estudios o dictámenes tienen un costo conforme a los tabuladores oficiales, a favor del Fondo Auxiliar de la Fiscalía General.
+XXIII. Elaborar, modificar y proponer el Catálogo de Servicios Periciales;
 
-#### SECCIÓN IV. DE LA UNIDAD TÉCNICA DE PRESERVACIÓN Y MANEJO DE EVIDENCIAS
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XXIV. Recibir y remitir a la persona titular de la Fiscalía General los asuntos relacionados con las excusas y recusaciones;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XXV. Expedir dictámenes periciales, derivados de trámites o servicios no relacionados con la investigación y persecución de delitos, en coordinación con la Subcoordinación de Trámites y Servicios de la Fiscalía Coordinadora; y
+
+XXVI. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 21 DE JUNIO DE 2021)</small>
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 21 DE JUNIO DE 2021)</small>
+
+#### SECCIÓN I. DE LA UNIDAD DE CRIMINALÍSTICA
 
 ###### ARTÍCULO 67.
 
 La Unidad de Criminalística, tiene las atribuciones siguientes:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE JUNIO DE 2021)</small>
+
 I. Colaborar con el Ministerio Público durante las investigaciones relacionadas con hechos delictuosos, mediante la realización de dictámenes periciales que éste le solicite, de forma rápida y eficaz;
 
 II. Proponer a la persona titular de la Coordinación General de Servicios Periciales, proyectos de mejora para los procesos de atención, utilizados en la elaboración de dictámenes periciales;
 
-III. Proponer a la persona titular de la Coordinación General de Servicios Periciales los criterios que deban observar los Peritos para la emisión de los dictámenes;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+III. Proponer a la persona titular de la Coordinación General de Servicios Periciales los criterios que deban observar los Peritos para la emisión de los dictámenes periciales;
 
 IV. Mantener debidamente actualizado el casillero de identificación personal de los detenidos, con la clasificación dactiloscópica, nominal, fotográfica, de retrato hablado y de modo de proceder, así como la demás que la técnica imponga para la identificación de los posibles responsables;
 
@@ -1626,27 +2398,53 @@ V. Promover la capacitación y especialización del personal a su cargo, en el �
 
 VI. Realizar propuestas para la adquisición de nuevos equipos periciales atendiendo a los avances científicos y tecnológicos de los servicios periciales.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE ACUERDOS REPARATORIOS
+#### SECCIÓN II. DE LA UNIDAD DE QUÍMICA Y GENÉTICA
 
 ###### ARTÍCULO 68.
 
 La Unidad de Química y Genética, tiene las atribuciones siguientes:
 
-I. Aplicar el control de calidad de los análisis, mediante la supervisión de la metodología empleada por el Perito en materia de química y genética forense, así como en la emisión del dictamen pericial, de acuerdo a lo establecido en los protocolos y procedimientos autorizados;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-II. Realizar muestreos para la elaboración de perfiles genéticos;
+I. Aplicar los estándares que marcan las normas de calidad y supervisar la metodología empleada por el personal pericial en materia de química y genética forense, así como en la emisión de dictámenes periciales, de acuerdo a lo establecido en los protocolos y procedimientos autorizados;
 
-III. Llevar a cabo la toma de muestras de osamentas y cuerpos, a efecto de llevar a cabo su identificación;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-IV. Proponer a la persona titular de la Coordinación General de Servicios Periciales la adquisición de nuevos equipos periciales, atendiendo a los avances científicos y tecnológicos en la materia;
+II. Proponer a la persona titular de la Coordinación General de Servicios Periciales la adquisición de nuevos equipos, atendiendo a los avances científicos y tecnológicos en la materia;
 
-V. Realizar los análisis químicos necesarios para la identificación de los presuntos responsables de un hecho delictivo, así como de los elementos implicados durante su comisión;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-VI. Promover la capacitación y especialización del personal a su cargo, en el ámbito de su competencia; y,
+III. Realizar los análisis en materia de química y genética forense, de acuerdo al Catálogo de Servicios Periciales, aplicando protocolos y procedimientos técnicos;
 
-VII. Realizar los análisis toxicológicos necesarios para la identificación de drogas, estupefacientes o psicotrópicos.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE SEGUIMIENTO DE ACUERDOS
+IV. Promover la capacitación y especialización del personal a su cargo, en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+V. Realizar toma de muestras y recolección de indicios para la obtención de perfiles genéticos;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VI. Llevar a cabo la obtención de perfiles genéticos, en las muestras recabadas por personal de la unidad de medicina forense, provenientes de osamentas y cuerpos, para coadyuvar en su identificación;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VII. Realizar los análisis en materia de química forense, mediante el uso de las herramientas científicas y tecnológicas en los casos donde resulta necesaria la determinación de sustancias químicas y bioquímicas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2021)</small>
+
+VIII. Proponer a la persona titular de la Coordinación General de Servicios Periciales, la implementación y validación de nuevos métodos de análisis en materia de química y genética forense;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2021)</small>
+
+IX. Realizar los análisis en materia de genética forense solicitados por la autoridad competente, y los remitidos vía colaboración por los servicios periciales de la federación y entidades federativas; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2021)</small>
+
+X. Elaborar dictámenes periciales que le instruya la persona titular de la Coordinación General de Servicios Periciales.
+
+#### SECCIÓN IV. DE LA UNIDAD TÉCNICA DE PRESERVACIÓN Y MANEJO DE EVIDENCIAS
 
 ###### ARTÍCULO 70.
 
@@ -1670,7 +2468,7 @@ VIII. Aplicar las medidas de bioseguridad necesarias para prevenir los factores 
 
 IX. Coordinar y controlar el inventario físico del almacén de evidencias, supervisando que se realice como mínimo una vez cada año, o cuando las circunstancias así lo exijan.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE PROGRAMAS DE JUSTICIA RESTAURATIVA
+#### SECCIÓN III. DE LA UNIDAD DE MEDICINA FORENSE
 
 ###### ARTÍCULO 69.
 
@@ -1726,9 +2524,13 @@ VII. Llevar a cabo estudios estadísticos en torno al funcionamiento del Centro 
 
 VIII. Proponer a la persona titular de la Fiscalía General la celebración de convenios con las dependencias y entidades de la administración pública de los tres órdenes de gobierno, así como con otras instituciones y organismos que por la naturaleza de sus atribuciones tengan injerencia en la materia, que puedan coadyuvar para el adecuado cumplimiento de su función;
 
-IX. Llevar a cabo las gestiones necesarias a efecto de lograr la certificación, recertificación y, en su caso, la especialización de los facilitadores del Centro de Mecanismos, en coordinación con las unidades administrativas de la Fiscalía General que correspondan, en términos de la normativa aplicable;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-X. Proponer a la persona titular de la Fiscalía General programas de difusión para promover la utilización de mecanismos alternativos;
+IX. Llevar a cabo las gestiones necesarias a efecto de lograr la certificación, renovación de certificación y, en su caso, la especialización de los facilitadores del Centro de Mecanismos, en coordinación con las unidades administrativas de la Fiscalía General que correspondan, en términos de la normativa aplicable;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+X. Proponer a la persona titular de la Fiscalía General programas y campañas de difusión para promover la utilización de mecanismos alternativos;
 
 XI. Coordinarse con las diversas unidades administrativas de la Fiscalía General para la aplicación de mecanismos alternativos al interior del Estado, supervisando su cumplimiento;
 
@@ -1740,7 +2542,15 @@ XIV. Vigilar la observancia y cumplimiento de las disposiciones del presente Reg
 
 XV. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE AMPAROS
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 72 Bis.
+
+El Centro de Mecanismos tiene competencia en todo el territorio del Estado y cuenta con enlaces en las unidades administrativas que determine la persona titular de la Fiscalía General, los cuales quedan subordinados materialmente a la unidad administrativa de que se trate, cumpliendo funciones estrictamente de su materia.
+
+Lo anterior no implica que la persona titular del Centro de Mecanismos pierda el mando directo en cuanto superior jerárquico y coordinador de cada uno de ellos.
+
+#### SECCIÓN I. DE LA DIRECCIÓN DE ACUERDOS REPARATORIOS
 
 ###### ARTÍCULO 73.
 
@@ -1758,13 +2568,15 @@ V. Informar a los intervinientes sobre los programas de justicia restaurativa qu
 
 VI. Asegurar la remisión expedita a la Unidad de Investigación de aquellos asuntos en los que no se haya logrado la solución de la controversia a través de los mecanismos alternativos, o en los que no sea viable su procedencia, para su investigación correspondiente.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE PROMOCIÓN Y DEFENSA DE LOS DERECHOS HUMANOS
+#### SECCIÓN II. DE LA DIRECCIÓN DE SEGUIMIENTO DE ACUERDOS
 
 ###### ARTÍCULO 74.
 
 La Dirección de Seguimiento de Acuerdos, tiene las atribuciones siguientes:
 
-I. Validar y dar seguimiento oportuno y puntual del cumplimiento de los acuerdos reparatorios, para asegurar la reparación integral del daño a la víctima u ofendido;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+I. Validar, aprobar y dar seguimiento oportuno y puntual del cumplimiento de los acuerdos reparatorios, para asegurar la reparación integral del daño a la víctima u ofendido;
 
 II. Monitorear e impulsar el cumplimiento de los acuerdos alcanzados por los intervinientes en el mecanismo alternativo;
 
@@ -1772,7 +2584,7 @@ III. Informar a la persona titular del Centro de Mecanismos el seguimiento de lo
 
 IV. Conservar y mantener actualizadas las bases de datos que establezca la Ley de la materia.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE LO CONTENCIOSO
+#### SECCIÓN III. DE LA DIRECCIÓN DE PROGRAMAS DE JUSTICIA RESTAURATIVA
 
 ###### ARTÍCULO 75.
 
@@ -1796,9 +2608,7 @@ VIII. Impartir a las unidades administrativas de la Fiscalía General, instituci
 
 ###### ARTÍCULO 76.
 
-El Centro de Mecanismos tiene jurisdicción en todo el territorio del Estado y cuenta con enlaces en las unidades administrativas que determine la persona titular de la Fiscalía General, los cuales quedan subordinados materialmente a la unidad administrativa de que se trate, cumpliendo funciones estrictamente de su materia.
-
-Lo anterior no implica que la persona titular del Centro de Mecanismos pierda el mando directo en cuanto superior jerárquico y coordinador de cada uno de ellos.
+(DEROGADO, P.O. 21 DE JUNIO DE 2021)
 
 ### CAPÍTULO IV. DEL CENTRO DE JUSTICIA INTEGRAL PARA LAS MUJERES
 
@@ -1809,6 +2619,12 @@ El Centro de Justicia, tiene por objeto coordinar a las diferentes instancias gu
 ###### ARTÍCULO 78.
 
 Al frente del Centro de Justicia habrá una persona Coordinadora General, con el carácter de Ministerio Público, quien tiene las atribuciones inherentes a una Fiscalía Regional, así como las que se establecen en su Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 78 Bis.
+
+El Centro de Justicia, debe recibir las denuncias o querellas presentadas por mujeres víctimas de violencia, con independencia que no sea materia de su competencia, y remitirlas a las unidades administrativas que le correspondan.
 
 ###### ARTÍCULO 79.
 
@@ -1864,9 +2680,15 @@ XII. Expedir copias certificadas de los documentos que obren en sus archivos, so
 
 XIII. Proponer a la persona titular de la Fiscalía General el ingreso, promociones, y remociones del personal a su cargo;
 
-XIV. Conceder licencias y periodos vacacionales al personal a su cargo, teniendo en cuenta las necesidades del servicio, bajo las directrices que establezca la persona titular de la Fiscalía General; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XV. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+XIV. Conceder licencias y periodos vacacionales al personal a su cargo, teniendo en cuenta las necesidades del servicio, bajo las directrices que establezca la persona titular de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XV. Solicitar autorización para el cambio de adscripción de las personas servidoras púbicas a su cargo a la persona titular de la Fiscalía General; y,
+
+XVI. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
 
 ### CAPÍTULO I. DE LA DIRECCIÓN GENERAL JURÍDICA Y DE DERECHOS HUMANOS
 
@@ -1900,29 +2722,53 @@ VI. Representar a las personas titulares de las unidades administrativas que aut
 
 VII. Dar vista a las autoridades competentes sobre el incumplimiento de las obligaciones del personal de la Dirección General Jurídica y de Derechos Humanos;
 
-VIII. Proponer a la persona titular de la Fiscalía General, el programa institucional de derechos humanos;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VIII. Dar seguimiento a la implementación del Programa Institucional de Derechos Humanos de la Fiscalía General, y en su caso proponer modificaciones;
 
 IX. Fungir como enlace ante los organismos protectores de los derechos humanos de los tres órdenes de gobierno e internacionales;
 
-X. Coordinar los procedimientos derivados de las quejas, recomendaciones, requerimientos, medidas cautelares o precautorias, que remitan los organismos protectores;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+X. Coordinar los procedimientos derivados de las quejas, recomendaciones, requerimientos, medidas cautelares o precautorias, que remitan los organismos protectores de derechos humanos;
 
 XI. Proponer a la persona titular de la Fiscalía General, la celebración de convenios de colaboración y otros instrumentos de concertación para el fortalecimiento de la cultura de respeto a los derechos humanos;
 
 XII. Proponer a la persona titular de la Fiscalía General los lineamientos para la elaboración de los instrumentos jurídicos y normativa interna;
 
-XIII. Revisar y en su caso validar los convenios, contratos y cualquier otro instrumento jurídico en que intervenga la persona titular de la Fiscalía General;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIII. Elaborar, revisar y en su caso validar los convenios, contratos y cualquier otro instrumento jurídico en que intervenga la Fiscalía General y su titular;
 
 XIV. Fijar y sistematizar los criterios de interpretación y aplicación de las disposiciones administrativas que emita la persona titular de la Fiscalía General;
 
 XV. Solicitar y tramitar las publicaciones oficiales de la normativa interna que emita la persona titular de la Fiscalía General;
 
-XVI. Emitir constancias que certifiquen la copia fiel de documentos públicos y privados que se encuentren en los archivos de la Fiscalía General; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XVII. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+XVI. Emitir constancias que certifiquen la copia fiel de documentos públicos y privados que se encuentren en los archivos de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XVII. Proponer las previsiones presupuestales a la Dirección General de Administración, a efecto de dar cumplimiento con el pago de sentencias firmes o laudos, derivados de los juicios en que sea parte la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XVIII. Solicitar a la Dirección General de Administración, las previsiones presupuestales para dar cumplimiento al pago de la reparación del daño de las recomendaciones emitidas por los órganos protectores de los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIX. Enviar a la Dirección General de Administración, las previsiones presupuestales para la implementación y seguimiento del Programa Institucional de Derechos Humanos de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XX. Proponer al Fiscal General medidas internas tendentes a prevenir posibles violaciones a derechos humanos por parte del personal de la institución en el desempeño de sus funciones; y,
+
+XXI. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
 
 El ejercicio de la atribución contenida en la fracción VI del presente artículo se efectuará sin que ello signifique que la autoridad demandada o señalada como responsable sea eximida de la responsabilidad de dar atención y seguimiento de forma directa al asunto de que se trate, así como de las consecuencias jurídicas que pudieran derivarse del mismo.
 
-#### SECCIÓN IV. DIRECCIÓN DE NORMATIVIDAD Y ANÁLISIS LEGISLATIVO
+#### SECCIÓN I. DE LA DIRECCIÓN DE AMPAROS
 
 ###### ARTÍCULO 84.
 
@@ -1946,37 +2792,55 @@ VIII. Atender los requerimientos formulados a la persona titular de la Fiscalía
 
 IX. Brindar asesoría técnica al personal de la Fiscalía General respecto al trámite y sustanciación de los juicios de amparo, en donde sean señalados como autoridad responsable.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
+#### SECCIÓN II. DE LA DIRECCIÓN DE PROMOCIÓN Y DEFENSA DE LOS DERECHOS HUMANOS
 
 ###### ARTÍCULO 85.
 
 La Dirección (sic) Promoción y Defensa de los Derechos Humanos, tiene las atribuciones siguientes:
 
-I. Elaborar el Programa Institucional de Derechos Humanos de la Fiscalía General;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-II. Supervisar la implementación y desarrollo del Programa Institucional de Derechos Humanos de la Fiscalía General;
+I. Elaborar y actualizar el Programa Institucional de Derechos Humanos de la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+II. Supervisar la implementación, actualización y desarrollo del Programa Institucional de Derechos Humanos de la Fiscalía General;
 
 III. Supervisar la atención y seguimiento a los procedimientos de queja iniciados contra el personal de la Fiscalía General por presuntas violaciones a los derechos humanos;
 
-IV. Atender los requerimientos realizados por los organismos protectores de derechos humanos dirigidos a la persona titular de la Fiscalía General, en los términos que establece la Ley de la materia;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-V. Dar cumplimiento a las recomendaciones que emitan los organismos protectores de derechos humanos, en los términos que establece la Ley de la materia;
+IV. Atender los requerimientos realizados por los organismos protectores de derechos humanos dirigidos a la Fiscalía General, en los términos que establece la Ley de la materia;
 
-VI. Solicitar a las diversas unidades administrativas de la Fiscalía General la información y documentación necesaria para atender los requerimientos, señalamientos, visitas, propuestas de conciliación, medidas cautelares y recomendaciones emitidas por los organismos protectores de derechos humanos;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-VII. Procurar la conciliación entre las personas quejosas y las autoridades señaladas como responsables, así como la inmediata solución de las inconformidades planteadas, cuando la naturaleza del caso lo permita;
+V. Coordinar y dar seguimiento al cumplimiento de las recomendaciones que emitan los organismos protectores de derechos humanos, en los términos que establece la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VI. Solicitar a las diversas unidades administrativas de la Fiscalía General la información y documentación autentificada y foliada para atender los requerimientos, señalamientos, visitas, colaboraciones, propuestas de conciliación, medidas cautelares y recomendaciones emitidas por los organismos protectores de derechos humanos;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VII. Promover la conciliación entre las personas quejosas y las autoridades señaladas como responsables, así como la inmediata solución de las inconformidades planteadas, cuando la naturaleza del caso lo permita;
 
 VIII. Dar vista a las autoridades competentes por delitos y responsabilidades administrativas derivadas de violaciones a derechos humanos atribuidas al personal de la institución;
 
-IX. Administrar un sistema de registro, control y seguimiento de quejas presentadas contra la institución y su personal;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-X. Requerir a las diversas unidades administrativas de la Fiscalía General informes periódicos y de avances sobre la tramitación de los diversos expedientes de queja;
+IX. Administrar y supervisar la plataforma de registro y seguimiento de quejas, recomendaciones, colaboraciones y canalizaciones, en materia de derechos humanos;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+X. Requerir a las diversas unidades administrativas de la Fiscalía General, informes periódicos y de avances sobre la tramitación y cumplimiento de las quejas, recomendaciones y colaboraciones de los organismos protectores de derechos humanos;
 
 XI. Fungir como enlace operativo directo entre la Fiscalía General y los organismos protectores de derechos humanos;
 
 XII. Realizar visitas a las distintas unidades administrativas de la institución, a efecto de establecer mecanismos de prevención de violaciones de derechos humanos;
 
-XIII. Formular recomendaciones a las distintas unidades administrativas de la institución, tendentes a prevenir posibles violaciones a derechos humanos;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIII. Elaborar y supervisar el seguimiento a las medidas internas emitidas por la persona titular de la Dirección General Jurídica y de Derechos Humanos, para las distintas unidades administrativas de la institución, tendentes a prevenir posibles violaciones a derechos humanos;
 
 XIV. Proponer a la persona titular de la Dirección General Jurídica y de Derechos Humanos la elaboración de material informativo para la difusión de las actividades de la institución en materia de derechos humanos;
 
@@ -1984,35 +2848,61 @@ XV. Proponer a la persona titular de la Dirección General Jurídica y de Derech
 
 XVI. Brindar asesoría y capacitación en materia de derechos humanos de los sujetos intervinientes en el proceso penal y procuración de justicia a las personas integrantes del sector público o privado que así lo soliciten;
 
-XVII. Proponer a la persona titular de la Dirección General Jurídica y de Derechos Humanos, la celebración de convenios de colaboración y otros instrumentos de concertación con actores del sector público y privado, para la difusión general de la cultura de respeto a los derechos humanos; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XVIII. Generar indicadores y reportes mensuales sobre incidencia de quejas y autoridades.
+XVII. Proponer a la persona titular de la Dirección General Jurídica y de Derechos Humanos, la celebración de convenios de colaboración y otros instrumentos de concertación con actores del sector público y privado, para la difusión general de la cultura de respeto a los derechos humanos;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XVIII. Generar indicadores y reportes sobre incidencia de quejas, recomendaciones, colaboraciones, canalizaciones y medidas internas; y,
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIX. Brindar asesoría y apoyo a las unidades administrativas en el seguimiento al trámite de los requerimientos emitidos por los organismos protectores de derechos humanos.
 
 ###### ARTÍCULO 86.
 
 La Dirección de Promoción y Defensa de los Derechos Humanos, contará con un enlace en materia de derechos humanos en las Fiscalías Regionales, Fiscalías y Unidades Especializadas, y Coordinaciones Generales, designados de manera oficial por sus titulares.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE PLANEACIÓN ESTADÍSTICA
+#### SECCIÓN III. DE LA DIRECCIÓN DE LO CONTENCIOSO
 
 ###### ARTÍCULO 87.
 
 La Dirección de lo Contencioso, tiene las atribuciones siguientes:
 
-I. Ejercitar las acciones legales, civiles, penales, administrativas, fiscales, laborales o de cualquier otra materia que se instaure con motivo del ejercicio de las facultades o atribuciones de la persona titular de la Fiscalía General, previo acuerdo con la persona titular de la Dirección General Jurídica y de Derechos Humanos;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-II. Elaborar los proyectos de contestación y reconvención de demandas, excepciones, incidentes, quejas, recursos o cualquier otro necesario para el desarrollo de los asuntos de su competencia;
+I. Ejercitar las acciones legales, civiles, penales, administrativas, fiscales, laborales o de cualquier otra materia que se instaure con motivo del ejercicio de las facultades o atribuciones de la Fiscalía General y su titular, previa autorización de la persona titular de la Dirección General Jurídica y de Derechos Humanos;
 
-III. Comparecer en las audiencias, ofrecer y rendir pruebas, así como presentar alegatos, en los juicios en que la persona titular de la Fiscalía General sea parte;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+II. Elaborar y presentar en tiempo y forma las contestaciones y reconvenciones de demandas, excepciones, incidentes, quejas, recursos o cualquier otro necesario para el desarrollo de los asuntos de su competencia previa autorización de la persona titular de la Dirección General Jurídica y de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+III. Comparecer en las audiencias, ofrecer y rendir pruebas, así como presentar alegatos, en los juicios en que sea parte la Fiscalía General y su titular;
 
 IV. Recibir documentos y formular toda clase de promociones en cualquier tipo de juicio, con independencia de la materia;
 
 V. Recusar jueces o magistrados, e interponer todo tipo de recursos, previo acuerdo con la persona titular de la Dirección General Jurídica y de Derechos Humanos;
 
-VI. Brindar asesoría técnica al personal de la Fiscalía General respecto al trámite y sustanciación de los juicios contenciosos en los que sean parte; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-VII. Supervisar e instruir lo necesario para el cumplimiento de las sentencias pronunciadas en los diversos juicios en que sea parte la persona titular de la Fiscalía General.
+VI. Brindar asesoría jurídica al personal de la Fiscalía General respecto al trámite y sustanciación de los juicios contenciosos en los que sean parte;
 
-#### SECCIÓN III. DE LOS SISTEMAS DE INFORMACIÓN DE LA FISCALÍA GENERAL
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VII. Supervisar e instruir lo necesario para el cumplimiento de las sentencias pronunciadas en los diversos juicios en que sea parte la Fiscalía General y su titular;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VIII. Realizar las gestiones necesarias ante la Dirección General de Administración para dar cumplimiento al pago de sentencias firmes o laudos derivados de los juicios en que sea parte la Fiscalía General y su titular; y,
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+IX. Realizar las gestiones necesarias para la recuperación de bienes a favor de la Fiscalía General, y en su caso, solicitar el pago de la reparación del daño.
+
+#### SECCIÓN IV. DIRECCIÓN DE NORMATIVIDAD Y ANÁLISIS LEGISLATIVO
 
 ###### ARTÍCULO 88.
 
@@ -2044,7 +2934,9 @@ X. Administrar la plataforma virtual normativa.
 
 La Dirección General de Tecnologías es la unidad administrativa competente para establecer y supervisar las directrices en materia tecnológica, de planeación y estadística, así como de coadyuvar en el cumplimiento de los objetivos y gobernanza digital de la institución a través de:
 
-I. La generación, supervisión, dictaminación, desarrollo e implementación de sistemas de información e infraestructura, orientados a la innovación tecnológica y la toma de decisiones;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+I. La generación, supervisión, dictaminación, desarrollo e implementación de sistemas de información, estadística e infraestructura, orientados a la innovación tecnológica y la toma de decisiones;
 
 II. El desarrollo y supervisión del modelo de planeación estratégica que oriente la actuación de la Fiscalía General; y,
 
@@ -2056,7 +2948,9 @@ La Dirección General de Tecnologías, tiene las atribuciones siguientes:
 
 I. Proponer, elaborar y supervisar los sistemas de información que coadyuven a la toma de decisiones, con base en el esquema organizacional de la institución;
 
-II. Contribuir a la eficiencia y la eficacia en la gestión institucional a través de la planeación estratégica;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+II. Contribuir a la eficiencia y la eficacia en la gestión institucional a través de la planeación estratégica y la implementación de la firma electrónica;
 
 III. Desarrollar los sistemas de información que le encomiende la persona titular de la Fiscalía General o que sean necesarios para las actividades de la institución;
 
@@ -2092,7 +2986,7 @@ XVIII. Identificar las necesidades de capacitación y certificación de la insti
 
 XIX. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE RECURSOS FINANCIEROS
+#### SECCIÓN I. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
 
 ###### ARTÍCULO 91.
 
@@ -2120,7 +3014,7 @@ IX. Implementar el mantenimiento preventivo y correctivo de los centros de datos
 
 La implementación de cualquier solución tecnológica en la institución deberá ser revisada y dictaminada por la Dirección de Tecnologías de la Información y, en su caso, validada por la persona titular de la Dirección General de Tecnologías.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE RECURSOS HUMANOS
+#### SECCIÓN II. DE LA DIRECCIÓN DE PLANEACIÓN ESTADÍSTICA
 
 ###### ARTÍCULO 93.
 
@@ -2166,7 +3060,7 @@ XVIII. Proponer a la persona titular de la Dirección General de Tecnologías lo
 
 Cualquier tipo de información estadística de la institución deberá ser revisada por la Dirección de Planeación Estadística y, en su caso, validada por la persona titular de la Dirección General de Tecnologías.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE RECURSOS MATERIALES
+#### SECCIÓN III. DE LOS SISTEMAS DE INFORMACIÓN DE LA FISCALÍA GENERAL
 
 ###### ARTÍCULO 95.
 
@@ -2220,31 +3114,73 @@ III. Realizar la calendarización programática presupuestal, de los recursos fi
 
 IV. Coadyuvar en la elaboración y actualización de los manuales de organización y procedimientos;
 
-V. Coordinar con las demás unidades administrativas, la formulación del presupuesto de ingresos y egresos, poniéndolo a consideración de la persona titular de la Fiscalía General;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+V. Elaborar, modificar y proponer a la persona titular de la Fiscalía General, el proyecto de presupuesto de egresos del ejercicio fiscal que corresponda, previo a la remisión al Poder Ejecutivo;
 
 VI. Gestionar las solicitudes de ministraciones presupuestales ante las instancias correspondientes, mediante el trámite de documentos de ejecución presupuestaria y pago, así como la emisión de estados financieros de la institución;
 
-VII. Atender y dar seguimiento a las auditorías que se realicen a la Fiscalía General;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VII. Atender, dar seguimiento y cumplir con las disposiciones de las auditorías que se realicen a la Fiscalía General;
 
 VIII. Ejecutar el trámite respecto de cualquier incidencia relativa a la relación entre la Fiscalía General y su personal o que implique una afectación salarial;
 
 IX. Contratar los seguros de vida para el personal de la Fiscalía General;
 
-X. Registrar y controlar los bienes patrimoniales de la Fiscalía General;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XI. Participar en el Comité Interno de Adquisiciones y en los procesos de licitaciones o adjudicaciones de la Fiscalía General;
+X. Administrar, registrar y controlar los bienes patrimoniales de la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XI. Participar en el Comité Interno de Adquisiciones de la Fiscalía General y en los procesos de licitaciones o adjudicaciones de la Fiscalía General;
 
 XII. Coordinar los procesos de adjudicación y contratación de bienes y servicios de conformidad con el Programa Anual de Adquisiciones y la normativa aplicable;
 
-XIII. Definir el catálogo de puestos, los perfiles y requerimientos necesarios para ingresar a la Fiscalía General, previo acuerdo con el titular de la institución;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIII. Proponer el catálogo de puestos, los perfiles y requerimientos necesarios para ingresar a la Fiscalía General, previa autorización de la persona titular de la institución;
 
 XIV. Establecer los lineamientos relativos a la identificación del personal y de control de asistencia;
 
-XV. Administrar la Licencia Oficial Colectiva, así como los materiales y accesorios correspondientes;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XVI. Realizar los trámites correspondientes para el procedimiento de enajenación de los bienes asegurados; y,
+XV. Administrar el armamento y municiones, así como todo lo relativo a la Licencia Oficial Colectiva;
 
-XVII. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XVI. Realizar los trámites correspondientes para el procedimiento de enajenación de los bienes asegurados;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XVII. Realizar los trámites necesarios para la contratación y los cambios de adscripción de personal, previa autorización del Fiscal General;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XVIII. Notificar a la Contraloría la separación o conclusión del empleo, cargo o comisión del personal;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIX. Remitir a la Dirección General Jurídica y de Derechos Humanos para revisión y validación, los proyectos de contratos, convenios u otros instrumentos jurídicos de cualquier materia a suscribirse por parte de la Fiscalía General y su titular;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XX. Proponer a la persona titular de la Fiscalía General, la celebración de convenios con las instancias de seguridad social competentes en materia de prestaciones laborales, remuneraciones y erogaciones, relacionadas con el personal de la institución;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XXI. Proponer a la persona titular de la Fiscalía General, los proyectos de lineamientos y demás normativa interna aplicable en el ámbito de competencia de la Dirección General de Administración;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XXII. Proponer a la persona titular de la Fiscalía General los lineamientos para el cobro de multas y sanciones pecuniarias, impuestas por las autoridades competentes, en términos de la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XXIII. Informar a la autoridad correspondiente en materia del registro federal de armas de fuego y control de explosivos, el armamento perdido, robado o extraviado, para los efectos correspondientes; y,
+
+XXIV. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
 
 ###### ARTÍCULO 102.
 
@@ -2252,7 +3188,7 @@ La Dirección General de Administración cuenta con enlaces en las unidades admi
 
 Lo anterior no implica que la persona titular de la Dirección General de Administración pierda el mando directo en cuanto superior jerárquico y coordinador de cada uno de ellos.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE SERVICIOS AÉREOS
+#### SECCIÓN I. DE LA DIRECCIÓN DE RECURSOS FINANCIEROS
 
 ###### ARTÍCULO 103.
 
@@ -2286,7 +3222,7 @@ XIII. Generar el cálculo de las obligaciones fiscales y ejecutar el cumplimient
 
 XIV. Resguardar y conservar, por el plazo que establezca la normativa aplicable, los registros, informes, documentos y demás comprobantes de las operaciones financieras.
 
-#### SECCIÓN V. DIRECCIÓN DE INFRAESTRUCURA Y SERVICIOS GENERALES
+#### SECCIÓN II. DE LA DIRECCIÓN DE RECURSOS HUMANOS
 
 ###### ARTÍCULO 104.
 
@@ -2298,7 +3234,9 @@ II. Llevar a cabo los procedimientos de contratación del personal, en coordinac
 
 III. Conducir la integración del proyecto del presupuesto anual de servicios personales de la institución, así como dictar los mecanismos de ejercicio presupuestal en la materia;
 
-IV. Establecer mecanismos estratégicos de control para administrar las plazas de la Fiscalía General;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+IV. Establecer mecanismos estratégicos de control para administrar los puestos de la Fiscalía General;
 
 V. Llevar a cabo los trámites correspondientes para los movimientos de altas, bajas, promociones y demás incidencias del personal de la Fiscalía General;
 
@@ -2314,11 +3252,27 @@ X. Coordinar las actividades relativas al control de asistencia del personal, va
 
 XI. Elaborar las nóminas de pago al personal de la Fiscalía General, así como el cumplimiento de las obligaciones que de ello se deriven;
 
-XII. Organizar y mantener actualizado el archivo del personal de la institución; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XIII. Expedir constancias al personal de la institución cuando exista mandamiento de autoridad competente, cuando resulte necesaria para el ejercicio de un derecho o el cumplimiento de obligaciones previstas por la Ley.
+XII. Organizar y mantener actualizado el archivo del personal de la institución;
 
-#### SECCIÓN VI. DE LA DIRECCIÓN DE REGISTRO Y CONTROL DE BIENES ASEGURADOS
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIII. Expedir constancias al personal de la institución cuando exista mandamiento de autoridad competente, cuando resulte necesaria para el ejercicio de un derecho o el cumplimiento de obligaciones previstas por la Ley;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIV. Realizar los trámites requeridos por las instancias de seguridad social competentes, en cumplimiento a la suscripción de convenios en materia de prestaciones laborales, remuneraciones y erogaciones relacionadas con el personal de la institución;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XV. Atender las incidencias que le comunique la Coordinación de Previsión y Salud; y,
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XVI. Llevar a cabo los trámites de las prestaciones y servicios de seguridad social del personal, ante las instituciones correspondientes.
+
+#### SECCIÓN III. DE LA DIRECCIÓN DE RECURSOS MATERIALES
 
 ###### ARTÍCULO 105.
 
@@ -2330,7 +3284,9 @@ II. Llevar a cabo las adjudicaciones directas y contratación de bienes inventar
 
 III. Suministrar a las unidades administrativas de la institución bienes muebles y de consumo, de acuerdo con la disponibilidad material y presupuestal;
 
-IV. Coadyuvar con el Comité Interno de Adquisiciones en los procesos de licitación o adjudicación de bienes inventariables y de consumo, así como de contratación de servicios especializados;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+IV. Coadyuvar con el Comité Interno de Adquisiciones de la Fiscalía General en los procesos de licitación o adjudicación de bienes inventariables y de consumo, así como de contratación de servicios especializados;
 
 V. Coordinar los procedimientos para la adquisición de armamento, municiones y material, ante la autoridad competente;
 
@@ -2340,25 +3296,29 @@ VII. Coordinar la recepción, registro, almacenamiento, conservación y mantenim
 
 VIII. Asignar y resguardar las armas y municiones necesarias para el desarrollo de las funciones sustantivas de la institución;
 
-IX. Realizar los procedimientos para el alta y baja de armamento de la Licencia Oficial Colectiva, ante la autoridad competente;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+IX. Comunicar a la Dirección de Patrimonio, Infraestructura y Servicios Generales, los procedimientos que realice para el alta y baja de armamento de la Licencia Oficial Colectiva, ante la autoridad competente;
 
 X. Proponer a la persona titular de la Dirección General de Administración los lineamientos y requerimientos necesarios para la asignación del armamento y vehículos al personal de la institución;
 
-XI. Llevar a cabo los trámites necesarios para la contratación de seguros para los bienes patrimoniales propiedad de la Fiscalía General;
+XI. (DEROGADA, P.O. 21 DE JUNIO DE 2021)
 
 XII. Efectuar las acciones de recepción, registro, almacenamiento, suministro y control oportuno de los bienes inventariables y de consumo;
 
 XIII. Realizar los trámites necesarios para el pago a proveedores ante la Dirección de Recursos Financieros;
 
-XIV. Realizar la actualización de los inventarios y resguardos de bienes patrimoniales, en coordinación con los enlaces de las unidades administrativas;
+XIV. (DEROGADA, P.O. 21 DE JUNIO DE 2021)
 
-XV. Realizar las altas y bajas de los bienes patrimoniales de la institución;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XV. Comunicar a la Dirección de Patrimonio, Infraestructura y Servicios Generales la adquisición de recursos materiales y bienes patrimoniales de la institución;
 
 XVI. Proporcionar mantenimiento preventivo y correctivo al parque vehicular de la institución; y,
 
 XVII. Realizar ante las aseguradoras, los trámites relacionados con la reparación o indemnización del parque vehicular de la institución.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE CAPACITACIÓN
+#### SECCIÓN IV. DE LA DIRECCIÓN DE SERVICIOS AÉREOS
 
 ###### ARTÍCULO 106.
 
@@ -2386,11 +3346,15 @@ X. Someter a la autorización de la Dirección General de Administración, los r
 
 XI. Realizar trámites ante la Dirección General de Aeronáutica Civil y otras instancias.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE SERVICIO PROFESIONAL DE CARRERA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2021)</small>
+
+#### SECCIÓN V. DIRECCIÓN DE PATRIMONIO, INFRAESTRUCTURA Y SERVICIOS GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 107.
 
-La Dirección de Infraestructura y Servicios Generales, tiene las atribuciones siguientes:
+La Dirección de Patrimonio, Infraestructura y Servicios Generales, es la unidad administrativa responsable del control del patrimonio de la Fiscalía General, con las atribuciones siguientes:
 
 I. Proponer a la persona titular de la Dirección General de Administración los lineamientos técnicos y administrativos, necesarios para el desarrollo de proyectos y la contratación de servicios en materia de infraestructura;
 
@@ -2402,45 +3366,117 @@ IV. Proponer a la persona titular de la Dirección General de Administración la
 
 V. Coordinar las acciones necesarias para el arrendamiento de inmuebles, así como para el seguimiento de los contratos derivados de ello;
 
-VI. Supervisar la correcta ejecución de los proyectos de obra contratados en materia de infraestructura; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-VII. Realizar las labores de mantenimiento, conservación y, en su caso, reparación de los edificios, maquinaria, mobiliario y equipo al servicio de la Fiscalía General.
+VI. Supervisar la correcta ejecución de los proyectos de obra contratados en materia de infraestructura;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VII. Realizar las labores de mantenimiento, conservación y, en su caso, reparación de los edificios, maquinaria, mobiliario y equipo al servicio de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VIII. Administrar el sistema de inventarios del patrimonio de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+IX. Realizar las altas y bajas de los bienes patrimoniales;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+X. Elaborar y mantener actualizado el Registro de Bienes Patrimoniales;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XI. Administrar los bienes propiedad de la Fiscalía General cuando no se encuentren en uso o asignados a alguna unidad administrativa;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XII. Llevar a cabo las gestiones legales para la regularización y registro de bienes ante las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIII. Ejecutar el procedimiento de desincorporación de los bienes inmuebles, previa autorización de la persona titular de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIV. Participar en el procedimiento para el destino final de los bienes muebles propiedad de la Fiscalía General, de conformidad con la normativa;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XV. Llevar a cabo los trámites necesarios para la contratación de seguros para los bienes patrimoniales propiedad de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XVI. Atender los requerimientos en materia de servicios generales que soliciten las unidades administrativas;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XVII. Gestionar ante las autoridades de los tres órdenes de gobierno, el mejoramiento de la imagen urbana y de los servicios públicos, en el perímetro donde se encuentren las unidades administrativas de la institución;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XVIII. Realizar la actualización de los inventarios y resguardos de bienes patrimoniales, en coordinación con los enlaces administrativos;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XIX. Administrar la adquisición y distribución de gasolina del parque vehicular y combustible de las aeronaves de la institución; y,
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+XX. Establecer la coordinación necesaria con las unidades administrativas de la institución, para llevar a cabo la depuración, y en su caso, reutilización de los bienes muebles de la Fiscalía General.
+
+#### SECCIÓN VI. DE LA DIRECCIÓN DE REGISTRO Y CONTROL DE BIENES ASEGURADOS
+
+> <small>[N. DE E. DE CONFORMIDAD CON LA REFORMA PUBLICADA EN EL P.O. DE 21 DE JUNIO DE 2021 EN EL PRESENTE ARTÍCULO FUERON PUBLICADAS ÚNICAMENTE DE LAS FRACCIONES I A LA IX, VEANSE PAGINAS 20 Y 21]</small>
 
 ###### ARTÍCULO 108.
 
 La Dirección de Registro y Control de Bienes Asegurados, tiene las atribuciones siguientes:
 
-I. Recibir, registrar y clasificar los bienes y objetos remitidos para su resguardo, relacionados con algún hecho delictuoso y de los cuales el Ministerio Público haya ordenado su aseguramiento, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-II. Requerir a los agentes del Ministerio Público y a la Unidad Técnica de Preservación y Manejo de Evidencias, los informes sobre los bienes asegurados relacionados con las investigaciones, su estado, situación jurídica, la documentación vinculada a los mismos y demás información necesaria para el debido ejercicio de sus funciones;
+I. Administrar y resguardar de manera provisional los bienes asegurados, sus accesorios y aprovechamientos, hasta en tanto la autoridad competente instruya su entrega formal o se resuelva el destino final de los mismos;
 
-III. Realizar los trámites correspondientes para la declaración de abandono de los bienes asegurados a favor del Fondo Auxiliar de la Fiscalía General;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-IV. Resguardar de manera provisional los bienes asegurados, hasta en tanto la autoridad resguardante instruya su entrega formal o se resuelva el destino final de los mismos;
+II. Administrar el Registro Único de Bienes Asegurados, en coordinación con la Dirección General de Tecnologías;
 
-V. Realizar la entrega de los bienes asegurados cuando le sea requerida, previos requisitos de Ley;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-VI. Coordinar las acciones necesarias para que, en los casos autorizados por el Ministerio Público, se lleve a cabo la destrucción de aquellos bienes que sean de mantenimiento incosteable, o de peligrosidad para conservación, previo cumplimiento de las disposiciones legales correspondientes;
+III. Registrar en el sistema informático el ingreso y egreso de los bienes asegurados;
 
-VII. Coordinarse con el Ministerio Público para determinar el destino final de los bienes asegurados que se encuentran bajo su resguardo, una vez que hayan causado abandono;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-VIII. Administrar los depósitos vehiculares de la Fiscalía General, llevando a cabo las acciones correspondientes para su óptimo aprovechamiento;
+IV. Coordinarse con la Unidad Técnica de Preservación y Manejo de Evidencias para recibir, registrar y organizar los bienes, así como sus accesorios, que por sus dimensiones son remitidos para su resguardo;
 
-IX. Solicitar a la unidad administrativa correspondiente la información necesaria para la devolución de vehículos recuperados;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-X. Administrar la información sobre los vehículos recuperados y ser el vínculo con la ciudadanía para su devolución;
+V. Proponer a la persona titular de la Dirección General de Administración, los procedimientos para la recepción, registro, control, y salida de los bienes asegurados de conformidad con la normativa aplicable;
 
-XI. Atender las devoluciones de los bienes asegurados a las personas que legítimamente acrediten la propiedad o posesión, cuando la autoridad competente así lo determine;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XII. Establecer y operar los sistemas informáticos necesarios para el control de los bienes asegurados, en coordinación con la Dirección General de Tecnologías;
+VI. Atender el destino final que determine el Ministerio Público de los bienes asegurados;
 
-XIII. Proponer a la persona titular de la Dirección General de Administración, los procedimientos y formatos para la recepción, registro, control, resguardo, conservación y supervisión de los bienes asegurados;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XIV. Fungir como enlace de la Fiscalía General con las autoridades competentes en materia de administración o registro de bienes asegurados y decomisados;
+VII. Proponer a la persona titular de la Dirección General de Administración, las acciones necesarias para la conservación y mejoras de los depósitos vehiculares de la Fiscalía General;
 
-XV. Supervisar de manera periódica los depósitos vehiculares y de bienes asegurados de la Fiscalía General; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-XVI. Participar en los procedimientos de enajenación de bienes declarados en abandono.
+VIII. Proponer a la persona titular de la Dirección General de Administración, los mecanismos para la depuración de los bienes muebles, por lo menos dos veces al año; y,
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+IX. Supervisar de manera periódica los depósitos vehiculares y de bienes asegurados de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 108 Bis.
+
+La Dirección de Registro y Control de Bienes Asegurados, es la unidad administrativa responsable de recibir, registrar, administrar y resguardar todos aquellos bienes muebles e inmuebles de los cuales el Ministerio Público haya ordenado su aseguramiento.
+
+La Dirección de Registro y Control de Bienes Asegurados y la Unidad Técnica de Preservación y Manejo de Evidencias, se deben coordinar para el cumplimiento estricto de sus atribuciones en el marco de su competencia.
 
 ### CAPÍTULO IV. DEL INSTITUTO DE CAPACITACIÓN Y SERVICIO PROFESIONAL DE CARRERA
 
@@ -2468,11 +3504,19 @@ VII. Desarrollar e implementar el Programa Anual de Capacitación y Profesionali
 
 VIII. Rendir el informe de resultados obtenidos en el Programa Anual de Capacitación y Profesionalización, así como aquellos que le sean requeridos de manera periódica por la persona titular de la Fiscalía General;
 
-IX. Proponer a la persona titular de la Fiscalía General el proyecto de Reglamento del Servicio Profesional de Carrera, así como los instrumentos jurídicos necesarios para su implementación y desarrollo; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-X. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+IX. Proponer a la persona titular de la Fiscalía General el proyecto de Reglamento del Servicio Profesional de Carrera, así como los instrumentos jurídicos necesarios para su implementación y desarrollo;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+X. Ejecutar las directrices que expida la persona titular de la Fiscalía General para la promoción, fomento de los valores cívicos y culturales; y,
+
+XI. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
 
 La información recabada con motivo de los procedimientos de selección, ingreso y permanencia es de carácter reservado, en términos de las leyes en materia de transparencia y protección de datos personales.
+
+#### SECCIÓN I. DE LA DIRECCIÓN DE CAPACITACIÓN
 
 ###### ARTÍCULO 111.
 
@@ -2496,6 +3540,8 @@ VIII. Certificar y validar los cursos de instructores internos, así como promov
 
 IX. Evaluar los cursos e instructores para elevar la calidad de las capacitaciones.
 
+#### SECCIÓN II. DE LA DIRECCIÓN DE SERVICIO PROFESIONAL DE CARRERA
+
 ###### ARTÍCULO 112.
 
 La Dirección de Servicio Profesional de Carrera, tiene las atribuciones siguientes:
@@ -2506,7 +3552,9 @@ II. Llevar a cabo el diseño y actualización de las políticas y normas para el
 
 III. Proponer a la persona titular de la Dirección General del Instituto de Capacitación y Servicio Profesional de Carrera, las políticas y lineamientos sobre el Servicio Profesional de Carrera y promover su cumplimiento;
 
-IV. Proponer y gestionar los exámenes de control y confianza, para aspirantes a ingresar a los cursos de formación inicial, previo acuerdo con la persona titular de la Dirección General del Instituto de Capacitación y Servicio Profesional de Carrera;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+IV. Proponer y gestionar los exámenes de control y confianza, para aspirantes a ingresar a los cursos de formación inicial, previa autorización de la persona titular de la Dirección General del Instituto de Capacitación y Servicio Profesional de Carrera;
 
 V. Evaluar los resultados obtenidos en el Servicio Profesional de Carrera, así como certificar los procedimientos de ingreso del personal sustantivo;
 
@@ -2534,9 +3582,17 @@ II. Expedir copias certificadas de los documentos que obren en sus archivos, sob
 
 III. Mantener un registro actualizado del personal y particulares sancionados;
 
-IV. Conservar y mantener actualizadas las bases de datos que establezcan las leyes de la materia; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-V. Solicitar a la persona titular de la Fiscalía General la publicación oficial de los instrumentos normativos que rijan las funciones de la Contraloría.
+IV. Conservar y mantener actualizadas las bases de datos que establezcan las leyes de la materia;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+V. Solicitar a la persona titular de la Fiscalía General la publicación oficial de los instrumentos normativos que rijan las funciones de la Contraloría; y,
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VI. Expedir a través de la Dirección de Denuncias y Procedimientos Administrativos, constancias de no inhabilitación.
 
 ### CAPÍTULO I. DE LA DIRECCIÓN DE AUDITORÍA, DECLARACIONES PATRIMONIALES Y NORMATIVIDAD
 
@@ -2592,17 +3648,29 @@ I. Investigar y calificar actos u omisiones que pudieran constituir responsabili
 
 II. Sustanciar los procedimientos de responsabilidad administrativa del personal de la Fiscalía General y particulares vinculados con faltas graves;
 
-III. Elaborar y emitir las resoluciones de los procedimientos administrativos, previo acuerdo con la persona titular de la Contraloría;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+III. Elaborar y emitir las resoluciones de los procedimientos administrativos, previa autorización de la persona titular de la Contraloría;
 
 IV. Supervisar la ejecución y cumplimiento de las resoluciones dictadas dentro de los procedimientos administrativos;
 
 V. Informar a la persona titular de la Contraloría sobre el incumplimiento de las resoluciones emitidas;
 
-VI. Integrar el registro de las sanciones dictadas en los procedimientos administrativos, informando de manera trimestral a la persona titular de la Contraloría;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-VII. Efectuar la defensa jurídica de las resoluciones emitidas por la Contraloría; y,
+VI. Llevar el registro del personal sancionado dentro de los procedimientos administrativos;
 
-VIII. Presentar a la persona titular de la Contraloría un informe trimestral y anual de sus actividades.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VII. Efectuar la defensa jurídica de las resoluciones emitidas por la Contraloría;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+VIII. Presentar a la persona titular de la Contraloría un informe trimestral y anual de sus actividades; y,
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+IX. Expedir las constancias de no inhabilitación del personal que este prestando o haya prestado servicios a la institución.
 
 ## TÍTULO VI. DEL CONSEJO CONSULTIVO DE LA FISCALÍA GENERAL
 
@@ -2756,9 +3824,15 @@ II. Escrito en el que se manifieste la disponibilidad para cambiar de residencia
 
 III. Con excepción de los Policías de Investigación, contar con título debidamente registrado y cédula profesional;
 
-IV. Carta en la que se manifieste conocer y aceptar cumplir con los requisitos de ingreso y permanencia establecidos en la normativa aplicable; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2021)</small>
 
-V. Los demás de carácter administrativo que se determinen por la Dirección de Recursos Humanos.
+IV. Carta en la que se manifieste conocer y aceptar cumplir con los requisitos de ingreso y permanencia establecidos en la normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+
+V. Constancias de no inhabilitación del órgano interno de control del Poder Ejecutivo del Estado de Michoacán de Ocampo y de la Contraloría de la Fiscalía General; y,
+
+VI. Los demás de carácter administrativo que se determinen por la Dirección de Recursos Humanos.
 
 ### CAPÍTULO II. DE LA SEPARACIÓN DE LAS PERSONAS INTEGRANTES DEL SERVICIO PROFESIONAL DE CARRERA
 
@@ -2830,6 +3904,38 @@ La integración, atribuciones y lineamientos para el funcionamiento del Comité 
 
 El ofrecimiento de recompensas se realizará a través de los acuerdos específicos oficiales que al efecto emita la persona titular de la Fiscalía General.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JUNIO DE 2021)</small>
+
+## TÍTULO X. DE LOS TRÁMITES Y SERVICIOS
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 142.
+
+Los trámites y servicios no relacionados con la investigación y persecución de delitos que brinda la Fiscalía General son los siguientes:
+
+I. Carta de no antecedentes penales;
+
+II. Constancia de respuesta;
+
+III. Certificación de no reporte de robo vehicular y no alteración en sus números confidenciales de identificación;
+
+IV. Perfiles genéticos de paternidad;
+
+V. Guardia y custodia de vehículos u objetos asegurados o a resguardo de la Fiscalía General;
+
+VI. Constancia de no inhabilitación;
+
+VII. Reporte de Extravío de Documentos; y,
+
+VIII. Los contemplados en el Catálogo de Trámites y Servicios de la Fiscalía General y registrados en el Catálogo Estatal de Trámites y Servicios.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 143.
+
+En lo relativo a la expedición de la Carta de no antecedentes penales, se atenderá a lo dispuesto en la Ley Nacional de Ejecución Penal, y los requisitos que se establezcan en el Catálogo de Trámites y Servicios de la Fiscalía General.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO. El Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
@@ -2863,3 +3969,33 @@ DÉCIMO SEGUNDO. Las unidades administrativas de la institución contarán con u
 DÉCIMO TERCERO. El Servicio Profesional de Carrera se implementará en los plazos que establezca la persona titular de la Fiscalía General, en el acuerdo que al efecto emita, de conformidad con la normativa aplicable.
 
 DÉCIMO CUARTO. Las unidades administrativas de nueva creación estarán sujetas a la disponibilidad presupuestaria de la institución, sin que ello implique una afectación al ejercicio de sus funciones o el desarrollo de sus atribuciones. (Firmado).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 006/2021 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se Instruye a la persona titular de la Dirección General Jurídica y de Derechos Humanos, realizar las acciones necesarias para la publicación del presente Acuerdo, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Se Instruye a la persona titular de la Dirección General Jurídica y de Derechos Humanos, realizar las acciones necesarias para la publicación del presente Acuerdo administrativo en el Diario Oficial de la Federación, para dar cumplimiento a los artículos 189 y 190 de la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+CUARTO. La persona titular de la Dirección General de Administración, en un término no mayor a 30 días hábiles, realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades administrativas que se crean o modifican, sean transferidos a las nuevas unidades administrativas que correspondan, en los términos del presente Reglamento y de conformidad con las normas aplicables.
+
+QUINTO. Los asuntos que tengan a su cargo las unidades administrativas a que hace referencia el artículo transitorio cuarto, serán entregados para su seguimiento y determinación a las personas titulares de las unidades administrativas que determine la persona titular de la Fiscalía General, a través del acta de entrega recepción que realice la Contraloría.
+
+SEXTO. Se instruye a la persona titular de la Dirección General de Administración, para que realice las previsiones que den suficiencia presupuestal necesarias para el cumplimiento del presente Acuerdo.
+
+Las personas servidoras públicas designadas en los puestos de nueva creación que establecen las reformas de este Acuerdo, serán encargados de despacho hasta en tanto se cuente con la asignación presupuestal.
+
+SÉPTIMO. Se abroga el Acuerdo número 13/2019 que contiene atribuciones para las visitas de supervisión a las unidades administrativas de la Fiscalía General del Estado, publicado el 20 de noviembre de 2019 en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+OCTAVO. Se abroga el Acuerdo número 15/2020, mediante el cual se crea la Coordinación de Previsión y Salud de la Fiscalía General del Estado, publicado el 5 de agosto de 2020 en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+NOVENO. Se instruye a la persona titular de la Policía de Investigación, para que en un plazo no mayor de 30 días de la entrada en vigor del presente Reglamento, comunique al Centro Nacional de Información del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, el cambio de unidad responsable que tiene como atribución administrar el Registro Nacional de Detenciones en la institución.
+
+DÉCIMO. Se instruye a la persona titular de la Subcoordinación de Trámites y Servicios de la Fiscalía Coordinadora, para que elabore y proponga los mecanismos para brindar a la ciudadanía los trámites y servicios no relacionados con la investigación y persecución de los delitos.
+
+DÉCIMO PRIMERO. Se instruye a la persona titular de la Dirección General de Tecnologías de la Información, Planeación y Estadística, para que en un plazo no mayor de 90 días hábiles realice los Sistemas informáticos que se deriven de la publicación del presente Acuerdo.
