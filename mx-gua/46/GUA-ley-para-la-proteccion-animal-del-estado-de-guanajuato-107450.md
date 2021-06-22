@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-animal-del-estado-de-guanajuato-107450"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-21"
-last_updated: "2018-10-10"
+last_updated: "2021-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN ANIMAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE OCTUBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 21 de abril de 2015.
 
@@ -65,7 +63,9 @@ Glosario
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Animales domésticos: los que son criados bajo el control del ser humano, que conviven con él y requieren de éste para su subsistencia, con excepción de los animales en vida silvestre o que se encuentren sujetos a las actividades pecuarias;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+I. Animales domésticos: Los seres sintientes que son criados bajo el control del ser humano, que conviven con él y requieren de éste para su subsistencia, con excepción de los animales en vida silvestre o que se encuentren sujetos a las actividades pecuarias;
 
 II. Animales ferales: las especies domésticas que al quedar fuera del control del hombre, se establecen en el hábitat natural de la vida silvestre;
 
@@ -129,7 +129,9 @@ I. Dictar las disposiciones de carácter reglamentario para la aplicación de la
 
 II. Emitir placas de identificación de animales domésticos, conforme al reglamento municipal de la materia, las que contendrán por lo menos el nombre del animal, su fecha de vacunación antirrábica, así como el nombre y domicilio del propietario;
 
-III. Vigilar que la comercialización de los animales domésticos se realice en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+III. Vigilar que la crianza, comercialización o reproducción de los animales domésticos se realice en lugares autorizados en los términos de la presente Ley y demás disposiciones jurídicas aplicables;
 
 IV. Ordenar la práctica de visitas de inspección y vigilancia con el objeto de verificar que las condiciones en que se encuentran los animales domésticos sean las establecidas por la Ley y sus disposiciones reglamentarias;
 
@@ -172,6 +174,20 @@ Atribución de la Procuraduría Ambiental
 ###### Artículo 8.
 
 La Procuraduría Ambiental y de Ordenamiento Territorial emitirá recomendaciones en materia de fauna silvestre, con el propósito de promover el cumplimiento de la legislación respectiva.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+Obligaciones de las autoridades
+
+###### Artículo 8 Bis.
+
+Son obligaciones en común de las autoridades de la presente Ley, las siguientes:
+
+I. Reconocer a los animales domésticos como seres sintientes por lo que se deberán realizar acciones para su trato adecuado;
+
+II. Establecer medidas para la protección de los animales domésticos incluyendo las conductas prohibidas y sus respectivas sanciones; e
+
+III. Implementar estímulos e incentivos, así como asesoría y asistencia técnica a las personas que brinden albergue y resguardo a los animales domésticos en abandono.
 
 ### CAPÍTULO III. Participación Social
 
@@ -277,17 +293,23 @@ Los ayuntamientos procurarán habilitar en los jardines y parques públicos, esp
 
 #### Sección Primera. Disposiciones comunes
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
 Obligaciones
 
 ###### Artículo 19.
 
-Es obligación de toda persona:
+Son obligaciones de las personas:
 
-I. Proteger a los animales domésticos brindándoles asistencia, auxilio y trato adecuado;
+I. Reconocer a los animales domésticos como seres sintientes y respetar su vida e integridad física;
 
-II. Evitar a los animales domésticos el sufrimiento, lesiones, actos de crueldad y maltrato; y
+II. Proteger a los animales brindándoles asistencia, auxilio y trato adecuado;
 
-III. Denunciar, ante las autoridades correspondientes, cualquier irregularidad o violación a la presente Ley.
+III. Evitar a los animales el sufrimiento, lesiones, tortura, actos de crueldad o maltrato;
+
+IV. Participar en la cultura de cuidado, trato adecuado y responsable de los animales; y
+
+V. Denunciar ante las autoridades correspondientes cualquier irregularidad o violación a la presente Ley.
 
 Sacrificio en la vía pública
 
@@ -397,11 +419,15 @@ IV. El uso de animales domésticos en la prestación de servicios de seguridad p
 
 V. El entrenamiento de animales domésticos para defensa u obediencia bajo cualquier modalidad.
 
-Lugares de cautiverio o compartimiento
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+Lugares de resguardo
 
 ###### Artículo 31.
 
-Los lugares de cautiverio o compartimiento de locales o cualquiera otro lugar para el albergue de animales domésticos deberán contar con las dimensiones necesarias que les permitan libertad de movimiento seguridad e higiene, y con otras condiciones para su desarrollo.
+Los lugares de cautiverio, compartimiento de locales, instalaciones o cualquier lugar que albergue o resguarde animales domésticos deberán contar con espacios limpios y adecuados que permitan la libertad de movimiento, el descanso, la seguridad y bienestar de los animales.
+
+Deberán contar también con los medios adecuados para procurarles agua limpia, alimentos y condiciones sol y sombra para su salud y vigor físico.
 
 Ficha clínica
 
@@ -434,6 +460,10 @@ Coordinación
 ###### Artículo 35.
 
 Las autoridades municipales podrán coordinarse con las autoridades estatales a fin de promover la instalación de sitios adecuados para la comercialización legal de los animales domésticos en el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+En el caso de perros y gatos sólo se permitirá la crianza, comercialización o reproducción en lugares autorizados de conformidad con esta Ley y demás disposiciones aplicables.
 
 #### Sección Quinta. Entrenamiento de animales domésticos
 
@@ -763,7 +793,15 @@ II. Amonestación por escrito; y
 
 III. Multa por el equivalente de una a doscientas veces la Unidad de Medida y Actualización diaria vigente al momento de imponer la sanción.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+La persona que intencionalmente realice actos de crueldad o maltrato en contra de algún animal doméstico se le impondrá una multa por el equivalente de cincuenta a doscientas veces la Unidad de Medida y Actualización diaria vigente al momento de imponer la sanción.
+
 En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+IV. Clausura de instalaciones.
 
 Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de un año, contado a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción.
 
@@ -862,3 +900,19 @@ Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como 
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 322 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN ANIMAL DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Adecuaciones a disposiciones municipales
+
+Artículo Segundo. Los ayuntamientos contarán con un plazo de ciento ochenta días posteriores a la entrada en vigor del presente Decreto para adecuar sus reglamentos y demás disposiciones, en congruencia con el mismo.
+
+Previsiones presupuestales
+
+Artículo Tercero. Los ayuntamientos deberán considerar las previsiones presupuestales para el cumplimiento del presente Decreto.
