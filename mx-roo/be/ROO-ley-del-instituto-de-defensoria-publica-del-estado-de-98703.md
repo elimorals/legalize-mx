@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-instituto-de-defensoria-publica-del-estado-de-98703"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-22"
-last_updated: "2013-11-22"
+last_updated: "2021-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 22 de noviembre de 2013.
 
@@ -43,9 +43,11 @@ LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, y tiene por objeto regular la prestación del servicio de defensoría pública gratuita en asuntos del fuero común, a fin de garantizar el derecho a la defensa adecuada y de calidad para la población en materia penal y de justicia para adolescentes; así como garantizar el acceso a la justicia, mediante la orientación, asesoría y/o representación jurídica en asuntos de carácter civil, familiar, mercantil y administrativo. Tratándose de asuntos de carácter administrativo se estará a lo establecido en el artículo 34 de esta ley.
+La presente Ley es de orden público, y tiene por objeto regular la prestación del servicio de defensoría pública gratuita en asuntos del fuero común, a fin de garantizar el derecho a la defensa adecuada y de calidad para la población en materia penal y de justicia para adolescentes; así como garantizar el acceso a la justicia, mediante la orientación, asesoría y/o representación jurídica en asuntos de carácter civil, familiar, mercantil, administrativo y laboral. Tratándose de asuntos de carácter administrativo se estará a lo establecido en el artículo 34 de esta ley.
 
 ###### Artículo 2.
 
@@ -123,7 +125,9 @@ IX.- Gestor: Servidor Público encargado de asistir y orientar de modo técnico 
 
 X.- Defensor Público: Servidor Público que presta el servicio de defensoría pública en asuntos de carácter penal, y los especializados en justicia para adolescentes. Así como la asistencia en materia administrativa en los términos de esta ley;
 
-XI.- Asistente jurídico: Servidor Público que presta el servicio de orientación, asesoría y/o representación jurídica en los asuntos de carácter civil, familiar y mercantil;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+XI.- Asistente jurídico: Servidor Público que presta el servicio de orientación, asesoría y/o representación jurídica, según corresponda, en los asuntos de carácter civil, familiar, mercantil y laboral;
 
 XII.- Zona: Demarcación territorial en que divide el Consejo de la Judicatura el territorio del Estado y que puede abarcar uno o más Distritos Judiciales, donde ejercen su competencia territorial los Coordinadores Generales de Zona; y
 
@@ -173,7 +177,9 @@ II.- Gestores, que será el personal encargado de hacer la revisión de carácte
 
 III.- Defensores Públicos en asuntos del orden penal del Fuero Común, de justicia para adolescentes y en los delitos contra la salud en su modalidad de narcomenudeo que contemplan los artículos 474, 475, 476 y 477 de la Ley General de Salud y relativos del Código Penal Federal, cuando sean competentes las autoridades de procuración e impartición de justicia, así como de ejecución de penas y medidas de seguridad del Estado, desde la averiguación previa o la etapa preliminar, hasta la ejecución de las penas; y justicia para adolescentes. Así como asistencia en materia administrativa en los términos de esta ley; y
 
-IV.- Asistentes Jurídicos en asuntos del orden civil, mercantil y familiar.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE JUNIO DE 2021)</small>
+
+IV.- Asistentes Jurídicos en asuntos del orden civil, mercantil, familiar y laboral.
 
 Las Coordinaciones y el personal a que hacen referencia las fracciones II, III, IV, V, VI, XI, XII y XIII del artículo 5, serán establecidas conforme a las necesidades del servicio, de acuerdo a los lineamientos y criterios administrativos y de suficiencia presupuestal, que en su caso sean expedidos por el Consejo de la Judicatura.
 
@@ -275,7 +281,9 @@ XVI.- Gestionar ante la autoridad competente lo relativo a las ausencias tempora
 
 XVII.- Realizar reuniones periódicas con el personal de las Coordinaciones a efecto de conocer la problemática real en materia de necesidades del servicio, calendarizando actividades y estrategias para la solución de la misma;
 
-XVIII.- Informar al Consejo de la Judicatura, las demoras o irregularidades observadas en la tramitación de los negocios penales, civiles o familiares que atiendan, señalando las causas;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+XVIII.- Informar al Consejo de la Judicatura, las demoras o irregularidades observadas en la tramitación de los negocios penales, civiles, familiares o laborales que atiendan, señalando las causas;
 
 XIX.- Dirigir las bases generales de funcionamiento, disponiendo lo conducente para el estricto cumplimiento de la presente Ley y Reglamentación secundaria;
 
@@ -485,7 +493,9 @@ Los Defensores Públicos y Asistentes Jurídicos, serán los encargados de brind
 
 I.- Sectores Ministeriales;
 
-II.- Juzgados de Paz, Juzgados de Primera Instancia: Civiles, Familiares, Mercantiles, Penales del Sistema Tradicional, de Control, Tribunales de Juicio Oral y de Ejecución de Sentencias;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+II.- Juzgados de Paz, Juzgados de Primera Instancia: Civiles, Familiares, Mercantiles, Penales del Sistema Tradicional, de Control, Tribunales de Juicio Oral y de Ejecución de Sentencias; así como Tribunales Laborales;
 
 III.- Salas del Tribunal Superior de Justicia;
 
@@ -591,17 +601,23 @@ VI.- Promover soluciones o formas alternativas al proceso, así como los procedi
 
 VII.- Realizar todos los trámites o gestiones necesarios para una defensa eficaz.
 
-#### SECCIÓN III. DE LA ASISTENCIA EN MATERIA CIVIL, FAMILIAR, MERCANTIL Y ADMINISTRATIVA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2021)</small>
+
+#### SECCIÓN III. DE LA ASISTENCIA EN MATERIA CIVIL, FAMILIAR, MERCANTIL Y LABORAL
 
 ###### Artículo 28.
 
 Para gozar de los servicios de defensa en las materias civil, familiar, y mercantil, se aplicarán los estudios de condición social y económica, a través de las entrevistas que para tal efecto elabore el Instituto, y se deberá cumplir con los requisitos previstos en las bases generales de organización y funcionamiento.
 
-El servicio de Asistencia legal incluirá el trámite de asuntos que no implique litigio o controversia de derechos, siempre y cuando se refiera a casos de estricta necesidad.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+El servicio de Asistencia legal de las materias civil, familiar, mercantil y laboral, incluirá el trámite de asuntos que no implique litigio o controversia de derechos, siempre y cuando se refiera a casos de estricta necesidad.
 
 La asignación del Asistente Jurídico será por turno cuando exista más de uno.
 
-En caso de que los servicios de asistencia legal civil, familiar y mercantil sean solicitados por partes contrarias o con intereses opuestos, se prestará a quien tenga mayor necesidad en el servicio, en términos del artículo siguiente.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+En caso de que los servicios de asistencia legal civil, familiar, mercantil y laboral sean solicitados por partes contrarias o con intereses opuestos, se prestará a quien tenga mayor necesidad en el servicio, en términos del artículo siguiente.
 
 ###### Artículo 29.
 
@@ -1021,9 +1037,11 @@ b) La remoción o suspensión definitiva del cargo, emitida por la instancia com
 
 ### CAPÍTULO NOVENO. DE LA CAPACITACIÓN
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
 ###### Artículo 56.
 
-De conformidad con lo dispuesto en la Ley Orgánica, la capacitación del personal del Instituto, estará a cargo de la Escuela Judicial, mediante cursos, seminarios, conferencias y foros sobre aspectos técnicos, profesionales y prácticos que serán impartidos por especialistas en las diversas áreas del derecho penal, civil, familiar, y ciencias auxiliares.
+De conformidad con lo dispuesto en la Ley Orgánica, la capacitación del personal del Instituto, estará a cargo de la Escuela Judicial, mediante cursos, seminarios, conferencias y foros sobre aspectos técnicos, profesionales y prácticos que serán impartidos por especialistas en las diversas áreas del derecho penal, civil, familiar, mercantil, administrativo, para la asistencia a que refiere el artículo 34 de esta ley, y laboral, así como sus ciencias auxiliares.
 
 ###### Artículo 57.
 
@@ -1064,3 +1082,47 @@ EL SECRETARIO DE GOBIERNO
 DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MEDICUTI LORÍA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 125 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE QUINTANA ROO Y POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO Y DE LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo no mayor de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, la persona Titular del Ejecutivo Estatal designará a la persona Titular de la Dirección General del Centro de Conciliación Laboral del Estado de Quintana Roo.
+
+TERCERO. En un plazo no mayor de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, la Secretaría de la Contraloría del Estado, a través de su Titular, designará a la persona servidora pública Titular del Órgano de Vigilancia y a la persona servidora pública Titular del Órgano Interno de Control ambas del Centro de Conciliación Laboral del Estado de Quintana Roo.
+
+CUARTO. La persona Titular de la Secretaría del Trabajo y Previsión Social, convocará a la instalación y primera sesión ordinaria del Órgano de Gobierno del Centro de Conciliación Laboral del Estado de Quintana Roo, dentro de los noventa días naturales siguientes a la fecha de designación de la Persona Titular de la Dirección General del Centro de Conciliación Laboral del Estado de Quintana Roo.
+
+En esta primera sesión, deberá expedirse el Reglamento Interior, así como los lineamientos y manuales para la implementación del Servicio Profesional de Carrera, ambos del Centro de Conciliación Laboral del Estado de Quintana Roo.
+
+QUINTO. Los procedimientos que se encuentren en trámite ante la Secretaría de Trabajo y Previsión Social y las Juntas de Conciliación y Arbitraje local, serán concluidos por éstas de conformidad con las disposiciones vigentes al momento de su inicio.
+
+SEXTO. El Centro de Conciliación Laboral del Estado de Quintana Roo no admitirá a trámite solicitudes de audiencia de conciliación o emplazamientos respecto de procedimientos que se estén sustanciando ante la Junta de Conciliación y Arbitraje, incluyendo los de ejecución, por lo que se archivarán dichas solicitudes.
+
+SÉPTIMO. En la implementación de las disposiciones a que se refiere el presente Decreto y en lo sucesivo, las autoridades conciliadoras en materia laboral deberán incorporar en sus programas de formación y capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de derechos humanos a personas en situación de vulnerabilidad.
+
+OCTAVO. La Secretaría del Trabajo y Previsión Social del Estado de Quintana Roo, llevará a cabo las gestiones necesarias a efecto de que el Centro de Conciliación Laboral del Estado de Quintana Roo cuente con los recursos necesarios para el inicio de su operación.
+
+NOVENO. El Centro de Conciliación Laboral del Estado de Quintana Roo y los Tribunales Laborales del Estado iniciarán operaciones en la misma fecha, conforme a las disposiciones previstas en el presente Decreto.
+
+DÉCIMO. En la primera designación que se haga con motivo de la presente reforma, las convocatorias a concurso para la selección de Jueces Laborales, así como los exámenes de aptitud para el resto de las categorías de la carrera judicial para los Tribunales en la materia, en su caso, serán de carácter público y abierto.
+
+Para tal efecto, por única ocasión en la primera designación que se haga con motivo de la presente reforma, los jueces que integran el Comité de Selección a que hace referencia el artículo 118 de la Ley Orgánica del Poder Judicial, serán invitados por el Presidente del Consejo de la Judicatura, de entre las entidades federativas en las que ya se encuentre en operación el nuevo sistema de justicia laboral. El Pleno del Consejo de la Judicatura resolverá las circunstancias no previstas para la integración del Comité de Selección para los concursos de oposición para acceder al cargo de Juez Laboral.
+
+El Consejo de la Judicatura deberá realizar las adecuaciones normativas para armonizar lo dispuesto en el artículo 118 de la Ley Orgánica del Poder Judicial del Estado.
+
+DÉCIMO PRIMERO. De conformidad con la capacidad presupuestal y recursos humanos e informáticos del Poder Judicial, el Consejo de la Judicatura realizará las acciones conducentes para implementar las herramientas necesarias para el funcionamiento del sistema de justicia laboral.
+
+El Consejo de la Judicatura deberá realizar las acciones necesarias para contar con asistentes jurídicos capacitados con antelación a la entrada en operaciones de los Tribunales Laborales.
+
+DÉCIMO SEGUNDO. La Legislatura del Estado emitirá la Declaratoria de entrada en funciones de los Tribunales Laborales y el Centro de Conciliación Laboral del Estado de Quintana Roo a más tardar el treinta de septiembre de dos mil veintiuno, previa solicitud que al efecto emita el Consejo de la Judicatura, por conducto de su Presidente.
+
+La Declaratoria deberá publicarse en el Periódico Oficial del Estado de Quintana Roo.
+
+DÉCIMO TERCERO. El Poder Ejecutivo y el Poder Legislativo del Estado de Quintana Roo, realizarán las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros que permitan el cumplimiento del presente Decreto.
+
+DÉCIMO CUARTO. Se derogan las disposiciones legales que se opongan al presente decreto.
