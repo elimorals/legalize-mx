@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2020-10-16"
+last_updated: "2021-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -8273,7 +8273,9 @@ ART. 2307.- Lo dispuesto en el artículo 2295 es aplicable a los aperos de la fi
 
 ### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
-ART. 2308.- Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+ART. 2308.- Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con treinta días de anticipación si el predio es urbano, y con un año si es rústico.
 
 ART. 2309.- Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2286, 2287 y 2288.
 
@@ -10590,3 +10592,11 @@ P.O. 16 DE OCTUBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1194.- SE REFORMA EL ARTÍCULO 2308, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
