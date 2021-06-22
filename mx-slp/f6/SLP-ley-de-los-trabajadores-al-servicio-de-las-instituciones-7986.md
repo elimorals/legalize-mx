@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2021-05-22"
+last_updated: "2021-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -997,17 +997,13 @@ II.- (DEROGADA, P.O. 20 DE AGOSTO DE 2020)
 
 III.- (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-IV. Haber cursado la educación superior, con una carrera afín a esta función.
+IV. Ser licenciado en derecho o abogado; en el caso del Presidente del Tribunal con una experiencia de cinco años en el ejercicio de una de estas profesiones.
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2020)</small>
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 22 DE JUNIO DE 2021)</small>
 
-El Presidente deberá tener título de Licenciado en Derecho o abogado, con una antigüedad mínima de cinco años de ejercicio profesional y amplia experiencia en derecho laboral.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2020)</small>
-
-Los demás miembros del Tribunal deberán ser Licenciados en Derecho o abogados.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 22 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 106.
 
@@ -2172,3 +2168,11 @@ P.O. 22 DE MAYO DE 2021.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1197.- SE REFORMA EL ARTÍCULO 105 EN SU FRACCIÓN IV; Y DEROGA DEL MISMO ARTÍCULO 105 LOS PÁRRAFOS, PENÚLTIMO Y ÚLTIMO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
