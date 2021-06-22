@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-establece-el-deposito-legal-para-la-preservacion-21375"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-04"
-last_updated: "2018-05-15"
+last_updated: "2021-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY QUE ESTABLECE EL DEPOSITO LEGAL PARA LA PRESERVACION DEL PATRIMONIO BIBLIOGRAFICO Y DOCUMENTAL DEL ESTADO DE SAN LUIS POTOSI
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2021.
 
 TEXTO ORIGINAL.
 
@@ -49,9 +49,11 @@ La presente Ley tiene por objeto la integración y conservación del patrimonio 
 
 Para los efectos del artículo anterior, los autores, editores y productores de los materiales señalados en la presente Ley, en el Estado de San Luis Potosí, estarán obligados a integrar el patrimonio bibliográfico y documental estatal, con el depósito legal de ejemplares de sus obras.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 3.
 
-Se dará cumplimiento con el depósito legal, con la entrega de cuando menos dos ejemplares de cada edición o producción de materiales de interés general, divulgación pública y contenido social, cultural, artístico, científico y tecnológico a la Colección de Bibliografía Potosina de la Biblioteca Pública de la Universidad Autónoma de San Luis Potosí, que para tales fines y efectos, se establece como depositaria legal.
+Se dará cumplimiento con el depósito legal, con la entrega de cuando menos dos ejemplares de cada edición o producción de materiales de interés general, divulgación publica y contenido social, cultural, artístico, científico y tecnológico a la Colección de Bibliografía Potosina del Centro de Documentación Histórica “Lic. Rafael Montejano y Aguiñaga” de la Universidad Autónoma de San Luis Potosí, que para tales fines y efectos, se establece como depositaria legal.
 
 ###### ARTICULO 4.
 
@@ -73,9 +75,11 @@ I.- Entregar el material en los términos establecidos para ello, y.
 
 II.- Presentar una relación anual de sus obras publicadas o editadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 7.
 
-La Biblioteca Pública de la Universidad Autónoma de San Luis Potosí en la recepción de los materiales objeto del depósito legal, deberá:
+El Centro de Documentación Histórica “Lic. Rafael Montejano y Aguiñaga” de la Universidad Autónoma de San Luis Potosí, en la recepción de los materiales objeto del depósito legal, deberá:
 
 I.- Expedir constancia que acredite la entrega y conservar asiento del depósito, con copias a la Secretaría de Educación del Gobierno del Estado.
 
@@ -125,9 +129,11 @@ Los autores, editores y productores que incumplan con la obligación del depósi
 
 El pago de la multa por el incumplimiento de la entrega, no releva al infractor de su obligación de contribuir al depósito legal con el material requerido.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 12.
 
-El monto de las multas impuestas por omisión al depósito legal, será transferido a un fondo establecido a favor de la Biblioteca Pública de la Universidad Autónoma de San Luis Potosí, el que será destinado precisamente para la adquisición de materiales que incrementen el acervo cultural objeto del depósito legal.
+El monto de las multas impuestas por omisión al depósito legal, será transferido a un fondo establecido a favor del Centro de Documentación Histórica "Lic. Rafael Montejano y Aguiñaga" de la Universidad Autónoma de San Luis Potosí, el que será destinado precisamente para la adquisición de materiales que incrementen el acervo cultural objeto del deposito legal.
 
 ###### ARTICULO 13.
 
@@ -168,3 +174,11 @@ P.O. 15 DE MAYO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2021
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1196.- SE REFORMA LOS ARTÍCULOS 3°, 7° EN SU PÁRRAFO PRIMERO Y 12, DE LEY QUE ESTABLECE EL DEPÓSITO LEGAL PARA LA PRESERVACIÓN DEL PATRIMONIO BIBLIOGRÁFICO Y DOCUMENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
