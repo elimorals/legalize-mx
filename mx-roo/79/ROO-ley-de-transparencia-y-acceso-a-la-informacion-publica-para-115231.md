@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-115
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2021-04-07"
+last_updated: "2021-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 3 de mayo de 2016.
 
@@ -1535,9 +1535,9 @@ Además de lo señalado en el artículo 91 de la presente Ley, el Poder Judicial
 
 I. Los criterios y ejecutorias publicadas en su órgano de difusión oficial;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-II. Las versiones públicas de las sentencias que sean de interés público, así como de las sentencias que hayan sido emitidas por los jueces y magistrados dentro de su ámbito de competencia en las que se establezca interpretación conforme, se aplique control difuso de la constitucionalidad o de la convencionalidad o se fijen criterios relevantes en materia de derechos humanos;
+II. Las versiones públicas de todas las sentencias emitidas.
 
 III. Las versiones estenográficas de las sesiones públicas;
 
@@ -1589,7 +1589,9 @@ II. En el caso del Tribunal Electoral de Quintana Roo:
 
 a) Las tesis y ejecutorias publicadas en el órgano oficial de difusión del Tribunal Electoral de Quintana Roo, incluyendo tesis jurisprudenciales y aisladas;
 
-b) Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+b) Las versiones públicas de todas las sentencias emitidas.
 
 c) Las versiones estenográficas de las versiones públicas, y
 
@@ -1647,7 +1649,9 @@ V. En el caso del Tribunal de Justicia Administrativa del Estado de Quintana Roo
 
 a) Las tesis y ejecutorias publicadas en el órgano oficial de difusión del Tribunal de Justicia Administrativa del Estado de Quintana Roo, incluyendo tesis jurisprudenciales y aisladas;
 
-b) Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+b) Las versiones públicas de todas las sentencias emitidas.
 
 c) Las versiones estenográficas de las versiones públicas;
 
@@ -2924,3 +2928,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su public
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La modificación al procedimiento de designación será aplicable respecto de las convocatorias que se expidan a partir de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 124, POR EL QUE SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 96; EL INCISO B) DE LA FRACCIÓN II Y EL INCISO B) DE LA FRACCIÓN V, AMBOS DEL ARTÍCULO 97 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTICULO 247 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Poder Judicial, el Tribunal Electoral y el Tribunal de Justicia Administrativa, todos del Estado de Quintana Roo, contarán con el plazo previsto en el Artículo Segundo Transitorio del Decreto por el que se reforma la fracción II del artículo 73 de la Ley General de Transparencia y Acceso a la Información Pública, publicado en el Diario Oficial de la Federación de fecha 13 de agosto de 2020, para iniciar la publicación de las versiones públicas del texto íntegro de las sentencias emitidas.
