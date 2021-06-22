@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2021-04-23"
+last_updated: "2021-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JUNIO DE 2021.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -6978,11 +6978,13 @@ IV. Capacitar al personal operativo de las Unidades de Gestión Integral de Ries
 
 V. Brindar, en los términos establecidos en la Ley de la materia, capacitación a los integrantes del Sistema que lo soliciten y vigilar el cumplimiento de las disposiciones correspondientes;
 
-> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2021)</small>
 
-VI. Registrar, publicar y actualizar mensualmente en su portal institucional el padrón de Terceros Acreditados, registrados, grupos voluntarios, Comités de Apoyo Mutuo y Comités de Prevención de Riesgos;
+VI. Registrar, publicar y actualizar mensualmente en su portal institucional el padrón de Responsables Oficiales de Protección Civil, registrados, grupos voluntarios, Comités de Apoyo Mutuo y Comités de Prevención de Riesgos;
 
-VII. Establecer anualmente los programas y cursos de capacitación y actualización obligatoria para los terceros acreditados;
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2021)</small>
+
+VII. Establecer anualmente los programas y cursos de capacitación y actualización obligatoria para los Responsables Oficiales de Protección Civil;
 
 VIII. Promover y apoyar la capacitación de asociaciones y grupos voluntarios en materia de gestión de riesgo y protección civil;
 
@@ -6994,9 +6996,9 @@ IX. Proponer Normas Técnicas y Términos de Referencia para la Elaboración de 
 
 X. Registrar, vigilar y autorizar el cumplimiento de los Programas Especiales que presenten los respectivos obligados;
 
-> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2021)</small>
 
-XI. Registrar y autorizar a los Terceros Acreditados;
+XI. Registrar y autorizar a los Responsables Oficiales de Protección Civil; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 7 DE AGOSTO DE 2019)</small>
 
@@ -7090,9 +7092,7 @@ X. Certificar los documentos que obren en los expedientes que sean integrados co
 
 XI. Recabar, clasificar y analizar información para evaluar riesgos y daños provenientes de fenómenos de origen natural o antropogénico que puedan ocasionar desastres;
 
-> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
-
-XII. Realizar las funciones de verificación de riesgo a cargo de la Secretaría de Gestión Integral de Riesgos y Protección Civil;
+XII. (DEROGADA, G.O. 22 DE JUNIO DE 2021)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 7 DE AGOSTO DE 2019)</small>
 
@@ -7102,13 +7102,9 @@ XIII. Proponer Normas Técnicas y Términos de Referencia para la Elaboración d
 
 XIV. Operar la Plataforma Digital para el ingreso de los Programas Internos de Protección Civil;
 
-> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2019)</small>
+XV. (DEROGADA, G.O. 22 DE JUNIO DE 2021)
 
-XV. Revisar, registrar y autorizar los Programas Internos de los inmuebles que ocupen las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, las Alcaldías, Órganos Autónomos y del Poder Legislativo y Judicial de la Ciudad de México;
-
-> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2019)</small>
-
-XVI. Registrar y revisar los Programas Internos de Protección Civil que presenten los respectivos obligados; y
+XVI. (DEROGADA, G.O. 22 DE JUNIO DE 2021)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 7 DE AGOSTO DE 2019)</small>
 
@@ -7124,11 +7120,13 @@ I. Representar legalmente a la Secretaría de Gestión Integral de Riesgos y Pro
 
 II. Denunciar y comparecer ante el Ministerio Público que corresponda, en defensa del patrimonio de la Secretaría, los hechos o conductas probablemente delictivas cometidas en su agravio ya sea Local o Federal;
 
-III. Supervisar, coordinar y sustanciar los procedimientos administrativos de verificación y vigilancia en materia de gestión integral de riesgos y protección civil;
+III. (DEROGADA, G.O. 22 DE JUNIO DE 2021)
 
-IV. Calificar la orden y el acta de visita de verificación y vigilancia en materia de gestión integral de riesgos y protección civil;
+IV. (DEROGADA, G.O. 22 DE JUNIO DE 2021)
 
-V. Calificar y aplicar las sanciones administrativas por violaciones a la normatividad en materia de Gestión Integral de Riesgos y Protección Civil;
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2021)</small>
+
+V. Calificar y aplicar las sanciones administrativas a Responsables Oficiales de Protección Civil y Grupos Voluntarios por violaciones a la normativa en materia de Gestión Integral de Riesgos y Protección Civil;
 
 VI. Substanciar los procedimientos administrativos de revocación y cancelación de registros y autorizaciones que haya emitido la Secretaría;
 
@@ -7136,7 +7134,7 @@ VII. Evaluar y dictaminar los convenios y contratos que pretendan suscribir las 
 
 VIII. Responder a las solicitudes, recomendaciones o peticiones de la Comisión Nacional y Local de Derechos Humanos;
 
-IX. Gestionar las acciones y respuestas para que se efectúe el derecho de los Ciudadanos a la transparencia e información pública, a través de la Unidad de Transparencia de la Secretaría;
+IX. (DEROGADA, G.O. 22 DE JUNIO DE 2021)
 
 X. Gestionar las publicaciones en la Gaceta Oficial de la Ciudad de México o Diario Oficial de la Federación, según corresponda y las disposiciones jurídicas que (sic) relativas a la gestión integral de riesgos y protección civil;
 
@@ -14973,3 +14971,13 @@ G.O. 23 DE ABRIL DE 2021.
 PRIMERO. - Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 22 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 167, 169 Y 170 DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- La Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México deberá sustanciar los procedimientos administrativos iniciados previo a la entrada en vigor del presente Decreto.
