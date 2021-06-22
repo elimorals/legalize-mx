@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2020-11-04"
+last_updated: "2021-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -4023,7 +4023,9 @@ La Unidad de Transparencia deberá publicar y poner a disposición del público 
 
 I. Las tesis y ejecutorias publicadas en el órgano oficial de difusión del Tribunal Electoral, incluyendo tesis jurisprudenciales y aisladas;
 
-II. Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+II. Las versiones públicas de todas las sentencias emitidas;
 
 III. Las versiones estenográficas de las versiones públicas, y
 
@@ -6802,3 +6804,11 @@ P.O. 4 DE NOVIEMBRE DE 2020.
 PRIMERO. - El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. - Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 124 POR EL QUE SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 96; EL INCISO B) DE LA FRACCIÓN II V EL INCISO B) DE LA FRACCIÓN V, AMBOS DEL ARTÍCULO 97 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 247 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Poder Judicial, el Tribunal Electoral y el Tribunal de Justicia Administrativa, todos del Estado de Quintana Roo, contarán con el plazo previsto en el Artículo Segundo Transitorio del Decreto por el que se reforma la fracción II del artículo 73 de la Ley General de Transparencia y Acceso a la Información Pública, publicado en el Diario Oficial de la Federación de fecha 13 de agosto de 2020, para iniciar la publicación de las versiones públicas del texto íntegro de las sentencias emitidas.
