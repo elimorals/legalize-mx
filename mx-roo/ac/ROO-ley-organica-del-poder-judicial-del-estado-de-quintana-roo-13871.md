@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2018-10-17"
+last_updated: "2021-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -47,9 +47,9 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
 La presente Ley tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado de Quintana Roo, conforme a los principios contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
 
-Corresponde al Poder Judicial del Estado de Quintana Roo, la atribución de impartir justicia, aplicar tratados internacionales vigentes en el país, leyes y normas de carácter general, en materia constitucional, civil, familiar, mercantil, administrativa, penal, de justicia para adolescentes y de justicia indígena, así como en los asuntos de carácter federal, cuando expresamente, las leyes, convenios y acuerdos, le confieran jurisdicción.
+Corresponde al Poder Judicial del Estado de Quintana Roo, la atribución de impartir justicia, aplicar tratados internacionales vigentes en el país, leyes y normas de carácter general, en materia constitucional, civil, familiar, mercantil, administrativa, penal, laboral, de justicia para adolescentes y de justicia indígena, así como en los asuntos de carácter federal, cuando expresamente las leyes, convenios y acuerdos, le confieran jurisdicción.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
@@ -73,6 +73,10 @@ Para el despacho de los asuntos de su competencia, el Poder Judicial se auxiliar
 
 El Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura expedirán en ejercicio de sus atribuciones los reglamentos interiores, los acuerdos, circulares y otras disposiciones necesarias para regular el adecuado funcionamiento de los Tribunales, Juzgados y demás órganos jurisdiccionales y administrativos del Poder Judicial.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+El Pleno del Tribunal Superior de Justicia y el Pleno del Consejo de la Judicatura podrán implementar el uso de las tecnologías de la información y la comunicación.
+
 ### CAPITULO II. DEL EJERCICIO DE LA FUNCION JURISDICCIONAL
 
 ###### Artículo 5º.
@@ -95,9 +99,17 @@ II.- Los Juzgados de Primera Instancia;
 
 III.- Los Juzgados de Paz;
 
-IV.- El Consejo de la Judicatura del Estado; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-V.- En los demás órganos auxiliares de la administración de justicia que señale la ley.
+IV.- El Consejo de la Judicatura del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2021)</small>
+
+V.- Tribunales laborales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JUNIO DE 2021)</small>
+
+VI.- En los demás órganos auxiliares de la administración de justicia que señale la ley.
 
 Los árbitros, servidores públicos y auxiliares en la impartición de justicia, coadyuvan en la función jurisdiccional en los casos y términos establecidos en las leyes y códigos relativos.
 
@@ -141,9 +153,11 @@ XIV.- Los servidores públicos de carácter técnico de las dependencias del Pod
 
 XV.- Todos los demás a quienes las leyes les confieran este carácter.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
 ###### Artículo 9º.
 
-Los auxiliares de la impartición de justicia cumplirán los mandamientos de la autoridad judicial y le proporcionarán el apoyo solicitado. En el caso de los notarios públicos, del personal de las Instituciones de Educación Superior y de las dependencias del Poder Ejecutivo, el Presidente del Tribunal Superior de Justicia acordará con quien corresponda, las condiciones para la prestación del servicio.
+Los auxiliares de la impartición de justicia cumplirán los mandamientos de la autoridad judicial y le proporcionarán el apoyo solicitado. En el caso de los notarios públicos, del personal de las Instituciones de Educación Superior y de las dependencias del Poder Ejecutivo, el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura acordará con quien corresponda, las condiciones para la prestación del servicio.
 
 ## TITULO SEGUNDO. DE LA ORGANIZACION JURISDICCIONAL DEL PODER JUDICIAL
 
@@ -273,7 +287,7 @@ XI. Acordar que algún Magistrado Supernumerario funja de manera provisional com
 
 XII. Mandar a publicar los acuerdos y demás disposiciones de carácter general que se expidan;
 
-XIII. Conocer de los impedimentos, de las recusaciones con causa, sin causa y de las excusas de los magistrados en los diversos asuntos de su competencia y en su intervención en los que sean de competencia del Pleno y asignar en su caso, a quien deba sustituirlos;
+XIII. (DEROGADA, P.O. 22 DE JUNIO DE 2021)
 
 XIV. Nombrar y remover a los Magistrados de Asuntos Indígenas y a los jueces tradicionales, en los términos de la ley respectiva;
 
@@ -307,7 +321,9 @@ IV. Conceder autorización para la aprehensión de los Magistrados y Jueces del 
 
 V. Decidir sobre los conflictos competenciales que se susciten entre los órganos del Poder Judicial;
 
-VI. Conocer y resolver de los impedimentos, recusaciones o excusas de los Magistrados;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+VI. Conocer de los impedimentos, de las recusaciones con causa, sin causa y de las excusas de los Magistrados y Jueces Laborales en los diversos asuntos de su competencia y en su intervención en los que sean de competencia del Pleno y asignar en su caso, a quien deba sustituirlos;
 
 VII. Conocer y resolver de los asuntos que se ventilen en los Tribunales de primera instancia que por su trascendencia e importancia determine el Pleno.
 
@@ -689,35 +705,51 @@ IX. De los demás que expresamente señalen la Constitución estatal y la ley.
 
 (DEROGADO, P.O. 16 DE DICIEMBRE DE 2003)
 
-### CAPITULO III. DE LOS JUZGADOS DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2021)</small>
+
+### CAPITULO III. DE LOS JUZGADOS Y TRIBUNALES LABORALES DEL ESTADO
 
 #### Sección Primera. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2021)</small>
 
 ###### Artículo 54.
 
-En los Distritos Judiciales del Estado se establecerán los Juzgados de Primera Instancia y de Paz que acuerde el Pleno del Consejo de la Judicatura, atendiendo a las necesidades del servicio y a la disponibilidad presupuestal. Con el mismo criterio, en el Sistema Penal Acusatorio el Consejo de la Judicatura, establecerá los jueces de control, jueces de despacho, tribunal unipersonal de juicio oral, jueces de los tribunales de juicio oral, jueces de ejecución de sentencia, en los términos de la legislación procesal.
+En los Distritos Judiciales del Estado se establecerán los Juzgados de Primera Instancia, de Paz y los Tribunales Laborales que acuerde el Pleno del Consejo de la Judicatura, atendiendo a las necesidades del servicio y a la disponibilidad presupuestal. Con el mismo criterio, en el Sistema Penal Acusatorio el Consejo de la Judicatura, establecerá los jueces de control, jueces de despacho, tribunal unipersonal de juicio oral, jueces de los tribunales de juicio oral, jueces de ejecución de sentencia, en los términos de la legislación procesal.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+Asimismo, en atención a la disponibilidad presupuestal, podrá autorizar el funcionamiento, en régimen de movilidad, de uno o más Tribunales laborales conforme a las necesidades de los asuntos que deban conocer.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
 
 ###### Artículo 55.
 
-Cuando funcionen en un mismo Distrito Judicial dos o más Juzgados del mismo grado y competencia, serán identificados con números progresivos, debiendo corresponder el menor al de mayor antigüedad.
+Cuando funcionen en un mismo Distrito Judicial dos o más Juzgados o Tribunales Laborales del mismo grado y competencia, serán identificados con números progresivos, debiendo corresponder el menor al de mayor antigüedad.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
 
 ###### Artículo 56.
 
-En el caso a que se refiere el artículo anterior, el Pleno del Consejo de la Judicatura acordará el sistema de recepción, turnos y distribución de demandas, respecto de las materias civil, mercantil y de lo familiar. Cuando se trate de la materia penal, los Juzgados competentes conocerán por riguroso turno semanal en el orden que establezca el Consejo de la Judicatura en Pleno.
+En el caso a que se refiere el artículo anterior, el Pleno del Consejo de la Judicatura acordará el sistema de recepción, turnos y distribución de demandas, respecto de las materias civil, mercantil, familiar o laboral. Cuando se trate de la materia penal, los Juzgados competentes conocerán por riguroso turno semanal en el orden que establezca el Consejo de la Judicatura en Pleno.
 
 ###### Artículo 57.
 
 Los Jueces de Primera Instancia conocerán de todos los asuntos de la competencia de los Juzgados de Paz, cuando en el Distrito de su residencia no funcionen éstos.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2021)</small>
 
 ###### Artículo 58.
 
-Los Juzgados y Tribunales Unitarios estarán a cargo de un Juez o Magistrado respectivamente, que será el titular del órgano y contará con el número de Secretarios, Actuarios y demás servidores públicos que requieran conforme a las necesidades del servicio y a la capacidad presupuestal, según sea la determinación del consejo. Así también, podrán contar uno o más juzgados, o uno o más magistrados unitarios a la vez, con una administración concentrada, la cual estará a cargo de un Administrador de Gestión Judicial, quien dispondrá de fedatarios, actuarios, secretarios de actas mínimas, encargados de sala y demás servidores públicos y personal administrativo que se requiera. Para ello, el Consejo de la Judicatura del Estado determinará en cuáles distritos judiciales se establecerán este sistema de gestión judicial, así como también la competencia que tendrá la administración, sobre uno o más juzgados, atendiendo a la actividad y el número de juzgados o tribunales unitarios existentes por cada distrito judicial.
+Los Juzgados, Tribunales Unitarios y Tribunales estarán a cargo de un Juez o Magistrado según corresponda, que será el titular del órgano, y contará con el número de Secretarios, Actuarios y demás servidores públicos que requieran conforme a las necesidades del servicio y a la capacidad presupuestal, según sea la determinación del consejo.
+
+> <small>(ADICIONADO [N. DE E. ANTES PARTE DEL PRIMER PÁRRAFO], P.O. 22 DE JUNIO DE 2021)</small>
+
+Así también, podrán contar uno o más juzgados, o uno o más Tribunales laborales a la vez, con una administración concentrada, la cual estará a cargo de un Administrador de Gestión Judicial, quien dispondrá de fedatarios, actuarios, secretarios de actas mínimas, encargados de sala y demás servidores públicos y personal administrativo que se requiera.
+
+> <small>(ADICIONADO [N. DE E. ANTES PARTE DEL PRIMER PÁRRAFO], P.O. 22 DE JUNIO DE 2021)</small>
+
+Para ello, el Consejo de la Judicatura del Estado determinará en cuáles distritos judiciales se establecerán este sistema de gestión judicial, así como también la competencia que tendrá la administración, sobre uno o más Juzgados o Tribunales Laborales, atendiendo a la actividad y al número de dichos órganos jurisdiccionales existentes por cada distrito judicial.
 
 Los juzgados orales y los Tribunales unitarios contarán con el número de Jueces y Magistrados que el servicio requiera y, además, con el personal siguiente:
 
@@ -734,6 +766,26 @@ V. Encargados de Salas;
 VI. Secretarios Auxiliares, y
 
 VII. El personal auxiliar que determine el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+En materia laboral, podrán auxiliarse de la figura del Secretario Instructor.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+###### Artículo 58 Bis.
+
+Corresponde a los Tribunales Laborales el conocimiento y resolución de los conflictos laborales que no sean competencia de la autoridad federal, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y la Ley Federal del Trabajo.
+
+Contarán con el personal siguiente:
+
+I. Juez laboral;
+
+II. Secretario Instructor, y
+
+III. Los demás servidores públicos que determine el Consejo de la Judicatura.
+
+Los Secretarios Instructores tendrán a su cargo las facultades y obligaciones establecidas en la Ley Federal del Trabajo.
 
 ###### Artículo 59.
 
@@ -757,9 +809,9 @@ Los Jueces no podrán abandonar por más de 48 horas el Distrito de su adscripci
 
 Son facultades comunes a todos los Jueces:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-I.- Poner en conocimiento del Consejo de la Judicatura el incumplimiento de obligaciones de los secretarios, actuarios y personal administrativo de su juzgado;
+I.- Poner en conocimiento del Consejo de la Judicatura el incumplimiento de obligaciones de los secretarios, actuarios y personal administrativo de su juzgado o Tribunal laboral;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -791,7 +843,9 @@ V.- Conocer de las recusaciones o excusas de los Secretarios y Actuarios de su a
 
 VI.- Cumplir y hacer cumplir sus determinaciones, así como las del Tribunal Superior de Justicia, del Consejo de la Judicatura y de las autoridades judiciales de la Federación;
 
-VII.- Vigilar la asistencia y comportamiento del personal adscrito a su Juzgado;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+VII.- Vigilar la asistencia y comportamiento del personal adscrito a su Juzgado o Tribunal laboral;
 
 VIII.- Cumplir y hacer cumplir el reglamento interior;
 
@@ -821,9 +875,9 @@ XV.- Asistir a sus oficinas todos los días hábiles, permaneciendo en el despac
 
 XVI.- Tener bajo su cuidado y estricta responsabilidad el manejo de los valores y documentos que se hayan exhibido en los procedimientos;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-XVII.- Dar aviso al Consejo de la Judicatura y a la oficina que corresponda, de los días y horas en que injustificadamente se ausenten de sus labores los Secretarios, Actuarios y personal de su Juzgado, para efecto de que se descuenten de sus salarios las cantidades correspondientes; y
+XVII.- Dar aviso al Consejo de la Judicatura y a la oficina que corresponda, de los días y horas en que injustificadamente se ausenten de sus labores los Secretarios, Actuarios y personal de su Juzgado o Tribunal Laboral, para efecto de que se descuenten de sus salarios las cantidades correspondientes, y
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -1389,11 +1443,21 @@ Independientemente de lo dispuesto en el párrafo anterior, en las cabeceras de 
 
 ### CAPITULO V. DE LOS SECRETARIOS, ACTUARIOS Y DEMAS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
 
 ###### Artículo 77.
 
-El Secretario General de Acuerdos, los Secretarios de Acuerdos y los Actuarios, tendrán fe pública en todo lo relativo al ejercicio de su cargo. Igual fe tendrán los demás servidores públicos de la administración de justicia que en cada caso autorice la ley, el Pleno o Salas del Tribunal Superior de Justicia o Jueces, para desempeñar funciones secretariales.
+Tendrán fe pública judicial en todo lo relativo al ejercicio de su cargo, los servidores públicos siguientes:
+
+I. El Secretario General de Acuerdos;
+
+II. Los Secretarios de Acuerdos;
+
+III. Los Secretarios Instructores, y
+
+IV. Los Actuarios y notificadores.
+
+De igual manera tendrán fe pública judicial los demás servidores públicos de la administración e impartición de justicia que en cada caso autorice la Ley, el Pleno o Salas del Tribunal Superior de Justicia, o los Jueces, para desempeñar funciones jurisdiccionales propias de su encargo.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -1845,7 +1909,9 @@ II.- Ejercer el presupuesto de egresos del Poder Judicial del Estado, con excepc
 
 III.- Supervisar el funcionamiento de los órganos jurisdiccionales y las áreas administrativas que integran el Poder Judicial; así como el desempeño de sus servidores públicos;
 
-IV.- Determinar la designación, adscripción, ratificación, licencias, renuncias y remoción de Jueces de Primera Instancia y de Paz;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+IV.- Determinar la designación, adscripción, ratificación, licencias, renuncias y remoción de Jueces de Primera Instancia, de Paz y laborales;
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -2017,7 +2083,9 @@ Bis.- El Archivo Judicial dependerá del Consejo de la Judicatura y estará a ca
 
 Se depositarán en el Archivo Judicial:
 
-I.- Todos los expedientes del orden civil, mercantil, familiar, penal y constitucional, concluidos por los tribunales del Estado;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+I.- Todos los expedientes del orden civil, mercantil, familiar, penal, laboral y constitucional, concluidos por los Juzgados y Tribunales del Estado;
 
 II.- Los expedientes en materia civil, mercantil o familiar en los que se haya dejado de promover por más de un año; y
 
@@ -2025,9 +2093,13 @@ III.- Los demás documentos que las leyes determinen.
 
 Para el mejor funcionamiento del Archivo Judicial, se implantarán sistemas de microfilmación y/o digitalización de expedientes y depuración, de acuerdo como lo determine el Reglamento o el Consejo de la Judicatura, el cual podrá acordar, en todo caso, las disposiciones que crea convenientes para optimizar el funcionamiento del archivo.
 
-El Tribunal Superior, el Pleno, las Salas, los Juzgados del Estado y demás Órganos del Poder Judicial, remitirán al Archivo Judicial los expedientes en estado de archivarse. Al enviarse los expedientes para su resguardo al Archivo Judicial, los remitentes realizarán las anotaciones respectivas en el libro de gobierno electrónico.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
 
-Los expedientes y documentos recibidos en el Archivo Judicial, serán anotados en un libro electrónico de entradas destinado para cada juzgado y, una vez clasificados, se colocarán en el lugar que les corresponda, evitando que se deterioren.
+El Tribunal Superior, el Pleno, las Salas, los Juzgados y Tribunales del Estado y demás Órganos del Poder Judicial, remitirán al Archivo Judicial los expedientes en estado de archivarse. Al enviarse los expedientes para su resguardo al Archivo Judicial, los remitentes realizarán las anotaciones respectivas en el libro de gobierno electrónico.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+Los expedientes y documentos recibidos en el Archivo Judicial, serán anotados en un libro electrónico de entradas destinado para cada Juzgado y Tribunal y, una vez clasificados, se colocarán en el lugar que les corresponda, evitando que se deterioren.
 
 Por ningún motivo se extraerá expediente alguno del Archivo Judicial, salvo a petición de la autoridad que lo haya remitido o de otra competente, en cuyo caso se insertará en el oficio relativo la determinación que motiva el pedimento.
 
@@ -2193,11 +2265,11 @@ XIII.- Diseñar, elaborar y mantener actualizada una página de Internet y los s
 
 La vigilancia judicial tiene por objeto velar por que la justicia se imparta oportuna y eficazmente, y conlleva al examen de la conducta de los servidores de la impartición y administración de justicia y puntual desempeño de sus deberes.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
 
 ###### Artículo 106.
 
-La Visitaduría es el órgano auxiliar del Consejo de la Judicatura, competente para inspeccionar el funcionamiento de los Tribunales Unitarios, Juzgados de Primera Instancia, Juzgados de Control, Tribunales de Juicio Oral, Juzgados de Ejecución de Sentencias, Juzgados de Paz, Tribunal y Juzgados de Justicia para Adolescentes, Centro de Justicia Alternativa, Sistema de Justicia Indígena, Centro de Convivencia Familiar Supervisada y demás órganos del Poder Judicial, con excepción del Pleno del Tribunal Superior de Justicia del Estado y sus salas.
+La Visitaduría es el órgano auxiliar del Consejo de la Judicatura, competente para inspeccionar el funcionamiento de los Tribunales Unitarios, Juzgados de Primera Instancia, Juzgados de Control, Tribunales de Juicio Oral, Juzgados de Ejecución de Sentencias, Juzgados de Paz, Tribunal y Juzgados de Justicia para Adolescentes, Tribunales Laborales, Centro de Justicia Alternativa, Sistema de Justicia indígena, Centro de Convivencia Familiar Supervisada y demás órganos del Poder Judicial, con excepción del Pleno del Tribunal Superior de Justicia del Estado y sus salas.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -2349,11 +2421,17 @@ El ingreso y la promoción de los servidores públicos de carácter jurisdiccion
 
 Para ser Juez de Primera Instancia o de Paz se requiere cumplir los requisitos que señala el artículo 101 de la Constitución Política del Estado, con excepción de la edad que deberá ser de veintiocho años, por lo menos, cumplidos al día de su designación y del título y de la cédula profesional que deberá tener una antigüedad mínima de cinco años al día de su nombramiento.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+###### Artículo 112 Bis.
+
+Para ser Juez laboral deberá atenderse a lo dispuesto en el primer párrafo de la fracción XX del Apartado A del artículo 123 de la Constitución (sic) de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
 
 ###### Artículo 113.
 
-Para ser Secretario de Acuerdos de las Salas y Juzgados; Secretario de Estudio y Cuenta; Fedatario y Actuario, se requiere satisfacer los mismos requisitos exigidos para ser Juez, con excepción de la edad mínima que deberá ser de veinticuatro años de edad y contar con título y cédula profesional, sin ninguna condicionante en cuanto al tiempo de expedición; no obstante deberán acreditar un mínimo de práctica de un año y haber acreditado los cursos que al efecto imparta la Escuela Judicial.
+Para ser Secretario de Acuerdos de Sala, Secretario de Estudio y Cuenta, Secretario de Acuerdos de Juzgado, Secretario Instructor, Fedatario y Actuario, se requiere satisfacer los mismos requisitos exigidos para ser Juez, con excepción de la edad mínima que deberá ser de veinticuatro años de edad y contar con título y cedula profesional, sin ninguna condicionante en cuanto al tiempo de expedición; no obstante deberán acreditar un mínimo de práctica de un año y haber acreditado los cursos que al efecto imparta la Escuela Judicial.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -2523,15 +2601,33 @@ VII. Secretario de Actas Mínimas, y
 
 VIII. Encargado de sala.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE JUNIO DE 2021)</small>
+
+D) TRIBUNALES LABORALES
+
+I. Juez;
+
+II. Secretario Instructor;
+
+III. Actuario, y
+
+IV. Secretario Auxiliar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2021)</small>
 
 ###### Artículo 117.
 
-El ingreso y promoción para las categorías de Juez de Primera Instancia y Juez de Paz, se realizará a través de concurso interno de oposición o de oposición libre.
+El ingreso y promoción para las categorías de Juez de Primera Instancia, Juez de Paz y Juez laboral, se realizará a través de concurso interno de oposición o de oposición libre.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
 
 Para acceder a las demás categorías señaladas en el artículo anterior, se requerirá acreditar los cursos respectivos y el examen de aptitud correspondiente.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+
 El Consejo de la Judicatura del Estado tendrá la obligación de recibir y verificar, en todo momento, la información que los aspirantes le hubieren proporcionado.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
 
 En los concursos internos de oposición únicamente podrán participar los de la categoría inmediata inferior, y en los concursos de oposición libre, podrán participar los aspirantes que satisfagan los requisitos contenidos en la Convocatoria que al efecto expida el Consejo de la Judicatura.
 
@@ -2541,15 +2637,23 @@ En los concursos internos de oposición únicamente podrán participar los de la
 
 El ingreso y promoción de los servidores públicos comprendidos en la carrera judicial, se desarrollará conforme a lo siguiente:
 
-A. Los concursos internos de oposición o de oposición libre para el ingreso a las categorías de Juez de Primera Instancia y Juez de Paz, se sujetarán al siguiente procedimiento:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE JUNIO DE 2021)</small>
+
+A. Los concursos internos de oposición o de oposición libre para el ingreso al cargo de Juez, se sujetarán al siguiente procedimiento:
 
 I. El Consejo de la Judicatura emitirá una convocatoria que deberá ser publicada por una sola ocasión en el Periódico Oficial del Estado y en la página oficial del Poder Judicial. En la convocatoria, se deberá especificar si el concurso se trata de oposición libre o concurso interno de oposición, así como las categorías, número de vacantes sujetas a concurso, el lugar, día y hora en que se llevarán a cabo los exámenes así como el plazo, lugar de inscripción y demás elementos que se estimen necesarios.
 
 Además de la documentación que establezca la convocatoria, las personas que deseen participar deberán presentar conjuntamente con su correspondiente solicitud, un currículum anónimo o “ciego”, en el que únicamente figuren la formación profesional y la experiencia laboral de la persona, eliminándose cualquier dato personal de la misma; conforme al formato que al efecto apruebe y publique el Consejo de la Judicatura en la página oficial del Poder Judicial.
 
-Una vez recibidas las solicitudes de inscripción de las personas que deseen participar y que hayan cumplido con lo estipulado en las bases de la convocatoria, se les asignará un folio o número de registro, el cual servirá como medio de identificación personal de los participantes;
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+Una vez recibidas las solicitudes de inscripción de las personas que deseen participar y que hayan cumplido con lo estipulado en las bases de la convocatoria, se les asignará un folio o número de registro, el cual servirá como medio de identificación personal de los participantes hasta antes del examen oral; lo anterior, para asegurar en lo posible el anonimato de las personas participantes, a fin de garantizar un proceso de selección más objetivo;
 
 II. Los aspirantes inscritos deberán resolver por escrito un cuestionario cuyo contenido versará sobre materias que se relacionen con la función de la plaza para la que se concursa. En todo momento se vigilará la secrecía de dicho cuestionario.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+Asimismo, el Consejo de la Judicatura podrá incorporar la realización de exámenes psicométricos, según lo disponga en la convocatoria respectiva.
 
 De entre el número total de aspirantes, tendrán derecho a pasar a la siguiente etapa quienes hayan obtenido las más altas calificaciones, asegurando que el número de los seleccionados sea mayor al de las plazas vacantes.
 
@@ -2557,43 +2661,75 @@ El Consejo de la Judicatura deberá establecer en la convocatoria respectiva, de
 
 En caso de empate, el resultado se definirá mediante criterio de acción afirmativa, buscando en todo momento la equidad de género.
 
-III. Los aspirantes seleccionados, en términos de la fracción anterior, resolverán los casos prácticos que se les asignen mediante la elaboración del respectivo proyecto de sentencia, relacionado con la naturaleza de la categoría o materia para la que se concursa. Posteriormente se procederá a la realización del examen oral y público que practique el jurado a que se refiere el apartado C del presente artículo, mediante las preguntas e interpelaciones que realicen sus miembros sobre toda clase de cuestiones relativas a la función de la categoría que se concursa. La calificación final se determinará con el promedio de los puntos que cada miembro del jurado le asigne al sustentante.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-IV. Concluidos los exámenes orales, se levantará un acta final y el presidente del jurado declarará quiénes son los concursantes que hubieren obtenido la mayor puntuación y el medio de selección utilizado, informando de inmediato al Consejo de la Judicatura para que éste, con base en el resultado obtenido en las diversas etapas de evaluación, realice los nombramientos respectivos y los publique en el Periódico Oficial del Estado y en la página oficial del Poder Judicial.
+III. Los aspirantes seleccionados, en términos de la fracción anterior, resolverán los casos prácticos que se les asignen mediante la elaboración del respectivo proyecto de resolución, relacionado con la naturaleza de la categoría o materia para la que se concursa. Posteriormente se procederá a la realización del examen oral y público que practique el Comité de Selección a que se refiere el apartado C del presente artículo, mediante las preguntas e interpelaciones que realicen sus miembros sobre toda clase de cuestiones relativas a la función de la categoría que se concursa. La calificación final se determinará con el promedio de los puntos que cada miembro del Comité de Selección le asigne al sustentante.
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+IV. Concluidos los exámenes orales, se levantará un acta final y la presidencia del Comité de Selección declarará quiénes son los concursantes vencedores que hubieren obtenido la mayor puntuación y el medio de selección utilizado, informando de inmediato al Consejo de la Judicatura para que éste, con base en el resultado obtenido en las diversas etapas de evaluación, realice los nombramientos respectivos y los publique en el Periódico Oficial del Estado y en la página oficial del Poder Judicial.
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+V. Las y los participantes que en razón del número de plazas concursadas no hubieren sido declarados vencedores, pero hubieren alcanzado el puntaje mínimo establecido en la convocatoria, se incorporarán a una lista estratégica de selección, siendo susceptibles para ser considerados en caso de que se presente alguna plaza vacante por necesidades del servicio, y atendiendo a la disponibilidad presupuestal.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN V]</small>
+
+En todo caso, la incorporación a la lista no genera derechos adquiridos a favor de las y los participantes, quienes podrán permanecer en dicha lista hasta por dos años, salvo que antes de la conclusión de dicho término se celebre concurso de oposición respecto de la categoría respectiva.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
 
 B. La celebración y organización de los exámenes de aptitud para las demás categorías señaladas en el artículo 116 de esta Ley, estarán a cargo de la Escuela Judicial, en términos de las bases que determine el Consejo de la Judicatura, de conformidad con lo que disponen esta ley y el reglamento respectivo.
 
 Los exámenes de aptitud se realizarán a petición del titular, o en caso de ausencia de éste, el suplente del órgano que requiera cubrir la vacante respectiva, debiendo preferir a quienes se encuentren en las categorías inmediatas inferiores. Igualmente podrán solicitar que se practique un examen de aptitud a las personas interesadas en ingresar a las categorías señaladas en el primer párrafo de este apartado, quienes de aprobarlo serán consideradas en la lista que deba integrar el Consejo de la Judicatura, para ser tomados en cuenta en el caso de presentarse una vacante en alguna de las categorías a que se ha hecho referencia.
 
-Sin perjuicio de lo anterior, el Consejo de la Judicatura podrá realizar las evaluaciones psicométricas que estime pertinentes, que garanticen la idoneidad de quienes obtengan las calificaciones más elevadas.
+Sin perjuicio de lo anterior, el Consejo de la Judicatura podrá realizar las evaluaciones psicométricas que estime pertinentes, que garanticen la idoneidad de quienes obtengan las calificaciones más elevadas. El Consejo de la Judicatura establecerá, mediante acuerdos generales, el tiempo máximo en que las personas aprobadas en los términos del párrafo anterior permanezcan en dicha lista.
 
-El Consejo de la Judicatura establecerá, mediante acuerdos generales, el tiempo máximo en que las personas aprobadas en los términos del párrafo anterior permanezcan en dicha lista.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
 
-Antes de designar a la persona que deba ocupar el cargo, el Pleno del Tribunal Superior de Justicia, su Presidente, las Salas, el Magistrado o Juez respectivo, deberá solicitar al Consejo de la Judicatura que le ponga a la vista la relación de las personas que se encuentren en aptitud de ocupar la vacante.
+C. Los cuestionarios, casos prácticos y exámenes orales referidos en este artículo serán elaborados por un Comité de Selección integrado por:
 
-C. Los cuestionarios y casos prácticos referidos en las fracciones II y III de este artículo, serán elaborados por un comité integrado por un miembro del Consejo de la Judicatura, quien lo presidirá, por un juez y un Magistrado correspondiente a la categoría para la que se concursa, por un miembro de la Escuela Judicial y por un representante de una Institución de Educación Superior. La designación de los miembros del comité se hará en los términos que establezca el reglamento respectivo.
+I. Una Magistrada o un Magistrado designado por el Tribunal Pleno mediante el método de insaculación, quien lo presidirá;
 
-Sin perjuicio de lo anterior, el comité podrá invitar a Magistrados de otros Tribunales, así como miembros de instituciones académicas a nivel nacional, quienes podrán concurrir con voz y sin voto a las sesiones que al efecto se desahoguen para la elaboración de los cuestionarios y casos prácticos referidos en el párrafo antecedente. En todo caso, el reglamento establecerá las condiciones de su participación.
-
-El jurado encargado de los exámenes orales se integrará por:
-
-I. Un Magistrado correspondiente a la materia para la cual se concursa, designado por el Tribunal Pleno mediante el método de insaculación;
-
-II. Un Consejero de la Judicatura, designado por el Pleno del Consejo;
+II. Una Consejera o un Consejero de la Judicatura, designado por el Pleno del Consejo, mediante insaculación;
 
 III. Dos Jueces correspondientes a la categoría y materia para la cual se concursa, designados por el Colegio de Jueces mediante el método de insaculación, de los cuales uno deberá ser mujer y otro hombre;
 
-IV. Un Magistrado en Retiro, o un Juez o Magistrado de otra Entidad Federativa, invitado por el Consejo de la Judicatura, y
+IV. La persona titular de la Dirección de la Escuela Judicial;
 
-V. Un representante de la Unidad de Transparencia del Poder Judicial, quien concurrirá con voz pero sin voto.
+V. La persona Titular de la Unidad de Transparencia, Acceso a la Información y Protección de Datos Personales del Poder Judicial, quien concurrirá como testigo, y
 
-Por cada miembro titular se nombrará un suplente.
+VI. La persona titular de la Secretaría Ejecutiva del Pleno y Carrera Judicial, a fin de desempeñar las funciones secretariales del Comité.
 
-El Presidente del Jurado encargado de los exámenes orales será electo por mayoría de votos de sus integrantes.
+Sin perjuicio de lo anterior, el Comité de Selección podrá invitar a Jueces y Magistrados de otros Tribunales, así como miembros de instituciones académicas a nivel nacional, quienes podrán concurrir consultivamente a las sesiones que al efecto se desahoguen para la elaboración de los cuestionarios y casos prácticos.
 
-El Consejo de la Judicatura podrá invitar, para la integración del Jurado, a Magistrados de otros Tribunales, así como miembros de instituciones académicas a nivel nacional, quienes podrán realizar las preguntas e interpelaciones que estimen pertinentes sobre toda clase de cuestiones relativas a la función de la categoría que se concursa, así como asignar puntos de calificación al sustentante. Lo anterior deberá señalarse en la convocatoria que al efecto se expida.
+Por cada miembro titular relacionado con las fracciones I, II y III de este apartado B se nombrará un suplente.
 
-A los miembros del Jurado les serán aplicables los impedimentos establecidos en el Artículo 171 del Código de Procedimientos Civiles para el Estado de Quintana Roo, los cuales serán calificados por el propio Jurado.
+Las personas integrantes del Comité de Selección estarán impedidas para conocer en los casos siguientes, mismos que serán calificados por el propio Comité:
+
+a) Cuando tenga interés directo o indirecto;
+
+b) Cuando interesen de la misma manera a su cónyuge o a sus parientes consanguíneos en línea recta sin limitación de grados, a los colaterales dentro del cuarto grado y a los fines dentro del segundo;
+
+c) Siempre que entre el funcionario de que se trate, su cónyuge o sus hijos y algunos de los interesados haya relación de intimidad nacida de algún acto civil o religioso, sancionado y respetado por la costumbre;
+
+d) Cuando él, su cónyuge o alguno de sus hijos sea heredero, legatario, donante, donatario, socio, acreedor, deudor, fiador, fiado, arrendador, arrendatario, principal, dependiente o comensal habitual de alguna de las personas participantes;
+
+e) Si ha hecho promesas o amenazas, o ha manifestado de otro modo su odio o afecto por alguna de las personas participantes;
+
+f) Si asiste o ha asistido a convites que especialmente para él diere o costeare alguna de las personas participantes, después de comenzado el procedimiento, o si tiene mucha familiaridad con alguno de ellos, o vive con él, en su compañía, en una misma casa;
+
+g) Cuando después de comenzado el procedimiento haya admitido él, su cónyuge o alguno de sus hijos, dádivas o servicios de alguna de las partes;
+
+h) Cuando él, su cónyuge o alguno de sus parientes consanguíneos en línea recta, sin limitación de grado, de los colaterales dentro del segundo, o de los afines en el primero, siga contra alguna de las partes, o no ha pasado un año, de haber seguido un juicio civil, o una causa criminal, como acusador, querellante o denunciante, o se haya constituido parte civil en causa criminal seguida contra cualquiera de ellas;
+
+i) Cuando alguna de las personas participantes es o ha sido denunciante, querellante o acusador del funcionario de que se trate, de su cónyuge, o de alguno de sus expresados parientes o se ha constituido parte civil en causa criminal seguida contra cualquiera de ellos, siempre que el Ministerio Público haya ejercitado la acción penal;
+
+j) Cuando el funcionario de que se trate, su cónyuge o alguno de sus expresados parientes sea contrario a cualquiera de las personas participantes en negocio administrativo que afecte a sus intereses;
+
+k) Si él, su cónyuge o alguno de sus expresados parientes sigue algún proceso civil o criminal en que sea juez, fiscal del Ministerio Público, árbitro o arbitrador, alguna de las personas participantes, y
+
+l) Si es tutor de alguna de las personas participantes, o no han pasado tres años de haber sido.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -3032,6 +3168,28 @@ X.- Desempeñarse negligentemente provocando se generen violaciones al procedimi
 XI.- Dejar de cumplir con cualquiera de las obligaciones que les estén señaladas por las leyes, reglamentos o por sus superiores, y
 
 XII.- No excusarse de conocer de un asunto cuando estuviera obligado a hacerlo de conformidad con esta Ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+###### Artículo 125
+
+Décies.- Son causas de responsabilidad de los Secretarios instructores, con independencia de lo establecido en el artículo 125 de esta ley, las acciones u omisiones siguientes:
+
+I. No dictar las resoluciones y acuerdos relativos a su competencia en los términos que establece la Ley Federal del Trabajo;
+
+II. Certificar como bien realizada una notificación personal notoriamente mal practicada;
+
+III. No autorizar con su firma las resoluciones, providencias, acuerdos y diligencias de los asuntos de su competencia;
+
+IV. Omitir firmar las actas que se elaboren con motivo de las celebraciones de las audiencias;
+
+V. Omitir certificar el medio en donde se encuentre registrada la audiencia respectiva; así como no tomar las medidas necesarias para evitar que pueda alterarse;
+
+VI. No denunciar al Juez de las faltas u omisiones que personalmente hubieren observado en los servidores subalternos de la adscripción;
+
+VII. Contravenir alguna disposición prevista por esta Ley en lo que sea aplicable a su función, y
+
+VIII. Las demás que determinen las leyes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
@@ -3694,3 +3852,45 @@ Tercero. La Secretaría de Finanzas y Planeación, realizará las acciones neces
 Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública, y organismos públicos autónomos, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes.
 
 Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 125 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE QUINTANA ROO Y POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO Y DE LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo no mayor de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, la persona Titular del Ejecutivo Estatal designará a la persona Titular de la Dirección General del Centro de Conciliación Laboral del Estado de Quintana Roo.
+
+TERCERO. En un plazo no mayor de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, la Secretaría de la Contraloría del Estado, a través de su Titular, designará a la persona servidora pública Titular del Órgano de Vigilancia y a la persona servidora pública Titular del Órgano Interno de Control ambas del Centro de Conciliación Laboral del Estado de Quintana Roo.
+
+CUARTO. La persona Titular de la Secretaría del Trabajo y Previsión Social, convocará a la instalación y primera sesión ordinaria del Órgano de Gobierno del Centro de Conciliación Laboral del Estado de Quintana Roo, dentro de los noventa días naturales siguientes a la fecha de designación de la Persona Titular de la Dirección General del Centro de Conciliación Laboral del Estado de Quintana Roo.
+
+En esta primera sesión, deberá expedirse el Reglamento Interior, así como los lineamientos y manuales para la implementación del Servicio Profesional de Carrera, ambos del Centro de Conciliación Laboral del Estado de Quintana Roo.
+
+QUINTO. Los procedimientos que se encuentren en trámite ante la Secretaría de Trabajo y Previsión Social y las Juntas de Conciliación y Arbitraje local, serán concluidos por éstas de conformidad con las disposiciones vigentes al momento de su inicio.
+
+SEXTO. El Centro de Conciliación Laboral del Estado de Quintana Roo no admitirá a trámite solicitudes de audiencia de conciliación o emplazamientos respecto de procedimientos que se estén sustanciando ante la Junta de Conciliación y Arbitraje, incluyendo los de ejecución, por lo que se archivarán dichas solicitudes.
+
+SÉPTIMO. En la implementación de las disposiciones a que se refiere el presente Decreto y en lo sucesivo, las autoridades conciliadoras en materia laboral deberán incorporar en sus programas de formación y capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de derechos humanos a personas en situación de vulnerabilidad.
+
+OCTAVO. La Secretaría del Trabajo y Previsión Social del Estado de Quintana Roo, llevará a cabo las gestiones necesarias a efecto de que el Centro de Conciliación Laboral del Estado de Quintana Roo cuente con los recursos necesarios para el inicio de su operación.
+
+NOVENO. El Centro de Conciliación Laboral del Estado de Quintana Roo y los Tribunales Laborales del Estado iniciarán operaciones en la misma fecha, conforme a las disposiciones previstas en el presente Decreto.
+
+DÉCIMO. En la primera designación que se haga con motivo de la presente reforma, las convocatorias a concurso para la selección de Jueces Laborales, así como los exámenes de aptitud para el resto de las categorías de la carrera judicial para los Tribunales en la materia, en su caso, serán de carácter público y abierto.
+
+Para tal efecto, por única ocasión en la primera designación que se haga con motivo de la presente reforma, los jueces que integran el Comité de Selección a que hace referencia el artículo 118 de la Ley Orgánica del Poder Judicial, serán invitados por el Presidente del Consejo de la Judicatura, de entre las entidades federativas en las que ya se encuentre en operación el nuevo sistema de justicia laboral. El Pleno del Consejo de la Judicatura resolverá las circunstancias no previstas para la integración del Comité de Selección para los concursos de oposición para acceder al cargo de Juez Laboral.
+
+El Consejo de la Judicatura deberá realizar las adecuaciones normativas para armonizar lo dispuesto en el artículo 118 de la Ley Orgánica del Poder Judicial del Estado.
+
+DÉCIMO PRIMERO. De conformidad con la capacidad presupuestal y recursos humanos e informáticos del Poder Judicial, el Consejo de la Judicatura realizará las acciones conducentes para implementar las herramientas necesarias para el funcionamiento del sistema de justicia laboral.
+
+El Consejo de la Judicatura deberá realizar las acciones necesarias para contar con asistentes jurídicos capacitados con antelación a la entrada en operaciones de los Tribunales Laborales.
+
+DÉCIMO SEGUNDO. la Legislatura del Estado emitirá la Declaratoria de entrada en funciones de los Tribunales Laborales y el Centro de Conciliación Laboral del Estado de Quintana Roo a más tardar el treinta de septiembre de dos mil veintiuno, previa solicitud que al efecto emita el Consejo de la Judicatura, por conducto de su Presidente.
+
+La Declaratoria deberá publicarse en el Periódico Oficial del Estado de Quintana Roo.
+
+DÉCIMO TERCERO. El Poder Ejecutivo y el Poder Legislativo del Estado de Quintana Roo, realizarán las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros que permitan el cumplimiento del presente Decreto.
+
+DÉCIMO CUARTO. Se derogan las disposiciones legales que se opongan al presente decreto.
