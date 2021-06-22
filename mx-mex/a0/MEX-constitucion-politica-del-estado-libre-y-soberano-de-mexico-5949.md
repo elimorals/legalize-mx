@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2021-02-26"
+last_updated: "2021-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2021.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -695,11 +695,11 @@ Su tutela es de responsabilidad común.
 
 Las autoridades del Estado de México garantizarán la protección, el bienestar, así como el trato digno y respetuoso a los animales y fomentarán una cultura de cuidado y tutela responsable. Asimismo, diseñarán estrategias para la atención de animales en abandono.
 
-> <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2021)</small>
 
 ###### Artículo 19.
 
-Los recursos cuya captación y administración corresponda a las autoridades, se aplicarán adecuadamente en la atención y solución de las necesidades de los habitantes, para lo cual las leyes de ingresos y los presupuestos de egresos del Estado y de los municipios, estarán orientados a la asignación prudente de tales recursos, considerando criterios de proporcionalidad y equidad en la distribución de cargas y de los beneficios respectivos entre los habitantes.
+Los recursos cuya captación y administración corresponda a las autoridades, se aplicarán con eficiencia, eficacia, economía, transparencia y, honradez, en la atención y solución de las necesidades de los habitantes, para lo cual las leyes de ingresos y los presupuestos de egresos del Estado y de los municipios, estarán orientados a la asignación prudente de tales recursos, considerando criterios de proporcionalidad y equidad en la distribución de cargas y de los beneficios respectivos entre los habitantes.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2807,7 +2807,9 @@ Los Ayuntamientos podrán celebrar sesiones extraordinarias de cabildo cuando la
 
 El Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban las y los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 147 de esta Constitución.
 
-Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o por quien ellos autoricen, conforme a la ley.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2021)</small>
+
+Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o por quien ellos autoricen, conforme a la ley, bajo los principios de eficiencia, eficacia, economía, transparencia y honradez.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2903,27 +2905,27 @@ XIV. Las demás que le señale la presente Constitución, la Ley Orgánica respe
 
 ## TITULO SEXTO. De la Administración y Vigilancia de los Recursos Públicos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2021)</small>
 
 ###### Artículo 129.
 
-Los recursos económicos del Estado, de los municipios, así como de los organismos autónomos, se administrarán con eficiencia, eficacia y honradez, para cumplir con los objetivos y programas a los que estén destinados.
+Los recursos económicos del Estado, de los municipios, así como de los organismos autónomos, se administrarán con eficiencia, eficacia, economía, transparencia y honradez, para cumplir con los objetivos y programas a los que estén destinados.
 
 > <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2010)</small>
 
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, la prestación de servicios de cualquier naturaleza y la contratación de obra se llevarán a cabo y se adjudicarán por medio de licitaciones públicas mediante convocatoria pública, para que se presenten propuestas en sobre cerrado que serán abiertos públicamente, procesos en los que se privilegiará el uso de las tecnologías de la información y comunicación, a fin de asegurar al Gobierno del Estado y a los municipios, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes. La ley establecerá las bases para el uso de dichas tecnologías.
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2021)</small>
 
-Cuando las licitaciones a las que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, los municipios y los órganos autónomos.
+Cuando las licitaciones a las que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficiencia, eficacia, honradez y transparencia, que aseguren las mejores condiciones para el Estado, los municipios y los órganos autónomos.
 
 > <small>(REFORMADO, G.G. 22 DE JUNIO DE 2006)</small>
 
 Todos los pagos se harán mediante orden escrita en la que se expresará la partida del presupuesto a cargo de la cual se realicen.
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2021)</small>
 
-Las personas servidoras públicas del Estado y municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+Los servidores públicos del Estado y municipios, tienen en todo tiempo la obligación de aplicar con eficiencia, eficacia, economía, transparencia y honradez los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
 
 > <small>(ADICIONADO, G.G. 9 DE MAYO DE 2008)</small>
 
@@ -5108,3 +5110,11 @@ G.G. 26 DE FEBRERO DE 2021.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 273.- POR EL QUE SE REFORMA EL ARTÍCULO 19, EL PÁRRAFO SEXTO DEL ARTÍCULO 125 Y LOS PÁRRAFOS PRIMERO, TERCERO Y QUINTO DEL ARTÍCULO 129 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno”.
