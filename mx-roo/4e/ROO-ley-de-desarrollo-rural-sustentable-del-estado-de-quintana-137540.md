@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-rural-sustentable-del-estado-de-quintana-1375
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-12"
-last_updated: "2019-08-12"
+last_updated: "2021-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 12 de agosto de 2019.
 
@@ -47,9 +49,13 @@ LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE QUINTANA ROO
 
 Esta Ley es de orden e interés público y tiene por objeto establecer las bases para alcanzar el desarrollo rural sustentable en el Estado de Quintana Roo y comprende a todos los sectores de la población que se relacionan con la vida rural.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2.
 
-Se considera de interés público el desarrollo rural sustentable en el Estado de Quintana Roo, que incluye la planeación y organización de la producción agropecuaria, la industrialización y comercialización de los bienes y servicios del medio rural, y todas aquellas acciones tendientes a elevar la calidad de vida humana de la población rural.
+Se considera de interés público el desarrollo rural sustentable en el Estado de Quintana Roo, que incluye la planeación y organización de la producción, el consumo y distribución agropecuaria; la industrialización y comercialización de los bienes y servicios del medio rural, y todas aquellas acciones tendientes a elevar la calidad de vida humana de la población rural y el manejo sustentable de los recursos naturales.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
 
 ###### Artículo 3.
 
@@ -57,59 +63,61 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Actividades agropecuarias: Los procesos productivos primarios basados en recursos naturales renovables, como son: la agricultura, apícola, acuacultura, pecuario y pesca;
 
-II. Actividades económicas de la sociedad rural: Las actividades agropecuarias y demás actividades productivas, industriales, comerciales y de servicios agroalimentarios;
+II. Actividades económicas de la sociedad rural: Las actividades agropecuarias y demás actividades productivas, industriales, comerciales, de servicios agroalimentarios y de turismo rural sustentable;
 
 III. Agentes de la sociedad rural: Las personas físicas o morales de los sectores social y privado que integran la sociedad rural;
 
-IV. Ayuntamientos: Los ayuntamientos de los Municipios que integran el Estado de Quintana Roo;
+IV. Agroforestería: Sistema productivo que combina la agricultura, ganadería y forestería para un mejor aprovechamiento sustentable;
 
-V. Bienestar social: La satisfacción inmediata de las necesidades materiales y culturales de la población, entre las que se incluyen la seguridad social, vivienda, educación, salud, alimentación e infraestructura básica;
+V. Ayuntamientos: Los ayuntamientos de los Municipios que integran el Estado de Quintana Roo;
 
-VI. Comisión Intersecretarial Estatal: La Comisión Intersecretarial para el Desarrollo Rural Sustentable del Estado de Quintana Roo;
+VI. Bienestar social: La satisfacción inmediata de las necesidades materiales y culturales de la población, entre las que se incluyen la seguridad social, vivienda, educación, salud, alimentación e infraestructura básica;
 
-VII. Comisión Intersecretarial Federal: La Comisión Intersecretarial prevista en la Ley de Desarrollo Rural Sustentable, publicada en el Diario Oficial de la Federación el 7 de diciembre del año 2001;
+VII. Comisión Intersecretarial Estatal: La Comisión Intersecretarial para el Desarrollo Rural Sustentable del Estado de Quintana Roo;
 
-VIII. Consejo Estatal: El Consejo Estatal para el Desarrollo Rural Sustentable que se integre en el Estado en los términos de la Ley de Desarrollo Rural Sustentable, publicada en el Diario Oficial de la Federación el 7 de diciembre del año 2001;
+VIII. Comisión Intersecretarial Federal: La Comisión Intersecretarial prevista en la Ley de Desarrollo Rural Sustentable;
 
-IX. Consejos Distritales: Los Consejos Distritales para el Desarrollo Rural Sustentable que se integren en el Estado en los términos de la Ley de Desarrollo Rural Sustentable, publicada en el Diario Oficial de la Federación el 7 de diciembre del año 2001;
+IX. Consejo Estatal: El Consejo Estatal para el Desarrollo Rural Sustentable que se integre en el Estado en los términos de la Ley de Desarrollo Rural Sustentable;
 
-X. Consejos Municipales: Los Consejos Municipales para el Desarrollo Rural Sustentable que se integren en el Estado en los términos de la Ley de Desarrollo Rural Sustentable, publicada en el Diario Oficial de la Federación el 7 de diciembre del año 2001;
+X. Consejos Distritales: Los Consejos Distritales para el Desarrollo Rural Sustentable que se integren en el Estado en los términos de la Ley de Desarrollo Rural Sustentable;
 
-XI. Desarrollo Rural Sustentable: El mejoramiento integral del bienestar social de la población humana y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones legales aplicables, que asegure la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
+XI. Consejos Municipales: Los Consejos Municipales para el Desarrollo Rural Sustentable que se integren en el Estado en los términos de la Ley de Desarrollo Rural Sustentable;
 
-XII. Estado: El Estado Libre y Soberano de Quintana Roo;
+XII. Degradación de suelo: La pérdida de capacidad productiva del suelo, causada por las actividades del hombre;
 
-XIII. Ley: La Ley de Desarrollo Rural Sustentable del Estado de Quintana Roo;
+XIII. Desarrollo Rural Sustentable: El mejoramiento integral del bienestar social de la población humana y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones legales aplicables, que asegure la conservación y disponibilidad permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
 
-XIV. Ley Federal: La Ley de Desarrollo Rural Sustentable, publicada en el Diario Oficial de la Federación el 7 de diciembre del año 2001;
+XIV. Estado: El Estado Libre y Soberano de Quintana Roo;
 
-XV. Multinivel: El sistema de comercialización en redes o distribución directa, donde el productor vende sus productos a los consumidores, y a su vez, éstos pueden ganar regalías o comisiones al recomendarlos a otras personas;
+XV. Ley: La Ley de Desarrollo Rural Sustentable del Estado de Quintana Roo;
 
-XVI. Órdenes de gobierno: Los gobiernos federal, estatal y municipal;
+XVI. Ley Federal: La Ley de Desarrollo Rural Sustentable;
 
-XVII. Organismos genéticamente modificados: Cualquier organismo vivo que posea una combinación de material genético que se haya obtenido mediante la aplicación de biotecnología moderna;
+XVII. Multinivel: El sistema de comercialización en redes o distribución directa, donde el productor vende sus productos a los consumidores, y a su vez, éstos pueden ganar regalías o comisiones al recomendarlos a otras personas;
 
-XVIII. Poder Ejecutivo: El Poder Ejecutivo del Gobierno del Estado de Quintana Roo;
+XVIII. Órdenes de gobierno: Los gobiernos federal, estatal y municipal;
 
-XIX. Programa Especial Concurrente: El Programa Especial Concurrente para el Desarrollo Rural Sustentable del Estado de Quintana Roo;
+XIX. Organismos genéticamente modificados: Cualquier organismo vivo que posea una combinación de material genético que se haya obtenido mediante la aplicación de biotecnología moderna;
 
-XX. Programas sectoriales: Los programas específicos de los gobiernos federal, estatal y municipal, que establezcan políticas, objetivos, presupuestos e instrumentos para el desarrollo rural sustentable;
+XX. Poder Ejecutivo: El Poder Ejecutivo del Gobierno del Estado de Quintana Roo;
 
-XXI. Recursos naturales: Los bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales como: tierras, bosques, recursos minerales, agua, comunidades vegetativas y animales y recursos genéticos;
+XXI. Programa Especial Concurrente: El Programa Especial Concurrente para el Desarrollo Rural Sustentable del Estado de Quintana Roo;
 
-XXII. Red Estatal: La Red Estatal de Desarrollo Rural de Quintana Roo;
+XXII. Recursos naturales: Los bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales como: tierras, bosques, recursos minerales, agua, comunidades vegetativas, animales y recursos genéticos;
 
-XXIII. Regiones: Las demarcaciones territoriales establecidas por la Secretaría de Desarrollo Agropecuario, Rural y Pesca del Estado; para la ejecución de los programas, políticas y acciones estatales en materia de desarrollo rural sustentable;
+XXIII. Red Estatal: La Red Estatal de Desarrollo Rural de Quintana Roo;
 
-XXIV. Secretaría: La Secretaría de Desarrollo Agropecuario, Rural y Pesca del Estado de Quintana Roo;
+XXIV. Regiones: Las demarcaciones territoriales establecidas por la Secretaría de Desarrollo Agropecuario, Rural y Pesca del Estado; para la ejecución de los programas, políticas y acciones estatales en materia de desarrollo rural sustentable;
 
-XXV. Seguridad alimentaria: El abasto oportuno, suficiente e incluyente de alimentos a la población humana;
+XXV. Secretaría: La Secretaría de Desarrollo Agropecuario, Rural y Pesca del Estado de Quintana Roo;
 
-XXVI. Sistema-producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
+XXVI. Seguridad alimentaria; El abasto oportuno, suficiente e incluyente de alimentos a la población humana;
 
-XXVII. Soberanía alimentaria humana: La potestad del Estado para garantizar, con producción local, la seguridad alimentaria de la población del Estado y contribuir al abasto nacional de alimentos; así como para promover en el ámbito federal las políticas tendientes a esta finalidad, y
+XXVII. Sistema-producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
 
-XXVIII. Unidades Regionales de Desarrollo Rural: Las unidades establecidas en las regiones en que se divide el Estado para hacer efectivas las acciones de la Red Estatal, que se integran por un equipo técnico interdisciplinario especializado en servicios para el desarrollo rural sustentable, seguimiento de proyectos productivos, así como la organización y articulación de todos los agentes del medio rural.
+XXVIII. Soberanía alimentaria humana: La potestad del Estado para garantizar, con producción local, la seguridad alimentaria de la población del Estado y contribuir al abasto nacional de alimentos; así como para promover en el ámbito federal las políticas tendientes a esta finalidad, y
+
+XXIX. Unidades Regionales de Desarrollo Rural: Las unidades establecidas en las regiones en que se divide el Estado para hacer efectivas las acciones de la Red Estatal, que se integran por un equipo técnico interdisciplinario especializado en servicios para el desarrollo rural sustentable, seguimiento de proyectos productivos, así como la organización y articulación de todos los agentes del medio rural.
 
 ###### Artículo 4.
 
@@ -139,11 +147,17 @@ Las acciones en materia de desarrollo rural sustentable en el Estado, se regirá
 
 I. Equidad social y de género: La superación de la desigualdad e inequidad socioeconómica, cultural, ambiental y de género para generar condiciones que favorezcan la disminución de la pobreza y la eliminación de toda forma de exclusión y discriminación de la población rural;
 
-II. Integralidad: La comunidad es una totalidad compleja concebida para actuar como un todo sistémico y no como la suma aislada de las partes que lo componen;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-III. Productividad: El indicador de eficiencia que relaciona la cantidad de recursos utilizados con la cantidad y calidad de producción obtenida, así como el impacto social generado, y
+II. Integralidad: La comunidad es una totalidad compleja concebida para actuar como un todo sistémico, por tanto, todos sus elementos son parte esencial para su funcionamiento;
 
-IV. Sustentabilidad: La administración eficiente y racional de los recursos naturales, de manera tal que sea posible mejorar el bienestar de la población humana sin comprometer la calidad de vida de las generaciones futuras.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+III. Productividad: El indicador de eficiencia que relaciona la cantidad de recursos utilizados por la cantidad y calidad de producción obtenida, así como el impacto social y ambiental generado, y
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+IV. Sustentabilidad: La administración eficiente y racional de los recursos naturales, de manera tal que sea posible mejorar el bienestar de la población actual sin comprometer la calidad de vida de las generaciones futuras.
 
 ###### Artículo 7.
 
@@ -165,9 +179,25 @@ I. El Titular del Poder Ejecutivo;
 
 II. La Secretaría;
 
-III. Los ayuntamientos, y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-IV. Las demás que establezca esta Ley, la Ley Federal y otras disposiciones legales y normativas aplicables.
+III. Los Ayuntamientos,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2021)</small>
+
+IV. La Secretaría de Desarrollo Económico (SEDE);
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+V. La Secretaría de Desarrollo Social (SEDESO);
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+VI. El Instituto para el Desarrollo del Pueblo Maya (INMAYA), y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JUNIO DE 2021)</small>
+
+VII. Las demás que establezca esta Ley, la Ley Federal y otras disposiciones legales y normativas aplicables.
 
 ### CAPÍTULO II. De la Competencia de las Autoridades
 
@@ -179,7 +209,9 @@ I. Aprobar la política estatal en materia de desarrollo rural sustentable, en c
 
 II. Expedir la normatividad necesaria para la exacta observancia de las disposiciones de esta Ley, así como de los programas y acciones derivadas de la misma;
 
-III. Celebrar convenios con las autoridades federales, estatales y municipales, y los agentes de la sociedad rural, para realizar acciones conjuntas de fomento al desarrollo rural sustentable en el Estado;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+III. Celebrar convenios con las autoridades federales, estatales y municipales; las organizaciones o asociaciones, instituciones educativas y de investigación y los agentes de la sociedad rural, para realizar acciones conjuntas de fomento al desarrollo rural sustentable en el Estado;
 
 IV. Aprobar el Programa Especial Concurrente y demás instrumentos programáticos vinculados con el desarrollo rural sustentable del Estado;
 
@@ -199,15 +231,21 @@ I. Implementar las acciones previstas en esta Ley, en el Programa Especial Concu
 
 II. Coordinar la planeación, programación, seguimiento y evaluación de las políticas públicas en el sector rural, en congruencia con las disposiciones de la Ley Federal y el Plan Nacional de Desarrollo;
 
-III. Proponer al Titular del Poder Ejecutivo la celebración de convenios con las autoridades federales, estatales y municipales, y los agentes de la sociedad rural, para realizar acciones conjuntas de fomento al desarrollo rural sustentable en el Estado;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+III. Proponer a la persona Titular del Poder Ejecutivo la celebración de convenios con las autoridades federales, estatales y municipales; las organizaciones o asociaciones, instituciones educativas y de investigación y; los agentes de la sociedad rural, para realizar acciones conjuntas de fomento al desarrollo rural sustentable en el Estado;
 
 IV. Promover la integración y el funcionamiento de los Consejos Estatal, Distritales y Municipales;
 
 V. Impulsar acciones en coordinación con los diferentes órdenes de gobierno para el desarrollo de las actividades económicas de la sociedad rural;
 
-VI. Promover la enseñanza y capacitación de los agentes de la sociedad rural, a efecto de que desarrollen sus capacidades y habilidades en el trabajo, para incrementar sus ingresos y mejorar su calidad de vida;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-VII. Impulsar y apoyar la generación, transferencia y adopción de tecnología en las actividades agropecuarias, así como fomentar y apoyar los programas de investigación en las diversas ramas de la producción agropecuaria;
+VI. Promover la enseñanza, capacitación y acompañamiento de los agentes de la sociedad rural, a efecto de que desarrollen sus capacidades y habilidades en las actividades de aprovechamiento sustentable de los recursos naturales, para incrementar sus ingresos y mejorar su calidad de vida;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+VII. Impulsar y apoyar la generación, transferencia y adopción de tecnología en las actividades agropecuarias, así como fomentar y apoyar los programas de investigación en las diversas ramas de la producción de éstas;
 
 VIII. Promover la celebración de convenios de cooperación para la investigación científico-tecnológica con instituciones de investigaciones nacionales y estatales, y con organismos internacionales, para impulsar el desarrollo rural sustentable;
 
@@ -223,7 +261,9 @@ XIII. Promover y apoyar los proyectos productivos rurales con especial atención
 
 XIV. Implementar las medidas de control de sanidad, inocuidad y calidad agroalimentaria, de conformidad con las disposiciones legales aplicables;
 
-XV. Promover la organización y el patrocinio de ferias, exposiciones y concursos agrícolas, ganaderos, avícolas, apícolas, frutícolas, artesanales, forestales y de servicios rurales en el Estado, entre otros, en coordinación con las autoridades competentes;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+XV. Promover la organización y el patrocinio de ferias, exposiciones y concursos agrícolas, ganaderos, avícolas, apícolas, frutícolas, artesanales, hortícolas, acuícolas y de servicios rurales en el Estado, entre otros, en coordinación con las autoridades competentes;
 
 XVI. Colaborar con las instancias en materia de ordenamiento de la propiedad rural, a efecto de coadyuvar en el desarrollo rural sustentable y la certidumbre jurídica en la tenencia de la tierra rural;
 
@@ -233,9 +273,29 @@ XVIII. Integrar, operar y mantener actualizado el Sistema Estatal de Estadístic
 
 XIX. Establecer y operar la Red Estatal;
 
-XX. Participar en la programación y promoción de obras públicas, caminos en el medio rural, caminos saca cosechas, así como los accesos que faciliten e incrementen la producción, en coordinación con los diferentes órdenes de gobierno y los agentes de la sociedad rural, y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-XXI. Las demás que le confiera esta Ley, sus disposiciones reglamentarias y otras disposiciones legales y normativas aplicables.
+XX. Participar en la programación y promoción de obras públicas, caminos en el medio rural, caminos saca cosechas, así como los accesos que faciliten e incrementen la producción, en coordinación con los diferentes órdenes de gobierno y los agentes de la sociedad rural;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2021)</small>
+
+XXI. Realizar los diagnósticos regionales como instrumentos para la implementación de acciones que coadyuven al desarrollo rural sustentable;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+XXII. Diseñar acciones encaminadas a apoyar, fomentar y promover la producción orgánica y el uso de abonos orgánicos para el mejor manejo y conservación del suelo y agua;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+XXIII. Proponer al ejecutivo programas y acciones que fomenten prácticas sostenibles, para reducir y erradicar en la medida de lo posible el uso de sustancias químicas nocivas para la vida humana y el ambiente, en las actividades primarias que se desarrollan en el estado;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+XXIV. Fomentar y promover en coordinación con SEDE la producción, transformación y el consumo de los productos y subproductos agropecuarios del Estado, mediante la asesoría, capacitación y comercialización a nivel nacional e internacional, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JUNIO DE 2021)</small>
+
+XXV. Las demás que le confiera esta ley, sus disposiciones reglamentarias y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 12.
 
@@ -255,7 +315,9 @@ VI. Participar en el establecimiento de la Red Estatal;
 
 VII. Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable, conforme a las leyes vigentes en la materia;
 
-VIII. Colaborar en la aplicación de los programas vinculados con la sanidad agropecuaria, de acuerdo a las disposiciones federales y estatales aplicables, y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+VIII. Colaborar en la aplicación de los programas vinculados con la sanidad e inocuidad agropecuaria, de acuerdo a las disposiciones federales y estatales aplicables, y
 
 IX. Las demás que le confiera esta Ley, sus disposiciones reglamentarias, y otras disposiciones legales y normativas aplicables.
 
@@ -281,9 +343,11 @@ V. Los demás instrumentos y ordenamientos aplicables en materia de desarrollo r
 
 La planeación de la política de desarrollo rural sustentable en el Estado se orientará al mejoramiento económico y social de los agentes de la sociedad rural, conforme a los criterios de equidad social y de género, integralidad, productividad y sustentabilidad.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
 ###### Artículo 15.
 
-La planeación de la política de desarrollo rural sustentable en el Estado, deberá ser congruente con la realidad rural y el marco legal, social y económico vigente, así como considerar las necesidades comunes de los agentes de la sociedad rural y procurar la participación de los sectores social y privado.
+La planeación de la política de desarrollo rural sustentable en el Estado, deberá ser congruente con la realidad rural y el marco legal, social, ambiental y económico vigente, así como considerar las necesidades comunes de los agentes de la sociedad rural y procurar la participación de los sectores social y privado además de instituciones educativas y de investigación.
 
 ###### Artículo 16.
 
@@ -296,6 +360,10 @@ II. Programas Sectoriales, a través de los cuales se coordinará y dará congru
 III. Programas Especiales, a través de los cuales se establecerán acciones para dar respuesta a las contingencias que así lo ameriten, con la participación de los diferentes órdenes de gobierno y de acuerdo a la competencia de actividades y ordenamientos normativos vigentes en la materia.
 
 En la integración de los programas a que se refiere este artículo se considerarán las propuestas de las organizaciones y agentes de la sociedad rural que operen y tengan representación formal en el Estado; así mismo, se integrarán a los programas los compromisos derivados de los convenios o acuerdos formales establecidos con los diferentes órdenes de gobierno.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+Artículo 16 BIS. Dentro de la planeación de la política de desarrollo rural sustentable, deberá considerarse aquellas actividades económicas que en las zonas rurales se puede implementar por el potencial adquirido por los recursos naturales que las comprenden, como el turismo rural, la capacitación y almacenamiento del dióxido de carbono.
 
 ###### Artículo 17.
 
@@ -311,9 +379,11 @@ I. Combate a la pobreza y la marginación en el medio rural;
 
 II. Acciones de mejoramiento de la salud y la alimentación de la población;
 
-III. Infraestructura y recursos humanos para la salud;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-IV. Educación;
+III. Infraestructura y recursos humanos para la salud y la educación;
+
+IV. (DEROGADA, P.O. 22 DE JUNIO DE 2021)
 
 V. Política de población;
 
@@ -321,7 +391,9 @@ VI. Planeación familiar;
 
 VII. Construcción y rehabilitación de viviendas adecuadas a las condiciones ambientales regionales;
 
-VIII. Fomento a la organización social;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+VIII. Estrategias de protección civil en respuesta a daños causados por desastres naturales, o actividades antropogénicas;
 
 IX. Aseguramiento del abasto de productos básicos según la tradición alimentaria del Estado;
 
@@ -333,7 +405,9 @@ XII. Impulso a proyectos estratégicos;
 
 XIII. Fortalecimiento y apoyo a los programas y acciones implementados por los municipios en el sector rural;
 
-XIV. Creación de capacidades de gestión y participación entre la población;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+XIV. Estimular el desarrollo de capacidades de gestión y participación entre la población;
 
 XV. Diseño de proyectos productivos con aplicación de tecnologías adecuadas a la situación ecológica y económica de las comunidades rurales;
 
@@ -605,9 +679,27 @@ La Secretaría establecerá las demarcaciones territoriales de las regiones. En 
 
 ### CAPÍTULO VI. De la Red Estatal de Desarrollo Rural de Quintana Roo
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
 ###### Artículo 46.
 
-El Poder Ejecutivo, por conducto de la Secretaría, establecerá la Red Estatal que tendrá por objeto ejecutar acciones de extensionismo, asistencia técnica y capacitación en las regiones del Estado. Para la consecución del objeto de la Red Estatal, la Secretaría podrá coordinarse con otras dependencias y entidades de la Administración Pública del Estado.
+El Poder Ejecutivo, por conducto de la Secretaría, establecerá la Red Estatal, que tendrá por objeto ejecutar acciones de extensionismo, asistencia técnica y capacitación a los agentes de la sociedad rural en las distintas regiones del Estado. Para la consecución del objeto de la Red Estatal, la Secretaría podrá coordinarse con otras dependencias y entidades de la Administración Pública del Estado en la elaboración de mecanismos de concurrencia local.
+
+Las acciones de extensionismo, asistencia técnica y capacitación mencionadas en el párrafo anterior, deberán considerar la equidad social y de género.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+Artículo 46 BIS. La Red Estatal estará conformada por personal de diversas disciplinas, con experiencia y conocimiento técnico en materia agropecuaria, acuícola y pesquero.
+
+Para la planeación y evaluación de sus acciones sesionará cada tres meses.
+
+Además de las funciones establecidas en la presente Ley, se encargará del diseño, planeación y organización de las capacitaciones que se impartirán cada año de acuerdo a las necesidades de los agentes del medio rural.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+Artículo 46 TER. La red Estatal cada año presentará a la Secretaría su programa de actividades atendiendo las necesidades del medio rural para lo cual se coordinará con las Unidades Regionales de Desarrollo Rural respecto a las acciones que requieren de mayor atención en las zonas rurales.
+
+De igual manera deberá rendir informes semestrales sobre el progreso de los programas de actividades que al efecto se establezcan.
 
 ###### Artículo 47.
 
@@ -661,9 +753,17 @@ El Poder Ejecutivo, con la participación de los diferentes órdenes de gobierno
 
 I. Incrementar la productividad y la competitividad de las actividades en el ámbito rural, a fin de fortalecer el empleo y elevar el ingreso de los productores;
 
-II. Generar condiciones favorables para ampliar los mercados agropecuarios, y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-III. Aumentar el capital natural para la producción, así como la constitución y consolidación de empresas rurales.
+II. Generar condiciones favorables para ampliar los mercados agropecuarios;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+III. Aumentar el capital natural para la producción, así como la constitución y consolidación de empresas rurales; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+IV. Implementar buenas prácticas sustentables para darle más valor a los productos.
 
 ###### Artículo 53.
 
@@ -741,9 +841,25 @@ X. La promoción y articulación de las cadenas de producción-consumo, para log
 
 XI. La reducción de los costos de intermediación, así como la promoción del acceso a servicios, venta de productos y adquisición de insumos;
 
-XII. Aprovechamiento y producción de fuentes alternas de energía, y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-XIII. Todas las demás que deriven del cumplimiento de esta Ley, sus disposiciones reglamentarias y demás disposiciones legales y normativas aplicables.
+XII. Aprovechamiento y producción de fuentes alternas de energía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2021)</small>
+
+XIII. La captación de dióxido de carbono, la conservación y recuperación de la cubierta vegetal, así como, la importancia de la cubierta vegetal como captadora de dióxido de carbono;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+XIV. El uso sustentable del agua en las actividades agropecuarias;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+XV. La implementación de estrategias que coadyuven a la mitigación de los efectos del cambio climático, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JUNIO DE 2021)</small>
+
+XVI. Todas las demás que deriven del cumplimiento de esta Ley, sus disposiciones reglamentarias y demás disposiciones legales y normativas aplicables.
 
 ### CAPÍTULO II. De la Investigación y Transferencia de Tecnología
 
@@ -775,9 +891,17 @@ VII. Facilitar la reconversión productiva del sector dirigida a cultivos, varie
 
 VIII. Desarrollar formas de aprovechamiento y mejoramiento de los recursos naturales, que incrementen los servicios ambientales y la productividad de manera sustentable y mitiguen los efectos de los fenómenos climatológicos;
 
-IX. Difundir información sobre el estado de los recursos naturales y los procesos que lo determinan, así como las bases para la construcción de los indicadores correspondientes, y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-X. Vincular de manera prioritaria la investigación científica y el desarrollo tecnológico con programas orientados a mejorar el nivel de vida de las familias rurales.
+IX. Difundir información sobre el estado de los recursos naturales y los procesos que lo determinan, así como las bases para la construcción de los indicadores correspondientes;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+X. Vincular de manera prioritaria la investigación científica y el desarrollo tecnológico con programas orientados a mejorar el nivel de vida de las familias rurales, y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+XI. Impulsar alternativas que reemplacen el uso de sustancias químicas utilizadas en la producción agropecuaria y dañinas para la vida humana y fauna, además del medio ambiente.
 
 ###### Artículo 61.
 
@@ -803,9 +927,11 @@ II. Incorporar a los productores y agentes de la sociedad rural, y
 
 III. Brindar atención prioritaria a los productores y agentes de la sociedad rural que se encuentren en zonas con mayor rezago económico y social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2021)</small>
+
 ###### Artículo 65.
 
-Las acciones que realice la Secretaría en materia de capacitación rural integral, en colaboración con las instancias federales, se dirigirán en todo caso a los siguientes objetivos:
+Las acciones que realice la Secretaría en materia de capacitación rural integral, en colaboración con las instancias estatales y federales, se dirigirán en todo caso a los siguientes objetivos:
 
 I. Desarrollar la capacidad de los productores, organizaciones y demás agentes de la sociedad rural para el mejor desempeño de sus actividades productivas;
 
@@ -815,15 +941,25 @@ III. Acreditar la capacitación de acuerdo con las normas de competencia laboral
 
 IV. Atender la capacitación en materia agropecuaria;
 
-V. Capacitar a los productores para el cumplimiento de sus obligaciones en materia ambiental y de bioseguridad;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+V. Capacitar a los productores para el cumplimiento de sus obligaciones en materia ambiental y de bioseguridad y comercial;
 
 VI. Promover y divulgar el conocimiento para el mejor aprovechamiento de los programas y apoyos institucionales que se ofrecen en esta materia;
 
 VII. Capacitar a los agentes de la sociedad rural a fin de que puedan acceder y participar activamente en los mecanismos de obtención de créditos y financiamiento;
 
-VIII. Fomentar los mecanismos que propicien el acceso a la información de mercados de los agentes de la sociedad rural, y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-IX. Preservar y recuperar las prácticas y los conocimientos tradicionales vinculados al aprovechamiento sustentable de los recursos naturales.
+VIII. Fomentar los mecanismos que propicien el acceso a la información de mercados de los agentes de la sociedad rural;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+IX. Preservar y recuperar las prácticas y los conocimientos tradicionales vinculados al aprovechamiento sustentable de los recursos naturales, y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+X. Proporcionar conocimientos y elementos a los productores en temas relacionados a la comercialización, marketing, proceso de producción, entre otros.
 
 ###### Artículo 66.
 
@@ -953,29 +1089,51 @@ La Secretaría integrará el Sistema Estatal de Sanidad, Inocuidad y Calidad Agr
 
 I. Promover el desarrollo de programas encaminados a la aplicación de medidas destinadas a la recolección, depósito, almacenamiento, tratamiento y destino final de desechos tóxicos, químicos, plásticos y otros productos con capacidad de contaminar suelos, agua, aire, medio ambiente y producir efectos nocivos en la población, en los términos de la Ley General para la Prevención y Gestión Integral de Residuos, la Ley para la Prevención, Gestión Integral y Economía Circular de los Residuos del Estado de Quintana Roo y demás disposiciones legales y normativas aplicables;
 
-II. Fomentar el uso de fertilizantes biológicos y orgánicos, así como de métodos de control biológico inducido para el control de plagas y enfermedades en los cultivos agrícolas, cuando sea técnicamente viable para el control de plagas y enfermedades de animales, con objeto de propiciar una producción amigable con el entorno y reducir los costos de aplicación de agroquímicos;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+II. Fomentar el uso de fertilizantes biológicos y orgánicos, así como de métodos de control biológico inducido para el control de plagas y enfermedades en los cultivos agrícolas, cuando sea técnicamente viable para el control de plagas y enfermedades de animales, con objeto de propiciar una producción más inocua y amigable con el entorno, además de reducir los costos de aplicación de agroquímicos;
 
 III. Elaborar y mantener actualizado un Catálogo de Productos Autorizados para las Campañas Sanitarias, que será un componente del Registro y se utilizará en las campañas sanitarias agrícolas, ganaderas y forestales;
 
-IV. Establecer mecanismos para controlar la introducción al Estado, de materiales químicos y biológicos prohibidos o que sean dañinos a la salud humana;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+IV. Establecer mecanismos para controlar la introducción al Estado, de materiales químicos y biológicos prohibidos o que sean dañinos a la salud humana y al medio ambiente;
 
 V. Inspeccionar la movilización de ganado, aves, peces, moluscos, hongos y vegetales para consumo humano;
 
 VI. Verificar la calidad de alimentos para especies y animales domésticos, mediante pruebas en laboratorios acreditados;
 
-VII. Instrumentar programas específicos para detectar, prevenir, controlar y combatir plagas y enfermedades en la agricultura, ganadería, acuacultura, apicultura, maricultura y silvicultura;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+VII. Instrumentar programas específicos para detectar, prevenir, controlar y combatir plagas y enfermedades en la agricultura, ganadería, acuacultura, apicultura, maricultura, agroforestería y silvicultura;
 
 VIII. Facilitar la movilización y libre tránsito de productos y subproductos agropecuarios hasta su destino final, que cuenten con la certificación de origen, que para tal efecto expida la autoridad correspondiente;
 
-IX. Promover el uso eficiente del agua y su saneamiento, así como el manejo del suelo agrícola y los desechos generados, para prevenir la contaminación ambiental y sus efectos en la salud humana;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+IX. Promover el uso eficiente del agua y su saneamiento, así como el manejo del suelo agrícola y los desechos generados, para prevenir la degradación de los suelos; la contaminación ambiental y sus efectos en la salud humana;
 
 X. Promover la declaratoria de zonas libres de plagas y enfermedades y mantener dicho estatus;
 
-XI. Realizar un diagnóstico del estatus sanitario de la avicultura rural y de la porcicultura, así como establecer un mapeo de zonas sanitarias, a fin de promover las medidas necesarias para el saneamiento y monitoreo de las actividades en las comunidades rurales;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-XII. Diseñar y ofrecer programas de capacitación y transferencia de tecnología en particular a los productores de las comunidades rurales para que estén en condiciones de cumplir con las normas oficiales mexicanas en materia de sanidad e inocuidad vigentes, y
+XI. Realizar un diagnóstico del estatus sanitario de la avicultura rural y de la porcicultura, bovinocultura y apicultura, así como establecer un mapeo de zonas sanitarias, a fin de promover las medidas necesarias para el saneamiento y monitoreo de las actividades en las comunidades rurales;
 
-XIII. Las demás que establezca la Comisión Intersecretarial Estatal.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+XII. Diseñar y ofrecer programas de capacitación y transferencia de tecnología en particular a los productores de las comunidades rurales para que estén en condiciones de cumplir con las normas oficiales mexicanas en materia de sanidad e inocuidad vigentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2021)</small>
+
+XIII. Desarrollar programas de apoyo a la producción orgánica con el fin de producir productos libres de sustancias nocivas para la vida y el ambiente;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+XIV. Vigilar la aplicación del respectivo manual de buenas prácticas de acuerdo al producto agropecuario, acuícola o pesquero de que se trate, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JUNIO DE 2021)</small>
+
+XV. Las demás que establezca la Comisión Intersecretarial Estatal.
 
 ###### Artículo 85.
 
@@ -1009,9 +1167,11 @@ El Poder Ejecutivo, a través de la Secretaría, se coordinará con el Gobierno 
 
 El Poder Ejecutivo, en coordinación con el Gobierno Federal, los productores y demás agentes de la sociedad rural, en materia de política de comercio exterior, fomentará las exportaciones de productos estatales mediante la acreditación de la denominación de origen, la condición sanitaria, de calidad e inocuidad, su carácter orgánico o sustentable que le impriman un valor agregado, así como la implementación de programas que estimulen y apoyen la producción y la transformación de productos ofertados por los agentes de la sociedad rural.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
 ###### Artículo 92.
 
-La Secretaría deberá identificar los productos que enfrenten dificultades en su comercialización, mismos que se propondrán para su análisis y aprobación al Consejo Mexicano de Desarrollo Rural Sustentable y a la Comisión Intersecretarial Federal, a efecto de que determinen si éstos son susceptibles de recibir los apoyos previstos en la Ley Federal. Adicionalmente, el Poder Ejecutivo, en coordinación con los productores, realizará las gestiones para solicitar las modificaciones que se requieran a los programas e instrumentos federales, con el objeto de que los productores rurales del Estado alcancen la rentabilidad que les corresponde.
+La Secretaría en coordinación con SEDE deberá identificar los productos que enfrenten dificultades en su comercialización, mismos que se propondrán para su análisis y aprobación al Consejo Estatal y a la Comisión Intersecretarial Estatal, a efecto de que determinen si éstos son susceptibles de recibir los apoyos previstos en la Ley Federal. Adicionalmente, el Poder Ejecutivo, en coordinación con los productores, realizará las gestiones para solicitar las modificaciones que se requieran a los programas e instrumentos federales, con el objeto de que los productores rurales del Estado alcancen la rentabilidad que les corresponde.
 
 ###### Artículo 93.
 
@@ -1099,9 +1259,11 @@ El Poder Ejecutivo podrá destinar recursos para la prevención de desastres nat
 
 ### CAPÍTULO XII. De la Información Económica y Productiva
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+
 ###### Artículo 107.
 
-La Secretaría implementará el Sistema Estatal de Estadísticas Agropecuarias, con objeto de proveer de información oportuna a los productores y agentes económicos que participan en la producción y en los mercados agropecuarios, así como coadyuvar, en esta misma función, con el Sistema Nacional de Información para el Desarrollo Rural Sustentable, previo convenio de coordinación que se suscriba con las instancias federales.
+La Secretaría implementará el Sistema Estatal de Estadísticas Agropecuarias, con el objeto de proveer de información oportuna a los productores y agentes económicos que participan en la producción y en los mercados agropecuarios, así como coadyuvar, en esta misma función, con el Servicio de Información Agroalimentaria y Pesquera, previo convenio de coordinación que se suscriba con las instancias federales correspondientes.
 
 ###### Artículo 108.
 
@@ -1219,6 +1381,10 @@ La Secretaría implementará los instrumentos necesarios que le permitan ser el 
 
 El Poder Ejecutivo del Estado deberá considerar como base de la política pública en materia de desarrollo social en el medio rural, la integración e incorporación de la sociedad rural al desarrollo social, con especial atención a los grupos prioritarios. El Poder Ejecutivo, a través de la Secretaría, coordinará y fomentará la participación de las dependencias de los tres órdenes de gobierno, los agentes de la sociedad rural y las organizaciones sociales no gubernamentales vinculadas a estos fines, así como a los pueblos y comunidades indígenas, para realizar acciones en materia de desarrollo social en el medio rural.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+El Poder Ejecutivo, a través de la Secretaría, coordinará y fomentará la participación de las dependencias de los tres órdenes de gobierno, los agentes de la sociedad rural, las organizaciones civiles, instituciones de investigación vinculadas a estos fines, así como a los pueblos y comunidades con mayor rezago social, para realizar acciones en materia de desarrollo social en el medio rural.
+
 ###### Artículo 123.
 
 Para incorporar acciones a los programas sectoriales y especiales, en materia de desarrollo social en el medio rural, se seguirán los siguientes lineamientos:
@@ -1245,7 +1411,9 @@ Los programas que formule el Poder Ejecutivo para su aplicación en las zonas de
 
 I. Impulsar la productividad mediante el acceso a insumos, equipos e infraestructura básica;
 
-II. Contribuir al aumento de la productividad de los recursos disponibles, en especial el capital social y humano, mediante la capacitación, incluyendo la laboral no agropecuaria, el extensionismo y, en particular, la necesaria para el manejo integral y sostenible de los agentes de la sociedad rural;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+II. Contribuir al aumento de la productividad de los recursos disponibles, en especial el capital social y humano, mediante la capacitación, acompañamiento técnico, asesoría, incluyendo la laboral no agropecuaria, el extensionismo y, en particular, la necesaria para el manejo integral y sostenible de los agentes de la sociedad rural;
 
 III. Apoyar la economía familiar, mediante el incremento y diversificación de la producción para el autoconsumo;
 
@@ -1328,3 +1496,13 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTISIETE DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL DIECINUEVE
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, LIC. FRANCISCO XAVIER LÓPEZ MENA, RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 123 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1 de enero del año 2022, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
