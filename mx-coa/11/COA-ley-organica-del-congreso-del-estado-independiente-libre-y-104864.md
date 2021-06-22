@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2021-05-04"
+last_updated: "2021-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -1459,7 +1459,11 @@ VIII. Creación de espacios de expresión plural y de género, de las personas q
 
 IX. Legislación estatal en materia de igualdad y prevención de la violencia por motivo de género.
 
-X. Otros asuntos que sean o se consideren de la competencia de esta comisión.
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2021)</small>
+
+X. Coadyuvar, dada su especialización en el tema, en el objetivo y las actividades propias de la Unidad de Género del Congreso del Estado.
+
+XI. Otros asuntos que sean o se consideren de la competencia de esta comisión.
 
 ###### ARTÍCULO 104.
 
@@ -1793,9 +1797,9 @@ En caso de vacantes en las comisiones permanentes o especiales, la o el Presiden
 
 Los Comités son órganos del Congreso del Estado que se constituyen por disposición del Pleno, para realizar tareas diferentes a las de las comisiones. Tendrán la duración y funciones que señale el acuerdo de su creación.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
 
-Se integrarán por cinco Diputadas o Diputados, observando lo dispuesto en el artículo 21, fracción II, de esta ley, así como el principio de paridad de género en cuanto al número de sus integrantes, siendo designados por el Pleno a propuesta de la Junta de Gobierno, de los cuales uno será la o el Presidente, otro será la o el Secretario y los tres restantes tendrán el carácter de vocales. Las o los vocales podrán suplir en sus faltas temporales a la o el Presidente y a la o el Secretario, atendiendo al orden de su vocalía.
+Se integrarán hasta por cinco Diputadas o Diputados, observando lo dispuesto en el artículo 21, fracción II, de esta ley, así como el principio de paridad de género en cuanto al número de sus integrantes, siendo designados por el Pleno a propuesta de la Junta de Gobierno, de los cuales uno será la o el Presidente, otro será la o el Secretario y los restantes tendrán el carácter de vocales. Las o los vocales podrán suplir en sus faltas temporales a la o el Presidente y a la o el Secretario, atendiendo al orden de su vocalía.
 
 Cada Comité podrá contar, a propuesta de la Junta de Gobierno, con el personal necesario para su buen desempeño.
 
@@ -3211,6 +3215,32 @@ Igualmente, la Dirección de Asuntos Jurídicos, mediante los oficios de comisi�
 
 El personal de estas direcciones, así como los tres Secretarios Técnicos de las Comisiones de Gobernación, Puntos Constitucionales y Justicia; Hacienda y Cuenta Pública y Finanzas, serán designados al inicio del ejercicio de cada Legislatura por la o el Presidente de la Junta de Gobierno y dependerán de la Oficialía Mayor.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+ARTÍCULO 280 BIS. El Congreso contará con una Unidad de Género que se ubicará orgánica y jerárquicamente respecto del o la titular de la Presidencia de la Junta de Gobierno, a quien corresponderá designar a su titular. Será responsable de asegurar la institucionalización de la perspectiva de género en la cultura organizacional del Congreso del Estado y tendrá las siguientes atribuciones:
+
+I. Proponer acciones orientadas a la igualdad sustantiva del Congreso del Estado;
+
+II. Coadyuvar con las instancias competentes para promover ambientes libres de violencias (sic); ponderando la prevención del acoso y el hostigamiento sexual en el Congreso del Estado;
+
+III. Elaborar un protocolo de prevención, atención, investigación y sanción de la violencia, el hostigamiento y el acoso sexual, así como las prácticas contrarias a la igualdad y a la no discriminación en el Congreso del Estado, mismo que deberá ser sometido a aprobación de la Junta de Gobierno;
+
+IV. Elaborar un diagnóstico en materia de perspectiva de género, en el que se identifiquen áreas de oportunidad para fortalecer la igualdad sustantiva entre hombres y mujeres en el Congreso del Estado, el cual será presentado a la Junta de Gobierno para que determine las acciones a seguir;
+
+V. Proponer ante la Junta de Gobierno políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios de imparcialidad, objetividad, productividad, imparcialidad, disposición y compromiso institucional;
+
+VI. Colaborar con el Instituto de Investigaciones Jurídicas y Parlamentarias en la elaboración de estudios que se refieran a la igualdad de género, así como en anteproyectos para adecuar la normatividad existente con perspectiva de género;
+
+VII. Contribuir en la formación y especialización de las diputadas, los diputados y el personal del Congreso del Estado en materia de perspectiva de género e igualdad sustantiva;
+
+VIII. Brindar asesoría en materia de igualdad de género a la Legislatura y emitir opinión a las comisiones legislativas que así lo soliciten, respecto a las iniciativas de ley en materia de igualdad de género;
+
+IX. Apoyar a la Comisión para la Igualdad y No Discriminación en las acciones o proyectos que realice;
+
+X. Impartir cursos de capacitación enfocados a fortalecer la igualdad de género en el Congreso del Estado;
+
+XI. Las demás que acuerde el Pleno del Congreso, la Diputación Permanente o la Junta de Gobierno.
+
 ###### ARTÍCULO 281.
 
 Los órganos encargados de los servicios financieros, parlamentarios y administrativos, se integran con los recursos humanos, físicos, técnicos y materiales que se les destinen para cumplir con sus funciones.
@@ -3296,6 +3326,10 @@ XI. Las demás que acuerde el Pleno del Congreso, la Diputación Permanente o la
 ###### ARTÍCULO 287.
 
 El Instituto de Investigaciones Jurídicas y Parlamentarias, contará con las áreas de trabajo que determine la Junta de Gobierno y que autorice el presupuesto del Congreso.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2021)</small>
+
+El Instituto de Investigaciones Jurídicas y Parlamentarias coordinará acciones con la Unidad de Género del Congreso del Estado, en los temas concernientes a la igualdad de género.
 
 ## TITULO OCTAVO. DEL SERVICIO CIVIL DE CARRERA
 
@@ -3746,3 +3780,19 @@ El presente Decreto entrará en vigor al momento de su aprobación.
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo de 60 días siguientes a la aprobación del presente Decreto, el Congreso deberá llevar a cabo la integración de la Comisión de los Derechos de las Niñas, Niños y Adolescentes.
+
+P.O. 22 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 68.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 132 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al momento de su aprobación.
+
+P.O. 22 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 69.- SE ADICIONAN LA FRACCIÓN X, RECORRIÉNDOSE LA ULTERIOR (SIC) AL ARTÍCULO 103, EL ARTÍCULO 280 BIS Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 287 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- La Unidad de Género deberá instalarse dentro de los 60 días naturales siguientes a la publicación del presente Decreto.
+
+TERCERO.- Una vez que se instale formalmente la Unidad de Género del Congreso del Estado, ésta elaborará y someterá a la aprobación del Presidente de la Junta de Gobierno el protocolo de prevención, atención, investigación y sanción de la violencia, el hostigamiento y el acoso sexual, así como las prácticas contrarias a la igualdad y a la no discriminación en el Congreso del Estado, dentro de los 30 días naturales siguientes.
