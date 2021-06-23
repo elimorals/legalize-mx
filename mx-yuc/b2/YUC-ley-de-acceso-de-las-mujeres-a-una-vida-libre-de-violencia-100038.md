@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2020-07-23"
+last_updated: "2021-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de abril de 2014.
 
@@ -235,9 +235,13 @@ b) Interrumpir u obstaculizar la lactancia o su extracción, y
 
 c) Cuando se le prohíba o condicione la permanencia a un lugar público por motivo de lactancia.
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], D.O. 23 DE JUNIO DE 2021)</small>
 
-V. Violencia institucional: es la cometida por las personas con calidad de servidores públicos que tenga como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia, así como a cualquier otra a que tengan derecho, siempre que cubran los requisitos exigidos por la normativa vigente.
+V. Violencia institucional: es toda acción u omisión de las personas servidoras públicas que discrimine o tenga como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia, así como a cualquier otra a que tengan derecho, siempre que cubran los requisitos exigidos por la normativa vigente.
+
+> <small>(ADICIONADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+Las autoridades estatales y municipales tienen la obligación de organizar el aparato gubernamental de manera tal que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia, a través de la prevención, atención, investigación, sanción y, en su caso, reparación del daño que les inflijan.
 
 > <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
 
@@ -359,7 +363,9 @@ g) La Secretaría de Fomento Económico y Trabajo.
 
 h) La Secretaría de las Mujeres.
 
-i) El Sistema para el Desarrollo Integral de la Familia.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+i) El Sistema para el Desarrollo Integral de la Familia en Yucatán.
 
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -487,21 +493,23 @@ II. Colaborar con la Secretaría de las Mujeres en la prestación de servicios r
 
 III. Diseñar obligatoriamente políticas públicas encaminadas a lograr el bienestar obstétrico de las mujeres durante su embarazo, siendo este el periodo comprendido entre la fase prenatal, el parto y la etapa del puerperio o posparto. Estas políticas, deberán tener como finalidad respetar los derechos de las mujeres embarazadas, para evitar que se les dañe o denigre, por falta oportuna o ineficaz en la atención de sus necesidades obstétricas; así como para evitar medicación o intervenciones quirúrgicas innecesarias, situaciones que impidan la negación u obstaculización del apego de los recién nacidos con su madre, y en general, la eliminación de cualquier trato deshumanizado durante esta etapa.
 
-> <small>(ADICIONADA, D.O. 22 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-IV. Sensibilizar y capacitar permanentemente al personal de salud para procurar el bienestar obstétrico con un trato humanizado respetando la dignidad e integridad de la persona.
+IV. Sensibilizar y capacitar permanentemente al personal que labora dentro de las instituciones de salud de los sectores público y privado, en materia de derechos humanos, con el fin de procurar el bienestar obstétrico con un trato humanizado, garantizando el respeto a la dignidad e integridad de la persona y erradicando las conductas discriminatorias o violentas hacia la mujer.
 
-> <small>(ADICIONADA, D.O. 22 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-V. Difundir de manera permanente y promover de forma inexcusable, información sobre el bienestar obstétrico como uno de los derechos de las mujeres durante el embarazo, parto y puerperio, principalmente entre la población mayahablante del estado.
+V. Difundir de manera permanente y promover de forma inexcusable, principalmente entre la población indígena y grupos vulnerables, información sobre el bienestar obstétrico como uno de los derechos de las mujeres durante el embarazo, parto y puerperio, así como la información necesaria que les permita identificar los casos de violencia obstétrica.
 
 > <small>(ADICIONADA, D.O. 22 DE MARZO DE 2016)</small>
 
 VI. Proporcionar de manera permanente, a las clínicas y hospitales privados del estado, información relacionada con las acciones encaminadas a lograr el bienestar obstétrico en las mujeres durante toda la etapa de su embarazo o parto.
 
-> <small>(ADICIONADA, D.O. 22 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-VII. Establecer mecanismos de vigilancia hacia las instituciones de salud en relación al bienestar obstétrico. Cualquier acción u omisión contraria al bienestar obstétrico, deberá ser sancionada por las disposiciones legales correspondientes; asimismo se deberán difundir las medidas administrativas y judiciales que correspondan.
+VII. Establecer mecanismos de vigilancia hacia las instituciones de salud en relación al bienestar obstétrico e instrumentar medidas de atención y canalización de denuncias por casos de violencia obstétrica que se susciten dentro de estas.
+
+Cualquier acción u omisión contraria al bienestar obstétrico, deberá ser sancionada por las disposiciones legales correspondientes; asimismo se deberán difundir las medidas administrativas y judiciales que correspondan.
 
 > <small>(ADICIONADA, D.O. 18 DE JUNIO DE 2019)</small>
 
@@ -525,7 +533,11 @@ III. Elaborar y difundir materiales educativos para la prevención y atención d
 
 IV. Promover cursos y talleres de prevención y atención de la violencia contra las mujeres para los docentes y padres de familia.
 
-V. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+V. Formular y aplicar programas y protocolos que permitan la prevención, detección, atención y erradicación temprana de los problemas de violencia contra las mujeres en los centros educativos públicos y privados, haciendo énfasis en la violencia digital.
+
+VI. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 17.
 
@@ -569,9 +581,19 @@ V. Llevar un registro de las órdenes de protección que otorgue, así como las 
 
 VI. Brindar protección para salvaguardar la integridad física de las víctimas y en su caso de quienes denuncien cualquier tipo de violencia contra las mujeres.
 
-VII. Elaborar y aplicar protocolos especializados de investigación y resolución de los delitos de violencia familiar, trata de personas, sexuales y cualquier otro relacionado que implique actos de violencia contra la mujer.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-VIII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+VII. Elaborar y aplicar protocolos especializados con perspectiva de género, en la búsqueda inmediata de mujeres, niñas y adolescentes desaparecidas, para la investigación y resolución de los delitos de violencia familiar, trata de personas, discriminación, feminicidio, sexuales y cualquier otro relacionado que implique actos de violencia contra la mujer.
+
+> <small>(ADICIONADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+VIII. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia. Y proporcionar de manera periódica la información a que se refiere esta fracción al Banco Estatal de Datos para integrarla al sistema de información sobre Casos de Violencia contra las Mujeres;
+
+> <small>(ADICIONADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+IX. Crear un micrositio en la página de Internet actual de la Fiscalía General del Estado, en la que se encuentren los datos generales de las mujeres, niñas y adolescentes que sean reportadas como desaparecidas en el estado; dicho micrositio deberá actualizarse constantemente. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres, niños, niñas y adolescentes desaparecidos; atendiendo los términos que establece la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Yucatán; y
+
+X. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 > <small>(REFORMADO SU EPÍGRAFE, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -639,7 +661,11 @@ XII. Implementar políticas públicas orientadas a los agresores y encaminadas a
 
 XIII. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
-XIV. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+XIV. Proponer, elaborar, promover e implementar programas y protocolos para prevenir, atender, sancionar y erradicar la violencia digital en todas sus formas y manifestaciones.
+
+XV. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 22.
 
@@ -711,7 +737,9 @@ II. Implementar las políticas, los programas y las acciones que consideren pert
 
 III. Participar en el sistema estatal y en la ejecución del programa especial.
 
-IV. Diseñar e implementar campañas de información, cursos y talleres sobre el contenido de esta ley, los tipos y las modalidades de violencia, su prevención y las medidas de atención del sistema estatal.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+IV. Diseñar e implementar campañas de información, cursos y talleres en materia de derechos humanos, igualdad de género y sobre el contenido de esta ley, los tipos y las modalidades de violencia, su prevención y las medidas de atención del sistema estatal.
 
 V. Celebrar convenios con las autoridades federales, estatales y municipales para realizar acciones conjuntas en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
@@ -729,7 +757,11 @@ VIII. Implementar lactarios para garantizar a las madres la protección adecuada
 
 IX. Crear instancias de las mujeres.
 
-X. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+X. Implementar programas para prevenir, atender y sancionar la violencia digital en todas sus formas y manifestaciones.
+
+XI. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 ### Capítulo III. Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres
 
@@ -1053,9 +1085,9 @@ Legitimación
 
 Las órdenes de protección pueden ser solicitadas por la víctima, su representante legal o el Ministerio Público.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
-En caso de que la víctima se encuentre impedida o imposibilitada para solicitarla, podrán hacerlo quienes ejerzan la patria potestad o tutela, la Procuraduría de la Defensa del Menor y la Familia o cualquier persona que tenga conocimiento de los hechos.
+En caso de que la víctima se encuentre impedida o imposibilitada para solicitarla, podrán hacerlo quienes ejerzan la patria potestad o tutela, el Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda, en el ámbito de sus respectivas competencias, o cualquier persona que tenga conocimiento de los hechos.
 
 ###### Artículo 48.
 
@@ -1109,9 +1141,13 @@ Las órdenes de emergencia son las órdenes de protección otorgadas por la auto
 
 Las órdenes de emergencia son independientes de cualquier tipo de proceso jurisdiccional y se sujetarán a lo siguiente:
 
-I. Las órdenes de emergencia tendrán una temporalidad no mayor de setenta y dos horas y deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generan.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-II. Las órdenes de emergencia podrán prorrogarse por la autoridad jurisdiccional, cuando la víctima, su representante legal o el Ministerio Público soliciten una orden de protección cautelar o definitiva, y hasta en tanto no se determinen éstas.
+I. Las órdenes de emergencia tendrán una temporalidad de hasta 60 días, y deberán expedirse dentro de las cuatro horas siguientes al conocimiento de los hechos que las generan.
+
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+II. Las órdenes de emergencia podrán prorrogarse por la autoridad jurisdiccional, hasta por 30 días más o por el tiempo que dure la investigación o prolongarse hasta que cese la situación de riesgo para la víctima, o cuando la víctima, su representante legal o el Ministerio Público soliciten una orden de protección cautelar o definitiva, y hasta en tanto no se determinen éstas.
 
 III. Cuando la víctima, su representante legal o el Ministerio Público, en su caso, soliciten a la autoridad jurisdiccional prórroga para solicitar una orden cautelar, acompañarán su solicitud con la demanda respectiva en materia familiar o la solicitud de audiencia de formulación de imputación, los cuales incluirán la solicitud de imposición de una orden cautelar.
 
@@ -1127,9 +1163,9 @@ VII. El juez o tribunal decidirá la procedencia o no de la orden de emergencia 
 
 Órdenes de emergencia otorgadas por el Ministerio Público
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 23 DE JUNIO DE 2021)</small>
 
-Los fiscales del Ministerio Público deberán otorgar las órdenes de protección inmediata de emergencia señaladas en las fracciones I, II, III, IV y V del artículo 45, para lo cual se ajustarán a los procedimientos y formalidades establecidas en el artículo anterior. Para otorgar las órdenes a que se refiere este artículo se requerirá la solicitud oral o escrita de la víctima o, en caso de que esta se encuentre imposibilitada para solicitarla, lo podrán hacer su representante legal, su apoderado, quienes ejerzan la patria potestad o tutela, la Procuraduría de la Defensa del Menor y la Familia o cualquier persona que tenga conocimiento de los hechos, aunque sea una persona menor de edad.
+Los fiscales del Ministerio Público deberán otorgar las órdenes de protección inmediata de emergencia señaladas en las fracciones I, II, III, IV y V del artículo 45, para lo cual se ajustarán a los procedimientos y formalidades establecidas en el artículo anterior. Para otorgar las órdenes a que se refiere este artículo, se requerirá la solicitud oral o escrita de la víctima o, en caso de que esta se encuentre imposibilitada para solicitarla, lo podrán hacer su representante legal, su apoderado, quienes ejerzan la patria potestad o tutela, el Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda, en el ámbito de sus respectivas competencias, o cualquier persona que tenga conocimiento de los hechos, aunque sea una persona menor de edad.
 
 > <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -1245,6 +1281,12 @@ Los servicios a cargo de los refugios temporales deberán prestarse con perspect
 
 ### Capítulo IV. Centros de reeducación
 
+### Capítulo V
+
+De los Protocolos de Actuación para la Prevención, Atención, Sanción y Erradicación de Violencia contra Mujeres, Niñas y de Género.
+
+> <small>(ADICIONADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### Artículo 62.
 
 Objetivo de los centros de reeducación
@@ -1288,6 +1330,36 @@ II. Tratamiento psicológico o psiquiátrico según lo requiera de acuerdo a un 
 III. Información jurídica sobre las consecuencias legales de su conducta.
 
 IV. Los demás que dispongan las autoridades en la materia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 23 DE JUNIO DE 2021)</small>
+
+###### Artículo 67.
+
+Las dependencias y entidades de los poderes del estado, los ayuntamientos y organismos constitucionales autónomos, deberán contar con protocolos especializados en la prevención, atención y sanción de violencia laboral, acoso y hostigamiento sexual.
+
+> <small>(ADICIONADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+###### Artículo 68.
+
+Los protocolos de actuación en materia de prevención, atención, sanción y erradicación de violencia contra las mujeres, niñas y de género a que se refiere esta ley deberán establecer cuando menos:
+
+I. Las reglas mínimas de actuación en la prevención, atención, sanción y erradicación de las violencias contra mujeres y niñas;
+
+II. Las acciones específicas de prevención, atención y/o sanción, necesarias para cada tipo y modalidad de la violencia a la que va dirigido; y
+
+III. Los elementos teóricos, normativos, prácticos y técnicos para su ejecución.
+
+> <small>(ADICIONADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+###### Artículo 69.
+
+Las dependencias y entidades públicas que en el ejercicio de sus funciones tengan injerencia con instituciones privadas como centros educativos y laborales y de salud entre otros, deberán de expedir y vigilar la aplicación de los protocolos de actuación en materia de prevención, atención, sanción y erradicación de la violencia contra mujeres, niñas y de género a los que se refiere esta ley aplicable para dichas instituciones.
+
+> <small>(ADICIONADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+###### Artículo 70.
+
+En el caso de los protocolos especializados en la prevención, atención y erradicación del acoso y hostigamiento, además de lo que establece el artículo anterior deberán contemplar las medidas de reparación integral del daño y la protección en todo el proceso de la integridad de las víctimas, así como las garantías de no repetición de la conducta, no revictimización y el respeto al principio de presunción de inocencia.
 
 ## Artículos transitorios
 
@@ -1528,3 +1600,99 @@ Lo anterior, con excepción de lo dispuesto en los artículos 116 segundo párra
 Artículo segundo. Derogación tácita
 
 Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este decreto.
+
+D.O. 23 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 378/2021 POR EL QUE SE EMITE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE YUCATÁN, LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LA FAMILIA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE YUCATÁN, EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, LA LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE YUCATÁN, LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN Y LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación de la ley
+
+Se abroga la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 12 de junio de 2015.
+
+Tercero. Abrogación de la ley que crea la Prodemefa
+
+Se abroga la Ley que crea la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 7 de marzo de 1979.
+
+Cuarto. Obligación normativa
+
+El Congreso del estado deberá armonizar las leyes secundarias relacionadas con la materia de este decreto, en un plazo no mayor a ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Quinto. Expedición del reglamento de la ley
+
+El gobernador, en un plazo no mayor de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Hasta en tanto se emitan estas disposiciones continuará aplicándose el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 10 de mayo de 2017, que se encuentra en vigor, en lo que no contravenga lo establecido en este decreto.
+
+Sexto. Régimen de vigencia especial
+
+El Acuerdo DIF 07/SO/2a /2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014, dejará de ser aplicable a partir de que se emita el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Séptimo. Expedición del programa
+
+El gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este decreto.
+
+El gobernador podrá prescindir de la expedición de este programa siempre que los elementos que señala este decreto estén incluidos en un programa de mediano plazo, de protección de niñas, niños y adolescentes.
+
+Octavo. Instalación de los sistemas local y municipales de protección
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán y los sistemas municipales de protección integral de niñas, niños y adolescentes deberán instalarse dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Expedición del reglamento interno
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contado a partir de su instalación.
+
+Décimo. Obligación normativa
+
+La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia en Yucatán deberá realizar las adecuaciones necesarias al Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia en Yucatán, dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Décimo primero. Modificación de regulación interna del DIF-Yucatán y sistemas DIF municipales
+
+El Sistema para el Desarrollo Integral de la Familia en Yucatán y los sistemas municipales para el desarrollo integral de la familia deberán adecuar su regulación interna en los términos de lo dispuesto en este decreto dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Décimo segundo. Nombramiento del secretario ejecutivo del sistema de protección integral
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, el secretario ejecutivo del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará en el cargo.
+
+Los requisitos exigidos en el artículo 20 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto se realice por la persona titular del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo tercero. Nombramiento de la persona titular de la procuraduría de protección
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, la procuradora de la Defensa del Menor y la Familia en el Estado de Yucatán, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará como titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo cuarto. Protección de los derechos de los adultos mayores y personas con discapacidad
+
+En los casos en los que las leyes le otorguen facultades y obligaciones a la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán en lo referente a la protección de los derechos de adultos mayores y personas con discapacidad, se entenderá que será competente el Sistema para el Desarrollo Integral de la Familia en Yucatán; lo anterior, con motivo de la especialización de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán en los términos de lo dispuesto en este decreto.
+
+Décimo quinto. Referencia a la procuraduría de protección
+
+En lo sucesivo, cuando en alguna norma se haga referencia a la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán o al Procurador de la Defensa del Menor y la Familia en el Estado de Yucatán, se entenderá que se refieren, en todos los casos, a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o a la persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda.
+
+Décimo sexto. Procedimientos y asuntos en trámite
+
+Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se substanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
+
+Décimo séptimo. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, a la entrada en vigor de este decreto, seguirán conservando su misma categoría y derechos laborales que les corresponden ante la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en los términos de la legislación aplicable.
+
+Décimo octavo. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, pasarán a formar parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo noveno. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+D.O. 23 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 379/2021 POR EL QUE SE MODIFICAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN Y EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE EQUIDAD DE GÉNERO, VIOLENCIA INSTITUCIONAL, VIOLENCIA OBSTÉTRICA, PROTOCOLOS Y ÓRDENES DE PROTECCIÓN DE EMERGENCIA".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Las dependencias y entidades públicas de la administración pública estatal y municipal, el Poder Legislativo y Judicial, así como organismos autónomos obligados por el presente decreto a crear los protocolos, contarán con un plazo de 180 días hábiles a partir de la publicación del presente, para la elaboración y publicación de los mismos.
+
+Artículo Tercero.- Se derogan las disposiciones de igual o menor jerarquía en lo que se oponga a lo establecido en este decreto.
