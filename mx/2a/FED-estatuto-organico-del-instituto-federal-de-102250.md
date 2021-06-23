@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-federal-de-102250"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-04"
-last_updated: "2020-10-02"
+last_updated: "2021-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102250&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,11 @@ issue_date: "2014-08-27"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES
 
-[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-[NOTA 2. EL 27 DE SEPTIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 184/2020, DECLARÓ LA INVALIDEZ DEL PUNTO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES MODIFICA SU ESTATUTO ORGÁNICO, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/].
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 ESTATUTO ORGÁNICO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2021.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de septiembre de 2014.
 
@@ -3301,11 +3299,11 @@ El órgano interno de control del Instituto, su Titular y el personal adscrito a
 
 Los servidores públicos adscritos al órgano interno de control, en el desempeño de sus funciones, se conducirán de conformidad con los principios que establecen la Constitución, las leyes generales, así como las federales, para regir el servicio público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2021)</small>
 
 ###### Artículo 82.
 
-Para el despacho de los asuntos de su competencia, el órgano interno de control tendrá adscritas a su cargo a las Titularidades de las Áreas: de Substanciación y Resolución, de Denuncias e Investigaciones, de Auditoría y de Mejora de la Gestión Pública, las cuales, a su vez se auxiliarán en los Directores y Subdirectores de Área, Jefes de Departamento y demás servidores públicos que se determinen conforme al presupuesto autorizado y tengan adscritos. Al Titular del órgano interno de control le corresponden originariamente las atribuciones conferidas a las Titularidades de las Áreas que se establecen en el presente Capítulo del Estatuto Orgánico, así como las siguientes:
+Para el despacho de los asuntos de su competencia, el órgano interno de control tendrá adscritas a su cargo a las Titularidades de las Áreas: de Substanciación y Resolución, de Denuncias e Investigaciones, de Auditoría, de Mejora de la Gestión Pública y de Asuntos Jurídicos, las cuales, a su vez, se auxiliarán en los Directores y Subdirectores de Área, Jefes de Departamento y demás servidores públicos que se determinen conforme al presupuesto autorizado y tengan adscritos. Al Titular del órgano interno de control le corresponden originariamente las atribuciones conferidas a las Titularidades de las Áreas que se establecen en el presente Capítulo del Estatuto Orgánico, así como las siguientes:
 
 > <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
@@ -3387,11 +3385,11 @@ XX. Las demás que las disposiciones jurídicas otorguen a los órganos internos
 
 El Titular del órgano interno de control del Instituto estará sujeto a las mismas reglas de contacto establecidas en la Ley de Telecomunicaciones para los Comisionados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2021)</small>
 
 ###### Artículo 83.
 
-Corresponde a las Titularidades de Área: de Substanciación y Resolución, de Denuncias e Investigaciones, de Auditoría y de Mejora de la Gestión Pública, el ejercicio de las siguientes atribuciones:
+Corresponde a las Titularidades de Área: de Substanciación y Resolución, de Denuncias e Investigaciones, de Auditoría, de Mejora de la Gestión Pública y de Asuntos Jurídicos, el ejercicio de las siguientes atribuciones:
 
 > <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
@@ -3475,27 +3473,29 @@ IX. Realizar la defensa jurídica, de conformidad con las leyes aplicables, en l
 
 Corresponde a la Titularidad del Área de Substanciación y Resolución el ejercicio de las siguientes atribuciones:
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE JUNIO DE 2021)</small>
 
-I. Ejercer las atribuciones que las leyes en materia de responsabilidades administrativas, otorguen a los titulares del área de responsabilidades, así como a las autoridades substanciadora y resolutora de los órganos internos de control, con respecto a la instauración, substanciación y en su caso resolución de procedimientos de responsabilidades administrativas, así como interponer y dar seguimiento al recurso de revisión, establecido en la Ley General de Responsabilidades Administrativas.
+I. Ejercer las atribuciones que las leyes en materia de responsabilidades administrativas, otorguen a los titulares del área de responsabilidades, así como a las autoridades substanciadora y resolutora de los órganos internos de control, con respecto a la instauración, substanciación y en su caso resolución de procedimientos de responsabilidades administrativas, así como, interponer y dar seguimiento al recurso de revisión, y tramitar el recurso de reclamación, de conformidad con la Ley General de Responsabilidades Administrativas.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2019)</small>
 
 Las funciones de substanciación y resolución a que se refiere la Ley General de Responsabilidades Administrativas, en ningún caso serán ejercidas por quien haya fungido como autoridad investigadora, en el asunto de que se trate;
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
 
-II. Recibir, iniciar, tramitar y resolver las inconformidades, procedimientos de sanción a licitantes, proveedores y contratistas, intervención de oficio y conciliación, así como recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios de cualquier naturaleza y obras públicas, de conformidad con las disposiciones jurídicas aplicables;
+II. Recibir, iniciar, tramitar y resolver las inconformidades, procedimientos de sanción a licitantes, proveedores y contratistas, intervención de oficio y conciliación, así como recibir los recursos de revisión que se promuevan en materia de adquisiciones, arrendamientos, servicios de cualquier naturaleza y obras públicas, de conformidad con las disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2019)</small>
 
 III. Llevar el control y procurar la inscripción de las sanciones y abstenciones pronunciadas en relación con los servidores públicos y las sanciones a los particulares, licitantes, proveedores o contratistas, en los registros instituidos al efecto en la normatividad;
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
 
-IV. Instruir los recursos administrativos que se hagan valer en contra de las resoluciones emitidas por la Titularidad del Área de Substanciación y Resolución, y someterlos a la resolución del Titular del Órgano Interno de Control, y
+IV. Instruir los recursos de revocación que se hagan valer en contra de las resoluciones emitidas por la Titularidad del Área de Substanciación y Resolución, para su resolución por parte del Titular del órgano interno de control, de conformidad con la Ley General de Responsabilidades Administrativas, y
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
 
-V. Realizar la defensa jurídica, de conformidad con las leyes aplicables, en los juicios que se promuevan en contra de las resoluciones o actos que emita el Titular del órgano interno de control y/o las Titularidades de las Áreas del órgano interno de control, con excepción de aquella que le corresponda a la Titularidad del Área de Denuncias e Investigaciones en materia de responsabilidades administrativas.
+V. Realizar la defensa jurídica, de conformidad con las leyes aplicables, en los juicios que se promuevan en contra de las resoluciones o actos que emita.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2019)</small>
 
@@ -3573,11 +3573,31 @@ VI. Asesorar al Instituto en materia de control interno y administración de rie
 
 VII. Dar seguimiento a las acciones derivadas de las revisiones practicadas para evaluar los mecanismos internos de control establecidos por el Instituto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, D.O.F. 23 DE JUNIO DE 2021)</small>
+
+Artículo 87 BIS. Corresponde a la Titularidad del Área de Asuntos Jurídicos el ejercicio de las siguientes atribuciones:
+
+I. Substanciar y elaborar los proyectos de resolución de los recursos previstos en la normatividad que rige las adquisiciones, arrendamientos, y servicios del Instituto, así como, las obras públicas y servicios relacionados con las mismas, y que se interpongan en contra de resoluciones emitidas por la Titularidad del Área de Substanciación y Resolución, a fin de someterlos a la resolución de la persona Titular del órgano interno de control;
+
+II. Elaborar y someter a la consideración de la persona Titular del órgano interno de control, los proyectos de resolución del recurso de revocación en materia de responsabilidades administrativas, en los términos previstos en la Ley General de Responsabilidades Administrativas;
+
+III. Planear, coordinar y realizar la defensa jurídica de sus actos de autoridad, así como los emitidos por las personas titulares del órgano interno de control y de las Áreas de: Auditoría y Mejora de la Gestión Pública;
+
+IV. Representar legalmente a la persona Titular del órgano interno de control en los juicios de amparo y contenciosos administrativos en los que sea parte; ejercitar todas las acciones, excepciones, defensas, formular promociones y rendir informes de cualquier clase, formular alegatos, ofrecer pruebas, interponer recursos, y, en general, atender la tramitación de los juicios y dar cumplimiento a las resoluciones que en ellos se pronuncien;
+
+V. Comparecer en los procesos penales en los que la persona Titular del órgano interno de control sea parte, así como elaborar los informes, escritos y promociones que se requieran en estos procesos, derivados de las denuncias presentadas por el órgano interno de control sobre hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción o en su caso ante sus homólogos en el ámbito local;
+
+VI. Proponer, revisar, opinar y elaborar, por sí misma o en coordinación con las Titularidades de Área: de Substanciación y Resolución, de Denuncias e Investigaciones, de Auditoría y de Mejora de la Gestión Pública, los instrumentos legales que requiera o suscriba la persona Titular del órgano interno de control;
+
+VII. Elaborar los proyectos de bases y convenios de coordinación o de colaboración, así como los acuerdos de carácter general, circulares, lineamientos y demás disposiciones administrativas y legales, que expida la persona Titular del órgano interno de control, y
+
+VIII. Elaborar y someter a la consideración de la persona Titular del órgano interno de control, los proyectos de resolución en los procedimientos de responsabilidad administrativa instruidos en contra de los servidores públicos adscritos al órgano interno de control del Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2021)</small>
 
 ###### Artículo 88.
 
-El Titular del órgano interno de control del Instituto será suplido por los Titulares de las Áreas de Substanciación y Resolución, de Denuncias e Investigaciones, de Auditoría y de Mejora de la Gestión Pública, en el orden indicado. Los Titulares de las Áreas de Substanciación y Resolución, de Denuncias e Investigaciones, de Auditoría y de Mejora de la Gestión Pública serán suplidos en sus ausencias por el servidor público designado para tales efectos por el Titular del órgano interno de control o, en su defecto, por el del nivel jerárquico inmediato inferior que le esté adscrito. A igualdad de niveles jerárquicos, la suplencia será ejercida por el servidor público de mayor antigüedad en el cargo.
+El Titular del órgano interno de control del Instituto será suplido por los Titulares de las Áreas: de Substanciación y Resolución, de Denuncias e Investigaciones, de Auditoría, de Mejora de la Gestión Pública y de Asuntos Jurídicos, en el orden indicado. Los Titulares de las Áreas: de Substanciación y Resolución, de Denuncias e Investigaciones, de Auditoría, de Mejora de la Gestión Pública y de Asuntos Jurídicos, serán suplidos en sus ausencias por el servidor público designado para tales efectos por el Titular del órgano interno de control o, en su defecto, por el del nivel jerárquico inmediato inferior que le esté adscrito. A igualdad de niveles jerárquicos, la suplencia será ejercida por el servidor público de mayor antigüedad en el cargo.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2019)</small>
 
@@ -3868,3 +3888,15 @@ D.O.F. 2 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES MODIFICA SU ESTATUTO ORGÁNICO".]
 
 Único. El presente acuerdo entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES MODIFICA SU ESTATUTO ORGÁNICO”.]
+
+Primero. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, de conformidad con lo dispuesto en el artículo 46 de la Ley Federal de Telecomunicaciones y Radiodifusión. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El órgano interno de control deberá adecuar su estructura orgánica a lo dispuesto en el presente Acuerdo. El órgano interno de control deberá adecuar sus normas administrativas a lo dispuesto en el presente Acuerdo. En tanto no se efectúe la adecuación normativa a que se refiere este precepto, se continuarán aplicando aquellas vigentes antes de su entrada en vigor en lo que no se opongan a éste.
+
+Tercero. Las referencias hechas en otros ordenamientos, acuerdos, normas, lineamientos, resoluciones o cualquier otra disposición a la Dirección Jurídica del órgano interno de control, se entenderán hechas a la Titularidad del Área de Asuntos Jurídicos del órgano interno de control.
+
+Cuarto. Los asuntos que a la entrada en vigor del presente Acuerdo se estén llevando a cabo en la Dirección Jurídica del órgano interno de control, continuarán su trámite ante la Titularidad del Área de Asuntos Jurídicos del órgano interno de control, de conformidad con lo dispuesto en el presente Acuerdo.
