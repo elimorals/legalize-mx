@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-educacion-del-estado-libre-y-soberano-de-chiapas-144559"
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-14"
-last_updated: "2020-10-14"
+last_updated: "2021-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de octubre de 2020.
 
@@ -1401,6 +1401,12 @@ La Secretaría, en el ámbito de su respectiva competencia, emitirá protocolos 
 
 A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
 
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2021)</small>
+
+###### Artículo 116 Bis.
+
+La autoridad educativa estatal promoverá la igualdad de oportunidades y la no discriminación, promoviendo contenidos no estereotipados de las mujeres y de los hombres en todo el proceso educativo, prohibiendo en las escuelas de educación básica y media superior, la realización de concursos, certámenes, elecciones y/o cualquier otra forma de competencia en la que se evalúe, de forma integral o parcial, y en base a estereotipos sexistas, la belleza o la apariencia física de niñas y/o adolescentes.
+
 ###### Artículo 117.
 
 La Secretaría emitirá los lineamientos para la contratación optativa de un seguro escolar contra accidentes personales para educandos que cursen el tipo básico. Dichas disposiciones contendrán los esquemas de subsidios que, en su caso, contemple el Gobierno del Estado de Chiapas.
@@ -2274,3 +2280,13 @@ El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumpl
 Dado en el Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 06 días del mes de Octubre del año dos mil veinte. - D. P. C. JOSÉ OCTAVIO GARCÍA MACÍAS. - D. S. C. MAYRA ALICIA MENDOZA ÁLVAREZ. – Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 14 días del mes de octubre del año dos mil veinte. - Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas. - Ismael Brito Mazariegos, Secretario General de Gobierno. - Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 363 DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 116 BIS, A LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS".]
+
+Artículo Primero. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. - Se derogan todas las disposiciones que se opongan al presente Decreto.
