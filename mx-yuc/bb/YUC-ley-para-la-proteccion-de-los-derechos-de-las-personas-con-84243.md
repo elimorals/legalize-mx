@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-21"
-last_updated: "2020-06-09"
+last_updated: "2021-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 21 de diciembre de 2011.
 
@@ -73,7 +73,9 @@ VI.- Comunidad de sordos: todo aquel grupo social cuyos miembros tienen alguna d
 
 VII.- (DEROGADA, D.O. 30 DE JULIO DE 2019)
 
-VIII.- DIF: el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+VIII.- DIF: el Sistema para el Desarrollo Integral de la Familia en Yucatán;
 
 IX.- (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
@@ -113,7 +115,9 @@ XXIII.- Política pública: todos aquellos planes, programas, mecanismos o accio
 
 XXIV.- Prevención: la adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
 
-XXV.- Procuraduría: la Procuraduría de la Defensa del Menor y la Familia del Estado de Yucatán, organismo dependiente del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Yucatán (DIF);
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+XXV.- Procuraduría: la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, organismo dependiente del Sistema para el Desarrollo Integral de la Familia en Yucatán (DIF);
 
 XXVI.- Programa: el Programa para la Protección de los Derechos de las Personas con Discapacidad del Estado de Yucatán;
 
@@ -437,9 +441,11 @@ La Procuraduría, en el ejercicio de sus atribuciones, realizará acciones para 
 
 Para contribuir al respeto de los derechos de niñas, niños y adolescentes con discapacidad, el DIF realizará acciones para la difusión y conocimiento de dichos derechos y ofrecerá apoyos educativos y formativos para quienes ejerzan la patria potestad, tutela o guarda y custodia de estos, a fin de aportarles los medios necesarios para que pueden (sic) fomentar su desarrollo y vida digna.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### Artículo 26.
 
-En todas las políticas públicas, acciones y actividades relacionadas con niñas, niños y adolescentes con discapacidad, una consideración primordial será la protección del interés superior del niño.
+En todas las políticas públicas, acciones y actividades relacionadas con niñas, niños y adolescentes con discapacidad, una consideración primordial será la protección del interés superior de la niñez.
 
 > <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
 
@@ -569,9 +575,11 @@ III.- Brindar capacitación a su personal para que las personas con discapacidad
 
 IV.- Las demás que señale esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### Artículo 44.
 
-Las personas con discapacidad tendrán derecho a recibir un trato digno y apropiado en los procedimientos administrativos y judiciales en que sean parte, así como obtener, por parte de las autoridades competentes, asesoría y representación jurídica en forma gratuita en dichos procedimientos, en los términos que establezcan las leyes respectivas.
+Las personas con discapacidad tendrán derecho a recibir un trato digno y apropiado en los procedimientos administrativos y judiciales en que sean parte, así como obtener, por parte del DIF y demás autoridades competentes, la asesoría y representación jurídica en forma gratuita en dichos procedimientos, para la defensa de sus derechos, cuando carezcan de representación o esta sea deficiente, en los términos que establezcan las leyes respectivas.
 
 ###### Artículo 45.
 
@@ -607,19 +615,27 @@ Las personas con discapacidad tienen derecho a que se respete su integridad fís
 
 Las autoridades estatales y municipales competentes, realizarán acciones en el ámbito social, educativo y de cualquier otra índole, que tengan por objeto prevenir y atender la explotación, violencia y abuso contra las personas con discapacidad, tanto en el seno del hogar como fuera de él.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### Artículo 51.
 
-Cualquier persona que tenga conocimiento de que una Persona con discapacidad está siendo o ha sido víctima de explotación, violencia y abuso, deberá dar aviso a la Procuraduría, a la Fiscalía General del Estado de Yucatán o a las autoridades de Seguridad Pública.
+Cualquier persona que tenga conocimiento de que una persona con discapacidad está siendo o ha sido víctima de explotación, violencia y abuso, deberá avisar al DIF, a la Fiscalía General del Estado de Yucatán o a las autoridades de Seguridad Pública.
+
+Tratándose de niñas, niños y adolescentes con discapacidad, se deberá avisar a la Procuraduría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### Artículo 52.
 
-Las personas con discapacidad que hayan sido víctimas de explotación, violencia y abuso, podrán recibir asistencia y apoyo del DIF, quien intervendrá en el ámbito de sus atribuciones y en la medida de sus posibilidades.
+Las personas con discapacidad que hayan sido víctimas de explotación, violencia y abuso, podrán recibir asistencia y apoyo del DIF o de la Procuraduría, quien intervendrá en el ámbito de sus atribuciones y en la medida de sus posibilidades.
 
 En su caso, dicha asistencia y apoyo, tendrá en cuenta la edad, el género y el tipo de discapacidad de las personas, así como procurará que dichas personas estén en aptitud de prevenir, reconocer y denunciar cualquier caso de explotación, violencia y abuso.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### Artículo 53.
 
-El DIF y la Secretaría de Salud, en el ámbito de sus respectivas competencias, realizarán acciones tendientes a la recuperación física, cognitiva y psicológica, así como la Rehabilitación y la reintegración social de las personas con discapacidad que sean víctimas de cualquier forma de explotación, violencia o abuso.
+El DIF, la Procuraduría y la Secretaría de Salud, en el ámbito de sus respectivas competencias, realizarán acciones tendientes a la recuperación física, cognitiva y psicológica, así como la Rehabilitación y la reintegración social de las personas con discapacidad que sean víctimas de cualquier forma de explotación, violencia o abuso.
 
 ### CAPÍTULO X. Derecho a vivir de forma independiente y a ser incluido en la comunidad
 
@@ -781,15 +797,19 @@ Las personas con discapacidad tienen los mismos derechos que las demás personas
 
 La Procuraduría realizará las acciones que tenga a su alcance para prevenir el ocultamiento, abandono, negligencia y segregación de las niñas, niños y adolescentes con discapacidad del núcleo familiar, así como para brindar la atención que se requiera en caso de que se produzcan dichos eventos.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### Artículo 70.
 
-Las niñas, niños y adolescentes con discapacidad no serán separados de sus padres contra su voluntad, salvo que sea necesario en el interés superior del niño y así lo decida la autoridad judicial competente.
+Niñas, niños y adolescentes con discapacidad no serán separados de sus padres contra su voluntad, salvo que sea necesario atendiendo al interés superior de la niñez y así lo decida la autoridad judicial competente.
 
-En ningún caso se separará a un menor de sus padres en razón de una discapacidad del menor, de ambos padres o de uno de ellos.
+En ningún caso se separará a niñas, niños y adolescentes de sus padres debido a una discapacidad, de ambos padres o de uno de ellos.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### Artículo 71.
 
-La Procuraduría debe proteger los derechos de las niñas, niños y adolescentes con discapacidad, en lo que respecta a la custodia, la tutela, la guarda y la adopción.
+La Procuraduría debe proteger los derechos de niñas, niños y adolescentes con discapacidad, en los procedimientos que se lleven a cabo ante la autoridad judicial respecto a la custodia, la tutela, la guarda y la adopción.
 
 ### CAPÍTULO XVI. Derecho a la educación
 
@@ -1418,3 +1438,89 @@ D.O. 9 DE JUNIO DE 2020.
 Artículo Único. Entrada en vigor
 
 El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 23 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 378/2021 POR EL QUE SE EMITE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE YUCATÁN, LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LA FAMILIA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE YUCATÁN, EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, LA LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE YUCATÁN, LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN Y LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación de la ley
+
+Se abroga la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 12 de junio de 2015.
+
+Tercero. Abrogación de la ley que crea la Prodemefa
+
+Se abroga la Ley que crea la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 7 de marzo de 1979.
+
+Cuarto. Obligación normativa
+
+El Congreso del estado deberá armonizar las leyes secundarias relacionadas con la materia de este decreto, en un plazo no mayor a ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Quinto. Expedición del reglamento de la ley
+
+El gobernador, en un plazo no mayor de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Hasta en tanto se emitan estas disposiciones continuará aplicándose el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 10 de mayo de 2017, que se encuentra en vigor, en lo que no contravenga lo establecido en este decreto.
+
+Sexto. Régimen de vigencia especial
+
+El Acuerdo DIF 07/SO/2a /2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014, dejará de ser aplicable a partir de que se emita el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Séptimo. Expedición del programa
+
+El gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este decreto.
+
+El gobernador podrá prescindir de la expedición de este programa siempre que los elementos que señala este decreto estén incluidos en un programa de mediano plazo, de protección de niñas, niños y adolescentes.
+
+Octavo. Instalación de los sistemas local y municipales de protección
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán y los sistemas municipales de protección integral de niñas, niños y adolescentes deberán instalarse dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Expedición del reglamento interno
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contado a partir de su instalación.
+
+Décimo. Obligación normativa
+
+La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia en Yucatán deberá realizar las adecuaciones necesarias al Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia en Yucatán, dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Décimo primero. Modificación de regulación interna del DIF-Yucatán y sistemas DIF municipales
+
+El Sistema para el Desarrollo Integral de la Familia en Yucatán y los sistemas municipales para el desarrollo integral de la familia deberán adecuar su regulación interna en los términos de lo dispuesto en este decreto dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Décimo segundo. Nombramiento del secretario ejecutivo del sistema de protección integral
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, el secretario ejecutivo del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará en el cargo.
+
+Los requisitos exigidos en el artículo 20 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto se realice por la persona titular del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo tercero. Nombramiento de la persona titular de la procuraduría de protección
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, la procuradora de la Defensa del Menor y la Familia en el Estado de Yucatán, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará como titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo cuarto. Protección de los derechos de los adultos mayores y personas con discapacidad
+
+En los casos en los que las leyes le otorguen facultades y obligaciones a la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán en lo referente a la protección de los derechos de adultos mayores y personas con discapacidad, se entenderá que será competente el Sistema para el Desarrollo Integral de la Familia en Yucatán; lo anterior, con motivo de la especialización de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán en los términos de lo dispuesto en este decreto.
+
+Décimo quinto. Referencia a la procuraduría de protección
+
+En lo sucesivo, cuando en alguna norma se haga referencia a la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán o al Procurador de la Defensa del Menor y la Familia en el Estado de Yucatán, se entenderá que se refieren, en todos los casos, a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o a la persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda.
+
+Décimo sexto. Procedimientos y asuntos en trámite
+
+Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se substanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
+
+Décimo séptimo. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, a la entrada en vigor de este decreto, seguirán conservando su misma categoría y derechos laborales que les corresponden ante la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en los términos de la legislación aplicable.
+
+Décimo octavo. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, pasarán a formar parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo noveno. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
