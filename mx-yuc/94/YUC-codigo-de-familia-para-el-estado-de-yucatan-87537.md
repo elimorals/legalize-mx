@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-familia-para-el-estado-de-yucatan-87537"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-04-30"
-last_updated: "2018-03-28"
+last_updated: "2021-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 30 de abril de 2012.
 
@@ -101,6 +101,14 @@ Los miembros de la familia se deben respeto, protección y ayuda recíproca que 
 
 Además tienen la obligación de no realizar conductas que generen violencia familiar o que atenten contra la integridad física, psíquica o sexual de otro miembro de la familia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 23 DE JUNIO DE 2021)</small>
+
+Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por las fracciones V y VI del artículo 2 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 23 DE JUNIO DE 2021)</small>
+
+Por violencia familiar se considera el uso intencional de la fuerza física, moral o de cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.
+
 Protección de la familia
 
 ###### Artículo 7.
@@ -115,11 +123,15 @@ Gestión Oficiosa
 
 Las instituciones del Estado en el ámbito de su competencia deben gestionar de oficio, en los casos en que proceda, la pérdida o suspensión de la patria potestad, la custodia, el derecho de convivencia o la reclamación de alimentos para niñas, niños y adolescentes o de personas incapaces.
 
-Procuraduría de la Defensa del Menor y la Familia
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 23 DE JUNIO DE 2021)</small>
+
+Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### Artículo 9.
 
-La Procuraduría de la Defensa del Menor y la Familia representa, en los procedimientos ante juzgados familiares, a las niñas, niños y adolescentes o a las personas incapaces, siempre que carecieren de representación o ésta fuere deficiente.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán representa, en los procedimientos ante juzgados familiares, a las niñas, niños y adolescentes y el Sistema para el Desarrollo Integral de la Familia en Yucatán a las personas con discapacidad, siempre que carecieren de representación o esta fuere deficiente.
 
 Los jueces deben dar vista a la Procuraduría de los asuntos en que pudieren verse afectados los derechos de las niñas, niños o adolescentes o de personas incapaces, para que la Procuraduría, en caso de estimarlo necesario, las represente.
 
@@ -355,7 +367,9 @@ II. El que ejerza la patria potestad o el que tenga la guarda y custodia legal d
 
 III. El tutor del acreedor alimentario, y
 
-IV. El Procurador de la Defensa del Menor y la Familia o el Ministerio Público, en su caso.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+IV. La persona que ocupe la titularidad de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o el Ministerio Público, en su caso.
 
 Formas de asegurar alimentos
 
@@ -1305,7 +1319,9 @@ El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segu
 
 La nulidad que nace de esta causa puede deducirse por el cónyuge del primer matrimonio, por sus hijos, hijas o herederos, por los cónyuges que contrajeron el segundo y por sus hijos, hijas o herederos.
 
-Si ninguna de las personas mencionadas deduce la acción de nulidad, la puede promover el Ministerio Público o en su caso la Procuraduría de la Defensa del Menor y la Familia.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Si ninguna de las personas mencionadas deduce la acción de nulidad, la puede promover el Ministerio Público o en su caso la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
 
 Nulidad por falta de solemnidades
 
@@ -1571,7 +1587,9 @@ Prevención para modificar el convenio
 
 El juez puede prevenir a los solicitantes para que modifiquen el convenio que hubieren presentado.
 
-La Procuraduría de la Defensa del Menor y la Familia o el Ministerio Público, en su caso, pueden oponerse a la aprobación de dicho convenio, cuando éste vaya en contra de la Ley o bien, sea contrario al interés superior de quienes estén sujetos a la patria potestad.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o el Ministerio Público, en su caso, pueden oponerse a la aprobación de dicho convenio, cuando este vaya en contra de la ley o bien, sea contrario al interés superior de quienes estén sujetos a la patria potestad.
 
 Aprobación del convenio
 
@@ -2251,11 +2269,13 @@ Reconocimiento de niñas, niños y adolescentes sujetos a protección, guarda o 
 
 Si la niña, niño o adolescente que se pretende reconocer se encuentra bajo la protección, guarda y custodia de personas que lo acogieron y que es conocido como hijo o hija de éstas, el juez es quien decide a quien corresponde la protección, guarda y custodia de aquél, en atención al interés superior de la niña, niño o adolescente y en consideración a las circunstancias del caso; lo anterior, sin perjuicio de que las personas que hayan acogido a la niña, niño o adolescente puedan contestar la demanda.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Derecho de las personas a solicitar la adopción
 
 ###### Artículo 271.
 
-Quienes acogieron a la niña, niño o adolescente pueden acudir a la Procuraduría de la Defensa del Menor y la Familia, a fin de que por su conducto, sea solicitada adopción de la niña, niño o adolescente ante el juez, en caso de que procediere o bien, a fin de que promuevan la pérdida de la patria potestad.
+Quienes acogieron a la niña, al niño o adolescente pueden acudir a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, a fin de que, por su conducto, sea solicitada la adopción de la niña, del niño o adolescente ante el juez, en caso de que procediere o bien, a fin de que promuevan la pérdida de la patria potestad.
 
 Reconocimiento simultáneo por parte de progenitores que no viven juntos
 
@@ -2263,7 +2283,9 @@ Reconocimiento simultáneo por parte de progenitores que no viven juntos
 
 Cuando el padre y la madre que no vivan juntos reconozcan al hijo o hija en el mismo acto, deben convenir ante el Oficial del Registro Civil cuál de los dos ejercerá la custodia, sin perjuicio de los derechos y obligaciones del otro progenitor.
 
-Cuando no se hiciere la designación, el juez, oyendo a los progenitores, a la Procuraduría de la Defensa del Menor y la Familia o al Ministerio Público, en su caso, debe resolver lo más conveniente a los intereses de la niña, niño o adolescente, pero ambos progenitores conservan la patria potestad.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Cuando no se hiciere la designación, el juez, oyendo a los progenitores, a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o al Ministerio Público, en su caso, debe resolver lo más conveniente a los intereses de la niña, del niño o adolescente, pero ambos progenitores conservan la patria potestad.
 
 Reconocimiento sucesivo de progenitores que no viven juntos
 
@@ -2277,11 +2299,13 @@ Facultad del juez para resolver sobre la protección, guarda y custodia
 
 El juez puede, posteriormente y en atención al interés superior de la niña, niño o adolescente, resolver que la protección, guarda y custodia de éste corresponda al progenitor que lo reconozca en segundo lugar o a una persona diversa, siempre procurando que haya comunicación entre los hijos o hijas y los progenitores. Además, resolverá lo relativo a la patria potestad.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Oposición al reconocimiento
 
 ###### Artículo 275.
 
-En caso de que alguno de los progenitores se oponga al reconocimiento, la Procuraduría de la Defensa del Menor y la Familia o, en su caso el Ministerio Público, puede representar a la niña, niño o adolescente en el juicio de investigación de la paternidad o maternidad, siempre que el progenitor conocido lo autorice.
+En caso de que alguno de los progenitores se oponga al reconocimiento, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o, en su caso el Ministerio Público, puede representar a la niña, al niño o adolescente en el juicio de investigación de la paternidad o maternidad, siempre que el progenitor conocido lo autorice.
 
 ## TÍTULO NOVENO. PATRIA POTESTAD
 
@@ -2369,19 +2393,27 @@ Siempre que se solicite la pérdida de la patria potestad, el juez es el que dec
 
 Para tal efecto el juez debe notificar y requerir a las personas que corresponda ejercerla, para que asuman las obligaciones respectivas y manifiesten su deseo de ejercer la patria potestad o se excusen por las causas previstas en este Código.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Obligaciones de quienes ejercen la patria potestad
 
 ###### Artículo 286.
 
-Las personas que ejerzan la patria potestad sobre otra tienen la obligación de protegerla y educarla convenientemente, de acuerdo a sus propias convicciones, religión o moral. Además deben observar una conducta que sirva de buen ejemplo, en caso necesario, las instituciones y autoridades estatales deben brindar apoyo en los casos en que proceda.
+Las personas que ejerzan la patria potestad sobre otra tienen la obligación de protegerla y educarla convenientemente, de acuerdo a sus propias convicciones, religión o moral.
+
+Las niñas, los niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole.
+
+Queda prohibido que la madre, padre o cualquier persona que ejerza la patria potestad, tutela o guarda, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños o adolescentes.
 
 Además deben observar una conducta que sirva de buen ejemplo, en caso necesario, las instituciones y autoridades estatales deben brindar apoyo en los casos en que proceda.
 
-Obligación de la Procuraduría de la Defensa del Menor y de la Familia y del Ministerio público
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Obligación de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán y del Ministerio público
 
 ###### Artículo 287.
 
-Cuando la Procuraduría de la Defensa del Menor y la Familia o del Ministerio Público, en su caso, tengan conocimiento que los que ejercen la patria potestad no cumplen con sus obligaciones, corrompen a la niña, niño o adolescente o abusan de su derecho a corregir, deben promover de oficio, ante el juez competente, la suspensión o pérdida de la patria potestad o de la custodia, en su caso.
+Cuando la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o del Ministerio Público, en su caso, tengan conocimiento que los que ejercen la patria potestad no cumplen con sus obligaciones, corrompen a la niña, al niño o adolescente o abusan de su derecho a corregir, deben promover de oficio, ante el juez competente, la suspensión o pérdida de la patria potestad o de la custodia, en su caso.
 
 Respeto recíproco
 
@@ -2491,7 +2523,9 @@ Facultad de juez para impedir la mala administración por parte de los que ejerc
 
 El juez tiene la facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes del descendiente se derrochen o disminuyan.
 
-Estas medidas se deben tomar a instancia de cualquier persona interesada, de la niña, niño o adolescente cuando hubiere cumplido doce años, de la Procuraduría de la Defensa del Menor y la Familia o del Ministerio Público, en su caso.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Estas medidas se deben tomar a instancia de cualquier persona interesada, de la niña, del niño o adolescente cuando hubiere cumplido doce años, de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o del Ministerio Público, en su caso.
 
 Extinción de la administración y usufructo de los que ejercen la patria potestad
 
@@ -2565,11 +2599,13 @@ Continuidad de obligaciones
 
 El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todos los deberes jurídicos que tienen para con sus hijos o hijas.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Solicitud de pérdida de patria potestad en caso de niñas, niños o adolescentes expósitos o abandonados
 
 ###### Artículo 310.
 
-La solicitud de la pérdida de la patria potestad, tratándose de niñas, niños o adolescentes abandonados o expósitos, debe ser solicitada por la Procuraduría de la Defensa del Menor y la Familia o el Ministerio Público, en su caso, en los términos de lo dispuesto en el Código de Procedimientos Familiares del Estado de Yucatán.
+La solicitud de la pérdida de la patria potestad, tratándose de niñas, niños o adolescentes abandonados o expósitos, debe ser solicitada por la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o el Ministerio Público, en su caso, en los términos de lo dispuesto en el Código de Procedimientos Familiares del Estado de Yucatán.
 
 Pérdida de la patria potestad resuelta en el divorcio
 
@@ -2593,9 +2629,11 @@ IV. En los casos de divorcio o nulidad del matrimonio, cuando el juez imponga es
 
 Conclusión del término de la suspensión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### Artículo 313.
 
-En los casos de suspensión de la patria potestad, una vez concluido el plazo fijado en la sentencia que la decreta, el juez debe decidir sobre el levantamiento de la medida o bien, decretar su continuación, atendiendo a las circunstancias particulares del caso y de acuerdo al informe que, en su caso, presente la Procuraduría de la Defensa del Menor y la Familia. El juez puede también prolongar, por una sola vez, la suspensión hasta por un término igual al primeramente fijado.
+En los casos de suspensión de la patria potestad, una vez concluido el plazo fijado en la sentencia que la decreta, el juez debe decidir sobre el levantamiento de la medida o bien, decretar su continuación, atendiendo a las circunstancias particulares del caso y de acuerdo con el informe que, en su caso, presente la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán. El juez puede también prolongar, por una sola vez, la suspensión hasta por un término igual al primeramente fijado.
 
 En los casos de suspensión por incapacidad o ausencia, una vez que se constate pericialmente la salud del enfermo o comparezca y se identifique plenamente al ausente, el juez que haya decretado la medida debe ordenar la recuperación de la patria potestad con todos sus efectos. Esto último es aplicable también en los casos en que aparezca vivo el presunto muerto.
 
@@ -2607,7 +2645,9 @@ En los casos en que se haya suspendido la patria potestad, quien o quienes la ej
 
 El juez debe tomar su decisión considerando las circunstancias particulares del caso y con base en los datos que aporten las diligencias que de oficio decrete.
 
-Antes de resolver en definitiva, el juez debe oír al ascendiente que ejerza este derecho o al tutor, y a la Procuraduría de la Defensa del Menor y la Familia o al Ministerio Público, en su caso, los que pueden oponerse fundadamente.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Antes de resolver, en definitiva, el juez debe oír al ascendiente que ejerza este derecho o al tutor, y a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o al Ministerio Público, en su caso, los que pueden oponerse fundadamente.
 
 Improcedencia de recuperación de la patria potestad
 
@@ -2693,11 +2733,13 @@ Continuidad de derechos y deberes sin tener la custodia
 
 Quien o quienes ejercen la patria potestad, aún cuando no tengan la custodia, conservan los derechos de vigilancia y convivencia con sus hijos o hijas, salvo que la autoridad judicial suspenda o extinga esos derechos, por considerar que existe peligro para las niñas, niños o adolescentes.
 
-Facultad de la Procuraduría de la Defensa del Menor y la Familia
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Facultad de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán
 
 ###### Artículo 327.
 
-La Procuraduría de la Defensa del Menor y la Familia está facultada para tener la custodia de las niñas, niños y adolescentes o personas incapaces en instituciones públicas, en las de asistencia privada o buscándole un lugar adecuado para dicho fin, en tanto se resuelve en definitiva la situación en que deben quedar.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán está facultada para tener la custodia de las niñas, los niños y adolescentes, y el Sistema para el Desarrollo Integral de la Familia en Yucatán, la custodia de las personas con discapacidad en instituciones públicas, en las de asistencia privada; o están facultadas para buscarles un lugar adecuado para dicho fin, en tanto se resuelve en definitiva la situación en que deben quedar.
 
 ### CAPÍTULO II. De la Custodia de los Hijos o Hijas
 
@@ -2741,17 +2783,21 @@ Custodia provisional otorgada por el juez
 
 El juez tiene la facultad de decretar la custodia provisional de las niñas, niños y adolescentes, en los casos en que así se requiera.
 
-La custodia provisional puede ser otorgada sólo a uno de los progenitores; a las personas que les corresponda el ejercicio de la patria potestad; a los parientes colaterales hasta el tercer grado o, en caso de que haya imposibilidad de designar a alguno de los familiares, o habiéndolo considera que no se protegería adecuadamente el interés superior de la niña, niño o adolescente, puede determinar su entrega a alguna institución de asistencia o a una familia sustituta.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+La custodia provisional puede ser otorgada sólo a uno de los progenitores; a las personas que les corresponda el ejercicio de la patria potestad; a los parientes colaterales hasta el tercer grado o, en caso de que haya imposibilidad de designar a alguno de los familiares, o habiéndolo considera que no se protegería adecuadamente el interés superior de la niña, del niño o adolescente, puede determinar su entrega a algún centro de asistencia social o a una familia de acogida.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Objeto de la custodia provisional
 
 ###### Artículo 334.
 
-La custodia provisional debe ser benéfica y en atención al interés superior de las niñas, niños y adolescentes.
+La custodia provisional debe ser benéfica y en atención al interés superior de niñas, niños y adolescentes.
 
-Cuando la Procuraduría de la Defensa del Menor y la Familia tenga conocimiento de que alguna niña, niño o adolescente es víctima de violencia familiar, generada por malos tratos, agresión física y/o psicológica, por parte de quien o quienes ejercen su patria potestad, custodia o tutela debe resguardar a la víctima y, en caso de que haya indicios suficientes, solicitar al juez que otorgue la custodia provisional.
+Cuando la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán tenga conocimiento de que alguna niña, algún niño o adolescente es víctima de violencia familiar, generada por malos tratos, agresión física o psicológica, por parte de quien o quienes ejercen su patria potestad, custodia o tutela debe resguardar a la víctima y, en caso de que haya indicios suficientes, solicitar al juez que otorgue la custodia provisional.
 
-Para efectos de lo dispuesto en este artículo el juez debe decretar la custodia provisional de la niña, niño o adolescente en forma inmediata y sin más formalidades que las establecidas para tal efecto en el Código de Procedimientos Familiares del Estado de Yucatán y ordenar que la Procuraduría tramite la integración provisionalmente a una vida en familia, hasta en tanto se resuelve el caso en forma definitiva.
+Para efectos de lo dispuesto en este artículo, el juez debe decretar la custodia provisional de la niña, del niño o adolescente en forma inmediata y sin más formalidades que las establecidas para tal efecto en el Código de Procedimientos Familiares del Estado de Yucatán y ordenar que la Procuraduría tramite la integración provisionalmente a una vida en familia, hasta en tanto se resuelve el caso en forma definitiva.
 
 Obligación de las personas a quienes se les otorga la custodia provisional
 
@@ -2791,29 +2837,35 @@ La integración a una vida en familia de los expósitos o de las niñas, niños 
 
 La integración a que se refiere este artículo puede servir de tránsito a medidas definitivas como son la reincorporación a la familia de origen o bien, la adopción.
 
-> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
-La Procuraduría de la Defensa del Menor y la Familia procurará que las niñas, niños y adolescentes en las situaciones antes referidas permanezcan en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán procurará que las niñas, los niños y adolescentes en las situaciones antes referidas, permanezcan bajo el cuidado de familias de acogida debidamente autorizadas, o en acogimiento residencial brindado por centros de asistencia social, el menor tiempo posible.
 
-Protección, guarda y custodia de las niñas, niños o adolescentes
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Protección, guarda y custodia de niñas, niños o adolescentes
 
 ###### Artículo 339.
 
-La Procuraduría de la Defensa del Menor y la Familia tiene a su cargo la protección, guarda y custodia de expósitos y de niñas, niños o adolescentes que hayan sido abandonados, de los que se encuentren en alguna situación de violencia así como de todos aquéllos que la autoridad judicial determine, sin perjuicio de otras atribuciones que por ley le correspondan.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán tiene a su cargo la protección, guarda y custodia de expósitos y de niñas, niños o adolescentes que hayan sido abandonados, de los que se encuentren en alguna situación de violencia, así como de todos aquellos que la autoridad judicial determine, sin perjuicio de otras atribuciones que por ley le correspondan.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Acuerdo para la integración a una familia
 
 ###### Artículo 340.
 
-La Procuraduría de la Defensa del Menor y la Familia puede determinar mediante acuerdo debidamente fundado y motivado, que las niñas, niños o adolescentes expósitos, abandonados o los que se encuentren en alguna situación de violencia que están bajo su protección, guarda y custodia, puedan ser integradas provisionalmente a una vida en familia.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán puede determinar mediante acuerdo debidamente fundado y motivado, que las niñas, los niños o adolescentes expósitos, abandonados o los que se encuentren en alguna situación de violencia que están bajo su protección, guarda y custodia, puedan ser integrados provisionalmente a una vida en familia.
 
-Integración de niñas, niños y adolescentes a familiares diversos o terceras personas
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Integración de niñas, niños y adolescentes a familiares diversos o a una familia de acogida
 
 ###### Artículo 341.
 
-Para efectos del artículo anterior la Procuraduría de la Defensa del Menor y la Familia también puede acordar la integración de las niñas, niños o adolescentes expósitos, abandonados o en situación de violencia con parientes diversos a sus progenitores o abuelos paternos o maternos, en los términos previstos en el artículo anterior.
+Para efectos del artículo anterior la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán también puede acordar la integración de niñas, niños o adolescentes expósitos, abandonados o en situación de violencia con familiares diversos a sus progenitores o abuelos paternos o maternos, en los términos previstos en el artículo anterior.
 
-En caso de que no existan parientes con capacidad para integrar a las niñas, niños o adolescentes la Procuraduría, puede acordar que dicha integración se lleve a cabo con terceras personas o con una familia sustituta.
+En caso de que la integración de niñas, niños o adolescentes con sus familiares no resulte lo más conveniente, en aplicación del principio del interés superior de la niñez, la Procuraduría, puede acordar que dicha integración se lleve a cabo con una familia de acogida.
 
 > <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
 
@@ -2823,89 +2875,111 @@ Preferencia para la integración
 
 Las niñas, niños o adolescentes abandonados o que se encuentren en situación de violencia serán integrados preferentemente con personas que sean parientes, siempre y cuando les sea benéfico, tomando en consideración el grado de parentesco, la relación de afinidad y de afectividad, el origen, la comunidad y las condiciones culturales en que se desarrollen. Asimismo, se procurará no separar a hermanas y hermanos, pero, si hubiera necesidad, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
 
-Familia sustituta
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Familia de acogida
 
 ###### Artículo 343.
 
-Para efectos de este Código se entiende por familia sustituta la persona o personas unidas que, no siendo la familia de origen, acogen a un expósito, a una niña, niño o adolescente abandonado o que se encuentre en una situación de violencia cuya protección, guarda y custodia, le corresponde a la Procuraduría de la Defensa del Menor y la Familia.
+Para efectos de este Código se entiende por familia de acogida la persona o personas unidas que, no siendo la familia de origen, acogen a un expósito, a una niña, un niño o adolescente abandonado o que se encuentre en una situación de violencia cuya protección, guarda y custodia, le corresponde a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, por un tiempo determinado sin fines de adopción.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Investigación para acordar la integración a la vida en familia
 
 ###### Artículo 344.
 
-La Procuraduría de la Defensa del Menor y la Familia, antes de acordar la integración a una vida en familia de las niñas, niños o adolescentes expósitos, abandonados que se encuentren en una situación de violencia que se encuentra bajo su guarda, custodia y protección, debe realizar las investigaciones necesarias que acrediten la conveniencia, viabilidad y beneficios que se generarán a la niña, niño o adolescente.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, antes de acordar la integración a una vida en familia de niñas, niños o adolescentes expósitos, abandonados que se encuentren en una situación de violencia y bajo su guarda, custodia y protección, debe realizar las investigaciones necesarias que acrediten la conveniencia, viabilidad y beneficios que se generarán a la niña, al niño o adolescente.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Verificación del cumplimiento de los requisitos
 
 ###### Artículo 345.
 
-Además de lo señalado en el artículo anterior, la Procuraduría de la Defensa del Menor y la Familia, debe verificar que los familiares, personas o las familias sustitutas interesadas en la integración a una vida en familia de las niñas, niños o adolescentes expósitos, abandonados o que se encuentre en una situación de violencia, cumplen con los requisitos señalados en el artículo siguiente y, en todo caso, tiene la obligación de informar a los interesados, acerca de los derechos y obligaciones inherentes a la integración.
+Además de lo señalado en el artículo anterior, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, debe verificar que los familiares, personas o las familias de acogida interesadas en la integración a una vida en familia de niñas, niños o adolescentes expósitos, abandonados o que se encuentren en una situación de violencia, cumplan con los requisitos señalados en el artículo siguiente y, en todo caso, tiene la obligación de informar a los interesados, acerca de los derechos y obligaciones inherentes a la integración.
 
-Requisitos que deben cumplir las personas o familias sustitutas
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Requisitos que deben cumplir las personas o familias de acogida
 
 ###### Artículo 346.
 
-La Procuraduría de la Defensa del Menor y la Familia, al acordar la integración a una vida en familia de las niñas, niños o adolescentes expósitos o abandonados o que se encuentre en una situación de violencia que se encuentran bajo su guarda, custodia y protección, debe constatar que los interesados acreditaron lo siguiente:
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, al acordar la integración a una vida en familia de niñas, niños o adolescentes expósitos o abandonados o que se encuentren en una situación de violencia y bajo su guarda, custodia y protección, debe constatar que los interesados acreditaron lo siguiente:
 
-I. Tener medios bastantes para proveer debidamente la subsistencia, educación y cuidado de la niña, niño o adolescente;
+I. Tener medios bastantes para proveer debidamente la subsistencia, educación y cuidado de la niña, del niño o adolescente;
 
-II. La aptitud e idoneidad para desempeñar las funciones inherentes a la custodia provisional de la niña, niño o adolescente;
+II. La aptitud e idoneidad para desempeñar las funciones inherentes a la custodia provisional de la niña, del niño o adolescente;
 
 III. Ser mayores de edad, y
 
 IV. Contar con buena reputación pública.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Irregularidad derivada de la investigación
 
 ###### Artículo 347.
 
-Cuando la Procuraduría de la Defensa del Menor y la Familia se percate en cualquiera de las investigaciones de alguna irregularidad que pueda ser constitutiva de algún delito debe dar aviso al Ministerio Público.
+Cuando la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán se percate en cualquiera de las investigaciones de alguna irregularidad que pueda ser constitutiva de algún delito debe dar aviso al Ministerio Público.
 
 Copia certificada del acuerdo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### Artículo 348.
 
-La Procuraduría de la Defensa del Menor y la Familia cuando acuerde la integración de una niña, niño o adolescentes expósito, abandonado o que se encuentre en una situación de violencia, debe otorgar a los interesados una copia certificada del acuerdo en el que conste su determinación.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán cuando acuerde la integración de una niña, un niño o adolescente expósito, abandonado o que se encuentre en una situación de violencia, debe otorgar a los interesados una copia certificada del acuerdo en el que conste su determinación.
 
 Cuando así proceda, la Procuraduría debe solicitar al juez que otorgue la custodia provisional.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Obligación de vigilancia
 
 ###### Artículo 349.
 
-La Procuraduría de la Defensa del Menor y la Familia está obligada a vigilar el desempeño de las personas o familias a quienes se les haya concedido la integración en familia de las niñas, niños o adolescentes expósitos o abandonados, con la periodicidad que resulte necesaria.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán está obligada a vigilar el desempeño de las personas o familias a quienes se les haya concedido la integración en familia de niñas, niños o adolescentes expósitos o abandonados, con la periodicidad que resulte necesaria.
 
-A su vez, las personas o familias a que se refiere el párrafo anterior, deben hacer del conocimiento de la Procuraduría de la Defensa del Menor y la Familia, los aspectos que puedan significar un cambio en las condiciones imperantes al momento en que se acordó la integración.
+A su vez, las personas o familias a que se refiere el párrafo anterior deben hacer del conocimiento de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, los aspectos que puedan significar un cambio en las condiciones imperantes al momento en que se acordó la integración.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Muerte de una de las personas
 
 ###### Artículo 350.
 
-En el caso de que fallezca una de las dos personas a quienes se les haya concedido la integración en familia de una niña, niño o adolescente, en tránsito a la adopción, la Procuraduría de la Defensa del Menor y la Familia, debe iniciar una investigación para determinar si subsisten las condiciones existentes al momento en que se haya acordado la integración.
+En el caso de que fallezca una de las dos personas a quienes se les haya concedido la integración en familia de una niña, un niño o adolescente en proceso de adopción, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, debe iniciar una investigación para determinar si subsisten las condiciones existentes al momento en que se haya acordado la integración.
 
-Para efectos de este artículo, la persona que subsiste debe hacer del conocimiento de la Procuraduría de la Defensa del Menor y la Familia el fallecimiento.
+Para efectos de este artículo, la persona que subsiste debe hacer del conocimiento de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán el fallecimiento.
 
-> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Revocación del acuerdo
 
 ###### Artículo 351.
 
-La Procuraduría de la Defensa del Menor y la Familia revocará el acuerdo a que se refiere este capítulo cuando se violen los derechos de la niña, niño o adolescente, cambien las condiciones imperantes del momento en que se acordó la integración, si resultan inconvenientes o en detrimento de su interés superior; no se consoliden las condiciones de adaptación con la familia sustituta, o por incumplimiento de las obligaciones alimenticias.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán revocará el acuerdo a que se refiere este capítulo cuando se violen los derechos de la niña, del niño o adolescente, cambien las condiciones imperantes del momento en que se acordó la integración, si resultan inconvenientes o en detrimento de su interés superior; no se consoliden las condiciones de adaptación con la familia de acogida, o por incumplimiento de las obligaciones alimenticias.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Conversión del acuerdo de integración en custodia provisional o adopción
 
 ###### Artículo 352.
 
-El acuerdo de integración a que hace referencia este Capítulo, puede convertirse en custodia provisional o adopción concedida por el juez, a solicitud de la persona o familia a la que se haya integrado una niña, niño o adolescente, una vez cumplidos los requisitos legales que señala este Código, según informes de la Procuraduría de la Defensa del Menor y la Familia o del Ministerio Público, en su caso.
+El acuerdo de integración a que hace referencia este capítulo puede convertirse en custodia provisional o adopción concedida por el juez, a solicitud de la persona o familia a la que se haya integrado una niña, un niño o adolescente, una vez cumplidos los requisitos legales que señala este Código, según informes de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o del Ministerio Público, en su caso.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Consentimiento para la conversión
 
 ###### Artículo 353.
 
-La conversión a que se refiere el artículo anterior, la debe solicitar la Procuraduría de la Defensa del Menor y la Familia al juez y a esta solicitud se le debe anexar el acuerdo de integración emitido por la propia Procuraduría.
+La conversión a que se refiere el artículo anterior, la debe solicitar la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán al juez y a esta solicitud se le debe anexar el acuerdo de integración emitido por la propia Procuraduría.
 
-El juez, antes de conceder la conversión debe solicitar a las niñas, niños o adolescentes integrados a una vida en familia, que estén en condiciones de formarse juicio propio, su consentimiento para la conversión, previa información sobre sus efectos.
+El juez, antes de conceder la conversión debe solicitar a las niñas, los niños o adolescentes integrados a una vida en familia, que estén en condiciones de formarse juicio propio, su consentimiento para la conversión, previa información sobre sus efectos.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Autorización de la conversión
 
@@ -2913,9 +2987,9 @@ Autorización de la conversión
 
 Autorizada la conversión, el juez debe ordenar al Oficial del Registro Civil correspondiente que inscriba un acta de nacimiento nueva al adoptado, en la que aparezcan los datos de sus progenitores adoptivos, sin ninguna mención de tal carácter de la filiación y ordenar la cancelación del acta de nacimiento original.
 
-Los antecedentes deben ser guardados en el secreto del archivo de la Procuraduría de la Defensa del Menor y la Familia, quien no puede informar sobre los antecedentes de los progenitores si se les conociere o clínicos, ni de ningún dato registral del adoptado, a no ser a solicitud del mismo cuando llegue a la mayoría de edad, en su caso, previa autorización judicial, para integrar su identidad o proteger su salud a través del conocimiento de posibles enfermedades hereditarias.
+Los antecedentes deben ser guardados en el secreto del archivo de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, quien no puede informar sobre los antecedentes de los progenitores si se les conociere o clínicos, ni de ningún dato registral del adoptado, a no ser a solicitud de este cuando cumpla la mayoría de edad, en su caso, previa autorización judicial, para integrar su identidad o proteger su salud a través del conocimiento de posibles enfermedades hereditarias.
 
-Las inscripciones que en relación a la adopción ordene el juez, deben ser gratuitas, siempre que en la solicitud de adopción se acredite que el o los progenitores adoptivos carecen de recursos económicos.
+Las inscripciones que en relación con la adopción ordene el juez, deben ser gratuitas, siempre que en la solicitud de adopción se acredite que el o los progenitores adoptivos carecen de recursos económicos.
 
 ### CAPÍTULO V. De la Convivencia
 
@@ -3039,7 +3113,9 @@ Derechos y obligaciones de la persona que adopta
 
 El que adopta tiene respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los progenitores respecto de la persona y bienes de los hijos o hijas biológicos.
 
-La Procuraduría de la Defensa del Menor y la Familia, a petición de los interesados en adoptar, puede solicitar al juez, durante el trámite de adopción, el cambio de nombre propio de la niña, niño o adolescente que se pretende adoptar, siempre que ésta no haya cumplido un año de edad; cuando sea mayor de dicha edad, sólo puede solicitarse que se añada un nombre al que originalmente tiene.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, a petición de los interesados en adoptar, puede solicitar al juez, durante el trámite de adopción, el cambio de nombre propio de la niña, del niño o adolescente que se pretende adoptar, siempre que no hayan cumplido un año de edad; cuando sea mayor de dicha edad, sólo puede solicitarse que se añada un nombre al que originalmente tiene.
 
 Derechos y obligaciones del adoptado
 
@@ -3061,13 +3137,13 @@ Derecho de la niña, niño o adolescente a emitir su opinión en caso de la adop
 
 En todo procedimiento de adopción de niñas, niños o adolescentes, estos se deberá (sic) escuchar y tomar en cuenta su opinión, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez.
 
-> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Asesoría en materia de adopción
 
 ###### Artículo 373 Bis.
 
-La Procuraduría de la Defensa del Menor y la Familia brindará asesoría a quienes pretendan consentir o consientan la adopción y a quienes pretendan aceptarla o la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de esta.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán brindará asesoría a quienes pretendan consentir o consientan la adopción y a quienes pretendan aceptarla o la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de esta.
 
 Personas sujetas a la adopción
 
@@ -3091,11 +3167,13 @@ Derecho preferente para la adopción
 
 La persona que haya acogido a la niña, niño o adolescente o persona incapaz por un período superior a un año, tiene derecho preferente para adoptarla, siempre que pruebe que al que pretende adoptar no cuenta con ascendientes, que fue abandonado o bien, que le fue entregado por quienes ejercían la patria potestad o la tutela para integrarlo a su familia.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Oposición a la adopción
 
 ###### Artículo 377.
 
-Si el tutor, la Procuraduría de la Defensa del Menor y la Familia o el Ministerio Público, en su caso, se oponen a la adopción, deben expresar la causa en que se funden, la que debe ser calificada por el juez, tomando en cuenta los intereses de la niña, niño o adolescentes o persona incapaz que se pretenda adoptar, pudiendo suplir el consentimiento cuando la oposición resulte infundada.
+Si el tutor, el Sistema para el Desarrollo Integral de la Familia en Yucatán, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o el Ministerio Público, en su caso, se oponen a la adopción, deben expresar la causa en que se funden, la que debe ser calificada por el juez, tomando en cuenta los intereses de la niña, del niño o adolescente o persona incapaz que se pretenda adoptar, pudiendo suplir el consentimiento cuando la oposición resulte infundada.
 
 Adopción hecha por extranjeros radicados en México
 
@@ -3111,15 +3189,15 @@ Una vez que cause ejecutoria la resolución judicial que autorice una adopción,
 
 El juez que apruebe la adopción, debe remitir oficiosamente copia de las diligencias respectivas al Oficial del Registro Civil correspondiente para que inscriba el acta de nacimiento nueva del adoptado, en la que aparezcan los datos de sus progenitores adoptivos como progenitores, sin ninguna mención del carácter adoptivo de la filiación. Asimismo ordenará cancelar el acta de nacimiento original. Para efectos de este artículo aplica lo previsto en los párrafos segundo y tercero del artículo 354 de este Código.
 
-> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Registro de Adopciones del Estado de Yucatán
 
 ###### Artículo 379 Bis.
 
-La Procuraduría de la defensa del menor y la Familia integrará y mantendrá actualizado el Registro de Adopción del Estado de Yucatán, el cual incluirá la información de las niñas, niños y adolescentes y personas incapaces cuya situación jurídica o familiar permita que sean susceptibles de adopción, de las personas solicitantes de adopción y de las adopciones concluidas.
+El Sistema para el Desarrollo Integral de la Familia en Yucatán y la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en el ámbito de sus respectivas competencias integrarán y mantendrán actualizado un registro propio de adopciones, que incluya la información de niñas, niños y adolescentes o de personas incapaces cuya situación jurídica o familiar permita que sean susceptibles de adopción, de las personas solicitantes de adopción y de las adopciones concluidas.
 
-La Procuraduría de la Defensa del Menor y la Familia informará a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, de manera trimestral, respecto de los datos contenidos en el registro a que se refiere este artículo, relativos a niñas, niños y adolescentes.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán informará a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, de manera trimestral, respecto de los datos contenidos en el registro a que se refiere este artículo, relativos a niñas, niños y adolescentes.
 
 ### CAPÍTULO II. De los Requisitos para la Adopción
 
@@ -3151,27 +3229,35 @@ III. Tener veinte años más que quien se pretenda adoptar;
 
 IV. Contar con buena reputación pública, y
 
-V. Cumplir satisfactoriamente la etapa de acogimiento preadoptivo, en los términos que determine la Procuraduría de la Defensa del Menor y la Familia.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-La Procuraduria de la Defensa del Menor y la Familia debe vigilar las condiciones y desarrollo de la adopción y dictaminar sobre el cumplimiento de los requisitos establecidos en este artículo, de conformidad con lo establecido en el Código de Procedimientos Familiares del Estado de Yucatán.
+V. Cumplir satisfactoriamente la etapa de acogimiento preadoptivo, en los términos que determine la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
 
-Las personas que realicen los estudios o informes para verificar el cumplimiento de los requisitos establecidos en este artículo, o que participen de cualquier manera en los procedimientos de adopción deberán contar con la autorización de la Procuraduría de la Defensa del Menor y la Familia, en los términos de las disposiciones que esta emita.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán debe vigilar las condiciones y desarrollo de la adopción y dictaminar sobre el cumplimiento de los requisitos establecidos en este artículo, de conformidad con lo establecido en el Código de Procedimientos Familiares del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Las personas que realicen los estudios o informes para verificar el cumplimiento de los requisitos establecidos en este artículo, o que participen de cualquier manera en los procedimientos de adopción deberán contar con la autorización de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en los términos de las disposiciones que esta emita.
 
 El juez deberá evaluar el referido dictamen, antes de emitir su resolución sobre la procedencia de la adopción, previa vista al Ministerio Público.
 
-La Procuraduría de la Defensa del Menor y la Familia brindará asesoría, capacitará, evaluará, certificará y llevará un registro de las familias que resulten idóneas para el acogimiento preadoptivo.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán brindará asesoría, capacitará, evaluará, certificará y llevará un registro de las familias que resulten idóneas para el acogimiento preadoptivo.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Informes e investigaciones
 
 ###### Artículo 383.
 
-La Procuraduría de la Defensa del Menor y la Familia puede hacer las investigaciones y entrevistas que estime convenientes para dictaminar sobre la conveniencia o inconveniencia de conceder la adopción, con independencia de que los requisitos establecidos en este Código en relación a la adopción, se hubieren reunido.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán puede hacer las investigaciones y entrevistas que estime convenientes para dictaminar sobre la conveniencia o inconveniencia de conceder la adopción, con independencia de que los requisitos establecidos en este Código en relación con la adopción se hubieren reunido.
 
 Asimismo, cuando lo considere necesario, puede solicitar la revaloración de quien o quienes pretendan adoptar con el propósito de contar con mayores elementos para pronunciarse sobre la procedencia o improcedencia de las solicitudes presentadas.
 
-> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
-
-En todos los casos la Procuraduría de la Defensa del Menor y la Familia se asegurará que la adopción no sea motivada por beneficios económicos para quienes participen en ella.
+En todos los casos la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán se asegurará que la adopción no sea motivada por beneficios económicos para quienes participen en ella.
 
 Acuerdo entre cónyuges o personas unidas en concubinato
 
@@ -3199,13 +3285,17 @@ Consentimiento de la adopción
 
 Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
 
-I. El que ejerce la patria potestad sobre la niña, niño o adolescente o la persona incapaz que se trata de adoptar;
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+I. El que ejerce la patria potestad sobre la niña, el niño o adolescente o la persona incapaz que se trata de adoptar;
 
 II. El tutor de quien se pretende adoptar;
 
 III. La persona o personas que hayan acogido durante más de un año a quien se pretende adoptar y lo traten como a un hijo o hija, cuando no hubiere quien ejerza sobre él la patria potestad o la tutela, o
 
-IV. La Procuraduría de la Defensa del Menor y la Familia y el Ministerio Público cuando no se actualice alguna de las hipótesis anteriores.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+IV. El Sistema para el Desarrollo Integral de la Familia en Yucatán y la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en el ámbito de sus respectivas competencias, y el Ministerio Público cuando no se actualice alguna de las hipótesis anteriores.
 
 Si el que se pretende adoptar, a criterio del juez, está en condiciones de formarse un juicio, también se necesita su consentimiento para la adopción.
 
@@ -3241,7 +3331,9 @@ II. Cuando el adoptante incurra en alguna de las causas que hacen perder la patr
 
 III. Por impugnación del vínculo hecha por el adoptado.
 
-La revocación debe plantearse por el adoptante en la primera hipótesis, o por la parte interesada, en el segundo, pudiendo solicitarla de oficio la Procuraduría de la Defensa del Menor y la Familia o el Ministerio Público, en su caso.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+La revocación debe plantearse por el adoptante en la primera hipótesis, o por la parte interesada, en el segundo, pudiendo solicitarla de oficio la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o el Ministerio Público, en su caso.
 
 Ingratitud del adoptado
 
@@ -3303,15 +3395,17 @@ Adopción hecha por mexicanos o extranjeros que residan en otro país
 
 La adopción hecha por extranjeros o por mexicanos que residan permanentemente en otro país, se rige por las disposiciones de la Ley General de Población y su Reglamento; la Convención sobre los Derechos del Niño; la Convención Interamericana sobre el Conflicto de Leyes en Materia de Adopción de Menores; la Convención de la Haya sobre Protección de Menores y Cooperación en materia de Adopción Internacional, así como cualquier otro instrumento de derecho internacional ratificado por los Estados Unidos Mexicanos.
 
-Intervención de la Procuraduría de la Defensa del Menor y la Familia
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Intervención de las autoridades competentes en materia de adopción internacional
 
 ###### Artículo 400.
 
-La adopción internacional sólo puede tener lugar siempre que la Procuraduría de la Defensa del Menor y la Familia:
+La adopción internacional sólo puede tener lugar siempre que el Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en el ámbito de sus respectivas competencias:
 
-I. Dictamine que la niña, niño o adolescentes o persona incapaz son adoptables;
+I. Dictamine que la niña, el niño o adolescente o persona incapaz son adoptables;
 
-II. Investigue que la adopción es benéfica para el interés superior de la niña, niño o adolescentes o para persona incapaz, y
+II. Investigue que la adopción es benéfica para el interés superior de la niña, del niño o adolescente o para persona incapaz, y
 
 III. Constate que sean satisfechos los requisitos legales y propios de la adopción plena que establece este Código.
 
@@ -3321,21 +3415,21 @@ Trámite de la adopción internacional
 
 Los extranjeros o mexicanos que residan en otro país que pretendan adoptar a una niña, niño o adolescente o a una persona incapaz con nacionalidad mexicana, deben acudir ante la autoridad competente del país de su residencia, misma que debe enviar a la Secretaría de Relaciones Exteriores un informe en el que conste su capacidad jurídica para adoptar. Dicho informe debe estar acompañado de su traducción oficial al idioma español y con las formalidades y contenido que se estipulen en los tratados internacionales.
 
-Dictamen de la Procuraduría de la Defensa del Menor y la Familia
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Dictamen de las autoridades competentes en materia de adopción
 
 ###### Artículo 402.
 
-La Procuraduría de la Defensa del Menor y la Familia es quien, una vez recibida la solicitud de adopción, debe determinar si la niña, niño o adolescente o persona incapaz es adoptable.
-
-> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
+El Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán en el ámbito de sus respectivas competencias, es quien, una vez recibida la solicitud de adopción, debe determinar si la niña, el niño o adolescente o persona incapaz es adoptable.
 
 La adopción internacional de niñas, niños y adolescentes procederá cuando se haya constatado que esta responde al interés superior de la niñez y después de haber examinado adecuadamente las posibilidades de asignación para adopción nacional.
 
-Si es conveniente recurrir a la adopción internacional en el caso debe asegurarse de contar con los consentimientos necesarios, así como determinar si los requisitos adicionales que solicite se han cubierto, y que se han tenido en consideración los intereses de la niña, niño o adolescente o persona incapaz y constar además, que ésta ha sido o será autorizado para entrar al país de recepción.
+Si es conveniente recurrir a la adopción internacional en el caso debe asegurarse de contar con los consentimientos necesarios, así como determinar si los requisitos adicionales que solicite se han cubierto, y que se han tenido en consideración los intereses de la niña, del niño o adolescente o persona incapaz y constar, además, que estos han sido o serán autorizados para entrar al país de recepción.
 
-En estos casos y por la naturaleza propia de la adopción internacional, la Procuraduría de la Defensa del Menor y la Familia debe determinar la conveniencia o inconveniencia previa entre quien o quienes pretenden adoptar a la persona adoptable.
+En estos casos y por la naturaleza propia de la adopción internacional, el Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en el ámbito de sus respectivas competencias, debe determinar la conveniencia o inconveniencia previa entre quien o quienes pretenden adoptar a la persona adoptable.
 
-Lo anterior, sin perjuicio de las actividades, cursos y períodos de convivencia que la Procuraduría de la Defensa del Menor y la Familia organice.
+Lo anterior, sin perjuicio de las actividades, cursos y períodos de convivencia que el Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en el ámbito de sus respectivas competencias, organice.
 
 Resolución del juez
 
@@ -3349,11 +3443,13 @@ Traslado del adoptado
 
 Concedida la adopción, el desplazamiento del adoptado al país de recepción se debe realizar con toda seguridad y en condiciones adecuadas.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Seguimiento de la adopción internacional
 
 ###### Artículo 405.
 
-A la Procuraduría de la Defensa del Menor y la Familia le corresponde hacer las gestiones necesarias ante las autoridades consulares mexicanas, a fin de obtener información sobre las condiciones en las que se encuentra el adoptado que fue trasladado al país de recepción.
+Al Sistema para el Desarrollo Integral de la Familia en Yucatán o a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en el ámbito de sus respectivas competencias, le corresponde hacer las gestiones necesarias ante las autoridades consulares mexicanas, a fin de obtener información sobre las condiciones en las que se encuentra el adoptado que fue trasladado al país de recepción.
 
 ### CAPÍTULO VI. De la Conversión de la Adopción Simple a Plena
 
@@ -3493,11 +3589,13 @@ Obligación de notificar el fallecimiento del que ejerce la patria potestad sobr
 
 Cuando fallezca una persona que ejerza la patria potestad sobre una niña, niño o adolescentes, el albacea está obligado a hacer del conocimiento del juez de esta situación dentro de los ocho días siguientes al de su designación, a fin de que llame a quien corresponda la patria potestad o, en su defecto, le nombre tutor.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Obligación de los Oficiales del registro civil y demás autoridades administrativas
 
 ###### Artículo 424.
 
-Los oficiales del Registro Civil así como las demás autoridades administrativas y judiciales, tienen obligación de dar aviso a la Procuraduría de la Defensa del Menor y la Familia dentro de las cuarenta y ocho horas siguientes a que llegue a su conocimiento, la necesidad de designar tutor.
+Los oficiales del Registro Civil, así como las demás autoridades administrativas y judiciales, tienen obligación de avisar al Sistema para el Desarrollo Integral de la Familia en Yucatán o a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán según corresponda, dentro de las cuarenta y ocho horas siguientes a que llegue a su conocimiento, la necesidad de designar tutor.
 
 Tutela de mayores de edad
 
@@ -3583,17 +3681,21 @@ Prescripción de la acción de nulidad
 
 El derecho a ejercitar la acción a la que se refiere el artículo anterior, prescribe a los dos meses de ejecutado el acto o celebrado el contrato, sin perjuicio de que como excepción, el tutor la pueda alegar en todo momento al contestar una demanda.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Tutela de niñas, niños y adolescentes y personas incapaces abandonados
 
 ###### Artículo 432.
 
-La Procuraduría de la Defensa del Menor y la Familia debe desempeñar provisionalmente de pleno derecho la tutela de las niñas, niños y adolescentes o personas mayores de edad incapaces que estén bajo su resguardo, con arreglo a la Ley y lo previsto por las demás disposiciones aplicables a dicha institución, sin que sea necesario el discernimiento del cargo.
+El Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en el ámbito de sus respectivas competencias, debe desempeñar provisionalmente de pleno derecho la tutela de las niñas, niños y adolescentes o personas mayores de edad incapaces que estén bajo su resguardo, con arreglo a la ley y a lo previsto por las demás disposiciones aplicables a dicha institución, sin que sea necesario el discernimiento del cargo.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Deber de avisar sobre personas que deben estar sujetas a tutela
 
 ###### Artículo 433.
 
-El Consejo Local de Tutelas, o cualquier persona o autoridad que tenga noticia de que alguien debe estar sujeto a tutela y carece de representante legal, debe ponerlo en conocimiento de la Procuraduría de la Defensa del Menor y la Familia o del Ministerio Público.
+El Consejo Local de Tutelas, o cualquier persona o autoridad que tenga noticia de que alguien debe estar sujeto a tutela y carece de representante legal, debe ponerlo en conocimiento del Sistema para el Desarrollo Integral de la Familia en Yucatán o de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda, o del Ministerio Público.
 
 ### CAPÍTULO II. De la Tutela Legítima
 
@@ -3705,13 +3807,15 @@ II. El tutor legítimo o testamentario está impedido temporalmente para ejercer
 
 III. Los intereses del pupilo entren en conflicto con los de quienes ejercen la patria potestad o la tutela.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Procedencia de la tutela dativa
 
 ###### Artículo 449.
 
-La tutela dativa procede aunque la niña, niño o adolescentes o persona mayor de edad incapaz carezca de bienes y tiene por objeto el cuidado y la satisfacción de sus necesidades materiales básicas, alimentarias, de salud, de educación y de rehabilitación según la capacidad económica del tutor.
+La tutela dativa procede, aunque la niña, el niño o adolescentes o persona mayor de edad incapaz carezca de bienes y tiene por objeto el cuidado y la satisfacción de sus necesidades materiales básicas, alimentarias, de salud, de educación y de rehabilitación según la capacidad económica del tutor.
 
-El tutor, en este caso, puede ser nombrado a propuesta de la niña, niño o adolescente cuando estos puedan crearse un juicio propio, a criterio del juez. Puede ser nombrado también a petición de la Procuraduría de la Defensa del Menor y la Familia o del Ministerio Público, en su caso, y aún de oficio por el juez, si éste considera que la niña, niño o adolescente no tiene la capacidad intelectual suficiente para crearse un juicio propio.
+El tutor, en este caso, puede ser nombrado a propuesta de la niña, del niño o adolescente cuando estos puedan crearse un juicio propio, a criterio del juez. Puede ser nombrado también a petición del Sistema para el Desarrollo Integral de la Familia en Yucatán o de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en el ámbito de sus respectivas competencias, o del Ministerio Público, en su caso, y aun de oficio por el juez, si este considera que la niña, el niño o adolescente no tiene la capacidad intelectual suficiente para crearse un juicio propio.
 
 Designación de tutor nombrado
 
@@ -3725,11 +3829,13 @@ Responsabilidad del juez
 
 Cuando el juez, una vez solicitado el nombramiento del tutor, no lo designe oportunamente, es responsable de los daños y perjuicios que se causen a la niña, niño o adolescentes o persona mayor de edad que no cuente con capacidad de ejercicio.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Desempeño gratuito de la tutela dativa
 
 ###### Artículo 452.
 
-Los tutores dativos sólo tienen obligación de desempeñar gratuitamente la tutela por un término máximo de cinco años, debiendo solicitar al juez que los haya designado, el cambio de tutor, excepto en los casos en los que la desempeñe la Procuraduría de la Defensa del Menor y la Familia o el Sistema para el Desarrollo Integral de la Familia en Yucatán.
+Los tutores dativos sólo tienen obligación de desempeñar gratuitamente la tutela por un término máximo de cinco años, debiendo solicitar al juez que los haya designado, el cambio de tutor, excepto en los casos en los que la desempeñe el Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en el ámbito de sus respectivas competencias.
 
 Bienes adquiridos por el pupilo
 
@@ -3739,13 +3845,15 @@ Si el pupilo sujeto a la tutela dativa adquiere bienes, el juez debe disponer lo
 
 ### CAPÍTULO V. De la Tutela Pública
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Tutela pública
 
 ###### Artículo 454.
 
-Corresponde a la Procuraduría de la Defensa del Menor y la Familia, previo mandato judicial, la tutela de las niñas, niños y adolescentes que tenga bajo su resguardo y de todas aquéllas personas que las leyes así lo determinen.
+Corresponde a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, previo mandato judicial, la tutela de niñas, niños y adolescentes que tenga bajo su resguardo y al Sistema para el Desarrollo Integral de la Familia en Yucatán la tutela de todas aquellas personas que las leyes así lo determinen.
 
-Lo anterior, sin perjuicio de que la Procuraduría de la Defensa del Menor y la Familia, pueda solicitar la custodia provisional de las niñas, niños y adolescentes.
+Lo anterior, sin perjuicio de que la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, pueda solicitar la custodia provisional de niñas, niños y adolescentes.
 
 Casos en que procede la tutela pública
 
@@ -3763,11 +3871,15 @@ IV. En los demás casos que establezca la legislación aplicable.
 
 Ejercicio de la tutela pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### Artículo 456.
 
-La tutela pública de las niñas, niños y adolescentes debe ser ejercida por:
+La tutela pública de niñas, niños y adolescentes debe ser ejercida por:
 
-I. La Procuraduría de la Defensa del Menor y la Familia, en los siguientes casos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 23 DE JUNIO DE 2021)</small>
+
+I. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en los siguientes casos:
 
 a) Cuando no se trate de adolescentes en conflicto con la ley penal, de acuerdo con la legislación aplicable;
 
@@ -3783,23 +3895,29 @@ Objeto de la tutela pública
 
 El ejercicio de la tutela pública queda sujeto en cuanto a la protección, educación, salud, rehabilitación, en su caso, y satisfacción de necesidades básicas de las niñas, niños y adolescentes y a las modalidades que impriman las resoluciones judiciales que se dicten en relación a la tutela.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Deber de las personas que tengan bajo custodia o cuidado a niñas, niños o adolescentes
 
 ###### Artículo 458.
 
-Toda persona que tenga bajo su custodia o cuidado a una niña, niño o adolescente que conforme a lo dispuesto en este Código, sea susceptible de tutela pública, deberá permitir el contacto con el personal de la Procuraduría de la Defensa del Menor y la Familia y presentarla para los trámites necesarios.
+Toda persona que tenga bajo su custodia o cuidado a una niña, un niño o adolescente que, conforme a lo dispuesto en este Código, sea susceptible de tutela pública, deberá permitir el contacto con el personal de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán y presentarla para los trámites necesarios.
 
-Deber de la Procuraduría de la Defensa del Menor y la Familia
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Deber de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán
 
 ###### Artículo 459.
 
-La Procuraduría de la Defensa del Menor y la Familia debe realizar visitas periódicas a las instituciones, asociaciones, sociedades, casas de estancia o albergues a los que canalicen niñas, niños, adolescentes y demás personas que así les permitan las leyes, susceptibles de entrar a tutela pública, en los términos establecidos en la Ley para la Protección de la Familia del Estado de Yucatán y de acuerdo con lo que establece este Código.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o el Sistema para el Desarrollo Integral de la Familia en Yucatán, en el ámbito de sus respectivas competencias, debe realizar visitas periódicas a centros de asistencia social, instituciones, asociaciones, sociedades, casas de estancia o albergues a los que canalicen niñas, niños, adolescentes y demás personas que así les permitan las leyes, susceptibles de entrar a tutela pública, en los términos establecidos en la Ley para la Protección de la Familia del Estado de Yucatán y de acuerdo con lo que establece este Código.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Tutela pública de niñas, niños y adolescentes expósitos o abandonados
 
 ###### Artículo 460.
 
-Las niñas, niños o adolescentes expósitos o abandonados, quedan bajo tutela pública por conducto de la Procuraduría de la Defensa del Menor y la Familia, en consecuencia, toda persona o institución pública o privada que tenga conocimiento de estos casos, deberá comunicarlo a aquélla, la cual debe realizar los trámites necesarios.
+Las niñas, los niños o adolescentes expósitos o abandonados, quedan bajo tutela pública por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en consecuencia, toda persona o institución pública o privada que tenga conocimiento de estos casos, deberá comunicarlo a aquella, la cual debe realizar los trámites necesarios.
 
 ### CAPÍTULO VI. De los Impedimentos y la Separación en el Desempeño de la Tutela
 
@@ -3859,9 +3977,11 @@ VII. En los demás casos en que la Ley lo disponga expresamente.
 
 Solicitud de la separación del tutor
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### Artículo 464.
 
-El pupilo o sus parientes, el curador que en su caso se hubiera nombrado, la Procuraduría de la Defensa del Menor y la Familia o el Ministerio Público pueden promover la separación del tutor de su cargo.
+El pupilo o sus familiares, el curador que en su caso se hubiera nombrado, el Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en el ámbito de sus respectivas competencias, o el Ministerio Público pueden promover la separación del tutor de su cargo.
 
 Mientras el juez se pronuncia en definitiva sobre la promoción a la que se refiere el párrafo anterior, debe nombrar tutor interino.
 
@@ -3951,7 +4071,9 @@ I. Hipoteca, o
 
 II. Fianza.
 
-La garantía que presten los tutores no impedirá que el juez, de oficio o a petición de persona interesada, de la Procuraduría de la Defensa del Menor y la Familia o del Ministerio Público, en su caso, dicte las providencias que estime pertinentes para proteger los bienes del pupilo.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+La garantía que presten los tutores no impedirá que el juez, de oficio o a petición de persona interesada, del Sistema para el Desarrollo Integral de la Familia en Yucatán o de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en el ámbito de sus respectivas competencias, o del Ministerio Público, en su caso, dicte las providencias que estime pertinentes para proteger los bienes del pupilo.
 
 Monto de la garantía
 
@@ -3967,11 +4089,13 @@ III. El producto de la explotación de los bienes raíces rústicos durante dos 
 
 IV. Las utilidades anuales provenientes de las negociaciones mercantiles o industriales calculadas por los libros de contabilidad, o a juicio de peritos.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Aumento o disminución de la garantía
 
 ###### Artículo 475.
 
-Si los bienes del pupilo aumentan o disminuyen durante la tutela, pueden aumentarse o disminuirse proporcionalmente la hipoteca y la fianza, a pedimento del tutor, del curador, de la Procuraduría de la Defensa del Menor y la Familia o del Ministerio Público, en su caso.
+Si los bienes del pupilo aumentan o disminuyen durante la tutela, pueden aumentarse o disminuirse proporcionalmente la hipoteca y la fianza, a pedimento del tutor, del curador, del Sistema para el Desarrollo Integral de la Familia en Yucatán o de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en el ámbito de sus respectivas competencias, o del Ministerio Público, en su caso.
 
 Responsabilidad del tutor que administre bienes sin el curador
 
@@ -4007,7 +4131,9 @@ Cuando el tutor no pueda otorgar la garantía que se le fije, dentro del mes de 
 
 El tutor interino debe recibir los bienes del pupilo por inventario judicial, sin que pueda ejecutar otros actos que no sean indispensables para su conservación y la percepción de productos.
 
-Para cualquier otro acto de administración requiere la autorización judicial, la que sólo se debe conceder, si procede, oyendo al curador, a la Procuraduría de la Defensa del Menor y la Familia o al Ministerio Público, en su caso.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Para cualquier otro acto de administración requiere la autorización judicial, la que sólo se debe conceder, si procede, oyendo al curador, al Sistema para el Desarrollo Integral de la Familia en Yucatán o a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en el ámbito de sus respectivas competencias, o al Ministerio Público, en su caso.
 
 ### CAPÍTULO IX. Del Desempeño de la Tutela
 
@@ -4071,7 +4197,9 @@ Situación del pupilo en caso de insolvencia del tutor
 
 Si los pupilos carecen de bienes para cubrir sus necesidades materiales básicas, las de alimentos, salud, educación y rehabilitación, en su caso, el tutor que no sea deudor alimentario, debe hacerlo del conocimiento del juez, a fin de que éste le exija el pago correspondiente a los parientes obligados a proporcionar alimentos y a devolverle al tutor las erogaciones que éste hubiera efectuado por estos conceptos.
 
-Cuando el tutor es deudor alimentario, el curador debe hacerlo del conocimiento del juez para que tome las medidas que estime conducentes. Cuando el tutor sea insolvente por causa justificada para cubrir los alimentos, puede solicitar al juez la salvaguarda del pupilo a la institución oficial competente. A este efecto, el juez debe poner al pupilo a disposición de la Procuraduría de la Defensa del Menor y la Familia.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Cuando el tutor es deudor alimentario, el curador debe hacerlo del conocimiento del juez para que tome las medidas que estime conducentes. Cuando el tutor sea insolvente por causa justificada para cubrir los alimentos, puede solicitar al juez la salvaguarda del pupilo a la institución oficial competente. A este efecto, el juez debe poner al pupilo a disposición del Sistema para el Desarrollo Integral de la Familia en Yucatán o de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda, en el ámbito de sus respectivas competencias.
 
 Medidas urgentes de protección al pupilo
 
@@ -4191,11 +4319,13 @@ Obligación del tutor de rendir cuentas
 
 El tutor debe rendir cuenta detallada de la administración de los bienes del pupilo al juez en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo, a fin de que sean aprobadas las cuentas como condición para continuar la tutela. La falta de informe sobre la administración de los bienes del pupilo al que se refiere este artículo, motivará la separación del cargo de tutor. La obligación a que se refiere este artículo no opera cuando el pupilo carezca de bienes o sean de menor cuantía, o se trate de bienes inmuebles que no producen frutos.
 
-Cuentas exigidas por el juez, curador, la Procuraduría o el Ministerio Público
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Cuentas exigidas por el juez, curador, la Procuraduría, el Sistema o el Ministerio Público
 
 ###### Artículo 505.
 
-El tutor también tiene obligación de rendir cuentas en cualquier tiempo, por causas graves que califique el juez o las exija el curador, la Procuraduría de la Defensa del Menor y la Familia o el Ministerio Público, en su caso.
+El tutor también tiene obligación de rendir cuentas en cualquier tiempo, por causas graves que califique el juez o las exija el curador, el Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda, en el ámbito de sus respectivas competencias, o el Ministerio Público, en su caso.
 
 Justificación de la cuenta de administración
 
@@ -4283,11 +4413,13 @@ Todas las acciones que el pupilo pueda ejercer contra su tutor o contra los fiad
 
 ### CAPÍTULO XII. Del Curador
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Presencia del curador
 
 ###### Artículo 519.
 
-Las personas sujetas a tutela deben tener un curador, excepto en los casos en los que no se requiera garantizar el desempeño de la tutela y cuando se nombre tutor interino, ya que en estos casos la Procuraduría de la Defensa del Menor y la Familia o el Ministerio Público, son las encargadas de la vigilancia respectiva.
+Las personas sujetas a tutela deben tener un curador, excepto en los casos en los que no se requiera garantizar el desempeño de la tutela y cuando se nombre tutor interino, ya que en estos casos el Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda, en el ámbito de sus respectivas competencias, o el Ministerio Público, son los encargados de la vigilancia respectiva.
 
 Impedimentos y excusas de los curadores
 
@@ -4339,11 +4471,13 @@ El curador tiene derecho a ser relevado de su cargo pasados cinco años de su de
 
 ### CAPÍTULO XIII. De los Consejos Estatal y Municipales de Tutela
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Objeto del Consejo Estatal de Tutela
 
 ###### Artículo 526.
 
-El Consejo Estatal de Tutela es un organismo auxiliar que depende del Sistema Estatal para el Desarrollo Integral de la Familia, y tiene por objeto promover el fortalecimiento de la integración familiar mediante la coordinación de acciones, fomento, procuración y elaboración de disposiciones tendientes a favorecer la creación y el funcionamiento del Consejo Local de Tutela de los municipios, para cumplir con las atribuciones establecidas en este Código. El Consejo Estatal de Tutela debe estar integrado por un Coordinador designado por el Sistema para el Desarrollo Integral de la Familia y con el personal operativo necesario para llevar a cabo las funciones correspondientes.
+El Consejo Estatal de Tutela es un organismo auxiliar que depende del Sistema Estatal para el Desarrollo Integral de la Familia en Yucatán, y tiene por objeto promover el fortalecimiento de la integración familiar mediante la coordinación de acciones, fomento, procuración y elaboración de disposiciones tendientes a favorecer la creación y el funcionamiento del Consejo Local de Tutela de los municipios, para cumplir con las atribuciones establecidas en este Código. El Consejo Estatal de Tutela debe estar integrado por un Coordinador designado por el Sistema para el Desarrollo Integral de la Familia en Yucatán y con el personal operativo necesario para llevar a cabo las funciones correspondientes.
 
 Funciones del Consejo Estatal de Tutela
 
@@ -4419,11 +4553,13 @@ Envío de edictos al extranjero
 
 El juez, al publicar los edictos, debe remitir copia a los cónsules mexicanos de aquellos lugares del extranjero en que se presuma que se encuentra la persona ausente o que se tenga noticias de él, para que la fijen en sus respectivos consulados.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Nombramiento de tutor dativo a los hijos o hijas del ausente
 
 ###### Artículo 533.
 
-Si la persona ausente tiene hijos o hijas que estén bajo su patria potestad, y no hay ascendientes que deban ejercerla conforme a este Código, ni tutor testamentario o legítimo, la Procuraduría de la Defensa del Menor y la Familia o el Ministerio Público, en su caso, debe solicitar al juez del domicilio de la persona ausente que les nombre tutor dativo.
+Si la persona ausente tiene hijos o hijas que estén bajo su patria potestad, y no hay ascendientes que deban ejercerla conforme a este Código, ni tutor testamentario o legítimo, el Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda, en el ámbito de sus respectivas competencias, o el Ministerio Público, en su caso, debe solicitar al juez del domicilio de la persona ausente que les nombre tutor dativo.
 
 Personas que deben ser nombradas depositarios provisionales
 
@@ -4479,7 +4615,9 @@ No pueden ser representantes de una persona ausente los que no puedan ser tutore
 
 El representante no entra a la administración de los bienes sin que previamente forme inventario y presente avalúo de los mismos, debiendo garantizar el desempeño del cargo dentro del término de un mes o, en su defecto, se debe nombrar otro representante. Lo anterior, sin perjuicio de que el juez, en su caso, determine que no es necesario otorgar la garantía a la que se refiere este artículo.
 
-En los casos en los que la persona ausente hubiera nombrado apoderado, el cónyuge presente, los hijos o hijas de aquella, la Procuraduría de la Defensa del Menor y la Familia o el Ministerio Público, en su caso, puede solicitar al juez que fije una garantía al apoderado de la persona ausente, cuando pasados dos años desde el nombramiento de apoderado, no se hubiere tenido noticia de aquella.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+En los casos en los que la persona ausente hubiera nombrado apoderado, el cónyuge presente, los hijos o hijas de aquella, el Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda, en el ámbito de sus respectivas competencias, o el Ministerio Público, en su caso, puede solicitar al juez que fije una garantía al apoderado de la persona ausente, cuando pasados dos años desde el nombramiento de apoderado, no se hubiere tenido noticia de aquella.
 
 Representantes sin remuneración
 
@@ -4541,7 +4679,9 @@ II. Los presuntos herederos de la persona ausente;
 
 III. Los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia de la persona ausente, o
 
-IV. La Procuraduría de la Defensa del Menor y la Familia, o el Ministerio Público, en su caso.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+IV. El Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda, en el ámbito de sus respectivas competencias, o el Ministerio Público, en su caso.
 
 Declaración de ausencia
 
@@ -4585,11 +4725,13 @@ Continuación de plazos para la prescripción
 
 Por declaración de ausencia, no se deben suspender los plazos que fija la Ley para la prescripción de las acciones en favor o en contra de la persona ausente.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 Legítimos procuradores de la persona ausente
 
 ###### Artículo 554.
 
-Son legítimos procuradores de la persona ausente su representante y los poseedores provisionales, pero la Procuraduría de la Defensa del Menor y la Familia o el Ministerio Público, en su caso, debe velar por sus intereses y será oído en todos los juicios relacionados con su persona y bienes.
+Son legítimos procuradores de la persona ausente su representante y los poseedores provisionales, pero el Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda, en el ámbito de sus respectivas competencias, o el Ministerio Público, en su caso, debe velar por sus intereses y será oído en todos los juicios relacionados con su persona y bienes.
 
 Bienes recibidos por herencia
 
@@ -5237,7 +5379,9 @@ En relación con la obligación que se impone al heredero de invertir ciertas ca
 
 En el caso de que la carga fuere perpetua, el heredero puede capitalizarla e imponer el capital a interés con primera y suficiente hipoteca.
 
-La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y de la Procuraduría de la Defensa del Menor y la Familia o del Ministerio Público, en su caso.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Sistema para el Desarrollo Integral de la Familia en Yucatán o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda, en el ámbito de sus respectivas competencias, o del Ministerio Público, en su caso.
 
 Cumplimiento de la carga sin señalar tiempo
 
@@ -6445,7 +6589,9 @@ Suspensión de la división de la herencia
 
 La partición de la herencia se debe suspender hasta que se verifique el parto, pero los acreedores alimentarios pueden ser pagados por mandato judicial.
 
-Habiendo niñas, niños o adolescentes entre dichos acreedores, debe oírse a quien ejerza la patria potestad o a su tutor, y a la Procuraduría de la Defensa del Menor y la Familia, o el Ministerio Público, en su caso.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Habiendo niñas, niños o adolescentes entre dichos acreedores, debe oírse a quien ejerza la patria potestad o a su tutor, y a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, o el Ministerio Público, en su caso.
 
 ### CAPÍTULO II. De la Apertura de la Sucesión y Transmisión de la Herencia
 
@@ -6909,11 +7055,13 @@ Aprobación de la cuenta de administración
 
 La cuenta de administración debe ser aprobada por todos los herederos y el heredero que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código de Procedimientos Familiares del Estado de Yucatán.
 
-Intervención de la Procuraduría de la Defensa del Menor y la Familia en la aprobación de cuentas
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Intervención de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán en la aprobación de cuentas
 
 ###### Artículo 873.
 
-En la aprobación de las cuentas, cuando los herederos fueren niñas, niños o adolescentes debe intervenir la Procuraduría de la Defensa del Menor y la Familia o el Ministerio Público, en su caso.
+En la aprobación de las cuentas, cuando los herederos fueren niñas, niños o adolescentes debe intervenir la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o el Ministerio Público, en su caso.
 
 Tiempo para exigir el pago de créditos y legados
 
@@ -7015,7 +7163,9 @@ III.- Incapacidad legal, declarada en forma, incluyendo los casos de quiebra o c
 
 IV.- Enfermedad o imposibilidad física que el juez califique como impedimento para ejercer el cargo, tomando en cuenta el perjuicio que puedan sufrir los herederos o legatarios, o cuando se ignore el paradero del albacea o interventor por más de seis meses;
 
-V.- Excusa que el juez califique de legítima, con audiencia de los interesados y de la Procuraduría de la Defensa del Menor y la Familia, cuando se trate de niñas, niños y adolescentes;
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+V.- Excusa que el juez califique de legítima, con audiencia de los interesados y de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, cuando se trate de niñas, niños y adolescentes;
 
 VI.- Terminar el plazo legal señalado y las prórrogas concedidas para desempeñar el cargo;
 
@@ -7378,3 +7528,89 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Derogación tácita
 
 Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 23 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 378/2021 POR EL QUE SE EMITE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE YUCATÁN, LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LA FAMILIA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE YUCATÁN, EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, LA LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE YUCATÁN, LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN Y LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación de la ley
+
+Se abroga la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 12 de junio de 2015.
+
+Tercero. Abrogación de la ley que crea la Prodemefa
+
+Se abroga la Ley que crea la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 7 de marzo de 1979.
+
+Cuarto. Obligación normativa
+
+El Congreso del estado deberá armonizar las leyes secundarias relacionadas con la materia de este decreto, en un plazo no mayor a ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Quinto. Expedición del reglamento de la ley
+
+El gobernador, en un plazo no mayor de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Hasta en tanto se emitan estas disposiciones continuará aplicándose el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 10 de mayo de 2017, que se encuentra en vigor, en lo que no contravenga lo establecido en este decreto.
+
+Sexto. Régimen de vigencia especial
+
+El Acuerdo DIF 07/SO/2a /2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014, dejará de ser aplicable a partir de que se emita el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Séptimo. Expedición del programa
+
+El gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este decreto.
+
+El gobernador podrá prescindir de la expedición de este programa siempre que los elementos que señala este decreto estén incluidos en un programa de mediano plazo, de protección de niñas, niños y adolescentes.
+
+Octavo. Instalación de los sistemas local y municipales de protección
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán y los sistemas municipales de protección integral de niñas, niños y adolescentes deberán instalarse dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Expedición del reglamento interno
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contado a partir de su instalación.
+
+Décimo. Obligación normativa
+
+La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia en Yucatán deberá realizar las adecuaciones necesarias al Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia en Yucatán, dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Décimo primero. Modificación de regulación interna del DIF-Yucatán y sistemas DIF municipales
+
+El Sistema para el Desarrollo Integral de la Familia en Yucatán y los sistemas municipales para el desarrollo integral de la familia deberán adecuar su regulación interna en los términos de lo dispuesto en este decreto dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Décimo segundo. Nombramiento del secretario ejecutivo del sistema de protección integral
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, el secretario ejecutivo del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará en el cargo.
+
+Los requisitos exigidos en el artículo 20 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto se realice por la persona titular del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo tercero. Nombramiento de la persona titular de la procuraduría de protección
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, la procuradora de la Defensa del Menor y la Familia en el Estado de Yucatán, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará como titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo cuarto. Protección de los derechos de los adultos mayores y personas con discapacidad
+
+En los casos en los que las leyes le otorguen facultades y obligaciones a la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán en lo referente a la protección de los derechos de adultos mayores y personas con discapacidad, se entenderá que será competente el Sistema para el Desarrollo Integral de la Familia en Yucatán; lo anterior, con motivo de la especialización de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán en los términos de lo dispuesto en este decreto.
+
+Décimo quinto. Referencia a la procuraduría de protección
+
+En lo sucesivo, cuando en alguna norma se haga referencia a la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán o al Procurador de la Defensa del Menor y la Familia en el Estado de Yucatán, se entenderá que se refieren, en todos los casos, a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o a la persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda.
+
+Décimo sexto. Procedimientos y asuntos en trámite
+
+Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se substanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
+
+Décimo séptimo. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, a la entrada en vigor de este decreto, seguirán conservando su misma categoría y derechos laborales que les corresponden ante la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en los términos de la legislación aplicable.
+
+Décimo octavo. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, pasarán a formar parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo noveno. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
