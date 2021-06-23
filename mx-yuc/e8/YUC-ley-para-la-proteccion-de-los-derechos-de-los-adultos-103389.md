@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-los-derechos-de-los-adultos-103389"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-03"
-last_updated: "2020-12-09"
+last_updated: "2021-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 3 de noviembre de 2014.
 
@@ -281,7 +281,9 @@ III. Realizar las acciones necesarias que permitan una adecuada prestación de s
 
 IV. Prestar orientación y asistencia jurídica a los adultos mayores.
 
-V. Recibir, a través de la Procuraduría de la Defensa del Menor y la Familia las denuncias y quejas que se relacionen con el abandono, desamparo, marginación, abuso, explotación o malos tratos a los adultos mayores, así como cualquier otra violación de sus derechos.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+V. Recibir los reportes de los casos de abandono, desamparo, marginación, abuso, explotación o malos tratos a los adultos mayores, así como cualquier otra violación de sus derechos.
 
 VI. Denunciar ante el Ministerio Público los hechos constitutivos de delito cometidos en contra de los adultos mayores, cuando sean de su conocimiento.
 
@@ -555,31 +557,35 @@ Para la imposición de las sanciones por inobservancia de esta ley, se tomarán 
 
 ### Capítulo VI. Quejas y denuncias
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### Artículo 30.
 
-Denuncia popular
+Reporte de casos de violación a derechos
 
-Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades podrán denunciar ante la Procuraduría de la Defensa del Menor y la Familia, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos que establece esta ley, u otros ordenamientos legales a favor de los adultos mayores.
+Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades podrán hacer del conocimiento inmediato del Sistema para el Desarrollo Integral de la Familia en Yucatán, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos que establece esta ley, u otros ordenamientos legales a favor de los adultos mayores.
 
-Si la Procuraduría de la Defensa del Menor y la Familia no es competente para atender la acción u omisión, motivo de la denuncia, canalizará al denunciante ante la autoridad correspondiente.
+Si el Sistema para el Desarrollo Integral de la Familia en Yucatán no es competente para atender la acción u omisión, motivo del reporte, canalizará a quien se lo hubiera hecho de su conocimiento ante la autoridad correspondiente.
 
-Los familiares de la persona adulta mayor, denunciante o cualquier interesado podrán coadyuvar y ser parte del proceso de denuncia.
+Los familiares de la persona adulta mayor, la persona que lo hubiese reportado o cualquier interesado podrán coadyuvar y ser parte del proceso establecido en el presente artículo.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### Artículo 31.
 
-Investigación de la procuraduría
+Investigación del sistema
 
-La Procuraduría de la Defensa del Menor y la Familia deberá realizar la investigación correspondiente cuando reciba una denuncia de que un adulto mayor ha sido víctima de cualquier acto u omisión que produzca o pueda producir daño o afectación a los derechos de los adultos mayores, para lo cual podrá practicar exámenes médicos y psicológicos, así como realizar todas las acciones conducentes al esclarecimiento del hecho, incluyendo, en su caso, solicitar el auxilio de la fuerza pública.
+El Sistema para el Desarrollo Integral de la Familia en Yucatán deberá elaborar el diagnóstico correspondiente cuando reciba el reporte de que un adulto mayor ha sido víctima de cualquier acto u omisión que produzca o pueda producir daño o afectación a los derechos de los adultos mayores, para lo cual podrá practicar exámenes médicos y psicológicos, así como realizar todas las acciones conducentes al esclarecimiento del hecho, incluyendo, en su caso, solicitar el auxilio de la fuerza pública.
 
-La Procuraduría de la Defensa del Menor y la Familia deberá informar al adulto mayor de su derecho de separarse del domicilio; prestarle, en su caso, el auxilio correspondiente para canalizarlo a una institución de adulto mayor; e iniciar el trámite judicial para la obtención del derecho de alimentos, en términos del Código de Procedimientos Familiares del Estado de Yucatán.
+El Sistema para el Desarrollo Integral de la Familia en Yucatán deberá informar al adulto mayor de su derecho de separarse del domicilio; prestarle, en su caso, el auxilio correspondiente para canalizarlo a una institución de adulto mayor; e iniciar el trámite judicial para la obtención del derecho de alimentos, en términos del Código de Procedimientos Familiares del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### Artículo 32.
 
 Infracciones y sanciones
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-La Procuraduría de la Defensa del Menor y la Familia podrá imponer las sanciones de amonestación o multa, de veinte a cien unidades de medida y actualización, a los familiares de los adultos mayores que les impidan el acceso o ejercicio de los derechos establecidos en el artículo 5 de esta ley o realicen contra ellos cualquier acto que implique explotación, abandono, marginación, discriminación o humillación.
+El Sistema para el Desarrollo Integral de la Familia en Yucatán podrá imponer las sanciones de amonestación o multa, de veinte a cien unidades de medida y actualización, a los familiares de los adultos mayores que les impidan el acceso o ejercicio de los derechos establecidos en el artículo 5 de esta ley o realicen contra ellos cualquier acto que implique explotación, abandono, marginación, discriminación o humillación.
 
 Para la imposición de las sanciones por inobservancia de esta ley, se tomarán en cuenta la gravedad de la infracción, las condiciones económicas del infractor y la reincidencia o habitualidad.
 
@@ -688,3 +694,89 @@ D.O. 9 DE DICIEMBRE DE 2020.
 Artículo único. Entrada en vigor
 
 El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 23 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 378/2021 POR EL QUE SE EMITE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE YUCATÁN, LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LA FAMILIA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE YUCATÁN, EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, LA LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE YUCATÁN, LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN Y LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación de la ley
+
+Se abroga la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 12 de junio de 2015.
+
+Tercero. Abrogación de la ley que crea la Prodemefa
+
+Se abroga la Ley que crea la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 7 de marzo de 1979.
+
+Cuarto. Obligación normativa
+
+El Congreso del estado deberá armonizar las leyes secundarias relacionadas con la materia de este decreto, en un plazo no mayor a ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Quinto. Expedición del reglamento de la ley
+
+El gobernador, en un plazo no mayor de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Hasta en tanto se emitan estas disposiciones continuará aplicándose el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 10 de mayo de 2017, que se encuentra en vigor, en lo que no contravenga lo establecido en este decreto.
+
+Sexto. Régimen de vigencia especial
+
+El Acuerdo DIF 07/SO/2a /2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014, dejará de ser aplicable a partir de que se emita el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Séptimo. Expedición del programa
+
+El gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este decreto.
+
+El gobernador podrá prescindir de la expedición de este programa siempre que los elementos que señala este decreto estén incluidos en un programa de mediano plazo, de protección de niñas, niños y adolescentes.
+
+Octavo. Instalación de los sistemas local y municipales de protección
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán y los sistemas municipales de protección integral de niñas, niños y adolescentes deberán instalarse dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Expedición del reglamento interno
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contado a partir de su instalación.
+
+Décimo. Obligación normativa
+
+La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia en Yucatán deberá realizar las adecuaciones necesarias al Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia en Yucatán, dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Décimo primero. Modificación de regulación interna del DIF-Yucatán y sistemas DIF municipales
+
+El Sistema para el Desarrollo Integral de la Familia en Yucatán y los sistemas municipales para el desarrollo integral de la familia deberán adecuar su regulación interna en los términos de lo dispuesto en este decreto dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Décimo segundo. Nombramiento del secretario ejecutivo del sistema de protección integral
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, el secretario ejecutivo del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará en el cargo.
+
+Los requisitos exigidos en el artículo 20 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto se realice por la persona titular del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo tercero. Nombramiento de la persona titular de la procuraduría de protección
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, la procuradora de la Defensa del Menor y la Familia en el Estado de Yucatán, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará como titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo cuarto. Protección de los derechos de los adultos mayores y personas con discapacidad
+
+En los casos en los que las leyes le otorguen facultades y obligaciones a la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán en lo referente a la protección de los derechos de adultos mayores y personas con discapacidad, se entenderá que será competente el Sistema para el Desarrollo Integral de la Familia en Yucatán; lo anterior, con motivo de la especialización de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán en los términos de lo dispuesto en este decreto.
+
+Décimo quinto. Referencia a la procuraduría de protección
+
+En lo sucesivo, cuando en alguna norma se haga referencia a la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán o al Procurador de la Defensa del Menor y la Familia en el Estado de Yucatán, se entenderá que se refieren, en todos los casos, a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o a la persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda.
+
+Décimo sexto. Procedimientos y asuntos en trámite
+
+Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se substanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
+
+Décimo séptimo. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, a la entrada en vigor de este decreto, seguirán conservando su misma categoría y derechos laborales que les corresponden ante la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en los términos de la legislación aplicable.
+
+Décimo octavo. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, pasarán a formar parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo noveno. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
