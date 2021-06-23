@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-la-familia-del-estado-de-yucatan-1495
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-09"
-last_updated: "2016-12-28"
+last_updated: "2021-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LA FAMILIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
 
 Ley publicada en el Diario Oficial el lunes 9 de Agosto de 1999.
 
@@ -53,7 +53,9 @@ II. Las reglas de organización y funcionamiento de las escuelas para padres de 
 
 III. Las bases y procedimientos de protección contra la violencia familiar en el Estado, y
 
-IV. Los derechos de las mujeres, de los menores, y de las personas en edad senescente o con discapacidad, así como la manera de garantizar su observancia.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+IV. Los derechos de las mujeres, de niñas, niños y adolescentes, y de los adultos mayores o personas con discapacidad, así como la manera de garantizar su observancia.
 
 ###### ARTÍCULO 2.
 
@@ -65,17 +67,23 @@ Los padres son responsables de que en su familia prevalezca un ambiente de armon
 
 Asimismo, es deber de los padres fomentar en los hijos el respeto a sí mismos, a sus semejantes, a su medio ambiente, a las autoridades y a las instituciones, así como a las costumbres y tradiciones culturales, ya sean regionales, nacionales o extranjeras.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 4.
 
-Son sujetos de esta Ley, todos los integrantes de la familia, incluyendo a los miembros específicos que puedan estar en condiciones de vulnerabilidad como las mujeres, menores de edad y personas en edad senescente o con discapacidad.
+Son sujetos de esta Ley, todos los integrantes de la familia, incluyendo a los miembros específicos que puedan estar en condiciones de vulnerabilidad como las mujeres, niñas, niños, adolescentes y adultos mayores o personas con discapacidad.
 
 ###### ARTÍCULO 5.
 
 Son instituciones encargadas de la aplicación de esta Ley:
 
-I. El Sistema Estatal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-II. La Procuraduría de la Defensa del Menor y la Familia, que se entenderá citada en esta Ley cuando se mencione la Procuraduría;
+I. El Sistema para el Desarrollo Integral de la Familia en Yucatán;
+
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+II. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán; que se entenderá citada en esta Ley cuando se mencione la Procuraduría;
 
 III. El Ministerio Público;
 
@@ -93,39 +101,43 @@ Para efectos de esta Ley, se entiende por protección de la familia, al conjunto
 
 ### CAPÍTULO II. DEL CONSEJO PARA LA PROTECCIÓN DE LA FAMILIA Y LA PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 7.
 
 El Consejo para la Protección de la Familia y la Prevención de la Violencia Familiar estará integrado por:
 
-I. El Titular del Poder Ejecutivo, quien lo presidirá;
+I. La persona titular del Poder Ejecutivo estatal, quien lo presidirá.
 
-II. El Secretario General de Gobierno, quien lo presidirá en ausencia del Presidente;
+II. Las personas titulares de las siguientes instituciones públicas:
 
-III. El Secretario de Educación;
+a) Secretaría General de Gobierno, quien deberá presidir en ausencia de la persona que ocupe la presidencia;
 
-IV. El Secretario de Salud;
+b) Secretaría de Educación;
 
-V. El Secretario de Protección y Vialidad;
+c) Secretaría de Salud;
 
-VI. El Director General del Sistema para el Desarrollo Integral de la Familia;
+d) Secretaría de Seguridad Pública;
 
-VII. La Directora del Instituto de la Mujer en Yucatán;
+e) Dirección General del Sistema para el Desarrollo Integral de la Familia en Yucatán;
 
-VIII. El Presidente del Consejo Tutelar de Menores;
+f) Secretaría de las Mujeres;
 
-IX. El Director de la Escuela de Educación Social de Menores;
+g) Centro Especializado en la Aplicación de Medidas para Adolescentes;
 
-X. El Titular de la Procuraduría de la Defensa del Menor y la Familia;
+h) Dirección de la Escuela de Educación Social de Menores Infractores del Estado de Yucatán;
 
-XI. Dos miembros designados por el Congreso del Estado;
+i) Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán;
 
-XII. Los representantes de organizaciones sociales dedicadas a promover el desarrollo de la familia y a prevenir la violencia familiar que sean invitados por el Titular del Poder Ejecutivo, y
+III. Dos miembros designados por el Congreso del Estado;
 
-XIII. Los ciudadanos de reconocido prestigio personal que sean invitados por el Titular del Poder Ejecutivo.
+IV. Quienes representen organizaciones sociales dedicadas a promover el desarrollo de la familia y a prevenir la violencia familiar que sean invitados por la persona titular del Poder Ejecutivo, y
 
-Los cargos de los miembros del Consejo serán honorarios y el Gobernador del Estado designará, de entre ellos, a un Secretario Técnico.
+V. Personas ciudadanas de reconocido prestigio personal que sean invitados por la persona titular del Poder Ejecutivo.
 
-Los miembros del Consejo podrán nombrar a sus respectivos suplentes.
+Los cargos de quienes integren el Consejo serán honorarios y la persona titular del Poder Ejecutivo estatal designará, de entre ellos, a una persona a cargo de la Secretaría Técnica.
+
+Quienes integren el Consejo podrán nombrar a sus respectivos suplentes.
 
 ###### ARTÍCULO 8.
 
@@ -175,9 +187,11 @@ V. Las acciones inmediatas para la atención de los receptores de la violencia f
 
 El Programa para la Protección de la Familia y Prevención de la Violencia Familiar será permanente debiendo ser revisado, y en su caso actualizado, cada año, con la aprobación de la mayoría de los miembros presentes en la sesión del Consejo correspondiente.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 14.
 
-El programa a que se refiere este capítulo será elaborado y actualizado por el Ejecutivo del Estado a través del Sistema para el Desarrollo Integral de la Familia en el Estado, y presentado para su análisis, y en su caso aprobación, al Consejo para la Protección de la Familia y la Prevención de la Violencia Familiar, por conducto de su Presidente.
+El programa a que se refiere este capítulo será elaborado y actualizado por el Ejecutivo del Estado a través del Sistema para el Desarrollo Integral de la Familia en Yucatán, y presentado para su análisis, y en su caso aprobación, al Consejo para la Protección de la Familia y la Prevención de la Violencia Familiar, por conducto de su Presidente.
 
 ### CAPÍTULO IV. DE LAS ESCUELAS PARA PADRES
 
@@ -187,13 +201,17 @@ La Secretaría de Educación del Gobierno del Estado, establecerá Escuelas para
 
 La Escuela para padres tendrá como objetivo proporcionar a los padres de familia o tutores y a los maestros, elementos formativos encaminados a fortalecer las relaciones de convivencia entre los diferentes integrantes de la familia y la aportación de elementos que permitan a aquéllos la transmisión de valores, conocimientos, habilidades y actitudes tendientes al fortalecimiento del núcleo familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 16.
 
-Las tareas a desarrollar en la Escuela para Padres serán:
+Las tareas para desarrollar en la escuela para padres serán:
 
 I. Orientar a los padres y maestros para que cumplan con sus responsabilidades en el ámbito familiar en forma más efectiva a través de la organización y planificación de grupos de discusión e intercambio y otras actividades como debates, conferencias en escuelas, talleres educativos y seminarios;
 
-II. Cooperar con otras instituciones, organizaciones o agrupaciones cuyos objetivos estén dirigidos al desarrollo armónico de mujeres, niños y jóvenes así como personas en edad senescente o con discapacidad;
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+II. Cooperar con otras instituciones, organizaciones o agrupaciones cuyos objetivos estén dirigidos al desarrollo armónico de mujeres, niñas, niños, adolescentes y jóvenes, así como personas adultas mayores o con discapacidad;
 
 III. Vincularse con las escuelas e instituciones u organizaciones que dirijan sus esfuerzos educativos a las relaciones humanas en general;
 
@@ -207,9 +225,11 @@ EN CONDICIONES DE VULNERABILIDAD
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 17.
 
-El Estado reconoce y tutela los derechos de todos y cada uno de los integrantes del núcleo familiar, incluyendo específicamente a las mujeres, a los menores, y a las personas en edad senescente o que manifiesten alguna discapacidad, de conformidad con la situación particular de los mismos.
+El Estado reconoce y tutela los derechos de todos y cada uno de los integrantes del núcleo familiar, incluyendo específicamente a mujeres, niñas, niños, adolescentes, y a los adultos mayores o personas con discapacidad, de conformidad con la situación particular de estos.
 
 ###### ARTÍCULO 18.
 
@@ -231,7 +251,9 @@ III. Cuando sean víctimas de situaciones irremediables de violencia familiar.
 
 Las instituciones encargadas de la aplicación de esta Ley vigilarán que se observen los derechos de cada una de las personas a las que hace referencia el presente Título, que comprenderán principalmente:
 
-I. Ser tratado sin discriminación alguna en razón de su condición de mujer, menor, senescente o discapacitado, o bien en razón de su raza, lengua, costumbres y demás circunstancias análogas;
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+I. Ser tratado sin discriminación alguna en razón de su condición de mujer, niña, niño, adolescente, adulto mayor o de persona con discapacidad, o bien en razón de su raza, lengua, costumbres y demás circunstancias análogas;
 
 II. Disfrutar en el mayor grado posible de buena salud. Para salvaguardar este derecho, el Estado y los Municipios deberán brindar el servicio y la atención médica, hospitalaria y de medicación en las Instituciones de Asistencia Social que tengan para tal efecto;
 
@@ -261,13 +283,17 @@ XIV. Gozar de un medio ambiente sano y equilibrado.
 
 En los casos de violación de los derechos de algún miembro de un núcleo familiar o cuando sea víctima de violencia familiar, se aplicarán los procedimientos establecidos en el artículo 68 de esta Ley, sin perjuicio de las sanciones a que se haga acreedor el infractor.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 21.
 
-Las instituciones encargadas de la aplicación de esta Ley vigilarán que existan en el Estado establecimientos, de los sectores público, social o privado, que se especialicen en dar atención a las mujeres, a los menores y a las personas en edad senescente o con discapacidad, especialmente a aquéllos que hayan sufrido alguna violación en sus derechos.
+Las instituciones encargadas de la aplicación de esta ley vigilarán que existan en el Estado establecimientos, de los sectores público, social o privado, que se especialicen en dar atención a mujeres, niñas, niños, adolescentes, adultos mayores o personas con discapacidad, especialmente a aquellos que hayan sufrido alguna violación de sus derechos.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 22.
 
-Cada uno de los establecimientos a que se refiere el artículo anterior, deberá especializarse o contar con secciones especializadas a fin de dar atención por separado a mujeres, menores y personas en edad senescente o con discapacidad.
+Cada uno de los establecimientos a que se refiere el artículo anterior, deberá especializarse o contar con secciones especializadas a fin de dar atención por separado a mujeres, niñas, niños, adolescentes, adultos mayores o personas con discapacidad.
 
 ###### ARTÍCULO 23.
 
@@ -287,7 +313,9 @@ VI. Los demás que señale la legislación aplicable.
 
 Deberá procurarse, dentro de lo posible, que los servicios a que se refiere este artículo se presten tanto en lugares fijos como a domicilio.
 
-Los asilos a que se refiere la fracción V se sujetarán, en lo aplicable, a las reglas establecidas en el artículo 45 para los establecimientos dedicados a menores.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Los asilos a que se refiere la fracción V se sujetarán, en lo aplicable, a las reglas establecidas en el artículo 45 para los establecimientos dedicados a niñas, niños y adolescentes.
 
 ### CAPÍTULO III. DE LAS MUJERES
 
@@ -305,11 +333,13 @@ IV. Disfrutar de actividades culturales y promover aquéllas que les son propias
 
 V. Garantizar el goce de sus derechos políticos, en iguales circunstancias que el hombre.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 25.
 
-Las instituciones encargadas de la aplicación de esta Ley cuidarán que funcionen en el Estado programas de atención a la mujer, los cuales podrán depender tanto del sector público como del sector privado.
+Las instituciones encargadas de la aplicación de esta ley cuidarán que funcionen en el Estado programas de atención a la mujer, los cuales podrán depender tanto del sector público como del sector privado.
 
-El Ejecutivo del Estado, por conducto del Instituto de la Mujer en Yucatán, elaborará programas específicos tendientes a proporcionar instrumentos adecuados a las mujeres para que implementen proyectos destinados a fortalecer su presencia en los diversos ámbitos productivos, sociales y culturales de la entidad.
+El Ejecutivo del Estado, por conducto de la Secretaría de las Mujeres, elaborará programas específicos tendientes a proporcionar instrumentos adecuados a las mujeres para que implementen proyectos destinados a fortalecer su presencia en los diversos ámbitos productivos, sociales y culturales de la entidad.
 
 ###### ARTÍCULO 26.
 
@@ -347,9 +377,11 @@ IV. Para que las estrategias tendientes a alcanzar la equidad de género, sean e
 
 V. Se propiciará la superación personal de la mujer, se apoyará en esquemas adecuados a las necesidades de los diferentes núcleos de mujeres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 28.
 
-El Sistema para el Desarrollo Integral de la Familia, en coordinación con las instituciones de salud en el Estado, establecerán programas a través de los cuales se proporcione a las mujeres embarazadas, entre otros servicios, los siguientes:
+El Sistema para el Desarrollo Integral de la Familia en Yucatán, en coordinación con las instituciones de salud en el Estado, establecerán programas a través de los cuales se proporcione a las mujeres embarazadas, entre otros servicios, los siguientes:
 
 I. Entrenamiento a fin de preparar a la mujer embarazada para un parto en las mejores condiciones posibles;
 
@@ -359,45 +391,63 @@ III. La asistencia médica y hospitalaria que se requiera antes, durante y despu
 
 IV. Orientación especial en caso de embarazos no deseados, encaminada a proteger tanto los derechos de la madre como los del producto en los términos de la presente Ley.
 
-Dichos programas deberán, asimismo, ocuparse de buscar posibles adoptantes para los menores que se encuentren en la situación prevista en la fracción IV de este artículo si la madre renunciara expresamente a sus derechos de familia con relación al menor, en cuyo caso el menor será puesto de inmediato a disposición de la Procuraduría de la Defensa del Menor y la Familia.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
-### CAPÍTULO IV. DE LOS MENORES
+Dichos programas deberán, asimismo, ocuparse de buscar posibles adoptantes para niñas o niños, que se encuentren en la situación prevista en la fracción IV de este artículo, si la madre renunciara expresamente a sus derechos de familia con relación a su hija o hijo, en cuyo caso será puesto de inmediato a disposición de la Procuraduría.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE JUNIO DE 2021)</small>
+
+### CAPÍTULO IV. DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 29.
 
-En la interpretación y aplicación de esta Ley deberá tomarse en cuenta el interés superior del menor, atendiendo a la naturaleza propia del menor como persona en desarrollo. Sus derechos y todo lo relativo a su preservación y protección tendrá carácter prioritario para las autoridades y la sociedad en general.
+En la interpretación y aplicación de esta ley deberá tomarse en cuenta el interés superior de la niñez, atendiendo a la naturaleza propia de niñas, niños y adolescentes como personas en desarrollo. Sus derechos y todo lo relativo a su preservación y protección tendrán carácter prioritario para las autoridades y la sociedad en general.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 30.
 
-Las instituciones encargadas de la aplicación de este ordenamiento deberán tomar, en todo tiempo, ya sea en forma conjunta o por separado, todas aquellas acciones que conduzcan a la debida promoción y difusión de la cultura de protección al menor y a los derechos del mismo.
+Las instituciones encargadas de la aplicación de este ordenamiento deberán tomar, en todo tiempo, ya sea en forma conjunta o por separado, todas aquellas acciones que conduzcan a la debida promoción y difusión de la cultura de protección a niñas, niños y adolescentes y a sus derechos.
 
-La Secretaría de Educación tomará las medidas adecuadas para que el personal docente y administrativo del Sistema Educativo Estatal, cuente con los elementos necesarios para promover los lineamientos que tiendan a fomentar dicha cultura entre los educandos y los padres de familia sepan detectar con prontitud la situación particular de cada uno de los educandos a su cargo y las medidas que deben tomar, en caso de que alguno de ellos se encuentre en alguna de las situaciones previstas en el artículo 36 de esta Ley.
+La Secretaría de Educación tomará las medidas adecuadas para que el personal docente y administrativo del Sistema Educativo Estatal, cuente con los elementos necesarios para promover los lineamientos que tiendan a fomentar dicha cultura entre los educandos y los padres de familia, sepan detectar con prontitud la situación particular de cada uno de los educandos a su cargo y las medidas que deben tomar, en caso de que alguno de ellos se encuentre en alguna de las situaciones previstas en el artículo 36 de esta ley.
 
 ###### ARTÍCULO 31.
 
 Son sujetos de la tutela del presente capítulo todas las personas menores de dieciocho años de edad.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 32.
 
-El Estado, en todo tiempo promoverá y vigilará la observancia de los derechos de los menores, procurando siempre la correcta aplicación de los medios legales y materiales pertinentes para prevenir y sancionar cualquier violación a los mismos y, en su caso, para restituir al menor en su goce y ejercicio, sin perjuicio de que se apliquen a quienes los conculquen las sanciones previstas por las leyes penales y administrativas.
+El Estado, en todo tiempo promoverá y vigilará la observancia de los derechos de niñas, niños y adolescentes, procurando siempre la correcta aplicación de los medios legales y materiales pertinentes para prevenir y sancionar cualquier violación a aquellos y, en su caso, para restituirles en su goce y ejercicio, sin perjuicio de que se apliquen a quienes los conculquen las sanciones previstas por las leyes penales y administrativas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 33.
 
-Todo menor gozará, en general, de los derechos contenidos en la Convención sobre los Derechos del Niño y, en particular, gozará del derecho a una vida digna y decorosa que comprenderá, además de los derechos establecidos en el artículo 20 de esta Ley, los siguientes:
+Niñas, niños y adolescentes gozarán, en general, de los derechos contenidos en la Convención sobre los Derechos del Niño y, en particular, gozarán del derecho a una vida digna y decorosa que comprenderá, además de los derechos establecidos en el artículo 20 de esta ley, los siguientes:
 
 I. Una identidad, que incluye nacionalidad, nombre y filiación de conformidad con lo establecido por las leyes correspondientes, así como el derecho de conocer en todo tiempo la identidad de sus padres o, en su caso, de sus adoptantes con conocimiento pleno de esta última circunstancia;
 
 II. Una educación que desarrolle íntegramente su personalidad, en los términos que establecen las leyes relativas, y
 
-III. El derecho a desarrollar sus capacidades, atendiendo al interés superior del infante.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+III. El derecho a desarrollar sus capacidades, atendiendo al interés superior de la niñez.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 34.
 
-Toda persona que conozca de hechos que amenacen o vulneren los derechos de los menores deberá denunciarlos a la brevedad posible ante la Procuraduría.
+Toda persona que conozca de hechos que amenacen o vulneren los derechos de niñas, niños y adolescentes deberá hacerlo del conocimiento inmediato de las autoridades competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 35.
 
-Son deberes de los menores:
+Son deberes de niñas, niños y adolescentes:
 
 I. Respetar a sus padres, tutores y familiares, así como a las autoridades e instituciones del Estado;
 
@@ -411,15 +461,19 @@ V. Cuidar y preservar su ambiente ecológico, y
 
 VI. Todas las demás que les sean indicadas por los padres o tutores que no afecten su dignidad, sus derechos ni su normal desarrollo y que coadyuven al orden público dentro y fuera del núcleo familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 36.
 
-El menor será sujeto de la tutela pública en los casos siguientes:
+Niñas, niños y adolescentes serán sujetos de la tutela pública en los casos siguientes:
 
 I. Cuando sea afectado por la violencia familiar;
 
 II. Cuando se trate de expósitos y abandonados;
 
-III. Cuando se trate de presuntos menores infractores o de menores infractores, y
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+III. Cuando se trate de personas adolescentes imputadas o de adolescentes a quienes se les atribuya la realización de una conducta tipificada como delito por las leyes penales, y
 
 IV. En los demás casos que establezca la legislación aplicable.
 
@@ -427,149 +481,175 @@ IV. En los demás casos que establezca la legislación aplicable.
 
 En las acciones de protección y tutela públicas a que se refiere este capítulo se propiciará la participación de los sectores público, social y privado.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 38.
 
 La tutela del poder público será ejercida:
 
 I. Por la Procuraduría, en los siguientes casos:
 
-a). Cuando no se trate de presuntos menores infractores o de menores infractores, de acuerdo con la legislación aplicable, y
+a) Cuando no se trate de personas adolescentes imputadas o de adolescentes a quienes se les atribuya la realización de una conducta tipificada como delito de acuerdo con la legislación aplicable, y
 
-b). Tratándose de presuntos menores infractores, mientras no sea resuelta la situación del menor sometido a procedimiento de acuerdo con la legislación aplicable.
+b) Tratándose de adolescentes a quienes se les atribuya la realización de una conducta tipificada como delito por las leyes penales, mientras no sea resuelta su situación sometido a procedimiento de acuerdo con la legislación aplicable.
 
-II. Por el Consejo Tutelar de Menores, tratándose de presuntos menores infractores o de menores infractores, desde que se resuelva la situación del menor hasta concluir el procedimiento o las medidas de tratamiento, de acuerdo con la legislación aplicable.
+II. Por el Centro Especializado en la Aplicación de Medidas para Adolescentes, tratándose de adolescentes a quienes se les atribuya la realización de una conducta tipificada como delito por las leyes penales, desde que se resuelva su situación hasta concluir el procedimiento o las medidas de tratamiento, de acuerdo con la legislación aplicable.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 39.
 
-El ejercicio de la patria potestad o de la tutela quedará sujeto, en cuanto a la guarda, educación y protección de los menores, a las modalidades que le impriman las resoluciones que se dicten de acuerdo con el presente capítulo.
+El ejercicio de la patria potestad o de la tutela quedará sujeto, en cuanto a la guarda, educación y protección de niñas, niños y adolescentes, a las modalidades que le impriman las resoluciones que se dicten de acuerdo con el presente capítulo.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 40.
 
-La Procuraduría es la institución facultada para realizar las investigaciones tendientes a conocer de los casos de abandono y violencia familiar contra menores, y para solicitar a la autoridad competente las medidas que procedan, sin perjuicio de las funciones indagatorias del Ministerio Público.
+La Procuraduría es la institución facultada de elaborar, bajo el principio del interés superior de la niñez, un diagnóstico acerca de los casos de abandono y violencia familiar contra niñas, niños y adolescentes, y para solicitar a la autoridad competente las medidas que procedan, sin perjuicio de las funciones indagatorias del Ministerio Público.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 41.
 
-La Procuraduría procederá a solicitar de la autoridad judicial competente la pérdida de la patria potestad, custodia o tutela, en su caso, cuando el maltrato, omisión de cuidados o abandono ponga en grave peligro la integridad física, moralidad o estabilidad emocional del menor.
+La Procuraduría procederá a solicitar de la autoridad judicial competente la pérdida de la patria potestad, custodia o tutela, en su caso, cuando el maltrato, omisión de cuidados o abandono ponga en grave peligro la integridad física, moral o estabilidad emocional de la niña, del niño o adolescente.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 42.
 
-Cuando se hubiere cometido alguna acción u omisión que pudiera constituir delito en contra de un menor, la Procuraduría deberá poner los hechos en conocimiento del Ministerio Público.
+Cuando se hubiere cometido alguna acción u omisión que pudiera constituir delito en contra de una niña, un niño o adolescente, la Procuraduría deberá poner los hechos en conocimiento del Ministerio Público.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 43.
 
-Toda persona, autoridad o institución que tenga conocimiento de que un menor se encuentra en alguno de los casos mencionados en el artículo 36 deberá hacerlo del conocimiento de la Procuraduría, sin perjuicio del derecho que tendrá el menor de denunciar todo maltrato o abuso de que sea objeto.
+Toda persona, autoridad o institución que tenga conocimiento de que una niña, un niño o adolescente se encuentra en alguno de los casos mencionados en el artículo 36 deberá hacerlo del conocimiento de la Procuraduría, sin perjuicio del derecho que tienen de denunciar todo maltrato o abuso de que sea objeto.
 
-Cualquier autoridad ante la que sea presentado un menor en los casos del artículo 36 de esta Ley lo pondrá a disposición de la Procuraduría, en un plazo que en ningún caso deberá exceder de cuatro horas a partir de la presentación, proveyendo sin demora el traslado del menor al establecimiento que corresponda, remitiendo oficio informativo sobre los hechos o copia del acta que acerca de los mismos se hubiese levantado. En caso de tratarse de un presunto menor infractor, se seguirán las reglas establecidas en la legislación de la materia.
+Cualquier autoridad ante la que se presente una niña, niño o adolescente en los casos del artículo 36 de esta ley lo pondrá a disposición de la Procuraduría, en un plazo que en ningún caso deberá exceder de cuatro horas a partir de la presentación, proveyendo sin demora su traslado al establecimiento que corresponda, remitiendo oficio informativo sobre los hechos o copia del acta que se hubiese levantado. En caso de tratarse de un adolescente a quien se le atribuya la realización de una conducta tipificada como delito, se seguirán las reglas establecidas en la legislación de la materia.
 
-En los casos de divorcio, cuando se esté en la situación a que hacen referencia los artículos 191 y 192 del Código Civil del Estado, la autoridad judicial deberá tomar en cuenta el parecer de la Procuraduría antes de aprobar el convenio respectivo. Igualmente, si hubiere hijos menores en alguno de los casos de divorcio originados por alguna de las causas señaladas en el artículo 194 del Código Civil, se deberá oír el parecer de la Procuraduría antes de dictar:
+En los casos de divorcio, cuando se esté en la situación a que hacen referencia los artículos 182 y 187 del Código de Familia para el Estado de Yucatán, la autoridad judicial deberá tomar en cuenta el parecer de la Procuraduría antes de aprobar el convenio respectivo. Igualmente, si hubiere hijos menores de dieciocho años en los casos de divorcio sin causales previsto en el mencionado Código, se deberá oír el parecer de la Procuraduría antes de dictar:
 
-I. Las medidas provisionales previstas en el artículo 199 del Código Civil, y
+I. Las medidas provisionales previstas en el artículo 196 del Código de Familia para el Estado de Yucatán, y
 
 II. La sentencia definitiva.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 44.
 
-La Procuraduría realizará visitas periódicas a los internados y casas hogares para menores, tanto públicos como privados, a efecto de vigilar la atención y cuidados que se brinden a los mismos, pudiendo llevar a cabo las acciones conducentes a su protección.
+La Procuraduría realizará visitas periódicas a los centros de asistencia social, tanto públicos como privados, a efecto de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros.
 
-El personal que realice tales visitas deberá presentar a la Procuraduría un informe semanal en el que detalle las actividades realizadas con tales fines, los resultados de sus observaciones, las acciones tomadas, en su caso, y las recomendaciones que considere pertinentes.
+El personal que realice tales visitas deberá presentar a la Procuraduría un informe semanal en el que detalle las actividades realizadas con ese fin, los resultados de sus observaciones, las acciones tomadas, en su caso, y las recomendaciones que considere pertinentes.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 45.
 
-Los establecimientos a que hace referencia el artículo que antecede, deberán satisfacer, por lo menos, los siguientes requisitos:
+Los establecimientos a que hace referencia el artículo que antecede, deberán cumplir con los requisitos establecidos en los artículos 108, 109 y 110 de la Ley General de los Derechos de Niñas, Niños y Adolescentes y demás normativa y disposiciones aplicables.
 
-I. El personal encargado de dichos establecimientos vigilará y tomará las medidas pertinentes para asegurar a los menores a su cargo el goce efectivo de sus derechos;
-
-II. El establecimiento contará con las instalaciones físicas adecuadas y dispondrá de secciones especiales atendiendo a la edad, sexo, estado de salud y demás circunstancias de los menores que reciba. En ningún caso deberá recibirse a un menor en un establecimiento que no cuente con la sección que le corresponda;
-
-III. Deberá tenerse en cuenta y tomar las medidas necesarias para satisfacer la necesidad del menor de intimidad, de posibilidades de asociación con sus compañeros y de participación en actividades de esparcimiento;
-
-IV. Las instalaciones sanitarias deberán ser de un nivel adecuado y estar situadas de modo que el menor pueda satisfacer sus necesidades fisiológicas en la intimidad y en forma aseada y decente;
-
-V. En dichos establecimientos deberá garantizarse que todo menor disponga de una alimentación adecuada;
-
-VI. Todo menor deberá disponer en todo momento de agua limpia y potable;
-
-VII. El personal encargado de los establecimientos deberá permitir a los menores a su cargo la satisfacción de sus necesidades religiosas, recreativas, educativas y de atención médica en su caso;
-
-VIII. Todo menor tendrá derecho a recibir visitas regulares y frecuentes, en condiciones que respeten la necesidad de intimidad del menor, el contacto y la comunicación con la familia, siempre que éstas sean benéficas para el menor, y
-
-IX. Todo menor tendrá derecho a comunicarse por escrito o por teléfono, con la persona de su elección, siempre que sea benéfico para el menor, y deberá recibir la asistencia necesaria para que pueda ejercer eficazmente ese derecho.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 46.
 
-Las instituciones de seguridad pública en el Estado deberán vigilar las vías públicas a fin de tomar conocimiento de todos los casos de explotación y abuso a menores y trasladar inmediatamente a los menores que se encuentren en tales condiciones a alguno de los establecimientos mencionados en el artículo 44 y ponerlos a disposición de la Procuraduría junto con un informe detallado de la situación en la que fueron encontrados, a fin de que ésta tome las medidas pertinentes.
+Las instituciones de seguridad pública en el Estado deberán vigilar las vías públicas a fin de tomar conocimiento de todos los casos de explotación y abuso a niñas, niños y adolescentes y trasladar inmediatamente a quienes se encuentren en tales condiciones a alguno de los establecimientos mencionados en el artículo 44 y ponerlos a disposición de la Procuraduría junto con un informe detallado de la situación en la que fueron encontrados, a fin de que esta tome las medidas pertinentes.
 
-El incumplimiento de la obligación consignada en el párrafo que antecede, deberá ser denunciado por toda persona que tenga conocimiento del mismo para los fines que procedan de conformidad con el reglamento de cada institución.
+El incumplimiento de la obligación consignada en el párrafo que antecede deberá ser denunciado por toda persona que tenga conocimiento de esta para los fines que procedan de conformidad con el reglamento de cada institución.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 47.
 
-La Procuraduría deberá recibir toda denuncia de violación a los derechos de los menores que se les presente. Recibido el reporte procederán a su investigación.
+La Procuraduría deberá recibir los reportes de casos de posibles restricciones o vulneraciones a los derechos de niñas, niños y adolescentes que se le presenten. Una vez recibido el reporte, se elaborará un diagnóstico sobre la situación, y de existir hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes, se interpondrá la denuncia ante el Ministerio Público.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 48.
 
-Para determinar si el menor sufre o ha sufrido la violación de derechos denunciada, solicitarán, en su caso, la práctica de los exámenes médicos o psicológicos necesarios.
+Para determinar si la niña, el niño o adolescente sufre o ha sufrido la violación de derechos denunciada, se solicitará, en su caso, la práctica de los exámenes médicos o psicológicos necesarios.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 49.
 
-La Procuraduría podrá separar preventivamente al menor de su hogar cuando aparezcan motivos fundados que hagan presumir la existencia de un peligro inminente e inmediato a su salud o seguridad.
+La Procuraduría podrá separar preventivamente a la niña, el niño o adolescente de su hogar cuando aparezcan motivos fundados que hagan presumir la existencia de un peligro inminente e inmediato a su salud o seguridad.
 
 ###### ARTÍCULO 50.
 
 La Procuraduría podrá tener la custodia en instituciones públicas, en las de asistencia privada o buscándole un lugar adecuado para dicho fin en tanto se resuelva en definitiva la situación en que debe quedar.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 51.
 
-En el caso del artículo 49, la Procuraduría, dentro de un plazo de quince días contados a partir de la fecha de separación, deberá resolver sobre la integración del menor a su núcleo familiar o ejercitar las acciones referidas en el artículo 41 de esta Ley.
+En el caso del artículo 49, la Procuraduría, dentro de un plazo de quince días contado a partir de la fecha de separación, deberá resolver sobre la integración de la niña, del niño o adolescente a su núcleo familiar o ejercitar las acciones referidas en el artículo 41 de esta ley.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 52.
 
-La Procuraduría podrá ampliar el término fijado en el artículo anterior, de ser necesario para la mayor protección y tratamiento psicológico del menor, sin que pueda exceder dicho término de dos meses contados a partir de la fecha de separación. En la resolución de ampliación del término se establecerán las condiciones para que, quienes ejercen la patria potestad, tutela o custodia puedan visitarlo, en caso de que, atendiendo al interés superior del menor deban ser autorizadas las visitas.
+La Procuraduría podrá ampliar el término fijado en el artículo anterior, de ser necesario para la mayor protección y tratamiento psicológico de la niña, del niño o adolescente, sin que pueda exceder dicho término de dos meses contado a partir de la fecha de separación. En la resolución de ampliación del término se establecerán las condiciones para que, quienes ejercen la patria potestad, tutela o custodia puedan visitarlo, en caso de que, atendiendo al interés superior de la niñez deban ser autorizadas las visitas.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 53.
 
-Inmediatamente después de la separación del menor de su hogar, la Procuraduría deberá de poner en conocimiento del Ministerio Público los hechos y circunstancias, acompañando copia de las constancias relativas.
+Inmediatamente después de la separación de la niña, del niño o adolescente de su hogar, la Procuraduría deberá hacer del conocimiento del Ministerio Público los hechos y circunstancias, acompañando copia de las constancias relativas.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 54.
 
-Toda persona que tenga bajo su custodia o cuidado a un menor que sea susceptible de la tutela pública, deberá permitir el contacto del personal de la Procuraduría con aquél; asimismo deberán presentarlo para las entrevistas que deban llevarse a cabo.
+Toda persona que tenga bajo su custodia o cuidado a una niña, un niño o adolescente que sea susceptible de la tutela pública deberá permitir el contacto del personal de la Procuraduría con aquél; asimismo deberán presentarlo para las entrevistas que deban llevarse a cabo.
 
 ###### ARTÍCULO 55.
 
 En caso de negativa de las personas obligadas conforme al artículo anterior, la Procuraduría podrá solicitar de la autoridad judicial competente el requerimiento para que presten las facilidades necesarias.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 56.
 
-De no ser posible la reintegración del menor al núcleo familiar y habiendo resolución de la autoridad judicial competente sobre la pérdida de la patria potestad, custodia o tutela del menor, la Procuraduría podrá tomar, según lo que considere más conveniente para el menor, una de las medidas que se enuncian a continuación en orden de preferencia:
+De no ser posible la reintegración de la niña, del niño o adolescente al núcleo familiar y habiendo resolución de la autoridad judicial competente sobre la pérdida de la patria potestad, custodia o tutela, la Procuraduría podrá tomar, según lo que considere más conveniente para ellos, una de las medidas que se enuncian a continuación en orden de preferencia:
 
-I. Solicitar a la autoridad judicial que ordene la integración del menor al hogar de la persona que deba sustituir a aquel que ha perdido la patria potestad en el ejercicio de la misma;
+I. Solicitar a la autoridad judicial que ordene la integración de la niña, del niño o adolescente al hogar de la persona que deba sustituir a aquel que ha perdido la patria potestad en el ejercicio de esta;
 
-II. Solicitar a la autoridad judicial que ordene la integración del menor al hogar de la persona que deba ejercer la tutela legítima sobre el menor, o
+II. Solicitar a la autoridad judicial que ordene la integración de la niña, del niño o adolescente al hogar de la persona que deba ejercer la tutela legítima sobre ellos, o
 
-III. Localizar a la persona que, de conformidad con esta Ley y con la legislación civil del Estado, reúna las condiciones idóneas para adoptar y que desee hacerlo y, de ser procedente, solicitar, necesariamente al Ministerio Público, el consentimiento a que se refiere el artículo 316 del Código Civil del Estado y canalizar a los adoptantes hacia la Oficialía del Registro Civil que corresponda.
+III. Localizar a la persona que, de conformidad con esta ley y con la legislación familiar del Estado, reúna las condiciones idóneas para adoptar y que desee hacerlo y, de ser procedente, solicitar el consentimiento a que se refiere el artículo 387 del Código de Familia para el Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 57.
 
-Para la investigación del maltrato de menores, la Procuraduría realizará todas las acciones conducentes al esclarecimiento del caso, podrá solicitar, en caso de notoria urgencia y bajo su responsabilidad el auxilio de la fuerza pública para la seguridad en la práctica de sus diligencias.
+Para la elaboración del diagnóstico acerca de casos de maltrato de niñas, niños y adolescentes, la Procuraduría realizará todas las acciones conducentes al esclarecimiento del caso, podrá solicitar, en caso de notoria urgencia y bajo su responsabilidad el auxilio de la fuerza pública para la seguridad en la práctica de sus diligencias.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 58.
 
-En caso de oposición de particulares para que se lleve a cabo una medida de protección a un menor o de investigación de un probable maltrato, la Procuraduría podrá solicitar de la autoridad judicial competente la autorización para llevar a cabo tales acciones.
+En caso de oposición de particulares para que se lleve a cabo una medida de protección a una niña, un niño o adolescente o de diagnóstico acerca de un probable maltrato, la Procuraduría podrá solicitar de la autoridad judicial competente la autorización para llevar a cabo tales acciones.
 
-La solicitud se llevará a cabo en los términos del artículo 55 o durante el proceso, que en su caso, se siga por el maltrato detectado.
+La solicitud se llevará a cabo en los términos del artículo 55 o durante el proceso, que, en su caso, se siga por el maltrato detectado.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 59.
 
-Los menores expósitos o abandonados, quedarán bajo la tutela del poder público por conducto de la Procuraduría. En consecuencia, toda persona o institución pública o privada que tenga conocimiento de estos casos, deberá comunicarlo a aquélla, quien proveerá sobre la custodia correspondiente y procederá a la investigación en su caso.
+Las niñas y los niños expósitos o niñas, niños y adolescentes abandonados, quedarán bajo la tutela del poder público por conducto de la Procuraduría. En consecuencia, toda persona o institución pública o privada que tenga conocimiento de estos casos, deberá comunicarlo a aquella, quien proveerá sobre la custodia correspondiente y procederá a la elaboración del diagnóstico en su caso.
 
 ###### ARTÍCULO 60.
 
 Inmediatamente que la Procuraduría conozca del asunto hará del conocimiento del Ministerio Público todos los elementos que tenga a su alcance.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 61.
 
-Se exceptúan de lo dispuesto en los artículos anteriores, los casos en que mediante custodia otorgada por quienes ejercen la patria potestad, se entreguen menores a instituciones o particulares para su cuidado temporal; para ello, las instituciones que tengan bajo su custodia menores llevarán un registro de los que tengan bajo su cuidado, en donde aparezcan:
+Se exceptúan de lo dispuesto en los artículos anteriores, que establecen los casos en los que la Procuraduría tiene bajo su tutela pública niñas, niños y adolescentes, aquellos casos en los que quienes ejercen la patria potestad, entreguen mediante custodia otorgada, a niñas, niños y adolescentes a centros de asistencia social o particulares para su cuidado temporal. Para ello, los centros de asistencia social que los tengan bajo su custodia llevarán un registro que contenga:
 
-I. Nombre, datos de identificación y estado de salud del menor;
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+I. Nombre, datos de identificación y estado de salud de la niña, del niño o adolescente;
 
 II. Motivo y fecha de admisión;
 
@@ -579,11 +659,13 @@ IV. Nombre y domicilio de la persona que hace entrega, y
 
 V. Nombre y domicilio de quienes ejercen la patria potestad o tutela.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 62.
 
-Las instituciones mencionadas en el artículo anterior informarán a la Procuraduría, dentro de los tres días siguientes a que sucedan las admisiones y salidas de menores.
+Los centros de asistencia social mencionados en el artículo anterior informarán a la Procuraduría, dentro de los tres días siguientes a que sucedan las admisiones y salidas de las niñas, los niños y adolescentes.
 
-Para un adecuado control la Procuraduría deberá integrar y mantener actualizado el registro de los menores que se encuentren en estas condiciones.
+Para un adecuado control la Procuraduría deberá integrar y mantener actualizado el registro de niñas, niños y adolescentes que se encuentren en estas condiciones.
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN, D.O. 3 DE NOVIEMBRE DE 2014)</small>
 
@@ -595,9 +677,11 @@ Para un adecuado control la Procuraduría deberá integrar y mantener actualizad
 
 ### CAPITULO VI. DE LA ASISTENCIA SOCIAL Y PRIVADA
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 64.
 
-El Ejecutivo del Estado, por conducto del Sistema Estatal para el Desarrollo Integral de la Familia, promoverá la participación de los sectores social y privado en la asistencia a las personas señaladas en este título, por lo que se auxiliará de los patronatos, asociaciones o fundaciones y los particulares.
+El Ejecutivo del Estado, por conducto del Sistema para el Desarrollo Integral de la Familia en Yucatán, promoverá la participación de los sectores social y privado en la asistencia a las personas señaladas en este título, por lo que se auxiliará de los patronatos, asociaciones o fundaciones y los particulares.
 
 Los patronatos, asociaciones y fundaciones a que se refiere el presente capítulo se integrarán con la concurrencia de los diversos sectores y organizaciones privadas o, en su caso, por particulares, que tengan por objeto coadyuvar con los integrantes de la familia en situación de vulnerabilidad.
 
@@ -607,7 +691,9 @@ La asistencia a que se refiere el artículo anterior tiene por objeto:
 
 I. Orientación a los padres de familia o tutores y maestros, en asuntos de carácter familiar;
 
-II. Guarda de personas en los centros de asistencia habilitados para ello;
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+II. Guarda de personas en los centros de asistencia social habilitados para ello;
 
 III. Realización de actos o eventos que formen en los integrantes de la familia, inclinaciones educativas, deportivas, artísticas o culturales;
 
@@ -623,27 +709,33 @@ VIII. Proporcionar auxilio material y moral a las víctimas, en los casos de vio
 
 IX. Todas las demás en beneficio de la familia que no interfieran en las que competan exclusivamente a las instituciones públicas encargadas de la aplicación de esta Ley y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 66.
 
-Tratándose de menores infractores, las instituciones mencionadas en el artículo anterior se coordinarán con el Consejo Tutelar de Menores, para celebrar convenios de coordinación y cooperación con los representantes de industrias, comercios y de agrupaciones profesionales con capacidad generadora de empleo, que deseen participar en la adaptación social de aquéllos.
+Tratándose de adolescentes a quienes se les atribuya la realización de una conducta tipificada como delito, las instituciones mencionadas en el artículo anterior se coordinarán con el Centro Especializado en la Aplicación de Medidas para Adolescentes, para celebrar convenios de coordinación y cooperación con los representantes de industrias, comercios y de agrupaciones profesionales con capacidad generadora de empleo, que deseen participar en la adaptación social de aquellos.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 67.
 
-Las instituciones a que se refiere este capítulo deberán coordinarse con el Sistema Estatal para el Desarrollo Integral de la Familia para la creación y funcionamiento de hogares colectivos o albergues que brinden a los integrantes de la familia en situación desfavorable, habitación y reforzamiento educativo o laboral que requieran.
+Las instituciones a que se refiere este capítulo deberán coordinarse con el Sistema para el Desarrollo Integral de la Familia en Yucatán para la creación y funcionamiento de hogares colectivos o albergues que brinden a los integrantes de la familia en situación desfavorable, habitación y reforzamiento educativo o laboral que requieran.
 
 ### CAPÍTULO VI (SIC). DE LOS PROCEDIMIENTOS EN CASO DE CONFLICTO FAMILIAR
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 68.
 
 Las partes en un conflicto familiar podrán resolver sus diferencias mediante los procedimientos:
 
-I. De conciliación, y
+I. De mediación, y
 
-II. De arbitraje.
+II. De conciliación.
 
 Quedan exceptuadas aquellas controversias que versen sobre el derecho a alimentos o delitos que se persigan de oficio.
 
-Dichos procedimientos estarán a cargo de la Procuraduría de la Defensa del Menor y la Familia.
+El procedimiento y demás formalidades que se requieran para la aplicación de los mecanismos alternativos de solución de controversias, deben ajustarse a lo dispuesto por la Ley de Mecanismos Alternativos de Solución de Controversias en el Estado de Yucatán y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 69.
 
@@ -687,9 +779,11 @@ Para los efectos de esta Ley, se entiende por violencia familiar el uso de la fu
 
 ### CAPÍTULO II. DE LA PREVENCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 75.
 
-En materia de prevención de violencia familiar, corresponden al Sistema Estatal para el Desarrollo Integral de la Familia las siguientes funciones:
+En materia de prevención de violencia familiar, corresponde al Sistema para el Desarrollo Integral de la Familia en Yucatán las siguientes funciones:
 
 I. Brindar asistencia social mediante personal especializado en la materia, en los sitios diversos donde exista violencia familiar, para combatirla;
 
@@ -717,9 +811,11 @@ XII. Fomentar, en coordinación con instituciones especiales públicas, privadas
 
 ### CAPÍTULO III. DE LAS UNIDADES DE ASISTENCIA FAMILIAR
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 76.
 
-Las Unidades de Asistencia Familiar son establecimientos interdisciplinarios dependientes de la Procuraduría de la Defensa del Menor y la Familia, que tienen la finalidad de prestar atención integral y especializada a quienes estén involucrados en algún acto de violencia familiar, ya sea como receptores o como generadores de la misma.
+Las Unidades de Asistencia Familiar son establecimientos interdisciplinarios dependientes del Sistema para el Desarrollo Integral de la Familia en Yucatán, que tienen la finalidad de prestar atención integral y especializada a quienes estén involucrados en algún acto de violencia familiar, ya sea como receptores o como generadores de esta.
 
 ###### ARTÍCULO 77.
 
@@ -745,31 +841,41 @@ La atención a quienes incurran en actos de violencia familiar, se basará en mo
 
 Se podrá hacer extensiva la atención en instituciones públicas a quienes cuenten con sentencia ejecutoriada relacionada con eventos de violencia familiar, a solicitud de la autoridad judicial que corresponda, o bien, a solicitud del propio interesado.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 81.
 
-El personal de las instituciones a que se refieren los dos artículos anteriores, deberá ser profesional acreditado por algún organismo especializado, público o privado y contar con la capacitación necesaria para las tareas que desempeñen, en cuanto a conocimientos, habilidades y actitudes así como con el perfil y aptitudes adecuadas, debiendo contar con el registro correspondiente ante el Sistema Estatal para el Desarrollo Integral de la Familia.
+El personal de las instituciones a que se refieren los dos artículos anteriores, deberá ser profesional acreditado por algún organismo especializado, público o privado y contar con la capacitación necesaria para las tareas que desempeñen, en cuanto a conocimientos, habilidades y actitudes, así como con el perfil y aptitudes adecuadas, debiendo contar con el registro correspondiente ante el Sistema para el Desarrollo Integral de la Familia en Yucatán.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 82.
 
-La asistencia jurídica que se proporcione protegerá los derechos de los receptores de la violencia familiar, su integridad física y psicoemocional, aún en los procedimientos de conciliación y arbitraje.
+La asistencia jurídica que se proporcione protegerá los derechos de los receptores de la violencia familiar, su integridad física y psicoemocional, aun en los procedimientos de mediación y conciliación. En caso de que la violencia sea ejercida en contra de niñas, niños y adolescentes se hará del conocimiento de la Procuraduría.
 
 ###### ARTÍCULO 83.
 
 Las Unidades de Asistencia Familiar deberán:
 
-I. Expedir y conservar constancias administrativas de aquellos actos que de conformidad con la presente Ley, se consideren violencia familiar y que sean hechos de su conocimiento, y remitirlas a la Procuraduría;
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+I. Expedir y conservar constancias administrativas de aquellos actos que, de conformidad con la presente Ley, se consideren violencia familiar y que sean hechos de su conocimiento, y remitirlas a la Procuraduría cuando esta violencia sea ejercida en contra de niñas, niños y adolescentes;
 
 II. Citar a los involucrados y reincidentes en actos de violencia familiar a efecto de que se apliquen las medidas asistenciales que erradiquen dicha violencia;
 
 III. Atender las solicitudes de las personas que tengan conocimiento de la violencia familiar;
 
-IV. Proporcionar psicoterapia especializada gratuita, en coordinación con las instituciones autorizadas, a los receptores de la violencia familiar que sean maltratados, así como a los agresores o familiares involucrados, dentro de una atención psicológica y jurídica, y
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+IV. Proporcionar psicoterapia especializada gratuita, a través de la Dirección de Atención a la Infancia y la Familia en coordinación con las instituciones autorizadas, a los receptores de la violencia familiar, así como a los agresores o familiares involucrados, dentro de una atención psicológica y jurídica, y
 
 V. Elaborar convenios entre las partes involucradas cuando así lo soliciten, y vigilar su cumplimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 84.
 
-El Sistema Estatal para el Desarrollo Integral de la Familia deberá:
+El Sistema para el Desarrollo Integral de la Familia en Yucatán deberá:
 
 I. Coadyuvar a la difusión del contenido y alcances de la presente Ley;
 
@@ -787,9 +893,11 @@ II. Requiera a la autoridad competente la certificación de las lesiones y del d
 
 III. Pida al órgano jurisdiccional competente que dicte las medidas correspondientes a fin de proteger a las personas afectadas por la violencia familiar.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 86.
 
-Los órganos jurisdiccionales, a través de sus titulares, y una vez que conozcan de juicios o procesos, en donde se desprenda que existe violencia familiar, podrán solicitar a las instituciones debidamente autorizadas por la Procuraduría de la Defensa del Menor y la Familia, la realización de los estudios e investigaciones correspondientes. Dichas instituciones remitirán a las autoridades judiciales los informes, dictámenes y estudios psicoterapéuticos de quienes provoquen la violencia familiar y de quienes resulten afectados por ésta, y en general todos aquellos que les sean de utilidad.
+Los órganos jurisdiccionales, a través de sus titulares, y una vez que conozcan de juicios o procesos, en donde se desprenda que existe violencia familiar, podrán solicitar a las instituciones debidamente autorizadas por la Dirección Jurídica del Sistema para el Desarrollo Integral de la Familia en Yucatán, la realización de los estudios e investigaciones correspondientes. Dichas instituciones remitirán a las autoridades judiciales los informes, dictámenes y estudios psicoterapéuticos de quienes provoquen la violencia familiar y de quienes resulten afectados por esta, y en general todos aquellos que les sean de utilidad.
 
 ###### ARTÍCULO 87.
 
@@ -803,9 +911,11 @@ En los casos que con motivo de actos de violencia familiar, se hubieren cometido
 
 ### CAPÍTULO V. DEL REGISTRO DE INSTITUCIONES EN MATERIA DE VIOLENCIA FAMILIAR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 89.
 
-El Sistema Estatal para el Desarrollo Integral de la Familia establecerá y se encargará del funcionamiento del Registro de Instituciones en Materia de Violencia Familiar, el cual contendrá:
+El Sistema para el Desarrollo Integral de la Familia en Yucatán establecerá y se encargará del funcionamiento del Registro de Instituciones en Materia de Violencia Familiar, el cual contendrá:
 
 I. Los datos generales del instrumento de creación de la institución u organización correspondiente;
 
@@ -855,7 +965,9 @@ V. El incumplimiento de la resolución dictada en el procedimiento de arbitraje 
 
 VI. Los actos de violencia familiar señalados en el artículo 74 de esta Ley, que no estén previstos como delito por otros ordenamientos;
 
-VII. No hacer del conocimiento de la Procuraduría los casos de menores que deban ser sujetos de la tutela pública, y
+> <small>(REFORMADA D.O. 23 DE JUNIO DE 2021)</small>
+
+VII. No hacer del conocimiento de la Procuraduría los casos de niñas, niños y adolescentes que deban ser sujetos de la tutela pública, y
 
 VIII. En general, la contravención de cualquier disposición contenida en esta Ley.
 
@@ -871,9 +983,11 @@ Para la acreditación de las infracciones o de la reincidencia a que hacen menci
 
 ### CAPÍTULO II. DE LOS MEDIOS DE IMPUGNACIÓN
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 94.
 
-Contra las resoluciones y la imposición de sanciones de esta Ley, procederán los recursos que establece la Ley de lo Contencioso Administrativo del Estado.
+Contra las resoluciones y las sanciones impuestas en el cumplimiento de esta ley, procederá el recurso administrativo de revisión en los términos de lo establecido en el título noveno de la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
 ## TRANSITORIOS
 
@@ -940,3 +1054,89 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 23 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 378/2021 POR EL QUE SE EMITE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE YUCATÁN, LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LA FAMILIA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE YUCATÁN, EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, LA LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE YUCATÁN, LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN Y LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación de la ley
+
+Se abroga la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 12 de junio de 2015.
+
+Tercero. Abrogación de la ley que crea la Prodemefa
+
+Se abroga la Ley que crea la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 7 de marzo de 1979.
+
+Cuarto. Obligación normativa
+
+El Congreso del estado deberá armonizar las leyes secundarias relacionadas con la materia de este decreto, en un plazo no mayor a ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Quinto. Expedición del reglamento de la ley
+
+El gobernador, en un plazo no mayor de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Hasta en tanto se emitan estas disposiciones continuará aplicándose el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 10 de mayo de 2017, que se encuentra en vigor, en lo que no contravenga lo establecido en este decreto.
+
+Sexto. Régimen de vigencia especial
+
+El Acuerdo DIF 07/SO/2a /2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014, dejará de ser aplicable a partir de que se emita el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Séptimo. Expedición del programa
+
+El gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este decreto.
+
+El gobernador podrá prescindir de la expedición de este programa siempre que los elementos que señala este decreto estén incluidos en un programa de mediano plazo, de protección de niñas, niños y adolescentes.
+
+Octavo. Instalación de los sistemas local y municipales de protección
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán y los sistemas municipales de protección integral de niñas, niños y adolescentes deberán instalarse dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Expedición del reglamento interno
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contado a partir de su instalación.
+
+Décimo. Obligación normativa
+
+La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia en Yucatán deberá realizar las adecuaciones necesarias al Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia en Yucatán, dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Décimo primero. Modificación de regulación interna del DIF-Yucatán y sistemas DIF municipales
+
+El Sistema para el Desarrollo Integral de la Familia en Yucatán y los sistemas municipales para el desarrollo integral de la familia deberán adecuar su regulación interna en los términos de lo dispuesto en este decreto dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Décimo segundo. Nombramiento del secretario ejecutivo del sistema de protección integral
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, el secretario ejecutivo del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará en el cargo.
+
+Los requisitos exigidos en el artículo 20 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto se realice por la persona titular del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo tercero. Nombramiento de la persona titular de la procuraduría de protección
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, la procuradora de la Defensa del Menor y la Familia en el Estado de Yucatán, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará como titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo cuarto. Protección de los derechos de los adultos mayores y personas con discapacidad
+
+En los casos en los que las leyes le otorguen facultades y obligaciones a la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán en lo referente a la protección de los derechos de adultos mayores y personas con discapacidad, se entenderá que será competente el Sistema para el Desarrollo Integral de la Familia en Yucatán; lo anterior, con motivo de la especialización de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán en los términos de lo dispuesto en este decreto.
+
+Décimo quinto. Referencia a la procuraduría de protección
+
+En lo sucesivo, cuando en alguna norma se haga referencia a la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán o al Procurador de la Defensa del Menor y la Familia en el Estado de Yucatán, se entenderá que se refieren, en todos los casos, a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o a la persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda.
+
+Décimo sexto. Procedimientos y asuntos en trámite
+
+Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se substanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
+
+Décimo séptimo. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, a la entrada en vigor de este decreto, seguirán conservando su misma categoría y derechos laborales que les corresponden ante la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en los términos de la legislación aplicable.
+
+Décimo octavo. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, pasarán a formar parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo noveno. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
