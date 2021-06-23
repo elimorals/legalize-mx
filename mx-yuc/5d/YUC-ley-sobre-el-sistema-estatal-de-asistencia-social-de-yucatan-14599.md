@@ -4,7 +4,7 @@ identifier: "YUC-ley-sobre-el-sistema-estatal-de-asistencia-social-de-yucatan-14
 country: "mx"
 rank: "ley"
 publication_date: "1986-09-12"
-last_updated: "1994-07-18"
+last_updated: "2021-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE YUCATAN
 
-LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE YUCATAN
+LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
 
 Ley publicada en el Diario Oficial el Viernes 12 de Septiembre de 1996.
 
@@ -41,9 +41,11 @@ LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE YUCATAN
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley regirá en todo el Estado de Yucatán; sus disposiciones son de orden público e interés social, y tiene por objeto establecer las bases para la organización de un sistema que promueva la prestación en la Entidad, de los servicios de asistencia social establecidos en este ordenamiento y en la Ley Estatal de Salud, mediante la colaboración y concurrencia de la Federación, el Estado, sus Municipios y los sectores social y privado.
+La presente Ley regirá en todo el Estado de Yucatán; sus disposiciones son de orden público e interés social, y tiene por objeto establecer las bases para la organización de un sistema que promueva la prestación en la Entidad, de los servicios de asistencia social establecidos en este ordenamiento y en la Ley de Salud del Estado de Yucatán, mediante la colaboración y concurrencia de la Federación, el Estado, sus Municipios y los sectores social y privado.
 
 ###### ARTICULO 2o.
 
@@ -53,27 +55,39 @@ Para los efectos de esta Ley se entiende por asistencia social, el conjunto de a
 
 El Gobierno del Estado, en forma prioritaria proporcionará servicios de asistencia social encaminados al desarrollo integral de la familia, entendida ésta como la célula de la sociedad que provee a sus miembros de los elementos que requieran en las diversas circunstancias de su desarrollo, apoyando también en su formación, subsistencia y desarrollo a personas que se encuentren en estado de necesidad, desprotección o desventaja no superables en forma autónoma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 4o.
 
-Son sujetos preferentes de la recepción de los servicios de asistencia social los siguientes:
+En la recepción de los servicios de asistencia social se dará preferencia a los siguientes grupos:
 
-I.- Menores de edad en estado de abandono, desamparo, desnutrición o sujetos a malos tratos;
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-II.- Menores infractores, en lo referente a su atención integral y reintegración a la sociedad.
+I.- Niñas, niños y adolescentes afectados por maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia.
+
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+II.- Adolescentes a quienes se les impute o resulten responsables de la comisión de hechos tipificados como delitos, en lo referente a su reintegración social y familiar y a su reinserción social.
 
 III.- Alcohólicos y farmacodependientes, propiciando su rehabilitación social integral.
 
 IV.- Mujeres en períodos de gestación o lactancia.
 
-V.- Ancianos en estado de abandono, desamparo, incapacidad, marginación o sujetos a malos tratos.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-VI.- Minusválidos por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuromusculoesquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias.
+V.- Adultos mayores que se encuentren en situación de violencia, abandono u otra condición que atente contra su integridad y dignidad.
+
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+VI.- Personas con discapacidad.
 
 VII.- Personas que carezcan de lo indispensable para su subsistencia.
 
 VIII.- Personas que por su extrema ignorancia requieran de servicios asistenciales.
 
-IX.- Víctimas Resultantes de la Comisión de delitos que se encuentren en abandono.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+IX.- Víctimas que como resultado de la comisión de un delito se encuentren en situación de abandono.
 
 X.- Familiares que dependan de personas privadas de su libertad y que se encuentren en estado de necesidad.
 
@@ -135,15 +149,25 @@ XI.- Las demás que le otorguen las leyes aplicables.
 
 Para los efectos de este ordenamiento se entiende, como servicios básicos de salud en materia de asistencia social, los siguientes:
 
-I.- La atención a personas que por su condición económica o por problemas de invalidez, se vean impedidas para satisfacer sus necesidades básicas de subsistencia y desarrollo.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-II.- La atención en establecimientos especializados a menores y ancianos desamparados y minusválidos sin recursos.
+I.- La atención a personas que por su condición económica o de discapacidad, se vean impedidas para satisfacer sus necesidades básicas de subsistencia y desarrollo.
 
-III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-IV.- El ejercicio de la tutela de menores o incapaces, en los términos de las disposiciones legales aplicables.
+II.- La atención en establecimientos especializados a niñas, niños, adolescentes, adultos mayores y personas con discapacidad, que carezcan de recursos económicos.
 
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, incapaces, ancianos y minusválidos sin recursos.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+III.- La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para la ancianidad.
+
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+IV.- El ejercicio de la tutela de niñas, niños y adolescentes o personas con discapacidad, en los términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a niñas, niños y adolescentes, personas con discapacidad y adultos mayores que carezcan de recursos económicos.
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas que surjan en materia de asistencia social.
 
@@ -153,7 +177,9 @@ VIII.- El apoyo a la educación y capacitación para el trabajo de personas con 
 
 IX.- La prestación de servicios funerarios.
 
-X.- La prevención de invalidez y su rehabilitación en centros especializados.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+X.- La prevención para evitar la discapacidad y su rehabilitación en centros especializados.
 
 XI.- La orientación nutricional y la alimentación complementaria a personas de escasos recursos y a residentes de zonas marginadas.
 
@@ -163,9 +189,13 @@ XIII.- El desarrollo comunitario en localidades y zonas social y económicamente
 
 XIV.- El establecimiento y manejo del sistema estatal de información básica en materia de asistencia social.
 
-XV.- La colaboración y auxilio a las autoridades laborales en la vigilancia y aplicación de la legislación laboral aplicable a los menores.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-XVI.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental.
+XV.- La colaboración y auxilio a las autoridades laborales en la vigilancia y aplicación de la legislación laboral aplicable a niñas, niños y adolescentes.
+
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+XVI.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de niñas, niños y adolescentes a la satisfacción de sus necesidades y a la salud física y mental.
 
 XVII.- Los demás que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
 
@@ -189,7 +219,9 @@ La prestación de los servicios básicos de salud de atención local en materia 
 
 Las instituciones particulares que presten los servicios de asistencia a que se refiere el párrafo anterior, se regirán por los ordenamientos locales en la materia y por la reglamentación municipal que corresponda a los Ayuntamientos.
 
-## TITULO SEGUNDO. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE YUCATAN
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE JUNIO DE 2021)</small>
+
+## TITULO SEGUNDO. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN YUCATÁN
 
 ### CAPITULO PRIMERO. DE SU OBJETO, FUNCIONES, PATRIMONIO Y ORGANIZACION
 
@@ -217,9 +249,13 @@ V.- Coordinar las funciones relacionadas con beneficencia pública y la asistenc
 
 VI.- Fomentar y apoyar las actividades que lleven a cabo las asociaciones y sociedades civiles y todo tipo de entidades privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias.
 
-VII.- Operar establecimientos de asistencia social en beneficio de menores, ancianos y minusválidos desamparados.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-VIII.- Llevar a cabo acciones de prevención y de rehabilitación en materia de invalidez en centros no hospitalarios, con sujeción a las disposiciones legales aplicables.
+VII.- Operar establecimientos de asistencia social en beneficio de niñas, niños y adolescentes, adultos mayores y personas con discapacidad en situación de desamparo.
+
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+VIII.- Llevar a cabo acciones de prevención y de rehabilitación en materia de discapacidad en centros no hospitalarios, con sujeción a las disposiciones legales aplicables.
 
 IX.- Realizar y promover estudios e investigaciones en materia de asistencia social, propiciando la participación en su caso, de las autoridades asistenciales en el Estado y sus municipios.
 
@@ -229,17 +265,25 @@ XI.- Realizar y promover la capacitación de personal para la asistencia social.
 
 XII.- Operar y coordinar el sistema estatal de información básica en materia de asistencia social.
 
-XIII.- Prestar servicios de asistencia jurídica y de orientación social a menores, ancianos, minusválidos e incapaces sin recursos.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+XIII.- Prestar servicios de asistencia jurídica y de orientación social a niñas, niños y adolescentes a través de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán; y a adultos mayores y personas con discapacidad que carezcan de recursos económicos, por medio de la Dirección Jurídica.
 
 XIV.- Apoyar el ejercicio de la tutela que corresponda al Estado en los términos de la legislación respectiva.
 
-XV.- Auxiliar al Ministerio Público en la protección de incapaces, así como en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales aplicables.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-XVI.- Promover la realización de estudios e investigaciones en materia de invalidez.
+XV.- Auxiliar al Ministerio Público en la protección de las personas con discapacidad, así como en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales aplicables.
+
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+XVI.- Promover en conjunto con el Instituto para la Inclusión de las Personas con Discapacidad del Estado de Yucatán, la realización de estudios e investigaciones en materia de discapacidad.
 
 XVII.- Participar en programas de rehabilitación y educación especial.
 
-XVIII.- Gestionar ante las autoridades correspondientes la adaptación o readaptación del espacio urbano, para satisfacer los requerimientos de autonomía de los inválidos.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+XVIII.- Gestionar ante las autoridades correspondientes la adaptación o readaptación del espacio urbano, para satisfacer los requerimientos de autonomía de las personas con discapacidad.
 
 XIX.- Establecer y operar de manera complementaria hospitales, unidades de investigación y docencia y centros relacionados con el bienestar social.
 
@@ -253,11 +297,13 @@ XXII.- Los demás que establezcan las disposiciones legales aplicables en la mat
 
 En casos de desastre, el Organismo sin perjuicio de las acciones que en auxilio de los damnificados lleven a cabo otras dependencias y entidades de la administración pública federal, estatal o municipal, promoverá la atención y coordinación de las acciones de los distintos sectores sociales que actúen en beneficio de aquellos, en el ámbito de su competencia.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 18.
 
-En la prestación de servicios y en la realización de acciones, el Organismo actuará en coordinación con las dependencias del Gobierno del Estado y sus municipios, según la competencia que a éstas otorgan las Leyes.
+En la prestación de servicios y en la realización de acciones, el Organismo actuará en coordinación con las dependencias del Gobierno del Estado y sus municipios, según la competencia que a estas otorgan las leyes.
 
-El Organismo promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de invalidez, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales.
+El Organismo promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que vivan con cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales.
 
 ###### ARTICULO 19.
 
@@ -305,13 +351,17 @@ IV.- En cada sesión, designar al Secretario de las mismas y,
 
 V.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 23.
 
-El Presidente del Patronato será designado y removido libremente por el Gobernador del Estado.
+La presidencia del Patronato estará a cargo de quien ocupe la Dirección General del Organismo, excepto cuando la persona titular del Poder Ejecutivo del Estado designe a otra persona para que ejerza el cargo.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 24.
 
-El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que su Presidente estime necesarias. Para sesionar se requiere la asistencia de cuando menos cinco de sus miembros; las resoluciones se adoptarán por mayoría de votos. La Presidencia tendrá voto de calidad en caso de empate.
+El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que la persona que presida estime necesarias. Para sesionar se requiere la asistencia de cuando menos cinco de sus miembros; las resoluciones se adoptarán por mayoría de votos. Quien presida el Patronato tendrá voto de calidad en caso de empate.
 
 ###### ARTICULO 25.
 
@@ -327,19 +377,45 @@ IV.- Convocar a las sesiones ordinarias y extraordinarias, y
 
 V.- Las demás que sean necesarias para la consecución de sus fines.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 26.
 
-La Junta de Gobierno estará integrada por un Presidente, por el Director General del Sistema y cuando menos cinco funcionarios públicos que serán designados y removidos por el Ejecutivo Estatal. Los componentes de esta Junta de Gobierno no percibirán retribución alguna.
+La Junta de Gobierno será la máxima autoridad del Organismo y estará integrada por:
 
-Los miembros de la Junta de Gobierno serán suplidos por las personas que al efecto se designen.
+I. La persona titular del Poder Ejecutivo estatal, o la persona que este designe, quien la presidirá.
+
+II. Las personas titulares de las siguientes instituciones públicas:
+
+a) Secretaría General de Gobierno
+
+b) Secretaría de Administración y Finanzas
+
+c) Secretaría de Desarrollo Social
+
+d) Consejería Jurídica
+
+e) Secretaría de Salud
+
+f) Secretaría de la Contraloría General
+
+Quienes integren la Junta de Gobierno tendrán derecho a voz y voto durante las sesiones.
+
+Los cargos de quienes integren la Junta de Gobierno son de carácter honorífico, por tanto, quienes los ocupen no recibirán retribución alguna por su desempeño.
+
+Quienes integren la Junta de Gobierno, a excepción de la persona que presida, quien será suplido por la persona titular de la Secretaría General de Gobierno, nombrarán, por escrito dirigido al Secretario de Actas y Acuerdos, a sus suplentes, quienes los sustituirán en sus ausencias con las facultades y obligaciones que establecen esta Ley, el Reglamento del Código de la Administración Pública de Yucatán y otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 27.
 
-La Junta de Gobierno tendrá las siguientes facultades:
+La Junta de Gobierno del Organismo tendrá las siguientes facultades:
 
 I.- Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales.
 
-II.- Aprobar el reglamento interior, la organización general del Organismo y los manuales de procedimientos y servicios al público.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+II.- Aprobar el estatuto orgánico, la organización general del Organismo y los manuales de procedimientos y servicios al público.
 
 III.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades.
 
@@ -347,7 +423,9 @@ IV.- Estudiar y aprobar los proyectos de inversión.
 
 V.- Conocer y aprobar los Convenios de Coordinación que hayan de celebrarse con Dependencias y Entidades Públicas.
 
-VI.- Determinar la integración de comités técnicas (sic) y grupos de trabajo temporales.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+VI.- Determinar la integración de comités técnicos y grupos de trabajo temporales.
 
 VII.- Aprobar los programas de mediano plazo a que quedarán sujetos los servicios de salud en materia de asistencia social que preste el Organismo, en base a los programas sectoriales y prioridades presupuestales a que esté sujeto.
 
@@ -357,21 +435,25 @@ IX.- Ejercer vigilancia sobre el patrimonio del Organismo, y
 
 X.- Las demás que sean necesarias que no sean competencia exclusiva de otros órganos de gobierno.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 28.
 
-La Junta de Gobierno celebrará sesiones ordinarias trimestrales y las extraordinarias que se requieran a juicio de la Presidencia. Para la celebración de las sesiones se requiere la presencia de cuando menos cuatro de sus integrantes y las resoluciones se tomarán por mayoría de votos. El Presidente tendrá voto de calidad en caso de empate.
+La Junta de Gobierno del Organismo sesionará de manera ordinaria, por lo menos, cuatro veces al año y en forma extraordinaria cuando así lo considere la persona que presida, o quien lo supla, o lo solicite la mitad más uno de sus integrantes.
 
-Las sesiones ordinarias se celebrarán en los meses de marzo, junio, septiembre y diciembre de cada año, en la fecha y con las formalidades que al efecto disponga la Presidencia.
+La Junta de Gobierno sesionará válidamente con la asistencia de, por lo menos, la mitad más uno de sus integrantes con derecho a voz y voto. Los acuerdos se tomarán por el voto de la mayoría de los integrantes que asistan a la sesión correspondiente. En caso de empate, la persona que presida, o quien lo supla, tendrá voto de calidad.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 29.
 
-Para ser Director General del Organismo, se requiere ser mexicano por nacimiento, mayor de treinta años de edad y con experiencia en materia administrativa y de asistencia social.
+Para ser titular de la Dirección General del Organismo, se requiere ser mayor de treinta años al momento de su designación, y cumplir, los requisitos establecidos en el artículo 75 del Código de la Administración Pública de Yucatán.
 
-El Gobernador del Estado designará y removerá libremente al Director General.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 30.
 
-El Director General tendrá las siguientes facultades:
+La persona titular de la Dirección General del Organismo tendrá las siguientes facultades:
 
 I.- Ejecutar los acuerdos y disposiciones de la Junta de Gobierno.
 
@@ -391,7 +473,9 @@ VIII.- Suscribir títulos de crédito con arreglo a las disposiciones legales ap
 
 IX.- Rendir anualmente, en la primera sesión ordinaria del año siguiente, con las formalidades que la Presidencia de la Junta de Gobierno le señale, el informe general de actividades del Organismo, así como las cuentas de su administración, y
 
-X.- Desempeñar las demás funciones que esta Ley señala, las que el reglamento interior indique y aquellas que por disposición o acuerdo general de la Junta de Gobierno sean de su competencia.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+X.- Desempeñar las demás funciones que esta Ley señala, las que el estatuto orgánico indique y aquellas que por disposición o acuerdo general de la Junta de Gobierno sean de su competencia.
 
 ###### ARTICULO 31.
 
@@ -409,91 +493,85 @@ Para el eficaz cumplimiento de sus objetivos, el Organismo podrá celebrar conve
 
 Cuando el Organismo reciba aportaciones o subsidios del Sistema Nacional para el Desarrollo Integral de la Familia, como consecuencia de los convenios celebrados al efecto, con apoyo en las disposiciones legales aplicables, vigilará la correcta aplicación de los recursos a las finalidades convenidas.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 35.
 
-La Procuraduría de la Defensa del Menor y la Familia es un organismo jurídico y tutelar de interés público, dependiente del Sistema para el Desarrollo Integral de la Familia de Yucatán, con domicilio en esta ciudad de Mérida y jurisdicción en todo el Estado, con personalidad y facultades para representar legalmente a menores de edad o incapaces ante cualesquiera tribunales o autoridades de la entidad, para la defensa de sus derechos, cuando aquellos carecieren de representación o ésta fuese deficiente, prestar asistencia jurídica a menores, ancianos y minusválidos sin recursos y las demás que esta Ley le otorga.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán es una unidad administrativa dependiente del Organismo, con domicilio en la ciudad de Mérida y jurisdicción en todo el estado, con personalidad y facultades previstas en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
 
 ###### ARTICULO 36.
 
-La Procuraduría de la Defensa del Menor y la Familia prestará asesoría jurídica permanente a las familias y a los menores de edad, entendiéndose por éstos en el ámbito civil a quienes no hubiesen cumplido dieciocho años, y en el ámbito penal o de defensa social a los que no hubiesen cumplido dieciséis años.
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
 
 ###### ARTICULO 37.
 
-La Procuraduría de la Defensa del Menor y la Familia estará integrada por:
-
-1.- El Procurador
-
-2.- Subprocurador
-
-3.- Asesores
-
-4.- Delegados
-
-5.- Trabajadores sociales
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
 
 ###### ARTICULO 38.
 
-Para ser Procurador de la Defensa del Menor y la Familia se requiere ser mexicano por nacimiento, en ejercicio de sus derechos, ser abogado o licenciado en derecho titulado, con mínimo de 3 años de ejercicio, y tener experiencia en asuntos de índole familiar.
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
 
 ###### ARTICULO 39.
 
-El Procurador de la Defensa del Menor y la Familia será nombrado y removido libremente por el Director General del Organismo.
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
 
 ###### ARTICULO 40.
 
-La Procuraduría de la Defensa del Menor y la Familia establecerá Delegaciones integradas a los Sistemas Municipales del Organismo, en los Municipios donde juzgue conveniente y necesario para cumplir con sus objetivos.
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
 
 ###### ARTICULO 41.
 
-La Procuraduría de la Defensa del Menor y la Familia, por conducto de su titular, rendirá informe mensual escrito de sus actividades al Director General del Organismo e igual informe rendirán los Delegados al Procurador.
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
 
 ###### ARTICULO 42.
 
-La Procuraduría de la Defensa del Menor y la Familia es un órgano de interés social y con ese carácter se constituirá ante las Instituciones encargadas del tratamiento y rehabilitación de los menores infractores, a fin de promover la aplicación de programas, supervisar su aplicación y comprobar los avances del tratamiento tutelar y educativo que en las mismas se imparta.
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
 
 ###### ARTICULO 43.
 
-Además de la representación legal subsidiaria de menores e incapaces que tiene a su cargo la Procuraduría, está facultada para intervenir en toda clase de situaciones conflictivas o que afecten el bienestar de la familia; y primordialmente, para gestionar que se asegure y obtenga de los legalmente obligados lo necesario para su subsistencia y la satisfacción de sus necesidades, pudiendo constituirse en coadyuvante del Ministerio Público en los juicios de divorcio, en los procedimientos de jurisdicción voluntaria relativos a divorcios voluntarios, así como en cualquier procedimiento relacionado con los acreedores alimentarios que la Ley reconoce.
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
 
 ###### ARTICULO 44.
 
-La Procuraduría de la Defensa del Menor y la Familia vigilará en todo caso y en forma especial, que ningún menor sea internado en los lugares destinados para la detención o reclusión de adultos, e igualmente intervendrá ante la Escuela de Educación Social para Menores, a fin de conocer y, en su caso, participar en la aplicación y ejecución de las providencias dictadas por el Consejo Tutelar para Menores del Estado; y estará facultada para promover ante los citados organismos, lo que estime necesario o conveniente para la realización de sus objetivos.
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
 
 ###### ARTICULO 45.
 
-Las funciones de la Procuraduría de la Defensa del Menor y la Familia son de interés público, por lo que, en el desarrollo de sus actividades, podrá solicitar el auxilio de las autoridades federales, estatales y municipales.
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
 
 ###### ARTICULO 46.
 
-Las autoridades judiciales darán intervención al titular o Delegado de la Procuraduría de la Defensa del Menor y la Familia, según el caso, en todos aquellos asuntos de carácter civil, familiar o de defensa social, que se relacionen con la familia o el menor de edad, con los derechos o intereses de éstos, cuando lo consideren conveniente, necesario o de interés social, notificando en estos casos el auto o providencia inicial a la Procuraduría de la Defensa del Menor y la Familia, para el efecto de que ésta pueda tener la intervención que por ley le corresponde.
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
 
 ###### ARTICULO 47.
 
-En los procedimientos de defensa social o los previstos en la Ley para la rehabilitación social de los menores, en los cuales los pasivos fueren menores de edad civil, la Procuraduría podrá intervenir por los medios legales a su alcance para gestionar todo lo tendiente a la reparación del daño infligido a dichos menores.
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
 
 ###### ARTICULO 48.
 
-En los procedimientos que se instauren ante el Consejo Tutelar para Menores del Estado, será considerado en todo caso parte de la Procuraduría de la Defensa del Menor y la Familia; y al efecto, deberán notificarle el acuerdo de incoación y todos los subsiguientes.
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
 
 ###### ARTICULO 49.
 
-En los casos a que se refieren los tres artículos precedentes, el Procurador o sus Delegados expresamente autorizados, podrán aportar pruebas en beneficio de los menores, incapaces o de los intereses familiares involucrados.
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
 
 ###### ARTICULO 50.
 
-La Procuraduría presta una función gestora del bienestar social y, por ende, sus promociones tenderán siempre a conciliar los intereses y mejorar las relaciones entre los miembros de la familia, con el objeto de lograr su cabal integración armónica dentro de la comunidad.
+(DEROGADO, D.O. 23 DE JUNIO DE 2021)
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 51.
 
-Las relaciones laborales entre el Organismo y sus trabajadores, se rigen por el Estatuto Jurídico de los Trabajadores al Servicio del Estado de Yucatán y deben ser dichos trabajadores incorporados al régimen de la Ley de Seguridad Social para los Servidores Públicos del Estado de Yucatán, de sus Municipios y de los Organismos Públicos Coordinados y Descentralizados de Carácter Estatal.
+Las relaciones laborales entre el Organismo y sus trabajadores, se rigen por la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán y estos trabajadores deben ser incorporados al régimen de la Ley de Seguridad Social para los Servidores Públicos del Estado de Yucatán, de sus Municipios y de los Organismos Públicos Coordinados y Descentralizados de Carácter Estatal.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 52.
 
-Se considerarán como empleados de confianza:
+Se considerarán como empleados de confianza, quienes ocupen la titularidad de las siguientes áreas:
 
-(REFORMADO [N. DE E. REFORMADO INCISO K)], D.O. 18 DE JULIO DE 1994)
-
-A) El Director General; B) Los Subdirectores Generales; C) El Gerente de la Planta Industrializadora; D) Los Gerentes de la propia Planta; E) Los Jefes de Departamento; F) Los Subjefes de Departamento; G) Los Asesores; H) Los Jefes de turno; I) Los Secretarios Particulares; J) El Subprocurador y Delegados de la Procuraduría de la Defensa del Menor y la Familia; K) Los Directores y Administradores de los Centros de Desarrollo, Casa Cuna y Educación Especial; L) Las secretarias y los choferes de los antes mencionados y, en general, el personal que efectué labores de inspección y vigilancia.
+A) La Dirección General; B) Las Subdirecciones Generales y Direcciones; C) Las Jefaturas de Departamento; D) Las Subjefaturas de Departamento; E) Quienes funjan como Asesores; F) Quienes sean Jefes de turno; G) Las Secretarías Particulares; H) La Subprocuraduría y Delegaciones de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán; I) Las Direcciones y Administraciones de los Centros de Desarrollo, los Centros de Atención Infantil, los Centros de Asistencia Social Públicos, del Centro de Rehabilitación y Educación Especial, del Centro Regional de Órtesis, Prótesis y Ayudas Funcionales de Yucatán, del Centro de Atención Integral a la Discapacidad Visual de Yucatán; J) Las personas que sean secretarias y choferes de los antes mencionados y, en general, el personal que efectúe labores de inspección y vigilancia.
 
 ### CAPITULO SEGUNDO
 
@@ -559,13 +637,21 @@ I.- Operar los programas de asistencia social en el ámbito que les corresponda.
 
 II.- Impulsar el sano crecimiento físico y mental de la niñez.
 
-III.- Detectar a personas minusválidas, física o mentalmente que requieran servicios de rehabilitación.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-IV.- Proporcionar servicios asistenciales a menores y ancianos desamparados, así como a personas de escasos recursos.
+III.- Detectar a personas con discapacidad que requieran servicios de rehabilitación.
 
-V.- Incorporar a minusválidos a la vida productiva.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-VI.- Prestar asesoría jurídica a la población, preferentemente a los ancianos, menores y minusválidos.
+IV.- Proporcionar servicios asistenciales a niñas, niños y adolescentes, a adultos mayores, así como a personas que carezcan de recursos económicos.
+
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+V.- Incorporar a personas con discapacidad a la vida productiva.
+
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+VI.- Prestar asesoría jurídica a la población, preferentemente a los adultos mayores, niñas, niños y adolescentes y, personas con discapacidad.
 
 VII.- Apoyar el mejoramiento de la dieta familiar.
 
@@ -573,7 +659,9 @@ VIII.- Fomentar la utilización adecuada del tiempo libre.
 
 IX.- Coordinar todas las tareas que en materia de asistencia social realicen otras instituciones en el municipio.
 
-X.- Procurar permanentemente la adecuación de sus objetivos y programas a las directrices del Sistema Estatal para el Desarrollo Integral de la Familia.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+X.- Procurar permanentemente la adecuación de sus objetivos y programas a las directrices del Organismo.
 
 XI.- En general, procurar en su jurisdicción la realización de las funciones a que se refiere el artículo 16 de la presente Ley.
 
@@ -635,11 +723,17 @@ II.- Aprobar los planes de trabajo, presupuestos, informes de actividades y esta
 
 III.- Ejercer la vigilancia adecuada del patrimonio del Sistema Municipal.
 
-IV.- Aprobar el reglamento interior, la organización del Sistema Municipal y los manuales de procedimientos y servicios al público.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-V.- Conocer y aprobar los convenios de coordinación que se celebren con el Sistema Estatal y con otras entidades de los sectores público, privado y social.
+IV.- Aprobar el estatuto orgánico, la organización del Sistema Municipal y los manuales de procedimientos y servicios al público.
 
-VI.- Apoyar las actividades del Sistema y contribuir a la obtención de recursos para incrementar al patrimonio del mismo.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+V.- Conocer y aprobar los convenios de coordinación que se celebren con el Organismo y con otras entidades de los sectores público, privado y social.
+
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+VI.- Apoyar las actividades del Sistema Municipal y contribuir a la obtención de recursos para incrementar su patrimonio.
 
 > <small>(REFORMADO, D.O. 24 DE JUNIO DE 1992)</small>
 
@@ -651,7 +745,9 @@ I.- Vigilar que los acuerdos del patronato se cumplan fielmente.
 
 II.- Rendir anualmente el informe general de las actividades del Sistema Municipal y los parciales.
 
-III.- Presentar al Ayuntamiento y al Sistema Estatal los informes que le sean requeridos.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+III.- Presentar al Ayuntamiento y al Organismo los informes que le sean requeridos.
 
 > <small>(REFORMADO, D.O. 24 DE JUNIO DE 1992)</small>
 
@@ -675,7 +771,9 @@ VI.- Celebrar los convenios, contratos y actos jurídicos que se requieran para 
 
 Los Sistemas Municipales se coordinarán:
 
-I.- Con el Sistema para el Desarrollo Integral de la Familia del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+I.- Con el Organismo.
 
 II.- Con los Sistemas de otros municipios del Estado de Yucatán, en los casos que se requiera.
 
@@ -685,9 +783,11 @@ III.- Con las dependencias gubernamentales federales, Estatales y Municipales y 
 
 ### CAPITULO ÚNICO. DE LA COORDINACION Y CONCERTACION
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 62.
 
-Con el propósito de asegurar la adecuada y eficaz coordinación de acciones en el ámbito de la prestación de los servicios de salud en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más necesitados en los términos del Sistema Nacional de Planeación, de la Ley General de Salud y de la Ley Estatal de Salud, el Gobierno del Estado, en su carácter de autoridad sanitaria, a través del Organismo, celebrará acuerdos y concertará acciones con los sectores público, social y privado de la entidad.
+Con el propósito de asegurar la adecuada y eficaz coordinación de acciones en el ámbito de la prestación de los servicios de salud en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más necesitados en los términos del Sistema Nacional de Planeación, de la Ley General de Salud y de la Ley de Salud del Estado de Yucatán, el Gobierno del Estado, en su carácter de autoridad sanitaria, a través del Organismo, celebrará acuerdos y concertará acciones con los sectores público, social y privado de la entidad.
 
 ###### ARTICULO 63.
 
@@ -731,17 +831,21 @@ III.- Fijación del objeto, materia y alcances jurídicos de los compromisos que
 
 IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
 
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 69.
 
 El Gobierno del Estado promoverá la organización y participación de la comunidad en la atención de aquellos casos de salud, que por sus características requieran de acciones de asistencia social basadas en el apoyo y solidaridad social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades marginadas.
 
-La Secretaría de Salud del Estado y el Organismo, pondrán especial atención a los casos de menores abandonados y de incapacitados física o mentalmente.
+La Secretaría de Salud del Estado y el Organismo, pondrán especial atención a los casos de niñas, niños y adolescentes en estado de abandono y de personas con discapacidad.
 
 ###### ARTICULO 70.
 
 La autoridad sanitaria del Estado directamente, o a través del Organismo, promoverá la organización y participación de la comunidad para que, con base en el apoyo y solidaridad sociales, coadyuve a la prestación de servicios asistenciales para el desarrollo integral de la familia, a través de las siguientes opciones:
 
-I.- Promoción de hábitos de conducta y el conocimiento de valores superiores que contribuyan a la protección de los grupos necesitados, a su superación y a la prevención de la invalidez.
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+
+I.- Promoción de hábitos de conducta y el conocimiento de valores superiores que contribuyan a la protección de los grupos necesitados, a su superación y a la prevención de la discapacidad.
 
 II.- La incorporación de auxiliares voluntarios en la realización de tareas básicas de asistencia social y participación en actividades específicas de operación de los servicios de salud en la materia, bajo la dirección y control de las autoridades y entidades correspondientes.
 
@@ -788,3 +892,89 @@ Se derogan las disposiciones legales que se opongan a lo dispuesto en el Present
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 23 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 378/2021 POR EL QUE SE EMITE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE YUCATÁN, LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LA FAMILIA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE YUCATÁN, EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, LA LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE YUCATÁN, LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN Y LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación de la ley
+
+Se abroga la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 12 de junio de 2015.
+
+Tercero. Abrogación de la ley que crea la Prodemefa
+
+Se abroga la Ley que crea la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 7 de marzo de 1979.
+
+Cuarto. Obligación normativa
+
+El Congreso del estado deberá armonizar las leyes secundarias relacionadas con la materia de este decreto, en un plazo no mayor a ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Quinto. Expedición del reglamento de la ley
+
+El gobernador, en un plazo no mayor de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Hasta en tanto se emitan estas disposiciones continuará aplicándose el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 10 de mayo de 2017, que se encuentra en vigor, en lo que no contravenga lo establecido en este decreto.
+
+Sexto. Régimen de vigencia especial
+
+El Acuerdo DIF 07/SO/2a /2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014, dejará de ser aplicable a partir de que se emita el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Séptimo. Expedición del programa
+
+El gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este decreto.
+
+El gobernador podrá prescindir de la expedición de este programa siempre que los elementos que señala este decreto estén incluidos en un programa de mediano plazo, de protección de niñas, niños y adolescentes.
+
+Octavo. Instalación de los sistemas local y municipales de protección
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán y los sistemas municipales de protección integral de niñas, niños y adolescentes deberán instalarse dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Expedición del reglamento interno
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contado a partir de su instalación.
+
+Décimo. Obligación normativa
+
+La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia en Yucatán deberá realizar las adecuaciones necesarias al Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia en Yucatán, dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Décimo primero. Modificación de regulación interna del DIF-Yucatán y sistemas DIF municipales
+
+El Sistema para el Desarrollo Integral de la Familia en Yucatán y los sistemas municipales para el desarrollo integral de la familia deberán adecuar su regulación interna en los términos de lo dispuesto en este decreto dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Décimo segundo. Nombramiento del secretario ejecutivo del sistema de protección integral
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, el secretario ejecutivo del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará en el cargo.
+
+Los requisitos exigidos en el artículo 20 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto se realice por la persona titular del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo tercero. Nombramiento de la persona titular de la procuraduría de protección
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, la procuradora de la Defensa del Menor y la Familia en el Estado de Yucatán, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará como titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo cuarto. Protección de los derechos de los adultos mayores y personas con discapacidad
+
+En los casos en los que las leyes le otorguen facultades y obligaciones a la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán en lo referente a la protección de los derechos de adultos mayores y personas con discapacidad, se entenderá que será competente el Sistema para el Desarrollo Integral de la Familia en Yucatán; lo anterior, con motivo de la especialización de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán en los términos de lo dispuesto en este decreto.
+
+Décimo quinto. Referencia a la procuraduría de protección
+
+En lo sucesivo, cuando en alguna norma se haga referencia a la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán o al Procurador de la Defensa del Menor y la Familia en el Estado de Yucatán, se entenderá que se refieren, en todos los casos, a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o a la persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda.
+
+Décimo sexto. Procedimientos y asuntos en trámite
+
+Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se substanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
+
+Décimo séptimo. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, a la entrada en vigor de este decreto, seguirán conservando su misma categoría y derechos laborales que les corresponden ante la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en los términos de la legislación aplicable.
+
+Décimo octavo. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, pasarán a formar parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo noveno. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
