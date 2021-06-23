@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-12960
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-30"
-last_updated: "2021-04-02"
+last_updated: "2021-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129609&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-07-18"
 
 ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2021.
 
 Estatuto publicado en la Segunda Sección al Número 21 del Diario Oficial de la Federación, el lunes 30 de julio de 2018.
 
@@ -1025,9 +1025,9 @@ IX. Fomentar el desarrollo de esquemas y programas de detección de necesidades 
 
 X. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares;
 
-> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
 
-XI. Dirigir, coordinar y dar seguimiento a las funciones inherentes de promoción de negocios, operación crediticia y atención a los segmentos de los sectores agropecuario, rural, forestal y pesquero, en apego a los objetivos y metas asignadas a las Coordinaciones Regionales;
+XI. Dirigir, coordinar y dar seguimiento a las funciones inherentes de promoción de negocios, operación crediticia y atención a los segmentos de los sectores agropecuario, rural, forestal y pesquero, en apego a los objetivos y metas Institucionales, así como las asignadas a las Coordinaciones Regionales;
 
 > <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
@@ -1041,9 +1041,15 @@ XIV. Dirigir la instrumentación de productos y programas de atención a los seg
 
 XV. Evaluar el cumplimiento de las metas y objetivos asignados a las Coordinaciones Regionales conforme a las prioridades establecidas en la fracción XI del presente artículo;
 
-XVI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
+> <small>(ADICIONADA, D.O.F. 23 DE JUNIO DE 2021)</small>
 
-XVII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
+XVI. Establecer, coordinar y evaluar las acciones y resultados de las Coordinaciones Regionales, Agencias Estatales de Crédito Rural, Agencias de Crédito Rural y Módulos, respecto al portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
+
+> <small>(ADICIONADA, D.O.F. 23 DE JUNIO DE 2021)</small>
+
+XVII. Proponer al Director General el nombramiento, remoción, cambio de adscripción, y promoción, de conformidad con la normatividad institucional, de los servidores públicos adscritos a las Coordinaciones Regionales, con excepción de las Gerencias referidas en las fracciones VIII, del artículo 23, VI, del artículo 34 y XIII Bis 6, del artículo 52 del presente Estatuto y de los servidores públicos adscritos a éstas;
+
+Proponer al Director General, el establecimiento, reubicación y cierre de Agencias y Módulos en las Coordinaciones Regionales;
 
 > <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
@@ -1265,7 +1271,17 @@ X. Establecer, emitir y difundir acciones, instrucciones, planes, procesos, proc
 
 XI. Instrumentar, resolver y ejecutar los procedimientos de rescisión administrativa, terminación anticipada y suspensión que se implementen en la Financiera, derivados de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y sus respectivos reglamentos, y
 
-XII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE JUNIO DE 2021)</small>
+
+XII. Dirigir y apoyar a las Coordinaciones Regionales, en la administración de los recursos humanos, estructuras orgánicas y ocupacionales que tengan asignadas en cada una de ellas;
+
+> <small>(ADICIONADA, D.O.F. 23 DE JUNIO DE 2021)</small>
+
+XIII. Dirigir y apoyar a las Coordinaciones Regionales, en lo correspondiente a la administración de los recursos materiales y servicios generales, que se encuentren asignadas a cada una de ellas;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE JUNIO DE 2021)</small>
+
+XIV. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director General.
 
 ###### ARTÍCULO 49.
 
@@ -1849,21 +1865,33 @@ XIV. Llevar a cabo las demás actividades dentro del área de su competencia, qu
 
 Corresponde a las Coordinaciones Regionales:
 
-I. Coordinar la promoción y ejecución de los productos y programas de crédito y promoción con apego a los lineamientos establecidos, a fin de lograr las metas de negocios y los objetivos de atención a usuarios en apoyo a las decisiones de la Dirección General y Direcciones Generales Adjuntas;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
 
-II. Coordinar las acciones y resultados de las Agencias de Crédito Rural en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
+I. Coordinar la promoción, ejecución y seguimiento de los productos y programas de crédito en su circunscripción territorial correspondiente; a fin de lograr las metas de negocios y los objetivos de atención a usuarios en apoyo a las decisiones de la Dirección General y Direcciones Generales Adjuntas;
 
-III. Coordinar los diferentes programas con los gobiernos estatales y municipales;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
+
+II. Coordinar y evaluar las acciones, así como los resultados de las Agencias Estatales de Crédito Rural y Agencias de Crédito Rural, referente al portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
+
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
+
+III. Coordinar y evaluar los diferentes productos y programas, así como las estrategias institucionales con los gobiernos estatales, municipales y los sectores social y privado;
 
 IV. Representar a la Financiera en las comisiones que se le asignen;
 
-V. Proponer al Director General la apertura, reubicación y clausura de Agencias y Módulos en la región;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
+
+V. Proponer a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional, el establecimiento, reubicación y cierre de Agencias y Módulos en la región;
 
 VI. Apoyar las gestiones específicas que realicen las Agencias y Módulos en el ámbito de su competencia;
 
-VII. Administrar los recursos humanos que tengan asignados, así como disponer que las Gerencias a su cargo se ubiquen en la sede de la Coordinación Regional o de manera indistinta, en los estados que correspondan a su circunscripción;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
 
-VIII. Administrar las estructuras orgánicas y ocupacionales, así como los recursos materiales y servicios generales de las instancias de su adscripción regional;
+VII. Proponer a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional los asuntos concernientes a la administración de los recursos humanos, estructuras orgánicas y ocupacionales que tengan asignados, así como disponer que las Gerencias a su cargo se ubiquen en la sede de la Coordinación Regional;
+
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
+
+VIII. Proponer a la Dirección General Adjunta de Administración, los asuntos concernientes a la administración de los recursos materiales y servicios generales, que se encuentren asignadas a cada una de ellas;
 
 IX. Coordinar e integrar los informes que le sean requeridos;
 
@@ -1879,7 +1907,9 @@ Para el ejercicio de dichas atribuciones, contarán con las Gerencias Regionales
 
 XIV. Informar a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional, previo a la autorización de la instancia correspondiente, las operaciones que pudiesen estar vinculadas con el objeto de las Instituciones de Banca de Desarrollo;
 
-XV. Proponer al Director General el nombramiento y remoción, de conformidad con la normatividad institucional, de los servidores públicos con nivel de Gerente, con excepción de las Gerencias referidas en las fracciones VIII, del artículo 23, y VI, del artículo 34, del presente Estatuto;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
+
+XV. Proponer a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional, el nombramiento y remoción, de conformidad con la normatividad institucional, de los servidores públicos con nivel de Gerente, Agente Estatal de Crédito Rural, Agente de Crédito, así como el personal adscrito a las mismas, con excepción de las Gerencias referidas en las fracciones VIII, del artículo 23, VI, del artículo 34 y XIII Bis 6, del artículo 52 del presente Estatuto y de los servidores públicos adscritos a éstas;
 
 XVI. Expedir copias certificadas de los documentos originales que obren en los archivos de sus respectivas Coordinaciones Regionales, y
 
@@ -2376,5 +2406,11 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente.
 D.O.F. 2 DE ABRIL DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “REFORMAS Y ADICIONES DE DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO”.]
+
+PRIMERO.- Las presentes reformas y adiciones del Estatuto Orgánico entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS Y ADICIONES DE DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO”.]
 
 PRIMERO.- Las presentes reformas y adiciones del Estatuto Orgánico entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
