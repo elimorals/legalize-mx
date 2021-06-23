@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-registro-civil-del-estado-de-yucatan-92396"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-19"
-last_updated: "2019-02-09"
+last_updated: "2021-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 19 de febrero de 2013.
 
@@ -271,13 +271,13 @@ IV.- La huella digital del presentado.
 
 En caso de que sólo uno de los progenitores presente al nacido, se estará a lo dispuesto por los artículos 250 ó 251 del Código de Familia, según corresponda.
 
-> <small>(REFORMADO, D.O. 27 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Registro de nacimiento gratuito
 
 ###### Artículo 23.
 
-La Dirección del Registro Civil, para garantizar el derecho a la identidad de niñas y niños, realizará de manera gratuita el registro de nacimiento de niñas y niños menores de 8 años de edad y la expedición de la primera copia certificada del acta de dicho registro.
+La Dirección del Registro Civil, para garantizar el derecho a la identidad de niñas y niños, realizará de manera gratuita el registro de nacimiento de niñas, niños y adolescentes y la expedición de la primera copia certificada del acta de dicho registro.
 
 > <small>(ADICIONADO, D.O. 9 DE FEBRERO DE 2019)</small>
 
@@ -337,7 +337,9 @@ Identificación de un expósito, niña, niño o adolescente abandonado
 
 Cualquier persona que encuentre a un expósito, niña, niño o adolescente abandonado, debe denunciar de inmediato el caso ante el Ministerio Público, para que éste informe al Sistema para el Desarrollo Integral de la Familia en Yucatán, a fin de que realice todas las investigaciones del caso y la búsqueda del antecedente del registro del nacimiento correspondiente. De no existir esa información, se procederá a la presentación del expósito, ante el Oficial que corresponda para que levante el acta en términos de lo establecido en los artículos 30 y 31 de esta Ley.
 
-En el caso previsto en el párrafo anterior, los papeles, alhajas u otros objetos que la persona encuentre con un expósito, niña, niño o adolescente abandonado y que puedan conducir a su identificación, deberán depositarse en el Centro de Atención Integral del Menor en Desamparo o en cualquier otra institución similar, junto con el acta detallada de lo encontrado.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+En el caso previsto en el párrafo anterior, los papeles, alhajas u otros objetos que la persona encuentre con un expósito, niña, niño o adolescente abandonado y que puedan conducir a su identificación, deberán depositarse en el Centro de Asistencia Social, junto con el acta detallada de lo encontrado.
 
 La institución que reciba al expósito, niña, niño o adolescente abandonado deberá levantar constancia del hecho y entregar copia de la misma a quien haya efectuado la entrega.
 
@@ -367,7 +369,9 @@ I.- Acta de nacimiento, y
 
 II.- Acta de defunción.
 
-Si el menor hubiere nacido sin vida, únicamente se elaborará y registrará la boleta fetal con expresión de haber nacido muerto, conforme a lo establecido en el Reglamento y demás disposiciones legales y normativas aplicables.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Si la niña o el niño hubiere nacido sin vida, únicamente se elaborará y registrará la boleta fetal con expresión de haber nacido muerto, conforme a lo establecido en el Reglamento y demás disposiciones legales y normativas aplicables.
 
 Registro de parto múltiple
 
@@ -541,13 +545,15 @@ Datos de las actas de registros extemporáneos
 
 Las actas de registros extemporáneos de nacimiento deberán contener los datos previstos en esta Ley, y se anexará al correspondiente apéndice los documentos con ellas relacionadas.
 
-Registro extemporáneo de menores que carecen de padres o tutela
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Registro extemporáneo de niñas, niños y adolescentes que carecen de padres o tutela
 
 ###### Artículo 54.
 
-Los menores que no tengan identidad y que carezcan de padres o tutela del Estado, podrán ser registrados previa recopilación de datos que coadyuven a la certeza de su dicho en los términos del Reglamento.
+Niñas, niños y adolescentes que no tengan identidad y que carezcan de padres o tutela del Estado, podrán ser registrados previa recopilación de datos que coadyuven a la certeza de su dicho en los términos del Reglamento.
 
-Las personas a que se refiere el párrafo anterior, podrán registrar el nacimiento de sus descendientes en los términos del Reglamento.
+Las personas a que se refiere el párrafo anterior podrán registrar el nacimiento de sus descendientes en los términos del reglamento.
 
 Comparecencia en el registro extemporáneo
 
@@ -1574,3 +1580,89 @@ Artículo Primero.- El presente Decreto entrará en vigor a partir del 1 de ener
 Derogación expresa
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor rango que contravengan lo dispuesto en este Decreto.
+
+D.O. 23 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 378/2021 POR EL QUE SE EMITE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE YUCATÁN, LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LA FAMILIA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE YUCATÁN, EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, LA LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE YUCATÁN, LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN Y LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación de la ley
+
+Se abroga la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 12 de junio de 2015.
+
+Tercero. Abrogación de la ley que crea la Prodemefa
+
+Se abroga la Ley que crea la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 7 de marzo de 1979.
+
+Cuarto. Obligación normativa
+
+El Congreso del estado deberá armonizar las leyes secundarias relacionadas con la materia de este decreto, en un plazo no mayor a ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Quinto. Expedición del reglamento de la ley
+
+El gobernador, en un plazo no mayor de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Hasta en tanto se emitan estas disposiciones continuará aplicándose el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 10 de mayo de 2017, que se encuentra en vigor, en lo que no contravenga lo establecido en este decreto.
+
+Sexto. Régimen de vigencia especial
+
+El Acuerdo DIF 07/SO/2a/2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014, dejará de ser aplicable a partir de que se emita el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Séptimo. Expedición del programa
+
+El gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este decreto.
+
+El gobernador podrá prescindir de la expedición de este programa siempre que los elementos que señala este decreto estén incluidos en un programa de mediano plazo, de protección de niñas, niños y adolescentes.
+
+Octavo. Instalación de los sistemas local y municipales de protección
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán y los sistemas municipales de protección integral de niñas, niños y adolescentes deberán instalarse dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Expedición del reglamento interno
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contado a partir de su instalación.
+
+Décimo. Obligación normativa
+
+La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia en Yucatán deberá realizar las adecuaciones necesarias al Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia en Yucatán, dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Décimo primero. Modificación de regulación interna del DIF-Yucatán y sistemas DIF municipales
+
+El Sistema para el Desarrollo Integral de la Familia en Yucatán y los sistemas municipales para el desarrollo integral de la familia deberán adecuar su regulación interna en los términos de lo dispuesto en este decreto dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Décimo segundo. Nombramiento del secretario ejecutivo del sistema de protección integral
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, el secretario ejecutivo del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará en el cargo.
+
+Los requisitos exigidos en el artículo 20 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto se realice por la persona titular del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo tercero. Nombramiento de la persona titular de la procuraduría de protección
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, la procuradora de la Defensa del Menor y la Familia en el Estado de Yucatán, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará como titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo cuarto. Protección de los derechos de los adultos mayores y personas con discapacidad
+
+En los casos en los que las leyes le otorguen facultades y obligaciones a la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán en lo referente a la protección de los derechos de adultos mayores y personas con discapacidad, se entenderá que será competente el Sistema para el Desarrollo Integral de la Familia en Yucatán; lo anterior, con motivo de la especialización de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán en los términos de lo dispuesto en este decreto.
+
+Décimo quinto. Referencia a la procuraduría de protección
+
+En lo sucesivo, cuando en alguna norma se haga referencia a la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán o al Procurador de la Defensa del Menor y la Familia en el Estado de Yucatán, se entenderá que se refieren, en todos los casos, a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o a la persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda.
+
+Décimo sexto. Procedimientos y asuntos en trámite
+
+Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se substanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
+
+Décimo séptimo. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, a la entrada en vigor de este decreto, seguirán conservando su misma categoría y derechos laborales que les corresponden ante la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en los términos de la legislación aplicable.
+
+Décimo octavo. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Procuraduría de la Defensa del Menor y la Familia en el Estado de Yucatán, pasarán a formar parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Décimo noveno. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
