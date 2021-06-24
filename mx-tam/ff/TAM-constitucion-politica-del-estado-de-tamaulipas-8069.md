@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2021-03-04"
+last_updated: "2021-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -993,6 +993,22 @@ El 1° de octubre del primer año de su ejercicio constitucional, la Legislatura
 
 El Presidente del Congreso declarará a la Legislatura legítimamente constituida, legalmente instalada y en aptitud de ejercer sus funciones.
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+El presidente de la mesa directiva y su suplente durarán en su cargo sólo un periodo ordinario.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+La presidencia y suplencia de la mesa directiva de cada periodo ordinario será rotativa entre los diferentes grupos parlamentarios, dicha rotación se hará de forma decreciente atendiendo a su número de integrantes.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+La rotación señalada en el párrafo anterior se realizará hasta agotar todos los grupos parlamentarios que conformen la legislatura correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+Los secretarios integrantes de la Mesa Directiva serán electos por el pleno, mediante la presentación de propuestas formuladas libremente por sus miembros. En ningún caso, los secretarios pertenecerán al mismo grupo parlamentario que integre la presidencia y suplencia de la mesa directiva.
+
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Art. 44.
@@ -1812,6 +1828,10 @@ Si no se hubiera celebrado elección de Gobernador o si se hubiere hecho ésta y
 En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa, ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Política de los Estados Unidos Mexicanos y a las leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los 3 primeros años del período, el Congreso Local, constituído en Sesión Permanente y Secreta, nombrará por el voto de la mayoría de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la fracción XLIX del Artículo 58 de esta Constitución.
 
 El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años de éste, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en sus funciones de Gobernador hasta terminar el período. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican, convocará desde luego al mismo Congreso a Sesiones Extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino, quien ejercerá sus funciones hasta en tanto tome posesión el Gobernador Substituto que resulte electo.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+En todos aquellos casos en los que el Congreso del Estado hubiese determinado la no homologación de la declaratoria por parte de alguna de las cámaras federales en los asuntos de su competencia, su decisión será definitiva e inatacable. En estos casos no podrá seguirse ninguno de los procedimientos indicados en los dos primeros párrafos de este artículo.
 
 ###### Art. 85.
 
@@ -3282,6 +3302,10 @@ El Estado y los municipios promoverán las actividades cívicas en los términos
 ###### Art. 165.
 
 Esta Constitución podrá ser reformada y adicionada, pero para que las adiciones y reformas lleguen a ser parte de la misma, se requiere que previamente sea tomada en cuenta la iniciativa de reformas o adición por la declaratoria de la mayoría de los Diputados presentes y que sea aprobada cuando menos por las dos terceras partes de los miembros del Congreso.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+Una vez aprobada la iniciativa de reforma o adición se enviará ésta a los Ayuntamientos, con copia de las actas de los debates, los cuales en el término de 30 días naturales deberán notificar si la aprueban o no. Una vez transcurrido este término el Congreso realizará el cómputo correspondiente y, de obtenerse una mayoría de votos de los ayuntamientos en favor de la adición o reforma, ésta se declarará parte de la Constitución. Se considerará que aprueban la reforma y adición aquellos ayuntamientos que no envíen su votación en el término establecido.
 
 ### CAPITULO II. De la Inviolabilidad de la Constitución
 
@@ -5224,6 +5248,34 @@ P.O. 4 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-537 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 165, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los 60 días naturales siguientes al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 24 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIV-538 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y UN PÁRRAFO TERCERO AL ARTÍCULO 44 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos que a la fecha de entrada en vigor de este decreto hayan concluido con una declaratoria del Congreso Local con motivo de una declaratoria de la competencia de las cámaras federales, se considerarán concluidos de manera definitiva e inatacable.
+
+P.O. 24 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-539 MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO, QUINTO Y SEXTO AL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; Y SE REFORMAN LOS ARTÍCULOS 12, PÁRRAFO 2 E INCISO B); 14; 15 PÁRRAFO 2; 17 PÁRRAFO 1; Y 83 PÁRRAFO 5; Y SE DEROGAN LOS PÁRRAFOS 3 Y 4 DEL ARTÍCULO 18, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a partir del 1° de octubre de 2021.
 
 ###### ARTÍCULO NOVENO.
 
