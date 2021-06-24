@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-89672
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2020-09-10"
+last_updated: "2021-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "SLP"
 ---
 # LEY PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-(NOTA: EL 6 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 274/2020, DECLARÓ LA INVALIDEZ DEL DECRETO 0756 PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DIEZ DE SEPTIEMBRE DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre del 2012.
 
@@ -59,7 +57,9 @@ II. Consejo: Consejo Estatal para el Desarrollo de las Personas con Discapacidad
 
 III. Convención: Convención sobre los Derechos de la (sic) Personas con Discapacidad en la resolución 61/106 de la Asamblea General de la Organización de las Naciones Unidas;
 
-IV. Discapacidad auditiva: pérdida auditiva con relación a la lesión del oído medio o interno, o bien a la patología retro coclear en la cual se puede presentar hipoacusia reversible o permanente;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2021)</small>
+
+IV. Discapacidad: Concepto que evoluciona y que resulta de la interacción entre las personas con deficiencias y las barreras debidas a la actitud y al entorno que evitan su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás. Puede ser motriz, sensorial, psicosocial e intelectual;
 
 V. Intervención laboral: evaluación del clima laboral, asesoramiento sobre perfiles psicológicos, selección de personal, asistencia psicológica al personal y gestión de situaciones críticas; formación especializada y personalizada, realización de cursos relacionados con la mejora del desempeño y del clima laboral y formación sobre acoso laboral y su prevención; asimismo atención específica de los casos de acoso laboral de las personas con discapacidad, tanto en la administración pública como en el sector privado, que incluye apoyo psicológico a la víctima y su entorno familiar, así como asesoramiento técnico a los representantes legales;
 
@@ -69,9 +69,13 @@ VII. Plena inclusión: hacer implícito que las personas con discapacidad son pa
 
 VIII. Registro Estatal de las Personas con Discapacidad: es la obtención de información mediante una base de datos sobre el número de personas con discapacidad que existe en la entidad, para la creación de un padrón único de personas con discapacidad;
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 3°.
 
-Los derechos y libertades que establece esta Ley serán reconocidos a todas las personas con discapacidad, sin distinción por origen étnico, nacional, lengua, identidad de género, edad, condición jurídica, social o económica, apariencia física, condiciones de salud, situación migratoria, características genéticas, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, preferencias sexuales, y estado civil, o cualquiera otra causa que atente contra su dignidad.
+Los derechos y libertades que establece esta Ley serán reconocidos a todas las personas con discapacidad, sin distinción por origen étnico o nacional, lengua, identidad de género, edad, tipo de discapacidad, condición jurídica, social y económica o de salud, apariencia física, situación migratoria, características genéticas, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, las preferencias sexuales, el estado civil o cualquier otra causa propia de la condición humana, o que atente contra su dignidad y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+La Administración Pública Estatal, y Municipal, de conformidad con su ámbito de competencia, impulsará el derecho a la igualdad de oportunidades de las personas con discapacidad, a través del establecimiento de medidas contra la discriminación y acciones afirmativas positivas que permitan la integración social de las personas con discapacidad. Será prioridad de la administración pública adoptar medidas de acción afirmativa positiva para aquellas personas con discapacidad que sufren un grado mayor de discriminación, como son las mujeres, las niñas, niños y adolescentes, así como las que viven en el área rural.
 
 ###### ARTICULO 4°.
 
@@ -111,11 +115,49 @@ V. Ley para Prevenir y Erradicar la Discriminación para el Estado de San Luis P
 
 VI. Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí;
 
-VII. Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2021)</small>
 
-VIII. Ley de Justicia Administrativa del Estado de San Luis Potosí, y
+VII. Código Procesal Administrativo para el Estado de San Luis Potosí;
 
-IX. Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2021)</small>
+
+VIII. Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2021)</small>
+
+IX. Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2021)</small>
+
+X. Ley General para la Igualdad entre Mujeres y Hombres;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2021)</small>
+
+XI. Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2021)</small>
+
+XII. Ley de la Persona Joven para el Estado y Municipios de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2021)</small>
+
+XIII. Ley de los Derechos de Niñas, Niños Adolescentes del Estado de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2021)</small>
+
+XIV. Ley del Centro de Justicia para las Mujeres del Estado de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2021)</small>
+
+XV. Ley del Instituto de las Mujeres del Estado de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2021)</small>
+
+XVI. Ley de Atención a Víctimas para el Estado de San Luis Potosí, y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2021)</small>
+
+XVII. Las demás relativas bajo el principio pro-persona y control de convencionalidad.
 
 Además, toda aquélla que proteja en mayor medida a las personas con discapacidad.
 
@@ -159,7 +201,29 @@ i) Secretaría de Desarrollo Urbano, Vivienda y Obras Públicas.
 
 j) Instituto Potosino de Cultura Física y Deporte.
 
-k) Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, y
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+k) Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+l) Instituto Potosino de la Juventud.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+m) Instituto de las Mujeres del Estado de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+n) Centro de Justicia para las Mujeres del Estado de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+o) Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+p) Secretaría Ejecutiva del Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes, y
 
 II. Las autoridades municipales, a través de:
 
@@ -457,9 +521,13 @@ VII. Contar, dentro de su estructura, con área de inclusión laboral para perso
 
 a) Enlazar con posibles empresas incluyentes integradoras.
 
-b) Desarrollar programas de capacitación para el empleo a personas con discapacidad, posibles candidatos a integrarse.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
 
-c) Llevar a cabo la evaluación interdisciplinaria para determinar de acuerdo al perfil del puesto solicitado, los candidatos a ser contratados.
+b) Desarrollar programas de capacitación para el empleo a personas con discapacidad, posibles personas candidatas a integrarse.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+c) Llevar a cabo la evaluación interdisciplinaria para determinar de acuerdo al perfil del puesto solicitado, las personas candidatas a ser contratadas.
 
 d) Acompañar en el proceso de contratación: Entrevista, evaluaciones, reclutamiento, presentación a la empresa, sensibilización con compañeros y jefes inmediatos, y comunicación con la persona integrada, y la empresa para llevar a cabo un seguimiento;
 
@@ -634,6 +702,110 @@ IV. Verificar y coadyuvar para que los derechos de las personas indígenas con d
 V. Diseñar, construir y operar las rutas de atención para personas indígenas con discapacidad en materia de derechos de personas y comunidades indígenas, y
 
 VI. Las demás que le confiera esta Ley y otros ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+ARTICULO 20 BIS. El Instituto Potosino de la Juventud, en materia de personas con discapacidad tiene las siguientes atribuciones:
+
+I. Fomentar la participación de los sectores público, privado y social, para apoyar, encauzar, motivar y promover a las personas jóvenes con discapacidad en actividades de educación académica, capacitación laboral, rehabilitación de adicciones, educación sexual, desenvolvimiento de sus aptitudes en las artes, la ciencia y el deporte;
+
+II. Difundir el contenido de la presente Ley, enfatizando los derechos de las personas jóvenes con discapacidad;
+
+III. Coordinar los programas especiales para la asistencia y protección de las personas jóvenes con discapacidad;
+
+IV. Ejecutar la política nacional de la juventud, que permita incorporar plenamente a las personas jóvenes con discapacidad en el desarrollo del Estado, adecuándola a las características y necesidades de la región y de la Entidad;
+
+V. Promover, coordinar y ejecutar actividades diversas que propicien la superación física, intelectual, cultural, profesional y económica de la juventud;
+
+VI. Promover la participación de las personas jóvenes con discapacidad en proyectos productivos y en obras de impacto comunitario;
+
+VII. Integrar a las personas jóvenes con discapacidad en actividades culturales, educativas y de recreación;
+
+VIII. Prestar servicios de apoyo y asesoría jurídica para las personas jóvenes con discapacidad;
+
+IX. Desarrollar, en coordinación con los organismos o entidades encargados de la asistencia social en el Estado y los municipios, programas específicos para personas jóvenes con discapacidad o que pertenezcan a grupos sociales vulnerables;
+
+X. Realizar e incentivar estudios e investigaciones de la problemática y características de las personas jóvenes con discapacidad, a fin de establecer políticas encaminadas al mejoramiento de sus condiciones de vida y a la búsqueda de alternativas para su desarrollo, y
+
+XI. Promover campañas para la difusión de los derechos de las personas jóvenes con discapacidad en el Estado de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+ARTICULO 20 TER. El Instituto de las Mujeres del Estado de San Luis Potosí, en materia de personas con discapacidad tiene las siguientes atribuciones:
+
+I. Realizar estudios e investigaciones en forma permanente para instrumentar políticas públicas que tomen en cuenta las condiciones sociales de las mujeres con discapacidad;
+
+II. Fortalecer la colaboración interinstitucional entre las dependencias y entidades de los tres órdenes de gobierno, para que conforme a sus competencias, ejecuten los programas y acciones encomendadas a promover el desarrollo de la igualdad entre hombres y mujeres con discapacidad;
+
+III. Crear vínculos con las organizaciones de cooperación técnica y financiera, estatales y nacionales, que apoyen proyectos dirigidos a la igualdad entre hombres y mujeres con discapacidad para procurar el logro de sus objetivos;
+
+IV. Promover ante las autoridades que corresponda, las medidas y acciones necesarias que contribuyan a garantizar el acceso, permanencia o reingreso de las mujeres con discapacidad en todos los niveles y modalidades del sistema educativo, así como desarrollar campañas para crear en la sociedad la conciencia sobre la importancia de permitir el acceso de las mujeres con discapacidad a la educación;
+
+V. Realizar convenios con las autoridades competentes para asegurar que en materia de salud se logre una atención equitativa a mujeres con discapacidad;
+
+VI. Realizar, a través de medios de difusión, campañas que fomenten la cultura de igualdad entre mujeres y hombres con discapacidad;
+
+VII. Establecer vínculos de colaboración con los municipios para promover y apoyar las políticas, programas y acciones en materia de igualdad de oportunidades;
+
+VIII. Difundir y publicar obras relacionadas con la materia objeto de esta Ley, y
+
+IX. Brindar atención personalizada en materia jurídica y psicológica a las personas con discapacidad que lo soliciten, preferentemente a mujeres, cuando sea factible, según la problemática, o canalizarlas a las instituciones competentes.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+ARTICULO 20 QUATER. El Centro de Justicia para las Mujeres del Estado de San Luis Potosí, en materia de personas con discapacidad tiene las siguientes atribuciones:
+
+I. Facilitar, en coordinación con las diversas instituciones públicas y privadas, a las mujeres con discapacidad víctimas de violencia el acceso a la justicia, para combatir y contrarrestar la violencia que sufren y pone en riesgo su vida;
+
+II. Proporcionar orientación y atención integral a las mujeres con discapacidad, sus hijas y sus hijos para salvaguardar en todo momento su integridad como usuarias del Centro;
+
+III. Realizar permanentemente la adecuación de la infraestructura y la realización de ajustes razonables para contar con espacios dignos y equipamiento idóneo para la atención de personas con discapacidad, y
+
+IV. Las demás que refiere la Ley del Centro de Justicia para las Mujeres del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+ARTICULO 20 QUINQUE. La Comisión Ejecutiva Estatal de Atención a Víctimas, tiene la obligación de atender, asistir y, en su caso, reparar a las víctimas de delitos del fuero común o de violaciones a derechos humanos cometidos por servidores públicos del orden estatal o municipal, atendiendo a lo establecido en la Ley de Atención a Víctimas para el Estado de San Luis Potosí.
+
+En materia de personas con discapacidad, sin perjuicio a las demás señaladas en la legislación de la materia, corresponde a la Comisión Ejecutiva, las funciones y facultades siguientes:
+
+I. Garantizar el acceso a los servicios multidisciplinarios y especializados que el Estado proporcionará a las víctimas de delitos o por violación a sus derechos humanos, para lograr su reincorporación a la vida social;
+
+II. Coordinar a las instituciones competentes para la atención de una problemática específica, de acuerdo con los principios establecidos en la Ley de Atención a Víctimas para el Estado de San Luis Potosí, así como los de coordinación, concurrencia y subsidiariedad;
+
+III. Facilitar condiciones dignas, integrales y efectivas para la atención y asistencia de las víctimas, que permitan su recuperación y restablecimiento para lograr el pleno ejercicio de su derecho a la justicia, a la verdad y a la reparación integral;
+
+IV. Promover la coordinación interinstitucional de las dependencias, instituciones y órganos que integran el Sistema Estatal de Atención a Víctimas, cuidando la debida representación de todos sus integrantes y especialmente de las áreas, instituciones, grupos de víctimas u organizaciones que se requieran para el tratamiento de una problemática específica;
+
+V. Establecer medidas que contribuyan a garantizar la reparación integral, efectiva y eficaz de las víctimas que hayan sufrido un daño como consecuencia de la comisión de un delito o de la violación de sus derechos humanos;
+
+VI. Coadyuvar en la elaboración de los protocolos generales de actuación para la prevención, atención e investigación de delitos o violaciones a los derechos humanos;
+
+VII. Proponer, en casos de graves violaciones a derechos humanos o delitos graves cometidos contra un grupo de víctimas, al Sistema Estatal, los programas integrales emergentes de ayuda, atención, asistencia, protección, acceso a justicia, a la verdad y reparación integral;
+
+VIII. Realizar diagnósticos estatales y/o municipales que permitan evaluar las problemáticas concretas que enfrentan las víctimas en términos de prevención del delito o de violaciones a los derechos humanos, atención, asistencia, acceso a la justicia, derecho a la verdad y reparación integral del daño;
+
+IX. Brindar apoyo a las organizaciones de la sociedad civil que se dedican a la ayuda, atención y asistencia a favor de las víctimas, priorizando aquéllas que se encuentran en lugares donde las condiciones de acceso a la ayuda, asistencia, atención y reparación integral es difícil debido a las condiciones precarias de desarrollo y marginación, y
+
+X. Las demás que se deriven de la legislación en la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+ARTICULO 20 SEXTIES. La Secretaría Ejecutiva del Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes, en materia de personas con discapacidad tiene las siguientes atribuciones:
+
+I. Coordinar las acciones entre las dependencias y las entidades competentes de la Administración Pública Estatal;
+
+II. Celebrar convenios de coordinación, colaboración y concentración con instancias públicas y privadas, estatales y nacionales;
+
+III. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos;
+
+IV. Difundir entre las autoridades correspondientes y la población en general, los resultados de los trabajos que realice, así como toda aquella información pública que tienda a la generación, desarrollo y consolidación de perspectiva en la materia, desagregada por lo menos en razón de edad, sexo, escolaridad y la discapacidad;
+
+V. Asesorar y apoyar a los gobiernos municipales, así como a las autoridades estatales que lo requieran, para el ejercicio de sus atribuciones;
+
+VI. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado, y
+
+VII. Coordinar con las secretarias ejecutivas de los sistemas municipales, la articulación de la política nacional, así como el intercambio de información necesaria, a efecto de dar cumplimiento a la LDNNA.
 
 ###### ARTICULO 21.
 
@@ -911,33 +1083,81 @@ II. Por un Secretario Técnico que será la persona Titular de la Dirección de 
 
 III. Por los siguientes vocales:
 
-a) Director de Gestión y Participación Social del Sistema Estatal para el Desarrollo Integral de la Familia.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
 
-b) Secretario de Salud.
+a) Titular de la dirección de Gestión y Participación Social del Sistema Estatal para el Desarrollo Integral de la Familia.
 
-c) Secretario de Desarrollo Social y Regional.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
 
-d) Secretario de Educación.
+b) Titular de la Secretaría de Salud.
 
-e) Secretario de Comunicaciones y Transportes.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
 
-f) Secretario de Trabajo y Previsión Social.
+c) Titular de la Secretaría de Desarrollo Social y Regional.
 
-g) Secretario de Turismo.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
 
-h) Secretario de Cultura.
+d) Titular de la Secretaría de Educación.
 
-i) Secretario de Desarrollo Urbano, Vivienda y Obras Públicas.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
 
-j) Director del Instituto Potosino del Deporte.
+e) Titular de la Secretaría de Comunicaciones y Transportes.
 
-k) Director del Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
 
-l) Un representante de cada una de las cinco zonas de representación territorial de los consejos municipales de las personas con discapacidad, según corresponda a la competencia territorial de cada uno de éstas.
+f) Titular de la Secretaría de Trabajo y Previsión Social.
 
-m) Presidente de la Comisión Estatal de Derechos Humanos, quien participará con voz pero sin voto.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
 
-n) Representantes de las organizaciones civiles de cada discapacidad, que se encuentren legalmente constituidas y que resulten aptas para participar en el Consejo conforme a la convocatoria que para tal efecto expida el Sistema Estatal para el Desarrollo Integral de la Familia conforme lo disponga el Reglamento de la presente Ley; los representantes participarán en las vocalías del Consejo, con voz, pero sin voto y deberán de renovarse o refrendarse cada dos años;
+g) Titular de la Secretaría de Turismo.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+h) Titular de la Secretaría de Cultura.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+i) Titular de la Secretaría de Desarrollo Urbano, Vivienda y Obras Públicas.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+j) Titular del Instituto Potosino de Cultura Física y Deporte.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+k) Titular del Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+l) Titular del Instituto Potosino de la Juventud.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+m) La titular del Instituto de las Mujeres del Estado de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+n) La Coordinadora del Centro de Justicia para las Mujeres del Estado de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+o) Titular de la Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+p) Titular de la Secretaría Ejecutiva del Sistema de Protección Integral de Niñas, Niños y Adolescentes.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+q) La persona representante de cada una de las cinco zonas de representación territorial de los consejos municipales de las personas con discapacidad, según corresponda a la competencia territorial de cada uno de éstas.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+r) La persona que presida la Comisión Estatal de Derechos Humanos, quien participará con voz pero sin voto.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+s) Representantes de las organizaciones civiles de cada discapacidad, que se encuentren legalmente constituidas y que resulten aptas para participar en el Consejo conforme a la convocatoria que para tal efecto expida el Sistema Estatal para el Desarrollo Integral de la Familia conforme lo disponga el Reglamento de la presente Ley; los representantes participarán en las vocalías del Consejo, con voz, pero sin voto, y deberán de renovarse o refrendarse cada dos años;
 
 IV. En caso de ausencia del Presidente del Consejo, será el Secretario quien ejerza las atribuciones que le correspondan a aquél. Los demás integrantes propietarios contarán con su respectivo suplente, quienes en el ejercicio de sus funciones contaran con derecho a voz y voto, y
 
@@ -991,9 +1211,9 @@ VI. Promover y dar seguimiento al cumplimiento de las políticas públicas, prog
 
 VII. Promover y plantear ante el Sistema para el Desarrollo Integral de la Familia Estatal a través de la Dirección de Integración Social de Personas con Discapacidad programas que tiendan al bienestar y la calidad de vida de las personas con discapacidad, y
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2021)</small>
 
-VIII. Dar seguimiento al cumplimiento de la obligación consignada en el párrafo tercero del artículo 25 de esta Ley.
+VIII. Realizar todas sus atribuciones con perspectiva de derechos humanos, de infancia, de juventudes y de género.
 
 ###### ARTICULO 50.
 
@@ -1188,3 +1408,11 @@ P.O. 10 DE SEPTIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1198.- SE REFORMA LOS ARTÍCULOS 2° EN SU FRACCIÓN IV, 3°, 5° EN SUS FRACCIONES VII, VIII Y IX, 8° EN SU FRACCIÓN I EL INCISO K), 15 EN SU FRACCIÓN VII LOS INCISOS B) Y C), 47 EN SU FRACCIÓN III LOS INCISOS A) AL N) Y 49 EN SU FRACCIÓN VIII; Y ADICIONA A Y LOS ARTÍCULOS 5° LAS FRACCIONES X A XVII, 8° EN SU FRACCIÓN I LOS INCISOS L) A P), 20 BIS, 20 TER, 20 QUÁTER, 20 QUINQUE, 20 SEXTIES Y 47 EN SU FRACCIÓN III LOS INCISOS O) A S), DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
