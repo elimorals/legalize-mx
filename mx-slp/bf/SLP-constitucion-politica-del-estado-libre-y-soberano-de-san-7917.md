@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2021-02-26"
+last_updated: "2021-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2021.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1383,9 +1383,9 @@ Son atribuciones del Gobernador del Estado las siguientes:
 
 I.- Cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, las leyes del Congreso de la Unión, los tratados internacionales, la presente Constitución y las leyes, reglamentos y demás disposiciones de carácter general que de ellas emanen;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2021)</small>
 
-II.- Promulgar y publicar en el Periódico Oficial del Estado, las leyes, decretos y acuerdos que expida la Legislatura del Estado, proveyendo en la esfera administrativa a su exacta observancia. El Gobernador del Estado podrá ejercer su facultad de veto ante el Congreso del Estado dentro de los diez días naturales siguientes a aquél en el que haya recibido la ley o decreto. Pasado el término señalado, si el Ejecutivo no tuviere observaciones que hacer, o transcurrido el plazo sin haberlas hecho, lo publicará dentro de los treinta días naturales siguientes. En caso de que el Gobernador del Estado no cumpliera con esta obligación, la ley o decreto se tendrá por sancionado y, el Congreso del Estado deberá ordenar su publicación;
+II.- Promulgar y publicar en el Periódico Oficial del Estado “Plan de San Luis”, las leyes, decretos, y acuerdos que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia. El Gobernador del Estado podrá ejercer su facultad de veto ante el Poder Legislativo del Estado dentro de los diez días hábiles siguientes a aquél en el que haya recibido la ley, decreto o acuerdo. Pasado el término señalado, si el Ejecutivo no tuviere observaciones que hacer, o transcurrido el plazo sin haberlas hecho, lo publicará dentro de los treinta días naturales siguientes. En caso de que el Gobernador del Estado no cumpliera con esta obligación, la ley, decreto, o acuerdo, se tendrá por sancionado y, el Congreso del Estado deberá ordenar su publicación;
 
 III.- Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos del Congreso; así como expedir y publicar decretos y acuerdos de carácter administrativo;
 
@@ -3468,6 +3468,14 @@ TERCERO. Las solicitudes que se encuentren en trámite ante el Congreso del Esta
 P.O. 26 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1140.- SE REFORMA EL ARTÍCULO 77 EN SU PÁRRAFO PRIMERO; Y ADICIONA AL MISMO ARTÍCULO 77 DOS PÁRRAFOS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1200.- SE REFORMA AL ARTÍCULO 80 EN SU FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
