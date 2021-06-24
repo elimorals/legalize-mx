@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2021-02-27"
+last_updated: "2021-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1421,29 +1421,69 @@ VI. De la legislación relativa a la cultura física y deporte, así como de sus
 
 VII. Los relativos a la ciencia y tecnología;
 
-VIII. Redactar anualmente la convocatoria, revisar y dictaminar sobre las propuestas que se presenten y someter al Pleno el otorgamiento de la Presea Plan de San Luis;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2021)</small>
 
-IX. Lo concerniente a la rendición de honores a la memoria de los potosinos que hayan prestado servicios de importancia al Estado;
+VIII. Redactar anualmente la convocatoria, revisar y dictaminar sobre las propuestas que se presenten, y someter al Pleno el otorgamiento de la “Presea al Mérito Plan de San Luis”, y deberá:
 
-X. El otorgamiento de premios y reconocimientos a los alumnos destacados por su aprovechamiento en cada nivel educativo en el Estado;
+a) Entregarse en el segundo periodo ordinario de sesiones.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+b) Entregarse en vida de la persona propuesta; salvo acuerdo unánime de la Comisión podrá, excepcionalmente, entregarse post mortem.
 
-XI. El otorgamiento de preseas o reconocimientos en las diferentes áreas del desarrollo humano destacadas;
+c) Precisarse la metodología para la elección de la potosina o potosino a quien se entregará la Presea.
 
-XII. La investigación, en su caso, de los méritos que se adjudican a los potosinos propuestos;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+IX. Lo concerniente a la rendición de honores a la memoria de potosinas o potosinos, que hayan prestado servicios de importancia al Estado;
 
-XIII. La convocatoria y organización del Parlamento de las y los Jóvenes del Estado de San Luis Potosí, que se realizará anualmente por cada Legislatura, y en cualquiera de los dos periodos ordinarios, o extraordinarios de sesiones, en coordinación con, el Consejo Estatal Electoral y de Participación Ciudadana; la instancia responsable de los asuntos de la juventud del Poder Ejecutivo del Estado; los ayuntamientos de la Entidad; y las instituciones académicas de nivel medio y superior, tanto públicas, como privadas, que así lo deseen; además, previo análisis de las propuestas formuladas por los participantes del Parlamento, elaborar y presentar al Pleno, con base en éstas, las iniciativas que estime conducentes;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+X. El otorgamiento de premios y reconocimientos a las alumnas y los alumnos destacados por su aprovechamiento en cada nivel educativo en el Estado;
 
-XIV. Organizar, de preferencia en el mes de abril, el Parlamento de los Niños y las Niñas;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2021)</small>
 
-XV. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
+XI. El otorgamiento de preseas o reconocimientos en las diferentes áreas del desarrollo humano; contribución social o económica al Estado;
 
-XVI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2021)</small>
+
+XII. La investigación, en su caso, de los méritos que se adjudican a las y los potosinos propuestos;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2021)</small>
+
+XIII. Emitir la convocatoria y organizar el Parlamento de las y los Jóvenes del Estado de San Luis Potosí, que se realizará anualmente, en los términos que establece el artículo 65 Bis de la Ley de la Persona Joven para el Estado y Municipios de San Luis Potosí.
+
+Para la selección de las personas que participen en el parlamento juvenil, se observará el principio de paridad de género, y se deberá garantizar la representación de jóvenes integrantes de pueblos originarios, así como de personas jóvenes con discapacidad.
+
+Una vez concluido el parlamento juvenil, la Comisión elaborará la compilación de las propuestas legislativas que se hayan presentado;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2021)</small>
+
+XIV. Organizar, preferentemente en el mes de abril de cada año, el Parlamento de los Niños y las Niñas.
+
+Para lo anterior deberá coordinarse con la Secretaría de Educación del Gobierno del Estado.
+
+Para la selección de las y los legisladores infantiles, se observará:
+
+a) El rango de edad de las niñas y los niños será menor de 12 años, quienes serán seleccionados de instituciones educativas tanto públicas como privadas que así lo deseen.
+
+b) El principio de paridad de género.
+
+c) La representación proporcional según las cifras oficiales, de los pueblos y comunidades originarias del Estado.
+
+d) La representación proporcional, según cifras oficiales, de las personas con discapacidad;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE JUNIO DE 2021)</small>
+
+XV. Redactar anualmente la convocatoria, revisar y dictaminar sobre las propuestas que se presenten, y someter al Pleno el otorgamiento del Reconocimiento “Matilde Cabrera Ipiña de Corsi”, bajo las siguientes bases:
+
+a) Preferentemente este reconocimiento se entregará el ocho de marzo de cada año.
+
+b) Se entregará en vida a mujeres destacadas que han contribuido en la consecución de una sociedad paritaria, o han realizado aportaciones importantes a la vida política, económica o social del Estado.
+
+c) Se precisará la metodología ocupada, para la elección de la mujer que se reconozca;
+
+XVI. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
+
+XVII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTICULO 109.
 
@@ -2774,6 +2814,14 @@ TERCERO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 27 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1125.- SE REFORMA EL ARTÍCULO 92 EN SU PÁRRAFO SEXTO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1199.- SE REFORMA EL ARTÍCULO 108 EN SUS FRACCIONES VIII A XIV; Y ADICIONA AL MISMO ARTÍCULO 108, UNA FRACCIÓN, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
