@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2017-06-02"
+last_updated: "2021-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -388,6 +388,10 @@ Las Secciones, el Congreso y el Supremo Tribunal de Justicia podrán disponer la
 Las declaraciones o resoluciones definitivas del Congreso y del Supremo Tribunal de Justicia con arreglo a esta Ley, se comunicarán al Cuerpo Colegiado a que pertenezca el acusado, salvo que fuera miembro del órgano resolutor; y al Ejecutivo para su conocimiento, efectos legales y su publicación en el Periódico Oficial del Estado.
 
 En lo que se refiere al Gobernador, Diputados locales y Magistrados del Supremo Tribunal de Justicia a quienes se le hubiere atribuido la comisión de delitos federales, una vez recibidas por el Congreso local las declaratorias que al efecto emitan la Cámara de Diputados y la Cámara de Senadores del Congreso de la Unión, procederá a declarar si procede la homologación de dichas declaratorias y consecuentemente el retiro de la protección que la propia Constitución del Estado otorga a tales servidores públicos a fin de ser enjuiciados como legalmente hubiere lugar.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+Si el Congreso Local declara que no procede homologar la declaratoria de alguna de las cámaras federales en los asuntos de su competencia, esta decisión será definitiva y no podrá ya realizarse de manera posterior ningún acto con motivo de esa declaratoria.
 
 ###### ARTICULO 45.
 
@@ -1114,3 +1118,15 @@ Articulo Segundo. Se derogan los Títulos Primero, por lo que se refiere a la ma
 Artículo Tercero. Con la salvedad a que se refiere el transitorio que antecede, se derogan todas aquellas disposiciones estatales que se opongan a lo establecido en el presente ordenamiento.
 
 Artículo Cuarto. Los procedimientos seguidos a servidores públicos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de esta Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
+
+P.O. 24 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-538 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y UN PÁRRAFO TERCERO AL ARTÍCULO 44 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos que a la fecha de entrada en vigor de este decreto hayan concluido con una declaratoria del Congreso Local con motivo de una declaratoria de la competencia de las cámaras federales, se considerarán concluidos de manera definitiva e inatacable.
