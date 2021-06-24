@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2020-11-22"
+last_updated: "2021-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -167,7 +167,9 @@ c) El nombre del coordinador o representante.
 
 a) Los trabajos serán conducidos por el diputado electo por el principio de mayoría relativa que haya obtenido el mayor porcentaje de la votación total emitida en el distrito electoral correspondiente y, en su ausencia, por el diputado que le siga en ese orden;
 
-b) El diputado a quien corresponda conducir los procedimientos solicitará a los diputados que presenten propuestas, en los términos del artículo 15 de esta ley, para la integración de la Mesa Directiva correspondiente al primer mes del periodo, y
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+b) El diputado a quien corresponda conducir los procedimientos solicitará a los diputados que presenten propuestas, en los términos del artículo 15 de esta ley, para la integración de la Mesa Directiva correspondiente al primer periodo ordinario, y
 
 c) La votación se efectuará mediante cédula y será electa la propuesta que obtenga la mayoría de votos.
 
@@ -183,9 +185,11 @@ c) La votación se efectuará mediante cédula y será electa la propuesta que o
 
 2. Los actos a que se refiere el párrafo 1 de este artículo se comunicarán al titular del Poder Ejecutivo del Estado y al Supremo Tribunal de Justicia. A su vez, se harán del conocimiento de los Ayuntamientos del Estado, de las Cámaras del Congreso de la Unión, del Ejecutivo Federal por conducto de la Secretaría de Gobernación, de las Legislaturas de los Estados y del Congreso de la Ciudad de México.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+
 ###### ARTICULO 14.
 
-El presidente de la Mesa Directiva o de la Diputación Permanente, según sea el caso, harán entrega al presidente de la Mesa Directiva electa para el primer mes de la nueva Legislatura, de la lista y expedientes de los asuntos que hayan quedado en proceso de resolución. En su oportunidad, éste los turnará a las instancias competentes conforme a su naturaleza y materias.
+El presidente de la Mesa Directiva o de la Diputación Permanente, según sea el caso, harán entrega al presidente de la Mesa Directiva electa para el primer periodo ordinario de la nueva Legislatura, de la lista y expedientes de los asuntos que hayan quedado en proceso de resolución. En su oportunidad, éste los turnará a las instancias competentes conforme a su naturaleza y materias.
 
 ### CAPITULO SEGUNDO. DE LA MESA DIRECTIVA
 
@@ -193,7 +197,15 @@ El presidente de la Mesa Directiva o de la Diputación Permanente, según sea el
 
 1. La Mesa Directiva del Congreso será electa por el pleno en votación por cédula; se integrará con un presidente, dos secretarios y un suplente.
 
-2. El Congreso elegirá a los integrantes de la Mesa Directiva mediante la presentación de propuestas formuladas libremente por sus miembros, que corresponderán a la titularidad de los miembros de la Mesa cuyos cargos deban renovarse.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+2. El presidente de la mesa directiva y su suplente durarán en su cargo sólo un periodo ordinario.
+
+La presidencia y suplencia de la mesa directiva de cada periodo ordinario será rotativa entre los diferentes grupos parlamentarios, dicha rotación se hará de forma decreciente atendiendo a su número de integrantes.
+
+La rotación señalada en el párrafo anterior se realizará hasta agotar todos los grupos parlamentarios que conformen la legislatura correspondiente.
+
+Los secretarios integrantes de la Mesa Directiva serán electos por el pleno, mediante la presentación de propuestas formuladas libremente por sus miembros. En ningún caso, los secretarios pertenecerán al mismo grupo parlamentario que integre la presidencia y suplencia de la mesa directiva.
 
 3. En caso de existir dos o más propuestas distintas, se someterán a votación conjuntamente, resultando electa la propuesta que obtenga el mayor número de cédulas sufragadas.
 
@@ -205,9 +217,9 @@ Salvo lo dispuesto por el artículo 12, al inicio de los períodos ordinarios de
 
 ###### ARTICULO 17.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
 
-1. El presidente de la Mesa Directiva y el suplente durarán en su cargo un mes, o los días del mes calendario que corresponda, y no podrán ser reelectos para esas mismas funciones en el mismo período ordinario de sesiones. El presidente no podrá ser electo suplente, en tanto que éste no quedará inhabilitado para ser electo presidente.
+1. El presidente de la Mesa Directiva y el suplente durarán en su cargo un periodo ordinario correspondiente al año legislativo para el que fueron designados. El presidente no podrá ser electo suplente, en tanto que éste no quedará inhabilitado para ser electo presidente en periodos ordinarios subsecuentes.
 
 2. Los secretarios ejercerán su función durante el período ordinario de sesiones para el que fueren electos, pero no podrán ser reelectos para el periodo inmediato de sesiones. Tampoco podrán ser electos como presidente o suplente durante el tiempo de su ejercicio.
 
@@ -225,9 +237,9 @@ Salvo lo dispuesto por el artículo 12, al inicio de los períodos ordinarios de
 
 2. Cuando se convoque a una sesión extraordinaria, la junta previa para elegir a su Mesa Directiva también estará encabezada por la Diputación Permanente.
 
-3. Durante los periodos ordinarios de sesiones, la elección del presidente y el suplente para el siguiente mes de ejercicio se realizará en la última sesión del mes. Los electos iniciarán el desempeño de su cargo y función en la primera sesión que se celebre en el siguiente mes.
+3. (DEROGADO, P.O. 24 DE JUNIO DE 2021)
 
-4. En caso de que por cualquier causa no pudiere llevarse a cabo la elección, la misma se realizará en junta previa celebrada en la fecha en que deba sesionar el Congreso en el mes siguiente; dicha junta será encabezada por el presidente electo para el mes precedente.
+4. (DEROGADO, P.O. 24 DE JUNIO DE 2021)
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
 
@@ -1687,7 +1699,9 @@ h) Clausura de la sesión y cita para la celebración de la siguiente.
 
 4. El orden del día para cada sesión será el que a su inicio de a conocer el presidente de la Mesa Directiva, de conformidad con los entendimientos y acuerdos que se produzcan en la Junta de Coordinación Política.
 
-5. El orden del día de la última sesión de cada mes contendrá, después del apartado correspondiente a la lectura del acta de la sesión anterior, un punto relativo a la elección de presidente y suplente para el siguiente mes de ejercicio o, en su caso, para la elección de la Diputación Permanente.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+
+5. El orden del día de la última sesión de cada periodo contendrá, después del apartado correspondiente a la lectura del acta de la sesión anterior, un punto relativo, para la elección de la Diputación Permanente.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE MAYO DE 2006)</small>
 
@@ -3406,3 +3420,11 @@ P.O. 22 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-539 MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO, QUINTO Y SEXTO AL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; Y SE REFORMAN LOS ARTÍCULOS 12, PÁRRAFO 2 E INCISO B); 14; 15 PÁRRAFO 2; 17 PÁRRAFO 1; Y 83 PÁRRAFO 5; Y SE DEROGAN LOS PÁRRAFOS 3 Y 4 DEL ARTÍCULO 18, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a partir del 1° de octubre de 2021.
