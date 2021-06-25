@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-proteccion-y-bienestar-de-los-animales-del-142226"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-27"
-last_updated: "2018-09-27"
+last_updated: "2021-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2021.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el jueves 27 de septiembre de 2018.
 
@@ -127,7 +127,9 @@ IV. Celebrar convenios y acuerdos de coordinación y demás instrumentos jurídi
 
 V. Coadyuvar con los Municipios, con las asociaciones protectoras de animales y otras dependencias y entidades estatales, en los casos en que se requiera su apoyo para la captura de animales silvestres, así como de aquellos que siendo domésticos se hayan tornado ferales y, por lo tanto sean o puedan ser un riesgo para la población;
 
-VI. Coadyuvar en la difusión, por los medios apropiados, del espíritu y contenido de esta ley, inculcando en el niño, la niña, el adolescente y el adulto el respeto hacia todas las formas de vida animal, difundiendo el conocimiento de su relación con la preservación del equilibrio ecológico;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2021)</small>
+
+VI. Coadyuvar en la difusión, por los medios apropiados, del espíritu y contenido de esta ley, inculcando en el niño, el adolescente y el adulto el respeto hacia todas las formas de vida animal, difundiendo el conocimiento de su relación con la preservación del equilibrio ecológico; así como en la promoción de la adopción de animales domésticos que se encuentren en situación de calle o abandono;
 
 VII. Emitir las autorizaciones para la realización de actividades consistentes en:
 
@@ -173,7 +175,9 @@ VI. Impulsar campañas de concientización para la protección y el trato digno 
 
 VII Contar con un Centro de Bienestar Animal, de conformidad con lo establecido en la presente Ley y demás disposiciones aplicables;
 
-VIII. Prevenir la sobrepoblación canina y felina dentro de su jurisdicción, mediante campañas informativas y de concientización social para reducir el número de los animales que deambulen en la vía pública, que no cuenten con algún medio de identificación y se presuman abandonados, de conformidad con lo establecido en el reglamento de la presente Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2021)</small>
+
+VIII. Prevenir la sobrepoblación canina y felina dentro de su jurisdicción, mediante campañas informativas y de concientización social para reducir el número de los animales que deambulen en la vía pública, que no cuenten con algún medio de identificación y se presuman abandonados, de conformidad con lo establecido en el reglamento de la presente Ley y demás disposiciones aplicables; así como fomentar la adopción de animales domésticos en situación de calle o abandono;
 
 IX. Informar a la Secretaría y la Procuraduría, en los casos de maltrato animal que se susciten en su jurisdicción;
 
@@ -728,3 +732,13 @@ Que la LXII Legislatura del H. Congreso del Estado Libre y Soberano de Campeche 
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los trece días del mes de septiembre del año dos mil dieciocho.
 
 EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 233 POR EL QUE “SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 4 Y LA FRACCIÓN VIII DEL ARTÍCULO 6 DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrara en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
