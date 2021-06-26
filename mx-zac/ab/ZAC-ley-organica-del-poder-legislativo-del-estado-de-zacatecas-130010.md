@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2021-06-05"
+last_updated: "2021-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2021.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -113,6 +113,10 @@ Los bienes muebles que formen parte del patrimonio del Poder Legislativo no podr
 
 Los bienes muebles cuyo valor comercial sea inferior al equivalente a diez unidades de medida y actualización elevadas al año, en los términos de la legislación estatal en materia de patrimonio, podrán ser enajenados sin la autorización a que se refiere el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2021)</small>
+
+Los documentos que se produzcan, registren, organicen y conserven en los archivos de las áreas administrativas de la Legislatura como resultado de sus facultades, competencias o funciones forman parte del patrimonio documental del Poder Legislativo del Estado de Zacatecas del Estado (sic).
+
 ###### Artículo 9.
 
 Las comunicaciones que realice la Legislatura del Estado con otros poderes, organismos autónomos o autoridades federales, estatales y municipales, así como con personas físicas o morales, se podrán llevar a cabo a través de medios remotos de comunicación electrónica, de acuerdo con lo establecido en la Ley de Firma de (sic) Electrónica del Estado, a efecto de simplificar, agilizar y hacer más accesibles todos los actos, convenios, comunicaciones, procedimientos administrativos, trámites, contratos y expedición de cualquier documento.
@@ -163,7 +167,9 @@ La Legislatura comunicará inmediatamente al Instituto Electoral del Estado y al
 
 La Comisión Instaladora, de conformidad con la presente Ley, la Ley de Entrega-Recepción del Estado y el Reglamento General, tendrá a su cargo:
 
-I. Recibir, de la Secretaría General de la Legislatura, la siguiente documentación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2021)</small>
+
+I. Recibir, de la Comisión de Régimen Interno y Concertación Política, la siguiente documentación:
 
 a) Los expedientes provenientes de los Consejos Distritales Electorales relativos a cada cómputo distrital y en los que se contengan las actas originales y cualquier otra documentación de la elección de Gobernador del Estado;
 
@@ -237,7 +243,9 @@ Sin perjuicio de lo establecido en la Ley de Entrega-Recepción del Estado, el p
 
 I. La fase de integración del paquete de entrega recepción, que consta de la siguiente documentación:
 
-a) Los informes anuales que la Secretaría General debe integrar y remitir a la Asamblea durante el ejercicio constitucional, así como la relación de asuntos pendientes de todas las comisiones;
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2021)</small>
+
+a) Los informes anuales que la Comisión de Régimen Interno y Concertación Política, a través de las unidades administrativas, debe integrar y remitir a la Asamblea durante el ejercicio constitucional, así como la relación de asuntos pendientes de todas las comisiones;
 
 b) Los informes anuales de la Dirección de Administración y Finanzas;
 
@@ -245,19 +253,27 @@ c) El análisis y conformación del inventario general del patrimonio de la Legi
 
 d) El informe de cuentas públicas aprobadas del Poder Legislativo relativo a su ejercicio constitucional, en su caso, el resultado de la revisión a la gestión financiera de enero a julio del último año;
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2021)</small>
+
+e) Los inventarios del patrimonio documental de la Legislatura elaborado por el Archivo General del Poder Legislativo del Estado de Zacatecas, con base en lo establecido en la Ley General de Archivos y la ley estatal en la materia.
+
 II. La fase de presentación del paquete de entrega-recepción que realice la Comisión Instaladora a la Presidencia de la Mesa Directiva de la Legislatura entrante, en la sesión solemne del siete de septiembre;
 
 III. La fase de revisión y cotejo del paquete documental de entrega-recepción por parte de la Mesa Directiva, este periodo abarcará desde el siete de septiembre y durante las primeras cuatro sesiones ordinarias siguientes, y
 
 IV. La aprobación y validación del paquete de entrega-recepción se realizará, en lo conducente, de conformidad con la Ley de Entrega-Recepción del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2021)</small>
+
 ###### Artículo 17.
 
-El titular de la Secretaría General deberá entregar, a más tardar el quince de agosto del último año del ejercicio legislativo, a la Comisión de Régimen Interno y Concertación Política, un informe que contenga relación de asuntos legislativos y jurídicos pendientes, así como la documentación correspondiente.
+La Comisión de Régimen Interno y Concertación Política, a través de la Dirección de Procesos Legislativos y Asuntos Jurídicos y de la Dirección de Apoyo Parlamentario, deberá integrar, a más tardar el quince de agosto del último año del ejercicio legislativo, un informe que contenga relación de asuntos legislativos y jurídicos pendientes, así como la documentación correspondiente que formará parte del paquete de entrega-recepción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2021)</small>
 
 ###### Artículo 18.
 
-El Secretario General entregará, a más tardar el quince de agosto del último año de ejercicio, a la Comisión de Planeación, Patrimonio y Finanzas informe que contenga:
+La Comisión de Planeación, Patrimonio y Finanzas entregará, a más tardar el quince de agosto del último año de ejercicio, a la Comisión de Régimen Interno y Concertación Política, informe que contenga:
 
 I. Presupuesto ejercido, por ejercer y cuentas pendientes;
 
@@ -267,11 +283,15 @@ III. Plantilla de personal, y
 
 IV. Los demás documentos que den cuenta del estado de la administración de la Legislatura.
 
-La Comisión de Planeación, Patrimonio y Finanzas avalará dicho informe y lo presentará a la Comisión de Régimen Interno y Concertación Política para que forme parte del paquete de entrega-recepción.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2021)</small>
+
+Dicha información formará parte del paquete de entrega-recepción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2021)</small>
 
 ###### Artículo 19.
 
-El Secretario General remitirá a la Auditoría Superior del Estado un informe del ejercicio presupuestal hasta el treinta y uno de julio del tercer año de ejercicio, mismo que formará parte del citado paquete.
+La Comisión de Régimen Interno y Concertación Política remitirá a la Auditoría Superior del Estado un informe del ejercicio presupuestal hasta el treinta y uno de julio del tercer año de ejercicio autorizado por la Comisión de Planeación, Patrimonio y Finanzas, mismo que formará parte del citado paquete.
 
 Por ningún motivo, una vez autorizado el paquete documental de entrega-recepción, se realizarán transferencias o compras, salvo lo necesario para el gasto corriente.
 
@@ -295,7 +315,9 @@ III. Vigilar el ejercicio del gasto público;
 
 IV. Ser autoridad en materia de deuda pública de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios y la Ley de Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios;
 
-V. Nombrar al Magistrado Presidente del Tribunal de Conciliación y Arbitraje del Estado, de una terna que proponga el Tribunal Superior de Justicia del Estado;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2021)</small>
+
+V. Nombrar a los Magistrados del Tribunal de Justicia Laboral Burocrática, con el voto de las dos terceras partes de los miembros presentes de la Legislatura;
 
 VI. Designar al Fiscal General de Justicia del Estado, con el voto de las dos terceras partes de los miembros presentes de la Legislatura;
 
@@ -771,7 +793,9 @@ IV. A los Ayuntamientos Municipales;
 
 V. A los representantes del Estado ante el Congreso de la Unión;
 
-VI. A la Comisión de Derechos Humanos del Estado, en el ámbito de su competencia, y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2021)</small>
+
+VI. A los organismos constitucionalmente autónomos, en su respectiva materia y competencia, y
 
 VII. A los ciudadanos zacatecanos radicados en el Estado.
 
@@ -1359,7 +1383,9 @@ XIV. Coordinar con la Mesa Directiva la conformación del orden del día y desar
 
 XV. Coordinar la planeación y desarrollo de la agenda legislativa;
 
-XVI. Analizar, modificar y aprobar, a partir del decimoprimer día hábil de septiembre, el anteproyecto de Presupuesto de Egresos de la Legislatura que formule la Comisión de Planeación, Patrimonio y Finanzas. El anteproyecto deberá ser aprobado por el Pleno y enviarse como proyecto de presupuesto de egresos al Ejecutivo del Estado, a más tardar el décimo día hábil del mes de octubre de cada año, para que forme parte del Presupuesto de Egresos del Estado, de conformidad con la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado y sus Municipios;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2021)</small>
+
+XVI. Analizar, modificar y aprobar, a partir del sexto día hábil de septiembre, el anteproyecto de Presupuesto de Egresos de la Legislatura que formule la Comisión de Planeación, Patrimonio y Finanzas. El anteproyecto deberá ser aprobado por el Pleno y enviarse como proyecto de presupuesto de egresos al Ejecutivo del Estado, a más tardar el último día hábil del mes de septiembre del año inmediato anterior al que deban ejercerse, para que forme parte del Presupuesto de Egresos del Estado, de conformidad con la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado y sus Municipios;
 
 XVII. Coadyuvar en las acciones en materia de Parlamento Abierto, así como dar a conocer a los representantes de cada grupo parlamentario, los compromisos que se establezcan, para su cumplimiento;
 
@@ -1427,7 +1453,9 @@ Los integrantes de la Comisión de Planeación, Patrimonio y Finanzas no podrán
 
 Esta Comisión sesionará por lo menos una vez por semana y conocerá de los asuntos siguientes:
 
-I. Revisar, modificar y aprobar, dentro de los primeros diez días hábiles del mes de septiembre de cada año, el anteproyecto de presupuestos de ingresos y egresos del Poder Legislativo y remitirlo a la Comisión de Régimen Interno y Concertación Política.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2021)</small>
+
+I. Revisar, modificar y aprobar, dentro de los primeros cinco días hábiles del mes de septiembre de cada año, el anteproyecto de presupuestos de ingresos y egresos del Poder Legislativo, y remitirlo a la Comisión de Régimen Interno y Concertación Política.
 
 De conformidad con el artículo 65, fracción IV, segundo párrafo de la Constitución estatal, no podrán presupuestarse recursos para ayudas sociales;
 
@@ -1445,13 +1473,31 @@ VII. Coordinar el proceso de entrega-recepción del patrimonio del Poder Legisla
 
 VIII. Programar los recursos necesarios para el desempeño de las actividades de la Legislatura, y
 
-IX. Las demás que le asigne esta Ley, su Reglamento General, así como los acuerdos del Pleno, Mesa Directiva o Comisión de Régimen Interno y Concertación Política.
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2021)</small>
+
+IX. Verificar el registro contable del ejercicio y comprobación del gasto en los términos de la legislación en materia de contabilidad gubernamental, disciplina financiera y responsabilidad hacendaria, en estricto apego a los Lineamientos relativos al ejercicio, comprobación y justificación de los recursos aprobados en el presupuesto de egresos del Poder Legislativo;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2021)</small>
+
+X. Coordinar la elaboración de los proyectos del programa presupuestario anual y del presupuesto de egresos de la Legislatura, así como la supervisión del ejercicio del gasto, el manejo del fondo revolvente y autorizar la ministración de los insumos y bienes materiales;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2021)</small>
+
+XI. Verificar, por conducto de la Dirección de Administración y Finanzas, que los recursos por concepto de servicios personales, materiales y suministros, servicios generales, bienes muebles, inmuebles e intangibles, cuente con la documentación comprobatoria y justificativa;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2021)</small>
+
+XII. Vigilar que las erogaciones de las unidades administrativas se ajusten a sus programas presupuestarios anuales, así como a los calendarios y montos autorizados, y verificar su correcto ejercicio, y
+
+XIII. Las demás que le asigne esta Ley, su Reglamento General, así como los acuerdos del Pleno, Mesa Directiva o Comisión de Régimen Interno y Concertación Política.
 
 ### Capítulo Sexto. Comisiones Legislativas
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2021)</small>
+
 ###### Artículo 130.
 
-Las Comisiones Legislativas son órganos internos de la Legislatura que tienen como facultades el conocimiento, análisis y dictamen de las iniciativas, acuerdos y demás asuntos presentados a la Asamblea y turnados por el Presidente de la Mesa Directiva o el Secretario General.
+Las Comisiones Legislativas son órganos internos de la Legislatura que tienen como facultades el conocimiento, análisis y dictamen de las iniciativas, acuerdos y demás asuntos presentados a la Asamblea y turnados por el Presidente de la Mesa Directiva o la Dirección de Apoyo Parlamentario.
 
 ###### Artículo 131.
 
@@ -1899,7 +1945,9 @@ IV. La legislación relacionada con el régimen de seguridad social de los servi
 
 V. De la legislación en materia de servicio civil o profesional de carrera;
 
-VI. El desempeño del Tribunal de Conciliación y Arbitraje y de la Junta Local de Conciliación y Arbitraje;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2021)</small>
+
+VI. El desempeño de la Junta Local de Conciliación y Arbitraje;
 
 VII. La representación de la Legislatura en el Comité de Planeación para el Desarrollo del Estado de Zacatecas;
 
@@ -1995,9 +2043,13 @@ III. Para que se concedan amnistías en circunstancias extraordinarias; en este 
 
 IV. A efecto de que se diriman en la vía conciliatoria, los conflictos políticos entre los Poderes Ejecutivo y Judicial, de los municipios entre sí y de éstos con los poderes estatales;
 
-V. Designación de los magistrados del Tribunal Superior de Justicia y al magistrado del Tribunal de Conciliación y Arbitraje, en los términos de las leyes aplicables;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2021)</small>
 
-VI. Respecto a la calificación de las excusas, solicitudes de licencia y renuncias que presenten los magistrados del Poder Judicial y del Tribunal de Conciliación y Arbitraje;
+V. Designación de los magistrados del Tribunal Superior de Justicia y los magistrados del Tribunal de Justicia Laboral Burocrática, en los términos de las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2021)</small>
+
+VI. Respecto a la calificación de las excusas, solicitudes de licencia y renuncias que presenten los magistrados del Poder Judicial y del Tribunal de Justicia Laboral Burocrática;
 
 VII. Sobre la Ley Orgánica del Poder Judicial del Estado, sus reformas y adiciones, y
 
@@ -2628,3 +2680,17 @@ P.O. 5 DE JUNIO DE 2021.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 677.- REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS Y A SU REGLAMENTO GENERAL”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo tercero. Los manuales de organización y procedimientos, así como la demás normatividad interna, deberán adecuarse al contenido del presente Decreto dentro de los ciento ochenta días siguientes a su entrada en vigor.
+
+Artículo cuarto. La Comisión de Desarrollo Cultural deberá presentar, en un plazo que no exceda de treinta días naturales contados a partir de la publicación del presente Decreto, la iniciativa de reformas a la normatividad interna para adecuar la estructura orgánica de la Legislatura en materia de coordinación de acciones del Sistema Institucional del Archivo del Poder Legislativo del Estado y cumplir con las disposiciones de la Ley General de Archivos y la ley estatal en la materia.
+
+Artículo quinto. En un plazo que no exceda de treinta días naturales, contados a partir de la publicación de este instrumento legislativo, los titulares de las Direcciones de Procesos Legislativos y Asuntos Jurídicos y de Administración y Finanzas, deberán presentar a la Comisión de Régimen Interno y Concertación Política y a la Comisión de Planeación, Patrimonio y Finanzas, para su aprobación, el proyecto para reasignar recursos humanos, materiales y financieros presupuestados para la Secretaría General que deriven del presente Decreto.
