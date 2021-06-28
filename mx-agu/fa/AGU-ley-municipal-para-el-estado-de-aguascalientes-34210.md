@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2021-06-07"
+last_updated: "2021-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -1531,6 +1531,10 @@ Los ayuntamientos para su funcionamiento celebrarán sesiones de Cabildo, las cu
 
 Las sesiones del ayuntamiento serán presididas por el Presidente Municipal o por quien lo sustituya legalmente, constarán en un libro de actas que se levantará llevando el método estenográfico, las cuales conformarán el diario de debates, que será publicado en períodos de enero a diciembre de cada año, en los estrados del Cabildo.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2021)</small>
+
+Los ayuntamientos, en caso de emergencia nacional o estatal de carácter sanitaria o de protección civil determinada por la autoridad competente, y por el tiempo que dure ésta, podrán sesionar a distancia mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, que permitan la transmisión en vivo en la página de internet de los municipios, y en las cuales se deberá garantizar la correcta identificación de sus integrantes, sus intervenciones, así como el sentido de la votación.
+
 ###### Artículo 111.
 
 Las sesiones de Cabildo serán: ordinarias, extraordinarias, solemnes y secretas; excepto éstas últimas las demás tendrán el carácter de públicas.
@@ -1585,13 +1589,17 @@ XVI. Igualdad sustantiva y equidad de género cuya competencia será: promover p
 
 XVII. De Derechos Humanos cuya competencia será: conocer de los asuntos relacionados con derechos humanos, su difusión, promoción y reglamentación, además del fomento de acciones en favor de una cultura de respeto, protección y garantía de dichos derechos en el marco del ámbito municipal; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
 
-XVIII. Cultura, cuya competencia será promover y salvaguardar el patrimonio cultural y los aspectos históricos de cada municipio, así como fomentar, promover, difundir y fortalecer el desarrollo cultural entre la ciudadanía. Además, brindar difusión, espacios y apoyo a las personas que realicen actividades artísticas y culturales de cada municipio, otorgándoles preferencia en los eventos que se realicen dentro del territorio de cada ente Municipal; y
+XVIII. Cultura, cuya competencia será promover y salvaguardar el patrimonio cultural y los aspectos históricos de cada municipio, así como fomentar, promover, difundir y fortalecer el desarrollo cultural entre la ciudadanía. Además, brindar difusión, espacios y apoyo a las personas que realicen actividades artísticas y culturales de cada municipio, otorgándoles preferencia en los eventos que se realicen dentro del territorio de cada ente Municipal;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2021)</small>
 
-XIX. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+XIX. Asuntos Legislativos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JUNIO DE 2021)</small>
+
+XX. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
 ###### Artículo 114.
 
@@ -2564,3 +2572,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos de la entidad deberán adecuar sus normas internas de conformidad con esta reforma en un plazo máximo de un año contado a partir de su inicio de vigencia.
+
+P.O. 28 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 572.- SE REFORMA LA (SIC) FRACCIONES XVIII Y XIX DEL ARTÍCULO 113 Y SE ADICIONA UNA FRACCIÓN XX AL ARTÍCULO 113 DE LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 573.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 110 DE LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
