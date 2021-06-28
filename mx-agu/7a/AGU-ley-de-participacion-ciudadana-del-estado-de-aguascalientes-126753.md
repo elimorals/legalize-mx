@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-participacion-ciudadana-del-estado-de-aguascalientes-126
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2018-02-26"
+last_updated: "2021-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "AGU"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2021.
 
-Ley publicada en la Primera Sección al Número 9 del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2018.
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2018.
 
 MARTÍN OROZCO SANDOVAL, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
 
@@ -515,9 +515,11 @@ Una vez recibida la Iniciativa Ciudadana, la Mesa Directiva del Congreso del Est
 
 Una vez declarada la admisión de la Iniciativa Ciudadana se someterá al proceso legislativo que señala la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes, debiendo ser analizada, dictaminada y votada, de manera preferente al resto de las iniciativas presentadas en el mismo periodo.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 50.
 
-Los promotores de la iniciativa podrán participar en las reuniones de la comisión o comisiones que la dictaminen, con derecho a voz, pero sin voto.
+En el proceso legislativo de dictamen, el Presidente de la Comisión, invitará al o los representantes que suscriben dicha iniciativa, para que expongan la propuesta de la misma, en los términos que para el efecto prescriban la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes y su Reglamento.
 
 ###### Artículo 51.
 
@@ -617,23 +619,35 @@ El Instituto efectuará el cómputo del resultado y ordenará su publicación en
 
 ### CAPÍTULO VI. El Presupuesto Participativo
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 64.
 
-El Presupuesto Participativo es el instrumento mediante el cual la ciudadanía elige y define los proyectos, realización de obras o ejecución de programas a cargo del Presupuesto de Egresos Municipal, bajo la administración, ejecución y responsabilidad de las autoridades municipales correspondientes.
+El Presupuesto Participativo es el instrumento mediante el cual la ciudadanía elige y define los proyectos, realización de obras o ejecución de programas a cargo del Presupuesto de Egresos Municipal o Estatal, bajo la administración, ejecución y responsabilidad de las autoridades correspondientes.
+
+El Presupuesto Participativo podrá estar dirigido a las Administraciones Municipal o Estatal, dependiendo el rubro de acción sobre la que se pronuncie.
 
 ###### Artículo 65.
 
 El Presupuesto Participativo tendrá por objeto:
 
-I. Identificar las demandas ciudadanas desde el ámbito municipal, atendiendo a las necesidades de sus colonias y barrios;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
 
-II. Colaborar en la integración de los habitantes de las colonias, barrios y comunidades del Municipio, para el beneficio de sus comunidades; y
+I. Identificar las demandas ciudadanas desde el ámbito de competencia correspondiente, atendiendo a las necesidades de sus colonias y barrios;
 
-III. Propiciar una distribución equitativa de los recursos públicos de los que dispone el gobierno municipal, mediante un instrumento público, objetivo, transparente y auditable.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+II. Colaborar en la integración de los habitantes de las colonias, barrios y comunidades, para su beneficio; y
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+III. Propiciar una distribución equitativa de los recursos públicos, mediante un instrumento público, objetivo, transparente y auditable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2021)</small>
 
 ###### Artículo 66.
 
-Los proyectos sujetos a presupuesto participativo serán presentados ante el Ayuntamiento, sobre los rubros generales siguientes:
+Los proyectos sujetos a Presupuesto Participativo Municipal serán presentados ante el Ayuntamiento, sobre los rubros generales siguientes:
 
 I. Agua potable;
 
@@ -649,31 +663,55 @@ VI. Infraestructura básica de salud y educativa.
 
 El Ayuntamiento vigilará que los proyectos presentados, se encuentren distribuidos proporcionalmente en todas zonas en que se divida el Municipio; debiendo privilegiar aquellas en situación de precariedad.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2021)</small>
+
+Artículo 66 A.- Los proyectos sujetos a Presupuesto Participativo Estatal serán presentados ante el Poder Ejecutivo, sobre los rubros generales siguientes:
+
+I.- Recuperación del espacio público;
+
+II.- Infraestructura cultural, deportiva y recreativa;
+
+III.- Desarrollo sustentable; y
+
+IV.- Seguridad pública.
+
 ###### Artículo 67.
 
 Los proyectos podrán ser presentados por cualquier persona a título de ciudadano.
 
-El Ayuntamiento correspondiente determinará la viabilidad de los proyectos presentados y generará una propuesta de tres proyectos que será presentada ante la ciudadanía.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
+La autoridad correspondiente determinará la viabilidad de los proyectos presentados y generará una propuesta de tres proyectos que será presentada ante la ciudadanía.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
 
 ###### Artículo 68.
 
-Los Ayuntamientos deben expedir su Reglamento en materia de presupuesto participativo, sin contravenir las disposiciones previstas en la Constitución del Estado y en esta Ley.
+Las autoridades correspondientes deben expedir su Reglamento en materia de presupuesto participativo, sin contravenir las disposiciones previstas en la Constitución del Estado y en esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
 
 ###### Artículo 69.
 
-Los recursos del presupuesto participativo corresponderán al menos al cuatro por ciento del Presupuesto de Egresos aprobado por los municipios del Estado de Aguascalientes.
+Los recursos del presupuesto participativo corresponderán al menos al cuatro por ciento del Presupuesto de Egresos aprobado por las autoridades del Estado de Aguascalientes.
 
 ###### Artículo 70.
 
 El Instituto podrá:
 
-I. Colaborar con el municipio a solicitud de este para la realización de la consulta; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
 
-II. Convenir con los municipios para dar asesoría y apoyo técnico en la organización, desarrollo, cómputo y declaración de sus resultados de los procesos de consulta de presupuesto participativo; así como para supervisar y validar dichos procesos, cuando se lo soliciten.
+I. Colaborar con las autoridades correspondientes a solicitud de éstas para la realización de la consulta; y
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+II. Convenir con las autoridades correspondientes para dar asesoría y apoyo técnico en la organización, desarrollo, cómputo y declaración de sus resultados de los procesos de consulta de presupuesto participativo; así como para supervisar y validar dichos procesos, cuando se lo soliciten.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2021)</small>
 
 ###### Artículo 71.
 
-El gobierno municipal publicará la convocatoria en el Periódico Oficial, lugares de concurrencia ciudadana, la página web del Ayuntamiento, en la Gaceta Municipal respectiva o en los estrados de las oficinas del Ayuntamiento, según corresponda, treinta días hábiles antes de la consulta.
+Las autoridades correspondientes publicarán la convocatoria en el Periódico Oficial, lugares de concurrencia ciudadana, su página web, en la Gaceta Municipal respectiva o en los estrados de las oficinas del Ayuntamiento, según corresponda, treinta días hábiles antes de la consulta.
 
 La convocatoria deberá contener:
 
@@ -683,9 +721,11 @@ b). Las obras o programas que se someterán a consideración de la ciudadanía; 
 
 c). El monto de los recursos públicos que se destinarán a la ejecución de las obras o programas ganadores.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 72.
 
-Los resultados obtenidos en las consultas de presupuesto participativo serán vinculatorios para los gobiernos Municipales.
+Los resultados obtenidos en las consultas de presupuesto participativo cuando la decisión que corresponda se tome al menos por el cincuenta por ciento de los ciudadanos participantes, serán vinculatorios para las autoridades correspondientes.
 
 ### CAPÍTULO VII. El Cabildo Abierto
 
@@ -793,15 +833,23 @@ IV. El uno por ciento de los ciudadanos del Estado inscritos en el padrón elect
 
 V. El cincuenta por ciento más uno de los integrantes del Poder Legislativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 84.
 
-La Consulta Ciudadana podrá ser relativa a cualquier tema de interés púbico (sic), excepto:
+La Consulta Ciudadana podrá ser relativa a cualquier tema de interés público (sic), excepto:
 
 I. Lo relativo a materia electoral;
 
 II. Los ingresos, egresos o el régimen interno y de organización de la administración pública del Estado y de los municipios;
 
-III. Lo relativo a materia penal y Derechos Humanos.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+III. Lo relativo a materia penal; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+IV. La restricción a los derechos humanos reconocidos en la Constitución Federal y en los Tratados Internacionales ratificados por México.
 
 ###### Artículo 85.
 
@@ -815,9 +863,11 @@ III. Foros, seminarios y reuniones públicas;
 
 IV. Cualquier medio o instrumento eficaz que propicie la participación social a fin de recopilar la opinión y las propuestas ciudadanas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 86.
 
-La solicitud de consulta por parte de la ciudadanía, se presentará ante el órgano de gobierno correspondiente al tema que se quiere someter a consulta.
+La solicitud por parte de la ciudadanía, se presentará ante el órgano de gobierno correspondiente al tema que se quiere someter a consulta. Una vez recibida la solicitud de consulta ciudadana, de forma inmediata se deberá remitir al Instituto el expediente completo de dicha solicitud.
 
 La consulta ciudadana emanada de un órgano de gobierno será convocada por el mismo a través de la dependencia Estatal o Municipal correspondiente, atendiendo a la naturaleza del acto.
 
@@ -826,6 +876,10 @@ La consulta ciudadana emanada de un órgano de gobierno será convocada por el m
 El Instituto tendrá a su cargo la organización, desarrollo, cómputo y declaración de resultados de la Consulta Ciudadana. Asimismo, tratándose de la solicitud ciudadana, verificará que se acompañe de las firmas correspondientes, a solicitud del órgano correspondiente, realizando la certificación respectiva.
 
 El Instituto podrá delegar en los Poderes Legislativo y Ejecutivo del Estado, así como en los Ayuntamientos, la organización y realización de consultas ciudadanas.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2021)</small>
+
+Las resoluciones del Instituto, podrán ser impugnadas a través del Recurso de Apelación que señala el Código Electoral para el Estado de Aguascalientes.
 
 ###### Artículo 88.
 
@@ -891,13 +945,17 @@ II. Difundir los resultados completos de la aplicación de esos instrumentos met
 
 Los resultados de la Consulta Ciudadana se difundirán, en un plazo no mayor de diez días hábiles contados a partir de su celebración en el Periódico Oficial, lugares de concurrencia ciudadana, la página web del Ayuntamiento, en la Gaceta Municipal respectiva o en los estrados de las oficinas del Ayuntamiento, según corresponda
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 94.
 
-No podrá realizarse Consulta Ciudadana en el año en que hayan de efectuarse elecciones constitucionales desde el momento que inicia el periodo precampañas y/o apoyo ciudadano hasta el día siguiente de la jornada electoral.
+La Consulta Ciudadana podrá convocarse en cualquier tiempo, excepto durante el proceso electoral, desde el momento que inicia el de periodo precampañas y apoyo ciudadano hasta el día siguiente de la celebración de la jornada electoral.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
 
 ###### Artículo 95.
 
-En caso de que la autoridad no oriente su decisión o sus actos con base en los resultados de la consulta ciudadana deberá fundar y motivar su determinación y publicarla en su página web.
+En caso de que la autoridad no oriente su decisión o sus actos con base en los resultados de la consulta ciudadana, deberá fundar y motivar su determinación y publicarla en su página web oficial.
 
 ### CAPÍTULO IX. Los Comités Ciudadanos
 
@@ -1100,3 +1158,17 @@ Arturo Fernández Estrada,
 DIPUTADO SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 23 de febrero de 2018.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 568.- SE REFORMAN LOS ARTÍCULOS 50; 64; 65, FRACCIONES I, II Y III; 66, PÁRRAFO PRIMERO; 67, PÁRRAFO SEGUNDO; 68; 69; 70, FRACCIONES I Y II; 71, PRIMER PÁRRAFO; 72; 84, FRACCIÓN III; 86, PRIMER PÁRRAFO; 94; 95; Y SE ADICIONA EL ARTÍCULO 66 A; UNA FRACCIÓN IV AL ARTÍCULO 84; Y UN TERCER PÁRRAFO AL ARTÍCULO 87 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez de la entrada en vigor del presente Decreto, las Autoridades correspondientes deberán expedir su Reglamento en materia de Presupuesto Participativo en un término no mayor de 90 días.
