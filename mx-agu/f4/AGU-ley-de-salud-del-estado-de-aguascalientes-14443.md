@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2021-06-14"
+last_updated: "2021-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -981,7 +981,9 @@ La atención materno-infantil tiene carácter prioritario y comprende, por lo me
 
 I.- La atención de la salud de las mujeres durante el embarazo, el parto, el puerperio y la crianza durante la primera infancia de sus hijos;
 
-II.- La atención prenatal de los infantes, durante el embarazo y en el momento del nacimiento, así como la detección de defectos o anomalías congénitas previas y después del nacimiento, mediante las pruebas y exámenes señalados en las Normas Oficiales Mexicanas aplicables, así como, la vigilancia de su nutrición, crecimiento y desarrollo, incluyendo la promoción de la lactancia materna y la vacunación oportuna;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+II.- La atención prenatal de los infantes, durante el embarazo y en el momento del nacimiento, así como la detección de defectos, enfermedades o anomalías hereditarias y congénitas previas o después del nacimiento, mediante las pruebas y exámenes señalados en las Normas Oficiales Mexicanas aplicables, así como, la vigilancia de su nutrición, crecimiento y desarrollo, incluyendo la promoción de la lactancia materna y la vacunación oportuna, y la aplicación de la prueba del tamiz ampliado;
 
 III.- La atención prenatal, a través de contactos, entrevistas o consultas con el personal de salud, a efecto de acompañar la evolución del embarazo y de preparar a las mujeres para el parto, puerperio y cuidado de la persona recién nacida. Esto incluye la información oportuna y veraz respecto al estado y desarrollo del embarazo.
 
@@ -1007,9 +1009,29 @@ En el caso de embarazo de alto riesgo, el personal médico determinará la neces
 
 IV.- La promoción de la integración y del bienestar familiar para el acompañamiento de las mujeres durante el embarazo;
 
-V.- La atención oportuna, de calidad y gratuita a toda mujer embarazada que necesite atención obstétrica, en cualquier establecimiento público hospitalario, aunque no cuente con seguridad social, en los términos del Convenio General de Colaboración Interinstitucional para la Atención de la (sic) Emergencias Obstétricas; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
 
-VI.- El alojamiento conjunto de la persona recién nacida y de la madre en un mismo espacio, siempre que no exista riesgo de salud grave de alguno de los dos, con el fin de favorecer el contacto inmediato y permanente entre ambos, así como el inicio de la lactancia materna exclusiva.
+V.- La atención oportuna, de calidad y gratuita a toda mujer embarazada que necesite atención obstétrica, en cualquier establecimiento público hospitalario, aunque no cuente con seguridad social, en los términos del Convenio General de Colaboración Interinstitucional para la Atención de la (sic) Emergencias Obstétricas;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+VI.- El alojamiento conjunto de la persona recién nacida y de la madre en un mismo espacio, siempre que no exista riesgo de salud grave de alguno de los dos, con el fin de favorecer el contacto inmediato y permanente entre ambos, así como el inicio de la lactancia materna exclusiva;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+VII.- La atención de la transmisión del VIH/sida y otras infecciones de transmisión sexual, en mujeres embarazadas a fin de evitar la transmisión perinatal;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+VIII.- La revisión de retina y tamiz auditivo al prematuro;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+IX.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+X.- El diagnóstico oportuno y la atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteroposterior de pelvis, entre el primer y cuarto mes de vida.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
@@ -1067,13 +1089,17 @@ III.- Acciones para controlar las enfermedades prevenibles por vacunación, los 
 
 IV.- Bancos de leche materna en los establecimientos de salud que cuenten con servicios neonatales, para que, de manera subsidiaria, en caso de no ser posible para la madre desempeñar el amamantamiento natural o encontrarse en casos de desnutrición, se brinde la ayuda alimentaria debida y la tendiente a mejorar el estado nutricional del grupo materno infantil;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2021)</small>
 
-V.- Acciones para que todas las mujeres accedan a un embarazo, parto y puerperio con enfoque humanizado, intercultural y seguro, evitando la intervención médica invasiva, innecesaria o excesiva, misma que, además, carezca de sustento científico e información oportuna y veraz a la mujer y su familia; y
+V.- Los lineamientos y protocolos para garantizar que la mujer embarazada sea acompañada por una persona de su elección, durante los servicios de salud que se le proporcionen antes, durante y después del parto;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE JUNIO DE 2021)</small>
 
-VI.- Acciones que garanticen la capacitación y actualización permanente de los recursos humanos para la salud, en materia de salud materno-infantil y prevención de la violencia obstétrica.
+VI.- Acciones para que todas las mujeres accedan a un embarazo, parto y puerperio con enfoque humanizado, intercultural y seguro, evitando la intervención médica invasiva, innecesaria o excesiva, misma que, además, carezca de sustento científico e información oportuna y veraz a la mujer y su familia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JUNIO DE 2021)</small>
+
+VII.- Acciones que garanticen la capacitación y actualización permanente de los recursos humanos para la salud, en materia de salud materno-infantil y prevención de la violencia obstétrica.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -4050,3 +4076,19 @@ P.O. 14 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 563.- SE REFORMA (SIC) LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 9° Y LA FRACCIÓN VIII DEL ARTÍCULO 64 Y SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 9° Y UNA FRACCIÓN IX AL ARTÍCULO 64 DE LA LEY DE SALUD PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 566.- SE REFORMAN LAS FRACCIONES II, V Y VI DEL ARTÍCULO 69 Y SE ADICIONAN LAS FRACCIONES VII, VIII, IX Y X DEL ARTÍCULO 69 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 567.- SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 72 Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 72 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
