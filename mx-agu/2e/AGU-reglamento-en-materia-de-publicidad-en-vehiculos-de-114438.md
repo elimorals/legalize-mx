@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-en-materia-de-publicidad-en-vehiculos-de-114438"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-04-25"
-last_updated: "2016-04-25"
+last_updated: "2021-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO EN MATERIA DE PUBLICIDAD EN VEHICULOS DE TRANSPORTE PUBLICO, AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA FRACCIÓN III DEL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 28 DE JUNIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO EN MATERIA DE PUBLICIDAD EN VEHÍCULOS DE TRANSPORTE PÚBLICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2021 (ABROGADO).
 
 Reglamento publicado en la Primera Sección al Núm. 17 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de Abril de 2016.
 
@@ -280,3 +282,45 @@ Ing. Carlos Lozano de la Torre, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE AGUASCAL
 Lic. Alejandro Bernal Rubalcava, Subsecretario de Gobierno en suplencia del Secretario General de Gobierno, con fundamento en los artículos 50 de la Constitución Política del Estado, 10 fracción IV y 22 de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes y el artículo 7° del Reglamento Interior de la Secretaría de Gobierno.
 
 C.P. Juan Carlos Rodríguez García, SECRETARIO DE GESTIÓN URBANÍSTICA Y ORDENAMIENTO TERRITORIAL.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor de (sic) presente ordenamiento se abrogan:
+
+I. El Reglamento de la Ley de Tránsito del Estado de Aguascalientes, publicado en el suplemento del Periódico Oficial del Estado de Aguascalientes, el 06 de junio de 1982, así como sus reformas;
+
+II. El Reglamento para el Servicio Público de Transporte en Vehículos de Alquiler en el Estado de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el 23 de febrero de 2004, así como sus reformas;
+
+III. El Reglamento en Materia de Publicidad en Vehículos de Transporte Público, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el 25 de abril de 2016, así corno sus reformas; y
+
+IV. El Reglamento Interior del Consejo Consultivo del Transporte Público del Estado de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el 17 de octubre de 2016, así como sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Reglamento, la Coordinación General de Movilidad contará con 180 días para constituir el Registro Estatal de Transporte.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor del presente Reglamento, la Coordinación General de Movilidad deberá emitir en un plazo de 120 días naturales los Lineamientos de Operación del Sistema Integrado de Transporte Público Multimodal de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que actualmente estén pendientes de resolver bajo al (sic) amparo de los reglamentos que se abrogan, seguirán apegándose a los ordenamientos jurídicos que les dieron origen hasta su debida conclusión.
+
+###### ARTÍCULO SEXTO.
+
+La vigencia de las concesiones otorgadas con anterioridad a la expedición del Código Urbano para el Estado de Aguascalientes, publicado en fecha veintinueve de mayo de dos mil cuatro, no estarán sujetas al procedimiento de renovación de la concesión señalado en la Sección Tercera del Capítulo I del Título Séptimo del presente Reglamento.
+
+###### ARTÍCULO SÉPTIMO.
+
+Con la entrada en vigor del presente Reglamento quedan sin efecto aquellas disposiciones que se opongan al mismo.
