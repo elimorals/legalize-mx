@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2021-05-10"
+last_updated: "2021-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2021.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -85,9 +85,11 @@ Las leyes del Estado de Aguascalientes, incluyendo las que se refieren al estado
 
 Los efectos jurídicos de actos y contratos celebrados fuera del Estado, pero dentro del Territorio Nacional, siempre que deban ser ejecutados en el Estado de Aguascalientes, se regirán por las disposiciones de este Código.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 11.
 
-Los actos jurídicos, en todo lo relativo a su forma, se regirán por las leyes del lugar donde pasen. Sin embargo, como (sic) los mexicanos o extranjeros residentes fuera del Estado, quedan en libertad para sujetarse a las formas prescritas por este Código, cuando el acto haya de tener ejecución dentro del mismo.
+Los actos jurídicos, en todo lo relativo a su forma, se regirán por las leyes del lugar donde pasen. Sin embargo, los mexicanos o extranjeros residentes fuera del Estado, quedan en libertad para sujetarse a las formas prescritas por este Código, cuando el acto haya de tener ejecución dentro del mismo.
 
 ###### Artículo 12.
 
@@ -97,9 +99,13 @@ Los bienes inmuebles, sitos en el territorio del Estado, y los bienes muebles qu
 
 Los habitantes del Estado tienen obligación de ejercer sus actividades y de usar y disponer de sus bienes, en forma que no perjudique a la colectividad, bajo las sanciones establecidas en este Código y en las leyes relativas.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 14.
 
-Cuando alguno, explotando la suma ignorancia, notoria inexperiencia o extrema miseria de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho a pedir la rescisión del contrato, y de ser ésta imposible, la reducción equitativa de su obligación.
+Cuando alguno, explotando la ignorancia, inexperiencia, necesidad o miseria de otro, obtiene un lucro desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho a pedir la rescisión del contrato, y de ser ésta imposible, el ajuste equitativo de la obligación.
+
+Se entenderá que ha habido un lucro desproporcionado, cuando no se haya pagado ni la mitad del valor comercial de la cosa o hecho objeto del contrato.
 
 El derecho concedido en este artículo dura un año.
 
@@ -689,9 +695,11 @@ II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2016)
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-IV.- Un certificado suscrito por un médico legalmente autorizado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis ni enfermedad alguna crónica e incurable, que sea, además, contagiosa y hereditaria.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
 
-Para los indigentes tienen obligación de expedir gratuitamente estos certificados, los médicos encargados de los Servicios Coordinados de Salud Pública.
+IV.- Un certificado suscrito por un médico legalmente acreditado que manifieste, bajo protesta de decir verdad, que los pretendientes no padecen enfermedades infectocontagiosas, crónicas, incurables, hereditarias, o que en caso de padecer alguna de ellas, estos manifiesten por escrito ante la autoridad responsable y en plenitud de sus facultades que acceden voluntaria y libremente a contraer matrimonio cuando uno o ambos miembros de la pareja tengan conocimiento de estar afectados por cualquiera de estos padecimientos, mismo que deberá estar signado por los pretendientes.
+
+En caso de que los pretendientes se encuentren en situación de indigencia, los Servicios (sic) Salud Pública del Estado estarán obligados a expedir este certificado de manera gratuita.
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
 
@@ -1351,6 +1359,12 @@ En todo cambio de domicilio será necesario el consentimiento de ambos, si no ex
 
 Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos, sin perjuicios de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JUNIO DE 2021)</small>
+
+El desempeño de las actividades domésticas y/o el cuidado de los hijos se estimarán como contribución al sostenimiento del hogar, para los efectos del párrafo anterior.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 28 DE JUNIO DE 2021)</small>
+
 Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
@@ -1615,7 +1629,9 @@ Son propios de cada cónyuge:
 
 I.- Los bienes de que era dueño al tiempo de celebrarse el matrimonio y los que adquiera por prescripción durante la sociedad, así como los que durante la misma adquiera por don de la fortuna, por donación de cualquier especie o por herencia o legado constituido a favor de uno de ellos;
 
-II.- Los bienes adquiridos durante la sociedad por compra o permuta de los (sic) raíces que pertenezcan a cada uno de ellos antes de celebrarse el matrimonio;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+II.- Los bienes adquiridos durante la sociedad por compra o permuta de los bienes raíces que pertenezcan a cada uno de ellos antes de celebrarse el matrimonio;
 
 III.- Los adquiridos por consolidación de la propiedad y el usufructo, cuando se hace en beneficio de uno solo de ellos.
 
@@ -2433,9 +2449,19 @@ El Juez podrá verificar de oficio o a petición de parte, con el auxilio de per
 
 El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 333.
 
-Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos. Para calificar ambas circunstancias, el Juez deberá tomar en cuenta las siguientes reglas:
+
+I. Los alimentos podrán adecuarse en cualquier tiempo que fuere necesario, tanto por petición que se haga al Juez o por acuerdo de las partes.
+
+II. Deberá buscarse que el otorgamiento de alimentos no llegue a perjudicar la propia subsistencia del deudor alimentario.
+
+III. Se deberán tomar en cuenta no solo los ingresos del deudor alimentario, sino también la capacidad de gasto y estilo de vida que lleve este último.
+
+IV. De manera oficiosa deberán recabarse aquellos medios probatorios que permitan conocer la capacidad y necesidad económica de acreedor y deudor alimentarios, respectivamente, en los términos que precise la legislación procesal vigente.
 
 ###### Artículo 334.
 
@@ -2509,11 +2535,11 @@ El derecho de recibir alimentos no puede ser objeto de transacción y es irrenun
 
 Cuando uno de los cónyuges no estuviere presente, o estándolo rehusare entregar al otro cónyuge lo necesario para los alimentos de éste y/o de los hijos, será responsable de las deudas que el otro cónyuge contraiga para cubrir esa necesidad; pero sólo en la cuantía estrictamente necesaria para ese objeto, y siempre que no se trate de gastos de lujo.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
 
 ###### Artículo 345.
 
-El cónyuge que, sin culpa suya, se vea obligado a vivir separado del otro, podrá pedir al juez de Primera Instancia del lugar de su residencia, que obligue al otro cónyuge a darle alimentos durante la separación, y a que le ministre todos los que haya dejado de darle desde que lo abandonó. El juez, según las circunstancias del caso, fijará la suma que el cónyuge debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y que pague los gastos que haya tenido que aquel haya tenido (sic) que erogar con tal motivo.
+El cónyuge que, sin culpa suya, se vea obligado a vivir separado del otro, podrá pedir al juez de Primera Instancia del lugar de su residencia, que obligue al otro cónyuge a darle alimentos durante la separación, y a que le ministre todos los que haya dejado de darle desde que lo abandonó. El juez, según las circunstancias del caso, fijará la suma que el cónyuge debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y que pague los gastos que aquel haya tenido que erogar con tal motivo.
 
 ###### Artículo 346.
 
@@ -2548,6 +2574,10 @@ También se considera como violencia familiar la conducta inquisitiva y reiterad
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
 
 De igual manera, comete violencia familiar el integrante de la familia que lleve a cabo la conducta de alienación parental, según se define en el Artículo 434 del presente Código.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2021)</small>
+
+Queda prohibido que los padres o quienes ejercen la tutela, patria potestad, guarda y custodia o convivencia, así como cualquier miembro de la familia, utilice como método correctivo o disciplinario, el castigo corporal entendido como el uso de la fuerza física que tenga por objeto causar cierto grado de dolor o malestar, sobre niñas, niños y adolescentes.
 
 ## TITULO SEPTIMO.
 
@@ -2645,9 +2675,11 @@ El desconocimiento de un hijo, de parte del marido o de sus herederos, se hará 
 
 En el juicio de contradicción de la paternidad por desconocimiento del vínculo, serán oídos el progenitor que no demanda y el hijo, a quien si fuere menor se le nombrará un tutor.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 361.
 
-Para los efectos legales, sólo se reputa nacido el feto que, desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al Registro Civil. Faltando alguna de estas circunstancias, nunca ni nadie podrá entablar demanda sobre la paternidad.
+Para los efectos legales, sólo se reputa nacido el feto desprendido enteramente del seno materno.
 
 ###### Artículo 362.
 
@@ -2961,17 +2993,25 @@ La adopción es una institución jurídica de origen público, por la que a trav
 
 I.- Que tiene medios suficientes para proveer la subsistencia, la educación y el cuidado de la persona que trata de adoptarle como hijo propio, según las circunstancias de la persona que trata de adoptar;
 
-II.- Que la adopción es benéfica para la persona que pretende adoptarse, atendiendo al interés superior de la misma, debiendo dar vista al Ministerio Público y al Sistema Estatal para el Desarrollo Integral de la Familia, quienes sólo podrán oponerse por razones debidamente fundadas y motivadas, el juez calificará dichas razones tomando en cuenta los intereses del menor;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+II.- Que la adopción es benéfica para la persona que pretende adoptarse, atendiendo al interés superior de la misma, debiendo dar vista al Ministerio Público y al Sistema Estatal para el Desarrollo Integral de la Familia, quienes sólo podrán oponerse por razones debidamente fundadas y motivadas, el juez calificará dichas razones tomando en cuenta los intereses del menor, el respeto a sus derechos fundamentales y la idoneidad del ambiente en que éste será insertado;
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
 
 III.- Que es idóneo para adoptar, gozando de buena salud física, psicológica y afectiva;
 
-IV.- Que es de buenas costumbres; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
+IV.- Que es de buenas costumbres,
 
-V.- Haber aprobado el curso para padres adoptantes, impartido por el Sistema para el Desarrollo Integral de la Familia del Estado.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+V.- Haber aprobado el curso para padres adoptantes, Impartido por el Sistema para el Desarrollo Integral de la Familia del Estado; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+VI.- Que tiene su domicilio en el Estado de Aguascalientes, salvo que facilite la supervisión de dos años en los términos que marca el artículo 417 de este Código.
 
 Los mayores de edad que no sean incapaces podrán ser adoptados, siempre que se encuentren incorporados a un núcleo familiar formado por su progenitor y la persona que pretenda adoptar. En este caso únicamente se deberá acreditar el matrimonio civil, así como el consentimiento expreso de quien se pretende adoptar.
 
@@ -2989,11 +3029,13 @@ Nadie puede ser adoptado por más de una persona, salvo el caso previsto en el a
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
 
 ###### Artículo 417.
 
-Concedida la adopción, el Sistema para el Desarrollo Integral de la Familia del Estado, a través de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes le dará seguimiento por un periodo de dos años, informando de ello semestralmente al Juez que lo autorizó.
+Concedida la adopción el Sistema para el Desarrollo Integral de la Familia del Estado, a través de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes le dará seguimiento por un periodo de dos años, informando de ello semestralmente al Juez que lo autorizó.
+
+En caso de que la familia adoptante resida fuera del Estado de Aguascalientes, pero dentro del País, los padres deberán colaborar con la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes, para que pueda llevarse a cabo el seguimiento a que refiere el párrafo anterior.
 
 ###### Artículo 418.
 
@@ -3023,11 +3065,11 @@ V.- Las instituciones de asistencia social públicas o privadas que hubieren aco
 
 Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
 
 ###### Artículo 421.
 
-Si el tutor, el Ministerio Público o el Sistema para el Desarrollo Integral de la Familia del Estado no consienten en la adopción, deberán expresar la causa en que se funden, la que el juez calificará tomando en cuenta los intereses del menor o incapaz.
+Si el tutor, el Ministerio Público o el Sistema para el Desarrollo Integral de la Familia del Estado no consienten en la adopción, deberán expresar la causa en que se funden, la que el juez calificará tomando en cuenta los intereses del menor o incapaz y el respeto a sus derechos fundamentales.
 
 > <small>(DEROGADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2012)</small>
 
@@ -3199,23 +3241,27 @@ La custodia es un derecho y obligación que corresponde a quienes ejercen la pat
 
 En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores de edad. En caso de desacuerdo, el Juez resolverá en el juicio respectivo lo conducente oyendo al Ministerio Público.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
 
-En este supuesto, con base en el interés superior del menor de edad, éste quedará bajo los cuidados y atenciones de uno o ambos progenitores, atendiendo a lo que el Juez considere más benéfico.
+En este supuesto, con base en el interés superior del menor de edad, éste quedará bajo los cuidados y atenciones de ambos progenitores o de uno de ellos, atendiendo a lo que el Juez considere más benéfico
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
 
-El cónyuge que no ejerza la custodia estará obligado a colaborar en la alimentación del menor de edad y conservará los derechos de vigilancia y de convivencia con el mismo, conforme a las modalidades previstas en el convenio o resolución judicial.
+En caso de que se considere más benéfico un régimen de guarda y custodia exclusiva, el cónyuge que no ejerza la custodia estará obligado a colaborar en la alimentación del menor de edad y conservará los derechos y obligaciones de vigilancia y de convivencia con el mismo, conforme a las modalidades previstas en el convenio o resolución judicial.
 
-Durante la tramitación del juicio y a petición de cualquiera de las partes, el Juez podrá proveer respecto de la guarda y custodia, así como de la convivencia como medida provisional.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
+Durante la tramitación del juicio y a petición de cualquiera de las partes, el Juez podrá proveer como medida provisional, respecto de la guarda y custodia compartida o exclusiva, y en su caso de la convivencia.
 
 Teniendo en todo momento ambos progenitores, la obligación de evitar cualquier conducta de alienación parental hacia sus hijos.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2021)</small>
 
 ###### Artículo 440.
 
-Los que ejercen la patria potestad, aún cuando no tengan la custodia, tienen el derecho de convivencia con los descendientes, salvo que exista peligro para éstos.
+Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con los descendientes, a través de una relación personal, de contacto directo y de modo regular que beneficie a los hijos, salvo que exista peligro para estos.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
 No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición a la petición de cualquiera de ellos, el Juez de lo Familiar resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
 
@@ -3241,9 +3287,11 @@ La anterior custodia podrá terminar por decisión del pariente que la realiza p
 
 Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 444.
 
-Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejerzan, sin permiso de ellos o decreto de al (sic) autoridad competente.
+Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejerzan, sin permiso de ellos o decreto de la autoridad competente.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
@@ -3329,15 +3377,19 @@ I.- De la autorización judicial para la enajenación, gravamen o hipotecas de b
 
 II.- De un tutor para negocios judiciales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 458.
 
-Los que ejerzan la patria potestad, no pueden enajenar ni gravar de ningún modo los bienes inmuebles ni los muebles preciosos que correspondan al hijo, ni contraer deudas que obliguen a éste sino por causa de absoluta necesidad o de evidente beneficio previa la autorización del juezo (sic) competente.
+Los que ejerzan la patria potestad, no pueden enajenar ni gravar de ningún modo los bienes inmuebles ni los muebles preciosos que correspondan al hijo, ni contraer deudas que obliguen a éste sino por causa de absoluta necesidad o de evidente beneficio previa la autorización del juez competente.
 
 Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos; ni dar fianza en representación de los hijos.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 459.
 
-Siempre que el juez conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso pertenteciente (sic) al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó, y para que el resto se invierta en la adquisición de un inmueble o se imponga con segura hipoteca en favor del menor. Al efecto, el precio de la venta se depositará en una institución de crédito, y la persona que ejerce la patria potestad no podrá disponer de él, sin orden judicial.
+Siempre que el juez conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó, y para que el resto se invierta en la adquisición de un inmueble o se imponga con segura hipoteca en favor del menor. Al efecto, el precio de la venta se depositará en una institución de crédito, y la persona que ejerce la patria potestad no podrá disponer de él, sin orden judicial.
 
 ###### Artículo 460.
 
@@ -3399,9 +3451,9 @@ I.- Cuando el que la ejerza sea condenado expresamente a la pérdida de ese dere
 
 II.- En los casos de divorcio, teniendo en cuenta lo que dispone el Artículo 293 de este Código;
 
-> <small>(REFORMADA P.O. 5 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
 
-III.- Cuando por las costumbres de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o el desarrollo psicosexual, afectivo, intelectual o física de los hijos, aún cuando estos hechos no cayeren bajo la sanción de la normatividad penal;
+III.- Por malos tratamientos, abandono sin causa justificada de sus deberes de cuidado, alimentarios y en general aquellos inherentes a la patria potestad, o cuando por comprometer la salud, la seguridad o el desarrollo psicológico, sexual, afectivo, intelectual o físico de los hijos, aun cuando estos hechos no cayeren bajo la sanción de la normatividad penal;
 
 > <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
@@ -3419,9 +3471,9 @@ VI.- Cuando el que ejerza incurra en conductas de violencia familiar en donde la
 
 VII.- Cuando quien la ejerza abandone al menor de edad por más de sesenta días naturales si lo confió a familiares que tengan relación con el menor de edad hasta el tercer grado;
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
 
-VIII.- Cuando quien la ejerza sea condenado por algún delito doloso y se acredite alguna afectación al interés superior del menor;
+VIII.- Cuando quien la ejerza sea condenado por algún delito doloso en el que la víctima sea el menor sobre quien ejerce la patria potestad o se acredite alguna afectación al interés superior del menor;
 
 > <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -3442,6 +3494,10 @@ XII.- Cuando se realicen conductas que provoquen alienación parental de acuerdo
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2015)</small>
 
 El progenitor que perdió la patria potestad por el abandono de sus deberes alimentarios, la podrá recuperar, siempre y cuando compruebe que ha cumplido con ésta obligación por más de un año, otorgue garantía anual, se le haya realizado un estudio de su situación económica y de su comportamiento actual, así como un diagnóstico psicológico; dichos estudios serán realizados por personal del Sistema para el Desarrollo Integral de la Familia del Estado o por el perito en la materia que el propio juzgador determine.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2021)</small>
+
+En todos los casos el Juez deberá valorar que la declaración de pérdida de la patria potestad sea consecuente al Interés superior de la niña, niño o adolescente involucrado.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
@@ -3495,6 +3551,10 @@ V.- Por negar o no permitir se lleven a cabo las convivencias decretadas por aut
 
 VI.- Cuando en una resolución judicial firme, se determine la existencia de alienación parental, respecto al progenitor que la haya generado.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2021)</small>
+
+En todos los casos el Juez deberá valorar que la declaración de suspensión de la patria potestad sea consecuente al interés superior de la niña, niño o adolescente involucrado.
+
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
 ###### Artículo 470.
@@ -3525,15 +3585,13 @@ Tienen incapacidad natural y legal:
 
 I.- Los menores de edad;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
 
-II.- Las personas mayores de edad con discapacidad intelectual; aún cuando tengan intervalos lúcidos. Por discapacidad intelectual se entenderá privación o disminución de la razón que provoque inseguridad propia o ajena, o impida expresar clara e inequívocamente la voluntad;
+II.- Las personas mayores de edad que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter física, psicológica, afectiva o sensorial, o que por la adicción a sustancias tóxicas como el alcohol, los psicotrópicos o los estupefacientes; siempre que debido a esta limitación, o a la alteración en la inteligencia que esto les provoque, no puedan gobernarse y obligarse por sí mismos, o manifestar determinantemente su voluntad por algún medio.
 
-III.- Los sordo-mudos que no saben leer ni escribir;
+III.- (DEROGADA, P.O. 28 DE JUNIO DE 2021)
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2009)</small>
-
-IV.- Los ebrios consuetudinarios, drogadictos o toxicómanos.
+IV.- (DEROGADA, P.O. 28 DE JUNIO DE 2021)
 
 ###### Artículo 473.
 
@@ -3607,9 +3665,11 @@ Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascen
 
 El cargo de tutor de la persona con discapacidad intelectual, sordomudo, ebrio consuetudinario, drogadicto o toxicómano, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 489.
 
-La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia defintiva (sic), que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
+La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
 
 ###### Artículo 490.
 
@@ -3725,9 +3785,11 @@ Cuando haya dos o más hijos, será preferido el que viva en compañía del padr
 
 El padre, y por muerte o incapacidad de éste, la madre, son de derecho tutores de sus hijos, solteros o viudos, cuando ellos no tengan hijos que puedan desempeñar la tutela.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 512.
 
-A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente: el abuelo paterno, el materno, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 505; observándose, en su caso, lo que dispone el artículo 506.
+A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella los abuelos paternos y maternos, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 505; de manera sucesiva, pero observándose en su caso, lo que dispone el artículo 506.
 
 ###### Artículo 513.
 
@@ -4037,9 +4099,11 @@ Si los bienes del incapacitado, enumerados en el artículo que precede, aumentan
 
 El juez responde subsidiariamente con el tutor, de los daños y perjuicios que sufra el incapacitado por no haber exigido que se caucione el manejo de la tutela.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 554.
 
-Si el tutor, dentro de tres meses después de aceptado su nombramiento, no pudiere dar la garantía por las cantidades que fija el artculo (sic) 551, se procederá al nombramiento de nuevo tutor.
+Si el tutor, dentro de tres meses después de aceptado su nombramiento, no pudiere dar la garantía por las cantidades que fija el artículo 551, se procederá al nombramiento de nuevo tutor.
 
 ###### Artículo 555.
 
@@ -4111,9 +4175,11 @@ Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y ed
 
 Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 567.
 
-Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no puedieren (sic) hacerlo, el tutor, con autorización del juez, quien oirá el parecer del curador y del Consejo de Tutelas, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, pues continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+Si los pupilos en situación de calle no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del juez, quien oirá el parecer del curador y del Consejo de Tutelas, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, pues continuará vigilando al menor a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
 
 ###### Artículo 568.
 
@@ -4149,9 +4215,11 @@ Hecho el inventario no se admite al tutor rendir prueba contra de él en perjuic
 
 Se exceptúa de lo dispuesto en el párrafo anterior los casos en que el error del inventario sea evidente o cuando se trate de un derecho claramente establecido.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 576.
 
-Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de la mayor edad, y el curador o cuaquier (sic) pariente, pueden ocurrir al juez, pidiendo que los bienes omitidos se listen; y el juez, oído el parecer del tutor, determinará en justicia.
+Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir al juez, pidiendo que los bienes omitidos se listen; y el juez, oído el parecer del tutor, determinará en justicia
 
 ###### Artículo 577.
 
@@ -4187,9 +4255,11 @@ El tutor que no haga las imposiciones dentro de los plazos señalados en los dos
 
 Mientras se hacen las imposiciones a que se refieren los Artículos 580 y 581, el tutor depositará las cantidades que perciba, en una institución de crédito en el Estado.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 584.
 
-Los bienes inmuebles, los derechos anexos a ellos, y los muebles preciosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor, debidamente justificada y previas (sic) la conformidad del curador y la autorización judicial.
+Los bienes inmuebles, los derechos anexos a ellos, y los muebles preciosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor, debidamente justificada y previo a la conformidad del curador y la autorización judicial.
 
 ###### Artículo 585.
 
@@ -4533,9 +4603,11 @@ Los vocales del Consejo de Tutela serán designados cada tres años dentro de lo
 
 Quienes ya se hayan desempeñado en el Consejo de Tutela como vocales o Presidente, pueden ser confirmados en el cargo para los períodos subsecuentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 655.
 
-El Consejo de Tutela es un órgano de vigilancia y de información, que, además de las funciones que expresamente le asignan varios de los artículos que preceden, tiene las obligacions (sic) siguientes:
+El Consejo de Tutela es un órgano de vigilancia y de información, que, además de las funciones que expresamente le asignan varios de los artículos que preceden, tiene las obligaciones siguientes:
 
 I.- Formar y remitir a los jueces civiles correspondientes, una lista de las personas de la localidad que por su aptitud legal y moral, puedan desempeñar la tutela, para que de entre ellas se nombren los tutores y curadores, en los casos que estos nombramientos correspondan al juez;
 
@@ -4865,9 +4937,11 @@ II.- El ascendiente que en ejercicio de la patria potestad administre bienes que
 
 Si hubiere legatarios, el cónyuge, los descendientes y ascendientes darán la garantía legal por la parte de bienes que correspondan a los legatarios, si no hubiere división, ni administración general.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 717.
 
-Los que entren en la posesión provisional tienen derecho de pedir cuentas al representante del ausente y éste entregará los bienes y dará las cuentas en los términos prevenidos en los capítiulos (sic) XI y XIII del título IX de este Libro. El plazo señalado en el artículo 625, se contará desde el día en que el heredero haya sido declarado con derecho a la referida posesión.
+Los que entren en la posesión provisional tienen derecho de pedir cuentas al representante del ausente y éste entregará los bienes y dará las cuentas en los términos prevenidos en los capítulos XI y XIII del título IX de este Libro. El plazo señalado en el artículo 625, se contará desde el día en que el heredero haya sido declarado con derecho a la referida posesión.
 
 ###### Artículo 718.
 
@@ -5281,13 +5355,17 @@ Los bienes son muebles por su naturaleza o por disposición de la ley.
 
 Son muebles por su naturaleza los cuerpos que pueden trasladarse de un lugar a otro, ya se muevan por sí mismos, ya por efecto de una fuerza exterior.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 779.
 
-Son bienes muebles por determinación de la ley, las obligaciones y los derechos o acciones que tienen por objeto cosas muebles o cantidades exigibles en virtud de acción personal.
+Son bienes muebles por determinación de la ley, los títulos, las obligaciones y los derechos o acciones que tienen por objeto cosas muebles o cantidades exigibles en virtud de acción personal.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
 
 ###### Artículo 780.
 
-Por igual razón se reputan muebles las acciones que cada socio tiene en las asociaciones o sociedades, aun cuando a éstas pertenezcan algunos bienes inmuebles o su objeto principal o único se refiera a esa clase de bienes.
+Por igual razón se reputan muebles las acciones, títulos y participaciones que cada socio tiene en las asociaciones, sociedades o fideicomisos, aun cuando a éstas pertenezcan algunos bienes inmuebles o su objeto principal o único se refiera a esa clase de bienes.
 
 ###### Artículo 781.
 
@@ -7815,9 +7893,11 @@ Los herederos instituidos sin designación de la parte que a cada uno correspond
 
 El heredero instituido en cosa cierta y determinada debe tenerse por legatario.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1295.
 
-Aunque el testador nombre algunos herederos individualmente y a otros colectivamente, como si dijera: "Instituyo por mis herederos a Pedro y a Pablo y a los hijos de Francisco" los colectivamente nombrados se considerarán como si fuesen individualmente a no ser que se conozca de un modo claro que ha sido otra la voluntad del testador.
+Aunque el testador nombre algunos herederos individualmente y a otros colectivamente, estos últimos se considerarán como si fuesen individualmente a no ser que se conozca de un modo claro que ha sido otra la voluntad del testador.
 
 ###### Artículo 1296.
 
@@ -8037,9 +8117,11 @@ La prueba de que el testador sabía que la cosa era ajena, corresponde al legata
 
 Si el testador ignoraba que la cosa legada era ajena, es nulo el legado.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1347.
 
-Es válido el legado si el testador, después de otorgardo (sic) el testamento, adquiere la cosa que al otorgarlo no era suya.
+Es válido el legado si el testador, después de otorgado el testamento, adquiere la cosa que al otorgarlo no era suya.
 
 ###### Artículo 1348.
 
@@ -8907,9 +8989,11 @@ DE LA SUCESION DE LA BENEFICENCIA DEL ESTADO.
 
 A falta de todos los herederos llamados en los capítulos anteriores, sucederá la Beneficencia del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1518.
 
-Cuando sea heredera la Beneficiencia (sic) del Estado y entre lo que le corresponda existen bienes raíces que no pueda adquirir conforme al artículo 27 de la Constitución Federal, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a la Beneficencia el precio que se obtuviere.
+Cuando sea heredera la Beneficencia del Estado y entre lo que le corresponda existen bienes raíces que no pueda adquirir conforme al artículo 27 de la Constitución Federal, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a la Beneficencia el precio que se obtuviere.
 
 ## TITULO QUINTO.
 
@@ -9051,11 +9135,11 @@ Nadie puede aceptar ni repudiar sin estar cierto de la muerte de aquel de cuya h
 
 Conocida la muerte de aquel a quien se hereda, se puede renunciar la herencia dejada bajo condición, aunque ésta no se haya cumplido.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1549.
 
-Las personas morales capaces de adquirir pueden, por conducto de sus representantes legítimos, aceptar o repudiar herencias; pero tratándose de corporaciones de carácter oficial o de instituciones de Beneficiencia (sic) Privada, no pueden repudiar la herencia, las primeras, sin aprobación judicial, previa audiencia del Ministerio Público, y las segundas, sin sujetarse a las disposiciones relativas de la Ley de Beneficencia.
-
-Los establecimientos públicos no pueden aceptar ni repudiar herencias sin aprobación de la autoridad administrativa superior de quien dependen.
+Las personas morales capaces de adquirir pueden, por conducto de sus representantes legítimos, aceptar o repudiar herencias; pero tratándose de corporaciones de carácter oficial o de instituciones de Beneficencia Privada, no pueden repudiar la herencia, las primeras, sin aprobación judicial, previa audiencia del Ministerio Público, y las segundas, sin sujetarse a las disposiciones relativas de la Ley de Beneficencia.
 
 ###### Artículo 1550.
 
@@ -9107,9 +9191,11 @@ No podrá ser albacea el que no tenga la libre disposición de sus bienes.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1561.
 
-No pueden ser albaceas, excepto en el caso de ser hrederos (sic) únicos:
+No pueden ser albaceas, excepto en el caso de ser herederos únicos:
 
 I.- Los magistrados y jueces que estén ejerciendo jurisdicción en el lugar en que se abre la sucesión;
 
@@ -9473,9 +9559,11 @@ El albacea definitivo, dentro del término que fije el Código de Procedimientos
 
 Si el albacea no cumpliere lo dispuesto en el artículo anterior o si promovida la formación de inventarios no los presente dentro del término respectivo, podrá hacer una u otra cosa, según el caso, cualquiera de los herederos o legatarios interesados en la sucesión.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1633.
 
-El inventario se formará según lo disponga el Código de Procedimientos Civiles. Si el albacea no lo presenta dentro del término legal, será promovido (sic).
+El inventario se formará según lo disponga el Código de Procedimientos Civiles. Si el albacea no lo presenta dentro del término legal, será removido.
 
 ###### Artículo 1634.
 
@@ -9707,9 +9795,11 @@ IV.- Porque el consentimiento no se haya manifestado en la forma que la ley esta
 
 Los contratos se perfeccionan por el mero consentimiento, excepto aquellos que deben revestir una forma establecida por la ley. Desde que se perfeccionan obligan a los contratantes no sólo al cumplimiento de lo expresamente pactado, sino también a las consecuencias que, según su naturaleza, son conforme a la buena fe, al uso a la ley.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1678.
 
-La validez y el cumplimiento de los contratos no puede dejarse al arbitrio de uno de los contratantes.
+La validez, interpretacion y el cumplimiento de los contratos no puede dejarse al arbitrio de uno de los contratantes.
 
 CAPACIDAD.
 
@@ -9979,9 +10069,11 @@ El error sobre cualidades accidentales, sólo da derecho a indemnización.
 
 El error de cálculo sólo da lugar a que se rectifique.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1698.
 
-Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes; y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
+Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir al error o mantener en él a alguno de los contratantes; y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
 
 ###### Artículo 1699.
 
@@ -9995,17 +10087,21 @@ Si ambas partes proceden con dolo o mala fe, ninguna de ellas podrá alegar la n
 
 Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1702.
 
-Hay violencia cuando se emplea fuerza física, o amenazas que importen peligro de perder la vida, la honra, la libertad, la salud, o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
+Hay violencia cuando se emplea fuerza física, o amenazas hacia el contratante, con lo cual se le cause una perturbación angustiosa en su persona, importando peligro real o ficticio de perder la vida, la honra, la libertad, la salud, una parte considerable de sus bienes, o de su cónyuge, sus ascendientes, sus descendientes o de sus parientes colaterales.
 
 ###### Artículo 1703.
 
 El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1704.
 
-Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente puedan resultar de la celebración o no celebración del contrato y que importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
+Para calificar la existencia de dolo, mala fe o violencia, no serán tomadas en cuenta las consideraciones generales que hicieren los contratantes sobre los provechos o perjuicios que puedan resultar de la celebración o no del contrato, en tanto las mismas no impliquen engaño alguno o amenaza para los contratantes, ni induzcan al error en cuanto al objeto o condiciones del contrato.
 
 ###### Artículo 1705.
 
@@ -10085,9 +10181,23 @@ I.- La cosa que el obligado debe dar;
 
 II.- El hecho que el obligado debe hacer o no hacer.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1708.
 
-La cosa objeto del contrato debe: 1o.- Existir en la naturaleza; 2o.- Ser determinada o determinable en cuanto a su especie; 3o.- Estar en el comercio.
+La cosa objeto del contrato debe:
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+I.- Existir en la naturaleza;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+II.- Ser determinada o determinable en cuanto a su especie;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+III.- Estar en el comercio.
 
 ###### Artículo 1709.
 
@@ -10109,13 +10219,17 @@ Es imposible el hecho que no puede existir porque es incompatible con una ley de
 
 No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1713.
 
-Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
+Es ilícito el hecho que es contrario a la ley o a las buenas costumbres.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1714.
 
-La causa determinante de la voluntad de los que contratan, tampoco debe ser contraria a las leyes de orden público ni a las buenas costumbres.
+La causa determinante de la voluntad de los que contratan, tampoco debe ser contraria a la ley ni a las buenas costumbres.
 
 FORMA.
 
@@ -10133,9 +10247,11 @@ Cuando se exija la forma escrita para el contrato, los documentos relativos debe
 
 CLAUSULAS.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1718.
 
-Los contratantes pueden poner las cláusulas que crean convenientes; pero las que se refieren a requisitos esenciales del contrato, o sean consecuencia de su naturaleza ordinaria se tendrán por puestas aunque no se expresen. Las cláusulas que sólo sean consecuencia de la naturaleza del contrato, son renunciables, pero la renuncia deberá constar expresa y claramente.
+Los contratantes pueden poner las cláusulas que crean convenientes; debiendo pactar por lo menos aquellas que se refieren a requisitos esenciales del contrato, por lo que aquellas que sean consecuencia de su naturaleza, se suplirán por lo expresado en este Código, y son renunciables, pero la renuncia deberá constar expresa y claramente
 
 ###### Artículo 1719.
 
@@ -10409,9 +10525,11 @@ El gestor, tan pronto como sea posible, debe dar aviso de su gestión al dueño 
 
 Si no fuere posible dar ese aviso, el gestor debe continuar su gestión hasta que concluya el asunto.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1777.
 
-El dueño de un asunto que hubiere sido últimamente gestionado, debe cumplir las obligaciones que el gestor haya contraído a nombre de él y pagar los gastos de acuerdo con lo prevenido en los artículos siguientes.
+El dueño de un asunto que hubiere sido útilmente gestionado, debe cumplir las obligaciones que el gestor haya contraído a nombre de él y pagar los gastos de acuerdo con lo prevenido en los artículos siguientes.
 
 ###### Artículo 1778.
 
@@ -10451,9 +10569,11 @@ El que obrando ilícitamente o contra las buenas costumbres cause daño a otro, 
 
 El incapaz que cause daño debe repararlo, salvo que la responsabilidad recaiga en las personas de él encargadas, conforme a lo dispuesto en los artículos 1793, 1794, 1795 y 1796.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1786.
 
-Cuando al ejercitar un derecho se causa daño a otro, hay obligación de indemnizarle si se demuestra que el derecho sólo se ejercitó a fin de causar el daño, sin utilidad para el titular del derecho.
+Cuando al ejercitar un derecho se causa daño o perjuicio a otro, hay obligación de indemnizarle si se demuestra que no implica utilidad para el titular del derecho.
 
 ###### Artículo 1787.
 
@@ -10466,6 +10586,10 @@ Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el art�
 ###### Artículo 1789.
 
 La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2021)</small>
+
+En el caso de daño corporal o físico, para fijar la reparación se deberán seguir las reglas que señala la Ley Federal del Trabajo, dependiendo si la afectación a la integridad de la persona es temporal, permanente parcial o total, o en su caso se produjo su muerte.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2010)</small>
 
@@ -10551,7 +10675,9 @@ El dueño de un animal pagará el daño causado por éste, si no probare algunas
 
 I.- Que lo guardaba y vigilaba con el cuidado necesario;
 
-II.- Que el animal fué provocado;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+II.- Que el animal fue provocado;
 
 III.- Que hubo imprudencia por parte del ofendido;
 
@@ -10611,9 +10737,11 @@ La condición es suspensiva cuando de su cumplimiento depende la existencia de l
 
 La condición es resolutoria cuando cumplida resuelve la obligación volviendo las cosas al estado que tenían, como si esa obligación no hubiere existido.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1812.
 
-Cumplida la condición se retrotrae al tiempo en que la obligación fué formada, a menos que los efectos de la obligación o su resolución, por la voluntad de las partes o por la naturaleza del acto, deban ser referidas a fecha diferente.
+Cumplida la condición se retrotrae al tiempo en que la obligación fue formada, a menos que los efectos de la obligación o su resolución, por la voluntad de las partes o por la naturaleza del acto, deban ser referidas a fecha diferente.
 
 ###### Artículo 1813.
 
@@ -10645,9 +10773,11 @@ La obligación contraída bajo la condición de que un acontecimiento no se veri
 
 Si no hubiere tiempo fijado, la condición deberá reputarse cumplida transcurrido el que verosímilmente se hubiera querido señalar, atenta la naturaleza de la obligación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1819.
 
-Cuando las obligaciones se hayan contraído bajo condición suspensiva, y pendiente ésta, se perdiere, deteriorare o bien se mejorare la cosa que fué objeto del contrato, se observarán las disposiciones siguientes:
+Cuando las obligaciones se hayan contraído bajo condición suspensiva, y pendiente ésta, se perdiere, deteriorare o bien se mejorare la cosa que fue objeto del contrato, se observarán las disposiciones siguientes:
 
 I.- Si la cosa se pierde sin culpa del deudor, quedará extinguida la obligación;
 
@@ -10871,9 +11001,11 @@ El acreedor que hubiese recibido todo o parte de la deuda, o que hubiese hecho q
 
 Si falleciere alguno de los acreedores solidarios dejando más de un heredero, cada uno de los coherederos sólo tendrá derecho de exigir o recibir la parte del crédito que le corresponda en proporción a su haber hereditario, salvo que la obligación sea indivisible.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1865.
 
-El deudor de varios acreedores solidarios se libra pagando a cualquiera de éstos, a no ser que haya sido requirido (sic) judicialmente por alguno de ellos, en cuyo caso deberá hacer el pago al demandante.
+El deudor de varios acreedores solidarios se libra pagando a cualquiera de éstos, a no ser que haya sido requerido judicialmente por alguno de ellos, en cuyo caso deberá hacer el pago al demandante.
 
 ###### Artículo 1866.
 
@@ -10993,7 +11125,9 @@ En el caso del artículo que precede, si no se designa la calidad de la cosa, el
 
 En los casos en que la obligación de dar cosa cierta importe la traslación de la propiedad de esa cosa, y se pierde o deteriore en poder del deudor, se observarán las reglas siguientes:
 
-I.- Si la pérdida fué por culpa del deudor, este responderá al acreedor por el valor de la cosa y por los daños y perjuicios;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+I.- Si la pérdida fue por culpa del deudor, este responderá al acreedor por el valor de la cosa y por los daños y perjuicios;
 
 II.- Si la cosa se deteriorare por culpa del deudor, el acreedor puede optar por la rescisión del contrato y el pago de daños y perjuicios, o recibir la cosa en el estado que se encuentre y exigir la reducción de precio y el pago de daños y perjuicios;
 
@@ -11212,6 +11346,10 @@ El deudor sustituto puede oponer al acreedor las excepciones que se originen de 
 ###### Artículo 1928.
 
 Cuando se declara nula la sustitución de deudor, la antigua deuda renace con todos sus accesorios; pero con la reserva de derechos que pertenecen a tercero de buena fe.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2021)</small>
+
+Artículo 1928 A.- En caso de que el deudor autorice a terceros a realizar pagos o abonos por cuenta y nombre suyo, los mismos no producirán efectos de sustitución, y se contarán únicamente en caso de que hayan sido de utilidad al acreedor.
 
 ### CAPITULO III.
 
@@ -11437,9 +11575,11 @@ La consignación se hará siguiéndose el procedimiento que establezca el Códig
 
 Si el juez declara fundada la oposición del acreedor para recibir el pago, el ofrecimiento y la consignación se tienen como no hechos.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1973.
 
-Aprobada la consignación por el juez, la obligación queda extinguida con todos sus efectos.
+Aprobada la consignación por el juez, la obligación queda extinguida con todos sus efectos, desde la fecha en que se hubiera realizado.
 
 ###### Artículo 1974.
 
@@ -11491,13 +11631,17 @@ Los daños y perjuicios deben ser consecuencia inmediata y directa de la falta d
 
 Nadie está obligado al caso fortuito sino cuando ha dado causa o contribuido a él, cuando ha aceptado expresamente esa responsabilidad, o cuando la ley la impone.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1983.
 
-Si la cosa se ha perdido, o ha sufrido un detrimento tan grave que, a juicio de peritos, no pueda emplearse en el uso a que naturalmente está destinada, el dueño debe ser indemnizado de todo el valor legítimo de ella.
+Si la cosa se ha perdido, o ha sufrido un detrimento que, a juicio de peritos, no pueda emplearse en el uso a que naturalmente está destinada, el dueño debe ser indemnizado de todo el valor legítimo de ella.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1984.
 
-Si el deterioro es menos grave, sólo el importe de éste se abonará al dueño al restituirse la cosa.
+Si el deterioro sufrido por la cosa permite su uso ordinario, al restituirse la cosa, solo se pagará el importe que implique el mismo.
 
 ###### Artículo 1985.
 
@@ -11507,9 +11651,11 @@ El precio de la cosa será el que tendría al tiempo de ser devuelta al dueño, 
 
 Al estimar el deterioro de una cosa se atenderá no solamente a la disminución que él causó en el precio de ella, sino a los gastos que necesariamente exija la reparación.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 1987.
 
-Al fijar el valor y el deterioro de una cosa, no se atenderá al precio estimativo o de afección, a no ser que se pruebe que el responsable destruyó o deterioro la cosa con el objeto de lastimar la afección del dueño; el aumento que por estas causas se haga no podrá (sic)
+Al fijar el valor y el deterioro de una cosa, no se atenderá al precio estimativo o de afección, a no ser que se pruebe que el responsable destruyó o deterioro la cosa con el objeto de lastimar la afección del dueño; el aumento que por estas causas se haga, se determinará como daño moral conforme a lo dispuesto por el artículo 1790.
 
 ###### Artículo 1988.
 
@@ -11619,9 +11765,11 @@ Si al denunciarse el pleito o durante él, reconoce el que enajenó el derecho d
 
 Si la finca que se enajenó se halla gravada, sin haberse hecho mención de ello en la escritura, con alguna carga o servidumbre voluntaria o aparente, el que adquirió puede pedir la indemnización correspondiente al gravamen, o la rescisión del contrato.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2010.
 
-Las acciones rescisorias y de indemnización a que se refiere el artículo que precede, prescriben en un año, que se contará para la primera, desde el día en que se perfeccionó el contrato y para la segunda, desde el día en que el adquirente tenga noticia de la carga o servidumbre.
+Las acciones rescisorias y de indemnización a que se refiere el artículo que precede, prescriben en dos años, que se contará para la primera, desde el día en que se perfeccionó el contrato y para la segunda, desde el día en que el adquirente tenga noticia de la carga o servidumbre.
 
 ###### Artículo 2011.
 
@@ -11677,9 +11825,11 @@ Si la cosa enajenada pereciere o mudare de naturaleza a consecuencia de los vici
 
 Si el enajenante no conocía los vicios, solamente deberá restituir el precio y abonar los gastos del contrato, en el caso de que el adquirente los haya pagado.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2021.
 
-Las acciones que nacen de lo dispuesto en los artículos del 2014 al 2020, se extinguen a los seis meses, contados desde la entrega de la cosa enajenada, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 2009 y 2010.
+Las acciones que nacen de lo dispuesto en los artículos del 2014 al 2020, se extinguen a los dos años tratándose de bienes inmuebles, y al año tratándose de bienes muebles, contados desde la entrega de la cosa enajenada, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 2009 y 2010.
 
 ###### Artículo 2022.
 
@@ -11751,9 +11901,11 @@ Si el acto fuere oneroso, la nulidad sólo podrá tener lugar en el caso y térm
 
 Si el acto fuere gratuito, tendrá lugar la nulidad aun cuando haya habido buena fe por parte de ambos contratantes.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2038.
 
-Hay insolvencia cuando la suma de los bienes y créditos del deudor, estimados en su justo precio, no iguala al importe de sus deudas. La mala fe, en este caso, consiste en el conocimiento de ese déficit.
+Hay insolvencia cuando la suma de los ingresos, bienes y créditos del deudor, estimados en su justo precio, no iguala al importe de sus deudas. La mala fe, en este caso, consiste en el conocimiento de ese déficit.
 
 ###### Artículo 2039.
 
@@ -11841,9 +11993,11 @@ EXTINCION DE LAS OBLIGACIONES.
 
 DE LA COMPENSACION.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2057.
 
-Tiene lugar la compensación cuando dos persnas (sic) reúnen la calidad de deudores y acreedores recíprocamente y por su propio derecho.
+Tiene lugar la compensación cuando dos personas reúnen la calidad de deudores y acreedores recíprocamente y por su propio derecho.
 
 ###### Artículo 2058.
 
@@ -12005,9 +12159,11 @@ La novación es nula si lo fuere también la obligación primitiva, salvo que la
 
 Si la novación fuere nula, subsistirá la antigua obligación.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2091.
 
-La novación extingue la obligación principal y las obligaciones accesorias. El acreedor puede, por una reserva expresa, impedir la extinción de las obligaciones accesorias, que entones (sic) pasan a la nueva.
+La novación extingue la obligación principal y las obligaciones accesorias El acreedor puede, por una reserva expresa, impedir la extinción de las obligaciones accesorias, que entonces pasan a la nueva.
 
 ###### Artículo 2092.
 
@@ -12257,9 +12413,11 @@ DE LOS QUE PUEDEN VENDER Y COMPRAR.
 
 Los extranjeros y las personas morales no pueden comprar bienes raíces, sino sujetándose a lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en sus leyes reglamentarias.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2146.
 
-Los consortes no pueden celebrar entre sí el contrato de compraventa, sino de acuerdo con lo dispuesto en los artículos 170 y 171.
+El contrato de compraventa sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
 
 ###### Artículo 2147.
 
@@ -12549,9 +12707,11 @@ El permutante que sufra evicción de la cosa que recibió en cambio, podrá reiv
 
 Lo dispuesto en el artículo anterior no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2201.
 
-Con excepción de lo relativo al precio, son aplicables a este contrato las feglas (sic) de la compraventa en cuanto no se opongan a los artículos anteriores.
+Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compraventa en cuanto no se opongan a los artículos anteriores.
 
 ## TITULO CUARTO.
 
@@ -12632,6 +12792,10 @@ Es nula la donación que comprenda la totalidad de los bienes del donante, si es
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2015)</small>
 
 El donante deberá acreditar ante notario que cuenta con otros bienes para garantizar su subsistencia, tratándose de bienes inmuebles mediante la certificación que expida la Dirección General del Registro Público de la Propiedad y del Comercio del Estado o con el documento idóneo tratándose de bienes de naturaleza diversa.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2021)</small>
+
+Si el notario público considera que no se garantiza la subsistencia del donante con los bienes mencionados en el párrafo anterior, no podrá expedir escritura pública de donación sin incluir una cláusula de usufructo vitalicio sobre los bienes de la donación, para con ello garantizar la subsistencia del donante.
 
 ###### Artículo 2219.
 
@@ -13553,9 +13717,11 @@ Si la cosa perece por caso fortuito, de que el comodatario haya podido garantirl
 
 Si la cosa ha sido estimada al prestarla, su pérdida aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio, si no hay convenio expreso en contrario.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2378.
 
-Si la cosa se deteriora por el sólo efecto del uso para que fué prestada, y sin culpa del comodatario, es éste responsable del deterioro.
+Si la cosa se deteriora por el sólo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
 
 ###### Artículo 2379.
 
@@ -13997,9 +14163,11 @@ III.- A practicar, bajo la responsabilidad que este Código impone al mandatario
 
 El procurador o abogado que acepte el mandato de una de las partes, no puede admitir el del contrario, en el mismo juicio, aunque renuncie el primero.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2462.
 
-El procurador o abogado que revele a la parte contraria los secretos de su poderdante o cliente, o le suministre documentos o datos que lo perjuidiquen (sic), será responsable de todos los daños y perjuicios, quedando además sujeto a lo que para estos casos dispone el Código Penal.
+El procurador o abogado que revele a la parte contraria los secretos de su poderdante o cliente, o le suministre documentos o datos que lo perjudiquen, será responsable de todos los daños y perjuicios, quedando además sujeto a lo que para estos casos dispone el Código Penal.
 
 ###### Artículo 2463.
 
@@ -14315,9 +14483,11 @@ Los porteadores no son responsables de las cosas que no se les entreguen a ellos
 
 En el caso del artículo anterior, la responsabilidad es exclusiva de la persona a quien se entregó la cosa.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2526.
 
-La responsabilidad de todas las infracciones que durante el trasporte (sic) se cometan, de leyes o reglamentos fiscales o de policía, será del conductor y no de los pasajeros ni de los dueños de las cosas conducidas, a no ser que la falta haya sido cometida por estas personas.
+La responsabilidad de todas las infracciones que durante el transporte se cometan, de leyes o reglamentos fiscales o de policía, será del conductor y no de los pasajeros ni de los dueños de las cosas conducidas, a no ser que la falta haya sido cometida por estas personas.
 
 ###### Artículo 2527.
 
@@ -14947,9 +15117,11 @@ La deuda de juego o de apuesta prohibidos no puede compensarse, ni ser convertid
 
 El que hubiere firmado una obligación que en realidad tenía por causa una deuda de juego o de apuesta prohibidos, conserva, aunque se atribuya a la obligación una causa civilmente eficaz, la excepción que nace del artículo anterior, y se puede probar por todos los medios la causa real de la obligación.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2646.
 
-Si a una obligación de juego o apuesta prohibidas se le hubiere dado la forma de título a la orden o al portador, el suscritor (sic) debe pagarla al portador de buena fe; pero tendrá el derecho que le concede el artículo 2641.
+Si a una obligación de juego o apuesta prohibidas se le hubiere dado la forma de título a la orden o al portador, el suscriptor debe pagarla al portador de buena fe; pero tendrá el derecho que le concede el artículo 2641.
 
 ###### Artículo 2647.
 
@@ -16075,9 +16247,11 @@ Para que se paguen con la preferencia señalada los créditos comprendidos en la
 
 Si el concurso llega al período en que deba pronunciarse sentencia de graduación, sin que los acreedores hipotecarios o pignoraticios hagan uso de los derechos que les concede el artículo 2855, el concurso hará vender los bienes y depositará el importe del crédito y de los réditos correspondientes, observándose, en su caso, las disposiciones relativas a los ausentes.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2862.
 
-El concurso tiene derecho para redimir los gravámenes hipotecarios y pignoraticios que pesen sobre los bienes del deudor, o de pagar las deudas de que especialmente responden algunos de estos, y, entonces, esos bienes entrarán (sic) formar parte del fondo del concurso.
+El concurso tiene derecho para redimir los gravámenes hipotecarios y pignoraticios que pesen sobre los bienes del deudor, o de pagar las deudas de que especialmente responden algunos de estos, y, entonces, esos bienes entrarán a formar parte del fondo del concurso.
 
 ###### Artículo 2863.
 
@@ -16395,7 +16569,9 @@ I. Los testimonios de escrituras o actas notariales u otros documentos auténtic
 
 II. Las resoluciones y providencias judiciales que consten de manera auténtica;
 
-III. Los documentos privados físicos o electrónicos que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el fedatario público, el director del Registro Público, o la autoridad Judicial, se cercioró de la autenticidad de las firmas autógrafas o electrónicas avanzadas o fiables y de la voluntad de las partes. Dicha constancia deberá estar firmadas (sic) por los mencionados funcionarios y llevar el sello de la oficina respectiva.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+III. Los documentos privados físicos o electrónicos que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el fedatario público, el director del Registro Público, o la autoridad Judicial, se cercioró de la autenticidad de las firmas autógrafas o electrónicas avanzadas o fiables y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados funcionarios y llevar el sello de la oficina respectiva.
 
 En los documentos en que se utilice la firma electrónica avanzada o fiable, se incluirá en sus algoritmos el contenido del sello, y cuando sea posible en los formatos predeterminados, y al imprimirse se estamparán en el documento, de acuerdo con los parámetros señalados al efecto; de no ser posible esto último, el documento quedará validado con la sola firma electrónica avanzada o fiable.
 
@@ -16579,7 +16755,9 @@ Los nombres de los testigos que hayan declarado; el resultado de las declaracion
 
 Cualquiera que se crea con derecho a los bienes cuya inscripción se solicite mediante información de posesión, podrá alegarlo ante la autoridad judicial competente.
 
-La interposición de su demanda suspenderá el curso del expediente de información; si estuviere ya concluido y aprobado, deberá el juez ponerlo en conocimiento del registrador para que suspenda la inscripción; y si ya estuviese hecha, para que anote la inscripción de la demanda. Para que se suspenda la tramitación del expediente o de la inscripción así como para que se haga la anotación de ésta, es necesario que el demandante otorgue fianza de responer (sic) de los daños y perjuicios que se originen si su oposición se declara infundada.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+
+La interposición de su demanda suspenderá el curso del expediente de información; si estuviere ya concluido y aprobado, deberá el juez ponerlo en conocimiento del registrador para que suspenda la inscripción; y si ya estuviese hecha, para que anote la inscripción de la demanda. Para que se suspenda la tramitación del expediente o de la inscripción, así como para que se haga la anotación de ésta, es necesario que el demandante otorgue fianza de responder de los daños y perjuicios que se originen si su oposición se declara infundada.
 
 Si el opositor deja transcurrir seis meses sin promover en el juicio de oposición, quedará este sin efecto, haciéndose en su caso la cancelación que proceda.
 
@@ -17310,3 +17488,19 @@ P.O. 10 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 544.- SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 90; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 90 AL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 565 - SE REFORMAN LOS ARTÍCULOS 11; 14; 90, FRACCIÓN IV; 160, PÁRRAFO SEGUNDO; 210, FRACCIÓN II; 333; 345, 361; 413, FRACCIONES II, IV Y V; 417; 421, 439, SEGUNDO, TERCERO Y CUARTO PÁRRAFOS 440, PRIMER PÁRRAFO; 444; 458, PRIMER PÁRRAFO; 459; 466, FRACCIONES III, Y VIII; 472, FRACCIÓN II; 489; 512; 554, 567; 576; 584; 655, PRIMER PÁRRAFO; 717 779; 780; 1295; 1347; 1518; 1549; 1561, PRIMER PÁRRAFO, 1633, 1678, 1698, 1702; 1704; 1708; 1713; 1714; 1718; 1777, 1786; 1803, FRACCIÓN II; 1812; 1819, PRIMER PÁRRAFO; 1865; 1888, FRACCIÓN I; 1973; 1983; 1984; 1987; 2010; 2021; 2038; 2057, 2091; 2146, 2201, 2378, 2462; 2526; 2646; 2862; 2884, FRACCIÓN III; 2899, SEGUNDO PÁRRAFO, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 160, UN CUARTO PÁRRAFO AL ARTÍCULO 347 TER; LA FRACCIÓN VI AL ARTÍCULO 413, UN TERCER PÁRRAFO AL ARTÍCULO 466, UN SEGUNDO PÁRRAFO AL ARTÍCULO 469, LAS FRACCIONES I, II Y III AL ARTÍCULO 1708 UN SEGUNDO PÁRRAFO AL ARTÍCULO 1789, UN ARTÍCULO 1928 A; UN TERCER PÁRRAFO AL ARTÍCULO 2218 Y SE DEROGAN LAS FRACCIONES III Y IV DEL ARTÍCULO 472 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periodo (sic) Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes deberá reformar sus reglamentos en orden a que el Consejo Técnico de Adopciones sesione a más tardar dentro de los 30 días naturales posteriores a que la sentencia de declaratoria de perdida de la patria potestad sobre un menor de edad cause ejecutoria, y para dar cumplimiento a lo dispuesto en el Artículos (sic) 90 del Código Civil del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan a lo establecido en el presente decreto.
