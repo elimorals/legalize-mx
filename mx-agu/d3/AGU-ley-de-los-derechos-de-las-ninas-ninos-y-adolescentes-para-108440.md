@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2021-06-14"
+last_updated: "2021-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2021.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -737,7 +737,9 @@ XIV. Establecer las medidas para que en los servicios de salud se detecten y ati
 
 XV. Establecer medidas tendientes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones;
 
-XVI. Establecer medidas tendientes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+XVI. Establecer medidas tendentes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental; en el caso de que se identifiquen alteraciones de conducta o indicios de la existencia de trastornos mentales y del comportamiento se prestará atención inmediata de conformidad con lo establecido en la legislación aplicable;
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2020)</small>
 
@@ -2422,3 +2424,11 @@ P.O. 14 DE JUNIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 569.- SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 50 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
