@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2021-06-14"
+last_updated: "2021-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1019,7 +1019,9 @@ La atención materno-infantil tiene carácter prioritario y comprende, por lo me
 
 I.- La atención de la salud de las mujeres durante el embarazo, el parto, el puerperio y la crianza durante la primera infancia de sus hijos;
 
-II.- La atención prenatal de los infantes, durante el embarazo y en el momento del nacimiento, así como la detección de defectos o anomalías congénitas previas y después del nacimiento, mediante las pruebas y exámenes señalados en las Normas Oficiales Mexicanas aplicables, así como, la vigilancia de su nutrición, crecimiento y desarrollo, incluyendo la promoción de la lactancia materna y la vacunación oportuna;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+II.- La atención prenatal de los infantes, durante el embarazo y en el momento del nacimiento, así como la detección de defectos, enfermedades o anomalías hereditarias y congénitas previas o después del nacimiento, mediante las pruebas y exámenes señalados en las Normas Oficiales Mexicanas aplicables, así como, la vigilancia de su nutrición, crecimiento y desarrollo, incluyendo la promoción de la lactancia materna y la vacunación oportuna, y la aplicación de la prueba del tamiz ampliado;
 
 III.- La atención prenatal, a través de contactos, entrevistas o consultas con el personal de salud, a efecto de acompañar la evolución del embarazo y de preparar a las mujeres para el parto, puerperio y cuidado de la persona recién nacida. Esto incluye la información oportuna y veraz respecto al estado y desarrollo del embarazo.
 
@@ -1045,9 +1047,29 @@ En el caso de embarazo de alto riesgo, el personal médico determinará la neces
 
 IV.- La promoción de la integración y del bienestar familiar para el acompañamiento de las mujeres durante el embarazo;
 
-V.- La atención oportuna, de calidad y gratuita a toda mujer embarazada que necesite atención obstétrica, en cualquier establecimiento público hospitalario, aunque no cuente con seguridad social, en los términos del Convenio General de Colaboración Interinstitucional para la Atención de la (sic) Emergencias Obstétricas; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
 
-VI.- El alojamiento conjunto de la persona recién nacida y de la madre en un mismo espacio, siempre que no exista riesgo de salud grave de alguno de los dos, con el fin de favorecer el contacto inmediato y permanente entre ambos, así como el inicio de la lactancia materna exclusiva.
+V.- La atención oportuna, de calidad y gratuita a toda mujer embarazada que necesite atención obstétrica, en cualquier establecimiento público hospitalario, aunque no cuente con seguridad social, en los términos del Convenio General de Colaboración Interinstitucional para la Atención de la (sic) Emergencias Obstétricas;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+VI.- El alojamiento conjunto de la persona recién nacida y de la madre en un mismo espacio, siempre que no exista riesgo de salud grave de alguno de los dos, con el fin de favorecer el contacto inmediato y permanente entre ambos, así como el inicio de la lactancia materna exclusiva;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+VII.- La atención de la transmisión del VIH/sida y otras infecciones de transmisión sexual, en mujeres embarazadas a fin de evitar la transmisión perinatal;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+VIII.- La revisión de retina y tamiz auditivo al prematuro;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+IX.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+
+X.- El diagnóstico oportuno y la atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteroposterior de pelvis, entre el primer y cuarto mes de vida.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
@@ -1105,13 +1127,17 @@ III.- Acciones para controlar las enfermedades prevenibles por vacunación, los 
 
 IV.- Bancos de leche materna en los establecimientos de salud que cuenten con servicios neonatales, para que, de manera subsidiaria, en caso de no ser posible para la madre desempeñar el amamantamiento natural o encontrarse en casos de desnutrición, se brinde la ayuda alimentaria debida y la tendiente a mejorar el estado nutricional del grupo materno infantil;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2021)</small>
 
-V.- Acciones para que todas las mujeres accedan a un embarazo, parto y puerperio con enfoque humanizado, intercultural y seguro, evitando la intervención médica invasiva, innecesaria o excesiva, misma que, además, carezca de sustento científico e información oportuna y veraz a la mujer y su familia; y
+V.- Los lineamientos y protocolos para garantizar que la mujer embarazada sea acompañada por una persona de su elección, durante los servicios de salud que se le proporcionen antes, durante y después del parto;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE JUNIO DE 2021)</small>
 
-VI.- Acciones que garanticen la capacitación y actualización permanente de los recursos humanos para la salud, en materia de salud materno-infantil y prevención de la violencia obstétrica.
+VI.- Acciones para que todas las mujeres accedan a un embarazo, parto y puerperio con enfoque humanizado, intercultural y seguro, evitando la intervención médica invasiva, innecesaria o excesiva, misma que, además, carezca de sustento científico e información oportuna y veraz a la mujer y su familia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JUNIO DE 2021)</small>
+
+VII.- Acciones que garanticen la capacitación y actualización permanente de los recursos humanos para la salud, en materia de salud materno-infantil y prevención de la violencia obstétrica.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -4091,109 +4117,21 @@ P.O. 14 DE JUNIO DE 2021.
 
 ÚNICO.- El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES ADSCRITOS A LOS CENTROS DE JUSTICIA PENAL FEDERAL PARA CONOCER DE DELITOS COMETIDOS EN EL EXTRANJERO Y EXTENSIONES DEL TERRITORIO NACIONAL”.]
+P.O. 28 DE JUNIO DE 2021.
 
-PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 566.- SE REFORMAN LAS FRACCIONES II, V Y VI DEL ARTÍCULO 69 Y SE ADICIONAN LAS FRACCIONES VII, VIII, IX Y X DEL ARTÍCULO 69 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-D.O.F. 15 DE MAYO DE 2017.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 3/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO NACIONAL DE JUSTICIA ESPECIALIZADO EN CONTROL DE TÉCNICAS DE INVESTIGACIÓN, ARRAIGO E INTERVENCIÓN DE COMUNICACIONES".]
+P.O. 28 DE JUNIO DE 2021.
 
-PRIMERO. El presente Acuerdo entrará en vigor a las veinte horas del dieciséis de mayo de dos mil diecisiete, con excepción de lo previsto en el Transitorio TERCERO de este Acuerdo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 567.- SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 72 Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 72 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. A las diecinueve horas con cincuenta y nueve minutos del dieciséis de mayo de dos mil diecisiete concluye la comisión temporal de los titulares y personal de los Juzgados Quinto y Sexto Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, y concluyen funciones los órganos jurisdiccionales siguientes:
-
-I. Juzgado Tercero Federal Penal Especializado en Cateos, Arraigos e Intervención de Comunicaciones;
-
-II. Juzgado Cuarto Federal Penal Especializado en Cateos, Arraigos e Intervención de Comunicaciones;
-
-III. Juzgado Quinto Federal Penal Especializado en Cateos, Arraigos e Intervención de Comunicaciones;
-
-IV. Juzgado Sexto Federal Penal Especializado en Cateos, Arraigos e Intervención de Comunicaciones;
-
-V. Juzgado Primero de Distrito Especializado en Medidas Cautelares y Control de Técnicas de Investigación; y
-
-VI. Juzgado Segundo de Distrito Especializado en Medidas Cautelares y Control de Técnicas de Investigación.
-
-Los titulares de los juzgados referidos deberán levantar por duplicado un acta administrativa con motivo de la conclusión de sus funciones, remitiendo un ejemplar para su archivo a la Secretaría Ejecutiva de Creación de Nuevos Órganos.
-
-Los recursos humanos, materiales y presupuestales asignados a los órganos jurisdiccionales que concluyen funciones, se integrarán al Centro, a partir de la fecha de su inicio de funciones.
-
-Para el desempeño de sus funciones los titulares de los juzgados a que se refiere el párrafo anterior, conservará al personal y los recursos materiales que tenían asignados a la fecha de conclusión de funciones.
-
-CUARTO. El turno a que se refiere el artículo 7 de este Acuerdo se llevará, a partir de la entrada en vigor del presente Acuerdo, conforme al siguiente orden:
-
-PRIMER TURNO SEGUNDO TURNO TERCER TURNO
-
-Juez Primero y Juez Tercero y Juez Quinto y
-
-Segundo de Control Cuarto de Control Sexto de Control
-
-Y así sucesivamente.
-
-QUINTO. Las solicitudes presentadas ante los Juzgados Tercero, Cuarto, Quinto y Sexto Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones que concluyen funciones y, en su caso, las acciones y diligencias que deriven de las mismas que estén pendientes a la entrada en vigor del presente Acuerdo o requieran atención posterior, deberán ser desahogadas, por los Juzgados Primero y Segundo de esa especialidad, conforme a las disposiciones que dieron inicio.
-
-Para lo anterior, los asuntos que se encuentren en las condiciones señaladas, así como aquellos que no hayan sido archivados definitivamente, deberán ser repartidos de manera equitativa entre los Juzgados Primero y Segundo Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, para su posterior conclusión.
-
-SEXTO. Las solicitudes presentadas ante los Juzgados Primero y Segundo de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación, que concluyen funciones y, en su caso, las acciones y diligencias que deriven de las mismas que estén pendientes a la entrada en vigor del presente Acuerdo o requieran atención posterior, deberán ser desahogadas, por los jueces de control que comiencen con el turno al inicio de funciones del Centro, conforme a las disposiciones con las que dieron inicio.
-
-Con independencia de lo anterior, aquellos asuntos que no hayan sido archivados definitivamente, deberán ser repartidos de manera equitativa entre los Jueces de control integrantes del Centro, para su posterior conclusión.
-
-SÉPTIMO. Se abroga el Acuerdo General 39/2016, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación, con excepción de lo dispuesto en el Transitorio siguiente; y se derogan todas las disposiciones que se opongan al presente Acuerdo.
-
-OCTAVO. Los Jueces de control del Centro serán competentes para conocer las solicitudes a que se refiere el texto vigente, hasta antes de la entrada en vigor de este Acuerdo, del artículo 8, fracciones II y III, del Acuerdo General 39/2016, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación.
-
-Los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones serán competentes para conocer de las solicitudes a que se refiere el texto vigente, hasta antes de la entrada en vigor de este Acuerdo, del artículo 5, fracción I, inciso d) del Acuerdo General 75/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones.
-
-Lo previsto en este Transitorio será aplicable respecto de las solicitudes que se presenten con fundamento en los Transitorios Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, publicado en el Diario Oficial de la Federación el 16 de junio de 2016; y Segundo, último párrafo, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Nacional de Procedimientos Penales; del Código Penal Federal; de la Ley General del Sistema Nacional de Seguridad Pública; de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de Defensoría Pública, del Código Fiscal de la Federación y de la Ley de Instituciones de Crédito, publicado el 17 de junio de 2016 en el Diario Oficial de la Federación.
-
-Tratándose de los asuntos a que se refiere este Transitorio, los Acuerdos Generales a que alude éste continuarán aplicándose, en lo conducente, respecto de dichos asuntos.
-
-NOVENO. Se reforman los numerales SEGUNDO, fracción I, número 5; y CUARTO, fracción I, párrafo segundo; y se adiciona el numeral QUINTO QUATER del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. ...
-
-I. ...
-
-1. a 4. ...
-
-5. Dos Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, con residencia en la Ciudad de México.
-
-6. ...
-
-II. a XXXII. ...
-
-CUARTO. ...
-
-I. ...
-
-Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones; y los Juzgados de Distrito Especializados en Ejecución de Penas, que ejercerán jurisdicción territorial en toda la República Mexicana.
-
-...
-
-II. a XXXIII. ...
-
-QUINTO QUATER. El Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, está conformado por seis jueces de Control y un Tribunal Unitario de Circuito, con jurisdicción en toda la República Mexicana."
-
-DÉCIMO. Las firmas electrónicas que hayan sido expedidas con anterioridad a la entrada en vigor del presente Acuerdo seguirán vigentes.
-
-DÉCIMO PRIMERO. Las Secretarías Ejecutivas de Administración; y de Finanzas y Servicios Personales, por conducto de las unidades administrativas que les estén adscritas a las que les resulte competencia, llevarán a cabo las acciones para que el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones inicie funciones en la fecha prevista en este Acuerdo.
-
-DÉCIMO SEGUNDO. En tanto se aplica la utilización de los libros de control electrónicos, se deberán realizar los registros de los asuntos que ingresen en libretas auxiliares.
-
-DÉCIMO TERCERO. Hasta en tanto se crea el Tribunal Unitario de Circuito a que se refiere el artículo 4 de este Acuerdo, se habilita a los Tribunales Unitarios en Materia Penal del Primer Circuito con residencia en la Ciudad de México, para conocer, conforme al turno correspondiente, de los asuntos que se tramiten en términos de las disposiciones aplicables.
-
-Los Tribunales Unitarios indicados precisarán en los actos procesales que celebren la denominación con la que actúan, dependiendo si lo hacen conforme al Código Nacional de Procedimientos Penales o demás disposiciones aplicables.
-
-Estos Tribunales Unitarios habilitados en este Transitorio quedan exceptuados de la obligación a que se refiere el artículo 12 de este Acuerdo, y para efectos del artículo 13 de dicho instrumento normativo se regirán por las disposiciones aplicables como Tribunal Unitario de Circuito.
-
-DÉCIMO CUARTO. Se reforman los artículos 1; 2; 5, fracción II; 6; 7; 12, párrafo primero; 13, párrafo primero; y 14; y se derogan el inciso d) de la fracción I del artículo 5; así como los artículos 10 ter; y 10 quater, del Acuerdo General 75/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, para quedar como sigue:
-
-"Artículo 1. Son competentes para conocer de los asuntos a que se refiere este Acuerdo los Juzgados Primero y Segundo Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 5/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN EL MUNICIPIO DE ALMOLOYA DE JUÁREZ (ALTIPLANO)”.]
 
