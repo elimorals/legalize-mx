@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-agricola-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2019-10-08"
+last_updated: "2021-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -97,9 +97,17 @@ XXIII. Impulsar el fortalecimiento y profesionalización de los productores y su
 
 XXIV. Garantizar la participación activa de la población rural, con el propósito de implementar una cultura de corresponsabilidad entre sociedad y Gobierno en las actividades propias del sector agrícola;
 
-XXV. Diseñar los instrumentos de apoyo económico, de capitalización y financiamiento, que permitan el tránsito de los productores y sus organizaciones, de un modelo económico dependiente a un modelo abierto; e
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
 
-XXVI. Implementar los apoyos directos, estímulos fiscales, créditos, fianzas, fondos y fideicomisos, así como incentivar y orientar al productor, en la contratación de seguros agrícolas para proteger sus unidades de producción contra riesgos climatológicos o cualquier otro instrumento económico, que permitan el desarrollo y rentabilidad de la infraestructura productiva a lo largo de la cadena, así como el fortalecimiento de esquemas modernos de información sobre canales de comercialización y mercado, que hagan posible la capitalización del sector y la defensa del producto.
+XXV. Diseñar los instrumentos de apoyo económico, de capitalización y financiamiento, que permitan el tránsito de los productores y sus organizaciones, de un modelo económico dependiente a un modelo abierto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2021)</small>
+
+XXVI. Fomentar la Agricultura Urbana como una práctica de auto abastecimiento alimenticio dentro de las zonas del Estado; e
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA , P.O. 28 DE JUNIO DE 2021)</small>
+
+XXVII. Implementar los apoyos directos, estímulos fiscales, créditos, finanzas, fondos y fideicomisos, así como incentivar y orientar al productor, en la contratación de seguros agrícolas para proteger sus unidades de producción contra riesgos climatológicos o cualquier otro instrumento económico, que permitan el desarrollo y rentabilidad de la infraestructura productiva a lo largo de la cadena, así como el fortalecimiento de esquemas modernos de información sobre canales de comercialización y mercado, que hagan posible la capitalización del sector y la defensa del producto.
 
 ###### Artículo 2°.
 
@@ -559,13 +567,17 @@ LVIII. Promover las acciones necesarias para lograr un campo libre de envases va
 
 LIX. Supervisar los productos y subproductos agrícolas, permitiendo o negando su entrada o salida del Estado, según cumplan o incumplan con los requisitos legales para tal efecto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
 
-LX. Fomentar y difundir entre los productores y organizaciones agrícolas cursos, seminarios, talleres y toda aquella información que les sea de utilidad a través de medios escritos y digitales, tendientes a impulsar la educación y tecnificación de la actividad agrícola; y
+LX. Fomentar y difundir entre los productores y organizaciones agrícolas cursos, seminarios, talleres y toda aquella información que les sea de utilidad a través de medios escritos y digitales, tendientes a impulsar la educación y tecnificación de la actividad agrícola;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2021)</small>
 
-LXI. Las demás que le otorgue la presente Ley, su Reglamento y demás disposiciones relativas y aplicables.
+LXI. Promover la creación de huertos urbanos dentro de las zonas urbanas del Estado, siendo estos el elemento principal para el fomento de la Agricultura Urbana en la entidad; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA , P.O. 28 DE JUNIO DE 2021)</small>
+
+LXII. Las demás que le otorgue la presente Ley, su Reglamento y demás disposiciones relativas y aplicables.
 
 ###### Artículo 10.
 
@@ -1914,3 +1926,11 @@ P.O. 8 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 570 POR EL QUE “SE REFORMAN LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 1°; LAS FRACCIONES LX Y LXI DEL ARTÍCULO 9°; Y SE ADICIONA LA FRACCIÓN XXVII AL ARTÍCULO 1° Y LA FRACCIÓN LXII AL ARTÍCULO 9° DE LA LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
