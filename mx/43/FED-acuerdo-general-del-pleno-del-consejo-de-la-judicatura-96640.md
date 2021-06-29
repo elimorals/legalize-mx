@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2021-05-31"
+last_updated: "2021-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2021.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -397,13 +397,17 @@ a) Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Interna
 
 b) Dirección General de Archivo y Documentación;
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
-c) Dirección General de Estadística Judicial; y
+c) Dirección General de Estadística Judicial;
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
-d) Dirección General de Gestión Judicial.
+d) Dirección General de Gestión Judicial; y
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+e) Dirección General de Estrategia y Transformación Digital.
 
 ### CAPÍTULO TERCERO. DE LOS DEMÁS CONSEJEROS
 
@@ -1389,13 +1393,17 @@ VIII. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a las
 
 IX. Coordinar y supervisar el desarrollo y la implementación de los sistemas administrativos, de gestión y plataformas estadísticas en materia judicial, de conformidad con las disposiciones aplicables;
 
-> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
-X. Instrumentar las políticas y directrices emitidas por el Pleno y las Comisiones para la operación de sistemas administrativos, de gestión y plataformas estadísticas en materia judicial, de conformidad con las disposiciones aplicables; y
+X. Instrumentar las políticas y directrices emitidas por el Pleno y las Comisiones para la operación de sistemas administrativos, de gestión y plataformas estadísticas en materia judicial, de conformidad con las disposiciones aplicables;
 
-> <small>(ADICIONADA [N.DE E. REUBICADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
-XI. Las demás que le confieran las disposiciones legales y acuerdos generales del Consejo, así como las que le sean encomendadas por el Ministro Presidente.
+XI. Coordinar y supervisar el desarrollo y la implementación de los proyectos, iniciativas, normativa y contenidos, relacionados con las estrategias de Gobierno de Datos, Gobernanza Digital, Transformación Digital Institucional y e-Justicia, de conformidad con las disposiciones aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+XII. Las demás que le confieran las disposiciones legales y acuerdos generales del Consejo, así como las que le sean encomendadas por el Ministro Presidente.
 
 ###### Artículo 73.
 
@@ -3515,25 +3523,39 @@ La Dirección General de Tecnologías de la Información será la encargada de i
 
 El titular de la Dirección General de Tecnologías de la Información tendrá las siguientes atribuciones:
 
-I. Dirigir y proponer la elaboración de las políticas y lineamientos en materia de tecnologías de la información y comunicaciones; las disposiciones técnicas y administrativas a las que deberán ajustarse los órganos jurisdiccionales y áreas administrativas para el uso de las aplicaciones y herramientas informáticas; así como las políticas y medidas de seguridad necesarias para salvaguardar la información contenida en medios electrónicos, incluyendo los portales del Consejo en Intranet e Internet;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
-II. Dirigir la formulación del Plan Estratégico de Tecnologías de la Información y Comunicaciones, e informar trimestralmente a la Comisión de Administración y al Pleno, respecto de su ejecución y avances;
+I. Proponer, en colaboración con la Dirección General de Estrategia y Transformación Digital, e implementar las políticas y lineamientos en materia de tecnologías de la información y comunicaciones; las disposiciones técnicas y administrativas a las que deberán ajustarse los órganos jurisdiccionales y áreas administrativas para el uso de las aplicaciones y herramientas informáticas; así como las políticas y medidas de seguridad necesarias para salvaguardar la información contenida en medios electrónicos, incluyendo los portales del Consejo en Intranet e Internet;
 
-III. Coordinar la elaboración anual del Plan Estratégico de Tecnologías de la Información y Comunicaciones y someterlo a la autorización de la Comisión de Administración y del Pleno;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
-IV. Coordinar, en su caso, la investigación tecnológica y estudios correspondientes para la evaluación, selección e implantación de las tecnologías de información y comunicaciones para su aprovechamiento en los órganos jurisdiccionales y en las áreas administrativas;
+II. Formular el Plan Estratégico de Tecnologías de la Información y Comunicaciones, en colaboración con la Dirección General de Estrategia y Transformación Digital y obtener el visto bueno de los Comités de Gobernanza Digital y de Tecnologías de la Información;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+III. Informar trimestralmente, con el visto bueno de los Comités de Gobernanza Digital y de Tecnologías de la Información, a la Comisión de Administración y al Pleno, respecto de la ejecución y avances del Plan Estratégico de Tecnologías de la Información y Comunicaciones;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+IV. Coordinar, en su caso, la investigación tecnológica y estudios correspondientes para la evaluación, selección e implantación de las tecnologías de información y comunicaciones, conforme a la alineación estratégica definida por el Comité de Gobernanza Digital, para su aprovechamiento en los órganos jurisdiccionales y en las áreas administrativas;
 
 V. Dirigir la elaboración del anteproyecto de presupuesto anual correspondiente al Plan Estratégico de Tecnologías de la Información y Comunicaciones;
 
 VI. Proponer al Instituto de la Judicatura las necesidades de capacitación en materia de informática que requieran los órganos jurisdiccionales y áreas administrativas, a fin de asegurar la correcta operación y el aprovechamiento de los bienes y sistemas informáticos;
 
-VII. Coordinar la elaboración de estudios técnicos de viabilidad y factibilidad y emisión, en su caso, de dictámenes para la adquisición de herramientas de tecnologías de la información y comunicaciones, necesarios para satisfacer los requerimientos de sistematización de los órganos jurisdiccionales y de las áreas administrativas;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
-VIII. Dirigir el proceso de evaluación de solicitudes de desarrollos, proyectos y requerimientos de infraestructura y equipamiento de los órganos jurisdiccionales y de las áreas administrativas, de conformidad con las políticas y lineamientos en materia de tecnologías de la información;
+VII. Coordinar la elaboración de estudios técnicos de viabilidad y factibilidad y emisión, en su caso, así como de dictámenes para la adquisición de herramientas de tecnologías de la información y comunicaciones, necesarios para satisfacer los desarrollos y proyectos de sistematización de los órganos jurisdiccionales y de las áreas administrativas;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+VIII. Dirigir el proceso de evaluación de solicitudes de desarrollos, proyectos y requerimientos de infraestructura y equipamiento de los órganos jurisdiccionales y de las áreas administrativas, de conformidad con las políticas y lineamientos en materia de tecnologías de la información, conforme a la alineación estratégica definida por el Comité de Gobernanza Digital. En aquellos proyectos que tengan que ver con los rubros de gobierno de datos, gobernanza digital, transformación digital y e-Justicia, se regirá la priorización que se acuerde con la Dirección General de Estrategia y Transformación Digital;
 
 IX. Proporcionar asesoría a las áreas competentes en los aspectos técnicos y administrativos en materia de tecnologías de la información y comunicaciones;
 
-X. Dirigir los procesos de administración de tecnologías de la información: desarrollo de sistemas de información, servicios de voz y datos, redes, atención a usuarios, equipamiento, infraestructura de servidores, bases de datos, centro de datos, servicios de videoconferencia, páginas web, correo electrónico; a fin de asegurar el servicio y funcionamiento adecuado de los servicios de tecnologías de la información del Consejo;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+X. Dirigir los procesos de administración de tecnologías de la información: desarrollo de sistemas de información, servicios de voz y datos, redes, atención a usuarios, equipamiento, infraestructura de servidores, bases de datos, centro de datos, servicios de videoconferencia, páginas web, correo electrónico; a fin de asegurar el servicio y funcionamiento adecuado de los servicios de tecnologías de la información del Consejo, y su conformidad con la alineación estratégica definida por el Comité de Gobernanza Digital;
 
 XI. Coordinar la implementación del Plan Estratégico de Tecnologías de la Información y el Plan Anual de Trabajo, tomando en consideración los recursos presupuestales asignados a su área;
 
@@ -3545,7 +3567,9 @@ XIV. Coordinar el establecimiento de mecanismos de supervisión y vigilancia, cu
 
 XV. Asignar la supervisión de contratos a las áreas de la Dirección General de Tecnologías de la Información responsables de su vigilancia y operación para que se sujeten a las condiciones establecidas en ellos y aseguren su cumplimiento;
 
-XVI. Coordinar la implementación de un mecanismo que habilite el seguimiento, atención oportuna y verificación de las solicitudes administrativas efectuadas por los órganos jurisdiccionales y áreas administrativas, en materia de tecnologías de la información;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+XVI. Coordinar la implementación de un mecanismo, de conformidad con la alineación estratégica definida por el Comité de Gobernanza Digital, que habilite el seguimiento, atención oportuna y verificación de las solicitudes administrativas efectuadas por los órganos jurisdiccionales y áreas administrativas, en materia de tecnologías de la información;
 
 XVII. Asegurar la dotación de infraestructura en materia de tecnologías de la información en los órganos jurisdiccionales y áreas administrativas de conformidad con los recursos presupuestales disponibles y las políticas establecidas en la materia;
 
@@ -3557,13 +3581,45 @@ XX. Proporcionar apoyo en el rubro de transparencia y acceso a la información; 
 
 XXI. Las demás que establezcan el Pleno y las Comisiones.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
 ###### Artículo 157.
 
-(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
+La Dirección General de Estrategia y Transformación Digital es la unidad administrativa responsable de desarrollar la estrategia de gobierno de datos, gobernanza digital, transformación digital y e-Justicia del Consejo, así como dar seguimiento a su implementación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
 ###### Artículo 158.
 
-(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
+La persona titular de la Dirección General de Estrategia y Transformación Digital tendrá las atribuciones siguientes:
+
+I. Diseñar, proponer e implementar las estrategias, políticas, proyectos, acciones, iniciativas, lineamientos y contenidos en materia de gobierno de datos, gobernanza digital, transformación digital y e-Justicia, en el ámbito del Consejo y de los órganos jurisdiccionales;
+
+II. Desarrollar y ejecutar, en conjunto con las unidades administrativas que corresponda y de acuerdo con sus atribuciones, las estrategias y priorización de proyectos en materia de gobierno de datos, gobernanza digital, transformación digital y e-Justicia;
+
+III. Proponer y elaborar procesos, programas y herramientas de administración, gestión, recuperación y tratamiento en materia de gobierno de datos tanto en el orden administrativo como en el jurisdiccional para la consolidación de la Plataforma Institucional de Información;
+
+IV. Ejecutar, en coordinación con las áreas competentes, las estrategias para el aprovechamiento y gestión de la información en materia de gobierno de datos y gobernanza digital;
+
+V. Recibir el apoyo de la Dirección General de Tecnologías de la Información y, en general, de las demás unidades administrativas y órganos auxiliares del Consejo, que sea requerido para el cumplimiento de las atribuciones conferidas, a fin de garantizar la implementación transversal de la estrategia en materia de gobierno de datos, gobernanza digital, transformación digital y e-Justicia;
+
+VI. Participar y, en su caso, convocar a grupos de trabajo que requieran asesoría y apoyo, en los temas relacionados con las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia del Consejo y de los órganos jurisdiccionales;
+
+VII. Colaborar con la Dirección General de Tecnologías de la Información en la elaboración del Plan Estratégico de Tecnologías de la Información y Comunicaciones y de las políticas, lineamientos y contenidos en materia de tecnologías de la información desde la perspectiva de las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia;
+
+VIII. Acordar con la Dirección General de Tecnologías de la Información en la priorización de las solicitudes de desarrollos y proyectos de los órganos jurisdiccionales y de las áreas administrativas, así como formular requerimientos en materia de gobierno de datos, gobernanza digital, transformación digital y e-Justicia que deberán integrarse al Plan antes referido;
+
+IX. Formular, previo acuerdo de la Coordinación de Asesores de la Presidencia, los requerimientos de infraestructura y recursos tecnológicos para desempeñar sus actividades y planear, en coordinación con la Dirección General de Tecnologías de la Información y las áreas competentes, para asegurar su dotación y correcto funcionamiento.
+
+X. Presentar, previa conformidad de la Dirección General de Asuntos Jurídicos y la Coordinación de Asesores de la Presidencia, la normativa relacionada con las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia, en el ámbito de competencia, para la aprobación de instancias superiores;
+
+XI. Participar, en el ámbito de su competencia, en colaboración con la Dirección General de Gestión Judicial, en la formalización e implementación de los convenios de interconexión tecnológica que suscriba el Consejo;
+
+XII. Proponer la celebración de convenios u otros instrumentos jurídicos de colaboración, relacionados con las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia, en el ámbito de su competencia;
+
+XIII. Establecer comunicación y colaborar en materia de gobierno de datos, gobernanza digital, transformación digital y e-Justicia, con las áreas competentes de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, previo acuerdo de la Coordinación de Asesores de la Presidencia; y
+
+XIV. Las demás que le confieran las disposiciones jurídicas aplicables, así como las que establezca el Presidente, el Pleno y el Coordinador de Asesores de la Presidencia.
 
 ###### Artículo 159.
 
@@ -6414,3 +6470,15 @@ QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas 
 SEXTO. La Dirección General de Innovación Planeación y Desarrollo Institucional, deberá realizar las acciones necesarias para incorporar dentro de los manuales correspondientes el puesto de Perito Judicial del Poder Judicial de la Federación con el nivel y remuneraciones que fije el presupuesto de egresos del Consejo de la Judicatura Federal.
 
 SÉPTIMO. En tanto se dé cumplimiento a lo dispuesto en el Transitorio Cuarto del presente Acuerdo se mantendrán vigentes la fracción XXIII del artículo 160 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reforma y adiciona el similar que reglamenta la organización y funcionamiento del propio Consejo, y el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la integración de la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación, por lo que la convocatoria a que se refiere el artículo Transitorio Tercero aplica exclusivamente para los peritos que podrán actuar ante los órganos jurisdiccionales Federales de materia Laboral.
+
+D.O.F. 29 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Dirección General de Estrategia y Transformación Digital iniciará funciones el 1 de julio de 2021.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las áreas administrativas de su adscripción deberá ejecutar las acciones necesarias para la implementación de este Acuerdo.
