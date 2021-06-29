@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-participacion-ciudadana-del-estado-de-aguascalientes-126
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2021-06-28"
+last_updated: "2021-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2018.
 
@@ -57,9 +57,11 @@ II. Instituir, reconocer, promover, fomentar y consolidar los instrumentos de pa
 
 Lo no previsto en esta Ley será suplido por las disposiciones del Código Electoral para el Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+
 ###### Artículo 2°.
 
-Los instrumentos de participación ciudadana se regirán por los principios rectores de certeza, legalidad, imparcialidad, independencia, máxima publicidad, objetividad, equidad, perspectiva de género, pluralismo político y participación social.
+Los instrumentos de participación ciudadana se regirán por los principios rectores de certeza, legalidad, imparcialidad, accesibilidad, interculturalidad, independencia, máxima publicidad, objetividad, equidad, perspectiva de género, inclusión, no discriminación, pluralismo político, participación social, transparencia y rendición de cuentas.
 
 ###### Artículo 3°.
 
@@ -131,9 +133,17 @@ XII. Ley: La Ley de Participación Ciudadana del Estado de Aguascalientes;
 
 XIII. Padrón Electoral: El Padrón Electoral elaborado por el Instituto Nacional Electoral en la parte correspondiente al Estado de Aguascalientes;
 
-XIV. Periódico Oficial: El Periódico Oficial del Estado de Aguascalientes; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2021)</small>
 
-XV. Reglamento: El Reglamento de la Ley de Participación Ciudadana del Estado de Aguascalientes.
+XIV. Participación ciudadana: El conjunto de actividades mediante las cuales toda persona tiene derecho individual o colectivo para intervenir en las decisiones públicas, dialogar, discutir y cooperar con las autoridades, así como para incidir en la formulación, ejecución y evaluación de las políticas y actos de gobierno de manera efectiva, amplia, equitativa, democrática y accesible; y en el proceso de planeación, elaboración, aprobación, gestión, evaluación y control de planes, programas, políticas y presupuestos públicos;
+
+> <small>(REFORMADA [REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIV], P.O. 29 DE JUNIO DE 2021)</small>
+
+XV. Periódico Oficial: El Periódico Oficial del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA [REPUBLICADA Y REUBICADA ANTES FRACCIÓN XV], P.O. 29 DE JUNIO DE 2021)</small>
+
+XVI. Reglamento: El Reglamento de la Ley de Participación Ciudadana del Estado de Aguascalientes.
 
 ### CAPÍTULO II. Los Derechos y Obligaciones de la Ciudadanía
 
@@ -1172,3 +1182,11 @@ El presente Decreto iniciará su vigencia a partir del día siguiente de su publ
 ###### ARTÍCULO SEGUNDO.
 
 Una vez de la entrada en vigor del presente Decreto, las Autoridades correspondientes deberán expedir su Reglamento en materia de Presupuesto Participativo en un término no mayor de 90 días.
+
+P.O. 29 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 577.- SE REFORMAN LOS ARTÍCULOS 2° Y 7°, FRACCIONES XIV Y XV; Y SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 7° DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
