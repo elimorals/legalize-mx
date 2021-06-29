@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2021-06-04"
+last_updated: "2021-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2021.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -123,11 +123,17 @@ d) Las reglas de carácter general que deben observarse para la desincorporació
 
 e) La regulación de la administración y destino final de los bienes asegurados no reclamados y decomisados en los procedimientos penales federales, que hubieran sido puestos a disposición del Consejo antes del catorce de agosto de mil novecientos noventa y nueve, respecto de los cuales los órganos jurisdiccionales hayan emitido el certificado de disponibilidad respectivo;
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
-f) Lo relativo al Comité de Tecnologías de la Información; y
+f) Lo relativo al Comité de Tecnologías de la Información;
 
-g) Determinar las atribuciones que se delegan a las unidades operativas encargadas de la administración de los edificios en propiedad o en uso del Poder Judicial de la Federación, ubicados en el Distrito Federal y la zona conurbada, en materia de recursos materiales, servicios generales y servicios de mantenimiento y conservación, así como establecer su organización y funcionamiento;
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+g) Lo relativo al Comité de Gobernanza Digital; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+h) Determinar las atribuciones que se delegan a las unidades operativas encargadas de la administración de los edificios en propiedad o en uso del Poder Judicial de la Federación, ubicados en la Ciudad de México y la zona conurbada, en materia de recursos materiales, servicios generales y servicios de mantenimiento y conservación, así como establecer su organización y funcionamiento;
 
 III. Establecer las disposiciones relacionadas con recursos financieros, en específico:
 
@@ -7261,7 +7267,7 @@ La custodia y resguardo de los instrumentos jurídicos se ajustará a las dispos
 
 ### CAPÍTULO PRIMERO. COMITÉ DE TECNOLOGÍAS DE LA INFORMACIÓN
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
 #### SECCIÓN SEXTA. INVITACIÓN RESTRINGIDA
 
@@ -7859,9 +7865,9 @@ Cuando el inconforme sea quien solicite la suspensión, deberá garantizar media
 
 La resolución que emita la Comisión de Administración respecto de la inconformidad presentada, tendrá por objeto declarar la procedencia o improcedencia de la inconformidad y, en su caso, determinar las medidas conducentes para la regularización o reposición del procedimiento, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido.
 
-### CAPÍTULO SEGUNDO. ADMINISTRACIONES DE LOS EDIFICIOS
+### CAPÍTULO PRIMERO BIS. COMITÉ DE GOBERNANZA DIGITAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
 #### SECCIÓN SEXTA. PROCEDIMIENTOS DE ENAJENACIÓN
 
@@ -8557,17 +8563,19 @@ La Dirección General de Recursos Materiales o la Administración Regional comun
 
 En caso de duda o conflicto en la operación, aplicación o interpretación de este Capítulo, los representantes de las unidades administrativas instructoras propondrán de manera colegiada alternativas de solución, que se someterán a la consideración de la Comisión de Administración a fin de que resuelva lo conducente.
 
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+## TÍTULO TERCERO. DEL COMITÉ DE TECNOLOGÍAS DE LA INFORMACIÓN, DEL COMITÉ DE GOBERNANZA DIGITAL Y DE LAS ADMINISTRACIONES DE EDIFICIOS
+
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-## TÍTULO TERCERO. DEL COMITÉ DE TECNOLOGÍAS DE LA INFORMACIÓN Y DE LAS ADMINISTRACIONES DE EDIFICIOS
+### CAPÍTULO SEGUNDO. ADMINISTRACIONES DE LOS EDIFICIOS
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
-
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 682.
 
-El Comité de Tecnologías de la Información es un cuerpo multidisciplinario dedicado específicamente a coadyuvar en la formulación e integración de lineamientos, políticas y criterios que incidan en la planeación, organización, evaluación y ajuste integral de las actividades en materias de informática y de telecomunicaciones, y la definición de las necesidades institucionales, el establecimiento de prioridades de atención y la integración armónica de nuevas necesidades en pro del cumplimiento de los objetivos programados, contribuyendo a la modernización administrativa del Consejo y de los órganos jurisdiccionales a través del aprovechamiento ordenado y progresivo de los sistemas y tecnologías correspondientes.
+El Comité de Tecnologías de la Información es un cuerpo multidisciplinario dedicado específicamente a coadyuvar en la formulación e integración de lineamientos, políticas y criterios que incidan en la planeación, organización, evaluación y ajuste integral de las actividades en materias de informática y de telecomunicaciones, la definición de las necesidades institucionales en estos rubros y el establecimiento de prioridades de atención. La atención de las necesidades identificadas deberá contribuir a la modernización administrativa del Consejo y de los órganos jurisdiccionales, a través del aprovechamiento ordenado y progresivo de los sistemas y tecnologías correspondientes. Dicha atención deberá alinearse a la estrategia de gobierno de datos, gobernanza digital, transformación digital y e-Justicia, cuando los proyectos resulten prioritarios para la misma.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
@@ -8587,19 +8595,31 @@ Los integrantes tendrán derecho a voz y voto durante las sesiones.
 
 El Comité de Tecnologías de la Información tendrá las siguientes funciones:
 
-I. Definir y proponer a opinión de la Comisión de Administración y someter a la aprobación del Pleno el Plan Estratégico de Tecnologías de la Información y Comunicaciones, así como sus actualizaciones, tomando en consideración las necesidades institucionales, las prioridades de atención y la disponibilidad de recursos presupuestarios;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
-II. Someter a opinión de la Comisión de Administración, la Política Informática del Consejo, contemplando su impacto en los servicios que se ofrecen al Consejo, órganos jurisdiccionales, y ciudadanía en general, así como la adopción progresiva de las tecnologías más adecuadas para los fines institucionales;
+I. Definir y obtener el visto bueno del Comité de Gobernanza, primero, y de la Comisión de Administración después, y someter a la aprobación del Pleno, el Plan Estratégico de Tecnologías de la Información y Comunicaciones, así como sus actualizaciones, tomando en consideración las necesidades institucionales, las prioridades de atención y la disponibilidad de recursos presupuestarios;
 
-III. Aprobar los anteproyectos de presupuesto de egresos y los programas anuales de trabajo y de adquisiciones elaborados por la Dirección General de Tecnologías de la Información, a fin de coadyuvar en un desarrollo informático institucional acorde con los objetivos y metas de los programas a corto, mediano y largo plazo;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
-IV. Aprobar, con base en los lineamientos autorizados, los sistemas, proyectos o infraestructura informática que a través de la Dirección General de Tecnologías de la Información, soliciten las áreas administrativas y los órganos jurisdiccionales;
+II. Obtener el visto bueno del Comité de Gobernanza Digital en los temas específicos de su competencia y luego el de la Comisión de Administración, para posteriormente someter a aprobación del Pleno, la Política Informática del Consejo, contemplando su impacto en los servicios que se ofrecen al Consejo, órganos jurisdiccionales, y ciudadanía en general, así como la adopción progresiva de las tecnologías más adecuadas para los fines institucionales;
 
-V. Autorizar los lineamientos a los cuales deberán apegarse las áreas administrativas y los órganos jurisdiccionales para mejorar el uso y aprovechamiento de los bienes y servicios de tecnología de la información y de comunicaciones por medios electrónicos, coadyuvando en la agilización de los procesos judiciales y administrativos;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+III. Aprobar los anteproyectos de presupuesto de egresos y los programas anuales de trabajo y de adquisiciones elaborados por la Dirección General de Tecnologías de la Información, a fin de coadyuvar en un desarrollo informático institucional acorde con los objetivos y metas de los programas a corto, mediano y largo plazo conforme a la alineación estratégica definida por el Comité de Gobernanza Digital;
+
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+IV. Aprobar, con base en los lineamientos autorizados y en la priorización establecida por el Comité de Gobernanza Digital en lo referente al ámbito de sus atribuciones, los sistemas, proyectos o infraestructura informática que, a través de la Dirección General de Tecnologías de la Información, soliciten las áreas administrativas y los órganos jurisdiccionales;
+
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+V. Autorizar, previo visto bueno del Comité de Gobernanza Digital en lo referente al ámbito de sus atribuciones, los lineamientos a los cuales deberán apegarse las áreas administrativas y los órganos jurisdiccionales para mejorar el uso y aprovechamiento de los bienes y servicios de tecnología de la información y de comunicaciones por medios electrónicos, coadyuvando en la agilización de los procesos judiciales y administrativos;
 
 VI. Apoyar y, en su caso, participar en los programas de modernización administrativa autorizados por el Pleno o la Comisión de Administración;
 
-VII. Determinar acciones de seguimiento y evaluación de los resultados de los programas a corto, mediano y largo plazo y señalar, en su caso, las medidas correctivas;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+VII. Determinar acciones de seguimiento y evaluación de los resultados de los programas a corto, mediano y largo plazo y señalar, en su caso, las medidas correctivas. En el supuesto de que se adviertan incidencias relacionadas con las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia, éstas se deberán hacer del conocimiento del Comité de Gobernanza Digital y resueltas, en el ámbito de sus atribuciones, por la Dirección General de Tecnologías de la Información y la Dirección General de Estrategia y Transformación Digital;
 
 VIII. Determinar en su caso la integración de grupos de trabajo, de carácter temporal o permanente, que actúen como instancias auxiliares del mismo Comité, convocando a las áreas que considere conveniente;
 
@@ -8721,6 +8741,20 @@ Los servidores públicos y demás personas a las que se refiere este artículo d
 
 Los servidores públicos que participen en las sesiones del Comité de Informática, en el ámbito de su competencia, deberán cumplir y hacer cumplir, las disposiciones establecidas en este Capítulo y demás ordenamientos aplicables, así como lo dispuesto en la Ley General de Responsabilidades Administrativas.
 
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+###### Artículo 689 Bis.
+
+El titular de la Dirección General de Estrategia y Transformación Digital será asesor permanente del Comité de Tecnologías de la Información y tendrá las siguientes funciones:
+
+I. Asistir a las reuniones del Comité con derecho a voz, pero sin voto;
+
+II. Analizar los documentos relacionados con la competencia del Comité;
+
+III. Opinar y proporcionar la asesoría que estime pertinente en los asuntos de su especialización; y
+
+IV. Proponer alternativas de solución, cuando le sean solicitadas.
+
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 690.
@@ -8741,9 +8775,173 @@ VI. El Comité informará a la Comisión de Administración y, en su caso, al Pl
 
 VII. Deberá incluirse en el orden del día un apartado correspondiente al seguimiento de acuerdos emitidos en las sesiones anteriores. En el punto de asuntos generales, podrán incluirse los de carácter informativo.
 
-### CAPÍTULO SEGUNDO. PRESUPUESTO DE EGRESOS DEL PODER JUDICIAL DE LA FEDERACIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
-### CAPÍTULO TERCERO. EJERCICIO DEL GASTO PÚBLICO EN EL CONSEJO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+###### Artículo 690 Bis.
+
+El Comité de Gobernanza Digital es el cuerpo multidisciplinario dedicado específicamente a coadyuvar en la formulación, integración, implementación, seguimiento y supervisión de las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia del Consejo, que regirán la priorización de proyectos en materia de tecnologías de la información desde la perspectiva de las estrategias en los rubros antes mencionados, así como de los contenidos de las políticas, lineamientos y disposiciones técnicas correspondientes a estos rubros.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+###### Artículo 690 Ter.
+
+El Comité de Gobernanza Digital estará integrado, en los siguientes términos:
+
+I. Presidente: La persona titular de la Secretaría Ejecutiva del Pleno; y
+
+II. Vocales: Las o los titulares de la Dirección General de Gestión Judicial, la Dirección General de Tecnologías de la Información y la Dirección General de Estrategia y Transformación Digital.
+
+Las y los integrantes del Comité tendrán derecho a voz y voto durante las sesiones, y podrán ser sustituidos, en los casos debidamente justificados, por la persona que designen por oficio, quien deberá contar con el nivel inmediato inferior.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+###### Artículo 690 Quater.
+
+El o la titular de la Dirección General de Estadística Judicial será asesor permanente del Comité de Gobernanza Digital y tendrá las siguientes funciones:
+
+I. Asistir a las reuniones del Comité con derecho a voz, pero sin voto;
+
+II. Analizar los documentos relacionados con la competencia del Comité;
+
+III. Opinar y proporcionar la asesoría que estime pertinente en los asuntos de su especialización; y
+
+IV. Proponer alternativas de solución, cuando le sean solicitadas.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+###### Artículo 690 Quinquies.
+
+Podrán incorporarse al Comité, como invitados o asesores temporales, las y los servidores públicos del Consejo, personas físicas y jurídicas expertos o especialistas en los temas a tratar en las sesiones que, en razón de su competencia, profesión u oficio que desempeñen, puedan aportar sus conocimientos, experiencias y consejo para la resolución de los asuntos de la responsabilidad del Comité, teniendo derecho a voz, pero no a voto.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+###### Artículo 690 Sexies.
+
+El Comité de Gobernanza Digital tendrá las siguientes funciones:
+
+I. Definir y someter al conocimiento de la Comisión de Administración y a la aprobación del Pleno, los planes, políticas y normativa, ésta con el visto bueno de la Dirección General de Asuntos Jurídicos, en materia de gobierno de datos, gobernanza digital, transformación digital y e-Justicia en el ámbito de los órganos jurisdiccionales y áreas administrativas del Consejo;
+
+II. Aprobar estrategias, proyectos, acciones, iniciativas, lineamientos, disposiciones y contenidos, relacionados con gobierno de datos, gobernanza digital, transformación digital y e-Justicia, que regirán los sistemas y proyectos dentro del Consejo para el cumplimiento de las estrategias en estos rubros. El Comité, en atención a la relevancia de los asuntos de su conocimiento, podrá remitirlos para aprobación de la Comisión de Administración o el Pleno, según corresponda;
+
+III. Definir, proponer y validar la alineación estratégica de las solicitudes de desarrollos y proyectos realizados, a través de la Dirección General de Tecnologías de la Información, por las áreas administrativas y los órganos jurisdiccionales, así como de los proyectos institucionales en materia de gobierno de datos, gobernanza digital, transformación digital y e-Justicia y sus actualizaciones, tomando en consideración las necesidades institucionales y la disponibilidad de recursos;
+
+IV. Conocer, validar y, en su caso, complementar el Plan Estratégico de Tecnologías de la Información y Comunicaciones, así como sus actualizaciones, tomando en consideración las necesidades institucionales, las prioridades de atención y las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia;
+
+V. Conocer y validar, la Política Informática del Consejo, así como los lineamientos en materia de tecnologías de la información y comunicaciones en aquellos rubros que impacten las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia;
+
+VI. Verificar la implementación de proyectos estratégicos, así como determinar acciones de seguimiento y evaluación de los resultados;
+
+VII. Establecer la integración de grupos de trabajo, de carácter temporal o permanente, que actúen como instancias auxiliares del Comité para acciones y proyectos dentro de las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia;
+
+VIII. Conocer y emitir opinión respecto de los asuntos relevantes que, en su ámbito de competencia, le formulen las direcciones generales de Gestión Judicial, de Estrategia y Transformación Digital y de Tecnologías de la Información;
+
+IX. En relación con la estrategia de gobierno de datos y gobernanza digital, el Comité de Gobernanza Digital tendrá, además, las siguientes funciones:
+
+a) Promover el intercambio de información y participación de las áreas administrativas dentro de las estrategias de gobierno de datos y gobernanza digital;
+
+b) Conocer y validar el listado de entidades de información institucionales, así como su documentación y, en su caso, resolver conflictos relacionados con los datos a nivel estratégico;
+
+c) Promover la disponibilidad de los datos institucionales y validar modificaciones en los procesos y en la gestión de la información, a partir de estándares que garanticen el acceso, calidad, consistencia, seguridad y mejora de los datos institucionales;
+
+d) Asignar los roles de gobierno de datos, así como validar las políticas, lineamientos y reglas para el acceso, obtención y tratamiento de la información;
+
+e) Garantizar que la estrategia en las distintas áreas que integran el Consejo sea aplicada de manera sostenible y progresiva en la totalidad de su quehacer institucional; y
+
+f) Requerir a la Dirección General de Tecnologías de la Información el aprovisionamiento de la infraestructura necesaria para la implementación de las estrategias en materia de gobierno de datos, gobernanza digital, transformación digital y e-Justicia; y
+
+X. Las demás que se determinen necesarias para garantizar las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia, que sean conferidas por el Pleno, la Comisión de Administración o por el Presidente, a través de la persona titular de la Secretaría Ejecutiva del Pleno.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+###### Artículo 690 Septies.
+
+Quien presida el Comité de Gobernanza Digital tendrá las siguientes funciones:
+
+I. Autorizar el orden del día de las sesiones a celebrar;
+
+II. Moderar los debates durante las sesiones;
+
+III. Representar al Comité, para el desahogo de los asuntos de su competencia;
+
+IV. Vigilar el correcto funcionamiento del Comité;
+
+V. Presentar a opinión y aprobación de la Comisión de Administración y del Pleno, los asuntos que determine el Comité; y
+
+VI. Las demás que le otorgue el Pleno.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+###### Artículo 690 Octies.
+
+Las y los vocales tendrán las siguientes funciones:
+
+I. Asistir a las reuniones que convoque el Comité;
+
+II. Colaborar en los proyectos definidos por el Comité;
+
+III. Dar su opinión y emitir su voto respecto de los asuntos puestos a consideración del Comité en la sesión correspondiente;
+
+IV. Remitir a la secretaría técnica, antes de la reunión, los documentos de los asuntos que deseen someter a la consideración del Comité;
+
+V. Ejecutar, en el ámbito de sus atribuciones, los acuerdos emitidos por el Comité de Gobernanza Digital, la Comisión de Administración y, en su caso, por el Pleno; y
+
+VI. Las demás funciones que les sean encomendadas por la Comisión de Administración o el Pleno.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+###### Artículo 690 Nonies.
+
+El Secretario Técnico de Estrategia de Datos de la Dirección General de Estrategia y Transformación Digital fungirá como secretario técnico del Comité, quien tendrá las funciones siguientes:
+
+I. Convocar a las reuniones del Comité;
+
+II. Previa autorización de la Presidencia del Comité, requerir a las diversas áreas administrativas, la asesoría y estudio pormenorizado de cuestiones de carácter técnico especializado, respecto de asuntos competencia del Comité; y citar a las personas titulares para que, con el carácter de asesores temporales o invitados, internos o externos, concurran a las sesiones correspondientes.
+
+Previa autorización del Presidente del Comité, invitar a las personas físicas y jurídicas a que se refiere el artículo 690 Quinquies.
+
+Las personas servidoras públicas y demás personas convocadas deberán guardar absoluta confidencialidad de la información a la que tengan acceso.
+
+Las y los servidores públicos que participen en las sesiones del Comité de Gobernanza Digital, en el ámbito de su competencia, deberán cumplir y hacer cumplir, las disposiciones establecidas en este Capítulo y demás ordenamientos aplicables, así como lo dispuesto en la Ley General de Responsabilidades Administrativas;
+
+III. Preparar y presentar el orden del día de la sesión, junto con los listados de los asuntos que se tratarán, incluyendo los documentos necesarios y los apoyos que se requieran, de lo cual remitirá copia a cada integrante del Comité;
+
+IV. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse y videograbar la sesión conforme a la orden de quien presida, en el soporte material respectivo y, en su caso, preparar una versión pública;
+
+V. Elaborar las actas de las sesiones para la aprobación del Comité e integrarlas en el expediente electrónico respectivo;
+
+VI. Vigilar que el archivo electrónico de los documentos analizados por el Comité esté completo y se mantenga actualizado, cuidando su conservación por el tiempo mínimo que establezcan las disposiciones aplicables;
+
+VII. Vigilar que cada asunto aprobado por el Comité esté respaldado con la firma electrónica de las y los integrantes, asesores e invitados a la sesión celebrada;
+
+VIII. Apoyar, en el ámbito de sus atribuciones, en el debido cumplimiento de los objetivos y acuerdos del Comité;
+
+IX. Certificar las copias de las actas que se generen con motivo de las sesiones, así como los demás documentos que obren en los archivos del propio Comité, cuando proceda su expedición;
+
+X. Las demás que le encomiende quien presida el Comité.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+
+###### Artículo 690 Decies.
+
+Las sesiones del Comité de Gobernanza Digital se celebrarán de la siguiente manera:
+
+I. En forma ordinaria una vez cada tres meses y de manera extraordinaria cuando así lo convoque quien lo presida. Invariablemente, sesionará en las fechas previstas en los calendarios establecidos para la definición de las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia, la presentación del Plan Estratégico de Tecnologías de la Información y de las Comunicaciones, las políticas y lineamientos en materia de tecnologías de la información, así como las iniciativas, normativa y contenidos, relacionados con éstas;
+
+II. Deberán concurrir todas las personas que integren el Comité. Sin embargo, podrán llevarse a cabo con la presencia de quien presida y, cuando menos, dos vocales;
+
+III. La convocatoria, el orden del día, junto con la documentación correspondiente, se entregarán a las y los integrantes del Comité, asesores y, en su caso, invitados al menos con cinco días hábiles de anticipación, a la celebración de sesiones ordinarias y dos días hábiles de anticipación tratándose de extraordinarias;
+
+IV. Las decisiones se adoptarán por mayoría de votos de sus miembros presentes y, en caso de empate, quien presida tendrá voto de calidad;
+
+V. Para todas las sesiones se levantará un acta con los acuerdos tomados, la cual será suscrita por las y los integrantes, asesores e invitados, dejando constancia de la sesión;
+
+VI. El Comité informará los acuerdos adoptados en cada una de las sesiones que celebre; y
+
+VII. Deberá incluirse en el orden del día un apartado correspondiente al seguimiento de acuerdos emitidos en las sesiones anteriores. En el punto de asuntos generales, podrán incluirse los de carácter informativo.
+
+### CAPÍTULO SEGUNDO. PRESUPUESTO DE EGRESOS DEL PODER JUDICIAL DE LA FEDERACIÓN
 
 ###### Artículo 691.
 
@@ -8951,7 +9149,7 @@ Las cuestiones no previstas en este Capítulo serán resueltas por la Comisión 
 
 ## TÍTULO PRIMERO. PROCESO PRESUPUESTARIO
 
-### CAPÍTULO CUARTO. FIDEICOMISOS PÚBLICOS
+### CAPÍTULO TERCERO. EJERCICIO DEL GASTO PÚBLICO EN EL CONSEJO
 
 #### SECCIÓN SEGUNDA. PROGRAMACIÓN Y PRESUPUESTACIÓN
 
@@ -9171,9 +9369,7 @@ Para tener por cumplidos los requisitos señalados en la presente fracción, no 
 
 El área administrativa solicitante deberá presentar un informe semestral al Pleno, sobre la evaluación de los avances y resultados obtenidos, así como al concluir la vigencia del convenio.
 
-### CAPÍTULO QUINTO. DE LA CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
+### CAPÍTULO CUARTO. FIDEICOMISOS PÚBLICOS
 
 #### SECCIÓN PRIMERA. DEL SISTEMA DE CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
@@ -9335,7 +9531,9 @@ IV. Registrar cada programa y proyecto en la cartera que integra la Dirección G
 
 La Dirección General de Innovación, Planeación y Desarrollo Institucional y las unidades globalizadoras deberán mantener actualizada la información contenida en la cartera. Sólo los programas y proyectos registrados en la cartera se podrán incluir en el anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación.
 
-### CAPÍTULO SEXTO. CONTROL Y VIGILANCIA DEL GASTO PÚBLICO EN EL CONSEJO, Y CUMPLIMIENTO DE OBJETIVOS Y METAS
+### CAPÍTULO QUINTO. DE LA CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 #### SECCIÓN TERCERA. DE LA FORMULACIÓN DE ESTADOS FINANCIEROS Y DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
 
@@ -9871,7 +10069,7 @@ Con el fin de procurar el ejercicio eficiente y eficaz del gasto, la Secretaría
 
 La Dirección General de Programación, Presupuesto y Tesorería tendrá la atribución de supervisar el adecuado desarrollo de la desconcentración de las funciones y operaciones señaladas en el párrafo anterior, con la finalidad de mantener el control del gasto, y la integridad y consistencia de la información financiera.
 
-### CAPÍTULO SÉPTIMO. EVALUACIÓN, INFORMACIÓN Y TRANSPARENCIA
+### CAPÍTULO SEXTO. CONTROL Y VIGILANCIA DEL GASTO PÚBLICO EN EL CONSEJO, Y CUMPLIMIENTO DE OBJETIVOS Y METAS
 
 ###### Artículo 771.
 
@@ -9893,9 +10091,7 @@ Al extinguirse los fideicomisos, los recursos públicos remanentes deberán dest
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+### CAPÍTULO SÉPTIMO. EVALUACIÓN, INFORMACIÓN Y TRANSPARENCIA
 
 #### SECCIÓN TERCERA. RESPONSABILIDADES
 
@@ -10419,7 +10615,7 @@ La Dirección General de Programación, Presupuesto y Tesorería, así como las 
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-### CAPÍTULO SEGUNDO. AUTORIZACIÓN DE COMISIONES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -10595,7 +10791,7 @@ Las responsabilidades que procedan en los términos de esta Sección, tienen com
 
 Las responsabilidades a que se refiere este Título, se constituirán y exigirán administrativamente, con independencia de las sanciones de otra naturaleza que, en su caso, lleguen a determinarse por la autoridad competente.
 
-### CAPÍTULO TERCERO. TRÁMITE DE SOLICITUD DE VIÁTICOS Y TRANSPORTACIÓN
+### CAPÍTULO SEGUNDO. AUTORIZACIÓN DE COMISIONES
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -10651,33 +10847,9 @@ Las unidades ejecutoras de gasto serán responsables de la rendición de cuentas
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-### CAPÍTULO CUARTO. TARIFAS Y ENTREGA DE RECURSOS
+### CAPÍTULO TERCERO. TRÁMITE DE SOLICITUD DE VIÁTICOS Y TRANSPORTACIÓN
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Sexdecies. Los recursos que se entreguen a los servidores públicos de conformidad al grupo que corresponda, serán con base en las tarifas de viáticos para comisiones nacionales e internacionales autorizadas por la Comisión de Administración, mismas que se establecerán en la Guía.
-
-Además de las tarifas autorizadas para cada grupo de viáticos, se podrán entregar a petición del área solicitante, recursos económicos por concepto de transportación o taxis para traslado.
-
-Para comisiones en el extranjero, se asignará la tarifa autorizada de viáticos que corresponda y para los gastos de hospedaje, se otorgarán los recursos de acuerdo a la reservación que se haya efectuado con el hotel donde se alojará el servidor público comisionado, buscando para tal efecto, las mejores condiciones de decoro en apego a las medidas de racionalidad.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Septdecies. La tarifa de viáticos sin pernocta se aplicará cuando el servidor público comisionado no requiera hospedaje, o bien, se trate del último día de una comisión.
-
-La tarifa total unificada se aplicará por los días que pernocta el servidor público comisionado en el lugar de la comisión, siendo ésta, la que incluye las tarifas de viáticos sin pernocta más la correspondiente al hospedaje; pudiendo el servidor público comisionado adecuar de manera indistinta el ejercicio del gasto entre viáticos y hospedaje, siempre y cuando no se rebase el monto resultante de la suma de ambos conceptos por el total de días que dure la comisión.
-
-Artículo 835 Octodecies. (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE DEROGA EL ARTÍCULO 835 OCTODECIES DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE OCTUBRE DE 2015)
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
-
-Artículo 835 Novodecies. El monto de los viáticos y transportación, para el caso de comisiones nacionales, se entregará mediante transferencia electrónica en la cuenta bancaria del trabajador en la que percibe su nómina y, sólo en caso de tener una limitante como se señala en la Guía, será a través de cheque; para el caso de comisiones internacionales, se entregará el importe de los viáticos directamente en las divisas autorizadas.
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
-
-Artículo 835 Vicies. La Comisión de Administración, autorizará la actualización de las tarifas vigentes conforme a la situación que prevalezca en el mercado, siempre y cuando exista suficiencia de disponibilidad presupuestal para tales efectos, lo anterior, con base en el análisis elaborado por la Dirección General de Programación, Presupuesto y Tesorería, el cual deberá considerar entre otros factores, el índice inflacionario del año inmediato anterior o el acumulado por el periodo que corresponda.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 835 Bis.
 
@@ -10755,57 +10927,31 @@ Los casos no previstos se homologarán a su nivel tabular dentro de la estructur
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-### CAPÍTULO QUINTO. RESERVACIÓN Y CONTRATACIÓN DE HOSPEDAJE Y TRANSPORTACIÓN
+### CAPÍTULO CUARTO. TARIFAS Y ENTREGA DE RECURSOS
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Sexdecies. Los recursos que se entreguen a los servidores públicos de conformidad al grupo que corresponda, serán con base en las tarifas de viáticos para comisiones nacionales e internacionales autorizadas por la Comisión de Administración, mismas que se establecerán en la Guía.
+
+Además de las tarifas autorizadas para cada grupo de viáticos, se podrán entregar a petición del área solicitante, recursos económicos por concepto de transportación o taxis para traslado.
+
+Para comisiones en el extranjero, se asignará la tarifa autorizada de viáticos que corresponda y para los gastos de hospedaje, se otorgarán los recursos de acuerdo a la reservación que se haya efectuado con el hotel donde se alojará el servidor público comisionado, buscando para tal efecto, las mejores condiciones de decoro en apego a las medidas de racionalidad.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Septdecies. La tarifa de viáticos sin pernocta se aplicará cuando el servidor público comisionado no requiera hospedaje, o bien, se trate del último día de una comisión.
+
+La tarifa total unificada se aplicará por los días que pernocta el servidor público comisionado en el lugar de la comisión, siendo ésta, la que incluye las tarifas de viáticos sin pernocta más la correspondiente al hospedaje; pudiendo el servidor público comisionado adecuar de manera indistinta el ejercicio del gasto entre viáticos y hospedaje, siempre y cuando no se rebase el monto resultante de la suma de ambos conceptos por el total de días que dure la comisión.
+
+Artículo 835 Octodecies. (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE DEROGA EL ARTÍCULO 835 OCTODECIES DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-Artículo 835 Unvicies. El trámite de reservación y contratación de hospedaje lo realizará el área solicitante, a través de los servidores públicos designados para tales efectos por el titular respectivo o, en su caso, por el propio servidor público comisionado, debiéndose considerar la duración de la comisión, procurando obtener beneficios adicionales sin costo, tales como: Internet, llamadas telefónicas, transportación hotel-aeropuerto-hotel, desayunos o descuentos en alimentos.
-
-En cuanto a las comisiones internacionales, la Dirección General de Programación, Presupuesto y Tesorería o las Unidades Administrativas Foráneas, podrán a petición expresa del área solicitante, apoyar en la identificación de opciones de hospedaje, así como en la reservación y pago correspondiente.
-
-Los beneficios institucionales que se obtengan por la adquisición de boletos de transportación y hospedaje, de todos los grupos y niveles, por parte de las empresas prestadoras de servicios se aplicarán a favor del Consejo.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Duovicies. En lo relativo a la transportación, el área solicitante o los servidores públicos designados deberán elegir el medio de transporte que resulte más adecuado para el cumplimiento de las comisiones.
+Artículo 835 Novodecies. El monto de los viáticos y transportación, para el caso de comisiones nacionales, se entregará mediante transferencia electrónica en la cuenta bancaria del trabajador en la que percibe su nómina y, sólo en caso de tener una limitante como se señala en la Guía, será a través de cheque; para el caso de comisiones internacionales, se entregará el importe de los viáticos directamente en las divisas autorizadas.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-Artículo 835 Tervicies. En caso de determinarse la transportación aérea como el medio idóneo de traslado del servidor público comisionado, se reservarán y adquirirán boletos en clase turista o los que tengan el costo más bajo.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Quatervicies. El trámite de reservación y compra de boletos de avión deberá observar los siguientes lineamientos:
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
-
-I. La Dirección General de Programación, Presupuesto y Tesorería y las Unidades Administrativas Foráneas serán las encargadas de efectuar la reservación y compra de los boletos de avión, por lo que el área solicitante o el servidor público designado, únicamente deberá proporcionar los datos básicos de la propuesta del itinerario de la transportación aérea del comisionado;
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
-
-II. La Dirección General de Programación, Presupuesto y Tesorería y las Unidades Administrativas Foráneas, de ser posible, con base en las reglas previstas en la Guía, efectuarán un análisis comparativo de ofertas para la reservación y compra de boletos de avión que ofrezcan las distintas empresas en el mercado, a fin de determinar cuál de ellas representa la mayor economía al Consejo. Se podrán incluir opciones de tarifas en clase turista, promocional o con restricciones; y
-
-III. El área solicitante deberá requerir la compra de la transportación aérea con la mayor anticipación posible, a efecto de garantizar su traslado, así como un mejor precio al momento de la adquisición.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Quinvicies. Para la transportación distinta a la aérea, será responsabilidad del área solicitante observar lo siguiente:
-
-I. En su caso, que los trámites de reservación y contratación de la transportación incluyan el viaje redondo; y
-
-II. Que en caso de que el servidor público comisionado utilice el automóvil de su propiedad para trasladarse al lugar de la comisión, éste se encuentre asegurado.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Sexvicies. Las áreas solicitantes o el servidor público designado, podrán solicitar recursos por concepto de taxis para traslado, mismos que deberán ser comprobados en su totalidad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
-
-Artículo 835 Septvicies. La Dirección General de Programación, Presupuesto y Tesorería y las Unidades Administrativas Foráneas podrán, a petición de las áreas solicitantes, contratar los servicios de paquetes de viaje que incluyan transportación y hospedaje, siempre y cuando dicha opción resulte conveniente en términos de costo y represente un ahorro para el Consejo.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Los recursos que se otorgarán al servidor público comisionado, serán los relativos a la tarifa de viáticos sin pernocta, así como, en su caso, el correspondiente a taxis para traslado.
+Artículo 835 Vicies. La Comisión de Administración, autorizará la actualización de las tarifas vigentes conforme a la situación que prevalezca en el mercado, siempre y cuando exista suficiencia de disponibilidad presupuestal para tales efectos, lo anterior, con base en el análisis elaborado por la Dirección General de Programación, Presupuesto y Tesorería, el cual deberá considerar entre otros factores, el índice inflacionario del año inmediato anterior o el acumulado por el periodo que corresponda.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -10863,6 +11009,100 @@ IV. Cuando el servidor público desempeñe dos o más empleos compatibles, a men
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
+### CAPÍTULO QUINTO. RESERVACIÓN Y CONTRATACIÓN DE HOSPEDAJE Y TRANSPORTACIÓN
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Unvicies. El trámite de reservación y contratación de hospedaje lo realizará el área solicitante, a través de los servidores públicos designados para tales efectos por el titular respectivo o, en su caso, por el propio servidor público comisionado, debiéndose considerar la duración de la comisión, procurando obtener beneficios adicionales sin costo, tales como: Internet, llamadas telefónicas, transportación hotel-aeropuerto-hotel, desayunos o descuentos en alimentos.
+
+En cuanto a las comisiones internacionales, la Dirección General de Programación, Presupuesto y Tesorería o las Unidades Administrativas Foráneas, podrán a petición expresa del área solicitante, apoyar en la identificación de opciones de hospedaje, así como en la reservación y pago correspondiente.
+
+Los beneficios institucionales que se obtengan por la adquisición de boletos de transportación y hospedaje, de todos los grupos y niveles, por parte de las empresas prestadoras de servicios se aplicarán a favor del Consejo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Duovicies. En lo relativo a la transportación, el área solicitante o los servidores públicos designados deberán elegir el medio de transporte que resulte más adecuado para el cumplimiento de las comisiones.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Tervicies. En caso de determinarse la transportación aérea como el medio idóneo de traslado del servidor público comisionado, se reservarán y adquirirán boletos en clase turista o los que tengan el costo más bajo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Quatervicies. El trámite de reservación y compra de boletos de avión deberá observar los siguientes lineamientos:
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+I. La Dirección General de Programación, Presupuesto y Tesorería y las Unidades Administrativas Foráneas serán las encargadas de efectuar la reservación y compra de los boletos de avión, por lo que el área solicitante o el servidor público designado, únicamente deberá proporcionar los datos básicos de la propuesta del itinerario de la transportación aérea del comisionado;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+II. La Dirección General de Programación, Presupuesto y Tesorería y las Unidades Administrativas Foráneas, de ser posible, con base en las reglas previstas en la Guía, efectuarán un análisis comparativo de ofertas para la reservación y compra de boletos de avión que ofrezcan las distintas empresas en el mercado, a fin de determinar cuál de ellas representa la mayor economía al Consejo. Se podrán incluir opciones de tarifas en clase turista, promocional o con restricciones; y
+
+III. El área solicitante deberá requerir la compra de la transportación aérea con la mayor anticipación posible, a efecto de garantizar su traslado, así como un mejor precio al momento de la adquisición.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Quinvicies. Para la transportación distinta a la aérea, será responsabilidad del área solicitante observar lo siguiente:
+
+I. En su caso, que los trámites de reservación y contratación de la transportación incluyan el viaje redondo; y
+
+II. Que en caso de que el servidor público comisionado utilice el automóvil de su propiedad para trasladarse al lugar de la comisión, éste se encuentre asegurado.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Sexvicies. Las áreas solicitantes o el servidor público designado, podrán solicitar recursos por concepto de taxis para traslado, mismos que deberán ser comprobados en su totalidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Septvicies. La Dirección General de Programación, Presupuesto y Tesorería y las Unidades Administrativas Foráneas podrán, a petición de las áreas solicitantes, contratar los servicios de paquetes de viaje que incluyan transportación y hospedaje, siempre y cuando dicha opción resulte conveniente en términos de costo y represente un ahorro para el Consejo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Los recursos que se otorgarán al servidor público comisionado, serán los relativos a la tarifa de viáticos sin pernocta, así como, en su caso, el correspondiente a taxis para traslado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+###### Artículo 835 Decies.
+
+Las áreas responsables de tramitar los viáticos y transportación para comisiones son:
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+I. La Dirección General de Programación, Presupuesto y Tesorería, para los servidores públicos adscritos en la Ciudad de México y su zona metropolitana; y
+
+II. Las Unidades Administrativas Foráneas, para el caso del resto de la República.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Undecies. Todo trámite de solicitud de viáticos y transportación, se deberá realizar a través del Sistema de Administración de Viáticos SIAVI.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+En los órganos jurisdiccionales, las solicitudes de viáticos y transportación se gestionarán a través del Coordinador Técnico Administrativo asignado, y en ausencia de éste, por el servidor público que designe el titular del órgano jurisdiccional; mediante correo electrónico institucional, ante la Dirección General de Programación, Presupuesto y Tesorería o las Unidades Administrativas Foráneas, según corresponda, siendo estos últimos los que registrarán y tramitarán en el Sistema de Administración de Viáticos SIAVI dichos requerimientos.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Duodecies. La Dirección General de Programación, Presupuesto y Tesorería, deberá establecer en la Guía las reglas para el trámite de la solicitud de viáticos y transportación, así como su comprobación.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Terdecies. Las áreas solicitantes deberán cuantificar la duración total de cada comisión, a efecto de prever, en el caso del traslado del servidor público, desde la fecha de salida del lugar de origen, hasta la fecha en que éste tenga su regreso.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Quaterdecies. El titular del área solicitante bajo su más estricta responsabilidad, podrá delegar en uno o más servidores públicos a su cargo, la facultad para realizar las gestiones necesarias para el trámite de la solicitud de recursos por concepto de viáticos y transportación, a través del Sistema de Administración de Viáticos SIAVI; para lo cual, deberá notificar dicha situación a la Dirección General de Programación, Presupuesto y Tesorería mediante oficio, indicando el nombre de la o las personas facultadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Quindecies. La Dirección General de Programación, Presupuesto y Tesorería, y las Unidades Administrativas Foráneas, en su respectivo ámbito de competencia, podrán atender las solicitudes de viáticos y transportación recibidas para trámite normal con un plazo mínimo de anticipación de 5 días hábiles; para comisiones urgentes 2 días hábiles previo al inicio de la misma; en ambos casos para el territorio nacional; y para el caso de comisiones internacionales en el momento en que se toma conocimiento del acuerdo respectivo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+En aquellos supuestos en que por necesidad del servicio el comisionado deba trasladarse de manera urgente sin los recursos de viáticos y transportación, los gastos iniciales correrán a cuenta de éste, estableciéndose en la Guía los mecanismos conducentes para su reembolso.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
 ### CAPÍTULO SEXTO. COMPROBACIÓN DEL EJERCICIO DEL GASTO
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
@@ -10906,46 +11146,6 @@ Artículo 835 Quatertricies. Las áreas solicitantes cuyos servidores públicos 
 En los demás casos, serán las Unidades Administrativas Foráneas quienes llevarán a cabo el registro, así como las modificaciones y correcciones de referencia.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-###### Artículo 835 Decies.
-
-Las áreas responsables de tramitar los viáticos y transportación para comisiones son:
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
-
-I. La Dirección General de Programación, Presupuesto y Tesorería, para los servidores públicos adscritos en la Ciudad de México y su zona metropolitana; y
-
-II. Las Unidades Administrativas Foráneas, para el caso del resto de la República.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Undecies. Todo trámite de solicitud de viáticos y transportación, se deberá realizar a través del Sistema de Administración de Viáticos SIAVI.
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
-
-En los órganos jurisdiccionales, las solicitudes de viáticos y transportación se gestionarán a través del Coordinador Técnico Administrativo asignado, y en ausencia de éste, por el servidor público que designe el titular del órgano jurisdiccional; mediante correo electrónico institucional, ante la Dirección General de Programación, Presupuesto y Tesorería o las Unidades Administrativas Foráneas, según corresponda, siendo estos últimos los que registrarán y tramitarán en el Sistema de Administración de Viáticos SIAVI dichos requerimientos.
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
-
-Artículo 835 Duodecies. La Dirección General de Programación, Presupuesto y Tesorería, deberá establecer en la Guía las reglas para el trámite de la solicitud de viáticos y transportación, así como su comprobación.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Terdecies. Las áreas solicitantes deberán cuantificar la duración total de cada comisión, a efecto de prever, en el caso del traslado del servidor público, desde la fecha de salida del lugar de origen, hasta la fecha en que éste tenga su regreso.
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
-
-Artículo 835 Quaterdecies. El titular del área solicitante bajo su más estricta responsabilidad, podrá delegar en uno o más servidores públicos a su cargo, la facultad para realizar las gestiones necesarias para el trámite de la solicitud de recursos por concepto de viáticos y transportación, a través del Sistema de Administración de Viáticos SIAVI; para lo cual, deberá notificar dicha situación a la Dirección General de Programación, Presupuesto y Tesorería mediante oficio, indicando el nombre de la o las personas facultadas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
-
-Artículo 835 Quindecies. La Dirección General de Programación, Presupuesto y Tesorería, y las Unidades Administrativas Foráneas, en su respectivo ámbito de competencia, podrán atender las solicitudes de viáticos y transportación recibidas para trámite normal con un plazo mínimo de anticipación de 5 días hábiles; para comisiones urgentes 2 días hábiles previo al inicio de la misma; en ambos casos para el territorio nacional; y para el caso de comisiones internacionales en el momento en que se toma conocimiento del acuerdo respectivo.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-En aquellos supuestos en que por necesidad del servicio el comisionado deba trasladarse de manera urgente sin los recursos de viáticos y transportación, los gastos iniciales correrán a cuenta de éste, estableciéndose en la Guía los mecanismos conducentes para su reembolso.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 ### CAPÍTULO SÉPTIMO. CANCELACIONES
 
@@ -11003,15 +11203,11 @@ La Comisión de Administración resolverá respecto de aquellos supuestos que no
 
 ### CAPÍTULO SEGUNDO. FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
 
+## TÍTULO SEGUNDO. DEL COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS Y DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
+
 ### CAPÍTULO PRIMERO. LOGOTIPO DEL CONSEJO
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL LOGOTIPO DEL CONSEJO, D.O.F. 31 DE AGOSTO DE 2016)</small>
-
-## TÍTULO SEGUNDO. DEL COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS Y DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
-
-### CAPÍTULO SEGUNDO. ROL DE DIARIOS NACIONALES
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 836.
 
@@ -11281,7 +11477,9 @@ La Comisión de Administración, por sí o a través del Comité, podrá contrat
 
 La contratación a que hace referencia este artículo deberá sujetarse a las reglas de este Acuerdo en materia de procedimientos para las contrataciones requeridas por el Consejo.
 
-### CAPÍTULO PRIMERO. SEGURIDAD EN LAS INSTALACIONES DEL PODER JUDICIAL DE LA FEDERACIÓN
+### CAPÍTULO SEGUNDO. ROL DE DIARIOS NACIONALES
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 #### SECCIÓN SÉPTIMA. SANCIONES
 
@@ -11649,7 +11847,7 @@ En las dudas o controversias que se generen con motivo de la interpretación adm
 
 ## TÍTULO PRIMERO. COMUNICACIÓN SOCIAL
 
-### CAPÍTULO SEGUNDO. ACTIVIDADES COMERCIALES
+### CAPÍTULO PRIMERO. SEGURIDAD EN LAS INSTALACIONES DEL PODER JUDICIAL DE LA FEDERACIÓN
 
 ###### Artículo 915.
 
@@ -11663,7 +11861,7 @@ Los servidores públicos únicamente podrán portar y hacer uso de las identific
 
 La portación o el uso de identificaciones, insignias o placas metálicas o de cualquier material, con el logotipo del Consejo de la Judicatura Federal o con características o signos distintivos de pertenencia al Poder Judicial de la Federación, que no sean expedidas oficialmente por el Consejo, será sancionado administrativamente sin perjuicio de la responsabilidad penal o civil a que haya lugar.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEGUNDO. ACTIVIDADES COMERCIALES
 
 ###### Artículo 916.
 
@@ -11677,7 +11875,7 @@ La Dirección General de Comunicación Social y Vocería deberá presentar al Pl
 
 ## TÍTULO SEGUNDO. SEGURIDAD
 
-### CAPÍTULO SEGUNDO. DIRECCIÓN GENERAL DE PROTECCIÓN CIVIL Y SALUD EN EL TRABAJO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 #### SECCIÓN PRIMERA. DEROGADA
 
@@ -11877,7 +12075,7 @@ El ingreso y salida de cualquier bien propiedad de los servidores públicos, se 
 
 Los servidores públicos deberán reportar al personal de seguridad, la presencia de cualquier objeto peligroso o presuntamente abandonado.
 
-### CAPÍTULO TERCERO. PROGRAMA ANUAL DE PROTECCIÓN CIVIL Y SU EJECUCIÓN
+### CAPÍTULO SEGUNDO. DIRECCIÓN GENERAL DE PROTECCIÓN CIVIL Y SALUD EN EL TRABAJO
 
 ###### Artículo 942.
 
@@ -11933,7 +12131,7 @@ II. En la segunda o ulteriores ocasiones, se les obligará a retirarse de las in
 
 ## TÍTULO TERCERO. PROTECCIÓN CIVIL
 
-### CAPÍTULO CUARTO. UNIDADES INTERNAS DE PROTECCIÓN CIVIL DEL CONSEJO
+### CAPÍTULO TERCERO. PROGRAMA ANUAL DE PROTECCIÓN CIVIL Y SU EJECUCIÓN
 
 ###### Artículo 950.
 
@@ -11965,9 +12163,7 @@ La Dirección General de Protección Civil y Salud en el Trabajo, en su carácte
 
 Corresponde a la Dirección General de Protección Civil y Salud en el Trabajo, dar cumplimiento al Programa Anual de Protección Civil del Consejo, rendir un reporte de su cumplimiento, avance y modificaciones, mediante informes semestrales a la Comisión de Administración.
 
-### CAPÍTULO QUINTO. BRIGADAS INSTITUCIONALES
-
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+### CAPÍTULO CUARTO. UNIDADES INTERNAS DE PROTECCIÓN CIVIL DEL CONSEJO
 
 ###### Artículo 953.
 
@@ -12055,7 +12251,7 @@ XXXII. Dictaminar en caso de requerirse la validación de los Programas Internos
 
 XXXIII. Las demás que le determine el Pleno o la Comisión de Administración.
 
-### CAPÍTULO SEXTO. CAPACITACIÓN DE PROTECCIÓN CIVIL
+### CAPÍTULO QUINTO. BRIGADAS INSTITUCIONALES
 
 > <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
@@ -12079,7 +12275,9 @@ El titular de la Dirección General de Protección Civil y Salud en el Trabajo, 
 
 La Dirección General de Protección Civil y Salud en el Trabajo deberá informar a la Comisión de Administración, respecto del cumplimiento del Programa Anual de Protección Civil.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEXTO. CAPACITACIÓN DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
 ###### Artículo 960.
 
@@ -12229,7 +12427,7 @@ III. Realizar reuniones de retroalimentación con los brigadistas; y
 
 IV. Al realizar simulacros, establecer el puesto de mando e informar los resultados a la Dirección General de Protección Civil y Salud en el Trabajo.
 
-### CAPÍTULO SEGUNDO. ESTRUCTURA DEL CERTIFICADO DIGITAL DE LA FIREL
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 970.
 
@@ -12265,7 +12463,7 @@ El área encargada de Servicios Médicos en cada uno de los inmuebles, trabajar�
 
 Asimismo, proporcionarán información a los brigadistas de los pasos necesarios a realizar ante diferentes emergencias médicas.
 
-### CAPÍTULO TERCERO. SOLICITUD DEL CERTIFICADO DIGITAL DE LA FIREL
+### CAPÍTULO SEGUNDO. ESTRUCTURA DEL CERTIFICADO DIGITAL DE LA FIREL
 
 ###### Artículo 975.
 
@@ -12273,7 +12471,7 @@ La capacitación en materia de Protección Civil se orientará a fortalecer y am
 
 ## TÍTULO CUARTO. FIRMA ELECTRÓNICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-### CAPÍTULO CUARTO. RENOVACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
+### CAPÍTULO TERCERO. SOLICITUD DEL CERTIFICADO DIGITAL DE LA FIREL
 
 ###### Artículo 976.
 
@@ -12339,7 +12537,7 @@ I. Un certificado digital vigente emitido en términos de este Título; y
 
 II. Una llave privada.
 
-### CAPÍTULO QUINTO. REVOCACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
+### CAPÍTULO CUARTO. RENOVACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
 
 ###### Artículo 985.
 
@@ -12363,7 +12561,7 @@ VIII. Llave pública; y
 
 IX. Versión de tipos de certificados digitales de la FIREL.
 
-### CAPÍTULO SEXTO. DERECHOS Y OBLIGACIONES DE LOS TITULARES DE LOS CERTIFICADOS DIGITALES DE LA FIREL
+### CAPÍTULO QUINTO. REVOCACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
 
 ###### Artículo 986.
 
@@ -12375,9 +12573,7 @@ El certificado digital de la FIREL únicamente podrá ser solicitado y emitido a
 
 Para obtener un certificado digital de la FIREL emitido por el Consejo, el interesado ingresará a la dirección http://www.pjf.gob.mx/firel/, disponible en el portal de Internet del Consejo; accederá al vínculo denominado FIREL y completará el procedimiento establecido para tal efecto en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica, aprobadas por la Unidad.
 
-### CAPÍTULO SÉPTIMO. SANCIONES
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+### CAPÍTULO SEXTO. DERECHOS Y OBLIGACIONES DE LOS TITULARES DE LOS CERTIFICADOS DIGITALES DE LA FIREL
 
 ###### Artículo 988.
 
@@ -12387,7 +12583,9 @@ La renovación deberá efectuarse dentro de los treinta días anteriores a la co
 
 Para llevar a cabo la renovación del certificado digital de la FIREL, el interesado ingresará a la dirección http://www.pjf.gob.mx/firel/ y completará el procedimiento establecido para tal efecto en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica.
 
-### CAPÍTULO OCTAVO. UNIDAD PARA EL CONTROL DE CERTIFICACIÓN DE FIRMAS DEL CONSEJO
+### CAPÍTULO SÉPTIMO. SANCIONES
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 990.
 
@@ -12403,9 +12601,7 @@ El SEPJF revocará un certificado digital cuando con motivo de la solicitud de u
 
 Una vez revocado un certificado no podrá ser utilizado, por lo que si el interesado requiere de otro certificado digital de la FIREL tendrá que solicitarlo de nueva cuenta conforme al procedimiento establecido en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica.
 
-### CAPÍTULO NOVENO. DEL RECONOCIMIENTO DE CERTIFICADOS DIGITALES Y DE LA CELEBRACIÓN DE CONVENIOS DE COORDINACIÓN
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
+### CAPÍTULO OCTAVO. UNIDAD PARA EL CONTROL DE CERTIFICACIÓN DE FIRMAS DEL CONSEJO
 
 ###### Artículo 993.
 
@@ -12431,7 +12627,7 @@ IV. Hacer uso debido de su certificado digital de la FIREL; y
 
 V. Revocar de inmediato su certificado digital de la FIREL cuando se ponga en riesgo la confidencialidad de la llave privada o de las claves referidas en la fracción II de este artículo.
 
-### CAPÍTULO DÉCIMO. DISPOSICIONES FINALES
+### CAPÍTULO NOVENO. DEL RECONOCIMIENTO DE CERTIFICADOS DIGITALES Y DE LA CELEBRACIÓN DE CONVENIOS DE COORDINACIÓN
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
 
@@ -12445,7 +12641,9 @@ Las conductas de los servidores públicos que impliquen el incumplimiento a los 
 
 Los servidores públicos deberán hacer del conocimiento de las autoridades competentes las conductas que pudieran constituir delitos o responsabilidad administrativa, de las que tengan conocimiento en ejercicio de sus funciones.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO DÉCIMO. DISPOSICIONES FINALES
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 997.
 
@@ -12509,7 +12707,7 @@ La UNCOCEFI deberá hacer pública la vigencia de los certificados digitales de 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
 
-### CAPÍTULO SEGUNDO. DEROGADO
+### CAPÍTULO ÚNICO
 
 ###### Artículo 1002 Bis.
 
@@ -12524,6 +12722,8 @@ Con independencia de los convenios a que se refiere el segundo párrafo, del art
 Los convenios que en materia del presente Título celebre el Consejo, deberán ser publicados en su portal de Internet y, en su caso, en el Diario Oficial de la Federación.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO SEGUNDO. DEROGADO
 
 ###### Artículo 1002 Quáter.
 
@@ -13544,3 +13744,15 @@ D.O.F. 4 DE JUNIO DE 2021.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 29 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Dirección General de Estrategia y Transformación Digital iniciará funciones el 1 de julio de 2021.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las áreas administrativas de su adscripción deberá ejecutar las acciones necesarias para la implementación de este Acuerdo.
