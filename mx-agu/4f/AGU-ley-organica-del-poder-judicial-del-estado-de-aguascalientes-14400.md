@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2021-03-15"
+last_updated: "2021-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -215,21 +215,25 @@ XIV.- Recibir las quejas e informes sobre excesos o faltas en que incurran los s
 
 XV.- Registrar en el libro correspondiente los oficios que envíen los Notarios Públicos al Supremo Tribunal de Justicia, en cumplimiento de lo ordenado por el Articulo 93 de la Ley del Notariado;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
 
-XVI.- Castigar económicamente con extrañamiento, multa hasta por cincuenta veces el valor diario de la unidad de medida y actualización o con suspensión de empleo hasta por quince días, a los Jueces, Secretarios y demás empleados del Ramo, por faltas que cometieren en el desempeño sus funciones y por aquellos actos que redunden en desprestigio del Poder Judicial, siempre que no importen la comisión de un delito; previa audiencia de parte;
+XVI.- Recibir por parte de la Presidencia del Supremo Tribunal de Justicia como autoridad substanciadora, para su resolución, los procedimientos administrativos instruidos al personal adscrito al Poder Judicial del Estado por la comisión de infracciones administrativas calificadas como graves, sean de carrera judicial o no, lo anterior en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, actuando el Pleno del Supremo Tribunal de Justicia como autoridad resolutora;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
 
-XVII.- Conceder licencia a los Magistrados que no excedan de treinta días;
+XVII.- Recibir por parte de la Presidencia del Supremo Tribunal de Justicia como autoridad investigadora, por conducto del Magistrado que en razón de turno aquella haya designado, el informe de presunta responsabilidad administrativa por faltas cometidas por quien se desempeñe como Titular de la Contraloría Interna del Poder Judicial del Estado, procediendo a su substanciación y resolución en los términos que establece la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, siempre y cuando las faltas sean calificadas como no graves por la Presidencia del Supremo Tribunal de Justicia del Estado, comunicando al Pleno de dicho órgano colegiado, el sentido de la Resolución que se dicte dentro de los diez días hábiles siguientes a su emisión para los efectos de su ejecución.
+
+En caso de que en tal informe de presunta responsabilidad administrativa, las faltas que se le imputen a quien se desempeñe como Titular de la Contraloría Interna del Poder Judicial del Estado, fueran calificadas como graves, el Magistrado en turno designado por la Presidencia del Supremo Tribunal de Justicia, procederá a la substanciación del procedimiento establecido en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, remitiendo en los términos que tales ordenamientos señalan, al Pleno del Supremo Tribunal de Justicia para su Resolución, el expediente correspondiente.
+
+En este último supuesto, el Pleno del Supremo Tribunal de Justicia, a excepción de quien ostente la Presidencia, quien fungirá como autoridad investigadora y del Magistrado que en turno le corresponda substanciar tal procedimiento administrativo de responsabilidad, se abstendrán de participar en la elaboración, discusión y aprobación de la Resolución que al mismo recaiga, para cuyo efecto se celebrarán las sesiones extraordinarias que sean necesarias, las cuales serán convocadas por parte del Magistrado con más antigüedad en el cargo, a quien además le corresponderá presidir tales sesiones y elaborar el proyecto de Resolución que será discutido y aprobado en Pleno por mayoría de votos de los Magistrados que no se encuentren impedidos para participar en su emisión.
+
+Las resoluciones a que se refiere el presente artículo no admiten recurso alguno.
 
 > <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
 XVIII.- Resolver las recusaciones y excusas del Presidente del Supremo Tribunal de Justicia, en los asuntos de la competencia del Pleno del Tribunal;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
-
-XIX.- Conocer y resolver las controversias que se susciten entre los miembros de las Salas y las que surjan entre éstas;
+XIX.- (DEROGADA, P.O. 29 DE JUNIO DE 2021)
 
 > <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
@@ -349,9 +353,11 @@ XIII.- Nombrar a los titulares de los órganos auxiliares;
 
 XIV.- Ejercer las atribuciones que le asigne el Reglamento Interior del Supremo Tribunal de Justicia;
 
-XV.- Tramitar las quejas de los litigantes sobre las faltas que ocurran en el despacho de los negocios tanto de la competencia del Pleno como de las Salas y de los Juzgados.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
 
-Si las faltas fueren leves, dictará las providencias oportunas para su corrección o remedio Inmediato; si fueren graves dará cuenta al Pleno para que tome el acuerdo correspondiente;
+XV.- Turnar para su investigación a la Contraloría Interna del Poder Judicial, las quejas y denuncias que se formulen por hechos que pudieran considerarse como faltas cometidas por personal adscrito al Poder Judicial del Estado en ejercicio de sus funciones.
+
+Si las conductas descritas no constituyeran faltas administrativas en términos de la Ley General de Responsabilidades Administrativas o en la Ley de Responsabilidades Administrativas del Estado, dictará las providencias oportunas para su corrección o remedio inmediato;
 
 XVI.- Administrar los bienes, recursos y valores que se adquieran por el Poder Judicial;
 
@@ -359,9 +365,21 @@ XVI.- Administrar los bienes, recursos y valores que se adquieran por el Poder J
 
 XVII.- Crear las unidades administrativas auxiliares de la Presidencia que estime convenientes para el adecuado desarrollo de sus funciones y nombrar a los respectivos servidores;
 
-XVIII.- Celebrar convenios con las instituciones de enseñanza superior u organismos e instituciones de investigación jurídica para lograr el mejoramiento profesional de los administradores de justicia; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
 
-XIX.- Las demás que le confieran las Leyes.
+XVIII.- Celebrar convenios con las instituciones de enseñanza superior u organismos e instituciones de investigación jurídica para lograr el mejoramiento profesional de los administradores de justicia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2021)</small>
+
+XIX.- Recibir como autoridad substanciadora, los informes de presunta responsabilidad administrativa que sean turnados por la Contraloría Interna del Poder Judicial del Estado, respecto a infracciones cometidas tanto por personal de carrera judicial adscritos al Poder Judicial del Estado por la comisión de infracciones administrativas calificadas como graves, como por servidores públicos del Poder Judicial que no sean de carrera judicial, independientemente de que la infracción de que se trate sea considerada como grave o no grave, en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas y por la Ley de Responsabilidades Administrativas del Estado, substanciando y resolviendo los procedimientos relativos a la comisión de faltas no graves cometidas por personal adscrito al Poder Judicial que no sean de carrera judicial, remitiendo para su resolución al Pleno del Supremo Tribunal de Justicia, aquellos que correspondan a infracciones graves, de acuerdo a lo establecido en dichos ordenamientos;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2021)</small>
+
+XX.- Recibir las quejas y denuncias que se le presenten o le sean turnadas, respecto a las conductas que pudieran constituir o vincularse con faltas administrativas cometidas por el Titular de la Contraloría Interna del Poder Judicial del Estado, procediendo a su investigación y en su caso, a la calificación y remisión de las mismas a través del informe de presunta responsabilidad administrativa a quien corresponda conocer de ellas en términos de lo dispuesto por la fracción XVII del artículo 9 de este ordenamiento, así como en lo que al efecto establece la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, asumiendo todas las atribuciones que la misma contempla para quien se desempeña como autoridad investigadora; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 29 DE JUNIO DE 2021)</small>
+
+XXI.- Las demás que le confieran las Leyes.
 
 ### CAPITULO V. De las Salas
 
@@ -672,6 +690,10 @@ Además, la Sala Administrativa ejercerá las facultades que en materia de comba
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 8 DE MAYO DE 2017)</small>
 
 Contará con la organización y atribuciones que esta Ley establece, y estará dotada de plena jurisdicción y del imperio suficiente para hacer cumplir sus determinaciones.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+El personal adscrito a la Sala Administrativa del Poder Judicial del Estado será sancionado por la comisión de las faltas previstas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, conforme a los procedimientos establecidos en las mismas y en la presente Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -1269,11 +1291,15 @@ Las autoridades judiciales de la materia podrán utilizar los medios referidos p
 
 El Pleno del Supremo Tribunal de Justicia dictará los reglamentos o los acuerdos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios para garantizar su seguridad y conservación, así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la Ley.
 
-> <small>(REFORMADO P.O. 8 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 44.
 
-Son atribuciones de los Jueces, corregir fundada y disciplinariamente las faltas de sus subalternos en los términos que prevengan las Leyes, dando cuenta al Supremo Tribunal de Justicia.
+Es atribución del personal adscrito al Poder Judicial del Estado con personal a su cargo, corregir fundada y disciplinariamente las faltas cometidas por sus subalternos, siempre y cuando no impliquen una infracción al Reglamento Interior de Trabajo del Poder Judicial del Estado, en cuyo caso deberán dar aviso a la Oficialía Mayor, a efecto del levantamiento del acta administrativa correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+En caso de que la conducta cometida pueda constituir una falta contemplada por la Ley General de Responsabilidades Administrativas o la Ley de Responsabilidades Administrativas del Estado, deberá hacerse del conocimiento de la instancia a la que le corresponda su investigación en términos de lo previsto por la presente ley.
 
 > <small>(REFORMADO P.O. 8 DE FEBRERO DE 2021)</small>
 
@@ -1425,37 +1451,29 @@ La visita general tendrá por objeto percatarse del despacho general de los nego
 
 Las visitas de que trate el artículo anterior serán presididas por el Magistrado Visitador, el acta respectiva la firmarán además el Juez y el Secretario del Juzgado en que se practique la visita.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2021)</small>
+
 ### CAPITULO V. De los Procedimientos para Imponer Correcciones Disciplinarias
 
-###### ARTICULO 59.
+###### ARTÍCULO 59.
 
-Con el escrito de queja se formará inmediatamente el expediente respectivo, anotándose el día y hora en que se reciba, a efecto de que concluya por sentencia dentro de un plazo no mayor de treinta días.
+(DEROGADO, P.O. 29 DE JUNIO DE 2021)
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+###### ARTÍCULO 60.
 
-###### ARTICULO 60.
+(DEROGADO, P.O. 29 DE JUNIO DE 2021)
 
-Las quejas por faltas administrativas deberán formularse por escrito, con expresión del nombre y domicilio del quejoso y la relación clara y sucinta del hecho materia de la queja.
+###### ARTÍCULO 61.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 2021)
 
-###### ARTICULO 61.
+###### ARTÍCULO 62.
 
-Las quejas contra servidores públicos del Poder Judicial deberán formularse directamente al Presidente del Supremo Tribunal de Justicia del Estado, con copia al Consejo de la Judicatura Estatal.
+(DEROGADO, P.O. 29 DE JUNIO DE 2021)
 
-El trámite a que se refiere el párrafo anterior consistirá en el informe que rinda el servidor público en contra de quien se dirija la queja en un plazo de cinco días hábiles, y una audiencia en que presenten sus pruebas y aleguen las partes, misma que se celebrará dentro de los diez días hábiles siguientes dictándose la resolución que proceda dentro del término de cinco días. Contra esta resolución no procede recurso ordinario alguno.
+###### ARTÍCULO 63.
 
-###### ARTICULO 62.
-
-Tiene acción para denunciar las faltas de los servidores públicos del Poder Judicial:
-
-I.- Las partes y sus abogados patronos, en juicio en que se haya cometido; y
-
-II.- El Ministerio Público en los negocios de su intervención.
-
-###### ARTICULO 63.
-
-La sentencia será dictada por el pleno del Supremo Tribunal de Justicia.
+(DEROGADO, P.O. 29 DE JUNIO DE 2021)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -1743,13 +1761,17 @@ VII.- Otorgar a los servidores públicos del Poder Judicial el reconocimiento qu
 
 VIII.- Conocer las denuncias que formulen los miembros del Consejo de la Judicatura Estatal, respecto de la mala actuación de algunos abogados postulantes, los cuales se harán acreedores a una amonestación y dicho organismo dará vista al Ministerio Público para que, en su caso, ejercite la acción penal correspondiente. Si no se ejercitare la acción penal, serán exonerados públicamente por el mismo Consejo;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
 
-IX.- Nombrar y determinar la adscripción del administrador judicial o administradores judiciales de juzgados de Control, de Juicio Oral, de Ejecución y de Justicia para adolescentes, y supervisar su funcionamiento; y
+IX.- Nombrar y determinar la adscripción del administrador judicial o administradores judiciales de juzgados de Control, de Juicio Oral, de Ejecución y de Justicia para adolescentes, y supervisar su funcionamiento;
 
-> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2021)</small>
 
-X.- Las demás facultades que le confiera la Constitución Política del Estado, esta Ley y su Reglamento.
+X.- Substanciar y resolver el procedimiento de responsabilidad administrativa correspondiente, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, cuando el informe de presunta responsabilidad administrativa se refiera a un servidor público de carrera judicial y la falta haya sido calificada como no grave; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 29 DE JUNIO DE 2021)</small>
+
+XI.- Las demás facultades que le confieran la Constitución Política del Estado de Aguascalientes, esta Ley y su Reglamento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -1963,11 +1985,15 @@ IV.- Practicar auditorías administrativas, de contabilidad y eficiencia a las d
 
 V.- Controlar el debido ejercicio del gasto público del Poder Judicial Estatal y su congruencia con el presupuesto de egresos, practicando las auditorías que para cada caso sean necesarias;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
 
-VI.- Establecer el sistema de recepción de las declaraciones patrimoniales de los servidores públicos del Poder Judicial;
+VI.- Operar y actualizar el sistema de recepción de las declaraciones patrimoniales, de intereses y de constancia de presentación de declaración fiscal del personal adscrito al Poder Judicial, acorde a lo previsto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
 
-VII.- Coordinar la recepción y atención de las quejas y denuncias que presenten los particulares, organizados o a título personal, que se deriven de las acciones de los servidores públicos adscritos al Poder Judicial, así como su atención y solventación; y en su caso determinar responsabilidades y aplicar sanciones;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
+
+VII.- Recibir las quejas y denuncias que ante ella se presenten o que le sean turnadas, respecto a la comisión de las conductas que pudieran constituir o vincularse con faltas administrativas cometidas por personal adscrito al Poder Judicial del Estado, procediendo a su investigación y, en su caso, a su calificación y remisión de las mismas a través del respectivo informe de presunta responsabilidad administrativa a la autoridad que corresponda conocerlas en términos de lo que la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado, así como lo que el presente ordenamiento disponen.
+
+Si de la queja o denuncia presentada en contra de servidores públicos del Poder Judicial del Estado se advierte que la conducta señalada no constituye una falta administrativa sancionada por dicho ordenamiento, la misma será remitida a la Presidencia del Supremo Tribunal de Justicia para el trámite que corresponda de acuerdo al segundo párrafo de la fracción XV del artículo 11 de la presente Ley;
 
 VIII.- Intervenir en la entrega y recepción de las distintas áreas del Poder Judicial;
 
@@ -1975,7 +2001,61 @@ IX.- Coordinarse con la Contraloría General del Estado, a solicitud de cualquie
 
 X.- Informar al Presidente del Supremo Tribunal de Justicia del Estado y al Consejo de la Judicatura sobre los resultados de las evaluaciones, fiscalizaciones y auditorías realizadas a las diferentes áreas y juzgados que conforman el Poder Judicial, así como de las demás actividades efectuadas;
 
-XI.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado en el ámbito de su competencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2021)</small>
+
+XI.- Fungir como enlace de la Unidad de Transparencia del Poder Judicial del Estado en los términos que establezca la normatividad aplicable en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 29 DE JUNIO DE 2021)</small>
+
+XII.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado en el ámbito de su competencia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2021)</small>
+
+### CAPITULO XI. De la Substanciación y Resolución de los Procedimientos Administrativos instaurados a servidores públicos del Poder Judicial del Estado
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 101.
+
+Toda persona está facultada para denunciar acciones u omisiones que pudieran constituir o vincularse con faltas administrativas que, en el ejercicio de sus funciones, cometan los servidores públicos del Poder Judicial del Estado.
+
+La Contraloría Interna del Poder Judicial del Estado fungirá como autoridad investigadora de las faltas graves y no graves que se atribuyan al personal adscrito al Poder Judicial del Estado, en términos de lo establecido por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, contando con todas las atribuciones que en las mismas se confieren a tal autoridad, además de las que expresamente se le otorgan en la presente Ley, con excepción de aquellas en la que la Presidencia del Supremo Tribunal de Justicia, conozca como autoridad investigadora en términos de lo dispuesto por el artículo 11 fracción XX de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 102.
+
+Una vez realizada la investigación por parte de la instancia que funja como autoridad investigadora, procederá a determinar la existencia de la infracción y a calificar la falta en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, turnando el correspondiente informe de presunta responsabilidad a la autoridad substanciadora que corresponda conforme a la presente Ley, en caso de contar con elementos suficientes.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 103.
+
+Para el caso de faltas no graves de los servidores públicos del Poder Judicial del Estado de carrera judicial, conocerá del informe de presunta responsabilidad, como autoridad substanciadora y resolutora, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, el Consejo de la Judicatura del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 104.
+
+Tratándose de faltas graves cometidas por personal adscrito al Poder Judicial del Estado que pertenezcan a la carrera judicial, así como por los que se desempeñen con el carácter de personal de base y administrativo, independientemente de si se trata de una infracción grave o no grave, conocerá del informe de presunta responsabilidad como autoridad substanciadora, la Presidencia del Supremo Tribunal de Justicia, quien en el caso de infracciones graves, una vez agotadas las etapas a que se refieren las fracciones de la I a la VII del artículo 208 y I a III del numeral 209 de la Ley General de Responsabilidades Administrativas, así como las fracciones de la I a la VII del artículo 192 y I a III del numeral 193 de la Ley de Responsabilidades Administrativas del Estado, remitirá el expediente correspondiente al Pleno del Supremo Tribunal de Justicia, en los términos que tales ordenamientos establecen, para que proceda a dictar resolución acorde a lo dispuesto por el artículo 209 fracción IV de la Ley General de Responsabilidades Administrativas, así como 193 fracción IV de la Ley de Responsabilidades Administrativas del Estado, previo proyecto que elabore el Magistrado designado como ponente por la Presidencia de acuerdo al turno que corresponda.
+
+En caso de que igual número de Magistrados emitan voto en sentidos opuestos, la Presidencia del Supremo Tribunal de Justicia contará con voto de calidad para determinar el sentido de la resolución a que se refiere el párrafo que antecede.
+
+Para el caso de infracciones calificadas como no graves, que se imputen a servidores públicos que no pertenezcan a la carrera judicial, una vez agotadas las etapas a que se refiere el primer párrafo de este artículo, la Presidencia del Supremo Tribunal de Justicia del Estado procederá a emitir la resolución que corresponda en términos de lo dispuesto por el artículo 11 fracción XIX de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 105.
+
+Las resoluciones a que se alude en los artículos 103 y 104 de la presente Ley no admiten recurso alguno.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 106.
+
+Cuando la queja o denuncia se refiera a conductas que pudieran constituir o vincularse con faltas administrativas cometidas por el Titular de la Contraloría Interna del Poder Judicial del Estado, la Presidencia del Supremo Tribunal de Justicia fungirá como autoridad investigadora, en términos de lo señalado en la fracción XX del artículo 11 de la presente Ley, y en su caso, calificará y remitirá las mismas a través del informe de presunta responsabilidad administrativa a quien corresponda conocer y resolver las mismas en términos de lo dispuesto por la fracción XVII del artículo 9 de este ordenamiento, así como en lo que al efecto establece la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+Las resoluciones a que alude el presente artículo no admiten recurso alguno.
 
 T R A N S I T O R I O S:
 
@@ -2642,3 +2722,11 @@ El presente Decreto entrará en vigor el día 01 de marzo de 2022.
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Judicial deberá realizar las adecuaciones normativas y administrativas necesarias para dar cumplimento al presente Decreto, a más tardar al 31 de diciembre de 2021.
+
+P.O. 29 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 580.- SE REFORMAN LOS ARTÍCULOS 9°, FRACCIONES XVI Y XVII; 11, FRACCIONES XV, XVIII Y XIX; 44, PÁRRAFO PRIMERO; 95 FRACCIONES IX Y X; Y 100 FRACCIONES VI, VII Y XI; SE ADICIONAN LAS FRACCIONES XX Y XXI AL ARTÍCULO 11; UN QUINTO PÁRRAFO AL ARTÍCULO 33 A; UN SEGUNDO PÁRRAFO AL ARTÍCULO 44; LA FRACCIÓN XI AL ARTÍCULO 95; LA FRACCIÓN XII AL ARTÍCULO 100; Y EL CAPÍTULO XI DENOMINADO “DE LA SUBSTANCIACIÓN Y RESOLUCIÓN DE LOS PROCEDIMIENTOS ADMINISTRATIVOS INSTAURADOS A SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO” CONFORMADO POR LOS ARTÍCULOS 101, 102, 103, 104, 105 Y 106; Y SE DEROGA LA FRACCIÓN XIX DEL ARTÍCULO 9°; Y EL CAPÍTULO V "DE LOS PROCEDIMIENTOS PARA IMPONER CORRECCIONES DISCIPLINARIAS" CONFORMADO POR LOS ARTÍCULOS 59, 60, 61, 62 Y 63 DEL (SIC) TODO LO ANTERIOR DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
