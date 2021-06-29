@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2021-06-28"
+last_updated: "2021-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -447,9 +447,9 @@ III.- Celebrar con la Federación los Acuerdos de Coordinación en materia de Sa
 
 a).- La coordinación, evaluación y seguimiento de los servicios de salud a que se refiere el Artículo 34 fracción II de la Ley General de Salud;
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
 
-b).- La prevención del consumo (sic) estupefacientes y psicotrópicos, la atención a las adicciones y elaboración de programas contra la farmacodependencia en términos de lo que dispone la Ley General de Salud;
+b).- La prevención del consumo de estupefacientes y psicotrópicos, la atención a las adicciones y elaboración de programas contra la farmacodependencia en términos de lo que dispone la Ley General de Salud y demás disposiciones legales aplicables;
 
 c).- El control sanitario de productos y servicios y de su importación y exportación;
 
@@ -2421,9 +2421,9 @@ El patrimonio de la beneficencia pública será administrado por el organismo cr
 
 ### CAPITULO III. Programa contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
 
-ARTICULO 161 A.- Para ejecutar el programa nacional para la prevención y tratamiento de la farmacodependencia, estupefacientes y psicotrópicos, la Secretaría de Salud se coordinará con las instancias federales y municipales en el ámbito de sus respectivas competencias en términos de lo que establece la Ley General de Salud.
+ARTICULO 161 A.- Para ejecutar el programa nacional para la prevención y tratamiento de la farmacodependencia, estupefacientes y psicotrópicos, la Secretaría de Salud se coordinará con las instancias federales y municipales en el ámbito de sus respectivas competencias en términos de lo que establece la Ley General de Salud y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2021)</small>
 
@@ -2440,6 +2440,16 @@ IV.- La investigación de las causas de la farmacodependencia, así como del con
 V.- Campañas de información y sensibilización basadas en estudios científicos, alertando de manera adecuada sobre los efectos y daños físicos, así como psicológicos del consumo de estupefacientes y psicotrópicos; y
 
 VI.- La superación de la farmacodependencia, a través del fomento de la participación comunitaria y familiar, y el reconocimiento de la importancia de los grupos de ayuda mutua.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+La Secretaría de Salud contará con un Centro Estatal Especial para el tratamiento, atención y rehabilitación de los farmacodependientes, para la supervisión y coordinación de las instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia de conformidad con la Ley General de Salud, esta Ley y las normas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+ARTICULO 161 C.- El Centro Estatal Especial tendrá a su cargo el Registro Estatal de los Centros de Atención de tratamiento y rehabilitación de los farmacodependientes, que servirá como instrumento informativo y estadístico de los mismos y contendrá el padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención, rehabilitación y reinserción social en materia de farmacodependencia y en el que se describirán las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 153.
 
@@ -2479,7 +2489,23 @@ El Organismo en coordinación con otras instituciones públicas, promoverá que 
 
 ## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO IV. Disposiciones Comunes
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+ARTICULO 161 D.- Toda persona con problemas de adicciones, tendrá derecho a recibir tratamiento en una institución u organismo especializado avalado conforme a las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+ARTICULO 161 E.- El Programa Contra las Adicciones tiene como objetivo detener el uso y abuso del alcohol, tabaco, estupefacientes y sustancias psicoactivas o desórdenes relacionados, así como la disminución de sus riesgos.
+
+La prestación de servicios en materia de adicciones comprenderá la prevención, tratamiento y control.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+ARTICULO 161 F.- La prevención deberá estar dirigida a toda la sociedad, pero en especial a las poblaciones vulnerables y de alto riesgo, tomando en cuenta principalmente a las niñas, niños, adolescentes y jóvenes.
+
+El tratamiento contra las adicciones no deberá ser considerado un castigo para el usuario, sino que deberá ser tratado reconociéndose siempre su dignidad como persona y considerando que padece una enfermedad crónica, recurrente, progresiva y en ocasiones mortal.
 
 ###### ARTICULO 158.
 
@@ -2503,7 +2529,7 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO II. Mercados y Centros de Abasto
+### CAPITULO I. Disposiciones Comunes
 
 ###### ARTICULO 160.
 
@@ -2531,13 +2557,13 @@ IV. El tratamiento del tabaquismo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
 
-### CAPITULO III. De las Construcciones
+### CAPITULO II. Mercados y Centros de Abasto
 
-### CAPITULO IV. Servicios Funerarios
+### CAPITULO III. De las Construcciones
 
 ## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO V. Limpieza Pública
+### CAPITULO IV. Servicios Funerarios
 
 ###### ARTICULO 162.
 
@@ -2589,7 +2615,7 @@ VI.- Número de cédula profesional, en su caso, del responsable sanitario.
 
 Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
 
-### CAPITULO VI. Agua Potable y Alcantarillado
+### CAPITULO V. Limpieza Pública
 
 ###### ARTICULO 169.
 
@@ -2607,9 +2633,7 @@ Los vendedores, locatarios y personas que su actividad esté vinculada con los m
 
 Los establecimientos ubicados dentro de los mercados o centros de abasto, catalogados como de salubridad general, serán verificados por la autoridad sanitaria competente.
 
-### CAPITULO VII. Prostitución
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO VI. Agua Potable y Alcantarillado
 
 ###### ARTICULO 172.
 
@@ -2645,7 +2669,9 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
+### CAPITULO VII. Prostitución
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 180.
 
@@ -2669,7 +2695,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las Normas Oficiales Mexicanas que dicte la Secretaría de Salud.
 
-### CAPITULO IX. Baños Públicos
+### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
 
 ###### ARTICULO 184.
 
@@ -2707,7 +2733,7 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 El Gobierno del Estado y los Municipios, en el ámbito de sus respectivas competencias, proveerán de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares de la vía pública, además de ordenar el mantenimiento y la fumigación periódica en los mismos; asimismo, fijará lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de contaminación ambiental.
 
-### CAPITULO X. Centros de Reunión y Espectáculos
+### CAPITULO IX. Baños Públicos
 
 ###### ARTICULO 189.
 
@@ -2753,9 +2779,7 @@ Queda prohibido que los desechos o líquidos que conduzcan los caños sean verti
 
 Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicio de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
 
-### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías y Salones de Belleza
-
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+### CAPITULO X. Centros de Reunión y Espectáculos
 
 ###### ARTICULO 199.
 
@@ -2781,7 +2805,9 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La Autoridad Municipal en coordinación con el Organismo, determinarán los lugares en donde se permitirá el ejercicio de la prostitución, de conformidad con las disposiciones legales y reglamentarias aplicables.
 
-### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
+### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías y Salones de Belleza
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 205.
 
@@ -2801,7 +2827,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el Artículo 122 de esta Ley.
 
-### CAPITULO XIII. Establecimientos para el Hospedaje
+### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
 
 ###### ARTICULO 209.
 
@@ -2811,7 +2837,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 El agua que se utilice en los baños públicos deberá ser potable y cumplir con la normatividad que establezca la Secretaría de Salud y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
+### CAPITULO XIII. Establecimientos para el Hospedaje
 
 ###### ARTICULO 211.
 
@@ -2823,7 +2849,7 @@ El funcionamiento de los establecimientos a que se refiere el artículo anterior
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ENERO DE 2016)</small>
 
-### CAPITULO XV. Transporte Estatal y Municipal
+### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
 
 ###### ARTICULO 213.
 
@@ -2833,7 +2859,7 @@ Para los efectos de esta Ley, se entiende por peluquerías y salones de belleza,
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO XVI. Prevención y Control de la Rabia en Animales
+### CAPITULO XV. Transporte Estatal y Municipal
 
 ###### ARTICULO 215.
 
@@ -2849,7 +2875,7 @@ III.- Planchaduría: El establecimiento dedicado al planchado de ropa, independi
 
 Los establecimientos señalados en el artículo anterior que utilicen sustancias tóxicas o peligrosas para la salud, estarán sujetos además, a las disposiciones emitidas por la Secretaría de Salud en la materia.
 
-### CAPITULO XVII. De la Medicina Alternativa
+### CAPITULO XVI. Prevención y Control de la Rabia en Animales
 
 ###### ARTICULO 217.
 
@@ -2859,9 +2885,7 @@ Para los efectos de esta Ley, se entiende por establecimiento para el hospedaje,
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar al servicio de hospedaje, así como su funcionamiento, se requiere dar el aviso de funcionamiento en los términos del Artículo 167 de esta Ley.
 
-### CAPITULO XVIII. Del Ejercicio Especializado de la Cirugía Plástica
-
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+### CAPITULO XVII. De la Medicina Alternativa
 
 ###### ARTICULO 219.
 
@@ -2871,15 +2895,15 @@ Para los efectos de esta Ley, se entiende por establecimientos destinados al alm
 
 Los establecimientos para el almacenamiento y distribución de combustibles deberán contar con las instalaciones sanitarias y de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO I. Autorizaciones
+### CAPITULO XVIII. Del Ejercicio Especializado de la Cirugía Plástica
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 221.
 
 Para los efectos de esta Ley, se entiende por transporte todo aquel vehículo destinado al traslado de carga o de pasajeros sin importar su modo de propulsión, y que por sus características, puedan repercutir en la salud de la población, por lo que serán objeto de verificaciones periódicas por parte de la autoridad sanitaria, conforme a las disposiciones legales aplicables.
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -2915,7 +2939,9 @@ Los propietarios de los animales a que se refiere el artículo anterior estarán
 
 Las autoridades sanitarias mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 226.
 
@@ -2923,7 +2949,7 @@ Para los efectos de esta ley se entiende por medicina alternativa: homeopatía, 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE AGOSTO DE 2016)</small>
 
-### CAPITULO UNICO
+### CAPITULO III. Certificados
 
 ###### ARTICULO 226 Bis.
 
@@ -2931,9 +2957,7 @@ La realización de cualquier procedimiento médico o de cirugía plástica, est�
 
 ## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO I
-
-Medidas de Seguridad Sanitaria.
+### CAPITULO UNICO
 
 ###### ARTICULO 227.
 
@@ -2981,7 +3005,9 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I
+
+Medidas de Seguridad Sanitaria.
 
 ###### ARTICULO 236.
 
@@ -3043,7 +3069,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 244.
 
@@ -3099,7 +3125,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO IV. Recurso de Inconformidad
+### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 251.
 
@@ -3195,7 +3221,7 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 
 En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la autoridad sanitaria para tal efecto podrán determinar, por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTICULO 263.
 
@@ -3288,6 +3314,8 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 ###### ARTICULO 274.
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
+
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 275.
 
@@ -4133,57 +4161,13 @@ P.O. 28 DE JUNIO DE 2021.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 5/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN EL MUNICIPIO DE ALMOLOYA DE JUÁREZ (ALTIPLANO)”.]
+P.O. 29 DE JUNIO DE 2021.
 
-PRIMERO. El presente Acuerdo entrará en vigor el uno de julio de dos mil diecisiete, con excepción de lo dispuesto en los párrafos siguientes:
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 578.- SE REFORMA EL INCISO B) DE LA FRACCIÓN III DEL APARTADO A DEL ARTÍCULO 28 Y EL ARTÍCULO 161 A, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 161 B, UN ARTÍCULO 161 C Y UN CAPÍTULO IV DENOMINADO "DISPOSICIONES COMUNES" CONFORMADO POR LOS ARTÍCULOS 161 D, 161 E Y 161 F AL TÍTULO DÉCIMO SEGUNDO DENOMINADO "PROGRAMA CONTRA LAS ADICCIONES" DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que el Centro de Justicia Penal a que se refiere este Acuerdo, entre en operación en la fecha señalada en este artículo.
+###### ARTÍCULO ÚNICO.
 
-El Administrador del Centro llevará a cabo las acciones de coordinación que sean necesarias para garantizar el funcionamiento del mismo en dicha fecha.
-
-SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita a los Tribunales Unitarios de Circuito Primero, Segundo, Cuarto, Quinto y Sexto, todos del Segundo Circuito y con residencia en Toluca, Estado de México, para conocer, en el orden numérico de su denominación de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, sin perjuicio de lo dispuesto en el artículo 17, último párrafo, de este Acuerdo.
-
-Los Tribunales Unitarios habilitados precisarán en los actos procesales que celebren la denominación con la que actúen, dependiendo si lo hacen conforme al citado Código o al Código Federal de Procedimientos Penales.
-
-Estos Tribunales Unitarios quedan exceptuados de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como tribunal unitario de Circuito.
-
-TERCERO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para en su caso compensar entre ellos la carga de trabajo en su doble función, prevista en los artículos 17 último párrafo y transitorio SEGUNDO del presente Acuerdo.
-
-CUARTO. En materia de ejecución de sanciones penales se deberá observar lo dispuesto en el Acuerdo General 28/2015, del Pleno del Consejo de la Judicatura Federal, mediante el cual se habilita a los Jueces de Distrito de los Centros de Justicia Penal Federal para que ejerzan funciones de ejecución de sanciones penales.
-
-QUINTO. En tanto se ordena la utilización de los libros de control electrónicos, el Administrador del Centro con el apoyo de su personal deberá realizar los registros de los asuntos que ingresen en libretas auxiliares.
-
-SEXTO. Los asuntos que se encuentren ingresados en el Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dicho Centro.
-
-SÉPTIMO. Se reforma el artículo 6 del Acuerdo General 4/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, para quedar como sigue:
-
-“Artículo 6. La jurisdicción territorial de los juzgadores del Centro comprenderá los siguientes municipios: Acolman; Amecameca; Atenco; Atlautla; Axapusco; Ayapango; Cocotitlán; Chalco; Chiautla; Chicoloapan; Chiconcuac; Chimalhuacán; Ecatzingo; Ixtapaluca; Juchitepec; La Paz; Nezahualcóyotl; Nopaltepec; Otumba; Ozumba; Papalotla; San Martín de las Pirámides; Tecámac; Temamatla; Temascalapa; Tenango del Aire; Teotihuacán; Tepetlaoxtoc; Tepetlixpa; Texcoco; Tezoyuca; Tlalmanalco; Valle de Chalco Solidaridad; Apaxco; Atizapán de Zaragoza; Coacalco de Berriozábal; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Ecatepec de Morelos; Huehuetoca; Hueypoxtla; Jaltenco; Melchor Ocampo; Nextlalpan; Nicolás Romero; Polotitlán; Soyaniquilpan de Juárez; Teoloyucán; Tepotzotlán; Tequixquiac; Timilpan; Tlalnepantla de Baz; Tonanitla; Tultepec; Tultitlán y Zumpango; todos ellos del Estado de México.”
-
-OCTAVO. Se reforma la fracción XVIII del numeral QUINTO BIS; y se adicionan una fracción XVIII Bis al numeral QUINTO BIS, y las fracciones IV Bis y IV Ter al numeral QUINTO TER del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“QUINTO BIS. ...
-
-I. a XVII. ...
-
-XVIII. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, Estado de México se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
-
-XVIII Bis. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Almoloya de Juárez (Altiplano) se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
-
-XIX. a XXXVII. …
-
-QUINTO TER. …
-
-I. a IV. ...
-
-IV Bis. Centro de Justicia Penal Federal en el Estado de México, con sede en Nezahualcóyotl cuya jurisdicción territorial comprenderá los municipios de Acolman; Amecameca; Atenco; Atlautla; Axapusco; Ayapango; Cocotitlán; Chalco; Chiautla; Chicoloapan; Chiconcuac; Chimalhuacán; Ecatzingo; Ixtapaluca; Juchitepec; La Paz; Nezahualcóyotl; Nopaltepec; Otumba; Ozumba; Papalotla; San Martín de las Pirámides; Tecámac; Temamatla; Temascalapa; Tenango del Aire; Teotihuacán; Tepetlaoxtoc; Tepetlixpa; Texcoco; Tezoyuca; Tlalmanalco; Valle de Chalco Solidaridad; Apaxco; Atizapán de Zaragoza; Coacalco de Berriozábal; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Ecatepec de Morelos; Huehuetoca; Hueypoxtla; Jaltenco; Melchor Ocampo; Nextlalpan; Nicolás Romero; Polotitlán; Soyaniquilpan de Juárez; Teoloyucán; Tepotzotlán; Tequixquiac; Timilpan; Tlalnepantla de Baz; Tonanitla; Tultepec; Tultitlán y Zumpango; todos ellos del Estado de México.”
-
-IV Ter. Centro de Justicia Penal Federal en el Estado de México, con sede en Almoloya de Juárez (Altiplano): cuya jurisdicción territorial comprenderá los municipios de La jurisdicción territorial de los juzgadores del Centro comprenderá los siguientes municipios (sic): Acambay de Ruíz Castañeda; Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Amanalco; Amatepec; Atizapán; Atlacomulco; Calimaya; Capulhuac; Coatepec Harinas; Chapultepec; Donato Guerra; El Oro; Ixtapan de la Sal; Ixtapan del Oro; Ixtlahuaca; Jiquipilco; Jocotitlán; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Morelos; Naucalpan de Juárez; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Rayón; San Antonio la Isla; San Felipe del Progreso; San José del Rincón; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascalcingo; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec; Zumpahuacán; Aculco; Chapa de Mota; Huixquilucan; Isidro Fabela; Jilotepec; Jilotzingo y Villa del Carbón; todos ellos del Estado de México.
-
-V. a XIII. …”
-
-NOVENO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
-
-D.O.F. 14 DE JULIO DE 2017.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 6/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL SEXTO TRIBUNAL UNITARIO DEL QUINTO CIRCUITO, CON RESIDENCIA EN HERMOSILLO, SONORA; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y SEDE INDICADOS”.]
 
