@@ -4,7 +4,7 @@ identifier: "AGU-arancel-de-abogados-y-auxiliares-de-la-administracion-de-70528"
 country: "mx"
 rank: "otro"
 publication_date: "2009-04-06"
-last_updated: "2009-04-06"
+last_updated: "2021-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # ARANCEL DE ABOGADOS Y AUXILIARES DE LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE REGULA LOS HONORARIOS DE LOS ABOGADOS Y AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 29 DE JUNIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ARANCEL DE ABOGADOS Y AUXILIARES DE LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 6 de abril de 2009.
 
@@ -336,3 +338,17 @@ SEGUNDO SECRETARIO.
 Por tanto, mando se imprima, publique circule y se le dé el debido cumplimiento.
 
 Aguascalientes, Ags., 31 de marzo de 2009.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REGULA LOS HONORARIOS DE LOS ABOGADOS Y AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Arancel De Abogados y Auxiliares de la Administración De Justicia Del Estado De Aguascalientes, mismo que había sido expedido mediante Decreto número 230 de la LX Legislatura, y publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el pasado lunes 06 de abril de 2009.
