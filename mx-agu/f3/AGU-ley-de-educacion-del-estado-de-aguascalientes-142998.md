@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2020-05-25"
+last_updated: "2021-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -217,7 +217,9 @@ La educación es medio fundamental para adquirir, actualizar, completar, ampliar
 
 En el Sistema Educativo Estatal deberá asegurarse la participación activa de todos los involucrados en el proceso educativo, con sentido de responsabilidad social, privilegiando la participación de los educandos, madres, padres de familia y docentes, para alcanzar los fines de la educación y contribuir al desarrollo económico, social y cultural
 
-Por consiguiente, las madres y padres de familia reforzarán desde el hogar, el fomento a sus hijos o pupilos sobre los valores cívicos, así como el desarrollo cognitivo y académico, el aprecio por las tradiciones culturales y artísticas de nuestra entidad federativa; propiciando un ambiente sin violencia en el núcleo familiar, privilegiando las conductas adecuadas y necesarias para poder convivir en sociedad; inculcando a sus hijos o pupilos el respeto y reconocimiento a la autoridad del maestro o personal docente y administrativo de los planteles educativos, además de las normas de convivencia social de las escuelas. Así mismo la Autoridad Educativa Estatal dará a conocer de manera previa a su impartición, los programas, cursos, talleres y actividades análogas en rubros de moralidad, sexualidad y valores a los padres de familia a fin de que determinen su consentimiento con la asistencia de los educandos a los mismos, de conformidad con sus convicciones.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+Por consiguiente, las madres y padres de familia reforzarán desde el hogar, el fomento a sus hijos o pupilos sobre los valores cívicos, así como el desarrollo cognitivo y académico, el aprecio por las tradiciones culturales y artísticas de nuestra entidad federativa; propiciando un ambiente sin violencia en el núcleo familiar, privilegiando las conductas adecuadas y necesarias para poder convivir en sociedad; inculcando a sus hijos o pupilos el respeto y reconocimiento a la autoridad del maestro o personal docente y administrativo de los planteles educativos, además de las normas de convivencia social de las escuelas.
 
 ###### Artículo 5°.
 
@@ -1297,9 +1299,17 @@ a) Celebrar convenios con las autoridades en la materia, a fin de contar con per
 
 b) Coadyuvar en la aplicación de programas relacionados con salud mental infantil;
 
-c) Implementar programas de Información dirigida a maestras, maestros, madres, padres y estudiantes, sobre los efectos adversos de los trastornos mentales y de las medidas para detectar, atender y prevenir aquellos factores que induzcan al suicidio; y
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
 
-d) Celebrar los convenios interinstitucionales necesarios entre dependencias y con organizaciones de la sociedad civil para lograr los objetivos de la presente fracción.
+c) Implementar programas de información dirigida a maestras, maestros, madres, padres y estudiantes, sobre los efectos adversos de los trastornos mentales y de las medidas para detectar, atender y prevenir aquellos factores que induzcan al suicidio;
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+d) Celebrar los convenios interinstitucionales necesarios entre dependencias y con organizaciones de la sociedad civil para lograr los objetivos de la presente fracción; e
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+e) Implementar programas de información dirigida a madres y padres de familia o tutores, maestras y maestros, así como de los distintos actores involucrados en el proceso educativo relativa a la educación científica sobre temas de sexualidad integral, fertilidad y reproducción que implica el ejercicio responsable e informado de la sexualidad, la planificación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual.
 
 #### Sección Primera. De las Maestras y los Maestros
 
@@ -1675,13 +1685,17 @@ Los acuerdos secretariales señalarán los requisitos específicos que deban cum
 
 Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo.
 
-En el ámbito de sus respectivas competencias, las autoridades educativas desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+En el ámbito de sus respectivas competencias, las autoridades educativas desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital, la educación en inteligencia emocional, la resolución de conflictos de manera pacífica mediante la mediación u otro medio de carácter análogo, la educación científica sexual y reproductiva, la fertilidad, la prevención del consumo de sustancias psicoactivas y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
 
 ### Capítulo I. De los Derechos de las Madres y Padres de Familia o Tutores
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2021)</small>
+
 ###### Artículo 124.
 
-Son derechos de quienes ejercen la patria potestad o la tutela:
+Son derechos de quienes ejercen la patria potestad o la tutela, y de quienes tengan la guarda y custodia:
 
 I. Obtener inscripción en escuelas públicas para que sus hijas, hijos o pupilos menores de dieciocho años, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria, la secundaria, la media superior y, en su caso, la educación inicial, en concordancia con los espacios disponibles para cada tipo educativo;
 
@@ -1705,7 +1719,13 @@ X. Conocer la situación académica y conducta de sus hijas, hijos o pupilos en 
 
 XI. Manifestar, de ser el caso, su inconformidad ante las autoridades educativas correspondientes, sobre cualquier irregularidad dentro del plantel educativo donde estén inscritas sus hijas, hijos o pupilos menores de dieciocho años y sobre las condiciones físicas de las escuelas;
 
-XII. Recibir información por parte de la autoridad escolar de la normatividad aplicable a sus derechos y obligaciones al inicio del ciclo escolar.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
+
+XII. Recibir información por parte de la autoridad escolar de la normatividad aplicable a sus derechos y obligaciones al inicio del ciclo escolar; y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2021)</small>
+
+XIII. Escoger para sus hijas, hijos o pupilos escuelas distintas de las creadas por las autoridades que impartan la educación conforme a sus convicciones siempre que aquéllas satisfagan las normas mínimas que el Estado prescriba o apruebe en materia de enseñanza y cuenten con la autorización legal o el reconocimiento respectivo.
 
 ### Capítulo II. De las Obligaciones de las Madres y Padres de Familia o Tutores
 
@@ -2174,3 +2194,13 @@ ELSA LUCIA ARMENDÁRIZ SILVA
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de mayo de 2020.- Martín Orozco Sandoval.- Rúbrica.- La Secretaria General de Gobierno, Mtra. Siomar Eline Estrada Cruz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 582.- SE REFORMAN LOS ARTÍCULOS 4°, PÁRRAFO QUINTO; 82, INCISOS C) Y D); 123, PÁRRAFO SEGUNDO; Y 124, PÁRRAFO PRIMERO Y FRACCIÓN XII; Y SE ADICIONA UN INCISO E) AL ARTÍCULO 82; Y LA FRACCIÓN XIII AL ARTÍCULO 124; TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
