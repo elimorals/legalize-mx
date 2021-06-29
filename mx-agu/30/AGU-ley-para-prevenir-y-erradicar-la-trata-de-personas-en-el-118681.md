@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-118681
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2019-10-08"
+last_updated: "2021-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021.
 
 Ley publicada en la Primera Sección al Número 5 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2017.
 
@@ -59,17 +59,27 @@ IV.- Establecer las bases de coordinación y colaboración de las acciones entre
 
 V.- Promover la cultura de la prevención, el estudio, la investigación y el diagnóstico respecto de los delitos de trata de personas, así como la participación ciudadana en las políticas, programas y acciones institucionales en relación a la trata de personas.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 2°.
 
 La aplicación de esta Ley, en el ámbito de sus respectivas competencias, corresponde directamente a:
 
-I.- La Secretaría y demás autoridades estatales;
+I.- El Poder Legislativo por conducto de la Comisión de Lucha Contra la Trata de Personas;
 
-II.- Los Municipios; y
+II.- El Poder Ejecutivo;
 
-III.- La Comisión.
+III.- La Fiscalía General del Estado;
 
-Además la totalidad de autoridades estatales y municipales, deberán en el ámbito de sus respectivas competencias, tutelar en todo momento la protección a la vida, la dignidad, la libertad, la integridad y la seguridad de las personas, así como el libre desarrollo de niñas, niños y adolescentes, cuando sean amenazados o lesionados por la comisión de los delitos, previsto en la Ley General.
+IV.- Los Municipios; y
+
+V.- Los organismos constitucionalmente autónomos.
+
+Deberán tutelar en todo momento la protección a la vida, la dignidad, la libertad, la integridad y la seguridad de las personas cuando sean amenazadas o lesionadas por la comisión de los delitos previsto (sic) en la Ley General.
+
+Al aplicar las disposiciones de esta Ley, las autoridades del Estado y Municipios también darán la debida consideración a factores humanitarios y personales, especialmente para la reunificación familiar en un entorno seguro.
+
+El Estado y los municipios deberán coordinarse entre sí y con la Federación para el cumplimiento del objeto de la presente Ley, y promover la participación de la sociedad civil, instituciones académicas y de las organizaciones de las organizaciones (sic) vinculadas al objeto de ésta.
 
 ###### ARTÍCULO 3°.
 
@@ -81,21 +91,43 @@ Lo anterior con base en los criterios gramatical, sistemático, funcional; a fal
 
 Para los efectos de la presente Ley se entenderá por:
 
-I.- Comisión Legislativa: órgano legislativo encargado de atender lo relativo a la trata de personas, en términos de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
+
+I.- Asistencia y protección a la víctima: En los términos que señale la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes;
 
 II.- Comisión: a la Comisión Interinstitucional en Materia de Trata de Personas del Estado de Aguascalientes;
 
-III.- Fondo: al Fondo Estatal para la Protección y Asistencia a las Víctimas en Materia de Trata de Personas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2021)</small>
 
-IV.- Programa: al Programa Estatal para Prevenir y Erradicar la Trata de Personas;
+III.- Comisión de Lucha contra la Trata de Personas: Órgano legislativo encargado de atender lo relativo a la trata de personas, en términos de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes;
 
-V.- Ley: a la presente Ley para Prevenir y Erradicar la Trata de Personas en el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
 
-VI.- Ley General: a la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+IV.- Fondo: El Fondo previsto en la Ley de Atención y Protección a la Victima y al Ofendido para el Estado de Aguascalientes;
 
-VII.- Reglamento: al Reglamento de la Ley; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
 
-VIII.- Secretaría: a la Secretaría de Seguridad Pública del Estado de Aguascalientes.
+V.- Ley: La Ley para Prevenir, Atender, Sancionar y Erradicar la Trata de Personas en el Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
+
+VI.- Ley General: La Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
+
+VII.- Programa Estatal: El Programa Estatal para Prevenir, Atender y Erradicar la Trata de Personas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2021)</small>
+
+VIII.- Programa Nacional: El Programa Nacional para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE JUNIO DE 2021)</small>
+
+IX.- Reglamento: Al Reglamento de la Ley; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE JUNIO DE 2021)</small>
+
+X.- Secretaría: La Secretaría de Seguridad Pública del Estado de Aguascalientes.
 
 ###### ARTÍCULO 5°.
 
@@ -123,9 +155,11 @@ La Fiscalía General del Estado capacitará semestralmente al personal encargado
 
 ### CAPÍTULO II. La Investigación, Persecución y Sanción de los Delitos en Materia de Trata de Personas
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 10.
 
-Los delitos en materia de trata de persona (sic) serán los previstos en el Capítulo II, del Título Segundo, de la Ley General.
+Los delitos en materia de trata de personas serán los previstos en el Capítulo II, del Título Segundo, de la Ley General.
 
 ### CAPÍTULO III. La Protección y Asistencia a las Víctimas y el Fondo
 
@@ -155,9 +189,11 @@ La Fiscalía General del Estado coadyuvará con la Procuraduría General de la R
 
 La Comisión tendrá carácter permanente y por objeto el coordinar las acciones de los órganos que la integran para elaborar y poner en práctica el Programa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 15.
 
-La Comisión estará integrada por:
+La Comisión estará integrada por los titulares de las siguientes instituciones:
 
 I.- El Gobernador Constitucional del Estado, quien la presidirá;
 
@@ -185,13 +221,17 @@ XII.- Un representante designado por el Presidente Municipal de cada uno de los 
 
 El Titular del Poder Ejecutivo podrá acordar la invitación de otras dependencias o entidades públicas, para que formen parte de la Comisión.
 
-La Comisión, por mayoría simple de sus integrantes, podrá invitar a representantes de organismos públicos autónomos y de organizaciones de la sociedad civil, a los titulares de las delegaciones federales en el Estado, enunciando más no limitando a aquellos pertenecientes a la Secretaría de Relaciones Exteriores, al Instituto Nacional de Migración, a la Secretaría del Trabajo y Previsión Social, a la Procuraduría General de la República, así como expertos académicos vinculados con el tema de trata de personas, a que participen en determinadas reuniones para efectos consultivos. Dichos invitados contarán con voz, pero nunca con voto, su asistencia o inasistencia no tendrá efectos para la declaratoria del quórum legal para sesionar.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+La Comisión, por mayoría simple de sus integrantes, podrá invitar a representantes de organismos públicos autónomos y de organizaciones de la sociedad civil, a los titulares de las delegaciones federales en el Estado, a un representante del poder judicial, a un representante del poder legislativo, enunciando más no limitando a aquellos pertenecientes a la Secretaría de Relaciones Exteriores, al Instituto Nacional de Migración, a la Secretaría del Trabajo y Previsión Social, a la Procuraduría General de la República, así como expertos académicos vinculados con el tema de trata de personas, para participar en determinadas reuniones para efectos consultivos. Dichos invitados contarán con voz, pero sin voto, su asistencia o inasistencia no tendrá efectos para la declaratoria del quórum legal para sesionar.
 
 ###### ARTÍCULO 16.
 
 La Comisión tendrá las facultades siguientes:
 
-I.- Definir y aprobar el Programa, con base en el proyecto, que para tal efecto envié la Comisión Legislativa;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
+
+I.- Elaborar el proyecto del Programa Estatal, que contendrá la política del Estado en relación con los delitos a que se refiere la Ley General. Deberá incluir las estrategias y políticas del Estado en materia de prevención, protección, asistencia y persecución, así como políticas generales y focalizadas en la resocialización de víctimas, ofendidos y testigos;
 
 II.- Promover convenios de colaboración interinstitucional y suscribir acuerdos de coordinación con los Gobiernos de otras entidades federativas, así como con los Municipios;
 
@@ -235,9 +275,11 @@ El resto de los integrantes de la Comisión, mediante escrito que se presente an
 
 El cargo de integrante de la Comisión será de carácter honorífico, por lo que no recibirán ninguna remuneración adicional por los servicios que presenten.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 19.
 
-La Comisión sesionará ordinariamente de manera cuatrimestral a convocatoria de su Presidente, y de manera extraordinaria cada vez que lo solicite el Presidente o a petición de la mayoría de los integrantes de la Comisión.
+La Comisión sesionará ordinariamente de manera semestral a convocatoria de su Presidente, y de manera extraordinaria cada vez que lo solicite el Presidente, la mayoría de los integrantes de la Comisión, así como, por cualquiera de los integrantes bajo circunstancias de urgencia que lo ameriten en los términos que establezca el propio Reglamento de la Ley.
 
 ###### ARTÍCULO 20.
 
@@ -266,6 +308,10 @@ VI.- Las demás que se consideren necesarias para el cumplimento de las atribuci
 ###### ARTÍCULO 22.
 
 La Comisión designará de la terna propuesta por el Presidente, en sesión ordinaria, al Secretario Técnico, por mayoría simple; el cual velará en principio por: la resolución de las dudas en la materia que pudiesen tener los integrantes de la Comisión, el seguimiento y resguardo de las actas de sus sesiones, y la debida ejecución de las atribuciones de la Comisión.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+Para la designación del secretario técnico a que se refiere el párrafo anterior, se preferirá a quien desempeñe un puesto, empleo, cargo o comisión que le facilite cumplir cabalmente las actividades inherentes a su cargo.
 
 ###### ARTÍCULO 23.
 
@@ -359,9 +405,11 @@ VII.- Establecer, en coordinación con la Secretaría de Desarrollo Económico, 
 
 VIII.- Las demás que le confieran otros ordenamientos jurídicos aplicables a la materia, así como aquellas que se estimen necesarias para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 28.
 
-La Secretaría de Seguridad Pública, en materia de trata de personas, tendrá las atribuciones y funciones siguientes:
+La Secretaría, en materia de trata de personas, tendrá las atribuciones y funciones siguientes:
 
 I.- Diseñar permanentemente cursos de especialización y capacitación que fortalezcan los conocimientos y habilidades necesarios para el adecuado desempeño de la función policial y judicial en el tratamiento del delito de trata de personas;
 
@@ -383,9 +431,11 @@ IV.- Capacitar permanentemente a su personal para la prevención y detección de
 
 V.- Las demás que le confieran otros ordenamientos jurídicos aplicables a la materia, así como aquellas que se estimen necesarias para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 30.
 
-La Secretaría de Bienestar y Desarrollo Social, en materia de trata de personas, tendrá las atribuciones y funciones siguientes:
+La Secretaría de Desarrollo Social, en materia de trata de personas, tendrá las atribuciones y funciones siguientes:
 
 I.- Implementar en las reglas anuales de operación de los programas de desarrollo social, las acciones necesarias para prevenir la trata de personas;
 
@@ -399,9 +449,11 @@ V.- Difundir en los sectores sociales vulnerables, la política de la administra
 
 VI.- Las demás que le confieran otros ordenamientos jurídicos aplicables a la materia, así como aquellas que se estimen necesarias para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 31.
 
-La Secretaría de la Juventud, en materia de trata de personas, tendrá las atribuciones y funciones siguientes:
+El Instituto Aguascalentense de la Juventud, en materia de trata de personas, tendrá las atribuciones y funciones siguientes:
 
 I.- Proporcionar en forma gratuita y complementaria los servicios de asistencia jurídica y orientación a las y los jóvenes víctimas de trata de personas;
 
@@ -471,7 +523,9 @@ La Fiscalía General del Estado, en materia de trata de personas, tendrá las at
 
 I.- Proporcionar atención a las víctimas, testigos y ofendidos en la materia, de conformidad con la Ley de Atención y Protección a la Víctima y al Ofendido del Delito para el Estado de Aguascalientes y la Ley Orgánica de la Fiscalía General del Estado de Aguascalientes;
 
-II.- Prever mecanismos para que cualquier persona, puedan (sic) denunciar los delitos en esta materia, en condiciones de seguridad y confidencialidad;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2021)</small>
+
+II.- Prever mecanismos para que cualquier persona, pueda denunciar los delitos en esta materia, en condiciones de seguridad y confidencialidad;
 
 III.-Instrumentar una línea telefónica gratuita que tenga como finalidad exclusiva auxiliar de manera eficiente a las víctimas, testigos y ofendidos por la trata de personas;
 
@@ -501,9 +555,11 @@ V.- Expedir las recomendaciones que resulten necesarias en esta materia; llevand
 
 VI.- Las demás que le confieran otros ordenamientos jurídicos aplicables a la materia, así como aquellas que se estimen necesarias para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 37.
 
-Los Ayuntamientos, en materia de trata de personas, tendrá (sic) las atribuciones y funciones siguientes:
+Los Ayuntamientos, en materia de trata de personas, tendrán las atribuciones y funciones siguientes:
 
 I.- Impulsar en el ámbito de su competencia, la elaboración y ejecución de las políticas, programas, acciones y otras medidas, dirigidas a solucionar la problemática de los delitos en materia de trata de personas, al interior de su respectivo Municipio;
 
@@ -511,7 +567,9 @@ II.- Realizar, promover y difundir estudios e investigaciones para fortalecer la
 
 III.- Expedir, reformar y/o adicionar normas reglamentarias tendientes a prevenir y combatir la trata de personas en su Municipio;
 
-IV.- En el caso de que resulte factible, habilitar, mantener y actualizar constantemente un portal o página de internet, un correo electrónico y cuentas en redes sociales de internet, a efecto de brindar y difundir toda información relacionada con los delitos de trata de personas al interior de su respectivo Municipio;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JUNIO DE 2021)</small>
+
+IV.- La obligación de habilitar, mantener y actualizar constantemente un portal o página de internet, un correo electrónico y cuentas en redes sociales de internet, a efecto de brindar y difundir toda información relacionada con los delitos de trata de personas al interior de su respectivo Municipio;
 
 La página de internet deberá contar entre otros elementos con: los instrumentos jurídicos del orden nacional e internacional vigentes y demás información relacionada con la problemática materia de la ley; los mecanismos idóneos para la consulta, asesoría y en su caso presentación de denuncias; los medios de contacto para hacer efectiva la protección y asistencia a las víctimas, ofendidos y testigos en materia de trata de personas; así como información relativa a la prevención, atención, y erradicación de la trata de personas;
 
@@ -563,11 +621,37 @@ VI.- Proporcionen los datos necesarios y que le sean solicitados, para el desarr
 
 Con la participación ciudadana se podrán constituir fondos de financiamiento, adicionales y complementarios al Fondo; en los cuales, concurrirán las organizaciones civiles y sociales, las instituciones académicas, grupos empresariales y agencias de cooperación, que estarán destinados para el desarrollo de proyectos en la materia.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+###### ARTÍCULO 43 Bis.
+
+Las campañas y programas de prevención de los delitos que se ocupa la presente ley, se sujetarán a los lineamientos mínimos siguientes:
+
+I.- Reconocer la trata de personas y conductas relacionadas como delitos que se encuentran tipificados en la Ley General;
+
+II.- Promover como los delitos en materia de trata de personas afectan gravemente a la sociedad y a los derechos humanos de las víctimas, sobre todo de mujeres, niños, niñas y adolescentes;
+
+III.- Señalar los mecanismos que utilizan los tratantes para captar a sus víctimas;
+
+IV.- Informar sobre los diferentes tipos de riesgos que sufren las víctimas;
+
+V.- Promover el abstenerse del consumo de algún producto, servicio o uso de alguna actividad derivada de la trata de personas y delitos relacionados;
+
+VI.- Fomentar la participación ciudadana en la prevención de este delito, así como en la denuncia de conductas relativas a la trata de personas;
+
+VII.- Promover la prevención en el sector turístico especialmente en centros nocturnos, bares, hoteles o negocios donde se tengan antecedentes de que se desarrollan conductas afines o similares. Se deberá hacer hincapié en conductas como la prostitución, la explotación sexual y reproductiva y la pornografía;
+
+VIII.- Promover en el sector de transporte terrestre y aéreo que tengan como origen, paso o destino el Estado, informar a los propietarios, trabajadores y usuarios los alcances y fines de la ley; enfatizando en los ilícitos de explotación laboral, trabajos forzados, la servidumbre, la venta de personas y la venta de órganos, tejidos o sus componentes; y
+
+IX.- Promover en los centros de salud y hospitales públicos y privados advirtiendo de las consecuencias y efectos de la venta de órganos, tejidos y sus componentes.
+
 ### CAPÍTULO III. El Programa Estatal para Prevenir y Erradicar la Trata de Personas
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 44.
 
-El Programa comprenderá el conjunto de políticas, programas, acciones y otras medidas, que se implemente (sic) con la finalidad de contribuir a erradicar en el Estado, los delitos en materia de trata de personas.
+El Programa Estatal comprenderá el conjunto de políticas, programas, acciones y otras medidas que se implementen con la finalidad de contribuir a erradicar en el Estado, los delitos en materia de trata de personas.
 
 ###### ARTÍCULO 45.
 
@@ -672,3 +756,19 @@ P.O. 8 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrara en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 579.- SE REFORMAN LOS ARTÍCULOS 2°; 4° FRACCIÓN I, III, IV, V, VI, VII Y VIII; 10; 15 PRIMER Y TERCER PÁRRAFOS; 16 FRACCIÓN I; 19; 28 PRIMER PÁRRAFO; 30 PRIMER PÁRRAFO; 31 PRIMER PÁRRAFO; 35 FRACCIÓN II; 37 PRIMER PÁRRAFO Y FRACCIÓN IV Y 44 Y SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 4°; SEGUNDO PÁRRAFO AL ARTÍCULO 22 Y EL ARTÍCULO 43 BIS DE LA LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los noventa días siguientes a la entrada en vigor del presente decreto se deberán realizar las modificaciones necesarias al Reglamento de la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
