@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2020-12-21"
+last_updated: "2021-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -1027,9 +1027,7 @@ I.- De los diversos conceptos en los términos de los Artículos 41 y 49 de la L
 
 II.- En su caso, de los Ingresos Excedentes derivados de Ingresos de libre disposición que se destinen en los términos del Inciso b) de la Fracción II del Artículo 40 Bis de la Ley, por parte de las Dependencias del Ejecutivo y Entidades del Ejecutivo;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
-
-III.- De los Ingresos que obtenga el Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes por la enajenación de inmuebles;
+III.- (DEROGADA, P.O. 29 DE JUNIO DE 2021)
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -1672,3 +1670,35 @@ El presente Decreto entrará en vigor el primero de enero de dos mil veintiuno.
 ###### ARTÍCULO SEGUNDO.
 
 El Comité Técnico a que hace referencia el Artículo 49 Septies, deberá realizar en un plazo no mayor a 90 días naturales las modificaciones necesarias a las reglas de operación, lineamientos y demás disposiciones que hubiese emitido con anterioridad a la entrada en vigor de este Decreto.
+
+P.O. 29 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 581.- SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 49 BIS DE LA LEY DEL PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Finanzas en su carácter de fideicomitente del Fideicomiso del Fondo de Estabilización y el Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes, y/o Comité Técnico, cada uno en el ámbito de sus competencias, deberá realizar las modificaciones necesarias a los Contratos de los Fideicomisos referidos, en un plazo no mayor a 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los ingresos que se generen por la enajenación onerosa del patrimonio inmobiliario del Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes, a partir de la entrada vigor de este Decreto, deberán ser transferidos a la Secretaría de Finanzas para su incorporación a la Hacienda Pública del Estado. Se entenderá en todo momento, que el Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes, conserva la atribución para obtener ingresos por la enajenación de los inmuebles relativos al mismo.
+
+Para el caso de lo establecido en el párrafo anterior, se considerará que aún no han sido generados los ingresos que, a la fecha de entrada en vigor del presente Decreto, no hubiesen sido ya pagados al Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes como producto de la enajenación de bienes inmuebles patrimonio del Fideicomiso.
+
+Los ingresos generados por la enajenación onerosa de bienes inmuebles patrimonio del Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes previos a la entrada en vigor del presente Decreto, seguirán formando parte del patrimonio del Fideicomiso del Fondo de Estabilización.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Finanzas deberá realizar en cada ejercicio fiscal, la ampliación a la Ley de Ingresos del Estado y al Presupuesto de Egresos del Estado en el momento en que resulte procedente para su aplicación, por el concepto y cantidad que se transfiera al patrimonio de la Hacienda Pública del Estado, derivado de los ingresos que obtenga el Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes por la enajenación de sus inmuebles.
+
+En tanto se determina el destino específico de los recursos conforme a su importancia y trascendencia, los ingresos obtenidos por la enajenación onerosa del patrimonio inmobiliario del Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes, se transferirán a la Secretaría de Finanzas para que en forma temporal se mantengan como ingresos no presupuestarios, en términos del “Acuerdo por el que se emite el formato de conciliación entre los ingresos presupuestarios y contables, así como entre los egresos presupuestarios y los gastos contables”, y en su momento oportuno sean objeto de ampliación en los términos del párrafo anterior, en el momento de su asignación a los Ejecutores de Gasto responsables de su aplicación.
+
+Siendo que en ningún caso los recursos a que se refiere el presente Decreto podrán ser destinados a gasto corriente; definido éste, en términos de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+###### ARTÍCULO QUINTO.
+
+El Gobierno del Estado deberá revelar en la cuenta pública y en los informes que periódicamente entreguen al Congreso del Estado, los montos que por concepto de ingresos hubiesen sido transferidos a la Hacienda Pública del Estado, y que sean objeto de ampliación al presupuesto de ingresos y egresos de la Dependencia del Ejecutivo, Entidad del Ejecutivo o Fideicomiso no considerado como parte de las Entidades del Ejecutivo, según corresponda, conforme a la aplicación del presente Decreto.
