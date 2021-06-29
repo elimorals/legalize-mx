@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2019-12-27"
+last_updated: "2021-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -345,9 +345,11 @@ Para los efectos de este Código, se considera domicilio de una persona física,
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2021)</small>
+
 ###### Artículo 40.
 
-El matrimonio es una institución por medio de la cual se establece la unión voluntaria y jurídica de un hombre y una mujer, con igualdad de derechos, deberes y obligaciones, con la posibilidad de generar la reproducción humana de manera libre, responsable e informada.
+El matrimonio es una institución por medio de la cual se establece la unión voluntaria y jurídica de dos personas, con igualdad de derechos, deberes y obligaciones, en la que ambos se procuran respeto y ayuda mutua.
 
 Cualquier condición contraria a estos fines, establecida por los cónyuges, se tendrá por no puesta.
 
@@ -1157,11 +1159,11 @@ Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomar�
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2021)</small>
 
 ###### Artículo 165.
 
-El concubinato es la unión de un hombre y una mujer quienes, sin impedimentos legales para contraer matrimonio, hacen vida en común de manera notoria, permanente, han procreado hijos o han vivido públicamente como marido y mujer durante dos años continuos o más.
+El concubinato es la unión de dos personas, quienes sin impedimentos legales para contraer matrimonio, hacen vida en común de manera notoria y permanente durante dos años continuos o más.
 
 El concubinato genera entre los concubinos derechos alimentarios y sucesorios, con independencia de los demás reconocidos en este Código o en otras leyes.
 
@@ -7438,3 +7440,21 @@ P.O. 27 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 381 DEL H. CONGRESO DEL ESTADO.- QUE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 171 DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 646 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA EL ARTÍCULO 40, PÁRRAFO PRIMERO Y EL 165, PÁRRAFO PRIMERO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado contará con un plazo de sesenta días naturales para adecuar sus disposiciones reglamentarias a lo establecido en el presente Decreto.
+
+En atención al párrafo anterior, se deberán adecuar los formatos de actas de matrimonio emitidas por el Registro Civil para los efectos de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
