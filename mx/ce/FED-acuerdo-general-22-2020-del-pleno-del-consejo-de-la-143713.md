@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2020-del-pleno-del-consejo-de-la-143713"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2021-03-01"
+last_updated: "2021-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143713&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-07-28"
 
 ACUERDO GENERAL 22/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2021.
 
 Acuerdo publicado en el Número 26 del Diario Oficial de la Federación, el viernes 31 de julio de 2020.
 
@@ -65,13 +65,11 @@ ACUERDO
 
 ### Capítulo I. Disposiciones generales
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 2/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE MARZO DE 2021)</small>
-
-Artículo 1 Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 de agosto de 2020 al 30 de junio de 2021.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 6/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1.
 
-Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 de agosto de 2020 al 15 de enero de 2021.
+Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 de agosto de 2020 al 16 de agosto de 2021 a las 8:00 a.m.
 
 ###### Artículo 2.
 
@@ -646,3 +644,13 @@ D.O.F. 1 DE MARZO DE 2021.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+D.O.F. 29 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 6/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 22/2020, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19, CON RELACIÓN AL PERIODO DE VIGENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se mantiene el periodo de receso para la segunda quincena de julio, que comprende del 16 de julio al 1 de agosto de 2021.
