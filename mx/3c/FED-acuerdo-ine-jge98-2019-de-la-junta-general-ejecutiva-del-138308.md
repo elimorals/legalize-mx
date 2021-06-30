@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-jge98-2019-de-la-junta-general-ejecutiva-del-138308
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-09-26"
-last_updated: "2019-09-26"
+last_updated: "2021-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138308&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-09-12"
 
 EXTRACTO DEL ACUERDO INE/JGE98/2019 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA LA MODIFICACIÓN DEL MARCO NORMATIVO DE CONTROL INTERNO DEL INE, APROBADO MEDIANTE ACUERDO INE/JGE96/2015
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2021.
 
 Extracto del Acuerdo publicado en el Diario Oficial de la Federación, el jueves 26 de septiembre de 2019.
 
@@ -68,3 +68,33 @@ INE MNCI: https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/
 INE Guía: https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/110030/JGEex201905-31-ap-2-1-a2.pdf?sequence=3&isAllowed=y
 
 Ciudad de México, a 12 de septiembre de 2019.- El Director Ejecutivo de Administración, Bogart Montiel Reyna.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE JUNIO DE 2021.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL “EXTRACTO DEL ACUERDO INE/JGE78/2021 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA LA MODIFICACIÓN DEL MARCO NORMATIVO DE CONTROL INTERNO DEL INSTITUTO NACIONAL ELECTORAL, APROBADO MEDIANTE ACUERDO INE/JGE98/2019”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. - Se aprueba la modificación del Marco Normativo de Control Interno del Instituto Nacional Electoral, aprobado mediante Acuerdo INE/JGE98/2019, el cual se anexa al presente Acuerdo junto con su Guía de Apoyo, los cuales forman parte integrante del mismo.
+
+SEGUNDO. - El presente Acuerdo, su Anexo y su Guía de Apoyo entrarán en vigor al día siguiente de su aprobación por la Junta General Ejecutiva
+
+(...)
+
+SEXTO. - Publíquese el presente Acuerdo en la Gaceta Electoral, en la NormaINE, y en la página web del Instituto Nacional Electoral, así como un extracto del mismo, con la liga electrónica para la ubicación del Marco Normativo de Control Interno del Instituto Nacional Electoral en el Diario Oficial de la Federación
+
+El presente Acuerdo fue aprobado en sesión ordinaria de la Junta General Ejecutiva celebrada el 22 de abril de 2021, por votación unánime, (...)
+
+El Consejero Presidente del Consejo General y Presidente de la Junta General Ejecutiva del Instituto Nacional Electoral, Dr. Lorenzo Córdova Vianello. - Rúbrica. - El Secretario Ejecutivo y Secretario de la JGE del INE, Lic. Edmundo Jacobo Molina. - Rúbrica.
+
+El Acuerdo y sus Anexos pueden ser consultados en las siguientes direcciones electrónicas:
+
+DOF: www.dof.gob.mx/2021/INE/JGEord202104_22_ap_8_3.pdf
+
+INE Acuerdo:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/119530/JGEor202104-22-ap-8-3.pdf
+
+Marco Normativo de Control Interno
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/119530/JGEor202104-22-ap-8-3-MN.pdf
