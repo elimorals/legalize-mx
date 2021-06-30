@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2020-06-24"
+last_updated: "2021-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2021.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -117,7 +117,9 @@ El territorio del Estado de Chiapas es el que posee desde que forma parte de los
 
 29. Chilón.
 
-30. Cintalapa.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2021)</small>
+
+30. Cintalapa de Figueroa.
 
 31. Coapilla.
 
@@ -4786,3 +4788,11 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan al present
 Artículo Tercero.- Dentro del plazo de 30 días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá realizar las adecuaciones normativas correspondientes a la Legislación Electoral, de conformidad con lo previsto en el presente Decreto.
 
 Artículo Cuarto.- En Consejo General del Instituto de Elecciones y Participación Ciudadana y el Pleno del Tribunal Electoral del Estado, dictarán los acuerdos necesarios para hacer efectivas las disposiciones previstas en el presente Decreto, y deberán realizar las acciones necesarias para ajustar el mismo a cada una de sus normativas.
+
+P.O. 30 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 373 DECRETO POR EL QUE SE REFORMA EL NUMERAL 30 DEL PÁRRAFO PRIMERO AL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto surtirá efectos desde el día de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto por el presente Decreto.
