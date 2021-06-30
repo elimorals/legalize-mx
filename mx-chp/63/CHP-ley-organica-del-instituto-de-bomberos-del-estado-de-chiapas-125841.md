@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-de-bomberos-del-estado-de-chiapas-12
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-11-15"
-last_updated: "2020-08-05"
+last_updated: "2021-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY ORGÁNICA DEL INSTITUTO DE BOMBEROS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 15 de noviembre de 2017.
 
@@ -53,7 +53,9 @@ LEY ORGÁNICA DEL INSTITUTO DE BOMBEROS DEL ESTADO DE CHIAPAS
 
 Las disposiciones de esta Ley son de orden público e interés general, y tienen por objeto:
 
-I. Crear el Organismo Descentralizado de la Administración Pública del Estado de Chiapas denominado Instituto de Bomberos del Estado de Chiapas, el cual estará sectorizado a la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2021)</small>
+
+I. Crear el Organismo Descentralizado de la Administración Pública del Estado de Chiapas denominado Instituto de Bomberos del Estado de Chiapas, el cual estará sectorizado a la Secretaría de Protección Civil.
 
 II. Establecer las bases para la creación, organización y funcionamiento del Instituto de Bomberos del Estado de Chiapas, el cual se constituirá como un servicio público especializado y de emergencias, preponderantemente en las labores de prevención y combate de incendios, así como de apoyo en la salvaguarda de la población en general;
 
@@ -77,7 +79,9 @@ XI. Regular y sancionar a través del área administrativa y jurídica de este I
 
 XII. Auxiliar a la población en casos de emergencias originadas por incendios, riesgos y desastres;
 
-XIII. Las demás que se revean en esta Ley, su reglamento y demás disposiciones legales.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2021)</small>
+
+XIII. Las demás que se prevean en esta Ley, su reglamento y disposiciones legales aplicables.
 
 ###### ARTÍCULO 2.
 
@@ -247,31 +251,41 @@ X. CONTRALORÍA INTERNA. Es el órgano de vigilancia integrado por un Contralor 
 
 ### CAPÍTULO II. DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 9.
 
-La Junta de Gobierno, en su carácter de máxima autoridad del Instituto, se integrará de la siguiente manera:
+La Junta de Gobierno estará integrada por:
 
-I. El Gobernador del Estado de Chiapas; quien será el Presidente de la Junta; el Gobernador podrá nombrar a un miembro en su representación quien fungirá como Presidente de la Junta;
+I. Un Presidente que será el Titular de la Secretaría de Protección Civil.
 
-II. Cinco representantes de los Patronatos de Bomberos del Estado de Chiapas, con mayor antigüedad;
+II. Un Secretario Técnico, que será el titular de la Unidad de Apoyo Administrativo del Instituto.
 
-III. Un miembro designado por la Secretaría General de Gobierno del Estado de Chiapas;
+III. Los Vocales Serán:
 
-IV. Un representante de la Secretaría de Hacienda del Estado de Chiapas;
+a) El Titular de la Secretaría General de Gobierno.
 
-V. Un representante de la Secretaría de Seguridad Pública y Protección Ciudadana del Estado; y
+b) El Titular de la Secretaría de Hacienda.
 
-VI. Un representante de la Secretaría de la Contraloría General del Estado de Chiapas, como órgano de vigilancia bajo el carácter de Comisario, quien asistirá con voz, pero sin voto a las sesiones.
+c) El Titular de la Secretaría de Seguridad y Protección Ciudadana.
 
-Por cada uno de los miembros electos se nombrará un suplente por las propias autoridades e instancias que estén encargadas de nombrar a los titulares, quienes tendrán en ausencia de éstos las mismas facultades.
+d) Cinco representantes de los patronatos de Bomberos del Estado, con mayor antigüedad.
 
-A propuesta del Presidente la Junta de Gobierno se (sic) designará a una persona que fungirá como Secretario Técnico de la misma, quien tendrá voz, pero sin voto en las sesiones.
+IV. La Secretaría de la Honestidad y Función Pública, como órgano de vigilancia, quien podrá participar en las sesiones de la Junta de Gobierno únicamente con voz.
+
+Cada integrante de la Junta de Gobierno, contará con voz y voto y podrá designar a un suplente para que lo represente en las sesiones, quien tendrá las mismas facultades de éste y deberá tener nivel jerárquico mínimo de Director de Área o su equivalente, debiendo estar debidamente acreditado mediante oficio dirigido a la Junta de Gobierno.
+
+Los cargos a que se refiere el artículo anterior, así como sus respectivos suplentes tendrán el carácter de honoríficos y las personas que los desempeñen no devengarán salario o compensación alguna.
+
+El Director General del Instituto podrá participar en las sesiones de la Junta contará únicamente con derecho a voz.
 
 ###### ARTÍCULO 10.
 
 La Junta de Gobierno tendrá las siguientes facultades:
 
-I. Aprobar la propuesta de Presupuesto de Egresos, así como de los ingresos anuales del Instituto, que haga el Director General, para que sean enviados al Secretario General de Gobierno y al Secretario de Hacienda del Estado de Chiapas;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2021)</small>
+
+I. Aprobar la propuesta de presupuesto de egresos, así como de los ingresos anuales del Instituto que haga el Director General, para que sean enviados a la Secretaría de Hacienda.
 
 II. Analizar y aprobar los proyectos de inversión y crediticios que el Instituto requiera para que se proceda conforme a las disposiciones aplicables;
 
@@ -597,9 +611,11 @@ IX. Cualquiera otra percepción respecto de la cual el Instituto resulte benefic
 
 El presupuesto del Instituto se determinará en el Presupuesto Anual de Egresos del Estado de Chiapas que apruebe el Congreso del Estado de Chiapas.
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 29.
 
-La Junta de Gobierno del Instituto, hará llegar al Gobernador, por conducto de la Secretaría General de Gobierno, el presupuesto que estime necesario, de conformidad con sus necesidades programáticas y con sujeción a los lineamientos que en materia de gasto establezca la legislación correspondiente a efecto de su consideración para la formulación del Proyecto de Presupuesto de Egresos que el Gobernador envíe al Congreso del Estado de Chiapas.
+La Junta de Gobierno del Instituto, hará llegar al Gobernador, por conducto del Director General el presupuesto que estime necesario de conformidad con sus necesidades programáticas y con sujeción a los lineamientos que en materia de gastos establezca la legislación correspondiente a efecto de su consideración para la formulación del proyecto de presupuesto de Egresos que el Gobernador envíe al Congreso del Estado de Chiapas.
 
 ###### ARTÍCULO 30.
 
@@ -801,9 +817,11 @@ En caso de inconformidad por la sanción impuesta, el interesado podrá recurrir
 
 Las faltas administrativas cometidas por el personal del Instituto, serán sancionados conforme a la Ley de Responsabilidades Administrativas para el Estado de Chiapas y a las disposiciones penales aplicables.
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2021)</small>
+
 ###### ARTÍCULO 50.
 
-Los salarios que perciba el personal del Instituto, serán de conformidad con lo establecido en los tabuladores que emita (sic) Gobierno del Estado de Chiapas.
+Los salarios que perciba el personal del Instituto serán de conformidad con lo establecido en los tabuladores que emita la Secretaría de Hacienda.
 
 ###### ARTÍCULO 51.
 
@@ -1020,3 +1038,13 @@ P.O. 5 DE AGOSTO DE 2020.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en el presente Decreto.
+
+P.O. 30 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 367 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL INSTITUTO DE BOMBEROS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Quedan abrogadas todas aquellas disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Las dependencias normativas, en el ámbito de sus respectivas competencias, llevaran a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
