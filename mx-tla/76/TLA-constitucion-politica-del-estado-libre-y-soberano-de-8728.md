@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2021-05-04"
+last_updated: "2021-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "TLA"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE ABRIL DE 2022 EN EL P.O. DEL ESTADO DE TLAXCALA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -1733,11 +1731,11 @@ Antes de acudir al Juzgado Laboral, los trabajadores y patrones deberán asistir
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 79.
 
-El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, que es el órgano supremo, en un Tribunal de Justicia Administrativa, en Juzgados del orden civil, familiar, penal, ejecución de sanción, administración de justicia para adolescentes, mercantil y laboral. Contará además con un Consejo de la Judicatura y un Centro Estatal de Justicia Alternativa, con las atribuciones que le señalen esta Constitución, la Ley Orgánica del Poder Judicial y las demás leyes que expida el Congreso del Estado.
+El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, que es el órgano supremo, en Juzgados de Primera Instancia, y contará además con un Consejo de la Judicatura y un Centro Estatal de Justicia Alternativa, con las atribuciones que le señalen esta Constitución, la Ley Orgánica del Poder Judicial y las demás leyes que expida el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
@@ -1991,19 +1989,15 @@ Los Jueces del orden civil, familiar, penal, ejecución de sanción, administrac
 
 ### CAPITULO II. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2021)</small>
 
-ARTICULO 84 BIS.- El Tribunal de Justicia Administrativa del Estado de Tlaxcala es un organismo público especializado, que forma parte del Poder Judicial del Estado, dotado de autonomía técnica y de gestión en el ejercicio de sus atribuciones, para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y los recursos para impugnar sus resoluciones. Tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal, municipal y los particulares; imponer en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal, municipal o al patrimonio de los entes públicos locales o municipales, en los términos que establezca la legislación correspondiente.
+ARTICULO 84 BIS.- El Tribunal de Justicia Administrativa del Estado de Tlaxcala, es un organismo público especializado, dotado de plena autonomía, con personalidad jurídica y patrimonio propio, será independiente de cualquier autoridad y tendrá su residencia en la ciudad de Tlaxcala de Xicohténcatl. La Ley establecerá su presupuesto, organización, funcionamiento, procedimientos y, en su caso, los recursos contra sus resoluciones. Tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública estatal y municipal con los particulares y será el órgano competente para imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave, a los particulares que incurran en actos vinculados con faltas administrativas graves; así como para fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública Estatal o Municipal, o bien, al patrimonio de los entes públicos estatales o municipales, en los términos que establezca la legislación correspondiente.
 
-El Tribunal de Justicia Administrativa del Estado de Tlaxcala estará integrado por tres magistrados, propuestos por el Gobernador del Estado y ratificados por el voto de las dos terceras partes del total de los integrantes de la Legislatura del Congreso del Estado; la propuesta y ratificación se sujetarán al procedimiento establecido para el nombramiento de los Magistrados del Tribunal Superior de Justicia del Estado. Durarán en su cargo seis años y sólo podrán ser removidos de su cargo por las causas graves que señale la ley.
+El Tribunal de Justicia Administrativa del Estado de Tlaxcala, se integrará por tres Magistrados, electos por el voto de las dos terceras partes del total de los integrantes de la Legislatura del Congreso del Estado. Tendrá autonomía presupuestaria, el Congreso del Estado aprobará el presupuesto a propuesta del Presidente del Tribunal de Justicia Administrativa, para su inclusión en el proyecto de Presupuesto del Estado. Asimismo, el Tribunal deberá expedir su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2021)</small>
+Para ser Magistrado de este Tribunal se deberá contar con experiencia en materia de derecho administrativo y fiscal de al menos cinco años previos a la designación, satisfacer los requisitos que se señalan en el artículo 83 de la presente Constitución y su designación será para un periodo de seis años. No se podrá ocupar el cargo como propietario en forma consecutiva, ni discontinua, por más de dicho periodo. Si un Magistrado llega a la edad de setenta años, cesará en sus funciones y tendrá derecho a un haber por retiro. Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves que establezca la ley.
 
-En las propuestas y designaciones de los Magistrados del Tribunal de Justicia Administrativa y, por ende, en la integración de éste, se respetará el principio de paridad de género.
-
-Para ser Magistrado del Tribunal de Justicia Administrativa del Estado se deberán cumplir los mismos requisitos que para ser nombrado Magistrado del Tribunal Superior de Justicia del Estado.
-
-El Tribunal propondrá su presupuesto al Presidente del Tribunal Superior de Justicia para su inclusión en el proyecto de Presupuesto del Poder Judicial del Estado. Asimismo, el Tribunal deberá expedir su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
+Previo a su designación, los magistrados deberán aprobar los exámenes públicos de oposición, que se efectúen conforme a la Ley, ante el Pleno del Congreso, quien nombrará a los miembros del Jurado, respectivamente, el que estará integrado básicamente por académicos e investigadores preferentemente ajenos al Estado. Para la práctica de esos exámenes, deberá expedirse, respectivamente, con un mes de anticipación, una convocatoria dirigida a todos los abogados de la Entidad debidamente publicitada en tres periódicos de mayor circulación, conteniendo el nombre de los sinodales.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -4006,3 +4000,31 @@ Sin perjuicio de lo anterior, este Decreto será aplicable en términos de lo es
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que contravengan al presente Decreto.
+
+P.O. 30 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 330.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 79 Y EL ARTÍCULO 84 BIS; AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado de Tlaxcala, para el debido cumplimiento del presente precepto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado en un plazo de ciento veinte días, deberá expedir las leyes y realizar las adecuaciones correspondientes a la legislación secundaria que resulten aplicables, a fin de dar cumplimiento a lo establecido en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Tribunal de Justicia Administrativa del Estado de Tlaxcala conservará los recursos humanos, financieros, económicos, materiales, técnicos, presupuestales y tecnológicos que le fueron asignados como organismo integrante del Poder Judicial del Estado. El personal adscrito al Tribunal de Justicia Administrativa del Estado de Tlaxcala, conservará y le serán respetados sus derechos adquiridos a partir de la fecha de su ingreso, ya sea desde la otrora Sala Unitaria Administrativa del Tribunal Superior de Justicia del Estado o desde del (sic) Tribunal de Justicia Administrativa del Estado como organismo del Poder Judicial del Estado. El Tribunal de Justicia Administrativa del Estado de Tlaxcala, tendrá plena autonomía e independencia en los términos de este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Se faculta a la Secretaría de Planeación y Finanzas del Gobierno del Estado de Tlaxcala, para dotar de los recursos económicos que se requieran para la implementación de este Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
