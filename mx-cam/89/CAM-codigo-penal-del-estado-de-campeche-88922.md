@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2021-05-24"
+last_updated: "2021-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -2793,6 +2793,12 @@ XI. En su calidad de médico, falsamente haga constar en un documento que una pe
 
 Se incrementará en una mitad la sanción prevista en el artículo 239, cuando la falsificación sirva como medio para la comisión de otros delitos.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2021)</small>
+
+###### Artículo 241 Bis.
+
+Se equipara a la falsificación de documentos privados y se impondrán de seis meses a cuatro años de prisión y multa de ciento cincuenta a doscientos cincuenta Unidades de Medida y Actualización, al que por cualquier medio, obligue o condicione a un trabajador a firmar documentación en blanco, en la contratación o en cualquier momento de la relación laboral, que implique renuncia de sus derechos o le imponga obligaciones a fin de vulnerarlos o anularlos.
+
 ### CAPÍTULO I. DELITOS DE ODIO
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
@@ -4688,3 +4694,11 @@ PRIMERO.- El presente decreto entrará en vigor a (sic) quince días después de
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 1 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 234 POR EL QUE “SE ADICIONA UN ARTÍCULO 241 BIS AL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
