@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-erradicar-los-delitos-en-materia-de-trata-952
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-19"
-last_updated: "2016-10-14"
+last_updated: "2021-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR, ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 19 de julio de 2013.
 
@@ -285,9 +285,11 @@ La Comisión propondrá la adopción de medidas administrativas, legislativas y 
 
 ### CAPÍTULO V. DE LA PROTECCIÓN, ATENCIÓN V REINTEGRACIÓN SOCIAL DE LAS VÍCTIMAS, OFENDIDOS Y TESTIGOS
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2021)</small>
+
 ###### Artículo 18.
 
-Las autoridades estatales y municipales, en el ámbito de sus competencias, procurarán la seguridad de las víctimas, ofendidos y testigos de los delitos de trata de personas que se encuentren en territorio estatal.
+Las autoridades estatales y municipales, en el ámbito de sus competencias, procurarán la seguridad de las víctimas, ofendidos y testigos de los delitos de trata de personas que se encuentren en territorio estatal, con independencia de su situación migratoria. Además, garantizará a las mismas personas, todos los servicios y atenciones que para el caso prevean las leyes.
 
 ###### Artículo 19.
 
@@ -490,3 +492,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo del Estado y los Ayuntamientos, deberán adoptar y reglamentar las medidas a que se refiere el presente decreto, en un plazo no mayor a 60 días, a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 240 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 18 DE LA LEY PARA PREVENIR, ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
