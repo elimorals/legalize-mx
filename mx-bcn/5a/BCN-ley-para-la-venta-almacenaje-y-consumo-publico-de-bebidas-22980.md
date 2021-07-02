@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2019-08-23"
+last_updated: "2021-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -519,9 +519,17 @@ III.- Cuando se haga caso omiso de la suspensión de actividades, conforme lo di
 
 IV.- Cuando se ponga en riesgo la salud y la seguridad de los asistentes por las condiciones del establecimiento o giro;
 
-V.- Por reincidir en los actos u omisiones que den origen a la imposición de sanciones conforme al artículo anterior; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2021)</small>
 
-VI.- Las demás que determine el Reglamento.
+V.- Por reincidir en los actos u omisiones que den origen a la imposición de sanciones conforme al artículo anterior;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2021)</small>
+
+VI.- Por emplear a menores de dieciocho años de edad en establecimientos cuyo giro preponderante sea la venta de bebidas alcohólicas en envase abierto; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JULIO DE 2021)</small>
+
+VII.- Las demás que determine el Reglamento.
 
 ###### ARTÍCULO 30.
 
@@ -726,3 +734,9 @@ P.O. 23 DE AGOSTO DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Dentro de un plazo que no exceda de 30 días naturales siguiente (sic) a la entrada en vigor del presente decreto, y por única ocasión, los Ayuntamientos del Estado deberán emitir la convocatoria que den (sic) cumplimiento a la reforma al artículo 8 permita la inclusión de los representantes de los distintos giros y establecimientos de la localidad.
+
+P.O. 2 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 234 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 29 DE LA LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
