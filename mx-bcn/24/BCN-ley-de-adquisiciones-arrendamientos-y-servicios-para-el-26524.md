@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-adquisiciones-arrendamientos-y-servicios-para-el-26524"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-18"
-last_updated: "2018-11-30"
+last_updated: "2021-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 18 de octubre de 2002.
 
@@ -107,6 +107,10 @@ XV.- Comisión.- La Comisión Interinstitucional prevista en la Ley de Proyectos
 
 XVI.- Sustentabilidad Ambiental: La administración eficiente y racional de los recursos naturales, de manera tal que sea posible mejorar el bienestar de la población actual sin comprometer la calidad de vida de las generaciones futuras.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2021)</small>
+
+XVII.- Adquisición Sustentable.- Es la compra o adquisición de cualquier bien o servicio que por su característica, composición y propiedades, resulten favorable a la preservación y cuidado del medio ambiente.
+
 ###### ARTÍCULO 4.
 
 Para los efectos de la Ley, entre las adquisiciones, arrendamientos y servicios, quedan comprendidos:
@@ -147,13 +151,13 @@ El gasto de las adquisiciones, arrendamientos y servicios se sujetará, en su ca
 
 La unidad administrativa, la tesorería y la contraloría, en las materias de su competencia, estarán facultadas para interpretar la Ley y su Reglamento, así como para dictar las normas y políticas que sean necesarias para su adecuado cumplimiento, dichas normas y políticas deberán publicarse en el Periódico Oficial del Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 8.
 
-En igualdad de condiciones, siempre se preferirá a los fabricantes y distribuidores de la Entidad, de productos o mercancías regionales, sobre los foráneos. Se considera que existe igualdad de condiciones, cuando la diferencia entre los precios propuestos no sea mayor del cinco por ciento.
+En igualdad de condiciones, siempre se preferirá a los fabricantes y distribuidores regionales de productos o mercancías regionales sobre los foráneos, preferentemente aquellos que fabriquen y distribuyan productos o mercancías que resulten favorables a la preservación y cuidado del medio ambiente. Se considera que existe igualdad de condiciones, cuando la diferencia entre los precios propuestos no sea mayor del cinco por ciento y hasta 10 por ciento.
 
-Atendiendo a las disposiciones de la Ley y a las que de ella emanen, la Secretaría de Desarrollo Económico del Gobierno del Estado, dictará las disposiciones administrativas que tengan como objeto promover la participación de las empresas en la Entidad, especialmente de las micro, pequeñas y medianas, las que deberán observar las unidades administrativas.
+Atendiendo a las disposiciones de la Ley y a las que de ella emanen, la Secretaría de Economía Sustentable y Turismo en sus respectivos ámbitos de competencia, dictarán las disposiciones administrativas que tengan como objeto promover la participación de las empresas regionales, especialmente de las micro, pequeñas y medianas empresas, las que deberán observar las unidades administrativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
 
@@ -187,9 +191,11 @@ Las controversias que se susciten con motivo de la interpretación o aplicación
 
 Los actos, contratos y convenios que se celebren en contravención a lo dispuesto por la Ley, serán nulos previa declaración de autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 13.
 
-La unidad administrativa mediante disposiciones de carácter general determinará los bienes y servicios de uso generalizado que, en forma consolidada podrá adquirir, arrendar o contratar, con objeto de obtener las mejores condiciones en cuanto a calidad, precio y oportunidad.
+La unidad administrativa mediante disposiciones de carácter general determinará los bienes y servicios de uso generalizado que, en forma consolidada podrá adquirir, arrendar o contratar, con objeto de obtener las mejores condiciones en cuanto a calidad, precio, oportunidad y protección al medio ambiente.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -423,6 +429,10 @@ XI.- La indicación de que no podrán participar las personas que se encuentren 
 
 XII.- En el caso de arrendamiento y en los proyectos de Asociación Público-Privada, la indicación en su caso, de que éste es con o sin opción a compra.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2021)</small>
+
+XIII.- La indicación de que las adquisiciones sustentables tendrán preferencia.
+
 ###### ARTÍCULO 27.
 
 En el caso de licitaciones regionales, las convocatorias deberán ser publicadas en el Periódico Oficial del Estado y en un diario de amplia circulación estatal. En el caso de licitaciones nacionales e internacionales las convocatorias deberán ser publicadas en un diario de circulación nacional. En todos los casos, conjuntamente podrán utilizarse los medios de difusión electrónica que autorice la unidad administrativa.
@@ -481,6 +491,10 @@ XIX.- En su caso, términos y condiciones a que deberá ajustarse la participaci
 
 XX.- En el caso de arrendamiento y en los proyectos de Asociación Público-Privada, la indicación en su caso de que es con o sin opción a compra, así como las reglas y condiciones a que deberá sujetarse el proyecto respectivo.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2021)</small>
+
+XXI. La indicación de que las adquisiciones sustentables tendrán preferencia.
+
 ###### ARTÍCULO 29.
 
 El plazo para la presentación y apertura de proposiciones de las licitaciones internacionales, no podrá ser inferior a quince días naturales, contados a partir de la fecha de publicación de la convocatoria.
@@ -533,7 +547,9 @@ En la evaluación de proposiciones, en ningún caso podrán utilizarse mecanismo
 
 Dentro de los criterios de adjudicación, podrá establecerse el relativo a costo beneficio, siempre y cuando sea definido, medible y aplicable a todas las propuestas.
 
-Una vez realizada la evaluación de las proposiciones, el contrato se adjudicará de entre los licitantes, a aquel cuya propuesta resulte solvente; porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante, y garantiza satisfactoriamente el cumplimiento de las obligaciones respectivas.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2021)</small>
+
+Una vez realizada la evaluación de las proposiciones, el contrato se adjudicará de entre los licitantes, a aquel cuya propuesta resulte solvente; porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas, económicas y ambientales requeridas por la convocante, y garantiza satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
 
@@ -623,9 +639,11 @@ La unidad administrativa deberá someter a consideración del Comité, los proce
 
 En el supuesto de que dos procedimientos de invitación hayan sido declarados desiertos, el Comité podrá adjudicar directamente el contrato.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 41.
 
-Los órganos podrán adquirir sin sujetarse a los procedimientos previstos por esta Ley, siempre y cuando se trate de artículos de consumo o gastos de servicios, y el monto de las operaciones no sea superior a los que fije unidad administrativa y la tesorería.
+Los órganos podrán adquirir sin sujetarse a los procedimientos previstos por esta Ley, siempre y cuando se trate de artículos de consumo preferentemente biodegradables o gastos de servicios, y el monto de las operaciones no sea superior a los que fije la unidad administrativa y la tesorería.
 
 ###### ARTÍCULO 42.
 
@@ -1242,3 +1260,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 2 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 245 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
