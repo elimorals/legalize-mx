@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-10742
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2021-04-16"
+last_updated: "2021-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -665,9 +665,11 @@ Niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a 
 
 ### Capítulo Décimo Segundo. Derecho a la Educación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2021)</small>
+
 ###### Artículo 55.
 
-Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus propios derechos y, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana; el desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y demás disposiciones aplicables.
+Las Niñas, niños y adolescentes tienen derecho a una educación de calidad e inclusiva que contribuya al conocimiento de sus propios derechos y, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana; el desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y demás disposiciones aplicables.
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes, en términos de lo previsto por el artículo 103 de la Ley General y esta Ley.
 
@@ -737,9 +739,17 @@ VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o
 
 VIII. Promover la educación sexual integral conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez, de las niñas, niños y adolescentes que le permitan ejercer de manera informada y responsable sus derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las leyes y los Tratados Internacionales de los que el Estado mexicano sea parte;
 
-IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos, y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2021)</small>
 
-X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
+IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2021)</small>
+
+X. Difundir los derechos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2021)</small>
+
+XI. Ser inclusiva.
 
 ###### Artículo 57.
 
@@ -1812,3 +1822,9 @@ P.O. 16 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 213 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 48 BIS DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA REFORMA DE LOS ARTÍCULOS 24 Y 106 BIS DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, ASIMISMO SE APRUEBA LA ADICIÓN DEL ARTÍCULO 72 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrara en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 233 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 55 Y 56 DE LA LEY DE PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
