@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-135186
 country: "mx"
 rank: "ley"
 publication_date: "2019-03-29"
-last_updated: "2020-07-28"
+last_updated: "2021-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
 
 Ley publicada en la Décima Tercera Sección al Número 17 del Periódico Oficial del Estado de Michoacán, el viernes 29 de marzo de 2019.
 
@@ -847,6 +847,46 @@ Para lograr una fiscalización objetiva, las Entidades deberán remitir a la Aud
 
 La Auditoría Superior podrá formular requerimientos a las Entidades. Para efectos de la planeación de la fiscalización, otorgará un término de tres a cinco días hábiles improrrogables a partir de la recepción del mismo; para el desarrollo de la fiscalización, será de tres a quince días hábiles, pudiéndose ampliar a petición de parte, por causa debidamente justificada, lo que no podrá exceder en ningún caso la mitad del plazo previsto originalmente.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2021)</small>
+
+###### Artículo 48 Bis.
+
+Para los procesos de fiscalización, la Auditoría Superior podrá solicitar información y documentación, de manera física o por medios electrónicos o digitales, mediante el uso de firma electrónica, sello digital de tiempo y correo electrónico institucional, que serán obligatorios para las entidades fiscalizadas.
+
+La Auditoría Superior emitirá la normatividad secundaria aplicable a los procesos de fiscalización por medios electrónicos o digitales, así como la normatividad relativa a los protocolos de seguridad que para tal efecto se implementen. La información y documentación así obtenida, tendrá para todos los efectos legales, pleno valor probatorio.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2021)</small>
+
+###### Artículo 48 Ter.
+
+Los procesos de fiscalización a que hace referencia esta Ley, a juicio de la Auditoría Superior, se podrán realizar de manera presencial o por medios digitales o electrónicos. Ello incluirá las audiencias y comparecencias que podrán llevarse a cabo a distancia o por vía remota a través de medios electrónicos.
+
+La Auditoría Superior implementará un sistema informático, a través del cual, de manera enunciativa más no limitativa realizará la notificación de solicitudes de información preliminar, órdenes de auditoría, e informes individuales que contengan acciones, previsiones o recomendaciones, así como en su caso cualquier acto que se emita, los cuales constarán en documentos digitales o electrónicos.
+
+Por su parte, las entidades fiscalizadas presentarán solicitudes o darán atención a requerimientos de información de la Auditoría Superior a través de documentos o archivos digitales o electrónicos a través del sistema informático que para el efecto sea implementado o celebrarán los actos que se requieran dentro del proceso de fiscalización.
+
+Los procesos de fiscalización que se realicen a través del sistema informático constarán en expedientes digitales o electrónicos.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2021)</small>
+
+###### Artículo 48 Quater.
+
+Las disposiciones relativas a la auditoría presencial le serán aplicables en lo conducente a la auditoría realizada a través de medios digitales o electrónicos, sin perjuicio de que de manera particular se esté a lo siguiente:
+
+I. Previo al inicio de la auditoría por medios electrónicos o digitales la Auditoría Superior requerirá por escrito a la entidad fiscalizada, el nombre, cargo, registro federal de contribuyentes y correo o dirección electrónica institucional del servidor público que fungirá como enlace o coordinador para la atención de la auditoría;
+
+II. Una vez recibida la información a que hace referencia la fracción anterior, la Auditoría Superior enviará por única ocasión, al correo o dirección electrónica designada, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste;
+
+III. Los servidores públicos de la entidad fiscalizada que se encuentren autorizados para tal efecto harán uso del sistema informático para el desahogo de la auditoría por medios electrónicos o digitales y deberán consultarlo y confirmar su recepción a más tardar dentro de los dos días hábiles siguientes a aquél en que reciban un aviso electrónico enviado por la Auditoría Superior;
+
+IV. Ante la falta de consulta de la notificación digital, ésta se tendrá por realizada al tercer día hábil siguiente, contado a partir del día en que fue enviado el referido aviso. Será responsabilidad de las entidades fiscalizadas mantener vigente la cuenta de correo electrónico señalada para efectos de notificación de los actos derivados de la auditoría por medios electrónicos o digitales;
+
+V. En los documentos electrónicos o digitales, la firma electrónica amparada por un certificado vigente sustituirá a la firma autógrafa del firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio;
+
+VI. Las notificaciones digitales, se tendrán por realizadas cuando se genere el acuse de recibo digital de notificación del acto de autoridad de que se trate, en el que se hará constar el sello digital de tiempo emitido de conformidad con las disposiciones jurídicas aplicables, que refleja la fecha y hora en que el servidor público de la entidad fiscalizada se autenticó para abrir el documento a notificar o bien, se tuvo por notificado; y,
+
+VII. Cuando la Auditoría Superior por caso fortuito o fuerza mayor, se vea impedida para continuar con la auditoría por medios digitales o electrónicos, ésta se suspenderá hasta que la causa desaparezca, lo cual se deberá publicar en la página de Internet de la Auditoría Superior acompañada de la fundamentación y motivación correspondiente. En caso de que la auditoría pueda ser continuada por la vía presencial, ésta se cambiará de modalidad para cumplir con el mandato constitucional en tiempo y forma. En el mismo sentido, el cambio de una auditoría presencial a una digital podrá realizarse en cualquier tiempo fundando y motivando debidamente la determinación, debiendo notificar a la entidad auditada.
+
 ###### Artículo 49.
 
 Para el inicio de la auditoría deberá emitirse orden de fiscalización, o en su caso, orden de investigación, que contendrá de forma específica el tipo de auditoría a realizarse, y en su caso, requerimiento de información. Las auditorías que practique la Auditoría Superior podrán ser financieras, de cumplimiento o legalidad, de obra y de desempeño, de conformidad con lo establecido en el artículo 16 de esta ley, sin perjuicio de la denominación que éstas reciban conforme a la normatividad y reglas técnicas aplicables. Estas actuaciones, al igual que la conclusión de la auditoría, se deberán hacer constar mediante acta circunstanciada.
@@ -1054,6 +1094,12 @@ La aprobación o no aprobación que contenga el dictamen no suspende el trámite
 Para los efectos de lo previsto en el artículo 133 de la Constitución del Estado, cualquier persona podrá presentar denuncias fundadas cuando se presuma el manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, en los supuestos previstos en esta ley.
 
 Las denuncias podrán presentarse indistintamente ante la Comisión o ante la Auditoría Superior.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2021)</small>
+
+###### Artículo 72 Bis.
+
+Las denuncias podrán presentarse por escrito físico o a través de medios electrónicos o digitales autorizados para tal efecto por estas instancias. En este último caso, la respuesta al denunciante se realizará por estos medios de conformidad con las disposiciones aplicables.
 
 ###### Artículo 73.
 
@@ -1320,3 +1366,11 @@ PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en té
 SEGUNDO. Se deroga todo lo que se oponga al presente Decreto. La Auditoría Superior de Michoacán, en un plazo no mayor a treinta días naturales a la publicación del presente Decreto, hará la devolución respectiva de las fianzas o cauciones, en la forma como se hayan presentado, de todos aquellos servidores públicos que acataron lo establecido en su momento en los «LINEAMIENTOS PARA LA TRAMITACIÓN, CONTRATACIÓN, RECEPCIÓN, REGISTRO, OPERACIÓN, APLICACIÓN Y DETERMINACIÓN DE MONTOS DE LAS FIANZAS QUE DEBEN OTORGAR LOS SERVIDORES PÚBLICOS MUNICIPALES Y ESTATALES DEL ESTADO DE MICHOACÁN DE OCAMPO», Publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 13 de mayo de 2020, Séptima Sección.
 
 TERCERO. La Comisión Inspectora de la Auditoría Superior de Michoacán, en un plazo no mayor a diez días hábiles, posteriores a la publicación del presente Decreto, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, solicitará al Auditor Superior, un nuevo proyecto de lineamientos sobre las fianzas o cauciones conforme al presente Decreto, mismo que en caso de ser aprobado será aplicable exclusivamente para los servidores públicos que no hayan exhibido fianza o caución conforme a la normatividad vigente al momento de asumir su encargo.
+
+P.O. 2 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 544.- SE ADICIONAN LOS ARTÍCULOS 48 BIS, 48 TER, 48 QUATER Y 72 BIS, TODOS A LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su aprobación. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Auditoría Superior de Michoacán realizará y adecuará las disposiciones normativas correspondientes, a fin de poner en funcionamiento el sistema informático para los procesos de fiscalización a través de medios electrónicos y digitales, dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
