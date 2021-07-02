@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2021-04-30"
+last_updated: "2021-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -12781,27 +12781,63 @@ En los arrendamientos que han durado más de cinco años y cuando el arrendatari
 
 ### CAPITULO IV. DEL ARRENDAMIENTO DE FINCAS URBANAS
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 2322.
 
-No podrá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas en el Código Sanitario.
+No podrá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas por las Leyes Sanitarias aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 2323.
 
-El arrendador que no haga las obras que ordene el Departamento de Salubridad Pública como necesarias para que una localidad sea habitable e higiénica, es responsable de los daños y perjuicios que los inquilinos sufran por esa causa.
+El arrendador que no haga las obras que ordene la autoridad correspondiente como necesarias para que una localidad sea habitable, higiénica y segura es responsable de los daños y perjuicios que los inquilinos sufran por esa causa.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 2324.
 
 El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la Ley para que sea fiador.
 
-Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
+Es potestativo para el arrendador aceptar a un fiador en garantía o bien sustituir esa garantía con un depósito.
+
+Es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
 
 ###### ARTICULO 2325.
 
 No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2323.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 2326.
 
-La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos, y por semanas, también vencidas, cuando la renta no llegue a sesenta pesos.
+La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2021)</small>
+
+ARTICULO 2326 BIS. - Para los efectos de este Capítulo el contrato de arrendamiento debe otorgarse por escrito, la falta de esta formalidad se imputará al arrendador.
+
+El contrato deberá contener, cuando menos las siguientes estipulaciones:
+
+I. Nombres del arrendador y arrendatario.
+
+II. La ubicación del inmueble.
+
+III. Descripción detallada del inmueble objeto del contrato y de las instalaciones y accesorios con que cuenta para el uso y goce del mismo, así como el estado que guardan.
+
+IV. El monto y lugar de pago de la renta.
+
+V. El monto del depósito o en su caso los datos del fiador en garantía.
+
+VI. La mención expresa del destino habitacional o comercial del inmueble arrendado.
+
+VII El término del contrato.
+
+VIII. Las obligaciones que arrendador y arrendatario contraigan adicionalmente a las establecidas en la Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2021)</small>
+
+ARTICULO 2326 TER. Las disposiciones contenidas en los artículos 2322 y 2323, son de orden público e interés social, por tanto son irrenunciables y en consecuencia cualquier estipulación en contrario se tendrá por no puesta.
 
 ### CAPITULO V. DEL ARRENDAMIENTO DE FINCAS RUSTICAS
 
@@ -16734,3 +16770,11 @@ P.O. 30 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 203 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 34 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA AL ARTÍCULO 1793 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 232 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los contratos celebrados con anterioridad a la vigencia de esta norma se regirán por las disposiciones en vigor al momento de su celebración.
