@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2020-05-13"
+last_updated: "2021-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "PUE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2021 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -732,6 +734,10 @@ a) Órgano Interno de Control del Congreso, dependiente de la Junta de Gobierno 
 b) Secretaría General, dependiente de la Junta de Gobierno y Coordinación Política;
 
 c) Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas, dependiente de la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2021)</small>
+
+d) Unidad para la Igualdad de Género.
 
 ###### ARTÍCULO 62.
 
@@ -2343,6 +2349,10 @@ III.- No haber sido sentenciado por delitos patrimoniales o estar inhabilitado p
 
 IV.- Poseer los conocimientos, experiencia y capacidad de acuerdo al perfil del cargo.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2021)</small>
+
+V.- Colaborar con el IILFS “Gilberto Bosques Saldívar” para el logro de la igualdad de género en la elaboración de publicaciones y contenidos editoriales que consoliden el proceso de institucionalización e implementación de la perspectiva de género;
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2016)</small>
 
 ### CAPÍTULO VI. UNIDAD DE ATENCIÓN CIUDADANA
@@ -2357,13 +2367,51 @@ El Titular de la Unidad de Atención Ciudadana, será nombrado y removido por la
 
 ARTÍCULO 216 TER.- La Unidad de Atención Ciudadana orgánicamente dependerá de la Junta de Gobierno y Coordinación Política.
 
-### CAPÍTULO I. DE LA REVISIÓN DE LA CUENTA PÚBLICA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
+### CAPÍTULO VII. UNIDAD PARA LA IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2021)</small>
+
+ARTÍCULO 216 QUATER.- La Unidad para la Igualdad de Género del Poder Legislativo del Estado, es el órgano técnico responsable de asegurar la institucionalización de la perspectiva de género en la cultura organizacional, de conformidad con las siguientes funciones:
+
+I.- Elaborar un programa anual de trabajo de la Unidad para la Igualdad de Género para calendarizar los objetivos y las acciones que permitan lograr la igualdad de derechos y oportunidades entre mujeres y hombres;
+
+II.- Proponer y realizar acciones orientadas a la igualdad sustantiva en el Poder Legislativo del Estado;
+
+III.- Proponer y coadyuvar con las instancias competentes para promover ambientes libres de acoso laboral, así como de acoso y hostigamiento sexual en el Poder Legislativo del Estado;
+
+IV.- Proponer ante las instancias competentes políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios rectores de legalidad, eficiencia, probidad, objetividad, calidad, imparcialidad, competitividad, mérito y profesionalismo;
+
+V.- Colaborar con el IILFS para el logro de la igualdad de género en la elaboración de publicaciones y contenidos editoriales que consoliden el proceso de institucionalización e implementación de la perspectiva de género;
+
+VI.- Contribuir en la formación y especialización del personal de todos los niveles en materia de perspectiva de género e igualdad sustantiva;
+
+VII.- Coadyuvar con todas las Direcciones y Unidades para el logro de la igualdad de género en la producción y sistematización de información con perspectiva de género;
+
+VIII.- Realizar seguimiento puntual y exhaustivo a las políticas públicas implementadas por la persona Titular del Poder Ejecutivo para alcanzar la igualdad de género;
+
+IX.- Vigilar que se cumplan los objetivos y las acciones del programa anual de trabajo, en la Unidad para la Igualdad de Género y en el Poder Legislativo del Estado;
+
+X.- Difundir de manera periódica, sistematizada y mediante indicadores que permitan identificar el avance de las metas y objetivos de los programas orientados a cerrar las brechas de desigualdad entre hombres y mujeres en el Poder Legislativo del Estado;
+
+XI.- Elaborar y remitir a la Comisión General de Igualdad de Género los informes de evaluación periódica que den cuenta de los resultados y nivel de cumplimiento de los objetivos, estrategias y políticas ejecutadas para promover la igualdad de género y el acceso de las mujeres a una vida libre de violencia en el Poder Legislativo del Estado;
+
+XII.- Realizar seguimiento y evaluación de los trabajos del Grupo para la Igualdad Laboral y No Discriminación, para la implementación de las Normas 025 y 035;
+
+XIII.- Promover convenios de cooperación o acuerdos interinstitucionales, con instituciones públicas y privadas, en materia de investigación sobre las brechas de género e igualdad sustantiva, con el objetivo de difundir los hallazgos a la opinión pública; y
+
+XIV.- Las demás que le confieran la Ley, y la Junta de Gobierno y Coordinación Política.
+
+La Unidad para la Igualdad de Género estará a cargo de una persona Titular nombrada por la Junta de Gobierno y Coordinación Política, a propuesta de la Comisión General de Igualdad de Género, quien deberá ser profesionista, debiendo acreditar conocimientos y experiencias en temas de derechos humanos y perspectiva de género.
+
+La Unidad para la Igualdad de Género será supervisada en el cumplimiento de sus objetivos y atribuciones por la Comisión General de Igualdad de Género y dependerá directamente de la Junta de Gobierno y Coordinación Política.
 
 ## TÍTULO SÉPTIMO. DE LOS MECANISMOS DE VINCULACIÓN CON OTROS PODERES
 
-### CAPÍTULO II. DE LAS INICIATIVAS DE LEY DE INGRESOS, EGRESOS Y DE LA RECONDUCCIÓN PRESUPUESTAL
+### CAPÍTULO I. DE LA REVISIÓN DE LA CUENTA PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 217.
 
@@ -2385,9 +2433,7 @@ II.- El Congreso del Estado en el tercer periodo de sesiones, deberá incluir en
 
 Al concluir la gestión del Titular de la Auditoría Superior del Estado, de manera excepcional, el Poder Legislativo presentará Cuenta Pública Parcial por el periodo del primero de enero al día de conclusión de la gestión referida, la que deberá presentarse dentro de los quince días siguientes, para su examen, revisión, calificación y aprobación, en el Periodo Ordinario de Sesiones que transcurra, o en su caso, dentro de los primeros quince días del Periodo inmediato siguiente; y por el periodo restante de ese ejercicio, dicho Poder presentará Cuenta Pública Parcial, que se rendirá en términos de la Legislación aplicable.
 
-### CAPÍTULO III. DEL INFORME DE GOBIERNO
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+### CAPÍTULO II. DE LAS INICIATIVAS DE LEY DE INGRESOS, EGRESOS Y DE LA RECONDUCCIÓN PRESUPUESTAL
 
 ###### ARTÍCULO 218.
 
@@ -2403,7 +2449,9 @@ Si al iniciar el ejercicio fiscal no han sido aprobadas la Ley de Ingresos del E
 
 El Congreso, hasta en tanto no sea aprobada la Ley de Egresos del Estado, en la legislación secundaria, establecerá las obligaciones del Poder Ejecutivo para garantizar la generalidad, permanencia y continuidad de los servicios públicos, la satisfacción de las necesidades básicas de la población, los derechos de terceros, y evitar generar cargas financieras al Estado.
 
-### CAPÍTULO IV. DE LAS COMPARECENCIAS
+### CAPÍTULO III. DEL INFORME DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 220.
 
@@ -2419,7 +2467,7 @@ El Congreso analizará, en sesiones subsecuentes, el informe presentado por el G
 
 > <small>(F. DE E., P.O. 27 DE ENERO DE 2012)</small>
 
-### CAPÍTULO V. DE LAS PREGUNTAS LEGISLATIVAS
+### CAPÍTULO IV. DE LAS COMPARECENCIAS
 
 ###### ARTÍCULO 222.
 
@@ -2469,7 +2517,7 @@ En el supuesto de que alguno de los servidores públicos no comparezca ante el P
 
 > <small>(F. DE E., P.O. 27 DE ENERO DE 2012)</small>
 
-### CAPÍTULO VI. DE LAS OBSERVACIONES DEL PODER EJECUTIVO
+### CAPÍTULO V. DE LAS PREGUNTAS LEGISLATIVAS
 
 ###### ARTÍCULO 229.
 
@@ -2485,7 +2533,7 @@ Los medios de participación de democracia directa previstos en la Constitución
 
 > <small>(F. DE E., P.O. 27 DE ENERO DE 2012)</small>
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO VI. DE LAS OBSERVACIONES DEL PODER EJECUTIVO
 
 ###### ARTÍCULO 232.
 
@@ -2501,15 +2549,17 @@ Se considerará que el Ejecutivo está conforme con el proyecto, cuando no lo de
 
 ## TÍTULO OCTAVO. DE LOS PROCEDIMIENTOS ESPECIALES
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE TRANSPARENCIA
-
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 234.
 
 Los procedimientos especiales son aquellos que requieren de un trámite distinto al procedimiento legislativo ordinario, su tramitación se realizará de conformidad con lo previsto por la Constitución Política del Estado Libre y Soberano de Puebla, esta Ley, su Reglamento Interior, las leyes especiales que los contemplen y demás disposiciones aplicables.
 
 ## TÍTULO NOVENO. DE LA TRANSPARENCIA DEL PODER LEGISLATIVO
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE TRANSPARENCIA
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 235.
 
@@ -2922,3 +2972,11 @@ PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Est
 SEGUNDO. Una vez que entre en vigor el presente Decreto, el Honorable Congreso del Estado Libre y Soberano de Puebla, deberá actualizar el Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, en un lapso que no exceda de treinta días naturales.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+P.O. 2 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 216; Y ADICIONAN EL INCISO D) A LA FRACCIÓN III DEL ARTÍCULO 61, ASÍ COMO EL ARTÍCULO 216 QUATER AL CAPÍTULO VII, DEL TÍTULO SEXTO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
