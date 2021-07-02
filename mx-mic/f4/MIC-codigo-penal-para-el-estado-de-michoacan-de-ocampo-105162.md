@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2021-04-05"
+last_updated: "2021-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -2106,6 +2106,18 @@ Incumplimiento de la obligación alimentaria
 A quien incumpla con su obligación de dar alimentos a la persona que tiene derecho a recibirlos se le impondrá de seis meses a tres años de prisión o de cincuenta a doscientos días multa y pago en calidad de reparación del daño de las cantidades no suministradas oportunamente.
 
 Para los efectos de este artículo, se tendrá como consumado el delito aun cuando el acreedor alimentario haya sido dejado al cuidado o reciba ayuda de un tercero.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2021)</small>
+
+Se equipara al delito de resistencia de particulares contenido en el artículo 256 de este Código y se sancionará con la misma pena:
+
+I. El incumplimiento por parte del empleador o responsable del pago, en tiempo y forma, de proporcionar a la autoridad judicial la información requerida formalmente sobre los ingresos económicos ordinarios y extraordinarios del deudor alimentario; y,
+
+II. El incumplimiento por parte del empleador o responsable del pago, en tiempo y forma, de realizar los descuentos determinados en resolución judicial, al ser notificada.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2021)</small>
+
+Lo previsto en el último párrafo del presente artículo se seguirá de oficio.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -4378,3 +4390,11 @@ Considerando que la pandemia es una situación delicada y que por tanto es injus
 CUARTO. Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, deberán concluirse y ejecutarse conforme las disposiciones vigentes antes de la entrada en vigor de éste último.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 546.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 181 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
