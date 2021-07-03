@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2021-06-09"
+last_updated: "2021-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2021.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -3817,7 +3817,13 @@ VIII.- Panteones; autorización para construcción ejecutadas por particulares, 
 
 IX.- Alineamiento, ampliación y ornato de las calles, jardines, paseos y caminos vecinales; y
 
-X.- Todos aquellos que por determinación de la ley o declaración de la autoridad competente deban ser considerados como servicios públicos municipales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2021)</small>
+
+X.- De bomberos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JULIO DE 2021)</small>
+
+XI.- Todos aquellos que por determinación de la ley o declaración de la autoridad competente deban ser considerados como servicios públicos municipales.
 
 Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los municipios del Estado observarán lo dispuesto por las leyes federales y estatales.
 
@@ -5612,3 +5618,23 @@ P.O. 9 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVL/RFLYC/1019/2021 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA Y DEL DECRETO Nº LXVL/RFLYC/0749/2020 IX P.E.”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVL/EXLEY/1018/2021 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA Y LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA; Y SE EXPIDE LA LEY DE LOS CUERPOS DE BOMBEROS PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en un año, contado a partir de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas aquellas disposiciones legales que se opongan a lo dispuesto por el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los municipios del Estado, deberán armonizar sus reglamentos de conformidad con la Ley de los Cuerpos de Bomberos para el Estado de Chihuahua, para que entren en vigor cuando lo haga el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los municipios del Estado, deberán realizar previsiones presupuestales necesarias para el cumplimiento del presente Decreto.
