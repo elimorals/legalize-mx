@@ -4,7 +4,7 @@ identifier: "ZAC-ley-general-de-archivos-para-el-estado-de-zacatecas-130414"
 country: "mx"
 rank: "ley_general"
 publication_date: "2018-08-25"
-last_updated: "2018-09-29"
+last_updated: "2021-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY GENERAL DE ARCHIVOS PARA EL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ARCHIVOS PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 3 DE JULIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE ARCHIVOS PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2021 (ABROGADA).
 
 Ley publicada en el Suplemento 2 al No. 68 del Periódico Oficial del Estado de Zacatecas, el sábado 25 de agosto de 2018.
 
@@ -1540,3 +1540,61 @@ P.O. 29 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 481.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ARCHIVOS DEL ESTADO DE ZACATECAS".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Estado de Zacatecas.
+
+P.O. 3 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE ARCHIVOS PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, sin perjuicio de lo dispuesto en los artículos siguientes.
+
+Artículo Segundo. Se abroga la Ley General de Archivos para el Estado de Zacatecas, aprobada mediante el Decreto #387, y publicada en el Suplemento 2 al No. 68 del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, el sábado 25 de agosto de 2018.
+
+Artículo Tercero. Se abroga el Decreto #481, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Archivos del Estado de Zacatecas, aprobado en sesión del 4 de septiembre de 2018, y publicado en el Suplemento 6 al número 78 del Periódico Oficial, Órgano del Gobierno del Estado, del 29 de septiembre del mismo año.
+
+Artículo Cuarto. Se derogan todas aquellas disposiciones legales y administrativas que se opongan al presente Decreto.
+
+Artículo Quinto. En un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor de la presente Ley, se deberán realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
+
+Artículo Sexto. El organismo público descentralizado denominado Archivo General del Estado de Zacatecas que crea la presente Ley, entrará en funciones a más tardar el 15 de julio del presente año.
+
+Dentro de los veinte días naturales siguientes al inicio de funciones del organismo público descentralizado denominado Archivo General del Estado de Zacatecas, deberá instalarse el Órgano de Gobierno del Archivo General del Estado a que se refiere el artículo 116 de la presente Ley.
+
+Instalado el Órgano de Gobierno, en un plazo no mayor a quince días naturales, presentará la terna de los candidatos para elegir a la persona que ocupará la Dirección General del Archivo General del Estado de Zacatecas, organismo público descentralizado.
+
+El titular del Ejecutivo emitirá el nombramiento en un plazo no mayor a diez días naturales a partir de la recepción de la terna por parte del Órgano de Gobierno.
+
+Artículo Séptimo. El Órgano de Gobierno del Archivo General del Estado deberá expedir y publicar el Estatuto Orgánico del Archivo General del Estado de Zacatecas, en un periodo no mayor cuarenta y cinco días, contados a partir de la entrada en vigor de esta Ley.
+
+Artículo Octavo. El Consejo Estatal de Archivos deberá integrarse y empezar a sesionar dentro de los sesenta días contados a partir de la entrada en vigor de la presente Ley, y elaborar y expedir su reglamento en los noventa días subsecuentes.
+
+Artículo Noveno. Los asuntos que al momento de la entrada en vigor del presente Decreto se encuentren en trámite en el Archivo General del Estado, órgano administrativo desconcentrado de la Secretaría General de Gobierno, serán atendidos hasta su conclusión por el Archivo General del Estado en su calidad de organismo público descentralizado, en términos de las disposiciones jurídicas aplicables.
+
+Artículo Décimo. Una vez en funciones el Archivo General del Estado como organismo descentralizado de la administración pública estatal, la Secretaría General de Gobierno transferirá los recursos humanos, financieros y materiales correspondientes al órgano desconcentrado denominado Archivo General del Estado, atendiendo las disposiciones de la Ley de Entrega Recepción del Estado de Zacatecas.
+
+Los derechos laborales de los servidores públicos adscritos al órgano desconcentrado que sean transferidos al Archivo General del Estado serán respetados y garantizados.
+
+La Secretaría General de Gobierno, en un plazo que no exceda de sesenta días contados a partir de la entrada en vigor del presente Decreto, deberá reformar su normatividad interna, en términos del contenido de esta Ley.
+
+Artículo Undécimo. Los municipios deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en esta Ley.
+
+Artículo Duodécimo. Los sujetos obligados deberán implementar su sistema institucional, dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+
+Artículo Décimo Tercero. En un plazo de un año, contado a partir de la entrada en vigor de la presente Ley, los sujetos obligados deberán establecer programas de capacitación en materia de gestión documental y administración de archivos.
+
+Artículo Décimo Cuarto. El Poder Ejecutivo del Estado deberá prever las asignaciones en el Presupuesto de Egresos del Estado de Zacatecas para la operación de la presente Ley, la conformación y funcionamiento de los sistemas institucionales de los sujetos obligados, así como para el Fondo de Apoyo Económico para los Archivos, establecido en el artículo 96 de la presente Ley.
+
+Artículo Décimo Quinto. Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley no hayan sido organizados y valorados, se les deberá aplicar los procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental. Los avances de estos trabajos deberán ser publicados al final de cada año en el portal electrónico del sujeto obligado.
+
+Artículo Décimo Sexto. Los documentos transferidos a un archivo histórico o al Archivo General del Estado antes de la entrada en vigor de la Ley, permanecerán en dichos archivos y deberán ser identificados, ordenados, descritos y clasificados archivísticamente, con el objetivo de identificar el contenido y carácter de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación.
+
+Artículo Décimo Séptimo. Las disposiciones reglamentarias requeridas para el cumplimiento de la función regulatoria del Archivo General del Estado, así como para el funcionamiento de los sistemas institucionales de los sujetos obligados deberán emitirse en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley.
+
+Artículo Décimo Octavo. La Secretaría de Finanzas, la Secretaría de Administración y la Secretaría de la Función Pública deberán llevar a cabo las gestiones necesarias para que se autorice la estructura orgánica y ocupacional del Archivo General del Estado, de conformidad con las disposiciones correspondientes.
+
+Artículo Décimo Noveno. El Archivo Histórico del Estado de Zacatecas se incorporará al Archivo General del Estado, en un plazo no mayor a treinta días naturales a partir de la entrada en vigor de esta Ley.
+
+Los recursos humanos, materiales y financieros se trasladarán al organismo descentralizado Archivo General del Estado para constituir parte de su patrimonio y cumplir con su objeto.
+
+Los derechos laborales de los servidores públicos que sean transferidos al Archivo General del Estado serán respetados y garantizados.
+
+Para tal efecto, deberá llevarse a cabo el proceso de entrega-recepción con la intervención de la Secretaría de la Función Pública, la Secretaría de Administración y el Instituto Zacatecano de Cultura “Ramón López Velarde”.
