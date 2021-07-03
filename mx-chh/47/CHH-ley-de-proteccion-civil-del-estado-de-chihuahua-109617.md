@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-109617"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-26"
-last_updated: "2018-01-10"
+last_updated: "2021-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 10 DE ENERO DE 2018 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO LXV/RFLEY/0646 2017 I P.O. PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de agosto de 2015.
 
@@ -205,6 +203,10 @@ V. Los Consejos Municipales de Protección Civil.
 
 VI. Las Coordinaciones Municipales de Protección Civil.
 
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2021)</small>
+
+VII. Los Cuerpos de Bomberos Municipales.
+
 ###### ARTÍCULO 10.
 
 Corresponde al Gobernador del Estado:
@@ -286,6 +288,10 @@ IV. El Coordinador Estatal de Protección Civil, quien fungirá como Secretario 
 V. El Presidente y Secretario de la Comisión de Protección Civil del Congreso del Estado.
 
 VI. El Presidente Municipal de la localidad donde se suscite la emergencia o desastre.
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2021)</small>
+
+VII. Quien ocupe la titularidad del Cuerpo de Bomberos de la localidad donde se suscite la emergencia o desastre.
 
 El Presidente del Consejo invitará a los representantes de las dependencias y entidades públicas y privadas, así como a las instituciones académicas, profesionales, organismos de la sociedad civil organizada y los representantes de las fuerzas armadas, como parte del Consejo, pudiendo participar, todos ellos, con voz pero sin voto.
 
@@ -595,9 +601,45 @@ Corresponde a los municipios la inspección, regulación y vigilancia, a través
 
 El Municipio, el Estado y la Federación, podrán celebrar convenios de colaboración para el debido cumplimiento de esta Ley.
 
-### CAPÍTULO VIII. DE LOS GRUPOS VOLUNTARIOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JULIO DE 2021)</small>
 
-### CAPÍTULO IX. DE LA CULTURA DE PROTECCIÓN CIVIL
+### CAPÍTULO VII Bis. DE LOS CUERPOS DE BOMBEROS
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 38 Bis.
+
+Los Municipios tendrán a su cargo la prestación del servicio de bomberos.
+
+El servicio de bomberos deberá prestarse con base en los objetivos, estrategias y prioridades establecidas en los planes municipales de desarrollo y en los programas municipales derivados de los mismos.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 38 Ter.
+
+Las funciones de los Cuerpos de Bomberos, serán las siguientes:
+
+I. Proteger a las personas y, en su caso, a la sociedad, de los peligros y riesgos provocados por incendios, así como prevenir y controlar los efectos destructivos de estos.
+
+II. Prestar auxilio para contrarrestar, en su caso, daños derivados de derrumbes, inundaciones, explosivos y, en general, de todos aquellos hechos naturales o fortuitos que pongan en peligro la vida, las posesiones o los derechos de las personas.
+
+III. Prestar la asistencia que les sea requerida por autoridades competentes en relación con actos que pongan en peligro la vida, las posesiones o los derechos de las personas.
+
+IV. Impartir cursos de capacitación y adiestramiento a la población en general, para el control de situaciones de riesgo, emergencia, siniestro o desastre.
+
+V. Participar en los programas de prevención, simulacros, atención y mitigación de las emergencias, riesgos, contingencias y desastres de toda índole y magnitud.
+
+VI. Las demás que sean afines a las anteriores o resulten de otras leyes.
+
+La atención por parte de los Cuerpos de Bomberos se prestará en forma gratuita, a excepción de los servicios por los que esta Ley, las leyes fiscales correspondientes u otras disposiciones aplicables establezcan cuotas o tarifas por los mismos.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 38 Quáter.
+
+Los Cuerpos de Bomberos de los municipios, en caso de emergencia o desastre, coadyuvarán con la Coordinación Estatal, así como con las Coordinaciones Municipales de Protección Civil a la que corresponda, de conformidad con el marco jurídico aplicable.
+
+### CAPÍTULO VIII. DE LOS GRUPOS VOLUNTARIOS
 
 ###### ARTÍCULO 39.
 
@@ -639,7 +681,7 @@ VII. Las demás que les confiera otros ordenamientos jurídicos aplicables.
 
 La Coordinación Municipal de Protección Civil, deberá promover la integración de los grupos voluntarios territoriales, así como su capacitación para desempeñar labores de prevención, rescate y auxilio.
 
-### CAPÍTULO X. DEL PROGRAMA ESTATAL DE PROTECCIÓN CIVIL
+### CAPÍTULO IX. DE LA CULTURA DE PROTECCIÓN CIVIL
 
 ###### ARTÍCULO 44.
 
@@ -653,7 +695,7 @@ El Sistema Educativo Estatal instrumentará, en todas las escuelas del Estado, u
 
 Las Dependencias y Entidades de la Administración Pública Estatal, deberán adoptar las medidas encaminadas a instrumentar los programas de protección civil en el ámbito de su competencia.
 
-### CAPÍTULO XI. DEL PROGRAMA INTERNO DE PROTECCIÓN CIVIL
+### CAPÍTULO X. DEL PROGRAMA ESTATAL DE PROTECCIÓN CIVIL
 
 ###### ARTÍCULO 47.
 
@@ -699,7 +741,7 @@ VI. Los mecanismos para su control y evaluación.
 
 En el caso de que se identifiquen riesgos específicos que puedan afectar de manera grave a la población de una determinada localidad o región se podrán elaborar programas especiales de protección civil.
 
-### CAPÍTULO XII. DE LA UNIDAD INTERNA DE PROTECCIÓN CIVIL
+### CAPÍTULO XI. DEL PROGRAMA INTERNO DE PROTECCIÓN CIVIL
 
 ###### ARTÍCULO 51.
 
@@ -729,7 +771,7 @@ La Unidad Interna de Protección Civil podrá ser asesorada por una persona fís
 
 Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles a los que se refiere el presente Capítulo, están obligados a cumplir con las medidas de seguridad establecidas en su Programa Interno de Protección Civil, y asegurarse que se cumplan todas las medidas que en este se contemplen, a fin de salvaguardar la integridad física y los bienes de las personas que acuden al inmueble.
 
-### CAPÍTULO XIII. DE LOS TERCEROS ACREDITADOS
+### CAPÍTULO XII. DE LA UNIDAD INTERNA DE PROTECCIÓN CIVIL
 
 ###### ARTÍCULO 58.
 
@@ -755,7 +797,7 @@ III. Asegurar la capacitación de los brigadistas, para un mejor desempeño de s
 
 IV. Supervisar la realización de simulacros, así como la evaluación de los mismos.
 
-### CAPÍTULO XIV. DE LOS SIMULACROS
+### CAPÍTULO XIII. DE LOS TERCEROS ACREDITADOS
 
 ###### ARTÍCULO 62.
 
@@ -781,7 +823,7 @@ La autoridad de protección civil competente conformará un padrón de consultor
 
 La autoridad de protección civil competente contará con facultades para aplicar las sanciones a que haya lugar, a cargo de los terceros acreditados que no cuenten con el registro correspondiente, o que contando con el registro hayan hecho mal uso del mismo.
 
-### CAPÍTULO XV. DE LOS EVENTOS DE CONCENTRACIÓN MASIVA
+### CAPÍTULO XIV. DE LOS SIMULACROS
 
 ###### ARTÍCULO 68.
 
@@ -807,7 +849,7 @@ La autoridad de protección civil correspondiente podrá solicitar la realizaci�
 
 La Unidad Interna de Protección Civil de cada establecimiento, deberá contar con evidencia documental de la realización de los mismos, personal participante y resultados obtenidos. Dicha documentación deberá incluir material fotográfico, copia de oficios girados a las autoridades correspondientes, así como acta de resultados firmada por un representante de cada brigada.
 
-### CAPÍTULO XVI. DE LAS CONSTRUCCIONES
+### CAPÍTULO XV. DE LOS EVENTOS DE CONCENTRACIÓN MASIVA
 
 ###### ARTÍCULO 74.
 
@@ -855,7 +897,7 @@ Los propietarios, poseedores o administradores de establecimientos en los que ha
 
 Todos los lugares a que se refieren los artículos anteriores deberán contar con las medidas de seguridad de acuerdo a la normatividad vigente; además, deberán colocarse en sitios visibles equipos de seguridad, señales preventivas, restrictivas e informativas, luces y equipo necesario, según el caso, los cuales consignarán las reglas y orientaciones que deberán observarse antes, durante y después de algún siniestro o desastre, así como señalar las zonas de seguridad.
 
-### CAPÍTULO XVII. GESTIÓN INTEGRAL DE RIESGOS
+### CAPÍTULO XVI. DE LAS CONSTRUCCIONES
 
 ###### ARTÍCULO 79.
 
@@ -887,7 +929,7 @@ VIII. El programa de capacitación y entrenamiento, dirigido a personal de la em
 
 IX. Los demás que determinen la presente Ley, las autoridades competentes y otras disposiciones aplicables.
 
-### CAPÍTULO XVIII. DE LA PREVENCIÓN DE DESASTRES DE ORIGEN NATURAL
+### CAPÍTULO XVII. GESTIÓN INTEGRAL DE RIESGOS
 
 ###### ARTÍCULO 82.
 
@@ -929,7 +971,7 @@ II. La distribución de los recursos y responsabilidades que comprendan las pol�
 
 La autoridad competente deberá establecer los lineamientos generales en materia de protección civil para inducir y fomentar que el principio de la Gestión Integral de Riesgos y la continuidad de operaciones, sea un valor de política pública y una tarea transversal para que con ello se realicen acciones de orden preventivo, con especial énfasis en aquellas que tienen relación directa con la salud, la educación, el ordenamiento territorial, la planeación urbano-regional, la conservación y empleo de los recursos naturales, la gobernabilidad y la seguridad.
 
-### CAPÍTULO XIX. DE LA DETECCIÓN DE ZONAS DE RIESGO
+### CAPÍTULO XVIII. DE LA PREVENCIÓN DE DESASTRES DE ORIGEN NATURAL
 
 ###### ARTÍCULO 86.
 
@@ -961,7 +1003,7 @@ Las políticas, lineamientos y acciones de coordinación que en materia preventi
 
 Los convenios a que se refiere el presente artículo, establecerán un marco general de coordinación administrativa que incluirán las acciones que le corresponda realizar a cada una de las partes para la prevención de desastres, la sujeción a las disposiciones administrativas aplicables de acuerdo a los términos aprobados por el Consejo, así como las obligaciones de los municipios, relacionadas con la ejecución de proyectos preventivos encaminados a la reducción, previsión y control permanente de los riesgos.
 
-### CAPÍTULO XX. DE LA DENUNCIA POPULAR
+### CAPÍTULO XIX. DE LA DETECCIÓN DE ZONAS DE RIESGO
 
 ###### ARTÍCULO 91.
 
@@ -975,7 +1017,7 @@ Se sancionará la construcción, edificación, realización de obras de infraest
 
 En el caso de asentamientos humanos ya establecidos en zonas de alto riesgo, el Ejecutivo Estatal, con base en estudios de riesgos específicos, determinará la realización de las obras de infraestructura que sean necesarias para mitigar el riesgo a que están expuestas o, de ser el caso, deberán formular un plan a fin de determinar cuáles de ellos deben ser reubicados, proponiendo mecanismos financieros que permitan esta acción.
 
-### CAPÍTULO XXI. DE LAS INSPECCIONES
+### CAPÍTULO XX. DE LA DENUNCIA POPULAR
 
 ###### ARTÍCULO 94.
 
@@ -995,7 +1037,7 @@ Las autoridades de protección civil, en los términos de esta Ley, atenderán d
 
 Las autoridades de protección civil que no cumplan con lo establecido en los artículos anteriores, incurrirán en responsabilidad oficial, debiendo ser sancionados conforme a lo que establezcan los ordenamientos aplicables.
 
-### CAPÍTULO XXII. DE LAS VERIFICACIONES
+### CAPÍTULO XXI. DE LAS INSPECCIONES
 
 ###### ARTÍCULO 98.
 
@@ -1041,7 +1083,7 @@ Es obligación de los propietarios responsables, encargados u ocupantes de los i
 
 Las autoridades federales, estatales y municipales auxiliarán a los inspectores de protección civil para el eficaz desempeño de sus funciones cuando se lo soliciten.
 
-### CAPÍTULO XXIII. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO XXII. DE LAS VERIFICACIONES
 
 ###### ARTÍCULO 105.
 
@@ -1075,7 +1117,7 @@ Transcurrido el plazo a que se refiere la fracción V del artículo anterior, la
 
 En caso de reincidencia en el incumplimiento a las medidas de seguridad, la autoridad que haya llevado a cabo las visitas en el inmueble, obra o evento, dictará la resolución que proceda, debidamente fundada y motivada, que deberá entregar al interesado en el lugar donde se llevó a cabo la inspección, acompañada de la sanción correspondiente.
 
-### CAPÍTULO XXIV. DE LAS INFRACCIONES
+### CAPÍTULO XXIII. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 110.
 
@@ -1107,7 +1149,7 @@ Para los casos contemplados en las fracciones I y II, la medida de seguridad con
 
 Así mismo, se podrá promover la ejecución, ante la autoridad competente y en los términos de las leyes respectivas, de las medidas de seguridad que en dichos ordenamientos se establezcan.
 
-### CAPÍTULO XXV. DE LAS SANCIONES
+### CAPÍTULO XXIV. DE LAS INFRACCIONES
 
 ###### ARTÍCULO 112.
 
@@ -1135,7 +1177,7 @@ III. No dar cumplimiento a las resoluciones de la autoridad competente que impon
 
 IV. En general, llevar a cabo cualquier acto u omisión que contravenga las disposiciones de esta Ley o su reglamento, o que por cualquier motivo causen o puedan causar algún riesgo o daño a la salud pública o la seguridad de la población.
 
-### CAPÍTULO XXVI. DE LOS RECURSOS
+### CAPÍTULO XXV. DE LAS SANCIONES
 
 ###### ARTÍCULO 115.
 
@@ -1225,6 +1267,8 @@ Independientemente de las sanciones administrativas que se impongan al infractor
 
 La responsabilidad por daños o perjuicios causados por acciones u omisiones que deriven en riesgos, siniestros o desastres, se determinará y hará efectiva, conforme a lo establecido en los Códigos Penal y Civil, y en la Ley de Responsabilidades de los Servidores Públicos, todos ordenamientos del Estado de Chihuahua, y demás disposiciones aplicables al caso.
 
+### CAPÍTULO XXVI. DE LOS RECURSOS
+
 ###### ARTÍCULO 128.
 
 Contra las resoluciones emitidas por la autoridad, las cuales impongan una sanción, procederán los recursos previstos en el Código Administrativo, el Código Municipal y la Ley de Responsabilidades de los Servidores Públicos, todos del Estado de Chihuahua, según corresponda al acto de autoridad de que se trate.
@@ -1302,3 +1346,23 @@ Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Co
 ###### ARTÍCULO SÉPTIMO.
 
 La Fiscalía General del Estado deberá realizar las acciones necesarias en cuanto a su organización interna a fin de encontrarse en aptitud de ejercer las atribuciones que se le confieren por medio del presente Decreto.
+
+P.O. 3 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/EXLEY/1018/2021 11 P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA Y LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA; Y SE EXPIDE LA LEY DE LOS CUERPOS DE BOMBEROS PARA EL ESTADO DE CHIHUAHUA”
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en un año, contado a partir de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas aquellas disposiciones legales que se opongan a lo dispuesto por el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los municipios del Estado, deberán armonizar sus reglamentos de conformidad con la Ley de los Cuerpos de Bomberos para el Estado de Chihuahua, para que entren en vigor cuando lo haga el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los municipios del Estado, deberán realizar previsiones presupuestales necesarias para el cumplimiento del presente Decreto.
