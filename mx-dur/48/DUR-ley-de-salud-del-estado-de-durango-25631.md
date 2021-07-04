@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2021-06-17"
+last_updated: "2021-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -261,13 +261,17 @@ LVIII. Aislamiento: La separación de personas infectadas, durante el periodo de
 
 LIX. COPRISED: La Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
 
-LX. Liposucción o Lipoaspiración o Lipoescultura: La rama de la cirugía plástica, estética y reconstructiva, consistente en una maniobra terapéutica del campo invasivo quirúrgico para extirpar tejido graso, realizada con el objetivo principal de cambiar o corregir el contorno o forma, de diferentes regiones de la cara y del cuerpo que debe efectuarse por profesionales debidamente acreditados en la respectiva especialidad con el reconocimiento de la Asociación Mexicana de Cirugía Plástica Estética y Reconstructiva, y el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva; y
+LX. Liposucción o Lipoaspiración o Lipoescultura: La rama de la cirugía plástica, estética y reconstructiva, consistente en una maniobra terapéutica del campo invasivo quirúrgico para extirpar tejido graso, realizada con el objetivo principal de cambiar o corregir el contorno o forma, de diferentes regiones de la cara y del cuerpo que debe efectuarse por profesionales debidamente acreditados en la respectiva especialidad con el reconocimiento de la Asociación Mexicana de Cirugía Plástica Estética y Reconstructiva, y el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva;
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
 
-LXI. Adicción o Trastorno Adictivo: Patrón desadaptado de comportamiento compulsivo provocado por la dependencia psíquica, física o de las dos clases a una sustancia o conducta determinada y que repercuta negativamente en las áreas psicológica, física, familiar o social de la persona y de su entorno.
+LXI. Adicción o Trastorno Adictivo: Patrón desadaptado de comportamiento compulsivo provocado por la dependencia psíquica, física o de las dos clases a una sustancia o conducta determinada y que repercuta negativamente en las áreas psicológica, física, familiar o social de la persona y de su entorno; y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+LXII. Violencia hacia las mujeres y niñas: cualquier tipo de violencia en sus distintas modalidades, establecidas en la Ley de las Mujeres para una Vida Sin Violencia.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
@@ -319,7 +323,9 @@ I. Proporcionar servicios de salud a toda la población de la entidad y mejorar 
 
 II. Contribuir al desarrollo demográfico armónico del Estado;
 
-III. Colaborar al bienestar social de la población del Estado, mediante servicios de asistencia social, principalmente a niñas, niños y adolescentes en estado de abandono, adultos mayores desamparados, personas con discapacidad, mujeres en período de gestación y lactancia y, víctimas de violencia intrafamiliar, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
+
+III. Colaborar al bienestar social de la población del Estado, mediante servicios de asistencia social, principalmente a niñas, niños y adolescentes en estado de abandono, adultos mayores desamparados, personas con discapacidad, mujeres en período de gestación y lactancia, víctimas de violencia intrafamiliar, sexual y contra las mujeres, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
 
 IV. Impulsar el desarrollo de la familia y de la comunidad, así como la integración social y el crecimiento físico y mental de la infancia;
 
@@ -369,9 +375,9 @@ XV. Diseñar y ejecutar políticas públicas que proporcionen y desarrollen acci
 
 XVI. Impulsar y promover los beneficios y consecuencias para el bienestar general de la cultura de la donación de órganos;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE JULIO DE 2021)</small>
 
-XVII. Diseñar y ejecutar políticas públicas que favorezcan el cuidado de la salud mental, que garanticen un combate eficaz a las enfermedades mentales y cuyos avances y resultados sean objeto de evaluación; y
+XVII. La detección, prevención, atención médica y orientación en situaciones de violencia hacia las víctimas de violencia sexual.
 
 > <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
 
@@ -423,11 +429,15 @@ XVI. Instaurar programas de nutrición, para prevenir y atender la diabetes, la 
 
 XVII. El diseño, la organización, coordinación y vigilancia del Registro Estatal de Cáncer;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
 
-XVIII. Diseñar, impulsar y evaluar programas permanentes para la prevención de embarazos en menores de edad; y
+XVIII. Diseñar, impulsar y evaluar programas permanentes para la prevención de embarazos en menores de edad;
 
-XIX. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables.
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XIX. Coordinarse con las instancias competentes para la elaboración de políticas públicas que contribuyan en la eliminación de la violencia contra las niñas, niños, adolescentes y mujeres; y
+
+XX. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -1157,9 +1167,9 @@ X. La promoción del mejoramiento de la nutrición;
 
 XI. La asistencia social a los grupos más vulnerables;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
 
-XII. La atención a las víctimas de violencia intrafamiliar y de abandono;
+XII. La atención a las víctimas de violencia intrafamiliar, sexual y de abandono;
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
 
@@ -1497,9 +1507,17 @@ IV. Los programas de prevención del maltrato infantil y de la violencia intrafa
 
 V. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de la infancia y de las mujeres embarazadas;
 
-VI. Acciones relacionadas con la educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
 
-VII. Las demás que coadyuven a la protección de la salud materno-infantil.
+VI. Acciones relacionadas con la educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
+
+VII. Las demás que coadyuven a la protección de la salud materno-infantil; y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+VIII. Participar en el diseño y ejecución de programas educativos para la prevención y detección temprana de la violencia familiar o sexual, dirigidos a la población en general.
 
 ###### ARTÍCULO 86.
 
@@ -1561,7 +1579,9 @@ La Secretaría y el Organismo coadyuvarán con la Secretaría de Salud del Gobie
 
 La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control.
 
-Se prestará especial atención a la prevención de la violencia intrafamiliar como uno de los factores que inciden en los desequilibrios de la salud mental.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2021)</small>
+
+Se prestará especial atención a la prevención de la violencia intrafamiliar y sexual como principales factores que inciden en los desequilibrios de la salud mental.
 
 ###### ARTÍCULO 93.
 
@@ -1903,7 +1923,9 @@ II. Proporcionar a la población los conocimientos sobre las causas de las enfer
 
 III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, salud reproductiva, riesgos de embarazos tempranos y de automedicación, prevención de la farmacodependencia, adicciones, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de discapacidades y detección oportuna de enfermedades; y
 
-IV. Prevenir sobre los efectos negativos que sobre la salud tiene la violencia intrafamiliar.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
+
+IV. Prevenir sobre los efectos negativos que tiene sobre la salud la violencia sexual e intrafamiliar.
 
 ###### ARTÍCULO 124.
 
@@ -1917,9 +1939,13 @@ III. Formularán y desarrollarán programas de capacitación técnica en salud d
 
 IV. Fomentarán la instrumentación y desarrollo de programas de capacitación técnica en cuidados preventivos, destinados a áreas marginadas, con énfasis en la problemática estacional y grupos de edad vulnerable;
 
-V. Formularan y desarrollarán programas de información y prevención de la violencia intrafamiliar, procurando su erradicación;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
 
-VI. Establecerán campañas de capacitación y sensibilización dirigidas a servidores públicos que atienden a los sujetos pasivos y activos de la violencia intrafamiliar, con la finalidad de que la detecten y atiendan adecuadamente.
+V. Formularán y desarrollarán programas de información y prevención de la violencia intrafamiliar, procurando su erradicación; y
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
+
+VI. Establecerán campañas de capacitación y sensibilización dirigidas a servidores públicos que atienden a los sujetos pasivos y activos de la violencia intrafamiliar y sexual, con la finalidad de que la detecten y atiendan adecuadamente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ABRIL DE 2011)</small>
 
@@ -4148,6 +4174,18 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 17 DE JUNIO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 558.- QUE CONTIENE ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 582.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
