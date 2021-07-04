@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1355
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2018-06-24"
+last_updated: "2021-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 1998.
 
@@ -705,6 +705,24 @@ XIII. Los demás aspectos y requisitos previstos en las bases e invitaciones, as
 
 Para los efectos de esta Ley, las bases de licitación, el contrato, sus anexos, son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones que se establezcan, en el contrato no deberán modificar las condiciones previstas en las bases de licitación.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 41 Ter.
+
+Se crea el Fondo de Ayuda para el Tratamiento de Cáncer Infantil que tiene como objeto costear el tratamiento médico para niñas, niños y adolescentes que no cuenten con prestación social alguna y que su condición económica les impida cubrir sus gastos. Dicho fondo se integrará con las aportaciones que al efecto realicen los proveedores de las dependencias y se sujetará a lo dispuesto en el pedido o contrato que para tal efecto se establezca.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 41 Quáter.
+
+La Secretaría realizará la retención del cinco al millar (0.5%) del monto del importe líquido, sin incluir el Impuesto al Valor Agregado, derivado de las adquisiciones realizadas por las dependencias, en los términos que se señale en el pedido o contrato, con la excepción de los relacionados con pagos de energía eléctrica y agua potable; la Secretaría, entregará un recibo o comprobante fiscal deducible de impuestos por dicha retención.
+
+Los importes derivados de la retención serán entregados mensualmente al Sistema para el Desarrollo Integral de la Familia del Estado, en términos de las disposiciones aplicables, los cuales serán destinados exclusivamente a la implementación y apoyo de programas de tratamiento para niñas, niños y adolescentes con cáncer en el Estado.
+
+La entrega del importe recaudado se realizará conforme a los lineamientos específicos que emita para tal efecto la Secretaría.
+
+Los recursos derivados de las retenciones que reciba el Sistema para el Desarrollo Integral de la Familia en el Estado, estarán sujetos a la fiscalización que realice la Entidad de Auditoría Superior del Estado, en concordancia de lo establecido en la Ley de Fiscalización Superior del Estado de Durango, para lo cual se rendirán los informes correspondientes sobre el ejercicio de los mismos.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 42.
@@ -1220,3 +1238,15 @@ P.O. 24 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 403.- QUE CONTIENE ADICIÓN A UN ARTÍCULO 25 BIS A LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO”.]
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 4 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 567.- QUE CONTIENE ADICIONES A LA LEY DE ADQUISICIONES, ARRENDAMIENTO Y SERVICIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. La Secretaría, dispondrá de un plazo de 40 días naturales contados a partir de la publicación del presente Decreto, para publicar los lineamientos correspondientes; plazo en el cual no se podrá realizar la retención a que se refiere el primer párrafo del Artículo 41 Quáter del presente decreto.
+
+TERCERO. Todas las empresas que así lo decidan, podrán aportar recursos para el Fondo a que se refiere este Decreto, realizando su correspondiente aportación a la Secretaría, quien expedirá el comprobante fiscal respectivo.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
