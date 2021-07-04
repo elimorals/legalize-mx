@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2021-01-03"
+last_updated: "2021-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE ENERO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -452,6 +448,10 @@ La Secretaría elaborará un Plan Sectorial, en el marco de la normativa aplicab
 ###### ARTÍCULO 20.
 
 La Secretaría deberá actualizar constantemente los programas y acciones de apoyo a las MIPYMES de acuerdo a los resultados de los mismos, y deberá replantear, en caso de ser necesario, los objetivos de corto, mediano y largo plazo.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2021)</small>
+
+En caso de crisis económicas o financieras generalizadas en el Estado, de manera excepcional, el Ejecutivo por conducto de la Secretaría podrá fortalecer o crear los programas y acciones de apoyo a las MIPYMES; y deberán priorizar dentro sus objetivos el mantenimiento de la planta laboral en el Estado.
 
 ###### ARTÍCULO 21.
 
@@ -883,11 +883,11 @@ XII. Derechos por alineamiento y número oficial.
 
 Además de los incentivos fiscales establecidos en el presente Capítulo, las autoridades podrán otorgar a las Empresas Socialmente Responsables un 2.5% adicional a los incentivos otorgados conforme a la presente Ley, de acuerdo a la reglamentación correspondiente y previa presentación del certificado que la acredite como tal, emitido por la autoridad competente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 63.
 
-Se otorgará por cuatro años, sin distinción del tamaño de la empresa, y sin la necesidad de realizar ninguna inversión en activos fijos adicional, la exención del Impuesto Sobre Nómina que se genere con motivo de la contratación de personas con discapacidad o adultos mayores, personas de 45 a 59 años de edad, o que demuestren haber sido deportadas de los Estados Unidos de América, debiendo el empresario comprobar fehacientemente la discapacidad, la edad del trabajador contratado, o su calidad de deportado y su alta en el Instituto Mexicano del Seguro Social, junto con los demás requisitos de la solicitud de incentivos que presente a la Secretaría, esta exención será exclusivamente sobre la base del impuesto que genere el trabajador a que se hace referencia en este artículo siempre y cuando durante este plazo se encuentre prestando sus servicios.
+Se otorgará por cuatro años, sin distinción del tamaño de la empresa, y sin la necesidad de realizar ninguna inversión en activos fijos adicional, la exención del Impuesto Sobre Nómina que se genere con motivo de la contratación de personas con discapacidad o adultos mayores, o personas de 45 a 59 años de edad, personas liberadas y pre liberadas de un centro de reclusión, sujetas a reinserción social, o que demuestren haber sido deportadas de los Estados Unidos de América, debiendo el empresario comprobar fehacientemente la discapacidad o la edad del trabajador contratado, o su calidad de liberado o preliberado o deportado, y su alta en el Instituto Mexicano del Seguro Social, junto con los demás requisitos de la solicitud de incentivos que presente a la Secretaría, esta exención será exclusivamente sobre la base del impuesto que genere el trabajador a que se hace referencia en este artículo siempre y cuando durante este plazo se encuentre prestando sus servicios.
 
 Por cada persona con discapacidad que contraten las empresas, siempre y cuando éste se encuentre prestando sus servicios durante el plazo establecido en el párrafo anterior, se otorgará la exención del Impuesto Sobre Nómina que generen trabajadores sin discapacidad con el mismo sueldo, hasta por cuatro años, de conformidad con lo siguiente:
 
@@ -899,33 +899,59 @@ III. Empresas medianas y grandes, 3 trabajadores exentos.
 
 IV. Sociedad cooperativa, 3 trabajadores exentos.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2021)</small>
+
+La exención del Impuesto Sobre Nómina que se genere con motivo de la contratación de personas liberadas y pre liberadas de un centro de reclusión, sujetas a reinserción social, se otorgará por parte del Gobierno del Estado, a partir de programas o acciones de política pública, que deriven de convenios de colaboración entre la Secretaría y la autoridad penitenciaria a nivel local y federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 64.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE OCTUBRE DE 2017)</small>
+Para los efectos de lo dispuesto en los artículos 69 fracción X y 70 fracción VII, de esta Ley, el Gobierno del Estado otorgará a las empresas un subsidio único de dos meses del valor diario de la Unidad de Medida y Actualización, por cada persona con discapacidad, persona liberada y pre liberada de un centro de reclusión, sujeta a reinserción social, y adultos mayores que contraten, independientemente de cualquier otro incentivo que pudiera corresponderles de conformidad con lo señalado en esta Ley.
 
-Para los efectos de lo dispuesto en los artículos 69 fracción X y 70 fracción VII, de esta Ley, el Gobierno del Estado otorgará a las empresas un subsidio único de dos meses del valor diario de la Unidad de Medida y Actualización, por cada persona con discapacidad y adultos mayores que contraten, independientemente de cualquier otro incentivo que pudiera corresponderles de conformidad con lo señalado en esta Ley.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2021)</small>
 
-Para la aplicación de este subsidio, deberán comprobar a la Secretaría, la contratación de las personas con discapacidad y de adultos mayores, mediante los avisos de alta ante el Instituto Mexicano del Seguro Social, acompañado del certificado médico en el que conste la discapacidad, expedido por una institución oficial; y para el caso de los adultos mayores, de una copia certificada del acta de nacimiento del trabajador.
+Para la aplicación de este subsidio, deberán comprobar a la Secretaría, la contratación de las personas con discapacidad, personas liberadas y pre liberadas de un centro de reclusión, sujetas a reinserción social, y de adultos mayores, mediante los avisos de alta ante el Instituto Mexicano del Seguro Social, acompañado del certificado médico en el que conste la discapacidad, expedido por una institución oficial, documento que defina la autoridad penitenciaria, en el caso de personas liberadas y pre liberadas de un centro de reclusión, sujetas a reinserción social, y para el caso de los adultos mayores, de una copia certificada del acta de nacimiento del trabajador.
 
-El beneficio de este subsidio se otorgará por la Secretaría, en coordinación con la Secretaría de Finanzas y de Administración, hasta un total de 250 trabajadores con discapacidad y 250 trabajadores adultos mayores anualmente, de conformidad con lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE JULIO DE 2021)</small>
 
-I. Micro empresa, hasta 2 trabajadores con discapacidad o adultos mayores.
+El beneficio de este subsidio se otorgará por la Secretaría, en coordinación con la Secretaría de Finanzas y de Administración, hasta un total de 250 trabajadores con discapacidad, 250 personas liberadas y pre liberadas de un centro de reclusión, sujetas a reinserción social y 250 trabajadores adultos mayores anualmente, de conformidad con lo siguiente:
 
-II. Pequeña empresa, hasta 4 trabajadores con discapacidad o adultos mayores.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
 
-III. Mediana empresa, hasta 10 trabajadores con discapacidad o adultos mayores.
+I. Micro empresa, hasta 2 trabajadores con discapacidad, personas liberadas y pre liberadas de un centro de reclusión, sujetas a reinserción social, o adultos mayores.
 
-IV. Empresa grande, hasta 15 trabajadores con discapacidad o adultos mayores.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
 
-V. Sociedades cooperativas, hasta 10 trabajadores con discapacidad o adultos mayores.
+II. Pequeña empresa, hasta 4 trabajadores con discapacidad, personas liberadas y pre liberadas de un centro de reclusión, sujetas a reinserción social, o adultos mayores.
 
-La Secretaría, en coordinación con la Secretaría de Finanzas y de Administración, previo análisis del impacto socioeconómico que tenga el proyecto de la empresa, podrá autorizar que se le proporcione el subsidio por más trabajadores con discapacidad o de adultos mayores, a los señalados en las fracciones anteriores, siempre y cuando no se llegue al máximo anual autorizado en este artículo.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
+
+III. Mediana empresa, hasta 10 trabajadores con discapacidad, personas liberadas y pre liberadas de un centro de reclusión, sujetas a reinserción social, o adultos mayores.
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
+
+IV. Empresa grande, hasta 15 trabajadores con discapacidad, personas liberadas y pre liberadas de un centro de reclusión, sujetas a reinserción social, o adultos mayores. Y
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
+
+V. Sociedades cooperativas, hasta 10 trabajadores con discapacidad, personas liberadas y pre liberadas de un centro de reclusión, sujetas a reinserción social, o adultos mayores.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2021)</small>
+
+La Secretaría, en coordinación con la Secretaría de Finanzas y de Administración, previo análisis del impacto socioeconómico que tenga el proyecto de la empresa, podrá autorizar que se le proporcione el subsidio por más trabajadores con discapacidad, personas liberadas y pre liberadas de un centro de reclusión, sujetas a reinserción social, o de adultos mayores, a los señalados en las fracciones anteriores, siempre y cuando no se llegue al máximo anual autorizado en este artículo.
 
 El subsidio único, con cargo al Fondo de Fomento Económico de la Secretaría, se entregará a las empresas en dos pagos, el primero al iniciar el sexto mes de que se haya contratado al trabajador, y el segundo pago al inicio del duodécimo mes, siempre y cuando el trabajador siga prestando sus servicios en la empresa.
 
 El derecho a recibir el subsidio único a que se refiere el presente artículo, sólo podrá ser exigible mientras el trabajador se encuentre prestando sus servicios en la empresa correspondiente.
 
-En caso de que la empresa declare falsamente o no cumpla con los requisitos establecidos en el presente artículo respecto del tiempo en que se encuentren laborando las personas con discapacidad o adultos mayores, estarán obligados a la devolución de las cantidades recibidas con motivo del subsidio y a pagar las cantidades correspondientes a los beneficios descritos en el presente y el artículo anterior, más los accesorios correspondientes de acuerdo con lo establecido por el Código Fiscal del Estado. En su caso, la devolución de la cantidad correspondiente, deberá enterarse en las cajas recaudadoras de la Secretaría de Finanzas y de Administración del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2021)</small>
+
+En caso de que la empresa declare falsamente o no cumpla con los requisitos establecidos en el presente artículo respecto del tiempo en que se encuentren laborando las personas con discapacidad, personas liberadas y pre liberadas de un centro de reclusión, sujetas a reinserción social, o adultos mayores, estarán obligados a la devolución de las cantidades recibidas con motivo del subsidio y a pagar las cantidades correspondientes a los beneficios descritos en el presente y el artículo anterior, más los accesorios correspondientes de acuerdo con lo establecido por el Código Fiscal del Estado. En su caso, la devolución de la cantidad correspondiente, deberá enterarse en las cajas recaudadoras de la Secretaría de Finanzas y de Administración del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2021)</small>
+
+En el caso del subsidio único otorgado a las empresas por cada persona liberada o pre liberada de un centro de reclusión, sujeta a reinserción social, se otorgará por parte del Gobierno del Estado, a partir de programas o acciones de política pública, que deriven de convenios de colaboración entre la Secretaría y la autoridad penitenciaria a nivel local y federal.
 
 ###### ARTÍCULO 65.
 
@@ -1011,9 +1037,9 @@ VIII. Las empresas socialmente responsables, con certificado emitido por la auto
 
 IX. Incrementen sus exportaciones.
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
 
-X. Empleen, de manera preferente, personas con discapacidad, adultos mayores, personas de 45 a 59 años de edad o mujeres jefas de familia.
+X. Empleen, de manera preferente, personas con discapacidad, personas liberadas y pre liberadas de un centro de reclusión sujetas a reinserción social, adultos mayores, personas de 45 a 59 años de edad o mujeres jefas de familia.
 
 XI. Se asocien en agrupamientos, cadenas productivas o cualquier otra alianza estratégica empresarial, al amparo de alguna figura jurídica de las contempladas en la legislación estatal y nacional.
 
@@ -1021,9 +1047,11 @@ XI. Se asocien en agrupamientos, cadenas productivas o cualquier otra alianza es
 
 XII. Contraten a ciudadanos duranguenses que demuestren haber sido deportados de los Estados Unidos de América.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 70.
 
-El Gobernador del Estado, a través de la Secretaría de Finanzas y de Administración, en coordinación con la Secretaría, podrá otorgar incentivos, apoyos o realizar acciones de fomento económico a las empresas legalmente establecidas o por establecerse en la entidad que desarrollen proyectos o actividades que califiquen y cumplan con los requisitos marcados en esta Ley y su reglamento, conforme a las siguientes categorías de desempeño:
+El Gobernador del estado, a través de la Secretaría de Finanzas y de Administración, en coordinación con la Secretaría, podrá otorgar incentivos, apoyos o realizar acciones de fomento económico a las empresas legalmente establecidas o por establecerse en la entidad que desarrollen proyectos o actividades que califiquen y cumplan con los requisitos marcados en esta ley y su reglamento, conforme a las siguientes categorías de desempeño:
 
 I. Proyectos de inversión para nuevas empresas y ampliaciones: Inversiones en proyectos nuevos para la generación de empleos, de ampliación de capacidad o para la modernización tecnológica de sus procesos productivos.
 
@@ -1037,7 +1065,9 @@ V. Proyectos de expansión empresarial o corporativo: iniciar nuevas actividades
 
 VI. Programas para fomentar y apoyar la competitividad empresarial: Financiamiento; integración de agrupamientos de empresas e instituciones; desarrollo de cadenas productivas y de asociación empresarial, privilegiando a la micro, pequeña y mediana empresa; investigación y desarrollo de tecnología pertinente; desarrollo, capacitación y adiestramiento de empleados, ejecutivos y trabajadores en él y para el trabajo; desarrollo, implantación y certificación de sistemas de gestión y mejora continua de la calidad.
 
-VII. Programas productivos de criterio social: Para aumentar sustancialmente la contratación directa como empleados, investigadores y trabajadores de personas con discapacidad o que sean adultos mayores; para contratar mujeres jefas de familia en procesos y actividades productivas o comunidades y regiones geográficas en donde ello no ocurra de manera habitual.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
+
+VII. Programas productivos de criterio social: para aumentar sustancialmente la contratación directa como empleados, investigadores y trabajadores de personas con discapacidad o que sean adultos mayores o personas liberadas y pre liberadas de un centro de reclusión sujetas a reinserción social; para contratar mujeres jefas de familia en procesos y actividades productivas o comunidades y regiones geográficas en donde ello no ocurra de manera habitual.
 
 ###### ARTÍCULO 71.
 
@@ -1117,6 +1147,18 @@ La Comisión sesionará cuando sea necesario analizar y resolver las solicitudes
 
 Los incentivos que se otorguen deberán quedar formalizados en el convenio de colaboración que al efecto celebre la Secretaría con la empresa, estableciendo en el mismo las obligaciones que deberá cumplir el inversionista en contraprestación por la obtención de tales incentivos.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE JULIO DE 2021)</small>
+
+### CAPÍTULO II BIS. DEL RESPETO A LOS DERECHOS HUMANOS EN LAS ACTIVIDADES EMPRESARIALES
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2021)</small>
+
+Artículo 78 bis. En Durango, toda empresa pública o privada instalada en el Estado, deberá respetar los derechos humanos relacionados con su actividad económica.
+
+La Secretaría, realizará convenios con la Comisión Estatal de Derechos Humanos y organismos del sector privado, para capacitar y orientar a las empresas públicas y privadas; a fin de que se atienda de manera efectiva el respeto a los derechos humanos de las personas que forman parte de la empresa, y con las que estas mantienen relaciones jurídicas, geográficas o de otra índole, como producto de su ejercicio económico.
+
+La Secretaría, solicitará a la Comisión Estatal de Derechos Humanos, capacitación y orientación, con la finalidad de promover en las empresas la cultura de responsabilidad en el respeto a los derechos humanos, para prevenir situaciones de riesgo que propicien la violación de los mismos.
+
 ### CAPÍTULO III
 
 DE LA EXTINCIÓN, CANCELACIÓN Y RECUPERACIÓN DE LOS APOYOS,
@@ -1124,8 +1166,6 @@ DE LA EXTINCIÓN, CANCELACIÓN Y RECUPERACIÓN DE LOS APOYOS,
 INCENTIVOS Y ESTÍMULOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2018)</small>
-
-### CAPÍTULO IV. DEL FONDO DE FOMENTO ECONÓMICO
 
 ###### ARTÍCULO 79.
 
@@ -1163,7 +1203,7 @@ Los incentivos, apoyos o estímulos otorgados por esta Ley serán intransferible
 
 La Secretaría, analizando las solicitudes de incentivos en particular, podrá establecer como condición de acceso a los mismos, la obligación de los inversionistas solicitantes para garantizar, al menos, el cumplimiento de sus obligaciones fiscales y laborales, para el supuesto de que decidan abandonar repentinamente el Estado o el País.
 
-### CAPÍTULO V. DEL CERTIFICADO DE EMPRESA DURANGUENSE
+### CAPÍTULO IV. DEL FONDO DE FOMENTO ECONÓMICO
 
 ###### ARTÍCULO 81.
 
@@ -1217,7 +1257,7 @@ II. Análisis favorable de factibilidad técnica, económica y ambiental.
 
 III. El proyecto ejecutivo de obra.
 
-### CAPÍTULO I. DE LA MEJORA REGULATORIA
+### CAPÍTULO V. DEL CERTIFICADO DE EMPRESA DURANGUENSE
 
 ###### ARTÍCULO 86.
 
@@ -1273,21 +1313,23 @@ VI. Promoción de la equidad de género.
 
 VII. Promoción de la Identidad Duranguense.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2021)</small>
+
+VIII. Incorporación de la Cultura de respeto a los derechos humanos en la actividad empresarial.
+
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 La persona o empresa que resulte premiada, además de la entrega de su reconocimiento, serán promovidas en los programas de difusión del Gobierno del Estado, candidatas preferentes a participar de los fondos y programa de incentivos y otros beneficios que se establezcan en las bases que al efecto se emitan en la convocatoria, y los demás que determine el Consejo para el Desarrollo a propuesta de sus integrantes.
 
 ## TÍTULO QUINTO. DE LA MEJORA REGULATORIA
 
-### CAPÍTULO II. DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS
+### CAPÍTULO I. DE LA MEJORA REGULATORIA
 
 ###### ARTÍCULO 90.
 
 (DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
-### CAPÍTULO PRIMERO. DE LOS AGRUPAMIENTOS EMPRESARIALES
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2018)</small>
+### CAPÍTULO II. DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS
 
 ###### ARTÍCULO 91.
 
@@ -1363,9 +1405,9 @@ Las dependencias estatales y municipales, deberán dar respuesta a las solicitud
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 12 DE ABRIL DE 2018)</small>
 
-### CAPÍTULO SEGUNDO. DE LOS CONSEJOS CIUDADANOS ASESORES PARA EL DESARROLLO DE LOS AGRUPAMIENTOS EMPRESARIALES
+### CAPÍTULO PRIMERO. DE LOS AGRUPAMIENTOS EMPRESARIALES
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 96.
 
@@ -1417,9 +1459,9 @@ Todos los integrantes de los Consejos Ciudadanos Asesores de los Agrupamientos E
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE LOS CONSEJOS CIUDADANOS ASESORES PARA EL DESARROLLO DE LOS AGRUPAMIENTOS EMPRESARIALES
 
-> <small>(ADICIONADO [N. DE E. REFORMADO ANTES ARTÍCULO 96], P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 101.
 
@@ -1568,6 +1610,10 @@ Los Consejos Ciudadanos Asesores, los que hayan adoptado la forma de Asociacione
 ## TÍTULO SÉPTIMO. DE LAS INFRACCIONES, SANCIONES Y LOS MEDIOS DE DEFENSA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. REUBICADO], P.O. 12 DE ABRIL DE 2018)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO [N. DE E. REFORMADO ANTES ARTÍCULO 96], P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 112.
 
@@ -1808,3 +1854,31 @@ P.O. 31 DE DICIEMBRE DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 575.- QUE CONTIENE REFORMA A LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 576.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 577.- QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 63, EL PRIMERO, SEGUNDO, TERCERO, CUARTO, SÉPTIMO PÁRRAFO, LAS FRACCIONES I A LA V DEL ARTÍCULO 64 Y LA FRACCIÓN X DEL ARTÍCULO 69 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se realizarán las modificaciones correspondientes en la Ley de Hacienda del Estado de Durango, para efecto de incluir en la misma, la ampliación de los beneficiarios potenciales de los incentivos fiscales y no fiscales que incorpora la presente Ley a partir de la reforma a los artículos 63, 64, 69 y 70, a favor de las personas liberadas y pre liberadas de un centro de reclusión sujetas a reinserción social al término de un año.
+
+TERCERO. Los incentivos fiscales y no fiscales que incorporan en la presente Ley, a partir de la reforma a los artículos 63, 64, 69 y 70, se otorgarán de acuerdo a la disponibilidad presupuestal del Gobierno del Estado de Durango.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
