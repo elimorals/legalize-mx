@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2021-05-25"
+last_updated: "2021-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -3519,11 +3519,9 @@ ART. 732.- La constitución del patrimonio de que trata el artículo 729, se suj
 
 ART. 733.- La constitución del patrimonio de la familia no puede hacerse en fraude de los derechos de los acreedores.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2021)</small>
 
-ART. 734.- Constituído que sea el patrimonio de la familia, ésta debe de habitar la casa y de aprovechar los bienes restantes que lo conforman.
-
-Del cumplimiento de habitar la casa, según lo dispuesto en el párrafo anterior, puede sustraerse la familia sin necesidad de declaratoria judicial, si la persona que constituyó el patrimonio y los beneficiarios del mismo, por evidente necesidad o conveniencia, acuerden darla en arrendamiento. Si al ocurrir lo anterior no hubiere mediado el acuerdo de referencia, el contrato o convenio pactado será nulo. Respecto a los hijos menores o personas incapaces, la responsabilidad de la determinación que se tome, recae en los restantes miembros de la familia, salvo que exista persona que por declaración judicial los represente, la que en ese caso habrá de hacerlo.
+ART. 734.- Constituido que sea el patrimonio de la familia, ésta debe de habitar la casa, aprovechar los bienes restantes que lo conforman y cultivar la parcela si fuere el caso.
 
 ART. 735.- El patrimonio de la familia se extingue:
 
@@ -8303,7 +8301,9 @@ ART. 2333.- La renta debe pagarse en los plazos convenidos, y a falta de conveni
 
 Del arrendamiento de las fincas rústicas.
 
-ART. 2334.- El propietario de un predio rústico debe cultivarlo sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo con lo dispuesto en la ley de tierras ociosas.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2021)</small>
+
+ART. 2334.- El propietario de un predio rústico debe cultivarlo sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo con lo dispuesto en la legislación vigente.
 
 ART. 2335.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por semestres vencidos.
 
@@ -10958,3 +10958,11 @@ P.O. 25 DE MAYO DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 565.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO CIVIL VIGENTE EN EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
