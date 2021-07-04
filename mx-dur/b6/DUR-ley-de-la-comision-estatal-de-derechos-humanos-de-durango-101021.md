@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-comision-estatal-de-derechos-humanos-de-durango-10102
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-06"
-last_updated: "2021-05-25"
+last_updated: "2021-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 6 de mayo de 2014.
 
@@ -339,7 +339,9 @@ III. Nombrar, remover, dirigir y coordinar al personal bajo su mando; así como 
 
 IV. Dictar las medidas que juzgue convenientes para el mejor desempeño de las funciones de la Comisión;
 
-V. Enviar al Titular del Poder Ejecutivo Estatal un informe anual sobre las actividades realizadas por la Comisión. Asimismo deberá comparecer ante el Congreso del Estado a rendir un informe anual de su gestión, dentro del término y conforme a lo señalado en el Capítulo II, Sección Primera, del Título Séptimo de la Constitución Local;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
+
+V. Enviar al Titular del Poder Ejecutivo Estatal un informe anual sobre las actividades realizadas por la Comisión. Asimismo, deberá comparecer ante el Congreso del Estado a rendir un informe anual de su gestión, conforme a lo establecido en la Ley Orgánica del Congreso del Estado de Durango.
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
@@ -1076,6 +1078,18 @@ SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispues
 P.O. 25 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 545.- POR EL CUAL SE ADICIONA LA FRACCIÓN XXI Y SE RECORRE LA SIGUIENTE EN SU ORDEN AL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto.
+
+P.O. 4 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 592.- QUE CONTIENE REFORMA A LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
 
 ###### ARTÍCULO PRIMERO.
 
