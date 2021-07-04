@@ -4,7 +4,7 @@ identifier: "DUR-ley-ganadera-para-el-estado-de-durango-51620"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-13"
-last_updated: "2019-03-17"
+last_updated: "2021-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GANADERA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de agosto de 2006.
 
@@ -464,6 +464,10 @@ XXXVI. Autorizar o cancelar la operación de los corrales de acopio para comerci
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 XXXVII. Las demás que establezca la presente ley, su reglamento y normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2021)</small>
+
+ARTÍCULO 11 BIS. Para dar cumplimiento a lo que establece la fracción XXI del artículo anterior, la Secretaría integrará una partida presupuestal anualmente en la Ley de Egresos del Gobierno del Estado de Durango, con el fin de que el programa de mejoramiento genético animal sea permanente; dicha partida presupuestal se incrementará, en su caso, con la aportación que para tal efecto realice el gobierno federal.
 
 ###### ARTÍCULO 12.
 
@@ -2698,3 +2702,13 @@ P.O. 17 DE MARZO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 591.- POR EL QUE SE ADICIONA AL (SIC) ARTÍCULO 11 BIS DE LA LEY GANADERA PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- La partida presupuestal a que hace referencia el artículo 11 bis, del presente decreto, comenzará a partir del ejercicio fiscal 2022, en la Ley de Egresos del Gobierno del Estado de Durango.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
