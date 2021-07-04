@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-a-los-no-fumadores-para-el-estado-de-51130"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-29"
-last_updated: "2021-05-20"
+last_updated: "2021-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN A LOS NO FUMADORES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 2006.
 
@@ -95,7 +95,9 @@ VII. Entes Públicos.- El Poder Legislativo del Estado, y cualquiera de sus depe
 
 VIII. Espacio cerrado de acceso al público.- Todo aquél en el que hacia su interior no circula de manera libre el aire natural. Las ventanas, puertas, ventilas y demás orificios o perforaciones en delimitaciones físicas, no se considerarán espacios para la circulación libre de aire natural;
 
-IX. Espacio 100% libre de humo de tabaco.- El establecimiento, todo lugar de trabajo interior o transporte público, escolar, de personal y los vehículos oficiales de los entes públicos, en los que queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
+
+IX. Espacio 100% libre de humo de tabaco.- El establecimiento, todo lugar de trabajo interior o transporte público, escolar, de personal, los vehículos oficiales de los entes públicos, así como las áreas naturales protegidas, en los que queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco;
 
 X. Humo de Tabaco.- Las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco y que afectan al no fumador;
 
@@ -236,6 +238,10 @@ Los propietarios, poseedores, administradores o responsables de los espacios 100
 ###### Artículo 13.
 
 En los espacios 100% libres de humo de tabaco y en las zonas exclusivas para fumar, deberán colocarse letreros en los lugares visibles, que indiquen claramente su naturaleza, incluyendo un número telefónico para la denuncia ciudadana a que se refiere esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2021)</small>
+
+Artículo 13 BIS. En las áreas naturales protegidas queda prohibido el comercio, distribución, donación, venta y suministro de productos de tabaco.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
@@ -498,5 +504,17 @@ P.O. 20 DE MAYO DE 2021.
 La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 581.- QUE CONTIENE ADICION A LA LEY DE PROTECCIÓN A LOS NO FUMADORES PARA EL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
