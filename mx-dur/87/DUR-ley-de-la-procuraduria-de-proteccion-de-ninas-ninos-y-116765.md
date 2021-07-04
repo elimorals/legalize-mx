@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-procuraduria-de-proteccion-de-ninas-ninos-y-116765"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-01"
-last_updated: "2021-05-20"
+last_updated: "2021-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de septiembre de 2016.
 
@@ -571,9 +571,11 @@ V. Mi Casa; y
 
 VI. Familias de Acogida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2021)</small>
+
 ###### Artículo 16.
 
-La Subprocuraduría de Atención a Grupos Vulnerables tendrá además de las atribuciones contenidas en las fracciones I, II, III, V, XXXIV, XXXVII, LXIV LXV y LXVI del artículo 11 de esta Ley, las siguientes:
+La Subprocuraduría de Atención a Grupos Vulnerables tendrá además de las atribuciones contenidas en las fracciones I, II, III, V, V, (SIC) XXXIV Y XXXVII, LXIV LXV, y LXVI del artículo 11 de esta Ley, las siguientes:
 
 I. Promover la celebración de instrumentos de colaboración y coordinación interinstitucional, con las instituciones públicas, privadas y sociales, dedicadas a la atención de niñas, niños y adolescentes para garantizar sus derechos;
 
@@ -605,7 +607,11 @@ XIV. Habilitar espacios, de alojamiento temporal para recibir a niñas, niños y
 
 XV. Proporcionar servicios de asistencia social que fortalezcan el desarrollo integral de niñas, niños y adolescentes, mediante procedimientos, programas e instrumentación de sistemas que coadyuven en la elaboración de su proyecto de vida y su integración a la sociedad; y
 
-XVI. Las demás que les confiera el superior jerárquico y las demás disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XVI. Coordinarse con los distintos órdenes de gobierno y dependencias, para coadyuvar en la prevención, vigilancia, denuncia y seguimiento, para erradicar el trabajo infantil en todo el territorio estatal.
+
+XVII. Las demás que les confiera el superior jerárquico y las demás disposiciones legales aplicables.
 
 ### CAPÍTULO VI. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
 
@@ -806,3 +812,11 @@ En un periodo de 90 días posteriores a la entrada en vigor del presente decreto
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2021.
+
+> <small>[N. DE E. DECRETO NO. 584.- QUE CONTIENE ADICIONA (SIC) A LA LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]</small>
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
