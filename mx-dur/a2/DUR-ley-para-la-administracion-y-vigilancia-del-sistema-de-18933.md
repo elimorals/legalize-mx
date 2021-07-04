@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-y-vigilancia-del-sistema-de-18933"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-28"
-last_updated: "2018-12-25"
+last_updated: "2021-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ADMINISTRACIÓN Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACIÓN ADMINISTRATIVA EN MATERIA FISCAL ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2000.
 
@@ -99,6 +99,10 @@ VIII.- El 20% de las participaciones recibidas por el Estado, por concepto de Fo
 
 IX.- El impuesto sobre la Renta efectivamente enterado a la Federación, correspondiente al personal que preste o desempeñe un servicio personal subordinado en las dependencias del municipio, así como sus organismos paramunicipales.
 
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+X.- El 20% de la recaudación del impuesto sobre la renta por la enajenación de bienes inmuebles a que hace referencia el artículo 126 de la Ley del Impuesto sobre la Renta, incluidos sus accesorios, que corresponda al Estado, en los términos de la cláusula décima novena, fracción VI, apartado A del Convenio de Colaboración Administrativa en Materia Fiscal Federal.
+
 ###### Artículo 3.
 
 Con el propósito de fortalecer las Haciendas Públicas Municipales, incentivar y optimizar la recaudación del Impuesto Predial por parte de los Municipios, se constituye el Fondo Estatal de Participaciones directamente con recursos propios del Gobierno del Estado.
@@ -107,11 +111,11 @@ Con el propósito de fortalecer las Haciendas Públicas Municipales, incentivar 
 
 El monto del Fondo Estatal de Participaciones se acordará anualmente por el Ejecutivo del Estado y su importe no podrá ser inferior al del año inmediato anterior, actualizado con el índice nacional de precios al consumidor de dicho ejercicio, que publique la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2021)</small>
 
 ###### Artículo 5.
 
-Las cantidades que correspondan a las fracciones I, III, IV, VI, y VIII del artículo 2 de esta Ley, integran el fondo acumulado de participaciones y se distribuirá entre los municipios del Estado conforme al procedimiento siguiente:
+Las cantidades que correspondan a las fracciones I, III, IV, VI, VIII y X del artículo 2 de esta Ley, integran el fondo acumulado de participaciones y se distribuirá entre los municipios del Estado, conforme al procedimiento siguiente:
 
 I.- El 40% en relación directa con el número de habitantes de cada municipio, de acuerdo con los últimos datos oficiales publicados por el INEGI, en la fecha de expedición de decreto respectivo por parte del H. Congreso del Estado;
 
@@ -284,3 +288,11 @@ P.O. 25 DE DICIEMBRE DE 2018.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto
+
+P.O. 4 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 574.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 2 Y 5 DE LA LEY PARA LA ADMINISTRACIÓN Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACIÓN ADMINISTRATIVA EN MATERIA FISCAL ESTATAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, quedarán derogadas todas las disposiciones legales y reglamentarias en el orden local, en lo que se opongan o contravengan lo autorizado en sus preceptos.
