@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fiscalizacion-superior-del-estado-de-durango-22984"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-30"
-last_updated: "2020-06-25"
+last_updated: "2021-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 30 de diciembre de 2001.
 
@@ -421,9 +421,9 @@ Los Auditores Generales, podrán ser removidos también por las causas graves a 
 
 La Comisión, a través de la Unidad Técnica de Apoyo, coordinará y evaluará el funcionamiento de la Entidad y tendrá competencia para:
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
 
-I. Vigilar la recepción en el Congreso de las Cuentas Públicas y turnarlas por su conducto a la Entidad;
+I. Vigilar la recepción en el Congreso de las Cuentas Públicas y turnarlas por conducto de la Secretaría General del Congreso a la Entidad;
 
 II. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual de la Entidad, así como fiscalizar, por sí o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de éste;
 
@@ -455,23 +455,97 @@ Su titular será designado por la Comisión, por un periodo de 7 años y contar�
 
 I. Vigilar que los servidores públicos de mando superior de la Entidad se conduzcan en términos de esta ley y demás disposiciones aplicables;
 
-II. Planear y programar auditorías a las diversas dependencias y las Auditorías Generales que integran la Entidad;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
+
+II. A solicitud de la Comisión, practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y el cumplimiento de metas e indicadores de la Entidad, así como la debida aplicación de los recursos a cargo de ésta con base en el programa anual de trabajo que apruebe la Comisión;
 
 III. Requerir a las dependencias de la Entidad la información necesaria para cumplir con sus atribuciones;
 
 IV. Expedir certificaciones de los documentos que obren en los archivos de la Unidad Técnica de Apoyo, así como representar a la misma;
 
-V. Apoyar a la comisión en el desahogo de los procedimientos a que se refiere el artículo 17 de esta Ley;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
+
+V. Apoyar a la comisión en el desahogo de los procedimientos a que se refieren los artículos 17 y 19 de la presente ley;
 
 VI. Presentar ante la Comisión, para su aprobación, el programa anual de trabajo de la Unidad Técnica de Apoyo;
 
-VII. Presentar un informe de (sic) anual de labores ante la Comisión;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
+
+VII. Presentar un informe anual de labores ante la Comisión;
 
 VIII. Participar como testigo en los actos de entrega recepción de los servidores públicos de mando superior de la Entidad;
 
-IX. En general, coadyuvar y asistir a la Comisión en el cumplimiento de sus atribuciones, mediando siempre a solicitud expresa de la misma Comisión; y
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
 
-X. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+IX. Auxiliar a la Comisión en la elaboración del análisis sobre el Informe General, y demás documentos que le envíe la Entidad;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+X. Proponer a la Comisión los indicadores y sistemas de evaluación del desempeño de la propia Unidad y lo que utilice para evaluar a la Entidad, así como los sistemas de seguimiento a las observaciones y acciones que promuevan tanto la Unidad como la Comisión;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XI. Participar en las sesiones de la Comisión, para brindar apoyo técnico y especializado;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XII. Mantener comunicación con la Entidad, para facilitar la práctica de auditorías, evaluaciones técnicas, visitas e inspecciones;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XIII. En el supuesto de que la Entidad no cumpla con el proceso de fiscalización o se detecten vicios u omisiones, establecidos en esta Ley, realizará una investigación y procederá a informar a la Comisión;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XIV. Intervenir en todas las licitaciones públicas y concursos que se efectúen para adjudicar los contratos que celebre la Entidad, para efectos de su valoración;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XV. Asistir y participar en los comités y mesas de trabajo, dentro y fuera del Congreso, dentro del ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XVI. Asistir y participar en la revisión y análisis de los informes de resultados que presente la Entidad ante el Congreso, respecto de las cuentas públicas que rinden los entes fiscalizables;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XVII. Asistir y participar en la revisión y análisis de las iniciativas que contienen las leyes de ingresos de los treinta y nueve ayuntamientos, la del Estado y el presupuesto de Egresos del Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XVIII. Asistir a las reuniones de dictaminación del presupuesto de Egresos del Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XIX. Asistir a las audiencias que lleve a cabo la Entidad con los servidores públicos, respecto de los procedimientos cuando se determine la existencia o inexistencia de responsabilidades y el fincamiento de indemnizaciones y sanciones;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XX. Representar legalmente a la Unidad ante toda clase de autoridades, entidades, personas físicas o morales y delegar la representación a los servidores públicos de la Unidad que considere;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XXI. Actuar, previa aprobación de la Comisión, como delegado de ésta en toda clase de juicios de amparo en los que sea parte y auxiliarla en la formulación de informes previos y justificados y contestación de demandas, la oposición de toda clase de recursos y, en general, en la debida atención de los juicios y las sentencias ejecutoriadas;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XXII. Opinar, a petición de la Comisión, respecto al proyecto anual de presupuesto anual y del ejercicio de la cuenta comprobada de la Entidad;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XXIII. Elaborar el anteproyecto de presupuesto de la Unidad, que será aprobado por la Comisión para ser enviado a la Comisión de Administración y Contraloría Interna del Congreso y a la Junta de Gobierno y Coordinación Política para su valoración e integración al proyecto de presupuesto del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XXIV. Ejecutar las sanciones con (sic) respecto a los servidores públicos de la Unidad, cuando incurran en actos u omisiones que afecten el desempeño de sus funciones, a fin de salvaguardar los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia que rigen el servicio público, en términos de la legislación legal aplicable;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+
+XXV. Celebrar, previa autorización de la Comisión, convenios de colaboración con instituciones de educación superior, asociaciones civiles y demás instituciones locales, naciones (sic) e internacionales, para la capacitación y actualización del personal de la Unidad, así como para la evaluación, control, fiscalización y rendición de cuentas;
+
+XXVI. En general, coadyuvar y asistir a la Comisión en el cumplimiento de sus atribuciones, mediando siempre a solicitud expresa de la misma Comisión; y
+
+XXVII. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
 
 El Titular de la Unidad Técnica de Apoyo deberá contar con conocimientos en materia de fiscalización y responsabilidades.
 
@@ -1006,3 +1080,11 @@ SEGUNDO. La Comisión de Vigilancia de la Entidad de Auditoría Superior del Con
 TERCERO. El Titular de la Unidad Técnica de apoyo, deberá presentar ante la Comisión el programa anual de trabajo, en un plazo que no exceda de 45 (cuarenta y cinco) días a partir de su designación.
 
 CUARTO. En un plazo que no exceda de 60 (sesenta) días posteriores a la entrada en vigor del presente decreto, se deberán expedir las adecuaciones reglamentarias para dar cumplimiento al presente decreto.
+
+P.O. 4 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 568.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. En un plazo que no exceda de 30 días posteriores a la entrada en vigor del presente decreto, se deberán expedir las disposiciones y adecuaciones reglamentarias para dar cumplimiento al presente decreto.
