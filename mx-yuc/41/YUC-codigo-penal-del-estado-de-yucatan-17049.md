@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2021-06-23"
+last_updated: "2021-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE JULIO DE 2021.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -4791,6 +4791,10 @@ Lo dispuesto en el artículo anterior se aplicará sin perjuicio de las medidas 
 
 Para efectos de este Capítulo, se entenderá por animal doméstico a todo aquel que ha sido criado y condicionado para acompañar al ser humano en su convivencia diaria.
 
+> <small>(ADICIONADO, D.O. 5 DE JULIO DE 2021)</small>
+
+Los delitos expuestos en éste Capítulo serán perseguidos de oficio.
+
 > <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 407.
@@ -4809,41 +4813,67 @@ V.- Realice cualquier acto u omisión que ponga en peligro la vida del animal do
 
 VI.- Realice actos de zoofilia con animales domésticos.
 
-Siempre que existan actos de maltrato o crueldad hacia animales domésticos, la autoridad ministerial o judicial podrá decretar el aseguramiento temporal del animal doméstico maltratado, así como de todos aquellos que pudiera tener bajo su cuidado o resguardo el sujeto activo del delito, en términos de lo dispuesto por el artículo 61 Bis de éste Código.
+> <small>(REFORMADO, D.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
+Siempre que existan actos de maltrato o crueldad hacia animales domésticos, la autoridad ministerial o judicial podrá decretar el aseguramiento temporal del animal doméstico maltratado, así como de todos aquellos que pudiera tener bajo su cuidado o resguardo el sujeto activo del delito.
+
+> <small>(REFORMADO, D.O. 5 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 408.
 
-A quien cometa actos de maltrato o crueldad en contra de animales domésticos, que no pongan en peligro la vida éste, se le impondrá una pena de 3 meses a 1 año de prisión y de cincuenta a cien días-multa.
+A quien cometa actos de maltrato o crueldad en contra de animales domésticos, que no pongan en peligro la vida de éste, se le impondrá una pena de seis meses a dos años de prisión y multa de cien a doscientas unidades de medida y actualización.
 
-Si los actos de maltrato o crueldad ponen en peligro la vida del animal doméstico; le provocan una incapacidad parcial o total permanente; disminuyen alguna de sus facultades, o el normal funcionamiento de un órgano o miembro, la pena señalada se incrementará hasta en una mitad.
+Si los actos de maltrato o crueldad ponen en peligro la vida del animal doméstico; le provocan una incapacidad parcial o total permanente; disminuyen alguna de sus facultades, o el normal funcionamiento de un órgano o miembro, la pena señalada en el párrafo anterior, se incrementará hasta en una mitad.
 
-> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
+A quien abandone a cualquier animal de tal manera que quede expuesto a riesgos que amenacen su integridad, la de otros animales o de las personas, se le impondrá una pena de seis meses a dos años de prisión y multa de cincuenta a ciento cincuenta Unidades de Medida y Actualización.
+
+A quien realice actos de zoofilia a un animal o le introduzca por vía vaginal o rectal el miembro viril, o cualquier objeto o instrumento, se le impondrán una pena de seis meses a dos años de prisión y multa de cien a quinientas Unidades de Medida y Actualización.
+
+Cuando el maltrato animal sea videograbado y difundido en redes sociales, será considerado una agravante y sancionado con doble penalidad.
+
+Los actos de maltrato, crueldad o abandono animal, al igual que la zoofilia, serán considerados una agravante y podrán ser denunciados por cualquier persona que tenga conocimiento de estos hechos o sea testigo de los mismos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 409.
 
-A quien cometa actos de maltrato o crueldad en contra de un animal doméstico, que le provoquen la muerte, se le impondrá la pena de 6 meses a 2 años de prisión y de doscientos a cuatrocientos días-multa.
+A quien cometa actos de maltrato o crueldad en contra de un animal doméstico, que le provoquen la muerte, se le impondrá la pena de uno a cuatro años de prisión y una multa de cuatrocientas a ochocientas Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
 
 En caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal doméstico previo a su muerte, las penas se aumentarán en una mitad. Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía de éste.
 
-> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 410.
 
-Se impondrá de uno a cinco años de prisión y multa de doscientas a cuatrocientas unidades de medida y actualización a quien:
+Se impondrá de dos a diez años de prisión y multa de cuatrocientas a ochocientas Unidades de Medida y Actualización a quien:
+
+> <small>(ADICIONADA, D.O. 27 DE AGOSTO DE 2018)</small>
 
 I. Organice, induzca, provoque, promueva o realice una o varias peleas de perros, públicas o privadas, con o sin apuestas, o las permita en su propiedad.
 
+> <small>(ADICIONADA, D.O. 27 DE AGOSTO DE 2018)</small>
+
 II. Anuncie, patrocine o venda entradas para asistir a espectáculos que impliquen peleas de perros;
+
+> <small>(ADICIONADA, D.O. 27 DE AGOSTO DE 2018)</small>
 
 III. Posea o administre una propiedad en la que se realicen peleas de perros con conocimiento de dicha actividad;
 
+> <small>(ADICIONADA, D.O. 27 DE AGOSTO DE 2018)</small>
+
 IV. Ocasione o permita que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
+
+> <small>(ADICIONADA, D.O. 27 DE AGOSTO DE 2018)</small>
 
 V. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
 
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
 La sanción a que se hace mención en el párrafo anterior, se incrementará en una mitad cuando se trate de servidores públicos.
+
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 Asimismo, incurre en responsabilidad penal, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
 
@@ -5440,3 +5470,19 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al d
 Artículo Segundo.- Las dependencias y entidades públicas de la administración pública estatal y municipal, el Poder Legislativo y Judicial, así como organismos autónomos obligados por el presente decreto a crear los protocolos, contarán con un plazo de 180 días hábiles a partir de la publicación del presente, para la elaboración y publicación de los mismos.
 
 Artículo Tercero.- Se derogan las disposiciones de igual o menor jerarquía en lo que se oponga a lo establecido en este decreto.
+
+D.O. 5 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 383/2021 POR EL QUE SE MODIFICAN LA LEY PARA LA PROTECCIÓN DE LA FAUNA DEL ESTADO DE YUCATÁN Y EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE MALTRATO DE ANIMALES DOMÉSTICOS”.]
+
+Vigencia
+
+Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Adecuación reglamentaria
+
+Artículo segundo.- Se establece un plazo de 180 días para la actualización del Reglamento de la presente Ley.
+
+Cláusula derogatoria
+
+Artículo tercero.- Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
