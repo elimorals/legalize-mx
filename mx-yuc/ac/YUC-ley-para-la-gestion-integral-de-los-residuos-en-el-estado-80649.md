@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-gestion-integral-de-los-residuos-en-el-estado-80649
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-08"
-last_updated: "2021-01-04"
+last_updated: "2021-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE JULIO DE 2021.
 
 Ley publicada en el suplemento del Diario Oficial del Estado de Yucatán, el viernes 8 de abril de 2011.
 
@@ -171,19 +171,23 @@ XLII.- Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Yucat
 
 XLIII.- Sitio controlado: El sitio inadecuado de disposición final que cumple con las especificaciones de un relleno sanitario en lo que se refiere a obras de infraestructura y operación, pero no cumple con las especificaciones de impermeabilización;
 
-XLIV.- Sistema de manejo ambiental: El conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de los entes públicos, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y su manejo integral;
+> <small>(ADICIONADA, D.O. 5 DE JULIO DE 2021)</small>
+
+XLIV.- Punto Limpio: es un sitio de almacenamiento temporal de residuos de manejo especial y voluminoso.
+
+XLV.- Sistema de manejo ambiental: El conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de los entes públicos, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y su manejo integral;
 
 > <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-XLV.- Tratamiento: Los procedimientos físicos, químicos, biológicos o térmicos mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad;
+XLVI.- Tratamiento: Los procedimientos físicos, químicos, biológicos o térmicos mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad;
 
 > <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-XLVI.- Valorización: El principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, Manejo integral y eficiencia ambiental, tecnológica y económica, y
+XLVII.- Valorización: El principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, Manejo integral y eficiencia ambiental, tecnológica y económica, y
 
 > <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
 
-XLVII.- Licencia Ambiental Única: El instrumento por el que se evalúa y autoriza el funcionamiento de fuentes fijas de emisiones contaminantes, planes de manejo de residuos de manejo especial o proyectos ejecutivos para el manejo de residuos de manejo especial que sean de competencia estatal, mediante la tramitación de un solo procedimiento que ampare las autorizaciones emitidas en la normatividad ambiental vigente.
+XLVIII.- Licencia Ambiental Única: El instrumento por el que se evalúa y autoriza el funcionamiento de fuentes fijas de emisiones contaminantes, planes de manejo de residuos de manejo especial o proyectos ejecutivos para el manejo de residuos de manejo especial que sean de competencia estatal, mediante la tramitación de un solo procedimiento que ampare las autorizaciones emitidas en la normatividad ambiental vigente.
 
 ###### Artículo 5.
 
@@ -229,7 +233,9 @@ a) Los generados en las casas habitación, unidades habitacionales o similares q
 
 b) Los resultantes de la limpieza de las vías públicas y áreas comunes, siempre que no estén considerados por esta Ley como residuos de manejo especial.
 
-Los residuos sólidos deberán ser agrupados en orgánicos e inorgánicos y subclasificados, según el Reglamento que para tal efecto expidan los Ayuntamientos.
+> <small>(REFORMADO, D.O. 5 DE JULIO DE 2021)</small>
+
+Los residuos sólidos deberán ser agrupados en orgánicos e inorgánicos y subclasificados, ubicando aquellos que requieran un manejo especial y voluminoso en un punto limpio, según el Reglamento que para tal efecto expidan los Ayuntamientos.
 
 ## TÍTULO SEGUNDO. COMPETENCIA Y COORDINACIÓN
 
@@ -295,7 +301,9 @@ XXI.- Coadyuvar con la Federación en la promoción de la prevención de la cont
 
 XXII.- Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales;
 
-XXIII.- Aplicar las medidas de seguridad y las sanciones correspondientes por violaciones o incumplimiento de esta Ley;
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
+
+XXIII.- Aplicar las medidas de seguridad y las sanciones a los concesionarios y sujetos obligados correspondientes por violaciones o incumplimiento de esta Ley, en el ámbito de su competencia;
 
 XXIV.- Atender los asuntos que, en materia de residuos, se generen entre dos o más municipios;
 
@@ -353,7 +361,9 @@ XII.- Controlar y prohibir los tiraderos a cielo abierto, en lotes baldíos o si
 
 XIII.- Difundir entre la población prácticas de reducción, separación, reutilización y reciclaje de residuos;
 
-XIV.- Imponer las sanciones y medidas de seguridad aplicables por violaciones e infracciones a esta Ley;
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
+
+XIV.- Imponer sanciones e incentivos, así como medidas de seguridad aplicables por cumplimiento o infracciones a esta Ley;
 
 XV.- Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
 
@@ -569,7 +579,9 @@ Los residuos sólidos y de manejo especial que sean generados en el Estado, debe
 
 Son obligaciones de los Generadores de residuos sólidos y de manejo especial:
 
-I.- Separar y almacenar los residuos de acuerdo a la normatividad aplicable;
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
+
+I.- Separar y almacenar los residuos de acuerdo a la normatividad aplicable, utilizando un punto limpio en los casos que se requiera el manejo especial y voluminoso de residuos sólidos.
 
 II.- Adoptar la cultura de la reutilización, reducción y reciclaje de los residuos;
 
@@ -803,19 +815,29 @@ Las etapas que comprenden el Manejo integral de residuos se deberán llevar a ca
 
 Corresponde a los Ayuntamientos vigilar que los propietarios o poseedores de establos. caballerizas o cualquier otro local o sitio destinado al alojamiento de animales, reutilicen como composta o transporten periódicamente, el estiércol y demás residuos sólidos producidos en contenedores debidamente cerrados, a sitios en los cuales sean aprovechados, tratados o confinados de conformidad con las disposiciones legales aplicables.
 
-> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 46.
 
-La transportación de residuos sólidos en el Estado se realizará con la autorización de las autoridades estatales y municipales, en el ámbito de su competencia, las cuales, para otorgarla, deberán considerar lo siguiente:
+La transportación, traslado y disposición final de residuos sólidos, en el Estado, se realizará con la autorización de las autoridades estatales y municipales, en el ámbito de su competencia, las cuales, para otorgarla, deberán considerar lo siguiente:
 
-I.- Que se cumplan las condiciones necesarias para el transporte, establecidas en el Reglamento de esta Ley;
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
+
+I.- Que se cumplan las condiciones necesarias para el transporte, según el tipo de residuos de que se trate y las demás establecidas en el Reglamento de esta Ley.
+
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
 II.- Que se implementen las medidas de seguridad en el transporte para proteger el medio ambiente de forma integral y, prioritariamente, la salud humana;
 
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
 III.- Que se diseñen rutas de transporte y, en su caso, se adapten a las necesidades que vaya generando el crecimiento del centro poblacional;
 
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
 IV.- Que se empleen las mejores rutas de transporte, dependiendo de los lugares de salida y destino de los residuos, para evitar cualquier contaminación al medio ambiente, y
+
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
 V.- Que se cuente con la Licencia Ambiental Única.
 
@@ -824,6 +846,22 @@ V.- Que se cuente con la Licencia Ambiental Única.
 ###### Artículo 47.
 
 Los productores y comercializadores cuyos productos y servicios generen residuos susceptibles de valorización, para conocimiento de los consumidores, realizarán planes de manejo que establezcan las acciones para minimizar la generación de sus residuos, su manejo responsable y la forma, oportunidades y beneficios de su aprovechamiento.
+
+> <small>(ADICIONADO, D.O. 5 DE JULIO DE 2021)</small>
+
+###### Artículo 47 Bis.
+
+Los responsables de la elaboración, producción y distribución de productos o empaques que eventualmente constituyan residuos sólidos urbanos y/o manejo especial están obligados a:
+
+I.- Procurar el rediseño de productos, así como su remanufactura y utilización de insumos no contaminantes en sus procesos productivos, de acuerdo a las normas oficiales mexicanas que establezcan las autoridades competentes en conjunto con las disposiciones aplicables.
+
+II.- Informar a los consumidores, por medio de etiquetas en sus envases o empaques o algún otro medio viable, sobre las posibilidades de reutilización, reciclado o biodegradación de materiales incluidos en el producto o empaque, de acuerdo a las normas oficiales mexicanas que establezcan las autoridades competentes en conjunto con las disposiciones aplicables.
+
+III.- Incentivar a sus clientes a utilizar productos reciclables y/o biodegradables.
+
+IV.- Contar en sus establecimientos con depósitos y/o contenedores para colocar los productos o empaques para facilitar el buen manejo de los mismos.
+
+V.- Coadyuvar en las actividades de reducción, reutilización, reciclado y biodegradación de materiales, incluidos en el producto o su empaque.
 
 ###### Artículo 48.
 
@@ -1115,13 +1153,15 @@ Cuando se ordene alguna de las medidas de seguridad, se indicará al interesado,
 
 ### CAPÍTULO III. De las Sanciones Administrativas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE JULIO DE 2021)</small>
+
 ###### Artículo 99.
 
-La Secretaría o los Ayuntamientos, en asuntos de su competencia, aplicarán las siguientes sanciones, con motivo de las violaciones a los preceptos de esta Ley, su Reglamento y las disposiciones que de ella emanen:
+Las Secretaría (sic) o los Ayuntamientos en asuntos de su competencia, aplicarán las siguientes sanciones, con motivo de las violaciones a los preceptos de esta ley, su reglamento y las disposiciones que de ella emanen:
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
 
-I.- Multa de diez a cincuenta mil unidades de medida y actualización, en el momento de imponer la sanción;
+I.- Multa de mil a cincuenta mil unidades de medida y actualización, en el momento de imponer la sanción;
 
 II.- Clausura temporal o definitiva, parcial o total de la obra, actividad o fuente de contaminación, cuando se incurra en cualquiera de los siguientes casos:
 
@@ -1316,3 +1356,15 @@ El Consejo Estatal de Mejora Regulatoria de Yucatán deberá ajustar su integrac
 Quinto. Actualización del órgano colegiado en materia de medio ambiente
 
 El Consejo Estatal de Consultoría y Evaluación Ambiental deberá realizar los ajustes administrativos necesarios para cambiar su denominación a Consejo Estatal para la Protección del Medio Ambiente, en virtud de este decreto. Entre tanto, podrá continuar funcionando de manera regular, de acuerdo con la Ley de Protección al Medio Ambiente del Estado de Yucatán y su reglamento.
+
+D.O. 5 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 384/2021 POR EL QUE SE MODIFICA LA LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN, EN MATERIA DE DISPOSICIÓN Y MANEJO DE RESIDUOS SÓLIDOS REUTILIZABLES".]
+
+Primero. Entrada en vigor
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuación normativa
+
+El Gobierno del Estado y sus municipios tendrán un plazo de 180 días para aplicar el manejo integral de los residuos de acuerdo con las disposiciones necesarias y a sus posibilidades.
