@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2020-12-09"
+last_updated: "2021-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE JULIO DE 2021.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -735,7 +735,9 @@ VII.- Revisar la cuenta pública del año anterior, con el objeto de evaluar los
 
 La revisión de la cuenta pública la realizará el Congreso, a través de la Auditoría Superior del Estado, de conformidad con lo establecido en las leyes aplicables. Si del examen que esta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha autoridad solo podrá emitir las recomendaciones para la mejora en el desempeño de estos, en los términos de la ley.
 
-La cuenta pública del ejercicio fiscal correspondiente deberá ser presentada a la Auditoría Superior del Estado, a más tardar el 30 de abril del año siguiente. Solo se podrá ampliar el plazo de presentación, hasta por treinta días naturales, cuando medie solicitud del Gobernador suficientemente justificada a juicio del Congreso. En tal supuesto, la Auditoría Superior del Estado contará con el mismo tiempo adicional para la presentación del informe del resultado de la revisión de la cuenta pública.
+> <small>(REFORMADO, D.O. 5 DE JULIO DE 2021)</small>
+
+La cuenta pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado, a más tardar el 30 de abril del año siguiente.
 
 El Congreso concluirá la revisión de la cuenta pública a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe general ejecutivo del resultado de la fiscalización, a que se refiere el artículo 43 Bis de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado, seguirá su curso en términos de lo dispuesto en dicho artículo.
 
@@ -4812,3 +4814,11 @@ D.O. 9 DE DICIEMBRE DE 2020.
 Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 5 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 381/2021 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE ARMONIZACIÓN DE LA CUENTA PÚBLICA”.]
+
+Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
