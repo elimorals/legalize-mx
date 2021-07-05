@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-la-fauna-del-estado-de-yucatan-80910"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-19"
-last_updated: "2019-07-31"
+last_updated: "2021-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LA FAUNA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE JULIO DE 2021.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 19 de abril de 2011.
 
@@ -61,7 +61,9 @@ II.- Evitar el deterioro del hábitat de la fauna del Estado de Yucatán;
 
 III.- Garantizar el aprovechamiento y uso racional y sustentable de la fauna;
 
-IV.- Fomentar la participación entre los diversos sectores de la sociedad basada en una cultura ecológica que incluya el respeto, atención, cuidado y trato humanitario hacia la fauna;
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
+
+IV.- Fomentar la participación entre los diversos sectores públicos, privados y sociales basada en una cultura encaminada a la protección, respeto, trato, digno y humanitario para los animales domésticos y hacia toda la fauna del estado;
 
 V.- Instrumentar los lineamientos para la implementación de una política en materia de protección de la fauna, y
 
@@ -71,49 +73,73 @@ VI.- Establecer mecanismos de seguridad, protección, vigilancia, y sanción en 
 
 Los animales son integrantes de un orden natural que resulta indispensable para la sustentabilidad del bienestar humano, por lo que su preservación y cuidado, es considerado de interés público.
 
+> <small>(ADICIONADO, D.O. 5 DE JULIO DE 2021)</small>
+
+Los animales son seres vivos sintientes, es decir, que experimentan distintas sensaciones físicas y emocionales, por lo que se les reconoce como objeto de tutela de la presente Ley, estableciendo sobre las personas físicas o morales la obligación de procurar su protección, respeto y bienestar, conforme a lo previsto en la presente Ley, su Reglamento y otras disposiciones aplicables.
+
+> <small>(REFORMADO, D.O. 5 DE JULIO DE 2021)</small>
+
 ###### Artículo 3.
 
 Para efectos de esta Ley, se entiende por:
 
-I.- Animal: cualquier mamífero no-humano, ave, reptil, anfibio, pez o invertebrado;
+I.- Animal: Es todo ser vivo multicelular, no humano, con sistema nervioso desarrollado que siente y se mueve voluntariamente o por instinto; así como también cualquier mamífero no-humano, ave, reptil, anfibio, pez o invertebrado.
 
-II.- Animal Acuático: todo Animal que vive en el agua;
+II.- Animal Acuático: todo Animal que vive en el agua.
 
-III.- Animal Callejero: todo Animal que deambule libremente por la vía pública sin algún medio que lo identifique con su propietario o aquellos que queden sin el cuidado o protección de sus dueños o poseedores;
+III.- Animal Callejero: todo Animal que deambule libremente por la vía pública sin algún medio que lo identifique con su propietario o aquellos que queden sin el cuidado o protección de sus dueños o poseedores.
 
-IV.- Animal de Crianza: las diversas especies de mamíferos, aves, reptiles, anfibios y peces, que el hombre destina para consumo o comercialización;
+IV.- Animal de Crianza: las diversas especies de mamíferos, aves, reptiles, anfibios y peces, que el hombre destina para consumo o comercialización.
 
-V.- Animal Doméstico: todo Animal que ha sido criado y condicionado para acompañar al ser humano;
+V.- Animal Doméstico: todo Animal que ha sido criado y condicionado para acompañar al ser humano.
 
-VI.- Animal de Trabajo: todo Animal que auxilia al ser humano en sus actividades laborales;
+VI.- Animal de Trabajo: todo Animal que auxilia al ser humano en sus actividades laborales.
 
-VII.- Bienestar Animal: la satisfacción de las necesidades físicas, emocionales, instintivas y de entorno, de un Animal;
+VII.- Asociaciones protectoras de animales: Grupo de personas legalmente constituidas, de carácter no gubernamental, que tienen como objetivo brindar asistencia, rescate, guarda, bienestar, protección, curación y rehabilitación de animales.
 
-VIII.- Brigadas de Vigilancia Animal: acciones encaminadas a promover la cultura de la no violencia contra los animales, rescatar animales en situación de riesgo o que pongan en peligro a la ciudadanía, hacer denuncias ciudadanas a las personas que trafiquen ilegalmente con la fauna y realicen actos de crueldad en contra de los animales;
+VIII.- Autoridad competente: Es el órgano de Gobierno de nivel federal, estatal o municipal que cuenta con facultades previstas en la Ley, Reglamento y demás ordenamientos jurídicos aplicables en la materia.
 
-IX.- Cautiverio: privación de la libertad a los animales no domésticos;
+IX.- Bienestar Animal: la satisfacción de las necesidades físicas, emocionales, instintivas y de entorno, de un animal, que le permiten el sano desarrollo físico, comportamiento natural, así como el conjunto de actividades encaminadas a proporcionar protección, tranquilidad, dignidad y seguridad a los animales durante su inicio, crecimiento, desarrollo, explotación, transporte y sacrificio.
 
-X.- Centro de Control Animal: es un lugar donde se brinda atención, resguardo y cuidado a los animales;
+X.- Brigadas de Vigilancia Animal: acciones encaminadas a promover la cultura de la no violencia contra los animales, rescatar animales en situación de riesgo o que pongan en peligro a la ciudadanía, hacer denuncias ciudadanas a las personas que trafiquen ilegalmente con la fauna y realicen actos de crueldad en contra de los animales.
 
-XI.- Dueño: es quien tiene acreditada la posesión o se reconoce como dueño de un animal.
+XI.- Cautiverio: privación de la libertad a los animales no domésticos.
 
-XII.- Fauna: toda especie de animales, que habita en determinados ambientes y territorios permanentemente o que se encuentra temporalmente en los mismos;
+XII.- Centro de Control Animal: es un lugar donde se brinda atención, resguardo y cuidado a los animales.
 
-XIII.- Fauna Silvestre: es aquella que vive libremente en los ecosistemas de manera permanente, transitoria o migratoria. Incluye los que están bajo la dependencia del ser humano;
+XIII.- Crueldad: Acto de brutalidad, tortura, sadismo, zoofilia contra cualquier especie animal, ya sea por acción directa, omisión o negligencia.
 
-XIV.- Habitualidad: se produce cuando una persona incurre tres o más veces en conductas que constituyan infracciones a un mismo precepto en términos de esta ley, en un período de 5 años contados a partir de la fecha en que se levante el acta en que se hizo constar la segunda infracción, siempre que ésta no hubiese sido desvirtuada;
+XIV.- Dueño: es quien tiene acreditada la posesión o se reconoce como dueño de un animal.
 
-XV.- Poseedor: es aquella persona, que tiene bajo cuidado y resguardo un animal;
+XV.- Fauna: toda especie de animales, que habita en determinados ambientes y territorios permanentemente o que se encuentra temporalmente en los mismos.
 
-XVI.- Rastro: lugar autorizado para el sacrificio de animales de consumo que cuente con la infraestructura de faenado de los animales y vigilancia sanitaria;
+XVI.- Fauna Silvestre: es aquella que vive libremente en los ecosistemas de manera permanente, transitoria o migratoria. Incluye los que están bajo la dependencia del ser humano.
 
-XVII.- Reincidencia: se produce cuando una persona incurre dos veces en conductas que impliquen infracciones a un mismo precepto, en el período de 5 años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada;
+XVII.- Hábitat: Es un lugar, espacio o refugio del medio ambiente, en el que se desarrollan organismos, especies, población o comunidades de animales donde obtienen todo lo que necesitan para vivir, en un determinado tiempo.
 
-XVIII.- Sacrificio Humanitario: método o procedimiento para provocar la muerte del Animal sin sufrimiento, dolor o agonía;
+XVIII.- Habitualidad: se produce cuando una persona incurre tres o más veces en conductas que constituyan infracciones a un mismo precepto en términos de esta ley, en un período de 5 años contados a partir de la fecha en que se levante el acta en que se hizo constar la segunda infracción, siempre que ésta no hubiese sido desvirtuada.
 
-XIX.- Trato Humanitario: conjunto de medidas para prevenir, evitar, disminuir o erradicar la tensión, sufrimiento, traumatismos, afectación instintiva y emocional, así como cualquier dolor a los animales durante su captura, tratamiento, traslado, exhibición, cuarentena, comercialización, aprovechamiento, posesión, entretenimiento o sacrificio, en los casos previstos por esta Ley, y
+XIX.- Ley: la Ley para la Protección de la Fauna del Estado de Yucatán.
 
-XX.- Zoofilia: cópula de una persona en contra de animales, ya sea a través del miembro viril o cualquier otro objeto o instrumento distinto a éste.
+XX.- Maltrato animal: Comportamiento irracional de una persona hacia un animal con el objetivo de causarle sufrimiento, estrés o, incluso, puede llevarlo a la muerte. Así como también es violencia hacia los animales, la omisión hacía la atención de sus necesidades fisiológicas o de resguardo requeridas en razón de su especie, someterlos a carga excesiva de trabajo, así como cualquier otra conducta que ocasione lesiones, enfermedades, deterioro a la salud, afectaciones psicológicas y afectivas, o que ponga en peligro su vida.
+
+XXI.- Pelea de perros: Enfrentamiento de caninos con características de agresividad y fiereza determinadas que, azuzados por su dueño, poseedor o entrenador, agreden y combaten a otro u otros animales.
+
+XXII.- Poseedor: es aquella persona, que tiene bajo cuidado y resguardo un animal.
+
+XXIII.- Protección a los animales: Aquellas acciones encaminadas a evitar o disminuir la tensión, sufrimiento, traumatismo o dolor a los animales.
+
+XXIV.- Rastro: lugar autorizado para el sacrificio de animales de consumo que cuente con la infraestructura de faenado de los animales y vigilancia sanitaria.
+
+XXV.- Reincidencia: se produce cuando una persona incurre dos veces en conductas que impliquen infracciones a un mismo precepto, en el período de 5 años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
+
+XXVI.- Sacrificio Humanitario: método o procedimiento para provocar la muerte del Animal sin sufrimiento, dolor o agonía.
+
+XXVII.- Secretaría.- Secretaría de Desarrollo Sustentable.
+
+XXVIII.- Trato Humanitario: conjunto de medidas para prevenir, evitar, disminuir o erradicar la tensión, sufrimiento, traumatismos, afectación instintiva y emocional, así como cualquier dolor a los animales durante su captura, tratamiento, traslado, exhibición, cuarentena, comercialización, aprovechamiento, posesión, entretenimiento o sacrificio, en los casos previstos por esta Ley.
+
+XXIX.- Zoofilia: cópula de una persona en contra de animales, ya sea a través del miembro viril o cualquier otro objeto o instrumento distinto a éste.
 
 ### CAPÍTULO II. Del Estado
 
@@ -125,9 +151,41 @@ I.- Al Poder Ejecutivo, y
 
 II.- A los ayuntamientos.
 
+> <small>(ADICIONADO, D.O. 5 DE JULIO DE 2021)</small>
+
+###### Artículo 4 Bis.
+
+Son autoridades competentes las siguientes:
+
+I. El titular del Poder Ejecutivo del Estado;
+
+II. La Secretaría de Desarrollo Sustentable;
+
+III. La Secretaría de Salud;
+
+IV. La Secretaría de Educación;
+
+V. La Secretaría de Seguridad Pública;
+
+VI. La Fiscalía General del Estado, y
+
+VII. Los Ayuntamientos.
+
 ###### Artículo 5.
 
 Las autoridades señaladas en el artículo anterior aplicarán en el ámbito de sus respectivas competencias, las sanciones que correspondan por el incumplimiento de esta Ley.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O. 5 DE JULIO DE 2021)</small>
+
+Corresponde al Titular del Poder Ejecutivo del Estado:
+
+I. Planear, conducir, implementar, y evaluar la política estatal en materia de bienestar y protección animal;
+
+II. Llevar a cabo convenios en materia de bienestar y protección animal;
+
+III. Promover la participación de la sociedad en torno al bienestar y protección animal, con el objetivo de difundir la cultura de protección, respeto, y trato digno para los animales, y
+
+IV. Las demás que le confiera esta Ley, su Reglamento y otros ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -143,9 +201,101 @@ III.- Coadyuvar con las instancias competentes para la imposición de sanciones 
 
 IV.- Realizar el registro de animales de la Fauna del Estado de Yucatán;
 
-V.- Imponer las sanciones que correspondan por contravenir sus disposiciones en el ámbito de su competencia, y
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
 
-VI.- Celebrar convenios de coordinación y colaboración con otras autoridades y organismos de la sociedad civil para el cumplimiento de las políticas públicas establecidas en esta Ley.
+V.- Imponer las sanciones que correspondan por contravenir sus disposiciones en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
+
+VI.- Celebrar convenios de coordinación y colaboración con otras autoridades y organismos de la sociedad civil para el cumplimiento de las políticas públicas establecidas en esta Ley;
+
+> <small>(ADICIONADA, D.O. 5 DE JULIO DE 2021)</small>
+
+VII.- Promover y difundir la cultura de bienestar y protección animal en las dependencias, entidades del Gobierno del estado e igualmente en los ayuntamientos del estado;
+
+> <small>(ADICIONADA, D.O. 5 DE JULIO DE 2021)</small>
+
+VIII.- Desarrollar conjuntamente con la Secretaría de Educación, y la Secretaría de Salud, todas del estado de Yucatán, programas de educación o capacitación en materia de bienestar y protección de los animales, dirigido a los ayuntamientos; con la participación de las asociaciones no gubernamentales, asociaciones protectoras de animales y organizaciones de la sociedad civil, y
+
+> <small>(ADICIONADA, D.O. 5 DE JULIO DE 2021)</small>
+
+IX.- Vigilar y aplicar el cumplimiento de las disposiciones de la presente Ley.
+
+> <small>(ADICIONADO, D.O. 5 DE JULIO DE 2021)</small>
+
+###### Artículo 6 Bis.
+
+Para el cumplimiento de esta ley, La Fiscalía General del Estado trabajará en coordinación con las demás autoridades en el combate al tráfico ilegal de especies, monitoreando en plataformas digitales ofertas, solicitudes, y transacciones referentes a este delito.
+
+> <small>(ADICIONADO, D.O. 5 DE JULIO DE 2021)</small>
+
+###### Artículo 6 Ter.
+
+Corresponde a la Secretaría de Salud:
+
+I. Regular y vigilar el cumplimiento de las normas aplicables que promuevan la inocuidad y la higiene, así como procurar la salud pública en los establecimientos de crianza, reproducción, rehabilitación, alojamiento y en los centros de control animal y asistencia, operados por personas físicas o morales.
+
+II. Colaborar con los ayuntamientos, para la elaboración de políticas públicas dirigidas a la prevención y actuación en caso de zoonosis.
+
+III. Llevar a cabo programas de trato humanitario para el control de la sobrepoblación de animales domésticos a través de campañas permanentes de esterilización gratuitas.
+
+IV. Verificar e inspeccionar, los lugares señalados en denuncia ciudadana por falta de higiene, hacinamiento u olores fétidos que se produzcan por la posesión, crianza, compra, venta o reproducción de animales, e igualmente atender las que sean remitidas por otras autoridades, asociaciones u organizaciones de la sociedad civil.
+
+V. Llevar a cabo en coordinación con la autoridad municipal y las asociaciones protectoras legalmente constituidas, campañas de vacunación antirrábicas, para el control y erradicación de enfermedades zoonóticas, así como de desparasitación y esterilización de la fauna canina y felina.
+
+VI. Las demás que esta Ley, su Reglamento y demás disposiciones aplicables le confieran.
+
+> <small>(ADICIONADO, D.O. 5 DE JULIO DE 2021)</small>
+
+###### Artículo 6 Quáter.
+
+Corresponde a la Secretaría de Educación del Gobierno del Estado de Yucatán:
+
+I. Desarrollar e implementar en los niveles de educación básica, media superior y superior del Estado, programas que fomenten la cultura del respeto, protección y trato digno hacia los animales no humanos.
+
+II. Realizar campañas de concientización relativas al respeto, trato digno y ético hacia los animales no humanos.
+
+III. Recabar información sobre usos y formas de aprovechamiento, de los animales no humanos, realizados por las comunidades rurales con fines de subsistencia.
+
+> <small>(ADICIONADO, D.O. 5 DE JULIO DE 2021)</small>
+
+###### Artículo 6 Quinquies.
+
+Corresponde a la Secretaría de Seguridad Pública:
+
+I. Colaborar, en el ámbito de su competencia, con las dependencias y entidades estatales y los ayuntamientos, así como con los sectores privado y social, con el fin de generar una cultura de protección, responsabilidad, respeto, ética y trato digno hacia los animales.
+
+II. Coadyuvar en la integración y operación de brigadas de vigilancia en torno al bienestar animal, rescate de animales en situación de riesgo o vulnerabilidad, para canalizarlos a refugios, hogares temporales, o cualquier otro lugar destinado para su resguardo. Dichas brigadas tendrán las siguientes funciones:
+
+a. Rescatar animales de las vías públicas, en estado de abandono, en situaciones de maltrato, enfermos o que representen un riego para la sociedad.
+
+b. Impedir y consignar a la autoridad competente, a la persona o quien se encuentre vendiendo animales o aves silvestres, canoras o de ornato, considerados como exóticos, en veda, amenazada (sic), considerada endémica (sic), protegidos o en vías de extinción en la vía pública o a través de una página electrónica.
+
+c. Retirar, para su depósito y resguardo en las instalaciones de las asociaciones protectoras de animales, Centros de Control Animal, escuelas de adiestramiento, o en las asociaciones protectoras de animales, a los animales cuyos propietarios o tenedores participen en plantones o manifestaciones públicas.
+
+d. Impedir y, en su caso, consignar ante la autoridad competente, a quien o quienes promuevan y lleven a cabo peleas de perros.
+
+e. Realizar, en coordinación con la autoridad competente, operativos en los establecimientos públicos o privados, que se dediquen de manera directa, de forma encubierta, simulada o clandestina, a la venta, manipulación, mutilación y sacrificio de animales, ordenando las medidas de seguridad que procedan conforme a la presente Ley y su Reglamento.
+
+III. Expedir certificados sobre adiestramiento de perros de seguridad, así como generar y actualizar una base de datos de personas físicas y morales que se dediquen al adiestramiento de los mismos.
+
+IV. Las demás que esta Ley y demás ordenamientos aplicables le confieran.
+
+> <small>(ADICIONADO, D.O. 5 DE JULIO DE 2021)</small>
+
+###### Artículo 6 Sexies.
+
+Corresponde a la Fiscalía General del Estado:
+
+I. Recibir a través de las unidades de investigación y litigación, denuncias e integrar las carpetas de investigación, por incumplimiento a las disposiciones de esta Ley. En los municipios donde no existan oficinas (sic) unidades de investigación y litigación, esta atribución corresponderá a los Ayuntamientos a través del Síndico municipal o quien ejerza esta función.
+
+II. Ejecutar acción penal de oficio en contra de quien o quienes incurran en la comisión de una conducta antisocial en contra de cualquier animal, previsto en la presente Ley, así como en el Código Penal del Estado.
+
+III. Dar aviso a las autoridades federales competentes, cuando de la conducta antisocial se advierta el incumplimiento o la violación a cualquier norma federal, así como cuando en el proceso de investigación se encuentre implicada alguna especie de fauna silvestre protegida, exóticos (sic), en veda, amenazada, considerada endémica o en vías de extinción.
+
+IV. Monitorear e investigar en plataformas digitales la difusión de contenido que exponga, incite o promueva el maltrato animal.
+
+V. Ejecutar en contra del propietario, poseedor o encargado de un animal peligroso, que cause daños o lesiones a terceros, la responsabilidad de éstos y la sanción correspondiente, por los daños o lesiones causados por estos. Sin perjuicio de la de naturaleza administrativa que proceda.
 
 ### CAPÍTULO III. De los Ayuntamientos
 
@@ -203,37 +353,61 @@ Las personas físicas y morales coadyuvarán con las autoridades para llevar a c
 
 ### CAPÍTULO IV. Del Trato Humanitario
 
+> <small>(REFORMADO, D.O. 5 DE JULIO DE 2021)</small>
+
 ###### Artículo 12.
 
-Toda persona tiene la obligación de brindar un Trato Humanitario a cualquier Animal.
+Toda persona tiene la obligación de brindar un trato digno, respetuoso y humanitario a cualquier animal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 13.
 
-Se entenderá por acto de crueldad al Animal:
+Se entenderá por acto de maltrato y crueldad al Animal:
 
-I.- Lastimar, torturar, maltratar o abandonar a un Animal;
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
+
+I.- Lastimar, torturar, maltratar o abandonar en la vía pública a un Animal;
 
 II.- Imponer condiciones o arreos de trabajo cruel y exagerado para la resistencia del Animal; o bien, usar animales en trabajos que, por sus características físicas, no puedan realizar sin causarse algún perjuicio;
 
 III.- Descuidar la morada y las condiciones de aireación, movilidad, higiene, albergue, alimentación y bebida del Animal;
 
-IV.- Realizar actos de zoofilia;
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
 
-V.- No brindar la atención veterinaria cuando lo requieran o dejarlos en estado de abandono;
+IV.- Realizar actos de zoofilia con cualquier especie animal;
+
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
+
+V.- No brindar la atención veterinaria cuando lo requieran o determinen las condiciones para el bienestar animal o dejarlos en estado de abandono o incluso matarlos;
 
 VI.- Suministrar bebidas alcohólicas, o drogas sin fines terapéuticos o prescripción médica veterinaria;
 
 VII.- Incitar, obligar o coaccionar a un Animal para dañar, lesionar, mutilar o provocar la muerte de otro o de un ser humano;
 
-VIII.- Mantenerlos sin espacio suficiente para su movilidad, permanentemente atados, o a la intemperie, y
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
 
-IX.- Todas aquellas acciones u omisiones que provoquen un deterioro físico, instintivo y emocional en el Animal.
+VIII.- Mantenerlos sin espacio suficiente para su movilidad, permanentemente atados, o a la intemperie;
+
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
+
+IX.- Todas aquellas acciones u omisiones que provoquen un deterioro físico, instintivo y emocional en el Animal;
+
+> <small>(ADICIONADA, D.O. 5 DE JULIO DE 2021)</small>
+
+X.- Causarles la muerte dolosamente a través de cualquier medio, o en caso accidental prolongue su agonía o les provoque sufrimiento, y
+
+> <small>(ADICIONADA, D.O. 5 DE JULIO DE 2021)</small>
+
+XI.- Las mutilaciones, excepto las requeridas por prescripción médica para salvar la vida del animal o como método de esterilización.
 
 ###### Artículo 14.
 
 Es obligación de los habitantes del Estado, en materia de protección a la Fauna, lo siguiente:
 
-I.- Proteger y respetar la vida de los animales;
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
+
+I.- Proteger y respetar la vida de los animales, así como brindarles un espacio físico adecuado, aseo, atención, alimento, auxilio, buen trato, velar por su desarrollo natural, salud e igualmente evitarles el maltrato, crueldad, sufrimiento y zoofilia;
 
 II.- No maltratar o explotar a los animales en la realización de trabajos que por sus características físicas no pueda llevar a cabo;
 
@@ -245,9 +419,25 @@ V.- Respetar la Fauna Silvestre en su ambiente natural;
 
 VI.- Brindar alimentación y el reposo correspondiente a las características físicas del Animal;
 
-VII.- Contribuir para la sobrevivencia de la especie en los casos de peligro de extinción, y
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
 
-VIII.- Proteger a los animales, en caso de abandono.
+VII.- Contribuir para la sobrevivencia de la especie en los casos de peligro de extinción;
+
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
+
+VIII.- Proteger a los animales, en caso de abandono;
+
+> <small>(ADICIONADA, D.O. 5 DE JULIO DE 2021)</small>
+
+IX.- Promover el trato digno, la cultura del bienestar, y protección de los animales;
+
+> <small>(ADICIONADA, D.O. 5 DE JULIO DE 2021)</small>
+
+X.- Cuidar y velar por la observancia y aplicación de la presente Ley, y
+
+> <small>(ADICIONADA, D.O. 5 DE JULIO DE 2021)</small>
+
+XI.- Denunciar ante las autoridades competentes, cualquier violación a la presente Ley y su Reglamento.
 
 ###### Artículo 15.
 
@@ -669,19 +859,19 @@ Las violaciones a los preceptos de esta Ley y su reglamento podrán ser sanciona
 
 I.- Amonestación por escrito, por parte de la autoridad;
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2021)</small>
 
-II.- Multa de diez a cincuenta mil unidades de medida y actualización vigente.; (sic)
+II.- Multa de veinte a cien mil Unidades de Medida y Actualización vigente;
 
 III.- Arresto administrativo hasta por treinta y seis horas, y
 
 IV.- Decomiso temporal o definitivo del Animal.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 75.
 
-De comprobarse que algún animal ha sido torturado o maltratado por una persona, de manera reincidente o habitual, se podrá imponer, además de la sanción establecida en el artículo anterior, multa de diez a diez mil unidades de medida y actualización y el decomiso definitivo del animal.
+De comprobarse que algún animal ha sido torturado o maltratado por una persona, de manera reincidente o habitual, se podrá imponer, además de la sanción establecida en el artículo anterior, multa de veinte a veinte mil unidades de medida y actualización y el decomiso definitivo del animal.
 
 ###### Artículo 76.
 
@@ -770,3 +960,19 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 5 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 383/2021 POR EL QUE SE MODIFICAN LA LEY PARA LA PROTECCIÓN DE LA FAUNA DEL ESTADO DE YUCATÁN Y EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE MALTRATO DE ANIMALES DOMÉSTICOS”.]
+
+Vigencia
+
+Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Adecuación reglamentaria
+
+Artículo segundo.- Se establece un plazo de 180 días para la actualización del Reglamento de la presente Ley.
+
+Cláusula derogatoria
+
+Artículo tercero.- Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
