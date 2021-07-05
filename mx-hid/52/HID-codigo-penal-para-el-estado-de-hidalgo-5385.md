@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2021-06-07"
+last_updated: "2021-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "HID"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JULIO DE 2021 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE JULIO DE 2021.]</small>
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -1689,6 +1689,8 @@ Al que habiendo atropellado a una persona no le preste auxilio o no solicite la 
 
 ### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD
 
+> <small>(F. DE E., P.O. 5 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 162.
 
 Al que sabiendo que padece algún mal grave y transmisible y de manera intencional ponga por cualquier medio en peligro de contagio la salud de otro, se le impondrá de dos a seis años de prisión, multa de 20 a 120 días y tratamiento curativo obligatorio en institución adecuada. Si la puesta en peligro es violando un deber de cuidado, se impondrá la mitad de la punibilidad y el mismo tratamiento curativo obligatorio, si el peligro de contagio se da entre cónyuges o concubinos, sólo se procederá por querella del ofendido.
@@ -1699,27 +1701,51 @@ Se impondrá prisión de cinco a quince años y multa de 50 a 250 días, al que 
 
 ## TITULO TERCERO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2021)</small>
+> <small>(F. DE E., P.O. 5 DE JULIO DE 2021)</small>
 
 ### CAPITULO II. SECUESTRO Y SIMULACION DE SECUESTRO
 
 ###### ARTICULO 163.
 
-(DEROGADO, P.O. 7 DE JUNIO DE 2021)
+Al que ilegítimamente prive a otro de su libertad, se le aplicará prisión de tres meses a tres años y de 10 a 50 días multa.
 
-ARTICULO 163 BIS.- (DEROGADO, P.O. 7 DE JUNIO DE 2021)
+> <small>(F. DE E., P.O. 5 DE JULIO DE 2021)</small>
+
+La misma pena se aplicará al particular que por cualquier medio, obligue a una persona a prestarle trabajo y servicios personales sin la debida retribución o celebre un contrato que ponga en condiciones de servidumbre a otra, o afecte su libertad de cualquier modo.
+
+(ADICIONADO, P.O. 14 DE ENERO DE 2002) (F. DE E., P.O. 5 DE JULIO DE 2021)
+
+ARTICULO 163 BIS.- Se considera también como privación ilegal de la libertad, cuando el ascendiente sin limitación de grado o pariente consanguíneo colateral hasta el cuarto grado de un menor de edad, lo sustraiga o cambie de domicilio donde habitualmente resida, lo retenga o impida que regrese al mismo sin autorización de quienes ejerzan la patria potestad, entendiéndose que se necesita la autorización de todos los que ejercen este derecho aunque no se tenga la custodia y no permita que el padre o la madre visiten o convivan con el menor, se aplicará una pena de uno a tres años de prisión y multa de 30 a 300 días. En este contexto, sólo podrán cambiar de domicilio o impedir que regrese al mismo de manera unilateral, cuando exista resolución de autoridad competente.
+
+(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 5 DE JULIO DE 2021)
 
 ###### ARTICULO 164.
 
-(DEROGADO, P.O. 7 DE JUNIO DE 2021)
+La punibilidad prevista en el artículo 163 se aumentará en una mitad, cuando en la privación de la libertad concurra alguna de las circunstancias siguientes:
+
+> <small>(F. DE E., P.O. 5 DE JULIO DE 2021)</small>
+
+I.- Que se realice con violencia o se veje a la víctima;
+
+(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 5 DE JULIO DE 2021)
+
+II.- Que la víctima sea menor de dieciséis o mayor de sesenta años de edad, o por cualquier otra circunstancia esté en situación de inferioridad física respecto al agente; o
+
+> <small>(F. DE E., P.O. 5 DE JULIO DE 2021)</small>
+
+III.- Que la privación se prolongue por más de ocho días.
+
+(REFORMADO, P.O. 22 DE MARZO DE 1999) (F. DE E., P.O. 5 DE JULIO DE 2021)
 
 ###### ARTICULO 165.
 
-(DEROGADO, P.O. 7 DE JUNIO DE 2021)
+Si el agente espontáneamente pone en libertad a la víctima dentro de las setenta y dos horas siguientes al momento de inicio de la privación, se aplicará la mitad de la punibilidad prevista en los dos artículos anteriores.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2021)</small>
 
 ### CAPITULO III. RAPTO
+
+(REFORMADO, P.O. 22 DE MARZO DE 1999) (F. DE E., P.O. 5 DE JULIO DE 2021)
 
 ### CAPITULO IV. AMENAZAS
 
@@ -1739,7 +1765,7 @@ ARTICULO 167 BIS.- (DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
 (DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2021)</small>
+> <small>(F. DE E., P.O. 5 DE JULIO DE 2021)</small>
 
 ### CAPITULO V. ASALTO
 
@@ -1747,15 +1773,21 @@ ARTICULO 167 BIS.- (DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
 ###### ARTICULO 169.
 
-(DEROGADO, P.O. 7 DE JUNIO DE 2021)
+Al que se apodere de una persona por medio de la violencia o del engaño, con el propósito de satisfacer algún deseo erótico sexual o para casarse con ella, se le impondrá de uno a seis años de prisión y multa de 10 a 60 días.
+
+> <small>(F. DE E., P.O. 5 DE JULIO DE 2021)</small>
+
+La misma punibilidad se aplicará al que, con los fines a que se refiere el párrafo precedente, sin hacer uso de la violencia, se apodere de una persona menor de dieciocho años o que no tenga capacidad de comprender el hecho delictuoso que se comete en su persona o que por cualquier causa no pudiere resistirlo; si el medio que se empleare fuese la violencia, la punibilidad se aumentará en una mitad.
 
 ###### ARTICULO 170.
 
 (DEROGADO, P.O. 14 DE ENERO DE 2002)
 
+> <small>(F. DE E., P.O. 5 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 171.
 
-(DEROGADO, P.O. 7 DE JUNIO DE 2021)
+El delito de rapto se perseguirá por querella de la persona ofendida o de su legítimo representante.
 
 ### CAPITULO VI. ALLANAMIENTO DE MORADA
 
@@ -4657,10 +4689,10 @@ SEGUNDO. El Titular del Poder Ejecutivo del Estado, deberá prever lo necesario 
 
 TERCERO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando y ejecutando conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen.
 
-P.O. 7 DE JUNIO DE 2021.
+P.O. 7 DE JUNIO DE 2021 Y F. DE E. P.O. 5 DE JULIO DE 2021.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 715 QUE REFORMA EL ARTÍCULO 25 APARTADO B, FRACCIÓN II PÁRRAFO SEGUNDO, 147 FRACCIÓN III Y IV, 183 PÁRRAFO SEGUNDO Y 202 BIS PÁRRAFO PRIMERO; SE ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 101 Y LA FRACCIÓN V DEL ARTÍCULO 147; Y SE DEROGA EL CAPÍTULO I, II Y III DEL TÍTULO TERCERO DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO Y SUS ARTÍCULOS 163, 163 BIS, 164, 165, 166, 167, 167 BIS, 168, 169 Y 171 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO.”]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 715 QUE REFORMA EL ARTÍCULO 25 APARTADO B, FRACCIÓN II PÁRRAFO SEGUNDO, 147 FRACCIÓN III Y IV, 183 PÁRRAFO SEGUNDO Y 202 BIS PÁRRAFO PRIMERO; SE ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 101 Y LA FRACCIÓN V DEL ARTÍCULO 147; Y SE DEROGA EL CAPÍTULO II DEL TÍTULO TERCERO DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO Y SUS ARTÍCULOS 166, 167, 167 BIS Y 168 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO.]
 
-PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+> <small>(F. DE E., P.O. 5 DE JULIO DE 2021)</small>
 
-SEGUNDO. Los procedimientos penales en materia de delitos en contra de la libertad y la seguridad de las personas, iniciados antes de la vigencia del presente Decreto así como las sentencias emitidas con anterioridad, no serán afectados por su entrada en vigor, por lo tanto, deberán concluirse y ejecutarse respectivamente, conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen.
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
