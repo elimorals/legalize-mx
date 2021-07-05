@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2021-06-11"
+last_updated: "2021-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2021
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -1577,7 +1577,7 @@ DE LAS SANCIONES
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 155.
 
@@ -2393,37 +2393,55 @@ REGLAS DE LOS USUARIOS DE LA VÍA PÚBLICA
 
 ###### Artículo 206.
 
-El presente Capítulo tiene como objeto la regulación de los Juzgados Calificadores los cuales estarán dirigidos por un Juez Calificador, para tal fin la administración pública municipal diseñará y promoverá programas dando cabida a la más amplia participación de los habitantes en colaboración con las Autoridades competentes para la preservación y conservación del orden público, procurando el acercamiento entre ellos y los Jueces Calificadores en las colonias que conforman o integran el Municipio de Puebla, a efecto de coadyuvar en el mantenimiento del orden público, propiciar mayor participación en las funciones que éstos realizan; así como establecer vínculos que permitan la identificación de problemas y fenómenos sociales relacionados con la ley, y lograr que exista mayor participación de los ciudadanos para la prevención de conductas infractoras.
+El presente Capítulo tiene como objeto la regulación, organización y funcionamiento de los Juzgados de Justicia Cívica, los cuales estarán dirigidos por una Jueza o Juez de Justicia Cívica, quienes dependerán, a su vez, de la Dirección de Juzgados de Justicia Cívica de la Sindicatura Municipal.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+La administración pública municipal diseñará y promoverá programas de colaboración entre las Autoridades competentes para la preservación y conservación del orden público.
+
+Para prevenir las conductas infractoras se procurará, el acercamiento con los habitantes del Municipio de Puebla, a efecto de difundir la Justicia Cívica y promover la cultura de la paz, cultura de legalidad y participación ciudadana, estableciendo vínculos que permitan la identificación de problemas y fenómenos sociales relacionados con la ley, a través de la convivencia armónica entre las personas y los Juzgados de Justicia Cívica, aplicando los mecanismos alternos de solución de controversias, coadyuvando en el mantenimiento del orden público, el respeto a los derechos humanos y la cultura cívica.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 206 Bis.
 
-Corresponde al Municipio por conducto de los Jueces Calificadores, conocer de las conductas antisociales y sancionar las faltas administrativas en el presente Capítulo.
+Corresponde al Municipio, por conducto de las Juezas y Jueces de Justicia Cívica, así como de las y los Jueces de Justicia Cívica Itinerantes, conocer y sancionar las conductas infractoras contempladas y descritas como faltas administrativas en el presente Capítulo, así como las conductas e infracciones estipuladas en los ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+Entendiéndose como conductas infractoras, aquellos actos u omisiones que atentan contra el orden público, las normas de convivencia de la sociedad, la paz social, la tranquilidad pública, el comportamiento cívico en lugares públicos y privados, la salubridad general y al medio ambiente, o afecten el patrimonio público o privado, en contra de una persona o de la sociedad en conjunto.
 
-Entendiéndose para tal efecto, por conductas antisociales aquéllas que van en contra de las normas de convivencia de la sociedad, en las cuales se atenta contra el patrimonio, la vida, la salud o cualquier otro bien jurídico protegido de una persona o de la sociedad en su conjunto.
+Si existiese un conflicto comunitario, los elementos de las fuerzas de seguridad pública, la Jueza o Juez de Justicia Cívica o las personas mediadoras invitarán a las partes a llevar a cabo un procedimiento de mediación o conciliación, les informarán de los beneficios, del desarrollo de los procedimientos y sus características, en los casos en que sea admisibles, con excepción de cuando se trate de las conductas sancionadas en el artículo 209 fracción IV inciso r) de este Código, para las cuales en ningún caso se aplicará el procedimiento de mediación o conciliación.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
-
-En los casos en que sea admisible la aplicación de los medios alternativos de solución de controversias para resolver las situaciones generadas entre particulares por la aplicación del presente Código Reglamentario, se harán del conocimiento de los involucrados una vez que se produce la actuación de los Jueces Calificadores.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 206 Ter.
 
-Las disposiciones del presente Capítulo son aplicables para los habitantes del Municipio y para las personas que de manera temporal transiten por el Municipio de Puebla y tienen por objeto:
+Las disposiciones del presente Capítulo son de observancia general dentro de los límites territoriales del Municipio de Puebla, aplicables para los habitantes del Municipio y para las personas que de manera temporal transiten por él, y tienen por objeto :
 
-I. Preservar y proteger las garantías individuales y los derechos fundamentales de los habitantes del Municipio de Puebla y de los que transitan por el mismo;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+I. Preservar y proteger las garantías y los derechos humanos, los derechos fundamentales y las garantías individuales de los habitantes del Municipio de Puebla y de los que transitan por el mismo;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 II. Fortalecer las reglas básicas para procurar una convivencia armónica de corresponsabilidad para mejorar el entorno y la calidad de vida de las personas;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 III. Promover el desarrollo humano y familiar preservando los bienes públicos y privados;
 
-IV. Procurar el orden y la tranquilidad de los habitantes del Municipio de Puebla para lograr la armonía social y la defensa de los intereses de la colectividad; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-V. Determinar las acciones para su cumplimiento.
+IV. Procurar el orden y la tranquilidad de los habitantes del Municipio de Puebla para lograr la armonía social y la defensa de los intereses de la colectividad;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+V. Difundir la cultura cívica para prevenir conflictos en la comunidad;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VI. Privilegiar el diálogo para la resolución de conflictos en el Municipio de Puebla; y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VII. Determinar las acciones para su cumplimiento.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2437,9 +2455,55 @@ Se consideran faltas o infracciones administrativas, aquellas acciones u omision
 
 Para los efectos de este Capítulo, se entenderá como:
 
-I. Lugares públicos los de uso común, acceso público o libre tránsito, debiendo entenderse como tales: a las plazas, calles, avenidas, paseos, jardines, parques, mercados, centros de recreo, deportivos o de espectáculos, templos, inmuebles públicos, cementerios, estacionamientos públicos, bosques, vías terrestres de comunicación y los que se describen en el artículo 611 del presente Código Reglamentario, ubicados dentro del Municipio de Puebla. Se equiparan a los lugares públicos los medios destinados al servicio público de transporte; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+I. Lugares o espacios públicos, los de uso común, acceso público o libre tránsito, debiendo entenderse como tales: a las plazas, calles, avenidas, paseos, jardines, parques, mercados, centros de recreo, deportivos o de espectáculos, templos, inmuebles públicos, cementerios, estacionamientos públicos, bosques, vías terrestres de comunicación y los que se describen en el artículo 611 del presente Código Reglamentario, ubicados dentro del Municipio de Puebla. Se equiparán a los lugares públicos los medios destinados al servicio público de transporte;
 
 II. Lugares privados los no comprendidos en la fracción I que antecede y cuyo dominio corresponda exclusivamente a particulares.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+III. Conciliación. Es el procedimiento mediante el cual dos o más personas que tienen un conflicto en común se apoyan de un tercero neutral que, sin emitir un juicio respecto al fondo del asunto, propone alternativa de solución del litigio. El conciliador interviene ayudando a tomar decisión;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+IV. Convenio. Es el acuerdo de dos o más personas para crear, conservar, transferir, modificar o extinguir obligaciones o derechos. Y deberá constar por escrito;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+V. Cultura cívica. Son las reglas de comportamiento social que permiten una convivencia armónica en la ciudadanía, en un marco de respeto a la dignidad y tranquilidad de las personas, a la preservación de la seguridad ciudadana y la protección del entorno urbano;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VI. Dignidad humana. Es el valor inherente al ser humano por el simple hecho de serlo, en cuanto ser racional y dotado de libertad;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VII. Discapacidad. Es el conjunto de deficiencias, limitaciones y restricciones que imposibilitan o dificultan el desarrollo normal de la actividad de una persona;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VIII. Discriminación. Es toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condición de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+IX. Identidad de género. Es la vivencia interna e individual del género, tal como cada persona la siente, misma que puede corresponder o no con el sexo asignado al nacer;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+X. Justicia Cívica. Conjunto de procedimientos e instrumentos de Buen Gobierno orientados a fomentar la Cultura de la Legalidad y a dar solución de forma pronta, transparente y expedita a conflictos comunitarios que genera la convivencia cotidiana en una sociedad democrática. Tiene como objetivo facilitar y mejorar la convivencia en una comunidad y evitar que los conflictos escalen a conductas delictivas o actos de violencia. Esto a través de diferentes acciones tales como: fomento y difusión de reglas de convivencia, utilización de mecanismos alternativos de solución de controversias, y atención y sanción de faltas administrativas; todo lo anterior sin perjuicio de los usos y costumbres de los pueblos indígenas y de sus comunidades;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+XI. Justicia Restaurativa. Herramienta que permite crear condiciones que favorezca la participación de los vecinos, víctimas u ofendidos, ofensores y a la comunidad en general como grupo en la solución del conflicto, la reparación del daño y la reintegración del tejido social;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+XII. Mediación. Es el procedimiento en el cual dos o más personas que tienen un problema en común, solicitan el apoyo de un tercero que facilita la comunicación entre ellos, para que, de manera pacífica y equitativa, lleguen a un acuerdo satisfactorio para ambas partes. El mediador conduce a las partes a que de ellas surja la decisión; y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+XIII. Perspectiva de género. Es el instrumento o método jurídico de análisis en la aplicación de la justicia cívica por la Jueza o Juez de Justicia Cívica al constatar la existencia de una relación desequilibrada de poder, identificando a la persona que se encuentra en situación de desigualdad por razón de género y valorar la posible adopción de medidas especiales de protección.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2499,17 +2563,19 @@ j) Impidan, obstruyan por cualquier medio las labores de los cuerpos de Segurida
 
 k) Apaguen, sin autorización, el alumbrado público o afecten la infraestructura del mismo que impida su normal funcionamiento;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-l) Cambien de lugar las señales públicas, ya sean de tránsito o de cualquier otro señalamiento oficial; y
+l) Alterar la señalización municipal de cualquier tipo y de carácter oficial; y
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+m) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
-m) Provoquen derrumbes, incendios y demás hechos o actos similares, en lugares públicos o privados.
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+n) Ofender, insultar o denigrar a los elementos de policía, personal de los Juzgados Cívicos o cualquier integrante del servicio público en el desempeño de sus labores.
 
-II. CONTRA LA SALUBRIDAD Y EL MEDIO AMBIENTE y se sancionarán administrativamente con: 1.- Amonestación, 2.- Multa del equivalente del valor diario de 5 a 60 unidades de medida y actualización al momento de determinarla, 3.- Arresto hasta treinta y seis horas o, 4.- Trabajo a favor de la comunidad a las personas que:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JULIO DE 2021)</small>
+
+II. CONTRA LA SALUBRIDAD Y EL MEDIO AMBIENTE
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -2523,13 +2589,11 @@ b) Hagan uso irresponsable del agua en lugares públicos o desperdicien el agua 
 
 c) Ensucien, desvíen o retengan los cauces de agua, ya sea en depósitos, tanques, fuentes públicas, acueductos o sistemas de alcantarillado del Municipio;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-d) Arrojen, en lugares públicos, lotes baldíos, drenajes o en lugares no aptos del Municipio, animales sacrificados o muertos, así como sustancias fétidas;
+d) Arrojen, en lugares públicos, lotes baldíos, drenajes o en lugares no aptos del Municipio sustancias fétidas;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-e) Arrojen, tiren o depositen basura, desechos o residuos de cualquier especie en lugares públicos y fuera de los sitios destinados para tal efecto, así como realizar cualquier otro acto u omisión que contribuya al desaseo de las vías públicas, áreas de uso común u otras de acceso público o libre tránsito;
+e) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2541,13 +2605,9 @@ g) Fumen dentro de locales cerrados en los que se expendan al público alimentos
 
 La prohibición de fumar en los lugares señalados en este inciso, no se aplicará en los casos en los que esta actividad se realice dentro de las áreas específicas para fumadores;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+h) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
-h) Omitan recoger las heces fecales de un animal que se encuentren bajo su custodia en lugares públicos;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-i) Posean animales sin adoptar las medidas de higiene necesarias que expidan olores altamente desagradables, que éstos tengan plagas o que emitan ladridos que ocasionen molestia a los vecinos;
+i) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2557,9 +2617,7 @@ j) Destruyan, maltraten árboles, flores y cualquier ornamento que se encuentre 
 
 k) Dispongan de flores, plantas, árboles o cualquier otro tipo de objetos que pertenezca a la Autoridad Municipal o de propiedad particular, sin el permiso de quien tenga el derecho de otorgarlo; y
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-l) Siendo poseedores o tengan bajo su custodia animales a los cuales les permitan que beban de la fuente pública, así como pasten, defequen o hagan daños en los jardines y áreas verdes o cualquier otro lugar público.
+l) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -2581,9 +2639,9 @@ c) Realicen u organicen el comercio en la vía pública o en lugares públicos s
 
 d) Promuevan, organicen o participen en juegos de azar o apuesta en lugar público no autorizado para ello, o aun contando con autorización, no se sujeten a las especificaciones que dicha autorización contenga;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-e) Vendan, ofrezcan o por cualquier medio distribuyan bebidas alcohólicas en forma clandestina o en días no permitidos por las leyes;
+e) Vendan, ofrezcan o por cualquier medio distribuyan bebidas alcohólicas en forma clandestina o en los días no permitidos por las leyes o acuerdos;
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -2593,17 +2651,17 @@ f) Ofrezcan, fomenten o propicien la venta de boletos de espectáculos públicos
 
 g) Alteren el orden, arrojen cualquier objeto o provoquen disturbios en los espectáculos públicos o en las entradas y salidas a ellos;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-h) Produzcan ruido con cualquier herramienta, vehículo o aparato electrónico que por su volumen o estruendo provoquen alteración a la paz social y tranquilidad de las personas; siempre que no se trate del cumplimiento, realización o desarrollo de una obra de servicios públicos o privados que cuente con la autorización correspondiente;
+h) Produzcan ruido con cualquier herramienta, vehículo o aparato electrónico o eléctrico que por su volumen o estruendo provoquen alteración a la paz social y tranquilidad de las personas; siempre que no se trate del cumplimiento, realización o desarrollo de una obra de servicios públicos o privados que cuente con la autorización correspondiente;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 i) Alteren, rompan, dañen o mutilen los sellos de clausura o las boletas de infracciones de tránsito, giros comerciales, normatividad entre otras o cualquier tipo de notificación, que sea realizada por la Autoridad Municipal y de cualquier otra Autoridad Administrativa; independientemente de la sanción penal a que se haga acreedor;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-j) Arrojen a la vía pública, lotes baldíos, ríos o barrancas, basura u objetos que puedan causar molestia a los vecinos, transeúntes o vehículos;
+j) Arrojen basura u objetos que puedan causar molestia a los vecinos, transeúntes o vehículos hacia a (sic) la vía pública, lotes baldíos, ríos o barrancas;
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -2613,9 +2671,9 @@ k) Impidan el acceso a perros guía que asistan a invidentes, débiles visuales 
 
 l) Ejerzan actos de comercio dentro del área de cementerios, templos, monumentos, edificios públicos, en aquellos lugares que por su tradición y costumbre deberán ser respetadas, y en lugares no autorizados; a menos que cuenten con la autorización y el permiso correspondiente para tal efecto;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-m) Vendan o proporcionen a los menores de edad, bebidas alcohólicas y/o tóxicos y/o cigarros en cualquiera de sus modalidades;
+m) Vendan o proporcionen a niñas, niños o adolescentes, bebidas alcohólicas y/o tóxicos y/o cigarros en cualquiera de sus modalidades;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2629,13 +2687,15 @@ n) Vendan, ofrezcan sus productos o mercancías, sin el permiso de la Autoridad 
 
 o) Impidan u obstruyan con objetos o vehículos los accesos, usos de las rampas y demás infraestructura urbana que permite el libre tránsito a las personas con discapacidad.
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2011)</small>
+p) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
-p) impidan u obstruyan con objetos o vehículos los accesos y uso de las rampas y demás infraestructura urbana que permite el libre tránsito a las personas con discapacidad.
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+q) Incumplan con los términos y/o acciones a las que se obligaron en el convenio ratificado ante la Jueza o Juez de Justicia Cívica, realizado mediante medios alternativos de solución de conflicto, por hechos relacionados a faltas administrativos (sic) que contempla el capítulo 9 del presente Código.
 
-IV. CONTRA LA INTEGRIDAD FÍSICA Y MORAL DE LOS INDIVIDUOS, se sancionarán con: 1.- Amonestación, 2.- Multa del equivalente del valor diario de 10 a 100 unidades de medida y actualización al momento de determinarla, 3.- Arresto hasta treinta y seis horas o, 4.- Trabajo a favor de la comunidad a las personas que:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JULIO DE 2021)</small>
+
+IV. CONTRA LA INTEGRIDAD FÍSICA Y MORAL DE LOS INDIVIDUOS:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2665,17 +2725,17 @@ e) Ingieran bebidas alcohólicas o alguna otra que cause efectos similares en lu
 
 f) Ejerzan, permitan o sean usuarios de la prostitución, en lugares públicos;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-g) Consuman, ingieran, inhalen estupefacientes, psicotrópicos, enervantes o cualquier sustancia tóxica en lugares públicos o privados, incluyendo a menores de edad; independientemente que en el caso de venta serán puestos a disposición inmediata de las autoridades competentes;
+g) Consuman, ingieran, inhalen estupefacientes, psicotrópicos, enervantes o cualquier sustancia tóxica en lugares públicos o privados; independientemente que en el caso de venta serán puestos a disposición inmediata de las autoridades competentes;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 h) Golpeen o traten con evidente violencia a otra persona, en lugares públicos, privados o de espectáculos;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-i) Arrojen contra otra persona líquidos, polvos o sustancias, que puedan mojarla, mancharla o causar algún daño físico;
+i) Arrojen contra otra persona líquidos, polvos o sustancias, que puedan mojarla, mancharla o causar alguna molestia;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2685,17 +2745,17 @@ j) Provoquen a un perro o cualquier otro animal para que ataque a una persona;
 
 k) Estando encargados de la guarda o custodia de un enfermo mental, deje a éste deambular libremente en lugares públicos y peligre su integridad;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-l) Los padres, tutores o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad que reincida en la comisión de una falta administrativa, si habiendo sido apercibido en anterior ocasión, no demostraren que tomaron medidas preventivas y de orientación correspondiente para evitar la reincidencia del menor;
+l) Los padres, tutores o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un adolescente que reincida en la comisión de una falta administrativa, si habiendo sido apercibido en anterior ocasión, no demostraren que tomaron medidas preventivas y de orientación correspondiente para evitar la reincidencia del adolescente;
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-l Bis.) Los padres, tutores o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad y que no acuda al programa de reinserción familiar y social que para tal efecto el Juez Calificador canalizó a alguna comisión, dependencia, institución, órgano o cualquier otra, habiendo sido apercibidos de lo anterior.
+l Bis.) Los padres, tutores o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un adolescente y que no acuda al programa de reinserción familiar y social que para tal efecto la Jueza o el Juez de Justicia Cívica capacitado en el Procedimiento Administrativo Especial para la Impartición de Justicia Municipal para adolescentes canalizó a alguna comisión, dependencia, institución, órgano o cualquier otra, habiendo sido apercibidos de lo anterior;
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-m) Que permitan el acceso a Salas con juegos de azar y casinos, bares, pulquerías o cualquier otro lugar a los que se refiere el artículo 611 de este Código Reglamentario, a menores de dieciocho años de edad, independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes;
+m) Que permitan el acceso a centros de entretenimiento, bares, pulquerías o cualquier otro lugar a los que se refiere el artículo 611 de este Código Reglamentario, a niñas, niños y adolescentes, independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2707,13 +2767,9 @@ n) Comercialicen, difundan o exhiban en lugares públicos en cualquier forma mat
 
 o) (DEROGADO, P.O. 15 DE JUNIO DE 2017)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+p) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
-p) Transporten animales feroces y de espectáculos sin jaulas o camiones que garanticen la seguridad e integridad de la ciudadanía; y
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
-
-q) Inciten a los animales para que se acometan entre ellos.
+q) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
 > <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 24 DE AGOSTO DE 2018)</small>
 
@@ -2727,9 +2783,13 @@ r) Realicen en espacios o lugares públicos, en contra de un individuo, sin que 
 
 4. Captación de imágenes, videos o cualquier registro audiovisual del cuerpo o de alguna parte de él, con connotación sexual o lasciva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
 
-V. CONTRA LOS BIENES DE PROPIEDAD PRIVADA Y PROPIEDAD DEL MUNICIPIO y se sancionará con: 1.- Amonestación, 2.- Multa del equivalente del valor diario de 15 a 100 unidades de medida y actualización al momento de determinarla, 3.- Arresto hasta treinta y seis horas o, 4.- Trabajo a favor de la comunidad a las personas que:
+s) Intimidar a una persona o hacerla pasar por una situación humillante o vergonzosa, en lugares públicos;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JULIO DE 2021)</small>
+
+V. CONTRA LOS BIENES DE PROPIEDAD PRIVADA Y PROPIEDAD DEL MUNICIPIO
 
 a) Utilicen el servicio público de transporte y se negasen a pagar el importe correspondiente;
 
@@ -2737,9 +2797,7 @@ a) Utilicen el servicio público de transporte y se negasen a pagar el importe c
 
 b) Por cualquier medio causen molestias que impidan el legítimo uso o disfrute de un inmueble;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-c) Por cualquier medio deterioren, ensucien o hagan uso indebido de inmuebles públicos o privados, murales, pisos, puentes, puentes peatonales, banquetas, contenedores de basura, postes, arbotantes, semáforos, buzones, tomas de agua, señalizaciones viales o de obras, y en general cualquier bien que forme parte del mobiliario e infraestructura urbana;
+c) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2759,9 +2817,7 @@ f) Utilicen, cambien, condicionen o exploten de cualquier forma, el uso o destin
 
 g) Mantengan estacionados por más de quince días o abandonen en las proximidades del domicilio particular, vehículos automotores en estado de inactividad o descompuestos;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-h) Borren, cubran, pinten, destruyan o peguen cualquier leyenda sobre los nombres y letras de las placas, señales o números con que se identifican las calles, vías, inmuebles y lugares públicos del Municipio de Puebla;
+h) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2779,49 +2835,49 @@ k) Practiquen el vandalismo alterando las instalaciones y buen funcionamiento de
 
 l) Dañen plantas, talen, arranquen o partan árboles, pelen o arranquen sus cortezas, deterioren el césped, zonas de jardines, estatuas, monumentos que desmerezcan su valor decorativo y artístico, incluidos en éstos la destrucción de los juegos infantiles que se encuentren en los parques o jardines públicos;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-m) Realicen graffitis, entendiéndose por éstos los dibujos, pinturas, manchas, leyendas, logotipos, inscripción o grafismo con cualquier material (pintura, tinta, aerosoles, rotuladores o análogos) o colocación de calcomanías, emblemas o cualquier tipo de trazo en los inmuebles públicos o privados, bardas, puentes, pisos, banquetas, guarniciones, monumentos, señalamientos de tránsito o cualquier otro bien que se encuentre dentro del Municipio de Puebla, sin la autorización de los propietarios o poseedores o de la Autoridad Municipal competente; y
+m) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 n) Rompan banquetas, pavimento, redes de agua potable y drenaje sin permiso de la Autoridad competente.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-En todos los casos anteriores o cualesquiera que produzca un detrimento o menoscabo en el patrimonio, el infractor además de las sanciones indicadas, deberá reparar a satisfacción del peticionario los daños causados cuando éste proceda, siempre y cuando no esté tipificado como un delito establecido en el Código de Defensa Social para el Estado Libre y Soberano de Puebla.
+En todos los casos anteriores o cualesquiera que produzcan un detrimento o menoscabo en el patrimonio, el infractor además de las sanciones indicadas, deberá reparar a satisfacción del peticionario los daños causados cuando este proceda, siempre y cuando no esté tipificado como un delito establecido en el Código Penal del Estado Libre y Soberano de Puebla.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 209 Bis.
 
-Para la correcta aplicación del artículo anterior y hacer cumplir sus determinaciones, los Jueces Calificadores deberán entender por:
+Para la correcta aplicación del artículo anterior y hacer cumplir sus determinaciones, los Juzgados de Justicia Cívica y de Justicia Cívica Itinerante, deberán entender por:
 
-I. Amonestación.- Es la reconvención, pública o privada, que el Juez haga al infractor. La amonestación privada se realizará si se trata de la infracción primigenia y con amonestación pública en caso de reincidencia;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+I. Amonestación. Es la reconvención, pública o privada, que la Jueza o el Juez el de Justicia Cívica haga a la infractora o infractor. La amonestación privada se realizará si se trata de la infracción primigenia y con amonestación pública en caso de reincidencia;
 
-II. Multa.- Es la cantidad en dinero que el infractor debe pagar y que en ningún caso podrá exceder del equivalente del valor diario de 100 unidades de medida y actualización al momento de cometerse la infracción; exceptuándose cuando se trate del responsable solidario a quien se le impondrá una multa hasta el equivalente del valor diario de 500 unidades de medida y actualización al momento de cometerse la infracción;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+II. Multa. Es la cantidad en dinero que la infractora o el infractor debe pagar y que en ningún caso podrá exceder del equivalente del valor diario de 100 unidades de medida y actualización al momento de cometerse la infracción.
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
 III. Arresto.- Es la privación de la libertad por un periodo hasta por treinta y seis horas, que se cumplirá en el lugar destinado para tal efecto;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-IV. Trabajo a favor de la comunidad.- Se entiende por éste la prestación de servicios no remunerados, en la dependencia, institución, órgano o cualquier otra, que para tal efecto se establezca, a fin de lograr que el infractor resarza la afectación ocasionada por la infracción cometida, y en su caso, se logre la reinserción familiar y social; y
+IV. Trabajo a favor de la comunidad. Se entiende por éste la prestación de servicios no remunerados, en la dependencia, institución, órgano o cualquier otra, que para tal efecto se establezca, o bien a las medidas para mejorar la sana convivencia que se emplee de acuerdo al dictamen psicosocial realizado, a fin de lograr que la persona infractora reconozca el daño y resarza la afectación ocasionada por la infracción cometida, y en su caso se logre la reinserción familiar y social; y
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-Las sanciones señaladas en las fracciones II y III podrán ser conmutables por el programa social de trabajo a favor de la comunidad, siempre y cuando medie solicitud por escrito del infractor, requiriendo acogerse a esta modalidad o bien cuando se produzca un acuerdo a través de la utilización de los medios alternativos de solución de controversias del Municipio de Puebla.
+Si la persona infractora no pagare la multa que se le hubiese impuesto, se permutará esta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 210.
 
-Se entiende por reincidencia, para los efectos del presente Capítulo, y para la correcta aplicación del artículo 214 del este ordenamiento, cuando un individuo cometa por más de una ocasión, una o varias de las faltas administrativas mencionadas en el artículo anterior, las cuales hayan sido sancionadas, pecuniaria o corporalmente, por un Juez Calificador.
+Se entiende por reincidencia, para los efectos del presente Capítulo, y para la correcta aplicación del artículo 214 de este ordenamiento, cuando un individuo cometa por más de una ocasión, una o varias de las faltas administrativas mencionadas en el artículo anterior y ya exista una resolución en la cual se sancione al infractor.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-Al reincidente, se le aplicará el doble de las sanciones pecuniarias establecidas en el artículo 209, la sanción privativa de la libertad no podrá exceder de TREINTA Y SEIS horas de arresto.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2841,57 +2897,73 @@ IV. Organizar o ejercer el comercio en la vía pública sin autorización, o con
 
 V. Realizar graffitis sin la autorización correspondiente o en lugares no autorizado para ello.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
-Se exceptúan de la inconmutabilidad a los menores de edad.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-A efecto de cumplir cabalmente con lo dispuesto en este artículo, se llevará un registro de los infractores, a través de los medios que se estimen convenientes por parte de la Sindicatura Municipal, estableciendo en dicho registro el nombre del infractor, la fecha, el motivo y la sanción impuesta, debiendo consultarse la existencia previa en el registro, para el efecto de establecer la reincidencia.
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+A efecto de cumplir cabalmente con lo dispuesto en este artículo, se llevará un registro de las personas infractoras, a través de los medios que se estimen convenientes por parte de la Sindicatura Municipal, estableciendo en dicho registro el nombre de la persona infractora, la fecha, el motivo y la sanción impuesta, debiendo consultarse la existencia previa en el registro, para el efecto de establecer la reincidencia, debiendo hacer referencia o anexar el antecedente en la resolución respectiva.
 
 ###### Artículo 211.
 
-La base para cuantificar la multa a que se refiere el artículo anterior, será el valor diario de la unidad de medida y actualización al momento de cometerse la infracción.
+(DEROGADO, P.O. 5 DE JULIO DE 2021)
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 212.
 
-Sólo en los casos de que los responsables sean sorprendidos al momento de cometer la infracción, o en su caso, sean perseguidos por la autoridad o un particular, habrá lugar a su detención por elementos de las fuerzas de Seguridad Pública o Tránsito Municipal, cualquier autoridad o particular, tal como lo indica el artículo 16 párrafo V de la Constitución Política de los Estados Unidos Mexicanos, quienes deberán trasladar de inmediato al infractor ante el Juez Calificador o ante la Policía según sea el caso, poniéndolo a disposición de dicha autoridad, o cuando sea perseguido luego de cometerla, mediante boleta de remisión y/o del informe policial homologado considerado en el Código de Procedimientos Penales en el Estado de Puebla, acompañada de dictamen clínico/toxicológico, registro de cadena de custodia y la demostración de la lectura de derechos realizada por el elemento que efectuó la detención cuando el ordenamiento jurídico señalado entre en vigor.
+Sólo en los casos de que las o los responsables sean sorprendidos al momento de cometer la infracción, o en su caso sean perseguidos por la autoridad o un particular, habrá lugar a su detención por elementos de los cuerpos de Seguridad Pública, cualquier autoridad o particular, tal como lo indica el artículo 16 párrafo V de la Constitución Política de los Estados Unidos Mexicanos, quienes deberán trasladarlos de inmediato al Juzgado de Justicia Cívica o ante la policía según sea el caso, poniéndolos a disposición de dicha Autoridad, o cuando sea perseguido luego de cometerla, mediante el informe policial homologado correspondiente, acompañada de dictamen clínico/toxicológico, registro de cadena de custodia y la demostración de la lectura de derechos realizada por el elemento que efectuó la detención.
 
-En los demás casos, el Juez Calificador ordenará la comparecencia del presunto infractor para poder substanciar el procedimiento en materia de faltas al presente Capítulo, con los apercibimientos correspondientes, indicando expresamente la posibilidad de recurrir a los mecanismos alternativos de solución de controversias con los que cuenta el Ayuntamiento de Puebla.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-En ningún caso quien presente al presunto infractor realizará ninguna calificación jurídica de los hechos, sino que al momento de presentarlo y durante el procedimiento se expresará solamente sobre los hechos, acciones u omisiones del presentado, así como las pruebas que tuviere a disposición. El Juez Calificador será, en todo momento quien, en relación a los hechos y pruebas recibidas determinará la infracción y la sanción que le corresponda.
+En los demás casos, la Jueza o Juez de Justicia Cívica o de Justicia Cívica Itinerante ordenará la comparecencia de la o el presunto infractor para poder substanciar el procedimiento en materia de faltas al presente Capítulo, con los apercibimientos correspondientes, haciendo de su conocimiento de la posibilidad de recurrir a los mecanismos alternativos de solución de controversias, como lo son la mediación, la conciliación y la justicia restaurativa y en caso de que las partes consideren someterse a los mismos, procurará su avenimiento; de llegarse a éste, se hará constar por escrito el convenio entre las partes.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JULIO DE 2021)</small>
+
+El convenio de mediación o conciliación puede tener por objeto:
+
+I. La reparación del daño; y
+
+II. No reincidir en conductas que den motivo a un nuevo procedimiento administrativo.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+En el convenio se establecerá el término para el cumplimiento de lo señalado en la fracción I, así como para los demás acuerdos que asuman las partes.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+La o el Juez de Justicia Cívica o de Justicia Cívica Itinerante, podrá remitir a las partes con una persona mediadora para que intenten solucionar el conflicto que les afecte y en el supuesto de que se alcance un convenio de mediación o conciliación, lo calificará y en su caso, lo elevará a resolución administrativa.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+Cuando se produzca incumplimiento de un convenio de mediación o conciliación por dificultades de interpretación del convenio o por causas supervenientes, la o el Juez de Justicia Cívica o de Justicia Cívica Itinerante, remitirá a las personas involucradas con una persona mediadora o conciliadora para que se desahogue una re- mediación.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+El incumplimiento del convenio de conciliación o mediación o re-mediación cuando la o el Juez de Justicia Cívica haya remitido a las partes a ese procedimiento, será sancionado como falta administrativa.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+A partir del incumplimiento del convenio, la persona afectada tendrá 15 días para solicitar que se haga efectivo el apercibimiento.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+En el caso de que las partes manifestaran su voluntad de no mediar o conciliar, o someterse al procedimiento de justicia restaurativa, se dará por concluida la audiencia de mediación o conciliación y se iniciará la audiencia sobre la responsabilidad de la persona probable infractora.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE JULIO DE 2021)</small>
+
+En ningún caso quien presente a la presunta o presunto infractor realizará ninguna calificación jurídica de los hechos, sino que al momento de su presentación y durante el procedimiento se expresará solamente sobre los hechos, acciones u omisiones de la persona presentada, así como las pruebas que tuviere a disposición. La Jueza o Juez de Justicia Cívica o de Justicia Cívica Itinerante de ser el caso será, en todo momento quien, en relación a los hechos y pruebas recibidas determinará la infracción y la sanción que le corresponda.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 212 Bis.
 
-La boleta de remisión a la que se refiere el artículo anterior deberá estar elaborada sin correcciones y tachaduras, y contener por lo menos los siguientes datos:
+El informe policial homologado y el registro de cadena de custodia a la que se refiere el artículo anterior, deberán estar elaborados sin correcciones ni tachaduras, y realizados en los formatos aprobados por los Lineamientos que emitan la autoridad federal correspondiente.
 
-I. Número de folio y hora de la remisión;
-
-II. Nombre, edad y domicilio del presunto infractor, en caso de que se proporcione, en caso contrario, se señalará la descripción física del infractor;
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-III. Una relación clara de los hechos y pruebas si las hubiere de la infracción o infracciones cometidas, anotando circunstancias de modo, tiempo y lugar;
-
-IV. Descripción de todas las pertenencias del presunto infractor;
-
-V. Nombre, domicilio y firma de la parte peticionaria si la hay; y
-
-VI. Nombre, número de placa, jerarquía, número de vehículo, sector y firma de la Autoridad remitente.
-
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
-
-Una vez iniciada la vigencia del Código de Procedimientos Penales en el Estado de Puebla, el informe policial homologado y el registro de cadena de custodia a la que se refiere el artículo anterior, deberán estar elaboradas sin correcciones ni tachaduras, y realizados en los formatos aprobados por la Procuraduría General de la República o el Sistema Nacional de Seguridad Pública según corresponda, y en ningún caso hará mención a la calificación jurídica de los hechos, acciones u omisiones.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 213.
 
-Al Juez Calificador se le deberá acreditar con prueba fehaciente si el infractor fuese jornalero u obrero, y en tal caso éste no podrá aplicar como sanción una multa mayor al importe de su jornada o salario de un día; tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de ingreso.
+A la Jueza o Juez de Justicia Cívica o de Justicia Cívica Itinerante se le deberá acreditar con prueba fehaciente si la infractora o infractor trabaja por jornada y cobra en razón de jornal, o fuese obrera u obrero, y en tal caso éste no podrá aplicar como sanción una multa mayor al importe de su jornada o salario de un día; tratándose de trabajadoras o trabajadores no asalariados, la multa no excederá del equivalente a un día de ingreso.
 
 ###### Artículo 214.
 
@@ -2899,23 +2971,37 @@ Para la aplicación y la individualización de las sanciones, se tomarán en con
 
 a) Reincidencia;
 
-b) Si se produjo alarma pública;
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+b) La gravedad y consecuencias de la alteración del orden en la vía pública o en algún evento o espectáculo;
 
-c) Si hubo oposición del infractor al momento de su detención;
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+c) Si hubo oposición o amenazas de la persona infractora al momento de su detención;
 
-d) Los vínculos del infractor con el ofendido; y
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-e) Si se puso en peligro a las personas o sus bienes, y las circunstancias de modo, lugar y tiempo en que se cometieron las faltas.
+d) Los vínculos de la infractora o infractor con la parte ofendida;
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
+
+e) Si se puso en peligro la integridad de alguna persona o los bienes de terceros, y las circunstancias de modo, lugar y tiempo en que se cometieron las faltas administrativas;
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+f) Una lógica de priorización de sanciones convencionales en el orden de: amonestación, trabajo a favor de la comunidad, multa y arresto; y
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+g) Las características personales, sociales, culturales y económicas del infractor.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 215.
 
-En todo caso una vez que el Juez Calificador determine la sanción que corresponda, el infractor podrá elegir entre cubrir la multa que se le fije o purgar el arresto que le corresponda.
+Una vez que la Jueza o Juez de Justicia Cívica o de Justicia Cívica Itinerante determine la sanción que corresponda, en caso de que se imponga la multa o el arresto como sanción, la persona infractora podrá elegir entre cubrir la multa que se le fije o purgar el arresto que le corresponda.
 
-Tomando en cuenta lo antes mencionado, si el infractor no pagare la multa que se le hubiere impuesto o sólo cubriere parte de ésta, el Juez Calificador la conmutará como arresto, que no excederá de los parámetros establecidos como máximo de la multa establecida en el artículo 209 del presente Capítulo, considerando proporcionalmente, para reducir la duración de aquel, la parte de la multa que el infractor hubiere pagado.
+Tomando en cuenta lo antes mencionado, si la persona infractora no pagare la multa que se le hubiere impuesto o sólo cubriere parte de ésta, la Jueza o Juez de Justicia Cívica la conmutará como arresto, que no excederá de los parámetros establecidos como máximo de la multa establecida en el artículo 209 del presente Capítulo, considerando proporcionalmente, para reducir la duración de aquel, la parte de la multa que la persona infractora hubiere pagado.
 
 DE LA RESPONSABILIDAD
 
@@ -2929,29 +3015,39 @@ I. Que tomaren parte en su ejecución;
 
 II. Que indujeren o compelieren a otros o cometerla;
 
-III. Que tenga bajo su cuidado o responsabilidad a un menor de edad que haya cometido cualquier falta administrativa establecida en este Código; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-IV. Que tenga bajo su cuidado o responsabilidad a un menor de edad, que reincida en la comisión de cualquier falta administrativa, si habiendo sido apercibido en anterior ocasión, no demostraren que tomaron medidas preventivas y de orientación correspondiente para evitar la reincidencia del menor.
+III. Que tenga bajo su cuidado o responsabilidad a un adolescente que haya cometido cualquier falta administrativa establecida en este Código; y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+IV. Que tenga bajo su cuidado o responsabilidad a un adolescente, que reincida en la comisión de cualquier falta administrativa, si habiendo sido apercibido en anterior ocasión, no demostraren que tomaron medidas preventivas y de orientación correspondiente para evitar la reincidencia del adolescente.
 
 La responsabilidad determinada conforme a este Código es autónoma de las consecuencias jurídicas que las conductas pudieran generar en otro ámbito.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
+
 ###### Artículo 217.
 
-Las personas que padezcan alguna enfermedad mental, no serán responsables de las faltas que cometan, pero se amonestará a quienes legalmente los tengan bajo su cuidado, para que adopten las medidas necesarias con el objeto de evitar las infracciones.
+Las personas que padezcan alguna enfermedad mental, no serán responsables de las faltas administrativas que cometan, pero se amonestará o se le invitará a llevar a cabo un medio alternativo de solución de conflictos, a quienes legalmente los tengan bajo su cuidado, para que adopten las medidas necesarias con el objeto de evitar las infracciones.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 218.
 
-Las personas que padezcan incapacidad física, serán sancionadas por las faltas que cometan, siempre que aparezca que su incapacidad no influyó determinantemente sobre su responsabilidad en los hechos.
+Las personas que padezcan alguna discapacidad, serán sancionadas por las faltas administrativas que cometan, siempre que aparezca que su discapacidad no influyó determinantemente sobre su responsabilidad en los hechos.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 219.
 
-Cuando una falta se ejecute con la intervención de 2 o más personas y no constare la forma en que dichas personas actuaron, pero sí su participación en el hecho, a cada una se le aplicará la sanción que para la falta señale este Capítulo. El Juez Calificador podrá aumentar las sanciones discrecionalmente sin rebasar el límite máximo señalado por este Capítulo si apareciere que los infractores se ampararon en la fuerza o anonimato del grupo para cometer la falta.
+Cuando una falta administrativa se ejecute con la intervención de 2 o más personas y no constare la forma en que dichas personas actuaron, pero sí su participación en el hecho, a cada una se le aplicará la sanción que para la falta administrativa señale este Capítulo.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 219 Bis.
 
-Cuando con una sola conducta el infractor transgreda varios preceptos, el Juez Calificador impondrá la sanción mayor.
+Cuando con una sola conducta la persona infractora transgreda varios preceptos, la Jueza o Juez de Justicia Cívica o de Justicia Cívica Itinerante impondrá la sanción mayor.
 
 ORGANIZACIÓN ADMINISTRATIVA
 
@@ -2959,223 +3055,321 @@ ORGANIZACIÓN ADMINISTRATIVA
 
 Las unidades administrativas municipales responsables de la aplicación de este Capítulo en los términos que el mismo señala son los siguientes:
 
-I. El C. Presidente Municipal;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-II. El Síndico Municipal;
+I. La Presidenta Municipal o Presidente Municipal;
 
-III. La Comisión de Gobernación;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-IV. La Dirección de Juzgados Calificadores;
+II. La o el Síndico Municipal;
 
-V. Los Juzgados Calificadores
+III. (DEROGADA, P.O. 5 DE JULIO DE 2021)
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-VI. La Dependencia del Honorable Ayuntamiento, que tenga a su cargo la Seguridad Pública y Tránsito Municipal;
+IV. La Dirección de Juzgados de Justicia Cívica;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-VII. La Dependencia del H. Ayuntamiento, que tenga a su cargo el control de giros comerciales;
+V. Los Juzgados de Justicia Cívica o las y los Jueces de Justicia Cívica Itinerante.
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VI. La Dependencia del Honorable Ayuntamiento, que tenga a su cargo la Seguridad Ciudadana;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VII. La Dependencia del Honorable Ayuntamiento, que tenga a su cargo el control de giros comerciales;
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
 VIII. La Dirección de Mediación, Conciliación y Arbitraje Condominal;
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-IX. Los mediadores y conciliadores; y
+IX. Las personas mediadoras o conciliadoras; y
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-X. Los Defensores.
+X. Las y los Defensores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 221.
 
-Al C. Presidente Municipal corresponde:
+A la Presidenta o Presidente Municipal corresponde:
 
-I. La designación y remoción del Director de los Juzgados Calificadores a propuesta del Síndico Municipal; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+I. La designación y remoción de la o el Director de Juzgados de Justicia Cívica a propuesta del titular de la Sindicatura Municipal;
 
-II. La designación y remoción de los Jueces Calificadores, Secretarios, Alcaides, Supervisores, Notificadores, Defensores y Defensores pasantes de los Juzgados Calificadores, a propuesta del Síndico Municipal.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+II. La designación y remoción de las y los Jueces de Justicia Cívica o de Justicia Cívica Itinerante, las personas notificadoras, las y los Defensores, Médicos legistas, las personas Mediadoras, Psicólogos y Psicólogas, a propuesta del titular de la o el Síndico Municipal;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+III. Aprobar el número, distribución y competencia territorial de los Juzgados de Justicia Cívica en el municipio, y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+IV. Instruir a las autoridades municipales, en el ámbito de sus respectivas competencias, a las acciones tendientes a la difusión, promoción y cumplimento de las disposiciones del presente Código.
 
 ###### Artículo 222.
 
 Al Síndico Municipal corresponde:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-I. Proponer los lineamientos y criterios de carácter técnico y jurídico a que se sujetará el funcionamiento de los Juzgados Calificadores;
+I. Proponer los lineamientos y criterios de carácter técnico y jurídico a que se sujetará el funcionamiento de los Juzgados de Justicia Cívica;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-II. Supervisar y aprobar, en su caso, el funcionamiento de los Juzgados Calificadores y la correcta aplicación del presente Capítulo;
+II. Supervisar y aprobar, en su caso, el funcionamiento de los Juzgados de Justicia Cívica y la correcta aplicación del presente Capítulo;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-III. Autorizar junto con el Secretario del Honorable Ayuntamiento, los Libros de Gobierno que se lleven en los Juzgados Calificadores para el control de remitidos y detenidos; facultad que podrá ser delegada al Director de Juzgados Calificadores;
+III. Autorizar junto con la persona titular de la Secretaría del Honorable Ayuntamiento, los Libros de Gobierno que se lleven en los Juzgados de Justicia Cívica para el control de remitidos y detenidos; facultad que podrá ser delegada a la o el Director de Juzgados de Justicia Cívica;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-IV. Proponer al Presidente Municipal el número, distribución y competencia territorial de los Juzgados que deban funcionar;
+IV. Proponer a la o el Presidente Municipal el número, distribución y competencia territorial de los Juzgados que deban funcionar;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 V. Diseñar los procedimientos para la supervisión, control y evaluación periódica del personal de los Juzgados;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-VI. Diseñar y desarrollar los contenidos del curso propedéutico correspondiente para la capacitación de los Jueces y Secretarios e instrumentar mecanismos de actualización mediante convenios con instituciones académicas, debiendo contar con la anuencia del Presidente Municipal;
+VI. Diseñar y desarrollar los contenidos del curso propedéutico correspondiente para la capacitación de las y los Jueces e instrumentar mecanismos de actualización mediante convenios con instituciones académicas, debiendo contar con la anuencia de la o el Presidente Municipal;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-VII. Promover la difusión de la Justicia, la Mediación, Conciliación y Arbitraje Condominal, a través de campañas de información sobre sus objetivos y procedimientos;
+VII. Promover la difusión de la Justicia Cívica, los medios alternos de solución de conflictos, a través de campañas de información sobre sus objetivos y procedimientos en los Juzgados de Justicia Cívica, contribuyendo con ello a la promoción de la Cultura de Paz;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-VIII. Proponer al Presidente Municipal normas y criterios para mejorar los recursos y funcionamiento de la Justicia Municipal;
+VIII. Proponer a la o el Presidente Municipal normas y criterios para mejorar los recursos y funcionamiento de la Justicia Municipal;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-IX. Proponer y establecer Convenios de Colaboración que contribuyan al mejoramiento de los servicios de los Juzgados Calificadores, tanto en materia de profesionalización, como de coordinación con otras Instancias Públicas o Privadas, de orden Federal o Local, en beneficio de toda persona que sea presentada ante el Juzgado; así como también para la designación de los representantes que asistan a los menores, en los procedimientos que regula este Código. Dichas bases tendrán como finalidad, la canalización de menores que se encuentren en riesgo;
+IX. Proponer y establecer Convenios de Colaboración que contribuyan al mejoramiento de los servicios de los Juzgados de Justicia Cívica, tanto en materia de profesionalización, como de coordinación con otras Instancias Públicas o Privadas, de orden Federal o Local, en beneficio de toda persona que sea presentada ante el Juzgado; así como también para la designación de los representantes que asistan a los adolescentes, en los procedimientos que regula este Código. Dichas bases tendrán como finalidad, la canalización de adolescentes que se encuentren en riesgo;
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
 X. Integrar el Registro de Infractores, mismo que contará con fotografía digital y huella dactilar digitalizada para la identificación de reincidencias;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-XI. Establecer con la Secretaría de Seguridad Pública y Tránsito Municipal, los mecanismos necesarios para el intercambio de información respecto de las remisiones de infractores, procedimientos iniciados y concluidos, sanciones aplicadas e integración del Registro de Infractores y la capacitación y certificación de los elementos de Seguridad Pública en materia de Informe Policial Homologado, Cadena de Custodia y Sistema Acusatorio Adversarial ya que corresponde a los elementos de dicha Secretaría, realizar las acusaciones e imputaciones durante el proceso de la Justicia Municipal, como lo establece el artículo 250 del presente ordenamiento legal;
+XI. Establecer con la Secretaría de Seguridad Ciudadana, Secretaría de Seguridad Pública del Estado de Puebla y demás autoridades competentes, los mecanismos necesarios para el intercambio de información respecto de las remisiones de las personas infractoras, procedimientos iniciados y concluidos, sanciones aplicadas e integración del Registro de Infractores y la capacitación y certificación, previo convenio correspondiente, de los elementos de Seguridad Pública en materia de Informe Policial Homologado, Cadena de Custodia y Sistema de Justicia Cívica;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XII. Establecer los mecanismos para la supervisión de la realización de actividades de apoyo a la comunidad;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-XIII. Entregar copia simple o certificada sobre hechos asentados en las actas de audiencia y los libros de registro del Juzgado Calificador o de las grabaciones de audio y video que correspondan; facultad que puede ser delegada al Director de Juzgados Calificadores;
+XIII. Entregar copia simple o certificada sobre hechos asentados en las actas de audiencia y los libros de registro del Juzgado de Justicia Cívica o de las grabaciones de audio y video que correspondan; facultad que puede ser delegada a la o el Director de Juzgados de Justicia Cívica;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-XIV. Emitir la convocatoria para examen de oposición y establecer los criterios de selección para los cargos de Juez Calificador, Secretario, Defensores o Defensores pasantes en los Juzgados Calificadores. Los cargos a que se refiere esta fracción serán propuestos al Presidente Municipal por el Síndico Municipal; y
+XIV. Emitir la convocatoria para examen de oposición y establecer los criterios de selección para los cargos de jueza o juez de Justicia Cívica, las y los defensores, médicos legistas, las personas mediadoras, psicólogos y psicólogas en los Juzgados de Justicia Cívica;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2021)</small>
 
-XV. Las demás facultades que le confiera el presente Capítulo; así como las que le encomiende el Ayuntamiento y el Presidente Municipal.
+XV. Proponer a la o el Presidente Municipal los nombramientos, adscripción y remoción del personal de los Juzgados de Justicia Cívica;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+XVI. Celebrar convenios con instituciones públicas y privadas para lograr la canalización de personas infractoras a efecto de realizar el trabajo a favor de la comunidad;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+XVII. Dotar a los Juzgados de Justicia Cívica del personal suficiente para el desempeño de sus funciones, de conformidad con la disponibilidad presupuestal; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE JULIO DE 2021)</small>
+
+XVIII. Las demás facultades que le confiera el presente Capítulo; así como las que le encomiende el Ayuntamiento y la o el Presidente Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 223.
 
-Al Director de los Juzgados Calificadores corresponde:
+A la o el Director de Juzgados de Justicia Cívica corresponde:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-I. Supervisar y vigilar el funcionamiento de los Juzgados Calificadores, a fin de que realicen sus funciones de manera eficiente conforme a las disposiciones legales, a los lineamientos y criterios emitidos;
+I. Supervisar y vigilar el funcionamiento de los Juzgados de Justicia Cívica, a fin de que realicen sus funciones de manera eficiente conforme a las disposiciones legales, a los lineamientos y criterios emitidos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-II. Recibir para su guarda y destino correspondiente, los documentos y objetos que le remitan. Llevando un Libro para Registro de Bienes y Valores Asegurados, durante los procedimientos efectuados en los Juzgados Calificadores y en su caso decidir el destino que se les dará a los mismos;
+II. Recibir para su guarda y destino correspondiente, los documentos y objetos que le remitan. Llevando un Libro para Registro de Bienes y Valores Asegurados, durante los procedimientos efectuados en los Juzgados de Justicia Cívica y en su caso decidir el destino que se les dará a los mismos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-III. Obtener la cooperación del DIF Municipal y de las Instituciones de Asistencia Social correspondientes para las personas presentadas en los Juzgados Calificadores, cuando se trate de menores de edad, enfermos graves o contagiosos, o que padezcan enfermedades mentales, toxicómanos o alcoholizados;
+III. Obtener la cooperación del DIF Municipal y de las Instituciones de Asistencia Social correspondientes para las personas presentadas en los Juzgados de Justicia Cívica, cuando se trate de niñas, niños y adolescentes, enfermos graves o contagiosos, o que padezcan enfermedades mentales, toxicómanos o alcoholizados;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-IV. Supervisar y aprobar, en su caso, los informes diarios que determinen y rindan los Jueces Calificadores;
+IV. Supervisar y aprobar, en su caso, los informes diarios que determinen y rindan las y los Jueces;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-V. Establecer los exámenes de ingreso y confianza para todo el personal a su cargo en el momento que lo considere necesario; y
+V. Establecer los exámenes de ingreso y confianza para todo el personal a su cargo en el momento que lo considere necesario;
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2021)</small>
 
-VI. Las demás funciones que le confiera el presente Código y otras disposiciones legales aplicables.
+VI. Establecer las medidas necesarias para evitar que el personal adscrito a la Dirección a su cargo, incurra en deficiencia del servicio, abuso o ejercicio indebido de su empleo cargo o comisión;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VII. Proponer al Síndico la creación, modificación, fusión o extinción de las Unidades Administrativas a su cargo;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VIII. Denunciar por escrito o mediante comparecencia directa ante la Contraloría, los hechos o abstenciones que sean causa de responsabilidad administrativa, imputables a personal del servicio públicos (sic), que advierta en el ejercicio de sus funciones;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+IX. Reconsiderar cuando exista causa justificada, las sanciones impuestas por las y los Jueces, debiendo informar lo conducente al Síndico;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+X. Dictar las medidas emergentes para subsanar las irregularidades detectadas mediante los medios que se realicen para supervisar a los Juzgados;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+XI. Recibir y dar seguimiento a las quejas presentadas por los ciudadanos, en contra del personal del Juzgado;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+XII. Cuidar y vigilar que se respeten las garantías y los derechos humanos, en el procedimiento administrativo seguido ante los Jueces;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+XIII. Habilitar al personal para suplir las ausencias de la o el Juez y del personal siempre y cuando el cargo y los conocimientos a desempeñar lo permitan;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+XIV. Proponer al Síndico la creación y apertura de Juzgados, dependiendo de las necesidades que se tengan en el Municipio, así como las normas y criterios para mejorar el funcionamiento de la Justicia Municipal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE JULIO DE 2021)</small>
+
+XV. Las demás funciones que le confiera el presente Código y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 223 Bis.
 
-La supervisión de los Juzgados Calificadores estará a cargo de un Jefe de Departamento de Supervisión y dos Supervisores.
+La supervisión de los Juzgados de Justicia Cívica estará a cargo de una o un Jefe de Departamento de Supervisión.
 
-LOS JUZGADOS CALIFICADORES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+LOS JUZGADOS DE JUSTICIA CÍVICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 224.
 
-En el Juzgado Calificador se llevarán los registros que determine la Sindicatura, y contará con los espacios físicos siguientes:
+En el Juzgado de Justicia Cívica se llevarán los registros que determine la Sindicatura Municipal, y contará con los espacios físicos siguientes:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 I. Sala de Audiencias;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 II. Sección de Recuperación para personas en estado de ebriedad o intoxicadas;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 III. Sección de Menores;
 
-IV. Sección Médica; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-V. Área de Seguridad.
+IV. Sección Médica;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+V. Área de Seguridad;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VI. Área para llevar a cabo los medios alternos de solución de conflictos; y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VII. Área de evaluación psicosocial.
 
 Las secciones a que se refieren las fracciones II, III y V contarán con departamentos separados para hombres y mujeres.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 225.
 
-Cada Juzgado Calificador actuará en turnos sucesivos, las veinticuatro horas los trescientos sesenta y cinco días del año, para tal efecto se instituirán los Jueces Calificadores que se requieran, los cuales desempeñaran sus funciones por jornadas de veinticuatro horas, cada uno y descansando cuarenta y ocho horas; gozando el personal adscrito a la Dirección de los Juzgados Calificadores de los periodos vacacionales a que tenga derecho, en forma escalonada y calendarizada, para que no se interrumpa la continuidad del servicio.
+Cada Juzgado de Justicia Cívica actuará en turnos sucesivos, las veinticuatro horas los trescientos sesenta y cinco días del año, para tal efecto se instituirán las y los Jueces de Justicia Cívica que se requieran, los cuales desempeñaran sus funciones por jornadas de veinticuatro horas, cada uno y descansando veinticuatro horas; gozando el personal adscrito a la Dirección de Juzgados de Justicia Cívica de los periodos vacacionales a que tenga derecho, en forma escalonada y calendarizada, para que no se interrumpa la continuidad del servicio.
 
-El Juzgado Calificador estará integrado por cada turno, cuando menos, del personal siguiente:
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-I. Un Juez;
+El Juzgado de Justicia Cívica estará integrado por cada turno, cuando menos, del personal siguiente:
 
-II. Un Secretario;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+I. Una Jueza o Juez;
 
-III. Un Alcaide;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA P.O. 25 DE MAYO DE 2012)</small>
+II. Una Defensora o Defensor;
 
-IV. Dos Policías Preventivos comisionados por la Secretaría de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+III. Una persona Mediadora;
 
-V. Un Médico Legista;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+IV. Una o un Médico Legista;
 
-VI. Un Psicólogo;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+V. Una Psicóloga o Psicólogo;
 
-VII. Un Defensor designado; y/o
+VI. (DEROGADA, P.O. 5 DE JULIO DE 2021)
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+VII. (DEROGADA, P.O. 5 DE JULIO DE 2021)
 
-VIII. Un Defensor pasante quien cumplirá su servicio social en el Ayuntamiento.
+VIII. (DEROGADA, P.O. 5 DE JULIO DE 2021)
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-El Juez Calificador se auxiliará del Médico Legista en turno adscrito al Juzgado, o en su caso, del Médico Legista del Tribunal Superior de Justicia adscrito a cada Delegación del Ministerio Público.
+La Jueza o Juez de Justicia Cívica se auxiliará de la o el Médico Legista en turno adscrito al Juzgado o en su caso de un Médico Legista adscrito a la Secretaría de Seguridad Ciudadana o bien de la Secretaría de Seguridad Pública del Estado.
 
-Asimismo el Juez Calificador se auxiliará de un notificador adscrito a la Dirección de los Juzgados Calificadores.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+Asimismo, los Juzgados de Justicia Cívica se auxiliarán de una persona notificadora adscrita a la Dirección de Juzgados de Justicia Cívica.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+En el caso de la o el Juez de Justicia Cívica Itinerante, se auxiliará de los servidores públicos necesarios para el correcto desarrollo de sus labores.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 225 Bis.
 
-El Juez Calificador deberá tomar las medidas necesarias para que los asuntos de su competencia se resuelvan durante el ejercicio de sus funciones, debiendo bajo su estricta responsabilidad, entregar las actuaciones practicadas hasta ese momento, dejando a disposición del Juez que inicia turno a los infractores que se encuentren en el Área de Seguridad.
+La Jueza o Juez de Justicia Cívica deberá tomar las medidas necesarias para que los asuntos de su competencia se resuelvan durante el ejercicio de sus funciones, debiendo bajo su estricta responsabilidad, entregar las actuaciones practicadas hasta ese momento, dejando a disposición de la Jueza o Juez que inicia turno a las personas infractoras que se encuentren en el Área de Seguridad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 226.
 
-Para ser Juez Calificador se requiere:
+Para ser Jueza o Juez de Justicia Cívica se requiere:
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-I. Ser ciudadano mexicano;
+I. Tener la ciudadanía mexicana;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-II. Ser Abogado o Licenciado en Derecho con al menos un año de experiencia profesional, debiendo contar con Cédula y Título Profesional;
+II. Ser Abogada o Abogado o Licenciada o Licenciado en Derecho con al menos un año de experiencia profesional, debiendo contar con Cédula y Título Profesional;
 
 III. Tener una vecindad no menor de tres años en el Municipio de Puebla;
 
@@ -3183,409 +3377,491 @@ III. Tener una vecindad no menor de tres años en el Municipio de Puebla;
 
 IV. No ejercer ningún otro cargo público en la administración municipal;
 
-V. No haber sido sentenciado por la comisión de un delito doloso;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+V. No haber sido sentenciada o sentenciado por la comisión de un delito doloso, ni estar sujeto a un proceso penal.
 
-VI. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+VI. No haber sido suspendida o suspendido o inhabilitada o inhabilitado para el desempeño de un cargo público;
 
-VII. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados Calificadores; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+VII. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados de Justicia Cívica;
 
-VIII. Estar certificado en el procedimiento Acusatorio Adversarial y Oral por Institución independiente de cualquier orden de gobierno o educativa.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JULIO DE 2021)</small>
+
+VIII. Contar con certificación o conocimiento en el Sistema de Justicia Penal Acusatorio y de Justicia Cívica;
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+Para ser Jueza o Juez de Justicia Cívica en el Procedimiento Administrativo Especial para la impartición de Justicia Municipal para Adolescentes, además de lo establecido en este artículo, se requiere acreditar conocimientos en materia de derechos de adolescentes, medidas de sanciones especiales y prevención de delitos o faltas administrativas para adolescentes, y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+IX. Estar certificado o contar con conocimientos en materia de mecanismos alternativos de solución de controversias.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 227.
 
-El cargo de Juez Calificador es compatible con el libre ejercicio la profesión, salvo en asuntos que tengan su origen en los Juzgados Calificadores del Municipio.
+El cargo de Jueza o Juez de Justicia Cívica es compatible con el libre ejercicio de la profesión, salvo en lo establecido en la fracción IV del artículo 226 del presente Código, así como asuntos que tengan su origen en los Juzgados de Justicia Cívica del Municipio.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 228.
 
-En las faltas eventuales del Juez Calificador, éste será sustituido por el Secretario del turno respectivo, o en su caso el Director de los Juzgados Calificadores señalará a quien lo sustituya.
+En las faltas eventuales de la Jueza o Juez de Justicia Cívica, éste será sustituido por el servidor público que cumpla con las condiciones señaladas en el artículo 226 del presente Código y que sea designado por el Director de Juzgados de Justicia Cívica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 229.
 
-Son facultades y atribuciones de los jueces calificadores:
+Son facultades y atribuciones de las y los jueces de justicia cívica:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-I. Declarar la responsabilidad o no responsabilidad de los probables infractores; incorporando en su caso a los infractores mayores de doce años y menores de dieciocho años a la comisión, dependencia, institución, órgano o cualquier otra, que para tal efecto se establezca, a fin de lograr su reinserción familiar y social;
+I. Declarar la responsabilidad o no responsabilidad de las y los probables infractores; incorporando en su caso a los mayores de doce años y menores de dieciocho años a la comisión, dependencia, institución, órgano o cualquier otra, que para tal efecto se establezca, a fin de lograr su reinserción familiar y social;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-II. Aplicar las sanciones establecidas en este Capítulo y las aplicables, así como vigilar la ejecución de las mismas;
+II. Aplicar las sanciones establecidas en este Capítulo y las aplicables; así como vigilar la ejecución de las mismas, con perspectiva de género y sin discriminación;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-III. Ejercitar de oficio las funciones conciliatorias cuando de la falta cometida deriven daños y perjuicios que deban reclamarse por la vía civil.
+III. Ejercitar las funciones de conciliación, mediación o el procedimiento de justicia restaurativa, en casos necesarios, cuando de la falta administrativa cometida deriven daños y perjuicios que deban reclamarse por la vía civil, y en el caso de que las partes lleguen a un acuerdo, el o la juez lo elevará a carácter de resolución administrativa.
 
-Entre particulares, cuando con motivo de la comisión de alguna infracción se causen daños y perjuicios a terceros que deban reclamarse por la vía civil y en su caso, obtener la reparación del daño o dejar a salvo los derechos del ofendido, siempre que los interesados se sometan voluntariamente para evitar una controversia jurisdiccional; actuando el Juez como amigable componedor;
+Para lo cual la Jueza o Juez de Justicia Cívica exhortará a las partes involucradas en el conflicto para que adopten los Mecanismos Alternos de solución de conflictos, a través de los cuales se solucione el problema, evitando en lo posible la erogación de gastos y la prolongación de tiempo.
 
-IV. Expedir constancia sobre hechos asentados en los libros de registro del Juzgado Calificador;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+IV. Expedir constancia sobre hechos asentados en los libros de registro del Juzgado de Justicia Cívica;
 
-V. Dirigir administrativamente las labores del Juzgado Calificador e informar de manera inmediata las ausencias del personal o cualquier falta a la Dirección de los Juzgados Calificadores, en el entendido de ser el Jefe directo de su personal al que deberán obedecerle de manera expresa;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-VI. Solicitar el auxilio de la fuerza pública en caso de que así se requiera, para el adecuado funcionamiento del Juzgado Calificador;
+V. Dirigir administrativamente las labores del Juzgado de Justicia Cívica e informar de manera inmediata las ausencias del personal o cualquier falta a la Dirección de Juzgados de Justicia Cívica, en el entendido de ser la o el Jefe directo de su personal al que deberán obedecerle de manera expresa;
 
-VII. El Juez Calificador deberá firmar los recibos de multas impuestas; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-VIII. El Juez Calificador deberá establecer estrecha coordinación con los titulares del Ministerio Público;
+VI. Solicitar el auxilio de la fuerza pública en caso de que así se requiera, para el adecuado funcionamiento del Juzgado de Justicia Cívica;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-IX. Cuidar que se respete la dignidad humana y las garantías constitucionales impidiendo todo maltrato, abuso físico o verbal, incomunicación, exacción o coacción moral en agravio de las personas que comparezcan al Juzgado y en general preservar los derechos humanos;
+VII. La Jueza o Juez de Justicia Cívica deberá autorizar con su firmar (sic) todas las actuaciones que se realicen en su turno incluyendo los recibos de multas impuestas;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-X. Informar diariamente por escrito a la Sindicatura Municipal por medio de la Dirección de Juzgados Calificadores sobre los asuntos tratados y las resoluciones que haya dictado;
+VIII. La Jueza o Juez de Justicia Cívica deberá establecer estrecha coordinación con los titulares del Ministerio Público.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-XI. Habilitar al personal del Juzgado para suplir las ausencias temporales del Secretario;
+IX. Cuidar que se respeten los derechos humanos impidiendo todo maltrato, abuso físico o verbal, incomunicación, exacción o coacción moral en agravio de las personas que comparezcan al Juzgado;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+X. Informar diariamente por escrito a la Sindicatura Municipal por medio de la Dirección de Juzgados de Justicia Cívica sobre los asuntos tratados y las resoluciones que haya dictado;
+
+XI. (DEROGADA, P.O. 5 DE JULIO DE 2021)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XII. Asistir a las reuniones a que sea convocado, así como aquéllas que se tengan con instituciones con las cuales haya celebrado convenio la Sindicatura Municipal;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE JULIO DE 2021)</small>
 
 XIII. Girar instrucciones a la Policía Preventiva Municipal en su jurisdicción, por conducto de su superior jerárquico;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-XIV. La ejecución de los arrestos que impongan las Autoridades Administrativas Municipales, de conformidad con este Código será competencia del Juez Calificador;
+XIV. La ejecución de los arrestos que impongan las Autoridades Administrativas Municipales, de conformidad con este Código será competencia de la Jueza o Juez de Justicia Cívica;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XV. De las conductas establecidas en el Capítulo 27 del Código Reglamentario para el Municipio de Puebla, conocerá esta Autoridad Municipal y serán sancionadas en los términos establecidos en el artículo 1920 de dicho ordenamiento legal;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+XVI. (DEROGADA, P.O. 5 DE JULIO DE 2021)
 
-XVI. Brindarán orientación legal a quien lo solicite y tratándose de quejas entre particulares, dejarán constancia de la orientación y los canalizarán mediante oficio, a los órganos competentes cuando proceda y mediante tres citatorios se buscará la mediación;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+XVII. En función de la competencia que corresponda, dar vista y/o poner a disposición del Agente del Ministerio Público Local o Federal, de manera directa por medio de oficio informativo a las personas infractoras que considere han cometido delito, sea del orden estatal o federal y, en caso de que cualesquiera de ellos no acuda al aviso que se le dé, deberá poner en inmediata libertad a la persona infractora, una vez concluido su procedimiento administrativo o en su caso al compurgar el arresto y/o pagada su multa;
 
-XVII. En función de la competencia que corresponda, dar vista y/o poner a disposición del Agente del Ministerio Público Local o Federal, de manera directa por medio de oficio informativo a los infractores que considere han cometido delito, sea del orden estatal o federal y, en caso de que cualesquiera de ellos no acuda al aviso que se le dé, deberá poner en inmediata libertad al infractor, una vez concluido su arresto y/o pagada su multa; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+XVIII. Canalizar a los infractores para la ejecución del trabajo a favor de la comunidad y dar seguimiento al cumplimiento del mismo;
 
-XVIII. Las demás atribuciones que le confieran este Reglamento y otros ordenamientos.
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+XIX. Ratificar los convenios que se realicen entre dos o más partes en la Dirección de Mediación, Conciliación y Arbitraje Condominal o ante los mediadores, referentes a la impartición de Justicia Cívica, asegurándose que se encuentren apegados a la legalidad;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+XX. Emitir órdenes de presentación, pudiendo ordenar el uso de la fuerza pública, en los casos que sean necesarios a efectos de que sus sanciones sean ejecutadas;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+XXI. Custodiar y devolver todos los objetos y valores que depositen las y los probables infractores;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+XXII. En función de la competencia que corresponda, canalizar a la Dirección de Asuntos Internos, los casos de maltrato o abuso por parte de los elementos de seguridad pública a las posibles personas infractoras; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE JULIO DE 2021)</small>
+
+XXIII. Las demás atribuciones que le confieran este Reglamento y otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+Las y los Jueces de Justicia Cívica Itinerante, además de lo anterior, se encontrarán facultados para ejecutar recorridos estacionarios, móviles y mixtos en la jurisdicción municipal a efecto de llevar la Justicia Cívica a lugares donde se dificulte asistir a un Juzgado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 230.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
+La Jueza o Juez de Justicia Cívica, a fin de hacer cumplir sus órdenes y resoluciones, podrá hacer uso de las siguientes medidas de apremio:
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+I. Multa del equivalente del valor diario de 10 a 100 unidades de medida y actualización al momento de determinarla;
+
+II. Arresto, que no podrá exceder del plazo de treinta y seis horas, y
+
+III. Auxilio de la fuerza pública.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 231.
 
-El Juez Calificador deberá solicitar el auxilio del Médico Legista que corresponda en turno, o en su caso, del Médico del Tribunal Superior de Justicia adscrito a la Delegación correspondiente, para la emisión de los dictámenes de su especialidad y la realización de las funciones acordes con su profesión.
+La Jueza o Juez de Justicia Cívica deberá solicitar el auxilio de la o el Médico Legista que corresponda en turno, o en su caso, de una o un Médico Legista adscrito a la Secretaría de Seguridad Ciudadana, de la Secretaría de Seguridad Pública del Estado o cualquier institución pública de salud o medico particular, para la realización de las funciones acordes con su profesión.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+###### Artículo 231 Bis.
+
+La Jueza o Juez de Justicia Cívica o Justicia Cívica Itinerante, deberá de solicitar el auxilio del psicólogo que corresponda al turno o que lo acompañe, parar (sic) realizar una evaluación con criterios psicosociales, emitiendo un dictamen psicosocial, el cual tornará en cuenta la o el juez al momento de imponer la sanción correspondiente.
 
 ###### Artículo 232.
 
-Al Secretario del Juzgado Calificador corresponderá:
-
-I. Autorizar con su firma las actuaciones en que intervenga el Juez en turno, y en caso de que actúe como Juez las mismas se autorizarán con la asistencia de dos testigos.
-
-Asimismo, en caso de faltas eventuales del Secretario, las actuaciones en que intervenga el Juez en turno se autorizarán de igual forma con la asistencia de dos testigos;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-II. Verificar que las actas de audiencia y demás documentos utilizados sean debidamente sellados y rubricados por los actuantes;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-III. Verificar que se entregue el recibo correspondiente por concepto de las multas que se impongan y que cobre la Tesorería Municipal;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-IV. Custodiar y devolver cuando el Juez Calificador lo ordene, todos los objetos y valores que depositen los probables infractores.
-
-En los casos en que no proceda la devolución de los objetos depositados por representar un peligro para la seguridad o el orden público, remitirá dichos oficios al Director de los Juzgados Calificadores para que determine su destino. No procederá la devolución en aquellos casos en que los objetos depositados representen un peligro para la seguridad o el orden público;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-V. Llevar el control en los Libros respectivos de la correspondencia, archivo y registros del Juzgado Calificador y de los expedientes relativos a los asuntos que se ventilen en el Juzgado para el control de remitidos;
-
-VI. Enviar a la Dirección de los Juzgados Calificadores un informe que contenga los asuntos tratados durante el turno y resoluciones dictadas por el Juez;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-VII. Reportar inmediatamente al servicio de Localización Telefónica de la Administración Pública del Municipio de Puebla, la información sobre las personas presentadas, sancionadas, así como las que se encuentren en tiempo de recuperación.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+(DEROGADO, P.O. 5 DE JULIO DE 2021)
 
 ###### Artículo 232 Bis.
 
-Para ser Secretario del Juzgado Calificador, se requiere:
+(DEROGADO, P.O. 5 DE JULIO DE 2021)
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-I. Ser ciudadano mexicano;
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-II. Acreditar haber terminado la carrera de Licenciatura en Derecho con documento idóneo expedido por la institución educativa correspondiente;
-
-III. No ejercer ningún otro cargo público en la administración municipal;
-
-IV. No haber sido sentenciado por la comisión de un delito doloso;
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-VI. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados Calificadores; y
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-VII. Estar certificado en el procedimiento Acusatorio Adversarial y Oral por Institución independiente de cualquier orden de gobierno o educativa.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 232 Ter.
 
-Para ser Jefe de Departamento de Supervisión y Supervisor de Juzgados Calificadores, se requiere:
+Para ser Jefe de Departamento de Supervisión de Juzgados de Justicia Cívica, se requiere:
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
 I. Ser ciudadano mexicano;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-II. Ser Abogado o Licenciado en Derecho con al menos un año de experiencia profesional, debiendo contar con Cédula y Título Profesional;
+II. Ser Abogada o abogado o Licenciada o Licenciado en Derecho con al menos un año de experiencia profesional, debiendo contar con Cédula y Título Profesional;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 III. No ejercer ningún otro cargo público en la administración municipal;
 
-IV. No haber sido sentenciado por la comisión de un delito doloso;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+IV. No haber sido sentenciada o sentenciado por la comisión de un delito doloso, no estar sujeto a proceso penal;
 
-V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+V. No haber sido suspendida o suspendido o inhabilitada o inhabilitado para el desempeño de un cargo público;
 
-VI. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados Calificadores; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+VI. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados (sic) Justicia Cívica; y
 
-VII. Estar certificado en el procedimiento Acusatorio Adversarial y Oral por Institución independiente de cualquier orden de gobierno o educativa.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+VII. Contar con certificación o conocimiento en el Sistema de Justicia Penal Acusatorio y de Justicia Cívica.
 
-###### Artículo 232 Quáter.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
-Al Jefe de Departamento de Supervisión de Juzgados Calificadores corresponderá:
+###### Artículo 232. Quáter.
 
-I. Coordinar a los supervisores, para realizar las diferentes visitas de inspección a los Juzgados Calificadores que le sean asignadas;
+A la o el Jefe de Departamento de Supervisión de Juzgados de Justicia Cívica corresponderá:
 
-II. Levantar actas administrativas, en caso de que exista irregularidad en las visitas de los supervisores a los juzgados;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-III. Verificar que los supervisores realicen sus actividades de conformidad con lo previsto por este Capítulo; y
+I. Investigar, en caso de alguna queja presentada por las y los ciudadanos o infractores, los motivos de ésta, rindiendo informe pormenorizado de la misma al Director de Juzgados de Justicia Cívica, a fin de deslindar responsabilidades e informar a la Contraloría para los efectos conducentes;
 
-IV. Desempeñar aquellas funciones que le encomiende el Director de Juzgados Calificadores y que correspondan al área de su competencia, así como las demás que establece el presente Código Reglamentario.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+II. Levantar actas administrativas, en caso de que exista irregularidad en las visitas a los juzgados;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+III. Visitar aleatoriamente los Juzgados de Justicia Cívica y Juzgados de Justicia Cívica Itinerantes del Municipio de Puebla, pudiendo llevar a cabo dicha visita durante las 24 horas del día en diferentes horarios, todos los días del año, con la finalidad de supervisar el trabajo administrativo;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+IV. Verificar que en el procedimiento administrativo seguido en contra de los infractores, se respeten sus derechos humanos y sus garantías;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+V. Verificar la salida de los infractores exactamente en la fecha y hora que hayan pagado su multa, hayan conmutado o compurgado su arresto, o en caso de ser declarados no responsables de la comisión de la falta administrativa que se les hubiere imputado;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VI. Supervisar la colaboración de ayuda mutua, que deben prestarse el personal de los Juzgados de Justicia Cívica y Juzgados de Justicia Cívica Itinerantes con los Agentes del Ministerio Público, para el debido cumplimiento de las obligaciones de ambas autoridades y optimizar la impartición de Justicia Administrativa;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VII. Corroborar que los expedientes de cada uno de los procedimientos administrativos iniciados, estén integrados debidamente y conforme a los lineamientos que para el efecto determine la o el Síndico y la o el Director de Juzgados de Justicia Cívica;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VIII. Vigilar que las sanciones administrativas impuestas a las personas infractoras, se realicen conforme a la normatividad aplicable y que se encuentren debidamente fundadas y motivadas
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+IX. Supervisar que los Juzgados de Justicia Cívica y Juzgados de Justicia Cívica Itinerantes cuenten con los elementos humanos y recursos materiales suficientes para brindar el servicio;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+X. Proponer al Director de Juzgados de Justicia Cívica las medidas necesarias para el mejoramiento del servicio en los Juzgados de Justicia Cívica; y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+XI. Desempeñar aquellas funciones que le encomiende el Director de Juzgados de Justicia Cívica y que correspondan al área de su competencia, así como las demás que establece el presente Código Reglamentario.
 
 ###### Artículo 232 Quinquies.
 
-Al Supervisor del Juzgado Calificador corresponderá:
+(DEROGADO, P.O. 5 DE JULIO DE 2021)
 
-I. Visitar los Juzgados Calificadores en diferentes horarios de las veinticuatro horas durante todo el año, supervisando el trabajo administrativo;
-
-II. Levantar actas administrativas en caso de que exista irregularidad en los procedimientos para determinar la responsabilidad del probable infractor;
-
-III. Verificar que los infractores sean tratados con respeto a sus derechos humanos;
-
-IV. Asesorar al personal de los Juzgados Calificadores, con relación a la interpretación del Código Reglamentario del Municipio;
-
-V. Desempeñar aquellas funciones que le encomiende el Director de Juzgados Calificadores, que por su naturaleza, correspondan al área de su competencia;
-
-VI. Verificar que en los juzgados, todos los recibos de multa expedidos cumplan con las características establecidas;
-
-VII. Verificar si es necesario, que las audiencias de conciliación derivadas de la comisión de una falta, sean en base a la Ley; y
-
-VIII. Investigar, en caso de alguna queja por parte de un ciudadano infractor, los motivos de ésta; y rendir el informe pertinente al Director de Juzgados Calificadores y éste deberá informar a la Contraloría Municipal, para los efectos conducentes.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 233.
 
-Al Notificador de los Juzgados Calificadores corresponderá:
+A la persona Notificador de los Juzgados Cívicos corresponderá:
 
-I. Hacer entrega de los citatorios que ordene el Juez Calificador;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+I. Hacer entrega de los citatorios que ordene la Jueza o Juez de Justicia Cívica y la persona titular de la Dirección de Juzgados de Justicia Cívica;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 II. Llevar una bitácora de las actividades realizadas durante el desempeño de sus funciones;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 III. Llevar el registro de los citatorios que le son entregados, en el Libro correspondiente; y
 
-IV. Las demás que establezca la Dirección de los Juzgados Calificadores.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+IV. Las demás que establezca la Dirección de Juzgados de Justicia Cívica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 233 Bis.
 
-Para ser Notificador del Juzgado Calificador, se requiere:
+Para ser persona Notificadora de Juzgados de Justicia Cívica, se requiere:
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-I. Ser ciudadano mexicano;
+I. Tener la ciudadanía mexicana;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 II. Contar con estudios de Educación Media Superior;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 III. No ejercer ningún otro cargo público en la administración municipal;
 
-IV. No haber sido sentenciado por la comisión de un delito doloso;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+IV. No haber sido sentenciada o sentenciado por la comisión de un delito doloso, no estar sujeto a proceso penal;
 
-V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+V. No haber sido suspendida o suspendido o inhabilitada o inhabilitado para el desempeño de un cargo público;
 
-VI. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados Calificadores; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+VI. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados de Justicia Cívica; y
 
-VII. Estar certificado en el procedimiento Acusatorio Adversarial y Oral por Institución independiente de cualquier orden de gobierno o educativa.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+VII. (DEROGADA, P.O. 5 DE JULIO DE 2021)
 
 ###### Artículo 234.
 
-Al Alcaide de los Juzgados Calificadores corresponderá:
-
-I. Ejecutar las órdenes de la Autoridad competente, de remisiones, custodia y vigilancia; así como la presentación de los infractores y detenidos ante éstas;
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-II. Ejecutar las órdenes del Director de Juzgados Calificadores, del Jefe de Departamento de Supervisión, de los Supervisores, del Juez Calificador y del Secretario del Juzgado;
-
-III. (DEROGADA, P.O. 25 DE MAYO DE 2012)
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-IV. Vigilar las celdas y área de seguridad de los Juzgados Calificadores, así como las demás instalaciones donde se encuentren los infractores, auxiliado de un elemento de la Policía Preventiva Municipal si se cuenta con éste, de lo contrario el Alcaide se encargará de la vigilancia de las mismas;
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-V. Mantener la salubridad e higiene de las celdas y áreas de seguridad de los Juzgados Calificadores, entendiéndose por esto, realizar las actividades de limpieza en general con el material que se proporcione para ello;
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-VI. Revisar minuciosamente los alimentos y artículos que la autoridad competente autorice para ingresar a los detenidos, no permitiendo aquéllos que representen un peligro para los mismos;
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-VII. Presentar a los infractores cuantas veces lo disponga el Juez Calificador;
-
-VIII. No permitirá la estancia de los remisos o detenidos en la sección de la Alcaldía, sino que inmediatamente de recibirlos deberá trasladarlos a la celda.
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
-
-IX. Reportar al Jefe inmediato, sobre cualquier alteración perceptible del estado físico o emocional de los detenidos e infractores, con el fin de salvaguardar su integridad física y psicológica a través de la constante revisión a las áreas de seguridad;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
-
-X. Auxiliar al Juez Calificador y Secretario en el desahogo de todas las audiencias que se lleven a cabo en el Juzgado Calificador;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
-
-XI. Reportar constantemente al Departamento de Supervisión, sobre el deterioro, daños y mal funcionamiento del área de seguridad, las celdas y sus accesorios, que a su vez puedan representar la facilidad para la evasión de los detenidos, así como un peligro a su integridad física y del personal del Juzgado Calificador; y
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
-
-XII. Retirar a los detenidos objetos de valor prohibidos o que puedan representar algún peligro para su integridad física, durante su estancia en el área de seguridad e inmediatamente ponerlos a resguardo de la autoridad que lo tiene a su disposición.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+(DEROGADO, P.O. 5 DE JULIO DE 2021)
 
 ###### Artículo 235.
 
-Para ser Alcaide de los Juzgados Calificadores, se requiere:
+(DEROGADO, P.O. 5 DE JULIO DE 2021)
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-I. Ser ciudadano mexicano;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-II. No ejercer ningún otro cargo público en la administración municipal;
-
-III. No haber sido sentenciado por la comisión de un delito doloso;
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-IV. Contar con escolaridad media;
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-V. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados Calificadores; y
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-VI. Aprobar los exámenes de confianza que determine la Dirección de Juzgados Calificadores.
-
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 235 Bis.
 
-Para ser Defensor se requiere:
+Para ser Defensora o Defensor:
 
-I. Ser ciudadano mexicano;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-II. Ser Abogado o Licenciado en Derecho con al menos un año de experiencia profesional, debiendo contar con Cédula y Título Profesional;
+I. Tener la ciudadanía mexicana;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+II. Ser Abogada o Abobado (sic) o Licenciada o Licenciado en Derecho con al menos un año de experiencia profesional, debiendo contar con Cédula y Título Profesional;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
 III. No ejercer ningún otro cargo público en la Administración Municipal;
 
-IV. No haber sido sentenciado por la comisión de un delito doloso;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
+IV. No haber sido sentenciada o sentenciado por la comisión de un delito doloso;
 
-VI. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados Calificadores; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-VII. Estar certificado en el procedimiento Acusatorio Adversarial y Oral por Institución independiente de cualquier orden de gobierno o educativa.
+V. No haber sido suspendida o suspendido o inhabilitada o inhabilitado para el desempeño de un cargo público;
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VI. Aprobar los exámenes que para tal efecto establezca la Dirección General Jurídica y de lo Contencioso, y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VII. Contar con certificación o conocimiento en el Sistema de Justicia Penal Acusatorio y de Justicia Cívica.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+Para ser Defensora o Defensor en el Procedimiento Administrativo Especial para la impartición de Justicia Municipal para Adolescentes, además de lo establecido en este artículo, se requiere estar certificado en el Sistema Integral de Justicia Penal para Adolescentes, acreditar conocimientos en materia de derechos de adolescentes, medidas de sanciones especiales y prevención de delitos o faltas administrativas para adolescentes.
 
 ###### Artículo 235 Ter.
 
-Para ser Defensor pasante se requiere:
+(DEROGADO, P.O. 5 DE JULIO DE 2021)
 
-I. Ser ciudadano mexicano;
-
-II. Ser pasante o alumno terminal, en condición de prestar servicio social de la Licenciatura en Derecho, contando con carta respectiva de la universidad con la cual debe existir convenio con el Ayuntamiento de Puebla, para los efectos de realizar el servicio social en el cumplimiento de estas funciones, y con un promedio general no inferior a 8 (ocho).
-
-III. No ejercer ningún otro cargo público en la Administración Municipal;
-
-IV. No haber sido sentenciado por la comisión de un delito doloso;
-
-V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público;
-
-VI. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados Calificadores; y
-
-VII. Estar certificado en el procedimiento Acusatorio Adversarial y Oral por Institución independiente de cualquier orden de gobierno o educativa.
-
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 235 Quáter.
 
-Corresponde a los Defensores designados y a los Defensores pasantes, asistir a los infractores desde el momento de su presentación ante el Juez Calificador por los elementos de seguridad pública o desde su presentación en función del citatorio respectivo, independientemente del tipo de infracción de que se trate
+Corresponde a las y los defensores designados asistir a las personas infractoras desde el momento de su presentación ante la Jueza o Juez de Justicia Cívica por los elementos de seguridad pública o desde su presentación en función del citatorio respectivo, independientemente del tipo de infracción de que se trate, hasta el término del procedimiento administrativo que se instaure en su contra, ya sea por ejecución de sentencia o por ser puesto inmediatamente en libertad.
 
-En caso de ser remitido ante el Ministerio Público, acompañarlo hasta tanto sea atendido y representado por el Defensor de Oficio o Defensor Público de la Institución respectiva o Defensor particular.
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+###### Artículo 235 Quinquies.
+
+Para ser persona mediadora se requiere:
+
+I. Tener la ciudadanía mexicana;
+
+II. No haber sido condenada o condenado por delito doloso en sentencia que haya causado ejecutoria o alguno relacionado con violencia familiar;
+
+III. Contar con título y cédula profesional de estudios de Licenciatura en Derecho; y
+
+IV. Contar con certificación o capacitación referente a los Mecanismos Alternativos de Solución de Controversias.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+Artículo 235 Sexties.- A las personas mediadoras de los juzgados cívicos corresponde:
+
+I. Realizar su función en atención a los Principios del Procedimiento de Mediación.
+
+II. Informar a las y los mediados, las reglas a las que quedará sujeto el Procedimiento de Mediación;
+
+III. Estimular durante las sesiones, la creatividad de las y los mediados, a fin de que éstos participen de manera activa en la búsqueda de una solución a la controversia que enfrentan;
+
+IV. Abstenerse de influir en las y los mediados para que éstos asistan, permanezcan o se retiren de las sesiones de mediación;
+
+V. Garantizar que los acuerdos a los que lleguen las y los mediados, se encuentren apegados a derecho;
+
+VI. Abstenerse de intervenir en asuntos en los que se afecte la imparcialidad, según lo establecido en el presente Código;
+
+VII. Vigilar que en el trámite de la Mediación no se afecten derechos e intereses de niñas, niños, adolescentes, incapacitados, ni se transgreda derechos de terceros, ni cuestiones de orden público;
+
+VIII. Cerciorarse que el consentimiento de los interesados se encuentre libre de vicios y no se encuentre afectado por lesión, error, dolo, violencia o mala fe; asimismo que los mediados o conciliados comprendan las propuestas de solución, precisándoles los derechos y obligaciones que de ellas se deriven;
+
+IX. Remitir los acuerdos o convenios que realice a la Jueza o Juez de Justicia Cívica para su ratificación y en su caso se eleve a resolución administrativa;
+
+X. Informar a la Jueza o Juez de Justicia Cívica respecto al incumplimiento de convenios ratificados; y
+
+XI. Las demás que se deriven de las disposiciones legales aplicables.
 
 DEL PROCEDIMIENTO
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 236.
 
-Radicado el asunto ante el Juez Calificador, éste procederá a informar al presunto infractor el derecho que tiene a comunicarse con persona que le asista y defienda; de no tener Defensor particular, se informará inmediatamente al Defensor designado o Defensor pasante para que lo asista durante todo el procedimiento, dejándose debida constancia.
+Cualquier persona podrá presentar quejas ante el Juzgado de Justicia Cívica, por hechos constitutivos de probables infracciones en materia cívica, de forma oral o por escrito.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+En todos los casos, la queja debe contener nombre y domicilio de las partes, relación de los hechos motivo de la queja y firma de la parte quejosa.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+El derecho a formular la queja prescribe posterior a quince días naturales, contados a partir de la comisión de la probable falta administrativa.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+En las faltas o infracciones que lo ameriten y su naturaleza se adecue, la Jueza o Juez de Justicia Cívica emitirá una orden de presentación a las y los probables infractores a efectos de desahogar la audiencia.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JULIO DE 2021)</small>
+
+La orden de presentación que emita el (sic) Jueza o Juez de Justicia Cívica a las partes, será notificado por la persona notificadora y deberá contener, cuando menos los siguientes elementos:
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+I. El Juzgado de Justicia Cívica que corresponda, el domicilio y el teléfono del mismo;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+II. Nombre y domicilio de la o el probable infractor;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+III. La probable infracción por la que se le cita;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+IV. Nombre de la o el quejoso
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+V. Fecha y hora de la celebración de la audiencia; y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+
+VI. Nombre de la Jueza o Juez de Justicia Cívica que emite el citatorio.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+Se requerirá a las partes a fin de que aporten los medios de convicción que estimen pertinentes desahogar en la audiencia.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+La orden de presentación se entregará a cualquier persona que se encuentre en el domicilio y de no haber ninguna persona, se fijará en la puerta; el notificador asentará en el expediente, la razón de los hechos.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+Las notificaciones deberán hacerse personalmente. No obstante, cuando se haya señalado domicilio para oír y recibir notificaciones y la persona a quien deba hacerse la notificación no se encuentre en su domicilio, se le dejará citatorio para que esté presente a una hora fija del día hábil siguiente, apercibiéndola que, en caso de no encontrarse, se efectuará la diligencia con quien se encuentre presente.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+Cuando el domicilio señalado para oír y recibir notificaciones no corresponda al del interesado, esté fuera del Municipio o exista negativa a recibirlas, previa acta circunstanciada que levante el notificador, se procederá a notificar por medio de cédula fijada en los estrados del Juzgado de Justicia Cívica.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+Las notificaciones de citatorios, acuerdos y resoluciones surtirán sus efectos el día siguiente en que fueron hechas.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+Si la probable persona infractora no atendiera la orden de presentación en múltiples ocasiones, la Jueza o Juez de Justicia Cívica hará uso de la fuerza pública a efectos de realizar la detención de la persona probable infractora y estar en condiciones de desahogar el procedimiento administrativo pertinente.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+Radicado el asunto ante la Jueza o Juez de Justicia Cívica, tiene la obligación de hacer del conocimiento y exhortar a los involucrados en los conflictos, respecto a la existencia de los Medios Alternativos de Solución de Conflictos, para que de manera libre decidan si se someten o no a tales medios o procedimientos.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+En caso de que las partes no acepten el proceso mencionado se procederá a informar al presunto infractor el derecho que tiene a comunicarse con persona que le asista y defienda; de no tener defensor particular, se informará inmediatamente a la o el Defensor designado para que lo asista durante todo el procedimiento, dejándose debida constancia.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3593,15 +3869,21 @@ Radicado el asunto ante el Juez Calificador, éste procederá a informar al pres
 
 Del trabajo a favor de la comunidad.
 
-I. Cuando el infractor acredite fehacientemente su identidad y domicilio, podrá solicitar al Juez Calificador, se le permita realizar trabajo a favor de la comunidad, a efecto de no cubrir su multa o el arresto que se le hubiese impuesto, excepto en caso de reincidencia;
+I. (DEROGADA, P.O. 5 DE JULIO DE 2021)
 
-II. Las actividades del trabajo a favor de la comunidad, se desarrollarán de acuerdo a la tabla de cálculo que se menciona en el inciso f) párrafos cuarto y quinto del artículo 236 Ter. En ningún caso podrán realizarse dentro de la jornada laboral del infractor;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-III. El Juez Calificador en base a las circunstancias del infractor, podrá acordar la suspensión de la sanción impuesta y señalar los días, horas y lugares en que se llevarán a cabo las actividades del trabajo a favor de la comunidad y sólo hasta la ejecución de las mismas, se cancelará la sanción de que se trate.
+II. Las actividades del trabajo a favor de la comunidad, se desarrollarán de acuerdo a la tabla de cálculo que se menciona en el inciso f) del artículo 236 Quáter. En ningún caso podrán realizarse dentro de la jornada laboral de la persona infractora;
 
-En todos los casos el Juez Calificador hará del conocimiento del infractor la prerrogativa a que se refiere la fracción anterior.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-El programa deberá garantizar que los sujetos de la medida, presten sus servicios en dependencias o entidades municipales, tomando en cuenta los usos y costumbres de la comunidad a que pertenezca y se deberá informar del cumplimiento respectivo.
+III. La Jueza o Juez de Justicia Cívica con base a las circunstancias del infractor, señalara los días, horas y lugares en que se llevarán a cabo las actividades del trabajo a favor de la comunidad y sólo hasta la ejecución de las mismas, se tomará como cumplida la sanción de que se trate;
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
+
+El programa deberá garantizar que las personas sancionadas, presten sus servicios en organismos gubernamentales o instituciones, tomando en cuenta los usos y costumbres de la comunidad a que pertenezca y se deberá informar del cumplimiento respectivo.
 
 Son actividades del trabajo a favor de la comunidad:
 
@@ -3615,6 +3897,10 @@ d) Realización de obras de balizamiento, limpia o reforestación, en lugares de
 
 e) Compartir pláticas a vecinos o educandos de la comunidad, en que hubiera cometido la infracción, relacionadas con la convivencia ciudadana o realización de actividades relacionadas con la profesión, oficio u ocupación del infractor.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+En los casos en que la persona infractora cuente con un perfil de riesgo, de acuerdo al dictamen realizado por la o el psicólogo, las actividades que se realizarán en el trabajo a favor de la comunidad, serán medidas encaminadas a mejorar la convivencia cotidiana, con el fin de que la persona infractora reconozca el daño social provocado resarciendo el mismo.
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 236 Ter.
@@ -3623,23 +3909,27 @@ Las actividades del trabajo a favor de la comunidad, se llevarán a cabo bajo la
 
 a) El trabajo se realizará en el horario que no afecte, su asistencia a la escuela o institución académica o a su jornada normal de trabajo;
 
-b) Toda persona que acepte como medida trabajo a favor de la comunidad, quedará bajo el cuidado y vigilancia del personal que sea designado para tal efecto; quién tendrá conocimiento del lugar, los días y el horario en que deba prestarse y el tipo de servicio que deberá desempeñar el obligado, de acuerdo con el programa social que se establezca;
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-c) Una vez que se haya otorgado este beneficio, el Juez Calificador notificará al día hábil siguiente a la dependencia, institución, órgano o cualquier otra, el nombre del infractor que prestará este servicio debiendo señalar el tiempo que deberá permanecer en el lugar, entregándole copia del oficio respectivo;
+b) Toda persona que sea sancionada con trabajo a favor de la comunidad, quedará bajo el cuidado y vigilancia del personal que sea designado para tal efecto; quién tendrá conocimiento del lugar, los días y el horario en que deba prestarse y el tipo de servicio que deberá desempeñar el obligado, de acuerdo con el programa social que se establezca;
 
-d) La dependencia, institución, órgano o cualquier otra, informará por escrito al Juez Calificador, sobre el cumplimiento u omisión de este servicio;
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-e) Para otorgar este beneficio el infractor deberá garantizar el importe de la sanción impuesta por multa equivalente a las horas de arresto, mediante los siguientes medios:
+c) La Jueza o Juez de Justicia Cívica o de Justicia Cívica Itinerante, notificará al día hábil siguiente a la dependencia, institución, órgano o cualquier otra, el nombre de la persona infractora que prestará este servicio o que se incorpora al programa pertinente, debiendo señalar el tiempo que deberá permanecer en el lugar, entregándole copia del oficio respectivo;
 
-1. Depósito en efectivo o fianza que estime la Autoridad competente.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-El depósito a que se refiere el inciso anterior se pagará en la caja que para tal efecto autorice la Tesorería Municipal.
+d) La dependencia, institución, órgano o cualquier otra, informará por escrito a la Jueza o Juez de Justicia Cívica o Justicia Cívica Itinerante, sobre el cumplimiento u omisión de este servicio;
 
-f) Una vez que el infractor haya cumplido con el servicio determinado, se le reembolsará la garantía depositada, previa solicitud que realice ante la Dirección de Juzgados Calificadores; para lo cual se le expedirá la constancia respectiva por el Juez Calificador en turno.
+e) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
-En caso de que el infractor no haya cumplido con el trabajo a favor de la comunidad, se hará efectiva la fianza que el infractor haya depositado para tal efecto, a favor del Ayuntamiento; debiéndose notificar mediante oficio a la Autoridad correspondiente.
+f) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
-Se exceptuarán de este beneficio a los infractores que se encuentren bajo el influjo de alguna sustancia psicotrópica, droga o enervante.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
+
+En caso de que la persona infractora no cumpliera con el trabajo a favor de la comunidad, la Jueza o Juez de Justicia Cívica o Justicia Cívica Itinerante emitirá la orden de presentación a efectos de que se cumplan con las horas de arresto establecidas.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 Las horas de servicio comunitario a conmutar por el infractor se calcularán en base a la Tabla siguiente:
 
@@ -3687,173 +3977,175 @@ Económica Arresto Comunitario
 
 Únicamente cuando se trate de trabajo a favor de la comunidad se aplicarán estas Tablas.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+En el caso de las personas infractoras que sean consideradas de riesgo, por lo que se canalizarán a programas determinados a mejorar la convivencia, el tiempo de horas de capacitación, tratamiento o servicio, serán dependientes de la o el psicólogo, así como del programa al que sean incorporados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 236 Quáter.
 
-Se considerará a los padres, tutores, a los representantes legales, o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad, responsables solidarios por las infracciones, acciones u hechos que realicen o protagonicen los menores de edad a su cargo, por lo que serán éstos quienes indemnicen o reparen los daños causados.
+Se considerará a los padres, tutores, a los representantes legales, o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un adolescente, responsables solidarios por las infracciones, acciones u hechos que realicen o protagonicen los adolescentes a su cargo, por lo que serán éstos quienes indemnicen o reparen los daños causados.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+O en su caso a través de los Mecanismos Alternos de Solución de controversias y por medio de sus padres, tutores, representantes legales o persona que legalmente los tenga bajo su custodia, cuidado o responsabilidad lleguen a un acuerdo o convenio con el agraviado.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 236 Quinquies.
 
-En el caso de menores de edad, serán sus padres, tutores, representantes legales o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad, los que podrán realizar servicio a favor de la comunidad, ya que son solidariamente responsables por las infracciones, acciones u hechos que realicen o protagonicen los menores de edad a su cargo.
+En el caso de adolescentes, serán sus padres, tutores, representantes legales o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un adolescente, los que podrán realizar servicio a favor de la comunidad, ya que son solidariamente responsables por las infracciones, acciones u hechos que realicen o protagonicen los adolescentes a su cargo.
 
-La petición deberá formularse por el menor, por escrito y con la autorización de sus padres, tutores o representantes legales, debiendo ser firmada por ambos. Anexando a dicha solicitud comprobante domiciliario fidedigno.
+En caso de contar con la autorización de los padres, tutores, representantes legales o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un adolescente, el adolescente que fue presentado, podrá ser incorporado a algún programa implementado por organismos gubernamentales o instituciones que se estimen necesarias para mejorar la convivencia cotidiana del adolescente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 236 Sexies.
 
-En caso de que los padres, tutores, representantes legales o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad, en su carácter de responsables solidarios, no cumplieran con la reparación establecida, se sancionarán con multa hasta el equivalente del valor diario de 500 unidades de medida y actualización al momento de cometerse la infracción; dejando a salvo los derechos del quejoso para hacerlos valer en la vía legal correspondiente.
+En caso de que los padres, tutores, representantes legales o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a una o un adolescente, en su carácter de responsables solidarios, no cumplieran con la reparación establecida, se sancionarán con multa hasta el equivalente del valor diario de 500 unidades de medida y actualización al momento de cometerse la infracción; dejando a salvo los derechos de la parte quejosa para hacerlos valer en la vía legal correspondiente.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+En caso de que el responsable solidario no cubriera la multa impuesta por la Jueza o Juez de Justicia Cívica, se girará oficio a la Autoridad fiscal competente para que determine el crédito fiscal correspondiente y en su caso inicie el Procedimiento Administrativo de Ejecución.
 
-En caso de que el responsable solidario no cubriera la multa impuesta por el Juez Calificador, se girará oficio a la Autoridad Fiscal competente para que determine el crédito fiscal correspondiente y en su caso inicie el Procedimiento Administrativo de Ejecución.
+En el caso de reincidencia de la conducta de la o el adolescente a que se refiere el artículo se aplicará doble sanción a los responsables solidarios.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-En el caso de reincidencia de la conducta del menor a que se refiere el artículo se aplicará doble sanción a los responsables solidarios.
+###### Artículo 236 Septies.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+Las faltas administrativas sólo se sancionarán, cuando se hubiesen consumado o cuando su no consumación se deba a hechos ajenos a la voluntad de la persona infractora y la potestad para sancionarlas prescribe después de 90 días naturales a partir del día en que se comete la falta o infracción; en los casos de infracciones continuas o continuadas, la prescripción comenzará a contarse desde que la falta administrativa deje de cometerse.
 
-###### Artículo 236 Sépties.
-
-Las faltas sólo se sancionarán, cuando se hubiesen consumado o cuando su no consumación se deba a hechos ajenos a la voluntad del infractor y la potestad para sancionarlas prescribe a partir del tercer día en que se cometen; en los casos de infracciones continuas o continuadas, la prescripción comenzará a contarse desde que la falta deje de cometerse.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 237.
 
-Si el probable infractor solicita tiempo para comunicarse con la persona que le asista y defienda, el Juez suspenderá el procedimiento y le facilitará los medios idóneos para su aplicación, concediéndole un plazo prudente que no excederá de dos horas para que se presente el defensor.
+Si la o el probable infractor solicita tiempo para comunicarse con la persona que le asista y defienda, la jueza o Juez suspenderá el procedimiento y le facilitará los medios idóneos para su aplicación, concediéndole un plazo prudente que no excederá de dos horas para que se presente la o el defensor.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 238.
 
-Cuando la persona presentada se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o substancias psicotrópicas, el Juez Calificador podrá solicitar al Médico Legista del Juzgado Calificador, o en su caso, al Médico Legista del Tribunal Superior de Justicia adscrito a cada Delegación del Ministerio Público, que previo examen, dictamine el estado físico del infractor y señale el plazo probable de recuperación, el cual se tomará como base para iniciar el procedimiento.
+Cuando la persona presentada se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o substancias psicotrópicas, la Jueza o Juez de Justicia Cívica podrá solicitar al Médico Legista del Juzgado de Justicia Cívica, que previo examen, dictamine el estado físico de la persona infractora y señale el plazo probable de recuperación, el cual se tomará como base para iniciar el procedimiento.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 En tanto transcurra la recuperación, la persona será ubicada en la sección que corresponda tomando en consideración que:
 
-I. Si el Médico determina, que el probable infractor requiere de atención médica de urgencia, y que deba trasladarse a una institución de salud, el Juez realizará las diligencias necesarias para su canalización; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-II. Si el Médico determina, que no puede permanecer el infractor en área cerrada, el Juez permitirá su salida del Juzgado.
+I. Si la o el Médico determina, que la o el probable infractor requiere de atención médica de urgencia, y que deba trasladarse a una institución de salud, la o el Juez realizará las diligencias necesarias para su canalización; y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
+II. Si la o el Médico determina, que no puede permanecer la persona infractora en área cerrada, la o el Juez remitirá su salida del Juzgado.
 
 ###### Artículo 239.
 
 Cuando las personas presentadas denoten peligrosidad o intenciones de evadirse se les retendrá en áreas de seguridad hasta que se inicie la audiencia.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
+
 ###### Artículo 240.
 
-Cuando el presunto infractor padezca alguna enfermedad mental, a consideración del Médico de Turno, el Juez Calificador suspenderá el procedimiento y citará a las personas obligadas a la custodia del enfermo y a faltas de éstas, al Ministerio Público y a las autoridades del Sector Salud que deban intervenir, a fin de que se le proporcione la ayuda asistencial que se requiera.
+Cuando la o el presunto infractor padezca alguna enfermedad mental, a consideración de la o el Médico y la o el psicólogo de Turno, la Jueza o Juez de Justicia Cívica suspenderá el procedimiento y citará a las personas obligadas a la custodia del enfermo y a faltas (sic) de éstas, al Ministerio Público y a las autoridades del Sector Salud que deban intervenir, a fin de que se le proporcione la ayuda asistencial que se requiera.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 241.
 
-Si el probable infractor es extranjero, se harán de su conocimiento los derechos que tiene como extranjero en territorio Nacional y se le informará de manera inmediata a la autoridad Consular correspondiente, a fin de realizar las gestiones que a su derecho convengan.
+Si la persona probable infractora es de origen extranjero, se harán de su conocimiento los derechos que tiene como tal en territorio Nacional y se le informará de manera inmediata a la autoridad Consular correspondiente a fin de realizar las gestiones que a su derecho convengan.
 
-La notificación consular antes mencionada, se llevará a cabo previo consentimiento que se recabe del extranjero.
+La notificación consular antes mencionada, se llevará a cabo previo consentimiento que se recabe de la persona extranjera.
 
-Si el extranjero no habla español, se le proporcionará un intérprete, y en caso de no ser posible, agotadas todas las vías para contar con el apoyo de un intérprete, oficial o particular, profesional o certificado, se le proporcionará un traductor práctico, sin cuya presencia el procedimiento administrativo no podrá dar inicio;
+Si la o el extranjero, no habla español, se le proporcionará un intérprete, y en caso de no ser posible, agotadas todas las vías para contar con el apoyo de un intérprete, oficial o particular, profesional o certificado, se le proporcionará un traductor práctico, sin cuya presencia el procedimiento administrativo no podrá dar inicio.
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 241 Bis.
 
-Cuando el probable infractor sea indígena y no hable español, se le proporcionará un intérprete en términos del artículo anterior.
+Cuando la persona probable infractora sea indígena y no hable español, se le proporcionará un intérprete en términos del artículo anterior.
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 241 Ter.
 
-Si el probable infractor es una persona con alguna discapacidad que haga imposible la adecuada comunicación y manifestar lo que a su derecho convenga, se le proporcionará un intérprete en términos del artículo 241 del presente Código.
+Si la persona probable infractora tiene alguna discapacidad que haga imposible la adecuada comunicación y manifestar lo que a su derecho convenga, se le proporcionará un intérprete en términos del artículo 241 del presente Código.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2021)</small>
 
-DE LOS MENORES DE EDAD
+PROCEDIMIENTO ADMINISTRATIVO ESPECIALIZADO PARA ADOLESCENTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 242.
 
-Si se presenta un menor de edad y se presume que no tiene cumplidos los doce años de edad, se solicitará al Médico Legista de turno o perito autorizado, dictamine la mayoría o minoría de edad, y al ser menor de doce años se sobreseerá el procedimiento, el Juez procurará que un familiar acuda al Juzgado por el menor, si no acude en dos horas, el Juez lo remitirá a alguna de las Instituciones Públicas de Asistencia Social.
+Si se presenta una niña, niño o adolescente y se presume que no tiene cumplidos los doce años de edad, se solicitará al médico Legista de turno o perito autorizado, dictamine la mayoría o minoría de edad, y al ser menor de doce años se sobreseerá el procedimiento, la Jueza o Juez procurará que un familiar acuda al juzgado por la niña, niño o adolescente, si no acude en dos horas, la o el Juez lo remitirá a alguna de las Instituciones Públicas de Asistencia Social.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+Si la niña, el niño o adolescente tuviera entre doce y catorce años de edad y no acudieran sus padres al juzgado, en un término de dos horas, se suspenderá la audiencia para que ellos se presenten, y de no hacerlo en un plazo de 24 horas se hará la denuncia ante el Ministerio Público por abandono. En todos los casos se remitirá a la niña, el niño o adolescente a alguna de las instituciones mencionadas en el párrafo que antecede, y cuando el presentado tenga catorce años y menos de dieciocho años, al igual que si tiene más de 12 (Doce) y menos de 14 (Catorce) años se observarán las siguientes reglas:
 
-Si el menor tuviera entre doce y catorce años de edad y no acudieran sus padres al Juzgado, en un término de dos horas, se suspenderá la audiencia para que ellos se presenten, y de no hacerlo en un plazo de 24 horas se hará la denuncia ante el Ministerio Público por abandono. En todos los casos se remitirá al menor a alguna de las instituciones mencionadas en el párrafo que antecede, y cuando el presentado tenga catorce años y menos de dieciocho años, al igual que si tiene más de 12 (Doce) y menos de 14 (Catorce) años se observarán las siguientes reglas:
+I. La o el Juez realizará las diligencias necesarias, para lograr la comparecencia de la persona que ejerza la custodia o tutela legal o derecho del menor, para que lo asista y se encuentre presente en el procedimiento;
 
-> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+II. En tanto acude quien custodia o tutela de la niña, el niño o adolescente, éste deberá permanecer en la oficina del Juzgado, en área destinada para ello;
 
-I. El Juez realizará las diligencias necesarias, para lograr la comparecencia de la persona que ejerza la custodia o tutela legal o derecho del menor, para que lo asista y se encuentre presente en el procedimiento;
+III. Si por cualquier causa no asistiera el responsable la niña, el niño o adolescente en un plazo de dos horas, se otorgará una prórroga de dos horas;
 
-> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+IV. Si al término de la prórroga no asistiera el responsable, la o el Juez le nombrará una o un Defensor designado para que lo asista y defienda en su caso, que preferentemente será acompañado por un abogado que designe el DIF Municipal. Una vez que cuente con la asistencia legal, se sustanciará el procedimiento sumario en términos del artículo 244 de este Capítulo, si transcurridas dos horas no llegara el representante, se sobreseerá el procedimiento;
 
-II. En tanto acude quien custodia o tutela al menor, éste deberá permanecer en la oficina del Juzgado, en área destinada para ello;
+V. Si a consideración de la o el Juez la niña, el niño y adolescente, se encontrara en situación de riesgo o abandono por no contar con familiares, se enviará ante las Autoridades del DIF a efecto de que reciba la atención correspondiente; las y los Jueces de Justicia Cívica podrán solicitar por escrito o forma verbal a la Secretaría de Seguridad Ciudadana, que instruya entre su personal quien deberá realizar el traslado correspondiente, y
 
-> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+VI. No se alojará a niñas, niños o adolescentes acusados de la comisión de una falta administrativa en lugares destinados a la detención, reclusión o arresto de mayores de edad.
 
-III. Si por cualquier causa no asistiera el responsable del menor en un plazo de dos horas, se otorgará una prórroga de dos horas;
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-IV. Si al término de la prórroga no asistiera el responsable, el Juez le nombrará un Defensor designado o Defensor pasante para que lo asista y defienda en su caso, que preferentemente será acompañado por un Abogado que designe el DIF Municipal. Una vez que cuente con la asistencia legal, se sustanciará el procedimiento sumario en términos del artículo 244 de este Capítulo, si transcurridas dos horas no llegara el representante, se sobreseerá el procedimiento;
-
-> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-V. Si a consideración del Juez el adolescente, se encontrara en situación de riesgo o abandono por no contar con familiares, se enviará ante las Autoridades del DIF a efecto de que reciba la atención correspondiente; los Jueces Calificadores podrán solicitar por escrito o forma verbal a la Secretaría de Seguridad Pública y Tránsito Municipal, que instruya entre su personal quien deberá realizar el traslado correspondiente; y
-
-> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-VI. No se alojará a menores acusados de la comisión de una falta administrativa en lugares destinados a la detención, reclusión o arresto de mayores de edad.
-
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 242 Bis.
 
-El procedimiento señalado en el artículo anterior, se efectuará en presencia del menor infractor bajo los principios del sistema Acusatorio Adversarial y Oral, a quien se le amonestará para que no reincida, facultándose al Juez Calificador, en términos de la fracción I del artículo 229 de este Código, proceda su incorporación a la comisión, dependencia, institución, órgano o cualquier otra que para tal efecto se establezca, a fin de lograr su reinserción familiar y desarrollo social.
+El procedimiento señalado en el artículo anterior, se efectuará en presencia de la o el adolescente bajo los principios del Sistema de Justicia Penal Acusatorio, a quien se le amonestará para que no reincida, facultándose a la Jueza o Juez de Justicia Cívica, en términos de la fracción I del artículo 229 de este Código proceda su incorporación a la comisión, dependencia, institución, órgano o cualquier otra que para tal efecto se establezca, a fin de lograr su reinserción familiar y desarrollo social.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 242 Ter.
 
-Para la aplicación del procedimiento e imposición de sanciones, la edad de los menores, se acreditará mediante certificación o constancia de inscripción de su nacimiento en el Registro del Estado Civil de las Personas o en su defecto se determinará, por medio del dictamen médico legista o de perito autorizado.
+Para determinar la posible aplicación del procedimiento e imposición de sanciones, la edad de las niñas, los niños y adolescentes, se acreditará mediante certificación o constancia de inscripción de su nacimiento en el Registro del Estado Civil de las Personas o en su defecto se determinará, por medio del dictamen médico legista o de perito autorizado, privilegiando el interés superior de la niñez.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 243.
 
-El Juez Calificador dará vista y pondrá a disposición del Agente del Ministerio Público Local o Federal, o al Ministerio Público especializado en Justicia para Adolescentes, respectivamente, mediante remisión de aquellos hechos que en su concepto puedan constituir delito y que tenga conocimiento de éstos durante el desarrollo del procedimiento con motivo de sus funciones, independientemente de imponer la sanción que corresponda.
+La Jueza o Juez de Justicia Cívica dará vista y pondrá a disposición del Agente del Ministerio Público Local o Federal, o al Ministerio Público especializado en Justicia para Adolescentes, respectivamente, mediante remisión de aquellos hechos que en su concepto puedan constituir delito y que tenga conocimiento de éstos durante el desarrollo del procedimiento con motivo de sus funciones independientemente de imponer la sanción que corresponda.
 
 DE LAS AUDIENCIAS
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 244.
 
-El procedimiento en materia de faltas al presente Capítulo, de probables infractores mayores de edad, se substanciará en presencia del remitido bajo los principios del sistema Acusatorio Adversarial y Oral basado en la acusación que deberá formular de manera oral el elemento que realizó la detención, acompañada de boleta de remisión y/o del Informe Policial Homologado y Cadena de Custodia tendiente a comprobar la falta cometida y la responsabilidad del remitido, se substanciará en una sola audiencia, levantándose acta pormenorizada que firmarán los que en ellas intervinieron, misma que podrá ser reemplazada por las copias certificadas de Audio y Video.
+El procedimiento en materia de faltas al presente Capítulo así como de los ordenamientos que lo indiquen, se substanciará en presencia del remitido bajo los principios del Sistema de Justicia Penal Acusatorio basado en el Informe Policial Homologado y Cadena de Custodia tendiente a comprobar la falta administrativa cometida y la probable responsabilidad de la persona remitida, se substanciará en una sola audiencia, levantándose acta pormenorizada que firmarán los que en ellas intervinieron, misma que podrá ser reemplazada por las copias certificadas de Audio y Video.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
 El procedimiento será oral y las audiencias públicas, levantándose constancia por escrito de lo actuado, o realizándose copias de Audio y Video y las mismas se realizarán en forma pronta y expedita sin más formalidades que las establecidas en este Capítulo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+
+Cuando el procedimiento lo permita la Jueza o Juez de Justicia Cívica, informará a las partes la existencia de los Medios Alternativos de Solución de Controversias para que de manera libre decidan si se someten o no a tales procedimientos, siguiéndose para tal caso el procedimiento descrito en el artículo 250 de este Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 245.
 
-En la audiencia el Juez levantará inventario de los objetos o instrumentos que presente el remitido y tratándose de aquéllos que pudieran perturbar el orden o ser utilizados para delinquir se decomisarán y formarán parte del Patrimonio del Ayuntamiento, quien decidirá su destino.
+En la audiencia la o el Juez levantará inventario de los objetos o instrumentos que presente la persona remitida y tratándose de aquellos que pudieran perturbar el orden o ser utilizados para delinquir se decomisarán y formarán parte del Patrimonio del Ayuntamiento, quien decidirá su destino.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-En caso de ser remitido al Ministerio Público, si estos fueran objetos prohibidos, se acompañarán de la debida Cadena de Custodia realizada por el Secretario.
+En caso de ser remitido al Ministerio Público, si estos fueran objetos prohibidos, se acompañarán de la debida cadena de custodia.
 
 > <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
 
 Si los objetos o instrumentos no son de aquéllos que perturben el orden o fueron utilizados para delinquir y no fueran reclamados en un término de 30 días hábiles, o en su caso, no se acredite fehacientemente la propiedad de los mismos por el infractor, éstos pasarán de inmediato a ser propiedad del Ayuntamiento de Puebla, quien podrá disponer libremente de su destino o utilización e incluso ordenar su venta si así lo considera.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
-La decisión del destino de los bienes será exclusiva del Director de Juzgados Calificadores, estando presente en todo momento la Contraloría Municipal.
+La decisión del destino de los bienes será exclusiva del Director de juzgados de Justicia Cívica, estando presente en todo momento la Contraloría Municipal.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3861,71 +4153,71 @@ La decisión del destino de los bienes será exclusiva del Director de Juzgados 
 
 En la averiguación a que se refiere el artículo 244 se seguirá el siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-I. Se escuchará al quejoso o al representante de la autoridad que haya remitido al inculpado, acerca de los hechos materia de la causa; y a su defensor, previa lectura de los derechos consagrados en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y se le recibirán todas las pruebas que obren en su poder, debiendo el Juez Calificador por los medios a su alcance, facilitar la producción de las mismas en caso de ser necesario;
+I. La Jueza o Juez de Justicia Cívica, expondrá los motivos de la detención y presentación de la o el probable infractor, procurando en todo momento realizar una explicación clara. En caso de existir una parte quejosa, se le dará el uso de la voz a fin de que se exprese acerca de los hechos materia de la causa; y a su defensor o defensora, previa lectura de los derechos consagrados en el Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y se le recibirán todas las pruebas que obren en su poder, debiendo la Jueza o Juez de Justicia Cívica por los medios a su alcance, facilitar la producción de las mismas en caso de ser necesario;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-II. Se hará saber al probable infractor la falta o faltas que motivaron su remisión y manifestará lo que a su derecho convenga, previo ser asistido por su defensor; acto seguido el elemento que realiza la detención o la Unidad Administrativa del H. Ayuntamiento que corresponda formulará la imputación de manera concreta. De no realizarse imputación por quienes tienen la obligación de hacerlo, el Juez ordenará de inmediato la libertad del probable infractor.
+II. La persona probable infractora manifestará lo que a su derecho convenga, previo ser asistido por su defensor o defensora; en caso de existir inconsistencias entre la declaración de la probable persona infractora y la parte de hechos de la policía, la Jueza o Juez de Justicia Cívica podrá llamar al elemento que realizo la detención para realizar la aclaración;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-III. Se recibirán las pruebas que aporte el inculpado en su defensa incluyendo las copias de Audio y Video, y se escucharán los alegatos de la Unidad del Ayuntamiento que corresponda como acusador y luego los de la defensa y del propio inculpado si es que quiere hacerlo, y el Juez Calificador dictará su resolución haciendo la calificación correspondiente a la sanción impuesta, fundando y motivando su determinación, firmando el acta respectiva;
+III. Se recibirán y desahogarán las pruebas que aporte la probable persona infractora en su defensa incluyendo las copias de audio y video. En caso de existir una parte quejosa, se la dará la oportunidad de exponer argumentos finales, así como a la persona probable infractora. La Jueza o Juez de Justicia Cívica dictará su resolución haciendo la calificación correspondiente a la sanción impuesta, fundando y motivando su determinación, tomando en cuenta el dictamen psicosocial emitido por la o el psicólogo en turno, firmando el acta respectiva; y
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
-IV. Emitida la resolución, el Juez Calificador notificará personalmente al infractor, a su defensor y al denunciante si lo hubiere;
+IV. Emitida la resolución, la Jueza o Juez de Justicia Cívica notificará personalmente a la persona infractora, a su defensor o defensora y a la parte quejosa si la hubiere.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 246 Bis.
 
-Si el probable infractor niega los cargos, se seguirá de conformidad con lo establecido en las fracciones I y II del artículo que antecede y se continuará con la audiencia, se recibirán las pruebas ofrecidas y el Juez dictará la resolución que corresponda.
+Si la persona probable infractora niega los cargos, se seguirá de conformidad con lo establecido en las fracciones I y II del artículo que antecede y se continuará con la audiencia, se recibirán las pruebas ofrecidas y la o el Juez dictará la resolución que corresponda.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 247.
 
-Si el probable infractor resulta no ser responsable de la falta imputada, el Juez Calificador resolverá que no hay sanción que imponer y autorizará que se retire de las oficinas del Juez Calificador.
+Si la persona probable infractora resulta no ser responsable de la falta administrativa, la Jueza o Juez de Justicia Cívica resolverá que no hay sanción que imponer y autorizará que se retire de las oficinas del Juzgado de Justicia Cívica.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 248.
 
-El Juez Calificador en ningún caso autorizará el pago de una multa sin que el Secretario expida al interesado el recibo correspondiente, que contendrá la fecha, el motivo de la infracción, la cantidad a pagar, el nombre y la dirección del infractor. El pago correspondiente se realizará en la caja que la Tesorería Municipal haya implementado para tal caso o a quién ésta autorice.
+La Jueza o Juez de Justicia Cívica o Justicia Cívica Itinerante en ningún caso autorizará el pago de una multa sin que se expida a la persona interesada el recibo correspondiente, que contendrá la fecha, el motivo de la infracción, la cantidad a pagar, el nombre y la dirección de la o el infractor. El pago correspondiente se realizará en la caja que la Tesorería Municipal haya implementado para tal caso o a quién ésta autorice.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 249.
 
-El recibo al que se refiere el artículo anterior, deberá contenerse en el talonario en el que se hagan las mismas anotaciones, para los efectos de inspecciones o supervisiones de la Tesorería Municipal, de la Contraloría Municipal o de la Dirección de Juzgados Calificadores.
+El recibo al que se refiere el artículo anterior, deberá contenerse en el talonario en el que se hagan las mismas anotaciones, para los efectos de inspecciones o supervisiones de la Tesorería Municipal, de la Contraloría Municipal o de la Dirección de Juzgados de Justicia Cívica.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 250.
 
-En todos los procedimientos el Juez Calificador, respetará la garantía de previa audiencia, el principio de legalidad y el derecho de petición consagrados en los artículos 8, 14, 16, 17, 18, 20, 21 y 22 de la Constitución Política de los Estados Unidos Mexicanos.
+En todos los procedimientos la Jueza o Juez de Justicia Cívica o Justicia Cívica Itinerante, respetará la garantía de previa audiencia, el principio de legalidad y el derecho de petición consagrados en los artículos 8, 14, 16, 17, 18, 20, 21 y 22 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2012)</small>
+Cuando las partes del procedimiento acepten la realización de los medios alternativos de solución de controversias, el Jueza o Juez de Justicia Cívica o Justicia Cívica Itinerante registrará los casos en que ello ocurra y les dará seguimiento con apoyo de la persona mediadora.
 
-Cuando el procedimiento lo permita, a petición de cualquiera de las partes, se podrá trasladar el mismo a los sistemas de medios alternativos de solución de controversias con los que cuenta el H. Ayuntamiento de Puebla, debiendo el Juez Calificador registrar los casos en que ello ocurra y darle seguimiento luego de la Audiencia de Conciliación.
-
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 251.
 
-En todo lo no previsto en este Capítulo, se aplicarán las disposiciones del Código de Defensa Social para el Estado Libre y Soberano de Puebla, Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla, Código de Procedimientos Penales del Estado Libre y Soberano de Puebla y Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla.
+En todo lo no previsto en este Capítulo, se aplicarán las disposiciones del Código Penal del Estado Libre y Soberano de Puebla, Código Nacional de Procedimientos Penales, la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en materia penal y Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, Código Civil del Estado Libre y Soberano de Puebla, Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla, y demás ordenamientos jurídicos aplicables en la materia, siempre que sean en beneficio de las personas sujetas a los procedimientos que se instauran y no se opongan con lo dispuesto en el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 252.
 
-Es facultad del Presidente Municipal, resolver cualquier duda, respecto a la interpretación del presente Capítulo, la aplicación del mismo y las sanciones que establece, así como delegar mediante oficio estas facultades en el funcionario que designe.
+Es facultad de la persona titular de la Sindicatura Municipal, resolver cualquier duda, respecto a la interpretación del presente Capítulo, la aplicación del mismo y las sanciones que establece, así como delegar mediante oficio estas facultades en el funcionario que designe.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 252 Bis.
 
-En contra de las determinaciones que realice el Juez Calificador procederá el Recurso de Inconformidad en la forma y términos establecidos en el artículo 252 de la Ley Orgánica Municipal.
+En contra de las determinaciones que realice la Jueza o Juez de Justicia Cívica o de Justicia Cívica Itinerante procederá el Recurso de Inconformidad en la forma y términos establecidos en el artículo 252 de la Ley Orgánica Municipal.
 
 > <small>N. DE E. EL ACUERDO DE REFORMAS, PUBLICADO EN EL P.O. DE 2 DE MARZO DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE CAPÍTULO.</small>
 
@@ -39344,3 +39636,17 @@ P.O. 11 DE JUNIO DE 2021.
 PRIMERO. Las reformas, adiciones y derogación aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 5 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 8 DE MARZO DE 2021, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CAPÍTULO 9 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, CONFORME A LA ARMONIZACIÓN DEL MODELO HOMOLOGADO DE JUSTICIA CÍVICA, AL FORTALECIMIENTO DE LOS DERECHOS HUMANOS Y EL LENGUAJE INCLUYENTE”.]
+
+PRIMERO. Las reformas, adiciones y derogaciones aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+TERCERO. La Sindicatura Municipal en un lapso de 90 días, contados a partir de la entrada en vigor del presente Dictamen deberá realizar la propuesta de modificación y actualización reforma al Reglamento Interior de la Sindicatura Municipal.
+
+CUARTO. A partir de la entrada en vigor del presente dictamen se deberá entender por Juzgados y Jueces de Justicia Cívica cuando la normatividad vigente refiera a los Juzgados y Jueces Calificadores.
+
+QUINTO. La imposición de sanciones en lo que respecta a infracciones de tránsito o vialidad, por parte de las y los Jueces de Justicia Cívica, se implementará una vez que se realicen las reformas conducentes en la Ley, Código y Reglamento pertinente, a efecto de no vulnerar las atribuciones, facultades y competencia de autoridades diversas.
