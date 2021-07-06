@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-123513
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2020-12-29"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -391,7 +391,9 @@ XXXV. Remitir al Congreso los informes de auditoría, en los términos de ley;
 
 XXXVI. Sancionar a sus servidores públicos conforme a la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios;
 
-XXXVII. Cuidar que las formas valoradas y recibos no utilizados por los ayuntamientos o encargados de la hacienda municipal durante el ejercicio fiscal correspondiente sean concentrados en la Auditoría Superior, para su cancelación o revalidación;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+XXXVII. Cuidar que las formas valoradas y recibos no utilizados por los ayuntamientos, los Tesoreros o Encargados de la Hacienda Municipal durante el ejercicio fiscal correspondiente sean concentrados en la Auditoría Superior, para su cancelación o revalidación;
 
 XXXVIII. Emitir y publicar su Programa Anual de Auditoría y realizar las auditorías correspondientes conforme al mismo;
 
@@ -529,9 +531,9 @@ XVII. Formular los pliegos de recomendaciones a las entidades auditables que per
 
 XXVIII (SIC). Expedir certificaciones de documentos originales que obren en su archivo;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-XIX. Solicitar a la Secretaría de la Hacienda Pública, al funcionario encargado de la hacienda municipal o a la autoridad competente con respecto de las demás entidades auditables el cobro de los créditos fiscales, indemnizaciones y las derivadas de las sanciones administrativas que se impongan en los términos de esta ley;
+XIX. Solicitar a la Secretaria de la Hacienda Pública, al Tesorero o Encargado de la Hacienda Municipal o a la autoridad competente con respecto de las demás entidades auditables el cobro de los créditos fiscales, indemnizaciones y las derivadas de las sanciones administrativas que se impongan en los términos de esta ley;
 
 XX. Ordenar las visitas, inspecciones y revisiones de libros y documentos de las entidades auditables, de conformidad con esta ley;
 
@@ -651,7 +653,9 @@ V. No haber sido condenado por delito doloso que amerite pena corporal de más d
 
 VI. No ser ministro de alguna asociación religiosa, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley de Asociaciones Religiosas y Culto Público, reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
-VII. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General, Magistrado de algún tribunal estatal, integrante del Consejo de la Judicatura, Encargado de Hacienda Municipal o titular de algún ente auditable y fiscalizable, durante los dos años previos al día de su designación, y tener sus cuentas públicas aprobadas;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VII. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General, Magistrado de algún tribunal estatal, integrante del Consejo de la Judicatura, Tesorero o Encargado de (sic) Hacienda Municipal o titular de algún ente auditable y fiscalizable, durante los dos años previos al día de su designación, y tener sus cuentas públicas aprobadas;
 
 VIII. No haber sido Secretario de Estado, Procurador General de la República, Senador o Diputado Federal, durante los dos años previos al día de su designación;
 
@@ -1484,3 +1488,11 @@ P.O. 29 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28270/LXII/20 QUE REFORMA LOS ARTÍCULOS 3, 6, 13 Y 20 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28413/LXII/21 QUE MODIFICA LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LA LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LA LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY DE HACIENDA MUNICIPAL; ORDENAMIENTOS TODOS DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Los ayuntamientos del Estado de Jalisco, antes del 31 de diciembre de 2021, deberán realizarlas (sic) adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
