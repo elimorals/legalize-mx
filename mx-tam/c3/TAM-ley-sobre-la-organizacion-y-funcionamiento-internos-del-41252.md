@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2021-06-24"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1867,6 +1867,10 @@ DE LOS DICTAMENES
 
 5. Los dictámenes suspensivos comprenderán las consideraciones que compelen a la comisión o comisiones correspondientes a solicitar la prórroga del término a que se refiere el artículo 45 de esta ley para la formulación del dictamen definitivo.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+6. Cuando se trate de la emisión de dictámenes que impliquen tomar decisiones sobre cuestiones relacionadas a personas con discapacidad, se deberán celebrar previamente consultas estrechas, para escuchar la opinión de quienes pertenezcan a este segmento social, así como de las organizaciones que las representan.
+
 ###### ARTICULO 96.
 
 1. Si transcurrido el plazo previsto en el artículo 45 de esta ley sin que se haya producido dictamen, a solicitud de cualquiera de los integrantes del Pleno, el presidente de la Mesa Directiva exhortará a la comisión o comisiones respectivas a formularlo dentro de un período que juzgue razonable, no mayor a 15 días naturales.
@@ -3428,3 +3432,11 @@ P.O. 24 DE JUNIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a partir del 1° de octubre de 2021.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-548 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO 6 AL ARTÍCULO 95 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su expedición.
