@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2020-12-15"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -527,6 +527,10 @@ El acta entrega-recepción, es un acto obligatorio que no deberá dejar de reali
 
 Se entiende por entrega-recepción el acto jurídico administrativo a través del cual las autoridades Municipales salientes preparan y entregan a las autoridades entrantes todos los bienes, fondos y valores propiedad del Municipio, así como toda aquella documentación que, debidamente ordenada, clasificada y certificada, haya sido generada en la Administración Pública Municipal.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Las autoridades municipales salientes y entrantes recibirán capacitación por parte de la Auditoría Superior del Estado de Hidalgo, la cual será impartida de manera oportuna, siendo obligación de aquellas asistir a la misma.
+
 Al acto de entrega-recepción, la Auditoría Superior del Estado, designará un representante para que participe en el mismo, en calidad de testigo de asistencia.
 
 ###### ARTÍCULO 40.
@@ -767,13 +771,15 @@ f BIS).- En proporción a la posibilidad de sus recursos, otorgar apoyos para lo
 
 g).- Proveer y prestar, por conducto del Presidente Municipal, los servicios públicos a su cargo;
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
-h).- Presentar a la Auditoría Superior del Estado, a más tardar el treinta y uno de marzo de cada año, la cuenta pública del año anterior, con excepción a la correspondiente al último ejercicio, que deberá presentar a más tardar el 15 de febrero;
+h).- Presentar a la Auditoría Superior del Estado, a más tardar el treinta de abril de cada año, la cuenta pública del año anterior;
 
 i).- Ejercer en forma directa los recursos que integran la Hacienda Municipal, o bien por quien ellos autoricen, conforme a la Ley;
 
-j).- Desahogar, por conducto del Tesorero Municipal los procedimientos administrativos de ejecución del Municipio, a fin de asegurar la recuperación de los adeudos a favor de la Hacienda Municipal, en los términos de la Ley de la materia;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+j).- Desahogar, por conducto del Tesorero Municipal los procedimientos administrativos de ejecución del Municipio, a fin de asegurar la recuperación de los adeudos a favor de la Hacienda Municipal, así como créditos fiscales de la Auditoría Superior en los términos de las Leyes de la materia;
 
 k).- Auxiliar a las autoridades sanitarias en la ejecución de sus disposiciones;
 
@@ -799,9 +805,9 @@ q).- Analizar y aprobar, en su caso, la iniciativa de Ley de Ingresos, la que se
 
 r).- Proponer al Congreso del Estado, en el ámbito de su competencia, las cuotas y tarifas aplicables a impuestos, derechos, productos, aprovechamientos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria; así como las tasas de las contribuciones adicionales. Los Ayuntamientos y, en su caso, el Congreso del Estado, podrán solicitar los criterios técnicos de las dependencias del Poder Ejecutivo Estatal, a fin de respaldar sus proyectos y resoluciones;
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
-s).- Analizar y en su caso aprobar anualmente su presupuesto de egresos, el cual deberá ser aprobado por las dos terceras partes del Ayuntamiento; en caso de ser necesario realizar adecuaciones presupuestales, éstas deberán ser aprobadas en los términos señalados dentro del ejercicio fiscal al que correspondan y antes del gasto.
+s).- Analizar y en su caso aprobar anualmente su presupuesto de egresos, el cual deberá ser aprobado por las dos terceras partes del Ayuntamiento; en caso de ser necesario realizar adecuaciones presupuestales, éstas deberán ser aprobadas en los términos señalados dentro del ejercicio fiscal al que correspondan y antes del gasto. En ambos casos, se deberá observar lo dispuesto por las leyes de la materia.
 
 t).- Autorizar al Presidente Municipal, la celebración de contratos con particulares e instituciones oficiales, sobre asuntos de interés público, en los términos de Ley. Al efecto, los Ayuntamientos están facultados para obligarse crediticiamente a través del Presidente Municipal; en este caso, se deberán observar los criterios de aprobación establecidos en esta Ley, así como en las disposiciones de la materia.
 
@@ -1159,7 +1165,9 @@ ee).- Resolver los recursos administrativos que sean de su competencia;
 
 ff) Celebrar contratos y convenios, con particulares e instituciones oficiales, sobre asuntos de interés público, previa autorización del Ayuntamiento;
 
-gg).- Presentar ante la Auditoría Superior del Congreso del Estado, su declaración patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los treinta días hábiles siguientes a ésta.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+gg).- Presentar ante la Contraloría Municipal, su declaración patrimonial inicial, dentro de los sesenta días naturales siguientes a la toma de posesión; de modificación patrimonial, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los sesenta días naturales siguientes a ésta.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1329,9 +1337,9 @@ XIII.- Tramitar las expropiaciones que por causa de utilidad pública fueren nec
 
 XIV.- Dar cuenta al Presidente y al Ayuntamiento del arreglo definitivo que se hubiese logrado en los asuntos y del estado que guarden los mismos, a fin de dictar las providencias necesarias;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-XV.- Presentar ante la Auditoría Superior del Estado, su declaración patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los treinta días hábiles siguientes a ésta;
+XV.- Presentar ante la Contraloría Municipal, su declaración patrimonial inicial, dentro de los sesenta días naturales siguientes a la toma de posesión; de modificación patrimonial, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los sesenta días naturales siguientes a ésta;
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
 
@@ -1405,9 +1413,9 @@ X BIS.- Presentar el Informe Anual de Actividades durante el mes de agosto.
 
 XI.- Formular; con la participación de las instancias competentes del Ayuntamiento y de los sectores social y privado, el conocimiento y estudio de los asuntos en materia de Derechos Humanos, para lo cual se deberán atender las necesidades y características particulares de su Municipio, impulsar y fortalecer en todas las actividades que desarrolle el propio Ayuntamiento la protección y promoción de los derechos humanos; y
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-XII.- Presentar ante la Auditoría Superior del Estado, su declaración patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los treinta días hábiles siguientes a ésta;
+XII.- Presentar ante la Contraloría Municipal, su declaración patrimonial inicial, dentro de los sesenta días naturales siguientes a la toma de posesión; de modificación patrimonial, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los sesenta días naturales siguientes a ésta;
 
 > <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1901,7 +1909,9 @@ La inspección de la Hacienda Pública Municipal, se sujetará a lo siguiente:
 
 I.- Examinar si la contabilidad se lleva en forma adecuada, legal y técnica, y si se encuentra al corriente;
 
-II.- Averiguar si se defraudan los intereses del erario Municipal y las causas por las que no se recaude lo que corresponde, confrontar en la Tesorería las partidas de entrada con los recibos que se hayan expedido a los contribuyentes y cotejarlos con los comprobantes formulados al efecto por la Presidencia Municipal;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+II.- Averiguar si se defraudan los intereses del erario municipal y las causas por las que no se recaude lo que corresponde, confrontar en la Tesorería las partidas de entrada con los recibos que se hayan expedido a los contribuyentes y cotejarlos con los comprobantes formulados al efecto por la Presidencia Municipal, así como los emitidos en términos de las disposiciones en materia fiscal;
 
 III.- Conocer el monto de los rezagos y los motivos por los cuales no se hicieron oportunamente los cobros y exigir que se hagan desde luego con las medidas de apremio que marca la Ley;
 
@@ -3766,3 +3776,9 @@ Para dar cumplimiento a lo establecido en la fracción III BIS del artículo 119
 ###### ARTÍCULO CUARTO.
 
 Las autoridades municipales deberán realizar las previsiones financieras o adecuaciones presupuestales en el Presupuesto de Egresos según sea el caso, en materia de gestión de los Residuos Sólidos Urbanos, una vez que entre en vigor el presente Decreto.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 721 QUE REFORMA LOS INCISOS H), J) Y S) DE LA FRACCIÓN I DEL ARTÍCULO 56, EL INCISO GG) DE LA FRACCIÓN I DEL ARTÍCULO 60, LA FRACCIÓN XV DEL ARTÍCULO 67, LA FRACCIÓN XII DEL ARTÍCULO 69 Y LA FRACCIÓN II DEL ARTÍCULO 94; Y ADICIONA EL PÁRRAFO CUARTO RECORRIENDO EL CUARTO A QUINTO DEL ARTÍCULO 39 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
