@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2021-05-11"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -1489,6 +1489,28 @@ V. Tanto la comisión interinstitucional como las subcomisiones podrán emitir a
 
 VI. Para sesionar válidamente, será necesario contar con la asistencia de la mayoría de sus miembros y su Presidente. Las decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO CON SUS INCISOS [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes de la Comisión interinstitucional en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+l. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2021)</small>
+
+La convocatoria de la celebración de las sesiones a distancia, así como la redacción y la protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2021)</small>
+
+En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
+
 ###### Artículo 97.
 
 La Secretaría Ejecutiva llevará un registro de los acuerdos y recomendaciones del Sistema Estatal de Protección y dará seguimiento e informará sobre su cumplimiento, mediante el siguiente procedimiento:
@@ -1932,3 +1954,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
 
 TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28407/LXII/21 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 96 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
