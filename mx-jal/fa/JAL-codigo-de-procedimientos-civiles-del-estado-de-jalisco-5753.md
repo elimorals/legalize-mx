@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2020-02-18"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -504,11 +504,13 @@ Respecto de los poderes otorgados fuera del Estado, se observará lo dispuesto e
 
 De las Formalidades y de las Actuaciones Judiciales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 52.
 
-Las actuaciones judiciales y los ocursos deberán escribirse en idioma español. Los documentos redactados en idioma extranjero deberán ser acompañados con la correspondiente traducción; en caso de que sea objetada dicha traducción, el juez designará un perito. Para darle curso a la objeción, deberá estarse a lo establecido al respecto a la Sección Segunda del Capítulo IV del Título Sexto de este código.
+LAS ACTUACIONES JUDICIALES Y LOS OCURSOS DEBERÁN ESCRIBIRSE O REGISTRASE A TRAVÉS DE MEDIOS ELECTRÓNICOS EN IDIOMA ESPAÑOL. LOS DOCUMENTOS O REGISTROS DIGITALES REDACTADOS O HABLADOS EN IDIOMA EXTRANJERO DEBERÁN SER ACOMPAÑADOS CON LA CORRESPONDIENTE TRADUCCIÓN; EN CASO DE QUE SEA OBJETADA DICHA TRADUCCIÓN, EL JUEZ DESIGNARÁ UN PERITO. PARA DARLE CURSO A LA OBJECIÓN, DEBERÁ ESTARSE A LO ESTABLECIDO AL (SIC) RESPECTO A LA SECCIÓN SEGUNDA DEL CAPÍTULO IV DEL TÍTULO SEXTO DE ESTE CÓDIGO.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ENERO DE 2007)</small>
 
@@ -522,7 +524,13 @@ Las promociones que los pueblos o comunidades indígenas o los indígenas en lo 
 
 Las fechas y cifras numéricas, se escribirán con número y con letra, en caso de discrepancia, prevalecerá lo escrito con letra. Cuando se trate de cantidades monetarias, si la cantidad estuviese varias veces en palabras y cifras, valdrá la escrita con letra por la suma menor.
 
-Si el interesado no supiere o no pudiere firmar, estampará al calce sus huellas digitales y firmará una persona a su ruego; en caso de que exista también impedimento para estampar huellas, bastará que se haga constar esa circunstancia en el ocurso respectivo bajo protesta de decir verdad por el impedido y la persona que firme a su ruego ante dos testigos. Los escritos ilegibles y los que carezcan de firma sin ajustarse a lo antes establecido, no serán admitidos.
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+SI EL INTERESADO NO SUPIERE O NO PUDIERE FIRMAR, CUANDO SE TRATE DE ESCRITOS O ACTUACIONES IMPRESAS, ESTAMPARÁ AL CALCE SUS HUELLAS DIGITALES Y FIRMARÁ UNA PERSONA A SU RUEGO; EN CASO DE QUE EXISTA TAMBIÉN IMPEDIMENTO PARA ESTAMPAR HUELLAS, BASTARÁ QUE SE HAGA CONSTAR ESA CIRCUNSTANCIA EN EL OCURSO RESPECTIVO BAJO PROTESTA DE DECIR VERDAD POR EL IMPEDIDO Y LA PERSONA QUE FIRME A SU RUEGO ANTE DOS TESTIGOS. CUANDO SE TRATE DE ACTUACIONES QUE SE RECABEN EN MEDIOS DIGITALES, DEBERÁN CONTAR CON SU FIRMA ELECTRÓNICA; SI SE TRATA DE REGISTRO DE AUDIO O VIDEO, BASTARA CON LA MANIFESTACIÓN VERBAL PARA DEJAR CONSTANCIA DE LA MANIFESTACIÓN DE SU VOLUNTAD. LOS ESCRITOS ILEGIBLES O INAUDIBLES, Y LOS QUE CAREZCAN DE FIRMA SIN AJUSTARSE A LO ANTES ESTABLECIDO, NO SERÁN ADMITIDOS.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 Cuando este código se refiera a salarios mínimos, éstos deben entenderse a los establecidos para la capital del Estado.
 
@@ -884,17 +892,33 @@ La preparación de las pruebas queda a cargo de las partes en la forma y términ
 
 En cualquier estado del negocio podrán los jueces o tribunales citar a las partes a las juntas que crean convenientes, ya sea para procurar su avenimiento o para esclarecer algún punto, sin que se suspendan los términos que estén corriendo. Estas juntas, lo mismo que todas las diligencias, se verificarán en el juzgado o tribunal, a menos de que por su propia naturaleza deban practicarse en otro lugar, o cuando por razón de edad, enfermedad u otra circunstancia grave de las personas que deban intervenir, el juzgado o tribunal designe lugar diverso.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 82.
 
-Los jueces y los tribunales podrán para mejor proveer:
+LOS JUECES Y LOS TRIBUNALES PODRÁN PARA MEJOR PROVEER:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 I.- Decretar que se traiga a la vista cualquier documento que crean conveniente para esclarecer el derecho de las partes, si no hubiere inconveniente legal;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 II.- Decretar la práctica de cualquier reconocimiento o avalúo que reputen necesarios;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 III.- Traer a la vista cualesquiera autos que tengan relación con el pleito, si su estado lo permite.
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+IV.- ORDENAR LA PRÁCTICA DE DILIGENCIA O AUDIENCIA YA SEA PRESENCIAL O REMOTA CON MEDIOS ELECTRÓNICOS EN TIEMPO REAL, QUE LE PERMITA LA CONTINUIDAD DEL PROCESO Y EL DESAHOGO ADECUADO DE LOS MEDIOS DE PRUEBA.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 Al decretar y practicar las diligencias a que este artículo se refiere, los jueces y tribunales se sujetarán a las formalidades prescritas para las pruebas, aplicándose en lo conducente lo dispuesto por los artículos 283 y 284 de este código.
 
@@ -2730,11 +2754,11 @@ Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, se p
 
 De la Audiencia de Conciliación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
-ARTICULO 282 BIS.- Contestada que sea la demanda y, en su caso, la reconvención, el juez de oficio deberá citar a las partes a una audiencia conciliatoria que se verificará por una sola vez dentro de los quince días siguientes, sin que se suspenda el procedimiento ni los términos que estén corriendo.
+ARTICULO 282 BIS.- CONTESTADA QUE SEA (SIC) LA DEMANDA Y, EN SU CASO, LA RECONVENCIÓN, EL JUEZ DE OFICIO DEBERÁ CITAR A LAS PARTES A UNA AUDIENCIA CONCILIATORIA QUE SE VERIFICARÁ POR UNA SOLA VEZ DENTRO DE LOS QUINCE DÍAS SIGUIENTES, SIN QUE SE SUSPENDA EL PROCEDIMIENTO NI LOS TÉRMINOS QUE ESTÉN CORRIENDO; LA AUDIENCIA PODRÁ SER DESAHOGADA DE FORMA PRESENCIAL EN EL LOCAL DEL JUZGADO, O DE FORMA REMOTA EN TIEMPO REAL DEBIENDO CONSERVARSE LOS REGISTROS DIGITALES DE SU DESAHOGO COMO PARTE INTEGRAL DE LA PIEZA DE AUTOS.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -2782,9 +2806,13 @@ Reglas Generales de la Prueba.
 
 Para conocer la verdad sobre los puntos controvertidos, puede el juzgador valerse de cualquiera persona, sea parte o tercero, o de cualquiera cosa o documento, ya sea que pertenezca a las partes o a un tercero, sin más limitación que la de que las pruebas no estén prohibidas por la Ley, ni sean contrarias a la moral.
 
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 284.
 
-Los tribunales podrán decretar en todo tiempo, sea cual fuere la naturaleza del negocio, la práctica o ampliación de cualquiera diligencia probatoria, siempre que sea conducente para el conocimiento de la verdad sobre los puntos cuestionados. En la práctica de estas diligencias, el Juez obrará como estime pertinente para obtener el mejor resultado de ellas, sin lesionar el derecho de las partes, oyéndolas y procurando en todo su igualdad.
+Los tribunales podrán decretar en todo tiempo, sea cual fuere la naturaleza del negocio, la práctica o ampliación de cualquiera (sic) diligencia probatoria, siempre que sea conducente para el conocimiento de la verdad sobre los puntos cuestionados. La práctica de estas diligencias, podrá hacerse de forma presencial en el local del juzgado o de manera remota con el uso de videograbaciones en tiempo real , para lo que el Juez obrará como estime pertinente para obtener el mejor resultado de ellas, sin lesionar el derecho de las partes, oyéndolas y procurando en todo su igualdad.
 
 ###### ARTICULO 285.
 
@@ -2830,9 +2858,11 @@ Para informarse del texto, vigencia, sentido y alcance legal del derecho extranj
 
 Después de la contestación de la demanda o, en su caso, de contestado el escrito en que se proponga compensación o reconvención, la denuncia del pleito a un tercero, y una vez desahogada la audiencia prevista por el artículo 282 bis, el juez deberá citar a la audiencia de pruebas y alegatos, la que tendrá verificativo dentro de los treinta días posteriores a la petición.
 
-> <small>(F. DE E., P.O. 9 DE MAYO DE 2014)</small>
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-La audiencia será oral y una vez abierta se procederá a la presentación y al desahogo, por su orden, de las pruebas ofertadas, primero las de la parte actora, posteriormente las del demandado y, una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes para oír sentencia, misma que deberá ser dictada dentro del término legal.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+LA AUDIENCIA SERÁ ORAL, A JUICIO DEL JUEZ, SE DESAHOGARÁ YA SEA EN EL LOCAL DEL JUZGADO O DE FORMA REMOTA CON EL USO DE VIDEOGRABACIÓN EN TIEMPO REAL , Y UNA VEZ ABIERTA SE PROCEDERÁ A LA PRESENTACIÓN Y AL DESAHOGO, POR SU ORDEN, DE LAS PRUEBAS OFERTADAS, PRIMERO LAS DE LA PARTE ACTORA, POSTERIORMENTE LAS DEL DEMANDADO Y, UNA VEZ DESAHOGADAS, SE PROCEDERÁ A LA FORMULACIÓN DE ALEGATOS, YA SEA ORALMENTE O POR ESCRITO. ACTO CONTINUO EL JUEZ CITARÁ A LAS PARTES PARA OÍR SENTENCIA, MISMA QUE DEBERÁ SER DICTADA DENTRO DEL TÉRMINO LEGAL.
 
 El auto en que se ordene que el negocio se reciba a prueba, no admite recurso, aquél en que se niegue será apelable en ambos efectos si lo fuere la sentencia definitiva.
 
@@ -9106,6 +9136,186 @@ III.- Llegado el caso, el ejecutor, asociado de la parte que obtuvo y sirviendo 
 
 El tercero que considere perjudicados sus derechos al ejecutarse la sentencia en estos juicios, ocurrirá al Juez presentando sus pruebas, y éste con audiencia inmediata de las partes, resolverá si subsiste o no el secuestro o el acto de ejecución practicado, sin decidir sobre la propiedad de la cosa ni sobre los hechos controvertidos.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2021)</small>
+
+TITULO DECIMOQUINTO
+
+Del Juicio en Línea
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2021)</small>
+
+### CAPITULO I. Disposiciones Generales
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1099.
+
+Se entenderá por juicio en línea al procesamiento de información virtual, que permite la substanciación de asuntos jurisdiccionales ante el Poder Judicial del Estado; conforme a los lineamientos de operación establecidos en el presente título, así como los acuerdos que dicte el Supremo Tribunal de Justicia y el Consejo de la Judicatura, ambos del Estado de Jalisco.
+
+Los procedimientos virtuales o en línea se tramitarán conforme a las reglas y términos jurídicos procesales establecidos en este código para cada uno de los procedimientos que correspondan.
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1100.
+
+Para efecto del presente Título, se deberán tomar en cuenta las siguientes definiciones:
+
+I. Expediente Electrónico: Es el conjunto de documentos digitalizados, promociones electrónicas y resoluciones realizadas en el Sistema Informático, almacenados en su base de datos;
+
+II. Firma electrónica avanzada: Los datos que en forma electrónica son vinculados o asociados a un mensaje de datos y que corresponden al firmante, con la finalidad de asegurar la integridad y autenticidad del mismo, de tal forma que esté vinculada únicamente al firmante y a los datos a los que se refiere, de manera que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa;
+
+III. Notificación Electrónica: Proceso mediante el cual se dan a conocer las actuaciones judiciales realizadas en los procesos civiles, familiares y de jurisdicción concurrente a los usuarios del juicio en línea;
+
+IV. Promoción Electrónica: Es una promoción redactada, enviada a través del Sistema Informático y dirigida a un Expediente Electrónico en particular; y
+
+V. Sistema Informático: Es la plataforma virtual del Poder Judicial del Estado, mediante la cual se substancian los juicios en línea.
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1101.
+
+El Sistema Informático tendrá como funciones principales las siguientes:
+
+I. La formación del expediente;
+
+II. La consulta de expedientes electrónicos en cualquier momento y sin limitación alguna;
+
+III. La recepción electrónica de promociones o peticiones diversas; y
+
+IV. La notificación en forma electrónica de las resoluciones judiciales.
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1102.
+
+Cuando en este título no se encuentre disposición que permita establecer criterios de operación relacionados con el juicio en línea, el Supremo Tribunal de Justica y el Consejo de la Judicatura establecerán, mediante acuerdo, el criterio a seguir y tomar las medidas más convenientes para cumplir con los fines del Sistema Informático.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2021)</small>
+
+### CAPITULO II. De la consulta de expedientes electrónicos
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1103.
+
+La consulta de los expedientes electrónicos será realizada en cualquier día y hora, hábiles e inhábiles por los usuarios autorizados para tales efectos, en los términos que señala este Código, por lo que cada titular de los diferentes juzgados y salas asignará, según su criterio, uno o varios servidores públicos responsables para autorizar y revocar los usuarios, según sea el caso. Para ello, el secretario deberá levantar una constancia , señalando el día y la hora a partir de la cual quedó materialmente registrada dicha autorización en el sistema, asentándose, además, el número de expediente, el o los usuarios autorizados para acceder a la consulta electrónica, así como el nombre de la parte que otorga la autorización y, en su caso, su representación. Esta constancia también se levantará cuando se revoque la autorización de cualquier usuario.
+
+Para consultar la información de cada expediente se requiere una autorización individual, por lo que no se permitirá una autorización general para diversos asuntos.
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1104.
+
+Para acceder a la página electrónica del Sistema Informático, se creará un usuario y se asignará personalmente a éste una contraseña, la que se manejará bajo su responsabilidad en caso de transmisión a terceros, así como para la navegación en el portal de Internet, sin ningún tipo de responsabilidad para el Poder Judicial del Estado. Una vez creado el nombre del usuario y asignada la contraseña, podrá entrar al sistema mediante estos datos, los cuales crearán un registro de uso por parte del sistema para cuestiones estadísticas.
+
+Con esta contraseña podrá consultar la siguiente información de los expedientes judiciales: Nombre de las partes, número de expediente, juzgado que conoce el procedimiento, tipo de procedimiento, los acuerdos dictados dentro del proceso, las promociones y actuaciones judiciales digitalizadas dentro del proceso, tanto en primera como en segunda instancia.
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1105.
+
+Las resoluciones judiciales se generarán a través del sistema.
+
+Las salas y juzgados tienen la obligación de digitalizar todos los documentos que se alleguen físicamente al expediente por las partes o por los funcionarios judiciales, sin excepción alguna. En este caso, el secretario dará cuenta de las promociones recibidas, a más tardar dentro de veinticuatro horas siguientes a la presentación.
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1106.
+
+Los usuarios autorizados para la visualización completa de expedientes electrónicos podrán ser dados de baja a petición propia, y tratándose de usuarios facultados sólo para oír y recibir notificaciones, a petición de la parte que dio dicha autorización. Cuando se trate de apoderados, si el apoderado renuncia sin haber otro u otros apoderados reconocidos en el juicio, se debe prevenir al poderdante para que nombre otro apoderado o abogado patrono en el plazo de 5 días y de no hacerlo se seguirá el juicio sin su representante.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2021)</small>
+
+### CAPITULO III. De las promociones electrónicas
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1107.
+
+El promovente, al presentar su demanda, podrá hacer la solicitud expresa de acceso en línea al expediente y substanciar el procedimiento mediante el juicio en línea; de igual manera el demandado, al contestar su demanda, podrá hacerlo mediante dicha modalidad. Las partes se reservarán la posibilidad de presentar en cualquier momento algún otro tipo de promoción por escrito ante la autoridad que conozca el asunto.
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1108.
+
+Para efectos de presentar cualquier tipo de promoción electrónica, se deberán observar los siguientes requisitos:
+
+I. Presentar escrito dirigido a la autoridad que conoce del asunto, debiendo señalar el nombre completo y usuario con el cual se registró en el Sistema Informático, firmada electrónicamente por el representante legal o por cualquiera de las partes;
+
+II. Hacer mención expresa del número de expediente en el cual solicita la autorización; y
+
+III. Tratándose de varios interesados se deberá señalar sus respectivos nombres de usuarios, siempre y cuando estén autorizados en el expediente para oír y recibir notificaciones.
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1109.
+
+Cuando las partes del proceso han autorizado a una o más personas para presentar promociones, podrán revocar dicha autorización pidiéndolo así al juez o magistrado que conoce del procedimiento, quien deberá ordenar hacer la cancelación en el sistema inmediatamente después de que se dicte el acuerdo de conformidad.
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1110.
+
+Las promociones electrónicas se realizarán mediante el Sistema Informático, debiendo emplear para ello la firma electrónica avanzada.
+
+Las promociones se consideran presentadas a la hora que aparezca en el acuse de recibo que se genere. Por medio de la justicia electrónica se podrán presentar promociones todos los días de la semana en cualquier horario.
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1111.
+
+Cuando por fallas técnicas propias del Sistema Informático no sea posible presentar promociones, derivando en incumplimiento de los términos judiciales correspondientes, se hará del conocimiento de los tribunales y juzgados a efecto que estos resuelvan lo conducente; de ser así, la promoción se presentará en forma física.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2021)</small>
+
+### CAPITULO IV. De las notificaciones electrónicas
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1112.
+
+Las notificaciones realizadas electrónicamente a través del Sistema Informático se tendrán por legalmente practicadas y surtirán sus efectos en los términos de lo previsto por este Código.
+
+Lo anterior se tendrá en cuenta para el cómputo de términos judiciales conforme a las leyes aplicables.
+
+La notificación electrónica se deberá enviar en conjunto con todas las promociones, oficios o cualquier escrito que se hubieran acordado, así como la resolución completa que se notifica.
+
+(NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### ARTICULO 1113.
+
+El usuario que solicite la substanciación del juicio de manera virtual, acepta que todas las notificaciones se realicen por vía electrónica.
+
 ## TRANSITORIOS
 
 ART. 1°.- Este Código entrará en vigor el día primero de enero de 1939.
@@ -9657,3 +9867,11 @@ P.O. 18 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO27800/LXII/20 QUE REFORMA LOS ARTÍCULOS 685, 688 Y 689 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; Y EL ARTÍCULO 2045 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28327/LXII/21 QUE ADICIONA EL TÍTULO DÉCIMO SEGUNDO A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; QUE REFORMA LOS ARTÍCULOS 1, 2, 3 Y 8 TODOS DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA, PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y QUE REFORMA LOS ARTÍCULOS 52, 82, 282 BIS, 284 Y 290 Y SE ADICIONA EL TÍTULO DÉCIMOQUINTO, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco ". Se derogan todas las disposiciones que se opongan al presente decreto.
+
+SEGUNDO. El Supremo Tribunal de Justicia, así como el Consejo de la Judicatura, ambos del Estado de Jalisco, deberán realizar las acciones que correspondan , a efecto (sic) que los juicios en línea inicien su operación a más tardar doce meses después de la entrada en vigor del presente decreto.
