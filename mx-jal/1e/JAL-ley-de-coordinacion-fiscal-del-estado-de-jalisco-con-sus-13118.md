@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2020-11-26"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -364,11 +364,11 @@ Las autoridades fiscales municipales, en el ejercicio de las facultades y funcio
 
 ### CAPÍTULO VI. De los organismos en materia de coordinación fiscal
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 18.
 
-El Gobierno del Estado, por conducto de la Secretaría de la Hacienda Pública, el Congreso del Estado, por conducto de la Comisión de Hacienda y Presupuestos, y los Gobiernos Municipales, por conducto de sus Encargados de la Hacienda Municipal, participarán en el desarrollo, vigilancia y perfeccionamiento del sistema de distribución de participaciones a que se refiere esta ley, y de la colaboración administrativa entre dichos niveles de gobierno, a través del Consejo Estatal Hacendario.
+El Gobierno del Estado, por conducto de la Secretaria de la Hacienda Pública, el Congreso del Estado, por conducto de la Comisión de Hacienda y Presupuestos, y los Gobiernos Municipales, por conducto de sus Tesoreros o Encargados de la Hacienda Municipal, participarán en el desarrollo, vigilancia y perfeccionamiento del sistema de distribución de participaciones a que se refiere esta ley, y de la colaboración administrativa entre dichos niveles de gobierno, a través del Consejo Estatal Hacendario.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 19 DE OCTUBRE DE 2019)</small>
 
@@ -382,9 +382,9 @@ I. El Gobierno del Estado, por conducto del Secretario de la Hacienda Pública, 
 
 II. El Congreso del Estado, por conducto del Presidente de la Comisión de Hacienda y Presupuestos, y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-III. Los 125 Municipios, por conducto de los Encargados de la Hacienda Municipal de cada uno de los Ayuntamientos de la entidad.
+III. Los 125 Municipios, por conducto de los Tesoreros o los Encargados de la Hacienda Municipal de cada uno de los Ayuntamientos de la entidad.
 
 El Consejo Estatal Hacendario se establece como un órgano de consulta y análisis técnico, respecto del estudio, modificación y actualización de la legislación fiscal estatal y municipal de la entidad, en sus diversas modalidades, para proponerlos al Congreso del Estado, para su aprobación, por conducto de las instancias gubernativas correspondientes.
 
@@ -398,9 +398,9 @@ Las ausencias de los Titulares del Consejo Estatal Hacendario, podrá ser suplid
 
 2. El Presidente de la Comisión de Hacienda y Presupuestos del Congreso, por un representante que invariablemente será integrante de la misma Comisión, y
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
-3. Los Encargados de la Hacienda Municipal de cada uno de los Ayuntamientos de la entidad, por su Director de Ingresos, o la persona que éstos designen.
+3. Los Tesoreros o Encargados de la Hacienda Municipal de cada uno de los Ayuntamientos de la entidad, por su Director de Ingresos, o la persona que éstos designen.
 
 ###### Artículo 20.
 
@@ -641,3 +641,11 @@ P.O. 26 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28247/LXII/20 QUE MODIFICA LOS ARTÍCULOS 1°, 2°, 3°, 5°, 8°, 9°, 11, 13, 14, 15, 18, 20 Y 21; Y SE ADICIONA UN ARTÍCULO 9° BIS TODOS CORRESPONDIENTES A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28413/LXII/21 QUE MODIFICA LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LA LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LA LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY DE HACIENDA MUNICIPAL; ORDENAMIENTOS TODOS DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Los ayuntamientos del Estado de Jalisco, antes del 31 de diciembre de 2021, deberán realizarlas (sic) adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
