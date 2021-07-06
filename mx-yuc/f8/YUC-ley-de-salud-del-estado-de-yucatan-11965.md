@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2021-06-23"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -1592,6 +1592,12 @@ Las Autoridades Sanitarias determinarán los casos en que se deba proceder a la 
 ###### ARTICULO 129.
 
 El Estado realizará actividades de prevención y control del cáncer y las demás enfermedades no transmisibles que las autoridades sanitarias competentes determinen, coordinando sus actividades con otras Dependencias y Entidades Públicas y con la Secretaría para la investigación, prevención y control de dichas enfermedades.
+
+> <small>(ADICIONADO, D.O. 6 DE JULIO DE 2021)</small>
+
+ARTICULO 129 BIS.- Las autoridades sanitarias deberán, en el ámbito de sus competencias, verificar, vigilar y supervisar tanto las condiciones físicas, técnicas o cualquier otra, que garantice la calidad, idoneidad y eficacia del instrumental médico utilizado por centros de salud, clínicas y hospitales, en términos del presente capitulo y demás ordenamientos en materia de prevención al cáncer de mama, tratamientos oncológicos y demás enfermedades no transmisibles o padecimientos.
+
+Las autoridades sanitarias a las que hace referencia el articulo deberán verificar, vigilar y supervisar que el personal encargado de operar, maniobrar, manipular o (sic) utilicen el instrumental médico al que alude el párrafo que antecede, cuenten con los conocimientos técnicos para ello en términos de la normatividad aplicable.
 
 ###### ARTICULO 130.
 
@@ -3734,3 +3740,15 @@ Los recursos humanos, materiales, financieros y presupuestales con que cuenta la
 Décimo noveno. Previsiones presupuestales
 
 El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+D.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 387/2021 POR EL QUE SE MODIFICA (SIC) LEY DE SALUD DEL ESTADO DE YUCATÁN, EN MATERIA DE CALIDAD DEL INSTRUMENTAL MÉDICO EN LOS SERVICIOS PREVENTIVOS DE CÁNCER".]
+
+Artículo primero. Entrada en vigor.
+
+Este decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derogación tácita.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se opongan a este decreto.
