@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-para-los-municipios-del-estado-de-hidalgo-83952
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2017-12-25"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -179,7 +179,9 @@ VII.- Tratándose de construcciones en predios ejidales, el 60% de su valor cata
 
 VIII.- Tratándose de predios y edificaciones con fines industriales, incluidas haciendas de beneficio de metales y establecimientos metalúrgicos, el 100% de su valor catastral.
 
-En las Leyes de Ingresos de los Municipios se podrán establecer bases distintas a las consideradas en este Artículo, cuando el Municipio cuente con valores catastrales actualizados por lo menos con tres años de anterioridad y estos hayan sido debidamente aprobados por el Congreso.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+En las Leyes de Ingresos de los Municipios se podrán establecer bases distintas a las consideradas en este artículo, cuando el Municipio cuente con valores catastrales actualizados en el ejercicio fiscal anterior, teniendo una aplicabilidad de hasta el 10% en cada año subsecuente, hasta completar la totalidad del mismo y estos hayan sido debidamente aprobados por el Congreso.
 
 Se considera predio rústico el que se encuentra fuera de la mancha urbana y que en la vía de ubicación carezca de servicios municipales como son agua potable, luz, drenaje, transporte colectivo, teléfono, calles trazadas, entre otros.
 
@@ -1846,3 +1848,9 @@ P.O. 25 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 243 QUE REFORMA EL PÁRRAFO SÉPTIMO Y LOS INCISOS D) Y E) DEL ARTÍCULO 33 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 720 QUE REFORMA EL ARTÍCULO 13 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
