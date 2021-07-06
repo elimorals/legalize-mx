@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-instituto-de-la-infraestructura-fisica-96294"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2019-10-12"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el sábado 12 de octubre de 2013.
 
@@ -186,6 +186,28 @@ La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos l
 ###### Artículo 10.
 
 La Junta de Gobierno celebrará sesiones ordinarias cuando menos, una vez cada dos meses, de conformidad con lo que establezca el reglamento interno. El presidente de la Junta de Gobierno podrá convocar a sesiones extraordinarias para tratar asuntos cuya naturaleza lo amerite.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 6 DE JULIO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+> <small>[N. DE E. PERTENECE AL SEGUNDO PÁRRAFO, P.O. 6 DE JULIO DE 2021.]</small>
+
+La convocatoria de la celebración de las sesiones a distancia, así como la redacción y la protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
+
+> <small>[N. DE E. PERTENECE AL SEGUNDO PÁRRAFO, P.O. 6 DE JULIO DE 2021.]</small>
+
+En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 11.
 
@@ -402,3 +424,11 @@ P.O. 12 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27376/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 15, DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE JALISCO”.]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28403/LXII/21 DEL CONGRESO DEL ESTADO, QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 10 DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado de Jalisco contará con un término de 90 días hábiles para realizar las adecuaciones a los reglamentos y disposiciones administrativas que resulten aplicables, para dar cumplimiento con este decreto.
