@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2021-03-04"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1521,7 +1521,9 @@ La amnistía extingue tanto la acción penal como las sanciones impuestas, queda
 
 El perdón del ofendido o de la víctima, en su caso, extingue la acción penal, cuando concurran los requisitos siguientes:
 
-I.- Que el delito sea de los que se persiga a instancia de parte;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+I.- Que el delito sea de los que se persiga a instancia de parte, a excepción de los delitos previstos en los artículos 368 Bis y 368 Quáter;
 
 II.- Que el perdón se conceda antes de que cause ejecutoria la sentencia definitiva que se dicte; y
 
@@ -1533,9 +1535,9 @@ III.- Que lo otorgue el ofendido o la víctima por sí, o por medio de su repres
 
 También procede el perdón del ofendido o de la víctima cuando se trate de delitos que se persiguen de oficio, siempre y cuando se cubran los requisitos señalados en las fracciones II y III de este artículo, y se reúnan las siguientes condiciones:
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
-a).- Que el delito no sea de los considerados como graves por el artículo 109 del Código de Procedimientos Penales, que la penalidad no exceda de 5 años de prisión en su término medio aritmético y se trate de los previstos por los artículos 305 fracciones I y II, 307; 310; 312; 319 en relación con el 320 fracciones I y II, 322 fracciones I y II, 325 y 327; 329 en relación con el 20; 368 bis; 368 ter; 399 y 400 en relación con el 402 fracciones I, II y III y 403; y, 422 de este Código.
+a).- Que el delito no sea de los considerados como graves por el artículo 109 del Código de Procedimientos Penales, que la penalidad no exceda de 5 años de prisión en su término medio aritmético y se trate de los previstos por los artículos 305 fracciones I y II, 307; 310; 312; 319 en relación con el 320 fracciones I y II, 322 fracciones I y II, 325 y 327; 329 en relación con el 20; 399 y 400 en relación con el 402 fracciones I, II y III y 403; y, 422 de este Código.
 
 b).- Que el inculpado no tenga antecedentes penales y no se encuentre sujeto a diverso proceso por delito doloso.
 
@@ -4613,9 +4615,9 @@ ARTÍCULO 368 QUÁTER.- Se equipara a la violencia familiar y se sancionará con
 
 Asimismo se le sujetará a tratamiento psicológico especializado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
-ARTÍCULO 368 QUINQUIES.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público o el ofendido solicitará al Juez una orden de protección en un plazo de 24 horas después de la solicitud, previendo las medidas que considere necesarias para hacer cesar cualquier conducta que pudiere resultar ofensiva para la víctima, de conformidad con lo establecido en (sic) Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+ARTÍCULO 368 QUINQUIES.- En todos los casos previstos en los tres artículos precedentes, el Ministerio Público o el ofendido solicitará al Juez una orden de protección en un plazo de 24 horas después de la solicitud, previendo las medidas que considere necesarias para hacer cesar cualquier conducta que pudiere resultar ofensiva para la víctima, de conformidad con lo establecido en la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -6916,3 +6918,11 @@ P.O. 4 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-560 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 116, FRACCIÓN I DEL PÁRRAFO PRIMERO E INCISO A) DEL PÁRRAFO SEGUNDO; Y 368 QUINQUIES, PÁRRAFO PRIMERO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el (sic) día siguiente al de su Publicación en el Periódico Oficial del Estado.
