@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-deuda-publica-y-disciplina-financiera-del-estado-de-1174
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-26"
-last_updated: "2019-11-05"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 > <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2016)</small>
 
@@ -157,9 +157,11 @@ VI. Planeación: la contratación de financiamiento o asunción de obligaciones 
 
 VII. Sostenibilidad; la contratación de financiamiento y obligaciones deberá realizarse con base en la capacidad de pago presente y futura, sin comprometer la estabilidad o balance presupuestario sostenible necesario de las finanzas públicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Artículo 6.
 
-La contratación de obligaciones de corto plazo cuyo destino sea la atención de necesidades urgentes de liquidez sólo podrá realizarse por parte del Estado de Jalisco a través del poder ejecutivo o en el caso de los Municipios por medio del Presidente Municipal, Síndico, Secretario General y encargado de la Hacienda Municipal con Instituciones Financieras.
+La contratación de obligaciones de corto plazo cuyo destino sea la atención de necesidades urgentes de liquidez sólo podrá realizarse por parte del Estado de Jalisco a través del poder ejecutivo o en el caso de los Municipios por medio del Presidente Municipal, Síndico, Secretario General y el Tesorero o Encargado de la Hacienda Municipal con Instituciones Financieras.
 
 Estas operaciones se regirán por las disposiciones específicas de la Ley de Disciplina, sin perjuicio de las obligaciones de control e inscripción ante el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios.
 
@@ -213,9 +215,11 @@ Los límites y modalidades bajo los cuales los Entes Públicos Estatales o Munic
 
 La contratación de financiamiento, asunción de obligaciones, afectación de ingresos públicos y otorgamiento de garantías por los Entes Públicos Estatales y Municipales, serán materia de coparticipación entre el Congreso del Estado, el Poder Ejecutivo del Estado, los Ayuntamientos de los Municipios y la administración u órgano de gobierno de los Entes Públicos Estatales y Municipales, de conformidad con las atribuciones específicas para las mismas en el presente ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Artículo 13.
 
-Corresponde al Poder Ejecutivo del Estado, en el ámbito estatal, así como al Presidente Municipal en el ámbito Municipal, la conducción financiera, así como la ejecución e instrumentación de los programas de financiamiento autorizados por el Congreso del Estado. Por lo anterior, corresponderá al titular de la Secretaría o al encargado de la hacienda pública municipal, la determinación y aprobación de las características específicas de los actos, convenios o contratos en que se documente o estructuren las operaciones de financiamiento u obligaciones a ser asumidas por sus respectivos entes públicos; dentro de los límites en cuanto a monto, plazo, destino, concepto y condiciones generales autorizadas por el Congreso del Estado.
+Corresponde al Poder Ejecutivo del Estado, en el ámbito estatal, así como al Presidente Municipal en el ámbito Municipal, la conducción financiera, así como la ejecución e instrumentación de los programas de financiamiento autorizados por el Congreso del Estado. Por lo anterior, corresponderá al titular de la Secretaría o al Tesorero o Encargado de la Hacienda Municipal, la determinación y aprobación de las características específicas de los actos, convenios o contratos en que se documente (sic) o estructuren las operaciones de financiamiento u obligaciones a ser asumidas por sus respectivos entes públicos; dentro de los límites en cuanto a monto, plazo, destino, concepto y condiciones generales autorizadas por el Congreso del Estado.
 
 Dichos funcionarios, serán los responsables de confirmar que los financiamientos fueron celebrados en las mejores condiciones de mercado; es decir, aquellas donde el costo financiero fue el más bajo incluyendo todas las comisiones, gastos y cualquier otro accesorio relacionado con la contratación.
 
@@ -373,7 +377,9 @@ I. Elaborar y aprobar sus programas financieros anuales dentro de un apartado es
 
 II. Solicitar la aprobación, en (sic) Ley de Ingresos municipal correspondiente o en Decreto específico, la autorización del Congreso del Estado para la contratación de operaciones de financiamiento o la asunción de obligaciones, constitutivas de Deuda Directa o Contingente, y, en su caso, la afectación en garantía o como fuente de pago de los ingresos propios o de los ingresos por aportaciones o participaciones en ingresos federales o estatales que le correspondan al Municipio;
 
-III. Aprobar al Presidente Municipal, conjuntamente con el Síndico Municipal, Secretario del Ayuntamiento y el encargado de la hacienda municipal, la suscripción conjunta de los instrumentos preliminares y definitivos o actos relacionados con la formalización y estructuración de los financiamientos autorizados, sus garantías, mecanismos de fuente de pago, colaterales financieros, afectación de ingresos, calificación, garantía de pago oportuno, mandatos, instrucciones irrevocables o convenios, dentro de los límites y condiciones autorizados por el Congreso del Estado y en los términos de la Ley de Disciplina;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+III. Aprobar al Presidente Municipal, conjuntamente con el Síndico Municipal, Secretario del Ayuntamiento y el Tesorero o Encargado de la Hacienda Municipal, la suscripción conjunta de los instrumentos preliminares y definitivos o actos relacionados con la formalización y estructuración de los financiamientos autorizados, sus garantías, mecanismos de fuente de pago, colaterales financieros, afectación de ingresos, calificación, garantía de pago oportuno, mandatos, instrucciones irrevocables o convenios, dentro de los límites y condiciones autorizados por el Congreso del Estado y en los términos de la Ley de Disciplina;
 
 IV. Celebrar o adquirir Obligaciones de corto plazo para la atención de las necesidades de liquidez del Municipio, conforme a los limites y términos legalmente autorizados;
 
@@ -395,7 +401,9 @@ XII. Vigilar la capacidad de pago de los Entes Públicos Municipales y realizar 
 
 XIII. Las demás que en materia de deuda pública le corresponda conforme a la Ley de Disciplina, éste ordenamiento y las demás disposiciones legales aplicables.
 
-El Presidente Municipal, Síndico y el encargado de la hacienda pública municipal, serán los responsables de presentar ante el Registro Estatal de Obligaciones del Estado de Jalisco y sus Municipios, cualquier Financiamiento u Obligación Financiera, garantía o afectación de ingresos celebrada por el Ayuntamiento o ente público municipal correspondiente a inscripción, de manera previa a la disposición o desembolso respectivo.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+El Presidente Municipal, Síndico y Tesorero o Encargado de la Hacienda Municipal, serán los responsables de presentar ante el Registro Estatal de Obligaciones del Estado de Jalisco y sus Municipios, cualquier Financiamiento u Obligación Financiera, garantía o afectación de ingresos celebrada por el Ayuntamiento o ente público municipal correspondiente a inscripción, de manera previa a la disposición o desembolso respectivo.
 
 ### Capítulo V. Atribuciones de los Órganos de Gobierno de los Entes Públicos Paraestatales o Paramunicipales
 
@@ -421,7 +429,9 @@ IV. Autorizar la reestructuración, refinanciamiento, adecuación, modificación
 
 V. Informar a la Auditoría Superior del Estado, al remitir la cuenta pública correspondiente, de la situación que guarda la Deuda Pública Directa y Contingente del Ente Público, así como de las operaciones de reestructura, refinanciamiento, modificación, adecuación y demás realizadas, incluyendo la contratación, términos y condiciones, de los accesorios financieros contraídos con relación a las mismas;
 
-VI. Proporcionar la información que el Congreso del Estado le requiera de acuerdo a esta Ley, en relación con las operaciones de deuda pública, Financiamiento u Obligaciones, así como la que le solicite el titular del Poder Ejecutivo del Estado o la Secretaría, tratándose de Entes Públicos Estatales o la que le requieran el Ayuntamiento o el encargado de la hacienda pública municipal, tratándose de Entes Públicos Municipales o intermunicipales;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VI. Proporcionar la información que el Congreso del Estado le requiera de acuerdo a esta Ley, en relación con las operaciones de deuda pública, Financiamiento u Obligaciones, así como la que le solicite el titular del Poder Ejecutivo del Estado o la Secretaría, tratándose de Entes Públicos Estatales o la que le requieran el Ayuntamiento o el Tesorero o Encargado de la Hacienda Municipal, tratándose de Entes Públicos Municipales o intermunicipales;
 
 VII. Integrar, para efectos de control, registro y transparencia un registro de los Financiamientos y Obligaciones asumidas por el Ente Público. En el que inscribirá el total de los financiamientos que adquiera, las garantías otorgadas, el plazo original de pago pactado, las condiciones jurídicas y financieras vigentes, registro que publicará y mantendrá actualizado en su página oficial; y
 
@@ -457,7 +467,9 @@ Las partidas necesarias para el servicio de las obligaciones anteriores se consi
 
 Una vez autorizada la obtención de financiamiento por el Congreso del Estado, los Entes Públicos Estatales y Municipales podrán ocurrir a la contratación del mismo con Instituciones Financieras o al mercado bursátil, de conformidad con la autorización obtenida.
 
-Si se hubiera optado por solicitar el financiamiento directamente a instituciones financieras se deberán implementar los procedimientos de contratación regulados por la Ley de Disciplina los cuales serán implementados, en el caso del Estado, por la Secretaría y en el caso de los Ayuntamientos, por el encargado de la hacienda municipal; así mismo, tratándose de otros Entes Públicos Estatales o Municipales, los procedimientos serán conducidos por el titular de las mismas y el servidor público encargado de la administración de las finanzas del ente público o equivalente, salvo que se convenga la instrumentación de dicho procedimiento con la Secretaría tratándose de los entes públicos estatales o el encargo de la hacienda pública en el caso de los entes públicos municipales.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Si se hubiera optado por solicitar el financiamiento directamente a instituciones financieras se deberán implementar los procedimientos de contratación regulados por la Ley de Disciplina los cuales serán implementados, en el caso del Estado, por la Secretaría y en el caso de los Ayuntamientos, por el Tesorero o Encargado de la Hacienda Municipal; así mismo, tratándose de otros Entes Públicos Estatales o Municipales, los procedimientos serán conducidos por el titular de las mismas y el servidor público encargado de la administración de las finanzas del ente público o equivalente, salvo que se convenga la instrumentación de dicho procedimiento con la Secretaría tratándose de los entes públicos estatales o el encargo de la hacienda pública en el caso de los entes públicos municipales.
 
 En el caso de solicitar la autorización para realizar una emisión o colocación bursátil se deberán exponer las ventajas de dicho mercado ante el Congreso del Estado en el trámite de autorización correspondiente y el análisis de los costos integrales frente a la opción de optar por el mercado bancario o financiero directamente.
 
@@ -501,9 +513,11 @@ Para el caso de operaciones de financiamiento en que participen dos o más Entes
 
 La contratación de productos financieros derivados, colaterales o cualquier producto financiero vinculado a un financiamiento se realizará con base en el proceso competitivo aplicado a la obligación financiera subyacente salvo que se emitan lineamientos o reglas específicas para su contratación o se trate de productos o garantías colaterales a contraerse con la banca de desarrollo como respaldo de operaciones con instituciones financieras privadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Artículo 32.
 
-Concluido el evento de recepción de ofertas económicas en los procesos competitivos instrumentados, el titular de la Secretaría, encargado de la hacienda pública municipal o su equivalente en cada ente público, determinará qué oferta representa el costo financiero más bajo con base en el análisis integral de las comisiones, gastos y accesorios estipulados en las mismas, aplicando para ello las (sic) lineamientos y metodología emitidas por la Secretaría de Hacienda y Crédito Público.
+Concluido el evento de recepción de ofertas económicas en los procesos competitivos instrumentados, el titular de la Secretaría, el Tesorero o Encargado de la Hacienda Municipal o su equivalente en cada ente público, determinará qué oferta representa el costo financiero más bajo con base en el análisis integral de las comisiones, gastos y accesorios estipulados en las mismas, aplicando para ello las (sic) lineamientos y metodología emitidas por la Secretaría de Hacienda y Crédito Público.
 
 Al emitir el resultado del análisis comparativo de las propuestas de financiamiento, se identificará cada oferta presentada y el orden que corresponda a las mismas, a partir de aquélla que represente el costo financiero más bajo; resolviéndose la adjudicación en favor de las instituciones financieras o participantes que oferten el costo financiero más bajo y en proporción al monto de financiamiento ofertado.
 
@@ -511,9 +525,11 @@ Si alguna de las instituciones financieras o participantes no diera cumplimiento
 
 En el proceso de estructuración o negociación de las operaciones de financiamiento no podrán incluirse gastos, costos o conceptos que tenga como efecto un incremento en la tasa efectiva del financiamiento pero sí podrá adecuarse la estructura de comisiones o de revisión de tasa de interés aplicable a efecto de disminuir las mismas.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Artículo 33.
 
-El titular de la Secretaría o el Encargado de la Hacienda Pública Municipal o su equivalente en cada Ente Público, serán responsables de la evaluación de ofertas de financiamiento y de aplicar los lineamientos y metodología emitidas por la Secretaría de Hacienda y Crédito Público en los análisis que efectúen y conforme a las ofertas de financiamiento efectivamente recibidas; por tanto, no serán responsables de la actualización de comisiones o accesorios contingentes, los ajustes en la calificación crediticia del ente público contratante o de la estructura de financiamiento o cualquier otro evento que afecte las condiciones económicas y tenga por efecto un incremento en el costo del financiamiento o su tasa efectiva.
+El titular de la Secretaría o el Tesorero o Encargado de la Hacienda Municipal o su equivalente en cada Ente Público, serán responsables de la evaluación de ofertas de financiamiento y de aplicar los lineamientos y metodología emitidas por la Secretaría de Hacienda y Crédito Público en los análisis que efectúen y conforme a las ofertas de financiamiento efectivamente recibidas; por tanto, no serán responsables de la actualización de comisiones o accesorios contingentes, los ajustes en la calificación crediticia del ente público contratante o de la estructura de financiamiento o cualquier otro evento que afecte las condiciones económicas y tenga por efecto un incremento en el costo del financiamiento o su tasa efectiva.
 
 ###### Artículo 34.
 
@@ -531,13 +547,17 @@ A efecto de obtener la autorización legislativa para el financiamiento mediante
 
 En el supuesto que no existieran operaciones de crédito susceptibles de comparación por tratarse de plazos superiores a veinte años, se deberá sustentar la necesidad de un plazo mayor al referido de conformidad con las características de la inversión pública productiva a financiar.
 
-La contratación de financiamiento en el mercado bursátil será directamente coordinada por el titular de la Secretaría, encargado de la hacienda pública municipal o su equivalente en cada ente público a efecto de confirmar que en el proceso de emisión respectivo se obtuvieron las mejores condiciones de mercado de conformidad con la presente Ley y la Ley de Disciplina, lo anterior sin perjuicio de la asistencia, acompañamiento y asesoría por parte del agente o intermediario colocador colocador (sic) correspondiente.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+La contratación de financiamiento en el mercado bursátil será directamente coordinada por el titular de la Secretaría, el Tesorero o Encargado de la Hacienda Municipal o su equivalente en cada ente público a efecto de confirmar que en el proceso de emisión respectivo se obtuvieron las mejores condiciones de mercado de conformidad con la presente Ley y la Ley de Disciplina, lo anterior sin perjuicio de la asistencia, acompañamiento y asesoría por parte del agente o intermediario colocador colocador (sic) correspondiente.
 
 ###### Artículo 37.
 
 Las inconformidades por parte de alguna institución financiera o particular participante o invitado en los procesos competitivos para la contratación de financiamiento se resolverán en el ámbito administrativo mediante la presentación por escrito de la misma, en un término de tres días hábiles contados a partir de que se tuviera conocimiento del acto cuya irregularidad se reclame y ante el servidor público facultado para la coordinación general del proceso.
 
-El titular de la Secretaría, encargado de la hacienda pública municipal o su equivalente en cada ente público convocante estarán a cargo de la resolución de la inconformidad presentada.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+El titular de la Secretaría, Tesorero o Encargado de la Hacienda Municipal o su equivalente en cada ente público convocante estarán a cargo de la resolución de la inconformidad presentada.
 
 El escrito de inconformidad no será optativo y deberá exponer el motivo de la misma, el agravio ocasionado y las disposiciones legales, reglamentarias o el apartado de los lineamientos o reglas emitidas en relación al proceso que hubieran sido inadecuadamente aplicadas en perjuicio del participante o invitado, incluyendo los efectos para los cuales se promueva la inconformidad correspondiente, adjuntando los anexos que se consideren pertinentes.
 
@@ -872,3 +892,11 @@ P.O. 5 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27393/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28413/LXII/21 QUE MODIFICA LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LA LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LA LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY DE HACIENDA MUNICIPAL; ORDENAMIENTOS TODOS DEL ESTADO DE JALISCO".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Los ayuntamientos del Estado de Jalisco, antes del 31 de diciembre de 2021, deberán realizarlas adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
