@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-18"
-last_updated: "2019-11-19"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
 
@@ -425,9 +425,9 @@ XXI. Expedir certificaciones sobre los actos jurídicos, inscripciones y documen
 
 XXII. Expedir, a solicitud expresa, copias certificadas de los documentos que obren en el archivo del catastro, las que bajo ningún concepto significarán el reconocimiento o aceptación de un derecho. Estos documentos son exclusivamente para fines fiscales, urbanísticos y estadísticos;
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-XXIII. Informar al servidor público encargado de la Hacienda Municipal cuando proceda efectuar el cobro de los derechos por los servicios catastrales prestados, de conformidad a lo que se establezca en su propia Ley de Ingresos;
+XXIII. Informar al Tesorero o Encargado de la Hacienda Municipal cuando proceda efectuar el cobro de los derechos por los servicios catastrales prestados, de conformidad a lo que se establezca en su propia Ley de Ingresos;
 
 XXIV. Acreditar a los peritos valuadores conforme a las disposiciones de esta Ley y sus reglamentos;
 
@@ -609,13 +609,15 @@ Para el funcionamiento interno del Consejo Técnico Catastral del Estado, sus co
 
 Los ayuntamientos, aun cuando hubieren celebrado convenio con el Ejecutivo del Estado para la administración de su Catastro, deberán constituir el Consejo Técnico de Catastro Municipal, conforme a las bases siguientes:
 
-I. Se integrará por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JULIO DE 2021)</small>
+
+I. Se podrá integrar por:
 
 A. El Presidente Municipal o su representante, que será el Presidente del Consejo;
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
-B. El Funcionario encargado de la Hacienda Municipal o su representante, que será el Secretario del Consejo;
+B. El Tesorero o Encargado de la Hacienda Municipal o su representante, que será el Secretario del Consejo;
 
 C. El titular del catastro municipal o quien haga sus veces en caso de convenio;
 
@@ -1518,3 +1520,11 @@ Séptimo.- Los sujetos obligados deberán realizar las adecuaciones presupuestal
 Octavo.- La integración de las auditorías archivísticas en el programa anual de auditorías, deberá ser contemplada en el programa anual 2020.
 
 Noveno.- Para aquellos sujetos obligados que a la entrada en vigor del presente decreto no cuenten con un portal electrónico al que se refiere el artículo 65 de la Ley de Archivos del Estado de Jalisco y sus Municipios que se expide a través de este decreto, la publicación de los expedientes de disposición documental y transferencia secundaria se realizará a través del portal del Archivo General del Estado en los términos de las disposiciones legales aplicables.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28413/LXII/21 QUE MODIFICA LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LA LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LA LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY DE HACIENDA MUNICIPAL; ORDENAMIENTOS TODOS DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Los ayuntamientos del Estado de Jalisco, antes del 31 de diciembre de 2021, deberán realizarlas (sic) adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
