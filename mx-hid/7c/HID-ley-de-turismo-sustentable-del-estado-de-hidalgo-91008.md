@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2020-08-17"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -37,7 +37,9 @@ QUE CONTIENE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO.
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 
-A N T E C E D E N T E S.
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -58,6 +60,14 @@ Su aplicación e interpretación se hará en coordinación con las autoridades E
 ###### Artículo 2.
 
 El objeto de esta Ley es establecer las bases para el ordenamiento y gestión del Sector Turístico del Estado de Hidalgo, así como los mecanismos de planeación, promoción, fomento, regulación y desarrollo local sustentable de la actividad turística.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+El turismo comprende los procesos que se derivan de las actividades que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos contemplados en esta Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Los procesos que se generan por la materia turística son una actividad prioritaria nacional que, bajo el enfoque social y económico, genera desarrollo social.
 
 ###### Artículo 3.
 
@@ -121,6 +131,10 @@ IV.- Comisión Ejecutiva: La Comisión Estatal Ejecutiva de Turismo;
 
 V.- Consejo: El Consejo Consultivo para el Desarrollo Turístico Sustentable de Hidalgo;
 
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+V Bis.- Comité: El Comité Ciudadano de los Pueblos Mágicos;
+
 VI.- Consejo Municipal: El Consejo Consultivo Municipal de Turismo Sustentable del Estado de Hidalgo;
 
 VII.- Guía de turistas: Especialista que tiene conocimiento sobre algún atractivo o tema en específico y obtuvo reconocimiento por la autoridad competente en su respectiva categoría de turismo;
@@ -140,6 +154,10 @@ XIII.- Programa: Programa Sectorial de Turismo del Estado de Hidalgo;
 XIV.- Promotora: Promotora Turística de Hidalgo;
 
 XV.- Recursos Turísticos: Todos los elementos naturales o artificiales de un lugar o región que constituyen o puedan constituir un atractivo para la actividad turística;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+XV Bis.- Pueblo Mágico: Localidad con Nombramiento emitido por la Secretaria de Turismo Federal, que es representada por su municipio, la cual a través del tiempo y ante la modernidad, ha conservado su patrimonio y manifiesta sus expresiones de forma excepcional y Cumple los requisitos de permanencia;
 
 XVI.- Reglamento: El de la Ley de Turismo Sustentable del Estado de Hidalgo;
 
@@ -197,7 +215,7 @@ XXV.- Turista: La persona que viaja temporalmente fuera de su lugar de residenci
 
 XXVI.- Zonas de Desarrollo Turístico Estatal Prioritarias: Referidas a los espacios del territorio estatal, claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyan un atractivo turístico; y
 
-XXVII.-Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán mediante declaratoria específica que emitirá el Presidente de la República.
+XXVII.- Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán mediante declaratoria específica que emitirá el Presidente de la República.
 
 ###### Artículo 6.
 
@@ -205,19 +223,35 @@ Se consideran servicios turísticos, los prestados a través de:
 
 I.- Hoteles, moteles, albergues, estancias, balnearios y demás establecimientos de hospedaje, así como campamentos turísticos y/o educativos y paradores de casas rodantes que presten servicios a turistas, así como los inmuebles privados que sirvan de alojamiento para turistas;
 
-II.- Agencias, operadores, comisionistas y mayoristas de viajes, asesores e intermediarios en la reservación y contratación de servicios turísticos;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+II.- Agencias, subagencias, operadores, comisionistas y mayoristas de viajes, asesores e intermediarios en la reservación y contratación de servicios turísticos;
 
 III.- Guías de turistas, de acuerdo con la clasificación prevista por el Reglamento de la Ley General;
 
-IV.- Restaurantes, cafeterías, bares, centros nocturnos y establecimientos similares que se encuentren ubicados en los lugares señalados en la fracción I de este artículo, así como en aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos y zonas de atractivos naturales o arqueológicas;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+IV.- Restaurantes, cafeterías, bares, centros nocturnos y establecimientos similares que se encuentren ubicados en los lugares señalados en la fracción I de este artículo, así como en aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos, haciendas y zonas de atractivos naturales, arqueológicas o recreativas;
 
 V.- Empresas de transporte especializado en excursiones o viajes de turismo por tierra, aire o cuerpos de agua;
 
 VI.- Empresas dedicadas a la renta de automóviles u otros medios de transporte;
 
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VI Bis.- Organizadores de congresos, convenciones, ferias, exposiciones y reuniones de grupos de trabajo o capacitación que generen flujos de turismo;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VI Ter.- Las instituciones u organizaciones académicas o culturales que entre sus actividades también se relacionen al servicio turístico;
+
 VII.- Centros de enseñanza de idiomas, cuyos servicios estén orientados a turistas; y
 
 VIII.- Los demás considerados como tales por la Ley General.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Todos estos servicios deben ofrecerse y prestarse bajo el principio de responsabilidad social.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2016)</small>
 
@@ -289,13 +323,33 @@ XXVII.- Diseñar y publicar la Guía del Inversionista Turístico del Estado de 
 
 XXVIII.- Promover e impulsar estrategias institucionales para el desarrollo del turismo de convenciones y visitantes, así como de segmentos como el turismo de salud, de naturaleza, cinegético, de aventura, religioso, el turismo social, entre otros, que generen una afluencia de turistas al Estado;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-XXVIII Bis.- Fomentar la inclusión digital en los establecimientos que ofrezcan un servicio turístico.
+XXVIII Bis.- Fomentar la inclusión digital en los establecimientos que ofrezcan un servicio turístico;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
 
-XXIX.- Promover e impulsar estrategias para desarrollar el Turismo sustentable en los Pueblos y Comunidades indígenas del Estado, protegiendo los recursos naturales y el patrimonio natural y cultural de los territorios que habitan;
+XXVIII Ter.- Promover el aprovechamiento de los principales atractivos turísticos culturales e históricos de las localidades que sean catalogadas como Pueblos Mágicos dentro del Estado, con finalidad de que sean difundidas a nivel local, nacional e internacional;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+XXVIII Quater.- La secretaría promoverá la difusión de los valores artísticos, culturales, históricos y arqueológicos de las localidades con el nombramiento de Pueblo Mágico a nivel local, nacional e internacional;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+XXIX.- Vigilar en lo general el cumplimiento de esta Ley, de la Ley General y demás disposiciones reglamentarias que de ellas se deriven;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+XXIX Bis.- Promover que los prestadores de servicios turísticos apliquen políticas y prácticas de inclusión y equidad de género;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+XXIX Ter.- Promover una cultura ecológica y de preservación del medio ambiente en los servicios turísticos;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+XXIX Quater.- Conjuntar esfuerzos en materia de verificación e inspección, mediante convenios de coordinación con las autoridades en materia de salubridad, seguridad, protección civil, higiene o protección al consumidor, así como con los municipios; y
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -333,9 +387,19 @@ II. 2. Colaborar en la identificación de las necesidades de señalización para
 
 III.- Coadyuvar y coordinar con la Secretaría de Medio Ambiente y Recursos Naturales de Hidalgo:
 
-III. 1. La instrumentación de programas y medidas para la preservación de los recursos naturales, de la prevención de la contaminación, así como promover el turismo alternativo y sustentable de bajo impacto en atractivos y medio ambiente; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+III. 1. La instrumentación de programas y medidas para la preservación y aprovechamiento de los recursos naturales, de la prevención de la contaminación, así como promover el turismo alternativo y sustentable de bajo impacto en atractivos y medio ambiente;
 
 III. 2. La promoción y desarrollo del turismo de naturaleza, en los lugares propicios para ello, cuidando el impacto ecológico;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+III. 3. Mantenimiento, limpieza y mejoramiento ambiental de lugares turísticos; y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+III. 4. Minimizar la generación de residuos y prohibir la utilización de platicos de un solo uso descartables, de acuerdo con la legislación vigente;
 
 IV.- Promover y fomentar con la Secretaría de Desarrollo Económico del Estado de Hidalgo:
 
@@ -367,11 +431,15 @@ VI. 3. El trabajo conjunto y coordinado con los centros de enseñanza de los dif
 
 VII.- Colaborar con la Secretaría de Trabajo y Previsión Social del Estado de Hidalgo, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de los prestadores de servicios turísticos, incorporando a las personas con alguna discapacidad y personas de la tercera edad;
 
-VIII.- Promover y fomentar, en coordinación con el Consejo Estatal para la Cultura y las Artes de Hidalgo, así como con el Instituto Nacional de Bellas Artes y Literatura, y el Instituto Nacional de Antropología e Historia, el patrimonio histórico, artístico, arqueológico y cultural del Estado, de acuerdo con el marco jurídico vigente;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VIII.- Promover y fomentar, en coordinación con las secretarías de Cultura del Gobierno Federal y Estatal, el patrimonio histórico, artístico, arqueológico y cultural del Estado de Hidalgo;
 
 IX.- Coadyuvar con los centros de enseñanza superior, Dependencias y Entidades de la Administración Pública Estatal, para impulsar proyectos productivos, inversión turística, y de investigación que cumplan con las disposiciones legales y normativas aplicables;
 
-X.- Bajo la coordinación de la Secretaría de Finanzas y Administración del Gobierno de Hidalgo, apoyar la instrumentación de los estímulos fiscales autorizados y aplicables, dirigidos a elevar la inversión y el empleo en el sector turístico, de acuerdo a las disposiciones legales en la materia;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+X.- Bajo la coordinación de la Secretaría de Finanzas Públicas y Administración del Gobierno de Hidalgo, apoyar la instrumentación de los estímulos fiscales autorizados y aplicables, dirigidos a elevar la inversión y el empleo en el sector turístico, de acuerdo a las disposiciones legales en la materia;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -419,7 +487,17 @@ XII.- Emitir opinión ante las instancias correspondientes, y ejecutar las accio
 
 XIII.- Operar módulos de información y orientación al turista;
 
-XIV.- Recibir y canalizar las quejas de los turistas nacionales y extranjeros, para su atención ante la autoridad competente; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+XIV.- Recibir y canalizar las quejas de los turistas nacionales y extranjeros, para su atención ante la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+XIV Bis.- Promover el impulso de las micro, pequeñas y medianas empresas turísticas que se encuentren dentro de su territorio;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+XIV Ter.- Participar en los programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos, conforme a las políticas y programas de protección civil que al efecto se establezcan; y
 
 XV.- Las demás previstas en éste y otros ordenamientos vigentes aplicables.
 
@@ -515,9 +593,13 @@ La Comisión Ejecutiva podrá crear comités especializados para los diversos as
 
 En cumplimiento de lo establecido en la Ley General, el Consejo será el órgano de consulta de la Secretaría y el instrumento por el que se fomentarán acciones de cooperación, análisis y suma de esfuerzos entre los sectores público, privado y social, con el fin de lograr un desarrollo integral y sustentable de la actividad turística del Estado. Este será integrado bajo el principio de paridad de género.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Artículo 24.
 
-El Consejo estará presidido por el Titular del Ejecutivo Estatal y en sus ausencias, por el titular de la Secretaría; estará integrado por los funcionarios competentes de las Dependencias y Entidades de la Administración Pública Estatal involucrados con los asuntos del sector turístico, por los Presidentes Municipales vinculados a los temas, proyectos y asuntos definidos para tratar en cada sesión del Consejo, conforme lo establecido en las disposiciones reglamentarias de esta Ley.
+El Consejo estará presidido por el Titular del Ejecutivo Estatal y en sus ausencias, por el titular de la Secretaría; estará integrado por los funcionarios competentes de las Dependencias y Entidades de la Administración Pública Estatal involucrados con los asuntos del sector turístico, por un representante del Comité, por los Presidentes Municipales vinculados a los temas, proyectos y asuntos definidos para tratar en cada sesión del Consejo, conforme lo establecido en las disposiciones reglamentarias de esta Ley.
+
+El Comité deberá estar integrado conformé a la normatividad vigente.
 
 ###### Artículo 25.
 
@@ -609,11 +691,11 @@ La Secretaría procurará que los programas de señalización del sector conside
 
 El Estado a través de la Secretaría promoverá a nivel nacional e internacional el turismo gastronómico, a través de la difusión del Compendio de la Gastronomía Hidalguense, en el cual se exprese la amplia riqueza culinaria representada por los platillos típicos de las diversas regiones del Estado.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 36 Ter.
 
-Corresponde a la Secretaría elaborar en coordinación con el Consejo Nacional para la Cultura y las Artes, el Consejo Estatal para la Cultura y las Artes de Hidalgo y con los municipios de la entidad, el Compendio de la Gastronomía Hidalguense.
+Corresponde a la Secretaría elaborar en coordinación con el Consejo Nacional para la Cultura y las Artes, la Secretaría de Cultura del Gobierno del Estado de Hidalgo y con los municipios de la entidad, el Compendio de la Gastronomía Hidalguense.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
@@ -681,7 +763,7 @@ Corresponde a la Secretaría desarrollar las acciones de promoción del Estado, 
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
 
-I. Promover, en coordinación con las Dependencias y entidades competentes, así como con los sectores involucrados, las tradiciones, costumbres, identidad y la riqueza artesanal, así como el patrimonio natural y cultural de los pueblos y comunidades indígenas que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación y promoción.
+I.- Promover, en coordinación con las Dependencias y entidades competentes, así como con los sectores involucrados, las tradiciones, costumbres, identidad y la riqueza artesanal, así como el patrimonio natural y cultural de los pueblos y comunidades indígenas que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación y promoción.
 
 II.- Desarrollar e implementar la marca Hidalgo, para reforzar su imagen como una entidad atractiva, segura y con una oferta turística diversa;
 
@@ -691,13 +773,17 @@ IV.- Coordinar la participación del Estado en los programas turísticos regiona
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
 
-V. Apoyar las celebraciones tradicionales y folklóricas, así como la exposición y demostración artesanal, que promuevan las tradiciones y costumbres del Estado, potenciando una mayor afluencia de visitantes en los lugares de celebración.
+V.- Apoyar las celebraciones tradicionales y folklóricas, así como la exposición y demostración artesanal, que promuevan las tradiciones y costumbres del Estado, potenciando una mayor afluencia de visitantes en los lugares de celebración.
 
 VI.- Impulsar, estimular y promover, en coordinación con las Dependencias y Entidades de las Administraciones Públicas del Estado y Municipios, así como con los sectores privado y social, el desarrollo de congresos y convenciones, ferias, exposiciones y certámenes en la Entidad, con el fin de incrementar el flujo de visitantes al Estado y aumentar el gasto promedio;
 
 VII.- Utilizar la información de las investigaciones y estudios sobre los visitantes al Estado, para incrementar la calidad y la competitividad de la oferta turística para generar las estrategias de comunicación y mercadotecnia requeridas;
 
 VIII.- Crear un banco de imágenes del Estado, organizado por destino y mantenerlo actualizado;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VIII Bis.- Ofrecer material e información especializada encaminada a promover la visita a los Pueblos Mágicos con que cuenta el Estado;
 
 IX.- Promover y coordinar con los diversos participantes de la actividad turística, la participación del Estado en eventos oficiales de promoción turística nacionales e internacionales, tales como ferias, tianguis, seminarios y exposiciones; y
 
@@ -739,6 +825,26 @@ Cuando se trate de inversiones en el sector turístico, se podrá considerar el 
 
 La Secretaría, en coordinación con los gobiernos Municipales y en el ejercicio de sus atribuciones, instrumentará programas y acciones para mejorar los niveles de competitividad, calidad, certificación y capacitación de los prestadores de servicios turísticos y de la oferta de servicios.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### Artículo 54 Bis.
+
+La capacitación a que hace referencia el artículo anterior y los demás relativos en esta Ley, estará encaminada en todo momento a mejorar el desempeño de las actividades y la calidad de los servicios, y deberá ser impartida en las siguientes directrices:
+
+I.- Deberá ir encaminada para los Prestadores de Servicios Turísticos y las y los servidores públicos involucrados a efecto de que se conduzcan de forma ética, profesional, apegados a las disposiciones legales que tiendan a proteger a los sectores sociales en materia turística;
+
+II.- Será gratuita y accesible para Prestadores de Servicios Turísticos y empresas de inversionistas hidalguenses, y a las y los servidores públicos involucrados;
+
+III.- Deberá de capacitarse por lo menos una vez al año a los Prestadores de Servicios Turísticos y empresas ya establecidos dentro de territorio hidalguense, y a las y los servidores públicos involucrados;
+
+IV.- Fomentará el conocimiento de las riquezas naturales, históricas y culturales del Estado, de la región y del Municipio;
+
+V.- La capacitación será de acuerdo a los criterios de inclusión, equidad y no discriminación;
+
+VI.- Se deberá capacitar en materia de Protección Civil, Primeros Auxilios, Seguridad y Salud a los Prestadores de Servicios Turísticos y empresas ya establecidos dentro de territorio hidalguense, y a las y los servidores públicos involucrados, con el fin de salvaguardar la integridad de las y los turistas; y
+
+VII.- Las demás previstas en este y en otros ordenamientos aplicables.
+
 ###### Artículo 55.
 
 La Secretaría fomentará:
@@ -751,15 +857,19 @@ III.- La actualización y modernización de las empresas turísticas, a través 
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-IV. Programas para mejorar la calidad de los servicios turísticos, a través de distintivos, certificados y reconocimientos propios y característicos del Estado;
+IV.- Programas para mejorar la calidad de los servicios turísticos, a través de distintivos, certificados y reconocimientos propios y característicos del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-V. La coordinación de acciones entre los diferentes niveles de gobierno para promover, fomentar y respaldar el desarrollo de la oferta turística del Estado que haya cumplido con requisitos de calidad; y
+V.- La coordinación de acciones entre los diferentes niveles de gobierno para promover, fomentar y respaldar el desarrollo de la oferta turística del Estado que haya cumplido con requisitos de calidad;
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-VI. Programas de profesionalización para los pueblos y comunidades indígenas que respondan a sus necesidades y enfocado, al desarrollo de actividades de turismo sustentable dentro de sus comunidades, garantizando en todo momento el respeto y preservación de su identidad.
+VI.- Programas de profesionalización para los pueblos y comunidades indígenas que respondan a sus necesidades y enfocado (sic) al desarrollo de actividades de turismo sustentable dentro de sus comunidades, garantizando en todo momento el respeto y preservación de su identidad; y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VII.- Programas para mejorar la calidad y competitividad de los servicios turísticos que se brindan en los Pueblos mágicos del Estado.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -796,6 +906,8 @@ III.- Definir los lineamientos para su ejecución, seguimiento, evaluación y mo
 Los procedimientos para la formulación, aprobación, expedición, evaluación y posibles modificaciones de los Ordenamientos Turísticos del Territorio Estatal, se apegarán a la legislación local aplicable en la materia y deberán ser congruentes y corresponder a los programas de ordenamiento turístico general y regional que hayan sido expedidos por la Federación.
 
 ### CAPÍTULO XXII. DE LA VERIFICACIÓN DE LOS SERVICIOS Y SANCIONES
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 62.
 
@@ -853,7 +965,9 @@ III.- Los Campamentos turísticos y los ubicados en terrenos donde se ofrezcan a
 
 IV.- Agencias de viaje en todas sus modalidades;
 
-V.- Los ofrecidos en Balnearios y en sus alrededores, los ranchos cinegéticos, miradores, zoológicos, ferias, exposiciones de arte popular y desarrollos ecoturísticos dentro del Estado;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+V.- Los ofrecidos en Balnearios y en sus alrededores, los ranchos cinegéticos, miradores, zoológicos, ferias, artesanos, exposiciones de arte popular y desarrollos ecoturísticos dentro del Estado;
 
 VI.- Los que ofrezcan servicios de paquetes turísticos-recreativos, ya sea de forma habitual o esporádica y con fines eminentemente lucrativos;
 
@@ -863,7 +977,13 @@ VIII.- Restaurantes, cafeterías, bares, cantinas, centros nocturnos, discotecas
 
 IX.- Los guías de turistas en todas sus modalidades;
 
-X.- Escuelas de idiomas especializadas con servicio orientado a turistas; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+X.- Escuelas de idiomas especializadas con servicio orientado a turistas;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+X Bis.- Los ofrecidos por empresas promotoras de actividades turísticas; y
 
 XI.- Los demás considerados como tales por la Ley General.
 
@@ -871,13 +991,19 @@ XI.- Los demás considerados como tales por la Ley General.
 
 Las relaciones que se establezcan entre los prestadores de servicios y los turistas se regirán por la presente Ley y las demás reglamentaciones aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Artículo 72.
 
-Los prestadores de servicios no negarán o condicionarán el servicio por cuestiones de género, nacionalidad, preferencia sexual o religión, a los usuarios de sus servicios.
+Los Prestadores de Servicios Turísticos no negarán o condicionarán el servicio por cuestiones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### Artículo 73.
 
 La Secretaría determinará los requisitos que deberán cumplir los prestadores de servicios para su operación e inicio de actividades.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Las instalaciones y la infraestructura donde se presten o se desarrollen los servicios turísticos, deberán cumplir con la normatividad en materia ambiental, higiene, protección y seguridad de los turistas o usuarios.
 
 ###### Artículo 74.
 
@@ -929,9 +1055,11 @@ XI.- Acatar las normas sanitarias y de higiene en los atractivos, Regiones, Dest
 
 XII.- Las demás que establezca la legislación aplicable en la materia.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Artículo 76.
 
-El prestador de servicios cuidará de no violentar, ni hacer discriminación alguna en la prestación de servicios a los turistas nacionales e internacionales.
+Los Prestadores de Servicios Turísticos, están obligados a preservar y conservar los recursos naturales, a no alterar los procesos biológicos y ecológicos, así como respetar las diversas expresiones históricas, artísticas, arquitectónicas, arqueológicas y culturales del Estado de Hidalgo.
 
 ###### Artículo 77.
 
@@ -961,7 +1089,13 @@ Son deberes del turista:
 
 I.- Observar las normas usuales de convivencia en los establecimientos turísticos;
 
-II.- Respetar el entorno natural y patrimonio cultural de los sitios en los que realice una actividad turística;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+II.- Respetar y evitar causar cualquier daño al entorno natural y patrimonio cultural, así como el paisaje natural y del paisaje urbano;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+II Bis.- Utilizar el agua, la energía y demás recursos naturales de manera moderada y responsable;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -971,9 +1105,9 @@ III.- Acatar las prescripciones particulares de establecimientos mercantiles y e
 
 IV.- Pagar el precio de los servicios utilizados, en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-V.- Cuidar y conservar el entorno ecológico; y
+V.- Cuidar y conservar el entorno ecológico, así como, abstenerse de adquirir flora o fauna protegida; y
 
 > <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -981,11 +1115,15 @@ VI.- Atender las normas sanitarias y de higiene en las instalaciones y servicios
 
 ###### Artículo 80.
 
-Corresponde a la Secretaría vigilar el cumplimiento de las disposiciones de esta Ley. El proceso de verificación se realizará conforme a lo previsto en el Título Quinto de la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo.
+Corresponde a la Secretaría vigilar el cumplimiento de las disposiciones de esta Ley, su reglamento y las Normas Oficiales Mexicanas en materia de Turismo. El proceso de verificación se realizará conforme a lo previsto en el Titulo Quinto de la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 81.
 
-Las visitas de verificación se aplicarán, conforme los procedimientos establecidos en la reglamentación aplicable y se sujetarán en todo momento a lo establecido en la Ley y en los ordenamientos legislativos y reglamentarios aplicables de la Entidad y, en su caso, federales.
+Las visitas de verificación se aplicarán, conforme los procedimientos establecidos en la reglamentación aplicable y se sujetarán en todo momento a lo establecido (sic) esta Ley, su reglamento y las Normas Oficiales Mexicanas en materia de Turismo y en los ordenamientos legislativos y reglamentarios aplicables de la Entidad y, en su caso, federales.
+
+Las autoridades de turismo estatal y municipal, deberán brindar apoyo a la Secretaría para que ejerza sus facultades de verificación en las demarcaciones territoriales que les correspondan.
 
 ###### Artículo 82.
 
@@ -1110,3 +1248,9 @@ P.O. 17 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 419 QUE REFORMA Y ADICIONAN DIVERSAS FRACCIONES DE LOS ARTÍCULOS 5, 7, 8, 75 Y 79 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
 
 PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 719 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO".]
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
