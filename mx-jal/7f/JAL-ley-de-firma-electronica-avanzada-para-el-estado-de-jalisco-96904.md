@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-firma-electronica-avanzada-para-el-estado-de-jalisco-969
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-26"
-last_updated: "2020-08-06"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 26 de diciembre de 2013.
 
@@ -47,7 +47,9 @@ LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
 1. La presente Ley es de orden público e interés general y tiene por objeto regular el uso y servicios de la firma electrónica avanzada.
 
-2. La firma electrónica avanzada tiene la finalidad de simplificar, facilitar y agilizar los actos y negocios jurídicos, comunicaciones y procedimientos administrativos entre los sujetos obligados del sector público, los particulares y las relaciones que mantengan entre sí.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+2. La firma electrónica avanzada tiene la finalidad de simplificar, facilitar y agilizar los actos y negocios jurídicos, comunicaciones, procedimientos administrativos y jurisdiccionales entre los sujetos obligados del sector público, los particulares y las relaciones que mantengan entre sí.
 
 3. Para la creación de la firma electrónica avanzada, así como para la celebración de sus actos jurídicos en que se haga uso de la misma, además de lo contenido en la presente Ley, se deberá observar lo dispuesto en el Código Civil del Estado de Jalisco.
 
@@ -59,9 +61,9 @@ I. En el Poder Ejecutivo: el Titular de éste, así como los de sus respectivas 
 
 II. En el Poder Legislativo: el Congreso del Estado y sus órganos administrativos, técnicos y auxiliares;
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-III. En el Poder Judicial; el Supremo Tribunal de Justicia, juzgados de primera instancia, menores y de paz y el Consejo de la Judicatura del Estado;
+III. En el Poder Judicial: el Supremo Tribunal de Justicia, juzgados de primera instancia, menores y de paz, el Instituto de Justicia Alternativa del Estado y el Consejo de la Judicatura del Estado;
 
 IV. Los Ayuntamientos del Estado de Jalisco, así como los organismos paramunicipales de la Administración Pública Municipal;
 
@@ -75,11 +77,15 @@ VII. Los particulares que soliciten el uso de la firma electrónica avanzada, en
 
 ###### Artículo 3.
 
-1. Para los efectos de esta Ley, se entenderá por:
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JULIO DE 2021)
+
+1. Para los efectos de esta Ley, se entenderá por
 
 I. Actos: las comunicaciones, trámites, servicios, actos jurídicos y administrativos, así como procedimientos administrativos en los cuales los particulares y los servidores públicos de las dependencias y entidades de la Administración Pública Estatal y Municipal, que utilicen la firma electrónica avanzada;
 
-II. Actuaciones electrónicas: las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos y en su caso, las resoluciones administrativas definitivas que se emitan en los actos a que se refiere esta Ley que sean comunicadas por medios electrónicos;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+II. Actuaciones electrónicas: las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos y en su caso, las resoluciones administrativas o jurisdiccionales que se emitan en los actos a que se refiere esta Ley que sean comunicadas por medios electrónicos;
 
 III. Acuse de Recibo Electrónico: el mensaje de datos que se emite o genera a través de sistemas de información para acreditar de manera fehaciente la fecha y hora de recepción de documentos electrónicos relacionados con los actos establecidos por la Ley;
 
@@ -157,7 +163,9 @@ VI. No Repudio: la firma electrónica avanzada contenida en documentos electrón
 
 1. Los actos administrativos que se deban notificar podrán constar por escrito en documento impreso o digital.
 
-2. En caso de resoluciones administrativas o actos entre dependencias y entidades que consten en documentos impresos, el funcionario competente, en representación de la dependencia o entidad de que se trate, podrá expresar su voluntad para emitir la resolución o acto plasmado en el documento impreso con una línea o cadena expresada en caracteres alfanuméricos asociados al documento electrónico original, generada mediante el uso de su firma electrónica avanzada y amparada por un certificado electrónico vigente a la fecha de la resolución.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+2. En caso de resoluciones administrativas, jurisdiccionales o actos entre dependencias y entidades que consten en documentos impresos, el funcionario competente, en representación de la dependencia o entidad de que se trate, podrá expresar su voluntad para emitir la resolución o acto plasmado en el documento impreso con una línea o cadena expresada en caracteres alfanuméricos asociados al documento electrónico original, generada mediante el uso de su firma electrónica avanzada y amparada por un certificado electrónico vigente a la fecha de la resolución.
 
 ###### Artículo 9.
 
@@ -528,3 +536,11 @@ P.O. 6 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27932/LXII/20 QUE REFORMA EL ARTÍCULO 2 DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE JALISCO”.]
 
 Único. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28327/LXII/21 QUE ADICIONA EL TÍTULO DÉCIMO SEGUNDO A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; QUE REFORMA LOS ARTÍCULOS 1, 2, 3 Y 8 TODOS DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA, PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y QUE REFORMA LOS ARTÍCULOS 52, 82, 282 BIS, 284 Y 290 Y SE ADICIONA EL TÍTULO DÉCIMOQUINTO, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco". Se derogan todas las disposiciones que se opongan al presente decreto.
+
+SEGUNDO. El Supremo Tribunal de Justicia, así como el Consejo de la Judicatura, ambos del Estado de Jalisco, deberán realizar las acciones que correspondan, a efecto que los juicios en línea inicien su operación a más tardar doce meses después de la entrada en vigor del presente decreto.
