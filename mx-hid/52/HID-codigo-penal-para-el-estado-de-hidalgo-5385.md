@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2021-07-05"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE JULIO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -1607,6 +1605,8 @@ II.- Imponer el confinamiento, la prohibición de ir a una circunscripción terr
 
 ### CAPITULO V. ABORTO
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 153.
 
 Al que instigue o ayude a otro para que se prive de la vida, se le impondrá prisión de uno a siete años y multa de 5 a 100 días, si el suicidio se consumare. Si el suicidio no se consuma por causas ajenas a la voluntad del agente, pero se causan lesiones, se aplicarán dos terceras partes de la punibilidad anterior y si no se causan éstas, la mitad; en el caso de producirse lesiones, la punibilidad no podrá exceder de la que correspondería a la establecida para éstas.
@@ -1617,49 +1617,41 @@ No se tipificará la conducta prevista en el párrafo que antecede, cuando la pe
 
 ###### ARTICULO 154.
 
-Para los efectos de este Código, aborto es la muerte del producto de la concepción en cualquier momento de la preñez.
+Aborto es la interrupción del embarazo después de la décima segunda semana de gestación. Para los efectos de este Código, el embarazo es la parte del proceso de la reproducción humana que comienza con la implantación del embrión en el endometrio.
 
-El aborto causado culposamente será punible.
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 155.
 
-A la mujer que aborte, interrumpiendo su embarazo o que consienta en que otro se lo interrumpa, se le impondrá de uno a tres años de prisión y multa de 10 a 40 días. Igual pena se aplicará al que haga abortar a la mujer con consentimiento de ésta.
+Se le impondrá de seis meses a un año de prisión y de 10 a 40 días multa a la mujer que cometa el delito de aborto. Igual pena se aplicará a quien haga abortar a la mujer con consentimiento de ésta.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 156.
 
-Al que haga abortar a una mujer sin el consentimiento de ésta, se le aplicará de tres a siete años de prisión y multa de 40 a 150 días, y si mediare violencia, de cuatro a nueve años de prisión y de 50 a 200 días multa. Si el aborto punible lo causare un médico partero, enfermero o practicante de medicina, además de las penas que le correspondan conforme a los artículos anteriores, se le suspenderá de uno a tres años en el ejercicio de su profesión.
+Aborto forzado es la interrupción del embarazo sin el consentimiento de la mujer.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2008)</small>
+A quien cometa el delito de aborto forzado, se le aplicará una pena de tres a siete años de prisión y de 40 a 150 días multa, y si mediare violencia, se impondrá de cuatro a nueve años de prisión y de 50 a 200 días multa.
+
+Si el delito de aborto lo comete un médico partero, enfermero o practicante de medicina, además de las penas que le correspondan, se impondrá al responsable la suspensión del ejercicio profesional por un tiempo igual al de la pena de prisión impuesta.
 
 ###### ARTICULO 157.
 
-A la mujer que se le procure el aborto para evitar la exclusión social o por extrema pobreza se le impondrá pena de prisión de tres meses a dos años y multa de 5 a 25 días.
+(DEROGADO, P.O. 6 DE JULIO DE 2021)
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 158.
 
-El aborto no será punible:
+Son excluyentes de responsabilidad penal en el delito de aborto:
 
-I.- Cuando sea resultado de una conducta culposa de la mujer embarazada;
+I. Cuando sea resultado de una conducta culposa de la mujer embarazada;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2008)</small>
+II. Cuando el embarazo sea resultado de hechos posiblemente constitutivos del delito de violación, estupro o de la conducta típica prevista por el Artículo 182 de este Código, independientemente de que exista o no, causa penal sobre dichos delitos, previo al aborto.
 
-II.- Cuando el embarazo sea resultado de hechos denunciados como posiblemente
+III. Cuando el embarazo ponga en riesgo la salud o la vida de la mujer; o
 
-constitutivos del delito de violación o de la conducta típica prevista por el Artículo 182 de este Código, siempre que el aborto se autorice y practique dentro de los noventa días a partir de la concepción, y el hecho se haya denunciado antes de tenerse conocimiento de ésta. En tales casos, deberá solicitarlo la mujer, bastará la comprobación del cuerpo del delito para que el Ministerio Público o el Juez lo autorice, si aquella fuere de condición económica precaria, los gastos correspondientes serán a cargo del Estado;
-
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2008)</small>
-
-III.- Cuando de no haberse provocado el aborto, la mujer hubiere corrido grave peligro en su salud; o
-
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2008)</small>
-
-IV.- Cuando a juicio de dos médicos especialistas en la materia, debidamente certificados por los Colegios, Academias Nacionales o Consejos de Medicina de la rama correspondiente, exista razón suficiente para diagnosticar que el producto de un embarazo presenta graves alteraciones genéticas o congénitas, que puedan dar como resultado daños físicos o mentales al producto de la concepción.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2008)</small>
-
-El Ministerio Público o Juez que deban autorizar el aborto en los supuestos previstos por este Artículo, procurarán que la mujer embarazada cuente con información oficial, objetiva, veraz y suficiente, a efecto de que ésta pueda tomar la decisión de manera libre, informada y responsable.
+IV. Cuando a juicio de un médico especialista en la materia, exista razón suficiente para diagnosticar que el producto de un embarazo presenta graves alteraciones genéticas o congénitas, que puedan dar como resultado daños físicos o mentales al producto de la gestación, siempre y cuando se tenga el consentimiento de la mujer embarazada.
 
 ## TITULO SEGUNDO. DELITOS DE PELIGRO PARA LA VIDA O LA SALUD DE LAS PERSONAS
 
@@ -4696,3 +4688,13 @@ P.O. 7 DE JUNIO DE 2021 Y F. DE E. P.O. 5 DE JULIO DE 2021.
 > <small>(F. DE E., P.O. 5 DE JULIO DE 2021)</small>
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 728 QUE REFORMA LOS ARTÍCULOS 154, 155, 156 Y 158 Y DEROGA EL ARTÍCULO 157 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO XII DEL TÍTULO TERCERO Y LOS ARTÍCULOS 97, 98, 99 Y 100 Y ADICIONA LA FRACCIÓN III BIS DEL APARTADO A DEL ARTÍCULO 3 Y EL ARTÍCULO 5 TER LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado, en un término que no excederá de sesenta días naturales posteriores a la entrada en vigor del presente Decreto, deberá prever las medidas presupuestales y administrativa necesarias, para garantizar el derecho a la interrupción legal del embarazo.
+
+TERCERO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente decreto.
