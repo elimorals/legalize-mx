@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2021-05-11"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -637,11 +637,11 @@ II. El síndico saliente será el encargado de tomar la protesta al Ayuntamiento
 
 III. En caso de que el síndico saliente sea también integrante del Ayuntamiento electo o no se encuentre presente, el encargado de tomar la protesta será el munícipe saliente de mayor edad, que se encuentre presente en la sesión.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 15.
 
-El Ayuntamiento debe nombrar al servidor público encargado de la Secretaría del Ayuntamiento, al funcionario encargado de la Hacienda Municipal y al Titular del Órgano Interno de Control, dentro de los términos y conforme al procedimiento que dispone esta ley y la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
+El Ayuntamiento debe nombrar al servidor público encargado de la Secretaría del Ayuntamiento y al Tesorero o Encargado (sic) la Hacienda Municipal, dentro de los términos y conforme al procedimiento que dispone esta ley, así como al titular del órgano de control interno, cuando esto sea contemplado por los reglamentos municipales respectivos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2013)</small>
 
@@ -1251,7 +1251,9 @@ IX. Comunicar al Ayuntamiento cuando pretenda ausentarse del Municipio por más 
 
 Cuando la ausencia exceda de este término, debe solicitar la autorización correspondiente al Ayuntamiento;
 
-X. Pasar diariamente al funcionario encargado de la Hacienda Municipal, en forma directa o a través del servidor público que prevean los reglamentos, noticia detallada de las multas que impusiere y vigilar que en ningún caso, omita esa dependencia expedir recibo de los pagos que se efectúen;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+X. Pasar diariamente al Tesorero o Encargado de la Hacienda Municipal, en forma directa o a través del servidor público que prevean los reglamentos, noticia detallada de las multas que impusiere y vigilar que en ningún caso, omita esa dependencia expedir recibo de los pagos que se efectúen;
 
 XI. Vigilar que el destino y monto de los caudales municipales se ajusten a los presupuestos de egresos y de la correcta recaudación, custodia y administración de los impuestos, derechos, productos, aprovechamientos, participaciones y demás ingresos propios del Municipio, así como ejercer la facultad económico coactiva para hacer efectivos los créditos fiscales, por conducto de las dependencias municipales correspondientes;
 
@@ -1569,19 +1571,27 @@ IV. Copia certificada reciente del acta de nacimiento de los familiares comparec
 
 V. Pago del derecho correspondiente.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Artículo 64.
 
-En cada uno de los municipios debe haber un funcionario encargado de la Hacienda Municipal, designado por el Ayuntamiento a propuesta del Presidente Municipal.
+En cada uno de los municipios debe haber un Tesorero o Encargado de la Hacienda Municipal, designado por el Ayuntamiento a propuesta del Presidente Municipal.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 65.
 
-El funcionario encargado de la Hacienda Municipal debe reunir los siguientes requisitos:
+El Tesorero o Encargado de la Hacienda Municipal debe reunir los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 I. Ser ciudadano mexicano, por nacimiento, en pleno ejercicio de sus derechos, y mayor de veintiún años;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 II. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar el cargo;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 III. Tener la siguiente escolaridad:
 
@@ -1589,27 +1599,43 @@ a) En los municipios en los que la población sea mayor a veinte mil habitantes,
 
 b) En los municipios que la población sea menor a veinte mil habitantes, se requiere por lo menos, tener certificado de educación media superior; y acreditar expedienta (sic) o conocimientos en la materia;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 IV. No ser pariente consanguíneo en línea recta, colateral ni por afinidad hasta el cuarto grado de algún miembro del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 V. Otorgar las garantías que le señale el Ayuntamiento para responder del ejercicio de sus funciones; y
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 VI. Las demás que señale esta Ley, otras leyes y los ordenamientos municipales expedidos para tal efecto por el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 66.
 
-El funcionario encargado de la Hacienda Municipal es responsable ante el Ayuntamiento del manejo de todos los valores a su cuidado, extendiéndose tal responsabilidad a los servidores públicos que manejen fondos municipales.
+El Tesorero o Encargado de la Hacienda Municipal es responsable ante el Ayuntamiento del manejo de todos los valores a su cuidado, extendiéndose tal responsabilidad a los servidores públicos que manejen fondos municipales.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 67.
 
-Compete al funcionario encargado de la Hacienda Municipal:
+Compete al Tesorero o Encargado de la Hacienda Municipal:
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 I. Verificar por sí mismo o por medio de sus subalternos, la recaudación de las contribuciones municipales, así como cuidar de la puntualidad de los cobros, de la exactitud de las liquidaciones, de la prontitud en el despacho de los asuntos de su competencia y del buen orden y debida comprobación de las cuentas de ingresos y de egresos;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 II. Enviar al Congreso del Estado, a través de su órgano de fiscalización, las cuentas detalladas de los movimientos de fondos, en los términos de la fracción III del artículo 37, de esta Ley y notificar por escrito al Congreso del Estado que se ha cumplido con esta disposición;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 III. Aplicar los gastos, de acuerdo con el Presupuesto de Egresos aprobado por el Ayuntamiento y, exigir que los comprobantes respectivos estén firmados por el Presidente Municipal o por el servidor público al que le haya sido delegada esta facultad de conformidad con los reglamentos respectivos; y
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 IV. Las demás que señale esta Ley, otras leyes y reglamentos.
 
@@ -1835,7 +1861,9 @@ V. La mención del costo, por la administración de esas contribuciones y la for
 
 VI. La mención de los documentos que deben incorporarse al convenio.
 
-Los convenios deben ser suscritos por el Ayuntamiento representado por el Presidente Municipal, el Síndico y el funcionario encargado de la Hacienda Municipal.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Los convenios deben ser suscritos por el Ayuntamiento representado por el Presidente Municipal, el Síndico y el Tesorero o Encargado de la Hacienda Municipal.
 
 ###### Artículo 78.
 
@@ -1883,7 +1911,9 @@ Lo establecido en el presente artículo, podrá realizarse siempre que se cumpla
 
 La oficina encargada de la Hacienda Municipal no debe hacer ningún pago sin la orden expresa del Presidente Municipal.
 
-Únicamente el Presidente Municipal está autorizado a condonar multas, así como a autorizar al funcionario encargado de la Hacienda Municipal a que firme convenios tendientes al pago a plazos de créditos fiscales, cuando de exigirse el pago total de los mismos se causare la insolvencia del deudor, previo estudio del caso. Los plazos mencionados nunca podrán exceder de seis meses, y debe asegurarse siempre el interés fiscal. Las atribuciones que establece este párrafo podrán ser delegadas por el Presidente Municipal, en los términos de lo dispuesto por los reglamentos respectivos.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Únicamente el Presidente Municipal está autorizado a condonar multas, así como a autorizar al Tesorero o Encargado de la Hacienda Municipal a que firme convenios tendientes al pago a plazos de créditos fiscales, cuando de exigirse el pago total de los mismos se causare la insolvencia del deudor, previo estudio del caso. Los plazos mencionados nunca podrán exceder de seis meses, y debe asegurarse siempre el interés fiscal. Las atribuciones que establece este párrafo podrán ser delegadas por el Presidente Municipal, en los términos de lo dispuesto por los reglamentos respectivos.
 
 ###### Artículo 81.
 
@@ -2625,6 +2655,14 @@ Cuando algún miembro del Ayuntamiento comete un delito del orden común deberá
 
 ### CAPITULO III. DE LA DECLARACION DE SITUACION PATRIMONIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 28413/LXII/21 PUBLICADO EN EL P.O. DE 6 DE JULIO DE 2021, SE ADVIERTE LA REFORMA A LA FRACCIÓN V DEL ARTÍCULO 144, A SABER: “Artículo 144. [ .. . ]</small>
+
+I. al IV. [ ... ]
+
+V. El Tesorero o Encargado de la Hacienda Municipal;
+
+VI. y VII. [ ... ]” PARA CONSULTAR EL CONTENIDO DEL ARTÍCULO COMPLETO, VÉASE EL TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 28 DE ABRIL DE 2020 Y REFORMADO EL 6 DE AGOSTO DE 2020.]
+
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 144.
@@ -3332,3 +3370,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
 
 TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28413/LXII/21 QUE MODIFICA LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LA LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LA LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY DE HACIENDA MUNICIPAL; ORDENAMIENTOS TODOS DEL ESTADO DE JALISCO".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Los ayuntamientos del Estado de Jalisco, antes del 31 de diciembre de 2021, deberán realizarlas (sic) adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
