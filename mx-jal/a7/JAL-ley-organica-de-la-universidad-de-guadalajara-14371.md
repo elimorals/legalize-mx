@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-de-guadalajara-14371"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-01-15"
-last_updated: "2002-12-24"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA UNIVERSIDAD DE GUADALAJARA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de enero de 1994.
 
@@ -506,6 +506,28 @@ El Consejo General Universitario deberá integrarse cada año dentro de la segun
 Si por alguna circunstancia no se hiciere nueva elección, de representantes del personal académico, administrativo o de alumnos durante el mes de septiembre, continuarán en sus puestos los representantes que fungieron el año anterior, hasta por dos meses más, debiendo entre tanto gestionar el Consejo General Universitario que la elección del representante faltante se verifique dentro del término de prórroga. Si transcurrido éste, no se hiciere nueva elección, se tendrá por vacante la representación del personal académico, administrativo o de los alumnos de que se trate.
 
 El Consejo General universitario celebrará dos sesiones ordinarias anuales, la primera en el mes de marzo y la segunda en octubre. Podrá sesionar extraordinariamente las veces que sea necesario, previa convocatoria del Rector General o en su defecto de una tercera parte de los consejeros.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 6 DE JULIO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del Consejo General en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+La convocatoria de la celebración de las sesiones a distancia, así como la redacción y la protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Art. 31.
 
@@ -1696,3 +1718,9 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas aquellas disposiciones que contravengan este decreto.
 
 Tercero.- Los trabajadores académicos, administrativos y de confianza, no directivos, que antes de la entrada en vigor de esta reforma, cuenten con un contrato o nombramiento vigente definitivo y reúnan los requisitos establecidos en las fracciones III y IV del artículo 18 de la Ley Orgánica del a Universidad de Guadalajara que se derogan con este decreto, conservarán su derecho a jubilarse bajo estas disposiciones, el cual podrán ejercerlo en el momento en que así lo decidan.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28402/LXII/21 DEL CONGRESO DEL ESTADO, QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 30 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUADALAJARA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
