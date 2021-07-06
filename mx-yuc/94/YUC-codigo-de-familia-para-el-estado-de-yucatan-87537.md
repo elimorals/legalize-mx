@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-familia-para-el-estado-de-yucatan-87537"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-04-30"
-last_updated: "2021-06-23"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 2021.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 30 de abril de 2012.
 
@@ -2691,11 +2691,21 @@ Obligación de las personas que ejercen la custodia
 
 Quien o quienes tienen a una niña, niño o adolescente, en custodia o que convivan con ellas, deben educarla y corregirla con respeto a su dignidad; por tanto, queda prohibido todo tipo de violencia generada en su contra.
 
+> <small>(REFORMADO, D.O. 6 DE JULIO DE 2021)</small>
+
 Modificación de las resoluciones judiciales relativas a la custodia y convivencia
 
 ###### Artículo 321.
 
-Las determinaciones judiciales decretadas en relación a la custodia y convivencia de las niñas, niños y adolescentes, pueden ser objeto de modificación atendiendo a las circunstancias particulares de cada caso.
+Las determinaciones judiciales decretadas en relación a la custodia y convivencia de las niñas, niños y adolescentes, pueden ser objeto de modificación atendiendo a las circunstancias particulares de cada caso. En cuanto al régimen de convivencia del menor de edad, se privilegiará el interés superior de éste, atendiendo al derecho que tiene de convivir con la madre o el padre no custodio ante cualquier circunstancia, que a criterio del órgano jurisdiccional, amerite dicho cambio o modificación.
+
+> <small>(ADICIONADO, D.O. 6 DE JULIO DE 2021)</small>
+
+Convivencia a distancia a través de las Tecnologías de la Información y Comunicación.
+
+###### Artículo 321 Bis.
+
+El órgano jurisdiccional podrá decretar la convivencia a distancia a través de las Tecnologías de la Información y Comunicación disponibles, y a los que se pudiera tener fácil acceso, con la regularidad suficiente, a fin de mantener comunicación continua entre el infante y el padre o la madre no custodio, según las particularidades del caso, en emergencias públicas decretadas por la autoridad correspondiente.
 
 Interés superior de las niñas, niños y adolescentes
 
@@ -3129,13 +3139,15 @@ Adopción única
 
 Nadie puede ser adoptado por más de una persona, salvo el caso del matrimonio o bien, del concubinato.
 
-> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O. 6 DE JULIO DE 2021)</small>
 
 Derecho de la niña, niño o adolescente a emitir su opinión en caso de la adopción
 
 ###### Artículo 373.
 
-En todo procedimiento de adopción de niñas, niños o adolescentes, estos se deberá (sic) escuchar y tomar en cuenta su opinión, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez.
+En todos los casos de adopción, los niños, niñas y adolescentes que vayan a adoptarse tendrán derecho a (sic) asistencia psicológica en todo el proceso y a ser informados de las consecuencias de su adopción.
+
+En todo procedimiento de adopción de niñas, niños o adolescentes, estos deberán ser escuchados y tomar en cuenta su opinión, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez.
 
 > <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
@@ -3240,6 +3252,10 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Y
 > <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Las personas que realicen los estudios o informes para verificar el cumplimiento de los requisitos establecidos en este artículo, o que participen de cualquier manera en los procedimientos de adopción deberán contar con la autorización de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en los términos de las disposiciones que esta emita.
+
+> <small>(ADICIONADO, D.O. 6 DE JULIO DE 2021)</small>
+
+Los medios probatorios presentados y avalados por la Procuraduría, serán suficientes y válidos, el Juez los tomará como actuaciones solventadas y no las mandará a realizar nuevamente, esto con el fin de no duplicar funciones y alargar el término del proceso, el cual, no deberá ser mayor al término de un año posterior a la presentación de la solicitud inicial ante el Juez.
 
 El juez deberá evaluar el referido dictamen, antes de emitir su resolución sobre la procedencia de la adopción, previa vista al Ministerio Público.
 
@@ -7614,3 +7630,27 @@ Los recursos humanos, materiales, financieros y presupuestales con que cuenta la
 Décimo noveno. Previsiones presupuestales
 
 El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+D.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 392/2021 POR EL QUE SE MODIFICA EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, EN MATERIA DE USO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN PARA LA CONVIVENCIA MATERNO-PATERNO FILIALES A DISTANCIA".]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+D.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 393/2021 POR EL QUE SE MODIFICA EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, EN MATERIA DE ADOPCIONES”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el (sic) día siguiente al de su publicación en el diario oficial del estado.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este decreto.
