@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2021-03-15"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -90,6 +90,10 @@ II.- La atención materno infantil;
 Se podrá otorgar estimulación temprana a las niñas y niños menores de 6 años, de acuerdo con las normas derivadas de la Ley General de Salud y de la presente Ley, lo cual estará a cargo de la Secretaría de Salud en coordinación con el Sistema DIF Estatal y los Sistemas DIF Municipales;
 
 III.- La prestación de servicios de planificación familiar;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+III bis.- La interrupción legal del embarazo;
 
 IV.- La prestación de servicios de salud mental;
 
@@ -429,6 +433,14 @@ En lo que se refiere el apartado A fracción I Bis del Artículo 5 de esta Ley, 
 
 Para efectos de lo señalado en el presente artículo, se entenderá por persona en situación de abandono, aquella que por su situación social o familiar viven en el desamparo en su domicilio y son apoyados por cualquier persona.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### Artículo 5 Ter.
+
+Las instituciones públicas, privadas y sociales que presten servicios de salud en el Estado de Hidalgo, deberán proveer el servicio para la interrupción legal del embarazo, de forma gratuita y en condiciones de calidad y salubridad que garanticen la dignidad humana de las mujeres en los supuestos permitidos en el Código Penal para el Estado de Hidalgo y a solicitud de la interesada, quien deberá cubrir los requisitos establecidos en las disposiciones aplicables, en el caso de las instituciones públicas, dicho servicio deberá ser gratuito.
+
+El Gobierno del Estado de Hidalgo tendrá la obligación de proporcionar información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos de la interrupción del embarazo; así como de los apoyos y alternativas existentes, para que se tome la decisión de manera libre, informada y responsable.
+
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### Artículo 6.
@@ -553,15 +565,15 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las espe
 
 Artículo 12 ter. Para garantizar el derecho a la protección de la salud en condiciones de equidad, no discriminación y respeto a la dignidad humana, las autoridades sanitarias estatales promoverán la especialización del personal médico a través de las Universidades e instituciones de educación superior para la formación de recursos humanos en atención primaria de la salud.
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 12 Quater.
 
-Los prestadores de servicio de salud a quienes corresponda practicar el aborto no punible y cuyas creencias religiosas o convicciones personales sean contrarias a tal procedimiento, podrán ser objetores de conciencia y por tal razón excusarse de intervenir en este, teniendo la obligación de referir a la mujer con un médico no objetor.
+Las y los médicos a quienes corresponda practicar la interrupción legal del embarazo y cuyas creencias sean contrarias a tal procedimiento, podrán ser objetores de conciencia y por tal razón excusarse de intervenir en la interrupción legal del embarazo, teniendo la obligación de referir a la mujer con un médico no objetor.
 
-Será obligación de las instituciones públicas de salud garantizar la oportuna prestación de los servicios y contar con personal no objetor de conciencia en la materia.
+Cuando sea urgente la interrupción legal del embarazo para salvaguardar la salud o la vida de la mujer, no podrá invocarse la objeción de conciencia.
 
-Cuando sea urgente practicar el aborto no punible para salvaguardar la salud o la vida de la mujer, no podrá invocarse la objeción de conciencia.
+Las instituciones públicas de salud deberán garantizar la oportuna prestación de los servicios y la permanente disponibilidad de personal de salud no objetor de conciencia en la materia.
 
 El ejercicio de la objeción de conciencia no derivará en ningún tipo de discriminación laboral.
 
@@ -937,7 +949,9 @@ La matanza de animales en los rastros autorizados, se efectuará en los días y 
 
 Todos los rastros deberán contar con el adecuado transporte sanitario de la carne. Este servicio podrá ser concesionado a los particulares.
 
-### CAPITULO XII. RECLUSORIOS Y CENTROS DE READAPTACION SOCIAL
+### CAPITULO XII. CENTROS PENITENCIARIOS O DE REINSERCIÓN SOCIAL
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 75.
 
@@ -1043,29 +1057,35 @@ Queda prohibido el acceso a menores de dieciocho años de edad a donde se ejerza
 
 La Autoridad Municipal determinará los lugares en donde se permita el ejercicio de la prostitución.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2021)</small>
+
 ### CAPITULO XV
 
 ESTABLECIMIENTOS DEDICADOS A LA VENTA DE PRODUCTOS Y PRESTACIÓN DE SERVICIOS EN PELUQUERÍAS, SALONES DE BELLEZA, ASÍ COMO TATUAJES, PERFORACIONES CORPORALES ESTÉTICAS Y OTROS
 
 ###### Artículo 97.
 
-Para los efectos de esta Ley, se entiende por reclusorio o centro de readaptación social, la institución pública destinada al internamiento de quienes se encuentran privados de su libertad corporal en virtud a una resolución judicial o administrativa.
+Para los efectos de esta Ley, se entiende por reclusorio, centro penitenciario o centro de reinserción social, la institución pública destinada al internamiento de quienes se encuentran privados de su libertad corporal en virtud a una resolución judicial.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 98.
 
-Corresponde al Gobierno del Estado integrar, dirigir y administrar en forma permanente los servicios médicos que se presten en reclusorios y centros de readaptación social, a efecto de otorgar oportuna y eficientemente la atención a los internos, para lo cual, los directores de dichas instituciones deberán de proveer de todos los elementos para prevenir y, en su caso, contrarrestar los riesgos y daños en la vida y salud de los internos, pudiendo solicitar el apoyo a la Secretaría de Salud.
+Corresponde al Gobierno del Estado integrar, dirigir y administrar en forma permanente los servicios médicos que se presten en los centros penitenciarios o de reinserción social, incluido el cuidado de la salud materno infantil, la interrupción legal del embarazo y la rehabilitación de la farmacodependencia, a efecto de otorgar oportuna y eficientemente la atención a las internas y a los internos, para lo cual, los directores de dichas instituciones deberán de proveer de todos los elementos para prevenir y, en su caso, contrarrestar los riesgos y daños en la vida y salud de las personas en reclusión, pudiendo solicitar el apoyo a la Secretaría de Salud.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+Corresponde al Gobierno del Estado integrar, dirigir y administrar en forma permanente los servicios médicos, incluida la interrupción legal del embarazo y la rehabilitación de la farmacodependencia, que se presten en reclusorios, centros penitenciarios o de reinserción social, a efecto de otorgar oportuna y eficientemente la atención a los internos, para lo cual, los directores de dichas instituciones deberán de proveer de todos los elementos para prevenir y, en su caso, contrarrestar los riesgos y daños en la vida y salud de los internos, pudiendo solicitar el apoyo a la Secretaría de Salud.
 
-Corresponde al Gobierno del Estado integrar, dirigir y administrar en forma permanente los servicios médicos, incluida la rehabilitación de la farmacodependencia, que se presten en reclusorios y centros de readaptación social, a efecto de otorgar oportuna y eficientemente la atención a los internos, para lo cual, los directores de dichas instituciones deberán de proveer de todos los elementos para prevenir y, en su caso, contrarrestar los riesgos y daños en la vida y salud de los internos, pudiendo solicitar el apoyo a la Secretaría de Salud.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 99.
 
-Los encargados de los servicios médicos de reclusorios y centros de readaptación social, inmediatamente de que tengan conocimiento de una enfermedad transmisible, deberán adoptar las medidas necesarias para evitar la propagación, dando aviso a la Autoridad Sanitaria.
+Los encargados de los servicios médicos de reclusorios, centros penitenciarios o centros de reinserción social inmediatamente de que tengan conocimiento de una enfermedad transmisible, deberán adoptar las medidas necesarias para evitar la propagación, dando aviso a la Autoridad Sanitaria.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 100.
 
-La Secretaría de Salud, en coordinación con las autoridades competentes, vigilarán la sanidad de los reclusorios y centros de readaptación social, a fin de prevenir y evitar riesgos o daños a la salud de los internos.
+La Secretaría de Salud, en coordinación con las autoridades competentes, vigilarán la sanidad de los reclusorios, centros penitenciarios o centros de reinserción social, a fin de prevenir y evitar riesgos o daños a la salud de los internos
 
 ### CAPITULO XVI. ESTABLECIMIENTOS DEDICADOS AL SERVICIO DE TINTORERIAS, LAVANDERIAS Y PLANCHADURIAS
 
@@ -2306,3 +2326,13 @@ SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor e impl
 TERCERO. El Ejecutivo Estatal en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor deberá emitir las reglas de operación del programa correspondiente a los servicios de salud en domicilio particular, conforme a lo dispuesto al artículo 5 BIS del presente Decreto.
 
 CUARTO. Las autoridades municipales, atendiendo a lo dispuesto en los artículos 181 Bis y 187 Bis, tendrán un plazo de hasta treinta días naturales, contado a partir de la entrada en vigor del presente Decreto, para adecuar o expedir normas reglamentarias atendiendo a sus facultades constitucionales y legales.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 728 QUE REFORMA LOS ARTÍCULOS 154, 155, 156 Y 158 Y DEROGA EL ARTÍCULO 157 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO XII DEL TÍTULO TERCERO Y LOS ARTÍCULOS 97, 98, 99 Y 100 Y ADICIONA LA FRACCIÓN III BIS DEL APARTADO A DEL ARTÍCULO 3 Y EL ARTÍCULO 5 TER (SIC) LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado, en un término que no excederá de sesenta días naturales posteriores a la entrada en vigor del presente Decreto, deberá prever las medidas presupuestales y administrativa necesarias, para garantizar el derecho a la interrupción legal del embarazo.
+
+TERCERO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente decreto.
