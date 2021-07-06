@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-politecnica-de-la-zona-38421"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-10"
-last_updated: "2020-12-29"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD POLITÉCNICA DE LA ZONA METROPOLITANA DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 10 de febrero de 2004.
 
@@ -208,6 +208,28 @@ Cada integrante de la Junta Directiva designará a un suplente, quien asistirá 
 La Junta Directiva funcionará en pleno y sesionará validamente con la asistencia de la mitad más uno de sus integrantes, sus resoluciones se tomarán con base en el voto de la mayoría de sus miembros presentes. El presidente contará con voto de calidad en caso de empate.
 
 Las sesiones ordinarias y extraordinarias de la Junta Directiva se celebrarán conforme a los tiempos y formalidades que se establezcan en el Reglamento Interno.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 6 DE JULIO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes de la Junta Directiva en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+La convocatoria de la celebración de las sesiones a distancia, así como la redacción y la protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 14.
 
@@ -554,3 +576,9 @@ P.O. 29 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28253/LXII/20 QUE REFORMA EL ARTÍCULO 3 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD POLITÉCNICA DE LA ZONA METROPOLITANA DE GUADALAJARA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28400/LXII/21 DEL CONGRESO DEL ESTADO, QUE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD POLITÉCNICA DE LA ZONA METROPOLITANA DE GUADALAJARA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
