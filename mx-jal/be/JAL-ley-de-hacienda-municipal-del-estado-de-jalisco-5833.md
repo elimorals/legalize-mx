@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2021-04-27"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -249,9 +249,11 @@ IX. Acordar la revocación de licencias de funcionamiento de giros, de conformid
 
 X. Las demás que le otorguen las Leyes y Reglamentos, de carácter fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 23.
 
-Son atribuciones del Tesorero:
+Son atribuciones del Tesorero o Encargado de la Hacienda Municipal:
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1998)</small>
 
@@ -277,7 +279,9 @@ VI. Ordenar la clausura de los establecimientos, en los términos de esta Ley;
 
 VII. Ordenar se intervengan las taquillas de cualquier diversión o espectáculo público, cuando los sujetos pasivos no cumplan con las disposiciones que señala esta Ley;
 
-VIII. Delegar facultades a Servidores Públicos de la Tesorería para el despacho y vigilancia de los asuntos que sean de su competencia;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VIII. Delegar facultades a Servidores Públicos de Tesorería o la Hacienda Municipal para el despacho y vigilancia de los asuntos que sean de su competencia;
 
 IX. Autorizar a los Delegados Municipales, en los términos de esta Ley, para efectuar la recaudación de los fondos provenientes del cumplimiento de las Leyes Fiscales;
 
@@ -303,7 +307,9 @@ e) Emplear cualquiera de los siguientes medios de apremio, que juzguen eficaces,
 
 f) Se embarguen precautoriamente los bienes, el establecimiento o la negociación, cuando el contribuyente no atienda tres requerimientos de la autoridad, por una misma omisión. El embargo quedará sin efectos, cuando el contribuyente cumpla con la obligación de que se trate, o dos meses después de practicado el embargo, si la obligación no es cumplida y las autoridades fiscales no inician el ejercicio de sus facultades de comprobación;
 
-g) Allegarse las pruebas necesarias, para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique el personal autorizado de la Tesorería Municipal, tendrá el mismo valor probatorio que la Ley relativa concede a las actas de la Policía Judicial; la propia Tesorería, a través de los agentes hacendarios que designe; será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos Penales;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+g) Allegarse las pruebas necesarias, para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique el personal autorizado de la Tesorería o Hacienda Municipal, tendrá el mismo valor probatorio que la Ley relativa concede a las actas de la Policía Judicial; la propia Tesorería o Hacienda Municipal, a través de los agentes hacendarios que designe; será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos Penales;
 
 h) Comprobar los ingresos de los contribuyentes. A este efecto, se presumirá, salvo prueba en contrario, que la información contenida en los libros, registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentre en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando aparezca sin su nombre o a nombre de otra persona;
 
@@ -327,7 +333,9 @@ XIII. Las demás que le otorguen otras Leyes o disposiciones fiscales.
 
 Art. 23 bis. El servidor público encargado del área de ingresos, en los municipios donde exista, tendrá las atribuciones a que se refieren las fracciones I, II, IV, VI y XII del artículo anterior, con excepción del inciso b) de la fracción III, sin perjuicio de las facultades de las demás autoridades fiscales.
 
-Dicho servidor público deberá aceptar en todo momento las órdenes y determinaciones del Tesorero Municipal o del Encargado de la Hacienda Municipal.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Dicho servidor público deberá aceptar en todo momento las órdenes y determinaciones del Tesorero o Encargado de la Hacienda Municipal.
 
 ###### Art. 24.
 
@@ -335,13 +343,21 @@ Son atribuciones de los Delegados y Agentes Municipales:
 
 I. Ejercer la vigilancia que demande el cumplimiento de las Leyes Fiscales, Reglamentos, Instructivos, Circulares y demás disposiciones aplicables;
 
-II. Recaudar los fondos provenientes del cumplimiento de las Leyes Fiscales, que deba percibir el Erario Municipal a nombre propio o por cuenta ajena, previa autorización del Tesorero Municipal;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-III. Concentrar los ingresos recaudados en los términos y plazos que fije el Tesorero Municipal;
+II. Recaudar los fondos provenientes del cumplimiento de las Leyes Fiscales, que deba percibir el Erario Municipal a nombre propio o por cuenta ajena, previa autorización del Tesorero o Encargado de la Hacienda Municipal;
 
-IV. Poner a consideración del Tesorero Municipal las directrices, normas y criterios técnicos en materia de ingresos, así como evaluarlos, además de rendirle los informes que éstos soliciten; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-V. En general, ejecutar las facultades que expresamente les reconozcan las disposiciones fiscales y las que el Tesorero Municipal le confiera.
+III. Concentrar los ingresos recaudados en los términos y plazos que fije el Tesorero o Encargado de la Hacienda Municipal;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+IV. Poner a consideración del Tesorero o Encargado de la Hacienda Municipal las directrices, normas y criterios técnicos en materia de ingresos, así como evaluarlos, además de rendirle los informes que éstos soliciten; y
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+V. En general, ejecutar las facultades que expresamente les reconozcan las disposiciones fiscales y las que el Tesorero o Encargado de la Hacienda Municipal le confiera.
 
 ###### Art. 25.
 
@@ -367,7 +383,9 @@ VI. El visitado o la persona con quien se entienda la diligencia, los testigos y
 
 VII. Con las mismas formalidades indicadas en la fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión; y
 
-VIII. El visitado, o quien lo represente, podrán inconformarse con los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cuarenta y cinco días siguientes a la conclusión de las mismas, ante la Tesorería Municipal, en el que expresará las razones de su inconformidad, y acompañará las pruebas documentales pertinentes. El plazo para inconformarse podrá ampliarse a instancia justificada del interesado, a juicio de la Tesorería Municipal. En caso de que no se formule inconformidad, no se ofrezcan pruebas o no se rindan las ofrecidas, se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en las actas.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VIII. El visitado, o quien lo represente, podrán inconformarse con los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cuarenta y cinco días siguientes a la conclusión de las mismas, ante la Tesorería o Hacienda Municipal, en el que expresará las razones de su inconformidad, y acompañará las pruebas documentales pertinentes. El plazo para inconformarse podrá ampliarse a instancia justificada del interesado, a juicio de la Tesorería o Hacienda Municipal. En caso de que no se formule inconformidad, no se ofrezcan pruebas o no se rindan las ofrecidas, se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en las actas.
 
 ###### Art. 26.
 
@@ -409,7 +427,9 @@ VI. Los servidores públicos, así como los notarios y corredores públicos que 
 
 VII. Los terceros que, para garantizar obligaciones fiscales de otros, constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes de su propiedad, hasta por el valor de los otorgados en garantías;
 
-VIII. Los propietarios o poseedores de inmuebles o establecimientos en los que se exploten diversiones públicas, salvo cuando den aviso a la Tesorería Municipal de la celebración del contrato respectivo, a más tardar, ocho días antes de que inicien operaciones;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VIII. Los propietarios o poseedores de inmuebles o establecimientos en los que se exploten diversiones públicas, salvo cuando den aviso a la Tesorería o Hacienda Municipal de la celebración del contrato respectivo, a más tardar, ocho días antes de que inicien operaciones;
 
 IX. Respecto del pago de créditos fiscales derivados de la propiedad o posesión de bienes inmuebles, o de operaciones de cualquier naturaleza relativas a los mismos:
 
@@ -501,7 +521,9 @@ Art 36. Las resoluciones favorables a los particulares, excepto la autorización
 
 Son obligaciones de los contribuyentes:
 
-I. Obtener su licencia de funcionamiento mediante la presentación de su solicitud de empadronamiento ante la Tesorería Municipal u Oficialía Mayor de padrón y licencias en su caso, dentro de los 15 días siguientes a la fecha de iniciación de sus operaciones a excepción de los giros que se señalan expresamente en esta ley, los que deberán antes de iniciar operaciones, obtener la autorización correspondiente.
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JULIO DE 2021)</small>
+
+I. Obtener su licencia de funcionamiento mediante la presentación de su solicitud de empadronamiento ante la Tesorería o Hacienda Municipal u Oficialía Mayor de padrón y licencias en su caso, dentro de los 15 días siguientes a la fecha de iniciación de sus operaciones a excepción de los giros que se señalan expresamente en esta ley, los que deberán antes de iniciar operaciones, obtener la autorización correspondiente.
 
 Cuando un mismo contribuyente tenga diversos establecimientos, sucursales, bodegas o dependencias, deberá obtener licencia de funcionamiento de cada una de ellas, por separado, mediante el empadronamiento respectivo.
 
@@ -511,7 +533,9 @@ II. Presentar las manifestaciones, declaraciones y avisos correspondientes, dent
 
 III. Pagar los Impuestos, Contribuciones Especiales, Derechos, Productos y Aprovechamientos, en la forma y términos que establezcan las Leyes respectivas;
 
-IV. Proporcionar a la Tesorería Municipal y a otras autoridades competentes, todos los documentos e informes que las mismas requieran, dentro del plazo que para ello fije la Dependencia solicitante;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+IV. Proporcionar a la Tesorería o Hacienda Municipal y a otras autoridades competentes, todos los documentos e informes que las mismas requieran, dentro del plazo que para ello fije la Dependencia solicitante;
 
 V. Recibir las visitas de investigación ordenadas por la autoridad competente, y proporcionar a los supervisores, los libros, datos, informes, documentos y demás registros que les soliciten, para el desempeño de sus funciones;
 
@@ -521,9 +545,11 @@ VII. Los Contribuyentes sujetos a pagos periódicos, presentarán al efectuar su
 
 Los contribuyentes que no cumplan con las obligaciones señaladas en esta Ley, serán sujetos de las sanciones que, en su caso, señalen las Leyes de Ingresos Municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 38.
 
-Los sujetos responsables objetivos y responsables solidarios, en los casos que establezcan las disposiciones fiscales, tendrán obligación de presentar declaraciones, manifestaciones o avisos, en las formas que al efecto apruebe la Tesorería Municipal, y de proporcionar los datos e informes que en dichas formas se requieran.
+Los sujetos responsables objetivos y responsables solidarios, en los casos que establezcan las disposiciones fiscales, tendrán obligación de presentar declaraciones, manifestaciones o avisos, en las formas que al efecto apruebe la Tesorería o Hacienda Municipal, y de proporcionar los datos e informes que en dichas formas se requieran.
 
 Las declaraciones, manifestaciones o avisos, salvo disposición en contrario, se presentarán en las Oficinas Fiscales respectivas; en todos los casos, se devolverá al interesado una copia sellada. Cuando las disposiciones fiscales no señalen plazo para la presentación de las declaraciones, manifestaciones o avisos, se tendrá por establecido el de quince días, siguientes a la realización del hecho de que se trate.
 
@@ -587,9 +613,11 @@ En los casos en que el Índice Nacional de Precios al Consumidor del mes anterio
 
 Las cantidades actualizadas, conservará (sic) la naturaleza jurídica que tenían antes de la actualización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 45.
 
-Las facultades de la Tesorería Municipal para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracciones a las disposiciones fiscales, así como las facultades de verificar el cumplimiento o incumplimiento de dichas disposiciones, se extinguen en el término de cinco años, no sujeto a interrupción ni suspensión. Dicho término empezará a correr a partir:
+Las facultades de la Tesorería o Hacienda Municipal para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracciones a las disposiciones fiscales, así como las facultades de verificar el cumplimiento o incumplimiento de dichas disposiciones, se extinguen en el término de cinco años, no sujeto a interrupción ni suspensión. Dicho término empezará a correr a partir:
 
 I. Del día siguiente al día que hubiese vencido el plazo establecido por las disposiciones fiscales para presentar declaraciones, manifestaciones y avisos;
 
@@ -599,7 +627,9 @@ II. Del día siguiente al día que se produjo el hecho generador del crédito fi
 
 III. Del día siguiente al día que se hubiese cometido la infracción a las disposiciones fiscales; pero si la infracción fuera de carácter continuo, el término correrá a partir del día siguiente al día que hubiese cesado.
 
-Las facultades de la Tesorería para investigar hechos constitutivos de delitos en materia fiscal, no se extinguirán conforme a este artículo.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Las facultades de la Tesorería o Hacienda Municipal para investigar hechos constitutivos de delitos en materia fiscal, no se extinguirán conforme a este artículo.
 
 ###### Art. 46.
 
@@ -611,7 +641,9 @@ Para los efectos del párrafo anterior, los sujetos pasivos informarán a las Au
 
 Las obligaciones y los créditos fiscales a que esta Ley se refiere podrán garantizarse en algunas de las formas siguientes:
 
-I. Depósito de dinero en la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+I. Depósito de dinero en la Tesorería o Hacienda Municipal;
 
 II. Prenda o hipoteca;
 
@@ -627,23 +659,31 @@ La garantía de un crédito fiscal deberá comprender los vencimientos futuros, 
 
 En el caso del Impuesto Predial, no se hará necesario constituir garantía alguna, en tanto se instaure el procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 48.
 
-La Tesorería Municipal dictará las reglas sobre los requisitos que deban reunir las garantías; vigilará que sean suficientes, tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes. La misma Tesorería podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
+La Tesorería o Hacienda Municipal dictará las reglas sobre los requisitos que deban reunir las garantías; vigilará que sean suficientes, tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes. La misma Tesorería o Hacienda Municipal podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
 
 ###### Art. 49.
 
 El pago de los créditos fiscales deberá hacerse en efectivo. Los giros postales, telegráficos o bancarios, y los cheques certificados se admitirán como efectivo.
 
-Discrecionalmente, la Tesorería Municipal admitirá como medio de pago, los cheques de cuentas personales de los contribuyentes, expedidos por éstos para pagar créditos fiscales a cargo del propio librador.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
-La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiese librado, dará derecho a la Tesorería Municipal para exigir del librador, el pago del importe del mismo y una indemnización del 20 % del valor del cheque.
+Discrecionalmente, la Tesorería o Hacienda Municipal admitirá como medio de pago, los cheques de cuentas personales de los contribuyentes, expedidos por éstos para pagar créditos fiscales a cargo del propio librador.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiese librado, dará derecho a la Tesorería o Hacienda Municipal para exigir del librador, el pago del importe del mismo y una indemnización del 20 % del valor del cheque.
 
 Esta indemnización y el cobro del cheque, se notificará y se hará efectivo, mediante los procedimientos establecidos en esta Ley para los demás créditos fiscales, sin perjuicio de la denuncia de hechos respectiva, ante las autoridades competentes, en cada caso necesario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 50.
 
-La Tesorería Municipal podrá conceder prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el plazo, dentro del cual deban pagarse las parcialidades, no excederá de un año salvo que se trate de adeudos cuantiosos correspondientes a Ejercicios Fiscales anteriores, casos en los que el plazo podrá ser hasta de tres años.
+La Tesorería o Hacienda Municipal podrá conceder prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el plazo, dentro del cual deban pagarse las parcialidades, no excederá de un año salvo que se trate de adeudos cuantiosos correspondientes a Ejercicios Fiscales anteriores, casos en los que el plazo podrá ser hasta de tres años.
 
 En los casos anteriores, deberá garantizarse el interés fiscal, salvo que, conforme a esta Ley, proceda su dispensa.
 
@@ -715,9 +755,11 @@ IV. La propuesta quedará sin efecto y el pago se considerará definitivo, desde
 
 Una vez liquidado, definitivamente, un crédito fiscal, no se admitirá reclamación por la devolución de lo pagado, sino cuando se pruebe que hubo error aritmético o que el pago se hizo indebidamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 57.
 
-La Tesorería Municipal estará obligada a devolver las cantidades que hubiesen sido pagadas indebidamente, conforme a las reglas que sigue (sic):
+La Tesorería o Hacienda Municipal estará obligada a devolver las cantidades que hubiesen sido pagadas indebidamente, conforme a las reglas que siguen:
 
 I. Cuando el pago de lo indebido, total o parcialmente, se hubiese efectuado en cumplimiento de resolución de autoridad, que determine la existencia de un crédito fiscal, lo fije en cantidad líquida o dé las bases para su liquidación; el derecho a la devolución nace cuando dicha resolución hubiese quedado insubsistente; y
 
@@ -727,7 +769,9 @@ II. Tendrán derecho a la devolución de lo pagado en exceso o indebidamente, ex
 
 Para que se haga la devolución de cantidades pagadas indebidamente, será necesario:
 
-I. Que dicte acuerdo el Tesorero Municipal; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+I. Que dicte acuerdo el Tesorero o Encargado de la Hacienda Municipal; y
 
 II. Que el derecho para reclamar la devolución no se haya extinguido.
 
@@ -739,7 +783,9 @@ Si dentro de dicho plazo no se efectúa la devolución, el fisco municipal pagar
 
 La compensación entre los fiscos de los Municipios y de éstos con el del Estado, podrá operar respecto de cualquier clase de créditos o deudas, si unos y otras son líquidas y exigibles y si existe acuerdo al respecto entre ambas partes.
 
-La compensación será declarada por la Tesorería Municipal, a petición de la Entidad interesada.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+La compensación será declarada por la Tesorería o Hacienda Municipal, a petición de la Entidad interesada.
 
 ###### Art. 60.
 
@@ -751,9 +797,9 @@ Las obligaciones ante el fisco municipal y los créditos a favor de éste por im
 
 La prescripción del crédito principal extingue simultáneamente los recargos y gastos de ejecución.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
-La prescripción se inicia, a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieron ser legalmente exigidos, y será reconocida o declarada por la Tesorería Municipal de oficio o a petición de cualquier interesado.
+La prescripción se inicia, a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieron ser legalmente exigidos, y será reconocida o declarada por la Tesorería o Hacienda Municipal de oficio o a petición de cualquier interesado.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
@@ -769,23 +815,27 @@ III. Cuando el contribuyente desocupe su domicilio fiscal sin presentar el aviso
 
 De los requisitos señalados en las fracciones I y II del presente artículo deberá existir constancia por escrito.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 63.
 
-La Tesorería Municipal de oficio podrá declarar o los particulares podrán solicitar que se declare la prescripción de algún crédito fiscal a su cargo, o que se han extinguido las facultades de las autoridades para determinarlo o liquidarlo.
+La Tesorería o Hacienda Municipal de oficio podrá declarar o los particulares podrán solicitar que se declare la prescripción de algún crédito fiscal a su cargo, o que se han extinguido las facultades de las autoridades para determinarlo o liquidarlo.
 
-Para que la Tesorería Municipal pueda llevar a cabo la declaración de la prescripción de algún crédito deberá obrar constancia de que el contribuyente no haya podido ser requerido o no lo puedan localizar en el domicilio del giro.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Para que la Tesorería o Hacienda Municipal pueda llevar a cabo la declaración de la prescripción de algún crédito deberá obrar constancia de que el contribuyente no haya podido ser requerido o no lo puedan localizar en el domicilio del giro.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
 Si la autoridad determina el crédito o realiza el cobro, sólo podrá ejercitarse el recurso establecido en esta ley. Contra la resolución que declare y funde la negativa de prescripción o caducidad, será competente el Tribunal de Justicia Administrativa.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 64.
 
-La Tesorería Municipal, previa autorización del Ayuntamiento, podrá cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor, de los responsables solidarios o de los responsables objetivos; en los siguientes casos:
+La Tesorería o Hacienda Municipal, previa autorización del Ayuntamiento, podrá cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor, de los responsables solidarios o de los responsables objetivos; en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2004)</small>
 
 I. Se consideran créditos de cobro incosteable:
 
@@ -801,6 +851,8 @@ b) Aquellos cuyo importe sea inferior o igual a trescientos tantos del valor dia
 
 c) Aquellos cuyo costo de recuperación sea igual o mayor a su importe.
 
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2004)</small>
+
 II. Se consideran insolventes, en el siguiente orden de preferencia, los deudores, responsables solidarios o responsables objetivos:
 
 a) Cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado;
@@ -809,7 +861,11 @@ b) Cuando no se puedan localizar de conformidad a los procedimientos legales.
 
 c) Cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2004)</small>
+
 Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados, por este artículo.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2004)</small>
 
 El Ayuntamiento de cada municipio, deberá dar a conocer las reglas de carácter general, para la aplicación de este artículo.
 
@@ -851,13 +907,17 @@ Igualmente son sujetos del impuesto, las unidades económicas que, habitual o ev
 
 Será base de este impuesto, el monto de los ingresos percibidos y, en su caso, los estimados, atendiendo a la importancia del negocio, su ubicación, capital y todos aquellos elementos que permitan estimarlos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 72.
 
-Quienes realicen en forma permanente actividades gravadas por este impuesto, efectuarán el pago en la Tesorería Municipal o en las instituciones bancarias autorizadas para ese fin, a más tardar el día 20 de cada mes.
+Quienes realicen en forma permanente actividades gravadas por este impuesto, efectuarán el pago en la Tesorería o Hacienda Municipal o en las instituciones bancarias autorizadas para ese fin, a más tardar el día 20 de cada mes.
 
 Tratándose de giros que inicien operaciones después de transcurrida la fecha a que se refiere el párrafo anterior, efectuarán el pago, simultáneamente a la prestación del aviso correspondiente.
 
-Quienes realicen actividades en forma eventual, efectuarán el pago, diariamente, en la Tesorería Municipal.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Quienes realicen actividades en forma eventual, efectuarán el pago, diariamente, en la Tesorería o Hacienda Municipal.
 
 ###### Art. 73.
 
@@ -901,9 +961,11 @@ I. El ingreso total que se perciba derivado de las operaciones gravadas; y
 
 II. Los ingresos totales determinados estimativamente, atendiendo a la importancia del negocio, su ubicación, capital y todos aquellos elementos que permitan estimarlos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 77.
 
-El pago de este impuesto se efectuará en la Tesorería Municipal o en las instituciones bancarias autorizadas para ese fin, de conformidad a lo siguiente:
+El pago de este impuesto se efectuará en la Tesorería o Hacienda Municipal o en las instituciones bancarias autorizadas para ese fin, de conformidad a lo siguiente:
 
 I. Quienes realicen en forma permanente actividades gravadas:
 
@@ -913,7 +975,9 @@ b) Cuando el pago se determine en forma distinta a la señalada en el inciso ant
 
 II. Quienes realicen en forma eventual actividades gravadas, efectuarán el pago diariamente.
 
-En el caso de esta fracción, la Tesorería Municipal podrá autorizar al contribuyente para enterar el impuesto causado, al siguiente día hábil de aquel en que se celebre la actividad.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+En el caso de esta fracción, la Tesorería o Hacienda Municipal podrá autorizar al contribuyente para enterar el impuesto causado, al siguiente día hábil de aquel en que se celebre la actividad.
 
 ###### Art. 78.
 
@@ -921,29 +985,41 @@ Además de las obligaciones establecidas en otras disposiciones, los contribuyen
 
 I. Cuando exploten habitualmente la diversión pública en establecimiento fijo:
 
-a) Obtener su licencia de funcionamiento, mediante la presentación de su solicitud de empadronamiento ante la Tesorería Municipal u Oficialía Mayor de Padrón y Licencias en su caso, haciendo uso de las formas aprobadas y proporcionando los datos y los documentos que la misma exija, a más tardar, el día anterior al que vayan a dar principio a la explotación de las diversiones;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+a) Obtener su licencia de funcionamiento, mediante la presentación de su solicitud de empadronamiento ante la Tesorería o Hacienda Municipal u Oficialía Mayor de Padrón y Licencias en su caso, haciendo uso de las formas aprobadas y proporcionando los datos y los documentos que la misma exija, a más tardar, el día anterior al que vayan a dar principio a la explotación de las diversiones;
 
 b) Presentar los avisos de cambio de giro o de domicilio, suspensión de actividades, traspaso o clausura, ante las mismas autoridades, previamente a la fecha en que ocurran tales hechos o circunstancias;
 
 II. Cuando la explotación se realice en forma eventual o si realizándose permanentemente, no se cuenta con establecimiento fijo:
 
-a) Presentar un informe ante la Tesorería Municipal u Oficialía Mayor de Padrón y Licencias en su caso, que indique el período durante el que se realizarán los hechos o actos que originen el impuesto a más tardar, el día anterior al que se inicien;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
-b) Otorgar garantía, a satisfacción de la Tesorería Municipal, u Oficialía Mayor de padrón y licencias en su caso, en alguna de las formas previstas en esta Ley, que no será inferior al impuesto estimado, correspondiente a un día de actividad;
+a) Presentar un informe ante la Tesorería o Hacienda Municipal u Oficialía Mayor de Padrón y Licencias en su caso, que indique el período durante el que se realizarán los hechos o actos que originen el impuesto a más tardar, el día anterior al que se inicien;
 
-c) Dar el aviso correspondiente, en los casos de ampliación del período de explotación, ante la Tesorería Municipal, u Oficialía Mayor de Padrón y Licencias en su caso, a más tardar, el último día que comprende el aviso cuya vigencia se vaya a ampliar;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+b) Otorgar garantía, a satisfacción de la Tesorería o Hacienda Municipal, u Oficialía Mayor de padrón y licencias en su caso, en alguna de las formas previstas en esta Ley, que no será inferior al impuesto estimado, correspondiente a un día de actividad;
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+c) Dar el aviso correspondiente, en los casos de ampliación del período de explotación, ante la Tesorería o Hacienda Municipal, u Oficialía Mayor de Padrón y Licencias en su caso, a más tardar, el último día que comprende el aviso cuya vigencia se vaya a ampliar;
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 1995)</small>
 
 En el caso de que se utilicen medios electrónicos para la expedición de boletos o control de asistencia a los eventos, espectáculos o diversiones públicas, las personas físicas o jurídicas responsables de la operación de estos medios, previamente pondrán a disposición de la autoridad municipal los manuales de operación de los sistemas; y entregar al día siguiente los reportes de resultados que se les soliciten.
 
-III. Presentar ante la Tesorería Municipal, u Oficialía Mayor de Padrón y Licencias en su caso, para su resello, el boletaje que será utilizado, cuando menos, un día antes de que se verifique la diversión;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+III. Presentar ante la Tesorería o Hacienda Municipal, u Oficialía Mayor de Padrón y Licencias en su caso, para su resello, el boletaje que será utilizado, cuando menos, un día antes de que se verifique la diversión;
 
 IV. No vender boletos en tanto no estén resellados por la Autoridad Municipal;
 
 V. Permitir a los supervisores que designe la Autoridad Municipal, la verificación o determinación del pago del impuesto, dándoles las facilidades que requieran para su cumplimiento; y
 
-VI. En general, adoptar las medidas de control que, para la correcta determinación de este impuesto, establezca la Tesorería Municipal.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VI. En general, adoptar las medidas de control que, para la correcta determinación de este impuesto, establezca la Tesorería o Hacienda Municipal.
 
 ###### Art. 79.
 
@@ -973,13 +1049,17 @@ Serán responsables solidarios del pago de este impuesto, las personas físicas,
 
 Es base para el pago de este impuesto, el número de animales sacrificados.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 84.
 
-El pago de este impuesto se hará en forma anticipada, en la Tesorería Municipal o en el Rastro Municipal, a los recaudadores autorizados para este fin, cuando en este se efectúe el sacrificio.
+El pago de este impuesto se hará en forma anticipada, en la Tesorería o Hacienda Municipal o en el Rastro Municipal, a los recaudadores autorizados para este fin, cuando en este se efectúe el sacrificio.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 85.
 
-Los contribuyentes de este impuesto están obligados a efectuar la matanza de animales en los Rastros Municipales o en los lugares que para ese efecto autorice el Presidente Municipal, debiendo dar aviso a la Tesorería Municipal. Asimismo, están obligados a comprobar la propiedad de los animales.
+Los contribuyentes de este impuesto están obligados a efectuar la matanza de animales en los Rastros Municipales o en los lugares que para ese efecto autorice el Presidente Municipal, debiendo dar aviso a la Tesorería o Hacienda Municipal. Asimismo, están obligados a comprobar la propiedad de los animales.
 
 ### CAPITULO V. Impuesto sobre Posesión y Explotación de Carros Fúnebres
 
@@ -995,17 +1075,21 @@ Son sujetos de este impuesto, las personas físicas, morales o unidades económi
 
 Es base para el pago de este impuesto, el número de unidades que se tengan en explotación.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 89.
 
-El pago de este impuesto se hará en la Tesorería Municipal o en las instituciones bancarias autorizadas para ese fin, a más tardar, el día veinte de cada mes. Respecto a las unidades que sean registradas después de transcurrido dicho plazo, se efectuará el pago simultáneamente al registro correspondiente.
+El pago de este impuesto se hará en la Tesorería o Hacienda Municipal o en las instituciones bancarias autorizadas para ese fin, a más tardar, el día veinte de cada mes. Respecto a las unidades que sean registradas después de transcurrido dicho plazo, se efectuará el pago simultáneamente al registro correspondiente.
 
 ###### Art. 90.
 
 Estarán exentas del pago de este impuesto, las instituciones de asistencia y seguridad social.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 91.
 
-Los contribuyentes de este impuesto, simultáneamente a la presentación de su solicitud de empadronamiento, deberán presentar a la Tesorería Municipal, una relación de las unidades que posean y exploten, así como todos los datos que ésta exija, manifestando las altas y bajas de dichas unidades cuando éstas ocurran.
+Los contribuyentes de este impuesto, simultáneamente a la presentación de su solicitud de empadronamiento, deberán presentar a la Tesorería o Hacienda Municipal, una relación de las unidades que posean y exploten, así como todos los datos que ésta exija, manifestando las altas y bajas de dichas unidades cuando éstas ocurran.
 
 ### CAPITULO VI. Del Impuesto Predial
 
@@ -1065,13 +1149,13 @@ VIII. Si el causante acepta tanto los valores como los datos proporcionados por 
 
 IX. Cuando el causante no acepte los valores o alguno de los datos proporcionados por la autoridad catastral, podrá solicitar la rectificación de los mismos;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-X. Si la resolución emitida por la autoridad catastral con motivo de la rectificación solicitada por el causante tampoco fuere aceptada, el contribuyente podrá presentar ante la Tesorería Municipal, un avalúo por su cuenta y costo, que comprenda las características particulares del inmueble a valor real, y que sea realizado por perito valuador acreditado en los términos de la Ley de Catastro Municipal del Estado de Jalisco;
+X. Si la resolución emitida por la autoridad catastral con motivo de la rectificación solicitada por el causante tampoco fuere aceptada, el contribuyente podrá presentar ante la Tesorería o Hacienda Municipal, un avalúo por su cuenta y costo, que comprenda las características particulares del inmueble a valor real, y que sea realizado por perito valuador acreditado en los términos de la Ley de Catastro Municipal;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-XI. Si el contribuyente incumple con lo establecido en las fracciones I, II, III y IV de este artículo, o bien los valores declarados y determinados sean inferiores a los valores de mercado, la Tesorería Municipal procederá a determinar el valor fiscal del predio y construcciones, con base en los datos del inmueble que proporcione la autoridad catastral, aplicando las tablas de valores unitarios aprobados por el Congreso del Estado, y publicados en los términos de la Ley de Catastro Municipal del Estado de Jalisco; y
+XI. Si el contribuyente incumple con lo establecido en las fracciones I, II , III y IV de este artículo, o bien los valores declarados y determinados sean inferiores a los valores de mercado, la Tesorería o Hacienda Municipal procederá a determinar el valor fiscal del predio y construcciones, con base en los datos del inmueble que proporcione la autoridad catastral, aplicando las tablas de valores unitarios aprobados por el Congreso del Estado, y publicados en los términos de la Ley de Catastro Municipal; y
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
@@ -1109,11 +1193,11 @@ III. A partir del bimestre siguiente a aquél en que se produzca el hecho, acto 
 
 IV. A partir del siguiente bimestre a aquel en que se encuentre cubierto el impuesto predial, en los casos de valuación masiva o motivada por permisos de construcción y manifestaciones espontáneas de los contribuyentes, si resultara incremento en el impuesto a cargo del contribuyente y estuviere al corriente de dicho pago.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 97.
 
-Cuando el contribuyente incumpla con lo establecido en las fracciones I y II del artículo 94 de esta ley y no se hayan obtenido los elementos técnicos necesarios para determinar el valor fiscal correspondiente al predio, la Tesorería Municipal solicitará a la autoridad catastral, proceda a valuar el mismo provisionalmente con apoyo en los datos de que disponga, cuidando que los valores aplicados se asemejen a los valores reales de predios con características similares. El valor así determinado surtirá efectos de valor fiscal.
+Cuando el contribuyente incumpla con lo establecido en las fracciones I y II del artículo 94 de esta ley y no se hayan obtenido los elementos técnicos necesarios para determinar el valor fiscal correspondiente al predio, la Tesorería o Hacienda Municipal solicitará a la autoridad catastral, proceda a valuar el mismo provisionalmente con apoyo en los datos de que disponga, cuidando que los valores aplicados se asemejen a los valores reales de predios con características similares. El valor así determinado surtirá efectos de valor fiscal.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -1133,13 +1217,17 @@ En los casos de predios urbanos baldíos colindantes a un predio edificado, podr
 
 En los casos en que los predios urbanos baldíos cuyas áreas constituyan jardines ornamentales, tengan un mantenimiento adecuado y permanente y sea visible desde el exterior, previa reclasificación realizada por la autoridad catastral correspondiente, se les aplicará una tarifa inferior o igual a .5, que sea establecida en la ley de ingresos municipal aplicable, sobre la tasa del impuesto predial respectivo.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 100
 
-Bis. En los casos en que la persona física o jurídica lleve a cabo la naturación del techo de su propiedad o implemente jardines verticales, y lo acredite mediante constancia expedida por la dependencia municipal para verificar el cumplimiento de las normas de edificación, en la cual certifique el cumplimiento de los lineamientos de la norma estatal de naturación de techo, la Tesorería Municipal podrá aplicar un descuento sobre el pago del impuesto predial, en los siguientes términos:
+Bis. En los casos en que la persona física o jurídica lleve a cabo la naturación del techo de su propiedad o implemente jardines verticales, y lo acredite mediante constancia expedida por la dependencia municipal para verificar el cumplimiento de las normas de edificación, en la cual certifique el cumplimiento de los lineamientos de la norma estatal de naturación de techo, la Tesorería o Hacienda Municipal podrá aplicar un descuento sobre el pago del impuesto predial, en los siguientes términos:
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2017)</small>
 
 I. Del 20% a los contribuyentes que lleven a cabo la naturación extensiva del techo de su propiedad; y
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2017)</small>
 
 II. Del 30% a los contribuyentes que lleven a cabo la naturación intensiva del techo de su propiedad o implemente jardines verticales.
 
@@ -1151,11 +1239,11 @@ II. Del 30% a los contribuyentes que lleven a cabo la naturación intensiva del 
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 103.
 
-El pago de este impuesto deberá efectuarse dentro de los primeros quince días del primer mes de cada bimestre, en la oficina recaudadora que le corresponda al contribuyente, por la ubicación del predio, o en la recaudadora autorizada por la tesorería municipal, o en cualquier institución bancaria autorizada para tal efecto.
+El pago de este impuesto deberá efectuarse dentro de los primeros quince días del primer mes de cada bimestre, en la oficina recaudadora que le corresponda al contribuyente, por la ubicación del predio, o en la recaudadora autorizada por la Tesorería o Hacienda Municipal, o en cualquier institución bancaria autorizada para tal efecto.
 
 Podrán hacerse pagos anticipados, sin perjuicio del cobro de diferencias por cambio de la base gravable.
 
@@ -1205,9 +1293,11 @@ En caso de predios no empadronados de excedencias, construcciones, reconstruccio
 
 Cuando el contribuyente se encuentre al corriente del pago del impuesto predial de la parte registrada y acuda espontáneamente ante la autoridad municipal a realizar la manifestación, la autoridad expedirá dentro de los 10 días hábiles siguientes constancia en la cual establezca que es acreedor a dicho beneficio fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 109.
 
-Para los efectos del cambio de la base del impuesto, los sujetos del mismo, están obligados a presentar los avisos correspondientes ante la Tesorería Municipal respectiva, dentro de los sesenta días naturales siguientes al que se celebren o se realicen, según el caso, los contratos, permisos, hechos o actos siguientes:
+Para los efectos del cambio de la base del impuesto, los sujetos del mismo, están obligados a presentar los avisos correspondientes ante la Tesorería o Hacienda Municipal respectiva, dentro de los sesenta días naturales siguientes al que se celebren o se realicen, según el caso, los contratos, permisos, hechos o actos siguientes:
 
 I. De compraventa, venta con reserva de dominio, promesa de venta o cualquier otro translativo de dominio de bienes inmuebles;
 
@@ -1231,11 +1321,15 @@ Se tendrán por cumplidas estas obligaciones, respecto a la fracción I, con la 
 
 Los sujetos del impuesto deberán manifestar a la autoridad catastral que corresponda al lugar de la ubicación del predio, sus cambios de domicilio, dentro de los quince días siguientes a aquél en que se efectúen. Si no lo hicieren se tendrá como domicilio, para todos los efectos legales, el que hubiesen señalado anteriormente o, en su defecto, el predio mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 111.
 
-Las autoridades judiciales o administrativas previamente al remate de inmuebles, recabarán de la Tesorería Municipal un informe sobre los créditos fiscales que con motivo del inmueble se hayan originado hasta la fecha de la subasta.
+Las autoridades judiciales o administrativas previamente al remate de inmuebles, recabarán de la Tesorería o Hacienda Municipal un informe sobre los créditos fiscales que con motivo del inmueble se hayan originado hasta la fecha de la subasta.
 
-Si del informe apareciese algún crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente a cubrirlo, remitiéndola inmediatamente a la Tesorería Municipal para que ésta extienda y envíe el recibo correspondiente, que será entregado al adquirente del inmueble.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Si del informe apareciese algún crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente a cubrirlo, remitiéndola inmediatamente a la Tesorería o Hacienda Municipal para que ésta extienda y envíe el recibo correspondiente, que será entregado al adquirente del inmueble.
 
 ### CAPITULO VII. Impuesto sobre Transmisiones Patrimoniales
 
@@ -1341,7 +1435,9 @@ III. Tratándose de inmuebles que cuenten con accesorios o instalaciones especia
 
 IV. Los peritos valuadores acreditados deberán presentar sus avalúos ante la autoridad catastral municipal para fines de revisión y, en su caso, aprobación;
 
-V. Si las autoridades advierten que los avalúos consignan valores inferiores a los reales, se practicará nuevo avalúo por un perito valuador acreditado, con cargo a la Tesorería Municipal correspondiente, a efecto de dar cumplimiento a lo dispuesto en la fracción II de este artículo;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+V. Si las autoridades advierten que los avalúos consignan valores inferiores a los reales, se practicará nuevo avalúo por un perito valuador acreditado, con cargo a la Tesorería o Hacienda Municipal correspondiente, a efecto de dar cumplimiento a lo dispuesto en la fracción II de este artículo;
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
@@ -1357,7 +1453,9 @@ X. Tratándose de permutas será base de este impuesto el 100% cien por ciento d
 
 XI. En los casos de transmisión o cesión de derechos hereditarios, o de disolución de copropiedad o de sociedad legal, la base del impuesto será el valor de la parte proporcional del bien o bienes que correspondan a los derechos que se transmiten o en que se incrementen las correspondientes porciones de los copropietarios o coherederos, determinado de acuerdo con lo señalado en las fracciones I y II de este artículo;
 
-XII. Si en la disolución de copropiedad o de la sociedad legal se recurre a la compensación de valores pecuniarios que repercuta en los inmuebles a repartir, la Tesorería Municipal estará facultada para exigir que se acredite la existencia de los mismos a efecto de determinar este impuesto;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+XII. Si en la disolución de copropiedad o de la sociedad legal se recurre a la compensación de valores pecuniarios que repercuta en los inmuebles a repartir, la Tesorería o Hacienda Municipal estará facultada para exigir que se acredite la existencia de los mismos a efecto de determinar este impuesto;
 
 XIII. Cuando los inmuebles que forman el patrimonio de la copropiedad o sociedad conyugal se ubiquen en distintos municipios, el excedente se cubrirá en aquél en que exista el mayor porcentaje de valor del patrimonio; y
 
@@ -1369,11 +1467,11 @@ XIV. En el caso de municipios que no cuenten con tablas de valores actualizadas,
 
 El impuesto sobre transmisiones patrimoniales se causará y liquidará aplicando la tasa o tarifa que establezca la ley de ingresos de cada municipio a la base determinada conforme a las disposiciones del artículo 114 de esta ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 116.
 
-El pago de este impuesto deberá efectuarse ante la tesorería municipal respectiva y, en su caso, ante las oficinas recaudadoras de la Secretaría de la Hacienda Pública del gobierno del Estado, dentro de los dos meses siguientes a la fecha del documento en que se haga constar el hecho, acto o contrato correspondiente, o en la que se verifique el suceso o el supuesto preestablecido en el documento constitutivo del acto jurídico.
+El pago de este impuesto deberá efectuarse ante la Tesorería o Hacienda Municipal respectiva y, en su caso, ante las oficinas recaudadoras de la Secretaría de la Hacienda Pública, dentro de los dos meses siguientes a la fecha del documento en que se haga constar el hecho, acto o contrato correspondiente, o en la que se verifique el suceso o el supuesto preestablecido en el documento constitutivo del acto jurídico.
 
 Para los efectos del pago del impuesto en caso de escrituras, adjudicaciones o contratos que se celebren fuera del Estado, de bienes ubicados en el municipio, el adquirente, dentro del término establecido en el párrafo anterior, dará aviso por escrito, acompañando copia de la adquisición o contrato, a las autoridades fiscales competentes, en cuya jurisdicción se encuentren ubicados los inmuebles.
 
@@ -1407,7 +1505,9 @@ II. Cuando se trate de dos o más inmuebles se deberán presentar los respectivo
 
 III. En los casos de sucesión testamentaria o intestamentaria, se tomará en cuenta para su aplicación la fecha que corresponda a la de escritura pública en donde se hayan protocolizado las constancias de juicio respectivo o se haya hecho constar la adjudicación de los bienes; en los casos de cláusula de beneficiario y/o cláusula testamentaria, será la de la fecha de defunción del propietario del inmueble correspondiente.
 
-IV. En casos excepcionales y previo estudio socioeconómico del o de los adquirientes, el tesorero del municipio podrá otorgar pago a plazos del impuesto causado, de acuerdo con lo que establece el artículo 50 de la presente Ley.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+IV. En casos excepcionales y previo estudio socioeconómico del o de los adquirientes, el Tesorero o Encargado de la Hacienda Municipal podrá otorgar pago a plazos del impuesto causado, de acuerdo con lo que establece el artículo 50 de la presente Ley.
 
 En todos los casos para aplicar estos beneficios, se deberá presentar copia certificada de la escritura donde conste dichos actos.
 
@@ -1497,13 +1597,17 @@ Son sujetos de este impuesto las personas físicas, morales, o unidades económi
 
 Es base para el pago de este impuesto el número de animales que se tengan en explotación.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 127.
 
-El pago de este impuesto se efectuará mensualmente en la Tesorería Municipal o en las instituciones de banca autorizadas para ese fin, a más tardar, el día veinte del mes siguiente al que se cause el impuesto, presentando declaración en la que se expresen los semovientes explotados durante el mes anterior.
+El pago de este impuesto se efectuará mensualmente en la Tesorería o Hacienda Municipal o en las instituciones de banca autorizadas para ese fin, a más tardar, el día veinte del mes siguiente al que se cause el impuesto, presentando declaración en la que se expresen los semovientes explotados durante el mes anterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 128.
 
-Queda exenta del pago de este impuesto la explotación de animales destinada al autoconsumo familiar o a la investigación, siempre que cualquiera de los dos hechos se compruebe a satisfacción de la Tesorería Municipal, y no excedan de:
+Queda exenta del pago de este impuesto la explotación de animales destinada al autoconsumo familiar o a la investigación, siempre que cualquiera de los dos hechos se compruebe a satisfacción de la Tesorería o Hacienda Municipal, y no excedan de:
 
 I. Ganado bovino, 5 cabezas;
 
@@ -1561,7 +1665,9 @@ No se considerarán como objeto de este impuesto los casos de autoconstrucción.
 
 3. Que el permiso de construcción esté expedido por las autoridades competentes, a nombre del propietario del inmueble, y que éste o su asesor acrediten su carácter de responsable de la obra.
 
-Para los efectos de la excepción anterior, la Tesorería Municipal podrá efectuar la declaratoria de no causación correspondiente, siempre que lo solicite el interesado, dentro de los treinta días siguientes de la iniciación de la obra, y compruebe encontrarse en el caso de autoconstrucción.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Para los efectos de la excepción anterior, la Tesorería o Hacienda Municipal podrá efectuar la declaratoria de no causación correspondiente, siempre que lo solicite el interesado, dentro de los treinta días siguientes de la iniciación de la obra, y compruebe encontrarse en el caso de autoconstrucción.
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
@@ -1573,15 +1679,21 @@ III. Será base para el pago de este impuesto, el costo total de las obras que t
 
 IV. Este impuesto se liquidará y pagará de conformidad con la tarifa que al efecto señale la Ley de ingresos del Municipio.
 
-Siempre que por virtud de algún acto o contrato público o privado, cualquier persona adquiera una propiedad como terreno, teniendo construcción al momento del acto o del otorgamiento del contrato respectivo, que no hubiera sido hecha por el adquirente del terreno, la Tesorería Municipal procederá a cobrar al sujeto pasivo la diferencia de los impuestos realmente causados y a imponer, como sanción pecuniaria, una multa hasta de tres tantos del crédito fiscal omitido, más accesorios, pues en estos casos y para los efectos de este impuesto se considera que no solamente se transmitió el terreno sin construir, sino también la construcción misma;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Siempre que por virtud de algún acto o contrato público o privado, cualquier persona adquiera una propiedad como terreno, teniendo construcción al momento del acto o del otorgamiento del contrato respectivo, que no hubiera sido hecha por el adquirente del terreno, la Tesorería o Hacienda Municipal procederá a cobrar al sujeto pasivo la diferencia de los impuestos realmente causados y a imponer, como sanción pecuniaria, una multa hasta de tres tantos del crédito fiscal omitido, más accesorios, pues en estos casos y para los efectos de este impuesto se considera que no solamente se transmitió el terreno sin construir, sino también la construcción misma;
 
 V. El pago de este impuesto se efectuará dentro de los plazos que a continuación se indican:
 
 En los casos de contratos de construcción, reconstrucción, ampliación o demolición de inmuebles, dentro de los treinta días siguientes a la fecha de firma del mismo. A falta de contrato escrito, dentro de los treinta días siguientes a la fecha de inicio de la construcción.
 
-Independientemente de la fecha del contrato, los sujetos pasivos del impuesto están obligados a presentar por escrito, ante la Tesorería Municipal, un aviso de construcción, dentro de los diez días siguientes al inicio de la misma.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
-Para los efectos de esta fracción, los contribuyentes presentarán declaración ante la Oficina de Recaudación correspondiente, o donde, en su caso lo disponga la Tesorería Municipal, a la que anexarán copia del documento en que se haga constar el acto o contrato gravado.
+Independientemente de la fecha del contrato, los sujetos pasivos del impuesto están obligados a presentar por escrito, ante la Tesorería o Hacienda Municipal, un aviso de construcción, dentro de los diez días siguientes al inicio de la misma.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Para los efectos de esta fracción, los contribuyentes presentarán declaración ante la Oficina de Recaudación correspondiente, o donde, en su caso lo disponga la Tesorería o Hacienda Municipal, a la que anexarán copia del documento en que se haga constar el acto o contrato gravado.
 
 VI. Están exentos del pago de este impuesto:
 
@@ -1643,39 +1755,55 @@ En la cuota, este impuesto se liquidará de conformidad con la tarifa que al efe
 
 #### SECCION CUARTA. Del Pago
 
-El pago de este impuesto deberá realizarse en la Oficina de la Tesorería Municipal correspondiente, ó en las Instituciones Bancarias autorizadas para este fin, dentro de los siguientes plazos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JULIO DE 2021)</small>
+
+El pago de este impuesto deberá realizarse en la Oficina de la Tesorería o Hacienda Municipal correspondiente, ó en las Instituciones Bancarias autorizadas para este fin, dentro de los siguientes plazos:
 
 a) Cuando los espectáculos públicos se realicen permanentemente en establecimientos fijos, será a más tardar el día veinte del mes siguiente al que se hubiesen percibido los ingresos, presentando al efecto una declaración de los ingresos obtenidos en las formas aprobadas; y
 
 b) Cuando se trate de contribuyentes eventuales, al terminar cada actividad o función, efectuarán el pago diariamente.
 
-En el caso del párrafo anterior, la Tesorería Municipal podrá autorizar al contribuyente de que se trate, para enterar del impuesto causado, al siguiente día hábil de aquél en que se celebre la actividad o función.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+En el caso del párrafo anterior, la Tesorería o Hacienda Municipal podrá autorizar al contribuyente de que se trate, para enterar del impuesto causado, al siguiente día hábil de aquél en que se celebre la actividad o función.
 
 #### SECCION QUINTA. De las Obligaciones
 
 Los contribuyentes de este impuesto cuando exploten los espectáculos públicos en establecimiento fijo, tienen, además, las siguientes obligaciones:
 
-a) Presentarse ante la Tesorería Municipal u Oficialía de Padrón y Licencias en su caso, para llenar la solicitud para la obtención de su licencia de funcionamiento, haciendo uso de las formas aprobadas y proporcionando los requisitos que en ella se requieran, mínimo el día anterior al que vayan a dar principio a la explotación de los espectáculos;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+a) Presentarse ante la Tesorería o Hacienda Municipal u Oficialía de Padrón y Licencias en su caso, para llenar la solicitud para la obtención de su licencia de funcionamiento, haciendo uso de las formas aprobadas y proporcionando los requisitos que en ella se requieran, mínimo el día anterior al que vayan a dar principio a la explotación de los espectáculos;
 
 b) Presentar avisos de cambio de giro o domicilio, suspensión de actividades, traspaso ó clausura ante las autoridades mencionadas en el párrafo que antecede previamente a la fecha en que ocurran tales actos o circunstancias;
 
 c) Cuando los espectáculos públicos se realicen en forma eventual, o no cuenten con establecimiento fijo deberán:
 
-1) Presentar un informe ante la Tesorería Municipal u Oficialía Mayor de Padrón y Licencias en su caso, que indique el período durante el que se realizarán los hechos o actos que originen el impuesto, a mas tardar el día anterior al que se inicien;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
-2) Previamente al inicio de las actividades, otorgar garantía, a satisfacción de la Tesorería Municipal u Oficialía Mayor de Padrón y Licencias en su caso, en alguna de las formas previstas en esta ley, que no será inferior al impuesto estimado, correspondiente a un día de actividad;
+1) Presentar un informe ante la Tesorería o Hacienda. Municipal u Oficialía Mayor de Padrón y Licencias en su caso, que indique el período durante el que se realizarán los hechos o actos que originen el impuesto, a más tardar el día anterior al que se inicien;
 
-3) Dar el aviso correspondiente, en los casos de ampliación del período de explotación, ante la Tesorería Municipal, u Oficialía Mayor de Padrón y Licencias en su caso, a más tardar, el último día que comprende el aviso cuya vigencia se vaya a ampliar;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+2) Previamente al inicio de las actividades, otorgar garantía, a satisfacción de la Tesorería o Hacienda Municipal u Oficialía Mayor de Padrón y Licencias en su caso, en alguna de las formas previstas en esta ley, que no será inferior al impuesto estimado, correspondiente a un día de actividad;
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+3) Dar el aviso correspondiente, en los casos de ampliación del período de explotación, ante la Tesorería o Hacienda Municipal, u Oficialía Mayor de Padrón y Licencias en su caso, a más tardar, el último día que comprende el aviso cuya vigencia se vaya a ampliar;
 
 d) En el caso de que se utilicen medios electrónicos para la expedición de boletos o control de asistencia a los eventos, o espectáculos públicos, las personas físicas o jurídicas responsables de la operación de estos medios, previamente pondrán a disposición de la autoridad municipal los manuales de operación de los sistemas; y entregar al día siguiente los reportes de resultados que se les soliciten;
 
-e) Presentar ante la Tesorería Municipal u Oficialía Mayor de Padrón y Licencias en su caso, para su resello, el boletaje y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+e) Presentar ante la Tesorería o Hacienda Municipal u Oficialía Mayor de Padrón y Licencias en su caso, para su resello, el boletaje y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos;
 
 f) No vender boletos en tanto no están resellados por las autoridades municipales;
 
 g) Permitir a los supervisores que designe el ayuntamiento o sus oficinas de recaudación municipal, la verificación y determinación del pago del impuesto, dándoles las facilidades que requieran para su cumplimiento;
 
-h) En general, adoptar las medidas de control que, para la correcta determinación de este impuesto, establezca la Tesorería Municipal;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+h) En general, adoptar las medidas de control que, para la correcta determinación de este impuesto, establezca la Tesorería o Hacienda Municipal;
 
 i) Este impuesto, en ningún caso, deberá ser trasladado al espectador.
 
@@ -1719,27 +1847,35 @@ X. Derechos no especificados.
 
 Los derechos por la prestación de servicios que proporcionan las diversas dependencias del Ayuntamiento, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que se provoque, por parte del Ayuntamiento, el gasto que deba ser remunerado por aquél, salvo el caso en que la disposición que fije el derecho señale cosa distinta.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 134.
 
-El importe de las tasas o cuotas que para cada derecho señalan las Leyes de Ingresos Municipales, deberán ser cubiertos en la Tesorería Municipal o en el lugar que al efecto señale la misma.
+El importe de las tasas o cuotas que para cada derecho señalan las Leyes de Ingresos Municipales, deberán ser cubiertos en la Tesorería o Hacienda Municipal o en el lugar que al efecto señale la misma.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 135.
 
-La dependencia o el servidor público que preste el servicio, por el cual se paguen los derechos, procederá a la realización del mismo, al presentarle el interesado el recibo oficial que acredite su pago ante la Tesorería Municipal; ningún otro comprobante justificará el pago correspondiente.
+La dependencia o el servidor público que preste el servicio, por el cual se paguen los derechos, procederá a la realización del mismo, al presentarle el interesado el recibo oficial que acredite su pago ante la Tesorería o Hacienda Municipal; ningún otro comprobante justificará el pago correspondiente.
 
 ###### Art. 136.
 
 El servidor público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable de su pago, sin perjuicio de las sanciones que procedan y la destitución de su cargo, sin responsabilidad para el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 137.
 
-En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por el Tesorero Municipal, en los términos establecidos por las Leyes Fiscales, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
+En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por el Tesorero o Encargado de la Hacienda Municipal, en los términos establecidos por las Leyes Fiscales, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
 
 ### CAPITULO II. Licencias, Permisos y Registros
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 138.
 
-Previo estudio que al efecto practiquen las autoridades municipales, las licencias se otorgarán por cada giro y no por domicilio o propietario. Se entiende por giro toda actividad concreta, ya sea comercial, industrial o de prestación de servicios, según la clasificación de los padrones de la Tesorería Municipal.
+Previo estudio que al efecto practiquen las autoridades municipales, las licencias se otorgarán por cada giro y no por domicilio o propietario. Se entiende por giro toda actividad concreta, ya sea comercial, industrial o de prestación de servicios, según la clasificación de los padrones de la Tesorería o Hacienda Municipal.
 
 Los establecimientos que realicen diversas actividades concretas deberán obtener licencia por cada una de ellas.
 
@@ -1755,13 +1891,17 @@ En el caso de giros restringidos sobre venta y consumo de bebidas alcohólicas, 
 
 Las licencias, permisos y registros a que se refiere este Capítulo, deberán obtenerse y cubrirse previamente a la iniciación de las actividades o a la realización de los actos que los motiven.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 141.
 
-El período de refrendo de licencias, tanto en giros como en anuncios, se iniciará el primero de enero y concluirá el día último de febrero, pudiendo prorrogarse con carácter general cuando así lo determine, mediante acuerdo escrito, la Tesorería Municipal, no excediendo dicha prórroga del día último del mes de abril.
+El período de refrendo de licencias, tanto en giros como en anuncios, se iniciará el primero de enero y concluirá el día último de febrero, pudiendo prorrogarse con carácter general cuando así lo determine, mediante acuerdo escrito, la Tesorería o Hacienda Municipal, no excediendo dicha prórroga del día último del mes de abril.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 142.
 
-En los casos de cambio de denominación o razón social, domicilio o actividad, traspaso de la negociación y clausura de actividades, los contribuyentes están obligados a devolver las licencias y las placas de inscripción a la Tesorería Municipal, simultáneamente a la presentación del aviso correspondiente.
+En los casos de cambio de denominación o razón social, domicilio o actividad, traspaso de la negociación y clausura de actividades, los contribuyentes están obligados a devolver las licencias y las placas de inscripción a la Tesorería o Hacienda Municipal, simultáneamente a la presentación del aviso correspondiente.
 
 ###### Art. 143.
 
@@ -1773,7 +1913,9 @@ Tratándose de los permisos a que se refiere este capítulo, serán solidariamen
 
 I. Las personas físicas o morales responsables de la colocación de los anuncios; y
 
-II. Los propietarios de los muebles o inmuebles donde se instalen los anuncios. Estos se liberarán de la responsabilidad, dando aviso por escrito a la Tesorería Municipal de las existencias de dichos anuncios, dentro de los 15 días siguientes a su instalación.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+II. Los propietarios de los muebles o inmuebles donde se instalen los anuncios. Estos se liberarán de la responsabilidad, dando aviso por escrito a la Tesorería o Hacienda Municipal de las existencias de dichos anuncios, dentro de los 15 días siguientes a su instalación.
 
 ###### Art. 145.
 
@@ -1795,11 +1937,15 @@ Se aplicará una reducción de cuando menos el ochenta por ciento en las cuotas 
 
 ### CAPITULO III. Inspección y Vigilancia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 148.
 
-Los Contribuyentes sujetos a pago periódico por concepto de derechos por inspección y vigilancia para la seguridad pública, están obligados a otorgar una garantía equivalente hasta por el importe de seis mensualidades, cuando a juicio del Tesorero Municipal el giro no ofrezca las suficientes garantías de solvencia, o cuando la índole de las operaciones sea susceptible de sustraerse a la acción del fisco.
+Los Contribuyentes sujetos a pago periódico por concepto de derechos por inspección y vigilancia para la seguridad pública, están obligados a otorgar una garantía equivalente hasta por el importe de seis mensualidades, cuando a juicio del Tesorero o Encargado de la Hacienda Municipal el giro no ofrezca las suficientes garantías de solvencia, o cuando la índole de las operaciones sea susceptible de sustraerse a la acción del fisco.
 
-Tratándose de eventos que se vayan a realizar por una sola vez o por períodos limitados de tiempo, están obligados los contribuyentes a otorgar la garantía que señale el Tesorero Municipal.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Tratándose de eventos que se vayan a realizar por una sola vez o por períodos limitados de tiempo, están obligados los contribuyentes a otorgar la garantía que señale el Tesorero o Encargado de la Hacienda Municipal.
 
 ###### Art. 149.
 
@@ -1837,13 +1983,17 @@ Para los efectos del cobro de los Derechos por este concepto, se entenderá por 
 
 Sólo se causará el pago de Derechos por concepto de aseo público, cuando el servicio que se preste sea en forma especial, a solicitud o en rebeldía del usuario.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 155.
 
-Los usuarios que requieran servicios especiales de aseo público en forma constante, celebrarán contrato con el Ayuntamiento, en el cual se fijará, entre otros, la forma de prestación de éstos y el pago que corresponda, de conformidad a lo establecido en las Leyes de Ingresos Municipales. Dicho pago se efectuará en la Tesorería Municipal o en las Instituciones Bancarias autorizadas, dentro de los primeros cinco días del mes en que se cause.
+Los usuarios que requieran servicios especiales de aseo público en forma constante, celebrarán contrato con el Ayuntamiento, en el cual se fijará, entre otros, la forma de prestación de éstos y el pago que corresponda, de conformidad a lo establecido en las Leyes de Ingresos Municipales. Dicho pago se efectuará en la Tesorería o Hacienda Municipal o en las Instituciones Bancarias autorizadas, dentro de los primeros cinco días del mes en que se cause.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 156.
 
-Los derechos por aseo público a que se refiere esta Ley, cuando no se presten en forma constante y bajo contrato, deberán pagarse en la Tesorería Municipal previamente a la prestación del servicio. En caso que el servicio se preste en rebeldía del usuario, se le notificará el costo del mismo para que, en un término de cinco días, realice el pago correspondiente.
+Los derechos por aseo público a que se refiere esta Ley, cuando no se presten en forma constante y bajo contrato, deberán pagarse en la Tesorería o Hacienda Municipal previamente a la prestación del servicio. En caso que el servicio se preste en rebeldía del usuario, se le notificará el costo del mismo para que, en un término de cinco días, realice el pago correspondiente.
 
 ### CAPITULO VI. Agua y Alcantarillado
 
@@ -1871,13 +2021,17 @@ La regulación de los derechos o cualquier otro ingreso que se establezcan por l
 
 ### CAPITULO VII. Rastro
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 162.
 
-Los Derechos que las Leyes de Ingresos Municipales fijen por este concepto deberán ser cubiertos en forma anticipada en la Tesorería Municipal, o en el tro (sic) Municipal, a los recaudadores autorizados para este fin, cuando en éste se efectúe el sacrificio.
+Los Derechos que las Leyes de Ingresos Municipales fijen por este concepto deberán ser cubiertos en forma anticipada en la Tesorería o Hacienda Municipal, o en el Rastro Municipal, a los recaudadores autorizados para este fin, cuando en éste se efectúe el sacrificio.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 163.
 
-El sacrificio de ganado, aves y otras especies, deberá efectuarse en los Rastros Municipales o en los lugares que para este efecto autorice el Presidente Municipal, debiendo dar aviso a la Tesorería Municipal para que ésta verifique el cobro de los derechos correspondientes.
+El sacrificio de ganado, aves y otras especies, deberá efectuarse en los Rastros Municipales o en los lugares que para este efecto autorice el Presidente Municipal, debiendo dar aviso a la Tesorería o Hacienda Municipal para que ésta verifique el cobro de los derechos correspondientes.
 
 ###### Art. 164.
 
@@ -1931,9 +2085,11 @@ Las constancias de inexistencia expedidas por el Oficial del municipio en donde 
 
 Causarán los derechos a que se refiere este Capítulo, la expedición por parte de Servidores Públicos de los Ayuntamientos, de toda clase de certificados, certificaciones o copias de documentos existentes en los archivos de las oficinas municipales, a solicitud de los interesados.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 172.
 
-Los Derechos que las Leyes de Ingresos Municipales fijen por este concepto, deberán ser cubiertos en forma anticipada en la Tesorería Municipal, o en los lugares que ésta autorice para tal efecto.
+Los Derechos que las Leyes de Ingresos Municipales fijen por este concepto, deberán ser cubiertos en forma anticipada en la Tesorería o Hacienda Municipal, o en los lugares que ésta autorice para tal efecto.
 
 ###### Art. 173.
 
@@ -1965,9 +2121,11 @@ Los ingresos que por estos conceptos correspondan a los Municipios, se establece
 
 Causarán los derechos a que se refiere este Capítulo, aquellos otros servicios que preste la Autoridad Municipal y que no estén previstos en este Título, de conformidad con lo que al efecto señalen las Leyes de Ingresos Municipales.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 176.
 
-Los Derechos que las Leyes de Ingresos Municipales fijen por este concepto, deberán ser cubiertos en la Tesorería o en los lugares que ésta autorice para tal efecto, dentro de los plazos que se señalen.
+Los Derechos que las Leyes de Ingresos Municipales fijen por este concepto, deberán ser cubiertos en la Tesorería o Hacienda Municipal o en los lugares que ésta autorice para tal efecto, dentro de los plazos que se señalen.
 
 ## TITULO TERCERO. De los Productos
 
@@ -1997,13 +2155,13 @@ Para la percepción de estos ingresos se estará a lo dispuesto, según el caso,
 
 Sólo podrán ser enajenados o donados los bienes inmuebles municipales, en los casos previstos en las leyes, o cuando resulten antieconómicos en su conservación y mantenimiento conforme a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-I. La Tesorería Municipal formará un expediente en que se acredite que existen las condiciones antes mencionadas y en él incluirá el proyecto para una construcción inmobiliaria o para la ejecución de obras de necesidad o utilidad notorias, a las que invariablemente destinará, el producto de la enajenación, si fuera el caso;
+I. La Tesorería o Hacienda Municipal formará un expediente en que se acredite que existen las condiciones antes mencionadas y en él incluirá el proyecto para una construcción inmobiliaria o para la ejecución de obras de necesidad o utilidad notorias, a las que invariablemente destinará, el producto de la enajenación, si fuera el caso;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-II. Cuando la enajenación sea a través de compraventa, ésta se efectuará en subasta pública que anuncie y presida el Tesorero Municipal, con citación del Síndico del Ayuntamiento; y
+II. Cuando la enajenación sea a través de compraventa, ésta se efectuará en subasta pública que anuncie y presida el Tesorero o Encargado de la Hacienda Municipal, con citación del Síndico del Ayuntamiento; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -2027,11 +2185,11 @@ Los actos o contratos que surtan efectos posteriores al período del Ayuntamient
 
 Queda prohibido el subarrendamiento de bienes inmuebles propiedad del Municipio.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 182.
 
-La Tesorería Municipal llevará un inventario de los bienes muebles e inmuebles propiedad del municipio, el cual deberá ser permanentemente actualizado, debiendo comunicar la Auditoría Superior, las altas y bajas que se realicen a más tardar el día cinco del mes siguiente del que se haya efectuado el movimiento.
+La Tesorería o Hacienda Municipal llevará un inventario de los bienes muebles e inmuebles propiedad del municipio, el cual deberá ser permanentemente actualizado, debiendo comunicar la Auditoría Superior, las altas y bajas que se realicen a más tardar el día cinco del mes siguiente del que se haya efectuado el movimiento.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -2081,11 +2239,11 @@ Los productos a que se refiere este capítulo se cobrarán por metro cuadrado, l
 
 El pago de los productos señalados en este capítulo, se hará por adelantado.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 191.
 
-Los recibos que deba expedir la Tesorería Municipal y los boletos para el cobro de productos, por uso de piso, deberán ser enviados a la Auditoria Superior para su registro y control.
+Los recibos que deba expedir la Tesorería o Hacienda Municipal y los boletos para el cobro de productos, por uso de piso, deberán ser enviados a la Auditoria Superior para su registro y control.
 
 ### CAPITULO V. Productos Diversos
 
@@ -2185,13 +2343,19 @@ VIII. Cuando se omita una prestación fiscal que corresponda a los actos o contr
 
 IX. Cuando la liquidación de alguna prestación fiscal esté encomendada a Servidores Públicos del Municipio o del Estado, éstos serán responsables de las infracciones que se cometan y se les aplicarán las sanciones que correspondan, quedando únicamente obligados los contribuyentes a pagar la prestación omitida;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JULIO DE 2021)</small>
 
-X. La Tesorería Municipal se abstendrá de imponer sanciones, cuando se haya incurrido en infracciones a causa de fuerza mayor o de caso fortuito, o cuando se enteren, en forma espontánea los créditos fiscales no cubiertos, dentro de los plazos señalados por las disposiciones respectivas. No se considerará que el entero es espontáneo, cuando:
+X. La Tesorería o Hacienda Municipal se abstendrá de imponer sanciones, cuando se haya incurrido en infracciones a causa de fuerza mayor o de caso fortuito, o cuando se enteren, en forma espontánea los créditos fiscales no cubiertos, dentro de los plazos señalados por las disposiciones respectivas. No se considerará que el entero es espontáneo, cuando:
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
 
 a) La omisión sea descubierta por las autoridades fiscales;
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
+
 b) Medie requerimiento, visita, excitativa o cualquiera otra gestión de cobro efectuada por las mismas;
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
 
 c) Se trate de actos o contratos que se hagan constar ante los notarios o corredores públicos y éstos incumplan con lo establecido en el artículo 116 de la presente ley; y
 
@@ -2207,9 +2371,11 @@ Las resoluciones que se dicten en materia de condonación parcial no podrán ser
 
 Las multas cuya imposición hubiese quedado firme deberán ser condonadas totalmente, si por pruebas diversas de las presentadas ante las autoridades correspondientes, se demuestra que no se cometió la infracción o que la persona a quien se atribuye no es la responsable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 200.
 
-Se establece la clausura, como un procedimiento de orden público, a efecto de suspender actividades y actos de cualquiera naturaleza, que puedan constituir o constituyan una conducta ilegal o delictiva que contravenga las Leyes Fiscales Municipales. Lo anterior, sin perjuicio de las facultades que otorga esta Ley al Tesorero Municipal para la aplicación de sanciones.
+Se establece la clausura, como un procedimiento de orden público, a efecto de suspender actividades y actos de cualquiera (sic) naturaleza, que puedan constituir o constituyan una conducta ilegal o delictiva que contravenga las Leyes Fiscales Municipales. Lo anterior, sin perjuicio de las facultades que otorga esta Ley al Tesorero o Encargado de la Hacienda Municipal para la aplicación de sanciones.
 
 La clausura podrá ser temporal o definitiva, en los casos siguientes:
 
@@ -2259,9 +2425,11 @@ Las actividades de revisión y evaluación del gasto público municipal, estará
 
 Los ayuntamientos, a solicitud de la Auditoría Superior, proporcionarán a ésta, todos los datos estadísticos e información general que puedan contribuir a una mejor comprensión y evaluación de las partidas presupuestales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 205.
 
-La Tesorería Municipal, con relación al gasto público, tendrá las siguientes atribuciones:
+La Tesorería o Hacienda Municipal, con relación al gasto público, tendrá las siguientes atribuciones:
 
 I. Preparar y formular el monto del gasto público municipal, conforme a las previsiones de esta Ley y su Reglamento;
 
@@ -2293,23 +2461,25 @@ El gasto público del municipio se basará en el presupuesto que se elaborará p
 
 El Plan Municipal de Desarrollo y los programas que de él se deriven serán base fundamental para la elaboración anual del proyecto de presupuesto de egresos del municipio
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 207.
 
-El Presidente Municipal, a través de la Tesorería o el área Encargada de la Hacienda, determinará los lineamientos del gasto, así como las políticas y normas que se aplicarán durante la elaboración del anteproyecto de presupuesto de egresos, a los cuales tendrán que sujetarse las dependencias y entidades municipales mencionadas en el artículo 20 de esta Ley.
+El Presidente Municipal, a través de la Tesorería o Hacienda Municipal, determinará los lineamientos del gasto, así como las políticas y normas que se aplicarán durante la elaboración del anteproyecto de presupuesto de egresos, a los cuales tendrán que sujetarse las dependencias y entidades municipales mencionadas en el artículo 20 de esta Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 208.
 
-La Tesorería o el área Encargada de la Hacienda emitirá los manuales e instructivos para la formulación de los anteproyectos de presupuesto de egresos y los remitirá oportunamente a las dependencias y entidades municipales.
+La Tesorería o Hacienda Municipal emitirá los manuales e instructivos para la formulación de los anteproyectos de presupuesto de egresos y los remitirá oportunamente a las dependencias y entidades municipales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 209.
 
-La Tesorería o el área Encargada de la Hacienda realizará estudios pertinentes con el propósito de formular una política de gasto público razonada respecto al desenvolvimiento de los indicadores de impacto en la sociedad y de contar con criterios financieros que permitan incrementar la eficiencia en el aprovechamiento de los arbitrios del municipio.
+La Tesorería o Hacienda Municipal realizará estudios pertinentes con el propósito de formular una política de gasto público razonada respecto al desenvolvimiento de los indicadores de impacto en la sociedad y de contar con criterios financieros que permitan incrementar la eficiencia en el aprovechamiento de los arbitrios del municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 Los recursos para cubrir los adeudos del ejercicio fiscal anterior, previstos en el proyecto de presupuesto de egresos, podrán ser hasta por el 2.5 por ciento de los ingresos totales del municipio.
 
@@ -2501,7 +2671,9 @@ IV. Sólo procederá hacer pagos con base en el Presupuesto de Egresos autorizad
 
 V. La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal. Lo anterior, exceptuando el pago de sentencias laborales definitivas emitidas por la autoridad competente.
 
-La Tesorería o área Encargada de la Hacienda Municipal contará con un sistema de registro y control de las erogaciones de servicios personales;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+La Tesorería o Hacienda Municipal contará con un sistema de registro y control de las erogaciones de servicios personales;
 
 VI. Deberán tomar medidas para racionalizar el Gasto corriente.
 
@@ -2557,17 +2729,17 @@ Si de la revisión aparecieren discrepancias entre las cantidades gastadas y las
 
 A solicitud de la Auditoría Superior, el encargado de la hacienda municipal informará de los actos, convenios o contratos de los que resulten derechos u obligaciones para el Ayuntamiento, con el objeto de verificar si de sus términos y condiciones, pudieran derivarse daños, en contra de la hacienda pública municipal o impliquen incumplimiento de alguna ley relacionada con la materia.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 227.
 
-El encargado de la hacienda municipal está obligado a proporcionar a la a (sic) Auditoría Superior la información que se le solicite y a permitir la práctica de visitas, inspecciones y auditorías necesarias, que éste determine, para el esclarecimiento de los hechos.
+El Tesorero o Encargado de la Hacienda Municipal está obligado a proporcionar a la Auditoría Superior la información que se le solicite y a permitir la práctica de visitas, inspecciones y auditorias necesarias, que éste determine, para el esclarecimiento de los hechos.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 228.
 
-Si el encargado de la hacienda municipal se negare a proporcionar la información solicitada por la Auditoria Superior del Estado, o no permitiera la revisión de los libros, instrumentos y documentos comprobatorios y justificativos del ingreso y del gasto público, ni permitiera la práctica de visitas, inspecciones y auditorías, la Auditoría Superior del Estado resolverá lo conducente y en los términos de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Jalisco y sus Municipios.
+Si el Tesorero o Encargado de la Hacienda Municipal se negare a proporcionar la información solicitada por la Auditoria Superior del Estado, o no permitiera la revisión de los libros, instrumentos y documentos comprobatorios y justificativos del ingreso y del gasto público, ni permitiera la práctica de visitas, inspecciones y auditorias, la Auditoría Superior del Estado resolverá lo conducente y en los términos de la Ley de Fiscalización Superior y de Auditoria Pública del Estado de Jalisco.
 
 ### CAPITULO II. De la Contabilidad
 
@@ -2577,13 +2749,17 @@ Si el encargado de la hacienda municipal se negare a proporcionar la informació
 
 Con el objeto de uniformar los criterios en materia de contabilidad municipal y archivo contable, la Auditoría Superior del Estado, dará a conocer con toda oportunidad, el catalogo de cuentas de ingresos y egresos, las normas, procedimientos, métodos y sistemas que emita e implante con base en los ordenamientos correspondientes y las disposiciones federales que al efecto expida el Congreso de la Unión.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 230.
 
-El Tesorero Municipal llevará su propia contabilidad, en la cual incluirá las cuentas para registrar tanto activos, pasivos, capital, patrimonio, ingresos, costos y gastos, así como las asignaciones, compromisos y ejercicio correspondiente, y las partidas de su propio presupuesto.
+El Tesorero o Encargado de la Hacienda Municipal llevará su propia contabilidad, en la cual incluirá las cuentas para registrar tanto activos, pasivos, capital, patrimonio, ingresos, costos y gastos, así como las asignaciones, compromisos y ejercicio correspondiente, y las partidas de su propio presupuesto.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 231.
 
-La contabilidad de la Tesorería Municipal se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas, con objetivos, metas y unidades responsables, de su ejercicio.
+La contabilidad de la Tesorería o Hacienda Municipal se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas, con objetivos, metas y unidades responsables, de su ejercicio.
 
 ###### Art. 232.
 
@@ -2763,9 +2939,11 @@ Cuando el requerimiento se haga personalmente, el ejecutor entregará copia del 
 
 Si la exigibilidad se origina por cese de la prórroga o de la autorización para pagar en parcialidades, el deudor podrá efectuar el pago, dentro de los seis días siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 255.
 
-Este procedimiento se radicará en la Tesorería Municipal donde debió hacerse el pago.
+Este procedimiento se radicará en la Tesorería o Hacienda Municipal donde debió hacerse el pago.
 
 ###### Art. 256.
 
@@ -2801,9 +2979,11 @@ Tratándose de las fracs. III y IV de este artículo, la autoridad deberá inici
 
 Se podrá practicar embargo precautorio, sobre los bienes o la negación del contribuyente, dinero, metales preciosos, depósitos bancarios o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, para asegurar el interés fiscal, cuando el crédito fiscal no se (sic) exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, cuando a juicio de ésta exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En este caso, la autoridad trabará el embargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 258.
 
-El ejecutor que designe la Tesorería Municipal se constituirá en el domicilio del deudor y practicará la diligencia del secuestro administrativo, con las mismas formalidades de las notificaciones personales.
+El ejecutor que designe la Tesorería o Hacienda Municipal se constituirá en el domicilio del deudor y practicará la diligencia del secuestro administrativo, con las mismas formalidades de las notificaciones personales.
 
 Si el requerimiento de pago se hizo por edictos, la diligencia de embargo se entenderá con el Presidente Municipal, salvo que en el momento de iniciarse la diligencia compareciere el deudor, en cuyo caso se entenderá con él.
 
@@ -2857,7 +3037,9 @@ a) Bienes ubicados fuera de la jurisdicción municipal; o
 
 b) Bienes que ya reporten cualquier gravamen.
 
-Si al estarse practicando la diligencia de embargo, el deudor manifiesta su deseo de hacer el pago del crédito y de los accesorios causados, el ejecutor suspenderá dicha diligencia y acompañará al deudor a la Tesorería Municipal correspondiente, a efecto de que realice el entero, debiendo constar el pago en el acta relativa, entregándole copia para constancia.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Si al estarse practicando la diligencia de embargo, el deudor manifiesta su deseo de hacer el pago del crédito y de los accesorios causados, el ejecutor suspenderá dicha diligencia y acompañará al deudor a la Tesorería o Hacienda Municipal correspondiente, a efecto de que realice el entero, debiendo constar el pago en el acta relativa, entregándole copia para constancia.
 
 ###### Art. 261.
 
@@ -2867,7 +3049,9 @@ Si los bienes señalados para la traba de ejecución están ya embargados por ot
 
 Si al designarse bienes para el secuestro administrativo, se opusiere un tercero fundándose en el dominio de ellos, no se practicará el embargo de éstos, si se demuestra en el mismo acto la propiedad con prueba documental suficiente, a juicio del ejecutor.
 
-La resolución dictada tendrá el carácter de provisional y deberá ser sometida, en todos los casos, a ratificación de la Tesorería Municipal, la que deberá allegarse los documentos exhibidos en el momento de la oposición. Si a juicio de la Tesorería Municipal las pruebas no son suficientes, ordenará al ejecutor que continúe con el embargo y notificará al interesado que puede hacer valer la tercería en los términos de esta Ley.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+La resolución dictada tendrá el carácter de provisional y deberá ser sometida, en todos los casos, a ratificación de la Tesorería Municipal, la que deberá allegarse los documentos exhibidos en el momento de la oposición. Si a juicio de la Tesorería o Hacienda Municipal las pruebas no son suficientes, ordenará al ejecutor que continúe con el embargo y notificará al interesado que puede hacer valer la tercería en los términos de esta Ley.
 
 ###### Art. 263.
 
@@ -2907,21 +3091,27 @@ XV. Las servidumbres, cuando no se embargue también el predio dominante.
 
 Cuando se embarguen negociaciones industriales, comerciales, de prestación de servicios, agrícola y ganadera y se practique intervención con cargo a la caja de dichas negociaciones, las autoridades correspondientes podrán ordenar que se retenga hasta el 25 % de los ingresos diarios, a fin de abonar al importe del crédito fiscal reclamado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 265.
 
-El ejecutor trabará ejecución de bienes bastantes para garantizar las prestaciones pendientes de pago, los gastos de ejecución y los vencimientos futuros, poniendo todo lo secuestrado, previa identificación bajo la guarda del o de los depositarios que fueren necesarios y que, salvo cuando los hubiese designado anticipadamente la Tesorería Municipal, nombrará el ejecutor en el mismo acto de la diligencia. El nombramiento de depositario podrá recaer en el ejecutado.
+El ejecutor trabará ejecución de bienes bastantes para garantizar las prestaciones pendientes de pago, los gastos de ejecución y los vencimientos futuros, poniendo todo lo secuestrado, previa identificación bajo la guarda del o de los depositarios que fueren necesarios y que, salvo cuando los hubiese designado anticipadamente la Tesorería o Hacienda Municipal, nombrará el ejecutor en el mismo acto de la diligencia. El nombramiento de depositario podrá recaer en el ejecutado.
 
 El embargo de toda clase de negociaciones se regirá por lo establecido en esta Ley, y en su defecto, por las disposiciones del Código de Procedimientos Civiles del Estado.
 
-Si la negociación embargada fuera improductiva o estuviese abandonada, la Tesorería Municipal podrá arrendarla a terceros, debidamente capacitados. En igualdad de circunstancias, será preferido para el arrendamiento el propio deudor, si el abandono o improductividad hubiesen tenido como origen causas no imputables a él.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Si la negociación embargada fuera improductiva o estuviese abandonada, la Tesorería o Hacienda Municipal podrá arrendarla a terceros, debidamente capacitados. En igualdad de circunstancias, será preferido para el arrendamiento el propio deudor, si el abandono o improductividad hubiesen tenido como origen causas no imputables a él.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 266.
 
-El secuestro de crédito será notificado personalmente por el ejecutor a los deudores de lo embargado, para que hagan el pago de los adeudos a su cargo en la caja de la Tesorería Municipal, apercibidos de doble pago, en caso de desobediencia.
+El secuestro de crédito será notificado personalmente por el ejecutor a los deudores de lo embargado, para que hagan el pago de los adeudos a su cargo en la caja de la Tesorería o Hacienda Municipal apercibidos de doble pago, en caso de desobediencia.
 
-Los acreedores serán apercibidos también personalmente por el ejecutor, de las penas en que incurren quienes disponen de créditos secuestrados. En caso de que el deudor, en cumplimiento de lo dispuesto en el Primer Párrafo de este artículo, hiciere pago de un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad y del Comercio, el Tesorero Municipal requerirá al acreedor embargado para que, dentro de los cinco días siguientes a la notificación, firme la escritura de pago o el documento en que deba constar el finiquito y cancelación del adeudo.
+Los acreedores serán apercibidos también personalmente por el ejecutor, de las penas en que incurren quienes disponen de créditos secuestrados. En caso de que el deudor, en cumplimiento de lo dispuesto en el Primer Párrafo de este artículo, hiciere pago de un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad y del Comercio, el Tesorero o Encargado de la Hacienda Municipal requerirá al acreedor embargado para que, dentro de los cinco días siguientes a la notificación, firme la escritura de pago o el documento en que deba constar el finiquito y cancelación del adeudo.
 
-Si se rehusare el acreedor, transcurrido el plazo señalado, el Tesorero Municipal firmará la escritura o documentos relativos, en rebeldía de aquél, lo que hará del conocimiento de la Oficina del Registro Público de la Propiedad y del Comercio, para los efectos consiguientes.
+Si se rehusare el acreedor, transcurrido el plazo señalado, el Tesorero o Encargado de la Hacienda Municipal firmará la escritura o documentos relativos, en rebeldía de aquél, lo que hará del conocimiento de la Oficina del Registro Público de la Propiedad y del Comercio, para los efectos consiguientes.
 
 ###### Art. 267.
 
@@ -2929,57 +3119,85 @@ Si el crédito es litigioso, se hará saber el embargo, además, al juez que con
 
 El Ministerio Público asumirá, en este caso, las facultades que concede a los depositarios el Código de Procedimientos Civiles del Estado.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 268.
 
-Cuando se aseguren dinero, metales preciosos, acciones, bonos o cualquier otro título de crédito o de valores, y alhajas u objetos de arte, el depositario los entregará inmediatamente, previo inventario, en la caja de la Tesorería Municipal, la que los conservará, bajo su más estricta responsabilidad, cuidando de hacer efectivos los títulos a su vencimiento, dejando constancia de ellos en el expediente de ejecución y aplicando el efectivo como se dispone en el artículo siguiente.
+Cuando se aseguren dinero, metales preciosos, acciones, bonos o cualquier otro título de crédito o de valores, y alhajas u objetos de arte, el depositario los entregará inmediatamente, previo inventario, en la caja de la Tesorería o Hacienda Municipal, la que los conservará, bajo su más estricta responsabilidad, cuidando de hacer efectivos los títulos a su vencimiento, dejando constancia de ellos en el expediente de ejecución y aplicando el efectivo como se dispone en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 269.
 
-Las sumas de dinero objeto del secuestro, así como el importe de los frutos y productos de los bienes secuestrados, o hasta el 25 % de los ingresos diarios de las negociaciones embargadas, se aplicarán en los términos del Art. 302, inmediatamente que se reciba en la caja de la Tesorería Municipal. Si se embargare un inmueble, los frutos y productos se aplicarán de acuerdo con lo dispuesto en el Art. 18, en su caso.
+Las sumas de dinero objeto del secuestro, así como el importe de los frutos y productos de los bienes secuestrados, o hasta el 25 % de los ingresos diarios de las negociaciones embargadas, se aplicarán en los términos del Art. 302, inmediatamente que se reciba en la caja de la Tesorería o Hacienda Municipal. Si se embargare un inmueble, los frutos y productos se aplicarán de acuerdo con lo dispuesto en el Art. 18, en su caso.
 
 ###### Art. 270.
 
 Si el deudor o cualquiera otra persona impidiere materialmente al ejecutor el acceso al domicilio de aquel, o al lugar en que se encuentren los bienes, siempre que el caso lo requiera, el ejecutor solicitará el auxilio de la policía o fuerza pública para llevar adelante los procedimientos de ejecución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 271.
 
-Si durante el secuestro administrativo, la persona con quien se entienda la diligencia no abriere las puertas de las construcciones, edificios o casas que se embargaren, o donde se presuma que existen bienes muebles embargables, el ejecutor, previo acuerdo fundado del Tesorero Municipal, hará que ante dos testigos, sean rotas las cerraduras que fuere necesario, según el caso, para que el depositario tome posesión del inmueble, o para que siga adelante la diligencia.
+Si durante el secuestro administrativo, la persona con quien se entienda la diligencia no abriere las puertas de las construcciones, edificios o casas que se embargaren, o donde se presuma que existen bienes muebles embargables, el ejecutor, previo acuerdo fundado del Tesorero o Encargado de la Hacienda Municipal, hará que ante dos testigos, sean rotas las cerraduras que fuere (sic) necesario, según el caso, para que el depositario tome posesión del inmueble, o para que siga adelante la diligencia.
 
-En igual forma procederá el ejecutor, cuando la persona con quien se entienda la diligencia no abriere los muebles que aquel suponga guarden dinero, alhajas, objetos de arte u otros bienes embargables; pero si no fuere factible romper o forzar las cerraduras, el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido y los señalará y enviará en depósito a la Tesorería Municipal, donde serán abiertos en el término de tres días por el deudor o por su representante legal y, en caso contrario, por un experto designado por la Tesorería Municipal.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+En igual forma procederá el ejecutor, cuando la persona con quien se entienda la diligencia no abriere los muebles que aquel suponga guarden dinero, alhajas, objetos de arte u otros bienes embargables; pero si no fuere factible romper o forzar las cerraduras, el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido y los señalará y enviará en depósito a la Tesorería o Hacienda Municipal, donde serán abiertos en el término de tres días por el deudor o por su representante legal y, en caso contrario, por un experto designado por la Tesorería o Hacienda Municipal.
 
 Si no fuere factible romper o forzar las cerraduras de cajas u otros objetos unidos a un inmueble o de difícil transportación, el ejecutor trabará embargo sobre ellos y su contenido, y los sellará; para su apertura se seguirá el procedimiento establecido en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 272.
 
-Cualquier otra dificultad que se suscite tampoco impedirá la prosecución de la diligencia de embargo. El ejecutor la subsanará discrecionalmente, a reserva de lo que disponga el Tesorero Municipal.
+Cualquier otra dificultad que se suscite tampoco impedirá la prosecución de la diligencia de embargo. El ejecutor la subsanará discrecionalmente, a reserva de lo que disponga el Tesorero o Encargado de la Hacienda Municipal.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 273.
 
-El Tesorero Municipal, bajo su responsabilidad, nombrará y removerá libremente a los depositarios, quienes tendrán el carácter de administradores en los embargos de bienes raíces y de interventores encargados de la caja de las negociaciones comerciales, industriales, agrícolas y ganaderas.
+El Tesorero o Encargado de la Hacienda Municipal, bajo su responsabilidad, nombrará y removerá libremente a los depositarios, quienes tendrán el carácter de administradores en los embargos de bienes raíces y de interventores encargados de la caja de las negociaciones comerciales, industriales, agrícolas y ganaderas
 
 ###### Art. 274.
 
 El depositario, sea administrador o interventor, desempeñará su cargo dentro de las normas jurídicas en vigor, con todas las facultades y responsabilidades inherentes, y tendrá en particular las siguientes obligaciones:
 
-I. Garantizar su manejo a satisfacción de la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-II. Manifestar a la Tesorería Municipal su domicilio legal y el de su casa-habitación, así como el cambio de los mismos;
+I. Garantizar su manejo a satisfacción del Tesorero o Encargado de la Hacienda Municipal;
 
-III. Remitir a la Tesorería Municipal inventario de los bienes o negociaciones objeto del secuestro, con expresión de los valores determinados en el momento del embargo, incluso los de arrendamiento, si se hicieron constar en la diligencia o, en caso contrario, luego que sean recabados. En todo caso, en el inventario se hará constar la ubicación de los bienes o el lugar donde se guarden, a cuyo respecto todo depositario dará cuenta a la Tesorería Municipal de los cambios de localización que se efectuaren;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-IV. Recaudar los frutos y productos de los bienes secuestrados, o hasta el 25 % de los ingresos diarios de las negociaciones embargadas, y entregar su importe en la caja de la Tesorería Municipal diariamente o a medida que se efectúe el ingreso;
+II. Manifestar a la Tesorería o Hacienda Municipal su domicilio legal y el de su casa-habitación, así como el cambio de los mismos;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+III. Remitir a la Tesorería o Hacienda Municipal inventario de los bienes o negociaciones objeto del secuestro, con expresión de los valores determinados en el momento del embargo, incluso los de arrendamiento, si se hicieron constar en la diligencia o, en caso contrario, luego que sean recabados. En todo caso, en el inventario se hará constar la ubicación de los bienes o el lugar donde se guarden, a cuyo respecto todo depositario dará cuenta a la Tesorería o Hacienda Municipal de los cambios de localización que se efectuaren;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+IV. Recaudar los frutos y productos de los bienes secuestrados, o hasta el 25 % de los ingresos diarios de las negociaciones embargadas, y entregar su importe en la caja de la Tesorería o Hacienda Municipal diariamente o a medida que se efectúe el ingreso;
 
 V. Ejercitar ante las autoridades competentes las acciones y actos de gestión necesarios, para hacer efectivos los créditos materia del depósito o incluidos en él, así como las rentas, regalías y cualesquiera otras prestaciones, en numerario o en especie;
 
-VI. Erogar los gastos de administración, mediante aprobación de la Tesorería Municipal, cuando sean depositarios administradores, o ministrar el importe de tales gastos, previa la comprobación procedente, si sólo fueren depositarios interventores;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-VII. Rendir cuentas mensuales comprobadas a la Tesorería Municipal; y
+VI. Erogar los gastos de administración, mediante aprobación de la Tesorería o Hacienda Municipal, cuando sean depositarios administradores, o ministrar el importe de tales gastos, previa la comprobación procedente, si sólo fueren depositarios interventores;
 
-VIII. El depositario interventor que tuviere conocimiento de irregularidades en el manejo de las negociaciones sujetas a embargo o de operaciones que pongan en peligro los intereses del Fisco Municipal, dictará las medidas provisionales urgentes, que estime necesarias, para proteger dichos intereses y dará cuenta a la Tesorería Municipal, la que podrá ratificarlas o modificarlas.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VII. Rendir cuentas mensuales comprobadas a la Tesorería o Hacienda Municipal; y
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VIII. El depositario interventor que tuviere conocimiento de irregularidades en el manejo de las negociaciones sujetas a embargo o de operaciones que pongan en peligro los intereses del Fisco Municipal, dictará las medidas provisionales urgentes, que estime necesarias, para proteger dichos intereses y dará cuenta a la Tesorería o Hacienda Municipal, la que podrá ratificarlas o modificarlas.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 275.
 
-Si las medidas urgentes que dicten los depositarios interventores en los casos previstos en la frac. VIII del artículo anterior, no fuesen acatadas por el deudor o el personal de la negociación secuestrada, la Tesorería Municipal ordenará de plano que el depositario interventor se convierta en administrador, o sea substituido por un depositario administrador, quien tomará posesión de su cargo desde luego.
+Si las medidas urgentes que dicten los depositarios interventores en los casos previstos en la frac. VIII. del artículo anterior, no fuesen acatadas por el deudor o el personal de la negociación secuestrada, la Tesorería o Hacienda Municipal ordenará de plano que el depositario interventor se convierta en administrador, o sea substituido por un depositario administrador, quien tomará posesión de su cargo desde luego.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
@@ -2989,17 +3207,23 @@ El embargo de derechos reales o posesorios sobre bienes inmuebles o de negociaci
 
 La inscripción en la última Dependencia se verificará, cuando no se encuentren registrados los bienes en la primera. Cuando los bienes raíces o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público de la Propiedad y del Comercio, o Delegaciones de Catastro, en todas ellas se inscribirá el secuestro.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 277.
 
-Los secuestros administrativos podrán ampliarse en cualquier momento del procedimiento de ejecución, cuando la Tesorería Municipal estime que los bienes embargados son insuficientes para cubrir las prestaciones fiscales insolutas y los vencimientos inmediatos.
+Los secuestros administrativos podrán ampliarse en cualquier momento del procedimiento de ejecución, cuando la Tesorería o Hacienda Municipal estime que los bienes embargados son insuficientes para cubrir las prestaciones fiscales insolutas y los vencimientos inmediatos.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 278.
 
-Terminada la diligencia de embargo, el ejecutor devolverá el expediente al Tesorero Municipal para que verifique si se ha cumplido, en sus términos, el procedimiento administrativo de ejecución. En caso contrario, mandará reponerlo a partir de la deficiencia substancial que apareciere.
+Terminada la diligencia de embargo, el ejecutor devolverá el expediente al Tesorero o Encargado de la Hacienda Municipal para que verifique si se ha cumplido, en sus términos, el procedimiento administrativo de ejecución. En caso contrario, mandará reponerlo a partir de la deficiencia substancial que apareciere.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 279.
 
-Son gastos de ejecución, a cargo de los deudores de créditos fiscales, las erogaciones que efectúen las Tesorerías Municipales durante el procedimiento administrativo de ejecución, en cada caso concreto; a saber:
+Son gastos de ejecución, a cargo de los deudores de créditos fiscales, las erogaciones que efectúen las Tesorerías o Haciendas Municipales durante el procedimiento administrativo de ejecución, en cada caso concreto; a saber:
 
 I. Honorarios de los notificadores, ejecutores, depositarios, interventores y peritos;
 
@@ -3011,9 +3235,11 @@ IV. Inscripción en el Registro Público de la Propiedad y del Comercio, del emb
 
 V. Cualquier otro gasto o erogación que, con el carácter de extraordinario, sea necesario hacer para el éxito del procedimiento aludido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 280.
 
-A falta de disposición expresa en las Leyes de Ingresos Municipales, los gastos de ejecución y de embargo se harán efectivos por la Tesorería Municipal, conjuntamente con el crédito fiscal, conforme a lo siguiente:
+A falta de disposición expresa en las Leyes de Ingresos Municipales, los gastos de ejecución y de embargo se harán efectivos por la Tesorería o Hacienda Municipal, conjuntamente con el crédito fiscal, conforme a lo siguiente:
 
 Con relación a los gastos de ejecución:
 
@@ -3077,17 +3303,23 @@ No procederá el cobro de gastos de ejecución, cuando las diligencias practicad
 
 #### SECCION CUARTA. De los Remates
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 281.
 
-La Tesorería Municipal procederá al remate de los bienes embargados, después de transcurrir el décimo sexto día de haber practicado el embargo, si en contra de éste no hubiere objeción, o cuando quede firme la resolución que, en su caso, se dicte.
+La Tesorería o Hacienda Municipal procederá al remate de los bienes embargados, después de transcurrir el décimo sexto día de haber practicado el embargo, si en contra de éste no hubiere objeción, o cuando quede firme la resolución que, en su caso, se dicte.
 
 En los casos de las fracs. II, III y IV del Art. 257, cuando los créditos se hagan exigibles y no se paguen dentro del término del requerimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 282.
 
-Salvo los casos que esta Ley autoriza; toda venta se hará en subasta pública, que se celebrará en el Local de la Tesorería Municipal.
+Salvo los casos que esta Ley autoriza; toda venta se hará en subasta pública, que se celebrará en el Local de la Tesorería o Hacienda Municipal.
 
-La Tesorería Municipal, con objeto de tener un mayor rendimiento, podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o fracciones o en piezas sueltas.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+La Tesorería o Hacienda Municipal, con objeto de tener un mayor rendimiento, podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o fracciones o en piezas sueltas.
 
 ###### Art. 283.
 
@@ -3095,7 +3327,9 @@ Las demás autoridades del Estado, podrán sacar a remate, bienes embargados por
 
 Los remates que se celebren en contravención a lo dispuesto en el párrafo anterior, serán nulos, y las adjudicaciones que se hagan, como consecuencia de ellos, carecerán de todo valor y eficacia jurídica.
 
-Sin embargo, las autoridades mencionadas podrán secuestrar el remanente que, llegado el caso, resulte del remate administrativo para los efectos del Art. 303, salvo que se garantice el interés fiscal, a satisfacción de la Tesorería Municipal.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Sin embargo, las autoridades mencionadas podrán secuestrar el remanente que, llegado el caso, resulte del remate administrativo para los efectos del Art. 303, salvo que se garantice el interés fiscal, a satisfacción de la Tesorería o Hacienda Municipal.
 
 ###### Art. 284.
 
@@ -3105,11 +3339,17 @@ La base para el remate de los bienes embargados, será la que resulte del avalú
 
 Al practicarse el avalúo pericial se observarán las reglas siguientes:
 
-I. La Tesorería Municipal nombrará un perito y lo hará saber al interesado, para que manifieste su conformidad o inconformidad con el nombramiento, dentro de un término de tres días siguientes a la notificación;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-II. Si transcurrido el término a que se refiere la fracción anterior, el deudor no hace ninguna manifestación, servirá de base para el remate el avalúo que practique el perito designado por la Tesorería Municipal, y si dentro del mismo término expresa su inconformidad, al hacerlo designará el perito que le corresponda; y
+I. La Tesorería o Hacienda Municipal nombrará un perito y lo hará saber al interesado, para que manifieste su conformidad o inconformidad con el nombramiento, dentro de un término de tres días siguientes a la notificación;
 
-III. En caso de discrepancia en los avalúos practicados por los peritos, el Tesorero Municipal hará el nombramiento de un tercero.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+II. Si transcurrido el término a que se refiere la fracción anterior, el deudor no hace ninguna manifestación, servirá de base para el remate el avalúo que practique el perito designado por la Tesorería o Hacienda Municipal, y si dentro del mismo término expresa su inconformidad, al hacerlo designará el perito que le corresponda; y
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+III. En caso de discrepancia en los avalúos practicados por los peritos, el Tesorero o Encargado de la Hacienda Municipal hará el nombramiento de un tercero.
 
 ###### Art. 286.
 
@@ -3119,7 +3359,9 @@ Para proceder al remate de bienes inmuebles, derechos reales o posesorios y de n
 
 El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a la determinación del precio que deberá servir de base. La última publicación de la convocatoria se efectuará, por lo menos, dentro de los diez días anteriores a la fecha del remate.
 
-La convocatoria se fijará en el sitio visible y usual de la Tesorería Municipal y en los lugares públicos que se juzgue conveniente.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+La convocatoria se fijará en el sitio visible y usual de la Tesorería o Hacienda Municipal y en los lugares públicos que se juzgue conveniente.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -3139,13 +3381,17 @@ IV. Postura legal;
 
 V. El importe del adeudo y sus accesorios; y
 
-VI. Nombre de los acreedores que hayan aparecido en los certificados de gravámenes a que se refiere el artículo siguiente, si por carecer de su domicilio la Tesorería Municipal no pudo notificarlos personalmente.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VI. Nombre de los acreedores que hayan aparecido en los certificados de gravámenes a que se refiere el artículo siguiente, si por carecer de su domicilio la Tesorería o Hacienda Municipal no pudo notificarlos personalmente.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 289.
 
-Los acreedores que aparezcan en los certificados de gravámenes serán citados para el acto del remate, en forma personal, si la Tesorería Municipal conoce su domicilio; en caso contrario, se tendrá como citación la que se haga en las convocatorias en que se anuncie el remate, en las que deberá expresarse el nombre de los acreedores.
+Los acreedores que aparezcan en los certificados de gravámenes serán citados para el acto del remate, en forma personal, si la Tesorería o Hacienda Municipal conoce su domicilio; en caso contrario, se tendrá como citación la que se haga en las convocatorias en que se anuncie el remate, en las que deberá expresarse el nombre de los acreedores.
 
-Los acreedores citados tendrán derecho a concurrir al remate y hacer las observaciones que estimen pertinentes, que serán resueltas por la Tesorería Municipal, en el acto de la diligencia.
+Los acreedores citados tendrán derecho a concurrir al remate y hacer las observaciones que estimen pertinentes, que serán resueltas por la Hacienda Municipal, en el acto de la diligencia.
 
 ###### Art. 290.
 
@@ -3155,13 +3401,17 @@ Mientras no se apruebe el remate, el deudor puede librarse de la ejecución haci
 
 Será postura legal la que cubra el 80 % del valor señalado como base para el remate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 292.
 
-Para tener derecho a comparecer como postor en un remate, deberá formularse escrito en el que se haga la postura, debiendo hacer depósitos por el importe de, cuando menos, el 10 % del valor fijado a los bienes en la convocatoria, en la Tesorería Municipal.
+Para tener derecho a comparecer como postor en un remate, deberá formularse escrito en el que se haga la postura, debiendo hacer depósitos por el importe de, cuando menos, el 10 % del valor fijado a los bienes en la convocatoria, en la Tesorería o Hacienda Municipal.
 
 El importe de los depósitos que se constituyan servirá de garantía, para el cumplimiento de las obligaciones que contraigan los postores, por las adjudicaciones que se les hagan de los bienes rematados.
 
-Inmediatamente después de fincado el remate, previa orden de la Tesorería Municipal, se devolverán los certificados de depósito a los postores, excepto el que corresponda al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Inmediatamente después de fincado el remate, previa orden de la Tesorería o Hacienda Municipal, se devolverán los certificados de depósito a los postores, excepto el que corresponda al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
 
 ###### Art. 293.
 
@@ -3177,43 +3427,61 @@ II. Las cantidades que se ofrezcan; y
 
 III. Lo que se ofrezca de contado y los términos en que habrá de pagarse la diferencia, la que causará el interés, según la tasa a que se refieren las Leyes de Ingresos Municipales para los casos en que las autoridades fiscales concedan plazos para el pago de prestaciones fiscales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 295.
 
-El día y hora señalados en la convocatoria, el Tesorero Municipal, después de pasar lista de las personas que hubiesen presentado postura, hará saber a las que estén presentes cuáles posturas fueron calificadas como legales y les dará a conocer cuál es la mejor, concediendo plazos sucesivos de cinco minutos, hasta que la última postura no sea mejorada.
+El día y hora señalados en la convocatoria, el Tesorero o Encargado de la Hacienda Municipal, después de pasar lista de las personas que hubiesen presentado postura, hará saber a las que estén presentes cuáles posturas fueron calificadas como legales y les dará a conocer cuál es la mejor, concediendo plazos sucesivos de cinco minutos, hasta que la última postura no sea mejorada.
 
-El Tesorero fincará el remate en favor de quien hubiese hecho la mejor postura.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+El Tesorero o Encargado de la Hacienda Municipal fincará el remate en favor de quien hubiese hecho la mejor postura.
 
 Si en la última postura se ofrece igual suma por dos o más solicitantes, se designará por suerte la que deba aceptarse, salvo lo dispuesto en la frac. III del Art. 304 de esta ley.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 296.
 
-Fincado y aprobado el remate, se aplicará el depósito constituido y el postor, dentro de los cinco días siguientes a la fecha del remate, enterará en la caja de la Tesorería Municipal el saldo de la cantidad de contado ofrecida en su postura o mejoras, y constituirá las garantías a que se hubiese obligado, por la parte del precio que quedare adeudando, en los términos de esta ley.
+Fincado y aprobado el remate, se aplicará el depósito constituido y el postor, dentro de los cinco días siguientes a la fecha del remate, enterará en la caja de la Tesorería o Hacienda Municipal el saldo de la cantidad de contado ofrecida en su postura o mejoras, y constituirá las garantías a que se hubiese obligado, por la parte del precio que quedare adeudando, en los términos de esta ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 297.
 
-Hecho el pago a que se refiere el artículo anterior, y cuando proceda, designado el Notario por el postor, se citará al deudor para que, dentro del plazo de tres días, otorgue y firme la escritura de venta correspondiente, apercibido de que, si no lo hace, el Tesorero Municipal la otorgará y firmará en su rebeldía.
+Hecho el pago a que se refiere el artículo anterior, y cuando proceda, designado el Notario por el postor, se citará al deudor para que, dentro del plazo de tres días, otorgue y firme la escritura de venta correspondiente, apercibido de que, si no lo hace, el Tesorero o Encargado de la Hacienda Municipal la otorgará y firmará en su rebeldía.
 
 En la misma escritura, se otorgará por el adquirente garantía hipotecaria o prendaria, respecto a la parte del precio que quedare adeudando.
 
 El deudor, aun en el caso de rebeldía, responde por el saneamiento para el caso de evicción del bien inmueble rematado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 298.
 
-Los bienes inmuebles pasarán a ser propiedad del comprador, libres de todo gravamen fiscal y, a fin de que se cancelen los que reportare, el Tesorero Municipal que finque el remate, deberá comunicar al Registro Público de la Propiedad y del Comercio o a la Dirección de Catastro, en su caso, la transmisión de dominio de los inmuebles.
+Los bienes inmuebles pasarán a ser propiedad del comprador, libres de todo gravamen fiscal y, a fin de que se cancelen los que reportare, el Tesorero o Encargado de la Hacienda Municipal que finque el remate, deberá comunicar al Registro Público de la Propiedad y del Comercio o a la Dirección de Catastro, en su caso, la transmisión de dominio de los inmuebles.
 
-Los encargados del Registro Público de la Propiedad y del Comercio deberán inscribir las transmisiones de dominio de los bienes inmuebles que resulten de los remates celebrados por la Tesorería Municipal, y procederán a hacer las cancelaciones de gravámenes que sean procedentes, como consecuencia de la transmisión o adjudicación.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Los encargados del Registro Público de la Propiedad y del Comercio deberán inscribir las transmisiones de dominio de los bienes inmuebles que resulten de los remates celebrados por la Tesorería o Hacienda Municipal, y procederán a hacer las cancelaciones de gravámenes que sean procedentes, como consecuencia de la transmisión o adjudicación.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 299.
 
-Inmediatamente que se hubiese otorgado y firmado la escritura en que conste la adjudicación de un inmueble, el Tesorero Municipal dispondrá que se entregue al adquirente, dando las órdenes necesarias, aún las de desocupación, si estuviere habitado por el deudor o por terceros que no tuvieren contrato para acreditar el uso, en los términos que establece el Código Civil, o tuviere contrato celebrado con posterioridad al secuestro administrativo a que se refiere esta ley. Si el adquirente lo solicita, se le dará a conocer como dueño del inmueble, a las personas que designe.
+Inmediatamente que se hubiese otorgado y firmado la escritura en que conste la adjudicación de un inmueble, el Tesorero o Encargado de la Hacienda Municipal dispondrá que se entregue al adquirente, dando las órdenes necesarias, aún las de desocupación, si estuviere habitado por el deudor o por terceros que no tuvieren contrato para acreditar el uso, en los términos que establece el Código Civil, o tuviere contrato celebrado con posterioridad al secuestro administrativo a que se refiere esta ley. Si el adquirente lo solicita, se le dará a conocer como dueño del inmueble, a las personas que designe.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 300.
 
-Si el remate fuere de bienes muebles, la Tesorería Municipal otorgará la factura correspondiente, una vez satisfecho el precio.
+Si el remate fuere de bienes muebles, la Tesorería o Hacienda Municipal otorgará la factura correspondiente, una vez satisfecho el precio.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 301.
 
-Queda estrictamente prohibido adquirir los bienes objeto de un remate, por sí o por medio de interpósita persona, al Tesorero Municipal, personal de la Tesorería, y a las personas que hubiesen intervenido por parte del fisco Municipal, en los procedimientos de ejecución. El remate efectuado con infracción a este precepto, será nulo y a los infractores se les sancionará con la multa que señalan las Leyes de Ingresos Municipales.
+Queda estrictamente prohibido adquirir los bienes objeto de un remate, por sí o por medio de interpósita persona, al Tesorero o Encargado de la Hacienda Municipal, personal de la Hacienda Municipal, y a las personas que hubiesen intervenido por parte del fisco Municipal, en los procedimientos de ejecución. El remate efectuado con infracción a este precepto, será nulo y a los infractores se les sancionará con la multa que señalan las Leyes de Ingresos Municipales.
 
 ###### Art. 302.
 
@@ -3255,11 +3523,15 @@ Si tampoco se fincare el remate en la segunda almoneda, se convocará a una terc
 
 La base para el remate, en tercera almoneda, será fijada deduciendo un 20 % de la segunda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 306.
 
-La Tesorería Municipal podrá vender fuera de subasta, cuando se trate de objetos de fácil descomposición o deterioro, o de materias inflamables o semovientes y cuando, después de celebrada una almoneda declarada desierta, se presente con posterioridad un comprador que satisfaga en efectivo el precio íntegro, que no sea inferior a la base de la primera almoneda.
+La Tesorería o Hacienda Municipal podrá vender fuera de subasta, cuando se trate de objetos de fácil descomposición o deterioro, o de materias inflamables o semovientes y cuando, después de celebrada una almoneda declarada desierta, se presente con posterioridad un comprador que satisfaga en efectivo el precio íntegro, que no sea inferior a la base de la primera almoneda.
 
-Cuando se trate de bienes raíces o de bienes muebles que habiendo salido, por lo menos, en dos almonedas y no se hubiesen presentado postores las Tesorerías Municipales efectuarán su venta al mejor comprador.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+Cuando se trate de bienes raíces o de bienes muebles que habiendo salido, por lo menos, en dos almonedas y no se hubiesen presentado postores las Tesorería o Haciendas Municipales efectuarán su venta al mejor comprador.
 
 También procederá la venta fuera de subasta, cuando el embargado señale al presunto comprador y acepte el precio que dicho comprador proponga, siempre que éste se pague de contado y no sea menor al avalúo pericial o cubra, cuando menos, la totalidad de los créditos fiscales.
 
@@ -3267,7 +3539,9 @@ También procederá la venta fuera de subasta, cuando el embargado señale al pr
 
 Las cantidades excedentes, después de haber hecho la aplicación del producto del remate, venta fuera de subasta o adjudicación de los bienes secuestrados, se entregarán al embargado, salvo que medie orden escrita de autoridad competente, o que el propio embargado acepte, también por escrito, que se haga entrega parcial o total del saldo a un tercero.
 
-En caso de conflicto, el remate permanecerá en depósito en la Tesorería Municipal, en tanto resuelvan los Tribunales competentes.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+En caso de conflicto, el remate permanecerá en depósito en la Tesorería o Hacienda Municipal, en tanto resuelvan los Tribunales competentes.
 
 > <small>(F. DE E., P.O. 7 DE JUNIO DE 1984)</small>
 
@@ -3281,17 +3555,21 @@ I. No se haya aprobado el remate ni dado posesión de los bienes al adjudicatari
 
 II. No se haya aplicado al pago de las prestaciones fiscales adeudadas el precio del remate, o, de los frutos o productos de los bienes secuestrados, si fuere de preferencia.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 309.
 
-El tercerista presentará por duplicado, ante la Tesorería Municipal, instancia escrita legalmente fundada, a la que anexará los documentos que acrediten el derecho que ejercite. De la promoción del tercerista, se correrá traslado al deudor, para que conteste dentro de un término de tres días
+El tercerista presentará por duplicado, ante la Tesorería o Hacienda Municipal, instancia escrita legalmente fundada, a la que anexará los documentos que acrediten el derecho que ejercite. De la promoción del tercerista, se correrá traslado al deudor, para que conteste dentro de un término de tres días
 
 ###### Art. 310.
 
 Transcurrido el término a que se refiere el artículo anterior, de oficio, se abrirá a prueba la controversia por diez días, en los que las partes podrán ofrecer y rendir las pruebas establecidas por el derecho común, excepto la de confesión y la testimonial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 311.
 
-Las Tesorerías Municipales, con vista de las pruebas presentadas, resolverán en un término de diez días:
+Las Tesorerías o Haciendas Municipales, con vista de las pruebas presentadas, resolverán en un término de diez días:
 
 I. Si el tercer opositor ha comprobado o no sus derechos;
 
@@ -3305,19 +3583,25 @@ IV. Si embargados los bienes señalados por los terceros opositores, conforme al
 
 Para determinar la preferencia de los créditos en las Tercerías, se estará a lo establecido en los Arts. 17 y 18 de esta ley.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Art. 313.
 
-Los terceros opositores podrán ocurrir ante la Tesorería Municipal, señalando otros bienes propiedad del deudor del crédito fiscal, libres de todo gravamen y suficientes para garantizar las prestaciones fiscales adeudadas; esta circunstancia no obliga a la Tesorería Municipal a levantar el embargo sobre los bienes a que se refiera la oposición.
+Los terceros opositores podrán ocurrir ante la Tesorería o Hacienda Municipal, señalando otros bienes propiedad del deudor del crédito fiscal, libres de todo gravamen y suficientes para garantizar las prestaciones fiscales adeudadas; esta circunstancia no obliga a la Tesorería o Hacienda Municipal a levantar el embargo sobre los bienes a que se refiera la oposición.
 
 ###### Art. 314.
 
 Los terceros que, satisfechas las pretensiones fiscales, pretendan cobrar algún crédito sobre el remanente del producto del remate, sólo podrán hacerlo antes de que el remanente sea devuelto o distribuido, y siempre que concurra alguna de las circunstancias siguientes:
 
-I. Que el deudor se conforme con ello, por escrito ante el Tesorero Municipal; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+I. Que el deudor se conforme con ello, por escrito ante el Tesorero o Encargado de la Hacienda Municipal; y
 
 II. Que medie orden escrita de autoridad competente.
 
-En caso de conflicto, las cantidades de dinero o valores que constituyan el remanente, permanecerán en depósito en la Tesorería Municipal, mientras resuelven las autoridades competentes.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
+En caso de conflicto, las cantidades de dinero o valores que constituyan el remanente, permanecerán en depósito en la Tesorería o Hacienda Municipal, mientras resuelven las autoridades competentes.
 
 ### CAPITULO III. Del Procedimiento de Revocación d (sic) Licencias
 
@@ -3447,7 +3731,9 @@ V. Las autoridades fiscales podrán pedir que se les rindan los informes que est
 
 VI. La autoridad encargada de resolver el recurso acordará lo que proceda, sobre su admisión y la de las pruebas que el recurrente hubiese ofrecido, que fueren pertinentes e idóneas para dilucidar las cuestiones controvertidas, ordenando su desahogo, dentro del improrrogable plazo de quince días; y
 
-VII. Vencido el plazo para la rendición de las pruebas, la Tesorería Municipal dictará resolución en un término, que no excederá de treinta días. El silencio de la autoridad significará que la Resolución es negativa.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+VII. Vencido el plazo para la rendición de las pruebas, la Tesorería o Hacienda Municipal dictará resolución en un término, que no excederá de treinta días. El silencio de la autoridad significará que la Resolución es negativa.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
@@ -3978,3 +4264,11 @@ P.O. 27 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 28377/LXII/21 QUE MODIFICA LOS ARTÍCULOS 316 FRACCIONES I Y IX; Y 316 BIS FRACCIONES I, V Y VII DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO”.]
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28413/LXII/21 QUE MODIFICA LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LA LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LA LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY DE HACIENDA MUNICIPAL; ORDENAMIENTOS TODOS DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Los ayuntamientos del Estado de Jalisco, antes del 31 de diciembre de 2021, deberán realizarlas adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
