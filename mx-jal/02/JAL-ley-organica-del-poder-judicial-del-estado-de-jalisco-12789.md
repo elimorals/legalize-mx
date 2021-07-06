@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2020-12-03"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -3399,6 +3399,38 @@ Para los efectos del extracto de la publicación, se entiende que será un resum
 
 Están obligados a hacer públicos todos los actos judiciales en el Boletín Judicial los Juzgados de Primera Instancia, Especializados y Auxiliares, las Salas y el Pleno del Supremo Tribunal de Justicia y el Consejo de la Judicatura. Con excepción de los datos de carácter reservado conforme a lo dispuesto por (sic) ley de la materia.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2021)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### Artículo 259.
+
+A petición del interesado, los juicios se promoverán, substanciarán y resolverán en línea, a través del Sistema Informático del Poder Judicial que deberá establecer los términos dispuestos en el presente título y las demás disposiciones que al efecto emita el Supremo Tribunal y el Consejo de la Judicatura, ambos del Estado de Jalisco; así como aquéllas aplicables establecidas en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### Artículo 260.
+
+En el Sistema Informático del Poder Judicial, se integrará el expediente electrónico, mismo que incluirá todas las promociones, pruebas, anexos y documentos que presenten las partes, así como los oficios, acuerdos y resoluciones tanto interlocutorias como definitivas, así como cualquier otra actuación que derive de la substaciación del juicio, garantizando su seguridad, inalterabilidad, autenticidad, integridad, neutralidad tecnológica, conservación, confidencialidad y durabilidad, conforme a los lineamientos expedidos por el Supremo Tribunal y el Consejo de la Judicatura, ambos de la entidad y en cumplimiento a la Ley de Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### Artículo 261.
+
+Para hacer uso del juicio en línea, se deberán obtener la clave de acceso y contraseña, mismas que se proporcionarán a través del Sistema Informático del Poder Judicial, previa obtención del registro y autorización correspondientes.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+###### Artículo 262.
+
+La Firma Electrónica Avanzada producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio.
+
+## TÍTULO DÉCIMO SEGUNDO. DEL JUICIO EN LÍNEA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2021)</small>
+
 ## TRANSITORIOS
 
 Primero.- La presente Ley entrar (sic) en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
@@ -3864,3 +3896,11 @@ P.O. 3 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28109/LXII/20 QUE REFORMA LA FRACCIÓN XXIX DEL ARTÍCULO 198 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28327/LXII/21 QUE ADICIONA EL TÍTULO DÉCIMO SEGUNDO A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; QUE REFORMA LOS ARTÍCULOS 1, 2, 3 Y 8 TODOS DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA, PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y QUE REFORMA LOS ARTÍCULOS 52, 82, 282 BIS, 284 Y 290 Y SE ADICIONA EL TÍTULO DÉCIMOQUINTO, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco". Se derogan todas las disposiciones que se opongan al presente decreto.
+
+SEGUNDO. El Supremo Tribunal de Justicia, así como el Consejo de la Judicatura, ambos del Estado de Jalisco, deberán realizar las acciones que correspondan, a efecto que los juicios en línea inicien su operación a más tardar doce meses después de la entrada en vigor del presente decreto.
