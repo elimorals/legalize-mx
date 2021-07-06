@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-la-industria-jalisciense-de-rehabilitacion-14012"
 country: "mx"
 rank: "ley"
 publication_date: "1981-05-07"
-last_updated: "2019-08-29"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE CREA LA INDUSTRIA JALISCIENSE DE REHABILITACIÓN SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 7 de mayo de 1981.
 
@@ -270,6 +270,28 @@ El Director General será designado por el Gobernador del Estado. Será el ejecu
 ###### Artículo 25.
 
 El Consejo de Administración sesionará ordinariamente cada mes y extraordinariamente cuando sea convocado por su Presidente. Las determinaciones serán por mayoría de votos. En caso de empate el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del Consejo de Administración en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2021)</small>
+
+La convocatoria de la celebración de las sesiones a distancia, así como la redacción y la protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2021)</small>
+
+En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 26.
 
@@ -560,5 +582,11 @@ P.O. 7 DE AGOSTO DE 2014.
 P.O. 29 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27322/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY QUE CREA LA INDUSTRIA JALISCIENSE DE REHABILITACIÓN SOCIAL”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28404/LXII/21 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 25 DE LA LEY QUE CREA LA INDUSTRIA JALISCIENSE DE REHABILITACIÓN SOCIAL”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
