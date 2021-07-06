@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-proteccion-y-apoyo-de-las-madres-jefas-de-86234"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-14"
-last_updated: "2019-10-19"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 14 de febrero de 2012.
 
@@ -261,6 +261,28 @@ Los integrantes del Consejo Estatal designarán a sus respectivos suplentes, qui
 
 El Consejo Estatal, a través de su presidencia, podrá invitar a las sesiones del mismo a representantes de las dependencias y entidades de la administración pública municipal, estatal y federal cuando los asuntos a tratar en las sesiones se relacionen con la materia en su competencia, así como a integrantes de la sociedad civil, organizaciones no gubernamentales y grupos de mujeres legalmente constituidos, que por sus conocimientos y experiencias contribuyan a la realización del objeto del Consejo Estatal, quienes, en todo caso, participarán únicamente con voz.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACIONES], P.O. 6 DE JULIO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del Consejo en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+La convocatoria de la celebración de las sesiones a distancia, así como la redacción y la protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
+
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 22.
@@ -412,3 +434,9 @@ P.O. 19 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27371/LXII MEDIANTE EL CUAL SE REFORMA LOS ARTÍCULOS 11, 15, 16, 20, 21 Y 22 DE LA LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28410/LXII/21 QUE REFORMA EL ARTÍCULO 21 DE LA LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JALISCO.
+
+PRIMERO (SIC). El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
