@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2020-07-01"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -2167,9 +2167,15 @@ VIII. Determinar, en pleno, la competencia de las salas que lo integran;
 
 IX. Resolver los conflictos administrativos y los que se susciten con motivo de las relaciones de trabajo en el ámbito de su competencia;
 
-X. Elegir, de entre sus miembros, al Presidente del Supremo Tribunal de Justicia, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2021)</small>
 
-XI. Las demás que determinen esta Constitución y las leyes.
+X. En Pleno, acordar lo necesario para la implementación de juicios en línea;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+XI. Elegir, de entre sus miembros, al presidente del Supremo Tribunal de Justicia; y
+
+XII. Las demás que determinen esta Constitución y las leyes.
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
@@ -2183,7 +2189,7 @@ Las evaluaciones de control de confianza serán aplicables cada cuatro años a j
 
 En la designación de jueces de primera instancia, será obligatorio observar el principio de alternancia para la paridad de género.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Art. 64.
 
@@ -2221,7 +2227,11 @@ La ley establecerá las bases para la formación y actualización de los servido
 
 El Consejo de la Judicatura estará facultado para determinar el número y competencia de los juzgados de primera instancia, menores y de paz, así como para expedir los acuerdos necesarios para el ejercicio adecuado de sus funciones, de conformidad con lo que establezca la ley.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2021)</small>
+
+En Pleno, acordar lo necesario para la implementación de juicios en línea.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE JULIO DE 2021)</small>
 
 Las decisiones del Consejo de la Judicatura serán definitivas e inatacables.
 
@@ -4214,3 +4224,9 @@ TERCERO. POR ÚNICA OCASIÓN Y POR UNA CUESTIÓN EXTRAORDINARIA, CON MOTIVO DE L
 ASÍ MISMO DEBERÁ EMITIR LA CONVOCATORIA RESPECTIVA DEL PROCESO ELECTORAL LOCAL ORDINARIO 2021.
 
 PARA TALES EFECTOS, SE FACULTA AL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO PARA AJUSTAR LOS PLAZOS Y TÉRMINOS DEL PROCESO ELECTORAL LOCAL ORDINARIO 2021, EN RELACIÓN CON LOS PREVISTOS EN EL CÓDIGO ELECTORAL DEL ESTADO DE JALISCO.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28326/LXII/21 QUE REFORMA LOS ARTÍCULOS 62 FRACCIÓN X, RECORRIÉNDOSE LAS FRACCIONES SUBSECUENTES Y EL 64, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
