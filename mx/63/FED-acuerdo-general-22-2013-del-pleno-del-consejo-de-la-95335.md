@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2013-del-pleno-del-consejo-de-la-95335"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-08-09"
-last_updated: "2015-07-21"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95335&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-08-07"
 
 ACUERDO GENERAL 22/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS CUARTO Y QUINTO DE DISTRITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, Y SU TRANSFORMACIÓN COMO JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO EN MATERIA ADMINISTRATIVA ESPECIALIZADOS EN COMPETENCIA ECONÓMICA, RADIODIFUSIÓN Y TELECOMUNICACIONES, CON RESIDENCIA EN EL DISTRITO FEDERAL, Y JURISDICCIÓN TERRITORIAL EN TODA LA REPÚBLICA. A LA CONCLUSIÓN DE FUNCIONES DE LOS TRIBUNALES COLEGIADOS SEGUNDO Y TERCERO DE CIRCUITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN Y SU TRANSFORMACIÓN COMO PRIMER Y SEGUNDO TRIBUNALES COLEGIADOS DE CIRCUITO EN MATERIA ADMINISTRATIVA ESPECIALIZADOS EN COMPETENCIA ECONÓMICA, RADIODIFUSIÓN Y TELECOMUNICACIONES, CON RESIDENCIA EN EL DISTRITO FEDERAL Y JURISDICCIÓN TERRITORIAL EN TODA LA REPÚBLICA. ASÍ COMO SU DOMICILIO, FECHA DE INICIO DE FUNCIONAMIENTO Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS ÓRGANOS JURISDICCIONALES INDICADOS. Y AL CAMBIO DE DENOMINACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JULIO DE 2021.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 9 de agosto de 2013.
 
@@ -61,7 +61,9 @@ ACUERDO
 
 PRIMERO.- A partir del ocho de agosto de dos mil trece, concluyen funciones los Juzgados Cuarto y Quinto de Distrito del Centro Auxiliar de la Primera Región con residencia en el Distrito Federal.
 
-Los titulares de los juzgados de distrito auxiliares, o en su caso, los secretarios encargados del despacho deberán levantar por duplicado un acta administrativa con motivo de la conclusión de sus funciones, remitiendo un ejemplar para su archivo a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 4/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2021)</small>
+
+Los titulares de los juzgados de distrito auxiliares, o en su caso, los secretarios encargados del despacho deberán levantar por duplicado un acta administrativa con motivo de la conclusión de sus funciones, remitiendo un ejemplar para su archivo a la Secretaría Ejecutiva de Creación de Nuevos Órganos.
 
 Los Libros de Gobierno Electrónicos y reportes estadísticos contenidos en el Sistema Integral de Seguimiento de Expedientes (SISE), de los órganos jurisdiccionales que concluyen funciones deberán darse por finalizados, asentando la certificación correspondiente, y ponerse en resguardo de la Dirección General de Estadística Judicial.
 
@@ -71,7 +73,9 @@ En esa misma fecha, el Juzgado Quinto de Distrito del Centro Auxiliar de la Prim
 
 TERCERO.- A partir del ocho de agosto de dos mil trece, concluyen funciones los Tribunales Colegiados Segundo y Tercero de Circuito del Centro Auxiliar de la Primera Región con residencia en el Distrito Federal.
 
-El Presidente de cada tribunal colegiado de circuito auxiliar, o en su caso, quien lo sustituya, deberá levantar por duplicado un acta administrativa con motivo de la conclusión de sus funciones, remitiendo un ejemplar para su archivo a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 4/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2021)</small>
+
+El Presidente de cada tribunal colegiado de circuito auxiliar, o en su caso, quien lo sustituya, deberá levantar por duplicado un acta administrativa con motivo de la conclusión de sus funciones, remitiendo un ejemplar para su archivo a la Secretaría Ejecutiva de Creación de Nuevos Órganos.
 
 Los Libros de Gobierno Electrónicos y reportes estadísticos contenidos en el Sistema Integral de Seguimiento de Expedientes (SISE), de los órganos jurisdiccionales que concluyen funciones deberán darse por finalizados, asentando la certificación correspondiente, y ponerse en resguardo de la Dirección General de Estadística Judicial.
 
@@ -91,13 +95,17 @@ Todos los asuntos nuevos que se presenten en la mencionada oficina de correspond
 
 Cuando el escrito inicial de demanda sea presentado utilizando el sistema de firma electrónica, la oficina de correspondencia común turnará el asunto inmediatamente al órgano jurisdiccional correspondiente.
 
-La Dirección General de Estadística Judicial en coordinación con la Dirección General de Tecnologías de la Información realizarán la adición de los rubros necesarios en el sistema de cómputo de la oficina de correspondencia común de que se trata, a fin de adecuarlos a sus nuevas funciones.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 4/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2021)</small>
+
+La Dirección General de Gestión Judicial en coordinación con la Dirección General de Tecnologías de la Información realizarán la adición de los rubros necesarios en el sistema de cómputo de la oficina de correspondencia común de que se trata, a fin de adecuarlos a sus nuevas funciones.
 
 Se faculta a la Comisión de Creación de Nuevos Órganos para emitir las reglas y dictar las disposiciones que permitan una forma eficiente y proporcional de asignación y turno de los asuntos competencia de los órganos jurisdiccionales en términos del punto sexto del presente acuerdo.
 
-NOVENO.- Los órganos jurisdiccionales que inician funciones, para el control de los asuntos de su conocimiento, contarán con libros electrónicos de registro que se les implementarán en el Sistema Integral de Seguimiento de Expedientes (SISE), por la Dirección General de Estadística Judicial. De forma temporal, se podrán autorizar por los titulares el uso de libros auxiliares, con la certificación correspondiente conforme a lo dispuesto en el Acuerdo General 34/2000 del Pleno del Consejo de la Judicatura Federal.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 4/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2021)</small>
 
-De igual forma, deberán levantar por duplicado un acta administrativa del inicio de funciones del órgano jurisdiccional, cuyo formato les será proporcionado por la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos, debiendo remitir un tanto a la propia Secretaría.
+NOVENO.- Los órganos jurisdiccionales que inician funciones, para el control de los asuntos de su conocimiento, contarán con libros electrónicos de registro que se les implementarán en el Sistema Integral de Seguimiento de Expedientes (SISE), por la Dirección General de Gestión Judicial. De forma temporal, se podrán autorizar por los titulares el uso de libros auxiliares, con la certificación correspondiente conforme a lo dispuesto en el Acuerdo General 34/2000 del Pleno del Consejo de la Judicatura Federal.
+
+De igual forma, deberán levantar por duplicado un acta administrativa del inicio de funciones del órgano jurisdiccional, cuyo formato les será proporcionado por la Secretaría Ejecutiva de Creación de Nuevos Órganos, debiendo remitir un tanto a la propia Secretaría.
 
 DÉCIMO.- Los órganos jurisdiccionales que inician funciones deberán remitir dentro de los primeros cinco días naturales de cada mes su reporte estadístico correspondiente a la Dirección General de Estadística Judicial.
 
@@ -151,13 +159,19 @@ DÉCIMO TERCERO.- Los Tribunales Colegiados Primero y Segundo de Circuito en Mat
 
 DÉCIMO CUARTO.- La adscripción y la rotación de los jueces de Distrito y magistrados de Circuito como titulares de los órganos jurisdiccionales en materia administrativa especializados en competencia económica, radiodifusión y telecomunicaciones, corresponderá a la Comisión de Adscripción del Consejo de la Judicatura Federal de conformidad con las atribuciones señaladas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
 
-La rotación de los titulares de dichos órganos jurisdiccionales se deberá llevar a cabo cada cuatro años.
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 4/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2021)</small>
 
-DÉCIMO QUINTO.- La Comisión de Vigilancia, Información y Evaluación del Consejo de la Judicatura Federal, emitirá los acuerdos y las acciones pertinentes para garantizar la independencia, objetividad e imparcialidad de los juzgados y tribunales en materia administrativa especializados en competencia económica, radiodifusión y telecomunicaciones, en armonía con los principios del Código de Ética que rige a los servidores públicos del Poder Judicial de la Federación.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 4/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2021)</small>
 
-DÉCIMO SEXTO.- El Instituto de la Judicatura Federal deberá impartir cursos especializados de las materias en comento a los servidores públicos de los órganos jurisdiccionales de que se trata, para consolidar su formación académica y profesional en los temas mencionados.
+DÉCIMO QUINTO.- La Comisión de Vigilancia del Consejo de la Judicatura Federal, emitirá los acuerdos y las acciones pertinentes para garantizar la independencia, objetividad e imparcialidad de los juzgados y tribunales en materia administrativa especializados en competencia económica, radiodifusión y telecomunicaciones, en armonía con los principios del Código de Ética que rige a los servidores públicos del Poder Judicial de la Federación.
 
-DÉCIMO SÉPTIMO.- El Pleno y las Comisiones de Creación de Nuevos Órganos; de Carrera Judicial; de Adscripción; de Vigilancia, Información y Evaluación; y de Administración del Consejo de la Judicatura Federal, están facultados para interpretar y resolver todas las cuestiones administrativas que se susciten con motivo de la aplicación del presente acuerdo en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 4/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2021)</small>
+
+DÉCIMO SEXTO.- La Escuela Federal de Formación Judicial deberá impartir cursos especializados de las materias en comento a los servidores públicos de los órganos jurisdiccionales de que se trata, para consolidar su formación académica y profesional en los temas mencionados.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 4/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2021)</small>
+
+DÉCIMO SÉPTIMO.- El Pleno y las Comisiones de Creación de Nuevos Órganos; de Carrera Judicial; de Adscripción; de Vigilancia; y de Administración del Consejo de la Judicatura Federal, están facultados para interpretar y resolver todas las cuestiones administrativas que se susciten con motivo de la aplicación del presente acuerdo en el ámbito de sus respectivas competencias.
 
 ## TRANSITORIOS
 
@@ -184,3 +198,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. El término a que se refiere el numeral Décimo Cuarto del Acuerdo General 22/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la conclusión de funciones de los Juzgados Cuarto y Quinto de Distrito del Centro Auxiliar de la Primera Región, y su transformación como Juzgados Primero y Segundo de Distrito en Materia Administrativa Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en el Distrito Federal, y jurisdicción territorial en toda la República. A la conclusión de funciones de los Tribunales Colegiados Segundo y Tercero de Circuito del Centro Auxiliar de la Primera Región y su transformación como Primer y Segundo Tribunales Colegiados de Circuito en Materia Administrativa Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en el Distrito Federal y jurisdicción territorial en toda la República. Así como su domicilio, fecha de inicio de funcionamiento y a las reglas de turno, sistema de recepción y distribución de asuntos entre los Órganos Jurisdiccionales indicados. Y al cambio de denominación de la oficina de correspondencia común del Centro Auxiliar de la Primera Región; iniciará a la conclusión del lapso de la comisión actual de los titulares de los órganos jurisdiccionales en materia administrativa especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, observándose el escalonamiento en la conclusión de la comisión, como se previó antes de la entrada en vigor del presente Acuerdo.
+
+D.O.F. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 4/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 22/2013, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS CUARTO Y QUINTO DE DISTRITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, Y SU TRANSFORMACIÓN COMO JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO EN MATERIA ADMINISTRATIVA ESPECIALIZADOS EN COMPETENCIA ECONÓMICA, RADIODIFUSIÓN Y TELECOMUNICACIONES, CON RESIDENCIA EN EL DISTRITO FEDERAL, Y JURISDICCIÓN TERRITORIAL EN TODA LA REPÚBLICA. A LA CONCLUSIÓN DE FUNCIONES DE LOS TRIBUNALES COLEGIADOS SEGUNDO Y TERCERO DE CIRCUITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN Y SU TRANSFORMACIÓN COMO PRIMER Y SEGUNDO TRIBUNALES COLEGIADOS DE CIRCUITO EN MATERIA ADMINISTRATIVA ESPECIALIZADOS EN COMPETENCIA ECONÓMICA, RADIODIFUSIÓN Y TELECOMUNICACIONES, CON RESIDENCIA EN EL DISTRITO FEDERAL Y JURISDICCIÓN TERRITORIAL EN TODA LA REPÚBLICA. ASÍ COMO SU DOMICILIO, FECHA DE INICIO DE FUNCIONAMIENTO Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS ÓRGANOS JURISDICCIONALES INDICADOS. Y AL CAMBIO DE DENOMINACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
