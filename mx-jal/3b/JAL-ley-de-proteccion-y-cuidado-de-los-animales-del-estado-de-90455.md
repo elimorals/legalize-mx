@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-cuidado-de-los-animales-del-estado-de-90455
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-29"
-last_updated: "2020-04-21"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 29 de noviembre de 2012.
 
@@ -352,6 +352,28 @@ X. El fomento a la creación de manuales de cuidados realizados por los ayuntami
 XI. Las demás que se desprendan del presente ordenamiento.
 
 El Consejo sesionará por lo menos una vez cada tres meses y funcionará conforme a lo dispuesto por su propio reglamento y el plan de trabajo, que serán emitidos por el mismo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 6 DE JULIO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del Consejo en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+La convocatoria de la celebración de las sesiones a distancia, así como la redacción y la protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 16.
 
@@ -966,3 +988,9 @@ P.O. 11 DE JULIO DE 2019.
 P.O. 21 DE ABRIL DE 2020.
 
 > <small>[N. DE E. EL “DECRETO 27876/LXII/20 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7° BIS, 7° TER Y 14 DE LA LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE JALISCO.]</small>
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28412/LXII/21 QUE REFORMA EL ARTÍCULO 15 DE LA LEY DE PROTECCIÓN Y CUIDADO A LOS ANIMALES DEL ESTADO DE JALISCO”.]
+
+ÚNICO. La presente Ley entrará en vigor un día después de su publicación en el periódico oficial "El Estado de Jalisco".
