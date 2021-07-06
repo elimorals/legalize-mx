@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2020-12-29"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -481,9 +481,11 @@ V. Apoyar en la vigilancia y control de los programas relativos a los aspectos d
 
 VI. Procurar establecer en su presupuesto de egresos una partida para programas de fomento para el desarrollo rural sustentable;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JULIO DE 2021)</small>
 
-VII. Difundir los planes, programas y acciones que coadyuven al desarrollo rural sustentable de su Municipio.
+VII. Difundir las convocatorias y reglas de operación de los planes, programas y proyectos, apoyos y acciones que coadyuven al desarrollo rural sustentable, utilizando los medios idóneos y al alcance de cada uno de los Municipios.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
 Los municipios que coincidan en vocacionamientos, actividades agropecuarias y en general cualquier proceso o actividad del medio rural, que rebasen la extensión territorial municipal, podrán conformar consejos intermunicipales, atendiendo el marco legal municipal aplicable; y
 
@@ -1706,3 +1708,9 @@ P.O. 29 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28266/LXII/20 QUE REFORMA EL ARTÍCULO 22 FRACCIÓN XXII Y ADICIONA UN PÁRRAFO TERCERO Y CUARTO AL ARTÍCULO 132 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28408/LXII/21 QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 23 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
