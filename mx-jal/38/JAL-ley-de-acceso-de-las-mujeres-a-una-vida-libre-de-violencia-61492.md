@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2021-05-11"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -149,9 +149,9 @@ Las autoridades promoverán se garantice a las mujeres víctimas de cualquier ti
 
 I. Ser tratadas con respeto, preservando su dignidad, integridad y el ejercicio pleno de sus derechos humanos;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su seguridad, a través de las medidas y órdenes de protección;
+II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su vida, bienes, seguridad, integridad física y/o psicológica y su libertad, a través de las medidas y órdenes de protección;
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -1910,3 +1910,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
 
 TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28411/LXII/21 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 9 DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
