@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-la-comision-editorial-de-yucatan-y-el-fondo-17164"
 country: "mx"
 rank: "ley"
 publication_date: "1977-09-14"
-last_updated: "1983-12-19"
+last_updated: "2021-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY QUE CREA LA COMISION EDITORIAL DE YUCATAN Y EL FONDO EDITORIAL DEL GOBIERNO DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DERECHOS CULTURALES PARA EL ESTADO Y MUNICIPIOS DE YUCATÁN, PUBLICADA EN EL D.O. DE 6 DE JULIO DE 2021, EL PRESENTE DECRETO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA LA COMISIÓN EDITORIAL DE YUCATÁN Y EL FONDO EDITORIAL DEL GOBIERNO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1983.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 2021 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 14 de septiembre de 1977.
 
@@ -140,3 +142,25 @@ Se derogan los artículos 1o., 2o., 3o., 4o., 5o., 6o., 7o., 8o., 9o. y 10o., de
 ###### ARTICULO TERCERO.
 
 Por esta única vez y para integrar y organizar la Academia, se designan como miembros de la misma a los señores: Profesor Antonio Betancourt Pérez, Licenciado Rodolfo Ruz Menéndez, Profesor Roldán Peniche Barrera, Licenciado Jaime Orosa Díaz, Profesor José González Beytia, Escritor Leopoldo Peniche Vallado, Cronista Renán Irigoyén, Licenciado Alberto Cervera Espejo, Historiador Juan Francisco Peón Ancona, Doctor Carlos Urzáiz Jiménez, Sociólogo José Luis Sierra, Profesor Adonay Cetina Sierra, Licenciado Raúl Vela Sosa, Antropólogo Salvador Rodríguez Losa, Antropólogo Carlos Bojórquez Urzáiz, Arqueólogo Alfredo Barrera Rubio, Antropólogo Juan Ramón Bastarrachea Manzano, Periodista Oswaldo Baqueiro López, Grabador Emilio Vera Granados, Ingeniero Alberto Gutiérrez Alcalá, Arquitecto Enrique Manero Peón, Doctor Gilberto Balam Pereira y Profesor William Brito Sansores, los cuatro primeros nombrados fungirán como Presidente, Secretario, Tesorero y Bibliotecario Archivista, respectivamente, por el primer período directivo de la Academia.
+
+D.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 388/2021 POR EL QUE SE EMITE LA LEY DE DERECHOS CULTURALES PARA EL ESTADO Y MUNICIPIOS DE YUCATÁN”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. A partir de la entrada en vigor de este decreto, quedan abrogadas la Ley que crea la Comisión Editorial de Yucatán y el Fondo Editorial del Gobierno del Estado, la Ley que crea la Academia Yucatanense de Ciencias y Artes y Promoción Editorial, y la Ley de Preservación y Promoción de la Cultura de Yucatán, promulgadas mediante decretos 138, 206 y 608 del Poder Ejecutivo, publicados en el Diario Oficial del Gobierno del Estado de Yucatán, los días 14 de septiembre de 1977, 18 de julio de 1978, 19 de diciembre de 1983 y 8 de agosto de 2005, respectivamente.
+
+Artículo Tercero. El Poder Ejecutivo deberá expedir el Reglamento y las disposiciones reglamentarias que sean necesarias para la debida ejecución de la Ley en un plazo no mayor de ciento ochenta días naturales, contados a partir del día de la entrada en vigor de la presente Ley, con excepción del Reglamento interno del Consejo al especificarse los términos para su instalación y reglamentación en diverso artículo transitorio.
+
+El Instituto de Seguridad Jurídica Patrimonial del Estado en un plazo no mayor a los ciento veinte días naturales a partir de la entrada en vigor de la presente ley, deberá implementar el sistema electrónico o plataforma para cumplir con las obligaciones de registro en los términos de la presente legislación. El acceso a dicho sistema o plataforma deberá ser de acceso público y su consulta será gratuita.
+
+Artículo Cuarto. El Consejo Estatal para la Cultura y las Artes se instalará en un plazo de sesenta días naturales, contados a partir del día siguiente a la entrada en vigor de la presente ley. Asimismo, deberá aprobar su reglamento interno en un plazo de noventa días naturales, contados a partir de la instalación del citado consejo estatal.
+
+Artículo Quinto. El Programa Estatal para el Fomento de la Lectura y el Libro se emitirá en un plazo de ciento ochenta días naturales a partir de la integración del Consejo.
+
+Artículo Sexto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, en un término que no exceda de ciento ochenta días naturales, contados a partir del día siguiente a la entrada en vigor de la presente Ley.
+
+Artículo Séptimo. Los convenios firmados previamente a la entrada en vigor de la presente Ley seguirán vigentes hasta el término de la vigencia que en los mismos se señale.
+
+Artículo Octavo. Se derogan todas las disposiciones legales y normativas de igual o menor rango en lo que se opongan al contenido de esta ley.
