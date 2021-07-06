@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2021-04-12"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -653,9 +653,9 @@ XVII. Administrar la disciplina escolar de modo compatible con la dignidad human
 
 XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-XIX. Inculcar en niñas, niños y adolescentes el fomento de hábitos dirigidos a respetar, valorar, proteger y conservar el medio ambiente y el desarrollo sustentable; así como, la sensibilización sobre las causas y efectos del cambio climático;
+XIX. Inculcar en niñas, niños y adolescentes el fomento de hábitos dirigidos a respetar, valorar, proteger y conservar el medio ambiente y el desarrollo sustentable, así como la sensibilización sobre las causas y efectos del cambio climático y el cuidado de los animales.
 
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
@@ -1007,9 +1007,17 @@ X.- Evitar conductas que puedan vulnerar el ambiente de respeto y generar violen
 
 XI.- Considerar la opinión y preferencia de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
-XII.- Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
-XIII.- Orientar a niñas, niños y adolescentes en el ejercicio de sus derechos según la evolución de sus facultades, edad, desarrollo evolutivo, cognoscitivo y madurez, a fin de que contribuyan a su desarrollo integral.
+XII.- Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+
+XIII.- Orientar a niñas, niños y adolescentes en el ejercicio de sus derechos según la evolución de sus facultades, edad, desarrollo evolutivo, cognoscitivo y madurez, a fin de que contribuyan a su desarrollo integral; y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+
+XIV.- Fomentar en niñas, niños y adolescentes el respeto a todas las personas y hacia los animales; el cuidado de los bienes propios, de la familia y de la comunidad, así como del medio ambiente; y el aprovechamiento responsable de los recursos para su desarrollo integral.
 
 2. En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, atendiendo a los principios rectores de esta Ley.
 
@@ -1656,3 +1664,11 @@ P.O. 12 DE ABRIL DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-535 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 37, PÁRRAFO 3, FRACCIÓN XIX; Y 71, FRACCIONES XII Y XIII; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 71 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
