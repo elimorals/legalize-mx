@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2021-03-04"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -793,11 +793,15 @@ h) promover foros educativos, exposiciones de toda índole, programas radiofóni
 
 i) celebrar convenios de colaboración, coordinación y concertación en la materia;
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
-j) monitorear y dar seguimiento al funcionamiento de los refugios, de acuerdo a los lineamientos del Modelo de Atención en Refugios para mujeres víctimas de violencia y sus hijas e hijos, para lo cual podrá solicitar la participación del Consejo Consultivo Ciudadano; y
+j) monitorear y dar seguimiento al funcionamiento de los refugios, de acuerdo a los lineamientos del Modelo de Atención en Refugios para mujeres víctimas de violencia y sus hijas e hijos, para lo cual podrá solicitar la participación del Consejo Consultivo Ciudadano;
 
-k) las demás que le confieren esta ley u otros ordenamientos aplicables.
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+k) difundir los criterios interpretativos y jurisdiccionales emitidos por las instancias judiciales, que contribuyan a erradicar la violencia contra la mujer en todas sus formas, para que sean referentes en la creación de políticas públicas; y
+
+l) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
 2. Para el cumplimiento de sus atribuciones, el Instituto dispondrá de los procedimientos que le otorga la ley, efectuará oportunamente las previsiones pertinentes y justificará su actuación.
 
@@ -1116,6 +1120,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 4 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-501 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-558 MEDIANTE EL CUAL SE REFORMA EL INCISO J), Y SE ADICIONA UN INCISO K), RECORRIÉNDOSE EN SU ORDEN NATURAL EL SUBSECUENTE, DEL ARTÍCULO 20, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
 
 ###### ARTÍCULO ÚNICO.
 
