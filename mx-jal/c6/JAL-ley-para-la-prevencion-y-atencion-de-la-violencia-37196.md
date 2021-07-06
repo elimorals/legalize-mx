@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-prevencion-y-atencion-de-la-violencia-37196"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-18"
-last_updated: "2019-10-19"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Ley publicada en la Sección Septuagésima del Periódico Oficial del Estado de Jalisco, el jueves 18 de diciembre de 2003.
 
@@ -348,6 +348,28 @@ El presidente del consejo podrá invitar a los servidores públicos que por sus 
 ###### Artículo 19.
 
 El Consejo sesionará, al menos una vez al mes, de manera ordinaria a convocatoria del Presidente o de manera extraordinaria a propuesta del Presidente o de cinco de los Consejeros. La convocatoria contendrá el orden del día y bastará que asistan el Presidente y la mayoría de los Consejeros acreditados para que pueda existir quórum, los acuerdos se tomarán por mayoría de votos, en caso de empate, el voto del presidente será de calidad.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 6 DE JULIO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del Consejo en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+La convocatoria de la celebración de las sesiones a distancia, así como la redacción y la protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+
+En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 20.
 
@@ -842,5 +864,11 @@ P.O. 29 DE AGOSTO DE 2019.
 P.O. 19 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27373/LXII MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODOS DEL DEL (SIC) ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28405/LXII/21 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 19 DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
