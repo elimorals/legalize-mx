@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2019-09-19"
+last_updated: "2021-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -949,11 +949,11 @@ Los períodos no podrán prorrogarse más allá de la fecha de su terminación.
 
 El Congreso podrá celebrar sesiones extraordinarias a convocatoria de la Diputación Permanente por sí o a solicitud formulada por el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 40.
 
-Los Diputados que falten a una Sesión sin causa justificada o sin permiso del Presidente de la Directiva, no tendrán derecho a percibir la dieta correspondiente al día de su inasistencia.
+Los Diputados que falten a una Sesión del Pleno sin causa justificada o sin permiso del Presidente de la Directiva, o no den aviso previo de su inasistencia a una Sesión de Comisión, no tendrán derecho a percibir la dieta correspondiente al día de su inasistencia.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -4140,3 +4140,15 @@ P.O. 19 DE SEPTIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 717 QUE REFORMA EL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir del día siguiente de la entrada en vigor del presente Decreto, en el plazo de 90 días deberán realizarse las adecuaciones a la Ley Orgánica del Poder Legislativo y a su Reglamento.
