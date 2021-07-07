@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-entrega-recepcion-del-estado-de-zacatecas-129384"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-16"
-last_updated: "2019-08-24"
+last_updated: "2021-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 16 de junio de 2018.
 
@@ -1143,55 +1143,61 @@ Verificación y Validación
 
 Artículo 69
 
-La etapa de Verificación y Validación física deberá llevarse a cabo por el o los servidores públicos que reciben o por quien éstos designen, en un plazo no mayor de treinta días hábiles siguientes a la firma del Acta Administrativa del Acto Protocolario.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+La etapa de Verificación y Validación física deberá llevarse a cabo por el o los servidores públicos que reciben o por quien éstos designen, en un plazo no mayor de cuarenta y cinco días hábiles siguientes a la firma del Acta Administrativa del Acto Protocolario.
 
-El plazo a que se refiere el párrafo anterior podrá ampliarse hasta por 10 días naturales más, siempre que el Presidente Municipal correspondiente, o bien, el titular del Ente Público o Secretaría, lo soliciten por escrito y, por lo menos, con 5 días hábiles anteriores a que termine el plazo establecido en el párrafo que precede.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
 
-Derivado de esta etapa, se levantará el Acta de Verificación y Validación en presencia del Órgano Interno de Control y de dos testigos, misma que, en su caso, contendrá los actos u omisiones que no hayan sido aclarados.
+El plazo a que se refiere el párrafo anterior podrá ampliarse hasta por diez días hábiles.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+La solicitud de ampliación del plazo deberá realizarse, por el o la Presidente del Ayuntamiento o por el o la titular del ente público de que se trate, presentando escrito debidamente justificado ante el Órgano Interno de Control que corresponda.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
+
+Se dejará constancia de la verificación y validación por escrito, mediante acta administrativa que contenga, en su caso, las observaciones, hechos u omisiones que se conocieron de la revisión física del expediente de entrega-recepción, con la participación del o la Presidente del Ayuntamiento o del o la titular del ente público de que se trate, los funcionarios que deseen participar, un representante del Órgano Interno de Control y dos testigos de asistencia.
 
 Aclaraciones
 
 Artículo 70
 
-Dentro del plazo señalado en el artículo anterior, quien recibe o a quien éste designe, podrá solicitar las aclaraciones por los actos u omisiones que procedan, los cuales se harán constar mediante Actas de Hechos suscritas en presencia de dos testigos para determinar las inconsistencias y, en su caso, determinar a la persona que de acuerdo con el Expediente deba realizar la aclaración.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2021)</small>
 
-Notificación de observaciones
+Dentro del plazo señalado en el artículo anterior para la verificación física del expediente de entrega-recepción, el servidor público saliente podrá ser requerido por quien recibe, para que haga las aclaraciones y proporcione la información adicional que se le solicite.
 
-Artículo 71
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
 
-Las Actas de Hechos se turnarán al Órgano Interno de Control del Ente Público que corresponda, el día hábil siguiente de haberse suscrito y serán notificadas personalmente a quien o quienes fueron determinados como responsables, al día hábil posterior de haberlas recibido.
+En caso de que la o el servidor público saliente no atienda las solicitudes o aclaraciones que se le formularon por escrito, tales hechos se harán constar en el acta administrativa de verificación y validación a que se refiere el artículo anterior.
 
-Las personas determinadas como responsables deberán presentar la información, los recursos, los bienes y, en general, los elementos que consideren necesarios para el esclarecimiento de los actos u omisiones determinados, dentro de los cinco días hábiles siguientes a la recepción de la notificación.
+###### Artículo 71.
 
-El Órgano Interno de Control deberá remitir copia de la notificación a quien determinó las inconsistencias para los efectos legales a que haya lugar.
+(DEROGADO, P.O. 7 DE JULIO DE 2021)
 
-Comparecencia
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 7 DE JULIO DE 2021)</small>
+
+Observaciones, hechos u omisiones
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
 
 Artículo 72
 
-La persona que haya sido notificada de alguna observación deberá aclarar ante el Ente Público correspondiente las inconsistencias derivadas de la Verificación y Validación física del contenido del Expediente, para lo cual podrá:
+El Órgano Interno de Control al que corresponda participará en el acta administrativa que se lleve a cabo con motivo de la verificación y validación física del expediente de entrega-recepción a que se refiere el artículo 69.
 
-I. Comparecer personalmente en día y hora hábil ante el Órgano Interno de Control o quien éste designe, para suscribir Acta de Hechos con la presencia de quien determinó la inconsistencia y dos testigos, a efecto de hacer constar si procede o no la aclaración;
-
-II. Comparecer personalmente en día y hora hábil ante el Órgano Interno de Control o quien éste designe, para suscribir Acta de Hechos con la presencia de dos testigos, en el caso de no estar presente quien determinó la inconsistencia, la cual se le turnará el mismo día o el día hábil siguiente de haberse suscrito, para que, dentro de los tres días hábiles siguientes, haga del conocimiento al Órgano Interno de Control si procede o no la aclaración, o
-
-III. Presentar su escrito, el cual se turnará a quien determinó la inconsistencia para que dentro de los tres días hábiles siguientes haga del conocimiento al Órgano Interno de Control si procede o no la aclaración.
-
-Para el caso de que las aclaraciones no procedan, el Órgano Interno de Control las notificará a quien corresponda al día hábil siguiente de su recepción.
-
-Si el servidor público que determinó la inconsistencia no se pronuncia sobre las aclaraciones presentadas éstas se tendrán como aclaradas.
-
-Si la persona notificada no comparece en el término concedido, el servidor público que recibe deberá hacer del conocimiento por escrito de tal omisión al Órgano Interno de Control, para que proceda de conformidad con lo establecido en la Ley General y las disposiciones legales que resulten aplicables.
+En el caso de que el acta administrativa a que se refiere el párrafo anterior, contenga observaciones, hechos u omisiones que pudieran dar lugar a responsabilidades administrativas, el Órgano Interno de Control iniciará las investigaciones y procedimientos que correspondan, de conformidad a la Ley General de Responsabilidades Administrativas.
 
 Conocimiento a la Auditoría Superior
 
 Artículo 73
 
-En el caso del Proceso de Entrega-Recepción Institucional, de no haberse aclarado los actos u omisiones determinados, se turnará copia del Acta de Verificación y Validación a la Auditoría Superior, para que proceda en los términos de la Ley de Fiscalización y Rendición de Cuentas del Estado de Zacatecas y otras disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2021)</small>
 
-En el caso del Proceso de Entrega-Recepción Individual, una vez terminado el procedimiento señalado, el Órgano Interno de Control, al recibir copia del Acta de Verificación y Validación, procederá a determinar las responsabilidades que, en su caso, resulten, de conformidad con lo establecido en las disposiciones legales aplicables.
+En el caso del Proceso de Entrega-Recepción Institucional, el o la Presidente del Ayuntamiento o por el o la titular del ente público de que se trate, hará llegar una copia certificada del acta administrativa en la que se hizo constar la verificación y validación física del expediente de entrega - recepción.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
+
+En el caso de que el acta administrativa a que se refiere el párrafo anterior, contenga observaciones, hechos u omisiones que pudieran dar lugar a responsabilidades administrativas, la Auditoría Superior del Estado dará seguimiento a que el Órgano Interno de Control haya realizado las investigaciones y procedimientos que correspondan, de conformidad a la Ley General de Responsabilidades Administrativas, para que proceda en los términos de la Ley de Fiscalización y Rendición de Cuentas del Estado de Zacatecas y otras disposiciones aplicables.
 
 Habilitación de notificadores
 
@@ -1404,3 +1410,11 @@ P.O. 24 DE AGOSTO DE 2019.
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 673.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Estado de Zacatecas.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
