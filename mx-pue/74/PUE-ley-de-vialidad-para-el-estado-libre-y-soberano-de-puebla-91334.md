@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vialidad-para-el-estado-libre-y-soberano-de-puebla-91334
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2021-06-09"
+last_updated: "2021-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
 
 Ley publicada en la Décima Séptima Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -37,7 +37,9 @@ Que por la secretaria del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracciones I y II, 64, 67 y 79 fracción VI de la Constitución Política del Estado Libre y Soberano de Puebla; 102, 119, 123 fracción I, 134 y 135 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 45, 46, 47, y 48 fracción I del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -813,6 +815,10 @@ II. Multa.
 
 Para la imposición de las sanciones establecidas en el presente artículo, las autoridades viales deberán cumplir con las generalidades que establezca la presente Ley, así como el procedimiento que señale el Reglamento, el cual especificará las formalidades del mismo y los supuestos en que operará la retención de los vehículos. En caso de la imposición de una multa, las autoridades viales deberán determinar la misma en términos del tabulador que se establezca en el Reglamento.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+ARTÍCULO 51 BIS.- En los casos a que se refiere la fracción XXXVII del artículo 19 de esta Ley, se impondrán a los conductores de vehículos de propulsión mecánica además de las sanciones señaladas en el artículo anterior, la cancelación de licencia para conducir, sin que se pueda expedir una nueva en una temporalidad de hasta diez años, considerando el modo, tiempo y lugar en que se cometió la infracción, así como las condiciones y circunstancias, independientemente de las demás sanciones que por el hecho se pudieran generar.
+
 ###### ARTÍCULO 52.
 
 Toda conducta infractora deberá constar por escrito, en los formatos oficiales que para tal efecto establezcan las autoridades de vialidad, debiendo contener la descripción de la conducta cometida, así como la o las disposiciones legales vulneradas. El documento oficial donde se haga constar las circunstancias señaladas con anterioridad, se hará del conocimiento al presunto infractor, por cualquier medio de comunicación, a efecto de brindar certeza jurídica al particular y se proceda al pago correspondiente de la sanción o a la presentación del recurso de inconformidad, dando cumplimiento a los requisitos establecidos en el Reglamento.
@@ -928,3 +934,13 @@ P.O. 9 DE JUNIO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 51 BIS A LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Secretaría de Movilidad y Transporte, se deberá coordinar con la Secretaría de Planeación y Finanzas, para mantener un banco de datos en el cual se contenga la información de los sujetos sancionados y la temporalidad en los supuestos establecidos, en el artículo 51 Bis de la Ley de Vialidad para el Estado Libre y Soberano de Puebla, información que deberá ser consultada por la autoridad en la tramitación de las licencias.
