@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2020-09-11"
+last_updated: "2021-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -775,7 +775,9 @@ El informe debe ser completo, los hechos deben describirse con continuidad, cron
 
 Son derechos de los integrantes de las instituciones policiales:
 
-I. Percibir un salario digno;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+l. Percibir un salario digno, el cual se incrementará, cuando menos, anualmente al mismo tiempo y en la proporción que corresponda, al Índice Nacional de Precios al Consumidor, considerando para tal efecto el correspondiente al mes de enero de cada año, más el uno por ciento;
 
 II. Gozar de las prestaciones y servicios de seguridad social;
 
@@ -783,7 +785,11 @@ III. Recibir un trato digno y respetuoso de sus superiores jerárquicos;
 
 IV. Ser sujetos de ascensos, estímulos y reconocimientos, cuando su conducta y desempeño así lo ameriten;
 
-V. Ser sujetos del régimen de asistencia social para la obtención de servicios médicos, seguro de vida, gastos de funeral y vivienda; y,
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+V. Ser sujetos del régimen de asistencia social para la obtención de servicios médicos, seguro de vida, gastos de funeral y vivienda.
+
+Se entenderá por asistencia social y servicios médicos, para los efectos de esta ley, los que se obtengan por el Instituto Mexicano del Seguro Social (IMSS) y por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), según corresponda; y,
 
 VI. Recibir, en los casos procedentes, asesoría jurídica gratuita en los casos en que, con motivo del recto cumplimiento de su servicio, incurra en hechos que pudieran ser constitutivos de injusto penal.
 
@@ -803,17 +809,23 @@ La cuantía de las pensiones otorgadas se actualizará anualmente al mismo tiemp
 
 De igual forma, a los elementos de las corporaciones policiales estatales y municipales de seguridad pública se les garantizará un sistema de retiro digno y se establecerá en su beneficio un sistema de seguros para sus familiares, aplicables en caso de su fallecimiento o la incapacidad total permanente, acaecidas, según el caso, en el cumplimiento de sus funciones o como consecuencia de su condición laboral.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+Los pensionados por retiro, retiro anticipado, invalidez, vejez y orfandad y muerte, recibirán los incrementos salariales y prestaciones económicas en los mismos términos que los reciban los integrantes de las Instituciones policiales del Estado o Municipios en activo, de acuerdo con su plaza, grado o categoría.
+
 ###### Artículo 36.
 
 Para el otorgamiento de los derechos de pensión por retiro y de las pensiones a que se refiere el artículo anterior, se estará a lo dispuesto en la presente ley y en los convenios que se celebren con ese propósito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
 
 ###### Artículo 37.
 
-Para el caso de muerte por causa o como consecuencia de riesgo de trabajo o por su condición laboral en activo, se otorgará pensión a los beneficiarios del agente fallecido, independientemente de la antigüedad, equivalente al cien por ciento del sueldo básico que hubiese percibido al momento de ocurrir el fallecimiento.
+Cuando fallezca algún integrante de las instituciones policiales, sus beneficiarios recibirán una pensión del cien por ciento de la remuneración que hubiese percibido al momento de que ocurra el deceso, conforme al tabulador que corresponda. Dicha pensión se otorgará independientemente de la causa de muerte y de la antigüedad laboral con la que contaba el agente fallecido.
 
-Los servicios médicos se les seguirán otorgando a los beneficiarios de los agentes fallecidos por causa de riesgo de trabajo por el tiempo establecido y en las condiciones pactadas en el régimen de asistencia social que gocen.
+Los servicios médicos se seguirán otorgando a los beneficiarios de los integrantes de las instituciones policiales fallecidos, por el tiempo establecido en esta Ley y en las condiciones pactadas en el régimen de asistencia social que gocen.
+
+Los beneficiarios que cuenten con una pensión por muerte tendrán derecho a la homologación de la pensión con relación a la remuneración que reciben los integrantes de las instituciones policiales del Estado o Municipios en activo, de acuerdo con su plaza, grado o categoría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -837,13 +849,15 @@ Tienen derecho a la pensión por retiro anticipado quienes habiendo cumplido cua
 
 Para tal efecto, la pensión por retiro anticipado dará derecho al pago de una cantidad equivalente del salario que estén devengando, de conformidad con los años de servicio y el porcentaje fijado en la tabla contenida en el artículo 42.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
 
 ###### Artículo 41.
 
-La pensión por invalidez total permanente se otorgará a quienes se inhabiliten física o mentalmente por causa o como consecuencia de riesgo de trabajo o por su condición laboral en activo, se otorgará pensión al integrante de las corporaciones policiales estatales y municipales de seguridad pública, independientemente de la antigüedad, equivalente al cien por ciento del sueldo básico que hubiese percibido al momento de ocurrir la invalidez total permanente.
+La pensión por invalidez total permanente se otorgará a los integrantes de las instituciones policiales que se inhabiliten física o mentalmente por su condición laboral en activo, independientemente de la antigüedad que tengan y será equivalente al cien por ciento de la remuneración que perciban al momento de ocurrir la inhabilitación que le impida el desempeño de sus funciones al cien por ciento de su capacidad.
 
-El derecho al pago de esta pensión nace a partir de la fecha en que la institución de seguridad social que preste la atención médica extienda el certificado de incapacidad respectivo.
+En caso de invalidez parcial permanente la pensión será equivalente al 50% de la remuneración que se perciba al momento de ocurrir la causa que la provoque.
+
+El derecho a percibir las pensiones por invalidez total o parcial nace a partir de la fecha en que la institución de seguridad social que preste la atención médica extienda el certificado respectivo que acredite los hechos.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -919,7 +933,9 @@ Si al vencimiento de cualesquiera de las licencias referidas no ha obtenido su p
 
 El Gobierno del Estado y los Municipios reconocerán la suma de los años laborados en las instituciones de seguridad pública de los elementos que hayan prestado su servicio en cualquiera de los dos órdenes de gobierno, estatal o municipal, para efecto de otorgar la pensión por retiro o jubilación que por ley corresponda.
 
-Mediante la celebración de convenio establecerán los porcentajes de aportaciones solidarias entre ambas partes, de acuerdo al tiempo que los elementos hayan laborado en cada institución, de conformidad con lo establecido en esta Ley.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
+
+Los gobiernos estatal y municipales tienen la obligación de determinar los porcentajes de las aportaciones solidarias que les correspondan, en atención a los años de servicios prestados, de conformidad con lo establecido en esta Ley, cuando los integrantes de las instituciones policiales hayan laborado en el Gobierno del Estado y en uno o más municipios; o prestado sus servicios en dos o más municipios.
 
 La institución de seguridad pública estatal o municipal estará obligada a reconocer la antigüedad y otorgar la pensión o jubilación por los años de servicio prestados, a los elementos que cumplan con el tiempo laboral, establecidos en esta Ley.
 
@@ -929,23 +945,23 @@ El cómputo de los años de servicios se hará considerando uno solo de los empl
 
 Para el otorgamiento de las pensiones, toda fracción de tiempo que exceda de seis meses se considerará como año completo.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
 
-El pago de las pensiones de retiro, retiro anticipado, vejez e invalidez se suspenderá durante el tiempo en que el pensionado desempeñe una actividad al servicio de alguna de las corporaciones estatales y municipales de seguridad pública.
+El pago de las pensiones de retiro, retiro anticipado y vejez se suspenderá durante el tiempo en que el integrante de las instituciones policiales siga prestando sus servicios ya sea en la misma institución de seguridad u otra; siempre y cuando sea del mismo orden de gobierno.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2021)</small>
 
 ###### Artículo 46.
 
-La defunción de los integrantes de las corporaciones policiales en servicio activo, dará derecho a sus beneficiarios al pago de la pensión por muerte de conformidad con lo previsto en los artículos 35, 36 y 37 de la presente Ley.
+El fallecimiento de alguno de los integrantes de las instituciones policiales en servicio activo, dará derecho a sus beneficiarios al pago de la pensión por muerte de conformidad con lo previsto en el artículo 37 de la presente Ley.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 En el caso del fallecimiento de un pensionado, sus beneficiarios tendrán derecho a una pensión por muerte cuyo importe consistirá en el equivalente al cien por ciento de la pensión que estén devengando al ocurrir el deceso.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
 
-Para los casos a que se refieren los párrafos anteriores, el pago de dichas pensiones será exigible a partir del día siguiente del fallecimiento del integrante de la corporación policial en activo o pensionado.
+Para los casos a que se refieren los párrafos anteriores, el pago de dichas pensiones será exigible a partir del día siguiente del fallecimiento del integrante de las instituciones policiales en activo o pensionado.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
 
@@ -3079,7 +3095,9 @@ III. Participar en los concursos de promociones para ascensos y obtener estímul
 
 IV. Percibir un salario digno y remunerado de acuerdo al grado que determine el presupuesto de egresos correspondiente, así como las demás prestaciones de carácter laboral y económico que se destinen en favor de los servidores públicos estatales y municipales;
 
-V. Contar con los servicios de seguridad social que el Gobierno Estatal y Municipales establezcan en favor de los servidores públicos, de sus familiares o personas que dependan económicamente de ellos;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+V. Contar con los servicios de seguridad social que el Gobierno Estatal y Municipales establezcan en favor de los servidores públicos, de sus familiares o personas que dependan económicamente de ellos, en los términos dispuestos por la fracción V del artículo 34 de esta Ley;
 
 VI. Ser asesorados y defendidos por los departamentos jurídicos de las autoridades Estatales o Municipales, en los casos en que por motivo del cumplimiento del servicio, incurran sin dolo o culpa en hechos que pudieran ser constitutivos de delitos;
 
@@ -3677,6 +3695,18 @@ VIII. La revalidación de equivalencias de estudios de la profesionalización en
 
 IX. Las demás que establezcan otras disposiciones legales.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+###### Artículo 242 Bis.
+
+El Instituto garantizará a quienes se encuentran en formación dentro del mismo, los siguientes beneficios:
+
+l. Obtención de servicios médicos;
+
+II. Seguro de Vida; y
+
+III. Percibir un apoyo económico digno durante su estadía en el Instituto.
+
 ###### Artículo 243.
 
 El Instituto contará con el presupuesto que le otorgue la Ley de Ingresos y Presupuesto de Egresos del Estado; en los términos de las disposiciones aplicables, podrá recibir aportaciones para su mejor funcionamiento mediante acuerdos, convenios o cualquier otro instrumento legal, con dependencias y entidades del Gobierno Federal, de otras entidades federativas, del estado o municipios; así como de personas o instituciones privadas, sociales o académicas.
@@ -4095,7 +4125,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-TERCERO. En el caso de que los integrantes de las corporaciones policiales estatales y municipales de seguridad pública fallezcan por causas de muerte natural o que no tengan relación con el cumplimiento de su deber serán tratadas conforme a la tabla establecida en el artículo 42 de esta Ley, y quienes fallezcan por riesgo de trabajo tendrán derecho a una pensión que consistirá en el equivalente al cien por ciento del salario que estén devengando al momento de ocurrir el deceso.
+TERCERO. (DEROGADO, P.O. 7 DE JULIO DE 2021)
 
 CUARTO. Por única ocasión los pensionados de las corporaciones policiales estatales y municipales de seguridad pública o, en su caso los beneficiarios que se encuentren recibiendo una pensión de homologación a los activos al momento de la entrada en vigor de la presente reforma, tienen el derecho a elegir entre la actualización anual correspondiente al Índice Nacional de Precios al Consumidor, considerando para tal efecto el correspondiente al mes de enero de cada año, más el uno por ciento; o bien recibir los incrementos salariales y prestaciones económicas en los mismos términos en que los reciban los agentes en activo de acuerdo con la plaza y categoría, lo cual deberán manifestarlo por escrito ante la autoridad competente en un plazo no mayor a ciento ochenta días contados a partir del día siguiente en que entre en vigor el presente Decreto.
 
@@ -4110,3 +4140,19 @@ SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones 
 En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
 
 TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
+
+P.O. 7 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 645 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Las personas que acrediten el fallecimiento de algún integrante de las instituciones policiales y que son beneficiarios del mismo, ocurrido antes de la entrada en vigor de este decreto, se les otorgará la pensión homologada y actualizada en los términos a que se refiere el artículo 37.
+
+De igual manera se aplicará la homologación para aquellos beneficiarios que antes de la entrada en vigor de este Decreto ya contaban con una pensión por muerte, pero que en dicha fecha aún no esté actualizada en los términos del párrafo tercero del artículo 37.
+
+TERCERO. El Ejecutivo del Estado realizará las adecuaciones presupuestales que se requieran en los términos de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Sinaloa, y aplicará, con independencia de lo anterior, los recursos económicos etiquetados en apoyo a viudas de policías previstos en la Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal del año 2021.
+
+En el ámbito del Gobierno Municipal, los Ayuntamientos realizarán las acciones que les correspondan conforme a esta ley y conforme a las disposiciones aplicables en el ámbito de sus competencias.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
