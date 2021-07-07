@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2021-06-26"
+last_updated: "2021-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -509,6 +509,10 @@ II. Fincar, de acuerdo con la Ley General, la Ley de Responsabilidades de los Se
 
 III. Las demás que le confiera la Constitución estatal y leyes del Estado.
 
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+IV. El desahogo de los procedimientos para la calificación de la gravedad de infracciones y la imposición de las sanciones correspondientes a servidores públicos sin superior jerárquico, cuando las autoridades electorales hayan determinado su existencia.
+
 ## TÍTULO CUARTO. DERECHOS Y OBLIGACIONES DE LOS DIPUTADOS
 
 ### Capítulo Primero. Derechos y Obligaciones de los Diputados
@@ -904,6 +908,14 @@ La comisión dictaminadora podrá acumular aquellas iniciativas que versen sobre
 ###### Artículo 65.
 
 Los dictámenes y, en su caso, los votos particulares, se discutirán en la sesión posterior a aquélla en que han sido leídos ante el Pleno, debiendo entregarse a los diputados con oportunidad, por escrito o por medio magnético, antes de la primera lectura.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+Para los efectos citados, la Comisión dictaminadora deberá entregar a la Mesa Directiva, en un plazo no mayor a 24 horas a partir de su aprobación, el dictamen en formato impreso o electrónico.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+En el caso de los votos particulares, el legislador o legisladores lo entregarán, en el mismo plazo, conforme a lo previsto en la fracción IV, del artículo 132, de la presente Ley.
 
 #### Sección Cuarta. Discusión
 
@@ -2055,6 +2067,10 @@ VII. Sobre la Ley Orgánica del Poder Judicial del Estado, sus reformas y adicio
 
 VIII. Los casos de nepotismo, es decir, incompatibilidades previstas en la ley, por parentesco entre servidores públicos.
 
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+IX. El desahogo de los procedimientos para la calificación de la gravedad de infracciones y la imposición de las sanciones correspondientes a servidores públicos sin superior jerárquico, cuando las autoridades electorales hayan determinado su existencia.
+
 JUSTICIA
 
 ###### Artículo 152.
@@ -2694,3 +2710,17 @@ Artículo tercero. Los manuales de organización y procedimientos, así como la 
 Artículo cuarto. La Comisión de Desarrollo Cultural deberá presentar, en un plazo que no exceda de treinta días naturales contados a partir de la publicación del presente Decreto, la iniciativa de reformas a la normatividad interna para adecuar la estructura orgánica de la Legislatura en materia de coordinación de acciones del Sistema Institucional del Archivo del Poder Legislativo del Estado y cumplir con las disposiciones de la Ley General de Archivos y la ley estatal en la materia.
 
 Artículo quinto. En un plazo que no exceda de treinta días naturales, contados a partir de la publicación de este instrumento legislativo, los titulares de las Direcciones de Procesos Legislativos y Asuntos Jurídicos y de Administración y Finanzas, deberán presentar a la Comisión de Régimen Interno y Concertación Política y a la Comisión de Planeación, Patrimonio y Finanzas, para su aprobación, el proyecto para reasignar recursos humanos, materiales y financieros presupuestados para la Secretaría General que deriven del presente Decreto.
+
+P.O. 7 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 647 (SIC).- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y EL REGLAMENTO GENERAL, AMBOS DEL ESTADO DE ZACATECAS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 7 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 648. SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
