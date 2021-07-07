@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-50489"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-13"
-last_updated: "2016-01-09"
+last_updated: "2021-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 13 de mayo de 2006.
 
@@ -505,9 +505,9 @@ V. El Centro Interactivo de Ciencia y Tecnología de Zacatecas "Zigzag";
 
 VI. Laboratorio de Software Libre y de Código Abierto;
 
-> <small>(ADICIONADA, 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-VII. Campus de Innovación Tecnológica;
+VII. Quantum Ciudad del Conocimiento
 
 VIII. Comisiones Técnicas;
 
@@ -535,21 +535,27 @@ II. Un Secretario o Secretaria Técnica, que será el Director o Directora Gener
 
 III. Los vocales siguientes:
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
 
-a) El Secretario o Secretaria de Educación y Cultura;
+a) El Secretario o Secretaria de Educción;
 
-b) El Secretario o Secretaria de Desarrollo Económico;
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
+
+b) El Secretario o Secretaria de Economía;
 
 c) (DEROGADO, P.O. 21 DE AGOSTO DE 2010)
 
 d) (DEROGADO, P.O. 21 DE AGOSTO DE 2010)
 
-e) El Rector o Rectora de la Universidad Autónoma de Zacatecas;
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+e) El Secretario o Secretaria de Finanzas;
 
 f) (DEROGADO, P.O. 21 DE AGOSTO DE 2010)
 
-g) El Director o Directora del Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Zacatecas;
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+g) El Secretario o Secretaria de la Función Pública;
 
 h) (DEROGADO, P.O. 21 DE AGOSTO DE 2010)
 
@@ -557,13 +563,17 @@ i) (DEROGADO, P.O. 21 DE AGOSTO DE 2010)
 
 j) (DEROGADO, P.O. 21 DE AGOSTO DE 2010)
 
+k) El Rector o Rectora de la Universidad Autónoma de Zacatecas;
+
+l) El Director o Directora del Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Zacatecas;
+
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
-k) Un representante de los sectores productivo y social que será designado por el o la Titular del Ejecutivo del Estado a propuesta del Consejo Asesor, que se renovará cada cuatro años y tendrá derecho a voz y voto, y
+m) Un representante de los sectores productivo y social que será designado por el o la Titular del Ejecutivo del Estado a propuesta del Consejo Asesor, que se renovará cada cuatro años y tendrá derecho a voz y voto, y
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
 
-l) Dos integrantes del sector científico y tecnológico, que tendrá (sic) derecho a voz y voto. Estos integrantes se renovará (sic) cada cuatro años y será invitado por el o la Titular del Ejecutivo del Estado, a propuesta del Consejo Asesor. Para formular dicha propuesta, los integrantes de este órgano deberán hacer una amplia auscultación entre la comunidad científica y tecnológica, con el objetivo de que la persona designada cuente con la trayectoria y los méritos suficientes en el ámbito de la ciencia y la tecnología.
+n) Dos integrantes del sector científico y tecnológico que tendrá (sic) derecho a voz y voto. Estos integrantes se renovarán cada cuatro años y será (sic) invitado (sic) por el o la Titular del Ejecutivo del Estado, a propuesta del Consejo Asesor. Para formular dicha propuesta, los integrantes de este órgano deberán hacer una amplia auscultación entre la comunidad científica y tecnológica, con el objetivo de que la persona designada cuenta con la trayectoria y los méritos suficientes en el ámbito de la ciencia y la tecnología.
 
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
@@ -689,23 +699,43 @@ La Junta Directiva se reunirá por lo menos cada bimestre, sesionará válidamen
 
 #### SECCIÓN TERCERA. De la Dirección General
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2021)</small>
 
 ###### Artículo 20.
 
-La Dirección General del COZCYT estará a cargo de una Directora o Director General, nombrado y removido por el o la Titular del Ejecutivo del Estado, y se auxiliará de las siguientes unidades:
+La Dirección General del COZCYT estará a cargo (sic) una Directora o Director General, nombrado y removido por el o la Titular del Ejecutivo del Estado, y se auxiliará de las siguientes Direcciones y Unidades:
 
-I. Subdirección de Innovación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-II. Subdirección de Difusión y Divulgación de la Ciencia;
+I. Unidad de Transparencia;
 
-III. Subdirección de Formación de Recursos Humanos;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-IV. Subdirección de Administración y Finanzas;
+II. Unidad de Planeación;
 
-V. Subdirección de Imagen Institucional, y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-VI. Las demás que se consideren necesarias para su correcto funcionamiento.
+III. Dirección Jurídica;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+IV. Dirección de Administración y Finanzas;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+V. Dirección de Imagen Institucional;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+VI. Dirección de Innovación y Desarrollo Regional;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+VII. Dirección de Difusión y Divulgación de la Ciencia; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+VIII. Dirección de Desarrollo de Talento en Ciencia, Tecnología e Innovación.
 
 ###### Artículo 21.
 
@@ -789,9 +819,9 @@ XXVI. Coadyuvar con las instancias competentes con acciones que tiendan a resgua
 
 XXVII. Las demás que le confiera el Estatuto Orgánico del COZCYT y demás disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-XXVIII. Asesorar a la Secretaria de Educación y Cultura para el establecimiento de nuevos centros de enseñanza científica, tecnológica y de innovación, así como para la revisión y formulación de los planes de estudio de los existentes;
+XXVIII. Asesorar a la Secretaria de Educación para el establecimiento de nuevos centros de enseñanza científica, tecnológica y de innovación, así como para la revisión y formulación de los planes de estudio de los existentes;
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
@@ -837,13 +867,17 @@ XXXVIII. Gestionar el otorgamiento de becas;
 
 XXXIX. Proporcionar asesoría técnica a los organismos públicos o privados que se lo soliciten;
 
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XL. Nombrar y remover libremente al Director o Directora del Centro Interactivo de Ciencia y Tecnología de Zacatecas Zigzag;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XLI. Delegar la representación legal a la Dirección que corresponda, de acuerdo con las necesidades que tenga el COZCyT, y
+
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-XL. Nombrar y remover libremente al Director o Directora Adjunto del Centro Interactivo de Ciencia y Tecnología de Zacatecas "Zigzag", así como las establecidas en el articulo 24 quáter de esta Ley, y
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
-
-XLI. Las demás que le confiera el Estatuto Orgánico del COZCYT y demás disposiciones aplicables.
+XLII. Las demás que le confiera el Estatuto Orgánico del COZCYT y demás disposiciones aplicables.
 
 #### SECCIÓN CUARTA. Del Consejo Asesor
 
@@ -909,11 +943,33 @@ Artículo 24 bis.- El Consejo Directivo es el órgano de consulta de la Direcci�
 
 I. Un Presidente o Presidenta, que será el Director o Directora General del COZCYT;
 
-II. El Director o Directora Adjunto del Centro Interactivo de Ciencia y Tecnología de Zacatecas "Zigzag";
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-III. El Comisario o Comisaria responsable del Órgano de Vigilancia del COZCYT, y
+II. El Director o Directora del Centro Interactivo de Ciencia y Tecnología de Zacatecas "Zigzag";
 
-IV. Las personas Titulares de las Unidades Administrativas señaladas en el estatuto orgánico.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+III. El o la Titular de la Dirección Jurídica;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+IV. El o la Titular de la Dirección de Administración y Finanzas;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+V. El o la Titular de la Dirección de Imagen Institucional;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+VI. El o la Titular de la Dirección de Innovación y Desarrollo regional;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+VII. El o la Titular de la Dirección de Difusión y Divulgación de la Ciencia, y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+VIII. El o la Titular de la Dirección de Desarrollo de Talento en Ciencia, Tecnología e Innovación.
 
 La organización y funcionamiento de este órgano de consulta quedarán establecidos en el estatuto orgánico.
 
@@ -925,7 +981,9 @@ La organización y funcionamiento de este órgano de consulta quedarán establec
 
 Artículo 24 ter.- Del Centro Interactivo de Ciencia y Tecnología de Zacatecas "Zigzag" es un órgano especializado del COZCYT responsable de la difusión y divulgación de la ciencia, la tecnología y la innovación entre la niñez y la juventud zacatecanas. Estará Integrado por:
 
-l. Un Director o Directora Adjunto, que será nombrado y removido libremente por el Director o Directora General del COZCYT; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+I. Un Director o Directora, que será nombrado y removido libremente por el Director o Directora General del COZCyT, y
 
 II. Las Unidades y Órganos Administrativos auxiliares que señale el Estatuto Orgánico.
 
@@ -937,9 +995,13 @@ La Junta Directiva está obligada a prever en el proyecto de Presupuesto de Egre
 
 Artículo 24 quáter.- Respecto al Centro, el Director o Directora General del COZCYT tendrá las siguientes facultades:
 
-I. Nombrar y remover libremente a su Director o Directora Adjunto;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-II. Establecer los lineamientos administrativos que deba seguir el Director Adjunto en la aplicación de los recursos asignados al Centro;
+I. Nombrar y remover libremente a su Director o Directora;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+II. Establecer los lineamientos administrativos que deba seguir el Director en la aplicación de los recursos asignados al Centro;
 
 III. Determinar y obtener recursos adicionales necesarios para el financiamiento del Centro;
 
@@ -953,23 +1015,39 @@ VII. Apoyar las actividades del centro en materia de difusión y vinculación co
 
 VIII. Ejercer las demás facultades que le confieren esta ley, el estatuto orgánico y el reglamento interior del Centro.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2021)</small>
 
-Artículo 24 quinquies.- El Director o Directora Adjunto tendrá las atribuciones siguientes:
+Artículo 24 quinquies.- El Director o Directora tendrá las atribuciones siguientes:
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
 I. Formar parte del Consejo Directivo;
 
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
 II. Resolver los asuntos inherentes a su área de responsabilidad de conformidad con las directrices establecidas por la Dirección General;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
 III. Ejecutar los acuerdos de la Junta Directiva relativos al Centro e informar a la Directora o Director General oportunamente sobre el desarrollo de sus actividades;
 
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
 IV. Dictar las medidas necesarias para el mejoramiento administrativo de las áreas a su cargo;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
 V. Presentar al Director o Directora General para su aprobación, los programas, políticas y líneas de acción que deberá desarrollar el Centro;
 
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
 VI. Proponer al Director o Directora General el proyecto de presupuesto del Centro y los mecanismos de vinculación con las instituciones educativas de los niveles básico y medio superior y superior;
 
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+
 VII. Elaborar el reglamento interior del centro y presentarlo para su aprobación al Director o Directora General; y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
 VIII. Las demás que contemple esta Ley, el Estatuto orgánico y el reglamento interior del Centro.
 
@@ -997,13 +1075,17 @@ El domicilio de este órgano especializado, estará ubicado en la ciudad de Zaca
 
 La Junta Directiva está obligada a prever en el proyecto de Presupuesto de Egresos anual del COZCYT, recursos suficientes para que el Laboratorio cumpla cabalmente con sus atribuciones.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2021)</small>
 
-Artículo 24 octies.- El Campus de Innovación Tecnológica es un órgano especializado del COZCYT, promotor de la innovación, que facilite la transferencia tecnológica al sector productivo e impulse el desarrollo del capital intelectual comprometido con el progreso económico de Zacatecas.
+Artículo 24 octies.- Quantum Ciudad del Conocimiento es un órgano especializado del COZCyT, promotor de la innovación, que facilite la transferencia tecnológica al sector productivo e impulse el desarrollo del capital intelectual comprometido con el progreso económico de Zacatecas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 El domicilio de este órgano especializado, estará ubicado en la ciudad de Zacatecas, Zacatecas; sin perjuicio de que pueda establecer otras subsedes en las diversas regiones del Estado, que estime necesarias para la realización de sus actividades, previa autorización de la Junta Directiva del COZCYT.
 
-La organización y funcionamiento del Campus de Innovación Tecnológica serán determinados en el Reglamento correspondiente.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
+
+La organización y funcionamiento de Quantum Ciudad del Conocimiento serán determinados en el Reglamento correspondiente.
 
 #### SECCIÓN SÉPTIMA. De las Comisiones Técnicas
 
@@ -1021,7 +1103,9 @@ La Junta de Gobierno al aprobar su creación, establecerá su objeto, facultades
 
 Artículo 25 bis.- Con el objetivo de diseñar y operar la política pública de innovación se establece el Comité Técnico para la Innovación, como un comité especializado del COZCYT.
 
-El Comité Técnico para la Innovación estará integrado por el Director o Directora del COZCYT quien lo presidirá, así como el Secretario o Secretaria de Desarrollo Económico y el Secretario o Secretaria de Educación y Cultura. Serán invitados permanentes por designación de la Junta Directiva, los siguientes:
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
+
+El Comité Técnico para la innovación estará integrado por el Director o Directora del COZCYT quien lo presidirá, así como el Secretario o Secretaria de Economía y el Secretario o Secretaria de Educación. Serán invitados permanentes por designación de la Junta Directiva, los siguientes:
 
 I. Un representante de las universidades e instituciones de educación superior en el estado;
 
@@ -1033,7 +1117,9 @@ IV. Un representante de la comunidad científica.
 
 El Comité tendrá la obligación de invitar a sus sesiones a representantes de las dependencias y entidades de la Administración Pública del Estado que tengan competencia en los asuntos que se aborden. De igual forma estará facultado para invitar a cualquier institución o persona que pueda aportar conocimiento o experiencias relacionados con la innovación en el Estado.
 
-El Comité estará facultado para sesionar con un quórum de dos de sus miembros y tomará sus decisiones por mayoría de los presentes. Los titulares de la Secretaría de Desarrollo Económico, de Educación y Cultura y del COZCYT podrán designar a un suplente, quien deberá tener el rango de subsecretario o equivalente. El Comité deberá sesionar al menos dos veces al año.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
+
+El Comité estará facultado para sesionar con un quórum de dos de sus miembros y tomará sus decisiones por mayoría de los presentes. Los titulares de la Secretaría de Economía, de Educación y del COZCYT podrán designar a un suplente, quien deberá tener el rango de subsecretario o equivalente. El Comité deberá sesionar al menos dos veces al año.
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
@@ -1649,7 +1735,9 @@ El Consejo de Premiación a que se refiere el artículo anterior se integrará d
 
 I. El diputado Presidente de la Comisión de Ciencia y Tecnología de la Legislatura del Estado, quien lo presidirá.
 
-II. El Secretario de Educación y Cultura del Gobierno del Estado como Vocal.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+II. El Secretario de Educación del Gobierno del Estado como Vocal.
 
 III. El Rector de la Universidad Autónoma de Zacatecas como vocal.
 
@@ -1746,3 +1834,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 7 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 633.- MEDIANTE EL CUAL SE REFORMA LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE ZACATECAS".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. La Junta Directiva deberá realizar y aprobar las modificaciones que corresponden al Estatuto Orgánico del COZCyT conforme a lo dispuesto en el presente Decreto, en un término de 180 días a partir de la publicación de este instrumento legislativo, debiéndose publicar tales modificaciones en el Periódico Oficial, Órgano del Gobierno del Estado.
