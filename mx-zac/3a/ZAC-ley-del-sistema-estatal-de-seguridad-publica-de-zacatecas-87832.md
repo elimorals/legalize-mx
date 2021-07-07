@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-estatal-de-seguridad-publica-de-zacatecas-87832
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-05"
-last_updated: "2021-02-06"
+last_updated: "2021-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de mayo de 2012.
 
@@ -341,13 +341,17 @@ X. Organizar las instituciones policiales bajo sus órdenes, en unidades que cum
 
 XI. Presidir el Consejo de Honor y Justicia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-XII. Organizar, coordinar y operar el Centro; y
+XII. Organizar, coordinar y operar el Centro;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XIII. Operar el Sistema Estatal de Seguridad Pública a través del Secretariado Ejecutivo, en los términos de la presente ley, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE FEBRERO DE 2021)</small>
 
-XIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones aplicables.
+XIV. Las demás que le señalen las leyes, reglamentos y otras disposiciones aplicables.
 
 Atribuciones de los Ayuntamientos
 
@@ -625,9 +629,15 @@ Los datos e informes que se utilicen para la elaboración de los subprogramas a 
 
 Definición del Secretariado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2021)</small>
+
 ###### Artículo 33.
 
-El Secretariado Ejecutivo es un órgano desconcentrado de la Secretaría General de Gobierno, con autonomía técnica, de gestión y presupuestal, responsable de la operación del Sistema y de las determinaciones del Consejo Estatal, sus facultades, obligaciones y unidades de apoyo se establecerán en su Reglamento.
+El Secretariado Ejecutivo es un órgano desconcentrado de la Secretaría, con autonomía técnica, de gestión y presupuestal, estará bajo el mando y coordinación del Secretario y será el responsable de la operación del Sistema para el fortalecimiento de la Seguridad Pública en el ámbito Estatal y Municipal.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+Deberá vigilar que se cumplan las determinaciones del Consejo Estatal; sus facultades, obligaciones y unidades de apoyo se establecerán en su Reglamento.
 
 Para el cumplimiento de sus fines, contará con los Centros Estatales siguientes:
 
@@ -669,15 +679,21 @@ VIII. Coordinar la realización de estudios transversales especializados sobre l
 
 IX. Compilar los acuerdos que se tomen en el Consejo Estatal, llevar el archivo de éstos y de los instrumentos jurídicos que se deriven, así como expedir constancias de los mismos, con respeto a los principios de confidencialidad y reserva;
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-X. Expedir certificaciones de los datos contenidos en los Registros Estatales, así como copias certificadas de los documentos que obren en los archivos del Secretariado Ejecutivo, con excepción de los reservados de conformidad con la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Transparencia y Acceso a la Información Pública del Estado;
+X. Expedir certificaciones, en el ámbito de su competencia, de los datos contenidos en los Registros Estatales de Información, así como copias certificadas de los documentos que obren en los archivos del Secretariado Ejecutivo, con excepción de los reservados de conformidad con la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Datos Personales en Posesión de Sujetos Obligados, la Ley de Transparencia y Acceso a la Información Pública y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados, ambas del Estado de Zacatecas;
 
-XI. Celebrar convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema, previo acuerdo del Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-XII. Verificar el cumplimiento de las disposiciones de esta Ley, de los convenios generales y específicos en la materia, así como de las demás disposiciones aplicables e informar lo conducente al Consejo Estatal;
+XI. Celebrar convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema, previo acuerdo del Secretario;
 
-XIII. Proponer los criterios de evaluación dictados por el Centro Nacional de Certificación y Acreditación a los titulares de las Instituciones de Seguridad Pública y al Secretario General de Gobierno, para su aprobación o modificación;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XII. Verificar el cumplimiento de las disposiciones de esta Ley, de los convenios generales y específicos en la materia, así como de las demás disposiciones aplicables e informar lo conducente al Secretario y al Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XIII. Proponer los criterios de evaluación dictados por el Centro Nacional de Certificación y Acreditación a los titulares de las Instituciones de Seguridad Pública y al Secretario, para su aprobación o modificación;
 
 XIV. Verificar que los programas, estrategias, acciones y políticas que se adopten por el Consejo Estatal, sean congruentes y cumplan con los lineamientos y acuerdos generales que dicte el mismo;
 
@@ -685,11 +701,15 @@ XV. Elaborar y dar publicidad a los informes de actividades del Consejo Estatal;
 
 XVI. Colaborar con las instituciones de seguridad pública del Estado que integran el Sistema, para fortalecer y hacer más eficientes los mecanismos de coordinación;
 
-XVII. Gestionar ante las autoridades competentes, la ministración de los fondos de seguridad pública;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XVII. Gestionar ante las autoridades competentes, previo acuerdo con el Secretario, la ministración de los fondos de seguridad pública;
 
 XVIII. Coadyuvar con la Auditoría Superior de la Federación y los organismos de control y fiscalización locales, proporcionando la información con la que cuente respecto del ejercicio de los recursos, de los fondos de ayuda federal y de aportaciones estatales y municipales;
 
-XIX. Informar periódicamente al Consejo Estatal de sus actividades de conformidad con el Reglamento;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XIX. Informar periódicamente al Secretario y al Consejo Estatal de sus actividades de conformidad con el Reglamento;
 
 XX. Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de esta Ley, los acuerdos generales, los convenios y demás disposiciones aplicables, así como por el uso ilícito o indebido de los recursos federales o estatales e informar al respecto al Consejo Estatal;
 
@@ -699,7 +719,17 @@ XXII. Diseñar los indicadores de evaluación del cumplimiento de los subprogram
 
 XXIII. Coordinar la homologación de la Carrera Policial, la Profesionalización y el Régimen Disciplinario de la Instituciones de Seguridad Pública, y
 
-XXIV. Las demás que le otorga esta Ley y demás disposiciones jurídicas aplicables, así como las que le encomiende el Consejo Estatal o su Presidente.
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XXIV. Realizar la toma de acuerdos en conjunto con el Secretario que fortalezcan el Sistema en materia administrativa y operativa;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XXV. Informar puntualmente al Secretario el cumplimiento de metas respecto al Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal, así como acordar previamente cada toma de decisión respecto al ejercicio de los recursos, y
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XXVI. Las demás que le otorga esta Ley y demás disposiciones jurídicas aplicables, así como las que le encomiende el Secretario y el Consejo Estatal o su Presidente.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
 
@@ -763,13 +793,13 @@ Las Instituciones de Seguridad Pública, suministrarán, intercambiarán, sistem
 
 Con independencia de lo anterior, las Instituciones de Seguridad Pública, deberán conservar un respaldo de la información que generen.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
 
-Los municipios que aún no cuenten con acceso al Sistema, proporcionarán la información por escrito por conducto de la Secretaría y del Secretariado Ejecutivo, en los formatos que para el efecto les sean facilitados, obligación que deberán cumplir dentro de los primeros cinco días de cada mes.
+Los municipios que aún no cuenten con acceso al Sistema, proporcionarán la información por escrito por conducto del Secretariado Ejecutivo, en los formatos que para el efecto les sean facilitados, obligación que deberán cumplir dentro de los primeros cinco días de cada mes.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
 
-Los responsables de los servicios de seguridad privada, deberán integrar y actualizar la información relativa a personal y armamento y equipo, por conducto de la Secretaría y del Secretariado Ejecutivo.
+Los responsables de los servicios de seguridad privada, deberán integrar y actualizar la información relativa a personal y (sic) armamento y equipo, por conducto del Secretariado Ejecutivo.
 
 La información sobre administración, impartición de justicia, podrá ser integrada a las bases de datos criminalísticas y de personal, a través de convenios con el Poder Judicial del Estado.
 
@@ -807,11 +837,13 @@ Las Instituciones Policiales del Estado y de los municipios, así como la Fiscal
 
 Además se integrará la información proporcionada por otras entidades y dependencias que se estime necesaria para la elaboración del diagnóstico que guarda la seguridad pública en el Estado y para la formulación de estrategias en la materia.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
+
 De los Convenios en materia de Información
 
 ###### Artículo 45.
 
-El Secretariado Ejecutivo promoverá la celebración de convenios para el suministro, intercambio, sistematización y actualización de información, mediante los instrumentos tecnológicos idóneos que permitan el fácil y rápido acceso a las autoridades que, conforme a esta Ley, puedan disponer de ella, previo acuerdo del Secretario General de Gobierno.
+El Secretariado Ejecutivo promoverá la celebración de convenios para el suministro, intercambio, sistematización y actualización de información, mediante los instrumentos tecnológicos idóneos que permitan el fácil y rápido acceso a las autoridades que, conforme a esta Ley, puedan disponer de ella, previo acuerdo del Secretario.
 
 De la reglamentación de los procesos estadísticos de información
 
@@ -819,11 +851,13 @@ De la reglamentación de los procesos estadísticos de información
 
 El Gobernador expedirá la reglamentación y los instrumentos normativos que contengan los lineamientos científicos, metodológicos, técnicos, administrativos, interinstitucionales y tecnológicos que permitan generar procesos estadísticos de alta confiabilidad y disponibilidad.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2021)</small>
+
 Del registro y actualización de las bases de datos
 
 ###### Artículo 47.
 
-Los titulares de las entidades y dependencias, y de las Instituciones de Seguridad Pública que suministren información al Sistema Estatal de Información, deberán registrar y mantener actualizadas las bases de datos correspondientes, conforme a los criterios de normalización definidos por el Secretariado Ejecutivo.
+Los titulares de las entidades y dependencias, y de las Instituciones de Seguridad Pública que suministren información al Sistema Estatal de Información, deberán registrar y mantener actualizadas las bases de datos correspondientes, conforme a los criterios de normalización definidos por el Secretariado Ejecutivo, previo acuerdo del Secretario.
 
 De los principios de confidencialidad y reserva de la información
 
@@ -945,7 +979,13 @@ VII. Responder, sobre la ejecución de las órdenes directas que reciban, a un s
 
 VIII. Participar en operativos de coordinación con otras instituciones policiales, así como brindarles el apoyo que conforme a derecho proceda;
 
-IX. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos y sólo para el desempeño del servicio;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+IX. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos y sólo para el desempeño del servicio.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+Quien extravíe, entregue a un tercero o pierda la custodia del arma que le haya sido dotada para el servicio, será sujeto de medidas de control disciplinario y sanciones económicas que correspondan;
 
 X. Abstenerse de asistir uniformados a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia, y
 
@@ -1026,6 +1066,10 @@ III. Desarrollar el sentido de pertenencia a la institución, y
 IV. Mejorar el nivel de calidad de vida personal, familiar, cultural y social.
 
 Las Instituciones de Seguridad Pública, realizarán y someterán a las autoridades que correspondan, los estudios técnicos pertinentes para la revisión, actualización y fijación de sus tabuladores e instituciones policiales en que éstos deberán regir.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+Cuando un elemento de las Instituciones Policiales de la Secretaría se encuentre desaparecido en el ejercicio de sus funciones o con motivo de ellas, los beneficiarios de sus derechos derivados del Plan de Seguridad Social, tendrán derecho a disfrutar de la medida complementaria inmediatamente, misma que se propondrá de manera provisional, y se otorgará como apoyo social en términos de las normas administrativas que para tal efecto emita la Secretaría.
 
 ### CAPÍTULO XI. DEL INSTITUTO DE FORMACIÓN PROFESIONAL
 
@@ -1773,6 +1817,14 @@ El procedimiento para la imposición de las sanciones será competencia del Cons
 
 Contra las resoluciones definitivas que emitan los Consejos de Honor y Justicia, procederá el Juicio de Nulidad ante el Tribunal de Justicia Administrativa del Estado de Zacatecas.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+Si en el juicio la entidad o autoridad no comprueba alguna causa de rescisión, terminación de contrato, así como el procedimiento administrativo seguido, la o el elemento policial tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos desde la fecha del despido hasta por un periodo máximo de doce meses.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento a la sentencia, se pagará también al elemento policial los intereses que se generen sobre el importe de quince meses de salario, razón de dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+
 ### CAPÍTULO XVII. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 De las responsabilidades administrativas
@@ -1968,3 +2020,19 @@ Artículo cuarto. Dentro de los noventa días siguientes a la entrada en vigor d
 Artículo quinto. Para los efectos de las consideraciones vertidas en el apartado de Valoración de la iniciativa, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizarse la reforma a la Ley Orgánica de la Administración Pública del Estado, la Ley del Sistema Estatal de Seguridad Pública de Zacatecas y otras disposiciones legales, para que el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, forme parte de la Secretaría de Seguridad Pública.
 
 Artículo sexto. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 7 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 671.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS, EN MATERIA DE SECRETARIADO EJECUTIVO".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Dentro de los ciento veinte días siguientes a la vigencia de este Decreto, se modificarán los reglamentos interiores de la Secretaría General de Gobierno y de la Secretaría de Seguridad Pública, para armonizarlos a esta reforma.
+
+Artículo tercero. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+Artículo cuarto. La transferencia de los recursos financieros se realizará en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios.
+
+Artículo quinto. El proceso de entrega recepción relativa al Secretariado Ejecutivo entre la Secretaría General de Gobierno y la Secretaría de Seguridad Pública, ambas del Gobierno del Estado, se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas y demás leyes y reglamentos aplicables.
+
+Artículo sexto. Se derogan las disposiciones que contravengan el presente decreto.
