@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-118697"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-30"
-last_updated: "2021-02-24"
+last_updated: "2021-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
 
 Ley publicada en el Suplemento 3 al Número 96 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de noviembre de 2016.
 
@@ -325,9 +325,9 @@ XII. Organizar los actos cívicos del Gobierno del Estado y vigilar la observanc
 
 XIII. Coordinar las actividades del Consejo Estatal de Seguridad Pública;
 
-XIV. Organizar y dirigir el Servicio Profesional de Carrera Policial y elaborar la propuesta anual de asignación de grados a los integrantes de dichas corporaciones;
+XIV. (DEROGADA, P.O. 7 DE JULIO DE 2021)
 
-XV. Organizar la capacitación de los cuerpos policiales tendientes a su profesionalización; así como orientar a la ciudadanía en materia de prevención en conjunto con el Instituto de Formación Profesional;
+XV. (DEROGADA, P.O. 7 DE JULIO DE 2021)
 
 XVI. Elaborar y ejecutar, en coordinación con la Fiscalía General de Justicia del Estado de Zacatecas, los programas de prevención del delito;
 
@@ -501,11 +501,23 @@ XVIII. Dar el trámite que corresponda, en la aplicación de la Ley de Ejecució
 
 XIX. Coordinar y vigilar el funcionamiento del Centro de Internamiento y Atención Integral Juvenil y ejecutar los programas de reinserción a la familia y la comunidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-XX. Organizar, coordinar y operar el Centro de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia; y
+XX. Organizar, coordinar y operar el Centro de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia;
 
-XXI. Las demás que señalen las leyes y reglamentos vigentes o le encomiende el Gobernador.
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XXI. Organizar y dirigir el Servicio Profesional de Carrera Policial y elaborar la propuesta anual de asignación de grados a los integrantes de dichas corporaciones;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XXII. Organizar la capacitación de los cuerpos policiales tendientes a su profesionalización; así como orientar a la ciudadanía en materia de prevención en conjunto con el Instituto de Formación Profesional;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XXIII. Operar el Sistema Estatal de Seguridad Pública a través del Secretariado Ejecutivo, en los términos de la ley de seguridad pública aplicable, y
+
+XXIV. Las demás que señalen las leyes y reglamentos vigentes o le encomiende el Gobernador.
 
 ###### Artículo 29.
 
@@ -1838,3 +1850,19 @@ P.O. 24 DE FEBRERO DE 2021.
 Artículo primero. Publíquese el presente Decreto en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente decreto.
+
+P.O. 7 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 671.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS, EN MATERIA DE SECRETARIADO EJECUTIVO”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Dentro de los ciento veinte días siguientes a la vigencia de este Decreto, se modificarán los reglamentos interiores de la Secretaría General de Gobierno y de la Secretaría de Seguridad Pública, para armonizarlos a esta reforma.
+
+Artículo tercero. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+Artículo cuarto. La transferencia de los recursos financieros se realizará en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios.
+
+Artículo quinto. El proceso de entrega recepción relativa al Secretariado Ejecutivo entre la Secretaría General de Gobierno y la Secretaría de Seguridad Pública, ambas del Gobierno del Estado, se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas y demás leyes y reglamentos aplicables.
+
+Artículo sexto. Se derogan las disposiciones que contravengan el presente decreto.
