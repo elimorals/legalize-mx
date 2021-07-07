@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2020-08-27"
+last_updated: "2021-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -845,11 +845,17 @@ XXIX. Aprobar los lineamientos del Observatorio Ciudadano Legislativo a propuest
 
 XXX. Dar seguimiento a las recomendaciones emitidas por el Observatorio Ciudadano Legislativo;
 
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-XXXI. Acordar sesiones a distancia de conformidad con lo dispuesto en el artículo 8 de esta ley y emitir los lineamientos para el desarrollo de las sesiones y reuniones de comisiones a distancia; y
+XXXI. Acordar sesiones a distancia de conformidad con lo dispuesto en el artículo 8 de esta ley y emitir los lineamientos para el desarrollo de las sesiones y reuniones de comisiones a distancia;
 
-XXXII. Las demás que le señale la presente Ley, le encomiende el Pleno o la Diputación Permanente, y aquéllas que resulten necesarias para el cumplimiento de sus funciones.
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XXXII. Acordar la celebración de los mecanismos de colaboración entre las autoridades de los diversos órdenes de gobierno a efecto de coordinar las actividades que el Congreso del Estado o sus órganos legislativos lleven a cabo con otras autoridades; y
+
+(REUBICADA, P.O. 7 DE JULIO DE 2021)
+
+XXXIII. Las demás que le señale la presente Ley, le encomiende el Pleno o la Diputación Permanente, y aquéllas que resulten necesarias para el cumplimiento de sus funciones.
 
 ###### Artículo 73.
 
@@ -1565,11 +1571,55 @@ La Junta de Enlace en Materia Financiera será convocada y coordinada por la Pre
 
 El titular de la Unidad de Estudios de las Finanzas Públicas del Congreso del Estado, fungirá como Secretario Técnico.
 
-### Capítulo Único. Grupos Parlamentarios y Representaciones Parlamentarias
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2021)</small>
+
+### Capítulo VIII. Convención Legislativa de Seguridad Pública y Prevención Social de la Violencia y la Delincuencia
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+###### Artículo 124 Bis.
+
+La Convención Legislativa de Seguridad Pública y Prevención Social de la Violencia y la Delincuencia es un mecanismo de vinculación entre el Poder Legislativo, el Poder Ejecutivo y los ayuntamientos del Estado en materia de seguridad pública y prevención social de la violencia y la delincuencia.
+
+La Convención Legislativa de Seguridad Pública y Prevención Social de la Violencia y la Delincuencia estará conformada por quienes integran la Comisión de Seguridad Pública y Comunicaciones y los presidentes municipales de los ayuntamientos del estado. Los presidentes municipales podrán delegar su participación a alguno de los integrantes del ayuntamiento que formen parte de la comisión en materia de seguridad pública, o bien, al titular del área que incida o participe en materia de seguridad pública y prevención social de la violencia y la delincuencia.
+
+Se formulará invitación al Poder Ejecutivo, con atención al titular de la Secretaría de Seguridad Pública.
+
+Se podrá invitar a participar a autoridades federales y a organismos autónomos en la materia.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+###### Artículo 124 Ter.
+
+La Convención Legislativa de Seguridad Pública y Prevención Social de la Violencia y la Delincuencia tendrá las siguientes funciones:
+
+I. Elaborar propuestas legislativas a la Junta de Gobierno y Coordinación Política en materia de seguridad pública y prevención social de la violencia y la delincuencia;
+
+II. Intercambiar información con los propios integrantes en materia de seguridad pública y prevención social de la violencia y la delincuencia;
+
+III. Compilar y en su caso, elaborar estudios e investigaciones que aborden problemas de interés en el tratamiento de la seguridad pública y prevención social de la violencia y la delincuencia, sistema penitenciario y sistema de justicia; y
+
+IV. Mantener vinculación e intercambio con entidades nacionales e internacionales relacionadas con la seguridad pública y prevención social de la violencia y la delincuencia.
+
+La Convención Legislativa de Seguridad Pública y Prevención Social de la Violencia y la Delincuencia podrá acordar la integración de grupos de trabajo, para el estudio y desahogo de asuntos que consideren de interés general. Dichos grupos serán coordinados por un integrante de la Comisión de Seguridad Pública y Comunicaciones, con apoyo de la Secretaría Técnica.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+###### Artículo 124 Quáter.
+
+La Convención Legislativa de Seguridad Pública y Prevención Social de la Violencia y la Delincuencia se reunirá por lo menos dos veces al año. En la primera reunión se presentará el programa de trabajo y se integrarán los grupos a que se refiere el artículo anterior, los cuales se reunirán bimestralmente. En la segunda reunión deberán elaborarse los criterios, estudios, investigaciones y propuestas legislativas con base en los resultados de las reuniones de los grupos de trabajo, mismos que serán informados a la Junta de Gobierno y Coordinación Política y a la Comisión de Seguridad Pública y Comunicaciones.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
+###### Artículo 124 Quinquies.
+
+La Convención Legislativa de Seguridad Pública y Prevención Social de la Violencia y la Delincuencia será convocada y coordinada por quien presida la Comisión de Seguridad Pública y Comunicaciones.
+
+Fungirá como Secretario Técnico, quien ostente la titularidad del Instituto de Investigaciones Legislativas del Congreso del Estado.
 
 ## TÍTULO QUINTO. Grupos Parlamentarios y Representaciones Parlamentarias
 
-### Capítulo I. Apertura y Clausura de los Periodos de Sesiones
+### Capítulo Único. Grupos Parlamentarios y Representaciones Parlamentarias
 
 ###### Artículo 125.
 
@@ -1639,7 +1689,7 @@ La aplicación de las cantidades a que se hace referencia en este artículo, deb
 
 ## TÍTULO SEXTO. Práctica Parlamentaria
 
-### Capítulo II. Sesiones
+### Capítulo I. Apertura y Clausura de los Periodos de Sesiones
 
 ###### Artículo 135.
 
@@ -1661,7 +1711,7 @@ La Presidencia hará la declaratoria sobre el periodo ordinario o extraordinario
 
 La apertura y clausura de los periodos ordinarios y extraordinarios de sesiones, se comunicarán al titular del Poder Ejecutivo del Estado, al Presidente del Supremo Tribunal de Justicia del Estado, a la Cámara de Diputados del Congreso de la Unión, al Senado de la República, al titular del Poder Ejecutivo Federal, a quien presida la Suprema Corte de Justicia de la Nación, a los órganos legislativos de las entidades federativas, y a los ayuntamientos del Estado.
 
-### Capítulo III. Ceremonial
+### Capítulo II. Sesiones
 
 ###### Artículo 139.
 
@@ -1783,7 +1833,7 @@ Los asuntos generales que se presenten en sesión ordinaria no podrán exceder d
 
 Durante las intervenciones en el punto de los asuntos generales, sólo se podrá solicitar el uso de la voz para responder alusiones personales o rectificar hechos hasta por cinco minutos.
 
-### Capítulo IV. Orden del Público en las Sesiones
+### Capítulo III. Ceremonial
 
 ###### Artículo 153.
 
@@ -1831,7 +1881,7 @@ Cuando se otorgue por la Presidencia del Congreso del Estado, el uso de la palab
 
 Siempre se destinará un lugar especial en el salón de sesiones a los magistrados del Supremo Tribunal de Justicia, a titulares de los organismos autónomos, a titulares de la administración pública centralizada del Ejecutivo Estatal, a titulares de las presidencias municipales del Estado y a quienes sean miembros de los cuerpos diplomático y consular.
 
-### Capítulo I. Iniciativas
+### Capítulo IV. Orden del Público en las Sesiones
 
 ###### Artículo 163.
 
@@ -1851,7 +1901,7 @@ Si las disposiciones ordenadas por la Presidencia del Congreso del Estado no bas
 
 ## TÍTULO SÉPTIMO. Proceso Legislativo
 
-### Capítulo II. Dictámenes
+### Capítulo I. Iniciativas
 
 ###### Artículo 167.
 
@@ -1903,7 +1953,7 @@ A fin de retirar una iniciativa se requiere que el iniciante lo solicite por esc
 
 En caso de que la iniciativa se hubiera suscrito por dos o más iniciantes, se requiere que la solicitud para retirarla, sea formulada por la totalidad de éstos.
 
-### Capítulo III. Discusiones
+### Capítulo II. Dictámenes
 
 ###### Artículo 171.
 
@@ -1935,7 +1985,7 @@ La dispensa de lectura de los dictámenes en las Comisiones Legislativas, proced
 
 Los dictámenes suscritos por alguna Comisión Legislativa de una Legislatura anterior, que no hayan sido presentados al Pleno, serán objeto de estudio por la Comisión Legislativa respectiva de la Legislatura actual, la que podrá ratificarlos o proceder a la formulación de un nuevo dictamen en los términos que así lo considere.
 
-### Capítulo IV. Votaciones
+### Capítulo III. Discusiones
 
 ###### Artículo 177.
 
@@ -2047,7 +2097,7 @@ La reserva en lo particular deberá acompañarse siempre de una propuesta, misma
 
 Aprobado un proyecto de ley, decreto o acuerdo, si así lo acuerda el Pleno, deberá ser enviado a las secretarías de la Mesa Directiva para que, en unión con la Presidencia de la comisión dictaminadora, elaboren la minuta en los términos que deba publicarse y, se remitirá al titular del Poder Ejecutivo del Estado, para los efectos constitucionales correspondientes o a las autoridades que se señalen en el acuerdo respectivo, según corresponda.
 
-### Capítulo V. Resoluciones
+### Capítulo IV. Votaciones
 
 ###### Artículo 189.
 
@@ -2169,7 +2219,7 @@ Para que un proyecto tenga carácter de Ley, decreto o acuerdo se requiere que s
 
 Ningún diputado podrá abstenerse de votar estando en la sesión o reunión de comisión, a no ser que tenga interés personal en el asunto que sea objeto de proposición o dictamen o haya fijado su posición política, la cual deberá de quedar registrada en el acta o minuta correspondiente. Tampoco podrá retirarse durante las votaciones.
 
-### Capítulo VI. Expedición de Leyes
+### Capítulo V. Resoluciones
 
 ###### Artículo 204.
 
@@ -2191,7 +2241,7 @@ IV. Iniciativas al Congreso de la Unión: Toda propuesta de reformas a la legisl
 
 Todas las resoluciones del Congreso del Estado en materia electoral, tendrán el carácter de decreto.
 
-### Capítulo VII. Evaluación Legislativa
+### Capítulo VI. Expedición de Leyes
 
 ###### Artículo 206.
 
@@ -2211,9 +2261,7 @@ El decreto o ley devuelto al Congreso del Estado con observaciones, se remitirá
 
 La comisión o comisiones dictaminadoras podrán ratificar el dictamen o modificarlo y si el Pleno aprueba el dictamen a que se refiere el párrafo anterior por la mayoría calificada que establece la Constitución Política para el Estado de Guanajuato, se remitirá al titular del Poder Ejecutivo del Estado la ley o el decreto respectivo, quien deberá promulgarlo sin más trámite.
 
-### Capítulo I. Participación Ciudadana
-
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2019)</small>
+### Capítulo VII. Evaluación Legislativa
 
 ###### Artículo 209.
 
@@ -2239,9 +2287,9 @@ En el caso de iniciativas ya aprobadas o publicadas, la Unidad de Seguimiento y 
 
 ## TÍTULO OCTAVO. Participación Ciudadana, Observatorio Ciudadano Legislativo y Cabildeo
 
-### Capítulo II. Observatorio Ciudadano Legislativo
+### Capítulo I. Participación Ciudadana
 
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2019)</small>
 
 ###### Artículo 211.
 
@@ -2249,7 +2297,9 @@ El Congreso del Estado establecerá mecanismos de participación con la sociedad
 
 > <small>(ADICIONADO CON SUS ARTÍCULOS, P.O. 12 DE MARZO DE 2019)</small>
 
-### Capítulo III. Cabildeo
+### Capítulo II. Observatorio Ciudadano Legislativo
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2019)</small>
 
 ###### Artículo 211 Bis.
 
@@ -2335,9 +2385,7 @@ Los Grupos Parlamentarios, Representaciones Parlamentarias o Diputados a las que
 
 > <small>(REFORMADO EN SU NUMERACIÓN, P.O. 12 DE MARZO DE 2019)</small>
 
-### Capítulo I. Declaratoria de separación del cargo
-
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
+### Capítulo III. Cabildeo
 
 ###### Artículo 213.
 
@@ -2357,7 +2405,9 @@ Cualquier infracción a esta norma será sancionada con la remoción de las Comi
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ABRIL DE 2017)</small>
 
-### Capítulo II. Substanciación del Trámite para Declarar Desaparecido un Ayuntamiento o Suspender o Revocar el Mandato a alguno de sus integrantes
+### Capítulo I. Declaratoria de separación del cargo
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Artículo 215.
 
@@ -2471,7 +2521,7 @@ IV. Consejeros del Poder Judicial, se procederá de conformidad con lo estableci
 
 V. Integrantes del Ayuntamiento, se procederá de conformidad con la Ley Orgánica Municipal del Estado de Guanajuato.
 
-### Capítulo III. Procedimiento para Declarar la Imposibilidad de los Municipios para Ejercer una Función o Prestar un Servicio Público
+### Capítulo II. Substanciación del Trámite para Declarar Desaparecido un Ayuntamiento o Suspender o Revocar el Mandato a alguno de sus integrantes
 
 ###### Artículo 236.
 
@@ -2545,7 +2595,7 @@ Cuando la queja se deba a la ausencia absoluta de la mayoría de los integrantes
 
 Si el Congreso del Estado dicta la revocación del mandato en contra de cualquier miembro de los ayuntamientos, en la resolución correspondiente el propio Congreso del Estado decretará la suspensión, ordenando se llame al suplente si se tratare de síndicos o regidores. Si la persona suspendida fuera la titular de la Presidencia Municipal, la designación del interino o del sustituto en su caso, se llevará a cabo por el Ayuntamiento.
 
-### Capítulo IV. Procedimiento para la Erección de un Nuevo Municipio
+### Capítulo III. Procedimiento para Declarar la Imposibilidad de los Municipios para Ejercer una Función o Prestar un Servicio Público
 
 ###### Artículo 247.
 
@@ -2569,7 +2619,7 @@ III. Transcurrido el término anterior, la Comisión de Asuntos Municipales elab
 
 IV. En el supuesto de que el Congreso del Estado resuelva favorablemente la solicitud del Ayuntamiento, esta resolución deberá determinar las condiciones en que el Poder Ejecutivo del Estado, asumirá el ejercicio de la función o la prestación del servicio público de que se trate, atendiendo a las circunstancias de cada caso concreto.
 
-### Capítulo I. Auditoría Superior del Estado
+### Capítulo IV. Procedimiento para la Erección de un Nuevo Municipio
 
 ###### Artículo 250.
 
@@ -2623,7 +2673,7 @@ El Congreso del Estado y las autoridades municipales nombradas, atenderán en el
 
 ## TÍTULO DÉCIMO. De la Organización del Congreso del Estado
 
-### Capítulo II. Organización Interna del Congreso del Estado
+### Capítulo I. Auditoría Superior del Estado
 
 ###### Artículo 256.
 
@@ -2631,7 +2681,7 @@ El Congreso del Estado ejercerá las funciones técnicas de fiscalización a tra
 
 La Auditoría Superior del Estado tendrá las unidades administrativas necesarias para el cumplimiento de las funciones que les competen, de conformidad con la disponibilidad presupuestal y su normatividad.
 
-### Capítulo III. Secretaría General
+### Capítulo II. Organización Interna del Congreso del Estado
 
 ###### Artículo 257.
 
@@ -2645,7 +2695,7 @@ II. Contraloría Interna del Poder Legislativo.
 
 Las dependencias señaladas en el artículo anterior, tendrán las unidades administrativas necesarias para el cumplimiento de las funciones que les competen, de conformidad con el Presupuesto de Egresos del Poder Legislativo del Estado, con la presente Ley, así como con el Estatuto del Servicio Civil de Carrera, reglamentos y manuales de organización y funcionamiento.
 
-### Capítulo IV. Contraloría Interna del Poder Legislativo
+### Capítulo III. Secretaría General
 
 ###### Artículo 259.
 
@@ -2679,9 +2729,17 @@ XIII. Establecer los mecanismos de seguimiento legislativo, coordinando para tal
 
 XIV. Llevar un registro en el que se asienten las comunicaciones y correspondencia que se dirigen al Poder Legislativo, que no correspondan de manera directa a otro órgano o unidad con autonomía técnica;
 
-XV. Coordinar los servicios de la Gaceta Parlamentaria del Poder Legislativo; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-XVI. Las demás que le asigne el Pleno, la Diputación Permanente y la Junta de Gobierno y Coordinación Política.
+XV. Coordinar los servicios de la Gaceta Parlamentaria del Poder Legislativo;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XVI. Articular las acciones de apoyo técnico y material de sus áreas de adscripción para el análisis del informe de la situación que guarda la administración pública estatal y el grado de avance de los objetivos en cumplimiento de las metas establecidas en el Programa de Gobierno por parte del Congreso del Estado, conforme a los lineamientos que al efecto establezca la Junta de Gobierno y Coordinación Política; y
+
+(REUBICADA, P.O. 7 DE JULIO DE 2021)
+
+XVII. Las demás que le asigne el Pleno, la Diputación Permanente y la Junta de Gobierno y Coordinación Política.
 
 ###### Artículo 260.
 
@@ -2797,11 +2855,21 @@ X. Coordinar la compilación y difusión de las normas, decretos, acuerdos y dis
 
 XI. Dar a conocer a la ciudadanía a través de la página de internet del Congreso del Estado, las funciones del Poder Legislativo, las atribuciones de los Diputados y el proceso legislativo;
 
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-XII. Colaborar con el Centro de Estudios Parlamentarios, de conformidad con el Manual de Organización del mismo; y
+XII. Colaborar con el Centro de Estudios Parlamentarios, de conformidad con el Manual de Organización del mismo;
 
-XIII. Las demás que acuerde el Pleno, la Diputación Permanente o la Junta de Gobierno y Coordinación Política.
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XIII. Realizar las gestiones para la realización de la Convención Legislativa de Seguridad Pública y Prevención Social de la Violencia y la Delincuencia;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XIV. Colaborar en el análisis del informe de la situación que guarda la administración pública estatal y el grado de avance de los objetivos en cumplimiento de las metas establecidas en el Programa de Gobierno conforme a los lineamientos que emita la Junta de Gobierno y Coordinación Política; y
+
+(REUBICADA, P.O. 7 DE JULIO DE 2021)
+
+XV. Las demás que acuerde el Pleno, la Diputación Permanente y la Junta de Gobierno y Coordinación Política.
 
 ###### Artículo 267.
 
@@ -2967,11 +3035,17 @@ X. Elaborar y sugerir estudios sobre las remuneraciones que deben recibir los in
 
 XI. Elaborar y proponer su programa anual de actividades;
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-XII. Elaborar semestralmente los informes estadísticos, económicos y financieros y remitirlos a la Junta de Enlace en Materia Financiera para la toma de decisiones; y
+XII. Elaborar semestralmente los informes estadísticos, económicos y financieros y remitirlos a la Junta de Enlace en Materia Financiera para la toma de decisiones;
 
-XIII. Realizar las gestiones para la verificación de la Junta de Enlace en Materia Financiera y colaborar en la ejecución de sus funciones, por instrucción de la Presidencia de la Comisión de Hacienda y Fiscalización.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XIII. Realizar las gestiones para la verificación de la Junta de Enlace en Materia Financiera y colaborar en la ejecución de sus funciones, por instrucción de la Presidencia de la Comisión de Hacienda y Fiscalización; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+XIV. Colaborar en el análisis del informe de la situación que guarda la administración pública estatal y el grado de avance de los objetivos en cumplimiento de las metas establecidas en el Programa de Gobierno conforme a los lineamientos que emita la Junta de Gobierno y Coordinación Política.
 
 ###### Artículo 277.
 
@@ -3053,13 +3127,17 @@ III. Recabar información de campo y realizar encuestas para medir el impacto so
 
 IV. Presentar un informe anual del impacto de las leyes y decretos conforme a los indicadores dados a conocer;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-V. Realizar un análisis objetivo de la oportunidad y necesidad de crear, modificar o derogar un decreto o ley sobre cierto tema a solicitud del Pleno, Diputación Permanente, Junta de Gobierno y Coordinación Política o cualquier comisión legislativa; y
+V. Realizar un análisis objetivo de la oportunidad y necesidad de crear, modificar o derogar un decreto o ley sobre cierto tema a solicitud del Pleno, Diputación Permanente, Junta de Gobierno y Coordinación Política o cualquier comisión legislativa;
 
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2021)</small>
 
-VI. Colaborar con el Centro de Estudios Parlamentarios de conformidad con el Manual de Organización del mismo.
+VI. Colaborar con el Centro de Estudios Parlamentarios de conformidad con el Manual de Organización del mismo; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+VII. Colaborar en el análisis del informe de la situación que guarda la administración pública estatal y el grado de avance de los objetivos en cumplimiento de las metas establecidas en el Programa de Gobierno conforme a los lineamientos que emita la Junta de Gobierno y Coordinación Política.
 
 ###### Artículo 283.
 
@@ -3139,7 +3217,7 @@ El Centro de Estudios Parlamentarios deberá articular sus acciones con los serv
 
 Atendiendo a la disponibilidad presupuestaria del Poder Legislativo, el Centro de Estudios Parlamentarios y conforme a los lineamientos que proponga la Dirección General de Administración y aprobados por la Junta de Gobierno y Coordinacion Política, contará con un programa anual de formación de becarios, pasantes e investigadores, con el propósito de formar a profesionistas en el planeamiento, desarrollo, ejecución y análisis de estudios de investigación científica, en las áreas parlamentarias y de finanzas públicas.
 
-### Capítulo Único. Gaceta Parlamentaria
+### Capítulo IV. Contraloría Interna del Poder Legislativo
 
 ###### Artículo 286.
 
@@ -3253,7 +3331,7 @@ En tanto se hace la designación correspondiente, la Junta de Gobierno y Coordin
 
 ## Título Undécimo. Gaceta Parlamentaria
 
-### Capítulo Único. Servicio Civil de Carrera
+### Capítulo Único. Gaceta Parlamentaria
 
 ###### Artículo 292.
 
@@ -3298,6 +3376,8 @@ El orden del día, las iniciativas, dictámenes, votos particulares, actas, minu
 Lo anterior se aplicará en lo conducente a las Comisiones Legislativas.
 
 ## TÍTULO DUODÉCIMO. Servicio Civil de Carrera
+
+### Capítulo Único. Servicio Civil de Carrera
 
 ###### Artículo 293.
 
@@ -3458,3 +3538,9 @@ P.O. 27 DE AGOSTO DE 2020.
 Artículo primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo segundo. La Junta de Gobierno y Coordinación Política deberá adecuar los Lineamientos para el desarrollo de las sesiones del Pleno y reuniones de Comisiones a distancia del Congreso del Estado de Guanajuato, en congruencia con lo previsto en el presente Decreto, en un término de 10 días posteriores a la entrada en vigor del mismo.
+
+P.O. 7 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 333, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
