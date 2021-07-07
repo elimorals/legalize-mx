@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-fomento-de-la-lectura-y-el-libro-del-estado-de-1022
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-03"
-last_updated: "2014-09-03"
+last_updated: "2021-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA EL FOMENTO DE LA LECTURA Y EL LIBRO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de septiembre de 2014.
 
@@ -41,7 +41,9 @@ RESULTANDO SEGUNDO. Por acuerdo de la Presidencia de la Mesa Directiva, la Inici
 
 RESULTANDO TERCERO. La Iniciativa de Decreto se sustentó en la siguiente:
 
-“EXPOSICIÓN DE MOTIVOS...
+“EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -98,6 +100,10 @@ V Estimular la capacitación y formación profesional de los diferentes actores 
 VI Estimular la formación de círculos de lectura permanente en el sector público y privado, a fin de que en cada entidad pública estatal y municipal, dependencia y organismo, la lectura formativa, técnica especializada y aún la recreativa, sea parte de sus actividades ordinarias, y
 
 VII Apoyar la red de bibliotecas públicas municipales, las bibliotecas comunitarias y salas de cultura.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2021)</small>
+
+VIII Incorporar la perspectiva de género en las políticas, programas, proyectos y acciones enfocadas al fomento y promoción de la lectura, como una visión científica, analítica, política y cultural sobre las mujeres y los hombres a fin de eliminar la desigualdad, la injusticia y la jerarquización de las personas basadas en el género.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES RESPONSABLES
 
@@ -286,3 +292,11 @@ PROFR. FRANCISCO ESCOBEDO VILLEGAS.
 EL SECRETARIO DE EDUCACIÓN
 
 PROFR. MARCO VINICIO FLORES CHÁVEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 646.- POR EL CUAL SE ADICIONA UNA FRACCIÓN VIII DEL ARTÍCULO 3º, DE LA LEY PARA EL FOMENTO DE LA LECTURA Y EL LIBRO DEL ESTADO DE ZACATECAS”.]
+
+Artículo único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
