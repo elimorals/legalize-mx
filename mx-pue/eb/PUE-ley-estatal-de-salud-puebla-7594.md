@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2021-04-09"
+last_updated: "2021-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -271,13 +271,17 @@ VII. Promover el conocimiento, desarrollo e investigación de la Medicina Tradic
 
 VIII. Coadyuvar en la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2021)</small>
 
-IX. Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud, y
+IX. Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud;
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2021)</small>
 
-X. Elaborar y promover programas y servicios de salud especialmente dirigidos a las comunidades indígenas de acuerdo a sus tradiciones, usos y costumbres, respetando sus derechos humanos.
+X. Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE JULIO DE 2021)</small>
+
+XI. Elaborar y promover programas y servicios de salud especialmente dirigidos a las comunidades indígenas de acuerdo a sus tradiciones, usos y costumbres, respetando sus derechos humanos.
 
 ###### ARTICULO 7º.
 
@@ -3450,3 +3454,11 @@ P.O. 9 DE ABRIL DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IX Y X, Y ADICIONA LA FRACCIÓN XI AL ARTÍCULO 6 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
