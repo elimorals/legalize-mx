@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-las-personas-adultas-mayores-para-el-965
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-08"
-last_updated: "2019-08-01"
+last_updated: "2021-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2021.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de noviembre de 2013.
 
@@ -837,13 +837,19 @@ IX. Allegarse de elementos de información y orientación gerontológica y geri�
 
 X. Procurar que los cuidados proporcionados a las personas adultas mayores comprendan:
 
-a) El derecho a ser examinadas médicamente, para el cuidado de su salud y recibir los medicamentos que requieran en caso de enfermedad;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2021)</small>
+
+a) El derecho a ser examinadas medicamente, para el cuidado de su salud física y mental y recibir los medicamentos que requieran en caso de enfermedad;
 
 b) El derecho a ser sujetos de confidencialidad y participar en las decisiones que sobre su estado de salud se generen; y
 
 c) El derecho a tener una nutrición adecuada y apropiada; y
 
 XI. Asistir, ayudar y amparar a las personas adultas mayores en la carencia o enfermedad.
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2021)</small>
+
+XII. Atender las necesidades psico-emocionales de la persona adulta mayor, ya sea que esta se encuentre en su domicilio, en el domicilio familiar o en alguna institución pública o privada, casa hogar, albergue, residencia o cualquier otro centro de atención para las personas adultas mayores, a efecto de mantener los lazos familiares.
 
 Derecho de la persona adulta mayor al contacto con su círculo familiar y afectivo
 
@@ -1236,3 +1242,11 @@ Procesos de entrega recepción
 Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
 
 El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
+
+P.O. 8 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 323 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
