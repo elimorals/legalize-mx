@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2021-05-19"
+last_updated: "2021-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -423,7 +423,9 @@ VII.- El establecimiento, regulación, administración y vigilancia de áreas na
 
 VIII.- La prevención y control de la contaminación provocada por las emisiones de humos, gases, partículas sólidas, ruido, vibraciones, energía térmica o lumínica, olores, generadas por establecimientos industriales, así como por fuentes móviles que circulen en la entidad, en los términos establecidos en la Ley;
 
-IX.- La aplicación de políticas y programas, en coordinación con las Autoridades de Protección Civil, en casos de emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2021)</small>
+
+IX.- La aplicación de las medidas, políticas y programas, en coordinación con las autoridades de Protección Civil, para la prevención y el control de emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
 
 X.- La prevención y control de la contaminación de los recursos naturales en los términos de la Ley;
 
@@ -2089,9 +2091,11 @@ I.- Tratándose de fenómenos naturales o antrópicos localizadas en el Estado d
 
 II.- Tratándose de los vehículos automotores que circulen en el Estado de Puebla y sus municipios, al día siguiente al que se den a conocer.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 152.
 
-La declaratoria establecerá el plazo durante el cual permanecerán vigentes las medidas, así como los términos en que podrán prorrogarse, en su caso.
+La declaratoria establecerá el plazo durante el cual permanecerán vigentes las medidas; las condiciones y los términos en los que podrán prorrogarse.
 
 ###### ARTÍCULO 153.
 
@@ -2704,3 +2708,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado una vez a la entrada en vigor del presente Decreto, contará con ciento ochenta días hábiles para la adecuación de la reglamentación aplicable, en términos del presente Decreto.
+
+P.O. 8 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 5 Y EL ARTÍCULO 152 DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
