@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-auditoria-superior-de-la-118264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-01-20"
-last_updated: "2018-07-13"
+last_updated: "2021-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118264&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-01-16"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JULIO DE 2021.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 20 de enero de 2017.
 
@@ -871,6 +871,10 @@ I. Iniciar el proceso de fiscalización a partir del primer día hábil del ejer
 
 II. Establecer los lineamientos técnicos y criterios para las auditorías y su seguimiento, procedimientos, investigaciones, encuestas, métodos y sistemas necesarios para la fiscalización superior;
 
+> <small>(ADICIONADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+II Bis. Implementar el Buzón Digital de la Auditoría Superior de la Federación, así como las herramientas tecnológicas que sean necesarias para llevar a cabo el proceso de fiscalización superior por medios electrónicos;
+
 III. Proponer, en los términos de la Ley General de Contabilidad Gubernamental y la Ley Federal de Archivos las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad; las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública; así como todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica eficiente de las auditorías;
 
 IV. Proponer al Consejo Nacional de Armonización Contable, en los términos de la Ley General de Contabilidad Gubernamental, modificaciones a la forma y contenido de la información de la Cuenta Pública y a los formatos de integración correspondientes;
@@ -887,7 +891,9 @@ IX. Requerir a los auditores externos copia de los informes y dictámenes de las
 
 X. Requerir a terceros que hubieran contratado con las entidades fiscalizadas obra pública, bienes o servicios mediante cualquier título legal y a cualquier entidad o persona física o moral, pública o privada, o aquellos que hayan sido subcontratados por terceros, la información relacionada con la documentación justificativa y comprobatoria del ejercicio de recursos públicos;
 
-XI. Solicitar, obtener y tener acceso a toda la información y documentación, que a juicio de la Auditoría Superior de la Federación sea necesaria para llevar a cabo la auditoría correspondiente que obre en poder de las entidades fiscalizadas; en la Secretaría de la Función Pública y homólogas en las entidades federativas; los órganos internos de control; las entidades fiscalizadoras locales; los auditores externos de las entidades fiscalizadas; las instituciones de crédito, fideicomisos u otras figuras del sector financiero, y las autoridades hacendarias federales y locales;
+> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+XI. Solicitar, obtener y acceder a toda la información y documentación, a través de medios físicos o electrónicos mediante herramientas tecnológicas, que a juicio de la Auditoría Superior de la Federación sea necesaria para llevar a cabo la auditoría correspondiente que obre en poder de las entidades fiscalizadas; en la Secretaría de la Función Pública y homólogas en las entidades federativas; los órganos internos de control; las entidades fiscalizadoras locales; los auditores externos de las entidades fiscalizadas; las instituciones de crédito, fideicomisos u otras figuras del sector financiero, y las autoridades hacendarias federales y locales
 
 XII. Fiscalizar los recursos públicos federales que la Federación haya otorgado a entidades federativas, municipios y alcaldías de la Ciudad de México, fideicomisos, fondos, mandatos o cualquier otra figura análoga, personas físicas o morales, públicas o privadas, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
 
@@ -923,7 +929,9 @@ XXVII. Comprobar la existencia, procedencia y registro de los activos y pasivos 
 
 XXVIII. Fiscalizar el financiamiento público en los términos establecidos en la Ley de Fiscalización y Rendición de Cuentas de la Federación, así como en las demás disposiciones jurídicas aplicables;
 
-XXIX. Solicitar la información financiera, incluyendo los registros contables, presupuestarios, programáticos y económicos, así como los reportes institucionales y de los sistemas de contabilidad gubernamental que los entes públicos están obligados a operar con el propósito de consultar la información contenida en los mismos, y
+> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+XXIX. Solicitar a través de medios físicos o electrónicos mediante herramientas tecnológicas, la información financiera, incluyendo los registros contables, presupuestarios, programáticos y económicos, así como los reportes institucionales y de los sistemas de contabilidad gubernamental que los entes públicos están obligados a operar con el propósito de consultar la información contenida en los mismos, y
 
 XXX. Las demás que le sean conferidas por las disposiciones jurídicas aplicables.
 
@@ -949,7 +957,13 @@ II. Administrar los bienes y recursos a cargo de la Auditoría Superior de la Fe
 
 III. Ser el enlace entre la Auditoría Superior de la Federación y la Comisión;
 
-IV. Solicitar a las entidades fiscalizadas, servidores públicos y a los particulares, sean éstos personas físicas o morales, la información que con motivo de la fiscalización superior se requiera;
+> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+IV. Solicitar a través de medios físicos o electrónicos mediante herramientas tecnológicas a las entidades fiscalizadas, servidores públicos y a los particulares, sean éstos personas físicas o morales, la información que con motivo de la fiscalización superior se requiera;
+
+> <small>(ADICIONADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+IV Bis. Determinar la suspensión o cambio de modalidad de las auditorías, y ordenar la publicación de dicha determinación de conformidad con lo establecido en la fracción VII del artículo 17 Ter de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
 V. Solicitar a las entidades fiscalizadas el auxilio que necesite para el ejercicio expedito de las funciones de fiscalización superior;
 
@@ -1004,6 +1018,10 @@ II. Aprobar el programa anual de actividades, el programa anual de auditorías y
 III. Expedir de conformidad con lo establecido en la Ley de Fiscalización y Rendición de Cuentas de la Federación y hacerlo del conocimiento de la Comisión, el Reglamento Interior de la Auditoría Superior de la Federación, en el que se distribuirán las atribuciones a sus unidades administrativas y sus titulares, además de establecer la forma en que deberán ser suplidos estos últimos en sus ausencias, su organización interna y funcionamiento y remitirlo al Diario Oficial de la Federación para su publicación;
 
 IV. Expedir los manuales de organización y procedimientos que se requieran para la debida organización y funcionamiento de la Auditoría Superior de la Federación, los que deberán ser conocidos previamente por la Comisión, y publicados en el Diario Oficial de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+IV Bis. Expedir las Reglas de carácter general aplicables a los procesos de fiscalización superior por medios electrónicos, así como la normatividad relativa a los protocolos de seguridad que para tal efecto se implementen.
 
 V. Expedir las normas para el ejercicio, manejo y aplicación del presupuesto de la Auditoría Superior de la Federación, conforme a la autonomía presupuestal que tiene otorgada, ajustándose al Presupuesto de Egresos y demás disposiciones jurídicas aplicables;
 
@@ -1229,6 +1247,10 @@ XV. Coordinar y supervisar las auditorías practicadas por las direcciones gener
 
 XVI. Verificar que las entidades fiscalizadas que hubieren captado, recaudado, custodiado, manejado, administrado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes, con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
+> <small>(ADICIONADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+XVI Bis. Determinar la suspensión o cambio de modalidad de las auditorías, y ordenar la publicación de dicha determinación de conformidad con lo establecido en la fracción VII del artículo 17 Ter de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+
 XVII. Verificar que las auditorías a su cargo incluyan el examen relativo al establecimiento, por parte de las entidades fiscalizadas, de los mecanismos adecuados para medir e informar sobre los resultados y la eficacia de las acciones, así como sobre la adopción de las prácticas más convenientes de control interno y para la gestión pública;
 
 XVIII. Proponer la actualización del marco normativo general y de los criterios para la fiscalización superior a cargo de la Auditoría Superior de la Federación, así como de las demás reglas, lineamientos, directrices, estándares y cualquier otra disposición de carácter interno;
@@ -1317,13 +1339,19 @@ LIX. Autorizar la inclusión en los informes individuales de auditoría de las a
 
 LX. Coordinarse, en su caso con los titulares de las entidades fiscalizadoras locales en el Marco del Sistema Nacional de Fiscalización;
 
-LXI. Grabar en audio o video cualquiera de las reuniones de trabajo y audiencias previstas en la Ley de Fiscalización y Rendición de Cuentas de la Federación, previo consentimiento por escrito de la o las personas que participen o a solicitud de la entidad fiscalizada, para integrar el archivo electrónico correspondiente;
+> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+LXI. Grabar en audio o video cualquiera de las reuniones de trabajo y audiencias previstas en la Ley de Fiscalización y Rendición de Cuentas de la Federación, previo consentimiento por escrito signado con firma autógrafa o bien, firma electrónica cuando se trate del proceso de fiscalización por medios electrónicos, de la o las personas que participen o a solicitud de la entidad fiscalizada, para integrar el archivo electrónico correspondiente;
 
 LXII. Solicitar a las entidades fiscalizadas información del ejercicio en curso respecto de procesos concluidos, para la planeación de la fiscalización superior, y
 
 LXIII. Las demás que en el ámbito de su competencia les establezcan las disposiciones jurídicas aplicables o les encargue el Auditor Superior de la Federación.
 
 Los Auditores Especiales para el despacho de los asuntos de su competencia serán auxiliados por los Directores Generales, Directores, Subdirectores, Jefes de Departamento, Coordinadores de Auditores y Auditores y demás servidores públicos señalados en el artículo 3 de este Reglamento; así como por los Grupos de Asesores, Consultores, Secretarios Técnicos y demás personal de apoyo especializado para el mejor desempeño de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones VII, VIII, IX, XVI, XVII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, LVI, LXI, LXII y LXIII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 ###### Artículo 13.
 
@@ -1371,6 +1399,10 @@ XVI. Revisar la gestión financiera de las entidades fiscalizadas, durante el ej
 
 XVII. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables y el Auditor Superior de la Federación.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones I, II, III, III Bis, IV, V, VI, VII, VIII, IX, X, XI, XII, XV, XVI y XVII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
 ###### Artículo 14.
 
 La Auditoría Especial de Desempeño a través de su titular ejercerá las atribuciones siguientes:
@@ -1411,6 +1443,10 @@ IX Quiquies. Coordinar las funciones del Centro de Estudios de la Auditoría Sup
 
 X. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables y el Auditor Superior de la Federación.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones I a VIII, IX bis, IX Ter y X, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
 ###### Artículo 15.
 
 (DEROGADO, D.O.F. 13 DE JULIO DE 2018)
@@ -1449,7 +1485,7 @@ XIV. Aprobar los documentos, informes y reportes que integran la información su
 
 XV. Aprobar la realización de auditorías y estudios a las políticas, estrategias y materias relevantes del gasto federalizado, incluidas las participaciones federales, y supervisar la evaluación de la gestión de los fondos y programas, así como el cumplimiento de sus metas y objetivos;
 
-XVI. Autorizar y supervisar la implementación y operación de un sistema para el control y seguimiento de la atención a las denuncias y solicitudes de intervención que formule la Comisión, los legisladores, ciudadanos y otras instancias, respecto del gasto federalizado;
+XVI. (DEROGADA, D.O.F. 8 DE JULIO DE 2021)
 
 XVII. Coordinar y supervisar la elaboración de propuestas para mejorar las políticas públicas y estrategias vinculadas con los fondos y programas del gasto federalizado, así como las asesorías que solicite al respecto la Cámara;
 
@@ -1468,6 +1504,10 @@ XXIII. Proponer al Auditor Superior de la Federación estrategias y acciones par
 XXIV. Coordinar y supervisar la formulación, implementación, seguimiento y evaluación de estrategias para impulsar la participación social en la vigilancia del gasto federalizado, y
 
 XXV. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables y el Auditor Superior de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones III, V, VI, VII, IX, X, XIV, XV, XXII y XXV, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
@@ -1516,6 +1556,10 @@ XIX. Coordinar, en su caso, la práctica de visitas de verificación;
 XX. Formular, en su caso, requerimientos de información a los entes públicos y a las personas físicas o morales que sean materia de investigación en términos de las disposiciones aplicables, y
 
 XXI. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables y el Auditor Superior de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones II, VI, VII, IX, X, XIII, XIV, XX y XXI, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 ### Capítulo IV. De las Atribuciones de los Titulares de Unidad
 
@@ -1675,7 +1719,13 @@ II. Coadyuvar en el seguimiento de la ejecución del Programa Anual de Auditorí
 
 III. Coordinar la integración y actualización del marco normativo general y la elaboración de los criterios para la fiscalización superior a cargo de la Auditoría Superior de la Federación;
 
-IV. Planear, coordinar y supervisar el desarrollo e implantación de políticas y sistemas de informática de la Auditoría Superior de la Federación;
+> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+IV. Planear, coordinar y supervisar el desarrollo e implementación de políticas, sistemas de informática y herramientas tecnológicas de la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+IV Bis. Autorizar y supervisar la implementación y operación del sistema para la presentación y atención de las denuncias electrónicas a que se refiere la Ley de Fiscalización y Rendición de Cuentas de la Federación.
 
 V. Impulsar y participar en la homologación de la legislación de las entidades federativas y municipios que se relacione con la fiscalización, rendición de cuentas y transparencia, en el marco del Sistema Nacional de Fiscalización, del Sistema Nacional Anticorrupción y del Sistema Nacional de Transparencia;
 
@@ -1889,7 +1939,9 @@ LXIII. Llevar a cabo las acciones para cumplir con las disposiciones jurídicas 
 
 LXIV. (DEROGADA, D.O.F. 13 DE JULIO DE 2018)
 
-LXV. Grabar en audio o video cualquiera de las reuniones de trabajo y audiencias previstas en la Ley de Fiscalización y Rendición de Cuentas de la Federación, previo consentimiento por escrito de la o las personas que participen o a solicitud de la entidad fiscalizada, para integrar el archivo electrónico correspondiente;
+> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+LXV. Grabar en audio o video cualquiera de las reuniones de trabajo y audiencias previstas en la Ley de Fiscalización y Rendición de Cuentas de la Federación, previo consentimiento por escrito signado con firma autógrafa o bien, firma electrónica cuando se trate del proceso de fiscalización por medios electrónicos, de la o las personas que participen o a solicitud de la entidad fiscalizada, para integrar el archivo electrónico correspondiente.
 
 LXVI. Emitir los dictámenes relativos a la destrucción de la documentación que obre en los archivos de la Auditoría Superior de la Federación conforme a las disposiciones jurídicas aplicables en materia de transparencia y acceso a la información;
 
@@ -1904,6 +1956,10 @@ LXX. Las demás que en el ámbito de sus respectivas competencias les otorguen l
 Las atribuciones a que se refieren las fracciones XLII y XLIV de este artículo podrán ser ejercidas indistintamente por los Directores, Subdirectores, Jefes de Departamento, Coordinadores de Auditores y Auditores adscritos a la dirección general de que se trate.
 
 Los Directores Generales, para el despacho de los asuntos de su competencia, serán auxiliados por los Directores, Subdirectores, Jefes de Departamento, Coordinadores de Auditores y Auditores señalados en el artículo 3 de este Reglamento; así como por los Secretarios Técnicos, Administrativos, Apoyos Técnicos y demás personal de apoyo especializado para el mejor desempeño de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones V, VI, IX, XXI, XXIII, XXIV, XXV, XXVI, XXVIII, XXX, XXXIII, XXXIV, XXXV, XXXVI, LII, LX, LXII, LXV y LXX, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 ###### Artículo 22.
 
@@ -1929,6 +1985,10 @@ IX. Elaborar, de conformidad con lo establecido en el artículo 36 de la Ley de 
 
 X. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones I, II, IV, VI, VII, VIII y X, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
 ###### Artículo 23.
 
 La Dirección General de Auditoría Financiera Federal “B” estará adscrita a la Auditoría Especial de Cumplimiento Financiero y su titular tendrá las siguientes atribuciones:
@@ -1952,6 +2012,10 @@ VIII. Solicitar a las entidades fiscalizadas información financiera que se requ
 IX. Elaborar, de conformidad con lo establecido en el artículo 36 de la Ley de Fiscalización y Rendición de Cuentas de la Federación, los informes individuales de las auditorías que se practiquen y someterlos a la consideración y autorización del Auditor Especial de Cumplimiento Financiero, y
 
 X. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones I, II, IV, VI, VII, VIII y X, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 ###### Artículo 24.
 
@@ -1977,6 +2041,10 @@ IX. Elaborar, de conformidad con lo establecido en el artículo 36 de la Ley de 
 
 X. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones I, II, IV, VI, VII, VIII y X, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
 ###### Artículo 25.
 
 La Dirección General de Auditoría de Inversiones Físicas Federales estará adscrita a la Auditoría Especial de Cumplimiento Financiero y su titular tendrá las siguientes atribuciones:
@@ -2000,6 +2068,10 @@ VIII. Solicitar a las entidades fiscalizadas la información financiera que se r
 IX. Elaborar, de conformidad con lo establecido en el artículo 36 de la Ley de Fiscalización y Rendición de Cuentas de la Federación, los informes individuales de las auditorías que se practiquen y someterlos a la consideración y autorización del Auditor Especial de Cumplimiento Financiero, y
 
 X. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones I, III, IV, V, VI, VII, VIII y X, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 ###### Artículo 26.
 
@@ -2059,7 +2131,9 @@ XVII. Elaborar, de conformidad con lo establecido en el artículo 36 de la Ley d
 
 XVIII. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones I, II, III, IV, V, VII, VIII, IX, XI, XIII, XVI y XVIII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
@@ -2091,6 +2165,10 @@ XI. Proponer a su superior jerárquico la celebración de convenios, bases de co
 
 XII. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones I, II, IV, V, VII y XII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
 ###### Artículo 27.
 
 La Dirección General de Auditoría de Desempeño al Desarrollo Económico estará adscrita a la Auditoría Especial de Desempeño y su titular tendrá las siguientes atribuciones:
@@ -2108,6 +2186,10 @@ V. Constatar que en las revisiones realizadas los bienes producidos y servicios 
 VI. Instruir la revisión del cumplimiento de los objetivos y metas fijados en los programas federales, conforme a los indicadores estratégicos y de gestión establecidos en el Presupuesto de Egresos, tomando en cuenta el Plan Nacional de Desarrollo, los programas nacionales, sectoriales, institucionales, regionales y especiales, entre otros, para verificar el desempeño de los mismos y la legalidad en el uso de recursos públicos federales, conforme a las disposiciones jurídicas aplicables. Lo anterior, con independencia de las atribuciones similares que tengan otras instancias, y
 
 VII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones II, III, V y VII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 ###### Artículo 28.
 
@@ -2127,6 +2209,10 @@ VI. Instruir la revisión del cumplimiento de los objetivos y metas fijados en l
 
 VII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones II, III, V y VII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
 ###### Artículo 29.
 
 La Dirección General de Auditoría de Desempeño a Gobierno y Finanzas estará adscrita a la Auditoría Especial de Desempeño y su titular tendrá las siguientes atribuciones:
@@ -2145,6 +2231,10 @@ VI. Instruir la revisión del cumplimiento de los objetivos y metas fijados en l
 
 VII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones II, III, V y VII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
 ###### Artículo 30.
 
 La Dirección General de Auditoría de Desempeño a Programas Presupuestarios estará adscrita a la Auditoría Especial de Desempeño y su titular tendrá las siguientes atribuciones:
@@ -2160,6 +2250,10 @@ IV. Proponer a su superior jerárquico la contratación de asesorías, consultor
 V. Evaluar el cumplimiento de los objetivos y metas fijados en los programas presupuestarios, conforme a los indicadores estratégicos y de gestión establecidos en el Presupuesto de Egresos tomando en cuenta el Plan Nacional de Desarrollo, los programas sectoriales, institucionales, regionales y especiales, entre otros, para verificar el desempeño de los mismos conforme a las disposiciones jurídicas aplicables. Lo anterior con independencia de las atribuciones similares que tengan otras instancias, y
 
 VI. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+La atribución a que hace referencia las fracciones II, III y VI, de este artículo podrá ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 ###### Artículo 31.
 
@@ -2208,6 +2302,10 @@ XVII. Evaluar, como parte de los trabajos de fiscalización, los informes perió
 XVIII. Identificar y analizar las prácticas nacionales e internacionales, con el objeto de elaborar y proponer, para su autorización, proyectos que fortalezcan el marco normativo en materia de control interno, administración de riesgos institucionales, integridad, prevención, disuasión y detección de actos de corrupción en el sector público, en el marco del Sistema Nacional de Fiscalización, y
 
 XIX. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones I, III y XIX, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
@@ -2307,6 +2405,10 @@ XXIV. Proponer a su superior jerárquico acciones de mejora de la gestión de la
 
 XXV. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones V, X, XI y XXV, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
 ###### Artículo 35.
 
 La Dirección General de Auditoría a los Recursos Federales Transferidos “A”, estará adscrita a la Auditoría Especial del Gasto Federalizado y su titular tendrá las siguientes atribuciones:
@@ -2352,6 +2454,10 @@ XIX. Establecer las acciones de coordinación y comunicación necesarias con la 
 XX. Practicar auditorías sobre el desempeño a las entidades fiscalizadas, en los términos previstos en la Ley de Fiscalización y Rendición de Cuentas de la Federación, y
 
 XXI. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones II, III, V, VI, VIII, IX, XIII, XV, XVIII, XX y XXI, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 ###### Artículo 36.
 
@@ -2399,6 +2505,10 @@ XX. Practicar auditorías sobre el desempeño a las entidades fiscalizadas, en l
 
 XXI. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones II, III, V, VI, VIII, IX, XIII, XV, XVIII, XX y XXI, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
 ###### Artículo 37.
 
 La Dirección General de Auditoría a los Recursos Federales Transferidos “C”, estará adscrita a la Auditoría Especial del Gasto Federalizado y su titular tendrá las siguientes atribuciones:
@@ -2444,6 +2554,10 @@ XIX. Establecer las acciones de coordinación y comunicación necesarias con la 
 XX. Practicar auditorías sobre el desempeño a las entidades fiscalizadas, en los términos previstos en la Ley de Fiscalización y Rendición de Cuentas de la Federación, y
 
 XXI. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones II, III, V, VI, VIII, IX, XIII, XV, XVIII, XX y XXI, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 ###### Artículo 38.
 
@@ -2491,6 +2605,10 @@ XX. Practicar auditorías sobre el desempeño a las entidades fiscalizadas, en l
 
 XXI. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones II, III, V, VI, VIII, IX, XIII, XV, XVIII, XX y XXI, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
 > <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
 ###### Artículo 38 Bis.
@@ -2521,6 +2639,10 @@ XI. Establecer criterios, procedimientos y reglas para la adecuada integración 
 
 XII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones I a la VII, X y XII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
 > <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
 ###### Artículo 38 Ter.
@@ -2550,6 +2672,10 @@ X. Comisionar personal durante la ejecución de las auditorías, cuando así lo 
 XI. Establecer criterios, procedimientos y reglas para la adecuada integración de los elementos técnicos, jurídicos y administrativos que deben obtener las unidades administrativas auditoras durante la ejecución de las auditorías, y
 
 XII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones I a la VII, X y XII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
@@ -2595,6 +2721,10 @@ XVIII. Diseñar, operar y actualizar el Directorio de Servidores Públicos de la
 
 XIX. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones IX, XIV, XVII y XIX, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
 > <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
 Artículo 38 Quiquies. La Dirección General de Investigación es la unidad administrativa de la Auditoría Superior de la Federación a cargo de las investigaciones de las faltas administrativas derivadas de la fiscalización superior.
@@ -2605,7 +2735,9 @@ Artículo 38 Quiquies. La Dirección General de Investigación es la unidad admi
 
 La Dirección General de Investigación deberá observar los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos.
 
-La investigación por la presunta responsabilidad de faltas administrativas iniciará derivado de las auditorías practicadas durante la fiscalización superior.
+> <small>(REFORMADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+La investigación por la presunta responsabilidad de faltas administrativas iniciará derivado de las auditorías practicadas de forma presencial o a través de medios electrónicos durante la fiscalización superior.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
@@ -3055,7 +3187,9 @@ IV. Proponer los requisitos que los informes individuales de auditoría e inform
 
 V. Mantener actualizada la normativa técnica en el Sistema de Control de Documentos;
 
-VI. Vigilar en coordinación con la Dirección General de Sistemas, que el Sistema de Control y Seguimiento de Auditorías cumpla con las disposiciones normativas de los procesos de Planeación, Desarrollo, Integración del Informe General, Seguimiento y Fincamiento de Responsabilidades Resarcitorias;
+> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+VI. Vigilar en coordinación con la Dirección General de Sistemas, que las herramientas tecnológicas para el proceso de la fiscalización superior de la Auditoría Superior de la Federación cumplan con las disposiciones normativas aplicables;
 
 VII. Brindar asesoría a las unidades administrativas auditoras sobre el contenido de la normativa institucional;
 
@@ -3099,6 +3233,10 @@ VIII. Gestionar las modificaciones al Programa Anual de Auditorías;
 
 IX. Gestionar la atención de los asuntos a que se refiere el Título Cuarto de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
+> <small>(ADICIONADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+IX Bis. Operar el sistema para la presentación y atención de las denuncias electrónicas a que se refiere la Ley de Fiscalización y Rendición de Cuentas de la Federación.
+
 X. Proponer indicadores estratégicos que permitan evaluar el desempeño de las actividades correspondientes a la Dirección a su cargo y someterlas a la consideración de su superior jerárquico;
 
 XI. Coordinar la elaboración de los estudios, opiniones, informes y demás documentos que le sean encomendados;
@@ -3110,6 +3248,10 @@ XIII. Participar en el proceso de planeación y programación para impulsar el S
 XIV. Proponer a su superior jerárquico sugerencias que puedan ser presentadas a la Cámara que impacten en la planeación y programación de auditorías, y
 
 XV. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones II y XV, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
@@ -3167,7 +3309,9 @@ II. Otorgar asistencia técnica en materia de tecnologías de información y com
 
 III. Elaborar dictámenes técnicos para optimizar la plataforma de tecnologías de información y comunicaciones de la Auditoría Superior de la Federación, así como gestionar la adquisición, ampliación, sustitución, mantenimiento, actualización y operación de la infraestructura tecnológica institucional y administrar los contratos respectivos;
 
-IV. Desarrollar e implantar los sistemas informáticos de la Auditoría Superior de la Federación y, en su caso, proponer la contratación de servicios externos complementarios;
+> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+IV. Desarrollar e implementar los sistemas informáticos y herramientas tecnológicas de la Auditoría Superior de la Federación y, en su caso, proponer la contratación de servicios externos complementarios;
 
 V. Asesorar técnicamente a las unidades administrativas para que adquieran y administren directamente recursos informáticos, sistemas y licencias de software de aplicación específica, incluidos su mantenimiento y actualización;
 
@@ -3319,7 +3463,9 @@ XXX. Elaborar y someter a la consideración de su superior jerárquico las recom
 
 XXXI. Elaborar los proyectos de informes de las auditorías en las que participen;
 
-XXXII. Grabar en audio o video cualquiera de las reuniones de trabajo y audiencias previstas en la Ley de Fiscalización y Rendición de Cuentas de la Federación, previo consentimiento por escrito de la o las personas que participen o a solicitud de la entidad fiscalizada, para integrar el archivo electrónico correspondiente;
+> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2021)</small>
+
+XXXII. Grabar en audio o video cualquiera de las reuniones de trabajo y audiencias previstas en la Ley de Fiscalización y Rendición de Cuentas de la Federación, previo consentimiento por escrito signado con firma autógrafa o bien, firma electrónica cuando se trate del proceso de fiscalización por medios electrónicos, de la o las personas que participen o a solicitud de la entidad fiscalizada, para integrar el archivo electrónico correspondiente.
 
 XXXIII. Elaborar el dictamen técnico que integre la documentación y comprobación necesarias para promover las acciones que procedan como resultado de las irregularidades que se detecten en la revisión o auditorías que se practiquen, y
 
@@ -3328,6 +3474,10 @@ XXXIV. Las demás que en el ámbito de su competencia les otorguen las disposici
 > <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
 Las atribuciones previstas en este artículo, las ejercerán los directores dentro del ámbito de competencia de la dirección general a la cual estén adscritos.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones XII, XV, XIX a la XXIV, XXVII, XXIX, XXXII y XXXIV, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 ### Capítulo VI. De las Atribuciones de los Subdirectores
 
@@ -3403,6 +3553,10 @@ XXXII. Las demás que en el ámbito de su competencia les otorguen las disposici
 
 Las atribuciones previstas en este artículo, las ejercerán los subdirectores dentro del ámbito de competencia de la dirección general a la cual estén adscritos.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones VI, XV, XVI, XVIII, XIX, XXI, XXIV, XXV, XXVI, XXX y XXXII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
 ### Capítulo VII. De las Atribuciones de los Servidores Públicos Auxiliares
 
 ###### Artículo 60.
@@ -3469,6 +3623,10 @@ XXVIII. Las demás que en el ámbito de su competencia les otorguen las disposic
 
 Las atribuciones previstas en este artículo, las ejercerán los jefes de departamento dentro del ámbito de competencia de la dirección general a la cual estén adscritos.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones VI, VII, XI, XII, XIV, XV, XVI, XVII, XX, XXIII, XXVII y XXVIII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
 ###### Artículo 61.
 
 Corresponde a los coordinadores de auditores y auditores las siguientes atribuciones generales:
@@ -3516,6 +3674,10 @@ XX. Desempeñar las comisiones y, en su caso, participar en las auditorías que 
 XXI. Las demás que en el ámbito de su competencia les otorguen las disposiciones jurídicas aplicables y les encargue su superior jerárquico.
 
 Las atribuciones previstas en este artículo, las ejercerán los auditores dentro del ámbito de competencia de la dirección general a la cual estén adscritos.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
+
+Las atribuciones a que hacen referencia las fracciones I, II, IV, V, VI, IX, XI a la XIV, XVIII a la XXI, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 ### Capítulo VIII. De la Suplencia de los Funcionarios de la Auditoría Superior de la Federación
 
@@ -3590,3 +3752,11 @@ OCTAVO. Las auditorías y demás asuntos que a la entrada en vigor del presente 
 NOVENO. Las auditorías y demás asuntos que a la entrada en vigor del presente Acuerdo se encuentren en trámite, iniciados por la Dirección General de Auditoría y Evaluación a los Sistemas de Control Interno, los continuará la Dirección General de Auditoría y Evaluación a los Sistemas de Control Interno, de conformidad con la adscripción, competencia y atribuciones que le confiere el presente Acuerdo.
 
 DÉCIMO. El ajuste necesario a las estructuras de personal derivado de las presentes modificaciones se realizará mediante la compensación de recursos de los capítulos presupuestarios correspondientes; por lo demás, se estará a lo dispuesto por el artículo 33, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y al presupuesto anual de la Auditoría Superior de la Federación para el siguiente ejercicio.
+
+D.O.F. 8 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las auditorías presenciales iniciadas antes de la entrada en vigor de la presente reforma se concluirán bajo la misma modalidad.
