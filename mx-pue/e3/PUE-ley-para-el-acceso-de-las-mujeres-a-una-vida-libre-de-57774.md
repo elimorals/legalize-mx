@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2021-04-09"
+last_updated: "2021-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2021.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -597,9 +597,9 @@ III.- De naturaleza Civil o Familiar; y
 
 IV.- Cautelares y de reparación integral en materia electoral.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2021)</small>
 
-Las órdenes de protección de emergencia y preventivas deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generen. Tendrán una temporalidad no mayor de setenta y dos horas y se dictarán sucesivamente manteniendo su vigencia en tanto permanezcan las condiciones de riesgo que las originaron.
+Las órdenes de protección de emergencia y preventivas tendrán una duración de hasta sesenta días, prorrogables por treinta días más o por el tiempo que dure la investigación o prolongarse hasta que cese la situación de riesgo para la víctima; y deberán expedirse de manera inmediata o a más tardar dentro de las cuatro horas siguientes al conocimiento de los hechos que las generan.
 
 > <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
 
@@ -1964,6 +1964,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 9 DE ABRIL DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I A VI DEL ARTÍCULO 5 Y EL 14, Y ADICIONA LAS FRACCIONES VII A XV AL 5, DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 25 DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
