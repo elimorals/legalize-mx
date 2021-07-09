@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-para-el-estado-de-122912
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-21"
-last_updated: "2021-02-12"
+last_updated: "2021-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 21 de julio de 2017.
 
@@ -269,9 +269,13 @@ XVIII. Constituir el Comité de Transparencia, las Unidades de Transparencia, da
 
 XIX. Designar a los titulares de las Unidades de Transparencia, quien dependerá directamente del titular del sujeto obligado;
 
-XX. Instalar un apartado en su página web para que las personas puedan dar de alta un correo electrónico y recibir información de interés y encuestas de satisfacción; y
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2021)</small>
 
-XXI. Las demás que determinan esta ley y otras disposiciones aplicables.
+XX. Publicar anualmente en su página web los resultados de las evaluaciones trimestrales a que son sujetos por parte del Instituto respecto al cumplimiento de las obligaciones previstas en la presente ley;
+
+XXI. Instalar un apartado en su página web para que las personas puedan dar de alta un correo electrónico y recibir información de interés y encuestas de satisfacción; y
+
+XXII. Las demás que determinan esta ley y otras disposiciones aplicables.
 
 ###### Artículo 9.
 
@@ -547,7 +551,11 @@ L. El proceso catastral de valuación de los predios;
 
 LI. Los mecanismos y los resultados de la evaluación, investigación o la integración de expedientes que midan el impacto ambiental, social, demográfico o económico que se realicen para el desarrollo de planes o proyectos; y
 
-LII. Cualquier otra información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones responsabilidad del sujeto obligado.
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2021)</small>
+
+LII. Un informe de los resultados de las evaluaciones a que son sujetos de forma periódica y/o trimestral por parte del Instituto, con respecto al cumplimiento de las obligaciones previstas en esta ley cada seis años, y
+
+LIII. Cualquier otra información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones responsabilidad del sujeto obligado.
 
 ###### Artículo 22.
 
@@ -3032,3 +3040,19 @@ P.O. 12 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 921.- SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIENDO EL QUE ACTUALMENTE OCUPA ESA POSICIÓN AL TERCER LUGAR, MODIFICANDO A LA VEZ SU CONTENIDO, DEL ARTÍCULO 108 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 71.- SE ADICIONA LA FRACCIÓN XX DEL ARTÍCULO 8, RECORRIÉNDOSE LAS ULTERIORES Y LA FRACCIÓN LII DEL ARTÍCULO 21, RECORRIÉNDOSE LA ULTERIOR, TODAS DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de noventa días naturales, los sujetos obligados deberán publicar en sus portales de internet oficiales, un informe de los resultados de las evaluaciones a que se refiere la fracción LII del artículo 21 del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La obligación contenida en la fracción LII del artículo 21, en su primera aplicación, deberá cumplirse con la información recabada durante los últimos 6 años.
