@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg84-2014-por-el-que-el-consejo-general-del-133115"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-02-05"
-last_updated: "2019-02-05"
+last_updated: "2021-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-01-18"
 ---
 # ACUERDO INE/CG84/2014 POR EL QUE EL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL APRUEBA EL PROTOCOLO PARA PREVENIR, ATENDER Y SANCIONAR EL HOSTIGAMIENTO Y ACOSO SEXUAL O LABORAL DEL INSTITUTO NACIONAL ELECTORAL, Y LOS IMPACTOS PARA LA IMPLEMENTACION DEL PROTOCOLO PARA PREVENIR, ATENDER Y SANCIONAR EL HOSTIGAMIENTO Y ACOSO SEXUAL O LABORAL DEL INSTITUTO NACIONAL ELECTORAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL PROTOCOLO PARA PREVENIR, ATENDER, SANCIONAR Y REPARAR EL HOSTIGAMIENTO Y ACOSO SEXUAL Y LABORAL DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 9 DE JULIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 EXTRACTO DEL ACUERDO POR EL QUE EL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL APRUEBA EL PROTOCOLO PARA PREVENIR, ATENDER Y SANCIONAR EL HOSTIGAMIENTO Y ACOSO SEXUAL O LABORAL DEL INSTITUTO NACIONAL ELECTORAL, Y LOS IMPACTOS PARA LA IMPLEMENTACIÓN DEL PROTOCOLO PARA PREVENIR, ATENDER Y SANCIONAR EL HOSTIGAMIENTO Y ACOSO SEXUAL O LABORAL DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JULIO DE 2021 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 5 de febrero de 2019.
 
@@ -66,3 +68,17 @@ https://portalanterior.ine.mx/archivos3/portal/historico/contenido/interiores/me
 www.dof.gob.mx/2019/INE/ProtocolohostigamientoyacosoeimpactosparasuimplementacionINE.pdf
 
 Ciudad de México, 18 de enero de 2019.- El Director Ejecutivo de Capacitación Electoral y Educación Cívica, Roberto Heycher Cardiel Soto.- Rúbrica.
+
+D.O.F. 9 DE JULIO DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL PROTOCOLO PARA PREVENIR, ATENDER, SANCIONAR Y REPARAR EL HOSTIGAMIENTO Y ACOSO SEXUAL Y LABORAL DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 9 DE JULIO DE 2021.]</small>
+
+PRIMERO. Se aprueba el Protocolo para prevenir, atender, sancionar y reparar el hostigamiento y acoso sexual y laboral del Instituto Nacional Electoral, y su Caja de Herramientas para el personal que atenderá este tipo de asuntos, mismos que se presentan como Anexos 1 y 2 del presente Acuerdo y que forman parte integral del mismo.
+
+SEGUNDO. Se abroga el Protocolo para prevenir, atender y sancionar el hostigamiento y acoso sexual o laboral del Instituto Nacional Electoral y Anexos 1 y 2 aprobados mediante Acuerdo CG181/2014.
+
+TERCERO. El presente Acuerdo entrará en vigor y surtirá efectos al día de su aprobación.
+
+CUARTO. Se instruye a la Dirección Jurídica la elaboración de una guía de actuación, en colaboración con la UTIGyND, en los términos precisados en la parte considerativa del presente Acuerdo, así como realizar los trámites para contar con un número telefónico para denunciar y llevar a cabo campañas para la máxima difusión del mismo, para conocimiento del personal del Instituto Nacional Electoral.
+
+QUINTO. Publíquese el presente Acuerdo en la Gaceta Electoral, en el portal de internet del Instituto Nacional Electoral y en el Diario Oficial de la Federación.
