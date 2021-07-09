@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2020-04-08"
+last_updated: "2021-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 8 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 9 DE JULIO DE 2021.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -1371,7 +1371,7 @@ XI. Resguardar y manejar la agenda de eventos en las instalaciones del Congreso 
 
 XII. Implementar las políticas, manuales de organización de los órganos técnicos y administrativos del Congreso del Estado;
 
-XIII. Recibir, registrar y llevar un control de los asuntos y documentos que se remitan al Congreso del Estado, debiendo mantener permanentemente informado y dentro de los plazos legales correspondiente (sic) al asunto que se trate, a los Órganos Técnicos y Administrativos;
+XIII. (DEROGADA, P.O. 9 DE JULIO DE 2021)
 
 XIV. Coordinar el servicio de Biblioteca;
 
@@ -1395,17 +1395,25 @@ ARTICULO 77 QUARTER (SIC).- Corresponde a la Dirección de Procesos Parlamentari
 
 I. Informar trimestralmente a la Mesa Directiva en turno, sobre el estado que guarden los asuntos que por Ley se encuentran bajo su encargo;
 
-II. Preparar los elementos necesarios para celebrar las sesiones del Congreso del Estado y de las Comisiones, en los términos previstos por la Ley, vigilando además la entrega oportuna a los Diputados, de los citatorios, las convocatorias, iniciativas y dictámenes que correspondan para las sesiones;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2021)</small>
 
-III. Prestar servicios de asistencia operativa a la Presidencia de la Mesa Directiva;
+II. Preparar los elementos necesarios para celebrar las sesiones del Congreso del Estado, en los términos previstos por la Ley, proporcionar los servicios de elaboración de actas, diarios de debates y versiones estenográficas de las mismas; así como vigilar la entrega oportuna a los Diputados de los citatorios, las convocatorias, los acuerdos, las iniciativas, los dictámenes, las proposiciones y los posicionamientos que correspondan para las mismas;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2021)</small>
+
+III. Prestar servicios de asistencia operativa a la Junta de Coordinación Política y a la Presidencia de la Mesa Directiva, así como de asistencia técnica los cuales corresponden a turnos y control de documentos; certificación y autentificación documental de aquellos documentos originales que se encuentren en poder de la Dirección;
 
 IV. Integrar y publicar la Gaceta Parlamentaria, así como los documentos que requieran su difusión y publicación por el Congreso del Estado;
 
 V. Registrar las iniciativas de leyes o decretos, dando seguimiento al estado legislativo que guarden, distribuyendo al pleno los documentos sujetos a conocimiento;
 
-VI. Proporcionar los servicios de archivo;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2021)</small>
 
-VII. Cumplir a solicitud de las Comisiones, el requerimiento técnico que éstas le soliciten para la preparación y desarrollo de sus trabajos, registro y seguimiento de las iniciativas o minutas de Ley o de decreto, distribución de los documentos sujetos a su conocimiento en coordinación con los Secretarios Técnicos de las mismas;
+VI. Proporcionar los servicios de archivo y oficialía de partes del Congreso del Estado, que comprenden la recepción, registro, control y custodia de los asuntos y documentos que se remitan al Congreso del Estado; así como los de formación, clasificación y custodia de los documentos del Pleno y las Comisiones; debiendo mantener permanentemente informados y dentro de los plazos legales correspondiente al asunto que se trate, a los Legisladores, Órganos Técnicos y Administrativos del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2021)</small>
+
+VII. Cumplir a solicitud de las Comisiones, el requerimiento técnico que éstas le soliciten para la preparación y desarrollo de sus trabajos, así como proporcionar los servicios estenográficos, grabación de audio y video, elaboración de minutas y actas de las sesiones de las mismas;
 
 VIII. Cumplir con las atribuciones y el correcto funcionamiento de los servicios legislativos;
 
@@ -1413,9 +1421,29 @@ IX. Informar a la Junta de Coordinación Política y al Presidente de la Mesa Di
 
 X. Coadyuvar con los trámites legislativos para la remisión de las reformas a la Constitución Política del Estado Libre y Soberano de Baja California, y las reformas a las Leyes Estatales o a la creación de nuevas normas, al Poder Ejecutivo para su promulgación y publicación; y
 
-XI. Las demás que la Ley, Reglamento y el Pleno del Congreso del Estado le confieran.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2021)</small>
+
+XI. Realizar servicios de análisis, revisión y actualización permanente de la legislación estatal;
 
 El desempeño de las atribuciones de la Dirección de Procesos Parlamentarios estará bajo la vigilancia y control de la Mesa Directiva. Corresponde a la Junta de Coordinación Política realizar la propuesta de nombramiento del titular ante el pleno del Congreso.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2021)</small>
+
+ARTÍCULO 77 QUINQUIES.- Para el buen desempeño de las funciones y el correcto desarrollo de sus asuntos, la Dirección de Procesos Parlamentarios contará con las coordinaciones siguientes:
+
+I. Coordinación General de la Dirección de Procesos Parlamentarios;
+
+II. Coordinación de Proceso Parlamentario;
+
+III. Coordinación de Editorial y seguimiento a Comisiones;
+
+IV. Coordinación de apoyo a Órganos de Gobierno;
+
+V. Coordinación de Oficialía de Partes, Archivo y Gaceta Parlamentaria;
+
+VI. Coordinación de Registro Parlamentario y Actualización Legislativa; y
+
+VII. Coordinación de Transparencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
@@ -3088,3 +3116,11 @@ G.P. 8 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DE LA "INICIATIVA POR LA QUE SE REFORMA EL ARTÍCULO 9 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Toda vez que la presente reforma solo implica modificaciones al régimen interno del Poder Legislativo, entrarán en vigor al momento de su aprobación por la mayoría calificada del Pleno de este Honorable Congreso del Estado y se publicarán en la Gaceta del Poder Legislativo.
+
+P.O. 9 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 239 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Toda vez que las presentes reformas solo implican modificaciones al régimen interno del Poder Legislativo, entrarán en vigor al momento de su aprobación por la mayoría calificada del Pleno de este Honorable Congreso del Estado, las cuales se publicarán en la Gaceta Parlamentaria del Poder Legislativo y se remitirán al Poder Ejecutivo solo para su publicación.
+
+SEGUNDO.- Con la finalidad de no generar afectaciones presupuestales y en salvaguarda de derechos laborales, las coordinaciones instruidas en el artículo 77 QUINQUIES serán asignadas por la Presidencia de la Mesa Directiva a los trabajadores que actualmente ejercen dichas funciones.
