@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-conducta-de-servicios-de-salud-del-estado-de-142858"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-05-05"
-last_updated: "2020-05-05"
+last_updated: "2021-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,13 @@ state: "QUE"
 ---
 # CODIGO DE CONDUCTA DE SERVICIOS DE SALUD DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE SERVICIOS DE SALUD DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 9 DE JULIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE SERVICIOS DE SALUD DEL ESTADO DE QUERÉTARO
 
 TEXTO ORIGINAL
+
+ÚLTIMA REFORMA PUBLIADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2021 (ABROGADO).
 
 Código publicado en el Número 39 del Periódico Oficial del Estado de Querétaro, el martes 5 de mayo de 2020.
 
@@ -389,3 +393,13 @@ Directora de Recursos Humanos
 L.E. Silvia Rivera Hernández.
 
 Secretario General del SNTSA sección
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+P.O. 9 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE SERVICIOS DE SALUD DEL ESTADO DE QUERÉTARO”.]
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra Arteaga".
+
+SEGUNDO. Se abroga Código de Conducta de Servicios de Salud del Estado de Querétaro, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra Arteaga", el 5 de mayo de 2020.
