@@ -4,7 +4,7 @@ identifier: "COA-ley-del-centro-de-conciliacion-laboral-del-estado-de-139695"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-06"
-last_updated: "2019-12-06"
+last_updated: "2021-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 6 de diciembre de 2019.
 
@@ -41,23 +41,37 @@ LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2021)</small>
+
 ###### Artículo 1.
 
-Las disposiciones contenidas en la presente Ley son de orden público, interés general y observancia obligatoria en todo el Estado y tienen como propósito establecer la organización y funcionamiento del Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza.
+Las disposiciones contenidas en la presente ley son de orden público, interés general y observancia obligatoria en todo el Estado y tienen como propósito establecer la organización y funcionamiento del Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza, en términos de lo dispuesto en los artículos 123, apartado A, fracción XX, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos, 590-E y 590-F de la Ley Federal del Trabajo y demás disposiciones legales aplicables.
 
-Se crea el Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza, como un organismo público descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría del Trabajo, especializado e imparcial, con personalidad jurídica y patrimonio propio, dotado de plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2021)</small>
+
+Se crea el Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza, como un organismo público descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría del Trabajo, especializado e imparcial, con personalidad jurídica y patrimonio propio, dotado de autonomía técnica, operativa, presupuestaria, de decisión y de gestión, en términos del artículo 85 de la Constitución Política del Estado de Coahuila de Zaragoza.
 
 El Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza, tiene por objeto prestar el servicio público de conciliación para la pronta y eficaz solución de los conflictos derivados de una relación laboral entre trabajadores y empleadores en el orden local, tendiente a conseguir un equilibrio entre los factores de la producción.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2021)</small>
+
 ###### Artículo 2.
 
-El Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza tendrá su domicilio legal en la ciudad de Saltillo, y establecerá oficinas en el territorio del Estado que se consideren necesarias para el cumplimiento de su objeto, las cuales contarán con una competencia territorial.
+El Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza tendrá su domicilio legal en la ciudad de Saltillo, y establecerá delegaciones en el territorio del Estado que se consideren necesarios para el cumplimiento de su objeto, las cuales contarán con una competencia territorial.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2021)</small>
 
 ###### Artículo 3.
 
-El Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza, contará con las unidades administrativas y los servidores públicos que requiera para el cumplimiento de sus funciones, de acuerdo a la disponibilidad presupuestal, y sus atribuciones estarán contenidas en esta ley, en su reglamento interior y demás disposiciones aplicables.
+El Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza, contará con los servidores públicos que requiera para el cumplimiento de sus funciones y sus atribuciones estarán contenidas en esta ley, en su reglamento interior y demás disposiciones aplicables.
 
-Las relaciones de trabajo entre el Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza y su personal se regirá (sic) en los términos del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y contará (sic) con un servicio profesional de carrera de conformidad con lo previsto en las disposiciones de la materia.
+Las relaciones de trabajo entre el Centro y su personal se regirán por el Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila de Zaragoza.
+
+Se considerarán trabajadores de confianza todos los servidores públicos de mandos superiores, mandos medios, conciliadores, notificadores y demás que señale el Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila de Zaragoza.
+
+El Servicio Profesional incorporará la perspectiva de género, el enfoque de derechos humanos, así como los mecanismos necesarios de gestión, promoción y compensación orientados a la jerarquización del empleo y la carrera pública.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2021)</small>
 
 ###### Artículo 4.
 
@@ -65,31 +79,67 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Centro: El Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza.
 
-II. Constitución General: La Constitución Política de los Estados Unidos Mexicanos.
+II. Conciliación: al proceso en el que uno o más conciliadores asisten a las partes en conflicto, para facilitar las vías de diálogo, proponiendo alternativas y soluciones al conflicto laboral en términos de las disposiciones aplicables.
 
-III. Constitución: La Constitución Política del Estado de Coahuila de Zaragoza.
+III. Constitución General: La Constitución Política de los Estados Unidos Mexicanos.
 
-IV. Ley: Ley del Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza.
+IV. Constitución: La Constitución Política del Estado de Coahuila de Zaragoza.
 
-V. Junta de Gobierno: El Órgano de Gobierno del Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza.
+V. Director General: Persona titular de la Dirección General del Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza.
+
+VI. Ley: Ley del Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza.
+
+VII. Junta de Gobierno: El Órgano de Gobierno del Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza.
+
+VIII. SEFIN: La Secretaría de Finanzas del Estado de Coahuila de Zaragoza.
+
+IX. SEFIRC: La Secretaría de Fiscalización y Rendición de Cuentas.
+
+X. Secretaría: La Secretaría del Trabajo del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2021)</small>
 
 ###### Artículo 5.
 
-En la operación del Centro prevalecerán los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+En la operación del Centro prevalecerán los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia, máxima publicidad y perspectiva de género.
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL CENTRO
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2021)</small>
 
 ###### Artículo 6.
 
 El Centro tiene las siguientes atribuciones:
 
-I. Prestar el servicio público de conciliación en los conflictos laborales entre los trabajadores y los empleadores en el ámbito local.
+I. Prestar el servicio público de conciliación en los conflictos laborales entre los trabajadores y los empleadores en el ámbito local
 
-II. Remitir los informes y documentos que soliciten los tribunales laborales o cualquier otra autoridad legalmente constituida.
+II. Recibir solicitudes de conciliación de las y los trabajadores y/o patrones para su trámite.
 
-III. Expedir las copias certificadas de los convenios y demás documentos que se encuentren en sus archivos, previa solicitud de los usuarios que acrediten su personalidad e interés jurídico en el asunto.
+III. Remitir los informes y documentos que soliciten los tribunales laborales o cualquier otra autoridad legalmente constituida.
 
-IV. Las demás que le confiera la Ley Federal del Trabajo, la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza y demás ordenamientos que le sean aplicables.
+IV. Celebrar convenios entre las partes del conflicto laboral, de conformidad (sic) la Ley Federal del Trabajo, los cuales deberán hacerse por escrito y contener una relación circunstanciada de los hechos que lo motiven y de los derechos comprendidos en él. Una vez ratificado por las partes el convenio, tendrá el carácter de cosa juzgada.
+
+V. Expedir las constancias de no conciliación.
+
+VI. Expedir las copias certificadas de los convenios y demás documentos que se encuentren en sus archivos, previa solicitud de los usuarios que acrediten su personalidad e interés jurídico en el asunto.
+
+VII. Solicitar la colaboración de las dependencias y entidades de la Administración Pública Federal, Estatales y Municipales, así como de los particulares, para el debido cumplimiento de sus objetivos.
+
+VIII. Coordinar y supervisar las delegaciones que forman parte del Centro.
+
+IX. Adoptar un sistema de Servicio Profesional de Carrera y seleccionar mediante concurso abierto en igualdad de condiciones a su personal.
+
+X. Formar, capacitar y evaluar a las y los conciliadores para su profesionalización.
+
+XI. Establecer los convenios necesarios con instituciones públicas o privadas, así como con organizaciones de la sociedad civil, para lograr los propósitos de la presente Ley.
+
+XII. Presentar anualmente al titular del Poder Ejecutivo del Estado un informe general de las actividades realizadas, así como su proyecto de presupuesto de egresos, a fin de que se considere en la iniciativa de Ley de Presupuesto de Egresos del Estado.
+
+XIII. Llevar a cabo programas de difusión e información, a través de los medios masivos de comunicación que estime convenientes, para dar a conocer los servicios que presta.
+
+XIV. Imponer multas de conformidad con lo dispuesto por la Ley Federal del Trabajo y demás ordenamientos jurídicos que sean aplicables.
+
+XV. Las demás que le confiera la Ley Federal del Trabajo, la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza y demás ordenamientos que le sean aplicables.
 
 ### CAPÍTULO TERCERO. DE LA ADMINISTRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DEL CENTRO
 
@@ -111,27 +161,31 @@ a) La persona titular de la Secretaría de Gobierno.
 
 b) La persona titular de la Secretaría de Finanzas.
 
-c) La persona titular de la Procuraduría de la Defensa del Trabajo del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2021)</small>
 
-d) Dos representantes de las cámaras empresariales en (sic) estado.
+c) La persona titular del Instituto Electoral de Coahuila.
 
-e) Dos representantes de las organizaciones de trabajadores con mayor presencia o afiliados en el estado.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2021)</small>
 
-Los representantes a que se refieren los incisos d) y e) de la fracción III, serán designados previo acuerdo entre las cámaras empresariales, así como de las organizaciones de trabajadores más representativas y durarán en su encargo tres años. En caso de ausencia definitiva de alguno de estos representantes, ocupará el cargo su suplente, hasta concluir el periodo correspondiente.
+d) La persona titular del Instituto Coahuilense de Acceso a la Información Pública.
 
-En ningún momento quedarán imposibilitados los representantes empresariales y de los trabajadores, para desempeñar el cargo por períodos sucesivos o discontinuos.
+e) (DEROGADO, P.O. 9 DE JULIO DE 2021)
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2021)</small>
+
+Cuando la Junta de Gobierno así lo determine, se convocará a los organismos empresariales, las centrales obreras y las instituciones de educación superior, para que, por conducto de los representantes que designen mediante oficio, puedan asistir a las sesiones que se indiquen con voz, pero sin voto.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 9 DE JULIO DE 2021)</small>
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2021)</small>
 
 ###### Artículo 9.
 
-Los integrantes de la Junta de Gobierno podrán designar suplentes para cubrir sus ausencias temporales, mediante oficio dirigido a la o el presidente.
+Los integrantes de la Junta de Gobierno podrán ser suplidos en las sesiones. Los suplentes serán designados por los integrantes propietarios para cubrir sus ausencias temporales, y estos deberán tener cuanto menos el nivel de director o su equivalente.
 
-La persona que ocupe la presidencia de la Junta de Gobierno será suplida, en sus ausencias, por la o el Secretario Técnico.
+La calidad de suplentes designados se acreditará mediante el oficio respectivo, dirigido a la o el presidente de la Junta de Gobierno y signado por el propietario a quien representa. El cargo de suplente será indelegable, de manera que no se podrán acreditar representantes de éste en las sesiones de la Junta de Gobierno.
 
-El cargo de suplente será indelegable y no se podrán acreditar representantes de aquel, en las sesiones de la Junta de Gobierno.
-
-Los integrantes de la Junta de Gobierno que hayan nombrado suplente no podrán sustituir al designado originalmente, salvo causa justificada.
-
-Los suplentes de las o los titulares de las Secretarías del Trabajo, de Gobierno y de Finanzas deberán tener, por lo menos, el nivel de Subsecretario, en el caso del o la titular de la Procuraduría de la Defensa del Trabajo y de quien sea titular de la Dirección General del Centro, deberán ser los que ostenten el cargo inmediato inferior.
+El propietario no podrá sustituir al suplente designado originalmente, salvo por causa justificada, debidamente acreditada ante la o el presidente, en cuyo caso quedará sin efecto la designación anterior y el suplente sustituto deberá rendir protesta, conforme a lo señalado en este artículo.
 
 Quienes integran la Junta de Gobierno, tanto propietarios como suplentes, antes de tomar posesión de su cargo deberán rendir protesta.
 
@@ -149,15 +203,37 @@ La Junta de Gobierno sesionará válidamente contando con la presencia del titul
 
 A las sesiones de la Junta de Gobierno podrá asistir el titular del Ejecutivo del Estado, a quien le corresponderá, en su caso, presidir la sesión con todas las atribuciones del titular de la Presidencia y éste tendrá el carácter de vocal.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2021)</small>
+
 ###### Artículo 11.
 
-Por acuerdo de la Junta de Gobierno en las sesiones podrán participar, como invitados, los servidores públicos y personas expertas que de conformidad con la agenda de temas a tratar sea conveniente, lo harán exclusivamente durante el desahogo de los puntos para los que fueron convocados y no tendrán derecho a voto.
+Las convocatorias y el orden del día se comunicarán por escrito especificando el asunto a tratar; se harán con al menos diez días de anticipación tratándose de sesión ordinaria y de un día si se trata de sesión extraordinaria, indicando en cada caso, lugar, fecha y hora en que se celebrará la sesión, remitiendo la documentación correspondiente,
+
+En aquellos casos que el Presidente de la Junta de Gobierno considere de extrema urgencia o importancia, así como a solicitud de alguno de los integrantes, se podrá convocar a sesiones extraordinarias fuera del plazo señalado y por los medios que considere eficaces para cumplir su fin.
+
+Serán consideradas extraordinarias aquellas sesiones donde se traten asuntos que, por su naturaleza, trascendencia, efectos jurídicos o plazos para resolver no admitan demora alguna.
+
+El presidente podrá invitar a las sesiones a personas que tengan conocimientos o experiencia en los asuntos a tratar, quienes solo tendrán derecho a voz.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2021)</small>
 
 ###### Artículo 12.
 
-Las convocatorias y el orden del día se comunicarán por escrito especificando el asunto a tratar, con al menos diez días de anticipación tratándose de sesión ordinaria y de un día si se trata de sesión extraordinaria, indicando en cada caso, lugar, fecha y hora en que se celebrará la sesión, remitiendo la documentación correspondiente.
+La convocatoria a las sesiones deberá contener, como mínimo, los siguientes elementos:
 
-Las convocatorias para sesiones extraordinarias, indicarán además la justificación o asunto específico que las motive y no podrán tratarse asuntos generales dentro de las sesiones de esta naturaleza.
+I. Lugar, hora y fecha en que se llevará a cabo la sesión;
+
+II. El número progresivo de la Sesión para la que se convoca;
+
+III. La mención de ser pública o privada;
+
+IV. La mención de ser ordinaria o extraordinaria;
+
+V. El proyecto de orden del día propuesto por el Presidente de la Junta de Gobierno, y también podrá enlistar los temas propuestos por los integrantes. Los asuntos del orden del día deberán identificar su procedencia; y
+
+VI. La información y los documentos, de forma adjunta, necesarios para el análisis de los puntos a tratar en la sesión, los cuales se distribuirán en medios impresos, electrónicos o magnéticos, según lo disponga el Presidente de la Junta de Gobierno o lo solicite cualquiera de los integrantes. En aquellos casos en que los temas a tratar en el orden del día de la sesión demanden una cantidad importante de documentación y por tanto, no sea posible acompañar a la convocatoria los anexos necesarios para la discusión de estos asuntos, así como la información y documentación relacionada, el Secretario Técnico pondrá a disposición de los integrantes toda la información y documentación necesaria a partir de la fecha de emisión de la convocatoria para que puedan ser consultados en un portal o sitio web o herramienta tecnológica que al efecto se proporcione, facilitando su acceso mediante claves de seguridad, lo cual se señalará en la propia convocatoria, debiendo justificar tales circunstancias. En tal caso, los integrantes podrán solicitar copia de esos anexos en cualquier momento.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2021)</small>
 
 ###### Artículo 13.
 
@@ -165,21 +241,35 @@ La Junta de Gobierno tendrá las siguientes atribuciones:
 
 I. Aprobar el Reglamento Interior del Centro, los manuales, lineamientos, y demás disposiciones administrativas que regulen la operación y el funcionamiento del Centro;
 
-II. Aprobar las bases para la organización, funcionamiento y desarrollo del servicio profesional de carrera, así como emitir los lineamientos, criterios y convocatoria para la selección de conciliadores del Centro en los términos de las disposiciones aplicables;
+II. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos del Centro que no correspondan a las operaciones propias del objeto del mismo;
 
-III. Aprobar en tiempo los programas anuales y el anteproyecto de presupuesto de egresos y sus modificaciones, así como el informe de resultados respecto del ejercicio anterior que serán presentados por la Dirección General;
+III. Aprobar anualmente, previo informe de los Comisarios y dictamen de los auditores externos, los estados financieros del Centro y autorizar la publicación de los mismos;
 
-IV. Promover e implementar mecanismos o programas de capacitación para el personal que lleve a cabo las funciones de conciliación en materia laboral y actividades relacionadas con las funciones del Centro;
+IV. Aprobar los Manuales de Organización, Procedimientos y el de Servicios al Público; el Código de Ética y Conducta, y demás disposiciones administrativas que regulen la operación y el funcionamiento del Centro;
 
-V. Aprobar a propuesta de la Dirección General, el establecimiento, reubicación y cierre de oficinas en el territorio del Estado;
+V. Aprobar la estructura básica de la organización del Centro y las modificaciones procedentes, las cuales deberán contemplar la instalación, reubicación y en su caso cierre de oficinas en el territorio del Estado a propuesta del Director General;
 
-VI. Autorizar la creación de comités de apoyo y en su caso, con la participación de profesionistas independientes, así como sus honorarios si es necesario;
+VI. Aprobar las bases para la organización, funcionamiento y desarrollo del servicio profesional de carrera, así como emitir los lineamientos, criterios y convocatoria para la selección de conciliadores del Centro en los términos de las disposiciones aplicables;
 
-VII. Conocer los informes y dictámenes que presente la Secretaría de Fiscalización y Rendición de Cuentas;
+VII. Aprobar el programa institucional;
 
-VIII. Aprobar el calendario anual de sesiones;
+VIII. Autorizar la creación de Grupos de Expertos que brinden asesoría técnica al Centro, así como sus honorarios;
 
-IX. Las demás dispuestas por la Ley Federal del Trabajo, la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, la Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza, sus reglamentos y otras disposiciones aplicables en la materia.
+IX. Aprobar en tiempo los programas anuales y el anteproyecto de presupuesto de egresos como sus modificaciones, así como el informe de resultados respecto del ejercicio anterior que serán presentados por la Dirección General;
+
+X. Promover e implementar mecanismos o programas de capacitación para el personal que lleve a cabo las funciones de conciliación en materia laboral y actividades relacionadas con las funciones del Centro;
+
+XI. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General;
+
+XII. Conocer los informes y dictámenes que presente la Secretaría de Fiscalización y Rendición de Cuentas;
+
+XIII. Aprobar el calendario anual de sesiones;
+
+XIV. Evaluar el desempeño del personal del Centro; y
+
+XV. Las demás dispuestas por la Ley Federal del Trabajo, la Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza, sus reglamentos y otras disposiciones aplicables en la materia.
+
+La Junta de Gobierno podrá acordar la realización de todas las operaciones inherentes al objeto del Centro con sujeción a las disposiciones legales correspondientes, y salvo aquellas facultades referidas en la Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza, podrá delegar facultades extraordinarias a la persona titular de la Dirección General para actuar, en casos urgentes debidamente fundados y motivados en representación del Centro, obligándolo a dar cuenta de manera inmediata a los integrantes del órgano colegiado a fin de que en la siguiente sesión ratifiquen el contenido de la decisión tomada.
 
 ###### Artículo 14.
 
@@ -193,19 +283,35 @@ III. Ordenar y vigilar el trabajo de los comités que autorice la Junta de Gobie
 
 IV. Firmar conjuntamente con la o el Secretario Técnico la correspondencia y las actas que se generen de las sesiones; y
 
-V. Las que establezcan las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2021)</small>
+
+V. Las demás dispuestas por la Ley Federal del Trabajo, la Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza, sus reglamentos y otras disposiciones aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2021)</small>
 
 ###### Artículo 15.
 
-La o el Secretario Técnico de la Junta de Gobierno contará con las siguientes facultades:
+La persona Titular de la Secretaria Técnica de la Junta de Gobierno contará con las siguientes facultades:
 
-I. Convocar a los miembros de la Junta de Gobierno a sesiones ordinarias y extraordinarias, así como elaborar y difundir el orden del día correspondiente;
+I. Convocar a los integrantes de la Junta de Gobierno a sesiones ordinarias y extraordinarias, así como elaborar y difundir el orden del día correspondiente y recabar la constancia de recibido;
 
-II. Tomar las votaciones de los miembros presentes en cada sesión;
+II. Organizar las sesiones, basándose en las instrucciones de logística de la Presidencia de la Junta de Gobierno;
 
-III. Levantar y autorizar con su firma, las actas correspondientes a las sesiones que celebre la Junta de Gobierno; y
+III. Tomar las votaciones de los integrantes presentes en cada sesión;
 
-IV. Las demás que le confiera la Junta de Gobierno o quien ocupe la presidencia.
+IV. Levantar las actas correspondientes a las sesiones que celebre la Junta de Gobierno;
+
+V. Dar cuenta de los escritos presentados a la Junta de Gobierno;
+
+VI. Informar sobre el cumplimiento de los acuerdos de la Junta de Gobierno;
+
+VII. Llevar el archivo de la Junta de Gobierno y un registro de las actas y acuerdos aprobados por ésta;
+
+VIII. Difundir las actas y acuerdos aprobados, en el sitio de internet correspondiente;
+
+IX. Operar y ejecutar los acuerdos y determinaciones que adopte la propia Junta para el desempeño de sus funciones;
+
+X. Las demás que le confiera la Junta de Gobierno o quien ocupe la Presidencia.
 
 ###### Artículo 16.
 
@@ -267,9 +373,17 @@ XV. Proporcionar, en el ámbito de su competencia, la información y dar acceso 
 
 XVI. Proponer a la Junta de Gobierno la creación de comités de apoyo y, en su caso, con la participación de profesionistas independientes;
 
-XVII. Imponer la multa que corresponda al patrón o patrona por inasistencia a la audiencia prevista dentro del procedimiento del servicio público de conciliación contemplado en la Ley Federal del Trabajo; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2021)</small>
 
-XVIII. Las demás dispuestas por las leyes, reglamentos y otras disposiciones aplicables en la materia.
+XVII. Imponer, dentro del procedimiento del servicio público de conciliación contemplado en la Ley Federal del Trabajo, la multa prevista para el caso de inasistencia de la o el patrón citado legalmente a la audiencia de dicho procedimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JULIO DE 2021)</small>
+
+XVIII. Otorgar, sustituir y revocar, previa autorización de la Junta de Gobierno, poderes generales o especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Los poderes generales para surtir efectos frente a terceros deberán inscribirse en el Registro Público que corresponda;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE JULIO DE 2021)</small>
+
+XIX. Las demás dispuestas por las leyes, reglamentos y otras disposiciones aplicables en la materia.
 
 ### CAPÍTULO CUARTO. DE LA OPERACIÓN DEL CENTRO
 
@@ -331,6 +445,18 @@ III. Las donaciones o legados que se otorguen a su favor; y
 
 IV. Los demás bienes, derechos y recursos que adquiera por cualquier título legal.
 
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2021)</small>
+
+V. Los subsidios y apoyos que en efectivo o en especie, le otorguen los gobiernos federal, estatal y municipal; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2021)</small>
+
+VI. Todos los demás bienes o derechos que perciba en el ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2021)</small>
+
+Los bienes muebles e inmuebles del Centro estarán sujetos a lo que disponen los artículos 2 y 9 de la Ley General de Bienes del Estado de Coahuila.
+
 ###### Artículo 27.
 
 El patrimonio del Centro o los bienes que le sean asignados, serán destinados a alcanzar el objeto para el cual fue creado. Los bienes que conformen el patrimonio del Centro son del dominio público para todos sus efectos legales y su administración será vigilada por la Secretaría de Finanzas y regulada por la Ley General de Bienes del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
@@ -388,3 +514,23 @@ EL SECRETARIO DE GOBIERNO
 ING. JOSÉ MARÍA FRAUSTRO SILLER
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 76.- SE REFORMAN: LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 1, LOS ARTÍCULOS 2, 3, 4, 5 Y 6; LOS INCISOS C) Y D) DE LA FRACCIÓN III Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 8, LOS ARTÍCULOS 9, 11, 12 Y 13, LA FRACCIÓN V DEL ARTÍCULO 14, EL ARTÍCULO 15 Y LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 18. SE ADICIONAN: LA FRACCIÓN XIX DEL ARTÍCULO 18, LAS FRACCIONES V, VI Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 26. SE DEROGAN: EL INCISO E) DE LA FRACCIÓN III DEL ARTÍCULO 8 Y EL TERCER PÁRRAFO DEL ARTÍCULO 8; DE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO - Para dar cumplimiento al artículo 17 de esta Ley, el nombramiento del titular del Centro deberá realizarse dentro de los noventas días siguientes a la entrada en vigor del presente.
+
+TERCERO.- La Junta de Gobierno deberá instalarse en un plazo no mayor a noventa días, contados a partir del día siguiente de la entrada en vigor del presente decreto.
+
+CUARTO.- Dentro de los sesenta días siguientes a la instalación de la Junta de Gobierno, esta expedirá el Reglamento Interior del Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza.
+
+QUINTO.- El Centro deberá entrar en operación, en la misma fecha en que lo haga el Tribunal Laboral del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+SEXTO.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente decreto.
