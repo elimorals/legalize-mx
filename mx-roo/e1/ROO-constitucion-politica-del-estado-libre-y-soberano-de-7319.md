@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2021-05-14"
+last_updated: "2021-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -609,7 +609,9 @@ En todas las decisiones y actuaciones del Estado se velará y cumplirá con el p
 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo su participación y la de los Municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
-Toda persona tiene derecho a gozar individual y colectivamente de un medio ambiente sano para su desarrollo y bienestar, así como el deber de conservarlo en beneficio de las generaciones presentes y futuras.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2021)</small>
+
+Toda persona tiene derecho a gozar individual y colectivamente de un medio ambiente sano para su desarrollo y bienestar, así como el deber de conservarlo en beneficio de las generaciones presentes y futuras. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la Ley. El Estado garantizará el respeto a este Derecho.
 
 Es una obligación fundamental del Estado, con la activa participación de la sociedad, garantizar que la población se desenvuelva en un ambiente sano. El Estado y los Municipios dictarán, en el ámbito de sus respectivas competencias, las medidas que deberán llevar a cabo las autoridades para garantizar su protección, preservación, restauración y mejoramiento.
 
@@ -5518,3 +5520,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 TERCERO. La Legislatura del Estado deberá realizar en un plazo máximo de 180 días naturales, contados a partir de la publicación del presente Decreto, las armonizaciones a las legislaciones secundarias correspondientes.
 
 CUARTO. Los Poderes del Estado, los organismos autónomos, los Ayuntamientos del Estado y los demás sujetos obligados deberán realizar las adecuaciones correspondientes a sus disposiciones reglamentarias en los términos del presente Decreto.
+
+P.O. 11 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA NÚMERO 003 POR EL QUE SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 31 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Poder Ejecutivo y los Ayuntamientos del Estado, deberán realizar las adecuaciones correspondientes, en el ámbito de sus respectivas competencias, a las disposiciones reglamentarias que resulten conducentes en los términos del presente Decreto.
