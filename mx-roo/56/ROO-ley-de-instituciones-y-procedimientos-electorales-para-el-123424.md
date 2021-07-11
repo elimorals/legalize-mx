@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2021-06-22"
+last_updated: "2021-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -6737,6 +6737,14 @@ I. El Proceso Electoral dará inicio con la primera sesión que el Consejo Gener
 
 II. El Instituto Electoral de Quintana Roo podrá ajustar las fechas para la realización de los actos preparatorios de la elección observando invariablemente las etapas y plazos establecidos en la Ley.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2021)</small>
+
+UNDÉCIMO. La elección ordinaria local a celebrarse el primer domingo del mes de junio del año 2022 para la renovación de la Gubernatura y las Diputaciones Locales, ambas del Estado Libre y Soberano de Quintana Roo, se sujetará a lo siguiente:
+
+I. El Proceso Electoral dará inicio con la primera sesión que el Consejo General del Instituto Electoral de Quintana Roo celebre en la primera semana del mes de enero del año 2022, y
+
+II. El Instituto Electoral de Quintana Roo podrá ajustar las fechas para la realización de los actos preparatorios de la elección observando invariablemente las etapas y plazos establecidos en la ley.
+
 SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS QUINCE DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL DIECISIETE.
 
 DIPUTADO PRESIDENTE:
@@ -6812,3 +6820,9 @@ P.O. 22 DE JUNIO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. El Poder Judicial, el Tribunal Electoral y el Tribunal de Justicia Administrativa, todos del Estado de Quintana Roo, contarán con el plazo previsto en el Artículo Segundo Transitorio del Decreto por el que se reforma la fracción II del artículo 73 de la Ley General de Transparencia y Acceso a la Información Pública, publicado en el Diario Oficial de la Federación de fecha 13 de agosto de 2020, para iniciar la publicación de las versiones públicas del texto íntegro de las sentencias emitidas.
+
+P.O. 11 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 126 POR EL QUE SE ADICIONA UN ARTÍCULO UNDÉCIMO TRANSITORIO AL DECRETO NÚMERO 097 POR EL QUE SE EXPIDE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO, PUBLICADO EL 22 DE SEPTIEMBRE DE 2017 EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO".]
+
+ÚNICO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
