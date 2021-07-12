@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-turismo-del-estado-de-campeche-80279"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-04"
-last_updated: "2021-06-16"
+last_updated: "2021-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE TURISMO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 4 de marzo de 2011.
 
@@ -721,7 +721,9 @@ Para efecto de lo dispuesto en el artículo anterior la Secretaría firmará las
 
 La Secretaría organizará y operará el Sistema de Información Turística del Estado, instrumento mediante el cual se dispondrán de todos los elementos informativos necesarios para la planeación y promoción del Turismo y será el marco de donde emanará la información de la Entidad.
 
-La información que se recaba deberá enriquecer el Atlas Turístico.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2021)</small>
+
+La información que se recaba deberá enriquecer el Atlas Turístico de México y servirá para que la Secretaría elabore el Atlas Turístico del Estado.
 
 ###### Artículo 61.
 
@@ -936,3 +938,13 @@ P.O. 16 DE JUNIO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 12 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 235 POR EL QUE "SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 60 DE LA LEY DE TURISMO DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a treinta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Turismo de la Administración Pública Estatal, elaborará el Atlas Turístico del Estado y tomará las previsiones presupuestales necesarias para ese propósito.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto
