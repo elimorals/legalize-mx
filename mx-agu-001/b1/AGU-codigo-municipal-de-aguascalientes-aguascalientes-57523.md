@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2021-05-17"
+last_updated: "2021-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1351,7 +1351,7 @@ Departamento de Acuerdos.
 
 Departamento de Proyectos y Resoluciones.
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
+(REFORMADA, P.O. 21 DE MAYO DE 2018) (REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2021)
 
 IX.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
 
@@ -1381,7 +1381,9 @@ Departamento de Asuntos de Honor y Justicia.
 
 Unidad de Derechos Humanos.
 
-Dirección de Justicia Municipal.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2021)</small>
+
+Dirección de Juzgados Cívicos.
 
 Departamento de Servicios Médicos, Psicología y Trabajo Social.
 
@@ -8351,9 +8353,9 @@ La asesoría y defensa podrá negarse o suspenderse en cualquier tiempo, por dec
 
 XI. Recibir atención médica y el tratamiento adecuado sin costo alguno, cuando sean lesionados en servicio o con motivo de éste, en la institución pública o privada que pueda proporcionarla en las mejores condiciones, de acuerdo con el Sistema de Prestaciones Sociales del Municipio;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2021)</small>
 
-XII. Cumplir, en su caso, con los arrestos impuestos por el Juez Municipal, por la comisión de faltas administrativas, en un área especial para policías separado del resto de los detenidos;
+XII. Cumplir, en su caso, con los arrestos impuestos por el Juez Cívico, por la comisión de faltas administrativas, en un área especial para policías separado del resto de los detenidos;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -9655,7 +9657,9 @@ IV.- El Titular del Estado Mayor.
 
 V.- El Titular de la Dirección de Prevención del Delito.
 
-VI.- El Titular de Justicia Municipal.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2021)</small>
+
+VI.- El Director de Juzgados Cívicos.
 
 VII.- El Titular de la Dirección de Parques y Jardines.
 
@@ -9815,9 +9819,9 @@ El Jefe del Departamento de Bomberos será designado por el Presidente Municipal
 
 El titular del Departamento de Bomberos o quien lo sustituya en sus ausencias en coordinación con Protección Civil tendrá facultades para solicitar el auxilio de las fuerzas de Seguridad Pública en los casos de siniestro, actuando estas fuerzas como auxiliares de los bomberos, cuidando de ejercer estricta vigilancia para impedir que el público que acude curiosamente a los incendios u otras maniobras obstruya las labores de los bomberos, efectuando una vigilancia completa y eficaz para que la maquinaria, equipo y herramientas que se utilicen no sea robada o dañada.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2021)</small>
 
-Cuidará también que los automovilistas no crucen con sus vehículos por encima de las mangueras de servicio o cuando esto ocurra, los integrantes operativos de la Secretaria de Seguridad Pública detendrá al o a los automovilistas, poniéndolos a disposición del Juez Municipal para que sean consignados a la Autoridad correspondiente.
+Cuidará también que los automovilistas no crucen con sus vehículos por encima de las mangueras de servicio o cuando esto ocurra, los integrantes operativos de la Secretaria de Seguridad Pública detendrá al o a los automovilistas, poniéndolos a disposición del Juez Cívico para que sean consignados a la Autoridad correspondiente.
 
 Las autoridades que colaboren con los bomberos, estarán en su caso bajo la Dirección del 1er Superintendente o por quien designe éste.
 
@@ -19345,9 +19349,9 @@ VIII. Evitar la discriminación, por origen étnico, género, condición social,
 
 IX. Contar con las instalaciones adecuadas para el acceso y libre tránsito de personas con discapacidad, cumpliendo las disposiciones de la normatividad aplicable;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2021)</small>
 
-X.- Permitir el libre e inmediato acceso de los verificadores, para la realización de sus funciones, siempre que los mismos exhiban la orden de visita de acuerdo a la Ley del Procedimiento Administrativo. Quienes obstaculicen la entrada o inspección de los verificadores serán detenidos por elementos de la Secretaría de Seguridad Pública y puestos a disposición de un Juez Municipal;
+X. Permitir el libre e inmediato acceso de los verificadores, para la realización de sus funciones, siempre que los mismos exhiban la orden de visita de acuerdo a la Ley del Procedimiento Administrativo. Quienes obstaculicen la entrada o inspección de los verificadores serán detenidos por elementos de la Secretaría de Seguridad Pública y puestos a disposición de un Juez Cívico;
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -24942,3 +24946,37 @@ P.O. 17 DE MAYO DE 2021.
 PRIMERO.- La presente reforma al artículo 326 y 356 del Código Municipal de Aguascalientes, iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Se instruye a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno para que a través de la Dirección de Justicia Municipal, se realicen los trámites legales y administrativos conducentes para la aplicación de la presente reforma.
+
+P.O. 12 DE JULIO DE 2021.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE SE “REFORMA A LOS ARTÍCULOS 98, 565, 619 BIS, 625 Y 1322 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
+
+PRIMERO: La presente reforma al artículo 98 fracción IX, 565 fracción XII, 619 BIS fracción VI, 625 y 1322 fracción X del Código Municipal de Aguascalientes, iniciaran su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO: Al momento de la aprobación de la presente reforma por parte del Honorable Ayuntamiento Constitucional del Municipio de Aguascalientes, se deberá iniciar el procedimiento de la entrega-recepción de la Dirección de Justicia Municipal; por lo cual la Presidenta Municipal de Aguascalientes deberá designar y nombrar al Director de Justicia Cívica, lo que se deberá realizar dentro de los siguientes treinta días hábiles.
+
+Una vez designado el Director de Justicia Cívica, se deberán realizar los trámites respectivos para transferir a dicha Dirección, los recursos humanos, financieros y materiales de la Dirección de Justicia Municipal.
+
+TERCERO: Se faculta al Director de Justicia Cívica, para firmar todos aquellos documentos y resoluciones que se originen con motivo de la substanciación de los Procedimientos con antelación a la vigencia de la presente reforma.
+
+CUARTO: El personal adscrito a la Dirección de Justicia Municipal que sea transferido a la Dirección de Justicia Cívica, conservará los derechos laborales que haya adquirido con anterioridad.
+
+Se instruye a la Secretaría de Administración lleve a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados; por lo que deberá de realizar el cambio de adscripción de todos y cada uno de los servidores públicos adscritos a la Dirección de Justicia Municipal, con la finalidad de que estos mismos dependan presupuestalmente de la Dirección de Justicia Cívica.
+
+QUINTO: La Dirección de Justicia Cívica a más tardar el día 02 de agosto del presente año, deberá realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
+
+Para lo cual en caso de ser necesario, se deberán realizar los documentos y dictámenes correspondientes que establece el artículo 98, tercer párrafo, fracciones I, II y III del Código Municipal de Aguascalientes a efecto de que el Honorable Ayuntamiento Constitucional del Municipio de Aguascalientes esté en posibilidades de realizar las adecuaciones a su estructura orgánica dentro del citado ordenamiento legal.
+
+SEXTO: La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración; deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Dirección de Justicia Cívica, cuente con sus respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, asimismo, para que todos los bienes que actualmente posea la Dirección de Justicia Municipal pasen a la nueva Dirección de Justicia Cívica, a efecto de que éste cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+
+SEPTIMO: La Secretaría de Finanzas Públicas Municipales, deberá realizar los actos legales y administrativos correspondientes, a efecto de (sic) la Dirección de Justicia Cívica cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+
+OCTAVO: Para el ejercicio fiscal 2022, la Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Dirección de Justicia Cívica, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+
+NOVENO: La Dirección de Justicia Cívica, dentro de los sesenta días hábiles siguientes a la entrada en vigor de la presente reforma, deberá enviar a las Comisiones correspondientes, las reformas, reglamentos, lineamientos generales, manuales de organización y de procedimientos necesarios y correspondientes con el fin de que se encuentre conforme a la presente reforma y para su aprobación por el Honorable Ayuntamiento Constitucional del Municipio de Aguascalientes.
+
+DECIMO: Todos los trámites que se hubiesen iniciado bajo la vigencia de los ordenamientos legales señalados en el transitorio primero, se deberán de concluir con los procedimientos previstos en los mismos.
+
+DÉCIMO SEGUNDO: Las referencias que se hagan y las atribuciones que se otorgan en el presente Código, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a la anterior Dirección de Justicia Municipal, se entenderán hechas o conferidas a la actual Dirección de Juzgados Cívicos.
+
+DÉCIMO TERCERO: Las referencias que se hagan y las atribuciones que se otorgan en el presente Código, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior Juez Municipal o Juez Calificador, se entenderán hechas o conferidas al actual Juez Cívico.
