@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-131962"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-07"
-last_updated: "2020-11-27"
+last_updated: "2021-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-11-30"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2021.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2018.
 
@@ -2621,9 +2621,11 @@ IX. El cumplimiento de las obligaciones a que se refiere este Acuerdo y demás d
 
 X. Los demás que determine el Pleno o la Comisión de Vigilancia.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROCESO DE EVALUACIÓN DEL DESEMPEÑO Y CONDUCTA DE LOS VISITADORES JUDICIALES, D.O.F. 12 DE JULIO DE 2021)</small>
+
 ###### Artículo 294.
 
-El Visitador General examinará los expedientes de los Visitadores Judiciales “A”, así como las manifestaciones que respecto del mismo hubieran formulado y emitirá una resolución en la que evalúe su desempeño y conducta e informará a la Comisión de Vigilancia el resultado de su evaluación.
+El Visitador General examinará los expedientes de los Visitadores Judiciales "A", así como las manifestaciones que respecto de éstos se hubieran formulado y emitirá una resolución en la que evalúe su desempeño y conducta, sometiendo a la consideración de la Comisión de Vigilancia el resultado de su evaluación, quien podrá aprobar la resolución, o bien, solicitar, en caso de que ésta no haya sido formulada conforme al sistema de evaluación previamente aprobado, un nuevo estudio, a efecto de que se emita diversa resolución.
 
 #### SECCIÓN TERCERA. DE LA EVALUACIÓN DE LOS VISITADORES JUDICIALES “B”
 
@@ -2651,9 +2653,11 @@ VIII. Los demás que determine el Pleno o la Comisión de Vigilancia.
 
 Al inicio de cada semestre, los Visitadores Judiciales “A” revisarán el expediente de los Visitadores Judiciales “B” que el Visitador General les asigne, así como las manifestaciones que respecto del mismo hubieren formulado los Visitadores Judiciales “B”. En breve término emitirán al Visitador General una opinión objetiva en relación con el desempeño y conducta que los Visitadores Judiciales “B” tuvieron durante el periodo revisado.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROCESO DE EVALUACIÓN DEL DESEMPEÑO Y CONDUCTA DE LOS VISITADORES JUDICIALES, D.O.F. 12 DE JULIO DE 2021)</small>
+
 ###### Artículo 297.
 
-El Visitador General examinará los expedientes de los Visitadores Judiciales “B” y la opinión emitida por los Visitadores Judiciales “A” y emitirá una resolución en la que evalúe el desempeño y conducta de los primeros e informará a la Comisión de Vigilancia el resultado de su evaluación.
+El Visitador General examinará los expedientes de los Visitadores Judiciales "B" y la opinión emitida por los Visitadores Judiciales "A" y emitirá una resolución en la que evalúe el desempeño y conducta de los primeros, sometiendo a la consideración de la Comisión de Vigilancia el resultado de su evaluación, quien podrá aprobar la resolución, o bien, solicitar, en caso de que ésta no haya sido formulada conforme al sistema de evaluación previamente aprobado, un nuevo estudio, a efecto de que se emita diversa resolución.
 
 ANEXO
 
@@ -3186,3 +3190,11 @@ DÉCIMO. Las nuevas categorías previstas para la Carrera Judicial entrarán en 
 DECIMOPRIMERO. Los plazos para el llenado del Padrón Electrónico de Relaciones Familiares empezarán a correr a partir de la entrada en vigor del presente Acuerdo, reiniciando los previstos originalmente cuando se aprobó el citado Padrón, y reconociendo la validez de los registros que ya se hubieren realizado.
 
 DECIMOSEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 12 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROCESO DE EVALUACIÓN DEL DESEMPEÑO Y CONDUCTA DE LOS VISITADORES JUDICIALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
