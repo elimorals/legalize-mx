@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2021-06-29"
+last_updated: "2021-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2021.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -979,13 +979,17 @@ XV. Proponer al Pleno los sistemas que permitan evaluar el desempeño y honorabi
 
 XVI. Supervisar el funcionamiento de la Visitaduría Judicial;
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROCESO DE EVALUACIÓN DEL DESEMPEÑO Y CONDUCTA DE LOS VISITADORES JUDICIALES, D.O.F. 12 DE JULIO DE 2021)</small>
 
-XVII. Acordar las licencias solicitadas por los Visitadores Judiciales “A”; y
+XVII. Acordar las licencias solicitadas por los Visitadores Judiciales "A";
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROCESO DE EVALUACIÓN DEL DESEMPEÑO Y CONDUCTA DE LOS VISITADORES JUDICIALES, D.O.F. 12 DE JULIO DE 2021)</small>
 
-XVIII. Las demás que establezcan la Ley, el Pleno y el presente Acuerdo.
+XVIII. Aprobar la resolución de la evaluación de los visitadores, o en su caso, solicitar un nuevo estudio a efecto de que se emita una nueva resolución conforme al sistema de evaluación previamente aprobado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROCESO DE EVALUACIÓN DEL DESEMPEÑO Y CONDUCTA DE LOS VISITADORES JUDICIALES, D.O.F. 12 DE JULIO DE 2021)</small>
+
+XIX. Las demás que establezcan la Ley, el Pleno y el presente Acuerdo.
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
@@ -2129,7 +2133,13 @@ XIX. Comunicar sobre el resultado de los sorteos al Pleno y al titular de la Vis
 
 XX. Proponer al Secretario Técnico de la Comisión de Vigilancia;
 
-XXI. Las demás que establezcan el Pleno y las Comisiones.
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROCESO DE EVALUACIÓN DEL DESEMPEÑO Y CONDUCTA DE LOS VISITADORES JUDICIALES, D.O.F. 12 DE JULIO DE 2021)</small>
+
+XXI. Supervisar que la resolución de evaluación de los visitadores elaborada por el Visitador General se presente a la Comisión de Vigilancia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROCESO DE EVALUACIÓN DEL DESEMPEÑO Y CONDUCTA DE LOS VISITADORES JUDICIALES, D.O.F. 12 DE JULIO DE 2021)</small>
+
+XXII. Las demás que establezcan el Pleno y las Comisiones.
 
 #### SECCIÓN SEXTA
 
@@ -2981,9 +2991,9 @@ XX. Designar a servidores públicos que deban hacerse cargo del despacho de la V
 
 XXI. Autorizar las vacaciones a los servidores públicos a que se refiere la fracción anterior, en los términos del artículo 159, párrafo segundo, de la Ley;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROCESO DE EVALUACIÓN DEL DESEMPEÑO Y CONDUCTA DE LOS VISITADORES JUDICIALES, D.O.F. 12 DE JULIO DE 2021)</small>
 
-XXII. Elaborar e implementar sistemas de supervisión y evaluación del desempeño y la conducta de los visitadores; informar a la Comisión de Vigilancia los resultados de la evaluación y, en caso de ser negativos, proponer las medidas adecuadas;
+XXII. Elaborar e implementar los sistemas de supervisión y evaluación del desempeño y la conducta de los visitadores; y someterlos a la aprobación de la Comisión de Vigilancia; así como los resultados de la evaluación y, en caso de ser negativos, proponer las medidas adecuadas;
 
 XXIII. Emitir opinión fundada al Consejo sobre la posible prórroga del nombramiento de los visitadores judiciales;
 
@@ -6482,3 +6492,11 @@ SEGUNDO. La Dirección General de Estrategia y Transformación Digital iniciará
 TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
 
 CUARTO. La Secretaría Ejecutiva de Administración, a través de las áreas administrativas de su adscripción deberá ejecutar las acciones necesarias para la implementación de este Acuerdo.
+
+D.O.F. 12 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROCESO DE EVALUACIÓN DEL DESEMPEÑO Y CONDUCTA DE LOS VISITADORES JUDICIALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
