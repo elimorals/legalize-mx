@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-de-radio-y-television-de-aguascalientes-15013
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-06-21"
-last_updated: "2021-06-21"
+last_updated: "2021-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # ESTATUTO ORGANICO DE RADIO Y TELEVISION DE AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JULIO DE 2021 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE RADIO Y TELEVISIÓN DE AGUASCALIENTES
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE JULIO DE 2021.]</small>
 
 Estatuto publicado en la Primera Sección al No. 25 del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de junio de 2021.
 
@@ -889,9 +889,11 @@ T R A N S I T O R I O S
 
 El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el en el (sic) Periódico Oficial del Estado de Aguascalientes.
 
+> <small>(F. DE E., P.O. 12 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-A partir de la entrada en vigor queda abrogado el Estatuto Orgánico de Radio y Televisión de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de junio de 2019.
+A partir de la entrada en vigor queda abrogado el Estatuto Orgánico de Radio y Televisión de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de junio de 2019.
 
 ###### ARTÍCULO TERCERO.
 
