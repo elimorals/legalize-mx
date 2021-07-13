@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-mezcal-para-el-estado-de-san-luis-potosi-130806"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-18"
-last_updated: "2018-09-18"
+last_updated: "2021-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL MEZCAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de septiembre de 2018.
 
@@ -209,6 +209,12 @@ En los municipios con Denominación de Origen Mezcal, la producción se llevará
 
 En los programas e incentivos para la cadena productiva del Mezcal se observarán los lineamientos que para tal efecto elaboren y publiquen las Secretarias de, Desarrollo Económico; y de Desarrollo Agropecuario y Recursos Hidráulicos, y demás dependencias competentes en acuerdo con los demás integrantes del Consejo, esto de conformidad a lo establecido en la Ley para el Desarrollo Económico Sustentable y la Competitividad del Estado de San Luis Potosí.
 
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+
+ARTÍCULO 11 BIS. La Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos asesorará a los productores de Mezcal con la finalidad de promover un sistema mixto para la obtención de energía calorífica para la producción del mezcal.
+
+Para la fase de la cocción de las piñas, se podrán utilizar diferentes materias orgánicas, susceptibles de ser usadas como combustible, lo que permite no alterar los sabores característicos del mezcal. Para la fase de destilación se procurará la utilización de gas.
+
 ### Capítulo Quinto. Certificación
 
 ###### ARTÍCULO 12.
@@ -236,6 +242,18 @@ La Secretaría de Desarrollo Económico en conjunto con el Consejo, serán los r
 ###### ARTÍCULO 17.
 
 Las acciones de fomento y de promoción, que contribuyan a respaldar y facilitar el cumplimiento de esta Ley y de la normatividad aplicable, estarán destinadas a fortalecer y consolidar la actividad de la cadena productiva del Mezcal.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 18.
+
+La Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos en conjunto con el Consejo, promoverá sistemas de agricultura sustentable del Maguey (Agave Salmiana); considerando no dejar de lado la calidad de vida de los propietarios de los predios donde se produce.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 19.
+
+La Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, promoverá la instrumentación de modelos de apoyos para los productores de mezcal, así como para los propietarios de los predios donde se extrae el Maguey (Agave Salmiana) y que inicien proyectos basados en agricultura sustentable, en los términos del artículo 14 de la Ley de Fomento al Desarrollo Rural Sustentable del Estado de San Luis Potosí.
 
 ## TRANSITORIOS
 
@@ -270,3 +288,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1203.- SE ADICIONA LOS ARTÍCULOS 11 BIS, 18, Y 19, DE LA LEY DEL MEZCAL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
