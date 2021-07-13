@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mejora-regulatoria-del-estado-y-municipios-de-san-136192
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-15"
-last_updated: "2019-05-15"
+last_updated: "2021-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de mayo de 2019.
 
@@ -176,6 +176,22 @@ Para que las Regulaciones produzcan efectos jurídicos deberán ser publicadas e
 ###### ARTÍCULO 6°.
 
 Las Autoridades de Mejora Regulatoria, impulsarán el uso y aprovechamiento de las tecnologías de la información y comunicaciones para facilitar la interacción con los ciudadanos a efecto de que éstos puedan dirigir sus solicitudes, opiniones, comentarios, a través de los sistemas electrónicos de comunicación, así como obtener la atención o resolución de aquellas por los mismos canales. Lo anterior en medida de los recursos con los que cuenten cada uno de los sujetos obligados.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+
+ARTÍCULO 6° BIS. Las Autoridades de Mejora Regulatoria, en sus respectivos ámbitos de competencia, dispondrán lo necesario para recibir por escrito, en formato físico o electrónico, propuestas ciudadanas de mejoras a trámites o servicios específicos, prestados por los sujetos obligados. Tales propuestas deberán resolverse en términos de análisis de impacto regulatorio, decidiendo sobre su implementación, y comunicando el resultado al promovente. En caso de que se resuelva favorablemente, las propuestas se implementarán aun cuando no estén incorporadas a la Agenda Regulatoria de los sujetos obligados, en los términos del artículo 69 de este Ordenamiento.
+
+Las propuestas deben incluir:
+
+I. El trámite impactado por la propuesta de mejora;
+
+II. El sujeto obligado que realiza el trámite;
+
+III. Explicación de la propuesta;
+
+IV. Razones o motivos que la sustentan, y
+
+V. Datos del promovente.
 
 ### Capítulo II. De los Principios, Bases y Objetivos de la Mejora Regulatoria
 
@@ -977,9 +993,15 @@ II. La publicidad de la propuesta regulatoria o la materia que contiene pueda co
 
 III. Los sujetos obligados demuestren a la Autoridad de Mejora Regulatoria que la expedición de la propuesta regulatoria no generará, a los particulares, costos de cumplimiento;
 
-IV. Los sujetos obligados demuestren a la Autoridad de Mejora Regulatoria que la expedición de la propuesta regulatoria representará una mejora sustancial que reduzca los costos de cumplimiento previstos por la regulación vigente, simplifique trámites o servicios, o ambas, y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2021)</small>
 
-V. Las propuestas regulatorias sean emitidas directamente por los titulares del poder ejecutivo en los distintos órdenes de gobierno.
+IV. Los sujetos obligados demuestren a la Autoridad de Mejora Regulatoria que la expedición de la propuesta regulatoria representará una mejora sustancial que reduzca los costos de cumplimiento previstos por la regulación vigente, simplifique trámites o servicios, o ambas;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
+
+V. Las propuestas regulatorias sean producto de iniciativas ciudadanas, en términos de lo estipulado por el artículo 6° BIS de esta Ley, y
+
+VI. Las propuestas regulatorias sean emitidas directamente por los titulares del poder ejecutivo en los distintos órdenes de gobierno.
 
 ### Capítulo III. Del Análisis de Impacto Regulatorio
 
@@ -1298,3 +1320,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1202.- SE REFORMA EL ARTÍCULO 69 EN SU FRACCIÓN IV; Y ADICIONA EL ARTÍCULO 6° BIS, Y AL ARTÍCULO 69 UNA FRACCIÓN, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
