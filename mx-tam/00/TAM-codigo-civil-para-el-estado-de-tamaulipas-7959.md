@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2021-05-20"
+last_updated: "2021-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2021.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -547,27 +547,17 @@ ART. 123.- Las actas a que se refiere el artículo 121 contendrán: el nombre, a
 
 ### CAPITULO I. DE LOS ESPONSALES
 
-ART. 124.- La promesa de matrimonio que se hacen mutuamente el hombre y la mujer constituye los esponsales.
+ART. 124.- (DEROGADO, P.O. 13 DE JULIO DE 2021)
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+ART. 125.- (DEROGADO, P.O. 13 DE JULIO DE 2021)
 
-ART. 125.- Sólo pueden prometerse en matrimonio las personas que cumplan la mayoría de edad.
+ART. 126.- (DEROGADO, P.O. 13 DE JULIO DE 2021)
 
-ART. 126.- Los esponsales no producen obligación de contraer matrimonio, ni en ellos puede estipularse pena alguna por no cumplir la promesa.
+ART. 127.- (DEROGADO, P.O. 13 DE JULIO DE 2021)
 
-ART. 127.- El que sin causa grave, a juicio del juez, rehusare cumplir su compromiso de matrimonio o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiere hecho con motivo del matrimonio proyectado.
+ART. 128.- (DEROGADO, P.O. 13 DE JULIO DE 2021)
 
-En la misma responsabilidad incurrirá el prometido que diere motivo grave para el rompimiento de los esponsales.
-
-En cualquiera de los casos anteriores, el prometido culpable perderá en beneficio del inocente, las donaciones que le hubiere hecho.
-
-También pagará el prometido que sin causa grave falta a su compromiso, una indemnización a título de reparación moral, cuando por la duración del noviazgo, la intimidad establecida entre los prometidos, la publicidad de las relaciones, la proximidad del matrimonio u otras causas semejantes, cause un grave daño a la reputación del prometido inocente.
-
-La indemnización será prudentemente fijada en cada caso por el juez, teniendo en cuenta los recursos del prometido culpable y la gravedad del perjuicio causado al inocente.
-
-ART. 128.- Las acciones a que se refiere el artículo que precede, sólo pueden ejercerse dentro de seis meses, contados desde el día del rompimiento de los esponsales.
-
-ART. 129.- Si el matrimonio no se celebra, tienen derecho los prometidos salvo lo establecido en el artículo 127, de exigir la devolución de lo que se hubieren donado con motivo de su concertado matrimonio. Este derecho durará seis meses, contado desde el rompimiento de los esponsales.
+ART. 129.- (DEROGADO, P.O. 13 DE JULIO DE 2021)
 
 ## TITULO TERCERO. DEL MATRIMONIO
 
@@ -921,9 +911,11 @@ ART. 219.- La acción de nulidad motivada por el error, sólo puede deducirse po
 
 ### CAPITULO XII. DEL DIVORCIO
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2021)</small>
 
-ART. 248.- El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita, siempre que haya transcurrido cuando menos un año desde la celebración del mismo.
+ART. 248.- El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
 
 Solo se decretará cuando se cumplan los requisitos exigidos por el siguiente artículo.
 
@@ -1023,17 +1015,19 @@ El Oficial del Registro Civil, después de haber verificado que los solicitantes
 
 Si los cónyuges ratifican la solicitud, el Oficial del Registro Civil los declarará divorciados, levantando el acta correspondiente ante la presencia de dos testigos y hará la anotación respectiva para la cancelación del matrimonio.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2021)</small>
 
-Los cónyuges que sean declarados divorciados no podrán contraer matrimonio, hasta que transcurra un año a partir de la declaración de divorcio administrativo.
+Los cónyuges una vez declarados divorciados, podrán contraer matrimonio en el momento que así lo decidan.
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2001)</small>
 
 Si se comprueba que los cónyuges no cumplen con los requisitos exigidos, el divorcio así obtenido no producirá efectos, independientemente de las sanciones previstas en las leyes.
 
-ART. 255.- Sólo cuando haya transcurrido por lo menos un año de la celebración del matrimonio puede pedirse el divorcio por mutuo consentimiento, y será nulo si se efectúa antes. La acción de nulidad en este caso corresponde en cualquier tiempo al Ministerio Público, pero si alguno de los divorciados contrajo nuevas nupcias únicamente podrá ejercitarla dentro de un año a partir del pronunciamiento del divorcio.
+ART. 255.- (DEROGADO, P.O. 13 DE JULIO DE 2021)
 
-ART. 256.- Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento podrán reunirse de común acuerdo en cualquier tiempo con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2021)</small>
+
+ART. 256.- Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento podrán reunirse de común acuerdo en cualquier tiempo con tal de que el divorcio no hubiere sido decretado.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
 
@@ -10488,6 +10482,14 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 20 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-529 MEDIANTE EL CUAL SE DEROGA LA FRACCIÓN X, DEL ARTÍCULO 138 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-536 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 248, PÁRRAFO PRIMERO; 254 BIS, PÁRRAFO CUARTO; Y 256; Y SE DEROGAN LOS ARTÍCULOS 124; 125; 126; 127; 128; 129; Y 255, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
