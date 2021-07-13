@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2020-10-15"
+last_updated: "2021-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -91,7 +91,9 @@ VI.- Gerontología.- Al Servicio otorgado por personas dedicadas al estudio del 
 
 VII.- Integración social.- Al conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Estado y la sociedad organizada, encaminadas a modificar y superar las circunstancias que impidan a las personas adultas mayores desplazadas, su permanencia a los sectores productivos y estratégicos de la sociedad organizada, incrementando así su desarrollo integral;
 
-VIII.- Ley.- La presente Ley de los Derechos de las Personas Adultas Mayores en el Estado de Tamaulipas; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2021)</small>
+
+VIII.- Ley.- La presente Ley de los Derechos de las Personas Adultas Mayores en el Estado de Tamaulipas;
 
 IX.- Personas Adultas Mayores.- A aquellas que cuentan con sesenta años o más de edad y que se encuentren domiciliadas o de paso en el Estado; contemplándose en diferentes condiciones:
 
@@ -102,6 +104,22 @@ b).- Semidependiente: A aquella a la que sus condiciones físicas y mentales aú
 c).- Dependiente absoluto: A aquella con una enfermedad crónica o degenerativa por la que requiera ayuda permanente total o canalización a alguna institución de asistencia; y
 
 d).- En situación de riesgo o desamparo.- A aquellas que por problemas de salud, abandono, carencia de apoyos económicos y familiares, contingencias ambientales o desastres naturales, requieren de asistencia y protección del Estado y de la sociedad organizada.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
+
+X.- Abandono.- La falta de acción deliberada o no para atender de manera integral las necesidades de una persona adulta mayor, que ponga en peligro su vida o su integridad física, psíquica o moral;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
+
+XI.- Cuidados paliativos.- La atención y cuidado activo, integral e interdisciplinario de pacientes cuya enfermedad no responde a un tratamiento curativo o sufren dolores evitables, a fin de mejorar su calidad de vida hasta el fin de sus días. Implica una atención primordial al control del dolor, de otros síntomas y de los problemas sociales, psicológicos y espirituales de la persona mayor. Abarcan al paciente, su entorno y su familia. Afirman la vida y consideran la muerte como un proceso normal; no la aceleran ni retrasan;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
+
+XII.- Maltrato.- Acción u omisión, única o repetida, contra una persona adulta mayor que produce daño a su integridad física, psicológica, moral, económica y sexual que vulnera el goce o ejercicio de sus derechos humanos y libertades fundamentales, independientemente de que ocurra en una relación de confianza; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
+
+XIII.- Negligencia.- Error involuntario o falta no deliberada, incluido entre otros, el descuido, omisión, desamparo e indefensión que le causa un daño o sufrimiento a una persona adulta mayor, tanto en el ámbito público como privado, cuando no se hayan tomado las precauciones normales necesarias de conformidad con las circunstancias.
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2020)</small>
 
@@ -187,9 +205,17 @@ d).- Ser protegidos contra toda forma de explotación y malos tratos físicos y 
 
 e).- Recibir protección por parte de su familia, del Estado y sociedad;
 
-f).- Gozar de oportunidades, para mejorar las capacidades que les faciliten el ejercicio de sus derechos; y
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2021)</small>
 
-g).- Vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos.
+f).- Gozar de oportunidades, para mejorar las capacidades que les faciliten el ejercicio de sus derechos;
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2021)</small>
+
+g).- Vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos; y
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+
+h).- Gozar de una vida y envejecimiento activos, en igualdad de condiciones con otros sectores de la población. Se tomarán medidas para que las instituciones públicas y privadas ofrezcan a las personas adultas mayores un acceso no discriminatorio a cuidados integrales, incluidos los cuidados paliativos, eviten el aislamiento y manejen apropiadamente los problemas relacionados con el miedo a la muerte de los enfermos terminales, el dolor, y eviten el sufrimiento innecesario y las intervenciones fútiles e inútiles, de conformidad con el derecho de las personas adultas mayores a expresar el consentimiento informado.
 
 II.- A la certeza jurídica:
 
@@ -207,19 +233,49 @@ III.- A la salud y alimentación:
 
 a).- Tener acceso a los satisfactores necesarios, para su atención integral;
 
-b).- Tener acceso a los servicios de salud, en los términos del párrafo cuarto del artículo 4° de la Constitución Política de los Estados Unidos Mexicanos; y
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2007)</small>
+b).- Tener acceso a los servicios de salud, en los términos del párrafo cuarto del artículo 4° de la Constitución Política de los Estados Unidos Mexicanos;
 
-c).- Recibir atención preferencial, orientación y capacitación en materia de salud, nutrición e higiene.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2021)</small>
+
+c).- Recibir atención preferencial, orientación y capacitación en materia de salud, nutrición e higiene. El Estado deberá diseñar e implementar políticas públicas intersectoriales de salud orientadas a una atención integral que incluya la promoción de la salud, la prevención y la atención de la enfermedad en todas las etapas, y la rehabilitación y los cuidados paliativos de la persona adulta mayor a fin de propiciar el disfrute del más alto nivel de bienestar, físico, mental y social. Asimismo, el Estado garantizará una Seguridad Alimentaria; ésta existe cuando una persona tiene acceso físico y económico a suficientes alimentos sanos, variados y nutritivos para satisfacer sus necesidades alimenticias y sus preferencias en cuanto a los alimentos a fin de llevar una vida activa y sana; y
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+
+d).- Tener acceso a programas y políticas públicas que permitan a las personas adultas mayores contar con servicios de salud adecuados durante el periodo que comprenda la declaración de una emergencia sanitaria que requiera el establecimiento de medidas de aislamiento social. El Estado podrá implementar políticas que incluyan consultas médicas a distancia y servicio de atención a domicilio.
 
 IV.- A la educación, recreación, información y participación:
 
 a).- Recibir información sobre las instituciones que prestan servicios para su atención integral;
 
-b).- Recibir educación conforme lo señala el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos; y
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2021)</small>
 
-c).- Participar en la vida cultural, deportiva y recreativa de su comunidad.
+b).- Recibir educación conforme lo señala el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2021)</small>
+
+c).- Participar en la vida cultural, deportiva y recreativa de su comunidad;
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+
+d).- Recibir capacitación sobre el uso de las tecnologías de la información y comunicación.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+
+e).- Participar en la planeación integral del desarrollo social, a través de la formulación y aplicación de las decisiones que afecten directamente a su bienestar, barrio, calle, colonia, delegación o municipio;
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+
+f).- Asociarse y conformar organizaciones de personas adultas mayores para promover su desarrollo e incidir en las acciones dirigidas a este sector;
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+
+g).- Participar en los procesos productivos, de educación y capacitación de su comunidad; y
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+
+h).- Formar parte de los diversos órganos de representación y consulta ciudadana.
 
 V.- Al trabajo:
 
@@ -227,7 +283,49 @@ a).- Gozar de oportunidades igualitarias de acceso al trabajo o de otras posibil
 
 VI.- A la Asistencia Social:
 
-a).- Ser sujetos de programas de asistencia social cuando se encuentren en situación de riesgo o desamparo, que garanticen su atención integral.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2021)</small>
+
+a).- Ser sujetos de programas de asistencia social cuando se encuentren en situación de riesgo o desamparo, que garanticen su atención integral;
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+
+b).- Ser sujetos de programas para contar con una vivienda digna y adaptada a sus necesidades;
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+
+c).- Ser sujetos de programas para tener acceso a una casa hogar o albergue, u otras alternativas de atención integral, si se encuentran en situación de riesgo o desamparo; y
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+
+d).- Tener acceso progresivamente a una variedad de servicios de asistencia domiciliaria, residencial y otros servicios de apoyo de la comunidad, incluida la asistencia personal que sea necesaria para facilitar su existencia y su inclusión en la comunidad, y para evitar su aislamiento o separación de ésta.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
+
+VII.- A la denuncia popular:
+
+a).- Denunciar ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías que establece la presente Ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con las personas adultas mayores.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
+
+VIII.- Al acceso a los Servicios:
+
+a).- Tener una atención preferente en los establecimientos públicos y privados que prestan servicios al público;
+
+b).- Los servicios y establecimientos de uso público deberán implementar medidas para facilitar el uso y/o acceso adecuado; y
+
+c).- Contar con asientos preferentes en los establecimientos que prestan servicios al público y en los servicios de autotransporte de pasajeros.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
+
+IX.- A la igualdad y no discriminación por razones de edad:
+
+a).- Desarrollar enfoques específicos en las políticas, planes sobre envejecimiento y vejez, en relación con las personas adultas mayores en condición de vulnerabilidad y aquellas que son víctimas de discriminación múltiple, incluidas las mujeres, las personas con discapacidad, las personas en situación de pobreza o marginación social, los afrodescendientes y las personas pertenecientes a pueblos indígenas, las personas sin hogar, las personas privadas de libertad, las personas pertenecientes a pueblos tradicionales, las personas pertenecientes a grupos étnicos, raciales, nacionales, lingüísticos, religiosos y rurales, entre otros.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
+
+X.- Al consentimiento libre e informado en el ámbito de la salud:
+
+a).- Recibir información clara y oportuna sobre las posibles consecuencias y los riesgos de aceptar o negarse a recibir o interrumpir tratamientos médicos o quirúrgicos, incluidos los de la medicina tradicional, alternativa y complementaria, ya sean de carácter físico o psíquico. El Estado se compromete a elaborar mecanismos adecuados y eficaces para impedir abusos y fortalecer la capacidad de las personas adultas mayores de comprender plenamente las opciones de tratamiento existentes, sus riesgos y beneficios.
 
 ## TITULO TERCERO
 
@@ -343,9 +441,13 @@ VIII.- Promover la coordinación con la Federación y con las instituciones educ
 
 IX.- Implementar programas de estímulos e incentivos a las personas adultas mayores que estudien;
 
-X.- Implementar programas, a efecto de crear y difundir, entre la población en general y en la familia, la cultura de dignificación, respeto e integración a la sociedad de las personas adultas mayores; y
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
 
-XI.- Promover, ante las instancias correspondientes, que en los eventos culturales organizados en el Estado, se propicie la accesibilidad y la gratuidad o descuentos especiales a las personas adultas mayores, previa acreditación de edad a través de una identificación personal.
+X.- Promover e impulsar las acciones necesarias, en coordinación con las autoridades federales, estatales y municipales, a fin de garantizar a las personas adultas mayores el derecho de acceso a las tecnologías de la información y comunicación;
+
+XI.- Implementar programas, a efecto de crear y difundir, entre la población en general y en la familia, la cultura de dignificación, respeto e integración a la sociedad de las personas adultas mayores; y
+
+XII.- Promover, ante las instancias correspondientes, que en los eventos culturales organizados en el Estado, se propicie la accesibilidad y la gratuidad o descuentos especiales a las personas adultas mayores, previa acreditación de edad a través de una identificación personal.
 
 ### CAPITULO III. DE LA SECRETARIA DE SALUD
 
@@ -828,6 +930,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 15 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-145 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6; 8, FRACCIONES III Y IV; Y 10, FRACCIONES I Y X; Y SE ADICIONAN LA FRACCIÓN V AL ARTÍCULO 8; LAS FRACCIONES XI, XII Y XIII, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XI PARA PASAR A SER FRACCIÓN XIV DEL ARTÍCULO 10 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-541 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
