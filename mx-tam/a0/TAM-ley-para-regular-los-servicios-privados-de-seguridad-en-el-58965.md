@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-regular-los-servicios-privados-de-seguridad-en-el-5896
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-08"
-last_updated: "2016-12-21"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA REGULAR LOS SERVICIOS PRIVADOS DE SEGURIDAD EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 8 de noviembre de 2007.
 
@@ -173,7 +173,9 @@ h) Autorizar y expedir las identificaciones del personal que supervisará las ac
 
 i) Ordenar inspecciones periódicas a las instalaciones, equipo y personal de los prestadores de servicios privados de seguridad;
 
-j) Solicitar a la Procuraduría General de Justicia y a la autoridad municipal que corresponda, el auxilio para supervisar las actividades de los prestadores, así como cualquier información relacionada con dicha actividad;
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+j) Solicitar a la Fiscalía General de Justicia y a la autoridad municipal que corresponda, el auxilio para supervisar las actividades de los prestadores, así como cualquier información relacionada con dicha actividad;
 
 k) Evaluar y supervisar el funcionamiento de la prestación de los servicios privados de seguridad;
 
@@ -501,7 +503,9 @@ d) Solicitar a la Secretaría la autorización de las altas y bajas del equipo, 
 
 e) La descripción de las armas de fuego asignadas a cada elemento operativo, dentro de los cinco días hábiles de efectuada la asignación, en su caso;
 
-f) Permitir y facilitar las visitas de inspección que realice el personal de la Secretaría o los municipios o, en su caso, de la Procuraduría, para verificar el cumplimiento de las disposiciones contenidas en la Ley de Seguridad y esta ley, así como entregar la información que les sea solicitada;
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+f) Permitir y facilitar las visitas de inspección que realice el personal de la Secretaría o los municipios o, en su caso, de la Fiscalía General de Justicia del Estado, para verificar el cumplimiento de las disposiciones contenidas en la Ley de Seguridad y esta ley, así como entregar la información que les sea solicitada;
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -649,7 +653,9 @@ Las visitas de inspección que lleve a cabo la Dirección General a través del 
 
 ###### ARTÍCULO 48.
 
-1. La Secretaría podrá realizar las visitas de inspección que estime necesarias, y solicitar el auxilio de la Procuraduría o de la autoridad municipal correspondiente, si resultara necesario para el desempeño de sus atribuciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2021)</small>
+
+1. La Secretaría podrá realizar las visitas de inspección que estime necesarias, y solicitar el auxilio de la Fiscalía o de la autoridad municipal correspondiente, si resultara necesario para el desempeño de sus atribuciones.
 
 2. La visita de inspección deberá realizarse por un supervisor de la Dirección General o por el servidor público de la Secretaría autorizado al efecto, dentro del horario y días de trabajo del prestador.
 
@@ -719,7 +725,9 @@ j) Las demás circunstancias particulares que se presenten.
 
 1. El incumplimiento a las obligaciones establecidas en la Ley de Seguridad, esta ley y las demás disposiciones aplicables, independientemente de la responsabilidad civil o penal en que se pudiere incurrir, dará lugar a la imposición de sanciones por parte de la Secretaría.
 
-2. La Secretaría comunicará la imposición de sanciones a la Procuraduría, a la autoridad municipal correspondiente, a la Secretaría de Seguridad Pública Federal y demás autoridades competentes que el acto ataña, según se trate.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+2. La Secretaría comunicará la imposición de sanciones a la Fiscalía, a la autoridad municipal correspondiente, a la Secretaría de Seguridad Pública Federal y demás autoridades competentes que el acto ataña, según se trate.
 
 ###### ARTÍCULO 55.
 
@@ -979,9 +987,11 @@ g) La firma de quien la emite.
 
 3. Las resoluciones se dictarán a verdad sabida y buena fe guardada, apreciando los hechos en conciencia, expresando los motivos y fundamentos legales en que se apoye.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 77.
 
-Las resoluciones que se emitan serán notificadas al prestador y al quejoso; asimismo, según corresponda, a la Procuraduría General de Justicia, a la autoridad municipal correspondiente, al Consejo Estatal de Seguridad, a la Secretaría de Seguridad Pública del Poder Ejecutivo Federal, y a quien se considere que sea necesario.
+Las resoluciones que se emitan serán notificadas al prestador y al quejoso; asimismo, según corresponda, a la Fiscalía General de Justicia, a la autoridad municipal correspondiente, al Consejo Estatal de Seguridad, a la Secretaría de Seguridad Pública del Poder Ejecutivo Federal, y a quien se considere que sea necesario.
 
 ###### ARTÍCULO 78.
 
@@ -1158,3 +1168,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIV-554 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
