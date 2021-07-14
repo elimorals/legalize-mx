@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2021-05-15"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -578,6 +578,16 @@ V. Expedientes fiscales:
 4. Relación de rezagos.
 
 5. Legislación fiscal.
+
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 14 DE JULIO DE 2021)</small>
+
+VI. Documentos de Archivo Electrónico
+
+1. Los documentos de archivo electrónicos que pertenezcan a series documentales con valor histórico que se deban conservar.
+
+2. Los documentos de archivo electrónicos producidos y recibidos que se encuentren en un sistema automatizado para la gestión documental y administración de archivos, bases de datos y correos electrónicos a lo largo de su ciclo vital, de conformidad con la Ley de Archivos del Estado de Colima, y
+
+3. Usuarios y contraseñas de medios electrónicos, redes sociales que administren los Gobiernos Municipales, y plataformas digitales de conformidad a lo previsto por la Ley de Transparencia y Acceso a la Información Pública del Estado.
 
 ###### ARTICULO 34.
 
@@ -2700,3 +2710,13 @@ P.O. 15 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 448.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 5, 10, 15 Y 45 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 36 DE LA LEY DE MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 468 POR EL QUE SE ADICIONA LA FRACCIÓN VI, AL ARTÍCULO 33 DE LA LEY DE (SIC) MUNICIPIO LIBRE DEL ESTADO DE COLIMA Y SE EXPIDE LA LEY DE ENTREGA RECEPCIÓN DE LOS AYUNTAMIENTOS DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Los Ayuntamientos Municipales, adecuaran sus disposiciones reglamentarias, dentro de los 60 días naturales siguientes a la aprobación del presente decreto.
+
+TERCERO.- Se deroga el Decreto número 529 "Decreto para preparar la transmisión del Mando de los Gobiernos Municipales, publicado en el Periódico Oficial "El Estado de Colima" el sábado 30 de junio de 2012.
