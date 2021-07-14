@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-escolar-para-el-estado-de-tamaulipas-60669"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-27"
-last_updated: "2020-12-17"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 27 de marzo de 2008.
 
@@ -125,7 +125,7 @@ II. El Secretario de Seguridad Pública;
 
 III. El Secretario de Educación;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JULIO DE 2021)</small>
 
 IV. El Fiscal General de Justicia del Estado;
 
@@ -179,7 +179,13 @@ VI.- Las demás atribuciones que a esta ley y otras disposiciones legales le enc
 
 Corresponde a la Secretaría de Educación:
 
-I. Proponer al titular del Ejecutivo Estatal la celebración de acuerdos con los Ayuntamientos de la Entidad, a fin de cumplir los propósitos de la presente ley;
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN I ES IDÉNTICA A LA FRACCIÓN II.]</small>
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+I. Proponer al Secretario de Seguridad y al Fiscal General de Justicia del Estado, la adopción de medidas para el cumplimiento de esta ley;
+
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN II ES IDÉNTICA A LA FRACCIÓN I.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
@@ -199,7 +205,7 @@ VI. Proponer que en la toma de decisiones, en materia de esta ley, las autoridad
 
 VII. Las demás atribuciones que esta ley y otras disposiciones legales le encomienden.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 11.
 
@@ -532,3 +538,11 @@ P.O. 17 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL (SIC) GENERAL DE JUSTICIA DEL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al (sic) día siguiente al de su publicación en el Periódico Oficial del Estado.
