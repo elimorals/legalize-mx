@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-tribunal-de-justicia-administrativa-del-121787
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-02"
-last_updated: "2020-07-08"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Anexo al Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -223,7 +223,9 @@ II. Tener cuando menos treinta y cinco años cumplidos el día de la designació
 
 III. Poseer título profesional de Licenciado en Derecho debidamente registrado y expedido por lo menos con diez años de anterioridad al día de la designación, por autoridad o institución legalmente facultada para ello;
 
-IV. No haber ocupado por lo menos durante el año previo al día de la designación, los cargos de Gobernador, Secretario, Procurador General de Justicia o Diputado local en el Estado;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+IV. No haber ocupado por lo menos durante el año previo al día de la designación, los cargos de Gobernador, Secretario, Fiscal General de Justicia o Diputado local en el Estado;
 
 V. Gozar de buena reputación y haberse distinguido por su honorabilidad, competencia y excelencia profesional en el ejercicio de la actividad jurídica; y
 
@@ -793,7 +795,9 @@ VI. No pertenecer o haber pertenecido en los tres años anteriores a su designac
 
 VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
 
-VIII. No haber sido Secretario de Estado, Procurador General de Justicia de alguna de las entidades federativas, Diputado Local, Gobernador de algún Estado, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+VIII. No haber sido Secretario de Estado, Fiscal General de Justicia de alguna de las entidades federativas, Diputado Local, Gobernador de algún Estado, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
 
 El Titular del Órgano Interno de Control durará en su encargo seis años cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas.
 
@@ -958,3 +962,11 @@ P.O. 8 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
