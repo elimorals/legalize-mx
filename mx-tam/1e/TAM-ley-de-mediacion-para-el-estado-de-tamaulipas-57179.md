@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-mediacion-para-el-estado-de-tamaulipas-57179"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-21"
-last_updated: "2017-03-23"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 21 de agosto de 2007.
 
@@ -515,9 +515,9 @@ En los asuntos de orden familiar, interrumpe la caducidad de la instancia; y
 
 c) En materia penal se procederá conforme a las siguientes disposiciones:
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
 
-I. Durante la averiguación previa estará a cargo de la Procuraduría General de Justicia el procedimiento de mediación y conciliación. El convenio celebrado en esta etapa del procedimiento penal estará sujeta a que en caso de existir obligaciones a plazo, el Ministerio Público se cerciore de que se encuentran totalmente cumplidas y sólo en este supuesto con el previo otorgamiento del perdón del ofendido, decretará el no ejercicio de la acción penal; y
+I.- Durante la averiguación previa estará a cargo de la Fiscalía General de Justicia el procedimiento de mediación y conciliación. El convenio celebrado en esta etapa del procedimiento penal estará sujeta (sic) a que en caso de existir obligaciones a plazo, el Ministerio Público se cerciore de que se encuentran totalmente cumplidas y sólo en este supuesto con el previo otorgamiento del perdón del ofendido, decretará el no ejercicio de la acción penal; y
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -647,11 +647,11 @@ h) Contener una cláusula de remediación para los casos de incumplimiento o int
 
 2. Si el conflicto fue planteado directamente por los interesados, el convenio certificado por el Director del Centro de Mediación tendrá el carácter de documental pública.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 50.
 
-Es obligatorio para las partes el cumplimiento del convenio celebrado ante el Centro de Mediación, ya sea público o privado. Dicho convenio podrá ratificarse y certificarse ante los siguientes funcionarios: el Director a cargo de la Dirección de Mediación, la autoridad competente de la Procuraduría General de Justicia en el Estado o un Notario Público con ejercicio en el Estado.
+Es obligatorio para las partes el cumplimiento del convenio celebrado ante el Centro de Mediación, ya sea público o privado. Dicho convenio podrá ratificarse y certificarse ante los siguientes funcionarios: el Director a cargo de la Dirección de Mediación, la autoridad competente de la Fiscalía General de Justicia en el Estado o un Notario Público con ejercicio en el Estado.
 
 ###### ARTICULO 51.
 
@@ -866,3 +866,11 @@ P.O. 23 DE MARZO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL (SIC) GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
