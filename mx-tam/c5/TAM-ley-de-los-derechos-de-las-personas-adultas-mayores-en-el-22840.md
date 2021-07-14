@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2021-07-13"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -495,7 +495,9 @@ I.- Proporcionar los servicios gratuitos de asistencia, asesoría jurídica y re
 
 II.- Realizar programas de prevención y protección para las personas adultas mayores en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas;
 
-III.- Coadyuvar con la Procuraduría General de Justicia del Estado, en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+III.- Coadyuvar con la Fiscalía General de Justicia del Estado, en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito;
 
 IV.- Impulsar y promover el reconocimiento y ejercicio de los derechos de las personas adultas mayores;
 
@@ -541,7 +543,9 @@ IV.- El Sistema para el Desarrollo Integral de la Familia de Tamaulipas;
 
 V.- La Comisión de Derechos Humanos del Estado de Tamaulipas;
 
-VI.- La Procuraduría General de Justicia; y por
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+VI.- La Fiscalía General de Justicia; y por
 
 VII.- Dos Diputados del Congreso del Estado, de las Comisiones relacionadas con la materia.
 
@@ -747,7 +751,9 @@ II.- Orientar, asesorar y asistir gratuitamente en materia legal cualquier asunt
 
 III.- Procurar la defensa y representación de los derechos consignados a favor de las personas adultas mayores en su persona, bienes y derechos ante cualquier autoridad competente, promoviendo todos los medios legales que conforme a derecho procedan;
 
-IV.- Coadyuvar con la Procuraduría General de Justicia del Estado, cuando las personas adultas mayores sean víctimas de cualquier conducta tipificada como delito; en los casos en que se trate de faltas administrativas;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+IV.- Coadyuvar con la Fiscalía General de Justicia del Estado, cuando las personas adultas mayores sean víctimas de cualquier conducta tipificada como delito; en los casos en que se trate de faltas administrativas;
 
 V.- Asesorar vía los Métodos Alternos para la prevención y la solución de conflictos, a las personas adultas mayores en cualquier procedimiento legal en el que sean partes interesadas;
 
@@ -942,3 +948,11 @@ P.O. 13 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL (SIC) GENERAL DE JUSTICIA DEL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al (sic) día siguiente al de su publicación en el Periódico Oficial del Estado.
