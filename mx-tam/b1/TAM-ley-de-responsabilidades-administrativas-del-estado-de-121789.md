@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-administrativas-del-estado-de-121789"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2018-10-30"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Anexo al Extraordinario Número 10 del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -551,9 +551,11 @@ Para efectos del artículo anterior, se considera información privilegiada la q
 
 La restricción prevista en el artículo anterior será aplicable inclusive cuando el servidor público se haya retirado del empleo, cargo o comisión, hasta por un plazo de un año.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
 ###### Artículo 57.
 
-Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta Ley o para causar perjuicio a alguna persona o al servicio público.
+Incurrirá en abuso de funciones el servidor o servidora pública que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta Ley o para causar perjuicio a alguna persona o al servicio público; así como cuando realice por sí o a través de un tercero, alguna de las conductas descritas en el artículo 8 Quinquies de la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres del Estado de Tamaulipas.
 
 ###### Artículo 58.
 
@@ -1263,9 +1265,11 @@ Las preguntas que se formulen a los testigos, así como sus correspondientes res
 
 Los testigos podrán ser tachados por las partes en la vía incidental en los términos previstos en esta Ley.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
 ###### Artículo 158.
 
-Son pruebas documentales todas aquellas en la que conste información de manera escrita, visual o auditiva, sin importar el material, formato o dispositivo en la que esté plasmada o consignada. La autoridad resolutora del asunto podrá solicitar a las partes que aporten los instrumentos tecnológicos necesarios para la apreciación de los documentos ofrecidos cuando éstos no estén a su disposición. En caso de que las partes no cuenten con tales instrumentos, dicha autoridad podrá solicitar la colaboración del ministerio público de la Procuraduría General de Justicia del Estado, o bien, de las instituciones públicas de educación superior, para que le permitan el acceso al instrumental tecnológico necesario para la apreciación de las pruebas documentales.
+Son pruebas documentales todas aquellas en la que conste información de manera escrita, visual o auditiva, sin importar el material, formato o dispositivo en la que esté plasmada o consignada. La autoridad resolutora del asunto podrá solicitar a las partes que aporten los instrumentos tecnológicos necesarios para la apreciación de los documentos ofrecidos cuando éstos no estén a su disposición. En caso de que las partes no cuenten con tales instrumentos, dicha autoridad podrá solicitar la colaboración del ministerio público de la Fiscalía General de Justicia del Estado, o bien, de las instituciones públicas de educación superior, para que le permitan el acceso al instrumental tecnológico necesario para la apreciación de las pruebas documentales.
 
 ###### Artículo 159.
 
@@ -1733,7 +1737,9 @@ En los asuntos en los que se desprendan violaciones de fondo de las cuales pudie
 
 En el caso de ser revocada la sentencia o de que su modificación así lo disponga, cuando el recurrente sea el servidor público o el particular, se ordenará al ente público en el que se preste o haya prestado sus servicios, lo restituya de inmediato en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones impugnadas, en los términos de la sentencia respectiva, sin perjuicio de lo que establecen otras leyes.
 
-Se exceptúan del párrafo anterior, los Agentes del Ministerio Público, peritos oficiales y miembros de las instituciones policiales; casos en los que la Procuraduría General de Justicia y las instituciones policiales del Estado o de los municipios, sólo estarán obligadas a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio, en los términos previstos en el apartado B, fracción XIII, del artículo 123 de la Constitución y 149 de la Constitución Política del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+Se exceptúan del párrafo anterior, los Agentes del Ministerio Público, peritos oficiales y miembros de las instituciones policiales; casos en los que la Fiscalía General de Justicia y las instituciones policiales del Estado o de los municipios, sólo estarán obligadas a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio, en los términos previstos en el apartado B, fracción XIII, del artículo 123 de la Constitución y 149 de la ConstituciónPolítica (sic) del Estado de Tamaulipas.
 
 #### Sección Cuarta. De la Revisión
 
@@ -1836,3 +1842,19 @@ En relación a lo señalado en el último párrafo del artículo 22 de la Ley de
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL (SIC) GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al (sic) día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-555 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES; ASÍ COMO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS, EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
