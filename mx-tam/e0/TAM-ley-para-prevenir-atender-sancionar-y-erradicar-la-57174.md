@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2021-07-06"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -111,35 +111,15 @@ IV. El uso de métodos anticonceptivos o esterilización sin que medie el consen
 
 V. El obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer;
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
-g) Simbólica: la que a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en sociedad;
+g) Simbólica: la que a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en sociedad; y
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
-h) Diversa: cualquier forma análoga que lesione la dignidad, integridad o libertad de la mujer, e
+h) Diversa: cualquier forma análoga que lesione la dignidad, integridad o libertad de la mujer.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-i) Política: es toda acción u omisión basadas en elementos de género y dadas en el marco del ejercicio de los derechos político-electorales, que tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos de las mujeres. Se consideran actos de violencia política, entre otros, aquellos que:
-
-I. Impongan por estereotipos de género la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo;
-
-II. Asignen responsabilidades de género que tengan como resultado la limitación del ejercicio de la función político-pública;
-
-III. Eviten por cualquier medio que las mujeres electas, titulares o suplentes, o designadas a una función pública, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres;
-
-IV. Impidan o restrinjan su reincorporación al cargo cuando hagan uso de una licencia justificada;
-
-V. Restrinjan el uso de la palabra, en las sesiones u otras reuniones y su participación en comisiones, comités y otras instancias inherentes a su cargo, conforme a la reglamentación establecida;
-
-VI. Impongan sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos políticos;
-
-VII. Discriminen a la autoridad electa designada o en el ejercicio de la función político-pública, por encontrarse en estado de embarazo o parto;
-
-VIII. Divulguen o revelen información personal y privada, de las mujeres candidatas, electas, designadas o en el ejercicio de funciones político-públicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia o licencia al cargo que ejercen o postulan; y
-
-IX. Cualquier otro acto que limite o restrinja la participación política de las mujeres.
+i) (DEROGADO, P.O. 14 DE JULIO DE 2021)
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -275,6 +255,70 @@ Violencia mediática contra las mujeres es aquella que se ejerce mediante la pub
 
 Violencia digital contra la mujer es cualquier acto que se presenta a través de las tecnologías de la información y comunicación, mediante la divulgación, sin consentimiento, de textos, audios, videos u otras impresiones gráficas, de contenido íntimo, erótico o imágenes sugerentemente sexuales, verdaderas o alteradas, ya sean propias o de otra persona, que cause daño o perjuicio y que atenta contra la integridad y dignidad de las mujeres.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2021)</small>
+
+###### Artículo 8 Quáter.
+
+1. Violencia política contra las mujeres en razón de género es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+2. Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+3. Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2021)</small>
+
+###### Artículo 8 Quinquies.
+
+La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
+
+I. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
+
+II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
+
+III. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
+
+IV. Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
+
+V. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
+
+VI. Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones;
+
+VII. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+
+VIII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
+
+IX. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+X. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+
+XI. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+
+XII. Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
+
+XIII. Restringir el uso de la palabra, en las sesiones u otras reuniones y su participación en comisiones, comités y otras instancias inherentes a su cargo, conforme a la reglamentación establecida;
+
+XIV. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+XV. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+XVI. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+XVII. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+XVIII. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+XIX. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+XX. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+XXI. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+XXII. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad; o
+
+XXIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral y de responsabilidades administrativas aplicables.
+
 ### Capítulo III. De las Órdenes de Protección
 
 ###### Artículo 9.
@@ -298,6 +342,10 @@ c) de naturaleza meramente civil.
 4. Las órdenes de protección de emergencia y las preventivas tendrán una temporalidad no mayor de 15 días naturales y se emitirán dentro de las 24 horas siguientes al conocimiento de los hechos que las generan o bien de la solicitud de la víctima.
 
 5. Al momento de otorgarlas, deberá considerarse el riesgo o peligro existente; la seguridad de la víctima, y los elementos con que se cuente.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2021)</small>
+
+6. En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Tamaulipas y el Instituto Electoral de Tamaulipas, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
 
@@ -387,31 +435,55 @@ II. Implementación del Operativo Alba, donde un Grupo Técnico de Colaboración
 
 III. Al no ser localizada la mujer o niña desaparecida, el Agente del Ministerio Público y sus auxiliares continúa la investigación con la presunción de un delito contra la misma.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2021)</small>
 
 ###### Artículo 10 Quinquies.
 
-Se integrará el Grupo Técnico de Colaboración del Protocolo Alba, el cual tiene el objetivo de brindar mayor cobertura en la implementación de los mecanismos de búsqueda y localización de niñas y mujeres desaparecidas. Será presidido por el Titular de la Procuraduría General de Justicia del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+Se integrará el Grupo Técnico de Colaboración del Protocolo Alba, el cual tiene el objetivo de brindar mayor cobertura en la implementación de los mecanismos de búsqueda y localización de niñas y mujeres desaparecidas. Será presidido por el Titular de la Fiscalía General de Justicia del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
 El Grupo Técnico de Colaboración estará conformado por al menos las instituciones que se enlistan a continuación:
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
 I. Secretaría General de Gobierno;
 
-II. Procuraduría General de Justicia del Estado de Tamaulipas;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JULIO DE 2021)</small>
+
+II. Fiscalía General de Justicia del Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
 III. Secretaría de Seguridad Pública;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
 IV. Secretaría de Salud;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
 V. Secretaría de Bienestar Social;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
 VI. Secretaría de Educación;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
 VII. Instituto de la Mujer Tamaulipeca;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
 VIII. Comisión de Derechos Humanos del Estado de Tamaulipas; y
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
 IX. Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
 Se podrá solicitar además la colaboración de organismos no gubernamentales, dependencias federales y municipales que coadyuven a la pronta localización de la víctima.
 
@@ -459,21 +531,25 @@ f) La Secretaría de Salud;
 
 g) La Secretaría de Seguridad Pública;
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
-h) La Procuraduría General de Justicia;
+h) La Fiscalía General de Justicia del Estado de Tamaulipas;
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
 
 i) El Instituto de las Mujeres en Tamaulipas, quien ocupará la Secretaría Ejecutiva del Sistema;
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
-j) Los Sistemas para el Desarrollo Integral de la Familia del Estado y de los municipios; y
+j) Los Sistemas para el Desarrollo Integral de la Familia del Estado y de los municipios;
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
-k) Los Institutos de la Mujer de los Municipios o las unidades administrativas con funciones similares;
+k) Los Institutos de la Mujer de los Municipios o las unidades administrativas con funciones similares; y
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2021)</small>
+
+l) El Instituto Electoral de Tamaulipas.
 
 4. A su vez, el Sistema Estatal se coordinará con el Sistema Nacional en términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y considerará las directrices que promueva en la materia, a fin de implementar acciones para ejercerlas en su ámbito de competencia.
 
@@ -621,7 +697,9 @@ k) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 15.
 
-1. A la Procuraduría General de Justicia le corresponde:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE JULIO DE 2021)</small>
+
+1. A la Fiscalía General de Justicia del Estado le corresponde:
 
 a) instrumentar cursos de capacitación que provean personal profesional para atender los casos de violencia contra las mujeres;
 
@@ -804,6 +882,18 @@ k) difundir los criterios interpretativos y jurisdiccionales emitidos por las in
 l) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
 2. Para el cumplimiento de sus atribuciones, el Instituto dispondrá de los procedimientos que le otorga la ley, efectuará oportunamente las previsiones pertinentes y justificará su actuación.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2021)</small>
+
+###### Artículo 20 Bis.
+
+1. Al Instituto Electoral de Tamaulipas le corresponde:
+
+a) Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+b) Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales; y
+
+c) Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
 
 ### Capítulo VI. De la atención y refugio para víctimas
 
@@ -1128,6 +1218,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-558 MEDIANTE EL CUAL SE REFORMA EL INCISO J), Y SE ADICIONA UN INCISO K), RECORRIÉNDOSE EN SU ORDEN NATURAL EL SUBSECUENTE, DEL ARTÍCULO 20, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-554 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIV-555 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES; ASÍ COMO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS, EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO".]
 
 ###### ARTÍCULO ÚNICO.
 
