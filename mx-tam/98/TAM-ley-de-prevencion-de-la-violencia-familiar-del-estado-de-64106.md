@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-prevencion-de-la-violencia-familiar-del-estado-de-64106"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-24"
-last_updated: "2017-12-15"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 24 de junio de 2008.
 
@@ -109,7 +109,9 @@ V. Ley: La Ley de Prevención de la Violencia Familiar para el Estado de Tamauli
 
 VI. Organismos: Los Organismos de la sociedad civil;
 
-VII. Procuraduría: La Procuraduría General de Justicia del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+VII. Fiscalía: La Fiscalía General de Justicia del Estado de Tamaulipas;
 
 VIII. Receptores de violencia familiar: Son las personas o grupos vulnerables que sufren el maltrato físico, verbal, psicoemocional, sexual, económico, el abandono, o la negligencia en su esfera biopsicosexual;
 
@@ -123,7 +125,9 @@ X. Tratamiento integral: Son las acciones, programas o estrategias tendientes a 
 
 ###### Artículo 5.
 
-1. En el ámbito estatal, la aplicación de la presente ley corresponde al titular del Poder Ejecutivo, a través de la Secretaría General de Gobierno, la Secretaría de Salud, la Secretaría de Educación, la Secretaría de Seguridad Pública, la Procuraduría General de Justicia y el Sistema Estatal para el Desarrollo Integral de la Familia, en el ámbito de competencia de esas dependencias y entidades estatales.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+1. En el ámbito estatal, la aplicación de la presente ley corresponde al titular del Poder Ejecutivo, a través de la Secretaría General de Gobierno, la Secretaría de Salud, la Secretaría de Educación, la Secretaría de Seguridad Pública, la Fiscalía General de Justicia y el Sistema Estatal para el Desarrollo Integral de la Familia, en el ámbito de competencia de esas dependencias y entidades estatales.
 
 2. En el ámbito municipal a los Ayuntamientos les corresponde aplicar la presente ley, a través del Sistema Municipal para el Desarrollo Integral de la Familia.
 
@@ -177,9 +181,11 @@ III. Incluir la capacitación sobre violencia familiar; y en el programa de form
 
 IV. Establecer en los programas de reinserción social, talleres terapéutico-educativos encaminados a erradicar la violencia familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2021)</small>
+
 ###### Artículo 10.
 
-Además de las atribuciones que específicamente le asignen otras disposiciones legales, a la Procuraduría General de Justicia, por conducto de los agentes del Ministerio Público le corresponde:
+Además de las atribuciones que específicamente le asignen otras disposiciones legales, a la Fiscalía General de Justicia, por conducto de los agentes del Ministerio Público le corresponde:
 
 l. Solicitar al órgano jurisdiccional competente que dicte medidas provisionales a fin de proteger los derechos de los receptores o víctimas de violencia familiar y aplique, en su caso, los medios de apremio procedentes con motivo de infracciones cometidas a la presente ley;
 
@@ -261,9 +267,9 @@ i) Aplicar, en su caso, las órdenes de protección que establece la Ley para Pr
 
 1. Se crea el Consejo para la Prevención, Atención y Asistencia de la Violencia Familiar en el Estado de Tamaulipas, como órgano honorario, de apoyo, normativo, consulta, evaluación y coordinación de las tareas y acciones que en materia de violencia familiar se realicen.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
-2. Será presidido por el Titular del Poder Ejecutivo del Estado e integrado por los titulares, de las Secretarías General, de Bienestar Social, de Salud y de Educación, de la Procuraduría General de Justicia, del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, del Instituto de la Mujer y del Instituto Tamaulipeco de la Juventud.
+2. Será presidido por el Titular del Poder Ejecutivo del Estado e integrado por los titulares, de las Secretarías General, de Bienestar Social, de Salud y de Educación, de la Fiscalía General de Justicia, del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, del Instituto de la Mujer y del Instituto Tamaulipeco de la Juventud.
 
 3. Al Consejo se integrará el Presidente de la Comisión de Derechos Humanos del Estado; así como los representantes de las organizaciones civiles que sean convocados.
 
@@ -363,9 +369,11 @@ XIII. Llevar encuestas sobre los casos atendidos sobre violencia familiar; y
 
 XIV. Dar aviso de inmediato al Agente del Ministerio Público que corresponda, de los casos en que se aprecie la probable comisión de ilícitos penales, para que intervenga conforme a la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2021)</small>
+
 ###### Artículo 22.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado podrá solicitar a la Procuraduría:
+El Sistema para el Desarrollo Integral de la Familia del Estado podrá solicitar a la Fiscalía.
 
 l. Le sean remitidos todos aquellos receptores y presuntos generadores de violencia familiar para los efectos del procedimiento que le confiere la ley, cuando no exista ilícito penal o se trate de delitos de querella;
 
@@ -514,3 +522,11 @@ P.O. 15 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-554 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
