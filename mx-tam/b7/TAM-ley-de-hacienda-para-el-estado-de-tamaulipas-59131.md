@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2021-06-15"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1480,6 +1480,10 @@ II. Las certificaciones y copias certificadas expedidas a quejosos para ser exhi
 III. Las legalizaciones de firmas solicitadas oficiosamente por las autoridades judiciales en causas criminales y las solicitudes también de oficio por otras autoridades a condición, en este último caso, de que no sean para beneficio directo del solicitante o de otro particular; y
 
 IV. Las copias certificadas, certificaciones, ratificaciones, cotejo, legalización de firmas, busca de copias de documentos solicitados oficiosamente, por servidores públicos del Gobierno del Estado, de los Municipios o de la Federación en ejercicio y en cumplimiento de sus funciones.
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2021)</small>
+
+V. Las certificaciones y copias certificadas de los documentos solicitados por las víctimas del delito, de averiguaciones previas, carpetas de investigación y procesos penales jurisdiccionales, de conformidad con los principios establecidos y definidos en la Ley General de Víctimas y Código Nacional de Procedimientos Penales.
 
 ### CAPITULO IV. DE LOS SERVICIOS CATASTRALES
 
@@ -4122,3 +4126,11 @@ P.O. 15 DE JUNIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-549 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN V, AL ARTÍCULO 61, DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
