@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-atencion-a-victimas-para-el-estado-de-tamaulipas-121272"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2020-12-17"
+last_updated: "2021-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Anexo al Extraordinario Número 6 del Periódico Oficial del Estado de Tamaulipas, el lunes 8 de mayo de 2017.
 
@@ -909,7 +909,9 @@ f) Titular de la Secretaría de Salud;
 
 g) Titular de la Secretaría de Seguridad Pública;
 
-h) Titular de la Procuraduría General de Justicia; y
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+h) Titular de la Fiscalía General de Justicia; y
 
 i) Titular de la Dirección del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
 
@@ -1940,3 +1942,11 @@ P.O. 17 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
