@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2020-11-22"
+last_updated: "2021-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 27 de abril de 2016.
 
@@ -735,7 +735,9 @@ VI. No pertenecer o haber pertenecido en los tres años anteriores a su designac
 
 VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
 
-VIII. No haber sido Secretario de Estado, Procurador General de Justicia de alguna de las entidades federativas, Diputado Local, Gobernador de algún Estado, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+VIII. No haber sido Secretario de Estado, Fiscal General de Justicia de alguna de las entidades federativas, Diputado Local, Gobernador de algún Estado, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
 
@@ -2630,3 +2632,11 @@ P.O. 22 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL (SIC) GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al (sic) día siguiente al de su publicación en el Periódico Oficial del Estado.
