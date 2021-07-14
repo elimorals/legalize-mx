@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2021-05-20"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -371,39 +371,59 @@ Los vehículos automotores que no reúnan los requisitos para su uso, serán ret
 
 Previo estudio que se realice, los Ayuntamientos determinarán las condiciones y forma en que deben ser estacionados los vehículos automotores en la vía pública y espacios privados, considerando el interés social, el orden y la armónica convivencia, privilegiando los espacios para las personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
-Los lugares con estacionamiento disponible para el público, que cuenten con más de cinco cajones incluido el espacio que reserven para conductores con discapacidad, deberán destinar por lo menos uno para mujeres en estado de embarazo.
+Los lugares con estacionamiento disponible para el público, que cuenten con más de cinco cajones incluido el espacio que reserven para vehículos que trasladen a personas con discapacidad, deberán destinar por lo menos uno para mujeres en estado de embarazo. Los estacionamientos que se encuentren en este supuesto, siempre deberán tener por lo menos un cajón para vehículos que trasladen a personas con discapacidad cuyo uso sea compatible con vehículos que trasladen a personas adultas mayores.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
-Para ocupar el cajón correspondiente, las mujeres embarazadas, deberán mostrar en su vehículo el permiso especial, que para tal efecto les conceda la autoridad competente.
+Para ocupar el cajón correspondiente, las mujeres embarazadas y las personas adultas mayores, deberán mostrar en su vehículo el permiso especial, que para tal efecto les conceda la autoridad competente.
 
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 2021)</small>
 
 Los estacionamientos públicos y privados, deberán contar con las instalaciones necesarias para proporcionar el servicio a los usuarios de bicicletas y motocicletas.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2021)</small>
 
-ARTICULO 25 BIS.- El permiso que refiere el artículo anterior, deberá ajustarse a lo siguiente:
+ARTICULO 25 BIS.- Con relación al permiso especial para mujeres embarazadas y personas adultas mayores, se establece lo siguiente:
 
-I. El permiso le permitirá estacionarse en los lugares reservados para las mujeres embarazadas.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
 
-II. El permiso será expedido por el Estado a través de los Sistemas para el Desarrollo Integral de la Familia de los Municipios, una vez que se acredite plenamente el estado de embarazo, de quien acude a solicitarlo;
+I. El permiso le permitirá estacionarse en los lugares reservados respectivamente para mujeres embarazadas y personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+II. El permiso será expedido por los Sistemas para el Desarrollo Integral de la Familia de los Municipios, una vez que se acredite plenamente el estado de embarazo, de quien acude a solicitarlo. En el caso de las personas adultas mayores deberán presentar copias de la credencial de elector vigente y del acta de nacimiento;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 III. Se acreditará el estado de embarazo mediante la constancia de gravidez oficial correspondiente.
 
-IV. El permiso tendrá vigencia hasta que la solicitante haya dado a luz.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+IV. El permiso tendrá vigencia hasta que la solicitante haya dado a luz. Tratándose de las personas adultas mayores, la autoridad que lo expida determinará su vigencia sin que pueda exceder de tres años;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 V. El permiso se expedirá en forma gratuita.
 
-VI. Este permiso solo será válido siempre y cuando el vehículo sea conducido por la titular o esta se traslade a bordo del mismo;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+VI. Este permiso solo será válido siempre y cuando el vehículo sea conducido por la persona titular o esta se traslade a bordo del mismo;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 VII. El diseño del permiso queda sujeto a lo que dispongan los Sistemas para el Desarrollo Integral de la Familia de los Municipios, debiendo llevar siempre el sello y folio oficiales que permitan distinguir su autenticidad;
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 VIII. El permiso será único e intransferible;
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 IX. En caso de extravío del permiso durante el embarazo, la mujer deberá reportarlo a las oficinas del Sistema para el Desarrollo Integral de la Familia del Municipio que lo expidió, para que sea de su conocimiento y le puedan restituir el mismo; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 X. En el supuesto de que el producto no se logre, deberá notificarse de este hecho al Sistema para el Desarrollo Integral de la Familia del Municipio que le compete, para los efectos administrativos correspondientes.
 
@@ -417,105 +437,245 @@ Los vehículos estacionados en lugares prohibidos o que obstaculicen el libre tr
 
 Los Ayuntamientos, a través de la dependencia competente, podrán autorizar a los particulares el establecimiento de pensiones o estacionamientos de vehículos en propiedad privada, cumpliendo previamente con las normas de seguridad e higiene y demás disposiciones legales correspondientes.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
 
 ### CAPITULO VI. DEL SERVICIO PUBLICO DE TRANSPORTE
 
 ###### ARTICULO 28.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+Corresponde al Estado la prestación del servicio público de transporte, el cual podrá concesionarlo a los particulares en los casos y con las condiciones que esta Ley señala, estableciendo las modalidades que dicte el interés público.
 
 ###### ARTICULO 29.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+El Servicio Público de Transporte Urbano, Suburbano y Foráneo podrá ser:
+
+I.- De pasajeros;
+
+II.- De carga; y,
+
+III.- Mixto.
 
 ###### ARTICULO 30.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+Servicio Público de Transporte de Pasajeros y de Carga, es aquel que se presta regular y uniformemente en las vías públicas de jurisdicción Estatal mediante una retribución de los usuarios.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 31.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+La concesión o permiso del servicio público de transporte de pasajeros, estará sujeta a la ruta, itinerarios, horarios, tarifas, modalidades y restricciones que determine el Reglamento.
 
 ###### ARTICULO 32.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+Las concesiones y/o permisos para el servicio público de transporte, se ajustarán a las siguientes modalidades:
+
+I.- De personas:
+
+a).- Arrendamiento de vehículos sin chofer;
+
+b).- Vehículos de sitio;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+c).- Vehículos de alquiler libres;
+
+d).- Vehículos de ruta; y
+
+e).- Servicio exclusivo de turismo.
+
+II.- De carga:
+
+a).- Servicio de carga en general;
+
+b).- Servicio express; y
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+c).- Vehículos en arrendamiento.
+
+d).- Servicio especial.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 33.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+Las concesiones o permisos para el Servicio Público de Transporte se otorgarán en favor de aquellas personas físicas o morales mexicanas que garanticen una mejor prestación del servicio y se obliguen a respetar la autonomía del usuario para que realice la contratación correspondiente.
 
 ###### ARTICULO 34.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+Ninguna persona física podrá disfrutar de más de tres concesiones, sea en el mismo o en diferente servicio.
 
 ###### ARTICULO 35.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+Quedan prohibidas las transferencias de concesiones y/o permisos a personas o Sociedades de rutas distintas, o de una población a otra.
 
 ###### ARTICULO 36.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+El Gobernador del Estado podrá otorgar concesiones y/o permisos del Servicio Público de Transporte, cuando se reúnan los requisitos siguiente:
+
+I.- Que los estudios técnicos y económicos efectuados por la Secretaría, declaren la existencia de una necesidad de transporte y su satisfacción mediante la prestación del servicio a que se refiera;
+
+II.- Que los interesados formulen la solicitud correspondiente, que se garantice la prestación del servicio y se cumplan los demás requisitos previstos en el Reglamento;
+
+III.- Que la Secretaría declare justificada la aptitud legal y material del solicitante para la prestación del servicio.
 
 ###### ARTICULO 37.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+El acuerdo por el cual se otorga una concesión o un permiso de Servicio Público de Transporte, deberá publicarse en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 38.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+Las personas físicas o morales que realicen el servicio de transporte en las modalidades de escolar, de funeraria, de carga o de personal, con vehículos de su propiedad, para la satisfacción de sus necesidades, sólo requerirán de autorización expedida por el Titular de la Secretaría, debiendo acreditar para tal caso, que sus vehículos se encuentran provistos de los equipos y dispositivos para garantizar una eficiente prestación del servicio y que además, reúnen los requisitos de seguridad e higiene previstos en esta Ley y su Reglamento.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
 
 ### CAPITULO VII. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONCESIONARIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 39.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+La concesión o permiso del servicio público de transporte otorga a su titular los derechos siguientes:
+
+I.- Operar el servicio público en las condiciones y modalidades autorizadas;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+II.- Cobrar a los usuarios la retribución correspondiente por la prestación del servicio, en los términos señalados por la Ley;
+
+III.- Participar en la Comisión Consultiva de Tránsito y Transporte, cuando para ello sea convocado por el Coordinador General.
 
 ###### ARTICULO 40.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+Son obligaciones de los Concesionarios del Servicio Público de Transporte, las siguientes:
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)</small>
+I.- Prestar el servicio en las condiciones y modalidades de la concesión;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+II.- Respetar las tarifas, horarios, rutas e itinerarios aprobados por la Secretaría, para el servicio público de transporte de pasajeros;
+
+III.- Conservar los vehículos, terminales e instalaciones accesorias en condiciones que garanticen la seguridad, funcionalidad e higiene;
+
+IV.- Cubrir a los usuarios y a los terceros, los daños que se les pudiera causar con la prestación del servicio;
+
+V.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1993)
+
+VI.- Otorgar las facilidades necesarias a las autoridades de la Secretaría, en la inspección de vehículos, instalaciones y documentos relacionados con la concesión.
+
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO VIII. DE LA SUSPENSION Y CANCELACION DE LICENCIAS, CONCESIONES Y PERMISOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 41.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+Las concesiones o permisos de servicio público de transporte se cancelarán por el Titular del Poder Ejecutivo por las siguientes causas:
+
+I.- Por transferir la concesión sin autorización de la Secretaría;
+
+II.- Por carecer de los vehículos, instalaciones y accesorios previstos en esta Ley y su Reglamento;
+
+III.- Por no iniciar la prestación del servicio dentro del plazo que fije la autoridad;
+
+IV.- Por no cumplir con las condiciones y modalidades en la prestación del servicio, establecidas en la concesión;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+V.- Por no reunir los vehículos los requisitos exigidos por esta Ley y su Reglamento, para garantizar una eficiente prestación del servicio;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+VI.- Por no sujetarse a las tarifas e itinerarios autorizados para el servicio público de transporte de pasajeros;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+VII.- Por interrumpir la prestación del servicio concesionado durante treinta días, sin causa justificada, acumulados dentro de un período de ciento ochenta días;
+
+VIII.- Por modificar sin autorización las características señaladas en la concesión o permiso;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+IX.- Por conducir el concesionario el vehículo utilizado para la prestación del servicio en estado de ebriedad o bajo la influencia de estupefacientes, drogas o sustancias similares; o permitir que se conduzca de manera reiterada en las mismas condiciones;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+X.- Por conducir o permitir que se conduzca el vehículo utilizado en la prestación del servicio con exceso de velocidad en forma reiterada, según criterio de la Secretaría. Para este efecto, la Secretaría recabará las boletas de infracción correspondientes para integrar los expedientes respectivos; o,
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
+XI.- Impedir, por vías de hecho, la autonomía de los usuarios en la contratación de los servicios que requieran o, interrumpir el libre tránsito de vehículos o personas;
 
 ###### ARTICULO 42.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+Los permisos se cancelarán:
+
+I.- Por el incumplimiento de las condiciones y modalidades exigidas para su otorgamiento; y
+
+II.- Por las causas previstas en el Artículo 41, que sean aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 43.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+Procede la suspensión de licencia, concesión o permiso hasta por un término de 1 a 6 meses a juicio de la Secretaria:
+
+I.- Por conducir o permitir que se conduzca el vehículo utilizado en la prestación del servicio con exceso de velocidad;
+
+II.- Por permitir que se conduzca el vehículo utilizado para la prestación del servicio de Transporte, en estado de ebriedad o bajo la influencia de estupefacientes, drogas o sustancias similares;
+
+III.- Al que habiendo cometido una infracción se dé a la fuga.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 44.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+Para la cancelación de una concesión o permiso, se observará el procedimiento siguiente:
+
+I.- La Secretaría deberá notificar al concesionario o permisionario las causas que motivan la iniciación del procedimiento, citándolo a una audiencia de pruebas y alegatos, con el apercibimiento de que en caso de que no comparezca sin motivo justificado, se le tendrán por ciertas las causas de cancelación materia del procedimiento.
+
+II.- La Secretaría valorará las pruebas aportadas y en un término de 10 días hábiles emitirá el Proyecto de resolución, turnándolo de inmediato al Ejecutivo para su sanción correspondiente.
+
+III.- El Ejecutivo, en caso de encontrar procedente la cancelación, emitirá el Acuerdo respectivo, ordenando la notificación al interesado y su publicación en el Periódico Oficial del Estado.
+
+Contra el Acuerdo que decrete la cancelación de la concesión o permiso no procede recurso alguno.
+
+La determinación que cancele una concesión o permiso, se decretará sin perjuicio de que se sancionen otras infracciones en que hayan incurrido los prestadores del servicio.
 
 ###### ARTICULO 45.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+El Estado tendrá en todo tiempo la facultad de prestar el servicio público de transporte, cuando así lo exija el interés social.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
 
 ### CAPITULO IX. DE LAS COMISIONES CONSULTIVAS DEL TRANSPORTE
 
 ###### ARTICULO 46.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+En aquellos Municipios en los que lo requiera el interés público, se creará una Comisión Consultiva de Tránsito y Transporte, como un organismo técnico y de consulta que promueva la participación social en la consecución de los fines que esta Ley establece.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 47.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+Cada comisión se integrará por un Coordinador General, que será el Presidente Municipal; un representante del Gobierno del Estado, designado por el Ejecutivo; un representante de la Secretaría; un representante de la Secretaría de Desarrollo Economico y del Empleo, un representante de la Secretaría de Turismo; un representante de la Secretaría de Finanzas, y el número de representantes de los usuarios y de los concesionarios o permisionarios del servicio público del transporte, que determine la Secretaría.
 
 ###### ARTICULO 48.
 
-(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
+Las Comisiones Consultivas de Tránsito y Transporte tendrán las atribuciones siguientes:
+
+I.- Realizar los estudios y emitir su opinión ante las autoridades competentes, en relación a las tarifas, rutas e itinerarios del Servicio Público de Transporte.
+
+II.- Promover programas y campañas sobre educación vial, a fin de fomentar la conciencia ciudadana para la estricta observancia de esta Ley y su Reglamento.
+
+III.- Recibir y canalizar ante las autoridades competentes, las quejas de la comunidad por anomalías de las autoridades de Tránsito; y
+
+IV.- Las demás que a juicio de la Comisión Consultiva cumplan con sus objetivos, siempre que no contravengan las disposiciones de esta Ley y su Reglamento.
 
 ### CAPITULO X. DE LAS SANCIONES
 
@@ -902,6 +1062,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación.
 P.O. 20 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-527 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 25 DE LA LEY DE TRÁNSITO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-550 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 25, ASÍ COMO EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II, IV Y VI DEL ARTÍCULO 25 BIS DE LA LEY DE TRÁNSITO”.]
 
 ###### ARTÍCULO ÚNICO.
 
