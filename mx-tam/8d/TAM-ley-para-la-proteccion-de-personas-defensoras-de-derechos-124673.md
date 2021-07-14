@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-proteccion-de-personas-defensoras-de-derechos-12467
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-01"
-last_updated: "2017-12-05"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE DICIEMBRE DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NO. LXIII-313 PUBLICADO EN EL P.O. DE 1 DE DICIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 > <small>(F. DE E., P.O. DE 5 DE DICIEMBRE DE 2017)</small>
 
@@ -99,7 +97,9 @@ La Coordinación Estatal está integrada por:
 
 I. Un representante de la Secretaría General de Gobierno;
 
-II. Un representante de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+II. Un representante de la Fiscalía General de Justicia del Estado;
 
 III. Un representante de la Secretaría de Seguridad Pública del Estado; y
 
@@ -336,3 +336,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los dieciséis días del mes de noviembre del año dos mil diecisiete.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL (SIC) GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
