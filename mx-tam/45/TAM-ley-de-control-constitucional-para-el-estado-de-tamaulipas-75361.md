@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-control-constitucional-para-el-estado-de-tamaulipas-7536
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-30"
-last_updated: "2016-12-21"
+last_updated: "2021-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE CONTROL CONSTITUCIONAL PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 65-530 MEDIANTE EL CUAL SE ABROGA LA LEY DE CONTROL CONSTITUCIONAL PARA EL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 24 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CONTROL CONSTITUCIONAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 30 de marzo de 2010.
 
@@ -597,7 +599,9 @@ II. Él o los síndicos de los Ayuntamientos del Estado, uno o ambos, en su caso
 
 III. Los regidores de los Ayuntamientos del Estado, cuando tengan la aprobación de cuando menos el equivalente al treinta y tres por ciento de los integrantes del Cabildo;
 
-IV. El Procurador General de Justicia del Estado; y,
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+IV. El Fiscal General de Justicia del Estado; y,
 
 V. El Presidente de la Comisión de Derechos Humanos del Estado de Tamaulipas, cuando se expida alguna norma que transgreda los derechos humanos;
 
@@ -732,3 +736,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL (SIC) GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
