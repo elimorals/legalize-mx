@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2021-07-06"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -111,9 +111,9 @@ IV.- Ajustes razonables: A las modificaciones y adaptaciones necesarias y adecua
 
 V.- Castigo corporal: A todo acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, comprendiendo los golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos calientes u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar;
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
 
-VI.- Castigo humillante: Al trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador, de menosprecio o aquel acto que tenga como objetivo provocar dolor, amenaza, molestia o afectación en la integridad física, mental, psicológica o emocional en contra de niñas, niños y adolescentes;
+VI.- Certificado de idoneidad: El documento expedido por el Consejo Técnico a través de la Fiscalía o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
 
 VII.- Centro de asistencia social: Al establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas y privadas y asociaciones;
 
@@ -155,7 +155,9 @@ XXIII.- Ley General: La Ley General de los Derechos de Niñas, Niños y Adolesce
 
 XXIV.- Órgano jurisdiccional: A los juzgados o tribunales del Estado;
 
-XXV.- Procuraduría de Protección: A la Procuraduría de Protección de Niñas, Niños y Adolescentes del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+XXV.- Fiscalía General: A la Fiscalía General de Justicia del Gobierno del Estado.
 
 XXVI.- Procurador: Al titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes, del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
 
@@ -1341,7 +1343,9 @@ g).- El Secretario de Salud;
 
 h).- El Secretario de Trabajo;
 
-i).- El Procurador General de Justicia del Estado; y
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+i).- El Fiscal General de Justicia del Estado; y
 
 j).- El Director General del Sistema DIF Tamaulipas.
 
@@ -1495,9 +1499,9 @@ II.- El Supremo Tribunal de Justicia del Estado;
 
 III.- La Contraloría Gubernamental;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
 
-IV.- La Fiscalía General de Justicia;
+IV.- La Fiscalía General de Justicia
 
 V.- Las dependencias del Ejecutivo Estatal;
 
@@ -1672,3 +1676,11 @@ P.O. 6 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
