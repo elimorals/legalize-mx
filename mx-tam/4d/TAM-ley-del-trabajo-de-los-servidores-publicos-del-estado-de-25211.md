@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2020-12-17"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -31,7 +31,7 @@ TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberan
 
 Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto
 
-Al margen un sello que dice:- Estados Unidos Mexicanos.- Gobierno de Tamaulipas. Poder Legislativo.
+Al margen un sello que dice:- Estados Unidos Mexicanos.- Gobierno de Tamaulipas, Poder Legislativo.
 
 LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -462,6 +462,10 @@ Para el cumplimiento de las obligaciones mencionadas en la fracción III del pre
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 XX.- Otorgar permiso, con el debido justificante, con goce íntegro de sueldo a las madres, padres o tutores trabajadores por las horas necesarias para participar, cuando se les convoque, en las evaluaciones de desempeño y/o aspectos relacionados con la conducta de sus hijas e hijos, siempre y cuando justifiquen su participación en estas y notifiquen oportunamente a su superior jerárquico por lo menos con un día de antelación al de su ausencia.
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2021)</small>
+
+XXI.- Otorgar permiso por luto, por un plazo mínimo de 3 días con goce de sueldo a las personas trabajadoras por muerte de algún familiar dentro del primer grado por consanguinidad o afinidad. Estos días serán aquellos inmediatos al deceso.
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
@@ -1586,3 +1590,11 @@ P.O. 17 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-559 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXI, DEL ARTÍCULO 33 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
