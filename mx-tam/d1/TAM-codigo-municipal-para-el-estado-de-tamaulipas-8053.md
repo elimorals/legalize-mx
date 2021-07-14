@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2021-03-30"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -4059,7 +4059,9 @@ III.- Gozar de buena reputación y no haber sido condenado por delito doloso que
 
 IV.- No ser ministro de algún culto o asociación religiosa; y
 
-V.- No haber desempeñado cargo de elección popular, federal, estatal o municipal, Secretario de Despacho del Ejecutivo, o Procurador General de Justicia, cuando menos el año previo al día de su nombramiento;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+V.- No haber desempeñado cargo de elección popular, federal, estatal o municipal, Secretario de Despacho del Ejecutivo, o Fiscal General de Justicia, cuando menos el año previo al día de su nombramiento;
 
 VI.- Contar, preferentemente, con experiencia en órganos jurisdiccionales y en materia contencioso administrativa;
 
@@ -4131,7 +4133,9 @@ III.- Gozar de buena reputación y no haber sido condenado por delito doloso que
 
 IV.- No ser ministro de algún culto o asociación religiosa; y
 
-V.- No haber desempeñado cargo de elección popular, federal, estatal o municipal, Secretario de Despacho del Ejecutivo, o Procurador General de Justicia, cuando menos el año previo al día de su nombramiento;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+V.- No haber desempeñado cargo de elección popular, federal, estatal o municipal, Secretario de Despacho del Ejecutivo, o Fiscal General de Justicia, cuando menos el año previo al día de su nombramiento;
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -6448,3 +6452,11 @@ P.O. 30 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
