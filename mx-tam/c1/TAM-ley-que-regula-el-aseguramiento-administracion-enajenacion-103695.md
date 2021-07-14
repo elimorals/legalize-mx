@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-regula-el-aseguramiento-administracion-enajenacion-1036
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2019-08-20"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY QUE REGULA EL ASEGURAMIENTO, ADMINISTRACIÓN, ENAJENACIÓN Y DISPOSICIÓN FINAL DE VEHÍCULOS AUTOMOTORES, ACCESORIOS O COMPONENTES ABANDONADOS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de noviembre de 2014.
 
@@ -131,7 +131,9 @@ II. Supervisar el otorgamiento en depósito de vehículos abandonados, así como
 
 III. Emitir acuerdos y lineamientos generales para la debida administración de los vehículos abandonados, así como para su destino final;
 
-IV. Solicitar al Titular de la Procuraduría General de Justicia del Estado, informe sobre la existencia o inexistencia de alguna investigación de índole penal, en la que él o los vehículos abandonados figuren en calidad de asegurados;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+IV. Solicitar al Titular de la Fiscalía General de Justicia del Estado, informe sobre la existencia o inexistencia de alguna investigación de índole penal, en la que él o los vehículos abandonados figuren en calidad de asegurados;
 
 V. Solicitar al Secretario Técnico, la emisión de la Declaratoria de Abandono y Enajenación de Vehículos a favor del Estado;
 
@@ -350,3 +352,11 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
