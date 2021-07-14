@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-sistema-estatal-anticorrupcion-de-tamaulipas-121783"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2020-11-22"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -91,7 +91,9 @@ IV. Comité Estatal de Participación Ciudadana: la instancia colegiada a que se
 
 V. Días: días hábiles;
 
-VI. Entes públicos: los Poderes Legislativo y Judicial, los organismos constitucionales autónomos, las dependencias y entidades de la Administración Pública Estatal; los municipios y sus dependencias y entidades; la Procuraduría General de Justicia del Estado y la Fiscalía Especializada en Combate a la Corrupción; los órganos jurisdiccionales que no formen parte del Poder Judicial; así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos antes citados;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+VI. Entes públicos: los Poderes Legislativo y Judicial, los organismos constitucionales autónomos, las dependencias y entidades de la Administración Pública Estatal; los municipios y sus dependencias y entidades; la Fiscalía General de Justicia del Estado y la Fiscalía Especializada en Combate a la Corrupción; los órganos jurisdiccionales que no formen parte del Poder Judicial; así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos antes citados;
 
 VII. Órganos internos de control: los Órganos internos de control en los Entes públicos;
 
@@ -726,3 +728,11 @@ P.O. 22 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LXIV-554 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
