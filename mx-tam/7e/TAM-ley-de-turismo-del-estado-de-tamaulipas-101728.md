@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2019-10-16"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -895,7 +895,9 @@ ARTICULO 72 BIS.
 
 2. La información que deberán proporcionar los prestadores de servicios a que se refiere este artículo, consiste en el nombre completo del huésped o huéspedes, en caso de ser varios en una misma habitación y el tipo y número de folio o clave de la identificación oficial así como los datos de entrada, permanencia y salida de los mismos.
 
-3. Podrán requerir información en los términos de este artículo, quienes sean titulares de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia del Estado, los subsecretarios o subprocuradores respectivamente, o aquellos funcionarios que sean autorizados para tal efecto por los titulares, mediante acuerdo general publicado en el Periódico Oficial del Gobierno del Estado, la información que obtengan será reservada conforme a los dispuesto en el artículo 28 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+3. Podrán requerir información en los términos de este artículo, quienes sean titulares de la Secretaría de Seguridad Pública y de la Fiscalía General de Justicia del Estado, los subsecretarios o subprocuradores respectivamente, o aquellos funcionarios que sean autorizados para tal efecto por los titulares, mediante acuerdo general publicado en el Periódico Oficial del Gobierno del Estado, la información que obtengan será reservada conforme a los (sic) dispuesto en el artículo 28 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
@@ -1070,3 +1072,11 @@ P.O. 16 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-554 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
