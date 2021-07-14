@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2021-03-04"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -1639,7 +1639,9 @@ III. Los contratistas que no cumplan con sus obligaciones contractuales por caus
 
 IV. Los licitantes o contratistas que proporcionen información falsa, o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una queja en una audiencia de conciliación de una inconformidad.
 
-La inhabilitación que se imponga no será menor de tres meses ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Contraloría o los órganos de control de los Ayuntamientos, lo notifiquen al licitante o contratista.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+La inhabilitación que se imponga no será menor de dos años ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Contraloría o los órganos de control de los Ayuntamientos, lo notifiquen al licitante o contratista.
 
 Dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta ley, las dependencias, entidades o Ayuntamientos remitirán a la Contraloría o a los órganos de control en el Ayuntamiento de que se trate, la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
 
@@ -1896,3 +1898,11 @@ P.O. 4 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-547 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 89, PÁRRAFO SEGUNDO, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
