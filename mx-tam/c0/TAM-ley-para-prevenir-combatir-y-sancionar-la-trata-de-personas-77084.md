@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-combatir-y-sancionar-la-trata-de-personas-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-19"
-last_updated: "2021-06-15"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de octubre de 2010.
 
@@ -141,7 +141,7 @@ V. Secretaría de Educación del Estado de Tamaulipas;
 
 VI. Secretaría de Turismo;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JULIO DE 2021)</small>
 
 VII. Fiscalía General de Justicia del Estado;
 
@@ -213,9 +213,9 @@ VIII. Informar y advertir al personal de hoteles, servicios de transporte públi
 
 IX. Orientar al personal responsable de los diversos medios de transporte acerca de las medidas necesarias para asegurar, en especial, la protección de las personas menores de dieciocho o mayores de sesenta años de edad, indígenas, así como de quienes no tienen capacidad para comprender el significado del hecho o de quienes tienen alguna discapacidad que viajen a través del territorio del Estado;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 14 DE JULIO DE 2021)</small>
 
-X. Recopilar con la ayuda de la Fiscalía General de Justicia del Estado y demás instituciones y organismos pertinentes, los datos estadísticos relativos a la incidencia delictiva en materia de trata de personas, con la finalidad de utilizarse en la toma de decisiones y para elaborar los contenidos de los programas en la materia. Dicha información deberá contener:
+X. Recopilar, con la ayuda de la Fiscalía General de Justicia del Estado y demás instituciones y organismos pertinentes, los datos estadísticos relativos a la incidencia delictiva en materia de trata de personas, con la finalidad de utilizarse en la toma de decisiones y para elaborar los contenidos de los programas en la materia. Dicha información deberá contener:
 
 a) El número de detenciones, procesos judiciales, número de sentencias condenatorias en el que estén involucrados traficantes y tratantes de personas y de quienes cometen delitos relacionados con la trata de personas en las diferentes modalidades; y
 
@@ -560,3 +560,11 @@ P.O. 15 DE JUNIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-554 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
