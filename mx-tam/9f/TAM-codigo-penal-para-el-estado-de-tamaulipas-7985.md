@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2021-07-06"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -2019,9 +2019,9 @@ Tratándose de las señaladas en la fracción II del artículo anterior, solo se
 
 Se impondrá sanción de seis meses a seis años de prisión y multa de quince a ochenta veces el valor diario de la Unidad de Medida y Actualización, al que forme parte de una asociación o banda de tres o más personas organizada para delinquir, por el sólo hecho de ser miembro de la asociación. En caso de haberse cometido otro delito se aplicarán las reglas del concurso.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
-El Juez, en su sentencia, disminuirá la pena que corresponda por los delitos cometidos, de seis meses hasta en una mitad, siempre que, según le informe el titular de la Procuraduría General de Justicia de Tamaulipas o la persona a quien éste designe, el procesado haya proporcionado a la autoridad investigadora datos convincentes que conduzcan a la plena identificación y localización de cualquiera de los demás integrantes de la banda.
+El Juez, en su sentencia, disminuirá la pena que corresponda por los delitos cometidos, de seis meses hasta en una mitad, siempre que, según le informe el titular de la Fiscalía General de Justicia de Tamaulipas o la persona a quien éste designe, el procesado haya proporcionado a la autoridad investigadora datos convincentes que conduzcan a la plena identificación y localización de cualquiera de los demás integrantes de la banda.
 
 ###### ARTICULO 171.
 
@@ -4254,6 +4254,10 @@ IV.- Si cualquiera de las personas que participan en las lesiones obrase con pre
 ###### ARTICULO 325.
 
 Si las lesiones fueren inferidas en riña, se impondrá al responsable de la tercera parte del mínimo hasta las dos terceras partes del máximo de la sanción que le correspondiera de acuerdo con los artículos anteriores. Al imponer la sanción se tomará en cuenta si el responsable fue provocado o provocador.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2021)</small>
+
+ARTICULO 325 BIS.- Cuando las lesiones fueren cometidas al interior de una institución educativa pública o privada, se impondrá al responsable hasta una mitad más de la sanción que le correspondiera de acuerdo a este Capítulo.
 
 ###### ARTICULO 326.
 
@@ -6926,3 +6930,19 @@ P.O. 6 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el (sic) día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-551 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 325 BIS, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-554 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
