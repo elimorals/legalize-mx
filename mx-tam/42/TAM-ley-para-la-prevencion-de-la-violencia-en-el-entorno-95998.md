@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prevencion-de-la-violencia-en-el-entorno-95998"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2013-09-17"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 17 de septiembre de 2013.
 
@@ -163,7 +163,9 @@ b) La Secretaría de Salud;
 
 c) La Secretaría de Seguridad Pública; y
 
-d) La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+d) La Fiscalía General de Justicia del Estado;
 
 II. Los Ayuntamientos;
 
@@ -235,9 +237,11 @@ III. Realizar acciones de capacitación y sensibilización a su personal en el t
 
 IV. Las demás que le señale esta Ley, su Reglamento y las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 10.
 
-Corresponde a la Procuraduría General de Justicia del Estado:
+Corresponde a la Fiscalía General de Justicia del Estado:
 
 I. Elaborar e instrumentar acciones y políticas de prevención social de violencia en el entorno escolar, dando prioridad a las zonas de mayor incidencia;
 
@@ -319,7 +323,9 @@ III. La Secretaría de Salud;
 
 IV. La Secretaría de Seguridad Pública;
 
-V. La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+V. La Fiscalía General de Justicia del Estado;
 
 VI. Tres autoridades municipales correspondientes del norte, centro y sur del Estado;
 
@@ -744,3 +750,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiocho días del mes de agosto del año dos mil trece.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO, NO REELECCIÓN.- El GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ,- Rúbrica- El SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL (SIC) GENERAL DE JUSTICIA DEL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al (sic) día siguiente al de su publicación en el Periódico Oficial del Estado.
