@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2019-10-16"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -415,9 +415,11 @@ El Gobierno del Estado y los Municipios coadyuvarán con los medios de comunicac
 
 2. La violación a cualquiera de sus derechos o libertades fundamentales será inmediatamente hecha del conocimiento de las autoridades competentes, quienes deberán restituir a la brevedad a las personas con discapacidad en el ejercicio de sus derechos, sin perjuicio de aplicar las penas o sanciones correspondientes a las personas responsables. Las denuncias de tales violaciones podrán realizarse directamente por el interesado o por cualquier persona que presencie o le conste dicha violación.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 24.
 
-La Procuraduría General de Justicia, el Tribunal Superior de Justicia, la Comisión de Derechos Humanos del Estado de Tamaulipas, deberán elaborar, publicar, difundir manuales e informar a las personas con discapacidad sobre las autoridades a las cuales deben acudir en el caso de la violación de sus derechos fundamentales, así como de los procedimientos que se deben iniciar.
+La Fiscalía General de Justicia, el Tribunal Superior de Justicia, la Comisión de Derechos Humanos del Estado de Tamaulipas, deberán elaborar, publicar, difundir manuales e informar a las personas con discapacidad sobre las autoridades a las cuales deben acudir en el caso de la violación de sus derechos fundamentales, así como de los procedimientos que se deben iniciar.
 
 ###### ARTÍCULO 25.
 
@@ -1046,3 +1048,11 @@ P.O. 16 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-554 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
