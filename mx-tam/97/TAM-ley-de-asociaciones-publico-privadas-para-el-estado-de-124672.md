@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asociaciones-publico-privadas-para-el-estado-de-124672"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-01"
-last_updated: "2019-08-20"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 > <small>(F. DE E., P.O. DE 5 DE DICIEMBRE DE 2017)</small>
 
@@ -155,7 +155,9 @@ XIII. Contrato: el acuerdo de voluntades celebrado entre una entidad contratante
 
 XIV. Convocante: Dependencias o entidad que convoque a un concurso para adjudicar un proyecto de asociación público privada;
 
-XV. Dependencias: las Secretarías y la Procuraduría General de Justicia que conforman la administración pública estatal centralizada;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+XV. Dependencias: las Secretarías y la Fiscalía General de Justicia que conforman la administración pública estatal centralizada;
 
 XVI. Desarrollador: sociedad mercantil mexicana, con objeto exclusivo de efectuar un determinado proyecto de asociación público privada, con quien se celebre el contrato respectivo y a quien se otorguen, en su caso, las autorizaciones para desarrollar el proyecto;
 
@@ -1416,3 +1418,11 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
