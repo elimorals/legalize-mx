@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2021-07-13"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1281,7 +1281,9 @@ ART. 278.- La obligación de dar alimentos es recíproca. El que los da tiene a 
 
 ART. 279.- Los cónyuges deben darse alimentos. La ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale.
 
-ART. 280.- Los concubinos tienen derecho a alimentos cuando hayan vivido maritalmente durante tres años consecutivos, o menos, si hay descendencia, siempre y cuando ambos hayan permanecido libres de matrimonio.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+ART 280.- Los concubinos tienen derecho a alimentos cuando hayan vivido maritalmente durante dos años consecutivos, o menos, si hay descendencia, siempre y cuando ambos hayan permanecido libres de matrimonio.
 
 ART. 281.- Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
 
@@ -9487,9 +9489,9 @@ ART. 2692.- A falta de los llamados en los artículos anteriores, sucederán los
 
 ART. 2693.- La persona con quien el autor de la herencia haya convivido como si fuera su cónyuge durante por lo menos los cinco años que precedieron inmediatamente a su muerte o con quien haya procreado descendencia, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, heredarán en las mismas porciones y orden que para el cónyuge supérstite establecen los artículos 2683 a 2687.
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
-ART. 2694.- Si la vida en común no duró el mínimo a que se refiere el artículo anterior, pero excedió de tres años, aunque no hubiera descendencia con el autor de la sucesión y siempre que hayan permanecido libres de matrimonio, el concubinario o la concubina supérstite tendrá derecho a alimentos si carece de bienes y está imposibilitado para trabajar. Este derecho cesa cuando el supérstite contraiga nupcias o viva nuevamente en concubinato.
+ART 2694.- Si la vida en común no duró el mínimo a que se refiere el artículo anterior, pero excedió de dos años, aunque no hubiera descendencia con el autor de la sucesión y siempre que hayan permanecido libres de matrimonio, el concubinario o la concubina supérstite tendrá derecho a alimentos si carece de bienes y está imposibilitado para trabajar. Este derecho cesa cuando el supérstite contraiga nupcias o viva nuevamente en concubinato.
 
 ART. 2695.- Si al morir el autor de la herencia tenía relaciones de concubinato con varias personas, en las condiciones mencionadas en el artículo 2693, ninguna de ellas heredará.
 
@@ -10490,6 +10492,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-536 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 248, PÁRRAFO PRIMERO; 254 BIS, PÁRRAFO CUARTO; Y 256; Y SE DEROGAN LOS ARTÍCULOS 124; 125; 126; 127; 128; 129; Y 255, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-542 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 280 Y 2694 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
