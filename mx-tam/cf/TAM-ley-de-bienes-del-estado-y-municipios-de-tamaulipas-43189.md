@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-bienes-del-estado-y-municipios-de-tamaulipas-43189"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-11"
-last_updated: "2019-08-20"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 11 de enero de 2005.
 
@@ -331,7 +331,9 @@ c) Certificación de búsqueda en el Sistema de Información Inmobiliaria Federa
 
 d) Publicación en el Periódico Oficial del Estado por tres días consecutivos, el hallazgo del bien inmueble vacante señalando su ubicación, superficie y medidas, a fin de convocar a las personas que consideren tener algún derecho, para que comparezcan ante la Secretaría de Administración dentro de un plazo de quince días hábiles contados a partir de la fecha de la última publicación, a fin de que hagan valer su derecho aportando las pruebas que lo acrediten;
 
-e) Constancia de la Procuraduría General de Justicia del Estado, en la que informe sobre la existencia de denuncias relativas a bienes inmuebles vacantes, que se hubieren presentado en los términos de la legislación civil del Estado de Tamaulipas ante las oficinas del Ministerio Público del lugar de ubicación del inmueble cuya declaración de vacancia se pretende; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+e) Constancia de la Fiscalía General de Justicia del Estado, en la que informe sobre la existencia de denuncias relativas a bienes inmuebles vacantes, que se hubieren presentado en los términos de la legislación civil del Estado de Tamaulipas ante las oficinas del Ministerio Público del lugar de ubicación del inmueble cuya declaración de vacancia se pretende; y
 
 f) Copia certificada de la Secretaría de Obras Públicas del Estado, del plano oficial que señale la superficie del inmueble, medidas y colindancias, datos de los predios colindantes y aquéllos que faciliten su localización y ubicación.
 
@@ -838,3 +840,11 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
