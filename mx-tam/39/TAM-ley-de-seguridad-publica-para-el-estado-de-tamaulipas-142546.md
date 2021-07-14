@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-142546"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-14"
-last_updated: "2020-04-14"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Anexo a la Edición Vespertina del Periódico Oficial del Estado de Tamaulipas, el martes 14 de abril de 2020.
 
@@ -283,7 +283,9 @@ XIII.- Establecer un sistema destinado a obtener, analizar, estudiar y procesar 
 
 XIV.- Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo; asimismo, disponer la integración de una base de datos que contenga la totalidad de los incidentes de su incumbencia, aprovechando al efecto, los avances de la tecnología;
 
-XV.- Efectuar en coordinación con la Fiscalía General de Justicia del Estado, estudios sobre actos delictivos no denunciados, para incorporar este elemento en el diseño de las políticas de prevención de los ilícitos;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+XV.- Efectuar, en coordinacióncon (sic) la Fiscalía General de Justicia, estudios sobre actos delictivos no denunciados para incorporar este elemento en el diseño de las políticas de prevención de los ilícitos penales;
 
 XVI.- Determinar y aplicar las normas y políticas de ingreso, capacitación, desarrollo y disciplina del personal responsable de funciones de seguridad pública, de acuerdo con las leyes y reglamentos vigentes;
 
@@ -295,7 +297,9 @@ XIX.- Promover la celebración de convenios de colaboración con autoridades fed
 
 XX.- Colaborar, dentro del Sistema Nacional de Seguridad Pública y a requerimiento de autoridades federales competentes, de otras entidades federativas o municipales del Estado, en la protección de la integridad física de las personas y en la preservación de sus bienes, cuando se vean amenazadas por situaciones de peligro que generen disturbios, violencia o riesgo inminente;
 
-XXI.- Auxiliar a los Poderes Legislativo y Judicial del Estado y a la Fiscalía General de Justicia del Estado, cuando así lo requieran, para el ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+
+XXI.- Auxiliar a los Poderes Legislativo y Judicial del Estado y a la Fiscalía General de Justicia, cuando así lo requieran para el debido ejercicio de sus funciones;
 
 XXII.- Ejecutar las penas por delitos del orden común y administrar el sistema penitenciario del Estado, así como organizar y dirigir las actividades de apoyo a liberados;
 
@@ -2182,3 +2186,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los ocho días del mes de abril del año dos mil veinte.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-554 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
