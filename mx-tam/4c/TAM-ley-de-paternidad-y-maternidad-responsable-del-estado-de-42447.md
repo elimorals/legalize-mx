@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-paternidad-y-maternidad-responsable-del-estado-de-42447"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2013-09-24"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42447&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PATERNIDAD Y MATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -151,9 +151,13 @@ Para el pago de la pensión alimenticia se estará a lo dispuesto por los Códig
 
 1. En caso de que en la comparecencia del presunto padre se advierta el no reconocimiento de la paternidad de la niña o niño, el Registro Civil procederá de la siguiente manera:
 
-a) Se solicitará a la Procuraduría General de Justicia del Estado, programe una cita a la madre, a la niña o niño y al presunto padre señalado, para que les sea practicado un estudio comparativo de marcadores genéticos;
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
-b) Una vez recibida la solicitud por parte de la Procuraduría General de Justicia del Estado, se turnará el asunto a la Dirección General de Servicios Periciales del Estado, quien fijará día, hora y lugar para la práctica de un estudio comparativo de marcadores genéticos tanto a la madre, el hijo y el presunto padre. El citatorio será notificado a las partes.
+a) Se solicitará a la Fiscalía General de Justicia del Estado, programe una cita a la madre, a la niña o niño y al presunto padre señalado, para que les sea practicado un estudio comparativo de marcadores genéticos;
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+b) Una vez recibida la solicitud por parte de la Fiscalía General de Justicia del Estado, se turnará el asunto a la Dirección General de Servicios Periciales del Estado, quien fijará día, hora y lugar para la práctica de un estudio comparativo de marcadores genéticos tanto a la madre, el hijo y el presunto padre. El citatorio será notificado a las partes.
 
 c) En caso de ser positivo el resultado de las pruebas de comparativos de marcadores genéticos, el padre deberá pagar el costo de los estudios y en el supuesto de dar negativo el resultado, la madre de la niña o niño deberá realizar el pago de las pruebas.
 
@@ -161,7 +165,9 @@ c) En caso de ser positivo el resultado de las pruebas de comparativos de marcad
 
 ###### ARTICULO 8.
 
-1. La Procuraduría General de Justicia del Estado, tendrá la obligación de realizar la prueba de comparativos genéticos y de garantizar la cadena de custodia de la prueba, así como de comunicar dentro de los 15 días siguientes a la toma de las muestras, al Registro Civil sobre los resultados de la misma.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+1. La Fiscalía General de Justicia del Estado, tendrá la obligación de realizar la prueba de comparativos genéticos y de garantizar la cadena de custodia de la prueba, así como de comunicar dentro de los 15 días siguientes a la toma de las muestras, al Registro Civil sobre los resultados de la misma.
 
 2. La Secretaría de Salud del Estado, acreditará y vigilará a todas aquellas instituciones privadas que decidan realizar la prueba de comparativos genéticos para efectos de esta Ley. Para dicho fin, la Secretaría convocará públicamente, a través del Periódico Oficial del Estado y cuando menos en uno de los periódicos de mayor circulación en el Estado, a las instituciones de salud privadas interesadas para ofrecer sus servicios relativos al contenido de este ordenamiento, obligándose a su vez, a publicar por el mismo medio de difusión la lista de las instituciones que hayan sido aprobadas.
 
@@ -232,3 +238,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
+
+P.O. 14 DE JULIO DE 2021.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL (SIC) GENERAL DE JUSTICIA DEL ESTADO”.]
