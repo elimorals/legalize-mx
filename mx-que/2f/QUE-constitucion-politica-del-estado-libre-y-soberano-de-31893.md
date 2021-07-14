@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2021-04-16"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -125,9 +125,9 @@ Las autoridades estatales y las municipales promoverán la integración, el desa
 
 El Estado adoptará medidas que garanticen la no discriminación del individuo y propicien el desarrollo físico, emocional y mental de las niñas, niños y adolescentes y de todos aquellos que por circunstancias particulares lo requieran. Establecerá un sistema permanente de tutela, apoyo e integración social de los adultos mayores y de las personas discapacitadas que se encuentren en condiciones de desventaja física, mental, social o económica, para facilitarles una vida de mayor calidad, digna, decorosa y su pleno desarrollo.
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
-En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Las niñas, niños y adolescentes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios. El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento.
+En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Las niñas, niños y adolescentes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios. El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento. Promoverá el desarrollo integral de las personas jóvenes, a través de políticas públicas con enfoque multidisciplinario, garantizando sus derechos y su inclusión en el ámbito político, social, económico y cultural.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2011)</small>
 
@@ -144,6 +144,10 @@ El Estado garantizará y promoverá los derechos político electorales de los pu
 > <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2014)</small>
 
 En el Estado de Querétaro el Gobierno se sustenta en el valor de la ética, por lo que todos los entes Públicos cuentan con un Código de Ética, mediante el establecimiento de una adecuada política, la creación de un comité de ética formalmente constituida y de la realización de la capacitación y difusión en dicho valor.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2021)</small>
+
+El Estado garantizará que la rectoría del desarrollo económico sea integral y sustentable, mediante la generación de condiciones necesarias que fortalezcan e incentiven el crecimiento económico.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
@@ -385,11 +389,15 @@ II. Aprobar las leyes en todas las materias, con excepción de las expresamente 
 
 III. Elegir, con el voto de las dos terceras partes de sus integrantes, al ciudadano que deba asumir el cargo de Gobernador con el carácter de provisional, interino o sustituto, en los casos y términos que esta Constitución prescribe;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P. O. 14 DE JULIO DE 2021)</small>
 
-IV. Elegir, con el voto de cuando menos las dos terceras partes de los integrantes de la Legislatura, a los Magistrados del Tribunal Superior de Justicia, al Presidente de la Defensoría de los Derechos Humanos de Querétaro, a los Comisionados de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, al Auditor Superior del Estado, al Fiscal General del Estado y a los demás servidores públicos que determine la Ley; debiendo mantener un equilibrio entre mujeres y hombres cuando se trate de órganos colegiados.
+IV. Elegir, con el voto de cuando menos las dos terceras partes de los integrantes de la Legislatura, a los Magistrados del Tribunal Superior de Justicia, al Presidente de la Defensoría de los Derechos Humanos de Querétaro, a los Comisionados de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, al Auditor Superior del Estado, al Fiscal General del Estado y a los demás servidores públicos que determine la Ley; debiendo mantener un equilibrio entre mujeres y hombres cuando se trate de órganos colegiados;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 Ratificar por las dos terceras partes de sus miembros presentes de la Legislatura del Estado, el nombramiento que el Gobernador del Estado de Querétaro, haga del Secretario responsable del control interno del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 Asimismo, la Legislatura del Estado designará por las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos que esta Constitución les reconoce autonomía;
 
@@ -423,9 +431,9 @@ XVI. Citar a comparecer a los servidores públicos o funcionarios de las depende
 
 XVII. Por acuerdo de las dos terceras partes de sus miembros, ratificar los arreglos o convenios de límites territoriales concertados entre los ayuntamientos o los que el titular del Ejecutivo celebre con los de otros Estados, y en su caso, someterlos a la ratificación en los términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P. O. 14 DE JULIO DE 2021)</small>
 
-XVIII. Rendir, en el mes de julio, el informe anual de actividades del Poder Legislativo y;
+XVIII. Rendir, en el mes de agosto, el informe anual de actividades del Poder Legislativo y;
 
 XIX. Todas las demás que la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes le otorguen.
 
@@ -485,15 +493,17 @@ IX. Si la ley, decreto o acuerdo no señala el día en el que deba comenzar a ob
 
 #### Sección Tercera. Poder Ejecutivo
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 20.
 
-El Poder Ejecutivo se deposita en un ciudadano que se denominará Gobernador del Estado quien será el representante legal de esta Entidad Federativa y entrará a ejercer su cargo el día primero de octubre del año de su elección y su ejercicio durará seis años.
+El Poder Ejecutivo se deposita en un ciudadano que se denominará Gobernador del Estado quien será el representante legal de esta Entidad Federativa y entrará a ejercer su cargo el día primero de octubre del año de su elección y su ejercicio durará seis años, su mandato podrá ser revocado de acuerdo a la presente Constitución y demás disposiciones legales vigentes.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 La declaración del Gobernador electo se hará por el Instituto Electoral del Estado de Querétaro o por la autoridad jurisdiccional competente y por decreto de la Legislatura, para el caso de Gobernador interino o sustituto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 El Gobernador del Estado se auxiliará de las Dependencias y Entidades que señale la ley. Nombrará un Secretario de Gobierno que será además responsable de las relaciones con el Poder Legislativo, para lo cual podrá estar presente en las sesiones de la Legislatura del Estado; asistirá a éstas, comparecerá cuando sea requerido y rendirá los informes que la propia Legislatura le solicite.
 
@@ -555,9 +565,9 @@ VIII. Expedir decretos y acuerdos de carácter administrativo para la eficaz pre
 
 IX. Celebrar convenios con la Federación, con otros Estados, con los Municipios y con particulares para el mejor cumplimiento de sus atribuciones y cuando el desarrollo económico y social lo haga necesario;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P. O. 14 DE JULIO DE 2021)</small>
 
-X. Rendir ante la Legislatura durante el mes de septiembre de cada año, por escrito, un informe del estado general que guarda la administración pública en los términos que establezca la Ley, salvo el último año de ejercicio constitucional, en el cual el informe a que se refiere el presente artículo se rendirá en el mes de julio;
+X. Rendir ante la Legislatura durante el mes de septiembre de cada año, por escrito, un informe del estado general que guarda la administración pública en los términos que establezca la Ley, salvo el último año de ejercicio constitucional, en el cual el informe a que se refiere el presente artículo se rendirá en el mes de agosto;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -797,11 +807,11 @@ El Tribunal Electoral del Estado de Querétaro es la autoridad jurisdiccional lo
 
 El Instituto y el Tribunal previstos en este artículo, cumplirán sus funciones bajo los principios de certeza, imparcialidad, independencia, máxima publicidad, objetividad, legalidad y probidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 14 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 33.
 
-El funcionamiento de la Defensoría de los Derechos Humanos de Querétaro y la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se sujetará a lo siguiente:
+El funcionamiento de la Defensoría de los Derechos Humanos de Querétaro y la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, se sujetará a lo siguiente:
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
@@ -811,15 +821,13 @@ La Defensoría de los Derechos Humanos de Querétaro, es un organismo público, 
 
 El Presidente de la Defensoría de los Derechos Humanos de Querétaro, durará en su encargo cinco años, pudiendo ser reelecto por un periodo igual y sólo podrá ser removido por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
 Apartado B
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P. O. 14 DE JULIO DE 2021)</small>
 
-La Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, es un organismo autónomo colegiado, especializado e imparcial, con autonomía operativa, de gestión y de decisión, que se encargará de garantizar el ejercicio, disfrute, promoción, difusión e investigación del derecho de los gobernados para acceder a la información pública, en los términos de la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
+La Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, es un organismo autónomo colegiado, especializado e imparcial, con autonomía operativa, de gestión y de decisión, que se encargará de garantizar el ejercicio, disfrute, promoción, difusión e investigación del derecho de los gobernados para acceder a la información pública y protección de los datos personales, en los términos de la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
 
 La Comisión se integrará por tres Comisionados electos por las dos terceras partes de los integrantes de la Legislatura del Estado, durarán siete años en el ejercicio del cargo y sólo podrán ser removidos en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y serán sujetos de juicio político.
 
@@ -923,11 +931,11 @@ Cuando el Ayuntamiento haya desaparecido o por falta absoluta de la mayoría de 
 
 El Concejo Municipal deberá integrarse de forma paritaria, cumpliendo además con los requisitos que la Ley determine para el caso concreto.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P. O. 14 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 37.
 
-El Presidente Municipal, en el mes de septiembre de cada año, rendirá ante el Ayuntamiento, un informe por escrito de la situación general que guarde la administración municipal, en los términos que establezca la Ley, salvo el último año de ejercicio constitucional, en el cual el informe a que se refiere el presente artículo se rendirá en el mes de julio.
+El Presidente Municipal, en el mes de septiembre de cada año, rendirá ante el Ayuntamiento, un informe por escrito de la situación general que guarde la administración municipal, en los términos que establezca la Ley, salvo el último año de ejercicio constitucional, en el cual el informe a que se refiere el presente artículo se rendirá en el mes de agosto.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -943,17 +951,15 @@ Los servidores públicos de elección popular por el tiempo en el cual ejercen s
 
 ### Capítulo Primero. De la responsabilidad
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 38.
 
 Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P. O. 14 DE JULIO DE 2021)</small>
 
-I. Se impondrán, mediante juicio político, cuando los servidores públicos en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Podrán ser sujetos a juicio político, los Magistrados de los Tribunales del Estado, los Jueces del Poder Judicial, los Secretarios, Sub-secretarios, Oficial Mayor y Directores de la Administración Pública Estatal, el Fiscal General del Estado y los Ministerios Públicos; el Auditor Superior del Estado, los Comisionados integrantes de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, los miembros de los Ayuntamientos y los Directores Generales o sus equivalentes en las entidades paraestatales y paramunicipales;
+I. Se impondrán, mediante juicio político, cuando los servidores públicos en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Podrán ser sujetos a juicio político, los Magistrados de los Tribunales del Estado, los Jueces del Poder Judicial, los Secretarios, Sub-secretarios, Oficial Mayor y Directores de la Administración Pública Estatal, el Fiscal General del Estado y los Ministerios Públicos; el Auditor Superior del Estado, los Comisionados integrantes de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los miembros de los Ayuntamientos y los Directores Generales o sus equivalentes en las entidades paraestatales y paramunicipales;
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1011,7 +1017,9 @@ I. El Sistema contará con:
 
 a) Un Comité Coordinador que será la instancia responsable de establecer mecanismos de coordinación entre los integrantes del Sistema y tendrá a su cargo el diseño, promoción y evaluación de políticas públicas de combate a la corrupción en la Entidad.
 
-El Comité estará integrado por los titulares de la Entidad Superior de Fiscalización del Estado de Querétaro, de la Secretaría de la Contraloría del Poder Ejecutivo del Estado, de la Fiscalía Especializada en el Combate a la Corrupción, por el Presidente del Tribunal de Justicia Administrativa del Estado de Querétaro; el Presidente de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado de Querétaro y otro del Comité de Participación Ciudadana, quien lo presidirá;
+> <small>(REFORMADO, P. O. 14 DE JULIO DE 2021)</small>
+
+El Comité estará integrado por los titulares de la Entidad Superior de Fiscalización del Estado de Querétaro, de la Secretaría de la Contraloría del Poder Ejecutivo del Estado, de la Fiscalía Especializada en el Combate a la Corrupción, por el Presidente del Tribunal de Justicia Administrativa del Estado de Querétaro; el Presidente de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado de Querétaro y otro del Comité de Participación Ciudadana, quien lo presidirá;
 
 b) Un Comité de Participación Ciudadana, cuyo propósito será el de coadyuvar al cumplimiento de los objetivos del Comité Coordinador, en los términos que establezcan las leyes, así como ser la instancia de vinculación entre las organizaciones sociales y académicas relacionadas con las materias del Sistema Estatal Anticorrupción de Querétaro.
 
@@ -1936,6 +1944,34 @@ Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía
 P.O. 16 DE ABRIL DE 2021.
 
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. El informe de la Legislatura del Estado, el Gobernador del Estado de Querétaro, así como el de los Presidentes Municipales correspondientes a la conclusión de su gestión en 2021, deberá rendirse durante el mes de agosto del mismo año, de conformidad con lo dispuesto en la presente iniciativa de reforma y con la finalidad de garantizar el ejercicio del mecanismo de consulta popular contemplado en la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal de Consulta Popular.
+
+Artículo Cuarto. Toda referencia que se haga en cualquier disposición jurídica a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro se deberá entender que se hace a la Comisión Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 20 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO, EN MATERIA DE JÓVENES”.]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
