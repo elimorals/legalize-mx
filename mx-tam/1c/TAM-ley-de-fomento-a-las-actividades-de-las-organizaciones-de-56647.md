@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-56647
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-02"
-last_updated: "2021-03-30"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de agosto de 2007.
 
@@ -287,9 +287,25 @@ III. Promover el diálogo continuo entre los sectores público, social y privado
 
 IV. Conocer de las infracciones e imponer las sanciones correspondientes a las organizaciones, conforme a lo dispuesto en el Capítulo Cuarto de esta ley;
 
-V. Proponer al Ejecutivo su reglamento interno, y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
 
-VI. Las demás que le señale la ley.
+V. Proponer al Ejecutivo su reglamento interno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2021)</small>
+
+VI. Convocar a las Organizaciones que deseen presentar sus proyectos de trabajo, para la obtención de recursos aprobados para los fines de esta Ley;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2021)</small>
+
+VII. Solicitar a los Ayuntamientos del Estado información de los proyectos de las organizaciones, apoyados por estas instancias de gobierno, a efecto de que realice una distribución más equitativa de los recursos a los que se refiere esta ley;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2021)</small>
+
+VIII. Publicar en forma anual en el Periódico Oficial del Estado, el listado de organizaciones que se encuentren registradas en el Catálogo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2021)</small>
+
+IX. Las demás que le señale la ley.
 
 ###### Artículo 12.
 
@@ -507,9 +523,17 @@ X. No mantener a disposición de las autoridades competentes y del público en g
 
 XI. Omitir información o incluir datos falsos en los informes;
 
-XII. No informar al Registro dentro del plazo de cuarenta y cinco días hábiles, contados a partir de la decisión respectiva, sobre cualquier modificación a su acta constitutiva o estatutos, o sobre cualquier cambio relevante en la información proporcionada al solicitar su inscripción en el mismo; y,
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
 
-XIII. No cumplir con cualquier otra obligación que le corresponda en los términos de la presente ley.
+XII. No informar al Registro dentro del plazo de cuarenta y cinco días hábiles, contados a partir de la decisión respectiva, sobre cualquier modificación a su acta constitutiva o estatutos, o sobre cualquier cambio relevante en la información proporcionada al solicitar su inscripción en el mismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2021)</small>
+
+XIII. Cualquier actividad discriminatoria motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2021)</small>
+
+XIV. No cumplir con cualquier otra obligación que le corresponda en los términos de la presente ley.
 
 ###### Artículo 33.
 
@@ -596,3 +620,11 @@ P.O. 30 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-552 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al (sic) día siguiente al de su publicación en el Periódico Oficial del Estado.
