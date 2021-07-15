@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2020-09-10"
+last_updated: "2021-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -53,6 +53,10 @@ LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
 Las disposiciones de esta Ley son de orden público e interés social; tienen como objeto regular la prestación del servicio de transporte público y los servicios auxiliares del mismo en el Estado de San Luis Potosí; y establecer las bases para la protección, la movilidad y la seguridad de la población en la materia.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
+
+Las menciones que en este Ordenamiento se hagan en género masculino, se entenderán referidas también a las mujeres, salvo disposición en contrario.
+
 ###### ARTICULO 2°.
 
 El servicio de transporte público en el Estado se sustentará en los siguientes principios rectores:
@@ -63,21 +67,25 @@ II. Eficiencia de gestión;
 
 III. Calidad del servicio, y
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-IV. Formación del elemento humano con perspectiva de género.
+IV. Formación del elemento humano con perspectiva de derechos humanos, género y no discriminación.
 
 ###### ARTICULO 3°.
 
 Para los efectos de esta Ley se entenderá por movilidad sustentable:
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-I. El uso preferencial del espacio público por personas con discapacidad, peatones, ciclistas, y por el servicio de transporte público de pasajeros, respecto a los medios de transporte de particulares, y privados;
+I. El uso preferencial del espacio público por peatones, especialmente personas con discapacidad, niños y niñas, mujeres embarazadas y personas adultas mayores, y por ciclistas, así como el uso del servicio de transporte público de pasajeros, respecto a los medios de transporte de particulares, y privados;
 
-II. La preferencia a las modalidades del servicio de transporte público de pasajeros, que representen mayor capacidad de transportación de pasajeros;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-III. La inclusión de infraestructura vial y equipamiento urbano adecuado, así como de los avances tecnológicos que garanticen la movilidad sustentable, en la planeación y ejecución de los programas de obra pública por parte del Estado y los municipios;
+II. La preferencia a las modalidades del servicio de transporte público de pasajeros, que representen mayor capacidad y calidad de transportación de pasajeros;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
+
+III. La inclusión de infraestructura vial y equipamiento urbano adecuado, así como de los avances tecnológicos que garanticen la movilidad sustentable y la seguridad de las personas que utilizan el servicio de transporte público, en la planeación y ejecución de los programas de obra pública por parte del Estado y los municipios;
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2015)</small>
 
@@ -87,13 +95,13 @@ IV. La actualización del marco normativo aplicable a las materias que se contie
 
 V. La determinación que lleven a cabo el Estado y los municipios, de las áreas que deban destinarse para estacionamientos públicos, y guarda de bicicletas y vehículos unipersonales, que faciliten el trasbordo de las personas a los sistemas de transporte público;
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-VI. El derecho de las personas a desplazarse por la vía pública en condiciones de accesibilidad, independientemente de su condición, y con el mínimo impacto ambiental posible;
+VI. El derecho de las personas a desplazarse por la vía pública en condiciones de accesibilidad y de seguridad, independientemente de su condición, y con el mínimo impacto ambiental posible;
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-VII. La prioridad en la asignación del uso de las vías públicas para los medios de transporte, tanto de personas como de mercancías de menor costo social, económico, ambiental y energético;
+VII. La prioridad en la asignación del uso de las vías públicas para los medios de transporte público, tanto de personas como de mercancías, de menor costo social y económico, e impacto ambiental y energético;
 
 > <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2015)</small>
 
@@ -103,17 +111,17 @@ VIII. El uso preferente del transporte público, colectivo y de otros sistemas d
 
 IX. El uso racional del suelo, reduciendo las necesidades de movilidad de personas y mercancías;
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-X. Las políticas públicas que incentiven el cambio de uso de transporte individual, por aquéllos de carácter colectivo o masivo, y tecnología sustentable;
+X. Las políticas públicas que incentiven el cambio de uso de transporte individual, por aquéllos de carácter colectivo o masivo, y de tecnología sustentable;
 
 > <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2015)</small>
 
 XI. El cumplimiento de la legislación relacionada a la preservación del medio ambiente en lo que concierne a la movilidad, y
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-XII. El ordenamiento de las vías públicas de comunicación, que permita una eficiente distribución de los servicios y articulación de las distintas áreas.
+XII. El ordenamiento de las vías públicas de comunicación, que permita una eficiente distribución de los servicios y articulación de las distintas áreas, considerando criterios de que (sic) favorezcan la movilidad de las usuarias y personas con discapacidad en condiciones de seguridad e igualdad.
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2015)</small>
 
@@ -125,7 +133,9 @@ Se entiende por eficiencia de gestión, las acciones que permitan el óptimo fun
 
 I. Los concesionarios y permisionarios deberán implementar los procedimientos administrativos, de operación y financieros, que hagan redituable la actividad, propiciando el óptimo mantenimiento y la renovación periódica de su parque vehicular;
 
-II. El servicio de transporte público de pasajeros deberá prestarse en las mejores condiciones de calidad;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
+
+II. El servicio de transporte público de pasajeros deberá prestarse en las mejores condiciones de calidad, considerando el respeto a los derechos humanos, la perspectiva de género y la no discriminación;
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2020)</small>
 
@@ -143,11 +153,17 @@ II. Impulsar el uso de espacios especiales, exclusivos y confinados para los sis
 
 III. Regular el uso adecuado y el aprovechamiento de los sistemas y los servicios auxiliares del transporte público;
 
-IV. Impulsar la implementación de la infraestructura y equipamiento urbano, que eviten la interferencia de los espacios destinados a los sistemas de transporte público de pasajeros, por parte de los peatones o vehículos particulares, y viceversa, y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2020)</small>
+IV. Impulsar la implementación de la infraestructura y equipamiento urbano, que eviten la interferencia de los espacios destinados a los sistemas de transporte público de pasajeros, por parte de los peatones o vehículos particulares, y viceversa;
 
-V. Los sistemas de transporte público, en coordinación con las autoridades correspondientes, desarrollarán programas de seguridad pública y protección civil; así como de sensibilización con perspectiva de género para el respeto y trato digno de las personas con discapacidad.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
+
+V. Los sistemas de transporte público, en coordinación con las autoridades correspondientes, desarrollarán programas de seguridad pública y protección civil; así como de sensibilización para el respeto y trato digno de las personas con discapacidad, las mujeres, niñas, niños y adolescentes y personas adultas mayores, y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2021)</small>
+
+VI. La promoción e implementación de medidas que propicien el respeto a los principios de continuidad, regularidad, accesibilidad, perspectiva de derechos humanos y de género, no discriminación e igualdad sustantiva para las y los usuarios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2018)</small>
 
@@ -155,9 +171,9 @@ V. Los sistemas de transporte público, en coordinación con las autoridades cor
 
 Se entiende como formación del elemento humano, la capacitación para la prestación del servicio de transporte público de pasajeros, y las acciones que tengan como fin impulsar el desarrollo de los conocimientos, habilidades y destrezas, dirigidas a los concesionarios, permisionarios, operadores, usuarios y ciudadanos en general, con perspectiva de género, bajo los siguientes lineamientos:
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-I. Las autoridades del transporte público deberán impulsar de manera semestral, programas de capacitación y acciones de desarrollo del personal, así como la evaluación de las aptitudes y actitudes de los operadores del servicio, a fin de que adquieran y actualicen las destrezas necesarias para el mejor desempeño de su actividad, informando a la ciudadanía los resultados obtenidos y los indicadores que se utilizaron en dicha evaluación, por vía internet;
+I. Las autoridades del transporte público deberán impulsar de manera anual, programas de capacitación y acciones de desarrollo del personal, así como la evaluación de las aptitudes y actitudes de los operadores del servicio, a fin de que adquieran y actualicen las destrezas necesarias para el mejor desempeño de su actividad, con un enfoque de no discriminación, respeto a los derechos humanos y perspectiva de género;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
 
@@ -167,13 +183,13 @@ II. Los concesionarios y permisionarios deberán conocer y actualizar los derech
 
 III. Los usuarios deberán conocer, en beneficio de ellos mismos y de la sociedad en general, los derechos y obligaciones inherentes al uso de cualquier sistema de transporte público, así como los protocolos de prevención y seguridad dirigidos principalmente a mujeres y niñas;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-IV. Las autoridades correspondientes, estatales y municipales, deberán implementar programas y acciones de difusión sobre las disposiciones aplicables en materia de tránsito y transporte público, así como el uso responsable de vehículos particulares y de las vialidades, propiciando el fomento de la cultura del respeto, para una mejor convivencia urbana, y preferencia vial a, las personas con discapacidad, al peatón y al transporte colectivo, y
+IV. Las autoridades correspondientes, estatales y municipales, deberán implementar programas y acciones de difusión sobre las disposiciones aplicables en materia de tránsito y transporte público, así como el uso responsable de vehículos particulares y de las vialidades, propiciando el fomento de la cultura del respeto, para una mejor convivencia urbana, y preferencia vial al peatón, especialmente tratándose de personas con discapacidad, personas adultas mayores, mujeres embarazadas, niños y niñas, ciclistas y al transporte colectivo, y
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-V. Las autoridades de transporte público, los concesionarios y permisionarios deben implementar en sus cursos de capacitación, la sensibilización acerca de las personas con discapacidad, y la perspectiva de género.
+V. Las autoridades de transporte público, los concesionarios y permisionarios deben implementar en sus cursos de capacitación, la sensibilización acerca de las personas con discapacidad y, en general, sobre las personas que se encuentren en estado de vulnerabilidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2015)</small>
 
@@ -205,11 +221,11 @@ El titular del Ejecutivo del Estado, a través de la Secretaría de Comunicacion
 
 Cuando se presenten circunstancias de caso fortuito o de fuerza mayor, la Secretaría de Comunicaciones y Transportes dictará las disposiciones que considere necesarias, para prestar el servicio y resguardar la seguridad de la población en materia de transporte.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2021)</small>
 
-###### ARTICULO 12.
+###### ARTÍCULO 12.
 
-Para la aplicación e interpretación de esta Ley, se utilizará el siguiente glosario:
+Para la aplicación e interpretación de esta Ley se entiende por:
 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2012)</small>
 
@@ -273,6 +289,14 @@ XIV Bis. Estudiante: persona que se encuentra cursando estudios académicos, cie
 
 XIV Ter. Hora pico de servicio: periodos de tiempo en los que la demanda de trasporte es mayor a la capacidad máxima de pasajeros autorizada;
 
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2021)</small>
+
+XIV Quáter. Igualdad: el principio que establece el acceso a las garantías, oportunidades, bienes, servicios y demás derechos constitucionales y legales, sin discriminación por condiciones de sexo, edad, estado civil, religión, idioma, raza, preferencia sexual, estado de salud, o cualesquiera otra situación de las personas;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2021)</small>
+
+XIV Quinque. Igualdad Sustantiva: el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
 XV. Itinerario: a los puntos de recorrido de una ruta;
 
 XVI. Lanzadera: al espacio físico donde permanecen momentáneamente estacionados los vehículos del transporte público, mientras se desocupan las posiciones de ascenso y descenso del pasaje, cuyo propósito es evitar la saturación de las bahías, sitios o terminales;
@@ -282,6 +306,10 @@ XVII. Ley: a la Ley de Transporte Público del Estado de San Luis Potosí;
 XVIII. Licencia de conducir: al documento autorizado por la Secretaría, indispensable para operar un vehículo de transporte en todas sus modalidades;
 
 XIX. Mantenimiento: a la acción de reparar y mantener o conservar en buen estado los vehículos y los servicios auxiliares del transporte, afectos a una concesión o permiso;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2021)</small>
+
+XIX Bis. No discriminación: el derecho de toda persona a ser tratada de manera equitativa, sin exclusión, distinción o restricción arbitrarias, de tal modo que se le haga imposible el aprovechamiento de sus derechos y libertades fundamentales, y el libre acceso a las oportunidades socialmente disponibles;
 
 XX. Operador: a la persona autorizada mediante la licencia correspondiente para conducir un vehículo del servicio de transporte público de pasajeros en cualquiera de sus modalidades;
 
@@ -475,9 +503,13 @@ XIII. Revisar que se cumpla de conformidad a lo que establezca esta Ley o el Reg
 
 XIV. Imponer las sanciones que procedan de conformidad con la presente Ley y sus reglamentos;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-XV. Celebrar convenios de coordinación con organismos o instituciones, a fin de llevar a cabo programas de capacitación para operadores del transporte público, y
+XV. Celebrar convenios de coordinación con organismos o instituciones, a fin de llevar a cabo programas de capacitación para operadores del transporte público;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2021)</small>
+
+XV Bis. Implementar políticas y medidas conducentes a garantizar la participación igualitaria de las mujeres en el acceso a los bienes, derechos y servicios relacionados con el transporte público, y
 
 > <small>(ADICIONADA, P.O. 18 DE JULIO DE 2015)</small>
 
@@ -849,27 +881,43 @@ V. Justificación de su solicitud con estudio técnico.
 
 Tratándose de ampliación de ruta o rutas, los interesados deberán cumplir con los requisitos que establecen los artículos 38 y 39 de este Ordenamiento y, en igualdad de circunstancias, tendrán prioridad los titulares de las mismas. La Secretaría, por si, o a través de la Dirección General competente, con acuerdo del titular del Ejecutivo y según corresponda, previo análisis y recomendación del ayuntamiento respectivo, autorizará, en su caso, la ampliación, conforme al estudio técnico que al efecto realice; y propondrá la convocatoria para concurso de concesiones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 44.
 
-Para asegurar el acceso de las personas con discapacidad al transporte público urbano en las modalidades de colectivo, colectivo de primera clase, y colectivo masivo; así como los sitios, terminales, bahías, centros de transferencia y vehículos, contarán, entre otras medidas de accesibilidad, con rampas, elevadores, espacios, áreas, asientos y demás mecanismos especiales de uso preferencial de las personas con discapacidad, que coadyuven a su plena inclusión a la sociedad, las que deberán cumplir con las normas reglamentarias y técnicas que para tal efecto emita el titular del Ejecutivo y demás disposiciones legales que resulten aplicables.
+Para asegurar el acceso de las personas al transporte público urbano en las modalidades de, colectivo, colectivo de primera clase, y colectivo masivo; así como a los sitios, terminales, bahías, centros de transferencia y vehículos, en condiciones de igualdad, se implementarán las siguientes acciones:
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2021)</small>
+
+I. Mujeres embarazadas, personas con menores de edad en brazos, niñas y niños. Los primeros cuatro asientos ubicados en el lado izquierdo del vehículo a espaldas del operador se destinarán preferencialmente para el uso de mujeres embarazadas, personas con menores de edad en brazos, niños y niñas. Estos asientos deberán ser de color rosa;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
+
+II. Personas Adultas Mayores. Los cuatro asientos siguientes se destinarán preferencialmente para el uso de personas adultas mayores. Estos asientos deberán ser de color amarillo, y
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
+
+III. Personas con discapacidad y/o movilidad limitada. Los cuatro asientos siguientes, se destinarán exclusivamente para personas con discapacidad y/o movilidad limitada. Estos asientos deberán ser de color azul.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2021)</small>
+
+Adicionalmente, entre otras medidas de accesibilidad, se contará con rampas, elevadores, espacios, áreas y demás mecanismos especiales de uso preferencial de las personas con discapacidad, que coadyuven a su plena inclusión a la sociedad, las que deberán cumplir con las normas reglamentarias y técnicas que para tal efecto emita el titular del Ejecutivo y demás disposiciones legales que resulten aplicables.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 15 DE JULIO DE 2021)</small>
 
 Las unidades de transporte público colectivo en su interior, deberán contar, al menos, con un área libre y respectivo sistema de seguridad, para una persona usuaria de silla de ruedas.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
 
-Igualmente, los vehículos en su interior destinarán cuatro asientos para uso exclusivo de personas con discapacidad, que serán de uso exclusivo, sin perjuicio de los asientos que se destinen a otras personas que presenten movilidad limitada, los que deberán estar identificados y señalizados conforme al reglamento respectivo.
+Se deberán eliminar los torniquetes de ingreso a las unidades.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
 
-Adicionalmente, se destinará un diez por ciento más de asientos para personas adultas mayores, mujeres embarazadas o con menores de edad en brazos y niñas y niños, los que deberán estar identificados y señalizados conforme al reglamento respectivo; dichos asientos serán de uso preferencial a diferencia de los destinados a personas con discapacidad que son de uso exclusivo.
+En lo referente a lo dispuesto en las fracciones I a III de este artículo (sic) primeros casos se deberán colocar engomados informativos del uso de los asientos exclusivos y preferenciales en las ventanillas correspondientes.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE JULIO DE 2021)</small>
 
-En todo tiempo el operador o la operadora del vehículo, como medida para garantizar a las personas con discapacidad el uso preferente del transporte público, esperarán el tiempo que resulte necesario para que los usuarios con discapacidad y movilidad limitada, asciendan al vehículo y se instalen en su interior, así como para que desciendan del mismo.
+En todo tiempo el operador o la operadora del vehículo, como medida para garantizar el uso preferente del transporte público a las personas consideradas en las fracciones I, II, y III de, este artículo, esperará el tiempo que resulte necesario para que dichas personas asciendan al vehículo y se instalen en su interior, así como para que desciendan del mismo.
 
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2020)</small>
 
@@ -1279,7 +1327,25 @@ d) Las unidades contarán con los sistemas o dispositivos de control y seguridad
 
 4. Sistema de cámaras de video colocadas en el interior del vehículo y al frente del mismo, con capacidad para trasmitir (sic) las imágenes en tiempo real a la Secretaría, en los términos que la misma determine, debiendo conservar los archivos generados por dicho sistema, en apego a lo dispuesto por el Reglamento de esta Ley.
 
-5. Los demás que en razón del desarrollo tecnológico vayan siendo aplicables a esta modalidad de servicio, para protección y seguridad de la población;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2021)</small>
+
+5. Letreros led que indiquen el número y destino de las rutas, los cuales se instalarán en la parte superior derecha del parabrisas en apego a lo dispuesto por el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
+
+6. La iluminación interior de los vehículos invariablemente deberá ser con luz clara con lámparas tipo led o similar.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
+
+7. Sistema o dispositivo tecnológico tipo botón de pánico de acuerdo con lo dispuesto por el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
+
+8. Engomados informativos sobre los servicios de atención de usuarios, quejas y seguridad pública, que deberán instalarse en las puertas de acceso y descenso del vehículo, y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE JULIO DE 2021)</small>
+
+9. Los demás que en razón del desarrollo tecnológico vayan siendo aplicables a esta modalidad de servicio, para protección y seguridad de la población.
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2019)</small>
 
@@ -1745,9 +1811,15 @@ XXI. Cumplir y acreditar las obligaciones de Seguridad Social de sus operadores,
 
 XXII. Entregar a los usuarios del transporte público, un comprobante impreso foliado del pago del importe que por concepto de tarifa hubieren hecho, con independencia de la modalidad del mismo. En el caso de la tarjeta y recargas de prepagos, las facturas o recibos fiscales correspondientes; y en el caso de los usuarios que pagaran con efectivo directamente en la unidad, los respectivos boletos que amparen la erogación realizada;
 
-XXIII. Dotar a los operadores por lo menos de dos uniformes al año, con las características que determine la Secretaría, debiendo acreditar ante ésta su cumplimiento, y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-XXIV. Cumplir con los preceptos de esta Ley, su Reglamento y demás disposiciones jurídicas y administrativas aplicables.
+XXIII. Dotar a los operadores por lo menos de dos uniformes al año, con las características que determine la Secretaría, debiendo acreditar ante ésta su cumplimiento, y;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2021)</small>
+
+XXIV. Cumplir de forma puntual con los protocolos establecidos por las autoridades de salud a causa de brotes epidémicos, o por motivos de salubridad general, incluyendo, más no limitándose, a acciones como la sanitización de las unidades, y
+
+XXV. Cumplir con los preceptos de esta Ley, su Reglamento y demás disposiciones jurídicas y administrativas aplicables.
 
 ### Capítulo II. De las Obligaciones de los Operadores del Servicio Público de Transporte
 
@@ -1773,9 +1845,17 @@ III. Sustentar las pruebas que la Secretaría establezca, y acreditar satisfacto
 
 IV. Someterse, cuando la Secretaría lo requiera, a los exámenes, médico general, de capacidad visual y toxicológico; y acreditar satisfactoriamente la certificación de los mismos;
 
-V. Cursar y acreditar satisfactoriamente las capacitaciones que se lleven a cabo por disposición de la Secretaría, y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-VI. Presentar ante los usuarios una imagen de pulcritud y cortesía.
+V. Cursar y acreditar satisfactoriamente las capacitaciones que se lleven a cabo por disposición de la Secretaría, y;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
+
+VI. Presentar ante los usuarios una imagen de pulcritud y cortesía, y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2021)</small>
+
+VII. Cumplir de forma puntual con los protocolos establecidos en materia de salud a causa de brotes epidémicos, o por motivos de salubridad general, incluyendo, más no limitándose, a acciones como el uso de cubrebocas, y el registro de la temperatura corporal.
 
 ###### ARTICULO 84.
 
@@ -2241,6 +2321,10 @@ Los integrantes a que refieren las fracciones I a IX, tendrán intervención en 
 
 El reglamento respectivo debe contener el procedimiento para organizar entre los integrantes de cada sector, para la emisión de las votaciones; así como también las respectivas sanciones a que se harán acreedores por la inasistencia a las reuniones del Consejo.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
+
+La Presidencia del Consejo implementará mecanismos que promuevan la participación de las mujeres en la integración del mismo.
+
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 120.
@@ -2529,9 +2613,13 @@ w) Por no respetar los itinerarios autorizados; o establecer terminal en lugar n
 
 x) Por utilizar el vehículo de servicio público para otros usos diferentes a la prestación del servicio, multa de cinco a treinta unidades de medida y actualización vigente.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
+
+y) Por incumplir con los protocolos en materia de salud a causa de brotes epidémicos o por motivos de salubridad general, incluyendo, más no limitándose, a acciones como el uso de cubrebocas, y el registro de la temperatura corporal, multa de cinco a treinta unidades de medida y actualización vigente,
+
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-y) Por la falta de cumplimiento de las demás obligaciones establecidas en los artículos 82 y 83 de la presente Ley, y 50 de su reglamento, multa de cinco a treinta unidades de medida y actualización vigente, y
+z) Por la falta de cumplimiento de las demás obligaciones establecidas en los artículos 82 y 83 de la presente Ley, y 50 de su reglamento, multa de cinco a treinta unidades de medida y actualización vigente, y
 
 II. De las sanciones al incumplimiento de las obligaciones, de los titulares de concesiones, permisos o autorizaciones:
 
@@ -2627,9 +2715,13 @@ u) Por no instalar o mantener fuera de operación los dispositivos para el contr
 
 v) Por alterar los taxímetros, sistemas de prepago y demás equipos utilizados para el cobro y aplicación de tarifas autorizadas, multa de cincuenta a cien unidades de medida y actualización vigente.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
+
+w) Por incumplir con los protocolos en materia de salud a causa de brotes epidémicos, o por motivos de salubridad general, incluyendo, más no limitándose, a acciones como la sanitización de las unidades, multa de veinte a cien unidades de medida y actualización vigente,
+
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-w) Por falta de cumplimiento de las demás obligaciones establecidas en el artículo 81 de la presente Ley, multa de cinco a cincuenta unidades de medida y actualización vigente.
+x) Por falta de cumplimiento de las demás obligaciones establecidas en el artículo 81 de la presente Ley, multa de cinco a cincuenta unidades de medida y actualización vigente.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
@@ -3153,9 +3245,9 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 24 DE JULIO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0721.- SE REFORMA EL ARTÍCULO 81 EN SU FRACCIÓN XXI, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0721.- SE REFORMA EL ARTÍCULO 81 EN SU FRACCIÓN XXI, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
@@ -3164,5 +3256,21 @@ P.O. 10 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0748.- SE REFORMA EL ARTÍCULO 17 EN SU FRACCIÓN III, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1204.- SE REFORMA LOS ARTÍCULOS 2, 3, 4, 5, 6, 12, 17, 44, Y 67 Y ADICIONA A Y (SIC) LOS ARTÍCULOS 1, 5, 12, 17, 44, 67 Y 119, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 15 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1209.- SE REFORMA (SIC) LOS ARTÍCULOS 81, EN SU FRACCIÓN XXIII, Y 83 EN SUS FRACCIONES V Y VI; Y ADICIONA A LOS ARTÍCULOS 81 UNA FRACCIÓN, 83 LA FRACCIÓN VII Y 129 EN SUS FRACCIONES I UN INCISO Y II UN INCISO, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
