@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2021-05-22"
+last_updated: "2021-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -823,9 +823,9 @@ XI. La atención y asistencia a personas víctimas de violencia;
 
 XII. La atención médica a los adultos mayores en áreas de salud geriátrica;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-XIII. El desarrollo y fortalecimiento de programas en materia de prevención y control de las enfermedades de los hombres y, específicamente, de la próstata;
+XIII. El desarrollo y fortalecimiento de programas en materia de prevención, detección oportuna, control y tratamiento de las enfermedades de los hombres con especial énfasis a la del cáncer de próstata;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -4804,3 +4804,11 @@ P.O. 22 DE MAYO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1205.- SE REFORMA EL ARTÍCULO 25 EN SU FRACCIÓN XIII, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
