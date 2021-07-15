@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2021-06-22"
+last_updated: "2021-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -336,6 +336,10 @@ Las trabajadoras embarazadas no realizarán actividades que exijan grandes esfue
 Así mismo, las trabajadoras que logren obtener la adopción de un infante, gozarán de cinco días laborables de descanso a partir de la adopción.
 
 Durante la lactancia, las madres trabajadoras dispondrán de dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos, por un período de seis meses contados a partir de la terminación de la licencia por maternidad.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
+
+En caso de que las hijas o hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta dos meses y medio posteriores al parto, previa presentación del certificado médico correspondiente.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 2020)</small>
 
@@ -2174,5 +2178,13 @@ P.O. 22 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1197.- SE REFORMA EL ARTÍCULO 105 EN SU FRACCIÓN IV; Y DEROGA DEL MISMO ARTÍCULO 105 LOS PÁRRAFOS, PENÚLTIMO Y ÚLTIMO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1206.- SE ADICIONA AL ARTÍCULO 36 EL PÁRRAFO CUARTO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
