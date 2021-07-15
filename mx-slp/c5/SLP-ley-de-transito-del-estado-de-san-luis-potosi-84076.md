@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2021-05-08"
+last_updated: "2021-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2021.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -339,7 +339,9 @@ V. Ejercer el mando directo de los agentes de tránsito, coordinando sus actuaci
 
 VI. Elaborar, por conducto de los agentes, las boletas de infracción y sanción a conductores y vehículos por las violaciones cometidas a la presente Ley y sus reglamentos;
 
-VII. Sancionar a los sujetos infractores de esta Ley, de los reglamentos municipales y de los bandos de policía y gobierno, por conducto de los agentes de tránsito municipales, o de los elementos operativos competentes que se establezcan en los reglamentos municipales;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
+
+VII. Sancionar a los sujetos infractores de esta Ley, de los reglamentos municipales y de los bandos de policía y gobierno, por conducto de los agentes de tránsito municipales;
 
 VIII. Presentar al ayuntamiento un informe trimestral de las actividades realizadas por los agentes de tránsito a su cargo, así como un inventario de los recursos humanos y materiales con que se preste el servicio, y
 
@@ -431,13 +433,17 @@ X. Llanta de refacción y herramienta indispensable para efectuar el cambio;
 
 XI. Equipo de señalización para casos de emergencia;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-XII. Sillas porta-infante, en su caso, y
+XII. Sillas porta-infante, en su caso;
 
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-XIII. Para el caso de los vehículos a que se refiere el inciso a), numerales 1 y 2, del artículo 17 de la presente Ley, éstos deberán contar con cascos de protección para sus ocupantes.
+XIII. Para el caso de los vehículos a que se refiere el inciso a), numerales 1 y 2, del artículo 17 de la presente Ley, éstos deberán contar con cascos de protección para sus ocupantes, y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2021)</small>
+
+XIV. Póliza de seguro vigente, a efecto de garantizar los daños y perjuicios que pudieren ocasionarse a terceros, en sus bienes y personas en general, por la conducción del vehículo.
 
 ## TITULO CUARTO. DE LOS REQUISITOS ADMINISTRATIVOS PARA LA CIRCULACION
 
@@ -1063,7 +1069,9 @@ I. Observar las disposiciones de esta Ley;
 
 II. Portar la licencia vigente, la tarjeta de circulación o el permiso correspondiente;
 
-III. Contar con el seguro al menos por daños a terceros;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
+
+III. Contar con póliza de seguro vigente, a efecto de garantizar los daños y perjuicios que pudieren ocasionarse a terceros, en sus bienes y personas en general, por la conducción del vehículo;
 
 IV. Revisar las condiciones mecánicas y eléctricas, así como la funcionalidad del vehículo a conducirse;
 
@@ -1233,23 +1241,25 @@ V. Cuando se encuentre estacionado en un lugar prohibido por el reglamento corre
 
 VI. En los casos en que el conductor del vehículo agreda al elemento o agente de tránsito, con motivo del levantamiento de la boleta de infracción y sanción;
 
-VII. Cuando se realicen con el vehículo actividades que se encuentran reguladas por la Ley de Transporte Público de San Luis Potosí;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+VII. Cuando con el vehículo se realicen actos u hechos considerados como infracciones por la Ley de Transporte Público de San Luis Potosí;
 
-VIII. En ningún caso los vehículos podrán transitar con permiso para circular sin placas y tarjeta de circulación, cuando las placas correspondientes al vehículo no hayan sido dadas de baja o, en su caso, entregadas a la Secretaría;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+VIII. Los vehículos no podrán transitar con permiso para circular sin placas y tarjeta de circulación, cuando las placas correspondientes al vehículo no hayan sido dadas de baja o, en su caso, entregadas a la Secretaría;
 
-IX. En los casos en que haya sido necesario el uso de grúa, el propietario estará obligado a cubrir el costo de la maniobra y arrastre realizado por la grúa, así como el monto de la pensión en donde se deposite el vehículo, mismo que se efectuará en las oficinas recaudadoras de la autoridad que haya emitido la infracción de conformidad con la ley de ingresos respectiva, por lo que queda prohibido que los prestadores de servicio de grúa y pensión realicen el cobro de manera directa al infractor, y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
+IX. En que haya sido necesario el uso de grúa, el propietario estará obligado a cubrir el costo de la maniobra y arrastre realizado por la grúa, así como el monto de la pensión en donde se deposite el vehículo, mismo que se efectuará en las oficinas recaudadoras de la autoridad que haya emitido la infracción de conformidad con la ley de ingresos respectiva, por lo que queda prohibido que los prestadores de servicio de grúa y pensión realicen el cobro de manera directa al infractor, y
 
-X. En los casos establecidos en las fracciones II, V, VII y VIII, el infractor tiene el derecho de conducir su vehículo hasta el depósito más cercano que la autoridad le indique, y sólo en caso de negativa, o de abandono de la unidad, se podrá ordenar el traslado por medio de grúa; el agente de seguridad pública con funciones de tránsito, deberá levantar razón en la boleta que emita.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2016)</small>
+X. En los casos establecidos en las fracciones, II, V, VII, y VIII, de este artículo, el infractor tiene el derecho de conducir su vehículo hasta el depósito que el mismo decida, siempre y cuando se encuentre dentro del (sic) o zona jurisdiccional correspondiente y, sólo en caso de negativa o de abandono de la unidad, se podrá ordenar el traslado por medio de grúa. El agente de seguridad pública con funciones de tránsito, deberá contar con un listado de pensiones y lotes de vehículos autorizados, y otro de grúas, mismos que deberán contener al menos nombre, dirección, teléfono, conforme a la ley de ingresos respectiva y tendrá la obligación de consultar con el infractor para poder trasladar el vehículo en la grúa seleccionada a la pensión o lote de vehículos autorizado, debiendo levantar la razón circunstanciada en la boleta que emita. Será obligatorio permitir al infractor tomar de su unidad las cosas de valor o no, que el mismo considere.
 
-En ningún caso el personal de los cuerpos de seguridad pública en funciones de tránsito podrán retener, inmovilizar o arrastrar vehículos cuando se acredite la propiedad o posesión de éstos, y se porte las placas de circulación o documentación correspondiente, aunque no se encuentren vigentes, levantando, de ser el caso, las infracciones aplicables, salvo que se encuentren en los supuestos del artículo 60 de esta Ley.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
+
+En ningún caso el personal de los cuerpos de seguridad pública en funciones de tránsito podrá retener, inmovilizar o arrastrar vehículos cuando se acredite la propiedad o posesión de éstos, y se porte las placas de circulación o documentación correspondiente, aunque no se encuentren vigentes, levantando, de ser el caso, las infracciones aplicables, salvo que se encuentren en los supuestos del artículo 60 de esta Ley.
 
 ###### ARTICULO 88.
 
@@ -1261,11 +1271,13 @@ En el reglamento de esta Ley y en los reglamentos municipales se definirá el pr
 
 ### Capítulo Unico. Del Procedimiento de Imposición de Sanciones
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 89.
 
-Las sanciones por infracciones a esta Ley, su reglamento, o reglamentos municipales correspondientes, serán impuestas por los elementos de seguridad pública, los agentes de tránsito municipal, o bien por los elementos operativos competentes, de conformidad con los conceptos y cuantías establecidas en las leyes respectivas.
+Las sanciones por infracciones a esta Ley, su reglamento, o reglamentos municipales correspondientes, serán impuestas por los elementos de seguridad pública, y los agentes de tránsito municipal, de conformidad con los conceptos y cuantías establecidas en las leyes respectivas.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
 Las sanciones referidas en el párrafo anterior, se aplicarán sin perjuicio de poner a disposición al infractor ante el Ministerio Público del fuero común o federal, cuando éste realice conductas que generen o pueden provocar la probable comisión de un delito.
 
@@ -1365,41 +1377,49 @@ En su caso, las autoridades recaudadoras correspondientes, están obligadas a pr
 
 ### Capítulo Unico
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 99.
 
-Cuando la autoridad demandada en un juicio contencioso administrativo o juicio de nulidad sea un elemento de seguridad pública del Estado, un agente de tránsito municipal, o bien un elemento operativo competente en los términos de los reglamentos municipales, y el acto impugnado sea una boleta de infracción o documento con que se justifique la personalidad a que se refieren los artículos 219 y 220 del Código Procesal Administrativo para el Estado de San Luis, será la credencial que se expida en los términos del artículo 34 de la Ley del Sistema de Seguridad Pública del Estado de San Luis Potosí, de la que deberán acompañar copia certificada por el titular de la corporación, o persona competente para certificar documentos.
+Cuando la autoridad demandada en un Juicio de Nulidad, sea un elemento de seguridad pública del Estado, o un agente de tránsito municipal, y el acto impugnado sea una boleta de infracción o documento con que se justifique la personalidad de acuerdo con el Código Procesal Administrativo para el Estado de San Luis Potosí, será la credencial que se expida en los términos del artículo 34 de la Ley del Sistema de Seguridad Pública del Estado de San Luis Potosí, de la que deberán acompañar copia certificada por el titular de la corporación, o persona competente para certificar documentos.
 
 ## TITULO DECIMO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
 
 ### Capítulo Unico
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 100.
 
-Los interesados afectados por los actos y resoluciones de las autoridades administrativas, que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán, a su elección, interponer el recurso de revisión previsto por esta Ley, o intentar el juicio de nulidad ante el Tribunal Estatal de Justicia Administrativa.
+Las personas que demuestren su interés jurídico y se consideren afectadas por los actos y resoluciones de las autoridades administrativas, que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente podrán, a su elección, interponer el recurso de revisión previsto por esta Ley, o promover el Juicio de Nulidad ante el Tribunal Estatal de Justicia Administrativa, de conformidad con el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ###### ARTICULO 101.
 
 La oposición a los actos de trámite en un procedimiento administrativo, deberá alegarse por los interesados durante dicho procedimiento, para su consideración en la resolución que ponga fin al mismo. La oposición a tales actos de trámite, se hará valer en todo caso impugnando la resolución definitiva.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 102.
 
-El plazo para interponer el recurso de revisión será de quince días, contado a partir del día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución que se recurra, o al en que el recurrente haya tenido conocimiento del acto impugnado.
+El plazo para interponer el recurso de revisión será de quince días hábiles, contados a partir del día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución que se recurra, o al en que el recurrente haya manifestado tener conocimiento del acto recurrido.
 
 ###### ARTICULO 103.
 
 El afectado podrá impugnar los actos administrativos recurribles que no hayan sido notificados, o lo hubieren sido sin apegarse a lo dispuesto en esta Ley, conforme a las siguientes reglas:
 
-I. Si el particular afirma conocer el acto administrativo materia de la notificación, la impugnación contra la misma se hará valer mediante la interposición del recurso administrativo correspondiente, en el que manifestará la fecha en que lo conoció; en caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se acumulen contra la notificación;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-II. Si el particular niega conocer el acto, manifestará tal desconocimiento, interponiendo el recurso administrativo correspondiente ante la autoridad competente para notificar dicho acto. la citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en el que se deba dar a conocer y el nombre de la persona autorizada para recibirlo, en su caso. Si no se señalare domicilio, la autoridad dará a conocer el acto mediante notificación por edictos; si no se señalare persona autorizada, se hará mediante notificación personal.
+I. Si el afectado afirma conocer el acto administrativo materia de la notificación, la impugnación contra la misma se hará valer mediante la interposición del recurso administrativo correspondiente, en el que manifestará la fecha en que lo conoció; en caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se acumulen contra la notificación;
 
-El particular tendrá un plazo de quince días a partir del día siguiente a aquél en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación, o cualquiera de ellos según sea el caso;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
-III. La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso se haya hecho del acto administrativo;
+II. Si el afectado niega conocer el acto, manifestará tal desconocimiento, interponiendo el recurso administrativo correspondiente ante la autoridad competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el afectado señalará en el escrito del propio recurso, el domicilio en el que se deba dar a conocer y el nombre de la persona autorizada para recibirlo, en su caso. Si no se señalare domicilio, la autoridad dará a conocer el acto mediante notificación por edictos; si no se señalare persona autorizada, se hará mediante notificación personal.
+
+El afectado tendrá un plazo de quince días hábiles a partir del día siguiente a aquél en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación, o cualquiera de ellos según sea el caso;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
+
+III. En la resolución del recurso administrativo, la autoridad competente estudiará los agravios expresados contra la notificación, previo al examen de la impugnación que, en su caso, se haya hecho del acto administrativo;
 
 IV. Si se resuelve que no hubo notificación o que ésta no fue efectuada conforme a lo dispuesto por la presente Ley, se tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo, o en que se le dio a conocer en los términos de la fracción II del presente artículo, quedando sin efectos todo lo actuado con base en aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto, y
 
@@ -1521,9 +1541,11 @@ Si la resolución ordena realizar un determinado acto o iniciar la reposición d
 
 No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente. La resolución expresará con claridad los actos que se modifiquen y, si la modificación es parcial, se precisará ésta.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 114.
 
-El recurrente podrá esperar la resolución expresa o impugnar en cualquier tiempo la presunta confirmación del acto impugnado.
+El recurrente podrá esperar la resolución expresa o impugnar la negativa ficta cuando la autoridad competente omita resolver el recurso de manera expresa dentro de los plazos previstos en esta Ley, y en el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ###### ARTICULO 115.
 
@@ -1848,5 +1870,13 @@ P.O. 8 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1166.- SE REFORMA EL ARTÍCULO 59 EN SU PÁRRAFO PRIMERO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1208.- SE REFORMA LOS ARTÍCULOS 15 EN SU FRACCIÓN VII, 19 EN SUS FRACCIONES XII Y XIII, 72 EN SU FRACCIÓN III, 87 EN SUS FRACCIONES VII, VIII, IX Y X Y PÁRRAFO ÚLTIMO, 89 EN SU PÁRRAFO PRIMERO, 99, 100, 102, 103 EN SUS FRACCIONES I, II, Y III Y 114; Y ADICIONA AL ARTÍCULO 19 LA FRACCIÓN XIV, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
