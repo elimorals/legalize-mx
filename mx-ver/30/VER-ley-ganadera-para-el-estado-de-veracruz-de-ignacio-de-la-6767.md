@@ -4,7 +4,7 @@ identifier: "VER-ley-ganadera-para-el-estado-de-veracruz-de-ignacio-de-la-6767"
 country: "mx"
 rank: "ley"
 publication_date: "1979-05-22"
-last_updated: "2021-03-31"
+last_updated: "2021-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY GANADERA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JULIO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el martes 22 de mayo de 1979.
 
@@ -159,7 +159,7 @@ XIII. Aplicar las medidas y acciones necesarias para mejorar el estatus sanitari
 
 XIV. Determinar el destino del ganado, los productos y subproductos que hayan sido asegurados en los términos de esta Ley;
 
-(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO, DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 XV. CREAR, MODIFICAR O SUPRIMIR LOS PUNTOS DE VERIFICACIÓN ESTATAL PREVIA SOLICITUD JUSTIFICADA DE LA SUBSECRETARÍA;
 
@@ -555,13 +555,17 @@ IV. En los establecimientos donde se beneficie, se industrialice o se vendan sus
 
 V. En los sitios requeridos para el cumplimiento de la presente Ley.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 63.
 
-La Dirección, escuchando las necesidades de los Productores, las Asociaciones Ganaderas o las Uniones Ganaderas Regionales del Estado, elaborará un dictamen de justificación el cual presentará y autorizará la Subsecretaría, la que en su caso, dividirá el territorio veracruzano en zonas de inspección ganadera; éstas tendrán como objetivo vigilar el cumplimiento legal (pago de impuestos y la comprobación de propiedad o posesión) y sanitario de la movilidad animal, así como de los productos, subproductos de los mismos y tendrán las siguientes características:
+La Dirección, escuchando las necesidades de los Productores, Asociaciones Ganaderas o Uniones Ganaderas Regionales del Estado, elaborará un dictamen de justificación el cual presentará y autorizará la Subsecretaría, la que en su caso, dividirá el territorio veracruzano en zonas de inspección ganadera, mismas que tendrán la función de verificar en el caso de las competencias del Estado, la acreditación de la legítima procedencia de las mercancías reguladas pecuarias en tránsito considerando las características y origen de las cargas y en el caso de la sanidad, la verificación de la movilidad pecuaria, se realizara previa autorización de la autoridad federal competente.
 
-Se establecerán Puntos de Verificación Estatal (PVE), mismos que tendrán como objetivo salvaguardar el cumplimiento de la presente Ley, a través de personal debidamente autorizado por la Secretaría; así como de apoyar a las autoridades competentes, en caso de que éstas, al realizar operativos de cumplimiento legal, realicen detenciones de ganado por presunción de delito de abigeato, apoye a su correcto resguardo y este se realice en corrales acordes a la zona zoosanitaria correspondiente, de conformidad a las normas sanitarias aplicables, evitando se violente el estatus zoosanitario del municipio en el que ocurra la detención.
+> <small>(REFORMADO, G.O. 15 DE JULIO DE 2021)</small>
+
+Se establecerán Puntos de Verificación Estatal (PVE), mismos que tendrán como objetivo salvaguardar el cumplimiento de la presente Ley y su Reglamento, a través de personal debidamente autorizado por la Secretaría; así como de apoyar a las autoridades competentes, en caso de que éstas, al realizar operativos de cumplimiento legal, realicen detenciones de ganado por presunción de delito de abigeato, apoye a su correcto resguardo y este se realice en corrales acordes a la zona zoosanitaria correspondiente, de conformidad a las normas sanitarias aplicables, evitando se violente el estatus zoosanitario del municipio en el que ocurra la detención.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 En el caso de las acciones para la vigilancia del cumplimiento de las medidas zoosanitarias que en materia de movilización de mercancías reguladas que establece la Ley Federal de Sanidad Animal, se solicitarán y operarán las zonas de inspección ganadera, de conformidad a la normativa que las regule y autorizadas por la autoridad competente, de acuerdo a las características y necesidades del Estado en materia de sanidad.
 
@@ -687,17 +691,17 @@ EN CASOS URGENTES, COMO EPIDEMIAS E INUNDACIONES EN LOS QUE NO DÉ TIEMPO PARA A
 
 LOS CONDUCTORES DE VEHÍCULOS DE CARGA, PASAJEROS, TURISMO O PRIVADO QUE TRANSPORTEN MERCANCÍAS REGULADAS POR LA PRESENTE LEY, DEBERÁN ASEGURARSE DE QUE EL CARGAMENTO CUENTE CON EL CERTIFICADO ZOOSANITARIO QUE AVALE LA MOVILIZACIÓN CORRESPONDIENTE.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 71.
 
-Las GEVER tendrán una vigencia de cinco días hábiles; estarán numeradas progresivamente, se expedirán por sextuplicado: un tanto para el interesado, otro para la Dirección, otro para el Municipio, uno para la Unión Ganadera Regional, uno a la asociación ganadera local correspondiente (este tanto será entregado a través de la Unión Ganadera Regional, durante los primeros cinco días del mes siguiente) y uno para la Oficina de Hacienda del Estado.
+Las GEVER tendrán una vigencia de cinco días hábiles; estarán numeradas progresivamente, la autorización de los folios será proporcionada por la Dirección a las Asociaciones Ganaderas Locales, previo convenio de autorización celebrado entre éstas y la Subsecretaría, se expedirán por quintuplicado: un tanto para el interesado, otro para la Dirección, otro para el Municipio, uno para el archivo de la Unión Ganadera Regional, uno para el archivo de la asociación ganadera local correspondiente. En el caso del gasto administrativo de las asociaciones ganaderas locales por la distribución de las GEVER a los productores del Estado, será regulado por el Comité de Origen y Trazabilidad, el cual no deberá ser excesivo, ni modificado sin la consulta de éste. En caso de no respetar dicho acuerdo, las Asociaciones Ganaderas Locales perderán la autorización de expedir las GEVER.
 
-Tal documento deberá llevar dibujados todos los fierros, marcas, tatuajes y señales que ostenten los animales que se transporten, protegidos con algún material que impida una posible alteración de los mismos, señalando con letra el total de los fierros, marcas, tatuajes, instrumentos de identificación de trazabilidad y rastreabilidad de movilidad animal autorizados por el Estado y señales.
+Tal documento deberá llevar dibujados todos los fierros, marcas, tatuajes y señales que ostenten los animales que se transporten, protegidos con algún material que impida una posible alteración de los mismos, señalando con letra el total de los fierros, marcas, tatuajes, señales e instrumentos de identificación de trazabilidad y rastreabilidad de movilidad animal regulados por la autoridad competente y operados por el Estado.
 
-La GEVER se gravará con un derecho de acuerdo con la tarifa respectiva, el precio de la GEVER se regula de manera colegiada en el Comité de Origen y Trazabilidad (COT), y el precio se establecerá por ejercicio fiscal, no deberá exceder los parámetros que rigen en los Estados circunvecinos para garantizar a los usuarios un pago justo, no gravoso por este concepto. Este cobro se realizará a través de la OVH, por el pago de este derecho no se pagará el impuesto adicional para el fomento de la educación.
+La GEVER es aplicable únicamente a los productores del Estado, tratándose de productores de tránsito nacional la verificación se realizará de acuerdo a la normatividad que les sea aplicable.
 
-Para tramitar la GEVER, las asociaciones ganaderas deberán cumplir con el requisito de domicilio establecido o el aviso oportuno de cambio del mismo, además se deberá presentar la resolución de la asamblea general ordinaria del año inmediato anterior, emitida por el Registro Nacional Agropecuario de la Secretaría de Agricultura y Desarrollo Rural, así como estar al corriente con la documentación requerida por la Dirección, por la Ley de Organizaciones Ganaderas y su Reglamento, de lo contrario, serán sancionadas restringiendo su acceso al programa electrónico que determine la autoridad para tal efecto, así como a la papelería oficial que emite la Secretaría de Desarrollo Agropecuario, Rural y Pesca para la expedición de Guías de Tránsito.
+La GEVER será gratuita y para tramitarla las asociaciones ganaderas deberán cumplir con el requisito de domicilio establecido o el aviso oportuno de cambio del mismo, además se deberá presentar la resolución de la asamblea general ordinaria del año inmediato anterior, emitida por el Registro Nacional Agropecuario de la Secretaría de Agricultura y Desarrollo Rural, así como estar al corriente con la documentación requerida por la Dirección, por la Ley de Organizaciones Ganaderas y su Reglamento, de lo contrario, serán sancionadas restringiendo su acceso al programa electrónico de la GEVER.
 
 (NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1329,18 +1333,34 @@ PRIMERO. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
-TERCERO. En un plazo no mayor a 60 días hábiles la Secretaría de Desarrollo Agropecuario, Rural y Pesca deberá de implementar la GEVER.
+> <small>(REFORMADO, G.O. 15 DE JULIO DE 2021)</small>
 
-CUARTO. En un plazo no mayor a 120 días naturales la Secretaría de Desarrollo Agropecuario, Rural y Pesca deberá adecuar su Reglamento Interior.
+TERCERO. En el caso de la GEVER, se dará un periodo de tolerancia para su implementación a la brevedad.
 
-QUINTO. A la brevedad posible se deberá incluir el cobro correspondiente de la GEVER al Código de Derechos para el Estado de Veracruz de Ignacio de la Llave, así como las adecuaciones necesarias para el cobro de las infracciones mediante OVH.
+> <small>(REFORMADO, G.O. 15 DE JULIO DE 2021)</small>
 
-SEXTO. Para la implementación del instrumento de identificación para trazabilidad y rastreabilidad de movilidad animal, la Subsecretaría deberá en un plazo no mayor de 60 días naturales, escuchando las propuestas de los productores a través del Comité de Origen y Trazabilidad (COT), determinar el instrumento que se utilizará y la transición deberá concluirse a más tardar el mes de Noviembre del presente año; es responsabilidad de la Subsecretaría a través de la Dirección, verificar el correcto uso del instrumento de identificación para trazabilidad y rastreabilidad de movilidad animal, así como establecer las medidas de control para la entrega de los mismos.
+CUARTO. El Reglamento Interior de la Secretaria de Desarrollo Agropecuario, Rural y Pesca, deberá ser adecuado una vez que se haya expedido el Reglamento de la Ley Ganadera.
+
+QUINTO. (DEROGADO, G.O. 15 DE JULIO DE 2021)
+
+SEXTO. (DEROGADO, G.O. 15 DE JULIO DE 2021)
 
 SÉPTIMO. El instrumento de identificación para trazabilidad y rastreabilidad de movilidad animal deberá ser afín al Sistema Informático de Trazabilidad de las Mercancías Agropecuarias, Acuícolas y Pesqueras (SITMA), establecido por la SADER.
 
-OCTAVO. Se sustituye el uso de arete del Sistema Nacional de Identificación Individual del Ganado (SINIIGA), por el instrumento de identificación para trazabilidad y rastreabilidad de movilidad animal autorizado por el Estado, por lo que deberá sustituirse en todas las disposiciones aplicables.
+> <small>(REFORMADO, G.O. 15 DE JULIO DE 2021)</small>
 
-NOVENO. En un plazo no mayor a 160 días hábiles, el Ejecutivo del Estado, deberá emitir el Reglamento de la presente Ley.
+OCTAVO. Derivado del cumplimiento de la NOM 001-SAG/GAN-2015 Sistema Nacional de Identificación Animal para Bovinos y Colmenas (SINIDA), expedida por el Director General de Normalización Agroalimentaria de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, que prevé el uso del arete tipo bandera, detallando sus características; el Gobierno del Estado de Veracruz, deberá solicitar a la SADER la autorización para el uso y operación del instrumento que regula la Norma 001-SAG/GAN-2015 SINIDA, por lo que los productores del Estado utilizarán el instrumento de identificación para trazabilidad y rastreabilidad de movilidad animal autorizado por la SADER al Estado, teniendo la obligación de rectoría de operación del mismo el Gobierno del Estado, por lo que se deberán realizar las consideraciones respectivas, previendo lo conducente en todas las disposiciones estatales en las que se haya considerado como requisito obligatorio cualquier situación que contravenga esta disposición.
+
+> <small>(REFORMADO, G.O. 15 DE JULIO DE 2021)</small>
+
+NOVENO. El Ejecutivo del Estado deberá expedir a la brevedad posible el Reglamento de la Ley Ganadera del Estado de Veracruz de Ignacio de la Llave.
 
 DÉCIMO. Se deroga cualquier otra disposición que se oponga al presente Decreto.
+
+G.O. 15 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 856 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY GANADERA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
