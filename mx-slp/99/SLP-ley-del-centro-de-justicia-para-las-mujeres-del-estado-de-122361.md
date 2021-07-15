@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-centro-de-justicia-para-las-mujeres-del-estado-de-12236
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2020-10-20"
+last_updated: "2021-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 3 de junio de 2017.
 
@@ -1201,6 +1201,24 @@ VI. Cuando de la denuncia presentada se infiera que la usuaria o víctima de vio
 
 La Procuraduría brindará además en los casos en que sea necesario, la realización de dictámenes médico-legista por medio de personal de sexo femenino.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE JULIO DE 2021)</small>
+
+### Capítulo XVI. Poder Judicial del Estado
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 79.
+
+El Poder Judicial del Estado integrará al Centro, cuando menos un Juzgado Familiar, el que además de las atribuciones que prevé la Ley Orgánica del Poder Judicial del Estado de San Luis Potosí, tendrá las siguientes:
+
+I. Expedir las órdenes de protección cautelares a las que alude el artículo 41 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí;
+
+II. Conocer y resolver respecto de los asuntos relativos a los alimentos; guarda y custodia; y en su caso, de conclusión, transmisión, pérdida, o suspensión de la patria potestad;
+
+III. Conocer respeto de los asuntos relativos a divorcios, y disolución de concubinatos, y
+
+IV. Las demás que le otorga la ley.
+
 ## TRANSITORIOS
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
@@ -1274,3 +1292,21 @@ P.O. 20 DE OCTUBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1207.- SE ADICIONA AL TÍTULO QUINTO EL CAPÍTULO XVI “PODER JUDICIAL DEL ESTADO”, Y EL ARTÍCULO 79, DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Poder Ejecutivo del Estado destinará los recursos necesarios para la creación del Juzgado de lo Familiar adscrito al Centro de Justicia para Mujeres, ubicado en el municipio de la Capital del Estado.
+
+CUARTO. El Poder Ejecutivo del Estado deberá asignar anualmente, a partir del ejercicio fiscal 2022, en el Presupuesto de Egresos que corresponda, los recursos necesarios para la creación de los juzgados familiares, los cuales estarán adscritos de acuerdo a los asuntos de los que conoce:
+
+1. Centro de Justicia para Mujeres ubicado en el municipio de Rioverde, S. L. P.
+
+2. Centro de Justicia para Mujeres ubicado en el municipio de Matehuala, S. L. P.
+
+3. Centro de Justicia para Mujeres ubicado en el municipio de Matlapa, S. L. P.
