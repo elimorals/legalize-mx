@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2020-05-28"
+last_updated: "2021-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -91,17 +91,21 @@ En el Estado de Durango toda persona tiene derecho a la libertad y a la segurida
 
 En consecuencia, quedan abolidas la pena de muerte, la esclavitud o servidumbre y la trata de personas en todas sus formas.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
 
 ###### Artículo 4.
 
-Se reconoce y garantiza a toda persona el derecho a la integridad física, psíquica y sexual, y a una vida libre de violencia en los ámbitos público y privado. El Estado adoptará las medidas necesarias para prevenir, eliminar y sancionar toda clase de violencia o abuso, físico, psíquico o sexual, especialmente en contra de mujeres, menores de edad, personas con discapacidad, adultos mayores y grupos o etnias indígenas.
+Se reconoce y garantiza a toda persona el derecho a la integridad física, psíquica y sexual, y a una vida libre de violencia en los ámbitos público y privado. El Estado adoptará las medidas necesarias para prevenir, eliminar y sancionar toda clase de violencia o abuso, físico, psíquico o sexual, especialmente en contra de mujeres, menores de edad, personas con discapacidad, adultos mayores, comunidades menonitas y grupos o etnias indígenas.
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2018)</small>
 
 ###### Artículo 5.
 
 Todas las personas son iguales ante la ley y gozan de los mismos derechos. En consecuencia, queda prohibido todo tipo de discriminación por origen étnico, lugar de nacimiento, género, edad, identidad cultural, condición social o de salud, religión, opiniones, preferencias políticas, orientación sexual, identidad de género, estado civil, estado de gravidez o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2021)</small>
+
+Las personas integrantes de comunidades menonitas gozan de los derechos reconocidos por esta Constitución. Tienen derecho a la protección y promoción de sus conocimientos tradicionales y su patrimonio cultural, artístico, material e inmaterial.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -211,7 +215,9 @@ III. A una defensa adecuada por abogado, al cual elegirá libremente incluso des
 
 IV. A ser informada, de forma previa, detallada y en su propio idioma, de las acciones formuladas en su contra y de la identidad de la autoridad responsable del procedimiento.
 
-V. Tratándose de miembros de comunidades indígenas se les garantizará el acceso a la jurisdicción del Estado, el respeto a sus costumbres y especificidades culturales, así como a recibir asistencia por intérpretes y defensores con conocimiento de su lengua y cultura.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
+
+V. Tratándose de miembros de comunidades indígenas o comunidades menonitas se les garantizará el acceso a la jurisdicción del Estado, el respeto a sus costumbres y especificidades culturales, así como a recibir asistencia por intérpretes y defensores con conocimiento de su lengua, usos, costumbres y cultura.
 
 VI. Trat ándose (sic) de extranjeros se les garantizará el acceso a la asistencia consular de su país.
 
@@ -277,11 +283,13 @@ Toda persona tiene derecho a remuneración igual por trabajo igual.
 
 El Estado y los municipios proveerán, en el ámbito de sus respectivas competencias, las condiciones que permitan a las personas el disfrute de los derechos contenidos en el presente capítulo.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
 
 ###### Artículo 19.
 
-Toda persona tiene derecho a la disposición de agua para consumo personal y doméstico, así como la obligación de cuidar el uso racional de este recurso y contribuir a su saneamiento. El Estado garantizará este derecho en los términos dispuestos por la ley.
+Toda persona tiene derecho al acceso, a la disposición y saneamiento de agua potable suficiente, salubre, segura, asequible, accesible y de calidad para el uso personal y doméstico de una forma adecuada a la dignidad, la vida y la salud; así como a solicitar, recibir y difundir información sobre las cuestiones del agua.
+
+El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación del Gobierno del Estado y de los municipios, así como la de la ciudadanía para la consecución de dichos fines, priorizando la cultura del agua.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -373,11 +381,11 @@ La propiedad es un derecho que debe desempeñar una función social, por lo tant
 
 La expropiación sólo podrá hacerse por causa de utilidad pública y mediante indemnización.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
 
-###### Artículo 25.
+###### ARTÍCULO 25.
 
-El Estado garantizará el derecho a la vivienda digna. Para tal efecto, deberá implementar políticas y programas de acceso a la vivienda; desarrollar planes de financiamiento para vivienda de interés social, en colaboración con el Gobierno Federal; y garantizar la dotación de servicios públicos, en coordinación con los municipios.
+El Estado garantizará el derecho a la vivienda digna y decorosa. Para tal efecto, deberá implementar políticas y programas de acceso a la vivienda; desarrollar planes de financiamiento para vivienda de interés social, en colaboración con el Gobierno Federal; y garantizar la dotación de servicios públicos, en coordinación con los municipios.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -407,7 +415,9 @@ Las personas o instituciones que presten servicios públicos deberán incorporar
 
 Toda persona tiene derecho a la cultura y a participar de la vida cultural de su comunidad. El Estado garantizará la conservación y promoción del patrimonio histórico, cultural y artístico de Durango; protegerá y promoverá la diversidad cultural existente en la entidad, y fortalecerá su identidad duranguense.
 
-El patrimonio y las expresiones culturales y artísticas de los pueblos y comunidades indígenas del Estado serán objeto de especial reconocimiento y protección.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
+
+El patrimonio y las expresiones culturales y artísticas de los pueblos y comunidades indígenas y comunidades menonitas del Estado serán objeto de especial reconocimiento y protección.
 
 Toda persona tiene derecho a la libre producción y creación artística, científica y técnica.
 
@@ -517,7 +527,9 @@ IV. Descuentos en los servicios públicos y en los trámites notariales, de acue
 
 V. A lugares adecuados en transporte público y espectáculos.
 
-VI. Acceso a programas de vivienda.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
+
+VI. Acceso a programas de vivienda y decorosa.
 
 El gobierno estatal y los municipios desarrollarán políticas para fomentar la plena integración social. La ley sancionará el abandono de las personas adultas mayores por parte de sus familiares o las instituciones establecidas para su protección.
 
@@ -579,17 +591,29 @@ El Estado garantiza la vigencia plena de los derechos de las personas que por ca
 
 El Estado tiene una composición pluricultural sustentada en sus pueblos, comunidades indígenas y etnias originarias del territorio estatal.
 
-El Estado reconoce a los pueblos y comunidades indígenas como sujetos de derecho.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
 
-Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a su autodeterminación y, en consecuencia, a la autonomía para ejercer plenamente los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales.
+El Estado reconoce a los pueblos y comunidades indígenas, así como a los integrantes de las comunidades menonitas como sujetos de derecho.
 
-Las leyes reconocerán la diversidad cultural, protegerán y promoverán el desarrollo de los pueblos indígenas existentes en el Estado de Durango, sus lenguas, tradiciones, valores culturales, recursos y formas internas de convivencia, de organización social, económica, política y cultural, así como su derecho para elegir a sus autoridades de acuerdo a sus usos y costumbres.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
 
-La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas. El derecho de los pueblos indígenas a su autodeterminación se ejercerá en un marco constitucional de autonomía que asegure la unidad duranguense.
+Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas y de toda minoría étnica a su autodeterminación y, en consecuencia, a la autonomía para ejercer plenamente los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales.
 
-El Estado y los municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
 
-Las autoridades estatales y municipales para abatir las carencias y rezagos socioeconómicos que afectan a los pueblos y comunidades indígenas impulsarán: el desarrollo regional; el crecimiento de los niveles de escolaridad; el establecimiento de espacios para la convivencia y la recreación; acceso al financiamiento para construcción y mejoramiento de vivienda; la ampliación de la cobertura de los servicios sociales básicos; el acceso a los servicios de salud; la incorporación de las mujeres indígenas al desarrollo productivo, y establecerán políticas sociales para apoyar las actividades productivas y el desarrollo sustentable.
+Las leyes reconocerán la diversidad cultural, protegerán y promoverán el desarrollo de los pueblos indígenas y minorías étnicas existentes en el Estado de Durango, sus lenguas, tradiciones, valores culturales, su participación en el quehacer educativo, recursos y formas internas de convivencia, de organización social, económica, política y cultural, así como su derecho para elegir a sus autoridades de acuerdo a sus usos, religión y costumbres.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
+
+La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas. El derecho de los pueblos indígenas y menonitas a su autodeterminación se ejercerá en un marco constitucional de autonomía que asegure la unidad duranguense.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
+
+El Estado y los municipios, para promover la igualdad de oportunidades de los indígenas y minorías étnicas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de sus derechos y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
+
+Las autoridades estatales y municipales para abatir las carencias y rezagos socioeconómicos que afectan a las minorías étnicas, los pueblos y comunidades indígenas impulsarán: el desarrollo regional; el crecimiento de los niveles de escolaridad; el establecimiento de espacios para la convivencia y la recreación; acceso al financiamiento para construcción y mejoramiento de vivienda; la ampliación de la cobertura de los servicios sociales básicos; el acceso a los servicios de salud; la incorporación de las mujeres indígenas al desarrollo productivo, y establecerán políticas sociales para apoyar las actividades productivas y el desarrollo sustentable.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE MAYO DE 2020)</small>
 
@@ -654,6 +678,10 @@ Las leyes definirán los mecanismos para el fomento y promoción de la inversió
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
 
 El Estado diseñará e implementará políticas públicas de mejora regulatoria para la simplificación de trámites, servicios y demás objetivos que establezca la Ley de la materia. Los Poderes del Estado, los órganos constitucionales autónomos y los municipios deberán ajustar sus trámites mediante un proceso continuo y sistemático de análisis, revisión y modificación de las normas jurídicas y administrativas de carácter general para hacer más eficientes y ágiles los procedimientos de los trámites que tienen que realizar los ciudadanos ante las autoridades, con el objeto de que dichas regulaciones generen beneficios superiores, el máximo bienestar para la sociedad y la consolidación de un marco normativo estatal y municipal moderno. La mejora regulatoria se sujetará a los principios señalados en la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
+
+Los Poderes del Estado, los Órganos Constitucionales Autónomos y los Municipios en sus respectivas áreas de competencia, privilegiarán el uso de sistemas, mecanismos y formatos digitales de acuerdo a la naturaleza jurídica de su función, que permitan la máxima disminución del uso de papel. La legislación correspondiente prevendrá la emisión y validación de documentos mediante firma electrónica, códigos de respuesta rápida, huella digital o aquellos avances tecnológicos y cibernéticos actuales o futuros adecuados para la recopilación de datos, integración de expedientes electrónicos y la expedición de copias en formatos digitales.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1655,9 +1683,9 @@ Asimismo, el Estado está obligado a entregar sin demora a los imputados o sente
 
 Sin perjuicio de crear fiscalías especializadas a través de la ley o por acuerdo, habrá una Fiscalía Especializada en Combate a la Corrupción, la que tendrá las atribuciones que se le señalen en las leyes aplicables. El titular de esta Fiscalía será propuesto por el Titular del Poder Ejecutivo y ratificado por el Congreso del Estado, en los términos que dispone esta Constitución.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
 
-La Fiscalía Especializada en Combate a la Corrupción, contará con autonomía técnica y operativa para investigar y perseguir los hechos que sean materia de actos de corrupción que la ley considera como delitos.
+La Fiscalía Especializada en Combate a la Corrupción, contará con autonomía técnica y operativa para investigar y perseguir los hechos que sean materia de actos de corrupción que la ley considera como delitos; su titular deberá comparecer y presentar ante el Congreso del Estado un informe anual sobre el estado que guardan los asuntos a su cargo y los resultados alcanzados en materia de combate a la corrupción, de igual forma lo hará cuando sea requerido para informar sobre asuntos a su cargo.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2677,11 +2705,13 @@ En la fecha que determine su Ley Orgánica, el Poder Judicial del Estado rendir�
 
 Una vez aprobado el informe, el Tribunal Superior de Justicia lo enviará por escrito al Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
 
 ###### Artículo 168.
 
-Cada órgano constitucional autónomo rendirá un informe anual de labores según lo dispuesto por la ley. Su titular comparecerá, ya sea ante el Pleno del Congreso del Estado o ante las comisiones legislativas para detallar su contenido, quién luego de su análisis le remitirá los posicionamientos y, en su caso, recomendaciones que se formulen.
+Cada órgano constitucional autónomo, a través de su titular, rendirá un informe anual de labores ante el Pleno del Congreso del Estado.
+
+La Ley Orgánica del Congreso determinará el procedimiento para analizar el contenido del informe, así como en su caso, remitir los posicionamientos y recomendaciones que se formulen.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2783,7 +2813,9 @@ Para la investigación, substanciación y sanción de las responsabilidades admi
 
 ###### Artículo 176.
 
-Para proceder penalmente contra los diputados, los magistrados del Poder Judicial, los consejeros del Consejo de la Judicatura, los jueces de Primera Instancia, los jueces del Tribunal para Menores Infractores, los secretarios de Despacho, el Fiscal General del Estado y los presidentes municipales, el Congreso del Estado declarará por mayoría absoluta de los integrantes de la Legislatura si ha o no lugar a proceder contra el inculpado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2021)</small>
+
+Para proceder penalmente contra el Gobernador del Estado, las y los diputados, las y los magistrados del Poder Judicial, las y los consejeros del Consejo de la Judicatura, las y los jueces de Primera Instancia, las y los jueces del Tribunal para Menores Infractores, las y los secretarios de Despacho, el o la Fiscal General del Estado y las y los presidentes municipales, el Congreso del Estado declarará por mayoría absoluta de los integrantes de la Legislatura si ha o no lugar a proceder contra el inculpado.
 
 Si la resolución del Congreso del Estado fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
@@ -2791,7 +2823,9 @@ Si el Congreso del Estado declara que ha lugar a proceder, el inculpado quedará
 
 No existe fuero ni inmunidad en los juicios del orden penal, seguidos con motivo de la comisión de delitos graves calificados por la ley, ni en los demás distintos a los del ámbito penal.
 
-El Gobernador del Estado, durante el tiempo de su encargo, solo podrá ser acusado de traición a la patria y por los delitos graves del orden común.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
+
+El Gobernador del Estado, durante el tiempo de su encargo, solo podrá ser acusado de traición a la patria, delitos por hechos y/o actos de corrupción, delitos electorales de conformidad con la legislación aplicable, por los delitos graves del orden común y todos aquellos delitos por los que podría ser enjuiciado cualquier ciudadano o ciudadana.
 
 Las sanciones penales se aplicarán de acuerdo con lo dispuesto en las leyes.
 
@@ -2805,7 +2839,9 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 Los servidores públicos del Estado y de los municipios serán responsables política, administrativa, penal y civilmente de los actos u omisiones en el ejercicio de sus funciones.
 
-El juicio político procederá contra los diputados, titulares de las secretarías del Poder Ejecutivo, de los organismos de la administración pública paraestatal; los magistrados, consejeros de la judicatura y jueces del Poder Judicial del Estado; los consejeros o comisionados de los órganos constitucionales autónomos, y los presidentes municipales, regidores, síndicos, el secretario y el tesorero de los ayuntamientos y, en su caso, concejales municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las siguientes prevenciones:
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
+
+El juicio político procederá contra el Gobernador del Estado, las y los diputados, titulares de las secretarías del Poder Ejecutivo, de los organismos de la administración pública paraestatal; las y los magistrados, consejeros de la judicatura y jueces del Poder Judicial del Estado; las y los consejeros o comisionados de los órganos constitucionales autónomos, y las y los presidentes municipales, regidores, síndicos, la o el secretario y la o el tesorero de los ayuntamientos y, en su caso, concejales municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las siguientes prevenciones:
 
 I. El juicio político sólo podrá iniciarse en el tiempo que el servidor público se encuentre en funciones y dentro de un año después. Este procedimiento no tendrá una duración mayor de seis meses.
 
@@ -4070,3 +4106,103 @@ El proceso de transición de actividades de las Juntas Locales de Conciliación 
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2021.
+
+[N. DE E TRANSITORIOS DEL “DECRETO NO. 314.- QUE CONTIENE REFORMA AL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado, en un término que no exceda de 180 días a partir de la entrada en vigor del presente decreto, deberá emitir la legislación correspondiente a fin de dar cumplimiento al presente decreto.
+
+P.O. 15 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 315.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 25, 35 EN SU FRACCIÓN VI Y 39 EN SU PÁRRAFO SÉPTIMO, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado, en un término que no exceda de 180 días a partir de la entrada en vigor del presente decreto, deberá emitir la legislación correspondiente a fin de dar cumplimiento al presente decreto.
+
+P.O. 15 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 316.- QUE CONTIENE ADICIÓN DE UN CUARTO PÁRRAFO AL ARTÍCULO 42 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado de Durango en un término no mayor a ciento ochenta días deberá expedir la normatividad que corresponda para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado a partir del ejercicio fiscal 2021, destinará recursos para la implementación paulatina del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 317.- QUE CONTIENE REFORMAS AL ARTÍCULO 102 EN SU QUINTO PÁRRAFO Y AL ARTÍCULO 168 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado, en un término que no exceda de 180 días a partir de la entrada en vigor del presente decreto, deberá emitir la legislación correspondiente a fin de dar cumplimiento al presente decreto.
+
+P.O. 15 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 482.- QUE CONTIENE REFORMA AL PRIMERO Y QUINTO PÁRRAFO DEL ARTÍCULO 176 Y SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 177 DE LA CONSTITUCIÓN POÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado, en un término que no exceda de 90 días a partir de la entrada en vigor del presente decreto, deberá emitir la legislación correspondiente a fin de dar cumplimiento al presente decreto.
+
+P.O. 15 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 483.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 4, 5, 14, 28 Y 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado, en un término que no exceda de 90 días a partir de la entrada en vigor del presente decreto, deberá emitir la legislación correspondiente a fin de dar cumplimiento al presente decreto.
