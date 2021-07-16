@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-fomento-a-las-actividades-realizadas-por-las-80475"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-22"
-last_updated: "2015-10-30"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Número Extraordinario al Periódico Oficial del Estado de Quintana Roo, el martes 22 de marzo de 2011.
 
@@ -109,7 +109,9 @@ Para efectos de esta ley se entenderá por:
 
 a) Ley: La Ley de Fomento a las Actividades Realizadas por las Organizaciones Civiles para el Estado de Quintana Roo.
 
-b) Secretaría: La Secretaría de Desarrollo Social e Indígena.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+b) Secretaría: La Secretaría de Desarrollo Social,
 
 c) Dependencias: Unidades de la Administración Pública estatal y municipal.
 
@@ -271,33 +273,57 @@ V. Proporcionar a la autoridad que otorgue los recursos y fondos públicos a que
 
 ### CAPÍTULO CUARTO. DE LOS ÓRGANOS ENCARGADOS DEL FORTALECIMIENTO DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 13.
 
-Se crea el Consejo para el Fortalecimiento de las Organizaciones de la Sociedad Civil que será presidido por el Secretario de Desarrollo Social e Indígena; el cual será el órgano honorífico encargado de fomentar e impulsar las actividades de las organizaciones de la sociedad civil, brindando asesoría técnica para la elaboración de los planes, proyectos y programas de apoyo integral en una correcta aplicación de los recursos públicos que se destinen para este fin.
+Se crea el Consejo para el Fortalecimiento de las Organizaciones de la Sociedad Civil que será presidido por el Secretario de Desarrollo Social; el cual será el órgano honorífico encargado de fomentar e impulsar las actividades de las organizaciones de la sociedad civil, brindando asesoría técnica para la elaboración de los planes, proyectos y programas de apoyo integral en una correcta aplicación de los recursos públicos que se destinen para este fin.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 El Consejo tendrá las siguientes atribuciones:
 
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 I. Realizar evaluaciones a los programas o proyectos que sean establecidos dentro del ámbito de competencia de la presente Ley, a efecto de presentar las observaciones que corresponda al Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 II. Establecer un seguimiento a los programas que se implementen en las organizaciones de la sociedad civil para dar cumplimiento al objeto de esta Ley;
 
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 III. Impulsar la participación ciudadana y de las organizaciones en el seguimiento, operación y evaluación de las políticas de la Administración Pública Estatal y de los Municipios;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 IV. Promover el diálogo continuo entre los sectores público, social y privado para mejorar las políticas públicas relacionadas con las actividades señaladas en esta Ley y demás leyes aplicables;
 
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 V. Asesorar a las instancias de los tres poderes del Estado y sus municipios, en la realización de los planes y programas que se implementen para el desarrollo del fomento y de la participación conforme lo establece esta Ley;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 VI. Proponer modificaciones, ante las autoridades competentes, a las disposiciones legales aplicables en la materia;
 
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 VII. Elaborar y expedir su reglamento interno;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 VIII. Integrar las comisiones y grupos de trabajo que sean necesarios para el ejercicio de sus funciones;
 
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 IX. Extender reconocimientos a las organizaciones de la sociedad civil que se hayan distinguido por el cumplimiento permanentemente de los objetivos a que se refiere esta Ley;
 
-X. En coordinación con las dependencias y entidades, elaborará y publicará un informe anual de las acciones, apoyos y estímulos otorgados a favor de las organizaciones de la sociedad civil que se acojan a esta Ley, el cual será publicado en la página oficial de internet de la Secretaria de Desarrollo Social e Indígena del Estado, y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+X. En coordinación con las dependencias y entidades, elaborará y publicará un informe anual de las acciones, apoyos y estímulos otorgados a favor de las organizaciones de la sociedad civil que se acojan a esta Ley, el cual será publicado en la página oficial de internet de la Secretaría de Desarrollo Social, y
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 XI. Las demás que le otorguen la presente Ley y su reglamento.
 
@@ -307,7 +333,9 @@ XI. Las demás que le otorguen la presente Ley y su reglamento.
 
 El Consejo se integrará de la siguiente manera:
 
-I. El Titular de la Secretaría de Desarrollo Social e Indígena, quien lo presidirá;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+I. El Titular de la Secretaría de Desarrollo Social, quien lo presidirá;
 
 II. Una Secretaría Técnica, cuyo titular será designado por la presidencia;
 
@@ -413,7 +441,9 @@ III. Las donaciones hechas a su favor por terceros, y
 
 IV. Las demás aportaciones destinadas para el Fomento a las Actividades Realizadas por las organizaciones de la sociedad civil.
 
-Dicho fondo estará a cargo de la Secretaria de Desarrollo Social e Indígena. Mismo que tiene por objeto el fomento a las actividades realizadas por las organizaciones de la sociedad civil.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+Dicho fondo estará a cargo de la Secretaría de Desarrollo Social. Mismo que tiene por objeto el fomento a las actividades realizadas por las organizaciones de la sociedad civil.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -467,7 +497,9 @@ II. Que se contraten, con recursos públicos, a personas con nexos de parentesco
 
 El Ejecutivo del Estado incentivará en los jóvenes la constitución de organizaciones de la sociedad civil.
 
-La Secretaria de Desarrollo Social e Indígena proporcionará las capacitaciones necesarias para la creación y fortalecimiento de asociaciones de las organizaciones de la sociedad civil de jóvenes.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+La Secretaría de Desarrollo Social proporcionará las capacitaciones necesarias para la creación y fortalecimiento de asociaciones de las organizaciones de la sociedad civil de jóvenes.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -479,21 +511,29 @@ El Ejecutivo promoverá la celebración de convenios para la obtención de descu
 
 ### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 27.
 
-El Ejecutivo Estatal, a través de la Secretaría de Desarrollo Social e Indígena, impondrá a las organizaciones civiles registradas las sanciones siguientes:
+El Ejecutivo Estatal, a través de la Secretaría de Desarrollo Social, impondrá a las organizaciones civiles registradas las sanciones siguientes:
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 I. Apercibimiento, en el caso de que incurran por primera vez en el incumplimiento de las obligaciones que establecen las fracciones I y II del artículo 12 de esta Ley, para que en un plazo no menor de treinta días hábiles contados a partir de la notificación respectiva, subsane la irregularidad;
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 II. Suspensión por un año de los derechos estipulados en esta Ley, si en un período de cinco años incumplen, por segunda vez, las obligaciones que les establecen las fracciones I y II del artículo 12 de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 III. Cancelación definitiva de la inscripción en el Registro, en caso de:
 
 a) El incumplimiento de las obligaciones a que se refieren las fracciones III, IV y V del artículo 12 de esta ley, y
 
 b) El incumplimiento de las demás obligaciones a que se refieren las fracciones I y II del artículo 12 de esta ley por más de dos ocasiones en un periodo de cinco años.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 Las sanciones a que se refiere este artículo, se aplicarán conforme a lo dispuesto por el Reglamento de la presente Ley y sin perjuicio de las de carácter civil o penal que procedan en su caso.
 
@@ -548,3 +588,39 @@ SEGUNDO. El Consejo para el Fortalecimiento de las organizaciones de la sociedad
 TERCERO. Una vez instalado el Consejo para el Fortalecimiento de las organizaciones de la sociedad civil, éste tendrá como término treinta días hábiles para emitir la convocatoria dirigida a las organizaciones de la sociedad civil en el Estado para que integren el consejo mismo procedimiento de selección que deberá concluirse dentro del plazo de sesenta días hábiles contados a partir de la emisión de la convocatoria respectiva.
 
 CUARTO. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
