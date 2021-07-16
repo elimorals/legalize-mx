@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-adquisiciones-arrendamientos-y-prestacion-de-11023"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-15"
-last_updated: "2018-05-28"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el 15 de Febrero de 1995.
 
@@ -55,25 +55,25 @@ II - Los actos y contratos que realicen las dependencias y entidades, relacionad
 
 Para los efectos de esta ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-I.- Secretaría: La Secretaría de Hacienda.
+I.- Secretaría: La Secretaría de Finanzas y Planeación.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
-
-II.- Oficialía Mayor: La Secretaría de Administración y/o las correspondientes de los otros poderes en su caso;
+II.- (DEROGADA, P.O. 16 DE JULIO DE 2021)
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
 
 III.- Organo de Control: La Unidad de Programas Coordinados Federación - Estado.
 
-IV - DEPENDENCIAS: Las Unidades del Ejecutivo, las Secretarias del Despacho y Departamentos Administrativos de los otros dos poderes, y la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-V - ENTIDADES: Los organismos descentralizados, las empresas de participación estatal mayoritaria, y los fideicomisos en los que el fideicomitente sea el Gobierno del Estado y órganos desconcentrados;
+IV.- DEPENDENCIAS: Las Unidades del Ejecutivo, las Secretarias del Despacho y Departamentos Administrativos de los otros dos poderes, y la Fiscalía General del Estado;
 
-VI - SECTOR: El agrupamiento de entidades, coordinado por la dependencia que en su caso designe el Ejecutivo, y
+V.- ENTIDADES: Los organismos descentralizados, las empresas de participación estatal mayoritaria, y los fideicomisos en los que el fideicomitente sea el Gobierno del Estado y órganos desconcentrados;
 
-VII - DEPENDENCIAS COORDINADORAS DEL SECTOR: Las dependencias a que se refiere la fracción anterior.
+VI.- SECTOR: El agrupamiento de entidades, coordinado por la dependencia que en su caso designe el Ejecutivo, y
+
+VII.- DEPENDENCIAS COORDINADORAS DEL SECTOR: Las dependencias a que se refiere la fracción anterior.
 
 En todos los casos en que esta ley haga referencia a las adquisiciones, arrendamientos y servicios, salvo mención expresa, se entenderá que se trata respectivamente, de adquisiciones de bienes muebles, arrendamientos de bienes muebles, y de prestación de servicios relacionados con dichos bienes.
 
@@ -91,11 +91,11 @@ En casos excepcionales y previa autorización de la Secretaría, las dependencia
 
 Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones que resulten aplicables.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 5.
 
-La Secretaría, la Oficialía Mayor y el Organo de Control, como entidades normativas, en el ámbito de sus respectivas competencias, quedan facultadas para interpretar esta Ley en efectos administrativos, así como para dictar las disposiciones administrativas que requiera la adecuada aplicación de esta misma ley y sus disposiciones reglamentarias, tomando en cuenta la opinión de las restantes, cuando corresponda por razón de sus atribuciones. Lo anterior sin perjuicio de las atribuciones que conforme a su propia Ley Orgánica y otras disposiciones aplicables, le corresponden a la Contaduría Mayor de Hacienda del Poder Legislativo, para intervenir en todos los aspectos que regula la presente ley, cuando estime necesario el ejercicio de sus facultades.
+La Secretaría y el Órgano de Control, como entidades normativas, en el ámbito de sus respectivas competencias, quedan facultadas para interpretar esta Ley en efectos administrativos, así como para dictar las disposiciones administrativas que requiera la adecuada aplicación de esta misma ley y sus disposiciones reglamentarias, tomando en cuenta la opinión de las restantes, cuando corresponda por razón de sus atribuciones. Lo anterior sin perjuicio de las atribuciones que conforme a su propia Ley Orgánica y otras disposiciones aplicables, le corresponden a la Auditoría Superior del Estado, para intervenir en todos los aspectos que regula la presente ley, cuando estime necesario el ejercicio de sus facultades.
 
 ###### ARTICULO 6.
 
@@ -123,15 +123,15 @@ Sin perjuicio de la observancia de las disposiciones legales que les resulten ap
 
 Las adquisiciones de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, necesarios para la realización de las obras públicas por administración directa, o los que suministren las dependencias y entidades, de acuerdo a lo pactado en los contratos de obra, deberán realizarse conforme a los establecidos (sic) en esta ley y en las normas que de ella deriven.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 11.
 
-La Secretaría, la Oficialía Mayor y el Organo de Control podrán contratar con apego a esta ley asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de adquisiciones, arrendamientos y servicios, la verificación de precios, pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley.
+La Secretaría y el Órgano de Control podrán contratar con apego a esta ley asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de adquisiciones, arrendamientos y servicios, la verificación de precios, pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-ARTICULO 11 BIS.- Todas las dependencias y entidades mencionadas en el Artículo 2o de esta ley, solo podrán celebrar pedidos o contratos de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles del Estado de Quintana Roo, con las personas físicas y morales que se encuentren inscritas o se inscriban en el padrón de proveedores del Estado con registro vigente. El padrón lo tendrá a su cargo la Oficialía Mayor y en el mismo podrán inscribirse las personas físicas y morales que satisfagan los requisitos previstos en el Reglamento que para tal efecto se expida.
+ARTICULO 11 BIS.- Todas las dependencias y entidades mencionadas en el Artículo 2° de esta ley, solo podrán celebrar pedidos o contratos de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles del Estado de Quintana Roo, con las personas físicas y morales que se encuentren inscritas o se inscriban en el padrón de proveedores del Estado con registro vigente.
 
 ## TITULO SEGUNDO. DE LAS ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
 
@@ -195,13 +195,23 @@ VI.- Elaborar y aprobar el manual de integración y funcionamiento del comité, 
 
 VII.- Coadyuvar al cumplimiento de esta ley y demás disposiciones aplicables.
 
-La Secretaría y la Oficialía Mayor, podrán autorizar la creación de comités en órganos desconcentrados, cuando las características de sus funciones así lo justifiquen.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-Los órganos de Gobierno de las entidades deberán establecer dichos comités, salvo que por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifique su instalación a juicio de la Secretaría y de la Oficialía Mayor.
+La Secretaría podrá autorizar la creación de comités en órganos desconcentrados, cuando las características de sus funciones así lo justifiquen.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+Los órganos de Gobierno de las entidades deberán establecer dichos comités, salvo que por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifique su instalación a juicio de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2021)</small>
+
+El padrón lo tendrá a su cargo la Secretaría y en el mismo podrán inscribirse las personas físicas y morales que satisfagan los requisitos previstos en el Reglamento que para tal efecto se expida.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 16.
 
-El Ejecutivo estatal, por conducto de la Secretaría y de la Oficialía Mayor autorizará los casos en que deba relevarse la obligación de los comités que prevé el Artículo 15, en aquellas entidades que por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifiquen.
+El Ejecutivo estatal, por conducto de la Secretaría autorizará los casos en que deba relevarse la obligación de los comités que prevé el Artículo 15, en aquellas entidades que por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifiquen.
 
 ###### ARTICULO 17.
 
@@ -209,9 +219,11 @@ Las dependencias y entidades estarán obligadas a mantener asegurados los bienes
 
 Para los efectos del párrafo anterior, las dependencias y entidades en los contratos respectivos, pactarán el suministro oportuno por parte del proveedor, de las piezas, repuestos, refacciones y en general de los elementos necesarios para mantener en operación permanente los bienes adquiridos o arrendados.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 18.
 
-La Secretaría, oyendo la opinión de la Oficialía Mayor, mediante disposición de carácter general podrá determinar los bienes y servicios de uso generalizado cuya adquisición o contratación en forma consolidada llevará a cabo la Oficialía Mayor, y cuales realizarán directamente las dependencias y entidades, con objeto de ejercer el poder de compra del sector público, apoyar las áreas prioritarias del desarrollo y obtener las mejores condiciones en cuanto a precio y oportunidad.
+La Secretaría, mediante disposición de carácter general podrá determinar los bienes y servicios de uso generalizado cuya adquisición o contratación en forma consolidada llevará a cabo y cuales realizarán directamente las dependencias y entidades, con objeto de ejercer el poder de compra del sector público, apoyar las áreas prioritarias del desarrollo y obtener las mejores condiciones en cuanto a precio y oportunidad.
 
 ### CAPITULO II. DE LOS PEDIDOS Y CONTRATOS
 
@@ -365,11 +377,11 @@ IV.- En el mismo acto de fallo o adjunta a la comunicación referida en la fracc
 
 V.- La dependencia o entidad levantará acta del acto de presentación y/o apertura de proposiciones, en la que se hará constar las propuestas aceptadas con sus importes, así como las que hubieren desechadas y las causas que lo motivaron; el acta firmada por los participantes y se les entregará copia de la misma.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 26.
 
-EI Organo de Control y la Oficialía Mayor, quedan facultadas para expedir los criterios generales que orienten a las dependencias y entidades, a fin de obtener las mejores condiciones en cuanto a precios o importes de los bienes y servicios relativos a las operaciones que regulen esta Ley.
+El Órgano de Control y la Secretaría, quedan facultadas para expedir los criterios generales que orienten a las dependencias y entidades, a fin de obtener las mejores condiciones en cuanto a precios o importes de los bienes y servicios relativos a las operaciones que regule esta Ley.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
 
@@ -399,9 +411,9 @@ Cuando las dependencias y entidades celebren contratos en los casos señalados e
 
 Las garantías a que se refiere el artículo anterior, se constituirán por el proveedor en favor de:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-I.- La Secretaría de Hacienda, por actos o contratos que celebren con las dependencias a que se refieren las fracciones II y V del artículo 2, de esta Ley;
+I.- La Secretaría por actos o contratos que celebren con las dependencias a que se refieren las fracciones II y V del artículo 2, de esta Ley;
 
 II.- Las entidades, cuando los actos o contratos se celebren con ellas; y la Tesorería de la Federación, en los casos a que se refiere el Artículo 7 de esta ley.
 
@@ -615,17 +627,17 @@ Asimismo, podrán darse por terminados los actos mencionados, cuando concurran r
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 46.
 
-Las dependencias y entidades deberán remitir al Organo de Control y a la Secretaría en la forma y términos que esta Ley señale, la información relativa a los pedidos y contratos que regula este propio ordenamiento.
+Las dependencias y entidades deberán remitir al Órgano de Control y a la Secretaría en la forma y términos que esta Ley señale, la información relativa a los pedidos y contratos que regula este propio ordenamiento.
 
 Para efecto del párrafo anterior, las dependencias y entidades conservarán en forma ordenada y sistemática, la documentación que justifique y compruebe la realización de las operaciones reguladas por esta ley, por un término no menor de cinco años contados a partir de la fecha en que se hubiesen recibido los bienes o prestado el servicio.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-En el caso de las facturas que amparen bienes de consumo duraderos incluyendo vehículos automotores, se deberán remitir las originales a la Secretaría y copia a la Oficialía Mayor, para su registro y control de los inventarios generales de bienes del Gobierno del Estado. En los casos de los Poderes Judiciales y Legislativo remitirán la documentación a sus correspondientes oficialías.
+En el caso de las facturas que amparen bienes de consumo duraderos incluyendo vehículos automotores, se deberán remitir las originales a la Secretaría, para su registro y control de los inventarios generales de bienes del Gobierno del Estado. En los casos de los Poderes Judiciales y Legislativo remitirán la documentación a sus correspondientes órganos administrativos.
 
 ###### ARTICULO 47.
 
@@ -836,3 +848,39 @@ P.O. 28 DE MAYO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
