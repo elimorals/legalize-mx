@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-obras-publicas-y-servicios-relacionados-con-las-78219"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-10"
-last_updated: "2016-02-29"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,311 +21,519 @@ state: "ROO"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO
 
-LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO
+REGLAMENTO INTERIOR DEL HOSPITAL DE ALTA ESPECIALIDAD DE SALUD MENTAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
+TEXTO ORIGINAL.
 
-Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 10 de diciembre de 2010.
+Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 4 de agosto de 2012.
 
-DECRETO NÚMERO: 376
+QUÍM. ANDRÉS GRANIER MELO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EL EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 51 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO, Y 7 FRACCIÓN I DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO; Y
 
-POR EL QUE SE EXPIDE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO.
+CONSIDERANDO.
 
-LA HONORABLE XII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANODE (SIC) QUINTANA ROO,
+Por lo que he tenido a bien expedir el siguiente:
 
-D E C R E T A:
+REGLAMENTO INTERIOR DEL HOSPITAL REGIONAL DE ALTA ESPECIALIDAD DE SALUD MENTAL
 
-ÚNICO.- SE EXPIDE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO, para quedar como sigue:
+## TÍTULO I
 
-LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO.
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+###### Artículo 1.
 
-### CAPÍTULO ÚNICO
+El presente Reglamento tiene por objeto determinar y regular la estructura orgánica del Hospital Regional de Alta Especialidad de Salud Mental, en lo relativo a sus atribuciones, obligaciones, organización, funcionamiento y administración.
 
-###### ARTÍCULO 1.
+###### Artículo 2.
 
-La presente ley es de orden público y tiene por objeto regular las acciones relativas a la planeación, programación, presupuestación, contratación, gasto, ejecución y control de las obras públicas, así como de los servicios relacionados con las mismas, que realicen:
+El Hospital Regional de Alta Especialidad de Salud Mental, es un Órgano Administrativo Desconcentrado de la Secretaria de Salud, y su representación corresponde al Director; quien tiene a su cargo el despacho de los asuntos que le encomiende la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, la Ley de Salud del Estado de Tabasco, así como los reglamentos, decretos, acuerdos y ordenes del Ejecutivo del Estado; además de las demás disposiciones legales aplicables.
 
-I.- El Gobierno del Estado, a través de sus dependencias;
+###### Artículo 3.
 
-II.- Los Ayuntamientos;
+Para los efectos del presente Reglamento, en lo sucesivo se entenderá por:
 
-III.- Los organismos descentralizados del Gobierno del Estado;
+Hospital: El Hospital Regional de Alta Especialidad de Salud Mental;
 
-IV.- Las empresas de participación estatal mayoritaria; y
+Dirección: La Dirección del Hospital Regional de Alta Especialidad de
 
-V.- Los fideicomisos en los que el fideicomitente sea el Gobierno del Estado, los Ayuntamientos o cualquiera de las entidades mencionadas en las fracciones tercera y cuarta.
+Salud Mental;
 
-Las personas de derecho público de carácter estatal con autonomía derivada de la Constitución estatal, aplicarán los criterios y procedimientos previstos en esta ley, en lo que no se contraponga a los ordenamientos legales que los rigen, sujetándose a sus propios órganos de control.
+Director: El Director del Hospital Regional de Alta Especialidad de Salud Mental;
 
-Los actos jurídicos que se celebren entre alguna dependencia o entidad de la administración estatal con alguna perteneciente a la administración pública federal o de otra entidad federativa, no estarán dentro del ámbito de aplicación de esta ley.
+Secretaría: La Secretaría de Salud del Estado de Tabasco;
 
-Cuando la dependencia, entidad o ayuntamiento, obligada a realizar los trabajos no tenga la capacidad para hacerlo por sí misma y contrate a un tercero para llevarlos a cabo, este acto quedará sujeto a este ordenamiento.
+Secretario: El Secretario de Salud del Estado del Estado (sic) de Tabasco;
 
-No estarán sujetas a las disposiciones de esta ley, las obras que deban ejecutarse para crear la infraestructura necesaria en la prestación de servicios públicos que los particulares tengan concesionados, en los términos de la legislación aplicable, cuando éstas los lleven a cabo.
+Sector Salud: El conjunto de instituciones de Salud que participan en los objetivos relacionados con la Secretaría de Salud; y
 
-Los titulares de las dependencias, ayuntamientos y los órganos de gobierno de las entidades emitirán, bajo su responsabilidad y de conformidad con este mismo ordenamiento y los lineamientos generales que al efecto emita el Órgano de Control del Gobierno del Estado, las políticas, bases y lineamientos (POBALINES) para las materias a que se refiere este ordenamiento.
+Usuario: Toda aquella persona que requiera y obtenga servicios de atención médico-psiquiátrica.
 
-Las dependencias estatales se abstendrán de crear fideicomisos, otorgar mandatos o celebrar actos o cualquier tipo de contratos, que evadan lo previsto en este ordenamiento.
+###### Artículo 4.
 
-###### ARTÍCULO 2.
+Para ser nombrado Director, se requiere cumplir con los siguientes requisitos:
 
-Para los efectos de esta Ley, se entenderá por:
+l. Ser ciudadano, mexicano en pleno ejercicio de sus derechos;
 
-I.- Secretaría: La Secretaría de Planeación y Desarrollo Regional;
+II. Tener 25 años de edad como mínimo en la fecha de su designación;
 
-II.- Dependencias: Las mencionadas en la fracción I del artículo 1 de esta ley, que de conformidad con la ley orgánica de la Administración Pública Estatal se encuentren facultadas para realizar obras públicas y servicios relacionados con las mismas;
+III. No ser ministro de algún culto religioso;
 
-III.- Entidades: Las mencionadas en las fracciones de la III a la V del artículo 1;
+IV. No haber sido condenado por delito doloso que merezca pena corporal; y
 
-IV.- Sector: El agrupamiento de entidades del Ejecutivo Estatal, coordinado por la dependencia que en cada caso designe el titular del Ejecutivo;
+V. Contar preferentemente, con Maestría o Doctorado, relativo al ejercicio de las atribuciones que le competen.
 
-V.- Órgano Superior: Órgano Superior de Fiscalización del Estado de Quintana Roo;
+###### Artículo 5.
 
-VI.- Ayuntamientos: Los existentes en el territorio del Estado;
+Para ser nombrado Titular de Unidad, se requiere cumplir con los siguientes requisitos:
 
-VII.- El Órgano de Control: tratándose de:
+l. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-a. El Gobierno del Estado: la Secretaría de la Contraloría del Estado.
+II. Tener 25 años de edad como mínimo en la fecha de su designación;
 
-b. Los Ayuntamientos: la Contraloría Municipal.
+III. No ser ministro de algún culto religioso;
 
-c. El Poder Legislativo: la Oficialía Mayor por parte de la Dirección de Auditoría
+IV. No haber sido condenado por delito doloso que merezca pena corporal; y
 
-Interna.
+V. Contar preferentemente, con Licenciatura o Maestría relativo al ejercicio de las atribuciones que le competen.
 
-d. El Poder Judicial: la Contraloría del Poder Judicial;
+###### Artículo 6.
 
-VIII.- Licitante: la persona que se inscribe para participar en un procedimiento de licitación pública;
+Para ser nombrado Jefe de Área o Similar, se requiere cumplir con los siguientes requisitos:
 
-IX.- Contratista: La persona física o moral que celebre contrato de obra pública o de servicios relacionados con la misma;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-X.- Instancia convocante: Dependencia, entidad o ayuntamiento, que en uso de sus facultades para realizar obras públicas y servicios relacionados con las mismas, emite convocatoria para la contratación de obras públicas o servicios relacionados con las mismas;
+II. Tener 25 años de edad como mínimo en la fecha de su designación;
 
-XI.- Compranetqroo: Sistema Electrónico de Contrataciones del Estado de Quintana Roo.
+III. No ser ministro de algún culto religioso;
 
-###### ARTÍCULO 3.
+IV. No haber sido condenado por delito doloso que merezca pena corporal; y
 
-Para los efectos de esta ley, se considera obra pública, todo trabajo encaminado construir (sic), instalar, ampliar, adecuar, remodelar, restaurar, conservar, mantener, modificar y demoler bienes inmuebles incluidos los bienes muebles adheridos a los mismos, que por su naturaleza o por disposición de ley, estén destinados al servicio público, al uso común o de interés social.
+V. Contar con estudios mínimos de Licenciatura relativo al ejercicio de las atribuciones que le competen en éste Hospital.
 
-Asimismo, quedan comprendidos dentro de las obras públicas los siguientes conceptos:
+###### Artículo 7.
 
-I.- La instalación, montaje, colocación o aplicación, incluyendo las pruebas de operación de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, siempre y cuando dichos bienes sean proporcionados por la convocante al contratista; o bien, cuando incluyan la adquisición y su precio sea menor al de los trabajos que se contraten;
+Para el ejercicio de las atribuciones y despacho de los asuntos de su competencia, el Hospital contará con la siguiente estructura orgánica:
 
-II.- Los proyectos integrales o llave en mano, en los cuales el contratista se obliga desde el diseño de la obra hasta su terminación total, incluyéndose, cuando se requiera, la transferencia de tecnología; que comprenden desde el diseño de la obra hasta su terminación total;
+1. Dirección
 
-III.- Los trabajos de exploración, geotecnia, localización, perforación, mejoramiento del suelo y subsuelo; desmontes; extracción y aquellos similares, que tengan por objeto la explotación y desarrollo de los recursos naturales que se encuentren en el suelo o en el subsuelo;
+1.1. Unidad de Enseñanza e Investigación.
 
-IV.- Los de trabajos de infraestructura agropecuaria; y
+1.2. Unidad de Asuntos Jurídicos.
 
-V.- Todos aquellos de naturaleza análoga.
+1.3. Unidad de Planeación.
 
-###### ARTÍCULO 4.
+1.4. Unidad de Seguimiento.
 
-Para los efectos de esta Ley, se consideran servicios relacionados con las obras públicas, los trabajos que tengan por objeto concebir, evaluar, diseñar, presupuestar, planear, dirigir, supervisar y controlar una obra pública; así como las investigaciones, estudios, asesorías y consultorías que se vinculen con las acciones que regula esta Ley.
+1.5. Unidad de Relaciones Públicas.
 
-Asimismo, quedan comprendidos dentro de los servicios relacionados con las obras públicas los siguientes conceptos:
+1.6. Unidad de Innovación y Calidad.
 
-I.- Los estudios que tengan por objeto rehabilitar, corregir, sustituir o incrementar la eficiencia de las instalaciones en un bien inmueble;
+1.7. Enlace de la Unidad de Acceso a la Información.
 
-II.- Los estudios económicos y de planeación de pre inversión, factibilidad técnico económica, ecológica o social, legal, de evaluación, adaptación, tenencia de la tierra, financieros, de desarrollo y restitución de la eficiencia de las instalaciones;
+1.8. Unidad Médica.
 
-III.- Los estudios técnicos de agrología y desarrollo pecuario, hidrología, mecánica de suelos, sismología, topografía, geología, geodesia, geotecnia, geofísica, geotermia, oceanografía, meteorología, aerofotogrametría, ambientales, ecológicos y de ingeniería de tránsito;
+1.9. Unidad de Administración.
 
-IV.- Los estudios de apoyo tecnológico, incluyendo los de desarrollo y transferencia de tecnología entre otros;
+###### Artículo 8.
 
-V.- La planeación y el diseño, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de ingeniería básica, estructural, de instalaciones, de infraestructura, industrial, electromecánica y de cualquier otra especialidad de la ingeniería que se requiera para integrar un proyecto ejecutivo de obra pública;
+El Hospital a través de sus unidades administrativas, conducirá sus actividades en forma programada y con base en las políticas que para el logro de los objetivos y prioridades del Sistema Estatal de Salud y de los Programas a cargo del Hospital, fije y establezca el Secretario y los Ejecutivos Federal y Estatal.
 
-VI.- La planeación y el diseño, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto urbano, arquitectónico, de diseño gráfico o artístico y de cualquier otra especialidad del diseño, la arquitectura y el urbanismo, que se requiera para integrar un proyecto ejecutivo de obra pública;
+###### Artículo 9.
 
-VII.- Los trabajos de preparación de especificaciones de construcción, presupuestación, programación o la elaboración de cualquier otro documento o trabajo para la adjudicación del contrato de obra correspondiente;
+El Hospital dentro del ámbito de su competencia, tendrá las siguientes atribuciones:
 
-VIII.- Los trabajos de coordinación, dirección o supervisión y control de obra; de laboratorio de análisis y control de calidad; de laboratorio de geotecnia, de resistencia de materiales y radiografías industriales;
+I. Desarrollar actividades educativas, socioculturales y recreativas que contribuyan a la salud mental de la infancia, de la juventud y del adulto mayor;
 
-IX.- Los trabajos de organización, informática, comunicaciones, cibernética y sistemas aplicados a las materias que regula esta ley;
+II. Difundir las orientaciones necesarias para la promoción de la salud mental;
 
-X.- Los dictámenes, peritajes, avalúos y auditorias técnico normativas, y estudios aplicables a las materias que regula esta ley; y
+III. Atender a personas con padecimientos mentales, incluyendo la rehabilitación·psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas;
 
-XI.- Todos aquéllos de naturaleza análoga.
+IV. Mantener internadas a personas con padecimientos mentales, cumpliendo con los requisitos científicos y legales aplicables, ajustándose a los principios éticos y sociales, respetando la dignidad del Usuario y propiciando su reintegración a la vida social;
 
-###### ARTÍCULO 5.
+V. Crear comités institucionales de prevención de mortandad por suicidio o de las materias que se consideren necesarias;
 
-El gasto de la obra pública y los servicios relacionados con la misma se sujetarán, en su caso, a las disposiciones de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado y al Presupuesto de Egresos aprobado para el ejercicio fiscal en que se realice, así como a los presupuestos de egresos de los municipios y entidades autónomas; y demás disposiciones legales aplicables.
+VI. Proporcionar atención médica especial a pacientes psiquiátricos con padecimientos en fase aguda y crónica agudizada;
 
-Las obras públicas y los servicios relacionados con las mismas, que realicen las instituciones con cargo total o parcial a fondos federales, se sujetarán a las disposiciones legales federales de la materia.
+VII. Desarrollar actividades de prevención, tratamiento, rehabilitación, docencia e investigación en el campo de la salud mental;
 
-###### ARTÍCULO 6.
+VIII. Efectuar el diagnóstico y el tratamiento integral, de acuerdo a cada caso y según las normas técnicas correspondientes;
 
-En los casos de obras públicas y servicios relacionados con las mismas financiados con fondos provenientes de créditos externos otorgados al Gobierno del Estado o con su garantía por organismos financiero regionales o multilaterales, los procedimientos, requisitos y demás disposiciones para su contratación serán establecidos por parte del Órgano de Control del Gobierno del Estado, con la opinión de la Secretaría de Hacienda del Estado, a través del Instituto Para el Desarrollo y Financiamiento del Estado de Quintana Roo, aplicando en lo procedente lo dispuesto por esta Ley; y deberán precisarse en las convocatorias, invitaciones, bases y contratos correspondientes.
+IX. Efectuar el correcto seguimiento y control de los pacientes, con el objeto de asegurar su reintegración a la sociedad, de acuerdo a cada caso en particular;
 
-###### ARTÍCULO 7.
+X. Desarrollar acciones de adiestramiento y asesoría para las instituciones del sector que desarrollen actividades relacionadas con la psiquiatría y la salud mental; y
 
-La aplicación de esta Ley corresponde al Ejecutivo del Estado a través de sus dependencias y entidades, salvo los casos en los cuales su aplicación corresponda a las autoridades municipales en sus correspondientes jurisdicciones; lo anterior sin perjuicio de las atribuciones que conforme a su propia Ley Orgánica y otras disposiciones aplicables, le corresponden en esta materia al Órgano Superior.
+XI. Todas aquellas que se generen de los acuerdos establecidos por las autoridades competentes en la materia y que lleven al fortalecimiento de los servicios de salud mental.
 
-La interpretación y vigilancia del cumplimiento de esta Ley, será competencia del Ejecutivo por conducto del Órgano de Control del Gobierno del Estado.
+###### Artículo 10.
 
-La Secretaría y el Órgano de Control, en el ámbito de sus respectivas competencias, expedirán las disposiciones reglamentarias y las administrativas que sean estrictamente necesarias en la contratación y ejecución de la obra pública, las cuales será en debido apego a esta ley.
+Corresponde al Director el estudio, trámite y resolución de los asuntos competencia del Hospital, quien podrá delegar sus facultades por escrito a los servidores públicos subalternos, sin perder por ello la posibilidad de su ejercicio directo, excepto aquellas que por disposición de ley no sean delegables.
 
-###### ARTÍCULO 8.
+###### Artículo 11.
 
-Las controversias que se susciten con motivo de la interpretación o aplicación de esta Ley o de los contratos celebrados con base en ella, serán resueltas por los tribunales estatales.
+Corresponde al Director, el ejercicio de las siguientes atribuciones:
 
-Lo previsto es sin perjuicio de las facultades establecidas para que el Órgano de Control conozca las inconformidades que presenten los particulares en relación con los procedimientos de contratación, o bien, de las quejas que en audiencia de conciliación conozca sobre el incumplimiento de lo pactado en los contratos.
+I. Ejercer la representación legal del Hospital;
 
-Lo dispuesto por este artículo se aplicará a los organismos descentralizados sólo cuando sus leyes no regulen de manera expresa la forma en que podrán resolver controversias.
+II. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño y funcionamiento de las unidades de su adscripción; así como los programas, lineamientos técnicos y operativos del servicio y las políticas que indique el Secretario;
 
-Los actos, contratos y convenios que las dependencias, entidades y ayuntamientosrealicen (sic) o celebren en contravención a lo dispuesto por esta Ley, serán nulos previa determinación de la autoridad competente.
+III. Acordar con el secretario, los asuntos cuya tramitación se encuentren dentro de la competencia del Hospital;
 
-###### ARTÍCULO 9.
+IV. Supervisar y evaluar los indicadores de Salud y atención médica, manteniéndolos dentro de los estándares preestablecidos;
 
-Los poderes Legislativo, Judicial y los titulares de las dependencias del Poder Ejecutivo del Estado, los ayuntamientos y las entidades, serán los responsables de que en el ámbito de sus respectivas competencias, se adopten e instrumenten las acciones que deban llevar a cabo en cumplimiento de esta Ley, y se observen criterios que promuevan la simplificación y modernización administrativa, la descentralización de funciones, así como la efectiva delegación de facultades en los servidores públicos.
+V. Vigilar la calidad de la atención médica que se esté otorgando, así como el trato humano a los pacientes;
 
-Corresponde a las dependencias, entidades y ayuntamientos llevar a cabo los procedimientos para contratar y ejecutar las obras públicas y servicios relacionados con las mismas, por lo que en ningún caso se podrán contratar servicios para que por su cuenta y orden se contraten las obras o servicios de que se trate.
+VI. Emitir dictámenes e informes relativos a su competencia y formular las opiniones acerca de otras áreas, cuando su competencia se relacione;
 
-###### ARTÍCULO 10.
+VII. Proporcionar a las autoridades del sector público, social y privado, la información técnica, estadística y de actividades de productividad médica, legales, entre otros que requieran, de acuerdo a los lineamientos establecidos para tal efecto;
 
-En lo no previsto por esta ley, serán aplicables supletoriamente los Códigos Civil y el de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo.
+VIII. Proporcionar la información y la cooperación técnico-administrativa que le sea requerida, conforme a las políticas y lineamientos establecidos por el Secretario;
 
-###### ARTÍCULO 11.
+IX. Formular en los asuntos de su competencia los anteproyectos de leyes, reglamentos, decretos, acuerdos, órdenes y lineamientos generales, así como los manuales de organización, de procedimientos y de servicios al público y proponerlos al Secretario;
 
-Cuando por las condiciones especiales de la obra pública y servicios relacionados con la misma, se requiera la intervención de dos o más dependencias o entidades, quedará a cargo de cada una de ellas la responsabilidad sobre la ejecución de la parte de la obra y de los servicios relacionados con la misma que le corresponda, sin perjuicio de la responsabilidad que, en razón de sus respectivas atribuciones, derive de la encargada de la planeación y programación del conjunto.
+X. Asesorar técnicamente en asuntos de su competencia a las unidades administrativas del Hospital;
 
-###### ARTÍCULO 12.
+XI. Firmar y notificar los acuerdos de trámite, así como las resoluciones o acuerdos de las autoridades superiores y aquellos que se emitan con fundamento en las facultades que le correspondan;
 
-Será responsabilidad de la Secretaría operar el Registro Estatal de Obra Pública, estableciendo pata tal efecto los términos y estructura. En dicho registro se mantendrá la información relativa a todas las obras y servicios que contrate el Gobierno del Estado a través de sus dependencias y entidades, así como los ayuntamientos.
+XII. Formular los anteproyectos de presupuesto por programas, conforme a los lineamientos legales aplicables y ejercerlos una vez autorizados;
 
-Dicho registro deberá ser puesto a disposición del público, salvo aquellas partes que de conformidad a la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo sean de naturaleza confidencial, a través de medios electrónicos en la página de internet de la Secretaría o una que se establezca con este fin.
+XIII. Controlar que el gasto del Hospital no exceda de lo autorizado y se administre de acuerdo con las normas y lineamientos aplicables;
 
-## TÍTULO SEGUNDO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
+XIV. Suscribir los contratos y convenios que se requieran para el ejercicio, operación y distribución de su presupuesto, excepto los instrumentos que por disposición legal o por funciones no delegables del Secretario deban ser suscritos por este, así como en los que se vea implicado el sector;
 
-### CAPÍTULO ÚNICO
+XV. Proponer la capacitación, adiestramiento y desarrollo del personal a cargo del Hospital, en coordinación con el área responsable de los programas de capacitación y desarrollo;
 
-###### ARTÍCULO 13.
+XVI. Instrumentar las acciones tendientes a dar cumplimiento al Programa de Modernización y Simplificación Administrativa, de acuerdo a las políticas que para tal efecto dicte el Secretario;
 
-En la planeación de la obra pública y en lo aplicable, a los servicios relacionados con la misma, las instituciones deberán ajustarse a:
+XVII. Recibir en audiencia al público que lo solicite;
 
-I.- Los objetivos y prioridades del Plan Estatal de Desarrollo y de los Programas Sectoriales, Institucionales, Regionales y Especiales que correspondan;
+XVIII. Realizar las gestiones necesarias para que se proporcionen al Hospital los recursos humanos, financieros y materiales requeridos por los servicios y áreas de atención al paciente, para su óptimo funcionamiento; y
 
-II.- Las previsiones contenidas en sus programas anuales;
+XIX. Las demás que determinen las disposiciones legales aplicables y las que le encomienden el Gobernador del Estado o el Secretario.
 
-III.- Ajustarse a los objetivos, metas y previsiones de recursos establecidos en los
+###### Artículo 12.
 
-Presupuestos de Egresos del Estado o de los Municipios; y
+Corresponde a la Unidad de Enseñanza e Investigación el ejercicio de las siguientes atribuciones:
 
-IV.- Contar con un balance positivo en los estudios de factibilidad legal, de costo beneficio, técnica y ecológica para los proyectos a realizar. Tomando en consideración los planes y programas de desarrollo municipal.
+I. Ejecutar las acciones que le correspondan del Programa Operativo de Enseñanza y Capacitación implementados en la Unidad, que asegure el desarrollo de competencia del personal de manera integral y que permita elevar la calidad de la atención médica que se proporciona a los usuarios;
 
-###### ARTÍCULO 14.
+II. Coordinar y ejecutar acciones de investigación para la salud, definiendo las líneas de acción de los estudios a desarrollarse en las diversas disciplinas que impacte en una atención efectiva y de calidad basada en la evidencia;
 
-Las instituciones están obligadas a elaborar los programas de obra pública y los servicios relacionados con la misma, y sus respectivos presupuestos considerando:
+III. Difundir y observar la normativa técnica en materia de enseñanza y capacitación, supervisando el estricto cumplimiento de las políticas, normas, lineamientos y disposiciones establecidas en la Unidad, para el desarrollo de programas académicos establecidos;
 
-I.- Los estudios de pre inversión que se requieran para definir la factibilidad legal, técnica, económica, social y ecológica en la realización de la obra;
+IV. Desarrollar y realizar las evaluaciones correspondientes a los recursos humanos en formación, en estrecha relación con las instituciones educativas, aportando las herramientas necesarias que contribuyan a la formación efectiva de futuros profesionales e informar de las mismas a la unidad administrativa competente;
 
-II.- Los objetivos y metas a corto, mediano y largo plazo;
+V. Realizar las investigaciones clínicas pertinentes que permitan resolver los problemas más frecuentes de atención médica;
 
-III.- Las acciones previas, durante y posteriores a su ejecución, incluyendo las obras principales, las de infraestructura, las complementarias y accesorias, así como las acciones para poner aquellas en servicio;
+VI. Coordinar sesiones médicas para análisis de casos de usuarios atendidos en la Unidad, con la participación del equipo multidisciplinario, con la finalidad de identificar oportunidades de mejora de los programas académicos;
 
-IV.- Las características ambientales, climáticas y geográficas de la región donde deba realizarse la obra;
+VII. Coordinar la evaluación de becas para el personal administrativo, médico y paramédico, especialmente en el caso de áreas de interés o de necesidad para el Hospital, con fines de favorecer la preparación académica del personal de la Unidad;
 
-V.- La calendarización física y financiera de los recursos necesarios para su ejecución, así como los gastos de operación;
+VIII. Elaborar los manuales técnico-administrativos que normen y regulen la organización y funcionamiento de la Unidad de Enseñanza e Investigación, bajo la supervisión de la Unidad de Planeación; y
 
-VI.- Las unidades responsables de su ejecución, así como las fechas previstas de iniciación y terminación de cada una de las obras, elaboración del presupuesto y especificaciones;
+IX. Las demás que le señalen las disposiciones legales aplicables y el Director.
 
-VII.- Las investigaciones, asesorías, consultorías y estudios que se requieran, en donde se deberán incluir los proyectos arquitectónicos y de ingeniería necesarios, la elaboración de especificaciones técnicas, presupuestos y programas de obra;
+## TÍTULO II. DE LA ESTRUCTURA ORGÁNICA
 
-VIII.- La regularización y adquisición de la tenencia de la tierra, así como la obtención de los permisos, licencias, dictámenes, derechos sobre bancos de materiales de construcción necesarios, así como la propiedad o los derechos de propiedad, incluyendo los derechos de vía y expropiación de los inmuebles sobre los cuales se ejecutará la obra; en las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista;
+### CAPÍTULO ÚNICO. DE LA ORGANIZACIÓN Y ESTRUCTURA DEL HOSPITAL
 
-IX.- La ejecución, que deberá incluir el costo directo estimado de la obra que se realice por contrato o por administración directa, incluyéndose la supervisión, las pruebas de control de calidad, las pruebas de funcionamiento y puesta en servicio, así como los costos indirectos de la obra y la previsión para ajuste de costos;
+###### Artículo 13.
 
-X.- Los trabajos de conservación y mantenimiento preventivo y correctivo de los bienes inmuebles a su cargo;
+Corresponde a la Unidad de Asuntos Jurídicos, el ejercicio de las siguientes atribuciones:
 
-XI.- Toda instalación pública deberá asegurar la accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas y físicas, para todas las personas; y deberán cumplir con las normas de diseño y de señalización que se emitan, en instalaciones, circulaciones, servicios sanitarios y demás instalaciones análogas para las personas con discapacidad; y
+l. Mantener coordinación con la Consejería Jurídica de Poder (sic) Ejecutivo, a fin de que el tratamiento de los asuntos jurídicos a cargo del Hospital sea congruente con el esquema general definido por la referida dependencia;
 
-XII.- Las demás previsiones que deberán tomarse en cuenta según la naturaleza y características de la obra.
+II. Formar parte de la Comisión de Estudios Jurídicos del Gobierno del Estado presidida por la Consejería Jurídica del Poder Ejecutivo
 
-###### ARTÍCULO 15.
+III. Revisar o elaborar según sea el caso, los anteproyectos de leyes, reglamentos, decretos, acuerdos y órdenes relativos a los asuntos de la competencia del Hospital, así como sus respectivas modificaciones;
 
-Las instancias convocantes y los contratistas, en lo que a cada uno corresponda, estarán obligadas a prever los efectos sobre el medio ambiente que pueda causar la ejecución de las obras públicas, con sustento en la evaluación de impacto ambiental prevista por la Ley de Equilibrio Ecológico y la Protección del Ambiente del Estado de Quintana Roo, o en su defecto por su similar de carácter federal.
+IV. Compilar, estudiar y difundir las leyes, reglamentos, decretos federales y estatales, los acuerdos, órdenes y normas oficiales mexicanas;
 
-Los proyectos deberán incluir las obras necesarias para que se preserven o restauren las condiciones ambientales cuando éstas pudieran deteriorarse, y se dará la intervención que corresponda a las instancias convocantes que tengan atribuciones en la materia.
+V. Actuar como órgano de consulta jurídica, asesorando al Director y a las unidades administrativas del Hospital;
 
-###### ARTÍCULO 16.
+VI. Representar como apoderado legal al Hospital, al Director y a los servidores públicos ante los tribunales federales y del fuero común y ante toda autoridad jurisdiccional o administrativa con facultades jurisdiccionales, en los trámites de cualquier asunto de naturaleza jurídica, con excepción de la fiscal, con todos los derechos procesales que las leyes reconocen a las personas físicas y jurídicas colectivas, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias o querellas, formular y absolver posiciones, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar interponer y desistirse de juicios de amparo y los recursos previstos, por la Ley en la materia, y en general, para que promueva o realice todo los actos permitidos por las leyes que favorezcan al órgano;
 
-Las dependencias, entidades y ayuntamientos tendrán la obligación de llevar un catálogo y archivo de los estudios y proyectos que se hayan realizado o estén pendientes de ejecutar, y deberá constar su ubicación física en los archivos de la (sic) cada institución; además, se encontrará abierto a la consulta de cualquier persona que pudiera estar interesada.
+VII. Elaborar los informes previos y justificados en los juicios de amparo cuando sean señalados como autoridades responsables el Hospital o sus servidores públicos, por actos del servicio, así como participar como representante de éstos;
 
-Las dependencias, entidades y ayuntamientos que requieran contratar o realizar estudios o proyectos, verificarán primero si en sus archivos o en los de las dependencias, entidades o ayuntamientos afines, existen estudios o proyectos sobre la materia.
+VIII. Levantar las actas administrativas a los trabajadores del Hospital por violación a las disposiciones laborales aplicables, con el fin de asegurar el orden al cual el trabajador debe estar sujeto en su área laboral, siempre rigiéndose bajo las leyes permanentes establecidas;
 
-De resultar positiva la verificación y comprobarse que el estudio o proyecto localizado satisface total o parcialmente los requerimientos de la misma, no procederá la contratación, o procederá solo en la parte necesaria para su adecuación, actualización o complemento.
+IX. Difundir a las demás unidades administrativas las formalidades y requisitos legales que expidan las autoridades sanitarias;
 
-Los contratos de servicios relacionados con las obras públicas sólo se podrán celebrar cuando las áreas responsables de su ejecución no dispongan cuantitativa o cualitativamente de los elementos, instalaciones y personal para llevarlos a cabo, lo cual deberá justificarse a través del dictamen que para tal efecto emita el titular del área responsable de los trabajos.
+X. Revisar y llevar el registro de contratos, convenios, acuerdos y bases de coordinación que celebre el Hospital, con estricto apego al marco legal y con una constitución metódica establecida;
 
-Cualquier persona podrá promover y presentar a consideración de las dependencias, entidades y ayuntamientos, estudios, planes y programas para el desarrollo de proyectos, debiendo proporcionar la información suficiente que permita su factibilidad, sin que ello genere derechos u obligaciones a las dichas instancias, no obstante notificarán al promovente su autorización, negativa o, en su caso, las observaciones que formulen en relación a éstos, en un plazo que no excederá de seis meses contado a partir de la fecha de presentación del estudio, plan o programa correspondiente, sin que contra esta determinación proceda recurso alguno. En caso de que las dependencias, entidades y ayuntamientos no respondan en el término indicado, el estudio, plan o programa presentado se tendrá por rechazado.
+XI. Coadyuvar con los Agentes del Ministerio Publico en la tramitación de las averiguaciones previas que se presentan ante los mismos, proporcionando los medios necesarios en sentido pericial, doctores, acceso a instalaciones, guardias y documentos;
 
-###### ARTÍCULO 17.
+XII. Elaborar los manuales técnicos-administrativos que normen y regulen la organización y funcionamiento de la Unidad de Asuntos Jurídicos, bajo la supervisión de la Unidad de Planeación;
 
-Las dependencias, entidades y ayuntamientos que realicen obras públicas y servicios relacionados con las mismas, sea por contrato o por administración directa, así como los contratistas con quienes aquellas contraten, observarán las disposiciones que en materia de asentamientos humanos, desarrollo urbano y construcción rijan en el ámbito federal, estatal y municipal.
+XIII. Expedir la certificación de la documentación legal que obre en los archivos del Hospital; y
 
-Las instancias convocantes, cuando sea el caso, previamente a la realización de los trabajos, deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista.
+XIV. Las demás que deriven del marco legal aplicable y las que le encomiende el Secretario o Director.
 
-###### ARTÍCULO 18.
+###### Artículo 14.
 
-Las dependencias, entidades o ayuntamientos que sean apoyadas presupuestalmente o que reciban transferencia de recursos estatales, remitirán sus programas y presupuestos de obra pública a la dependencia coordinadora de sector, en la fecha que ésta señale.
+Corresponde a la Unidad de Planeación, el ejercicio de las siguientes atribuciones:
 
-Las dependencias coordinadoras de sector, y en su caso, las entidades que no se encuentren agrupadas en sector alguno, enviarán a la Secretaría los programas y presupuestos mencionados, en la fecha que ésta determine para su examen, aprobación e inclusión en el proyecto de presupuesto de egresos correspondiente.
+I. Coordinar, establecer e implantar los procedimientos para la elaboración, integración y actualización de los Manuales de Organización y Procedimientos, Instructivos, además de los instrumentos técnicos indispensables que garanticen la debida operación de los servicios y los sistemas de información del Hospital;
 
-A más tardar el 31 de marzo de cada año, pondrán a disposición de los interesados, por escrito y a través de su página de internet o la de la Secretaría, sus programas anuales de obra pública, salvo que medie causa debidamente justificada para no hacerlo en dicho plazo.
+II. Analizar y evaluar de manera permanente la funcionalidad de la estructura orgánica del Hospital, para identificar y promover actualizaciones ante la Dirección de Planeación de la Secretaría de salud, en seguimiento a los acuerdos establecidos por la Dirección General de Modernización e Innovación Gubernamental (DGMIG) de la Secretaría de Administración y Finanzas;
 
-El documento que contenga los programas será de carácter informativo; no implicará compromiso alguno de contratación y podrá ser adicionado, modificado, suspendido o cancelado, sin responsabilidad alguna para la dependencia, entidad o ayuntamiento de que se trate.
+III. Participar en el desarrollo de la programación y presupuestación del Programa Operativo Anual de recursos para el Hospital, con base en los lineamientos emitidos en esta materia, tanto federales como estatales, en coordinación con la Unidad de Administración;
 
-###### ARTÍCULO 19.
+IV. Participar en el registro y captura de los proyectos específicos asignados, como de nueva creación, que determine la Dirección, coordinándose con la Unidad de Administración del Hospital en la plataforma SIPPNET, en los módulos de captura y avance programático de metas;
 
-En las obras públicas y los servicios relacionados con las mismas, cuya ejecución rebase un ejercicio presupuestal, las dependencias, entidades y ayuntamientos deberán determinar tanto el presupuesto total, como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes, además de considerar los costos que, en su momento, se encuentren vigentes, se deberán tomar en cuenta las previsiones necesarias para los ajustes de costos y convenios que aseguren la continuidad de los trabajos. El presupuesto actualizado será la base para solicitar la asignación de cada ejercicio presupuestal subsecuente. La asignación presupuestal aprobada para cada contrato servirá de base para otorgar, en su caso, el porcentaje pactado por concepto de anticipo.
+V. Coordinarse con la Unidad Médica para captar mensualmente los informes para la integración del Sistema de Información en Salud, establecido por la Secretaría de Salud Federal, a través del procesamiento y evaluación de servicios médicos, infraestructura en salud, egresos hospitalarios, urgencias, lesiones, población y estadísticas, de conformidad con los lineamientos establecidos a nivel nacional, contenidos en la Ley General de Salud y la Ley de Información Estadística y Geografía, con la finalidad de difundir y capacitar al personal involucrado en el Hospital;
 
-###### ARTÍCULO 20.
+VI. Analizar y evaluar el Sistema de Información en Salud, para conocer los avances y corregir posibles deficiencias en los servicios prestados, proponiendo acciones de modernización organizacional y operativa, con la finalidad de consolidar el grado de eficiencia y productividad del Hospital;
 
-Las dependencias y entidades podrán convocar, adjudicar o contratar obras públicas y servicios relacionados con las mismas, solamente cuando cuenten por parte de la Secretaría con la autorización correspondiente en el presupuesto de inversión, conforme al cual deberán elaborarse los programas de ejecución y pagos correspondientes.
+VII. Integrar la información estadística necesaria para la planeación de las actividades del Hospital, participando en las actividades que permitan que los procesos de organización, información y estadísticas en Salud se optimicen para una operación más eficiente en el Hospital, de conformidad con los lineamientos emitidos por los gobiernos federal y estatal;
 
-En caso de que se trate de obras y servicios que ejecuten los ayuntamientos con sus propios recursos, la autorización arriba señalada la deberá emitir el área facultada para ello de acuerdo a su propia normatividad.
+VIII. Participar coordinadamente con las Unidades Médica y de Administración en el diseño para el establecimiento de los costos de los servicios otorgados, mediante la evaluación de los indicadores y tendencias como resultante en las eficiencias de producción;
 
-En casos excepcionales y previa aprobación de la Secretaría, las dependencias y entidades podrán convocar, adjudicar y formalizar contratos, cuya vigencia inicie en el ejercicio fiscal siguiente de aquel en que se formalizan. Los referidos contratos estarán sujetos a la disponibilidad presupuestaria del año en que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la no realización de la referida condición suspensiva origine responsabilidad alguna para las partes. Cualquier pacto en contrario a lo dispuesto en este párrafo se considerará nulo.
+IX. Participar en los procesos de recertificación del Consejo de Salubridad General del Hospital, en coordinación con la Unidad de Innovación y Calidad;
 
-Para la realización de obras públicas se requerirá contar con las factibilidades, estudios, proyectos, especificaciones de construcción, normas de calidad, presupuesto, y el programa de ejecución totalmente terminados.
+X. Informar al Director y a la Secretaría los avances en el cumplimiento de los programas autorizados presupuestalmente;
 
-Lo dispuesto en el párrafo anterior, será de la responsabilidad de los servidores públicos que autoricen el proyecto ejecutivo.
+XI. Elaborar los manuales técnicos-administrativos que normen y regulen la organización y funcionamiento de la Unidad de Planeación; y
 
-## TÍTULO TERCERO. DEL PROCEDIMIENTO, CONTRATACIÓN Y EJECUCIÓN DE LA OBRA
+XII. Las demás que le señalen las disposiciones legales aplicables y el Director.
 
-### CAPÍTULO I. GENERALIDADES
+###### Artículo 15.
 
-###### ARTÍCULO 21.
+Corresponde a la Unidad de Seguimiento, el ejercicio de las siguientes atribuciones:
 
-Las dependencias, entidades y ayuntamientos podrán realizar las obras públicas y servicios relacionados con las mismas por alguna de las dos formas siguientes:
+l. Revisar e integrar la información trimestral de los formularios del Programa Entrega-Recepción de las unidades administrativas del Hospital, para enviarlos a la Secretaría de Contraloría en tiempo y forma;
 
-I.- Por contrato, o
+II. Recibir, comunicar, contestar y participar como enlace oficial del Hospital, ante la Secretaría de Contraloría, de toda la información relativa al Programa Entrega-Recepción, comunicando los actos de avances e incumplimiento por parte de las unidades administrativas del Hospital a la Dirección, así como a las Unidades de Administración y Asuntos Jurídicos;
 
-II.- Por administración directa
+III. Organizar y coordinar los cursos de capacitación a las unidades administrativas del Hospital, relativos al manejo e implementación del Programa Entrega-Recepción, así como asesorarlos para la integración y llenado de los formularios establecidos;
 
-###### ARTÍCULO 22.
+IV. Coordinar, participar e integrar, los actos de Entrega-Recepción de los Servidores Públicos del Hospital y de las unidades administrativas, en los términos de la legislación y normatividad vigente respectiva;
 
-Las dependencias, entidades y ayuntamientos, bajo su responsabilidad, podrán contratar obras públicas y servicios relacionados con las mismas, mediante los procedimientos de contratación que a continuación se señalan:
+V. Coordinar, integrar y enviar la información de la autoevaluación que se envía mensualmente a la Unidad de Seguimiento de la Secretaría;
 
-I.- Licitación pública;
+VI. Vigilar el cumplimiento de las normas, lineamientos, políticas, y procedimientos de carácter interno que deban observar los servidores públicos que integran el Hospital, en caso contrario, informar a las Unidades de Administración y Asuntos Jurídicos para los efectos de darle el seguimiento legal correspondiente;
 
-II.- Invitación a cuando menos tres personas, o
+VII. Efectuar revisiones aleatorias internas y de supervisión a los procesos de trabajo, aplicación de los manuales de organización y procedimientos, actualización de activo fijo e insumos a las unidades administrativas que integran el Hospital y elaborar los dictámenes e informes correspondientes;
 
-III.- Adjudicación directa.
+VIII. Participar como enlace, ante las diferentes instancias que auditan el Hospital, coordinando el seguimiento respectivo con la unidad administrativa auditada, para la solventación de posibles observaciones;
 
-En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, plazos de ejecución, normalización aplicable en términos de la Ley Federal sobre Metrología y Normalización, forma y tiempo de pago, penas convencionales, anticipos y garantías; debiendo las instancias convocantes proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
+IX. Elaborar los manuales técnicos-administrativos que normen y regulen la organización y funcionamiento de la Unidad de Seguimiento, bajo la supervisión de la Unidad de Planeación; y
 
-La licitación pública se inicia con la publicación de la convocatoria y, en el caso de la invitación a cuando menos tres personas, con la entrega de la primera invitación; ambos procedimientos concluyen con la firma del contrato.
+X. Las demás que le señalen las disposiciones legales aplicables y el Director.
 
-###### ARTÍCULO 23.
+###### Artículo 16.
 
-Los contratos de obras públicas y los de servicios relacionados con las mismas se adjudicarán, por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, eficiencia energética, el uso responsable del agua y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
+Corresponde a la Unidad de Relaciones Publicas el ejercicio de las siguientes atribuciones:
 
-El sobre a que hace referencia este artículo podrá entregarse, a elección del licitante, en el lugar de celebración del acto de presentación y apertura de proposiciones; o bien, si así lo establece la convocante, enviarlo a través del servicio postal o de mensajería.
+l. Trabajar de manera coordinada con la Coordinación General de Comunicación Social y Relaciones Públicas de la Gubernatura, la Unidad de Comunicación Social de la Secretaría y los medios de comunicación, para el análisis, tratamiento y disposición de la información relacionada con el Hospital, así como para establecer las posturas institucionales;
 
-Las proposiciones presentadas deberán ser firmadas autógrafamente por los licitantes o sus apoderados.
+II. Instrumentar, desarrollar y aplicar estrategias para fortalecer las relaciones interinstitucionales, vinculando al Hospital con la población de escasos recursos y solicitantes de apoyos, mediante las gestiones pertinentes para la disminución y/o condonación de pagos;
+
+III. Impulsar la imagen institucional, asegurando que todos los medios de comunicación y distintos sectores que se relacionan con sus atribuciones, reciban la información relevante sobre el desarrollo de los programas y los objetivos del trabajo del hospital;
+
+IV. Sesionar y analizar en el Comité de Quejas, las quejas de los pacientes y sus familiares, así como los del personal del Hospital, que depositan en los Buzones, para la mejora continua y la calidad de la atención;
+
+V. Mantener una comunicación estrecha y directa con las unidades administrativas del Hospital para recabar los datos importantes a difundir;
+
+VI. Atender las necesidades del Hospital en cuanto a comunicación social, para generar los boletines informativos que los soporten;
+
+VII. Atender las relaciones públicas con los medios de comunicación, procurando garantizar una adecuada coordinación institucional;
+
+VIII. Divulgar entre los sectores público, social y privado, de manera sistemática, la información relevante sobre los objetivos, avances y resultados de las actividades y programas desempeñados por el personal del Hospital;
+
+IX. Revisar diariamente los periódicos locales para obtener de ellos la información importante publicada relativa a la Secretaría o al Hospital;
+
+X. Colaborar con las demás áreas en la creación de material de apoyo para dar a conocer los servicios que presta el Hospital, así como las normas técnicas que tengan que ver con el servicio hospitalario;
+
+XI. Apoyar a la Dirección en la logística de imagen para los eventos que se lleven a cabo dentro y fuera del Hospital, presentación de discursos, material de apoyo e información;
+
+XII. Programar actividades de difusión de los eventos que se lleven a cabo dentro del Hospital, así como la planeación de los tiempos de trabajo;
+
+XIII. Difundir la información qua llegue al Hospital de otras dependencias, instituciones e instancias del sector salud, así como de la iniciativa privada que sean de interés para el personal;
+
+XIV. Elaborar los manuales técnicos-administrativos que normen y regulen la organización y funcionamiento de la Unidad de Relaciones Públicas, bajo la supervisión de la Unidad de Planeación; y
+
+XV. Las demás que le señalen las disposiciones legales aplicables y el Director.
+
+###### Artículo 17.
+
+Corresponde a la Unidad de Innovación y Calidad el ejercicio de las siguientes atribuciones:
+
+I. Diseñar y operar el Programa Operativo Anual, para promover la calidad de los Servicios de Salud conforme a los estándares de desempeño, adoptando las medidas de supervisión correspondientes en las unidades administrativas para verificar el cumplimiento de las acciones para la mejora continua en el Hospital;
+
+II. Coordinar y en su caso, asesorar al Comité de Calidad y Seguridad del Paciente (COCASEP) y subcomités de calidad en materia de seguridad del paciente, expediente clínico y otros que se encuentren constituidos en el Hospital, con fines de facilitar la mejora continua;
+
+III. Ser el enlace entre la Unidad Médica y la ciudadanía que desempeñe la función de Aval Ciudadano, apoyando su funcionamiento y realizando el seguimiento de los compromisos establecidos en la carta compromiso para mejorar al trato digno de los usuarios;
+
+IV. Coordinar el monitoreo de los Indicadores de Calidad (INDICA) para mantener resultados oportunos y actualizados en el Sistema Nacional de Salud, que sirva de evidencia al Hospital para la toma de decisiones basada en hechos;
+
+V. Coordinar y asesorar las acciones de acreditación como garantía de calidad y la certificación del Consejo de Salubridad General a realizar, dirigidas a cumplir de manera eficiente con los criterios establecidos en las evaluaciones;
+
+VI. Rendir cuentas de los avances de la estrategia del Sistema Integral de Calidad (SICALIDAD) en los órganos de gobierno del establecimiento de salud o institución, con la finalidad de favorecer la toma de decisiones directivas basadas en evidencias para la mejora continua institucional;
+
+VII. Implantar, realizar el seguimiento y difundir en el personal de salud, los Indicadores Nacionales de Calidad en Salud (INDICA), así como lo objetivos estratégicos en materia de calidad con fines de conocimiento y concientización del personal;
+
+VIII. Impulsar, realizar el seguimiento y la evaluación de los proyectos del Sistema Integral de Calidad (SICALIDAD): Seguridad del paciente, Expediente Clínico Integrado y de Calidad (ECIC), Prevención y Reducción de la Infección Nosocomial (PREREIN); Cuidados Paliativos (PALIAR); Uso Racional de Medicamentos (URM), y Servicios de Urgencia que Mejoran la Atención y Resolución (SUMAR), con fines de lograr la mejora continua;
+
+IX. Participar, cuando sea convocado, en las reuniones de trabajo de las unidades administrativas del Hospital, formulando propuestas de mejora en la calidad percibida, técnica y en la seguridad de los pacientes. Asimismo, asistir cuando sea requerido por el Comité Estatal de Calidad, para informar de las acciones desarrolladas en sus unidades de salud;
+
+X. Coordinar las solicitudes del Programa Anual de Estímulos a la Calidad en el Desempeño de Médicos, Enfermeras y Odontólogos, con fines de participación y compromiso del personal con la calidad de atención que se proporcione a los usuarios;
+
+XI. Promover la participación del Hospital en las convocatorias anuales de Compromisos de Calidad en Acuerdos de Gestión, Proyectos de Capacitación, Premio Nacional a la Calidad en Salud y Premio a la Innovación en Calidad, con fines de lograr la excelencia institucional;
+
+XII. Distribuir en el seno del Hospital, información relacionada con el compromiso de calidad de la unidad, los avances y logros obtenidos, informando a la comunidad y a los trabajadores de la salud;
+
+XIII. Adoptar medidas para favorecer la difusión y conocimiento de los derechos de los pacientes en los establecimientos de salud;
+
+XIV. Asesorar y facilitar herramientas de análisis y de reingeniería de proceso para la mejora de atención a la salud en los establecimientos de salud de su competencia;
+
+XV. Formar parte de la red de gestores de calidad bajo la coordinación del área de calidad estatal, central o delegacional, favoreciendo el intercambio de experiencias que contribuyan a la mejora de la calidad y la seguridad de los pacientes en los establecimientos de salud;
+
+XVI. Supervisar el seguimiento de los contenidos de calidad que se hubieren incorporado en los convenios de gestión que tenga establecidos el Régimen Estatal de Protección Social en Salud (REPPS) y las unidades médicas que correspondan al ámbito de actuación del gestor médico;
+
+XVII. Monitorear las expectativas del cliente interno y calidad de vida profesional, así como el compromiso con los proyectos del Sistema Integral de Calidad (SICALIDAD) que se desarrollen a nivel nacional, estatal e institucional, con fines de identificación de oportunidades de mejora;
+
+XVIII. Formular propuestas para la mejora de las condiciones de trabajo, reconocimiento profesional y ambiente laboral de los profesionales y trabajadores de la salud de las unidades a cargo del gestor médico;
+
+XIX. Documentar el Manual de Calidad para la Certificación ISO 9000, así como supervisar la capacitación e implementar los lineamientos del mismo;
+
+XX. Elaborar los Informes de la Cruzada Nacional de la Calidad y entregarlo a Nivel Central;
+
+XXI. Elaborar los manuales técnicos-administrativos que normen y regulen la organización y funcionamiento de la Unidad de Innovación y Calidad, bajo la supervisión de la Unidad de Planeación; y
+
+XXII. Las demás que le señalen las disposiciones legales aplicables y el Director.
+
+###### Artículo 18.
+
+Corresponde al Enlace de la Unidad de Acceso a la Información, el ejercicio da las atribuciones establecidas por el artículo 39 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
+
+###### Artículo 19.
+
+Corresponde a la Unidad Médica el ejercicio de las siguientes atribuciones:
+
+I. Ser responsable de la organización y buen funcionamiento de los servicios auxiliares de diagnóstico y tratamiento, así como de los servicios paramédicos del Hospital;
+
+II. Proporcionar atención médica especializada a pacientes psiquiátricos con padecimientos en fase aguda y crónica agudizada;
+
+III. Desarrollar actividades de prevención, tratamiento y rehabilitación en el campo de la salud mental;
+
+IV. Difundir y observar la aplicación de las normas técnicas en las materias auxiliares de diagnóstico y tratamiento;
+
+V. Efectuar el correcto seguimiento y control de los pacientes, con el objeto de asegurar su reintegración a la sociedad de acuerdo a cada caso en particular;
+
+VI. Organizar y prestar los servicios de laboratorio clínico, radiodiagnóstico;
+
+VII. Evaluar y autoevaluar la prestación de los servicios auxiliares de diagnóstico y tratamiento;
+
+VIII. Organizar y prestar los servicios de enfermería, trabajo social, nutricional, admisión, estadística, archivo clínico, farmacia, laboratorio y otros;
+
+IX. Difundir y observar la aplicación de las normas técnicas en materia de servicios paramédicos;
+
+X. Operar la farmacia conforme a las normas y procedimientos vigentes;
+
+XI. Captar, procesar y analizar la información estadística en materia de salud que genere la Unidad e informar de la misma a la Dirección y posteriormente a la Secretaría, en los términos y con la periodicidad que se establezcan;
+
+XII. Modernizar y operar el Sistema de Archivo Clínico;
+
+XIII. Coordinar y supervisar las actividades médico asistenciales de los diferentes servicios que atienden directamente al Usuario, relacionados con patología psiquiátrica;
+
+XIV. Llevar a la práctica la ejecución de los diferentes programas de atención médica;
+
+XV. Vigilar el adecuado cumplimiento de las funciones del personal médico y paramédico;
+
+XVI. Coordinar y supervisar acciones de enseñanza para la educación médica continua en el personal a su cargo;
+
+XVII. Apoyar en actividades administrativas y docentes inherentes a la actividad médica;
+
+XVIII. Vigilar que todos los servicios médicos y paramédicos funcionen de acuerdo a sus programas;
+
+XIX. Representar al director en eventos culturales y científicos cuando este así lo designe;
+
+XX. Elaborar los manuales técnicos-administrativos que normen y regulen la organización y funcionamiento de la Unidad Médica, bajo la supervisión de la Unidad de Planeación; y
+
+XXI. Las demás que le señalen las disposiciones legales aplicables y el Director.
+
+###### Artículo 20.
+
+Corresponde a la Unidad Administrativa el ejercicio de las siguientes atribuciones:
+
+I. Supervisar que el Departamento de Recursos Humanos, gestione el pago, los movimientos, las prestaciones laborales y lleve el control del personal, de conformidad con las disposiciones aplicables, y vigilar que se observen y apliquen las condiciones generales de trabajo del personal estatal y federal adscrito al Hospital;
+
+II. Notificar de inmediato a la Unidad de Asuntos Jurídicos del Hospital, la existencia de conflictos laborales no conciliables y de posibles consecuencias contenciosas; así como asuntos de carácter penal, de responsabilidad administrativa o de cualquier otro donde se prevea la posibilidad de riesgo o conflicto con los intereses de la Secretaría;
+
+III. Supervisar que el Departamento de Recursos Materiales Integre el Programa de Abastecimiento de Bienes e Insumos, sujetándose al presupuesto autorizado y al cuadro básico de insumos y al Programa Anual de Adquisiciones previsto en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de. Tabasco, así como autorizar la adquisición de bienes e insumos administrativos y material de curación que se requiera;
+
+IV. Recibir donaciones en especie, a través del Departamento de Recursos Materiales, debiendo informar a la Secretaría de los bienes recibidos para su registro e inventario correspondiente, y vigilar que se controle el inventario de instrumental, equipo médico y mobiliario;
+
+V. Supervisar que el Departamento de Recursos Materiales controle y opere el almacén del Hospital, así como llevar a cabo la distribución de bienes e insumos de acuerdo con las normas y procedimientos establecidos al efecto, debiendo mantener actualizado el cuadro básico de insumos por servicio;
+
+VI. Vigilar que el Departamento de Mantenimiento Organice y preste los servicios de conservación y mantenimiento de los bienes muebles e inmuebles que tiene bajo resguardo el Hospital;
+
+VII. Supervisar que el Departamento de Servicios Generales organice el control y la operación de los servicios de intendencia, vigilancia, lavandería, ropería, suministro de agua pura, bitácoras de combustibles, de mantenimiento de vehículos y del servicio transporte (sic) que se proporciona a las áreas del Hospital;
+
+VIII. Supervisar que se lleve el control y registro en el Departamento de Recursos Financieros, de los enteros de derechos que se recauden; bajo los lineamientos aplicables por los órganos normativos y financieros que correspondan y proporcionar a la Secretaría los estados contables y financieros del Hospital;
+
+IX. Vigilar la aplicación en el Departamento de Recursos Financieros de los sistemas y procedimientos de registros de las operaciones presupuestarias y contables del Hospital, ajustando sus respectivos catálogos de cuentas, cuyas listas de cuentas estarán alineadas tanto conceptualmente, como en sus principales agregados al plan de cuentas que emita la Secretaría, y proporcionar la información sobre el ejercicio del gasto;
+
+X. Supervisar que las unidades administrativas presenten en tiempo y forma, las autoevaluaciones trimestrales de los programas de inversión autorizados al Hospital, así como el anexo estadístico del Informe de Gobierno;
+
+XI. Organizar el proceso de modernización de la administración del Hospital, con el objeto de fortalecer su desarrollo e innovación;
+
+XII. Elaborar los manuales técnicos-administrativos que normen y regulen la organización y funcionamiento de la Unidad de Administración, bajo la supervisión de la Unidad de Planeación; y
+
+XIII. Las demás que le señalen las disposiciones legales aplicables y el Director.
+
+## TÍTULO III. DE LA COMPETENCIA DEL HOSPITAL Y ATRIBUCIONES DEL DIRECTOR
+
+### CAPÍTULO I. DE LA COMPETENCIA DEL HOSPITAL
+
+###### Artículo 21.
+
+El Director, será suplido en ausencias no mayores a quince días por el servidor público subalterno que él designe y en ausencias mayores a quince días por el servidor público que designe el Secretario.
+
+###### Artículo 22.
+
+Las ausencias temporales de los titulares de unidad, jefes de departamento o sus equivalentes, serán suplidas por quien designe el Director.
+
+### CAPÍTULO II. DE LAS RELACIONES LABORALES
+
+###### Artículo 23.
+
+Las relaciones de trabajo entre el Hospital y sus trabajadores, se regularán por la Ley de los Trabajadores al servicio del Estado.
+
+Se consideran categorías de confianza las de Director, Titular de Unidad, Jefes de Departamento, Jefes de Área, y en general las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización; vigilancia y trabajos exclusivos de los titulares o altos funcionarios.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Este Reglamento es de carácter interior y su aplicabilidad corresponde a todos los Servidores Públicos que laboren en las Instalaciones del Hospital o que dependan directamente de él.
+
+TERCERO. Los asuntos pendientes al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella o aquellas a las que se le haya otorgado la competencia en este Reglamento.
+
+CUARTO. Para su mejor funcionamiento, las unidades administrativas, deberán formular con base en su competencia, sus respectivos manuales de organización y de procedimientos, así como todos aquellos de naturaleza técnico-administrativa que normen y regulen la organización y funcionamiento de su servicio, bajo la supervisión de la Unidad de Planeación.
+
+QUINTO. En tanto no se expidan los manuales respectivos, el Director queda facultado para resolver las cuestiones que conforme a los mismos se deban regular.
+
+DADO EN EL RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO A LOS NUEVE DÍAS DEL MES DE JULIO DEL AÑO DOS MIL DOCE.
+
+ATENTAMENTE
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
+
+QUÍM. ANDRÉS RAFAEL GRANIER MELO
+
+GOBERNADOR DEL ESTADO DE TABASCO.
+
+LIC. GERARDO GUERRERO PÉREZ
+
+CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
+
+DR. CARLOS M DE LA CRUZ ALCUDIA
+
+SECRETARIO DE SALUD.
+
+DRA. ILIANA DEL CARMEN GARCÍA MORALES
+
+DIRECTORA DEL HOSPITAL REGIONAL DE ALTA ESPECIALIDAD DE SALUD MENTAL.
 
 ###### ARTÍCULO 24.
 
@@ -335,7 +543,7 @@ En los procedimientos de contratación de obras públicas y de servicios relacio
 
 Las dependencias, entidades y ayuntamientos, solo podrán celebrar contratos de obras públicas o de servicios relacionados con las mismas, con las personas físicas y morales que se encuentren inscritas en el padrón de contratistas del Estado con registro vigente. Este padrón lo tendrá a su cargo la Secretaría de Infraestructura y Transporte y se regirá por el reglamento que para ese efecto expida el Ejecutivo del Estado.
 
-### CAPÍTULO II. DE LA LICITACIÓN PÚBLICA
+### CAPÍTULO II. DE LAS ATRIBUCIONES DEL DIRECTOR
 
 ###### ARTÍCULO 26.
 
@@ -623,7 +831,7 @@ X.- Las que contraten servicios de asesoría, consultoría y apoyo de cualquier 
 
 XI.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
 
-### CAPÍTULO III. DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
+### CAPÍTULO I. DE LA UNIDAD DE ENSEÑANZA E INVESTIGACIÓN
 
 ###### ARTÍCULO 38.
 
@@ -689,9 +897,9 @@ VI.- Los interesados que acepten participar, lo manifestarán por escrito y qued
 
 VII.- A las demás disposiciones de esta Ley que resulten aplicables.
 
-## TÍTULO CUARTO. DE LOS CONTRATOS
+## TÍTULO IV. DE LAS UNIDADES DE APOYO DEL DIRECTOR
 
-### CAPÍTULO I. DE LA CONTRATACIÓN
+### CAPÍTULO II. DE LA UNIDAD DE ASUNTOS JURÍDICOS
 
 ###### ARTÍCULO 42.
 
@@ -801,7 +1009,7 @@ Para la amortización del anticipo en el supuesto de que sea rescindido el contr
 
 El contratista que no reintegre el saldo por amortizar en el plazo señalado cubrirá los cargos que resulten, conforme con lo indicado en el párrafo primero del artículo 54 de esta Ley.
 
-### CAPÍTULO II. DE LA EJECUCIÓN
+### CAPÍTULO III. DE LA UNIDAD DE PLANEACIÓN
 
 ###### ARTÍCULO 48.
 
@@ -963,9 +1171,11 @@ Una vez concluida la obra o parte utilizable de la misma, las dependencias, enti
 
 Las dependencias, entidades y ayuntamientos bajo cuya responsabilidad quede una obra pública concluida, estarán obligadas, por conducto del área responsable de su operación, a mantenerla en niveles apropiados de funcionamiento. Los órganos internos de control vigilarán que su uso, operación y mantenimiento se realice conforme a los objetivos y acciones para las que fueron originalmente diseñadas.
 
-## TÍTULO QUINTO. DE LA ADMINISTRACIÓN DIRECTA
+## TÍTULO V. DE LOS SERVIDORES PÚBLICOS
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO I. DE LAS SUPLENCIAS
+
+### CAPÍTULO IV. DE LA UNIDAD DE SEGUIMIENTO
 
 ###### ARTÍCULO 66.
 
@@ -1001,7 +1211,7 @@ En la ejecución de los trabajos por administración directa serán aplicables, 
 
 ## TÍTULO SEXTO. DE LA INFORMACIÓN Y VERIFICACIÓN
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. DE LA UNIDAD DE RELACIONES PÚBLICAS
 
 ###### ARTÍCULO 70.
 
@@ -1029,7 +1239,7 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ## TÍTULO SÉPTIMO. DE LAS INFRACCIONES Y SANCIONES
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VI. DE. LA UNIDAD DE INNOVACIÓN Y CALIDAD
 
 ###### ARTÍCULO 73.
 
@@ -1099,7 +1309,7 @@ Cuando se haya incurrido en infracción por causa de fuerza mayor o de caso fort
 
 ## TÍTULO OCTAVO. DE LAS INCONFORMIDADES Y EL RECURSO
 
-### CAPÍTULO I. DE LAS INCONFORMIDADES
+### CAPÍTULO VII. DEL ENLACE DE LA UNIDAD DE ACCESO A LA INFORMACIÓN
 
 ###### ARTÍCULO 80.
 
@@ -1311,7 +1521,7 @@ De estimarlo procedente, podrá decretarse la suspensión de los actos del proce
 
 Resulta aplicable al procedimiento de intervención de oficio, en lo conducente, las disposiciones previstas en esta Ley para el trámite y resolución de inconformidades.
 
-### CAPÍTULO II. DEL RECURSO DE REVISIÓN
+### CAPÍTULO VIII. DE LA UNIDAD MÉDICA
 
 ###### ARTÍCULO 92.
 
@@ -1335,7 +1545,7 @@ VIII.- El Órgano de Control acordará lo que proceda sobre la admisión del rec
 
 La resolución que se dicte en el recurso de revocación interpuesto por el inconforme o el tercero interesado, no admite recurso alguno ante la misma instancia.
 
-### CAPÍTULO III. DEL PROCEDIMIENTO DE CONCILIACIÓN
+### CAPÍTULO IX. DE LA UNIDAD DE ADMINISTRACIÓN
 
 ###### ARTÍCULO 93.
 
