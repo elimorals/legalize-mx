@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-sistema-para-el-desarrollo-integral-de-la-7245
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-01-15"
-last_updated: "2017-06-28"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial el 15 de enero de 1985.
 
@@ -181,13 +181,13 @@ b).- Un Secretario, que será el Director General del Sistema Estatal.
 
 c).- Un Tesorero, que será el Secretario de Finanzas y Planeación;
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-d).- Como Vocales: El Secretario de Salud del Estado, quien además representará a la Junta Directiva ante el Patronato; el Secretario de Gobierno; el Secretario de Educación y Cultura; el Secretario de Desarrollo Social e Indígena; el Secretario de Desarrollo Económico; el Secretario de Desarrollo Agropecuario y Rural; el Delegado de la Secretaría de Hacienda y Crédito Público en el Estado; el Delegado de la Secretaría de Comunicaciones y Transportes en el Estado; el Gerente Peninsular de DICONSA en el Estado; el Presidente de la Cámara Nacional de Comercio, Servicios y Turismo del Estado; el Presidente de la Asociación de Hoteles y Moteles del Estado; así como los representantes de los Presidentes Municipales en la Entidad;
+d).- Como Vocales: la persona titular de la Secretaría de Salud del Estado, quien además representará a la Junta Directiva ante el Patronato; la persona titular de la Secretaría de Gobierno; la persona titular de la Secretaría de Educación; la persona titular de la Secretaría de Desarrollo Social; la persona titular de la Secretaría de Desarrollo Económico; la persona titular de la Secretaría de Desarrollo Agropecuario, Rural y Pesca; el Delegado de la Secretaría de Hacienda y Crédito Público en el Estado; el Delegado de la Secretaría de Comunicaciones y Transportes en el Estado; el Gerente Peninsular de SEGALMEX en el Estado; el Presidente de la Cámara Nacional de Comercio, Servicios y Turismo del Estado; el Presidente de la Asociación de Hoteles y Moteles del Estado; así como los representantes de los Presidentes Municipales en la Entidad;
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-e).- Y un Comisario, que será el Secretario de la Gestión Púbica del Estado, quien además funge como Contralor del Sistema Estatal.
+e).- Y un Comisario, que será el Secretario de la Contraloría del Estado, quien además funge como Contralor del Sistema Estatal.
 
 Los miembros del Patronato podrán ser suplidos por los representantes que al efecto designen los propios titulares, a excepción del Suplente del Presidente que será designado también por el C. Gobernador del Estado.
 
@@ -237,11 +237,11 @@ III.- Recomendar a la Junta Directiva y al Director del Sistema Estatal, las med
 
 ### CAPITULO II. DE LA JUNTA DIRECTIVA
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-###### ARTICULO 11.
+###### ARTÍCULO 11.
 
-La Junta Directiva es el Órgano de Autoridad Ejecutiva del Sistema Estatal, cuyos integrantes, incluyendo al Presidente, no percibirán retribución alguna, la cual estará conformada por los titulares de las Secretarías de Salud, quien la presidirá; de la Gestión Púbica (sic), de Gobierno, de Planeación y Finanzas; de Educación y Cultura; el Procurador de (sic) General de Justicia y de la Oficialía Mayor, todos del Estado; así como los Delegados en el Estado del Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y los Presidentes Municipales de la entidad. Los Titulares serán suplidos por los representantes que para ese efecto nombre cada uno de ellos.
+La Junta Directiva es el máximo órgano de gobierno del Sistema Estatal, cuyos integrantes, incluyendo al Presidente, no percibirán retribución alguna, la cual estará conformada por los titulares de las Secretarías de Salud, quien la presidirá; de la Contraloría, de Gobierno, de Finanzas y Planeación; de Educación; el Fiscal General, todos del Estado de Quintana Roo; así como los Delegados en el Estado del Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y los Presidentes Municipales de la entidad. Los Titulares serán suplidos por los representantes que para ese efecto nombre cada uno de ellos.
 
 ###### ARTICULO 12.
 
@@ -534,3 +534,39 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente decreto.
 
 TERCERO. El Sistema para el Desarrollo Integral de la Familia en el Estado de Quintana Roo, cuenta con 30 días hábiles contados a partir de la fecha de la entrada en vigor del presente Decreto, para la modificación de sus reglamentos respectivos.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
