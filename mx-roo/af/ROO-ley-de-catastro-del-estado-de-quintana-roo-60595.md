@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-catastro-del-estado-de-quintana-roo-60595"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-11"
-last_updated: "2018-06-20"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE CATASTRO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Número 19 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 11 de marzo de 2008.
 
@@ -47,7 +47,9 @@ Esta Ley es de orden público e interés social, y de observancia general en tod
 
 I.- Las normas y principios básicos de las funciones catastrales;
 
-II.- Las disposiciones conforme a las cuales los Ayuntamientos podrán celebrar convenios con el Poder Ejecutivo, a través de la Secretaría de Hacienda del Estado y la Dirección General del Catastro, para que éste se haga cargo de alguna o algunas de las actividades técnicas o servicios que aquellos tienen a su cargo en materia de catastro, conforme a las disposiciones establecidas en el Reglamento de la presente Ley;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+II.- Las disposiciones conforme a las cuales los Ayuntamientos podrán celebrar convenios con el Poder Ejecutivo, a través de la Secretaría de Finanzas y Planeación y el Instituto Geográfico y Catastral del Estado, para que éste se haga cargo de alguna o algunas de las actividades técnicas o servicios que aquellos tienen a su cargo en materia de catastro, conforme a las disposiciones establecidas en el Reglamento de la presente Ley;
 
 III.- Las normas y lineamientos de carácter técnico para la formulación del padrón de los bienes inmuebles ubicados en los Municipios del Estado, tendientes a su identificación, registro y valuación, y
 
@@ -75,7 +77,9 @@ VIII.- CLAVE DE VALUACIÓN.- Asignación numérica que identifica el valor Catas
 
 IX.- CONSTRUCCIÓN.- Las obras de cualquier tipo, destino o uso e inclusive los equipos e instalaciones adheridas permanentes y que formen parte integrante de ellas.
 
-X.- DIRECCIÓN GENERAL DE CATASTRO.- La Dirección General de Catastro del Estado de Quintana Roo.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+X.- DIRECCIÓN GENERAL DEL INSTITUTO.- La Dirección General del Instituto Geográfico y Catastral del Estado.
 
 XI.- FUNCIÓN CATASTRAL.- El conjunto de facultades y obligaciones que otorga esta Ley y su Reglamento a las autoridades catastrales.
 
@@ -107,7 +111,9 @@ XXIV.- REGISTROS CATASTRALES.- Los padrones en los que se inscriben las caracter
 
 XXV.- SISTEMA ESTATAL DE INFORMACIÓN CATASTRAL.- Es el conjunto de datos geográficos, alfanuméricos y documentales relacionados entre sí, que contienen los registros relativos a la identificación plena y datos reales de los inmuebles en el Estado.
 
-XXVI.- TABLA DE COEFICIENTES.- La que establece la Autoridad Catastral Municipal, de conformidad con la normatividad que establezca la Dirección General de Catastro, para la aplicación de coeficientes de incremento o demérito en el procedimiento de valuación de predios.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XXVI.- TABLA DE COEFICIENTES.- La que establece la Autoridad Catastral Municipal, de conformidad con la normatividad que establezca la Dirección General del Instituto, para la aplicación de coeficientes de incremento o demérito en el procedimiento de valuación de predios.
 
 XXVII.- TABLA DE VALORES UNITARIOS DE SUELO Y CONSTRUCCIONES.- Documento que autoriza la Legislatura del Estado, a propuesta de los Ayuntamientos, que contiene los valores por metro cuadrado de terreno y construcciones, constituyendo la base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
@@ -141,9 +147,11 @@ Los actos y resoluciones en materia de catastro se emitirán en la forma, térmi
 
 El Catastro del Estado es el censo analítico de toda propiedad inmobiliaria ubicada en el territorio de la Entidad, el cual estará a cargo de una Dirección General.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 6.
 
-La Dirección General del Catastro, es la dependencia del Ejecutivo del Estado que tiene por objeto la formación y conservación del catastro del Estado, mediante los sistemas técnicos y administrativos que se establezcan.
+La Dirección General del Instituto tiene por objeto la formación y conservación del catastro del Estado, mediante los sistemas técnicos y administrativos que se establezcan.
 
 ###### ARTÍCULO 7.
 
@@ -189,25 +197,35 @@ I.- La Legislatura Constitucional del Estado;
 
 II.- El Gobernador del Estado;
 
-III.- El Secretario de Hacienda del Estado;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+III.- El Secretario de Finanzas y Planeación;
 
 IV.- El Subsecretario de Ingresos del Estado;
 
-V.- El Director General de Catastro del Estado;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+V.- El Director General del Instituto Geográfico y Catastral del Estado;
 
 VI.- Los Ayuntamientos;
 
 VII.- Las Autoridades Catastrales Municipales.
 
-### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE CATASTRO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JULIO DE 2021)</small>
+
+### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DEL INSTITUTO GEOGRÁFICO Y CATASTRAL DEL ESTADO
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 14.
 
-La Dirección General de Catastro, es la autoridad catastral encargada de todo lo relacionado con la normatividad, rectoría y vigilancia de la correcta aplicación de esta Ley, su Reglamento y de las demás disposiciones legales aplicables en materia de catastro en toda la geografía del Estado.
+La Dirección General del Instituto es la autoridad catastral encargada de todo lo relacionado con la normatividad, rectoría y vigilancia de la correcta aplicación de esta Ley, su Reglamento y de las demás disposiciones legales aplicables en materia de catastro en toda la geografía del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 15.
 
-La Dirección General de Catastro, podrá auxiliarse para el mejor desempeño de sus atribuciones de:
+La Dirección General del Instituto, podrá auxiliarse para el mejor desempeño de sus atribuciones de:
 
 I.- Las Autoridades Catastrales Municipales;
 
@@ -221,13 +239,17 @@ V.- Las Asociaciones Agropecuarias;
 
 VI.- Las personas o instituciones privadas cuya colaboración se haga necesaria a juicio de las autoridades catastrales.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 16.
 
-Para el mejor desarrollo de sus funciones, la Dirección General, contará con una Subdirección, de las Direcciones, de los Departamentos y de las demás unidades administrativas que considere conveniente crear.
+Para el mejor desarrollo de sus funciones, la Dirección General del Instituto, contará con las Direcciones, los Departamentos y las demás unidades administrativas que considere conveniente crear, de acuerdo a su disponibilidad presupuestal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 17.
 
-Son atribuciones de la Dirección General de Catastro:
+Son atribuciones de la Dirección General del Instituto:
 
 I.- Servir como órgano técnico de apoyo y consulta a los poderes del Estado y a los Ayuntamientos de la entidad, en las materias relacionadas en el ámbito de su competencia;
 
@@ -245,7 +267,9 @@ VII.- Prestar los servicios de identificación, apeos y deslindes de inmuebles, 
 
 VIII.- Prestar asistencia técnica a las Dependencias y Entidades de la Federación, del Estado y de los Municipios, cuando así lo soliciten o convengan;
 
-IX.- Previa autorización del Secretario de Hacienda del Estado, celebrar convenios de coordinación o colaboración administrativa con los Ayuntamientos para establecer los mecanismos de información para que el Catastro Estatal se mantenga actualizado y para que colabore o asuma, total o parcialmente, las funciones operativas que actualmente tienen a su cargo, cuando éstos así lo soliciten;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+IX.- Previa autorización del Secretario de Finanzas y Planeación celebrar convenios de coordinación o colaboración administrativa con los Ayuntamientos para establecer los mecanismos de información para que el Catastro Estatal se mantenga actualizado y para que colabore o asuma, total o parcialmente, las funciones operativas que actualmente tienen a su cargo, cuando éstos así lo soliciten;
 
 X.- Coadyuvar dentro del ámbito de su competencia en la solución de diversos problemas de tenencia de los predios;
 
@@ -255,7 +279,9 @@ XII.- Asesorar técnica y operativamente a los Ayuntamientos en la elaboración 
 
 XIII.- Conocer y resolver sobre los recursos de revocación que se interpongan en contra de sus actos y resoluciones emitidos de conformidad a esta Ley y su Reglamento;
 
-XIV.- Proponer al Secretario de Hacienda del Estado las reformas tendientes a mejorar el catastro;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XIV.- Proponer al Secretario de Finanzas y Planeación las reformas tendientes a mejorar el catastro;
 
 XV.- Coadyuvar con las autoridades federales, estatales y municipales en la solución de los conflictos que se susciten con relación a los límites del territorio del Estado con los otros Estados, de los Municipios con los de otros Municipios;
 
@@ -277,29 +303,43 @@ XXIII.- Proporcionar la información catastral que le soliciten, en términos de
 
 XXIV.- Las demás que expresamente determine esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 18.
 
-El Director General de Catastro tendrá las atribuciones y obligaciones siguientes:
+El Director General del Instituto tendrá las atribuciones y obligaciones siguientes:
 
-I.- Ejecutar las atribuciones señaladas para la Dirección General de Catastro;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-II.- Representar a la Dirección General de Catastro;
+I.- Ejecutar las atribuciones señaladas para la Dirección General del Instituto;
 
-III.- Dirigir y vigilar las actividades de la Subdirección, las Direcciones, los Departamentos y del personal de la Dirección General de Catastro;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-IV.- Nombrar, remover y/o reubicar al personal de la Dirección General de Catastro, en los términos de las disposiciones aplicables;
+II.- Representar a la Dirección General del Instituto;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+III.- Dirigir y vigilar las actividades de las Direcciones, los Departamentos y del personal de la Dirección General del Instituto;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+IV.- Nombrar, remover y/o reubicar al personal de la Dirección General del Instituto, en los términos de las disposiciones aplicables;
 
 V.- Delegar sus funciones, en caso de ausencia temporal;
 
-VI.- Requerir de las personas físicas, morales, unidades económicas, así como de las autoridades estatales y municipales, la información Catastral que requiera la Dirección General de Catastro;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+VI.- Requerir de las personas físicas, morales, unidades económicas, así como de las autoridades estatales y municipales, la información Catastral que requiera la Dirección General del Instituto;
 
 VII.- Las demás que esta Ley y su Reglamento le atribuyan.
 
 ### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES DE LOS AYUNTAMIENTOS A TRAVÉS DE LAS AUTORIDADES CATASTRALES MUNICIPALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 19.
 
-Los Ayuntamientos en el ámbito de su competencia y conforme a su capacidad técnica, económica y administrativa, podrán crear los Consejos Catastrales Municipales, como órganos de consulta y apoyo, mismos que estarán integrados por el Presidente Municipal, quien fungirá como presidente del consejo; el titular de la unidad administrativa que ejerza las funciones catastrales, como secretario técnico; el Tesorero Municipal, Síndico Municipal, el titular encargado de las funciones en materia de desarrollo urbano; él o los regidores que presidan las comisiones incidentes en esta materia; un representante de la Dirección General de Catastro, un representante de cada uno de los siguientes sectores: peritos valuadores y organismos profesionales vinculados con la materia de bienes inmuebles y regirán su funcionamiento conforme a las disposiciones previstas en el acuerdo respectivo o en los reglamentos que expidan los Ayuntamientos, teniendo las siguientes funciones:
+Los Ayuntamientos en el ámbito de su competencia y conforme a su capacidad técnica, económica y administrativa, podrán crear los Consejos Catastrales Municipales, como órganos de consulta y apoyo, mismos que estarán integrados por el Presidente Municipal, quien fungirá como presidente del consejo; el titular de la unidad administrativa que ejerza las funciones catastrales, como secretario técnico; el Tesorero Municipal, Síndico Municipal, el titular encargado de las funciones en materia de desarrollo urbano; él o los regidores que presidan las comisiones incidentes en esta materia; un representante de la Dirección General del Instituto, un representante de cada uno de los siguientes sectores: peritos valuadores y organismos profesionales vinculados con la materia de bienes inmuebles y regirán su funcionamiento conforme a las disposiciones previstas en el acuerdo respectivo o en los reglamentos que expidan los Ayuntamientos, teniendo las siguientes funciones:
 
 I.- Opinar sobre los trabajos de fotogrametría, de medición directa y todos aquellos que sean necesarios para las funciones catastrales;
 
@@ -349,7 +389,9 @@ X.- Ordenar y practicar visitas domiciliarias para verificar los datos proporcio
 
 XI.- Conocer y resolver las inconformidades que se presenten de acuerdo a la presente Ley;
 
-XII.- Coadyuvar con la Dirección General de Catastro, en la integración y actualización del Sistema Estatal de Información Catastral, remitiendo por medios magnéticos o impresos, los cambios y modificaciones que sufra la propiedad inmobiliaria y los valores catastrales;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XII.- Coadyuvar con la Dirección General del Instituto, en la integración y actualización del Sistema Estatal de Información Catastral, remitiendo por medios magnéticos o impresos, los cambios y modificaciones que sufra la propiedad inmobiliaria y los valores catastrales;
 
 XIII.- Designar en el ámbito de su competencia a la persona o personas que deberán practicar las visitas, inspecciones o verificaciones y expedir las constancias de identificación correspondientes;
 
@@ -373,7 +415,9 @@ Las operaciones de deslinde catastral deberán practicarse previa notificación 
 
 El resultado de estas operaciones catastrales y en su caso las observaciones de los interesados o de quienes los representen legalmente, se hará constar en acta circunstanciada, que firmará el personal representante de la autoridad catastral que practique esos trabajos.
 
-Todo acuerdo definitivo a que se llegue en relación con un deslinde, deberá ser inscrito en el Registro Público de la Propiedad y del Comercio correspondiente, previa notificación a la Dirección General de Catastro.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+Todo acuerdo definitivo a que se llegue en relación con un deslinde, deberá ser inscrito en el Registro Público de la Propiedad y del Comercio correspondiente, previa notificación a la Dirección General del Instituto.
 
 ###### ARTÍCULO 25.
 
@@ -389,9 +433,11 @@ El titular de la Dirección de Catastro Municipal o unidad administrativa que co
 
 ### CAPÍTULO QUINTO. DE LA COORDINACIÓN DE LOS MUNICIPIOS Y EL ESTADO
 
-###### ARTÍCULO 28.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
-Los Ayuntamientos y el Ejecutivo del Estado, por conducto de la Dirección General de Catastro, establecerán los mecanismos e instrumentos de coordinación necesarios para:
+###### ARTICULO 28.
+
+Los Ayuntamientos y el Ejecutivo del Estado, por conducto de la Dirección General del Instituto, establecerán los mecanismos e instrumentos de coordinación necesarios para:
 
 I.- La formulación de instructivos de procedimientos valuatorios, con la finalidad de que esa actividad sea uniforme en todo el Estado.
 
@@ -423,9 +469,11 @@ La propuesta de planos deberá elaborarse tomando en cuenta los servicios públi
 
 El valor catastral deberá ser equiparable al valor comercial al predio que corresponda.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 30.
 
-Para la elaboración de los Proyectos de las tablas de valores unitarios de suelo y construcciones, la Autoridad Catastral Municipal contará con el apoyo de la Dirección General de Catastro.
+Para la elaboración de los Proyectos de las tablas de valores unitarios de suelo y construcciones, la Autoridad Catastral Municipal contará con el apoye de la Dirección General del Instituto.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
 
@@ -511,9 +559,11 @@ Si los propietarios, poseedores u ocupantes del predio se opusieren sin causa ju
 
 El Sistema Estatal de Información Catastral, a que se refiere la presente Ley comprende; la creación, desarrollo y mantenimiento de una base de datos catastrales del Estado de Quintana Roo; la elaboración y determinación de normas técnicas, metodológicas y criterios a que deben sujetarse la captación, procesamiento y publicación de información sistematizada electrónicamente y de la procedencia de otras técnicas especializadas.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 44.
 
-El Sistema Estatal de Información Catastral, será integrado por la Dirección General de Catastro, quien será el organismo encargado de normar la homologación de los sistemas de cómputo que requieran los catastros municipales en los términos que se establezcan en el Reglamento de la presente Ley.
+El Sistema Estatal de Información Catastral, será integrado por la Dirección General del Instituto quien será el organismo encargado de normar la homologación de los sistemas de cómputo que requieran los catastros municipales en los términos que se establezcan en el Reglamento de la presente Ley.
 
 ###### ARTÍCULO 45.
 
@@ -523,13 +573,17 @@ La información catastral a que se refiere este título, se obtendrá principalm
 
 Las fuentes de información señaladas en el artículo anterior, deberán proporcionar los datos catastrales que les sean solicitados por las autoridades catastrales municipales o estatales, con veracidad y oportunidad, cuando el formato o cuestionario que para tal efecto se les presente, esté impreso en papel oficial.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 47.
 
-La Dirección General de Catastro y los Ayuntamientos, podrán celebrar convenios entre sí y con las Dependencias y Entidades Federales mediante los cuales se establezca la obligación recíproca de proporcionar la información a que se refiere el presente título, a través de normas y principios homogéneos establecidos por la Dirección General de Catastro.
+La Dirección General del Instituto y los Ayuntamientos, podrán celebrar convenios entre sí y con las Dependencias y Entidades Federales mediante los cuales se establezca la obligación recíproca de proporcionar la información a que se refiere el presente título, a través de normas y principios homogéneos establecidos por la Dirección General del Instituto.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 48.
 
-La información que generen las Dependencias y Organismos Auxiliares de la Administración Pública Estatal y Municipal de carácter interno y que forme parte de sus registros administrativos, será responsabilidad de cada una de ellas y la pondrán a disposición de la Dirección General de Catastro para su integración al acervo catastral del Estado cuando sea de interés general.
+La información que generen las Dependencias y Organismos Auxiliares de la Administración Pública Estatal y Municipal de carácter interno y que forme parte de sus registros administrativos, será responsabilidad de cada una de ellas y la pondrán a disposición de la Dirección General del Instituto para su integración al acervo catastral del Estado cuando sea de interés general.
 
 ## TÍTULO SÉPTIMO. DE LAS DECLARACIONES, AVISOS, NOTIFICACIONES Y DE LAS INCONFORMIDADES
 
@@ -575,9 +629,11 @@ El Registro Público de la Propiedad y del Comercio del Estado y sus Delegacione
 
 Los propietarios o poseedores, en el caso de nuevas construcciones, deberán presentar a las autoridades catastrales municipales, dos ejemplares del plano o croquis que haya servido de base para la construcción. Esos documentos deberán expresarse en los términos y características técnicas que determine el Reglamento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 58.
 
-Las empresas y organismos que presten servicios públicos, fraccionadores, urbanizadores y constructores que hayan obtenido licencias o autorizaciones para modificar las características de la propiedad raíz o su entorno físico, además de cumplir con las disposiciones establecidas en esta Ley y su Reglamento, estarán obligados a declarar ante las autoridades catastrales municipales, dichas modificaciones en planos elaborados de acuerdo a las especificaciones técnicas que establezca la Dirección General de Catastro.
+las empresas y organismos que presten servicios públicos, fraccionadores, urbanizadores y constructores que hayan obtenido licencias o autorizaciones para modificar las características de la propiedad raíz o su entorno físico, además de cumplir con las disposiciones establecidas en esta Ley y su Reglamento, estarán obligados a declarar ante las autoridades catastrales municipales, dichas modificaciones en planos elaborados de acuerdo a las especificaciones técnicas que establezca la Dirección General del Instituto.
 
 Igual obligación tendrán las dependencias y entidades de la Federación, del Estado y de los Municipios, que lleven a cabo programas de vivienda a través de los cuales se asignen predios, por medio de órdenes de ocupación, contratos o cualquier acto jurídico que tenga por efecto la transmisión de la propiedad o posesión de los mismos.
 
@@ -589,9 +645,11 @@ Cuando en las declaraciones exigidas por esta Ley y su Reglamento no se expresen
 
 Recibidas las declaraciones de los propietarios o poseedores de predios, las autoridades catastrales municipales, formularán los avalúos correspondientes, para cuyo efecto, cotejará los datos contenidos en las declaraciones con los obtenidos directamente por las propias autoridades, incluyendo los obtenidos mediante visitas, inspecciones o verificaciones, en su caso.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 61.
 
-Cuando en las declaraciones a que hacen referencia los artículos precedentes, las dimensiones de un bien inmueble sean diferentes a las que aparezcan en el documento de propiedad o posesión, la Dirección General de Catastro o la Autoridad Catastral Municipal, podrá ordenar el deslinde catastral del bien inmueble a costa del interesado conforme a la Ley de Hacienda del Estado o la Ley de Hacienda de los Municipios, según proceda.
+Cuando en las declaraciones a que hacen referencia los artículos precedentes, las dimensiones de un bien Inmueble sean diferentes a las que aparezcan en el documento de propiedad o posesión, la Dirección General del Instituto o la Autoridad Catastral Municipal, podrá ordenar el deslinde catastral del bien inmueble a costa del interesado conforme a la Ley de Hacienda del Estado o la Ley de Hacienda de los Municipios, según proceda.
 
 ###### ARTÍCULO 62.
 
@@ -605,9 +663,11 @@ Los fraccionadores manifestarán mensualmente a las autoridades catastrales muni
 
 Para los fraccionamientos que se ejecuten sin la autorización correspondiente o cuando el fraccionador lleve a cabo alguna de las operaciones que impliquen la transmisión del dominio de los lotes que formen parte del fraccionamiento, sin haber obtenido la autorización para enajenarlos, la autoridad catastral inscribirá dichos lotes y hará la valuación respectiva con efecto a partir de la fecha de la primera operación conocida, con cargo al fraccionador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 64.
 
-Las autoridades catastrales municipales, informarán mensualmente a la Dirección General de Catastro sobre los registros contenidos en los padrones catastrales, e igualmente en un plazo similar los cambios que se produzcan en los mismos.
+las autoridades catastrales municipales, informarán mensualmente a la Dirección General del Instituto sobre los registros contenidos en los padrones catastrales, e igualmente en un plazo similar los cambios que se produzcan en los mismos
 
 A fin de mantener actualizado el Sistema Estatal de Información Catastral, las autoridades catastrales municipales enviarán copia de todos los nuevos documentos que se generen en relación a la propiedad inmobiliaria, así como la información cartográfica que dichas autoridades elaboren. Este flujo de información podrá ser por medios magnéticos o en material impreso, dependiendo de la capacidad técnica y económica del primero.
 
@@ -938,3 +998,39 @@ P.O. 20 DE JUNIO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
