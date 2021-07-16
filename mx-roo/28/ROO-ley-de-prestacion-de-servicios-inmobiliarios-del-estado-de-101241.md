@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-prestacion-de-servicios-inmobiliarios-del-estado-de-1012
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-06"
-last_updated: "2014-06-06"
+last_updated: "2021-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Número 54 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 06 de junio de 2014.
 
@@ -43,15 +43,19 @@ LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto, dar orden a la prestación de los Servicios Inmobiliarios en el Estado de Quintana Roo. Su aplicación compete al Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Urbano y Vivienda.
+Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto, dar orden a la prestación de los Servicios Inmobiliarios en el Estado de Quintana Roo. Su aplicación compete al Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Territorial Urbano Sustentable.
 
 ###### ARTÍCULO 2.
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Acreditación: El documento otorgado por la Secretaría de Desarrollo Urbano y Vivienda del Estado a las personas físicas o morales, que les faculta para prestar Servicios Inmobiliarios en el Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+I. Acreditación: El documento otorgado por la Secretaría de Desarrollo Territorial Urbano Sustentable a las personas físicas o morales, que les faculta para prestar Servicios Inmobiliarios en el Estado de Quintana Roo;
 
 II. Asociación Inmobiliaria: Toda asociación legalmente constituida, conformada por personas que presten Servicios Inmobiliarios en el Estado de Quintana Roo y cuyo objeto consiste entre otros en la formación, capacitación, actualización y protección de la actividad inmobiliaria en beneficio de los usuarios de esos servicios y de sus asociados;
 
@@ -63,7 +67,9 @@ V. Capacitación: Todos aquellos medios por los que el Asesor Inmobiliario adqui
 
 VI. Reglamento: El Reglamento de la Ley de Prestación de Servicios Inmobiliarios del Estado de Quintana Roo;
 
-VII. Secretaría: Secretaría de Desarrollo Urbano y Vivienda del Estado de Quintana Roo, y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+VII. Secretaría: Secretaría de Desarrollo Territorial Urbano Sustentable, y
 
 VIII. Usuarios: Las personas físicas o morales que contratan los servicios de un Asesor Inmobiliario, para realizar alguna de las actividades relativas a los Servicios que prestan.
 
@@ -444,3 +450,41 @@ LIC. FREYDA MARYBEL VILLEGAS CANCHÉ
 DIPUTADA SECRETARIA:
 
 PROFA. MARITZA ARACELLY MEDINA DÍAZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
