@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "2021-05-14"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -105,11 +105,17 @@ Son trabajadores de confianza:
 
 I.- En el Poder Legislativo:
 
-A).- El Oficial Mayor, los Directores, Subdirectores, Asesores, Jefe de Departamento, Jefes de Area, Secretarios y Secretarias Particulares, Privados o Auxiliares, Programadores, Auxiliares de Informática, Operadores del Sistema de Cómputo y Capturistas que operen con Datos Presupuestales, Financieros, Contables o Confidenciales, Cajeros, Pagadores y en general todos los trabajadores que manejen fondos o valores.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-B).- El Contador Mayor de Hacienda, los Subcontadores, los Directores y Subdirectores, los Jefes de Departamento, los Secretarios y Secretarias Privadas o Auxiliares, Asesores, Secretarias de los anteriores; los Jefes de Area, los Auditores, los Programadores, Auxiliares de Informática, Operadores del Sistema de Cómputo, Capturistas, que operen con datos Presupuestales, Financieros o Contables así como los Confidenciales, Cajeros, Pagadores y en general todos los trabajadores de la Contaduría Mayor de Hacienda que manejen fondos o valores y practiquen auditorías o participen directamente en ella.
+A).- El Secretario General, los Subsecretarios, los Directores, Subdirectores, Asesores, Secretarios Técnicos, Jefe de Departamento, Jefes de Área, Secretarios y Secretarias Particulares, Privados o Auxiliares, Programadores, Auxiliares de Informática, Operadores del Sistema de Cómputo y Capturistas que operen con Datos Presupuestales, Financieros, Contables o Confidenciales, Cajeros, Pagadores y en general todos los trabajadores que manejen fondos o valores.
 
-C).- Los que de acuerdo a la naturalez (sic) del trabajo desempeñado y sus funciones determine el nombramiento respectivo.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+B).- El titular de la Auditoría Superior del Estado, Auditores Especiales, los Subcontadores, los Directores y Subdirectores, los Jefes de Departamento, los Secretarios y Secretarias Privadas o Auxiliares, Asesores, Secretarias de los anteriores; los Jefes de Área, los Auditores, los Programadores, Auxiliares de Informática, Operadores del Sistema de Cómputo, Capturistas, que operen con datos Presupuestales, Financieros o Contables así como los Confidenciales, Cajeros, Pagadores y en general todos los trabajadores de la Auditoria Superior del Estado que manejen fondos o valores y practiquen auditorías o participen directamente en ella;
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+C).- Los que de acuerdo a la naturaleza del trabajo desempeñado y sus funciones determine el nombramiento respectivo.
 
 II.- En el Poder Ejecutivo:
 
@@ -117,19 +123,25 @@ A).- Los que integran la planta del Despacho del Ejecutivo y aquellos cuyo nombr
 
 B).- El personal de la Secretaría Particular del Ejecutivo del Estado.
 
-c).- Los Secretarios Estatales, los Subsecretarios, el Oficial Mayor, el Contralor, el Procurador General de Justicia y los Subprocuradores de Justicia.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+C).- Los Secretarios Estatales y los Subsecretarios.
 
 d).- Los Presidentes y Vocales Ejecutivos de Juntas, Consejos y Comisiones.
 
 e).- El personal de las Juntas y Tribunal Laboral y de la Procuraduría de la defensa del trabajo, con excepción de las Secretarias que no lo sean de los Presidentes o de los Procuradores, y el personal de Intendencia.
 
-F).- Agentes del Ministerio Público del Fuero Común, Secretarios del Ministerio Público, Peritos y todos los miembros de las diversas corporaciones policíacas y de tránsito.
+F).- (DEROGADO, P.O. 16 DE JULIO DE 2021)
 
 G).- El personal de los Centros de Readaptación Social, con excepción de las Secretarias que no lo sean del Director, Subdirectores y Jefes de Departamento, y el Personal de Intendencia.
 
-H).- Los Directores Generales, Directores, Subdirectores, Jefes de Departamento, Jefes de Area, los Auditores, Programadores, Auxiliares de Informática, Operadores del Sistema de Cómputo y Capturistas, que operen Datos Presupuestales, Contables, Financieros o Confidenciales, Oficiales del Registro Civil y del Registro Público de la Propiedad, Inspectores, Investigadores, Científicos, Asesores, Capitanes, Patrones o Sobrecargos de Embarcaciones, Draga o Aeronaves, Bodegueros, Almacenistas, Recaudadores de Rentas, Subrecaudadores de Rentas, Cajero, Pagadores y en general todos los trabajadores que manejen fondos o valores, los auditores y el personal que practique Auditoría o participe directamente en ella.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-i).- Los Secretarios y Secretarias Particulares, Privados o Auxiliares de los Secretarios de Estado, Subsecretarios, Oficial Mayor, Contralor, Procurador, Subprocuradores, Presidentes y Vocales Ejecutivos de Juntas, Comisiones y Consejos Directivos, Directores Generales, Directores, Subdirectores y Jefes de Departamento.
+H).- Los Directores Generales, Directores, Coordinadores, Subdirectores, Jefes de Departamento, Jefes de Área, los Auditores, Programadores, Auxiliares de Informática, Operadores del Sistema de Cómputo y Capturistas, que operen Datos Presupuestales, Contables, Financieros o Confidenciales, Oficiales del Registro Civil y del Registro Público de la Propiedad, Inspectores, Investigadores, Científicos, Asesores, Capitanes, Patrones o Sobrecargos de Embarcaciones, Draga o Aeronaves, Bodegueros, Almacenistas, Recaudadores de Rentas, Subrecaudadores de Rentas, Cajero, Pagadores y en general todos los trabajadores que manejen fondos o valores, los auditores y el personal que practique Auditoría o participe directamente en ella.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+I).- Los Secretarios y Secretarias Particulares, Privados o Auxiliares de los Secretarios de Estado y Subsecretarios, Procurador, Subprocuradores, Presidentes y Vocales Ejecutivos de Juntas, Comisiones y Consejos Directivos, Directores Generales, Directores, Coordinadores, Subdirectores y Jefes de Departamento.
 
 J).- Los que de acuerdo a la naturaleza del trabajo desempeñado y sus funciones determine el nombramiento respectivo.
 
@@ -1359,9 +1371,11 @@ Las demás autoridades del Estado, estarán obligadas a prestar auxilio al Tribu
 
 El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta de tres mil pesos.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 156.
 
-Las multas se harán efectivas por la Secretaría de Finanzas del Gobierno del Estado, para lo cual el Tribunal girará el oficio correspondiente. La Secretaría de Finanzas informará al Tribunal de haber hecho efectiva la multa, especificando los datos relativos que acrediten su cobro.
+Las multas se harán efectivas por la Secretaría de Finanzas y Planeación, para lo cual el Tribunal girará el oficio correspondiente. La Secretaría de Finanzas y Planeación informará al Tribunal de haber hecho efectiva la multa, especificando los datos relativos que acrediten su cobro.
 
 ###### ARTICULO 157.
 
@@ -1393,7 +1407,9 @@ II.- Multa que no podrá exceder de quinientas veces el salario mínimo.
 
 III.- Suspensión del empleado con privación de sueldo hasta por siete días.
 
-Las multas se turnarán a la secretaría de finanzas para el procedimiento económico-coactivo correspondiente, debiendo esta Dependencia, turnar copia al Tribunal de la imposición del crédito fiscal respectivo.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+Las multas se turnarán a la Secretaría de Finanzas y Planeación para el procedimiento económico-coactivo correspondiente, debiendo esta Dependencia, turnar copia al Tribunal de la imposición del crédito fiscal respectivo.
 
 ###### ARTICULO 161.
 
@@ -1592,3 +1608,39 @@ P.O. 14 DE MAYO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero del año 2022, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “PROMULGACIÓN DEL DECRETO 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación ya la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTICULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTICULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaria de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaria de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
