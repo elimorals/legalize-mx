@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-presupuesto-y-gasto-publico-del-estado-de-quintana-16457
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-16"
-last_updated: "2016-11-03"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PRESUPUESTO Y GASTO PÚBLICO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial el 16 de diciembre de 1993.
 
@@ -447,11 +447,11 @@ Los entes públicos deberán revelar en la cuenta pública y en los informes que
 
 El Gobernador del Estado estará facultado para emitir los acuerdos que correspondan a las transferencias de gasto dentro de los importes aprobados, en el caso de que las partidas presupuestales requieran durante su ejercicio que se adecuen sus disposiciones a través de ampliaciones automáticas.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 39.
 
-Para el caso de los nombramientos de personal, estos serán canalizados por conducto de la Oficialía Mayor, previo acuerdo con el Ejecutivo Estatal y la Secretaría de Finanzas y Planeación. Todas la (sic) demás ministraciones y pagos que afecten el presupuesto de egresos, serán autorizados por esta última.
+Para el caso de los nombramientos de personal, estos serán canalizados por conducto de la Secretaría de Finanzas y Planeación, previo acuerdo con el Ejecutivo Estatal. Todas las demás ministraciones y pagos que afecten el presupuesto de egresos, serán autorizados por esta última.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -513,11 +513,11 @@ El Ejecutivo del Estado por conducto de la Secretaría de Finanzas y Planeación
 
 Queda facultada la Secretaría de Finanzas y Planeación para dictar las normas que deben observar el personal del Poder Ejecutivo que realizan gastos públicos, a efecto de garantizar su correcto ejercicio.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 50.
 
-Salvo lo previsto en las leyes, el Ejecutivo del Estado por conducto de la Oficialía Mayor, determinará en forma expresa y general cuando procederá aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de los entes públicos que correspondan, sin perjuicio del estricto cumplimiento de las tareas, horarios y hornadas (sic) de trabajo. En todo caso los interesados podrán optar por empleo o comisión que les convenga. En los casos que exista incompatibilidad en el desempeño de dos o más empleos o comisiones, la Oficialía Mayor notificará a la Secretaría de Finanzas y Planeación dicha irregularidad para que se suspenda el pago correspondiente y se finque (sic) en su caso las responsabilidades que procedan.
+Salvo lo previsto en las leyes, el Ejecutivo del Estado por conducto de la Secretaría de Finanzas y Planeación, determinará en forma expresa y general cuando procederá aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de los entes públicos que correspondan, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo. En todo caso los interesados podrán optar por (sic) empleo o comisión que les convenga. En los casos que exista incompatibilidad en el desempeño de dos o más empleos o comisiones, la Secretaría de Finanzas y Planeación suspenderá el pago correspondiente y fincará en su caso las responsabilidades que procedan.
 
 ###### ARTICULO 51.
 
@@ -539,15 +539,17 @@ Cuando algún funcionario o empleado perteneciente a las entidades a que se refi
 
 Quienes efectúen gasto público en el Poder Ejecutivo del Estado, estarán obligados a proporcionar a la Secretaría de Finanzas y Planeación la información que se les solicite, y permitirle a su personal, la práctica de visitas para la comprobación del cumplimiento de las obligaciones derivadas de esta ley y de las disposiciones expedidas con base en ella.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 54.
 
-La Secretaría de la Gestión Pública del Estado estará facultada para realizar inspecciones, auditorías y evaluaciones así como para contratar auditores y asesoría técnica para investigar a las dependencias del Ejecutivo, y a los entes públicos señalados en las fracciones IV, V y VI del artículo 6 de esta Ley, con el objeto de verificar la evaluación y el cumplimiento de los programas así como para proveer lo necesario en los casos de incumplimiento de los mismos.
+La Secretaría de (sic) Contraloría estará facultada para realizar inspecciones, auditorías y evaluaciones, así como para contratar auditores y asesoría técnica para investigar a las dependencias del Ejecutivo, y a los entes públicos señalados en las fracciones IV, V y VI del artículo 6 de esta Ley, con el objeto de verificar la evaluación y el cumplimiento de los programas, así como para proveer lo necesario en los casos de incumplimiento de los mismos.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 55.
 
-Para la ejecución del gasto público del Estado, las entidades deberán de sujetarse a las previsioes (sic) de esta ley y observarán las disposiciones que al efecto expida la secretaría de Finanzas.
+Para la ejecución del gasto público del Estado, las entidades deberán de sujetarse a las previsiones de esta ley y observarán las disposiciones que al efecto expida la Secretaría de Finanzas y Planeación.
 
 > <small>(DEROGADO, P.O. 20 DE JUNIO DE 2012)</small>
 
@@ -589,7 +591,9 @@ Para la ejecución del gasto público del Estado, las entidades deberán de suje
 
 La evaluación deberá tender a medir el desempeño de los programas y recursos empleados, en términos de eficiencia y eficacia, economía y calidad, desde el punto de vista cuantitativo y cualitativo a fin de apoyar la operación del presupuesto basado en resultados.
 
-Para lograr los objetivos de la evaluación del desempeño de los programas gubernamentales, la Secretaría de Finanzas y Planeación, mediante coordinación del Instituto de Evaluación del Desempeño y con apoyo de la Secretaría de la Gestión Pública del Estado, ejecutará un programa anual de evaluación.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+Para lograr los objetivos de la evaluación del desempeño de los programas gubernamentales, la Secretaría de Finanzas y Planeación, mediante coordinación del Instituto de Evaluación del Desempeño y con apoyo de la Secretaría de la Contraloría, ejecutará un programa anual de evaluación.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -625,19 +629,19 @@ Además, enviarán la información que les sea solicitada dependiendo de la impo
 
 En los casos en que los entes públicos no proporcionen la información solicitada por los medios establecidos, la Secretaría de Finanzas y Planeación tendrá la facultad de obtener dicha información en los términos del artículo 53 de esta ley, y podrá solicitar la intervención de la Secretaría de la Gestión Pública del Estado en los términos del artículo 54 de la misma.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 70.
 
-La Secretaría de Finanzas y Planeación, queda facultada para suspender la asignación de los egresos autorizados a los programas, cuando no se proporcione la información que solicite en los términos del artículo 68 de esta ley o cuando por conducto de (sic) Secretaría de la Gestión Pública del Estado se detecten desviaciones en la (sic) metas o en el destino del gasto.
+La Secretaría de Finanzas y Planeación, queda facultada para suspender la asignación de los egresos autorizados a los programas, cuando no se proporcione la información que solicite en los términos del artículo 68 de esta ley o cuando por conducto de la Secretaría de la Contraloría se detecten desviaciones en las metas o en el destino del gasto.
 
 ### CAPITULO VI. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 71.
 
-La Secretaría de la Gestión Pública del Estado dictará las medidas administrativas sobre las responsabilidades que afecten a la Hacienda Pública del Estado, así como las que se deriven del incumplimiento de las disposiciones contenidas en esta Ley y de la que se hayan expedido con base a ello, y que se descubran con motivo de las visitas, auditorias o investigaciones que realice.
+La Secretaría de la Contraloría dictará las medidas administrativas sobre las responsabilidades que afecten a la Hacienda Pública del Estado, así como las que se deriven del incumplimiento de las disposiciones contenidas en esta Ley y de la que se hayan expedido con base a ello, y que se descubran con motivo de las visitas, auditorías o investigaciones que realice.
 
 ###### ARTICULO 72.
 
@@ -649,11 +653,13 @@ Son solidariamente responsables con los funcionarios y demás personal a que se 
 
 Las responsabilidades que se constituyan, tendrán por objeto indemnizar por los daños y perjuicios que ocasionen en la Hacienda Pública del Estado o en los entes públicos que realizan gasto público del Estado, las que se fijarán por la Secretaría de Finanzas y Planeación en cantidad líquida, misma que se exigirá se cubra sin perjuicio de que en un caso se hagan efectivas a través de procedimientos administrativos de ejecución.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 73.
 
-La Secretaría de la Gestión Pública del Estado podrá dispensar de las responsabilidades en que se incurra, siempre que los hechos que los constituyan no revistan un carácter delictuoso, ni se deban a culpa grave o descuido notorio del responsable, y, que los daños causados no excedan de cien veces del valor de la Unidad de Medida y Actualización.
+La Secretaría de la Contraloría podrá dispensar de las responsabilidades en que se incurra, siempre que los hechos que los constituyan no revistan un carácter delictuoso, ni se deban a culpa grave o descuido notorio del responsable, y, que los daños causados no excedan de cien veces del valor de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
 La propia Secretaría de Finanzas y Planeación podrá cancelar los créditos derivados del fincamiento de las responsabilidades citadas en el párrafo anterior, por incosteabilidad práctica de cobro. En los demás casos se propondrá su cancelación a la Cámara de Diputados al rendirse la cuenta anual correspondiente, previa fundamentación.
 
@@ -760,3 +766,39 @@ OCTAVO. Los Ingresos excedentes derivados de Ingresos de libre disposición a qu
 En lo correspondiente al penúltimo párrafo del apartado B del artículo 35 de la presente Ley, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
 
 NOVENO. Las menciones que se hagan a la Ley de Presupuesto, Contabilidad y Gasto Público del Estado (sic) Quintana Roo en las Leyes, reglamentos, decretos y cualquier disposición administrativa, así como en contratos, convenios y cualquier instrumento jurídico se entenderán referidas a la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
