@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2019-09-13"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -111,6 +111,18 @@ El Gobernador del Estado expedirá los reglamentos interiores, los acuerdos, cir
 
 Es facultad exclusiva del Gobernador del Estado, nombrar y remover libremente a los Titulares de la Administración Pública Centralizada y Paraestatal, y demás servidores públicos del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado Libre y Soberano de Quintana Roo o en las leyes del Estado.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2021)</small>
+
+Durante las ausencias temporales de los servidores públicos a los que se refiere el párrafo anterior, estos serán suplidos de conformidad a lo que disponga el reglamento interno de la dependencia de la Administración Pública que corresponda, o en su defecto, mediante nombramiento directo, que expida el titular del Poder Ejecutivo, a favor del servidor público suplente, bajo la figura de encargado de despacho, el cual deberá cumplir con los requisitos aplicables para la persona titular, y podrá durar en su encargo por un periodo de hasta 60 días naturales.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2021)</small>
+
+En el caso de que la persona titular de la dependencia de la Administración Pública, no se reintegre a sus funciones y haya fenecido el periodo para el encargado de despacho, el titular del poder ejecutivo deberá designar una nueva persona titular.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2021)</small>
+
+Para efectos del párrafo anterior, quienes ocupen provisionalmente dichos cargos, invariablemente, deberán cumplir con los requisitos legales aplicables.
+
 ###### ARTÍCULO 14.
 
 Las dependencias y entidades de la Administración Pública del Estado a que se refiere la presente Ley, deberán conducir sus actividades de acuerdo con los planes, programas, políticas presupuestales y medidas de simplificación administrativa y desregulación, que se aprueben en el marco del Sistema Estatal de Planeación del Estado, conforme a la legislación aplicable.
@@ -187,7 +199,7 @@ XII. Secretaría de Turismo;
 
 XIII. Secretaría de la Contraloría.
 
-XIV. Oficialía Mayor;
+XIV. (DEROGADA, P.O. 16 DE JULIO DE 2021)
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
@@ -263,9 +275,11 @@ Corresponde a los titulares de las dependencias en sus respectivos ramos, vigila
 
 Los titulares de las dependencias de la Administración Pública Estatal, ampliarán y precisarán en sus respectivos ramos el informe que anualmente rinda el Titular del Poder Ejecutivo ante la Legislatura del Estado, bajo el procedimiento que determine este órgano colegiado. Asimismo, a solicitud de esta propia instancia legislativa o de sus comisiones les informarán en forma escrita o mediante comparecencia en los casos en que se discuta una ley o se estudie un negocio concerniente a sus actividades. Estas obligaciones serán extensivas a los titulares o responsables de las entidades de la administración pública paraestatal.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 29.
 
-En el proceso de entrega y recepción, los titulares de las dependencias mencionadas en esta Ley, con la intervención de la Secretaría de la Gestión Pública, de la Oficialía Mayor y de la Auditoría Superior del Estado, entregarán los asuntos de su competencia, así como los recursos que les hayan sido asignados, conforme a la legislación y normatividad aplicable a la materia.
+En el proceso de entrega y recepción, los titulares de las dependencias mencionadas en esta Ley, con la intervención de la Secretaría de la Contraloría, de la Secretaría de Finanzas y Planeación y de la Auditoría Superior del Estado, entregarán los asuntos de su competencia, así como los recursos que les hayan sido asignados, conforme a la legislación y normatividad aplicable a la materia.
 
 > <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -441,9 +455,9 @@ VII. Dar seguimiento a la ejecución de los programas de desarrollo social que s
 
 VIII. Promover mecanismos tendientes a garantizar que los recursos públicos destinados a los programas sociales, se apliquen prioritariamente a los municipios con mayor índice de vulnerabilidad;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-IX. Regular y supervisar, en coordinación con la Secretaría de Finanzas y Planeación con la Secretaría de la Gestión Pública, que los subsidios y las transferencias de fondos, provenientes del Ejecutivo del Estado a favor de instituciones de los sectores social y privado, se vinculen con los objetivos establecidos en el Plan y los programas de desarrollo del Estado;
+IX. Regular y supervisar, en coordinación con la Secretaría de Finanzas y Planeación, y con la Secretaría de la Contraloría, que los subsidios y las transferencias de fondos, provenientes del Ejecutivo del Estado a favor de instituciones de los sectores social y privado, se vinculen con los objetivos establecidos en el Plan y los programas de desarrollo del Estado;
 
 X. Coordinar y concertar de manera conjunta con las dependencias y entidades de la Administración Pública Estatal, programas especiales para los sectores sociales más vulnerables, con la finalidad de elevar el nivel de vida de la población;
 
@@ -519,9 +533,9 @@ XXXI. Las demás que le encomienden expresamente las Leyes y Reglamentos.
 
 A la Secretaría de Finanzas y Planeación corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-l. Conducir la política hacendaria del Estado en materias de administración tributaria, planeación, ingresos, gasto público, procuración fiscal, disciplina financiera y responsabilidad hacendaria, en los términos de la legislación aplicable y las políticas del Titular del Poder Ejecutivo del Estado; asimismo, ejercer el presupuesto de egresos en los términos de la legislación respectiva, considerando la participación de la Oficialía Mayor en lo que se refiere al Gasto Corriente;
+I. Conducir la política hacendaria del Estado en materias de administración tributaria, planeación, ingresos, gasto público, procuración fiscal, disciplina financiera y responsabilidad hacendaria, en los términos de la legislación aplicable y las políticas del Titular del Poder Ejecutivo del Estado; asimismo, ejercer el presupuesto de egresos en los términos de la legislación respectiva;
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -605,9 +619,81 @@ XXXIV. (DEROGADA, P.O. 19 DE JULIO DE 2017)
 
 XXXV. Elaborar la estimación del impacto presupuestario de las iniciativas de ley o decretos que se presenten ante la Legislatura del Estado y realizar las estimaciones sobre el impacto presupuestario de las disposiciones administrativas que impliquen costos para su implementación; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2021)</small>
 
-XXXVI. Las demás que le encomienden expresamente las leyes y reglamentos.
+XXXVI. Establecer y difundir las normas, políticas, sistemas, funciones, programas y procedimientos vinculados con la administración de los recursos humanos, materiales y de los servicios generales que deberán aplicar las dependencias y entidades de la Administración Pública del Estado, para el manejo de sus recursos, y servicios de acuerdo con los programas y presupuestos a cargo de las mismas y en cumplimiento de los acuerdos de desconcentración que se establezcan bajo las directrices del Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XXXVII. Emitir las normas y lineamientos que permitan la pronta y eficiente desconcentración de sistemas y procedimientos, vinculados con la administración de los recursos precitados en la fracción XXXVI, hacia las dependencias y entidades de la Administración Pública del Estado, asegurando su adecuado control bajo criterios de austeridad, racionalidad y transparencia en la administración del gasto corriente;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XXXVIII. Proporcionar los servicios de administración, en coordinación con aquellas dependencias que tengan unidades administrativas y de representación regional, para que cumplan sus objetivos bajo criterios de eficiencia, productividad y ahorro en el gasto público que propicie mayor cercanía y mejor calidad de servicios a la población;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XXXIX. Instrumentar los mecanismos de coordinación con las diversas unidades administrativas de las dependencias y entidades de la Administración Pública del Estado, procurando transferirles la operación en la administración de los recursos y servicios, proporcionándoles la asistencia y apoyo que requieran para el desarrollo de sus funciones;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XL. Participar en los programas y acciones que en materia de descentralización celebre el Gobierno del Estado con la Federación, para el desarrollo administrativo de los servicios a cargo de sus Dependencias y Entidades;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XLI. Regular y contratar al personal de la Administración Pública del Estado; así como tramitar y registrar en coordinación con la dependencia correspondiente, los nombramientos, promociones, licencias, jubilaciones y pensiones de los servidores públicos; así como vigilar el cumplimiento de las disposiciones legales estatutarias que rijan las relaciones con dichos trabajadores;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XLII. Normar y emitir los criterios y lineamientos sobre el reclutamiento, selección, contratación, inducción y baja de los servidores públicos, elaborar y actualizar el escalafón, así como programar los estímulos y recompensas para los trabajadores de las dependencias y entidades de la Administración Pública Estatal, conforme a las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XLIII. Normar y controlar los procesos para la proveeduría de los bienes y servicios que requiera la Administración Pública Estatal para el cumplimiento de sus objetivos bajo un esquema de desconcentración y adecuada supervisión. Asimismo, fijar, regular y emitir, en coordinación con la Secretaría de la Contraloría, los criterios y lineamientos en materia de adquisiciones, arrendamientos, suministro, registro, almacenamiento y mantenimiento de bienes y servicios, materiales logísticos e informáticos necesarios para el cumplimiento de los objetivos de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XLIV. Normar y difundir el sistema de control de almacenes generales y de inventarios de los bienes muebles que sean patrimonio del Estado, así como establecer los lineamientos y procedimientos para su control, vigilancia, baja y destino final;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XLV. Elaborar, controlar y mantener actualizado el inventario de los bienes muebles propiedad del Estado, conforme a lo previsto en el artículo 60 de la Ley del Patrimonio del Estado de Quintana Roo, así como administrar y asegurar la conservación y mantenimiento de los mismos;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XLVI. Establecer las políticas, normas, sistemas y procedimientos para la proyección, integración y funcionamiento del Sistema de Servicio Civil de Carrera en la Administración Pública del Estado;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XLVII. Administrar y regular el Centro de Transporte Aéreo y los Servicios Regionales de Administración;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XLVIII. Organizar en colaboración con las dependencias y entidades del Estado, y los sectores social y privado, los actos cívicos en la entidad;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XLIX. Coadyuvar con las Dependencias competentes en el proceso de modernización administrativa estatal, así como participar en las acciones tendientes a la racionalidad y modernización de las políticas, normas, sistemas, estructuras, funciones, recursos, servicios y sectores que integran, regulan o determinan la organización y funcionamiento de la administración pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+L. Establecer las normas, políticas y lineamientos para regular la organización, operación y desarrollo de los programas o sistemas para la profesionalización de los servidores públicos de las Dependencias y Entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+LI. Coordinar la prestación del servicio social en las dependencias y órganos administrativos desconcentrados de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+LII. Establecer los criterios y lineamientos para regular la elaboración de las estructuras orgánicas y organigramas de las dependencias y entidades de la Administración Pública Estatal, y emitir la autorización correspondiente previo análisis de la Comisión Técnica para la revisión, evaluación y dictaminación de estructuras orgánicas y organigramas;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+LIII. Normar, administrar y mantener actualizado el padrón de proveedores de bienes y servicios del Gobierno del Estado en términos de lo previsto en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles del Estado de Quintana Roo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
+
+LIV. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -645,7 +731,9 @@ IX. Determinar en los períodos que señalen las disposiciones legales, las cara
 
 X. Establecer y vigilar el cumplimiento de los programas relacionados con las reservas territoriales en el Estado, con la participación que corresponda a los organismos descentralizados especializados en la materia;
 
-XI. Expedir las licencias, constancias y autorizaciones en materia de fraccionamientos, desarrollo urbano y asentamientos humanos; así como, otorgar las escrituras públicas y los títulos de propiedad sobre los predios que regularice o enajene de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XI. Otorgar los Dictámenes en materia de Impacto Territorial, de Verificación de Congruencia, así como las Constancias de Compatibilidad Territorial en su caso, de conformidad con las disposiciones legales aplicables; así como otorgar las escrituras públicas y los títulos de propiedad sobre los predios que enajene, comercialice o que regularice en todo o en parte de conformidad con las disposiciones legales aplicables;
 
 XII. Elaborar los anteproyectos de decretos de expropiación, ocupación temporal y limitación de dominio, en los casos de utilidad pública en materia de desarrollo urbano y promoverlos para su aprobación y posterior promulgación ante la Secretaría de Gobierno;
 
@@ -671,9 +759,9 @@ XX. Promover, formular y presentar de manera coordinada con la Secretaría de De
 
 XXI. Supervisar y vigilar de manera coordinada con la Secretaría de Ecología y Medio Ambiente, que la preservación ecológica constituya una línea conductora de la programación del desarrollo urbano y regional;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-XXII. Instrumentar, coordinar y promover la Política y el Programa Estatal de Vivienda, con la participación que corresponda al organismo descentralizado especializado en la materia.
+XXII. Instrumentar, coordinar y promover la Política y el Programa Estatal de Vivienda;
 
 XXIII. Constituir, adquirir y promover, en su caso, la desincorporación de reservas territoriales y de suelo apto para vivienda, en coordinación con los gobiernos Federal y Municipales, y con otras dependencias y entidades de la Administración Pública Estatal;
 
@@ -691,7 +779,9 @@ XXVIII. Convenir con el Gobierno Federal y en su caso, con los Ayuntamientos la 
 
 XXIX. Promover en congruencia con el programa de desarrollo urbano aplicable, la desincorporación de porciones de tierra o predios de la reserva territorial, para que pasen a formar parte del área de expansión del centro de población correspondiente;
 
-XXX. Fomentar la construcción y comercialización, en su caso, de lotes con servicios, obras de equipamiento urbano, viviendas y fraccionamientos de interés social, para su venta o renta a personas que carezcan de vivienda, y cuya capacidad económica no les permita adquirirla;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XXX. Fomentar la construcción y comercialización, en su caso, de lotes con servicios, obras de equipamiento y acciones urbanísticas de vivienda social o producción social de vivienda, para su venta o renta a personas que carezcan de vivienda, y cuya capacidad económica no les permita adquirirla;
 
 XXXI. (DEROGADA, P.O. 19 DE JULIO DE 2017)
 
@@ -737,9 +827,13 @@ XLI. Coordinar con el Instituto de Movilidad, sin perjuicio de la competencia Mu
 
 XLII. Establecer y vigilar el cumplimiento de los programas relacionados con la movilidad en el Estado, coordinando y supervisando bajo su adscripción los servicios que presta (sic) Instituto de Movilidad del Estado de Quintana Roo, que tiene como fin el desarrollo de actividades empresariales, económicas, industriales y comerciales en términos de su objeto, generando valor económico y rentabilidad para el Estado de Quintana Roo como su propietario, así como actuar de manera transparente, honesta, eficiente, con sentido de equidad y responsabilidad social y ambiental, y procurar el mejoramiento de la productividad para maximizar la renta de los Transportes Públicos Concesionados del Estado por ser área estratégica en el Estado de Quintana Roo y contribuir con ello al desarrollo Estatal, asegurando en ellos los principios de certeza y seguridad jurídica, así como la correcta y adecuada distribución y prestación no solo de los servicios de transportes públicos sino fomentando los transportes al público en toda la geografía del Estado de Quintana Roo, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2021)</small>
 
-XLIII. Las demás que le encomienden expresamente las leyes y reglamentos.
+XLIII. Comercializar los predios que administre, teniendo la facultad de vender, permutar, o realizar cualquier acto o contrato traslativo de dominio sobre los mismos a favor de terceros, únicamente para el cumplimiento de sus obligaciones, facultades y atribuciones, atendiendo a las disposiciones contenidas en la Ley del Patrimonio del Estado de Quintana Roo, así como las demás que resulten aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
+
+XLIV. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
@@ -853,7 +947,9 @@ XVIII. Formular, actualizar, ejecutar y hacer valer el Programa de Ordenamiento 
 
 XIX. Regular y fomentar, en coordinación con la Secretaría de Desarrollo Territorial Urbano Sustentable, las actividades de minimización, recolección, tratamiento y disposición final de desechos sólidos, establecer los sitios destinados a la disposición final, restaurar sitios contaminados, así como definir los sistemas de reciclamiento y tratamiento de aguas residuales y residuos sólidos.
 
-XX. Promover y fomentar el desarrollo y uso de energías, tecnologías y combustibles alternativos, así como la investigación ambiental;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XX. Promover, fomentar y evaluar la política estatal respecto del desarrollo y uso de energías, tecnologías y combustibles alternativos, así como la investigación ambiental;
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -927,9 +1023,21 @@ XL. Revisar y autorizar los programas de planes de manejo de residuos sólidos d
 
 XLI. Vigilar el cumplimiento de las leyes, reglamentos, normas oficiales y convenios relacionados con la biodiversidad del Estado, para su correcta aplicación; y
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2021)</small>
 
-XLII. Las demás que le encomienden expresamente las leyes y reglamentos.
+XLII. Formular, instrumentar, conducir y evaluar las políticas y programas estatales en materia de uso eficiente de energía y el fomento del aprovechamiento de energías renovables, así como formular programas de operación, inversión y financiamiento en la materia;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XLIII. Promover el establecimiento de instrumentos de apoyo para la eficiencia y suficiencia energética, así como promover el desarrollo tecnológico para el uso de energías renovables como factor de sostenibilidad;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XLIV. Suscribir convenios de coordinación para el uso eficiente de energías, así como para coordinar la aplicación de energías renovables con las diversas dependencias y municipios del estado, así como con las entidades de la administración pública federal.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
+
+XLV. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTÍCULO 37.
 
@@ -939,7 +1047,7 @@ A la Secretaría de Desarrollo Económico corresponde el despacho de los siguien
 
 I. Formular, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción, fomento económico y competitividad, en materia industrial, minera de comercio exterior e interior, abasto servicios, artesanías, inversión público-privada, innovación y tecnología, desregulación económica, así como participar en lo relativo a la industrialización agropecuaria y forestal, con base en las disposiciones constitucionales y legales aplicables y las normas y lineamientos que determine el Gobernador del Estado en vinculación con el Sistema Estatal de Planeación, y ejercer por delegación del Ejecutivo del Estado, las atribuciones y funciones que en esas materias contengan los convenios suscritos entre las Administraciones Públicas Federal, Estatal y Municipal;
 
-II. Formular, instrumentar, conducir y evaluar las políticas y programas estatales en materia de uso eficiente de energía y el fomento del aprovechamiento de energías renovables, así como formular programas de operación, inversión y financiamiento en la materia;
+II. (DEROGADA, P.O. 16 DE JULIO DE 2021)
 
 III. Planear, ejecutar y coordinar las políticas y acciones de fomento para la competitividad de las empresas del Estado;
 
@@ -995,7 +1103,7 @@ XXIII. Promover la creación de centros de abasto y comercio, parques y corredor
 
 XXIV. Promover y fomentar acciones, programas y estudios que faciliten el abastecimiento, industrialización, distribución y comercialización de productos básicos agroindustriales, forestales, artesanales y en general lo producido en el Estado;
 
-XXV. Promover el establecimiento de instrumentos de apoyo para la eficiencia y suficiencia energética así como promover el desarrollo tecnológico para el uso de energías renovables como factor de competitividad;
+XXV. (DEROGADA, P.O. 16 DE JULIO DE 2021)
 
 XXVI. Planear y establecer, en coordinación con las Dependencias y Entidades de la Administración Pública, la expansión, mejoramiento y tecnificación de los programas relacionados con el desarrollo agroindustrial;
 
@@ -1501,7 +1609,9 @@ XII.- Promover la transparencia en la elaboración y aplicación de las regulaci
 
 XIII.- Promover, ante las dependencias y entidades paraestatales de la administración pública del Estado, los mecanismos para informar a la población de los trámites y servicios que prestan.
 
-XIV.- Revisar y emitir, dentro del ámbito de su competencia, las observaciones y recomendaciones de los proyectos de iniciativas de leyes, reglamentos, acuerdos y demás normas legales y administrativas que formulen las dependencias y entidades paraestatales de la administración pública del Estado, previo a su trámite y expedición.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XIV.- Revisar y emitir, dentro del ámbito de su competencia, las observaciones y recomendaciones con carácter preventivo, de los proyectos de iniciativas de leyes, reglamentos, acuerdos y demás normas legales y administrativas que formulen las dependencias y entidades paraestatales de la administración pública del Estado, previo a su trámite y expedición;
 
 XV.- Registrar, designar y remover a los auditores externos que realizarán las auditorías, en las dependencias, órganos administrativos desconcentrados, entidades paraestatales de la administración pública del Estado, y en los demás fondos que ejercen recursos públicos, así como normar, evaluar y controlar su desempeño.
 
@@ -1513,7 +1623,9 @@ XVIII.- Registrar en el ámbito del Poder Ejecutivo del Estado, el padrón de lo
 
 XIX.- Promover e impulsar la participación y corresponsabilidad ciudadana a través de acciones de contraloría social en las tareas de vigilancia y evaluación de los recursos públicos.
 
-XX.- Recibir y dar trámite a las quejas, denuncias y sugerencias respecto de los trámites y servicios o por actos, omisiones o conductas de los servidores públicos de la administración pública del Estado en el ejercicio de sus funciones, en los plazos y términos del Reglamento Interior de la Secretaría encargada del control interno del Poder Ejecutivo Estatal. En todo momento, se deberá garantizar la protección del denunciante.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XX. Recibir y dar trámite a las quejas, denuncias y sugerencias respecto de los trámites y servicios o por actos, omisiones o conductas de los servidores públicos de la administración pública del Estado en el ejercicio de sus funciones, garantizando la protección del denunciante a través de los mecanismos señalados en la Ley;
 
 XXI.- Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades paraestatales de la administración pública del Estado, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes.
 
@@ -1617,51 +1729,7 @@ Conforme a lo dispuesto en las leyes en la materia, así como en las bases y pri
 
 ###### ARTÍCULO 44.
 
-A la Oficialía Mayor corresponde el despacho de los siguientes asuntos:
-
-I. Establecer y difundir las normas, políticas, sistemas, funciones, programas y procedimientos vinculados con la administración de los recursos humanos, materiales y de los servicios generales que deberán aplicar las dependencias y entidades de la Administración Pública del Estado, para el manejo de sus recursos y servicios, de acuerdo con los programas y presupuestos a cargo de las mismas y en cumplimiento de los acuerdos de desconcentración que se establezcan bajo las directrices del Ejecutivo del Estado;
-
-II. Emitir las normas y lineamientos que permitan la pronta y eficiente desconcentración de sistemas y procedimientos, vinculados con la administración de los recursos precitados, hacia las dependencias y entidades de la Administración Pública del Estado, asegurando su adecuado control bajo criterios de austeridad, racionalidad y transparencia en la administración del gasto corriente;
-
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
-
-III. Proporcionar los servicios de administración, en coordinación con aquellas dependencias que tengan unidades administrativas y de representación regional, para que cumplan sus objetivos bajo criterios de eficiencia, productividad y ahorro en el gasto público que propicie mayor cercanía y mejor calidad de servicios a la población;
-
-IV. Instrumentar los mecanismos de coordinación con las diversas unidades administrativas de las dependencias y entidades de la Administración Pública del Estado, procurando transferirles la operación en la administración de los recursos y servicios, proporcionándoles la asistencia y apoyo que requieran para el desarrollo de sus funciones;
-
-V. Participar en los programas y acciones que en materia de descentralización celebre el Gobierno del Estado con la Federación, para el desarrollo administrativo de los servicios a cargo de sus Dependencias y Entidades;
-
-VI. Regular y contratar al personal de la Administración Pública del Estado; así como tramitar y registrar en coordinación con la dependencia correspondiente, los nombramientos, promociones, licencias, jubilaciones y pensiones de los servidores públicos; así como vigilar el cumplimiento de las disposiciones legales estatutarias que rijan las relaciones con dichos trabajadores;
-
-VII. Normar y emitir los criterios y lineamientos sobre el reclutamiento, selección, contratación, inducción y baja de los servidores públicos, elaborar y actualizar el escalafón, así como programar los estímulos y recompensas para los trabajadores de las dependencias y entidades de la Administración Pública Estatal, conforme a las disposiciones aplicables;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
-VIII. Normar y controlar los procesos para la proveeduría de los bienes y servicios que requiera la Administración Pública Estatal para el cumplimiento de sus objetivos bajo un esquema de desconcentración y adecuada supervisión. Asimismo fijar, regular y emitir, en coordinación con las Secretarías de la Gestión Pública y de Finanzas y Planeación, los criterios y lineamientos en materia de adquisiciones, arrendamientos, suministro, registro, almacenamiento y mantenimiento de bienes y servicios, materiales logísticos e informáticos necesarios para el cumplimiento de los objetivos de la Administración Pública Estatal;
-
-IX. Normar y difundir el sistema de control de almacenes generales y de inventarios de los bienes muebles que sean patrimonio del Estado, así como establecer los lineamientos y procedimientos para su control, vigilancia, baja y destino final;
-
-X. Elaborar, controlar y mantener actualizado el inventario de los bienes muebles propiedad del Estado, conforme a lo previsto en el artículo 60 de la Ley del Patrimonio del Estado de Quintana Roo, así como administrar y asegurar la conservación y mantenimiento de los mismos;
-
-XI. Establecer las políticas, normas, sistemas y procedimientos para la proyección, integración y funcionamiento del Sistema de Servicio Civil de Carrera en la Administración Pública del Estado;
-
-XII. Administrar y regular el Centro de Transporte Aéreo y los Servicios Regionales de Administración;
-
-XIII. Organizar en colaboración con las dependencias y entidades del Estado, y los sectores social y privado, los actos cívicos en la entidad;
-
-XIV. (DEROGADA, P.O. 23 DE JUNIO DE 2017)
-
-XV. Coadyuvar con las Dependencias competentes en el proceso de modernización administrativa estatal, así como participar en las acciones tendientes a la racionalidad y modernización de las políticas, normas, sistemas, estructuras, funciones, recursos, servicios y sectores que integran, regulan o determinan la organización y funcionamiento de la administración pública del Estado de Quintana Roo;
-
-XVI. Establecer las normas, políticas y lineamientos para regular la organización, operación y desarrollo de los programas o sistemas para la profesionalización de los servidores públicos de las Dependencias y Entidades de la Administración Pública Estatal;
-
-XVII. Coordinar la prestación del servicio social en las dependencias y órganos administrativos desconcentrados de la Administración Pública Estatal;
-
-XVIII. Establecer los criterios y lineamientos para regular la elaboración de las estructuras orgánicas y organigramas de las dependencias y entidades de la Administración Pública Estatal, y emitir la autorización correspondiente previo análisis de la Comisión Técnica para la revisión, evaluación y dictaminación de estructuras orgánicas y organigramas;
-
-XIX. Normar, administrar y mantener actualizado el padrón de proveedores de bienes y servicios del Gobierno del Estado en términos de lo previsto en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles del Estado de Quintana Roo, y
-
-XX. Las demás que le encomienden expresamente las leyes y reglamentos.
+(DEROGADO, P.O. 16 DE JULIO DE 2021)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
 
@@ -1761,17 +1829,17 @@ XXII. Coordinar las acciones y programas en materia jurídica que apruebe el Gob
 
 XXIII. Opinar sobre el nombramiento y/o remoción de los titulares responsables de las áreas jurídicas, de las Dependencias referidas en el artículo 19 de esta Ley, así como los de las entidades de la Administración Pública Paraestatal, quienes serán designados de conformidad con la normatividad aplicable;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-XXIV. Requerir de las áreas jurídicas de las dependencias y organismos auxiliares del Poder Ejecutivo del Estado, todo tipo de colaboración, informes o documentos sobre los asuntos que conozcan;
+XXIV. Requerir a las dependencias y entidades paraestatales de la Administración Pública del Estado de Quintana Roo, todo tipo de colaboración, informes o documentos sobre los asuntos que conozcan, cuando a juicio de la Consejería Jurídica del Poder Ejecutivo resulte necesario para el ejercicio de sus atribuciones.
 
 > <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2018)</small>
 
 XXV. Emitir las disposiciones a las que deberán sujetarse las dependencias y entidades de la Administración Pública Estatal para la elaboración, revisión y trámite de proyectos de reglamentos, decretos, acuerdos, nombramientos, resoluciones y demás instrumentos de carácter jurídico que deban ser sometidos a la consideración y, en su caso, firma del Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-XXVI. Certificar los documentos expedidos por el Titular del Ejecutivo Estatal, así como de los propios en el desempeño de sus funciones;
+XXVI. Certificar los documentos expedidos por el Gobernador del Estado, así como los documentos que obren en sus archivos.
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
@@ -2198,3 +2266,39 @@ SÉPTIMO. La Secretaría de Finanzas y Planeación, así como la Oficialía Mayo
 OCTAVO. La Secretaría de Seguridad Pública deberá realizar las modificaciones correspondientes a su estructura orgánica, reglamento interior y demás instrumentos que requieran actualización, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del mismo.
 
 NOVENO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo ordenado en este Decreto.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
