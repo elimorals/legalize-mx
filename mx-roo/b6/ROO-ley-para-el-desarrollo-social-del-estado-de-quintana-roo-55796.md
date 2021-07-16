@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-el-desarrollo-social-del-estado-de-quintana-roo-55796"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-30"
-last_updated: "2010-06-15"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 30 de mayo de 2007.
 
@@ -123,7 +123,9 @@ XII. Programas de Desarrollo Social. Los programas regionales, sectoriales, inst
 
 XIII. Registro. El Registro de Organizaciones para el Desarrollo Social;
 
-XIV. Secretaría. La Secretaría de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XIV. Secretaría. La Secretaría de Desarrollo Social;
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
 
@@ -535,7 +537,9 @@ I.- Las evaluaciones de resultados y estudios de medición de la marginación, v
 
 II.- Los índices e indicadores de pobreza que genere el Instituto Nacional de Estadística, Geografía e Informática, el Consejo Nacional de Población y la Secretaría de Desarrollo Social, así como los que generen las autoridades homólogas en el Estado.
 
-De igual manera, el Titular del Ejecutivo, podrá modificar las declaratorias referidas derivado de la medición del impacto de los programas y acciones en los niveles mínimos de bienestar en las zonas de atención prioritaria y la población objetivo y proponer a la Secretaría de Hacienda del Estado la forma que se considere más conveniente para la reasignación de los recursos destinados al desarrollo social.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+De igual manera, el Titular del Ejecutivo, podrá modificar las declaratorias referidas derivado de la medición del impacto de los programas y acciones en los niveles-mínimos de bienestar en las zonas de atención prioritaria y la población objetivo y proponer a la Secretaría de Finanzas y Planeación la forma que se considere más conveniente para la reasignación de los recursos destinados al desarrollo social.
 
 Para el caso de los pueblos y comunidades indígenas que sean Declarados como Zonas de Atención Prioritaria, el Titular del Poder Ejecutivo, por conducto de la Secretaría, en cumplimiento a lo dispuesto por el artículo 2 inciso B de la Constitución Política de los Estados Unidos Mexicanos, asignará recursos de acuerdo a la capacidad presupuestal del Estado, a fin de privilegiar acciones y programas en materia de desarrollo social, para abatir las carencias y rezagos, recursos públicos que serán destinados para la consecución de los siguientes objetivos:
 
@@ -879,7 +883,9 @@ I.- El titular del Poder Ejecutivo, quien la presidirá;
 
 II.- El titular de la Secretaría;
 
-III.- El titular de la Secretaría de Hacienda;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+III. El titular de la Secretaría de Finanzas y Planeación;
 
 IV.- El Presidente del Patronato del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo;
 
@@ -1372,3 +1378,39 @@ P.O. 15 DE JUNIO DE 2010.
 TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
