@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-civil-del-estado-de-quintana-roo-68914"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-01"
-last_updated: "2019-08-09"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley Publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 1 de junio del 2009.
 
@@ -107,11 +107,15 @@ El Ejecutivo del Estado podrá contratar con instituciones de seguros privadas, 
 
 En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de los siguientes ordenamientos del Estado de Quintana Roo:
 
-I.- Ley de Asentamientos Humanos;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+I.- Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo;
 
 II.- Ley de Equilibrio Ecológico y la Protección del Ambiente;
 
-III.- Ley de Fraccionamientos;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+III.- Ley de Acciones Urbanísticas del Estado de Quintana Roo;
 
 IV.- Ley de Obras Públicas;
 
@@ -123,7 +127,9 @@ VII.- Ley de Seguridad Pública;
 
 VIII.- Ley Forestal; o (sic)
 
-IX.- Ley para la Prevención y la Gestión Integral de Residuos;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+IX. Ley para la Prevención, Gestión Integral y Economía Circular de los Residuos del Estado de Quintana Roo, y
 
 > <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
@@ -323,7 +329,9 @@ XI.- Convocar, concertar, coordinar y promover la integración y activación de 
 
 XII.- Establecer y promover la capacitación y actualización permanente de los grupos e individuos que participen en el Sistema, fomentando la integración y registro de los grupos voluntarios;
 
-XIII.- Aprobar anualmente el anteproyecto de presupuesto de egresos necesarios para el funcionamiento del Sistema y, por conducto de su Secretario Ejecutivo, remitirlo a la Secretaría de Hacienda para su integración a la correspondiente iniciativa de Ley de Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XIII.- Aprobar anualmente el anteproyecto de presupuesto de egresos necesarios para el funcionamiento del Sistema y, por conducto de su Secretario Ejecutivo, remitirlo a la Secretaría de Finanzas y Planeación para su integración a la correspondiente iniciativa de Ley de Presupuesto de Egresos del Estado;
 
 XIV.- Practicar auditoría operacional para determinar la aplicación adecuada de los recursos que se asignen al Sistema, tanto en situación normal como en estado de emergencia;
 
@@ -437,13 +445,15 @@ a. Secretaría de Gobierno;
 
 b. Secretaría de Seguridad Pública;
 
-c. Secretaría de Infraestructura y Transporte;
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+c. Secretaría de Obras Públicas;
 
 d. Secretaría de Salud;
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-e. Secretaría de Desarrollo Urbano;
+e. Secretaría de Desarrollo Territorial Urbano Sustentable;
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
@@ -451,7 +461,9 @@ f. Secretaría de Ecología y Medio Ambiente;
 
 g. Secretaría de Educación;
 
-h. Secretaría de Turismo; y
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+h. Fiscalía General del Estado.
 
 i. Procuraduría General de Justicia.
 
@@ -1565,13 +1577,13 @@ Cuando se ordene la suspensión, desocupación, desalojo o cierre de una obra, i
 
 En caso de que la autoridad de protección civil que corresponda, considere necesaria la demolición de obras o construcciones como medida de protección y seguridad para las personas, sus bienes o el medio ambiente, solicitará a las autoridades competentes la aplicación de las disposiciones legales respectivas.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 131.
 
-Las sanciones de carácter pecuniario se liquidarán por el infractor en la Secretaría de Hacienda u oficinas recaudadoras ubicadas en los municipios, en un plazo no mayor de quince días hábiles, contados a partir de la fecha que se hayan realizado la notificación respectiva.
+Las sanciones de carácter pecuniario se liquidarán por el infractor en la Secretaría de Finanzas y Planeación u oficinas recaudadoras ubicadas en los municipios, en un plazo no mayor de quince días hábiles, contados a partir de la fecha que se haya realizado la notificación respectiva.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
-
-En todo caso su importe se considerará crédito fiscal a favor del Estado y su cobro se hará conforme a las disposiciones del Código Fiscal del Estado de Quintana Roo. Dicho ingreso será destinado en un 50% a la Coordinación Estatal, un 20%, en su caso, a la coordinación Municipal que hubiere intervenido en la aplicación de la sanción y la diferencia quedará a disposición de la Secretaría de Hacienda la que determinará si procede incorporar dicha suma al fondo o fondos en materia de protección civil o atención de desastres.
+En todo caso su importe se considerará crédito fiscal a favor del Estado y su cobro se hará conforme a las disposiciones del Código Fiscal del Estado de Quintana Roo. Dicho ingreso será destinado en un 50% a la Coordinación Estatal, un 20%, en su caso, a la coordinación Municipal que hubiere intervenido en la aplicación de la sanción y la diferencia quedará a disposición de la Secretaría de Finanzas y Planeación la que determinará si procede incorporar dicha suma al fondo o fondos en materia de protección civil o atención de desastres.
 
 ###### ARTÍCULO 132.
 
@@ -1593,17 +1605,21 @@ Cuando las personas a quienes deba hacerse la notificación no se encontraren, s
 
 Si habiendo dejado citatorio el interesado no se encuentra presente en la fecha y hora indicada, se practicará la diligencia con quien se encontrare en el inmueble.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 136.
 
-Las notificaciones se harán en días y horas hábiles; en términos de lo señalado en el Código de Procedimientos Civiles y en la Ley de Justicia Administrativa, ambos del Estado, a los que se recurrirá en forma supletoria, en los casos que corresponda, en materia de notificaciones.
+Las notificaciones se harán en días y horas hábiles; en términos de lo señalado en el Código de Procedimientos Civiles y en el Código de Justicia Administrativa, ambos del Estado, a los que se recurrirá en forma supletoria, en los casos que corresponda, en materia de notificaciones.
 
 ## TÍTULO NOVENO. DE LOS MEDIOS DE IMPUGNACIÓN
 
 ### CAPÍTULO ÚNICO. Del Recurso de Revisión
 
-###### ARTÍCULO 137.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-Las resoluciones dictadas con motivo de la aplicación de esta Ley, sus reglamentos y las disposiciones que de ella emanen, podrán recurrirse dentro del término de quince días hábiles siguientes contados a partir de la fecha de notificación por la vía del recurso de revisión o bien, ante la autoridad de justicia administrativa de acuerdo con la Ley de Justicia Administrativa del Estado, a elección del quejoso.
+###### ARTICULO 137.
+
+Las resoluciones dictadas con motivo de la aplicación de esta Ley, sus reglamentos y las disposiciones que de ella emanen, podrán recurrirse dentro del término de quince días hábiles siguientes contados a partir de la fecha de notificación por la vía del recurso de revisión o bien, ante la autoridad de justicia administrativa de acuerdo con el Código de Justicia Administrativa, a elección del quejoso.
 
 ###### ARTÍCULO 138.
 
@@ -1736,3 +1752,39 @@ P.O. 9 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 341 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO, EN MATERIA DE PROTECCIÓN CIVIL ESCOLAR”.]
 
 ÚNICO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
