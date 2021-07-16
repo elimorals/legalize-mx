@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-fomento-apicola-del-estado-de-quintana-9613
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-06"
-last_updated: "2019-08-09"
+last_updated: "2021-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 6 de septiembre de 2013.
 
@@ -115,9 +115,13 @@ XV.- POLEN: Partícula proveniente de los estambres de las flores, que hacen las
 
 XVI.- PROGRAMA: Programa de Fomento Apícola del Estado;
 
-XVII.- SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-XVIII.- SECRETARÍA: Secretaría de Desarrollo Agropecuario, Rural e Indígena.
+XVII.- SADER: Secretaría de Agricultura y Desarrollo Rural, y
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XVIII.- SECRETARÍA: Secretaría de Desarrollo Agropecuario, Rural y Pesca.
 
 ###### Artículo 5.
 
@@ -143,9 +147,11 @@ II.- El Comité, y
 
 III.- Los Municipios del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 9.
 
-Son órganos auxiliares:
+Son organismos auxiliares:
 
 I.- Las asociaciones apícolas;
 
@@ -155,9 +161,13 @@ III.- Los inspectores sanitarios;
 
 IV.- La Secretaría de Salud del Estado;
 
-V.- La Secretaría de Ecología y Medio Ambiente del Estado;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-VI.- La Secretaría de Hacienda del Estado;
+V.- La Secretaría de Ecología y Medio Ambiente;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+VI.- La Secretaría de Finanzas y Planeación;
 
 VII.- La Secretaría de Desarrollo Económico del Estado;
 
@@ -167,7 +177,9 @@ IX.- La Procuraduría de Protección al Medio Ambiente del Estado de Quintana Ro
 
 X.- El Instituto Forestal del Estado de Quintana Roo;
 
-XI.- La Delegación Estatal de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XI.- La Delegación Estatal de la SADER;
 
 XII.- La Delegación Estatal de la Secretaría de la Reforma Agraria;
 
@@ -249,7 +261,9 @@ Se crea el Comité, con el objeto de apoyar la ejecución de programas tendiente
 
 El Comité estará integrado de la siguiente forma:
 
-I. Un Presidente, que será el titular de la Secretaría de Desarrollo Agropecuario, Rural e Indígena;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+I. Un Presidente, que será el titular de la Secretaría;
 
 II. Un Secretario, que será el titular de la Subsecretaría de Ganadería;
 
@@ -261,7 +275,9 @@ V. Un representante de la Secretaría de Salud;
 
 VI. Un representante de cada uno de los Municipios, con nivel cuando menos de Director Superior;
 
-VII. Un representante de la Delegación Estatal de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+VII. Un representante de la Delegación Estatal de la SADER; y
 
 VIII. La Gerencia Estatal del Fideicomiso de Riesgo Compartido.
 
@@ -687,9 +703,11 @@ La Secretaría podrá cancelar el permiso para la instalación de apiarios media
 
 ### CAPÍTULO DÉCIMO OCTAVO. DEL RECURSO DE REVISIÓN
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 67.
 
-Contra las resoluciones emitidas por la Secretaría con motivo de la aplicación de la presente Ley, es procedente el recurso de revisión previsto en la Ley de Procedimiento Administrativo del Estado.
+Contra las resoluciones emitidas por la Secretaría con motivo de la aplicación de la presente Ley, es procedente el recurso de revisión previsto en el Código de Justicia Administrativa.
 
 T R A N S I T O R I O S:
 
@@ -752,3 +770,39 @@ P.O. 9 DE AGOSTO DE 2019.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaria de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
