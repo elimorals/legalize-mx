@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-vivienda-del-estado-de-quintana-roo-77789"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-21"
-last_updated: "2019-09-13"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Quintana Roo, el martes 21 de diciembre de 2010.
 
@@ -125,9 +125,7 @@ VI. Crédito de Vivienda: Son los préstamos que se conceden con la finalidad de
 
 VII. Estímulos: Las medidas de carácter jurídico, administrativo, fiscal o financiero que establezcan los diferentes órdenes de gobierno para promover y facilitar la participación de los sectores social y privado, en la ejecución de acciones, procesos o programas habitacionales, de suelo y de vivienda popular o económica y de interés social;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
-
-VIII. Instituto: El Instituto Quintanarroense de la Vivienda;
+VIII. (DEROGADA, P.O. 16 DE JULIO DE 2021)
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
@@ -177,11 +175,11 @@ I. El Poder Ejecutivo del Gobierno del Estado, y
 
 II. Los Municipios.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 7.
 
-Corresponde al Titular del Ejecutivo del Estado, por conducto de la Secretaría y el Instituto, el fomento, coordinación, promoción e instrumentación de la Política y el Programa Estatal de Vivienda, en los términos de la presente ley, y demás ordenamientos aplicables.
+Corresponde al Titular del Ejecutivo del Estado, por conducto de la Secretaría, el fomento, coordinación, promoción e instrumentación de la Política y el Programa Estatal de Vivienda, en los términos de la presente ley, y demás ordenamientos aplicables.
 
 ###### Artículo 8.
 
@@ -191,71 +189,135 @@ El Ejecutivo del Estado y los Municipios ejercerán las atribuciones en materia 
 
 Con el objeto de hacer más rápidos y expeditos los trámites para vivienda, el Ejecutivo del Estado promoverá la operación y revisión permanente de un procedimiento único, sencillo y ágil, que permita en una sola Dependencia gestionar todos los trámites vinculados con los permisos, licencias y autorizaciones, a fin de evitar la duplicidad de procedimientos. Asimismo, promoverá una estrecha coordinación con los Municipios para vincular los procesos de autorización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 10.
 
-Sin menoscabo de lo establecido en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado, el Ejecutivo del Estado, a través de la Secretaría, tiene las siguientes atribuciones:
+Sin menoscabo de lo establecido en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado, el Gobernador del Estado, a través de la Secretaría, tiene las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-I. Formular, aprobar y evaluar la política y programas de suelo y vivienda en el Estado, de conformidad con la Estrategia Estatal de Ordenamiento Territorial, el Plan Estatal de Desarrollo y en concordancia con demás ordenamientos y programas que incidan en la acción habitacional y de suelo a que se refiere este ordenamiento;
+I. Formular y evaluar la política y programas de suelo y vivienda en el Estado, de conformidad con la Estrategia Estatal de Ordenamiento Territorial, el Plan Estatal de Desarrollo y en concordancia con demás ordenamientos y programas que incidan en la acción habitacional y de suelo a que se refiere este ordenamiento;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-II. Ejecutar, aplicar, actualizar y controlar, el Programa Estatal de Suelo y Vivienda, en congruencia con los programas nacionales en la materia, la Estrategia Estatal de Ordenamiento Territorial y las normas señaladas por esta ley, así como evaluar y vigilar su cumplimiento;
+II. Ejecutar, coordinar, aplicar, actualizar y controlar, el Programa Estatal de Suelo y Vivienda, en congruencia con los programas nacionales en la materia, la Estrategia Estatal de Ordenamiento Territorial y las normas señaladas por esta ley, así como evaluar y vigilar su cumplimiento;
 
-III. (DEROGADA, P.O. 16 DE AGOSTO DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2021)</small>
 
-IV. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de las acciones de suelo y vivienda otorgando atención preferente a la población en situación de pobreza y que carezca de una vivienda digna y decorosa;
+III. Promover y ejecutar Programas de Vivienda, incluyendo aquellos dirigidos a regularizar la tenencia de la tierra;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2021)</small>
 
-V. Dictaminar previamente a su ejecución, la congruencia de los programas de suelo y vivienda y de las acciones habitacionales que realicen las dependencias y entidades estatales y municipales, con la Estrategia Estatal de Ordenamiento Territorial y los programas estatales y municipales de ordenamiento territorial, ecológico y desarrollo urbano;
+IV. Vigilar y asesorar que la construcción de vivienda que se realice bajo sus programas se preserve el equilibrio ecológico y procurando la utilización de materiales y tecnologías que coadyuven a elevar los niveles de habitabilidad de la vivienda, de salud y bienestar de las personas;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
 
-VI. Coordinar los programas y acciones de suelo y vivienda;
+V. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de las acciones de suelo y vivienda otorgando atención preferente a la población en situación de pobreza y que carezca de una vivienda digna y decorosa;
 
-VII. Constituir, adquirir y promover en su caso la desincorporación de reservas territoriales y suelo apto para la vivienda, en coordinación con los Gobiernos Federal y Municipales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
 
-VIII. Promover la producción y distribución de materiales de construcción a bajo costo, para la vivienda social;
+VI. Dictaminar previamente a su ejecución, la congruencia de los programas de suelo y vivienda y de las acciones habitacionales que realicen las dependencias y entidades estatales y municipales, con la Estrategia Estatal de Ordenamiento Territorial y los programas estatales y municipales de ordenamiento territorial, ecológico y desarrollo urbano;
 
-IX. Fomentar, promover y concertar la participación, de las personas, instituciones académicas y organismos de los sectores social y privado, en la instrumentación de los programas y acciones de suelo y vivienda de conformidad con lo dispuesto en esta Ley y en los demás ordenamientos aplicables;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
 
-X. Fomentar, en coordinación con las autoridades competentes, la constitución de organizaciones comunitarias, sociedades cooperativas y otras similares para la adquisición, producción y mejoramiento de vivienda y de insumos para su construcción;
+VII. Coordinar los programas y acciones de suelo y vivienda;
 
-XI. Establecer y operar el Sistema Estatal de Información y Estadística de la Vivienda y proporcionar la información que se le requiera para el Sistema Nacional de Información e Indicadores de Vivienda;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
 
-XII. Fomentar y promover el establecimiento de prerrogativas fiscales y económicas;
+VIII. Constituir, adquirir y promover en su caso la desincorporación de reservas territoriales y suelo apto para la vivienda, en coordinación con los Gobiernos Federal y Municipales;
 
-XIII. Adecuar los sistemas administrativos para lograr la simplificación de trámitesque (sic) estimulen la producción de vivienda;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
 
-XIV. Celebrar convenios o acuerdos de coordinación para la ejecución de programas y acciones de suelo y vivienda con la Federación y los Municipios;
+IX. Promover la producción y distribución de materiales de construcción a bajo costo, para la vivienda social;
 
-XV. Apoyar a las Autoridades Municipales que lo soliciten, en la planeación, gestión de recursos, operación de programas y en ejecución de acciones en materia de suelo y vivienda;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+X. Fomentar, promover y concertar la participación, de las personas, instituciones académicas y organismos de los sectores social y privado, en la instrumentación de los programas y acciones de suelo y vivienda de conformidad con lo dispuesto en esta Ley y en los demás ordenamientos aplicables;
 
-XVI. Establecer y mantener actualizado el Registro de Demandantes y Beneficiarios de Suelo y Vivienda;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
 
-XVII. Informar a la ciudadanía sobre las acciones que se realicen en materia de suelo y vivienda;
+XI. Fomentar, en coordinación con las autoridades competentes, la constitución de organizaciones comunitarias, sociedades cooperativas y otras similares para la adquisición, producción y mejoramiento de vivienda y de insumos para su construcción;
 
-XVIII. Vigilar el cumplimiento de esta ley, así demás ordenamientos que se expidan en consecuencia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
 
-XIX. Dictar y ejecutar medidas y sanciones económicas y administrativas para el cumplimiento de esta Ley, y de los programas y disposiciones que de la misma se deriven;
+XII. Establecer y operar el Sistema Estatal de Información y Estadística de la Vivienda y proporcionar la información que se le requiera para el Sistema Nacional de Información e Indicadores de Vivienda;
 
-XX. Adquirir por causa de utilidad pública tierra para la construcción de vivienda social;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
 
-XXI. Administrar las reservas territoriales del Estado;
+XIII. Fomentar y promover el establecimiento de prerrogativas fiscales y económicas;
 
-XXII. Expedir los ordenamientos y demás disposiciones necesarias para el cumplimiento de esta Ley; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-XXIII. Promover ante las instancias competentes la gestión de recursos para la ejecución de acciones, obras y servicios de infraestructura relacionados con el desarrollo urbano;
+XIV. Adecuar los sistemas administrativos para lograr la simplificación de trámites que estimulen la producción de vivienda;
 
-XXIV. Apoyar a las autoridades municipales en la planeación, gestión de recursos, operación de programas y en la ejecución de acciones en materia de suelo para vivienda y vivienda;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
 
-XXV. Las demás que conforme a esta Ley u otros ordenamientos jurídicos aplicables le correspondan.
+XV. Celebrar convenios o acuerdos de coordinación para la ejecución de programas y acciones de suelo y vivienda con la Federación y los Municipios;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XVI. Apoyar a las Autoridades Municipales que lo soliciten, en la elaboración, planeación, gestión de recursos, operación de programas y en ejecución de acciones en materia de suelo y vivienda;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
+
+XVII. Establecer y mantener actualizado el Registro de Demandantes y Beneficiarios de Suelo y Vivienda;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
+
+XVIII. Informar a la ciudadanía sobre las acciones que se realicen en materia de suelo y vivienda;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XIX. Vigilar el cumplimiento de esta ley, yi (sic) demás ordenamientos que se expidan en consecuencia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
+
+XX. Dictar y ejecutar medidas y sanciones económicas y administrativas para el cumplimiento de esta Ley, y de los programas y disposiciones que de la misma se deriven;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
+
+XXI. Adquirir por causa de utilidad pública tierra para la construcción de vivienda social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
+
+XXII. Administrar las reservas territoriales del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XXIII. Expedir los ordenamientos y demás disposiciones necesarias para el cumplimiento de esta Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
+
+XXIV. Promover ante las instancias competentes la gestión de recursos para la ejecución de acciones, obras y servicios de infraestructura relacionados con el desarrollo urbano;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
+
+XXV. Apoyar a las autoridades municipales en la planeación, gestión de recursos, operación de programas y en la ejecución de acciones en materia de suelo para vivienda y vivienda;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XXVI. Otorgar créditos a personas en situación de pobreza para que adquieran su lote o vivienda, conforme a lo dispuesto en esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XXVII. Gestionar el financiamiento para la adquisición o construcción de vivienda procurando el beneficio de la población en situación de pobreza;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XXVIII. Promover y realizar investigaciones, estudios y proyectos, sobre las necesidades en la materia, así como sobre la incorporación de nuevas tecnologías que propicien la satisfacción y mejora de dichas necesidades;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XXIX. Promover ante las instancias competentes la construcción de obras de infraestructura, así como para la provisión de servicios públicos, en los proyectos de suelo y vivienda, en coordinación con otras dependencias y entidades de la administración pública estatal y municipal competentes;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XXX. Colaborar con las dependencias y entidades de la administración pública federal, estatal y municipal, en la ejecución de acciones para la regularización de la tenencia de la tierra; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
+
+XXXI. Las demás que conforme a esta Ley u otros ordenamientos jurídicos aplicables le correspondan.
 
 ###### Artículo 11.
 
@@ -317,71 +379,17 @@ Las autoridades del Gobierno del Estado establecerán los convenios de coordinac
 
 ### CAPÍTULO III. DEL INSTITUTO QUINTANARROENSE DE VIVIENDA
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
-
 ###### Artículo 14.
 
-Se crea el Instituto Quintanarroense de Vivienda, como un organismo descentralizado de la Administración Pública Paraestatal, con personalidad jurídica y patrimonio propio, sectorizado de la Secretaría de Desarrollo Territorial Urbano Sustentable.
-
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+(DEROGADO, P.O. 16 DE JULIO DE 2021)
 
 ###### Artículo 15.
 
-El Instituto tendrá por objeto hacer una realidad el derecho a una vivienda adecuada para toda la población, contribuyendo al ordenamiento territorial y al desarrollo urbano del Estado, mediante la formulación, coordinación y ejecución de programas de producción, financiamiento y comercialización de suelo y vivienda, en sus diferentes modalidades.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+(DEROGADO, P.O. 16 DE JULIO DE 2021)
 
 ###### Artículo 16.
 
-El Instituto tendrá las siguientes funciones en materia de vivienda:
-
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
-
-I. Formular el Programa Estatal de Suelo y Vivienda y presentarlo a consideración de la Secretaría, para en su caso, posterior aprobación por parte del Titular del Ejecutivo del Estado;
-
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
-
-II. Ejecutar y coordinar el Programa Estatal de Suelo y Vivienda, con los sectores público, social y privado;
-
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
-
-III. Promover y ejecutar Programas de Vivienda en todas sus modalidades, incluyendo aquellos dirigidos a regularizar la tenencia de la tierra;
-
-IV. Vigilar y asesorar que la construcción de vivienda que se realice bajo sus programas se preserve el equilibrio ecológico y procurando la utilización de materiales y tecnologías que coadyuven a elevar los niveles de habitabilidad de la vivienda, de salud y bienestar de las personas;
-
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
-
-V. Constituirse como entidad financiera y celebrar contratos de crédito, fideicomiso o cualquier otro de los permitidos por la ley y emitir títulos de crédito para el cumplimiento de su objeto social;
-
-VI. Otorgar créditos a personas en situación de pobreza para que adquieran su lote o vivienda, conforme a lo dispuesto en esta Ley y su Reglamento;
-
-VII. Coordinar los Programas de Ordenamiento de la Propiedad y de Vivienda necesarios en el Estado y operar los fondos que para el efecto se constituyan;
-
-VIII. Otorgar las Escrituras Públicas y Títulos de Propiedad sobre los predios que regularice o enajene, conforme a la legislación aplicable;
-
-IX. Gestionar el financiamiento para la adquisición o construcción de vivienda procurando el beneficio de la población en situación de pobreza;
-
-X. Promover y realizar investigaciones, estudios y proyectos, sobre las necesidades en la materia, así como sobre la incorporación de nuevas tecnologías que propicien la satisfacción y mejora de dichas necesidades;
-
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
-
-XI. Proponer a la Secretaría, las políticas estatales de suelo y vivienda;
-
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
-
-XII. Apoyar a los municipios que lo soliciten, en la elaboración y ejecución de sus programas de suelo y vivienda, en sus jurisdicciones territoriales;
-
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
-
-XIII. Promover ante las instancias competentes la construcción de obras de infraestructura, así como para la provisión de servicios públicos, en los proyectos de suelo y vivienda, en coordinación con otras dependencias y entidades de la administración pública estatal y municipal competentes;
-
-XIV. Colaborar con las dependencias y entidades de la administración pública federal, estatal y municipal, en la ejecución de acciones para la regularización de la tenencia de la tierra; y
-
-XV. Las demás que conforme a esta Ley u otros ordenamientos jurídicos aplicables le correspondan.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2018)</small>
-
-El Instituto tendrá la organización y estructura que determine su Estatuto Orgánico.
+(DEROGADO, P.O. 16 DE JULIO DE 2021)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2018)</small>
 
@@ -641,9 +649,9 @@ VII. Los procedimientos que permitan orientar e informar con oportunidad y clari
 
 VIII. La programación para la adquisición o enajenación de tierra para el cumplimiento de los programas habitacionales;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-IX. Los lineamientos para la programación anual en materia de vivienda del Instituto, dependencias y entidades estatales y municipales competentes, con el señalamiento de metas y previsión de recursos;
+IX. Los lineamientos para la programación anual en materia de vivienda de la Secretaría o el Instituto Municipal, dependencias y entidades estatales y municipales competentes, con el señalamiento de metas y previsión de recursos;
 
 X. El sistema de evaluación y plazo de ejecución de las obras; y
 
@@ -687,9 +695,9 @@ VIII. Las previsiones de suelo para la dotación de infraestructura, equipamient
 
 La formulación de los Programas de Suelo y Vivienda a que se refiere esta ley, se sujetarán al procedimiento siguiente:
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-I. El Instituto formulará el anteproyecto, considerando las disposiciones de esta ley y demás ordenamientos jurídicos aplicables;
+I. La Secretaría formulará el anteproyecto, considerando las disposiciones de esta ley y demás ordenamientos jurídicos aplicables;
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
@@ -737,11 +745,11 @@ III. Promover y garantizar la participación articulada de todos los sectores pr
 
 IV. Fortalecer la coordinación entre el Gobierno del Estado y el Gobierno Federal así como de los Municipios, e impulsar acciones de concertación con los sectores social y privado.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 34.
 
-El Sistema Estatal de Vivienda será coordinado por el Ejecutivo del Estado a través del Instituto y su integración será la misma del Consejo.
+El Sistema Estatal de Vivienda será coordinado por el Ejecutivo del Estado a través de la Secretaría y su integración será la misma del Consejo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2018)</small>
 
@@ -783,17 +791,17 @@ IV. Impulsar el fortalecimiento del mercado secundario de hipotecas, que mediant
 
 V. Fomentar la participación de más y diversos intermediarios financieros, a efecto de generar una mayor competitividad en el sector.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 39.
 
-El Instituto impulsará la constitución de los fondos de ahorro e inversión, de administración, de garantía y de rescate para la vivienda, creados con activos seguros, rentables y de fácil liquidación, con las primas que deben pagar los beneficiarios, a fin de promover el ahorro productivo de los beneficiarios; y de que los beneficiarios puedan cubrir sus créditos en los términos y los porcentajes establecidos en sus contratos.
+La Secretaría impulsará la constitución de los fondos de ahorro e inversión, de administración, de garantía y de rescate para la vivienda, creados con activos seguros, rentables y de fácil liquidación, con las primas que deben pagar los beneficiarios, a fin de promover el ahorro productivo de los beneficiarios; y de que los beneficiarios puedan cubrir sus créditos en los términos y los porcentajes establecidos en sus contratos.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 40.
 
-El Instituto promoverá programas tendientes a buscar la inversión de Organismos Federales, Instituciones de Crédito, Organismos que apoyen acciones de vivienda, así como de la iniciativa privada para la construcción de viviendas.
+La Secretaría promoverá programas tendientes a buscar la inversión de Organismos Federales, Instituciones de Crédito, Organismos que apoyen acciones de vivienda, así como de la iniciativa privada para la construcción de viviendas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
 
@@ -803,9 +811,9 @@ El Programa Estatal de Suelo y Vivienda y los Municipales, se ejecutarán de acu
 
 I. Crédito o préstamo con garantía hipotecaria, otorgado por instituciones financieras legalmente establecidas por particulares y/o por el sistema bancario;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-II. Inversión directa del Gobierno del Estado, cuya aplicación se hará a través del Instituto;
+II. Inversión directa del Gobierno del Estado, cuya aplicación se hará a través de la Secretaría;
 
 III. Inversión de otros Organismos Públicos Locales o Federales de Vivienda, que operan en el Estado;
 
@@ -903,37 +911,37 @@ II. No ser propietario de otra vivienda;
 
 En caso de ser propietarios de vivienda sólo podrán solicitar crédito para las acciones destinadas a la rehabilitación, la ampliación y/o mejoramiento;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-III. Presentar escrito bajo protesta de decir verdad, en el que manifiesten que habitarán la vivienda, sujetándose a las sanciones correspondientes que en su caso determine la Secretaría o el Instituto por incumplimiento;
+III. Presentar escrito bajo protesta de decir verdad, en el que manifiesten que habitarán la vivienda, sujetándose a las sanciones correspondientes que en su caso determine la Secretaría por incumplimiento;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-IV. Entregar la documentación que respalde sus ingresos y otorgar por escrito autorización al Instituto para la respectiva verificación de la información que proporcionen; y
+IV. Entregar la documentación que respalde sus ingresos y otorgar por escrito autorización a la Secretaría para la respectiva verificación de la información que proporcionen; y
 
 V. Las demás disposiciones aplicables.
 
 Cuando se trate de la asignación de lotes por concepto de regularización de asentamientos humanos, ningún beneficiario podrá ser acreedor a más de un lote para su vivienda.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-En la determinación de sus ingresos, corresponde al beneficiario entregar la documentación que respalde su dicho, quien además está obligado a permitir por parte de las autoridades de la Secretaría o del Instituto la verificación de la información que proporcione.
+En la determinación de sus ingresos, corresponde al beneficiario entregar la documentación que respalde su dicho, quien además está obligado a permitir por parte de las autoridades de la Secretaría la verificación de la información que proporcione.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-En el caso de la población informal la determinación de sus ingresos se ajustará a lo que establezcan las reglas de operación del Instituto.
+En el caso de la población informal la determinación de sus ingresos se ajustará a lo que establezcan las reglas de operación de la Secretaría.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 48.
 
-El Instituto es responsable del otorgamiento crediticio, subsidio o a fondo perdido para la población de bajos ingresos o en situación de pobreza, riesgo o vulnerabilidad, los que serán considerados como sujetos de subsidio o de ayuda de beneficio social.
+La Secretaría es responsable del otorgamiento crediticio, subsidio o a fondo perdido para la población de bajos ingresos o en situación de pobreza, riesgo o vulnerabilidad, los que serán considerados como sujetos de subsidio o de ayuda de beneficio social.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 49.
 
-El Instituto informará de los procedimientos y requisitos necesarios para producir y adquirir vivienda, mediante la elaboración y difusión de materiales dirigidos a los promotores y productores sociales y privados, principalmente sobre sus Programas y Reglas de Operación. De manera particular elaborará y difundirá material informativo para la población acreditada o solicitante de algún crédito de vivienda.
+La Secretaría informará de los procedimientos y requisitos necesarios para producir y adquirir vivienda, mediante la elaboración y difusión de materiales dirigidos a los promotores y productores sociales y privados, principalmente sobre sus Programas y Reglas de Operación. De manera particular elaborará y difundirá material informativo para la población acreditada o solicitante de algún crédito de vivienda.
 
 ### CAPÍTULO III. DEL AHORRO PARA LA VIVIENDA
 
@@ -975,11 +983,11 @@ Para garantizar la aplicación de los principios de equidad e inclusión social 
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 54.
 
-Se crea el Registro Estatal de Demandantes y Beneficiarios de Suelo y Vivienda, el cual estará a cargo del Instituto con el objeto de buscar el acceso del mayor número de personas a la vivienda, mediante mecanismos que beneficien preferentemente a la población en situación de pobreza y que carezcan de ella, abatiendo el verdadero rezago habitacional.
+Se crea el Registro Estatal de Demandantes y Beneficiarios de Suelo y Vivienda, el cual estará a cargo de la Secretaría con el objeto de buscar el acceso del mayor número de personas a la vivienda, mediante mecanismos que beneficien preferentemente a la población en situación de pobreza y que carezcan de ella, abatiendo el verdadero rezago habitacional.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
 
@@ -987,11 +995,11 @@ Se crea el Registro Estatal de Demandantes y Beneficiarios de Suelo y Vivienda, 
 
 El Registro de Demandantes y Beneficiarios de Suelo y Vivienda controlará que ninguna persona o familia pueda tener acceso a más de un crédito otorgado por alguna instancia de los Gobiernos Federal, Estatal o Municipal para la adquisición de una vivienda, evitando la especulación en el desarrollo y comercialización habitacional, optimizando los recursos del Gobierno para la generación del sector vivienda.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 56.
 
-Los interesados en inscribirse en el Registro de Demandantes y Beneficiarios de Suelo y Vivienda, deben cumplir los requisitos señalados en el artículo 47 y presentar su documentación ante las oficinas del Instituto.
+Los interesados en inscribirse en el Registro de Demandantes y Beneficiarios de Suelo y Vivienda, deben cumplir los requisitos señalados en el artículo 47 y presentar su documentación ante las oficinas de la Secretaría.
 
 ###### Artículo 57.
 
@@ -1029,17 +1037,17 @@ El Ejecutivo del Estado fomentará la participación de los sectores público, s
 
 Asimismo, promoverá que las tecnologías sean acordes con los requerimientos sociales, regionales y a las características propias de la población, estableciendo mecanismos de investigación y experimentación tecnológicas.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 61.
 
-El Instituto promoverá el uso de materiales y productos que contribuyan a evitar afluentes y emisiones que deterioren el medio ambiente, así como aquellos que propicien ahorro de energía, uso eficiente de agua, un ambiente más confortable y saludable dentro de la vivienda de acuerdo con las características climáticas de la región.
+La Secretaría promoverá el uso de materiales y productos que contribuyan a evitar afluentes y emisiones que deterioren el medio ambiente, así como aquellos que propicien ahorro de energía, uso eficiente de agua, un ambiente más confortable y saludable dentro de la vivienda de acuerdo con las características climáticas de la región.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 62.
 
-El Instituto promoverá la celebración de acuerdos y convenios con productores de materiales básicos para la construcción de vivienda a precios preferenciales para:
+La Secretaría promoverá la celebración de acuerdos y convenios con productores de materiales básicos para la construcción de vivienda a precios preferenciales para:
 
 I. La atención a Programas de Vivienda emergente para atención a damnificados, derivados de desastres;
 
@@ -1107,11 +1115,11 @@ I. Participar en el mercado inmobiliario con el fin de generar una oferta públi
 
 II. Fomentar esquemas y programas que contemplen recursos provenientes de crédito, ahorro y subsidio, para la adquisición de suelo.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 72.
 
-El Ejecutivo del Estado a través de la Secretaría, del Instituto de cualquier otra dependencia o entidad en el ámbito de su competencia, instrumentará acciones, programas y estímulos que induzcan la colaboración y coordinación con el Gobierno Federal y los Municipios, así como la participación de propietarios y desarrolladores, para generar suelo con servicios, preferentemente para beneficio de la población de bajos ingresos, en situación de pobreza, riesgo o vulnerabilidad y de los productores sociales de vivienda, para lo cual celebrará los convenios y acuerdos necesarios.
+El Ejecutivo del Estado a través de la Secretaría, de cualquier otra dependencia o entidad en el ámbito de su competencia, instrumentará acciones, programas y estímulos que induzcan la colaboración y coordinación con el Gobierno Federal y los Municipios, así como la participación de propietarios y desarrolladores, para generar suelo con servicios, preferentemente para beneficio de la población de bajos ingresos, en situación de pobreza, riesgo o vulnerabilidad y de los productores sociales de vivienda, para lo cual celebrará los convenios y acuerdos necesarios.
 
 ### CAPÍTULO II. DE LA ENAJENACIÓN DE PREDIOS DESTINADOS A PROGRAMAS DE VIVIENDA SOCIAL Y AUTOCONSTRUCCIÓN
 
@@ -1133,7 +1141,9 @@ III. Se verifique la existencia del programa de financiamiento o la partida pres
 
 La AGEPRO, en coordinación con la Secretaría fijará los mecanismos de información, calificación y clasificación de los bienes del dominio privado del Estado, susceptibles de aprovechamiento social para programas y acciones de vivienda.
 
-Con base en lo anterior, la Secretaría en coordinación con el Instituto y la AGEPRO, elaborará un catálogo de terrenos aptos para destinar a Programas de Suelo y Vivienda considerando las condiciones básicas de equipamiento urbano y factibilidad de introducción de los servicios de agua potable, drenaje sanitario, drenaje pluvial y electricidad, con el menor costo posible.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+Con base en lo anterior, la Secretaría en coordinación con la AGEPRO, elaborará un catálogo de terrenos aptos para destinar a Programas de Suelo y Vivienda considerando las condiciones básicas de equipamiento urbano y factibilidad de introducción de los servicios de agua potable, drenaje sanitario, drenaje pluvial y electricidad, con el menor costo posible.
 
 ###### Artículo 75.
 
@@ -1147,19 +1157,19 @@ I. Los beneficiarios y la forma de pago se determinarán conforme a su nivel soc
 
 II. Los propietarios de otro bien inmueble no podrán ser beneficiarios; y
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-III. Los demás que señale la Secretaría o el Instituto en las reglas generales que a efecto expida.
+III. Los demás que señale la Secretaría en las reglas generales que al efecto expida.
 
 ###### Artículo 77.
 
 Los contratos que se otorguen en las enajenaciones de lotes de urbanización progresiva provenientes de bienes del dominio privado del Estado o de los Municipios, que realicen los Organismos que atiendan el desarrollo social y urbano del Estado y los problemas de precarismo habitacional, serán los instrumentos que acrediten la titularidad de derechos de propiedad y podrán ser inscritos en el Registro Público de la Propiedad.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 78.
 
-La tierra propiedad del Instituto que enajene a los organismos productores sociales de vivienda y de autoconstrucción, para el desarrollo de los mismos, y que una vez cumplidos los plazos, o presentarse acciones que deriven en su incumplimiento, el Instituto aplicará el recurso de reversión de los terrenos enajenados, pasando nuevamente a su propiedad.
+La tierra propiedad de la Secretaría que enajene a los organismos productores sociales de vivienda y de autoconstrucción, para el desarrollo de los mismos, y que una vez cumplidos los plazos, o presentarse acciones que deriven en su incumplimiento, la Secretaría aplicará el recurso de reversión de los terrenos enajenados, pasando nuevamente a su propiedad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2018)</small>
 
@@ -1201,11 +1211,11 @@ El Ejecutivo del Estado facilitará y promoverá el desarrollo y la consolidaci�
 
 Las acciones y recursos que las dependencias y entidades de la administración pública estatal programen o destinen para el fomento y estímulo a la producción social de vivienda, deberán guardar proporcionalidad y equidad entre las distintas zonas del Estado, atendiendo a los distintos tipos, modalidades y necesidades de vivienda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 84.
 
-El Instituto promoverá la asistencia técnica, especialmente la destinada a los productores sociales de vivienda, la cual se podrá proporcionar a través de programas y actividades que realicen:
+La Secretaría promoverá la asistencia técnica, especialmente la destinada a los productores sociales de vivienda, la cual se podrá proporcionar a través de programas y actividades que realicen:
 
 a) Las Organizaciones Sociales que cuenten o creen áreas especializadas de asistencia y capacitación técnica;
 
@@ -1237,9 +1247,9 @@ V. Atender las distintas formas legales de propiedad y posesión de la tierra, a
 
 Tratándose de las comunidades rurales e indígenas deberán ser reconocidas y atendidas sus características culturales, respetando sus formas de asentamiento territorial y favoreciendo los sistemas constructivos acordes con el entorno bioclimático de las regiones, así como sus modos de producción de vivienda.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-Para efectos del párrafo anterior, el Instituto en coordinación con los Ayuntamientos, deberá establecer y apoyar programas colectivos de autoconstrucción cuando se trate de vivienda rural e indígena, en que los integrantes de la propia comunidad participen en los trabajos respectivos de manera conjunta, de tal suerte que, además de abatir los costos, se fomente y respete la solidaridad y el espíritu comunitario, y se aprovechen los materiales naturales disponibles.
+Para efectos del párrafo anterior, la Secretaría en coordinación con los Ayuntamientos, deberá establecer y apoyar programas colectivos de autoconstrucción cuando se trate de vivienda rural e indígena, en que los integrantes de la propia comunidad participen en los trabajos respectivos de manera conjunta, de tal suerte que, además de abatir los costos, se fomente y respete la solidaridad y el espíritu comunitario, y se aprovechen los materiales naturales disponibles.
 
 ###### Artículo 87.
 
@@ -1251,11 +1261,11 @@ El Ejecutivo del Estado, fomentará, en los programas y proyectos de producción
 
 Las Autoridades y los Organismos responsables de la vivienda promoverán la participación civil en los procesos de planeación, programación y evaluación habitacionales.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 89.
 
-El Instituto celebrará convenios con Productores Sociales y las Universidades e Instituciones de Educación Superior, dirigidas a la investigación, asesoría y apoyo técnico. Cuando se trate de algún convenio de prestación de servicios a título oneroso, se sujetará a las disposiciones que dicte su Consejo Directivo.
+La Secretaría celebrará convenios con Productores Sociales y las Universidades e Instituciones de Educación Superior, dirigidas a la investigación, asesoría y apoyo técnico. Cuando se trate de algún convenio de prestación de servicios a título oneroso, se sujetará a las disposiciones que dicte su Consejo Directivo.
 
 ###### Artículo 90.
 
@@ -1293,11 +1303,11 @@ X. Las demás acciones que acuerden las partes para el cumplimiento de esta Ley.
 
 ### CAPÍTULO I. DE LA DENUNCIA POPULAR
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 92.
 
-Toda persona podrá denunciar ante la Secretaría, el Instituto o ante otras autoridades competentes todo hecho, acto u omisión que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta ley o contravengan sus disposiciones y de los demás ordenamientos que regulen materias relacionadas con la vivienda.
+Toda persona podrá denunciar ante la Secretaría o ante otras autoridades competentes todo hecho, acto u omisión que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta ley o contravengan sus disposiciones y de los demás ordenamientos que regulen materias relacionadas con la vivienda.
 
 ###### Artículo 93.
 
@@ -1331,11 +1341,11 @@ Toda persona tendrá derecho al acceso a la información pública sobre vivienda
 
 (DEROGADO, P.O. 16 DE AGOSTO DE 2018)
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 97.
 
-El Instituto no celebrará contratos con promotores, desarrolladores y productores privados o sociales de vivienda que hayan incumplido en todo o en parte las obligaciones contractuales con los beneficiarios de los programas que maneja el Instituto, y no podrán participar en los programas y acciones referidos en la presente ley.
+La Secretaría no celebrará contratos con promotores, desarrolladores y productores privados o sociales de vivienda que hayan incumplido en todo o en parte las obligaciones contractuales con los beneficiarios de los programas que maneja la Secretaría, y no podrán participar en los programas y acciones referidos en la presente ley.
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -1498,3 +1508,39 @@ P.O. 13 DE SEPTIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan a lo dispuesto en el presente Decreto.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
