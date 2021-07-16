@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-patrimonio-del-estado-de-quintana-roo-44417"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-28"
-last_updated: "2017-11-10"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 28 de marzo de 2005.
 
@@ -71,7 +71,9 @@ IX. Ley Orgánica: La Ley Orgánica de la Administración Pública del Estado de
 
 X. Ley: La Ley del Patrimonio del Estado de Quintana Roo.
 
-XI. Oficialía Mayor: La Oficialía Mayor del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XI. SEFIPLAN: Secretaría de Finanzas y Planeación;
 
 XII. Permiso: El acto administrativo por virtud del cual, el Ejecutivo del Estado entrega a una persona física o moral el uso de bienes inmuebles ya sea de dominio público o privado estatal, con carácter temporal y revocable;
 
@@ -253,7 +255,9 @@ Los servidores públicos, empleados y los particulares, se abstendrán de habita
 
 Los bienes muebles de dominio público a que se refiere el artículo 4 de esta Ley, deberán inventariarse por la autoridad que los tenga en custodia, quien turnará el inventario correspondiente a la Agencia para su registro.
 
-El cambio de uso o destino de dichos bienes será determinado por el Comité a propuesta de la Oficialía Mayor, atendiendo a las características específicas de cada uno, debiéndose observar las siguientes reglas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JULIO DE 2021)</small>
+
+El cambio de uso o destino de dichos bienes será determinado por el Comité a propuesta de la SEFIPLAN, atendiendo a las características específicas de cada uno, debiéndose observar las siguientes reglas:
 
 I. Los documentos, expedientes y archivos de las oficinas públicas, se conservarán en el Archivo General del Estado;
 
@@ -261,7 +265,9 @@ II. Los manuscritos, incunables, ediciones, libros, publicaciones periódicas, m
 
 III. Las pinturas murales, esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles del dominio del Estado, se resguardarán por los usuarios del inmueble, quienes bajo su más estricta responsabilidad responderán de su conservación y cuidado, y
 
-IV. La Oficialía Mayor, deberá inspeccionar el uso, conservación y cuidado que se tenga de los bienes muebles a que se refiere este Artículo.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+IV. La SEFIPLAN, deberá inspeccionar el uso, conservación y cuidado que se tenga de los bienes muebles a que se refiere este Artículo.
 
 ### CAPITULO II. DE LOS BIENES DE DOMINIO PRIVADO DEL ESTADO
 
@@ -343,17 +349,17 @@ En los contratos de permuta sobre inmuebles del dominio privado, deberá acredit
 
 Los muebles de dominio privado del Estado son inembargables. Los particulares podrán adquirir estos bienes por prescripción. La prescripción se regirá por el Código Civil, pero se duplicarán los plazos establecidos por ese Código para que aquella opere.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 33.
 
-Corresponde a la Oficialía Mayor o en su caso a las Dependencias y Entidades cuando así corresponda la enajenación mediante subasta pública de los bienes muebles de dominio privado estatal que figuren en sus inventarios, y que por su uso, aprovechamiento o estado de conservación, no sean ya adecuados para el servicio o resulte inconveniente seguirlos utilizando en el mismo.
+Corresponde a la SEFIPLAN, o en su caso, a las Dependencias y Entidades cuando así corresponda la enajenación mediante subasta pública de los bienes muebles de dominio privado estatal que figuren en sus inventarios, y que por su uso, aprovechamiento o estado de conservación, no sean ya adecuados para el servicio o resulte inconveniente seguirlos utilizando en el mismo.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 34.
 
-La convocatoria para la subasta pública que al efecto emita la Oficialía Mayor o en su caso, la Dependencia o Entidad de que se trate, deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, y en uno de los diarios de mayor circulación en el Estado, cuando menos con treinta días naturales de anticipación a la celebración de la misma.
+La convocatoria para la subasta pública que al efecto emita la SEFIPLAN, o en su caso, la Dependencia o Entidad de que se trate; deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, y en uno de los diarios de mayor circulación en el Estado, cuando menos con treinta días naturales de anticipación a la celebración de la misma.
 
 ###### Artículo 35.
 
@@ -371,13 +377,17 @@ V. Lugar y fecha para la recepción de las posturas que deberán presentarse en 
 
 VI. La circunstancia de que la inscripción de participantes será con cinco días previos a la realización de la subasta.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 36.
 
-La subasta estará presidida por los servidores públicos que designen la Dependencia o Entidad que corresponda, o por la Oficialía Mayor.
+La subasta estará presidida por los servidores públicos que designen la Dependencia o Entidad que corresponda, o por la SEFIPLAN.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 37.
 
-En caso de declararse desierta la subasta, se levantará acta en que así se haga valer y se le notificará, en su caso, a la Oficialía Mayor.
+En caso de declararse desierta la subasta, se levantará acta en que así se haga valer y se le notificará, en su caso, a la SEFIPLAN.
 
 ###### Artículo 38.
 
@@ -387,21 +397,27 @@ I. Cuando ocurran circunstancias extraordinarias o imprevisibles, o el monto de 
 
 II. Si habiendo sido convocada la subasta, no concurran cuando menos tres postores para presentar ofertas.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 39.
 
-El titular de la dependencia o entidad de que se trate, en los casos del Artículo anterior, en un plazo que no excederá de veinte días hábiles, contados a partir de la fecha en que se hubiere autorizado la operación, lo hará del conocimiento de la Oficialía Mayor, acompañando la documentación que justifique tal determinación.
+El titular de la dependencia o entidad de que se trate, en los casos del Artículo anterior, en un plazo que no excederá de veinte días hábiles, contados a partir de la fecha en que se hubiere autorizado la operación, lo hará del conocimiento de la SEFIPLAN, acompañando la documentación que justifique tal determinación.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 40.
 
-El monto de la enajenación no podrá ser inferior a los precios mínimos de los bienes, que determine la Oficialía Mayor, los cuales tendrán una vigencia de 180 días.
+El monto de la enajenación no podrá ser inferior a los precios mínimos de los bienes, que determine la SEFIPLAN, los cuales tendrán una vigencia de 180 días.
 
 ###### Artículo 41.
 
 Cuando se trate de armamento, municiones, explosivos, químicos, así como de objetos cuya posesión o uso pueda ser peligroso o causar riesgos graves, su enajenación, manejo o destrucción, se hará de acuerdo con los ordenamientos legales aplicables y atentos a las normas técnicas que al efecto existan.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 42.
 
-Efectuada la enajenación de que se trate, se procederá a la cancelación de registros en inventarios y se dará aviso a la Oficialía Mayor.
+Efectuada la enajenación de que se trate, se procederá a la cancelación de registros en inventarios y se dará aviso a la SEFIPLAN.
 
 ###### Artículo 43.
 
@@ -557,15 +573,21 @@ La Junta de Gobierno será el órgano superior de la Agencia y se integra por:
 
 I. El Gobernador del Estado, quien ocupará la Presidencia;
 
-II. El Titular de la Secretaría de Desarrollo Económico, en calidad de Vicepresidente, quien suplirá las ausencias del Presidente;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-III. El Titular de la Secretaría de Desarrollo Urbano y Vivienda, en calidad de Vocal;
+II. El Titular de la Secretaría de Desarrollo Económico, en calidad de Vicepresidente, quien suplirá las ausencias del Presidente.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+III. El titular de la Secretaría de Desarrollo Territorial Urbano Sustentable, en calidad de Vocal;
 
 IV. El Titular de la Secretaría de Ecología y Medio Ambiente, en calidad de Vocal;
 
 V. El Titular de la Secretaría de Finanzas y Planeación, en calidad de Vocal;
 
-VI. El Titular de la Oficialía Mayor, en calidad de Vocal, y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+VI. El titular de la Secretaría de Obras Públicas, en calidad de Vocal.
 
 VII. Tres ciudadanos del Estado que sean designados por el Comité.
 
@@ -577,7 +599,9 @@ La Junta funcionará válidamente con la concurrencia de la mayoría de sus miem
 
 La Junta se reunirá por lo menos cuatro veces al año en sesión ordinaria, y en sesión extraordinaria las veces que fuere necesario a convocatoria del Presidente.
 
-La vigilancia de la Agencia estará a cargo de un Comisario Público Propietario y un suplente, designados por la Secretaría de la Gestión Pública.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+La vigilancia de la Agencia estará a cargo de un Comisario Público Propietario y un suplente, designados por la Secretaría de la Contraloría.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
 
@@ -887,9 +911,11 @@ XXXVI. Cualquier otro acto jurídico necesario para instrumentar los Proyectos d
 
 XXXVII. Las demás que establezcan esta ley y otros ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 60.
 
-Corresponde a la Oficialía Mayor:
+Corresponde a la SEFIPLAN:
 
 I. Adquirir, administrar, destinar, custodiar y recuperar, en su caso, los bienes muebles que integran el patrimonio del Estado;
 
@@ -905,23 +931,37 @@ VI. Emitir los lineamientos administrativos de modernización y simplificación 
 
 VII. Las demás que se establezcan en este y otros ordenamientos legales correspondientes.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 60 Bis.
 
-Corresponde a la Secretaría de Desarrollo Urbano y Vivienda:
+Corresponde a la Secretaría de Desarrollo Territorial Urbano Sustentable:
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
 
 I. Adquirir, administrar, destinar, custodiar y recuperar, en su caso, los bienes inmuebles que integran el patrimonio del Estado en las materias de su competencia;
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
 II. Informar a la Secretaría de los actos jurídicos, registros, altas y bajas que se realicen sobre los bienes inmuebles de su competencia regulados por esta ley;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
 
 III. Asesorar, apoyar y promover técnica y jurídicamente, la incorporación de la tierra de origen rural al desarrollo urbano;
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
 IV. Constituir, adquirir y promover, en su caso, la desincorporación de reservas territoriales y de suelo apto para vivienda, en coordinación con los gobiernos Federal y Municipales, y con otras dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
 
 V. Promover, gestionar y asesorar técnica y jurídicamente la regularización de los asentamientos humanos que se encuentren en terrenos ejidales ubicados en las áreas de crecimiento de los centros de población;
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
 VI. Convenir con los órganos de representación de los ejidos y comunidades, la realización de las acciones necesarias para la desincorporación de las tierras de régimen ejidal y la incorporación de las mismas al fundo legal del Estado y al desarrollo urbano, de manera ordenada y con estricto apego a las disposiciones agrarias y de desarrollo urbano aplicables;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
 
 VII. Promover, gestionar y realizar técnica y jurídicamente, con la anuencia de las asambleas ejidales y comunales que corresponda, y con estricta observancia de las disposiciones legales correspondientes, las acciones necesarias para tramitar y adquirir en favor del Estado, según sea el caso, los siguientes procedimientos:
 
@@ -933,27 +973,51 @@ c) La terminación del régimen ejidal, cuando ya no existan en el núcleo agrar
 
 d) La regularización e incorporación al Estado de las tierras ejidales cuando no hayan sido delimitadas y asignadas conforme la legislación agraria.
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
 VIII. Administrar las reservas territoriales, llevar su control e informar sobre las mismas a la autoridad responsable de su registro;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
 
 IX. Convenir con el Gobierno Federal y en su caso, con los Ayuntamientos la formulación y ejecución de programas de adquisición de suelo y reserva territorial, y promover el traslado de dominio al Estado, de bienes del dominio de la Federación, aptos para los propósitos de esta ley y del desarrollo urbano de la Entidad;
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
 X. Promover en congruencia con el programa de desarrollo urbano aplicable, la desincorporación de porciones de tierra o predios de la reserva territorial, para que pasen a formar parte del área de expansión del centro de población correspondiente;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
 
 XI. Fomentar la construcción, comercialización y enajenación, en su caso, de lotes con servicios, obras de equipamiento urbano, viviendas y fraccionamientos de interés social, para su venta o renta a personas que carezcan de vivienda y cuya capacidad económica no les permita adquirirla;
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
 XII. Promover y realizar programas de mejoramiento y rehabilitación de vivienda urbana y rural;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
 
 XIII. Vigilar y asesorar que la construcción de vivienda, se realice preservando el equilibrio ecológico y procurando la utilización de materiales y tecnologías que coadyuven a elevar los niveles de habitabilidad de la vivienda, de salud y bienestar de las familias;
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
 XIV. Comercializar los predios propiedad del Gobierno del Estado, teniendo la facultad de vender, permutar o realizar cualquier contrato traslativo de dominio sobre los mismos a favor de terceros, con el propósito de que se construya vivienda, establecimientos comerciales, turísticos o de otra índole afín;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
 
 XV. Coordinar los programas de ordenamiento de la propiedad y de vivienda necesarios en el Estado y operar los fondos que para el efecto se constituyan;
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
 XVI. Otorgar y suscribir las escrituras públicas y los títulos de propiedad sobre los predios que regularice o enajene, conforme a la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
 
 XVII. Gestionar el financiamiento para la adquisición o construcción de vivienda, procurando el beneficio de la población, con escasos recursos;
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
 XVIII. Promover y realizar investigaciones, estudios y proyectos, sobre las necesidades en la materia, así como sobre la incorporación de nuevas tecnologías que propicien la satisfacción y mejora de dichas necesidades, y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
 
 XIX. Las demás que se establezcan en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo de acuerdo a sus facultades y competencias plenas, así como las que se requieran para el cumplimiento de sus fines o que dispongan otros ordenamientos.
 
@@ -1649,11 +1713,41 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 128 POR EL QUE SE "REFORMA EL ARTÍCULO 306, SE ADICIONAN LOS ARTÍCULOS 307 BIS, 313 BIS, 313 TER Y EL CAPÍTULO V AL TÍTULO DÉCIMO SEXTO CON LOS ARTÍCULOS 315 BIS, 315 TER Y 315 QUÁTER, DENOMINADO "DELITOS COMETIDOS POR LOS SUPERVISORES DE LIBERTAD" Y SE DEROGA EL ARTÍCULO 315, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+P.O. 16 DE JULIO DE 2021.
 
-ÚNICO. El presente decreto entrará en vigor el día 30 de noviembre de 2017 previa publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
 
-P.O. 15 DE MAYO DE 2017.
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 146 POR EL QUE "SE ADICIONA UNA FRACCIÓN XVI AL ARTÍCULO 193 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
 
