@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-integracion-y-funcionamiento-del-comite-4950
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2016-07-15"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49509&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-06-01"
 
 REGLAMENTO PARA LA INTEGRACIÓN Y FUNCIONAMIENTO DEL COMITÉ MIXTO DEL FONDO FORESTAL MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2021.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 7 de marzo de 2006.
 
@@ -57,9 +57,11 @@ Este Reglamento regula la integración, organización y el funcionamiento del Co
 
 (DEROGADO, D.O.F. 15 DE JULIO DE 2016)
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 3.
 
-El Comité Mixto es el órgano de operación, decisión, asesoría, supervisión, vigilancia, evaluación y seguimiento del Fondo Forestal Mexicano, el cual funciona en cumplimiento a lo previsto en los artículos 12 fracción XV, 114, 118, 141, 142 y 143 de la Ley General de Desarrollo Forestal Sustentable, así como el artículo sexto transitorio del Reglamento de la Ley invocada y demás disposiciones legales aplicables. Por lo que el Comité debe observar en su funcionamiento el presente Reglamento.
+El Comité Mixto es el órgano de operación, decisión, asesoría, supervisión, vigilancia, evaluación y seguimiento del Fondo Forestal Mexicano, el cual funciona en cumplimiento a lo previsto en los artículos 7 fracción XXVIII, 139 y 140 de la Ley General de Desarrollo Forestal Sustentable, y demás disposiciones legales aplicables. Por lo que el Comité debe observar en su funcionamiento el presente Reglamento.
 
 ### Capítulo II. Terminología
 
@@ -79,53 +81,59 @@ IV. CONAFOR: La Comisión Nacional Forestal.
 
 V. Cuenta Concentradora: La cuenta en la que se recibirán los recursos del Fondo y que operará a través de las subcuentas que se establezcan.
 
-VI. Fondo: El Fondo Forestal Mexicano referido en los artículos 142 y 143 de la Ley.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2021)</small>
 
-VII. Ley: La Ley General de Desarrollo Forestal Sustentable.
+VI. Fondo: El Fondo Forestal Mexicano referido en los artículos 139 y 140 de la Ley.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 16 DE JULIO DE 2021)</small>
+
+VII. Grupos de trabajo: Compuestos por representantes del sector gubernamental, academia, sector privado y sector social, de acuerdo a las necesidades contextuales que se identifiquen durante las sesiones del Comité.
+
+VIII. Ley: La Ley General de Desarrollo Forestal Sustentable.
 
 > <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2016)</small>
 
-VIII. Mandante: La Comisión Nacional Forestal, en los términos del contrato de mandato.
+IX. Mandante: La Comisión Nacional Forestal, en los términos del contrato de mandato.
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2016)</small>
 
-IX. Mandatario: La institución financiera que señale el contrato de mandato vigente.
+X. Mandatario: La institución financiera que señale el contrato de mandato vigente.
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2016)</small>
 
-X. Mandato: Contrato de mandato vigente, firmado entre la CONAFOR y el Mandatario, para administrar los recursos del Fondo Forestal Mexicano.
+XI. Mandato: Contrato de mandato vigente, firmado entre la CONAFOR y el Mandatario, para administrar los recursos del Fondo Forestal Mexicano.
 
-XI. Organizaciones Privadas: Las organizaciones privadas de los productores forestales representadas en el CONAF.
+XII. Organizaciones Privadas: Las organizaciones privadas de los productores forestales representadas en el CONAF.
 
-XII. Organizaciones Sociales: Las organizaciones sociales de los productores forestales representadas en el CONAF, donde se incluye a ejidos y comunidades.
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2016)</small>
-
-XIII. Presidente: El presidente del Comité.
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 15 DE JULIO DE 2016)</small>
-
-XIV. Programas: Los programas productivos, de restauración, de protección, de conservación y de aprovechamiento sustentable de los ecosistemas forestales y de los suelos en terrenos forestales o preferentemente forestales, así como los de bienes y servicios ambientales que generen los recursos forestales.
+XIII. Organizaciones Sociales: Las organizaciones sociales de los productores forestales representadas en el CONAF, donde se incluye a ejidos y comunidades.
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2016)</small>
 
-XV. Recursos: Los subsidios, donativos y demás recursos económicos que conforme a la Ley y normatividad aplicable, integran el Fondo Forestal Mexicano.
+XIV. Presidente: El presidente del Comité.
 
-XVI. Reglamento: El Reglamento de la Ley General de Desarrollo Forestal Sustentable.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2016)</small>
-
-XVII. Reglamento del Comité: El Reglamento para la Integración y Funcionamiento del Comité Mixto del Fondo Forestal Mexicano.
-
-XVIII. Secretario: El Secretario del Comité.
-
-XIX. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales.
-
-XX. Subcuentas: Las que integran y conforman los recursos del Fondo, en las formas que se establecen en el Mandato y las nuevas que se constituyen para recibir en ellas recursos por instrucciones de la CONAFOR al Mandatario.
+XV. Programas: Los programas productivos, de restauración, de protección, de conservación y de aprovechamiento sustentable de los ecosistemas forestales y de los suelos en terrenos forestales o preferentemente forestales, así como los de bienes y servicios ambientales que generen los recursos forestales y en general todos aquellos programas públicos operados por CONAFOR.
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2016)</small>
 
-XXI. Vicepresidente: El vicepresidente del Comité.
+XVI. Recursos: Los subsidios, donativos y demás recursos económicos que conforme a la Ley y normatividad aplicable, integran el Fondo Forestal Mexicano.
+
+XVII. Reglamento: El Reglamento de la Ley General de Desarrollo Forestal Sustentable.
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2016)</small>
+
+XVIII. Reglamento del Comité: El Reglamento para la Integración y Funcionamiento del Comité Mixto del Fondo Forestal Mexicano.
+
+XIX. Secretario: El Secretario del Comité.
+
+XX. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales.
+
+XXI. Subcuentas: Las que integran y conforman los recursos del Fondo, en las formas que se establecen en el Mandato y las nuevas que se constituyen para recibir en ellas recursos por instrucciones de la CONAFOR al Mandatario.
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2016)</small>
+
+XXII. Vicepresidente: El vicepresidente del Comité.
 
 ## TITULO SEGUNDO. ORGANIZACION Y FUNCIONAMIENTO
 
@@ -141,9 +149,13 @@ Los integrantes y sus suplentes serán designados de la siguiente forma:
 
 I.- Los integrantes del Comité representantes del sector público federal y su suplente deberán ser mexicanos y tener el nivel mínimo de gerente o su equivalente. Tres de ellos deberán ser servidores públicos de la CONAFOR designados por su Director General y el cuarto de la SEMARNAT, designado por su Titular.
 
-II.- Los integrantes del Comité, que sean representantes de las organizaciones privadas de productores y sus suplentes, deberán ser mexicanos y serán designados en el interior de las organizaciones del sector privado representadas en el CONAF, quienes podrán ser removidos cuando éstas lo consideren.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2021)</small>
 
-III.- Los integrantes del Comité, que sean representantes de las organizaciones sociales y sus suplentes, deberán ser mexicanos y serán designados en el interior de las organizaciones del sector social representadas en el CONAF, quienes podrán ser removidos cuando éstas lo consideren.
+II.- Las personas que integren el Comité, que sean representantes de las organizaciones privadas de productores y sus suplentes, deberán ser mexicanos y serán designados de entre las organizaciones del sector privado representadas en el CONAF y mediante acuerdo del mismo, quienes podrán ser removidos cuando éstas lo consideren.
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2021)</small>
+
+III.- Los integrantes del Comité, que sean representantes de las organizaciones sociales y sus suplentes, deberán ser mexicanos y serán designados de entre las organizaciones del sector social representadas en el CONAF y mediante acuerdo del mismo, quienes podrán ser removidos cuando éstas lo consideren.
 
 Asimismo, será invitado permanente a las sesiones del Comité un representante del Organo Interno de Control en la CONAFOR, mismo que tendrá derecho a voz pero sin voto.
 
@@ -179,9 +191,9 @@ b) (DEROGADO, D.O.F. 15 DE JULIO DE 2016)
 
 c) Examinar la operación de las subcuentas del Fondo por conducto de la CONAFOR.
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2021)</small>
 
-d) Constituir los subcomités que considere necesarios para el apoyo de sus actividades.
+d) Constituir los grupos de trabajo que considere necesarios para el apoyo de sus actividades.
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2016)</small>
 
@@ -193,19 +205,23 @@ f) Hacer las recomendaciones y observaciones a la CONAFOR, en todo lo inherente 
 
 g) Supervisar que el destino de los recursos del Fondo se operen, se asignen y se apliquen de forma clara, transparente y acorde a las Reglas de Operación de los Programas que se establezcan respecto del funcionamiento y operación del Fondo.
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 16 DE JULIO DE 2021)</small>
 
-h) Requerir la información que se considere necesaria por conducto de la CONAFOR al Mandatario.
+h) Proponer y acordar la política de inversión de los recursos depositados en el Fondo, de acuerdo con el marco legal vigente.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 16 DE JULIO DE 2021)</small>
+
+i) Requerir la información que se considere necesaria por conducto de la CONAFOR al Mandatario
 
 ###### Artículo 10.
 
 El Comité vigilará todos los actos y operaciones efectuadas en el Fondo por el Mandatario al amparo de las instrucciones que reciba de la CONAFOR.
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 11.
 
-La duración del nombramiento de los representantes de las organizaciones privadas y sociales será de dos años, transcurridos los cuales podrán ser ratificados por una sola vez, por quien fueron designados.
+La duración del nombramiento de los representantes de las organizaciones privadas y sociales será de dos años, sin posibilidad de ser ratificados ni nombrados como suplentes para el período inmediato a aquel en el que fueron designados.
 
 ###### Artículo 12.
 
@@ -301,7 +317,9 @@ XVII. Llevar el control, registro y codificación de los acuerdos y resoluciones
 
 XVIII. Realizar las acciones necesarias ante la CONAFOR, el Mandatario y el Comité Mixto para que se dé seguimiento a las observaciones derivadas de los acuerdos del Comité relacionadas con la operación del Fondo;
 
-XIX. Las demás funciones que le encomiende el Comité a través del Presidente, y (sic)
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2021)</small>
+
+XIX. Las demás funciones que le encomiende el Comité a través del Presidente.
 
 ###### Artículo 15.
 
@@ -319,11 +337,11 @@ V. Las demás funciones que les encomiende el Comité a través del Presidente.
 
 ### Capítulo III. Sesiones
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 16.
 
-El Comité celebrará tres sesiones ordinarias al año.
+El Comité celebrará por lo menos dos sesiones ordinarias al año.
 
 ###### Artículo 17.
 
@@ -339,9 +357,15 @@ d) (DEROGADO, D.O.F. 15 DE JULIO DE 2016)
 
 e) Cuatro miembros del Comité, a través del Presidente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 18.
 
-Las sesiones del Comité se celebrarán en su domicilio, a menos que por votación del Comité se decida celebrar la sesión en otro lugar. El domicilio del Comité estará en la Zona Metropolitana de la Ciudad de Guadalajara, Jalisco, siendo responsabilidad del Secretario encargarse del despacho y atención de los asuntos inherentes al Comité.
+Las sesiones del Comité se celebrarán en su domicilio, a menos que por votación del Comité se decida celebrar la sesión en otro lugar. El domicilio del Comité estará en la Zona Metropolitana de Guadalajara, Jalisco, siendo responsabilidad del Secretariado encargarse del despacho y atención de los asuntos inherentes al Comité.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2021)</small>
+
+A las sesiones se podrá concurrir usando los medios tecnológicos audiovisuales pertinentes, asentando en la minuta de acuerdos correspondiente la asistencia remota de quien así lo realice.
 
 ###### Artículo 19.
 
@@ -375,9 +399,11 @@ Las sesiones serán presididas por el Presidente del Comité y en su ausencia el
 
 Corresponde al Secretario del Comité llevar el control de asistencia de las sesiones y dar cuenta de éste al Presidente, quien declarará, en su caso, la existencia del quórum necesario para iniciar la sesión. Hecho lo anterior, el que presida declarará instalado el Comité y procederá a tratar los asuntos de la orden del día.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 26.
 
-El miembro del Comité que en una operación determinada tenga un interés particular, deberá abstenerse de votar y de participar en toda deliberación relativa a esa operación, hacerlo del conocimiento del Comité y además la obligación de manifestar expresamente los motivos por los que deriva dicho interés, quien contravenga lo anterior será responsable civil y penalmente de los daños que provoque.
+La persona del Comité que tenga un conflicto de interés, deberá abstenerse de votar y de participar en toda deliberación relativa a dicho asunto, hacerlo del conocimiento del Comité y además se verá obligada a manifestar expresamente los motivos de los que deriva dicho interés, quien contravenga lo anterior será responsable civil y penalmente de los daños que provoque.
 
 ###### Artículo 27.
 
@@ -419,7 +445,9 @@ II. Que la apertura de subcuentas específicas se justifique;
 
 III. Que los recursos del Fondo se apliquen y destinen a los beneficiarios que corresponda, de conformidad a las Reglas de operación específicas de cada uno de los Programas;
 
-IV. Que cuando no haya Reglas de Operación específicas para la aplicación de los recursos aportados al Fondo y la persona física o moral que los depositó en el Fondo no hubiere dado instrucciones específicas en cuanto a su aplicación, éstos se aplicarán para cumplir los objetivos establecidos en el artículo 17 de la Ley.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2021)</small>
+
+IV. Que cuando no haya Reglas de Operación específicas para la aplicación de los recursos aportados al Fondo y la persona física o moral que los depositó en el Fondo no hubiere dado instrucciones específicas en cuanto a su aplicación, éstos se aplicarán para cumplir los objetivos establecidos en el artículo 2 de la Ley.
 
 En el caso de los recursos de instituciones, las instrucciones para la aplicación de los recursos deberán contar con la opinión favorable del Organo Interno de Control en la Institución o bien del Organo Interno de Control en la CONAFOR;
 
@@ -433,9 +461,9 @@ VII. Que se asegure la eficacia, selectividad y transparencia en la aplicación 
 
 VIII. Que cuando se transfieran recursos a los gobiernos de los estados o municipales se asegure que sea bajo los procedimientos adecuados y se garantice en todo momento que se operen a través de un organismo responsable, debida y legalmente constituido;
 
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2021)</small>
 
-IX. Que los recursos que se depositen en el Fondo, de conformidad con lo dispuesto por el artículo 118 de la Ley, por cambio de uso de suelo, se apliquen en actividades de reforestación o restauración y mantenimiento de los ecosistemas afectados, preferentemente en las entidades federativas en donde se haya autorizado el cambio de uso del suelo.
+IX. Que los recursos que se depositen en el Fondo, de conformidad con lo dispuesto por el artículo 98 de la Ley, por cambio de uso de suelo, se apliquen en actividades de reforestación o restauración y mantenimiento de los ecosistemas afectados, preferentemente en las entidades federativas en donde se haya autorizado el cambio de uso del suelo.
 
 X. Que se identifique plenamente por la CONAFOR la legal procedencia de los recursos que ingresen al Fondo;
 
@@ -457,11 +485,11 @@ XVI. Que en todo momento se observen las disposiciones derivadas de la Ley, su R
 
 Cuando el Comité detecte que en la operación del Fondo no se observan las disposiciones de la Ley, su Reglamento, el Mandato o no se cumple con alguno de los criterios para la aplicación de los recursos establecidos en el presente Reglamento del Comité, podrá solicitar el apoyo del Organo Interno de Control en la CONAFOR.
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 35.
 
-El Órgano Interno de Control podrá ejercer sus facultades para verificar que el Comité observe las disposiciones contenidas en la Ley y su Reglamento, el Mandato, las Reglas de Operación de los programas, el Reglamento y demás disposiciones aplicables. Asimismo, podrá emitir recomendaciones al Comité y en su caso, proceder conforme con lo dispuesto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+El Órgano Interno de Control podrá ejercer sus facultades para verificar que el Comité observe las disposiciones contenidas en la Ley y su Reglamento, el Mandato, las Reglas de Operación de los programas, el Reglamento y demás disposiciones aplicables. Asimismo, podrá emitir recomendaciones al Comité y en su caso, proceder conforme con lo dispuesto en la Ley General de Responsabilidades Administrativas.
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2016)</small>
 
@@ -492,3 +520,13 @@ D.O.F. 15 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE DAN A CONOCER LAS MODIFICACIONES AL REGLAMENTO PARA LA INTEGRACIÓN Y FUNCIONAMIENTO DEL COMITÉ MIXTO DEL FONDO FORESTAL MEXICANO, PUBLICADO EL 7 DE MARZO DE 2006".]
 
 ÚNICO.- El presente acuerdo entrará en vigor a partir del día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DAN A CONOCER LAS MODIFICACIONES A LOS ARTÍCULOS 3, 4 FRACCIONES VI, VII Y XV; 5 FRACCIONES II Y III; 9 INCISOS D) Y H); 11, 14 FRACCIÓN XIX, 16, 18 PRIMER PÁRRAFO Y SE ADICIONA SEGUNDO PÁRRAFO; 26, 33 FRACCIONES IV Y IX; 35 Y, SE ADICIONA LA FRACCIÓN I) DEL ARTÍCULO 9 Y UN ARTÍCULO TRANSITORIO DEL REGLAMENTO PARA LA INTEGRACIÓN Y EL FUNCIONAMIENTO DEL COMITÉ MIXTO DEL FONDO FORESTAL MEXICANO PUBLICADO EL 7 DE MARZO DE 2006 Y SUS REFORMAS”.]
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2021)</small>
+
+PRIMERO.- Se abroga el Reglamento para la integración y funcionamiento del Subcomité de Inversiones del Comité Mixto del Fondo Forestal Mexicano de fecha 19 de abril de 2018.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor a partir del día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
