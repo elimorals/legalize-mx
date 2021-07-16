@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-el-fomento-de-la-eficiencia-energetica-y-del-96135"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-06"
-last_updated: "2014-12-23"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA EL FOMENTO DE LA EFICIENCIA ENERGÉTICA Y DEL APROVECHAMIENTO DE LAS FUENTES DE ENERGÍA RENOVABLES EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 6 de septiembre de 2013.
 
@@ -45,7 +45,9 @@ LEY PARA EL FOMENTO DE LA EFICIENCIA ENERGÉTICA Y DEL APROVECHAMIENTO DE LAS FU
 
 La presente ley es de orden público e interés social y tiene por objeto:
 
-I. Fomentar el aprovechamiento de las fuentes de energía renovables, y el uso de tecnologías limpias, la eficiencia y la suficiencia energética en el Estado y los Municipios como instrumento de promoción del desarrollo sustentable, la innovación, el desarrollo tecnológico, la competitividad económica, la mejora de la calidad de vida y la protección y preservación del medio ambiente;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+I. Fomentar el aprovechamiento de las fuentes de energía renovables, y el uso de tecnologías limpias, la eficiencia y la suficiencia energética en el estado y los Municipios como instrumento de promoción del desarrollo sostenible, la innovación, el desarrollo tecnológico, la competitividad económica, la mejora de calidad de vida y la protección y preservación del medio ambiente;
 
 II. Promover la planeación estatal y municipal en materia de aprovechamiento de las fuentes de energía renovables, alineada al Plan Estatal de Desarrollo como un instrumento de las políticas públicas de la Estrategia Nacional de transición energética;
 
@@ -55,7 +57,9 @@ IV. Impulsar el aprovechamiento de las fuentes de energía renovables, en la pla
 
 V. Impulsar la investigación científica y tecnológica, relacionada con las fuentes de energía renovables, así como su aplicación y divulgación;
 
-VI. Aplicar en el Estado una adecuada política de diversificación de eficiencia y sustentabilidad energética, y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+VI. Aplicar en el Estado una adecuada política de diversificación de eficiencia, sostenibilidad y suficiencia energética; y
 
 VII. Establecer los criterios generales para incentivar la inversión y el uso de tecnologías limpias relacionadas con el aprovechamiento de las fuentes de energía renovables.
 
@@ -95,7 +99,9 @@ g. Aquellas otras que, en su caso, determine la Secretaría de Energía del Gobi
 
 VIII. Plan de Fomento: Plan Estatal para el Fomento de la Eficiencia Energética y del Aprovechamiento de las Fuentes de Energía Renovables.
 
-IX. Secretaría: La Secretaría de Desarrollo Económico del Estado de Quintana Roo.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+IX. Secretaría: La Secretaría de Ecología y Medio Ambiente; y
 
 X. Tecnologías limpias: Aquellas que al ser aplicadas no producen o producen menos efectos secundarios al medio ambiente.
 
@@ -111,11 +117,15 @@ Las comunidades científica, tecnológica, académica, económica y en general l
 
 Son principios rectores de la presente ley:
 
-I. Desarrollo sustentable: Aquel que asegura las necesidades del presente sin comprometer la capacidad de las futuras generaciones para enfrentarse a sus propias necesidades, procurando un equilibrio entre los factores económicos, medioambientales y sociales;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+I. Desarrollo sostenible: Aquel que asegura las necesidades del presente sin comprometer la capacidad de las futuras generaciones para enfrentarse a sus propias necesidades, procurando un equilibrio entre los factores económicos, medioambientales y sociales;
 
 II. Integralidad: Interrelación, articulación y complementariedad de programas que conjuntan las dimensiones políticas, económicas, sociales, culturales y ambientales para cumplir en los diversos órdenes de gobierno con los objetivos de la ley;
 
-II. Investigación e innovación científica y tecnológica: El diseño y ejecución de los medios orientados a la aplicación de nuevas tecnologías para el desarrollo sustentable de eficiencia energética y de fuentes de energías renovables;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+III. Investigación e innovación científica y tecnológica: El diseño y ejecución de los medios orientados a la aplicación de nuevas tecnologías para el desarrollo sostenible de eficiencia energética y de fuentes de energías renovables;
 
 IV. Eficiencia: Uso racional de los medios con que se cuenta para alcanzar un objetivo predeterminado;
 
@@ -147,9 +157,9 @@ V. La Secretaría de Desarrollo Urbano y Vivienda;
 
 VI. La Secretaría de Ecología y Medio Ambiente;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-VII. La Secretaría de Educación y Cultura, y
+VII. La Secretaría de Educación; y
 
 VIII. El Consejo Quintanarroense de Ciencia y Tecnología.
 
@@ -231,7 +241,9 @@ II. En las actividades que desarrollen las dependencias y entidades de la Admini
 
 El Gobernador del Estado y los Ayuntamientos podrán establecer incentivos fiscales al sector social y privado que fomenten el aprovechamiento de las fuentes de energía renovables y el uso de tecnologías limpias, mismos que deberán ser publicados en el Periódico Oficial del Estado.
 
-### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JULIO DE 2021)</small>
+
+### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
 
 ###### Artículo 15.
 
@@ -273,9 +285,11 @@ La Secretaría podrá organizar anualmente ferias o convenciones nacionales e in
 
 ### CAPÍTULO SEXTO. DE LAS ATRIBUCIONES DE LA COMISIÓN DE ENERGÍA
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 18.
 
-La Comisión tendrá las atribuciones y facultades establecidas en su Decreto de creación, en la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo y en la presente ley. Para el cumplimiento de dichas atribuciones, deberá elaborar el Plan de Fomento.
+La Comisión tendrá las atribuciones y facultades establecidas en la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo, la presente Ley y las demás disposiciones normativas aplicables. Para el cumplimiento de dichas atribuciones, deberá elaborar el Plan de Fomento.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -283,11 +297,15 @@ La Comisión tendrá las atribuciones y facultades establecidas en su Decreto de
 
 La Comisión, deberá establecer disposiciones administrativas generales y obligatorias para el uso eficiente de la energía en la Administración Pública Estatal. Asimismo, la Comisión podrá emitir recomendaciones para el uso eficiente de la energía a los demás Poderes y Municipios del Estado.
 
-### CAPÍTULO SÉPTIMO. DE LAS ATRIBUCIONES DE (SIC) SECRETARÍA DE DESARROLLO URBANO Y VIVIENDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JULIO DE 2021)</small>
+
+### CAPÍTULO SÉPTIMO. DE LAS ATRIBUCIONES DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 20.
 
-Sin menoscabo de las atribuciones conferidas por la Ley de Vivienda del Estado de Quintana Roo, la Secretaría de Desarrollo Urbano y Vivienda podrá considerar dentro de sus programas y acciones de vivienda, sistemas de aprovechamiento de energías renovables, para lo cual deberá contar con la opinión de la Comisión.
+Sin menoscabo de las atribuciones conferidas por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo, la Secretaría de Desarrollo Territorial Urbano Sustentable, podrá considerar dentro de sus programas y acciones de vivienda, sistemas de aprovechamiento de energías renovables, para lo cual deberá contar con la opinión de la Comisión.
 
 ###### Artículo 21.
 
@@ -299,31 +317,41 @@ II. La aplicación de técnicas que permitan aprovechar las condiciones de ilumi
 
 III. El diseño arquitectónico considerando condiciones acústicas y radiación solar en todas sus variantes, iluminación natural, ganancia térmica, radiación ultravioleta e infrarroja, protección solar y al viento, climatización pasiva y ventilación natural.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 22.
 
-La Secretaría de Desarrollo Urbano y Vivienda conjuntamente con la Comisión, podrá brindar asesoría técnica a las personas interesadas y a los desarrolladores de vivienda en aprovechar las fuentes de energías renovables en la construcción.
+La Secretaría de Desarrollo Territorial Urbano Sustentable conjuntamente con la Comisión, podrá brindar asesoría técnica a las personas interesadas y a los desarrolladores de vivienda en aprovechar las fuentes de energías renovables en la construcción.
 
-### CAPÍTULO OCTAVO. DE LA COORDINACIÓN CON LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JULIO DE 2021)</small>
+
+### CAPÍTULO OCTAVO. DE LA COORDINACIÓN CON OTROS ENTES PÚBLICOS
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 23.
 
-La Comisión podrá establecer, mediante disposiciones administrativas generales y escuchando la opinión de la Secretaría de Ecología y Medio Ambiente del Estado de Quintana Roo, las recomendaciones para utilizar fuentes de energías renovables en los sectores productivos con el propósito de mitigar emisiones contaminantes y sus efectos nocivos en el medio ambiente.
+La Comisión podrá establecer, mediante disposiciones administrativas generales y escuchando la opinión de la Secretaría, las recomendaciones para utilizar fuentes de energías renovables en los sectores productivos con el propósito de mitigar emisiones contaminantes y sus efectos nocivos en el medio ambiente.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 24.
 
-La Comisión en coordinación con la Secretaría de Ecología y Medio Ambiente del Estado, establecerán los criterios técnicos para el uso de las energías renovables en la elaboración de los Programas de Manejo de las áreas naturales protegidas de competencia estatal.
+La Comisión en coordinación con la Secretaría, establecerán los criterios técnicos para el uso de las energías renovables en la elaboración de los Programas de Manejo de las áreas naturales protegidas de competencia estatal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ### CAPÍTULO NOVENO. DE LAS ATRIBUCIONES DE LA SECRETARÍA DE EDUCACIÓN Y CULTURA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 25.
 
-A la Secretaría de Educación y Cultura del Estado, le corresponde (sic) las siguientes atribuciones:
+A la Secretaría de Educación, le corresponde (sic) las siguientes atribuciones:
 
 I. Impulsar la realización de investigación científica y tecnológica relacionada con la aplicación de fuentes renovables de energía y su uso eficiente;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE JULIO DE 2021)</small>
 
 II. Promover en las instituciones educativas estudios relativos a la sustentabilidad energética y al aprovechamiento de las fuentes de energía renovables;
 
@@ -343,9 +371,11 @@ La Comisión en coordinación con el Consejo Quintanarroense de Ciencia y Tecnol
 
 En el Programa Operativo Anual del Consejo Quintanarroense de Ciencia y Tecnología, se podrá prever el apoyo de las actividades de investigación a que se refiere el presente capítulo, con el propósito de colocar al Estado como promotor del desarrollo de esta tecnología.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 28.
 
-El Consejo de Ciencia y Tecnología del Estado de Quintana Roo promoverá entre las instituciones educativas públicas y privadas del Estado, a través de concursos y exposiciones, la investigación y desarrollo tecnológico relacionado con el aprovechamiento de las fuentes de energía renovables.
+El Consejo de Ciencia y Tecnología del Estado de Quintana Roo promoverá con apoyo de la Secretaría, entre las instituciones educativas públicas y privadas del Estado, a través de concursos y exposiciones, la investigación y desarrollo tecnológico relacionado con el aprovechamiento de las fuentes de energía renovables.
 
 ## TÍTULO TERCERO. PLAN ESTATAL DE FOMENTO DE ENERGÍAS RENOVABLES
 
@@ -409,21 +439,27 @@ La Comisión promoverá la capacitación para el desarrollo y aplicación de tec
 
 ### CAPÍTULO SEGUNDO. DE LA ENERGÍA DEL VIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 32.
 
-La Comisión, en coordinación con el Estado y los Municipios, fomentará el aprovechamiento de la energía del viento, de conformidad con las normas aplicables. Para tal propósito se coordinará con las instancias federales competentes para la elaboración de estudios que ubiquen los lugares dentro del estado y los municipios susceptibles de este tipo de aprovechamiento energético.
+La Comisión, en coordinación con los Municipios, fomentará el aprovechamiento de la energía del viento, de conformidad con las normas aplicables. Para tal propósito se coordinará con las instancias federales competentes para la elaboración de estudios que ubiquen los lugares dentro del estado y los municipios susceptibles de este tipo de aprovechamiento energético.
 
 El Estado y los Municipios podrán establecer empresas de participación pública y privada para fomentar el aprovechamiento de este recurso.
 
 ### CAPÍTULO TERCERO. DE LA ENERGÍA DE LOS BIOENERGÉTICOS
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 33.
 
-La Comisión, en coordinación con el Estado y los Municipios, fomentará el aprovechamiento de los bioenergéticos, de conformidad a la Ley de Promoción y Desarrollo de los Bioenergéticos, la Ley de Equilibrio Ecológico y la Protección del Ambiente del Estado de Quintana Roo, la Ley para la Prevención y la Gestión Integral de Residuos del Estado de Quintana Roo y demás disposiciones aplicables.
+La Comisión en coordinación con los Municipios, fomentará el aprovechamiento de los bioenergéticos, de conformidad con la Ley de Promoción y Desarrollo de los Bioenergéticos, la Ley de Equilibrio Ecológico y la Protección del Ambiente del Estado de Quintana Roo, la Ley para la Prevención, Gestión Integral y Economía Circular de los Residuos del Estado de Quintana Roo y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 34.
 
-Con la asesoría de la Comisión, el Estado y los Municipios podrán establecer empresas de participación pública para utilizar los bioenergéticos, que tenga (sic) las siguientes aplicaciones:
+Con la asesoría de la Comisión, los Municipios podrán establecer empresas de participación pública para utilizar los bioenergéticos, que tengan las siguientes aplicaciones:
 
 I. Generación eléctrica para la prestación de servicios públicos;
 
@@ -522,3 +558,39 @@ P.O. 23 DE DICIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan el presente decreto.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
