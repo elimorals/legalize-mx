@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-las-entidades-de-la-administracion-publica-45355"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-22"
-last_updated: "2017-06-28"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Número 4 Extraordinario Bis del Periódico Oficial del Estado de Quintana Roo, el 22 de enero de 2003.
 
@@ -117,11 +117,11 @@ La intervención que conforme a las leyes corresponde al Ejecutivo en la operaci
 
 Los representantes del Ejecutivo del Estado en las entidades paraestatales tienen la obligación de velar por los intereses de éste, y conocer la operación de la entidad en que colaboran y participar en los órganos de gobierno, conforme a lo dispuesto en la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 13.
 
-Las dependencias o entidades de la Administración Pública Estatal o paraestatal podrán participar como miembros en los órganos de gobierno de las entidades paraestatales, incluyendo los comités técnicos de los fideicomisos públicos; un representante de la Oficialía Mayor y un representante de la Secretaría de Planeación y finanzas deberán participar como miembros de tales órganos de gobierno sin excepción alguna por disposición de esta Ley, aún y cuando no se prevenga en la Ley, decreto o estatuto que cree la entidad paraestatal.
+Las dependencias o entidades de la Administración Pública Estatal o paraestatal podrán participar como miembros en los órganos de gobierno de las entidades paraestatales, incluyendo los comités técnicos de los fideicomisos públicos; un representante de la Secretaría de Finanzas y Planeación deberá participar como miembro de tales órganos de gobierno sin excepción alguna por disposición de esta Ley, aún y cuando no se prevenga en la Ley, decreto o estatuto que cree la entidad paraestatal.
 
 La participación a que se refiere el párrafo anterior, se dará sólo si así lo dispone de manera particular la presente Ley, o bien la ley, decreto o estatuto que cree la entidad paraestatal de que se trate.
 
@@ -197,9 +197,9 @@ III. El objeto del organismo.
 
 IV. Las aportaciones y fuentes de recursos para integrar su patrimonio, así como aquellas que se determinen para su incremento.
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-V. La manera de integrar el órgano de gobierno y de designar al director general, en todo caso deberá señalarse como integrantes de dicho órgano un representante de la Oficialía Mayor y un representante de la Secretaría de Planeación y Finanzas;
+V. La manera de integrar el órgano de gobierno y de designar al director general, en todo caso, deberá señalarse como integrante de dicho órgano un representante de la Secretaría de Finanzas y Planeación;
 
 VI. Las facultades y obligaciones del órgano de gobierno, señalando cuales de dichas facultades son indelegables.
 
@@ -215,9 +215,9 @@ El estatuto orgánico deberá inscribirse en el Registro Público de Organismos 
 
 En la extinción de los organismos descentralizados deberán observarse las mismas formalidades establecidas para su creación, debiendo la ley o decreto respectivo fijar la forma y términos de su extinción y liquidación.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-Cuando no se disponga la integración de un representante de la Oficialía Mayor y de un representante de la Secretaría de Planeación y Finanzas en los órganos de Gobierno, estos se integrarán por disposición de Ley en términos de lo dispuesto en el primer párrafo del artículo 13 del presente ordenamiento.
+Cuando no se disponga la integración de un representante de la Secretaría de Finanzas y Planeación en los órganos de Gobierno, se integrará por disposición de Ley en términos de lo dispuesto en el primer párrafo del artículo 13 del presente ordenamiento.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -581,11 +581,11 @@ XIII. Las que señalen las otras leyes, decretos, reglamentos, acuerdos y demás
 
 ### CAPITULO VII. DEL CONTROL Y EVALUACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 65.
 
-El órgano de vigilancia de los organismos descentralizados, salvo para el caso de empresas de participación estatal minoritaria, estará integrado por un comisario público propietario, el cual tendrá un suplente, designados por la Secretaría de la Gestión Pública.
+El órgano de vigilancia de los organismos descentralizados, salvo para el caso de empresas de participación estatal minoritaria, estará integrado por un comisario público propietario, el cual tendrá un suplente, designados por la Secretaría de la Contraloría del Estado.
 
 Los comisarios públicos evaluarán el desempeño general del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que les asigne específicamente conforme a la ley. Para el cumplimiento de lo anterior, el órgano de gobierno y el director general deberán proporcionar la información que soliciten los comisarios públicos.
 
@@ -599,11 +599,11 @@ II. Los directores generales definirán las políticas de instrumentación de lo
 
 III. Los demás servidores públicos del organismo responderán dentro del ámbito de sus competencias correspondientes, sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 67.
 
-La Secretaría de la Gestión Pública ejercerá la función de órgano de control de los organismos descentralizados, de las empresas de participación estatal mayoritaria y de los fideicomisos públicos, de acuerdo a las siguientes bases:
+La Secretaría de la Contraloría del Estado ejercerá la función de órgano de control de los organismos descentralizados, de las empresas de participación estatal mayoritaria y de los fideicomisos públicos, de acuerdo a las siguientes bases:
 
 I. Trabajará coordinadamente con el órgano de gobierno o director general del organismo.
 
@@ -615,21 +615,21 @@ III. Examinará y evaluará los sistemas, mecanismos y procedimientos de control
 
 La coordinadora de sector, a través de su titular o representante, mediante su participación en los órganos colegiados de gobierno, en su caso, o consejos de administración de las paraestatales, podrá recomendar las medidas adicionales que estime pertinentes sobre las acciones tomadas en materia de control.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 69.
 
-La Secretaría de la Gestión Pública podrá realizar visitas y auditorias a las entidades paraestatales en que ejerza funciones de órgano de control, y supervisará el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración de los organismos públicos descentralizados, empresas de participación estatal mayoritaria y fideicomisos, y proveerá lo necesario para corregir las diferencias y omisiones en que se hubiera incurrido.
+La Secretaría de la Contraloría del Estado podrá realizar visitas y auditorías a las entidades paraestatales en que ejerza funciones de órgano de control, y supervisará el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración de los organismos públicos descentralizados, empresas de participación estatal mayoritaria y fideicomisos, y proveerá lo necesario para corregir las diferencias y omisiones en que se hubiera incurrido.
 
 ###### Artículo 70.
 
 En aquellos casos en que el órgano colegiado de gobierno, consejo de administración o el director general no dieren cumplimiento a las obligaciones legales que les atribuye este ordenamiento, el Ejecutivo del Estado por conducto de las dependencias competentes, así como de la coordinadora de sector que corresponda, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley u otras leyes. Lo anterior, sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 71.
 
-En aquellas empresas en las que participa el Estado con la suscripción de menos del 50% del capital, se vigilarán las inversiones correspondientes al Estado, a través del comisario que se designe por la Secretaría de la Gestión Pública y, el ejercicio de los derechos respectivos se hará por conducto de los servidores públicos que el Ejecutivo designe para ocupar la titularidad de las acciones o partes sociales.
+En aquellas empresas en las que participa el Estado con la suscripción de menos del 50% del capital, se vigilarán las inversiones correspondientes al Estado, a través del comisario que se designe por la Secretaría de la Contraloría del Estado y, el ejercicio de los derechos respectivos se hará por conducto de los servidores públicos que el Ejecutivo designe para ocupar la titularidad de las acciones o partes sociales.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -748,3 +748,39 @@ P.O. 28 DE JUNIO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones jurídicas que se contrapongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
