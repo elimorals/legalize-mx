@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-bibliotecas-del-estado-de-quintana-roo-78126"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-13"
-last_updated: "2010-12-13"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE BIBLIOTECAS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 13 de diciembre de 2010.
 
@@ -75,7 +75,9 @@ II.- Bebeteca: Espacio destinado al acervo e instalaciones adecuadas para menore
 
 III.- Biblioteca: El espacio físico que cuenta con un acervo bibliográfico, hemerográfico y documental, cuya misión es contribuir al desarrollo de las personas y su calidad de vida por medio de la difusión del pensamiento, el acceso a la lectura, la información, la investigación, las expresiones culturales en igualdad de oportunidades a toda persona que haga uso de él.
 
-IV.- Biblioteca Central: Aquella organizada por la Secretaría de Cultura de Quintana Roo como Biblioteca del Estado, para todos los efectos de la Red Estatal de Bibliotecas.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+IV.- Biblioteca Central: Aquella organizada por el Instituto de la Cultura y las Artes como Biblioteca del Estado, para todos los efectos de la Red Estatal de Bibliotecas.
 
 V.- Biblioteca móvil: Biblioteca Pública del Estado de Quintana Roo, prevista para trasladarse continuamente en distintas zonas de la entidad en función de la ausencia de una biblioteca.
 
@@ -91,7 +93,9 @@ X.- Ludoteca: Espacio destinado al acervo e instalaciones adecuadas para el desa
 
 XI.- Red Estatal: Red Estatal de Bibliotecas Públicas.
 
-XII.- Secretaría: Secretaría de Cultura.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XII.- Instituto: Instituto de la Cultura y las Artes.
 
 XIII.- Sistema Estatal: Sistema Estatal de Bibliotecas.
 
@@ -155,9 +159,11 @@ Las bibliotecas públicas, deberán ser operadas por personal capacitado de acue
 
 El Reglamento de esta Ley, establecerá los requisitos y el perfil del personal que preste sus servicios en las bibliotecas públicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 8.
 
-El Estado y los Municipios, en su respectivo ámbito de competencia, deberán garantizar que las personas con discapacidad cuenten con el libre acceso y facilidad de desplazamiento en los espacios de las bibliotecas públicas, conforme a las especificaciones arquitectónicas y urbanísticas apropiadas, previstas en la Ley de Protección y Desarrollo Integral para las Personas con Discapacidad del Estado de Quintana Roo.
+El Estado y los Municipios, en su respectivo ámbito de competencia, deberán garantizar que las personas con discapacidad cuenten con el libre acceso y facilidad de desplazamiento en los espacios de las bibliotecas públicas, conforme a las especificaciones arquitectónicas y urbanísticas apropiadas, previstas en la Ley para el Desarrollo y la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo.
 
 Asimismo, el Estado y los Municipios garantizarán a las personas con discapacidad el acceso a los servicios informáticos y digitales, en igualdad de condiciones que a las demás personas.
 
@@ -189,9 +195,11 @@ El Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respecti
 
 En todo caso, el Estado y los Municipios establecerán, por lo menos, una biblioteca en cada cabecera municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 15.
 
-El Estado, a través de la Secretaría, y los Municipios, previo acuerdo de sus respectivos Ayuntamientos, podrán celebrar los convenios de coordinación y colaboración necesarios para alcanzar los fines previstos en esta Ley. Para los mismos efectos podrán coordinarse con la Federación en los términos señalados en la Ley General.
+El Estado, a través del Instituto, y los Municipios, previo acuerdo de sus respectivos Ayuntamientos, podrán celebrar los convenios de coordinación y colaboración necesarios para alcanzar los fines previstos en esta Ley. Para los mismos efectos podrán coordinarse con la Federación en los términos señalados en la Ley General.
 
 Las comunidades indígenas, dentro del ámbito municipal, podrán coordinarse y asociarse en los términos y para los efectos previstos en esta Ley.
 
@@ -215,7 +223,9 @@ VII. Difundir a nivel estatal los servicios bibliotecarios y las actividades afi
 
 VIII. Dotar a sus bibliotecas de los espacios y del equipo necesario para la prestación de los servicios bibliotecarios.
 
-Al Estado, a través de la Secretaría, corresponderá la coordinación, administración, operación y supervisión de la Red Estatal.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+Al Estado, a través del Instituto, corresponderá la coordinación, administración, operación y supervisión de la Red Estatal.
 
 ### Capítulo III. De la Red Estatal de Bibliotecas Públicas
 
@@ -257,25 +267,33 @@ II.- Formular recomendaciones para lograr una mayor participación de los sector
 
 El Consejo de la Red Estatal, se integrará por:
 
-I.- El Secretario de Cultura, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+I.- El Director General del Instituto, quien fungirá como Presidente;
 
 II.- El Director de Bibliotecas y Fomento a la Lectura, quien fungirá como Secretario Ejecutivo;
 
 III.- Por los siguientes vocales:
 
-A) El Titular de la Secretaría de Planeación y Desarrollo Regional;
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-B) El Titular de la Secretaría de Hacienda;
+A) El Titular de la Secretaría de Finanzas y Planeación;
 
-C) El Presidente de la Comisión de Salud, Educación, Cultura y Deportes del H. Poder Legislativo del Estado;
+B) (DEROGADO, P.O. 16 DE JULIO DE 2021)
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+C) El Presidente de la Comisión de Cultura del H. Poder Legislativo del Estado;
 
 D) Un representante del sector educativo, y
 
 E) Un representante del sector privado.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 21.
 
-Las bibliotecas pertenecientes a los sectores social y privado que presten servicios con características de biblioteca pública en los términos de la presente Ley y que manifiesten su disposición a incorporarse a la Red Estatal, celebrarán con la Dirección de la Secretaría, el correspondiente compromiso de adhesión.
+Las bibliotecas pertenecientes a los sectores social y privado que presten servicios con características de biblioteca pública en los términos de la presente Ley y que manifiesten su disposición a incorporarse a la Red Estatal, celebrarán con la Dirección del Instituto, el correspondiente compromiso de adhesión.
 
 ###### Artículo 22.
 
@@ -285,7 +303,9 @@ Las bibliotecas públicas que formen parte de la Red Estatal y aquellas de los s
 
 La Dirección, tendrá a su cargo la coordinación de la Red Estatal y fungirá como enlace con la coordinación de la Red Nacional de Bibliotecas Públicas.
 
-La Secretaría, organizará la Biblioteca del Estado con el carácter de Biblioteca Central para todos los efectos de la Red Estatal.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+El Instituto, organizará la Biblioteca del Estado con el carácter de Biblioteca Central para todos los efectos de la Red Estatal.
 
 ### Capítulo IV. Del Sistema Estatal de Bibliotecas
 
@@ -293,7 +313,9 @@ La Secretaría, organizará la Biblioteca del Estado con el carácter de Bibliot
 
 Se declara de interés social la integración de un Sistema Estatal, compuesto por todas aquellas bibliotecas escolares, públicas, penitenciarias, universitarias y especializadas pertenecientes a dependencias y entidades del Estado y Municipios, y personas físicas o morales de los sectores público, social y privado.
 
-La responsabilidad de coordinar el Sistema Estatal recaerá en la Dirección, que actuará conforme a los lineamientos, directrices y políticas que determine la Secretaría.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+La responsabilidad de coordinar el Sistema Estatal recaerá en la Dirección, que actuará conforme a los lineamientos, directrices y políticas que determine el Instituto.
 
 ###### Artículo 25.
 
@@ -317,13 +339,17 @@ VI.- Proporcionar servicios de catalogación y clasificación a solicitud de los
 
 VII.- Impulsar que los directivos sean técnicos o profesionales del área de bibliotecas; o en su defecto, profesionalizarlos durante el ejercicio de su cargo.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 27.
 
-El Sistema Estatal, contará con un consejo de carácter consultivo, el que se integrará y funcionará de manera participativa conforme a las normas reglamentarias que emita la Secretaría.
+El Sistema Estatal, contará con un consejo de carácter consultivo, el que se integrará y funcionará de manera participativa conforme a las normas reglamentarias que emita el Instituto.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 28.
 
-Las bibliotecas cuyas características sean diferentes a las de las bibliotecas públicas señaladas en esta Ley, podrán ser incorporadas al Sistema Estatal mediante el correspondiente compromiso de integración que celebren sus titulares con la Secretaría.
+Las bibliotecas cuyas características sean diferentes a las de las bibliotecas públicas señaladas en esta Ley, podrán ser incorporadas al Sistema Estatal mediante el correspondiente compromiso de integración que celebren sus titulares con el Instituto.
 
 ### Capítulo V. De la Dirección de Bibliotecas y Fomento a la Lectura
 
@@ -363,7 +389,9 @@ XV.- Coordinar el préstamo interbibliotecario a nivel estatal y nacional, vincu
 
 XVI.- Llevar a cabo o patrocinar investigaciones encaminadas a fomentar el uso de los servicios bibliotecarios, tanto impresos como digitales, así como el hábito de la lectura;
 
-XVII.- Apoyar a la Secretaría en la coordinación del Sistema Estatal;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XVII. Apoyar al Instituto en la coordinación del Sistema Estatal;
 
 XVIII.- Coadyuvar en la elaboración y ejecución del Programa Estatal de Cultura, procurando el impulso y desarrollo de políticas públicas a favor de las Bibliotecas Públicas;
 
@@ -401,9 +429,11 @@ III.- Coadyuvar con el Titular de la Biblioteca Central en la gestión de apoyos
 
 IV.- Las demás que sean análogas a las anteriores y que le permitan alcanzar el objetivo de sus propósitos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 32.
 
-La Secretaría, a través de la Dirección, realizará gestiones ante las dependencias federales, estatales y municipales, así como con fundaciones, organizaciones e instituciones del sector privado, a fin de:
+El Instituto, a través de la Dirección, realizará gestiones ante las dependencias federales, estatales y municipales, así como con fundaciones, organizaciones e instituciones del sector privado, a fin de:
 
 I.- Apoyar la actualización y funcionamiento óptimo de las bibliotecas públicas;
 
@@ -458,3 +488,41 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. EDUARDO OVANDO MARTINEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTICULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTICULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaria de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaria de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaria de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
