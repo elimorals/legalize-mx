@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-economico-y-competitividad-para-el-estado-584
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2020-12-18"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Número 83 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -603,9 +603,11 @@ La Comisión a través de la Secretaría, se apoyará en la Comisión Estatal de
 
 ### CAPÍTULO X. DE LA SUFICIENCIA ENERGÉTICA Y SU USO EFICIENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 37.
 
-La Secretaría, coordinará las tareas y programas en el Estado que tengan como objetivo:
+La Secretaría de Ecología y Medio Ambiente, coordinará las tareas y programas en el Estado que tengan como objetivo:
 
 I.- Promover inversiones para generar energía basadas en fuentes primarias renovables;
 
@@ -617,23 +619,23 @@ IV.- Promover el desarrollo tecnológico para la generación de energía con fue
 
 V.- Fomentar la generación y consumo de fuentes de energía que contribuyan a evitar el calentamiento global del planeta.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 38.
 
-La Secretaría contará con un órgano técnico consultivo denominado Comisión de Energía del Estado de Quintana Roo, que tendrá por objeto fungir como órgano de consulta de las dependencias y entidades de la Administración Pública Estatal, así como cuando así lo soliciten, de los municipios y de los particulares, en materia de uso eficiente de la energía y de aprovechamiento de energías renovables en el Estado de Quintana Roo.
+La Secretaría de Ecología y Medio Ambiente contará con un órgano técnico consultivo denominado Comisión de Energía del Estado de Quintana Roo, que tendrá por objeto fungir como órgano de consulta de las dependencias y entidades de la Administración Pública Estatal, así como cuando así lo soliciten, de los municipios y de los particulares, en materia de uso eficiente de la energía y de aprovechamiento de energías renovables en el Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 39.
 
-La Comisión de Energía será el órgano responsable ejecutivo de implementar las tareas y programas a que da lugar el Artículo 37 de la presente Ley.
+La Secretaría de Ecología y Medio Ambiente, a través de la Comisión de Energía, será responsable de implementar las tareas y programas a que da lugar el Artículo 37 de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 40.
 
-La Comisión de Energía, como órgano de apoyo de la Secretaría, contará con las siguientes facultades:
+La Comisión de Energía, como órgano de apoyo de la Secretaría de Ecología y Medio Ambiente, contará con las siguientes facultades:
 
 I.- Expedir disposiciones administrativas en materia de ahorro y uso eficiente y racional de energía en la Administración Pública Estatal, de conformidad con las disposiciones legales aplicables;
 
@@ -663,7 +665,9 @@ La Comisión de Energía estará integrada de la siguiente forma:
 
 I. El C. Gobernador del Estado quien fungirá como Presidente;
 
-II. El Secretario de Desarrollo Económico quien será el Vicepresidente Ejecutivo;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+II. El Secretario de Ecología y Medio Ambiente quien será el Vicepresidente Ejecutivo;
 
 III. El Director de la Comisión de Energía quien será el Secretario Técnico;
 
@@ -671,19 +675,29 @@ IV. Un representante designado por cada uno de los titulares de las Secretarías
 
 a) Finanzas y Planeación;
 
-b) Desarrollo Urbano y Vivienda;
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-c) Ecología y Medio Ambiente;
+b) Desarrollo Territorial Urbano Sustentable;
 
-d) Infraestructura y Transporte;
+c) (DEROGADO, P.O. 16 DE JULIO DE 2021)
 
-e) Desarrollo Agropecuario y Rural;
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+d) Obras Publicas;
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+e) Desarrollo Agropecuario, Rural y Pesca;
 
 f) Turismo;
 
-g) Gestión Pública, y
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
-h) Educación y Cultura.
+g) Contraloría, y
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+h) Educación.
 
 V. El Presidente de la Comisión de Medio Ambiente y Cambio Climático de la Legislatura del Estado;
 
@@ -705,11 +719,11 @@ El Vicepresidente Ejecutivo suplirá las ausencias del Presidente; el suplente d
 
 El carácter de miembro de la Comisión de Energía, es honorífico, por lo tanto, sus integrantes no tendrán derecho a percibir por ese concepto, remuneración alguna. Su actuación se regirá por los lineamientos que al efecto se expidan.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
 ###### Artículo 43.
 
-La Comisión de Energía contará con un Director Operativo que será el responsable de dar continuidad y seguimiento a los acuerdos tomados por la misma, y será designado por el Gobernador del Estado a propuesta del Secretario de Desarrollo Económico.
+La Comisión de Energía contará con un Director Operativo que será el responsable de dar continuidad y seguimiento a los acuerdos tomados por la misma, y será designado por el Gobernador del Estado a propuesta del Secretario de Ecología y Medio Ambiente.
 
 ## TÍTULO III. DEL FOMENTO AL DESARROLLO ECONÓMICO
 
@@ -1451,27 +1465,29 @@ II.- Un Vicepresidente Ejecutivo quien será el Secretario de Desarrollo Económ
 
 III.- Un Secretario Técnico que será el Subsecretario de Desarrollo Económico;
 
-IV.- (DEROGADA, P.O. 19 DE AGOSTO DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2021)</small>
+
+IV.- El Titular de la Secretaría de Ecología y Medio Ambiente.
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-V. El Titular de la Secretaría de Finanzas y Planeación;
+V.- El Titular de la Secretaría de Finanzas y Planeación;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-VI.- El Titular de la Secretaría de Desarrollo Agropecuario y Rural;
+VI.- El Titular de la Secretaría de Desarrollo Agropecuario, Rural y Pesca;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
 VII.- El Titular de la Secretaría de Turismo;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-VIII.- El Titular de la Secretaría de Educación y Cultura;
+VIII.- El Titular de la Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-IX.- El Titular de la Secretaría de la Gestión Pública;
+IX.- El Titular de la Secretaría de la Contraloría.
 
 X.- El Titular de la Secretaría del Trabajo y Previsión Social del Estado de Quintana Roo;
 
@@ -1864,3 +1880,39 @@ P.O. 18 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaria de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
