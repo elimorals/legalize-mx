@@ -4,7 +4,7 @@ identifier: "ROO-ley-en-materia-de-trata-de-personas-del-estado-de-quintana-1043
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-23"
-last_updated: "2014-12-23"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 23 de diciembre de 2014.
 
@@ -249,9 +249,13 @@ III. Secretaría de Seguridad Pública;
 
 IV. Secretaría de Salud;
 
-V. Secretaría de Desarrollo Social e Indígena;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-VI. Secretaría de Educación y Cultura;
+V. Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+VI. Secretaría de Educación;
 
 VII. Secretaría de Desarrollo Económico;
 
@@ -259,7 +263,9 @@ VIII. Secretaría de Turismo;
 
 IX. Secretaría del Trabajo y Previsión Social;
 
-X. Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+X. Fiscalía General del Estado, y
 
 XI. Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -331,7 +337,9 @@ IX. Desarrollar estrategias y programas dirigidos a desalentar la demanda que pr
 
 X. Orientar al personal responsable de los diversos medios de transporte acerca de las medidas necesarias para asegurar, en especial, la protección de las personas menores de dieciocho o mayores de sesenta años de edad, indígenas, así como de quienes no tienen capacidad para comprender el significado del hecho o de quienes tienen alguna discapacidad que viajen a través del territorio del Estado;
 
-XI. Recopilar, con la ayuda del Tribunal Superior de Justicia del Estado y de la Procuraduría General de Justicia del Estado y demás instituciones y organismos pertinentes, los datos estadísticos relativos a la incidencia delictiva en materia de trata de personas, con la finalidad de utilizarse en la toma de decisiones y para elaborar los contenidos de los programas en la materia. Dicha información deberá contener:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JULIO DE 2021)</small>
+
+XI. Recopilar, con la ayuda del Tribunal Superior de Justicia del Estado y de la Fiscalía General del Estado y demás instituciones y organismos pertinentes, los datos estadísticos relativos a la incidencia delictiva en materia de trata de personas, con la finalidad de utilizarse en la toma de decisiones y para elaborar los contenidos de los programas en la materia. Dicha información deberá contener:
 
 a) El número de detenciones, procesos judiciales, número de sentencias condenatorias en el que estén involucrados tratantes de personas y de quienes cometen delitos relacionados con la trata de personas en las diferentes modalidades, y
 
@@ -363,19 +371,27 @@ IV. La Secretaría de Seguridad Pública, apoyará a la autoridad federal en la 
 
 V. La Secretaría de Desarrollo Social diseñará y aplicará medidas que permitan combatir causas estructurales que generan condiciones de mayor riesgo y vulnerabilidad frente a los delitos en materia de trata de personas en especial la relativa a la pobreza, marginación y la desigualdad social;
 
-VI. La Secretaría de Educación y Cultura en coordinación con la Secretaría de Gobierno, diseñará módulos de prevención de los delitos en materia de trata de personas que se establecerán a lo largo de los ciclos escolares; crear protocolos internos claros y precisos en los centros educativos para inhibir y prevenir la trata de personas con menores de edad; registrar las estadísticas sobre posibles casos de trata de personas; capacitar en el marco de su competencia en materia de trata de personas al personal adscrito a los centros educativos;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+VI. La Secretaría de Educación en coordinación con la Secretaría de Gobierno, diseñará módulos de prevención de los delitos en materia de trata de personas que se establecerán a lo largo de los ciclos escolares; crear protocolos internos claros y precisos en los centros educativos para inhibir y prevenir la trata de personas con menores de edad; registrar las estadísticas sobre posibles casos de trata de personas; capacitar en el marco de su competencia en materia de trata de personas al personal adscrito a los centros educativos;
 
 VII. La Secretaría del Trabajo y Previsión Social brindará capacitación para el trabajo, para lo cual, ofrecerá oportunidades de su bolsa de trabajo y firmará convenios con empresas para brindar oportunidades de rehabilitación y resocialización a las víctimas de los delitos de trata de personas a través de oportunidades de empleo, así como efectuará inspecciones a los centros de trabajo, para prevenir y detectar oportunamente dicho delito; difundir en sus políticas públicas la trata de personas y en especial la explotación laboral infantil; informar y advertir al personal de hoteles, servicios de transporte público, restaurantes, sindicatos de taxistas, bares y centros nocturnos, entre otros, acerca de la responsabilidad en que pueden incurrir en caso de facilitar o no impedir las conductas relativas a la trata de personas, así como orientarlos en la prevención de este delito;
 
 VIII. La Secretaría de Turismo diseñará programas y políticas públicas para desalentar el turismo sexual, capacitando al personal de las áreas de servicio, así como diseñará e implementará campañas dentro y fuera del país para prevenir y desalentar la proliferación de los delitos en materia de trata de personas en cualquier actividad relacionada a su ámbito de competencia;
 
-IX. El Instituto Quintanarroense de la Mujer proporcionará en forma gratuita los servicios de asistencia jurídica y orientación a las mujeres víctimas de los delitos de trata de personas; denunciar ante la Procuraduría General de Justicia del Estado los delitos en materia de trata de personas; proporcionar a las víctimas de trata de personas sus servicios o en su caso, canalizarlas a otras instancias gubernamentales o no para su atención psicológica, emocional y médica requeridas, protección de su seguridad, teniendo en cuenta la perspectiva de género, derechos de la niñez, de personas pertenecientes a una comunidad indígena y de los migrantes; recopilar y dar a conocer datos estadísticos relacionados con los delitos de trata de personas, registrando número de denuncias ante la Procuraduría General de Justicia; capacitar en el marco de su competencia al personal de instancias gubernamentales y no gubernamentales en materia de trata de personas, con perspectiva de género, derechos de la niñez, de personas pertenecientes a una comunidad indígena y de migrantes;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+IX. El Instituto Quintanarroense de la Mujer proporcionará en forma gratuita los servicios de asistencia jurídica y orientación a las mujeres víctimas de los delitos de trata de personas; denunciar ante la Fiscalía General del Estado los delitos en materia de trata de personas; proporcionar a las víctimas de trata de personas sus servicios o en su caso, canalizarlas a otras instancias gubernamentales o no para su atención psicológica, emocional y médica requeridas, protección de su seguridad, teniendo en cuenta la perspectiva de género, derechos de la niñez, de personas pertenecientes a una comunidad indígena y de los migrantes; recopilar y dar a conocer datos estadísticos relacionados con los delitos de trata de personas, registrando número de denuncias ante la Fiscalía General del Estado; capacitar en el marco de su competencia al personal de instancias gubernamentales y no gubernamentales en materia de trata de personas, con perspectiva de género, derechos de la niñez, de personas pertenecientes a una comunidad indígena y de migrantes;
 
 X. La Comisión de los Derechos Humanos del Estado deberá promover y difundir el marco jurídico aplicable al tema de la trata de personas; organizar eventos académicos y culturales en donde se promuevan la denuncia, prevención y el combate de la trata de personas; llevar un registro estadístico de las quejas recibidas, las recomendaciones que se emitan relacionadas con el tema de la trata de personas, el seguimiento de las autoridades; atender las quejas que se presenten en contra de las autoridades estatales por el incumplimiento de sus obligaciones, cuando han sido víctimas del delito de trata de personas;
 
-XI. La Procuraduría General de Justicia del Estado elaborará y ejecutará programas de prevención de los delitos de trata de personas con la finalidad de fortalecer la denuncia ciudadana y la solidaridad social; se coordinará con el objeto de actualizar los datos relativos a la incidencia delictiva con la finalidad de dar seguimiento a los procesos penales de aquellos sujetos detenidos y consignados por la comisión de delitos de trata de personas; será responsable de establecer una fiscalía especializada para perseguir de los delitos en materia de trata de personas y promoverá las medidas de protección procesal a su favor;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-XII. La Procuraduría de la Defensa del Menor y la Familia del Estado de Quintana Roo, deberá proporcionar en forma gratuita los servicios de asistencia jurídica y orientación a niñas, niños y adolescentes, a sus progenitores, familiares, tutores o quienes los tengan bajo su cuidado, en materia de delitos de trata de personas; denunciar ante la Procuraduría General de Justicia del Estado los posibles casos de delitos en materia de trata de personas y delitos conexos detectados y dar seguimiento a los mismos; patrocinar y representar a niñas, niños y adolescentes ante los órganos jurisdiccionales en los trámites o procedimientos relacionados con ellos; canalizar a las víctimas de los delitos de trata de personas a los servicios del Sistema para el Desarrollo Integral de la Familia u otras instancias gubernamentales e incluso, a las no gubernamentales para la atención psicológica, emocional y médica requeridas y protección de su seguridad, teniendo en cuenta la perspectiva de género, los derechos de la niñez, los derechos de las personas pertenecientes a una comunidad indígena y los derechos de los migrantes; recopilar y dar a conocer los datos estadísticos relativos a los delitos de trata de personas, registrando el número de denuncias o casos recibidos y su denuncia ante la Procuraduría General de Justicia del Estado, las canalizaciones realizadas de las víctimas, según su edad, sexo, estado civil, calidad migratoria en su caso, y nacionalidad; capacitar, en el marco de su competencia, al personal del Sistema para el Desarrollo Integral de la Familia en materia de trata de personas, con perspectiva de género, derechos de la niñez, derechos de las personas pertenecientes a una comunidad indígena y derechos de los migrantes, y
+XI. La Fiscalía General del Estado elaborará y ejecutará programas de prevención de los delitos de trata de personas con la finalidad de fortalecer la denuncia ciudadana y la solidaridad social; se coordinará con el objeto de actualizar los datos relativos a la incidencia delictiva con la finalidad de dar seguimiento a los procesos penales de aquellos sujetos detenidos y consignados por la comisión de delitos de trata de personas; será responsable de establecer una fiscalía especializada para perseguir los delitos en materia de trata de personas y promoverá las medidas de protección procesal a su favor;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+XII. La Procuraduría de la Defensa del Menor y la Familia del Estado de Quintana Roo, deberá proporcionar en forma gratuita los servicios de asistencia jurídica y orientación a niñas, niños y adolescentes, a sus progenitores, familiares, tutores o quienes los tengan bajo su cuidado, en materia de delitos de trata de personas; denunciar ante la Fiscalía General del Estado los posibles casos de delitos en materia de trata de personas y delitos conexos detectados y dar seguimiento a los mismos; patrocinar y representar a niñas, niños y adolescentes ante los órganos jurisdiccionales en los trámites o procedimientos relacionados con ellos; canalizar a las víctimas de los delitos de trata de personas a los servicios del Sistema para el Desarrollo Integral de la Familia u otras instancias gubernamentales e incluso, a las no gubernamentales para la atención psicológica, emocional y médica requeridas y protección de su seguridad, teniendo en cuenta la perspectiva de género, los derechos de la niñez, los derechos de las personas pertenecientes a una comunidad indígena y los derechos de los migrantes; recopilar y dar a conocer los datos estadísticos relativos a los delitos de trata de personas, registrando el número de denuncias o casos recibidos y su denuncia ante la Fiscalía General del Estado, las canalizaciones realizadas de las víctimas, según su edad, sexo, estado civil, calidad migratoria en su caso, y nacionalidad; capacitar, en el marco de su competencia, al personal del Sistema para el Desarrollo Integral de la Familia en materia de trata de personas, con perspectiva de género, derechos de la niñez, derechos de las personas pertenecientes a una comunidad indígena y derechos de los migrantes, y
 
 XIII. El Sistema para el Desarrollo Integral de la Familia del Estado deberá proporcionar la protección y atención antes, durante y después del proceso, de todas aquellas víctimas del delito menores de 18 años cuidando que sus necesidades especiales sean satisfechas en los albergues para víctimas del ilícito de trata de personas; crear mecanismos de protección y asistencia previos, durante y posteriores al proceso judicial; proporcionar a las víctimas información sobre sus derechos, garantizando su integridad psicológica y la protección de su identidad e intimidad; diseñar y poner en marcha modelos de protección y asistencia inmediatas a víctimas o posibles víctimas ante la comisión o posible comisión de delitos en materia de trata de personas; garantizar a las víctimas, cuando sea necesario, alojamiento adecuado, atención médica de calidad, acceso a la educación, empleo, hasta su total recuperación y resocialización, y garantizar a las víctimas de los delitos previstos en esta Ley, atención física, psicológica y social hasta su total recuperación y rehabilitación.
 
@@ -828,3 +844,41 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “PROMULGACIÓN DEL DECRETO 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTICULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTICULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaria de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaria de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
