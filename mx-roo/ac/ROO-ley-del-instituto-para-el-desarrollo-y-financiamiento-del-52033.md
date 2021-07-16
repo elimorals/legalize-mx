@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-instituto-para-el-desarrollo-y-financiamiento-del-52033
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-06"
-last_updated: "2006-10-06"
+last_updated: "2021-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL INSTITUTO PARA EL DESARROLLO Y FINANCIAMIENTO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial Número 89 Extraordinario del Estado de Quintana Roo, el viernes 6 de octubre de 2006.
 
@@ -57,7 +57,9 @@ IV.- Atraer capitales e inversiones públicas y privadas al Estado mediante el d
 
 V.- Diseñar e instrumentar proyectos públicos productivos.
 
-Para el cumplimiento de su objeto y el ejercicio de las atribuciones, el Instituto para el Desarrollo y Financiamiento del Estado de Quintana Roa, en todo momento estará sujeto a las normas, lineamientos, directrices y mecanismos de coordinación, control y evaluación que determine la Secretaría de Hacienda del Estado, en su calidad de coordinadora de sector del mismo.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+Para el cumplimiento de su objeto y el ejercicio de las atribuciones, el Instituto para el Desarrollo y Financiamiento del Estado de Quintana Roo, en todo momento estará sujeto a las normas, lineamientos, directrices y mecanismos de coordinación, control y evaluación que determine la Secretaría de Finanzas y Planeación, en su calidad de coordinadora de sector del mismo.
 
 ### Capítulo II. De los Órganos de Administración
 
@@ -75,15 +77,21 @@ La Junta de Gobierno es la autoridad suprema del Instituto y estará integrada p
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-II.- El Secretario de Hacienda;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
-III.- El Secretario de Planeación y Desarrollo Regional;
+II.- El Secretario de Finanzas y Planeación;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+III.- El Secretario de Obras Públicas;
 
 IV.- El Secretario de Desarrollo económico; y
 
 V.- El Secretario de la Contraloría.
 
-Por cada miembro propietario habrá un suplente, quien será designado por el titular y contará con las mismas facultades que los propietarios en caso de ausencia de estos. Con la excepción del Presidente el cual será suplido por el Secretario de Hacienda.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+Por cada miembro propietario habrá un suplente, quien será designado por el titular y contará con las mismas facultades que los propietarios en caso de ausencia de estos. Con la excepción del Presidente el cual será suplido por el Secretario de Finanzas y Planeación.
 
 ###### Artículo 5.
 
@@ -93,7 +101,9 @@ Podrán integrarse a la Junta de Gobierno, con carácter de invitados y solo con
 
 Las sesiones que celebre la Junta de Gobierno serán ordinarias o extraordinarias. Las sesiones ordinarias se llevarán a cabo cuando menos cuatro veces al año, en forma trimestral y las extraordinarias las veces que sean necesarias.
 
-Serán validas las sesiones de la Junta de Gobierno cuando se encuentren presentes la mayoría de sus miembros. En caso de ausencia del Presidente la sesión será presidida por el Secretario de Hacienda. Quien funja como Presidente tendrá el voto de calidad en caso de empate, en caso de ausencia del Presidente o de su suplente las sesiones no serán válidas.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+Serán válidas las sesiones de la Junta de Gobierno cuando se encuentren presentes la mayoría de sus miembros. En caso de ausencia del Presidente la sesión será presidida por el Secretario de Finanzas y Planeación. Quien funja como Presidente tendrá el voto de calidad en caso de empate, en caso de ausencia del Presidente o de su suplente las sesiones no serán válidas.
 
 El Presidente de la Junta de Gobierno tendrá la facultad para convocar a los demás miembros para la celebración de sesiones extraordinarias.
 
@@ -105,7 +115,9 @@ La Junta de Gobierno tendrá las siguientes facultades y obligaciones:
 
 l.- Establecer en congruencia con el Plan Estatal de Desarrollo, las políticas generales y definir las prioridades a las que deberá sujetarse el Instituto para el cumplimiento de su objeto;
 
-II.- Aprobar el Programa Institucional de Desarrollo y el Programa Crediticio Anual en coordinación con la Secretaría de Hacienda, los programas de acción, así, como el Programa Operativo Anual del Organismo, su presupuesto de ingresos y egresos y sus modificaciones en los términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+II.- Aprobar el Programa Institucional de Desarrollo y el Programa Crediticio Anual en coordinación con la Secretaría de Finanzas y Planeación los programas de acción, así, como el Programa Operativo Anual del Organismo, su presupuesto de ingresos y egresos y sus modificaciones en los términos de la legislación aplicable;
 
 III.- Conocer y aprobar el cumplimiento del Programa Institucional de Desarrollo, de los programas de acción y del Programa Operativo Anual en correlación con el Presupuesto de Ingresos y ejercicio del Presupuesto de Egresos;
 
@@ -213,7 +225,9 @@ s) Las demás que le confiera la presente Ley y las disposiciones legales aplica
 
 II.- En materia de deuda:
 
-a) Presentar y gestionar, en coordinación con la Secretaría de Hacienda, ante la Legislatura del Estado las solicitudes de autorización de endeudamiento en términos de lo previsto por la Ley de Deuda Pública del Estado de Quintana Roo y de esta Ley;
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+a) Presentar y gestionar, en coordinación con la Secretaría de Finanzas y Planeación, ante la Legislatura del Estado las solicitudes de autorización de endeudamiento en términos de lo previsto por la Ley de Deuda Pública del Estado de Quintana Roo y de esta Ley;
 
 b) Contratar los empréstitos que le hayan sido autorizados al Instituto por la Legislatura del Estado;
 
@@ -277,9 +291,13 @@ j) Coadyuvar con las entidades a las que se refiere el Artículo 2° de la Ley d
 
 k) Las demás que le confieran la (sic) disposiciones legales aplicables.
 
-IV.- En materia de la administración relacionada con los fondos a que hace referencia el Artículo 43 de la Ley de Presupuesto (sic) Contabilidad y Gasto Público del Estado de Quinta Roo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JULIO DE 2021)</small>
 
-a) Coadyuvar con la Secretaría de Hacienda del Estado para administrar el Fondo del Estado de Quinta Roo en su carácter de operador experto de acuerdo a las normas previstas en el Decreto de creación de dicho fondo y en sus reglas de operación;
+IV.- En materia de la administración relacionada con los fondos a que hace referencia el Artículo 43 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Quintana Roo:
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+a) Coadyuvar con la Secretaría de Finanzas y Planeación para administrar el Fondo del Estado de Quintana Roo en su carácter de operador experto de acuerdo a las normas previstas en el Decreto de creación de dicho fondo y en sus reglas de operación;
 
 b) Definir las estrategias de inversión conjuntamente con instituciones financieras expertas en la materia;
 
@@ -291,7 +309,9 @@ V.- En materia de asesoría técnica a las entidades públicas:
 
 a) Coadyuvar, a solicitud de las entidades públicas en acciones en materia de su competencia;
 
-b) Brindar asesoría a las entidades públicas para la planeación, instrumentación y seguimiento en materia de innovación financiera en programas fomentados por la Secretaría de Hacienda del Estado;
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+
+b) Brindar asesoría a las entidades públicas para la planeación, instrumentación y seguimiento en materia de innovación financiera en programas fomentados por la Secretaría de Finanzas y Planeación;
 
 c) Licitar, convocar, invitar, evaluar, seleccionar y contratar a proveedores de servicio (sic) expertos en la materia financiera y finanzas públicas debidamente registrados ante las autoridades competentes;
 
@@ -343,15 +363,19 @@ Las relaciones de trabajo entre el organismo descentralizado y su personal se re
 
 ### Capítulo VI. De la Extinción y Liquidación del Organismo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+
 ###### Artículo 15.
 
-Para la extinción del Instituto, la Secretaría de Hacienda del Estado, según se determine en la ley respectiva, señalará las bases para el desarrollo del proceso y designará un liquidador quien realizará lo siguiente:
+Para la extinción del Instituto, la Secretaría de Finanzas y Planeación, según se determine en la ley respectiva, señalará las bases para el desarrollo del proceso y designará un liquidador quien realizará lo siguiente:
 
 I.- Levantará el inventario de los bienes pertenecientes al Organismo,
 
 II.- Someterá el dictamen del auditor designado por la Secretaría de Contraloría de los estados financieros inicial y final de liquidación;
 
-IlI.- Informará mensualmente a las Secretarías de Hacienda y de Contraloría, sobre el avance y, el estado que guarde el proceso;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+III.- Informará mensualmente a las Secretarías de Finanzas y Planeación y de la Contraloría, sobre el avance y el estado que guarde el proceso;
 
 IV.- Levantará el acta de entrega-recepción de los bienes y recursos del Organismo; y (sic)
 
@@ -392,3 +416,41 @@ ROSARIO ORTIZ YELADAQUI
 EL SECRETARIO ESTATAL DE HACIENDA
 
 LIC. FREDY EFRÉN MARRUFO MARTÍN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “PROMULGACIÓN DEL DECRETO 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTICULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTICULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
