@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-sistema-anticorrupcion-del-estado-de-quintana-roo-12263
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2021-05-29"
+last_updated: "2021-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 19 de julio de 2017.
 
@@ -675,7 +675,9 @@ VIII. Presentar carta compromiso expresando que en el caso de ser designado, una
 
 IX. No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
 
-X. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+
+X. No ser titular de una dependencia o entidad del Estado, Fiscal General del Estado, Subsecretario, Gobernador, Secretario de Gobierno, Consejero de la Judicatura a menos que se haya separado de su cargo un año antes del día de su designación.
 
 XI. No haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria, y
 
@@ -868,3 +870,39 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 Tercero. Las disposiciones relativas a los requisitos de elegibilidad del cargo de los integrantes del Comité de Participación Ciudadana entrarán en vigor para las designaciones que se realicen a partir de la entrada en vigor del presente Decreto.
 
 Cuarto. La Legislatura del Estado designará al titular del Órgano Interno de Control en un plazo de sesenta días naturales a partir de la entrada en vigor del presente Decreto.
+
+P.O. 16 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 133 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE CARÁCTER ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos que, con la entrada en vigor del presente Decreto, sean transferidos de la Oficialía Mayor a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente, conservarán de manera íntegra, su antigüedad, sueldo y nivel, sin que puedan ser objeto de afectación alguna a causa de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos materiales y financieros que antes de la entrada en vigor del presente Decreto, se encontraban asignados a la Oficialía Mayor y a la Secretaría de Desarrollo Económico, con la entrada en vigor del presente decreto, serán transferidos a la Secretaría de Finanzas y Planeación y a la Secretaría de Ecología y Medio Ambiente, respectivamente, para el desarrollo de las atribuciones señaladas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos a cargo de la Oficialía Mayor y la Secretaría de Finanzas y Planeación que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Finanzas y Planeación, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos a cargo de la Secretaría de Desarrollo Económico que se encontraran pendientes de resolución al momento de entrar en vigor este decreto, serán asumidos de inmediato y despachados por la Secretaría de Ecología y Medio Ambiente, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio Ambiente llevarán a cabo las acciones necesarias para realizar las adecuaciones presupuestarias, así como las modificaciones correspondientes a su estructura orgánica, reglamento interior, manuales de organización y de procedimientos y demás instrumentos que requieran actualización, de conformidad con lo previsto en el presente decreto, en un término no mayor de 90 días naturales, contados a partir de la expedición del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
