@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-tribunal-superior-de-justicia-del-88911
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-30"
-last_updated: "2012-06-30"
+last_updated: "2021-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2021.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de junio de 2012.
 
@@ -115,7 +115,9 @@ TRANSITORIOS 43
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 En consecuencia, y con fundamento en las citadas disposiciones constitucionales y legales, el Tribunal Pleno por conducto de su presidente expide el siguiente:
 
@@ -1333,15 +1335,17 @@ Aprobada o negada la solicitud de licencia, el Secretario General de
 
 Acuerdos deberá hacer del conocimiento legalmente al Magistrado solicitante de forma inmediata la determinación del Pleno.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2021)</small>
+
 ###### Artículo 111.
 
-En relación a los demás servidores públicos del Tribunal, las licencias podrán ser ordinarias, extraordinarias y especiales.
+En relación a los demás servidores públicos del Tribunal, las licencias serán otorgadas por la Dirección de Gestión Administrativa del Tribunal Superior de Justicia del Estado, las cuales podrán ser ordinarias, extraordinarias y especiales.
 
-I. Son ordinarias aquéllas que se concedan hasta por treinta días, en cuyo caso serán otorgadas por el Presidente del Tribunal;
+I. Son ordinarias aquellas que se concedan hasta por treinta días;
 
-II. Son extraordinarias aquéllas que se concedan por más de treinta días y hasta por un máximo de una año, en cuyo caso serán otorgadas por el Pleno; y
+II. Son extraordinarias aquéllas que se concedan por más de treinta días y hasta por un máximo de un año; y
 
-III. Son especiales y serán otorgadas por el Pleno, las que se concedan por razón de capacitación, actualización, especialización u otra análoga, por elección popular; así como, las que se otorguen por razón de comisiones a desarrollarse en el propio Poder Judicial, en éstos casos, el término de la licencia será por el tiempo que duren los estudios o la comisión.
+III. Son especiales las que se concedan por razón de capacitación, actualización, especialización u otra análoga, por elección popular; así como, las que se otorguen por razón de comisiones a desarrollarse en el propio Poder Judicial, en éstos casos, el término de la licencia será por el tiempo que duren los estudios o la comisión.
 
 ###### Artículo 112.
 
@@ -1674,3 +1678,17 @@ Artículo Cuarto. Los titulares de las Unidades Auxiliares de la Presidencia del
 Artículo Quinto. Se faculta al Presidente del Tribunal y del Consejo de la Judicatura para dictar todas las medidas necesarias para la efectividad e inmediato cumplimiento del presente Reglamento.
 
 Dado en el Salón de Sesiones del Pleno del Tribunal Superior de Justicia del Estado Libre y Soberano de Oaxaca; a veintiocho de junio del año dos mil doce.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 3/2021.- DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE OAXACA, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 111 DEL REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO: El presente acuerdo entrará en vigor a partir del día de su aprobación.
+
+SEGUNDO: Lo no previsto en el presente acuerdo, será resuelto por el Pleno del Tribunal Superior de Justicia del Estado de Oaxaca.
+
+TERCERO: Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca; así como en el Boletín Judicial, en la página electrónica del portal de internet de este Poder Judicial, y en los estrados de la Secretaría General de Acuerdos Común al Pleno y a la Presidencia del Tribunal Superior de Justicia del Estado.
+
+CUARTO: Mediante circular que al efecto se gire, comuníquese la presente determinación a las áreas administrativas y jurisdiccionales del Tribunal Superior de Justicia del Estado.
