@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-procuraduria-de-la-defensa-del-adulto-mayor-para-9584
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-07"
-last_updated: "2019-11-02"
+last_updated: "2021-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2021.
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 7 de septiembre de 2013.
 
@@ -127,49 +127,57 @@ I. Impulsar, promover y defender el reconocimiento y ejercicio pleno de los dere
 
 II. Orientar, asesorar y asistir gratuitamente en materia legal cualquier asunto en que el adulto mayor tenga un interés jurídico directo;
 
-III. Recibir y atender las denuncias referentes a la violación o incumplimiento de las disposiciones jurídicas establecidas en la Ley para los Adultos, y demás ordenamientos legales en la materia;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2021)</small>
 
-IV. Procurar la defensa y representación de los derechos consignados a favor de los adultos mayores en su persona, bienes y derechos ante cualquier autoridad competente, promoviendo todos los medios legales que conforme a derecho procedan;
+III. Recibir quejas y atender las denuncias e informes referentes a la violación o incumplimiento de las disposiciones jurídicas establecidas en la Ley para los Adultos, y demás ordenamientos legales en la materia, haciéndolas del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes;
 
-V. Conocer e investigar sobre actos, hechos u omisiones que constituyan violaciones a la legislación en materia de adultos mayores de competencia estatal;
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2021)</small>
 
-VI. Realizar visitas para el reconocimiento de hechos u omisiones planteadas tanto en las denuncias recibidas como en las investigaciones de oficio que realice y, emplazar, en su caso, a las personas involucradas para que comparezcan ante la Procuraduría a manifestar lo que a su derecho convenga a efecto de determinar la existencia o no de la infracción; y en su caso dictar las resoluciones correspondientes;
+IV. Participar, en los términos del Código Civil para el Estado de Colima y del Código de Procedimientos Civiles para el Estado de Colima, de la presente Ley, con el propósito de evitar que se presenten actos de violencia psicológica, económica o patrimonial, en los procedimientos legales que impliquen la transferencia, bajo cualquier título, del patrimonio de los adultos mayores a terceros; así como de aquellos procedimientos relativos al estado de interdicción y la tutela cautelar en los que un adulto mayor se pueda ver afectado, siempre que lo solicite el interesado o (sic) autoridad competente;
 
-VII. Coadyuvar con la Procuraduría General de Justicia del Estado, cuando los adultos mayores sean víctimas de cualquier conducta tipificada como delito;
+V. Procurar la defensa y representación de los derechos consignados a favor de los adultos mayores en su persona, bienes y derechos ante cualquier autoridad competente, promoviendo todos los medios legales que conforme a derecho procedan;
 
-VIII. Emitir sugerencias a la Secretaría General de Gobierno, a los integrantes del sistema de Asistencia Social y a las autoridades judiciales, para su consideración en los procedimientos, recursos, iniciativas de ley, proposiciones legislativas o de cualquier otro asunto de su competencia relacionados a la protección de los adultos mayores;
+VI. Conocer e investigar sobre actos, hechos u omisiones que constituyan violaciones a la legislación en materia de adultos mayores de competencia estatal;
 
-IX. Instaurar a las personas físicas y morales los procedimientos administrativos por incumplimiento de las obligaciones previstas en la legislación que sean de su competencia derivados de los actos de investigación, imponiendo, en su caso, las medidas y sanciones correspondientes;
+VII. Realizar visitas para el reconocimiento de hechos u omisiones planteadas tanto en las denuncias recibidas como en las investigaciones de oficio que realice y, emplazar, en su caso, a las personas involucradas para que comparezcan ante la Procuraduría a manifestar lo que a su derecho convenga a efecto de determinar la existencia o no de la infracción; y en su caso dictar las resoluciones correspondientes;
 
-X. Coadyuvar en el establecimiento de un programa de detección de adultos mayores que estén siendo víctimas de cualquier conducta tipificada como delito;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2021)</small>
 
-XI. Asesorar por la vía de los métodos alternos para la prevención y la solución de conflictos, a los adultos mayores en cualquier procedimiento legal en el que sean partes interesadas;
+VIII. Coadyuvar con la Fiscalía General del Estado, cuando los adultos mayores sean víctimas de cualquier conducta tipificada como delito;
 
-XII. Promover ante la autoridad competente cualquier trámite, querella, denuncia o demanda cuando el adulto mayor por falta de medios económicos o por impedimento físico no pueda valerse por sí misma y requiera apoyo para llevar a cabo dichos actos;
+IX. Emitir sugerencias a la Secretaría General de Gobierno, a los integrantes del sistema de Asistencia Social y a las autoridades judiciales, para su consideración en los procedimientos, recursos, iniciativas de ley, proposiciones legislativas o de cualquier otro asunto de su competencia relacionados a la protección de los adultos mayores;
 
-XIII. Emitir sugerencias a las dependencias y entidades de la administración pública estatal y municipal, con el propósito de promover el cumplimiento de la legislación respectiva, así como para la ejecución de las acciones procedentes derivadas de la falta de aplicación o incumplimiento de la Ley para los Adultos y demás ordenamientos que de ella se deriven;
+X. Instaurar a las personas físicas y morales los procedimientos administrativos por incumplimiento de las obligaciones previstas en la legislación que sean de su competencia derivados de los actos de investigación, imponiendo, en su caso, las medidas y sanciones correspondientes;
 
-XIV. Citar con el auxilio de la autoridad competente, la presentación de los involucrados en los asuntos de su competencia;
+XI. Coadyuvar en el establecimiento de un programa de detección de adultos mayores que estén siendo víctimas de cualquier conducta tipificada como delito;
 
-XV. Levantar acta circunstanciada de hechos, respecto del abandono, lesiones, descuido, negligencia, explotación y en general cualquier circunstancia que atente contra los derechos del adulto en plenitud, firmándola con asistencia de dos testigos;
+XII. Asesorar por la vía de los métodos alternos para la prevención y la solución de conflictos, a los adultos mayores en cualquier procedimiento legal en el que sean partes interesadas;
+
+XIII. Promover ante la autoridad competente cualquier trámite, querella, denuncia o demanda cuando el adulto mayor por falta de medios económicos o por impedimento físico no pueda valerse por sí misma y requiera apoyo para llevar a cabo dichos actos;
+
+XIV. Emitir sugerencias a las dependencias y entidades de la administración pública estatal y municipal, con el propósito de promover el cumplimiento de la legislación respectiva, así como para la ejecución de las acciones procedentes derivadas de la falta de aplicación o incumplimiento de la Ley para los Adultos y demás ordenamientos que de ella se deriven;
+
+XV. Citar con el auxilio de la autoridad competente, la presentación de los involucrados en los asuntos de su competencia;
+
+XVI. Levantar acta circunstanciada de hechos, respecto del abandono, lesiones, descuido, negligencia, explotación y en general cualquier circunstancia que atente contra los derechos del adulto en plenitud, firmándola con asistencia de dos testigos;
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-XVI. Levantar acta circunstanciada de hechos, respecto del abandono, lesiones, descuido, negligencia, explotación y en general cualquier circunstancia que atente contra los derechos del adulto mayor, firmándola con asistencia de dos testigos;
+XVII. Levantar acta circunstanciada de hechos, respecto del abandono, lesiones, descuido, negligencia, explotación y en general cualquier circunstancia que atente contra los derechos del adulto mayor, firmándola con asistencia de dos testigos;
 
-XVII. Emplear, para hacer cumplir sus determinaciones cualesquiera de los medios de apremio o sanciones que establece la presente Ley;
+XVIII. Emplear, para hacer cumplir sus determinaciones cualesquiera de los medios de apremio o sanciones que establece la presente Ley;
 
-XVIII. Promover para que mediante una institución pública o privada se les proporcione refugio temporal a los adultos mayores abandonados, maltratados, o víctimas de violencia Intrafamiliar;
+XIX. Promover para que mediante una institución pública o privada se les proporcione refugio temporal a los adultos mayores abandonados, maltratados, o víctimas de violencia Intrafamiliar;
 
-XIX. Vigilar que ninguna Institución que preste servicios de salud niegue el derecho a recibir atención médica, a los adultos mayores;
+XX. Vigilar que ninguna Institución que preste servicios de salud niegue el derecho a recibir atención médica, a los adultos mayores;
 
-XX. Asesorar a los diferentes Sistemas Municipales para el Desarrollo Integral de la Familia;
+XXI. Asesorar a los diferentes Sistemas Municipales para el Desarrollo Integral de la Familia;
 
-XXI. Realizar visitas a los diferentes albergues públicos y privados del Estado para verificar el estado físico de los adultos mayores, así como la atención que se les brinda y que las instalaciones sean las apropiadas, tomando nota de cualquier anomalía y, en su caso, emitir alguna recomendación, determinar alguna medida de apremio o denunciar ante la autoridad que corresponda;
+XXII. Realizar visitas a los diferentes albergues públicos y privados del Estado para verificar el estado físico de los adultos mayores, así como la atención que se les brinda y que las instalaciones sean las apropiadas, tomando nota de cualquier anomalía y, en su caso, emitir alguna recomendación, determinar alguna medida de apremio o denunciar ante la autoridad que corresponda;
 
-XXII. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus funciones, de conformidad con las disposiciones jurídicas y administrativas aplicables; y
+XXIII. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus funciones, de conformidad con las disposiciones jurídicas y administrativas aplicables; y
 
-XXIII. Las demás que le confieran esta Ley y otros ordenamientos legales.
+XXIV. Las demás que le confieran esta Ley y otros ordenamientos legales.
 
 ### CAPITULO III. DE LA ESTRUCTURA DE LA PROCURADURÍA
 
@@ -572,3 +580,9 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 148 POR EL QUE SE REFORMAN CON LA FINALIDAD DE ARMONIZAR EL TÉRMINO DE ADULTO MAYOR EN SUSTITUCIÓN DEL TÉRMINO ADULTO EN PLENITUD EN LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA, LEY DE HACIENDA PARA EL ESTADO DE COLIMA, LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, LEY ESTATAL DE OBRAS PÚBLICAS, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA, LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 17 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 469.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA; ADEMÁS, SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA Y AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
