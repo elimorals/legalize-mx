@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2019-11-30"
+last_updated: "2021-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2021.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -6205,6 +6205,14 @@ V.- Rendidos en la audiencia los dictámenes médicos y acreditada que fuera la 
 
 Si en dicha audiencia hubiere oposición de parte, se sustanciará en juicio sumario con intervención del Ministerio Público.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2021)</small>
+
+Tratándose de la declaración de incapacidad por causa de demencia relativa a un adulto mayor, se dará aviso a la Procuraduría de la Defensa del Adulto Mayor, desde el inicio del juicio para que intervenga a través de un representante.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2021)</small>
+
+La intervención del representante de la Procuraduría de la Defensa del Adulto Mayor en juicio, lo faculta para recabar, ofrecer, desahogar, objetar pruebas; interponer y continuar recursos e incidentes, formular alegatos y en general solicitar al Juez la realización de todos los actos procesales para la continuación del juicio; procurar la legalidad del procedimiento y salvaguardar los derechos de las personas adultas mayores para lo cual podrá imponerse de los autos del juicio y podrá solicitar se le entreguen copias de los mismos.
+
 ART. 904.- En el juicio a que se refiere el artículo anterior se observarán las siguientes reglas:
 
 I.- Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente, previa autorización judicial;
@@ -6212,6 +6220,14 @@ I.- Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limi
 > <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
 
 II.- El estado de incapacidad del mayor de edad puede probarse por cualquier medio idóneo de convicción pero en todo caso se requiere la certificación de tres médicos por lo menos preferentemente alienistas y tratándose de menores bastará con el resumen clínico elaborado por médico especialista tratante de la discapacidad que produjo la incapacidad y, que en el Estado, de ser posible, pertenezca al servicio médico público para que tome parte en la audiencia y se oiga su dictamen;
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2021)</small>
+
+Además de lo anterior, al tratarse de adultos mayores, el representante de la Procuraduría de la Defensa del Adulto Mayor, se entrevistará con la persona respecto de la cual se pide declaración de incapacidad por causa de demencia. Para este efecto, podrá solicitar, el apoyo de las instituciones y dependencias públicas que estime pertinentes, a fin de que se realice un examen físico para verificar el estado de demencia, retraso mental moderado, grave o profundo, alguna otra enfermedad o trastorno mental cuya gravedad impida un adecuado funcionamiento de sus facultades.
+
+Posteriormente, manifestará al Juez su opinión acerca de la procedencia o no de la declaratoria de incapacidad por causa de demencia.
+
+El Juez deberá tomar en cuenta la opinión emitida por el representante de la Procuraduría de la Defensa del Adulto Mayor, al momento de emitir sentencia.
 
 III.- Si la sentencia de primera instancia fuere declaratoria de estado, proveerá el juez, aunque fuere apelada o antes si hubiere necesidad urgente, a la patria potestad o tutela de las personas que estuvieren bajo la guarda del presunto incapacitado y a nombrar curador que vigile los actos del tutor interino en la administración de los bienes y cuidado de la persona;
 
@@ -7048,3 +7064,9 @@ P.O. 30 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 158 POR EL QUE SE APRUEBA REFORMAR LAS FRACCIONES VIII, XI Y XII DEL ARTÍCULO 169, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 170, ASÍ COMO ADICIONAR LOS PÁRRAFOS CUARTO Y QUINTO DEL ARTÍCULO 170, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 17 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 469.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA; ADEMÁS, SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA Y AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
