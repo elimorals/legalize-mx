@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2021-02-06"
+last_updated: "2021-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2021.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -1663,9 +1663,7 @@ VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebid
 
 Para efectos de lo dispuesto en el párrafo anterior, procede la excepción prevista en el tercer párrafo de la fracción IV del artículo 98 de este Código.
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2007)</small>
-
-IX.- Padecer alguno de los contrayentes discapacidad intelectual, aunque pudiera tener momentos de lucidez;
+IX.- (DEROGADA, P.O. 17 DE JULIO DE 2021)
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -2145,189 +2143,161 @@ ART. 265.- Los que infrinjan el artículo anterior, así como los que siendo may
 
 ART. 266.- El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
 
-ART. 267.- Son causas de divorcio:
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2021)</small>
 
-I.- El adulterio debidamente probado de uno de los cónyuges;
+ART. 267.- El divorcio podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial, manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar una causa por la cual se solicita.
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+El divorcio incausado se tramitará en la vía sumaria prevista en el Código de Procedimientos Civiles, atendiendo los principios de protección a las y los integrantes de la familia y el de celeridad.
 
-II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse ese contrato, y que judicialmente sea declarado ilegítimo;
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+ART. 268.- El cónyuge que desee promover el juicio de divorcio incausado deberá acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, debiendo contener los siguientes requisitos:
 
-III.- La propuesta de un cónyuge para prostituir al otro, no sólo cuando el mismo lo haya hecho directamente, sino también cuando se pruebe que ha recibido dinero o cualquier remuneración con el objeto expreso de permitir que se tengan relaciones carnales con el otro cónyuge;
+I. La designación de la persona que tendrá la guarda y custodia de las hijas e hijos menores o con incapacidad legal;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+II. Las modalidades bajo las cuales, quien no tenga la guarda y custodia, ejercerá el derecho de convivencia, respetando los horarios de comidas, descanso, esparcimiento y estudio de las hijas e hijos;
 
-IV.- La incitación o la violencia hecha por un cónyuge al otro para cometer algún delito;
+III. El modo de atender las necesidades de las hijas e hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha del pago de la obligación alimentaria, así corno (sic) la garantía para asegurar su debido cumplimiento;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+IV. La designación del cónyuge al que corresponderá el uso de la vivienda familiar o domicilio conyugal, en su caso, y del menaje o cualquier otro bien familiar como vehículos u otros inmuebles;
 
-V.- Los actos ejecutados por alguno de los cónyuges a fin de corromper a los hijos sean de ambos o de uno sólo de ellos, así como la tolerancia en su corrupción basada en actos positivos o en omisiones graves;
+V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición; y
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+VI. En caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, cuyo monto no podrá exceder del cincuenta por ciento del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de las hijas e hijos.
 
-VI.- Padecer uno (sic) los cónyuges cualquier enfermedad incurable, que sea además, contagiosa o hereditaria y la impotencia sexual incurable que sobrevenga después de celebrado el matrimonio, exceptuando la que tenga su origen en la edad avanzada;
+El órgano jurisdiccional suplirá cualquier deficiencia que implique una desventaja para cualquiera de las partes en el convenio propuesto.
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2021)</small>
 
-VII.- Padecer enfermedad mental incurable;
+ART. 268 BIS.- El divorcio incausado se decretará aun cuando exista o no acuerdo entre las partes, o éste sea parcial. El órgano jurisdiccional decretará el divorcio mediante sentencia definitiva, independientemente de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 268; en caso de no lograrse el acuerdo de referencia, se dejará a salvo el derecho de los cónyuges para que lo hagan valer en la vía incidental, por lo que concierne a la materia del convenio.
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2009)</small>
+Desde que se solicita la nulidad del matrimonio o el divorcio incausado, y mientras dure el procedimiento se dictarán las medidas provisionales pertinentes, según corresponda y de acuerdo con las disposiciones siguientes:
 
-VIII.- La separación de la casa conyugal por más de tres meses sin causa justificada;
+I. El órgano jurisdiccional, de conformidad con los hechos expuestos y los medios de prueba exhibidos en la demanda, controversia del orden familiar o solicitud de divorcio presentada, deberá dictar las medidas adecuadas y necesarias para salvaguardar la integridad y seguridad de las personas interesadas.
 
-IX.- La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
+Cuando exista violencia familiar el órgano jurisdiccional decretará las medidas de protección que corresponda (sic), las cuales podrán ser entre otras:
 
-X.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga que proceda la declaración de ausencia;
+a) La separación de los interesados;
 
-XI.- (DEROGADA, P.O. 26 DE ENERO DE 2008)
+b) El uso y disfrute del domicilio familiar a favor de la o las víctimas; asimismo, previo inventario, los bienes y enseres que continúen en éste y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 1975)</small>
+c) Poner a las hijas e hijos al cuidado de la persona que designe el órgano jurisdiccional escuchando a las partes y tomando en cuenta la opinión de las niñas, los niños y adolescentes, privilegiando siempre su interés superior.
 
-XII.- La negativa injustificada de los cónyuges a cumplir las obligaciones señaladas en el artículo 164 y el incumplimiento, sin justa causa, de la sentencia ejecutoriada por alguno de los cónyuges en el caso del artículo 168;
+No será obstáculo para la preferencia en la custodia, el hecho de que alguna de las partes carezca de recursos económicos;
 
-XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
+d) La salida de la persona agresora del domicilio donde habita el grupo familiar;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+e) La prohibición a la persona agresora de ir a lugar determinado, tal como el domicilio o el lugar donde trabajan o estudian las víctimas;
 
-XIV.- Cometer cualquiera de los cónyuges un delito doloso por el que no tenga derecho a la libertad provisional bajo caución o que por su propia naturaleza constituya un delito que cause deshonra o descrédito familiar;
+f) La prohibición a la persona agresora para que se acerque a las víctimas a la distancia que el órgano jurisdiccional considere pertinente;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+g) Las visitas y convivencias con la persona agresora serán supervisadas por el Centro de Convivencia Familiar; éstas sólo podrán suspenderse cuando representen un mayor perjuicio para su interés superior; y
 
-XV.- El alcoholismo, los hábitos de juego o el uso no terapéutico de substancias lícitas o el uso de las ilícitas que produzcan efectos psicotrópicos, cuando se amenace o sea causa de la ruina de la familia o constituya un constante motivo de desavenencia;
+h) Las demás medidas que se consideren necesarias para la protección de las víctimas, sin perjuicio de que las partes interesadas acudan a las instancias penales.
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DEL 2000)</small>
+También podrán solicitarse en su caso, las medidas previstas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Colima.
 
-XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
+II. Señalar y asegurar las cantidades que a título de alimentos debe dar el deudor alimentista a los acreedores alimentarios que correspondan, debiendo girar los oficios necesarios para conocer la capacidad económica del deudor alimentista, y en todos los casos decretar los apercibimientos de ley;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DEL 2000)</small>
+III. Dictar las medidas provisionales que establece este Código respecto a la mujer que se encuentre embarazada;
 
-XVII.- El mutuo consentimiento;
+IV. Las que se estimen necesarias para que las partes no causen perjuicios en sus bienes patrimoniales y no patrimoniales; asimismo, ordenar, cuando existan bienes inmuebles que pertenezcan a ambas partes, la anotación preventiva de la demanda en el o los Registros Públicos de la. Propiedad y del Comercio a que haya lugar;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+V. Revocar o suspender los mandatos que entre las partes se hubieran otorgado;
 
-XVIII.- Las conductas de violencia intrafamiliar cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de uno de ellos. Para los efectos de esta causal, se entiende como violencia intrafamiliar y como miembros de la familia, lo establecido en el artículo 25 de la Ley para la Prevención y Atención a la Violencia Intrafamiliar para el Estado de Colima;
+VI. Poner a las hijas e hijos al cuidado de la persona que designe el órgano jurisdiccional escuchando a las partes y tomando en cuenta la opinión de las niñas, los niños y adolescentes, privilegiando siempre su interés superior.
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+Las niñas y niños menores de siete años deberán quedar preferentemente al cuidado de quien garantice su interés superior.
 
-XIX.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o de las resoluciones judiciales tendientes a corregir los actos de violencia intrafamiliar y a proteger a los hijos y al cónyuge inocente, cuando éstos sean receptores de ese tipo de violencia;
+No será obstáculo para la preferencia en la custodia, el hecho de que alguna de las partes carezca de recursos económicos;
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2003)</small>
+VII. El órgano jurisdiccional resolverá las modalidades del derecho de visita o convivencia, teniendo presente el interés superior de las hijas e hijos, quienes serán escuchados tomando en cuenta su edad, así como su facilidad de comunicación y expresión;
 
-XX.- El empleo de métodos de fecundación asistida, realizada sin el consentimiento de su cónyuge; y
+VIII. Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como de los que se encuentren bajo el régimen de sociedad conyugal, en su caso, especificando además el título bajo el cual se adquirieron o poseen, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición. Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise;
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2003)</small>
+IX. Establecer la pensión compensatoria al cónyuge que la requiera; y
 
-XXI.- La separación de los cónyuges por más de dos años, independientemente del motivo que la haya originado, pudiendo ser invocada por cualquiera de ellos.
+X. Las demás que consideren necesarias.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2021)</small>
 
-ART. 268.- Sin perjuicio de lo dispuesto en el artículo anterior, cualquiera de los conyugues (sic) podrá solicitar el divorcio ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita.
+ART. 268 TER.- Una vez decretado el divorcio, el órgano jurisdiccional fijará en definitiva la situación de las hijas e hijos, para lo cual se deberá resolver en ésta todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación según el caso y en especial a la custodia y al cuidado de las hijas e hijos.
+
+En caso de violencia familiar, la protección para menores incluirá en la sentencia las medidas de seguridad, seguimiento y reeducativas necesarias para evitarla y corregirla, previstas en este Código y en su caso, las consideradas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Colima, las cuales podrán ser suspendidas o modificadas en términos del artículo 84 del Código de Procedimientos Civiles para el Estado de Colima.
+
+De oficio, durante el procedimiento, el órgano jurisdiccional se allegará los elementos necesarios para determinar las medidas de seguridad, debiendo escuchar a ambas partes y a los menores de edad, para evitar conductas de violencia familiar o de cualquiera otra circunstancia que amerite la necesidad de la medida, considerando siempre el interés superior del menor. En todo caso protegerá y hará respetar el derecho de convivencia con la madre y el padre, salvo que exista peligro para el menor.
+
+Para garantizar el interés superior del menor, se llevará a cabo la celebración de la audiencia de menores, misma que se fijará de oficio o a petición de alguna de las partes; se tomarán en cuenta los preceptos legales estipulados en los artículos 259, 314 y 315 de este mismo Código.
+
+En caso de que el ascendiente, tutor, custodio, depositario, quien tenga o detente la guarda y custodia de hecho o por derecho de una niña, niño o adolescente, no se presente con el mismo a la audiencia, sin causa justificada legalmente, se dará vista a la fiscalía por la misma autoridad, o en su caso bajo querella o denuncia de las partes, en términos del artículo 270 del Código Penal para el Estado de Colima.
+
+En la resolución judicial se fijarán también las bases para actualizar las pensiones compensatoria y alimenticia, así corno (sic) las garantías para su efectividad. El derecho a esta compensación del cónyuge o la cónyuge deberá durar hasta que el desequilibrio económico se haya resarcido.
+
+Para el caso de mayores con discapacidad, bajo tutela de ex cónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección; asimismo, la sentencia de divorcio establecerá la reparación del daño en caso de violencia familiar contra cualquiera de las personas integrantes de la familia.
+
+El órgano jurisdiccional resolverá sobre la compensación de bienes a que haya lugar que prevé el artículo 268 fracción VI, atendiendo a las circunstancias especiales de cada caso.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2021)</small>
+
+ART. 268 QUÁTER.- Antes de que se provea definitivamente sobre la patria potestad o tutela de las hijas o los hijos, a petición de la madre o el padre podrán acordar los tribunales cualquiera providencia que se considere benéfica a los menores, propuesta por los abuelos, tíos o hermanos mayores. El órgano jurisdiccional podrá modificar esta decisión con base en lo dispuesto en los artículos 422, 423 y 734 de este Código.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2021)</small>
+
+ART. 268 QUINQUIES.- En caso de divorcio, el órgano jurisdiccional tomando en cuenta el desequilibrio económico que pueda presentarse entre los cónyuges al momento de disolverse el vínculo matrimonial, determinará una pensión alimenticia, compensatoria o ambas a favor de la parte que hubiera quedado en desventaja.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2021)</small>
+
+ART. 268 SEXIES.- Los cónyuges que deseen divorciarse por mutuo consentimiento vía judicial, cuando tengan hijas o hijos menores de edad, sean acreedores alimentarios o no hayan liquidado la sociedad conyugal, deberán acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, cumpliendo con los requisitos establecidos en el artículo 268 de este Código.
+
+En el divorcio por mutuo consentimiento, aprobado el convenio, el órgano jurisdiccional emitirá la sentencia correspondiente con la cual concluirá el juicio de divorcio, ordenando se comunique esta resolución al encargado del Registro Civil.
 
 ART. 269.- (DEROGADO, P.O. 29 DE MARZO DE 2003)
 
 ART. 270.- (DEROGADO, P.O. 29 DE MARZO DE 2003)
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
+ART 271.- (DEROGADO, P.O. 17 DE JULIO DE 2021)
 
-ART. 271.- Para que pueda pedirse el divorcio por causa de enfermedad mental que se considere incurable, o de peligro de daño para la integridad física o psicológica del otro cónyuge y de los hijos de ambos o de alguno de ellos, es necesario justificarlo con dictamen médico expedido por institución oficial y que haya transcurrido, además un año desde que comenzó a padecerse la enfermedad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2021)</small>
 
 ART. 272.- Cuando ambos cónyuges convengan en divorciarse, la mujer no se encuentre en estado de gravidez, y no tengan hijos o, teniéndolos, éstos sean mayores de edad y no exista obligación alimentaria, y no se encuentren bajo el régimen de tutela; y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen contrajeron matrimonio, se presentarán personalmente ante el oficial del registro civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas, firmadas en forma autógrafa o con la firma electrónica certificada y en los formatos autorizados, que son casados, manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
 El Oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente del matrimonio anterior.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
 El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos menores de edad, o que la mujer se encuentra en estado (sic) gravidez, o que teniendo hijos mayores de edad, éstos se encuentran bajo el régimen de tutela, o son acreedores alimentarios y no han liquidado su sociedad conyugal, y entonces aquellos sufrirán las penas que establezca el Código de la materia.
 
-Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 1975)</small>
-
-ART. 273.- Los cónyuges que se encuentren en el caso del último párrafo del artículo anterior, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
-
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
-
-I.- Designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces tanto durante el procedimiento como después de ejecutoriado el divorcio;
-
-II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
-
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
-
-III.- La casa que servirá de habitación a cada cónyuge y a los hijos durante el procedimiento y después de ejecutoriado el divorcio, obligándose a ambos a comunicar los cambios de domicilio aún después de decretado el divorcio, si hay hijos menores o incapaces u obligaciones alimentarias que cubrir;
-
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
-
-IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento y después de decretado el divorcio, si la necesitara, la forma de hacer el pago y la garantía que debe darse para asegurarlo; y
-
-V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
+ART. 273.- (DEROGADO, P.O. 17 DE JULIO DE 2021)
 
 ART. 274.- (DEROGADO, P.O. 29 DE MARZO DE 2003)
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
-
-ART. 275.- Mientras se decrete el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la custodia y subsistencia de los hijos a quienes hay obligación de dar alimentos.
+ART. 275.- (DEROGADO, P.O. 17 DE JULIO DE 2021)
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
 
 ART. 276.- Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+ART. 277.- (DEROGADO, P.O. 17 DE JULIO DE 2021)
 
-ART. 277.- El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 267 podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+ART. 278.- (DEROGADO, P.O. 17 DE JULIO DE 2021)
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
-
-ART. 278.- El divorcio necesario sólo podrá promoverse por el cónyuge que no haya dado causa de él y dentro de los seis meses siguientes al día en que tenga conocimiento de los hechos en los que se funde la demanda cuando se invoquen las causales a que se refieren las fracciones II, III, IV, V, VI, VIII, XIII, XIV, XVI, XIX y XX del artículo 267 de este Código. Se exceptúan de esta regla, las causales de las fracciones I, VII, IX, XI, XII y XV de dicho artículo, en cuyo caso el plazo para demandar el divorcio necesario, será de dos años.
-
-Las causales a que se refieren las fracciones XVII, XVIII y XXI, del artículo 267 de este Código podrán ser invocadas en cualquier tiempo, sin que prescriba el derecho de acción.
-
-ART. 279.- Ninguna de las causas enumeradas en el artículo 267 puede alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
+ART. 279.- (DEROGADO, P.O. 17 DE JULIO DE 2021)
 
 ART. 280.- La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
 
-ART. 281.- El cónyuge que no haya dado causa al divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; mas, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+ART. 281.- (DEROGADO, P.O. 17 DE JULIO DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 1975)</small>
+ART. 282.- (DEROGADO, P.O. 17 DE JULIO DE 2021)
 
-ART. 282.- Al admitirse la demanda de divorcio, o antes si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
-
-I.- (DEROGADA, P.O. 14 DE JUNIO DE 1975);
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 1975)</small>
-
-II.- Proceder a la separación de los cónyuges de conformidad con el Código de Procedimientos Civiles;
-
-III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 1975)</small>
-
-IV.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes, y en los de la Sociedad conyugal, en su caso;
-
-> <small>(REFORMADA, P.O. 25 DE MARZO DEL 2000)</small>
-
-V.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
-
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2018)</small>
-
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieran designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el juez resolverá lo conducente tomando como principio rector el interés superior de la niñez, a fin de lograr un estudio objetivo de las aptitudes reales de los padres, que resulte acorde al principio de igualdad, con la obligación del que tenga la custodia de permitir la convivencia con el otro progenitor o progenitores, si es el caso;
-
-> <small>(ADICIONADA, P.O. 25 DE MARZO DEL 2000)</small>
-
-VII.- Imponer la prohibición de ir a un domicilio o lugar para alguno de los cónyuges, así como las medidas necesarias para evitar actos de violencia intrafamiliar.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2021)</small>
 
 ART. 283.- Durante el procedimiento el juez, de oficio o a petición de parte interesada, dictará las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir conductas de violencia intrafamiliar, debiéndose allegar los elementos necesarios para ello. En todo caso estará obligado a escuchar a ambos progenitores y a los hijos mayores de 14 años. Salvo que exista peligro para el menor, el juez hará respetar el derecho de convivencia con los padres. Las medidas podrán ser suspendidas o modificadas en los términos del artículo 94 del Código de Procedimientos Civiles vigente en el Estado.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DEL 2000)</small>
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2021)</small>
 
-La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso y en especial, a la guarda y cuidado de los hijos.
+En todos los casos de divorcio donde existan hijos menores de edad, el Juez ordenará de oficio se brinde a los menores de edad un acompañamiento terapéutico a efecto de valorar su aptitud para comprender los hechos, y darles protección psico-emocional de forma gratuita pudiendo auxiliarse en los Sistemas para el Desarrollo Integral de la Familia, Estatal o Municipales o de otras instituciones públicas que cuenten con dicho servicio o, en caso de solicitarlo los padres, de profesionistas privados debidamente autorizados cuyos honorarios serán sufragados en los términos que convengan los progenitores.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2021)</small>
+
+Los padres estarán obligados a presentar a los menores para su acompañamiento terapéutico. El juez estará facultado para dictar todas las medidas de apremio en caso de incumplimiento a lo anterior.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
@@ -2337,7 +2307,7 @@ El juez podrá modificar esta decisión atento a lo dispuesto en los artículos 
 
 ART. 285.- El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
 
-ART. 286.- El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+ART. 286.- (DEROGADO, P.O. 17 DE JULIO DE 2021)
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
@@ -2347,7 +2317,7 @@ ART. 287.- Ejecutoriado el divorcio, se procederá desde luego a la división de
 
 En el caso de que uno de los cónyuges carezca de bienes o que durante el matrimonio mayor de diez años, se haya dedicado preponderantemente a las labores del hogar o al cuidado de los hijos, o que esté imposibilitado para trabajar, tendrá derecho a alimentos, tomando en cuenta las siguientes circunstancias:
 
-I.- En caso de ser divorcio necesario sea el cónyuge inocente, por lo que también tendrá derecho a que el culpable lo indemnice por los daños y perjuicios que el divorcio le haya causado; y
+I.- (DEROGADA, P.O. 17 DE JULIO DE 2021)
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
@@ -2377,27 +2347,7 @@ III.- Durante el matrimonio el demandante no haya adquirido bienes propios o hab
 
 El juez en la sentencia de divorcio, resolverá atendiendo a las circunstancias especiales de cada caso.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
-
-###### Art. 288.
-
-En los casos de divorcio necesario el juez sentenciará al cónyuge culpable al pago de alimentos a favor del cónyuge inocente, tomando en cuenta las siguientes circunstancias:
-
-I.- La edad y el estado de salud de los cónyuges;
-
-II.- Su calificación profesional y posibilidad de acceso a un empleo;
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
-
-III.- Duración del matrimonio;
-
-IV.- Participación con su trabajo en las actividades económicas del cónyuge culpable;
-
-V.- Situación económica de cada uno de los cónyuges; y
-
-VI.- Las demás obligaciones que tenga el cónyuge culpable.
-
-En la resolución se fijarán las bases para actualizar la pensión y las garantías para su cumplimiento. Extinguiéndose estas obligaciones cuando el acreedor contraiga nuevas nupcias o tenga una nueva pareja en unión libre, concubinato o cualquiera otra.
+ART 288.- (DEROGADO, P.O. 17 DE JULIO DE 2021)
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -3493,9 +3443,7 @@ ART. 450.- Tienen incapacidad natural y legal:
 
 I.- Los menores de edad;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2007)</small>
-
-II.- El mayor de edad con algún tipo de discapacidad intelectual, aunque pudiera tener momentos de lucidez, o motriz cuando no puedan conducirse por sí para contraer obligaciones o para manifestar su voluntad por cualquiera de las formas por las que ésta pudiera ser manifestada.
+II.- (DEROGADA, P.O. 17 DE JULIO DE 2021)
 
 III.- (DEROGADA, P.O. 26 DE MAYO DE 2007)
 
@@ -3570,6 +3518,14 @@ ART. 469 BIS 1.- Toda persona en pleno ejercicio de sus derechos puede nombrar t
 El nombramiento hecho excluye de su ejercicio a las personas a quienes pudiera corresponderles su desempeño con arreglo a este código.
 
 A la persona que nombre tutor se le denominará designante u otorgante; al nombrado, tutor cautelar.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2021)</small>
+
+Tratándose de adultos mayores que manifiesten su intención de nombrar un tutor, será, requisito para la validez de los nombramientos, contar de forma previa a la firma ante notario público, del oficio de conformidad emitido por la Procuraduría de la Defensa del Adulto Mayor, en el cual se hará constar que el adulto mayor que realiza el nombramiento de tutor, tiene pleno conocimiento de las implicaciones legales de dicho nombramiento.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2021)</small>
+
+Si de la entrevista que realice el representante de la Procuraduría de la Defensa del Adulto Mayor al interesado, quedara en evidencia el desconocimiento de las implicaciones legales por parte del mismo, si este manifestara que no es su voluntad nombrar tutor o si se identificara un posible caso de violencia psicológica, patrimonial o económica que pudiera alterar la voluntad se informará al Notario Público correspondiente, la negativa a emitir el oficio de conformidad, por lo que no podrá continuarse con el nombramiento y se tendrá por no presentada la solicitud.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
 
@@ -6476,6 +6432,24 @@ ART. 1407.- Testamento público abierto es el que se otorga ante Notario, de con
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 1408.- El testador expresará de modo claro y terminante su voluntad al notario. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán la escritura el testador, el notario y, en su caso, los testigos y el intérprete, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2021)</small>
+
+ART. 1408 Bis.- Cuando el testador sea un adulto mayor, se estará a lo siguiente:
+
+El testador expresará de modo claro y terminante su voluntad al notario. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador.
+
+A petición del interesado, podrá solicitar la intervención de un representante de la Procuraduría de la Defensa del Adulto Mayor. Si del criterio del notario se desprende que el Adulto Mayor se encuentra en estado de incapacidad o interdicción, deberá solicitar la intervención de un representante de la Procuraduría de la Defensa del Adulto Mayor.
+
+Posteriormente, se entrevistará con el testador, a fin de confirmar que éste tiene pleno conocimiento del significado y consecuencias jurídicas de las cláusulas del documento, así como identificar cualquier posible caso de violencia psicológica, patrimonial o económica que pudiera alterar la voluntad del testador en beneficio de un tercero.
+
+En este caso de confirmarse que no hay pleno conocimiento del acto realizado o si se observara alguno de los tipos de violencia señalados en el párrafo anterior, el representante de la Procuraduría de la Defensa del Adulto Mayor, informará por escrito al notario de la imposibilidad de continuar con la firma del testamento.
+
+En caso contrario, el representante de la Procuraduría de la Defensa del Adulto Mayor manifestará por escrito que no existe impedimento para continuar.
+
+El representante de la Procuraduría de la Defensa del Adulto Mayor, cuando se haya solicitado su intervención, deberá estar presente al momento de la lectura en voz alta a las cláusulas del testamento.
+
+Posteriormente, el testador manifestará su conformidad si lo estuviere, firmarán la escritura el testador, el notario y, en su caso, el representante y los testigos, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -11816,3 +11790,23 @@ P.O. 6 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 411.- POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 49, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 102, ASÍ COMO, LA FRACCIÓN IV DEL ARTÍCULO 108 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA Y LOS ARTÍCULOS 300 BIS Y 423 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 17 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 466.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 17 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 469.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA; ADEMÁS, SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA Y AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 17 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 470.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 156 Y 450 Y SE ADICIONA UN PÁRRAFO SEGUNDO Y TERCERO AL ARTÍCULO 283, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA.”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el periódico oficial “El Estado de Colima.”
+
+SEGUNDO.- Los juicios de divorcio por mutuo consentimiento o incausado que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos de conformidad con lo dispuesto con las disposiciones vigentes en que fueron iniciados.
