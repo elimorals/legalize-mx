@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-atencion-de-las-personas-migrantes-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-16"
-last_updated: "2021-04-13"
+last_updated: "2021-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2021.
 
 Ley publicada en la Quinta Parte al Número 96 del Periódico Oficial del Estado de Guanajuato, el viernes 16 de junio de 2017.
 
@@ -53,7 +53,9 @@ Fines de la Ley
 
 Son fines de la presente Ley:
 
-I. Establecer los principios que garanticen, a través de las políticas públicas que diseñe e implemente la administración pública estatal y municipal, el marco de respeto, la protección y salvaguarda de los derechos humanos de los migrantes y sus familias, con especial atención a los grupos vulnerables como lo son: niñas, niños y adolescentes, mujeres, indígenas y adultos mayores, así como las víctimas del delito;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2021)</small>
+
+I. Establecer los principios que garanticen, a través de las políticas públicas que diseñen e implementen la administración pública estatal y municipal, el marco de respeto, la protección y salvaguarda de los derechos humanos de las personas migrantes y sus familias, con especial atención en las personas o grupos en situación de vulnerabilidad como lo son: niñas, niños y adolescentes, mujeres, indígenas, personas con discapacidad y las personas adultas mayores, así como las víctimas del delito;
 
 II. Determinar las atribuciones que las autoridades estatales y municipales tienen en materia de atención a migrantes y a sus familias;
 
@@ -155,6 +157,10 @@ d) A recibir protección en caso de detención arbitraria, persecución y hostig
 
 e) A qué se facilite un traductor o intérprete;
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+
+En cualquier caso, independientemente de su situación migratoria, las personas migrantes tendrán derecho a la procuración e impartición de justicia, respetando en todo momento el derecho al debido proceso, así como a presentar quejas en materia de derechos humanos, de conformidad con las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y demás leyes aplicables.
+
 III. De protección de la salud:
 
 a) A recibir atención médica en términos de lo dispuesto en la Ley General de Salud, la Ley de Salud del Estado de Guanajuato y demás normatividad aplicable; y
@@ -192,6 +198,10 @@ c) A formar parte de los diversos órganos de representación y consulta ciudada
 d) A recibir información sobre sus derechos y de las instituciones que prestan servicios a los migrantes.
 
 A todo migrante le serán respetados sus derechos humanos sin distinción de sexo, preferencia sexual, origen étnico, raza, color, credo religioso, edad, idioma, ideología política, posición social o económica o cualquier otra condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+
+De manera adicional, en el caso de niñas, niños y adolescentes migrantes se garantizarán y atenderán, los derechos y principios establecidos para éstos en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, incluyendo el de la no privación de la libertad por motivos migratorios.
 
 Coordinación entre autoridades
 
@@ -575,6 +585,14 @@ Espacios de alojamiento o albergues
 
 La Secretaría promoverá con el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato y ayuntamientos, así como con los titulares o responsables de los centros de asistencia social y las organizaciones de asistencia social, la habilitación de espacios de alojamiento o albergues para recibir migrantes deportados o en tránsito que enfrentan situaciones de vulnerabilidad, debiendo cubrir los estándares mínimos para que la atención que ahí se les brinde sea la adecuada, en términos de la normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+
+Niñas, niños y adolescentes migrantes en tránsito
+
+###### Artículo 27 Bis
+
+1. Ante la presencia de niñas, niños o adolescentes migrantes, en situación de vulnerabilidad, que transitan el estado de Guanajuato con destino a diverso lugar del país o en el extranjero, la Secretaría deberá orientarlos para su atención, además de generar acciones de acompañamiento que así lo permitan, así como el informar dicha circunstancia a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y al Sistema Estatal para el Desarrollo Integral de la Familia o municipal respectivo; ello tendiente a la pronta adopción de medidas para la protección de sus derechos que, bajo el principio de interés superior de la niñez, garanticen su mayor protección.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ### CAPÍTULO V. PROGRAMAS Y ACCIONES DE HOSPITALIDAD E INTERCULTURALIDAD
@@ -772,3 +790,11 @@ Artículo Segundo. La Secretaría contará con un plazo de noventa días posteri
 Adecuaciones a los reglamentos
 
 Artículo Tercero. El Ejecutivo del Estado y los ayuntamientos contarán con un plazo de ciento veinte días posteriores a la entrada en vigor del presente Decreto para adecuar sus reglamentos, en congruencia con el mismo.
+
+P.O. 19 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 329 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO; ASÍ COMO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
