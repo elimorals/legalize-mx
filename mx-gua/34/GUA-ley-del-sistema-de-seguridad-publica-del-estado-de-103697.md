@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2021-04-23"
+last_updated: "2021-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2021.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -1585,103 +1585,29 @@ La policía ministerial y la especializada en adolescentes se sujetarán a lo di
 
 ### Capítulo I. Carrera Policial y Profesionalización
 
-Carrera policial
-
 ###### Artículo 70.
 
-La carrera policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la conclusión del servicio de los integrantes de las Instituciones Policiales.
-
-Fines de la carrera policial
+(DEROGADO, P.O. 19 DE JULIO DE 2021)
 
 ###### Artículo 71.
 
-Los fines de la carrera policial son:
-
-I. Garantizar el desarrollo institucional y procurar la permanencia en el servicio con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes de las Instituciones Policiales;
-
-II. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones de Seguridad Pública;
-
-III. Fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de los integrantes de las Instituciones Policiales;
-
-IV. Instrumentar e impulsar la capacitación y profesionalización permanente de los integrantes de las Instituciones Policiales para asegurar la lealtad institucional en la prestación de los servicios; y
-
-V. Los demás que establezcan las disposiciones que deriven de esta Ley.
-
-Organización jerárquica de las Instituciones Policiales
+(DEROGADO, P.O. 19 DE JULIO DE 2021)
 
 ###### Artículo 72.
 
-La organización jerárquica de las instituciones policiales en el Estado y los municipios contemplarán al menos las categorías siguientes:
-
-I. Comisarios;
-
-II. Inspectores;
-
-III. Oficiales; y
-
-IV. Escala Básica.
-
-Categorías de organización de las Instituciones Policiales
+(DEROGADO, P.O. 19 DE JULIO DE 2021)
 
 ###### Artículo 73.
 
-Las categorías previstas en el artículo anterior considerarán al menos las siguientes jerarquías:
-
-I. Comisarios:
-
-a) Comisario General;
-
-b) Comisario Jefe; y
-
-c) Comisario;
-
-II. Inspectores:
-
-a) Inspector General;
-
-b) Inspector Jefe; y
-
-c) Inspector;
-
-III. Oficiales:
-
-a) Subinspector;
-
-b) Oficial; y
-
-c) Suboficial;
-
-IV. Escala Básica:
-
-a) Policía Primero;
-
-b) Policía Segundo;
-
-c) Policía Tercero; y
-
-d) Policía.
-
-Organización de las Instituciones Policiales
+(DEROGADO, P.O. 19 DE JULIO DE 2021)
 
 ###### Artículo 74.
 
-Las Instituciones Policiales se organizarán bajo un esquema de jerarquización terciaria, cuya célula básica se compondrá invariablemente por tres elementos.
-
-Con base en las categorías jerárquicas señaladas en el artículo precedente, los titulares de las instituciones municipales, deberán cubrir, al menos, el mando correspondiente al quinto nivel ascendente de organización en la jerarquía.
-
-Las instituciones estatales deberán satisfacer, como mínimo, el mando correspondiente al octavo grado de organización jerárquica.
-
-Los titulares de las categorías jerárquicas estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
-
-Orden de las categorías jerárquicas y grados de las Instituciones Policiales
+(DEROGADO, P.O. 19 DE JULIO DE 2021)
 
 ###### Artículo 75.
 
-El orden de las categorías jerárquicas y grados tope del personal de las instituciones de seguridad pública con relación a las áreas operativas y de servicios será:
-
-I. Para las áreas operativas, de policía a Comisario General; y
-
-II. Para los servicios, de policía a Comisario Jefe.
+(DEROGADO, P.O. 19 DE JULIO DE 2021)
 
 ###### Artículo 76.
 
@@ -2053,47 +1979,17 @@ Por cada uno de estos cargos se nombrará un suplente, a excepción del Secretar
 
 ### Capítulo III. Comisión del Servicio Profesional de Carrera Policial
 
-Comisión del Servicio Profesional de Carrera Policial
-
 ###### Artículo 105.
 
-La Comisión del Servicio Profesional de Carrera Policial de la Secretaría, es el organismo colegiado que tiene por objeto administrar, diseñar y ejecutar los lineamientos que definan los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento, de acuerdo a la normatividad aplicable. Además, será la instancia encargada, en el ámbito de su competencia, de procurar que se cumplan los fines de la carrera policial.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
-
-Reglamentos en materia de Servicio Profesional de Carrera Policial
+(DEROGADO, P.O. 19 DE JULIO DE 2021)
 
 ###### Artículo 106.
 
-Los reglamentos de servicio profesional de carrera policial desarrollarán las facultades necesarias para llevar a cabo las funciones señaladas en el artículo anterior.
-
-Integración de la Comisión del Servicio Profesional de Carrera Policial de la Secretaría
+(DEROGADO, P.O. 19 DE JULIO DE 2021)
 
 ###### Artículo 107.
 
-La Comisión del Servicio Profesional de Carrera Policial de la Secretaría se integrará de la siguiente manera:
-
-I. El Secretario de Seguridad Pública, quien la presidirá;
-
-II. El Subsecretario de Seguridad;
-
-III. El Director General del Instituto de Formación en Seguridad Pública del Estado;
-
-IV. El Director General de Ejecución Penitenciaria y Readaptación Social;
-
-V. El Director General de Reintegración Social para Adolescentes;
-
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
-
-VI. El Comisario General de las Fuerzas de Seguridad Pública del Estado;
-
-VII. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2018)
-
-VIII. El Director de Personal de la Secretaría, quien fungirá como secretario técnico;
-
-IX. Un representante de la unidad correspondiente de la institución policial; y
-
-X. El Secretario Técnico del Consejo de Honor y Justicia.
+(DEROGADO, P.O. 19 DE JULIO DE 2021)
 
 Servicio de carrera en la institución de procuración de justicia
 
@@ -3212,3 +3108,11 @@ P.O. 23 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 320, MEDIANTE EL CUAL SE REFORMA LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 19 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 332 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO Y MUNICIPIOS DE GUANAJUATO Y SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los noventa días posteriores a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+SEGUNDO. En un plazo no mayor a sesenta días contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado y los ayuntamientos, deberán hacer las previsiones o adecuaciones normativas necesarias para dar cumplimiento a las obligaciones contempladas en el presente decreto.
