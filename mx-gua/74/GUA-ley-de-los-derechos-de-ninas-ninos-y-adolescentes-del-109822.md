@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109822"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-11"
-last_updated: "2020-12-08"
+last_updated: "2021-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2021.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de septiembre de 2015.
 
@@ -1319,9 +1319,9 @@ Comunicación entre autoridades y medidas de protección integral
 
 En caso de que la Procuraduría de Protección, el Sistema y los Sistemas Municipales identifiquen, mediante una evaluación inicial, a niñas, niños y adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración a fin de adoptar medidas de protección integral.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2021)</small>
 
-La Procuraduría de Protección y el Sistema, en coordinación con el Instituto Nacional de Migración, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado (sic) o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado mediante la adopción de medidas de protección integral.
+La Procuraduría de Protección y el Sistema, en coordinación con el Instituto Nacional de Migración y el Sistema Nacional para el Desarrollo Integral de la Familia, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiados o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado mediante la adopción de medidas de protección integral.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
@@ -1332,6 +1332,14 @@ Situación migratoria irregular
 ###### Artículo 83.
 
 En ningún caso una situación migratoria irregular de niñas, niños y adolescentes, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+
+Atribución del Sistema
+
+###### Artículo 83
+
+1. El Sistema coadyuvará con las personas defensoras de derechos humanos, la Comisión Nacional de los Derechos Humanos y la Procuraduría de los Derechos Humanos del Estado de Guanajuato, para garantizar la protección integral de los derechos de niñas, niños y adolescentes migrantes.
 
 ### Capítulo XXI. Deberes de Niñas, Niños y Adolescentes
 
@@ -1982,3 +1990,11 @@ P.O. 8 DE DICIEMBRE DE 2020.
 Inicio de vigencia
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 19 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 329 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO; ASÍ COMO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
