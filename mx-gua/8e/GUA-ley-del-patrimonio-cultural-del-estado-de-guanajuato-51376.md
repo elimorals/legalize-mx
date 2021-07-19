@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-patrimonio-cultural-del-estado-de-guanajuato-51376"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-01"
-last_updated: "2013-06-07"
+last_updated: "2021-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el martes 1 de agosto de 2006.
 
@@ -114,6 +114,14 @@ III. Los ayuntamientos;
 IV. El Instituto Estatal de la Cultura del Estado de Guanajuato; y
 
 V. Los organismos municipales encargados de la ejecución de los programas y acciones culturales a desarrollar en el municipio, creados por el Ayuntamiento de acuerdo a la Ley de Fomento a la Cultura para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+
+###### Artículo 5
+
+Bis. El Poder Legislativo podrá solicitar al Gobernador del Estado que declare una manifestación cultural como patrimonio cultural intangible del Estado de Guanajuato, en los términos de esta Ley.
+
+La solicitud se realizará a través de la presentación de un punto de acuerdo que, de ser aprobado, se enviará al Gobernador del Estado para su atención y, en su caso, se promuevan las acciones necesarias para su protección, preservación y valoración.
 
 ###### Artículo 6.
 
@@ -532,3 +540,9 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 19 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 328 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA EL ARTICULO 5-BIS DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
