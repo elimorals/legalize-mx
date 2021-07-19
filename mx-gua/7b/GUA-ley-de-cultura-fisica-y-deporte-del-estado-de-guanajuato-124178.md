@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-cultura-fisica-y-deporte-del-estado-de-guanajuato-124178
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-03"
-last_updated: "2020-11-05"
+last_updated: "2021-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2021.
 
 Ley publicada en la Cuarta Parte al Número 191 del Periódico Oficial del Estado de Guanajuato, el viernes 3 de noviembre de 2017.
 
@@ -471,9 +471,15 @@ XXIX. Establecer instrumentos y procedimientos para identificar y seleccionar a 
 
 XXX. Promover y fomentar el otorgamiento de apoyos a talentos deportivos y deportistas de alto rendimiento;
 
-XXXI. Promover programas especiales que amplíen las opciones de la cultura física y deporte a grupos vulnerables y personas con discapacidad; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2021)</small>
 
-XXXII. Las demás que señalen las leyes y disposiciones jurídicas aplicables.
+XXXI. Promover programas especiales que amplíen las opciones de la cultura física y deporte a grupos vulnerables y personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2021)</small>
+
+XXXII. Realizar acciones o campañas a efecto de promover la cultura física y el deporte, encaminadas a desalentar el consumo de bebidas alcohólicas y evitarlo en menores de edad, en coordinación con las autoridades estatales y municipales, así como con los sectores social y privado; y
+
+XXXIII. Las demás que señalen las leyes y disposiciones jurídicas aplicables.
 
 Patrimonio de la CODE
 
@@ -1574,3 +1580,9 @@ P.O. 5 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 234 POR EL QUE SE ADICIONA UNA FRACCIÓN V, RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 13, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 19 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 331 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXI Y SE ADICIONA UNA FRACCIÓN XXXII, RECORRIÉNDOSE LA SUBSECUENTE PARA QUEDAR COMO XXXIII DEL ARTÍCULO 18 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
