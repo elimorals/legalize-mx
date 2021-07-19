@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2019-11-01"
+last_updated: "2021-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2021.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -2646,6 +2646,36 @@ Los alimentos para el concebido comprenden, además, los gastos de atención mé
 ###### Art. 363.
 
 El obligado a dar alimentos cumple la obligación asignando una pensión adecuada al acreedor alimentario o incorporándolo a la familia. Si el acreedor se opone justificadamente a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+
+El obligado, por virtud de medidas provisionales, sentencias o convenios judiciales, que incumpla con la pensión o la ministración de alimentos sin causa justificada por un período de noventa días, se constituirá en deudor alimentario. Para tal efecto, el Juez ordenará a la Dirección General de Registros Públicos de la Propiedad y Notarías la inscripción en el Registro de Deudores Alimentarios.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+
+El Juez ordenará al Registro Público de la Propiedad a efecto de que se anote, en el sistema de folios reales sobre aquellos bienes de los cuales sea titular el deudor moroso, a efecto de que no se generen actos posteriores mediante los cuales se pretenda transmitir, modificar, gravar o extinguir el dominio del bien o de cualquier derecho real sobre el mismo y garantizar el derecho del acreedor alimentario.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+
+El Registro Público de la Propiedad deberá verificar el sistema de folios reales a efecto de constatar en los casos en que el deudor alimentario pretenda transmitir, modificar, gravar, limitar o extinguir la propiedad de bienes raíces o cualquier derecho real, a efecto de informar al Juez para que éste resuelva lo que a su derecho corresponda y, en tanto no se resuelva, no podrá realizarse la inscripción.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+
+El deudor alimentario declarado judicialmente como moroso, que acredite con posterioridad ante la misma autoridad que realizó la citada declaratoria, que han sido pagados en su totalidad los adeudos, podrá solicitar a dicha autoridad la cancelación de la inscripción.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+
+El Juez, en los casos que proceda, cancelará las inscripciones a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+
+###### Art. 363-A.
+
+La Dirección General de Registros Públicos de la Propiedad y Notarías para efectos del artículo anterior, deberá inscribir la declaratoria de deudor alimentario en los inmuebles, en que este, sea propietario.
+
+Se inscribirá en dicho registro, a petición de la autoridad judicial competente, la demanda de pago de pensión alimenticia, la medida provisional del pago de pensión o la sentencia dictada especificando el monto adeudado.
+
+Los deudores alimentarios podrán solicitar constancias sobre la situación de los inmuebles en cuanto a que no existen inscripciones o anotaciones relativas a la inscripción del deudor alimentario en el sistema de folios reales, y el Registro deberá entregarlas al interesado.
 
 ###### Art. 364.
 
@@ -14159,7 +14189,9 @@ En cada cabecera de Partido Judicial habrá una Oficina del Registro Público.
 
 Los títulos a que se refiere el artículo 2495 se inscribirán:
 
-a) En la Oficina del Partido Judicial de ubicación del inmueble aquellos a que se refieren las fracciones I, II, III, IX, X, XI, y XIII.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2021)</small>
+
+a) En la oficina del Partido Judicial de ubicación del inmueble aquellos a que se refieren las fracciones I, II, III, IX, X, XI, XIII y XVI;
 
 b) En la Oficina del Partido en donde se hubieren otorgado los contratos a que se refiere la fracción V.
 
@@ -14241,7 +14273,11 @@ XIV. Las resoluciones judiciales en que se declare la incapacidad legal de las p
 
 XV. Los mandatos otorgados en escritura pública; y
 
-XVI. Los demás títulos que la ley ordena expresamente que sean registrados.
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2021)</small>
+
+XVI. Las anotaciones a que se refiere el artículo 363 de este Código; y
+
+XVII. Los demás títulos que la ley ordena expresamente que sean registrados.
 
 ###### Art. 2496.
 
@@ -17576,3 +17612,13 @@ P.O. 1 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 99, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 357 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 19 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 324 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL INCISO A DEL ARTÍCULO 2491 Y SE ADICIONAN LOS ARTÍCULOS 363 CON LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO; 363-A Y 2495 CON UNA FRACCIÓN XVI, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XVI PARA QUEDAR COMO FRACCIÓN XVII DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Ejecutivo del Estado contará con un plazo de ciento veinte días a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias al Reglamento del Registro Público de la Propiedad para el Estado de Guanajuato, a efecto de regular la implementación del Registro de Deudores Alimentarios.
+
+Artículo Tercero. En un plazo de sesenta días a partir de las adecuaciones al Reglamento, la Dirección General de Registros Públicos de la Propiedad y Notarías deberá crear el Registro de Deudores Alimentarios.
