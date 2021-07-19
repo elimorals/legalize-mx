@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2020-11-03"
+last_updated: "2021-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2021.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -133,7 +133,11 @@ XIX.- El control sanitario de la disposición de órganos, tejidos y cadáveres 
 
 XX.- La orientación, prevención y detección temprana del cáncer en la infancia y la adolescencia;
 
-XXI.- Las demás que establezca la Ley General de Salud.
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2021)</small>
+
+XXI.- La orientación, prevención y detección temprana del cáncer de mama, cáncer cérvico uterino y cáncer de próstata; y
+
+XXII.- Las demás que establezca la Ley General de Salud.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
@@ -593,6 +597,14 @@ Los restaurantes deberán tener disponible agua purificada gratuita para los cli
 
 Los establecimientos donde se expendan alimentos, deberán retirar de las mesas la sal y colocarla a petición de los consumidores.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+
+###### Artículo 34 Quáter.
+
+Los establecimientos donde se expendan alimentos y bebidas alcohólicas para su consumo en el mismo, deberán separarlos en su listado de oferta al público, a fin de evitar que los menores de edad accedan al relativo de bebidas alcohólicas.
+
+El listado de oferta de bebidas alcohólicas únicamente será presentado a petición de los consumidores mayores de edad.
+
 ###### ARTICULO 35.
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
@@ -787,6 +799,10 @@ II.- La atención de los menores de edad y la vigilancia de su crecimiento y des
 
 III.- La protección de la integración y del bienestar familiar.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+
+ARTICULO 62 BIS.- En la atención materno infantil se promoverá la detección temprana de la disminución de audición o sordera o malformaciones que puedan causar ceguera y su tratamiento en todos sus grados. Lo anterior, a través del tamiz oftalmológico y auditivo neonatal, en los términos de la Ley General de Salud.
+
 (REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993
 
 ###### ARTICULO 63.
@@ -907,9 +923,13 @@ I.- El desarrollo de actividades educativas, socioculturales y recreativas que c
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
-III.- La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia; y
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2021)</small>
 
-IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+III.- La realización de acciones para la prevención de malestares, síntomas o comportamientos que interfieran con las funciones personales, resultado del uso de tecnologías;
+
+IV.- La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia; y
+
+V.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
 ###### ARTICULO 74.
 
@@ -3668,3 +3688,27 @@ P.O. 3 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVOS (SIC) NÚMERO 230 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 99, LA FRACCIÓN I DEL ARTÍCULO 100, EL PRIMER PÁRRAFO DEL ARTÍCULO 111 BIS, Y LA FRACCIÓN II DEL ARTÍCULO 113; Y SE ADICIONAN LA FRACCIÓN VII AL ARTÍCULO 99, Y UN PÁRRAFO TERCERO AL ARTÍCULO 101, RECORRIÉNDOSE EL PÁRRAFO SUBSECUENTE DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 19 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 325 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 73, RECORRIÉNDOSE LAS SUBSECUENTES EN SU ORDEN DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 19 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 326 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO UBRE (SIC) Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXI AL INCISO A, DEL ARTÍCULO 3, RECORRIÉNDOSE LA ACTUAL FRACCIÓN XXI Y QUEDAR COMO XXII, DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 19 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 327 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 62 BIS A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 19 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 330 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 34 QUÁTER A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor a los ciento ochenta días posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
