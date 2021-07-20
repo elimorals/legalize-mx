@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2021-03-11"
+last_updated: "2021-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JULIO DE 2021.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1289,6 +1289,8 @@ Tratándose de lesiones culposas u homicidio culposo cometido por médicos en el
 
 ### CAPÍTULO V. ABORTO
 
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2021)</small>
+
 ###### Artículo 148.
 
 A quien induzca o ayude a otro al suicidio se le impondrán de tres a diez años de prisión y multa hasta de ochenta días de salario.
@@ -1301,43 +1303,57 @@ Si la persona a quien se induzca o ayude al suicidio fuere menor de edad o incap
 
 ###### Artículo 149.
 
-Comete el delito de aborto quien interrumpe el embarazo en cualquiera de sus etapas.
+Comete el delito de aborto quien interrumpe el embarazo después de la décima segunda semana de gestación.
 
-> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2009)</small>
+Para efectos de este Código, el embarazo es la parte del proceso de la reproducción humana que comienza con la implantación del embrión en el endometrio.
+
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2021)</small>
 
 ###### Artículo 150.
 
-A la mujer que se provoque o consienta que se le practique un aborto, se le sancionará con tratamiento en libertad, consistente en la aplicación de medidas educativas y de salud.
+A la mujer que se provoque o consienta que se le practique un aborto, una vez transcurridas las primeras doce semanas de gestación, se le impondrán de 15 días a dos meses de tratamiento en libertad, consistente en la aplicación de medidas integrales de salud, con respeto a sus derechos humanos.
 
-A la persona que haga abortar a la mujer con su consentimiento, se le impondrán de seis meses a dos años de prisión y multa de hasta setenta y cinco días de salario.
+A la persona que haga abortar a la mujer con su consentimiento, en los términos del párrafo anterior, se le impondrán de quince días a dos meses de prisión o de cincuenta a cien días de trabajo en favor de la comunidad, y multa de hasta setenta y cinco días de Unidad de Medida de Actualización
+
+En este caso, el delito de aborto únicamente se sancionará cuando se haya consumado.
+
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2021)</small>
 
 ###### Artículo 151.
 
-A quien hiciere abortar a una mujer sin su consentimiento se le impondrán prisión de tres a diez años y multa de hasta cien días de salario. Si se empleare la violencia física o moral, las sanciones serán de seis a quince años de prisión y multa hasta de ciento cincuenta días de salario.
+Comete el delito de aborto forzado quien interrumpa el embarazo de una mujer sin el consentimiento de ella, en cualquier momento de la gestación. En este caso, el delito de aborto forzado podrá ser sancionado en grado de tentativa, en los términos dispuestos por el presente Código.
+
+A quien hiciere abortar a una mujer sin su consentimiento se le impondrán (sic) prisión de tres a diez años y multa de hasta cien días de Unidad de Medida de Actualización. Si se empleare la violencia física o moral, las sanciones serán de seis a quince años de prisión y multa hasta de ciento cincuenta días de Unidad de Medida de Actualización.
 
 ###### Artículo 152.
 
-A quien durante el embarazo causare al producto de la concepción lesiones que perjudiquen su normal desarrollo se le impondrán de seis meses a cuatro años de prisión y multa hasta de cincuenta días de salario.
+(DEROGADO, G.O. 20 DE JULIO DE 2021)
 
-No se sancionarán las lesiones al producto de la concepción cuando se causen por imprevisión de la mujer embarazada.
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2021)</small>
 
 ###### Artículo 153.
 
-Si el aborto o las lesiones al producto fueren causados sin propósitos terapéuticos por un médico, partero o enfermero, además de las sanciones que les correspondan serán suspendidos de dos a cinco años en el ejercicio de su profesión.
+Si el aborto forzado fuese causado por un médico, partero o enfermero, además de las sanciones que les correspondan serán suspendidos de dos a cinco años en el ejercicio de su profesión.
 
-No serán punibles las lesiones ni el aborto cuando sean resultado de un tratamiento terapéutico que tenga como finalidad evitar, en el producto de la concepción, trastornos físicos o mentales graves, siempre que se aplique con el consentimiento de la mujer embarazada.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE JULIO DE 2021)</small>
 
 ###### Artículo 154.
 
-El aborto no es punible cuando:
+Se consideran excluyentes de responsabilidad penal para el delito de aborto, cuando:
 
 I. Es causado por imprevisión de la mujer embarazada;
 
-II. El embarazo sea resultado de una violación o de una inseminación artificial no consentida, siempre que se practique dentro de los noventa días de gestación;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2021)</small>
 
-III. De no provocarse, la mujer embarazada quede en peligro de muerte a juicio del médico que la asista, oyendo éste la opinión de otro facultativo, siempre que ello fuere posible y la demora no aumente el riesgo; o
+II. El embarazo sea resultado de una violación o de una inseminación artificial no consentida, independientemente de que exista, o no, causa penal sobre dichos delitos previo al aborto.
 
-IV. A juicio de dos médicos, exista razón suficiente de que el producto padece una alteración que dé por resultado el nacimiento de un ser con trastornos físicos o mentales graves y se practique con el consentimiento de la mujer embarazada.
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2021)</small>
+
+III. De no provocarse, la mujer embarazada quede en peligro de muerte o en riesgo de afectación a su salud, a juicio del médico que la asista; o
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2021)</small>
+
+IV. A juicio de un médico, exista razón suficiente para diagnosticar que el producto padece una alteración que dé por resultado el nacimiento de un ser con trastornos físicos o mentales graves, siempre que se practique con el consentimiento de la mujer embarazada.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -5411,17 +5427,13 @@ CUARTO. En la aplicación del presente Decreto se tendrá presente el principio 
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PRISIÓN PREVENTIVA OFICIOSA”.]
+G.O. 20 DE JULIO DE 2021.
 
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 857 QUE REFORMA LOS ARTÍCULOS 149,150, 151, 153 Y 154 Y DEROGA EL ARTÍCULO 152 TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-Segundo.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan al contenido, previstas en leyes secundarias, reglamentos, acuerdos y cualquier otro ordenamiento normativo de carácter administrativo.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
-Tercero.- El Congreso de la Unión, en un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este Decreto, deberá armonizar el marco jurídico de las leyes en las materias con el contenido del presente Decreto.
-
-Cuarto.- Las legislaturas de las entidades federativas deben realizar las adecuaciones normativas necesarias para cumplir con lo previsto en el presente Decreto, dentro de los trescientos sesenta y cinco días naturales siguientes a la publicación de este ordenamiento.
-
-D.O.F. 31 DE DICIEMBRE DE 2024.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 21 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SEGURIDAD PÚBLICA".]
 
