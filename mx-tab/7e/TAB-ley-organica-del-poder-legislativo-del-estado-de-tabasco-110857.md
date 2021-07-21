@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-110857
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-12-23"
-last_updated: "2018-09-01"
+last_updated: "2021-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2021.
 
 Ley publicada en el Suplemento D del Periódico Oficial del Estado de Tabasco, el miércoles 23 de diciembre de 2015.
 
@@ -943,45 +945,43 @@ En el ejercicio de dichas funciones, tratándose de las comparecencias, solicitu
 
 Los Diputados además de formar parte de las comisiones para las que fueren designados, podrán participar en las sesiones de otras comisiones, con voz pero sin voto.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2021)</small>
 
 ###### Artículo 75.
 
-Para el desempeño de sus funciones, el Congreso cuenta con las siguientes Comisiones ordinarias:
+Para el desempeño de sus funciones, el Congreso cuenta con las siguientes Comisiones Ordinarias:
 
-I. Bienestar Social, Asuntos Indígenas, Atención a Grupos Vulnerables, Adultos Mayores y Personas con Discapacidades;
+I. Asentamientos Humanos, Ordenamiento Territorial, Desarrollo Urbano y Obras Públicas;
 
-II. Comunicaciones y Transportes, Tránsito y Vialidad;
+II. AUDITORÍA GUBERNAMENTAL Y CUENTA PÚBLICA;
 
-III. Derechos Humanos, Igualdad de Género y Asuntos de la Frontera Sur;
+III. Bienestar Social, Asuntos Indígenas, Atención a Grupos Vulnerables, Adultos Mayores y Personas con Discapacidades;
 
-IV. Desarrollo Agropecuario, Forestal y Pesquero;
+IV. Derechos Humanos, Igualdad de Género y Asuntos de la Frontera Sur;
 
-V. Educación, Ciencia y Tecnología, Cultura, Infancia, Juventud y Deporte;
+V. Desarrollo Agropecuario, Forestal y Pesquero;
 
-VI. Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico;
+VI. Desarrollo Metropolitano y Zonas Conurbadas;
 
-VII. Fortalecimiento Municipal y Trabajo;
+VII. Educación, Ciencia y Tecnología, Cultura, Infancia, Juventud y Deporte;
 
-VIII. Gobernación y Puntos Constitucionales;
+VIII. Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico;
 
-IX. Hacienda y Finanzas;
+IX. Fortalecimiento Municipal y Trabajo;
 
-X. Inspectora de Hacienda, Primera;
+X. Gobernación y Puntos Constitucionales;
 
-XI. Inspectora de Hacienda, Segunda;
+XI. Hacienda y Finanzas;
 
-XII. Inspectora de Hacienda, Tercera;
+XII. Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias;
 
-XIII. Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias;
+XIII. Recursos Hidráulicos, Energía y Protección Ambiental;
 
-XIV. Ordenamiento Territorial y Obras Públicas;
+XIV. Salud;
 
-XV. Recursos Hidráulicos, Energía y Protección Ambiental;
+XV. Seguridad Pública, Procuración de Justicia y Protección Civil; y
 
-XVI. Salud; y
-
-XVII. Seguridad Pública, Procuración de Justicia y Protección Civil.
+XVI. Tránsito y Movilidad.
 
 ### CAPÍTULO V. De los Comités
 
@@ -1978,3 +1978,15 @@ Cualquier referencia de otros ordenamientos legales a las unidades, áreas admin
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 21 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 298 POR EL QUE "SE REFORMA EL ARTÍCULO 75 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO. El correspondiente Decreto entrará en vigor el día cinco de septiembre del año 2021, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los asuntos relacionados con las cuentas públicas de los diversos entes fiscalizables que a la entrada en vigor del presente Decreto se encuentren en trámite, deberán ser turnados a la Comisión Ordinaria de Auditoría Gubernamental y Cuenta Pública, para los efectos legales a que haya lugar.
+
+CUARTO. Las referencias o remisiones que se hacen en diversas leyes o reglamentos a las comisiones ordinarias inspectoras de hacienda, primera, segunda y tercera, así como a las de Comunicaciones y Transportes, Tránsito y Vialidad u Ordenamiento Territorial y Obras Públicas, se entenderán en lo sucesivo realizadas a favor de las comisiones a que se refiere el presente Decreto.
