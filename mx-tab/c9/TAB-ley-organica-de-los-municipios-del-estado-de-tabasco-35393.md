@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2019-06-15"
+last_updated: "2021-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -553,7 +553,9 @@ LVI. Proporcionar a los integrantes de pueblos o comunidades indígenas que no h
 
 LVII. Convocar a consulta popular, bajo la modalidad de plebiscito o referéndum en los términos establecidos en la Constitución Política Local y las disposiciones aplicables;
 
-LVIII. (DEROGADA, P.O. 2 DE JULIO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2021)</small>
+
+LVIII. Designar a los delegados, subdelegados, jefes de sector y jefes de sección de conformidad con lo establecido por el artículo 103 de la presente Ley; y
 
 LIX. Las demás que la Constitución federal, la particular del Estado, la presente Ley y otras disposiciones jurídicas aplicables le señalen.
 
@@ -1211,7 +1213,13 @@ XVIII. Proponer al Cabildo la creación de las coordinaciones que sean necesaria
 
 XIX. Formular, proponer, conducir y evaluar programas de ordenamiento ecológico municipal y realizar las acciones necesarias dirigidas al cumplimiento de las disposiciones normativas en materia de protección al ambiente; y
 
-XX. Las demás que le concedan las leyes, reglamentos y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2021)</small>
+
+XX. Proponer a las personas que ocuparán los cargos de delegado, subdelegado, jefe de sector y jefe de sección municipales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2021)</small>
+
+XXI. Las demás que le concedan las leyes, reglamentos y otras disposiciones legales.
 
 ###### Artículo 66.
 
@@ -2247,7 +2255,9 @@ Las ciudades podrán ser divididas para su gobierno en Delegaciones y Subdelegac
 
 Los ayuntamientos harán la demarcación territorial interna a cada Municipio.
 
-### CAPÍTULO IV. Procedimiento para la Elección de Delegados, Subdelegados, Jefes de Sector y de Sección
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2021)</small>
+
+### CAPÍTULO IV. Designación de Delegados, Subdelegados, Jefes de Sector y Jefes de Sección
 
 ###### Artículo 102.
 
@@ -2263,57 +2273,41 @@ IV. No ser ministro o encargado de algún recinto de culto religioso;
 
 V. Tener vigente sus derechos políticos y no haber sido condenado por delito doloso que amerite pena corporal;
 
-VI. No ser propietario o administrador de establecimientos, donde se expendan licores o bebidas embriagantes en la comunidad donde pretenda ser electo;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+VI. No ser propietario o administrador de establecimientos, donde se expendan licores o bebidas embriagantes en la comunidad donde será designado;
 
 VII. (DEROGADA, P.O. 27 DE JULIO DE 2016)
 
-VIII. Las demás que se señalen en la convocatoria correspondiente.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
+VIII. Las demás que se señalen en otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2021)</small>
 
 ###### Artículo 103.
 
-La elección de los delegados y subdelegados se llevará a cabo mediante sufragio libre y secreto, durante los meses de marzo a mayo del año siguiente al del inicio del periodo constitucional.
+Los delegados, subdelegados, jefes de sector y jefes de sección, serán designados por la mayoría de los integrantes del Ayuntamiento a propuesta del presidente municipal, durante los meses de enero a marzo del año siguiente al del inicio del período constitucional. En caso de empate, el presidente municipal tendrá voto de calidad. Dicha designación deberá atender al principio de paridad de género.
 
-El Procedimiento para la elección de delegados y subdelegados será el siguiente:
-
-I. El Ayuntamiento, emitirá por lo menos treinta días antes de la fecha señalada para la elección, la convocatoria que fijará el procedimiento para el registro de los aspirantes a delegados y subdelegados municipales, así como el proceso de elección, misma que deberá ser publicada en cuando menos uno de los periódicos de mayor circulación en el Municipio de que se trate y difundida en los lugares públicos de la comunidad;
-
-II. Los aspirantes a delegados y subdelegados municipales, deberán registrar sus fórmulas, dentro del término concedido para ello, en la Secretaría del Ayuntamiento, adjuntando a su registro los documentos para acreditar los requisitos anteriores;
-
-III. El registro de las fórmulas se efectuará ante la Secretaría del Ayuntamiento, misma que verificará el cumplimiento de los requisitos que se exigen para la participación y hará del conocimiento del Cabildo lo que corresponda, para que dentro de los cinco días siguientes a la del vencimiento del plazo para el registro de candidatos, se emita el acuerdo por el que se admitan o desechen según el caso, el registro de las fórmulas;
-
-IV. Ninguna persona podrá registrarse como candidato a distintos cargos de elección municipal en el mismo proceso;
-
-V. En la celebración de las elecciones, sólo podrán votar los ciudadanos que presenten su credencial para votar con fotografía, en la que se acredite que su domicilio pertenece a la localidad donde se va a llevar a cabo la elección; en su caso, deberán respetarse los usos y costumbres de la comunidad;
-
-VI. El Ayuntamiento instalará mesas receptoras de votos, integradas por cuando menos dos representantes del Ayuntamiento designadas al efecto y un representante por cada una de las fórmulas, éstos deberán elaborar una lista de las personas que acudan a emitir su voto, las cuales podrán firmar si así lo desean;
-
-VII. Una vez concluido el proceso de cómputo de votos, previa acta circunstanciada que firmarán los responsables de la mesa receptora y los representantes de las fórmulas; se fijarán los resultados correspondientes, el Ayuntamiento ordenará su publicación dentro de los cinco días siguientes y otorgará el nombramiento a los candidatos de la fórmula ganadora.
-
-Si alguno de los representantes de las fórmulas se niega a firmar, no será causa de nulidad de la elección; y
-
-VIII. Las resoluciones por las que se declare válida una elección y se otorgue la constancia a los electos serán definitivas.
-
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
-
-Los actos y resoluciones derivados del proceso de elección de delegados y subdelegados podrán ser impugnados en términos del artículo 63 bis, párrafo tercero, fracciones III y V de la Constitución Política Local y de las leyes de la materia.
-
-Los jefes de sector y de sección serán designados directamente por el Ayuntamiento, a propuesta del presidente municipal o podrán ser electos, conforme a las disposiciones anteriores.
+El Ayuntamiento determinará las acciones necesarias para el cumplimiento de lo establecido en el párrafo anterior; y en su caso, el procedimiento para la remoción de delegados, subdelegados, jefes de sector y jefes de sección, en el reglamento que para tal efecto expida.
 
 ###### Artículo 104.
 
-Cuando por alguna causa la elección no pueda llevarse a cabo en la fecha prevista, se declare nula o los integrantes de la fórmula triunfadora, propietarios y suplentes, no acepten el cargo, el Ayuntamiento, siguiendo en lo conducente el procedimiento señalado en el artículo anterior, dentro de los veinte días siguientes a la fecha en que deberían entrar en funciones, convocará a otra elección y de darse nuevamente alguno de los supuestos mencionados, el Ayuntamiento designará directamente al delegado o al subdelegado de que se trate.
+(DEROGADO, P.O. 21 DE JULIO DE 2021)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2021)</small>
 
 ###### Artículo 105.
 
-Las autoridades que resulten electas entrarán en funciones dentro de los ocho días siguientes a la comunicación del resultado. El presidente municipal tomará la protesta de ley y dará posesión a los delegados, subdelegados, jefes de sector y de sección.
+Las autoridades designadas entrarán en funciones dentro de los ocho días siguientes a la comunicación del resultado. El presidente municipal tomará la protesta de ley y dará posesión a los delegados, subdelegados, jefes de sector y jefes de sección.
 
-Los delegados, subdelegados, jefes de sector y sección durarán en su cargo tres años, pudiendo ser removidos por el Ayuntamiento en cualquier tiempo por causa justificada, que calificará este mismo órgano, llamándose en ese caso a los suplentes y si éstos no se presentaren, el Ayuntamiento designará al substituto, de entre los vecinos de la demarcación respectiva.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2016)</small>
+Los delegados, subdelegados, jefes de sector y jefes de sección durarán en su cargo tres años, pudiendo ser removidos por el Ayuntamiento en cualquier tiempo por causa justificada, que calificará este mismo órgano, en este caso, el Ayuntamiento designará al substituto, de entre los vecinos de la demarcación respectiva.
 
-Los delegados y subdelegados, podrán ser reelectos para el periodo inmediato por una sola ocasión. Para tales efectos, podrán participar como aspirantes en el proceso de elección siguiente a su encargo; tiempo durante el cual deberán permanecer temporalmente separados del cargo previa licencia del cabildo
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2021)</small>
+
+Los delegados y subdelegados, jefes de sector y jefes de sección, podrán ser designados nuevamente para el período inmediato por una sola ocasión.
 
 Las autoridades salientes deberán entregar las instalaciones de la delegación o área de que se trate, mediante un acta pormenorizada de activos y bienes, así como una relación de documentos y correspondencia que obren en su poder.
 
@@ -4010,3 +4004,13 @@ SEGUNDO.- Los síndicos de hacienda y demás regidores electos por los principio
 TERCERO.- Para los efectos del proceso electoral 2021-2024, las planillas de regidores se ajustarán a lo establecido en el presente Decreto.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 299 POR EL QUE “SE REFORMAN LA FRACCIÓN LVIII DEL ARTÍCULO 29; LA FRACCIÓN XX DEL ARTÍCULO 65; LA DENOMINACIÓN DEL CAPÍTULO IV PROCEDIMIENTO PARA LA ELECCIÓN DE DELEGADOS, SUBDELEGADOS, JEFES DE SECTOR Y DE SECCIÓN, DEL TÍTULO QUINTO DE LOS DELEGADOS, SUBDELEGADOS, JEFES DE SECTOR Y JEFES DE SECCIÓN PARA TITULARSE DESIGNACIÓN DE DELEGADOS, SUBDELEGADOS, JEFES DE SECTOR Y JEFES DE SECCIÓN; LAS FRACCIONES VI Y VIII DEL ARTÍCULO 102; EL ARTÍCULO 103; Y EL ARTÍCULO 105; SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 65; Y SE DEROGA EL ARTÍCULO 104; TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO”.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+TERCERO. Los delegados, subdelegados, jefes de sector y jefes de sección que fueron electos para el período 2019-2022, concluirán sus cargos conforme al período para el cual fueron electos, y una vez concluidos entrarán en funciones los delegados y subdelegados designados conforme al artículo 103 que se reforma mediante el presente Decreto.
