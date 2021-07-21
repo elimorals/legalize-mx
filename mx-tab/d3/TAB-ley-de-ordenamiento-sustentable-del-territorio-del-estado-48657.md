@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-ordenamiento-sustentable-del-territorio-del-estado-48657
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-28"
-last_updated: "2017-07-05"
+last_updated: "2021-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE ORDENAMIENTO SUSTENTABLE DEL TERRITORIO DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 21 DE JULIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ORDENAMIENTO SUSTENTABLE DEL TERRITORIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2021 (ABROGADO).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 28 de diciembre de 2005.
 
@@ -3692,3 +3694,55 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 21 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ordenamiento Sustentable del Territorio del Estado de Tabasco, publicada en el suplemento Z del Periódico Oficial del Estado, número 6606, de fecha 28 de diciembre de 2005, con excepción de lo dispuesto en el Capítulo XXIV, denominado Contribución Especial para Predios Urbanos Baldíos, el cual estará vigente hasta el 31 de diciembre de 2021.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo Estatal emitirá en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Reglamento de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+En tanto no se expidan los reglamentos, acuerdos y demás disposiciones administrativas correspondientes, continuarán aplicándose, en lo que no se oponga a esta Ley, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Las autoridades municipales deberán armonizar sus normativas con base en las disposiciones establecidas en esta Ley, en un plazo no mayor a ciento ochenta días hábiles.
+
+###### ARTICULO SÉPTIMO.
+
+Dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor de la presente Ley, se deberán instalar los órganos auxiliares a que se refiere esta Ley.
+
+###### ARTICULO OCTAVO.
+
+Los procedimientos y recursos administrativos iniciados con la Ley que se abroga, se tramitarán y resolverán conforme a las disposiciones vigentes al momento de su presentación.
+
+###### ARTICULO NOVENO.
+
+En un plazo no mayor de un año contado a partir de la entrada en vigor de este Decreto, se formularán, o adecuarán el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano; los Programas Regionales de Ordenamiento Territorial y Desarrollo Urbano; y los Programas Municipales de Desarrollo Urbano, y en su caso los demás programas materia de la presente Ley.
+
+###### ARTICULO DÉCIMO.
+
+Los trámites de regularización territorial que se hayan iniciado con anterioridad a la entrada en vigor de la presente Ley, se substanciarán hasta su conclusión conforme a la Ley que por virtud del presente Decreto se abroga.
+
+###### ARTICULO DÉCIMO PRIMERO.
+
+Las referencias que se hagan en otros ordenamientos jurídicos al Dictamen para la Convivencia y Forma de Penetración en el Territorio, se entenderán hechas al Dictamen de Congruencia y Entrada al Territorio Estatal que se menciona en la presente Ley.
+
+###### ARTICULO DÉCIMO SEGUNDO.
+
+En lo que se emite el Reglamento de la presente Ley, la Secretaría publicará en su página web oficial los requisitos para la tramitación del Dictamen de Congruencia y Entrada al Territorio Estatal, que se menciona en el Título Décimo Cuarto de esta Ley.
