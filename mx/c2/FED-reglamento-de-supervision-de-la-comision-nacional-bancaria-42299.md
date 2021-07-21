@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-supervision-de-la-comision-nacional-bancaria-4229
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-18"
-last_updated: "2012-04-23"
+last_updated: "2021-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42299&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-01-14"
 
 REGLAMENTO DE SUPERVISIÓN DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2021.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 18 de enero de 2005.
 
@@ -219,7 +219,9 @@ III. Nombre de la Entidad Supervisada o Persona y del Representante Legal o Apod
 
 IV. Tipo de visita a realizarse, así como el objeto de la misma;
 
-V. La fecha en la cual se iniciará la visita;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2021)</small>
+
+V. La fecha en la cual se iniciará la visita, así como la duración de esta. Dichas visitas no podrán tener una duración superior a seis meses, prorrogables por una única vez por un período igual, siempre que existan causas justificadas que lo motiven;
 
 VI. El lugar o lugares donde se efectuará la visita;
 
@@ -1161,9 +1163,19 @@ Si se impidiere materialmente la ejecución del acto de clausura y siempre que e
 
 Cuando las leyes prevean la clausura de sucursales de Entidades Supervisadas, la Comisión se sujetará al procedimiento establecido en dichas leyes y, en caso de que aquéllas no contemplen un procedimiento específico para llevar a cabo la clausura, se estará a las disposiciones de este Título.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2021)</small>
+
 ###### Artículo 108.
 
-La (sic) notificaciones de los actos administrativos y demás resoluciones emitidas por la Comisión en el ejercicio de sus funciones, se llevarán a cabo de conformidad con las disposiciones legales que al efecto resulten aplicables para cada Entidad Supervisada o Persona.
+Las notificaciones de los actos administrativos y demás resoluciones previstas en el presente ordenamiento que emita la Comisión en el ejercicio de sus funciones, se llevarán a cabo de conformidad con las disposiciones legales que al efecto resulten aplicables para cada Entidad Supervisada o Persona, y con las establecidas en este Reglamento. Dichas notificaciones podrán hacerse a la Entidad Supervisada o Persona por medios electrónicos cuando estas o su representante así lo hayan aceptado o solicitado expresamente por escrito a la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2021)</small>
+
+###### Artículo 109.
+
+La Comisión determinará los medios electrónicos a través de los cuales podrá notificar a las Entidades Supervisadas y Personas, los actos administrativos que emita en el ejercicio de sus facultades de supervisión. Los medios electrónicos que determine la Comisión también podrán ser utilizados por las Entidades Supervisadas o Personas para enviar a la Comisión las comunicaciones que requieran hacer a esta última durante el proceso de supervisión.
+
+Lo previsto en el párrafo anterior se realizará en términos de la regulación que para dicho efecto emita la Comisión, la cual deberá publicarse en el Diario Oficial de la Federación.
 
 ## TRANSITORIOS
 
@@ -1182,3 +1194,11 @@ Dado en la residencia oficial del Poder Ejecutivo Federal, en la Ciudad de Méxi
 D.O.F. 23 DE ABRIL DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE SUPERVISIÓN DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los procedimientos administrativos iniciados por la Comisión Nacional Bancaria y de Valores con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
