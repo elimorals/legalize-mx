@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-congreso-de-estado-de-tabasco-115801"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-23"
-last_updated: "2018-09-01"
+last_updated: "2021-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2021.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 23 de julio de 2016.
 
@@ -613,7 +613,7 @@ Cuando en un asunto se precise que alguna Comisión deba presentar una opinión 
 
 En todo caso, en el dictamen que se apruebe se deberá hacer mención de la opinión rendida y del sentido de la misma, razonando su procedencia o no.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2021)</small>
 
 ###### Artículo 58.
 
@@ -621,15 +621,47 @@ Las comisiones tendrán las facultades y obligaciones de carácter común que es
 
 De manera específica las Comisiones Ordinarias, tendrán las facultades y obligaciones siguientes:
 
-I. Bienestar Social, Asuntos Indígenas, Atención a Grupos Vulnerables, Adultos Mayores y Personas con Discapacidades:
+I. Asentamientos Humanos, Ordenamiento Territorial, Desarrollo Urbano y Obras Públicas:
 
-a) Opinar o dictaminar respecto a las iniciativas y propuestas de modificaciones a las leyes que incidan de manera directa en los planes, programas y políticas públicas en materias de desarrollo social; pueblos, comunidades y habitantes indígenas; y atención a grupos vulnerables, personas con características especiales y adultos en plenitud;
+a) Dictaminar todo lo concerniente sobre las leyes, decretos y demás asuntos, relacionados con las obras públicas, ordenamiento territorial, desarrollo urbano, viviendas, y asentamientos humanos en el Estado;
 
-b) Analizar y evaluar las políticas y programas de desarrollo social en el estado y los municipios, para determinar la operatividad y actualización de la legislación y demás normatividad estatal o federal aplicable en la materia, considerando la participación de las diferentes dependencias y entidades de la Administración Pública Estatal y en su caso de los Gobiernos Municipales;
+b) Conocer y dictaminar sobre constitución y ampliación de fundos legales; así como de las solicitudes de enajenación o gravamen de predios urbanos, suburbanos o rústicos propiedad del Estado y de las acciones tendentes a la regularización de la tenencia de la tierra urbana o enajenación de terrenos del fundo legal;
 
-c) Promover, foros, encuentros y debates con instancias de los sectores público, social y privado, sobre los instrumentos legislativos en materia de desarrollo social, con objeto de permitir a las instancias administrativas gubernamentales brindar mejores servicios a la población en esos rubros y ampliar su cobertura;
+c) Dictaminar en todo lo relacionado a los fundos de ciudades, villas y poblados, así como la creación de centros de población en cualesquiera de las categorías establecidas por la Ley Orgánica de los Municipios del Estado;
 
-d) Formular análisis y recomendaciones respecto de los programas federales, estatales y municipales de desarrollo social, buscando el beneficio de los sectores sociales más desprotegidos en las zonas rurales y urbanas, en especial para las personas discapacitadas, con el propósito de elevar el nivel de vida de la población;
+d) Conocer y dictaminar sobre las políticas y acciones inmobiliarias, construcción, reconstrucción y conservación de edificios públicos, monumentos, obras de ornato y las demás que realicen el Estado, los municipios o los particulares;
+
+e) Conocer y dictaminar sobre los asuntos referentes a convenios sobre desarrollo urbano que celebre el Ejecutivo con las demás entidades federativas y con la Federación;
+
+f) Conocer y dictaminar todo lo relacionado con planes de urbanización estatales, regionales y municipales; y
+
+g) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+
+II. AUDITORÍA GUBERNAMENTAL Y CUENTA PÚBLICA:
+
+a) Examinar y dictaminar, con base en los informes técnicos y financieros y demás soportes documentales que rinda el Órgano Superior de Fiscalización del Estado, sobre las cuentas públicas de los poderes del Estado, de los municipios de Balancán, Cárdenas, Centla, Centro, Comalcalco, Cunduacán, Emiliano Zapata, Huimanguillo, Jalapa, Jalpa de Méndez, Jonuta, Macuspana, Nacajuca, Paraíso, Tacotalpa, Teapa y Tenosique, así como de los órganos constitucionales autónomos;
+
+b) Vigilar que las cuentas públicas, queden concluidas y glosadas, así como, entregados los informes técnicos, financieros y los demás soportes documentales suficientes que, en términos de ley, presente el Órgano Superior de Fiscalización del Estado al Congreso;
+
+c) Ordenar al Órgano Superior de Fiscalización del Estado, cuando lo estime conveniente, practicar visitas, inspecciones y auditorías a los entes fiscalizables, relacionadas con la cuenta pública, en respeto de su autonomía de ejercicio y gestión;
+
+d) En el ámbito de su competencia, vigilar al Órgano Superior de Fiscalización del Estado, proponiendo los medios pertinentes para su eficaz funcionamiento; así como, ordenar las auditorías que considere necesarias, por conducto de la Dirección de Control y Evaluación, para verificar el desempeño, cumplimiento de objetivos, metas de los programas anuales del Órgano y la debida aplicación de los recursos;
+
+e) Conocer y dictaminar, cuando el Órgano Superior de Fiscalización, al realizar las evaluaciones señaladas en los tres últimos párrafos del artículo 41, de la Constitución local, detecte irregularidades y las haga del conocimiento del Congreso;
+
+f) Solicitar al Órgano Superior de Fiscalización del Estado, la depuración de los documentos de la cuenta pública, así como de los papeles de trabajo e informes resultantes de su revisión, glosa y auditoría con antigüedad de más de seis años; que en su caso proceda, en términos de las disposiciones aplicables; y
+
+g) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+
+III. Bienestar Social, Asuntos Indígenas, Atención a Grupos Vulnerables, Adultos Mayores y Personas con Discapacidades:
+
+a) Opinar o dictaminar respecto a las iniciativas y propuestas de modificaciones a las leyes que incidan de manera directa en los planes, programas y políticas públicas en materias de desarrollo social; pueblos, comunidades y habitantes indígenas; y atención a grupos vulnerables, personas con características especialesy (sic) adultos en plenitud;
+
+b) Analizar y evaluar las políticas y programas de desarrollo social en el estado y los municipios, para determinar la operatividad y actualización de la legislación y demás normatividad estatal o federal aplicable en la materia, considerando la participación de las diferentes dependencias y entidades de la administración pública estatal y en su caso de los Gobiernos municipales;
+
+c) Promover foros, encuentros y debates con instancias de los sectores público, social y privado, sobre los instrumentos legislativos en materia de desarrollo social,con (sic) objeto de permitir a las instancias administrativas gubernamentales brindar mejores servicios a la población en esos rubros y ampliar su cobertura;
+
+d) Formular análisis y recomendaciones respecto de los programas federales, estatales y municipales de desarrollo social, buscando el beneficio de los sectores sociales más desprotegidos en las zonas rurales y urbanas, en especial para las personas con discapacidad, con el propósito de elevar el nivel de vida de la población;
 
 e) Coadyuvar en la solución de los problemas que enfrenten las comunidades indígenas, derivados de la interacción de entes públicos de los diferentes órdenes de gobierno o de particulares, con motivo de la realización de obras o programas que incidan o puedan afectar su entorno o sus derechos;
 
@@ -641,33 +673,21 @@ h) Coadyuvar en la vigilancia de la aplicación del artículo 27 de la Constituc
 
 i) Impulsar mecanismos de difusión e información que permitan concientizar a la población acerca del marco jurídico estatal que rige los derechos y obligaciones de grupos vulnerables, personas con características especiales y adultos en plenitud, así como sus avances, alcances y resultados;
 
-j) Coadyuvar con las diferentes instituciones y entes públicos de los diferentes órdenes de gobiernos, que atiendan o cumplan responsabilidades respecto de los grupos vulnerables;
+j) Coadyuvar con las diferentes instituciones y entes públicos de los diferentes órdenes de gobierno, que atiendan o cumplan responsabilidades respecto de los grupos vulnerables;
 
-k) Dar seguimiento y opinar respecto de las políticas públicas que conforme a los planes y programas estatales y municipales de desarrollo, se implementen para mejorar las condiciones de los grupos vulnerables y los individuos que los integran;
+k) Dar seguimiento y opinar respecto de las políticas públicas que conforme a los planes y programas estatales y municipales de desarrollo, se implementen para mejorar las condiciones de los grupos vulnerables y los individuos que los integran; y
 
 l) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-II. Comunicaciones y Transportes, Tránsito y Vialidad:
-
-a) Dictaminar u opinar respecto de las iniciativas de leyes y decretos o propuestas relacionados con el sector de comunicaciones y transportes, que sean de la competencia estatal;
-
-b) Analizar y proponer soluciones legislativas o reglamentarias, a las disposiciones de tránsito y vialidad, relacionadas con el control y el orden de la circulación vehicular y peatonal en las vías públicas del Estado y de los Municipios;
-
-c) Investigar y proponer soluciones sobre los asuntos relacionados con las vías de comunicaciones y transportes; así como con los medios y sistemas de comunicación, sus concesiones y funcionamiento;
-
-d) Mantener estrecha relación con todos los organismos de esta materia, para que en forma coordinada se logren la prestación de mejores servicios; y
-
-e) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
-
-III. Derechos Humanos, Igualdad de Género y Asuntos de la Frontera Sur:
+IV. Derechos Humanos, Igualdad de Género y Asuntos de la Frontera Sur:
 
 a) Conocer, estudiar y dictaminar en todo lo relacionado con las reformas, adiciones y derogaciones a las leyes relativas a los derechos humanos, igualdad de género y asuntos de la frontera sur;
 
-b) Expedir la Convocatoria para la designación del Presidente y del Consejo Consultivo de la Comisión Estatal de Derechos Humanos;
+b) Expedir la Convocatoria para la designación del presidente y del Consejo Consultivo de la Comisión Estatal de Derechos Humanos;
 
-c) Conocer y dictaminar, en unión de la Comisión de Gobernación y Puntos Constitucionales, sobre la licencia, renuncia o falta absoluta del Presidente de la Comisión Estatal de Derechos Humanos,
+c) Conocer y dictaminar, en unión de la Comisión de Gobernación y Puntos Constitucionales, sobre la licencia, renuncia o falta absoluta del presidente de la Comisión Estatal de Derechos Humanos;
 
-d) Conocer y dictaminar, en unión de la Comisión de Justicia y Gran Jurado, sobre las propuestas de designación del Presidente de la Comisión Estatal de Derechos Humanos y de su Consejo Consultivo;
+d) Conocer y dictaminar, en unión de la Comisión de Justicia y Gran Jurado, sobre las propuestas de designación del presidente de la Comisión Estatal de Derechos Humanos y de su Consejo Consultivo;
 
 e) Promover el estudio, enseñanza, divulgación y respeto a los derechos humanos, y mantener estrecha relación con la Comisión Estatal de Derechos Humanos, para que, en su caso, conjunta o separadamente lleven a cabo actividades que beneficien y garanticen el respeto a los derechos humanos;
 
@@ -691,7 +711,7 @@ n) Promover acciones para hacer efectivos los derechos humanos de los migrantes 
 
 ñ) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-IV. Desarrollo Agropecuario, Forestal y Pesquero:
+V. Desarrollo Agropecuario, Forestal y Pesquero:
 
 a) Conocer y dictaminar de las iniciativas y proposiciones legislativas y parlamentarias relacionadas con el sector agropecuario, forestal y pesquero;
 
@@ -705,11 +725,23 @@ e) Promover y realizar todas las gestiones necesarias para el desarrollo de indu
 
 f) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-V. Educación, Ciencia y Tecnología, Cultura, Infancia, Juventud y Deporte:
+VI. Desarrollo Metropolitano y Zonas Conurbadas
 
-a) Dictaminar en lo relativo a las reformas y adiciones de las leyes de Educación, de Profesiones, de instituciones educativas, así como las relacionadas con la cultura, ciencia y tecnología, infancia, juventud y deporte; y en general, de aquellas que tiendan a la regulación de las mismas, en el ámbito de competencia estatal y municipal;
+a) Conocer y dictaminar las leyes, proposiciones y demás asuntos relacionados con la materia de desarrollo metropolitano, conurbación e infraestructura relacionada;
 
-b) Estudiar y dictaminar en todo lo referente a educación, cultura, servicios educativos, ciencia y tecnología, vigilando el correcto cumplimiento de lo dispuesto en los artículos 2°, Apartado B, fracción II, y 3° de la Constitución General de la República, y de las disposiciones de las leyes federal y local en la materia con el fin de desarrollar y acrecentar el nivel educativo del pueblo;
+b) Coordinar el estudio, revisión y adecuación del marco legislativo vigente en los temas vinculados al desarrollo metropolitano o zonas conurbadas y realizar las propuestas correspondientes, con el fin de que se pueda establecer una adecuada coordinación entre el Gobierno del Estado y los municipios que correspondan, así como con los de otras entidades federativas, para la ejecución de políticas públicas en la materia;
+
+c) Conocer de los planes, programas, acuerdos y evaluación de las políticas públicas y, en su caso, proponer los mecanismos para la suma de esfuerzos a fin de generar condiciones que permitan el desarrollo de las zonas metropolitanas o conurbadas;
+
+d) Participar con las autoridades del Poder Ejecutivo del Estado y de los municipios, en las acciones que promuevan el desarrollo de zonas metropolitanas o conurbadas; y
+
+e) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+
+VII. Educación, Ciencia y Tecnología, Cultura, Infancia, Juventud y Deporte:
+
+a) Dictaminar en lo relativo a las reformas y adiciones de las leyes de educación, de profesiones, de instituciones educativas, así como las relacionadas con la cultura, ciencia y tecnología, infancia, juventud y deporte; y en general, de aquellas que tiendan a la regulación de las mismas, en el ámbito de competencia estatal y municipal;
+
+b) Estudiar y dictaminar en todo lo referente a educación, cultura, servicios educativos, ciencia y tecnología, vigilando el correcto cumplimiento de lo dispuestoen (sic) los artículos 2°, Apartado B, fracción II, y 3° de la Constitución General de la República, y de las disposiciones de las leyes federal y local en la materia con el fin de desarrollar y acrecentar el nivel educativo del pueblo;
 
 c) Promover ante las instancias correspondientes la creación de instalaciones educativas, y culturales suficientes y adecuadas; así como programas de vivienda digna para los maestros, a fin de procurar su permanencia en las comunidades;
 
@@ -729,7 +761,7 @@ j) Estudiar y dictaminar en todo lo referente a recreación y deporte; y
 
 k) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-VI. Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico:
+VIII. Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico:
 
 a) Analizar y dictaminar sobre el fomento, regulación y promoción del desarrollo de la industria pequeña, mediana y rural, así como auspiciar la organización de productores industriales y la investigación técnico industrial;
 
@@ -737,25 +769,25 @@ b) Examinar e impulsar el desarrollo integral del Estado, teniendo como objetivo
 
 c) Promover y realizar todas las gestiones necesarias para incrementar el turismo, coadyuvando para ello con los organismos del ramo;
 
-d) Conocer de los asuntos que se refieran a la normatividad y a los planes y programas para impulsar, ampliar y descentralizar la actividad artesanal a los Municipios de la entidad, o a las diversas regiones en que se divida el Estado; así como lo relativo a las reformas o adiciones a las normas sobre artesanías, que sean competencia de la entidad;
+d) Conocer de los asuntos que se refieran a la normatividad y a los planes y programas para impulsar, ampliar y descentralizar la actividad artesanal a los municipios de la entidad, o a las diversas regiones en que se divida el Estado; así como lo relativo a las reformas o adiciones a las normas sobre artesanías, que sean competencia de la entidad;
 
 e) Conocer de los asuntos y acciones referentes al comercio interior y en su caso exterior, abasto, precios, distribución y consumo de los bienes y servicios;
 
 f) Coadyuvar al desarrollo del pequeño comercio rural, urbano y artesanal, así como de los productores en general;
 
-g) Conocer y dictaminar las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos del estado, así como el desarrollo regional del mismo;
+g) Conocer y dictaminar las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos del Estado, así como el desarrollo regional del mismo;
 
 h) Promover y realizar todas las gestiones necesarias para el desarrollo de las nuevas industrias agropecuarias;
 
-i) Analizar y dictaminar lo relativo a la creación de organismos que auxilien a la administración pública municipal o estatal, en el fomento y comercialización de las artesanías que se producen en el Estado y del estudio de todos aquellos proyectos y obras que puedan beneficiar a los artesanos de la entidad; y
+i) Analizar y dictaminar lo relativo a la creación de organismos que auxilien a la administración pública municipal o estatal, en el fomento y comercialización de las artesanías que se producen en el Estado y del estudio de todos aquellos proyectosy (sic) obras que puedan beneficiar a los artesanos de la entidad; y
 
 j) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-VII. Fortalecimiento Municipal y Trabajo:
+IX. Fortalecimiento Municipal y Trabajo:
 
 a) Revisar el marco constitucional y legal que garantice el fortalecimiento equilibrado ajustando su actuación al marco jurídico que impone la Constitución General de la República, la particular del Estado y la Ley Orgánica de los Municipios del Estado y demás legislación aplicable;
 
-b) Conocer y dictaminar todas las iniciativas que incidan en la vida de los municipios, y propuestas de modificación a la Ley de tos Trabajadores al Servicio del Estado y las que contemplen disposiciones relativas a la previsión social;
+b) Conocer y dictaminar todas las iniciativas que incidan en la vida de los municipios, y propuestas de modificación a la Ley de los Trabajadores al Servicio del Estado y las que contemplen disposiciones relativas a la previsión social;
 
 c) Promover la consulta popular para la elaboración de los planes municipales de desarrollo;
 
@@ -763,7 +795,7 @@ d) Vigilar que los ayuntamientos den cabal cumplimiento como órgano colegiado a
 
 e) Coadyuvar para consolidar un nuevo régimen hacendario que contribuya al desarrollo municipal;
 
-f) Recopilar los programas operativos anuales, municipales, así como los diversos convenios celebrados entre los municipios entre sí y con las instancias federal y estatal. Dichos programas y convenios, estarán a disposición de todos los diputados;
+f) Recopilar los programas operativos anuales, municipales, así como los diversos convenios celebrados entre los municipios entre sí y con las instancias federal y estatal. Dichos programas y convenios estarán a disposición de todos los diputados;
 
 g) De todos los asuntos referentes a las relaciones obrero-patronales, y mejoramiento de las clases trabajadoras;
 
@@ -771,13 +803,13 @@ h) Promoverá el equilibrio entre los factores de la producción, de conformidad
 
 i) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-VIII. Gobernación y Puntos Constitucionales, conocerá y dictaminará de:
+X. Gobernación y Puntos Constitucionales, conocerá y dictaminará de:
 
-a) La intermediación y promoción de la solución negociada de los conflictos políticos que surjan entre los Municipios y el Estado, y de aquellos que se relacionen con los límites y la división territorial de los Municipios;
+a) La intermediación y promoción de la solución negociada de los conflictos políticos que surjan entre los municipios y el Estado, y de aquellos que se relacionen con los límites y la división territorial de los municipios;
 
-b) De las licencias, renuncias o faltas absolutas del Gobernador, diputados, magistrados del Tribunal Superior de Justicia, y del Tribunal de lo Contencioso Administrativo, Ayuntamientos o Concejos Municipales y del Presidente de la Comisión Estatal de Derechos Humanos, las cuales se asentarán en el correspondiente libro de registro;
+b) De las licencias, renuncias o faltas absolutas del Gobernador, diputados, magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, ayuntamientos o concejos municipales y del presidente de la Comisión Estatal de Derechos Humanos, las cuales se asentarán en el correspondiente libro de registro;
 
-c) Lo relativo a los cambios de residencia de los Poderes Ejecutivo, Legislativo y Judicial, así como de los Ayuntamientos y Concejos Municipales;
+c) Lo relativo a los cambios de residencia de los Poderes Ejecutivo, Legislativo y Judicial, así como de los ayuntamientos y concejos municipales;
 
 d) De la solicitud para conceder al Ejecutivo, por tiempo limitado, las facultades extraordinarias que necesite en casos de invasión, alteración del orden o peligro público;
 
@@ -791,9 +823,9 @@ h) De la expedición, reformas, adición, derogación y abrogación de las disti
 
 i) De las iniciativas de creación, reforma, adición y derogación de leyes o decretos, no reservados expresamente a otra Comisión;
 
-j) Conocer junto con la Comisión Instructora de la Cámara, Justicia y Gran Jurado, y Reglamento y Prácticas Parlamentarias de la designación de los Magistrados del Tribunal de lo Contencioso Administrativo;
+j) Conocer junto con la Comisión Instructora de la Cámara, Justicia y Gran Jurado, y Reglamento y Prácticas Parlamentarias de la designación de los Magistrados del Tribunal de Justicia Administrativa;
 
-k) La designación del ciudadano que en términos de ley, deba suplir al gobernador en sus faltas temporales o absolutas;
+k) La designación del ciudadano que, en términos de ley, deba suplir al Gobernador en sus faltas temporales o absolutas;
 
 l) De los asuntos relativos a la creación y supresión de municipios;
 
@@ -801,7 +833,7 @@ m) De las iniciativas de creación, reformas, adiciones, derogaciones y abrogaci
 
 n) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-IX. Hacienda y Finanzas, conocerá y dictaminará de:
+XI. Hacienda y Finanzas, conocerá y dictaminará de:
 
 a) Las iniciativas de ley de ingresos y de las propuestas de presupuestos de egresos del Estado y de los municipios, así como de todo lo relacionado al patrimonio de los mismos;
 
@@ -813,7 +845,7 @@ d) Las peticiones para enajenar bienes muebles propiedad del Estado;
 
 e) La creación de impuestos extraordinarios o especiales, estatales o municipales;
 
-f) La aplicación del gasto público y partidas presupuestales, de acuerdo a lo establecido por el artículo 36, fracción XXXI, de la Constitución Política del Estado;
+f) La aplicación del gasto público y partidas presupuestales, de acuerdo a lo establecido por el artículo 36, fracción XXXI, de la Constitución Política del Estado Libre y Soberano de Tabasco;
 
 g) En unión con la Comisión de Gobernación y Puntos Constitucionales, sobre la creación o supresión de empleos públicos;
 
@@ -821,55 +853,23 @@ h) Recopilar los programas operativos anuales del Estado, así como los diversos
 
 i) Sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-X. Inspectora de Hacienda, Primera:
+XII. Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias:
 
-a) Examinar y dictaminar, con fundamento en los informes técnicos y financieros y demás soportes documentales que rinda el Órgano Superior de Fiscalización del Estado, sobre las cuentas públicas de los poderes del Estado y de los órganos constitucionales autónomos;
+a) Conocer y dictaminar de las denuncias, querellas, requerimientos del ministerio público o acusaciones que le turne el Congreso o la Comisión de Gobernación y Puntos Constitucionales, en los casos que ameriten la incoación de procedimientos en materia de juicio político o de declaración de procedencia, en los términos de la Constitución Política del Estado Libre y Soberano de Tabasco, la Ley de Responsabilidad Administrativa de los Servidores Públicos, Reglamentaria del Artículo 68, del Título VII, de la Constitución Política del Estado Libre y Soberano de Tabasco y demás disposiciones aplicables;
 
-b) Vigilar que las cuentas públicas de los tres poderes del Estado, queden concluidas y glosadas, así como, entregados los informes técnicos, financieros y los demás soportes documentales suficientes que en términos de ley, presente el Órgano Superior de Fiscalización del Estado al Congreso;
+b) Conocer y dictaminar sobre las propuestas de designación de Magistrados del Tribunal Superior de Justicia, del Tribunal de Conciliación y Arbitraje del Estado y del presidente de la Comisión Estatal de los Derechos Humanos; en este último de manera unida con la Comisión de Derechos Humanos, Igualdad de Género y Asuntos de la Frontera Sur;
 
-c) Ordenar al Órgano Superior de Fiscalización del Estado, cuando lo estime conveniente, practicar visitas, inspecciones y auditorías a los tres poderes del Estado, relacionadas con la cuenta pública, en respeto de su autonomía de ejercicio y gestión;
+c) Conocer y dictaminar sobre las denuncias o querellas a que hace alusión la Ley de Responsabilidad Administrativa de los Servidores Públicos, Reglamentaria del Artículo 68, del Título VII, de la Constitución Política del Estado Libre y Soberano de Tabasco y demás disposiciones aplicables;
 
-d) En el ámbito de su competencia, vigilar al Órgano Superior de Fiscalización del Estado, proponiendo los medios pertinentes para su eficaz funcionamiento; así como, ordenar las auditorias que considere necesarias, por Conducto de la Dirección de Control y Evaluación, para verificar el desempeño, cumplimiento de objetivos, metas de los programas anuales del Órgano y la debida aplicación de los recursos;
-
-e) Conocer y dictaminar, cuando el Órgano Superior de Fiscalización, al realizar las evaluaciones señaladas en los tres últimos párrafos del artículo 41, de la Constitución local, correspondiente a los tres poderes del Estado, detecte irregularidades y las haga del conocimiento del Congreso;
-
-f) Ordenar al Órgano Superior de Fiscalización del Estado, en los que respecta a los tres poderes del Estado y órganos constitucionales autónomos, la depuración de los documentos de la cuenta pública, así como de los papeles de trabajo e informes resultantes de su revisión, glosa y auditoría con antigüedad de más de seis años; determinando los que deben destruirse o conservarse; y
-
-g) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
-
-XI. Inspectora de Hacienda, Segunda:
-
-a) Además de tas atribuciones señaladas para la Inspectora Primera de Hacienda pero aplicándolas en su competencia y jurisdicción, deberá vigilar que las cuentas públicas de los municipios de Balancán, Centla, Emiliano Zapata, Jalapa, Jonuta, Macuspana, Tacotalpa, Teapa y Tenosique, del Estado de Tabasco, queden concluidas y glosadas, así como, entregados los informes técnicos, financieros y los demás soportes documentales suficientes que en términos de ley, presente el órgano técnico al Congreso a más tardar el primero de agosto del año siguiente de que se trate;
-
-b) Examinar y dictaminar, con fundamento en los informes técnicos y financieros y demás soportes documentales que rinda él Órgano Superior de Fiscalización, sobre las cuentas públicas de los municipios señalados en el inciso anterior; y
-
-c) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
-
-XII. Inspectora de Hacienda, Tercera:
-
-a) Además de las atribuciones señaladas para la Inspectora Primera de Hacienda pero aplicándolas en su competencia y jurisdicción, deberá vigilar que las cuentas públicas de los municipios de Cárdenas, Centro, Comalcalco, Cunduacán, Huimanguillo, Jalpa de Méndez, Nacajuca y Paraíso, del Estado de Tabasco queden concluidas y glosadas, así como, entregados los informes técnicos, financieros y los demás soportes documentales suficientes que en términos de ley, presente el órgano técnico al Congreso a más tardar el primero de agosto del año siguiente de que se trate;
-
-b) Examinar y dictaminar, con fundamento en los informes técnicos y financieros y demás soportes documentales que rinda el Órgano Superior de Fiscalización, sobre las cuentas públicas de los municipios señalados en el inciso anterior; y
-
-c) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
-
-XIII. Instructora de la Cámara, Justicia y Gran Jurado, y Reglamento y Prácticas Parlamentarias:
-
-a) Conocer y dictaminar de las denuncias, querellas, requerimientos del ministerio público o acusaciones que le turne el Congreso o la Comisión de Gobernación y Puntos Constitucionales, en los casos que ameriten la incoación de procedimientos en materia de juicio político o de declaración de procedencia, en los términos de la Constitución Política del Estado Libre y Soberano de Tabasco y la Ley de Responsabilidades de los Servidores Públicos del Estado;
-
-b) Conocer y dictaminar sobre las propuestas de designación de Magistrados del Tribunal Superior de Justicia, del Tribunal de Conciliación y Arbitraje del Estado y del Presidente de la Comisión Estatal de los Derechos Humanos; en este último de manera unida con la Comisión de Derechos Humanos, Igualdad de Género y Asuntos de la Frontera Sur;
-
-c) Conocer y dictaminar sobre las denuncias o querellas a que hace alusión la Ley de Responsabilidades de los Servidores Públicos, en unión de la Comisión de Gobernación y Puntos Constitucionales;
-
-d) Conocer y dictaminar sobre las recompensas y honores que deban otorgarse a quienes presten servicios importantes a la Patria, Estado, Municipios o a la Humanidad;
+d) Conocer y dictaminar sobre las recompensas y honores que deban otorgarse a quienes presten servicios importantes a la Patria, Estado, municipios o a la humanidad;
 
 e) Procurar y vigilar la estricta aplicación de la Ley de Justicia Administrativa para el Estado de Tabasco;
 
-f) Conocer y dictaminar, junto con la Comisión de Gobernación y Puntos Constitucionales, sobre la designación de los Magistrados del Tribunal de lo Contencioso Administrativo;
+f) Conocer y dictaminar, junto con la Comisión de Gobernación y Puntos Constitucionales, sobre la designación de los Magistrados del Tribunal de Justicia Administrativa;
 
-g) Conocer y dictaminar sobre la ratificación del Consejero propuesto por el Ejecutivo del Estado y sobre la designación que le corresponda al Congreso, para integrar ambos, el Consejo de la Judicatura del Poder Judicial del Estado;
+g) Conocer y dictaminar sobre la ratificación del consejero propuesto por el Ejecutivo del Estado y sobre la designación que le corresponda al Congreso, para integrar ambos, el Consejo de la Judicatura del Poder Judicial del Estado;
 
-h) Conocer y dictaminar todo lo relacionado con las iniciativas y propuestas de reformas a la Constitución Política del Estado concerniente al Poder Legislativo Estatal, así como de su Ley Orgánica, el presente Reglamento, Manuales y demás ordenamientos que deriven del marco jurídico del Congreso;
+h) Conocer y dictaminar todo lo relacionado con las iniciativas y propuestas de reformas a la Constitución Política del Estado Libre y Soberano de Tabasco, concerniente al Poder Legislativo Estatal, así como de su Ley Orgánica, el presente Reglamento, manuales y demás ordenamientos que deriven del marco jurídico del Congreso;
 
 i) Elaborar iniciativas de Ley o Decreto, así como propuestas de acuerdo, tendientes a la adecuación y perfeccionamiento de las normas que rigen el trabajo legislativo;
 
@@ -883,53 +883,37 @@ m) Promover la realización de estudios e incremento del acervo documental espec
 
 n) Promover la edición de publicaciones que se consideren de interés en el desarrollo de la actividad parlamentaria;
 
-ñ) Conocer y dictaminar los temas relacionados con la inscripción de Leyendas, Letras Doradas en el Salón de Sesiones, los Premios y Estímulos contemplados por las distintas leyes aplicables, así como de los acuerdos parlamentarios no contemplados por este ordenamiento tomados en las Sesiones;
+ñ) Conocer y dictaminar los temas relacionados con la inscripción de leyendas, letras doradas en el Salón de Sesiones, los premios y estímulos contemplados por las distintas leyes aplicables, así como de los acuerdos parlamentarios no contemplados por este ordenamiento tomados en las sesiones;
 
 o) Conocer los informes trimestrales que rindan la Dirección de Apoyo a Comisiones y Proyectos Normativos, y el Instituto de Investigaciones Legislativas; y
 
 p) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-XIV. Ordenamiento Territorial y Obras Públicas:
-
-a) Dictaminar todo lo concerniente sobre las leyes y decretos, en su caso, relacionados con las obras públicas en el Estado;
-
-b) Conocer y dictaminar sobre los asuntos relacionados con el desarrollo urbano de la entidad, las viviendas, asentamientos humanos, de constitución y ampliación de fundos legales; así como dictaminar sobre las solicitudes de: enajenación o gravamen de predios urbanos, suburbanos o rústicos propiedad del Estado y de las acciones tendentes a la regularización de la tenencia de la tierra urbana o enajenación de terrenos del fundo legal;
-
-c) Dictaminar en todo lo relacionado a los fundos de ciudades, villas y poblados, así como la creación de centros de población en cualesquiera de las categorías establecidas por la Ley Orgánica de los Municipios del Estado;
-
-d) Conocer y dictaminar sobre las políticas y acciones inmobiliarias, construcción, reconstrucción y conservación de edificios públicos, monumentos, obras de ornato y las demás que realicen el Estado, los municipios o los particulares;
-
-e) Conocer y dictaminar sobre los asuntos referentes a convenios sobre desarrollo urbano que celebre el Ejecutivo con las demás entidades federativas y con la federación;
-
-f) Conocer y dictaminar todo lo relacionado con planes de urbanización estatales, regionales y municipales; y
-
-g) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
-
-XV. Recursos Hidráulicos, Energía y Protección Ambiental:
+XIII. Recursos Hidráulicos, Energía y Protección Ambiental:
 
 a) Conocer, analizar, estudiar y dictaminar sobre los asuntos legislativos relacionados con los recursos hidráulicos del Estado, y propuestas referidas al desarrollo sustentable y protección del ambiente, buscando siempre la preservación del equilibrio ecológico que le corresponde en el ámbito estatal;
 
-b) Solicitar en el ámbito de su competencia información, documentos o la comparecencia de los titulares de las Secretarías del Gobierno del Estado, Presidentes Municipales, Concejos Municipales, Directores y Administradores de los Organismos Descentralizados y Órganos Desconcentrados Estatales o de las Empresas de Participación Estatal Mayoritaria;
+b) Solicitar en el ámbito de su competencia información, documentos o la comparecencia de los titulares de las dependencias del Gobierno del Estado, presidentes municipales, concejos municipales, directores y administradores de los organismos descentralizados y órganos desconcentrados estatales o de las empresas de participación estatal mayoritaria;
 
-c) Realizar reuniones de trabajo, con las Comisiones afines de los Congresos de los Estados de la República Mexicana, en especial con los Congresos de las Entidades Federativas que forman parte de la región sur-sureste de nuestro País, para tratar, analizar y atender temas de interés común relativos al recurso agua;
+c) Realizar reuniones de trabajo, con las comisiones afines de los Congresos de los estados de la República Mexicana, en especial con los que forman parte de la región sur-sureste de nuestro país, para tratar, analizar y atender temas de interés común relativos al recurso agua;
 
-d) En el ámbito de competencia estatal, establecer enlaces institucionales con las Comisiones correlativas de la Cámara de Diputados y de la Cámara de Senadores para tratar temas en materia hídrica que beneficien al Estado;
+d) En el ámbito de competencia estatal, establecer enlaces institucionales con las comisiones correlativas de la Cámara de Diputados y de la Cámara de Senadores para tratar temas en materia hídrica que beneficien al Estado;
 
-e) Establecer reuniones de trabajo y una relación de comunicación con las Secretarias de Ordenamiento Territorial y Obras Públicas, y de Energía, Recursos Naturales y Protección Ambiental; así como la Comisión Estatal de Agua y Saneamiento, la Comisión Nacional del Agua, dependencias, organismos, descentralizados u órganos desconcentrados de carácter estatal y federal para tratar, analizar y atender temas relacionados con el recurso agua en el Estado;
+e) Establecer reuniones de trabajo y una relación de comunicación con las Secretarías de Ordenamiento Territorial y Obras Públicas, Desarrollo Energético; y Bienestar, Sustentabilidad y Cambio Climático; así como la Comisión Estatal de Agua y Saneamiento, la Comisión Nacional del Agua, dependencias, organismos descentralizados u órganos desconcentrados de carácter estatal y federal para tratar, analizar y atender temas relacionados con el recurso agua en el Estado;
 
-f) Fomentar el establecimiento de una cultura del agua en la población de la Entidad, a través de la realización de campañas con el apoyo de cuadros técnicos, científicos y académicos que tengan que ver con el derecho de las personas a acceder a este recurso, el cuidado y protección del mismo, así como las medidas y acciones a realizar en caso de presentarse desastres relacionados con el agua;
+f) Fomentar el establecimiento de una cultura del agua en la población de la entidad, a través de la realización de campañas con el apoyo de cuadros técnicos, científicos y académicos que tengan que ver con el derecho de las personas a acceder a este recurso, el cuidado y protección del mismo, así como las medidas y acciones a realizar en caso de presentarse desastres relacionados con el agua;
 
 g) Coadyuvar en las acciones donde se involucre a la ciudadanía y a la población escolar, para que a través de los medios masivos de comunicación den a conocer, en coordinación con la dependencia del ramo, las campañas de concientización para la preservación del equilibrio ecológico y del medio ambiente;
 
 h) Fomentar campañas con el apoyo de cuadros técnicos, científicos y académicos, que planteen soluciones a los problemas ambientales y la preservación de los ecosistemas;
 
-i) Conocer y dictaminar lo relativo a convenios sobre protección y mejoramiento ambiental, que, en su caso, celebre el Ejecutivo con las demás entidades federativas y con la Federación;
+i) Conocer y dictaminar lo relativo a convenios sobre protección y mejoramiento ambiental que, en su caso, celebre el Ejecutivo con las demás entidades federativas y con la Federación;
 
 j) Coadyuvar en la investigación técnico industrial, en materia de energía y recursos naturales no renovables; promover el desarrollo de los energéticos, de la industria petrolera, petroquímica básica, minera, eléctrica y nuclear; y
 
 k) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-XVI. Salud:
+XIV. Salud:
 
 a) Analizar y dictaminar sobre los asuntos encaminados a mejorar el nivel de salud de la población, procurando principalmente fortalecer las acciones dirigidas a los grupos de escasos recursos económicos;
 
@@ -937,11 +921,11 @@ b) Fomentar que los médicos presten sus servicios en las comunidades rurales y 
 
 c) Estudiar, recomendar y dictaminar sobre el control sanitario, en establecimientos que vendan alimentos, bebidas no alcohólicas y alcohólicas, así como lo relativo al control sanitario en el Estado en sus límites con otros Estados del país;
 
-d) Conocer los programas de salud pública del Estado y de los Municipios, y fundamentalmente aquéllos que tiendan a combatir la drogadicción, el alcoholismo, la prostitución y el tabaquismo; y
+d) Conocer los programas de salud pública del Estado y de los municipios, y fundamentalmente aquellos que tiendan a combatir la drogadicción, el alcoholismo, la prostitución y el tabaquismo; y
 
 e) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
-XVII. Seguridad Pública, Procuración de Justicia y Protección Civil:
+XV. Seguridad Pública, Procuración de Justicia y Protección Civil:
 
 a) Analizar y dictaminar, todo lo referente a las facultades y obligaciones de los organismos de seguridad pública;
 
@@ -949,21 +933,33 @@ b) Conocer y dictaminar todo lo relacionado con la prevención del delito y, en 
 
 c) Promover programas y acciones que beneficien la seguridad pública, prevención del delito y la reinserción social de los procesados, sentenciados, reos y menores infractores;
 
-d) Conocer y dictaminar de los asuntos tendentes a lograr una adecuada y eficaz procuración de justicia en el Estado y participar junto con la Comisión de Instructora de la Cámara, Justicia y Fran (sic) Jurado, y Reglamento y Prácticas Parlamentarias, en el proceso de designación del Fiscal General del Estado, en los términos de los ordenamientos aplicables;
+d) Conocer y dictaminar de los asuntos tendentes a lograr una adecuada y eficaz procuración de justicia en el Estado y participar junto con la Comisión Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias, en el proceso de designación del Fiscal General del Estado, en los términos de los ordenamientos aplicables;
 
-e) Conocer y dictaminar acerca de los convenios de coordinación en materia de seguridad pública que se celebren entre la federación, el gobierno del Estado y los Ayuntamientos o concejos municipales, o entre algunos de ellos;
+e) Conocer y dictaminar acerca de los convenios de coordinación en materia de seguridad pública que se celebren entre la Federación, el Gobierno del Estado y los ayuntamientos o concejos municipales, o entre algunos de ellos;
 
-f) Conocer y dar seguimiento a los planes y programas que el Consejo y el Instituto de Protección Civil del Estado, en el marco de los Sistemas Nacional y Estatal de Protección Civil, han elaborado para responder a las contingencias y desastres naturales en Tabasco;
+f) Conocer y dar seguimiento a los planes y programas que el Consejo y el Instituto de Protección Civil del Estado de Tabasco, en el marco de los Sistemas Nacional y Estatal de Protección Civil, han elaborado para responder a las contingencias y desastres naturales en Tabasco;
 
 g) Dar seguimiento y trámite correspondiente a las peticiones y propuestas que los ciudadanos formulen en torno a las medidas, planes y programas de protección civil en Tabasco;
 
-h) Fomentar, en coordinación con el consejo y la unidad de protección civil del Estado de Tabasco, la difusión de programas preventivos entre la población civil para actuar en caso de desastres;
+h) Fomentar, en coordinación con el consejo y la unidad de protección civil del estado de Tabasco, la difusión de programas preventivos entre la población civil para actuar en caso de desastres;
 
 i) Gestionar ante el Consejo y el Instituto de Protección Civil y los organismos pertinentes, la realización de campañas escolares de educación para situaciones de emergencia, que informen y preparen a la juventud sobre los desastres naturales propensos de ocurrir en el Estado y cómo actuar frente a ellos;
 
 j) Investigar, en coordinación con las comisiones competentes, las medidas y acciones que enriquezcan el marco normativo y los respectivos programas y planes de acción de protección civil en el Estado; y
 
 k) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
+
+XVI. Tránsito y Movilidad:
+
+a) Dictaminar u opinar respecto de las iniciativas de leyes y decretos o propuestas relacionados con el sector de tránsito y movilidad, que sean de la competencia estatal;
+
+b) Analizar y proponer soluciones legislativas o reglamentarias a las disposiciones de tránsito, movilidad y demás relacionadas con el control y el orden de la circulación vehicular y peatonal en las vías públicas del Estado y de los Municipios;
+
+c) Investigar y proponer soluciones sobre los asuntos relacionados con la movilidad, las vías de comunicaciones y transportes; así como con los medios y sistemas de comunicación, sus concesiones y funcionamiento;
+
+d) Mantener estrecha relación con todos los organismos en estas materias, para que en forma coordinada se logre la prestación de mejores servicios; y
+
+e) Conocer, dictaminar o resolver sobre los demás asuntos relacionados con su competencia, que le sean turnados.
 
 ###### Artículo 59.
 
@@ -2294,3 +2290,15 @@ Cualquier referencia de otros ordenamientos legales a las unidades, áreas admin
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 21 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 298 POR EL QUE “SE REFORMA EL ARTÍCULO 58 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El correspondiente Decreto entrará en vigor el día cinco de septiembre del año 2021, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los asuntos relacionados con las cuentas públicas de los diversos entes fiscalizables que a la entrada en vigor del presente Decreto se encuentren en trámite, deberán ser turnados a la Comisión Ordinaria de Auditoría Gubernamental y Cuenta Pública, para los efectos legales a que haya lugar.
+
+CUARTO. Las referencias o remisiones que se hacen en diversas leyes o reglamentos a las comisiones ordinarias inspectoras de hacienda, primera, segunda y tercera, así como a las de Comunicaciones y Transportes, Tránsito y Vialidad u Ordenamiento Territorial y Obras Públicas, se entenderán en lo sucesivo realizadas a favor de las comisiones a que se refiere el presente Decreto.
