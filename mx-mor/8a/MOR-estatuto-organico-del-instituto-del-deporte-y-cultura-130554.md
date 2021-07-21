@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-instituto-del-deporte-y-cultura-130554"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-09-05"
-last_updated: "2018-09-05"
+last_updated: "2021-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2021.
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de septiembre de 2018.
 
@@ -69,29 +69,37 @@ VIII. Junta de Gobierno, a la Junta de Gobierno del Instituto, como su órgano m
 
 IX. Ley, a la Ley del Deporte y Cultura Física del Estado de Morelos;
 
-X. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado de Morelos;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+X. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos;
 
 XI. Manuales Administrativos, a los Manuales de Organización, de Políticas y Procedimientos y otros correspondientes a las unidades administrativas del Instituto;
 
 XII. Presidente, a la persona titular de la presidencia de la Junta de Gobierno;
 
-XIII. Secretaría, a la Secretaría de Desarrollo Social del Poder Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+XIII. Secretaría, a la Secretaría de Educación del Poder Ejecutivo Estatal;
 
 XIV. Subcomité de Adquisiciones, al Subcomité de Adquisiciones, Arrendamientos y Servicios del Instituto, como órgano interno regulador de sus adquisiciones, arrendamientos y servicios, y
 
 XV. Unidades Administrativas, aquellas unidades administrativas que integran la estructura orgánica del Instituto, referidas en el artículo 7 del presente Estatuto Orgánico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2021)</small>
+
 ###### Artículo 3.
 
-El Instituto planeará y conducirá sus actividades en forma programada, con base en las políticas, prioridades y restricciones que, para el logro de los objetivos, se establezcan en el Plan Estatal de Desarrollo, la Ley Orgánica, la Ley Estatal de Planeación, el Programa Estratégico y el programa operativo anual del Instituto, los Programas Sectoriales, así como lo dispuesto en la Ley y el Estatuto Orgánico.
+El instituto planeará y conducirá sus actividades en forma programada, con base en las políticas, prioridades y restricciones que, para el logro de los objetivos, se establezcan en el Plan Estatal de Desarrollo, la Ley Orgánica, la Ley Estatal de Planeación, el Programa Estratégico y el Programa Presupuestario del instituto, los programas sectoriales, así como lo dispuesto en la ley y el estatuto orgánico.
 
 El Instituto administrará sus ingresos propios y presupuestales en los términos que se fijen en el Presupuesto de Egresos para el ejercicio fiscal que corresponda, con sujeción a la normativa aplicable.
 
 ### CAPÍTULO II. DE LA NATURALEZA, OBJETO, ATRIBUCIONES Y PATRIMONIO DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2021)</small>
+
 ###### Artículo 4.
 
-El Instituto es un organismo público descentralizado con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Desarrollo Social, con domicilio en la ciudad de Cuernavaca, Morelos, que tiene por objeto la promoción, planeación, organización, coordinación, fomento, desarrollo, implementación, ejecución y evaluación del deporte y la cultura física en todas sus disciplinas y niveles.
+El instituto es un organismo público descentralizado con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Educación, con domicilio en la ciudad de Cuernavaca, Morelos, que tiene por objeto la promoción, planeación, organización, coordinación, fomento, desarrollo, implementación, ejecución y evaluación del deporte y la cultura física en todas sus disciplinas y niveles.
 
 ###### Artículo 5.
 
@@ -115,11 +123,17 @@ Además, contará con un Consejo Consultivo de conformidad con lo dispuesto en e
 
 Para el desempeño de sus funciones, el Instituto contará además con las siguientes Unidades Administrativas, las cuales se adscriben a la Dirección General:
 
-I. Dirección Administrativa;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
 
-II. Dirección de Desarrollo del Deporte, y
+I. Coordinación de Área Administrativa;
 
-III. Subdirección Jurídica.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+II. Coordinación de Área de Desarrollo del Deporte, y
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+III. Unidad de Enlace Jurídico.
 
 Para fines administrativos, los servidores públicos de las unidades administrativas del Instituto, deben percibir sus sueldos y prestaciones en armonía con el catálogo de puestos y tabulador de salarios aprobados por la Secretaría de Hacienda y de Administración, de conformidad con sus respectivos niveles; quedando establecidas sus atribuciones en el Estatuto.
 
@@ -129,19 +143,59 @@ Las unidades administrativas se integran por las personas titulares respectivas 
 
 ### CAPÍTULO IV. DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2021)</small>
+
 ###### Artículo 9.
 
-La Junta de Gobierno es el órgano máximo de Gobierno del Instituto y se integra en los términos que establece el artículo 31 de la Ley, conforme lo dispuesto en los artículos 54 y 80 de la Ley Orgánica.
+La Junta de Gobierno es el órgano máximo de gobierno del instituto y se integra en los términos que establece el artículo 31 de la ley, conforme lo dispuesto en los artículos 51 y 78 de la ley orgánica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2021)</small>
 
 ###### Artículo 10.
 
-La Junta de Gobierno, además de las atribuciones señaladas en la Ley Orgánica y la Ley, cuenta con las siguientes:
+La Junta de Gobierno, además de las atribuciones señaladas en la ley orgánica y la ley, cuenta con las siguientes:
 
 I. Controlar la forma en que los objetivos del Instituto serán alcanzados y la manera en que las estrategias básicas serán conducidas;
 
-II. Atender los informes que en materia de control y vigilancia le sean turnados por el órgano interno de control del Instituto, y vigilar la implementación de las medidas correctivas a que hubiere lugar, y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
 
-III. Diferir o suspender las sesiones, cuando existan causas que a su juicio pudieran afectar la celebración o desarrollo de las mismas.
+II. Aprobar políticas, bases, estrategias y programas generales del instituto;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+III. Diferir o suspender las sesiones, cuando existan causas que a su juicio pudieran afectar la celebración o desarrollo de las mismas;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2021)</small>
+
+IV. Nombrar y remover a propuesta del director general a los funcionarios de mandos medios, aprobar sus sueldos en armonía con el catálogo de puestos y tabulador de salarios aprobados por la Secretaría de Hacienda y de Administración, y las demás establecidas en el presente estatuto, así como concederles las licencias que procedan;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2021)</small>
+
+V. Aprobar anualmente el ejercicio del presupuesto de ingresos y egresos, a través de los estados financieros, con base en el informe del órgano interno de control y autorizar su posterior publicación en el Periódico Oficial.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2021)</small>
+
+VI. Tomar conocimiento de las adecuaciones que deban hacerse a la infraestructura deportiva asignada al instituto.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2021)</small>
+
+VII. Tomar conocimiento de los programas sociales que implemente el instituto;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2021)</small>
+
+VIII. Aprobar las directrices para la coordinación en materia deportiva, entre el instituto y los órganos políticos-administrativos;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2021)</small>
+
+IX. Realizar las gestiones necesarias por si o a través de la Dirección General del instituto para el cumplimiento de sus fines;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2021)</small>
+
+X. Aprobar la creación modificación, o derogación de las disposiciones administrativas que resulten aplicables al instituto;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2021)</small>
+
+XI. Las demás que sean necesarias para el ejercicio de sus facultades.
 
 ###### Artículo 11.
 
@@ -193,9 +247,15 @@ II. Emitir su voto respecto de los asuntos tratados en las sesiones;
 
 III. Notificar la designación de su suplente, en los términos del presente Estatuto Orgánico;
 
-IV. Coadyuvar en el cumplimiento de los acuerdos y resoluciones que se tomen en las sesiones, y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
 
-V. Las demás funciones que les confiera el presidente, la propia Junta de Gobierno y otras disposiciones jurídicas aplicables.
+IV. Coadyuvar en el cumplimiento de los acuerdos y resoluciones que se tomen en las sesiones;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2021)</small>
+
+V. Firmar las actas de las sesiones de la Junta de Gobierno a las que asistan, y
+
+VI. Las demás funciones que les confiera el presidente, la propia Junta de Gobierno y otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO V. DE LA DIRECCIÓN GENERAL
 
@@ -203,17 +263,23 @@ V. Las demás funciones que les confiera el presidente, la propia Junta de Gobie
 
 La representación del Instituto, así como el trámite y resolución de los asuntos de su competencia, corresponden originalmente al Director General quien, para la mejor atención y despacho de los mismos, podrá delegar sus facultades en servidores públicos subalternos, sin perjuicio de su ejercicio directo, excepto aquellas que por disposición legal deban ser ejercidas directamente por él.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2021)</small>
+
 ###### Artículo 17.
 
-El Director General, además de las señaladas en los artículos 66 y 84 de la Ley Orgánica y 38 de la Ley, cuenta con las atribuciones siguientes:
+El director general, además de las señaladas en los artículos 64 y 82 de la Ley Orgánica y 38 de la ley, cuenta con las atribuciones siguientes:
 
 I. Acordar con las personas titulares de las Unidades Administrativas y demás servidores públicos del Instituto el despacho de los asuntos a su cargo, cuando lo considere conveniente;
 
 II. Colaborar con la CONADE en la ejecución del Programa Nacional de Cultura Física y Deporte, a través de la celebración de proyectos específicos, de conformidad con la Ley General;
 
-III. Presentar y someter a la aprobación de la Junta de Gobierno oportunamente, el programa operativo anual para el ejercicio del año siguiente y sus respectivos subprogramas y proyectos;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
 
-IV. Proponer a la Junta de Gobierno, con base en las recomendaciones realizadas por el Director de Desarrollo del Deporte, a los deportistas de alta calidad y mérito para la entrega de reconocimientos y a los deportistas merecedores de recibir becas;
+III. Presentar y someter a la aprobación de la Junta de Gobierno oportunamente, el programa presupuestario para el ejercicio del año siguiente y sus respectivos subprogramas y proyectos;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+IV. Proponer a la Junta de Gobierno, con base en las recomendaciones realizadas por el coordinador de área de desarrollo del deporte, a los deportistas de alta calidad y mérito para la entrega de reconocimientos y a los deportistas merecedores de recibir becas;
 
 V. Crear y coordinar programas de capacitación para el mejoramiento de los deportistas, así como la formación de maestros, instructores, entrenadores y técnicos;
 
@@ -237,7 +303,21 @@ XIV. Identificar y seleccionar a los talentos deportivos mediante la organizaci�
 
 XV. Emprender acciones para que las mujeres y los hombres tengan las mismas oportunidades de acceso a la práctica del deporte, y
 
-XVI. Supervisar los programas para promover y fomentar el deporte realizado por personas con capacidades diferentes.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+XVI. Supervisar los programas para promover y fomentar el deporte realizado por personas con discapacidad, y
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2021)</small>
+
+XVII. Presentar a la Junta de Gobierno las políticas, bases, estrategias y programas generales del instituto;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2021)</small>
+
+XVIII. Someter a la aprobación de la Junta de Gobierno, los nombramientos y licencias de los funcionarios de mandos medios, así como sus sueldos en armonía con el catálogo de puestos y tabulador de salarios aprobados por la Secretaria de Hacienda y de Administración y demás prestaciones de acuerdo a las asignaciones globales de presupuesto de gasto corriente aprobado por el mismo órgano;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2021)</small>
+
+XIX. Proponer a la Junta de Gobierno las cuotas de recuperación del uso, aprovechamiento y explotación de los bienes y servicios asignados al instituto.
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -275,9 +355,11 @@ XII. Las demás que sean afines a las atribuciones de cada Unidad Administrativa
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS PERSONAS TITULARES DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2021)</small>
+
 ###### Artículo 20.
 
-A la persona titular de la Dirección Administrativa, le corresponden las siguientes atribuciones específicas:
+A la persona titular de la Coordinación de Área Administrativa, le corresponden las siguientes atribuciones específicas:
 
 I. Supervisar la administración y mantenimiento de establecimientos e instalaciones deportivas;
 
@@ -285,9 +367,13 @@ II. Programar, previa autorización de la Junta de Gobierno, los apoyos financie
 
 III. Programar los reconocimientos y becas otorgadas a deportistas;
 
-IV. Elaborar el anteproyecto anual de presupuesto, así como el Programa Operativo Anual;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
 
-V. Supervisar que la elaboración del anteproyecto de presupuesto anual y el Programa Operativo Anual, se realice de acuerdo con los programas de deporte y demás normativa aplicable, haciéndolo conjuntamente con las demás Unidades Administrativas, para someterlos al Director General, quien a su vez, lo presentará para su aprobación por la Junta de Gobierno;
+IV. Elaborar el anteproyecto anual de presupuesto, así como el programa presupuestario;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+V. Supervisar que la elaboración del anteproyecto de presupuesto anual y el programa presupuestario, se realice de acuerdo con los programas de deporte y demás normativa aplicable, haciéndolo conjuntamente con las demás unidades administrativas, para someterlos al director general, quien, a su vez, lo presentará para su aprobación por la Junta de Gobierno;
 
 VI. Proponer al Director General la programación, organización, control y evaluación del desarrollo de los programas del Instituto;
 
@@ -307,7 +393,9 @@ XIII. Asesorar a la Dirección General en materia administrativa;
 
 XIV. Vigilar, controlar, coordinar y supervisar el uso, aplicación y ejercicio presupuestal de los recursos provenientes de convenios y acuerdos celebrados con la Federación y municipios;
 
-XV. Concentrar y revisar los informes de las diferentes áreas de la Dirección Administrativa para su presentación ante la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+XV. Concentrar y revisar los informes de las diferentes áreas de la Coordinación de Área Administrativa para su presentación ante la Junta de Gobierno;
 
 XVI. Vigilar y cumplir con las normas del sistema de adquisiciones de los bienes y servicios, de acuerdo con la normativa aplicable, así como de las normas, sistemas, procedimientos y controles administrativos;
 
@@ -333,9 +421,11 @@ XXVI. Realizar el alta, baja o transferencia de bienes muebles y activos intangi
 
 XXVII. Llevar a cabo la contratación de servicios básicos y arrendamientos y realizar el pago de los servicios de uso generalizado ante los proveedores de estos servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2021)</small>
+
 ###### Artículo 21.
 
-A la persona titular de la Dirección de Desarrollo del Deporte, le corresponden las siguientes atribuciones específicas:
+A la persona titular de la Coordinación de Área de Desarrollo del Deporte, le corresponden las siguientes atribuciones específicas:
 
 I. Desarrollar los Proyectos de los Programas de fomento deportivo;
 
@@ -373,7 +463,9 @@ XVII. Apoyar y promover a los deportistas y equipos que alcancen el rendimiento 
 
 XVIII. Promover y apoyar el deporte a nivel municipal, estatal, nacional e internacional;
 
-XIX. Cumplir con los programas que oferta la CONADE y el propio Instituto en materia de deporte popular, estudiantil y federado en los 33 municipios del Estado;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+XIX. Cumplir con los programas que oferta la CONADE y el propio instituto en materia de deporte popular, estudiantil y federado en los 36 municipios del estado;
 
 XX. Establecer convenios con las diferentes instituciones gubernamentales, así como con la iniciativa privada, fomentando los mecanismos de cooperación y apoyos en beneficio de la sociedad deportiva;
 
@@ -387,7 +479,9 @@ XXIV. Proporcionar atención, control, seguimiento y apoyo para que los deportis
 
 XXV. Brindar el apoyo técnico y de material deportivo a los talentos deportivos;
 
-XXVI. Proporcionar atención, control, seguimiento y apoyo para los deportistas con discapacidades;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+XXVI. Garantizar a todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen.
 
 XXVII. Capacitar y actualizar a los entrenadores en el Estado;
 
@@ -409,9 +503,11 @@ XXXV. Promover y apoyar el desarrollo del deporte y la cultura física dentro de
 
 XXXVI. Llevar a cabo todas las acciones relacionadas con el desarrollo del deporte que, conforme a la Ley, competa al Instituto y no le correspondan ser realizadas a la Junta de Gobierno o al Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2021)</small>
+
 ###### Artículo 22.
 
-A la persona titular de la Subdirección Jurídica, le corresponden las siguientes atribuciones específicas:
+A la persona titular de la Unidad de Enlace Jurídico, le corresponden las siguientes atribuciones específicas:
 
 I. Elaborar los convenios, contratos, permisos y autorizaciones que celebre el Instituto, vigilando que estos cumplan con la normativa aplicable;
 
@@ -437,7 +533,9 @@ XI. Coadyuvar en el desarrollo de los procedimientos de responsabilidad administ
 
 XII. Analizar y proponer los términos de los convenios con organismos nacionales y extranjeros en colaboración con las demás Unidades Administrativas y someterlos a la consideración de la Dirección General;
 
-XIII. Elaborar o modificar los proyectos de Estatuto Orgánico del Instituto y acordar con la Dirección Administrativa sobre las respectivas modificaciones, cambios y adiciones;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+XIII. Elaborar o modificar los proyectos de estatuto orgánico del instituto y acordar con la Coordinación de Área Administrativa sobre las respectivas modificaciones, cambios y adiciones;
 
 XIV. Proporcionar asesoría de carácter jurídico a las Asociaciones Deportivas Estatales y Clubes en su regularización, así como a los Deportistas;
 
@@ -453,15 +551,21 @@ XIX. Apoyar en la elaboración de actas administrativas.
 
 ### CAPÍTULO VIII. DE LAS RELACIONES LABORALES
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2021)</small>
+
 ###### Artículo 23.
 
-La relación de trabajo entre el Instituto y sus trabajadores se regirá por la normativa aplicable.
+La relación de trabajo entre el instituto y sus trabajadores se regirá por la legislación aplicable a los trabajadores de las entidades paraestatales del Gobierno del Estado de Morelos, así como los lineamientos o condiciones generales de trabajo que en su caso establezca la autoridad competente.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 21 DE JULIO DE 2021)</small>
 
 ### CAPÍTULO IX. DEL ÓRGANO INTERNO DE CONTROL
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2021)</small>
+
 ###### Artículo 24.
 
-El Órgano Interno de Control del Instituto estará integrado por un Comisario Público designado por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, en términos de los artículos 67 y 69 de la Ley Orgánica.
+El Órgano Interno de Control del instituto estará integrado por un comisario público designado por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, en términos de los artículos 65 y 67 de la Ley Orgánica.
 
 ###### Artículo 25.
 
@@ -541,13 +645,17 @@ El Subcomité de Adquisiciones se integra, de acuerdo a lo dispuesto por la frac
 
 I. El Director General quien lo presidirá;
 
-II. La persona titular de la Dirección Administrativa, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+II. La persona titular de la Coordinación de Área Administrativa, quien fungirá como secretario técnico;
 
 III. Una persona representante del Comité para el Control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios, del Poder Ejecutivo Estatal, que será el Secretario Ejecutivo de este último, y
 
 IV. Dos vocales, que serán las personas titulares de las Unidades Administrativas del Instituto, designadas por la persona que presida el Subcomité de Adquisiciones.
 
-Además, podrán participar en el Subcomité, las personas titulares del Órgano de Vigilancia y de la Subdirección Jurídica del Instituto, como invitados permanentes.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2021)</small>
+
+Además, podrán participar en el Subcomité, las personas titulares del Órgano Interno de Control y de la Unidad de Enlace Jurídico del instituto, como invitados permanentes.
 
 Todos los integrantes del Subcomité de Adquisiciones tendrán voz y voto, con excepción de los invitados permanentes quienes sólo tendrán derecho a voz, y podrán designar por escrito a sus respectivos suplentes, los que deberán tener el nivel jerárquico inmediato inferior; los integrantes del Subcomité de Adquisiciones no percibirán emolumentos o compensación alguna por su desempeño.
 
@@ -670,3 +778,21 @@ EL RECTOR DE LA UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MORELOS
 GUSTAVO URQUIZA BELTRÁN
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente acuerdo iniciará su vigencia a partir del siguiente día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. El director general deberá inscribir el presente acuerdo de reforma en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto en los artículos 76, penúltimo párrafo y 82, fracción II de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
+
+TERCERA. Dentro de un plazo que no exceda de 90 días hábiles posteriores a la entrada en vigor del presente instrumento, el Instituto del Deporte y Cultura Física deberá actualizar sus manuales administrativos, así como los descriptivos de puestos y demás instrumentos administrativos que correspondan; en tanto esto sucede, se mantendrán vigentes los actuales, en lo que no se opongan al Estatuto Orgánico del Instituto del Deporte y Cultura Física del Estado de Morelos. Dentro de un plazo de 15 días hábiles posteriores a la actualización de los manuales administrativos que en su caso se realice se deberá gestionar la respectiva publicación en el Periódico Oficial "Tierra y Libertad".
+
+CUARTA. Dentro de un plazo de cinco días hábiles, el Instituto del Deporte y Cultura Física del Estado de Morelos deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente, para lo cual se ajustará al Presupuesto de Egresos autorizado al citado instituto, o en su caso, a la suficiencia presupuestal con la que cuente dicho organismo descentralizado, ambos durante el ejercicio fiscal vigente a la fecha de la publicación del presente acuerdo.
+
+QUINTA. De conformidad con lo dispuesto en los artículos 22, fracción XXV de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos; el Instituto del Deporte y Cultura Física del Estado de Morelos, dentro del plazo que hace referencia la disposición primera transitoria para la entrada en vigor del presente instrumento, debe informar a la citada Secretaría de Gobierno, los cambios de denominación de las unidades administrativas de aquella, sufridos en virtud de este instrumento, así como registrar las firmas autógrafas de los servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+SEXTA. Los conflictos que se susciten por la aplicación e interpretación del presente acuerdo serán resueltos por el director general, de conformidad con la normativa aplicable.
