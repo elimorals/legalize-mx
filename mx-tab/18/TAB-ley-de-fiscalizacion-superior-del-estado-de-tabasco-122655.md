@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-fiscalizacion-superior-del-estado-de-tabasco-122655"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2017-07-15"
+last_updated: "2021-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122655&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2021.
 
 Ley Publicada en el Periódico Oficial del Estado de Tabasco, el sábado 15 de julio de 2017.
 
@@ -91,7 +93,9 @@ II. Autonomía de gestión: la facultad del Órgano Superior de Fiscalización d
 
 III. Autonomía técnica: la facultad del Órgano Superior de Fiscalización del Estado para decidir sobre la planeación, programación, ejecución, informe y seguimiento en el proceso de la fiscalización superior;
 
-IV. Comisión: las Comisiones Inspectoras de Hacienda Primera, Segunda y Tercera, establecidas en el artículo 75, fracciones XVI, XVII y XVIII, de la Ley Orgánica del Poder Legislativo del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+
+IV. Comisión: la Comisión Ordinaria de Auditoría Gubernamental y Cuenta Pública;
 
 V. Congreso: el Congreso del Estado de Tabasco;
 
@@ -1128,3 +1132,17 @@ SECRETARIO DE GOBIERNO.
 LIC. JUAN JOSÉ PERALTA FÓCIL.
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 298 POR EL QUE “SE REFORMA LA FRACCIÓN IV, DEL ARTÍCULO 4 DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El correspondiente Decreto entrará en vigor el día cinco de septiembre del año 2021, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los asuntos relacionados con las cuentas públicas de los diversos entes fiscalizables que a la entrada en vigor del presente Decreto se encuentren en trámite, deberán ser turnados a la Comisión Ordinaria de Auditoría Gubernamental y Cuenta Pública, para los efectos legales a que haya lugar.
+
+CUARTO. Las referencias o remisiones que se hacen en diversas leyes o reglamentos a las comisiones ordinarias inspectoras de hacienda, primera, segunda y tercera, así como a las de Comunicaciones y Transportes, Tránsito y Vialidad u Ordenamiento Territorial y Obras Públicas, se entenderán en lo sucesivo realizadas a favor de las comisiones a que se refiere el presente Decreto.
