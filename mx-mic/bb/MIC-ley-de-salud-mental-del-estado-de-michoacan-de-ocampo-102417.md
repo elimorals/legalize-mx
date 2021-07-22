@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-mental-del-estado-de-michoacan-de-ocampo-102417"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2019-08-28"
+last_updated: "2021-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2021.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -99,7 +99,9 @@ XI. Personal de salud: Profesionales, especialistas, técnicos, auxiliares y dem
 
 XII. Prevención de riesgos en salud mental: Acciones contenidas en los planes, programas, campañas y proyectos gubernamentales, nacionales e internacionales, con la finalidad de informar y educar a la población en relación a cualquier aspecto vinculado a la salud mental, e intervenir en las comunidades para evitar situaciones de riesgo y dar a conocer procedimientos con el propósito principal de preservar la calidad de vida;
 
-XIII. Primer nivel de atención: Servicios públicos de salud no especializados prestados por núcleos básicos de salud en comunidades y centros de salud locales en el Estado;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
+
+XIII. Primer nivel de atención: Servicios Públicos de salud no especializados, con excepción del servicio de psicología clínica, prestados por núcleos básicos de salud en comunidades y centros de salud locales de primer y segundo nivel en el Estado;
 
 XIV. Profesionales de la salud mental: Grupo de especialistas para la atención integral en salud mental, conformado por médicos psiquiatras y generales, psicólogos, enfermeros y trabajadores sociales;
 
@@ -239,25 +241,29 @@ IV. Coordinar y supervisar las acciones para la salud mental;
 
 IV BIS. Vigilar y evaluar a los centros de atención de adicción, a efecto de que cumplan con las normas de salud, operación y funcionamiento;
 
-V. Instalar, administrar y operar los Módulos que constituyen la Red Estatal de Salud Mental;
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2021)</small>
 
-VI. Instalar y administrar el Centro de Investigación e Información en Salud Mental;
+V. Emitir e implementar el Protocolo de Actuación para la Prevención, Rehabilitación y Tratamiento de la Conducta Suicida;
 
-VII. Instalar, administrar y operar la línea telefónica de Red Estatal de Salud Mental y la página electrónica para brindar orientación a la población general;
+VI. Instalar, administrar y operar los Módulos que constituyen la Red Estatal de Salud Mental;
 
-VIII. Llevar a cabo reuniones periódicas con los demás organismos centralizados, descentralizados y desconcentrados de la Administración Pública del Estado de Michoacán, a efecto de suscribir los instrumentos jurídicos necesarios para generar las condiciones necesarias para la implementación del Modelo Estatal de Salud Mental;
+VII. Instalar y administrar el Centro de Investigación e Información en Salud Mental;
 
-IX. Fijar los lineamientos de coordinación para que los Municipios, en el ámbito de su competencia, intervengan en la promoción de la salud mental, e incentiven la participación social;
+VIII. Instalar, administrar y operar la línea telefónica de Red Estatal de Salud Mental y la página electrónica para brindar orientación a la población general;
 
-X. Implementar estrategias de coordinación de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y mecanismos de coordinación para llevar a cabo acciones de prevención, diagnóstico oportuno, tratamiento y rehabilitación;
+IX. Llevar a cabo reuniones periódicas con los demás organismos centralizados, descentralizados y desconcentrados de la Administración Pública del Estado de Michoacán, a efecto de suscribir los instrumentos jurídicos necesarios para generar las condiciones necesarias para la implementación del Modelo Estatal de Salud Mental;
 
-XI. Suscribir convenios, acuerdos o cualquier instrumento jurídico de coordinación con los Municipios a efecto de mejorar la atención en materia de salud mental;
+X. Fijar los lineamientos de coordinación para que los Municipios, en el ámbito de su competencia, intervengan en la promoción de la salud mental, e incentiven la participación social;
 
-XII. Coordinarse con las dependencias estatales del empleo, a efecto de establecer acciones para que las personas con trastornos mentales, puedan ser incluidos como parte de la plantilla laboral de las empresas privadas e instituciones de Gobierno;
+XI. Implementar estrategias de coordinación de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y mecanismos de coordinación para llevar a cabo acciones de prevención, diagnóstico oportuno, tratamiento y rehabilitación;
 
-XIII. Presentar al Comité y al Poder Legislativo del Estado, un informe anual sobre las políticas públicas puestas en práctica en materia de salud mental, así como el estado de avance en el cumplimiento de la implementación del Modelo de Salud Mental para el Estado de Michoacán y los diversos programas generados; y,
+XII. Suscribir convenios, acuerdos o cualquier instrumento jurídico de coordinación con los Municipios a efecto de mejorar la atención en materia de salud mental;
 
-XIV. Las demás acciones que contribuyan a la promoción fomento de la salud mental de la población.
+XIII. Coordinarse con las dependencias estatales del empleo, a efecto de establecer acciones para que las personas con trastornos mentales, puedan ser incluidos como parte de la plantilla laboral de las empresas privadas e instituciones de Gobierno;
+
+XIV. Presentar al Comité y al Poder Legislativo del Estado, un informe anual sobre las políticas públicas puestas en práctica en materia de salud mental, así como el estado de avance en el cumplimiento de la implementación del Modelo de Salud Mental para el Estado de Michoacán y los diversos programas generados; y,
+
+XV. Las demás acciones que contribuyan a la promoción fomento de la salud mental de la población.
 
 ###### Artículo 11.
 
@@ -301,9 +307,17 @@ V. Promover la participación de observadores externos para vigilar el pleno res
 
 VI. Diseñar y llevar a cabo campañas que reduzcan los factores de riesgo de desarrollar enfermedades mentales;
 
-VII. Participar en las acciones de atención a personas afectadas en situación de emergencia o desastre en el Estado; y,
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
 
-VIII. Elaborar, difundir y llevar a cabo los programas de salud mental.
+VII. Participar en las acciones de atención a personas afectadas en situación de emergencia o desastre en el Estado;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
+
+VIII. Elaborar, difundir y llevar a cabo los programas de salud mental; y,
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2021)</small>
+
+IX. Establecer de manera permanente el servicio de psicología clínica en todos los núcleos básicos de salud locales de primer y segundo nivel en cada uno de los municipios del Estado, se deberá contener mínimamente con un módulo de atención psicológica para así dar atención temprana en Salud Mental, en su primer nivel de salud.
 
 ###### Artículo 16.
 
@@ -355,9 +369,11 @@ Asimismo, para la emisión de dictámenes solicitados por las autoridades, deber
 
 El Psicoterapeuta, debe ser psicólogo con cédula profesional y con estudios de postgrado en psicoterapia, realizados en instituciones que cuenten con validez oficial.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2021)</small>
+
 ###### Artículo 22.
 
-Los servicios de consulta en salud mental que proporcione la Secretaría se realizará en Módulos de Salud Mental ubicados en centros de salud o unidades hospitalarias.
+Los servicios de consulta en salud mental que proporcione la Secretaría serán de manera permanente y continua en todos los centros de salud en comunidades de primer y segundo nivel en el Estado.
 
 ###### Artículo 23.
 
@@ -389,13 +405,17 @@ Los servicios de salud mental de la Secretaría darán seguimiento a los usuario
 
 La Secretaría establecerá una red estatal que integre la atención a la salud mental en establecimientos de primer y segundo nivel de atención a fin de abatir la brecha de atención brindando servicios de salud mental en igualdad de situación con las prestaciones de salud general. Para ello capacitará a médicos generales a fin de brindar atención de primer contacto y seguimiento a los usuarios.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2021)</small>
+
 ###### Artículo 30.
 
-La Secretaría brindará capacitación y autorizará a médicos generales, especialistas en medicina interna u otros médicos especialistas que laboren en instituciones de salud pública a fin de brindar tratamiento y atención en salud mental en el primer y segundo nivel de atención. Los cursos que proporcione la Secretaría en cumplimiento del presente artículo tienen como objeto el acercamiento de los servicios de primer contacto en salud mental a las comunidades y no serán equivalentes a una especialidad.
+La Secretaría contará con profesionistas del área de psicología clínica para que laboren en los centros de salud locales de primer, y segundo nivel en el Estado. Los cursos que proporcione la Secretaría en cumplimiento del presente artículo tienen como objeto el acercamiento de los servicios de psicología clínica como primer contacto en salud mental.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2021)</small>
 
 ###### Artículo 31.
 
-Los profesionales no especializados autorizados para la prestación de servicios de salud mental deberán contar con el registro correspondiente en la Secretaría a fin de fortalecer la organización de la Red, garantizar la capacitación continua del personal que la integra y brindar un seguimiento adecuado a los usuarios de los servicios. El reglamento establecerá los lineamientos para efectos del presente artículo.
+Los profesionistas especializados en el área de psicología clínica deberán contar con el registro correspondiente en la Secretaría, a fin de garantizar la capacitación continua del personal que la integra y brindar un seguimiento adecuado a los usuarios de los servicios. El reglamento establecerá los lineamientos para efectos del presente artículo.
 
 ###### Artículo 32.
 
@@ -822,3 +842,13 @@ P.O. 28 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
+
+P.O. 22 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO 549 POR EL QUE "SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 4°, SE ADICIONA LA FRACCIÓN V RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 10; SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 15; Y, SE REFORMAN LOS ARTÍCULOS 22, 30 Y 31 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO",]
+
+PRIMERO. La presente Reforma de Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo tendrá un plazo de sesenta días naturales para las modificaciones al Reglamento de la presente Ley.
+
+TERCERO. La Secretaría de Salud en el Estado, deberá de garantizar la presentación del servicio de salud mental en los centros de salud locales de primer nivel en el Estado, lo cual deberá realizar de forma progresiva, debiendo contemplar el recurso necesario en la Ley de Ingresos y Presupuesto de Egresos para el ejercicio fiscal 2022 y los sucesivos ejercicios fiscales, para la infraestructura y personal necesario.
