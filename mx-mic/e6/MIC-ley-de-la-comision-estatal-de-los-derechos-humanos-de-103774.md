@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-de-103774"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-21"
-last_updated: "2019-08-28"
+last_updated: "2021-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2021.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 21 de noviembre de 2014.
 
@@ -197,17 +197,23 @@ XII. Coordinar su actividad con la Comisión Nacional de los Derechos Humanos en
 
 XIII. Celebrar convenios y acuerdos en materia de Derechos Humanos con los gobiernos municipales;
 
-XIV. Vigilar el respeto a los Derechos Humanos de las personas privadas de su libertad, en los establecimientos destinados a la detención preventiva, internamiento o reinserción social que se ubiquen en la entidad;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
 
-XV. Requerir la revisión médica de las personas sujetas al sistema de justicia para adolescentes, reos y detenidos, cuando se presuma maltrato o tortura, comunicando a las autoridades competentes los resultados de las mismas;
+XIV. Vigilar el respeto a los Derechos Humanos de las personas que se encuentran en orfanatos, asilos, hospicios, instituciones y organismos asistenciales, hospitales psiquiátricos, así como de aquellas que están privadas de su libertad, en los establecimientos destinados a la detención preventiva, internamiento o reinserción social que se ubiquen en la entidad; a través de la realización de visitas cuando menos una vez al año, así como del establecimiento de otros mecanismos que le permitan dar cumplimiento a esta disposición;
 
-XVI. Solicitar la intervención de la dependencia estatal o municipal correspondiente en materia de seguridad pública, prevención del delito o reinserción social, cuando se tenga conocimiento de que a algún interno le han sido violados sus Derechos Humanos, con la finalidad de que cesen dichas violaciones;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
+
+XV. Requerir la revisión médica de las personas que se encuentran en orfanatos, asilos, hospicios, instituciones y organismos asistenciales, hospitales psiquiátricos, o bien están sujetas al sistema de justicia para adolescentes, reos y detenidos, cuando se presuma maltrato o tortura, comunicando a las autoridades competentes los resultados de las mismas;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
+
+XVI. Solicitar la intervención de la dependencia estatal o municipal correspondiente en materia de seguridad pública, prevención del delito o reinserción social, cuando se tenga denuncia o presunción de que a alguna persona que se encuentran en orfanatos, asilos, hospicios, instituciones y organismos asistenciales, hospitales psiquiátricos o bien a los internos de los centros de readaptación social le han sido violados sus Derechos Humanos, con la finalidad de que cesen dichas violaciones;
 
 XVII. Expedir su Reglamento para su publicación en el Periódico Oficial;
 
 XVIII. Realizar visitas a localidades donde existan actos que puedan derivar en la probable violación a los Derechos Humanos;
 
-XIX. Realizar visitas a orfanatos, asilos, hospicios, instituciones y organismos asistenciales, para verificar la observancia y respeto de los Derechos Humanos;
+XIX. (DEROGADA, P.O. 22 DE JULIO DE 2021)
 
 XX. Formular programas y proponer acciones, en coordinación con las dependencias competentes, para impulsar el cumplimiento de los tratados internacionales de los que deriven disposiciones en materia de Derechos Humanos. Para ello, elaborará y actualizará una recopilación de dichos documentos que deberá ser divulgada de manera amplia entre la población;
 
@@ -1570,3 +1576,17 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO DÉCIMO TERCERO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 20 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 547.- ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 2 Y EL INCISO C) DEL ARTÍCULO 31; Y SE ADICIONAN LOS INCISOS A), B), C) Y D) A LA FRACCIÓN XIX DEL ARTÍCULO 2, LOS ARTÍCULOS 24 BIS, 24 TER, 24 QUATER, 24 QUINQUIES, 24 SEXIES Y 24 SEPTIES, Y DOS PÁRRAFOS AL INCISO C) DE LA FRACCIÓN VII DEL ARTÍCULO 31, DE LA LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN LAS FRACCIONES XIV, XV Y XVI; Y, SE DEROGA LA FRACCIÓN XIX DEL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. A partir de la publicación del presente Decreto, las estancias, casas hogar, albergues y centros de atención integral, deberán de adecuar de forma gradual, en un plazo no mayor a dos años, los requisitos señalados para la operatividad de cada institución.
+
+Asimismo y con la finalidad de dar claridad y certeza en relación a la prestación del transporte público a los adultos mayores, que con dependencia absoluta, necesiten de este servicio, el mismo quedará sujeto a la reglamentación que la Comisión Coordinadora del Transporte Público de Michoacán en coordinación con la Secretaría de Salud (sic).
+
+TERCERO. A partir de la publicación del presente Decreto, la Junta de Asistencia Privada, en un plazo no mayor a sesenta días naturales, rendirá un informe por escrito ante la Comisión de Derechos Humanos del Congreso del Estado, en donde se precisen las necesidades en materia de recursos humanos y económicos, de las estancias, casas hogar, albergues y centros de atención integral.
+
+CUARTO. Hágase del conocimiento de la Comisión Estatal de los Derechos Humanos, el contenido del presente Decreto en la parte que la implica, por medio de su Presidente o Encargado de Despacho, según corresponda.
