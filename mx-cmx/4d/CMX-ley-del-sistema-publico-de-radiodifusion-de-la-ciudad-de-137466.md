@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-publico-de-radiodifusion-de-la-ciudad-de-137466
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-09"
-last_updated: "2019-08-09"
+last_updated: "2021-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137466&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-06-13"
 ---
 # LEY DEL SISTEMA PUBLICO DE RADIODIFUSION DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN PARA LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 22 DE JULIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2021 (ABROGADA).
 
 Ley publicada en el Número 153 de la Gaceta Oficial de la Ciudad de México, el viernes 9 de agosto de 2019.
 
@@ -919,3 +921,45 @@ DÉCIMO QUINTO. Los Lineamientos y Acuerdos de Carácter General, mencionados de
 Palacio Legislativo del Congreso de la Ciudad de México, a los treinta y un días del mes de mayo del año dos mil diecinueve.- POR LA MESA DIRECTIVA.- DIPUTADO JOSÉ DE JESÚS MARTÍN DEL CAMPO CASTAÑEDA, PRESIDENTE.- DIPUTADA ISABELA ROSALES HERRERA, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 3 fracciones XVII y XVIII, 7, 10 fracción II, 12 y 21, párrafo primero, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los trece días del mes de junio.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE CULTURA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 22 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DE LA CIUDAD DE MÉXICO PUBLICADA EL 9 DE AGOSTO DE 2019 EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, Y SE EXPIDE LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga la Ley del Sistema Público de Radiodifusión de la Ciudad de México, publicada el 9 de agosto de 2019 en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto se derogan todas las normas que contravengan las disposiciones contenidas en la presente Ley.
+
+QUINTO. El Consejo de Administración, se instalará dentro de los noventa días naturales siguientes a la entrada en vigor de la presente Ley.
+
+SEXTO. Para los nombramientos de los cargos previstos en los artículos 10, 15 y 20 de la presente Ley, el Congreso de la Ciudad de México a través de las siguientes Comisiones Legislativas, discutirá, aprobará y emitirá las convocatorias respectivas, así como para tramitar y sustanciar el procedimiento para la designación de las personas que integran la estructura orgánica del Sistema:
+
+a) La Comisión de Administración Pública Local será responsable de la integración del Consejo Consultivo Ciudadano de Programación para emitir los siguientes nombramientos:
+
+1. Dos personas Consejeras, para ocupar el cargo durante dos años;
+
+2. Tres personas Consejeras, para ocupar el cargo durante tres años;
+
+3. Tres personas Consejeras, para ocupar el cargo durante cuatro años, y
+
+4. Tres personas Consejeras, para ocupar el cargo durante cinco años.
+
+b) La Comisión de Normatividad, Estudios y Prácticas Parlamentarias será responsable de la designación de las personas ciudadanas que integran el Consejo de Administración de la siguiente manera:
+
+1. Una persona Consejera Ciudadana, para ocupar el cargo durante dos años;
+
+2. Una persona Consejera Ciudadana, para ocupar el cargo durante tres años;
+
+3. Una persona Consejera Ciudadana, para ocupar el cargo durante cuatro años, y
+
+4. Una persona Consejera Ciudadana, para ocupar el cargo durante cinco años.
+
+Asimismo, integrará una terna de personas que aspiren a ocupar la Dirección General del Sistema.
+
+SÉPTIMO. El programa quinquenal del Sistema deberá ser aprobado a más tardar dentro de los 180 días naturales, contados a partir de la integración del último de los Órganos referidos en el artículo 9 de esta Ley.
