@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-para-el-correcto-funcionamiento-y-uso-de-142
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-03-24"
-last_updated: "2020-03-24"
+last_updated: "2021-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142327&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2020-03-10"
 ---
 # REGLAMENTO INTERNO PARA EL CORRECTO FUNCIONAMIENTO Y USO DE LAS INSTALACIONES DEL CENTRO SOCIAL Y DEPORTIVO "ROSARIO IGLESIAS ROCHA"
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://indeporte.cdmx.gob.mx/storage/app/media/2020/gaceta/reglamento-interno-para-el-correcto-funcionamiento-y-uso-de-las-instalaciones-del-centro-social-y-deportivo-rosario-iglesias-rocha.pdf]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL AVISO POR EL CUAL SE DAN A CONOCER LOS ENLACES DIGITALES, DONDE PUEDEN SER CONSULTADOS LOS REGLAMENTOS PARA EL USO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE “VIRGILIO URIBE”, CENTRO SOCIAL Y DEPORTIVO “ROSARIO IGLESIAS ROCHA” y CENTRO DEPORTIVO “RAFAEL PELON OSUNA, PUBLICADO EN LA G.O. DE 22 DE JULIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERNO PARA EL CORRECTO FUNCIONAMIENTO Y USO DE LAS INSTALACIONES DEL CENTRO SOCIAL Y DEPORTIVO “ROSARIO IGLESIAS ROCHA” DE LA CIUDAD DE MÉXICO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2021 (ABROGADO).
 
 Reglamento publicado en el Número 309 de la Gaceta Oficial de la Ciudad de México, el martes 24 de marzo de 2020.
 
@@ -157,3 +157,31 @@ En caso de incumplimiento de cualquiera de las normas, el usuario se hará acree
 C. Roberto Victoria Arellanes
 
 Director de Infraestructura Deportiva
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS AVISOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 22 DE JULIO DE 2021.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL ORDENAMIENTO.]</small>
+
+“AVISO POR EL CUAL SE DAN A CONOCER LOS ENLACES DIGITALES, DONDE PUEDEN SER CONSULTADOS LOS REGLAMENTOS PARA EL USO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE “VIRGILIO URIBE”, CENTRO SOCIAL Y DEPORTIVO “ROSARIO IGLESIAS ROCHA” y CENTRO DEPORTIVO “RAFAEL PELON OSUNA”
+
+Para la consulta de los reglamentos para el correcto uso de las instalaciones mencionadas, deberá remitirse a las siguientes ligas:
+
+1.- REGLAMENTO INTERNO CENTRO SOCIAL Y DEPORTIVO “ROSARIO IGLESIAS ROCHA” https://indeporte.cdmx.gob.mx/storage/app/media/2021/Reglas/1/REGLAMENTO%20INTERNO%20CENTRO%20SOCIAL%20Y%20DEPORTIVO%20ROSARIO%20IGLESIAS%20ROCHA%20DEFINITIVO.pdf
+
+2.- REGLAMENTO INTERNO PISTA OLÍMPICA DE REMO Y CANOTAJE “VIRGILIO URIBE” https://indeporte.cdmx.gob.mx/storage/app/media/2021/Reglas/1/REGLAMENTO%20INTERNO%20PISTA%20OLIMPICA%20DE%20REMO%20Y%20CANOTAJE%20VIRGILIO%20URIBE%20DEFINITIVO.pdf
+
+3.- REGLAMENTO INTERNO CENTRO DEPORTIVO “RAFAEL PELÓN OSUNA” https://indeporte.cdmx.gob.mx/storage/app/media/2021/reglamento/REGLAMENTO%20INTERNO%20PARA%20EL%20CORRECTO%20FUNCIONAMIENTO%20Y%20USO%20DE%20LAS%20INSTALACIONES.pdf
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DAN A CONOCER LOS ENLACES DIGITALES, DONDE PUEDEN SER CONSULTADOS LOS REGLAMENTOS PARA EL USO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE “VIRGILIO URIBE”, CENTRO SOCIAL Y DEPORTIVO “ROSARIO IGLESIAS ROCHA” y CENTRO DEPORTIVO “RAFAEL PELON OSUNA”.]
+
+PRIMERO.- Publíquese el presente aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente aviso entrara en vigor al día siguiente de su publicación.
+
+TERCERO.- Se abrogan los reglamentos publicados el día 24 de marzo de 2020, en el número 309, de la Gaceta Oficial de la Ciudad de México, al día siguiente de la publicación del presente aviso en la gaceta oficial de la Ciudad de México.
+
+CUARTO.- El responsable del cumplimiento de los reglamentos mencionados, es Roberto Victoria Arellanes, Director de Infraestructura Deportiva del Instituto del Deporte de la Ciudad de México, número de contacto telefónico 56-01-01-18.
+
+QUINTO.- El responsable de mantener los vínculos en la página web del Instituto es la Coordinación de Comunicación y Alianzas Estratégicas a cargo de Pablo Macedo Angulo, teléfono 56-04-87-05 y 56-04-87-30.
