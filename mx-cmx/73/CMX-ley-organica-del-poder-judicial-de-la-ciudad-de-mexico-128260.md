@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-judicial-de-la-ciudad-de-mexico-128260"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2019-12-24"
+last_updated: "2021-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128260&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2021.
 
 Ley publicada en el Tomo I al Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -2404,7 +2404,11 @@ XXVIII. Formar parte del Comité Coordinador del Sistema Anticorrupción de la C
 
 Las excitativas serán remitidas al Pleno del Tribunal Superior de Justicia, previa determinación de su procedencia y sólo podrán ser presentadas por las partes con interés legítimo; y
 
-XXX. (SIC) Las demás que determinen las Leyes y el Reglamento Interior del Consejo de la Judicatura.
+> <small>(ADICIONADA G.O. 22 DE JULIO DE 2021)</small>
+
+XXX (SIC). Emitir disposiciones y programas que coadyuven para la prevención, atención e indemnización de enfermedades o riesgos de trabajo psicosociales, derivados de la fatiga y estrés laboral para las personas trabajadoras del Poder Judicial de la Ciudad de México; mismas que deberán contemplar mecanismos que garanticen un entorno laboral favorable, y
+
+XXXI. Las demás que determinen las Leyes y el Reglamento Interior del Consejo de la Judicatura.
 
 ###### Artículo 219.
 
@@ -4727,3 +4731,11 @@ PRIMERO.– El presente decreto entrará en vigor al día siguiente de su public
 SEGUNDO.- Remítase a la Jefa de Gobierno de la Ciudad de México para efectos de su publicación.
 
 TERCERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 22 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 218 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, ADICIONANDO UNA NUEVA FRACCIÓN XXXI. EL ACTUAL CONTENIDO DE LA FRACCIÓN XXX, SE TRASLADA DE FORMA ÍNTEGRA Y PASA A FORMAR PARTE DE LA NUEVA FRACCIÓN XXXI".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Remítase a la Jefa de Gobierno para efectos (sic) los efectos procedimentales correspondientes.
