@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2020-03-20"
+last_updated: "2021-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2021.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -332,9 +332,11 @@ V. No ocupar el cargo de ministra o ministro de algún culto religioso, a no ser
 
 ### CAPÍTULO V. DE LA INSTALACIÓN DE LA ALCALDÍA
 
+> <small>(REFORMADO, G.O. 22 DE JULIO DE 2021)</small>
+
 ###### Artículo 23.
 
-La Alcaldía electa se instalará solemne y públicamente el día primero de septiembre del año que corresponda.
+La Alcaldía electa se instalará solemne y públicamente el día primero de octubre del año que corresponda.
 
 ###### Artículo 24.
 
@@ -346,9 +348,11 @@ II. Toma de protesta a las personas integrantes del Concejo por la Alcaldesa o e
 
 III. Declaración de Instalación formal de la Alcaldía por la Alcaldesa o el Alcalde en funciones.
 
+> <small>(REFORMADO, G.O. 22 DE JULIO DE 2021)</small>
+
 ###### Artículo 25.
 
-La Alcaldesa o el Alcalde electo acudirá a sesión solemne en el Congreso, a rendir la protesta del encargo por la mañana del primero de septiembre, en los siguientes términos: “Protestáis guardar y hacer guardar la Constitución Federal, la Constitución Local, y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Alcaldesa/Alcalde que el pueblo os ha conferido?”, a lo que la Alcaldesa o el Alcalde entrante contestará: “Si protesto”, a lo que seguirá: “Si así no lo hiciere, que el pueblo se lo demande”.
+La persona titular de la Alcaldía electa, acudirá a sesión solemne en el Congreso a rendir la protesta del encargo el primero de octubre del año que corresponda, en los siguientes términos: “Protesta guardar y hacer guardar la Constitución Federal, la Constitución Local y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo que el pueblo le ha conferido?”, a lo que la persona titular de la Alcaldía entrante contestará: “Si protesto”, a lo que seguirá: “Si así no lo hiciere, que el pueblo se lo demande”.
 
 ###### Artículo 26.
 
@@ -2383,3 +2387,13 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
 
 CUARTO. Cuando un acuerdo interinstitucional involucre la transferencia de recursos financieros, se atenderá lo dispuesto conforme a la Ley en la materia.
+
+G.O. 22 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 23 Y 25 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
