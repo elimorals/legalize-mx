@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-ascensos-y-recompensas-del-ejercito-401
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-19"
-last_updated: "2019-06-03"
+last_updated: "2021-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40114&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-07-13"
 
 REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JULIO DE 2021.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de julio de 2004.
 
@@ -371,71 +371,45 @@ II. El Estado Mayor comunicará a los participantes la puntuación mínima que s
 
 Previo al inicio de las pruebas de capacidad física, se practicará un examen médico al personal y, en caso de trastorno que ponga en riesgo la salud del participante, no se le permitirá sustentarlas. En este caso, el participante quedará sujeto al artículo 25 de la Ley.
 
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 36.
 
-La capacidad física se acreditará mediante la aprobación de las pruebas siguientes:
+La capacidad física se acreditará mediante la aprobación de una prueba, que consta de los ejercicios de carrera de resistencia, de fuerza de abdomen y de flexión de brazos, conforme a lo siguiente:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE JUNIO DE 2019)</small>
-
-I. Para el personal de Mayores y Oficiales de las armas, pilotos aviadores, servicios técnicos y el que determine la Secretaría:
-
-A. (DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
-
-B. Caminata de 20 kilómetros:
-
-a. Se efectuará en un tiempo de 5 horas;
-
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-b. Se aplicará al siguiente día en que se sustente el examen médico, y
-
-c. Para obtener la calificación de "APTO" deberá efectuarse el recorrido completo y dentro del tiempo establecido.
-
-II. Capacidad física, consistente en carrera de resistencia y pista de obstáculos para los Jefes, Oficiales y Sargentos Primeros Especialistas, así como aquellos participantes que determine el Estado Mayor:
+I. Para el personal de Mayores, Oficiales de las armas y servicios, así como Sargentos Primeros Especialistas, y el que determine el Estado Mayor:
 
 A. Carrera de resistencia:
 
-a. Se efectuará sobre una pista atlética de 400 metros, en un tiempo de 12 minutos;
+a) Se efectuará sobre una pista de atletismo de 400 metros, en un tiempo de 12 minutos;
 
-b. El recorrido completo tiene un valor de 50 puntos, conforme a la edad, sexo y distancia recorrida, de la forma siguiente:
+b) El recorrido completo tiene un valor máximo de 40 puntos, conforme a la edad, sexo y distancia recorrida, de la forma siguiente:
 
-Masculino Femenino Puntos
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O.F. DE 22 DE JULIO DE 2021, PÁGINA 42.]</small>
 
-1. De 20 a 30 años:
+c) Se asignarán 5 puntos por cada 100 metros recorridos entre la distancia mínima y la máxima, y
 
-Máxima 2,800 Mts. 2,400 Mts. 50
+d) El recorrido inferior a la distancia mínima establecida para cada edad y sexo se calificará con “0” cero puntos, y
 
-Mínima 2,300 Mts. 1,900 Mts. 30
+B. Ejercicios:
 
-2. De 31 a 35 años:
+a) Se realizarán inmediatamente, ya sea antes o después de la carrera de resistencia;
 
-Máxima 2,600 Mts. 2,200 Mts. 50
+b) Constarán de abdominales y flexión de brazos (lagartijas) para medir la fuerza corporal. Las características, forma de ejecutarlas y los diversos lineamientos para calificar estos ejercicios, se describirán en el instructivo correspondiente;
 
-Mínima 2,100 Mts. 1,700 Mts. 30
+c) El ejercicio de abdominales continuas tienen un valor máximo de 30 puntos, conforme a la edad y sexo de la forma siguiente:
 
-3. De 36 a 40 años:
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O.F. DE 22 DE JULIO DE 2021, PÁGINA 43.]</small>
 
-Máxima 2,400 Mts. 2,000 Mts. 50
+El número de repeticiones inferior a la cantidad mínima establecida para cada edad y sexo se calificará con “0” cero puntos, y
 
-Mínima 1,900 Mts. 1,500 Mts. 30
+d) El ejercicio de flexiones de brazos continúas tienen un valor máximo de 30 puntos, conforme a la edad y sexo de la forma siguiente:
 
-4. De 41 años o más:
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O.F. DE 22 DE JULIO DE 2021, PÁGINAS DE LA 43 A LA 44.]</small>
 
-Máxima 2,300 Mts. 1,800 Mts. 50
+El número de repeticiones inferior a la cantidad mínima establecida para cada edad y sexo se calificará con “0” cero puntos, y
 
-Mínima 1,800 Mts. 1,300 Mts. 30
-
-c. Se asignarán 2 puntos por cada 50 metros recorridos entre la distancia mínima y la máxima, y
-
-d. El recorrido inferior a la distancia mínima establecida para cada edad y sexo, se calificará con "0" cero puntos.
-
-B. Pista de obstáculos:
-
-a. Esta prueba se realizará inmediatamente después de concluir la carrera de resistencia;
-
-b. La pista constará con diez obstáculos para medir fuerza, elasticidad y coordinación. Las características se describirán en el Instructivo correspondiente, y
-
-c. El valor total de esta prueba será de 50 puntos, correspondiendo 5 puntos por cada obstáculo superado adecuadamente.
+II. Para resultar apto, deberá obtener 60 puntos o más en la sumatoria total de los tres ejercicios (carrera de resistencia, abdominales y flexión de brazos), siendo obligatorio presentar los tres ejercicios.
 
 ###### ARTÍCULO 37.
 
@@ -1527,45 +1501,47 @@ VI. No acreditarán buena salud los participantes que en el examen médico se en
 
 VII. El resultado del examen médico se calificará como "ACREDITA BUENA SALUD" o "NO ACREDITA BUENA SALUD", siendo determinante y definitivo acreditar buena salud para el ascenso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 95.
 
-El área de capacidad física evaluará la suficiencia de los participantes mediante la prueba de caminata, de acuerdo a los lineamientos siguientes:
+El área de capacidad física evaluará la suficiencia de los participantes mediante una prueba, de acuerdo con los lineamientos siguientes:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE JUNIO DE 2019)</small>
+I. Será presentada por los Coroneles y Tenientes Coroneles de las armas y servicios que acrediten buena salud en el examen médico;
 
-I. Será presentada por los Coroneles y Tenientes Coroneles de las armas y de los servicios del Ejército y Fuerza Aérea Mexicanos que acrediten buena salud en el examen médico, conforme a lo siguiente:
+II. Consistirá en los ejercicios de carrera de resistencia, de abdominales y de flexión de brazos (lagartijas), conforme a lo siguiente:
 
-A. (DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
+A. Carrera de resistencia:
 
-B. Caminata:
+a) Se efectuará sobre una pista de atletismo de 400 metros, en un tiempo de 12 minutos;
 
-a. Parámetros:
+b) El recorrido completo tiene un valor máximo de 40 puntos, conforme a la edad, sexo y distancia recorrida, de la forma siguiente:
 
-1. Distancia: 15 kilómetros;
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O.F. DE 22 DE JULIO DE 2021, PÁGINAS DE LA 44 A LA 45.]</small>
 
-2. Tiempo: 4 horas;
+c) Se asignarán 5 puntos por cada 100 metros recorridos entre la distancia mínima y la máxima, y
 
-3. Altos horarios: 10 minutos, y
+d) El recorrido inferior a la distancia mínima establecida para cada edad y sexo se calificará con “0” cero puntos, y
 
-4. Valores: Apto o no apto.
+B. Ejercicios:
 
-b. Lineamientos para el desarrollo de la prueba:
+a) Se realizarán inmediatamente, ya sea antes o después de la carrera de resistencia;
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+b) Constarán de abdominales y flexiones de brazos continúas para medir la fuerza corporal. Las características, forma de ejecutarlos y los diversos lineamientos para calificar estos ejercicios, se describirán en el instructivo correspondiente;
 
-1. Se aplicará al siguiente día en que se sustente el examen médico;
+c) El ejercicio de abdominales continuas tiene un valor máximo de 30 puntos, conforme a la edad y sexo de la forma siguiente:
 
-2. Se organizará a los participantes por grupos y se les entregará un escapulario para su control durante la marcha;
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O.F. DE 22 DE JULIO DE 2021, PÁGINA 45.]</small>
 
-3. Previo al inicio, la Dirección General de Sanidad practicará una revista médica al personal participante para comprobar su estado de salud y determinar si se encuentra en condiciones de presentar la citada prueba;
+El número de repeticiones inferior a la cantidad mínima establecida para cada edad y sexo se calificará con “0” cero puntos, y
 
-4. Cada 50 minutos de recorrido se llevará a cabo un alto horario;
+d) El ejercicio de flexión de brazos (lagartijas) continuas tienen un valor máximo de 30 puntos, conforme a la edad y sexo de la forma siguiente:
 
-5. Al participante que no realice el recorrido completo en el tiempo límite autorizado, se le calificará como "NO APTO", y
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O.F. DE 22 DE JULIO DE 2021, PÁGINA 46.]</small>
 
-6. Al arribar al punto final, el resultado de la prueba será comunicado a los participantes por el Presidente del centro de examen, siendo determinante y definitivo resultar "APTO" para el ascenso.
+El número de repeticiones inferior a la cantidad mínima establecida para cada edad y sexo se calificará con “0” cero puntos, y
+
+III. Para resultar apto, deberá obtener 60 puntos o más en la sumatoria total de los tres ejercicios (carrera de resistencia, abdominales y flexión de brazos), siendo obligatorio presentar los tres ejercicios.
 
 SUBSECCIÓN "D"
 
@@ -2128,6 +2104,16 @@ QUINTO.- Los discentes que se encuentren en el supuesto que antecede, una vez qu
 D.O.F. 3 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+D.O.F. 22 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 36 Y 95 DEL REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
