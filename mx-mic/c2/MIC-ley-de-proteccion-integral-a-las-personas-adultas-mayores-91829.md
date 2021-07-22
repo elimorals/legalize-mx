@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-integral-a-las-personas-adultas-mayores-91829
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-24"
-last_updated: "2020-12-04"
+last_updated: "2021-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2021.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el jueves 24 de enero de 2013.
 
@@ -91,7 +91,25 @@ XVII. Ley. Ley de Protección Integral a las Personas Adultas Mayores del Estado
 
 XVIII. Gobierno Municipal. Forma de gobierno de un Municipio, sea a través de un Ayuntamiento o por usos y costumbres;
 
-XIX. Persona adulta mayor. Aquella persona que cuente con sesenta años o más de edad y que, por cualquier motivo, se encuentre domiciliada o en tránsito en el territorio del Estado de Michoacán, sea cual fuere su condición física o mental;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
+
+XIX. Persona adulta mayor. Es aquella persona que tiene sesenta años de edad o más y que, por cualquier motivo, se encuentre bajo la jurisdicción del Estado de Michoacán de Ocampo, sea cual fuere su condición física, mental, intelectual o sensorial y que con base en su grado de autonomía y capacidad de autorrealización podrá identificársele como:
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
+
+a) Independiente: Aquella persona apta para desarrollar actividades físicas y mentales sin ayuda permanente parcial;
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
+
+b) Semidependiente: Aquella a la que sus condiciones físicas y mentales aún le permiten valerse por sí misma, aunque con ayuda permanente parcial;
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
+
+c) Dependiente absoluto: Aquella con una enfermedad crónica o degenerativa por la que requiera ayuda permanente total o canalización a alguna institución de asistencia; y,
+
+(ADICONADO, P.O. 22 DE JULIO DE 2021)
+
+d) En situación de riesgo o desamparo: Aquellas que, por problemas de salud, abandono, carencia de apoyos económicos, familiares, contingencias ambientales o desastres naturales, requieren de asistencia y protección del Estado, a través de cualquiera de sus autoridades o de la sociedad organizada.
 
 XX. Subsidio. Prestación pública asistencial de carácter económico y de duración determinada;
 
@@ -759,6 +777,90 @@ VIII. Cada Gobierno Municipal emitirá el reglamento respectivo para la operaci�
 
 IX. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 24 Bis.
+
+Las instalaciones de las estancias, casas hogar, albergues, y centros de atención integral, deberán contar con las áreas y especificaciones que establezcan las Normas Oficiales Mexicanas vigentes emitidas en la materia, y las mejores prácticas y los más altos estándares internacionales de protección de los derechos humanos fundamentales de las personas adultas mayores, teniendo la obligación de adoptar las medidas de ajustes razonables y apoyo que cada situación requiera, así como una visión de acceso universal y de plena inclusión, que garantice su independencia, integridad e intimidad.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 24 Ter.
+
+Las estancias, casas hogar, albergues y centros de atención integral, deberán someterse a las inspecciones que lleve a cabo la Dirección de Protección Civil y a las visitas anuales que lleve a cabo la Comisión Estatal de los Derechos Humanos para vigilar el respeto a los derechos humanos de las personas adultas mayores residentes y usuarios; así como contar con los dispositivos, equipamientos y el suficiente personal interdisciplinar capacitado para prodigar un trato digno y respetuoso de la autonomía e independencia de las personas adultas mayores, que logre un ambiente de seguridad y salubridad, cumpliendo en todo momento de forma puntual con las observaciones y recomendaciones que al efecto se emitan de conformidad con la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 24 Quater.
+
+Las estancias, casas hogar, albergues y centros de atención integral, deberán contar con material suficiente de primeros auxilios para atender cualquier contingencia que se suscite, así como con equipos multidisciplinares de especialistas en geriatría, gerontología, psicología, terapia ocupacional, nutrición y cuidados paliativos.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 24 Quinquies.
+
+Las estancias, casas hogar, albergues y centros de atención integral deberán de contar, como mínimo, con el siguiente personal:
+
+I. Responsable químico y sanitario del establecimiento;
+
+II. Médica o Médico Especialista en geriatría, gerontología y cuidados paliativos;
+
+III. Psicólogo;
+
+IV. Terapeuta ocupacional;
+
+V. Enfermera;
+
+VI. Cuidador (los necesarios para atender a los ingresados de forma adecuada y suficiente de acuerdo al número y grado de autonomía de los adultos mayores a su cargo);
+
+VII. Trabajador social, solo para los establecimientos de los sectores público y social;
+
+VIII. Dentista;
+
+IX. Nutriólogo;
+
+X. Intendente; y,
+
+XI. Vigilante, las 24 horas.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 24 Sexies.
+
+Las estancias, casas hogar, albergues y centros de atención integral, que brinden servicios de manera temporal a las personas adultas mayores, deberán de contar preferentemente con el siguiente personal:
+
+I. Responsable químico y sanitario del establecimiento;
+
+II. Trabajador social, solo para los establecimientos de los sectores público y social;
+
+III. Terapeuta ocupacional;
+
+IV. Promotor de salud;
+
+V. Cocinera (con especialidad en nutrición de personas adultas mayores);
+
+VI. Intendente;
+
+VII. Cuidador (los necesarios para atender a los ingresados de forma adecuada y suficiente de acuerdo al número y grado de autonomía de los adultos mayores a su cargo); y,
+
+VIII. Vigilante, las 24 horas.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 24 Septies.
+
+Independientemente de las profesiones u oficios a los que hacen referencia los artículos 24 quinquies y 24 sexies, para formar parte del personal laboral de las estancias, casas hogar, albergues y centros de atención integral, es obligatorio que la persona cumpla con cada uno de los requisitos siguientes:
+
+I. Contar con una edad mínima de 18 años cumplidos al día de su contratación;
+
+II. Acreditar el grado de estudios profesionales que requiera su puesto de trabajo;
+
+III. Asistir a una reunión informativa de sensibilización y capacitación impartida por personal especializado de la propia institución pública o privada, o por quien ésta designe, mediante la cual se les instruya en el tratamiento digno e integral, y las labores de cuidados que deberán prodigar a las personas adultos mayores, respetando en todo momento su dignidad inherente, su independencia, su autonomía, su derecho a la igualdad, a la no discriminación, a no ser infantilizados, a la información y a no ser sometidos a ningún tratamiento médico, terapéutica, ocupacional o de cualquier otro tipo, que vaya en contra de su consentimiento previo, libre e informado, en el mismo sentido, la institución contratante, sea pública o privada, tendrá la obligación de otorgar capacitación y cursos de sensibilización constantes, por lo menos una vez cada seis meses, al personal laboral a su cargo, en materia de trato digno e integral, labores de cuidado, derechos de las personas adultos mayores, prevención, detección, atención y erradicación de actos de violencia en razón de edad, maltrato y negligencia;
+
+IV. Aplicar y aprobar una evaluación psicológica; y,
+
+V. Las demás que requiera la propia institución pública o privada.
+
 ### CAPÍTULO VII. DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS
 
 ###### ARTÍCULO 25.
@@ -905,7 +1007,21 @@ b) Tratándose de instituciones financieras:
 
 3. Habilitar una ventanilla especial cuando se brinde el servicio de pago de nómina a pensionados y jubilados, para que los usuarios realicen su operación con prontitud.
 
-c) Tratándose de personas físicas y morales que presten el servicio de transporte público en el Estado, considerarán otorgar tarifas preferenciales a los adultos mayores; de igual forma, velarán que por ningún motivo las persona adultas mayores viajen de manera inapropiada.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2021)</small>
+
+c) Tratándose de personas físicas y morales concesionarios y permisionarios que presten el servicio público de transporte en el Estado, deberán otorgar tarifas preferentes a las personas adultas mayores y servicio gratuito a aquellas que se encuentren bajo tratamiento médico, rehabilitatorio, terapéutico, psicológico o psiquiátrico; de igual forma, velarán, bajo su más estricta responsabilidad, que por ningún motivo las persona (sic) adultas mayores viajen de manera inapropiada, insalubre, insegura o incómoda. Debiendo de asegurarse que dichas unidades del servicio público de transporte concesionado o permisionado cumplan gradualmente con el principio constitucional de acceso universal pleno, adoptando activamente las medidas de ajuste razonable que la situación amerite para que estas sean plenamente accesibles y se logre garantizar el derecho humano fundamental a la movilidad.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
+
+Para dar eficacia a la prestación gratuita del servicio público de transporte concesionado o permisionado, al que se refiere el párrafo anterior, las autoridades competentes de salud o asistencia social, a que se refiere la presente Ley, deberán expedir identificación o credencial oficial intransferible, la que deberá de ser mostrada por las personas adultas mayores cada que hagan uso del servicio público de trasporte concesionado o permisionado. El goce de dicha prerrogativa quedará acotado al tiempo que dure el tratamiento médico, psicológico, psiquiátrico, terapéutico o de diversa índole, que reciban y a los traslados a las instituciones que los presten y de vuelta a sus domicilios particulares, casas hogar o cualquier institución social en la que habiten de forma habitual. De ser necesario para garantizar la seguridad, la integridad y el bienestar integral de la persona adulta mayor, la autoridad competente deberá extender una credencial a un familiar o persona diversa que la acompañe, para los mismos fines de gratuidad en la prestación del servicio público de transporte.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
+
+Las dependencias y entidades de la administración pública estatal y de los municipios, deberán contar con unidades de transporte adecuado para el traslado gratuito de las personas adultas mayores en condición de dependencia absoluta o en situación de riesgo o desamparo, a las instituciones públicas de salud o de asistencia social y a sus domicilios, por el tiempo que duren los tratamientos de salud, psicológicos, psiquiátricos, terapéuticos o de diversa índole que reciban, cuando así lo soliciten ante la autoridad competente, o celebrar convenios con quién brinde el servicio para su prestación.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
+
+Además deberán elaborar un padrón de concesionarios y permisionarios de servicio público para que presten el servicio gratuito y las tarifas preferentes a que hace alusión el presente inciso, con la finalidad de que puedan acceder a un subsidio del Estado, por la prestación de este servicio.
 
 VIII. Recibir, canalizar y dar seguimiento a las quejas y propuestas sobre la atención y trato de las autoridades, instituciones, organismos y empresas privadas;
 
@@ -1274,3 +1390,17 @@ P.O. 4 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
+
+P.O. 22 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 547.- ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 2 Y EL INCISO C) DEL ARTÍCULO 31; Y SE ADICIONAN LOS INCISOS A), B), C) Y D) A LA FRACCIÓN XIX DEL ARTÍCULO 2, LOS ARTÍCULOS 24 BIS, 24 TER, 24 QUATER, 24 QUINQUIES, 24 SEXIES Y 24 SEPTIES, Y DOS PÁRRAFOS AL INCISO C) DE LA FRACCIÓN VII DEL ARTÍCULO 31, DE LA LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN LAS FRACCIONES XIV, XV Y XVI; Y, SE DEROGA LA FRACCIÓN XIX DEL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. A partir de la publicación del presente Decreto, las estancias, casas hogar, albergues y centros de atención integral, deberán de adecuar de forma gradual, en un plazo no mayor a dos años, los requisitos señalados para la operatividad de cada institución.
+
+Asimismo y con la finalidad de dar claridad y certeza en relación a la prestación del transporte público a los adultos mayores, que con dependencia absoluta, necesiten de este servicio, el mismo quedará sujeto a la reglamentación que (sic) la Comisión Coordinadora del Transporte Público de Michoacán en coordinación con la Secretaría de Salud.
+
+TERCERO. A partir de la publicación del presente Decreto, la Junta de Asistencia Privada, en un plazo no mayor a sesenta días naturales, rendirá un informe por escrito ante la Comisión de Derechos Humanos del Congreso del Estado, en donde se precisen las necesidades en materia de recursos humanos y económicos, de las estancias, casas hogar, albergues y centros de atención integral.
+
+CUARTO. Hágase del conocimiento de la Comisión Estatal de los Derechos Humanos, el contenido del presente Decreto en la parte que la implica, por medio de su Presidente o Encargado de Despacho, según corresponda.
