@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-para-el-correcto-funcionamiento-y-uso-de-142
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-03-24"
-last_updated: "2020-03-24"
+last_updated: "2021-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142326&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2020-03-10"
 ---
 # REGLAMENTO INTERNO PARA EL CORRECTO FUNCIONAMIENTO Y USO DE LAS INSTALACIONES DE LA PISTA OLIMPICA DE REMO Y CANOTAJE "VIRGILIO URIBE"
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://indeporte.cdmx.gob.mx/storage/app/media/2020/gaceta/reglamento-interno-para-el-correcto-funcionamiento-y-uso-de-las-instalaciones-de-la-pista-olimpica-de-remo-y-canotaje-virgilio-uribe.pdf]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL “AVISO POR EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO DE LAS CUOTAS CORRESPONDIENTES AL USO, APROVECHAMIENTO Y/O EXPLOTACIÓN DE DIVERSOS ESPACIOS Y/O ACTIVIDADES COMO SON LA PISTA OLÍMPICA DE REMO Y CANOTAJE, VIRGILIO URIBE, EL CENTRO SOCIAL Y DEPORTIVO, ROSARIO IGLESIAS ROCHA, LA CANCHA DE FRONTÓN Y CANCHAS DE TENIS Y PÁDEL UBICADAS EN LAS INSTALACIONES DE LA ALBERCA OLÍMPICA, FRANCISCO MÁRQUEZ", PUBLICADO EN LA G.O. DE 22 DE JULIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERNO PARA EL CORRECTO FUNCIONAMIENTO Y USO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE “VIRGILIO URIBE”
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE JULIO DE 2021 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 24 de marzo de 2020.
 
@@ -149,3 +149,19 @@ XXXII. Para quejas o denuncias, favor de remitirlas a la Secretaria de la Contra
 C. Roberto Victoria Arellanes
 
 Director de Infraestructura Deportiva
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 22 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO DE LAS CUOTAS CORRESPONDIENTES AL USO, APROVECHAMIENTO Y/O EXPLOTACIÓN DE DIVERSOS ESPACIOS Y/O ACTIVIDADES COMO SON LA PISTA OLÍMPICA DE REMO Y CANOTAJE, VIRGILIO URIBE, EL CENTRO SOCIAL Y DEPORTIVO, ROSARIO IGLESIAS ROCHA, LA CANCHA DE FRONTÓN Y CANCHAS DE TENIS Y PÁDEL UBICADAS EN LAS INSTALACIONES DE LA ALBERCA OLÍMPICA, FRANCISCO MÁRQUEZ".]
+
+PRIMERO.- Publíquese el presente aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente aviso entrara en vigor al día siguiente de su publicación.
+
+TERCERO.- Se abrogan los reglamentos publicados el día 24 de marzo de 2020, en el número 309, de la Gaceta Oficial de la Ciudad de México, al día siguiente de la publicación del presente aviso en la gaceta oficial de la Ciudad de México.
+
+CUARTO.- El responsable del cumplimiento de los reglamentos mencionados, es Roberto Victoria Arellanes, Director de Infraestructura Deportiva del Instituto del Deporte de la Ciudad de México, número de contacto telefónico 56-01-01-18.
+
+QUINTO.- El responsable de mantener los vínculos en la página web del Instituto es la Coordinación de Comunicación y Alianzas Estratégicas a cargo de Pablo Macedo Angulo, teléfono 56-04-87-05 y 56-04-87-30.
