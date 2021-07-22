@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2021-05-04"
+last_updated: "2021-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -155,23 +155,29 @@ XXXIII. Osario Común: El área donde se depositarán los restos áridos de sere
 
 XXXIV. Pandemia: La propagación mundial de una enfermedad;
 
-XXXV. Secretaría: La Secretaría de Salud del Estado;
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2021)</small>
 
-XXXVI. Secretaría Federal: La Secretaría de Salud de la Administración Pública Federal;
+XXXV. Salud Mental: Estado de bienestar que una persona experimenta como resultado de su buen funcionamiento en los aspectos cognoscitivos, afectivos, conductuales, y, en última instancia, al despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación;
 
-XXXVII. Sistema: El Sistema Estatal de Salud;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
 
-XXXVIII. Terreno: Porción de superficie terrestre en la que se puede desplantar una construcción;
+XXXVI. La Secretaría. La Secretaría de Salud del Estado;
 
-XXXIX. Urgencia Epidemiológica: Daño a la salud originado por la presencia de agentes microbiológicos, químicos o tóxicos, que ocasionan brotes o epidemias, incluyendo las enfermedades reemergentes o exóticas;
+XXXVII. Secretaría Federal: La Secretaría de Salud de la Administración Pública Federal;
+
+XXXVIII. Sistema: El Sistema Estatal de Salud;
+
+XXXIX. Terreno: Porción de superficie terrestre en la que se puede desplantar una construcción;
+
+XL. Urgencia Epidemiológica: Daño a la salud originado por la presencia de agentes microbiológicos, químicos o tóxicos, que ocasionan brotes o epidemias, incluyendo las enfermedades reemergentes o exóticas;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE ENERO DE 2021)</small>
 
-XL. Vigilancia epidemiológica: Recolección sistemática, continua, oportuna y confiable de información relevante y necesaria sobre algunas condiciones de salud de la población;
+XLI. Vigilancia epidemiológica: Recolección sistemática, continua, oportuna y confiable de información relevante y necesaria sobre algunas condiciones de salud de la población;
 
-XLI. Vector: Al transportador viviente y transmisor biológico del agente causal de enfermedad, artrópodo que transmite el agente causal de una enfermedad, por picadura, mordedura, o por sus desechos; y,
+XLII. Vector: Al transportador viviente y transmisor biológico del agente causal de enfermedad, artrópodo que transmite el agente causal de una enfermedad, por picadura, mordedura, o por sus desechos; y,
 
-XLII. Verificadores: Las personas designadas por la autoridad sanitaria competente para realizar diligencias de vigilancia sanitaria, de conformidad con lo dispuesto en la Ley General de Salud, esta Ley y demás disposiciones aplicables.
+XLIII. Verificadores: Las personas designadas por la autoridad sanitaria competente para realizar diligencias de vigilancia sanitaria, de conformidad con lo dispuesto en la Ley General de Salud, esta Ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 3°.
 
@@ -403,9 +409,11 @@ VI. Impulsar en el ámbito estatal un sistema racional de administración y desa
 
 VII. Coadyuvar a una nueva cultura sanitaria con hábitos, costumbres y actitudes favorables a la salud y al uso de los servicios que se ofrecen para su protección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 14.
 
-La coordinación del Sistema estará a cargo de la Secretaría, a la que corresponderá el ejercicio de las siguientes funciones:
+La Coordinación del Sistema, estará a cargo de la Secretaría, a la que corresponderá el ejercicio de las siguientes atribuciones:
 
 I. Establecer y conducir la política estatal en materia de salud, en los términos de la presente Ley y demás disposiciones aplicables, de conformidad con los lineamientos establecidos por el Sistema Nacional de Salud y el Gobernador del Estado;
 
@@ -437,9 +445,15 @@ XIII. Coadyuvar a que la formación y distribución de los recursos humanos para
 
 XIV. Promover e impulsar la participación de la población en el cuidado de la salud;
 
-XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud; y,
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
 
-XVI. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema, y los que determinen las disposiciones generales aplicables.
+XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2021)</small>
+
+XVI. En coordinación con las autoridades educativas proponer y desarrollar programas de prevención del suicidio a causa de trastornos mentales y del comportamiento, en niñas, niños y adolescentes; y;
+
+XVII. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema, y los que determinen las disposiciones generales aplicables.
 
 ###### ARTÍCULO 15.
 
@@ -660,6 +674,10 @@ IX. La seguridad sanitaria de los alimentos en todo su proceso.
 ###### ARTÍCULO 30.
 
 La Salud Pública tiene por objeto promover la salud, para prevenir enfermedades y prolongar la vida, a través del esfuerzo comunitario organizado.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
+
+Dentro de las necesidades básicas del ser humano se encuentra la salud mental, por ello la Secretaría de Salud establecerá el servicio de psicología permanente en todos los establecimientos de salud de primer nivel de atención en el Estado y de psiquiatría, cuando sea referenciado al segundo nivel de salud.
 
 ###### ARTÍCULO 31.
 
@@ -2696,3 +2714,13 @@ P.O. 4 DE MAYO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. La Secretaría de Finanzas y Administración y la Secretaría de Salud, garantizarán la suficiencia presupuestaria para los fines del presente Decreto.
+
+P.O. 22 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 549 POR EL QUE “SE ADICIONA LA FRACCIÓN XXXV RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 2°, SE REFORMA LA FRACCIÓN XV Y SE ADICIONA UNA FRACCIÓN XVI RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 14; Y, SE ADICIONA UN SEGUNDO PÁRRAFO ARTÍCULO 30 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. La presente Reforma de Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo tendrá un plazo de sesenta días naturales para las modificaciones al Reglamento de la presente Ley.
+
+TERCERO. La Secretaría de Salud en el Estado, deberá de garantizar la prestación del servicio de salud mental en los centros de salud locales de primer nivel en el Estado, lo cual deberá realizar de forma progresiva, debiendo contemplar el recurso necesario en la Ley de Ingresos y Presupuesto de Egresos para el ejercicio fiscal 2022 y los sucesivos ejercicios fiscales, para la infraestructura y personal necesario.
