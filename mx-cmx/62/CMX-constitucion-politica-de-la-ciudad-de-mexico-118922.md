@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2020-08-31"
+last_updated: "2021-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2021.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -243,6 +243,10 @@ G. Derecho a defender los derechos humanos
 H. Acceso a la justicia
 
 Toda persona tiene derecho a acceder a la justicia, a la tutela judicial efectiva y al debido proceso, así como a la defensa y asistencia jurídica gratuitas y de calidad en todo proceso jurisdiccional, en los términos que establezca la ley.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], G.O. 22 DE JULIO DE 2021)</small>
+
+Los órganos de impartición de justicia implementarán los mecanismos que permitan el derecho de acceso a la justicia, mediante el uso de las tecnologías de la información y comunicación, a efecto de tramitar los procesos jurisdiccionales en todas sus instancias de manera alternativa y adicional a su tramitación escrita, de acuerdo con su naturaleza y formalidades esenciales. Para ello, todos los órganos jurisdiccionales contarán con un Sistema de Justicia Electrónica, que garantice la interoperabilidad e interconexión entre los sistemas que utilicen, en los términos que señalen esta Constitución y las leyes.
 
 I. Libertad de creencias
 
@@ -2137,6 +2141,10 @@ Del Poder Judicial
 A. De la función judicial
 
 La función judicial se regirá por los principios de legalidad y honradez, accesibilidad, transparencia, máxima publicidad y rendición de cuentas.
+
+> <small>(ADICIONADO, G.O. 22 DE JULIO DE 2021)</small>
+
+Para garantizar el acceso a la justicia de forma ágil y oportuna, el Poder Judicial, a través del Consejo de la Judicatura; el Tribunal Electoral, el Sistema de Justicia Laboral y el Tribunal de Justicia Administrativa, todos de la Ciudad de México, contarán con un Sistema de Justicia Electrónica, acorde con el principio de equivalencia funcional y mediante el uso de las tecnologías de la información y la comunicación, a efecto de proporcionar las herramientas para tramitar los juicios y sus instancias, en forma electrónica, de manera alternativa y adicional a su tramitación escrita, de acuerdo con su naturaleza y formalidades esenciales.
 
 B. De su integración y funcionamiento
 
@@ -4235,3 +4243,29 @@ Primero. Publíquese en la Gaceta Oficial de la Ciudad de México.
 Segundo. El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Tercero. Remítase a la Jefa de Gobierno para sus efectos legales correspondientes.
+
+G.O. 22 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL APARTADO H, DEL ARTÍCULO 6; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL APARTADO A, DEL ARTÍCULO 35, AMBOS DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el 1° de enero de 2022.
+
+TERCERO. El Congreso de la Ciudad de México, contará con un plazo de ciento ochenta días naturales para reformar la legislación secundaria que haga posible la implementación y materialización del presente Decreto.
+
+CUARTO. El Poder Judicial a través del Consejo de la Judicatura, el Tribunal Electoral y el Tribunal de Justicia Administrativa, todos de la Ciudad de México, deberán implementar las plataformas, sistemas y herramientas tecnológicas necesarias para la modernización y adecuado funcionamiento del Sistema de Justicia Digital, de manera paulatina y de acuerdo a su propia suficiencia presupuestal, atendiendo enunciativa, pero no limitativamente las siguientes características:
+
+I. Implementación del expediente electrónico;
+
+II. Empleo de firma electrónica;
+
+III. Uso de sellos y documentos electrónicos;
+
+IV. Instauración de una Oficialía de Partes Virtual; y
+
+V. Admisión en el desahogo de comunicaciones, exhortos, oficios, audiencias, notificaciones y demás diligencias judiciales mediante el uso del correo electrónico, mensaje de datos, videograbación, videoconferencia o cualquier otro formato electrónico que lo permita;
+
+Los sistemas y herramientas electrónicas que a la entrada en vigor de la reforma se hayan implementado serán válidos y, en su caso, se ajustarán al presente Decreto.
+
+QUINTO. En tanto se instituye el Sistema de Justicia Laboral, en términos del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y el Artículo 39 de la Constitución Política de la Ciudad de México, la Junta Local de Conciliación y Arbitraje deberá implementar progresivamente las plataformas, sistemas y herramientas tecnológicas necesarias para su modernización y adecuado funcionamiento, en términos del presente Decreto.
