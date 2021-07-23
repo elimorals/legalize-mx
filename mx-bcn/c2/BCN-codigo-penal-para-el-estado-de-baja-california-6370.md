@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2021-04-30"
+last_updated: "2021-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2737,15 +2737,13 @@ XI.- A quien venda o intercambie por algún otro bien, vales de papel o cualquie
 
 XII.- Al que haga efectivos vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales para intercambiar o canjear bienes o servicios, ante las tiendas o establecimientos que los aceptan, con conocimientos (sic) de que son falsos.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2021)</small>
 
 ###### Artículo 220.
 
-Fraude Equiparado.- Comete delito de fraude el que por sí o por interpósita persona, cause perjuicio público o privado al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio o ajeno, con o sin construcciones sin el previo permiso de las autoridades administrativas competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en él señalados. Este delito se sancionará aún cuando no se hubiere totalmente percibido la contraprestación pactada.
+Fraude Equiparado.- Comete delito de fraude y se sancionará con prisión de cuatro a nueve años y hasta quinientas veces el valor diario de la unidad de medida y actualización, al que por sí o por interpósita persona, cause perjuicio público o privado al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio o ajeno, con o sin construcciones sin el previo permiso de las autoridades administrativas competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en él señalados. Este delito se sancionará aun cuando no se hubiere totalmente percibido la contraprestación pactada.
 
 Para los efectos penales se entiende por fraccionar la división de terrenos en lotes.
-
-Este delito se sancionará con las penas previstas en el Artículo 218 de este Código, con la salvedad de la multa mencionada en la fracción II de dicho precepto, que se elevará hasta ochocientos días multa.
 
 ###### Artículo 221.
 
@@ -2763,9 +2761,11 @@ Artículo 222 BIS.- Al que se coloque en estado de insolvencia, con el objeto de
 
 En caso de quiebra se atenderá a lo previsto por la ley especial.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2021)</small>
+
 ###### Artículo 223.
 
-Requisitos de procedibilidad.- Los delitos a que se refiere el presente capítulo se perseguirán por querella del ofendido o de la autoridad facultada para conceder el permiso o la licencia correspondiente, quienes podrán otorgar el perdón judicial, cuando el infractor satisfaga los requisitos de la Ley aplicable, acredite el pago de la reparación de los daños que se hubiesen causado y de las multas impuestas.
+Requisitos de procedibilidad.- Los delitos a que se refiere el presente capítulo, se perseguirán por querella del ofendido o de la autoridad facultada para conceder el permiso o la licencia correspondiente, quienes podrán otorgar el perdón judicial, cuando el infractor satisfaga los requisitos de la Ley aplicable, acredite el pago de la reparación de los daños que se hubiesen causado y de las multas impuestas; se exceptúa el delito contemplado en el artículo 220 del presente Código, el cual se perseguirán de oficio por la representación social.
 
 ### CAPITULO IX. ADQUISICION RECEPCION U OCULTACION DE BIENES PRODUCTO DE UN DELITO
 
@@ -3401,11 +3401,15 @@ El Juez de Control o Tribunal de Enjuiciamiento podrá ordenar, además, la susp
 
 Lo dispuesto en este artículo se observará sin perjuicio de las medidas y sanciones que pueda tomar o imponer la autoridad administrativa en virtud de Leyes especiales y de que en los términos del artículo 247 de este Código sancione a los productores o comerciantes cuando dos o más de ellos acuerden la realización de los actores antes mencionados.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2021)</small>
 
-Artículo 250 BIS.- Del delito de lesividad social.- Se impondrá una pena de tres meses a tres años de prisión y multa de mil a tres mil veces el salario mínimo vigente en el Estado, a la persona que sin contar con el permiso correspondiente o alterando los términos y condiciones que se contengan en él, venda, almacene para su venta, o proporcione bebidas alcohólicas para su consumo o permita que se realicen estas actividades, en la vía pública o en un establecimiento o casa habitación de su posesión o respecto de la cual se conduzca como poseedor, con fines de lucro.
+###### Artículo 250 Bis.
+
+Del delito de lesividad social.- Se impondrá una pena de tres meses a tres años de prisión y multa de mil a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente, a la persona que sin contar con el permiso correspondiente o alterando los términos y condiciones que se contengan en él, venda, almacene para su venta, o proporcione bebidas alcohólicas para su consumo o permita que se realicen estas actividades, en la vía pública o en un establecimiento o casa habitación de su posesión o respecto de la cual se conduzca como poseedor, con fines de lucro.
 
 La misma pena se impondrá a quien venda bebidas alcohólicas a menores de dieciocho años de edad.
+
+Además de las penas señaladas, el juzgador podrá condenar el cierre o clausura del establecimiento, comercio o negocio donde se haya realizado la conducta delictiva, la cual tendrá la misma duración que la pena de prisión impuesta.
 
 (REFORMA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2019)
 
@@ -4233,13 +4237,11 @@ Al servidor público responsable de peculado, se le destituirá e inhabilitará 
 
 ### CAPITULO XV. DELITOS CONTRA EL DESARROLLO URBANO
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2021)</small>
 
-###### ARTÍCULO 307
+Artículo 307 QUINQUIES.- Al servidor público que expida alguna licencia, permiso, autorización, constancia o dictamen para realizar cualquier tipo de construcción, obra de infraestructura, equipamiento urbano, acción de urbanización o asentamiento humano sin observar o contraviniendo el Atlas de Riesgos correspondiente o los planes o programas de desarrollo urbano expedidos en términos de las leyes aplicables, se le impondrán de tres a nueve años de prisión y hasta seiscientos días multa.
 
-QUINQUIES.- Al servidor público que expida alguna licencia, permiso, autorización, constancia o dictamen para realizar cualquier tipo de construcción, obra de infraestructura, equipamiento urbano, acción de urbanización o asentamiento humano sin observar o contraviniendo el Atlas de Riesgos correspondiente, se le impondrán de dos a ocho años de prisión y hasta cuatrocientos días multa.
-
-Las mismas penas se aplicarán a quien a sabiendas de que la licencia, permiso, autorización, constancia o dictamen fueron expedidos contraviniendo el Atlas de Riesgo, realice o permita cualquier tipo de construcción, obra de infraestructura, equipamiento urbano, acción de urbanización o asentamiento humano.
+Las mismas penas se aplicarán a quien a sabiendas de que la licencia, permiso, autorización, constancia o dictamen fueron expedidos contraviniendo el Atlas de Riesgo, o los planes o programas de desarrollo urbano expedidos en términos de las leyes aplicables, realice o permita cualquier tipo de construcción, obra de infraestructura, equipamiento urbano, acción de urbanización o asentamiento humano.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
 
@@ -4250,6 +4252,12 @@ I.- Genere y utilice información falsa o alterada, respecto de los rendimientos
 II.- Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
 
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y de treinta a cien días multa.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
+
+Artículo 307 SEPTIES.- Se aplicará de cuatro a nueve años de prisión y hasta quinientas veces el valor diario de la unidad de medida y actualización, a quienes realicen, dirijan o conformen uno o más asentamientos humanos irregulares.
+
+Para efectos de este Código, se entiende por asentamiento humano irregular, el establecimiento de un grupo de personas, sin autorización previa de la autoridad competente, en un terreno urbano o rústico no destinado para su urbanización de conformidad con los Planes y Programas estatales o municipales de desarrollo urbano.
 
 ###### Artículo 300.
 
@@ -4796,6 +4804,10 @@ En el caso de que las actividades descritas en las fracciones I y II anteriores 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 Artículo 340 BIS.- A quien sin autorización de autoridad ambiental competente, extraiga, corte, tale o trasplante uno o varios árboles ubicados en áreas públicas de competencia estatal o municipal o en terrenos estatales forestales, se le impondrá pena de prisión de seis meses a siete años y multa de cincuenta a dos mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
+
+Artículo 340 TER.- Se impondrá prisión de cuatro a diez años de prisión y de quinientas a mil veces el valor diario de la unidad de medida y actualización, a quienes realicen, dirijan o conformen uno o más asentamientos humanos irregulares sobre áreas protegidas o de preservación ecológica.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
@@ -6148,5 +6160,11 @@ P.O. 26 DE FEBRERO DE 2021.
 P.O. 30 DE ABRIL DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 203 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 34 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA AL ARTÍCULO 1793 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 23 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 280 MEDIANTE EL CUAL SE APRUEBA (SIC) DIVERSAS REFORMAS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
