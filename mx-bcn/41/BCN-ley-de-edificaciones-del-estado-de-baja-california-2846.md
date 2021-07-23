@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2021-02-12"
+last_updated: "2021-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -1061,9 +1061,9 @@ Las opciones anteriores serán aplicables siempre que no se encuentren en la ví
 
 DICTÁMENES DE CONGRUENCIA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2021)</small>
 
-Los ayuntamientos deberán solicitar a la Secretaría de Infraestructura y Desarrollo Urbano del Estado, dictamen de congruencia respecto al Plan Estatal de Desarrollo Urbano, previo a la expedición del dictamen de uso de suelo en las edificaciones siguientes:
+Los ayuntamientos deberán solicitar a la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial, dictamen de congruencia respecto al Plan Estatal de Desarrollo Urbano, previo a la expedición del dictamen de uso de suelo en las edificaciones siguientes:
 
 I. Instalaciones industriales extractivas.
 
@@ -1078,6 +1078,10 @@ IV. Instalaciones de plantas de almacenamiento, centros de distribución y estac
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE JULIO DE 2018)</small>
 
 V. Las no consideradas en los programas de desarrollo urbano.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
+
+VI. Las ubicadas en zonas agrícola, pecuaria, agropecuaria, forestal y ambiental que no sean de competencia federal.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -1105,7 +1109,9 @@ VI. Movimiento de Tierra;
 
 VII. Instalación, modificación o reparación de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico, y;
 
-VIII. En los casos que señala el Artículo 60 de esta Ley, la Autoridad Municipal recabará dictamen de congruencia previamente a la expedición de la Licencia de Construcción, para lo cual enviará a la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, la documentación de las solicitudes que encuadren en este supuesto, quien tendrá 30 días hábiles para dictaminar al efecto; de no responder dentro del término señalado se tendrá por contestado afirmativamente.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
+
+VIII. En los casos que señala el Artículo 60 de esta Ley, la Autoridad Municipal recabará dictamen de congruencia previamente a la expedición de la Licencia de Construcción, para lo cual enviará a la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial, la documentación de las solicitudes que encuadren en este supuesto, quien tendrá 30 días hábiles para dictaminar al efecto; y en caso de que sea remitida para su aprobación a la Comisión de Desarrollo Urbano del Estado, contará con un plazo de 30 días hábiles adicionales a los antes señalados; de no responder dentro del término señalado se tendrá por contestado afirmativamente.
 
 Estos dictámenes causarán los derechos de acuerdo con las tarifas establecidas en la Ley de Ingresos Estatal vigente. Se establecerán en los Reglamentos los plazos máximos en los cuales la Autoridad Municipal resolverá si otorga o no la Licencia de Construcción para cada una de las modalidades anotadas en este Artículo.
 
@@ -1562,3 +1568,19 @@ P.O. 12 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 179 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 73 DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 23 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 278 MEDIANTE EL CUAL SE APRUEBA (SIC) LAS REFORMAS A LOS ARTÍCULOS 60 Y 62 DE LA LEY DE EDIFICACIONES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Los permisos y licencias de uso de suelo y edificaciones que conforme a la presente reforma sean considerados de impacto estatal, hayan sido iniciados con anterioridad a la entrada en vigor de la presente reforma, y que no hayan sido resueltos por la autoridad municipal, deberán contar con el dictamen técnico de congruencia.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del plazo de tres meses contado a partir de la entrada en vigor de la presente reforma, la Secretaria realizara reuniones de coordinación y supervisión con las autoridades municipales en materia de desarrollo urbano para coordinar la implementación de la presente reforma realizando las gestiones necesarias para el efecto de subsanar las irregulariddes que detecten en materia de autorizaciones de otorgamiento de permisos y licencias de uso de suelo y edificaciones en las zonas agrícola, pecuaria, agropecuaria, forestal y ambiental.
