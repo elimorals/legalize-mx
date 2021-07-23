@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2021-05-10"
+last_updated: "2021-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -1741,6 +1741,10 @@ Las autoridades competentes garantizarán que en cualquier procedimiento jurisdi
 
 Asimismo, dispondrán que cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección competente ejerza la representación en suplencia.
 
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
+
+El órgano jurisdiccional está obligado a aplicar la suplencia de la queja en todo procedimiento en el que se vean involucrados niños, niñas y adolescentes, protegiendo y privilegiando sus derechos, aun cuando éstos no formen parte del juicio, las partes no los hagan valer o incluso cuando las pruebas sean insuficientes para esclarecer la verdad de los hechos.
+
 El Ministerio Público tendrá la intervención que las leyes dispongan en los procedimientos jurisdiccionales o administrativos en que niñas, niños o adolescentes estén relacionados. En materia de justicia penal, se estará a lo dispuesto en las disposiciones aplicables.
 
 No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
@@ -3148,3 +3152,9 @@ P.O. 10 DE MAYO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán acorde a las capacidades financieras del Gobierno del Estado y se tomarán en cuenta en el Presupuesto de Egresos del ejercicio fiscal correspondiente.
+
+P.O. 23 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 510. SE ADICIONA EL PÁRRAFO CUARTO, RECORRIÉNDOSE LOS SUBSECUENTES, AL ARTÍCULO 124 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
