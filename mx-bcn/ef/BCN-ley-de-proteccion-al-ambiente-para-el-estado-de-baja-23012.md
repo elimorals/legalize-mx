@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2021-02-12"
+last_updated: "2021-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -883,27 +883,37 @@ VI.- La prestación de servicios a terceros que tengan por objeto la operación 
 
 VII. Aquellas obras y actividades que no estando expresamente reservadas a la Federación en los términos de la Ley General, causen o puedan causar desequilibrios ecológicos, rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente;
 
-VIII. Actividades consideradas riesgosas en los términos de esta Ley y las que se establezcan en los listados de actividades riesgosas; y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+VIII.- Actividades consideradas riesgosas en los términos de esta ley y las que se establezcan en los listados de actividades riesgosas;
 
-IX. La instalación y operación por parte del generador de residuos industriales de sistemas para el almacenamiento, reuso, recuperación, reciclaje, incineración, tratamiento, confinamiento, o disposición final fuera de la instalación donde se generan dichos residuos; y,
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+IX.- La instalación y operación por parte del generador de residuos industriales de sistemas para el almacenamiento, reúso, recuperación, reciclaje, incineración, tratamiento, confinamiento, o disposición final fuera de la instalación donde se generan dichos residuos;
 
-X. Exploración, explotación, extracción y aprovechamiento de materiales o sustancias no reservadas a la Federación, fuera de los centros de población; y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+X.- Exploración, explotación, extracción y aprovechamiento de materiales o sustancias no reservadas a la Federación, fuera de los centros de población;
 
-XI. La construcción y operación de rellenos sanitarios y centros de transferencia; y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+XI.- Construcción y operación de rellenos sanitarios y centros de transferencia;
 
-XII. Las que se determinen en los reglamentos, normas ambientales estatales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+XII. Para la construcción, operación, funcionamiento o establecimiento de cualquier giro comercial, industrial o de servicios que produzcan impactos ambientales significativos sobre el medio ambiente en zonas agrícolas, ganaderas o pesqueras, que no sean de competencia federal; y,
 
-Entre los Municipios y la Secretaría, podrán establecerse convenios a fin de que las propias unidades de gestión ambiental municipales realicen las evaluaciones de impacto ambiental y emitan las autorizaciones, cuando las obras o actividades de que se refiere el presente artículo no sean altamente riesgosas, no causen impactos severos al ambiente o impliquen un uso masivo de recursos naturales.
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XII], P.O. 23 DE JULIO DE 2021)</small>
+
+XIII.- Las que se determinen en los reglamentos, normas ambientales estatales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JULIO DE 2021)</small>
+
+Cuando la solicitud de autorización sea en zonas agrícolas, ganaderas o pesqueras y contravenga el Programa de Ordenamiento Ecológico del Estado, la planeación urbana estatal o municipal, no se otorgará la autorización correspondiente.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2021)</small>
+
+La Secretaría y los Municipios, podrán celebrar convenios de colaboración a fin de que las propias unidades de gestión ambiental municipales realicen las evaluaciones de impacto ambiental y emitan las autorizaciones cuando las obras o actividades de que se refiere el presente artículo no sean altamente riesgosas, no causen impactos al medio ambiente o no impliquen un uso masivo de recursos naturales de la zona, en los términos de la presente ley.
 
 ###### ARTÍCULO 43.
 
@@ -3224,3 +3234,9 @@ P.O. 12 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 172 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 2 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 42 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
