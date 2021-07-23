@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-regimen-disciplinario-del-personal-144123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-09-17"
-last_updated: "2020-09-17"
+last_updated: "2021-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144123&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-09-09"
 
 REGLAMENTO DEL RÉGIMEN DISCIPLINARIO DEL PERSONAL SUSTANTIVO DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO OFICIAL: 23 DE JULIO DE 2021.
 
 Reglamento publicado en el Número 432 de la Gaceta Oficial de la Ciudad de México, el jueves 17 de septiembre de 2020.
 
@@ -190,6 +190,26 @@ IX. Coordinación General de Administración, en su calidad de Vocal; y
 
 X. Instituto de Formación Profesional y Estudios Superiores, en su calidad de Vocal.
 
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2021)</small>
+
+XI. Subprocuraduría de Procesos;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2021)</small>
+
+XII. Órgano de Política Criminal;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2021)</small>
+
+XIII. Unidad de Implementación;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2021)</small>
+
+XIV. Fiscalía Especializada para la Atención de Delitos Electorales; y
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2021)</small>
+
+XV. Las demás Unidades Administrativas con nivel de Coordinación General que se creen en el Reglamento de la Ley Orgánica de la Fiscalía General de Justicia de la Ciudad de México o por Acuerdo que emita la Titular de la Fiscalía General;
+
 ###### Artículo 14.
 
 Para efectos del presente Reglamento, el Consejo de Asuntos Internos tiene las siguientes facultades:
@@ -198,13 +218,19 @@ I. Recibir y acordar los asuntos que le ponga de su conocimiento la persona titu
 
 II. Recibir y aprobar los informes que le ponga de su conocimiento la persona titular de la Secretaría Ejecutiva;
 
-III. Resolver sobre la Responsabilidad en que incurran el personal ministerial y pericial, que contendrá, en su caso, la imposición de la sanción respectiva;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
+
+III. Resolver sobre la responsabilidad en que incurre el personal ministerial y pericial, y determinar en su caso, la imposición de la sanción respectiva o la determinación de no responsabilidad;
 
 IV. Dictar las resoluciones, acuerdos y demás determinaciones necesarias para su debido funcionamiento;
 
-V. Ordenar a la Unidad de Asuntos Internos la notificación de las determinaciones a las que arribe en cada caso;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
 
-VI. Ordenar a la Unidad de Asuntos Internos la práctica de nuevas diligencias en la investigación en los casos donde no existan elementos suficientes para emitir una resolución; y
+V. Ordenar a la Unidad de Asuntos Internos que practique la notificación de las determinaciones a las que arribe en cada caso, a la Coordinación General de Administración, al superior jerárquico que corresponda, así como a los Titulares de las Unidades Administrativas de la Fiscalía General a las que se encuentre adscrito el personal ministerial y pericial de que se trate;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
+
+VI. Ordenar a la Unidad de Asuntos Internos la práctica de nuevas diligencias en la investigación, en los casos donde no existan elementos suficientes para emitir una resolución o para valorar o reconsiderar el sentido de la misma; y
 
 VII. Conocer y resolver el Recurso de Reconsideración que proceda en términos del artículo 61 del presente reglamento.
 
@@ -240,6 +266,10 @@ III. Convocar a sesiones ordinarias según el calendario aprobado y a las extrao
 
 IV. Someter a la aprobación del Consejo de Asuntos Internos, los asuntos de su competencia, así como firmar la documentación que dé cuenta de los acuerdos tomados.
 
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2021)</small>
+
+V. Proponer y someter a la aprobación del Consejo de Asuntos Internos, la presencia de Titulares de otras Unidades Administrativas de la Fiscalía General, así como de otras personas servidoras públicas en calidad de invitados, quienes tendrán únicamente derecho a voz;
+
 ###### Artículo 18.
 
 La persona titular de la Secretaría Ejecutiva del Consejo de Asuntos Internos tiene las siguientes funciones:
@@ -262,7 +292,13 @@ VIII. Elaborar y proponer el calendario anual de sesiones ordinarias, el Informe
 
 IX. Expedir copias certificadas que soliciten las personas integrantes del Consejo de Asuntos Internos, de otras Unidades Administrativas de la Fiscalía General y cualquier otra autoridad que lo solicite; y
 
-X. Las demás que le confiera el presente Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE JULIO DE 2021)</small>
+
+X. Representar al Consejo de Asuntos Internos en los procedimientos administrativos o jurisdiccionales de los que forme parte; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 23 DE JULIO DE 2021)</small>
+
+XI. Las demás que le confiera el presente Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 19.
 
@@ -320,7 +356,9 @@ I. Recibir y acordar los informes de investigación de la Unidad de Administrati
 
 II. Recibir y acordar los asuntos que le ponga de su conocimiento la persona titular de la Secretaría Técnica;
 
-III. Dictar la resolución correspondiente, y en su caso, imponer la sanción que corresponda;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
+
+III. Resolver sobre la responsabilidad en que incurre el personal policial, y determinar, en su caso, la imposición de la sanción respectiva o la determinación de no responsabilidad;
 
 IV. Ordenar a la Unidad Administrativa competente la práctica de nuevas diligencias en la investigación en los casos donde no existan elementos suficientes para emitir una resolución; y
 
@@ -388,7 +426,13 @@ VIII. Elaborar y proponer el calendario anual de sesiones ordinarias, el Informe
 
 IX. Expedir las copias certificadas que se soliciten de otras Unidades Administrativas de la Fiscalía General, cualquiera otra autoridad competente, así como el personal policial contra quien se lleve el procedimiento; y
 
-X. Las demás que le confiera el presente Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE JULIO DE 2021)</small>
+
+X. Representar al Consejo de Honor y Justicia en los procedimientos administrativos o jurisdiccionales de los que forme parte; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 23 DE JULIO DE 2021)</small>
+
+XI. Las demás que le confiera el presente Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 28.
 
@@ -536,11 +580,43 @@ XXXV. Abstenerse de presentar documentación alterada, falsa, apócrifa o carent
 
 XXXVI. Abstenerse de obligar a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas a cambio de permitirles el goce de las prestaciones a que todo el personal tiene derecho;
 
-XXXVII. Aprobar el proceso de evaluación en materia de control de confianza practicado por el Centro de Evaluación y Control de Confianza;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
+
+XXXVII. Realizar las evaluaciones periódicas para acreditar el cumplimiento de los requisitos de permanencia, así como para obtener y mantener vigentes las certificaciones correspondientes, de conformidad con las disposiciones aplicables;
 
 XXXVIII. Permanecer en el servicio nombrado y abstenerse de abandonarlo en todo momento; y
 
-XXXIX. Las demás que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE JULIO DE 2021)</small>
+
+XXXIX. Atender y participar en los procesos, procedimientos y convocatorias tendentes a la capacitación, formación y evaluación, así como aquellos relativos al cumplimiento de requisitos de permanencia, de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2021)</small>
+
+XL. Abstenerse de realizar conductas que eviten o impidan recibir mandatos y notificaciones de autoridad competente;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2021)</small>
+
+XLI. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de la Fiscalía General;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2021)</small>
+
+XLII. Abstenerse de divulgar información y documentación, por cualquier medio, que en términos de las disposiciones aplicables no deba ser difundida, ni entre el personal de la Fiscalía General ni a terceras personas, que estén relacionadas o no con motivo de sus funciones;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2021)</small>
+
+XLIII. Abstenerse de permitir que personas ajenas a la Fiscalía General, realicen actos inherentes a sus funciones o que tengan encomendadas; ni hacerse acompañar de dichas personas en el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2021)</small>
+
+XLIV. Abstenerse de proporcionar domicilios falsos o incorrectos con la finalidad de evitar ser notificado en procedimientos incoados en su contra o en procesos relacionados con el Servicio Profesional de Carrera de la Fiscalía General.
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2021)</small>
+
+XLV. No estar sujeto a proceso penal, con independencia del uso de los recursos procesales a los que se tenga derecho, entre otros, como el Procedimiento Abreviado, la Suspensión Condicional del Proceso, Medidas Cautelares y Medios Alternativos de Solución de Controversia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 23 DE JULIO DE 2021)</small>
+
+XLVI. Las demás que establezcan las disposiciones legales aplicables.
 
 ###### Artículo 36.
 
@@ -552,13 +628,7 @@ La inobservancia a las obligaciones previstas en el artículo anterior, serán s
 
 Además de las establecidas en el artículo 35 del presente Reglamento, el personal policial, dentro y fuera de sus funciones y servicio, tiene las siguientes obligaciones:
 
-I. Recibir la notificación para participar, presentarse, concluir y acreditar:
-
-1. Cursos de capacitación a que sea convocado;
-
-2. Evaluación del desempeño; y
-
-3. Citaciones ministeriales o judiciales.
+I. (DEROGADA, G.O. 23 DE JULIO DE 2021)
 
 II. Abstenerse de realizar todo acto arbitrario o que limite indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la ciudadanía;
 
@@ -632,7 +702,9 @@ Sin perjuicio de lo que se establezca en otras disposiciones legales y reglament
 
 I. Amonestación;
 
-II. Suspensión Temporal o Definitiva; y
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
+
+II. Suspensión Temporal; y
 
 III. Remoción o Destitución del Cargo.
 
@@ -644,9 +716,11 @@ Quien amoneste lo hará de tal manera que ninguna persona de menor jerarquía a 
 
 Para la aplicación de la amonestación, el Consejo de Asuntos Internos o el Consejo de Honor y Justicia, instruirá que notifique al superior jerárquico del personal sustantivo sancionado para que éste ejecute dicha sanción.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2021)</small>
+
 ###### Artículo 42.
 
-La Suspensión Temporal de funciones, podrá ser de carácter preventivo o correctivo atendiendo a las causas que la motiven.
+La Suspensión Temporal de funciones será de carácter preventivo o correctivo, atendiendo a las causas que la motiven, y podrá ser por 5, 10, 15 o hasta 30 días, de acuerdo a la gravedad de la conducta.
 
 ###### Artículo 43.
 
@@ -666,15 +740,29 @@ La remoción o destitución del cargo se actualiza cuando el personal sustantivo
 
 Para los efectos de la imposición de las sanciones al personal sustantivo, el Consejo de Asuntos Internos y el Consejo de Honor y Justicia, según sea el caso, calificará la gravedad de la acción u omisión de conformidad con lo siguiente:
 
-I. No graves: Las que se sancionen con amonestación o suspensión, cuando se incumplan con las obligaciones previstas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, XI, XII, XIV, XVIII, XXI y XXXIX del artículo 35 del presente Reglamento; y
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
 
-II. Graves: Las que se sancionen con remoción o destitución del cargo, cuando se incumplan con las obligaciones previstas en las fracciones X, XIII, XV, XVI, XVII, XIX, XX, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII y XXXVIII del artículo 35 del presente Reglamento.
+I. No graves: Las que se sancionen con amonestación o suspensión, cuando se incumplan con las obligaciones previstas en las fracciones I, II, III, IV, V, VI, VIII, IX, XI, XII, XIV, XVIII, XXI, XLIV y XLVI del artículo 35 del presente Reglamento; y
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2021)</small>
+
+Estas acciones u omisiones serán consideradas como graves, atendiendo al daño o perjuicio que se causen al servicio público o cuando el personal sustantivo incumpla reiteradamente alguna de las obligaciones a las que se refiere el párrafo anterior.
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
+
+II. Graves: Las que se sancionen con remoción o destitución del cargo, cuando se incumplan con las obligaciones previstas en las fracciones VII, X, XIII, XV, XVI, XVII, XIX, XX, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL, XLI, XLII, XLIII y XLV del artículo 35 del presente Reglamento.
 
 ###### Artículo 46.
 
 Con independencia de lo establecido en el artículo anterior, para los efectos de la imposición de sanciones al personal policial, el Consejo de Honor y Justicia, calificará la gravedad de la acción u omisión de conformidad con lo siguiente:
 
-I. No graves: Las que se sancionen con suspensión, cuando se incumplan con las obligaciones previstas en las fracciones I, II, III, VIII, IX, XIV, XVI, XIX, XXIII y XXIX del artículo 37 del presente Reglamento; y
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
+
+I. No graves: Las que se sancionen con amonestación o suspensión del cargo, cuando se incumplan con las obligaciones previstas en las fracciones II, III, VIII, IX, XIV, XVI, XIX, XXII y XXIX del artículo 37 del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2021)</small>
+
+Estas acciones u omisiones serán consideradas como graves, atendiendo al daño o perjuicio que se causen al servicio público o cuando el personal sustantivo incumpla reiteradamente alguna de las obligaciones a las que se refiere el párrafo anterior.
 
 II. Graves: Las que se sancionen con remoción del cargo, cuando se incumplan con las obligaciones previstas en las fracciones, IV, V, VI, VII, X, XI, XII, XIII, XV, XVII, XVIII, XX, XXI, XXII, XXIV, XXV, XXVI, XXVII y XXVIII del artículo 37 del presente Reglamento.
 
@@ -738,13 +826,19 @@ Las diligencias de investigación se practicarán de manera inmediata, oportuna,
 
 La Unidad de Asuntos Internos se ajustará al procedimiento siguiente:
 
-I. Recibirá la queja; radicará el asunto formando expediente y notificará al elemento ministerial o pericial de que se trate, corriéndole traslado para que en un plazo de diez días formule contestación por escrito y ofrezca pruebas, nombrando defensor particular, para lo cual se le pondrá a su disposición el expediente iniciado en su contra para su revisión;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
+
+I. Recibir el expediente de investigación, radicar el asunto, formando expediente de procedimiento disciplinario y notificar al personal sustantivo ministerial o pericial de que se trate, corriéndole traslado respectivo, para que, en un plazo de diez días, formule contestación por escrito y ofrezca pruebas, nombrando para tal efecto, defensor particular, a quien se le pondrá a su disposición, el expediente iniciado en su contra para su revisión;
 
 II. Emitirá la media cautelar o precautoria cuando sea procedente;
 
-III. Transcurrido el plazo señalado, en tres días dictará auto en el cual se resolverá sobre la admisión de pruebas y se citará en cinco días a audiencia de desahogo de las mismas y alegatos. Son admisibles toda clase de pruebas excepto la confesional de autoridades. Si la persona servidora pública deja de comparecer sin causa justificada se tendrán por ciertos los actos u omisiones que se le imputa;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
 
-IV. Celebrará la audiencia de desahogo de pruebas y alegatos, en un plazo de cinco días y cerrará la instrucción, turnando el asunto al Consejo de Asuntos Internos para resolución, la cual será emitida en un plazo de diez días hábiles. Cuando exista causa justificada a juicio de las autoridades podrá ampliarse, por única vez hasta por el plazo de 15 días; y
+III. Transcurrido el plazo señalado, dentro de los tres días hábiles siguientes, dictará auto que resolverá sobre la admisión de pruebas, y dentro de los cinco días hábiles siguientes, se citará a audiencia de desahogo de pruebas y alegatos. Son admisibles toda clase de pruebas, excepto la confesional de autoridades. Si el personal ministerial o pericial de que se trate no presenta contestación por escrito dentro del plazo señalado o deja de comparecer sin causa justificada, se tendrán por ciertos, los actos u omisiones que se le atribuyan y como precluído su derecho;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
+
+IV. Celebrar la audiencia de desahogo de pruebas y alegatos y en un plazo de cinco días, cerrará la instrucción, turnado el asunto a la Secretaría Técnica del Consejo de Asuntos Internos, para que lo someta a consideración de dicho Consejo para su resolución, la cual será emitida en un plazo no mayor de treinta días hábiles. Cuando exista causa justificada, a juicio del Consejo de Asuntos Internos, podrá ampliarse por única vez, hasta por un plazo no mayor de veinte días hábiles para emitir la resolución.
 
 V. Notificará la resolución definitiva de manera personal.
 
@@ -778,7 +872,9 @@ I. Radicado el asunto y se acredite un notorio incumplimiento de las obligacione
 
 II. La Unidad de Asuntos Internos determinará la suspensión temporal, en un plazo máximo de cinco días naturales, contados a partir de la fecha en que se tuvo conocimiento del hecho o exista la presunción de su comisión por el personal ministerial o pericial investigado;
 
-III. La Unidad de Asuntos Internos hará del conocimiento, en el término de 24 horas, la medida cautelar o precautoria aplicada al personal investigado, al superior jerárquico de éste y a la Coordinación General de Administración;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
+
+III. La Unidad de Asuntos Internos hará del conocimiento al superior jerárquico de éste y a la Coordinación General de Administración, en el término de 96 horas, la medida cautelar o precautoria aplicada al personal investigado;
 
 IV. El superior jerárquico lo separará de sus funciones, debiendo entregar el personal ministerial o pericial suspendido, todos los bienes que se le hubieren entregado con motivo de su cargo; y
 
@@ -858,9 +954,13 @@ El Recurso de Reconsideración se sujetará a lo siguiente:
 
 I. Presentar el escrito de interposición;
 
-II. El Consejo que corresponda, acordará su admisión; y
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
 
-III. El Consejo que corresponda emitirá y notificará la resolución respectiva.
+II. La autoridad competente acordará su admisión; y
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2021)</small>
+
+III. La autoridad competente emitirá y notificará la resolución respectiva.
 
 ###### Artículo 64.
 
@@ -881,3 +981,15 @@ Ciudad de México, a 08 de septiembre de 2020
 LIC. ERNESTINA GODOY RAMOS
 
 FISCAL GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 23 DE JULIO DE 2021.
+
+[N DE E. TRANSITORIOS DEL “ACUERDO FGJCDMX/27/2021 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL RÉGIMEN DISCIPLINARIO DEL PERSONAL SUSTANTIVO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en la Gaceta Oficial de la Ciudad de México
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. El Oficial Secretario que haya incumplido alguna de las obligaciones previstas en el presente reglamento, será sancionado de conformidad con el presente, con independencia del cargo que ocupe, con motivo de la transición que se realice al Servicio Profesional de Carrera de la Fiscalía General de Justicia de la Ciudad de México.
