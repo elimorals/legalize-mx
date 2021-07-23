@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-875-de-archivos-generales-del-estado-libre-y-66172"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-30"
-last_updated: "2009-06-05"
+last_updated: "2021-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 875 DE ARCHIVOS GENERALES DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 794 DE ARCHIVOS DEL ESTADO DE GUERRERO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 23 DE JULIO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NUMERO 875 DE ARCHIVOS GENERALES DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2021 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 30 de diciembre de 2008.
 
@@ -382,3 +384,45 @@ P.O. 5 DE JUNIO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Comuníquese él presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos legales conducentes.
+
+P.O. 23 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 794 DE ARCHIVOS DEL ESTADO DE GUERRERO Y SUS MUNICIPIOS”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del estado de guerrero del Estado de Guerrero (sic).
+
+SEGUNDO. A partir de la entrada en vigor de la Ley se abroga la Ley número 875 de Archivos Generales del Estado de Guerrero y se derogan todas aquellas disposiciones que contravengan la presente Ley.
+
+TERCERO. En tanto se expidan las normas archivísticas correspondientes, se aplicarán las disposiciones reglamentarias vigentes en la materia derivadas de la Ley General de Archivos.
+
+CUARTO. El Consejo Local emitirá lineamientos, mecanismos y criterios para la conservación y resguardo de documentos de acuerdo a las características económicas, culturales y sociales de cada región en los municipios que no tengan condiciones presupuestarias ni técnicas y cuenten con una población menor a 70,000 habitantes.
+
+QUINTO. Las Secretarías General de Gobierno, de Finanzas y Administración y de la Contraloría y Transparencia Gubernamental, en el ámbito de sus atribuciones, deberán llevar a cabo las gestiones necesarias para que se autorice conforme a las disposiciones aplicables la estructura orgánica y ocupacional del Archivo General del Estado.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y los subsecuentes. Asimismo, se deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en esta Ley.
+
+SÉPTIMO. El Órgano de Gobierno del Archivo General del Estado, deberá expedir y publicar en el Periódico Oficial del Estado de Guerrero en un periodo no mayor a un año, contado a partir de la entrada en vigor de la presente Ley, el Estatuto Orgánico del Archivo General del Estado.
+
+OCTAVO. El Archivo General del Estado permanecerá sectorizado a la Secretaría General de Gobierno hasta el 31 de diciembre de 2020. A partir del 1 de enero de 2021, se incluirá dentro de la relación de Entidades Paraestatales de la Administración Pública Paraestatal como no sectorizado.
+
+NOVENO. La Secretaría General de Gobierno, con cargo a su presupuesto, proveerá los recursos humanos, materiales, tecnológicos y financieros que requiera el Archivo General para el cumplimiento del presente ordenamiento, hasta el 31 de diciembre de 2020.
+
+DÉCIMO. El Consejo Local deberá empezar a sesionar dentro de los tres meses posteriores a la entrada en vigor de esta Ley.
+
+DÉCIMO PRIMERO. Los sujetos obligados deberán implementar su sistema institucional, dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+
+DÉCIMO SEGUNDO. El Consejo Local deberá integrarse dentro de tres meses a partir de la entrada en vigor de la presente Ley, y elaborar su reglamento en los seis meses subsecuentes.
+
+DÉCIMO TERCERO. El Archivo General del Estado pondrá en operación la plataforma del Registro Estatal de Archivos, dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.
+
+DÉCIMO CUARTO. Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley y (sic) que no han sido organizados y valorados, se les deberá aplicar estos procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental. Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
+
+DÉCIMO QUINTO. Los documentos transferidos a un archivo histórico o a los archivos generales, antes de la entrada en vigor de la Ley, permanecerán en dichos archivos y deberán ser identificados, ordenados, descritos y clasificados archivísticamente, con el objetivo de identificar el contenido y carácter de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación. Aquellos sujetos obligados que cuenten con archivos históricos, deberán prever en el Programa anual el establecimiento de acciones tendientes a identificar, ordenar, describir y clasificar archivísticamente, los documentos que les hayan sido transferidos antes de la entrada en vigor de la Ley. Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
+
+DÉCIMO SEXTO. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Estatal en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO SÉPTIMO. En un plazo de 180 días, contado a partir de la entrada en vigor de la presente Ley, los sujetos obligados deberán establecer programas de capacitación en materia de gestión documental y administración de archivos.
+
+DECIMO OCTAVO. Remítase al titular del Poder Ejecutivo Lic. Héctor Antonio Astudillo Flores, para su conocimiento y para los efectos legales conducentes.
+
+DECIMO NOVENO. Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
