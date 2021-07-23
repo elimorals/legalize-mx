@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-fomento-a-la-investigacion-cientifica-y-tecnologica-5170
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-31"
-last_updated: "2016-12-21"
+last_updated: "2021-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 31 de agosto de 2006.
 
@@ -111,7 +113,13 @@ IV. Celebrar los actos jurídicos necesarios para el cumplimiento del objeto y a
 
 V. La formulación de estímulos fiscales, financieros y facilidades en materia administrativa e industrial, en los términos de las leyes aplicables; y
 
-VI. Las demás que le atribuyan las disposiciones aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
+
+VI. Implementar las acciones necesarias para la divulgación, difusión y fomento de las actividades científicas, tecnológicas y de innovación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE JULIO DE 2021)</small>
+
+VII. Las demás que le atribuyan las disposiciones aplicables en la materia.
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE INVESTIGACIÓN CIENTIFICA Y DESARROLLO TECNOLÓGICO
 
@@ -197,41 +205,33 @@ II. Consejo Técnico Asesor: y
 
 III. Dirección General.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 10.
 
-La Junta de Gobierno será la máxima autoridad de gobierno y estará Integrada por:
+La Junta de Gobierno es la máxima autoridad de gobierno y estará integrada por:
 
-I. Un Presidente, que será el Gobernador del Estado;
+I. Un Presidente, que será la o el Gobernador del Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+II. Un Vicepresidente, que será la o el Secretario de Educación;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+III. Un Secretario Técnico que será la o el Director General del COESICYDET, con derecho a voz, pero no a voto;
 
-II. Un Vicepresidente, que será el Secretario de Educación;
+IV. Ocho vocales, que serán:
 
-III. Un Secretaría Técnico que será el Director General del COESICYDET, con derecho a voz pero no a voto;
+a. La o el Secretario de Finanzas;
 
-IV. Siete vocales que serán:
+b. La o el Secretario de Administración e Innovación Gubernamental;
 
-a) El Secretario de Finanzas y Administración;
+c. La o el Secretario de la Contraloría;
 
-b) El Secretario de la Contraloría;
+d. Tres representantes de las Instituciones de Educación Superior en el Estado;
 
-c) Tres representantes de las Instituciones de Educación Superior en el Estado;
+e. Un representante de los Centros de Investigación en el Estado; y
 
-d) Un representante de los Centros de Investigación en el Estado; y
+f. Un representante del Sector Empresarial.
 
-e) Un representante del Sector Empresarial.
-
-Los representantes a que se refieren los incisos c), d) y e) de este artículo, serán designados a invitación del Presidente de la Junta.
-
-El Gobernador del Estado en su carácter de Presidente de la Junta de Gobierno, será suplido en sus ausencias por el Vicepresidente y tendrá voto de calidad en caso de empate.
-
-Por cada miembro de la Junta se nombrará un suplente que actuará en caso de faltas temporales del titular, en los términos que fije el Reglamento Interno.
-
-También podrán participar con voz pero sin voto, representantes de otras dependencias federales, estatales y municipales, instituciones de investigación, públicas, privadas y sociales, a invitación expresa de la Junta de Gobierno cuando el asunto a tratar así lo amerite.
-
-Los cargos de los integrantes de la Junta de Gobierno, salvo el del Director General serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
+Los representantes a que se refieren los incisos d), e) y f) de este artículo, serán designados a invitación del Presidente de la Junta.
 
 ###### ARTÍCULO 11.
 
@@ -519,13 +519,23 @@ Las personas instituciones públicas o privadas que reciban apoyo por parte del 
 
 ARTÍCULO. 31.- Las personas o instituciones del sector privado que realicen actividades sobre ciencia y tecnología podrán coadyuvar voluntariamente con el Sistema.
 
-### CAPÍTULO V. ACCIONES DE FOMENTO E INTEGRACIÓN DE LA INVESTIGACIÓN CIENTIFICA TECNOLÓGICA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JULIO DE 2021)</small>
 
-### CAPÍTULO VI. DEL FONDO ESTATAL PARA El FOMENTO DE LA CIENCIA Y LA TECNOLOGIA
+### CAPÍTULO IV BIS. DEL REGISTRO ESTATAL DE INVESTIGADORES Y TECNÓLOGOS
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
+
+ARTÍCULO 31 BIS.- El Registro Estatal de Investigadores y Tecnólogos, es una base de datos que forma parte del Sistema Estatal de Información Científica, Tecnológica e Innovación del Estado, que tiene por objeto, obtener y actualizar la información curricular de la comunidad académica, científica y tecnológica que labore en asociaciones civiles, organizaciones e instituciones públicas y privadas de la Entidad.
+
+### CAPÍTULO V. ACCIONES DE FOMENTO E INTEGRACIÓN DE LA INVESTIGACIÓN CIENTIFICA TECNOLÓGICA
 
 ###### ARTÍCULO 32.
 
 Con el objeto de integrar investigación y educción, los centros de investigación y las instituciones de educación superior, promoverán según sus ordenamientos internos, que sus académicos de carrera, profesores e investigadores, participen en actividades de enseñanza frente a grupo, tutorías de estudiantes e investigación o aplicación innovadora del conocimiento.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
+
+El COESICYDET integrará el Registro Estatal de Investigadores y tecnólogos, con el objetivo de fomentar la participación activa de sus integrantes, en proyectos estatales para identificar, alinear y desarrollar acciones en temas y soluciones de las acciones de gobierno; así como propiciar el acercamiento a los centros educativos desde el nivel básico hasta el nivel superior.
 
 ###### ARTÍCULO 33.
 
@@ -579,6 +589,8 @@ Los apoyos mencionados se otorgarán por un tiempo determinado, de acuerdo con e
 
 El COESICYDET podrá suscribir con los gobiernos municipales, convenios de coordinación a efecto de que éstos asuman funciones referidas a los programas y proyectos a cargo del organismo con la finalidad de descentralizar las actividades científicas y tecnológicas.
 
+### CAPÍTULO VI. DEL FONDO ESTATAL PARA El FOMENTO DE LA CIENCIA Y LA TECNOLOGIA
+
 ###### ARTÍCULO 41.
 
 Para los efectos de financiamiento de las actividades científicas y tecnológicas a las que hace referencia la presente Ley, se crea el Fondo Estatal para el Fomento de la Ciencia y la Tecnología, que será constituido y administrado bajo la figura de Fideicomiso.
@@ -627,6 +639,36 @@ II. Los beneficios rendirán a la Junta de Gobierno, los informes periódicos qu
 
 III. Los derechos de propiedad industrial, respecto de los resultados obtenidos por las personas físicas o morales que reciban apoyo económicos del COESICYDET, serán materia de regulación específica en los instrumentos jurídicos que al efecto celebren, en los cuales se protegerán los intereses del Estado.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JULIO DE 2021)</small>
+
+### CAPÍTULO VII. DE LA DIVULGACIÓN, DIFUSIÓN Y FOMENTO DE LA CULTURA CIENTÍFICA, TECNOLÓGICA Y DE INNOVACIÓN
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 47.
+
+Para desarrollar, fortalecer y consolidar una cultura científica, tecnológica y de innovación en el Estado, el Poder Ejecutivo del Estado y, en su caso, el Consejo, impulsará, a través de diversos mecanismos de coordinación y colaboración, la participación de los sectores social, público y privado, para divulgar acciones y difundir actividades científicas, tecnológicas y de innovación.
+
+Asimismo, fomentará la realización de actividades orientadas a la divulgación de la ciencia, tecnología e innovación, al interior de las dependencias y entidades que conformen la administración pública.
+
+Promoverá la creación de una revista científica, tanto impresa como electrónica para la divulgación y difusión de los contenidos científicos aportados por la comunidad académica, científica y tecnológica del estado.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
+
+###### ARTÍCULO 48.
+
+En el ámbito de sus respectivas competencias y de acuerdo con las necesidades del Estado, la demanda social y los recursos disponibles, los sectores gubernamentales, académico, empresarial y social, procurarán:
+
+I. Promover la conservación, consolidación, actualización y desarrollo de la infraestructura destinada a la divulgación y difusión de la ciencia, tecnología e innovación, con el objeto de poner a disposición de las comunidades académica, científica y tecnológica y de los sectores público, privado, productivo y social, la información actualizada y de calidad, sobre ciencia y tecnología en el Estado;
+
+II. Fomentar la realización de actividades que propicien el intercambio de información e ideas en materia de ciencia, tecnología e innovación, para propiciar el desarrollo del conocimiento científico y tecnológico;
+
+III. Impulsar la creación de programas y espacios formativos, recreativos e interactivos, con la finalidad de desarrollar en la población, en general, el interés por la formación científica, tecnológica e innovación; y
+
+IV. Promover la producción de materiales, cuya finalidad sea la divulgación del conocimiento científico, tecnológico e innovación.
+
+V. Impulsar la participación activa de las empresas públicas, privadas y sociales productoras de bienes y servicios con recursos financieros crecientes, para fomentar la participación de la comunidad académica, científica y tecnológica del estado en proyectos de investigación y de divulgación de la ciencia, la tecnología y la innovación.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor el día 1°. de enero del año 2007 previa su publicación en el Periódico Oficial del Estado.
@@ -662,3 +704,13 @@ P.O. 21 DE DICIEMBRE DE 2016.
 PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Consejo Estatal de Investigación Científica y Desarrollo Tecnológico y la Secretaría de Finanzas deberán tomar las previsiones necesarias en el Presupuesto de Egresos del Estado, para los efectos que se deriven del presente decreto.
+
+P.O. 23 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 236 POR EL QUE “SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 5, LOS ARTÍCULOS 10 Y 36 Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 5; UN CAPÍTULO IV BIS DENOMINADO “DEL REGISTRO ESTATAL DE INVESTIGADORES Y TECNÓLOGOS” CON UN ARTÍCULO 31 BIS; UN PÁRRAFO SEGUNDO AL ARTÍCULO 32; UN CAPÍTULO VII DENOMINADO “ DE LA DIVULGACIÓN, DIFUSIÓN Y FOMENTO DE LA CULTURA CIENTÍFICA, TECNOLÓGICA Y DE INNOVACIÓN” CON LOS ARTÍCULOS 47 Y 48 TODOS A LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las Secretarías de Finanzas; de Administración e Innovación Gubernamental y, de Educación de la administración pública estatal, tomarán las previsiones administrativas que les correspondan para lo ordenado en este decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
