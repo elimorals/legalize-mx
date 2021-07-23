@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2021-02-12"
+last_updated: "2021-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -209,6 +209,10 @@ Los Planes y Programas de Desarrollo Urbano y las declaratorias sobre provisione
 
 Queda prohibido utilizar como propaganda gubernamental en el equipamiento urbano y en la infraestructura expresiones, emblemas, símbolos, logotipos que impliquen promoción personalizada de cualquier servidor público o partido político, salvo en los casos de señalizaciones conforme a las normas oficiales mexicanas y demás disposiciones que resulten aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JULIO DE 2021)</small>
+
+Para el otorgamiento de uso de suelo y construcción, para el establecimiento u operación de cualquier giro comercial, industrial o de servicios en zona agrícola, pecuaria, agropecuaria, forestal y ambiental que no sea de competencia federal será requisito indispensable que su operación o finalidad no contravengan el Programa de Ordenamiento Ecológico del Estado, la planeación urbana estatal y municipal, así como planes y programas establecidos.
+
 ###### ARTICULO 5.
 
 El derecho de propiedad, posesión o cualquier otro derecho derivado de la tenencia de áreas y predios, serán ejercidos por sus titulares en forma compatible con el aprovechamiento determinado por las correspondientes declaratorias de provisiones, usos, reservas y destinos que se expidan conforme a lo dispuesto en el Plan y los Programas de Desarrollo Urbano.
@@ -291,9 +295,9 @@ XIX. Provisiones: Las áreas que serán utilizadas para la fundación de un cent
 
 XX. Reservas territoriales: Las áreas de un centro de población que serán utilizadas para su futuro crecimiento y se integren al sistema de suelo para el desarrollo urbano y la vivienda;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
 
-XXI. Secretaría: La Secretaría de Infraestructura y Desarrollo Urbano del Estado;
+XXI. Secretaría.- La Secretaría de Desarrollo Urbano y Reordenación Territorial.
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
@@ -343,6 +347,10 @@ XXX.- Seguridad de trayecto: Se entiende por el desplazamiento de ida o regreso 
 
 XXXI.- Fraccionamiento de Nueva Creación: Aquel cuya autorización tenga de un año de antigüedad a la solicitud de cualquier acción de urbanización.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
+
+XXXII. Asentamiento Humano Irregular.- El establecimiento de un grupo de personas, sin autorización previa de la autoridad competente, en un terreno urbano o rústico no destinado para su urbanización de conformidad con los Planes y Programas estatales o municipales de desarrollo urbano.
+
 ### CAPITULO SEGUNDO. De la concurrencia y competencia de las autoridades y órganos auxiliares
 
 ###### ARTICULO 7.
@@ -355,17 +363,21 @@ II. El Gobernador del Estado;
 
 III. Los Ayuntamientos del Estado;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
 
-IV. La Secretaría;
+IV. La Secretaría de Desarrollo Urbano y Reordenación Territorial;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
 
-V. La Comisión Coordinadora de Desarrollo Urbano del Estado; y,
+V. La Secretaría de Economía Sustentable y Turismo;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JULIO DE 2021)</small>
 
-VI. La Secretaría de Protección al Ambiente del Estado.
+VI. La Comisión Coordinadora de Desarrollo Urbano del Estado; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
+
+VII. La Comisión Intersecretarial de Desarrollo Integral Regional.
 
 ###### ARTICULO 8.
 
@@ -409,9 +421,11 @@ VIII. Aprobar, ejecutar, controlar, evaluar y revisar los Programas Parciales qu
 
 IX. Ordenar la inscripción en el Registro Público de la Propiedad y del Comercio y disponer la publicación de los Planes y Programas de Desarrollo Urbano a que se refiere el Artículo 24 del presente ordenamiento, las declaratorias y todas aquellas resoluciones que de acuerdo con esta Ley corresponda al Ejecutivo;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
 
-X. Extender a los Ayuntamientos a través de la Secretaría, el dictamen técnico de congruencia correspondiente a permisos y licencias de uso del suelo y edificaciones que por sus características, impacto en el ambiente o en la estructura urbana, se consideran, en los términos de la presente Ley y demás disposiciones relativas, como de importancia estatal o se ubiquen fuera de los límites de los centros de población;
+X. Extender a los Ayuntamientos a través de la Secretaría, el dictamen técnico de congruencia correspondiente a permisos y licencias de uso del suelo y edificaciones que, por sus características, impacto en el ambiente o en la estructura urbana, se consideran, en los términos de la presente Ley y demás disposiciones relativas, como de importancia estatal o se ubiquen fuera de los límites de los centros de población.
+
+Serán considerados de importancia estatal aquellos permisos y licencias de uso de suelo y edificaciones que pretendan tramitarse en zonas agrícola, pecuaria, agropecuaria, forestal y ambiental que no sean de competencia federal.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
@@ -483,7 +497,9 @@ Son atribuciones del Ayuntamiento:
 
 I. Formular, aprobar, administrar, ejecutar, evaluar y actualizar el Plan Municipal de Desarrollo Urbano, los Programas de Desarrollo Urbano de Centros de Población, los Programas Sectoriales y los Programas Parciales Municipales de Desarrollo Urbano a los que se hace mención en el Artículo 24, fracción II de la presente Ley;
 
-II. Aprobar las declaratorias de provisiones, usos, destinos y reservas de áreas y predios, derivadas de los Planes y Programas Municipales de Desarrollo Urbano y enviarlas al Ejecutivo del Estado para su publicación e inscripción, previo dictamen técnico de congruencia con el Plan o los Programas Estatales, Regionales y Sectoriales de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
+
+II. Previo dictamen técnico de congruencia con el Programa de Ordenamiento Ecológico del Estado, Plan o los Programas Estatales, Regionales y Sectoriales de Desarrollo Urbano, aprobar las declaratorias de provisiones, usos, destinos y reservas de áreas y predios, derivadas de los Planes y Programas Municipales de Desarrollo Urbano y enviarlas al Ejecutivo del Estado para su publicación e inscripción;
 
 III. Formular, aprobar y administrar la zonificación urbana de los centros de población contenida en los Programas Municipales de Desarrollo Urbano y sus declaratorias;
 
@@ -535,7 +551,11 @@ XXII. Aplicar las medidas necesarias para desalentar la especulación que respec
 
 XXIII. Informar y orientar a los particulares acerca de los trámites para la obtención de permisos, licencias y autorizaciones que las acciones de urbanización y la edificación requieran, con el fin de facilitar las acciones de la vivienda popular;
 
-XXIV. Ofertar y promover terrenos y edificaciones en acciones de interés social, especialmente destinados a la vivienda popular;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
+
+XXIV. Solicitar a la Secretaría el dictamen técnico de congruencia correspondiente a los permisos y licencias de uso del suelo y edificaciones, que por sus características o impacto en el ambiente o en la estructura urbana, se consideren de importancia estatal o se ubiquen fuera de los perímetros de los centros de población en los términos de esta Ley y no estén previstos en los diferentes Planes o Programas del Desarrollo Urbano Municipal, declaratorias correspondientes y demás disposiciones relativas.
+
+Serán considerados de importancia estatal aquellos permisos y licencias de uso de suelo y edificaciones que pretendan tramitarse en zonas agrícola, pecuaria, agropecuaria, forestal y ambiental que no sean de competencia federal.
 
 XXV. Promover obras para que los habitantes de sus respectivos municipios cuenten con una vivienda digna, espacios adecuados para el trabajo, áreas y zonas de esparcimiento y recreación, el equipamiento indispensable para la vida de la comunidad y los medios de comunicación y transporte que se requieran;
 
@@ -565,9 +585,17 @@ XXXV. Proveer en el ámbito de su competencia, el cumplimiento de las disposicio
 
 XXXVI. Determinar las infracciones y sanciones, así como ejecutar las medidas de seguridad de su competencia, en los términos de la presente Ley y demás disposiciones relativas;
 
-XXXVII. Tramitar y resolver los recursos administrativos previstos en esta Ley; y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
 
-XXXVIII. Las demás atribuciones que le señale esta Ley, sus normas y disposiciones reglamentarias.
+XXXVII. Tramitar y resolver el recurso administrativo previsto en esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
+
+XXXVIII. Solicitar a la Secretaría el dictamen técnico de congruencia, así como a la Secretaría de Economía Sustentable y Turismo la manifestación de impacto ambiental, previo a la expedición de autorización de los permisos y licencias de uso del suelo y edificaciones cuando se trate de acciones de urbanización que pretendan llevarse a cabo en zonas agrícola, pecuaria, agropecuaria, forestal y ambiental; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JULIO DE 2021)</small>
+
+XXXIX. Las demás atribuciones que le señale esta Ley, sus normas y disposiciones reglamentarias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
@@ -587,7 +615,11 @@ V. Ejecutar, controlar, evaluar y revisar conjuntamente con los Ayuntamientos re
 
 VI. Integrar, operar y mantener el Registro Estatal del Sistema de Programas de Desarrollo Urbano del Estado, inscritos y publicados en los términos de la presente Ley;
 
-VII. Extender a los Ayuntamientos los dictámenes técnicos de congruencia correspondientes a permisos y licencias de uso del suelo y edificaciones, que por sus características de ubicación, impacto ambiental o estructura urbana se consideren de importancia estatal, en los términos de la presente Ley y demás Leyes, Reglamentos y disposiciones relativas;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
+
+VII. Extender a los Ayuntamientos los dictámenes técnicos de congruencia correspondientes a permisos y licencias de uso del suelo y edificaciones, que por sus características de ubicación, impacto ambiental o estructura urbana se consideren de importancia estatal, en los términos de la presente Ley y demás Leyes, Reglamentos y disposiciones relativas.
+
+La Secretaría remitirá para su aprobación a la Comisión Intersecretarial de Desarrollo Integral Regional, aquellos dictámenes técnicos de congruencia que en su estima sean considerados como trascendentes, así como de los que sea solicitada su remisión por parte de dicho órgano colegiado.
 
 VIII. Otorgar las autorizaciones sobre todo tipo de acción de urbanización que por su ubicación, condiciones, características e impacto ambiental se consideren de importancia estatal conforme a lo dispuesto en la fracción XI del Artículo 10 de esta Ley, y de las demás Leyes, Reglamentos y disposiciones sobre la materia;
 
@@ -605,9 +637,17 @@ XII. Intervenir en la ordenación y regularización de las zonas conurbadas y me
 
 XIII. Determinar las infracciones y sanciones, adoptar y ejecutar las medidas de seguridad en el ámbito de su competencia en los términos de esta Ley y demás normas legales y reglamentos aplicables; y
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
 
-XIV. Las demás atribuciones que le señale esta Ley y otras normas legales y reglamentarias aplicables e intervenir en los asuntos que sobre la materia le encomiende el Ejecutivo del Estado.
+XIV. Extender a los Ayuntamientos los dictámenes técnicos de congruencia previo a la expedición de autorización cuando se trate de acciones de urbanización que se pretendan llevar a cabo en zonas agrícola, pecuaria, agropecuaria, forestal y ambiental;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
+
+XV. Denunciar ante el Ministerio Público los actos y hechos considerados como posibles delitos en los términos de la legislación aplicable; y,
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
+
+XVI. Las demás atribuciones que le señale esta ley y otras normas legales y reglamentarias aplicables e intervenir en los asuntos que sobre la materia le encomiende el Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
@@ -751,6 +791,58 @@ VIII. El Colegio de Notarios del Estado de Baja California; y
 
 IX. Los organismos promotores de vivienda y bienes inmuebles del Estado de Baja California.
 
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
+
+ARTICULO 22 BIS.- Se crea la Comisión Intersecretarial de Desarrollo Integral Regional quien, para el mejor desempeño de sus atribuciones, se encargará de aprobar los dictámenes técnicos de congruencia respecto de los permisos y licencias de uso del suelo y edificaciones, licencias de construcción y acciones de urbanización que por su importancia y trascendencia estatal le sean remitidos por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
+
+ARTICULO 22 TER.- La Comisión Intersecretarial de Desarrollo Integral Regional se integrará por:
+
+I. La Secretaría General de Gobierno;
+
+II. La Secretaría de Infraestructura, Desarrollo Urbano y Territorial;
+
+III. La Secretaría del Campo y Seguridad Alimentaria;
+
+IV. La Secretaría de Economía Sustentable y Turismo;
+
+V. La Secretaría para el Manejo, Saneamiento y Protección del Agua; y,
+
+VI. La Secretaría de Integración y Bienestar Social.
+
+Los integrantes de la Comisión podrán designar por escrito a su respectivo suplente. El suplente únicamente podrá participar en las ausencias de quien lo haya designado.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
+
+ARTICULO 22 QUATER.- Será Presidente de la Comisión Intersecretarial de Desarrollo Integral Regional, el titular de la Secretaría General de Gobierno.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
+
+ARTICULO 22 QUINQUIES.- Las sesiones se efectuarán de manera presencial o virtual, por lo menos dos veces al año y de forma extraordinaria cuando sea necesario a juicio del Presidente o del Secretario Ejecutivo, quienes estarán facultados para convocar en ambos casos; requerirán la presencia mínima del cincuenta por ciento más uno de sus integrantes y los acuerdos se tomarán por mayoría de votos presentes, correspondiendo al Presidente el voto de calidad en caso de empate. En ausencia del presidente, asumirá sus funciones quien él designe como suplente.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
+
+ARTICULO 22 SEXIES.- El Secretario Ejecutivo de la Comisión Intersecretarial de Desarrollo Integral Regional será el titular de la Secretaría, quien formulará la convocatoria para las sesiones.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
+
+ARTICULO 22 SEPTIES.- Corresponde a la Comisión Intersecretarial de Desarrollo Integral Regional:
+
+I. Aprobar el dictamen técnico de congruencia al que se hace alusión en los artículos 10 fracción X, 150, 200 y demás relativos de esta Ley, mismos que por su trascendencia le sean remitidos por parte de la Secretaría;
+
+II. Solicitar a la Secretaría la remisión de algún dictamen técnico de congruencia que por su trascendencia se estime que es necesaria la aprobación de dicho órgano colegiado, previo a ser remitido al municipio solicitante;
+
+III. Recibir y encausar debidamente las peticiones relacionadas con la promoción del desarrollo urbano regional que le formulen los residentes del área directamente afectados y, quienes tengan un interés jurídico o legítimo;
+
+IV. Exhortar a las autoridades municipales y estatales para el efecto del cumplimiento de las leyes y disposiciones en materia de desarrollo urbano, así como exhortarlas para que en caso de ser necesario sean aplicadas de manera inmediata las medidas de seguridad a las que refiere la presente ley;
+
+V. Solicitar la intervención de la autoridad municipal o estatal que corresponda a efecto de que se inicie el procedimiento administrativo de aplicación y ejecución de sanciones.
+
+VI. Denunciar ante el Ministerio Público los actos y hechos que puedan ser considerados como posibles delitos en materia de desarrollo urbano de acuerdo a lo establecido por el Código Penal para el Estado de Baja California; y,
+
+VII. Las demás atribuciones que señalen las disposiciones reglamentarias correspondientes.
+
 ## TITULO SEGUNDO. DE LA PLANEACION DEL DESARROLLO URBANO
 
 ### CAPITULO PRIMERO. Del Sistema Estatal de Programas de Desarrollo Urbano
@@ -779,6 +871,10 @@ I.- Los Planes y Programas a nivel estatal y regional que comprenden:
 
 5. Los Programas Sectoriales.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JULIO DE 2021)</small>
+
+6.- La vinculación de la planeación del desarrollo urbano al Programa de Ordenamiento Ecológico del Estado.
+
 II. Los Planes o Programas a nivel Municipal que comprenden:
 
 1. El Plan Municipal de Desarrollo Urbano;
@@ -791,7 +887,9 @@ II. Los Planes o Programas a nivel Municipal que comprenden:
 
 5. Los Programas Sectoriales.
 
-Los Planes y Programas de Desarrollo Urbano a que se refiere este artículo deberán ser congruentes con los objetivos, políticas y metas establecidas en el Plan Estatal de Desarrollo.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2021)</small>
+
+Los Planes y Programas de Desarrollo Urbano a que se refiere este artículo deberán ser congruentes con el Programa de Ordenamiento Ecológico del Estado, los objetivos, políticas y metas establecidas en el Plan Estatal de Desarrollo.
 
 ###### ARTICULO 25.
 
@@ -1983,6 +2081,12 @@ III. Cuando las acciones de urbanización afecten las áreas naturales protegida
 
 IV. En las acciones de urbanización que se designen para plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo, los ayuntamientos realizarán las verificaciones e inspecciones pertinentes para el cumplimiento de esta Ley, de las Normas Oficiales Mexicanas correspondientes y los reglamentos municipales respectivos.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
+
+V. El Ejecutivo del Estado por conducto de la Secretaría, deberá extender un dictamen técnico de congruencia a solicitud de los ayuntamientos, previo a cualquier expedición de autorización cuando se trate de acciones de urbanización que se pretendan llevar a cabo en zonas agrícola, pecuaria, agropecuaria, forestal y ambiental que no sean de competencia federal.
+
+La Secretaría remitirá para su aprobación a la Comisión Intersecretarial de Desarrollo Integral Regional, aquellos dictámenes técnicos de congruencia que a su criterio sean considerados de importancia estatal.
+
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
 
 ARTICULO 150 BIS.- Los ayuntamientos en relación a las instalaciones de almacenamiento, distribución y estaciones de carburación de gas licuado de petróleo, para llevar a cabo acciones de urbanización deberán atender los siguientes lineamientos:
@@ -2415,7 +2519,9 @@ Dicha licencia se otorgará de conformidad con lo dispuesto en este Capítulo, l
 
 El Ejecutivo del Estado tiene el deber de proporcionar los medios y criterios de prevención para que los habitantes de la Entidad puedan desplazarse, garantizando la seguridad de trayecto de los mismos, en el ámbito de su competencia.
 
-Los Ayuntamientos deberán solicitar a la Secretaría, un dictamen de congruencia previo a la expedición de la licencia de construcción en los casos previstos en el Artículo 60, fracciones I a V y 61 de la Ley de Edificaciones del Estado.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2021)</small>
+
+Los Ayuntamientos deberán solicitar a la Secretaría, dictamen de congruencia, así como a la Secretaría de Economía Sustentable y Turismo la manifestación de impacto ambiental, previo a la expedición de la licencia de construcción en los casos previstos en el Artículo 60, fracciones I a VI y 61 de la Ley de Edificaciones del Estado.
 
 ###### ARTICULO 201.
 
@@ -2978,3 +3084,19 @@ P.O. 12 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 180 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 223, 224, 226, 227 Y 230 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279 MEDIANTE EL CUAL SE APRUEBA DIVERSAS REFORMAS A LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Los permisos y licencias de uso de suelo y edificaciones que conforme a la presente reforma sean considerados de impacto estatal, que hayan sido iniciados con anterioridad a la entrada en vigor de la presente reforma, y que no hayan sido resueltos por la autoridad municipal, deberán contar con el dictamen técnico de congruencia.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del plazo de tres meses contado a partir de la entrada en vigor de la presente reforma, la Secretaría realizará reuniones de coordinación y supervisión con las autoridades municipales en materia de desarrollo urbano para coordinar la implementación de la presente reforma realizando las gestiones necesarias para el efecto de subsanar las irregularidades que detecten en materia de autorizaciones de otorgamiento de permisos y licencias de uso de suelo y edificaciones en las zonas agrícola, pecuaria, agropecuaria, forestal y ambiental.
