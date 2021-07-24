@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-110065"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-01"
-last_updated: "2021-05-15"
+last_updated: "2021-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el jueves 1 de octubre de 2015.
 
@@ -265,7 +265,9 @@ XIII.- Regular y coordinar la organización y el funcionamiento del servicio del
 
 XIV.- Llevar el registro de firmas de los funcionarios y fedatarios públicos, así como legalizar las firmas de los mismos;
 
-XV.- Certificar, legalizar o apostillar los documentos que obren en sus archivos y los que así lo requieran en los términos de las leyes y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2021)</small>
+
+XV.- Certificar, legalizar o apostillar los documentos que obren en sus archivos y los que así lo requieran en los términos de las leyes y demás disposiciones aplicables. Tratándose de la certificación de documentos en formato electrónico se harán constar en medios magnéticos no regrabables, que contengan firma electrónica avanzada o certificada.
 
 XVI.- Intervenir, en coordinación con las autoridades competentes, en la conciliación y solución de conflictos sindicales, agrarios e indígenas;
 
@@ -1644,3 +1646,9 @@ P.O. 15 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 448.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 5, 10, 15 Y 45 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 36 DE LA LEY DE MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 24 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 474.- POR EL QUE SE REFORMA EL ARTÍCULO 22 FRACCIÓN XV DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrara en vigor al momento de su publicación en el Periódico Oficial “El Estado de Colima”.
