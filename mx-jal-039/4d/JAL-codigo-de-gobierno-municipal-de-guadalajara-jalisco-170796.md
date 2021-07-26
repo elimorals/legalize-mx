@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2021-05-04"
+last_updated: "2021-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "JAL"
 ---
 # CODIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA, JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 4 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 26 DE JULIO DE 2021.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -4823,7 +4825,9 @@ Para la atención de los asuntos de su competencia, cuenta con las áreas de Pro
 
 Asimismo, para la consecución de sus fines debe coordinarse con las demás instancias de gobierno y de la sociedad.
 
-Los Organismos Públicos Descentralizados Municipales denominados Red de Bosques Urbanos de Guadalajara, Zoológico Guadalajara e Instituto Municipal de la Vivienda de Guadalajara se encuentran sectorizados a la Coordinación General de Gestión Integral de la Ciudad.
+> <small>(REFORMADO, G.M. 26 DE JULIO DE 2021)</small>
+
+Los organismos públicos descentralizados municipales denominados, Zoológico de Guadalajara e Instituto Municipal de la Vivienda de Guadalajara se encuentran sectorizados a la Coordinación General de Gestión Integral de la Ciudad.
 
 Subsección I
 
@@ -5691,7 +5695,7 @@ V. Instituto Municipal de la Vivienda;
 
 VI. Patronato del Centro Histórico, Barrios y Zonas Tradicionales;
 
-VII. Red de Bosques Urbanos;
+VII. (DEROGADA, G.M. 26 DE JULIO DE 2021)
 
 VIII. Sistema para el Desarrollo Integral de la Familia; y
 
@@ -5715,7 +5719,7 @@ V. El Organismo Público Descentralizado de la Administración Pública Municipa
 
 VI. El Organismo Público Descentralizado de la Administración Pública Municipal denominado Patronato del Centro Histórico, Barrios y Zonas Tradicionales de Guadalajara, tiene por objeto la conservación, rescate y promoción del Centro Histórico, los barrios y las zonas tradicionales de la ciudad, mediante el desarrollo, planeación, gestión, proyección, instrumentación y ejecución de acciones, planes y programas derivados del Programa Municipal de Desarrollo; así como de las políticas municipales aplicables, además de la obtención de recursos del sector público, privado y social para ser aplicados en sus polígonos de acción.
 
-VII. El Organismo Público Descentralizado de la Administración Pública Municipal denominado Red de Bosques Urbanos de Guadalajara, tiene por objeto administrar, preservar, restaurar y proteger las Áreas Naturales protegidas bajo las categorías de manejo de área municipal de Protección Hidrológica la primera identificada como Bosque los Colomos, y de Zona de Preservación Ecológica de Centro de Población la segunda, denominada parque González Gallo; y los parques Agua Azul, Alcalde, Arboledas del Sur, Ávila Camacho, Liberación, Mirador Independencia, Morelos, Natural Huentitán y Puerta de la Barranca; así como, implementar proyectos y programas de educación ambiental, servicios eco turísticos compatibles con la conservación de las áreas a su cargo, actividades de investigación sobre la los aspectos bióticos, ecológicos, abióticos, sociales, culturales, económicos e históricos de la red de bosques.
+VII. (DEROGADA, G.M. 26 DE JULIO DE 2021)
 
 VIII. El Organismo Público Descentralizado de la Administración Pública Municipal denominado Sistema para el Desarrollo Integral de la Familia de Guadalajara, tiene por objeto asegurar la atención permanente a la población marginada, brindando servicios integrales de asistencia social, enmarcados dentro de los programas básicos del Sistema para el Desarrollo Integral de la Familia Jalisco, conforme a las normas establecidas a nivel nacional y estatal; promover en el Municipio los mínimos de bienestar social y el desarrollo de la comunidad; impulsar el sano crecimiento físico y mental de la niñez; apoyar y fomentar la nutrición y las acciones de medicina preventiva dirigidas a las y los lactantes, y en general a la infancia, así como a las madres gestantes; promover la creación de establecimientos de asistencia social, en beneficio de las y los menores, personas adultas mayores, personas con discapacidad e indigentes en estado de abandono; investigar la problemática de la niñez, las madres y la familia, a fin de proponer medidas de solución; prestar en forma organizada y permanente servicios de asistencia jurídica y de orientación social a las y los menores, adultas y adultos mayores, personas con discapacidad, indigentes y a las familias, para atención de los asuntos compatibles con los objetivos del organismo; coordinar las tareas que en materia de asistencia social realizan otras instancias municipales, verificando que los albergues para mujeres, niños, niñas y adolescentes de su competencia, proporcionen una estancia digna, garantizándoles la satisfacción de los alimentos que les permitan su desarrollo físico, mental, emocional y social; y destinar el espacio adecuado que facilite el desarrollo de las convivencias paterno-filiales y la entrega-recepción de menores derivadas de un mandato de autoridad competente, las cuales no puedan realizarse de manera libre o en donde al desarrollarse aquellas, se ponga en riesgo el interés superior del menor.
 
@@ -6322,3 +6326,19 @@ Primero. Publíquese la presente reforma en la Gaceta Municipal de Guadalajara.
 Segundo. La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicada la presente reforma, remítase mediante oficio un tanto de ella al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 26 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE "LAS REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA".]
+
+Primero. El presente ordenamiento entrará en vigor el día de su publicación en la Gaceta Municipal de Guadalajara.
+
+Segundo. Los puntos de ordenamiento Quinto, Sexto y Séptimo entrarán en vigor cuando se emita la declaratoria de extinción del Organismo Público Descentralizado de la Administración Pública Municipal denominado "Red de Bosques Urbanos de Guadalajara", por el Ayuntamiento y de manera particular en lo que respecta al punto Séptimo, siempre y cuando se haya concluido previamente el proceso legislativo correspondiente ante el Congreso del Estado de Jalisco.
+
+Tercero. El personal adscrito al Organismo Público Descentralizado de la Administración Pública Municipal denominado "Red de Bosques Urbanos de Guadalajara" será adscrito a la Coordinación de Servicios Públicos Municipales, conservando los derechos laborales adquiridos previos a la extinción del organismo en comentó.
+
+Cuarto. Se faculta a las y los ciudadanos, Presidente Municipal, Secretario General y Síndica, todos de este Ayuntamiento, a suscribir la documentación necesaria para el cumplimiento del presente ordenamiento.
+
+Quinto. Notifíquese el presente ordenamiento a la Tesorería, a la Coordinación General de Gestión Integral de la Ciudad y a la Contraloría Ciudadana, para su conocimiento.
+
+Sexto. Una vez publicado el presente, remítase mediante oficio un tanto de él, al Congreso del Estado de Jalisco, para los efectos ordenados en las fracciones VI y VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
