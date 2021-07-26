@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-administracion-de-bienes-asegurados-decomisados-106
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-27"
-last_updated: "2014-12-27"
+last_updated: "2021-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA
 
 > <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2021.
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Nayarit, el sábado 27 de diciembre de 2014.
 
@@ -187,9 +187,17 @@ X. Proporcionar información sobre los bienes objeto de esta ley a quien acredit
 
 XI. Cubrir, previo avalúo, los daños causados por la pérdida, extravío o deterioro de los bienes asegurados, excepto los causados por el simple transcurso del tiempo;
 
-XII. Rendir en cada sesión ordinaria un informe detallado a la Comisión sobre el estado de los bienes objeto de esta ley, y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
 
-XIII. Las demás que señalen otros ordenamientos o que mediante acuerdo determine la Comisión.
+XII. Rendir en cada sesión ordinaria un informe detallado a la Comisión sobre el estado de los bienes objeto de esta ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JULIO DE 2021)</small>
+
+XIII. Enajenar los bienes decomisados o abandonados, en los términos y modalidades que prevea el reglamento de la presente ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2021)</small>
+
+XIV. Las demás que señalen otros ordenamientos o que mediante acuerdo determine la Comisión.
 
 Apartado B. En su calidad de Secretario Técnico.
 
@@ -215,7 +223,13 @@ Administración de los bienes asegurados.
 
 La administración de los bienes asegurados comprende su recepción, registro, custodia, conservación, supervisión y en su caso entrega.
 
-Serán conservados en el estado en que se hayan asegurado, para ser devueltos en las mismas condiciones, salvo el deterioro normal que se cause por el transcurso del tiempo. Podrán utilizarse o ser enajenados, previa resolución de la autoridad judicial o el Ministerio Público, según corresponda, exclusivamente en los casos y cumpliendo los requisitos establecidos en esta ley.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
+Serán conservados en el estado en que se hayan asegurado, para ser devueltos en las mismas condiciones, salvo el deterioro normal que se cause por el transcurso del tiempo. Podrán utilizarse previo acuerdo de la Autoridad Administrativa, conforme a los lineamientos de la presente ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2021)</small>
+
+Los bienes decomisados o abandonados podrán adjudicarse o enajenarse en los términos y modalidades que al efecto prevea el reglamento de esta ley.
 
 ###### Artículo 12.
 
@@ -333,7 +347,9 @@ Del Destino de los Bienes.
 
 Bienes decomisados.
 
-Los bienes asegurados de los que se decrete su decomiso, conforme al Código Nacional de Procedimientos Penales, podrán ser adjudicados, enajenados o destruidos en los términos de dicho ordenamiento y demás legislación aplicable.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
+Los bienes asegurados de los que se decrete su decomiso, conforme al Código Nacional de Procedimientos Penales, podrán ser adjudicados, enajenados o destruidos en los términos de dicho ordenamiento, la legislación aplicable y el reglamento de esta ley.
 
 El producto de la enajenación será distribuido conforme a las reglas que señala el Código Nacional de Procedimientos Penales.
 
@@ -341,7 +357,9 @@ El producto de la enajenación será distribuido conforme a las reglas que seña
 
 Bienes abandonados.
 
-Los bienes asegurados se declararán abandonados en los supuestos y términos del Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
+Los bienes asegurados se declararán abandonados en los supuestos y términos del Código Nacional de Procedimientos Penales; podrán ser adjudicados o enajenados en los términos de la legislación aplicable y el reglamento de la presente ley.
 
 ### CAPÍTULO OCTAVO
 
@@ -368,3 +386,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Jorge Humberto Segura López, Presidente.- Rúbrica.- Dip. José Ángel Martínez Inurriaga, Secretario.- Rúbrica.- Dip. Francisco Javier Jacobo Cambero, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintiséis días del mes de Diciembre del año dos mil catorce.- ROBERTO SANDOVAL CASTAÑEDA. Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
