@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-tribunal-de-justicia-administrativa-del-145355
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-11-26"
-last_updated: "2020-12-23"
+last_updated: "2021-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT EL 23 DE DICIEMBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2021.
 
 Ley publicada en la Sección Décima Séptima al Número 100 del Periódico Oficial del Estado de Nayarit, el jueves 26 de noviembre de 2020.
 
@@ -81,23 +79,35 @@ VI. Magistrado: Magistrado o Magistrada del Tribunal de Justicia Administrativa 
 
 VII. Municipios: Los municipios constitucionales que integran el territorio del Estado de Nayarit;
 
-VIII. Pleno: Al órgano colegiado integrado por los cinco Magistrados numerarios del Tribunal de Justicia Administrativa de Nayarit, mismo que se pronunciará por unanimidad o mayoría de votos de los Magistrados en el ejercicio de las atribuciones contenidas en la presente Ley;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+VIII. Pleno: Al órgano colegiado integrado por los siete Magistrados numerarios del Tribunal de Justicia Administrativa de Nayarit, mismo que se pronunciará por unanimidad o mayoría de votos de los Magistrados en el ejercicio de las atribuciones contenidas en la presente Ley;
 
 IX. Presidente: El Magistrado elegido para presidir el Tribunal de Justicia Administrativa de Nayarit y el Pleno;
 
-X. Presidente de Sala: Al Magistrado que preside la Sala Administrativa del Tribunal de Justicia Administrativa de Nayarit;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+X. Presidente de Sala: Al Magistrado que preside alguna de las Salas Administrativas del Tribunal de Justicia Administrativa de Nayarit;
 
 XI. Reglamento Interior: El Reglamento Interior del Tribunal de Justicia Administrativa de Nayarit;
 
-XII. Salas: La Sala Administrativa y las Salas Unitarias Especializadas del Tribunal de Justicia Administrativa de Nayarit;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
 
-XIII. Sala Administrativa: Al órgano colegiado integrado por tres Magistrados numerarios del Tribunal de Justicia Administrativa de Nayarit, con competencia en asuntos jurisdiccionales administrativos y fiscales;
+XII. Salas: Las Salas Administrativas y la Sala Unitaria Especializada del Tribunal de Justicia Administrativa de Nayarit;
 
-XIV. Salas Unitarias Especializadas: A los órganos jurisdiccionales del Tribunal de Justicia Administrativa de Nayarit, especializados en materia de Responsabilidades Administrativas e integradas por un Magistrado;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XIII. Sala Administrativa: A los órganos colegiados del Tribunal de Justicia Administrativa de Nayarit, integrados por tres Magistrados numerarios cada uno, con competencia en asuntos jurisdiccionales administrativos y fiscales;
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XIV. Sala Unitaria Especializada: Al órgano jurisdiccional del Tribunal de Justicia Administrativa de Nayarit, especializado en materia de Responsabilidades Administrativas;
 
 XV. Secretario del Pleno: Al Secretario General de Acuerdos del Pleno del Tribunal de Justicia Administrativa de Nayarit;
 
-XVI. Secretario de la Sala: Al Secretario de Acuerdos de la Sala Administrativa del Tribunal de Justicia Administrativa de Nayarit, y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XVI. Secretario de Sala: Al Secretario de Acuerdos de alguna de las Salas Administrativas del Tribunal de Justicia Administrativa de Nayarit, y
 
 XVII. Tribunal: El Tribunal de Justicia Administrativa de Nayarit.
 
@@ -125,21 +135,29 @@ VII. Las demás que le confieran las disposiciones legales aplicables.
 
 #### Sección Primera. Aspectos Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
+
 ###### Artículo 6.
 
-Integración del Tribunal. El Tribunal se integra por cinco Magistrados numerarios quienes serán electos de conformidad con lo dispuesto por los Artículos 104 y 105 de la Constitución del Estado.
+Integración del Tribunal. El Tribunal se integra por siete Magistrados numerarios quienes serán electos de conformidad con lo dispuesto por los Artículos 104 y 105 de la Constitución del Estado.
 
 De conformidad con lo previsto en la Constitución del Estado, el Tribunal desarrollará sus funciones a través de los siguientes órganos:
 
 I. El Pleno;
 
-II. Una Sala Administrativa, y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
 
-III. Dos Salas Unitarias Especializadas.
+II. Dos Salas Administrativas, y
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+III. Una Sala Unitaria Especializada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 7.
 
-Del Personal Jurisdiccional del Tribunal. Para su adecuado funcionamiento, además de los Magistrados que integran las Salas, el Tribunal contará de manera enunciativa más no limitativa, con un Secretario del Pleno y un Secretario de la Sala, Secretarios Proyectistas, Secretarios de Acuerdos, Actuarios y demás servidores públicos necesarios para su funcionamiento, según lo permita la disponibilidad presupuestal.
+Del Personal Jurisdiccional del Tribunal. Para su adecuado funcionamiento, además de los Magistrados que integran las Salas, el Tribunal contará de manera enunciativa más no limitativa, con un Secretario del Pleno, un Secretario de Sala por Sala Administrativa, Secretarios Proyectistas, Secretarios de Acuerdos, Secretarios Coordinadores de Acuerdos y Proyectos, una Coordinación de Notificaciones, Actuarios o Notificadores y demás servidores públicos necesarios para su funcionamiento, según lo permita la disponibilidad presupuestal.
 
 Las atribuciones específicas y requisitos para desempeñar los cargos referidos en el párrafo que antecede, se precisarán en la presente Ley, así como en el Reglamento Interior.
 
@@ -153,9 +171,11 @@ Ingreso, permanencia y desarrollo de los servidores públicos del Tribunal. El i
 
 Naturaleza del Pleno. El Pleno es el máximo órgano de gobierno del Tribunal.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
 ###### Artículo 10.
 
-Sesiones del Pleno. El Pleno se compondrá por los cinco Magistrados del Tribunal, pero bastará la presencia de la mayoría de sus miembros para que pueda funcionar. En todas las sesiones deberá estar el Presidente. En caso de ausencia justificada, el Presidente designará al Magistrado que deba de suplirlo mismo que adquirirá el voto de calidad. El Magistrado que sin causa justificada falte a la sesión correspondiente, se hará acreedor a un día de descuento de su percepción mensual.
+Sesiones del Pleno. El Pleno se compondrá por los siete Magistrados del Tribunal, pero bastará la presencia de la mayoría de sus miembros para que pueda funcionar. En todas las sesiones deberá estar el Presidente. En caso de ausencia justificada, el Presidente designará al Magistrado que deba de suplirlo mismo que adquirirá el voto de calidad. El Magistrado que sin causa justificada falte a la sesión correspondiente, se hará acreedor a un día de descuento de su percepción mensual.
 
 ###### Artículo 11.
 
@@ -205,7 +225,9 @@ III. Tomar protesta a los servidores públicos del Tribunal que le corresponda c
 
 IV. Garantizar en igualdad de trato, el debido y eficaz funcionamiento de cada una de las Salas, gestionando, proporcionando y ejerciendo, a través de la Unidad Administrativa correspondiente, los recursos presupuestales necesarios para tal efecto;
 
-V. Designar, remover y adscribir o re adscribir, al Secretario del Pleno, al Secretario de la Sala y demás personal jurisdiccional adscritos al Pleno y las Salas, así como a las Unidades Administrativas en los términos de esta Ley y el Reglamento Interior;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+V. Designar, remover y adscribir o readscribir, al Secretario del Pleno, a los Secretarios de Sala y demás personal jurisdiccional adscritos al Pleno y las Salas, así como a las Unidades Administrativas en los términos de esta Ley y el Reglamento Interior;
 
 VI. Designar y remover a los titulares de los órganos y Unidades Administrativas del Tribunal;
 
@@ -225,7 +247,9 @@ XIII. Conocer sobre la interpretación y las controversias que se deriven de con
 
 XIV. Expedir, modificar o abrogar los reglamentos y acuerdos generales en las materias de su competencia, incluidos aquéllos que regulen las funciones, atribuciones y responsabilidades de los integrantes del Pleno, las Salas y del personal adscrito al Tribunal;
 
-XV. Calificar las excusas o impedimentos de sus miembros, para conocer de los asuntos de la competencia del Pleno, de la Sala Administrativa y de las Salas Unitarias Especializadas, y acordar en la sesión correspondiente la sustitución que proceda;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XV. Calificar las excusas o impedimentos de sus miembros, para conocer de los asuntos de la competencia del Pleno, de las Salas Administrativas y de la Sala Unitaria Especializada, y acordar en la sesión correspondiente la sustitución que proceda;
 
 XVI. Establecer los criterios y las medidas conducentes para el mejoramiento de la impartición de justicia en el Tribunal, y dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia;
 
@@ -237,11 +261,17 @@ XIX. Conceder licencia a los Magistrados, siempre que no excedan de ciento ochen
 
 XX. Aprobar los convenios y contratos que deba celebrar el Tribunal;
 
-XXI. Aprobar el proyecto de presupuesto de egresos del Tribunal y ordenar su remisión oportuna a la autoridad competente;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
 
-XXII. Ejercer y supervisar el ejercicio del presupuesto de egresos del Tribunal, sin perjuicio de la intervención que corresponda a otras autoridades en materia de revisión del ejercicio y comprobación del gasto;
+XXI. Aprobar el proyecto de presupuesto de egresos del Tribunal, así como las solicitudes de ampliación presupuestal correspondiente y ordenar su remisión oportuna a la autoridad competente;
 
-XXIII. Llamar a los Magistrados supernumerarios que deban suplir las ausencias de los Magistrados numerarios;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XXII. Supervisar el ejercicio del presupuesto de egresos del Tribunal, sin perjuicio de la intervención que corresponda a otras autoridades en materia de revisión del ejercicio y comprobación del gasto;
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XXIII. Llamar a los Magistrados supernumerarios que deban suplir las ausencias de los Magistrados numerarios. Para tal efecto, de manera previa se deberá verificar que no se actualice alguna de las causales establecidas en el último párrafo del artículo 104 de la Constitución del Estado;
 
 XXIV. Aprobar y expedir el calendario laboral del Tribunal para el año siguiente, el cual incluirá dos periodos vacacionales de diez días hábiles cada uno, y el señalamiento de los días inhábiles, debiendo ser publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en el mes de diciembre;
 
@@ -249,9 +279,23 @@ XXV. Aprobar la implementación de controles, bases de datos, sistemas informát
 
 XXVI. Realizar evaluaciones, diagnósticos y demás ejercicios para la obtención de datos estadísticos para el óptimo desempeño del Tribunal;
 
-XXVII. Aprobar la interposición, en su caso, por conducto del Presidente, del medio de control constitucional a que se refiere el artículo 91 fracción I de la Constitución Política del Estado de Nayarit, y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
 
-XXVIII. Las demás que determinen las leyes de la materia y el Reglamento Interior.
+XXVII. Aprobar la interposición, en su caso, por conducto del Presidente, del medio de control constitucional a que se refiere el artículo 91 fracción I de la Constitución del Estado, así como el previsto en la fracción I del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JULIO DE 2021)</small>
+
+XXVIII. Habilitar, a solicitud fundada y motivada del Magistrado de la Sala Unitaria Especializada, a Magistrados de las Salas Administrativas para que conozcan de forma unitaria de las responsabilidades administrativas. En el Acuerdo respectivo, se determinarán las medidas mínimas necesarias para garantizar la debida proporcionalidad entre las cargas de trabajo, así como el personal jurisdiccional específico que colaborará, a efecto de que se garantice la debida operatividad y funcionalidad de la encomienda.
+
+Lo anterior, sin perjuicio de que el Magistrado designado continúe conociendo de los asuntos propios de la Sala Administrativa de la que forma parte;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XXIX. Resolver sobre las contradicciones de criterios sustentados por el Tribunal, determinando cuál de ellos deberá de prevalecer, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2021)</small>
+
+XXX. Las demás que determinen las leyes de la materia y el Reglamento Interior.
 
 #### Sección Cuarta. Del Presidente del Tribunal
 
@@ -259,13 +303,21 @@ XXVIII. Las demás que determinen las leyes de la materia y el Reglamento Interi
 
 Del Presidente del Tribunal. El Presidente será designado por unanimidad o mayoría de votos de los integrantes en Pleno, preferentemente durante la primera sesión del año que corresponda. Durará en su encargo tres años, con la posibilidad de ser reelecto hasta por un periodo igual, sin perjuicio de que una vez que deje el cargo de Presidente, continúe como Magistrado por el período respectivo.
 
-El cargo de Presidente resulta compatible con el ejercicio de su función en su adscripción en la Sala Administrativa o Sala Unitaria Especializada del Tribunal, debiendo, por tanto, desempeñar simultáneamente, ambos cargos.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
 
-Si el Pleno designara como Presidente a un Magistrado adscrito a la Sala Administrativa, ex oficio será también Presidente de dicha Sala.
+El cargo de Presidente resulta compatible con el ejercicio de su función en su adscripción en la Sala Administrativa correspondiente o Sala Unitaria Especializada del Tribunal, debiendo, por tanto, desempeñar simultáneamente, ambos cargos.
 
-Si se eligiera como Presidente a un Magistrado adscrito a alguna de las Salas Unitarias Especializadas, en la misma sesión deberá proveer la designación o ratificación del Presidente de Sala.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
 
-Una vez designado al Presidente, podrá proveerse la designación o ratificación del Secretario del Pleno y del Secretario de la Sala.
+Si el Pleno designara como Presidente a un Magistrado adscrito a alguna de las Salas Administrativas, ex oficio será también Presidente de dicha Sala.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
+Si se eligiera como Presidente a un Magistrado adscrito a la Sala Unitaria Especializada, en la misma sesión deberá proveer la designación o ratificación de los Presidentes de Sala.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
+Una vez designado al Presidente, podrá proveerse la designación o ratificación del Secretario del Pleno y de los Secretarios de Sala.
 
 ###### Artículo 19.
 
@@ -301,7 +353,9 @@ XII. Proponer la designación de aquellos servidores públicos que conforme a es
 
 XIII. Vigilar que la función jurisdiccional se realice conforme a los principios constitucionales y los previstos en esta Ley;
 
-XIV. Llamar al Magistrado supernumerario que deba sustituir al numerario en los casos de excusa, impedimento o recusación;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XIV. Proponer al Pleno para su aprobación, solicitudes de ampliación presupuestal;
 
 XV. Dar el seguimiento correspondiente para que las Salas proporcionen con la periodicidad requerida los datos estadísticos de los asuntos de su competencia, así como la información necesaria para conocer la funcionalidad, eficiencia y eficacia de las Salas;
 
@@ -359,11 +413,13 @@ Duración del encargo. Los Magistrados numerarios durarán en su encargo diez a�
 
 Ausencias definitivas y suplencias. Las ausencias definitivas de los Magistrados numerarios se comunicarán al titular del Poder Ejecutivo y al Congreso del Estado para los efectos a que se refieren los artículos 104 y 105 de la Constitución del Estado.
 
-Las faltas que no excedan de tres meses de los Magistrados numerarios, serán suplidas por el Secretario del Pleno.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
+El quorum para que el Pleno o alguna de las Salas Administrativas pueda sesionar válidamente, tratándose de ausencias temporales de los Magistrados numerarios que no excedan de tres meses, se formará con la presencia del Secretario del Pleno o por el Secretario de Sala que corresponda, respectivamente.
 
 Si exceden de este término se llamará al Magistrado supernumerario que corresponda.
 
-En ningún caso el Magistrado supernumerario de las Salas Unitarias Especializadas podrá suplir a los Magistrados de la Sala Administrativa, ni el supernumerario de ésta a los Magistrados de aquellas.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 25.
 
@@ -389,7 +445,9 @@ III. Integrarse a la Sala para la que fue adscrito y proveer lo conducente para 
 
 IV. Asistir, debatir y votar en las sesiones a las que sean convocados; así como presentar propuestas y proyectos concernientes a temas de su adscripción o de la competencia del Tribunal, para su correspondiente inclusión en el orden del día para efectos de discusión y aprobación;
 
-V. Proponer y/o aceptar ser propuesto para presidir el Pleno o la Sala Administrativa;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+V. Proponer y/o aceptar ser propuesto para presidir el Pleno o alguna de las Salas Administrativas;
 
 VI. Formular y presentar en su caso, durante la sesión respectiva del Pleno o de su Sala, los proyectos de acuerdos, o de sentencias en los asuntos que le fueren encomendados o que considere pertinentes, conforme a la legislación aplicable;
 
@@ -459,9 +517,11 @@ XVIII. Las demás que determinen las leyes, el Reglamento Interior y el Presiden
 
 #### Sección Séptima. De la Integración y Funcionamiento de las Salas del Tribunal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
+
 ###### Artículo 29.
 
-De las Salas del Tribunal. Para los asuntos de su competencia, el Tribunal ejercerá sus funciones por conducto de la Sala Administrativa y las Salas Unitarias Especializadas.
+De las Salas del Tribunal. Para los asuntos de su competencia, el Tribunal ejercerá sus funciones por conducto de las Salas Administrativas y la Sala Unitaria Especializada.
 
 Las Salas se integrarán en la sesión en que se elija al Presidente del Tribunal o una vez concluidos los periodos para los cuales fueron designados sus integrantes.
 
@@ -469,47 +529,77 @@ Las Salas se integrarán en la sesión en que se elija al Presidente del Tribuna
 
 Sesiones y audiencias de las Salas. Las sesiones y las audiencias de las Salas se celebrarán en los días y horas que las mismas determinen. Solo por excepción las sesiones dejarán de ser públicas cuando lo determine la Sala respectiva, siempre que así lo exijan la moral o el interés público.
 
-Las discusiones de la Sala Administrativa serán dirigidas por el Presidente de Sala.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
 
-En caso de impedimento o ausencia por causa de fuerza mayor, el Presidente de la Sala Administrativa será suplido en la sesión, por el Magistrado que él designe, quien adquirirá el voto de calidad. Los Magistrados que sin causa justificada falten a la sesión correspondiente, se harán acreedores a un día de descuento de su percepción mensual.
+Las discusiones de las Salas Administrativas serán dirigidas por el Presidente de Sala.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
+En caso de impedimento o ausencia por causa de fuerza mayor, el Presidente de Sala será suplido en la sesión, por el Magistrado que él designe, quien adquirirá el voto de calidad. Los Magistrados que sin causa justificada falten a la sesión correspondiente, se harán acreedores a un día de descuento de su percepción mensual.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 31.
 
-Desarrollo de sesiones de la Sala Administrativa. Las sesiones de la Sala Administrativa serán convocadas por escrito por el Presidente de Sala cuando menos con setenta y dos horas de anticipación, precisándose en la convocatoria el proyecto de asuntos a tratar. Al respecto deberá considerarse lo siguiente:
+Desarrollo de sesiones de la Sala Administrativa. Las sesiones de las Salas Administrativas serán convocadas por escrito por el Presidente de Sala cuando menos con setenta y dos horas de anticipación, precisándose en la convocatoria el proyecto de asuntos a tratar. Al respecto deberá considerarse lo siguiente:
 
 I. Tratándose de casos urgentes, se podrá convocar en cualquier tiempo siempre que se haga por medios idóneos, cuando menos con veinticuatro horas de anticipación y sólo se tratarán los asuntos que dieron lugar a la convocatoria. No obstante, si asistieran la totalidad de los Magistrados y por unanimidad lo acordaran, podrán incorporarse otros asuntos, y
 
-II. Ante la imposibilidad o negativa del Presidente de Sala para convocar a sesión, ésta se llevará a cabo previa convocatoria emitida a propuesta de la mayoría de los Magistrados. Para tal efecto, el Secretario de la Sala, deberá formalizar la convocatoria correspondiente; lo anterior independientemente de la responsabilidad a que haya lugar para el caso de negarse a convocar.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE JULIO DE 2021)</small>
+
+II. Ante la imposibilidad o negativa del Presidente de Sala para convocar a sesión, ésta se llevará a cabo previa convocatoria emitida a propuesta de la mayoría de los Magistrados. Para tal efecto, el Secretario de Sala, deberá formalizar la convocatoria correspondiente; lo anterior independientemente de la responsabilidad a que haya lugar para el caso de negarse a convocar.
 
 En caso de que el Presidente de Sala, no acuda a la sesión, los Magistrados presentes designarán por el voto de la mayoría al Magistrado que presidirá dicha sesión quien adquirirá voto de calidad para el caso de empate.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
 ###### Artículo 32.
 
-Resoluciones de la Sala Administrativa. Las resoluciones de la Sala Administrativa se tomarán por unanimidad o mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar, salvo que tengan impedimento legal. El Magistrado que disienta de la mayoría podrá formular voto particular siempre y cuando se presente ante el Secretario de la Sala, dentro del término de tres días hábiles contados a partir del día en que concluya la sesión. En este supuesto, se insertará en la resolución respectiva.
+Resoluciones de la Sala Administrativa. Las resoluciones de las Salas Administrativas se tomarán por unanimidad o mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar, salvo que tengan impedimento legal. El Magistrado que disienta de la mayoría podrá formular voto particular siempre y cuando se presente ante el Secretario de Sala, dentro del término de tres días hábiles contados a partir del día en que concluya la sesión. En este supuesto, se insertará en la resolución respectiva.
 
 ###### Artículo 33.
 
 Engrose de las resoluciones. Las resoluciones que reflejen el sentido de la determinación jurisdiccional, serán engrosadas al expediente dentro de los tres días hábiles siguientes de su emisión, procediendo a su notificación a las partes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
+
 ###### Artículo 34.
 
-Excusas e impedimentos de integrantes de las Salas. El Pleno del Tribunal calificará las excusas e impedimentos de sus integrantes correspondientes a la Sala Administrativa. Si con motivo de la excusa o del impedimento, el asunto no pudiere ser resuelto, el Pleno llamará al Magistrado supernumerario que deba sustituirlo.
+Excusas e impedimentos de integrantes de las Salas. El Pleno del Tribunal calificará las excusas e impedimentos de los Magistrados para conocer de los asuntos de su competencia.
 
-Tratándose de las excusas de los Magistrados adscritos a las Salas Unitarias Especializadas, serán calificadas por el Presidente del Tribunal, quien lo turnará al Magistrado de su misma competencia; si éste también presentara motivo de excusa, se procederá en los términos previstos en el párrafo anterior.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
+En caso de que proceda la excusa o el impedimento de un Magistrado integrante de alguna Sala Administrativa, será suplido por el Secretario de Sala correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2021)</small>
+
+Una vez calificada la excusa o impedimento como procedente, el Presidente de Sala determinará, respecto de cualquier ponencia de la Sala Administrativa, al Secretario de Acuerdos que deberá sustituir al Secretario de Sala, para los efectos conducentes.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2021)</small>
+
+Tratándose de excusas o impedimentos del Magistrado de la Sala Unitaria Especializada, el Pleno habilitará a un Magistrado de las Salas Administrativas para que conozca de forma unitaria del asunto en cuestión en materia de responsabilidades administrativas.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 35.
 
-Desempeño por turno. Los Magistrados adscritos a la Sala Administrativa desempeñarán su función a partir de turnos aleatorios que garanticen la proporcionalidad de las cargas de trabajo.
+Desempeño por turno. Los Magistrados adscritos a las Salas Administrativas desempeñarán su función a partir de turnos aleatorios que garanticen la proporcionalidad de las cargas de trabajo.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 36.
 
-Personal Jurisdiccional de las Salas. Cada una de las Salas, contará por lo menos con un Secretario de Acuerdos, un Secretario Proyectista, y un notificador o actuario quien hará las notificaciones de la Sala y las del Tribunal según la materia que corresponda, y se deberá garantizar que cuenten con el personal necesario para atender los asuntos de su competencia conforme la disponibilidad presupuestaria con que cuente el Tribunal.
+Personal Jurisdiccional de las Salas Administrativas. Cada una de las Salas Administrativas, contará por lo menos con un Secretario de Acuerdos, un Secretario Proyectista y un Secretario Coordinador de Acuerdos y Proyectos por cada Ponencia, y se deberá garantizar que cuenten con el personal necesario para atender los asuntos de su competencia conforme la disponibilidad presupuestaria con que cuente el Tribunal.
 
-#### Sección Octava. De la Sala Administrativa
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JULIO DE 2021)</small>
+
+#### Sección Octava. De las Salas Administrativas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 37.
 
-Competencia de la Sala Administrativa. La Sala Administrativa, tendrá competencia para conocer y resolver, en términos de lo previsto por la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit y demás leyes aplicables en materia fiscal, las siguientes controversias:
+Competencia de las Salas Administrativas. Las Salas Administrativas, tendrán competencia para conocer y resolver, en términos de lo previsto por la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit y demás leyes aplicables en materia fiscal, las siguientes controversias:
 
 I. Las resoluciones administrativas y fiscales que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los Municipios y de los organismos públicos descentralizados de carácter estatal o municipal, por violaciones cometidas en las mismas o durante el procedimiento administrativo; en este último caso, cuando trasciendan al sentido de las resoluciones;
 
@@ -539,23 +629,33 @@ XIII. Las resoluciones que pongan fin al procedimiento que instauren los Consejo
 
 XIV. Los resultados de las evaluaciones que a los elementos de seguridad pública que practique el Centro Estatal de Control de Confianza y Evaluación del Desempeño y de la Certificación;
 
-XV. Resolver sobre las contradicciones de criterios sustentados por el Tribunal, determinando cuál de ellos deberá de prevalecer, y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XV. Conocer y resolver de los recursos a que se refiere la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit, que se interpongan en contra de sus propias determinaciones, y
 
 XVI. Los demás casos en los que las disposiciones legales le concedan competencia al Tribunal en controversias administrativa entre los particulares y las autoridades de la administración pública del Estado y de los Municipios.
 
-#### Sección Novena. Del Presidente de la Sala Administrativa
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JULIO DE 2021)</small>
+
+#### Sección Novena. Del Presidente de Sala
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 38.
 
-Designación y duración del encargo del Presidente de la Sala Administrativa. El Presidente de Sala será designado por el Pleno y durará en su encargo tres años, con la posibilidad de ser reelecto por un periodo igual, sin perjuicio de que una vez que deje el cargo de Presidente de Sala, continúe como Magistrado por el período respectivo. Para este efecto, resulta aplicable lo dispuesto en el artículo 18 de la presente Ley.
+Designación y duración del encargo del Presidente de Sala. El Presidente de Sala será designado por el Pleno y durará en su encargo tres años, con la posibilidad de ser reelecto por un periodo igual, sin perjuicio de que una vez que deje el cargo de Presidente de Sala, continúe como Magistrado por el período respectivo. Para este efecto, resulta aplicable lo dispuesto en el artículo 18 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 39.
 
-Suplencia del Presidente de la Sala Administrativa. El Presidente de Sala en sus faltas temporales y definitivas, será suplido por el Magistrado que designen los integrantes del Pleno. En el caso de falta definitiva, la designación será para concluir el periodo anterior.
+Suplencia del Presidente de Sala. El Presidente de Sala en sus faltas temporales y definitivas, será suplido por el Magistrado que designen los integrantes del Pleno. En el caso de falta definitiva, la designación será para concluir el periodo anterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 40.
 
-Atribuciones del Presidente de la Sala Administrativa. Son atribuciones del Presidente de Sala:
+Atribuciones del Presidente de Sala. Son atribuciones del Presidente de Sala:
 
 I. Dictar en términos de ley, los acuerdos de trámite que procedan en los asuntos de su competencia;
 
@@ -577,15 +677,21 @@ IX. Proveer lo necesario, en la esfera de su competencia, para garantizar el deb
 
 X. Ejercer las demás atribuciones que le asigne esta Ley, el Reglamento Interior y los acuerdos generales del Tribunal.
 
-#### Sección Décima. Del Secretario de Acuerdos de la Sala Administrativa
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JULIO DE 2021)</small>
+
+#### Sección Décima. Del Secretario de Sala
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 41.
 
-Secretario (sic) Acuerdos de la Sala Administrativa. La Sala Administrativa contará con un Secretario de Acuerdos designado por el Pleno del Tribunal.
+Secretario de Sala. Cada una de las Salas Administrativas contará con un Secretario de Acuerdos designado por el Pleno del Tribunal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 42.
 
-Atribuciones del Secretario de Acuerdos de la Sala Administrativa. El Secretario de la Sala, además de las atribuciones previstas por el artículo 28 de la presente Ley, que de manera homóloga deberá realizar, contará con las siguientes:
+Atribuciones del Secretario de Sala. El Secretario de Sala contará con las siguientes atribuciones:
 
 I. Asistir a las sesiones de la Sala Administrativa con voz informativa;
 
@@ -605,29 +711,67 @@ VIII. Conservar en secreto y bajo su más estricta responsabilidad, los escritos
 
 IX. Conservar en su poder el sello de la Sala Administrativa y hacer uso de él en cumplimiento de sus atribuciones;
 
-X. Tener a su cargo y responsabilidad el archivo de la Sala Administrativa, y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
 
-XI. Las demás que determinen las leyes, el Reglamento Interior y el Presidente de Sala.
+X. Tener a su cargo y responsabilidad el archivo de trámite de la Sala Administrativa, en tanto no se determine su definitividad;
 
-#### Sección Décima Primera. De las Salas Unitarias Especializadas
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JULIO DE 2021)</small>
+
+XI. Suscribir, con el Presidente de Sala, la correspondencia de la Sala Administrativa;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XII. Preparar las sesiones de la Sala Administrativa, y auxiliar en el desarrollo de las mismas;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XIII. Dar fe de los actos de la Sala Administrativa;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XIV. Ejecutar los acuerdos de la Sala Administrativa y del Presidente de Sala;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XV. Dar fe de los acuerdos del Presidente de Sala en los asuntos de trámite;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XVI. Mantener actualizadas las bases de datos, sistemas informáticos, así como cualquier tipo de control o tecnología de la información que implemente el Tribunal y que estén relacionadas con sus funciones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2021)</small>
+
+XVII. Las demás que determinen las leyes, el Reglamento Interior y el Presidente de Sala.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JULIO DE 2021)</small>
+
+#### Sección Décima Primera. De la Sala Unitaria Especializada
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 43.
 
-Salas Unitarias Especializadas. El Tribunal contará con dos Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas. Cada Sala estará integrada por un Magistrado numerario, quien, durante sus ausencias mayores a tres meses, previo llamamiento del Pleno, será suplido por el Magistrado supernumerario de dicha materia.
+Sala Unitaria Especializada. El Tribunal contará con una Sala Unitaria Especializada en Materia de Responsabilidades Administrativas. La Sala Unitaria Especializada estará integrada por un Magistrado numerario, quien, durante sus ausencias mayores a tres meses será suplido por el Magistrado supernumerario correspondiente.
 
-Cada una de las Salas Unitarias Especializadas, contará por lo menos con un Secretario de Acuerdos, un Secretario Proyectista, y un notificador o actuario quien hará las notificaciones de la Sala y las del Tribunal según la materia que corresponda, y se deberá garantizar que cuenten con el personal necesario para atender los asuntos de su competencia conforme la disponibilidad presupuestaria con que cuente el Tribunal.
+La Sala Unitaria Especializada, contará por lo menos con un Secretario de Acuerdos y un Secretario Proyectista, y se deberá garantizar que cuenten con el personal necesario para atender los asuntos de su competencia conforme la disponibilidad presupuestaria con que cuente el Tribunal.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 44.
 
-Resolución de acuerdos y sentencias definitivas. Tanto las resoluciones definitivas como los acuerdos de trámite de las Salas Unitarias Especializadas serán dictados por el Magistrado correspondiente ante la fe de su respectivo Secretario de Acuerdos.
+Resolución de acuerdos y sentencias definitivas. Tanto las resoluciones definitivas como los acuerdos de trámite de la Sala Unitaria Especializada serán dictados por el Magistrado ante la fe de su respectivo Secretario de Acuerdos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 45.
 
-Competencia de las Salas Unitarias Especializadas. Las Salas Unitarias Especializadas, serán competentes para:
+Competencia de la Sala Unitaria Especializada. La Sala Unitaria Especializada, será competente para:
 
 I. Resolver, en términos de la Ley General, respecto de los procedimientos de responsabilidad administrativa de los servidores públicos y particulares vinculados con faltas administrativas graves promovidos por la Secretaría de la Contraloría General del Gobierno del Estado de Nayarit, los Órganos Internos de Control de los entes públicos, así como por la Auditoría Superior del Estado;
 
-II. Apercibir, amonestar e imponer multas en favor del fondo del Tribunal, hasta por noventa veces la UMA al día de la comisión de la falta, a los abogados, agentes de negocios, procuradores o litigantes, auxiliares de la administración de justicia o cualquier otra persona, cuando faltaren al respeto al Pleno, la Sala Administrativa o las Salas Unitarias Especializadas o a alguno de sus miembros, en sus promociones por escrito o por cualquier otro medio;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+II. Apercibir, amonestar e imponer multas en favor del fondo del Tribunal, hasta por noventa veces la UMA al día de la comisión de la falta, a los abogados, agentes de negocios, procuradores o litigantes, auxiliares de la administración de justicia o cualquier otra persona, cuando faltaren al respeto al Pleno, las Salas Administrativas o la Sala Unitaria Especializada o a alguno de sus miembros, en sus promociones por escrito o por cualquier otro medio;
 
 III. Emitir las medidas necesarias para garantizar los principios de la función que les ha sido encomendada;
 
@@ -639,7 +783,9 @@ VI. Resolver los Recursos de Inconformidad y de Reclamación a que se refiere la
 
 VII. Conocer y resolver de los Juicios Contenciosos Administrativos que resulten de la impugnación de la resolución del Recurso de Revocación previsto en la Ley General, en términos de la legislación aplicable;
 
-VIII. Recibir el Recurso de Apelación a que se refiere la Ley General, y remitirlo acompañando copia certificada del expediente materia del recurso, a la Sala Constitucional del Tribunal Superior de Justicia del Estado para su resolución;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+VIII. Recibir el Recurso de Apelación a que se refiere la Ley General, y remitirlo acompañado del expediente materia del recurso, a la Sala Constitucional del Tribunal Superior de Justicia del Estado para su resolución;
 
 IX. Tramitar ante el Pleno, las recusaciones y excusas que sean promovidas o planteadas, según se trate;
 
@@ -649,39 +795,65 @@ XI. Las demás facultades que le confiere la Ley General.
 
 Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente, por lo que bajo ninguna circunstancia se entenderá que la atribución del Tribunal para imponer sanciones a particulares por actos u omisiones vinculadas con faltas administrativas graves, se contrapone o menoscaba las facultades que los Entes Públicos posean para imponer sanciones a particulares o servidores públicos en los términos de la legislación aplicable.
 
-#### Sección Décima Segunda. De los Magistrados de las Salas Unitarias Especializadas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JULIO DE 2021)</small>
+
+#### Sección Décima Segunda. Del Magistrado de la Sala Unitaria Especializada
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 46.
 
-Atribuciones. Son atribuciones de los Magistrados de las Salas Unitarias Especializadas:
+Atribuciones. Son atribuciones del Magistrado de la Sala Unitaria Especializada:
 
 I. Dictar en términos de ley, los trámites que procedan en los asuntos competencia de la Sala Unitaria Especializada, así como proveer y resolver los procedimientos y recursos de su legal competencia;
 
 II. Firmar las resoluciones ante la fe del Secretario de Acuerdos;
 
-III. Representar a la Sala Unitaria Especializada de la que es titular y despachar la correspondencia oficial de ésta;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
 
-IV. Rendir los informes previos y justificados en los Juicios de Amparo promovidos contra las resoluciones de la Sala Unitaria Especializada respectiva;
+III. Representar a la Sala Unitaria Especializada y despachar su correspondencia oficial;
 
-V. Rendir al Pleno un informe trimestral de las actividades desarrolladas por la Sala Unitaria Especializada respectiva;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+IV. Rendir los informes previos y justificados en los Juicios de Amparo promovidos contra las resoluciones de la Sala Unitaria Especializada;
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+V. Rendir al Pleno un informe trimestral de las actividades desarrolladas por la Sala Unitaria Especializada;
 
 VI. Vigilar y tomar las providencias necesarias para el buen funcionamiento de la Sala Unitaria Especializada;
 
-VII. Garantizar que el personal a su cargo mantenga actualizadas las bases de datos, sistemas informáticos, así como cualquier tipo de control o tecnología de la información que implemente el Tribunal, y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
 
-VIII. Ejercer las demás atribuciones que le asigne esta Ley, el Reglamento Interior y los acuerdos generales del Tribunal.
+VII. Garantizar que el personal a su cargo mantenga actualizadas las bases de datos, sistemas informáticos, así como cualquier tipo de control o tecnología de la información que implemente el Tribunal;
 
-#### Sección Décima Tercera. De los Secretarios de Acuerdos de las Salas Unitarias Especializadas
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JULIO DE 2021)</small>
+
+VIII. Proponer al Pleno para su aprobación, de manera fundada y motivada, la solicitud para que se habiliten Magistrados de las Salas Administrativas para que conozcan de forma unitaria de las responsabilidades administrativas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2021)</small>
+
+IX. Ejercer las demás atribuciones que le asigne esta Ley, el Reglamento Interior y los acuerdos generales del Tribunal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JULIO DE 2021)</small>
+
+#### Sección Décima Tercera. Del Secretario de Acuerdos de la Sala Unitaria Especializada
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
 
 ###### Artículo 47.
 
-Atribuciones de los Secretarios de Acuerdos. Los Secretarios de Acuerdos de las Salas Unitarias Especializadas o quiénes los sustituyan legalmente, tendrán fe pública en todo lo relativo a su encargo.
+Atribuciones del Secretario de Acuerdos. El Secretario de Acuerdos de la Sala Unitaria Especializada o quien lo sustituya legalmente, tendrá fe pública en todo lo relativo a su encargo.
 
-Son atribuciones y deberes de los Secretarios de Acuerdos de las Salas Unitarias Especializadas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JULIO DE 2021)</small>
+
+Son atribuciones y deberes del Secretario de Acuerdos de la Sala Unitaria Especializada.
 
 I. Supervisar que en la recepción de los escritos se asiente al calce la razón, el día y hora de su presentación, el nombre de quien lo presente y su identificación, expresando el número de hojas que contengan los documentos que se acompañan; en la copia que en su caso se exhiba, deberán poner razón idéntica y el sello de la Sala Unitaria Especializada. Podrá delegar con autorización del Magistrado, en el personal de la Sala Unitaria Especializada que considere apto, la recepción de escritos y documentos solamente en horas hábiles;
 
-II. Dar cuenta diariamente al Magistrado de quien dependa, bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a la presentación, con todos los escritos y promociones de los interesados, así como de los oficios y demás documentos que se reciban asentando razón en autos, con un proyecto de acuerdo en términos de las instrucciones recibidas;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+II. Dar cuenta diariamente al Magistrado, bajo su más estricta responsabilidad, y dentro de las veinticuatro horas siguientes a la presentación, con todos los escritos y promociones de los interesados, así como de los oficios y demás documentos que se reciban asentando razón en autos, con un proyecto de acuerdo en términos de las instrucciones recibidas;
 
 III. Autorizar exhortos, oficios comisorios y despachos que se giren, actas que se formulen y diligencias que se practiquen;
 
@@ -699,7 +871,9 @@ IX. Entregar mediante recibo y vigilar la devolución de los expedientes en los 
 
 X. Dar fe y autorizar los actos de su superior inmediato en ejercicio de sus funciones;
 
-XI. Conservar bajo su custodia los libros de la oficina, expedientes, mobiliarios y enseres que existan en la Sala Unitaria Especializada respectiva;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XI. Conservar bajo su custodia los libros de la oficina, expedientes, mobiliarios y enseres que existan en la Sala Unitaria Especializada;
 
 XII. Llevar al corriente los libros que prevenga esta Ley o que el Magistrado le encomiende;
 
@@ -715,7 +889,9 @@ XVII. Mantener actualizadas las bases de datos, sistemas informáticos, así com
 
 XVIII. Las demás que la Ley y el Reglamento Interior le confiera.
 
-#### Sección Décima Cuarta. De los Actuarios o Notificadores de las Sala Unitarias Especializadas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JULIO DE 2021)</small>
+
+#### Sección Décima Cuarta. De los Actuarios o Notificadores del Tribunal
 
 ###### Artículo 48.
 
@@ -723,19 +899,27 @@ Atribuciones. Son atribuciones de los actuarios o notificadores:
 
 I. Notificar los acuerdos, autos o resoluciones en los términos prevenidos por la ley;
 
-II. Glosar los acuerdos que les encomiende el Secretario Proyectista y los Secretarios de Acuerdos;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+II. Glosar los acuerdos que les encomiende el Secretario Proyectista y el Secretario de Acuerdos, correspondiente;
 
 III. Integrar promociones y actuaciones a la pieza de autos;
 
-IV. Auxiliar al Secretario de Acuerdos, para llevar el control y mantener al corriente los libros de la Sala;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
 
-V. Auxiliar y sustituir en los términos de esta Ley al Secretario de Acuerdos de quien dependan en las labores de su encargo;
+IV. Auxiliar al Secretario de Acuerdos correspondiente, para llevar el control y mantener al corriente los libros de las Salas;
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+V. Auxiliar a los Secretarios de Acuerdos en las labores de su encargo;
 
 VI. Mantener actualizadas las bases de datos, sistemas informáticos, así como cualquier tipo de control o tecnología de la información que implemente el Tribunal y que estén relacionadas con sus funciones, y
 
 VII. Las demás que esta Ley y otros ordenamientos legales les encomienden.
 
-Tratándose de actuarios o notificadores adscritos al Pleno o a la Sala Administrativa se aplicarán en lo conducente las previsiones de las fracciones anteriores.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
+Los actuarios o notificadores estarán adscritos a la Coordinación de Notificadores, que dependerá del Secretario del Pleno, y cuyas atribuciones se establecerán en el Reglamento Interior.
 
 ### Capítulo Segundo. De la Estructura Administrativa
 
@@ -845,15 +1029,17 @@ Competencia del Órgano Interno de Control. El Tribunal contará con un Órgano 
 
 I. El Titular del Órgano Interno de Control;
 
-II. La Autoridad Auditora;
+II. (DEROGADA, P.O. 26 DE JULIO DE 2021)
 
 III. La Autoridad Investigadora, y
 
 IV. La Autoridad Substanciadora
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
+
 ###### Artículo 53.
 
-Atribuciones. El titular del Órgano Interno de Control tendrá las siguientes atribuciones:
+Atribuciones. El Órgano Interno de Control tendrá las siguientes atribuciones:
 
 I. Formular el programa anual de control y de auditoría del Tribunal, someterlo a la aprobación del Pleno y proceder a su ejecución;
 
@@ -875,7 +1061,7 @@ IX. Intervenir en los actos y procedimientos de la entrega-recepción de los ór
 
 X. Auxiliar al Pleno en la integración e interpretación de la información financiera, presupuestal y administrativa del Tribunal, así como en las demás actividades de su competencia que considere necesario;
 
-XI Rendir cada año por escrito ante el Pleno y antes del informe del Presidente, un informe de actividades para conocimiento y evaluación correspondiente;
+XI. Rendir cada año por escrito ante el Pleno y antes del informe del Presidente, un informe de actividades para conocimiento y evaluación correspondiente;
 
 XII. Diseñar y supervisar las metodologías que permitan evaluar el desempeño de los servidores públicos del Tribunal;
 
@@ -885,7 +1071,9 @@ XIV. Proponer al Pleno para su aprobación y designación al personal que estar�
 
 XV. Establecer mecanismos de control para garantizar que el personal del Tribunal mantenga actualizadas las bases de datos, sistemas informáticos, así como cualquier tipo de control o tecnología de la información que implemente el Tribunal, y
 
-XVI. Las que le encomiende el Pleno, así como las que las disposiciones normativas le faculten.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XVI. Las demás que deriven de las disposiciones normativas y aquellas que se establezcan en el Reglamento Interior, así como las que le encomiende el Pleno.
 
 #### Sección Cuarta. Área Coordinadora de Archivos
 
@@ -901,15 +1089,19 @@ Titular del área coordinadora de archivos. La Coordinación de Archivos tendrá
 
 ### Capítulo Único. Impedimentos, Incapacidad, Recusación y Excusas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
+
 ###### Artículo 56.
 
-Impedimentos. Los Magistrados, Secretario del Pleno, Secretario de la Sala, Secretarios Proyectistas, Secretarios de Acuerdos, Actuarios y Jefes de Unidad, estarán impedidos para desempeñar cualquier otro empleo en la Federación, Estado, Municipios, otras entidades federativas, o de algún particular, excepto los de carácter académico, siempre que su desempeño no afecte las funciones propias de su encargo.
+Impedimentos. Los Magistrados, Secretario del Pleno, Secretario de Sala, Secretarios Proyectistas, Secretarios de Acuerdos, Actuarios y Jefes de Unidad, estarán impedidos para desempeñar cualquier otro empleo en la Federación, Estado, Municipios, otras entidades federativas, o de algún particular, excepto los de carácter académico, siempre que su desempeño no afecte las funciones propias de su encargo.
 
 También estarán impedidos para ejercer la profesión de abogado, salvo en causa propia, de su cónyuge o de sus familiares hasta el cuarto grado. Tampoco podrán ser ministros de algún culto religioso.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
 ###### Artículo 57.
 
-Retiro por incapacidad. Los Magistrados, Secretario del Pleno, Secretario de la Sala, Secretarios de Acuerdos, Secretarios Proyectistas, Actuarios y Jefes de Unidad, a quienes les sobrevenga incapacidad física o mental que afecte el desempeño de su cargo, no podrán seguir prestando sus servicios en el Tribunal; percibirán las prestaciones que establezca la legislación aplicable.
+Retiro por incapacidad. Los Magistrados, Secretario del Pleno, Secretario de Sala, Secretarios de Acuerdos, Secretarios Proyectistas, Actuarios y Jefes de Unidad, a quienes les sobrevenga incapacidad física o mental que afecte el desempeño de su cargo, no podrán seguir prestando sus servicios en el Tribunal; percibirán las prestaciones que establezca la legislación aplicable.
 
 Artículo. 58. Recusación. Los servidores públicos del Tribunal deberán manifestar que están impedidos para conocer de los asuntos de su competencia, cuando se actualice alguno de los siguientes supuestos:
 
@@ -945,11 +1137,13 @@ XV. Haber sido testigo, apoderado, abogado o defensor en el asunto de que se tra
 
 XVI. Por alguna otra causa prevista por la ley.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
 ###### Artículo 59.
 
-Excusas. El servidor público que se encuentre en alguna de las circunstancias señaladas en el artículo anterior, tan pronto tenga conocimiento de la misma, se excusará de intervenir en el procedimiento y lo comunicará al Pleno o la Sala Administrativa, según corresponda, quien resolverá lo conducente dentro de los tres días siguientes.
+Excusas. El servidor público que se encuentre en alguna de las circunstancias señaladas en el artículo anterior, tan pronto tenga conocimiento de la misma, se excusará de intervenir en el procedimiento y lo comunicará al Pleno o a la Sala Administrativa respectiva, según corresponda, quien resolverá lo conducente dentro de los tres días siguientes.
 
-Cuando hubiere otro servidor público con competencia, el superior jerárquico turnará el asunto a éste; en su defecto, dispondrá que el servidor público que se hubiere excusado resuelva bajo la supervisión del Pleno o la Sala Administrativa.
+Cuando hubiere otro servidor público con competencia, el superior jerárquico turnará el asunto a éste; en su defecto, dispondrá que el servidor público que se hubiere excusado resuelva bajo la supervisión del Pleno o la Sala Administrativa respectiva.
 
 ###### Artículo 60.
 
@@ -1088,3 +1282,23 @@ Dado en Sesión Pública Virtual del Recinto Oficial de este Honorable Congreso 
 Dip. Heriberto Castañeda Ulloa, Presidente.- Rúbrica.- Dip. Margarita Morán Flores, Secretaria.- Rúbrica.- Dip. Ignacio Alonso Langarica Ávalos, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintiséis días del mes de noviembre de dos mil veinte.- L.C. ANTONIO ECHEVARRÍA GARCÍA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Antonio Serrano Guzmán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. La segunda Sala Administrativa deberá estar debidamente integrada y entrar en funciones en un plazo que no exceda de 90 días naturales, contados a partir de la entrada en vigor de la presente reforma.
+
+TERCERO. La Sala Administrativa del Tribunal integrada previo a la entrada en vigor del presente Decreto, continuará conociendo y resolviendo respecto de los procesos que se encuentren en trámite y de los recursos administrativos que deriven de sus propias determinaciones, hasta en tanto no se emita el acuerdo de inicio formal de funciones de la Segunda Sala Administrativa.
+
+CUARTO. Las Salas Unitarias Especializadas del Tribunal de Justicia Administrativa continuarán conociendo y resolviendo respecto de los asuntos de su competencia y que se encuentren en trámite, hasta en tanto no se emita el acuerdo por parte del Pleno del Tribunal, del inicio formal de funciones de la segunda Sala Administrativa, en términos del Transitorio Segundo.
+
+Emitido el acuerdo referido, la Sala Unitaria Especializada que se determine deba desaparecer deberá remitir a la Sala Unitaria Especializada subsistente, por conducto de la Secretaría General de Acuerdos del Pleno, los expedientes de su competencia para su trámite y resolución.
+
+QUINTO. Todos los nombramientos del personal jurisdiccional que deriven de la entrada en vigor del presente decreto, serán considerados de libre designación; no obstante, al momento de su designación se deberá garantizar que cuente con la capacidad, profesionalización y eficiencia requerida para el debido cumplimiento de sus funciones.
+
+SEXTO. Dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones reglamentarias pertinentes para proveer su eficaz cumplimiento.
