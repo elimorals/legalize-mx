@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-145642"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-29"
-last_updated: "2020-12-29"
+last_updated: "2021-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2021
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el martes 29 de diciembre de 2020.
 
@@ -122,6 +122,8 @@ LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2
 En el Ejercicio Fiscal del año 2021, la Hacienda Pública del Estado percibirá los ingresos proveniente de los conceptos y en las cantidades estimadas en pesos que se indican a continuación:
 
 > <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 29 DE DICIEMBRE DE 2020, PÁGINAS DE LA 4 A LA 10.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 26 DE JULIO DE 2021, PÁGINAS DE LA 3 A LA 8.]</small>
 
 Los ingresos derivados de financiamiento, corresponden a los autorizados por el H. Congreso del Estado, mediante decreto número 63, publicado el día 10 de diciembre de 2018, su Fe de Erratas, publicada el día 28 de diciembre de 2018 y su modificación publicada el 23 de octubre de 2020, todas en el Periódico Oficial del Estado, y que corresponde a los recursos no dispuestos y/o ejercidos durante el ejercicio fiscal 2020. Lo anterior de conformidad con lo dispuesto por el Artículo Segundo Transitorio del referido Decreto.
 
@@ -223,13 +225,25 @@ Por cualquier informe o historial catastral que sea solicitado dentro de un proc
 
 ### CAPÍTULO V. De las Autoridades de la Secretaría de Turismo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
+
 ###### Artículo 11.
 
-Por el uso o goce de bienes y por la prestación de servicios de las Autoridades de la Secretaría de Turismo, se causarán y pagarán los derechos correspondientes, aplicando las siguientes tarifas:
+Por el uso, goce, aprovechamiento o explotación de bienes y por la prestación de servicios de las Autoridades de la Secretaría de Turismo, se causarán y pagarán los derechos correspondientes, aplicando las siguientes tarifas:
 
 > <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 29 DE DICIEMBRE DE 2020, PÁGINAS DE LA 26 A LA 28.]</small>
 
-La Secretaría de Finanzas del Estado mediante solicitud justificada que reciba del Titular de la Secretaría de Turismo, podrá otorgar descuentos de hasta el 50% por los derechos señalados en este Artículo, con el fin de fomentar los programas turísticos en el Estado.
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 26 DE JULIO DE 2021, PÁGINAS DE LA 8 A LA 10.]</small>
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
+La Secretaría de Finanzas del Estado mediante solicitud justificada que reciba del Titular de la Secretaría de Turismo, podrá otorgar descuentos de hasta el 50% por los derechos señalados en las fracciones I a III de este Artículo, con el fin de fomentar los programas turísticos en el Estado.
+
+> <small>(ADICIONADO [N. DE E. CON SU TABLA], P.O. 26 DE JULIO DE 2021)</small>
+
+De igual forma, la Secretaría de Finanzas mediante solicitud justificada que reciba del Titular de la Secretaría de Turismo, podrá otorgar descuentos en los espacios del Polifórum Charro a que se refieren las fracciones IV y V, conforme a lo que se desprende en la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLA EN LA EDICIÓN VESPERTINA DEL P.O. DE 26 DE JULIO DE 2021, PÁGINA 11.]</small>
 
 ### CAPÍTULO VI. De las Autoridades de la Coordinación General de Movilidad
 
@@ -646,3 +660,21 @@ ANEXO DE RESULTADOS DE LAS FINANZAS PÚBLICAS, CONFORME EL ARTÍCULO 5° DE LA L
 ANEXO DE INGRESOS POR FUENTE DE FINANCIAMIENTO, CONFORME EL ARTÍCULO 41 DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
 
 > <small>[N. DE E. VÉASE ANEXO, EN LA PRIMERA SECCIÓN DEL P.O. DE 29 DE DICIEMBRE DE 2020, PÁGINA 270.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 590.- REFORMAS A LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2021 Y REFORMAS AL PRESUPUESTO DE EGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2021”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye a la Secretaría de Administración del Estado de Aguascalientes para que, en conjunto con la Secretaría de Finanzas del Estado de Aguascalientes, así como a los Titulares de la (sic) Entidades paraestatales, procedan con las acciones necesarias tendientes a la aplicación del tabulador actualizado, con efectos retroactivos al día 01 de julio del año 2021, ello conforme al alcance de las atribuciones de cada una de las citadas Dependencias y Entidades del Poder Ejecutivo Estatal.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto aquellas disposiciones que se opongan al presente Decreto.
