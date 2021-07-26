@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-y-procedimientos-administrativos-del-estado-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-21"
-last_updated: "2020-11-26"
+last_updated: "2021-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2021.
 
 Ley publicada en la Sección Segunda Número: 121 del Periódico Oficial Órgano del Gobierno del Estado de Nayarit, el miércoles 21 de diciembre de 2016.
 
@@ -95,9 +95,9 @@ III. Documento digital: Todo mensaje de datos que contiene, imágenes, texto o e
 
 IV. Magistrado instructor: Al Magistrado que en razón de turno, se le encomiende la función de seguimiento, estudio, instrucción del asunto y la comunicación de sus resultados e ilustración sobre el estado de la causa al órgano Colegiado correspondiente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
 
-V. Sala Administrativa: Al órgano Colegiado integrado por tres Magistrados numerarios con competencia en asuntos jurisdiccionales administrativos y fiscales del Tribunal de Justicia Administrativa de Nayarit;
+V. Sala Administrativa: A los Órganos Colegiados integrados por tres Magistrados numerarios con competencia en asuntos jurisdiccionales administrativos y fiscales del Tribunal de Justicia Administrativa de Nayarit;
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
@@ -433,9 +433,11 @@ IV. Las resoluciones que pongan fin al procedimiento de ejecución de sentencia,
 
 V. Las determinaciones que impongan los medios de apremio y medidas disciplinarias que prevén las fracciones I, II, y VI del artículo 20 de esta ley.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 243.
 
-El recurso de reconsideración podrá ser interpuesto por cualquiera de las partes, con expresión de agravios, dentro del plazo de los ocho días siguientes al en que surta efectos la notificación de la resolución o sentencia que se impugne. El recurso se presentará ante el presidente del Tribunal, el cual lo turnará para su trámite a un magistrado distinto del instructor.
+El recurso de reconsideración podrá ser interpuesto por cualquiera de las partes, con expresión de agravios, dentro del plazo de los ocho días siguientes al en que surta efectos la notificación de la resolución o sentencia que se impugne. El recurso se presentará ante el presidente del Tribunal, el cual lo turnará para su trámite a un magistrado distinto del instructor, integrante de la Sala Administrativa que emitió la determinación.
 
 ###### ARTÍCULO 244.
 
@@ -658,6 +660,14 @@ CUARTO. Los procedimientos y recursos pendientes de remisión al Tribunal de Jus
 QUINTO. De conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit, el día 28 de julio de 2020, el Magistrado y Magistrada numerarios que fueron nombrados por el Congreso del Estado se encontrarán adscritos a las correspondientes Salas Unitarias Especializadas en materia de Responsabilidades Administrativas, al menos durante los primeros cinco años del Ejercicio de su encargo, sin perjuicio de las atribuciones del Pleno, previstas en la presente Ley.
 
 SEXTO. Dentro de los 90 días naturales posteriores a la entrada en vigor del presente decreto, deberán realizarse las adecuaciones normativas y reglamentarias pertinentes para proveer al eficaz cumplimiento del presente Decreto.
+
+P.O. 26 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA LOS ARTÍCULOS 4 Y 243 DE LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones reglamentarias pertinentes para proveer su eficaz cumplimiento.
 
 ###### ARTÍCULO 55.
 
