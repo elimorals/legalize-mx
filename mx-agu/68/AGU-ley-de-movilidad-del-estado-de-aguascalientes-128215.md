@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2020-09-14"
+last_updated: "2021-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2021.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -463,9 +463,21 @@ XXXIV. En coordinación con la SSE, aplicar periódicamente exámenes psicofísi
 
 XXXV. Otorgar permisos temporales a personas físicas y morales, aún y cuando no sean concesionarias, para la prestación del servicio de transporte público, en casos de suspensión total o parcial del servicio por causas de caso fortuito, fuerza mayor o por necesidades de interés público;
 
-XXXVI. Programar, supervisar, vigilar, controlar y evaluar la operación del SITMA; y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
 
-XXXVII. Las demás que señalen las disposiciones legales o reglamentarias aplicables.
+XXXVI. Programar, supervisar, vigilar, controlar y evaluar la operación del SITMA;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JULIO DE 2021)</small>
+
+XXXVII. Suscribir con entes públicos o privados los instrumentos jurídicos necesarios para el otorgamiento de apoyos, subsidios o subvenciones de conformidad con los programas aprobados por el Comité Técnico del Fondo Estatal para la Movilidad;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XXXVIII. Diseñar, promover, coordinar, ejecutar, controlar y evaluar en el ámbito de su competencia los programas, proyectos, acciones y políticas públicas en materia de movilidad, transporte público y seguridad vial; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA, P.O. 26 DE JULIO DE 2021)</small>
+
+XXXIX. Las demás que señalen las disposiciones legales o reglamentarias aplicables.
 
 ###### ARTÍCULO 14.
 
@@ -989,9 +1001,13 @@ I. Destinarlos a mejorar las condiciones de infraestructura, seguridad vial y ac
 
 II. Impulsar los proyectos y acciones presentados por entes públicos o privados siempre que tengan como finalidad instrumentar acciones concretas en materia de movilidad y transporte de acuerdo con los fines y principios establecidos en esta normatividad;
 
-III. Financiar las tarifas preferenciales extraordinarias del transporte público a las que hace referencia el artículo 76 de este ordenamiento; y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
 
-IV. Apoyar y/o estimular el adecuado funcionamiento del servicio de transporte en el Estado.
+III. Financiar las tarifas extraordinarias del transporte público a las que hace referencia el artículo 76 párrafo tercero y 145 de este ordenamiento; y
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+
+IV. Otorgar apoyos, subsidios o subvenciones para estimular o mejorar la prestación del servicio de transporte público en el Estado.
 
 Lo referido en las Fracciones anteriores, deberá ser previamente analizado y aprobado por el Comité Técnico.
 
@@ -4746,3 +4762,19 @@ P.O. 14 DE SEPTIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 590.- REFORMAS A LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2021 Y REFORMAS AL PRESUPUESTO DE EGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2021".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye a la Secretaría de Administración del Estado de Aguascalientes para que, en conjunto con la Secretaría de Finanzas del Estado de Aguascalientes, así como a los Titulares de la (sic) Entidades paraestatales, procedan con las acciones necesarias tendientes a la aplicación del tabulador actualizado, con efectos retroactivos al día 01 de julio del año 2021, ello conforme al alcance de las atribuciones de cada una de las citadas Dependencias y Entidades del Poder Ejecutivo Estatal.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto aquellas disposiciones que se opongan al presente Decreto.
