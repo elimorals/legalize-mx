@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-desarrollo-urbano-del-distrito-127150"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-03-15"
-last_updated: "2020-09-11"
+last_updated: "2021-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127150&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-03-05"
 
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE JULIO DE 2021.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 15 de marzo de 2018.
 
@@ -399,6 +399,32 @@ X. Concluido el trámite la Secretaría lo notificará al Órgano Político Admi
 > <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2018)</small>
 
 En los Programas Parciales de Desarrollo Urbano se establecerán los casos en que no podrá aplicarse el procedimiento a que se refiere este artículo.
+
+> <small>(ADICIONADO, G.O. 27 DE JULIO DE 2021)</small>
+
+###### Artículo 15 Bis.
+
+Las personas que ejerzan actividades en micro o pequeños comercios, servicios o industrias de bajo impacto, en inmuebles de hasta 200 m2 de superficie construida podrán tramitar ante la Secretaría el Certificado de Uso del Suelo por Reconocimiento de Actividad en la plataforma digital dispuesta para ese efecto, de acuerdo con el siguiente procedimiento:
+
+I. La persona interesada proporcionará los datos y presentará en archivo digital los documentos de identificación personal y del inmueble correspondiente, así como la descripción precisa de la actividad que se ejerce y área del inmueble destinada a ésta de acuerdo con el formulario.
+
+II. Tratándose de inmuebles que funcionen bajo el régimen de propiedad en condominio, deberá presentarse en archivo digital la escritura del régimen y del acta de asamblea donde los condóminos otorgan su consentimiento por mayoría simple para la realización de la actividad correspondiente.
+
+III. Tratándose de inmuebles afectos al patrimonio cultural, histórico, artístico y/o urbano, la Secretaría recabará opinión técnica de la unidad administrativa interna correspondiente, del Instituto de (sic) Nacional de Bellas Artes y Literatura o del Instituto Nacional de Antropología e Historia y las incorporará en el expediente electrónico correspondiente.
+
+IV. En caso de que la solicitud no contenga los requisitos o no se acompañe de los documentos previstos en las fracciones anteriores, se prevendrá a la persona interesada a través de la plataforma digital y por una sola vez, para que dentro del término de cinco días hábiles siguientes a la notificación de dicha prevención subsane la falta. En el supuesto de que en el término señalado no se subsane la irregularidad se tendrá por no presentada la solicitud en la plataforma, quedando a salvo el derecho de volver a presentarla.
+
+V. La Secretaría emitirá el dictamen correspondiente dentro de los siguientes cinco días a la presentación de la solicitud o de la recepción de la opinión señalada en la fracción III y lo notificará a través de la plataforma.
+
+VI. En caso de ser positivo el dictamen, se requerirá el recibo de pago para la expedición del Certificado de Uso del Suelo por Reconocimiento de Actividad y se entregará mediante la propia plataforma digital.
+
+La vigencia del Certificado de Uso del Suelo por Reconocimiento de Actividad será temporal hasta en tanto se realice el cambio de uso del suelo dispuesto en el artículo 15 del presente Reglamento, o se actualice la zonificación en el programa correspondiente, siempre que no hubieren cambiado las condiciones en que fue expedido. Su costo será el mismo que el correspondiente al del Certificado Único de Zonificación de Uso del Suelo.
+
+No se podrá expedir Certificado de Uso del Suelo por Reconocimiento de Actividad en zonificación de área verde o en Áreas Naturales Protegidas, Áreas de Valor Ambiental, Áreas de Producción Rural-Agroindustrial, Áreas de Preservación Ecológica y Áreas de Rescate Ecológico, conforme al Programa General de Ordenamiento Ecológico del Distrito Federal.
+
+En el Certificado de Uso del Suelo por Reconocimiento de Actividad se indicará que el uso del suelo autorizado no se considera inherente al inmueble ni es transferible y que su titularidad corresponde únicamente a la persona que lo tramitó para ser ejercido en el inmueble señalado en el propio certificado, por lo que no da origen a la acreditación de derechos adquiridos.
+
+La Secretaría publicará en la Gaceta Oficial el listado de actividades, servicios o industrias de bajo impacto que podrán tramitar el Certificado de Uso del Suelo por Reconocimiento de Actividad, con base en el Sistema de Clasificación Industrial de América del Norte (SCIAN). Dicha actualización podrá consultarse en la plataforma digital dispuesta para ese efecto, así como en la página oficial de la Secretaría. No podrán incluirse los giros de “Comercio al por menor en supermercados” ni “Comercio al por menor en minisúpers”, conforme a la clasificación mencionada, ni cualquiera relativo a planteles educativos o de alto impacto social.
 
 ### CAPÍTULO II. DEL REGISTRO DE LOS PLANES Y PROGRAMAS
 
@@ -1080,9 +1106,11 @@ El propietario que pretenda ampliar una edificación, que esté en los supuestos
 
 La Secretaría en todo momento podrá realizar visitas técnicas al predio materia de la solicitud, con el fin de constatar la información ingresada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2021)</small>
+
 ###### Artículo 88.
 
-Para solicitar un dictamen de impacto urbano, su modificación o prórroga, el propietario deberá cumplir con los requisitos establecidos en la normatividad aplicable. Asimismo, para cada trámite deberán presentarse ante la Secretaría los siguientes estudios, documentos o reportes que correspondan:
+Para solicitar un dictamen de impacto urbano o su modificación, o registrar su revalidación, el propietario deberá cumplir con los requisitos establecidos en la normatividad aplicable. Asimismo, para cada trámite deberán presentarse ante la Secretaría los siguientes estudios, documentos o reportes que correspondan:
 
 I. Para el Dictamen de impacto urbano para obra nueva o ampliación. Deberá presentarse ante la Secretaría el estudio de impacto urbano debidamente suscrito y avalado por un Perito en Desarrollo Urbano, el cual deberá contener:
 
@@ -1110,7 +1138,9 @@ i). Propuesta de Medidas de Integración Urbana y su Programa de Ejecución en r
 
 II. Para modificación de dictamen de impacto urbano. Deberá presentarse ante la Secretaría un Reporte de Avance del Cumplimiento de Medidas de Integración Urbana, conforme a su Programa de Ejecución en relación al avance de obra, considerando las acciones necesarias en materia de movilidad, protección civil, reforzamientos hidráulicos, de mejoramiento del entorno urbano y servicios urbanos suficientes, para la integración del proyecto a su entorno urbano inmediato, además de cubrir los requisitos que señalen los Lineamientos Técnicos correspondientes.
 
-III. Para prórroga de dictamen de impacto urbano. Deberá presentarse ante la Secretaría el documento técnico, en el que se sustente que a la fecha no se han modificado las condiciones urbanas del dictamen de impacto urbano, respecto del entorno al proyecto que se consideraron para la emisión. Asimismo, indicar el cumplimiento que se ha dado a las medidas de integración urbana y condiciones establecidas en el Dictamen de origen, acorde a los informes trimestrales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 27 DE JULIO DE 2021)</small>
+
+III. Para revalidación de dictamen de impacto urbano. Deberá presentarse un Aviso ante la Secretaría acompañado del documento técnico en el que se sustente que a la fecha no se han modificado las condiciones urbanas del dictamen de impacto urbano respecto del entorno al proyecto que se consideraron para la emisión. Asimismo, indicar el cumplimiento que se ha dado a las medidas de integración urbana y condiciones establecidas en el Dictamen de origen, acorde a los informes trimestrales.
 
 En su caso, presentar el Reporte de Avance del Cumplimiento de Medidas de Integración Urbana, conforme a su Programa de Ejecución en relación al avance de obra, considerando las acciones necesarias en materia de movilidad, protección civil, reforzamientos hidráulicos, de mejoramiento del entorno urbano y servicios urbanos suficientes, para la integración del proyecto a su entorno urbano inmediato, además de cubrir los requisitos que señalen los Lineamientos Técnicos correspondientes.
 
@@ -1128,9 +1158,11 @@ III. Documento que garantice el cumplimiento de las medidas de integración dict
 
 El dictamen de impacto urbano expedido tendrá la vigencia que dure la ejecución de la obra motivo de su expedición.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2021)</small>
+
 ###### Artículo 89.
 
-Para solicitar dictamen de impacto urbano para los Sistemas de Actuación por Cooperación, su modificación o prórroga, el propietario además de cumplir con los requisitos dispuestos en la normatividad, deberá presentar lo siguiente:
+Para solicitar dictamen de impacto urbano para los Sistemas de Actuación por Cooperación o su modificación o presentar el Aviso de Revalidación, el propietario además de cumplir con los requisitos dispuestos en la normatividad, deberá presentar lo siguiente:
 
 a) Solicitud de Adhesión al Sistema de Actuación por Cooperación;
 
@@ -1238,13 +1270,15 @@ En caso de no cumplir con la publicación el dictamen del estudio de impacto urb
 
 El interesado deberá rendir un informe al menos cada tres meses ante la Secretaría sobre el cumplimiento de las medidas de integración y condiciones impuestas en el dictamen de estudio de impacto urbano positivo o dictamen de impacto urbano ambiental positivo, los cuales deberán estar avalados por el Perito en Desarrollo Urbano que suscribió el estudio de impacto urbano dictaminado; en caso de incumplimiento, la Secretaría por conducto de la Dirección General de Administración Urbana notificará del incumplimiento al Instituto de Verificación Administrativa del Distrito Federal y al Órgano Político Administrativo correspondiente, para que de ser procedente, inicien el procedimiento de verificación en el ámbito de su respectiva competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2021)</small>
 
 ###### Artículo 98.
 
-El dictamen tendrá una vigencia de dos años contados a partir de la fecha de su notificación, con excepción del dictamen expedido conforme al artículo 88 Bis. Si el anteproyecto no hubiera sido modificado y no hubiera cambiado la situación del entorno urbano de la zona en donde se pretenda ubicar, la Secretaría podrá prorrogar el dictamen por dos años más, hasta en dos ocasiones.
+El dictamen tendrá una vigencia de dos años contados a partir de la fecha de su notificación, con excepción del dictamen expedido conforme al artículo 88 Bis. Si el anteproyecto no hubiera sido modificado y no hubiera cambiado la situación del entorno urbano de la zona en donde se pretenda ubicar, la Secretaría podrá registrar la revalidación del dictamen por dos años más, hasta en dos ocasiones.
 
-El propietario podrá solicitar la prórroga o modificación del dictamen de estudio de impacto urbano o impacto urbano ambiental ante el Área de Atención Ciudadana de la Secretaría dentro de los 30 días previos a la conclusión de la vigencia del dictamen.
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2021)</small>
+
+El propietario podrá presentar el Aviso de Revalidación o solicitar la modificación del dictamen de estudio de impacto urbano o impacto urbano ambiental ante el Área de Atención Ciudadana de la Secretaría dentro de los 30 días previos a la conclusión de la vigencia del dictamen.
 
 En caso de haberse efectuado el registro de manifestación de construcción al amparo del dictamen de estudio de impacto urbano positivo o dictamen de impacto urbano ambiental positivo, éste último adquirirá la vigencia de dicho registro, toda vez que se ejercieron los derechos al registro por la superficie del proyecto, y al haber realizado el pago de derechos y aprovechamientos conforme al Código Fiscal de la Ciudad de México.
 
@@ -2076,7 +2110,9 @@ VI. Una vez que se expida la licencia de la fusión o subdivisión, éstas deber
 
 En el supuesto que el propietario no cumpla con la obligación de elevar a escritura pública la fusión o subdivisión dentro del término establecido, estará obligado a iniciar de nueva cuenta el trámite para la obtención de otra licencia.
 
-Esta licencia podrá ser prorrogada, para lo cual debe presentarse la solicitud correspondiente 15 días hábiles antes del vencimiento de la misma. El Órgano Político Administrativo debe expedirla en un plazo de 5 días hábiles contados a partir de la fecha de presentación de la solicitud. La prórroga se otorgará por una única ocasión y tendrá una vigencia de 180 días hábiles a partir de su expedición para ser debidamente protocolizada. Si el Órgano Político Administrativo no resolviera en el plazo citado, no procederá la afirmativa ficta.
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2021)</small>
+
+Esta licencia podrá ser revalidada hasta por dos ocasiones, para lo cual debe presentarse el Aviso correspondiente dentro de los 15 días hábiles anteriores a su vencimiento. El Órgano Político Administrativo registrará la revalidación, que tendrá una vigencia de 180 días hábiles a partir de su expedición para ser debidamente protocolizada.
 
 ###### Artículo 163.
 
@@ -2144,7 +2180,9 @@ IV. En caso de ser procedente, el Órgano Político Administrativo expedirá la 
 
 El otorgamiento de la licencia de relotificación comprende el derecho de realizar las fusiones y subdivisiones que sean necesarias para el proyecto sin necesidad de tramitar las licencias respectivas. Esta licencia tendrá una vigencia de tres años.
 
-Tratándose de la prórroga de dicha licencia, el Órgano Político Administrativo, previa opinión de la Secretaría, deberá expedir por una única ocasión la prórroga en un plazo de 5 días hábiles contados a partir de la fecha de presentación de su solicitud y tendrá una vigencia de un año a partir de su expedición para ser debidamente protocolizada. Si el Órgano Político Administrativo no resuelve en el plazo citado, procederá la afirmativa ficta.
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2021)</small>
+
+Podrá ser revalidada ante el Órgano Político Administrativo hasta por dos ocasiones, mediante Aviso presentado dentro de los 15 días anteriores al vencimiento de la licencia. Su vigencia será un año a partir de la presentación de dicho Aviso, para ser debidamente protocolizada. La Alcaldía informará a la Secretaría de cada revalidación que se presente.
 
 ### CAPÍTULO III
 
@@ -2479,6 +2517,26 @@ Segundo. El presente Decreto entrará en vigor al día siguiente de su publicaci
 G.O. 11 DE SEPTIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL Y AL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL, PARA FAVORECER EL COMERCIO DE BARRIO EN LA VIVIENDA CONSTRUIDA EN EL MARCO DE PROGRAMAS GUBERNAMENTALES”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 27 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 15 BIS AL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL RESPECTO DEL CERTIFICADO DE USO DEL SUELO POR RECONOCIMIENTO DE ACTIVIDAD”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor el día de su publicación.
+
+TERCERO. La Secretaría tendrá un plazo de 15 días para inscribir el trámite motivo del presente Decreto en el Registro Electrónico de Trámites y Servicios de la Ciudad de México.
+
+CUARTO. La Agencia Digital de Innovación Pública de la Ciudad de México contará con un plazo de 30 días naturales a partir de la publicación del presente Decreto para implementar la plataforma digital en la que pueda realizarse el trámite de Certificado de Uso del Suelo por Reconocimiento de Actividad, brindando a la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México las autorizaciones necesarias para la debida operación de la plataforma, a través de los medios y tecnologías aplicadas que correspondan. Asimismo, será responsable de su mantenimiento bimestral o cuando las necesidades del servicio lo requiera.
+
+G.O. 27 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL Y DEL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL PARA SIMPLIFICAR LAS PRÓRROGAS DE LOS TRÁMITES DE CONSTRUCCIÓN”.]
 
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
