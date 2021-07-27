@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-36854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2021-04-19"
+last_updated: "2021-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-27"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE JULIO DE 2021.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -1732,11 +1732,11 @@ No obstante lo dispuesto en el párrafo anterior, la Administración registrará
 
 Tratándose de predios ya existentes con superficie menor a 90 m2 que no sean fracciones remanentes de afectaciones por obras públicas, se aplicará lo que establezcan los Programas indicados en la Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 64.
 
-Dentro de los 15 días hábiles anteriores al vencimiento de la vigencia del registro de manifestación de construcción, el propietario o poseedor, en caso necesario, podrá presentar ante la Administración en el formato que la misma establezca, la solicitud de prórroga en la que se señalen los datos siguientes:
+Dentro de los 15 días hábiles anteriores al vencimiento de la vigencia del registro de manifestación de construcción, el propietario o poseedor, en caso necesario, podrá presentar ante la Administración en el formato que la misma establezca, el Aviso de Revalidación, conforme a lo señalado en el artículo 35 de la Ley de Procedimiento Administrativo de la Ciudad de México, en el que se señalen los datos siguientes:
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1748,23 +1748,23 @@ III. Ubicación de la construcción, y
 
 IV. Número, fecha de registro y vencimiento de la manifestación de construcción.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2021)</small>
 
-Cuando se trate de licencia de construcción especial, el propietario o poseedor o representante legal deben presentar la solicitud en el formato correspondiente, la cual debe contener, además: el número, fecha de expedición y de vencimiento de la licencia, el porcentaje de avance de la obra, la descripción de los trabajos que se vayan a llevar a cabo para continuar la obra y los motivos que impidieron su conclusión en el plazo autorizado.
+Cuando se trate de licencia de construcción especial, el propietario o poseedor o representante legal deben presentar el Aviso de Revalidación de la licencia en el formato correspondiente, el cual debe contener, además: el número, fecha de expedición y de vencimiento de la licencia, el porcentaje de avance de la obra, la descripción de los trabajos que se vayan a llevar a cabo para continuar la obra y los motivos que impidieron su conclusión en el plazo autorizado.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2021)</small>
 
-Presentada la solicitud correspondiente, la Administración deberá resolver la prórroga dentro de los tres días hábiles siguientes, si no resuelve en el plazo señalado, procederá la afirmativa ficta. Por cada licencia de construcción especial, se podrán otorgar hasta dos prórrogas. Cuando se trate de una licencia en la vía pública, la Administración deberá informar a la Agencia la autorización de la prórroga a que se refiere este artículo, sea por declaración expresa o por afirmativa ficta.
+Presentado el Aviso correspondiente, la Administración le asignará folio y lo tendrá por registrado. Por cada licencia de construcción especial, se podrá presentar hasta por dos ocasiones Aviso de Revalidación. Cuando se trate de una licencia en la vía pública, la Administración deberá informar a la Agencia la revalidación a que se refiere este artículo.
 
-En los casos de solicitudes de prórroga para construcciones que se ejecuten en suelo de conservación o para realizar obras de construcción, reparación o mantenimiento de las instalaciones subterráneas o aéreas a que se refiere el artículo 18 de este Reglamento, la solicitud debe resolverse en un plazo de 15 días hábiles. Si la autoridad no resuelve en el plazo señalado, procederá la negativa ficta, de conformidad con lo previsto en la Ley de Procedimiento Administrativo del Distrito Federal.
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 27 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2021)</small>
 
-Cuando la manifestación de construcción registrada o la licencia de construcción especial hayan sido suscritas por un Director Responsable de Obra y Corresponsables, en su caso, la solicitud de prórroga debe contar con la responsiva de profesionales con ese mismo carácter.
+Cuando la manifestación de construcción registrada o la licencia de construcción especial hayan sido suscritas por un Director Responsable de Obra y Corresponsables, en su caso, el Aviso de Revalidación debe contar con la responsiva de profesionales con ese mismo carácter.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2021)</small>
 
-Asimismo, la solicitud debe acompañarse del comprobante de pago de derechos, de acuerdo con lo establecido en el Código Fiscal del Distrito Federal.
+Asimismo, el Aviso de Revalidación debe acompañarse del comprobante de pago de derechos, de acuerdo con lo establecido en el Código Fiscal de la Ciudad de México.
 
 Las vigencias de las prórrogas se sujetarán a lo dispuesto en los artículos 54 y 60 de este Reglamento.
 
@@ -3941,3 +3941,11 @@ G.O. 19 DE ABRIL DE 2021.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entra en vigor al día siguiente de su publicación.
+
+G.O. 27 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL Y DEL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL PARA SIMPLIFICAR LAS PRÓRROGAS DE LOS TRÁMITES DE CONSTRUCCIÓN”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
