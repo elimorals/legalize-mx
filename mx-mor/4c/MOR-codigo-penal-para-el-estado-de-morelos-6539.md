@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2021-04-21"
+last_updated: "2021-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -4079,7 +4079,7 @@ III. Desempeñe actividades de seguridad privada en cualquiera de sus modalidade
 
 ### CAPITULO UNICO. DELITOS COMETIDOS POR ACTOS DE CRUELDAD EN CONTRA DE ANIMALES DOMESTICOS
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 296.
 
@@ -4469,19 +4469,55 @@ Se impondrá de setenta a doscientos días de multa y prisión de tres a siete a
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2016)</small>
 
-###### ARTICULO 327.
+###### ARTÍCULO 327.
 
-Al que cometa actos de maltrato o crueldad en contra de cualquier especie de animal doméstico provocándole la muerte, se le impondrán de seis meses a un año de semilibertad.
+Al que cometa actos de maltrato o crueldad en contra de cualquier animal doméstico, se le impondrán de tres meses a cuatro años de prisión y multa de cincuenta a quinientas veces unidades de medida y actualización diaria vigente.
 
-En caso de reincidencia o que concurra alguna de las circunstancias siguientes, se le impondrán de seis meses a un año de prisión, al sujeto activo:
+Para efectos del presente código, se entenderán por actos de maltrato o crueldad los siguientes:
 
-I. Si se prolonga innecesariamente la agonía o el sufrimiento del animal doméstico, y
+I. Suministrar drogas al animal sin perseguir fines médicos o terapéuticos;
 
-II. Si además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo los capta en imágenes, fotografía o videograba para hacerlos públicos por cualquier medio.
+II. Practicar la vivisección sin contar con un Bioterio debidamente establecido conforme a las leyes mexicanas;
+
+III. Mutilar cualquier parte del cuerpo de un animal, salvo que el acto tenga fines de salud, marcación e higiene de la respectiva especie animal o se realice por motivos de piedad;
+
+IV. Intervenir quirúrgicamente animales sin anestesia;
+
+V. Abandonar a cualquier animal de modo tal que quede desamparado o expuesto a riesgos que amenacen su integridad física o la de terceras personas;
+
+VI. Realizar actos públicos o privados de riñas de animales y cualquier acción o espectáculo en que se mate, hiera u hostilice a los animales, salvo el caso de los espectáculos debidamente autorizados de conformidad a la Ley Estatal de Fauna;
+
+VII. Tener cópula o acto sexual con animales, de cualquier especie o sexo;
+
+VIII. Torturar o maltratar a un animal por maldad, brutalidad, egoísmo o negligencia; y
+
+IX. Intervenir quirúrgicamente al animal sin contar con título y cédula profesional vigente de médico o veterinario, salvo el caso de urgencia debidamente comprobada.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+###### ARTICULO 328.
+
+En caso de reincidencia o que concurra alguna de las circunstancias siguientes, se incrementará la pena hasta dos terceras partes, cuando:
+
+I. La muerte producida utilizando un medio que prolongue la agonía del animal, causándole sufrimientos innecesarios;
+
+II. Se cause en el animal doméstico la pérdida o la inutilidad de un sentido, órgano o miembro principal;
+
+III. Quien comete el delito es poseedor o propietario del animal;
+
+IV. Si además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo los capta en imágenes, fotografía o videograba para hacerlos públicos por cualquier medio, y
+
+V. Cuando sean provocadas por médico veterinario o persona relacionada con el cuidado, resguardo o comercio de animales.
 
 Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía del animal doméstico, ya sea por las lesiones que provoca o el detrimento de su salud.
 
-No procederá la denuncia, en caso de que se trate de espectáculos donde se empleen animales domésticos y que la autoridad correspondiente haya otorgado permiso de acuerdo con lo dispuesto por la Ley Estatal de Fauna.
+No procederá la denuncia, en caso de que se trate de los espectáculos permitidos por la Ley Estatal de Fauna.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+###### ARTICULO 329.
+
+Las personas que resulten responsables por el delito de maltrato o crueldad animal, perderán todo derecho sobre los animales que hayan tenido bajo su custodia o resguardo.
 
 ## TRANSITORIOS
 
@@ -5420,3 +5456,11 @@ PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERA. Se derogan todas las disposiciones secundarias que se opongan a la presente reforma.
+
+P.O. 28 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS NOVENTA Y TRES QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS Y DE LA LEY ESTATAL DE FAUNA, EN MATERIA DE CRUELDAD CONTRA LOS ANIMALES”.]
+
+PRIMERO.- Remítase el presente decreto al titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
