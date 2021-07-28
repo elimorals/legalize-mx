@@ -4,7 +4,7 @@ identifier: "HID-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1098
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-14"
-last_updated: "2017-12-31"
+last_updated: "2021-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de septiembre de 2015.
 
@@ -331,7 +331,11 @@ III. Analizar la documentación preparatoria, de los procedimientos de contratac
 
 IV. Dictaminar sobre la no celebración de licitaciones públicas, por encontrarse en alguno de los supuestos de excepción previstos en el artículo 55 de esta Ley;
 
-V. Proponer las políticas internas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios relativos a las dependencias, así como autorizar los supuestos no previstos en las mismas;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+V. Proponer las políticas internas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios relativos a las dependencias, así como autorizar los supuestos no previstos en las mismas.
+
+El Comité establecerá en dichas políticas, bases y lineamientos, los aspectos de sustentabilidad ambiental, incluyendo la evaluación de las tecnologías que permitan la reducción de la emisión de gases de efecto invernadero y la eficiencia energética, que deberán observarse en las adquisiciones, arrendamientos y servicios, con el objeto de optimizar y utilizar de forma sustentable los recursos para disminuir costos financieros y ambientales;
 
 VI. Realizar los actos relativos a los procedimientos de contratación, mediante licitación pública y de invitación a cuando menos tres personas, hasta el fallo correspondiente;
 
@@ -397,7 +401,9 @@ Transcurrido el plazo a que se refiere el párrafo anterior, sin que se produzca
 
 El interesado podrá solicitar ante la Contraloría, que dicte la resolución en el sentido de que se le tenga por inscrito o modificada su clasificación, en virtud de los plazos transcurridos.
 
-La Contraloría podrá verificar en cualquier tiempo, la información a que se refiere este artículo, que de resultar falsa, se dará de baja inmediatamente al proveedor.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
+La Contraloría podrá verificar en cualquier tiempo, la información a que se refiere este artículo, así como realizar visitas de verificación a proveedores, a efecto de cotejar la información presentada, que de resultar falsa se dará de baja inmediatamente al proveedor y se iniciarán las acciones legales a que haya lugar.
 
 En caso de que el interesado tenga un procedimiento administrativo de suspensión o cancelación en trámite, de conformidad con los artículos 31 y 32 de esta Ley, la solicitud de inscripción se sustanciará, previa resolución de los procedimientos incoados.
 
@@ -501,7 +507,9 @@ También se otorgarán puntos a las micros, pequeñas o medianas empresas que pr
 
 Los criterios para el otorgamiento de puntos y porcentajes se establecerán en el Reglamento de esta Ley.
 
-Las adquisiciones, arrendamientos y servicios se adjudicarán, por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento y oportunidad.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
+Las adquisiciones, arrendamientos y servicios se adjudicarán, por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, crecimiento económico, generación de empleo, eficiencia energética, uso responsable del agua, optimización y uso sustentable de los recursos, así como la protección al medio ambiente y demás circunstancias pertinentes.
 
 En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, debiendo los convocantes, proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
 
@@ -1480,3 +1488,9 @@ P. O. 31 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 413 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 725 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al (sic) de su publicación en el Periódico Oficial del Estado de Hidalgo.
