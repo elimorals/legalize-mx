@@ -4,7 +4,7 @@ identifier: "HID-ley-de-obras-publicas-y-servicios-relacionados-con-las-93512"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-25"
-last_updated: "2018-04-02"
+last_updated: "2021-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de marzo de 2013.
 
@@ -77,7 +77,13 @@ Los contratos que celebre el Poder Ejecutivo a través de las Dependencias, con 
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- COMITÉ TÉCNICO: El Comité Técnico Intersecretarial y Consultivo de Obras Públicas y Servicios Relacionados con las Mismas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2021)</small>
+
+I.- ACCESIBILIDAD: Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2021)</small>
+
+I Bis.- COMITÉ TÉCNICO: El Comité Técnico Intersecretarial y Consultivo de Obras Públicas y Servicios Relacionados con las Mismas;
 
 II.- CONTRALORÍA: La Secretaría de Contraloría y Transparencia Gubernamental;
 
@@ -1240,3 +1246,9 @@ P.O. 2 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 422 QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO Y A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, AMBAS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo
+
+P.O. 28 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 726 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
