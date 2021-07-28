@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-museo-morelense-de-arte-popular-101661"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-02"
-last_updated: "2018-08-29"
+last_updated: "2021-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DEL MUSEO MORELENSE DE ARTE POPULAR DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 2 de julio de 2014.
 
@@ -45,9 +45,11 @@ ESTATUTO ORGÁNICO DEL MUSEO MORELENSE DE ARTE POPULAR
 
 El presente Estatuto Orgánico es de observancia general, tiene por objeto reglamentar y determinar la organización, atribuciones y funcionamiento de las Unidades Administrativas y de los Órganos de Gobierno, de Administración y de vigilancia, que integran el Museo Morelense de Arte Popular, para el despacho de los asuntos en el ámbito de su competencia y cumplimiento de su objeto.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 2.
 
-La interpretación de las disposiciones de este Estatuto Orgánico se hará conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Morelos.
+La interpretación de las disposiciones de este estatuto orgánico se hará conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
 
 ###### Artículo 3.
 
@@ -75,7 +77,9 @@ VI. Estatuto, al presente Estatuto Orgánico;
 
 VII. Junta Directiva, al Órgano de Gobierno del Museo Morelense de Arte Popular;
 
-VIII. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado de Morelos;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+VIII. Ley orgánica, a la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos;
 
 IX. MMAPO, al Museo Morelense de Arte Popular;
 
@@ -91,9 +95,11 @@ XIV. Unidad de Exhibición, al espacio de conservación, exhibición, difusión 
 
 ### CAPÍTULO II. DE LA NATURALEZA, OBJETO Y ATRIBUCIONES DEL MMAPO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 4.
 
-El MMAPO es un Organismo Público Descentralizado de la Administración Pública Paraestatal del Estado de Morelos con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Cultura del Poder Ejecutivo Estatal.
+El MMAPO es un organismo público descentralizado de la Administración pública paraestatal del estado de Morelos con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Turismo y Cultura del Poder Ejecutivo estatal.
 
 El MMAPO tendrá sus oficinas en la ciudad de Cuernavaca, Morelos; no obstante, cuando se requiera, para el cumplimiento de su objeto, se podrán establecer puntos de exhibición y venta en diversos espacios.
 
@@ -139,13 +145,19 @@ Las Unidades Administrativas estarán integradas por las personas titulares resp
 
 ### CAPÍTULO IV. DE LA JUNTA DIRECTIVA
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 10.
 
-La Junta Directiva es el Órgano Máximo de Gobierno del MMAPO y estará integrada en la forma y términos señalados en el artículo 7, del Decreto, conforme a lo dispuesto en los artículos 54 y 80 de la Ley Orgánica.
+La Junta Directiva es el órgano máximo de Gobierno del MMAPO y estará integrada en la forma y términos señalados en el artículo 7 del decreto, conforme a lo dispuesto en los artículos 51 y 78 de la ley orgánica.
+
+La designación de la secretaria técnica será en términos de la ley orgánica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2021)</small>
 
 ###### Artículo 11.
 
-La Junta Directiva, además de las atribuciones señaladas en los artículos 65, de la Ley Orgánica y 9, del Decreto, tendrá las siguientes:
+La Junta Directiva, además de las atribuciones señaladas en el artículo 63, de la ley orgánica y 9 del decreto, tendrá las siguientes:
 
 I. Supervisar el ejercicio de los presupuestos anuales de ingresos y egresos y demás medidas de control que estime necesarias;
 
@@ -155,9 +167,11 @@ II. Atender, en los términos de la Legislación aplicable, las Políticas, Base
 
 III. Las demás que establezcan otras disposiciones jurídicas aplicables y leyes en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 12.
 
-La Junta Directiva sesionará observando las disposiciones aplicables de la Ley Orgánica, el Decreto y el Acuerdo que establece los Lineamientos para la Convocatoria y Desarrollo de las Sesiones Ordinarias o Extraordinarias de los Órganos Colegiados de la Administración Central y de los Organismos Auxiliares que integran el sector Paraestatal del Estado de Morelos y la normativa aplicable.
+La Junta Directiva sesionará observando las disposiciones aplicables de la Ley Orgánica, el Decreto y el Acuerdo que establece los lineamientos para la celebración de sesiones de los distintos órganos colegiados que actúan y participan en la Administración pública del estado de Morelos y la normativa aplicable.
 
 La citación de las Sesiones Ordinarias deberá realizarse a cada uno de los integrantes de la Junta Directiva con 5 días hábiles de anticipación mediante la Convocatoria que al efecto se emita, adjuntando el orden del día con los asuntos a tratar, el Proyecto del Acta de la Sesión anterior y demás documentos necesarios para el desarrollo de la sesión de que se trate.
 
@@ -183,7 +197,9 @@ Además de las atribuciones previstas en el Decreto, el Secretario Técnico tend
 
 I. Asistir a las sesiones de la Junta Directiva con derecho a voz, pero sin voto;
 
-II. Preparar y enviar a los integrantes de la Junta de Gobierno la documentación de los asuntos a tratar en las sesiones, y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+II. Preparar y enviar a los integrantes de la Junta Directiva la documentación de los asuntos a tratar en las sesiones, y
 
 III. Ser responsable de la suscripción y archivo de las actas de las sesiones y los apéndices respectivos, así como de llevar un registro de los acuerdos tomados en las mismas.
 
@@ -195,7 +211,9 @@ I. Asistir a las sesiones y participar en el debate de los asuntos que se traten
 
 II. Emitir su voto respecto de los asuntos tratados en las sesiones;
 
-III. Notificar la designación de su suplente, en los términos del artículo 7 del Decreto;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+III. Notificar la designación de su suplente, en los términos de los artículos 80 de la Ley Orgánica, 7 del decreto y 9 de los lineamientos para la celebración de sesiones de los distintos órganos colegiados que actúan y participan en la Administración pública del estado de Morelos;
 
 IV. Coadyuvar en el cumplimiento de los acuerdos y resoluciones que se tomen en las sesiones, y
 
@@ -211,9 +229,11 @@ Corresponde al Coordinador originalmente la representación legal del MMAPO, as�
 
 Para ser titular de la Coordinación del MMAPO, además de los requisitos que establece la Ley Orgánica, se deberán cumplir los señalados en el Decreto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 17.
 
-El Coordinador además de las atribuciones señaladas en los artículos 66 y 84 de la Ley Orgánica y 12, del Decreto, tendrá las siguientes:
+El coordinador además de las atribuciones señaladas en los artículos 64 y 82 de la ley orgánica y 12 del decreto, tendrá las siguientes:
 
 I. Ejecutar los Acuerdos que emanan de la Junta Directiva;
 
@@ -259,7 +279,9 @@ XXI. Promover la organización y participación del MMAPO en ferias y exposicion
 
 XXII. Gestionar la instalación de puntos de venta para la exposición y venta de Arte Popular, y
 
-XXIII. Las demás que le confieran otras disposiciones jurídicas aplicables, la Junta Directiva, así como la Secretaría de Cultura del Poder Ejecutivo Estatal, con el fin de lograr el objeto del MMAPO.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+XXIII. Las demás que le confieran otras disposiciones jurídicas aplicables, la Junta Directiva, así como la Secretaría de Turismo y Cultura del Poder Ejecutivo estatal, con el fin de lograr el objeto del MMAPO.
 
 ### CAPÍTULO VI. DE LAS DIRECCIONES
 
@@ -373,17 +395,19 @@ XVII. Coordinar la asignación de recursos a los Programas Desarrollando su Eval
 
 ### CAPÍTULO VII. DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
 
 ###### Artículo 22.
 
-El Órgano Interno de Control del MMAPO estará integrado por un Comisario Público, designado por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, en términos de los artículos 67 y 69 de la Ley Orgánica.
+El órgano interno de control del MMAPO estará integrado por un comisario público, designado por la Secretaría de la Contraloría del Poder Ejecutivo estatal, en términos de los artículos 65 y 67 de la Ley Orgánica.
 
 ### CAPÍTULO VIII. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 23.
 
-Las ausencias temporales hasta por noventa días del Coordinador serán cubiertas por el servidor público que éste designe, en términos del último párrafo del artículo 15, de la Ley Orgánica.
+Las ausencias temporales hasta por noventa días del Coordinador serán cubiertas por el servidor público que designe el Gobernador del Estado, en términos del penúltimo párrafo del artículo 15, de la Ley Orgánica.
 
 ###### Artículo 24.
 
@@ -413,9 +437,9 @@ I. El Coordinador, quien lo presidirá;
 
 II. La persona titular de la Dirección de Planeación quien fungirá como Secretario Técnico;
 
-> <small>(F. DE E. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
 
-III. La persona titular de la Coordinación de la Unidad de Procesos para laAdjudicación (sic) de Contratos del Poder Ejecutivo del Estado de Morelos, y
+III. La persona titular de la Dirección General de Procesos para la Adjudicación de Contratos de la Secretaría de Administración del Poder Ejecutivo del Estado de Morelos, como secretario ejecutivo, y
 
 IV. Dos vocales, que serán las personas titulares de las Unidades Administrativas del MMAPO, designadas por la persona que presida el Subcomité de Adquisiciones.
 
@@ -534,3 +558,13 @@ TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico n
 CUARTA. Dentro de un plazo de 90 días hábiles posteriores a la entrada en vigor del presente Estatuto, el MMAPO podrá actualizar sus Manuales Administrativos, así como los descriptivos de puestos y demás instrumentos administrativos que correspondan; en tanto esto sucede, se mantendrán vigentes los actuales, en lo que no se opongan al presente Estatuto Orgánico.
 
 Dentro de un plazo de 15 días hábiles posteriores a la actualización que, en su caso, se realice del Manual de Políticas y Procedimientos, o bien, cuando no se actualice contados a partir de la vigencia de este instrumento, el MMAPO deberá gestionar su publicación en el Periódico Oficial "Tierra y Libertad”, en coordinación con la Secretaría de Administración.
+
+P.O. 28 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL MUSEO MORELENSE DE ARTE POPULAR".]
+
+PRIMERA. Las reformas al estatuto orgánico iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Inscríbase el presente estatuto orgánico reformado en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto en los artículos 76, penúltimo párrafo, y 84, fracción II, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente estatuto orgánico.
