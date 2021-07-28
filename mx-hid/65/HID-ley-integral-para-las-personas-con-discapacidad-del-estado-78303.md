@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2019-10-14"
+last_updated: "2021-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -57,11 +57,15 @@ DISPOSICIONES GENERALES
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de la presente Ley son de orden público, de interés social y de observancia general en el Estado de Hidalgo.
+Las disposiciones de la presente ley son de orden público, de interés social y de observancia general en el Estado de Hidalgo.
 
-Constituye la finalidad primordial de esta Ley promover, proteger y asegurar el pleno ejercicio de los derechos humanos de las personas con discapacidad, estableciendo las condiciones que permitan obtener la plena integración de éstas a la sociedad.
+Constituye la finalidad primordial de esta Ley promover, proteger y asegurar el pleno ejercicio de los derechos humanos de las personas con discapacidad, estableciendo las condiciones en las que el Estado deberá promover, proteger y asegurar el pleno ejercicio de los derechos humanos y libertades fundamentales de las personas con discapacidad, asegurando su plena inclusión a la sociedad en un marco de respeto, igualdad y equiparación de oportunidades.
+
+De manera enunciativa y no limitativa, esta Ley reconoce a las personas con discapacidad sus derechos humanos y mandata el establecimiento de las políticas públicas necesarias para su ejercicio.
 
 ### CAPÍTULO I. OBJETIVOS Y PRINCIPIOS
 
@@ -165,7 +169,9 @@ II.- Sistema Estatal para la Integración Social de las Personas con Discapacida
 
 III.- Persona con discapacidad. Toda aquélla que, por razones congénitas o adquiridas, presenta una o más deficiencias físicas, intelectuales, sensoriales o mentales, sea de carácter permanente o temporal y que debido a las barreras creadas por el entorno social, ve limitada su participación, inclusión e integración a una o más de las actividades de la vida cotidiana;
 
-IV.- Accesibilidad.- Combinación de elementos constructivos y operativos que permiten a cualquier persona con discapacidad entrar, desplazarse, salir, orientarse y comunicarse con un uso seguro, autónomo y cómodo en los espacios construidos, en mobiliario y equipo;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+IV.- Accesibilidad. Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
 
 > <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
 
@@ -1138,3 +1144,9 @@ P.O. 14 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 216.- QUE REFORMA LAS FRACCIONES X Y XI DEL ARTÍCULO 3; LA FRACCIÓN III DEL ARTÍCULO 5; ARTÍCULO 6; ARTÍCULO 16; ARTÍCULO 26; ARTÍCULO 36; Y PÁRRAFO PRIMERO, FRACCIONES I, VII Y VIII DEL ARTÍCULO 39; Y ADICIONA LAS FRACCIONES XII A XVIII AL ARTÍCULO 3; Y LAS FRACCIONES I BIS Y IX AL ARTÍCULO 39 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 726 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
