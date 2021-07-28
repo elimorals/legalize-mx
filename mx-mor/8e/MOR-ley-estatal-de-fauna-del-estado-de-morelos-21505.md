@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-fauna-del-estado-de-morelos-21505"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2017-03-01"
+last_updated: "2021-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE FAUNA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el 30 de abril de 1997.
 
@@ -467,31 +467,33 @@ En el Estado de Morelos se podrán crear comités, juntas, asociaciones, socieda
 
 Es responsable de las faltas previstas en esta Ley cualquier persona que participe en la ejecución de las mismas o induzca a otro, directa o indirectamente a cometerlas. Los padres o encargados de menores serán responsables de las faltas que éstos cometan.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 69.
 
 Son faltas y sanciones en materia de fauna, la captura de animales que formen parte de la lista de especies en estado de extinción y cualquier acto de crueldad intencional o imprudencial ejecutado en cualquier animal.
 
-Para efectos de aplicación de sanciones, se entenderá por actos de crueldad los siguientes:
+Para efectos de aplicación de sanciones en los términos de la presente ley, se entenderá por actos de crueldad los siguientes:
 
-I.- Los actos u omisiones carentes de un motivo razonable o legítimo y que sean susceptibles de causar a un animal dolores o sufrimientos considerables o que afecten gravemente la salud;
+I. Descuidar la morada y las condiciones de movilidad, higiene al albergue de un animal a punto tal que esto pueda causarle sed, insolación y dolores;
 
-II.- Torturar o maltratar a un animal por maldad, brutalidad, egoísmo o negligencia;
+II. Toda privación de aire, luz, alimento, agua o espacio suficiente que cause o pueda causar daño a la vida normal de un animal;
 
-III.- Descuidar la morada y las condiciones de movilidad, higiene al albergue de un animal a punto tal que esto pueda causarle sed, insolación y dolores.
+III. Azuzarlos para el trabajo mediante instrumentos que les provoquen lesiones;
 
-IV.- La muerte producida utilizando un medio que prolongue la agonía del animal, causándole sufrimientos innecesarios.
+IV. Hacer trabajar al animal en jornadas excesivas sin proporcionarles descanso adecuado, comida o agua fresca;
 
-(ADICIONADA, P.O. 5 DE MARZO DE 2014)(F. DE E., P.O. 19 DE MARZO DE 2014)
+V. Emplearlos en el trabajo cuando no se encuentren en estado físico adecuado;
 
-V.- Utilización de animales en espectáculos públicos o privados cuando dicha utilización sea para infligir maltrato intencional al animal, ocasionándole afectaciones en su integridad física, tales como heridas cualquiera que sea su gravedad o su muerte, con excepción de lo establecido en el artículo 12.
+VI. Emplear "animales de tiro" de vehículos que excedan notoriamente sus fuerzas;
 
-VI.- Cualquier mutilación orgánica grave que no se efectúe por necesidad y bajo el cuidado de un médico veterinario o persona con conocimientos técnicos en la materia.
+VII. No proporcionar un espacio adecuado y limpio, a los animales que se encuentren en establecimientos o comercios dedicados a la venta de estos o en los lugares en donde se encuentren a resguardo por cualquier motivo;
 
-VII.- Toda privación de aire, luz, alimento, agua o espacio suficiente que cause o pueda causar daño a la vida normal de un animal; y
+VIII. Mantenerlos enjaulados, salvo que tengan aptitud de volar, y
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+IX. No trasladar a cualquier animal que lo requiera y que tengan por cualquier motivo bajo su cuidado o resguardo al médico veterinario para la atención medica requerida, cubriendo los respectivos honorarios del profesionista.
 
-VIII.- Las demás que determine la presente Ley o su Reglamento. Salvaguardando las excepciones previstas en la presente Ley.
+Quedan exceptuados los casos en donde por no contar con los medios económicos para su atención, se dé aviso a las autoridades correspondientes o grupos protectores de animales legalmente constituidos a fin de obtener apoyo para la atención del animal de que se trate.
 
 ###### Artículo 70.
 
@@ -644,3 +646,11 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 28 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS NOVENTA Y TRES.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS Y DE LA LEY ESTATAL DE FAUNA, EN MATERIA DE CRUELDAD CONTRA LOS ANIMALES”.]
+
+PRIMERO.- Remítase el presente decreto al titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
