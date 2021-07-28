@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asistencia-social-publica-y-privada-para-el-estado-70814
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-28"
-last_updated: "2018-04-14"
+last_updated: "2021-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de octubre de 2009.
 
@@ -1139,9 +1139,21 @@ XXIX. Operar un Subsistema de Información para la Asistencia Social Privada, qu
 
 XXX. Solicitar a la autoridad sanitaria local, la práctica de inspecciones conforme a lo previsto en la Ley Estatal de Salud, para verificar que la prestación de los servicios de asistencia social privada se realicen conforme a las Normas Oficiales Mexicanas;
 
-XXXI. Coadyuvar con las autoridades federales y estatales en materia de salud, en la supervisión y vigilancia de las instituciones de asistencia social privada y asociaciones civiles no reconocidas por el Estado como coadyuvantes en esta materia, para constatar el cumplimiento de las Normas Oficiales Mexicanas en la prestación de los servicios, y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
 
-XXXII. Las demás que se señalen en la presente Ley y otros ordenamientos aplicables.
+XXXI. Coadyuvar con las autoridades federales y estatales en materia de salud, en la supervisión y vigilancia de las instituciones de asistencia social privada y asociaciones civiles no reconocidas por el Estado como coadyuvantes en esta materia, para constatar el cumplimiento de las Normas Oficiales Mexicanas en la prestación de los servicios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2021)</small>
+
+XXXII. Operar el Registro Estatal de las Organizaciones de la Sociedad Civil, Agrupaciones y Redes;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+XXXIII. Operar y coordinar la Ventanilla Única para las Organizaciones de la Sociedad Civil, Agrupaciones y Redes;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2021)</small>
+
+XXXIV. Las demás que se señalen en la presente Ley y otros ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
@@ -1225,9 +1237,21 @@ IV. Quien ocupe la titularidad de la Secretaría de Salud;
 
 V. Quien ocupe la titularidad de la Secretaría de Educación, Cultura y Deporte;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
 
-VI. Cuatro personas representantes de las instituciones de asistencia social privada, que serán designadas conforme a la función predominantemente prestada por la institución, atendiendo a los siguientes rubros: niñas, niños y adolescentes, personas en situación de discapacidad, adultas mayores y salud o desarrollo comunitario.
+VI. Ocho personas representantes de las instituciones de asistencia social privada, que serán designadas conforme a la función predominantemente prestada por la institución, atendiendo a los siguientes rubros: niñas, niños y adolescentes, personas en situación de discapacidad, adultas mayores y salud o desarrollo comunitario, en el número y conforme a las siguientes regiones:
+
+a) Juárez (Municipios de Juárez, Ahumada, Guadalupe y Praxedis G. Guerrero), 2 personas representantes.
+
+b) Nuevo Casas Grandes (Municipios de Nuevo Casas Grandes, Ascensión, Buenaventura, Casas Grandes, Galeana, Ignacio Zaragoza y Janos), 1 persona representante.
+
+c) Cuauhtémoc (Municipios de Cuauhtémoc, Bachíniva, Carichí, Cusihuiriachi, Gómez Farías, Namiquipa, Riva Palacio, Bocoyna, Chínipas, Guazapares, Maguarichi, Moris, Ocampo, Urique, Uruachi, Guerrero, Matachí, Madera y Temósachic), 1 persona representante.
+
+d) Chihuahua (Municipios de Aldama, Aquiles Serdán, Batopilas, Chihuahua, Santa Isabel, Satevó, San Francisco de Borja, Dr. Belisario Domínguez, Gran Morelos, Nonoava, Ojinaga, Coyame del Sotol y Manuel Benavides), 2 personas representantes.
+
+e) Delicias (Municipios de Delicias, Julimes, Meoqui, Rosales, Saucillo, Camargo, La Cruz, San Francisco de Conchos, Coronado, Jiménez y López), 1 persona representante.
+
+f) Parral (Municipios de Guachochi, Balleza, Guadalupe y Calvo, Morelos, Hidalgo del Parral, Allende, El Tule, Huejotitán, Matamoros, Rosario, San Francisco del Oro, Santa Bárbara y Valle de Zaragoza), 1 persona representante.
 
 VII. Quien ocupe la titularidad de la Dirección General de la Junta de Asistencia Social Privada.
 
@@ -1279,7 +1303,9 @@ I. Tener la ciudadanía mexicana en pleno ejercicio de sus derechos, con una res
 
 II. Contar como mínimo con el grado de licenciatura;
 
-III. Tener conocimientos y experiencia en materia de asistencia social, y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+III. Tener conocimiento, experiencia y trabajo comprobado en materia de asistencia social y en las instituciones de asistencia social privada por un mínimo de 5 años.
 
 IV. No encontrarse en alguno de los impedimentos establecidos en la Ley de Entidades Paraestatales del Estado de Chihuahua.
 
@@ -1321,21 +1347,13 @@ XVI. Asumir el carácter de Secretario de Actas y Acuerdos en las sesiones del C
 
 XVII. Las que señalen otras disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
 
 ###### Artículo 81.
 
-Quien ocupe la titularidad del Órgano de Vigilancia será designado por la Secretaría de la Función Pública, y tendrá las siguientes funciones:
+Al frente del Órgano Interno de Control, habrá una persona titular, quien será designada en los términos del artículo 34, fracción XII de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, y dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública, la cual, para el ejercicio de sus facultades, podrá auxiliarse por las personas titulares de las áreas de Auditoría e Investigación y la de Substanciación y Resolución designadas en los mismos términos.
 
-I. Vigilar que la administración de los recursos y el funcionamiento de la Junta de Asistencia Social Privada, se realicen conforme a los ordenamientos legales respectivos y de acuerdo con los programas y presupuestos aprobados;
-
-II. Practicar revisiones a los estados financieros y las de carácter administrativo que se requieran;
-
-III. Recomendar al Consejo Directivo y a la Dirección General, las medidas preventivas y correctivas que sean convenientes para la mejor organización y funcionamiento del organismo;
-
-IV. Asistir únicamente con derecho a voz a las sesiones del Consejo Directivo, y
-
-V. Las demás previstas en otros ordenamientos aplicables.
+Las y los servidores públicos a que se refiere el párrafo anterior ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en el ordenamiento legal de responsabilidades administrativas correspondiente, u ordenamientos legales en materia de responsabilidades administrativas aplicables, así como en el de adquisiciones, arrendamientos y contratación de servicios o contratación de obra pública y servicios relacionados con la misma, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -1748,3 +1766,23 @@ P.O. 14 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLEY/0741/2018 II P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 64 DE LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/EXLEY/0996/2021 II P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+La primera convocatoria para la elección de las cinco personas a que se refiere el artículo 18 de la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil, Agrupaciones y Redes del Estado de Chihuahua, se expedirá por el Poder Ejecutivo del Estado, dentro de los sesenta días posteriores a su entrada en vigor. En dicha convocatoria deberá señalarse que, por única ocasión, dos de las personas serán electas por un periodo de dos años, a fin de dar cumplimiento a la renovación escalonada.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal deberá quedar instalado y en funcionamiento dentro de Los noventa días posteriores a la entrada en vigor de la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil, Agrupaciones y Redes del Estado de Chihuahua.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Ejecutivo Estatal deberá expedir el Reglamento de la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil, Agrupaciones y Redes del Estado de Chihuahua, dentro de los noventa días posteriores a su entrada en vigor.
