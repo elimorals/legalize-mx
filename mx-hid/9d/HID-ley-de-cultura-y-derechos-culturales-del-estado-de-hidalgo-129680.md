@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-y-derechos-culturales-del-estado-de-hidalgo-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-31"
-last_updated: "2018-07-31"
+last_updated: "2021-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO -- ANTES LEY DE CULTURA DEL ESTADO DE HIDALGO --
 
-LEY DE CULTURA DEL ESTADO DE HIDALGO
+LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
 
 Ley publicada en el Alcance Uno al Número 31 del Periódico Oficial del Estado de Hidalgo, el martes 31 de julio de 2018.
 
@@ -45,19 +45,29 @@ POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
 DECRETO
 
-QUE CONTIENE LA LEY DE CULTURA DEL ESTADO DE HIDALGO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2021)</small>
 
-Artículo Único. - Se expide la LEY DE CULTURA DEL ESTADO DE HIDALGO, bajo los siguientes términos:
+QUE CONTIENE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2021)</small>
+
+Artículo Único. - Se expide la LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, bajo los siguientes términos:
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 1.
+
+El derecho de acceso a la cultura y los derechos culturales a que se refiere esta Ley, son los reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo y por las leyes que de ellas emanen, así como los contenidos en los instrumentos internacionales vigentes.
 
 Las disposiciones de esta Ley son de orden público, interés social y de observancia general y obligatoria en el territorio del Estado de Hidalgo
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 2.
 
-El presente ordenamiento reconoce los derechos culturales de las personas a tener acceso y a participar en la vida cultural de la comunidad; establece las bases para la preservación, difusión, promoción, fomento e investigación de las actividades cultural y artísticas.
+El presente ordenamiento reconoce, promueve y protege el derecho de acceso a la cultura y el ejercicio (sic) los derechos culturales de las personas, mediante los bienes y servicios que presta el estado, la pluralidad y diversidad cultural y la participación en la-vida cultural de la comunidad; establece las bases de coordinación para la preservación, difusión, promoción, fomento e investigación de las actividades artísticas Y culturales.
 
 ###### Artículo 3.
 
@@ -65,13 +75,37 @@ La presente Ley tiene por objeto:
 
 I. Establecer y desarrollar mecanismos financieros, destinados a obtener recursos para las actividades culturales; diferente al presupuesto ordinario que el poder ejecutivo destine al rubro;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+I. Bis. Reconocer los derechos culturales de las personas que habitan en el territorio del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+I. Ter. Establecer los mecanismos de acceso y participación de las personas y comunidades a las manifestaciones culturales;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+I. Quater. Promover y respetar la continuidad y el conocimiento de la cultura en todas sus manifestaciones y expresiones;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+I. Quinquie. Garantizar el disfrute de los bienes y servicios que presta el Estado en materia cultural;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+I. Sextie. Promover, respetar, proteger y asegurar el ejercicio de los derechos culturales;
+
 II. Establecer los mecanismos de coordinación, vinculación y coparticipación entre los gobiernos federal, estatal y municipal; organizaciones culturales y la sociedad en general, en materia cultural;
 
-III. Fijar las bases para el diseño, implementación y evaluación de la política cultural del Estado; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+III. Fijar las bases para el diseño, implementación y evaluación de la política cultural del Estado;
 
 IV. Promover el acceso y participación de los ciudadanos, grupos, instituciones y organizaciones de los sectores social y privado en la preservación, promoción, fomento y difusión e investigación de la actividad cultural y artística;
 
-V. Propiciar la promoción y difusión de las manifestaciones culturales y artísticas con el fin de facilitar a todos los ciudadanos de la sociedad el acceso a las mismas;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+V. Propiciar la promoción y difusión de las manifestaciones culturales y artísticas con el fin de facilitar a todos los ciudadanos de la sociedad el acceso a las mismas; y
 
 VI. Servir como base para la elaboración de los planes y programas estatales en materia de cultura, que busquen al menos los siguientes objetivos:
 
@@ -85,7 +119,9 @@ d) Garantizar la creación, permanencia, apoyo y desarrollo para los creadores c
 
 e) Promover la creación, permanencia, apoyo y desarrollo de las asociaciones civiles, fundaciones, organizaciones, patronatos, colectivos, micro y medianas industrias creativas o culturales, y en general de los grupos de creadores en todas las regiones del Estado; y
 
-f) Promover la participación de los individuos, grupos y organizaciones sociales y privadas en la preservación, promoción, fomento, difusión e investigación de la cultura.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
+f) Promover la participación de los individuos, grupos y organizaciones sociales y privadas en la preservación, promoción, fomento, difusión e investigación del arte y la cultura.
 
 ###### Artículo 4.
 
@@ -99,17 +135,29 @@ III. Arte popular: Creación artística que es consumida en forma masiva y que e
 
 IV. Conservación: Conjunto de operaciones interdisciplinarias que tienen por objeto evitar el deterioro del patrimonio cultural tangible y garantizar su salvaguarda para transmitirlos a las generaciones futuras con toda la riqueza de su autenticidad. Se integra de acciones preventivas, curativas y de restauración;
 
+(ADICONADA, P.O. 28 DE JULIO DE 2021)
+
+IV Bis. Contenidos digitales de carácter cultural o creativo: A todo contenido original divulgado y publicado exclusivamente a través de páginas de internet que esté relacionado con las obras creativas y artísticas, programas por internet y/o las manifestaciones culturales;
+
 V. Creador: Autor, compositor o investigador; interprete o ejecutante artístico;
 
 VI. Cultura: Conjunto de rasgos distintivos, espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o un grupo social. Ella engloba, además de las artes y las letras, los modos de vida, los derechos fundamentales del ser humano, los sistemas de valores, las tradiciones y las creencias;
 
 VII. Desarrollo Cultural: Proceso a través del cual individuos, grupos y comunidades amplían sus oportunidades de acceso, creación, consumo, transmisión y apropiación de bienes y servicios culturales, en condiciones de libertad efectiva;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+VII Bis. Diversidad Cultural: se refiere a la multiplicidad de formas en que se expresan y transmiten las culturas de las personas, los grupos y sociedades. La diversidad cultural se manifiesta no solo en las diversas formas en que se expresa, enriquece y transmite el patrimonio cultural de la humanidad mediante la variedad de expresiones culturales, sino también a través de distintos modos de creación artística, producción, difusión, distribución y disfrute de las expresiones culturales, cualesquiera que sean los medios y tecnologías utilizados;
+
 VIII. Empresas Creativas y Culturales: Aquellas formadas por empresarios o emprendedores en temas culturales o artísticos. Contribuyen a hacer de la cultura un motor de desarrollo económico para el país, que reditúa en la generación de empleos en el sector cultura. Propicia la creación de un sistema sostenible que vincula la esfera del arte y la cultura con los ámbitos social y económico;
 
 IX. Industrias Culturales: Responde a la misma esencia de las empresas creativas y culturales, pero con una escala de mayor magnitud y alcance, tanto en sus procesos productivos, como en los bienes ofrecidos al público. Entre éstas se pueden mencionar las industrias cinematográficas, editorial, fonográfica y de la radio y televisión;
 
 X. Innovación artesanal: Arte y técnica de fabricar o elaborar objetos o productos a mano, que mantienen la aplicación del conocimiento ancestral por integrantes del grupo étnico que lo posee, pero que incorpora variantes en diseño, procesos, materias primas, usos y aplicaciones;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+X Bis. Interculturalidad: Se refiere a la presencia e interacción equitativa de diversas culturas y la posibilidad de generar expresiones culturales compartidas, adquiridas por medio del diálogo y de una actitud de respeto mutuo;
 
 XI. Ley: Ley de Cultura del Estado de Hidalgo;
 
@@ -129,15 +177,55 @@ XVIII. Restauración: actividad que aspira a devolver a un estado anterior los r
 
 XIX. Secretaría: Secretaría de Cultura del Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 5.
 
-La promoción y fomento de la cultura será democrática, incluyente, transversal e innovadora la actuación de las autoridades estatales y municipales competentes, se regirá con sujeción a dichos principios.
+La promoción y fomento de la cultura será democrática, incluyente, transversal e innovadora, la política cultural atenderá a los siguientes principios:
+
+I.- Respeto a la libertad creativa y a las manifestaciones culturales;
+
+II.- Igualdad de las culturas;
+
+III.- Reconocimiento de la diversidad cultural;
+
+IV.- Reconocimiento de la identidad y dignidad de las personas;
+
+V.- Libre determinación y autonomía de los pueblos indígenas y sus comunidades; y
+
+VI.- Igualdad de género.
 
 ### CAPÍTULO II. DE LOS DERECHOS CULTURALES
 
 ###### Artículo 6.
 
 Toda persona ejercerá sus derechos culturales a título individual o colectivo sin menoscabo de su origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otro y, por lo tanto, tendrán las mismas oportunidades de acceso.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+###### Artículo 6 Bis.
+
+Todos los habitantes del Estado de Hidalgo, tienen los siguientes derechos culturales:
+
+I. Acceder a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia;
+
+II. Procurar el acceso al conocimiento y a la información del patrimonio material e inmaterial de las culturas que se han desarrollado y desarrollan en el territorio estatal y de la cultura de otras comunidades, pueblos y naciones;
+
+III. Elegir libremente una o más identidades culturales;
+
+IV. Pertenecer a una o más comunidades culturales;
+
+V. Participar de manera activa y creativa en la cultura;
+
+VI. Disfrutar de las manifestaciones culturales de su preferencia;
+
+VII. Comunicarse y expresar sus ideas en la lengua o idioma de su elección;
+
+VIII. Disfrutar de la protección por parte del Estado de acuerdo al ámbito de competencia, de los intereses morales y patrimoniales que les correspondan por razón de sus derechos de propiedad intelectual, así como de las producciones artísticas, literarias o culturales de las que sean autores, de conformidad con la legislación aplicable en la materia; la obra plástica y escultórica de los creadores, estará protegida y reconocida exclusivamente en los términos de la Ley Federal del Derecho de Autor;
+
+IX. Utilizar las tecnologías de la información y las comunicaciones para el ejercicio de los derechos culturales; y
+
+X. Los demás que en la materia se establezcan en la Constitución Política de los Estados Unidos Mexicanos, en la del Estado, en los tratados internacionales de los que el Estado mexicano sea parte y en otras legislaciones.
 
 ###### Artículo 7.
 
@@ -183,15 +271,25 @@ Los Gobiernos Municipales promoverán, en el ámbito de sus atribuciones, accion
 
 Todas las dependencias y entidades de la Administración Pública del Estado en el ámbito de su competencia están obligadas a procurar el pleno ejercicio de los derechos culturales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 12.
 
-Son encargados de la aplicación de esta Ley:
+Son autoridades encargadas de la aplicación de la presente ley:
 
 I. El Titular del Poder Ejecutivo del Estado;
 
-II. El Titular de la Secretaría; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
 
-III. Los Gobiernos Municipales;
+II. El Titular de la Secretaría;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+III. Los Gobiernos Municipales; y
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+IV. Los titulares de los organismos públicos descentralizados y desconcentrados del sector cultural.
 
 ###### Artículo 13.
 
@@ -393,7 +491,39 @@ IX. Promover la conservación y, en su caso, la construcción de teatros, audito
 
 X. Las demás que sean necesarias para el cumplimiento de sus objetivos.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+###### Artículo 21 Bis.
+
+Los convenios de coordinación que se celebren, a los que se refiere la fracción I del artículo anterior, se sujetarán a lo siguiente:
+
+I. Establecer el tipo y características operativas de los servicios de cultura que constituyan el objeto de la coordinación;
+
+II. Determinar las funciones que corresponda desarrollar a las partes, con indicación de las obligaciones que por acuerdo asuman;
+
+III. Describir los bienes y recursos que aporten las partes, con la especificación del régimen a que quedarán sujetos;
+
+IV. Determinar el calendario de actividades que vayan a desarrollarse;
+
+V. Establecer que los ingresos que se obtengan por la prestación de bienes y servicios, se ajustarán a lo que disponga la legislación y los acuerdos que celebren en la materia;
+
+VI. Indicar las medidas legales y administrativas que las partes se obliguen a adoptar o promover, para el mejor cumplimiento del acuerdo;
+
+VII. Determinar los procedimientos de coordinación que correspondan a la Secretaría de Cultura;
+
+VIII. Establecer la duración del acuerdo y las causas de su terminación anticipada;
+
+IX. Indicar el procedimiento para la resolución de las controversias que, en su caso, se susciten con relación a su cumplimiento y ejecución, con sujeción a las disposiciones legales aplicables; y
+
+X. Incluir los demás acuerdos que las partes consideren necesarias para la mejor prestación de los servicios.
+
 ### CAPÍTULO IV. DE LA PLANEACIÓN Y LA PROGRAMACIÓN DE LA POLÍTICA PÚBLICA EN MATERIA CULTURAL
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+###### Artículo 21 Ter.
+
+La Secretaría elaborará el programa sectorial que se considerará como la herramienta de planeación e instrumentación de los objetivos, políticas, estrategias y acciones para la investigación, conservación, protección, fomento y difusión de la cultura del Estado, derivado del Plan Estatal de Desarrollo.
 
 ###### Artículo 22.
 
@@ -423,9 +553,13 @@ X. Transversal, referida a la participación coordinada y conjunta de la Secreta
 
 XI. Transparente, las autoridades gubernamentales en la entidad garantizarán que la información que generen sea objetiva, oportuna, sistemática y veraz.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 23.
 
-El Programa será el documento rector que contendrá las directrices de la política cultural en la entidad. Su elaboración estará a cargo del Ejecutivo Estatal a través de la Secretaría. En él, se incluirán los programas municipales, institucionales, regionales y especiales.
+El Programa será de observancia general para todas las dependencias y entidades del sector, y podrá servir como referente para la elaboración de los Programas Municipales y sectores privado y social.
+
+Será el documento rector que contendrá las directrices de la política cultural en la entidad. Su elaboración estará a cargo del Ejecutivo Estatal a través de la Secretaría. En él, se incluirán los programas municipales, institucionales, regionales y especiales.
 
 ###### Artículo 24.
 
@@ -486,6 +620,12 @@ II. Los objetivos y estrategias a desarrollar en la investigación, preservació
 III. Los procedimientos de evaluación y revisión pertinentes para su mejora y
 
 IV. Un proyecto de presupuesto que permita un adecuado y eficiente ejercicio de los recursos.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+###### Artículo 25 Bis.
+
+El titular del ejecutivo impulsará la integración de la dimensión cultural del desarrollo, como elemento central de sus acciones, con objeto de lograr la integración armónica de los aspectos económico, social, ambiental y cultural del mismo.
 
 ### CAPÍTULO V. DE LA DESCENTRALIZACIÓN DE LOS BIENES Y SERVICIOS CULTURALES
 
@@ -581,7 +721,7 @@ Así como los demás bienes tangibles e intangibles que corresponden al patrimon
 
 ### CAPÍTULO VII. DE LAS DECLARATORIAS DE PATRIMONIO CULTURAL DEL ESTADO
 
-### CAPÍTULO VIII. DE LA CULTURA POPULAR DE LOS PUEBLOS COMUNIDADES RURALES Y URBANAS
+### CAPÍTULO VIII. DE LA CULTURA POPULAR DE LOS PUEBLOS Y COMUNIDADES RURALES Y URBANAS, FESTIVIDADES Y TRADICIONES
 
 ###### Artículo 31.
 
@@ -619,6 +759,8 @@ Los ciudadanos u organismos sociales públicos o privados, podrán hacer del con
 
 Las disposiciones de la presente Ley relativas a la protección del patrimonio cultural del Estado, se aplicarán sin perjuicio de lo establecido en los ordenamientos federales correspondientes. En todo caso, en las acciones a realizar con motivo de la presente Ley, se les dará la intervención que les corresponda a las autoridades federales.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2021)</small>
+
 ### CAPÍTULO IX. DEL FINANCIAMIENTO A LA CULTURA
 
 ###### Artículo 39.
@@ -641,6 +783,12 @@ VII. Impulsar el establecimiento de festivales de arte, música y demás expresi
 
 VIII. Participar en el rescate, defensa, preservación y difusión de las lenguas, cultura, artes, usos y costumbres, así como de los recursos y formas específicas de organización social de su cultura.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+###### Artículo 39 Bis.
+
+Se declara de interés público el fomento y apoyo de las tradiciones, costumbres, festividades y certámenes populares, por lo que las autoridades competentes establecerán programas especiales de fomento a la salvaguardia, para que las comunidades cuenten con facilidades para su práctica, preservación, desarrollo y difusión.
+
 ###### Artículo 40.
 
 Es de interés público, la protección, el fomento y el apoyo al valor cultural de las artesanías hidalguenses.
@@ -652,6 +800,10 @@ El Gobierno del Estado, a través de la Secretaría y demás dependencias y enti
 La Secretaría y los Gobiernos Municipales en el ámbito de su competencia, realizarán las acciones necesarias para el logro de los siguientes objetivos:
 
 I. Fomentar la transmisión de las técnicas de producción artesanal a las nuevas generaciones;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+I Bis. Elaborar y actualizar el registro de las festividades y manifestaciones populares que se realizan en la entidad;
 
 II. Formular, integrar y ejecutar actividades primordiales dentro de la estrategia de modernización y desarrollo del sector artesanal, preservando su identidad cultural;
 
@@ -667,15 +819,29 @@ VII. Velar por el desarrollo y preservación de las actividades artesanales en e
 
 En el cumplimiento de las acciones a las que se refiere el presente artículo, la Secretaría y, en su caso, los Ayuntamientos, se coordinarán con las instancias estatales y federales competentes.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+###### Artículo 41 Bis.
+
+Por cultura urbana se entienden todas las expresiones y manifestaciones que comparten los individuos en un determinado espacio urbano; entre las que se encuentran la música, la forma de vestir, el arte, toda expresión resultante de la combinación de destrezas físicas o artísticas, ya sea en forma unipersonal o grupal, las maneras de comunicarse y cualquier manifestación de esta índole que se desarrolle en espacios públicos.
+
 ###### Artículo 42.
 
 La Secretaría y los Gobiernos Municipales establecerán programas y proyectos que atiendan las necesidades de fomento a las creaciones artísticas y culturales emanadas de las comunidades rurales y urbanas, como nuevas identidades y expresiones emergentes de la cultura popular.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+Además, promoverán la apertura y utilización de espacios públicos, para la práctica de las expresiones del patrimonio cultural inmaterial y de las culturales urbanas, así como la creación de concursos, exposiciones y festivales.
 
 ### CAPÍTULO X. DEL USO DE LOS ESPACIOS PÚBLICOS DESTINADOS A LA CULTURA
 
 ###### Artículo 43.
 
 La Secretaría y los organismos públicos del sector, deberán aprovechar los fondos, los bienes y los servicios culturales a su disposición, así como impulsar modelos de sustentabilidad para el uso y disfrute de la infraestructura cultural de la entidad y garantizar su óptimo estado para el uso y disfrute de la población, de conformidad con las leyes, decretos y reglamentos respectivos.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+Todas las personas tienen el derecho de acceder a los bienes y servicios culturales, cumpliendo con los lineamientos aplicables, a los programas y actividades, artísticas y culturales que se lleven a cabo en la infraestructura cultural a cargo de la administración pública estatal.
 
 ###### Artículo 44.
 
@@ -703,6 +869,10 @@ El Estado y los Gobiernos Municipales, podrán convenir voluntariamente acciones
 
 La Secretaría podrá suscribir convenios de colaboración con personas físicas o morales, dependencias y entidades de la administración pública estatal a efecto de sumar recursos financieros, humanos y materiales en el cumplimiento de programas, proyectos y acciones a favor de la cultura.
 
+### CAPÍTULO XI. DE LA PARTICIPACIÓN SOCIAL
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 48.
 
 El uso de los espacios públicos destinados a la cultura, propiedad del gobierno del Estado, se ajustarán a los siguientes criterios:
@@ -722,6 +892,68 @@ Se deberá de garantizar que los espacios sean empleados para la finalidad que f
 ###### Artículo 50.
 
 El gobierno del Estado y los municipios deberán reglamentar, en el ámbito de su competencia, el uso de los espacios para el desarrollo de las actividades artísticas. En dicho reglamento se establecerán los procedimientos, términos y condiciones en los que se autorice su uso.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2021)</small>
+
+### CAPÍTULO XII. DEL OBSERVATORIO DE DESARROLLO CULTURAL
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+###### Artículo 51.
+
+La Secretaria y los Municipios promoverán la participación corresponsable de la sociedad en la planeación y evaluación de la política pública en materia cultural.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+###### Artículo 52.
+
+La Secretaria celebrará los convenios de concentración para la ejecución de la política pública en la materia e impulsará una cultura cívica que fortalezca la participación de la sociedad civil en los mecanismos de participación que se creen para tal efecto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2021)</small>
+
+### CAPÍTULO XIII. DE LA COMISIÓN ESTATAL PARA EL FOMENTO A LA SALVAGUARDIA DEL PATRIMONIO CULTURAL INMATERIAL
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+###### Artículo 53.
+
+Se crea el Observatorio de Desarrollo Cultural del Estado de Hidalgo, auxiliará y coadyuvará con la secretaría, en:
+
+I.- A partir de la información del Sistema de Información Cultural del Estado de Hidalgo y otras fuentes complementarias, diseñar e instrumentar indicadores de desempeño para políticas culturales públicas de alcance estatal o municipal, especialmente en lo relativo a su impacto en el ejercicio de los derechos culturales y la calidad de los servicios culturales que brinda el Estado;
+
+II.- La elaboración de estudios sobre el impacto de las políticas culturales en el desarrollo económico, ambiental y social del estado, teniendo como marco de referencia los Objetivos y las Metas de la Agenda 2030 del Desarrollo Sostenible;
+
+III.- La elaboración de estudios sobre el impacto de las políticas culturales en su interacción con otras dependencias de la administración pública estatal;
+
+IV.- Formular recomendaciones generales en materia de políticas culturales, diseño y ejecución del presupuesto, la condición del artista y el ejercicio de los derechos culturales; y también, sobre el estado del arte de algún sector específico del desarrollo cultural o artístico; y
+
+V.- A solicitud de la Secretaría, el Observatorio podrá realizar estudios de factibilidad cultural, que establezcan criterios específicos para el mejor ejercicio del gasto para el desarrollo.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+###### Artículo 54.
+
+La forma de integración, el funcionamiento y la operación del Observatorio, se establecerán en el Reglamento de la Ley que expida el Ejecutivo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2021)</small>
+
+###### Artículo 55.
+
+Se crea la Comisión Estatal para el Fomento a la Salvaguardia del Patrimonio Cultural Inmaterial, la cual podrá auxiliar de (sic) la secretaría, en lo siguiente:
+
+I. Proponer las bases y prioridades del Programa Estatal de Fomento a la Salvaguardia del Patrimonio Cultural Inmaterial, tanto para su inclusión dentro del Programa Estatal de Cultura y Derechos Culturales, así como dentro de los programas operativos anuales que de él se deriven;
+
+II. Proponer la normatividad operativa y técnica a efecto de que el Estado y los Municipios, de manera coordinada, ejecuten políticas y acciones encaminadas a la eliminación de condiciones de riesgo para la salvaguarda y enriquecimiento de la diversidad de los usos, representaciones, expresiones, conocimientos y técnicas que las comunidades, los grupos y en algunos casos los individuos reconozcan como parte integrante de su identidad cultural; así como, para la conservación y preservación de los monumentos, conjuntos, lugares, espacios, instrumentos y objetos culturales, que les sean inherentes; y
+
+III. Proponer mecanismos de fomento y apoyo a la formulación e instrumentación comunitaria de Planes de Salvaguardia del Patrimonio Cultural Inmaterial.
+
+El Congreso del Estado proveerá de recursos presupuestales a la Secretaría, dentro del Presupuesto de Egresos del Estado, específicamente para el cumplimiento de estas responsabilidades.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+###### Artículo 56.
+
+La integración, el funcionamiento y la operación de la Comisión Estatal para el fomento a la Salvaguardia del Patrimonio Cultural Inmaterial, se establecerá en el Reglamento de la Ley.
 
 ## TRANSITORIOS
 
@@ -758,3 +990,13 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 730 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Ejecutivo del Estado, deberá adecuar el reglamento de la LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, en termino (sic) de lo dispuesto en el presente Decreto en un término de 180 días a partir del día siguiente al de su publicación.
