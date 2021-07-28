@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2020-12-31"
+last_updated: "2021-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -95,11 +95,13 @@ II.- Fuera de los casos anteriores y a falta de disposición expresa, las demás
 
 DEL OBJETO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 5.
 
-Son objeto de este Impuesto, los ingresos que perciban las personas físicas, dentro del territorio del Estado, derivados de la prestación de servicios médicos profesionales independientes, que requieran título profesional, y otras actividades artístico culturales y deportivas.
+Son objeto de este Impuesto, los ingresos que perciban las personas físicas, dentro del territorio del Estado que realicen actividades artístico culturales y deportivas.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 Para los efectos de este impuesto, se considera percibido el ingreso dentro del territorio del Estado:
 
@@ -219,11 +221,15 @@ DE LAS EXCEPCIONES
 
 No causan este impuesto:
 
-I.- Los ingresos que perciban los artesanos; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+I. Los ingresos que perciban los artesanos;
 
-II.- Las personas físicas que causen el Impuesto al Valor Agregado, conforme a la Ley de la materia.
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+II. Los servicios médicos profesionales, cuando su prestación requiera título de médico conforme a las leyes aplicables, y
+
+III. Las personas físicas que causen el Impuesto al Valor Agregado, conforme a la Ley de la materia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1770,3 +1776,9 @@ P.O. 31 DE DICIEMBRE DE 2020.
 PRIMERO. La presente Ley entrará en vigor el 01 de enero del 2021, previa su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 727 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE HACIENDA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
