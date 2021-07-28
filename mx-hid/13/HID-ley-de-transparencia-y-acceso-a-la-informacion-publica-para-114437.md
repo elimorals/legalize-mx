@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2017-10-09"
+last_updated: "2021-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 4 de mayo de 2016.
 
@@ -99,6 +99,10 @@ I. Ajustes razonables: Modificaciones y adaptaciones necesarias y adecuadas que 
 
 II. Áreas: Instancias que cuentan o puedan contar con la información. Tratándose del sector público, serán aquellas que estén previstas en el reglamento interior, estatuto orgánico respectivo o equivalentes;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+II Bis. Ayudas técnicas: Los dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
+
 III. Comisionado: Cada uno de los integrantes del Pleno del Instituto;
 
 IV. Comité de Transparencia: Cuerpo colegiado de cada sujeto obligado encargado de vigilar que se cumpla, en la esfera de su competencia, con lo establecido en esta Ley y demás disposiciones aplicables;
@@ -147,6 +151,10 @@ XV. Institución Transparente: Aquella que cumpla con las obligaciones de transp
 
 XVI. Instituto: Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+XVI Bis. Lenguas indígenas: Aquellas consideradas como lenguas nacionales y estatales que proceden de los pueblos existentes en el territorio del Estado antes del establecimiento del Estado Mexicano, además de aquellas provenientes de otros pueblos indoamericanos, igualmente preexistentes que se han arraigado en el territorio nacional con posterioridad y que se reconocen por poseer un conjunto ordenado y sistemático de formas orales funcionales y simbólicas de comunicación;
+
 XVII. Ley: La Ley de Transparencia y Acceso a la Información Pública para el Estado de Hidalgo;
 
 XVIII. Ley General: Ley General de Transparencia y Acceso a la Información Pública;
@@ -157,7 +165,15 @@ XX. Órgano garante nacional: Instituto Nacional de Transparencia, Acceso a la I
 
 XXI. Organizaciones de la sociedad civil: Asociaciones o sociedades civiles legalmente constituidas;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+XXI Bis. Persona con discapacidad: Toda aquélla que, por razones congénitas o adquiridas, presenta una o más deficiencias físicas, intelectuales, sensoriales o mentales, sea de carácter permanente o temporal y que debido a las barreras creadas por el entorno social, ve limitada su participación, inclusión e integración a una o más de las actividades de la vida cotidiana;
+
 XXII. Plataforma Nacional: Plataforma Nacional de Transparencia, a que hace referencia el artículo 49 de la Ley General de Transparencia y Acceso a la Información Pública;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+XXII Bis. Pleno del Consejo General: La instancia del Instituto en la que los Comisionados del mismo ejercen de manera colegiada las facultades conferidas a ellos en términos de la presente Ley y demás disposiciones constitucionales y legales aplicables;
 
 XXIII. Prueba de daño: Carga de los sujetos obligados de demostrar que la divulgación de información lesiona el interés jurídicamente protegido por la Ley, y que el daño que puede producirse con la publicidad de la información es mayor que el interés de conocerla;
 
@@ -173,7 +189,9 @@ b. El Poder Judicial del Estado;
 
 c. El Poder Legislativo del Estado y la Auditoría Superior del Estado;
 
-d. Los Ayuntamientos o Concejos Municipales y la Administración Pública Municipal;
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
+d. Los Municipios, Ayuntamientos o Concejos Municipales y la Administración Pública Municipal;
 
 e. Los organismos públicos autónomos del Estado;
 
@@ -190,6 +208,10 @@ j. Las organizaciones de la sociedad civil que reciban y/o ejerzan recursos púb
 k. Las instituciones de beneficencia que reciban y/o ejerzan recursos públicos y sean constituidas conforme a la ley en la materia; y
 
 l. Cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en los ámbitos Estatal o Municipal.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+XXVI Bis. Transparencia proactiva: Conjunto de actividades que promueven la identificación, generación publicación y difusión adicional o complementaria a la establecida con carácter obligatorio;
 
 XXVII. Unidad de Transparencia: Órgano encargado de operar el sistema de información, cuyas funciones son la de registrar, procesar la información pública y las demás que le confiera la Ley; y
 
@@ -327,7 +349,9 @@ III. Proporcionar capacitación continua y especializada al personal que forme p
 
 IV. Constituir y mantener actualizados sus sistemas de archivo y gestión documental, conforme a la normatividad aplicable;
 
-V. Promover la generación, documentación y publicación de la información en formatos abiertos y accesibles;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+V. Promover la generación, documentación y publicación de la información en formatos abiertos y accesibles, en términos del artículo 14 de la presente Ley;
 
 VI. Proteger y resguardar la información clasificada como reservada o confidencial;
 
@@ -365,6 +389,22 @@ En el caso de los fideicomisos y fondos públicos que no cuenten con estructura 
 
 El Instituto es un organismo autónomo, especializado, independiente, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, con capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar, en el ámbito de su competencia, el ejercicio del derecho de acceso a la información y la protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por los artículos 6o de la Constitución Política de los Estados Unidos Mexicanos, 4 Bis de la Constitución Política del Estado de Hidalgo, así como lo previsto en la Ley General, esta Ley y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+El patrimonio del Instituto se integra con:
+
+I. Los bienes muebles e inmuebles que adquiera para el cumplimiento de su objeto, incluyendo los que el Estado destine para tal fin o para su uso exclusivo;
+
+II. Los recursos que anualmente apruebe el Congreso, en el Presupuesto de Egresos del Estado, para el Instituto;
+
+III. Las donaciones que reciba para el cumplimiento de su objeto; y
+
+IV. Los ingresos que reciba por cualquier otro concepto.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+El Instituto no podrá tener más bienes inmuebles que los estrictamente necesarios para cumplir con su objeto.
+
 ###### Artículo 29.
 
 El Instituto contará con la estructura administrativa necesaria para el ejercicio de sus atribuciones, que se determinen en este ordenamiento y su Estatuto Orgánico. Los servidores públicos deberán prestarle el apoyo que requiera para el desempeño de sus funciones. Las relaciones laborales que se creen entre el Instituto y su personal se regirán por las disposiciones aplicables.
@@ -385,7 +425,21 @@ III. Poseer título profesional de licenciatura;
 
 IV. Haberse desempeñado destacadamente en actividades profesionales, de servicio público o académicas, relacionadas con la materia de esta Ley;
 
-V. No haber sido sentenciado por delito doloso, ni sancionado en juicio de responsabilidad como servidor público;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2021)</small>
+
+V. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, tramite el descuento correspondiente;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+V. Bis. No estar condenada o condenado por delito doloso de acoso sexual o abuso sexual y/o delitos de violencia de género;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+V. Ter. No estar condenada o condenado por el delito de violencia familiar;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE JULIO DE 2021)</small>
+
+V. Quater. No estar sancionado en juicio de responsabilidad como servidor público;
 
 VI. No tener ni haber tenido cargo alguno de elección popular o haber sido candidato al mismo en los tres años anteriores a la designación;
 
@@ -399,17 +453,43 @@ IX. No ser ministro de culto religioso.
 
 La designación de los Comisionados del Instituto, se realizará bajo el siguiente procedimiento:
 
-I. El Congreso, por conducto de la Primera Comisión Permanente de Transparencia y Acceso a la Información Pública Gubernamental, emitirá una convocatoria pública para que cualquier ciudadano que aspire al cargo de Comisionado, haga llegar su solicitud de registro, dentro del plazo de diez días hábiles posteriores a la expedición de (sic) misma;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
 
-II. Concluido el plazo para el registro de los aspirantes al cargo de Comisionado, el Congreso, por conducto de la Primera Comisión Permanente de Transparencia y Acceso a la Información Pública Gubernamental, dentro de los cinco días hábiles siguientes, emitirá un informe en el que señale el número de aspirantes registrados y determine quienes cumplieron con los requisitos exigidos en la presente Ley;
+I. El Congreso, por conducto de la Primera Comisión Permanente de Transparencia y Anticorrupción, emitirá y difundirá ampliamente a través de medios electrónicos y redes sociales institucionales una convocatoria pública para que cualquier ciudadano que aspire al cargo de Comisionado, haga llegar su solicitud de registro, dentro del plazo de diez días hábiles posteriores a la expedición de la misma.
 
-III. Los aspirantes que hayan acreditado los requisitos, serán convocados a comparecer ante la Primera Comisión Permanente de Transparencia y Acceso a la Información Pública Gubernamental, dentro de los siguientes diez días hábiles;
+Previo a la publicación de la convocatoria, el Congreso por conducto de la Primera Comisión Permanente de Transparencia y Anticorrupción, promocionará y difundirá a través de los medios señalados en esta fracción, el proceso de selección a cargo de Comisionados.
 
-IV. Concluidas las comparecencias, la Primera Comisión Permanente de Transparencia y Acceso a la Información Pública Gubernamental, emitirá dictamen que contendrá la propuesta de los aspirantes que cumplan con el perfil necesario y puedan ser designados, mismo que será sometido a discusión y en su caso aprobación, por mayoría simple del Congreso.
+La convocatoria establecerá como mínimo:
 
-A efecto, de procurar la paridad de género, al tener el Instituto un número impar de comisionados, podrá integrarse, ya sea con tres mujeres y dos hombres, o, con tres hombres y dos mujeres; y
+a) El proceso a realizar, los plazos, lugares, horarios y condiciones de presentación de las solicitudes;
 
-V. Aprobado el nombramiento, el Congreso mandará llamar a los propietarios quienes deberán rendir la protesta de Ley antes de tomar posesión de su cargo.
+b) Los requisitos y la forma de acreditarlos; y
+
+c) El método y criterios de selección y evaluación de los aspirantes.
+
+Dicha convocatoria se publicará en el Periódico Oficial del Estado de Hidalgo y en dos diarios de mayor circulación estatal.
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+II. Concluido el plazo para el registro de los aspirantes al cargo de Comisionado, el Congreso, por conducto de la Primera Comisión Permanente de Transparencia y Anticorrupción, dentro de los cinco días hábiles siguientes, emitirá un informe en el que señale el número de aspirantes registrados y determine quienes cumplieron con los requisitos exigidos en la presente Ley;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+III. Los aspirantes que hayan acreditado los requisitos, serán convocados a comparecer en audiencia pública ante la Primera Comisión Permanente de Transparencia y Anticorrupción, dentro de los siguientes diez días hábiles. La transmisión de dicha audiencia se llevará a cabo una vez que haya concluido la comparecencia de todos y todas las aspirantes;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+IV. Concluidas las comparecencias, la Primera Comisión Permanente de Transparencia y Anticorrupción, emitirá dictamen que contendrá la propuesta de los aspirantes que cumplan con el perfil necesario y puedan ser designados, mismo que será sometido a discusión y en su caso aprobación, por mayoría simple del Congreso.
+
+A efecto, de procurar la paridad de género, al tener el Instituto un número impar de comisionados, podrá integrarse, ya sea con tres mujeres y dos hombres, o, con tres hombres y dos mujeres;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+V. Aprobado el nombramiento, el Congreso mandará llamar a los propietarios quienes deberán rendir la protesta de Ley antes de tomar posesión de su cargo; y
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+VI. Concluido todo el proceso de selección y designación, se deberá difundir ampliamente y hacer pública toda la información relacionada con el mismo, salvaguardando siempre los datos personales conforme a la normatividad aplicable.
 
 ###### Artículo 33.
 
@@ -419,9 +499,11 @@ Los Comisionados durarán en su encargo hasta siete años de manera escalonada y
 
 Los Comisionados sólo podrán ser removidos por las causas y los procedimientos establecidos en el Titulo Décimo Capitulo Único de la Constitución Política del Estado de Hidalgo y la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 35.
 
-El Instituto, a través de su Comisionado Presidente, rendirá un informe anual ante el Congreso, de quien recibirá recomendaciones y sugerencias.
+El Instituto, a través de su Comisionado Presidente, rendirá un informe anual ante el Congreso, de quien recibirá recomendaciones y sugerencias. Dicho informe, corresponderá al del ejercicio inmediato anterior y deberá presentarse durante el mes de enero.
 
 Cuando así lo determine el Congreso, los Comisionados del Instituto conforme a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado de Hidalgo, comparecerán ante comisiones legislativas a rendir los informes que se les requieran o a ampliar la información contenida en el informe anual. Las comparecencias podrán realizarse de manera colegiada o individual según lo determine el Congreso y deberán realizarse por lo menos una vez al año. El informe estará a disposición del público.
 
@@ -439,9 +521,17 @@ IV. Presentar petición fundada al Organismo Garante Nacional, para que conozca 
 
 V. Fortalecer la infraestructura en materia de transparencia, de acceso a la información y protección de datos personales;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+V Bis. Promover y difundir el ejercicio del derecho de acceso a la información;
+
 VI. Promover la cultura de la transparencia en el sistema educativo;
 
 VII. Capacitar a los servidores públicos y brindar apoyo técnico a los sujetos obligados en materia de transparencia y acceso a la información;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+VII Bis. Promover la profesionalización y capacitación a cada uno de los titulares o responsables de las Unidades de Transparencia; para tal efecto celebrará los convenios necesarios con las instituciones especializadas para cumplir lo previsto en el presente artículo;
 
 VIII. Establecer políticas de transparencia proactiva, atendiendo a las condiciones económicas, sociales y culturales;
 
@@ -477,11 +567,23 @@ XXII. Requerir, recibir y sistematizar los informes mensuales que deberán envia
 
 XXIII. PROPONER EL REGLAMENTO DE ESTA LEY Y SUS MODIFICACIONES;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+XXIII BIS. Elaborar, aprobar y emitir las disposiciones reglamentarias y normativas que deriven de la presente Ley;
+
 XXIV. Elaborar su Estatuto Orgánico y las disposiciones necesarias para el cumplimiento del mismo;
 
-XXV. A propuesta del Consejero Presidente designar a los servidores públicos con nivel de dirección;
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
 
-XXVI. Elaborar el informe anual que rendirá ante el Congreso;
+XXIV Bis. Interponer acciones de inconstitucionalidad previstas en el inciso h) fracción II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y fracción XV del artículo 42 de la Ley General de Transparencia y Acceso a la Información Pública, que vulneren el derecho de acceso a la información pública y la protección de datos personales;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+XXV. A propuesta del Comisionado Presidente, designar a los servidores públicos con nivel de Dirección General y Dirección de Área;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+XXVI. Elaborar y presentar un informe anual de actividades, actuaciones y de la evaluación general en materia de transparencia, acceso a la información pública y protección de datos personales en el Estado, así como del ejercicio de su actuación y presentarlo ante el Congreso, durante del mes de enero, y hacerlo público;
 
 XXVII. Aprobar sus proyectos de presupuesto de ingresos y egresos, que será enviado por conducto del Gobernador al Congreso;
 
@@ -511,21 +613,33 @@ Las resoluciones del Consejo General se tomarán por mayoría de votos y para se
 
 La organización y funcionamiento del Consejo General se establecerá en el Estatuto Orgánico del Instituto.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+Cuando un Comisionado o comisionada no estuviera de acuerdo con la resolución, podrá formular voto particular debidamente fundado y motivado, el cual se insertará al final de la resolución, siempre y cuando se presente antes de que sea firmada esta última.
+
 ###### Artículo 38.
 
 El Comisionado Presidente del Instituto, tendrá a su cargo el trabajo administrativo del mismo y las siguientes atribuciones:
 
 I. Representar legalmente al Instituto;
 
-II. Remitir oportunamente al titular del Poder Ejecutivo del Estado, el proyecto de Ley de Ingresos y de Presupuesto de Egresos del Instituto, una vez aprobado por el Consejo General;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+II. Proponer anualmente al Consejo General, el anteproyecto de presupuesto del Instituto para su aprobación y remitirlo, una vez aprobado, al Poder Ejecutivo, a fin de que se incluya en el Proyecto de Presupuesto de Egresos del Estado;
 
 III. Vigilar el ejercicio del presupuesto de egresos asignado al Instituto y presentar al Consejo General, un informe trimestral de los ingresos y egresos del mismo, que deberá contener la información del gasto aprobado, modificado, comprometido, devengado, ejercido y pagado por cada una de las partidas autorizadas;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+III Bis. Representar al Instituto en el Sistema Estatal Anticorrupción y en el Consejo Estatal de Archivos.
 
 IV. Suscribir los convenios y acuerdos que sean necesarios con el Instituto Nacional, con los sujetos obligados, la Federación, las Entidades Federativas, organismos nacionales e internacionales, la sociedad civil y con cualquier otra persona física o moral, que se requiera para el cumplimiento de las atribuciones del Instituto, previa autorización del Consejo General;
 
 V. Promover la capacitación y actualización de los servidores públicos, para atender las solicitudes de acceso a la información pública gubernamental y de la acción de protección de datos personales;
 
-VI. Elaborar guías que expliquen de manera clara y sencilla los procedimientos y trámites que de acuerdo con la presente Ley, tengan que realizarse ante los sujetos obligados y ante el Instituto;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+VI. Proponer para aprobación del Consejo General, guías que expliquen de manera clara y sencilla los procedimientos y trámites que de acuerdo con la presente Ley, tengan que realizarse ante los sujetos obligados y ante el Instituto;
 
 VII. Promover que en los programas, planes, libros y materiales que se utilicen en las instituciones educativas se incluyan contenidos y referencias a los derechos tutelados en la presente Ley;
 
@@ -543,17 +657,25 @@ XI. Las demás que señale este ordenamiento y su Estatuto Orgánico.
 
 En cada sujeto obligado se integrará un Comité de Transparencia colegiado e integrado por:
 
-I. El titular de la Unidad de Transparencia;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
 
-II. El responsable del órgano interno de control; y
+I. El Titular o el responsable de la Unidad de Transparencia;
 
-III. El titular del área que cuente o pueda contar con la información solicitada.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+II. El Titular o el responsable del órgano interno de control; y
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+III. El Titular o el responsable del área que cuente o pueda contar con la información solicitada.
 
 El Comité de Transparencia adoptará sus resoluciones por mayoría de votos. En caso de empate, el Presidente que será el titular de la Unidad de Transparencia, tendrá voto de calidad. A sus sesiones podrán asistir como invitados aquellos que sus integrantes consideren necesarios, quienes tendrán voz pero no voto.
 
 Los integrantes del Comité de Transparencia no podrán depender jerárquicamente entre sí, tampoco podrán reunirse dos o más de estos integrantes en una sola persona. Cuando se presente el caso, el titular del sujeto obligado tendrá que nombrar a la persona que supla al subordinado.
 
-Los integrantes del Comité de Transparencia tendrán acceso a la información necesaria para dar cumplimiento a sus funciones.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
+Los integrantes del Comité de Transparencia tendrán acceso a la información necesaria para determinar su clasificación, conforme a la normatividad previamente establecida por los sujetos obligados para el resguardo o salvaguarda de la información.
 
 ###### Artículo 40.
 
@@ -579,9 +701,11 @@ IX. Las demás que se desprendan de la normatividad aplicable.
 
 ### CAPÍTULO III. DE LAS UNIDADES DE TRANSPARENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 41.
 
-Los sujetos obligados designarán al Titular de la Unidad de Transparencia que tendrá las siguientes funciones:
+Los Titulares de los sujetos obligados establecerán una Unidad de Transparencia, procurando que, quien funja como titular o responsable tenga conocimiento de la materia. El titular o responsable de la Unidad de Transparencia tendrá las siguientes funciones:
 
 I. Recabar y difundir la información a que se refieren los Capítulos II, III y IV del Título Cuarto de esta Ley y propiciar que las áreas la actualicen periódicamente, conforme la normatividad aplicable;
 
@@ -597,7 +721,9 @@ VI. Proponer al Comité de Transparencia los procedimientos internos que asegure
 
 VII. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
 
-VIII. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+VIII. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío, mismo que publicarán en el apartado que el sujeto obligado determine para tal efecto, observando lo dispuesto en la materia de protección de datos personales;
 
 IX. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
 
@@ -857,23 +983,27 @@ Las entidades públicas, deberán de informar sobre las actividades, acciones y 
 
 ###### Artículo 58.
 
-El Instituto expedirá una certificación de Institución Transparente a las personas físicas o morales, que cumplan con las obligaciones de transparencia de la presente Ley, de acuerdo a las bases y los requisitos de las reglas de operación que se expidan para la certificación.
+(DEROGADO, P.O. 28 DE JULIO DE 2021)
 
 ## TÍTULO CUARTO. OBLIGACIONES DE TRANSPARENCIA
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 59.
 
-Los sujetos obligados deberán poner a disposición de los particulares la información a que se refiere la presente Ley, en sus sitios de Internet y en la Plataforma Nacional.
+Los sujetos obligados deberán poner a disposición de los particulares la información a que se refiere la presente Ley, en sus sitios oficiales de Internet y en la Plataforma Nacional.
 
 ###### Artículo 60.
 
 Los sujetos obligados deberán observar los lineamientos técnicos que emita el Sistema Nacional, para asegurar que la información sea veraz, confiable, oportuna, congruente, integral, actualizada, accesible, comprensible y verificable.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 61.
 
-Los sujetos obligados deberán actualizar la información correspondiente a las obligaciones de transparencia de manera mensual, salvo que en la presente Ley o en otra disposición normativa se establezca un plazo diverso, indicando la fecha en que se realiza.
+Los sujetos obligados deberán actualizar la información correspondiente a las obligaciones de transparencia de conformidad con la periodicidad establecida en la presente Ley, en los lineamientos emitidos por el Sistema Nacional o en otra disposición normativa.
 
 ###### Artículo 62.
 
@@ -892,6 +1022,10 @@ El Instituto y los sujetos obligados establecerán las medidas que faciliten el 
 ###### Artículo 65.
 
 Los sujetos obligados pondrán a disposición de las personas interesadas equipos de cómputo con acceso a Internet, que permitan a los particulares consultar la información o utilizar el sistema de solicitudes de acceso a la información en las oficinas de las Unidades de Transparencia. Lo anterior, sin perjuicio de que adicionalmente se utilicen medios alternativos de difusión de la información, cuando en determinadas poblaciones éstos resulten de más fácil acceso y comprensión.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+Los sujetos obligados tendrán que poner a disposición de las personas con discapacidad las ayudas técnicas necesarias para el correcto ejercicio de su derecho de acceso a la información.
 
 ###### Artículo 66.
 
@@ -1113,9 +1247,11 @@ Los sujetos obligados deberán informar al Instituto y verificar que se publique
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES DE TRANSPARENCIA ESPECÍFICAS DE LOS SUJETOS OBLIGADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 70.
 
-Además de lo señalado en el artículo anterior de la presente Ley, los sujetos obligados del Poder Ejecutivo Estatal y Municipales, deberán poner a disposición del público y actualizar la siguiente información:
+Además de lo señalado en el artículo anterior de la presente Ley, los sujetos obligados del Poder Ejecutivo Estatal y de los Municipios, deberán poner a disposición del público y actualizar la siguiente información:
 
 I. En el caso del Poder Ejecutivo Estatal y los Municipios:
 
@@ -1135,9 +1271,17 @@ g. Las disposiciones administrativas, directamente o a través de la autoridad c
 
 II. Adicionalmente, en el caso de los municipios:
 
-a. El contenido de las gacetas municipales, las cuales deberán comprender los resolutivos y acuerdos aprobados por los ayuntamientos; y
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
 
-b. Las actas de sesiones de cabildo, los controles de asistencia de los integrantes del Ayuntamiento a las sesiones de cabildo y el sentido de votación de los miembros del cabildo sobre las iniciativas o acuerdos.
+a. El contenido de las gacetas municipales, las cuales deberán comprender los resolutivos y acuerdos aprobados por los ayuntamientos;
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
+b. Las actas de sesiones de cabildo, los controles de asistencia de los integrantes del Ayuntamiento a las sesiones de cabildo y el sentido de votación de los miembros del cabildo sobre las iniciativas o acuerdos; y
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+c. Los archivos digitales de las sesiones públicas ordinarias, extraordinarias, especiales o solemnes del Ayuntamiento.
 
 ###### Artículo 71.
 
@@ -1145,11 +1289,17 @@ Además de lo señalado en el artículo 69 de la presente Ley, el Congreso, debe
 
 I. Agenda legislativa;
 
-II. Gaceta Parlamentaria;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
 
-III. Acta de la sesión;
+II. Gaceta Legislativa;
 
-IV. Orden del Día;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+III. Actas de las sesiones;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+IV. Orden del Día de las sesiones;
 
 V. El Diario de Debates;
 
@@ -1159,7 +1309,9 @@ VII. La asistencia de cada una de sus sesiones del Pleno y de las Comisiones y C
 
 VIII. Las iniciativas de ley o decretos, puntos de acuerdo, la fecha en que se recibió, las Comisiones a las que se turnaron, y los dictámenes que, en su caso, recaigan sobre las mismas;
 
-IX. Las leyes, decretos y acuerdos aprobados por el órgano legislativo;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+IX. Las leyes, decretos y acuerdos aprobados;
 
 X. Las convocatorias, actas, acuerdos, listas de asistencia y votación de las comisiones y comités y de las sesiones del Pleno, identificando el sentido del voto, en votación económica, y por cada legislador, en la votación nominal y el resultado de la votación por cédula, así como votos particulares y reservas de los dictámenes y acuerdos sometidos a consideración;
 
@@ -1171,9 +1323,19 @@ XIII. Las contrataciones de servicios personales señalando el nombre del presta
 
 XIV. El informe semestral del ejercicio presupuestal del uso y destino de los recursos financieros de los órganos de gobierno, comisiones, comités, grupos parlamentarios y centros de estudio u órganos de investigación;
 
-XV. Los resultados de los estudios o investigaciones de naturaleza económica, política y social que realicen los centros de estudio o investigación legislativa; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
 
-XVI. El padrón de cabilderos, de acuerdo a la normatividad aplicable.
+XV. Los resultados de los estudios o investigaciones de naturaleza económica, política y social que realicen los centros de estudio o investigación legislativa;
+
+XVI. (DEROGADA, P.O. 28 DE JULIO DE 2021)
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+XVII. La transmisión en tiempo real y videograbaciones de las sesiones del Pleno de la Legislatura y, en su caso, de las sesiones de las comisiones, previo acuerdo de sus integrantes, por conducto de su portal de internet y/o de las plataformas de las redes sociales institucionales; y
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+XVIII. Las respuestas a los exhortos emitidos por el pleno del Poder Legislativo.
 
 ###### Artículo 72.
 
@@ -1181,13 +1343,17 @@ Además de lo señalado en el artículo 69 de la presente Ley, el Poder Judicial
 
 I. Las tesis o ejecutorias publicadas en el boletín del Poder Judicial del Estado de Hidalgo, incluyendo tesis jurisprudenciales y aisladas o análogas;
 
-II. Las versiones públicas de las sentencias definitivas que sean de interés público;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+II. Las versiones públicas de todas las sentencias emitidas;
 
 III. Las versiones estenográficas de las sesiones públicas;
 
 IV. La relacionada con los procesos por medio de los cuales fueron designados los jueces y magistrados; y
 
-V. La lista de acuerdos que sean de interés público.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+V. La lista de acuerdos que diariamente se publiquen.
 
 ###### Artículo 73.
 
@@ -1265,7 +1431,9 @@ e. Los estudios que apoyan la resolución de los recursos de revisión;
 
 f. En su caso, las sentencias, ejecutorias o suspensiones judiciales que existan en contra de sus resoluciones;
 
-g. Programa de capacitación al personal en Materia de Derechos Humanos;
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
+g. Programa de capacitación al personal en materia de derechos humanos, transparencia, acceso a la información y protección de datos personales;
 
 h. El número de quejas, denuncias y recursos de revisión dirigidos a cada uno de los sujetos obligados;
 
@@ -1277,13 +1445,17 @@ IV. El Tribunal Electoral del Estado de Hidalgo:
 
 a. Las tesis y ejecutorias de jurisprudencia emitidas;
 
-b. Las versiones públicas de las sentencias definitivas que sean de interés público;
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
+b. Las versiones públicas de todas las sentencias emitidas;
 
 c. Las versiones estenográficas de las sesiones públicas;
 
 d. La relacionada con los procesos por medio de los cuales fueron designados los jueces y magistrados; y
 
-e. La lista de acuerdos que sean de interés público.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
+e. La lista de acuerdos que diariamente se publiquen.
 
 ###### Artículo 74.
 
@@ -1347,7 +1519,9 @@ XV. El directorio de sus órganos de dirección nacionales, estatales y municipa
 
 XVI. El tabulador de remuneraciones que perciben los integrantes de los órganos a que se refiere la fracción anterior y de los demás funcionarios partidistas, que deberá vincularse con el directorio y estructura orgánica; así como cualquier persona que reciba ingresos por parte del partido político, independientemente de la función que desempeñe dentro o fuera del partido;
 
-XVII. El currículo con fotografía reciente de todos los precandidatos y candidatos a cargos de elección popular, con el cargo al que se postula y el distrito electoral;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+XVII. El currículo con fotografía reciente de todos los precandidatos y candidatos a cargos de elección popular, con el cargo al que se postula;
 
 XVIII. El currículo de los dirigentes a nivel estatal y municipal;
 
@@ -1495,6 +1669,10 @@ El Instituto vigilará que las obligaciones de transparencia que publiquen los s
 
 Las acciones de vigilancia a que se refiere este Capítulo, se realizarán a través de la verificación virtual. Esta vigilancia surgirá de los resultados de la verificación que se lleve a cabo de manera oficiosa por el Instituto al portal de Internet de los sujetos obligados o de la Plataforma Nacional, ya sea de forma aleatoria o muestral y periódica.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+La verificación virtual a que hace referencia este capítulo, deberá realizarse por lo menos dos veces al año a cada sujeto obligado.
+
 ###### Artículo 85.
 
 La verificación tendrá por objeto revisar y constatar el debido cumplimiento a las obligaciones de transparencia en términos de lo previsto en los artículos 69 a 81 de esta Ley, según corresponda a cada sujeto obligado y demás disposiciones aplicables.
@@ -1559,7 +1737,9 @@ a. A través de la Plataforma Nacional; o
 
 b. Por correo electrónico, dirigido a la dirección electrónica que el Instituto establezca.
 
-II. Por escrito, presentado físicamente, ante la Unidad de Transparencia del Sujeto Obligado, según corresponda.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+II. Por escrito, presentado físicamente, ante la Unidad de Transparencia del Sujeto Obligado, según corresponda, o directamente ante el Instituto.
 
 ###### Artículo 91.
 
@@ -1590,6 +1770,10 @@ La resolución debe ser fundada y motivada e invariablemente debe pronunciarse s
 Las resoluciones que emite el Instituto a que se refiere este Capítulo, son definitivas e inatacables para los sujetos obligados.
 
 El sujeto obligado deberá cumplir con la resolución en un plazo de quince días a partir del día siguiente al en que se le notifique la misma.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+El particular podrá impugnar la resolución por la vía del juicio de amparo que corresponda, en los términos de la legislación aplicable.
 
 ###### Artículo 96.
 
@@ -1793,7 +1977,9 @@ IV. Cualquier otro dato que facilite su búsqueda y eventual localización; y
 
 V. La modalidad en la que prefiere se otorgue el acceso a la información, la cual podrá ser verbal, siempre y cuando sea para fines de orientación, mediante consulta directa, expedición de copias simples, certificadas o la reproducción en cualquier otro medio, incluidos los electrónicos.
 
-En su caso, el solicitante señalará el formato accesible o la lengua indígena en la que se requiera la información de acuerdo a lo señalado en la presente Ley.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
+En su caso, el solicitante señalará el formato accesible o la lengua indígena en la que se requiera la información de acuerdo a lo señalado en la presente Ley, así como las ayudas técnicas para las personas con discapacidad.
 
 La información de las fracciones I y IV será proporcionada por el solicitante de manera opcional y en ningún caso, podrá ser un requisito indispensable para la procedencia de la solicitud.
 
@@ -1813,7 +1999,9 @@ Cuando los plazos fijados por esta Ley sean en días, éstos se entenderán como
 
 De manera excepcional, cuando de forma fundada y motivada, así lo determine el sujeto obligado, en aquellos casos en que la información solicitada que ya se encuentre en su posesión implique análisis, estudio o procesamiento de documentos, cuya entrega o reproducción sobrepase las capacidades técnicas del sujeto obligado para cumplir con la solicitud, en los plazos establecidos para dichos efectos, se podrán poner a disposición del solicitante los documentos en consulta directa, salvo la información clasificada.
 
-En todo caso se facilitará su copia simple o certificada, así como su reproducción por cualquier medio disponible en las instalaciones del sujeto obligado o que en su caso, aporte el solicitante.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
+En todo caso se facilitará su copia simple o certificada, así como su reproducción por cualquier medio disponible en las instalaciones del sujeto obligado o que, en su caso, aporte el solicitante, sujetándose a lo dispuesto por el artículo 139 de la presente ley.
 
 ###### Artículo 126.
 
@@ -1961,6 +2149,10 @@ X. La falta de trámite a una solicitud;
 
 XI. La negativa a permitir la consulta directa de la información;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+XI Bis. La entrega de información en archivo digital sin contenido;
+
 XII. La falta, deficiencia o insuficiencia de la fundamentación y/o motivación en la respuesta; y
 
 XIII. La orientación a un trámite específico;
@@ -1999,7 +2191,9 @@ V. La fecha en que se le notificó la respuesta al solicitante o tuvo conocimien
 
 VI. Las razones o motivos de inconformidad; y
 
-VII. La copia de la respuesta que se impugna, salvo en caso de falta de respuesta de solicitud.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+VII. La copia de la respuesta que se impugna y, en su caso, de la notificación correspondiente, salvo en el caso de falta de respuesta de la solicitud.
 
 Adicionalmente se podrán anexar las pruebas y demás elementos que se consideren procedentes hacer del conocimiento del instituto.
 
@@ -2013,9 +2207,11 @@ No podrá prevenirse por el nombre que proporcione el solicitante.
 
 #### SECCIÓN TERCERA. LA SUBSTANCIACIÓN DEL RECURSO DE REVISIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 145.
 
-El Instituto resolverá el recurso de revisión en un plazo que no podrá exceder de veinte días, contados a partir de la admisión del mismo, en los términos que establezca la Ley.
+El Instituto resolverá el recurso de revisión en un plazo que no podrá exceder de cuarenta días, contados a partir de la admisión del mismo, en los términos que establezca la ley respectiva, plazo que podrá ampliarse por una sola vez y hasta por un periodo de veinte días.
 
 Durante el procedimiento deberá aplicarse la suplencia de la queja a favor del recurrente, sin cambiar los hechos expuestos, asegurándose de que las partes puedan presentar, de manera oral o escrita, los argumentos que funden y motiven sus pretensiones.
 
@@ -2035,11 +2231,15 @@ III. Proporcionalidad: El equilibrio entre perjuicio y beneficio a favor del int
 
 El Instituto resolverá el recurso de revisión conforme a lo siguiente:
 
-I. Interpuesto el recurso de revisión, el Presidente del Instituto lo turnará al Comisionado ponente que corresponda, quien deberá proceder a su análisis para que decrete su admisión o su desechamiento;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+I. Interpuesto el recurso de revisión, el Presidente del Instituto lo turnará al Comisionado ponente que corresponda, dentro de los tres días siguientes deberá proceder a su análisis para que decrete su admisión o su desechamiento;
 
 II. Admitido el recurso de revisión, el Comisionado ponente deberá integrar un expediente y ponerlo a disposición de las partes, para que, en un plazo máximo de siete días, manifiesten lo que a su derecho convenga;
 
-III. Admitido el recurso de revisión, el Comisionado ponente deberá integrar un expediente y ponerlo a disposición de las partes, para que, en un plazo máximo de siete días, manifiesten lo que a su derecho convenga; (sic)
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+III. En el caso de existir tercero interesado se le hará la notificación para que en el mismo plazo acredite su carácter, alegue lo que a su derecho convenga y presente las pruebas que considere pertinentes;
 
 IV. Dentro del plazo mencionado en la fracción II del presente artículo, las partes podrán ofrecer todo tipo de pruebas o alegatos excepto la confesional por parte de los sujetos obligados y aquéllas que sean contrarias a derecho;
 
@@ -2099,6 +2299,10 @@ IV. No se haya desahogado la prevención en los términos establecidos en el art
 
 V. Se impugne la veracidad de la información proporcionada;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2021)</small>
+
+V Bis. El recurrente solicite le sea entregada la información en modalidad o formato diverso al señalado en su solicitud de acceso;
+
 VI. Se trate de una consulta; o
 
 VII. El recurrente amplíe su solicitud en el recurso de revisión, únicamente respecto de los nuevos contenidos.
@@ -2119,13 +2323,19 @@ IV. Admitido el recurso de revisión, aparezca alguna causal de improcedencia en
 
 El comisionado ponente podrá en cualquier momento del procedimiento buscar una conciliación entre el recurrente y el sujeto obligado. De llegarse a un acuerdo de conciliación entre ambos, ésta se hará constar por escrito y tendrá efectos vinculantes. El recurso quedará sin materia y el instituto verificará el cumplimiento del acuerdo respectivo.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 153.
 
-El Comisionado ponente podrá tener acceso a la información confidencial o reservada, siempre que sea indispensable para resolver el asunto. El Instituto y el Comisionado ponente serán responsables de mantener con ese carácter dicha información en los términos de las disposiciones aplicables.
+El Comisionado ponente podrá tener acceso a la información confidencial o reservada, siempre que sea indispensable para resolver el asunto o de la que se remita con ese carácter para su análisis y estudio, esta no se agregará a las constancias del expediente, pero se hará constar en el acuerdo respectivo.
+
+El Instituto y el Comisionado ponente serán los responsables de mantener con ese carácter dicha información en los términos y disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
 
 ###### Artículo 154.
 
-Asimismo, cuando se advierta del estudio del recurso de revisión, que el sujeto obligado no posee información, que de conformidad con sus atribuciones y obligaciones legales debía de haber generado, el Instituto deberá instruir al sujeto obligado para que la genere en un plazo no mayor a diez días y la entregue al recurrente e informe al Instituto de su cumplimiento.
+Asimismo, cuando se advierta del estudio del recurso de revisión, que el sujeto obligado no posee información, que de conformidad con sus atribuciones y obligaciones legales debía de haber generado, el Instituto deberá instruir al sujeto obligado mediante resolución fundada y motivada para que la genere en un plazo no mayor a diez días y la entregue al recurrente e informe al Instituto de su cumplimiento.
 
 ###### Artículo 155.
 
@@ -2133,7 +2343,7 @@ Salvo prueba en contrario, la falta de contestación del sujeto obligado al recu
 
 ###### Artículo 156.
 
-Interpuesto el recurso por la causal prevista en la fracción VI del artículo 140 de esta Ley, el Instituto dará vista, a más tardar al día siguiente de que se recibió la solicitud, al sujeto obligado para que alegue lo que a su derecho convenga en un plazo no mayor a cinco días. Recibida su contestación, el Instituto deberá emitir su resolución en un plazo no mayor a cinco días, requiriéndole al sujeto obligado que entregue la información solicitada, siempre y cuando la información no sea reservada o confidencial, en un plazo no mayor a diez días cubriendo, previo pago de los derechos procedentes.
+(DEROGADO, P.O. 28 DE JULIO DE 2021)
 
 ###### Artículo 157.
 
@@ -2149,7 +2359,9 @@ Las notificaciones se efectuarán:
 
 I. Personalmente o a través de un representante, en el domicilio;
 
-II. Por medios electrónico (sic); y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+II. Por medios electrónicos; o
 
 III. Por estrados.
 
@@ -2249,7 +2461,9 @@ Todo criterio que emita el Instituto deberá contener una clave de control para 
 
 El Instituto podrá imponer al servidor público encargado de cumplir con la resolución o a los miembros de los sindicatos, partidos políticos, agrupaciones políticas, persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
 
-I. Amonestación pública; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+
+I. Amonestación pública; o
 
 II. Multa de 150 a 1500 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
@@ -2277,9 +2491,11 @@ Las medidas de apremio de carácter económico no podrán ser cubiertas con recu
 
 Si a pesar de la ejecución de las medidas de apremio previstas en el artículo 174 de esta Ley, no se cumple con la determinación, se requerirá el cumplimiento al superior jerárquico, para que en un plazo de cinco días lo instruya a cumplir sin demora. De persistir el incumplimiento, se aplicarán sobre el superior jerárquico las medidas de apremio establecidas en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 177.
 
-Las sanciones económicas que se impongan constituirán créditos fiscales, y se harán efectivos mediante el procedimiento económico coactivo de ejecución, tendrán la prelación prevista para dichos créditos, y se sujetarán en todo a las disposiciones fiscales aplicables a esta materia. El monto recaudado se destinará a un fondo para el mejoramiento de la cultura de la transparencia y el acceso a la información pública, ejecutado por el Instituto, de acuerdo a su planeación presupuestal.
+Las sanciones económicas que se impongan constituirán créditos fiscales, se harán efectivas ante la Secretaría de Finanzas Públicas del Gobierno del Estado de Hidalgo, a través de los procedimientos que las leyes establezcan y el mecanismo implementado para ello. El monto recaudado se destinará a un fondo para el mejoramiento de la cultura de la transparencia y el acceso a la información pública, ejecutado por el Instituto, de acuerdo a su planeación presupuestal.
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
@@ -2339,9 +2555,15 @@ La ejecución de las sanciones administrativas impuestas en resolución firme se
 
 Tratándose de los servidores públicos de base, la destitución se sujetarán (sic) a lo previsto en la Ley correspondiente.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 183.
 
-Las responsabilidades administrativas que se generen por el incumplimiento de las obligaciones a que se refiere el artículo 178 de esta Ley, son independientes de las de orden civil o penal que procedan.
+Las responsabilidades que resulten de los procedimientos administrativos correspondientes derivados de la violación a lo dispuesto por el artículo 178 de la presente Ley, son independientes de las del orden civil, penal o de cualquier otro tipo que se puedan derivar de los mismos hechos.
+
+Dichas responsabilidades se determinarán, en forma autónoma, a través de los procedimientos previstos en las leyes aplicables y las sanciones que, en su caso, se impongan por las autoridades competentes, también se ejecutarán de manera independiente.
+
+Para tales efectos, el Instituto podrá denunciar ante las autoridades competentes cualquier acto u omisión violatoria de esta Ley y aportar las pruebas que consideren pertinentes, en los términos de las leyes aplicables.
 
 ###### Artículo 184.
 
@@ -2458,3 +2680,17 @@ QUINTO. En caso de existir recursos humanos, financieros y materiales asignados 
 SEXTO. Los procedimientos administrativos iniciados por las autoridades correspondientes con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 
 SÉPTIMO. Los actuales titulares o responsables de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto, continuarán como titulares o responsables hasta en tanto el Congreso del Estado realice las designaciones de los nuevos titulares, una vez hecho lo anterior, se deberá realizar la entrega recepción atendiendo al procedimiento establecido en la legislación aplicable.
+
+P.O. 28 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 718 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Consejo General del Instituto de Transparencia y Acceso a la Información Pública del Estado de Hidalgo, a partir de la entrada en vigor del presente decreto, tendrá un plazo no mayor a 180 días naturales para expedir el Reglamento de la Ley y actualizar su normatividad conforme a las disposiciones contenidas en el presente decreto.
+
+CUARTO. Para los procedimientos iniciados con anterioridad a la vigencia del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+QUINTO. Se declara la invalidez del OCTAVO TRANSITORIO del Decreto de la LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO publicada en el Periódico Oficial del Estado de fecha 9 de octubre del año 2017; en su porción normativa ´El Ejecutivo del Estado expedirá el Reglamento de esta Ley dentro del año siguiente a su entrada en vigor´, Declarado inválido por el Pleno de la Suprema Corte de Justicia de la Nación, Acción de Inconstitucionalidad 42/2016.
