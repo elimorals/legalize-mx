@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-notariado-para-el-estado-de-nayarit-43497"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-29"
-last_updated: "2016-11-08"
+last_updated: "2021-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de enero de 2005.
 
@@ -1581,11 +1581,23 @@ El Notario que no tuviere suplente adscrito, deberá celebrar convenio de asocia
 
 Los Notarios que inicien el ejercicio de sus funciones, gozarán de un plazo de noventa días naturales para celebrar convenio de Asociación. Si un Notario no encontrare Asociado o no lo presentare a la Dirección en el plazo señalado, ésta le indicará con quien habrá de Asociarse.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+
+###### Artículo 179 Bis.
+
+El Notario titular podrá celebrar convenio de asociación con su Suplente Adscrito, a efecto de que este último pueda contar con la misma fe pública, personalidad y capacidad jurídica para actuar indistintamente, dentro de la misma notaría y en un mismo protocolo.
+
+La designación del Notario Suplente que haga el titular del Poder Ejecutivo, se sujetará al previo cumplimiento de los requisitos fijados en esta Ley. En cada notaría pública no podrá ejercer más que un solo notario suplente adscrito, del modo en que esta Ley determina.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2021)</small>
+
 ###### Artículo 180.
 
-Sólo durante las faltas temporales, notificadas por el titular, el Notario suplente Adscrito o el Asociado en su caso, tendrá las mismas facultades, derechos y obligaciones que el titular y bajo ese supuesto, actuará en el protocolo del titular y los instrumentos que autorice tendrán igual valor que los autorizados por el titular.
+Solo durante las faltas temporales, notificadas por el titular, el Notario Suplente Adscrito que no cuente con convenio de colaboración en los términos del artículo anterior o el Asociado en su caso, tendrá las mismas facultades, derechos y obligaciones que el titular y bajo ese supuesto, actuará en el protocolo del titular y los instrumentos que autorice tendrán igual valor que los autorizados por el titular.
 
-En esos casos, bastará el simple aviso del Notario Titular a la Dirección para que el Notario Suplente Adscrito o el Asociado según sea el caso, continúe ejerciendo la función.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+
+En caso de las faltas temporales, bastará el simple aviso del Notario Titular a la Dirección para que el Notario Adscrito o el Asociado según sea el caso, continúe ejerciendo la función.
 
 Las actuaciones que pudieran realizarse por los Notarios Suplentes Adscritos o Asociados, durante las faltas temporales del Titular, que no hubieran sido notificadas a la Dirección, serán nulas de pleno derecho.
 
@@ -2218,3 +2230,9 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 28 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
