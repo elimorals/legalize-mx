@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2021-05-11"
+last_updated: "2021-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -875,7 +875,27 @@ La convocatoria a sesiones ordinarias las realizará el Presidente de la Junta o
 
 Durante la primera sesión ordinaria del año se pondrá a consideración para su aprobación, el Calendario Anual de Sesiones Ordinarias de la Junta de Gobierno.
 
-En caso de que no pueda celebrarse la sesión por falta de quórum, se citará nuevamente para el día hábil siguiente, y si en esa segunda convocatoria de nuevo no se logra la mayoría requerida, se convocará por tercera ocasión, para una hora más tarde, celebrándose la sesión con los miembros que se encuentren presentes.
+> <small>(ADICIONADO [N. DE E. REFORMADO ESTE PÁRRAFO Y ADICIONADAS SUS FRACCIONES], P.O. 29 DE JULIO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia mediante el uso de herramientas tecnológicas que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación será en tiempo real para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente al igual que todas las votaciones;
+
+VIII. La validez del acta y de los acuerdos aprobados se acredita con la constancia de la votación firmados por quien presidió la sesión; y
+
+IX. En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 40.
 
@@ -1132,6 +1152,28 @@ El cargo de integrante del Consejo de Competitividad será personal e indelegabl
 Todos los integrantes del Consejo de Competitividad tendrán derecho a voz y voto, y sus decisiones se adoptarán con el acuerdo de la mayoría absoluta de los miembros presentes. En caso de empate, el Presidente tendrá voto de calidad.
 
 Para los efectos de este capítulo, se aplicarán supletoriamente los principios y preceptos señalados en el título cuarto de esta Ley, sin menoscabo de lo que pueda regular su Reglamento respectivo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE JULIO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del Consejo de Competitividad en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II La interacción e intercomunicación será en tiempo real para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente al igual que todas las votaciones;
+
+VIII. La validez del acta y de los acuerdos aprobados se acredita con la constancia de la votación firmados por quien presidió la sesión; y
+
+IX. En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 57.
 
@@ -1620,3 +1662,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
 
 TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28427/LXIII21 QUE ADICIONA LOS ARTÍCULOS 39 Y 56 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO, 49 DE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO, 10 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO, 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 20 DE LA LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 19 DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 31 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO, 152 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO Y 55 DE LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
