@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-139002"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2020-05-12"
+last_updated: "2021-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA AL ARTÍCULO 38 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTINUEVE DE JULIO DE DOS MIL VEINTIUNO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -1117,65 +1119,137 @@ XXVII. Las demás que establezcan otras disposiciones legales o reglamentarias a
 
 ### CAPÍTULO XIV. DE LA SECRETARÍA PARA EL MANEJO, SANEAMIENTO Y PROTECCIÓN DEL AGUA
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2020)</small>
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-ARTÍCULO 38 BIS.- La Secretaría para el Manejo, Saneamiento y Protección del Agua, es la dependencia responsable de diseñar y coordinar la política pública en materia de gestión de recursos hídricos del Estado, así como fomentar el uso racional del agua; teniendo para tales efectos las siguientes atribuciones y obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE JULIO DE 2021)</small>
 
-I.- Planear, gestionar, regular, validar, supervisar, construir y coordinar los servicios de agua potable, alcantarillado, saneamiento y reúso que correspondan al Estado, así como los sistemas de los mismos, por sí o a través de las entidades paraestatales del Sector a su cargo;
+ARTÍCULO 38 BIS.- LA SECRETARÍA PARA EL MANEJO, SANEAMIENTO Y PROTECCIÓN DEL AGUA, ES LA DEPENDENCIA RESPONSABLE DE DISEÑAR Y COORDINAR LA POLÍTICA PÚBLICA EN MATERIA DE GESTIÓN DE RECURSOS HÍDRICOS DEL ESTADO, ASÍ COMO FOMENTAR EL USO RACIONAL DEL AGUA; TENIENDO PARA TALES EFECTOS LAS SIGUIENTES ATRIBUCIONES Y OBLIGACIONES:
 
-II.- Gestionar, planear, programar, proyectar, contratar, ejecutar y supervisar, las obras de competencia estatal, por sí o través de las entidades paraestatales del Sector a su cargo, requeridas para aprovechar de forma sustentable el agua en las actividades urbanas y suburbanas, agrícolas, rurales, ganaderas y forestales, así como su operación, conservación y mantenimiento, coordinando dichas acciones con la Secretaría de Economía Sustentable y Turismo, Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial y Secretaría del Campo y la Seguridad Alimentaria, según corresponda;
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+I.- PLANEAR, GESTIONAR, REGULAR, VALIDAR, SUPERVISAR Y COORDINAR LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO, SANEAMIENTO Y REÚSO QUE CORRESPONDAN AL ESTADO;
+
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+II.- GESTIONAR, PLANEAR, PROGRAMAR, PROYECTAR, CONTRATAR, EJECUTAR Y SUPERVISAR, LAS OBRAS DE COMPETENCIA ESTATAL, REQUERIDAS PARA APROVECHAR DE FORMA SUSTENTABLE EL AGUA EN LAS ACTIVIDADES URBANAS Y SUBURBANAS, AGRÍCOLAS, RURALES, GANADERAS Y FORESTALES, ASÍ COMO SU OPERACIÓN, CONSERVACIÓN Y MANTENIMIENTO, COORDINANDO DICHAS ACCIONES CON LA SECRETARÍA DE ECONOMÍA SUSTENTABLE Y TURISMO, SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y REORDENACIÓN TERRITORIAL Y SECRETARÍA DEL CAMPO Y LA SEGURIDAD ALIMENTARIA, SEGÚN CORRESPONDA;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
 III.- Promover y participar en la concentración de créditos, y otros mecanismos financieros para la construcción, instalación, conservación, mantenimiento o mejoramiento de la infraestructura hidráulica a cargo del Estado;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
+
 IV.- Ejercer las atribuciones que la legislación federal en materia hídrica establece para los Estados, así como las atribuciones descentralizadas por la Federación hacia los Estados, mediante la celebración de convenios;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
 V.- Elaborar los programas que derivados del Plan Estatal de Desarrollo se relacionen con los Sistemas de agua potable, alcantarillado y saneamiento y supervisar el cumplimiento de las prioridades y su ejecución;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
+
 VI.- Participar en la celebración de convenios y acuerdos que el Ejecutivo del Estado realice con el municipio respectivo para fijar las bases y procedimientos, condiciones y términos conforme a los cuales se proceda, en su caso, a la transferencia del organismo operador, cuando un municipio considere que su capacidad administrativa y financiera permitan la instalación de la comisión municipal correspondiente;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
 VII.- Gestionar ante las autoridades competentes la realización de acciones y la emisión de actos administrativos necesarios para el ejercicio de sus funciones, en términos de las leyes locales y la Ley de Aguas Nacionales;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
+
 VIII.- Formular alternativas en la utilización de fuentes de energía para la operación de los sistemas de conducción de agua en el Estado;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
 IX.- Formular y promover nuevas fuentes y sistemas de abastecimiento de agua; disminuyendo los daños ambientales y los costos en la producción de nuevas fuentes de agua;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
+
 X.- Coadyuvar en la promoción, apoyo, prevención, vigilancia, control y disminución de la contaminación del agua;
 
-XI.- Coadyuvar con la Secretaría de Economía Sustentable y Turismo, en la aplicación de la normatividad para el manejo y disposición final de residuos sólidos, de residuos industriales y para la construcción de sistemas de tratamiento de aguas residuales;
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XI DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XII.- Coadyuvar en la formulación conjunta con la Federación, de los planes y programas específicos tanto para el abastecimiento, como el tratamiento de aguas y servicios de drenaje y alcantarillado, así como la captación, tratamiento y uso eficiente de aguas pluviales;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+XI.- COADYUVAR CON LOS MUNICIPIOS Y CON LA SECRETARÍA DE ECONOMÍA SUSTENTABLE Y TURISMO, EN LA APLICACIÓN DE LA NORMATIVIDAD PARA EL MANEJO Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS, DE RESIDUOS INDUSTRIALES Y PARA LA CONSTRUCCIÓN DE SISTEMAS DE TRATAMIENTO DE AGUAS RESIDUALES;
+
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+XII.- COADYUVAR EN LA FORMULACIÓN CONJUNTA CON LA FEDERACIÓN Y LOS MUNICIPIOS, DE LOS PLANES Y PROGRAMAS ESPECÍFICOS TANTO PARA EL ABASTECIMIENTO, COMO EL TRATAMIENTO DE AGUAS Y SERVICIOS DE DRENAJE Y ALCANTARILLADO, ASÍ COMO LA CAPTACIÓN, TRATAMIENTO Y USO EFICIENTE DE AGUAS PLUVIALES;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
 XIII.- Participar con la Federación y con los municipios del Estado, para la planeación, realización y administración de las acciones de gestión de los recursos hídricos de competencia federal;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
+
 XIV.- Participar en los convenios que se gestionen entre el Gobierno del Estado y el Gobierno Federal, así como con los gobiernos de los municipios, en los cuales se realicen obras de infraestructura hidráulica;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
 XV.- Gestionar la obtención de recursos, concertación de créditos y otros mecanismos financieros, incluso sobre la participación de terceros en el financiamiento de obras y servicios, que apoyen la construcción y el desarrollo de las obras y servicios hidráulicos del Estado;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
+
 XVI.- Fomentar y apoyar los servicios públicos urbanos y rurales de agua potable, alcantarillado, saneamiento, recirculación y reúso en el territorio del Estado y de los municipios;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
 XVII.- Fomentar y apoyar el desarrollo de los sistemas de agua potable y alcantarillado;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
+
 XVIII.- Impulsar y promover conjuntamente con la Secretaría de Economía Sustentable y Turismo, Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial y Secretaría del Campo y la Seguridad Alimentaria y los municipios, los programas de saneamiento, tratamiento y reúso de aguas; los de riego o drenaje y los de control de avenidas y protección contra inundaciones;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
 XIX.- Gestionar ante la Federación, la celebración de las concesiones y asignaciones para la explotación, uso o aprovechamiento de las aguas nacionales en cantidad y calidad, que estén bajo la administración y custodia del Estado y de la prestación de los servicios públicos de agua;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
+
 XX.- Gestionar la celebración de convenios con la Federación y los municipios, con la finalidad de mejorar y difundir permanentemente el conocimiento sobre la ocurrencia del agua en el ciclo hidrológico, la oferta y demanda de agua, los inventarios de agua, suelo, usos y usuarios y de información pertinente vinculada con el agua y su gestión, así como la promoción de una gestión integrada de los recursos hídricos, con el apoyo que consideren necesarios como de usuarios del agua, de organizaciones de la sociedad y de particulares;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
 XXI.- Promover la participación de la sociedad en la planeación, toma de decisiones, ejecución, evaluación y vigilancia de la política hídrica estatal;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
+
 XXII.- Coordinar la operación y actualización del sistema estatal de información de los servicios de agua potable, pluviales, alcantarillado sanitario y saneamiento, así como los de tratamiento y manejo de aguas residuales;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
 XXIII.- Participar en el Sistema Estatal de Protección Civil y apoyar en la aplicación de los planes y programas para prevenir y atender situaciones de emergencia, causadas por fenómenos hidrometeorológicos extremos;
 
-XXIV.- Desarrollar, en coordinación con los organismos operadores, programas de orientación a los usuarios con el objeto de preservar la calidad del agua y propiciar su aprovechamiento racional;
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXIV DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XXV.- Elaborar y mantener actualizado, en coordinación con las entidades paraestatales del sector a su cargo, el inventario de los bienes y recursos del sistema de agua potable, alcantarillado y saneamiento del Estado y de las reservas hidrológicas del Estado;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+XXIV.- APOYAR A LOS ORGANISMOS OPERADORES DEL SERVICIO EN EL DESARROLLO DE PROGRAMAS DE ORIENTACIÓN A LOS USUARIOS CON EL OBJETO DE PRESERVAR LA CALIDAD DEL AGUA Y PROPICIAR SU APROVECHAMIENTO RACIONAL;
+
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXV DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+XXV.- ELABORAR Y MANTENER ACTUALIZADO, EN COORDINACIÓN CON LOS MUNICIPIOS, EL INVENTARIO DE LOS BIENES Y RECURSOS DEL SISTEMA DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO Y DE LAS RESERVAS HIDROLÓGICAS DEL ESTADO;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
 XXVI.- Iniciar y aplicar los procedimientos administrativos e imponer las medidas correctivas y sancionadoras que procedan, por infracciones a la normatividad en materia hídrica Estatal, de acuerdo a sus atribuciones conforme los convenios y legislación aplicable;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
+
 XXVII.- Participar en reuniones tanto del ámbito binacional, federal y estatal en materia de agua potable, alcantarillado y saneamiento;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
+
 XXVIII.- La proposición de políticas públicas, estrategias, programas, proyectos y acciones para hacer eficiente el uso de agua en riego, así como de los usos agropecuarios y acuícolas, y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
 XXIX.- Las demás que determinen expresamente las leyes y reglamentos aplicables.
 
@@ -1398,3 +1472,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- A la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá realizar las adecuaciones en el Decreto de creación y de Comisión Estatal del Agua de Baja California, así como a la normatividad estatal en materia de agua, a fin de incorporar a la Secretaría para el Manejo, Saneamiento y Protección del Agua en la misma, debiendo realizar las acciones necesarias para garantizar la participación ciudadana en las adecuaciones respectivas.
 
 TERCERO.- La Secretaria de Hacienda y la Oficialía Mayor, dentro de los 6 meses siguientes a la entrada en vigor del presente Decreto, deberá realizar las acciones conducentes a fin de dotar a la Secretaría para el Manejo, Saneamiento y Protección del Agua de los recursos humanos, materiales y financieros necesarios para su operación.
+
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA AL ARTÍCULO 38 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTINUEVE DE JULIO DE DOS MIL VEINTIUNO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 289 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY QUE REGLAMENTA EL SERVICIO DEL AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA AL ARTÍCULO 38 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
