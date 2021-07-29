@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2021-07-06"
+last_updated: "2021-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -725,9 +725,11 @@ IX. La participación y cooperación de los gobiernos municipales con el persona
 
 ### Capítulo I. Del fomento de las actividades agropecuarias
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2021)</small>
+
 ###### Artículo 43.
 
-El Gobierno del Estado, con la participación del Gobierno Federal, municipal y los sectores social y privado, impulsará las actividades económicas en el medio rural, conforme lo establece la Ley de Desarrollo Rural Sustentable, ésta Ley y demás ordenamientos aplicables en la materia.
+El Gobierno del Estado, con la participación del Gobierno Federal, municipal, juntas intermunicipales y los sectores social, educativo y privado, impulsará las actividades económicas en el medio rural, conforme lo establece la Ley de Desarrollo Rural Sustentable, ésta Ley y demás ordenamientos aplicables en la materia.
 
 ###### Artículo 44.
 
@@ -1714,3 +1716,9 @@ P.O. 6 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28408/LXII/21 QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 23 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28425/LXII/21 QUE REFORMA EL ARTÍCULO 43 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
+
+UNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
