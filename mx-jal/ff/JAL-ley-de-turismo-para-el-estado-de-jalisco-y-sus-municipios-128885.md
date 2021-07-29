@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-turismo-para-el-estado-de-jalisco-y-sus-municipios-12888
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-05"
-last_updated: "2018-06-05"
+last_updated: "2021-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Ley publicada en la Sección VI al Número 46 del Periódico Oficial del Estado de Jalisco, el martes 5 de junio de 2018.
 
@@ -205,7 +205,9 @@ XXIII. Integrar los expedientes técnicos que justifiquen las iniciativas que el
 
 XXIV. Conocer de la solicitud de los ayuntamientos para el otorgamiento de la denominación "Paraje de la Identidad Jalisciense" y en su caso otorgar el aval a dichas propuestas, previo a su presentación ante el Congreso del Estado;
 
-XXV. Colaborar con la Fiscalía General del Estado en la erradicación de la explotación sexual infantil asociada al turismo;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+XXV. Colaborar con la Fiscalía Estatal en la erradicación de la explotación sexual infantil asociada al turismo;
 
 XXVI. Vigilar el cumplimiento de la presente Ley y demás disposiciones reglamentarias que de ella deriven, en lo que se refiere a los requisitos de operación de los prestadores de servicios turísticos; y
 
@@ -685,6 +687,30 @@ Se requerirá la asistencia de por lo menos de la mitad más uno de los integran
 
 De no integrarse el quórum a que se refiere el párrafo anterior, se convocará a una segunda sesión a celebrarse dentro de los cinco días hábiles siguientes, la cual podrá realizarse con el número de integrantes que se encuentren presentes.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE JULIO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del Observatorio Turístico en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación será en tiempo real para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente al igual que todas las votaciones;
+
+VIII. La validez del acta y de los acuerdos aprobados se acredita con la constancia de la votación firmados por quien presidió la sesión;
+
+IX. Se requerirá la asistencia de por lo menos de la mitad más uno de los integrantes para que la (sic) sesiones se consideren válidas y la presencia del presidente o de quien haga sus veces; y
+
+X. En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
+
 ###### Artículo 56.
 
 Las decisiones del Observatorio Turístico se tomarán por mayoría de votos de los integrantes, en caso de empate, el Presidente tendrá voto de calidad.
@@ -856,3 +882,17 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28417/LXII/21 QUE REFORMA EL ARTÍCULO 4 FRACCIÓN XXV, DE LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28427/LXII/21 QUE ADICIONA LOS ARTÍCULOS 39 Y 56 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO, 49 DE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO, 10 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO, 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 20 DE LA LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 19 DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 31 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO, 152 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO Y 55 DE LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
