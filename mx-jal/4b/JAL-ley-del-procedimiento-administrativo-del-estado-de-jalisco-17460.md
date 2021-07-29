@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2020-01-25"
+last_updated: "2021-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -179,7 +179,9 @@ IV. Que no contravenga el interés general.
 
 Son requisitos de validez del acto administrativo:
 
-I. Constar por escrito.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+I. Constar por escrito o, para el caso de los documentos electrónicos, contar con firma electrónica de la autoridad que lo expida, que cuente con los requisitos que marca la ley que la regula;
 
 II. Contener la mención del lugar, fecha y autoridad que lo suscribe.
 
@@ -349,13 +351,17 @@ Cuando la autoridad hubiera requerido al promovente la presentación de algún d
 
 ### Capítulo Primero. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2021)</small>
+
 ###### Artículo 35.
 
-Las promociones y actuaciones del procedimiento administrativo se deben presentar o realizar en forma escrita y en idioma español. Cuando un acto procedimental se practique de manera oral, debe documentarse inmediatamente su desarrollo.
+Las promociones y actuaciones del procedimiento administrativo se deben presentar o realizar en forma escrita, en idioma español y contar firma autógrafa o, en su caso, con firma electrónica avanzada. Cuando un acto procedimental se practique de manera oral, debe documentarse inmediatamente su desarrollo.
 
 Cuando la ley especial lo permita, las promociones pueden presentarse por medio de los formatos que previamente diseñe o apruebe la autoridad, siempre y cuando sean dados a conocer de acuerdo a lo previsto en esta Ley. Dichos formatos se proporcionarán en forma gratuita.
 
 En caso de que las promociones no se presenten en español, se deben acompañar de su correspondiente traducción realizada por perito traductor autorizado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE JULIO DE 2021)</small>
 
 ###### Artículo 36.
 
@@ -365,7 +371,9 @@ I. La dependencia o entidad de la Administración Pública a la que se dirige.
 
 II. El nombre, denominación o razón social del o los promoventes y en su caso, del representante legal, agregándose los documentos que acrediten la personería, así como la designación de la persona o personas autorizadas para oír y recibir notificaciones y documentos.
 
-III. El domicilio para recibir notificaciones.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+III. El domicilio o correo electrónico para recibir notificaciones;
 
 IV. La petición que se formula.
 
@@ -375,7 +383,9 @@ VI. Los requisitos que señalen las leyes y reglamentos aplicables ofreciendo, e
 
 VII. Nombre y domicilio de terceros en el caso de existir.
 
-VIII. El lugar, la fecha y la firma del interesado o en su caso, la de su representante legal.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+VIII. El lugar, la fecha y la firma autógrafa o electrónica del interesado, o en su caso la de su representante legal.
 
 ###### Artículo 37.
 
@@ -415,9 +425,11 @@ Para documentar el procedimiento administrativo puede utilizarse cualquier medio
 
 En las actuaciones se deben escribir con número y letra las fechas y cantidades. No deben emplearse abreviaturas ni enmendar las frases equivocadas, los errores deben salvarse con toda precisión sobreponiendo una línea delgada de forma tal que permita la lectura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2021)</small>
+
 ###### Artículo 41.
 
-Toda promoción debe contener la firma autógrafa o cualquier otro medio que identifique fehacientemente al interesado que la formule, requisito sin el cual no se le dará curso.
+Toda promoción debe contener la firma autógrafa, electrónica o cualquier otro medio que identifique fehacientemente al interesado que la formule, requisito sin el cual no se le dará curso.
 
 La autoridad administrativa, en el caso de que la firma sea ilegible o distinta a las de otras promociones, puede llamar al interesado, otorgándole un plazo de tres días hábiles, para que en su presencia ratifique la firma y el contenido de la promoción.
 
@@ -853,9 +865,11 @@ La reposición se hace a costa de los gobiernos Estatal o municipales, según se
 
 ### Capítulo Décimo. Del Acceso a los Expedientes
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2021)</small>
+
 ###### Artículo 97.
 
-Los interesados tienen en todo momento el derecho de obtener información sobre los procedimientos y el estado en que se encuentran, así como el acceso a los expedientes que con motivo de sus solicitudes o por mandato legal formen las autoridades. Así mismo, se les podrán expedir a su costa y siempre que así lo soliciten, copias y certificaciones de los documentos que obren en los expedientes, previo pago de los derechos que correspondan.
+Los interesados tienen en todo momento el derecho de obtener información sobre los procedimientos y el estado en que se encuentran, así como el acceso a los expedientes físicos o electrónicos que con motivo de sus solicitudes o por mandato legal formen las autoridades. Se les podrán expedir a su costa y siempre que así lo soliciten, copias y certificaciones de los documentos que obren en los expedientes, previo pago de los derechos que correspondan.
 
 ###### Artículo 98.
 
@@ -1480,5 +1494,11 @@ DÉCIMO TERCERO. Los poderes Legislativo y Judicial y los Órganos Constituciona
 P.O. 25 DE ENERO DE 2020.
 
 ## [N. DE E. TRANSITORIO DE "DECRETO 27529/LXII/L9 QUE REFORMA LOS ARTÍCULOS 22 Y 38 DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28418/LXII/21 QUE REFORMA LOS ARTÍCULOS 13, 35, 36, 41 Y 97 DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
