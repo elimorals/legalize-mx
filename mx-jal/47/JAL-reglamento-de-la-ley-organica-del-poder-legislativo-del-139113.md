@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-139113"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-11-09"
-last_updated: "2021-06-01"
+last_updated: "2021-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Reglamento publicado en la Sección XXII del número 20 del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2020.
 
@@ -1071,13 +1071,21 @@ II. Las conclusiones, reseña o memoria del evento.
 
 I. Copia descargable y preferentemente editable de las iniciativas de ley y decreto turnadas a cada comisión;
 
-II. Un buzón electrónico por comisión, para recibir comentarios por cada iniciativa, que debe permanecer abierto el tiempo que determine la comisión correspondiente y cuando menos los primeros diez días naturales siguientes a la aprobación del turno a comisiones; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+II. Un buzón electrónico por comisión, para recibir comentarios por cada iniciativa, que debe permanecer abierto el tiempo que determine la comisión correspondiente y cuando menos los primeros diez días naturales siguientes a la notificación del turno a comisiones, sin que la notificación pueda exceder de los tres días hábiles siguientes a la aprobación del turno; y
 
 III. Un formulario para que las personas dejen sus comentarios.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2021)</small>
+
+4. El periodo de consulta puede omitirse en el caso de decretos de aprobación urgente por causas de desastres naturales, caso fortuito o de fuerza mayor, o que se emitan en cumplimiento de resoluciones jurisdiccionales vinculantes para el Congreso del Estado.
+
 ###### Artículo 68.
 
-1. El titular del órgano técnico auxiliar de cada comisión y los integrantes de la comisión que lo soliciten, deben tener acceso al buzón de los comentarios a las iniciativas turnadas a la comisión respectiva.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2021)</small>
+
+1. El acceso al buzón electrónico para conocer los comentarios a las iniciativas debe ser universal.
 
 2. Los proyectos de dictamen deben hacer referencia a los comentarios recibidos en el buzón, cuando se refieran objetivamente a la materia de la iniciativa y hagan propuestas técnicas sobre la parte normativa.
 
@@ -4498,3 +4506,9 @@ P.O. 1 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28397/LXII/21 QUE REFORMA LOS ARTÍCULOS 47 Y 80 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, Y LOS ARTÍCULOS 73 Y 81 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28422/LXII/21 QUE REFORMA LOS ARTÍCULOS 67 Y 68; Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 202 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial de "El Estado de Jalisco".
