@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2021-07-06"
+last_updated: "2021-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -1867,9 +1867,11 @@ En estos supuestos, la convocatoria, celebración de las sesiones a distancia y 
 
 El Pleno del Consejo de la Judicatura podrá sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes. Dicha solicitud deberá presentarse por escrito ante el Presidente del propio Consejo a fin de que emita la convocatoria correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2021)</small>
+
 ###### Artículo 145.
 
-Las resoluciones del Pleno se tomarán por el voto de la mayoría de los consejeros presentes, y por mayoría calificada de cinco votos, tratándose de los casos que así lo determine el presente ordenamiento.
+Las resoluciones del Pleno se tomarán por el voto de la mayoría de los consejeros presentes, y por mayoría calificada de cuatro votos, tratándose de los casos que así lo determine el presente ordenamiento.
 
 Los consejeros no podrán abstenerse de votar, a excepción de que exista o sobrevenga una causa de impedimento legal o cuando no hayan asistido a la sesión en que se haya discutido el asunto de que se trate. En caso de empate, el Presidente tendrá voto de calidad.
 
@@ -3904,3 +3906,9 @@ P.O. 6 DE JULIO DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco". Se derogan todas las disposiciones que se opongan al presente decreto.
 
 SEGUNDO. El Supremo Tribunal de Justicia, así como el Consejo de la Judicatura, ambos del Estado de Jalisco, deberán realizar las acciones que correspondan, a efecto que los juicios en línea inicien su operación a más tardar doce meses después de la entrada en vigor del presente decreto.
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28398/LXII/21 QUE REFORMA EL ARTÍCULO 145 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
