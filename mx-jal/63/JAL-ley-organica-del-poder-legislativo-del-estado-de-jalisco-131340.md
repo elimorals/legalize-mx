@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2021-06-01"
+last_updated: "2021-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -365,35 +365,63 @@ III. Las Matrices de Indicadores de Resultados se aprueban de manera conjunta co
 
 ### Capítulo I. Obligaciones de los Diputados y las Diputadas
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
-
 ###### Artículo 26.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE JULIO DE 2021)</small>
 
 1. Son obligaciones de los diputados y las diputadas:
 
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2019)</small>
+
 I. Desempeñar el cargo con apego a las Constituciones federal y estatal, esta ley y su reglamento, y demás disposiciones aplicables, así como participar en todas las actividades inherentes al mismo;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2019)</small>
 
 II. Asistir a todas las sesiones que celebre el Congreso del Estado, en caso de falta injustificada se le reduce de su dieta, lo equivalente a un día de trabajo;
 
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2019)</small>
+
 III. Asistir a las reuniones de comisión o comité, de los que formen parte, así como participar en las votaciones;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2019)</small>
 
 IV. Acatar las disposiciones y encomiendas de la Asamblea y de la Presidencia de la Mesa Directiva que estén conformes con esta ley y el reglamento;
 
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2019)</small>
+
 V. Permanecer en el Recinto Oficial durante las sesiones de la Asamblea y las reuniones de las comisiones y comités convocados conforme al reglamento. Queda prohibido a los diputados y las diputadas abandonar el Recinto Oficial sin la autorización previa de la presidencia de la Mesa Directiva; en caso de hacerlo se tiene como inasistencia;
 
-VI. Informar permanentemente a la sociedad de sus actividades;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+VI. Informar permanentemente a la sociedad de sus actividades, y en el mes de octubre, del año que corresponda, presentar a la sociedad el informe anual de su actividad legislativa, remitiendo una copia de éste, a la Secretaría General del Congreso para su Publicación y Difusión en la página web del Congreso del Estado de Jalisco.
+
+Las y los diputados no contarán con apoyo económico de parte del Poder Legislativo para la realización de su informe. El Congreso del Estado facilitará, cuando esté disponible, los espacios y bienes muebles con que cuente para que las y los diputados rindan su informe en el Palacio Legislativo.
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2019)</small>
 
 VII. Abstenerse de realizar actos incompatibles con las funciones que desempeñan, así como de hacer valer su condición de legisladores en beneficio propio;
 
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2019)</small>
+
 VIII. Abstenerse de desempeñar otro empleo, cargo o comisión de la Federación, del Estado, de los municipios o sus entidades, cuando se perciba sueldo, con excepción de las labores de docencia, investigación científica y beneficencia;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2019)</small>
 
 IX. Abstenerse de intervenir en los asuntos legislativos, en los que tengan un interés personal, o que interesen a su cónyuge, concubina o concubinario, o a sus parientes consanguíneos en línea recta sin limitación de grados, a los colaterales dentro del cuarto grado y a los afines dentro del segundo, siempre que no se trate de disposiciones de carácter general;
 
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2019)</small>
+
 X. Presentar en tiempo y forma las declaraciones de situación patrimonial, conflicto de interés y fiscal, e informes que establecen las normas aplicables o que estén obligados a rendir con motivo del desempeño de sus funciones o encomiendas conforme a las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2019)</small>
 
 XI. Presentar iniciativas de ley, decreto o acuerdo legislativo dentro del tiempo que dure su encargo;
 
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2019)</small>
+
 XII. Percibir exclusivamente la remuneración establecida en el Presupuesto de Egresos del Poder Legislativo y de conformidad con la ley, sin que bajo ninguna circunstancia puedan recibir ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración; y
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2019)</small>
 
 XIII. Las demás que le señalen la Constitución, las leyes y disposiciones reglamentarias aplicables.
 
@@ -2419,9 +2447,9 @@ V. Los ciudadanos inscritos en la lista nominal de electores de conformidad a lo
 
 2. La presentación de una iniciativa no genera derecho a persona alguna, ni supone que deba aprobarse; sólo constituye el inicio del procedimiento legislativo, que debe agotarse en virtud del interés público, y que la iniciativa debe valorarse y resolverse como corresponda.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2021)</small>
 
-###### Artículo 136.
+Artículo 136
 
 1. El Gobernador, al inicio de cada año legislativo, puede presentar hasta tres iniciativas para trámite preferente o señalar con tal carácter hasta tres que haya presentado en años legislativos anteriores cuando estén pendientes de dictamen.
 
@@ -2431,7 +2459,7 @@ V. Los ciudadanos inscritos en la lista nominal de electores de conformidad a lo
 
 I. La Asamblea debe discutirla y votarla en un plazo máximo e improrrogable de sesenta días naturales, contados a partir de su presentación o de que se reciba el oficio del Gobernador en el que otorgue dicho carácter a una iniciativa presentada con anterioridad; y
 
-II. La discusión y votación se aboca únicamente a la iniciativa preferente; en caso de desecharse la iniciativa, no puede presentarse de nueva cuenta durante el año legislativo en curso.
+II. La discusión y votación se aboca únicamente a la iniciativa preferente; en caso de desecharse la iniciativa se observará lo establecido en el artículo 30 de la Constitución Política del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -3848,5 +3876,17 @@ P.O. 28 DE NOVIEMBRE DE 2020.
 P.O. 1 DE JUNIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 28397/LXII/21 QUE REFORMA LOS ARTÍCULOS 47 Y 80 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, Y LOS ARTÍCULOS 73 Y 81 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28414/LXII/21 QUE REFORMA EL ARTÍCULO 136 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28420/LXII/21 QUE ADICIONA EL ARTÍCULO 26 DE LA LEY DEL (SIC) ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
