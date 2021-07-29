@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-expropiacion-de-bienes-muebles-e-inmuebles-de-6096"
 country: "mx"
 rank: "ley"
 publication_date: "1923-05-16"
-last_updated: "2016-02-16"
+last_updated: "2021-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EXPROPIACIÓN DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el miércoles 16 de mayo de 1923.
 
@@ -51,25 +51,25 @@ I. El establecimiento, explotación o conservación de un servicio público.
 
 II. La defensa, conservación desarrollo y aprovechamiento de elementos naturales susceptibles de explotación;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
 
-III. El establecimiento, conservación y desarrollo de áreas naturales protegidas conforme a las declaratorias previstas en la Ley Estatal del Equilibrio Ecológico y Protección al Ambiente;
+III. El establecimiento, conservación y desarrollo de áreas naturales protegidas conforme a las declaratorias previstas en la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente;
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 1993)</small>
 
 IV. La apertura, alineamiento o ampliación de vías públicas;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
 
-V. La fundación de centros de población, conforme a las declaratorias de provisiones de tierras contenidas en el decreto que expida el Congreso del Estado de acuerdo a la Ley de Desarrollo Urbano del Estado de Jalisco;
+V. La fundación de centros de población, conforme a las declaratorias de provisiones de tierras contenidas en el decreto que expida el Congreso del Estado de acuerdo al Código Urbano para el Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
 
-VI. La ejecución de acciones de conservación, mejoramiento y de crecimiento en los cetros (sic) de población previstas en los planes parciales que se expidan a fin de dar cumplimiento a los programas y planes de desarrollo urbano, en los casos previstos en la Ley de Desarrollo Urbano del Estado de jalisco.
+VI. La ejecución de acciones de conservación, mejoramiento y de crecimiento en los centros de población previstas en los planes parciales que se expidan a fin de dar cumplimiento a los programas y planes de desarrollo urbano, en los casos previstos en el Código Urbano para el Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
 
-VII. La creación de reservas territoriales que satisfagan las necesidades del suelo urbano para la fundación, conservación y crecimiento de los centros de población, así como para la vivienda, su infraestructura y su equipamiento, como se dispone en la Ley de Desarrollo Urbano del Estado de Jalisco;
+VII. La creación de reservas territoriales que satisfagan las necesidades del suelo urbano para la fundación, conservación y crecimiento de los centros de población, así como para la vivienda, su infraestructura y su equipamiento, como se dispone en el Código Urbano para el Estado de Jalisco;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 1993)</small>
 
@@ -103,9 +103,11 @@ Si los bienes que han originado una Declaratoria de expropiación no fueren dest
 
 En el expediente de expropiación obrarán el proyecto de la obra que se trate de llevar a cabo, la designación de la propiedad que será ocupada, expresando quienes son los dueños o poseedores y su residencia o la circunstancia de no ser conocidos; la exposición de la utilidad pública que resulte y los informes, dictámenes u opiniones que el Ejecutivo creyere conveniente recabar.
 
+> <small>(REFORMADO PRIMER PÁRAFO, P.O. 29 DE JULIO DE 2021)</small>
+
 ###### Art. 5.
 
-Si el Ejecutivo, en el caso de que se le presenten algunas de las iniciativas o solicitudes de que habla el artículo 3o., la encuentra fundada, mandará que personalmente sean citado (sic) a una junta el promovente y el poseedor o propietario, quienes podrán concurrir por sí o por medio de apoderados.
+Si el Ejecutivo, en el caso de que se le presenten algunas de las iniciativas o solicitudes de que habla el artículo 3°, la encuentra fundada, mandará que personalmente sean citados a una junta el promovente y el poseedor o propietario, quienes podrán concurrir por sí o por medio de apoderados.
 
 Cuando el poseedor o dueño de la cosa que deba ocuparse fuere incierto o dudoso por causa de litigio y otro motivo o se encontrare fuera del Estado, se le citará a la expresada junta por medio de tres publicaciones durante un mes en el Periódico Oficial y en otro que se designe.
 
@@ -169,9 +171,11 @@ Después de que cause ejecutoria la resolución del Juez o termine la apelación
 
 En las diligencias judiciales de que se trata, se observarán las disposiciones contenidas en el Título Sexto, Capítulo IV, Sección Tercera, del citado Código.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2021)</small>
+
 ###### Art. 18.
 
-Rendido el dictamen pericial, el Juez citará a las partes a una audiencia, que se verificará dentro de los ocho días siguientes a la citación con los que concurran o se dará por celebrada si ninguno asistiere a ella; y, sin más trámites, fallará dentro de diez días, estimado el dictamen pericial conforme al artículo 561 del Código citado, fijando el monto de la indemnización, y mando (sic) que sea ocupada la propiedad de (sic) se trata, mediante el pago o depósito correspondiente.
+Rendido el dictamen pericial, el Juez citará a las partes a una audiencia, que se verificará dentro de los ocho días siguientes a la citación con los que concurran o se dará por celebrada si ninguno asistiere a ella; y, sin más trámites, fallará dentro de diez días, estimado el dictamen pericial conforme al artículo 561 del Código citado, fijando el monto de la indemnización, y mandará que sea ocupada la propiedad de que se trata, mediante el pago o depósito correspondiente.
 
 ###### Art. 19.
 
@@ -187,9 +191,11 @@ Contra la sentencia del Juez sólo se podrá interponer el recurso de apelación
 
 La Sala señalará términos sucesivos, de tres días cada uno, para que las partes presenten sus escritos, y fallará dentro de los diez días siguientes.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2021)</small>
+
 ###### Art. 22.
 
-En contra de la resolución del Juez, que no admita el recurso de que hablan los artículos 15 y 20 se podrá interponer dentro de dos días la denegada apelación, que se admitirá suspendiendo el procedimiento y remitiendo los autos al Superior, con observación de las demás disposiciones contenidas en el artículo 17. Presentado el securrente (sic), la Sala citará para la vista dentro de cinco días y resolverá dentro de los cinco siguientes sobre la calificación del grado.
+En contra de la resolución del Juez, que no admita el recurso de que hablan los artículos 15 y 20 se podrá interponer dentro de dos días la denegada apelación, que se admitirá suspendiendo el procedimiento y remitiendo los autos al Superior, con observación de las demás disposiciones contenidas en el artículo 17. Presentado el recurso, la Sala citará para la vista dentro de cinco días y resolverá dentro de los cinco siguientes sobre la calificación del grado.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 1990)</small>
 
@@ -274,3 +280,9 @@ P.O. 16 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 25790/LXI/16 QUE REFORMA EL ARTÍCULO 10 DE LA LEY DE EXPROPIACIÓN DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28415/LXII/21 QUE REFORMA LOS ARTÍCULOS 2, 5, 18 Y 22 DE LA LEY DE EXPROPIACIÓN DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
