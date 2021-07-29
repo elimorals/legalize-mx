@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-19"
-last_updated: "2020-06-22"
+last_updated: "2021-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA AL ARTÍCULO 38 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTINUEVE DE JULIO DE DOS MIL VEINTIUNO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el jueves 19 de enero de 2017.
 
@@ -39,9 +41,13 @@ Se crea la Ley que Reglamenta el Servicio de Agua Potable en el Estado de Baja C
 
 LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 1.
 
-La proyección, dirección y ejecución de las obras de captación, conducción y distribución de los Sistemas de Agua Potable para el servicio público de las poblaciones del Estado, estará a cargo de los Organismos que designen las leyes respectivas y se efectuarán de acuerdo con las necesidades que demande el servicio y con sujeción a las disposiciones legales sobre la materia.
+El diseño, planeación, gestión y coordinación de las políticas públicas en materia de agua en el Estado de Baja California estará a cargo del Ejecutivo del Estado, quedando la proyección, dirección y ejecución de las obras de captación, conducción y distribución de los Sistemas de Agua Potable para el servicio público de las poblaciones del Estado, a cargo de los Organismos señalados en la presente Ley y se efectuarán de acuerdo con las necesidades que demande el servicio y con sujeción a las disposiciones legales sobre la materia.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2020)</small>
 
@@ -133,13 +139,23 @@ En los casos de construcción de edificios sujetos al régimen de propiedad en c
 
 DEL PAGO DE LOS DERECHOS POR SERVICIO DE AGUA
 
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 14.
 
-Los propietarios o poseedores de predios o giros están obligados a pagar el costo de las obras a que se refieren los artículos 1 y 2 de esta Ley, en los términos y forma que señalen las leyes respectivas.
+Los propietarios o poseedores de predios o giros están obligados a pagar el costo de las obras a que se refieren los artículos 1 y 2 de esta Ley. El importe de las obras de conducción, distribución, conexión de las redes a los sistemas generales de las ciudades, tomas de agua, descargas de aguas negras, u otras, serán los que fijen cada uno de los Organismos encargados del servicio, de acuerdo a los costos que para éstas tengan dichas obras.
 
 ###### ARTICULO 15.
 
 La prestación de los servicios de agua, causarán los derechos que se establezcan en las disposiciones fiscales aplicables.
+
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2021)</small>
+
+LA OBLIGACIÓN DE PAGO DE LAS CUOTAS POR CONSUMO DE AGUA Y POR REALIZACIÓN DE LAS OBRAS QUE EJECUTEN LOS ORGANISMOS ENCARGADOS DEL SERVICIO Y SUS ACCESORIOS, TENDRÁ EL CARÁCTER DE FISCAL, CORRESPONDIENDO A DICHOS ORGANISMOS LA DETERMINACIÓN DE LOS CRÉDITOS Y DE LAS BASES PARA SU LIQUIDACIÓN, LA FIJACIÓN DE LA CANTIDAD LÍQUIDA Y SU PERCEPCIÓN.
 
 ###### ARTICULO 16.
 
@@ -157,13 +173,21 @@ III.- En forma solidaria, los arrendadores y arrendatarios de predios locales qu
 
 Las personas obligadas a pagar los derechos por servicios de agua, deberán cubrirlos en las oficinas recaudadoras o en establecimientos autorizados por las autoridades fiscales, dentro de los quince días naturales posteriores al periodo facturado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2020)</small>
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS , LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 17.
 
-Cuando no se cubran los derechos a que se refiere el artículo 15, en el plazo que señala el artículo anterior, su pago y el de los accesorios legales respectivos, se hará efectivo en las condiciones y términos que establezcan la Ley de las Comisiones Estatales de Servicios Públicos del Estado de Baja California y la legislación fiscal del Estado de Baja California. Sin embargo, el suministro de agua potable y alcantarillado sanitario que se preste en los inmuebles en los que el Gobierno del Estado brinde educación básica y servicios de salud pública, no podrán reducirse ni suspenderse.
+CUANDO NO SE CUBRAN LOS DERECHOS A QUE SE REFIERE EL ARTÍCULO 15, EN EL PLAZO QUE SEÑALA EL ARTÍCULO ANTERIOR, SU PAGO Y EL DE LOS ACCESORIOS LEGALES RESPECTIVOS, SE HARÁ EFECTIVO EN LAS CONDICIONES Y TÉRMINOS QUE ESTABLEZCAN LA LEGISLACIÓN FISCAL APLICABLE. SIN EMBARGO, EL SUMINISTRO DE AGUA POTABLE Y ALCANTARILLADO SANITARIO QUE SE PRESTE EN LOS INMUEBLES EN LOS QUE EL GOBIERNO DEL ESTADO BRINDE EDUCACIÓN BÁSICA Y SERVICIOS DE SALUD PÚBLICA, NO PODRÁN REDUCIRSE NI SUSPENDERSE.
 
 Tratándose de la prestación del servicio de agua potable y alcantarillado para uso doméstico, ante la falta de pago de más de tres meses, únicamente podrá reducirse el suministro de agua en un 50% del diámetro de la toma contratada y ante la falta de pago de más de seis meses, sólo podrá reducirse el suministro de agua en un 70% del diámetro de la toma contratada, en tanto el usuario cubra el importe correspondiente, o en su caso, celebre el convenio respectivo, en términos de las disposiciones fiscales, en el que se considerará su capacidad de pago.
+
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2021)</small>
+
+RESPECTO DE LAS CANTIDADES QUE NO HUBIEREN SIDO CUBIERTAS DIRECTAMENTE AL ORGANISMO ENCARGADO DEL SERVICIO, EL COBRO SE REALIZARÁ A TRAVÉS DEL PROCEDIMIENTO ECONÓMICO-COACTIVO, EL IMPORTE DEL COBRO QUE SE RECUPERE DEL PROCEDIMIENTO, DEBERÁ INGRESARSE AL PATRIMONIO DEL REFERIDO ORGANISMO QUE CORRESPONDA.
 
 ###### ARTICULO 18.
 
@@ -173,11 +197,19 @@ Los ingresos que recauden los Organismos encargados de los anteriores servicios,
 
 En el caso de edificios sujetos al régimen de propiedad en condominio, los propietarios de cada piso, departamento, vivienda o local, pagarán los derechos de acuerdo con el aparato medidor que se instale en cada una de tales propiedades y además cubrirán por medio de la administración del edificio, la cuota que proporcionalmente les corresponda por el consumo de agua potable que se haga para el servicio común del propio edificio.
 
-De este último pago responden solidariamente todos los propietarios y en consecuencia, por su adeudo se podrá embargar la totalidad del inmueble. Mientras no se instalen aparatos medidores, los derechos se causarán conforme a lo dispuesto en la tarifa respectiva de la Ley de Ingresos del Estado, de acuerdo al consumo que determine el Organismo encargado del servicio, estando el pago a cargo de la administración del edificio.
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2021)</small>
+
+DE ESTE ÚLTIMO PAGO RESPONDEN SOLIDARIAMENTE TODOS LOS PROPIETARIOS Y EN CONSECUENCIA, POR SU ADEUDO SE PODRÁ EMBARGAR LA TOTALIDAD DEL INMUEBLE. MIENTRAS NO SE INSTALEN APARATOS MEDIDORES, LOS DERECHOS SE CAUSARÁN CONFORME A LO DISPUESTO EN LA TARIFA RESPECTIVA DE LA LEY DE INGRESOS DEL MUNICIPIO QUE CORRESPONDA, DE ACUERDO AL CONSUMO QUE DETERMINE EL ORGANISMO ENCARGADO DEL SERVICIO, ESTANDO EL PAGO A CARGO DE LA ADMINISTRACIÓN DEL EDIFICIO.
+
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 20.
 
-Tienen responsabilidad objetiva para el pago de las cuotas por consumo de agua que establece la Ley de Ingresos del Estado, las personas que adquieran predios o establecimientos respecto de los cuales exista adeudo por ese concepto causado con anterioridad a la adquisición.
+Tienen responsabilidad objetiva para el pago de las cuotas por consumo de agua que establece la Ley de Ingresos del Municipio que corresponda, las personas que adquieran predios o establecimientos respecto de los cuales exista adeudo por ese concepto causado con anterioridad a la adquisición.
 
 DE LA INSTALACION DEL SERVICIO
 
@@ -371,6 +403,10 @@ En los supuestos previstos en el artículo 48 de esta Ley, el Organismo encargad
 
 La suspensión del suministro de agua potable de una derivación, se sujetará a lo establecido por los artículos 17 y 98 de esta Ley, según sea el caso.
 
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 52.
 
 El costo de los trabajos necesarios para la supresión de tomas principales o derivaciones, será a cargo del usuario y podrá ser cobrado a través del procedimiento administrativo de ejecución señalado en el Código Fiscal del Estado.
@@ -392,6 +428,10 @@ Los aparatos medidores sólo podrán ser instalados y retirados por personal del
 ###### ARTICULO 56.
 
 Una vez instalado un aparato medidor, no podrá variarse su colocación o cambiarse de lugar, sin la previa autorización del Organismo encargado del servicio.
+
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 57.
 
@@ -453,9 +493,13 @@ Las pruebas se desahogarán por el empleado y el perito que designe el Titular d
 
 Realizadas las pruebas se levantará acta en la que se hará una relación de las mismas y de los resultados obtenidos, en vista de los cuales los peritos del Organismo encargado del servicio, dictaminarán si el medidor funciona correctamente y en caso contrario, describirán el daño o alteración que tenga, y si este fue causado de manera intencional, imprudencial o bien, por el desgaste natural producido por su uso, debiendo fijar en todo caso el monto por la reparación o sustitución del medidor. Enseguida se harán costar las observaciones que desee hacer el usuario, sus representantes o los peritos que les asesoren, si concurrieron, así como su opinión relativa a los puntos a que se refiere el dictamen oficial. Reforma (sic) Dicha acta será firmada por los que concurran al acto, y si el usuario o sus representantes y peritos no quisieren o no supieren firmar, se hará constar tal circunstancia, sin que ello afecte la validez del acto.
 
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 67.
 
-El monto de los daños causados a un aparato medidor, por alteración o cualquier otra causa, se determinará atendiendo al costo real de reparación o sustitución, mismo que será a cargo del Organismo encargado del servicio; a excepción en el caso de que se compruebe que el propietario o poseedor del inmueble en que se encontraba instalado haya sido el responsable de los daños causados; pudiendo ser cobrado a través del procedimiento administrativo de ejecución señalado en el Código Fiscal del Estado.
+El monto de los daños causados a un aparato medidor, por alteración o cualquier otra causa, se determinará atendiendo al costo real de reparación o sustitución, mismo que será a cargo del Organismo encargado del servicio; a excepción en el caso de que se compruebe que el propietario o poseedor del inmueble en que se encontraba instalado haya sido el responsable de los daños causados; pudiendo ser cobrado a través del procedimiento económico-coactivo.
 
 ###### ARTICULO 68.
 
@@ -627,9 +671,13 @@ Se considerarán infractores, aún cuando no sean quienes hayan practicado o man
 
 Igualmente se considerarán infractores a los que, al entrar en posesión de un predio, giro o establecimiento, sigan proporcionando o recibiendo el servicio de agua potable en la forma prevista en la Fracción II del artículo 94.
 
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 91.
 
-De toda acta de inspección se remitirá un ejemplar al Titular del Organismo encargado del servicio, para efecto de que determine lo conducente, aplicando en su caso, las sanciones pecuniarias y administrativas que correspondan, así como las demás previstas en la legislación fiscal del Estado de Baja California. Dichas sanciones se harán efectivas a través de procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado.
+DE TODA ACTA DE INSPECCIÓN SE REMITIRÁ UN EJEMPLAR AL TITULAR DEL ORGANISMO ENCARGADO DEL SERVICIO, PARA EFECTO DE QUE DETERMINE LO CONDUCENTE, APLICANDO EN SU CASO, LAS SANCIONES PECUNIARIAS Y ADMINISTRATIVAS QUE CORRESPONDAN, ASÍ COMO LAS DEMÁS PREVISTAS EN LA LEGISLACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA. DICHAS SANCIONES SE HARÁN EFECTIVAS A TRAVÉS DE PROCEDIMIENTO ECONÓMICO-COACTIVO.
 
 La resolución que en su caso se emita deberá notificarse al usuario, así como a las autoridades competentes, para los efectos legales a que haya lugar.
 
@@ -811,9 +859,13 @@ Cuando los hechos que infrinjan las disposiciones de esta Ley pudieran ser const
 
 DISPOSICIONES GENERALES
 
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 101.
 
-Para los efectos de esta Ley, se aplicará supletoriamente la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California.
+Para los efectos de esta Ley, se aplicará supletoriamente la Ley del Régimen Municipal para el Estado de Baja California.
 
 ###### ARTICULO 102.
 
@@ -841,11 +893,15 @@ Las oficinas fiscales no autorizarán el traspaso o traslado de giros mercantile
 
 En los casos en que esta Ley no señale el término para el cumplimiento de las obligaciones que establece en materia de agua, tales obligaciones deberán cumplirse dentro del término de treinta días.
 
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2021)</small>
+
 ###### ARTICULO 108.
 
-Contra los actos de las autoridades que se originen con motivo de la aplicación de esta Ley, los interesados podrán recurrir en los términos que señala el Código Fiscal del Estado de Baja California.
+Contra los actos de las autoridades que se originen con motivo de la aplicación de esta Ley, los interesados podrán recurrir en los términos que señala el Código Fiscal para el Estado de Baja California.
 
-En materia de prescripción y cancelación de créditos, se estará a lo dispuesto por la legislación fiscal del Estado y demás disposiciones aplicables.
+En materia de prescripción y cancelación de créditos, se estará a lo dispuesto por la legislación fiscal del estado y demás disposiciones aplicables. Podrá resolver el organismo operador a través de su director, a solicitud de parte interesada.
 
 DEL TRATAMIENTO DE AGUAS RESIDUALES Y SU REÚSO
 
@@ -955,6 +1011,54 @@ X.- En la industria, en edificios corporativos, escuelas públicas y privadas y 
 
 XI.- En los demás casos previstos en este y en otras disposiciones aplicables.
 
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE ADICIONA ESTE ENCABEZADO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JULIO DE 2021)</small>
+
+DE LOS ORGANISMOS ENCARGADOS DEL SERVICIO
+
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2021)</small>
+
+###### ARTICULO 122.
+
+Para la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de sus aguas residuales, a que se refiere la presente Ley, los Municipios contarán con Organismos paramunicipales con personalidad jurídica y patrimonio propios, así como autonomía técnica y administrativa, con las atribuciones que establece esta Ley, los ordenamientos municipales y sus instrumentos de creación.
+
+Al frente de cada organismo habrá un titular que deberá contar con conocimientos comprobados en el manejo y administración de sistemas de agua o hídricos, y será designado por las dos terceras partes de los integrantes del cabildo que corresponda a propuesta del Presidente Municipal
+
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2021)</small>
+
+###### ARTICULO 123.
+
+Serán atribuciones de los Organismos encargados del servicio de agua:
+
+I. Todo lo relativo al cumplimiento y realización de los sistemas de agua potable, alcantarillado y tratamiento de aguas negras de cada uno de los Municipios a que correspondan;
+
+II. La ejecución directa o por contratación de las obras a que se refieren dichos sistemas;
+
+III. La operación y mantenimiento de los sistemas de que se trata;
+
+IV. La prestación a los usuarios de los servicios mencionados;
+
+V. La determinación de créditos fiscales y recaudación de los derechos, aprovechamientos y contribuciones de mejoras que conforme a las Leyes aplicables y a los Convenios que celebren, les correspondan;
+
+VI. La implementación de programas de apoyo a los usuarios para el financiamiento en la adquisición de tecnologías, así como aditamentos y dispositivos ahorradores de agua;
+
+VII. El desarrollo de actividades que directa o indirectamente conduzcan a lograr los objetivos indicados,
+
+VIII. Las demás previstas en la presente Ley, así como en sus instrumentos de creación y demás disposiciones aplicables.
+
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2021)</small>
+
+###### ARTICULO 124.
+
+Los Municipios, podrán coordinarse y asociarse para la más eficaz prestación de los servicios a que se refiere esta Ley.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- Se abroga la Ley del Agua para el Estado de Baja California, publicada el 30 de diciembre de 2016, en el Periódico Oficial del Estado.
@@ -1008,3 +1112,41 @@ P.O. 22 DE JUNIO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Los Organismos Operadores del Agua dentro de un plazo que no excederá de noventa días naturales contados a partir de la entrada en vigor de la presente reforma, realizarán las adecuaciones administrativas y reglamentarias necesarias para la implementación de la presente reforma.
+
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA AL ARTÍCULO 38 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTINUEVE DE JULIO DE DOS MIL VEINTIUNO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 289 MEDIANTE EL CUAL SE APRUEBA DIVERSAS REFORMAS A LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA; ASÍ MISMO SE APRUEBA LA REFORMA AL ARTÍCULO 38 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los treinta días naturales siguientes contados a partir de la entrada en vigor del presente decreto, se instalará una Comisión Especial integrada por la Secretaría General de Gobierno, la Secretaría de Hacienda y la Secretaría para el Manejo, Saneamiento y Protección del Agua, así como por representantes de las Comisiones Estatales de Servicios Públicos y un representante de los Municipios, para dar seguimiento y consolidar la transferencia los recursos, materiales, financieros, administrativos y humanos de las comisiones a los municipios, así como para resolver lo conducente respecto de la instrumentación del presente Decreto.
+
+TERCERO.- Dentro de los seis meses siguientes contados a partir de la entrada en vigor de la presente reforma, los municipios deberán expedir las normas, reglamentos municipales y demás normas administrativas necesarias para la armonización normativa con el presente decreto. Hasta en tanto se expidan la normativa reglamentaria se aplicará de manera supletoria las disposiciones de orden estatal.
+
+CUARTO.- Los Municipios contarán con 60 días naturales contados a partir de la entrada en vigor del presente Decreto para crear los Organismos municipales que se encargados de la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de sus aguas residuales, debiendo notificar al Ejecutivo del Estado, a efecto de iniciar el proceso de transferencia de los recursos financieros, materiales y humanos del organismo estatal operador del agua que corresponda a favor del organismos paramunicipal.
+
+Hasta en tanto no se culmine el proceso de transferencia de recursos antes mencionado, las Comisiones Estatales de Servicios Públicos continuarán prestando los servicios en materia de agua en los Municipios que les correspondan, en los términos de la presente Ley, su Ley reglamentaria y los ordenamientos estatales correspondientes.
+
+QUINTO.- El Ejecutivo del Estado en conjunto con la Comisión Estatal de Servicios Públicos que corresponda, transferirá todos los recursos financieros, materiales y humanos al Organismo paramunicipal encargado del servicio del Municipio respectivo, las acciones de coordinación de dicha transferencia deberá iniciar a partir de día siguiente de la notificación al estado de la creación del organismo municipal.
+
+SEXTO.- En los casos de los municipios de Playas de Rosarito, San Quintín y San Felipe, contaran con un año para crear su organismo paramunicipal. Las Comisiones de Servicios Públicos de Tijuana, Ensenada y Mexicali, transferirán de manera equitativa y proporcional al número de usuarios de cada municipio, así como a la necesidad de infraestructura de los nuevos organismos paramunicipales en la demarcación territorial de dichos municipios. Hasta en tanto no se realice la transferencia, seguirán siendo responsables de su administración.
+
+SÉPTIMO.- Los recursos humanos del personal adscrito a las Comisiones Estatales de Servicios Públicos será transferido a los Organismos paramunicipales encargados del servicio de agua, salvaguardando sus derechos laborales.
+
+OCTAVO.- Las concesiones otorgadas por la Comisión Nacional del Agua a favor del Gobierno del Estado o sus entidades paraestatales, continuarán siendo administradas por el Ejecutivo Estatal, por lo que para el uso y aprovechamiento del agua comprendida en las mismas. Los Organismos Paramunicipales encargados del servicio deberán celebrar convenios con el Ejecutivo Estatal.
+
+NOVENO.- Los procesos judiciales, administrativos y laborales, así como los demás asuntos jurídicos que se encuentren en proceso, incluyendo los derivados de la determinación y cobro de contribuciones derechos y sanciones a nombre de las Comisiones Estatales de Servicios Públicos de Mexicali, Ensenada, Tecate y Tijuana, a partir de la entrada en vigor del presente Decreto, corresponderá atenderlos a las actuales comisiones estatales de servicios públicos, según corresponda, en tanto se crean los Organismos paramunicipales.
+
+DÉCIMO.- Se instruye a la Secretaria de Hacienda para que lleve a cabo las acciones necesarias, a efecto de que los créditos fiscales generados a favor de las Comisiones Estatales de Servicios Públicos de Mexicali, Ensenada, Tecate y Tijuana, que a la fecha de la entrada del presente Decreto queden sin cubrir, derivados de la prestación de servicios públicos así como del convenio de adeudos sean cobrados y recaudados por conducto de sus instancias recaudadoras.
+
+DÉCIMO PRIMERA.- Para los efectos legales y de funcionamiento de las Comisiones Estatales de Servicios Públicos quedarán vigentes los contratos, fideicomisos, empréstitos, acuerdos, convenios y cada uno de los instrumentos jurídicos que existan en dichos organismos y que hubiesen celebrado con anticipación a la entrada en vigor del presente Decreto, conservando dichas Comisiones la administración de los mismos en tanto no se suscriban los convenios de transferencia a los Organismos paramunicipales encargados del servicios.
+
+Respecto de los contratos con instituciones bancarias o financieras, a través de los cuales las Comisiones Estatales de Servicios Públicos hayan adquirido deuda pública, se realizarán las gestiones conducentes a fin de que el Organismo paramunicipal respectivo asuma dicha deuda como deudor sustituto, y en el supuesto de que el Ejecutivo del Estado se encuentre como garante o aval, este será sustituido por el Municipio que corresponda.
+
+DÉCIMO SEGUNDA.- Los adeudos generados y el patrimonio a favor de los organismos públicos descentralizados denominados Comisiones Estatales de Servicios Públicos de Mexicali, Ensenada, Tecate y Tijuana se transferirán a favor de los Organismos paramunicipales encargados del servicio de agua, en términos de este decreto.
+
+DÉCIMO TERCERA.- Las referencias que se hagan a las Comisiones Estatales de Servicios Públicos de Baja California o a los organismos estatales encargados del servicio de agua en la normatividad estatal se entenderán realizadas a los Organismos paramunicipales encargados del servicio de agua.
+
+Al termino del proceso de transferencia de recursos entre el Ejecutivo Estatal y los Municipios, quedará abrogada la Ley de las Comisiones Estatales de Servicios Públicos de Baja California, así como las demás disposiciones reglamentarias de dicha Ley.
