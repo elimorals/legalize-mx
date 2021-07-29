@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-hospital-civil-de-203
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-10"
-last_updated: "2020-10-03"
+last_updated: "2021-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO "HOSPITAL CIVIL DE GUADALAJARA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 1997.
 
@@ -69,11 +69,15 @@ III. Realizar todas aquellas acciones tendientes a garantizar el derecho a la pr
 
 IV. Conocer y aplicar la normatividad general en materia de salud, tanto nacional como internacional, así como, proponer adecuaciones a la normatividad estatal y esquemas que logren su correcto funcionamiento.
 
-V. Establecer las políticas específicas que en materia de salud deberán llevar a cabo las unidades hospitalarias que lo integran, para dar cumplimiento a los programas que se deriven de la Secretaría de Salud Jalisco y del Acuerdo de Coordinación.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+V. Establecer las políticas específicas que en materia de salud deberán llevar a cabo las unidades hospitalarias que lo integran, para dar cumplimiento a los programas que se deriven de la Secretaría de Salud y del Acuerdo de Coordinación.
 
 VI. Proponer las medidas, procedimientos y condiciones que se estime necesario para mejorar la calidad en la prestación de la atención médica de las unidades hospitalarias a su cargo, y para un cumplimiento pleno de las funciones asistenciales y docentes.
 
-VII. Apoyar los programas en materia de salud, que para tal efecto determine la Secretaría de Salud Jalisco.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+VII. Apoyar los programas en materia de salud, que para tal efecto determine la Secretaría de Salud.
 
 VIII. Impulsar, apoyar y capacitar en materia de salud a los profesionales, especialistas y técnicos que desempeñen sus labores en el organismo;
 
@@ -163,7 +167,9 @@ La Junta de Gobierno tendrá las siguientes funciones:
 
 I. Definir, en congruencia con los planes y programas nacionales y estatales, las políticas en materia de salud a seguir por el Organismo.
 
-II. Aprobar los proyectos de programas del organismo y en su caso, presentarlos a consideración de la Secretaría de Salud Jalisco para su trámite ante los Gobiernos Estatal y Federal.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+II. Aprobar los proyectos de programas del organismo y en su caso, presentarlos a consideración de la Secretaría de Salud para su trámite ante los Gobiernos Estatal y Federal.
 
 III. Evaluar el debido cumplimiento de los programas técnicos aprobados.
 
@@ -352,3 +358,9 @@ P.O. 3 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27949/LXII/20 QUE REFORMA EL ARTÍCULO 9 DEL ORGANISMO PÚBLICO DESCENTRALIZADO "HOSPITAL CIVIL DE GUADALAJARA".]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28416/LXII/21 QUE REFORMA LOS ARTÍCULOS 4 Y 12 DE LA LEY DEL ORGÁNISMO PÚBLICO DESCENTRALIZADO "HOSPITAL CIVIL DE GUADALAJARA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
