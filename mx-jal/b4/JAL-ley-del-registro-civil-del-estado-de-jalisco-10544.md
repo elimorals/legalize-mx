@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2020-10-03"
+last_updated: "2021-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -558,6 +558,20 @@ Si el infante fuere habido de una relación adulterina, podrá asentarse el nomb
 ###### Artículo 47.
 
 Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso ni a petición de persona alguna, podrá el oficial del Registro Civil asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2021)</small>
+
+###### Artículo 47 Bis.
+
+Cuando una mujer casada, que no vive con su marido durante al menos trescientos días y procree una hija o hijo de un padre distinto al marido, al momento de su registro ante el Oficial del Registro Civil se deberá asentar el nombre del padre biológico a solicitud de éste y con el consentimiento de la madre.
+
+En este caso la separación de los cónyuges se acreditará ante el Oficial del Registro Civil con la declaración de dos testigos.
+
+El marido podrá reclamar judicialmente la paternidad constituida en los términos anteriores y deberá probarlo de conformidad a lo que establece el Código Civil.
+
+El plazo para hacer valer esta acción será de un año contado o partir de la inscripción del nacimiento de la hija o hijo ante el Oficial del Registro Civil, desde el día en que descubrió el hecho, si no sabía del nacimiento.
+
+No se asentará que es hija o hijo nacidos fuera del matrimonio cuando sus padres tuvieron impedimento para contraerlo entre sí, sólo se asentará el nombre de ambos padres si lo pidieren, observándose lo dispuesto en el presente artículo.
 
 ###### Artículo 48.
 
@@ -1794,3 +1808,9 @@ P.O. 3 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27946/LXII/20 QUE REFORMA EL ARTÍCULO 41 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28419/LXII/21 QUE ADICIONA EL ARTÍCULO 47 BIS DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
