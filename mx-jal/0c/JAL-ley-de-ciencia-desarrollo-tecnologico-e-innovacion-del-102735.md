@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ciencia-desarrollo-tecnologico-e-innovacion-del-102735"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-09"
-last_updated: "2021-05-15"
+last_updated: "2021-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 9 de octubre de 2014.
 
@@ -430,6 +430,28 @@ VI. Las demás que le encomiende el Presidente del Consejo Consultivo.
 1. El Consejo Consultivo celebrará sesiones ordinarias por lo menos una vez cada tres meses y extraordinarias cuando exista algún asunto que así lo amerite, previa convocatoria del Presidente, o cuando lo soliciten a éste por escrito una tercera parte del total de sus integrantes con derecho a voto.
 
 2. Deben comparecer a las sesiones cuando menos la mitad más uno de sus miembros con derecho a voto para que exista quórum legal. Asimismo, los acuerdos que emanen del Consejo Consultivo, se adoptan por mayoría simple.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE JULIO DE 2021)</small>
+
+3. En los casos en que no sea posible la presencia física de los integrantes del Consejo Consultivo en un mismo lugar, las sesiones podrán celebrarse a distancia mediante el uso de herramientas tecnológicas que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación será en tiempo real para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente al igual que todas las votaciones;
+
+VIII. La validez del acta y de los acuerdos aprobados se acredita con la constancia de la votación firmados por quien presidió la sesión; y
+
+IX. En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ### Capítulo VII. Del COECYTJAL
 
@@ -1026,3 +1048,9 @@ P.O. 15 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28376/LXII/21 QUE REFORMA LOS ARTÍCULOS 33, 35 Y 49 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO, E INNOVACIÓN DEL ESTADO DE JALISCO”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28427/LXII/21 QUE ADICIONA LOS ARTÍCULOS 39 Y 56 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO, 49 DE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO, 10 DE LA LEY PARA LA PROMOCIÓN DE INVERSIÓNES EN EL ESTADO DE JALISCO, 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 20 DE LA LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 19 DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 31 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO, 152 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO Y 55 DE LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor el (sic) día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
