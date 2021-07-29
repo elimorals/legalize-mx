@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2020-04-02"
+last_updated: "2021-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -145,7 +145,9 @@ III. Direcciones de Oficina Registral.
 
 Para ser Director General de la Institución se requiere:
 
-I. Ser mexicano por nacimiento y no haya optado por otra nacionalidad;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2021)</small>
+
+I. Ser mexicano y no haya optado por otra nacionalidad;
 
 II. Tener cuando menos treinta y cinco años de edad el día de su nombramiento;
 
@@ -1648,3 +1650,9 @@ P.O. 2 DE ABRIL DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Se exhorta al Poder Ejecutivo a realizar la reforma correspondiente al Reglamento de la Ley del Registro Público de la Propiedad del Estado de Jalisco, con motivo de los cambios a la Ley del Registro Público de la Propiedad.
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28423/LXII/21 QUE REFORMA EL ARTÍCULO 8 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
