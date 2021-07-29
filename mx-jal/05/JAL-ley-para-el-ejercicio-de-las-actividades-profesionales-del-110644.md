@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-ejercicio-de-las-actividades-profesionales-del-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2019-08-10"
+last_updated: "2021-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 1 de diciembre de 2015.
 
@@ -656,6 +656,46 @@ La Comisión funcionará en pleno y por comisiones, éstas se integrarán por re
 La Comisión será presidida por la Secretaría General de Gobierno y la Dirección fungirá como Secretario Técnico de la misma.
 
 La Comisión sesionará de manera ordinaria cada tres meses y de manera extraordinaria cuando se requiera.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes de la Comisión en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2021)</small>
+
+I I. (SIC) La identificación visual plena de los integrantes;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2021)</small>
+
+II. La interacción e intercomunicación será en tiempo real para propiciar la correcta deliberación de las ideas y asuntos;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2021)</small>
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2021)</small>
+
+IV. Transmitirse en vivo para el público en general;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2021)</small>
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2021)</small>
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2021)</small>
+
+VII. La asistencia será tomada nominalmente al igual que todas las votaciones;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2021)</small>
+
+VIII. La validez del acta y de los acuerdos aprobados se acredita con la constancia de la votación firmados por quien presidió la sesión; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2021)</small>
+
+IX. En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 50.
 
@@ -1324,3 +1364,9 @@ P.O. 10 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27301/LXII/19 QUE REFORMA LOS ARTÍCULOS 10 Y 149 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 2, 15, 18, 20, 21. 22 Y 24 DE LA LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PÚBLICOS REGLAMENTARIA DEL ARTÍCULO 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO; SE REFORMA 34 Y 52 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 158 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; SE REFORMAN LOS ARTÍCULOS 47 Y 108 DE LA LEY PARA EL EJERCICIO DE ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 29 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28427/LXII/21 QUE ADICIONA LOS ARTÍCULOS 39 Y 56 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO, 49 DE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO, 10 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO, 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 20 DE LA LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 19 DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 31 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO, 152 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO Y 55 DE LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
