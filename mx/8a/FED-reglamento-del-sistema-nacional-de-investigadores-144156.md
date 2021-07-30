@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-144156"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-09-21"
-last_updated: "2021-04-20"
+last_updated: "2021-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144156&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-09-07"
 
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JULIO DE 2021.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 21 de septiembre de 2020.
 
@@ -629,7 +629,7 @@ A partir de los criterios de evaluación a que se refiere el Reglamento, cada un
 
 ###### Artículo 34.
 
-Al publicarse nuevos criterios específicos de evaluación en el portal del CONACYT, los mismos entrarán en vigor en la convocatoria del año subsecuente.
+(DEROGADO, D.O.F. 30 DE JULIO DE 2021)
 
 ###### Artículo 35.
 
@@ -1120,3 +1120,11 @@ I. “ingreso vigente”, se entenderán referidas a “permanencia”, y
 II. “ingreso no vigente”, se entenderán referidas a “ingreso”.
 
 Lo anterior, especialmente en los sistemas o plataformas informáticas, documentos y disposiciones.
+
+D.O.F. 30 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMA EL REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES”.]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Se derogan todas las disposiciones que se opongan al presente.
