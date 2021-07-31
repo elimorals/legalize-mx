@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2019-06-20"
+last_updated: "2021-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2021.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -371,31 +371,53 @@ ARTÍCULO 16 TER.- Las autoridades encargadas de la procuración, administració
 
 ### CAPÍTULO ÚNICO. TIPOS DE PROTECCIÓN
 
-> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 17.
 
-Las órdenes de protección son actos de urgente aplicación en función del interés superior de la mujer y son fundamentalmente precautorias y cautelares, deberán otorgarse por las siguientes autoridades, inmediatamente que conozcan de los hechos probablemente constitutivos de infracciones o delitos que indiquen violencia contra las mujeres:
+Las órdenes de protección: Son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por los (sic) autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
 
-I. El Ministerio Público;
-
-II. Los Jueces Penales, en los términos que establezcan el Código de Procedimientos Penales para el Estado de Baja California Sur y el Código Nacional de Procedimientos Penales; y
-
-III. Los Jueces Familiares
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 18.
 
-Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
+Las órdenes de protección que consagra la presente ley, son personalísimas e intransferibles y podrán ser:
 
-I. De emergencia;
+I. Administrativas: que son emitidas por el Ministerio Público y las autoridades administrativas, y
 
-II. Preventivas, y
+II. De naturaleza jurisdiccional: que son las emitidas por los órganos encargados de la administración de justicia.
 
-III. De naturaleza Civil.
+III. Emergencia;
 
-> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2013)</small>
+IV. Preventivas;
 
-Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de 72 horas y deberán expedirse dentro de las 8 horas siguientes al conocimiento de los hechos que las generan.
+Las órdenes de protección tendrán una duración de hasta 60 días, prorrogables por 30 días más o por el tiempo que dure la investigación o prolongarse hasta que cese la situación de riesgo para la víctima.
+
+Deberán expedirse de manera inmediata o a más tardar dentro de las 4 horas siguientes al conocimiento de los hechos que las generan.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 18 BIS.- Las órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
+
+I. Principio de protección: Considera primordial la vida, la integridad física, la libertad y la seguridad de las personas,
+
+II. Principio de necesidad y proporcionalidad: Las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria, y deben garantizar su seguridad o reducir los riesgos existentes;
+
+III. Principio de confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo;
+
+IV. Principio de oportunidad y eficacia: Las órdenes deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima, y deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo;
+
+V. Principio de accesibilidad: Se deberá articular un procedimiento sencillo para que facilite a las víctimas obtener la protección inmediata que requiere su situación;
+
+VI. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un solo acto y de forma automática, y
+
+VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 18 TER.- Quien en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un hecho que la ley señale como delito en contra de una mujer o una niña, está obligado a denunciarlo inmediatamente al Ministerio Público, proporcionándole todos los datos que tuviere, poniendo a su disposición a la persona imputada, si hubiere sido detenida en flagrancia.
+
+Quien tenga el deber jurídico de denunciar y no lo haga, será acreedor a las sanciones correspondientes.
 
 ###### ARTÍCULO 19.
 
@@ -435,39 +457,207 @@ VI. Auxilio policiáco de reacción inmediata a favor de la afectada, con autori
 
 VII. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas.
 
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2021)</small>
+
 ###### ARTÍCULO 21.
 
-Corresponderá a las autoridades estatales en el ámbito de sus competencias, otorgar las órdenes emergentes y preventivas de la presente ley, quienes tomarán en consideración:
+Para la emisión de las órdenes de protección las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente tomará en consideración:
 
-I. El riesgo o peligro existente;
+I. Los hechos relatados por la mujer o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o por quien lo haga del conocimiento a la autoridad;
 
-II. La seguridad de la afectada, y
+II. Las peticiones explícitas de la mujer o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o de quien informe sobre el hecho;
 
-III. Los elementos con que se cuente.
+III. Las medidas que ella considere oportunas, una vez informada de cuáles pueden ser esas medidas. Tratándose de niñas, las medidas siempre serán determinadas conforme al principio del interés superior de la niñez;
+
+IV. Las necesidades que se deriven de su situación particular analizando su identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, así como cualquier otra condición relevante;
+
+V. La persistencia del riesgo aún después de su salida de un refugio temporal, y
+
+VI. La manifestación de actos o hechos previos de cualquier tipo de violencia que hubiese sufrido la víctima.
+
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 22.
 
-Son órdenes de protección de naturaleza civil las siguientes:
+Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional que emita las órdenes de protección, realizará las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegará de los recursos materiales y humanos necesarios, asimismo podrá solicitar la colaboración de las autoridades competentes.
 
-I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
-
-II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
-
-III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
-
-IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias, y
-
-V. Obligación alimentaria provisional e inmediata
-
-Serán tramitadas ante los juzgados de lo familiar o a falta de éstos en los juzgados civiles que corresponda.
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 23.
 
-Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes y la determinación de medidas similares en sus resoluciones o sentencias. Lo anterior con motivo, de los juicios o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales competentes.
+Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente, deberá ordenar la protección necesaria, considerando:
+
+I. Los principios establecidos en esta ley;
+
+II. Que sea adecuada, oportuna y proporcional;
+
+III. Que los sistemas normativos propios basados en usos y costumbres no impidan la garantía de los derechos de las mujeres reconocidos en la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales ratificados por el Estado Mexicano;
+
+IV. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión o cualquiera otra, que las coloque en una situación de mayor riesgo, y
+
+V. Las necesidades expresadas por la mujer o niña solicitante.
+
+Las autoridades administrativas, el Ministerio Público y los órganos jurisdiccionales determinarán las órdenes de protección para denunciantes anónimas de violencia, privilegiando la integridad y la seguridad de las víctimas.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 23 BIS.- Las órdenes de protección podrán solicitarse en cualquier entidad federativa distinta a donde ocurrieron los hechos, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud. Para efectos del párrafo anterior, se procederá en términos de lo dispuesto en el artículo 34 Bis de la Ley General.
+
+Durante los primeros seis días posteriores a la implementación de las órdenes, la autoridad que la emitió mantendrá contacto directo con la mujer víctima de violencia cada 24 horas. A partir del séptimo día, se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 23 TER.- Las órdenes de protección administrativas, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes:
+
+I. El traslado de las víctimas a donde se requiera, cuantas veces sea necesario en las diferentes diligencias para garantizar su seguridad y protección;
+
+II. Custodia personal y/o domiciliaria a las víctimas, que estará como dispone la Ley General. En caso de que no exista disponibilidad podrá apoyarse en las instituciones de seguridad pública de los tres órdenes de gobierno.
+
+Esta medida se aplicará bajo la más estricta responsabilidad del Ministerio Público;
+
+III. Proporcionar a las mujeres, o las niñas, en situación de violencia y en su caso a sus hijas e hijos o personas que dependan de la víctima, alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta ley;
+
+IV. Proporcionar los recursos económicos para garantizar su seguridad personal, transporte, alimentos, comunicación, mudanza y los trámites oficiales que requiera entre otros;
+
+V. Canalizar y trasladar sin demora alguna a las mujeres, o las niñas, en situación de violencia sexual a las instituciones que integran el sistema nacional de salud para que provean gratuitamente y de manera inmediata los servicios de:
+
+a) Aplicación de antirretrovirales de profilaxis post-exposición;
+
+b) Anticoncepción de emergencia, y
+
+c) Interrupción legal y voluntaria del embarazo en el caso de violación;
+
+VI. Proveer los recursos y herramientas necesarias para garantizar la seguridad y acondicionamiento de vivienda;
+
+VII. Los demás gastos indispensables dentro o fuera del país, para la mujer y en su caso sus hijas e hijos mientras se encuentre imposibilitada de obtenerlos por sus propios medios;
+
+VIII. Facilitar a la mujer o la niña, y en su caso a sus hijas e hijos en situación de violencia, la reubicación de domicilio, residencia o del centro educativo. Tratándose de niñas víctimas de violencia, la autoridad en todo momento ponderara su interés superior, siendo la remisión a instituciones públicas de acogida la última opción y por el menor tiempo posible;
+
+IX. Prohibición inmediata a la persona agresora de acercarse al domicilio y al de familiares y amistades, al lugar de trabajo, de estudios, o cualquier otro que frecuente la víctima directa o víctimas indirectas;
+
+X. Reingreso de la mujer y en su caso a sus hijas e hijos en situación de violencia al domicilio, una vez que se salvaguarde su seguridad, en caso de que así lo desee.
+
+Para el cumplimiento de esta orden se garantizará el acompañamiento del Ministerio Público y del personal de la policía ministerial, a la mujer en situación de violencia para acceder al domicilio, lugar de trabajo u otro, con el propósito de recuperar sus pertenencias personales y las de sus hijas e hijos, en cualquier caso, podrá ser acompañada de una persona de su confianza;
+
+En caso de que no haya personal ministerial disponible, el acompañamiento será a cargo de personal de cualquier institución de seguridad pública que garantice la seguridad de la mujer;
+
+XI. Protección policiaca permanente a la mujer, o la niña, así como a su familia;
+
+XII. Protección por seguridad privada, en los casos que sea necesario;
+
+XIII. Utilización de herramientas tecnológicas que permitan brindar seguridad a las mujeres, o niñas, en situación de violencia; así como a las víctimas indirectas y testigos. Entre las que pueden encontrarse proporcionar un teléfono móvil con contacto directo para brindar auxilio policial, entre otros;
+
+XIV. Solicitud a la autoridad judicial competente, la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes;
+
+XV. Ordenar la entrega inmediata de objetos de uso personal y documentos de identidad a la mujer en situación de violencia, o niña, y en su caso, a sus hijas e hijos;
+
+XVI. La prohibición a la persona agresora de comunicarse por cualquier medio o por interpósita persona, con la mujer en situación de violencia y, en su caso, de sus hijas e hijos u otras víctimas indirectas;
+
+XVII. Prohibición a la persona agresora de intimidar o molestar por sí, por cualquier medio o interpósita persona, a la mujer en situación de violencia y en su caso sus hijas e hijos u otras víctimas indirectas o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva de confianza o de hecho;
+
+XVIII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia;
+
+XIX. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, y
+
+XX. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
+
+Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el Órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 23 QUATER.- Las órdenes de naturaleza jurisdiccional, además de las previstas (sic) otros ordenamientos, podrán consistir en una o varias de las siguientes acciones:
+
+I. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a la persona o su familia puedan ubicar a la víctima;
+
+II. El uso de medios o dispositivos electrónicos para impedir el contacto directo de la persona agresora con la víctima;
+
+III. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y en su caso, de sus hijas e hijos;
+
+IV. Medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares. Tratándose de niñas hay una prohibición absoluta de transmitir datos e imágenes que permitan su identificación;
+
+V. Prohibir el acceso a la persona agresora al domicilio permanente o temporal de la mujer, o la niña, en situación de violencia, así como acercarse al lugar de trabajo, estudio o cualquier lugar que frecuente;
+
+VI. Embargo preventivo de bienes de la persona agresora, a efecto de garantizar las obligaciones alimentarias;
+
+VII. La desocupación por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, y en su caso la posesión exclusiva sobre el inmueble que sirvió de domicilio y su reingreso de la mujer en situación de violencia, una vez que se resguarde su seguridad;
+
+VIII. Obligación alimentaria provisional e inmediata;
+
+IX. La notificación al superior jerárquico inmediato, cuando la persona agresora sea servidora pública y en el ejercicio de su cargo, comisión o servicio, se le involucre en un hecho de violencia contra las mujeres.
+
+Esta orden será emitida en todos los casos donde la persona agresora pertenezca a los cuerpos policiacos, militares o de seguridad, ya sea corporaciones públicas o privadas;
+
+X. La obligación de la persona agresora de presentarse periódicamente ante el órgano jurisdiccional que emitió la orden;
+
+XI. La colocación de localizadores electrónicos, previo consentimiento de la persona agresora;
+
+XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza, y
+
+XIII. Las demás que se requieran para brindar una protección a la víctima.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 23 QUINQUIES.- Las autoridades competentes deberán de establecer los lineamientos básicos para la implementación de las órdenes de protección en coordinación con las instancias responsables de atenderlas e implementarlas.
+
+En los casos donde presuntamente exista conexidad con delitos de competencia federal, se procederá conforme lo dispone en el segundo párrafo del artículo 34 Quinquies de la Ley General.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 23 SEXIES.- La tramitación y otorgamiento de una orden de protección podrá contener una o varias medidas, atendiendo al principio de integralidad. No se necesita una orden para cada medida, una sola orden de protección podrá concentrar el número de medidas necesarias para garantizar la seguridad y bienestar de la mujer en situación de violencia y en su caso de las víctimas indirectas.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 23 SEPTIES.- Las órdenes de protección deberán ser evaluadas para modificarse o adecuarse, en caso de que al momento de evaluar la efectividad de la orden se detecten irregularidades o incumplimiento, se sustanciara la comunicación correspondiente a los órganos internos de control de las dependencias involucradas.
+
+Previo a la suspensión de las órdenes de protección decretadas, las autoridades administrativas, ministeriales y órganos jurisdiccionales deberán asegurarse bajo su más estricta responsabilidad que la situación de riesgo o peligro de la víctima ha cesado, realizando una nueva evaluación de riesgo y analizando los informes de implementación por parte de las autoridades responsables de su cumplimiento.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 23 OCTIES.- En los casos donde la persona agresora pertenezca a los cuerpos policiacos, militares o de seguridad, ya sea de corporaciones públicas o privadas, la autoridad deberá retirar el arma de cargo o de cualquier otra que tenga registrada.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 23 NONIES.- Al momento de dictarse resoluciones o sentencias, las autoridades judiciales competentes determinarán las órdenes de protección y medidas similares que deban dictarse de manera temporal o durante el tiempo que dure la resolución o sentencia. Lo anterior con motivo de los juicio (sic) o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales competentes.
+
+Las órdenes de protección podrán ser dictadas de oficio o a solicitud de la mujer en situación de violencia, de su representante legal o del Ministerio Público, tratándose de niñas víctimas de un delito, la autoridad judicial se encuentra obligada a hacer la determinación del interés superior de la niñez, a fin de dictar órdenes de protección, aun cuando no exista una solicitud.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 23 DECIES.- Por ninguna circunstancia las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional notificará de sus actuaciones a la persona agresora a través de la víctima. Cualquier notificación es responsabilidad exclusiva de la autoridad.
+
+Las autoridades que intervengan en el cumplimiento de una orden, también serán las responsables de informar a la autoridad ordenadora sobre su implementación de forma periódica.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 23 UNDECIES.- A ninguna mujer o niña y sus hijas e hijos en situación de violencia, que solicite orden de protección se le podrá requerir que acredite su situación migratoria, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 23 DUODECIES.- Las órdenes de protección deberán ser registradas en el Banco Nacional y Estatal de Datos e Información sobre Casos de Violencia contra las mujeres.
+
+El Banco Estatal de Datos e Información sobre Casos de Violencia contra las mujeres, estará conformado por un sistema digital en el que se concentre el registro con los datos generales y sociodemográficos de las víctimas de violencia de género, las personas agresoras y las órdenes de protección dictadas en favor de las mujeres y tendrá como objetivo primordial administrar y concentrar la información proporcionada por las dependencias del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, con el propósito de elaborar estadísticas y diagnósticos de violencia que permitan conocer sistemáticamente las características y patrones de este fenómeno, para hacer frente a la violencia contra las mujeres con miras a simplificar los procesos y mejorar la coordinación entre sus miembros y fortalecer su capacidad en los planos estatal y municipal proporcionando los recursos humanos técnicos y financieros para aumentar su eficacia en la ejecución de sus acciones.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 23 TERDECIES.- La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes y sus homólogas de los Municipios, deberán solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+ARTÍCULO 23 QUATERDECIES.- En caso de que la persona agresora incumpla la orden de protección, se emitirán las medidas de apremio conforme a la legislación aplicable.
+
+Asimismo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las mujeres y niñas
+
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 24.
 
-Las personas mayores de 12 años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes; quienes sean menores de 12 años, sólo podrán solicitar las órdenes a través de sus representantes legales.
+Cuando una mujer o una niña víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
+
+La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
+
+La autoridad deberá de realizar la medición y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica.
+
+Las autoridades competentes de los tres órdenes de gobierno, que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, decretarán las órdenes de protección correspondientes.
 
 ## TÍTULO CUARTO. DEL SISTEMA ESTATAL
 
@@ -1384,3 +1574,17 @@ B.O. 20 DE JUNIO DE 2019.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Sin perjuicio de lo dispuesto en el artículo transitorio Primero, la policía Cibernética de la Entidad contara con el plazo de 180 días a partir de la entrada en vigor de esta reforma, para el debido diseño, implementación, modificación y actualización de sus planes, programas y bases de datos a efecto de que se modifiquen de acuerdo a lo establecido en el presente Decreto.
+
+B.O. 31 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2777 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- El Gobierno del Estado y el Poder Judicial del Estado de Baja California Sur, desarrollarán, un plan de capacitación a todo el personal ministerial y judicial sobre el contenido de la presente reforma.
+
+Artículo Tercero.- Las acciones contenidas en el artículo 23 Ter y que concurren con las "medidas de apoyo" establecidas en la Ley General de Victimas y la Ley de Victimas del Estado, se implementarán conforme a lo establecido en dichas Leyes.
+
+Artículo Cuarto.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Artículo Quinto.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
