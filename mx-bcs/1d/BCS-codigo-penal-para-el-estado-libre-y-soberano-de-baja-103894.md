@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2020-01-20"
+last_updated: "2021-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2021.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1920,6 +1920,28 @@ V. Niegue o límite un servicio de salud, principalmente a la mujer en relación
 > <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2019)</small>
 
 VI. Niegue o restrinja derechos Educativos.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+###### Artículo 205 Bis.
+
+Se impondrá de dos a seis años de prisión y multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización a quien realice, imparta, aplique, obligue o financie cualquier tipo de tratamiento, terapia, servicio o práctica que obstaculice, restrinja, impida, menoscabe, anule o suprima la orientación sexual, identidad o expresión de género de una persona.
+
+En caso de que sea el padre, madre o tutor de la víctima los que incurran en las conductas sancionadas, se les aplicarán las sanciones de amonestación o apercibimiento a consideración del juez.
+
+Las sanciones señaladas en el primer párrafo de este artículo se aumentarán al doble de la que corresponda, cuando la persona autora tuviere para con la víctima, alguna de las relaciones que a continuación se enuncian o bien, se sitúen en alguno de los siguientes supuestos:
+
+a) Relación laboral, docente, doméstica, médica o cualquier otra que implique una subordinación de la víctima;
+
+b) Quien se valga de función pública para cometer el delito, y
+
+c) Cuando la persona autora emplee violencia física, psicológica o moral en contra de la víctima.
+
+(NOTA: EL 10 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE AGOSTO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 2778, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+En los casos del inciso b), además de las sanciones señaladas, se castigará con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro de carácter público o similar, hasta por un tiempo igual a la pena impuesta. EN CASO DE REINCIDENCIA, LA INHABILITACIÓN SERÁ DEFINITIVA.
+
+Este delito se investigará y perseguirá de oficio o por denuncia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2019)</small>
 
@@ -4596,3 +4618,11 @@ SEXTO.- Las disposiciones contenidas en los artículos 22, 23 y 24, no serán ap
 SEPTIMO.- Por única ocasión, la Comisión Técnica de Video Vigilancia deberá quedar integrada en un término que no excederá de 60 días siguientes a la entrada en vigor del presente decreto.
 
 OCTAVO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 31 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2778 SE REFORMAN LAS FRACCIONES XXIX Y XXX, Y SE ADICIONA LA FRACCIÓN XXXI, TODAS DEL ARTÍCULO 5 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR; Y SE ADICIONA UN ARTÍCULO 205 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto deberá publicarse en el Boletín Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
