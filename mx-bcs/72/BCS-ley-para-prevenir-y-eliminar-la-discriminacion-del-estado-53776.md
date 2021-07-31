@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-53776
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-31"
-last_updated: "2016-12-20"
+last_updated: "2021-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2021.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 31 de diciembre de 2006.
 
@@ -201,9 +201,17 @@ XXVII. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecu
 
 XXVIII. Realizar o promover el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su preferencia sexual, identidad de género, ideológica, política, religiosa o cualquier otra;
 
-XXIX. Excluir a las personas internas en centros de readaptación social de los programas generales de salud; y
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2021)</small>
 
-XXX. En general cualquier otra conducta discriminatoria en términos del artículo 4 fracción II de esta Ley.
+XXIX. Excluir a las personas internas en centros de readaptación social de los programas generales de salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE JULIO DE 2021)</small>
+
+XXX. Promover, obligar o ejecutar a una o más personas la realización de tratamiento o terapia de conversión, para pretender corregir la orientación sexual o identidad de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 31 DE JULIO DE 2021)</small>
+
+XXXI. En general cualquier otra conducta discriminatoria en términos del artículo 4 fracción II de esta Ley.
 
 > <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
 
@@ -872,3 +880,11 @@ B.O. 20 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2385 SE REFORMA Y ADICIONA LA LEY ESTATAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2778 SE REFORMAN LAS FRACCIONES XXIX Y XXX, Y SE ADICIONA LA FRACCIÓN XXXI, TODAS DEL ARTÍCULO 5 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR; Y SE ADICIONA UN ARTÍCULO 205 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto deberá publicarse en el Boletín Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
