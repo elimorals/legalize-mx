@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2020-03-24"
+last_updated: "2021-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2021.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -271,11 +271,11 @@ IV.- Gozar de buena reputación.
 
 En el asentamiento de las actas del Registro Civil intervendrán: El Oficial del Registro Civil que autoriza y da fe, los particulares que soliciten el servicio o sus representantes legales, en su caso, y los testigos idóneos que corroboren el dicho de los interesados. Todos deberán firmar las actas o estampar su huella dactilar, debiéndose imprimir en ellas el sello de la Oficialía.
 
-> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2021)</small>
 
 ###### Artículo 39.
 
-En el Estado de Baja California Sur, estará a cargo de los oficiales del Registro Civil, autorizar los actos del estado civil de las personas y extender las actas relativas a nacimientos, reconocimientos de hijos, adopción, matrimonio, divorcio, y defunción de los mexicanos y extranjeros y residentes en el Estado. Así como inscribir las ejecutorias que declaren la ausencia, el otorgamiento de la tutela, la presunción de muerte, la pérdida o suspensión de derechos de familia, y la limitación de la capacidad legal para administrar bienes.
+En el Estado de Baja California Sur estará a cargo de los oficiales del Registro Civil, autorizar los actos del estado civil de las personas y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción de los mexicanos y extranjeros residentes en el Estado y el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género previa anotación correspondiente al acta de nacimiento primigenia. Así como inscribir las ejecutorias que declaren la ausencia, el otorgamiento de la tutela, la presunción de muerte, la pérdida o suspensión de derechos de familia, y la limitación de la capacidad legal para administrar bienes.
 
 ###### Artículo 40.
 
@@ -886,6 +886,52 @@ II.- Apellidos del Registrado: Para que los apellidos del inscrito se encuentren
 III.- Fecha de Nacimiento: Se rectificara conforme a los datos consignados en el comprobante de nacimiento original;
 
 IV.- Sexo del Registrado: De acuerdo a lo señalado en el comprobante de nacimiento original o en el caso de disconformidad de los registros que lleva este Servicio.
+
+(NOTA: EL 13 DE JUNIO 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 132/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A PARTIR DE LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+###### Artículo 144 Ter.
+
+Pueden pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género y cambio de nombre, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas MAYORES DE EDAD que requieran el reconocimiento de su identidad de género.
+
+El reconocimiento respectivo se llevará a cabo ante las instancias y las autoridades correspondientes del Registro Civil del Estado cumpliendo todas las formalidades que exige su Reglamento.
+
+Se entenderá por identidad de género la convicción personal e interna, tal como cada persona se percibe así misma, la cual puede corresponder o no, al sexo asignado en el acta primigenia. En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico y/o procedimiento para el reconocimiento de la identidad de género.
+
+Los efectos de la nueva acta de nacimiento para identidad de género realizados serán oponibles a terceros desde de su (sic) levantamiento.
+
+Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género, cambio de nombre y a la expedición de la nueva acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+###### Artículo 144 Quáter.
+
+Para realizar el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género y cambio de nombre, las personas interesadas deberán presentar:
+
+I. Solicitud debidamente requisitada; en la que conste el consentimiento libre de que se reconozca su identidad de género;
+
+II. Copia certificada del acta de nacimiento; y
+
+III. Original y copia fotostática de su identificación oficial.
+
+El levantamiento se realizará en la Dirección Estatal del Registro Civil o en el lugar en el que se llevó a cabo la declaración de nacimiento. Se procederá de inmediato a hacer la anotación y la reserva correspondiente. En el caso de que se realice en la Dirección Estatal del Registro Civil, éste dará aviso a aquél donde se encuentre el acta de nacimiento primigenia.
+
+El acta de reconocimiento primigenia quedará reservada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial o petición ministerial.
+
+Una vez cumplido el trámite correspondiente, se enviarán los oficios con la información, en calidad de reservada, a las autoridades federales y estatales a las cuales requieran tener conocimiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, así como a todas aquellas autoridades que a solicitud de la persona interesada o de la Dirección Estatal del Registro Civil considere convenientes para los efectos legales procedentes.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+###### Artículo 144 Quinquies
+
+El procedimiento para expedir la nueva acta por identidad de género se realizará conforme a lo establecido en el Reglamento del Registro Civil para el Estado Libre y Soberano de Baja California Sur, y este, deberá garantizar que:
+
+I. El procedimiento para el reconocimiento de la identidad de género, se base únicamente en el consentimiento libre e informado de la persona solicitante, sin que se exijan requisitos como las certificaciones médicas o psicológicas, acreditar intervención quirúrgica alguna, terapias u otro diagnóstico y/o procedimiento, o cualquier modificación corporal, u otro que puedan resultar irrazonables o patologizantes;
+
+II. El cambio de nombre y género, no libera ni exime de las obligaciones o responsabilidades contraídas con la identidad anterior, por lo que tal protección se debe garantizar por medio de distintos mecanismos legales que no impliquen, permitan o tengan como consecuencia el menoscabo, la lesión o el sacrificio de los derechos humanas de las personas que solicitan la adecuación de la identidad de género, y
+
+III. Los trámites relacionados con el proceso registral deben tender a ser lo menos gravosos posibles, sobre todo si el solicitante se encuentra en situación de pobreza y/o vulnerabilidad.
 
 ###### Artículo 145.
 
@@ -16066,3 +16112,13 @@ B.O. 24 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2779 SE REFORMA EL ARTÍCULO 39 Y SE ADICIONAN LOS ARTÍCULOS 144 TER, 144 QUATER Y 144 QUINQUIES, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto deberá publicarse en el Boletín Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- La Dirección Estatal del Registro Civil contará con sesenta días hábiles para la adecuación de la reglamentación aplicable, en términos del presente Decreto.
