@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-proteccion-de-los-animales-domesticos-para-baja-94982"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-20"
-last_updated: "2016-10-31"
+last_updated: "2021-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "BCS"
 ---
 # LEY DE PROTECCION DE LOS ANIMALES DOMESTICOS PARA BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN DE LOS ANIMALES DOMÉSTICOS PARA BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2021.
 
-Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de junio de 2013.
+Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de junio de 2021.
 
 MARCOS ALBERTO COVARRUBIAS VILLASEÑOR, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
 
@@ -49,17 +51,25 @@ LEY DE PROTECCIÓN DE LOS ANIMALES DOMÉSTICOS PARA BAJA CALIFORNIA SUR
 
 La presente ley es de observancia general en el Estado de Baja California Sur, sus disposiciones son de orden público e interés social, tiene por objeto:
 
-I. Proteger a los animales que dependan o vivan bajo la tutela del ser humano dentro del territorio del Estado de Baja California Sur y garantizar su bienestar;
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2021)</small>
 
-II Erradicar y sancionar el maltrato y actos de crueldad hacia éstos y fomentar el respeto y consideración para con ellos;
+I. Proteger a los animales que dependan o vivan bajo la tutela del ser humano, así como a cualquier animal, abandonado o feral que se encuentre de forma permanente o transitoria dentro del territorio del Estado de Baja California Sur y garantizar su bienestar;
 
-III. Coadyuvar a la conservación y el aprovechamiento sustentable de la vida silvestre, conforme a la legislación federal;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE JULIO DE 2021)</small>
 
-IV. Coadyuvar en el cumplimiento de las disposiciones establecidas en los planes ecológicos del Estado;
+II. Reconocer a los animales domésticos, guía, guarda y protección, abandonados, de monta o ferales como seres vivos sensibles objeto de protección especial del derecho en términos de la presente ley y no como simples objetos o cosas susceptibles de apropiación y libre disposición.
 
-V. Apoyar la creación y funcionamiento de asociaciones protectoras de animales, otorgándoles facilidades en sus enlaces con las autoridades educativas y sanitarias para el logro de sus fines; y
+III. Erradicar y sancionar el maltrato y actos de crueldad hacia éstos y fomentar el respeto y consideración para con ellos;
 
-VI. La regulación de las acciones relativas a la vigilancia, medidas de seguridad, sanciones y del recurso de queja derivadas de esta ley.
+IV. Coadyuvar a la conservación y el aprovechamiento sustentable de la vida silvestre, conforme a la legislación federal;
+
+V. Coadyuvar en el cumplimiento de las disposiciones establecidas en los planes ecológicos del Estado;
+
+VI. Apoyar la creación y funcionamiento de asociaciones protectoras de animales, otorgándoles facilidades en sus enlaces con las autoridades educativas y sanitarias para el logro de sus fines; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VI], B.O. 31 DE JULIO DE 2021)</small>
+
+VII. La regulación de las acciones relativas a la vigilancia, medidas de seguridad, sanciones y del recurso de queja derivadas de esta ley.
 
 En todo lo no previsto en la presente ley, se aplicarán las disposiciones contenidas en la legislación federal en la materia.
 
@@ -285,9 +295,11 @@ III. Mantener el control sobre el animal de forma constante y responsable; y
 
 IV. Recoger de inmediato las excretas que el animal origine en bolsa de plástico hermética.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2021)</small>
+
 ###### Artículo 18.
 
-A efecto de erradicar los actos de crueldad y maltrato en contra de todo tipo de animales domésticos, los actos u omisiones que tengan tal característica serán sancionados de conformidad con el capítulo correspondiente de esta ley, quedando prohibido:
+Los animales domésticos, guía, guarda y protección, abandonados, de monta o ferales se consideran seres vivos sensibles objeto de protección especial del derecho y no como simples objetos o cosas susceptibles de apropiación y libre disposición, por lo cual se prohíbe cualquier acto de crueldad y maltrato en su contra, los actos u omisiones que tengan tal característica serán sancionados de conformidad con el capítulo correspondiente de esta ley, quedando prohibido:
 
 I. El uso de perros para peleas como medio para verificar su agresividad;
 
@@ -295,13 +307,23 @@ II. Administrar drogas o hacer ingerir bebidas alcohólicas a un animal, sin fin
 
 III. Atropellar animales de manera intencional, cuando pueda evitarse, y;
 
-IV. El maltrato y actos de crueldad hacia los animales, sobrexplotación, golpes, usos y abusos sexuales, así como el mantenerlos amarrados, expuestos a las·inclemencias del clima, tales actos serán sancionados en los términos de la presente ley y sus normas reglamentarias.
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2021)</small>
+
+IV. El maltrato y actos de crueldad hacia los animales objeto de protección de la presente ley, sobrexplotación, golpes, ahorcamiento, derrame de ácidos corrosivos, veneno, agua hirviendo sobre ellos, disparos con armas de fuego, balillas o diavolos (sic), usos y abusos sexuales, así como el mantenerlos amarrados, expuestos a las inclemencias del clima, abandonados, sin alimentos, ni agua, tales actos serán sancionados en los términos de la presente ley y sus normas reglamentarias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2021)</small>
 
 ###### Artículo 19.
 
-La captura de perros que deambulen sin dueño aparente y sin placa de identidad y de vacunación antirrábica, se efectuará por las autoridades municipales, de manera cotidiana y sistemática, en los términos de la Ley de Salud para Baja California Sur, quienes evitarán cualquier acto de crueldad, tormento, sobreexcitación, escándalo público y los depositarán en los lugares señalados al efecto por las leyes y reglamentos correspondientes.
+La captura de perros que deambulen sin dueño aparente y sin placa de identidad y de vacunación antirrábica, así como la captura de gastos (sic) que deambulen sin dueño aparente y sin placa de identidad, se efectuará por las autoridades municipales, de manera cotidiana y sistemática, en los términos de la Ley de Salud para Baja California Sur, se llevara a cabo por personal debidamente capacitado, quienes evitarán cualquier acto de crueldad, tormento, sobreexcitación, escándalo público u omisión que afecte la integridad física del animal. Se trasportaran en unidades debidamente acondicionadas que garanticen su bienestar y se depositarán en los lugares señalados al efecto por las leyes y reglamentos correspondientes.
 
-Los animales capturados podrán ser reclamados por sus dueños dentro de los diez días hábiles siguientes, en caso contrario podrán ser sacrificados con medicamento. Quedando estrictamente prohibido electrocutarlos, el empleo de golpes, ahorcamiento, ácidos corrosivos, estricnina, morfina, cianuro, arsénico y otras substancias similares. La captura de los animales será difundida por la autoridad sanitaria a fin de que puedan ser recuperados por sus dueños.
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2021)</small>
+
+Los perros y gatos capturados podrán ser reclamados por sus dueños dentro de los diez días hábiles siguientes, en caso contrario deberán ser esterilizados y atendidos medicamente en caso de necesitarlo y serán puestos u disposición de la autoridad o las asociaciones civiles dedicadas a la protección de los animales, debidamente registradas para posteriormente ponerlos en adopción.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+Su captura será difundida por la autoridad sanitaria a toda lo población a fin de que puedan ser recuperados por sus dueños.
 
 ###### Artículo 20.
 
@@ -359,13 +381,17 @@ Los propietarios, administradores o encargados de rastros que no cumplan con las
 
 Se considerarán actos en perjuicio de los animales, los siguientes:
 
-I. Cualquier lesión o mutilación causada a propósito a un animal doméstico, realizado por su propietario o por el encargado de su guarda o custodia exceptuando castración eventual que será efectuada siempre con anestesia.
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2021)</small>
+
+I. Cualquier lesión o mutilación causada a propósito a un animal que dependan o vivan bajo la tutela del ser humano, así como a cualquier animal abandonado, de monta o feral, realizado por su propietario o por el encargado de su guarda o custodia, por persona conocida o cualquier persona, exceptuando castración eventual que será efectuada siempre con anestesia.
 
 II. Atropellar cualquier animal pudiendo evitarlo y el abandono de un animal atropellado realizado por el autor del mismo;
 
 III. La omisión por parte de los propietarios o poseedores de perros, de aplicar por sí mismos, o por persona especializada, con toda oportunidad, y sistemáticamente las vacunas oficiales contra la rabia;
 
-IV. Abandonar a los animales o a sus crías en la vía pública, en baldíos o en el monte; y
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2021)</small>
+
+IV. Abandonar a los animales objeto de protección de la presente ley o a sus crías en la vía pública, en baldíos, en el monte, en vivienda deshabitada, o en cualquier otro lugar que ponga en peligro su vida; y
 
 V. Las demás que se desprendan de lo dispuesto por esta ley.
 
@@ -384,6 +410,18 @@ El producto de las multas a que se refiere este capítulo se aplicará en la rea
 ###### Artículo 30.
 
 Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso de queja, de conformidad con la Ley de Justicia Administrativa.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+
+###### Artículo 31.
+
+Dentro del territorio de Baja California Sur, la Secretaría de Salud en Coordinación con los Ayuntamientos deberán realizar campañas permanentes de concientización y de esterilización para controlar el aumento de población de perros y gatos, para lo cual deberán realizar estudios demográficos y densidad poblacional para ubicar dentro de las áreas urbanas y rurales, los lugares con mayor aumento de población, para efectos de intensificar en estos, los campañas a que se refiere el presente artículo.
+
+Los perros y gatos, que hayan sida abandonados por sus dueños y no sean recogidos dentro del plazo señalado en la presente ley, así como los ferales, deberán ser obligatoriamente esterilizados por las autoridades sanitarias.
+
+Las campañas de esterilización animal para perros y gatos, se procurara que sean gratuitas, difundiendo previamente la información necesaria, para que la ciudadanía conozca los beneficios de la esterilización.
+
+También se deberán realizar campañas periódicas de control, prevención o erradicación de alguna epizootia, zoonosis o epidemia, así como de difusión de la concientización entre la población para la protección y el trato digno y respetuoso a los animales.
 
 T R A N S I T O R I O S:
 
@@ -424,3 +462,15 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 31 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2776 SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN DE LOS ANIMALES DOMÉSTICOS PARA BAJA CALIFORNIA SUR”.]
+
+Primero. Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja Californio Sur.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Sin perjuicio de lo establecido en el párrafo anterior, el Artículo 31 adicionado por el presente Decreto, entrara en vigor hasta 01 de enero del año 2022. En los presupuestos de egresos para el ejercicio fiscal 2022 del Gobierno del Estado de Bajo California Sur y de los Ayuntamientos, se deberán contemplar los recursos necesarios para el cumplimiento del referido artículo.
+
+Tercero. Se deroga toda norma y/o disposición de orden civil o de cualquier otro ordenamiento que se oponga al presente Decreto y aquellos porciones normativas que se opongan al objeto de protección de la "Ley de Protección de los Animales Domésticos para Baja California Sur".
