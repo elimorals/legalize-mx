@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-catastro-para-los-municipios-del-estado-de-baja-2840"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-20"
-last_updated: "2006-06-20"
+last_updated: "2021-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE CATASTRO PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE JULIO DE 2021.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 1983.
 
@@ -183,7 +183,21 @@ XXXVI. CONSTRUCCION NUEVA.- La que se construya en terreno donde no exista const
 
 Son autoridades de catastro: El Gobernador del Estado, los Presidentes Municipales, los Tesoreros Municipales, los Directores Generales Municipales a quienes se encomienda lo relacionado con los asentamientos humanos, medio ambiente y obras públicas y los titulares de catastro.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2021)</small>
+
+###### ARTICULO 8°.
+
+Los Ayuntamientos de los municipios podrán presentar ante el Congreso del Estado sus propuestas de tablas de valores unitarios de suelo, construcciones y vialidades especiales, que regirán para el año siguiente, y que servirán de base para el cobro de las contribuciones sobre la propiedad inmobiliaria con excepción del año de cambio de la Administración Pública Municipal.
+
+Dichas propuestas deberán ser aprobadas por los propios Ayuntamientos durante la primera quincena de septiembre y presentadas ante el Congreso del Estado durante la segunda quincena del mismo mes.
+
+Una vez aprobadas las tablas de valores unitarios de suelo, construcciones y vialidades especiales por parte del Congreso del Estado, estas deberán ser publicadas en el Boletín Oficial del Gobierno del Estado, de forma previa a su entrada en vigor.
+
+Se tendrán por aprobadas las propuestas de tablas de valores unitarios de suelo, construcciones y vialidades especiales, por parte del Congreso del Estado, si este, no procede a la discusión y votación de los dictámenes relativos a dichas propuestas, a más tardar el día 31 de diciembre del año de su presentación, teniendo la obligación en este caso la mesa directiva correspondiente, de enviarlas para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Cuando algún Ayuntamiento no presente su propuesta ante el congreso del Estado, así como en el año de cambio de la Administración pública Municipal, sus correspondientes tablas de valores unitarios de suelo, construcciones y vialidades especiales se actualizarán para el año siguiente en el mismo porcentaje que haya variado la inflación en el año anterior, de conformidad con las cifras oficiales emitidas por el Instituto Nacional del (sic) Estadística y Geografía. Para tales efectos, el Ayuntamiento emitirá el respectivo acuerdo de Cabildo durante los primeros diez días del año siguiente.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
 
 ###### ARTICULO 8o.
 
@@ -232,6 +246,36 @@ k) Un Representante de los Promotores Inmobiliarios o su similar.
 La estructura orgánica de la Comisión Técnica del Catastro, estará encabezada por el Presidente Municipal, quien tendrá voto de calidad; fungiendo el Tesorero Municipal como Secretario y el Director de Catastro como Vocal y Orador.
 
 > <small>(REFORMADO, B.O. 20 DE JUNIO DE 1998)</small>
+
+Por cada representante habrá un suplente y los acuerdos se tomarán por mayoría de votos.
+
+###### ARTICULO 8 Bis.
+
+Para la conformación de la propuesta de tablas de valores unitarios de suelo, construcciones y vialidades especiales que en su caso presenten los Ayuntamientos ante el Congreso del Estado, se deberá integrar en cada uno de ellos, una Comisión Técnica de Catastro durante el mes de enero de cada año, la cual estará conformada de la siguiente manera:
+
+a) El Presidente Municipal;
+
+b) Un Representante del Poder Ejecutivo del Estado;
+
+c) Un Representante del Congreso del Estado;
+
+d) El Tesorero Municipal;
+
+e) El Director de Obras Públicas, Asentamientos Humanos ó Ecología del Ayuntamiento;
+
+f) El Director de Catastro del Ayuntamiento;
+
+g) Un Representante del Instituto Mexicano de Valuación del Estado;
+
+h) Un Representante de la Cámara Mexicana de la Industria de la Construcción del Estado;
+
+i) Un Representante del Colegio de Ingenieros del Estado;
+
+j) Un Representante del Colegio de Arquitectos del Estado;
+
+k Un Representante de los Promotores Inmobiliarios o su similar.
+
+El Presidente Municipal tendrá voto de calidad y el Tesorero Municipal fungirá como Secretario de la Comisión.
 
 Por cada representante habrá un suplente y los acuerdos se tomarán por mayoría de votos.
 
@@ -522,3 +566,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 B.O. 20 DE JUNIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, con excepción de la fecha para la integración de la Comisión Técnica de Catastro, la cual entrará en vigor a partir del día 1 de enero de 2007.
+
+B.O. 31 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2772 SE REFORMA EL ARTÍCULO 8 Y SE ADICIONA 8 BIS A LA LEY DE CATASTRO PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
