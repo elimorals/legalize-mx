@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-centro-de-justicia-para-las-mujeres-130
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-09-17"
-last_updated: "2018-09-17"
+last_updated: "2021-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,31 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO INTERIOR DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO INTERIOR DEL CENTRO DE JUSTICIA PARA MUJERES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
 
 Reglamento publicado en la Sección Cuarta del número 38 del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de septiembre de 2018.
 
-REGLAMENTO INTERIOR DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE AGUASCALIENTES
+> <small>(REFORMADO SU DENOMINACIÓN, P.O. 2 DE AGOSTO DE 2021)</small>
+
+REGLAMENTO INTERIOR DEL CENTRO DE JUSTICIA PARA MUJERES DEL ESTADO DE AGUASCALIENTES
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
 ### Capítulo Único. Del objeto y naturaleza
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 1°.
 
-El presente Reglamento es de orden público, de interés y observancia general para las y los servidores públicos del Centro de Justicia para las Mujeres, tiene por objeto regular su organización, funcionamiento y control en un ambiente con perspectiva de género, profesional y seguro, asignando su estructura orgánica, así como sus atribuciones, a través de normas internas para el cumplimiento de su naturaleza.
+El presente Reglamento es de orden público, de interés y observancia general para las y los servidores públicos del Centro de Justicia para Mujeres, tiene por objeto regular su organización, funcionamiento y control en un ambiente con perspectiva de género, profesional y seguro, asignando su estructura orgánica, así como sus atribuciones, a través de normas internas para el cumplimiento de su naturaleza.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 2°.
 
-El Centro de Justicia para las Mujeres dará la atención a víctimas de violencia familiar, a partir de la relación de pareja, sexual, en materia de trata de personas y en general de cualquier tipo de violencia de género, con el fin de facilitar el acceso a la justicia y brindar atención integral a las mujeres, sus hijas e hijos.
+El Centro de Justicia para Mujeres dará la atención a víctimas de violencia familiar, a partir de la relación de pareja, sexual, en materia de trata de personas y en general de cualquier tipo de violencia de género, con el fin de facilitar el acceso a la justicia y brindar atención integral a las mujeres, sus hijas e hijos.
 
 Tiene por objetivo fortalecer la capacidad de denuncia, promover el acceso a la justicia y brindar atención integral a las mujeres para desarrollar procesos de empoderamiento y recuperación de manera interdisciplinaria, secuencial, interinstitucional y especializada.
 
@@ -47,7 +53,9 @@ Tiene por objetivo fortalecer la capacidad de denuncia, promover el acceso a la 
 
 Para efectos del presente Reglamento se entenderá por:
 
-I. Centro: Centro de Justicia para las Mujeres, es un órgano dependiente de la Fiscalía General del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+I. Centro: Centro de Justicia para Mujeres, es un órgano dependiente de la Fiscalía General del Estado de Aguascalientes.
 
 II. Comité para la Evaluación: Comité para la Evaluación del Personal, es el órgano de vigilancia y seguimiento de las actividades de las y los servidores públicos del Centro;
 
@@ -59,15 +67,19 @@ V. Fiscalía General: Fiscalía General del Estado de Aguascalientes;
 
 VI. Las y los servidores públicos: Personal que labora en el Centro;
 
-VII. Reglamento: Reglamento Interior del Centro de Justicia para las Mujeres del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+VII. Reglamento: Reglamento Interior del Centro de Justicia para Mujeres del Estado de Aguascalientes;
 
 VIII. Unidades: Estructura organizacional del Centro, según corresponda su naturaleza; y
 
 IX. Víctima: Toda aquella mujer, niña, niño o adolescente, independientemente de su identidad sexogenérica, en situación de violencia familiar, sexual, a partir de la relación de pareja, en materia de trata de personas y en general de cualquier tipo de violencia de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 4°.
 
-La Unidad de Atención Integral a la Mujer, adscrita a la Vice Fiscalía de Investigación de Delitos se encontrará ubicada en las instalaciones del Centro, a fin de coadyuvar en sus trabajos, que correspondan a su competencia en colaboración con la Coordinación General, y estará facultada para la investigación de los delitos de:
+La Unidad Especializada en Investigación de Delitos Sexuales, Justicia Familiar y de Género, adscrita a la Vicefiscalía de Investigación se encontrará ubicada en las instalaciones del Centro, a fin de coadyuvar en sus trabajos, que correspondan a su competencia en colaboración con la Coordinación General, y estará facultada para la investigación de los delitos de:
 
 I. Lesiones dolosas calificadas que se comentan en agravio de la cónyuge o pareja;
 
@@ -143,7 +155,9 @@ XIII. Diseñar conjuntamente con las instituciones públicas y sociedad civil qu
 
 XIV. Generar programas y planes en coordinación con las autoridades en materia de prevención, atención y erradicación de la violencia contra las mujeres y dar seguimiento a los mismos;
 
-XV. Detectar necesidades y garantizar la capacitación permanente de las y los servidores públicos a través del diseño y operación del Programa de Capacitación y Difusión de Derechos Humanos, mismo que posterior a su aprobación será enviado para su gestión a la Dirección de Capacitación y Servicio Profesional de Carrera de la Vice Fiscalía Jurídica y de Servicios a la Justicia;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+XV. Detectar necesidades y garantizar la capacitación permanente de las y los servidores públicos a través del diseño y operación del Programa de Capacitación y Difusión de Derechos Humanos, mismo que posterior a su aprobación será enviado para su gestión al Instituto de Formación Profesional de la Vicefiscalía Jurídica;
 
 XVI. Garantizar que el Centro ofrezca de manera pronta y expedita los servicios necesarios que requieran las víctimas, asegurando el ejercicio pleno de sus derechos, el acceso a la justicia y demás servicios que permitan su plena incorporación a una vida productiva;
 
@@ -171,23 +185,39 @@ I. Coordinaciones de Área:
 
 a) De la Coordinación Administrativa;
 
-b) De la Coordinación de Servicios Subsecuentes;
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+b) De la Coordinación de Servicios Subsecuentes; y
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+c) De la Coordinación Operativa;
 
 II. Unidades de Área:
 
 a) De la Unidad de Psicología;
 
-b) De la Unidad de Asesoría Jurídica;
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
-c) De la Unidad de Atención Temprana;
+b) De la Unidad de Asesoría y Representación Jurídica;
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+c) De la Unidad de Primer Contacto;
 
 d) De la Unidad de Estancia Infantil;
 
-e) De la Unidad de Estadísticas;
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
-f) De la Unidad de Atención Médica; y
+e) De la Unidad de Estadística;
 
-g) De la Casa de Transición.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+f) De la Unidad de Trabajo Social; y
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+g) De la Unidad de Casa de Transición.
 
 ###### Artículo 7 °.
 
@@ -273,7 +303,9 @@ El Área de Recepción tiene por objeto estandarizar y unificar la atención res
 
 I. Recibir a todas las personas que acuden al Centro de forma amable, cálida y profesional;
 
-II. Canalizar a las víctimas y usuarias según sus necesidades. En caso de que sea por primera ocasión, acompañarle para su atención a la Unidad de Atención Temprana;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+II. Canalizar a las víctimas y usuarias según sus necesidades. En caso de que sea por primera ocasión, acompañarle para su atención a la Unidad de Primer Contacto;
 
 III. Verificar los datos de la persona citada, fecha, hora y la Unidad que gira el citatorio;
 
@@ -355,7 +387,27 @@ XVII. Atender las solicitudes de acceso a la información a través de las gesti
 
 XVIII. Las demás que le encomiende la Coordinación General y otras disposiciones legales aplicables.
 
-#### Sección Primera. De la Unidad de Psicología
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+#### Sección Tercera. De la Coordinación Operativa
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+Artículo 14 A. La Coordinación de Operativa tiene por objeto implementar mecanismos de coordinación para la supervisión directa y de la aplicación del protocolo de atención a las usuarias que asegure la eficacia de los procesos y de la profesionalización y especialización del personal del Centro.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+Artículo 14 B. Son atribuciones de la Coordinación Operativa las siguientes:
+
+I. Diseñar y aplicar las herramientas metodológicas necesarias para identificar usuarias que tengan un nivel de riesgo alto;
+
+II. Diseñar y aplicar un plan individual de crecimiento para las usuarias detectadas con un nivel de riesgo alto;
+
+III. Monitorear y documentar el seguimiento de las denuncias presentadas por usuarias que hayan sido identificadas con un nivel de riesgo alto;
+
+IV. Aplicar encuestas de satisfacción y de seguimiento a las usuarias identificadas con un nivel de riesgo alto; y
+
+V. Las demás que le encomiende la Coordinación General y otras disposiciones legales aplicables.
 
 ### Capítulo III. de las Unidades de Área
 
@@ -363,9 +415,7 @@ XVIII. Las demás que le encomiende la Coordinación General y otras disposicion
 
 Las Unidades de área tienen por objetivo general el control y seguimiento de las actividades y servicios que por su naturaleza corresponden, implementando mecanismos de supervisión directa en la ejecución, evaluación de sus procesos, y de las y los servidores públicos adscritos.
 
-#### Sección Segunda
-
-De la Unidad de Asesoría Jurídica.
+#### Sección Primera. De la Unidad de Psicología
 
 ###### Artículo 16.
 
@@ -435,15 +485,21 @@ XXIX. Atender las solicitudes de acceso a la información a través de las gesti
 
 XXX. Las demás que le encomiende la Coordinación General del Centro y otras disposiciones legales aplicables.
 
-#### Sección Tercera. De la Unidad de Atención Temprana
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE AGOSTO DE 2021)</small>
+
+#### Sección Segunda. De la Unidad de Asesoría y Representación Jurídica
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 18.
 
-La Unidad de Asesoría Jurídica tendrá por objetivo brindar una atención profesional en materia civil, mercantil, familiar, penal, laboral, procedimientos y sanciones, de manera clara y precisa para la víctima, así mismo, asegurar el respeto de sus derechos humanos, durante todo el procedimiento que decida abordar, con el fin de interponer recursos legales, individuales, sociales e institucionales con los que cuente para encontrar una respuesta adecuada a sus necesidades.
+La Unidad de Asesoría y Representación Jurídica tendrá por objetivo brindar una atención profesional en materia civil, mercantil, familiar, penal, laboral, procedimientos y sanciones, de manera clara y precisa para la víctima, así mismo, asegurar el respeto de sus derechos humanos, durante todo el procedimiento que decida abordar, con el fin de interponer a través de la representación jurídica los recursos legales, individuales, sociales e institucionales con los que cuente para encontrar una respuesta adecuada a las necesidades procesales de las mujeres en situación de violencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 19.
 
-Son atribuciones de la Unidad de Asesoría Jurídica, las siguientes:
+Son atribuciones de la Unidad de Asesoría y Representación Jurídica, las siguientes:
 
 I. Atender a las víctimas y prestar el servicio diligente y responsable orientando a la persona sobre los servicios integrales que brinda el Centro, y en su caso hacer la respectiva canalización al servicio que requiera la víctima;
 
@@ -475,29 +531,43 @@ XIV. Si la víctima tramitó la medida de protección se le dará seguimiento v�
 
 XV. Verificar ante las instituciones de Seguridad Pública correspondiente, el nombre, domicilio y teléfono de la víctima que cuenta con una medida de protección, a fin de que sea registrado en el Expediente Único de Victimas;
 
-XVI. Entregar a la Unidad de Estadísticas el listado de órdenes de protección emitidas por la autoridad jurisdiccional para el llenado de estadística mensual de la Unidad de Atención Temprana;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-XVII. Solicitar a la Unidad de Atención Integral a la Mujer adscrita al Centro, un informe anual sobre las medidas de protección emitidas dentro de las carpetas de investigación;
+XVI. Entregar a la Unidad de Estadística el listado de órdenes de protección emitidas por la autoridad jurisdiccional para el llenado de estadística mensual de la Unidad de Primer Contacto;
 
-XVIII. Entregar a la Unidad de Estadísticas las Cédulas de Atención Jurídica para su resguardo y vaciado de datos en el archivo electrónico;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+XVII. Solicitar a la Unidad Especializada en Investigación de Delitos Sexuales, Justicia Familiar y de Género, un informe anual sobre las medidas de protección emitidas dentro de las carpetas de investigación;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+XVIII. Entregar a la Unidad de Estadística las Cédulas de Atención Jurídica para su resguardo y vaciado de datos en el archivo electrónico;
 
 XIX. Atender las solicitudes de acceso a la información a través de las gestiones realizadas por la Coordinación Administrativa; y
 
 XX. Las demás que le encomiende la Coordinación General y otras disposiciones legales aplicables.
 
-#### Sección Cuarta. De la Unidad de Estancia Infantil
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE AGOSTO DE 2021)</small>
+
+#### Sección Tercera. De la Unidad de Primer Contacto
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 20.
 
-La Unidad de Atención Temprana tendrá por objetivo el brindar a las víctimas información de los servicios que ofrece el Centro, realizando la entrevista de primer contacto y contención emocional, para identificar las necesidades de las mujeres en situación de violencia, valorando los factores de riesgo inmediato para realizar una adecuada canalización según sus necesidades y problemáticas.
+La Unidad de Primer Contacto tendrá por objetivo el brindar a las víctimas información de los servicios que ofrece el Centro, realizando la entrevista de primer contacto y contención emocional, para identificar las necesidades de las mujeres en situación de violencia, valorando los factores de riesgo inmediato para realizar una adecuada canalización según sus necesidades y problemáticas.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 21.
 
-La Unidad de Atención Temprana estará integrada por trabajadoras sociales, psicólogas y personal especializado, capacitado y calificado en la atención a víctimas.
+La Unidad de Primer Contacto estará integrada por trabajadoras sociales, psicólogas y personal especializado, capacitado y calificado en la atención a víctimas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 22.
 
-El personal de la Unidad de Atención Temprana serán las encargadas de realizar la entrevista de primer contacto con la víctima teniendo como instrumento la Cedula Única de Atención, y deberá cumplir con sus funciones en cuatro fases:
+El personal de la Unidad de Primer Contacto serán las encargadas de realizar la entrevista de primer contacto con la víctima teniendo como instrumento la Cédula Única de Atención, y deberá cumplir con sus funciones en cuatro fases:
 
 I. Recepción: Su objetivo es lograr que las víctimas se sientan seguras y tranquilas física y psicológicamente;
 
@@ -507,9 +577,11 @@ III. Intercambio o clarificación: Su objetivo es ampliar la información y clar
 
 IV. Cierre: En esta fase se valora si existe o no riesgo y el nivel del mismo en el que puede encontrarse las víctimas, ofreciendo alternativas y/o recomendaciones, así como el procedimiento de atención posterior a su entrevista de acuerdo a la canalización del servicio que se requiera ante el Centro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 23.
 
-El personal de la Unidad de Atención Temprana tendrá las siguientes funciones:
+El personal de la Unidad de Primer Contacto tendrá las siguientes funciones:
 
 I. Aplicar la Cedula Única de Atención, a la víctima en situación de violencia, ofreciendo una atención profesional y sensible, a fin de que la persona se sienta segura y tranquila, física y psicológicamente;
 
@@ -525,7 +597,9 @@ VI. Proporcionar contención emocional en los casos cuyas víctimas lleguen en e
 
 VII. Aportar las alternativas de actuación, realizando una adecuada canalización a los servicios ofrecidos en el marco de actuación del Centro;
 
-VIII. Entregar a su superior jerárquico, los formatos de Cédula Única de Atención aplicadas durante la jornada laboral, a fin de hacerlos llegara la Unidad de Estadísticas, para su registro correspondiente, así como su debido resguardo;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+VIII. Entregar a su superior jerárquico, los formatos de Cédula Única de Atención aplicadas durante la jornada laboral, a fin de hacerlos llegara la Unidad de Estadística, para su registro correspondiente, así como su debido resguardo;
 
 IX. Realizar visitas domiciliarias de atención y seguimiento;
 
@@ -535,7 +609,7 @@ XI. Atender las solicitudes de acceso a la información a través de las gestion
 
 XII. Las demás que le encomiende la Coordinación General y otras disposiciones legales aplicables.
 
-#### Sección Quinta. De la Unidad de Estadísticas
+#### Sección Cuarta. De la Unidad de Estancia Infantil
 
 ###### Artículo 24.
 
@@ -603,7 +677,9 @@ h) No introducir alimentos; y
 
 i) Pedir ayuda a la encargada si necesita algo.
 
-XIV. Realizar un informe estadístico mensual del número de atenciones obtenidas en la Unidad, y presentarlo a la Coordinación Administrativa y a la Unidad de Estadísticas;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+XIV. Realizar un informe estadístico mensual del número de atenciones obtenidas en la Unidad, y presentarlo a la Coordinación Administrativa y a la Unidad de Estadística;
 
 XV. Realizar un informe mensual describiendo sus actividades, en el cual incluirá la dinámica, material que se utilizó y los tiempos que se llevaron a cabo, el cual será entregado a la Coordinación General, para valorar las necesidades de la Unidad;
 
@@ -623,9 +699,13 @@ c) En caso de que la niña o niño presente signos o síntomas de enfermedad con
 
 d) En el supuesto de que la niña o niño presenten un mal comportamiento o una conducta violenta con los demás, se informará a la víctima, madre, padre o tutor tal situación con las recomendaciones correspondientes para su atención. En caso de que en una segunda ocasión no atiendan la indicación, se le podrá negar el acceso a la Estancia Infantil a fin de procurar el bienestar de las demás niñas y niños;
 
-e) Si la niña o niño manifieste que ha presentado una situación de violencia física o sexual, se dará vista de forma inmediata mediante informe a la Unidad de Atención Temprana para que esta a su vez notifique al Ministerio Público, toda vez que dicha área da seguimiento al trámite de las víctimas; o
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
-f) En caso que la niña o niño presente temperatura, algún síntoma o una emergencia, se notificará de inmediato para pedir la autorización de su familiar y a la Unidad de Atención Médica, a fin de determinar lo conducente, debiendo avisar si así lo requiere de inmediato a los servicios de emergencia para salvaguardar su integridad.
+e) Si la niña o niño manifieste que ha presentado una situación de violencia física o sexual, se dará vista de forma inmediata mediante informe a la Unidad de Primer Contacto para que esta a su vez notifique al Ministerio Público, toda vez que dicha área da seguimiento al trámite de las víctimas;
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+f) En caso que la niña o niño presente temperatura, algún síntoma o una emergencia, se notificará de inmediato para pedir la autorización de su familiar y a la Unidad de Atención Médica, a fin de determinar lo conducente, debiendo avisar si así lo requiere de inmediato a los servicios de emergencia para salvaguardar su integridad; o
 
 g) El personal de la Unidad de Estancia Infantil no podrá proporcionar ningún medicamento a las niñas y niños.
 
@@ -641,21 +721,29 @@ II. Firmar la bitácora y todos aquellos registros que se realicen respecto a lo
 
 III. Las demás que sean aplicables.
 
-#### Sección Sexta. De la Unidad de Atención Médica
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE AGOSTO DE 2021)</small>
+
+#### Sección Quinta. De la Unidad de Estadística
 
 ###### Artículo 27.
 
 Los datos e información de las víctimas serán privados y confidenciales, esto con el objeto de no ser revictimizadas. Este principio se llevará a cabo durante todas las fases del proceso, inclusive cuando la víctima no esté presente.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 28.
 
-La Unidad de Estadísticas se encargará de compilar toda la información a través de registros administrativos, por medios impresos y electrónicos, del vaciado de datos de las Cedulas Únicas de Atención.
+La Unidad de Estadística se encargará de compilar toda la información a través de registros administrativos, por medios impresos y electrónicos, del vaciado de datos de las Cédulas Únicas de Atención.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 29.
 
-La Unidad de Estadísticas tendrá las siguientes atribuciones:
+La Unidad de Estadística tendrá las siguientes atribuciones:
 
-I. Resguardar toda la documentación recabada de las víctimas atendidas en la Unidad de Atención Temprana;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+I. Resguardar toda la documentación recabada de las víctimas atendidas en la Unidad de Primer Contacto;
 
 II. Realizar los estudios interpretativos de las bases de datos de atención a víctimas, con el fin de determinar líneas de acción para la prevención de la violencia contra la mujer, así como determinar su georreferenciación a fin de tener mayor conocimiento del fenómeno de violencia contra las mujeres;
 
@@ -663,13 +751,15 @@ III. Por seguridad y conservando el principio de confidencialidad se tendrá un 
 
 IV. Integrar, generar y expedir reporte de la información solicitada por alguna institución pública en cumplimiento a las funciones del Centro, debiendo recabarla de las demás Unidades para la realización de dichos reportes, que incluyan al menos, datos estadísticos, productividad de los servicios de acceso a la justicia, intervención victimológica y sobre el empoderamiento de las mujeres en situación de violencia y aquellas que resulten necesarias;
 
-V. Coordinar actividades con la Dirección General de Tecnologías de Información y Comunicaciones de la Fiscalía General para la elaboración de sistemas, el seguimiento y el mantenimiento de los mismos, así como procurar el buen funcionamiento de los equipos de cómputo;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+V. Coordinar actividades con la Dirección General Innovación, Planeación y Desarrollo Tecnológico de la Fiscalía General para la elaboración de sistemas, el seguimiento y el mantenimiento de los mismos, así como procurar el buen funcionamiento de los equipos de cómputo;
 
 VI. Atender las solicitudes de acceso a la información a través de las gestiones realizadas por la Coordinación Administrativa; y
 
 VII. Las demás encomendadas por la Coordinación General y demás instrumentos jurídicos.
 
-#### Sección Séptima. De la Casa de Transición
+#### Sección Sexta. De la Unidad de Atención Médica
 
 ###### Artículo 30.
 
@@ -722,6 +812,8 @@ XX. Realizar una revisión médica e historia clínica a las víctimas que ingre
 XXI. Atender las solicitudes de acceso a la información a través de las gestiones realizadas por la Coordinación Administrativa; y
 
 XXII. Las demás que le encomiende la Coordinación General del Centro y otras disposiciones legales aplicables.
+
+#### Sección Séptima. De la Casa de Transición
 
 ###### Artículo 32.
 
@@ -959,7 +1051,9 @@ II. Observar que se dé el cumplimiento del Reglamento, y que las y los servidor
 
 III. Atender las reclamaciones contra las y los servidores públicos;
 
-IV. Llevar el registro de las quejas realizadas por las víctimas contra las y los servidores públicos y dar aviso, en su caso, y previa deliberación del Comité para la Evaluación a la Dirección de Visitaduria de la Fiscalía General;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+IV. Llevar el registro de las quejas realizadas por las víctimas contra las y los servidores públicos y dar aviso, en su caso, y previa deliberación del Comité para la Evaluación a la Visitaduria General de la Fiscalía General;
 
 V. Firmar con los demás integrantes las actas de sesión;
 
@@ -1009,13 +1103,19 @@ V. Sesionar de forma periódica con base en su Programa y Plan Anual de Trabajo,
 
 VI. Evaluar, actualizar y mejorar las rutas de actuación y procesos internos de cada Unidad, con el fin de mejorar el servicio para las víctimas, mujeres, sus hijas e hijos;
 
-VII. Establecer planes de acción en casos relacionados con faltas al presente Reglamento, en lo que compete a buenas prácticas de atención en el servicio público, que representen un impacto negativo para las víctimas, y en su caso dar aviso a la Dirección de Visitaduría de la Fiscalía General;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+VII. Establecer planes de acción en casos relacionados con faltas al presente Reglamento, en lo que compete a buenas prácticas de atención en el servicio público, que representen un impacto negativo para las víctimas, y en su caso dar aviso a la Visitaduría General de la Fiscalía General;
 
 VIII. Evaluar los lineamientos, políticas y procedimientos de operación que aseguren el cumplimiento y apego al presente Reglamento;
 
-IX. Aprobar el Programa de Capacitación y Difusión de Derechos Humanos, a propuesta de su Presidencia y con la participación de las Unidades, mismo que será gestionado a través de la Dirección de Capacitación y Servicio Profesional del Carrera de la Vice Fiscalía Jurídica y de Servicios a la Justicia;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-X. Asegurar que se reciban y atiendan todos los reportes del personal del Centro, por faltas incurridas o incumplimiento a la normatividad y regulaciones vigentes que se reciban a través de cualquier medio interno o externo, y en su caso dar aviso a la Dirección de Visitaduría de la Fiscalía General;
+IX. Aprobar el Programa de Capacitación y Difusión de Derechos Humanos, a propuesta de su Presidencia y con la participación de las Unidades, mismo que será gestionado a través del Instituto de Formación Profesional de la Vicefiscalía Jurídica;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+X. Asegurar que se reciban y atiendan todos los reportes del personal del Centro, por faltas incurridas o incumplimiento a la normatividad y regulaciones vigentes que se reciban a través de cualquier medio interno o externo, y en su caso dar aviso a la Visitaduría General de la Fiscalía General;
 
 XI. Establecer un Sistema e Informe de evaluación y seguimiento de quejas contra las y los servidores públicos por incumplimiento u omisión a las disposiciones de Ética profesional y el Buen Desempeño;
 
@@ -1117,7 +1217,9 @@ II. Imponer medidas a las y los servidores públicos por incumplimiento a las di
 
 III. Sistematizar la información de medidas disciplinarias impuestas a las y los servidores públicos; y
 
-IV. El Comité para la Evaluación cuando tenga contacto directo con la queja, inconformidad de la víctima o cualquier persona que acude al Centro, dará aviso a la Dirección de Visitaduría de la Fiscalía General quien se avocará a la investigación de los hechos contenidos en la misma, relacionados con posibles faltas administrativas.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+IV. El Comité para la Evaluación cuando tenga contacto directo con la queja, inconformidad de la víctima o cualquier persona que acude al Centro, dará aviso a la Visitaduría General de la Fiscalía General quien se abocará a la investigación de los hechos contenidos en la misma, relacionados con posibles faltas administrativas.
 
 El procedimiento se realizará por el Comité para la Evaluación con las derivaciones que se obtienen de quejas y del resultado del estudio que efectuará la Coordinación de Servicios Subsecuentes a través de la aplicación del Sistema de Monitoreo y Evaluación del Centro, el cual se encarga de medir continuamente los intervalos de tiempo, las actividades y los resultados de las atenciones brindadas con miras a mejorar lo realizado.
 
@@ -1125,7 +1227,9 @@ El procedimiento se realizará por el Comité para la Evaluación con las deriva
 
 El Comité para la Evaluación, una vez concluido el análisis de la situación particular, a consecuencia de una queja en contra de servidores públicos o del resultado del estudio correspondiente, podrá imponer las siguientes medidas por incumplimiento a la Ética profesional o al Buen Desempeño:
 
-A. Llamada de atención: Es una herramienta o una constancia sancionatoria en donde se reprime una falta de probidad cometida por la o el servidor público, dándole la oportunidad al mismo de corregir su conducta y haciéndole una advertencia sobre su reincidencia. La llamada de atención se hará por escrito, y en su caso se dará aviso a la Dirección de Visitaduría de la Fiscalía General, por corresponder posibles faltas administrativas previstas por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE AGOSTO DE 2021)</small>
+
+A. Llamada de atención: Es una herramienta o una constancia sancionatoria en donde se reprime una falta de probidad cometida por la o el servidor público, dándole la oportunidad al mismo de corregir su conducta y haciéndole una advertencia sobre su reincidencia. La llamada de atención se hará por escrito, y en su caso se dará aviso a la Visitaduría General de la Fiscalía General, por corresponder posibles faltas administrativas previstas por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 I. Serán consideradas como faltas de probidad, para efectos de lo dispuesto en el apartado anterior, las siguientes:
 
@@ -1139,13 +1243,17 @@ d) Toda aquella conducta carente de rectitud, integridad y honradez en el obrar,
 
 e) Por incumplir con los principios rectores de la Ética profesional y el Buen Desempeño.
 
-B. Acta Administrativa: Es un documento elaborado por el Comité para la Evaluación y firmado por la superior jerárquico, en la cual se describe con detalle la o las faltas cometidas por la o el servidor público y se entrega en presencia de la Coordinación General, además de comunicar a la Dirección de Visitaduría de la Fiscalía General.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+B. Acta Administrativa: Es un documento elaborado por el Comité para la Evaluación y firmado por la superior jerárquico, en la cual se describe con detalle la o las faltas cometidas por la o el servidor público y se entrega en presencia de la Coordinación General, además de comunicar a la Visitaduría General de la Fiscalía General.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 47.
 
-Toda situación con respecto a la mala conducta de las y los servidores y quejas o inconformidades de las víctimas que se presenten de manera verbal o por escrito al Comité para la Evaluación se turnará a la Dirección de Visitaduría de la Fiscalía General para que en base a los sucesos que se le describan determinen la sanción por aplicar conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y demás normatividad aplicable.
+Toda situación con respecto a la mala conducta de las y los servidores y quejas o inconformidades de las víctimas que se presenten de manera verbal o por escrito al Comité para la Evaluación se turnará a la Visitaduría General de la Fiscalía General para que en base a los sucesos que se le describan determinen la sanción por aplicar conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y demás normatividad aplicable.
 
-La Dirección de Visitaduría como órgano interno de control de la Fiscalía General cuenta con la atribución de iniciar una investigación contra la o el servidor público de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, la Ley Orgánica de la Fiscalía General del Estado de Aguascalientes y su Reglamento.
+La Visitaduría General como órgano interno de control y vigilancia de la Fiscalía General cuenta con la atribución de iniciar una investigación contra la o el servidor público de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, la Ley Orgánica de la Fiscalía General del Estado de Aguascalientes y su Reglamento.
 
 ###### Artículo 48.
 
@@ -1153,7 +1261,7 @@ Se tendrá un Sistema de Consecuencias de las Malas Conductas de las y los Servi
 
 I. En el cuadro de honor se nombrará a la o el servidor público que sea mejor evaluado en su desempeño y será denominada "La/El Servidor Público del Mes" colocando la fotografía y nombre completo en el Periódico Mural;
 
-II. En el día del cumpleaños se procederá a conceder un día libre a la y el servidor público que acredite cumplir años, dicho beneficio únicamente será otorgado si no hay carga de trabajo, pendientes laborales por entregar, que la persona se conduzca con base en la Ética profesional y Buen Desempeño institucional, previsto por este Reglamento y con autorización de la Coordinación General. En caso de que el día en cuestión se presente en una fecha no laborable, se asignará el beneficio en lunes de la semana próxima siguiente; o
+II. (DEROGADA, P.O. 2 DE AGOSTO DE 2021)
 
 III. El reconocimiento público o diploma, se concederán a las y los servidores públicos que se desempeñen con respeto, honradez ejemplar y eficiencia inobjetable en sus actividades, el reconocimiento será otorgado por el Comité para la Evaluación.
 
@@ -1174,3 +1282,11 @@ AGUASCALIENTES, AGUASCALIENTES, A 12 DE SEPTIEMBRE DE 2018.
 MTRO. JESÚS FIGUEROA ORTEGA
 
 FISCAL GENERAL DEL ESTADO DE AGUASCALIENTES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL REGLAMENTO INTERIOR DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
