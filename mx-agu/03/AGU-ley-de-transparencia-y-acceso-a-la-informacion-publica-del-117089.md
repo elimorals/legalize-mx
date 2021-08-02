@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2021-03-15"
+last_updated: "2021-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -407,7 +407,9 @@ VII. Aprobar el Proyecto de Presupuesto de Egresos del ITEA, a fin de darle trá
 
 VIII. Autorizar al Presidente, cuando así se requiera, realizar los actos previstos en la Ley de Bienes del Estado de Aguascalientes;
 
-IX. Nombrar, a propuesta del Presidente, al Secretario Ejecutivo y demás estructura orgánica necesaria para el funcionamiento del ITEA;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+IX. Nombrar, a propuesta del Presidente, al Secretario Ejecutivo y demás estructura orgánica necesaria para el funcionamiento del ITEA, debiendo respetar el principio de paridad y equidad entre hombres y mujeres;
 
 X. Nombrar al Contralor Interno;
 
@@ -1786,3 +1788,33 @@ El presente Decreto entrará en vigor el día 01 de marzo de 2022.
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Judicial deberá realizar las adecuaciones normativas y administrativas necesarias para dar cumplimento al presente Decreto, a más tardar al 31 de diciembre de 2021.
+
+P.O. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 575.- SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 8° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO)”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Poderes Ejecutivo, Judicial y Organismos Constitucionales Autónomos deberán, en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el contenido del Párrafo Segundo del artículo 8° de esta Constitución.
+
+###### ARTÍCULO TERCERO.
+
+La observancia del contenido del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, y el articulo 8° de la Constitución Política del Estado de Aguascalientes, será aplicable a las siguientes administraciones que tomen posesión de su encargo, misma que habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley correspondiente, a partir del proceso electoral siguiente a la entrada en vigor del presente Decreto, según corresponda, de la siguiente manera:
+
+A. Para el Poder Legislativo, a partir del 15 de septiembre del 2021;
+
+B. Para el Poder Ejecutivo, a partir del 01 de octubre de 2022:
+
+C. Para los Ayuntamientos, a partir del 15 de octubre de 2021;
+
+D. Para el Poder Judicial a partir del 1° de enero de 2022.
+
+E. Por lo que hace a los Organismos Constitucionales Autónomos, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que corresponda, de conformidad con la legislación correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+Las referencias o alusiones en la redacción de la Constitución Política del Estado de Aguascalientes y de las leyes que de ella emanen, hechas hacia mujeres u hombres, representa a ambos sexos, salvo que de la misma naturaleza de la norma se desprenda la individualización hacia un sexo determinado, que en ningún caso deberá Implicar discriminación o trato diferenciado injusto.
