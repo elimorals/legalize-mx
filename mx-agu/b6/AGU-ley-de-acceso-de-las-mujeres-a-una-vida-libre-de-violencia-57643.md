@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2021-05-31"
+last_updated: "2021-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -369,7 +369,7 @@ Los Refugios son espacios terapéuticos, secretos y temporales, en donde se podr
 
 ###### Artículo 21.
 
-La permanencia de las viíctimas en los refugios no podrá ser mayor a tres meses, a menos que persista su inestabilidad física, psicológica o su situación de riesgo. El personal médico, psicológico y jurídico evaluará, para tales efectos, su condición. En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
+La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos que persista su inestabilidad física, psicológica o su situación de riesgo. El personal médico, psicológico y jurídico evaluará, para tales efectos, su condición. En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
 ###### Artículo 22.
 
@@ -423,7 +423,9 @@ Artículo 25 quinquies.- Ante la Violencia Feminicida, el Estado de Aguascalient
 
 Las órdenes de protección tienen como propósito prevenir, interrumpir o impedir la consumación de un delito o que se actualice un supuesto en materia civil o familiar que implique violencia contra las mujeres, a través de la emisión de una orden dictada por la autoridad judicial competente.
 
-Las órdenes de protección prohíben u ordenan la realización de determinadas conductas y son precautorias, cautelares y de urgente aplicación en función del interés superior de la víctima. Deberán otorgarse por el Ministerio Público, los jueces mixtos, de lo penal, civil y familiar, según corresponda, inmediatamente que conozcan los hechos probablemente constitutivos de delitos o supuestos del orden civil o familiar, que impliquen violencia contra la víctima o víctimas indirectas.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+Las órdenes de protección prohíben u ordenan la realización de determinadas conductas y son precautorias, cautelares y de urgente aplicación en función del interés superior de la víctima. Deberán otorgarse por el Ministerio Público, los jueces mixtos, jueces cívicos, jueces de lo penal, civil y familiar, según corresponda, inmediatamente que conozcan los hechos probablemente constitutivos de delitos o supuestos del orden civil o familiar, que impliquen violencia contra la víctima o víctimas indirectas.
 
 ###### Artículo 27.
 
@@ -461,23 +463,23 @@ XIV. Embargo preventivo de bienes de la persona violenta, que deberá inscribirs
 
 XV. Obligación alimentaría provisional e inmediata.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
-Las órdenes de protección contenidas en las Fracciones I a VI son de emergencia, y las contenidas en las Fracciones VIII a XI son preventivas, deberán ser otorgadas por parte del Ministerio Público, los jueces mixtos, de lo penal, civil y familiar, según corresponda. Las contenidas en las Fracciones VII, y XII a XV son de naturaleza civil y deberán ser otorgadas por los jueces mixtos, de lo civil y familiar, que conozcan del asunto. Las órdenes de protección de emergencia y preventivas deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generan, mientras que las de naturaleza civil deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan y tendrán una temporalidad no mayor de setenta y dos horas, plazo dentro del cual debe emitirse la resolución referida en el párrafo tercero del Artículo 30 bis.
+Las órdenes de protección contenidas en las Fracciones I a VI son de emergencia, y las contenidas en las Fracciones VIII a XI son preventivas, deberán ser otorgadas por parte del Ministerio Público, los jueces mixtos, jueces cívicos, de lo penal, civil y familiar, según corresponda. Las contenidas en las Fracciones VII, y XII a XV son de naturaleza civil y deberán ser otorgadas por los jueces mixtos, de lo civil y familiar, que conozcan del asunto. Las órdenes de protección de emergencia y preventivas deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generan, mientras que las de naturaleza civil deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan y tendrán una temporalidad no mayor de setenta y dos horas, plazo dentro del cual debe emitirse la resolución referida en el párrafo tercero del Artículo 30 bis.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
-En todo caso, serán consideradas de emergencia las órdenes de protección que se tramiten con motivo de violencia sexual y cuando la víctima de cualquier tipo de violencia sea menor de dieciocho años, por lo que deberán expedirse por el Ministerio Público, los jueces mixtos, de lo penal, civil y familiar, dentro de las ocho horas siguientes al conocimiento de los hechos que las generan.
+En todo caso, serán consideradas de emergencia las órdenes de protección que se tramiten con motivo de violencia sexual y cuando la víctima de cualquier tipo de violencia sea menor de dieciocho años, y todas aquellas que a criterio de la autoridad se consideren de emergencia, por lo que deberán expedirse por el Ministerio Público, los jueces mixtos, jueces cívicos, jueces de lo penal, civil y familiar, dentro de las ocho horas siguientes al conocimiento de los hechos que las generan.
 
 > <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
 
 A quien omita aplicar o incumpla una orden de protección, se le impondrán las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes o en la Legislación correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 28.
 
-El Ministerio Público, o, en su caso, los jueces de lo penal, civil, familiar y jueces mixtos, otorgarán las órdenes emergentes o preventivas, las cuales estarán debidamente fundadas y motivadas y tomarán en consideración:
+El Ministerio Público, o, en su caso, los jueces cívicos, de lo penal, civil, familiar y jueces mixtos, otorgarán las órdenes emergentes o preventivas, las cuales estarán debidamente fundadas y motivadas y tomarán en consideración:
 
 I. El riesgo o peligro existente;
 
@@ -489,11 +491,11 @@ II. La seguridad de la víctima, o víctimas indirectas; y
 
 III. Demás elementos de convicción con que se cuente.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 29.
 
-Corresponde al Ministerio Público y jueces mixtos, de lo penal, civil y familiar, emitir las órdenes de protección y la determinación de medidas similares en sus resoluciones o sentencias, lo anterior con motivo de los procesos que al respecto se ventilen; dichas órdenes serán cumplimentadas por la Policía Ministerial y la Policía Preventiva.
+Corresponde al Ministerio Público y jueces mixtos, cívicos, de lo penal, civil y familiar, emitir las órdenes de protección y la determinación de medidas similares en sus resoluciones o sentencias, lo anterior con motivo de los procesos que al respecto se ventilen; dichas órdenes serán cumplimentadas por la Policía Ministerial y la Policía Preventiva.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2010)</small>
 
@@ -1576,3 +1578,15 @@ P.O. 31 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 554 - SE REFORMAN LA (SIC) FRACCIONES I, V Y VI DEL ARTÍCULO 4°; LAS FRACCIONES VII Y VIII DEL ARTÍCULO 59, LA FRACCIÓN IV DEL ARTÍCULO 67 Y SE ADICIONAN LAS FRACCIONES VII, VIII, IX Y X AL ARTÍCULO 4°, LAS FRACCIONES IX, X, XI, XII Y XIII AL ARTÍCULO 59 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 598.- SE REFORMAN LOS ARTÍCULOS 26 PÁRRAFO SEGUNDO; 27 PÁRRAFO SEGUNDO Y TERCERO; 28 PÁRRAFO PRIMERO; Y 29 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de la entidad deberán adecuar sus normas internas de conformidad con esta Reforma, en un plazo máximo de un año contado a partir de su inicio de vigencia.
