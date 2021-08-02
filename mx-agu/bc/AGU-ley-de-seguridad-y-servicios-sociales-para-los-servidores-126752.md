@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-12675
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2021-05-31"
+last_updated: "2021-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
 
 Ley publicada en la Primera Sección del Número 9 al Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2018.
 
@@ -247,11 +247,9 @@ XLIV. Servidor Público o Trabajador: A los funcionarios y empleados y, en gener
 
 XLV. Subrogados Estancia de Bienestar Infantil (EBI): Es la delegación que realiza el Instituto, para que un tercero emita el servicio de Estancia Infantil a que está obligado el Instituto;
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XLVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
-
-XLVI. Sueldo Base de Cotización: Es el sueldo con el que la entidad afilie al Instituto a los Servidores Públicos de su adscripción, de conformidad con el tabulador de sueldos y salarios establecidos en su propio presupuesto, mismo que no podrá ser inferior a un salario mínimo general vigente en el Estado, A EXCEPCIÓN DEL CASO DE LOS PENSIONADOS QUE COTIZARÁN DE ACUERDO AL MONTO DE LA PENSIÓN QUE DISFRUTEN. Dicho sueldo será la base para el cálculo de las aportaciones y el otorgamiento de las prestaciones a que se refiere esta Ley;
+XLVI. Sueldo Base de Cotización: Es el sueldo con el que la entidad afilie al Instituto a los Servidores Públicos de su adscripción, de conformidad con el tabulador de sueldos y salarios establecidos en su propio presupuesto, mismo que no podrá ser inferior a un salario mínimo general vigente en el Estado. Dicho sueldo será la base para el cálculo de las aportaciones y el otorgamiento de las prestaciones a que se refiere esta Ley;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -361,9 +359,13 @@ XVI. Expedir lineamientos de observancia general para la aplicación para efecto
 
 XVII. Registrar a las Entidades Públicas Patronales y demás sujetos obligados al pago de cuotas y aportaciones que establece la presente Ley, otorgándoles el número que les corresponda;
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVIII DE ESTE ARTICULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XVIII. SUSPENDER TEMPORALMENTE LAS PRESTACIONES DEL INSTITUTO A LOS AFILIADOS, CUANDO NO SEA (SIC) HAYA RECIBIDO POR LA PARTE PATRONAL LAS APORTACIONES Y EL ENTERO DE LAS PRESTACIONES CUANDO MENOS DE SEIS MESES;
+XVIII. Ejercer todo tipo de acciones administrativas y judiciales en contra de las Entidades Públicas Patronales, para lograr el pago de las cuotas, aportaciones y retenciones establecidas en la presente ley.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+El Instituto podrá solicitar que se requiera a la Secretaría de Finanzas de Gobierno del Estado, para que omita enterar a la Entidad deudora las cantidades presupuestales adeudadas, para que de dichas cantidades sean cubiertas las cuotas, aportaciones y retenciones pendientes de pago;
 
 XIX. Establecer los procedimientos para la inscripción, la aportación de cuotas y el otorgamiento de las prestaciones que correspondan al Instituto;
 
@@ -899,11 +901,11 @@ En tales casos, las instituciones o empresas con las que se hubiesen suscrito es
 
 El derecho a las Prestaciones Económicas de cualquier naturaleza nace cuando el Servidor Público, Pensionado, sus familiares derechohabientes o sus beneficiarios se encuentren en los supuestos consignados en esta Ley y satisfagan los requisitos que en la misma y en sus reglamentos se señalen y en su caso causen.
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 53.
 
-Para que el Instituto este en aptitud de cumplir con la obligación de otorgar las Prestaciones de Seguridad y Servicios Sociales, las Entidades Públicas Patronales deberán estar al corriente en el pago de las cuotas, aportaciones y retenciones establecidas en la presente Ley y en la Tabla de Aportaciones para el Fondo de Prestaciones Económicas, ambas para el año que corresponda su debido cobro; por lo que, en caso de que la (sic) Entidades Públicas Patronales no se encuentren al corriente en el pago de las cuotas, aportaciones y retenciones, el Instituto quedará liberado de la obligación del otorgamiento de las prestaciones referidas, o en su caso podrá suspender el servicio a sus trabajadores afiliados.
+El Instituto deberá de cumplir con la obligación de otorgar las Prestaciones de Seguridad y Servicios Sociales, independientemente de que las Entidades Públicas Patronales no estén al corriente en el pago de las cuotas, aportaciones y retenciones establecidas en la presente Ley y en la Tabla de Aportaciones para el Fondo de Prestaciones Económicas, ambas para el año que corresponda su debido cobro, por lo que, en caso de que las Entidades Públicas Patronales se encuentren en dicho incumplimiento, el Instituto deberá iniciar inmediatamente los procedimientos administrativos, judiciales y de cualquier otra naturaleza para lograr su pago.
 
 ###### Artículo 54.
 
@@ -959,7 +961,11 @@ I. Es compatible la percepción de una Pensión por Edad y Antigüedad en el Ser
 
 II. La Pensión por Viudez y Orfandad es compatible con la percepción, exclusivamente, de una Pensión por Edad Avanzada o Invalidez otorgada por el Instituto, según corresponda;
 
-III. La Pensión por Viudez y Orfandad que otorgue el Instituto es compatible, únicamente, con otra de esa misma naturaleza, generada por la muerte de un familiar directo pensionado o en activo, siempre y cuando la persona susceptible a la pensión no se encuentre desempeñando un empleo, cargo o comisión en alguna Entidad Pública Patronal y que además se encuentre cobrando sueldo respectivo por dicha actividad;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+II. La Pensión por Viudez y Orfandad es compatible con la percepción de la Pensión de Retiro por Edad y Antigüedad en el Servicio, así como con la Pensión e Indemnización por Invalidez, otorgadas en su caso por el Instituto, o cuando se esté desempeñando un empleo, cargo o comisión en alguna Entidad Pública Patronal y se encuentre cobrando sueldo respectivo por dicha actividad, según corresponda;
+
+III. (DEROGADA, P.O. 2 DE AGOSTO DE 2021)
 
 IV. El disfrute de una Pensión por Riesgo de Trabajo, con una Pensión de Retiro por Edad y antigüedad en el Servicio;
 
@@ -973,11 +979,13 @@ VI. La percepción de una Pensión por Orfandad, es compatible con el disfrute d
 
 Es incompatible la percepción de una pensión:
 
-I. Con el desempeño de cualquier cargo, empleo o comisión remunerados, en las entidades públicas patronales, a excepción de las pensiones por incapacidad parcial por riesgo de trabajo cuando el Área de Medicina del Trabajo dictamine que existe capacidad residual para el desempeño de su labor;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+I. Con el desempeño de cualquier cargo, empleo o comisión remunerados, en las entidades públicas patronales, a excepción de las pensiones por viudez y orfandad, por incapacidad parcial por riesgo de trabajo cuando el Área de Medicina del Trabajo dictamine que existe capacidad residual para el desempeño de su labor;
 
 II. Por invalidez otorgada por el Instituto con el desempeño de un empleo, cargo o comisión de cualquier tipo, en entidades públicas patronales sujetas al régimen de esta Ley;
 
-III. En el caso de pensionados a los que, habiendo cumplido la antigüedad de cotización en más de dos plazas, se les haya concedido o se les concedan las pensiones por viudez y orfandad, se les suspenderá de inmediato el pago de las mismas;
+III. (DEROGADA, P.O. 2 DE AGOSTO DE 2021)
 
 IV. Las Pensiones por Antigüedad en el servicio y Pensión de Retiro por Edad que otorgue el Instituto son incompatibles entre sí respecto de la misma plaza, consecuentemente ningún pensionado podrá disfrutar simultáneamente de dos o más pensiones otorgadas por el Instituto;
 
@@ -1003,11 +1011,9 @@ IV. Si se comprueba la incompatibilidad entre pensión y empleo en los términos
 
 V. Si se comprueba que una persona pensionada por invalidez desempeña cualquier empleo, cargo o comisión remunerados en el sector público, se revocará la pensión otorgada y se requerirá al pensionado la devolución íntegra de las cantidades que hubiere recibido por dicho concepto mientras laboraba, con actualizaciones y recargos.
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 61.
 
-Para que un Servidor Público pueda disfrutar de la pensión que le fue otorgada, deberá cubrir previamente los saldos vencidos que pudiera tener con el Instituto respecto a cualquier adeudo.
+(DEROGADO, P.O. 2 DE AGOSTO DE 2021)
 
 ###### Artículo 62.
 
@@ -1025,11 +1031,9 @@ Cuando un afiliado desempeñe simultáneamente dos o más empleos, nombramientos
 
 Es nula toda enajenación, cesión o gravamen de las pensiones que esta Ley establece, devengadas o futuras, serán inembargables y sólo podrán ser afectadas para hacer efectiva la obligación de ministrar alimentos por mandato judicial o para hacer el pago de adeudos con el Instituto con motivo de la aplicación de esta Ley.
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 65.
 
-Todas las pensiones que se concedan se sujetarán al pago de las cuotas y aportaciones que se señala en el Artículo 70 Fracción I.
+(DEROGADO, P.O. 2 DE AGOSTO DE 2021)
 
 ###### Artículo 66.
 
@@ -1065,9 +1069,7 @@ I. Respecto a la prestación económica de la Cuenta de Ahorro Individual para e
 
 a) Los Servidores Públicos aportarán para el financiamiento de las prestaciones mencionadas en las Fracciones I, II, III, IV, V y VI del Artículo 54 de la presente Ley;
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ DEL INCISO B) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-b) LOS PENSIONADOS APORTARÁN PARA EL FINANCIAMIENTO DE LA PRESTACIÓN MENCIONADA EN LA FRACCIÓN V DEL ARTÍCULO 54 CITADO EN ESTA FRACCIÓN; y
+b) (DEROGADO, P.O. 2 DE AGOSTO DE 2021)
 
 c) Las Entidades Públicas Patronales aportarán para el financiamiento de las prestaciones mencionadas en las Fracciones I, II, III, IV, V y VI del Artículo 54 de la presente Ley.
 
@@ -1121,21 +1123,21 @@ El derecho a la prestación a que se refiere el artículo anterior, adquiere vig
 
 I. La esposa o, a falta de ésta, la mujer con quien ha vivido como si lo fuera durante dos años o más, o en su defecto con la que haya procreado hijos, siempre que ambos permanezcan libres de matrimonio.
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
-Si EL SERVIDOR PÚBLICO O EL PENSIONADO tienen varias concubinas, ninguna de estas tendrá derecho a la prestación.
+Si hubiere varias concubinas, ninguna de estas tendrá derecho a la prestación.
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
-Del mismo derecho gozará el esposo DE LA SERVIDORA PÚBLICA O PENSIONADA, o a falta de éste, el concubino, de conformidad con lo dispuesto en los dos párrafos anteriores;
+Del mismo derecho gozará el esposo o a falta de éste, el concubino, de conformidad con lo dispuesto en los dos párrafos anteriores;
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-II. Los hijos menores DE DIECISÉS AÑOS del servidor público o pensionado; y
+II. Los hijos menores de edad del servidor público o pensionado; y
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-III. Los hijos del Servidor Público o Pensionados hasta la edad de veinticinco años, si están realizando estudios de nivel medio o superior, SIEMPRE Y CUANDO ESTO SEA ACORDE A SU EDAD, en cualquier rama del conocimiento en planteles del Sistema Educativo Nacional o si no pueden mantenerse por sí mismos debido a una enfermedad crónica, defecto físico o psíquico.
+III. Los hijos del Servidor Público o Pensionados hasta la edad de veinticinco años, si están realizando estudios de nivel medio o superior, en cualquier rama del conocimiento en planteles del Sistema Educativo Nacional o si no pueden mantenerse por sí mismos por tratarse de una persona con discapacidad.
 
 ###### Artículo 74.
 
@@ -1261,9 +1263,9 @@ Si al morir el Servidor Público o Pensionado tuviere varias concubinas, ninguna
 
 III. La cónyuge o el cónyuge supérstite, solos o en concurrencia con los hijos, siempre que no viva en concubinato;
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-IV. Los hijos menores de dieciocho años si los hay y no hayan contraído matrimonio, o no sean menores pero estén incapacitados o imposibilitados parcial o totalmente para trabajar, o bien que tengan hasta veinticinco años previa comprobación de que están realizando estudios de nivel medio o superior de cualquier rama del conocimiento, SIEMPRE Y CUANDO DICHO GRADO ESCOLAR SE CURSE DE ACUERDO A SU EDAD;
+IV. Los hijos menores de dieciocho años si los hay y no hayan contraído matrimonio, o no sean menores de edad, pero estén incapacitados o imposibilitados parcial o totalmente para trabajar, o bien que tengan hasta veinticinco años previa comprobación de que están realizando estudios de nivel medio o superior de cualquier rama del conocimiento;
 
 V. A falta de hijos, cónyuge, concubina o concubinario, la pensión se entregará a los ascendientes directos en primer grado; y
 
@@ -1281,11 +1283,11 @@ En caso de que dos o más interesados reclamen derecho a pensión como cónyuges
 
 Cuando un solicitante, ostentándose como cónyuge supérstite del Servidor Público o Pensionado reclame un beneficio que se haya concedido a otra persona por el mismo concepto, sólo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio que sirvió de base para el otorgamiento de la pensión. Si el segundo solicitante reúne los requisitos que esta Ley establece, se le concederá pensión, la cual percibirá a partir de la fecha en que se reciba la solicitud en el Instituto, sin que tenga derecho a reclamar las cantidades cobradas por el primer beneficiario.
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DETERMINÓ, EN VÍA DE CONSECUENCIA, QUE LO DISPUESTO EN LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DEBE ENTENDERSE EN EL SENTIDO DE QUE SE REFIERE A PERSONAS CON DISCAPACIDAD, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 92.
 
-Si el hijo pensionado llegara a los dieciocho años y no pudiera mantenerse por su propio trabajo DEBIDO A UNA ENFERMEDAD DURADERA, DEFECTOS FÍSICOS O ENFERMEDAD PSÍQUICA, el pago de la pensión se prorrogara por el tiempo que subsista su inhabilitación. En tal caso, el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que le prescriba la institución que otorgue los servicios médicos, en coordinación con el Área de Medicina del Trabajo del Instituto y a las investigaciones que en cualquier tiempo ordene el Instituto para los efectos de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la pensión.
+Si el hijo pensionado llegara a los dieciocho años y no pudiera mantenerse por su propio trabajo debido a que se trate de una persona con discapacidad, el pago de la pensión se prorrogará por el tiempo que subsista su inhabilitación. En tal caso, el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que le prescriba la institución que otorgue los servicios médicos, en coordinación con el Área de Medicina del Trabajo del Instituto y a las investigaciones que en cualquier tiempo ordene el Instituto para los efectos de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la pensión.
 
 ###### Artículo 93.
 
@@ -1529,15 +1531,13 @@ En caso de que dos o más personas reclamen el derecho a la pensión como cónyu
 
 Cuando un solicitante, ostentándose como cónyuge supérstite del Servidor Público o Pensionado reclame un beneficio que ya se haya concedido a otra persona por el mismo concepto, sólo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio que sirvió de base para la concesión de la pensión. Si el segundo solicitante reúne los requisitos que esta Ley establece, se le concederá la pensión, la cual percibirá a partir de la fecha en que se reciba la solicitud en el Instituto, sin que tenga derecho a reclamar al Instituto las cantidades cobradas por el primer beneficiario.
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DETERMINÓ, EN VÍA DE CONSECUENCIA, QUE LO DISPUESTO EN LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DEBE ENTENDERSE EN EL SENTIDO DE QUE SE REFIERE A PERSONAS CON DISCAPACIDAD, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 116.
 
-Si el hijo pensionado llegara a los dieciocho años y no pudiera mantenerse por su propio trabajo DEBIDO A UNA ENFERMEDAD DURADERA, DEFECTOS FÍSICOS O ENFERMEDAD PSÍQUICA, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista la inhabilitación.
+Si el hijo pensionado llegara a los dieciocho años y no pudiera mantenerse por su propio trabajo debido al padecimiento de alguna discapacidad, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista la inhabilitación.
 
-(NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-En tal caso el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que el Instituto le prescriba y proporcione, así como a las investigaciones que en cualquier tiempo éste ordene, para los efectos de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la pensión; asimismo, continuarán disfrutando de la pensión los hijos solteros hasta los veinticinco años de edad, previa comprobación de que están realizando estudios SIEMPRE Y CUANDO ESTOS SEAN ACORDE A SU EDAD.
+En tal caso el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que el Instituto le prescriba y proporcione, así como a las investigaciones que en cualquier tiempo éste ordene, para los efectos de determinar su estado de discapacidad, haciéndose acreedor, en caso contrario, a la suspensión de la pensión; asimismo, continuarán disfrutando de la pensión los hijos solteros hasta los veinticinco años, previa comprobación de que están realizando estudios.
 
 ###### Artículo 117.
 
@@ -2614,3 +2614,11 @@ P.O. 31 DE MAYO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, y será aplicable para las prestaciones que hayan de enterarse con posterioridad a su entrada en vigor.
+
+P.O. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 595.- SE REFORMAN LOS ARTÍCULOS 4°, FRACCIÓN XLVI; 10, FRACCIÓN XVIII; 53; 58, FRACCIÓN II; 59, FRACCIÓN I; 73, FRACCIONES I, PÁRRAFOS SEGUNDO Y TERCERO Y FRACCIONES II Y III; 89, FRACCIÓN IV; 92; 116; SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN XVIII DEL ARTÍCULO 10; Y SE DEROGAN LA FRACCIÓN III DEL ARTÍCULO 58; LA FRACCIÓN III DEL ARTÍCULO 59; EL ARTÍCULO 61; EL ARTÍCULO 65; EL INCISO B) DE LA FRACCIÓN I DEL ARTÍCULO 70 DE LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
