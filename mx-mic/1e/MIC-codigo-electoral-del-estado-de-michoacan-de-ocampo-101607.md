@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2020-12-03"
+last_updated: "2021-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -1635,7 +1635,13 @@ XIII. Resolver de manera definitiva los medios de impugnación de su competencia
 
 XIV. Llevar a cabo el procedimiento para la designación del titular del Órgano Interno de Control; y,
 
-XV. Las demás que le otorgue el presente Código y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA] P.O. 2 DE AGOSTO DE 2021)</small>
+
+XV. Evaluar periódicamente al Órgano Interno de Control; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+
+XVI. Las demás que le otorgue el presente Código y otras disposiciones legales.
 
 ###### ARTÍCULO 65.
 
@@ -1755,83 +1761,145 @@ IX. Llevar el registro de los criterios jurisprudenciales;
 
 X. Las demás que señale la ley o le indique el Pleno.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2021)</small>
 
-ARTÍCULO 69 a). El Tribunal contará con un Órgano Interno de Control quien tendrá a su cargo la fiscalización de los ingresos y egresos, así como la investigación, tramitación, sustanciación y resolución, en su caso, de los procedimientos y recursos establecidos en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo por responsabilidades de los servidores públicos del Tribunal; en el ejercicio de sus atribuciones estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; así mismo contará con fe pública en sus actuaciones. En el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
+ARTÍCULO 69 a). El Tribunal contará con un Órgano Interno de Control, quien tendrá a su cargo la fiscalización de los ingresos y egresos, así como la investigación, tramitación, sustanciación y resolución, en su caso, de los procedimientos y recursos establecidos en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo por responsabilidades de los servidores públicos del Tribunal; en el ejercicio de sus atribuciones estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; así mismo contará con fe pública en sus actuaciones. En el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
 
-El titular del Órgano Interno de Control será nombrado y removido por el Pleno, durará en su encargo cinco años y no podrá ser reelecto; estará adscrito administrativamente a la Presidencia del Tribunal, y para el Desarrollo de sus funciones contará con las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE AGOSTO DE 2021)</small>
+
+El titular del Órgano Interno de Control será nombrado y removido por el Congreso con el voto de las dos terceras partes de sus miembros presentes, durará en su encargo cinco años y no podrá ser reelecto; estará adscrito administrativamente al Pleno del Tribunal, y para el desarrollo de sus funciones contará con las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 I. Elaborar y remitir a los magistrados el Programa Interno de Auditoría, a más tardar en la primera quincena de septiembre del año anterior al que se vaya a aplicar;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
 II. Dar seguimiento a la atención, trámite y solventación de las observaciones, recomendaciones y demás promociones de acciones que deriven de las auditorías internas y de las que formule la Auditoría Superior de Michoacán, debiendo informar al Pleno;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 III. Prevenir, corregir, e investigar actos u omisiones que pudieran constituir responsabilidades administrativas de los servidores públicos del Tribunal, de lo cual deberá informar a los magistrados;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
 IV. Proponer al Pleno, promueva ante las instancias competentes, las acciones administrativas y legales que deriven de las irregularidades detectadas en las auditorias;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 V. Proponer al Pleno los anteproyectos de procedimientos, manuales e instructivos que sean necesarios para el desempeño de sus funciones, así como la estructura administrativa de su área;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
 VI. Informar de sus actividades institucionales al Pleno de manera bimestral y presentar el resultado de las auditorías practicadas conforme al Programa Interno de Auditoría, en los términos aprobados por el Pleno;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 VII. Participar en los actos de entrega-recepción de los servidores públicos del Tribunal, mandos medios, superiores y homólogos, con motivo de su separación del cargo, empleo o comisión y en aquellos derivados de las readscripciones, en términos de la normatividad aplicable;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
 VIII. Instrumentar los procedimientos relacionados con las responsabilidades administrativas en que incurran los servidores del Tribunal, con excepción de los magistrados que estarán sujetos al régimen de responsabilidades de los servidores públicos establecidos en la Constitución Local y la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo. La información relativa a las sanciones no se hará pública hasta en tanto no haya causado estado;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 IX. Recibir, sustanciar y resolver los recursos de revocación que presenten los servidores públicos del Tribunal, en términos de la Ley de Responsabilidades Administrativas para el Estado de Michoacán;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
 X. Llevar el registro de los servidores públicos que hayan sido sancionados, civil, penal, laboral y administrativamente, por resolución ejecutoriada;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 XI. Elaborar el instructivo para el adecuado manejo de fondos revolventes;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
 XII. Recibir, llevar el registro y resguardar la declaración patrimonial inicial, de modificación o de conclusión de los servidores públicos del Tribunal que estén obligados a presentarla;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 XIII. Participar en las sesiones del Comité de adquisiciones, arrendamientos, prestación de servicios y obra pública del Tribunal y opinar respecto de los procedimientos;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
 XIV. Recibir, sustanciar y resolver las inconformidades que presenten los proveedores respecto a actos o fallos en los procedimientos de adquisiciones y contratación de arrendamientos, servicios y obra pública;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 XV. Analizar y evaluar los sistemas de procedimientos y control interno del Tribunal, cuadyuvando (sic) en todo momento con el área Administrativa, para la construcción de mecanismos que permitan la aplicación de los recursos de forma eficaz, honesta y transparente, realizando sugerencias de carácter preventivo, informando al Pleno de este órgano jurisdiccional, de todas aquellas actividades que a manera de recomendaciones, promuevan el buen desempeño de los servidores públicos del Tribunal Electoral del Estado de Michoacán;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
 XVI. Recibir, dar curso e informar a los magistrados, el trámite recaído a las denuncias presentadas por la ciudadanía o por las contralorías ciudadanas en un plazo que no deberá exceder de diez días hábiles;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 XVII. Revisar y auditar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, que las operaciones, informes contables y estados financieros, estén basados en los registros contables que lleve el área correspondiente, así como, examinar la asignación y correcta utilización de los recursos financieros, humanos y materiales, poniendo especial atención a los contratos de obra pública, servicios, adquisiciones y la subrogación de funciones de los entes públicos en particulares, incluyendo sus términos contractuales y estableciendo un programa de auditorías especiales en los procesos electorales;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
 XVIII. Vigilar el cumplimiento de las normas y procedimientos establecidos por el Pleno y proponer a éste las medidas de prevención que considere;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 XIX. Revisar el cumplimiento de objetivos y metas fijados en los Programas Institucionales del Tribunal, y proponer al Pleno las medidas de prevención que considere pertinentes;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
 XX. Realizar auditorías contables, operacionales y de resultados del Tribunal, formulando las observaciones y recomendaciones de carácter preventivo a las áreas del Tribunal Electoral del Estado de Michoacán, y en su caso iniciar los procedimientos de responsabilidad administrativa a que haya lugar;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 XXI. Vigilar que el Tribunal cumpla con los procedimientos previamente regulados para garantizar el derecho de acceso a la información, para lo cual deberá hacer las evaluaciones y auditorías correspondientes para verificar los procedimientos;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
 XXII. Realizar auditorías en materia de datos personales para verificar los sistemas y medidas de seguridad para la protección de datos personales recabados por el Tribunal en el cumplimiento de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 XXIII. Requerir fundada y motivadamente a los órganos y servidores públicos del Tribunal la información necesaria para el desempeño de sus atribuciones;
 
-XXIV. Coordinar con los servidores públicos encargados del control y evaluación, auditoría y de sustanciación de responsabilidades, la evaluación de control, fiscalización de recursos y la sustanciación de procedimientos administrativos, para fortalecer la gestión administrativa del uso y destino de los recursos públicos y la rendición de cuentas del Tribunal Electoral. El desempeño del órgano interno de control será evaluado periódicamente por el Pleno; y,
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+XXIV. Coordinar con los servidores públicos encargados del control y evaluación, auditoría y de sustanciación de responsabilidades, la evaluación de control, fiscalización de recursos y la sustanciación de procedimientos administrativos, para fortalecer la gestión administrativa del uso y destino de los recursos públicos y la rendición de cuentas del Tribunal Electoral; y,
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 XXV. Las demás que le confiera este Código, las leyes aplicables y el Reglamento Interior del Tribunal.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2021)</small>
 
-ARTÍCULO 69 b). El Pleno realizará la evaluación de los aspirantes mediante el procedimiento siguiente:
+ARTÍCULO 69 b). El Pleno realizará la evaluación de los aspirantes e integrará y enviará al Congreso mediante el procedimiento siguiente:
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 I. Publicará convocatoria abierta en el Periódico Oficial, en el portal de internet y en un diario de circulación estatal que contendrá lugar, fecha, plazos, términos y requisitos para el proceso de selección;
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 II. Los nombres de los aspirantes registrados serán publicados en el portal de internet y en un diario de circulación estatal, a efecto de que cualquier persona, por el término de tres días hábiles, de manera respetuosa, formule y haga llegar al Pleno, observaciones sobre los participantes, acompañando las pruebas que acrediten su dicho;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 III. Los aspirantes deberán someterse a evaluación de eficiencia y competencia, que realizará el Pleno, la cual consistirá en exámenes, escritos u orales sobre los aspectos relacionados con la materia del cargo a que aspira, considerando problemas y normativa;
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 IV. El Pleno garantizará que quienes califiquen el examen, no conozcan la identidad del aspirante evaluado; y,
 
-V. El Pleno elaborara un expediente debidamente foliado y pormenorizado de cada aspirante evaluado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+V. El Pleno remitirá al Congreso la lista de las personas propuestas, acompañada del expediente debidamente foliado y pormenorizado de cada aspirante evaluado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso designe de entre los cinco mejor evaluados.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 ARTÍCULO 69 c). Para ser Contralor deben reunirse los siguientes requisitos:
 
-(NOTA: EL 30 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO PRIMERO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2018 Y SU ACUMULADA 69/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-I. Ser mexicano POR NACIMIENTO, estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+I. Ser mexicano, estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Tener más de treinta años de edad, el día de la designación;
 
@@ -6382,3 +6450,11 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su public
 TERCERO. Notifíquese a la Suprema Corte de Justicia de la Nación, para efectos de dar cumplimiento, así como a lo establecido en el Quinto Punto Resolutivo de la Sentencia dictada dentro de la Acción de Inconstitucionalidad número 133/21020.
 
 CUARTO. Notifíquese el presente Decreto al presidente del Supremo Tribunal de Justicia del Estado, al presidente del Instituto Electoral de Michoacán y a la presidenta del Tribunal Electoral de Michoacán, para su conocimiento y efectos conducentes.
+
+P.O. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 567 POR EL QUE "SE REFORMA LA FRACCIÓN XV Y SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 64; SE REFORMA EL PÁRRAFO SEGUNDO Y LA FRACCIÓN XXIV DEL ARTÍCULO 69 A); SE REFORMA EL ARTÍCULO 69 B); Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 69 C); DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Tribunal Electoral del Estado de Michoacán para su conocimiento; a efecto de que en un plazo no mayor a cinco días naturales se emita la convocatoria para la designación del Titular del Órgano Interno de Control del Tribunal Electoral del Estado de Michoacán, e inicie el procedimiento correspondiente de conformidad con el artículo 94 bis, de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, así como los artículos 64 fracción XIV, 69 a), 69 b) y 69 c) del Código Electoral del Estado de Michoacán de Ocampo.
