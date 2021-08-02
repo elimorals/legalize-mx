@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-sociedad-del-114795"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-23"
-last_updated: "2019-12-16"
+last_updated: "2021-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de mayo de 2016.
 
@@ -65,13 +65,17 @@ VI. Coordinar las actividades científicas, tecnológicas y de innovación de la
 
 VII. Integrar, incrementar y consolidar la capacidad del Sistema de Ciencia, Tecnología e Innovación del Estado, mediante la organización, el estímulo y el reconocimiento de la comunidad científica, así como la creación de centros, grupos y redes de investigación;
 
-VIII. Fortalecer e impulsar la infraestructura, multiplicación de proyectos de investigación y la formación e integración de investigadores, científicos y expertos en tecnología de alto nivel académico, así como la vinculación de sus resultados a fin de constituirse en instrumento promotor del desarrollo del Estado de Aguascalientes como Sociedad del Conocimiento;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+VIII. Fortalecer e impulsar la infraestructura, multiplicación de proyectos de investigación y la formación e integración de personas dedicadas a la investigación, la ciencia y el desarrollo de tecnología de alto nivel académico, así como la vinculación de sus resultados a fin de constituirse en instrumento promotor del desarrollo del Estado de Aguascalientes como Sociedad del Conocimiento;
 
 IX. Garantizar la vinculación del Sistema de Ciencia, Tecnología e Innovación del Estado con las instituciones de los sectores académico, gubernamental, productivo y social, para que la investigación científica y tecnológica contribuya a la promoción del desarrollo, la competitividad económica, la transformación del sistema educativo, la mejoría de la calidad de vida, la consolidación y transformación cultural del Estado de Aguascalientes en una Sociedad del Conocimiento;
 
 X. Garantizar la colaboración interinstitucional e intersectorial en los tres niveles de gobierno y los sectores productivos y económicos, con la finalidad de favorecer la coordinación y la descentralización de las actividades científicas, tecnológicas y de innovación en el Estado;
 
-XI. Impulsar el fortalecimiento del Sistema Estatal de investigadores a través de la creación de la RED;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+XI. Impulsar el fortalecimiento del Sistema Estatal de Investigación a través de la creación de la RED;
 
 XII. Divulgar y garantizar el acceso abierto a la información científica, tecnológica y de innovación en el Estado; y
 
@@ -127,9 +131,13 @@ XIV. Museo.- Descubre Museo Interactivo de Ciencias y Tecnología de Aguascalien
 
 XV. Plan.- El Plan Rector del Sistema Estatal para la Gestión del Conocimiento;
 
-XVI. RED.- La red científica y tecnológica es la asociación formal o informal, articulada horizontalmente de instituciones, investigadores y demás integrantes de la comunidad científica, que interactúan atendiendo a un interés científico y tecnológico común;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-XVII. REICyTEA (Registro de Investigación Científica y Tecnológica del Estado de Aguascalientes).- El documento oficial que contiene los datos de los investigadores de las instituciones de educación media y superior; centros de investigación instituciones o dependencias ejecutoras o financiadoras de acciones científicas y tecnológicas e instituciones u organismos dedicados a la difusión interna y externa o divulgación científica y tecnológica;
+XVI. RED.- La red científica y tecnológica es la asociación formal o informal, articulada horizontalmente de instituciones, personas dedicadas a la investigación y demás integrantes de la comunidad científica, que interactúan atendiendo a un interés científico y tecnológico común;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+XVII. REICyTEA (Registro de Investigación Científica y Tecnológica del Estado de Aguascalientes).- El documento oficial que contiene los datos del personal de investigación de las instituciones de educación media y superior; centros de investigación, instituciones o dependencias ejecutoras o financiadoras de acciones científicas y tecnológicas e instituciones u organismos dedicados a la difusión interna y externa o divulgación científica y tecnológica;
 
 XVIII. RENIECYT.- Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas;
 
@@ -179,7 +187,9 @@ El IDSCEA tendrá por objeto ser la entidad especializada del Ejecutivo Estatal 
 
 I. Formular y proponer las políticas estatales en materia de innovación, ciencia y tecnología;
 
-II. Conformar un Padrón Estatal de Investigadores derivado del REICyTEA;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+II. Conformar un Padrón Estatal de personas dedicadas a la investigación derivado del REICyTEA;
 
 III. Apoyar la comercialización de los productos que deriven de la investigación científica básica y aplicada en el Estado, y la formación y consolidación de grupos de expertos en tecnología en las áreas del conocimiento típicas de las vocaciones regionales del Estado;
 
@@ -209,9 +219,13 @@ XIV. Promover y apoyar la conformación y funcionamiento de Centros de Investiga
 
 XV. Promover y apoyar el desarrollo de la RED y los proyectos de innovación de las universidades, centros de investigación e instituciones públicas de educación superior;
 
-XVI. Formular estudios, programas y promover, conjuntamente con las autoridades competentes, planes de carrera orientados a ofrecer incentivos para la profesión de investigador y experto en tecnología, fortalecer y multiplicar grupos de investigadores y fomentar la movilidad de investigadores entre centros, constituir nuevos centros e instituciones, incluyendo aquellos orientados a la formación de recursos humanos de alto nivel y especialización en áreas científicas y tecnológicas y crear redes en áreas estratégicas de propuestas de conocimiento;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-XVII. Sujeto a la disponibilidad de recursos, diseñar, organizar y operar programas de apoyo y un sistema estatal de estímulos e incentivos para la formación y consolidación de investigadores y grupos de investigadores en cualquiera de sus ramas y especialidades, así como promover el establecimiento y difusión de nuevos premios y estímulos;
+XVI. Formular estudios, programas y promover, conjuntamente con las autoridades competentes, planes de carrera orientados a ofrecer incentivos para quienes se dedican a la investigación y tecnología, fortalecer y multiplicar grupos de investigación y fomentar su movilidad entre centros, constituir nuevos centros e instituciones, incluyendo aquellos orientados a la formación de recursos humanos de alto nivel y especialización en áreas científicas y tecnológicas y crear redes en áreas estratégicas de propuestas de conocimiento;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+XVII. Sujeto a la disponibilidad de recursos, diseñar, organizar y operar programas de apoyo y un sistema estatal de estímulos e incentivos para la formación y consolidación de personas dedicadas a la investigación y grupos de investigación en cualquiera de sus ramas y especialidades, así como promover el establecimiento y difusión de nuevos premios y estímulos;
 
 XVIII. Aportar recursos a las instituciones académicas, centros de innovación y, en general, a personas físicas y morales, públicas, sociales y privadas, para el fomento y realización de innovaciones, investigaciones y desarrollos tecnológicos, en función de programas y proyectos específicos, en los términos de esta Ley, y en su caso, de los convenios que al efecto celebre el IDSCEA con otros aportantes y con las instituciones o centros interesados, sin perjuicio de que dichas instituciones y centros sigan manejando e incrementando sus propios fondos y patrimonio;
 
@@ -221,7 +235,9 @@ XX. Participar de acuerdo a la normatividad vigente, en colaboración con los mu
 
 XXI. Apoyar a las entidades y dependencias de la Administración Pública Estatal en los aspectos técnicos que requieran para sustentar la formulación y modificación de sus esquemas regulatorios y sus funciones de normalización y metrología, y promover la certificación tecnológica de las empresas, así como promover y verificar el cumplimiento de las disposiciones que establezcan compromisos para la realización de actividades de investigación científica y desarrollo tecnológico, en coordinación con las autoridades competentes;
 
-XXII. Promover las publicaciones científicas y fomentar la difusión sistemática de los trabajos realizados tanto por los investigadores nacionales como por los extranjeros que residan en el Estado, mediante la utilización de los medios más adecuados para ello, así como publicar anualmente avances relevantes de la ciencia y la tecnología nacionales, sus aplicaciones específicas y los programas y actividades trascendentes de los centros públicos de investigación;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+XXII.- Promover las publicaciones científicas y fomentar la difusión sistemática de los trabajos realizados tanto por las personas nacionales dedicadas a la investigación como por las personas extranjeras que residan en el Estado, mediante la utilización de los medios más adecuados para ello, así como publicar anualmente avances relevantes de la ciencia y la tecnología nacionales, sus aplicaciones específicas y los programas y actividades trascendentes de los centros públicos de investigación;
 
 XXIII. Investigar en forma directa exclusivamente sobre el desarrollo y estado de la innovación, la ciencia y la tecnología, para lo cual deberá:
 
@@ -229,7 +245,9 @@ A. Sistematizar y mantener actualizada la información de recursos humanos, mate
 
 B. Realizar estudios prospectivos para identificar las necesidades regionales en innovación, ciencia y tecnología, estudiar los problemas que la afecten y sus relaciones con la actividad general del Estado; y
 
-C. Promover la operación de servicios de información y documentación científica, en el marco del Sistema Estatal de Investigadores.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+C. Promover la operación de servicios de información y documentación científica, en el marco del Sistema Estatal de Investigación.
 
 XXIV. Coordinarse con los gobiernos municipales y el federal para el establecimiento, operación, integración, desarrollo y evaluación tanto de los órganos locales de ciencia y tecnología como de los programas en la materia; y
 
@@ -273,7 +291,9 @@ I. El IDSCEA vigilará la debida aplicación y adecuado aprovechamiento de los r
 
 II. Los beneficiarios rendirán al IDSCEA los informes periódicos que establezcan sobre el desarrollo y resultado de sus trabajos;
 
-III. Los derechos de propiedad intelectual e industrial respecto de los resultados obtenidos por las personas físicas o morales que reciban apoyo del IDSCEA, serán materia de regulación específica en los contratos o convenios que al efecto se celebren, en los que se protegerán los intereses del Instituto, los investigadores y expertos en tecnología; y
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+III. Los derechos de propiedad intelectual e industrial respecto de los resultados obtenidos por las personas físicas o morales que reciban apoyo del IDSCEA, serán materia de regulación específica en los contratos o convenios que al efecto se celebren, en los que se protegerán los intereses del Instituto, de las personas dedicadas a la investigación, así como de las personas dedicadas al desarrollo de tecnología; y
 
 IV. Las demás que se establezcan a través de reglas o lineamientos de carácter general, en función de programas y proyectos específicos.
 
@@ -493,7 +513,9 @@ Artículo 24 C.- El Consejo tendrá por función el emitir recomendaciones para 
 
 I. Proponer mejoras sobre las políticas públicas y programas de apoyo a la investigación científica, el desarrollo tecnológico y la innovación; así como coadyuvar con la Junta de Gobierno en su evaluación;
 
-II. Proponer áreas y acciones prioritarias en materia de investigación científica, desarrollo tecnológico, innovación, formación de investigadores, difusión del conocimiento científico y tecnológico y cooperación técnica internacional;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+II. Proponer áreas y acciones prioritarias en materia de investigación científica, desarrollo tecnológico, innovación, formación de personas dedicadas a la investigación, difusión del conocimiento científico y tecnológico y cooperación técnica internacional;
 
 III. Analizar, estudiar y proponer mejoras sobre las disposiciones legales en la materia, así como formular sugerencias sobre Reformas y/o Adiciones a las mismas;
 
@@ -687,9 +709,11 @@ II. La canalización de recursos se considerará como erogaciones devengadas del
 
 III. Los beneficiarios podrán ser las personas físicas o jurídicas colectivas que previamente hayan sido seleccionadas por la institución, dependencia o entidad otorgante, previa opinión favorable del IDSCEA.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 37.
 
-La concurrencia de los recursos provenientes del sector público o privado, destinados al financiamiento de las actividades de ciencia, tecnología e innovación que se realicen en el Estado, serán intransferibles a otra actividad distinta por lo que deberá aplicarse exclusiva y obligatoriamente al fomento de las actividades directamente vinculadas a la realización de proyectos específicos de investigación científica, modernización, innovación y desarrollos tecnológicos; becas y formación de recursos humanos especializados; divulgación de ciencia y la tecnología; creación, desarrollo o consolidación de grupos de investigadores o centros de investigación, así como para otorgar estímulos y reconocimientos a investigadores y expertos en tecnología.
+La concurrencia de los recursos provenientes del sector público o privado, destinados al financiamiento de las actividades de ciencia, tecnología e innovación que se realicen en el Estado, serán intransferibles a otra actividad distinta por lo que deberá aplicarse exclusiva y obligatoriamente al fomento de las actividades directamente vinculadas a la realización de proyectos específicos de investigación científica, modernización, innovación y desarrollos tecnológicos; becas y formación de recursos humanos especializados; divulgación de ciencia y la tecnología; creación, desarrollo o consolidación de grupos o centros de investigación, así como para otorgar estímulos y reconocimientos a personas dedicadas a la investigación o al desarrollo de tecnología.
 
 Los órganos de gobierno de las instituciones, centros y entidades podrán establecer apoyos y criterios conforme a los cuales el personal de los mismos pueda realizar la incubación de empresas tecnológicas de innovación en coordinación con la propia institución, centro o entidad, según corresponda y, en su caso; con terceros.
 
@@ -713,9 +737,11 @@ Las reasignaciones de recursos de un proyecto que por necesidades del servicio r
 
 ### CAPÍTULO SEGUNDO. De Los Fondos
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 40.
 
-El objeto de cada fondo invariablemente será el otorgamiento de apoyos y financiamientos para: actividades directamente vinculadas al desarrollo de la investigación científica, tecnológica e innovación; becas y formación de recursos humanos especializados; desarrollo al impulso del fomento a las vocaciones científicas y tecnológicas; realización de proyectos específicos de investigación científica, modernización, innovación, y desarrollos tecnológicos; divulgación de la ciencia, la tecnología e innovación; creación, desarrollo o consolidación de grupos de investigadores o centros de investigación, así como otorgar estímulos y reconocimientos a investigadores y expertos en tecnología, en ambos casos asociados a la evaluación de sus actividades y resultados.
+El objeto de cada fondo invariablemente será el otorgamiento de apoyos y financiamientos para: actividades directamente vinculadas al desarrollo de la investigación científica, tecnológica e innovación; becas y formación de recursos humanos especializados; desarrollo al impulso del fomento a las vocaciones científicas y tecnológicas; realización de proyectos específicos de investigación científica, modernización, innovación, y desarrollos tecnológicos; divulgación de la ciencia, la tecnología e innovación; creación, desarrollo o consolidación de grupos o centros de investigación, así como otorgar estímulos y reconocimientos a personas dedicadas a la investigación, así como a personas dedicadas al desarrollo de tecnología, en ambos casos asociados a la evaluación de sus actividades y resultados.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2017)</small>
 
@@ -813,9 +839,13 @@ V. El planteamiento de las acciones, medidas y esfuerzos a realizar a mediano y 
 
 El REICyTEA estará integrado con la información, datos, estudios e investigaciones destinadas a difundir, divulgar, promover y fomentar la ciencia y la tecnología en general, como instrumento para desarrollar de manera armónica y sustentable las capacidades científicas y tecnológicas del Estado.
 
-El REICyTEA permitirá establecer el Sistema Estatal de Investigadores, el Sistema de Información sobre Investigación Científica y Tecnológica y el Registro Estatal de Instituciones y Empresas de Innovación, Científicas y Tecnológicas en Aguascalientes
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
-El Instituto a través del REICyTEA, en el ámbito de su competencia coadyuvará con el CONACYT a la estrategia nacional para democratizar la información Científica. Tecnológica y de Innovación, con el fin de fortalecer las capacidades del Estado y del país para que el conocimiento universal esté disponible a los educandos, educadores, académicos, investigadores, científicos, expertos en tecnología y población en general, a través de un acceso abierto.
+El REICyTEA permitirá establecer el Sistema Estatal de Investigación, el Sistema de Información sobre Investigación Científica y Tecnológica y el Registro Estatal de Instituciones y Empresas de Innovación, Científicas y Tecnológicas en Aguascalientes.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+El Instituto a través del REICyTEA, en el ámbito de su competencia coadyuvará con el CONACYT a la estrategia nacional para democratizar la información Científica, Tecnológica y de Innovación, con el fin de fortalecer las capacidades del Estado y del país para que el conocimiento universal esté disponible a los educandos, a las personas dedicadas a la enseñanza, la academia, la investigación, la ciencia, la tecnología y a la población en general, a través de un acceso abierto.
 
 Asimismo, el Instituto a través del REICyTEA establecerá los lineamientos para garantizar el Acceso Abierto a la información científica, tecnológica y de innovación generada con recursos públicos estatales a texto completo, en formatos digitales, en los términos de la presente Ley.
 
@@ -825,7 +855,9 @@ Corresponde al IDSCEA integrar, administrar, continuar y actualizar el REICyTEA.
 
 En el REICyTEA podrá incluirse cualquier otra información en relación con la actividad de investigación en ciencia y tecnología realizada en el Estado, debiéndose incluir en todo caso la fuente de la información proporcionada.
 
-Los investigadores, expertos en tecnología, académicos y estudiantes de maestría, doctorado y posdoctorado, cuya actividad de investigación sea financiada con recursos públicos estatales o que hayan utilizado infraestructura pública en su realización, por decisión personal podrán, autorizar expresamente el depósito de una copia de la versión final aceptada para publicar en Acceso Abierto, comprobando que ha cumplido con el proceso de aprobación respectivo, lo anterior bajo los términos que al efecto establezca el IDSCEA.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+El personal académico, de investigación, de tecnología y estudiantes de maestría, doctorado y posdoctorado, cuya actividad de investigación sea financiada con recursos públicos estatales o que hayan utilizado infraestructura pública en su realización, por decisión personal podrán, autorizar expresamente el depósito de una copia de la versión final aceptada para publicar en Acceso Abierto, comprobando que ha cumplido con el proceso de aprobación respectivo, lo anterior bajo los términos que al efecto establezca el IDSCEA.
 
 ###### Artículo 50.
 
@@ -853,9 +885,11 @@ Para el efecto se promoverá la vinculación permanente de las instituciones que
 
 Las Unidades de Vinculación, y Transferencia de Tecnología y Conocimiento o las que hace referencia el párrafo que antecede, podrán constituirse mediante la figura jurídica que mejor convenga a sus objetivos y en ningún caso podrán pagar su gasto operativo o de operación con recursos públicos dedicados al desarrollo tecnológico, investigación e innovación. Los recursos que le sean asignados presupuestariamente deberán de destinarse exclusivamente a generar y ejecutar proyectos en materia de desarrollo tecnológico, investigación e innovación así como a promover su vinculación con los sectores productivos del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 53.
 
-Las instituciones de educación, los Centros Públicos de Investigación y las entidades de la administración pública que realicen actividades de investigación científica, desarrollo tecnológico e innovación promoverán conjuntamente con los sectores público y privado la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica y redes regionales de innovación en las cuales se incorporarán los desarrollos tecnológicos e innovaciones realizadas en dichas instituciones de educación, Centros y entidades, así como de los investigadores, académicos y personal especializado adscritos a la institución, Centro o entidad, que participen en la parte sustantiva del proyecto.
+Las instituciones de educación, los Centros Públicos de Investigación y las entidades de la administración pública que realicen actividades de investigación científica, desarrollo tecnológico e innovación promoverán conjuntamente con los sectores público y privado la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica y redes regionales de innovación en las cuales se incorporarán los desarrollos tecnológicos e innovaciones realizadas en dichas instituciones de educación, centros y entidades, así como del personal académico, de investigación y especializado adscritos a la institución, centro o entidad, que participen en la parte sustantiva del proyecto.
 
 Con relación a lo dispuesto en el párrafo anterior, los órganos de gobierno de las instituciones de educación, Centros y entidades aprobarán y establecerán lo siguiente:
 
@@ -881,13 +915,17 @@ Los términos, requisitos y criterios a que se refiere la presente fracción ser
 
 Los órganos de gobierno o equivalente también determinarán lo relativo a los derechos de propiedad intelectual y los beneficios que correspondan a instituciones de educación, Centros y entidades en relación a lo dispuesto en este artículo.
 
-Para promover la comercialización de los derechos de propiedad intelectual e industrial de las instituciones, centros y entidades, los órganos de gobierno o equivalente aprobarán los lineamientos que permitan otorgar a los investigadores, académicos y personal especializado, que los haya generado hasta 70% de las regalías que se generen.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+Para promover la comercialización de los derechos de propiedad intelectual e industrial de las instituciones, centros y entidades, los órganos de gobierno o equivalente aprobarán los lineamientos que permitan otorgar al personal académico, de investigación y especializado que los haya generado hasta 70% de las regalías que se obtengan.
 
 ###### Artículo 54.
 
 Los órganos de gobierno de los centros públicos de investigación estatales sesionarán cuando menos dos veces al año, y tendrán las facultades que les confiere el instrumento legal de su creación y las siguientes atribuciones no delegables:
 
-I. Aprobar y evaluar los programas, agenda y proyectos académicos, de investigación, desarrollo tecnológico e innovación a propuesta del director o su equivalente y de los miembros de la comunidad de investigadores del propio centro;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+I. Aprobar y evaluar los programas, agenda y proyectos académicos, de investigación, desarrollo tecnológico e innovación a propuesta del director o su equivalente y de los miembros de la comunidad de investigación del propio centro;
 
 II. Aprobar la distribución del presupuesto anual definitivo de la entidad y el programa de inversiones, de acuerdo con el monto total autorizado de su presupuesto;
 
@@ -905,7 +943,9 @@ VIII. Aprobar los términos de los convenios de administración por resultados c
 
 IX. Aprobar y modificar la estructura básica de la entidad de acuerdo con el monto total autorizado de su presupuesto de servicios personales, así como definir los lineamientos y normas para conformar la estructura ocupacional y salarial, las conversiones de plazas y renivelaciones de puestos y categorías conforme a las disposiciones legales aplicables, así como a las específicas que se establezcan en el Sistema Integral de Profesionalización de cada centro;
 
-X. Establecer el sistema de profesionalización de los investigadores con criterios de estabilidad y carrera en la investigación, dentro de los recursos previstos en el presupuesto;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+X. Establecer el sistema de profesionalización del personal de investigación con criterios de estabilidad y carrera en la investigación, dentro de los recursos previstos en el presupuesto;
 
 XI. Determinar las reglas y los porcentajes conforme a los cuales el personal del centro podrá participar en los ingresos a que se refiere la fracción IV de este artículo, así como, por un periodo determinado, en las regalías que resulten de aplicar o explotar derechos de propiedad intelectual, que surjan de proyectos realizados en el centro de investigación;
 
@@ -919,9 +959,13 @@ XV. Aprobar y expedir las reglas de operación de sus programas sustantivos;
 
 XVI. Aprobar el destino de los recursos por los ahorros que se generen que provengan de las medidas de eficiencia o de racionalización administrativa;
 
-XVII. Establecer las bases y criterios generales que deberán observar los investigadores que concluyan su empleo, cargo o comisión en los Centros, para el eventual uso y aprovechamiento de la información que éstos hubiesen conocido o generado durante o con motivo de su desempeño como personal de los Centros, en los casos en que una vez separados de los Centros, decidan colaborar en forma inmediata con otra dependencia o entidad, pública o privada;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-XVIII. Definir la información que corresponda al centro público de investigación y que debe considerarse de carácter confidencial para efectos de apropiación, así como las bases y mecanismos para su uso, disposición, protección y resguardo por parte de los investigadores, y
+XVII. Establecer las bases y criterios generales que deberá observar el personal de investigación que concluyan su empleo, cargo o comisión en los centros, para el eventual uso y aprovechamiento de la información que éstos hubiesen conocido o generado durante o con motivo de su desempeño como personal de los Centros, en los casos en que una vez separados de los centros, decidan colaborar en forma inmediata con otra dependencia o entidad, pública o privada;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+XVIII. Definir la información que corresponda al centro público de investigación y que debe considerarse de carácter confidencial para efectos de apropiación, así como las bases y mecanismos para su uso, disposición, protección y resguardo por parte del personal de investigación; y
 
 XIX. Las demás que establece esta Ley.
 
@@ -1078,3 +1122,11 @@ P.O. 16 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrarán (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 597.- SE REFORMAN LOS ARTÍCULOS 1°, FRACCIONES VIII Y XI; 4°, FRACCIONES XVI Y XVII; 6°, FRACCIONES II, XVI, XVII, XXII, Y EL APARTADO C DE LA FRACCIÓN XXIII; 9°, FRACCIÓN III; 24 C, FRACCIÓN II; 37, PÁRRAFO PRIMERO; 40; 48, PÁRRAFOS SEGUNDO Y TERCERO; 49, PÁRRAFO TERCERO; 53, PÁRRAFOS PRIMERO Y SEXTO; 54, FRACCIONES I, X, XVII Y XVIII DE LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
