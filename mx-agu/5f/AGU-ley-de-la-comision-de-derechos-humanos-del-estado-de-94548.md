@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2019-09-30"
+last_updated: "2021-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -229,7 +229,9 @@ VI. Dirección de Educación en Derechos Humanos;
 
 VII. Contraloría Interna; y
 
-VIII. Las demás direcciones, coordinaciones, departamentos, personal técnico o administrativo que señalen las disposiciones reglamentarias internas.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+VIII. Las demás direcciones, coordinaciones, departamentos, personal técnico o administrativo que señalen las disposiciones reglamentarias internas, las cuales deberán integrarse conforme al principio de paridad y equidad entre mujeres y hombres.
 
 ###### ARTÍCULO 12.
 
@@ -1194,3 +1196,33 @@ La Comisión de Derechos Humanos del Estado de Aguascalientes deberá adaptar su
 ###### ARTÍCULO TERCERO.
 
 Las quejas recibidas de manera previa a la publicación de la presente reforma, deberán substanciarse conforme a los plazos
+
+P.O. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 575.- SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTICULO 8° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO).
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Poderes Ejecutivo, Judicial y Organismos Constitucionales Autónomos deberán, en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes e efecto de observar el contenido del Párrafo Segundo del artículo 8° de esta Constitución.
+
+###### ARTÍCULO TERCERO.
+
+La observancia del contenido del artículo 41 de la Constitución Politice de los Estados Unidos Mexicanos, y el artículo 8° de la Constitución Política del Estado de Aguascalientes, será aplicable a las siguientes administraciones que tomen posesión de su encargo, misma que habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley correspondiente a partir del proceso electoral siguiente a la entrada en vigor del presente Decreto, según corresponda, de la siguiente manera:
+
+A. Para el Poder Legislativo, a partir del 15 de septiembre del 2021;
+
+B. Para el Poder Ejecutivo, a partir del 01 de octubre de 2022;
+
+C. Para los Ayuntamientos, a partir del 15 de octubre de 2021;
+
+D. Para el Poder Judicial a partir del 1° de enero de 2022.
+
+E. Por lo que hace a los Organismos Constitucionales Autónomos, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que corresponda, de conformidad con la legislación correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+Las referencias o alusiones en la redacción de la Constitución Política del Estado de Aguascalientes y de las leyes que de ella emanen, hechas hacia mujeres u hombres, representa a ambos sexos, salvo que de la misma naturaleza de la norma se desprenda la individualización hacia un sexo determinado, que en ningún caso deberá implicar discriminación o trato diferenciado injusto.
