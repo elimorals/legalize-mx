@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2021-06-28"
+last_updated: "2021-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2462,6 +2462,14 @@ II. Deberá buscarse que el otorgamiento de alimentos no llegue a perjudicar la 
 III. Se deberán tomar en cuenta no solo los ingresos del deudor alimentario, sino también la capacidad de gasto y estilo de vida que lleve este último.
 
 IV. De manera oficiosa deberán recabarse aquellos medios probatorios que permitan conocer la capacidad y necesidad económica de acreedor y deudor alimentarios, respectivamente, en los términos que precise la legislación procesal vigente.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+Determinados por convenio o sentencia, los alimentos líquidos y determinados tendrán un incremento automático mínimo equivalente al aumento porcentual anual correspondiente al Salario Mínimo General, debiendo el acreedor alimentario probar que los ingresos del deudor alimentario han aumentado por lo menos en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el juez de la causa resolverá con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
 
 ###### Artículo 334.
 
@@ -17502,5 +17510,17 @@ El presente decreto iniciará su vigencia al día siguiente de su publicación e
 El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes deberá reformar sus reglamentos en orden a que el Consejo Técnico de Adopciones sesione a más tardar dentro de los 30 días naturales posteriores a que la sentencia de declaratoria de perdida de la patria potestad sobre un menor de edad cause ejecutoria, y para dar cumplimiento a lo dispuesto en el Artículos (sic) 90 del Código Civil del Estado de Aguascalientes.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan a lo establecido en el presente decreto.
+
+P.O. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 593.- SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 333 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periodo Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a lo establecido en el presente decreto.
