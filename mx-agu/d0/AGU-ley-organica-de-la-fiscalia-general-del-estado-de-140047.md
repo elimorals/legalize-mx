@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-140047"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-01-20"
-last_updated: "2021-02-22"
+last_updated: "2021-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de enero del 2020.
 
@@ -339,9 +339,11 @@ Podrán ejercer las atribuciones y facultades que correspondan a los Agentes del
 
 La procuración de justicia, como objeto inherente a la Institución del Ministerio Público, consiste en la intervención sobre los actos de autoridad, en los términos y los supuestos contemplados por las leyes, que se realiza en nombre y representación de la sociedad, con el propósito de vigilar el cumplimiento de los principios fundamentales del sistema jurídico, de la legalidad y de las formalidades esenciales del procedimiento, así como en realizar cualquier acción tendiente a la observancia estricta, la salvaguarda y la protección de los derechos humanos.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 8°.
 
-La pretensión punitiva del Estado, propia de la Institución del Ministerio Público, consiste en la persecución e investigación de los hechos presuntamente constitutivos de los delitos tipificados por las normas penales; en la conducción y coordinación de las Instituciones Policiales, la Unidad Auxiliar Sustantiva de Investigación Pericial y demás sujetos auxiliares, y en el ejercicio de la acción penal ante las autoridades judiciales, sin perjuicio de aquellos casos en los que la ley permite ejercitarla a los particulares, en el marco del procedimiento penal, en términos de lo dispuesto por la Constitución Federal, la Constitución Local, los Tratados Internacionales de los que el Estado Mexicano sea parte, el Código Nacional, los Protocolos de actuación relativos y las demás disposiciones legales aplicables.
+Los Vice Fiscales, Oficial Mayor, Directores Generales, Coordinadores y demás servidores públicos de nivel directivo serán nombrados y removidos libremente por el Fiscal General, debiendo atender al principio de paridad y equidad entre mujeres y hombres.
 
 ## TÍTULO TERCERO. ESTRUCTURA ORGÁNICA
 
@@ -2664,3 +2666,33 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 El Fiscal General deberá realizar las modificaciones administrativas y reglamentarias que se requieran para cumplir con lo ordenado por el presente Decreto, en un término no mayor a ciento ochenta días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+P.O. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 575.- SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 8° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO)”.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Poderes Ejecutivo, Judicial y Organismos Constitucionales Autónomos deberán, en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el contenido del Párrafo Segundo del artículo 8° de esta Constitución.
+
+###### ARTÍCULO TERCERO.
+
+La observancia del contenido del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, y el artículo 8° de la Constitución Política del Estado de Aguascalientes, será aplicable a las siguientes administraciones que tomen posesión de su encargo, misma que habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley correspondiente, a partir del proceso electoral siguiente a la entrada en vigor del presente Decreto, según corresponda, de la siguiente manera:
+
+A. Para el Poder Legislativo, a partir del 15 de septiembre del 2021;
+
+B. Para el Poder Ejecutivo, a partir del 01 de octubre de 2022;
+
+C. Para los Ayuntamientos, a partir del 15 de octubre de 2021;
+
+D. Para el Poder Judicial a partir del 1° de enero de 2022.
+
+E. Por lo que hace a los Organismos Constitucionales Autónomos, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que corresponda, de conformidad con la legislación correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+Las referencias o alusiones en la redacción de la Constitución Política del Estado de Aguascalientes y de las leyes que de ella emanen, hechas hacia mujeres u hombres, representa a ambos sexos, salvo que de la misma naturaleza de la norma se desprenda la individualización hacia un sexo determinado, que en ningún caso deberá implicar discriminación o trato diferenciado injusto.
