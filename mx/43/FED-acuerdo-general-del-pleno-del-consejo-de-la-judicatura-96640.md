@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2021-07-12"
+last_updated: "2021-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE AGOSTO DE 2021.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -849,9 +849,9 @@ I. Ordenar, en el ámbito de su competencia, el inicio del procedimiento de resp
 
 Asimismo, ordenará el inicio del procedimiento de responsabilidad administrativa en contra de particulares cuando la falta atribuida los vincule a alguno de los servidores públicos señalados en el párrafo anterior o a algún procedimiento jurisdiccional o administrativo del Consejo;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA EJECUCIÓN DE SANCIONES DISCIPLINARIAS, D.O.F. 2 DE AGOSTO DE 2021)</small>
 
-II. Ejecutar el apercibimiento público y amonestación pública de los magistrados de Circuito y jueces de Distrito, así como notificar las suspensiones impuestas como sanción administrativa a dichos titulares;
+II. Ejecutar el apercibimiento público y amonestación pública de los magistrados de Circuito y jueces de Distrito;
 
 III. Resolver lo relativo a la imposición de multas a aquellas personas que falten al respeto a algún órgano o miembro del Poder Judicial de la Federación en las promociones que presenten con motivo de denuncias o quejas administrativas, así como a quienes promuevan sin motivo procedimientos administrativos de responsabilidad;
 
@@ -6500,3 +6500,11 @@ D.O.F. 12 DE JULIO DE 2021.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA EJECUCIÓN DE SANCIONES DISCIPLINARIAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
