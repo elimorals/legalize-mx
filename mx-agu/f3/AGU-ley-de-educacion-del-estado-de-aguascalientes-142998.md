@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2021-06-29"
+last_updated: "2021-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -329,7 +329,9 @@ XXIII. Establecer, de acuerdo con la suficiencia presupuestal, programas de entr
 
 XXIV. Establecer mecanismos para otorgar facilidades a estudiantes embarazadas para que reciban los cuidados médicos adecuados hasta la conclusión del puerperio, y puedan ingresar, permanecer o reingresar a la institución educativa de que se trate, sin interrumpir o afectar el ciclo escolar que se encuentren cursando.
 
-XXV. Proporcionar apoyos económicos y asistenciales, tales como desayunos, transportes escolares, y becas para alumnos que pertenezcan a familias de escasos recursos, en coordinación con las diversas dependencias de Gobierno que apoyen tales fines;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+XXV. Proporcionar apoyos económicos y asistenciales, tales como desayunos, transportes escolares y becas para alumnos que pertenezcan a familias de escasos recursos; así como, facilitar desde una perspectiva de género, de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, el acceso gratuito a los productos de gestión menstrual para niñas y mujeres, en las escuelas públicas pertenecientes al Sistema Educativo Estatal, en coordinación con las diversas dependencias de Gobierno que apoyen tales fines;
 
 XXVI. Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural, dando preferencia a los hijos de madres trabajadoras;
 
@@ -1221,7 +1223,9 @@ VI. Tener un docente frente a grupo que contribuya al logro de su aprendizaje y 
 
 VII. Participar de los procesos que se deriven en los planteles educativos como centros de aprendizaje comunitario;
 
-VIII. Recibir becas y demás apoyos económicos priorizando a los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+VIII. Recibir becas, productos adecuados para la gestión menstrual, tales como, toallas sanitarias desechables y de tela, tampones, copas menstruales o cualquier otro destinado a la gestión menstrual y demás apoyos económicos priorizando a las y los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
 
 IX. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas, y
 
@@ -2204,3 +2208,11 @@ P.O. 29 DE JUNIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 594.- SE REFORMAN LOS ARTÍCULOS 9°, FRACCIÓN XXV Y 71, FRACCIÓN VIII DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
