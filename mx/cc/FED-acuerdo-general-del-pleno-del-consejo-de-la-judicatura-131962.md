@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-131962"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-07"
-last_updated: "2021-07-12"
+last_updated: "2021-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-11-30"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE AGOSTO DE 2021.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2018.
 
@@ -1699,9 +1699,11 @@ En caso de que se trate de un ex servidor público sancionado, será citado en l
 
 c) Sanción económica: se dará a conocer a través de la autoridad substanciadora en términos de este Acuerdo y deberá comunicarla al Servicio de Administración Tributaria para efectos de la ejecución; y
 
-d) Suspensión, destitución e inhabilitación: en caso de que el servidor público sancionado sea magistrado de Circuito, juez de Distrito o titular de área administrativa se citará en el edificio sede del Consejo para que, en presencia de la Comisión, el presidente de la misma dé a conocer la sanción.
+d) (DEROGADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA EJECUCIÓN DE SANCIONES DISCIPLINARIAS, D.O.F. 2 DE AGOSTO DE 2021)
 
-En los demás casos, se dará a conocer a través de notificación personal realizada por la Secretaría o la Contraloría o, en su caso, con el apoyo de un juez de Distrito o del titular del área administrativa a la que se encuentre adscrito el servidor público sancionado; y
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA EJECUCIÓN DE SANCIONES DISCIPLINARIAS, D.O.F. 2 DE AGOSTO DE 2021)</small>
+
+En los demás casos, se dará a conocer a través de notificación personal realizada por la Secretaría o la Contraloría o, en su caso, con el apoyo de un juez de Distrito o del titular del área administrativa a la que se encuentre adscrito el servidor público sancionado.
 
 III. Tratándose de particulares:
 
@@ -3198,3 +3200,11 @@ D.O.F. 12 DE JULIO DE 2021.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA EJECUCIÓN DE SANCIONES DISCIPLINARIAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
