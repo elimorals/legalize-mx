@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2021-04-05"
+last_updated: "2021-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -761,7 +761,13 @@ V.- Fomentar la paternidad y la maternidad responsables;
 
 VI.- Asesorar a los padres de familia para atender problemas de alcoholismo, drogadicción, adulterio y otros semejantes, que atenten contra la integridad de la familia;
 
-VII.- En general, brindar la atención a todas aquellas cuestiones indispensables para el bienestar de la familia.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+VII.- En general, brindar la atención a todas aquellas cuestiones indispensables para el bienestar de la familia; y
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+VIII.- Promover el desarrollo de habilidades parentales en un marco de crianza positiva, fundada en el ejercicio de la responsabilidad, obligaciones y derechos parentales, para garantizar los derechos de niñas, niños y adolescentes en el seno de la familia y potenciar el sano desarrollo integral;
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1758,3 +1764,15 @@ P.O. 5 DE ABRIL DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 592.- SE REFORMAN LAS FRACCIONES DE LA V A LA XXXIII DEL ARTÍCULO 4°; LA FRACCIÓN I DEL ARTÍCULO 47; LAS FRACCIONES V, VII Y VIII DEL ARTÍCULO 96; LA FRACCIÓN IV DEL ARTÍCULO 98 Y LA FRACCIÓN XXIII DEL ARTÍCULO 112 Y SE ADICIONAN LAS FRACCIONES XXXIV, XXXV Y XXXVI AL ARTÍCULO 4°; UN TERCER PÁRRAFO AL ARTÍCULO 46; LA FRACCIÓN XXIV AL ARTÍCULO 112 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo en el Estado deberá emitir en un término no mayor a ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, los lineamientos que tengan por objeto la implementación de políticas que favorezcan y garanticen herramientas para la crianza positiva en el hogar y en los entornos de desarrollo de las niñas, niños y adolescentes.
