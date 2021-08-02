@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2021-06-28"
+last_updated: "2021-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -99,97 +99,133 @@ III. Adopción Internacional: Aquella que se realice en los términos de los tra
 
 IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-V. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-VI. Certificado de Idoneidad: El documento expedido por el Sistema Nacional DIF o por el Sistema DIF Estatal, o por la autoridad central de país de origen de los adoptantes en el caso de una adopción internacional, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
+V. Castigo Corporal: Todo castigo en el que se utilice de manera severa o innecesaria la fuerza física y tenga por objeto causar dolor o malestar;
 
-VII. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-VIII. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
+VI. Castigo Humillante: Cualquier trato que vulnere la dignidad, la salud mental y psicológica de niñas, niños y adolescentes, donde se emplee el trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador, de menosprecio, con el objeto de provocar dolor, amenaza, molestia o humillación; y que no corresponda con la naturaleza intrínseca de las medidas correctivas como medio de disciplina positiva en beneficio de niñas, niños y adolescentes.
 
-IX. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-X. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
+VII. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
 
-XI. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XII. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior;
+VIII. Certificado de Idoneidad: El documento expedido por el Sistema Nacional DIF o por el Sistema DIF Estatal, o por la autoridad central de (sic) país de origen de los adoptantes en el caso de una adopción internacional, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
 
-XIII. Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XIV. Informe de Adoptabilidad: El documento expedido por el Sistema Nacional DIF o por el Sistema DIF Estatal, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
+IX. Crianza Positiva: Comportamiento de las madres, padres y de quienes ejerzan la patria potestad, guarda y custodia o bien la tutela, con base en el interés superior de la niñez, que promueve la atención, el desarrollo de capacidades y la no violencia, ofreciendo el reconocimiento y orientación necesaria sin dejar de contemplar el establecimiento de los límites relativos a la disciplina, los cuales permitan el pleno desarrollo de las niñas, niños y adolescentes;
 
-XV. Interés superior: Interés superior de la niña, el niño, la o el adolescente.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XVI. Ley: Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes;
+X. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
 
-XVII. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XVIII. Órgano Jurisdiccional: Los juzgados o tribunales del Estado de Aguascalientes;
+XI. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XIX. Primera infancia: Es la primera etapa de la niñez que comprende hasta los cinco años de edad, en la que se sientan las bases para el desarrollo ulterior de las niñas y los niños, donde adquieren forma y complejidad sus habilidades, capacidades y potenciales;
+XII. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XX. Procuraduría de Protección Local: La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes;
+XIII. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXI. Procuraduría de Protección Federal: Procuraduría Federal de Protección de Niñas, Niños y Adolescentes;
+XIV. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXII. Programa Estatal: El Programa de Protección Integral de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
+XV. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXIII. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
+XVI. Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXIV. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno, con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Ley General, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
+XVII. Informe de Adoptabilidad: El documento expedido por el Sistema Nacional DIF o por el Sistema DIF Estatal, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección Local, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XVIII. Interés superior: Interés superior de la niña, el niño, la o el adolescente;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXVI. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+XIX. Ley: Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXVII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección Local, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XX. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXVIII. Sistema Local de Protección: Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
+XXI. Órgano Jurisdiccional: Los juzgados o tribunales del Estado de Aguascalientes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXIX. Sistema de Protección Municipal: Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes, que operará en cada uno de los Municipios del Estado de Aguascalientes;
+XXII. Procuraduría de Protección Local: La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXX. Sistema DIF Estatal.- El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes;
+XXIII. Procuraduría de Protección Federal: Procuraduría Federal de Protección de Niñas, Niños y Adolescentes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXXI. Sistemas DIF Municipales.- Los Sistemas para el Desarrollo Integral de la Familia de cada uno de los Municipios del Estado de Aguascalientes;
+XXIV. Programa Estatal: El Programa de Protección Integral de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXXII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+XXV. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXXIII. Sistema Nacional de Protección: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes; y
+XXVI. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno, con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Ley General, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXXIV. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXVII. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que, de manera oficiosa, quedará a cargo de la Procuraduría de Protección Local, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+
+XXVIII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+
+XXIX. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección Local, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+
+XXX. Sistema Local de Protección: Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+
+XXXI. Sistema de Protección Municipal: Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes, que operará en cada uno de los Municipios del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+
+XXXII. Sistema DIF Estatal.- El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+
+XXXIII. Sistemas DIF Municipales.- Los Sistemas para el Desarrollo Integral de la Familia de cada uno de los Municipios del Estado de Aguascalientes;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+
+XXXIV. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+
+XXXV. Sistema Nacional de Protección: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+
+XXXVI. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
 ###### Artículo 5°.
 
@@ -659,11 +695,17 @@ Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda form
 
 Las niñas, niños y adolescentes tienen derecho a no sufrir violencia en el ámbito digital. Tanto las autoridades como quienes ejerzan la patria potestad, tutela, guarda o custodia o bien, quienes, sin tener dicho carácter, los tengan bajo su cuidado, deberán tomar acciones para detectar y atender en forma integral aquellos casos en que se utilicen las tecnologías de la información y comunicación para amenazar, acosar, agredir o vulnerar la dignidad, intimidad, libertad, desarrollo psicosexual y vida privada de niñas, niños y adolescentes.
 
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza positiva de la madre, el padre, de quienes ejerzan la patria potestad, tutela o guarda y custodia o de cualquier otra persona que los tenga a su cuidado, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, estos puedan hacer uso del castigo corporal y humillante.
+
 ###### Artículo 47.
 
 Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
 
-I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+I. El descuido, negligencia, abandono, abuso físico, psicológico o sexual o castigo corporal y humillante;
 
 II. La corrupción de personas menores de dieciocho años de edad;
 
@@ -865,7 +907,9 @@ XV. Promover la disciplina escolar de modo compatible con la dignidad humana, im
 
 XVI. Procurar la erradicación de las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-XVII. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+XVII. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente, así como el cuidado y procuración del bienestar de los animales;
 
 XVIII. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación; y
 
@@ -1291,13 +1335,19 @@ III. Asegurar que cursen la educación obligatoria, participar en su proceso edu
 
 IV. Impartir en consonancia con la evolución de sus facultades, dirección y orientación apropiada a niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos, atendiendo al interés superior;
 
-V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+V. Asegurar y ofrecer un entorno afectivo, comprensivo y sin violencia para el pleno y armonioso desarrollo integral a través de una crianza positiva, mediante el cuidado cariñoso, los vínculos filiales sanos, las relaciones no violentas, respetuosas, positivas y participativas, conforme al grado de madurez y desarrollo de las niñas, niños y adolescentes, que garantice el ejercicio de sus derechos conforme a la presente ley y demás disposiciones jurídicas aplicables.
 
 VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
-VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
+VII. Protegerles contra toda forma de violencia, maltrato, castigo corporal o humillante, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+VIII. Observar la prohibición de aplicar castigos corporales, tratos humillantes o degradantes como formas de corrección disciplinaria, de todo atentado contra la integridad física, psicológica o todo acto que menoscabe su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
 
 IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
 
@@ -1341,7 +1391,9 @@ II. Que las autoridades migratorias verifiquen la existencia de la autorización
 
 III. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas; y
 
-IV. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+
+IV. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal o humillante.
 
 ###### Artículo 99.
 
@@ -1641,15 +1693,15 @@ XX. Celebrar convenios de coordinación en la materia que correspondan en el ám
 
 XXI. Coordinarse con los Sistemas Municipales de Protección, que establezcan los Municipios del Estado para el cumplimiento de lo dispuesto en esta Ley y en la Ley General;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXII. Realizar por sí o por convenio con terceros especialistas, brigadas y recorridos institucionales e interinstitucionales diurnos y nocturnos, encuestas anuales, censos de población infantil en situación de calle, a fin de sectorizar a las familias y su problemática, y atender las necesidades primarias en las zonas identificadas de alto riesgo, debiendo enviar al Congreso del Estado de Aguascalientes, el análisis y las estadísticas de los resultados de las anteriores actividades;
+XXII. Diseñar e implementar las políticas y programas necesarios para la prevención de la violación de los derechos de niñas, niños y adolescentes;
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
-XXIII. Implementar políticas, acciones y convenios con instituciones públicas y organizaciones de la sociedad civil, en los que se establezcan lineamientos encaminados a la protección y dignificación de la población infantil y juvenil callejera, donde se abran espacios de diálogo para atender a sus necesidades y con base en ellas se establezcan parámetros para brindarles una atención integral; y
+XXIII. Establecer programas de formación para padres de familia que promuevan el desarrollo de habilidades y herramientas para la educación parental en el marco de una crianza positiva a favor de las niñas, niños y adolescentes; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA ], P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
 XXIV. Las demás que les otorguen otras disposiciones aplicables.
 
@@ -2432,3 +2484,23 @@ P.O. 28 DE JUNIO DE 2021.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 592.- SE REFORMAN LAS FRACCIONES DE LA V A LA XXXIII DEL ARTÍCULO 4°; LA FRACCIÓN I DEL ARTÍCULO 47; LAS FRACCIONES V, VII Y VIII DEL ARTÍCULO 96; LA FRACCIÓN IV DEL ARTÍCULO 98 Y LA FRACCIÓN XXIII DEL ARTÍCULO 112 Y SE ADICIONAN LAS FRACCIONES XXXIV, XXXV Y XXXVI AL ARTÍCULO 4°; UN TERCER PÁRRAFO AL ARTÍCULO 46; LA FRACCIÓN XXIV AL ARTÍCULO 112 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo en el Estado deberá emitir en un término no mayor a ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, los lineamientos que tengan por objeto la implementación de políticas que favorezcan y garanticen herramientas para la crianza positiva en el hogar y en los entornos de desarrollo de las niñas, niños y adolescentes.
+
+P.O. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 596.- SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 57 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
