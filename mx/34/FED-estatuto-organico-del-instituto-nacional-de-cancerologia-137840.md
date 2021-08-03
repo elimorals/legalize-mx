@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-cancerologia-137840
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-08-26"
-last_updated: "2019-08-26"
+last_updated: "2021-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137840&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-08-22"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CANCEROLOGÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE AGOSTO DE 2021.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 26 de agosto de 2019.
 
@@ -33,19 +33,37 @@ ESTATUTO ORGÁNICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 1o.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL D.O.F. DE 3 DE AGOSTO DE 2021, PÁGINA 71.]</small>
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+###### ARTÍCULO 1.
 
 El Instituto Nacional de Cancerología es un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, agrupado en el Sector Salud, que tiene por objeto principal, en el campo de las neoplasias, la investigación científica, la formación y capacitación de recursos humanos calificados y la prestación de servicios de atención médica de alta especialidad, y cuyo ámbito de acción comprende todo el territorio nacional.
 
-###### ARTÍCULO 2o.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL D.O.F. DE 3 DE AGOSTO DE 2021, PÁGINA 71.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+###### ARTÍCULO 2.
 
 Para los efectos de este Estatuto, se entenderá por:
 
-I. Ley: la Ley de los Institutos Nacionales de Salud, y
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+I. Ley: la Ley de los Institutos Nacionales de Salud.
 
 II. Instituto: el Instituto Nacional de Cancerología
 
-###### ARTÍCULO 3o.
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+III. Secretaría: Secretaría de Salud.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL D.O.F. DE 3 DE AGOSTO DE 2021, PÁGINA 71.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+###### ARTÍCULO 3.
 
 Para el cumplimiento de su objeto el Instituto tendrá las siguientes funciones:
 
@@ -75,9 +93,15 @@ XII. Promover acciones para la protección de la salud, en lo relativo a los pad
 
 XIII. Coadyuvar con la Secretaría a la actualización de los datos sobre la situación sanitaria general del país, respecto de las especialidades médicas que le corresponda, y
 
-XIV. Realizar las demás actividades que les corresponda conforme a la Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-###### ARTÍCULO 4o.
+XIV. Realizar las demás actividades que le corresponda conforme a la Ley y otras disposiciones aplicables.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL D.O.F. DE 3 DE AGOSTO DE 2021, PÁGINA 71.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+###### ARTÍCULO 4.
 
 Para el cumplimiento de su objeto y desempeño de las atribuciones que le competen, el Instituto contará con los siguientes órganos, unidades, comisiones y comités:
 
@@ -101,9 +125,13 @@ a) Órgano de Vigilancia
 
 b) Órgano Interno de Control
 
-IV.- UNIDADES ADMINISTRATIVAS Y SUSTANTIVAS:
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-a) Dirección General Adjunta Médica.
+IV UNIDADES ADMINISTRATIVAS Y SUSTANTIVAS:
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+a) Dirección Médica.
 
 1 Subdirección de Medicina Interna.
 
@@ -129,7 +157,9 @@ c) Dirección de Docencia.
 
 1 Subdirección de Educación Médica.
 
-d) Dirección de Administración.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+d) Dirección de Administración y Finanzas.
 
 1 Subdirección de Administración y Desarrollo de Personal.
 
@@ -145,69 +175,159 @@ e) Adscritos a la Dirección General:
 
 1 Subdirección de Asuntos Jurídicos.
 
-f) Clínicas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-Clínica de Ostomías.
+f) Clínicas y Centros:
 
-Clínica del Dolor y Cuidados Paliativos.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-Clínica de Tabaquismo.
+1. Clínica de Ostomías y Heridas Quirúrgicas.
 
-Clínica de Cáncer y Síndrome Inmuno Deficiencia Adquirida
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+2. Clínica del Dolor.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+3. Clínica de Tabaquismo.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+4. Clínica de Cáncer y Síndrome Inmuno Deficiencia Adquirida.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+5. Clínica de Cáncer Hereditario.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+6. Centro de Investigación en Prevención.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+7. Centro de Investigación Farmacológica.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+8. Centro de Mezclas.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+9. Centro de Apoyo para la Atención Integral.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 3 DE AGOSTO DE 2021)</small>
 
 g) Servicios:
 
-Servicio de Psico-oncología.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-Servicio de Medicina Interna.
+1. Servicio de Psico-oncología.
 
-Unidad de Transplante y Médula Ósea.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-Servicio de Aplicación de Quimioterapia.
+2. Servicio de Medicina Interna.
 
-Servicio de Aplicación de Catéter.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-Servicio de Neumología y Cirugía de Tórax.
+3. Unidad de Trasplante y Médula Ósea.
 
-Servicio de Colposcopia-Displasias.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-Servicio de Prótesis Maxilofacial.
+4. Servicio de Aplicación de Quimioterapia.
 
-Servicio de Oftalmología.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-Servicio de Neurología y Neurocirugía.
+5. Servicio de Aplicación de Catéter.
 
-Servicio de Odontología.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-Servicio de Otorrinolaringología.
+6. Servicio de Neumología y Cirugía de Tórax.
 
-Servicio de Citoscopía.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-Servicio de Endoscopia.
+7. Servicio de Colposcopia-Displasias.
 
-Servicio de Quirófanos.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-Servicio de Terapia Intensiva.
+8. Servicio de Prótesis Maxilofacial.
 
-Servicio de Recuperación.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-Servicio de Inhaloterapia.
+9. Servicio de Oftalmología.
 
-Servicio de Medicina Hiperbárica.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-Servicio de Hospitalización 5to. Piso NTH.
+10. Servicio de Neurología y Neurocirugía.
 
-Servicio de Hospitalización 6to. Piso NTH.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-Servicio de Hospitalización 7mo.Piso NTH.
+11. Servicio de Odontología.
 
-Servicio de Centro de Suministro y Control de Material
+12. (DEROGADO, D.O.F. 3 DE AGOSTO DE 2021)
 
-Servicio de Central de Equipos y Esterilización
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-Servicio de Consulta Externa.
+13. Servicio de Cistoscopia.
 
-Asimismo, el Instituto contará con las unidades subalternas necesarias para el ejercicio de sus funciones, previa autorización de las Secretarías de Hacienda y Crédito Público y de la Función Pública.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+14. Servicio de Endoscopia.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+15. Servicio de Quirófanos.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+16. Servicio de Terapia Intensiva.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+17. Servicio de Recuperación.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+18. Servicio de Inhaloterapia.
+
+19. (DEROGADO, D.O.F. 3 DE AGOSTO DE 2021).
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+20. Servicio de Hospitalización 5to. Piso NTH.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+21. Servicio de Hospitalización 6to. Piso NTH.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+22. Servicio de Hospitalización 7mo. Piso NTH.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+23. Servicio de Centro de Suministro y Control de Material.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+24. Servicio de Central de Equipos y Esterilización.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+25. Servicio de Consulta Externa.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+26. Servicio de Atención Inmediata.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+27. Servicio de Cuidados Paliativos.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+Asimismo, el Instituto contará con las jefaturas de departamento, grupos de trabajo, unidades funcionales o unidades subalternas necesarias para el ejercicio de sus funciones, previa autorización de las Secretarías de Hacienda y Crédito Público y de la Función Pública, en su caso. La adscripción de las áreas internas citadas, se regulará en los manuales de organización o documento internos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 3 DE AGOSTO DE 2021)</small>
 
 V.- COMISIONES Y COMITÉS
 
@@ -219,11 +339,15 @@ c) Comité de Obras Públicas y Servicios Relacionados con las mismas
 
 d) Comité de Bienes Muebles.
 
-e) Comité de Informática.
+e) (DEROGADO, D.O.F. 3 DE AGOSTO DE 2021)
 
-f) Comisión Mixta de Seguridad e Higiene en el Trabajo del Instituto Nacional de Cancerología.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-g) Comisión Mixta de Escalafón del Instituto Nacional de Cancerología.
+f) Comisión Central Mixta de Seguridad e Higiene en el Trabajo.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+g) Comisión Auxiliar Mixta de Escalafón.
 
 h) Comité de Ética en Investigación.
 
@@ -233,45 +357,103 @@ j) Comité de Control y Desempeño Institucional.
 
 k) Comité de Expediente Clínico.
 
-l) Comité de Infecciones Intrahospitalarias.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-m) Comité de Calidad.
+l) Comité de Epidemiología y Control de Infecciones Nosocomiales.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+m) Comité de Calidad y Seguridad del Paciente.
 
 n) Comité de Mejora Regulatoria Interna.
 
-o) Comité Interno Encargado de Vigilar el Uso de Recursos Destinados a la Investigación
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+o) Comité Interno de Vigilancia del Uso de Recursos Destinados a la Investigación.
 
 p) Comité Interno para el Uso Eficiente de la Energía.
 
-q) Comité de Información
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-r) Comité de Ingreso
+q) Comité de Transparencia.
+
+r) (DEROGADO, D.O.F. 3 DE AGOSTO DE 2021)
 
 s) Comisión Central Mixta de Capacitación
 
-t) Comisión Mixta de Vestuario y Equipo
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-u) Comisión Mixta para la Convivencia Infantil
+t) Comisión Central Mixta de Vestuario y Equipo.
 
-v) Comité Mixto Evaluador para la Productividad y el Desempeño
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-w) Comité Evaluador para el Otorgamiento de Premios, Estímulos y Recompensas al Personal
+u) Comisión Mixta para la Convivencia Infantil de Verano.
 
-x) Comité de Ética y de Prevención de Conflictos de Interés
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+v) Comisión Mixta de Evaluación Permanente.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+w) Comisión Mixta Evaluadora para el Otorgamiento de Premios, Estímulos y Recompensas al Personal.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+x) Comité de Ética.
 
 y) Comité para Cancelar Adeudos a Cargo de Terceros y a Favor del INCan
 
 z) Comité de Medicamentos
 
-El Instituto cuenta con un Órgano Interno de Control que se regirá conforme a lo dispuesto en el artículo 69 de este Estatuto.
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-###### ARTÍCULO 5o.
+aa) Comité de Investigación.
 
-El Instituto para su desarrollo y operación, conducirá sus actividades en forma programada y de conformidad con la Ley Federal de las Entidades Paraestatales, Ley de Planeación, Ley de Presupuesto y Responsabilidad Hacendaria, la Ley, las políticas, estrategias y prioridades del Plan Nacional de Desarrollo, así como con las disposiciones que emita la Secretaría de Salud en su carácter de Coordinadora del Sector y de su respectivo programa institucional.
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+bb) Comité Interno para el Cuidado y Uso de los Animales de Laboratorio.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+cc) Comité de Bioseguridad.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+dd) Comité de Uso de Sangre y Componentes Sanguíneos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+ee) Comisión Mixta de Bienestar Físico de los Trabajadores.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+ff) Comisión Mixta de Equidad de Género en el Trabajo.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+gg) Comité de Morbi-Mortalidad.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+hh) Consejo Técnico de Administración y Programación.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+El Instituto cuenta con un Órgano Interno de Control que se regirá conforme a lo dispuesto en el artículo 69 de este Estatuto y demás normatividad aplicable.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+###### ARTÍCULO 5.
+
+El Instituto para su desarrollo y operación, conducirá sus actividades en forma programada y de conformidad con la Ley Federal de las Entidades Paraestatales, Ley Federal de Austeridad Republicana, Ley de Planeación, Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley, las políticas, estrategias y prioridades del Plan Nacional de Desarrollo, así como con las disposiciones que emita la Secretaría de Salud en su carácter de Coordinadora del Sector y de su respectivo programa institucional.
 
 ### CAPÍTULO II. DE LA JUNTA DE GOBIERNO
 
-###### ARTÍCULO 6o.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL D.O.F. DE 3 DE AGOSTO DE 2021, PÁGINA 71.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+###### ARTÍCULO 6.
 
 La Junta de Gobierno es el órgano de administración del Instituto, que tendrá, además de las facultades que le confiere la Ley Federal de las Entidades Paraestatales, las atribuciones indelegables siguientes:
 
@@ -291,7 +473,11 @@ VII. Determinar las reglas y los porcentajes conforme a los cuales el personal q
 
 VIII. Aprobar, a propuesta del Director General, el trámite ante la coordinadora de sector para modificar o imponer nombres de médicos o benefactores a instalaciones y áreas de éste.
 
-###### ARTÍCULO 7o.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL D.O.F. DE 3 DE AGOSTO DE 2021, PÁGINA 71.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+###### ARTÍCULO 7.
 
 La Junta de Gobierno del Instituto se integrará con el Secretario de Salud quien lo presidirá; el Titular de la Comisión Coordinadora de los Institutos Nacionales de Salud y Hospitales de Alta Especialidad; un representante de la Secretaría de Hacienda y Crédito Público; uno del patronato del Instituto; y otro que a invitación del Presidente de la Junta, designe una Institución del Sector Educativo vinculado con la investigación, así como por cuatro vocales designados por el Secretario de Salud, quienes serán personas ajenas laboralmente al Instituto y de reconocida calidad moral, méritos, prestigio y experiencia en el campo de las neoplasias. Estos últimos durarán en su cargo cuatro años y podrán ser ratificados por una sola ocasión.
 
@@ -301,7 +487,11 @@ El Presidente de la Junta de Gobierno será suplido en sus ausencias por el Titu
 
 Los demás miembros de la Junta de Gobierno designarán a sus respectivos suplentes, los cuales deberán estar debidamente acreditados ante la misma. Los nombres tanto del titular como del suplente serán registrados por el Prosecretario de la Junta.
 
-###### ARTÍCULO 8o.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL D.O.F. DE 3 DE AGOSTO DE 2021, PÁGINA 71.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+###### ARTÍCULO 8.
 
 La Junta de Gobierno celebrará sesiones ordinarias, por lo menos dos veces cada año, de acuerdo con un calendario que será aprobado en la primera sesión del ejercicio, así como las extraordinarias que convoque su Presidente o cuando menos tres de sus miembros.
 
@@ -313,7 +503,11 @@ A las sesiones de la Junta de Gobierno asistirán, con voz, pero sin voto, el Se
 
 La Junta de Gobierno podrá invitar a sus sesiones a representantes de instituciones de investigación, docencia o de atención médica, así como a representantes de grupos interesados de los sectores público, social y privado, quienes asistirán con derecho a voz, pero sin voto. Las invitaciones se enviarán por el Presidente de la Junta de Gobierno, en las que se indicará el propósito de la invitación.
 
-###### ARTÍCULO 9o.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL D.O.F. DE 3 DE AGOSTO DE 2021, PÁGINA 71.]</small>
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+###### ARTÍCULO 9.
 
 Para la celebración de las sesiones de la Junta de Gobierno se emitirá convocatoria por el Presidente de la misma. A la convocatoria se acompañará el orden del día y el apoyo documental de los asuntos a tratar, los cuales se harán llegar a los miembros con una antelación no menor de cinco días hábiles.
 
@@ -447,9 +641,11 @@ El funcionamiento del Consejo Asesor Externo y la duración de sus miembros en s
 
 ### CAPÍTULO VI. DEL CONSEJO TÉCNICO DE ADMINISTRACIÓN Y PROGRAMACIÓN
 
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 25.
 
-El Instituto contará con un Consejo Técnico de Administración y Programación, como órgano de coordinación para incrementar su eficacia, que estará integrado por el Director General del Instituto, quien lo presidirá, por los titulares de la Dirección General Adjunta Médica, Direcciones de Investigación, Docencia y de Administración y de las Subdirecciones de Medicina Interna, de Educación Médica, de Planeación y de Asuntos Jurídicos del Instituto y con un secretario técnico designado por el Director General.
+El Instituto contará con un Consejo Técnico de Administración y Programación, como órgano de coordinación para incrementar su eficacia, que estará integrado por el Director General del Instituto, quien lo presidirá, por los titulares de las Direcciones Médica, de Investigación, de Docencia y de Administración y Finanzas y de las Subdirecciones de Medicina Interna, de Educación Médica, de Planeación, de Asuntos Jurídicos y los que se determinen necesarios para el correcto desarrollo de sus funciones, así como con un secretario técnico designado por el Director General.
 
 ###### ARTÍCULO 26.
 
@@ -465,9 +661,11 @@ IV. Analizar problemas relativos a aspectos o acciones comunes a diversas áreas
 
 V. Proponer al Director General la adopción de medidas de orden general tendientes al mejoramiento administrativo y operacional del Instituto.
 
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 27.
 
-El funcionamiento del Consejo Técnico de Administración y Programación y la duración de sus miembros en sus cargos se determinara en las Reglas Internas de Operación que al efecto expida dicho Consejo.
+La integración, el funcionamiento del Consejo Técnico de Administración y Programación y la duración de sus miembros en sus cargos se determinará en su Manual de Integración y Funcionamiento que al efecto expida dicho Consejo.
 
 ### CAPÍTULO VII. DE LAS UNIDADES ADMINISTRATIVAS Y SUSTANTIVAS
 
@@ -475,101 +673,179 @@ El funcionamiento del Consejo Técnico de Administración y Programación y la d
 
 En apoyo del Director General, el Instituto contará con el personal de confianza para las funciones de directores, subdirectores, jefes de departamento, jefes de servicio y demás personal de confianza a que se refiere el artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 constitucional, así como el de base que se requiera para la eficaz atención de los asuntos de su competencia, de acuerdo al presupuesto que tenga asignado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 29.
 
-La Dirección General Adjunta Médica tendrá, entre otras, las siguientes funciones:
+La Dirección Médica tendrá, entre otras, las siguientes funciones:
 
-I. Promover el otorgamiento de servicios de asistencia médica especializada, a los pacientes que así lo soliciten, de acuerdo a la misión y objetivo de la institución.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-II. Conducir y evaluar las funciones asignadas a las Subdirecciones de Medicina Interna, Cirugía, Radioterapia, Servicios Auxiliares de Diagnóstico y Tratamiento, Patología, Servicios Paramédicos, Atención Hospitalaria y Consulta Externa y al Departamento de Ingeniería Biomédica para brindar servicios médicos con oportunidad, equidad, eficiencia y calidad
+I. Conducir y supervisar el otorgamiento de servicios de asistencia médica especializada y tecnología biomédica, a los pacientes que así lo soliciten, para que los usuarios del Instituto cuenten con el servicio deseado y con la mejor disposición en el servicio y confiablidad en el diagnóstico.
 
-III. Proponer a la Dirección General la actualización de las normas y procedimientos de diagnóstico y tratamiento terapéutico que deban seguirse con los enfermos atendidos en la institución, para estandarizar su tratamiento oncológico en las diversas especialidades, así como evaluar el cumplimiento garantizando la eficiencia.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-IV. Promover la actualización y capacitación de los recursos humanos de acuerdo a la especialidad para contribuir al logro de los objetivos institucionales.
+II. Conducir, evaluar y supervisar las funciones asignadas a las Subdirecciones de Medicina Interna, Cirugía, Radioterapia, Servicios Auxiliares de Diagnóstico y Tratamiento, Patología, Servicios Paramédicos, Atención Hospitalaria y Consulta Externa; al Departamento de Ingeniería Biomédica, al Área de Farmacovigilancia, servicios, clínicas y/o centros adscritos, para que proporcionen un trato de alta calidad a los usuarios del Instituto, se pueda evaluar el comportamiento de éstos y se localicen áreas y/o acciones de mejora en los mismos.
 
-V. Coadyuvar las actividades de investigación básica y clínica que se realicen en el Instituto, aplicando la tecnología y el adecuado manejo de la terapéutica en beneficio de los pacientes, para establecer criterios de diagnóstico y tratamiento y garantizar su eficiencia.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+III. Proponer a la Dirección General la actualización de las normas y procedimientos de diagnóstico y manejo terapéutico que deban seguirse con los enfermos atendidos en la Institución, para estandarizar su manejo oncológico en las diversas especialidades, así como evaluar el cumplimiento y eficiencia.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IV. Promover la actualización y capacitación de los recursos humanos de acuerdo a la especialidad para contar con personal calificado en las distintas áreas médicas y así otorgar un servicio de alta especialidad.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+V. Coadyuvar en las actividades de investigación básica y clínica que se realicen en el Instituto, aplicando la tecnología y el adecuado manejo de la terapéutica en beneficio de los pacientes, para establecer criterios de diagnóstico y tratamiento y garantizar su eficiencia.
 
 VI. Coadyuvar en la elaboración del Programa de Actividades Docentes para la formación de especialistas en oncología médica, para elevar los niveles de competitividad profesional y retener al personal de talento.
 
 VII. Coadyuvar en la publicación de trabajos científicos realizados en el Instituto a fin de contribuir a la difusión de las experiencias y conocimientos de las diferentes patologías oncológicas.
 
-VIII. Participar y promover la asistencia del grupo médico en foros oncológicos nacionales e internacionales, para difusión de las experiencias y conocimientos de las diferentes patologías oncológicas.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-IX. Participar en la selección de protocolos de investigación para evaluar su aplicación en pacientes del Instituto.
+VIII. Participar y promover la asistencia del grupo médico en foros oncológicos Nacionales e Internacionales, para intercambiar experiencias en referencia a los abordajes y manejo terapéutico de las diferentes patologías oncológicas.
 
-X. Participar coordinadamente con la Dirección de Administración en la integración del Programa Anual de Trabajo en los aspectos técnicos de los procesos de selección, adquisición y mantenimiento de equipos, recursos materiales, selección y reclutamiento de personal.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IX. Participar en la selección de protocolos de investigación para evaluar su aplicación a pacientes del Instituto.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+X. Participar coordinadamente con la Dirección de Administración y Finanzas en la integración del Programa Anual de Trabajo en los aspectos técnicos de los procesos de selección, adquisición y mantenimiento de equipos, recursos materiales, selección y reclutamiento de personal, para defender los objetivos y metas de las diferentes áreas de adscripción a su cargo y así contar con los insumos y personal idóneo.
 
 XI. Dirigir y evaluar la integración y elaboración del programa operativo anual de las subdirecciones a su cargo, definiendo objetivos y metas.
 
-XII. Consolidad la integración del sistema de información relativa a las actividades médico-asistenciales, para dar a conocer a la Dirección General del Instituto, elementos técnicos en la toma de decisiones para el desarrollo de planes y programas institucionales, de acuerdo a sus objetivos y atribuciones.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII. Consolidar la integración del sistema de información relativa a las actividades médico-asistenciales, para dar a conocer a la Dirección General del Instituto, elementos técnicos para la toma de decisiones que coadyuven al desarrollo de planes y programas institucionales.
 
 XIII. Expedir copias certificadas de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de la autoridad competente, para cumplir con la normatividad vigente.
 
 XIV Promover las acciones de Gestión de la Tecnología Médica, actualización y optimización de la tecnología biomédica, a fin de contribuir a la confiabilidad del diagnóstico y tratamiento de los pacientes oncológicos
 
-XV Proporcionar a los pacientes del Instituto y sus familiares, herramientas para que desarrollen y fortalezcan recursos emocionales, físicos y habilidades de afrontamiento, para satisfacer sus demandas y necesidades psicosociales, educativas y espirituales en el proceso de la enfermedad.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-XVI Sensibilizar y concientizar a la comunidad médica sobre los programas y prácticas complementarias en el manejo integral de padecimiento.
+XV. Otorgar a los pacientes del Instituto y sus familiares, herramientas para que desarrollen y fortalezcan recursos emocionales, físicos y habilidades de afrontamiento, para satisfacer sus demandas y necesidades psicosociales, educativas y espirituales en el proceso de la enfermedad.
 
-XVII Brindar a los pacientes, familiares y trabajadores del INCan un espacio para la realización de actividades que les sirvan como herramientas para mejorar su calidad de vida.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-XVIII Difundir la labor del Centro de Apoyo para la Atención Integral para poner al alcance de todos los usuarios los servicios del mismo y pueda ser de provecho y utilidad.
+XVI. Asesorar y conducir al área médica sobre los programas y prácticas complementarias en el manejo integral del padecimiento.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVII. Otorgar a los pacientes, familiares y trabajadores del Instituto, un espacio para la realización de actividades que les sirvan como herramientas para mejorar su calidad de vida.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVIII. Difundir, coordinar y supervisar la labor del Centro de Apoyo para la Atención Integral para poner al alcance de todos los usuarios los servicios del mismo y pueda ser de provecho y utilidad.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIX. Autorizar y expedir los manuales, normas, procedimientos, administrativos, técnicos y de servicios, que deban regir en la Dirección, Subdirecciones, departamentos o áreas a su cargo, de conformidad con la normatividad o políticas aplicables, así como dirigir la elaboración o actualización de éstos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XX. Dirigir las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XXI. Participar en el Consejo Técnico, así como en los Comités en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XXII. Las demás atribuciones que le sean conferidas por la Dirección General.
 
 ###### ARTÍCULO 30.
 
 La Subdirección de Medicina Interna tendrá, entre otras, las siguientes funciones:
 
-I Coordinar, supervisar y evaluar las actividades de las áreas de Oncología Médica, Hematología, Infectología, Psiquiatría, Psicooncología, Medicina Interna, Banco de Sangre, Farmacovigilancia, Laboratorio de Medicina Traslacional, Centro de Investigación Farmacológica, Central de Mezclas, Farmacia Integral, Aplicación de Quimioterapia y Unidad de Asuntos Regulatorios, para garantizar su adecuado funcionamiento.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+I Coordinar, supervisar y evaluar las actividades de las áreas de Oncología Médica, Hematología, Infectología, Psiquiatría, Psicooncología, Medicina Interna, Diagnóstico y Soporte Hematológico, Oncología Torácica, Laboratorio de Medicina Traslacional, Farmacia Hospitalaria, Centro de Mezclas y Aplicación de Quimioterapia, servicios, clínicas y/o centros adscritos para garantizar su adecuado funcionamiento.
 
 II Proponer la actualización de tecnologías propias de la Subdirección para brindar tratamientos con mayor control de la enfermedad y menor toxicidad.
 
-III Programar las actividades docentes y de investigación para contar con recursos humanos de alto nivel y conocimiento.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-IV Contribuir al desarrollo de investigaciones clínicas para difundir los resultados en los foros nacionales e internacionales.
+III Programar en coordinación con la Dirección de Docencia, las actividades de docentes para formar recursos humanos con conocimiento de alto nivel.
 
-V Elaborar planes de estudio para los cursos de capacitación en Oncología Médica para médicos, químicos, biólogos, coordinadores de estudios clínicos, técnicos y enfermeras para mejorar el programa establecido.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-VI Participar en la enseñanza y actualización de residentes de postgrado, médicos, químicos y biólogos, para formar especialistas y contar con recursos humanos de alto nivel y conocimiento.
+IV Coadyuvar con la Dirección de Investigación en la promoción y desarrollo de protocolos de investigación; así como en la publicación y divulgación de los resultados obtenidos.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+V Proponer cursos de capacitación para médicos y personal de la salud, así como supervisar y apoyar los cursos realizados por los diferentes departamentos que integran la Subdirección de Medicina Interna.
+
+VI (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
 
 VII Vigilar el control y aseguramiento de la calidad en la aplicación de medicamentos oncológicos, antibióticos, sangre y sus derivados y control de infecciones.
 
-VIII Programar y supervisar que el personal cubra adecuadamente las necesidades del servicio, a fin de coadyuvar a que los pacientes sean tratados en forma eficiente, digna, ética y oportunamente, con equipo de tecnología de punta.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-IX Coordinar que un representante de la Subdirección, asista a presentar experiencias en los congresos, seminarios y cursos, a fin de difundir la especialidad entre médicos, químicos, biólogos, psicólogos, técnicos y enfermeras de diversas instituciones.
+VIII Programar que el personal cubra adecuadamente las necesidades del servicio, a fin de coadyuvar a que los pacientes sean tratados en forma eficiente, digna, ética y oportunamente, con equipo de tecnología de punta.
 
-X Promover la investigación y desarrollo de métodos de escrutinio de donantes, que incrementen la seguridad de la práctica transfusional.
+IX (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
 
-XI Promover el programa de donación altruista de repetición para el Instituto, a través de convenios con instituciones de educación superior que tenga como meta en el futuro, disminuir el número de donantes de recuperación e incrementar sostenidamente los donantes voluntarios de repetición.
+X (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
 
-XII Coordinar el trabajo asistencial, de investigación y docencia de Infectología en el área de hospitalización, de consulta externa y en la Clínica de Cáncer y Síndrome de Inmunodeficiencia Adquirida.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-XIII Implantar la integración de Comités de Control de Infecciones de los Institutos Nacionales de Salud, para el establecimiento de Guías de prescripción de antibióticos profilácticos.
+XI Apoyar y promover el programa de donación altruista de hemocomponentes sanguíneos para el Instituto, del Departamento de Diagnóstico y Soporte Hematológico.
 
-XIV Establecer el programa de trabajo y los procedimientos de la Central de Mezclas Hospitalaria para la preparación de soluciones y medicamentos en forma estéril.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-XV Supervisar la prestación de servicios de atención médica a los pacientes de medicina interna, psiquiatría y psicooncología para que sirvan como base de un diagnóstico médico oportuno y confiable.
+XII Coordinar el trabajo asistencial de medicina interna, hematología, oncología médica, oncología torácica, psiquiatría, psicooncología e Infectología en el área de hospitalización y de consulta externa.
 
-XVI Promover la actualización de las técnicas de oncología médica y hematología desarrolladas por las diferentes áreas de la Subdirección para dar seguimiento y control de las mismas.
+XIII (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
 
-XVII Apoyar a la Dirección de Docencia en los programas docentes para la formación de médicos en las diferentes especialidades de la Subdirección.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-XVIII Proponer los protocolos de investigación clínica en las diferentes especialidades, para promover un desarrollo integral de las actividades encomendadas.
+XIV Coordinar y supervisar el programa de trabajo y los procedimientos del Centro de Mezclas.
 
-XIX Apoyar la publicación y divulgación de los resultados de los protocolos de investigación para su difusión o conocimiento y su posible aplicación de los mismos para contribuir a mejorar la calidad de la atención médica.
+XV (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
 
-XX Coordinar y fomentar el intercambio de información técnica y científica en diferentes foros nacionales e internacionales de las especialidades de la Subdirección, a fin de difundir la especialidad entre los médicos de las diversas instituciones.
+XVI (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
 
-XXI Coordinar las acciones de las actividades de la Subdirección y evaluar periódicamente su cumplimiento como apoyo a la creación de nuevas áreas de atención a pacientes.
+XVII (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
 
-XXII Coordinar el funcionamiento integral de la farmacia, central de mezclas y aplicación de quimioterapia incluyendo farmacovigilancia y la inclusión de medicamentos al cuadro básico del Instituto.
+XVIII (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
 
-XXIII Desarrollar en el Centro de Investigación Farmacológica (CIF), protocolos para la validación de medicamentos genéricos, biocomparables y medicamentos de ensayos clínicos de fase I a fase III.
+XIX (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
 
-XXIV Impulsar, coordinar y apoyar conjuntamente con todas las áreas y responsables a través de la Unidad Habilitada de apoyo al Pre-dictamen (UHAPD), los asuntos de carácter regulatorio ante Comisión Federal de Protección Contra Riesgos Sanitarios (COFEPRIS) y de calidad que involucren la correcta aplicación de los medicamentos y protocolos de investigación.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-XXV Desarrollar estudios de investigación en el ámbito de la medicina Traslacional en busca de biomarcadores para el apoyo en el diagnóstico de la Patología Molecular.
+XX Fomentar el intercambio de información técnica y científica en diferentes foros nacionales e internacionales de las especialidades de la Subdirección, a fin de difundir la especialidad entre los médicos de las diversas instituciones.
 
-XXVI Impulsar el Laboratorio de Patología Molecular en Hematología para un mejor diagnóstico.
+XXI (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XXII Coordinar el funcionamiento integral de la farmacia hospitalaria, centro de mezclas y aplicación de quimioterapia en coordinación con el personal de enfermería.
+
+XXIII (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
+
+XXIV (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
+
+XXV (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XXVI Promover en coordinación con la Subdirección de Patología, el Laboratorio de Patología Molecular en Hematología.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XXVII Participar en el Consejo Técnico, así como en los Comités en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XXVIII Efectuar las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XXIX Proponer a su superior jerárquico, los manuales de organización, de procedimientos, de servicios, de la Subdirección, los departamentos y áreas a su cargo, así como las actualizaciones de éstos.
 
 ###### ARTÍCULO 31.
 
@@ -581,9 +857,13 @@ II. Supervisar que se efectúen los procedimientos quirúrgicos, contribuyendo a
 
 III. Coordinar las acciones de los servicios de apoyo al área quirúrgica de cirugía reconstructiva y prótesis maxilofacial, contribuyendo en el proceso de resección tumoral y reconstrucción en un tiempo quirúrgico o en forma diferida.
 
-IV. Vigilar que los procedimientos de sedación fuera del quirófano por el área de anestesiología en los servicios de endoscopia, radiología, tomografía y atención inmediata, se realicen dentro de los más altos estándares de calidad y se cumpla con la normatividad vigente para este fin en el país.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-V. Supervisar las actividades de los servicios de apoyo a los pacientes oncológicos en el área de clínica del dolor y cuidados paliativos, inhaló terapia, endoscopia, pre-consulta, equipos de terapia intravenosa (ETI), clínica de estomas y UTI, con el propósito de ofrecer un soporte integral óptimo y oportunamente.
+IV. Vigilar que los procedimientos de sedación fuera del quirófano por el área de anestesiología en los servicios de endoscopia, radiología, tomografía y otros, se realicen dentro de los más altos estándares de calidad y se cumpla con la normatividad vigente para este fin en el país.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+V. Supervisar las actividades de los servicios de apoyo a los pacientes oncológicos en el área de clínica del dolor, cuidados paliativos, inhaloterapia, endoscopia, preconsulta médica, equipos de terapia intravenosa (ETI), clínica de ostomías y heridas quirúrgicas, Unidad de Terapia Intensiva, centros y/o áreas internas a su cargo, con el propósito de ofrecer un soporte integral óptimo y oportunamente.
 
 VI. Diseñar un esquema funcional que garantice la recepción de pacientes por referencia y agilice la canalización de la contrarreferencia en el área de preconsulta.
 
@@ -593,21 +873,41 @@ VIII. Promover la elaboración de publicaciones médico-científicas tanto nacio
 
 IX. Promover el intercambio de información científica a través de la participación y organización de congresos nacionales e internacionales con la finalidad de difundir los conocimientos de la especialidad entre los médicos de diferentes instituciones.
 
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+X. Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XI. Efectuar las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII. Proponer a su superior jerárquico, los manuales de organización, de procedimientos, de servicios, de la Subdirección, los departamentos y áreas a su cargo, así como las actualizaciones de éstos.
+
 ###### ARTÍCULO 32.
 
 La Subdirección de Radioterapia tendrá, entre otras, las siguientes funciones:
 
-I. Coordinar, supervisar y evaluar las actividades de las áreas de Teleterapia, Braquiterapia y Biofísica, para garantizar su adecuado funcionamiento.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+I. Coordinar, supervisar y evaluar las actividades de las áreas de Teleterapia, Braquiterapia, Biofísica, servicios, clínicas, centros y/o áreas internas a su cargo, para garantizar su adecuado funcionamiento.
 
 II. Proponer la actualización de tecnologías propias de la Subdirección para brindar tratamientos con mayor control de la enfermedad y menor toxicidad.
 
-III. Programar las actividades docentes y de investigación para contar con recursos humanos de alto nivel y conocimiento.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+III. Coadyuvar en actividades docentes y de investigación, así como en su programación, para formar recursos humanos con conocimiento de alto nivel.
 
 IV. Contribuir al desarrollo de investigaciones clínicas para difundir los resultados en los foros nacionales e internacionales.
 
-V. Elaborar planes de estudio para los cursos de capacitación en radio-oncología para médicos, técnicos, físicos y enfermeras para mejorar el programa establecido.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-VI. Participar en la enseñanza y actualización de residentes de postgrado, físicos médicos y técnicos en radioterapia, para formar especialistas y contar con recursos humanos de alto nivel y conocimiento.
+V. Coadyuvar en la elaboración de planes de estudio para los cursos de capacitación en radio-oncología para médicos, técnicos, físicos y enfermeras.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+VI. Participar en la enseñanza y actualización de residentes de postgrado, físicos médicos y técnicos en radioterapia, para formar especialistas y contar con recursos humanos con conocimiento de alto nivel.
 
 VII. Vigilar el control y aseguramiento de la observancia estricta en las medidas de seguridad radiológica, el cálculo de dosis a pacientes y el límite de tolerancia del personal ocupacionalmente expuesto a radiaciones ionizantes, para evitar accidentes y cumplir con la normatividad establecida.
 
@@ -615,19 +915,37 @@ VIII. Programar y supervisar que el personal cubra adecuadamente las necesidades
 
 IX. Coordinar que un representante de la Subdirección, asista a presentar experiencias en cada uno de los congresos, seminarios y cursos, a fin de difundir la especialidad entre médicos, técnicos radiólogos y físicos de diversas instituciones.
 
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+X. Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XI. Efectuar las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII. Proponer a su superior jerárquico, los manuales de organización, de procedimientos, de servicios, de la Subdirección y los departamentos a su cargo, así como las actualizaciones de éstos.
+
 ###### ARTÍCULO 33.
 
 La Subdirección de Servicios Auxiliares de Diagnóstico y Tratamiento tendrá, entre otras, las siguientes funciones:
 
-I Coordinar, supervisar y evaluar las actividades de las áreas de Medicina Nuclear, Imagenología y Laboratorio Clínico para garantizar su adecuado funcionamiento.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-II Proponer la actualización de tecnologías propias de la Subdirección para brindar diagnósticos con mayor precisión y en su caso menor dosis de radiación.
+I Coordinar, supervisar y evaluar las actividades de las áreas de Medicina Nuclear, Imagenología, Laboratorio Clínico, servicios, clínicas, centros y/o áreas internas a su cargo, para garantizar su adecuado funcionamiento.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+II Proponer la actualización de tecnologías de laboratorio clínico e imagen de la Subdirección para brindar diagnósticos con mayor precisión y en su caso menor dosis de radiación, así como apoyo en terapias de menos invasividad.
 
 III Programar las actividades docentes y de investigación de la Subdirección para contar con recursos humanos de alto nivel y conocimiento.
 
 IV Contribuir al desarrollo de investigaciones clínicas para difundir los resultados en los foros nacionales e internacionales.
 
-V Elaborar planes de estudio para los cursos de capacitación en Imagen Oncológica, Medicina Nuclear y Laboratorio Clínico para médicos, técnicos, físicos, químicos y enfermeras para mejorar el programa establecido.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+V Elaborar planes de estudio para los cursos de capacitación en imagen oncológica, medicina nuclear y laboratorio clínico, para médicos, técnicos, físicos, químicos y enfermeras.
 
 VI Participar en la enseñanza y actualización de residentes de postgrado, físicos médicos, químicos y técnicos en Imagenología, Medicina Nuclear y Laboratorio Clínico, para formar especialistas y contar con recursos humanos de alto nivel y conocimiento.
 
@@ -635,11 +953,33 @@ VII Vigilar el control y aseguramiento de la observancia estricta en las medidas
 
 VIII Programar y supervisar que el personal cubra adecuadamente las necesidades del servicio, a fin de coadyuvar a que los pacientes sean tratados en forma eficiente, digna, ética y oportunamente, con equipo de tecnología de punta.
 
-IX Coordinar que un representante de la Subdirección, asista a presentar experiencias en los congresos, seminarios y cursos, a fin de difundir la especialidad entre médicos, técnicos radiólogos, químicos y físicos de diversas instituciones.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IX Promover educación continua para los diferentes niveles académicos en área oncológica.
 
 X Evaluar la forma en que se utilizan los recursos del laboratorio clínico para promover el uso racional de los exámenes de Laboratorio Clínico, Medicina Nuclear e Imagen y evitar la duplicidad de solicitudes y la necesidad de incrementar algunos.
 
 XI Promover e implementar detección oportuna en población de alto riesgo para cáncer mediante el Plan Nacional de Prevención de Detección Oportuna del Cáncer.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII Vigilar y dar seguimiento al aseguramiento de la calidad de los procesos de laboratorio clínico e imagenología.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIII Coadyuvar en la obtención de apoyos para la atención de pacientes e impulsar la investigación.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIV Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XV Proponer a su superior jerárquico, los manuales de organización, de procedimientos, de servicios, de la Subdirección, los departamentos y áreas a su cargo, así como las actualizaciones de éstos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVI Efectuar las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
 
 ###### ARTÍCULO 34.
 
@@ -651,7 +991,9 @@ II Participar en la enseñanza y actualización en Patología de residentes de p
 
 III Coordinar y asesorar los protocolos científicos relacionados con patología que se realicen en el Instituto, por médicos adscritos y residentes del mismo así como por médicos de otras instituciones, con el objeto de optimizar el esfuerzo dirigido a la investigación básica y clínica.
 
-IV Coordinar y supervisar el desarrollo de las actividades asistenciales de las áreas de Patología Quirúrgica, Patología Postmortem, Citopatología y Patología Molecular e Inmunopatología, con el objeto de optimizar los recursos materiales y humanos y así brindar un mejor servicio a los pacientes.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IV Coordinar y supervisar el desarrollo de las actividades asistenciales de las áreas de Patología Quirúrgica, Patología Postmortem, Citopatología, Patología Molecular e Inmunopatología, servicios, clínicas, centros y/o áreas internas a su cargo, con el objeto de optimizar los recursos materiales y humanos y así brindar un mejor servicio a los pacientes.
 
 V Organizar, promover y asesorar en la creación de cursos para Patólogos, Oncólogos, Citopatólogos, Citotecnólogos, Histotecnólogos y Técnicos en Autopsias, con el objeto de formar recursos humanos que cubran las necesidades del Instituto y asimismo, proporcionar al resto del país personal altamente calificado egresado de la Institución.
 
@@ -662,6 +1004,18 @@ VII Promover y mantener la presencia académica e institucional en foros naciona
 VIII Supervisar la programación anual de actividades calendarizadas y verificar el cumplimiento de las metas, con el objeto de alinearlas con el Plan Estratégico del Instituto.
 
 IX Promover e implementar detección oportuna en población de alto riesgo para cáncer mediante el Plan Nacional de Prevención de Detección Oportuna del Cáncer
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+X Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XI Proponer a su superior jerárquico, los manuales de organización, de procedimientos, de servicios de la Subdirección, los departamentos y áreas a su cargo, así como las actualizaciones de éstos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII Efectuar las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
 
 ###### ARTÍCULO 35.
 
@@ -677,15 +1031,31 @@ IV Participar para que la información generada por las cuatro Direcciones de Á
 
 V Coordinar junto con la Subdirección de Planeación a través del sistema informático, la recopilación y análisis de la información estadística que se genera en los diferentes servicios, para la elaboración de los informes sobre la atención asistencial, docente y de investigación que se desarrolla en el Instituto, y que son enviadas a las diferentes instancias de gobierno.
 
-VI Promover que las actividades de las áreas de la Subdirección relacionadas con el Programa de Protección contra Gastos Catastróficos dependiente de Seguro Popular se cumplan oportunamente, con la finalidad de que la población usuaria de este programa, reciba la atención adecuada y el Instituto recupere los pagos por los servicios otorgados.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-VII Promover que las actividades de las áreas de la subdirección relacionadas con la Unidad Habilitada de apoyo al Pre-dictamen (UHAPD), dependientes de la Comisión Federal de Protección Contra Riesgos Sanitarios (COFEPRIS) se cumplan con oportunidad, con la finalidad de que la evaluación de protocolos de investigación para la salud en seres humanos se haga de manera expedita.
+VI Promover que las actividades de las áreas de la Subdirección relacionadas con el Programa del Fondo de Salud para el Bienestar dependiente del Instituto de Salud para el Bienestar se cumplan oportunamente, con la finalidad de que la población usuaria de este programa, reciba la atención adecuada y el Instituto recupere los pagos por los servicios otorgados.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+VII Promover que las actividades de las áreas de la subdirección relacionadas con la Unidad Habilitada de Apoyo al Pre-dictamen (UHAP), dependientes de la Comisión Federal de Protección Contra Riesgos Sanitarios (COFEPRIS) se cumplan con oportunidad, con la finalidad de que la evaluación de protocolos de investigación para la salud en seres humanos se haga de manera expedita.
 
 VIII Promover la capacitación de las áreas de la Subdirección que les permitan conocer los avances técnicos, que sean aplicables en el ámbito de su competencia profesional en beneficio de los pacientes.
 
 IX Coadyuvar para que los asuntos relacionados con la Dirección General, que sean delegados a la Subdirección de Servicios Paramédicos, se atiendan de manera oportuna y eficientemente a los usuarios internos y externos de la Institución.
 
 X Coadyuvar para que los programas gubernamentales sobre el registro Poblacional del Cáncer y el Plan Integral para la Prevención y control del cáncer en México, se desarrollen de la mejor manera posible.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XI Proponer a su superior jerárquico, los manuales de organización, de procedimientos, de servicios, de la Subdirección y en su caso, áreas a su cargo, así como las actualizaciones de éstos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII Efectuar las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIII Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
 
 ###### ARTÍCULO 36.
 
@@ -713,73 +1083,241 @@ X. Contribuir con las actividades del área de Trabajo Social en la elaboración
 
 XI. Coordinar la recopilación e integración de la información bioestadística que se genera en los diferentes servicios, para la elaboración de los informes sobre la atención asistencial que presta el Instituto, que son enviados a las diferentes instancias de gobierno.
 
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII. Supervisar y coordinar las actividades de los Departamentos, unidades, servicios, clínicas, centros y/o áreas internas dependientes de la Subdirección a efecto de garantizar su adecuado funcionamiento.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIII. Diseñar y proponer al Director General las políticas, estrategias y líneas de acción para mejorar la calidad y seguridad de los pacientes en los servicios de salud especializados que brinda el Instituto, así como implementarlas, evaluarlas y vigilarlas en coordinación con las áreas involucradas, para contribuir a la mejora continua de la calidad en la atención.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIV. Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XV. Proponer a su superior jerárquico, los manuales de organización, de procedimientos, de servicios, de la Subdirección, los departamentos y áreas a su cargo, así como las actualizaciones de éstos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVI. Efectuar las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
+
 ###### ARTÍCULO 37.
 
 La Dirección de Investigación tendrá, entre otras, las siguientes funciones:
 
-I Coordinar las actividades de las Subdirecciones de Investigación Clínica y Básica, para organizar las actividades de la Dirección de Investigación.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-II Supervisar la realización de estudios e investigaciones clínicas y experimentales en el campo de las neoplasias, dando cumplimiento a la Ley General de Salud y demás disposiciones aplicables, para la prevención, diagnóstico, tratamiento y rehabilitación.
+I Coordinar y supervisar las actividades de las Subdirecciones de Investigación Clínica y Básica, así como del Departamento, clínicas, centros y/o áreas internas adscritas, para organizar las actividades de la Dirección de Investigación y garantizar su adecuado funcionamiento.
 
-III Promover el conocimiento y la difusión de los trabajos realizados por medio de sesiones científicas del Instituto y su aplicación en libros o revistas nacionales o extranjeras, para divulgación del conocimiento generado en la Institución.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-IV Establecer las políticas administrativas, técnicas y académicas a que deban sujetarse los investigadores, con el objeto de ordenar y promover al personal de investigación.
+II Vigilar la realización de estudios e investigaciones clínicas y experimentales en el campo de las neoplasias, dando cumplimiento a la Ley General de Salud y demás disposiciones aplicables, para la prevención, diagnóstico, tratamiento y rehabilitación.
 
-V Organizar, dirigir y coordinar la investigación y vigilar el cumplimiento de los programas autorizados por las autoridades correspondientes, para coparticipar en las actividades institucionales.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-VI Establecer coordinación permanente con instituciones públicas y privadas dedicadas a la investigación con el propósito de fomentar el intercambio científico.
+III Promover la difusión de trabajos de investigación realizados en el Instituto por medio de sesiones científicas, en diversos foros y la publicación en libros o revistas nacionales o extranjeras.
 
-VII Vigilar que todos los proyectos de investigación que se realicen, total o parcialmente en algún área del Instituto, sean registrados en la Dirección de Investigación, para supervisar la adecuada realización de las mismas.
+IV (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
 
-VIII Difundir un seguimiento detallado, de los proyectos registrados en la Dirección de Investigación sobre su terminación y/o inconvenientes en lo referente a la naturaleza de su culminación; así como sus productos finales, para ordenar los resultados de la investigación del Instituto.
+V (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
 
-IX Promover el ingreso o el ascenso de los investigadores dentro del escalafón de la Secretaría de Salud; como del Sistema Nacional de Investigadores, para mejorar las oportunidades de trabajo y estimular la productividad en investigación.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-X Difundir oportunamente, entre los investigadores, posibles fuentes de financiamiento a sus proyectos o de becas, para contribuir al desarrollo de proyectos de investigación.
+VI Organizar y coordinar los proyectos de investigación que se realicen en el Instituto o en colaboración con instituciones públicas y privadas, nacionales o extranjeras con el propósito de fomentar el intercambio científico.
 
-XI Coordinar los trámites para la obtención de estímulos a la productividad de los investigadores ante la Comisión Coordinadora de los Institutos Nacionales de Salud y Hospitales de Alta Especialidad, para estimular la productividad en investigación.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+VII Establecer los procedimientos para el registro, la aprobación y seguimiento de los proyectos de investigación sometidos a la evaluación de los Comités de Investigación, Ética en Investigación, del Comité Interno para el Cuidado y Uso de los Animales de Laboratorio o Bioseguridad en apego a la normatividad aplicable vigente.
+
+VIII (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IX Participar en el proceso de evaluación para el ingreso, promoción y permanencia conforme a lo dispuesto en el Reglamento emitido por la Dirección General de Políticas de Investigación en Salud.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+X Difundir entre los investigadores, posibles fuentes de financiamiento a sus proyectos o de becas para sus alumnos, con la finalidad de obtener recursos y contribuir en el desarrollo de proyectos de investigación y en la formación de recursos humanos en investigación.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XI Participar en el proceso de evaluación de las Convocatorias de estímulos a la permanencia y al desempeño conforme a los reglamentos emitidos por la Dirección General de Políticas de Investigación en Salud.
 
 XII Expedir copias certificadas de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de la autoridad competente, para cumplir con la normatividad vigente.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIII Gestionar la celebración de convenios con universidades y otros centros de investigación, nacionales y/o extranjeros, para el desarrollo de protocolos de investigación y de formación de recursos humanos en investigación.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIV Coadyuvar en la coordinación de las actividades de la Unidad Habilitada de Apoyo al Pre-dictamen (UHAP), así como los asuntos de carácter regulatorio ante la Comisión Federal de Protección Contra Riesgos Sanitarios (COFEPRIS) que involucren proyectos de investigación.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XV Coadyuvar con la Subdirección de Contabilidad y Finanzas en la administración de los recursos de terceros para la investigación, conforme a los Lineamientos para la Administración de Recursos de Terceros destinados a financiar Proyectos de Investigación de los Institutos Nacionales de Salud y su evaluación por parte del Comité Interno de Vigilancia del Uso de Recursos destinados a la Investigación.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVI Coordinar las evaluaciones que se efectúen a los proyectos de investigación, desde el punto de vista científico y ético.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVII Coordinar las actividades del Centro de Investigación Farmacológica (CIF), así como de la Unidad de Investigación en Epidemiología, de la Clínica de Cáncer Hereditario, del Centro de Investigación en Prevención y aquellos que sean creadas (sic) de acuerdo a los planes de trabajo de la Dirección.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVIII Vigilar y coordinar la solicitud para la adquisición de materiales y reactivos para proyectos de investigación aprobados por los Comités de Investigación, Ética en Investigación y cuando aplique el Comité Interno para el Cuidado y Uso de los Animales de Laboratorio y/o Comité de Bioseguridad, con recursos fiscales o propios; así como la solicitud para mantenimiento de los equipos utilizados para los mismos fines.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIX Autorizar y expedir los manuales, normas, procedimientos, administrativos, técnicos y de servicios, que deban regir en la Dirección, Subdirecciones o áreas a su cargo, de conformidad con la normatividad o políticas aplicables, así como dirigir la elaboración o actualización de éstos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XX Dirigir las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XXI Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XXII Las demás atribuciones que le sean conferidas por la Dirección General.
 
 ###### ARTÍCULO 38.
 
 La Subdirección de Investigación Básica tendrá, entre otras, las siguientes funciones:
 
-I. Promover y supervisar la elaboración de protocolos de investigación básica para que sean realizados en la Institución, aprobados por los comités de Ética en Investigación y Hospitalario de Bioética
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-II. Asesorar a los investigadores en el diseño de protocolos de investigación dirigiéndolos con expertos en cada área de interés, con el fin de lograr la generación de trabajos de excelencia.
+I. Promover y vigilar la realización de protocolos de investigación en la Institución, siempre y cuando sean aprobados por los Comités de Investigación, Ética en Investigación y cuando aplique el Comité Interno para el Cuidado y Uso de los Animales de Laboratorio y/o Comité de Bioseguridad.
 
-II (SIC). Coadyuvar a la publicación de los resultados obtenidos de las investigaciones y a su difusión en el ámbito nacional e internacional a nivel de otras instituciones y de la sociedad en general.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+II. Asesorar a los investigadores en el diseño de protocolos de investigación dirigiéndolos con expertos en cada área de interés, con el fin de lograr su aprobación por parte de los Comités citados en la fracción anterior.
+
+> <small>(REFORMADA [N. DE E. EN SU NUMERAL], D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+III. Coadyuvar a la publicación de los resultados obtenidos de las investigaciones y a su difusión en el ámbito nacional e internacional a nivel de otras instituciones y de la sociedad en general.
 
 IV. Compilar los informes generados por los investigadores con el fin de conocer los avances específicos relacionados con sus protocolos de investigación.
 
-V. Organizar conjuntamente con las Direcciones de Investigación y de Docencia, actividades académicas tales como: cursos, seminarios, simposios, que permitan capacitar al personal médico, en el aspecto teórico como práctico en áreas relevantes para la investigación del cáncer.
+V. (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
 
-VI. Promover la formación de recursos humanos en los niveles de licenciatura, maestría y doctorado en áreas afines a la investigación básica del cáncer, para fortalecer la investigación en este campo en el país.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-VII. Coadyuvar a la obtención de los recursos necesarios para llevar a cabo proyectos de investigación básica, así como investigación clínica en la que se contemple algunos objetivos de investigación básica, para así promover la participación multidisciplinaria dentro de nuestra institución.
+VI. Promover la formación de recursos humanos en los niveles de licenciatura, maestría y doctorado, así como estancias de investigación en los diferentes niveles académicos.
 
-VIII. Promover la investigación para el desarrollo de nuevas alternativas terapéuticas para pacientes con enfermedades malignas, con el fin de ofrecer las mejores posibilidades de supervivencia y calidad de vida.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+VII. Coadyuvar con la Dirección de Investigación en la difusión de posibles fuentes de financiamiento para la obtención de los recursos necesarios para llevar a cabo proyectos de investigación básica, así como investigación clínica en la que se contemple algunos objetivos de investigación básica, para así promover la participación multidisciplinaria dentro de nuestra institución.
+
+VIII. (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IX. Coadyuvar con la Dirección de Investigación en las gestiones para la celebración de convenios con universidades y otros centros de investigación, nacionales y extranjeros, para el desarrollo de protocolos de investigación, así como para la formación de recursos humanos en investigación.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+X. Participar en las actividades de las unidades de investigación coordinadas por la Dirección.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XI. Presidir el Comité Interno para el Cuidado y Uso de los Animales de Laboratorio y participar en los Comités de Investigación y Bioseguridad, en su caso.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII. Coadyuvar con la Dirección de Investigación en los procesos de auditoría científica y ética que se realicen a los proyectos de investigación del Instituto.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIII. Coadyuvar con la Dirección en los procesos de evaluación descritos en las fracciones IX y XI del artículo 37.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIV. Promover el intercambio académico y desarrollar proyectos de investigación clínica y epidemiológica, en conjunto con instituciones nacionales e internacionales que permitan la vinculación para la investigación en cáncer.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XV. Proponer a su superior jerárquico, los manuales de organización, de procedimientos, de servicios, de las áreas a su cargo, así como las actualizaciones de éstos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVI. Efectuar las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVII. Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVIII. Las demás atribuciones que le sean conferidas por la Dirección de Investigación.
 
 ###### ARTÍCULO 39.
 
 La Subdirección de Investigación Clínica tendrá, entre otras, las siguientes funciones:
 
-I. Diseñar protocolos clínicos y epidemiológicos, que permitan mejorar el conocimiento sobre el cáncer en nuestro país.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-II. Apoyar el desarrollo de la investigación clínica y epidemiológica dentro de la Institución, proporcionando asesoramiento en la planeación, presentación y ejecución de los proyectos que realizan otras Subdirecciones del Instituto, para el desarrollo de la investigación clínica con la metodología adecuada.
+I. Impulsar la realización de protocolos de investigación que proporcionen y/o actualicen el conocimiento en el tema del cáncer.
 
-III. Vigilar el registro, desarrollo de informes anuales y técnicos finales de los protocolos de investigación clínica y epidemiológica que se realizan en la Institución, para generar datos confiables y oportunos para informes de la Junta de Gobierno; así como a patrocinadores.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-IV. Difundir el resultado de las investigaciones en foros científicos y revistas especializadas en el ámbito nacional e internacional, que permitan conocer los avances en Investigación de esta Institución.
+II. Promover el planteamiento de protocolos de investigación en la Institución para su posterior evaluación de los Comités de Investigación, Ética en Investigación y cuando aplique el Comité Interno para el Cuidado y Uso de los Animales de Laboratorio y/o Comité de Bioseguridad.
 
-V. Contribuir con las actividades de enseñanza de pregrado, postgrado y educación médica continua que se realizan en la Institución, con la finalidad de lograr una educación médica integral.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-VI. Establecer convenios con universidades y otros centros de investigación, nacionales y extranjeros, para el desarrollo de protocolos de investigación.
+III. Examinar, analizar y presentar los informes generados por los investigadores, con el fin de conocer los avances específicos relacionados con sus protocolos de investigación; así como aquellos informes presentados a la Junta de Gobierno, Comité de Control y Desempeño Institucional (COCODI), matriz de indicadores para resultados y Consejo Técnico.
 
-VII. Contribuir a la búsqueda de recursos económicos y humanos, para el desarrollo de los proyectos de investigación.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IV. Coadyuvar en la difusión de los resultados obtenidos en los proyectos de investigación, así como a su difusión en el ámbito nacional e internacional.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+V. Promover la formación de recursos humanos en los niveles de licenciatura, maestría y doctorado, así como estancias de investigación en los diferentes niveles académicos.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+VI. Coadyuvar con la Dirección de Investigación en las gestiones para la celebración de convenios con universidades y otros centros de investigación, nacionales y extranjeros, para el desarrollo de protocolos de investigación.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+VII. Contribuir con la Dirección de Investigación en la difusión de posibles fuentes de financiamiento para la obtención de recursos económicos y humanos, para el desarrollo de los proyectos de investigación.
 
 VIII. Promover el intercambio académico y desarrollar proyectos de investigación clínica y epidemiológica, en conjunto con instituciones nacionales e internacionales que permitan la vinculación en investigación en cáncer.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IX. Participar en las actividades de las unidades de investigación coordinadas por la Dirección.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+X. Coadyuvar con la Dirección de Investigación en los procesos de auditoría científica y ética que se realicen a los proyectos de investigación del Instituto.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XI. Coadyuvar con la Dirección en los procesos de evaluación descritos en las fracciones IX y XI del artículo 37.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII. Proponer a su superior jerárquico, los manuales de organización, de procedimientos, de servicios, de las áreas a su cargo, así como las actualizaciones de éstos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIII. Efectuar las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIV. Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XV. Las demás atribuciones que le sean conferidas por la Dirección de Investigación.
 
 ###### ARTÍCULO 40.
 
@@ -789,7 +1327,9 @@ I. Coadyuvar a la formación de recursos humanos especializados para la atenció
 
 II. Establecer acuerdos con las instituciones de educación superior del país para otorgar diplomas y reconocimientos de los estudios cursados en las diferentes especialidades que se imparten en el Instituto, con la finalidad de obtener el reconocimiento de las instituciones de educación superior en el proceso de formación y capacitación del personal.
 
-III. Organizar y coordinar un sistema integral de enseñanza en el Instituto, para la formación y desarrollo de recursos humanos en las diferentes especialidades médicas y cursos de alta especialidad, con la finalidad de mejorar los estándares de calidad en el proceso de formación y capacitación de recursos humanos en la atención del paciente oncológico
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+III. Organizar y coordinar un sistema integral de enseñanza en el Instituto, para la formación y desarrollo de recursos humanos en las diferentes especialidades médicas y cursos de alta especialidad, con la finalidad de mejorar los estándares de calidad en el proceso de formación y capacitación de recursos humanos en la atención del paciente oncológico.
 
 IV. Supervisar políticas administrativas, técnicas y académicas a las que deban sujetarse los estudiantes médicos y paramédicos, a fin de establecer una disciplina que guíe el comportamiento de los estudiantes.
 
@@ -799,7 +1339,9 @@ VI. Establecer una coordinación permanente con instituciones públicas y privad
 
 VII. Supervisar las actividades académicas de médicos residentes, internos y paramédicos para llevar a cabo la promoción de plazas y selección de médicos aspirantes a las vacantes para continuar promoviendo la formación de recursos humanos.
 
-VIII. Coordinar los programas de formación y desarrollo de personal de enfermería en materia oncológica, a fin de mejorar el perfil del personal de enfermería en el desempeño de sus labores cotidianas.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+VIII. Coordinar los programas de formación y desarrollo del profesional de enfermería en materia oncológica, a fin de elevar el grado de especialización en el desempeño de sus labores cotidianas.
 
 IX. Supervisar la promoción, difusión y publicación de investigaciones científicas y sus resultados; así como los diferentes eventos educacionales que realiza el Instituto, con la finalidad de apoyar y difundir los avances educativos que se llevan a cabo y mantienen a la vanguardia al Instituto.
 
@@ -807,25 +1349,47 @@ X. Supervisar el adecuado servicio y suministro del equipo y material necesario 
 
 XI. Participar en la elaboración de los programas institucionales de las áreas a su cargo, para cumplir con la normatividad vigente.
 
-XII. Supervisar la adquisición, resguardo, archivo y consulta del acervo bibliográfico del Instituto, así como coordinar el funcionamiento de las áreas de bibliohemeroteca, material didáctico y audiovisual, difusión y publicaciones e información que apoyen los programas de la enseñanza y educación médica continua del Instituto, para mejorar la calidad de atención al personal médico y paramédico de nuestro Instituto en el campo de capacitación y formación de recursos humanos.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII. Supervisar la adquisición, resguardo, archivo y consulta del acervo bibliográfico del Instituto, así como coordinar el funcionamiento de los Departamentos y/o áreas internas que le están adscritos, que apoyen los programas de la enseñanza y educación médica continua del Instituto, para mejorar la calidad de atención al personal médico y paramédico de nuestro Instituto en el campo de capacitación y formación de recursos humanos.
 
 XIII. Emitir diplomas, documentos o constancias de los diferentes cursos que se llevan a cabo en el Instituto y las copias de los mismos que existan en los archivos a su cargo cuando proceda o a petición de autoridad competente.
 
 XIV. Expedir copias certificadas de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de la autoridad competente, para cumplir con la normatividad vigente.
 
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XV. Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVI. Autorizar y expedir los manuales, normas, procedimientos, administrativos, técnicos y de servicios, que deban regir en la Dirección, Subdirección, departamentos o áreas a su cargo, de conformidad con la normatividad o políticas aplicables, así como dirigir la elaboración o actualización de éstos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVII. Dirigir las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVIII. Las demás atribuciones que le sean conferidas por la Dirección General.
+
 ###### ARTÍCULO 41.
 
 La Subdirección de Educación Médica tendrá, entre otras, las siguientes funciones:
 
-I Coordinar, supervisar y evaluar las actividades de las áreas de postgrado y educación médica continua, para garantizar su adecuado funcionamiento.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+I Coordinar, supervisar y evaluar las actividades de las áreas de postgrado y educación médica continua, departamentos y/o áreas internas que le estén adscritos, para garantizar su adecuado funcionamiento.
 
 II Elaborar y coordinar eventos de carácter científico nacionales e internacionales, así como hacer extensiva su difusión, con la finalidad de mejorar la capacitación del personal médico, paramédico y de enfermería.
 
-III Supervisar y evaluar las actividades docentes para la formación de médicos residentes, internos, personal de enfermería y paramédicos, con la finalidad de mantener la calidad del personal docente en la formación de recursos humanos.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+III Supervisar y evaluar las actividades docentes para la formación de médicos residentes, pasantes de servicio social, médicos internos de pregrado, personal de enfermería y paramédicos, con la finalidad de mantener la calidad del personal docente en la formación de recursos humanos.
 
 IV Coordinar, promover y supervisar el proceso de enseñanza de postgrado y los programas de educación médica continua, así como las actividades concernientes a la difusión y publicación de los documentos que se elaboren en el Instituto, con la finalidad de mejorar la calidad del proceso de enseñanza- aprendizaje.
 
-V Coordinar acciones de programación de actividades de capacitación y evaluar periódicamente su cumplimiento, con la finalidad de promover la educación médica continúa y mejorar su contenido.
+V (DEROGADA, D.O.F. 3 DE AGOSTO DE 2021)
 
 VI Coordinar y supervisar los programas de capacitación del personal de enfermería en el área oncológica, para mejorar la calidad de atención del personal de enfermería con el paciente oncológico.
 
@@ -833,19 +1397,39 @@ VII Organizar, promover y controlar la enseñanza de pregrado y postgrado en el 
 
 VIII Organizar, promover y controlar los apoyos de documentación e informática necesarios para las actividades de docencia e investigación, incluyendo bibliohemeroteca e informática, con la finalidad de mejorar la calidad de la formación médica y promover los avances científicos más recientes.
 
-IX Organizar y coordinar los procedimientos de recepción, registro y egreso de médicos residentes e internos, con la finalidad de promover la formación de recursos humanos en el área oncológica.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IX Organizar y coordinar los procedimientos de recepción, registro y egreso de médicos residentes, médicos pasantes de servicio social, internos, médicos visitantes, con la finalidad de promover la formación de recursos humanos en el área oncológica.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+X Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XI Proponer a su superior jerárquico, los manuales de organización, de procedimientos, de servicios de la Subdirección y los departamentos a su cargo, así como las actualizaciones de éstos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII Efectuar las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 42.
 
-La Dirección de Administración tendrá, entre otras, las siguientes funciones:
+La Dirección de Administración y Finanzas tendrá, entre otras, las siguientes funciones:
 
-I Planear, organizar, dirigir y controlar los programas de trabajo y las actividades de las Subdirecciones de Administración y Desarrollo de Personal, de Contabilidad y Finanzas, de Recursos Materiales, de Servicios Generales y de Planeación, de acuerdo con las políticas, normas y lineamientos emitidos por instancias superiores, a fin de optimizar y eficientar el aprovechamiento de los recursos con los que cuenta el Instituto.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+I Planear, supervisar, organizar y dirigir los programas de trabajo y las actividades de las Subdirecciones de Administración y Desarrollo de Personal, de Contabilidad y Finanzas, de Recursos Materiales, de Servicios Generales y de Planeación, de acuerdo con las políticas, normas y lineamientos emitidos por instancias superiores, a fin de optimizar y eficientar el aprovechamiento de los recursos con los que cuenta el Instituto.
 
 II Instruir, conducir y evaluar las Subdirecciones a su cargo, así como las políticas, normas, lineamientos, criterios, sistemas y procedimientos para asegurar su adecuado funcionamiento y el logro de sus objetivos.
 
 III Presentar y acordar con la Dirección General, los asuntos de las Subdirecciones a su cargo, así como coordinar sus actividades con las demás áreas del Instituto y cuando corresponda, con otras dependencias y entidades gubernamentales.
 
-IV Proponer al Director General, las acciones, medidas y normatividad en la administración interna que se estimen convenientes para el mejor funcionamiento y organización del Instituto.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IV Proponer al Director General, las acciones y medidas en la administración que se estimen convenientes para el mejor funcionamiento y organización del Instituto.
 
 V Proponer al Director General, la designación, promoción, licencia y remoción del personal a su cargo.
 
@@ -857,11 +1441,15 @@ VIII Resolver, a través de la Subdirección de Administración y Desarrollo de 
 
 IX Dirigir las relaciones laborales del Instituto, a través de la Subdirección de Administración y Desarrollo de Personal de acuerdo con los lineamientos internos y la normatividad aplicable.
 
-X Dirigir las gestiones necesarios para integrar y proponer modificaciones a la estructura orgánica del Instituto o analizar y evaluar las propuestas de reorganización interna, conforme a la normatividad vigente y a los lineamientos aprobados por la Junta de Gobierno.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+X Dirigir las gestiones necesarias para integrar y proponer modificaciones a la estructura orgánica del Instituto o analizar y evaluar las propuestas de reorganización interna, conforme a la normatividad vigente y a los lineamientos aprobados por la Junta de Gobierno.
 
 XI Vigilar que las sanciones administrativas a las que se haga acreedor el personal del Instituto, sean ejecutadas de conformidad con los lineamientos establecidos para estos efectos.
 
-XII Establecer conjuntamente con el Director General, la designación o remoción en su caso, de los representantes del Instituto ante la Comisión Mixta de Escalafón o ante las comisiones mixtas que se integren, así como las reglas de actuación, para contar con una plantilla de personal acorde a las necesidades de las áreas del Instituto.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII Establecer conjuntamente con el Director General, la designación o remoción en su caso, de los representantes del Instituto ante la Comisión Auxiliar Mixta de Escalafón y demás comisiones mixtas que se integren, así como las reglas de actuación, para contar con una plantilla de personal acorde a las necesidades de las áreas del Instituto.
 
 XIII Coordinar y supervisar, a través dela Subdirección de Contabilidad y Finanzas la integración, gestión, ejercicio, evaluación y control del presupuesto por los capítulos de gasto y metas programáticas autorizados al Instituto, de conformidad con las disposiciones y lineamientos emitidos por la autoridad correspondiente, con la finalidad de dotar al Instituto de los bienes y recursos necesarios, a través de una administración eficaz.
 
@@ -875,13 +1463,17 @@ XVII Evaluar el programa administrativo de los servicios generales del Instituto
 
 XVIII Autorizar la afectación presupuestal correspondiente de los convenios y contratos en los que el Instituto sea parte, sancionados por la Subdirección de Asuntos Jurídicos y autorizados por el Director General; así como los demás documentos que impliquen actos de administración, conforme a las disposiciones aplicables, para abastecer de servicios e insumos a todas las áreas del Instituto mediante los controles establecidos.
 
-XIX Elaborar y proponer, en su caso para la aprobación de la Dirección General, a través de la Subdirección de Planeación y en coordinación con las áreas responsables; las políticas, normas, sistemas y procedimientos administrativos que permitan optimizar el funcionamiento de las subdirecciones adscritas a la Dirección de Administración.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIX. Autorizar y dirigir en coordinación con la Subdirección de Planeación y áreas responsables, la elaboración, actualización de las políticas, normas, sistemas y procedimientos administrativos que permitan optimizar el funcionamiento de las subdirecciones a su cargo.
 
 XX Planear y formular, a través de la Subdirección de Planeación, los proyectos de presupuesto de ingresos y egresos, así como los programas institucionales para someter a su aprobación por las instancias correspondientes.
 
 XXI Coordinar y dirigir el análisis, instrumentación, seguimiento y evaluación periódica de los resultados alcanzados, así como la relación que guardan los programas y presupuestos institucionales con los objetivos y prioridades establecidos, de acuerdo a la normatividad vigente y políticas internas establecidas.
 
-XXII Instruir las acciones establecidas en el Sistema de Control Interno, con la finalidad de conocer el estado que guarda el Instituto, a fin de identificar las desviaciones en el cumplimiento de la misión y objetivos institucionales, implementando las acciones correspondientes.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XXII Instruir las acciones establecidas en el Sistema de Control Interno, con la finalidad de conocer el estado que guarda el Instituto, a fin de identificar las debilidades en el cumplimiento de la misión y objetivos institucionales, implementando las acciones correspondientes.
 
 XXIII Coordinar y vigilar, a través de la Subdirección de Planeación, la elaboración de la carpeta y el acta de la Junta de Gobierno, a fin de rendir un informe sobre la gestión institucional, así como el seguimiento a los acuerdos y reportando los avances del Programa de Trabajo del Instituto.
 
@@ -889,7 +1481,9 @@ XXIV Vigilar desde el ámbito administrativo la operación y aprovechamiento de 
 
 XXV Coordinar a las diferentes áreas a su cargo durante el desarrollo de las auditorías que en ámbito de su competencia practiquen las diferentes instancias normativas, para que sus requerimientos de información sean atendidos en tiempo y forma a fin de solventar legal y oportunamente las observaciones emitidas por dichas instancias.
 
-XXVI Establecer coordinación con el Órgano Interno de Control, en cuanto a la realización de funciones de supervisión, vigilancia y auditoría de sus áreas.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XXVI Establecer coordinación con sus unidades administrativas, a efecto de que entre todos coadyuven con el Órgano Interno de Control, en la realización de sus funciones de supervisión, vigilancia y control.
 
 XXVII Coordinar la emisión y entrega en tiempo y forma, de los informes periódicos y extraordinarios que se generen en las áreas adscritas a su cargo, para dar cumplimiento a los requerimientos de las instancias globalizadoras.
 
@@ -921,27 +1515,59 @@ La Subdirección de Administración y Desarrollo de Personal tendrá, entre otra
 
 I. Coordinar, supervisar y evaluar las actividades de las áreas de empleo, relaciones laborales y de capacitación y desarrollo; para su adecuado funcionamiento y cumplimiento de objetivos institucionales, con base en el establecimiento e implementación de procesos y procedimientos en materia de planeación, organización y administración de recursos humanos.
 
-II Elaborar, actualizar y difundir los manuales de organización y procedimientos del área en coordinación con la Subdirección de Planeación.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-III Reclutar y seleccionar al personal de nuevo ingreso que requiera el Instituto, así como controlar, a través del Departamento de Empleo, la emisión y elaboración de los nombramientos de los empleados y/o cualquier otro tipo de movimiento de personal de conformidad con la normatividad aplicable.
+II Proponer, elaborar, actualizar y difundir los manuales de organización y procedimientos de la Subdirección y Departamentos a su cargo, en coordinación con la Subdirección de Planeación.
 
-IV Realizar en materia laboral ante diversas instituciones, trámites, consultas y solicitudes de recursos para efectuar pagos de salarios caídos y otras prestaciones de carácter económico como resultado de sentencias definitivas emitidas por la autoridad competente y resoluciones administrativas conforme a las disposiciones legales aplicables.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-V Implementar y promover, a través del Departamento de Capacitación y Desarrollo, la realización de programas de educación, capacitación y desarrollo del personal; así como eventos culturales, deportivos y sociales, para su fortalecimiento, actualización, desarrollo y formación profesional que contribuyan al fomento de identidad y cultura organizacional.
+III Reclutar, evaluar y seleccionar al personal de nuevo ingreso que requiera el Instituto, a través del Departamento de Capacitación y Desarrollo en coordinación con el Departamento de Empleo, así como controlar la emisión y elaboración del Formato Único de Movimientos de Personal y/o cualquier otro tipo de movimiento de personal, a través del Departamento de Empleo, de conformidad con las disposiciones y normatividad aplicable.
 
-VI Coordinar, evaluar y vigilar a través del Departamento de Empleo la actualización del catálogo de puestos y el tabular de sueldos, la aplicación de la remuneraciones, prestaciones y servicios económicos y sociales a los que tengan derecho los trabajadores; así como las deducciones, descuentos y retenciones autorizadas conforme a la normatividad que deriven por concepto de seguridad social, impuestos y seguros, entre otros.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-VII Coordinar, evaluar y vigilar a través del Departamento de Relaciones Laborales la integración, control y actualización de los expedientes de los servidores públicos; el registro y control de asistencias e incidencias; asimismo, las medidas disciplinarias y sanciones administrativas previstas en la legislación laboral, en las Condiciones Generales de Trabajo y disposiciones jurídicas vigentes garantizando una adecuada relación entre la autoridad y el personal que labora para el Instituto; intervenir en la atención y resolución de los conflictos de carácter laboral.
+IV Realizar los trámites administrativos necesarios y solicitudes de recursos ante la instancia correspondiente, a fin de efectuar pagos de salarios caídos, en los términos y condiciones de las sentencias definitivas emitidas por la autoridad judicial competente, conforme a las disposiciones legales aplicables.
 
-VIII Planear, programar y ejecutar, a través del Departamento de Empleo, el presupuesto anual autorizado para el Capítulo 1000, 2000 y 3000. Controlar y vigilar el correcto ejercicio del gasto correspondiente para la elaboración, integración y entrega oportuna y veraz de los formatos requeridos por las dependencias globalizadoras sobre el ejercicio del presupuesto del capítulo 1000.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+V Implementar y promover, a través del Departamento de Capacitación y Desarrollo, la realización de programas de capacitación, desarrollo y evaluación del personal; así como fomentar eventos culturales, deportivos y sociales, para su fortalecimiento, actualización, desarrollo y formación profesional que contribuyan a la consolidación de la identidad y cultura organizacional.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+VI Vigilar a través del Departamento de Empleo, que se apliquen las actualizaciones del Catálogo de Puestos y Tabulador de Sueldos y Salarios, así como los Manuales de Percepciones, en cuanto a remuneraciones, prestaciones y servicios económicos y sociales a los que tengan derecho los trabajadores; así como las deducciones, descuentos y retenciones autorizadas conforme a la normatividad que deriven por concepto de seguridad social, impuestos y seguros, entre otros.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+VII Coordinar, evaluar y vigilar a través del Departamento de Relaciones Laborales la integración, control y actualización de los expedientes de los servidores públicos; el registro y control de asistencias e incidencias; asimismo, las medidas disciplinarias y sanciones administrativas previstas en la legislación laboral, administrativa, Condiciones Generales de Trabajo y demás disposiciones jurídicas que resulten aplicables; garantizando una adecuada relación entre la autoridad y el personal que labora para el Instituto; además de ejecutar sanciones administrativas emitidas por el Órgano Interno de Control y la Subdirección de Asuntos Jurídicos, en los casos que resulte (sic) procedentes.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+VIII Planear, programar y ejecutar, a través del Departamento de Empleo, el presupuesto anual autorizado para el Capítulo 1000; así como las partidas asociadas a éste y que se encuentran en los Capítulos 2000 y 3000.
 
 IX Coordinar a través del Departamento de Empleo la elaboración de los informes institucionales referentes a cuotas y aportaciones que se enteran a terceros, los cuales permiten realizar declaraciones y/o enteros correspondientes, a las obligaciones fiscales inherentes al pago de remuneraciones; así como, aquellos informes que en el ámbito de su competencia requieran las diversas áreas internas del Instituto, dependencias globalizadoras y entidades fiscalizadoras conforme a las disposiciones legales vigentes.
 
-X Participar y coordinar las actividades del Comité Mixto de Escalafón; la Comisión Mixta de Seguridad e Higiene en el Trabajo; el Comité Mixto Evaluador para productividad y el desempeño; el Comité Evaluador para el otorgamiento de premios, Estímulos y Recompensas, la Comisión Mixta de Capacitación del Instituto y Comité de Vestuario para vigilar el cumplimiento y aplicación de los acuerdos que se tomen.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-XI Resolver e intervenir, a través del Departamento de Relaciones Laborales y en coordinación con la Subdirección de Asuntos Jurídicos, en los casos de terminación y recisión de la relación laboral, en apego a las disposiciones en materia laboral.
+X Participar y coordinar las actividades de la Comisión Auxiliar Mixta de Escalafón; la Comisión Central Mixta de Seguridad e Higiene en el Trabajo; la Comisión Mixta de Evaluación Permanente; la Comisión Mixta Evaluadora para el Otorgamiento de Premios, Estímulos y Recompensas al Personal, la Comisión Central Mixta de Capacitación, la Comisión Central Mixta de Vestuario y Equipo, la Comisión Mixta para la Convivencia Infantil de Verano y la Comisión Mixta de Bienestar Físico de los Trabajadores, con la finalidad de vigilar el cumplimiento y aplicación de los acuerdos que se tomen, así como en aquellos Comités en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
 
-XII Aplicar la normatividad que emitan las distintas instancias, en el ámbito de su competencia, vigilando su cumplimiento y correcta aplicación.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XI Atender, a través del Departamento de Relaciones Laborales, las resoluciones y dictámenes que emita la Subdirección de Asuntos Jurídicos, en los casos de sanciones a personal y recisión de la relación laboral, en apego a las disposiciones en materia laboral.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII Vigilar en coordinación con los Departamentos a su cargo, el cumplimiento de las Condiciones Generales de Trabajo, la legislación laboral, administrativa y la normatividad emitida por la Secretaría de Salud y el Instituto, en materia de Recursos Humanos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIII Coordinar, a través de los Departamentos de Empleo, Relaciones Laborales, y de Capacitación y Desarrollo, para su debida entrega, aquellos informes que en el ámbito de su competencia requieran dependencias globalizadoras y entidades fiscalizadoras, conforme a las disposiciones legales vigentes, mediante los sistemas informáticos que se tengan implementados para ello o a través de los diferentes medios de comunicación.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIV Efectuar las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XV Las demás atribuciones que le sean conferidas por la Dirección de Administración y Finanzas.
 
 ###### ARTÍCULO 44.
 
@@ -963,19 +1589,35 @@ VII Supervisar, a través del Departamento de Contabilidad, el control de las cu
 
 VIII Coordinar a los Departamentos de Contabilidad y Control Presupuestal, para que se elaboren los informes contables - presupuestales requeridos para las reuniones que anteceden a la Junta de Gobierno y del Comité de Control y Desempeño Institucional.
 
-IX Colaborar a través del Departamento de Control Presupuestal con la Subdirección de Planeación en la elaboración del Anteproyecto de Presupuesto en base al Programa Anual de Trabajo del Instituto, considerando los lineamientos generales que en materia del gasto establezca la Secretaría de Hacienda y Crédito Público así como los lineamientos específicos que defina la Coordinadora de Sector para su entrega oportuna.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IX Colaborar a través del Departamento de Control Presupuestal con la Subdirección de Planeación para la elaboración del Anteproyecto de Presupuesto con base en el Programa Anual de Trabajo del Instituto, considerando los lineamientos generales que en materia del gasto establezca la Secretaría de Hacienda y Crédito Público, así como los lineamientos específicos que defina la Coordinadora de Sector para su entrega oportuna.
 
 X Supervisar y coordinar al Departamento de Control Presupuestal para que las actividades inherentes a la elaboración, gestión, ejercicio y control del presupuesto de los capítulos 1000 “Servicios Personales”, 2000 “Materiales y Suministros”, 3000 “Servicios Generales”, 5000 “Bienes Muebles e Inmuebles”, 6000 “Obras Públicas” y 7000 “Inversión Financiera”, Provisiones Económicas, Ayudas, Otras Erogaciones, y Pensiones, Jubilaciones y Otras”, se realicen conforme a la normatividad en la materia y los procedimientos establecidos, para dar un puntual y estricto seguimiento al ejercicio programático y presupuestal del Instituto.
 
-XI Supervisar la gestión de las adecuaciones presupuestarias que requiera el Instituto durante su ejercicio, de acuerdo a los lineamientos y prioridades que para tal efecto establezca el Director General del INCan a fin de dar cumplimiento con la normatividad en la materia.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XI Supervisar la gestión de las adecuaciones presupuestarias que requiera el Instituto durante su ejercicio, de acuerdo a los lineamientos y prioridades que para tal efecto establezca el Director General, a fin de dar cumplimiento con la normatividad en la materia.
 
 XII Controlar y coordinar, a través de los Departamentos de Tesorería y Control Presupuestal, la gestión y trámite de transferencias de recursos fiscales y cuentas por liquidar, a fin de que el Instituto cuente en tiempo y forma con los recursos presupuestales, autorizados para el gasto de operación y/o de inversión.
 
 XIII Supervisar y coordinar, a través del Departamento de Tesorería, los sistemas de control de efectivo, valores, asignaciones presupuestales y disponibilidad de operaciones bancarias, cheques y de inversión del Instituto, conforme a la normatividad vigente en materia y políticas internas establecidas para ese efecto.
 
-XIV Participar en los diversos comités que le sean designados por las autoridades del Instituto.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-XV Y las demás inherentes a sus funciones.
+XIV Participar en las Comisiones y/o Comités del Instituto, en los que forme parte o se le requiera, de acuerdo a la normatividad que resulte aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XV Proponer a su superior jerárquico, los manuales de organización, de procedimientos de la Subdirección y los departamentos a su cargo, así como las actualizaciones de éstos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVI Efectuar las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XV], D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVII Las demás atribuciones que le sean conferidas por la Dirección de Administración y Finanzas.
 
 ###### ARTÍCULO 45.
 
@@ -1015,11 +1657,29 @@ XVI Notificar las sanciones y penalizaciones que, conforme a las obligaciones pa
 
 XVII Calificar, aceptar, controlar, custodiar, cancelar y proceder a la devolución de las garantías de cumplimiento, anticipo, pólizas de responsabilidad civil o de cualquier otra naturaleza, cuya entrega haya sido solicitada dentro de los procedimientos de contratación, así como solicitar su efectividad a través del Área de Asuntos Jurídicos en términos de lo previsto en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, su Reglamento y demás normatividad aplicable.
 
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVIII Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIX Proponer a su superior jerárquico, los manuales de organización, de procedimientos de la Subdirección y los departamentos a su cargo, así como las actualizaciones de éstos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XX Efectuar las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XXI Las demás atribuciones que le sean conferidas por la Dirección de Administración y Finanzas
+
 ###### ARTÍCULO 46.
 
 La Subdirección de Servicios Generales tendrá, entre otras, las siguientes funciones:
 
-I Coordinar, supervisar y evaluar las actividades de los Departamentos de Servicios, Conservación y Mantenimiento, Alimentación, Comedor y Cocina, Obras y Supervisión, Tecnologías de la Información, y la Coordinación de Archivos se realicen adecuadamente, así como establecer políticas de funcionamiento y líneas de acción con la finalidad de asegurar un óptimo funcionamiento de la infraestructura y servicios, de acuerdo a las normas y políticas establecidas.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+I Coordinar, supervisar y evaluar que las actividades de los Departamentos de Servicios; Obras, Conservación y Mantenimiento; Alimentación, Comedor y Cocina; Tecnologías de la Información, y la Coordinación de Archivos se realicen adecuadamente, así como establecer políticas de funcionamiento y líneas de acción con la finalidad de asegurar un óptimo funcionamiento de la infraestructura y servicios, de acuerdo a las normas y políticas establecidas.
 
 II Participar en la integración, elaboración y revisión del Programa Anual de Trabajo del Instituto.
 
@@ -1039,13 +1699,19 @@ IX Elaborar y administrar el programa institucional anual de desarrollo informá
 
 X Instruir las acciones necesarias para monitorear y mantener en óptimas condiciones el funcionamiento de los sistemas informáticos, a fin de que las áreas usuarias se desarrollen con oportunidad.
 
-XI Elaborar y presentar a la Dirección de Administración el informe de actividades de la Subdirección, con el propósito de evaluar el avance de los programas, metas y objetivos fijados en mantenimiento preventivo y correctivo, manejo integral de los residuos hospitalarios, obra pública, tecnologías de la información, comedor, entre otros; al inicio de cada ejercicio a efecto de tomar las medidas correctivas necesarias para coadyuvar en el cumplimiento de los objetivos del Instituto.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-XII Instrumentar las acciones necesarias para cumplir en tiempo y forma con las obligaciones en materia de transparencia y acceso a la información pública gubernamental, respecto de los asuntos a su cargo.
+XI Elaborar y presentar a la Dirección de Administración y Finanzas el informe de actividades de la Subdirección, con el propósito de evaluar el avance de los programas, metas y objetivos fijados en mantenimiento preventivo y correctivo, manejo integral de los residuos hospitalarios, obra pública, tecnologías de la información, comedor, entre otros; al inicio de cada ejercicio a efecto de tomar las medidas correctivas necesarias para coadyuvar en el cumplimiento de los objetivos del Instituto.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII Instrumentar las acciones necesarias para cumplir en tiempo y forma con los requerimientos, observaciones y recomendaciones que en materia de transparencia y acceso a la información pública se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
 
 XIII Llevar la administración, control y seguimiento de los trabajos de obras públicas y servicios relacionados con las mismas, hasta la conclusión definitiva de los contratos en su carácter de Titular del área responsable de la ejecución de los trabajos, conforme a lo dispuesto en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, su Reglamento y demás disposiciones jurídicas aplicables.
 
-XIV Designar, previa autorización de la Dirección de Administración, al residente de obra pública, conforme a lo previsto en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, su Reglamento, el Manual Administrativo de Aplicación General en dicha Materia y demás normatividad aplicable.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIV Designar, previa autorización de la Dirección de Administración y Finanzas, al residente de obra pública, conforme a lo previsto en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, su Reglamento, el Manual Administrativo de Aplicación General en dicha Materia y demás normatividad aplicable.
 
 XV Notificar las sanciones y penalizaciones que, conforme a las obligaciones pactadas en los contratos y demás instrumentos jurídicos, se determinen procedentes de conformidad con lo dispuesto en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para que se establezca la sanción correspondiente.
 
@@ -1053,35 +1719,83 @@ XVI Integrar el programa anual de obras públicas y servicios relacionados con l
 
 XVII Calificar, aceptar, controlar, custodiar, cancelar y proceder a la devolución de las garantías de cumplimiento, anticipo, pólizas de responsabilidad civil o de cualquier otra naturaleza, cuya entrega haya sido solicitada dentro de los procedimientos de contratación, así como solicitar su efectividad a través del Área de Asuntos Jurídicos en términos de lo previsto en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, su Reglamento y demás normatividad aplicable.
 
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVIII Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIX Proponer a su superior jerárquico, los manuales de organización y de procedimientos de la Subdirección y los departamentos a su cargo, así como las actualizaciones de éstos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XX Las demás atribuciones que le sean conferidas por la Dirección de Administración y Finanzas.
+
 ###### ARTÍCULO 47.
 
 La Subdirección de Planeación tendrá, entre otras, las siguientes funciones:
 
 I Asesorar y apoyar a las áreas del Instituto, en el desarrollo y/o actualización de programas y proyectos relativos al cumplimiento de sus funciones, que implique la definición de sus indicadores para la evaluación de resultados, fijación de objetivos, metas, políticas y su respectiva alineación.
 
-II Participar conjuntamente con la Dirección General de Programación, Organización y Presupuesto de la Secretaría de Salud en las actividades inherentes a la concertación de la estructura programática y las etapas de planeación operativa, para la integración del anteproyecto del presupuesto del Instituto.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-III Participar conjuntamente con la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad en las actividades inherentes a la determinación, registro y actualización de las Matrices de Indicadores de Resultados y metas anuales, alineadas a los objetivos sectoriales y/o transversales para su integración en el anteproyecto de presupuesto.
+II Participar conjuntamente con la Dirección General de Programación y Presupuesto de la Secretaría de Salud, en las actividades inherentes a la concertación de la estructura programática y las etapas de planeación operativa, para la integración del anteproyecto del presupuesto del Instituto.
 
-IV Coordinar, verificar e integrar en su totalidad la información generada por el Instituto para la Dirección General considerando el seguimiento de acuerdos, informe de autoevaluación, opinión del comisario público, solicitud de acuerdos, asuntos generales, etc. con la finalidad de que se presente ante la Junta de Gobierno, vigilando que el contenido cumpla con lo estipulado por la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad (CCINSAHE).
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+III Participar conjuntamente con la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad, en las actividades inherentes a la determinación, registro y actualización de las Matrices de Indicadores para Resultados y metas anuales, alineadas a los objetivos sectoriales y/o transversales para su integración en el anteproyecto de presupuesto.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IV Coordinar, verificar e integrar en su totalidad la información generada por el Instituto para la Dirección General considerando el seguimiento de acuerdos, informe de autoevaluación, opinión del comisario público, solicitud de acuerdos, asuntos generales, etc. con la finalidad de que se presente ante la Junta de Gobierno, vigilando que el contenido cumpla con lo estipulado por la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad.
 
 V Coordinar las acciones necesarias para el cumplimiento de los acuerdos determinados en la Junta de Gobierno.
 
-VI Participar en coordinación con el Departamento de Presupuesto adscrito a la Subdirección de Contabilidad y Finanzas, en la integración del Informe de la Cuenta de la Hacienda Pública Federal, en cumplimiento con la normatividad establecida por la Cámara de Diputados.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-VII Elaborar y proponer a la Dirección General el Programa Anual de Trabajo del Instituto, para el cumplimiento de la misión, visión, objetivos y metas institucionales, de conformidad con la directrices establecidas por Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad.
+VI Participar en coordinación con el Departamento de Control Presupuestal adscrito a la Subdirección de Contabilidad y Finanzas, en la integración del Informe de la Cuenta de la Hacienda Pública Federal, en cumplimiento con la normatividad establecida.
 
-VIII Participar en conjunto con el Departamento de Control Presupuestal adscrito a la Subdirección de Contabilidad y Finanzas en la elaboración e integración del Anteproyecto de Presupuesto en base al Programa Anual de Trabajo del Instituto, y del Programa Anual de Inversión, considerando los lineamientos generales que en materia del gasto establezca la Secretaría de Hacienda y Crédito Público, así como los lineamientos específicos.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-IX Coordinar e integrar conjuntamente con el Órgano interno de Control, la documentación para la elaboración del Comité de Control y Desempeño Institucional y verificar que el contenido del orden del día cumpla con lo señalado en el Manual Administrativo de Aplicación General emitido por la Secretaría de la Función Pública.
+VII Elaborar y proponer a la Dirección General el Programa Anual de Trabajo y/o el Programa Institucional, para el cumplimiento de la misión, visión, objetivos y metas institucionales, en apego al Plan Nacional de Desarrollo, programas sectoriales y/o transversales, así como a las directrices establecidas por la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad.
 
-X Aplicar los lineamientos emitidos por la coordinadora de sector para la elaboración de los manuales administrativos de organización específicos, de procedimientos generales y de los demás manuales de organización y procedimientos y servicios, para su difusión y aplicación de las diversas áreas del Instituto.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-XI Participar conjuntamente con la Secretaría de la Función Pública para mantener el Sistema de Control Interno Institucional y el proceso de administración de riesgos de conformidad con la normatividad establecida.
+VIII Participar en conjunto con el Departamento de Control Presupuestal adscrito a la Subdirección de Contabilidad y Finanzas en la elaboración e integración del Anteproyecto de Presupuesto con base en el Programa Anual de Trabajo del Instituto y el Programa Anual de Inversión, considerando los lineamientos generales que en materia del gasto establezca la Secretaría de Hacienda y Crédito Público, así como los lineamientos específicos.
 
-XII Asesorar a las áreas del INCan, recopilar y proporcionar la información en cumplimiento con las obligaciones en materia de transparencia y acceso a la información pública gubernamental y protección de datos personales.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IX Organizar y coordinar conjuntamente con el Órgano Interno de Control, lo relacionado a la celebración del Comité de Control y Desempeño Institucional conforme a lo señalado en la normatividad aplicable.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+X Aplicar los lineamientos emitidos por la coordinadora de sector y en su caso los lineamientos internos para la elaboración de los manuales administrativos de organización específicos, de procedimientos generales y de los demás manuales de organización y procedimientos y servicios, para su autorización, por parte de los Directores de Área de acuerdo a las áreas a su cargo, su difusión y aplicación; así como, proponer aquellos que correspondan a la Subdirección y su departamento adscrito y las actualizaciones de éstos.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XI Participar conjuntamente con la Dirección General, Dirección de Administración y Finanzas y el Órgano Interno de Control en el fortalecimiento del Sistema de Control Interno y el proceso de administración de riesgos de conformidad con la normatividad aplicable, a fin de proponer acciones de mejora y de control tendientes al cumplimiento de los objetivos y metas institucionales.
+
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XII Vigilar el cumplimiento de las obligaciones en materia de transparencia y acceso a la información pública y protección de datos personales.
 
 XIII Elaborar las fichas técnicas y/o costo-beneficio de los Programas y Proyectos de Inversión con base en la planeación en materia de inversión de conformidad con la normatividad vigente.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XIV Efectuar las modificaciones al Estatuto Orgánico y el Manual de Organización Específico del Instituto, con la finalidad de propiciar un mejor funcionamiento institucional.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XV Efectuar la inscripción de los documentos que deban estar inscritos en el Registro Público de Organismos Descentralizados (REPODE), así como su publicación en el Diario Oficial de la Federación, de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVI Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+XVII Las demás atribuciones que le sean conferidas por la Dirección de Administración y Finanzas.
 
 ###### ARTÍCULO 48.
 
@@ -1101,11 +1815,25 @@ VI. Auxiliar al Director General y al Órgano Interno de Control, en la aplicaci
 
 VII. Formular demandas de amparo e interponer toda clase de recursos en contra de las resoluciones que emitan las autoridades administrativas, laborales, civiles, en defensa de los intereses del Instituto.
 
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+VIII. Participar en las Comisiones y/o Comités del Instituto en los que forme parte o se le requiera, de acuerdo a la normatividad aplicable en la materia, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IX. Efectuar las acciones necesarias para atender de manera oportuna los requerimientos, observaciones y recomendaciones que, en materia de transparencia y acceso a la información, se realicen a través de la Unidad de Transparencia, respecto de los asuntos a su cargo.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+X. Proponer a su superior jerárquico, los manuales de organización y de procedimientos de la Subdirección, así como las actualizaciones de éstos.
+
 ### CAPÍTULO VIII. DE LAS COMISIONES Y COMITÉS
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 49.
 
-Las Comisiones y los Comités a que se refiere el Artículo 4°, Fracción IV, del presente Estatuto tendrán las funciones que le señalen su Reglamento, el Manual de Organización del Instituto, la Reglamentación Académica y Administrativa del Instituto, así como las demás disposiciones que les sean aplicables.
+Las Comisiones y los Comités a que se refiere el artículo 4, fracción V del presente Estatuto, tendrán las funciones que le señalen su Reglamento, Manual General, Manual de Integración y Funcionamiento Institucional, Reglas Internas de Operación, Reglamentación Académica y Administrativa, así como las demás disposiciones que les sean aplicables.
 
 ###### ARTÍCULO 50.
 
@@ -1181,15 +1909,39 @@ El órgano de vigilancia, se integra por un Comisario Público propietario y un 
 
 El Comisario Público tendrá las atribuciones que le otorgan la Ley Federal de las Entidades Paraestatales, el Reglamento de la Ley Federal de las Entidades Paraestatales, el Reglamento Interior de la Secretaría de la Función Pública y demás disposiciones aplicables. El Comisario asistirá a la Junta de Gobierno, con voz, pero sin voto.
 
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 69.
 
-El Instituto cuenta con un Órgano Interno de Control, al frente del cual el Titular del Órgano Interno de Control designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por el Titular del Área de Auditoría Interna y Titular del Área de Quejas y Responsabilidades designadas en los mismos términos.
+El Instituto cuenta con un Órgano Interno de Control, su Titular es designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, para el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de Responsabilidades, de Auditoría Interna, de Desarrollo y Mejora de la Gestión Pública, Quejas, Denuncias e Investigaciones, quienes serán designados en términos de la normatividad aplicable.
 
-Los servidores públicos a que se refiere el párrafo anterior, dependerán jerárquica y funcionalmente de la Secretaría de la Función Pública, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículos 63 y 64 del Reglamento Interior de la Secretaría de la Función Pública.
+Los servidores públicos a que se refiere el párrafo anterior, dependerán jerárquica y funcionalmente de la Secretaría de la Función Pública, en el ámbito de sus respectivas competencias, y ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley General de Responsabilidades Administrativas, Reglamento Interior de la Secretaría de la Función Pública y demás ordenamientos legales y administrativos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 70.
 
-El Órgano Interno de Control forma parte de la estructura del Instituto y tiene por objeto apoyar la función directiva, así como promover el mejoramiento de la gestión del Instituto.
+El Órgano Interno de Control actuará y ejercerá sus facultades teniendo por objeto apoyar la función del Instituto y promover el mejoramiento de la gestión, manteniendo un adecuado nivel de coordinación con las unidades administrativas y sustantivas que conforman la estructura orgánica del Instituto para el desarrollo de sus funciones, así como requerir la información necesaria para cumplir con sus atribuciones, conforme a lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+I. Recibir e investigar las denuncias que se formulen por posibles actos u omisiones que pudieran constituir faltas administrativas cometidas por servidores públicos o particulares por conductas sancionables, de conformidad con la Ley aplicable, incluidas las que deriven de los resultados de las auditorías practicadas por las autoridades competentes, o en su caso, de auditores externos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+II. Substanciar los procedimientos de responsabilidades administrativas y sancionar las conductas que constituyan faltas administrativas.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+III. Ordenar y realizar, por sí o en coordinación con las Unidades Administrativas de la Secretaría u otras instancias externas de fiscalización, auditorías y visitas de inspección.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+IV. Hacer del conocimiento de las autoridades investigadoras los actos u omisiones por presuntas faltas administrativas de servidores públicos y particulares que hubieren sido detectados en la auditoría, visita de inspección o en el seguimiento de las observaciones a través del informe de irregularidades detectadas.
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+V. En los demás casos en que deba intervenir el Órgano Interno de Control, que para el efecto requiera la propia Secretaría de la Función Pública.
 
 ### CAPÍTULO X. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
@@ -1197,19 +1949,25 @@ El Órgano Interno de Control forma parte de la estructura del Instituto y tiene
 
 Las ausencias del Director General del Instituto serán suplidas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
 
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 72.
 
-Las ausencias de los titulares de la Dirección General Adjunta Médica, de las Direcciones de Investigación, Docencia y Administración y de las Subdirecciones de Asuntos Jurídicos, de Investigación Básica, de Investigación Clínica, de Educación Médica, de Medicina Interna, de Cirugía, de Radioterapia, de Patología, de Servicios Auxiliares de Diagnóstico y Tratamiento, de Servicios Paramédicos, de Atención Hospitalaria y Consulta Externa, de Administración y Desarrollo de Personal, de Contabilidad y Finanzas, de Recursos Materiales, de Servicios Generales y de Planeación, serán cubiertas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
+Las ausencias de los titulares de las Direcciones Médica, de Investigación, de Docencia y de Administración y Finanzas; de las Subdirecciones de Asuntos Jurídicos, Investigación Básica, Investigación Clínica, Educación Médica, Medicina Interna, Cirugía, e (sic) Radioterapia, Patología, Servicios Auxiliares de Diagnóstico y Tratamiento, Servicios Paramédicos, Atención Hospitalaria y Consulta Externa, Administración y Desarrollo de Personal, Contabilidad y Finanzas, Recursos Materiales, Servicios Generales y de Planeación, serán cubiertas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 73.
 
-Las ausencias del Titular del Órgano Interno de Control, así como las de los titulares de las áreas de auditoría interna y de quejas y responsabilidades, serán suplidas conforme a lo previsto por el artículo 88, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de la Función Pública.
+Las ausencias del Titular del Órgano Interno de Control, así como las de los titulares de las áreas que lo integran, serán suplidas conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 ### CAPÍTULO XI. INSCRIPCIONES EN EL REGISTRO PÚBLICO DE ORGANISMOS DESCENTRALIZADOS
 
+> <small>(REFORMADO PRIMER ÁRRAFO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 74.
 
-Se deberán inscribir en el Registro Público de Organismos Descentralizados:
+El Instituto deberá inscribir en el Registro Público de Organismos Descentralizados:
 
 I. El Estatuto Orgánico y sus reformas o modificaciones;
 
@@ -1221,9 +1979,13 @@ IV. Los poderes generales y sus revocaciones;
 
 V. El acuerdo de la Secretaría de Hacienda y Crédito Público o de la dependencia coordinadora del sector en su caso que señale las bases de la fusión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen las mismas; y
 
-VI. Los demás documentos o actos que determine el reglamento de este ordenamiento.
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
-El reglamento de esta Ley determinará la constitución y funcionamiento del Registro, así como las formalidades de las inscripciones y sus anotaciones.
+VI. Los demás documentos o actos que determine el Reglamento de la Ley Federal de las Entidades Paraestatales.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
+
+El Reglamento de la Ley Federal de las Entidades Paraestatales determinará la constitución y funcionamiento del registro, así como las formalidades de las inscripciones y sus anotaciones.
 
 ### CAPÍTULO XII. DE LAS MODIFICACIONES AL ESTATUTO
 
@@ -1268,3 +2030,17 @@ Se adicionan las fracciones XXXIV, XXXV, XXXVI y XXXVII del artículo 42, recorr
 Se instruye su inscripción en el Registro Público de Organismos Descentralizados y su publicación en el Diario Oficial de la Federación.
 
 Aprobado en la Ciudad de México, a los veintidós días del mes agosto de dos mil diecinueve en la Segunda Sesión Extraordinaria de la H. Junta de Gobierno del Instituto Nacional de Cancerología, firma el Director General del Instituto Nacional de Cancerología, Antelmo Abelardo Meneses García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE “MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CANCEROLOGÍA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se reforman los números de los artículos 1°, 2°, se reforma su fracción I y se adiciona la fracción III a este precepto, se reforma el número del artículo 3° y se reforma su fracción XIV, se reforma el número del artículo 4°, así como su inciso d) de la fracción IV, inciso f), se adicionan los numerales y se reforma su numeral 1, su numeral 2, se adicionan las denominaciones de las áreas 5, 6, 7, 8 y 9 a dicho inciso; se enumeran los servicios citados en el inciso g), se reforma el nombre del servicio del numeral 3; se deroga el servicio del numeral 12, se reforma el nombre del servicio del numeral 13, se deroga el servicio del numeral 19, se adicionan los servicios de los numerales 26 y 27 a dicho inciso g) y se reforma el último párrafo de la fracción IV del ARTÍCULO 4. Se deroga el inciso e), se reforma el inciso f), inciso g), inciso l), inciso m), inciso o), inciso q); se deroga el inciso r); se reforma el inciso t), inciso u), inciso v), inciso w), inciso x); se adiciona el inciso aa), inciso bb), inciso cc), inciso dd), inciso ee), inciso ff), inciso gg), inciso hh) y se reforma el último párrafo de la fracción V del ARTÍCULO 4. Se reforma el ARTÍCULO 5 y su número, así como los números de los artículos 6°, 7°, 8° y 9°. Se reforma el ARTÍCULO 25. Se reforma el ARTÍCULO 27. Se reforma la fracción I, fracción II, fracción III, fracción IV, fracción V, fracción VIII, fracción IX, fracción X, fracción XII, fracción XV, fracción XVI, fracción XVII y fracción XVIII del ARTÍCULO 29 y se adiciona la fracción XIX, fracción XX, fracción XXI y fracción XXII a dicho precepto. Se reforma la fracción I, fracción III, fracción IV, fracción V; se deroga la fracción VI, se reforma la fracción VIII, se deroga la fracción IX, fracción X, se reforma la fracción XI, fracción XII; se deroga la fracción XIII, se reforma la fracción XIV, se deroga la fracción XV, fracción XVI, fracción XVII, fracción XVIII, fracción XIX, se reforma la fracción XX, se deroga la fracción XXI, se reforma la fracción XXII, se deroga la fracción XXIII, fracción XXIV, fracción XXV, se reforma la fracción XXVI y se adiciona la fracción XXVII, fracción XXVIII y fracción XXIX al ARTÍCULO 30. Se reforma la fracción IV, fracción V, se adiciona la fracción X, fracción XI, fracción XII del ARTÍCULO 31. Se reforma la fracción I, fracción III, fracción V, fracción VI y se adiciona la fracción X, fracción XI, fracción XII al ARTÍCULO 32. Se reforma la fracción I, fracción II, fracción V, fracción IX, se adiciona la fracción XII, fracción XIII, fracción XIV, fracción XV, fracción XVI al ARTÍCULO 33. Se reforma la fracción IV y se adiciona la fracción X, fracción XI y fracción XII al ARTÍCULO 34. Se reforma la fracción VI, fracción VII y se adiciona la fracción XI, fracción XII y fracción XIII al ARTÍCULO 35. Se adiciona la fracción XII, fracción XIII, fracción XIV, fracción XV y fracción XVI al ARTÍCULO 36. Se reforma la fracción I, fracción II, fracción III, se deroga la fracción IV, fracción V, se reforma la fracción VI, fracción VII, se deroga la fracción VIII, se reforma la fracción IX, fracción X, fracción XI, se adiciona la fracción XIII, fracción XIV, fracción XV, fracción XVI, fracción XVII, fracción XVIII, fracción XIX, fracción XX, fracción XXI y fracción XXII al ARTÍCULO 37. Se reforma la fracción I, fracción II, el número de la fracción III, se deroga la fracción V, se reforma la fracción VI, fracción VII, se deroga la fracción VIII, se adiciona la fracción IX, fracción X, fracción XI, fracción XII, fracción XIII, fracción XIV, fracción XV, fracción XVI, fracción XVII y fracción XVIII al ARTÍCULO 38. Se reforma la fracción I, fracción II, fracción III, fracción IV, fracción V, fracción VI, fracción VII, se adiciona la fracción IX, fracción X, fracción XI, fracción XII, fracción XIII, fracción XIV y fracción XV al ARTÍCULO 39. Se reforma la fracción III, fracción VIII, fracción XII, se adiciona la fracción XV, fracción XVI, fracción XVII, fracción XVIII al ARTÍCULO 40. Se reforma la fracción I, fracción III, se deroga la fracción V, se reforma la fracción IX, se adiciona la fracción X, fracción XI, fracción XII al ARTÍCULO 41. Se reforma el ARTÍCULO 42, la fracción I, fracción IV, fracción X, fracción XII, fracción XIX, fracción XXII y fracción XXVI. Se reforma la fracción II, fracción III, fracción IV, fracción V, fracción VI, fracción VII, fracción VIII, fracción X, fracción XI, fracción XII, se adiciona la fracción XIII, fracción XIV, fracción XV al ARTÍCULO 43. Se reforma la fracción IX, fracción XI, fracción XIV, se adiciona la fracción XV, fracción XVI, reformando y recorriendo la actual fracción XV a la fracción XVII del ARTÍCULO 44. Se adiciona la fracción XVIII, fracción XIX, fracción XX, fracción XXI al ARTÍCULO 45. Se reforma la fracción I, fracción XI, fracción XII, fracción XIV, se adiciona la fracción XVIII, fracción XIX, fracción XX al ARTÍCULO 46. Se reforma la fracción II, fracción III, fracción IV, fracción VI, fracción VII, fracción VIII, fracción IX, fracción X, fracción XI, fracción XII, se adiciona la fracción XIV, fracción XV, fracción XVI, fracción XVII al ARTÍCULO 47. Se adiciona la fracción VIII, fracción IX, fracción X al ARTÍCULO 48. Se reforma el ARTÍCULO 49. Se reforma el ARTÍCULO 69. Se reforma el ARTÍCULO 70 y se adicionan la fracción I, fracción II, fracción III, fracción IV y fracción V. Se reforma el ARTÍCULO 72. Se reforma el ARTÍCULO 73. Se reforma el ARTÍCULO 74, fracción VI y su último párrafo del Estatuto Orgánico del Instituto Nacional de Cancerología. Las modificaciones del Estatuto Orgánico del Instituto Nacional de Cancerología, entrarán en vigor a partir del día de su aprobación por parte del Órgano de Gobierno.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye su inscripción en el Registro Público de Organismos Descentralizados y su publicación en el Diario Oficial de la Federación.
