@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2021-06-23"
+last_updated: "2021-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE AGOSTO DE 2021.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de abril de 2014.
 
@@ -585,15 +585,19 @@ VI. Brindar protección para salvaguardar la integridad física de las víctimas
 
 VII. Elaborar y aplicar protocolos especializados con perspectiva de género, en la búsqueda inmediata de mujeres, niñas y adolescentes desaparecidas, para la investigación y resolución de los delitos de violencia familiar, trata de personas, discriminación, feminicidio, sexuales y cualquier otro relacionado que implique actos de violencia contra la mujer.
 
+> <small>(ADICIONADA, D.O. 3 DE AGOSTO DE 2021)</small>
+
+VIII. En materia del delito de feminicidio, informar a las personas ofendidas sobre los efectos, implicaciones y alcances del procedimiento abreviado.
+
 > <small>(ADICIONADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-VIII. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia. Y proporcionar de manera periódica la información a que se refiere esta fracción al Banco Estatal de Datos para integrarla al sistema de información sobre Casos de Violencia contra las Mujeres;
+IX. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia. Y proporcionar de manera periódica la información a que se refiere esta fracción al Banco Estatal de Datos para integrarla al sistema de información sobre Casos de Violencia contra las Mujeres;
 
 > <small>(ADICIONADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-IX. Crear un micrositio en la página de Internet actual de la Fiscalía General del Estado, en la que se encuentren los datos generales de las mujeres, niñas y adolescentes que sean reportadas como desaparecidas en el estado; dicho micrositio deberá actualizarse constantemente. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres, niños, niñas y adolescentes desaparecidos; atendiendo los términos que establece la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Yucatán; y
+X. Crear un micrositio en la página de Internet actual de la Fiscalía General del Estado, en la que se encuentren los datos generales de las mujeres, niñas y adolescentes que sean reportadas como desaparecidas en el estado; dicho micrositio deberá actualizarse constantemente. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres, niños, niñas y adolescentes desaparecidos; atendiendo los términos que establece la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Yucatán; y
 
-X. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+XI. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 > <small>(REFORMADO SU EPÍGRAFE, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -661,11 +665,15 @@ XII. Implementar políticas públicas orientadas a los agresores y encaminadas a
 
 XIII. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
+> <small>(ADICIONADA, D.O. 3 DE AGOSTO DE 2021)</small>
+
+XIV. En materia del delito de feminicidio, informar a las personas ofendidas sobre los efectos, implicaciones y alcances del procedimiento abreviado.
+
 > <small>(ADICIONADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-XIV. Proponer, elaborar, promover e implementar programas y protocolos para prevenir, atender, sancionar y erradicar la violencia digital en todas sus formas y manifestaciones.
+XV. Proponer, elaborar, promover e implementar programas y protocolos para prevenir, atender, sancionar y erradicar la violencia digital en todas sus formas y manifestaciones.
 
-XV. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+XVI. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 22.
 
@@ -1696,3 +1704,15 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al d
 Artículo Segundo.- Las dependencias y entidades públicas de la administración pública estatal y municipal, el Poder Legislativo y Judicial, así como organismos autónomos obligados por el presente decreto a crear los protocolos, contarán con un plazo de 180 días hábiles a partir de la publicación del presente, para la elaboración y publicación de los mismos.
 
 Artículo Tercero.- Se derogan las disposiciones de igual o menor jerarquía en lo que se oponga a lo establecido en este decreto.
+
+D.O. 3 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 400/2021 POR EL QUE SE MODIFICAN EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN Y LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE FEMINICIDIO Y OTROS DELITOS CON INCIDENCIA DE VIOLENCIA DE GÉNERO”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Clausula derogatoria
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga a este decreto.
