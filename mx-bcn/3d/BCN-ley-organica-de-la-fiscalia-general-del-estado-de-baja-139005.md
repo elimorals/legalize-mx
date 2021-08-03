@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-fiscalia-general-del-estado-de-baja-139005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2021-04-28"
+last_updated: "2021-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2021.
 
 Ley publicada en el No. 49 del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -821,13 +821,21 @@ II. Subdirección de Vinculación Social y Participación Ciudadana.
 
 Las atribuciones, obligaciones, requisitos y características orgánicas específicas de la Dirección de Prevención Ciudadana del Delito y la Violencia, así como las subdirecciones que lo integran, estarán determinadas por el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 38.
 
-Dirección del Instituto Estatal de Investigación y Formación Interdisciplinaria. El Instituto Estatal de Investigación y Formación Interdisciplinaria es un órgano de la Fiscalía General del Estado, que servirá para formar, promover, facilitar, desarrollar y coordinar la profesionalización de los aspirantes y agentes del Ministerio Público, Policías, Peritos, y demás servidores públicos adscritos a la misma. Para su funcionamiento, estará integrado por un Director, que tendrá bajo su mando la siguiente estructura orgánica:
+Dirección del Instituto Estatal de Investigación y Formación Interdisciplinaria. El Instituto Estatal de Investigación y Formación Interdisciplinaria es un órgano de la Fiscalía General del Estado que servirá para formar, promover, facilitar, desarrollar y coordinar la profesionalización de los aspirantes y agentes del Ministerio Público, Policías, Peritos, y demás servidores públicos, implementando programas de estudio de educación media superior y superior, entre otros.
 
-I. Subdirección Académica, y
+Además, servirá para formar jóvenes en el nivel medio superior en sus diferentes tipos y modalidades, incluyendo el bachillerato general militarizado en coordinación con las autoridades educativas correspondientes, como estrategia para la prevención del delito.
 
-II. Subdirección de Adiestramiento Policial.
+Para su funcionamiento, estará integrado por un director, que tendrá bajo su mando la siguiente estructura orgánica:
+
+I. Subdirección Académica;
+
+II. Subdirección de Adiestramiento Policial, y
+
+III. Subdirección del Bachillerato General Militarizado.
 
 Las atribuciones, obligaciones, requisitos y características orgánicas de la Dirección del Instituto Estatal de Investigación y Formación Interdisciplinaria y de las subdirecciones que lo integran, estarán determinadas por el Reglamento de la presente Ley.
 
@@ -1044,3 +1052,11 @@ CUARTO. Se Abroga la Ley Orgánica de la Fiscalía Especializada para la Atenci�
 QUINTO. Se Abroga la Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Baja California, Publicada en el Periódico Oficial No. 61, Tomo CXXVI, Sección I, de fecha 13 de diciembre de 2019.
 
 SEXTO. Los recursos humanos y financieros, tratándose del personal de base sindicalizado, mantendrán su relación laboral en el Gobierno Central del Poder Ejecutivo, realizando los mismos, sus funciones como personal comisionado ante la Fiscalía General del Estado, de acuerdo a su experiencia, salvaguardando en todo momento sus derechos adquiridos y prestaciones establecidas en la Ley del Servicio Civil de los Trabajadores del Estado y Municipios, así como en sus Condiciones Generales de Trabajo vigentes.
+
+P.O. 3 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 290 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 38 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto, se deberá gestionar el registro del Instituto Estatal de Investigación y Formación Interdisciplinaria, coma Institución Educativa de Nivel Media Superior, ante las autoridades correspondientes.
