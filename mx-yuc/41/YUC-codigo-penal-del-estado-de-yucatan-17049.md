@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2021-07-05"
+last_updated: "2021-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE AGOSTO DE 2021.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -553,11 +553,11 @@ La sanción impuesta a la persona moral de acuerdo con este Código y demás ley
 
 ### CAPÍTULO II. PRISIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 29.
 
-La prisión consiste en la pena privativa de la libertad personal. Su duración no será menor de tres meses ni mayor de sesenta años, salvo los casos de excepción previstos en las disposiciones legales aplicables para la pena mínima. Se extinguirá en los centros penitenciarios, de conformidad con la legislación en la materia y ajustándose a la resolución judicial respectiva.
+La prisión consiste en la pena privativa de la libertad personal. Su duración no será menor de tres meses ni mayor de sesenta y cinco años, salvo los casos de excepción previstos en las disposiciones legales aplicables para la pena mínima. Se extinguirá en los centros penitenciarios, de conformidad con la legislación en la materia y ajustándose a la resolución judicial respectiva.
 
 La medida cautelar de prisión preventiva se computará para el cumplimiento de la pena impuesta así como de las que pudieran imponerse por otras causas, aunque hayan tenido por objeto hechos anteriores al ingreso a prisión. En este caso, las penas se compurgarán en forma simultánea.
 
@@ -621,7 +621,13 @@ La cuantía de la reparación será fijada por la autoridad judicial según el d
 
 En los casos de lesiones, la reparación del daño comprenderá los gastos relativos a la asistencia médica, quirúrgica, rehabilitación, medicamentos y material de curación, los aparatos de prótesis y ortopedia necesarios y la indemnización correspondiente que se fijará de acuerdo con lo dispuesto en la Ley Federal del Trabajo, según las circunstancias de la víctima, y tomando como base la utilidad o salario que percibía y si no percibía utilidad o salario o no pudieren determinarse éstos, el pago se acordará tomando como base la unidad de medida y actualización, en el momento de la ejecución del delito.
 
-En los casos de homicidio, la indemnización correspondiente se fijará en los mismos términos establecidos en el párrafo que antecede, y a lo dispuesto en el Libro Tercero, Título Primero, Capítulo V del Código Civil vigente en el Estado, que se refiere a las obligaciones que nacen de los actos ilícitos.
+> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
+
+En los casos de homicidio y feminicidio, la indemnización correspondiente se fijará en los mismos términos establecidos en el párrafo que antecede, y de acuerdo con lo dispuesto en el Libro Tercero, Título Primero, Capítulo V, del Código Civil vigente en el Estado, que se refiere a las obligaciones que nacen de los actos ilícitos.
+
+> <small>(ADICIONADO, D.O. 3 DE AGOSTO DE 2021)</small>
+
+En el caso del delito de feminicidio, cuando exista una relación de parentesco por consanguinidad en línea recta, sin limitación de grado, colateral, hasta el cuarto grado, o por afinidad, hasta el cuarto grado; o bien, una relación laboral, docente o sentimental entre el sujeto y la víctima o las personas ofendidas del delito, la indemnización que fije la autoridad judicial deberá incrementarse en una mitad, según la cuantificación realizada.
 
 ###### ARTÍCULO 35.
 
@@ -1321,9 +1327,9 @@ La prescripción es personal y para ella basta el simple transcurso del tiempo s
 
 La prescripción producirá sus efectos aunque no la alegue como excepción el imputado, acusado y sentenciado. El órgano jurisdiccional la suplirá de oficio en todo caso, tan pronto como tenga conocimiento de ella, sea cual fuere el estado del procedimiento.
 
-> <small>(ADICIONADO, D.O. 26 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
 
-Cuando se trate de delitos sexuales, si el sujeto pasivo es una persona menor de edad o no tuviere la capacidad de comprender el significado del hecho o resistirlo, la acción penal será imprescriptible.
+Cuando se trate de los delitos contenidos en los artículos 208, fracciones I y II, 210, 211, 308, 308 Bis, 309, 310, 311, 313, 314 y 315 de este código, si el sujeto pasivo es una persona menor de edad o no tuviere la capacidad de comprender el significado del hecho o resistirlo, la acción penal será imprescriptible.
 
 ### CAPÍTULO VII. PRESCRIPCIÓN DE LA ACCIÓN PENAL
 
@@ -2337,9 +2343,15 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 Cometen el delito de incesto el ascendiente que tenga cópula con su descendiente y éste con aquél y los hermanos entre sí, con conocimiento de este parentesco.
 
-La sanción aplicable al ascendiente por la comisión del delito de incesto será de uno a seis años de prisión y de doce a ciento ochenta días-multa.
+> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
+
+La sanción aplicable al ascendiente por la comisión del delito de incesto será de uno a seis años de prisión y de doce a ciento ochenta días-multa, siempre y cuando el descendiente sea mayor de edad.
 
 En el caso de incesto cometido por el descendiente o por los hermanos la sanción será de seis meses a tres años de prisión y de doce a ciento ochenta días-multa.
+
+> <small>(ADICIONADO, D.O. 3 DE AGOSTO DE 2021)</small>
+
+Cuando la víctima sea menor de edad, la conducta será atendida como típica de violación.
 
 En ambos casos se privará al infractor de sus derechos de familia.
 
@@ -2347,23 +2359,29 @@ En ambos casos se privará al infractor de sus derechos de familia.
 
 ### CAPÍTULO VII. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 228.
 
-Comete el delito de violencia familiar, el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante, adoptado o persona que mantenga o haya mantenido una relación de hecho con la víctima, que ejerza cualquier acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera económica, física, patrimonial, psicológica o sexual, en contra de un miembro de la familia, dentro o fuera del domicilio familiar.
+Comete el delito de violencia familiar, el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante, adoptado o persona que mantenga o haya mantenido una relación de hecho o de pareja con la víctima, que ejerza cualquier acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera económica, física, patrimonial, psicológica o sexual, en contra de un miembro de la familia, dentro o fuera del domicilio familiar.
 
-A quien cometa el delito de violencia familiar se le impondrá de seis meses a cinco años de prisión y, en su caso, la pérdida del derecho de pensión alimenticia y la privación del régimen de convivencia, patria potestad, custodia o tutela según corresponda.
+> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
+
+A quien cometa el delito de violencia familiar se le impondrá de dos a siete años de prisión y, en su caso, la pérdida del derecho de pensión alimenticia y la privación del régimen de convivencia, patria potestad, custodia o tutela según corresponda.
+
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
 Este delito se perseguirá por querella, salvo cuando la víctima se encuentre en estado de gravidez o durante los tres meses posteriores al parto; sea menor de dieciocho años de edad; mayor de sesenta años; o presente alguna discapacidad física o mental, total o parcial, temporal o permanente que le impida comprender el significado del hecho; o se cometa con el uso de armas de fuego o punzocortantes; se cometa con la participación de dos o más personas; se deje cicatriz permanente en alguna parte del cuerpo; existan antecedentes, legalmente documentados, de violencia familiar cometidos por el mismo agresor contra la víctima; o exista imposibilidad material de la víctima de denunciar la violencia familiar ejercida en su contra.
 
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+
 La violencia familiar podrá ser denunciada por cualquier persona que tenga conocimiento de este hecho o sea testigo de este. Para tal efecto, la víctima ratificará la denuncia dentro del término de diez días naturales posteriores a su presentación.
 
-> <small>(REFORMADO, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 229.
 
-Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión, al que realice cualesquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona o de cualquier otra que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de la misma.
+Se equipara a la violencia familiar y se sancionará de dos a siete años de prisión, al que realice cualesquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona o de cualquier otra que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de la misma.
 
 > <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
@@ -3557,7 +3575,7 @@ Para los efectos de este artículo se consideran que faltan al respeto a la vida
 
 ### CAPÍTULO I. HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 299.
 
@@ -3583,13 +3601,15 @@ Cuando haya pendiente un procedimiento relacionado con un delito imputado a algu
 
 ### CAPÍTULO I BIS. Acoso Sexual
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE AGOSTO DE 2021)</small>
 
-ARTÍCULO 308 BIS. Se impondrá pena de dos a tres años de prisión y de cien a quinientos días-multa a quien:
+ARTÍCULO 308 BIS. Se impondrá pena de dos a cuatro años de prisión y de cien a quinientos días-multa a quien:
 
 I. Asedie, por cualquier medio, con fines lascivos, y a pesar de su oposición, a una persona o solicite la ejecución de un acto de naturaleza sexual, para sí o para un tercero, independientemente de que se realice en uno o varios eventos;
 
-II. Asedie reiteradamente, con fines lascivos, a cualquier persona, sin su consentimiento, en lugares públicos, o en instalaciones o vehículos destinados al transporte público de pasajeros;
+> <small>(REFORMADA, D.O. 3 DE AGOSTO DE 2021)</small>
+
+II. Asedie reiteradamente, con fines lascivos o sexuales, a cualquier persona, sin su consentimiento, en lugares públicos, o en instalaciones o vehículos destinados al transporte público de pasajeros;
 
 III. Capte imágenes o realice cualquier registro audiovisual del cuerpo de otra persona o de alguna parte de su cuerpo, sin su consentimiento y con un carácter erótico-sexual, o
 
@@ -3599,7 +3619,9 @@ Si el sujeto activo realiza cualquiera de las conductas previstas en este artíc
 
 Si la víctima del delito de acoso sexual fuera menor de quince años de edad o una persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento; o que por cualquier causa no pueda resistirlo, se aumentará la pena prevista en el párrafo primero hasta en una mitad.
 
-Este delito se perseguirá a petición de parte, salvo que la víctima sea menor de quince años o por cualquier circunstancia sea incapaz de comprender el delito, en cuyo caso se perseguirá de oficio.
+> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
+
+Este delito se perseguirá a petición de parte, salvo que la víctima sea menor de edad o por cualquier circunstancia sea incapaz de comprender el delito, en cuyo caso se perseguirá de oficio.
 
 ###### ARTÍCULO 301.
 
@@ -3647,29 +3669,23 @@ DELITOS SEXUALES
 
 ### CAPÍTULO III. ESTUPRO
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 308.
 
-A quien con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá prisión de dos a cinco años o de doscientos a quinientos días-multa y de cien a quinientos días de trabajo en favor de la comunidad.
+A quien con fines lascivos o sexuales asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá prisión de tres a seis años o de doscientos a quinientos días-multa y de cien a quinientos días de trabajo en favor de la comunidad.
 
-> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de la sanción correspondiente por el delito de hostigamiento sexual, será destituido de su cargo e inhabilitado para ocupar cualquier otro cargo público por un período de uno hasta por cinco años.
 
-Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de la sanción correspondiente por el delito de hostigamiento sexual, será destituido de su cargo.
+Este delito se perseguirá por querella de la parte ofendida, salvo que se trate de una persona menor de dieciocho años de edad, o aquella que no tiene la capacidad de comprender el hecho o no tenga la capacidad para resistirlo, en cuyo caso, se perseguirá de oficio.
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
-
-Este delito se perseguirá por querella de la parte ofendida, salvo que se trate de una persona menor de dieciocho años de edad, en cuyo caso, se perseguirá de oficio.
-
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
-
-En caso de reincidencia se le impondrá sanción de tres a seis años de prisión y de trescientos a quinientos días-multa.
+En caso de reincidencia las sanciones previstas en el primer párrafo de éste artículo se incrementarán en una mitad.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE MARZO DE 2018)</small>
 
 ### CAPÍTULO IV. VIOLACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE AGOSTO DE 2021)</small>
 
 ### CAPÍTULO V. DISPOSICIONES COMUNES
 
@@ -3683,11 +3699,11 @@ A quien ejecute en una persona, sin su consentimiento, un acto lascivo o la obli
 
 Se entenderá por actos lascivos los tocamientos, manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 310.
 
-A quien cometa el delito de abuso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y de cuatrocientos a dos mil quinientos días-multa. Si se hiciere uso de la violencia física o psicológica, la sanción se aumentará hasta en una mitad. Este delito se perseguirá de oficio.
+A quien cometa el delito de abuso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de diez a dieciocho (sic) de prisión y de cuatrocientos a dos mil quinientos días-multa. Si se hiciere uso de la violencia física o psicológica, la sanción se aumentará hasta en una mitad. Este delito se perseguirá de oficio.
 
 ### CAPÍTULO I. REGLAS GENERALES
 
@@ -3695,7 +3711,7 @@ A quien cometa el delito de abuso sexual en una persona menor de quince años de
 
 ###### ARTÍCULO 311.
 
-Al que tenga cópula con persona mayor de quince y menor de dieciocho años de edad, obteniendo su consentimiento por medio de engaño, se le aplicará de uno a seis años de prisión.
+Al que tenga cópula con persona mayor de quince y menor de dieciocho años de edad, obteniendo su consentimiento por medio de engaño, se le aplicará de tres a seis años de prisión.
 
 ###### ARTÍCULO 312.
 
@@ -3707,13 +3723,15 @@ Al que tenga cópula con persona mayor de quince y menor de dieciocho años de e
 
 ###### ARTÍCULO 313.
 
-A quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a veinte años y de mil a tres mil días-multa.
+A quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a veinticinco años y de mil a tres mil días-multa.
 
 > <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
 
 Para los efectos de este Capítulo se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 
-Se aplicará la misma sanción al que introduzca por la vía vaginal o anal cualquier objeto o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
+
+Se aplicará la misma sanción al que introduzca por la vía vaginal o anal cualquier objeto o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo de la víctima.
 
 > <small>(ADICIONADO, D.O. 24 DE JULIO DE 2020)</small>
 
@@ -3723,11 +3741,13 @@ Si además de todo lo expuesto en los párrafos anteriores resultare en embarazo
 
 La violación entre cónyuges o entre concubina o concubinario únicamente se perseguirá por querella.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE AGOSTO DE 2021)</small>
+
+###### ARTÍCULO 315.
+
+Se equipara a la violación y se sancionará con prisión de diez a treinta años, y de tres mil a cinco mil días-multa, a quien sin violencia y con fines lascivos tenga cópula o introduzca por la vía vaginal o anal cualquier objeto o instrumento distinto del miembro viril, a una persona menor de quince años de edad o a persona privada de razón o sentido o cuando por enfermedad o cualquier otra causa no pudiera resistir.
+
 > <small>(REFORMADO, D.O. 24 DE JULIO DE 2020)</small>
-
-###### Artículo 315.
-
-Se equipara a la violación y se sancionará con prisión de ocho a treinta años, y de tres mil a cinco mil días-multa, a quien sin violencia y con fines lascivos tenga cópula o introduzca por la vía vaginal o anal cualquier objeto o instrumento distinto del miembro viril, a una persona menor de quince años de edad o a persona privada de razón o sentido o cuando por enfermedad o cualquier otra causa no pudiera resistir.
 
 Si además se ejerciere violencia física o moral, y en su caso, resultare en embarazo y/o en contagio de enfermad (sic) de transmisión sexual, el mínimo y el máximo de la sanción se aumentarán en una mitad.
 
@@ -3747,13 +3767,21 @@ Además de la sanción de prisión, al culpable se le privará de los derechos d
 
 III. Por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancias que ellos le proporcionen. Además de la sanción de prisión el condenado será destituido del cargo o empleo público o suspendido por el término de cinco años en el ejercicio de dicha profesión;
 
-> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, D.O. 3 DE AGOSTO DE 2021)</small>
 
-IV. Por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en ella depositada, y
+IV. Por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en ella depositada;
 
-> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, D.O. 3 DE AGOSTO DE 2021)</small>
 
-V. Por dirigente o ministro de culto religioso.
+V. Por dirigente o ministro de culto religioso;
+
+> <small>(ADICIONADA, D.O. 3 DE AGOSTO DE 2021)</small>
+
+VI. Previa suministración de estupefacientes o psicotrópicos a la víctima, en contra de su voluntad y sin su consentimiento, y
+
+> <small>(ADICIONADA, D.O. 3 DE AGOSTO DE 2021)</small>
+
+VII. En pandilla.
 
 > <small>(ADICIONADO, D.O. 6 DE MARZO DE 2020)</small>
 
@@ -4389,6 +4417,42 @@ Si las lesiones fueren inferidas en riña, se impondrán al responsable como san
 
 Cuando concurra una sola de las circunstancias a que se refiere el artículo 378 de este Código y la lesión fuere simple, se aumentará hasta en un tercio la sanción que correspondería; cuando concurran dos o más de dichas circunstancias, se aumentará la pena hasta en dos terceras partes.
 
+> <small>(ADICIONADO, D.O. 3 DE AGOSTO DE 2021)</small>
+
+ARTÍCULO 367 BIS. Al que cause lesiones a una mujer por razón de género se le impondrán de 8 a 14 años de prisión y multa de 1800 a 3000 unidades de medida y actualización. Se consideran que existen lesiones por razón de género cuando concurra cualquiera de las siguientes circunstancias:
+
+I.- A la víctima que se le hayan infligido lesiones o practicado mutilaciones genitales o de cualquier tipo, cuando estas impliquen menosprecio a la mujer o a su cuerpo.
+
+II.- Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o violencia del sujeto activo en contra de la víctima.
+
+III.- Existan antecedentes de violencia familiar, psicológica, económica, laboral, escolar de cualquier tipo motivada por razones de género, del sujeto activo en contra de la víctima.
+
+IV.- La pretensión infructuosa del sujeto activo de establecer y restablecer una relación de pareja o de intimidad con la víctima.
+
+V.- Exista evidencia que hubo engaños en la comunicación previa con la víctima antes de las lesiones, a través de redes sociales, llamadas telefónicas o mensajes de cualquier plataforma tecnológica.
+
+Si entre el sujeto activo y la victima existe una relación de parentesco por consanguinidad en línea recta sin limitación de grado, o colateral hasta el cuarto grado, o por afinidad hasta el cuarto grado, laboral, docente, sentimental o afectiva y de confianza se impondrá prisión de 5 años más respecto a la sanción establecida en el primer párrafo de este artículo y multa de 1800 a 3000 unidades de medida y actualización.
+
+Además de las sanciones descritas en este artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+> <small>(ADICIONADO, D.O. 3 DE AGOSTO DE 2021)</small>
+
+ARTÍCULO 367 TER. Las sanciones descritas en el artículo anterior se aumentarán hasta la mitad en los siguientes casos:
+
+I.- Cuando las lesiones sean provocadas mediante el empleo de sustancias corrosivas.
+
+II.- Cuando las lesiones sean provocadas en los órganos genitales femeninos y mamas, excluyendo aquellas que por motivo de salud deban llevarse a cabo.
+
+III.- Cuando las lesiones sean causadas a una mujer menor de edad o adulta mayor.
+
+IV.- Cuando se ejecutan las lesiones por orden o instrucción de una tercera persona mediante una recompensa.
+
+V.- Cuando el agresor cause las lesiones bajo los efectos del alcohol o cualquier estupefaciente.
+
+> <small>(ADICIONADO, D.O. 3 DE AGOSTO DE 2021)</small>
+
+ARTÍCULO 367 QUÁTER. Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, cuando se trate de la investigación del delito de lesiones por razones de género se le impondrán de 2 a 5 años de prisión y multa de 300 a 900 unidades de medida y actualización, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
+
 ### CAPÍTULO VI. ABORTO
 
 ###### ARTÍCULO 368.
@@ -4621,51 +4685,93 @@ V. Cuando se practique con el consentimiento de la madre y del padre en su caso 
 
 ### CAPÍTULO X. FEMINICIDIO
 
-> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE AGOSTO DE 2021)</small>
 
-ARTÍCULO 394 QUINQUIES. Comete el delito de feminicidio quien dolosamente prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las circunstancias siguientes:
+ARTÍCULO 394 QUINQUIES. Comete el delito de feminicidio quien dolosamente prive de la vida a una persona de sexo femenino por una razón de género. Se considera que existen razones de género cuando concurra cualquiera de las circunstancias siguientes:
+
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2014)</small>
 
 I.- La víctima presente signos de violencia sexual de cualquier tipo, previas o posteriores a la privación de la vida.
 
-II.- A la víctima se le hayan practicado mutilaciones genitales o de cualquier otro tipo, cuando estas impliquen menosprecio a la mujer o a su cuerpo.
+> <small>(REFORMADA, D.O. 3 DE AGOSTO DE 2021)</small>
 
-III.- Existan antecedentes de violencia familiar, laboral o escolar, motivada por razones de género, del sujeto activo en contra de la víctima.
+II.- A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, tortura o tratos crueles e inhumanos, se le hayan practicado mutilaciones genitales o de cualquier otro tipo, previo a la privación de la vida o actos de necrofilia, cuando estas impliquen menosprecio a la mujer o a su cuerpo.
+
+> <small>(REFORMADA, D.O. 3 DE AGOSTO DE 2021)</small>
+
+III.- Existan antecedentes de violencia familiar, laboral, comunitaria, político, escolar, económica, patrimonial, psicológica o cualquier otro tipo de violencia motivada por razones de género, del sujeto activo en contra de la víctima.
+
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2014)</small>
 
 IV.- La pretensión infructuosa del sujeto activo de establecer o restablecer una relación de pareja o de intimidad con la víctima.
 
-> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O. 3 DE AGOSTO DE 2021)</small>
 
-V.- Haya existido entre el sujeto activo y la víctima una relación sentimental, afectiva o de confianza.
+V.- Haya existido entre el sujeto activo y la víctima parentesco por consanguinidad o afinidad o una relación sentimental, afectiva, laboral, docente, de confianza, o de alguna otra que evidencia desigualdad o abuso de poder entre el agresor y la víctima.
 
-> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O. 3 DE AGOSTO DE 2021)</small>
 
-VI.- Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima.
+VI.- Existan datos que establezcan que hubo amenazas directas o indirectas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima.
 
 > <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
 
 VII.- La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida.
 
-> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O. 3 DE AGOSTO DE 2021)</small>
 
-VIII.- El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
+VIII.- El cuerpo de la víctima sea expuesto, arrojado, depositado o exhibido en un lugar público.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 3 DE AGOSTO DE 2021)</small>
+
+IX.- El cuerpo o restos de la víctima hayan sido enterrados, ocultos, incinerados o desmembrados.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 3 DE AGOSTO DE 2021)</small>
+
+X.- Cuando la víctima se haya encontrado en un estado de indefensión, entiéndase esta como la situación de desprotección real o incapacidad que imposibilite su defensa o la solicitud de auxilio.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 3 DE AGOSTO DE 2021)</small>
+
+XI.- Que el sujeto activo haya obligado a la víctima a realizar o ejercer la prostitución, o haya ejercido actos de trata de personas en agravio de la víctima.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 3 DE AGOSTO DE 2021)</small>
+
+XII.- Cuando el sujeto activo mediante engaños tenga comunicación con la víctima a través (sic) redes sociales o cualquier plataforma tecnológica, logrando obtener su confianza momento antes de privarla de la vida.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 3 DE AGOSTO DE 2021)</small>
+
+XIII.- La situación de vulnerabilidad en la que se encontraba la víctima al momento de la comisión del delito por el imputado.
 
 > <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 A quien cometa el delito de feminicidio se le impondrán de treinta y dos a cuarenta y cinco años de prisión y de mil quinientos a dos mil quinientos días- multa.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE AGOSTO DE 2021)</small>
 
-Si entre el sujeto activo y la víctima existió una relación de parentesco por consanguinidad en línea recta, sin limitación de grado, o colateral hasta el cuarto grado o por afinidad hasta el cuarto grado; laboral, docente o sentimental, se impondrá una pena de prisión de cuarenta a sesenta años de prisión y de mil quinientos a dos mil quinientos días-multa.
+Las penas previstas se incrementarán hasta en una tercera parte en su mínimo y máximo si el delito fuere cometido previa suministración de estupefacientes o psicotrópicos para causar la inconsciencia de la víctima.
+
+> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
+
+Si entre el sujeto activo y la víctima existió una relación de parentesco por consanguinidad en línea recta, sin limitación de grado, o colateral hasta el cuarto grado o por afinidad hasta el cuarto grado; laboral, docente, sentimental o cualquier otra que implique confianza, subordinación o superioridad, se impondrá una pena de prisión de cincuenta a sesenta y cinco años y de mil a mil quinientos días multa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE AGOSTO DE 2021)</small>
+
+Si la víctima fuera menor de dieciocho años, se impondrá una pena de prisión de cincuenta a sesenta años, y de dos mil a tres mil días-multa.
+
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2014)</small>
 
 Además de las sanciones descritas en este artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE AGOSTO DE 2021)</small>
+
+Quien intente dolosamente privar de la vida a una mujer por las razones de género establecidas en este artículo y no lo lograra por cualquier circunstancia, se le considerará como tentativa de feminicidio.
 
 > <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
 
 Las autoridades investigadoras competentes, cuando se encuentren ante un probable delito de feminicidio deberán aplicar el protocolo correspondiente a dicho delito; en caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 
-> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
 
-ARTÍCULO 394 SEXIES. Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, cuando se trate de la investigación de un delito de feminicidio, se le impondrán de tres a ocho años de prisión y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
+ARTÍCULO 394 SEXIES. Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, cuando se trate de la investigación de un delito de feminicidio, se le impondrán de tres a ocho años de prisión y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de seis a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
 TÍTULO VIGESIMOPRIMERO
 
@@ -5486,3 +5592,35 @@ Artículo segundo.- Se establece un plazo de 180 días para la actualización de
 Cláusula derogatoria
 
 Artículo tercero.- Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 3 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 400/2021 POR EL QUE SE MODIFICAN EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN Y LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE FEMINICIDIO Y OTROS DELITOS CON INCIDENCIA DE VIOLENCIA DE GÉNERO”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Clausula derogatoria
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga a este decreto.
+
+D.O. 3 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 401/2021 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE IMPRESCRIPTIBILIDAD DE DELITOS SEXUALES".]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del Gobierno del Estado de Yucatán.
+
+D.O. 3 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 402/2021 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE LESIONES COMETIDAS CONTRA LA MUJER EN RAZÓN DE SU GÉNERO".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
