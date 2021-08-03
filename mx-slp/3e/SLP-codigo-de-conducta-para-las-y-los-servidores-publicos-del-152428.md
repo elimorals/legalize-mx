@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-conducta-para-las-y-los-servidores-publicos-del-15242
 country: "mx"
 rank: "codigo"
 publication_date: "2021-07-19"
-last_updated: "2021-07-19"
+last_updated: "2021-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,33 +20,45 @@ state: "SLP"
 ---
 # CODIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PUBLICOS DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CENTRO DE LAS ARTES DE SAN LUIS POTOSI, CENTENARIO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE AGOSTO DE 2021 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PUBLICOS DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CENTRO DE LAS ARTES DE SAN LUIS POTOSÍ, CENTENARIO.
+CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PUBLICOS DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CENTRO DE LAS ARTES DE SAN LUIS POTOSÍ
 
 TEXTO ORIGINAL.
 
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE AGOSTO DE 2021.]</small>
+
 Código publicado en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 19 de julio de 2021.
 
-ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PUBLICOS DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CENTRO DE LAS ARTES DE SAN LUIS POTOSÍ, CENTENARIO.
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
 
-Eudoro Fonseca Yerena, con fundamento en los artículos 82 y 84 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; artículo 3º fracción II, inciso a), 18, 20, 43, 51 y 52 de la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí; fracción XXVII del Decreto Administrativo mediante el cual se creó el Centro de las Artes De San Luis Potosí, Centenario, Publicado El 28 de Agosto de 2008 En El Periódico Oficial del Estado, así como con el numeral 6 punto dos del Acuerdo que tiene por objeto emitir el Código de Ética de los Servidores públicos del Gobierno Federal las reglas de Integridad para el ejercicio de la Función Pública, y los Lineamentos Generales para propiciar la Integridad de los servidores públicos para implementar las acciones permanentes que favorezcan su comportamiento ético y;. (sic)
+ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PUBLICOS DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CENTRO DE LAS ARTES DE SAN LUIS POTOSÍ.
+
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
+
+Eudoro Fonseca Yerena, con fundamento en los artículos 82 y 84 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; artículo 3º fracción II, inciso a), 18, 20, 43, 51 y 52 de la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí; fracción XXVII del Decreto Administrativo mediante el cual se creó el Centro de las Artes De San Luis Potosí, Publicado El 28 de Agosto de 2008 En El Periódico Oficial del Estado, así como con el numeral 6 punto dos del Acuerdo que tiene por objeto emitir el Código de Ética de los Servidores públicos del Gobierno Federal las reglas de Integridad para el ejercicio de la Función Pública, y los Lineamentos Generales para propiciar la Integridad de los servidores públicos para implementar las acciones permanentes que favorezcan su comportamiento ético y;. (sic)
 
 CONSIDERANDO
 
 […]
 
-Por lo anterior esta Dirección del Centro de las Artes de San Luis Potosí, Centenario, emite el siguiente:
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
 
-CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PUBLICOS DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CENTRO DE LAS ARTES DE SAN LUIS POTOSÍ, CENTENARIO
+Por lo anterior esta Dirección del Centro de las Artes de San Luis Potosí, emite el siguiente:
+
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
+
+CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PUBLICOS DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CENTRO DE LAS ARTES DE SAN LUIS POTOSÍ
 
 ### CAPITULO I. OBJETIVO DEL CÓDIGO DE CONDUCTA, MISION Y VISION DEL CENTRO DE LAS ARTES
 
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 1.
 
-El presente Código de Conducta tiene por objetivo definir la dirección institucional a través de un conjunto de principios, valores y criterios de conducta que deberán ser observados y cumplidos por las y los servidores públicos del Centro de las Artes de San Luis Potosí, Centenario, en el desempeño de sus funciones.
+El presente Código de Conducta tiene por objetivo definir la dirección institucional a través de un conjunto de principios, valores y criterios de conducta que deberán ser observados y cumplidos por las y los servidores públicos del Centro de las Artes de San Luis Potosí, en el desempeño de sus funciones.
 
-Las y los servidores públicos de este organismo, en el desempeño de sus (sic) tomarán en consideración la misión y visión del Centro de las Artes de San Luis Potosí, Centenario:
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
+
+Las y los servidores públicos de este organismo, en el desempeño de sus (sic) tomarán en consideración la misión y visión del Centro de las Artes de San Luis Potosí:
 
 a) MISIÓN: El CEART es una institución dedicada a la educación, producción y divulgación de las artes. Su propósito principal es fortalecer, ampliar y actualizar el campo educativo a través de modelos integrales, con especial énfasis en las manifestaciones artísticas actuales. Su proyecto académico contempla, como uno de los fines más importantes, la integración de las artes, humanidades y tecnologías, mediante esquemas multi e interdisciplinarios.
 
@@ -92,15 +104,19 @@ Austeridad: Característica que denota el uso adecuado y moderado de los recurso
 
 Carta Compromiso: tiene el propósito de que las personas servidoras públicas adscritas al Instituto Potosino de la Juventud, la firmen, dejando constancia de que conocen y comprenden el Código de Conducta y, por lo tanto, asumen el compromiso de cumplirlo durante el desempeño de su empleo, cargo o comisión.
 
-CEART o Centro de las Artes: Al Organismo Público Descentralizado denominado Centro de las Artes de San Luis Potosí, Centenario
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
 
-Código de Conducta: El instrumento emitido por la Dirección General del Centro de las Artes de San Luis Potosí, Centenario a propuesta del Comité de Ética y de Prevención de Conflictos de Interés de los y las Servidores Públicos del Centro de las Artes de San Luis Potosí, Centenario.
+CEART o Centro de las Artes: Al Organismo Público Descentralizado denominado Centro de las Artes de San Luis Potosí.
+
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
+
+Código de Conducta: El instrumento emitido por la Dirección General del Centro de las Artes de San Luis Potosí a propuesta del Comité de Ética y de Prevención de Conflictos de Interés de los y las Servidores Públicos del Centro de las Artes de San Luis Potosí.
 
 Código de Ética: El Código de Ética para los Servidores Públicos del Gobierno del Estado de San Luis Potosí;
 
-Comité o CEPSI: El Comité de Ética y de Prevención de Conflictos de Interés del Centro de las Artes de San Luis Potosí, Centenario
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
 
-Compromiso: Obligación contraída.
+Comité o CEPSI: El Comité de Ética y de Prevención de Conflictos de Interés del Centro de las Artes de San Luis Potosí Compromiso: Obligación contraída.
 
 Conflicto de intereses: La situación que se presenta cuando los intereses personales, familiares o de negocios del servidor público pueden afectar el desempeño independiente e imparcial de sus empleos, cargos o comisiones o funciones.
 
@@ -138,11 +154,15 @@ Valores: Características que distinguen la actuación de los servidores públic
 
 ### CAPITULO IV. DE LOS PRINCIPIOS
 
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 4.
 
-Los principios, valores y criterios de conducta que deberán observar las y los servidores públicos del Centro de las Artes de San Luis Potosí, Centenario, en el desempeño de sus servicios son los que a continuación se indican:
+Los principios, valores y criterios de conducta que deberán observar las y los servidores públicos del Centro de las Artes de San Luis Potosí, en el desempeño de sus servicios son los que a continuación se indican:
 
-I. DEDICACIÓN. Procurar su mejor esfuerzo y perseverancia para alcanzar los objetivos institucionales en el desempeño de las actividades, así como demostrar un alto compromiso hacia la sociedad y usuarios para lograr los objetivos del Centro de las Artes de San Luis Potosí, Centenario.
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
+
+I. DEDICACIÓN. Procurar su mejor esfuerzo y perseverancia para alcanzar los objetivos institucionales en el desempeño de las actividades, así como demostrar un alto compromiso hacia la sociedad y usuarios para lograr los objetivos del Centro de las Artes de San Luis Potosí.
 
 II. TRANSPARENCIA. Ser abiertos al derecho ciudadano respecto a la información, de acuerdo a su legalidad y oportunidad, ofreciendo al ciudadano la posibilidad de ser un usuario de la administración y entendida la transparencia como un verdadero servicio público.
 
@@ -164,15 +184,19 @@ X. EFICIENCIA. Actuar conforme a una cultura de servicio orientada al logro de r
 
 ### CAPITULO V. DE LAS OBLIGACIONES DE LOS SERIVIDORES PUBLICOS
 
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 5.
 
-Los servidores públicos del Centro de las Artes de San Luis Potosí, Centenario al prestar sus servicios deberán:
+Los servidores públicos del Centro de las Artes de San Luis Potosí, al prestar sus servicios deberán:
 
 a) Apegarse a los principios de transparencia, honestidad, lealtad, cooperación y austeridad;
 
 b) Resguarda la documentación e información gubernamental que tiene bajo su responsabilidad;
 
-c) Participar en contrataciones públicas o en el otorgamiento y prórroga de autorizaciones y concesiones, conduciéndose con transparencia, imparcialidad y legalidad, garantizando las mejores condiciones para el Centro de las Artes de San Luis Potosí, Centenario;
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
+
+c) Participar en contrataciones públicas o en el otorgamiento y prórroga de autorizaciones y concesiones, conduciéndose con transparencia, imparcialidad y legalidad, garantizando las mejores condiciones para el Centro de las Artes de San Luis Potosí;
 
 d) Favorecer los trámites y garantizar la prestación de los servicios, así como atender a los usuarios de forma respetuosa, eficiente, oportuna, responsable e imparcial.
 
@@ -226,13 +250,17 @@ Las y los servidores públicos del Centro de las Artes, previo a la toma de deci
 
 Las y los servidores públicos estarán obligados a cumplir las disposiciones de este Código, las del Acuerdo Administrativo por el que se expiden las Reglas de Integridad, los Lineamientos Generales para propiciar la Integridad de los Servidores Públicos y para la Creación de los Comités de Ética y Prevención de Conflictos de Intereses en el Poder Ejecutivo del Estado y demás ordenamientos jurídicos relativos y aplicables de carácter general.
 
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 11.
 
-Los servidores públicos, al inicio de su encargo, deberán suscribir una carta compromiso donde se comprometerán a desempeñar sus servicios a favor del Centro de las Artes de San Luis Potosí, Centenario, conforme a los valores establecidos en este Código.
+Los servidores públicos, al inicio de su encargo, deberán suscribir una carta compromiso donde se comprometerán a desempeñar sus servicios a favor del Centro de las Artes de San Luis Potosí, conforme a los valores establecidos en este Código.
+
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 12.
 
-Los servidores públicos al desarrollar su servicio, deberán considerar en todo momento, que la eficiencia en la obtención de resultados depende de una profesionalización, debiendo capacitarse y actualizarse de acuerdo a los programas que el Centro de las Artes de San Luis Potosí, Centenario establezca.
+Los servidores públicos al desarrollar su servicio, deberán considerar en todo momento, que la eficiencia en la obtención de resultados depende de una profesionalización, debiendo capacitarse y actualizarse de acuerdo a los programas que el Centro de las Artes de San Luis Potosí, establezca.
 
 ###### ARTICULO 13.
 
@@ -276,28 +304,44 @@ En casos no previstos en el Código de Conducta, será resuelto por el Comité d
 
 ## TRANSITORIOS
 
-PRIMERO. El presente Acuerdo por el que se emite el Código de Conducta de las y los Servidores Públicos del Centro de las Artes de San Luis Potosí, centenario entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
 
-SEGUNDO. Las denuncias en proceso de atención por parte del Comité de Ética y de Prevención de Conflictos de Interés del Centro de las Artes de San Luis Potosí, Centenario, presentadas con anterioridad a la entrada en vigor del presente Acuerdo, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+PRIMERO. El presente Acuerdo por el que se emite el Código de Conducta de las y los Servidores Públicos del Centro de las Artes de San Luis Potosí, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
+
+SEGUNDO. Las denuncias en proceso de atención por parte del Comité de Ética y de Prevención de Conflictos de Interés del Centro de las Artes de San Luis Potosí, presentadas con anterioridad a la entrada en vigor del presente Acuerdo, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
 
 TERCERO. (SIC)
 
-Las personas servidoras Publicas titulares de las distintas direcciones del Centro de las Artes de San Luis Potosí, Centenario deberán hacer del conocimiento al personal adscrito a sus áreas el Código de Conducta de este organismo.
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
 
-EL DIRECTOR GENERAL DEL CENTRO DE LAS ARTES DE SAN LUIS POTOSÍ, CENTENARIO
+Las personas servidoras Publicas titulares de las distintas direcciones del Centro de las Artes de San Luis Potosí, deberán hacer del conocimiento al personal adscrito a sus áreas el Código de Conducta de este organismo.
+
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
+
+EL DIRECTOR GENERAL DEL CENTRO DE LAS ARTES DE SAN LUIS POTOSÍ
+
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
 
 EDUDORO FONSECA YERENA
 
-(Rúbrica).
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
 
-EL PRESENTE ACUERDO SE EMITE EN LAS INSTALACIONES DEL CENTRO DE LA ARTES DE SAN LUIS POTOSÍ, CENTENARIO. CON FECHA XX DE XXXX 20XX---
+EL PRESENTE ACUERDO SE EMITE EN LAS INSTALACIONES DEL CENTRO DE LA ARTES DE SAN LUIS POTOSÍ. CON FECHA 14 DE JULIO 2021______
 
 ANEXO ÚNICO DEL CÓDIGO DE CONDUCTA
 
-CARTA COMPROMISO DE CUMPLIMIENTO AL CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PUBLICOS DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CENTRO DE LAS ARTES DE SAN LUIS POTOSÍ, CENTENARIO.
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
 
-Manifiesto que he recibido y conozco el contenido del Código de Conducta para las y los Servidores Públicos del Centro de las Artes de San Luis Potosí, Centenario, por lo que voluntariamente me comprometo a cumplirlo y a observar en mi quehacer cotidiano como persona servidora pública de esa misma dependencia, una conducta en estricto apego a sus disposiciones; manifestando de manera oportuna mis preocupaciones o dilemas éticos ante el Comité de Ética y de Prevención de Conflictos de Interés de la Secretaría de Cultura Estatal, situaciones de conflictos de interés en las que me pudiera ver involucrado y requiera apoyo o capacitación; sin tomar represalias contra nadie por denuncias o manifestaciones respecto a mi actuar por posibles vulneraciones a este Código de Conducta; a cooperar de manera transparente con las investigaciones que realice el Comité de Ética o el Órgano Interno de Control sobre posibles faltas o vulneraciones a dicho Código, así como evitar cualquier conducta que implique una actuación ajena a la ética, los valores y principios consagrados en este Código y que dañen la imagen y el objetivo de este Centro de las Artes
+CARTA COMPROMISO DE CUMPLIMIENTO AL CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PUBLICOS DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CENTRO DE LAS ARTES DE SAN LUIS POTOSÍ.
 
-Nombre Cargo/puesto
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2021)</small>
+
+Manifiesto que he recibido y conozco el contenido del Código de Conducta para las y los Servidores Públicos del Centro de las Artes de San Luis Potosí, por lo que voluntariamente me comprometo a cumplirlo y a observar en mi quehacer cotidiano como persona servidora pública de esa misma dependencia, una conducta en estricto apego a sus disposiciones; manifestando de manera oportuna mis preocupaciones o dilemas éticos ante el Comité de Ética y de Prevención de Conflictos de Interés de la Secretaría de Cultura Estatal, situaciones de conflictos de interés en las que me pudiera ver involucrado y requiera apoyo o capacitación; sin tomar represalias contra nadie por denuncias o manifestaciones respecto a mi actuar por posibles vulneraciones a este Código de Conducta; a cooperar de manera transparente con las investigaciones que realice el Comité de Ética o el Órgano Interno de Control sobre posibles faltas o vulneraciones a dicho Código, así como evitar cualquier conducta que implique una actuación ajena a la ética, los valores y principios consagrados en este Código y que dañen la imagen y el objetivo de este Centro de las Artes
+
+Nombre
+
+Cargo/puesto
 
 Fecha y firma
