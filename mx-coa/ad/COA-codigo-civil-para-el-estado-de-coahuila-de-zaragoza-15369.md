@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2021-01-08"
+last_updated: "2021-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -15339,6 +15339,10 @@ La aceptación de la donación se hará en la misma forma en que ésta deba hace
 
 Es nula la donación que comprenda la totalidad de los bienes del donante, si éste no se reserva en propiedad o en usufructo, lo necesario para vivir según sus circunstancias.
 
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2021)</small>
+
+Cuando él, la o los donantes, o bien, su cónyuge, sean personas de 65 años o más, el notario que expida el instrumento público de donación, deberá forzosamente incluir la cláusula de usufructo vitalicio sobre los bienes otorgados a los donatarios.
+
 ###### ARTÍCULO 2758.
 
 Las donaciones serán inoficiosas, en cuanto perjudiquen la obligación de1 (sic) donante de ministrar alimentos a aquellas personas a quienes los debe conforme a la ley.
@@ -15449,7 +15453,9 @@ Son aplicables a la acción de revocación por causa de ingratitud, las siguient
 
 I. No puede ser renunciada anticipadamente.
 
-II. Prescribe en un año contado desde que se tuvo conocimiento del hecho que la motive.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2021)</small>
+
+II. Prescribe en cinco años, contados desde que se tuvo conocimiento del hecho que la motive.
 
 III. No podrá ejercitarse contra los herederos del donatario, a no ser que en vida de éste hubiese sido intentada.
 
@@ -21304,3 +21310,11 @@ P.O. 8 DE ENERO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 3 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 64.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 2780; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 2757 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
