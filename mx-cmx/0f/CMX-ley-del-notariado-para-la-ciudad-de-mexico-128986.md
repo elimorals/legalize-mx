@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-la-ciudad-de-mexico-128986"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2020-06-08"
+last_updated: "2021-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128986&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2018-05-21"
 ---
 # LEY DEL NOTARIADO PARA LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO POR EL QUE SE PUBLICA LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, SEÑALADOS EN EL ARTÍCULO NOVENO TRANSITORIO DEL DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA LA LEY DE NOTARIADO DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL DÍA 11 DE JUNIO DE 2018; ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, EN TODO LO RELATIVO AL "SISTEMA INFORMÁTICO", "ARCHIVO ELECTRÓNICO", "ÍNDICE ELECTRÓNICO" Y "APÉNDICE ELECTRÓNICO DE COTEJOS", CONFORME A LO DISPUESTO POR LOS ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO; PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2019; DICHOS ARTÍCULOS ENTRAN EN VIGOR A PARTIR DEL 31 DE DICIEMBRE DE 2019.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2021.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 11 de junio de 2018.
 
@@ -76,9 +76,19 @@ La presente Ley es de orden e interés público y tiene por objeto regular la fu
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Administración: La Administración Pública de la Ciudad de México;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-II: “Apéndice Electrónico de Cotejos”: Al Apéndice del Libro de Registro de Cotejos a que se refiere el artículo 98 de la presente Ley, basado en el principio de matricidad electrónica, que se integra por cada una de las imágenes digitalizadas de los documentos públicos o privados presentados para cotejo;
+I. Administración Pública: administración pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+I bis. Actuación Digital Notarial: el ejercicio de la función notarial a través de medios electrónicos, ópticos o de cualquier otra tecnología, en el entorno de un protocolo digital, con equivalencia funcional al protocolo ordinario;
+
+II. “Apéndice Electrónico de Cotejos”: Al Apéndice del Libro de Registro de Cotejos a que se refiere el artículo 98 de la presente Ley, basado en el principio de matricidad electrónica, que se integra por cada una de las imágenes digitalizadas de los documentos públicos o privados presentados para cotejo;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+II bis. Apéndice del Instrumento Electrónico: sección del instrumento electrónico donde el Notario archiva y conserva, en formato digital, con su Firma Electrónica Notarial, los documentos y demás elementos relacionados con la escritura o acta de que se trate y son parte integrante del protocolo digital. Los documentos y elementos digitalizados deberán indexarse como lo determine el Reglamento. El apéndice del instrumento electrónico es accesorio del protocolo digital y obra como complemento de los juicios y fe documental del Notario. Lo anterior no impide la validez y veracidad de los documentos o elementos archivados o indexados, ni la validez independiente de certificaciones que se hagan con base en ellos;
 
 III. Arancel: El Arancel de Notarios para la Ciudad de México;
 
@@ -92,7 +102,13 @@ VII. "Autoridades competentes": La Consejería Jurídica y de Servicios Legales,
 
 Para efectos de esta Ley, no se considera como Autoridad ni como Agente Económico, al Colegio de Notarios ni a los miembros del mismo.
 
-VIII. Certificado Electrónico: el documento firmado electrónicamente por un prestador de servicios de certificación que vincula los datos de firma de su autor y confirma su identidad;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+VIII. Certificado Electrónico: mensaje de datos o registro que confirma el vínculo entre un firmante y una clave privada;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+VIII bis. Ciudad: Ciudad de México;
 
 IX. Código Civil: El Código Civil para la Ciudad de México;
 
@@ -120,11 +136,25 @@ XIX. Entes Públicos: Los órganos Ejecutivo, Legislativo, Judicial y autónomos
 
 XX. Esta Ley: La Ley del Notariado para la Ciudad de México;
 
-XXI. Firma Electrónica Notarial: La firma electrónica en términos de la Ley de la Firma Electrónica de la Ciudad de México, asignada a un Notario de esta entidad con motivo de sus funciones, con igual valor jurídico que su firma autógrafa y su sello de autorizar, en términos de la normatividad aplicable;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XXI. Firma Electrónica Notarial: Firma Electrónica Avanzada o Firma Electrónica de la Ciudad de México, según corresponda. Será empleada por el Notario a través del Sistema Informático, cuenta con el mismo valor jurídico que la firma autógrafa y su sello de autorizar en los términos de la normativa aplicable.
+
+El uso y reconocimiento de la Firma Electrónica Notarial podrá extenderse a los tres niveles de gobierno en los casos y términos que así lo determine la legislación correspondiente;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XXI bis. Firma Electrónica para la Actuación Digital Notarial: Firma Electrónica Avanzada o Firma Electrónica de la Ciudad de México, según corresponda, otorgadas conforme a la normativa aplicable. Será empleada por un prestatario del servicio notarial a través del Sistema Informático, cuenta con el mismo valor jurídico de la firma autógrafa y le permite expresar su consentimiento en el otorgamiento de instrumentos electrónicos en el protocolo digital;
 
 XXII. Gaceta: La Gaceta Oficial de la Ciudad de México;
 
-XXIII. Índice Electrónico: A la información electrónica capturada de manera uniforme a través del “Sistema Informático” en cada notaría de la Ciudad de México, respecto de los instrumentos notariales asentados en el protocolo, conforme a lo dispuesto en el artículo 97 de la presente ley;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XXIII. Índice Electrónico: información electrónica capturada de manera uniforme a través del Sistema Informático en cada notaría de la Ciudad de México, respecto de los instrumentos notariales asentados o alojados en el protocolo ordinario, en el protocolo digital y en el Libro de Registro de Cotejos, conforme a lo dispuesto en esta Ley;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XXIII bis. Instrumento Electrónico: escritura o acta definidas (sic) en la presente Ley, alojadas en el protocolo digital, firmadas por los comparecientes con la Firma Electrónica para la Actuación Digital Notarial y autorizadas con la Firma Electrónica Notarial.
 
 XXIV. Jornada Notarial: Programa anual, obligatorio y continuo que se organiza en la Ciudad de México en los meses de febrero y marzo de forma conjunta por el Colegio y las Autoridades Competentes, mediante el cual se otorgan importantes reducciones en impuestos, derechos y honorarios Notariales, para la escrituración de inmuebles y la tramitación de sucesiones;
 
@@ -134,15 +164,29 @@ XXV. Jornada Testamentaria: Campaña organizada conjuntamente por el Colegio y l
 
 XXVI. Ley Orgánica: La Ley Orgánica de la Administración Pública de la Ciudad de México;
 
-XXVII. Matricidad electrónica: Archivo digital de cualquier documento fuente en soporte papel que integre el protocolo en sentido amplio, incluyendo la imagen del original de los documentos públicos o privados que han sido cotejados por el Notario.
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XXVII. Matricidad electrónica: se constituye por todos los instrumentos electrónicos firmados en el entorno del protocolo digital de cada notario de la Ciudad de México. En el protocolo ordinario se refiere al archivo digital de cualquier documento fuente que integre el protocolo en sentido amplio, incluyendo la imagen del original de los documentos públicos o privados que han sido cotejados por los notarios.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+XXVII bis. Mensaje de Datos: información generada, enviada, recibida, archivada o comunicada a través de medios de comunicación electrónica, ópticos o de cualquier otra tecnología, que puede contener documentos electrónicos;
 
 XXVIII. Notariado: El Notariado de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XXVIII bis. Red Integral Notarial: red cifrada de comunicaciones que integra el hardware (componentes electrónicos, periféricos y de almacenamiento) y el software (programas, instrucciones, datos, aplicaciones y reglas informáticas) que forman parte del Sistema Informático que se vincula con cada notaría de la Ciudad de México y el Colegio. Necesariamente se permitirá la interconexión con las autoridades competentes para el ejercicio de sus facultades.
 
 XXIX. Registro Público: El Registro Público de la Propiedad Inmueble y el Registro Público de las Personas Morales, ambos de la Ciudad de México;
 
 XXX. Registro Nacional de Testamentos: A la Dirección del Registro Nacional de Avisos de Testamento, dependiente de la Dirección General de Compilación y Consulta del Orden Jurídico Nacional de la Secretaría de Gobernación; y
 
-XXXI. Sistema Informático”: A la plataforma tecnológica e informática del “Notariado” desarrollada y administrada por el “Colegio” que permite a éste y a los Notarios de la Ciudad de México la prestación de servicios de certificación necesarios para garantizar la seguridad, validez y eficacia de la emisión y recepción de comunicaciones y documentos a través de medios electrónicos en las relaciones que se producen entre los prestatarios del servicio notarial, en su interconexión con las autoridades de la Administración Pública Federal, Local y Municipal, “Entes Públicos” y Alcaldías, y entre los propios Notarios y el “Colegio”, a través de una Red Integral Notarial que comprende el almacenamiento y administración del Archivo Electrónico y del Índice Electrónico del Libro de Registro de Cotejos y su “Apéndice Electrónico de Cotejos”, para coadyuvar con el “Archivo” en el cumplimiento de sus fines; y
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XXXI. Sistema Informático: plataforma tecnológica e informática del Notariado, desarrollada y administrada por el Colegio, que incorpora factores de autenticación que permite, entre otros, llevar a cabo la Actuación Digital Notarial, el resguardo electrónico del protocolo y la prestación de servicios de certificación. Dicho Sistema deberá garantizar la seguridad, validez y eficacia de la emisión y recepción tanto de comunicaciones como de documentos a través de medios electrónicos, ópticos u otras tecnologías en las relaciones que se producen entre los prestatarios del servicio notarial y los notarios de la Ciudad de México en su interconexión con las autoridades de la Administración Pública, así como entre los propios notarios y el Colegio a través de la Red Integral Notarial. Comprende la operación, almacenamiento y administración del Archivo Electrónico, del Libro de Registro de Cotejos y su Apéndice Electrónico de Cotejos, por el protocolo digital y su Libro de Extractos, así como sus respectivos índices electrónicos y demás elementos accesorios, para coadyuvar con las autoridades competentes y el Archivo en el cumplimiento de sus fines.
+
+El Sistema Informático contará con mecanismos de seguridad y autenticación en tiempo real para utilizar la Firma Electrónica Avanzada y la Firma Electrónica de la Ciudad de México para el otorgamiento de instrumentos electrónicos en el protocolo digital; y
 
 XXXII. Quejoso: a) La persona física o moral que sea parte de un instrumento notarial
 
@@ -164,17 +208,21 @@ El Notariado como garantía institucional consiste en el sistema que, en el marc
 
 Su imparcialidad y probidad debe extenderse a todos los actos en los que intervenga de acuerdo con ésta y con otras leyes.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 4.
 
-Corresponde al Jefe de Gobierno la facultad de expedir las patentes de Notario y de aspirante a Notario, conforme a las disposiciones contenidas en la presente ley.
+Corresponde a la persona titular de la Jefatura de Gobierno la facultad de expedir las patentes de Notario y de Aspirante a Notario en la Ciudad de México, conforme a las disposiciones contenidas en la presente ley y demás normativa vigente.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 5.
 
-Al Jefe de Gobierno y a las Autoridades competentes de la Ciudad de México les corresponde aplicar la presente Ley y vigilar su debido cumplimiento.
+A la persona titular de la Jefatura de Gobierno y demás autoridades competentes de la Ciudad les corresponde aplicar la presente Ley y vigilar su debido cumplimiento.
 
-Las citadas autoridades se auxiliarán de la Unidad de Firma Electrónica de la Contraloría General de la Ciudad de México, únicamente tratándose del uso de la firma electrónica Notarial en términos del Código Civil, de esta Ley, de la Ley de Firma Electrónica de la Ciudad de México y de las demás disposiciones aplicables.
+Las citadas autoridades se auxiliarán de las demás áreas de la Administración Pública de acuerdo a sus competencias, asimismo, se estará a lo dispuesto por el Código Civil, la Ley de Operación e Innovación Digital y la Ley de Ciudadanía Digital, todos vigentes en la Ciudad de México, así como demás disposiciones aplicables en lo relativo a la función notarial e interoperabilidad del Sistema Informático con las diversas plataformas tecnológicas que se desarrollen con la Administración Pública y Alcaldías.
 
-El Colegio podrá actuar como prestador de servicios de certificación para efecto de proveer a los Notarios y a los usuarios del servicio notarial el certificado de Firma Electrónica Notarial correspondiente, la cual tendrá una vigencia de cuatro años renovables.
+El Notariado, a través del Colegio, realizará las acciones técnicas, jurídicas, administrativas y cualquier otra que garanticen su operación y la interoperabilidad del Sistema Informático con las plataformas que sean desarrolladas e implementadas por la Administración Pública para el cumplimiento de sus atribuciones.
 
 ###### Artículo 6.
 
@@ -186,19 +234,29 @@ Esta Ley establece como principios regulatorios e interpretativos de la función
 
 I. El de la conservación jurídica de fondo y forma del instrumento Notarial y de su efecto adecuado;
 
-> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-II. El de la conservación del instrumento Notarial y de la matricidad en todo el tiempo del mismo. Esta matricidad podrá ser en soporte papel o electrónico con equivalencia jurídica y funcional entre ambas y en caso de discrepancia, prevalecerá el soporte en papel, salvo prueba en contrario declarada judicialmente, con excepción del Apéndice Electrónico de Cotejos, en el que siempre prevalecerá el soporte electrónico;
+II. El de la conservación del instrumento Notarial y matricidad en todo tiempo del mismo. Esta matricidad podrá ser en soporte papel o electrónico. En el protocolo ordinario, habrá equivalencia jurídica y funcional con el Archivo Electrónico y en caso de discrepancia, prevalecerá el soporte en papel, salvo prueba en contrario declarada judicialmente, con excepción del Apéndice Electrónico de Cotejos en el que siempre prevalecerá el soporte electrónico.
 
 III. El de la concepción del Notariado como garantía Institucional;
 
 IV. Estar al servicio del bien y la paz jurídicos de la Ciudad y del respeto y cumplimiento del Derecho;
 
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
 V. El ejercicio de la actividad Notarial, en la justa medida en que se requiera por los prestatarios del servicio, obrando con estricto apego a la legalidad aplicable al caso concreto, de manera imparcial, preventiva, voluntaria y auxiliar de la administración de justicia respecto de asuntos en que no haya contienda;
 
-El Notario debe prestar su función más allá del interés del solicitante del servicio Notarial, lo que implica cumplir sus procedimientos de asesoría y de conformación del instrumento Notarial, en estricto apego a la norma y de manera imparcial; debe aconsejar a cada una de las partes o solicitantes del servicio sin descuidar los intereses de la contraparte en reserva y secrecía, en lo justo del caso de que se trate; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+V bis. El de la Inmediación, para lo que el Notario prestará asesoría y conformará el instrumento notarial más allá del interés del solicitante del servicio. Dicho principio podrá cumplirse de manera digital o remota en la Actuación Digital Notarial en estricto apego a la normativa, de manera imparcial, aconsejando a cada una de las partes o solicitantes del servicio, sin descuidar los intereses de la contraparte en reserva y secrecía, en lo justo del caso de que se trate; y
 
 VI. El del cuidado del carácter de orden público de la función y su documentación en virtud del otorgamiento de la cualidad para dar fe, por el Jefe de Gobierno, a su actividad como Notario por la expedición de la patente respectiva, previos exámenes que merezcan tal reconocimiento público y social por acreditar el saber prudencial y la práctica suficientes para dicha función, con la consecuente pertenencia al Colegio y la coadyuvancia de éste a las funciones disciplinarias de vigilancia y sanción por parte de las autoridades, la continuación del archivo del Notario por el Archivo y la calificación y registro de los documentos públicos reconocidos por esta Ley por el Registro Público, tratándose de actos inscribibles.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 7 bis. En la Actuación Digital Notarial, la matricidad electrónica está conformada por todos los instrumentos electrónicos firmados en el protocolo digital mediante el uso de la Firma Electrónica para la Actuación Digital Notarial, por lo que se refiere a los prestatarios del servicio, y la Firma Electrónica Notarial, lo que garantiza su autenticidad, integridad, no repudio y confidencialidad.
+
+Ante cualquier reproducción electrónica o material que no corresponda con el cifrado del instrumento electrónico originalmente firmado, prevalecerá el que se encuentre en la matricidad electrónica; por lo que el Notario podrá, en ejercicio de sus facultades, adicionar otros archivos, notas complementarias, certificaciones, así como expedir copias certificadas electrónicas y testimonios firmados con la Firma Electrónica Notarial.
 
 ###### Artículo 8.
 
@@ -380,6 +438,10 @@ El Notario no deberá aceptar más asuntos que aquellos que pueda atender person
 
 El ejercicio de la función Notarial es incompatible con toda restricción de la libertad personal, de las facultades de apreciación y de expresión.
 
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+El Notario, en ejercicio de su facultad de apreciación, podrá recurrir a los medios tecnológicos que estén a su alcance para formar convicción y que, en conjunto con la fe pública de la que está investido, deje constancia plena de los hechos y actos, tal y como fueron percibidos por éste al momento de su actuación.
+
 ###### Artículo 33.
 
 El ejercicio del oficio Notarial es incompatible con toda dependencia a empleo, cargo o comisión público, privado o de elección popular, y con el ejercicio de la profesión de abogado en asuntos en que haya contienda. El Notario tampoco podrá ser comerciante, ministro de culto o agente económico de cualquier clase en términos de las leyes respectivas.
@@ -412,11 +474,13 @@ XI. Actividades semejantes que no causen conflicto ni dependencia que afecte su 
 
 XII. Ser prestador de servicios de certificación.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 35.
 
-Corresponde a los Notarios el ejercicio de las funciones Notariales en el ámbito territorial de la entidad. Los Notarios no podrán ejercer sus funciones ni establecer oficinas fuera de los límites de éste. Los actos que se celebren ante su fe, podrán referirse a cualquier otro lugar, siempre que se firmen las escrituras o actas correspondientes por las partes dentro de la Ciudad de México, y se dé cumplimiento a las disposiciones de esta ley.
+Corresponde a los Notarios el ejercicio de las funciones Notariales en el ámbito territorial de la Ciudad de México, por lo que no podrán ejercer sus funciones ni establecer oficinas fuera de los límites de éste.
 
-Se prohíbe usar en anuncios al público, en oficinas de servicios o comercios, que den la idea de realizar trámites o funciones Notariales sin ser Notario, tales como asesoría, trámites, servicios, escrituras, actas, así como otros términos semejantes referidos a la función Notarial y que deban comprenderse como propios de ésta.
+Los actos que se celebren ante su fe podrán referirse a cualquier otro lugar, siempre que las partes firmen las escrituras o actas correspondientes en esta entidad y se dé cumplimiento a las disposiciones de esta ley; lo anterior, ya sea en el protocolo ordinario o digital.
 
 ###### Artículo 36.
 
@@ -426,9 +490,17 @@ I. Ostentarse, anunciarse o inducir a la creencia de que es Notario para ejercer
 
 II. Tener oficina Notarial, o lugar donde se realicen actividades Notariales o meramente de asesoría Notarial o de firmas para instrumentos Notariales;
 
-III. Envíe libros de protocolo o folios a firma a la Ciudad de México o realice firmas de escrituras o actas en su demarcación; y
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-IV. Produzca instrumentos públicos en los que consten actos jurídicos que para su validez requieran otorgarse en escritura pública o hagan constar hechos fuera de su ámbito legal de competencia.
+III. Envíe libros de protocolo o folios a firma a la Ciudad de México o realice firmas de escrituras o actas en su demarcación;
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+IV. Produzca instrumentos públicos en los que consten actos jurídicos que para su validez requieran otorgarse en escritura pública o hagan constar hechos fuera de su ámbito legal de competencia; y
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+V. Dé fe del otorgamiento de instrumentos notariales fuera de esta entidad, cuando los otorgantes de los mismos se encuentren dentro del territorio de la Ciudad de México al firmar el instrumento, ya sea mediante el uso de elementos electrónicos, ópticos o cualquier otra tecnología.
 
 ###### Artículo 37.
 
@@ -768,11 +840,17 @@ IV. Dar aviso de lo anterior a las autoridades competentes y al Colegio, señala
 
 V. Ser miembro del Colegio; y
 
-VI. Obtener y mantener vigente un certificado de firma electrónica Notarial en términos de la Ley de Firma Electrónica vigente en la Ciudad de México y las demás disposiciones aplicables. Para tal efecto, la firma electrónica Notarial podrá ser expedida por el Colegio. El certificado de firma electrónica que expida el Colegio tendrá una vigencia de cuatro años renovables.
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-La Autoridad Competente publicará la iniciación de funciones de los Notarios en la Gaceta Oficial de la Ciudad de México sin costo para el Notario.
+VI. Obtener y mantener vigente el Certificado Electrónico de la Firma Electrónica Notarial. El certificado de firma electrónica tendrá una vigencia de cuatro años renovables.
 
-Para el caso de que el Notario cambie de ubicación la Notaría, dará el aviso correspondiente a la Autoridad Competente, solicitando a su costa la publicación respectiva en la Gaceta Oficial de la Ciudad de México.
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+La Autoridad Competente publicará la iniciación de funciones de los Notarios en la Gaceta sin costo para el Notario.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Para el caso de que el Notario cambie de ubicación la Notaría, dará el aviso correspondiente a la autoridad competente, solicitando, a su costa, la publicación respectiva en la Gaceta.
 
 ###### Artículo 68.
 
@@ -832,107 +910,163 @@ En todos los casos en los que se deje de utilizar definitivamente un sello, se e
 
 B. PROTOCOLO
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 76.
 
-Protocolo es el conjunto de libros formados por folios numerados y sellados en los que el Notario, observando las formalidades que establece la presente Ley, asienta y autoriza las escrituras y actas que se otorguen ante su fe, con sus respectivos apéndices; así como por los libros de registro de cotejos con sus apéndices electrónicos.
+El protocolo en sentido amplio, se integra por:
 
-> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+I. Protocolo ordinario;
 
-En sentido amplio es la expresión que se refiere a todos los documentos que obran en el haber de cada Notaría. El protocolo es abierto, por cuanto lo forman folios encuadernables con número progresivo de instrumentos y de libros. En sentido estricto es tanto el conjunto de instrumentos públicos fuente original o matriz en los que se hace constar las relaciones jurídicas constituidas por los interesados, bajo la fe Notarial; como la colección ordenada cronológicamente de escrituras y actas autorizadas por el Notario y aquellas que no pasaron, y de sus respectivos apéndices, conforme a una periodicidad, procedimiento y formalidades reglados en esta Ley; y que adquiridos a costa del Notario respectivo son conservados permanentemente por él o por su sustituto en términos de esta Ley afectos exclusivamente al fin encomendado, los cuales son Bienes del Dominio Público de la Ciudad de México, que serán destinados permanentemente al servicio y matricidad Notarial del documento en el Archivo, a partir de la entrega definitiva de los mismos a dicha oficina, en uno o más libros, observando para su redacción y conformación de actos y hechos las formalidades y solemnidades previstas por esta Ley, todo lo que constituye materia de garantía institucional de origen constitucional regulada por esta Ley.
+II. Libro de registro de cotejos y sus apéndices electrónicos;
 
-Los folios que forman el protocolo son aquellas hojas que constituyen la papelería oficial que el Notario usa para ejercer la función Notarial. Son el sustracto o base material del instrumento público Notarial, en términos de esta Ley.
+III. Protocolo digital con su libro de extractos; y
 
-Los instrumentos que integren el protocolo deberán constar además en Archivo Electrónico, reproducción digitalizada o cualquier otra tecnología. Los Notarios remitirán el Archivo Electrónico firmado con su Firma Electrónica Notarial al Colegio mediante el Sistema Informático, el cual lo almacenará y resguardará permanentemente en dispositivos magnéticos o bien tecnologías de vanguardia que los sustituyan como un respaldo que garantice su conservación a efecto de que el Archivo pueda expedir las copias certificadas o testimonios que correspondan, previo el pago de los derechos respectivos en términos de la Ley de Ingresos y del Código Fiscal de la Ciudad de México.
+IV. Sus respectivos índices electrónicos y demás elementos accesorios.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL “ACUERDO POR EL QUE SE PUBLICA LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”, PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2019, EL PRESENTE PÁRRAFO ENTRA EN VIGOR A PARTIR DEL 31 DE DICIEMBRE DE 2019.]</small>
+Para efectos de esta Ley, el término protocolo hará referencia de forma indistinta a sus diversas clases atendiendo a su naturaleza.
 
-El Archivo únicamente recibirá para depósito definitivo los libros de protocolo y sus respectivos apéndices, en unión del índice electrónico impreso. Esta recepción para depósito definitivo solamente la hará el Archivo si el Colegio emite previamente una constancia de recepción del respectivo Archivo Electrónico. Para tal efecto, treinta días hábiles previos a que concluya el plazo a que se refiere el Artículo 96, el Notario deberá entregar al Colegio para su guarda y custodia el Archivo Electrónico de cada decena que corresponda y el Colegio expedirá una constancia de haber recibido el Archivo Electrónico. El Colegio deberá expedir dicha constancia dentro de los veinte días hábiles siguientes a la recepción del Archivo Electrónico.
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+###### Artículo 76 Bis.
 
-El Colegio estará obligado a observar en todo momento el secreto profesional que establezcan las leyes. Así mismo, el Colegio en todo momento será responsable de la seguridad, conservación, mantenimiento y actualización del Archivo Electrónico que se encuentre bajo su guarda y custodia, únicamente para los efectos de coadyuvancia con el Archivo quien de forma exclusiva expedirá las copias certificadas y testimonios en soporte electrónico respectivo, previo pago de derechos y aprovechamientos que correspondan.
+El protocolo en sentido estricto es el conjunto de instrumentos públicos asentados en el protocolo ordinario o alojados en el protocolo digital, los cuales son fuente original o matriz, en los que se hace constar las relaciones jurídicas constituidas por los interesados bajo la fe Notarial.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL “ACUERDO POR EL QUE SE PUBLICA LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”, PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2019, EL PRESENTE PÁRRAFO ENTRA EN VIGOR A PARTIR DEL 31 DE DICIEMBRE DE 2019.]</small>
+Se integra por los siguientes elementos ordenados cronológicamente:
 
-El Archivo podrá solicitar al Colegio copia electrónica de cualquier instrumento que se encuentre en el Archivo Electrónico, únicamente para el cumplimiento de sus atribuciones legales. Para tal efecto, el Colegio y las Autoridades Competentes convendrán la forma y mecanismos mediante los cuales el Archivo podrá tener acceso al Archivo Electrónico que se encuentre bajo la custodia del Colegio para los efectos que se mencionan en el párrafo anterior.
+I. Escrituras y actas autorizadas por el Notario, así como aquellas que no pasaron; y
+
+II. Los apéndices conforme a una periodicidad, procedimiento y formalidades regulados en esta Ley.
+
+Estos instrumentos son conservados por el Notario, por su suplente, asociado o quien le sustituya durante el plazo establecido por esta Ley, atendiendo a los principios de conservación y matricidad en términos de la misma.
+
+Son afectos exclusivamente al fin encomendado como Bienes del Dominio Público de la Ciudad de México, para posteriormente destinarse permanentemente al servicio y matricidad Notarial del documento en el Archivo a partir de la entrega o puesta a disposición de los mismos a dicha oficina, observando para su redacción y conformación de actos y hechos las formalidades y solemnidades previstas por esta Ley, todo lo que constituye materia de garantía institucional de origen constitucional regulada por esta Ley.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 76 Ter.
+
+El protocolo ordinario es el conjunto de libros formados por folios numerados y sellados en los que el Notario, observando las formalidades que establece la presente Ley, asienta y autoriza las escrituras y actas que se otorguen ante su fe, con sus respectivos apéndices.
+
+El protocolo ordinario es abierto, por cuanto lo forman folios adquiridos a costa del Notario, encuadernables con número progresivo de instrumentos y libros.
+
+Los folios que forman el protocolo ordinario son aquellas hojas que constituyen la papelería oficial que el Notario usa para ejercer la función Notarial; son el sustrato o base material del instrumento público notarial, en términos de la presente Ley.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 76 Quater.
+
+Los instrumentos y apéndices que integren el protocolo ordinario deberán constar además en Archivo Electrónico, reproducción digitalizada o cualquier otra tecnología autorizada por esta Ley.
+
+Los Notarios remitirán el Archivo Electrónico firmado con su Firma Electrónica Notarial al Colegio mediante el Sistema Informático, el cual lo almacenará y resguardará permanentemente en dispositivos magnéticos o cualquier otra tecnología que garantice su conservación.
+
+Sin perjuicio de lo anterior, el Colegio entregará, en los plazos establecidos en esta Ley, el Archivo Electrónico al Archivo a través de las plataformas que sean desarrolladas e implementadas para tal efecto por la Administración Pública, que garanticen la seguridad informática, trazabilidad y permanencia, a efecto de que el Archivo pueda expedir las copias certificadas o testimonios que correspondan.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 76 Quinquies.
+
+El Archivo recibirá para depósito definitivo, tanto el protocolo ordinario como las credenciales de acceso al Archivo Electrónico y al Índice Electrónico; para lo que el Archivo solicitará la emisión de la constancia de recepción por parte del Colegio del respectivo Archivo Electrónico.
+
+El Colegio estará obligado a observar en todo momento el secreto profesional que establezcan las leyes y será responsable de la seguridad, conservación, mantenimiento y actualización del Archivo Electrónico que se encuentre bajo su guarda y custodia, únicamente para los efectos de coadyuvancia con el Archivo, quien de forma exclusiva, a partir de la entrega definitiva a que se refiere el artículo 96 de la Ley, expedirá las copias certificadas y testimonios respectivos, previo pago de derechos y aprovechamientos que correspondan.
+
+Para tal efecto, el Reglamento establecerá los mecanismos mediante los cuales el Archivo podrá tener acceso al Archivo Electrónico que se encuentre bajo la custodia del Colegio para el ejercicio de sus facultades.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 77.
 
-Los instrumentos, libros y apéndices que integren el protocolo deberán ser numerados progresivamente. Los folios deberán utilizarse en forma progresiva por ambas caras y los instrumentos que se asienten en ellos se ordenarán en forma sucesiva y cronológica por el Notario, y se encuadernarán en libros que se integrarán por doscientos folios, excepto cuando el Notario deba asentar un instrumento con el cual rebasaría ese número, en cuyo caso deberá dar por terminado el libro sin asentar dicho instrumento, iniciando con éste el libro siguiente.
+Los instrumentos, libros y apéndices que integren el protocolo ordinario deberán ser numerados progresivamente. Los folios deberán utilizarse en forma progresiva por ambas caras y los instrumentos que se asienten en ellos se ordenarán en forma sucesiva y cronológica por el Notario, y se encuadernarán en libros que se integrarán por doscientos folios, excepto cuando el Notario deba asentar un instrumento con el cual rebasaría ese número, en cuyo caso deberá dar por terminado el libro sin asentar dicho instrumento, iniciando con éste el libro siguiente.
 
-Excepcionalmente, un libro de protocolo podrá exceder de doscientos folios, si el instrumento que corresponda asentar rebasare ese número, en cuyo caso, se iniciará la formación del libro siguiente, previa razón de terminación del libro en uso, la que se asentará en hoja común no foliada que se agregará al final del libro que se da por terminado, sin que este contenga doscientos folios. Dicha razón no será necesaria cuando el libro que se dé por terminado contuviere más de ciento ochenta folios usados.
+Excepcionalmente, un libro de protocolo ordinario podrá exceder de doscientos folios, si el instrumento que corresponda asentar rebasare ese número, en cuyo caso, se iniciará la formación del libro siguiente, previa razón de terminación del libro en uso, la que se asentará en hoja común no foliada que se agregará al final del libro que se da por terminado, sin que este contenga doscientos folios. Dicha razón no será necesaria cuando el libro que se dé por terminado contuviere más de ciento ochenta folios usados.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 78.
 
-El Notario no podrá autorizar acto alguno sin que lo haga constar en los folios que forman el protocolo, salvo los que deban constar en los libros de registro de cotejos. Para lo relativo a la clausura del protocolo se procederá conforme a lo previsto por los Artículos 217 y 218 de esta Ley.
+En la actuación en el protocolo ordinario, el Notario no podrá autorizar acto alguno sin que lo haga constar en los folios que lo forman, salvo los que deban constar en los libros de registro de cotejos. Para lo relativo a la clausura del protocolo se procederá conforme a lo previsto por los artículos 217 y 218 de esta Ley.
 
-> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 79.
 
-Todos los folios y los libros que integren el protocolo deberán estar siempre en la notaría, salvo los casos expresamente permitidos por esta Ley, o cuando el Notario recabe firmas fuera de ella, lo cual se hará cuando sea necesario a juicio del Notario. Cuando hubiere necesidad de sacar los libros o folios de la Notaría, lo hará el propio Notario, o bajo su responsabilidad, una persona designada por él.
+Todos los folios y libros que integren el protocolo ordinario, así como el Libro de Extractos a que se refiere el artículo 100 Septiesdecies de esta ley, deberán estar siempre en la notaría, salvo los casos expresamente permitidos por esta Ley o cuando el Notario recabe firmas fuera de ella, lo cual se hará cuando sea necesario a juicio del Notario. Cuando hubiese necesidad de sacar los libros o folios de la Notaría, lo hará el propio Notario, o en su caso, una persona designada por él bajo su responsabilidad.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 80.
 
-Si una Autoridad judicial o administrativa Competente ordena la inspección del protocolo o de un instrumento, el acto sólo se podrá efectuar en la misma oficina del Notario y en presencia de éste, su suplente o asociado. En el caso de que un libro del protocolo ya se encuentre en el Archivo, la inspección se llevará a cabo en éste, previa citación del respectivo Notario.
+Si una Autoridad judicial o administrativa competente ordena la inspección del protocolo o de un instrumento, el acto sólo se podrá efectuar en la misma oficina del Notario y en presencia de éste, su suplente o asociado. En el caso del protocolo digital se permitirá la inspección a través del Sistema Informático mediante la interconexión del Notario inspeccionado.
+
+En el caso de que el protocolo ordinario o el protocolo digital ya se encuentren, bajo la custodia del Archivo, la diligencia se realizará en éste, previa citación del respectivo Notario.
+
+Cuando se trate de una inspección al protocolo digital, ésta se practicará a través de las plataformas desarrolladas e implementadas para el resguardo del protocolo digital.
 
 ###### Artículo 81.
 
 El Notario es responsable administrativamente de la conservación y resguardo de los folios y libros que integren su protocolo. En caso de pérdida, extravío o robo de los folios y libros del protocolo de un Notario, este o el personal subordinado a su cargo, deberán dar aviso de inmediato a las Autoridades Competentes, y hacerlo del conocimiento del Ministerio Público, levantando en ambos casos acta circunstanciada, de tal manera que la autoridad administrativa proceda a tomar las medidas pertinentes, y la autoridad ministerial inicie la indagatoria que proceda.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 82.
 
-Para integrar el protocolo, el Colegio, bajo su responsabilidad, proveerá a cada Notario y a costa de éste, de los folios necesarios a que se refiere esta sección, los cuales deberán ir numerados progresivamente. El Colegio cuidará que en la fabricación de los folios se tomen las medidas de seguridad más adecuadas para procurar su inalterabilidad. El Colegio podrá abstenerse de proveer de folios a un Notario, si éste no está al corriente en el pago de las cuotas establecidas por dicho Colegio. El Colegio informará mensualmente a la Autoridad Competente de la entrega de folios que efectúe a los Notarios, en la forma que para ese efecto determine dicha autoridad.
+Para integrar el protocolo ordinario, el Colegio, bajo su responsabilidad, proveerá a cada Notario y a costa de éste, de los folios necesarios a que se refiere esta sección, los cuales deberán ir numerados progresivamente. El Colegio cuidará que en la fabricación de los folios se tomen las medidas de seguridad más adecuadas para procurar su inalterabilidad. El Colegio podrá abstenerse de proveer de folios a un Notario, si éste no está al corriente en el pago de las cuotas establecidas por dicho Colegio. El Colegio informará mensualmente a la Autoridad Competente de la entrega de folios que efectúe a los Notarios, en la forma que para ese efecto determine dicha autoridad.
 
 ###### Artículo 83.
 
 Al iniciar la formación de una decena de libros, el Notario hará constar la fecha en que se inician, el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en la Notaría a su cargo, y la mención de que los libros de la misma se formarán con los instrumentos autorizados por el Notario o por quien legalmente lo substituya en sus funciones, de acuerdo con esta ley. La hoja en la que se asiente la razón a que se refiere este Artículo no irá foliada y se encuadernará antes del primer folio del libro con el cual se inicia la decena. El Notario asentará su sello y firma y contará con un término de cinco días hábiles para dar el aviso de inicio a la Dirección General Jurídica y de Estudios Legislativos, mencionando el número de folio y el número del instrumento Notarial con que dicha decena de libros se inicie.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 84.
 
-La pérdida, el deterioro y la destrucción total o parcial de algún folio, utilizado o pendiente de utilizar, o libro del protocolo deberá ser comunicada por el notario a las Autoridades competentes, una vez cumplidas las disposiciones del artículo 81 de esta Ley. La Autoridad competente podrá autorizar la reposición, restauración y la restitución, en su caso, de los instrumentos en ellos contenidos en papel que reúna los requisitos de seguridad previstos por los artículos 7 fracción I, 76 párrafo tercero, 260 fracciones XIII y XIV de esta Ley y en el supuesto de la reposición, de acuerdo con el siguiente procedimiento:
+El Notario podrá solicitar a la autoridad competente la reposición, restauración o restitución, según sea el caso, de los instrumentos o asientos en ellos contenidos en papel, en caso del deterioro de algún folio utilizado o pendiente de utilizar, libro del protocolo ordinario, libro de registro de cotejos o libro de extractos, así como por alguno de los supuestos que contempla el artículo 81. La autoridad competente lo autorizará una vez que reúnan los requisitos de seguridad previstos por los artículos 7 fracción I, 76 ter, 100 Octiesdecies y 260 fracciones XIII y XIV de esta Ley.
 
-I.- La reposición del libro o folios de protocolo procede cuando por extravío, destrucción, inutilización, total o parcial, la Autoridad Competente a requerimiento y bajo la responsabilidad del notario, autoriza a éste a reponer los folios a que se refiere el párrafo anterior o reproducciones de instrumentos autorizados e inclusive el mismo libro.
+La restitución se hará con base en el testimonio o las copias certificadas de los instrumentos respectivos que a costa del Notario se expidan o aquellas que se aporten por los interesados para ese fin. Si no es posible la restitución de alguno de los instrumentos, el Notario podrá expedir testimonios ulteriores copiando o reproduciendo íntegramente el testimonio o la copia mencionada con anterioridad o los que le sean presentados por los interesados, haciendo constar al pie de los que expida de dónde fueron tomados y la causa de su expedición.
 
-Para que proceda la reposición, el notario deberá promover por escrito ante la Autoridad Competente, la autorización de reposición o restitución de folios o libros del protocolo. A su escrito anexará copia certificada del acta o actas a que se refiere el artículo 81 de esta ley, así como el material necesario a efectos de crear convicción.
+La reposición, se llevará a cabo de acuerdo con el siguiente procedimiento:
+
+I.- La reposición del libro o folios de protocolo ordinario, libro de registro de cotejos o libro de extractos procede cuando por extravío, destrucción, inutilización total o parcial, o por caso fortuito la Autoridad Competente, a requerimiento y bajo la responsabilidad del Notario, autoriza a éste a reponer los folios a que se refiere el párrafo anterior o reproducciones de instrumentos autorizados e inclusive el mismo libro.
+
+Para que proceda la reposición, el Notario deberá promover por escrito ante la Autoridad Competente, la autorización de reposición o restitución de folios o libros del protocolo ordinario, libro de registro de cotejos o libro de extractos. A su escrito anexará copia certificada del acta o actas a que se refiere el artículo 81 de esta ley, así como el material necesario a efectos de crear convicción.
 
 Será material útil para crear convicción en la Autoridad Competente a efectos de autorizar la reposición, lo siguiente:
 
 a) Las copias certificadas del apéndice que le corresponda al instrumento objeto de pérdida, deterioro o destrucción total o parcial, o de un libro del protocolo.
 
-b) Los originales, cotejos y copias certificadas que hayan servido de antecedentes para la formación del instrumento notarial; los testimonios de los instrumentos que se pretenda reponer por el notario al momento, haciendo constar al pie de los que expida que se trata de un instrumento objeto de reposición.
+b) Los originales, cotejos y copias certificadas que hayan servido de antecedentes para la formación del instrumento notarial; los testimonios de los instrumentos que se pretenda reponer por el Notario al momento, haciendo constar al pie de los que expida que se trata de un instrumento objeto de reposición.
 
-c) La Autoridad podrá considerar como válida para la reposición la documentación que se obtenga de los Archivos o Registros Públicos, para lo cual el notario certificará que es copia auténtica de lo que consta en dichos Archivos o Registros.
+c) Los Archivos o Registros Públicos, para lo cual el Notario certificará que es copia auténtica de lo que consta en dichos Archivos o Registros.
 
-d) Los instrumentos que consten en archivo electrónico tal y como lo prevé el artículo 76 cuarto párrafo.
+d) Los instrumentos que consten en Archivo Electrónico tal y como lo prevé el artículo 76 Quater.
 
 e) Cualquier otro que a juicio de la Autoridad Competente sea necesario.
 
-II.- La Autoridad Competente podrá prevenir al notario a efectos de que en un término de 10 días hábiles recabe documentación adicional a la exhibida, contados a partir de la notificación que se realice personalmente.
+f) En caso del libro de extractos, los mensajes de datos que contienen los instrumentos electrónicos.
 
-La Autoridad Competente, resolverá respecto de la procedencia e improcedencia en un término de treinta días hábiles. Siendo procedente le podrá autorizar por escrito al notario obtener del Colegio de Notarios el número de folios exactos que le permitan la reposición a que se refiere el primer párrafo de este artículo.
+II.- La Autoridad Competente podrá prevenir al Notario a efectos de que, en un término de diez días hábiles contados a partir de la notificación, recabe documentación adicional a la exhibida.
 
-III.- A partir de la autorización el notario tendrá un plazo de 30 días hábiles para informar a la Autoridad Competente de la conclusión de la reposición. En caso de no dar el aviso a que se refiere este artículo o no informar se hará acreedor a la sanción prevista en el artículo 238 fracción VIII de esta ley, previo procedimiento.
+La Autoridad Competente, resolverá respecto de la procedencia e improcedencia en un término de treinta días hábiles. Siendo procedente le podrá autorizar por escrito al Notario obtener del Colegio de Notarios el número de folios exactos que le permitan la reposición a que se refiere el primer párrafo de este artículo.
 
-IV.- Mientras se encuentre en trámite el procedimiento de reposición, el notario queda exento de presentar al Archivo General de Notarías de la Ciudad de México, la decena de libros para revisión o guarda definitiva en términos de los artículos 92 y 96 de esta ley. Concluido el trámite de reposición, los notarios tendrán la obligación de dar cabal cumplimiento a los artículos antes citados. Los términos a que aluden los artículos 92 y 96 comenzarán a correr al día hábil siguiente al de la conclusión del término de treinta días hábiles a que alude la fracción anterior.
+III.- A partir de la autorización el Notario tendrá un plazo de treinta días hábiles para informar a la Autoridad Competente de la conclusión de la reposición. En caso de no dar el aviso a que se refiere este artículo o no informar se hará acreedor a la sanción prevista en el artículo 238 fracción VIII de esta ley, previo procedimiento.
 
-> <small>(REFORMADA SU NUMERACIÓN, G.O. 8 DE JUNIO DE 2020)</small>
+IV.- Mientras se encuentre en trámite el procedimiento de reposición, el Notario queda exento de presentar al Archivo, la decena de libros para revisión o guarda definitiva en términos de los artículos 92 y 96 de esta ley. Concluido el trámite de reposición, los Notarios tendrán la obligación de dar cabal cumplimiento a los artículos antes citados. Los términos a que aluden los artículos 92 y 96 comenzarán a correr al día hábil siguiente al de la conclusión del término de treinta días hábiles a que alude la fracción anterior.
 
-V.- Los folios de reposición serán de las mismas dimensiones y medidas de seguridad que los folios que integran el protocolo, pero tendrán un signo que los distinga de éstos.
+V.- Los folios de reposición serán de las mismas dimensiones y medidas de seguridad que los folios que integran el protocolo ordinario, libro de registro de cotejos o libro de extractos, pero tendrán un signo que los distinga de éstos.
 
-En caso de pérdida o destrucción parcial o total de un apéndice, se procederá a su reposición obteniendo los documentos que lo integren de sus fuentes de origen o del lugar donde obren y siguiendo siempre el procedimiento antes mencionado, asentando una certificación de que se trata de una reposición.
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
-De todo lo anterior se dará cuenta en la razón de cierre, anexando la copia certificada de las actas y autorización a que se refieren los artículos 81 y 84, para aquéllas decenas de libros que ya cuenten con la razón de cierre, se tendrá que realizar otra a la ya existente y proceder a su certificación en el Archivo General de Notarías, en un término no mayor a 10 días hábiles una vez que haya concluido todo el procedimiento de reposición.
+Artículo 84 bis. En caso de pérdida o destrucción parcial o total de un apéndice, se procederá a su reposición obteniendo los documentos que lo integren de sus fuentes de origen o del lugar donde obren y siguiendo el procedimiento que describe el artículo 84, asentando una certificación de que se trata de una reposición.
 
-Las anteriores disposiciones se aplicarán por el Archivo, en lo conducente, cuando el protocolo se encuentre bajo su resguardo, debiendo prestar el notario de cuyo protocolo se trate, todas las facilidades necesarias y proporcionar los elementos con que cuente.
+En la razón de cierre se dará cuenta del procedimiento de reposición, anexando copia certificada de las actas y autorización a que se refieren los artículos 81 y 84. Para aquellas decenas de libros que ya cuenten con la razón de cierre, se tendrá que realizar otra a la ya existente y proceder a su certificación en el Archivo en un término no mayor a diez días hábiles una vez que haya concluido dicho procedimiento.
 
-Lo dispuesto en este artículo no será aplicable a folios inutilizados o que integran instrumentos que no pasaron, debiéndose en estos casos observar únicamente lo dispuesto en el artículo 81 de esta Ley.
+El procedimiento de reposición se podrá aplicar por el Archivo cuando el protocolo se encuentre bajo su resguardo, debiendo prestar el Notario de cuyo protocolo se trate, todas las facilidades necesarias y proporcionar todos los elementos con que cuente.
 
-En relación a folios rasgados, rotos o mutilados, la Autoridad Competente, podrá autorizar la restauración de los mismos, la cual deberá ser realizada por un profesionista en restauración de documentos debiendo también dar cuenta de ello en la razón de cierre.
+Los folios inutilizados o que integran instrumentos que no pasaron, no deberán someterse al procedimiento de reposición, ya que en estos casos se observará únicamente lo dispuesto en el artículo 81.
 
-El profesionista en restauración de documentos deberá, acreditar con documento idóneo el carácter con el que actúa y describir el método de restauración utilizado.
+En relación a folios rasgados, rotos o mutilados, la Autoridad Competente podrá autorizar la restauración de los mismos, la cual deberá ser realizada por un profesionista en restauración de documentos, debiéndose también dar cuenta de ello en la razón de cierre.
+
+El profesionista en restauración de documentos deberá acreditar con documento idóneo el carácter con el que actúa y describir el método de restauración utilizado. Lo anterior, se determinará en el Reglamento.
 
 ###### Artículo 85.
 
@@ -974,9 +1108,17 @@ Las autorizaciones a que se refiere el presente artículo deberán constar igual
 
 Dentro de los treinta y cinco días hábiles siguientes a la integración de una decena de libros, el Notario deberá asentar en una hoja adicional, que deberá agregarse al final del último libro una razón de cierre en la que se indicará la fecha del asiento, el número de folios utilizados e inutilizados, la cantidad de los instrumentos asentados, y de ellos los autorizados, los pendientes de autorizar y los que no pasaron, y pondrá al calce de la misma su firma y sello.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 92.
 
-A partir de la fecha en que se asiente la razón a que se refiere el Artículo anterior, el Notario dispondrá de un plazo máximo de cuatro meses para encuadernar la decena de libros y enviarla al Archivo, el que revisará solamente la exactitud de la razón a que se refiere dicho Artículo, debiendo devolver los libros al Notario dentro de los cinco días hábiles siguientes a la fecha de entrega, con la certificación de cierre de Protocolo correspondiente, de lo que el Archivo informará al Colegio.
+A partir de la fecha en que se asiente la razón a que se refiere el artículo anterior, el Notario dispondrá de un plazo máximo de cuatro meses para encuadernar la decena de libros y enviarla al Archivo para revisar, solamente, la exactitud de la razón a que se refiere dicho Artículo, debiendo devolver los libros al Notario dentro de los cinco días hábiles siguientes a la fecha de entrega, con la certificación de cierre de Protocolo correspondiente, de lo que el Archivo hará del conocimiento a la Autoridad Competente e informará al Colegio.
+
+El Notario deberá remitir al Sistema Informático, dentro del plazo a que se refiere el párrafo anterior, el Índice Electrónico, así como los elementos del Archivo Electrónico en términos de lo señalado en el Reglamento de esta ley. La revisión de la exactitud de la razón de cierre la hará el Archivo previa emisión de la constancia (sic) recepción por parte del Colegio.
+
+Independientemente de lo anterior, el Archivo podrá tener acceso de lectura a la reproducción digitalizada del Archivo Electrónico mediante su cuenta de usuario en el Sistema Informático, a efecto de revisar los libros de manera remota sin necesidad de que éstos le sean enviados de manera física y así poder asentar la certificación de la razón de cierre de manera telemática y vía el (sic) Sistema Informático.
+
+Asimismo, el Archivo podrá realizar las observaciones que considere pertinentes antes de asentar dicha certificación y hacerlas de conocimiento del Notario.
 
 ###### Artículo 93.
 
@@ -986,23 +1128,29 @@ Por cada libro, el Notario llevará una carpeta que se denominará apéndice, en
 
 Los expedientes que se protocolicen por mandamiento judicial y los que previamente estén encuadernados, y que se agreguen al apéndice del libro respectivo, se consideran como un solo documento, al igual que los que por su conexidad deban considerarse como tales.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 95.
 
-El apéndice es accesorio del protocolo y obra en su refuerzo de los juicios y fe documental del Notario relacionado en los instrumentos asentados en los folios. Lo anterior no impide la validez y veracidad de los documentos asentados ni la validez independiente de certificaciones que se hagan con base en ellos. Las carpetas del apéndice deberán quedar encuadernadas en uno o varios volúmenes con indicación del número del libro del protocolo a que corresponden, dentro del plazo a que se refiere el Artículo 92 de esta Ley.
+El apéndice es accesorio del protocolo y obra como complemento de los juicios y fe documental del Notario relacionado en los instrumentos asentados en los folios. Lo anterior no impide la validez y veracidad de los documentos asentados ni la validez independiente de certificaciones que se hagan con base en ellos. Las carpetas del apéndice deberán quedar encuadernadas en uno o varios volúmenes con indicación del número del libro del protocolo a que corresponden, dentro del plazo a que se refiere el Artículo 92 de esta Ley.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 96.
 
-El Notario deberá guardar en la Notaría, la decena de libros durante cinco años, contados a partir de la fecha de la certificación de cierre del Archivo a que se refiere el Artículo 92 de esta ley. Dentro de los diez días hábiles siguientes a la expiración de este término, los entregará al citado Archivo junto con sus apéndices para su guarda definitiva, de lo que el Notario informará al Colegio. El Archivo sólo recibirá para depósito definitivo los libros de protocolo y sus respectivos apéndices si el Colegio emite previamente una constancia de recepción del respectivo Archivo Electrónico, en la forma y términos establecidos en el artículo 76.
+El Notario deberá guardar en la Notaría, la decena de libros del protocolo ordinario durante cinco años, contados a partir de la fecha de la certificación de cierre del Archivo a que se refiere el Artículo 92 de esta ley. Dentro de los diez días hábiles siguientes a la expiración de este término, los entregará al citado Archivo con sus apéndices para su guarda definitiva, de lo que el Notario informará al Colegio. El Archivo recibirá para depósito definitivo los libros de protocolo ordinario y sus respectivos apéndices; para tal efecto el Colegio deberá emitir previamente la constancia de recepción del respectivo Archivo Electrónico, en la forma y términos establecidos en el artículo 76.
 
-Una vez realizada la entrega definitiva a que se refiere el presente artículo, el Notario podrá, sin responsabilidad alguna a su cargo, destruir los testimonios respecto de los instrumentos que consten en las decenas entregadas al Archivo, y que no hayan sido recogidos por el prestatario del servicio o sus causahabientes.
+Tratándose del protocolo digital y sus respectivos apéndices del instrumento electrónico, el Notario, una vez transcurrido el plazo a que se refiere el presente artículo, lo entregará al Archivo para su guarda definitiva a través de credenciales de acceso del propio Sistema Informático y en la plataforma que para tal efecto implemente la Administración Pública.
 
-> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+Asimismo, realizada la entrega definitiva a que se refiere el presente artículo, el Notario podrá, sin responsabilidad alguna a su cargo, destruir los testimonios respecto de los instrumentos que consten en las decenas entregadas al Archivo, y que no hayan sido recogidos por el prestatario del servicio o sus causahabientes.
 
-Ésta misma facultad, la tendrá el Archivo, respecto de los testimonios que reciba respecto de la entrega da (sic) protocolos de Notarios que hayan cesado en sus funciones por cualquier causa, y que tengan una antigüedad de más de 5 años.
+Ésta misma facultad, la tendrá el Archivo, respecto de los testimonios que reciba respecto de la entrega de protocolos de Notarios que hayan cesado en sus funciones por cualquier causa y que tengan una antigüedad de más de 5 años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 97.
 
-Los Notarios tendrán obligación de elaborar un "Índice Electrónico" de todos los instrumentos autorizados o con la razón de "No pasó", agrupándolos por cada decena de libros, en el que se expresará respecto de cada instrumento:
+Los Notarios tendrán obligación de elaborar un Índice Electrónico de todos los instrumentos autorizados o con la razón de “No pasó”, agrupándolos por cada decena de libros, en el que se expresará respecto de cada instrumento:
 
 I. El número progresivo de cada instrumento;
 
@@ -1022,31 +1170,45 @@ VIII. Los datos que el Colegio determine como necesarios para el constante mejor
 
 El Índice se formará a medida que los instrumentos se vayan asentando en forma progresiva en los folios y será capturado en todas las Notarías a través del Sistema Informático para construir una base de datos integral que servirá para adjuntar y conservar el Archivo Electrónico y para las interconexiones que se realicen con las autoridades de la Administración Pública Federal, Local y Municipal, "Entes Públicos" y Alcaldías, y entre los propios Notarios y el "Colegio".
 
-> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
-Al entregarse definitivamente la decena de libros al Archivo, se acompañará un ejemplar de dicho índice electrónico y la información se conservará de manera permanente en el “Sistema Informático”.
+Al entregarse definitivamente la decena de libros al Archivo, no se acompañará un ejemplar de dicho índice ya que esa información se conservará de manera permanente en el Sistema Informático.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL “ACUERDO POR EL QUE SE PUBLICA LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”, PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2019, EL PRESENTE ARTÍCULO ENTRA EN VIGOR A PARTIR DEL 31 DE DICIEMBRE DE 2019.]</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 98.
 
-El libro de Registro de Cotejos es el conjunto de los folios encuadernados, con su respectivo "Apéndice Electrónico de Cotejos", en el que el Notario anota por medio del "Sistema Informático", los registros de los cotejos de los documentos que le presenten para dicho efecto, considerándose como documento original para el cotejo no solo el documento público o privado que así lo sea, sino también su copia certificada por notario o por autoridad legítimamente autorizada para expedirla y las impresiones hechas vía electrónica o con cualquier otra tecnología.
+El libro de Registro de Cotejos es el conjunto de los folios encuadernados, con su respectivo Apéndice Electrónico de Cotejos, en el que el Notario anota por medio del Sistema Informático los registros de los cotejos de los documentos que le presenten para dicho efecto, considerándose como documento original para el cotejo no solo el documento público o privado que así lo sea, sino también su copia certificada por fedatario o por autoridad legítimamente autorizada para expedirla y las impresiones hechas vía electrónica o con cualquier otra tecnología.
 
-Cada libro, que constará de doscientos folios, forma parte del protocolo del notario y, en lo no previsto le serán aplicables las normas relativas al protocolo. Se regirá por lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE AGOSTO DE 2021)</small>
 
-I. El notario hará el cotejo de la copia escrita, fotográfica, fotostática o de cualquier otra clase teniendo a la vista el documento original, sin más formalidades que la anotación en un libro que se denominará Libro de Registro de Cotejos, cuya información se capturará a través del Sistema Informático. Si el original se encuentra escrito total o parcialmente en idioma distinto al español no se requerirá traducción a esta lengua. El registro de los cotejos se hará mediante numeración progresiva e ininterrumpida por cada Notaría.
+Cada libro, que constará de doscientos folios, forma parte del protocolo del Notario y, en lo no previsto, le serán aplicables las normas relativas al protocolo ordinario. Se regirá por lo siguiente:
 
-El Sistema Informático generará un índice que como requisitos mínimos señalará, el año y nombre del solicitante o interesado y los números de cotejos en los que ha intervenido;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-II. En la hoja que en cada libro de registro de cotejos corresponda a lo indicado para los libros de folios en el artículo 83 de esta Ley, el Notario, o en su caso su asociado, asentará una razón de apertura en la que indicará su nombre, el número de la notaría a su cargo, la mención de ser libro de registro de cotejos, con indicación del número que le corresponda dentro de los de su clase, la fecha, su sello y firma. Al terminar cada hoja de este libro asentará su firma y su sello.
+I. El Notario hará el cotejo de la imagen digitalizada y alojada en el Sistema Informático teniendo a la vista el documento original o su matriz electrónica, sin más formalidades que la anotación en un libro que se denominará Libro de Registro de Cotejos, cuya información se capturará a través del Sistema Informático. Si el original se encuentra escrito total o parcialmente en idioma distinto al español no se requerirá traducción a esta lengua. El registro de los cotejos se hará mediante numeración progresiva e ininterrumpida por cada Notaría. El Sistema Informático generará un índice electrónico que contendrá la misma información del registro respectivo;
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+II. En la hoja que en cada libro de registro de cotejos corresponda a lo indicado para los libros de folios en el artículo 83 de esta Ley, el Notario, o en su caso su suplente o asociado, asentará una razón de apertura en la que indicará su nombre, el número de la notaría a su cargo, la mención de ser libro de registro de cotejos, con indicación del número que le corresponda dentro de los de su clase, la fecha, su sello y firma. Al terminar cada hoja de este libro asentará su firma y su sello.
 
 Inmediatamente después del último asiento que tenga cabida en el libro, el Notario asentará una razón de terminación en la que indicará la fecha en que ésta se efectúe, el número de asientos realizados, con indicación en particular del primero y del último, misma que firmará y sellará;
 
 III. Cada registro de cotejo capturado a través del Sistema Informático deberá contener el número progresivo que le corresponda, la fecha en que se efectúe, el nombre del solicitante, el señalamiento de si es por sí o por otro, con mención del nombre o denominación de éste en su caso; el número de documentos exhibidos y la descripción de cada uno de ellos, el número de copias cotejadas de cada documento y un espacio para las observaciones que el notario juzgue oportuno anotar. Entre registro y registro dentro de una misma página se imprimirá una línea de tinta indeleble que abarque todo lo ancho de aquella a fin de distinguir uno del otro; y
 
-IV. El notario certificará con su sello y firma la o las copias cotejadas, haciendo constar en ellas que son fiel reproducción de su original que tuvo a la vista, así como el número y fecha de registro que les corresponda.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
 
-Las copias cotejadas deberán contener las medidas de seguridad que señale el Colegio, sin que su omisión sea causa de invalidez de la certificación.
+IV. El archivo electrónico que contenga la imagen digitalizada del documento presentado para cotejo será firmado por el Notario con su Firma Electrónica Notarial. Las impresiones resultantes deberán contener, en cada hoja, el sello de autorizar y una matriz de datos bidimensional o cualquier otra tecnología análoga con la información que determine el Colegio mediante las Reglas de Uso, las cuales incluirán los criterios técnicos establecidos por la Autoridad Competente, así como la relativa a la Firma Electrónica Notarial que permita su verificación y consulta por medios electrónicos, que será generada y plasmada en las copias cotejadas a través del Sistema Informático; por lo que no serán necesarias rúbricas en cada hoja.
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+V. La certificación llevará la firma autógrafa del Notario y su sello de autorizar, haciendo constar que las copias cotejadas son fiel reproducción de su original que tuvo a la vista, así como el número y fecha de registro que les corresponda y la mención de que el cotejo fue firmado electrónicamente, incluyendo una representación impresa de la Firma Electrónica Notarial.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN V, G.O. 4 DE AGOSTO DE 2021.]</small>
+
+Las copias cotejadas deberán contener los elementos de seguridad que señale el Reglamento, sin que su omisión sea causa de invalidez de la certificación. En caso de que el Notario no se asegure de la implementación de los elementos de seguridad, se hará acreedor a las sanciones previstas en el artículo 238 de esta Ley.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN V.]</small>
 
 > <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
 
@@ -1054,43 +1216,213 @@ El índice del libro de registro de cotejos en formato electrónico servirá par
 
 El Archivo solo recibirá para depósito definitivo el libro de registro de cotejos. El Notario remitirá al Colegio el respectivo Índice del libro de registro de cotejos con su Apéndice Electrónico de Cotejos.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL “ACUERDO POR EL QUE SE PUBLICA LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”, PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2019, EL PRESENTE ARTÍCULO ENTRA EN VIGOR A PARTIR DEL 31 DE DICIEMBRE DE 2019.]</small>
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 99.
 
-Por cada registro, el notario deberá llevar a través del Sistema Informático un Apéndice Electrónico de Cotejos, el cual se integrará con una imagen digitalizada de cada uno de los documentos cotejados que se ordenarán en forma progresiva, sin necesidad de formar dicho apéndice en soporte papel.
+Por cada registro se integrará un Apéndice Electrónico de Cotejos con la imagen digitalizada de cada uno de los documentos públicos o privados presentados para cotejo. Se almacenará con la Firma Electrónica Notarial en el Sistema Informático donde se resguardará permanentemente en dispositivos magnéticos o cualquier otra tecnología.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 100.
 
-Los libros de registro de cotejos se remitirán al Archivo para su guarda, dentro de los 10 días hábiles siguientes del año, contado a partir de la fecha de su razón de terminación.
+Los libros de registro de cotejos se remitirán al Archivo para su guarda definitiva, al año contado a partir de la fecha de su razón de terminación. Para ello el Notario contará con diez días hábiles a partir de la expiración de dicho término.
 
-La remisión del Índice electrónico con las imágenes digitalizadas que constituyen el Apéndice electrónico de cotejos se hará al Colegio a través del Sistema Informático, para los efectos de lo dispuesto en el último párrafo del artículo 98 de la presente Ley.
+El Archivo únicamente recibirá para depósito definitivo los libros de registro de cotejos, a partir de ese momento tendrá disponibilidad y a su resguardo, de forma definitiva, el Apéndice Electrónico de Cotejos y del Índice Electrónico respectivos a través de credenciales de acceso del Sistema y en la plataforma que para tal efecto implemente la Administración Pública.
 
-El Archivo podrá solicitar al Colegio copia electrónica de cualquier registro del Apéndice Electrónico de Cotejos que se encuentre en el Sistema Informático bajo su custodia, únicamente para el cumplimiento de sus atribuciones legales.
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 4 DE AGOSTO DE 2021)</small>
+
+#### SECCIÓN SEGUNDA BIS. DE LA ACTUACIÓN DIGITAL NOTARIAL Y DEL PROTOCOLO DIGITAL
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+A. DE LA ACTUACIÓN DIGITAL NOTARIAL.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 100 Bis.
+
+La actuación digital notarial es aquella que realiza el Notario en el entorno digital cerrado y centralizado del Sistema Informático y a través de la Red Integral Notarial conforme a lo previsto en la presente ley.
+
+El Sistema Informático deberá contar con las herramientas tecnológicas que permitan al Notario dar seguridad informática a los prestatarios del servicio notarial, así como asegurarse de la identidad del firmante, su capacidad, la manifestación inequívoca de su conformidad y comprensión plena del contenido del instrumento.
+
+El Sistema Informático será interoperable con las plataformas que implemente la Administración Pública para el resguardo del protocolo digital y cualquier otra actuación digital del notariado; para lo cual, el Colegio otorgará a las autoridades competentes los accesos al Sistema Informático para el cumplimiento de sus atribuciones en términos de esta Ley.
+
+El Colegio elaborará las reglas de uso a que deberán sujetarse los Notarios, las cuales deberán observar los criterios técnicos emitidos por la Administración Pública y la Autoridad Competente, garantizando la seguridad de la información y la protección de los datos personales en su posesión.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 100 Ter.
+
+El Colegio permitirá la interconexión a los Notarios que lo soliciten y cumplan con los procedimientos, requisitos técnicos y elementos de seguridad tecnológica suficientes para actuar en el entorno digital. Una vez acreditado lo anterior, el Colegio le otorgará las credenciales de acceso al Sistema Informático y a la Red Integral Notarial, lo que hará del conocimiento de la Autoridad Competente en un término de diez días hábiles, así como las actualizaciones de interconexión correspondientes.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 100 Quáter.
+
+El Notario que decida actuar en el entorno digital conservará su actuación en el protocolo ordinario.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+B. DEL PROTOCOLO DIGITAL
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 100 Quinquies.
+
+El protocolo digital es la matriz en soporte electrónico donde el Notario aloja y autoriza las escrituras y actas con sus respectivos apéndices e índice electrónicos, que se otorgan ante su fe.
+
+El ejercicio de la función notarial digital, a través del Sistema Informático y la Red Integral Notarial, serán los únicos medios que le permitan al Notario conformar las relaciones jurídicas constituidas por los interesados y recibir, bajo la fe notarial, la manifestación de la voluntad de los autores de los actos jurídicos mediante el uso de la Firma Electrónica para la Actuación Digital Notarial.
+
+Por cada instrumento alojado en el protocolo digital, el Notario asentará en el Libro de Extractos un concentrado de la información contenida en dicho instrumento conforme a lo dispuesto por el artículo 100 Septiesdecies.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 100 Sexies.
+
+La estructura del mensaje de datos que conformará el soporte digital del instrumento electrónico permitirá integrar o referir el texto del instrumento, sus adiciones, cambios, variaciones, razones, autorizaciones preventivas y definitivas, así como los documentos y elementos que conformen el apéndice electrónico, además de la Firma Electrónica para la Actuación Digital Notarial, la Firma Electrónica Notarial, las notas complementarias y otros elementos que lo integren; incluyendo fotografías, videos, audios, planos entre otros mensajes de datos.
+
+Este mensaje de datos será la base digital del instrumento público Notarial en términos de esta Ley.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 100 Septies.
+
+Los instrumentos electrónicos deberán ser numerados progresiva y cronológicamente con una numeración distinta a los asentados en el protocolo ordinario, incluyendo los que tengan la mención de “No Pasó”.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 100 Octies.
+
+El instrumento electrónico autorizado por el notario con la Firma Electrónica Notarial gozará de fe pública y su contenido se presume auténtico.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 100 Nonies.
+
+En la actuación digital el Notario no podrá autorizar ningún instrumento electrónico sin que lo haga constar en el protocolo digital. Para lo relativo a la clausura del protocolo digital se procederá conforme al capítulo quinto sección tercera de este título.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 100 Decies.
+
+El alojamiento del instrumento electrónico se hará en el Sistema Informático mediante una interconexión segura y cifrada dentro de la Red Integral Notarial. Al efecto, el Colegio asegurará una capacidad de alojamiento suficiente a cada Notario en el propio Sistema Informático bajo los más estrictos estándares que fijen las normas en materia de seguridad informática y protección de datos personales en términos de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
+
+Las autoridades competentes vigilarán que los Notarios y el Colegio cumplan las disposiciones relativas al secreto profesional y protección de datos personales; por lo que cualquier irregularidad se hará del conocimiento al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 100 Undecies. El Notario y el Colegio serán responsables de la confidencialidad, integridad y disponibilidad de los instrumentos electrónicos, así como del protocolo digital alojado en el Sistema Informático. Para ello, el Reglamento establecerá los procedimientos técnicos de conservación de las matrices electrónicas, medidas de seguridad, tratamiento de la información digital, su respaldo y redundancia que el Colegio deberá atender para garantizar la permanencia, integridad, disponibilidad, accesibilidad e inteligibilidad en el tiempo de la información.
+
+La Autoridad Competente emitirá los criterios técnicos para la interoperabilidad y redundancia de la información con las plataformas desarrolladas por la Administración Pública.
+
+En caso de que se vulnere la confidencialidad, integridad o disponibilidad de los mensajes de datos o parte de ellos, el Notario y el Colegio, por conducto del apoderado designado, deberán dar aviso inmediato al Ministerio Público para que, posteriormente acompañado de la denuncia correspondiente, se haga del conocimiento a la Autoridad Competente, quienes realizarán las medidas pertinentes.
+
+El Notario y el Colegio deberán restaurar de inmediato la integridad y disponibilidad de los mensajes de datos vulnerados a través de los respaldos y redundancias respectivas.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 100 Deudecies. Previo a cualquier actuación en el protocolo digital, se comunicarán a la Autoridad Competente los cambios de Notario.
+
+El Notario que actuará en el protocolo digital realizará las razones de su actuación en la sección del instrumento electrónico que corresponda, según lo señalado por el artículo 100 Sexies de esta Ley. En estos supuestos, la actuación del Notario en funciones sobre el protocolo digital, se hará a través de sus propias credenciales de acceso a la Red Integral Notarial.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 100 Terdecies. La parte utilizable del texto del instrumento electrónico deberá aprovecharse al máximo posible, no deberán dejarse espacios en blanco y las líneas que se impriman deberán estar a igual distancia unas de otras, salvo cuando se trate de la reproducción de documentos, la que podrá hacerse ya sea transcribiendo a renglón continuo o reproduciendo su imagen, incluyendo fotografías, planos y en general cualquier documento gráfico. Las demás características del formato las determinará el Colegio.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 100 Quaterdecies. Las razones, menciones, certificaciones y demás notas que el Notario requiera adicionar a un instrumento electrónico después de haberse firmado electrónicamente por los comparecientes y autorizado preventiva o definitivamente, lo insertará mediante notas complementarias que firmará con su Firma Electrónica Notarial en el mensaje de datos vinculado.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 100 Quinquiesdecies. El Notario podrá actuar en el instrumento electrónico durante cinco años contados a partir de la certificación de cierre del Archivo del Libro de Extractos respectivo a que se refiere el artículo 100 Septiesdecies. Durante ese plazo, el propio Notario, su suplente, asociado o quien le sustituya, podrá autorizarlo, adicionar razones y notas complementarias, expedir copias certificadas y testimonios.
+
+Expirado el plazo señalado, y una vez que el Archivo reciba el Libro de Extractos conforme a lo señalado en el artículo 100 Noviesdecies, dichas atribuciones pasarán al Archivo.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 100 Sexiesdecies. Los Notarios tendrán obligación de elaborar un Índice Electrónico de todos los instrumentos electrónicos autorizados o con la mención de “No pasó”, en el que se expresará respecto de cada instrumento:
+
+I. El número progresivo de cada instrumento;
+
+II. El libro donde consta su extracto;
+
+III. La fecha de asiento;
+
+IV. El nombre y apellidos de las personas físicas otorgantes, así como los nombres y apellidos o en su caso, denominaciones o razones sociales de sus representados;
+
+V. La naturaleza del acto o hecho que contiene;
+
+VI. Los datos de los trámites administrativos que el Notario juzgue conveniente asentar;
+
+VII. Los datos que el Colegio determine como necesarios para el constante mejoramiento y modernización de la función notarial mediante el Sistema Informático; y
+
+VIII. Los demás que la Autoridad Competente estime necesarios para el ejercicio de sus atribuciones, que se manifestarán en el Reglamento.
+
+El Índice se formará a medida que los instrumentos electrónicos se vayan alojando en forma progresiva en el protocolo digital y será capturado en las Notarías a través del Sistema Informático para construir una base de datos integral para las interconexiones que se realicen con las autoridades de la Administración Pública, los propios Notarios y el Colegio; en estricto apego a la transferencia regulada por la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 100 Septiesdecies. El Libro de Extractos es el conjunto de los folios encuadernados en el que el Notario asienta a manera de extracto la información contenida en el índice a que se refiere el artículo anterior por cada uno de los instrumentos electrónicos que aloja en el protocolo digital.
+
+Cada asiento deberá contener una matriz de datos bidimensional o cualquier otra tecnología análoga existente o por existir, generada por el Sistema Informático y que permita su vinculación con el instrumento electrónico alojado en el mismo, así como su consulta por medios electrónicos.
+
+Cada libro consta de doscientos folios. En lo no previsto en esta sección le serán aplicables las normas relativas al protocolo ordinario y se rige por lo siguiente:
+
+I. Al terminar cada hoja de este libro el Notario asentará su firma autógrafa y su sello de autorizar.
+
+II. En la hoja que en cada libro corresponda a lo indicado para los libros de folios en el artículo 83, el Notario, o en su caso su suplente o asociado, asentará una razón de apertura en la que indicará su nombre, el número de la notaría a su cargo, la mención de ser Libro de Extractos, con indicación del número que le corresponda dentro de los de su clase, la fecha, el sello de autorizar y firma autógrafa.
+
+III. Dentro de los treinta y cinco días hábiles siguientes al asiento del último extracto que tenga cabida en el libro, el Notario deberá asentar en una hoja adicional, que deberá agregarse al final del último folio una razón de cierre en la que se indicará la fecha del asiento, el número de folios utilizados e inutilizados, la cantidad de los instrumentos electrónicos alojados, y de ellos los autorizados, los pendientes de autorizar y los que no pasaron, y pondrá al calce de la misma su firma y sello.
+
+A partir de la fecha en que se asiente la razón de cierre, el Notario dispondrá de un plazo máximo de cuatro meses para encuadernar el libro y enviarlo al Archivo, el que revisará solamente la exactitud de la razón de cierre, debiendo devolver el libro al Notario dentro de los cinco días hábiles siguientes a la fecha de entrega, con la certificación de cierre del libro correspondiente, de lo que el Archivo informará al Colegio.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 100 Octiesdecies. Para integrar el Libro de Extractos el Colegio, bajo su responsabilidad, proveerá a cada Notario y a costa de éste, de los folios necesarios, los cuales, además de tener elementos que los diferencien de los utilizados en el protocolo ordinario, deberán ir numerados progresivamente. El Colegio observará las medidas mínimas establecidas en el Reglamento para que en la fabricación de los folios se tomen las medidas de seguridad más adecuadas para procurar su inalterabilidad. El Colegio podrá abstenerse de proveer de folios a un Notario, cuando éste no se encuentra al corriente en el pago de las cuotas establecidas por dicho Colegio, el cual informará mensualmente a la Autoridad Competente de la entrega de folios que efectúe a los Notarios, en la forma que para ese efecto determine dicha autoridad.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 100 Noviesdecies. El Libro de Extractos se remitirá al Archivo para su guarda a los cinco años contados a partir de la fecha de su certificación de cierre.
+
+En tanto el Archivo no reciba el libro respectivo, el Notario podrá seguir actuando en los instrumentos electrónicos que correspondan.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 100 Vicies. En lo no previsto en esta sección y tomando en cuenta la naturaleza de la Actuación Digital Notarial aplicarán las disposiciones del protocolo ordinario y del Reglamento de esta Ley.
 
 #### SECCIÓN TERCERA. DE LAS ACTUACIONES Y DOCUMENTOS NOTARIALES
 
 A. ESCRITURAS
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 101.
 
-Escritura es el instrumento original que el Notario asienta en los folios, para hacer constar uno o más actos jurídicos y que firmado por los comparecientes, autoriza con su sello y firma.
+La Escritura es el instrumento público físico o electrónico original que el Notario asienta en los folios o aloja en el protocolo digital, para hacer constar uno o más actos jurídicos y que firmado ya sea en forma autógrafa o mediante la Firma Electrónica para la Actuación Digital Notarial por los comparecientes, autoriza con su sello y firma o Firma Electrónica Notarial, según el protocolo en que esté actuando.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 102.
 
-Las escrituras se asentarán con letra clara y sin abreviaturas, salvo el caso de transcripción o reproducción. No se usarán guarismos a menos que la misma cantidad aparezca con letra. Los blancos o huecos, si los hubiere, se cubrirán con líneas antes de que la escritura se firme.
+Las escrituras se redactarán con letra clara y sin abreviaturas, salvo el caso de transcripción o reproducción. No se usarán guarismos a menos que la misma cantidad aparezca con letra. Los blancos o huecos, si los hubiese, se cubrirán con líneas antes de que la escritura se firme. En el caso del protocolo ordinario, lo que se haya de testar se cruzará con una línea que lo deje legible, salvo que la ley ordene la ilegibilidad. Puede entrerrenglonar lo corregido o adicionado. Lo testado o entrerrenglonado se salvará con su inserción textual al final de la escritura, con indicación de que lo primero no vale y lo segundo si vale.
 
-Lo que se haya de testar se cruzará con una línea que lo deje legible, salvo que la ley ordene la ilegibilidad. Puede entrerrenglonarse lo corregido o adicionado. Lo testado o entrerrenglonado se salvará con su inserción textual al final de la escritura, con indicación de que lo primero no vale y lo segundo si vale. Las escrituras se firmarán por los otorgantes y demás comparecientes únicamente al final de lo escrito. Si quedare algún espacio en blanco antes de las firmas, será llenado con líneas. Se prohíben las enmendaduras y raspaduras.
+Las escrituras asentadas en el protocolo ordinario se firmarán por los otorgantes y demás comparecientes únicamente al final de lo escrito. Si quedare algún espacio en blanco antes de las firmas, será llenado con líneas. Se prohíben las enmendaduras y raspaduras.
+
+En el caso del protocolo digital, aquello que deba ser corregido o adicionado, el Notario lo hará constar en la sección del instrumento electrónico correspondiente con su Firma Electrónica Notarial.
+
+Las escrituras alojadas en el protocolo digital se firmarán por los otorgantes y demás comparecientes con la Firma Electrónica para la Actuación Digital Notarial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 103.
 
 El Notario redactará las escrituras en español, sin perjuicio de que pueda asentar palabras en otro idioma, que sean generalmente usadas como términos de ciencia o arte determinados, y observará las reglas siguientes:
 
-I. Expresará en el proemio el número de escritura y de libro a que pertenece, así como el lugar y fecha en que se asienta, su nombre y apellidos, el número de la notaría de que es titular, el acto o actos contenidos y el nombre del o de los otorgantes y el de sus representados y demás comparecientes, en su caso;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+I. Expresará en el proemio, la clase de protocolo en que actúa, el número de escritura y de libro a que pertenece, así como el lugar y fecha en que se asienta o aloja, su nombre y apellidos, el número de la notaría de que es titular, el acto o actos contenidos y el nombre del o de los otorgantes y el de sus representados y demás comparecientes, en su caso;
 
 II. Indicará la hora en los casos en que la Ley así lo ordene y cuando a su juicio sea pertinente;
 
@@ -1136,6 +1468,8 @@ XVII. Al agregar al apéndice cualquier documento, expresará la letra o el núm
 
 XVIII. Expresará el nombre y apellidos paterno y materno, nacionalidad, fecha y lugar de nacimiento, estado civil, ocupación y domicilio de los otorgantes, y de sus representados, en su caso. Sólo que la mujer casada lo pida, se agregará a su nombre y apellidos, el apellido o apellidos paternos del marido. En el caso de extranjeros pondrá sus nombres y apellidos tal como aparecen en la forma migratoria correspondiente. El domicilio se anotará con mención de la población, el número exterior e interior, en su caso, del inmueble, el nombre de la calle o de cualquier otro dato que precise la dirección hasta donde sea posible. Respecto de cualquier otro compareciente, el Notario hará mención también de las mismas generales; y
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 4 DE AGOSTO DE 2021)</small>
+
 XIX. Hará constar bajo su fe:
 
 a) Su conocimiento, en caso de tenerlo o que se aseguró de la identidad de los otorgantes, y que a su juicio tienen capacidad;
@@ -1146,7 +1480,9 @@ c) Que les fue leída la escritura a los otorgantes y a los testigos e intérpre
 
 d) Que ilustró a los otorgantes acerca del valor, las consecuencias y alcance legales del contenido de la escritura cuando a su juicio así proceda, o de que fue relevado expresamente por ellos de dar esa ilustración, declaración que asentará;
 
-e) Que quien o quienes otorgaron la escritura, mediante la manifestación de su conformidad, así como mediante su firma, en defecto de ésta, por la impresión de su huella digital al haber manifestado no saber o no poder firmar. En sustitución del otorgante que no firme por los supuestos indicados, firmará a su ruego quien aquél elija; en los casos que el Notario lo considere conveniente podrá solicitar al usuario, asiente en el instrumento correspondiente, además de su firma, su huella digital;
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+e) La manifestación de la conformidad de los otorgantes con el contenido del instrumento, mediante su firma autógrafa o Firma Electrónica para la Actuación Digital Notarial, según sea el caso. En el protocolo ordinario, la firma autógrafa podrá sustituirse por la impresión de su huella digital al haber declarado no saber o no poder firmar. En sustitución del otorgante que no firme por los supuestos indicados, firmará a su ruego quien aquél elija. En los casos que el Notario lo considere conveniente podrá solicitar al compareciente, asiente en el instrumento correspondiente, además de su firma autógrafa, su huella digital;
 
 f) La fecha o fechas en que se firme la escritura por los otorgantes o por la persona o personas elegidas por ellos y por los testigos e intérpretes si los hubiere; y
 
@@ -1168,6 +1504,8 @@ III. Cuando la escritura de lotificación o constitución del régimen de propie
 
 IV. Al expedir los testimonios de la escritura donde se contengan los actos sucesivos, el Notario deberá anexarles una certificación que contenga, en lo conducente, la relación de antecedentes que obren en el instrumento de certificación respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 105.
 
 El Notario hará constar la identidad de los otorgantes por cualquiera de los medios siguientes:
@@ -1178,9 +1516,15 @@ II. Por certificación de identidad en base a algún documento oficial con fotog
 
 III. Mediante la declaración de dos testigos idóneos, mayores de edad, a su vez identificados por el Notario conforme a alguna de las fracciones anteriores, quien deberá expresarlo así en la escritura. Los testigos en cuanto tales están obligados a asegurar la identidad y capacidad de los otorgantes, y de esto serán previamente advertidos por el Notario, deberán saber el nombre y apellidos de éstos, que no han observado en ellos manifestaciones patentes de incapacidad natural y que no tienen conocimiento de que están sujetos a incapacidad civil; para lo anterior el Notario les informará cuáles son las incapacidades naturales y civiles, salvo que el testigo sea perito en Derecho. Igualmente les informará su carácter de testigos instrumentales y las responsabilidades consiguientes. En substitución del testigo que no supiere o no pudiere firmar, lo hará otra persona que al efecto elija el testigo, imprimiendo éste su huella digital. La certificación y consiguiente fe del Notario siempre prevalecerá sobre la de los testigos en caso de duda suscitada posteriormente salvo evidencia debidamente probada que supere toda duda al respecto. En todo caso, el Notario hará constar en la escritura el medio por el que identificó a los otorgantes. Tratándose de testigos, si alguno no supiere o no pudiere firmar, imprimirá su huella digital y firmará a su ruego la persona que aquél elija.
 
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Este medio de identificación no podrá ser usado por el Notario que esté actuando en el protocolo digital.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 106.
 
-Para que el Notario haga constar que los otorgantes tienen capacidad bastará con que no observe en ellos manifestaciones de incapacidad natural y que no tenga noticias de que estén sujetos a incapacidad civil.
+Para que el Notario haga constar que los otorgantes tienen capacidad bastará con que no observe en ellos manifestaciones de incapacidad natural y que no tenga noticias de que estén sujetos a incapacidad civil. Para este efecto el Notario gozará de plena libertad de apreciación.
 
 ###### Artículo 107.
 
@@ -1190,55 +1534,99 @@ Si alguno de los otorgantes fuere sordo, leerá la escritura por sí mismo; el N
 
 Los comparecientes que no conozcan o hablen idioma español, que fueren sordomudos, o que declararan ante el Notario que su conocimiento del mismo no es suficiente para discernir jurídicamente sus obligaciones, se asistirán por un intérprete nombrado y pagado a costa de ellos, en este caso los demás comparecientes tendrán el mismo derecho. Los intérpretes deberán rendir ante el Notario protesta de cumplir lealmente su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 109.
 
-Antes de que la escritura sea firmada por los otorgantes, éstos podrán pedir que se hagan a ella las adiciones o variaciones que estimen convenientes, en cuyo caso el Notario asentará los cambios y hará constar que dio lectura y que explicó, de proceder ello a su juicio, las consecuencias legales de dichos cambios. El Notario cuidará, en estos supuestos que, entre la firma y la adición o variación, no queden espacios en blanco.
+Antes de que la escritura sea firmada por los otorgantes, éstos podrán pedir que se hagan a ella las adiciones o variaciones que estimen convenientes, en cuyo caso el Notario asentará los cambios y hará constar que dio lectura y que explicó, de proceder ello a su juicio, las consecuencias legales de dichos cambios. El Notario que esté actuando en el protocolo ordinario cuidará, en estos supuestos que, entre la firma y la adición o variación, no queden espacios en blanco.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+En el caso del protocolo digital aquello que deba ser cambiado, variado o adicionado, se hará constar por el Notario en la sección del instrumento electrónico correspondiente y el compareciente o comparecientes interesados manifestarán su conformidad con ella mediante su Firma Electrónica para la Actuación Digital Notarial y el Notario con su Firma Electrónica Notarial.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 110.
 
-Una vez que la escritura haya sido firmada por todos los otorgantes y demás comparecientes, podrá ser autorizada preventivamente por el Notario con la razón "ante mí", su firma y sello, o autorizada definitivamente. Cuando la escritura no sea firmada en el mismo acto por todos los comparecientes, siempre que no se daba firmar en un solo acto por su naturaleza o por disposición legal, el Notario irá asentando solamente "ante mí", con su firma a medida que sea firmada por las partes y cuando todos la hayan firmado imprimirá además su sello, con todo lo cual quedará autorizada preventivamente.
+En el protocolo ordinario, una vez que la escritura haya sido firmada por todos los otorgantes y demás comparecientes, podrá ser autorizada preventivamente por el Notario con la razón "ante mí", su firma y sello, o autorizada definitivamente. Cuando la escritura no sea firmada en el mismo acto por todos los comparecientes, siempre que no se daba (sic) firmar en un solo acto por su naturaleza o por disposición legal, el Notario irá asentando solamente "ante mí", con su firma a medida que sea firmada por las partes y cuando todos la hayan firmado imprimirá además su sello, con todo (sic) lo cual quedará autorizada preventivamente.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 111.
 
-El Notario deberá autorizar definitivamente la escritura cuando se le haya justificado que se ha cumplido con todos los requisitos legales para ello. La autorización definitiva contendrá la fecha, la firma y el sello del Notario.
+El Notario deberá autorizar definitivamente la escritura asentada en protocolo ordinario cuando se le haya justificado que se ha cumplido con todos los requisitos legales para ello. La autorización definitiva contendrá la fecha, la firma y el sello del Notario.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 112.
 
-Cuando la escritura haya sido firmada por todos los comparecientes y no exista impedimento para su autorización definitiva, el Notario podrá asentar ésta de inmediato, sin necesidad de autorización preventiva.
+Cuando la escritura asentada en protocolo ordinario haya sido firmada por todos los comparecientes y no exista impedimento para su autorización definitiva, el Notario podrá asentar ésta de inmediato, sin necesidad de autorización preventiva.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 113.
 
-El Notario asentará la autorización definitiva en el folio correspondiente acto continuo de haber asentado la nota complementaria en la que se indicare haber quedado satisfecho el último requisito para esa autorización del instrumento de que se trate.
+El Notario asentará la autorización definitiva en el folio correspondiente del protocolo ordinario, acto continuo de haber asentado la nota complementaria en la que se indicare haber quedado satisfecho el último requisito para esa autorización del instrumento de que se trate.
 
 ###### Artículo 114.
 
 En caso de que el cumplimiento de todos los requisitos legales a que alude el Artículo anterior tuviere lugar cuando el libro de protocolo o los folios donde conste la escritura relativa, estuvieren depositados en el Archivo, o quedara suficientemente acreditado por el cuerpo de la escritura y los documentos del apéndice dicho cumplimiento, aunque haya sido anterior a su depósito en el Archivo, su titular pondrá al instrumento relativo razón de haberse cumplido con todos los requisitos, la que se tendrá por autorización definitiva, dejará constancia si el momento del cumplimiento fue anterior a su depósito o en los términos primeramente descritos. Todo testimonio o copia certificada que expida indicará esta circunstancia bajo su certeza y responsabilidad.
 
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 114 Bis.
+
+En el protocolo digital, después de que todos los comparecientes hayan firmado la escritura con su Firma Electrónica para la Actuación Digital Notarial, el Notario la firmará con su Firma Electrónica Notarial y con ello quedará autorizada definitivamente.
+
+Si la escritura contiene varios actos jurídicos, los comparecientes manifestarán su voluntad por medio de su Firma Electrónica para la Actuación Digital Notarial, por cada uno de ellos y el Notario firmará con su Firma Electrónica Notarial para que con ello quede la escritura autorizada preventivamente por lo que se refiere a ese acto jurídico.
+
+Al conformarse la escritura con la Firma Electrónica para la Actuación Digital Notarial de todos los comparecientes, el Notario la firmará con su Firma Electrónica Notarial y con ello quedará autorizada definitivamente.
+
+Si alguno de los actos jurídicos del instrumento dejare de firmarse por los otorgantes, el Notario asentará la mención de “No pasó” solo respecto del acto no firmado, autorizando los demás.
+
+Por su naturaleza de constancia electrónica, no será necesario asentar la razón “ante mí” a medida que la escritura sea firmada con su Firma Electrónica para la Actuación Digital Notarial por las partes.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 115.
 
-Las escrituras asentadas en el protocolo por un Notario serán firmadas y autorizadas preventiva o definitivamente por el propio Notario o por sus asociados o suplentes, siempre que se cumplan los requisitos siguientes:
+Las escrituras asentadas o alojadas en el protocolo por un Notario serán firmadas y autorizadas preventiva o definitivamente por el propio Notario o por sus asociados o suplentes, según corresponda en razón del protocolo en que esté actuando, siempre que se cumplan los requisitos siguientes:
 
-I. Que la escritura haya sido firmada sólo por alguna o algunas de las partes ante el primer Notario, y aparezca puesta por él, la razón "Ante mí" con su firma; y
+I. En el protocolo ordinario:
 
-II. Que el Notario asociado o suplente exprese el motivo de su intervención y haga suyas las certificaciones que deba contener el instrumento, con la sola excepción de las relativas a la identidad y capacidad de quienes hayan firmado ante el primer Notario y a la lectura del instrumento a éstos. La autorización definitiva será suscrita por quien actúe en ese momento.
+a) Que la escritura haya sido firmada sólo por alguna o algunas de las partes ante el primer Notario, y aparezca puesta por él, la razón “Ante mí” con su firma; y
+
+b) Que el Notario asociado o suplente exprese el motivo de su intervención y haga suyas las certificaciones que deba contener el instrumento, con la sola excepción de las relativas a la identidad y capacidad de quienes hayan firmado ante el primer Notario y a la lectura del instrumento a éstos. La autorización definitiva será suscrita por quien actúe en ese momento.
+
+II. En el protocolo digital:
+
+a) Que la escritura haya sido firmada con su Firma Electrónica para la Actuación Digital Notarial sólo por alguna o algunas de las partes ante el primer Notario; y
+
+b) Que el Notario asociado o suplente exprese el motivo de su intervención y haga suyas las certificaciones que deba contener el instrumento, con la sola excepción de las relativas a la identidad y capacidad de quienes hayan firmado ante el primer Notario y a la lectura del instrumento a éstos. La autorización definitiva será suscrita por quien actúe en ese momento.
 
 ###### Artículo 116.
 
 Quien supla a un Notario que hubiere autorizado preventivamente una escritura y que dejare de estar en funciones por cualquier causa, podrá autorizarla definitivamente con sujeción a lo dispuesto por los dos Artículos anteriores.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 117.
 
-Si quienes deben firmar una escritura no lo hacen a más tardar dentro de los treinta días naturales siguientes al día en que se extendió ésta en el protocolo, el instrumento quedará sin efecto y el Notario le pondrá al pie la razón de “No pasó” y su firma.
+Si quienes deben firmar una escritura no lo hacen a más tardar dentro de los treinta días hábiles siguientes al día en que se extendió o alojó ésta, en el respectivo protocolo, el instrumento quedará sin efecto y el Notario le pondrá la mención de “No pasó” y su firma o Firma Electrónica Notarial, según el protocolo en que esté actuando.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 118.
 
-Si la escritura contuviere varios actos jurídicos y dentro del término que se establece en el Artículo anterior se firmare por los otorgantes de uno o de varios de dichos actos y dejare de firmarse por los otorgantes de otro u otros actos, el Notario pondrá la razón “Ante mi” en lo concerniente a los actos cuyos otorgantes han firmado, su firma y su sello, e inmediatamente después pondrá la nota “No pasó” sólo respecto del acto no firmado, el cual quedará sin efecto.
+Si la escritura contuviere varios actos jurídicos y dentro del término que se establece en el artículo anterior se firmare por los otorgantes de uno o de varios de dichos actos y dejare de firmarse por los otorgantes de otro u otros actos, el Notario cuando se trate de protocolo ordinario pondrá la razón “Ante mi” en lo concerniente a los actos cuyos otorgantes han firmado, su firma y su sello, e inmediatamente después pondrá la nota “No pasó” sólo respecto del acto no firmado, el cual quedará sin efecto.
 
-> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+Cuando se trate del protocolo digital, la nota “No pasó” la hará constar en la sección del instrumento electrónico correspondiente con su Firma Electrónica Notarial.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 119.
 
-El Notario que autorice una escritura en la que mencione a otra u otras escrituras anteriores extendidas en su protocolo, que no hayan sido objeto de registro, lo advertirá así al otorgante interesado y cuidará, una vez que haya sido expensado para ello, en su caso, que se haga en aquél la inscripción o inscripciones, así como la anotación o anotaciones correspondientes. Si el libro de que se trate estuviera depositado definitivamente en el Archivo, el Notario comunicará a dicha dependencia lo procedente para que ésta, sin costo alguno, haga la anotación o anotaciones del caso.
+El Notario que autorice una escritura en la que mencione a otra u otras escrituras anteriores extendidas en su protocolo, que no hayan sido objeto de registro, lo advertirá así al otorgante interesado y cuidará, una vez que haya sido expensado para ello, en su caso, que se haga en aquél la inscripción o inscripciones, así como la anotación o anotaciones correspondientes. Si el libro de que se trate estuviera depositado definitivamente en el Archivo, (sic) las credenciales de acceso al instrumento electrónico le correspondiere a éste, o bien, esté alojado en la plataforma que para tal efecto implemente la Administración Pública, el Notario comunicará a dicha dependencia lo procedente para que ésta, sin costo alguno, haga la anotación o anotaciones del caso.
 
 ###### Artículo 120.
 
@@ -1270,11 +1658,11 @@ El aviso correspondiente será presentado por medios electrónicos en la Platafo
 
 Cuando se revoque, rescinda o modifique un acto contenido en una escritura, se deberá extender una nueva escritura y se realizará la anotación o la comunicación que procedan en los términos previstos en el Artículo 120 anterior, para que se haga la anotación correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 123.
 
-Siempre que ante un Notario se otorgue un testamento público abierto, éste dará aviso al Archivo, dentro de los cinco días hábiles siguientes, en el que expresará la fecha del otorgamiento, el número de notaría, nombre completo del Notario, número de escritura, volumen o tomo, el nombre, sus demás generales, en su caso cualquier otro dato que requiera el formato para integrar los avisos de testamento, y recabará la constancia correspondiente. En caso de que el testador manifieste en su testamento los nombres de sus padres, se incluirán éstos en el aviso.
+Siempre que ante un Notario se otorgue un testamento público abierto, éste dará aviso al Archivo, dentro de los cinco días hábiles siguientes, en el que expresará la fecha del otorgamiento, el número de notaría, nombre completo del Notario, tipo de testamento, número de escritura, volumen o tomo, clase de protocolo, el nombre, sus demás generales, en su caso cualquier otro dato que requiera el formato para integrar los avisos de testamento, y recabará la constancia correspondiente. En caso de que el testador manifieste en su testamento los nombres de sus padres, se incluirán éstos en el aviso.
 
 El aviso correspondiente podrá ser presentado por medios electrónicos cuando la Autoridad Competente cuente con la plataforma necesaria para ello.
 
@@ -1302,9 +1690,11 @@ El aviso correspondiente podrá ser presentado por medios electrónicos cuando l
 
 B. ACTAS
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 128.
 
-Acta Notarial es el instrumento público original en el que el Notario, a solicitud de parte interesada, relaciona, para hacer constar bajo su fe, uno o varios hechos presenciados por él o que le consten, y que asienta en los folios del protocolo a su cargo con la autorización de su firma y sello.
+Acta Notarial es el instrumento público original en soporte físico o electrónico en el que el Notario, a solicitud de parte interesada, para hacer constar bajo su fe, relaciona uno o varios hechos presenciados por él o que le consten, y que asienta en los folios del protocolo ordinario o aloja en el protocolo digital a su cargo con la autorización de su firma y sello o su Firma Electrónica Notarial, según el protocolo en que esté actuando. Para este efecto el Notario gozará de plena libertad de apreciación.
 
 ###### Artículo 129.
 
@@ -1313,6 +1703,8 @@ Las disposiciones de esta Ley relativas a las escrituras serán aplicadas a las 
 ###### Artículo 130.
 
 Cuando se solicite al Notario que dé fe de varios hechos relacionados entre sí, que tengan lugar en diversos sitios o momentos, el Notario los podrá asentar en una sola acta, una vez que todos se hayan realizado, o bien asentarlos en dos o más actas correlacionándolas, en su caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 131.
 
@@ -1329,6 +1721,14 @@ IV. La existencia de planos, fotografías y otros documentos;
 V. Protocolización de documentos;
 
 VI. Declaraciones que hagan una o más personas respecto de hechos que les consten, sean propios o de quien solicite la diligencia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+VI bis. El registro del prestatario del servicio notarial en el Sistema Informático, haciendo constar la manifestación expresa de su voluntad para utilizar su Certificado Electrónico de la Firma Electrónica Avanzada o el de su Firma Electrónica de la Ciudad de México para la conformación de la Firma Electrónica para la Actuación Digital Notarial y la captura de sus biométricos como mecanismo de autenticación para su utilización.
+
+Asimismo, se hará constar su conformidad con los términos y condiciones de uso del Sistema Informático y las declaraciones que en relación con lo anterior estime pertinente. Todo ello en apego a las disposiciones legales en materia de protección de datos personales en su posesión. Dicha acta será alojada en el protocolo digital; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 4 DE AGOSTO DE 2021)</small>
 
 VII. En general, toda clase de hechos positivos o negativos, estados y situaciones, sean lícitos o no, que guarden las personas y cosas que puedan ser apreciados objetivamente y relacionados por el Notario.
 
@@ -1364,13 +1764,23 @@ En los supuestos a que se refieren los tres Artículos anteriores, el Notario ha
 
 Las actas que el Notario levante con motivo de los hechos a que se refieren las fracciones II, V y VI del Artículo 131, serán firmadas por quien solicite la intervención del Notario y demás comparecientes. En los supuestos previstos en las demás fracciones del mismo Artículo, el Notario podrá autorizar el acta levantada sin necesidad de firma alguna.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 138.
 
-Cuando se trate de reconocimiento o puesta de firmas y de la ratificación de contenido previstos en la fracción II del Artículo131, el Notario hará constar lo sucedido al respecto ante él, así como la identidad de los comparecientes y que éstos tienen capacidad. La firma o su reconocimiento indicados, con su respectiva ratificación de contenido, podrán ser a propósito de cualquier documento redactado en idioma distinto al español, sin necesidad de traducción y sin responsabilidad para el Notario, en el acta respectiva se incluirá la declaración del interesado de que conoce en todos sus términos el contenido del documento y en lo que éste consiste. El Notario deberá abstenerse de intervenir en las actuaciones señaladas en este Artículo, cuando el acto que se contenga en el documento exhibido deba constar en escritura por disposición legal o pacto entre las partes; salvo, en este último caso, que todos los sujetos que la hayan acordado o aquellos de los cuales esto dependa jurídicamente estén de acuerdo.
+Cuando se trate de reconocimiento o puesta de firmas autógrafas o electrónicas y de la ratificación de contenido previstos en la fracción II del Artículo 131, el Notario hará constar lo sucedido al respecto ante él, así como la identidad de los comparecientes y que éstos tienen capacidad. La firma autógrafa o electrónica o su reconocimiento indicados, con su respectiva ratificación de contenido, podrán ser a propósito de cualquier documento redactado en idioma distinto al español, sin necesidad de traducción y sin responsabilidad para el Notario, en el acta respectiva se incluirá la declaración del interesado de que conoce en todos sus términos el contenido del documento y en lo que éste consiste.
+
+En el caso de ratificación de firmas electrónicas, el compareciente declarará ante el Notario que la firma electrónica es el medio que acordó para atribuir autoría y efectos jurídicos al documento o mensaje de datos cuyo contenido ratifica, así como la plataforma electrónica utilizada para firmar electrónicamente y el tipo de firma electrónica utilizada en el documento o en el mensaje de datos a ratificar, salvo que el compareciente manifieste desconocer la información.
+
+El Notario deberá abstenerse de intervenir en las actuaciones señaladas en este artículo, cuando el acto que se contenga en el documento exhibido deba constar en escritura por disposición legal o pacto entre las partes; salvo, en este último caso, que todos los sujetos que la hayan acordado o aquellos de los cuales esto dependa jurídicamente estén de acuerdo.
 
 ###### Artículo 139.
 
 Para la protocolización de un documento, el Notario lo insertará en la parte relativa del acta que al efecto se asiente mediante su transcripción o la reproducción de su imagen en la forma prevenida por el Artículo 86, o lo agregará al apéndice en el legajo marcado con el número de acta y bajo la letra o número que le corresponda.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+La protocolización de mensajes de datos y documentos electrónicos podrá realizarse mediante la incorporación del archivo electrónico respectivo al apéndice del instrumento del protocolo ordinario o digital, según corresponda a través del Sistema Informático. En el caso del protocolo ordinario, además y de ser posible conforme a la naturaleza del mensaje de datos o documento electrónico, se agregará al apéndice una representación impresa del mismo.
 
 ###### Artículo 140.
 
@@ -1402,13 +1812,21 @@ C. TESTIMONIOS, COPIAS CERTIFICADAS, COPIAS CERTIFICADAS ELECTRÓNICAS Y CERTIFI
 
 Testimonio es la copia en la que se transcribe íntegramente una escritura o un acta, y se transcriben, o se incluyen reproducidos, los documentos anexos que obran en el apéndice, con excepción de los que ya se hayan insertado en el instrumento y que por la fe del Notario y la matricidad de su protocolo tiene el valor de instrumento público.
 
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Asimismo, se entenderá como testimonio la representación impresa del instrumento electrónico y de los documentos y elementos que integran su apéndice.
+
 ###### Artículo 147.
 
 Se insertarán en el testimonio los documentos con los que se acredite la satisfacción de requisitos fiscales, aun cuando hubieren sido mencionados en la escritura.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 148.
 
-Las hojas que integren un testimonio irán numeradas progresivamente y llevarán la rúbrica y el sello del Notario.
+Las hojas que integren un testimonio irán numeradas progresivamente y tendrán las mismas dimensiones que las de los folios del protocolo. En la parte superior izquierda del anverso el Notario imprimirá su sello, y las rubricará en el margen derecho de su mismo anverso.
+
+Sin perjuicio de lo anterior, los notarios, a partir del Archivo Electrónico o Instrumento Electrónico podrán expedir en soporte papel testimonios, certificaciones y copias certificadas firmados electrónicamente. El mensaje de datos que contenga la reproducción del Archivo Electrónico o la representación del Instrumento Electrónico será firmado con su Firma Electrónica Notarial. Las hojas deberán contener el sello de autorizar y una matriz de datos bidimensional o cualquier otra tecnología análoga existente o por existir, con la información que determine el Colegio mediante las Reglas de Uso las cuales incluirán los criterios técnicos establecidos por la Autoridad Competente, así como la relativa a la Firma Electrónica Notarial que permita su verificación y consulta por medios electrónicos, que será generada y plasmada en las impresiones a través del Sistema Informático; por lo que no serán necesarias rúbricas en cada hoja.
 
 ###### Artículo 149.
 
@@ -1418,9 +1836,13 @@ El Notario podrá expedir sin necesidad de autorización judicial, primero, segu
 
 Se podrá expedir testimonio parcial por la supresión del texto de alguno o algunos de los actos consignados, o de alguno o algunos de los documentos que constan en el protocolo, siempre y cuando con ello no se cause perjuicio.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 151.
 
-Los Notarios al expedir los testimonios deberán tomar las medidas de seguridad que señale el Colegio. Lo mismo harán respecto a aquellas que el Colegio disponga en relación con el protocolo y los folios.
+En la expedición de testimonios, copias certificadas y certificaciones, los Notarios deberán utilizar los elementos de seguridad que señale el Reglamento.
+
+Para tales efectos únicamente el Colegio proveerá a los Notarios, a su costa, de dichos elementos, sin que la omisión de alguno de dichos elementos sea causa de su invalidez.
 
 ###### Artículo 152.
 
@@ -1430,13 +1852,11 @@ Al final de cada testimonio se hará constar si es el primero, segundo o ulterio
 
 El Notario tramitará el registro de cualquiera de los testimonios que expida o de una copia certificada electrónica ante el Registro Público, cuando el acto sea inscribible y el Notario hubiere sido requerido y expensado para ello, tomando en cuenta el Artículo 17 de esta Ley.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 154.
 
-Las hojas del testimonio tendrán las mismas dimensiones que las de los folios del protocolo. En la parte superior izquierda del anverso el Notario imprimirá su sello, y las rubricará en el margen derecho de su mismo anverso.
-
-Como medida de seguridad, el Colegio proveerá a los Notarios, previo pago de su costo, de los elementos de seguridad que señale el primero para los testimonios, copias certificadas, certificaciones y folios.
-
-Las hojas del testimonio deberán contener las medidas de seguridad que señale el Colegio, sin que la omisión sea causa de su invalidez.
+Los testimonios, copias certificadas y certificaciones en soporte papel firmados electrónicamente deberán ser autorizados al final con la firma autógrafa del notario y su sello de autorizar, y contendrán además la mención de que el documento fue firmado electrónicamente, incluyendo una representación impresa de la Firma Electrónica Notarial.
 
 ###### Artículo 155.
 
@@ -1446,9 +1866,11 @@ Para cualquier expedición, el Notario utilizará un medio indeleble de reproduc
 
 Expedido un testimonio no podrá testarse ni entrerrenglonarse, aunque se adviertan en él errores de copia o transcripción del instrumento original asentado en el protocolo. En ese caso el solicitante lo presentará al Notario quien, una vez constatado el error, hará mención de ello en nota complementaria que consignará en el original y asentará una certificación en el testimonio, haciendo constar la discrepancia y el texto correcto que corresponda en lugar del erróneo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 157.
 
-Copia certificada es la reproducción total o parcial de una escritura o acta, así como de sus respectivos documentos del apéndice, o sólo de éstos o de alguno o algunos de estos; que el Notario expedirá sólo para lo siguiente:
+Copia certificada es la reproducción o representación total o parcial, según sea el caso, de una escritura o acta, con o sin sus respectivos documentos del apéndice, o sólo de éstos o de alguno o algunos de estos; que el Notario expedirá sólo para lo siguiente:
 
 I. Para acompañar declaraciones, manifestaciones o avisos de carácter administrativo o fiscal, si las leyes o reglamentos aplicables disponen que con ellos se exhiban copias certificadas o autorizadas; así como para obtener la inscripción de escrituras en los Registros Públicos, o en cualquier otro caso en los que su presentación o expedición sea obligatoria;
 
@@ -1458,13 +1880,19 @@ III. Para remitirlas a las Autoridades Competentes, las judiciales, ministeriale
 
 IV. Para entregar al otorgante que la solicite, la reproducción de alguno o algunos de los documentos que obren en el apéndice.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 158.
 
-Copia certificada electrónica es la reproducción total o parcial de una escritura o acta, así como de sus respectivos documentos del apéndice, o sólo de éstos o de alguno de estos, que el Notario expide únicamente en soporte electrónico y que autoriza mediante la utilización de su firma electrónica Notarial. La copia certificada electrónica que el Notario autorice será un documento Notarial válido jurídicamente y se considerará con valor equivalente a los testimonios previstos en esta Ley para efectos de inscripción en las instituciones registrales y cualquier otro efecto previsto en el Artículo 160 de esta Ley.
+Copia certificada electrónica es la reproducción o representación gráfica, total o parcial, según sea el caso, de una escritura o acta, con o sin sus respectivos documentos del apéndice, o sólo de éstos o de alguno de estos, que el Notario expide únicamente en soporte electrónico y que autoriza mediante la utilización de su Firma Electrónica Notarial. La copia certificada electrónica que el Notario autorice será un documento Notarial válido jurídicamente y se considerará con valor equivalente a los testimonios previstos en esta Ley para efectos de inscripción en las instituciones registrales y cualquier otro efecto previsto en el Artículo 160 de esta Ley.
+
+Las copias certificadas electrónicas deberán generarse a partir del Archivo Electrónico o Instrumento Electrónico, debiendo coincidir en todo momento con sus contrapartes físicas o electrónicas según el caso.
 
 ###### Artículo 159.
 
 Las copias certificadas electrónicas de las escrituras o actas ya autorizadas en el protocolo de un Notario podrán remitirse de manera telemática únicamente con la firma electrónica Notarial del mismo Notario que las autorizó o del que legalmente lo sustituya en los instrumentos originales que constan en el protocolo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 160.
 
@@ -1478,7 +1906,9 @@ III. Para acompañar informes solicitados por autoridad legalmente facultada par
 
 IV. Para remitir copias auténticas de instrumentos públicos autorizados por el Notario y solicitadas u ordenadas por la autoridad judicial;
 
-En los casos a que se refiere la fracción II de este Artículo el Notario asentará una nota complementaria que contendrá la fecha de expedición, el número de páginas de que conste la copia, así como para quién se expide y a qué título. Las constancias sobre los asientos de inscripción puestas por los Registros Públicos en el acuse electrónico, serán relacionadas por el Notario en una nota complementaria del instrumento con rúbrica del Notario. En los casos a que se refieren las fracciones III y IV de este Artículo, el Notario deberá hacer constar, tanto en una nota complementaria como en la razón de certificación respectiva, la autoridad que ordenó la expedición de la copia certificada electrónica, así como el número del expediente en que ella actúa y el número y fecha del oficio correspondiente.
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+En los casos a que se refiere la fracción II de este Artículo el Notario asentará una nota complementaria que contendrá la fecha de expedición, el número de páginas de que conste la copia, así como para quién se expide y a qué título. Las constancias sobre los asientos de inscripción puestas por los Registros Públicos en el acuse electrónico, serán relacionadas por el Notario en una nota complementaria del instrumento con su rúbrica o Firma Electrónica Notarial, según el protocolo en que esté actuando. En los casos a que se refieren las fracciones III y IV de este artículo, el Notario deberá hacer constar, tanto en una nota complementaria como en la razón de certificación respectiva, la autoridad que ordenó la expedición de la copia certificada electrónica, así como el número del expediente en que ella actúa y el número y fecha del oficio correspondiente.
 
 ###### Artículo 161.
 
@@ -1500,15 +1930,17 @@ La coincidencia de la copia certificada electrónica con el original matriz y lo
 
 Los registradores del Registro Público y de otros Registros, los servidores públicos, así como los jueces y magistrados de los órganos jurisdiccionales, podrán, bajo su responsabilidad, imprimir en papel las copias certificadas electrónicas que hubiesen recibido, con la única finalidad de incorporarlas a los expedientes o archivos que correspondan por razón de su oficio en el ámbito de su respectiva competencia y harán constar igualmente en una certificación ese hecho.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 166.
 
-Certificación Notarial es la relación que hace el Notario de un acto o hecho que obra en su protocolo, en un documento que él mismo expide o en un documento preexistente, así como la afirmación de que una transcripción o reproducción coincide fielmente con su original, comprendiéndose dentro de dichas certificaciones las siguientes:
+Certificación Notarial es la relación que hace el Notario de un acto o hecho que obra en su protocolo, en un documento que él mismo expide o en un documento preexistente, así como la afirmación de que una transcripción, reproducción o representación coincide fielmente con su original, comprendiendo dentro de dichas certificaciones las siguientes:
 
 I. Las razones que el Notario asienta en copias al efectuar un cotejo conforme a lo previsto en el Artículo 98 de esta Ley;
 
-> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-II. La razón que el Notario asienta al expedir las copias a que se refiere el Artículo 157. En estos casos la certificación se asentará al final de la transcripción o reproducción, haciendo constar el número y fecha del instrumento del protocolo correspondiente, a no ser que estos datos se reproduzcan al principio de la copia. En el caso a que se refiere la fracción I del Artículo 157, bastará señalar para qué efectos se expide, sin que conste petición de parte, ni se tomará razón de su expedición en parte alguna del protocolo;
+II. La razón que el Notario asienta al expedir las copias a que se refiere el artículo 157. En estos casos la certificación se asentará al final de la transcripción, reproducción o representación, haciendo constar el número y fecha del instrumento del protocolo correspondiente, a no ser que estos datos se reproduzcan al principio de la copia. En el caso a que se refiere la fracción I del artículo 157, bastará señalar para qué efectos se expide, sin que conste petición de parte, ni se tomará razón de su expedición en parte alguna del protocolo;
 
 III. La relación sucinta de un acto o hecho, o de uno de sus elementos o circunstancias que consten en su protocolo, que asiente en un documento que al efecto expida a petición de parte o autoridad facultada para hacerlo, o en un documento preexistente, también a solicitud de parte, lo que hará constar en la propia certificación sin necesidad de tomar razón en nota complementaria; y
 
@@ -1534,6 +1966,10 @@ La nulidad de un instrumento o registro Notariales sólo podrá hacerse valer po
 
 Las correcciones no salvadas en las escrituras, actas o asientos de registro, se tendrán por no hechas.
 
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Asimismo, en el caso del protocolo digital, aquello que deba ser corregido o adicionado y que no conste en la sección del instrumento electrónico correspondiente con la Firma Electrónica para la Actuación Digital Notarial del compareciente y la Firma Electrónica Notarial, se tendrá por no hecho.
+
 ###### Artículo 170.
 
 Salvo disposición en contrario, la simple protocolización acreditará la existencia del documento objeto de la misma en la fecha de su presentación ante el Notario y la de su conservación posterior. La elevación a escritura pública o la celebración ante Notario como escritura de actos meramente protocolizables tendrán el valor de prueba plena.
@@ -1548,6 +1984,8 @@ La copia cotejada tendrá el mismo valor probatorio que el documento exhibido co
 
 Cuando en un instrumento Notarial haya diferencia entre las palabras y los guarismos, prevalecerán aquéllas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 173.
 
 El instrumento o registro Notarial serán nulos solamente en los siguientes casos:
@@ -1558,13 +1996,17 @@ II. Si no le está permitido por la Ley intervenir en el acto;
 
 III. Si no le está permitido dar fe del acto o hecho materia de la escritura o del acta por haberlo hecho en contravención de los términos de la fracción II del Artículo 47;
 
-IV. Si fuere firmado por las partes o autorizado por el Notario fuera de la Ciudad de México;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+IV. Si fuese firmado por las partes o autorizado por el Notario fuera de la Ciudad de México o fuera de la Actuación Digital Notarial;
 
 V. Si ha sido redactado en idioma distinto al español;
 
 VI. Si no está firmado por todos los que deben firmarlo según esta Ley, o no contiene la mención exigida a falta de firma;
 
-VII. Si está autorizado con la firma y sello del Notario cuando debiera tener nota de “No pasó”, o cuando el instrumento no esté autorizado con la firma y sello del Notario; y
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+VII. Si está autorizado con la firma y sello del Notario o con la Firma Electrónica Notarial, según el protocolo en que se esté actuando, cuando debiera tener nota de “No pasó”, o cuando el instrumento no esté autorizado con la firma y sello del Notario o con la Firma Electrónica Notarial, según el protocolo en que se esté actuando; y
 
 > <small>(REFORMADA, G.O. 8 DE JUNIO DE 2020)</small>
 
@@ -1572,23 +2014,33 @@ VIII. Si el Notario no se aseguró de la identidad de los otorgantes en término
 
 En el caso de la fracción II de este Artículo, solamente será nulo el instrumento en lo referente al acto o hecho relativos, pero será válido respecto de los otros actos o hechos que contenga y que no estén en el mismo caso. Fuera de los casos determinados en este Artículo, el instrumento o asiento será válido. Cuando se demande la nulidad de un acto jurídico no podrá demandarse al Notario la nulidad de la escritura que lo contiene, si no existe alguno de los supuestos a que se refieren las fracciones anteriores. Sin embargo, cuando se dicte la sentencia que declare la nulidad del acto, una vez firme, el juez enviará oficio al Notario o al Archivo según se trate, para que en nota complementaria se tome razón de ello.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 174.
 
 El testimonio, copias certificadas y certificaciones serán nulos solamente en los siguientes casos:
 
 I. Cuando el original correspondiente lo sea;
 
-II. Si el Notario no se encuentra en ejercicio de sus funciones al expedir la reproducción de que se trate o la expida fuera de la Ciudad de México; y
+II. Si el Notario no se encuentra en ejercicio de sus funciones al expedir la reproducción o representación de que se trate o la expida fuera de la Ciudad de México;
 
-III. Cuando dicha reproducción no tenga la firma o sello del Notario.
+III. Cuando dicha reproducción o representación no tenga la firma o sello del Notario o Firma Electrónica Notarial, conforme a lo dispuesto en los artículos 148, 152 y 154 de la Ley;
+
+IV. Cuando al momento de expedición, el Notario no tiene vigente el Certificado Electrónico de su Firma Electrónica Notarial en términos de esta Ley, en los casos que haya optado por usarla para la reproducción o representación de que se trate.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 175.
 
-La copia certificada electrónica será nula en los dos primeros supuestos del Artículo 174 o si al momento de expedición el Notario no tiene vigente el registro de su firma electrónica Notarial en términos de esta Ley y de la Ley de Firma Electrónica para la Ciudad de México.
+La copia certificada electrónica será nula en los dos primeros supuestos del Artículo 174 o si al momento de expedición el Notario no tiene vigente el Certificado Electrónico de su Firma Electrónica Notarial en términos de esta Ley.
 
 ###### Artículo 176.
 
 Cuando se expida un testimonio por Notario, o cuando así corresponda, por el titular del Archivo, se asentará una nota complementaria que contendrá la fecha de expedición, el número de hojas de que conste el testimonio, el número ordinal, que corresponda a éste, según los Artículos 149 y 152 de esta Ley, así como para quién se expida y a qué título. Las constancias sobre los asientos de inscripción puestas por los registros públicos correspondientes al calce de los testimonios, serán relacionadas o transcritas por el Notario en una nota complementaria del instrumento. En todo caso, las notas complementarias llevarán la rúbrica o media firma del Notario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE AGOSTO DE 2021)</small>
+
+En todo caso, las notas complementarias llevarán la rúbrica o media firma del Notario o su Firma Electrónica Notarial, según el protocolo en que esté actuando.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JUNIO DE 2020)</small>
 
@@ -1606,7 +2058,7 @@ La penalidad prevista se duplicará si quien comete el delito es Notario.
 
 ### CAPÍTULO IV. DE LA COMPETENCIA PARA REALIZAR FUNCIONES NOTARIALES EN ASUNTOS EXTRAJUDICIALES Y DE LA TRAMITACIÓN SUCESORIA ANTE NOTARIO
 
-#### SECCIÓN SEGUNDA. NORMAS NOTARIALES DE TRAMITACIÓN SUCESORIA
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 178.
 
@@ -1626,7 +2078,7 @@ c) En las informaciones ad perpetuam, apeos y deslindes y demás diligencias, ex
 
 Las autorizaciones y habilitaciones especiales de sujetos a quienes falte capacidad jurídica se regirán por lo dispuesto en el Código Civil y en las demás normas correspondientes.
 
-#### SECCIÓN PRIMERA. PERMUTA DE NOTARÍAS, SUPLENCIAS Y ASOCIACIONES
+#### SECCIÓN SEGUNDA. NORMAS NOTARIALES DE TRAMITACIÓN SUCESORIA
 
 ###### Artículo 179.
 
@@ -1704,7 +2156,7 @@ En caso de testamento público simplificado, los legatarios instituidos exhibir�
 
 ### CAPITULO V. SUPLENCIA, ASOCIACIÓN, SEPARACIÓN, SUSPENSIÓN Y TERMINACIÓN DE FUNCIONES
 
-#### SECCIÓN SEGUNDA. SEPARACIÓN DE FUNCIONES
+#### SECCIÓN PRIMERA. PERMUTA DE NOTARÍAS, SUPLENCIAS Y ASOCIACIONES
 
 ###### Artículo 191.
 
@@ -1756,7 +2208,7 @@ Quienes reciban nuevas patentes deberán cambiar sus sellos e inutilizar los ant
 
 Las permutas autorizadas, los convenios de suplencia y de asociación, así como sus modificaciones y disolución se inscribirán ante las autoridades a que se refiere el Artículo 67, fracción II y ante el Colegio, se publicarán por una sola vez en la Gaceta Oficial de la Ciudad de México, con cargo a los Notarios.
 
-#### SECCIÓN TERCERA. SUSPENSIÓN Y CESACIÓN DE FUNCIONES
+#### SECCIÓN SEGUNDA. SEPARACIÓN DE FUNCIONES
 
 ###### Artículo 202.
 
@@ -1786,7 +2238,7 @@ Sin perjuicio de lo dispuesto en el Artículo anterior, salvo causa justificada,
 
 La Autoridad Competente concederá licencia, por el tiempo que dure en el ejercicio de su cargo, al Notario que resulte electo para ocupar un puesto de elección popular o designado para la judicatura o para desempeñar algún empleo, cargo o comisión públicos. El Notario formulará la solicitud correspondiente, exhibiendo constancia certificada expedida por la autoridad de que se trate, junto con el convenio de suplencia correspondiente. Si no presentare éste último, la autoridad, en un lapso no mayor de siete días hábiles y previa consulta que de estimarla conveniente haga al Colegio, procederá a designar al suplente en los términos previstos por el Artículo 194 de esta ley.
 
-#### SECCIÓN PRIMERA. DE LA VIGILANCIA
+#### SECCIÓN TERCERA. SUSPENSIÓN Y CESACIÓN DE FUNCIONES
 
 ###### Artículo 206.
 
@@ -1848,9 +2300,13 @@ En los casos a los que se refieren los Artículos 207, 208, 210 y 211, cuando la
 
 En los casos de cesación de la función Notarial, junto con la declaratoria que al efecto emita la Autoridad Competente, se procederá a iniciar el procedimiento de clausura temporal del protocolo correspondiente. Para tal efecto, la Autoridad ordenará al Notario suplente o al asociado, según el caso, la fijación de un aviso visible en la Notaría y ordenará una publicación en la Gaceta Oficial de la Ciudad de México, con cargo a los Notarios señalados.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 214.
 
-Si el Notario que cesare en funciones estuviese asociado o tuviere suplente, al que corresponda de ellos se entregará el protocolo para que concluya los asuntos en trámite, y en caso de asociación, para que continúe su ejercicio en el mismo, en los términos de esta ley. Los asociados o suplentes harán constar en el último folio utilizado por quien cesó en funciones, o en el siguiente, la cesación de funciones, la fecha y pondrán su sello y firma.
+Si el Notario que cesare en funciones estuviese asociado o tuviere suplente, al que corresponda de ellos se entregará el protocolo, para que concluya los asuntos en trámite, y en caso de asociación, para que continúe su ejercicio en el mismo, en los términos de esta ley, debiendo informar a la Autoridad Competente de los avances de los asuntos en trámite hasta la conclusión de los mismos. Los asociados o suplentes harán constar en el último folio utilizado por quien cesó en funciones, o en el siguiente, la cesación de funciones, la fecha y pondrán su sello y firma.
+
+En caso del protocolo digital, el asociado o suplente, a través de sus propias credenciales de acceso a la Red Integral Notarial, concluirá los asuntos en trámite y en caso de asociación, continuará su ejercicio en el mismo, en los términos de esta ley, debiendo informar en todo momento a la Autoridad Competente.
 
 ###### Artículo 215.
 
@@ -1860,13 +2316,21 @@ Acto seguido se procederá a la clausura temporal de su protocolo por él o los 
 
 Él o los inspectores de notarías asentarán la razón correspondiente en los términos antes prescritos.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 216.
 
-A la diligencia referida en el Artículo anterior comparecerán, en su caso, el Notario que haya cesado en sus funciones, su albacea, interventor o sus parientes y un Notario designado por el Colegio. Los presentes formarán un inventario de libros de folios, de libros de registro de cotejos, de folios sin utilizar, apéndices, índices y todos los documentos que haya tenido el cesante en su poder para el desempeño de su función, y otro de los diversos bienes que se encuentren en la Notaría. Se entregarán los bienes diversos, a quien haya cesado como Notario, a su albacea, interventor o parientes, y los libros de folios y demás objetos indispensables para el desarrollo de la función Notarial al Archivo. Un tanto de los inventarios y del acta que se levante se entregará a la Autoridad Competente, otro al Archivo, otro al Colegio, uno más al cesante o a su albacea, interventor o familiares.
+A la diligencia referida en el Artículo anterior comparecerán, en su caso, el Notario que haya cesado en sus funciones, su albacea, interventor o sus parientes, el inspector de notarías debidamente facultado y nombrado para ello y un Notario designado por el Colegio. Los presentes formarán un inventario de libros de folios, de libros de registro de cotejos, libro de extractos, de folios sin utilizar, apéndices, índices y todos los documentos que haya tenido el cesante en su poder para el desempeño de su función, y otro de los diversos bienes que se encuentren en la Notaría. Se entregarán los bienes diversos, a quien haya cesado como Notario, a su albacea, interventor o parientes, y el protocolo ordinario, libros de registro de cotejo, libro de extractos, los folios sin utilizar, apéndices, índices y todos los documentos que haya tenido el cesante en su poder para el desempeño de su función al Archivo.
+
+Asimismo, se realizará la transferencia de los índices electrónicos, Apéndices del Instrumento electrónico, Archivo Electrónico y protocolo digital a través de las plataformas que sean desarrolladas e implementadas para tal efecto por la Administración Pública que garantice la seguridad informática, trazabilidad y permanencia del Archivo Electrónico.
+
+Un tanto de los inventarios y del acta que se levante se entregará a la Autoridad Competente, otro al Archivo, otro al Colegio, uno más al cesante o a su albacea, interventor o familiares.
 
 El notario que deba actuar por el Notario que haya cesado en sus funciones, recibirá todos los elementos necesarios indicados para el ejercicio de la función y los conservará por un plazo de noventa días naturales, para el trámite solamente de los asuntos pendientes. Transcurrido dicho plazo se clausurará temporalmente el protocolo del cesante en los términos de este Artículo y se entregará al Archivo, mediante inventario.
 
 Los Notarios designados por el Colegio, los Inspectores y demás Autoridades deben guardar reserva respecto de los documentos a los que por su función o designación tuvieren acceso y quedan sujetos a las disposiciones del Código Penal sobre el secreto profesional.
+
+El Colegio cancelará las credenciales de acceso al Sistema Informático del Notario que haya cesado en sus funciones; por lo que el Notario que deba actuar por el que haya cesado funciones, lo hará a través de sus propias credenciales de acceso a la Red Integral Notarial. Dicha cancelación se hará de conocimiento a la Autoridad Competente en el término de tres días hábiles.
 
 Para los casos de cesación del ejercicio de la función notarial y en consecuencia la Revocación de Patente y Renuncia expresa por parte del Notario les son aplicables los artículos 213 al 216, misma situación se aplicará para el caso de suspensión del ejercicio de la función notarial.
 
@@ -1878,11 +2342,15 @@ La autoridad competente cancelará la fianza constituida cuando el Notario cesan
 
 El Notario que vaya a actuar en el protocolo de una Notaría que haya quedado vacante, recibirá del Archivo, por inventario, todos los documentos a que se refiere el Artículo 216, que por ley no deban permanecer en el Archivo, para continuar su utilización y trámite. De la entrega se levantará y firmará por cuadruplicado un acta y se entregará un respectivo tanto a la Autoridad Competente, al Colegio y al Notario que reciba.
 
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Para su actuación en el protocolo digital, en su caso, el Colegio proveerá de su interconexión y credenciales de acceso al Sistema Informático a través de la Red Integral Notarial.
+
 ## TÍTULO TERCERO. DEL RÉGIMEN DE RESPONSABILIDADES, DE LA VIGILANCIA Y DE LAS SANCIONES
 
 ### CAPÍTULO ÚNICO. DEL RÉGIMEN DE RESPONSABILIDAD
 
-#### SECCIÓN SEGUNDA. DE LAS RESPONSABILIDADES Y SANCIONES
+#### SECCIÓN PRIMERA. DE LA VIGILANCIA
 
 ###### Artículo 219.
 
@@ -1968,7 +2436,7 @@ El Notario podrá manifestar lo que a su derecho convenga en el acta de inspecci
 
 Cuando se trate de visitas que deban practicarse a Notarios asociados o suplentes, se observarán las mismas disposiciones señaladas en esta sección.
 
-#### SECCIÓN TERCERA. DEL PROCEDIMIENTO DE IMPOSICIÓN DE SANCIONES
+#### SECCIÓN SEGUNDA. DE LAS RESPONSABILIDADES Y SANCIONES
 
 ###### Artículo 234.
 
@@ -1977,6 +2445,26 @@ Los Notarios son responsables por los delitos o faltas que cometan en el ejercic
 Cuando se promueva algún proceso por responsabilidad en contra de un Notario, el juez admitirá como medio de prueba o prueba pericial profesional, si así se ofreciere, la opinión del Colegio, la cual será no vinculante.
 
 Cuando se inicie una averiguación previa o investigación en la que resulte indiciado o imputado un Notario como resultado del ejercicio de sus funciones, el Ministerio Público solicitará opinión no vinculante del Colegio respecto de la misma, para lo cual se le fijará un término prudente para ello, para lo cual el presidente del Colegio o el consejero que éste designe podrá imponerse de las actuaciones del caso.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 234 Bis.
+
+Los Notarios o el Colegio, según corresponda, deberán presentar denuncia al Ministerio Público cuando tengan conocimiento de:
+
+I. Cualquier persona que sin autorización altere, modifique, destruya o provoque pérdida de la información contenida en el Sistema Informático o de la Red Integral Notarial.
+
+II. Cualquier persona que, sin autorización conozca, copie o divulgue información contenida en equipos de informática cuya titularidad, depositaria o administración corresponda a los Notarios o al Colegio a través del Sistema Informático o de la Red Integral Notarial.
+
+Asimismo, presentando copia certificada de la denuncia, se dará aviso inmediato a la Autoridad Competente.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 234 Ter.
+
+En caso de actualizarse el artículo anterior se atenderá lo dispuesto por la Ley Federal de Protección de Datos Personales en Posesión de los Particulares; por lo que el Colegio, al ser el desarrollador y administrador del Sistema Informático Notarial y de la Red Informática Notarial, deberá informar al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, para que actúe en el marco de sus atribuciones.
+
+Lo anterior, deberá hacerse del conocimiento de la Autoridad Competente a los tres días hábiles posteriores a los del día en que se tenga conocimiento, acompañando copia certificada del escrito presentado ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
 
 ###### Artículo 235.
 
@@ -2000,13 +2488,17 @@ Estas sanciones se notificarán personalmente al Notario responsable y se harán
 
 Las sanciones a que se refiere el Artículo anterior serán aplicables de manera gradual, pudiendo ser acumulativas las multas con cualquiera de las previstas en las fracciones I, III y IV del Artículo anterior. Para la aplicación de sanciones la autoridad competente, al motivar su resolución, deberá tomar en cuenta las circunstancias y la gravedad del caso, los perjuicios y daños que directamente se hayan ocasionado, si los hubo, el grado de diligencia del Notario para la solución del problema, su antigüedad en el cargo, sus antecedentes profesionales y los servicios prestados por el Notario al Gobierno, la Sociedad y al Notariado. Las autoridades pedirán la opinión del Colegio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 238.
 
-Se sancionará al Notario con amonestación escrita:
+Se sancionará al Notario con amonestación escrita en los siguientes supuestos:
 
 I. Por retraso injustificado imputable al Notario en la realización de una actuación o desahogo de un trámite relacionado con un servicio solicitado y expensado por el solicitante, siempre que éste hubiere entregado toda la documentación previa que el Notario requiera;
 
-II. Por no dar avisos, no llevar los correspondientes índices de la decena de libros del protocolo, no encuadernar los libros del protocolo y sus apéndices o conservarlos en términos de ley; o no entregar oportunamente los libros del protocolo, libros de registro de cotejos, apéndices e índices al Archivo;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+II. Por no dar avisos, no efectuar la carga correcta y completa de la información en el Índice Electrónico, no encuadernar los libros del protocolo y sus apéndices o conservarlos en términos de ley, no entregar oportunamente los libros del protocolo, libros de registro de cotejos y libros de extractos al Archivo así como no efectuar en tiempo y forma la remisión y entrega del Archivo Electrónico al Colegio a través del Sistema Informático;
 
 III. Por separarse de sus funciones sin haber dado previo aviso u obtenido licencia, o por no reiniciar funciones oportunamente, en términos de la licencia, o de esta ley y sólo cuando se trate de la primera vez en que incurre en esta falta;
 
@@ -2019,6 +2511,10 @@ VI. Por no ejercer sus funciones en días y horas hábiles, y excepcionalmente e
 VII. Por no obtener en tiempo o mantener en vigor la garantía del ejercicio de sus funciones a que se refiere la fracción I del Artículo 67 de esta Ley, solo y siempre que se trate de la primera vez que el Notario comete esta falta; y
 
 VIII. Por cualquier otra falta menor que sea subsanable.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+IX. Por no tener vigente el Certificado Electrónico de su Firma Electrónica Notarial en términos de esta Ley.
 
 ###### Artículo 239.
 
@@ -2069,6 +2565,8 @@ Se entenderá como falta grave de probidad al conjunto de actos u omisiones dolo
 IV. Por permitir la suplantación de su persona, firma o sello.
 
 La resolución por la que un Notario sea cesado en sus funciones, será firmada por el Jefe de Gobierno, quien recibirá, tramitará y resolverá el recurso de inconformidad contra su propia resolución.
+
+#### SECCIÓN TERCERA. DEL PROCEDIMIENTO DE IMPOSICIÓN DE SANCIONES
 
 ###### Artículo 242.
 
@@ -2224,9 +2722,11 @@ III. Reconocer la validez del acto impugnado.
 
 DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 247.
 
-El Registro Público, el Archivo, el Colegio, el Decanato y el Registro Nacional de Avisos de Testamento, la Coordinación Especializada en Materia de Voluntad Anticipada, son instituciones que apoyan al Notariado de la Ciudad de México en beneficio de la seguridad y certeza jurídicas que impone el correcto ejercicio de la fe pública. Los notarios de la Ciudad de México podrán comunicarse oficialmente de manera ordinaria con estas instituciones a través del “Sistema Informático” haciendo uso de su firma electrónica notarial en términos de esta ley, la cual tendrá equivalencia a la firma autógrafa y al sello de autorizar del notario. El uso de la firma electrónica notarial podrá extenderse a las dependencias federales, locales, municipales y alcaldías en los casos y términos que así lo determinen las leyes correspondientes.
+El Registro Público, el Archivo, el Colegio, el Decanato y el Registro Nacional de Avisos de Testamento, la Coordinación Especializada en Materia de Voluntad Anticipada, son instituciones que apoyan al Notariado de la Ciudad de México en beneficio de la seguridad y certeza jurídicas (sic) que impone el correcto ejercicio de la fe pública. Los notarios de la Ciudad de México podrán comunicarse oficialmente de manera ordinaria con estas instituciones a través del Sistema Informático o de la Red Integral Notarial haciendo uso de su Firma Electrónica Notarial en términos de esta ley, la cual tendrá equivalencia a la firma autógrafa y al sello de autorizar del notario. Las dependencias federales, locales, municipales y alcaldías podrán, en su interacción con los notarios de la Ciudad de México, utilizar la firma electrónica en los casos y términos que así lo determinen las leyes correspondientes.
 
 ### CAPÍTULO I. DEL ARCHIVO GENERAL DE NOTARÍAS DE LA CIUDAD DE MÉXICO
 
@@ -2244,9 +2744,11 @@ III. Con los sellos de los Notarios que deban depositarse o inutilizarse, confor
 
 IV. Con los expedientes manuscritos, libros y demás documentos que conforme a esta ley deba mantener en custodia definitiva, además de contar con un respaldo en medio digital de cada uno de éstos, previendo los mecanismos de seguridad electrónicos conducentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 249.
 
-El Consejero Jurídico y de Servicios Legales designará al titular del Archivo, quien ejercerá además de las facultades previstas en otros ordenamientos jurídicos, las siguientes:
+La persona titular de la Consejería Jurídica y de Servicios Legales designará a quien esté a cargo del Archivo, quien ejercerá además de las facultades previstas en otros ordenamientos jurídicos, las siguientes:
 
 I. Celebrar, previo acuerdo del titular de la Dirección General Jurídica y de Estudios Legislativos, convenios para acrecentar, conservar y difundir el acervo documental del archivo;
 
@@ -2282,6 +2784,10 @@ XVI. Dictaminar y calificar las solicitudes presentadas por los particulares, pa
 
 XVII. Realizar anotaciones marginales de acuerdo a la función Notarial, prevista en esta ley;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+XVII bis. Asentar las notas complementarias de acuerdo a la función Notarial, prevista en esta ley;
+
 XVIII. Registrar las patentes de aspirante y de Notario, así como los convenios de asociación y de suplencia celebrados entre los Notarios;
 
 XIX. Recibir las inspecciones judiciales, fiscales, ministeriales o de autoridad competente, cuando la Ley así lo permita;
@@ -2312,11 +2818,13 @@ III. Si a la fecha de la consulta o de la petición de que se trate, la antigüe
 
 Para su reproducción, se requerirá la autorización del Consejero Jurídico y de Servicios Legales o del Director General Jurídico y de Estudios Legislativos, a través de los acuerdos o convenios respectivos. Esta reproducción sólo se llevará a cabo para fines científicos, docentes y culturales mediante tecnología que garantice el cuidado y la preservación de dichos documentos y a través de instituciones gubernamentales o de Derecho privado, o particulares, peritos en el cuidado extremo de los mismos y en la aplicación de dicha tecnología, con la participación y supervisión de un historiador designado por el Archivo; para esta reproducción se pagarán los derechos señalados en el Código Fiscal de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 252.
 
-El titular y los demás empleados del Archivo tendrán la obligación de guardar secreto de la información y trámites relacionados con la documentación que obre en el mismo.
+Toda persona que desempeñe un empleo, cargo o comisión el Archivo, tendrá la obligación de guardar secreto de la información y trámites relacionados con la documentación que obre en el mismo.
 
-El incumplimiento de dicho secreto será sancionado administrativamente en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos y penalmente conforme lo prevengan las disposiciones penales aplicables.
+El incumplimiento de dicho secreto será sancionado en términos de la Ley de Responsabilidades Administrativas de la Ciudad de México y conforme lo prevengan las disposiciones penales aplicables.
 
 Para los términos de los trámites del Archivo General de Notarías, le será aplicable lo previsto en el artículo 242 de esta Ley.
 
@@ -2368,6 +2876,12 @@ Cuando el documento de que se trate, contenga firma ostensiblemente diferente a 
 
 Con independencia de lo anterior, si el interesado consulta al Colegio acerca de la posibilidad de regularizar dichas anomalías, éste, bajo su más estricta responsabilidad, coadyuvará con él, ante la instancia competente.
 
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 258 bis. El Archivo administrará y establecerá los lineamientos para el Registro de Notarios Sancionados en la Ciudad de México.
+
+Dicho Registro será publicado en la página oficial de la Consejería Jurídica y de Servicios Legales y del Colegio.
+
 ### CAPÍTULO II. DEL COLEGIO DE NOTARIOS DE LA CIUDAD DE MÉXICO
 
 ###### Artículo 259.
@@ -2404,9 +2918,13 @@ XI. Intervenir en la preparación y desarrollo de exámenes de aspirante y de No
 
 XII. Organizar y llevar a cabo cursos, conferencias y seminarios, así como hacer publicaciones, sostener bibliotecas y proporcionar al público en general y a sus agremiados, medios para el desarrollo de la carrera Notarial y para el mejor desempeño de la función Notarial;
 
-XIII. Proveer a los Notarios de los folios que integren su respectivo protocolo. Para cumplir dicha responsabilidad el Colegio elegirá la calidad del papel, medios de seguridad e indelebilidad del mismo, y las condiciones con las cuales reciba los folios encargados de quien los produzca, procurando que sean las más adecuadas para el instrumento Notarial, informando de ello a la autoridad competente;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-XIV. Tomar las medidas que estime necesarias en el manejo de los protocolos de los notarios, para garantizar su adecuada conservación y la autenticidad de los instrumentos, registros, apéndices y demás elementos que los integren, coadyuvando en el adecuado manejo del Archivo Electrónico, Índice Electrónico y Apéndice Electrónico de Cotejos, a través del Sistema Informático, informando de ello a la Autoridad Competente;
+XIII. Proveer a los Notarios de los folios que integren su respectivo protocolo ordinario así como los elementos de seguridad de los testimonios, copias certificadas y certificaciones. Para cumplir dicha responsabilidad el Colegio elegirá la calidad del papel, medidas de seguridad e indelebilidad del mismo, y las condiciones con las cuales reciba los folios encargados de quien los produzca, procurando que sean las más adecuadas para el instrumento Notarial, informando de ello a la autoridad competente;
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XIV. Tomar las medidas que estime necesarias en el manejo de los protocolos de los notarios, para garantizar su adecuada conservación y la autenticidad de los instrumentos, registros, apéndices y demás elementos que los integren, coadyuvando en el adecuado manejo de la confidencialidad, integridad y disponibilidad de los instrumentos electrónicos y del protocolo digital, así como del Archivo Electrónico, Índice Electrónico y Apéndice Electrónico de Cotejos, a través del Sistema Informático, informando de ello a la Autoridad Competente;
 
 XV. Colaborar y ser órgano auxiliar con posibilidad de participar en visitas a las instituciones relacionadas con la dación de fe pública;
 
@@ -2418,7 +2936,9 @@ XVIII. Otorgar la fianza que en términos del Artículo 67 de esta ley deben ofr
 
 XIX. Proponer, para la aprobación de la Autoridad Competente, el arancel de Notarios en términos de esta ley y sus actualizaciones;
 
-XX. Determinar las cuotas ordinarias y extraordinarias que deban pagar los Notarios para la constitución, mantenimiento e incremento del fondo de garantía que cubre la responsabilidad por el ejercicio de la función Notarial, y para cubrir los gastos de administración y funcionamiento del propio Colegio;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XX. Determinar las cuotas ordinarias y extraordinarias que deban pagar los Notarios para la constitución, mantenimiento e incremento del fondo de garantía que cubre la responsabilidad por el ejercicio de la función Notarial, del fondo de desarrollo tecnológico para el constante mejoramiento del Sistema Informático, y para cubrir los gastos de administración y funcionamiento del propio Colegio;
 
 XXI. Establecer y administrar fondos de previsión, de ayuda y de ahorro entre sus agremiados;
 
@@ -2448,25 +2968,47 @@ XXXIII. Recibir los avisos, realizar internamente los registros y desempeñar la
 
 XXXIV. Celebrar contratos de prestación de servicios exclusivamente con sus miembros, en materia de proveeduría, de certificación, de avisos o de almacenamiento físico o digital de información, sin que éste último caso constituya violación o infracción alguna al deber de confidencialidad que con motivo de sus funciones tengan las partes y quedando obligado el propio Colegio a observar el mismo deber de confidencialidad respecto de la información que reciba; o de cualquier otra materia que resulte pertinente o conveniente a juicio del propio Colegio en beneficio de la función notarial;
 
-XXXV. Promover entre sus agremiados el uso de las nuevas tecnologías en materia informática, especialmente, la utilización de la firma electrónica Notarial;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XXXV. Promover entre sus agremiados el uso de las nuevas tecnologías en materia informática y el fomento de la Actuación Digital Notarial;
 
 XXXVI. Actuar como prestador de servicios de certificación. El Colegio podrá ejercer esta facultad por sí o a través de su participación en otra persona moral legalmente facultada para prestar los servicios o mediante la celebración de contratos con otros prestadores de los mismos;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+XXXVI bis. Registrar el Certificado Electrónico de la Firma Electrónica Notarial y el Certificado Electrónico de la Firma Electrónica para la Actuación Digital Notarial a que se refieren las fracciones XXI y XXI bis, respectivamente, del artículo 2 de esta Ley y emitir, de conformidad con lo establecido en el Reglamento, las Reglas de Uso del Sistema Informático las cuales incluirán los criterios técnicos establecidos por la Autoridad Competente.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
 XXXVII. Expedir a los Notarios el certificado de firma electrónica Notarial, en los términos del Artículo 67 fracción VI de esta Ley; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 4 DE AGOSTO DE 2021)</small>
 
 XXXVIII. Actuar como Entidad Colegiada para los efectos de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 261.
 
-La Asamblea de Notarios será el órgano supremo de decisiones fundamentales del Colegio; a ella se le atribuye acordar, ratificar o rectificar lo que corresponda para la marcha y desarrollo del Colegio; en ella todos los Notarios tendrán voz y voto, de acuerdo con sus estatutos.
+La Asamblea de Notarios será el órgano supremo de decisiones fundamentales del Colegio; a ella se le atribuye acordar, ratificar o rectificar lo que corresponda para la marcha y desarrollo del Colegio; en ella todos los Notarios tendrán voz y voto, de acuerdo con sus estatutos. Serán válidas las formas de votación presenciales o por teleconferencia o mediante el uso de cualquier otra tecnología.
 
-Para que se considere legalmente reunida y válidas sus decisiones, tratándose de enajenación de bienes inmuebles, deberá estar presente el sesenta por ciento de sus asociados. Las convocatorias para las asambleas deberán hacerse por acuerdo del consejo, mediante circular dirigida al domicilio de cada notaría, o una sola publicación en un diario de los de mayor circulación en la Ciudad de México; en ella se contendrán el orden del día y el lugar y la hora de su realización.
+Para que se considere legalmente reunida y válidas sus decisiones, tratándose de enajenación de bienes inmuebles, deberá estar presente el sesenta por ciento de sus asociados. Las convocatorias para las asambleas deberán hacerse por acuerdo del consejo, mediante circular dirigida al domicilio de cada notaría, o una sola publicación en un diario de los de mayor circulación en la Ciudad de México; en ella se contendrán el orden del día y el lugar y la hora de su realización. Los bienes del archivo histórico del Colegio son inalienables.
 
-Los bienes del archivo histórico del Colegio son inalienables.
+Sujetándose en lo conducente a las reglas anteriores, las asambleas podrán realizarse también por teleconferencia, a través de cualquier medio electrónico que permita la comunicación en tiempo real. En este caso la teleconferencia podrá grabarse y los notarios podrán firmar la lista de asistencia con su Firma Electrónica Avanzada.
+
+De las asambleas se levantará un acta en documento físico o electrónico y serán firmadas con firma autógrafa o Firma Electrónica Avanzada al menos por quienes hayan actuado como Presidente y Secretario.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 262.
 
 El Consejo del Colegio de Notarios de la Ciudad de México será el órgano permanente de administración ordinaria y representación del Colegio para ejercer en su nombre las facultades que esta ley otorga al Colegio, salvo las que expresamente reserve a la Asamblea del Colegio; tendrá la firma social por el número par de integrantes que elija la Asamblea, la mitad de ellos en los años nones y la otra en los pares y se regirá por sus estatutos. Los consejeros ejercerán su cargo por dos años y no podrán ser reelectos para el periodo inmediato siguiente.
+
+Las sesiones del Consejo podrán realizarse de forma presencial o por teleconferencia, a través de cualquier medio electrónico que permita la comunicación en tiempo real. En este caso la teleconferencia podrá grabarse y los consejeros podrán firmar la lista de asistencia con su Firma Electrónica Avanzada.
+
+De las juntas o reuniones se levantará un acta en documento físico o electrónico y serán firmadas con firma autógrafa o electrónica avanzada al menos por quienes hayan actuado como Presidente y Secretario.
+
+Las resoluciones tomadas fuera de estas juntas o reuniones serán válidas siempre que se confirmen por escrito en documento físico o electrónico, con la firma autógrafa o electrónica avanzada de la totalidad de los consejeros.
 
 ###### Artículo 263.
 
@@ -2484,11 +3026,15 @@ III. Asumir el carácter de Notario visitador y coadyuvante de los Inspectores d
 
 IV. Cumplir con las guardias, la consultoría gratuita y demás actividades Notariales tendientes al beneficio de la población de la Ciudad de México que organice y convenga el Colegio y les asignen sus órganos o sus comisiones;
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 4 DE AGOSTO DE 2021)</small>
+
 V. Pagar las siguientes cuotas que fije la Asamblea del Colegio:
 
 a) Las cuotas para constituir, mantener e incrementar el fondo de garantía de la responsabilidad por el ejercicio de la función Notarial previsto por esta Ley, salvo que el Colegio no conceda la fianza, en cuyo caso la obligación del Notario cesará en cuanto a este concepto;
 
-b) Las cuotas ordinarias para cubrir los gastos de administración y funcionamiento del propio Colegio; y
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+b) Las cuotas ordinarias para cubrir los gastos de administración y funcionamiento del propio Colegio dentro de las cuales se consideran los cargos realizados a los Notarios en la utilización cotidiana de la Red Integral Notarial y que servirán para constituir, mantener e incrementar el fondo de desarrollo tecnológico; y
 
 c) Las cuotas extraordinarias para cubrir los gastos por la realización de actividades gremiales y demás erogaciones previstas en el presupuesto anual de gastos. Las cuotas pagadas por los Notarios no son recuperables.
 
@@ -2518,9 +3064,15 @@ Estas visitas se regirán en lo conducente, por los Artículos 219 al 233 de est
 
 El Decanato del Notariado de la Ciudad de México se forma por el grupo de Expresidentes del Colegio de Notarios, estén o no en funciones.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 268.
 
 El Decanato se podrá reunir en todo tiempo sin necesidad de convocatoria formal previa, bastará que estén reunidos la mayoría de sus miembros para que pueda funcionar válidamente y sus resoluciones se tomarán por la mayoría de votos de los presentes. Para el quórum de reuniones sujetas a convocatoria, es necesaria la mayoría simple.
+
+Las reuniones podrán realizarse también por teleconferencia, a través de cualquier medio electrónico que permita la comunicación en tiempo real. En este caso la teleconferencia podrá grabarse y los miembros del Decanato podrán firmar la lista de asistencia con su Firma Electrónica Avanzada.
+
+De las asambleas se levantará un acta en documento físico o electrónico y serán firmadas con firma autógrafa o Firma Electrónica Avanzada al menos por quienes hayan actuado como Presidente y Secretario.
 
 ###### Artículo 269.
 
@@ -2653,3 +3205,19 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Para la implementación del programa de digitalización del acervo del Archivo, la Autoridad Competente establecerá un calendario a fin de que a más tardar en enero de 2024 se cuente con el documento electrónico que funja como respaldo de la totalidad de los documentos que resguarda el Archivo.
+
+G.O. 4 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 1392 BIS, 1520 BIS, 1520 TER; Y SE REFORMAN LOS ARTÍCULOS 1520, 1805, 1811, 1834, 2675, 2677 Y 2713 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL Y SE ADICIONAN FRACCIONES I BIS, II BIS, VIII BIS, XXI BIS, XXIII BIS, XXVIII BIS AL ARTÍCULO 2, SE ADICIONA EL ARTÍCULO 7 BIS, UN PÁRRAFO AL ARTÍCULO 32, UNA FRACCIÓN AL ARTÍCULO 36, LOS ARTÍCULOS 76 BIS, 76 TER, 76 QUÁTER, 76 QUINQUIES, 84 BIS, 100 BIS AL 100 VICIES, UN PÁRRAFO AL ARTÍCULO 109, 114 BIS, UN PÁRRAFO AL ARTÍCULO 139, UN PÁRRAFO AL 146, UN PÁRRAFO AL ARTÍCULO 169, UN PÁRRAFO AL ARTÍCULO 218, LOS ARTÍCULOS 234 BIS, 234 TER Y 258 BIS. Y SE REFORMAN LOS ARTÍCULOS 2, 4, 5, 7, 35, 56, 67, 76, 77, 78, 79, 80, 82, 84, 92, 95, 96, 97, 98, 99, 100, 101, 102, 103, 105, 106, 110, 111, 112, 113, 115, 117, 118, 119, 123, 128, 131, 138, 148, 151, 154, 157, 158, 160, 166, 173, 174, 175, 176, 214, 216, 238, 247, 249, 252, 260, 261, 262, 264 Y 268 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación, con excepción de lo dispuesto en el Transitorio Tercero.
+
+TERCERO.- TERCERO (SIC).- Las disposiciones que se reforman y adicionan relacionadas con la Actuación Digital Notarial y conceptos correlativos tales como Protocolo Digital, Instrumento Electrónico, Apéndice del Instrumento Electrónico, Libro de Extractos, Firma Electrónica para la Actuación Digital Notarial y cualquier otro análogo o relacionado con dicha actuación contenidas en los artículos 1520 y el último párrafo del artículo 1834 del Código Civil para el Distrito Federal en lo relativo al protocolo digital, así como en los artículos 2°, 7°, 7 bis, 35, 76, 76 bis, 79, 80, 84, 96, 100 bis al 100 vicies, 101, 102, 103, 105, 109, 114 bis, 115, 117, 118, 119, 128, 131, 139, 146, 169, 173, 174, 176, 214, 216, 218 y 260 en sus fracciones XIV, XXXV y XXXVI bis, de la Ley del Notariado para la Ciudad de México entraran en vigor a los dos años a partir de la fecha de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO.- La Agencia Digital de Innovación Pública contará con un plazo de hasta dos años, contados a partir de la publicación de la presente Ley, a efecto de realizar las adecuaciones técnicas para el desarrollo de las herramientas tecnológicas previstas en la presente Ley.
+
+QUINTO.- Una vez habilitada la Estrategia de Firma Electrónica de la Ciudad de México el Colegio de Notarios de la Ciudad de México incorporará su utilización en el Sistema Informático prefiriéndolo frente a otros certificados digitales.
+
+SEXTO.- En un término de 180 días hábiles, la persona titular de la Jefatura de Gobierno deberá armonizar los Reglamentos relacionados con la entrada en vigor del presente Decreto.
