@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2021-06-07"
+last_updated: "2021-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2021.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1420,15 +1420,37 @@ Al que infiera a otro lesiones en riña, se le impondrá la mitad de las penas q
 
 Cuando las lesiones sean calificadas, la pena correspondiente a las lesiones simples se incrementará en dos terceras partes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 135.
 
-Se perseguirán por querella las lesiones simples que no pongan en peligro la vida y tarden en sanar menos de quince días, así como las lesiones culposas, cualquiera que sea su naturaleza, salvo que sean con motivo de tránsito de vehículos, en los siguientes casos:
+Se perseguirán por querella las lesiones culposas, cualquiera que sea su naturaleza, salvo que sean con motivo de tránsito de vehículos en los casos en que el conductor:
 
-I. Que el conductor hubiese realizado la acción u omisión en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que produzca efectos similares;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-II. Que el conductor haya abandonado a la víctima, o
+I. Hubiese realizado la conducta en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicas o de cualquier otra sustancia que produzca efectos similares;
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+II. No auxilie a la víctima o se dé a la fuga;
 
 III. (DEROGADA, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+IV. Utilice indebidamente la vía ciclista o un carril confinado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+V. Evada un punto de revisión de autoridad competente, previamente autorizado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+VI. Atendiendo la vía en la que circule, supere en una mitad la velocidad máxima permitida por el Reglamento de Tránsito de la Ciudad de México; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+VII. Produzca la conducta como consecuencia de manipular el teléfono celular o cualquier dispositivo de comunicación.
 
 ### CAPÍTULO III. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
@@ -1470,7 +1492,9 @@ III. Existe alevosía: Cuando el agente realiza el hecho sorprendiendo intencion
 
 IV. Existe retribución: Cuando el agente lo cometa por pago o prestación prometida o dada;
 
-V. Por los medios empleados: Se causen por inundación, incendio, minas, bombas o explosivos, o bien por envenenamiento, asfixia, tormento o por medio de cualquier otra sustancia nociva para la salud;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+V. Por los medios empleados: Se causen por inundación, incendio, minas, bombas o explosivos, o bien por envenenamiento, asfixia, tormento, por disparo de arma de fuego, o por medio de cualquier otra sustancia nociva para la salud;
 
 > <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -1490,29 +1514,47 @@ ARTÍCULO 138 BIS. Cuando la víctima sea integrante de alguna institución de s
 
 No se impondrá pena alguna a quien por culpa ocasione lesiones u homicidio en agravio de un ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, concubina, concubinario o cuando entre el agente y el pasivo exista relación de pareja permanente, amistad o de familia, salvo que el agente se encuentre bajo el efecto de bebidas embriagantes, de estupefacientes o psicotrópicos, sin que medie prescripción médica, o bien que se diere a la fuga y no auxiliare a la víctima.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 140.
 
-Cuando el homicidio o las lesiones se cometan culposamente con motivo del tránsito de vehículos, se impondrá la mitad de las penas previstas en los artículos 123 y 130 respectivamente, en los siguientes casos:
+Cuando el homicidio o las lesiones se cometan culposamente con motivo del tránsito de vehículos, se impondrán dos terceras partes de las penas previstas en los artículos 123 y 130 respectivamente, en los siguientes casos:
 
 I. (DEROGADA, G.O. 13 DE SEPTIEMBRE DE 2004)
 
 II. (DEROGADA, G.O. 13 DE SEPTIEMBRE DE 2004)
 
-III. El agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras substancias que produzcan efectos similares; o
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-IV. No auxilie a la víctima del delito o se dé a la fuga.
+III. Hubiese realizado la conducta en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos o de cualquiera otra sustancia que produzcan efectos similares;
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+IV. No auxilie a la víctima o se dé a la fuga.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+V. Utilice indebidamente la vía ciclista o un carril confinado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+VI. Atendiendo la vía en que circule, supere en una mitad la velocidad máxima permitida por el Reglamento de Tránsito de la Ciudad de México; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+VII. Produzca la conducta como consecuencia de manipular el teléfono celular o cualquier dispositivo de comunicación.
 
 Cuando se ocasionen lesiones de las previstas en las fracciones VI y VII del artículo 130 de este Código cometidas culposamente y se trate de vehículos de pasajeros, carga, servicio público o servicio al público o de transporte escolar, o servicio de transporte de personal de alguna institución o empresa, y el agente conduzca en estado de alteración voluntaria de la conciencia a que se refiere la fracción VII del artículo 138 de este Código, la pena aplicable será de dos años seis meses a ocho años de prisión.
 
 Además, se impondrá suspensión de los derechos en cuyo ejercicio hubiese cometido el delito, por un lapso igual al de la pena de prisión que se le imponga; o si es servidor público, inhabilitación por el mismo lapso para obtener otro empleo, cargo o comisión de la misma naturaleza.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 141.
 
-Cuando por culpa se cause homicidio de dos o más personas, en las circunstancias previstas en el artículo anterior, las penas serán de seis a veinte años de prisión y suspensión de los derechos en cuyo ejercicio hubiese cometido el delito por un periodo igual al de la pena de prisión impuesta; o si es servidor público, destitución e inhabilitación por igual período para obtener empleo, cargo o comisión de la misma naturaleza.
+Cuando por culpa se cause homicidio de dos o más personas, u ocurran dos o más de las circunstancias previstas en el artículo anterior, las penas serán de seis a veinte años de prisión y suspensión de los derechos en cuyo ejercicio hubiese cometido el delito por un periodo igual al de la pena de prisión impuesta; o si es servidor público, destitución e inhabilitación por igual período para obtener empleo, cargo o comisión de la misma naturaleza.
 
-Cuando por culpa se causen a dos o más personas, lesiones de las previstas en las fracciones V, VI ó VII del artículo 130 de este Código, las sanciones correspondientes se incrementarán en tres cuartas partes; adicionalmente, se impondrá suspensión de los derechos en cuyo ejercicio hubiese cometido el delito y en el caso de servidores públicos destitución e inhabilitación para obtener empleo, cargo o comisión de la misma naturaleza, por un periodo igual al de la pena de prisión impuesta.
+Cuando por culpa se causen lesiones a dos o más personas, u ocurran dos o más de las circunstancias contempladas en el artículo anterior, y siempre que se trate de lesiones de las previstas en las fracciones V, VI ó VII del artículo 130 de este Código, se impondrá la pena de prisión de dicho artículo; adicionalmente, se impondrá suspensión de los derechos en cuyo ejercicio hubiese cometido el delito y en el caso de servidores públicos destitución e inhabilitación para obtener empleo, cargo o comisión de la misma naturaleza, por un periodo igual al de la pena de prisión impuesta.
 
 ### CAPÍTULO V. ABORTO
 
@@ -2730,7 +2772,7 @@ Los delitos previstos en este Capítulo, se perseguirán por querella.
 
 ### CAPÍTULO VI. EXTORSIÓN
 
-> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 213.
 
@@ -2748,7 +2790,7 @@ Cuando el agente sea servidor público, se le impondrá, además, destitución e
 
 ### CAPÍTULO VII. DESPOJO
 
-> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 214.
 
@@ -3088,17 +3130,33 @@ Al que se coloque en estado de insolvencia, con el objeto de eludir las obligaci
 
 ###### Artículo 236.
 
-Al que obligue a otro a dar, hacer, dejar de hacer o tolerar algo, obteniendo un lucro para sí o para otro causando a alguien un perjuicio patrimonial, se le impondrán de cinco a diez años de prisión y de mil a dos mil unidades de medida y actualización.
+Al que obligue a otro a dar, hacer, dejar de hacer o tolerar algo, obteniendo un lucro para sí o para otro causando a alguien un perjuicio patrimonial, se le impondrán de diez a quince años de prisión y de dos mil a tres mil unidades de medida y actualización.
 
 (NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS III Y IV, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 97/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE AGOSTO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO IMPUGNADO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
+> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2019)</small>
+
 Cuando el delito se cometa en contra de persona mayor de sesenta años de edad, las penas se incrementarán en un tercio. Las penas se aumentarán al doble cuando el delito se realice por servidor público miembro o ex-miembro de alguna corporación de seguridad ciudadana de cualquier nivel de gobierno. Se impondrán además al servidor o ex-servidor público, o al miembro o ex miembro de corporación de seguridad ciudadana o privada, la destitución del empleo, cargo o comisión público, y se le inhabilitará de cinco a diez años para desempeñar cargos o comisión públicos; TAMBIÉN SE LE SUSPENDERÁ EL DERECHO PARA EJERCER ACTIVIDADES EN CORPORACIONES DE SEGURIDAD PRIVADA.
 
-Además de las penas señaladas en el primer párrafo del presente artículo se impondrá de tres a ocho años de prisión, cuando en la comisión del delito:
+(NOTA: EL 10 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 5 DE AGOSTO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO IMPUGNADO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-I. Intervenga una o más personas armadas, o portando instrumentos peligrosos; o
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE AGOSTO DE 2021)</small>
 
-II. Se emplee violencia física.
+Las penas se aumentarán al doble cuando el delito se realice por servidor público o miembro o ex miembro de alguna corporación de seguridad pública o privada. Se impondrán además al servidor o ex servidor público, o al miembro o ex miembro de corporación de seguridad pública o privada, la destitución del empleo, cargo o comisión público, y se le inhabilitará por el mismo tiempo que la pena de prisión impuesta para desempeñar cargos o comisión públicos; TAMBIÉN SE LE SUSPENDERÁ EL DERECHO PARA EJERCER ACTIVIDADES EN CORPORACIONES DE SEGURIDAD PRIVADA.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE AGOSTO DE 2021)</small>
+
+Además de las penas señaladas en el primer párrafo del presente artículo, se aumentará de cuatro a ocho años de prisión, cuando en la comisión del delito:
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+I. Intervenga una o más personas armadas, o portando instrumentos peligrosos;
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+II. Se emplee violencia física; o
+
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2019)</small>
 
 III. Se emplee cualquier mecanismo o amenaza, para hacer creer a la víctima, la supuesta intervención en el delito de algún grupo vinculado a la delincuencia organizada o asociación delictuosa sin ser ello cierto, aún y cuando ello sea solo para lograr que la víctima no denuncie el hecho.
 
@@ -3110,13 +3168,21 @@ Asimismo, las penas se incrementarán en una mitad cuando se utilice como medio 
 
 ###### ARTÍCULO 237.
 
-Se impondrán de dos a cinco años de prisión y de cien a quinientas unidades de medida y actualización:
+Se impondrán de cinco a diez años de prisión y de cien a quinientas unidades de medida y actualización:
+
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2019)</small>
 
 I. Al que de propia autoridad, por medio de violencia física o moral, el engaño o furtivamente, ocupe un inmueble ajeno, haga uso de él o de un derecho real que no le pertenezca;
 
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2019)</small>
+
 II. Al que de propia autoridad y haciendo uso de cualquiera de los medios indicados en la fracción anterior o furtivamente, ocupe un inmueble de su propiedad, en los casos en que la ley no lo permite por hallarse en posesión de otra persona o ejerza actos de dominio que lesionen derechos legítimos del ocupante; o
 
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2019)</small>
+
 III. Al que en los términos de las fracciones anteriores, cometa despojo de aguas.
+
+> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2019)</small>
 
 El delito se sancionará sin importar si el derecho a la posesión de la cosa usurpada sea dudosa o esté en disputa.
 
@@ -3324,9 +3390,29 @@ Se entiende que hay pandilla, cuando el delito se comete en común por tres o m�
 
 Cuando el miembro de la pandilla sea o haya sido servidor público de alguna corporación policíaca, se aumentará en dos terceras partes de las penas que le corresponda por el o los delitos cometidos y se impondrá además, destitución del empleo, cargo o comisión e inhabilitación de uno a cinco años para desempeñar otro.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 253.
 
-Se impondrán prisión de cuatro a ocho años y de cien a mil días multa al que forme parte de una asociación o banda de tres o más personas con el propósito de delinquir.
+Se impondrá prisión de cuatro a ocho años y de cien a mil unidades de medida y actualización al que forme parte de una asociación o banda de tres o más personas con el propósito de delinquir.
+
+Se impondrá de ocho a doce años y de quinientos a cinco mil unidades de medida y actualización cuando los integrantes de la asociación o de la banda que cometan alguno o varios de los delitos siguientes:
+
+I. Homicidio previsto en el artículo 128;
+
+II. Feminicidio previsto en el artículo 148 bis;
+
+III. Extorsión previsto en el artículo 236;
+
+IV. Desaparición forzada de personas previsto en los artículos 27, 28, 34 y 37 de la Ley General en Materia de Desaparición forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas Desaparecidas;
+
+V. Robo previsto en el artículo 224 inciso B), C) y D);
+
+VI. Operaciones con recursos de procedencia ilícita previsto en el artículo 250;
+
+VII. Narcomenudeo previsto en los artículos 475 y 476 de la Ley General de Salud;
+
+Cuando el miembro de la asociación o de la banda sea o haya sido servidor público, miembro de alguna corporación policíaca, de procuración e impartición de justicia, del sistema penitenciario o de las Fuerzas Armadas, la pena a que se refiere el párrafo anterior se aumentará en dos terceras partes y, en su caso, se le impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación por el mismo tiempo de la pena de prisión impuesta.
 
 ###### ARTÍCULO 254.
 
@@ -6161,3 +6247,13 @@ Primero. El presente decreto entrará en vigor, al día siguiente de su publicac
 Segundo. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 Tercero. Remítase a la Jefa de Gobierno para sus efectos legales correspondientes.
+
+G.O. 4 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE REFORMAN LOS ARTÍCULOS 135, 138, 140, 141, 236, 237 Y 253 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+Primero. Remítase a la Jefa de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México
+
+Segundo. El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente decreto
