@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-movilidad-de-la-ciudad-de-mexico-antes-ley-de-101763"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-14"
-last_updated: "2020-09-29"
+last_updated: "2021-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101763&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-07-08"
 
 LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE AGOSTO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de julio de 2014.
 
@@ -150,6 +150,10 @@ La autoridad que emita una resolución general deberá publicarla en la Gaceta O
 
 La movilidad es el derecho de toda persona y de la colectividad a realizar el efectivo desplazamiento de individuos y bienes para acceder mediante los diferentes modos de transporte reconocidos en la Ley, a un sistema de movilidad que se ajuste a la jerarquía y principios que se establecen en este ordenamiento, para satisfacer sus necesidades y pleno desarrollo. En todo caso el objeto de la movilidad será la persona.
 
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Los grupos de atención prioritaria tendrán derecho a la movilidad y a un transporte de calidad, seguro y eficiente; se privilegiará su situación de vulnerabilidad y riesgo, así como la protección de su integridad física y la prevención y erradicación de todo tipo de violencia, discriminación, acoso y exclusión.
+
 ###### Artículo 6.
 
 La Administración Pública proporcionará los medios necesarios para que las personas puedan elegir libremente la forma de trasladarse a fin de acceder a los bienes, servicios y oportunidades que ofrece la Ciudad. Para el establecimiento de la política pública en la materia se considerará el nivel de vulnerabilidad de los usuarios, las externalidades que genera cada modo de transporte y su contribución a la productividad. Se otorgará prioridad en la utilización del espacio vial y se valorará la distribución de recursos presupuestales de acuerdo a la siguiente jerarquía de movilidad:
@@ -160,7 +164,9 @@ I. Peatones, prioritariamente personas con discapacidad y personas con movilidad
 
 II. Ciclistas;
 
-III. Usuarios del servicio de transporte público de pasajeros;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+III. Personas usuarias del servicio de transporte público de pasajeros;
 
 IV. Prestadores del servicio de transporte público de pasajeros;
 
@@ -212,7 +218,9 @@ II. Alcaldía: Los órganos políticos administrativos en cada una de las demarc
 
 III. Área de transferencia para el transporte: Espacios destinados a la conexión entre los diversos modos de transporte que permiten un adecuado funcionamiento del tránsito peatonal y vehicular;
 
-IV. Auditoría de movilidad y seguridad vial: Procedimiento sistemático en el que se comprueban las condiciones de seguridad y diseño universal de un proyecto de vialidad nueva, existente o de cualquier proyecto que pueda afectar a la vía o a los usuarios, con objeto de garantizar desde la primera fase de planeamiento, que se diseñen con los criterios óptimos para todos sus usuarios y verificando que se mantengan dichos criterios durante las fases de proyecto, construcción y puesta en operación de la misma;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+IV. Auditoría de movilidad y seguridad vial: Procedimiento sistemático en el que se comprueban las condiciones de seguridad y diseño universal de un proyecto de vialidad existente o nuevo que pueda afectar a las personas usuarias de las vías, del acceso al transporte público y del entorno de movilidad peatonal, con objeto de garantizar desde la primera fase de planeación, que se diseñen con los criterios óptimos para todas las personas y verificando que se mantengan dichos criterios durante las fases de proyecto, construcción y puesta en operación de la misma;
 
 V. Autorregulación: Esquema voluntario que le permite a las empresas llevar a cabo la verificación técnica de los vehículos de carga, previa autorización de la autoridad competente para el cumplimiento de la normatividad vigente;
 
@@ -274,6 +282,10 @@ XXVII. Dictamen: Resultado de la evaluación técnico-jurídica emitida por la a
 
 XXVIII. Diseño universal: Diseño de productos, entornos, programas y servicios que pueda (sic) utilizar todas las personas en la mayor medida posible sin necesidad de adaptación ni diseño especializado, dicho diseño no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesite. Esta condición será esencial para el diseño de las vialidades y los servicios de transporte público con el fin de permitir su fácil uso y aprovechamiento por parte de las personas, independientemente de sus condiciones;
 
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XXVIII Bis. Educación vial: Conjunto de principios, valores, conductas y prácticas que contribuyen a la formación y conocimiento integral de una cultura de la movilidad por parte de peatones, usuarios, ciclistas, conductores y autoridades para garantizar la vida, la integridad física, la seguridad, la responsabilidad, el buen comportamiento y la observancia de los derechos humanos.
+
 XXIX. Elementos incorporados a la vialidad: Conjunto de objetos adicionados a la vialidad que no forman parte intrínseca de la misma;
 
 XXX. Elementos inherentes a la vialidad: Conjunto de objetos que forman parte intrínseca de la vialidad;
@@ -310,7 +322,15 @@ XLIV. Infraestructura: Conjunto de elementos con que cuenta la vialidad que tien
 
 XLV. Infraestructura para la movilidad: Infraestructura especial que permite el desplazamiento de personas y bienes, así como el funcionamiento de los sistemas de transporte público;
 
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XLV Bis. Ingresos no tarifarios: Aquellos relativos al Sistema Integrado de Transporte Público, que se originan por el cobro de bienes y servicios complementarios a los de transporte y que pueden ser incluidos en los ingresos que se integran en la cámara de compensación;
+
 XLVI. Instituto: Instituto de Verificación Administrativa del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XLVI Bis. Institución de Seguros: Sociedad anónima autorizada para organizarse y operar conforme a la Ley de Instituciones de Seguros y Fianzas, reconocida por la Comisión Nacional de Seguros y Fianzas, en los términos y para los efectos previstos en la legislación aplicable en la materia, siendo su objeto la realización de operaciones en los términos de dicha Ley;
 
 XLVII. Itinerario: Recorrido o trayecto determinado que realizan las unidades de transporte público de pasajeros;
 
@@ -382,7 +402,15 @@ LXIII. Personas con movilidad limitada: Personas que de forma temporal o permane
 
 LXIV. Persona titular de la Jefatura de Gobierno: La Jefa o Jefe de Gobierno de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+LXIV Bis. Perspectiva de Género: la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+
 LXV. Plantón: Grupo de individuos que se congrega y permanece cierto tiempo en un lugar público determinado;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+LXV Bis. Póliza de Seguro: Documento emitido por una Institución de Seguros, que ampara el contrato de seguro en el que dicha Institución se obliga, mediante una prima, a resarcir un daño o a pagar una suma de dinero al verificarse la eventualidad prevista en dicho contrato.
 
 LXVI. Promovente: Persona física o moral, con personalidad jurídica, que solicita autorización del impacto de movilidad, y que somete a consideración de la Secretaría las solicitudes de factibilidad de movilidad, informe preventivo y las manifestaciones de impacto de movilidad que correspondan;
 
@@ -393,6 +421,10 @@ LXVII. Registro: Acto administrativo mediante el cual la Secretaría inscribe la
 > <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
 
 LXVIII. Reglamento: El Reglamento de la Ley de Movilidad de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+LXVIII Bis. Reglamento de Tránsito: Reglamento de Tránsito de la Ciudad de México;
 
 LXIX. Reincidencia: La comisión de dos o más infracciones establecidas en la presente Ley o sus reglamentos, en un periodo no mayor de seis meses;
 
@@ -620,9 +652,9 @@ I. Fomentar, impulsar, estimular, ordenar y regular el desarrollo de la movilida
 
 II. Proponer a la persona titular de la Jefatura de Gobierno, la reglamentación en materia de transporte público, privado, mercantil y particular, uso de la vialidad y tránsito, así como la política integral de estacionamientos públicos en la Ciudad, de conformidad a la presente Ley y demás disposiciones jurídicas y administrativas aplicables;
 
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-III. Proponer a la persona titular de la Jefatura de Gobierno, con base en los estudios correspondientes, las tarifas de los estacionamientos públicos y del servicio público de transporte de pasajeros;
+III. Remitir la propuesta de tarifas para los estacionamientos públicos con base en los estudios correspondientes, a efecto de que las Alcaldías determinen lo que corresponda.
 
 > <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
 
@@ -786,9 +818,17 @@ LXI. Disponer un centro de atención al usuario que se encuentra en funcionamien
 
 LXII. En coordinación con la Secretaría de Educación, en el ámbito de sus respectivas atribuciones, promover e impulsar la educación vial, con el objetivo de preservar la vida y la integridad física; y
 
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
 
-LXIII. Aquellas que con el carácter de delegables, le otorgue la persona titular de la Jefatura de Gobierno y las demás que le confieran la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México y demás disposiciones jurídicas y administrativas aplicables
+LXIII. Proponer a la persona titular de la Jefatura de Gobierno, las tarifas del servicio público de transporte de pasajeros;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+LXIV. Dar seguimiento a los hechos de tránsito que se susciten en el transporte para brindar información requerida por las autoridades competentes en el marco de las investigaciones ministeriales que correspondan, así como para implementar los mecanismos de sanción que correspondan en los casos donde se encuentren involucrados vehículos de concesionarios o permisionarios de transporte público y privado de pasajeros y/o mercancías. En coordinación con las demás dependencias de gobierno, contribuir en el diseño e implementación de mecanismos de prevención, supervisión y sanción en materia de seguridad vial, así como en la elaboración y aplicación de los protocolos interinstitucionales que se establezcan para la atención oportuna de hechos de tránsito, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+LXV. Aquellas que con el carácter de delegables, le otorgue la persona titular de la Jefatura de Gobierno y las demás que le confieran la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México y demás disposiciones jurídicas y administrativas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ABRIL DE 2020)</small>
 
@@ -800,7 +840,9 @@ I. Garantizar en el ámbito de sus atribuciones que la vialidad, su infraestruct
 
 II. Llevar a cabo el control de tránsito y la vialidad, preservar el orden público y la seguridad;
 
-III. Mantener dentro del ámbito de sus atribuciones, que la vialidad esté libre de obstáculos y elementos que impidan, dificulten u obstaculicen el tránsito vehicular y peatonal, excepto en aquellos casos debidamente autorizados, en cuyo caso, en la medida de lo posible, no se deberán obstruir los accesos destinados a las personas con discapacidad;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+III. Mantener dentro del ámbito de sus atribuciones, que la vialidad esté libre de obstáculos y elementos que impidan, dificulten u obstaculicen el tránsito vehicular y peatonal, excepto en aquellos casos debidamente autorizados, en cuyo caso, en la medida de lo posible, no se deberán obstruir los accesos destinados a las personas con discapacidad o con movilidad limitada;
 
 IV. Garantizar la seguridad de las personas que utilicen la vialidad a fin de manifestar sus ideas y/o demandas ante la autoridad competente;
 
@@ -836,7 +878,9 @@ Para el cumplimiento de la presente Ley y los ordenamientos que de ella emanen, 
 
 I. Procurar que la vialidad de sus demarcaciones territoriales, su infraestructura, servicios y elementos inherentes o incorporados a éstos, se utilicen adecuadamente conforme a su naturaleza, garantizando la accesibilidad y el diseño universal, procurando un diseño vial que permita el transito seguro de todos los usuarios de la vía, conforme a la jerarquía de movilidad y coordinándose con la Secretaría y las autoridades correspondientes para llevar a cabo este fin;
 
-II. Mantener, dentro del ámbito de su competencia, la vialidad libre de obstáculos y elementos que impidan, dificulten u obstaculicen el tránsito vehicular y peatonal, excepto en aquellos casos debidamente autorizados, en cuyo caso, en la medida de lo posible, no se deberán obstruir los accesos destinados a las personas con discapacidad;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+II. Mantener, dentro del ámbito de su competencia, la vialidad libre de obstáculos y elementos que impidan, dificulten u obstaculicen el tránsito vehicular y peatonal, excepto en aquellos casos debidamente autorizados, en cuyo caso, en la medida de lo posible, no se deberán obstruir los accesos destinados a las personas con discapacidad o con movilidad limitada;
 
 III. Autorizar el uso de las vías secundarias para otros fines distintos a su naturaleza o destino, cuando sea procedente, en los términos y condiciones previstos en las normas jurídicas y administrativas aplicables;
 
@@ -948,11 +992,13 @@ III. Participar en la formulación del Programa Integral de Movilidad, el Progra
 
 IV. Dar opinión sobre las herramientas de seguimiento, evaluación y control para la planeación de la movilidad. Los proyectos expuestos ante el Consejo Asesor de Movilidad y Seguridad Vial, serán evaluados con los estándares que garanticen la movilidad de acuerdo a esta Ley, dichas opiniones serán publicadas mediante un documento técnico, en el que se expondrán las resoluciones referidas en las fracciones anteriores, a efecto que sean considerados por la persona titular de la Jefatura de Gobierno.
 
-> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 21.
 
-El Consejo Asesor de Movilidad y Seguridad Vial se integrará por la persona titular de la Jefatura de Gobierno quien presidirá; la persona titular de la Secretaría, quien será suplente de la presidencia; las personas titulares de la Secretaría de Gobierno, Secretaría de Desarrollo Urbano, Secretaría del Medio Ambiente; Secretaría de Obras, Seguridad Ciudadana; y la Secretaría de Finanzas, en calidad de consejeros permanentes; los titulares de los organismos descentralizados de transporte público en calidad de consejeros permanentes; cuatro representantes de las instituciones públicas de educación superior en calidad de consejeros permanentes; cuatro representantes de organizaciones de la sociedad civil en calidad de consejeros permanentes; las personas titulares de las Presidencias de las Comisiones de: Movilidad Sustentable, Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático del Congreso de la Ciudad de México, así como una o un diputado que designe la Junta de Coordinación Política de dicho órgano legislativo en calidad de consejeros permanentes. Los titulares de las alcaldías de la Ciudad de México serán invitados permanentes. El Consejo deberá reunirse en sesiones cada tres meses, las cuales serán públicas y se levantará acta de sesión.
+El Consejo Asesor de Movilidad y Seguridad Vial se integrará por la persona titular de la Jefatura de Gobierno quien presidirá; la persona titular de la Secretaría, quien será suplente de la presidencia; las personas titulares de la Secretaría de Gobierno, Secretaría de Desarrollo Urbano y Vivienda, Secretaría del Medio Ambiente; Secretaría de Obras y Servicios, Seguridad Ciudadana; Secretaría de las Mujeres y la Secretaría de Administración y Finanzas, en calidad de consejeros permanentes; las personas titulares de los organismos descentralizados de transporte público en calidad de consejeros permanentes; cuatro representantes de las instituciones públicas de educación superior en calidad de consejeros permanentes; cuatro representantes de organizaciones de la sociedad civil en calidad de consejeros permanentes; las personas titulares de las Presidencias de las Comisiones de: Movilidad Sustentable, Preservación del Medio Ambiente, Cambio Climático, Protección Ecológica y Animal del Congreso de la Ciudad de México, así como una o un diputado que designe la Junta de Coordinación Política de dicho órgano legislativo en calidad de consejeros permanentes. Los titulares de las alcaldías de la Ciudad de México serán invitados permanentes. El Consejo deberá reunirse en sesiones cada tres meses, las cuales serán públicas y se levantará acta de sesión.
+
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2020)</small>
 
 En cada Alcaldía se instalará un Consejo Asesor de Movilidad y Seguridad Vial que será presidido por la persona titular de la Alcaldía, quien se abocará a la temática de su demarcación, pudiendo poner a consideración del Consejo propuestas por realizar.
 
@@ -970,7 +1016,9 @@ Son facultades del Comité del Sistema Integrado de Transporte Público:
 
 I. Establecer programas, procesos y lineamientos para implementar la integración de los servicios de transporte público de pasajeros proporcionado por la Administración Pública y los servicios de transporte concesionado, al Sistema Integrado de Trasporte (sic) Público;
 
-II. Elaborar esquemas financieros y propuestas tecnológicas que permitan contar con una recaudación centralizada de las tarifas de pago, cámara de compensación; y
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+II. Elaborar esquemas financieros y propuestas tecnológicas que permitan contar con una recaudación centralizada de las tarifas de pago, cámara de compensación e ingresos no tarifarios que determine el propio Comité; y
 
 > <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
 
@@ -1130,19 +1178,21 @@ II. Desarrollar acciones para reducir los accidentes a peatones y ciclistas.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 35.
 
-La planeación de la movilidad y la seguridad vial en la Ciudad, debe ser congruente con el Plan Nacional de Desarrollo, el Programa Nacional de Desarrollo Urbano y Ordenación del Territorio, el Programa de Ordenación de la Zona Metropolitana del Valle de México, el Plan General de Desarrollo de la Ciudad de México, el Programa General de Ordenamiento Ecológico del Distrito Federal y el Programa General de Desarrollo de la Ciudad de México; el Programa de Gobierno de la Ciudad, los Programas Sectoriales conducentes y demás instrumentos de planeación previstos en la normativa aplicable.
+La planeación de la movilidad y la seguridad vial en la Ciudad, debe ser congruente con el Plan Nacional de Desarrollo, el Programa Nacional de Ordenamiento Territorial y Desarrollo Urbano, el Programa de Ordenación de la Zona Metropolitana del Valle de México, el Plan General de Desarrollo de la Ciudad de México, el Programa de Gobierno de la Ciudad de México, el Programa General de Ordenamiento Ecológico de la Ciudad de México; los Programas Sectoriales conducentes y demás instrumentos de planeación previstos en la normativa aplicable.
 
 El objetivo de la planeación de la movilidad y la seguridad vial es garantizar la movilidad de las personas, por lo que las políticas públicas y programas en la materia deberán tomarlo como referente y fin último.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 36.
 
-Para los efectos de esta Ley se entiende por planeación la ordenación racional y sistemática de acciones, con base al ejercicio de las atribuciones de la Administración Pública y tiene como propósito hacer más eficiente y segura la movilidad de la Ciudad de conformidad con las normas.
+Para los efectos de esta Ley se entiende por planeación la ordenación racional y sistemática de acciones, con base en el ejercicio de las atribuciones de la Administración Pública y tiene como propósito hacer más eficiente y segura amovilidad (sic) de la Ciudad de conformidad con las normas.
 
-La planeación deberá fijar objetivos, metas, estrategias y prioridades, así como criterios basados en información certera y estudios de factibilidad, con la posibilidad de reevaluar metas y objetivos acorde con las necesidades de la Ciudad.
+La planeación deberá fijar objetivos, metas, tiempos de ejecución, estrategias y prioridades, así como criterios basados en información certera y estudios de factibilidad, con la posibilidad de reevaluar metas y objetivos acorde con los resultados obtenidos y las necesidades de la Ciudad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ABRIL DE 2020)</small>
 
@@ -1170,9 +1220,17 @@ VIII. Priorizar la planeación de los sistemas de transporte público y de la mo
 
 IX. Incrementar la resiliencia del sistema de movilidad fomentando diversas opciones de transporte y procurando la autonomía, eficiencia, evaluación continua y fortaleza en los elementos cruciales del sistema;
 
-X. Promover acciones para hacer más eficiente la distribución de mercancías con objeto de aumentar la productividad de la Ciudad, y reducir los impactos de los vehículos de carga en los demás usuarios del sistema de movilidad; y
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-XI. Tomar decisiones con base en diagnósticos, pronósticos y criterios técnicos que garanticen el uso eficiente de los recursos públicos.
+X. Promover acciones para hacer más eficiente la distribución de mercancías con objeto de aumentar la productividad de la Ciudad, y reducir los impactos de los vehículos de carga en los demás usuarios del sistema de movilidad;
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XI. Tomar decisiones con base en diagnósticos, pronósticos y criterios técnicos que garanticen el uso eficiente de los recursos públicos, y
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XII. Promover políticas y planes con perspectiva de género que promuevan y garanticen la igualdad sustantiva, la equidad, la seguridad e integridad física de las mujeres en materia de movilidad, así como estrategias y acciones que prevengan y erradiquen la violencia sexual, el acoso y las agresiones dentro del sistema de transporte público integrado y concesionado.
 
 ### CAPÍTULO II. PLANEACIÓN DE LA MOVILIDAD
 
@@ -1199,6 +1257,10 @@ Los programas y sus modificaciones serán formulados con base en los resultados 
 El Programa Integral de Movilidad de la Ciudad, deberá considerar todas las medidas administrativas y operativas que garanticen el adecuado funcionamiento del Sistema de Movilidad y las políticas conducentes que mejoren las condiciones de viaje de los usuarios de acuerdo a los principios de esta Ley.
 
 Corresponde a la Secretaría en coordinación con las demás autoridades competentes, la correcta aplicación de este programa, el cual debe publicarse el primer año posterior a la toma de posesión de la persona titular de la Jefatura de Gobierno, su vigencia será de seis años y se revisará cada tres años.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Dentro de este programa, deberá contemplarse la elaboración y aplicación de un programa estratégico de género y movilidad que establezca metas, estrategias y acciones específicas en materia de género y que deberá integrar criterios de accesibilidad, igualdad sustantiva, equidad y seguridad, además de acciones para eliminar todo tipo de violencia y de acoso sexual.
 
 ###### Artículo 41.
 
@@ -1490,11 +1552,11 @@ El servicio de transporte en todas sus modalidades se ajustará al Programa Inte
 
 A fin de satisfacer las necesidades de la población y la demanda de los usuarios del servicio de transporte público con un óptimo funcionamiento, la Administración Pública impulsará y promoverá la homologación de tarifas, horarios, intercambios, frecuencias y demás infraestructura y condiciones en las que se proporciona, buscando la conexión de rutas urbanas y metropolitanas con especial atención a las zonas que carecen de medios de transporte, de difícil acceso o que se encuentren mal comunicadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 61.
 
-Las unidades destinadas a la prestación del servicio de transporte de pasajeros, se sujetarán a los manuales y normas técnicas que en materia de diseño, seguridad y comodidad expida la Secretaría, tomando en consideración las alternativas más adecuadas que se desprendan de los estudios técnicos, sociales, antropométricos y económicos correspondientes de la población mexicana, incluyendo perspectiva de género y para personas con discapacidad, sujetándose a lo establecido en la Ley Federal sobre Metrología y Normalización y normas oficiales mexicanas de la materia.
+Las unidades destinadas a la prestación del servicio de transporte de pasajeros, se sujetarán a los manuales y normas técnicas que en materia de diseño, seguridad y comodidad expida la Secretaría, tomando en consideración las alternativas más adecuadas que se desprendan de los estudios técnicos, sociales, antropométricos y económicos correspondientes de la población mexicana, incluyendo perspectiva de género y para personas con discapacidad, sujetándose a lo establecido en la Ley de Infraestructura de la Calidad y normas oficiales mexicanas de la materia.
 
 La Secretaría emitirá los lineamientos para la cromática de las unidades destinadas al servicio de transporte público de pasajeros. Con el propósito de afectar lo menos posible la economía de los concesionarios, ésta permanecerá vigente hasta por un periodo de diez años y sólo por causas justificadas se autorizará el cambio antes de este término, o cuando se emitan los lineamientos para la cromática del Sistema Integrado de Transporte Público.
 
@@ -1534,21 +1596,31 @@ II. Expiración del plazo por el que fue otorgada; y
 
 III. Las previstas en las disposiciones jurídicas y administrativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 67.
 
-La Secretaría está facultada para cancelar de forma definitiva las licencias o permisos para conducir por las siguientes causas:
+La Secretaría deberá cancelar de forma definitiva las licencias o permisos para conducir por las siguientes causas:
 
-I. Cuando el titular sea sancionado por segunda vez en un periodo de un año, por conducir un vehículo en estado de ebriedad;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-II. Cuando el titular sea sancionado por tercera ocasión en un periodo de tres o más años por conducir un vehículo en estado de ebriedad;
+I. Cuando el titular sea sancionado por segunda vez en un periodo de un año, por conducir un vehículo motorizado bajo los efectos del alcohol y/o narcóticos en los términos del Reglamento de Tránsito;
 
-III. Cuando el titular cometa alguna infracción a la presente Ley o sus reglamentos, bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+II. Cuando el titular sea sancionado por tercera ocasión en un periodo de tres años por conducir un vehículo motorizado bajo los efectos del alcohol y/o narcóticos en los términos del Reglamento de Tránsito;
 
 IV. Cuando al titular se le sancione en dos ocasiones con la suspensión del permiso o la licencia de conducir;
 
 V. Cuando se compruebe que la información proporcionada para su expedición es falsa, o bien que alguno de los documentos presentados es falso o alterado, en cuyo caso se dará vista a la autoridad competente; y
 
-VI. Cuando por motivo de su negligencia, impericia, falta de cuidado o irresponsabilidad, el titular cause lesiones que pongan en peligro la seguridad o la vida de los usuarios.
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+VI. Cuando una autoridad jurisdiccional o ministerial determine en definitiva que el hecho de tránsito fue causado por negligencia, impericia, falta de cuidado o irresponsabilidad del titular y éste tenga como consecuencia la perdida de la vida o cause lesiones que pongan en peligro la seguridad o la vida de los usuarios y/o terceros o; y
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+VII. Tratándose de transporte privado o público de pasajeros o de carga, cuando el titular conduzca en estado de ebriedad y/o bajo la influencia de los efectos del alcohol y/o narcóticos, la cancelación procederá desde la primera ocasión en que sea sancionado en los términos del Reglamento de Tránsito. Los conductores de vehículos destinados al servicio de transporte privado o público de pasajeros o de carga que se hayan visto involucradas (sic) en algún hecho de tránsito están obligados a someterse a las pruebas de detección de ingestión de alcohol o de narcóticos, estupefacientes o psicotrópicos; mismas que deberán ser realizadas por el personal autorizado para tal efecto, en los términos de lo establecido en el Reglamento de Tránsito.
 
 ###### Artículo 68.
 
@@ -1558,9 +1630,13 @@ I. Si el conductor acumula tres infracciones a la presente Ley o sus reglamentos
 
 II. Cuando el titular de la misma haya causado algún daño a terceros o a sus bienes sin resarcirlo, al conducir un vehículo;
 
-III. Por un año cuando el titular sea sancionado por primera ocasión por conducir un vehículo en estado de ebriedad, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada; y
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-IV. Por tres años cuando el titular sea sancionado por segunda ocasión en un periodo mayor a un año, contado a partir de la primera sanción por conducir un vehículo en estado de ebriedad, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada.
+III. Por un año, cuando la persona titular sea sancionado (sic) por primera ocasión por conducir un vehículo motorizado bajo los efectos del alcohol y/o narcóticos en los términos del Reglamento de Tránsito; quedando obligada la persona infractora a someterse, a su costa, a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada; y
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+IV. Por tres años, cuando la persona titular sea sancionado (sic) por segunda ocasión en un periodo menor a tres años por conducir un vehículo motorizado bajo los efectos del alcohol y/o narcóticos en los términos del Reglamento de Tránsito; quedando obligada la persona infractora a someterse, a su costa, a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada.
 
 > <small>(REFORMADO, G.O. 23 DE ABRIL DE 2020)</small>
 
@@ -1590,6 +1666,20 @@ III. Cuando le haya sido cancelado un permiso o concesión por causas imputables
 
 IV. Cuando así lo ordene la autoridad judicial o administrativa.
 
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+###### Artículo 69 Bis.
+
+Al momento de sancionar a una persona por conducir bajo los efectos del alcohol y/o narcóticos, Seguridad Ciudadana deberá retener las Licencias y Permisos de Conducir expedidos por la Secretaría o por cualquier entidad federativa o país durante los periodos establecidos en el artículo 68 de esta Ley.
+
+Las personas titulares de licencias de conducir que expiren previo al término de la suspensión en términos del artículo 68 de este ordenamiento, no podrán realizar trámite alguno ante la Secretaría tendiente a la obtención de licencias o permisos para conducir de cualquier tipo durante el periodo de la suspensión.
+
+Las personas que no sean titulares de una licencia o permiso para conducir expedido por la Secretaría y que incurran en los supuestos previstos en los artículos 67 y 68 de esta Ley no podrán realizar trámite alguno ante la Secretaría tendiente a la obtención de licencias o permisos para conducir de cualquier tipo durante el periodo de la suspensión o de forma definitiva en el caso de los supuestos del artículo 67.
+
+Las personas que cumplan con las hipótesis previstas en los artículos 67 y 68 de esta Ley quedarán impedidas para conducir vehículos motorizados durante el periodo de suspensión o de forma definitiva en el caso del artículo 67 en el territorio de la Ciudad, sin importar que cuenten con una licencia o permiso de conducir expedido por otra entidad federativa o país.
+
+La persona conductora que infrinja el párrafo anterior se le impondrá una sanción de ciento ochenta veces la Unidad de Medida de Actualización de la Ciudad de México vigente y se remitirá el vehículo al depósito vehicular.
+
 > <small>(REFORMADO, G.O. 23 DE ABRIL DE 2020)</small>
 
 ###### Artículo 70.
@@ -1600,11 +1690,11 @@ A ninguna persona que porte una licencia o permiso para conducir expedido en el 
 
 Los conductores y propietarios de vehículos motorizados, están obligados a responder por los daños y perjuicios causados a terceros en su persona y/o bienes, por la conducción de estos.
 
-> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 72.
 
-Los vehículos motorizados de uso particular que circulen en la Ciudad, deberán contar con un seguro de responsabilidad civil vigente que cubra por lo menos, los daños que puedan causarse a terceros en su persona y/o sus bienes por la conducción del vehículo; en los términos que se establezca para tal efecto en el reglamento correspondiente.
+Todo vehículo motorizado de uso particular que circule en la Ciudad, deberá contar con una póliza de seguro de responsabilidad civil vigente con la cobertura mínima establecida en el Reglamento de Tránsito.
 
 ### CAPÍTULO III. DEL SISTEMA INTEGRADO DE TRANSPORTE PÚBLICO
 
@@ -1612,9 +1702,11 @@ Los vehículos motorizados de uso particular que circulen en la Ciudad, deberán
 
 La Administración Pública dispondrá lo necesario para que la Ciudad de México, cuente con un Sistema Integrado de Transporte Público que permita la incorporación gradual la articulación física, operacional, informativa, de imagen y del medio de pago del servicio de transporte público concesionado y los servicios de transporte proporcionados por la Administración Pública, el cual deberá considerar el Programa Integral de Movilidad, así como prever su funcionamiento en caso de contingencias por caso fortuito o fuerza mayor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 74.
 
-El Sistema Integrado de Transporte deberá funcionar bajo el concepto de complementariedad entre los diferentes modos de transporte, con identidad única, planificación y operación integrada, combinando infraestructura, estaciones, terminales, vehículos, sistemas de control e información, así como recaudación centralizada y cámara de compensación, que opere generalmente sobre infraestructura exclusiva y/o preferencial, con rutas, horarios y paradas específicas, establecidos por la Secretaría.
+El Sistema Integrado de Transporte deberá funcionar bajo el concepto de complementariedad entre los diferentes modos de transporte, con identidad única, planificación y operación integrada, combinando infraestructura, estaciones, terminales, vehículos, sistemas de control e información, así como ingresos tarifarios y no tarifarios que, en su caso, se establezcan y deban ser compensados en la cámara de compensación, que opere generalmente sobre infraestructura exclusiva y/o preferencial, con rutas, horarios y paradas específicas, establecidos por la Secretaría.
 
 El Sistema Integrado de Transporte está compuesto por: el transporte público masivo, colectivo e individual de pasajeros que cumpla con los requisitos de integración establecidos por el Comité para el Sistema Integrado de Transporte.
 
@@ -1648,17 +1740,21 @@ II. El Servicio de Transportes Eléctricos de la Ciudad de México, Organismo P�
 
 III. La Red de Transporte de Pasajeros de la Ciudad de México, Organismo Público Descentralizado con personalidad jurídica y patrimonio propios, en su planeación, crecimiento y desarrollo se ajustará a su instrumento de creación y por las disposiciones jurídicas y administrativas aplicables, forma parte del Programa Integral de Movilidad de la Ciudad de México; será un alimentador de los sistemas masivos de transporte;
 
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-IV. El Sistema de Corredores de Transporte Público de Pasajeros de la Ciudad de México “Metrobús”, Organismo Público Descentralizado de la Administración Pública de la Ciudad, sectorizado a la Secretaría que cuenta con personalidad jurídica y patrimonio propios además de autonomía técnica y administrativa en su planeación, crecimiento y desarrollo se ajustará a su instrumento de creación y por las disposiciones jurídicas y administrativas aplicables, forma parte del Programa Integral de Movilidad de la Ciudad de México;
+IV. El Sistema de Corredores de Transporte Público de Pasajeros de la Ciudad de México “Metrobús”, Organismo Público Descentralizado de la Administración Pública de la Ciudad, sectorizado a la Secretaría; cuenta con personalidad jurídica y patrimonio propios, además de autonomía técnica y administrativa en su planeación, crecimiento y desarrollo, se ajustará a su instrumento de creación y por las disposiciones jurídicas y administrativas aplicables, forma parte del Programa Integral de Movilidad de la Ciudad de México;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-V. El Sistema de Transporte Público Cablebús, Unidad Administrativa adscrita al Órgano Regulador de Transporte, cuya administración, implementación, coordinación y suscripción de documentos relativos al ejercicio de sus atribuciones se encuentran supeditados a la Dirección General del Sistema de Transporte Público Cablebús de la Ciudad de México y su desarrollo se ajustará a su instrumento de creación y por las disposiciones jurídicas y administrativas aplicables, forma parte del Programa Integral de Movilidad de la Ciudad de México.
+V. El Sistema de Transporte Público Cablebús, Unidad Administrativa adscrita al Servicio de Transportes Eléctricos de la Ciudad de México, su desarrollo se ajustará a su instrumento de creación y por las disposiciones jurídicas y administrativas aplicables, forma parte del Programa Integral de Movilidad de la Ciudad de México.
 
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
 
-VI. Adicionalmente, aquellos establecidos o los que decrete la Persona Titular de la Jefatura de Gobierno para satisfacer las necesidades de traslado de la población.
+VI. El Organismo Regulador de Transporte, Organismo Público Descentralizado de la Administración Pública de la Ciudad, sectorizado a la Secretaría; cuenta con personalidad jurídica y patrimonio propios, además de su autonomía técnica y administrativa en su planeación, crecimiento y desarrollo, se ajustará a su instrumento de creación y por las disposiciones jurídicas y administrativas aplicables, forma parte del Programa Integral de Movilidad de la Ciudad de México; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+VII. Adicionalmente, aquellos establecidos o los que decrete la persona titular de la Jefatura de Gobierno para satisfacer las necesidades de traslado de la población.
 
 ###### Artículo 79.
 
@@ -1670,7 +1766,13 @@ La prestación del servicio público de transporte debe realizarse de forma regu
 
 La Administración Pública debe realizar las acciones necesarias que permitan que en los sistemas de transporte público existan las condiciones de diseño universal y se eviten actos de discriminación.
 
-Los prestadores del servicio público de transporte de pasajeros y de carga, están obligados a otorgar el servicio a cualquier persona, únicamente podrán negar el servicio por causas justificadas de acuerdo a lo establecido en el Reglamento.
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Los prestadores del servicio público de transporte de pasajeros y de carga, están obligados a otorgar el servicio a cualquier persona, evitando cualquier tipo de acto o conducta discriminatoria. Únicamente podrán negar el servicio por causas justificadas de acuerdo a lo establecido en el Reglamento.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+En los casos en que las autoridades competentes emitan la declaratoria de emergencia y/o contingencia, la Administración Pública, ordenará la implementación de medidas preventivas y emergentes en el servicio de transporte público, a efecto de garantizar la prestación del servicio.
 
 ###### Artículo 81.
 
@@ -1764,15 +1866,19 @@ Asimismo, deberán cumplir con lo dispuesto en el Manual de lineamientos técnic
 
 Para el caso de las personas morales, contar con al menos el veinte por ciento del total de unidades en operación destinadas a la prestación del servicio de transporte público colectivo y al menos el cinco por ciento para el servicio de transporte público individual de pasajeros, acondicionadas con ayudas técnicas, conforme a la normatividad aplicable y las condiciones de operación adecuadas que permitan el óptimo servicio para que las personas con discapacidad puedan hacer uso del servicio de transporte público en condiciones de seguridad, comodidad, higiene y eficiencia. Los porcentajes señalados deberán actualizarse gradualmente, conforme a los criterios y lineamientos establecidos en el segundo párrafo del artículo 81 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 90.
 
-Toda unidad que tenga como fin la prestación del servicio de transporte público de pasajeros o de carga en la Ciudad de México, deberá contar con póliza de seguro vigente para indemnizar los daños y perjuicios, que con motivo de dicha actividad pudiese ocasionar a los usuarios, peatones, conductores o terceros en su persona o patrimonio.
+Toda unidad que tenga como fin la prestación del servicio de transporte público de pasajeros o de carga en la Ciudad, deberá contar con póliza de seguro vigente, que cubra los daños y perjuicios que la unidad registrada en la concesión pudiese ocasionar a los usuarios, conductores o terceros, en su persona o patrimonio.
 
-> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
-Las unidades relacionadas en hechos de tránsito, serán remitidas al depósito vehicular que corresponda, inmediatamente después de ocurrido el hecho.
+En el caso del servicio de transporte público de pasajeros, la cobertura mínima asegurada por evento deberá ser de al menos cincuenta mil veces la Unidad de Medida y Actualización de la Ciudad de México vigente, o su equivalente en moneda nacional, en caso de daños a terceros en su persona o patrimonio y de cinco mil veces la Unidad de Medida y Actualización de la Ciudad de México vigente, o en su equivalente en moneda nacional, por cada persona usuaria y por la persona conductora.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+Las unidades relacionadas en hechos de tránsito, serán remitidas al depósito vehicular que corresponda por parte de Seguridad Ciudadana, conforme a lo establecido en el Reglamento de Tránsito y demás disposiciones jurídicas aplicables, inmediatamente después de ocurrido el hecho.
 
 > <small>(REFORMADO, G.O. 23 DE ABRIL DE 2020)</small>
 
@@ -2008,9 +2114,9 @@ X. Cumplir con las disposiciones jurídicas y administrativas aplicables en mate
 
 XI. Vigilar que los conductores de sus vehículos, cuenten con la licencia exigida por las disposiciones jurídicas y administrativas aplicables para operar unidades de transporte público y con los requisitos y documentos necesarios para desempeñar esta actividad; e informar por escrito a la Secretaría los datos de identificación y localización de sus conductores;
 
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-XII. Contar con póliza de seguro vigente para responder por los daños que con motivo de la prestación del servicio, pudieran ocasionarse a los usuarios y terceros en su persona y/o patrimonio, con una cobertura mínima de dos mil quinientas veces la Unidad de Medida y Actualización de la Ciudad de México vigente, dependiendo de la modalidad de transporte a la que corresponda y de acuerdo a lo que establezca el Reglamento, siempre y cuando en el mercado exista un producto similar acorde a esta disposición.
+XII. Contar con póliza de seguro vigente, que cubra los daños y perjuicios que la unidad registrada en la concesión pudiese ocasionar a las personas usuarias, conductoras o terceros en su persona o patrimonio. La cobertura mínima asegurada deberá cumplir con lo establecido en el artículo 90 de esta Ley, según el tipo de vehículo que corresponda;
 
 XIII. Para el caso de las personas morales, contar con al menos el veinte por ciento del total de unidades en operación destinadas a la prestación del servicio de transporte público colectivo y al menos el cinco por ciento para el servicio de transporte público individual de pasajeros, acondicionadas con ayudas técnicas, conforme a la normatividad aplicable y las condiciones de operación adecuadas que permitan el óptimo servicio para que las personas con discapacidad puedan hacer uso del servicio de transporte público en condiciones de seguridad, comodidad, higiene y eficiencia.
 
@@ -2096,7 +2202,9 @@ II. Cuando la garantía exhibida por el concesionario para el otorgamiento de la
 
 III. La omisión del pago de derechos, productos o aprovechamientos, relacionados con las concesiones, permisos, licencias y demás actos jurídicos relacionados con el servicio de transporte público;
 
-IV. No contar con póliza de seguro vigente, en los términos previstos en la presente ley, para indemnizar los daños que con motivo de la prestación del servicio se causen a los usuarios o terceros en su persona y/o propiedad;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+IV. No contar con póliza de seguro vigente que cubra los daños y perjuicios que la unidad registrada en la concesión pudiese ocasionar a las personas usuarias, conductoras o terceros en su persona o patrimonio. La cobertura mínima asegurada deberá cumplir con lo establecido en el artículo 90 de esta Ley.
 
 V. No cubrir las indemnizaciones por daños que se originen a la Administración Pública, a los usuarios o terceros, con motivo de la prestación del servicio de transporte público;
 
@@ -2114,7 +2222,17 @@ XI. Exhibir documentación apócrifa, alterada o proporcionar informes o datos f
 
 XII. Cuando se compruebe por la autoridad competente y en última instancia que el vehículo sujeto a concesión ha sido instrumento para la comisión de algún delito, por el concesionario, algún miembro operador o partícipe de la concesión y que el concesionario tenga conocimiento; y
 
-XIII. Las demás causas reguladas en el cuerpo de esta Ley y otras disposiciones jurídicas y administrativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+XIII. Cuando se presenten tres sucesos de lesiones, por hechos de tránsito derivados de la prestación del servicio, a una o más personas que, de acuerdo con las investigaciones realizadas por la autoridad ministerial competentes (sic) sean imputables al conductor;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XIV. Cuando se presente un suceso de muerte por un hecho de tránsito derivado de la prestación de servicio que de acuerdo a la investigación realizada por la autoridad ministerial competente sea imputable al conductor; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], G.O. 4 DE AGOSTO DE 2021)</small>
+
+XV. Las demás causas reguladas en la presente Ley y otras disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 116.
 
@@ -2196,7 +2314,9 @@ II. En caso de las personas morales, acreditar su existencia legal y personalida
 
 III. Presentar un padrón de las unidades materia del permiso, que deberá contener todos los datos de identificación de los vehículos;
 
-IV. Presentar un padrón de conductores que deberá señalar la unidad a la cual estarán asignados, nombre, domicilio, número de licencia que lo autoriza a conducir este tipo de vehículo y demás datos necesarios para su identificación y ubicación;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+IV. Presentar un padrón de conductores que deberá señalar la unidad a la cual estarán asignados, Clave Única de Registro de Población y, en caso de que la unidad sea un vehículo motorizado, número de licencia que lo autoriza a conducir el vehículo;
 
 V. Indicar el lugar de encierro de las unidades;
 
@@ -2254,9 +2374,11 @@ V. Las que se especifiquen en el documento que materialice el permiso; y
 
 VI. Las señaladas en las disposiciones jurídicas y administrativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 131.
 
-Son causas de revocación de los permisos:
+Son causas de revocación de los permisos para la prestación de los servicios de transporte mercantil y privado de pasajeros y de carga, así como en ciclotaxis:
 
 I. El incumplimiento por parte del permisionario de cualquiera de las obligaciones que se establezcan en el mismo;
 
@@ -2270,25 +2392,29 @@ V. Cuando se exhiba documentación apócrifa, alterada o se proporcionen informe
 
 VI. Hacerse acreedor a infracciones calificadas como graves por la Secretaría, por incumplir con las obligaciones o condiciones establecidas en la presente Ley, en el permiso o en las disposiciones jurídicas y administrativas aplicables, ya sea por sí mismo o a través de sus conductores o personas relacionadas con la prestación de los servicios de transporte.
 
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+VII. Cuando se presenten tres sucesos de lesiones, por hechos de tránsito derivados de la prestación del servicio, a una o más personas que, de acuerdo a las investigaciones realizadas por la autoridad ministerial competente sean imputables a la persona conductora; y
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+VIII. Cuando se presente un suceso de muerte por un hecho de tránsito derivado de la prestación de (sic) servicio, que de acuerdo con la investigación realizada por la autoridad ministerial competente sea imputable a la persona conductora.
+
 ### CAPÍTULO IX. DE LA REPARACIÓN DE LOS DAÑOS OCASIONADOS CON MOTIVO DE LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 132.
 
-Cuando el daño sea resultado de una conducta cometida con vehículos destinados a la prestación del servicio de transporte público de pasajeros, el conductor y el concesionario responderán solidariamente por los daños causados a personas y bienes.
+Cuando el daño sea resultado de una conducta cometida con vehículos destinados a la prestación del servicio de transporte público de pasajeros, con independencia de las acciones legales que pudieran emprender las partes, la reparación del daño requerirá la aplicación de la cobertura de la póliza de seguros establecida en el artículo 90 de la presente ley, con el objeto de asegurar la cobertura de los daños y perjuicios que la unidad registrada en la concesión hubiese ocasionado a las personas usuarias, conductoras o terceros en su persona o patrimonio.
 
-Con independencia de las acciones jurídico-legales que pudieran emprender las partes, la reparación del daño, consistirá, a elección del ofendido, en el resarcimiento en especie, mediante el uso de alguna póliza vigente otorgada por alguna institución facultativa o en el pago de los daños y perjuicios.
+Inmediatamente después de ocurrido el hecho, las unidades relacionadas con hechos de tránsito serán remitidas al depósito vehicular que corresponda por parte de Seguridad Ciudadana; asimismo, se le realizará al conductor el examen toxicológico y de consumo de alcohol, en los términos de lo establecido en el Reglamento de Tránsito.
 
-> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2020)</small>
-
-Las unidades relacionadas en hechos de tránsito, serán remitidas al depósito vehicular que corresponda, inmediatamente después de ocurrido el hecho.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 133.
 
-Cuando el daño que se cause a las personas produzca la muerte, la reparación del daño no podrá ser menor de lo que resulte de multiplicar el (sic) cuatro veces el salario mínimo general vigente en la Ciudad, por setecientas treinta veces; de acreditarse ingresos diarios superiores de la víctima, se calculará el cuádruplo atendiendo a esos ingresos.
-
-Cuando el daño produzca incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del salario mínimo diario más alto que esté en vigor en el Distrito Federal y se extenderá al número de días que, para cada una de las incapacidades mencionadas señale la Ley Federal del trabajo y, en el caso de personas que tengan ingresos diarios mayores, el cuádruplo se calculará atendiendo a esos ingresos.
+Cuando el daño que se cause a las personas produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo con independencia de las acciones y reparación del daño que determine la autoridad judicial. Para calcular la indemnización que corresponda se tomará como base la Unidad de Medida y Actualización y se extenderá al número de unidades que para cada una de las incapacidades señaladas en la Ley Federal del Trabajo.
 
 ### CAPÍTULO X. DEL REGISTRO PÚBLICO DEL TRANSPORTE
 
@@ -2448,69 +2574,27 @@ De toda información, registro, folio, certificación que realice el Registro P�
 
 ###### Artículo 148.
 
-La operación de los servicios de corredores de transporte, será regulado y controlado por la Secretaría a través del Órgano Regulador de Transporte, el cual podrá solicitar durante la vigencia de la concesión a los concesionarios, la documentación e información económica y financiera que considere pertinente, para identificar esquemas financieros que permitan la prestación de servicio de manera permanente y uniforme y establecer las medidas de seguridad necesarias.
+(DEROGADO, G.O. 4 DE AGOSTO DE 2021)
 
 ###### Artículo 149.
 
-La Secretaría podrá autorizar la agrupación de personas morales concesionarias del servicio de corredores de transporte, bajo el esquema de consorcios, para que presten el servicio de manera exclusiva en uno o más corredores, sin que exceda el número de concesiones que permite esta Ley, con un control y dirección centralizado de los diferentes concesionarios.
+(DEROGADO, G.O. 4 DE AGOSTO DE 2021)
 
 ###### Artículo 150.
 
-Para la enajenación de acciones de las sociedades mercantiles concesionarias, se deberá contar previamente con la autorización de la Secretaría.
-
-> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2020)</small>
+(DEROGADO, G.O. 4 DE AGOSTO DE 2021)
 
 ###### Artículo 151.
 
-El Órgano Regulador de Transporte es un organismo desconcentrado de la Administración Pública, adscrito a la Secretaría, cuyo objeto principal es planear, gestionar, operar, supervisar, regular y verificar los espacios físicos con infraestructura y equipamiento auxiliar de transporte, así como la implementación del Sistema de Transporte Público Cablebús y los Centros de Transferencia Modal.
+(DEROGADO, G.O. 4 DE AGOSTO DE 2021)
 
 ###### Artículo 152.
 
-Son atribuciones del Órgano Regulador de Transporte las siguientes:
-
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
-
-I. Ordenar y regular el desarrollo del servicio de corredores de transporte que no regule el Sistema de Corredores de Transporte Público de Pasajeros de la Ciudad de México, Metrobús, así como la infraestructura y equipamiento auxiliar del servicio;
-
-II. Dictaminar y autorizar los proyectos para la prestación del servicio de corredores de transporte, con base en los lineamientos que fije la normatividad correspondiente;
-
-III. Programar, orientar, organizar y, en su caso modificar la prestación del servicio de corredores de transporte, conforme a lo prescrito en esta Ley y demás disposiciones jurídicas y administrativas aplicables;
-
-IV. Dictar y ejecutar los acuerdos necesarios para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación del servicio de corredores de transporte, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
-
-V. Establecer medidas de seguridad necesarias para que los concesionarios presten el servicio en condiciones de calidad, seguridad, oportunidad y permanencia e higiene;
-
-VI. Colaborar con el Instituto, en la coordinación de visitas de verificación al servicio de corredores de transporte;
-
-VII. Intervenir en los procedimientos administrativos para el otorgamiento, prórroga, revocación, caducidad, y extinción de concesiones;
-
-VIII. Colaborar con la Secretaría, para determinar los cursos y programas de capacitación para los operadores del servicio de corredores de transporte;
-
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
-
-IX. Adoptar todas las medidas que tiendan a satisfacer, hacer eficiente y regular el servicio de corredores de transporte y, en su caso, coordinarse con las demás dependencias, alcaldías, órganos desconcentrados y entidades de la Administración Pública, para este propósito;
-
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
-
-X. Realizar todas aquellas acciones tendientes a que el servicio de corredores de transporte, se lleve a cabo con calidad, eficiencia, cuidado del medio ambiente y garantice la seguridad de los usuarios;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE ABRIL DE 2020)</small>
-
-XI. Administrar, operar, supervisar y regular los Centros de Transferencia Modal;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE ABRIL DE 2020)</small>
-
-XII. Planear, gestionar, realizar, y ejecutar obras y los estudios técnicos necesarios para el diseño, implementación y operación del Sistema de Transporte Público Cablebús de la Ciudad de México; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE ABRIL DE 2020)</small>
-
-XIII. Las demás disposiciones jurídicas y administrativas aplicables;
-
-Las atribuciones que esta Ley le confiere al Órgano Regulador de Transporte, serán sin menoscabo de que puedan ser ejercidas directamente por la Secretaría.
+(DEROGADO, G.O. 4 DE AGOSTO DE 2021)
 
 ###### Artículo 153.
 
-Para el logro de sus funciones, el Órgano Regulador de Transporte contará con la estructura administrativa que le sea autorizada.
+(DEROGADO, G.O. 4 DE AGOSTO DE 2021)
 
 ### CAPÍTULO XII. DE LA PUBLICIDAD EN LOS VEHÍCULOS DE TRANSPORTE PÚBLICO
 
@@ -2620,9 +2704,11 @@ En el transporte público de pasajeros colectivo, las niñas y niños menores de
 
 Los sistemas de transporte masivo de pasajeros exentarán del pago de cualquier tarifa a los niños menores de cinco años y a los adultos mayores de sesenta años.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 168.
 
-La Secretaría establecerá los sistemas para el cobro de las tarifas de servicio público, incorporando en lo posible, los avances tecnológicos existentes que permitan homologar la forma de cobro de la tarifa de transporte público, mediante un sistema único automático de recaudo centralizado.
+La Secretaría establecerá los sistemas para el cobro de las tarifas de servicio público, incorporando en lo posible, los avances tecnológicos existentes que permitan homologar la forma de cobro de la tarifa de transporte público, mediante un sistema único de cobro automático, en el cual se podrán incluir los ingresos no tarifarios que, en su caso, se determinen.
 
 ###### Artículo 169.
 
@@ -2914,11 +3000,13 @@ Los estacionamientos públicos y privados, deberán contar con las instalaciones
 
 Las autoridades de las Alcaldías, podrán examinar en todo tiempo, que las instalaciones y la construcción reúnan las condiciones señaladas en los párrafos que anteceden y que tengan a su servicio personal capacitado.
 
-> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 204.
 
-La Secretaría propondrá a la persona titular de la Jefatura de Gobierno, con base en los estudios correspondientes, las tarifas para el cobro del servicio en los estacionamientos públicos por cada zona de la Ciudad, siempre buscando cumplir con los objetivos de reducción del uso del automóvil particular e incentivar el uso del transporte público y no motorizado.
+La Secretaría determinará con base en los estudios correspondientes, la metodología y modelos tarifarios, así como el desarrollo de herramientas para la autorización de tarifas por parte de las alcaldías para el cobro del servicio en los estacionamientos públicos, siempre buscando cumplir con los objetivos de reducción del uso del automóvil particular e incentivar el uso de transporte público y no motorizado.
+
+Para llevar a cabo la implementación de las tarifas mencionadas en el párrafo anterior, las alcaldías en razón de su territorio, otorgarán la autorización correspondiente a los establecimientos que brinden el servicio de estacionamiento público.
 
 ###### Artículo 205.
 
@@ -3046,21 +3134,31 @@ Se impulsará la creación de un Centro de Gestión de la Movilidad, en el que p
 
 ### CAPÍTULO XV. DE LA CULTURA DE LA MOVILIDAD
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 224.
 
-La Secretaría promoverá en la población la adopción de nuevos hábitos de movilidad encaminados a mejorar las condiciones en que se realizan los desplazamientos, lograr una sana convivencia en las calles, prevenir hechos de tránsito y fomentar el uso racional del automóvil particular.
+La Secretaría promoverá en la población la adopción de nuevos hábitos de movilidad encaminados a mejorar las condiciones en que se realizan los desplazamientos, lograr una sana convivencia en las calles, prevenir hechos de tránsito y fomentar el uso racional del automóvil particular. En este sentido, se promoverá la inclusión de la perspectiva de género, con el fin de promover un ambiente de respeto entre las y los usuarios de transporte público y particular.
 
 ###### Artículo 225.
 
 Los programas de cultura de movilidad se regirán bajo los siguientes principios:
 
-I. La circulación en las vialidades de la Ciudad será en condiciones de seguridad vial, las autoridades en el ámbito de su competencia deberán adoptar medidas para garantizar la protección de la vida;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-II. La circulación en la vía pública será con cortesía, por lo que las personas deberán observar un trato respetuoso hacia el personal de apoyo vial, agentes de tránsito y prestadores de servicio de transporte público de pasajeros;
+I. La circulación en las vialidades de la Ciudad será en condiciones de seguridad vial, las autoridades en el ámbito de su competencia deberán adoptar medidas para garantizar la protección de la vida; así como la prevención de la violencia contra las mujeres en la vía pública y en el tránsito vehicular;
 
-III. Dar prioridad del uso del espacio a los usuarios de acuerdo a la jerarquía de movilidad establecida en la presente Ley;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-IV. Los conductores de vehículos motorizados deberán conducir de forma prudente y con cautela;
+II. La circulación en la vía pública será con cortesía, por lo que las personas deberán observar un trato respetuoso hacia el personal de apoyo vial, agentes de tránsito y prestadoras y prestadores de servicio de transporte público de pasajeros;
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+III. Dar prioridad del uso del espacio a las y los usuarios de acuerdo a la jerarquía de movilidad establecida en la presente Ley;
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+IV. Las y los conductores de vehículos motorizados deberán conducir de forma prudente y con cautela, y
 
 V. Promover la utilización del transporte público y no motorizado para mejorar las condiciones de salud y protección del medio ambiente.
 
@@ -3092,6 +3190,10 @@ IX. El significado y preservación de la señalización vial; y
 
 X. El cumplimiento de los programas de verificación y protección al medio ambiente.
 
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XI. La promoción de la perspectiva de género en la cultura vial.
+
 > <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2020)</small>
 
 Las campañas de comunicación en materia de educación vial, de manera enunciativa más no limitativa, deberán difundirse en el Sistema Público de Radiodifusión de la Ciudad de México, así como en las páginas electrónicas de las dependencias y entidades señaladas en el artículo 10 de la presente Ley.
@@ -3110,9 +3212,11 @@ Será responsabilidad de la Secretaría definir los alcances y contenidos de los
 
 Además, llevará un registro de la capacitación impartida a conductores y aspirantes a conductores y certificará a los aspirantes a obtener licencia o permiso de conducir en la Ciudad.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 230.
 
-La Secretaría establecerá los requisitos y mecanismos para la impartición de cursos teórico prácticos sobre seguridad, educación vial, cultura de la movilidad, cursos de manejo para aspirantes a obtener licencias o permisos para conducir cualquier vehículo motorizado, cursos de capacitación vial y primeros auxilios para operadores o conductores del servicio de transporte en todas sus modalidades; así como cursos, seminarios y conferencias dirigidas a jóvenes y niños, con el fin de promover y difundir en la comunidad, una cultura de educación vial y movilidad.
+La Secretaría establecerá los requisitos y mecanismos para la impartición de cursos teórico prácticos sobre seguridad, educación vial, cultura de la movilidad, cursos de manejo para aspirantes a obtener licencias o permisos para conducir cualquier vehículo motorizado, cursos de capacitación vial y primeros auxilios para personas operadoras o conductoras del servicio de transporte en todas sus modalidades; así como cursos, seminarios y conferencias dirigidas a jóvenes y niños, con el fin de promover y difundir en la comunidad, una cultura de educación vial y movilidad con perspectiva de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ABRIL DE 2020)</small>
 
@@ -3130,9 +3234,11 @@ Asimismo, la Secretaría promoverá ante las autoridades competentes, la apertur
 
 Con el fin de hacer efectivas la capacitación y difundir la cultura de la movilidad en la Ciudad, la Secretaría contará con un cuerpo especializado de información, orientación, auxilio, seguridad vial y apoyo a la movilidad, que proporcione estos servicios a la población en general.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 233.
 
-En materia de seguridad vial, la Secretaría coordinará el diseño e instrumentación de programas y cursos de capacitación permanentes de prevención de hechos de tránsito, que tengan como propósito fundamental proteger la vida y la integridad física de las personas de conformidad con lo establecido en el Programa Integral de Seguridad Vial.
+En materia de seguridad vial, la Secretaría coordinará el diseño e instrumentación de programas, campañas y cursos de capacitación permanentes de prevención de hechos de tránsito, que tengan como propósito fundamental proteger la vida y la integridad física de las personas de conformidad con lo establecido en el Programa Integral de Seguridad Vial.
 
 ###### Artículo 234.
 
@@ -3172,11 +3278,15 @@ La Secretaría en coordinación con Seguridad Ciudadana, la Secretaría de Medio
 
 Para fomentar la cultura de la movilidad entre los habitantes de la Ciudad, la Secretaría podrá:
 
-I. Promover la participación ciudadana mediante el conocimiento, ejercicio, respeto y cumplimiento de sus derechos y obligaciones en materia de educación vial y cultura de la movilidad, en concordancia con la Ley de Participación Ciudadana del Distrito Federal;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+I. Promover la participación ciudadana mediante el conocimiento, ejercicio, respeto y cumplimiento de sus derechos y obligaciones en materia de educación vial y cultura de la movilidad, en concordancia con la Ley de Participación Ciudadana de la Ciudad de México;
 
 II. Promover el derecho que todo habitante tiene a ser sujeto activo en el mejoramiento de su entorno social, procurando acciones en materia de educación vial y movilidad, que garanticen la máxima transparencia de los procesos de planificación que permitan tomar decisiones democráticas y participativas.
 
-III. Promover cursos, seminarios y conferencias, con la participación de especialistas y académicos sobre temas de educación vial y movilidad, que generen el desarrollo de políticas sustentables e incluyentes, orientadas al peatón, la bicicleta y al transporte público, que incluyan con especial atención a los grupos vulnerables y fomenten el uso responsable del transporte particular en la Ciudad.
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+III. Promover cursos, foros, seminarios y conferencias, con la participación de especialistas y académicos sobre temas de educación vial y movilidad, que generen el desarrollo y adopción de tecnologías y políticas sustentables e incluyentes, orientadas al peatón, el uso de la bicicleta y al transporte público, que incluyan con especial atención a los grupos vulnerables y fomenten el uso responsable del transporte particular en la Ciudad.
 
 ###### Artículo 239.
 
@@ -3262,9 +3372,11 @@ Por conducir vehículos motorizados en vialidades de la Ciudad que no cuenten co
 
 Para el caso de propietario del vehículo particular tendrá cuarenta y cinco días naturales para la contratación de la póliza de seguro, misma que al presentarla ante la Secretaría de Seguridad Ciudadana durante el término anterior, le será cancelada la multa; (sic)
 
+(REPUBLICADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2021)
+
 ###### Artículo 251.
 
-Las infracciones por la violación a los preceptos de esta Ley, a la concesión o permiso otorgado, cometidas por los concesionarios, permisionarios, operadores, conductores, empleados o personas relacionados directamente con la prestación del servicio de transporte, se sancionarán conforme a lo siguiente:
+Las infracciones por la violación a los preceptos de esta Ley, a la concesión o permiso otorgado, cometidas por los concesionarios, permisionarios, operadores, conductores, empleados o personas relacionadas directamente con la prestación del servicio de transporte, se sancionarán conforme a lo siguiente:
 
 > <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
 
@@ -3310,7 +3422,9 @@ X. Cuando no se respete con las unidades, el derecho para el paso de peatones en
 
 XI. A los concesionarios o permisionarios que se nieguen a proporcionar la documentación, datos, información y demás elementos inherentes a la naturaleza de las concesiones o permisos otorgados, que se les haya solicitado, se les sancionará con multa de ochenta a cien veces la Unidad de Medida y Actualización de la Ciudad de México vigente;
 
-XII. Los concesionarios o permisionarios que no cuenten con póliza de seguro vigente que garantice los daños y perjuicios contra usuarios, peatones o terceros, se les sancionará con la cancelación definitiva de la concesión o permiso correspondiente;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XII. Cancelación definitiva de la concesión o permiso correspondiente a los concesionarios o permisionarios que no cuenten con póliza de seguro vigente, que cubra los daños y perjuicios que la unidad registrada en la concesión o permiso, según corresponda, pudiese ocasionar a las personas usuarias, conductoras o terceros en su persona o patrimonio. En el caso de las concesiones, la cobertura mínima asegurada deberá cumplir con lo establecido en el artículo 90 de esta Ley;
 
 > <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
 
@@ -3340,11 +3454,17 @@ XVIII. Las personas que no retiren los elementos incorporados a la vialidad en e
 
 XIX. Las personas que utilicen inadecuadamente, obstruyan, limiten, dañen, deterioren o destruyan la nomenclatura o señalización vial, se les impondrá una multa de treinta a cincuenta veces la Unidad de Medida y Actualización de la Ciudad de México vigente;
 
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
 
-XX. A la contravención a la Ley, permiso y demás disposiciones jurídicas y administrativas aplicables, por la prestación del servicio de transporte en ciclotaxis y cuya sanción no esté expresamente prevista, se impondrá multa de cuarenta a sesenta veces la Unidad de Medida y Actualización de la Ciudad de México vigente; y
+XX. A la contravención a la Ley, permiso y demás disposiciones jurídicas y administrativas aplicables, por la prestación del servicio de transporte en ciclotaxis y cuya sanción no esté expresamente prevista, se impondrá multa de cuarenta a sesenta veces la Unidad de Medida y Actualización de la Ciudad de México vigente;
 
-XXI. Cuando por motivo de la prestación del servicio de transporte público colectivo, se causen daños a los usuarios, peatones o terceros, la Secretaría podrá suspender por causa de interés general hasta por treinta días, la autorización de la derivación o derrotero del vehículo que originó el daño, atendiendo a las circunstancias del hecho de tránsito, sin menoscabo de la responsabilidad civil, penal o administrativa que se desprenda. Durante la suspensión, se atenderá la demanda del servicio de transporte, con unidades de los organismos descentralizados de la administración pública adscritas a la Secretaría.
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XXI. Cuando por motivo de la prestación del servicio de transporte público colectivo, se causen daños a los usuarios, peatones o terceros, la Secretaría podrá suspender por causa de interés general hasta por treinta días, la autorización de la derivación o derrotero del vehículo que originó el daño, atendiendo a las circunstancias del hecho de tránsito, sin menoscabo de la responsabilidad civil, penal o administrativa que se desprenda. Durante la suspensión, se atenderá la demanda del servicio de transporte, con unidades de los organismos descentralizados de la administración pública adscritas a la Secretaría; y
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2021)</small>
+
+XXII. A los concesionarios o permisionarios que no cumplan con las medidas determinadas por las autoridades correspondientes debido a la declaración de emergencia y/o contingencia se les sancionará con multa de cuarenta a sesenta veces la Unidad de Medida y Actualización de la Ciudad de México Vigente.
 
 Las sanciones que se señalan en este capítulo se aplicarán sin perjuicio de la responsabilidad civil o penal que resulte, o de la revocación de la concesión o permiso respectivos.
 
@@ -3623,3 +3743,21 @@ G.O. 29 DE SEPTIEMBRE DE 2020.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 Segundo.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 4 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LOS ARTÍCULOS 6, FRACCIÓN III; 9, FRACCIÓN IV; 12, FRACCIONES III Y LXIII; 13, FRACCIÓN III; 15, FRACCIÓN II; 21, PRIMER PÁRRAFO; 24, FRACCIÓN II; 35, PRIMER PÁRRAFO; 36; 37, FRACCIONES X Y XI; 61, PRIMER PÁRRAFO; 67, FRACCIONES I, II Y VI; 68, FRACCIONES III Y IV; 72; 74; 78, FRACCIONES IV, V Y VI; 80, TERCER PÁRRAFO; 90, PRIMER Y TERCER PÁRRAFO; 110, FRACCIÓN XII; 115, FRACCIÓN IV Y XIII; 126, FRACCIÓN IV; 131, PRIMER PÁRRAFO; 132; 133; 168; 204; 224; 225, FRACCIONES I, II, III Y IV; 230; 233; 238, FRACCIONES I Y III; 251, FRACCIONES XII, XX Y XXI; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 5; LAS FRACCIONES XXVIII BIS, XLV BIS, XLVI BIS, LXIV BIS, LXV BIS Y LXVIII BIS AL ARTÍCULO 9; LAS FRACCIONES LXIV Y LXV AL ARTÍCULO 12; UNA FRACCIÓN XII AL ARTÍCULO 37; UN TERCER PÁRRAFO AL ARTÍCULO 40; UN TERCER PÁRRAFO AL ARTÍCULO 61; UNA FRACCIÓN VII AL ARTÍCULO 67; UN ARTÍCULO 69 BIS; UNA FRACCIÓN VII AL ARTÍCULO 78; UN CUARTO PÁRRAFO AL ARTÍCULO 80; UN SEGUNDO PÁRRAFO AL ARTÍCULO 90¸ RECORRIENDO EL SUBSECUENTE; UNA FRACCIÓN XIV Y XV AL ARTÍCULO 115; LAS FRACCIONES VII Y VIII AL ARTÍCULO 131; UNA FRACCIÓN XI AL ARTÍCULO 227; Y UNA FRACCIÓN XXII AL ARTÍCULO 251; Y SE DEROGA LOS ARTÍCULOS 148, 149, 150, 151, 152 Y 153 DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO”.]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero.- La Persona titular de la Jefatura de Gobierno contará con un plazo de 180 días naturales, a partir de la entrada en vigor del presente Decreto, para reformar el Reglamento de la Ley de Movilidad de la Ciudad de México y demás lineamientos y disposiciones de carácter administrativo, conforme a las reformas aprobadas en el presente Decreto.
+
+Cuarto.- A efecto de que los permisionarios y concesionarios cumplan con lo previsto en los artículos 90 y 110, fracción XII, relativos a tener una póliza de seguro emitida por una Institución de Seguros, tendrán un plazo de 80 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+Quinto.- Los trabajadores que forman parte del Órgano Regulador de Transporte, se seguirán rigiendo por el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y de ninguna forma resultarán afectados en sus derechos laborales y de seguridad social.
+
+Los recursos financieros, materiales, humanos, cargas, compromisos y bienes en general del Órgano Regulador de Transporte, sin más trámite o formalidad continúan formando parte de su patrimonio.
+
+Sexto.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
