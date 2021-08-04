@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2021-03-02"
+last_updated: "2021-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2021.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -8043,6 +8043,24 @@ ARTICULO 1,391.- Cuando no haya disposiciones especiales, los legatarios se regi
 
 ARTICULO 1,392.- El legado puede consistir en la prestación de la cosa o en la de algún hecho o servicio.
 
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+ARTICULO 1,392 Bis.- El legado también puede consistir en la titularidad sobre bienes o derechos digitales almacenados en algún equipo de cómputo, servidor, plataforma de resguardo digital, dispositivo electrónico, redes sociales o dispositivos físicos utilizados para acceder a un recurso restringido electrónicamente, los cuales pueden consistir en:
+
+I. Cuentas de correo electrónico, sitios, dominios y direcciones electrónicas de internet, archivos electrónicos tales como imágenes, fotografías, videos, textos; y
+
+II. Claves y contraseñas de cuentas bancarias o de valores, aplicaciones de empresas de tecnología financiera de los que el testador sea titular o usuario y para cuyo acceso se requiera de un nombre o clave de usuario, clave y contraseña.
+
+Los bienes o derechos digitales serán independientes de su valor económico y contenido determinable.
+
+Los datos necesarios para el acceso a los bienes o derechos digitales podrán ser resguardados por el mismo notario en el apéndice del instrumento correspondiente al testamento o en el caso de la actuación digital notarial a que se refiere la Ley del Notariado para la Ciudad de México, en un sistema de almacenamiento permanente.
+
+El testador podrá nombrar a un ejecutor especial que, constatado que se trató del último testamento otorgado y su validez fue reconocida, estará facultado para que se le proporcione la información correspondiente a los accesos de los bienes o derechos digitales y proceda según las indicaciones del testador.
+
+La gestión de la información a que se refiere el primer párrafo de este artículo no implicará que el ejecutor especial sea titular de dichos bienes o derechos digitales o que pueda disponer de ellos, salvo disposición del testador.
+
+Si el testador no dispuso sobre el tratamiento de su información personal almacenada en registros electrónicos públicos y privados, incluyendo imágenes, audio, video, redes sociales y cualquier método de búsqueda de internet o, en su caso, ordenó su eliminación, una vez que se tenga certeza de que se trata del último testamento y se haya declarado la validez del mismo, el albacea o el ejecutor especial procederá de inmediato a solicitar su eliminación a las instituciones públicas y/o privadas que conserven dicha información a fin de salvaguardar el derecho al olvido a favor del autor de la sucesión, salvo disposición expresa de éste.
+
 ARTICULO 1,393.- No produce efecto el legado si por acto del testador pierde la cosa legada la forma y denominación que la determinaban.
 
 ARTICULO 1,394.- El testador puede gravar con legados no sólo a los herederos, sino a los mismos legatarios.
@@ -8379,7 +8397,65 @@ En este caso el intérprete podrá intervenir, además, como testigo de conocimi
 
 ARTICULO 1,519.- Las formalidades expresadas en este capítulo se practicarán en un solo acto que comenzará con la lectura del testamento y el notario dará fe de haberse llenado aquéllas.
 
-ARTICULO 1,520.- (DEROGADO, G.O. 23 DE JULIO DE 2012)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE AGOSTO DE 2021)</small>
+
+ARTICULO 1,520.- El testamento público abierto también podrá otorgarse ante notario en el ámbito de su actuación digital, de conformidad con las disposiciones aplicables de la Ley del Notariado para la Ciudad de México.
+
+El notario, en el ámbito de su actuación digital, y de conformidad con la Ley del Notariado para la Ciudad de México, redactará las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste su conformidad o, en su caso, también podrá reenviar el archivo electrónico al testador a efecto de que sea leído por él mismo, cualquiera de estas dos circunstancias se hará constar en el testamento.
+
+Una vez que el testador estuviese conforme, lo hará saber al notario y procederá a firmar el testamento, haciendo uso de su Firma Electrónica Avanzada reconocida conforme a la Ley del Notariado para la Ciudad de México.
+
+Se tendrá como fecha y hora de otorgamiento del testamento la que aparezca en el estampado de la hora correspondiente a la Firma Electrónica Avanzada reconocida por la Ley del Notariado para la Ciudad de México y como lugar la Ciudad de México.
+
+(NOTA: EL 8 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 135/2021, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA CIUDAD DE MÉXICO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+ARTICULO 1,520 Bis.- El testamento público abierto también podrá realizarse por medios electrónicos, siempre que el testador cuente con la posibilidad de comunicarse con el notario a través de un dispositivo electrónico y el notario pueda ver Y OÍR al testador, ASÍ COMO HABLAR CON ÉL de manera directa, simultánea y en tiempo real durante todo el acto del otorgamiento. Lo anterior se actualizará cuando el testador se encuentre en alguno de los siguientes supuestos:
+
+I. Ante peligro inminente de muerte;
+
+II. Sufra al momento una enfermedad grave o contagiosa;
+
+III. Haya sufrido lesiones que pongan en riesgo su vida; o
+
+IV. Se encuentre en un lugar al que, por una situación excepcional, no se pueda acceder en persona.
+
+(NOTA: EL 8 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 135/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA CIUDAD DE MÉXICO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+EN CASO DE QUE EL TESTADOR SE ENCUENTRE EN ALGUNO DE LOS SUPUESTOS A QUE SE REFIEREN LOS ARTÍCULOS 1515, 1516 O 1517, NO PODRÁ LLEVARSE A CABO ESTA MODALIDAD DEL TESTAMENTO PÚBLICO ABIERTO.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+ARTICULO 1,520 Ter.- Para el otorgamiento del testamento público abierto descrito en el artículo 1520 bis se observará lo siguiente:
+
+I. Si las circunstancias lo permiten, el testador podrá haber hecho con anterioridad, del conocimiento del notario el contenido de su voluntad por cualquier medio.
+
+II. La asistencia de dos testigos que, a solicitud del testador o del notario, estén físicamente junto al testador y a la vista del notario.
+
+(NOTA: EL 8 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 135/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA CIUDAD DE MÉXICO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+III. La voluntad del testador debe expresarse al notario DE VIVA VOZ, de modo claro y terminante o, en caso de la fracción I, con la misma claridad y definitividad le ratificará lo que le hubiera hecho saber previamente. Asimismo, manifestará que se localiza en la Ciudad de México y que se encuentra libre de coacción.
+
+IV. El notario deberá grabar en cualquier dispositivo electrónico, de manera nítida e ininterrumpidamente esta manifestación. El acto constará en audio y video desde el inicio de la lectura del testamento hasta la manifestación del testador señalando su absoluta conformidad respecto a las disposiciones establecidas y las explicaciones que hubiese solicitado el otorgante con relación al contenido y efectos legales de las mismas. La lectura del testamento podrá realizarse por el testador, el notario o, en su caso, alguno de los testigos presentes.
+
+V. El notario dejará constancia en el instrumento de los hechos relevantes que a su juicio motivaron que el testamento se otorgará en las circunstancias expuestas, así como del entorno observado por él en todo el tiempo en que el acto tuvo lugar.
+
+VI. En el instrumento respectivo el notario deberá certificar lo siguiente:
+
+a) En su concepto y, en su caso, en el de los testigos el testador tiene plenitud de juicio para el otorgamiento y el medio por el cual se cercioró de su identidad;
+
+b) Que procuró, por todos los medios razonables a su alcance, cerciorarse que nadie coaccionó al testador, así como que el propio testador le manifestó estar libre de coacción durante todo el acto; y
+
+(NOTA: EL 8 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 135/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO C) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA CIUDAD DE MÉXICO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+c) Cuál de los supuestos considerados en el artículo 1520 bis fue el que se actualizó para el caso concreto, ASÍ COMO QUE EL TESTADOR NO SE ENCUENTRA EN NINGUNO DE LOS CASOS A LOS QUE SE REFIEREN LOS ARTÍCULOS 1515, 1516 O 1517 DEL PRESENTE CÓDIGO.
+
+VII. En la redacción y asiento del instrumento correspondiente, el notario observará las disposiciones a que se refiere el presente Capítulo, en los términos del artículo 1519. Las formalidades se practicarán en acto continuo que comenzará con la lectura del testamento, pero sin necesidad de que el testador y, en su caso, los testigos firmen. El notario lo autorizará con su firma y sello.
+
+VIII. El notario resguardará en el apéndice del instrumento, a través de cualquier medio digital inalterable, el archivo que contenga la grabación del audio y video a que se refiere la fracción IV de este artículo, que servirá como complemento de la fe documental de dicho acto.
+
+En caso de que el testamento que se regula en este artículo fuera declarado nulo por falsedad de las manifestaciones realizadas por el testador, por alguno de los testigos o por vicios de la voluntad, el notario ante quien se hubiese otorgado no tendrá responsabilidad alguna; siempre que haya cumplido con las formalidades descritas en el presente artículo.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE JULIO DE 2012)</small>
 
@@ -9197,7 +9273,9 @@ ARTICULO 1,803.- El consentimiento puede ser expreso o tácito. Es expreso cuand
 
 ARTICULO 1,804.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
 
-ARTICULO 1,805.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+ARTICULO 1,805.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono o a través de medios electrónicos, ópticos o de cualquier otra tecnología que permita la expresión de la oferta y la aceptación de ésta en forma inmediata.
 
 ARTICULO 1,806.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
 
@@ -9209,7 +9287,11 @@ ARTICULO 1,809.- Si al tiempo de la aceptación hubiere fallecido el proponente,
 
 ARTICULO 1,810.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considera como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ARTICULO 1,811.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+
+Tratándose de la propuesta y aceptación hechas a través de medios electrónicos, ópticos o de cualquier otra tecnología no se requerirá de estipulación previa entre los contratantes para que produzca efectos.
 
 Vicios del consentimiento
 
@@ -9271,9 +9353,13 @@ ARTICULO 1,832.- En los contratos civiles cada uno se obliga en la manera y tér
 
 ARTICULO 1,833.- Cuando la ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
 
-ARTICULO 1,834.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+ARTICULO 1,834.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación ya sea en forma autógrafa, con el uso de la Firma Electrónica Avanzada o de la Firma Electrónica de la Ciudad de México.
 
 Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+
+En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante notario, dicho otorgamiento se hará en el protocolo ordinario o en el protocolo digital que tenga a su cargo en el ámbito de la actuación digital notarial en los términos establecidos por la Ley del Notariado para la Ciudad de México.
 
 División de los contratos
 
@@ -11953,7 +12039,15 @@ ARTICULO 2,673.- Las asociaciones se regirán por sus estatutos, los que deberá
 
 ARTICULO 2,674.- El poder supremo de las asociaciones reside en la asamblea general. El director o directores de ellas tendrán las facultades que les conceden los estatutos y la asamblea general, con sujeción a estos documentos.
 
-ARTICULO 2,675.- La asamblea general se reunirá en la época fijada en los estatutos o cuando sea convocada por la dirección. Esta deberá citar a asamblea cuando para ello fuere requerida por lo menos por el cinco por ciento de los asociados, o si no lo hiciere, en su lugar lo hará el juez de lo civil a petición de dichos asociados.
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
+ARTICULO 2,675.- La asamblea general se reunirá en la época fijada en los estatutos o cuando sea convocada por la dirección. Esta deberá citar a asamblea cuando para ello fuese requerida por lo menos por el cinco por ciento de los asociados, o si no lo hiciere, en su lugar lo hará el juez de lo civil a petición de dichos asociados.
+
+Los asociados podrán celebrar asambleas por medio de videoconferencia que permita la comunicación en tiempo real, siempre y cuando la convocatoria señale el medio electrónico por el cual se celebrará, indicando la dirección electrónica o número de la reunión y, en su caso, la contraseña.
+
+La reunión deberá grabarse y conservarse por el administrador u órgano de administración de la asociación y una copia de la grabación se agregará al acta respectiva. Podrá levantarse por escrito o en documento electrónico y será firmada por el Presidente y el Secretario de manera autógrafa o con su Firma Electrónica Avanzada.
+
+Asimismo, los asociados podrán adoptar resoluciones tomadas fuera de asamblea, las cuales serán válidas siempre que se tomen por unanimidad y se confirmen por escrito en documento físico o electrónico, ya sea con la firma autógrafa o con la Firma Electrónica Avanzada de la totalidad de los asociados.
 
 ARTICULO 2,676.- La asamblea general resolverá:
 
@@ -11967,9 +12061,9 @@ IV.- Sobre la revocación de los nombramientos hechos;
 
 V.- Sobre los demás asuntos que le encomienden los estatutos.
 
-ARTICULO 2,677.- Las asambleas generales sólo se ocuparán de los asuntos contenidos en la respectiva orden del día.
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
-Sus decisiones serán tomadas a mayoría de votos de los miembros presentes.
+ARTICULO 2,677.- Las asambleas generales sólo se ocuparán de los asuntos contenidos en la respectiva orden del día. Sus decisiones serán tomadas por mayoría de votos de los miembros presentes o a quienes hayan atendido la asamblea por videoconferencia y participado en la misma.
 
 ARTICULO 2,678.- Cada asociado gozará de un voto en las asambleas generales.
 
@@ -12083,7 +12177,15 @@ II.- Para empeñarlas, hipotecarlas o gravarlas con cualquier otro derecho real;
 
 III.- Para tomar capitales prestados.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+
 ARTICULO 2,713.- Las facultades que no se hayan concedido a los administradores, serán ejercitadas por todos los socios, resolviéndose los asuntos por mayoría de votos. La mayoría se computará por cantidades, pero cuando una sola persona represente el mayor interés y se trate de sociedades de más de tres socios, se necesita por lo menos el voto de la tercera parte de los socios.
+
+Los socios podrán celebrar asambleas por medio de videoconferencia, que permita la comunicación en tiempo real, siempre y cuando la convocatoria señale el medio electrónico por el cual se celebrará, indicando la dirección electrónica o número de la reunión y, en su caso, la contraseña.
+
+La reunión deberá grabarse y conservarse por el administrador u órgano de administración de la sociedad y una copia de la grabación se agregará al acta respectiva. Se levantará por escrito o en documento electrónico y será firmada por el Presidente y el Secretario, de manera autógrafa o firma electrónica avanzada.
+
+Asimismo, los socios podrán adoptar resoluciones tomadas fuera de asamblea, las cuales serán válidas siempre que se tomen por unanimidad y se confirmen por escrito en documento físico o electrónico, con la firma autógrafa o electrónica avanzada de la totalidad de los socios.
 
 ARTICULO 2,714.- Siendo varios los socios encargados indistintamente de la administración, sin declaración de que deberán proceder de acuerdo, podrá cada uno de éllos practicar separadamente los actos administrativos que crea oportunos.
 
@@ -14890,3 +14992,19 @@ TERCERO.- El Reglamento de la Ley de Gestión Integral de Riesgos y Protección 
 CUARTO.- Las Normas Técnicas, Términos de Referencia y Lineamientos a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo (sic).
 
 QUINTO.- La Plataforma Digital a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán (sic) en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo (sic).
+
+G.O. 4 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 1392 BIS, 1520 BIS, 1520 TER; Y SE REFORMAN LOS ARTÍCULOS 1520, 1805, 1811, 1834, 2675, 2677 Y 2713 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL Y SE ADICIONAN FRACCIONES I BIS, II BIS, VIII BIS, XXI BIS, XXIII BIS, XXVIII BIS AL ARTÍCULO 2, SE ADICIONA EL ARTÍCULO 7 BIS, UN PÁRRAFO AL ARTÍCULO 32, UNA FRACCIÓN AL ARTÍCULO 36, LOS ARTÍCULOS 76 BIS, 76 TER, 76 QUATER, 76 QUINQUIES, 84 BIS,100 BIS AL 100 VICIES, UN PÁRRAFO AL ARTÍCULO 109, 114 BIS, UN PÁRRAFO AL ARTÍCULO 139, UN PÁRRAFO AL 146, UN PÁRRAFO AL ARTÍCULO 169, UN PÁRRAFO AL ARTÍCULO 218, LOS ARTÍCULOS 234 BIS, 234 TER Y 258 BIS. Y SE REFORMAN LOS ARTÍCULOS 2, 4, 5, 7, 35, 56, 67, 76, 77, 78, 79, 80, 82, 84, 92, 95, 96, 97, 98, 99, 100, 101, 102, 103, 105, 106, 110, 111, 112,113, 115, 117, 118, 119, 123, 128, 131, 138, 148, 151, 154, 157, 158, 160, 166, 173, 174, 175, 176, 214, 216, 238, 247, 249, 252, 260, 261, 262, 264 Y 268 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación, con excepción de lo dispuesto en el Transitorio Tercero.
+
+TERCERO.- TERCERO.- (sic) Las disposiciones que se reforman y adicionan relacionadas con la Actuación Digital Notarial y conceptos correlativos tales como Protocolo Digital, Instrumento Electrónico, Apéndice del Instrumento Electrónico, Libro de Extractos, Firma Electrónica para la Actuación Digital Notarial y cualquier otro análogo o relacionado con dicha actuación contenidas en los artículos 1520 y el último párrafo del artículo 1834 del Código Civil para el Distrito Federal en lo relativo al protocolo digital, así como en los artículos 2°, 7°, 7 bis, 35, 76, 76 bis, 79, 80, 84, 96, 100 bis al 100 vicies, 101, 102, 103, 105, 109, 114 bis, 115, 117, 118, 119, 128, 131, 139, 146, 169, 173, 174, 176, 214, 216, 218 y 260 en sus fracciones XIV, XXXV y XXXVI bis, de la Ley del Notariado para la Ciudad de México entraran en vigor a los dos años a partir de la fecha de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO.- La Agencia Digital de Innovación Pública contará con un plazo de hasta dos años, contados a partir de la publicación de la presente Ley, a efecto de realizar las adecuaciones técnicas para el desarrollo de las herramientas tecnológicas previstas en la presente Ley.
+
+QUINTO.- Una vez habilitada la Estrategia de Firma Electrónica de la Ciudad de México el Colegio de Notarios de la Ciudad de México incorporará su utilización en el Sistema Informático prefiriéndolo frente a otros certificados digitales.
+
+SEXTO.- En un término de 180 días hábiles, la persona titular de la Jefatura de Gobierno deberá armonizar los Reglamentos relacionados con la entrada en vigor del presente Decreto.
