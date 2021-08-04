@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-del-estado-de-zacatecas-117705"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-03"
-last_updated: "2019-08-24"
+last_updated: "2021-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE SEPTIEMBRE DE 2021 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de diciembre de 2016.
 
@@ -81,17 +83,25 @@ IX. Ley: Ley Orgánica del Municipio del Estado de Zacatecas;
 
 X. Ley de Disciplina Financiera: Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-XI. Presidente Municipal: a la presidenta o presidente integrante del Ayuntamiento, responsable de la ejecución de las determinaciones, disposiciones y acuerdos del Ayuntamiento y quien tiene la representación administrativa y en algunos casos la jurídica;
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2021)</small>
 
-XII. Regidores: a las regidoras o regidores integrantes del Ayuntamiento encargados de acordar las decisiones para la buena marcha de los intereses del Municipio;
+XI. Ley General: Ley General de Responsabilidades Administrativas;
 
-XIII. Servicios públicos: son toda actividad destinada a satisfacer las necesidades básicas de la población en distintos rubros, a través de la prestación de un servicio de la autoridad pública, de particulares o de ambos;
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2021)</small>
 
-XIV. Síndico Municipal: a la síndica o síndico integrante del Ayuntamiento encargado de vigilar los aspectos financiero y jurídico;
+XII. Órgano Interno de Control: unidad administrativa con autonomía técnica a cargo de promover, evaluar, vigilar, y fortalecer el funcionamiento eficaz del control interno de los entes públicos municipales y sus organismos descentralizados e intermunicipales de conformidad a la Ley de (sic) General (sic) Responsabilidades Administrativas y la normatividad en la materia;
 
-XV. Sistema municipal DIF: Sistema Municipal para el Desarrollo Integral de la Familia; y
+XIII. Presidente Municipal: a la presidenta o presidente integrante del Ayuntamiento, responsable de la ejecución de las determinaciones, disposiciones y acuerdos del Ayuntamiento y quien tiene la representación administrativa y en algunos casos la jurídica;
 
-XVI. Zona metropolitana: la que se integra por los municipios de Zacatecas, Guadalupe, Calera, General Enrique Estrada, Morelos y Fresnillo.
+XIV. Regidores: a las regidoras o regidores integrantes del Ayuntamiento encargados de acordar las decisiones para la buena marcha de los intereses del Municipio;
+
+XV. Servicios públicos: son toda actividad destinada a satisfacer las necesidades básicas de la población en distintos rubros, a través de la prestación de un servicio de la autoridad pública, de particulares o de ambos;
+
+XVI. Síndico Municipal: a la síndica o síndico integrante del Ayuntamiento encargado de vigilar los aspectos financiero y jurídico;
+
+XVII. Sistema municipal DIF: Sistema Municipal para el Desarrollo Integral de la Familia; y
+
+XVIII. Zona metropolitana: la que se integra por los municipios de Zacatecas, Guadalupe, Calera, General Enrique Estrada, Morelos y Fresnillo.
 
 Municipio Libre
 
@@ -643,9 +653,17 @@ II. Para celebrar actos o convenios que comprometan al Municipio o a sus finanza
 
 III. Para que el gobierno estatal asuma una función o servicio municipal, sin el convenio correspondiente, debe mediar solicitud del Ayuntamiento;
 
-IV. Para la aprobación de los acuerdos de coordinación o asociación municipal; y
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
 
-V. Para crear, modificar o extinguir entidades paramunicipales.
+IV. Para la aprobación de los acuerdos de coordinación o asociación municipal;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
+
+V. Para crear, modificar o extinguir entidades paramunicipales, y
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2021)</small>
+
+VI. Designar y remover al titular del Órgano Interno de Control.
 
 Comparecencia de servidores públicos
 
@@ -697,9 +715,13 @@ a) Rendir a la población, por conducto del Presidente Municipal, el informe anu
 
 b) Rendir a los Poderes del Estado los informes que les soliciten sobre cualquier asunto de su competencia;
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE AGOSTO DE 2021)</small>
 
-c). Nombrar a los titulares de la Secretaría de Gobierno Municipal, Tesorería y direcciones de todas las dependencias de la administración pública centralizada y descentralizada del Municipio, los cuales podrán permanecer en su encargo hasta por el periodo de duración de la administración pública que los nombró o bien, podrán ser nombrados por un plazo menor, de la terna propuesta por el Presidente Municipal, y removerlos por causa justificada, así como designar y remover al titular de la Contraloría Municipal y de la Unidad de Transparencia en los términos de la presente ley. En la integración de las ternas se procurará la equidad de género;
+c) Nombrar a los titulares de la Secretaría de Gobierno Municipal, Tesorería y direcciones de todas las dependencias de la administración pública centralizada y descentralizada del Municipio, los cuales podrán permanecer en su encargo hasta por el periodo de duración de la administración pública que los nombró o bien, podrán ser nombrados por un plazo menor, de la terna propuesta por el Presidente Municipal, y removerlos por causa justificada, así como designar y remover al titular de la Unidad de Transparencia en los términos de la presente ley. En la integración de las ternas se procurará observar el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2021)</small>
+
+En el caso del titular de la Unidad de Transparencia su remoción solo procederá por faltas graves, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Responsabilidades Administrativas, la Constitución Política del Estado, el Código Penal para el estado, y las demás leyes aplicables;
 
 d) Nombrar representantes y apoderados generales o especiales sin perjuicio de las facultades que esta ley confiere a la Síndica o Síndico Municipal;
 
@@ -1311,7 +1333,9 @@ X. Proponer ante la Tesorería, la Síndica o Síndico Municipal y el Cabildo, p
 
 XI. Vigilar y evaluar la aplicación y cumplimiento del Plan Municipal de Desarrollo y de los programas operativos anuales;
 
-XII. Solicitar, en coordinación con la Contraloría Municipal, informes a empresas, instituciones o asociaciones públicas y privadas que reciban y manejen recursos económicos del Municipio para constatar que su destino sea conforme al programa que lo autorizó;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
+
+XII. Solicitar, en coordinación con el Órgano Interno de Control, la supervisión de los avances y entrega de obras que el municipio contrata con las empresas y proveedores del ayuntamiento, así como los informes a empresas, instituciones o asociaciones públicas y privadas que reciban y manejen recursos económicos del Municipio para constatar que su destino sea conforme al programa que lo autorizó;
 
 XIII. Concurrir a las ceremonias cívicas y a los demás actos para los que fueren citados por el Presidente Municipal o por el Cabildo;
 
@@ -1365,7 +1389,11 @@ X. Igualdad de Género;
 
 XI. Transparencia y Acceso a la Información Pública; y
 
-XII. Otras ramas de la administración, por determinación del Ayuntamiento y de acuerdo con las necesidades del Municipio.
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2021)</small>
+
+XII. Combate a la Corrupción, y
+
+XIII. Otras ramas de la administración, por determinación del Ayuntamiento y de acuerdo con las necesidades del Municipio.
 
 Los presidentes de Comisiones deberán presentar, dentro de los sesenta días posteriores a la integración, para la aprobación del Cabildo, un programa general de trabajo, a desarrollar durante el periodo constitucional para el que fueron electos.
 
@@ -1445,13 +1473,17 @@ Integración de la administración municipal
 
 El Ayuntamiento, para el ejercicio de sus atribuciones, se auxiliará de las dependencias y organismos que integran la administración pública municipal centralizada y paramunicipal.
 
-Cada Ayuntamiento contará con una Secretaría de Gobierno Municipal, una Tesorería, una Contraloría, en su caso, las direcciones que esta ley señala, y los servidores públicos que la administración municipal requiera y señale el Reglamento Interior conforme al presupuesto respectivo.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2021)</small>
+
+Cada Ayuntamiento contará con una Secretaría de Gobierno Municipal, una Tesorería y un Órgano Interno de Control y. en su caso, las direcciones que esta ley señala, y los servidores públicos que la administración municipal requiera y señale el Reglamento Interior conforme al presupuesto respectivo.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2021)</small>
 
 Nombramiento de titulares
 
 ###### Artículo 96.
 
-Los nombramientos de los titulares de la administración municipal, excepto la Contraloría, los expedirá el Ayuntamiento a propuesta de ternas que formule el Presidente Municipal, las cuales se procurará se integren con equidad de género.
+Los nombramientos de los titulares de la administración municipal, excepto el Órgano Interno de Control, los expedirá el Ayuntamiento a propuesta de ternas que formule el Presidente Municipal, las cuales se integrarán con base en el principio de paridad de género.
 
 Dependencias y organismos
 
@@ -1471,7 +1503,9 @@ I. Secretaría de Gobierno Municipal;
 
 II. Tesorería Municipal;
 
-III. Contraloría Municipal;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
+
+III. Órgano Interno de Control;
 
 IV. Dirección de Desarrollo Económico y Social;
 
@@ -1635,55 +1669,79 @@ XXV. Formular la Cuenta Pública correspondiente al ejercicio fiscal anterior, c
 
 XXVI. Las demás que le asigne el Ayuntamiento.
 
-### Capítulo IV. Contraloría Municipal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2021)</small>
 
-Designación de la Contraloría municipal
+### Capítulo V (SIC). Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2021)</small>
+
+Designación del Órgano Interno de Control
 
 ###### Artículo 104.
 
-La vigilancia, el control interno, la supervisión, evaluación del ejercicio de los recursos, la disciplina financiera y presupuestaria, así como el funcionamiento administrativo de los Municipios estarán a cargo de la Contraloría Municipal, cuyo titular será designado por el Ayuntamiento conforme a la terna que proponga la primera minoría de regidores integrantes del Cabildo.
+El titular del Órgano Interno de Control será designado por el Ayuntamiento conforme a la terna que proponga la primera minoría de regidores integrantes del Cabildo, procurando el acceso a la función pública con base en el mérito, bajo un proceso transparente, objetivo y equitativo.
 
-La primera minoría es la conformada por el partido político que, por sí mismo, hubiere ocupado el segundo lugar de la votación válida emitida en la respectiva elección municipal.
+La primera minoría es la conformada por los regidores del partido político que, por sí mismo, hubiere ocupado el segundo lugar de la votación válida emitida en la respectiva elección municipal.
 
-La propuesta deberá presentarse dentro de un plazo de diez días hábiles, contados a partir de la instalación del Ayuntamiento.
+En el caso de los ayuntamientos donde la primera minoría haya obtenido como resultado de la elección derecho a uno o dos regidores, la terna deberá presentarse por la totalidad de los mismos; cuando hayan obtenido tres regidores deberá presentarse, al menos, por dos regidores; en el supuesto de haber obtenido cuatro regidores, deberá formularse, al menos, por tres regidores; para el caso de que haya obtenido cinco regidores, la terna deberá presentarse, al menos por cuatro regidores y, finalmente, cuando se hayan obtenido seis regidores, deberá presentarse por cinco regidores.
 
-El Presidente Municipal deberá convocar a sesión de Cabildo, dentro del plazo señalado en el párrafo anterior, para designar al titular de la Contraloría Municipal. La sesión se llevará a cabo aunque no se haya recibido la propuesta.
+La propuesta deberá presentarse dentro de un plazo de diez días hábiles, contados a partir de la instalación del Ayuntamiento. La terna se presentará mediante oficio dirigido al presidente municipal con la firma autógrafa del número de regidores que corresponda, de acuerdo con lo precisado en el párrafo anterior.
 
-Sólo en caso de que la primera minoría no presente la propuesta dentro del plazo de diez días referido, el Presidente Municipal podrá proponer la terna para elegir el titular de la Contraloría. En tal caso, el Cabildo hará la designación por mayoría calificada.
+El Presidente Municipal deberá convocar a sesión de Cabildo, dentro del plazo señalado en el párrafo anterior, para designar al titular del Órgano Interno de Control. La sesión se llevará a cabo aunque no se haya recibido la propuesta.
 
-Cuando por cualquier causa se presente la ausencia o remoción del titular de la Contraloría, la primera minoría conserva el derecho de presentar nueva terna para cubrir el cargo.
+Sólo en caso de que la primera minoría no presente la propuesta dentro del plazo de diez días referido, el Presidente Municipal podrá proponer la terna para elegir el titular del Órgano Interno de Control. En tal caso, el Cabildo hará la designación por mayoría calificada.
 
-El Contralor no podrá ser designado para dos períodos consecutivos.
+Cuando por cualquier causa se presente la ausencia o remoción del titular del Órgano Interno de Control, la primera minoría conserva el derecho de presentar nueva terna para cubrir el cargo.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+En el caso de que alguno o algunos de los integrantes de la terna resulten inelegibles, o bien, cuando no alcancen la votación requerida, la primera minoría conservará el derecho de presentar nueva terna para cubrir el cargo, en los plazos establecidos en el presente Capítulo.
 
-Artículo 104 BIS. La Contraloría Municipal, para efecto de cumplir con sus atribuciones, contará por lo menos con las siguientes áreas:
+El titular del Órgano Interno de Control no podrá ser designado para otro período.
 
-I. Auditoría;
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2021)</small>
 
-II. Quejas y Denuncias;
+Artículo 104 BIS. El Órgano Interno de Control, para efecto de cumplir con sus atribuciones, contará por lo menos con las siguientes áreas:
 
-III. Control de Obra Pública, y
+I. Investigación;
 
-IV. Responsabilidades.
+II. Substanciación, y
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+III. Resolución.
 
-Artículo 104 TER. Además de los previstos en el artículo 99 de esta Ley, para ser Contralor Municipal se requiere:
+El titular del Órgano Interno de Control designará y removerá a los titulares de las áreas que lo integran.
 
-I. No haber sido dirigente de partido político ni candidato durante la elección del Ayuntamiento en funciones; y
+Los nombramientos de las áreas de investigación y substanciación no podrán recaer en una sola persona.
 
-II. No haber sido integrante del Ayuntamiento saliente.
+El titular del Órgano Interno de Control será el titular el (sic) área resolutora.
 
-Facultades de la Contraloría Municipal
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 104 TER. Además de los previstos en el artículo 99 de esta Ley, para ser titular del Órgano Interno de Control, así como titular de las áreas de investigación y substanciación, se requiere:
+
+I. No haber sido ministro de algún culto religioso en los cinco años anteriores a su designación;
+
+II. Contar al día de su designación con cédula profesional, con nivel mínimo de licenciatura en las áreas de derecho, contaduría u otras áreas a fines;
+
+III. En los casos de los titulares de las áreas de investigación y substanciación deberán contar con experiencia profesional de cuando menos tres años en el control, manejo, fiscalización de recursos y responsabilidades administrativas, y
+
+IV. No haber sido candidato a presidente, síndico o regidor en la elección inmediata anterior.
+
+> <small>(REFORMADO EN SU PROEMIO, P.O. 4 DE AGOSTO DE 2021)</small>
+
+Facultades del Órgano Interno de Control
 
 ###### Artículo 105.
 
 Son facultades y obligaciones del titular de la Contraloría Municipal:
 
-I. Vigilar y verificar el uso correcto de los recursos propios, así como los que la Federación y el Estado transfieran al Municipio, de conformidad con la normatividad establecida en materia de control y evaluación;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
 
-II. Inspeccionar el gasto público municipal y su congruencia con el Presupuesto de Egresos;
+I. Vigilar, verificar y revisar el ingreso, egreso, manejo, custodia y aplicación de los recursos propios, así como los que la Federación y el Estado transfieran al Municipio, de conformidad a la Ley General, y la normatividad establecida en materia de control y evaluación;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
+
+II. Inspeccionar el gasto público municipal y su congruencia con el Presupuesto de Egresos, así como el Programa presupuestario;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE AGOSTO DE 2021)</small>
 
 III. Inspeccionar y vigilar que las dependencias y entidades de la administración pública municipal cumplan con las normas y disposiciones en materia de:
 
@@ -1693,27 +1751,91 @@ b) Contratación, basificación y pago de personal;
 
 c) Contratación de servicios y obra pública; y
 
-d) Adquisición, arrendamientos, conservación, uso, afectación, enajenación y baja de bienes muebles e inmuebles, registro, valuación y valoración del patrimonio, almacenes y demás activos y recursos materiales de la administración municipal;
+d) Adquisición, arrendamientos, conservación, uso, afectación. enajenación y baja de bienes muebles e inmuebles, registro, valuación y valoración del patrimonio, almacenes y demás activos y recursos materiales de la administración municipal;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE AGOSTO DE 2021)</small>
 
 IV. Auditar y vigilar el cumplimiento de las disposiciones en materia de planeación, presupuesto, ingresos, contabilidad gubernamental, financiamiento, inversión, deuda, patrimonio, fondos, valores y exenciones o deducciones de impuestos o derechos municipales, por parte de la administración municipal;
 
-V. Atender las quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebren con la administración municipal, de conformidad con las normas que al efecto se emitan por el Ayuntamiento;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
 
-VI. Coadyuvar con la Auditoría Superior del Estado, para que los servidores públicos municipales que deban hacerlo, presenten oportunamente sus declaraciones de situación patrimonial;
+V. Recibir y atender las denuncias que presenten los servidores públicos o particulares con motivo de los actos de corrupción de conformidad con la Ley General;
 
-VII. Conocer e investigar los hechos u omisiones de los servidores públicos municipales que no sean miembros del Cabildo, para que el Ayuntamiento decida si se fincan o no, responsabilidades administrativas;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
 
-VIII. Aportar al Síndico Municipal los elementos suficientes para que se hagan las denuncias correspondientes ante el Ministerio Público, en caso de probable delito;
+VI. Recibir y registrar las declaraciones patrimoniales y de interés, y la constancia de declaración fiscal, que presenten los servidores públicos municipales, fijando las normas, criterios y formatos oficiales para el cumplimiento de dicha obligación de conformidad a la Ley General;
 
-IX. Verificar el cumplimiento del Plan Municipal de Desarrollo y los programas operativos;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
 
-X. Programar y practicar auditorías a las dependencias y entidades de la administración pública municipal informando del resultado al Cabildo y a la Auditoría Superior del Estado, para que en su caso, se finquen las responsabilidades correspondientes;
+VII. Coadyuvar con la Auditoría Superior del Estado y la Fiscalía General, en la investigación derivado de denuncias de los actos de corrupción de servidores públicos o particulares de conformidad con la Ley General;
 
-XI. Revisar y verificar la información financiera, presupuestal y programática, así como las cuentas públicas;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
 
-XII. Informar trimestralmente al Ayuntamiento y a la Auditoría Superior del Estado sobre las acciones y actividades de la Contraloría; y
+VIII. Conocer e investigar los hechos u omisiones de los servidores públicos municipales que no sean miembros del Cabildo;
 
-XIII. Las demás que le señalen otras disposiciones jurídicas sobre la materia, reglamentos y acuerdos del Ayuntamiento.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
+
+IX. Verificar el cumplimiento del Plan Municipal de Desarrollo y los programas presupuestarios;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
+
+X. Intervenir en los actos de entrega-recepción de los servidores públicos en los términos de la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
+
+XI. Formular, conjuntamente con el área de tesorería o su equivalente, el anteproyecto de presupuesto del Órgano Interno de Control;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
+
+XII. Presentar al ayuntamiento el programa anual de trabajo;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
+
+XIII. Implementar mecanismos internos que permitan investigar, substanciar y calificar actos u omisiones que pudieran derivar en faltas graves y no graves y que puedan constituir responsabilidades administrativas en términos de la Ley General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
+
+XIV. Presentar las denuncias por hechos que las leyes señalan como delitos ante la Fiscalía correspondiente, así como por las conductas administrativas a que refiere la Ley General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
+
+XV. En el caso de las faltas administrativas no graves, podrán imponer sanciones a servidores públicos en términos de la Ley General y notificarlas al Ayuntamiento o a la Auditoría Superior del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
+
+XVI. Tramitar y resolver el recurso de revocación en los casos de faltas administrativas no graves en términos de la Ley General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
+
+XVII. Programar y practicar auditorías a las dependencias y entidades de la administración pública municipal informando del resultado al Cabildo y a la Auditoría Superior del Estado e instaurar los procedimientos necesarios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
+
+XVIII. Verificar que el ayuntamiento cumpla con el envío de la cuenta pública anual, los informes mensuales y trimestrales a los que se refiere la Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
+
+XIX. Revisar y verificar la información financiera, presupuestal y programática, así como las cuentas públicas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
+
+XX. Informar trimestralmente al Ayuntamiento y a la Auditoría Superior del Estado sobre las acciones y actividades del Órgano Interno de Control; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2021)</small>
+
+XXI. Las demás que le señalen la Ley General y otras disposiciones jurídicas sobre la materia, reglamentos y acuerdos del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 105 BIS. El titular del Órgano Interno de Control durante su encargo no podrá:
+
+I. Desempeñar otro empleo, cargo o comisión, excepto los relacionados con la docencia, asociaciones científicas, artísticas o de beneficencia, y
+
+II. Participar en actos políticos y realizar cualquier tipo de propaganda política en lugares de trabajo y durante los horarios establecidos para el desempeño de su función.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2021)</small>
+
+Artículo 105 TER. El procedimiento de Responsabilidades Administrativas por faltas no graves, incluida la investigación, se sujetará a las disposiciones de la Ley General y solo procederán los Incidentes y recursos que dicha ley establece.
 
 ### Capítulo V. Dirección de Desarrollo Económico y Social
 
@@ -2407,7 +2529,9 @@ d) El titular de la Tesorería Municipal;
 
 II. Un titular de la Dirección, designado por el Ayuntamiento como resultado de la terna que al efecto le proponga la Junta de Gobierno; y
 
-III. Un Comisario, que será nombrado por el Ayuntamiento de una terna presentada por la Contraloría Municipal conformada por personal de su adscripción.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
+
+III. Un Comisario, que será nombrado por el Ayuntamiento de una terna presentada por el Órgano Interno de Control conformada por personal de su adscripción.
 
 La persona que presida la Junta de Gobierno tendrá el carácter de honorífico, quien no podrá recibir remuneración o compensación alguna.
 
@@ -2881,21 +3005,27 @@ II. Un representante de las dependencias o entidades de la administración públ
 
 III. Un representante de la Tesorería Municipal;
 
-IV. Un representante de la Contraloría Municipal; y
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2021)</small>
+
+IV. Un representante del Órgano Interno de Control; y
 
 V. Un representante del fiduciario.
 
 Por cada miembro propietario del Comité Técnico habrá un suplente que lo cubrirá en sus ausencias.
 
-El representante de la Contraloría Municipal participará con voz, pero sin voto.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2021)</small>
+
+El representante del Órgano Interno de Control participará con voz, pero sin voto.
 
 Los miembros del Comité Técnico serán nombrados y removidos por el Ayuntamiento, a excepción del representante fiduciario, cuyo nombramiento y remoción corresponderá a la institución fiduciaria.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2021)</small>
 
 Control y evaluación
 
 ###### Artículo 180.
 
-Tratándose de fideicomisos públicos, para llevar a cabo su control y evaluación, se establecerá en su contrato constitutivo la facultad de la Contraloría Municipal para vigilar y verificar el uso correcto de los recursos públicos, sin perjuicio de las facultades de fiscalización de la Legislatura del Estado.
+Tratándose de fideicomisos públicos, para llevar a cabo su control y evaluación, se establecerá en su contrato constitutivo la facultad del Órgano Interno de Control para vigilar y verificar el uso correcto de los recursos públicos, sin perjuicio de las facultades de fiscalización de la Legislatura del Estado.
 
 ## TÍTULO SÉPTIMO. PATRIMONIO MUNICIPAL
 
@@ -4150,3 +4280,15 @@ P.O. 24 DE AGOSTO DE 2019.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 698.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Artículo Tercero. Las menciones que se hagan en otras leyes a la contraloría municipal, se entenderán hechas al Órgano Interno de Control.
+
+Artículo Cuarto. Los municipios deberán adecuar su normatividad interna a las disposiciones del presente Decreto en el plazo de noventa días, contado a partir de su entrada en vigor.
