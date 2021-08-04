@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2021-04-16"
+last_updated: "2021-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2021.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -839,9 +839,17 @@ Si el Congreso estuviere en período extraordinario de sesiones cuando deba come
 
 El quince de noviembre de cada año, el Ejecutivo del Estado enviará al Congreso del Estado un informe por escrito sobre la situación que guarda la Administración Pública.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2021)</small>
 
-El Congreso del Estado realizará el análisis del informe y podrá solicitar al titular del Ejecutivo del Estado ampliar la información mediante preguntas por escrito y citar a los secretarios de Despacho y a los directores de las entidades paraestatales, quienes comparecerán y rendirán informes bajo protesta de decir verdad. La Ley Orgánica del Congreso regulará el ejercicio de esta facultad.
+Durante el periodo ordinario de sesiones en que se reciba el informe, el Congreso, conforme a las formalidades que establezca su Ley Orgánica, celebrará reunión de trabajo con la persona Titular del Poder Ejecutivo del Estado y citará a comparecer, bajo protesta de decir verdad, a las y los titulares de la Administración Pública Estatal y Paraestatal, para la valoración y análisis del informe rendido.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2021)</small>
+
+El informe estará alineado al Plan Estatal de Desarrollo conforme a los programas de la Administración Pública y el avance del ejercicio fiscal correspondiente con detalle al cierre al mes de septiembre, sin menoscabo de las disposiciones de esta Constitución en materia de cuentas públicas.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2021)</small>
+
+En el año que concluya el ejercicio constitucional de gobierno, el informe se enviará al Congreso el cinco de septiembre.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1961)</small>
 
@@ -4560,3 +4568,23 @@ La Junta Local de Conciliación y Arbitraje deberá transferir los procedimiento
 ###### ARTÍCULO OCTAVO.
 
 Los recursos humanos, materiales y financieros que le pertenecen a la Junta Local de Conciliación y Arbitraje pasarán a formar parte del Centro de Conciliación Laboral.
+
+P.O. 4 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 651 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA EL PÁRRAFO SEGUNDO Y ADICIONA LOS PÁRRAFOS TERCERO Y CUARTO, AL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma al párrafo segundo y la adición del párrafo tercero, del artículo 40 de la Constitución Política del Estado de Sinaloa, que se modifica mediante el presente Decreto, entrarán en vigor el día primero de enero de 2022.
+
+###### ARTÍCULO TERCERO.
+
+Las adecuaciones reglamentarias que se deriven del presente Decreto deberán realizarse dentro de los noventa días siguientes a la entrada en vigor del mismo.
+
+###### ARTÍCULO CUARTO.
+
+Por esta sola ocasión la persona Titular del Poder Ejecutivo saliente, presentará el informe de conformidad con el texto vigente hasta antes de la entrada en vigor del Presente Decreto.
