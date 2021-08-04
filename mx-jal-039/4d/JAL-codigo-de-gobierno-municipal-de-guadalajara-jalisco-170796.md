@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2021-07-26"
+last_updated: "2021-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 26 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 4 DE AGOSTO DE 2021.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -2703,6 +2703,8 @@ III. Coordinar el proceso de depuración documental informando a la Comisión Ed
 
 #### Sección Cuarta. Dirección de Justicia Cívica Municipal
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 165.
 
 La Dirección de Enlace con el Ayuntamiento tiene las siguientes atribuciones:
@@ -2807,9 +2809,17 @@ VIII. Corregir las calificaciones irregulares de infracciones y la aplicación i
 
 IX. Diseñar, preparar y llevar a cabo jornadas de justicia itinerante, determinando la ubicación, periodicidad y desarrollo de estas, conforme al presupuesto asignado, infraestructura, recursos humanos y materiales;
 
-X. Integrar un sistema de información para la verificación de los antecedentes de los infractores y determinación de las sanciones; y
+> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
 
-XI. Proponer a la Presidenta o el Presidente Municipal, previo acuerdo con la Secretaria o el Secretario General, el número de juzgados cívicos y centros de mediación que deben funcionar.
+X. Integrar un sistema de información para la verificación de los antecedentes de los infractores y determinación de las sanciones;
+
+> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
+
+XI. Proponer a la Presidenta o el Presidente Municipal, previo acuerdo con la Secretaria o el Secretario General, el número de juzgados cívicos y centros de mediación que deben funcionar; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 4 DE AGOSTO DE 2021)</small>
+
+XII. Realizar la supervisión de la información inscrita en el Registro Nacional de Detenciones por las unidades a su cargo.
 
 La Dirección de Justicia Cívica Municipal, cuenta con las Unidades del Centro de Mediación Municipal, Juzgados Cívicos Municipales, Prevención Social de la Violencia, y Visitaduría.
 
@@ -2877,11 +2887,33 @@ Subsección Segunda
 
 Unidad de Juzgados Cívicos Municipales
 
+> <small>(REFORMADO, G.M. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 174.
 
 Los juzgados cívicos municipales funcionan las veinticuatro horas, todos los días del año, en turnos sucesivos alternando su personal.
 
-En cada juzgado cívico municipal debe haber por turno una o un juez cívico municipal, una facilitadora o facilitador, una secretaria o secretario, una defensora o defensor de oficio, una o un médico, las y los custodios y analistas que se requieran, una licenciada o licenciado en trabajo social, y una o un agente de protección de los menores de edad.
+En cada juzgado cívico municipal debe haber, por turno, el siguiente personal:
+
+I. Una o un juez cívico municipal;
+
+II. Una secretaria o secretario;
+
+III. Una o un médico;
+
+IV. Las y los custodios y analistas que se requieran;
+
+V. Una defensora o defensor de oficio;
+
+VI. Una o un psicológo; y
+
+VII. Una licenciada o licenciado en trabajo social.
+
+En los casos que se requiera, la jueza o juez cívico municipal, puede solicitar la intervención de una facilitadora o facilitador, adscrito a la Unidad del Centro de Mediación Municipal.
+
+Cuando se trate de menores probables infractores, se solicita la presencia de una o un agente de la Procuraduría de Niñas, Niños y Adolescentes.
+
+El personal señalado en la fracción V, por la naturaleza de sus funciones, depende directamente de la persona titular de la Dirección de Justicia Cívica Municipal. El contemplado en la fracción VI, se encuentra adscrito a la Unidad de Prevención Social de la Violencia.
 
 ###### Artículo 175.
 
@@ -2947,11 +2979,15 @@ VI. Aprobar los exámenes correspondientes.
 
 Para permanecer en el cargo, deberá cumplir cuando menos con cincuenta horas anuales de capacitación teórico práctica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 179.
 
 La o el juez cívico municipal, además de las atribuciones previstas en el artículo 58 de la Ley, tiene las siguientes:
 
-I. Desarrollar el procedimiento para la determinación de la responsabilidad del probable infractora o infractor, tomando en consideración el diagnóstico de riesgos y necesidades practicado a este en los términos previstos en la normatividad aplicable;
+> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
+
+I. Desarrollar el procedimiento para la determinación de la responsabilidad de la persona probable infractora o infractor, tomando en consideración el examen médico y los estudios socio conductal, socio económico y psicosocial, practicados a esta;
 
 II. Conmutar a la infractora o infractor la multa o arresto de acuerdo a las condiciones socioeconómicas del mismo y a la gravedad de la infracción;
 
@@ -2961,9 +2997,11 @@ IV. Solicitar por escrito a las autoridades competentes, el retiro de objetos ab
 
 V. Dirigir al personal que integra el juzgado;
 
-VI. Reportar la información sobre las personas arrestadas, al Registro Nacional de Detenciones o en su caso, a la unidad administrativa de la institución encargada de dicho registro;
+> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
 
-VII. Ordenar la práctica (sic) los exámenes médicos, psicológicos y de entrevista a cargo de trabajo social;
+VI. Realizar la captura, ingreso, envío, recepción, manejo, consulta o actualización de la información del Registro Nacional de Detenciones;
+
+VII. (DEROGADA, G.M. 4 DE AGOSTO DE 2021)
 
 VIII. Informar a la Directora o Director de Justicia Cívica Municipal sobre los asuntos tratados y las resoluciones dictadas;
 
@@ -3039,9 +3077,13 @@ Subsección Tercera
 
 Unidad de Prevención Social de la Violencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 184.
 
 A la Unidad de Prevención Social de la Violencia le corresponde:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 4 DE AGOSTO DE 2021)</small>
 
 Por lo que se refiere a la Prevención Social de la Violencia:
 
@@ -3055,27 +3097,53 @@ IV. Reducir la vulnerabilidad ante la violencia en el territorio municipal;
 
 V. Generar entornos que favorezcan la convivencia y seguridad de la población;
 
-VI. Aplicar los programas educativos de prevención de faltas administrativas; y
+> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
 
-VII. Participar en el diseño, implementación y evaluación de los procesos de prevención social;
+VI. Aplicar los programas educativos de prevención de faltas administrativas;
+
+> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
+
+VII. Participar en el diseño, implementación y evaluación de los procesos de prevención social; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 4 DE AGOSTO DE 2021)</small>
+
+VIII. Elaborar el Catálogo de Alternativas de las Medidas para la Mejor Convivencia Cotidiana.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 4 DE AGOSTO DE 2021)</small>
 
 En cuanto a la infractora o infractor:
 
-I. Elaborar el diagnóstico de riesgos y necesidades de la probable persona infractora, previo a la audiencia con la o el Juez Cívico Municipal;
+> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
 
-II. Implementar cursos, talleres o el tratamiento necesario para que se logre en la o el infractor el cumplimiento de la medida impuesta, su reintegración a la sociedad y la no reincidencia; y
+I. Elaborar los estudios socio conductual, socio económico y psicosocial, previo a la audiencia con la Jueza o el Juez Cívico Municipal;
+
+> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
+
+II. Implementar cursos, talleres o el tratamiento necesario para que se logre en la o el infractor el cumplimiento de la medida impuesta, su reintegración a la sociedad y la no reincidencia;
 
 III. Realizar preferentemente a través del área de trabajo social o de quien sea designado, el seguimiento y supervisión de la infractora o infractor durante el cumplimiento de la medida impuesta a este, así como el monitoreo después de haberla cumplido, invitándole a participar en los cursos y talleres vigentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 4 DE AGOSTO DE 2021)</small>
+
+IV. Remitir a la Unidad de Juzgados Cívicos Municipales las constancias que acrediten el cumplimiento de la resolución emitida por la Jueza o el Juez que dictó la sanción; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 4 DE AGOSTO DE 2021)</small>
+
+V. Actualizar el Registro Nacional de Detenciones, señalando fecha y hora de salida de la persona infractora.
 
 Subsección Cuarta
 
 Unidad de Visitaduría
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 4 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 185.
 
 A la Unidad de Visitaduría le corresponde supervisar que el funcionamiento de las unidades que integran la Dirección de Justicia Cívica Municipal se apegue a la normatividad aplicable. Actividad que realiza a través de las y los visitadores municipales, quienes cuentan con las siguientes atribuciones:
 
-I. Tomar conocimiento de las quejas sobre demoras, excesos o deficiencias en el despacho de los asuntos que son competencia de los juzgados y en su caso;
+> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
+
+I. Tomar conocimiento de las quejas sobre demoras, excesos o deficiencias en el despacho de los asuntos que son competencia de las Unidades que integran la Dirección de Justicia Cívica Municipal;
 
 II. Practicar visitas periódicas a las unidades para verificar su funcionamiento;
 
@@ -3091,7 +3159,9 @@ VII. Verificar que los asuntos a cargo de las facilitadoras o facilitadores soci
 
 VIII. Hacer constar el número de personas detenidas por faltas administrativas y remitidas a la Unidad de Prevención Social de la Violencia, así como las y los menores canalizados a las instituciones competentes;
 
-IX. Examinar los informes de policía, las faltas administrativas y los acuerdos dictados y cumplidos, la calificación de las faltas administrativas y las resoluciones, de acuerdo a lo establecido en la normatividad aplicable;
+> <small>(REFORMADA, G.M. 4 DE AGOSTO DE 2021)</small>
+
+IX. Examinar los expedientes integrados con motivo de las audiencias, las faltas administrativas y los acuerdos dictados y cumplidos, la calificación de las faltas administrativas y las resoluciones, de acuerdo a lo establecido en la normatividad aplicable;
 
 X. Revisar los acuerdos de mediación o conciliación, los convenios celebrados, así como las resoluciones y los procedimientos respectivos;
 
@@ -6342,3 +6412,17 @@ Cuarto. Se faculta a las y los ciudadanos, Presidente Municipal, Secretario Gene
 Quinto. Notifíquese el presente ordenamiento a la Tesorería, a la Coordinación General de Gestión Integral de la Ciudad y a la Contraloría Ciudadana, para su conocimiento.
 
 Sexto. Una vez publicado el presente, remítase mediante oficio un tanto de él, al Congreso del Estado de Jalisco, para los efectos ordenados en las fracciones VI y VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 4 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA, AL REGLAMENTO DE MÉTODOS ALTERNOS DE SOLUCIÓN DE CONFLICTOS DEL MUNICIPIO DE GUADALAJARA Y AL REGLAMENTO DE JUSTICIA CÍVICA DEL MUNICIPIO DE GUADALAJARA".]
+
+Primero. Publíquese el presente ordenamiento en la Gaceta Municipal de Guadalajara.
+
+Segundo. El presente ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Se instruye a la Dirección de Justicia Cívica Municipal, a través de la Unidad de Prevención Social de la Violencia, para que realice el Catálogo de Alternativas de Medidas para la Mejor Convivencia Cotidiana, en un plazo no mayor a 30 días hábiles contados a partir de la publicación del presente ordenamiento.
+
+Cuarto. Si (sic) instruye a la Dirección de Justicia Cívica Municipal a efecto de que gestione la celebración de los convenios citados en la reforma al artículo 18 del Reglamento de Justicia Cívica del Municipio de Guadalajara.
+
+Quinto. Una vez publicadas las presentes disposiciones, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
