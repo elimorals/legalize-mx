@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2021-06-08"
+last_updated: "2021-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1765,11 +1765,37 @@ XVIII. Promover los derechos de la niñez, de los adolescentes, de la mujer, de 
 
 XIX. Las demás que les confiera esta Ley y otras disposiciones legales.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2021)</small>
+
+### CAPÍTULO VIII TER. DE LA INSTANCIA MUNICIPAL DE LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2021)</small>
+
+ARTÍCULO 88 QUÁTER. Los municipios del Estado implementarán instancias municipales de la mujer, en la medida de sus posibilidades presupuestales, que estará encargada de promover el desarrollo de las mujeres para lograr su plena incorporación a la vida económica, política, cultural y social de los municipios, para mejorar la condición social de las mujeres en un marco de igualdad entre los géneros.
+
+La titular de la Instancia Municipal de las Mujer en cada municipio, se nombrara por acuerdo de cabildo, a propuesta del Presidente Municipal, en los mismos términos de lo señalado en el artículo 70 fracción V de esta Ley, debiendo observarse, que sea una mujer mayor de 18 años, originaria del municipio que representa, y que se destaque en su comunidad por sus actividades a favor del desarrollo social de su lugar de origen.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2021)</small>
+
+ARTÍCULO 88 QUINQUE. La Instancia Municipal de las Mujeres tendrá las atribuciones siguientes:
+
+I. Promover la incorporación de la perspectiva de género mediante planes, y los programas de gobierno del municipio;
+
+II. Promover la capacitación y actualización de servidoras y servidores públicos responsables de formular las políticas públicas de cada sector del municipio, sobre herramientas y procedimientos para incorporar la perspectiva de género en la planeación de procesos de programación presupuestal;
+
+III. Brindar orientación y asesoría a mujeres que así lo requieran, por haber sido víctimas de violencia o cualquier otra forma de discriminación por razón de género;
+
+IV. Elaborar el programa municipal para alcanzar la igualdad entre mujeres y hombres;
+
+V. Coordinar los trabajos del tema de mujeres entre el municipio o ayuntamiento con el Gobierno del Estado, a fin de asegurar la disposición de datos, estadísticas, indicadores y registro en los que se identifique por separado información sobre hombres y mujeres, base fundamental para la elaboración de diagnósticos municipales, regionales, y del Estado;
+
+VI. Promover y concertar acciones apoyos y colaboraciones con los sectores social y privado, como método para unir esfuerzos participativos en favor de una política pública de igualdad entre hombres y mujeres, y
+
+VII. Instrumentar acciones tendientes a abatir las desigualdades entre los géneros.
+
 ### CAPITULO IX. De las Comisiones del Ayuntamiento
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
-
-### CAPITULO X. De los Delegados Municipales
 
 ###### ARTICULO 89.
 
@@ -1877,9 +1903,7 @@ ARTICULO 91 BIS. Las comisiones notificarán al cabildo que llamarán a comparec
 
 Las comisiones podrán solicitar al secretario del ayuntamiento, a través del presidente de la comisión, la información necesaria con el propósito de que puedan atender los asuntos que les han sido encomendados, o que les son propios en ejercicio de sus funciones; éste deberá entregarla oportunamente.
 
-### CAPITULO XI. Del Cronista Municipal
-
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+### CAPITULO X. De los Delegados Municipales
 
 ###### ARTICULO 92.
 
@@ -1945,9 +1969,9 @@ Los delegados municipales se asesorarán con el Secretario del Ayuntamiento, en 
 
 Los Delegados Municipales no podrán otorgar licencias para el establecimiento de giros mercantiles o establecimientos industriales.
 
-### CAPITULO XII. De los Organismos de Participación Ciudadana
+### CAPITULO XI. Del Cronista Municipal
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 100.
 
@@ -2003,7 +2027,9 @@ VI. Coadyuvar en el fomento y difusión de eventos culturales, tradiciones y cos
 
 VII. Promover la inserción en los medios de comunicación de noticias, boletines, reportajes sobre el municipio y sus instituciones.
 
-### CAPITULO XIII. De los Organismos Auxiliares Municipales
+### CAPITULO XII. De los Organismos de Participación Ciudadana
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 101.
 
@@ -2037,19 +2063,7 @@ ARTÍCULO 102 TER. Para el debido cumplimiento de lo dispuesto en el artículo a
 
 Cuando alguno de los representantes de los organismos referidos no cumpla con sus obligaciones, el cabildo deberá sustituirlo llamando al suplente respectivo o, en su defecto, al que resulte electo mediante un nuevo proceso de elección.
 
-### CAPITULO XIV. De la Capacitación y Profesionalización del Cabildo, y Servidores Públicos Municipales de Confianza
-
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2015)</small>
-
-ARTICULO 107 BIS. Los integrantes del Cabildo, así como los servidores públicos municipales que desempeñen cargos de confianza en el ayuntamiento, están obligados a asistir y acreditar los cursos de inducción, talleres de capacitación y profesionalización que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia o entidad competente, tendentes a la certificación en el ramo o función a desempeñar, a fin de que cuenten con los conocimientos y habilidades necesarias para cumplir con las funciones que desempeñan, bajo los criterios de eficacia, eficiencia, legalidad, imparcialidad, y honradez. El Ejecutivo Estatal determinará en el Reglamento correspondiente, el índice de materias básicas a certificar.
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
-
-El incumplimiento de la obligación señalada en el párrafo que antecede, será objeto de las sanciones que establece la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, siempre y cuando no la realice durante el primer año del ejercicio de sus funciones.
-
-La institución o instituciones certificadoras serán designadas mediante los procedimientos que establezcan las leyes de la materia.
-
-El Ejecutivo del Estado, por conducto de la entidad competente, llevará un Registro de Servidores Públicos Certificados, que deberá publicarse en el Periódico Oficial del Estado, actualizándolo cada ciclo lectivo de certificación.
+### CAPITULO XIII. De los Organismos Auxiliares Municipales
 
 ###### ARTICULO 104.
 
@@ -2089,13 +2103,25 @@ De igual forma, podrán crearse patronatos que tengan fines específicos, que es
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE ENERO DE 2015)</small>
 
-### CAPITULO I. Del Patrimonio Municipal
+### CAPITULO XIV. De la Capacitación y Profesionalización del Cabildo, y Servidores Públicos Municipales de Confianza
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2015)</small>
+
+ARTICULO 107 BIS. Los integrantes del Cabildo, así como los servidores públicos municipales que desempeñen cargos de confianza en el ayuntamiento, están obligados a asistir y acreditar los cursos de inducción, talleres de capacitación y profesionalización que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia o entidad competente, tendentes a la certificación en el ramo o función a desempeñar, a fin de que cuenten con los conocimientos y habilidades necesarias para cumplir con las funciones que desempeñan, bajo los criterios de eficacia, eficiencia, legalidad, imparcialidad, y honradez. El Ejecutivo Estatal determinará en el Reglamento correspondiente, el índice de materias básicas a certificar.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2020)</small>
+
+El incumplimiento de la obligación señalada en el párrafo que antecede, será objeto de las sanciones que establece la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, siempre y cuando no la realice durante el primer año del ejercicio de sus funciones.
+
+La institución o instituciones certificadoras serán designadas mediante los procedimientos que establezcan las leyes de la materia.
+
+El Ejecutivo del Estado, por conducto de la entidad competente, llevará un Registro de Servidores Públicos Certificados, que deberá publicarse en el Periódico Oficial del Estado, actualizándolo cada ciclo lectivo de certificación.
 
 ## TITULO SEXTO. DEL PATRIMONIO Y DE LA HACIENDA PUBLICA MUNICIPAL
 
-### CAPITULO II. De la Hacienda Municipal
+### CAPITULO I. Del Patrimonio Municipal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 108.
 
@@ -2195,9 +2221,7 @@ La venta de los bienes inmuebles deberá efectuarse en subasta pública, conform
 
 La Oficialía Mayor o la Secretaría Municipal, establecerán reglas y procedimientos para dar de alta los bienes muebles propiedad de los municipios; así como los requisitos para los resguardos que los servidores públicos deban otorgar, cuando se les confíen bienes municipales para la prestación de servicios públicos en el desempeño de sus labores.
 
-### CAPITULO I. De la Planeación
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2013)</small>
+### CAPITULO II. De la Hacienda Municipal
 
 ###### ARTICULO 115.
 
@@ -2265,7 +2289,9 @@ Las omisiones o excesos de las autoridades municipales en el manejo de la Hacien
 
 ## TITULO SEPTIMO. DE LA PLANEACION
 
-### CAPITULO II. Del Presupuesto
+### CAPITULO I. De la Planeación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 121.
 
@@ -2281,7 +2307,7 @@ Dentro de los dos meses siguientes a su toma de posesión, los ayuntamientos con
 
 > <small>(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO III. Del Ejercicio del Gasto Público
+### CAPITULO II. Del Presupuesto
 
 ###### ARTICULO 122.
 
@@ -2317,7 +2343,7 @@ La aplicación de recursos federales o estatales transferidos al Ayuntamiento se
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO IV. De la Contabilidad Municipal
+### CAPITULO III. Del Ejercicio del Gasto Público
 
 ###### ARTICULO 130.
 
@@ -2357,7 +2383,7 @@ La aplicación de recursos federales o estatales transferidos al Ayuntamiento se
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO I. De las Modalidades en su Prestación
+### CAPITULO IV. De la Contabilidad Municipal
 
 ###### ARTICULO 139.
 
@@ -2369,7 +2395,7 @@ La aplicación de recursos federales o estatales transferidos al Ayuntamiento se
 
 ## TITULO OCTAVO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
 
-### CAPITULO II. De la Seguridad Pública y Tránsito
+### CAPITULO I. De las Modalidades en su Prestación
 
 ###### ARTICULO 141.
 
@@ -2479,7 +2505,7 @@ VI. El dictamen que expidan las Comisiones, en caso de considerar que el Ayuntam
 
 VII. El Congreso del Estado deberá resolver la solicitud planteada en un término no mayor a quince días naturales contados a partir del desahogo de la última prueba. En caso de que el Congreso se encontrare en receso, se convocará a período extraordinario para el desahogo del caso concreto.
 
-### CAPITULO III. De la Concesión de Bienes y Servicios Públicos Municipales
+### CAPITULO II. De la Seguridad Pública y Tránsito
 
 ###### ARTICULO 149.
 
@@ -2493,11 +2519,7 @@ La policía preventiva municipal estará al mando del Presidente Municipal en lo
 
 La policía preventiva municipal deberá acatar las órdenes que el Gobernador del Estado les transmita, en los casos en que él mismo juzgue como de fuerza mayor o alteración grave del orden público.
 
-### CAPITULO I. De los Bandos y Reglamentos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2011)</small>
+### CAPITULO III. De la Concesión de Bienes y Servicios Públicos Municipales
 
 ###### ARTICULO 151.
 
@@ -2609,13 +2631,17 @@ Si para el primero de enero de cada año no se ha hecho la publicación de preci
 
 ## TITULO NOVENO. DE LA REGLAMENTACION DE LOS AYUNTAMIENTOS
 
-### CAPITULO II. De las Sanciones
+### CAPITULO I. De los Bandos y Reglamentos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 159.
 
 Los ayuntamientos expedirán en forma obligatoria, de acuerdo con las bases previstas en esta Ley y en las leyes que en materia municipal expida el Congreso del Estado, los bandos de policía y gobierno, reglamentos, circulares y demás disposiciones administrativas que sean de observancia general en sus respectivas municipalidades, las que en todo tiempo podrán ser modificadas con autorización del Ayuntamiento. Tales documentos para su validez deberá certificarlos el Secretario del Ayuntamiento y promulgarlos el presidente municipal, enviándolos para su publicación en el Periódico Oficial del Estado.
 
-### CAPITULO I. Generalidades
+### CAPITULO II. De las Sanciones
 
 ###### ARTICULO 160.
 
@@ -2649,9 +2675,7 @@ VII. Reparación o resarcimiento del daño.
 
 ## TITULO DECIMO. DE LOS SERVIDORES PUBLICOS MUNICIPALES
 
-### CAPITULO II. De la Declaración de la Situación Patrimonial
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+### CAPITULO I. Generalidades
 
 ###### ARTICULO 161.
 
@@ -2661,9 +2685,9 @@ Las relaciones laborales de las administraciones municipales y sus trabajadores,
 
 Los servidores públicos administrativos serán suplidos en la forma que prevenga el Reglamento Interior del Ayuntamiento.
 
-### CAPITULO III. De las Sanciones y de los Recursos
+### CAPITULO II. De la Declaración de la Situación Patrimonial
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 163.
 
@@ -2681,15 +2705,19 @@ En todo lo referente a la declaración de la situación patrimonial, se observar
 
 (DEROGADO, P.O. 3 DE JULIO DE 2019)
 
-### CAPITULO UNICO
+### CAPITULO III. De las Sanciones y de los Recursos
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 167.
 
 Por el incumplimiento de las funciones públicas previstas en esta Ley, se impondrán a los servidores públicos municipales, las sanciones señaladas por la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
 ## TITULO DECIMO PRIMERO. DE LOS RECURSOS ADMINISTRATIVOS
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 168.
 
@@ -3336,3 +3364,11 @@ P.O. 8 DE JUNIO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que (sic) opongan al presente Decreto.
+
+P.O. 4 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL " DECRETO 1217.- SE ADICIONA AL TÍTULO QUINTO EL CAPÍTULO VIII TER CON LOS ARTÍCULOS, 88 QUÁTER Y 88 QUINQUE, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero del dos mil veintidós, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
