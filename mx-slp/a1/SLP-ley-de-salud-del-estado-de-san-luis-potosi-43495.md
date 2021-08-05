@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2021-07-15"
+last_updated: "2021-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1751,17 +1751,21 @@ I. Promover hábitos de conducta que contribuyan a proteger la salud o a solucio
 
 II. Fomentar en la población el desarrollo de actitudes conductas que le permitan participar en la erradicación y prevención de enfermedades individuales, colectivas y accidentes; y protegerla de los riesgos que pongan en peligro su salud y la de las demás personas;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE AGOSTO DE 2021)</small>
 
 III. Proporcionar a la población los conocimientos sobre las causas de las enfermedades, y de los daños provocados por los efectos nocivos del ambiente en la salud;
 
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2021)</small>
+
+IV. Concientizar a la población, los poderes, Ejecutivo; Legislativo; y Judicial, las dependencias y entidades de la administración estatal y municipal, así como los órganos constitucionalmente autónomos, en el ámbito de sus respectivas competencias, a través de sus medios de comunicación oficiales, tales como, página oficial de internet, redes sociales o cualquier otra plataforma digital, en el uso de las medidas de protección que haya declarado la autoridad sanitaria para enfrentar una pandemia, o determine la autoridad sanitaria en aras de la protección de la salud, y
+
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-IV. Difundir a la población ante la existencia de una pandemia, el autocuidado mediante la implantación de hábitos saludables y el uso de objetos o accesorios, que contribuyan a la protección del padecimiento que se trate, para sí o frente a terceros, y
+V. Difundir a la población ante la existencia de una pandemia, el autocuidado mediante la implantación de hábitos saludables y el uso de objetos o accesorios, que contribuyan a la protección del padecimiento que se trate, para sí o frente a terceros, y
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2016)</small>
 
-V. Orientar y capacitar a la población, preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucal, salud visual, salud auditiva, educación sexual, planificación familiar, salud reproductiva, prevención del embarazo adolescente, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de la discapacidad y rehabilitación de las personas con discapacidad, violencia de género, discriminación, prevención de accidentes y detección oportuna de enfermedades.
+VI. Orientar y capacitar a la población, preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucal, salud visual, salud auditiva, educación sexual, planificación familiar, salud reproductiva, prevención del embarazo adolescente, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de la discapacidad y rehabilitación de las personas con discapacidad, violencia de género, discriminación, prevención de accidentes y detección oportuna de enfermedades.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2016)</small>
 
@@ -4812,3 +4816,11 @@ P.O. 15 DE JULIO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1219.- SE REFORMA EL ARTÍCULO 92 EN SU FRACCIÓN III; Y ADICIONA AL MISMO ARTÍCULO 92 UNA FRACCIÓN (SIC), DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
