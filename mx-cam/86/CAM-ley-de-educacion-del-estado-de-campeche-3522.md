@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2018-11-29"
+last_updated: "2021-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -305,8 +305,6 @@ XXI.- Dictar las disposiciones necesarias para el óptimo funcionamiento de los 
 
 ### CAPITULO IV. ATRIBUCIONES DEL PODER EJECUTIVO DEL ESTADO EN MATERIA EDUCATIVA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 13.
@@ -314,8 +312,6 @@ XXI.- Dictar las disposiciones necesarias para el óptimo funcionamiento de los 
 Compete al Ejecutivo del Estado, por conducto de la Secretaría de Educación:
 
 I.- Prestar en la entidad el servicio público educacional que ofrezca el Gobierno del Estado, sin perjuicio de la concurrencia de los municipios y otras dependencias del ejecutivo estatal, conforme a las leyes y reglamentos locales aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2012)</small>
 
@@ -332,8 +328,6 @@ IV. Establecer en la entidad los tipos, modalidades, sistemas y órganos colegia
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 V.- Planificar, programar y promover la extensión de los tipos y modalidades del Sistema Educativo Estatal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2012)</small>
 
@@ -377,49 +371,33 @@ XIX.- Elaborar el presupuesto general del ramo, y
 
 XX. Promover la creación y establecer las dependencias y los organismos de educación superior que se requieran en la Entidad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XXI.- Coordinarse con la Secretaría de Salud para elaborar una tabla nutrimental orientada a procurar hábitos de alimentación sana y balanceada, así como para implementar programas en los planteles de educación básica que tiendan a desmotivar el consumo de alimentos con bajo o nulo valor nutricional en los educandos y prohibir la publicidad enfocada al consumismo en el interior de los planteles educativos y, que a su vez, promuevan al interior de dichos centros educativos la proliferación de alimentos con un alto valor nutricional; además de integrar a los planes de estudio de educación básica, contenidos de prevención contra el consumo de drogas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 XXII.- Difundir los derechos de la niñez y la adolescencia, así como los mecanismos y canales de prevención y denuncia de abusos a su integridad física y mental, entre el alumnado de las escuelas de educación básica en el Estado, en colaboración con los demás organismos competentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 XXII-Bis.- Promover en todo el sistema educativo estatal mecanismos de prevención, detección y atención de casos de violencia y abuso escolar en cualquiera de sus manifestaciones. Siempre que los educadores o las autoridades escolares tengan conocimiento de estos hechos o de la comisión de algún delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad competente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 XXIII.- Implementar medidas dirigidas a fomentar la prevención de riesgos y la seguridad en el uso de los medios tecnológicos de información a favor de los educandos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XXIV.- Implementar campañas para promover la práctica del ejercicio y los deportes con la finalidad de combatir la obesidad y el sobrepeso entre la población de edad escolar;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
-
-XXV.- Supervisar que las instituciones educativas instrumenten acciones tendientes a fomentar hábitos para una vida saludable, encaminadas a prevenir de manera oportuna la obesidad infantil y juvenil en el Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXV. Supervisar que las instituciones educativas instrumenten acciones tendientes a fomentar hábitos para una vida saludable, encaminadas a prevenir de manera oportuna la obesidad, la malnutrición y los trastornos alimentarios entre la niñez y la adolescencia, contando para ello con profesionales en nutrición y psicología.
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2012)</small>
 
 XXVI. Promover la universalización de la educación temprana o inicial en el Estado de Campeche, la cual deberá fortalecerse y considerarse de manera prioritaria como parte central del ciclo básico del sistema educativo; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2012)</small>
 
@@ -1454,3 +1432,11 @@ P.O. 29 DE NOVIEMBRE DE 2018.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 5 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 250 POR EL QUE “SE REFORMA LA FRACCIÓN XXV DEL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
