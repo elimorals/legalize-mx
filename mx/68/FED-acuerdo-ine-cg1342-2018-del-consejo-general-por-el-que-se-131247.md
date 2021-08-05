@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg1342-2018-del-consejo-general-por-el-que-se-13124
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-11-05"
-last_updated: "2018-11-05"
+last_updated: "2021-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131247&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2018-10-17"
 ---
 # ACUERDO INE/CG1342/2018 DEL CONSEJO GENERAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS DEL CONCURSO PUBLICO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL DEL SISTEMA DEL INSTITUTO NACIONAL ELECTORAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS DEL CONCURSO PÚBLICO PARA EL INGRESO AL SERVICIO PROFESIONAL ELECTORAL DEL SISTEMA DEL INSTITUTO NACIONAL ELECTORAL, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA, PUBLICADO EN EL D.O.F. DE 5 DE AGOSTO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS DEL CONCURSO PÚBLICO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL DEL SISTEMA DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE AGOSTO DE 2021 (ABROGADO).
 
 Acuerdo publicado en el Número 3 del Diario Oficial de la Federación, el lunes 5 de noviembre de 2018.
 
@@ -68,3 +70,19 @@ https://www.ine.mx/sesion-extraordinaria-del-consejo-general-17-octubre-2018/
 Página DOF
 
 www.dof.gob.mx/2018/INE/CGext201810_17_ap_2.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE AGOSTO DE 2021.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS DEL CONCURSO PÚBLICO PARA EL INGRESO AL SERVICIO PROFESIONAL ELECTORAL NACIONAL DEL SISTEMA DEL INSTITUTO NACIONAL ELECTORAL, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Primero. Se aprueban los Lineamientos del Concurso Público para el ingreso al Servicio Profesional Electoral Nacional del sistema del Instituto Nacional Electoral, en los términos del documento anexo al presente Acuerdo y que forma parte integral del mismo.
+
+Segundo. Se abrogan los anteriores Lineamientos del Concurso Público del Servicio Profesional Electoral Nacional del Sistema del Instituto Nacional Electoral, aprobados mediante el Acuerdo INE/CG1342/2018 de 17 de octubre de 2018.
+
+Tercero. Los Lineamientos referidos en el Punto Primero del presente Acuerdo entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Cuarto. Se instruye a la Dirección Ejecutiva del Servicio Profesional Electoral Nacional difundir a través del medio que se estime más adecuado, el cual puede ser preferentemente de manera electrónica, los Lineamientos referidos en el Punto Primero del presente Acuerdo.
+
+Quinto. Publíquese el presente Acuerdo y los Lineamientos en el Diario Oficial de la Federación, en la Gaceta Electoral, en NormaINE y en el portal de Internet del Instituto Nacional Electoral.
