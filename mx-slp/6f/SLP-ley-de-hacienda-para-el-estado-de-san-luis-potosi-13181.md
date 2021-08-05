@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2020-12-19"
+last_updated: "2021-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -438,6 +438,10 @@ II. Los arrendatarios de los establecimientos en los que se realice los juegos o
 III. Las que reciban cantidades a fin de permitir a terceros la participación en los juegos objeto del presente impuesto, y
 
 IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere esta sección.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2021)</small>
+
+ARTICULO 19 DUODECIES. De los ingresos obtenidos por este impuesto, el Ejecutivo del Estado, en base a su suficiencia presupuestal podrá destinar recursos al apoyo de los centros de tratamiento y rehabilitación particulares que prestan servicios de orientación, prevención, tratamiento, rehabilitación y control, y reinserción social de personas con problemas de alcoholismo, tabaquismo, farmacodependencia y ludopatía, que se encuentren debidamente autorizados y cuenten con licencia en los términos previsto (sic) por la Ley para la Prevención, Tratamiento y Control de las Adicciones para el Estado de San Luis Potosí, de conformidad con los lineamientos que para ese efecto determine la Secretaría.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -3488,3 +3492,11 @@ P.O. 19 DE DICIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor el uno de enero del 2021, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1221.- SE ADICIONA EL ARTÍCULO 19 DUODECIES, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
