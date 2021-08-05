@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2021-06-08"
+last_updated: "2021-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1413,9 +1413,9 @@ La SEGAM concentrará los informes locales de monitoreo para su incorporación a
 
 X. Establecerán requisitos y procedimientos para regular las emisiones del transporte público estatal y municipal; asimismo aplicarán las medidas de tránsito atingentes y en su caso, la suspensión de circulación en casos graves de contaminación;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2021)</small>
 
-XI. Emitirán las disposiciones y establecerán las medidas tendientes a evitar la quema de cualquier tipo de residuo sólido o líquido, incluyendo residuos de actividades domésticas, hojarasca, hierba seca, esquilmos agrícolas, llantas usadas, plásticos, lubricantes usados, solventes y otras; así como las quemas con fines de desmontes o deshierbe de terrenos;
+XI. Emitirán las disposiciones y establecerán las medidas y sanciones tendientes a evitar la quema de cualquier tipo de residuo sólido o líquido, incluyendo basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, llantas usadas, plásticos, lubricantes usados, solventes y otras; así como las quemas con fines de desmontes o deshierbe de terrenos;
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -1676,6 +1676,10 @@ Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumí
 Será motivo de sanción administrativa el uso indebido de claxón, considerándose como tal aquél que se realice en intérvalos o periodos repetitivos, así como los escapes abiertos de cualquier vehículo automotor que circule dentro de los centros de población
 
 En la construcción de obras o instalaciones que generen o puedan generar energía térmica o lumínica, ruido o vibraciones, así como en la operación o funcionamiento de las existentes, deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el ambiente, previo dictamen de las autoridades estatales y municipales correspondientes.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2021)</small>
+
+ARTICULO 95 BIS. Para efectos de esta Ley se entiende como contaminación lumínica, el resplandor luminoso en ambientes nocturnos, o brillo producido por la difusión y reflexión de la luz en los gases, aerosoles y partículas en suspensión en la atmósfera, que altera las condiciones naturales de luminosidad en horas nocturnas, y dificultan las observaciones astronómicas de los objetos celestes, debido a la luz intrusa, debiendo distinguirse el brillo natural, atribuible a la radiación de fuentes u objetos celestes, y a la luminiscencia de las capas altas de la atmósfera, gases, aerosoles y partículas en suspensión en la atmósfera.
 
 ###### ARTICULO 96.
 
@@ -2757,6 +2761,10 @@ En los casos señalados en el párrafo anterior, los productos, equipo o maquina
 
 Dentro del más breve plazo posible, los bienes o especies animales que sean retenidos serán puestos a disposición de la delegación de la autoridad federal competente que haya de seguir el procedimiento establecido, para la aplicación de las sanciones pertinentes conforme a la legislación ambiental aplicable.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2021)</small>
+
+Los ejemplares de fauna silvestre avistados, o capturados fuera de su hábitat, o bien que signifiquen un riesgo para las personas, deberán ser reportados a la SEGAM, a la Policía Estatal, al sistema de Protección Civil, al cuerpo de Bomberos, o al respectivo ayuntamiento, a través de la dirección de ecología, para que, en su caso, se efectúe su captura, y su retención transitoria, que deberá ser en una unidad de manejo debidamente acreditada ante la Secretaría de Medio Ambiente y Recursos Naturales. Dentro del más breve plazo posible, los ejemplares retenidos serán puestos a disposición de la delegación de la autoridad federal competente.
+
 ### CAPITULO III. DE LAS SANCIONES
 
 ###### ARTICULO 159.
@@ -3668,6 +3676,30 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE JUNIO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1188.- SE REFORMA EL ARTÍCULO 47 EN SU FRACCIÓN VI, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1218.- SE ADICIONA AL ARTÍCULO 158 EL PÁRRAFO CUARTO, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1224.- SE ADICIONA EL ARTÍCULO 95 BIS, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1225.- SE REFORMA EL ARTÍCULO 74 EN SU FRACCIÓN XI, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
