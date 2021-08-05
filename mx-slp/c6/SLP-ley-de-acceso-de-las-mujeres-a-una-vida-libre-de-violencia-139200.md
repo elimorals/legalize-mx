@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2020-10-24"
+last_updated: "2021-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -939,9 +939,11 @@ El programa deberá ser evaluado anualmente, con base en los indicadores que el 
 
 ### CAPÍTULO I. ÓRDENES DE PROTECCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 34.
 
-Las órdenes de protección son actos de urgente aplicación, orientados a la salvaguarda de la víctima en función de su interés superior, y son fundamentalmente, precautorias y cautelares; deben otorgarse por la autoridad competente, inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+Las oìrdenes (sic) de proteccioìn (sic) son actos de urgente aplicacioìn (sic), orientados a la salvaguarda de la viìctima (sic) en funcioìn (sic) de su intereìs (sic) superior, y son fundamentalmente, precautorias y cautelares; deben otorgarse por la autoridad competente, inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres, evitando en todo momento que la persona agresora, por si o a través de algún tercero, tenga contacto de cualquier tipo con la víctima.
 
 Son autoridades competentes, conforme al ámbito de atribuciones que establecen los ordenamientos que los regulan:
 
@@ -1362,3 +1364,11 @@ P.O. 24 DE OCTUBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1226.- SE REFORMA EL ARTÍCULO 34 EN SU PÁRRAFO PRIMERO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
