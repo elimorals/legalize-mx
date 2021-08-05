@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2021-07-15"
+last_updated: "2021-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -1717,7 +1717,9 @@ En el supuesto de haber sido cancelada o durante el término de suspensiones de 
 
 La Secretaría está facultada para suspender en forma temporal a los conductores de servicio de transporte público el uso de licencia, por término de tres a seis meses, en cualquiera de los siguientes casos:
 
-I. Cuando el titular de la misma sea detectado conduciendo vehículos del servicio de transporte público bajo los efectos de bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2021)</small>
+
+I. Cuando el titular de la misma sea detectado conduciendo vehículos del servicio de transporte público bajo los efectos de bebidas alcohólicas; o bien, hablando por teléfono celular o cualquier otro dispositivo electrónico o de comunicación, leer y/o enviar mensajes de texto por medio de cualquier tipo de dispositivo electrónico, salvo que lo haga con tecnología de manos libres;
 
 II. Si acumula tres infracciones a la presente Ley o sus reglamentos, en el transcurso de un año;
 
@@ -3272,5 +3274,13 @@ P.O. 15 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1209.- SE REFORMA (SIC) LOS ARTÍCULOS 81, EN SU FRACCIÓN XXIII, Y 83 EN SUS FRACCIONES V Y VI; Y ADICIONA A LOS ARTÍCULOS 81 UNA FRACCIÓN, 83 LA FRACCIÓN VII Y 129 EN SUS FRACCIONES I UN INCISO Y II UN INCISO, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1227.- SE REFORMA EL ARTÍCULO 79 EN SU FRACCIÓN I, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
