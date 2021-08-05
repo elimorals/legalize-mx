@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-a-los-animales-para-el-estado-de-san-luis-148
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-23"
-last_updated: "2021-03-23"
+last_updated: "2021-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 23 de marzo de 2021.
 
@@ -137,13 +137,17 @@ En dicho trato, se contempla la castración y esterilización, canina o felina; 
 
 Y entendiéndose por esterilización a una técnica, que, aunque menos invasiva, no retira el efecto producido por las hormonas. Se produce una sección de los conductos seminíferos en machos y una ligadura de las trompas de Falopio en las hembras.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 5°.
 
-Los ayuntamientos facilitarán y fomentarán la creación de albergues, que sirvan de refugio y lugar para la adopción de animales que se encuentren en desamparo.
+Los ayuntamientos facilitarán y fomentarán la creación de albergues que sirvan de refugio y lugar para la adopción de animales que se encuentren en desamparo, así como centros de atención veterinaria gratuita.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 6º.
 
-Las asociaciones legalmente constituidas que establezcan albergues para refugio y adopción, podrán solicitar el apoyo de los Ayuntamientos para la realización de actividades lícitas necesarias, para obtener recursos que sean utilizados en su sostenimiento.
+Las asociaciones legalmente constituidas que establezcan albergues para refugio y adopción, así como los centros de atención médica veterinaria gratuita, podrán solicitar el apoyo de los ayuntamientos para la realización de actividades lícitas necesarias, para obtener recursos que sean utilizados en su sostenimiento.
 
 ###### ARTÍCULO 7°.
 
@@ -1096,3 +1100,21 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1222.- SE REFORMA (SIC) ARTÍCULO 5°, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1223.- SE REFORMA EL ARTÍCULO 6°, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
