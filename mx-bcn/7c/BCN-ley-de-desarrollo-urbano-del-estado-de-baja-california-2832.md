@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2021-07-23"
+last_updated: "2021-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -895,9 +895,11 @@ Los Planes y Programas de Desarrollo Urbano a que se refiere este artículo debe
 
 Los Planes y Programas a que se refiere el artículo anterior integran el conjunto de disposiciones y políticas definidas para alcanzar los objetivos propuestos en el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, ordenar los asentamientos humanos y establecer adecuadas provisiones, usos, destinos y reservas de tierra a efecto de ejecutar obras públicas y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población en el Estado.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 26.
 
-Los Planes y Programas a que se refiere el Artículo 24 y las declaratorias de provisiones, usos, destinos, y reservas que se expidan para integrar las zonificaciones de los centros de población, se elaborarán considerando las disposiciones de esta Ley y serán publicados en forma abreviada en el Periódico Oficial del Estado y en dos diarios de circulación estatal.
+Los Planes y Programas a que se refiere el Artículo 24 y las declaratorias de provisiones, usos, destinos, y reservas que se expidan para integrar las zonificaciones de los centros de población, se elaborarán considerando las disposiciones de esta Ley y serán publicados en forma abreviada en el Periódico Oficial del Estado y publicarse en el portal institucional de la Secretaría y Municipio según corresponda.
 
 ###### ARTICULO 27.
 
@@ -2017,7 +2019,9 @@ VI. Todas aquellas acciones tendientes al mejoramiento, conservación e incremen
 
 Los Programas Sectoriales de Vivienda serán formulados por las Autoridades Estatales y Municipales en los términos de la presente Ley.
 
-Una vez aprobado, publicado y registrado el Programa Sectorial de Vivienda en los términos de esta Ley, la autoridad competente lo difundirá en dos diarios de circulación estatal; asimismo, la citada autoridad lo mantendrá para consulta del público en general.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
+
+Una vez aprobado, publicado y registrado el Programa Sectorial de Vivienda en los términos de esta Ley, la autoridad competente lo difundirá en su portal institucional de la Secretaría y Municipio según corresponda, asimismo, la citada autoridad lo mantendrá para consulta del público en general.
 
 ## TITULO QUINTO. DE LAS ACCIONES DE URBANIZACION
 
@@ -3100,3 +3104,11 @@ Los permisos y licencias de uso de suelo y edificaciones que conforme a la prese
 ###### ARTÍCULO TERCERO.
 
 Dentro del plazo de tres meses contado a partir de la entrada en vigor de la presente reforma, la Secretaría realizará reuniones de coordinación y supervisión con las autoridades municipales en materia de desarrollo urbano para coordinar la implementación de la presente reforma realizando las gestiones necesarias para el efecto de subsanar las irregularidades que detecten en materia de autorizaciones de otorgamiento de permisos y licencias de uso de suelo y edificaciones en las zonas agrícola, pecuaria, agropecuaria, forestal y ambiental.
+
+P.O. 6 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 260 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 26 Y 146 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial y los Municipios deberán realizar las gestiones necesarias para la actualización de sus portales institucionales, contando con un plazo de 180 días a partir de la entrada en vigor del presente decreto.
