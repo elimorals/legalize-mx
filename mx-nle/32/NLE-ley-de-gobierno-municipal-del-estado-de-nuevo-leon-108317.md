@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2020-11-20"
+last_updated: "2021-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -991,7 +991,9 @@ A los miembros del Ayuntamiento se les podrá suspender su mandato por las causa
 
 I. Por faltar sin causa justificada a tres sesiones ordinarias del Ayuntamiento, en forma consecutiva;
 
-II. Por incapacidad permanente física o mental debidamente diagnosticada y certificada por institución de salud, que le impida desempeñar su función;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+II. Por incapacidad física o mental debidamente diagnosticada y certificada por institución de salud, que les impida desempeñar temporalmente su función;
 
 III. Infrinjan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado o demás ordenamientos legales locales o municipales, causando perjuicio grave al Estado, al Municipio o a la colectividad;
 
@@ -2714,3 +2716,9 @@ P.O. 20 DE NOVIEMBRE DE 2020.
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Los Ayuntamientos dispondrán de 45 días hábiles contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado, para adecuar los reglamentos municipales correspondientes de conformidad con lo estipulado en el mismo.
+
+P.O. 6 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 435. SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 70, DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
