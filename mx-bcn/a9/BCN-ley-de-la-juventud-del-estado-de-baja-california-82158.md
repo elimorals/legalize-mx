@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-juventud-del-estado-de-baja-california-82158"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-11"
-last_updated: "2021-04-16"
+last_updated: "2021-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 11 de julio de 2011.
 
@@ -243,11 +243,17 @@ e) Derecho a un medio ambiente sano y sustentable;
 
 f) Derecho de recreación, descanso y esparcimiento; y,
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
 
-g) Derecho a la práctica del deporte.
+g) Derecho a la práctica del deporte;
 
-h) Derechos de los jóvenes con discapacidad.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
+
+h) Derechos de los jóvenes con discapacidad; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE AGOSTO DE 2021)</small>
+
+i) Derecho a la movilidad.
 
 ### CAPÍTULO SEGUNDO. DERECHOS CIVILES Y POLÍTICOS
 
@@ -534,6 +540,14 @@ Las y los jóvenes con discapacidad, son aquellos que cuentan con una deficienci
 ###### ARTÍCULO 50.
 
 El programa debe establecer lineamientos que permita (sic) asegurar el diseño e implementación de acciones afirmativas y ajustes razonables para buscar su plena inclusión en la sociedad.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+#### SECCIÓN NOVENA. DERECHO A LA MOVILIDAD
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2021)</small>
+
+ARTÍCULO 50 BIS.- Las y los jóvenes tienen derecho de movilidad, por lo tanto, el Estado promoverá y fomentará los medios para que puedan desplazarse, a través de las distintas modalidades del transporte público o privado, garantizando vialidades, accesos, dando prioridad a políticas de inclusión para las personas con discapacidad, asimismo el Estado y los Municipios normarán este derecho.
 
 ### CAPÍTULO CUARTO. DEBERES DE LOS JÓVENES
 
@@ -1876,3 +1890,9 @@ Segundo. Como consecuencia de las medidas sanitarias generadas por el virus SARS
 TRANSITORIO DEL PUNTO SEGUNDO
 
 UNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 258 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 11; LA ADICIÓN DE LA SECCIÓN NOVENA DENOMINADA DERECHO A LA MOVILIDAD, ASÍ COMO LA ADICIÓN DE UN ARTÍCULO 50 BIS, A LA LEY DE JUVENTUD PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
