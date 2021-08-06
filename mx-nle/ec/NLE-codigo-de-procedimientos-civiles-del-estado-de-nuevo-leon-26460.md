@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2021-02-01"
+last_updated: "2021-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -3870,6 +3870,10 @@ II.- El lecho cotidiano, los vestidos y los muebles de uso ordinario del deudor,
 III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
 
 IV.- La maquinaria, instrumentos y animales propios para el cultivo agrícola, en cuanto fueren necesarios para el servicio de la finca a que estén destinados, a juicio del juez, a cuyo efecto oirá el informe de un perito nombrado por él;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+IV Bis. Los animales que el deudor tenga en su calidad de propietario, poseedor o tenedor, independientemente de si se trata de animales domésticos, de asistencia, o de compañía;
 
 V.- Los libros, aparatos, instrumentos y útiles de las personas que ejerzan o se dediquen al estudio de profesiones liberales;
 
@@ -8307,6 +8311,10 @@ IX.- Precisar el tiempo que llevan separados los cónyuges;
 
 X.- La manifestación, bajo protesta de decir verdad, de si se encuentra o no encinta la cónyuge;
 
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+X Bis.- El destino de los animales de compañía y/o domésticos, en caso de que existan, teniendo en cuenta el interés de los miembros de la familia y el bienestar de los animales, pudiendo preverse el reparto de los tiempos de convivencia si fuere necesario.
+
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 XI.- Cualquier otro requisito que el Juez considere procedente tomando en cuenta las circunstancias de cada caso; y
@@ -8568,6 +8576,10 @@ La solicitud de divorcio incausado deberá reunir los requisitos que señala el 
 ###### Artículo 1108.
 
 No será obstáculo para dar trámite a la solicitud de divorcio incausado la deficiencia o falta de presentación de la propuesta de convenio regulador de las consecuencias jurídicas del divorcio, pero deja expedita la jurisdicción del juez para emitir de oficio o a petición de parte las medidas cautelares en favor de las niñas, niños y adolescentes, o incapaces y, en su caso, del cónyuge, mismas que subsistirán, hasta en tanto las partes lleguen a un convenio o se resuelva la cuestión que motivó su pronunciamiento.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2021)</small>
+
+El juez confiará a los animales de compañía y/o domésticos a uno o ambos cónyuges, atendiendo al interés de los miembros de la familia y al bienestar de los animales.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -9968,3 +9980,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se abroga la Ley de Aparcería del Estado de Nuevo León, publicada en el Periódico Oficial del Estado el día 4 de diciembre de 1940.
 
 TERCERO.- Los contratos de Aparcería existentes a la entrada en vigor del presente Decreto deberán regirse por las disposiciones vigentes al momento de su suscripción.
+
+P.O. 6 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 535. SE ADICIONA UNA FRACCIÓN IV BIS AL ARTÍCULO 499, UNA FRACCIÓN X BIS AL ARTÍCULO 1082 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 1108 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
