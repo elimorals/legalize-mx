@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-movilidad-del-estado-de-nayarit-139839"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-07"
-last_updated: "2020-01-07"
+last_updated: "2021-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "NAY"
 ---
 # LEY DE MOVILIDAD DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE JUNIO DE 2024 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE MOVILIDAD DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección quinta del Número 003 del Periódico Oficial del Estado de Nayarit, el martes 7 de enero de 2020.
 
@@ -401,29 +399,51 @@ Dichas dependencias y entidades coadyuvarán con las autoridades de la movilidad
 
 Corresponden al titular del Poder Ejecutivo del Estado, las siguientes facultades:
 
-I. Definir y expedir los lineamientos fundamentales de la política de movilidad y seguridad vial atendiendo a lo señalado en el Programa Integral de Movilidad Sustentable del Estado, el respeto a los derechos humanos, la seguridad, el medio ambiente y la calidad del entorno urbano;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
-II. Emitir, a propuesta de la Secretaría, y con la participación técnica del IPLANAY, el Programa Integral de Movilidad Sustentable y demás instrumentos normados por esta Ley;
+I. Definir y expedir los lineamientos fundamentales de la política de movilidad y seguridad vial, así como vigilar su debido cumplimiento, atendiendo a lo señalado en el Programa Integral de Movilidad Sustentable del Estado, el respeto a los derechos humanos, la seguridad, el medio ambiente y la calidad del entorno urbano;
 
-III. Autorizar, con la intervención que en derecho corresponda a la Secretaría y a la Comisión Técnica de Movilidad, las concesiones del servicio público de transporte, así como modificarlas, extinguirlas, cancelarlas o revocarlas en los términos de la presente Ley y sus reglamentos;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+II. Emitir, a propuesta de la Secretaría, y con la participación técnica del IPLANAY y los Ayuntamientos, el Programa Integral de Movilidad Sustentable y demás instrumentos normados por esta Ley;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+III. Autorizar, con la intervención que en derecho corresponda a la Secretaría y a la Comisión Técnica de Movilidad, las concesiones del servicio público de transporte, así como modificarlas, extinguirlas, vigilarlas, cancelarlas o revocarlas en los términos de la presente Ley y sus reglamentos;
 
 IV. Otorgar, revocar o extinguir las concesiones, según corresponda, para la prestación de los servicios de transporte público y especializado;
 
-V. Establecer canales de comunicación abierta que impulsen a los diversos sectores de la población a presentar propuestas que ayuden a mejorar la calidad y eficiencia de la movilidad y el transporte, la preservación y ampliación de la infraestructura para la movilidad, conforme a criterios de Gobierno abierto e incluyente;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
-VI. Aportar a través del IPLANAY, en el Gran Plan Estatal de Desarrollo, en el Sistema de Planeación Territorial y en el Programa de Gobierno; los objetivos, metas, estrategias y acciones en materia de movilidad en el Estado; así como proponer las partidas necesarias en el Presupuesto de Egresos del Estado, para el cumplimiento de los fines establecidos en la presente Ley;
+V. Establecer canales de comunicación abierta que impulsen a los diversos sectores de la población a presentar propuestas o denuncias contra funcionarios ineficientes, que ayuden a mejorar la calidad y eficiencia de la movilidad y el transporte, la preservación y ampliación de la infraestructura para la movilidad, o el respeto a los mismos, conforme a criterios de Gobierno abierto e incluyente;
 
-VII. Celebrar convenios con los medios de comunicación masiva para la difusión, la divulgación, la información y la promoción de acciones de seguridad y de educación vial;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
-VIII. Coordinar y promover acciones e inversiones con los sectores sociales y privados, con instituciones académicas, grupos empresariales y de transportistas, organizaciones sociales y demás personas interesadas, para el mejoramiento constante del Sistema de Movilidad;
+VI. Aportar previo análisis estadístico y estudios técnicos a través del IPLANAY, en el Gran Plan Estatal de Desarrollo, en el Sistema de Planeación Territorial y en el Programa de Gobierno; los objetivos, metas, estrategias y acciones en materia de movilidad en el Estado; así como proponer las partidas necesarias en el Presupuesto de Egresos del Estado, para el cumplimiento de los fines establecidos en la presente Ley;
 
-IX. Celebrar convenios de coordinación con las autoridades federales, municipales o con otras entidades de la república en las materias de esta ley;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
-X. Expedir, por conducto de la Secretaría, las normas generales de carácter técnico relativas a las características de la infraestructura vial, tales como dispositivos, señales, regulación de tránsito, cultura y seguridad vial, de la infraestructura carretera y equipamiento vial, circulación, señalamiento y transporte;
+VII. Celebrar convenios con los medios de comunicación masiva para la difusión, la divulgación, la información y la promoción de acciones de seguridad y de educación vial, prevención de accidentes, así como incorporar, en coordinación con las autoridades educativas competentes, contenidos curriculares relativos a la educación vial y cultura de la movilidad;
 
-XI. Dictar y aplicar, en cualquier tiempo, cuando así lo requiera el interés público, las medidas necesarias para el cumplimiento de la presente Ley y sus reglamentos;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
-XII. Formular, aprobar, aplicar, evaluar y modificar las políticas de movilidad, estrategias y acciones relativas a la construcción y mantenimiento de la infraestructura carretera y de la infraestructura y equipamiento vial, y
+VIII. Coordinar y promover acciones e inversiones con los sectores sociales y privados, con instituciones académicas, grupos empresariales y de transportistas, organizaciones sociales y demás personas interesadas, para el mejoramiento constante del Sistema de Movilidad, así como impulsar el desarrollo de programas de cultura de la movilidad y de reducción del uso de vehículos particulares, así como los beneficios económicos, de salud y medio ambientales, que esto representa;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+IX. Celebrar convenios de coordinación con las autoridades federales, municipales, iniciativa privada, asociaciones civiles o con otras entidades de la república en las materias de esta ley;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+X. Expedir, por conducto de la Secretaría, las normas generales de carácter técnico relativas a las características de la infraestructura vial, tales como dispositivos, señales, regulación de tránsito, cultura y seguridad vial, de la infraestructura carretera y equipamiento vial, circulación, señalamiento y transporte, donde se promueva el respeto por los señalamientos existentes en las vías públicas, así como de los derechos de personas, peatones y ciclistas, con énfasis en las personas con discapacidad y movilidad reducida;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+XI. Dictar y aplicar, en cualquier tiempo, cuando así lo requiera el interés público, las medidas necesarias para el cumplimiento de la presente Ley y sus reglamentos, en coordinación con otras áreas afines y respetando los derechos de los ciudadanos;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+XII. Formular, aprobar, aplicar, evaluar, informar y modificar en su caso, las políticas de movilidad, estrategias y acciones relativas a la construcción y mantenimiento de la infraestructura carretera y de la infraestructura y equipamiento vial, atendiendo a los grupos vulnerables y al desarrollo del estado, y
 
 XIII. Las demás que le confieran las Leyes y los reglamentos aplicables.
 
@@ -439,11 +459,21 @@ III. Determinar las políticas en materia de estacionamientos públicos establec
 
 IV. Expedir de acuerdo a esta Ley, los permisos para estacionamiento público o pensión de vehículos, con indicación de las respectivas tarifas autorizadas y vigilar su correcto funcionamiento;
 
-V. Autorizar las características y ubicación de los elementos que integren la infraestructura de movilidad a través de los planes y programas de desarrollo urbano que le corresponda aplicar;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
-VI. Administrar y controlar el corralón de tránsito y la pensión municipal de vehículos, de acuerdo a lo prescrito en la presente Ley, su Reglamento, los convenios y las normas administrativas que al efecto dicte el Ayuntamiento respectivo, y
+V. Autorizar las características y ubicación de los elementos que integren la infraestructura de movilidad a través de los planes y programas de desarrollo urbano que le corresponda aplicar, procurando la adecuada utilización de la infraestructura de movilidad, en coordinación con la Secretaría;
 
-VII. Las demás que establezcan la presente Ley y la normatividad aplicable.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+VI. Administrar y controlar el corralón de tránsito y la pensión municipal de vehículos, de acuerdo a lo prescrito en la presente Ley, su Reglamento, los convenios y las normas administrativas que al efecto dicte el Ayuntamiento respectivo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2021)</small>
+
+VII. Impulsar la creación de programas de educación vial y en materia de movilidad, que garanticen la seguridad en las vías públicas, de las personas y de su patrimonio, así como la socialización de la presente Ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE AGOSTO DE 2021)</small>
+
+VIII. Las demás que establezcan la presente Ley y la normatividad aplicable.
 
 ###### Artículo 25.
 
@@ -1835,23 +1865,35 @@ El Gobierno del Estado y los Ayuntamientos instalarán y/o autorizarán a los pa
 
 Los motociclistas deberán atender las siguientes disposiciones:
 
-I. Está prohibido circular con vehículos de menos de doscientos cincuenta centímetros cúbicos de cilindrada en los carriles centrales, túneles, pasos a desnivel, vías rápidas o interiores de las vías primarias, y en donde expresamente les sea restringida la circulación;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
-II. Maniobrar con cuidado al rebasar vehículos;
+I. Está prohibido circular con vehículos de menos de doscientos cincuenta centímetros cúbicos de cilindrada en los carriles centrales, túneles, pasos a desnivel, vías rápidas o interiores de las vías primarias, o las destinadas para el ciclismo y en donde expresamente les sea restringida la circulación;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+II. Maniobrar con cuidado al rebasar vehículos, dando preferencia siempre al peatón;
 
 III. Circular en una sola fila;
 
-IV. Utilizar casco protector;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
-V. No llevarán carga que dificulte visibilidad, equilibrio o adecuado manejo;
+IV. Utilizar casco protector en todo momento y de manera correcta cuando el vehículo esté en movimiento;
 
-VI. En el caso de conducir con acompañante, éste deberá ocupar el sitio reservado para ello y utilizar casco;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+V. No llevarán carga que dificulte visibilidad, equilibrio, el adecuado manejo o funcionamiento o que resulte un peligro;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+VI. En el caso de conducir con acompañante, éste deberá ocupar el sitio reservado para ello, no podrá exceder el número de ocupantes establecido en las especificaciones técnicas de la unidad y deberá utilizar casco reglamentario;
 
 VII. Se abstendrán de usar audífonos para reproductores de sonido y demás mecanismos que propicien distracción al conducir;
 
 VIII. Se abstendrán de dar vuelta a mediación de cuadra;
 
-IX. Les quedará prohibido efectuar maniobras en la vía pública que pongan en riesgo su integridad y seguridad física o la de terceros, y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+IX. Les quedará prohibido efectuar maniobras en la vía pública que pongan en riesgo su integridad y seguridad física o la de terceros, así como la destrucción de propiedad pública, y
 
 X. No deberán circular sobre las banquetas o zonas de seguridad.
 
@@ -1865,13 +1907,15 @@ II. Semicasco: Cubre la cabeza desde el borde inferior de las cejas extendiéndo
 
 El casco deberá de ser integral para los ocupantes de motocicletas de doscientos cincuenta centímetros cúbicos de cilindrada o superior y para motocicletas de menos de doscientos cincuenta centímetros cúbicos de cilindrada se utilizará semicasco para los ocupantes.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 144.
 
-Las motocicletas deberán contar con el siguiente equipo de iluminación:
+Las motocicletas deberán contar con el siguiente equipo de iluminación y visualización:
 
-I. En la parte delantera un faro principal con dispositivo para cambio de luces, alta y baja, y
+I. En la parte delantera un faro principal con dispositivo para cambio de luces, alta y baja, direccionales intermitentes, así como espejos retrovisores, todos ellos funcionales, y
 
-II. En la parte posterior una lámpara de luz roja, con reflejante y luces direccionales intermitentes.
+II. En la parte posterior una lámpara de luz roja, con reflejante y luces direccionales intermitentes funcionales.
 
 ###### Artículo 145.
 
@@ -2077,7 +2121,9 @@ A los menores de dieciocho años y mayores de dieciséis, se les podrán expedir
 
 Para la obtención de las licencias a que se refiere el artículo anterior, el solicitante deberá exhibir acta de nacimiento, fianza suficiente para garantizar pago de daños a terceros, documento del padre o tutor en el que éste asuma responsabilidad civil solidaria por las infracciones que se cometan durante la vigencia de la licencia, la cual no podrá exceder de un año.
 
-Cuando los menores a que se refiere el párrafo anterior conduzcan bajo los efectos de bebidas embriagantes, estupefacientes o psicotrópicos, se cancelará su licencia y no volverá a expedírsele hasta cumplida la mayoría de edad previos los requisitos de Ley.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
+
+Cuando los menores a que se refiere el párrafo anterior conduzcan haciendo maniobras peligrosas en la vía pública o bajo los efectos de bebidas embriagantes, estupefacientes o psicotrópicos, se cancelará su licencia y no volverá a expedírsele hasta cumplida la mayoría de edad previos los requisitos de Ley.
 
 ###### Artículo 170.
 
@@ -4738,3 +4784,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Leopoldo Domínguez González, Presidente.- Rúbrica.- Dip. Margarita Morán Flores, Secretaria.- Rúbrica.- Dip. Marisol Sánchez Navarro, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los treinta días del mes de diciembre de dos mil diecinueve.- L.C. ANTONIO ECHEVARRÍA GARCÍA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Antonio Serrano Guzmán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE NAYARIT".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
