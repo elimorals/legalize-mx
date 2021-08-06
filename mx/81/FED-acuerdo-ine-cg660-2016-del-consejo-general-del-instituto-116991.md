@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg660-2016-del-consejo-general-del-instituto-116991
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-10-27"
-last_updated: "2016-10-27"
+last_updated: "2021-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116991&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-09-07"
 ---
 # ACUERDO INE/CG660/2016 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EXPIDEN LOS LINEAMIENTOS PARA LA VERIFICACION DEL NUMERO MINIMO DE AFILIADOS A LAS ORGANIZACIONES INTERESADAS EN OBTENER SU REGISTRO COMO PARTIDO POLITICO LOCAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA VERIFICACIÓN DEL NÚMERO MÍNIMO DE PERSONAS AFILIADAS A LAS ORGANIZACIONES DE LA CIUDADANÍA INTERESADAS EN CONSTITUIRSE COMO PARTIDO POLÍTICO LOCAL, PUBLICADO EN EL D.O.F. DE 6 DE AGOSTO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EXPIDEN LOS LINEAMIENTOS PARA LA VERIFICACIÓN DEL NÚMERO MÍNIMO DE AFILIADOS A LAS ORGANIZACIONES INTERESADAS EN OBTENER SU REGISTRO COMO PARTIDO POLÍTICO LOCAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE AGOSTO DE 2021 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de octubre de 2016.
 
@@ -260,3 +262,33 @@ Primero. Los OPL que a la fecha de entrada en vigor de los presentes Lineamiento
 Segundo. Los OPL que a la fecha de entrada en vigor de los presentes Lineamientos se encuentren en proceso de registro de partidos políticos locales, cuentan con un plazo de 5 días hábiles a partir de la entrada en vigor de los presentes Lineamientos para capturar en el Sistema la información a que se refiere el Lineamiento 4.
 
 Tercero. El OPL cuenta con un plazo de 10 días hábiles para cargar al Sistema la información relativa a los asistentes a las asambleas que ya se hubieran celebrado a la fecha de entrada en vigor de los presentes Lineamientos.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE AGOSTO DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA VERIFICACIÓN DEL NÚMERO MÍNIMO DE PERSONAS AFILIADAS A LAS ORGANIZACIONES DE LA CIUDADANÍA INTERESADAS EN CONSTITUIRSE COMO PARTIDO POLÍTICO LOCAL, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO”.]</small>
+
+PRIMERO. Se abrogan los Lineamientos para la verificación del número mínimo de afiliados a las organizaciones interesadas en obtener su registro como partido político local aprobados mediante Acuerdo INE/CG660/2016.
+
+SEGUNDO. Se aprueban los “Lineamientos para la verificación del número mínimo de personas afiliadas a las organizaciones de la ciudadanía interesadas en obtener su registro como partido político local” en términos del Anexo Uno que forma parte integral del presente Acuerdo; así como el Anexo Dos relativo al listado de municipios con muy alto grado de marginación, donde se podrá optar por la utilización de manifestaciones formales de afiliación en papel.
+
+TERCERO. Los Lineamientos referidos en el punto anterior, entrarán en vigor al día siguiente de su aprobación por este Consejo General.
+
+CUARTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la página electrónica del Instituto Nacional Electoral.
+
+QUINTO. Comuníquese el presente Acuerdo a los Organismos Públicos Locales, a través de la Unidad Técnica de Vinculación con dichos órganos, para los efectos legales conducentes.
+
+El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 28 de julio de 2021, por votación unánime de los Consejeros Electorales, Maestra Norma Irene De La Cruz Magaña, Doctor Uuc-kib Espadas Ancona, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordán, Doctor Ciro Murayama Rendón, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
+
+El Consejero Presidente del Consejo General, Dr. Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Lic. Edmundo Jacobo Molina.- Rúbrica.
+
+El Acuerdo y los anexos pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/sesion-ordinaria-del-consejo-general-28-de-julio-de-2021/
+
+Página DOF
+
+www.dof.gob.mx/2021/INE/CGord202107_28_ap_8.pdf
