@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2021-07-23"
+last_updated: "2021-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -509,9 +509,9 @@ Se entiende por estacionamiento, el espacio de propiedad pública o privada apro
 
 Toda edificación debe contar con área de estacionamiento, con el número mínimo de cajones de acuerdo a su tipo y ubicación, para lo cual se establecerán las disposiciones relativas a las características dimensionales de los cajones, su distribución geométrica, las normas mínimas de seguridad, la ubicación de los accesos y las circulaciones de vehículos y peatones dentro de los estacionamientos públicos y privados.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
 
-Los estacionamientos públicos o privados deberán contar con cajones de estacionamiento suficiente para las personas discapacitadas, así como espacios destinados para estacionar y resguardar bicicletas.
+Los estacionamientos públicos o privados deberán contar con cajones de estacionamiento suficientes para las personas con discapacidad, así como espacios destinados para estacionar y resguardar bicicletas.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -563,7 +563,9 @@ ACUSTICA Y VISIBILIDAD.
 
 Los rangos permisibles de ruido serán fijados tomando en cuenta las necesidades acústicas de cada edificación y las repercusiones que pudieran generar al entorno.
 
-Para locales destinados a cines, auditorios, teatros, salas de con cierto (sic) o espectáculos deportivos, se utilizarán los medios apropiados que garanticen la visibilidad a todos los espectadores, incluyendo espacios para personas minusválidas.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
+
+Para locales destinados a cines, auditorios, teatros, salas de concierto o espectáculos deportivos, se utilizarán los medios apropiados que garanticen la visibilidad a todos los espectadores, incluyendo espacios para personas con discapacidad.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
@@ -607,7 +609,9 @@ V. Para la instalación de butacas y gradas en edificaciones, se deberá cumplir
 
 VI. Los elevadores de pasajeros y de carga, escaleras eléctricas y bandas transportadoras de público, cumplirán con las disposiciones establecidas en la materia, considerando las condiciones y características de las edificaciones que requieran de ese servicio.
 
-VII. Las edificaciones de atención al público contarán con los elementos necesarios para permitir el acceso, salida y circulación de personas minusválidas tanto en sus espacios interiores como en los exteriores.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+VII. Las edificaciones de atención al público contarán con los elementos necesarios para permitir el acceso, salida y circulación de personas con discapacidad tanto en sus espacios interiores como en los exteriores.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
@@ -1584,3 +1588,9 @@ Los permisos y licencias de uso de suelo y edificaciones que conforme a la prese
 ###### ARTÍCULO TERCERO.
 
 Dentro del plazo de tres meses contado a partir de la entrada en vigor de la presente reforma, la Secretaria realizara reuniones de coordinación y supervisión con las autoridades municipales en materia de desarrollo urbano para coordinar la implementación de la presente reforma realizando las gestiones necesarias para el efecto de subsanar las irregulariddes que detecten en materia de autorizaciones de otorgamiento de permisos y licencias de uso de suelo y edificaciones en las zonas agrícola, pecuaria, agropecuaria, forestal y ambiental.
+
+P.O. 6 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 259 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 22, 23 Y 25 DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
