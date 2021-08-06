@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2021-04-16"
+last_updated: "2021-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -879,6 +879,12 @@ El cabal cumplimiento de esta disposición estará sujeta a la planeación o dis
 
 Los psicólogos y demás personal que se contrate para desempeñarse en las áreas especializadas en psicología tendrán la categoría de trabajadores de confianza adscritos a las autoridades educativas estatal y municipal o a los organismos descentralizados que imparten educación en el Estado.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2021)</small>
+
+###### Artículo 73 Bis.
+
+Con la finalidad de preservar la salud y estabilidad psicoemocional de niñas, niños y adolescentes en nivel básico y medio superior, la Secretaría de Educación en coordinación con la Secretaría de Salud del Estado, en el marco de sus respectivas competencias, promoverán la implementación de acciones, programas o protocolos de actuación tendientes a prevenir, detectar, identificar y canalizar necesidades especiales en niñas, niños y adolescentes.
+
 ###### Artículo 74.
 
 Las autoridades educativas estatal y municipal, en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar.
@@ -1674,3 +1680,9 @@ P.O. 16 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 213 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 48 BIS DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA REFORMA DE LOS ARTÍCULOS 24 Y 106 BIS DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, ASIMISMO SE APRUEBA LA ADICIÓN DEL ARTÍCULO 72 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 263 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 73 BIS A LA LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
