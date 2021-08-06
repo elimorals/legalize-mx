@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-ii-2020-del-143711"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2020-07-31"
+last_updated: "2021-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143711&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2020-07-29"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO II/2020 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS DE SEGURIDAD SANITARIA EN LA SUPREMA CORTE DE JUSTICIA DE LA NACION DURANTE LA EMERGENCIA GENERADA POR EL VIRUS SARS-COV2 (COVID 19)]
 
-ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2020 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTINUEVE DE JULIO DE DOS MIL VEINTE, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS DE SEGURIDAD SANITARIA EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN DURANTE LA EMERGENCIA GENERADA POR EL VIRUS SARS-CoV2 (COVID 19)
+ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2020 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTINUEVE DE JULIO DE DOS MIL VEINTE, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS DE SEGURIDAD SANITARIA EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN DURANTE LA EMERGENCIA GENERADA POR EL VIRUS SARS-COV2 (COVID 19)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 6 DE AGOSTO DE 2021.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 31 de julio de 2020.
 
@@ -105,9 +105,13 @@ Los datos personales que se recaben por las áreas competentes de la Suprema Cor
 
 ### CAPITULO SEGUNDO. DE LA PROGRAMACIÓN DE ACTIVIDADES
 
+> <small>(REFORMADO, G.S.J.F. 6 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO SÉPTIMO.
 
-Las personas en situación de vulnerabilidad que presten sus servicios en la Suprema Corte, bajo protesta de decir verdad, comunicarán dicha circunstancia a los titulares de los órganos o áreas a los cuales se encuentren adscritos.
+Las personas en situación de vulnerabilidad que presten sus servicios en la Suprema Corte, bajo protesta de decir verdad, comunicarán dicha circunstancia a las y los titulares de los órganos o áreas a los cuales se encuentren adscritos, y adjuntarán el diagnóstico médico o los estudios clínicos que acrediten tal situación.
+
+Las y los titulares de los órganos y áreas podrán solicitar la opinión de Servicios Médicos respecto a las situaciones de vulnerabilidad del personal que tengan bajo su adscripción.
 
 Las y los servidores públicos que no tengan la posibilidad de dejar al cuidado de otra persona a sus hijos menores de 15 años de edad o con alguna discapacidad, también comunicarán tal situación bajo protesta de decir verdad a los titulares de los órganos y áreas a los cuales se encuentran adscritos.
 
@@ -131,11 +135,15 @@ En cada órgano y área únicamente asistirán a las oficinas y espacios de trab
 
 De acuerdo con las condiciones de evolución epidemiológica de la COVID 19, así como los criterios previstos en la Guía Operativa, se incrementará o disminuirá, en su caso, la cantidad de personas que laboren en la modalidad presencial.
 
+> <small>(REFORMADO, G.S.J.F. 6 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
-Las personas en situación de vulnerabilidad que presten sus servicios en la Suprema Corte, realizarán trabajo a distancia hasta que las condiciones de evolución epidemiológica de la COVID 19 permitan su retorno a las labores presenciales en las oficinas y espacios de trabajo de la Suprema Corte.
+Las personas en situación de vulnerabilidad realizarán labores presenciales en las oficinas y espacios de trabajo de la Suprema Corte, cuando ya hubieren tenido la posibilidad de recibir el esquema completo de vacunación contra la COVID 19, conforme a los criterios establecidos en la Política Nacional de Vacunación, el calendario de vacunación aplicable en su localidad de residencia, y demás disposiciones emitidas por el Gobierno Federal.
 
-Por excepción, en el caso de labores calificadas o especializadas que tengan que realizarse presencialmente por personas en situación de vulnerabilidad, la prestación de dichos servicios se realizará necesariamente de manera voluntaria.
+Continuarán realizando labores a distancia las personas en situación de vulnerabilidad que aún no tengan la posibilidad de recibir el esquema completo de vacunación o que, teniéndola, no lo recibieron debido única y exclusivamente a una contraindicación médica, lo cual informarán a los titulares de los órganos y áreas a los cuales se encuentren adscritos, así como adjuntarán, en el caso de contraindicación médica, el diagnóstico o estudios clínicos correspondientes.
+
+Sin perjuicio de lo anterior, en el caso de labores calificadas o especializadas que tengan que realizarse presencialmente por personas en situación de vulnerabilidad que no hayan tenido la posibilidad de recibir el esquema completo de vacunación, la prestación de dichos servicios se realizará necesariamente de manera voluntaria.
 
 ###### ARTÍCULO DÉCIMO TERCERO.
 
@@ -191,7 +199,9 @@ VI. Señalización de rutas, accesos y espacios para mantener sana distancia;
 
 VII. Diagnóstico y, en su caso, modificación física de oficinas, estaciones y espacios de trabajo;
 
-VIII. Limpieza y desinfección de oficinas, estaciones y espacios de trabajo, así como áreas comunes;
+> <small>(REFORMADA, G.S.J.F. 6 DE AGOSTO DE 2021)</small>
+
+VIII. Ventilación, limpieza y desinfección de oficinas, estaciones y espacios de trabajo, así como áreas comunes;
 
 IX. Provisión de equipos de protección personal a las y los servidores públicos de la Suprema Corte, en especial a aquéllos que atienden al público en general o que desempeñan otras funciones de igual o mayor riesgo sanitario;
 
@@ -302,3 +312,19 @@ Así lo acordó y firma el señor Ministro Arturo Zaldívar Lelo de Larrea, Pres
 El Ministro Presidente Arturo Zaldívar Lelo de Larrea.- Rúbrica.- El Director General de Asuntos Jurídicos, Juan Sebastián Francisco de Asís Mijares Ortega.- Rúbrica.
 
 EN LA CIUDAD DE MÉXICO A VEINTINUEVE DE JULIO DE DOS MIL VEINTE, EL LICENCIADO JUAN SEBASTIÁN FRANCISCO DE ASÍS MIJARES ORTEGA, DIRECTOR GENERAL DE ASUNTOS JURÍDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN LOS ARTÍCULOS 9, FRACCIÓN X Y 35, FRACCIÓN XX, DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN CERTIFICA: Que la presente copia constante de veintinueve fojas útiles, concuerda fiel y exactamente con el original del ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2020 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTINUEVE DE JULIO DE DOS MIL VEINTE, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS DE SEGURIDAD SANITARIA EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN DURANTE LA EMERGENCIA GENERADA POR EL VIRUS SARS-CoV2 (COVID 19), mismo que obra en los archivos de la Dirección General a mi cargo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.S.J.F. 6 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VII/2021, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE JULIO DE DOS MIL VEINTIUNO, QUE REFORMA DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2020 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTINUEVE DE JULIO DE DOS MIL VEINTE, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS DE SEGURIDAD SANITARIA EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN DURANTE LA EMERGENCIA GENERADA POR EL VIRUS SARS-COV2 (COVID 19)”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente al de su aprobación.
+
+SEGUNDO. El Oficial Mayor realizará las modificaciones a la Guía Operativa que sean necesarias para dar cumplimiento al presente Acuerdo General de Administración, a más tardar a los cinco días siguientes a la entrada en vigor del mismo.
+
+TERCERO. Las y los titulares de los órganos y áreas deberán realizar las acciones necesarias para la actualización de la información del personal en situación de vulnerabilidad, así como recolectar la información sobre su situación en relación con la posibilidad de recibir el esquema completo de vacunación contra la COVID 19, conforme a lo que se dispone en los Lineamientos de Seguridad Sanitaria y la Guía Operativa.
+
+CUARTO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración Número II/2020, del Presidente de la Suprema Corte de Justicia de la Nación, de veintinueve de julio de dos mil veinte, por el que se establecen los Lineamientos de Seguridad Sanitaria en la Suprema Corte de Justicia de la Nación durante la emergencia generada por el virus SARS-CoV2 (COVID 19), a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
+
+QUINTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
