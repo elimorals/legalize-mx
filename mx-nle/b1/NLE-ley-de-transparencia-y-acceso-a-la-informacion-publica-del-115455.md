@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1154
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-01"
-last_updated: "2021-04-23"
+last_updated: "2021-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 1 de julio de 2016.
 
@@ -1355,9 +1355,17 @@ LI. Los resultados de las evaluaciones de desempeño de los servidores públicos
 
 LII. El listado de las acciones de inconstitucionalidad y controversias constitucionales de las que sean parte, y las resoluciones que se emitan;
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 6 DE AGOSTO DE 2021)</small>
 
-LIII. La información relativa al objeto, aplicación, erogación, destino, justificación, reglas de operación, de los fondos públicos especiales creados y autorizados por el Congreso del Estado, con cargo a recursos asignados al Ejecutivo del Estado en la Ley de Egresos del Estado correspondiente. La información de dichos fondos ejercidos por el Ejecutivo del Estado deberá presentarse en un micrositio en su portal de Internet, en un plazo no mayor a treinta días naturales; y
+LIII. La información relativa al objeto, aplicación, erogación, destino, justificación, reglas de operación, de los fondos públicos especiales creados y autorizados por el Congreso del Estado, para atender casos de fuerza mayor, desastres naturales, contingencias, declaración de emergencias sanitarias, o cualquier otra situación especial, con cargo a recursos asignados al Ejecutivo del Estado en la Ley de Egresos del Estado correspondiente. La información de dichos fondos ejercidos por el Ejecutivo del Estado, deberá presentarse en un micrositio en su portal de internet, en un plazo no mayor a quince días naturales y contendrá de manera específica, por lo menos:
+
+a) Información pública de los recursos destinados para la atención del caso de fuerza mayor, desastre natural, contingencia o declaración de emergencia sanitaria;
+
+b) Reporte de la integración y actualización del padrón de beneficiarios;
+
+c) En caso de alguna adjudicación directa la información señalada en el inciso b) fracción XXIX del artículo 95 del presente ordenamiento; y
+
+d) En su caso información de fideicomisos, fondos, mandatos o cualquier contrato análogo que se utilice o constituya para la atención del caso de fuerza mayor, desastre natural, contingencia o declaración de emergencia sanitaria.
 
 LIV. Cualquier otra información que sea de utilidad o se considere relevante, además de la que, con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público.
 
@@ -2870,3 +2878,9 @@ P.O. 23 DE ABRIL DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Fiscalía General de Justicia, la Fiscalía Especializada en Combate a la Corrupción y la Fiscalía Especializada en Delitos Electorales contarán con un período de seis meses para publicar en la Plataforma Nacional de Transparencia y en su portal e (sic) internet la información derivada de las obligaciones de transparencia. Dicho período se contará a partir de que se publique en el Periódico Oficial del Estado el presente Decreto y de que la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León proporcione al Titular de la Unidad de Transparencia, los elementos de seguridad de la Plataforma Nacional para acceder a los sistemas y llevar a cabo el registro de la información
+
+P.O. 6 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 506. SE REFORMA LA FRACCIÓN LIII DEL ARTÍCULO 95 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
