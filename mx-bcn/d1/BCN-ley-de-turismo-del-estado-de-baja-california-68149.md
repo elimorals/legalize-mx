@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-68149"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2021-03-19"
+last_updated: "2021-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de abril de 2009.
 
@@ -635,13 +635,17 @@ VIII.- Turismo Agropecuario.- Es la actividad turística con fines de exposició
 
 IX.- Turismo Educativo.- Es la actividad turística por la cual se desarrollan actividades de visitas a campus e instrucciones educativas con fines de intercambio académico, cultural, deportivo y recreativo;
 
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
-X.- Turismo Gastronómico.- Es aquella actividad turística en donde se promueve la exposición y degustación de platillos de la cocina típica del Estado; y
+X.- Turismo Gastronómico.- Es aquella actividad turística en donde se promueve la exposición y degustación de platillos de la cocina típica del Estado;
 
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
-XI.- Turismo Enológico.- Es aquella actividad turística en donde se promueve la exposición y degustación de vinos de la región con fines de concurso, competencias y promoción comercial.
+XI.- Turismo Enológico.- Es aquella actividad turística en donde se promueve la exposición y degustación de vinos de la región con fines de concurso, competencias y promoción comercial; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2021)</small>
+
+XII.- Turismo Cervecero.- Es la actividad turística compuesta de aquellos establecimientos debidamente registrados donde de manera artesanal se produce cerveza, se degusta y se comercializa ya sea en envase abierto o cerrado.
 
 ###### ARTÍCULO 47.
 
@@ -1346,5 +1350,11 @@ Todas las menciones al salario mínimo como unidad de cuenta, índice, base, med
 P.O. 19 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 202 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 65 A LA LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 252 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 46 DE LA LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
