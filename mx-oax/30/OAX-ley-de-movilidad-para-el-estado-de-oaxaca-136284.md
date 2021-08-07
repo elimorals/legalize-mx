@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2021-03-27"
+last_updated: "2021-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -3001,6 +3001,10 @@ DÉCIMO SEGUNDO: Los Ayuntamientos del Estado de Oaxaca, tendrán un plazo de tr
 
 DÉCIMO TERCERO: El Registro Estatal de Transporte de Oaxaca, que se encuentra en proceso de integración por parte de la Secretaría, será concluido en términos de la Ley de Transporte del Estado de Oaxaca y su Reglamento, bajo los cuales se inició.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+DÉCIMO CUARTO: Derivado de situaciones extraordinarias y/o fortuitas que afecten a la población en general, como pandemias, confinamientos, suspensión de actividades, entre otras, implementadas como acción de prevención para evitar la propagación de virus, bacterias o la continuación de daños en el Estado de Oaxaca; en los años 2020 y 2021, las autoridades de movilidad, previo los dictámenes necesarios debidamente fundados y motivados que deben ser emitidos por las autoridades competentes que justifiquen el beneficio a la población, podrán emitir acuerdos generales a efecto de (sic) por tiempo determinado, no se contabilice el cómputo de los plazos establecidos en esta Ley, respecto de la operación de los títulos de concesiones y prestación del servicio público de transporte en Oaxaca, por el Estado o por terceros.
+
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 12 de abril de 2019.- Dip. César Enrique Morales Niño, Presidente.- Presidente.- Dip. Yarith Tannos, Secretaria.- Dip. Arsenio Lorenzo Mejía García, Secretario.- Dip. Griselda Sosa Vásquez, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 16 de abril de 2019. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
@@ -3130,3 +3134,9 @@ PRIMERO.- El presente Decreto entrará en vigor dentro de los 30 días posterior
 SEGUNDO.- En un plazo de 90 días naturales contados a partir de la fecha de entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado de Oaxaca, reformará, adicionará o derogará, según corresponda, todas las disposiciones que se opongan al presente Decreto, contenidas en el Reglamento de la Ley de Movilidad para el estado de Oaxaca, que permita la plena ejecución del presente Decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales vigentes, de igual o menor rango, que se opongan al presente Decreto.
+
+P.O. 7 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2527.- MEDIANTE EL CUAL SE ADICIONA EL TRANSITORIO DÉCIMO CUARTO AL DECRETO NÚMERO 634 MEDIANTE EL CUAL SE APRUEBA LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
