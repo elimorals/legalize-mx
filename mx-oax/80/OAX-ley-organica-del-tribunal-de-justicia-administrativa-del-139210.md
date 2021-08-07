@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-tribunal-de-justicia-administrativa-del-139210
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-11-07"
-last_updated: "2019-11-14"
+last_updated: "2021-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON LO ORDENADO POR EL ARTÍCULO 53 FRACCIÓN VI, PÁRRAFO SEGUNDO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECE QUE EN CASO DE QUE EL CONGRESO DEL ESTADO NO RESUELVA EN EL PLAZO ESTABLECIDO LA APROBACIÓN O RECHAZO DE LAS OBSERVACIONES PRESENTADAS CON EL VETO, SE TENDRÁN POR APROBADAS, PARA SURTIR INMEDIATAMENTE LOS EFECTOS CONDUCENTES DE PROMULGACIÓN Y PUBLICACIÓN, EN CONSECUENCIA SE PUBLICA EL ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE QUEDAN APROBADAS LAS OBSERVACIONES REALIZADAS AL DECRETO 805 EN EL P.O. 14 DE NOVIEMBRE DE 2019.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
 
 Ley publicada en el Extra del Periódico del Oficial del Estado de Oaxaca, el jueves 7 de noviembre de 2019.
 
@@ -49,25 +49,31 @@ LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA
 
 ## TÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto determinar la integración, organización, estructura, atribuciones y funcionamiento del Tribunal de Justicia Administrativa del Estado de Oaxaca.
+La presente Ley es de orden público e interés general y tiene por objeto determinar la organización, administración, vigilancia y disciplina del Tribunal de Justicia Administrativa del Estado de Oaxaca.
 
-La función jurisdiccional se ejerce por la Sala Superior, Salas Unitarias y Sala Especializada, en sus respectivos ámbitos de competencia.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 2.
 
-La justicia administrativa se deposita en este Tribunal, que es un órgano jurisdiccional autónomo e independiente en su ejercicio, con personalidad jurídica y patrimonio propio, facultado para ejercer control de legalidad, convencionalidad y constitucionalidad, dotado de plena jurisdicción para emitir y hacer cumplir sus fallos, constituyéndose en la máxima autoridad jurisdiccional del Estado de Oaxaca en materia de fiscalización, rendición de cuentas, responsabilidad de los servidores públicos, responsabilidades administrativas y combate a la corrupción.
+La justicia administrativa se deposita en este Tribunal, que es un órgano jurisdiccional autónomo e independiente en su ejercicio, con personalidad jurídica y patrimonio propio, facultado para ejercer control de legalidad, convencionalidad y constitucionalidad, dotado de plena jurisdicción para emitir y hacer cumplir sus fallos, constituyéndose en la máxima autoridad jurisdiccional del Estado de Oaxaca en materia administrativa, de fiscalización, rendición de cuentas, responsabilidad de los servidores públicos, responsabilidades administrativas y combate a la corrupción.
 
-Formará parte de los Sistemas Nacional y Estatal Anticorrupción y estará sujeto a las bases establecidas en los artículos 113 de la Constitución Política de los Estados Unidos Mexicanos; 114 QUÁTER de la Constitución Política del Estado Libre y Soberano de Oaxaca, en las leyes General y Estatal del Sistema de Combate a la Corrupción, de Responsabilidades Administrativas y en el presente ordenamiento.
+Formará parte de los Sistemas Nacional y Estatal de Combate a la Corrupción y estará sujeto a las bases establecidas en los artículos 113 de la Constitución Política del (sic) los Estados Unidos Mexicanos; 114 QUÁTER de la Constitución Política del Estado Libre y Soberano de Oaxaca, así como a las leyes General y Estatal del Sistema de Combate a la Corrupción, de Responsabilidades Administrativas, la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, en el Presente Ordenamiento y las demás leyes del que integren el sistema de justicia administrativa.
 
-Los actos y las resoluciones del Tribunal se sujetarán a los principios de imparcialidad, legalidad, igualdad, publicidad, audiencia, constitucionalidad, convencionalidad, presunción de inocencia y pro persona.
+Los actos y las resoluciones del Tribunal se sujetarán a los principios de imparcialidad, legalidad, igualdad, publicidad, audiencia, constitucionalidad, convencionalidad, debido proceso, presunción de inocencia y pro persona.
+
+La función jurisdiccional se ejerce por la Sala Superior, Salas Unitarias y Sala Especializada, en sus respectivos ámbitos de competencia.
 
 ###### ARTÍCULO 3.
 
 Para efectos de esta Ley se entenderá, por:
 
-I. Acuerdos Generales: Determinaciones administrativas que con ese carácter emita el Pleno del Tribunal;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+I. Acuerdos Generales: Las determinaciones administrativas de observación general para la estructura del propio Tribunal y para los justiciables que se emitan con tal carácter por el Pleno del Tribunal;
 
 II. Congreso: Honorable Congreso del Estado Libre y Soberano de Oaxaca;
 
@@ -81,7 +87,9 @@ VI. Ley de Procedimiento: Ley de Procedimiento y de Justicia Administrativa para
 
 VII. Ley de Justicia de Fiscalización: Ley de Justicia de Fiscalización y Rendición de Cuentas para el Estado de Oaxaca;
 
-VIII. Órgano de Control Interno: La Dirección de Contraloría del Tribunal de Justicia Administrativa del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+VIII. Órgano Interno de Control: La unidad administrativa que tiene a su cargo promover, evaluar y fortalecer el buen funcionamiento del control interno, competente para aplicar las leyes en materia de responsabilidades de los servidores públicos del Tribunal de Justicia Administrativa del Estado de Oaxaca;
 
 IX. Órgano Superior: Órgano Superior de Fiscalización del Estado de Oaxaca;
 
@@ -99,9 +107,13 @@ XV. Reglamento: Reglamento Interno del Tribunal de Justicia Administrativa del E
 
 XVI. Salas Especializadas: En materia de Responsabilidades Administrativas y Combate a la Corrupción, así como aquellas que conozcan de materias específicas con la jurisdicción y competencia que determine el Pleno del Tribunal de Justicia Administrativa del Estado de Oaxaca;
 
-XVII. Sala Superior: Órgano jurisdiccional del Tribunal de Justicia Administrativa del Estado de Oaxaca, que integra la segunda instancia y (sic) constituida por cinco Magistradas o Magistrados;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XVIII. Salas Unitarias: Salas Unitarias jurisdiccionales que integran la Primera Instancia del Tribunal de Justicia Administrativa del Estado de Oaxaca;
+XVII Sala Superior: Órgano jurisdiccional del Tribunal de Justicia Administrativa del Estado de Oaxaca, que constituye la segunda instancia en los asuntos de su competencia, misma que está integrada por cinco Magistradas o Magistrados;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XVIII. Salas Unitarias: Salas a cargo de una Magistrada o Magistrado cuyas funciones son jurisdiccionales y constituyen la Primera Instancia del Tribunal de Justicia Administrativa del Estado de Oaxaca.
 
 XIX. Tribunal: Tribunal de Justicia Administrativa del Estado de Oaxaca.
 
@@ -201,25 +213,39 @@ e) Las demás que el Pleno acuerde como necesarias.
 
 Las personas que ocupen los cargos previstos en los incisos del a) al d) tienen fe pública en lo relativo al ejercicio de sus funciones, debiendo conducirse siempre con estricto apego a la verdad.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 7 DE AGOSTO DE 2021, PÁGINA 5.]</small>
+
 III. Los siguientes órganos administrativos:
 
-a) Secretaría Particular;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
 
-b) Dirección de Administración;
+a) Dirección de Administración;
 
-c) Dirección de Finanzas;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
 
-d) Dirección de Contraloría Interna;
+b) Dirección de Finanzas;
 
-e) Coordinación de Asesores;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
 
-f) Coordinación de Capacitación;
+c) Unidad de Transparencia; y
 
-g) Unidad de Transparencia;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
 
-h) Unidad de Informática, y
+d) Dirección del Fondo para el Fortalecimiento de la Justicia Administrativa.
 
-i) Coordinación de Comunicación Social y Relaciones Públicas.
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+IV. Los siguientes Órganos Auxiliares:
+
+a) Unidad de Informática;
+
+b) Secretaría particular;
+
+c) Coordinación de Comunicación Social y Relaciones Públicas;
+
+d) Coordinación de Capacitación, Derechos Humanos e Igualdad de Género; y
+
+e) Coordinación de Asistencia y Orientación Legal a la o el Administrado.
 
 La estructura, facultades y atribuciones de estas áreas se establecerán en el Reglamento.
 
@@ -243,11 +269,15 @@ IV. Crear nuevas Salas y determinar la circunscripción territorial y competenci
 
 V. Adscribir a Magistradas y Magistrados a Sala Superior, Unitarias y Especializadas;
 
-VI. Designar, remover y acordar a propuesta del Presidente, al Secretario General de Acuerdos y al Director de Control Interno.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+VI. Designar o remover a propuesta del Presidente o Presidenta, al Secretario o Secretaria General de Acuerdos, al Coordinador o Coordinadora de Asistencia y Orientación Legal a la o el Administrado y al Director o Directora del Fondo para el Fortalecimiento de la Justicia Administrativa;
 
 VII. Resolver sobre las renuncias, remoción, e inhabilitación de funcionarios del Tribunal en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, y conceder licencias a las y los magistrados, cuando proceda en cada caso;
 
-VIII. Presentar iniciativas de reforma a la Constitución Política del Estado y a las leyes secundarias correspondientes relacionadas con la materia de trabajo del tribunal;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+VIII. Presentar iniciativas de reforma a la Constitución Política del Estado y a las leyes secundarias correspondientes relacionadas con la materia de trabajo del tribunal, así como a las leyes administrativas estatales o municipales;
 
 IX. Expedir y reformar el Reglamento Interno del Tribunal;
 
@@ -257,7 +287,7 @@ XI. Aprobar el proyecto de presupuesto de egresos que le presente el Presidente 
 
 XII. Dictar las medidas administrativas que exija el buen funcionamiento del Tribunal, e imponer sanciones al personal;
 
-XIII. Discutir y aprobar el proyecto del presupuesto de egresos del Tribunal;
+XIII. (DEROGADA, P.O. 7 DE AGOSTO DE 2021)
 
 XIV. Habilitar un recinto alterno para sesionar cuando las condiciones y necesidades así lo requieran, y
 
@@ -269,7 +299,9 @@ XV. Las demás que le fijen esta Ley, su Reglamento y Acuerdos Generales.
 
 Las sesiones del Pleno del Tribunal serán aquellas que se establecen en esta ley, en el Reglamento y en las demás disposiciones aplicables; se celebrarán en la sede del Tribunal, previa integración del quórum legal, con la participación del Secretario General de Acuerdos, quien dará fe de lo actuado.
 
-En forma excepcional, las sesiones podrán celebrarse fuera del recinto oficial, previo acuerdo de los integrantes del Pleno.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+En forma excepcional, las sesiones podrán celebrarse fuera del recinto oficial, previo acuerdo de los integrantes del Pleno; así también de manera virtual, cuando se presenten razones de fuerza mayor o causas inéditas.
 
 Iniciada la sesión, sólo podrá interrumpirse por los recesos decretados por el Presidente, o por causa grave que así lo requiera. Las sesiones serán públicas.
 
@@ -303,9 +335,11 @@ Las Sesiones serán públicas, debiéndose convocar a los integrantes del Pleno 
 
 ### CAPÍTULO III. DE LOS ACUERDOS GENERALES DEL PLENO DEL TRIBUNAL
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 15.
 
-El Pleno del Tribunal tiene la facultad de emitir los acuerdos que sean necesarios para una mejor administración e impartición de justicia.
+El pleno del Tribunal tiene la facultad de emitir los acuerdos que sean necesarios para una mejor administración e impartición de justicia, y para un mejor funcionamiento y correcto desempeño en sus obligaciones públicas y administrativas.
 
 ###### ARTÍCULO 16.
 
@@ -343,7 +377,9 @@ V. Autorizar, conjuntamente con el Secretario o Secretaria General, los acuerdos
 
 VI. Proponer a las Magistradas o Magistrados del Pleno del Tribunal los proyectos de Acuerdos Generales conducentes al mejoramiento de la Justicia Administrativa;
 
-VII. Proponer al Pleno del Tribunal, el nombramiento del Secretario o Secretaria General de Acuerdos, y de las personas Titulares de la Contraloría y de la Dirección de Administración y Finanzas;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+VII. Proponer al Pleno del Tribunal, el nombramiento del Secretario o Secretaria de Acuerdos y de las personas Titulares de los Órganos Administrativos y Auxiliares;
 
 VIII. Vigilar que la administración de justicia sea pronta y expedita;
 
@@ -479,7 +515,9 @@ k) Las Magistradas o Magistrados podrán solicitar el diferimiento de los asunto
 
 l) Se podrán hacer mociones de orden para agilizar el debate, sin que en ellas se deban abordar consideraciones sobre el sentido de la decisión en análisis; y
 
-m) El Presidente, cuando el caso lo amerite, podrá proponer la suspensión de la sesión, atendiendo a circunstancias que lo justifiquen.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+m) El Presidente, cuando el caso lo amerite, podrá proponer la suspensión de la sesión, y su reanudación en forma virtual o presencial atendiendo a circunstancias que lo justifiquen.
 
 ###### ARTÍCULO 29.
 
@@ -527,9 +565,11 @@ II. Secretarias o Secretarios de Acuerdos de Sala y de Estudio y Cuenta;
 
 III. Actuarias, actuarios, Oficiales Administrativos y demás personal técnico y administrativo que el Pleno del Tribunal autorice de acuerdo al presupuesto de egresos respectivo.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 34.
 
-Las Salas Unitarias tendrán la jurisdicción y la sede que señale el Pleno del Tribunal, las que podrán ser modificadas cuando éste lo determine, atendiendo siempre a las necesidades del servicio.
+Las Salas Unitarias tendrán jurisdicción y la sede que señale el Pleno del Tribunal, las que podrán ser modificadas cuando este lo determine, atendiendo siempre las necesidades de las y los justiciables y la capacidad financiera y administrativa.
 
 ###### ARTÍCULO 35.
 
@@ -591,9 +631,11 @@ XII. De los asuntos cuya resolución esté reservada al Tribunal conforme a lo d
 
 ### CAPÍTULO IV. DE LA SALA ESPECIALIZADA EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 37.
 
-El Tribunal contará con una Sala Especializada en materia de Responsabilidades Administrativas y Combate a la Corrupción, conocerá de las faltas administrativas graves que señalen las leyes General y Estatal de la materia, tendrá jurisdicción y competencia en el territorio del estado de Oaxaca.
+El Tribunal contará con una Sala Especializada en materia de Responsabilidades Administrativas y Combate a la Corrupción, conocerá de las faltas administrativas graves y no graves en los términos que señalen las leyes General y Estatal de la materia, y demás facultades que el Pleno del Tribunal le asigne; tendrá jurisdicción y competencia en el territorio del Estado de Oaxaca.
 
 ###### ARTÍCULO 38.
 
@@ -787,7 +829,9 @@ XI. Realizar las notificaciones que se le encomienden, por el Pleno del Tribunal
 
 XII. Tramitar y firmar los oficios, exhortos, despachos y demás encomiendas que se generen, ya sea del Pleno del Tribunal, de la Sala Superior o de la Presidencia;
 
-XIII. Supervisar el debido funcionamiento de la Oficialía de Partes y del Sistema General de Archivo del Tribunal;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XIII. Supervisar el debido funcionamiento de la Oficialía de Partes y del Sistema General de Archivo del Tribunal. Para lo cual deberá sistematizar y concentrar los archivos de trámite en cada una de las áreas; para lo cual deberá contar con un archivo de concentración e histórico, así como elaborar los instrumentos de control y consulta, que permitan la correcta y adecuada organización, descripción, localización, conservación y depuración de los documentos.
 
 XIV. Implementar y supervisar que se hagan en tiempo y forma las notificaciones de los acuerdos y resoluciones del Pleno del Tribunal o de la Sala Superior;
 
@@ -807,9 +851,13 @@ La Secretaría General contará con las unidades auxiliares que determine el reg
 
 ### CAPÍTULO II. DE LOS SECRETARIOS DE ESTUDIO Y CUENTA
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 54.
 
-Los Secretarios de Estudio y Cuenta tendrán como atribuciones y obligaciones:
+Las Secretarias o Secretarios de Estudio y Cuenta de Sala Superior, Salas Unitarias y Especializada tendrán como atribuciones y obligaciones:
+
+a) Sala Superior:
 
 I. Custodiar los expedientes y documentos que les sean turnados para la elaboración de proyectos, y en consecuencia deben guardar sigilo y discreción respecto de los asuntos y proyectos que se les encomienden para su formulación;
 
@@ -817,11 +865,23 @@ II. Elaborar los proyectos de resolución de los asuntos que le sean turnados al
 
 III. Reunir, dentro de los primeros cinco días de cada mes, los datos estadísticos necesarios para los informes que deban proporcionarse;
 
-IV. Auxiliar al Secretario General de Acuerdos en todas sus funciones;
+IV. Auxiliar al Secretario o Secretaria General de Acuerdos en todas sus funciones;
 
-V. Suplir en caso de ausencia a los Secretarios de Acuerdo y/o de Cuenta de las Salas Unitarias.
+V. Suplir en caso de ausencia al Secretario o Secretaria General de Acuerdos; y
 
 VI. Las demás que le determine la o el Magistrado de su adscripción.
+
+b) Salas Unitarias y Sala Especializada:
+
+I. Custodiar los expedientes y documentos que le sean turnados para la elaboración de proyectos, y en consecuencia deben guardar sigilo y discreción respecto de los asuntos y proyectos que se les encomienden para su formulación;
+
+II. Elaborar los proyectos de resolución de los asuntos que le sean turnados al Magistrado o Magistrada de su adscripción;
+
+III. Reunir, dentro de los primeros cinco días de cada mes, los datos estadísticos necesarios para los informes que deban proporcionarse;
+
+IV. Suplir en caso de ausencia a los Secretarios de Acuerdos;
+
+V. Las demás que le determine la o el Magistrado de su adscripción.
 
 ### CAPÍTULO III. DE LOS SECRETARIOS DE ACUERDOS DE LAS SALAS UNITARIAS DE PRIMERA INSTANCIA Y ESPECIALIZADA
 
@@ -1007,6 +1067,18 @@ La Dirección de Administración, es la encargada del control de los recursos fi
 
 Estará a cargo de un Director, designado y removido por el pleno a propuesta de la Presidencia.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+Para ser Director o Directora de Administración se requiere:
+
+I. Ser ciudadano o ciudadana mexicana en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Tener por lo menos treinta años de edad cumplidos al día del nombramiento y un mínimo de cinco años de experiencia en el campo profesional;
+
+III. Tener título y cédula profesional de licenciatura en: contaduría pública, administración pública o carreras afines; expedidos por la institución educativa y autoridad legalmente facultada para ello; y
+
+IV. No haber sido condenado o condenada por la comisión de algún delito, excepto culposo por tránsito de vehículo, salvo que se haya cometido bajo los influjos del alcohol, de alguna droga o enervante.
+
 ###### ARTÍCULO 70.
 
 Son atribuciones de la Dirección de Administración:
@@ -1051,35 +1123,91 @@ IV. Una Jefatura de Departamento de Recursos Materiales.
 
 Las funciones y actividades a desarrollar por cada una de las áreas que integran la Dirección de Administración quedarán establecidas en el Reglamento, Acuerdos Generales y Manuales Internos que autorice la Sala Superior.
 
-### CAPÍTULO IV. DEL ÓRGANO DE CONTROL INTERNO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE AGOSTO DE 2021)</small>
+
+### CAPÍTULO IV. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 72.
 
-El control interno del Tribunal se ejerce por la Dirección de Contraloría Interna, que es la encargada de aplicar las disposiciones de control e inspección relativas al funcionamiento administrativo que rigen a los órganos y servidores públicos del Tribunal con la finalidad de mejorar su actuación y desempeño.
+El Órgano Interno de Control del Tribunal, tendrá las facultades que le conceden la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y demás disposiciones legales aplicables. Así mismo, será el encargado de aplicar las disposiciones de control interno e inspección relativas al funcionamiento administrativo que rigen a los órganos y servidores públicos del Tribunal con la finalidad de evaluar el desempeño y mejorar su actuación y la función pública.
+
+En el ejercicio de sus atribuciones estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
+
+En su desempeño el Órgano Interno de Control se sujetará a los principios de imparcialidad, máxima publicidad, austeridad, independencia, legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia.
+
+El Órgano Interno de Control mantendrá la coordinación necesaria con el Órgano Superior de Fiscalización del Estado de Oaxaca, así como los órganos que integran el Sistema Estatal de Combate a la Corrupción, con la finalidad de cumplir sus funciones.
+
+(NOTA: EL 2 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 122/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO Y, POR EXTENSIÓN, LA DE LOS EFECTOS DE LOS ACTOS DE APLICACIÓN DE LAS DISPOSICIONES SEÑALADAS, LA CUAL SURTIÓ EFECTOS EL 7 DE MARZO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+ARTÍCULO 72 BIS.- La persona titular del Órgano Interno de Control será designada por el voto de las dos terceras partes de las y los integrantes presentes del Congreso del Estado, mediante convocatoria pública y abierta que emita la Comisión permanente de Administración y Procuración de Justicia, bajo el principio de máxima publicidad.
+
+Del proceso de selección, la Comisión Permanente presentará una terna de candidaturas que deberán cumplir con los requisitos que establezca esta Ley para ser votada. Durará tres años en su encargo pudiendo ser reelecto o reelecta una sola vez.
+
+Si no se lograre la votación en los términos del párrafo anterior, se realizarán las rondas que sean necesarias hasta alcanzar el voto de las dos terceras partes de las y los integrantes de la legislatura presentes.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+ARTÍCULO 72 TER.- Para ocupar la titularidad del Órgano Interno de Control del Tribunal deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano o ciudadana mexicana en pleno ejercicio de sus derechos políticos y civiles y con residencia en el Estado de un año anterior a la publicación de la convocatoria;
+
+II. Tener treinta años cumplidos al momento de su designación;
+
+III. No haber sido condenado o condenada por delito intencional que amerite pena corporal de más de un año de prisión o cualquiera que haya sido la pena cuando se trate de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público;
+
+IV. Contar al momento de su designación con experiencia profesional de al menos tres años en el control, manejo o fiscalización de recursos;
+
+V. Contar al día de su designación con título y cédula profesional de nivel licenciatura, de contaduría pública, derecho u otro relacionado en forma directa con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello con una antigüedad mínima de cinco años;
+
+VI. No haber desempeñado en los dos últimos años anteriores al día de su designación el cargo de representante popular electo por el sistema de partidos políticos, servidor público de mando superior de la Federación, del Estado o de los Ayuntamientos, o haber ocupado algún cargo de un partido político, y
+
+VII. No pertenecer o haber pertenecido dentro del último año anterior a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Tribunal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 73.
 
-La Dirección de Contraloría Interna tendrá las siguientes atribuciones:
+El Órgano Interno de Control del Tribunal tendrá las siguientes atribuciones:
 
 I. Recepcionar las quejas, denuncias y sugerencias que se presenten con motivo de la actuación de los servidores públicos del Tribunal y darles el trámite correspondiente;
 
-II. Comprobar el cumplimiento por parte de los órganos administrativos de las obligaciones derivadas de las disposiciones en materia de planeación, presupuesto, ingresos, egresos, financiamiento, patrimonio, fondos y valores;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-III. Vigilar el cumplimiento de los lineamientos relativos al funcionamiento administrativo, que fije la normatividad aplicable a los servidores públicos y empleados del Tribunal;
+II. Comprobar el cumplimiento por parte de los órganos administrativos de las obligaciones derivadas de las disposiciones legales en materia de planeación, presupuesto, ingresos, egresos, financiamiento, patrimonio, fondos y valores, contabilidad, rendición de cuentas y transparencia gubernamental;
 
-IV. Vigilar el óptimo aprovechamiento de los recursos humanos, financieros y materiales, asignados a las diversas áreas administrativas y jurisdiccionales del Tribunal;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-V. Formular el programa anual de control y auditoría para aprobación del Pleno;
+III. Vigilar el cumplimento de los reglamentos, acuerdos o lineamientos y demás normatividad administrativa y laboral, por parte de los servidores públicos y empleados del Tribunal;
 
-VI. Realizar la práctica de auditorías, investigaciones especiales de oficio, visitas, inspecciones y revisiones que ordene la Presidencia y el Pleno, a los órganos jurisdiccionales y áreas administrativas que integran el Tribunal, así como elaborar los informes de resultados correspondientes, adjuntando las pruebas conducentes que serán remitidos al Pleno;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-VII. Con excepción de las y los Magistrados, fincar la responsabilidad administrativa resarcitoria a los demás servidores públicos del Tribunal, cuando detecte irregularidades por actos u omisiones en el manejo, aplicación, administración de fondos, valores y recursos económicos que se traduzcan en daños y perjuicios estimables en dinero causados al patrimonio del mismo;
+IV. Vigilar el correcto uso y el aprovechamiento de los recursos humanos, financieros y materiales, asignados a las diversas áreas administrativas y jurisdiccionales del Tribunal;
 
-VIII. Supervisar que las observaciones derivadas de las auditorías practicadas sean atendidas con la debida oportunidad por los servidores públicos correspondientes, en caso de omisión, darle vista al Pleno del Tribunal;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+V. Formular el programa anual de control y auditoría del Tribunal;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+VI. Ordenar y realizar la práctica de auditorías, investigaciones especiales, visitas, inspecciones o revisiones de oficio o que le ordene la Presidencia y el Pleno, a los órganos jurisdiccionales y áreas administrativas que integran el Tribunal, así como elaborar los informes de resultados correspondientes, adjuntando las pruebas conducentes si lo estima necesario para ser remitidas al Pleno;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+VII. Fincar las responsabilidades administrativas resarcitorias a los servidores públicos del Tribunal, cuando en el ejercicio de sus atribuciones detecte irregularidades por actos u omisiones en el manejo, aplicación, administración de fondos, valores y recursos económicos que se traduzcan en daños o perjuicios o ambos, estimables en dinero causados al patrimonio del mismo, quedando exceptuados de ello, las y los Magistrados;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+VIII. Dar seguimiento a las observaciones derivadas de las auditorías practicadas, para que estas sean atendidas con la debida oportunidad por los servidores públicos correspondientes, en caso de omisión, iniciar los procedimientos o ejercer las acciones que procedan o en su caso darle vista al Pleno del Tribunal;
 
 IX. Llevar a cabo las acciones que procedan a fin de hacer efectivo el cobro de las sanciones administrativas resarcitorias que se impongan a los servidores públicos del Tribunal;
 
-X. Intervenir en las diligencias de entrega-recepción cuando ocurran cambios de Titulares de las diversas áreas del Tribunal;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+X. Intervenir en las diligencias de entrega-recepción cuando ocurran cambios de Titulares de las diversas áreas del Tribunal y en caso de detectar alguna irregularidad deberá iniciar los procedimientos y ejercer las acciones que procedan dándole vista al Pleno;
 
 XI. Autorizar las bajas de bienes muebles del inventario en coordinación con la Dirección de Administración;
 
@@ -1087,37 +1215,55 @@ XII. Sustanciar los procedimientos administrativos con motivo de las inconformid
 
 XIII. Sustanciar los procedimientos administrativos con motivo de las inconformidades presentadas por los proveedores o contratistas, derivadas de las adjudicaciones efectuadas por el Tribunal;
 
-XIV. Sustanciar los procedimientos que se presenten en el ámbito de su competencia, conforme a las disposiciones jurídicas aplicables; y sancionar a los Secretarios, Defensores, Actuarios y Administrativos;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XV. Recibir y registrar las declaraciones 3 de 3: 1) Declaración Patrimonial, 2) Declaración de Intereses, 3) Comprobante de Pago de Impuestos (Fiscal), de los Servidores Públicos del Tribunal;
+XIV. Sustanciar los procedimientos que se presenten en el ámbito de su competencia, conforme a las disposiciones jurídicas aplicables; y sancionar a los Secretarios, Defensores, Actuarios y Administrativos del Tribunal;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XV. Recibir y registrar las declaraciones de situación patrimonial, de intereses y la copia de la declaración anual de pago de impuestos de los servidores públicos del Tribunal;
 
 XVI. Dar seguimiento a la evolución de la situación patrimonial de los servidores públicos del Tribunal en términos de lo previsto en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
 
-XVII. Requerir a los servidores públicos que omitan presentar su declaración de situación patrimonial inicial o de modificación patrimonial y en su caso, dar vista al Pleno;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XVIII. Proceder a la investigación del patrimonio del servidor público que omita presentar su declaración final de situación patrimonial, dándole vista al Pleno del Tribunal de los resultados obtenidos;
+XVII. Requerir a las y los servidores públicos del Tribunal que hayan omitido presentar las declaraciones inicial o anual de situación patrimonial o la copia de la declaración anual de impuestos a que se refiere la fracción XV del presente artículo y en su caso, iniciar los procedimientos o ejercer las acciones que procedan y si lo considera procedente darle vista al Pleno;
 
-XIX. Elaborar los manuales de organización y procedimientos de las áreas administrativas y jurisdiccionales del Tribunal, con la participación de estas, aprobados por el Pleno del Tribunal;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XX. Llevar el registro de los requerimientos de pago relativos a las pólizas de fianza enviadas al Fondo por los diferentes órganos jurisdiccionales del Tribunal;
+XVIII. Proceder a la investigación del patrimonio de la o el servidor público que haya omitido presentar su declaración final de situación patrimonial, debiendo iniciar los procedimientos o ejercer las acciones que procedan y si lo considera procedente darle vista la (sic) Pleno del Tribunal de los resultados obtenidos;
 
-XXI. Colaborar en las actividades de fiscalización conforme le sea requerido por el Órgano Superior de Fiscalización del Estado; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XXII. Las demás que señale el Reglamento y Acuerdos Generales.
+XIX. Aprobar los manuales de organización y procedimientos elaborados por las áreas administrativas y jurisdiccionales del Tribunal, debiendo coordinar el trabajo con los directivos a quienes corresponda su elaboración;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XX. Verificar el correcto registro de los requerimientos de pago relativos a las pólizas de fianza enviadas al Fondo por los diferentes órganos jurisdiccionales del Tribunal;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXI. Colaborar en las actividades de fiscalización conforme le sea requerido por el Órgano Superior de Fiscalización del Estado o el Sistema Nacional de Fiscalización; y
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXII. Las demás que señalen la Ley General de Responsabilidades Administrativas, la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, otras normatividades y acuerdos generales.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 74.
 
-Para el correcto ejercicio de las atribuciones que le otorgan esta Ley, el Reglamento, los Acuerdos Generales y demás disposiciones legales aplicables, la Dirección de Contraloría Interna, tendrá la siguiente estructura orgánica:
+Para el correcto ejercicio de las atribuciones que le otorgan esta Ley y demás disposiciones legales aplicables, el Órgano Interno de Control del Tribunal, tendrá la estructura orgánica siguiente:
 
-I. Un Director, quien representará a este Órgano de Control Interno;
+I. Un Contralor o Contralora General, quien será el titular y representará a este Órgano Interno de Control;
 
-II. Una Jefatura de Departamento de Auditoría, Organización y Métodos;
+II. Una Dirección de Auditoría, Organización y Métodos;
 
-III. Una Jefatura de Departamento de Investigación y Situación Patrimonial;
+III. Una Dirección de Investigación y Situación Patrimonial; y
 
-IV. Una Jefatura de Responsabilidades.
+IV. Una Dirección de Responsabilidades.
 
-Para el desempeño y cumplimiento de sus funciones, la Dirección de Contraloría Interna contará además con el personal administrativo necesario que autorice el presupuesto de egresos. La estructura, facultades y atribuciones de estas áreas de apoyo se establecen en el Reglamento.
+Para el desempeño y cumplimiento de sus funciones, el Contralor o Contralora General y las áreas del Órgano Interno de Control contarán además con el personal administrativo necesario que autorice el presupuesto de egresos y conforme a las necesidades del servicio emanadas de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y demás ordenamientos legales aplicables.
 
 ## TÍTULO NOVENO. DE LA CARRERA Y ÉTICA JURISDICCIONAL
 
@@ -1149,7 +1295,9 @@ El calendario anual de labores y los días inhábiles no contemplados en este ar
 
 Las obligaciones de los trabajadores al servicio del Tribunal, derivan:
 
-I. De la relación laboral; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+I. De la relación de trabajo como empleados o empleadas de un Órgano Constitucionalmente Autónomo del Estado; y
 
 II. De la función pública encomendada.
 
@@ -1169,9 +1317,15 @@ III. Permanecer en las instalaciones del Tribunal dentro de su jornada de trabaj
 
 IV. Guardar reserva absoluta en los asuntos de que tengan conocimiento, con motivo de su trabajo;
 
-V. Portar en las instalaciones del Tribunal el gafete oficial de identificación; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-VI. Las demás que fije la Presidencia.
+V. Portar en las instalaciones del Tribunal el gafete oficial de identificación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2021)</small>
+
+VI. Cumplir con los requerimientos que le haga el Órgano Interno de Control del Tribunal; y
+
+VII. Las demás que fije la Presidencia.
 
 ###### ARTÍCULO 81.
 
@@ -1269,7 +1423,9 @@ I. Es de uno a tres días máximo, en un plazo de cuatro meses, y sin que pueda 
 
 II. Se concede por razón de capacitación, actualización, especialización u otra análoga, y se concederá por el tiempo que duren los estudios, los que deberán justificarse a través de reporte escrito, conferencias o cualquier otro medio de expansión del conocimiento adquirido. Previo a la concesión de la licencia, el solicitante deberá suscribir una carta compromiso en la que se obligue a continuar laborando para el Tribunal por un plazo igual al doble del tiempo de la licencia que en su caso se le conceda; el incumplimiento a lo establecido dará lugar a la devolución por parte del servidor público de todas aquellas percepciones que por cualquier concepto le hubieren sido suministradas por el Tribunal en el plazo de licencia;
 
-III. Se solicita por causa de muerte de cónyuge, padres o hijos, hasta por veinte días;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+III. Se solicita por causa de muerte de cónyuge, concubino o concubina, padres o hijos, hasta por veinte días;
 
 IV. Se solicita por enfermedad grave de alguno de los acreedores alimentarios hasta por un máximo de veinte días; y
 
@@ -1320,3 +1476,19 @@ PRIMERO. Publíquese este Acuerdo en el Periódico Oficial del Gobierno del Esta
 SEGUNDO. El Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. El contenido de los artículos publicados en este Acuerdo, formará parte íntegra del Decreto 805 por el que se expide la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Oaxaca.
+
+P.O. 7 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2506.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+(NOTA: EL 2 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 122/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 2506 INDICADO CON MAYÚSCULAS Y, POR EXTENSIÓN, LA DE LOS EFECTOS DE LOS ACTOS DE APLICACIÓN DE LAS DISPOSICIONES SEÑALADAS, LA CUAL SURTIÓ EFECTOS EL 7 DE MARZO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+CUARTO. DENTRO DEL PLAZO DE TREINTA DÍAS HÁBILES CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, EL CONGRESO DEL ESTADO A TRAVÉS DE LA COMISIÓN PERMANENTE DE ADMINISTRACIÓN Y PROCURACIÓN DE JUSTICIA EMITIRÁ LA CONVOCATORIA PARA LA DESIGNACIÓN DE LA PERSONA TITULAR DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL.
+
+QUINTO. El Tribunal de Justicia Administrativo (sic) del Estado de Oaxaca deberá realizar las modificaciones y adecuaciones reglamentarias correspondientes para el cumplimiento del presente Decreto en un plazo no mayor de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
