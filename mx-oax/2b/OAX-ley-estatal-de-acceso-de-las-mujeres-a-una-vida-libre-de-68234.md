@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2021-03-27"
+last_updated: "2021-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -153,7 +153,7 @@ XIV. Alimentos: Comprenden la comida, el vestido, habitación y asistencia en ca
 
 XV. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+((REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)
 
 XVI. Refugios: Son los albergues, estancias, centros o establecimientos constituidos por instituciones gubernamentales y/o privadas para la atención y protección de las mujeres y sus hijas e hijos víctimas de violencia; y
 
@@ -448,6 +448,16 @@ VI. Implementar e imponer sanciones administrativas en el ámbito de sus compete
 ###### Artículo 18.
 
 Violencia en el ámbito social o en la comunidad, son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+###### Artículo 18 Bis.
+
+Se consideran actos de violencia simbólica, la realización de concursos, certámenes y/o cualquier otra forma de competencia o elección, en la que se promueva o se evalúe con base en estereotipos sexistas o discriminatorios las características físicas de niñas, adolescentes, niños y mujeres.
+
+Se encuentra comprendida en esta definición, los concursos o certámenes de belleza, y la elección de reinas, princesas u otras expresiones similares.
+
+Queda prohibida la asignación de recursos públicos, publicidad oficial, subsidios, auspicios institucionales por parte de los Poderes Públicos, los Órganos Autónomos y los Municipios del Estado de Oaxaca, para la realización o promoción de las actividades señaladas en el presente artículo, las cuales tampoco podrán formar parte de la publicidad oficial o de las campañas de promoción al turismo.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
@@ -2320,3 +2330,11 @@ Primero.- El presente decreto entrará en vigor el día primero de enero de 2022
 Segundo.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 Tercero. Secretaría de Finanzas deberá hacer las previsiones financieras necesarias para cumplir al (sic) párrafo segundo del artículo 76 del presente decreto.
+
+P.O. 7 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2525.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 18 BIS A LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
