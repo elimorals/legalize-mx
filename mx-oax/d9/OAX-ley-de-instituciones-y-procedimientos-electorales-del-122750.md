@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2021-06-05"
+last_updated: "2021-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -199,9 +199,9 @@ Artículo 3
 
 2.- A falta de disposición expresa se aplicarán la jurisprudencia y los principios generales de derecho.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
 
-3.- En lo no previsto por esta Ley se aplicarán supletoriamente las disposiciones contenidas en la Ley General, la Ley General de Partidos Políticos, así como en el Código Federal de Procedimientos Civiles, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, los Principios Penales Sustantivos, el Código Civil y el de Procedimientos Civiles del Estado de Oaxaca, y demás disposiciones aplicables.
+3.- En lo no previsto por esta Ley se aplicarán supletoriamente las disposiciones contenidas en la Ley General, la Ley General de Partidos Políticos, así como en el Código Federal de Procedimientos Civiles, Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, los Principios Penales Sustantivos, el Código Civil y el de Procedimientos Civiles del Estado de Oaxaca, y demás disposiciones aplicables.
 
 Artículo 4
 
@@ -2007,7 +2007,9 @@ III.- Sustraer, destruir, ocultar o utilizar indebidamente la documentación e i
 
 IV.- Conducirse con parcialidad en el desempeño de sus funciones; e
 
-V.- Incurrir en alguna de las infracciones mencionadas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, y a las que se refiere esta Ley.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+V.- Incurrir en alguna de las infracciones mencionadas en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, y a las que se refiere esta Ley.
 
 2.- A solicitud del Consejo General del Instituto Estatal, el Congreso del Estado resolverá sobre la aplicación de las sanciones al Contralor General, incluida entre éstas la remoción por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado.
 
@@ -2111,7 +2113,9 @@ Artículo 78
 
 Artículo 79
 
-1.- Todo el personal del Instituto Estatal será considerado de confianza y estará sujeto a la Ley de Responsabilidades de los Servidores Públicos y Municipios de Oaxaca.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+1.-Todo el personal del Instituto Estatal será considerado de confianza y estará sujeto a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 2.- El personal del Instituto Estatal será incorporado al régimen del Instituto Mexicano del Seguro Social.
 
@@ -3007,7 +3011,9 @@ Artículo 156
 
 4.- Son aplicables a los candidatos independientes, las normas sobre propaganda electoral contenidas en esta Ley.
 
-5.- Para los efectos de lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal, el informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de tales informes podrá tener fines electorales, ni realizarse dentro del periodo de precampaña y campaña electoral. Durante el periodo de un proceso electoral local el servidor público que pretenda dar publicidad a su informe en los términos del presente artículo deberá informar al Instituto Estatal con 30 días de anticipación la fecha exacta del evento público del informe, los días previos y posteriores que incluirá la difusión, los medios a utilizarse y la programación de los mensajes. El servidor público que incumpla con esta disposición estará sujeto a lo dispuesto por esta Ley y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+5.- Para los efectos de lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal, el informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de tales informes podrá tener fines electorales ni realizarse dentro del periodo de precampaña y campaña electoral. Durante el periodo de un proceso electoral local el servidor público que pretenda dar publicidad a su informe en los términos del presente artículo deberá informar al Instituto Estatal con 30 días de anticipación la fecha exacta del evento público del informe, los días previos y posteriores que incluirá la difusión, los medios a utilizarse y la programación de los mensajes. El servidor público que incumpla con esta disposición estará sujeto a lo dispuesto por esta Ley y la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 Artículo 157
 
@@ -3665,7 +3671,9 @@ f) Se prohíbe a los partidos políticos o coaliciones la sobre posición (sic),
 
 4.- Las quejas motivadas por la propaganda impresa de los partidos políticos y candidatos serán presentadas al Secretario del Consejo Distrital o Municipal que corresponda al ámbito territorial en que se presente el hecho que motiva la queja. El mencionado Secretario ordenará la verificación de los hechos, integrará el expediente y lo turnará al Secretario del Consejo General del Instituto Estatal para su trámite correspondiente.
 
-5.- En su caso, una vez que hayan concluido las campañas que realicen los partidos políticos la propaganda electoral deberá ser retirada a más tardar quince días después de la jornada electoral. En caso de no hacerlo, se solicitará a las autoridades municipales su retiro, aplicando el costo de dichos trabajos a las prerrogativas del partido político infractor el procedimiento respectivo será sustanciado por la Junta General Ejecutiva.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+5.- En su caso, una vez que hayan concluido las campañas que realicen los partidos políticos la propaganda electoral deberá ser retirada a más tardar tres días antes de la jornada electoral. En caso de no hacerlo, se solicitará a las autoridades municipales su retiro, aplicando el costo de dichos trabajos a las prerrogativas del partido político infractor; el procedimiento respectivo será sustanciado por la Junta General Ejecutiva.
 
 Artículo 200
 
@@ -5431,7 +5439,9 @@ VI.- En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del i
 
 6.- Una vez que las resoluciones que impongan sanciones económicas queden firmes y los recursos hayan sido pagadas (sic) a la Secretaría de Finanzas o ésta haya realizado la deducción correspondiente, en un plazo no mayor a treinta días naturales deberá canalizarlos al Consejo mencionado en el párrafo anterior, para su aplicación a los fines mencionados.
 
-7.- Las sanciones previstas en este capítulo, se aplicarán sin perjuicio de las penas o sanciones que pudieran corresponder al responsable, conforme a la legislación penal aplicable o la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, por la misma conducta.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+7.- Las sanciones previstas en este capítulo, se aplicarán sin perjuicio de las penas o sanciones que pudieran corresponder al responsable, conforme a la legislación penal aplicable o la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, por la misma conducta.
 
 ## TÍTULO SEGUNDO. DE LOS PROCEDIMIENTOS SANCIONADORES
 
@@ -5893,9 +5903,13 @@ Artículo 344
 
 2.- No se admitirán denuncias anónimas.
 
-3.- Las responsabilidades administrativas a que se refiere este artículo prescriben en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
 
-4.- Son de aplicación supletoria al presente capítulo las reglas de sustanciación y resolución del procedimiento sancionador, previsto en el Título Segundo del presente Libro y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+3.- Las responsabilidades administrativas a que se refiere este artículo prescriben en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+4.- Son de aplicación supletoria al presente capítulo las reglas de sustanciación y resolución del procedimiento sancionador, previsto en el Título Segundo del presente Libro y la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 Artículo 345
 
@@ -5949,7 +5963,9 @@ Con independencia del sentido de la resolución que ponga fin al procedimiento, 
 
 Artículo 350
 
-Las resoluciones que impongan sanciones administrativas, podrán ser impugnadas a través del recurso de revocación que se interpondrá dentro de los diez días hábiles siguientes a la notificación y ante la autoridad que emitió la resolución, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+Las resoluciones que impongan sanciones administrativas, podrán ser impugnadas a través del recurso de revocación que se interpondrá dentro de los diez días hábiles siguientes a la notificación y ante la autoridad que emitió la resolución, en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 # LIBRO DÉCIMO. DEL GOBIERNO DE COALICIÓN
 
@@ -6128,3 +6144,13 @@ P.O. 5 DE JUNIO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL ”DECRETO NÚM. 2508.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Para el cumplimiento de lo establecido en el numeral 5 del artículo 199, respecto al retiro de la propaganda electoral, esta entrará en vigor para el próximo proceso electoral.
