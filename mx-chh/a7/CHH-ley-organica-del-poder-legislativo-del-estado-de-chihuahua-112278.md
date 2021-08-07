@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2021-05-19"
+last_updated: "2021-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1977,9 +1977,11 @@ X. Las demás que deriven de las disposiciones legales aplicables.
 
 ### CAPÍTULO X. DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2021)</small>
 
-ARTÍCULO 145 TER.- El Órgano Interno de Control tendrá autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones, y contará con una persona titular que será su representante legal, y con la estructura orgánica y los recursos necesarios para el ejercicio de sus atribuciones.
+ARTÍCULO 145 TER. El Órgano Interno de Control tendrá autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; contará con una persona titular que será su representante legal, y en su estructura orgánica garantizará la independencia de funciones entre las autoridades que lo conforman, las que serán al menos aquellas con atribuciones de investigación, las de substanciación y resolución, en su caso, así como las encargadas de la auditoría interna y mejora de la gestión pública. Para lo cual, contará con los recursos necesarios para el cumplimiento de su objeto y atribuciones legales.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2020)</small>
 
 El Órgano Interno de Control tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de personas servidoras públicas del Congreso, así como de personas particulares vinculadas con faltas graves, y sancionar a aquellas distintas a las que son competencia del Tribunal Estatal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos, y presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
@@ -1989,7 +1991,9 @@ ARTÍCULO 145 QUATER.- El Órgano Interno de Control tendrá, además de lo prev
 
 I. Las que contempla la Ley General de Responsabilidades Administrativas.
 
-II. Verificar que el ejercicio del gasto del Congreso se realice conforme a la normatividad aplicable, los programas aprobados y los montos autorizados.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+II. Fiscalizar y verificar que el ejercicio del gasto del Congreso se realice conforme a la normatividad aplicable, los programas aprobados y los montos autorizados.
 
 III. Realizar los informes de las revisiones y auditorías que se practiquen para verificar la correcta y legal aplicación de los recursos y bienes del Congreso.
 
@@ -2003,17 +2007,29 @@ VII. Evaluar los informes de avance de la gestión financiera respecto de los pr
 
 VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el Presupuesto de Egresos del Congreso, empleando la metodología que determine.
 
-IX. Recibir denuncias conforme a las leyes aplicables.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-X. Solicitar la información y efectuar visitas a las áreas y órganos del Congreso para el cumplimento de sus funciones.
+IX. Recibir quejas y denuncias conforme a las leyes y competencia aplicables.
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+X. Solicitar la información, efectuar visitas de inspección e intervenciones de control a las áreas y órganos del Congreso para el cumplimento de sus funciones.
+
+Las atribuciones a que se refiere esta fracción podrán realizarse por la persona titular del Órgano Interno de Control o por conducto de las diversas áreas del propio Órgano Interno de Control a las que se les asignen de forma concurrente las mismas.
 
 XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en términos de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, ambos ordenamientos jurídicos del Estado de Chihuahua, y sus Reglamentos.
 
-XII. Intervenir en los actos de entrega-recepción de las personas servidoras públicas del Congreso de mandos medios y superiores, en los términos de la normatividad aplicable.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XIII. Participar en los comités y subcomités de los que el Órgano Interno de Control forme parte e intervenir en los actos que se deriven de los mismos.
+XII. Intervenir en los actos de entrega-recepción de las personas servidoras públicas del Congreso de mandos medios y superiores, así como de quienes, por la naturaleza e importancia de sus funciones, manejo de recursos públicos, personal a su cargo o resguardo de información, deban realizar la entrega recepción por determinación de quien tenga superioridad jerárquica o del Órgano Interno de Control, en los términos de la normatividad aplicable.
 
-XIV. Atender las solicitudes de los diferentes órganos del Congreso en los asuntos de su competencia.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XIII. Participar en los comités, subcomités y demás órganos colegiados de los que el Órgano Interno de Control forme parte e intervenir en los actos que se deriven de los mismos.
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XIV. Atender las solicitudes de las diferentes áreas administrativas del Congreso y de la Auditoría Superior del Estado en los asuntos de su competencia.
 
 XV. Proponer los proyectos de modificación o actualización de su estructura orgánica o sus recursos.
 
@@ -2027,7 +2043,37 @@ XIX. Participar en las reuniones de la Comisión de Fiscalización para brindar 
 
 XX. En general, coadyuvar y asistir a la Comisión de Fiscalización en el cumplimiento de sus atribuciones.
 
-XXI. Las demás que le confieran otros ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXI. Presentar de manera informativa al Pleno, en el mes de diciembre, un plan anual de trabajo para el siguiente ejercicio, el cual podrá ser modificado en atención a las circunstancias operativas del Órgano Interno de Control.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXII. Nombrar y remover libremente al personal del Órgano Interno de Control.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXIII. Certificar las copias de los documentos que se encuentren en los archivos del Órgano Interno de Control, así como de aquellos que por las actividades que realiza, tenga acceso o tenga a la vista, para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXIV. Llevar los registros y libros de gobierno de los asuntos de su competencia.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXV. Emitir reglamentos, lineamientos, manuales, guías y disposiciones de carácter general que se requieran para la debida organización y funcionamiento del Órgano Interno de Control, así como para el ejercicio de las atribuciones que las leyes y demás ordenamientos jurídicos le otorgan; debiendo ordenar, en su caso, la publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXVI. Presentar, a las diversas áreas administrativas del Congreso, propuestas de mejora, diagnósticos, evaluaciones, programas, proyectos, sistemas tecnológicos o cualquier mecanismo para su mejor funcionamiento y operación del control interno institucional, incluyendo las del propio Órgano Interno de Control.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXVII. Concertar y celebrar, en los casos que estime necesarios, convenios de coordinación con las instancias que requiera con el propósito de apoyar y hacer más eficiente la fiscalización, sin detrimento de sus atribuciones directas.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXVIII. Las demás que le confieran otros ordenamientos.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2020)</small>
 
@@ -2036,6 +2082,14 @@ ARTÍCULO 145 QUINQUIES.- El Órgano Interno de Control deberá inscribir y mant
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ARTÍCULO 145 SEXIES.- El Órgano Interno de Control, su titular y personal adscrito, cualquiera que sea su nivel, no intervendrán o interferirán, en forma alguna, en el desempeño de las facultades y ejercicio de atribuciones que la Constitución Política del Estado y esta Ley confieren a las y los servidores públicos del H. Congreso.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+Las y los servidores públicos del H. Congreso estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, para lo cual se les otorgará un plazo de dos hasta diez días hábiles, pudiendo ampliarse por causas debidamente justificadas cuando así lo solicite la parte requerida. Esta ampliación no podrá exceder en ningún caso la mitad del plazo previsto originalmente.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+Si transcurrido el plazo establecido por el Órgano Interno de Control, el área o persona servidora pública requerida, sin causa justificada, no atiende los requerimientos a que se refiere el párrafo anterior, aquel procederá a fincar las responsabilidades que correspondan.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2020)</small>
 
@@ -2047,7 +2101,9 @@ II. Se sujetará, en el desempeño de su cargo, a los principios previstos en la
 
 III. Se abstendrá de desempeñar cualquier otro empleo, cargo o comisión públicos o privados, con excepción de los de la docencia, en los términos de la normatividad aplicable.
 
-IV. Rendirá un informe semestral y anual de actividades al Pleno del Congreso, por conducto de la Presidencia.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+IV. Rendirá un informe de gestión anual de actividades al Pleno del Congreso, por conducto de la Presidencia, en el mes de febrero del año siguiente al que se reporta.
 
 ## TÍTULO SÉPTIMO. DE LOS ESTÍMULOS Y RECOMPENSAS
 
@@ -3160,3 +3216,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las denuncias y/o expedientes integrados con motivos de las mismas, materia de responsabilidades administrativas que en su caso se encontraran vigentes a la entrada en vigor del presente Decreto, iniciadas o tramitadas ante la Secretaría de Asuntos Legislativos y Jurídicos del Congreso del Estado, serán remitidas para su continuación y resolución, en su momento, al Órgano Interno de Control que corresponda según cada caso concreto.
+
+P.O. 7 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/1039/2021 XII P.E.”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
