@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2021-06-01"
+last_updated: "2021-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -481,6 +481,10 @@ d).- A no ser explotado en el trabajo;
 
 e).- A no ser separado del hogar, sino en los casos excepcionales que las leyes secundarias determinen.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+f).- Ser escuchado en los procesos jurisdiccionales o administrativos.
+
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 Las personas adultas mayores tienen derecho a un albergue decoroso e higiénico y a la atención y cuidado de su salud, alimentación y debido esparcimiento por parte de sus familiares en los términos establecidos en la Ley. Se atenderán los derechos y necesidades específicas de las personas adultas mayores en el contexto con los pueblos y comunidades indígenas y afromexicanas. En los casos en que sus familias no puedan hacerse cargo de ellos el Estado procurará albergues decorosos e higiénicos para su atención.
@@ -640,6 +644,10 @@ Para abatir las carencias y rezagos que afectan a los pueblos y comunidades ind�
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
 Se reconoce a las lenguas indígenas de los pueblos, comunidades indígenas y afromexicanas del Estado de Oaxaca como patrimonio cultural intangible del mismo, por lo que las autoridades del propio Estado, deberán proveer lo necesario para su preservación, enseñanza y difusión.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+Se reconoce a los protocolos bioculturales en sus modalidades de comunitario, micro regional, regional y estatal como elementos que contienen el derecho consuetudinario, recuperación de la memoria histórica, reconocimiento del patrimonio biocultural, natural y cultural, así como herramientas jurídicas que permitirán fortalecer el ejercicio pleno y efectivo de los derechos bioculturales de las comunidades indígenas, locales y el pueblo afromexicano de Oaxaca, así como las bases para relaciones constructivas y respetuosas entre dichas comunidades y actores externos, siempre y cuando estas no contravengan a la legislación estatal, nacional o internacional de la que el Estado Mexicano forma parte.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -5812,3 +5820,19 @@ V. La Presidencia del Consejo de Participación Ciudadana, será determinada por
 CUARTO. El Congreso del Estado contara con un plazo de 60 días contados a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca para expedir la Ley del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca. En tanto no se emita la referida Ley, se aplicará la Ley vigente de la materia
 
 QUINTO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+P.O. 7 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2510.- MEDIANTE EL CUAL SE ADICIONA EL INCISO F) AL PÁRRAFO VIGÉSIMO OCTAVO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2511.- MEDIANTE EL CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
