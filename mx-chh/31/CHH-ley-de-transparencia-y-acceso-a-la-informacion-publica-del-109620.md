@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1096
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-29"
-last_updated: "2020-01-15"
+last_updated: "2021-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de agosto de 2015.
 
@@ -639,7 +639,9 @@ ARTÍCULO 31 A. El Organismo Garante deberá contar con un Órgano Interno de Co
 
 Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas del personal del Organismo Garante, así como de personas particulares vinculadas con faltas graves, y sancionar a aquellas distintas a las que son competencia del Tribunal Estatal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos y presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
-El Órgano Interno de Control tendrá una persona titular que lo representará, y contará con la estructura orgánica y los recursos necesarios para el cumplimiento de su objeto.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+El Órgano Interno de Control tendrá una persona titular que lo representará, y en su estructura orgánica garantizará la independencia de funciones entre las autoridades que lo conforman, las que serán al menos aquellas con atribuciones de investigación, las de substanciación y resolución, en su caso, así como las encargadas de la auditoría interna y mejora de la gestión pública. Para lo cual, contará con los recursos necesarios para el cumplimiento de su objeto y atribuciones legales.
 
 En el desempeño de su cargo, la persona titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas.
 
@@ -649,7 +651,9 @@ ARTÍCULO 31 B. El Órgano Interno de Control tendrá las siguientes atribucione
 
 I. Las que contempla la Ley General de Responsabilidades Administrativas.
 
-II. Verificar que el ejercicio del gasto del Organismo Garante se realice conforme a la normatividad aplicable, los programas aprobados y los montos autorizados.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+II. Fiscalizar y verificar que el ejercicio del gasto del Organismo Garante se realice conforme a la normatividad aplicable, los programas aprobados y los montos autorizados.
 
 III. Presentar al Pleno los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Organismo Garante.
 
@@ -663,27 +667,65 @@ VII. Evaluar los informes de avance de la gestión financiera respecto de los pr
 
 VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el Presupuesto de Egresos del Organismo Garante, empleando la metodología que determine.
 
-IX. Recibir quejas y denuncias conforme a las leyes aplicables.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-X. Solicitar la información y efectuar visitas a las áreas y órganos del Organismo Garante para el cumplimento de sus funciones.
+IX. Recibir quejas y denuncias conforme a las leyes y competencia aplicables.
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+X. Solicitar la información, efectuar visitas de inspección e intervenciones de control a las áreas y órganos del Organismo Garante para el cumplimento de sus funciones. Las solicitudes y visitas a que se refiere esta fracción podrán realizarse por la persona titular del Órgano Interno de Control o por conducto de las diversas áreas del propio Órgano Interno de Control a las que se les asignen de forma concurrente las mismas.
 
 XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en términos de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Chihuahua, y sus Reglamentos.
 
-XII. Intervenir en los actos de entrega-recepción de las personas servidoras públicas del Organismo Garante de mandos medios y superiores, en los términos de la normatividad aplicable.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XIII. Participar en los comités y subcomités de los que el Órgano Interno de Control forme parte e intervenir en los actos que se deriven de los mismos.
+XII. Intervenir en los actos de entrega-recepción de las personas servidoras públicas del Organismo Garante de mandos medios y superiores, así como de quienes, por la naturaleza e importancia de sus funciones, manejo de recursos públicos, personal a su cargo o resguardo de información, deban realizar la entrega recepción, por determinación de quien tenga superioridad jerárquica o del Órgano Interno de Control, en los términos de la normatividad aplicable.
 
-XIV. Atender las solicitudes de los diferentes órganos del Organismo Garante en los asuntos de su competencia.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XIII. Participar en los comités, subcomités y demás órganos colegiados de los que el Órgano Interno de Control forme parte e intervenir en los actos que se deriven de los mismos.
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XIV. Atender las solicitudes de las diferentes áreas administrativas del Organismo Garante en los asuntos de su competencia.
 
 XV. Proponer los proyectos de modificación o actualización de su estructura orgánica o sus recursos.
 
 XVI. Formular el anteproyecto de presupuesto del Órgano Interno de Control.
 
-XVII. Presentar al Pleno los informes previo y anual de resultados de su gestión, así como comparecer ante el mismo, cuando así lo requiera la Presidencia.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XVII. Presentar de manera informativa al Pleno, en el mes de diciembre, un plan anual de trabajo para el siguiente ejercicio, el cual podrá ser modificado en atención a las circunstancias operativas del Órgano Interno de Control; así como un informe de gestión anual en el mes de febrero, respecto del ejercicio inmediato anterior al que se reporta.
 
 XVIII. Presentar al Pleno los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas.
 
-XIX. Las demás que le confieran otros ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2021)</small>
+
+XIX. Nombrar y remover libremente al personal del Órgano Interno de Control.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XX. Certificar las copias de los documentos que se encuentren en los archivos del Órgano Interno de Control, así como de aquellos que por las actividades que realiza, tenga acceso o tenga a la vista, para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXI. Llevar los registros y libros de gobierno de los asuntos de su competencia.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXII. Emitir reglamentos, lineamientos, manuales, guías y disposiciones de carácter general que se requieran para la debida organización y funcionamiento del Órgano Interno de Control, así como para el ejercicio de las atribuciones que las leyes y demás ordenamientos jurídicos le otorgan; debiendo ordenar, en su caso, la publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXIII. Presentar, a las diversas áreas administrativas del Órgano Garante, propuestas de mejora, diagnósticos, evaluaciones, programas, proyectos, sistemas tecnológicos o cualquier mecanismo para su mejor funcionamiento y operación del control interno institucional, incluyendo las del propio Órgano Interno de Control.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXIV. Concertar y celebrar, en los casos que estime necesarios, convenios de coordinación con las instancias que requiera con el propósito de apoyar y hacer más eficiente la fiscalización, sin detrimento de sus atribuciones directas.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXV. Las demás que le confieran otros ordenamientos.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
 
@@ -692,6 +734,18 @@ ARTÍCULO 31 C. El Órgano Interno de Control deberá inscribir y mantener actua
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
 
 ARTÍCULO 31 D. El Órgano Interno de Control, su titular y personal adscrito, cualquiera que sea su nivel, tienen impedimento para intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones conferidas a las y los servidores públicos del Organismo Garante.
+
+(NOTA: EL 24 DE JUNIO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE JUNIO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+Las y los servidores públicos del Órgano Garante estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, para lo cual se les otorgará un plazo DE DOS HASTA DIEZ DÍAS HÁBILES, pudiendo ampliarse por causas debidamente justificadas cuando así lo solicite la parte requerida. Esta ampliación no podrá exceder en ningún caso la mitad del plazo previsto originalmente.
+
+(NOTA: EL 24 DE JUNIO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE JUNIO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+SI TRANSCURRIDO EL PLAZO ESTABLECIDO POR EL ÓRGANO INTERNO DE CONTROL, EL ÁREA O PERSONA SERVIDORA PÚBLICA REQUERIDA, SIN CAUSA JUSTIFICADA, NO ATIENDE LOS REQUERIMIENTOS A QUE SE REFIERE EL PÁRRAFO ANTERIOR, AQUEL PROCEDERÁ A FINCAR LAS RESPONSABILIDADES QUE CORRESPONDAN.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
 
@@ -705,9 +759,9 @@ ARTÍCULO 31 F. La persona titular del Órgano Interno de Control tendrá un niv
 
 ARTÍCULO 31 G. La persona titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos de la docencia.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
 
-ARTÍCULO 31 H. La persona titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades al Pleno, del cual enviará copia al Congreso del Estado.
+ARTÍCULO 31 H. La persona titular del Órgano Interno de Control deberá remitir al Congreso del Estado, copia de su informe de gestión anual, en el mes de febrero del año siguiente al que se reporta.
 
 ## TÍTULO TERCERO. DE LOS SUJETOS DE LA LEY
 
@@ -2594,5 +2648,13 @@ P.O. 15 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0411/2019 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 22, PRIMER PÁRRAFO, EN SUS INCISOS A) AL E) DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXVI/RFLEY/1039/2021 XII P.E., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 31 A, PÁRRAFO TERCERO; 31 B, FRACCIONES II, IX, X, XII, XIII, XIV, XVII Y XIX; Y 31 H. SE ADICIONAN A LOS ARTÍCULOS 31 B, LAS FRACCIONES XX A XXV; Y 31 D, LOS PÁRRAFOS SEGUNDO Y TERCERO; TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
