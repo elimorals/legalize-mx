@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-72604
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-18"
-last_updated: "2021-06-05"
+last_updated: "2021-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 18 de julio de 2009.
 
@@ -313,13 +313,15 @@ XXVIII. Fomentar el manejo adecuado de residuos sólidos urbanos y de manejo esp
 
 XXIX. Prevenir, controlar y eliminar la contaminación generada por el uso de popotes y bolsas de uso único de material polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XXX. Fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía, en coordinación con los municipios; y
+XXX.- Aplicar, en colaboración con la Federación, el Gobierno Estatal y municipal instrumentos económicos que incentiven el desarrollo, adopción y ejecución de tecnologías limpias para la generación de energía eléctrica a partir de los residuos;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XXXI. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
+XXXI.- Diseñar y promover políticas públicas, que permitan el uso de tecnologías limpias para el aprovechamiento de los residuos en la generación de energía eléctrica;
+
+XXXII.- Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
@@ -1672,3 +1674,11 @@ P.O. 5 DE JUNIO DE 2021.
 PRIMERO. - El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2526.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXX, Y SE ADICIONA LA FRACCIÓN XXXI RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 8 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
