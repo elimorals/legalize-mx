@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2020-12-12"
+last_updated: "2021-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -143,39 +143,47 @@ XVI. Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el recon
 
 XVII. Informe de Adoptabilidad: El documento expedido por el Sistema DIF Estatal, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adopción de niñas, niños y adolescentes;
 
-XVIII. Ley General: Ley General de los Derechos de Niñas, Niñas y Adolescentes;
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XIX. Órgano Jurisdiccional: Los juzgados o tribunales federales o estatales;
+XVIII. Juguetes bélicos: Son los objetos, instrumentos o réplicas de armas de fuego, sean estas cortas, largas o de artillería; armas blancas, sean estos contundentes, arrojadizas, de puño o de asta (sic); y armas de guerra, como tanques, aviones de combate o barcos armados;
 
-XX. Procuraduría Estatal de Protección: La Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca;
+XIX. Ley General: Ley General de los Derechos de Niñas, Niñas y Adolescentes;
 
-XXI. Programa Estatal: El Programa Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Oaxaca;
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XXII. Programa Municipal: Al Programa Municipal de Protección de Niñas, Niños y Adolescentes;
+XX. Medidas de protección: Conjunto de acciones, programas y actividades institucionales orientadas a reconocer, proteger, garantizar y resguardar los derechos humanos de las niñas, niños y adolescentes conforme a su interés superior, dirigidas a la prevención, atención, asistencia, restitución y reparación, con la finalidad de salvaguardar el libre goce y pleno ejercicio de sus derechos; podrán ser especiales y/o urentes (sic) según el caso de que se trate;
 
-XXIII. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
+XXI. Órgano Jurisdiccional: Los juzgados o tribunales federales o estatales;
 
-XXIV. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
+XXII. Procuraduría Estatal de Protección: La Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca;
 
-XXV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXIII. Programa Estatal: El Programa Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Oaxaca;
 
-XXVI. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+XXIV. Programa Municipal: Al Programa Municipal de Protección de Niñas, Niños y Adolescentes;
 
-XXVII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXV. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
 
-XXVIII. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
+XXVI. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
 
-> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+XXVII. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXIX. Sistema Local: Sistema Local de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca;
+XXVIII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
-XXX. Sistemas DIF Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Oaxaca;
+XXIX. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXXI. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+XXX. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
 
-XXXII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XXXIII. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXXI. Sistema Local de Protección: El Sistema de Protección de Niñas, Niños y Adolescentes del Estado de Oaxaca;
+
+XXXII. Sistemas DIF Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Oaxaca;
+
+XXXIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+
+XXXIV. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+
+XXXV. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
 ###### Artículo 7.
 
@@ -315,13 +323,17 @@ XXII. Derechos de Niñas, Niños y Adolescentes en Situación de Emergencias Nat
 
 XXIII. Derechos de niñas y adolescentes madres o padres;
 
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XXIV. Derechos de niñas, niños y adolescentes con madre o padre privado de su libertad, y
+XXIV. Derechos de Niñas, Niños y Adolescentes con Madre o Padre Privado de su Libertad;
 
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XXV. Derecho de acceso a las tecnologías de información y comunicación.
+XXV. Derecho de acceso a las tecnologías de información y comunicación; y
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXV (SIC). Derechos de Niñas, Niños y Adolescentes en situación de calle.
 
 Las autoridades estatal y municipal, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -1155,9 +1167,13 @@ X. Mantener a niñas, niños o adolescentes apartados de los adultos que puedan 
 
 XI. Destinar espacios lúdicos de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir;
 
-XII. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal, y
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales.
+XII. Diseñar planes que establezcan medidas de protección especial para garantizar y restituir los Derechos de las Niñas, Niños y Adolescentes en condiciones de vulnerabilidad;
+
+XIII. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal, y
+
+XIV. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales.
 
 ###### Artículo 71.
 
@@ -1303,11 +1319,39 @@ El Estado garantizará a niñas, niños y adolescentes su integración a la soci
 
 Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del Internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
 
-### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2021)</small>
+
+### CAPÍTULO XXVII. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN DE CALLE
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+###### Artículo 84 Quinquies.
+
+Las autoridades estatales y municipales en el ámbito de sus competencias y atendiendo al principio del interés superior de niñas, niños y adolescentes implementarán políticas públicas a favor de la infancia y adolescencia en situación de calle con la finalidad de lograr la reinserción familiar y social, además dictarán medidas especiales de protección para garantizar sus derechos.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+###### Artículo 84 Sexies.
+
+El Sistema Local de Protección en coordinación con la Procuraduría Estatal de Protección serán los encargados de elaborar un protocolo de prevención y atención para niñas, niños y adolescentes en situación de calle.
+
+Además, llevarán un padrón de niñas, niños y adolescentes en situación de calle, en el que contenga el nombre, la edad, procedencia, nombre de sus padres o tutores y en su caso, los apoyos brindados, con la finalidad de conocer su situación y dar seguimiento a este sector de la población.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+###### Artículo 84 Sépties.
+
+La Procuraduría Estatal de Protección y las Procuradurías de Protección Municipales implementaran acciones de asistencia y protección para atender a niñas, niños y adolescentes en situación de calle con la finalidad de que todos sus derechos sean plenamente reconocidos y garantizados.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+###### Artículo 84 Octies.
+
+Las autoridades estatales y municipales habilitarán espacios de alojamiento o albergues para recibir a niñas, niños y adolescentes en situación de calle, garantizando en todo momento el respeto a sus derechos.
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
-### CAPÍTULO I. DE LA PROTECCIÓN
+### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 85.
 
@@ -1341,7 +1385,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO II. DE LOS CENTROS DE ASISTENCIA SOCIAL
+### CAPÍTULO I. DE LA PROTECCIÓN
 
 ###### Artículo 91.
 
@@ -1349,7 +1393,7 @@ La familia es el entorno fundamental para el desarrollo integral de niñas, niñ
 
 En ausencia de los obligados originarios, el estado suplirá dicha obligación a través de los centros de asistencia social, que directamente administre el Sistema DIF o autorice a particulares.
 
-### CAPÍTULO I. DE LAS AUTORIDADES
+### CAPÍTULO II. DE LOS CENTROS DE ASISTENCIA SOCIAL
 
 ###### Artículo 92.
 
@@ -1477,7 +1521,7 @@ La Procuraduría Estatal de Protección será coadyuvante de la Procuraduría de
 
 ## TÍTULO QUINTO. DE LAS AUTORIDADES PARA LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO II. DEL PROGRAMA LOCAL Y MUNICIPAL
+### CAPÍTULO I. DE LAS AUTORIDADES
 
 ###### Artículo 100.
 
@@ -1653,9 +1697,17 @@ XVII. Realizar con apoyo de especialistas de la sociedad civil, estudios especí
 
 XVIII. Difundir y desarrollar el conocimiento y respeto de los derechos de niñas, niños y adolescentes, en su promoción, atención, desarrollo, defensa y protección y restitución de los mismos;
 
-XIX. Auxiliar a la Procuraduría Estatal de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones, y
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XX. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+XIX. Crear, administrar y actualizar el registro estatal de niñas, niños y adolescentes en estado de orfandad a consecuencia del asesinato de su madre.
+
+XX. Auxiliar a la Procuraduría Estatal de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones, y
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
+
+XXI. Implementar acciones encaminadas a informar y difundir sobre el impacto negativo de los juguetes bélicos en niñas, niños y adolescentes, así como solicitar a los establecimientos comerciales que se dediquen a venta, renta y uso de juguetes bélicos, la restricción de su exhibición al público.
+
+XXII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
 
 > <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
 
@@ -1777,11 +1829,11 @@ IV. Contar con al menos cinco años de experiencia en las áreas correspondiente
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 114.
 
-El Sistema Local, además de las atribuciones señaladas en el artículo 137, tendrá las siguientes:
+El Sistema Local de Protección Integral, además de las atribuciones señaladas en el artículo 108, tendrá las siguientes:
 
 I. Diseñar, generar, ejecutar, coordinar y evaluar políticas públicas, planes, proyectos, protocolos y acciones encaminadas al fortalecimiento de los derechos protegidos por esta Ley y demás disposiciones aplicables; para lo cual procurará la coordinación de esfuerzos interinstitucionales e intersectoriales y de la sociedad civil;
 
@@ -1867,7 +1919,7 @@ La instancia a que se refiere el presente artículo coordinará a los servidores
 
 La Defensoría de los Derechos Humanos del Pueblo de Oaxaca, en el ámbito de sus competencias, a través de su área especializada, dará seguimiento a la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, privilegiando siempre el interés superior del niño.
 
-### CAPÍTULO III. DE LA EVALUACIÓN Y DIAGNÓSTICO
+### CAPÍTULO II. DEL PROGRAMA LOCAL Y MUNICIPAL
 
 ###### Artículo 121.
 
@@ -1875,7 +1927,7 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Deberán Incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana, mismos que serán publicados en el Periódico Oficial del Gobierno del Estado.
 
-### CAPÍTULO I. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+### CAPÍTULO III. DE LA EVALUACIÓN Y DIAGNÓSTICO
 
 ###### Artículo 122.
 
@@ -1893,13 +1945,75 @@ De acuerdo con los resultados de las evaluaciones, el Consejo Estatal de Evaluac
 
 Los resultados de las evaluaciones serán entregados al Congreso del Estado.
 
-### CAPÍTULO II. DE LAS SANCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2021)</small>
 
-### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO
+### CAPÍTULO IV
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
+DEL REGISTRO ESTATAL DE NIÑAS, NIÑOS Y ADOLESCENTES EN ESTADO DE ORFANDAD A CONSECUENCIA DEL ASESINATO DE SU MADRE.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+###### Artículo 125 Bis.
+
+El registro estatal de Niñas, Niños y Adolescentes en estado de orfandad a consecuencias (sic) del asesinato de su madre, tiene como objeto integrar un padrón que contenga información de menores (sic) edad víctimas indirectas del asesinato de su madre a fin de garantizar sus derechos y de generar políticas públicas con un enfoque de derechos humanos ya tendiendo (sic) al interés superior de la niñez, encaminadas a satisfacer las necesidades de alimentación, educación, atención médica y psicológica.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+###### Artículo 125 Ter.
+
+El Sistema de Protección de Niñas, Niños y Adolescentes del Estado de Oaxaca a través de la Secretaría Ejecutiva será la encargada de crear, administrar y actualizar el registro estatal de Niñas, Niños y Adolescentes en estado de orfandad a consecuencia del asesinato de su madre.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+###### Artículo 125 Quáter.
+
+Las autoridades integrantes del Sistema Local de Protección están obligadas a coadyuvar y proporcionar de manera periódica y dentro de su ámbito de competencia la información completa y necesaria de los casos que conozcan de niñas, niños y adolescentes que estén en estado de orfandad a consecuencia del asesinato de su madre.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+###### Artículo 125 Quinquies.
+
+El registro estatal de Niñas, Niños y Adolescentes en estado de orfandad a consecuencia del asesinato de su madre, contendrá como mínimo la siguiente información:
+
+I. Nombre de la niña, niño o adolescentes;
+
+II. Fecha de nacimiento;
+
+III. Nombre del tutor o tutora a quien ejerza la patria potestad provisional o definitiva.
+
+IV. Nombre de la Madre.
+
+V. Nombre del Padre.
+
+VI. Edad.
+
+VII. Grado de escolaridad.
+
+VIII. Número de hermanos y hermanas.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+###### Artículo 125 Sexies.
+
+El Sistema Local de Protección establecerá en su presupuesto un rubro destinado a la operación del registro estatal de Niñas, Niños y Adolescentes en estado de orfandad a consecuencia del asesinato de su madre.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+###### Artículo 125 Sépties.
+
+El Sistema Local de Protección y la Comisión Ejecutiva Estatal de Atención Integral a Víctimas trabajaran de manera coordinada para compartir información relativa a niñas, niños y adolescentes en estado de orfandad a consecuencia del asesinato de su madre.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
+
+###### Artículo 125 Octies.
+
+La información contenida en el registro estatal de Niñas, Niños y Adolescentes en estado de orfandad a consecuencia del asesinato de su madre será confidencial en lo relativo a la protección de datos personales y sólo podrá ser pública en lo que se refiera a datos de carácter estadístico, para fines de medición y evaluación.
+
+### CAPÍTULO I. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS, DE LAS SANCIONES Y RECURSOS
+
+### CAPÍTULO II. DE LAS SANCIONES
 
 ###### Artículo 126.
 
@@ -1954,6 +2068,10 @@ IV. Proporcionar información no verídica a las autoridades de la materia;
 V. La oposición, sin fundamento, en la verificación o revisión de inmuebles o documentos relacionados con niñas, niños y adolescentes, por las autoridades competentes, y
 
 VI. Oponerse a las visitas médicas y psicológicas de niñas, niños y adolescentes, por parte de las autoridades competentes.
+
+### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 130.
 
@@ -2168,3 +2286,21 @@ P.O. 12 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2523.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XVIII, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 6; LA FRACCIÓN XX RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 108, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2524.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 13; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 114; Y SE ADICIONA LA FRACCIÓN XX RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 6; LA FRACCIÓN XXVI AL ARTÍCULO 13; LA FRACCIÓN XII RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 70; EL CAPÍTULO XXVII DENOMINADO "DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN DE CALLE" AL TÍTULO SEGUNDO, QUE CONTIENE LOS ARTÍCULO (SIC) 84 QUINQUIES, 84 SEXIES, 84 SÉPTIES, 84 OCTIES; LA FRACCIÓN XIX RECORRIENDOSE LAS SUBSECUENTES AL ARTÍCULO 108, EL CAPÍTULO IV DENOMINADO "DEL REGISTRO ESTATAL DE NIÑAS, NIÑOS Y ADOLESCENTES EN ESTADO DE ORFANDAD A CONSECUENCIA DEL ASESINATO DE SU MADRE" AL TÍTULO QUINTO, QUE CONTIENE LOS ARTÍCULOS 125 BIS, 125 TER, 125 QUÁTER, 125 QUINQUIES, 125 SEXIES, 125 SÉPTIES Y 125 OCTIES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Poder Ejecutivo contará con un plazo de 90 días para emitir los lineamientos para determinar e integrar la información del registro estatal de Niñas, Niños y Adolescentes en estado de orfandad a consecuencia del asesinato de su madre.
+
+TERCERO. El Poder Ejecutivo deberá asignar una partida presupuestal en el Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal correspondiente para la creación y operación del registro estatal de Niñas, Niños y Adolescentes en estado de orfandad a consecuencia del asesinato de su madre.
