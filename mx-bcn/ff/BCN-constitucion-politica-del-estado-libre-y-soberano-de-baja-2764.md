@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2021-02-12"
+last_updated: "2021-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -289,21 +289,27 @@ La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en t
 
 ### CAPITULO IV.. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 275, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2021, PÁGINA 4. SE SUGIERE CONSULTAR LA CRONOLOGÍA DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 7.
 
 El Estado de Baja California acata plenamente y asegura a todos sus habitantes los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, y en los Tratados Internacionales de los que el Estado Mexicano sea parte, así como las garantías para su protección, y los demás derechos que reconoce esta Constitución, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que establece la Constitución Política de los Estados Unidos Mexicanos; de igual manera esta norma fundamental tutela el derecho a la vida, desde el momento en que un individuo es concebido, entra bajo la protección de la Ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural o no inducida.
 
-El Estado reconoce y protege la Institución del Matrimonio como un derecho de la sociedad orientado a garantizar y salvaguardar la perpetuación de la especie y ayuda mutua entre los cónyuges, satisfaciéndose este solamente, mediante la unión de un hombre con una mujer.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 8 DE AGOSTO DE 2021)</small>
 
 Las personas titulares de los Poderes Públicos, de los Órganos Constitucionales Autónomos del Estado, así como de los Ayuntamientos, deberán publicar dentro de la primera semana del mes de julio de cada año, en sus páginas oficiales de internet, un informe en el que se señalen las acciones, programas y resultados de la promoción, respeto, protección y garantía de los derechos humanos, conforme lo establezcan las leyes respectivas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ABRIL DE 2015)</small>
+
 APARTADO A. De la promoción, respeto, protección y garantía de los Derechos Humanos.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 Las normas relativas a los Derechos Humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos y con los Tratados Internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado y los Municipios deberán prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes.
 
@@ -347,7 +353,11 @@ El disfrute de una movilidad segura en las vialidades del Estado es un derecho q
 
 Toda persona tiene el derecho humano a vivir libre de corrupción.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ABRIL DE 2015)</small>
+
 APARTADO B. De la Comisión Estatal de los Derechos Humanos.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 Corresponde a la Comisión Estatal de los Derechos Humanos, la protección, observancia, y promoción de los derechos humanos que amparan las disposiciones jurídicas. Será un organismo público autónomo, con personalidad jurídica y patrimonio propio, contará con autonomía de gestión y presupuestaria, de reglamentación interna y de decisión.
 
@@ -358,6 +368,8 @@ Estará a cargo de un Presidente o Presidenta, que será electa por mayoría cal
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 El procedimiento para la elección del Presidente o Presidenta de la Comisión Estatal de los Derechos Humanos, se ajustará a una consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 10 DE ABRIL DE 2015)</small>
 
 La Comisión Estatal de los Derechos Humanos contará con las siguientes funciones:
 
@@ -463,7 +475,11 @@ La ley establecerá las medidas de apremio que podrá imponer el organismo garan
 
 APARTADO D. De los Juicios Orales, Medios Alternativos y Justicia Laboral.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
+
 Las leyes señalarán aquellos casos en que los juicios serán predominantemente orales, así como su procedimiento.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
 Las personas tendrán derecho a acceder a los medios alternativos de justicia para resolver sus controversias, en la forma y términos establecidos por las leyes respectivas.
 
@@ -3333,19 +3349,29 @@ El destino de las donaciones intervivos o testamentarias hechas conforme a las l
 
 Ninguna autoridad exigirá anticipos de contribuciones ni préstamos forzosos.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 104.
 
-La Ley Civil contendrá disposiciones que tiendan a proteger la estabilidad del hogar y la constitución del patrimonio familiar, con miras a evitar el desamparo de la esposa y de los hijos.
+La Ley Civil contendrá disposiciones que tiendan a proteger la estabilidad del hogar y la constitución del patrimonio familiar, con miras a evitar el desamparo del cónyuge, concubina o concubino y de los hijos e hijas.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 Para complementar lo anterior, la vivienda será considerada como un área prioritaria para el desarrollo del Estado y será objeto de protección especial por parte de las autoridades en los términos que establezcan las leyes respectivas.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 El Estado y Municipios por conducto de sus oficialías del registro civil establecerán los mecanismos de coordinación necesarios para el registro gratuito e inmediato del recién nacido y la entrega gratuita de la primera copia certificada del acta de nacimiento. Para el cumplimiento de este fin, podrán realizar los convenios que correspondan con las instituciones públicas o privadas de salud.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 Asimismo, para garantizar la seguridad jurídica inmobiliaria en el Estado, la Ley establecerá los mecanismos y procedimientos para la modernización y vinculación del Registro Público de la Propiedad y los catastros municipales, con información armonizada y homologada conforme a las disposiciones federales aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 Se consideran de interés social y utilidad pública el ordenamiento territorial de los asentamientos humanos; las declaratorias sobre usos, reservas y destinos de predios; la zonificación y planes de desarrollo urbano; los programas de regulación de la tenencia de la tierra; la protección y determinación de reservas ecológicas y la construcción de vivienda de interés social; la planeación y regulación para la fundación, conservación, mejoramiento y crecimiento de los polos de desarrollo, ciudades medias y áreas concentradoras de servicios.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 El Ejecutivo del Estado y los Ayuntamientos ejercerán sus atribuciones en materia de desarrollo urbano sustentable procurando la interrelación de las ciudades y el campo; distribuyendo equitativamente los beneficios y cargas del proceso de urbanización y las actividades económicas en el territorio del Estado; y previniendo riesgos y contingencias ambientales y urbanas en los centros de población, en los términos de las leyes aplicables.
 
@@ -5428,3 +5454,13 @@ PRIMERO.- Envíese el proyecto a los Ayuntamientos para dar cumplimiento al proc
 SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- El Congreso del Estado tendrá un plazo de 60 días posterior a la promulgación de este decreto para legislar las leyes reglamentarias.
+
+P.O. 8 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 275 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 7 Y 104 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+Primero. Una vez aprobada la presente reforma, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+Segundo. Agotado el proceso legislativo correspondiente, y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional respectiva.
+
+Tercero. La presente reforma, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
