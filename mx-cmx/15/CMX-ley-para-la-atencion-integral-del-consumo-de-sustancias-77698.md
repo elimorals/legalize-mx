@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-atencion-integral-del-consumo-de-sustancias-77698"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-29"
-last_updated: "2018-10-12"
+last_updated: "2021-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77698&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2010-12-20"
 
 LEY PARA LA ATENCIÓN INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE AGOSTO DE 2021 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 29 de diciembre de 2010.
 
@@ -1659,3 +1659,29 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicaci
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento, y en el Diario Oficial de la Federación para su mayor difusión.
 
 TERCERO.- El Jefe de Gobierno de la Ciudad de México contará con un plazo de 120 días hábiles contados a partir de la entrada en vigor de la presente Ley, para modificar al Reglamento de esta Ley acorde con las reformas del presente decreto.
+
+G.O. 9 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ABROGA LA LEY DE SALUD DEL DISTRITO FEDERAL, SE EXPIDE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO Y SE APRUEBA LA OBSERVACIÓN AL DECRETO POR EL QUE SE ABROGA LA LEY DE SALUD DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO, ENVIADA POR LA TITULAR DE LA JEFATURA DE GOBIERNO".]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga la Ley de Salud del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 17 de septiembre de 2009.
+
+CUARTO. Se abrogan las siguientes leyes: Ley de Aparatos Auditivos Gratuitos en la Ciudad de México, publicada en la Gaceta Oficial de la Ciudad de México el 17 de marzo de 2017; Ley para la Prevención y Atención Integral del VIH/SIDA del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 20 de junio de 2012; Ley para la Prevención, Tratamiento y Control de la Diabetes en el Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 7 de agosto de 2013; Ley que Establece el Derecho al Acceso Gratuito a los Servicios Médicos y Medicamentos a las Personas Residentes en el Distrito Federal que Carecen de Seguridad Social Laboral, publicada en la Gaceta Oficial del Distrito Federal el 22 de mayo de 2006; Ley para Prevenir y Atender la Obesidad y los Trastornos Alimenticios en el Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 23 de octubre de 2008; Ley que Establece el Derecho a Recibir Información para la Prevención de Enfermedades Bucodentales, además de un Paquete de Salud Bucodental por Ciclo Escolar para todos los Alumnos Residentes e Inscritos en Escuelas Públicas de los Niveles Preescolar y Primaria, en la Ciudad de México, publicada en la Gaceta Oficial de la Ciudad de México el 19 de abril de 2017; Ley para la Atención Integral del Consumo de Sustancias Psicoactivas de la Ciudad de México, publicada en la Gaceta Oficial del Distrito Federal el 29 de diciembre de 2010; y la Ley de Voluntad Anticipada para el Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 7 de enero de 2008.
+
+QUINTO. En tanto se expidan las disposiciones reglamentarias y administrativas derivadas de esta Ley, seguirán en vigor las que rigen actualmente, en lo que no la contravengan, y sus referencias a la Ley de Salud para el Distrito Federal, se entienden hechas a la presente Ley.
+
+SEXTO. Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de la Ley de Salud para el Distrito Federal que se abroga, se tramitarán y resolverán conforme a las disposiciones de la citada Ley.
+
+SÉPTIMO. La persona titular de la Jefatura de Gobierno contará con un plazo de 180 días hábiles para la publicación del Reglamento de la presente Ley en la Gaceta Oficial de la Ciudad de México.
+
+OCTAVO. Para el cumplimiento de las acciones en materia de fomento, regulación, control y vigilancia sanitaria, Servicios de Salud Pública de la Ciudad de México contará con un plazo de 30 días hábiles para realizar las gestiones conducentes ante las autoridades locales y federales competentes para transferir a la Agencia de Protección Sanitaria del Gobierno de la Ciudad de México, los recursos humanos y financieros relacionados a las plazas federales y locales de Auxiliar en Verificación Sanitaria; Técnico en Verificación, Dictaminador o Saneamiento; Verificador o Dictaminador Sanitario y Verificador o Dictaminador Especializado a que se refiere el "Acuerdo de Coordinación que celebran la Secretaría de Salud con la participación de la Subsecretaría de Prevención y Promoción de la Salud y la Comisión Federal para la Protección contra Riesgos Sanitarios, y el Gobierno del Distrito Federal, para el ejercicio de facultades en materia de control y fomento sanitarios, así como de sanidad internacional", publicado el 16 enero de 2006 en el Diario Oficial de la Federación.
+
+La Secretaría de Administración y Finanzas garantizará en el ámbito de su competencia que el recurso humano y financiero de las plazas antes mencionadas sea transferido efectivamente a la Agencia de Protección Sanitaria del Gobierno de la Ciudad de México.
+
+NOVENO. Las referencias a las Unidades Administrativas con atribuciones y funciones contenidas en las leyes que son abrogadas y que se incorporan en la presente Ley, se entenderán hechas a las Unidades Administrativas establecidas para tales efectos.
+
+DÉCIMO. En cuanto a lo relativo a la aplicación del tamiz neonatal ampliado, entrará en vigor a partir de segundo semestre del 2024, el cual estará sujeto a la suficiencia presupuestal que apruebe el Congreso de la Ciudad de México a partir del ejercicio presupuestal 2024, mientras tanto, se deberá seguir aplicando el tamiz neonatal.
