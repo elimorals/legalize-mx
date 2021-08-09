@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2021-04-19"
+last_updated: "2021-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2021.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -11279,9 +11279,15 @@ V.- Tener perros afuera de las fincas sin los cuidados necesarios para su protec
 
 VI.- Mantener a los animales por razones de seguridad, atados durante más de 8 horas en condiciones que afecten su necesidad de movilidad, de tal manera que tengan que permanecer parados o sentados o rodeados de sus propias heces o sujetos con materiales que les causen sufrimiento y daño;
 
-VII.- Tener perros o gatos enjaulados. Esto podrá llevarse a cabo únicamente de forma transitoria en los casos establecidos en el presente ordenamiento;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2021)</small>
 
-VIII.- Tener gatos amarrados;
+VII.- Tener perros o gatos enjaulados o amarrados;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2021)</small>
+
+VIII.- Tener más de tres perros o más de tres gatos en casas habitación en zonas urbanas o más de cinco perros o más de cinco gatos en casas habitación en zonas rurales.
+
+En todo caso deben contar con las condiciones adecuadas para su alojamiento, evitando molestias e incomodidades a los vecinos por ruidos y malos olores, así como riesgos sanitarios y de seguridad;
 
 IX.- Hacinar animales de cualquier especie en alguna finca o terreno de tal manera que pueda provocar molestias o afectar la salud de los vecinos o daños a los mismos animales;
 
@@ -11377,9 +11383,15 @@ LIV.- Causar dolor, sufrimiento o lesiones por cualquier acto u omisión intenci
 
 LV.- Llevar a cabo cualquier conducta o gestión en redes sociales o utilizando medios de comunicación, mediante las que se solicite alguna cantidad de dinero con el argumento de sostener a un animal u ofrecerlo en entrega responsable. Las personas que lleven a cabo estas conductas se harán acreedoras a una sanción administrativa, independientemente de la denuncia que pudiera formularse en caso de que se presuma la existencia de un delito, quedando exceptuadas las adopciones debidamente autorizadas por el Ayuntamiento en los términos del presente ordenamiento, y
 
-LVI.- Las demás prohibiciones que se deriven de la legislación vigente aplicable en la materia, las Normas Oficiales Mexicanas, el presente Código o las que las autoridades municipales dispongan para la protección de los animales.
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2021)</small>
 
-En los casos en que se provoque un daño a la salud del animal o la muerte, además de las sanciones administrativas, se estará a lo dispuesto en lo previsto en el Código Penal para el Estado Libre y Soberano de Aguascalientes y se deberá realizar la denuncia correspondiente.
+LVI.- Tener dentro de la zona urbana animales de granja tales como ganado vacuno, caprino, bovino, equino, porcino, avícola y cunícola, sin la autorización municipal correspondiente, y
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2021)</small>
+
+LVII.- Las demás prohibiciones que se deriven de la legislación vigente aplicable en la materia, las normas oficiales mexicanas, el presente Código o las que las autoridades municipales dispongan para la protección de los animales.
+
+En los casos en que se provoque un daño a la salud del animal o la muerte, además de las sanciones administrativas, se estará a lo previsto en el Código Penal para el Estado Libre y Soberano de Aguascalientes y se deberá realizar la denuncia correspondiente.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -28103,9 +28115,17 @@ g) Por tener perros afuera de las fincas sin los cuidados necesarios para su pro
 
 h) Por mantenerlos atados en condiciones que afecten su necesidad de movilidad, de tal manera que tengan que permanecer parados o sentados, rodeados de sus propias heces o sujetos con materiales que les causen sufrimiento y daño;
 
-i) Por mantener perros o gatos permanentemente enjaulados o amarrados, y
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2021)</small>
 
-j) Por molestar y azuzar a los animales;
+i) Por tener dentro de la zona urbana animales de granja tales como ganado vacuno, caprino bovino, equino, porcino, avícola y cunícola sin la autorización municipal correspondiente;
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2021)</small>
+
+j) Por molestar y azuzar a los animales, y
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2021)</small>
+
+k) Por tener más de tres perros o más de tres gatos en casas habitación en zonas urbanas o más de cinco perros o más de cinco gatos en casas habitación en zonas rurales.
 
 II.- Multa de once a veinte unidades de medida y actualización:
 
@@ -29454,6 +29474,14 @@ TERCERO.- A efecto de proceder a la liquidación del organismo público descentr
 P.O. 19 DE ABRIL DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE SE “SE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGUASCALIENTES”.]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipal que se opongan a lo dispuesto en el presente acuerdo.
+
+P.O. 9 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE REFORMA EL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA".]
 
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
