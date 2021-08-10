@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-convivencia-para-las-personas-136430"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-05-31"
-last_updated: "2021-03-12"
+last_updated: "2021-08-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136430&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-05-24"
 ---
 # REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS Y PERSONAS SERVIDORAS PUBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACION SOCIAL CORUÑA JOVENES (CAIS CORUÑA JOVENES)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO DEL AVISO POR EL CUAL SE DA A CONOCER EL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL CORUÑA JÓVENES, (CAIS CORUÑA JÓVENES), PUBLICADO EN LA G.O. DE 10 DE AGOSTO DE 2021, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL CORUÑA JÓVENES (CAIS CORUÑA JÓVENES)
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE MARZO DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 12 DE MARZO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE AGOSTO DE 2021 (SIN EFECTOS).
 
 Reglamento publicado en el Número 103 de la Gaceta Oficial de la Ciudad de México, el viernes 31 de mayo de 2019.
 
@@ -547,3 +547,21 @@ G.O. 12 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DE LA "NOTA ACLARATORIA AL AVISO POR EL QUE SE DAN A CONOCER LAS MODIFICACIONES AL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL, "CORUÑA JÓVENES", PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL 9 DE MARZO DE 2021".]
 
 ÚNICO. Publíquese el presente instrumento en la Gaceta Oficial de la Ciudad de México. Ciudad de México, a 9 de marzo de 2021.
+
+G.O. 10 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DA A CONOCER EL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL CORUÑA JÓVENES, (CAIS CORUÑA JÓVENES)”.]
+
+PRIMERO.- Publíquese el presente Reglamento Interno de Convivencia, en la Gaceta Oficial de la Ciudad de México, para su difusión y conocimiento.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Las disposiciones respecto al tiempo de estancia, tipo de atención y demás servicios sociales previstos en el Reglamento Interno de Convivencia del CAIS Coruña Jóvenes, no tendrán efectos retroactivos para los usuarios que ya se encuentren registrados.
+
+CUARTO.- El responsable del CAIS Coruña Jóvenes, contará con un plazo de 60 días hábiles a partir de la entrada en vigor de este ordenamiento, para que, en coordinación con su equipo multidisciplinario realicen la actualización del Plan de Vida por usuario.
+
+QUINTO. El Responsable del CAIS Coruña Jóvenes contará con un plazo de 30 días hábiles a partir de la publicación del presente Reglamento, para elaborar el Manual Específico de Operación del Consejo Técnico.
+
+SEXTO. Se deja sin efectos el “AVISO POR EL CUAL SE DA A CONOCER EL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL CORUÑA JÓVENES (CAIS CORUÑA JÓVENES)”, publicado en la Gaceta Oficial de la Ciudad de México, No. 103, de fecha 31 de mayo de 2019, así como todo lo que se oponga y contravenga el presente aviso.
+
+SÉPTIMO. A partir de la entrada en vigor del presente Aviso, se reitera que los servicios sociales que otorga el CAIS Coruña Jóvenes, serán proporcionados en Calle Esperanza número 69, Colonia Huayatla, C.P. 10360, Alcaldía La Magdalena Contreras.
