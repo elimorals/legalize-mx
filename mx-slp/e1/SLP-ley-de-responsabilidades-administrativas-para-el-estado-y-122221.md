@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-administrativas-para-el-estado-y-12222
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2021-04-22"
+last_updated: "2021-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el día sábado 3 de junio de 2017.
 
@@ -75,7 +75,9 @@ II. Autoridad investigadora: la autoridad que al interior de las contralorías, 
 
 III. Autoridad substanciadora: la autoridad que al interior de las contralorías, los órganos internos de control y la Auditoria Superior del Estado, y en los casos que dispone esta Ley, el Tribunal, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora.
 
-Tratándose de responsabilidad administrativa grave de servidores públicos de elección popular, y magistrados, el Tribunal Estatal de Justicia Administrativa, actuará como autoridad substanciadora desde la admisión del informe de presunta responsabilidad, y hasta dejar el expediente en estado de resolución, debiendo remitir copia certificada de los autos incluido el proyecto de resolución respectivo, al Congreso del Estado;
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2021)</small>
+
+Tratándose de responsabilidad administrativa grave de servidores públicos de elección popular, y magistrados, el Tribunal Estatal de Justicia Administrativa, actuará como autoridad substanciadora y resolutora.
 
 IV. Autoridad resolutora: tratándose de faltas administrativas no graves será:
 
@@ -83,13 +85,15 @@ a) La unidad de responsabilidades administrativas; el servidor público asignado
 
 b) El superior jerárquico, en el caso de los contralores.
 
-c) El Pleno del Congreso del Estado en el caso de los diputados; el Auditor Superior; y el Fiscal General del Estado.
+c) (DEROGADO, P.O. 10 DE AGOSTO DE 2021)
 
 d) Los respectivos plenos de los tribunales; organismos constitucionales autónomos; y cabildos; según lo establece la presente Ley, en el caso de magistrados; miembros de los ayuntamientos; e integrantes de los organismos constitucionales autónomos.
 
 e) El Consejo de la Judicatura en el caso del personal del Poder Judicial del Estado, con excepción de los magistrados.
 
-Para las faltas administrativas graves, así como para las faltas de particulares, lo será el Tribunal. Para las faltas administrativas graves de los servidores públicos de elección popular, y los magistrados, lo será el Congreso del Estado.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2021)</small>
+
+Para las faltas administrativas graves, así como para las faltas de particulares, lo será el Tribunal.
 
 En el caso del Poder Judicial, serán competentes para imponer las sanciones que correspondan, el Pleno del Supremo Tribunal de Justicia, y el Consejo de la Judicatura, conforme al régimen establecido en el artículo 90 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, y su reglamentación;
 
@@ -1653,7 +1657,7 @@ X. Concluido el periodo de alegatos turnara el expediente a la autoridad resolut
 
 XI. Recibido el expediente, la autoridad resolutora del asunto, de oficio, declarará cerrada la instrucción, y citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello.
 
-Cuando la autoridad resolutora sea el Congreso del Estado, se atenderá lo dispuesto en el artículo 209 de esta Ley, y
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 DE AGOSTO DE 2021)</small>
 
 XII. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
 
@@ -1681,25 +1685,13 @@ IV. Una vez trascurrido el periodo de alegatos, el Tribunal, de oficio, declarar
 
 V. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE AGOSTO DE 2021)</small>
+
 ### Capítulo IV. Del Procedimiento de Responsabilidad Administrativa Cuya Resolución Corresponda al Congreso del Estado
 
 ###### ARTÍCULO 209.
 
-En los asuntos relacionados con faltas administrativas cometidas por servidores públicos de elección popular, y magistrados, se deberá proceder de conformidad con el procedimiento previsto en este artículo.
-
-Las autoridades, investigadoras; y substanciadoras deberán observar lo dispuesto en las fracciones I a X del artículo 207, y II a IV del 208 de este Ordenamiento, luego de lo cual se procederá conforme a lo dispuesto en las siguientes fracciones:
-
-I. Concluido el término de los alegatos, se hayan presentado o no, la autoridad substanciadora declarará de oficio, cerrada la instrucción, y elaborará un proyecto de resolución, debiendo remitir éste, con todos los autos originales que obren en el expediente, al Congreso del Estado. Asimismo, deberá notificar a las partes de la fecha de su envío, indicando el domicilio de dicho Poder;
-
-II. Recibido el expediente, el Congreso del Estado, sin más trámite, y en Sesión Privada, conformará una Comisión Jurisdiccional en términos de la Ley Orgánica del Poder Legislativo, y el Reglamento para el Gobierno Interior del Congreso del Estado;
-
-III. Una vez conformada, e instalada la Comisión Jurisdiccional, dentro de los siguientes treinta días naturales verificará que se hayan cumplido las etapas y normas del procedimiento, confirmará, en su caso, el proyecto de resolución que le haya sido turnado, y citará a las partes para oír la resolución que corresponda.
-
-El plazo a que se refiere el párrafo anterior podrá ampliarse por una sola vez por otros quince días naturales más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello.
-
-En caso de no confirmar el proyecto de resolución respectivo, dictará el dictamen correspondiente dentro del término a que se refiere el párrafo anterior, y devolverá el mismo al Tribunal, junto con el dictamen a fin de que aquel analice las observaciones vertidas en el mismo, y en su caso las considere para modificar el citado proyecto, y lo envié dentro de los siguientes quince días naturales de nueva cuenta al Congreso. En este supuesto, el Congreso del Estado, confirmará la resolución, y procederá a imponer las sanciones que en su caso se hayan determinado, y
-
-IV. La resolución, deberá notificarse personalmente al presunto responsable; y al Pleno del Poder, ayuntamiento correspondiente, para los efectos conducentes, en un plazo no mayor de diez días hábiles.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2021)
 
 ### Capítulo V. De los Recursos
 
@@ -1920,3 +1912,11 @@ P.O. 22 DE ABRIL DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1228 BIS.- SE REFORMA (SIC) LOS ARTÍCULOS 3° Y 207 Y DEROGA DEL ARTÍCULO 3° EN SU FRACCIÓN IV EL INCISO C), DEL ARTÍCULO 207 EN SU FRACCIÓN XI EL AHORA PÁRRAFO SEGUNDO, Y EN EL TÍTULO SEGUNDO DEL LIBRO SEGUNDO EL CAPÍTULO IV Y ARTÍCULO 209, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ."]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
