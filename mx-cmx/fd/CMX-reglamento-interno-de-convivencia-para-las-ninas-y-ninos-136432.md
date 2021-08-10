@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-convivencia-para-las-ninas-y-ninos-136432
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-05-31"
-last_updated: "2021-03-09"
+last_updated: "2021-08-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136432&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-05-24"
 ---
 # REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS NIÑAS Y NIÑOS USUARIOS Y PERSONAS SERVIDORAS PUBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACION SOCIAL AZCAPOTZALCO (CAIS AZCAPOTZALCO)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO TRANSITORIO DEL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL AZCAPOTZALCO (CAIS AZCAPOTZALCO), PUBLICADO EN LA G.O. DE 10 DE AGOSTO DE 2021, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS NIÑAS Y NIÑOS USUARIOS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL AZCAPOTZALCO (CAIS AZCAPOTZALCO) DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2021 (SIN EFECTOS).
 
 Reglamento publicado en el No. 103 de la Gaceta Oficial de la Ciudad de México, el viernes 31 de mayo de 2019.
 
@@ -423,3 +425,19 @@ SEGUNDO.- El presente Aviso entrará en vigor el día de su publicación en la G
 TERCERO.- El Centro de Asistencia e Integración Social Azcapotzalco (CAIS Azcapotzalco) contará a partir de la entrada en vigor del presente Aviso, con 90 días hábiles para hacer las reformas a los Reglamentos Internos de Convivencia y demás instrumentos administrativos que regulan la operación de los Centros. En tanto seguirán vigentes las disposiciones actuales.
 
 CUARTO.- En caso de presentarse alguna controversia con motivo de la interpretación, cumplimiento, o algún asunto que no se encuentre expresamente previsto en el presente Aviso, éste será resuelto por la Dirección de los Centros de Asistencia e Integración Social.
+
+G.O. 10 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DA A CONOCER EL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL AZCAPOTZALCO (CAIS AZCAPOTZALCO)”.]
+
+PRIMERO.- Publíquese el presente Reglamento Interno de Convivencia, en la Gaceta Oficial de la Ciudad de México, para su difusión y conocimiento.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Las disposiciones respecto al tiempo de estancia, tipo de atención y demás servicios sociales previstos en el Reglamento Interno de Convivencia del CAIS Azcapotzalco, no tendrán efectos retroactivos para los usuarios que ya se encuentren registrados.
+
+CUARTO.- El responsable del CAIS Azcapotzalco, contará con un plazo de 60 días hábiles a partir de la entrada en vigor de este ordenamiento, para que, en coordinación con su equipo multidisciplinario realicen la actualización del Plan de Vida por usuario.
+
+QUINTO. El Responsable del CAIS Azcapotzalco contará con un plazo de 30 días hábiles a partir de la publicación del presente Reglamento, para elaborar el Manual Específico de Operación del Consejo Técnico.
+
+SEXTO. Se deja sin efectos el “AVISO POR EL CUAL SE DA A CONOCER (sic) REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS NIÑAS Y NIÑOS USUARIOS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL AZCAPOTZALCO (CAIS AZCAPOTZALCO)”, publicado en la Gaceta Oficial de la Ciudad de México, No. 103, de fecha 31 de mayo de 2019, así como todo lo que se oponga y contravenga el presente aviso.
