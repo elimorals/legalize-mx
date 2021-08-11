@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-cultura-fisica-y-deporte-del-estado-de-zacatecas-108775"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-17"
-last_updated: "2020-08-22"
+last_updated: "2021-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 17 de junio de 2015.
 
@@ -65,7 +65,9 @@ II. Contribuir a través de la cultura física y el deporte, a elevar el nivel d
 
 III. Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la activación física, cultura física y el deporte;
 
-IV. Fomentar el desarrollo de la cultura física y el deporte, como medio importante en la preservación de la salud, la rehabilitación física y prevención de enfermedades;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2021)</small>
+
+IV. Fomentar el desarrollo de la cultura física y el deporte, como medio importante en la preservación de la salud, la rehabilitación física y prevención de enfermedades, así como la prevención de las adicciones y el consumo de sustancias psicoactivas;
 
 V. Fomentar el desarrollo de la cultura física y el deporte, como medio importante en la prevención del delito;
 
@@ -84,6 +86,10 @@ XI. Garantizar a todas las personas sin distinción de género, edad, discapacid
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 XII. Fomentar la inclusión y participación de las personas con discapacidad en la cultura física y las actividades deportivas, tanto en el ámbito amateur como profesional, así como evitar todo tipo de discriminación en estas actividades.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2021)</small>
+
+XIII. Promover en las instituciones de educación básica y media superior en el Estado, la formación de niños, niñas y jóvenes deportistas con talento.
 
 ###### Artículo 3.
 
@@ -289,7 +295,11 @@ IV. Promover mecanismos de integración institucional para fomentar, promover y 
 
 V. Promover la creación y puesta en marcha de Escuelas de Iniciación y Formación Deportiva, a fin de garantizar la promoción y estímulo al desarrollo de la cultura física y el deporte en los municipios del Estado que así lo determinen; y
 
-VI. Las demás que le otorgue esta Ley u otros ordenamientos legales.
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2021)</small>
+
+VI. Proponer planes y programas que impulsen la detección, selección, desarrollo y seguimiento de talentos deportivos en las instituciones de educación básica y media superior en el Estado, con la finalidad de incorporar nuevos talentos para la formación y profesionalización de la educación física, y
+
+VII. Las demás que le otorgue esta Ley u otros ordenamientos legales.
 
 ###### Artículo 13.
 
@@ -375,7 +385,11 @@ XXIX. Celebrar todos aquellos contratos y convenios que le permitan cumplir con 
 
 XXX. Promover la creación y puesta en marcha de Escuelas de Iniciación y Formación Deportiva, como un método de fomento, promoción y estímulo al desarrollo de la cultura física y el deporte en los municipios del Estado que así lo determinen; y
 
-XXXI. Las demás que esta Ley u otras disposiciones legales o reglamentarias determinen.
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2021)</small>
+
+XXXI. Coordinar acciones con las dependencias y entidades de la administración pública estatal y los municipios para la detección, selección, desarrollo y seguimiento de talentos deportivos en instituciones de educación básica y media superior del Sistema Educativo Estatal; y
+
+XXXII. Las demás que esta Ley u otras disposiciones legales o reglamentarias determinen.
 
 ###### Artículo 16.
 
@@ -1368,3 +1382,11 @@ SEGUNDO. Se derogan todas las (sic) que se opongan al presente Decreto.
 P.O. 22 DE AGOSTO DE 2020.
 
 > <small>[N. DE E. EL “DECRETO NO. 391.- SE REFORMA EL ARTÍCULO 15 FRACCIÓN I Y ARTÍCULO 59, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4 DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE ZACATECAS.]</small>
+
+P.O. 11 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 770 .- MEDIANTE POR (SIC) EL CUAL SE E (SIC) REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan todas las (sic) que se opongan al presente Decreto.
