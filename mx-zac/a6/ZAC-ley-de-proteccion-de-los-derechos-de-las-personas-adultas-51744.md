@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-de-los-derechos-de-las-personas-adultas-51744
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-24"
-last_updated: "2021-02-06"
+last_updated: "2021-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de junio de 2006.
 
@@ -369,7 +369,11 @@ IV. Promover, fomentar, difundir y vigilar el ejercicio de los derechos de las p
 
 V. Fomentar y promocionar la estabilidad y el bienestar familiar e implementar, en coordinación con las instancias competentes, las medidas de seguridad pública y de protección civil en los centros educativos, culturales y recreativos con la participación de la comunidad en general; y
 
-VI. Las demás que le confiera esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2021)</small>
+
+VI. Suscribir convenios con las instituciones de salud privadas, a fin de brindar a la población adulta mayor de la entidad que lo solicite, acceso y descuentos en los bienes y servicios que presta el sector de salud privado, y
+
+VII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 13.
 
@@ -1448,5 +1452,11 @@ P.O. 7 DE MARZO DE 2020.
 P.O. 6 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 446.- SE REFORMA LA LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 11 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 663.- POR EL CUAL SE REFORMA LA LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
