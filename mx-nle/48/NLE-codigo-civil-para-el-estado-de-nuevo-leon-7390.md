@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2021-03-29"
+last_updated: "2021-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -5659,11 +5659,11 @@ Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afect
 
 Los beneficiarios de los bienes afectos al Patrimonio de la Familia serán representados en sus relaciones con tercero, en todo lo que al Patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría. El representante tendrá también la administración de dichos bienes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2021)</small>
 
 ###### Art. 727.
 
-El máximo de los bienes afectados al patrimonio de familia será: la cantidad que resulte de multiplicar por 45,000 el importe del salario mínimo general diario, vigente en el área que corresponda a la ubicación del bien o bienes que se pretenda afectar en la época en que se constituya el patrimonio, aplicándose como incremento anual a esta cantidad el índice nacional de precios al consumidor, publicado por el Banco de México en el Diario Oficial de la Federación.
+El máximo de los bienes afectados al patrimonio de familia será: la cantidad que resulte de multiplicar por 45,000 el importe del valor diario de la Unidad de Medida y Actualización en la época en que se constituya el patrimonio, aplicándose como actualización del mismo el valor diario de la Unidad de Medida y Actualización vigente en el año que corresponda.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -9349,7 +9349,9 @@ Toda persona que tuviere en su poder un testamento cerrado y no lo presente, com
 
 Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquiriente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado o de cualquier dependencia o entidad de la Administración Pública Federal, o en acto posterior de conformidad con lo siguiente:
 
-I.- Que el precio del inmueble o el expresado en el certificado de valor actual real no exceda del equivalente a 25 veces el salario mínimo general vigente en la ciudad de Monterrey, elevado al año al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2021)</small>
+
+I.- Que el precio del inmueble o el expresado en el certificado de valor actual real no exceda del equivalente a 25 veces el valor anual de la Unidad de Medida y Actualización al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto.
 
 II.- El testador institurá (sic) uno o más legatarios con derecho de acrecer salvo designación de sustitutos. A falta de algun sustituto, podrán acrecentar su porción los legatarios si los hubiere o los demás sustitutos no habiendo más legatarios.
 
@@ -14301,7 +14303,9 @@ Tampoco puede retener la cosa como prenda que garantice otro crédito que tenga 
 
 Los dueños de establecimiento en donde se reciben huéspedes, son responsables del deterioro, destrucción ó pérdida de los efectos introducidos en el establecimiento con su consentimiento o el de sus empleados autorizados, por las personas que allí se alojen; a menos que prueben que el daño sufrido es imputable a estas personas, a sus acompañantes, a sus servidores o a los que visiten, o que proviene de caso fortuito, fuerza mayor o vicios de los mismos efectos.
 
-La responsabilidad de que habla este artículo no excederá de una suma igual a un mes de salario mínimo, cuando no se puede imputar culpa al hostelero o a su personal.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2021)</small>
+
+La responsabilidad de que habla este artículo no excederá de una suma igual al valor mensual de la Unidad de Medida y Actualización, cuando no se puede imputar culpa al hostelero o a su personal.
 
 ###### Art. 2430.
 
@@ -14417,7 +14421,9 @@ El mandato debe otorgarse en escritura pública o en carta poder firmada ante do
 
 I.- Cuando sea general;
 
-II.- Cuando el interés del negocio para el que se confiere llegue a dos veces el salario mínimo elevado al mes;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2021)</small>
+
+II.- Cuando el interés del negocio para el que se confiere llegue a dos veces el valor mensual de la Unidad de Medida y Actualización.
 
 III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
@@ -15891,17 +15897,19 @@ Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, c
 
 El fiador que haya de darse por disposiciones de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes raíces inscritos en el Registro Público de la Propiedad y de un valor que garantice suficientemente las obligaciones que contraiga.
 
-Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de seis veces del salario mínimo elevado al mes, no se exigirá que el fiador tenga bienes raíces.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2021)</small>
+
+Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de seis veces el valor mensual de la Unidad de Medida y Actualización, no se exigirá que el fiador tenga bienes raíces.
 
 La fianza puede substituirse con prenda o hipoteca.
 
 Cuando la fianza consiste en póliza sólo se aceptará cuando se expidan por Compañía Afianzadora legalmente autorizada y con domicilio en el Estado, y que haya constituido, a satisfacción del Ejecutivo del Estado, un depósito en efectivo en alguna institución de crédito de las que operan en esta entidad, para garantizar el cumplimiento de sus obligaciones como fiadora, las Compañías Afianzadoras estarán sujetas a las Leyes Ecnómico (sic)-Coactivas del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2021)</small>
 
 ###### Art. 2743.
 
-Para otorgar una finza (sic) legal o judicial por más de seis veces el salario mínimo elevado al mes se presentará un certificado expedido por el Registro Público de la Propiedad, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación.
+Para otorgar una fianza legal o judicial por más de seis veces el valor mensual de la Unidad de Medida y Actualización se presentará un certificado expedido por el Registro Público de la Propiedad, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación.
 
 ###### Art. 2744.
 
@@ -17784,6 +17792,12 @@ P.O. 29 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 468. SE REFORMA EL ARTÍCULO 23 BIS I DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de Estado.
+
+P.O. 11 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 524. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 727, LA FRACCIÓN I DEL ARTÍCULO 1446 BIS, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2429, LA FRACCIÓN LL DEL ARTÍCULO 2449, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2742 Y EL ARTÍCULO 2743 TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 27, LAS FRACCIONES I Y II Y EL PÁRRAFO TERCERO DEL ARTÍCULO 743, LA FRACCIÓN I DEL ARTÍCULO 781 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 2 DEL TÍTULO ESPECIAL DENOMINADO “DE LA JUSTICIA DE PAZ”, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
