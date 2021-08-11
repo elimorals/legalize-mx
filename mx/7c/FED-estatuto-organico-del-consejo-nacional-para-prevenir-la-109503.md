@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-prevenir-la-109503"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-08-21"
-last_updated: "2021-05-19"
+last_updated: "2021-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109503&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-13"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2021.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de agosto de 2015.
 
@@ -95,11 +95,11 @@ Cuando la información o documentación solicitada tenga el carácter de informa
 
 De conformidad con lo establecido en el artículo 15 Novenus de la Ley, el Consejo operará un Mecanismo de Registro y Monitoreo en el que se registrarán la aplicación de las medidas de nivelación, de inclusión y acciones afirmativas que adopten los poderes públicos federales y aquellas instituciones que estén bajo su regulación o competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 8.
 
-Para efectos del artículo anterior, el Consejo, a través de la persona titular de la Coordinación de Estudios, Legislación y Políticas Públicas, solicitará semestralmente a las instancias públicas la información que le permita conocer:
+Para efectos del artículo anterior, el Consejo, a través de la persona titular de la Coordinación de Estudios, Legislación y Políticas Públicas, solicitará durante el primer trimestre de cada año a las instancias públicas la información correspondiente al año inmediato anterior que le permita conocer:
 
 I. Las medidas de nivelación, de inclusión y acciones afirmativas adoptadas, su temporalidad y el grupo social de personas al que van dirigidas;
 
@@ -111,9 +111,11 @@ Asimismo, el Consejo podrá solicitar cualquier otra información o documentaci�
 
 Para la integración de la información, se emplearán las herramientas que para tal fin sean diseñadas por parte del Consejo.
 
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 9.
 
-El Consejo difundirá anualmente, los resultados obtenidos de la adopción de las medidas con la finalidad de continuar fortaleciendo la política antidiscriminatoria en el país, e impulsar la instrumentación de medidas similares por parte de otros actores públicos y privados.
+El Consejo difundirá los resultados anuales obtenidos de la adopción de las medidas con la finalidad de continuar fortaleciendo la política antidiscriminatoria en el país, e impulsar la instrumentación de medidas similares por parte de otros actores públicos y privados.
 
 ###### Artículo 10.
 
@@ -1292,3 +1294,9 @@ D.O.F. 19 DE MAYO DE 2021.
 PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. En tanto se procede a la modificación de las normas administrativas internas del Consejo para homologar su contenido al de la presente reforma, se entenderá realizada toda referencia a las unidades administrativas del CONAPRED, en los términos señalados en el presente Acuerdo.
+
+D.O.F. 11 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE DA A CONOCER LA REFORMA AL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN”.]
+
+PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
