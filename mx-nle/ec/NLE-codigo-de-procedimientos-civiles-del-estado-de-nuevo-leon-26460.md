@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2021-08-06"
+last_updated: "2021-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -237,9 +237,9 @@ Las actuaciones que hayan de efectuarse fuera de la jurisdicción del tribunal q
 
 Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos a los servidores públicos del Poder Judicial, sancionando en el acto las faltas que se cometieren, con multas que no podrán pasar en los juzgados menores de sesenta cuotas; en los de primera instancia de ciento veinte cuotas; y en el Tribunal Superior, de ciento ochenta cuotas.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2021)</small>
 
-Una cuota será el salario mínimo general diario que rija en la zona económica en que se ubique el Juzgado o Tribunal.
+Una cuota será el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -5441,19 +5441,19 @@ DEL JUICIO DE MENOR CUANTIA.
 
 Serán objeto del juicio de menor cuantía:
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DEL 2000)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2021)</small>
 
-I.- Los negocios cuyo interés no exceda de mil quinientas cuotas de salario mínimo general.
+I.- Los negocios cuyo interés no exceda de mil quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DEL 2000)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2021)</small>
 
-II.- Los que tengan por objeto el ejercicio de acciones derivadas de actos o contratos en que se pacten prestaciones o pensiones periódicas, cuyo monto anual no exceda de mil quinientas cuotas de salario mínimo general.
+II.- Los que tengan por objeto el ejercicio de acciones derivadas de actos o contratos en que se pacten prestaciones o pensiones periódicas, cuyo monto anual no exceda de mil quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
 En los casos en que se demande solamente el pago o cumplimiento de las prestaciones adeudadas, o del capital o gravamen por lo que éstas se adeuden, se estará a lo dispuesto por la fracción I de este artículo.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2021)</small>
 
-Para determinar la cuantía de las cuotas del salario mínimo general, se entenderá por éste, el vigente en el lugar del juicio.
+Para determinar el valor de la Unidad de Medida y Actualización, se entenderá por éste, el vigente al inicio del juicio.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
@@ -5723,7 +5723,9 @@ El Registrador Público de la Propiedad de la ubicación de los bienes dentro de
 
 Son requisitos fundamentales para la procedencia de este procedimiento hereditario administrativo los siguientes:
 
-I.- Que el valor de los bienes que deje a su muerte el autor de la herencia no excedan al equivalente a siete mil trescientas veces el salario mínimo general diario vigente en la ciudad de Monterrey; y
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2021)</small>
+
+I.- Que el valor de los bienes que deje a su muerte el autor de la herencia no excedan al equivalente a siete mil trescientas veces el valor diario de la Unidad de Medida y Actualización; y
 
 II.- Que los herederos sean mayores de edad y capaces legalmente y no haya controversia o disputa, pues tan pronto como se conozca cesará la jurisdicción administrativa para que los interesados ocurran ante la Autoridad Judicial correspondiente.
 
@@ -8741,11 +8743,11 @@ Los Jueces Menores a que se refiere el artículo 94 de la Constitución Polític
 
 En aquellos lugares en que no exista juez menor, conocerá el juez de primera instancia correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2021)</small>
 
-###### Artículo 2.
+###### Articulo 2.
 
-Quedan incluidos en este Título los juicios cuya cuantía no exceda de ciento cincuenta cuotas diarias del salario mínimo general vigente en el lugar del juicio
+Quedan incluidos en este Título los juicios cuya cuantía no exceda de ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente al iniciar el juicio.
 
 Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda aún cuando se reclamen en ella.
 
@@ -9984,5 +9986,11 @@ TERCERO.- Los contratos de Aparcería existentes a la entrada en vigor del prese
 P.O. 6 DE AGOSTO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 535. SE ADICIONA UNA FRACCIÓN IV BIS AL ARTÍCULO 499, UNA FRACCIÓN X BIS AL ARTÍCULO 1082 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 1108 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 524. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 727, LA FRACCIÓN I DEL ARTÍCULO 1446 BIS, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2429, LA FRACCIÓN LL DEL ARTÍCULO 2449, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2742 Y EL ARTÍCULO 2743 TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 27, LAS FRACCIONES I Y II Y EL PÁRRAFO TERCERO DEL ARTÍCULO 743, LA FRACCIÓN I DEL ARTÍCULO 781 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 2 DEL TÍTULO ESPECIAL DENOMINADO “DE LA JUSTICIA DE PAZ”, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
