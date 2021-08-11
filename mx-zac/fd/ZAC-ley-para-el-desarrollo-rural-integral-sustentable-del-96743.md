@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-desarrollo-rural-integral-sustentable-del-96743"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-30"
-last_updated: "2021-02-24"
+last_updated: "2021-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de noviembre de 2013.
 
@@ -373,7 +373,11 @@ III. Miembros Permanentes que serán los Titulares y Representantes de las Depen
 
 50. Los comités de los sistemas producto, instituciones de educación e investigación y organismos no gubernamentales, legalmente constituidos y en plena vigencia de derechos, las cuales no podrán estar sobrerrepresentadas, que designe el propio Consejo Zacatecano, y
 
-51. Las demás que esta Ley y otra normatividad aplicable contemple y que resulten necesarias para su funcionamiento.
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2021)</small>
+
+51. Sistema Producto Miel, y
+
+52. Las demás que esta Ley y otra normatividad aplicable contemple y que resulten necesarias para su funcionamiento.
 
 Sesión del Consejo
 
@@ -1608,3 +1612,21 @@ P.O. 24 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 575.- SE REFORMA EL ARTÍCULO 73 DE LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS.”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
+
+P.O. 11 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO # 664 POR EL QUE “SE ADICIONA EL NUMERAL 51 RECORRIÉNDOSE EL SIGUIENTE EN SU ORDEN, A LA FRACCIÓN III DEL ARTÍCULO 10 DE LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se abroga el decreto número 86, que contiene la Ley de Fomento Apícola del Estado de Zacatecas, publicado en el suplemento 2 al 41 del Periódico Oficial, Órgano de Gobierno del Estado correspondiente al día 21 de mayo de 2005.
+
+TERCERO. El Ejecutivo del Estado deberá expedir el Reglamento de la ley en un término que no exceda de sesenta días a partir de que entre en vigor el presente decreto.
+
+CUARTO. El Comité de Productores Apícolas deberá quedar instalado en un término que no exceda de noventa días a partir de que entre en vigor el Reglamento de la Ley.
+
+QUINTO. Los apicultores que ya cuentan con apiarios instalados en el Estado, en un plazo no mayor de un año contado a partir de la fecha en que entre en vigor el presente Decreto, deberán registrarse en el Padrón, en los términos previstos por esta Ley.
+
+SEXTO. Los apicultores que ya estén instalados y que no se encuentren registrados, tendrán un plazo de ciento ochenta días para obtener su registro ante la Secretaría.
+
+SÉPTIMO. El Programa Estatal deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los ciento veinte días naturales posteriores a la entrada en vigor del presente ordenamiento.
