@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-inclusion-de-las-personas-con-discapacidad-del-1213
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-03"
-last_updated: "2021-02-06"
+last_updated: "2021-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE SEPTIEMBRE DE 2021 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
 
 Ley publicada en el Suplemento al Número 35 del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de mayo de 2017.
 
@@ -831,7 +833,11 @@ III. Otorgar las facilidades necesarias a las organizaciones de la sociedad civi
 
 IV. Establecer y aplicar las políticas públicas a través de las dependencias y entidades de la administración pública estatal, que garanticen la equidad e igualdad de oportunidades a las personas con discapacidad;
 
-V. Planear, elaborar y operar programas en materia de prevención, habilitación, rehabilitación, igualdad de oportunidades y orientación para las personas con discapacidad, así como emitir las normas técnicas para la prestación de dichos servicios;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2021)</small>
+
+V. Planear, elaborar y operar programas en materia de prevención, habilitación, rehabilitación, igualdad de oportunidades y orientación para las personas con discapacidad, así como emitir las normas técnicas para la prestación de dichos servicios.
+
+Cuando las personas con discapacidad, beneficiarias de algún programa público, manifiesten y comprueben que no pueden trasladarse personalmente a realizar trámites o recibir apoyos o servicios gubernamentales, el Ejecutivo garantizará el derecho a la accesibilidad, para lo cual, se acudirá al domicilio particular del beneficiario a realizar la entrega correspondiente;
 
 VI. Promover que en las zonas urbanas y rurales de nueva creación, se tomen en cuenta las necesidades de accesibilidad para personas con discapacidad tomando en cuenta los principios del diseño universal;
 
@@ -1187,7 +1193,11 @@ V. Promover que en los estacionamientos públicos existan los espacios necesario
 
 VI. Gestionar y ejecutar ante las autoridades y empresas respectivas, la colocación de sistemas de comunicación accesibles, señalización de protectores para tensores de postes, cubiertas para coladeras y alertas en la construcción de obras en la vía pública y privada que faciliten el desplazamiento de las personas con discapacidad;
 
-VII. Planear, elaborar y operar programas en materia de prevención, habilitación y rehabilitación, en igualdad de oportunidades y orientación para las personas con discapacidad, así como adoptar las normas técnicas vigentes para la prestación de dichos servicios;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2021)</small>
+
+VII. Planear, elaborar y operar programas en materia de prevención, habilitación y rehabilitación, en igualdad de oportunidades y orientación para las personas con discapacidad, así como adoptar las normas técnicas vigentes para la prestación de dichos servicios.
+
+Cuando las personas con discapacidad, beneficiarias de algún programa público, manifiesten y comprueben que no pueden trasladarse personalmente a realizar trámites o recibir apoyos o servicios, el Ayuntamiento garantizará el derecho a la accesibilidad acudiendo al domicilio particular del beneficiario a realizar la entrega correspondiente;
 
 VIII. Difundir los programas que contribuyan al desarrollo integral de las personas con discapacidad en el Municipio;
 
@@ -1454,5 +1464,11 @@ Para el cumplimiento del presente Decreto, los Poderes Ejecutivo, Legislativo y 
 P.O. 6 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 447.- SE REFORMA LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 11 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 652.- SE REFORMA LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
