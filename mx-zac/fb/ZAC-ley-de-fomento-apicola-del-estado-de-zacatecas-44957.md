@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fomento-apicola-del-estado-de-zacatecas-44957"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-21"
-last_updated: "2013-03-23"
+last_updated: "2021-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE FOMENTO APICOLA DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN DE LAS ABEJAS Y EL DESARROLLO APÍCOLA DEL ESTADO Y MUNICIPIOS DE ZACATECAS, PUBLICADA EN EL P.O. DE 11 DE AGOSTO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO APÍCOLA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 21 de mayo de 2005.
 
@@ -658,3 +660,21 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 11 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO #664 LA HONORABLE SEXAGÉSIMA TERCERA LEGISLATURA DEL ESTADO LIBRE Y SOBERAO DE ZACATECAS, EN EL NOMBRE DEL PUEBLO DECRETA”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se abroga el decreto número 86, que contiene la Ley de Fomento Apícola del Estado de Zacatecas, publicado en el suplemento 2 al 41 del Periódico Oficial, Órgano de Gobierno del Estado correspondiente al día 21 de mayo de 2005.
+
+TERCERO. El Ejecutivo del Estado deberá expedir el Reglamento de la ley en un término que no exceda de sesenta días a partir de que entre en vigor el presente decreto.
+
+CUARTO. El Comité de Productores Apícolas deberá quedar instalado en un término que no exceda de noventa días a partir de que entre en vigor el Reglamento de la Ley.
+
+QUINTO. Los apicultores que ya cuentan con apiarios instalados en el Estado, en un plazo no mayor de un año contado a partir de la fecha en que entre en vigor el presente Decreto, deberán registrarse en el Padrón, en los términos previstos por esta Ley.
+
+SEXTO. Los apicultores que ya estén instalados y que no se encentren registrados, tendrán un plazo de ciento ochenta días para obtener su registro ante la Secretaría.
+
+SÉPTIMO. El Programa Estatal deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los ciento veinte días naturales posteriores a la entrada en vigor del presente ordenamiento.
