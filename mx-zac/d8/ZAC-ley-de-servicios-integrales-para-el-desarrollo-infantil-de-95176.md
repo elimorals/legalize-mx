@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-servicios-integrales-para-el-desarrollo-infantil-de-9517
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-03"
-last_updated: "2013-07-03"
+last_updated: "2021-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SERVICIOS INTEGRALES PARA EL DESARROLLO INFANTIL DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de julio de 2013.
 
@@ -73,7 +73,9 @@ IV. Prestador de servicio: propietario de un centro de servicios, ya sea persona
 
 V. Menores: niñas y niños que se encuentren en un rango de entre 45 días y 6 años de edad, que reciben atención integral en los centros de servicios;
 
-VI. Usuario: padre, madre o tutor del menor que contrata los servicios de atención y cuidado, que brindan los centros en la materia.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2021)</small>
+
+VI. Usuario: Madre trabajadora, Padre trabajador, sean viudos o divorciados, o de aquél que judicialmente se le hubiere confiado la custodia de sus hijos mismo que podrá contratar los servicios de atención y cuidado, que brindan los centros en la materia;
 
 VII. Persona autorizada: persona física, mayor de edad que se acredita como tal por la anuencia que le otorgan los padres del menor, para ingresarlo en su nombre y representación, al centro de servicios y recibirlo al término de la jornada;
 
@@ -960,3 +962,13 @@ PROFR. MARCO ANTONIO FLORES CHÁVEZ.
 EL DIRECTOR GENERAL DE LOS SERVICIOS DE SALUD DEL ESTADO DE ZACATECAS
 
 DR. RAÚL ESTRADA DAY.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 651.- SE REFORMA EL ARTÍCULO 4 DE LA LEY DE SERVICIOS INTEGRALES PARA EL DESARROLLO INFANTIL DE ZACATECAS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
