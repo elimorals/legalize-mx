@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-bienestar-y-proteccion-de-los-animales-en-el-estado-1164
 country: "mx"
 rank: "ley"
 publication_date: "2016-08-24"
-last_updated: "2017-04-22"
+last_updated: "2021-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
 
 Ley publicada en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el miércoles 24 de agosto de 2016.
 
@@ -37,7 +37,7 @@ LA HONORABLE SEXAGÉSIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACA
 
 RESULTANDOS
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -915,7 +915,11 @@ VIII. Toda privación de aire, luz, alimento, agua, espacio, abrigo contra la in
 
 IX. Abandonar a los animales en la vía pública o comprometer su bienestar al desatenderlos por periodos prolongados, y
 
-X. Las demás que establezcan la presente Ley, su Reglamento y demás ordenamientos jurídicos aplicables.
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2021)</small>
+
+X. Las intervenciones quirúrgicas cuyo objeto sea modificar la apariencia o conseguir otros fines no curativos, como el corte de la cola, de las orejas, sección de las cuerdas vocales o extirpación de uñas y dientes, y
+
+XI. Las demás que establezcan la presente Ley, su Reglamento y demás ordenamientos jurídicos aplicables.
 
 ### CAPÍTULO IX. CENTROS DE CONTROL ANIMAL
 
@@ -1270,3 +1274,11 @@ P.O. 22 DE ABRIL DE 2017.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 11 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 656.- MEDIANTE (SIC) REFORMA LA LEY PARA EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones legales que se opongan al presente Decreto.
