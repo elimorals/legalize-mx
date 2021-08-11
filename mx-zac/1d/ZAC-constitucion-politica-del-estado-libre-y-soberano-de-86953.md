@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2020-11-07"
+last_updated: "2021-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -2501,9 +2501,9 @@ El Ayuntamiento se integrará por un Presidente o Presidenta, una Sindicatura y 
 
 El Ayuntamiento es depositario de la función pública municipal y constituye la primera instancia de gobierno, con el propósito de recoger y atender las necesidades colectivas y sociales, así como para articular y promover el desarrollo integral y sustentable del Municipio.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2021)</small>
 
-Los Ayuntamientos crearán las dependencias y entidades de la administración pública municipal necesarias para cumplir con las atribuciones de su competencia; contarán con órganos internos de control designados en los términos de las leyes de la materia.
+Los Ayuntamientos crearán las dependencias y entidades de la administración pública municipal necesarias para cumplir con las atribuciones de su competencia; contarán con órganos internos de control e institutos municipales de las mujeres con capacidad de toma de decisiones, designados en los términos de las leyes de la materia.
 
 La competencia que la Constitución Política de los Estados Unidos Mexicanos y esta Constitución otorgan al gobierno municipal, será ejercida exclusivamente por el Ayuntamiento y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
@@ -2709,7 +2709,9 @@ XXII. Admitir o desechar las licencias que solicitaren sus integrantes.
 
 El Municipio deberá elaborar su Plan Municipal trianual y sus programas operativos anuales, de acuerdo a las siguientes bases:
 
-I. Los Planes Municipales de Desarrollo precisarán los objetivos generales, estrategias y prioridades del desarrollo integral del Municipio; contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y los responsables de su ejecución; establecerán los lineamientos de política de carácter general, sectorial y de servicios municipales. Sus previsiones se referirán al conjunto de la actividad económica y social y regirán el contenido de los programas operativos anuales en concordancia siempre con los Planes Regional, Estatal y Nacional de Desarrollo;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2021)</small>
+
+I. Los Planes Municipales de Desarrollo precisarán los objetivos generales, estrategias y prioridades del desarrollo integral del Municipio; contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y los responsables de su ejecución; establecerán los lineamientos de política de carácter general, sectorial y de servicios municipales, así como la política municipal de igualdad entre mujeres y hombres. Sus previsiones se referirán al conjunto de la actividad económica y social y regirán el contenido de los programas operativos anuales en concordancia siempre con los Planes Regional, Estatal y Nacional de Desarrollo;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
 
@@ -4022,3 +4024,13 @@ SEGUNDO. Publíquese en el Periódico Oficial, Órgano de Gobierno del Estado de
 TERCERO. La Legislatura del Estado, deberá hacer las adecuaciones correspondientes a las leyes estatales, en un plazo no mayor a 60 días naturales, a partir de su entrada en vigor.
 
 CUARTO. Conforme al apartado de efectos de la sentencia emitida por el Tribunal de Justicia Electoral del Estado de Zacatecas, relativa a los procedimientos de carácter jurisdiccional con el número de expediente TRIJEZ-JDC-008/2020 y Acumulado TRIJEZ-AG- 002/2020, y derivado que se encuentra en curso el proceso electoral local 2020-2021, las disposiciones normativas que sean parte de la armonización en el tema de Violencia Política Contra las Mujeres en Razón de Género, deberán iniciar su vigencia y aplicabilidad una vez concluido el proceso electoral que dio inicio el día siete de septiembre del año en curso.
+
+P.O. 11 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 683.- SE REFORMA EL PÁRRAFO CUARTO DE LA FRACCIÓN II DEL ARTÍCULO 118 Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 120, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS”.].
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Los Ayuntamientos integrantes del estado de Zacatecas, deberán realizar las adecuaciones necesarias para dar cumplimiento a la presente reforma, en un término de 180 días hábiles a partir de la entrada en vigor de este Decreto.
+
+TERCERO. Dentro de los noventa días siguientes a la entrada en vigor de este Decreto, la Legislatura del Estado reformará la Ley Orgánica del Municipio del Estado y otros ordenamientos, para armonizarlos a esta reforma.
