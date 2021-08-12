@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2021-07-08"
+last_updated: "2021-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -729,7 +729,9 @@ VIII. En las poblaciones o comunidades indígenas, las autoridades sanitarias pr
 
 La Secretaría de Salud y demás instituciones de salud promoverán y apoyarán:
 
-I.- La constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, entre los que se encuentran los de prevención al maltrato infantil, violencia familiar, enfermedades y accidentes que provoquen discapacidad, así como su atención, tratamiento y en su caso rehabilitación; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2021)</small>
+
+I.- La constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, entre los que se encuentran los de prevención al maltrato infantil, violencia familiar, violencia obstétrica, enfermedades y accidentes que provoquen discapacidad, así como su atención, tratamiento y en su caso rehabilitación; y
 
 II.- Mecanismos que garanticen el desarrollo de la Medicina Tradicional, así como propiciar el financiamiento y asistencia técnica para que realicen investigaciones sobre Medicina Tradicional y las tecnologías que le apliquen.
 
@@ -775,9 +777,11 @@ II. La atención del niño y la vigilancia de su crecimiento y desarrollo incluy
 
 III. La promoción de la integración y del bienestar familiar.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 57.
 
-En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes, así como de prevenir, investigar y sancionar la violencia obstétrica.
 
 ###### ARTICULO 58.
 
@@ -811,13 +815,15 @@ I. Los programas para padres y madres destinados a promover la atención materno
 
 II. Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
-III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2021)</small>
+
+III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas o en su caso, actos de violencia obstétrica.
 
 IV. Acciones relacionadas con educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excreta, y
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2021)</small>
 
-V. Los programas de prevención al maltrato infantil y violencia intrafamiliar;
+V. Los programas de prevención al maltrato infantil, violencia obstétrica y violencia intrafamiliar;
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2019)</small>
 
@@ -975,7 +981,17 @@ II. Las bases de coordinación que, conforme a la Ley, se definan entre las auto
 
 III. Los convenios que al efecto se suscriban entre el Gobierno del Estado y la Federación, y
 
-IV. Las disposiciones de esta Ley y demás normas jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE AGOSTO DE 2021)</small>
+
+IV. La Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2021)</small>
+
+V. La Ley de Derechos, Cultura y Desarrollo de los Pueblos y Comunidades Indígenas del Estado de Puebla; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN IV], P.O. 12 DE AGOSTO DE 2021)</small>
+
+VI. Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2019)</small>
 
@@ -984,6 +1000,10 @@ IV. Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología, optometría y sus ramas, podología y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización o de profesional técnico hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, podología, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2021)</small>
+
+Para el ejercicio de actividades profesionales en el campo de la medicina, se requiere tener capacitación en derechos humanos, prevención de la violencia obstétrica, interculturalidad y perspectiva de género por lo menos cada 3 años.
 
 ###### ARTICULO 73.
 
@@ -1017,9 +1037,11 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 Para los efectos del párrafo anterior el Gobierno del Estado, en coordinación con las Instituciones Educativas de Salud, definirán los mecanismos para que los pasantes de las profesiones para la salud participen en la organización y operación de los Comités de Salud a que alude el artículo 53 de esta Ley.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
+
 ###### ARTICULO 79.
 
-Las Autoridades Sanitarias de la Entidad, y con la participación de las Instituciones de Educación Superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado de Puebla, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
+Las Autoridades Sanitarias de la Entidad, y con la participación de las Instituciones de Educación Superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado de Puebla, que deberán contener contenidos formativos en derechos humanos, prevención de violencia obstétrica, interculturalidad y perspectiva de género, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
 ### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
 
@@ -1027,7 +1049,9 @@ Las Autoridades Sanitarias de la Entidad, y con la participación de las Institu
 
 Las autoridades educativas, en coordinación con las autoridades sanitarias estatales y con la participación de las instituciones de educación superior, recomendarán normas y criterios para la formación de recursos humanos para la salud.
 
-Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las Instituciones de Salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
+
+Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las Instituciones de Salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud que deberán tener en su contenido los temas de derechos humanos, prevención de violencia obstétrica, interculturalidad y perspectiva de género.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3458,6 +3482,14 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IX Y X, Y ADICIONA LA FRACCIÓN XI AL ARTÍCULO 6 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 52, EL 57, LAS FRACCIONES III Y V DEL 60, LA FRACCIÓN IV DEL 71, EL 79, EL SEGUNDO PÁRRAFO DEL 80 Y ADICIONA LAS FRACCIONES V Y VI AL 71, Y UN TERCER PÁRRAFO AL 72, TODOS DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
