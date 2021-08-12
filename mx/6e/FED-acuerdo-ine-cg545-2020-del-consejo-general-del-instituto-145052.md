@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg545-2020-del-consejo-general-del-instituto-145052
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-11-19"
-last_updated: "2020-11-19"
+last_updated: "2021-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145052&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2020-10-30"
 
 EXTRACTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA REALIZACIÓN DE LA CONSULTA INFANTIL Y JUVENIL 2021, SU PLAN OPERATIVO Y LA INTEGRACIÓN DEL COMITÉ TÉCNICO DE SEGUIMIENTO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 12 DE AGOSTO DE 2021, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE AGOSTO DE 2021.
 
 Extracto del acuerdo publicado en el Diario Oficial de la Federación, el jueves 19 de noviembre de 2020.
 
@@ -122,3 +124,47 @@ El Acuerdo completo y anexos que forma (sic) parte integral del mismo, se encuen
 Página DOF: http://www.dof.gob.mx/2020/INE/CGord202010_28_ap_22.pdf
 
 Ciudad de México, 30 de octubre de 2020.- El Director Ejecutivo de Capacitación Electoral y Educación Cívica, Roberto Heycher Cardiel Soto.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE AGOSTO DE 2021.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "EXTRACTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN DE LA INTEGRACIÓN DEL COMITÉ TÉCNICO DE ACOMPAÑAMIENTO DE LA CONSULTA INFANTIL Y JUVENIL 2021", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. Se aprueba la modificación de la integración del Comité Técnico de Acompañamiento de la Consulta Infantil y Juvenil 2021, para sumar la alianza del Instituto Nacional de los Pueblos Indígenas, con lo que se procurará maximizar de (sic) la participación de todos los grupos y sectores que componen a la niñez mexicana. Así, la integración del Comité se establecería de la siguiente manera:
+
+• Fondo de Naciones Unidas para la Infancia (UNICEF)
+
+• Instituto Nacional de los Pueblos Indígenas
+
+• Pacto por la Primera Infancia
+
+• Programa Universitario de Derechos Humanos de la Universidad Nacional Autónoma de México (PUDH-UNAM)
+
+• Programa Universitario de Estudios del Desarrollo de la Universidad Nacional Autónoma de México (PUED-UNAM)
+
+• Programa Interdisciplinario sobre Política y Prácticas Educativas (PIPE) del Centro de Investigación y Docencia Económicas (CIDE)
+
+• Programa de Investigación sobre Infancia de la Universidad Autónoma Metropolitana, Unidad Xochimilco
+
+• Red por los Derechos de la Infancia en México (REDIM)
+
+• Secretaría de Educación Pública (SEP)
+
+• Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes (SIPINNA)
+
+• Save the Children México
+
+• Virtual Educa
+
+SEGUNDO. El Comité Técnico de Acompañamiento de la CIJ continuará sus funciones y periodo de actividades de conformidad con el Plan operativo aprobado en el Acuerdo INE/CG545/2020.
+
+TERCERO. Se instruye a la Comisión del ramo para que conozca y apruebe cualquier modificación inherente al Comité Técnico de Acompañamiento de la Consulta Infantil y Juvenil 2021, debiendo mantener informado de ello a este Consejo General.
+
+CUARTO. Se instruye a la DECEyEC, en su carácter de instancia coordinadora, (sic) dé a conocer el contenido del presente Acuerdo al Instituto Nacional de los Pueblos Indígenas, solicitando la propuesta de algún representante del Instituto Nacional de los Pueblos Indígenas para integrarse a los trabajos del Comité Técnico de Acompañamiento; asimismo le proporcione y facilite la documentación que el referido Comité ha conocido y aprobado.
+
+QUINTO. El presente cuerdo (sic) entrará en vigor el día siguiente de su aprobación.
+
+SEXTO. Publíquese...
