@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-servicio-profesional-de-carrera-de-la-150416"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-07-22"
-last_updated: "2021-07-22"
+last_updated: "2021-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150416&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-30"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2021.
 
 Reglamento publicado en el Número 645 de la Gaceta Oficial de la Ciudad de México, el jueves 22 de julio de 2021.
 
@@ -151,6 +151,14 @@ XI. Determina criterios conforme a los cuales se elabora el catálogo y perfiles
 XII. Garantiza la igualdad de oportunidades de desarrollo y fomenta la paridad de género, así como la permanencia y la promoción del personal sustantivo, con base en el perfil, mérito profesional, trayectoria y experiencia; y
 
 XIII. Contribuye a generar identidad y sentido de pertenencia institucional en el personal sustantivo.
+
+> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2021)</small>
+
+XIV. Se ejecuta con respeto irrestricto a los Derechos Humanos por lo que en ningún caso se discriminará por razones de género, edad, discapacidad, religión, estado civil, origen étnico, condición social, orientación sexual, estado de salud, embarazo o cualquier otra circunstancia o condición que genere menoscabo en el ejercicio de sus derechos; y
+
+> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2021)</small>
+
+XV. Promueve la aplicación de acciones afirmativas y ajustes razonables o de procedimiento en aquellos casos en que los procesos o mecanismos institucionales así lo requieran.
 
 ###### Artículo 8.
 
@@ -1056,11 +1064,19 @@ El personal designado en términos del artículo 98 que cuente con el certificad
 
 La terminación del empleo público del personal nombrado por designación directa, concluirá una vez terminado el nombramiento o periodo para el que fue designado o cuando lo determine la persona Titular de la Fiscalía General, sin necesidad de realizar procedimiento alguno.
 
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 100.
 
-El personal sustantivo que tenga al menos tres años en la Fiscalía General, podrá mantener su cargo con reserva de plaza, cuando sea nombrado en un cargo de estructura dentro de la Fiscalía General. La Dirección General de Recursos Humanos, expedirá la constancia de reserva de plaza correspondiente, previo el visto bueno de la persona Titular de la Unidad Administrativa correspondiente.
+El personal sustantivo que tenga al menos tres años de antigüedad en el servicio profesional, podrá solicitar la reserva de plaza cuando sea nombrado en un puesto de estructura o cargo ya sea dentro de la Fiscalía General o en la Administración Pública Federal, de la Ciudad de México, Estatal, Municipal o en algún Órgano Autónomo.
 
-La reserva de plaza estará vigente hasta que el personal sustantivo concluya el cargo de estructura. concluida su gestión o su nombramiento, el servidor público deberá solicitar su reincorporación a más tardar dentro de los quince días hábiles siguientes, en caso contrario perderá los derechos que le otorga el Servicio Profesional de Carrera.
+Para tal efecto, la persona Titular de la Unidad Administrativa a la que se encuentre adscrito dicho personal sustantivo dará su visto bueno mediante oficio dirigido a la Coordinación General, para efectos de expedir la constancia de reserva correspondiente.
+
+La reserva de plaza será vigente en tanto el personal sustantivo continúe en el puesto de estructura o cargo para el cual fue designado, debiendo informarlo cada año a la Coordinación General o antes, en caso de que asuma otro cargo.
+
+Cuando la reserva sea para puesto de estructura o cargo fuera de la Fiscalía General, la vigencia de ésta no podrá exceder de tres años, renovable hasta por una ocasión más.
+
+Concluido su cargo, el personal sustantivo de que se trate, solicitará a la Coordinación General, la reincorporación a su cargo, a más tardar dentro de los quince días hábiles siguientes; en caso contrario perderá los derechos inherentes a su plaza.
 
 T R A N S I T O R I O S
 
@@ -1071,6 +1087,10 @@ SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su public
 TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
 
 CUARTO. El proceso de ingreso para el personal sustantivo que forme parte del Servicio Profesional de Carrera de la Procuraduría General de Justicia de la Ciudad de México, se efectuará en términos de las disposiciones aplicables que para tal efecto se emitan.
+
+> <small>(ADICIONADO, G.O. 12 DE AGOSTO DE 2021)</small>
+
+El personal sustantivo que se incorpore al Servicio Profesional de Carrera de la Fiscalía General en términos del párrafo anterior, conservará todas sus prestaciones sociales y antigüedad.
 
 QUINTO. El presente Reglamento se aplicará al personal sustantivo una vez concluido el proceso a que se refiere el artículo transitorio que antecede.
 
@@ -1085,3 +1105,13 @@ Ciudad de México, a 30 de junio del 2021
 LIC. ERNESTINA GODOY RAMOS
 
 FISCAL GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 12 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO FGJCDMX/28/2021 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
