@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2021-05-26"
+last_updated: "2021-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -443,11 +443,9 @@ IV. Decidir acerca del proyecto del presupuesto anual del Poder Legislativo y pr
 
 El proyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
-
-V. Proponer al pleno de la Cámara la designación del Secretario General, del Oficial Mayor y del Contralor Interno. En el caso de la designación del Auditor General, la Comisión fungirá como coadyuvante de la Comisión de Hacienda, Cuenta Pública y Presupuesto del Congreso del Estado;
+V. Proponer al pleno de la Cámara la designación del Secretario General, del Oficial Mayor y del Contralor Interno. En el caso de la designación del Auditor Superior, la Comisión fungirá como coadyuvante de la Comisión de Hacienda, Cuenta Pública y Presupuesto del Congreso del Estado;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -867,13 +865,11 @@ El orden del día que se genere con motivo de un citatorio a reunión de Comisio
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 75.
 
-La estructura técnica del Congreso se integra por la Secretaría General, la Oficialía Mayor, la Contraloría Interna y el Órgano de Fiscalización Superior, siendo la Comisión de Gobierno la autoridad administrativa inmediata.
+La estructura técnica del Congreso se integra por la Secretaría General, la Oficialía Mayor, la Contraloría Interna y la Auditoría Superior del Estado, siendo la Comisión de Gobierno la autoridad administrativa inmediata.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
@@ -885,9 +881,9 @@ Los titulares de los órganos técnicos serán propuestos por la Comisión de Go
 
 El período de duración del encargo será de la fecha de su designación y lo que comprenda la Legislatura que los designa, los cuales continuarán en el ejercicio de sus funciones hasta que la nueva Legislatura nombre a las personas titulares que hubieren de sucederles conforme al procedimiento respectivo, y podrán ser ratificados una sola vez; la ratificación, remoción o sustitución en su caso, deberá ser aprobada con la misma votación.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
 
-Los procedimientos para la designación de los titulares de los órganos técnicos y administrativos serán determinados en el Reglamento, a excepción del Auditor General del Órgano de Fiscalización que se establecerá en la ley de la materia.
+Los procedimientos para la designación de los titulares de los órganos técnicos y administrativos serán determinados en el Reglamento, a excepción del Auditor Superior de la Auditoría Superior del Estado que se establecerá en la ley de la materia.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
@@ -1111,7 +1107,9 @@ V. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2013)
 
 La administración y ejercicio de los recursos financieros estará a cargo de la Dirección de Tesorería, misma que dará cuenta comprobada de su aplicación a la Comisión de Hacienda, Cuenta Pública y Presupuesto, en los términos de la presente ley.
 
-El avance de gestión financiera y la cuenta pública del Congreso, se presentarán por conducto de la Oficialía Mayor a la Comisión de Hacienda, Cuenta Pública y Presupuesto para su remisión al Órgano de Fiscalización Superior, a más tardar en la fecha de vencimiento que disponga la ley de la materia.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
+
+El avance de gestión financiera y la cuenta pública del Congreso, se presentarán por conducto de la Oficialía Mayor a la Comisión de Hacienda, Cuenta Pública y Presupuesto para su remisión a la Auditoria Superior del Estado, a más tardar en la fecha de vencimiento que disponga la ley de la materia.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -1295,7 +1293,7 @@ d).- El orden interno precisará: la finalidad, las definiciones cuando así pro
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
 
 #### SECCIÓN SEGUNDA. REFORMAS CONSTITUCIONALES
 
@@ -1439,41 +1437,41 @@ El Servicio Profesional de Carrera se establecerá preferentemente para los trab
 
 ###### Artículo 105.
 
-La facultad fiscalizadora del Congreso se ejercerá por conducto del Órgano de Fiscalización Superior, que tendrá a su cargo la revisión de la cuenta pública de los sujetos de fiscalización, será un órgano con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga su ley.
+La facultad fiscalizadora del Congreso se ejercerá por conducto de la Auditoría Superior del Estado, que tendrá a su cargo la revisión de la cuenta pública de los sujetos de fiscalización, será un órgano con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga su ley.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 106.
 
-A propuesta de la Comisión de Gobierno y de la Comisión de Hacienda, Cuenta Pública y Presupuesto, la Legislatura designará al Auditor General con el voto de las dos terceras partes de los miembros presentes del Congreso, de conformidad al procedimiento señalado por la Ley del Órgano de Fiscalización Superior.
+A propuesta de la Comisión de Gobierno y de la Comisión de Hacienda, Cuenta Pública y Presupuesto, la Legislatura designará al Auditor Superior con el voto de las dos terceras partes de sus miembros presentes del Congreso, de conformidad al procedimiento señalado por la Ley de Fiscalización y Rendición de Cuentas del Estado de Nayarit.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 107.
 
-El Órgano de Fiscalización Superior para el desempeño de sus funciones contará con las dependencias que al efecto señalen su respectiva Ley y Reglamento, de conformidad con el presupuesto autorizado que le suministrará el Congreso.
+La Auditoria Superior del Estado para el desempeño de sus funciones contará con las dependencias que al efecto señalen su respectiva Ley y Reglamento, de conformidad con el presupuesto autorizado que le suministrará el Congreso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 108.
 
-La Comisión de Hacienda, Cuenta Pública y Presupuesto auditará la gestión financiera y evaluación del desempeño del órgano de fiscalización; será el conducto de coordinación y comunicación del Congreso y recibirá el informe del resultado de la revisión y fiscalización de las cuentas públicas, emitiendo el dictamen correspondiente que someterá a la aprobación del pleno del Congreso.
+La Comisión de Hacienda, Cuenta Pública y Presupuesto auditará la gestión financiera y evaluación del desempeño de la Auditoria Superior del Estado; será el conducto de coordinación y comunicación del Congreso y recibirá el informe del resultado de la revisión y fiscalización de las cuentas públicas, emitiendo el dictamen correspondiente que someterá a la aprobación del pleno del Congreso.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 Las auditorías a que hace referencia el párrafo anterior, podrán realizarse al ejercicio fiscal en curso y bajo el principio de posterioridad por conducto de la Contraloría Interna del Congreso.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 109.
 
-En los términos de la ley de la materia, el Órgano de Fiscalización Superior fiscalizará los ingresos, egresos, manejo, custodia y aplicación de fondos y recursos que afecten las haciendas públicas y el patrimonio de las entidades fiscalizadas, fincando las responsabilidades que procedan conforme a la ley. Asimismo, deberá fiscalizar las acciones del Estado y los Municipios en materia de fondos, recursos locales y deuda pública.
+En los términos de la ley de la materia, la Auditoria Superior del Estado fiscalizará los ingresos, egresos, manejo, custodia y aplicación de fondos y recursos que afecten las haciendas públicas y el patrimonio de las entidades fiscalizadas, fincando las responsabilidades que procedan conforme a la ley. Asimismo, deberá fiscalizar las acciones del Estado y los Municipios en materia de fondos, recursos locales y deuda pública.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 110.
 
-El Auditor General del Órgano de Fiscalización Superior del Estado, será el responsable del resguardo y custodia de las cuentas públicas mientras sean exigibles, en los términos que dispone la ley en la materia.
+El Auditor Superior de la Auditoría Superior del Estado, será el responsable del resguardo y custodia de las cuentas públicas mientras sean exigibles, en los términos que dispone la ley en la materia.
 
 ## TÍTULO SÉPTIMO. FACULTADES DEL CONGRESO EN MATERIA ELECTORAL
 
@@ -1700,3 +1698,9 @@ P.O. 26 DE MAYO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Las personas titulares de los órganos técnicos del Congreso del Estado de Nayarit que se encuentran actualmente en funciones, continuarán en el ejercicio de su encargo hasta que la nueva Legislatura nombre a las personas titulares que hubieren de sucederles conforme al procedimiento respectivo.
+
+P.O. 12 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT".]
+
+ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
