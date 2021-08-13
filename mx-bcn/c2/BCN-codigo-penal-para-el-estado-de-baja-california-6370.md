@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2021-07-23"
+last_updated: "2021-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1335,9 +1335,9 @@ III.- Desde el día en que se realizó la última conducta, tratándose de delit
 
 IV.- Desde la cesación de la consumación en el delito permanente.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
 
-Artículo 113 BIS.- Los plazos para la prescripción de la acción penal en el caso de los delitos previstos por los artículos 176, 177, 178, 180, 180 BIS, 238, 261, 262 y 264 de este Código, empezarán a computarse a partir de que la víctima cumpla 18 años de edad.
+Artículo 113 BIS.- Los plazos para la prescripción de la acción penal en el caso de los delitos previstos por los artículos 176, 177, 178, 180, 180 BIS, 184 QUATER, 238, 261, 262 y 264 de este Código, empezarán a computarse a partir de que la víctima cumpla 18 años de edad.
 
 > <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1351,13 +1351,9 @@ Si además de la pena de prisión el delito mereciere otra accesoria o una alter
 
 En los demás casos, la acción penal prescribirá en dos años.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
 
-###### Artículo 114 Bis.
-
-En los delitos de homicidio, violación, violación equiparada, violación impropia, sub tipo de abuso sexual de menores de catorce años, tráfico de menores, corrupción de personas menores de dieciocho años o quienes no tienen la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, pornografía y turismo sexual de personas menores de dieciocho años o quienes no tienen la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, lenocinio, que refiere este Código, el plazo de la prescripción de la acción penal será el equivalente a la pena máxima señalada para el delito de que se trate.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 8 DE JUNIO DE 2018)</small>
+Artículo 114 BIS.- En los delitos de homicidio, violación, violación equiparada, violación impropia, subtipo de abuso sexual de menores de catorce años, tráfico de menores, corrupción de personas menores de dieciocho años o quienes no tienen la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, pornografía y turismo sexual de personas menores de dieciocho años o quienes no tienen la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, lenocinio y pederastia, que refiere este Código, el plazo de la prescripción de la acción penal será el equivalente a la pena máxima señalada para el delito de que se trate.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2141,9 +2137,9 @@ Si la persona ofendida fuere menor de catorce años, la pena será de dos a tres
 
 ### CAPÍTULO V. PEDERASTIA
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
 
-ARTÍCULO 184 QUATER.- Tipo y Punibilidad.- A quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de edad, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento, se aplicará de nueve a dieciocho años de prisión y de setecientos cincuenta a dos mil doscientos cincuenta días multa.
+Artículo 184 QUATER.- Tipo y Punibilidad.- A quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de edad, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento, se aplicará de once a veinte años de prisión y de ochocientos cincuenta a tres mil veces el valor diario de la Unidad de Medida de Actualización.
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
@@ -6168,3 +6164,9 @@ P.O. 23 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 280 MEDIANTE EL CUAL SE APRUEBA (SIC) DIVERSAS REFORMAS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 235 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO DIVERSAS REFORMAS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
