@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2020-del-pleno-del-consejo-de-la-143712"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2021-06-29"
+last_updated: "2021-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143712&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2020-07-28"
 
 ACUERDO GENERAL 21/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA REANUDACIÓN DE PLAZOS Y AL REGRESO ESCALONADO EN LOS ÓRGANOS JURISDICCIONALES ANTE LA CONTINGENCIA POR EL VIRUS COVID-19
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE AGOSTO DE 2021.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 31 de julio de 2020.
 
@@ -79,11 +79,11 @@ ACUERDO
 
 ### CAPÍTULO I. Disposiciones generales
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 5/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 9/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 1.
 
-Vigencia. Con el objetivo de reanudar en su totalidad las actividades jurisdiccionales dentro del Poder Judicial de la Federación (en adelante “PJF”), mientras se garantiza la continuidad de las medidas tendientes a evitar la concentración de personas y la propagación del virus Covid-19, del 3 de agosto de 2020 al 16 de agosto de 2021 a las 8:00 a.m., la actividad jurisdiccional se sujetará a las reglas establecidas en el presente Acuerdo.
+Vigencia. Con el objetivo de reanudar en su totalidad las actividades jurisdiccionales dentro del Poder Judicial de la Federación (en adelante "PJF"), mientras se garantiza la continuidad de las medidas tendientes a evitar la concentración de personas y la propagación del virus Covid-19, del 3 de agosto de 2020 al 31 de octubre de 2021, la actividad jurisdiccional se sujetará a las reglas establecidas en el presente Acuerdo.
 
 ###### Artículo 2.
 
@@ -269,13 +269,21 @@ En adición a lo anterior, se estima que, por regla general, las y los trabajado
 
 Trabajo presencial en los órganos jurisdiccionales. La asistencia física a los órganos jurisdiccionales atenderá las siguientes reglas:
 
-I. Durante el período señalado en el artículo 1 y salvo instrucción en contrario por parte de la Comisión Especial, quedan exentas de realizar trabajo presencial quienes:
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 9/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2021)</small>
 
-a) Se encuentren en una situación especial de vulnerabilidad frente al Covid-19, es decir, las personas adultas mayores de 60 años, mujeres embarazadas o en estado de puerperio inmediato o en lactancia, y personas con diabetes, hipertensión, enfermedades cardiovasculares, enfermedades pulmonares crónicas, cáncer; inmunosupresión (adquirida o provocada), o con insuficiencia renal o hepática.
+I. Las personas en situación de vulnerabilidad, es decir, personas adultas mayores de 60 años, mujeres embarazadas o en estado de puerperio inmediato o en lactancia, y personas con asma, obesidad, enfermedad cerebrovascular, diabetes, hipertensión, enfermedades cardiovasculares, enfermedades pulmonares crónicas, cáncer; inmunosupresión (adquirida o provocada), o con insuficiencia renal o hepática, que presten sus servicios en los órganos jurisdiccionales, bajo protesta de decir verdad, comunicarán dicha circunstancia a las y los titulares a los cuales se encuentren adscritos, y adjuntarán el diagnóstico médico o los estudios clínicos que acrediten tal situación.
 
-b) No tengan posibilidad de dejar a sus hijas e hijos menores de 14 años o con alguna discapacidad al cuidado de otra persona durante el periodo comprendido en la presente contingencia.
+Las y los titulares de los órganos jurisdiccionales podrán solicitar la opinión de Servicios Médicos respecto a las situaciones de vulnerabilidad del personal que tengan bajo su adscripción.
 
-Dado que las personas que se encuentran en esta situación debieron declararlo así bajo protesta de decir verdad dentro del censo realizado para tal efecto por la Dirección General de Gestión Judicial, dicha situación se presume bajo la más estricta responsabilidad de quien así lo haya declarado. En caso de que se le requiera, el personal que se encuentre en los supuestos antes mencionados deberá exhibir alguna constancia médica o comprobante que lo sustente, siempre que pueda obtenerse sin arriesgar su salud. Para ello, podrá recurrirse a la opinión del Servicio Médico del propio Consejo.
+Las y los servidores públicos que no tengan la posibilidad de dejar al cuidado de otra persona a sus hijas o hijos menores de 14 años de edad o con alguna discapacidad, también comunicarán tal situación bajo protesta de decir verdad a las y los titulares de los órganos jurisdiccionales a los cuales se encuentran adscritos.
+
+Dado que las personas que se encuentran en esta situación debieron declararlo así bajo protesta de decir verdad dentro del censo realizado para tal efecto por la Dirección General de Gestión Judicial, dicha situación se presume bajo la más estricta responsabilidad de quien así lo haya declarado.
+
+Salvo instrucción en contrario por parte de la Comisión Especial, las personas en situación de vulnerabilidad realizarán labores presenciales en las oficinas y espacios de trabajo de los órganos jurisdiccionales, cuando ya hubieren tenido la posibilidad de recibir el esquema completo de vacunación contra la COVID 19, conforme a los criterios establecidos en la Política Nacional de Vacunación, el calendario de vacunación aplicable en su localidad de residencia, y demás disposiciones emitidas por el Gobierno Federal.
+
+Continuarán realizando labores a distancia las personas en situación de vulnerabilidad que aún no tengan la posibilidad de recibir el esquema completo de vacunación o que, teniéndola, no lo recibieron debido única y exclusivamente a una contraindicación médica, lo cual informarán a las y los titulares de los órganos jurisdiccionales a los cuales se encuentren adscritos, así como adjuntarán, en el caso de contraindicación médica, el diagnóstico o estudios clínicos correspondientes.
+
+Sin perjuicio de lo anterior, en el caso de labores calificadas o especializadas que tengan que realizarse presencialmente por personas en situación de vulnerabilidad que no hayan tenido la posibilidad de recibir el esquema completo de vacunación, la prestación de dichos servicios se realizará necesariamente de manera voluntaria.
 
 II. El personal que se encuentre en las hipótesis previstas en la fracción anterior únicamente podrá tener encomendadas tareas cuya realización pueda practicarse a distancia, sin que ello implique su exclusión de la obligación de cumplir con su jornada laboral y con las exigencias acordes a su cargo, con los ajustes que, en su caso, implique su desempeño en vía remota.
 
@@ -358,6 +366,10 @@ I. Esquema de contingencia: en caso de que se actualice el mayor riesgo, podrá 
 II. Esquema de presencia mínima: se mantienen la división por turnos, el escalonamiento de horarios y la duración de la jornada presencial, pero se reduce la presencia física a 4 personas por ponencia y a 3 en la secretaría de acuerdos en tribunales colegiados de Circuito, y a 6 personas en juzgados de Distrito y tribunales unitarios de Circuito. En este esquema podrán implementarse medidas como la suspensión de citas para consulta de expedientes y la ampliación de plazos, entre otras.
 
 III. Esquema de presencia moderada: se mantienen la división por turnos y el escalonamiento de horarios, pero se aumentan la jornada presencial a seis horas y el porcentaje habilitado para presencia física del personal jurisdiccional, sin que pueda autorizarse la presencia de más del 50%. En este esquema podrán implementarse medidas como un nuevo escalonamiento de horarios para que todos inicien durante el transcurso de la mañana, entre otras.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 9/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2021)</small>
+
+La Comisión Especial del Consejo podrá aplicar uno o varios de los referidos esquemas o incluso mecanismos intermedios, que permitan el adecuado funcionamiento de los órganos jurisdiccionales federales durante el periodo de contingencia.
 
 ### CAPÍTULO V. Tramitación y resolución de asuntos en juzgados de Distrito, tribunales unitarios de Circuito, tribunales colegiados de Circuito y Plenos de Circuito
 
@@ -660,3 +672,21 @@ TERCERO. Se mantiene el periodo de receso para la segunda quincena de julio, que
 CUARTO. A partir del 1 julio de 2021, el turno de guardia para la recepción de asuntos en días y horas inhábiles se regirá conforme al sistema de turno de guardias de juzgados de distrito publicado en el enlace: http://www.cjf.gob.mx/sistemaTurnosGuardias.htm
 
 QUINTO. Se mantiene la distribución de los órganos jurisdiccionales en los ocho grupos generados según la división en turnos matutino y vespertino, y de cada uno en cuatro bloques de horarios, conforme al Anexo 1 del Acuerdo General 21/2020, cuyo contenido está disponible en el siguiente enlace: https://www.cjf.gob.mx/2020/distribucionOJ.pdf
+
+D.O.F. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 9/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR 21/2020, RELATIVO A LA REANUDACIÓN DE PLAZOS Y AL REGRESO ESCALONADO EN LOS ÓRGANOS JURISDICCIONALES ANTE LA CONTINGENCIA POR EL VIRUS COVID-19, EN RELACIÓN CON EL PERIODO DE VIGENCIA, Y LAS PERSONAS EN SITUACIÓN DE VULNERABILIDAD”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Las personas que se encuentren en los supuestos del artículo 14, fracción I, indistintamente a las previsiones establecidas en dicha disposición, deberán responder el cuestionario que se habilitará a través de medios electrónicos, a fin de actualizar y acreditar las circunstancias de vulnerabilidad y de imposibilidad de dejar al cuidado de otra persona a sus hijas o hijos menores de 14 años de edad o con alguna discapacidad, conforme a la periodicidad, alcances y especificaciones emitidos por la Dirección General de Servicios al Personal de la Secretaría Ejecutiva de Administración.
+
+Las personas obligadas podrán plantear las dudas que tengan en relación con el cuestionario al correo electrónico censo_vulnerabilidad_2021_seadgsp@cjf.gob.mx
+
+CUARTO. Se instruye a la Dirección General de Protección Civil y Salud en el Trabajo, para que continúe implementando las medidas de ventilación, limpieza y desinfección de oficinas y espacios de trabajo, así como áreas comunes, de conformidad con la Guía Técnica para el Retorno Seguro a las Actividades en los Órganos Jurisdiccionales y Áreas Administrativas del Consejo de la Judicatura Federal.
+
+QUINTO. A partir del 16 de agosto de 2021 a partir de las 8:01 a.m., el turno de guardia para la recepción de asuntos en días y horas inhábiles se regirá conforme al sistema de turno de guardias de juzgados de Distrito publicado en el enlace: http://www.cjf.gob.mx/sistemaTurnosGuardias.htm
+
+SEXTO. Se mantiene la distribución de los órganos jurisdiccionales en los ocho grupos generados según la división en turnos matutino y vespertino, y de cada uno en cuatro bloques de horarios, conforme al Anexo 1 del Acuerdo General 21/2020, cuyo contenido está disponible en el siguiente enlace: https://www.cjf.gob.mx/2020/distribucionOJ.pdf
