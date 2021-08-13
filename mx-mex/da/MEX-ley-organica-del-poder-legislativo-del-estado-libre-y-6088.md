@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2020-11-06"
+last_updated: "2021-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE AGOSTO DE 2021.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -319,9 +319,9 @@ La Legislatura recibirá, dentro del mes de septiembre, un informe acerca del es
 
 La Legislatura recibirá anualmente para su revisión las cuentas de gastos del Estado, correspondiente (sic) al año inmediato anterior, a más tardar el 30 de abril, y de los municipios, dentro de los primeros quince días naturales del mes de marzo. Si el día del vencimiento de los plazos señalados, corresponde a un día inhábil, se podrá recibir al día hábil inmediato siguiente.
 
-> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, G.G. 13 DE AGOSTO DE 2021)</small>
 
-La Comisión de Vigilancia del Órgano Superior de Fiscalización deberá celebrar reunión de trabajo para revisar los Informes de Resultados presentados por el Órgano Superior de Fiscalización, a más tardar el 10 de octubre.
+La Comisión de Vigilancia del Órgano Superior de Fiscalización deberá celebrar las reuniones de trabajo que sean necesarias para revisar los Informes de Resultados presentados por el Órgano Superior de Fiscalización. Para ello, se podrá contar con la presencia del Auditor Superior y el personal del propio Órgano Superior que así se considere.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -503,9 +503,13 @@ XV. Suspender la sesión pública y disponer su continuación con carácter de r
 
 XVI. Firmar con los secretarios, las resoluciones a que se refiere la Constitución;
 
-> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 13 DE AGOSTO DE 2021)</small>
 
-XVII. Representar jurídicamente al Poder Legislativo ante todo género de autoridades, excepto en los juicios laborales en los que éste sea parte;
+XVII. Representar jurídicamente al Poder Legislativo, ante todo género de autoridades, así como en todos los procedimientos jurisdiccionales en que éste sea parte, excepto en los juicios laborales.
+
+La representación a que se refiere esta fracción, podrá ser delegada de forma general o especial a los titulares de las dependencias del Poder Legislativo, en lo que sea compatible con las funciones inherentes a sus cargos.
+
+La representación de la legislatura en los procesos jurisdiccionales, incluye, de manera enunciativa más no limitativa, el ejercicio de las acciones, defensas y recursos necesarios, en todas las etapas procesales, en los juicios civiles, penales, administrativos, mercantiles y electorales, así como los relativos a los medios de control constitucional.
 
 > <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 1999)</small>
 
@@ -887,9 +891,9 @@ II. Convocar a sesiones de la Junta de Coordinación Política;
 
 III. Conducir las relaciones con los otros poderes del Estado, con los poderes federales, con los gobiernos de los demás estados de la federación y con los ayuntamientos de los municipios de la entidad;
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 13 DE AGOSTO DE 2021)</small>
 
-IV. Ejecutar las resoluciones y acuerdos de la Junta de Coordinación Política, proveyendo a su exacta observancia;
+IV. Ejecutar las resoluciones y acuerdos de la Junta de Coordinación Política proveyendo a su exacta observancia, representando jurídicamente al Poder Legislativo, ante todo tipo de autoridades, en actuaciones de carácter administrativo relacionadas con la gestión y defensa de sus atribuciones, incluyendo las relacionadas con la estructura administrativa en general, así como para la gestión, administración y defensa de carácter patrimonial; contando con facultad para delegarla, de forma amplia o específica, a los titulares de las dependencias del Poder Legislativo para el ejercicio de las funciones inherentes a su cargo.
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1066,6 +1070,10 @@ XXXIV. Transparencia, Acceso a la Información Pública, Protección de Datos Pe
 > <small>(ADICIONADA, G.G. 8 DE ENERO DE 2018)</small>
 
 XXXV. Comisión de Familia y Desarrollo Humano.
+
+> <small>(ADICIONADA, G.G. 13 DE AGOSTO DE 2021)</small>
+
+XXXVI. Comisión Para las Declaratorias de Alerta de Violencia de Género contra las Mujeres por Feminicidio y Desaparición.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 15 DE MAYO DE 2019)</small>
 
@@ -2328,3 +2336,51 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Cuando se apliquen mecanismos de Parlamento Abierto, la Junta de Coordinación Política emitirá los lineamientos correspondientes.
+
+G.G. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 279.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 35 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 280.- POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 47 Y LA FRACCIÓN IV DEL ARTÍCULO 65 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMAN LAS FRACCIONES I Y III DEL ARTÍCULO 152 Y LA FRACCIÓN II BIS DEL ARTÍCULO 160 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+La Junta de Coordinación Política proveerá lo necesario para el cumplimiento del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones de menor o igual jerarquía que se opongan al presente Decreto.
+
+G.G. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 282.- POR EL QUE SE ADICIONA LA FRACCIÓN XXXVI DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE ADICIONA LA FRACCIÓN XXXVI DEL ARTÍCULO 13 A DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este decreto.
