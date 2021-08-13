@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-alternativa-del-estado-de-quintana-roo-100433"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-07"
-last_updated: "2014-04-07"
+last_updated: "2021-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 13 DE AGOSTO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 7 de abril de 2014.
 
@@ -1156,3 +1158,19 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 130 POR EL QUE SE EXPIDE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Justicia Alternativa del Estado de Quintana Roo, expedida mediante decreto 101 publicado en el Periódico Oficial del Estado de Quintana Roo, el siete de abril del año dos mil catorce.
+
+TERCERO. El Consejo de la Judicatura del Poder Judicial del Estado deberá emitir el reglamento de la ley y el manual de procedimientos del Centro de Justicia Alternativa del Estado, dentro del término de sesenta días contados a partir de la publicación de la presente ley.
+
+CUARTO. Los procedimientos iniciados con anterioridad a la entrada en vigor de la presente ley, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse.
+
+QUINTO. Se derogan las disposiciones que se opongan a la presente ley.
