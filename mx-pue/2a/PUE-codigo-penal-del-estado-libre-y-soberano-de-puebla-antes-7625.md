@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2021-03-26"
+last_updated: "2021-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -5725,7 +5725,7 @@ El servidor público que tenga una profesión cuyo ejercicio sea legalmente comp
 
 #### SECCION DECIMA PRIMERA.- EVASION DE PRESOS
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 435.
 
@@ -5847,7 +5847,7 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrá 
 
 ###### Artículo 436 Quinquies.
 
-Cuando el encargado de conducir o custodiar a un detenido, imputado o sentenciado, lo ponga indebidamente en libertad o proteja su evasión, será sancionado con prisión de tres meses a cinco años.
+Comete el delito de evasión de personas presas, el que favoreciere la fuga de una o más personas que se encuentren privadas de su libertad, al responsable de este delito, se le impondrá de tres años a ocho años de prisión.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -7134,6 +7134,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 421, Y EL 424 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO POR EL QUE REFORMA EL ARTÍCULO 436 QUINQUIES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
