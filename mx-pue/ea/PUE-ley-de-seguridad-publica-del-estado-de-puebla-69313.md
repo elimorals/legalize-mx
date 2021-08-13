@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2020-10-13"
+last_updated: "2021-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -245,7 +245,9 @@ I.- Cuerpo de Seguridad Pública Estatal, se compone de las ramas siguientes:
 
 a).- Policía Preventiva;
 
-b).- Policía de Seguridad Vial;
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
+b).- Policía que atiende la seguridad vial en el Estado de Puebla;
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
@@ -2390,6 +2392,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 10 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL INCISO B) DE LA FRACCIÓN I DEL ARTÍCULO 9 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA; ASÍ MISMO REFORMA LAS FRACCIONES XII, XIII Y XXXVII DEL ARTÍCULO 4, LAS FRACCIONES VI Y VII DEL 7, LA FRACCIÓN IV DEL 5, EL 8, EL PRIMER PÁRRAFO DEL 9, LA FRACCIÓN VII DEL 18, LA FRACCIÓN IX DEL APARTADO B) DEL 18 BIS, Y LOS ARTÍCULOS 42, 44, 46 Y 55 DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
