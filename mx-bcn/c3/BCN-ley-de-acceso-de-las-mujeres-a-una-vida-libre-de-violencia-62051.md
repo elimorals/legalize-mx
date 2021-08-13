@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2020-09-02"
+last_updated: "2021-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -733,13 +733,17 @@ XII. Coadyuvar con la Federación y los Gobiernos Municipales para el cumplimien
 
 XIII. La capacitación del personal a su cargo en materia de derechos de las mujeres, políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2021)</small>
 
-XIV. Proveer de los recursos presupuestarios, humanos y materiales a las entidades de la Administración Pública Estatal que integran el Sistema, en concordancia con el Programa Estatal, y
+XIV. Proveer de los recursos presupuestarios, humanos y materiales a las entidades de la Administración Pública Estatal que integran el Sistema, en concordancia con el Programa Estatal;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA -ANTES FRACCIÓN XIV-], P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE AGOSTO DE 2021)</small>
 
-XV. Todas aquellas que se requieran para tener un Estado libre de violencia de género.
+XV. Crear, operar, organizar, implementar, gestionar, actualizar, monitorear y evaluar el Registro Público de Agresores Sexuales, conforme a su reglamento; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE AGOSTO DE 2021)</small>
+
+XVI. Todas aquellas que se requieran para tener un Estado libre de violencia de género.
 
 ###### Artículo 38 Bis.
 
@@ -889,6 +893,10 @@ II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre
 
 III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
 
+### CAPÍTULO XI. DEL REGISTRO PÚBLICO DE AGRESORES SEXUALES
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 45.
 
 Compete al Poder Legislativo:
@@ -917,9 +925,17 @@ IV. Realizar acciones pertinentes para dar celeridad en la aplicación de las or
 
 V. Fomentar el desarrollo social, desde la visión de protección integral de los derechos humanos de las mujeres;
 
-VI. Generar mecanismos, y promover su implementación, para la detección de violencia contra las mujeres, y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2021)</small>
 
-VII. Las demás que le atribuyan otros ordenamientos legales.
+VI. Generar mecanismos, y promover su implementación, para la detección de violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE AGOSTO DE 2021)</small>
+
+VII. Coadyuvar en todo lo necesario con la autoridad administrativa del Poder Ejecutivo del Gobierno del Estado, para la debida implementación y operación del Registro Público de Agresores Sexuales; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE AGOSTO DE 2021)</small>
+
+VIII. Las demás que le atribuyan otros ordenamientos legales.
 
 ###### Artículo 47.
 
@@ -964,6 +980,52 @@ XVI. La atención de los demás asuntos que en materia de prevención, atención
 ###### Artículo 48.
 
 Será causa de responsabilidad administrativa el incumplimiento de esta Ley y se sancionará conforme a las leyes en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
+###### Artículo 49.
+
+El Registro Público de Agresores Sexuales es un mecanismo de información de carácter administrativo el cual tiene por objeto la plena identificación de las personas condenadas con sentencia firme por delitos de violación, abuso sexual, corrupción de menores, estupro, hostigamiento sexual, pederastia, pornografía, turismo sexual, lenocinio y contra la intimidad y la imagen, en cualquiera de sus modalidades, tipos o subtipos, previstos todos en el Código Penal para el Estado de Baja California.
+
+El Registro Público de Agresores Sexuales, estará a cargo y bajo la operación de la Secretaría General de Gobierno, en colaboración con el Poder Judicial del Estado.
+
+La información que genere dicho registro se referirá a personas condenadas en el Estado de Baja California y en su caso, en el extranjero o en otras entidades federativas, de conformidad con los convenios que al efecto realice la Secretaría General de Gobierno.
+
+La inscripción en el Registro Público de Agresores Sexuales será por un periodo igual al que dure su condena, en ningún caso podrá ser superior.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
+###### Artículo 50.
+
+La autoridad jurisdiccional competente deberá notificar a la Secretaría General de Gobierno sobre las personas agresoras sexuales que tengan sentencia firme por alguno de los delitos mencionados en el artículo anterior. También, notificarán los mecanismos de aceleración procesal que se hayan ejercido, beneficios preliberacionales y en general, cualquier resolución judicial que modifique su situación jurídica.
+
+La Secretaría General de Gobierno procederá a integrar una ficha pública que deberá contener:
+
+I. Nombre completo;
+
+II. Apodos o alias;
+
+III. Nacionalidad;
+
+IV. Fotografía actual de la persona agresora;
+
+V. Delito o delitos por el que fue condenado;
+
+VI. Pena privativa de libertad;
+
+VII. Fecha de nacimiento;
+
+VIII. Lugar de nacimiento; y,
+
+IX. CURP.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
+###### Artículo 51.
+
+El Registro Público de Agresores Sexuales, será actualizado de manera mensual de conformidad con la información entregada por la autoridad jurisdiccional competente, quien tendrá la responsabilidad de notificar a la Secretaría General de Gobierno acerca de las personas que cuenten con sentencia firme.
+
+El Registro Público de Agresores Sexuales, podrá ser consultado por cualquier persona con plena capacidad de ejercicio, siempre que se demuestre el interés legítimo para acceder a éste y trate de prevenir o atender actos relacionados con violencia sexual. Para tal efecto, la Secretaría General de Gobierno fijará en el reglamento correspondiente los criterios y requisitos de acceso, observando en todo momento las disposiciones normativas aplicables al derecho de acceso a la información pública y la protección de datos personales.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -1106,3 +1168,13 @@ P.O. 2 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 102 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA Y A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 235 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO DIVERSAS REFORMAS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Ejecutivo del Estado dentro de los noventa días hábiles siguientes contados a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias correspondientes.
+
+TERCERO. Dentro de los ciento veinte días naturales contados a partir de la entrada en vigor de la presente reforma el Ejecutivo del Estado, realizará las acciones administración y de coordinación necesarias para que inicie en operación el Registro Público de las Personas Agresoras Sexuales del Estado de Baja California.
