@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2020-del-pleno-del-consejo-de-la-143713"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2021-06-29"
+last_updated: "2021-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143713&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-07-28"
 
 ACUERDO GENERAL 22/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE AGOSTO DE 2021.
 
 Acuerdo publicado en el Número 26 del Diario Oficial de la Federación, el viernes 31 de julio de 2020.
 
@@ -65,11 +65,11 @@ ACUERDO
 
 ### Capítulo I. Disposiciones generales
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 6/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 1.
 
-Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 de agosto de 2020 al 16 de agosto de 2021 a las 8:00 a.m.
+Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 de agosto de 2020 al 31 de octubre de 2021.
 
 ###### Artículo 2.
 
@@ -81,11 +81,29 @@ II. Con el objeto de evitar concentración de personas en las áreas administrat
 
 III. Para disminuir el riesgo de contagio y facilitar el seguimiento de contactos que pueda haber tenido cada persona, se priorizarán guardias que se alternarán para el trabajo presencial, procurando que, de ser posible, una misma persona no esté en contacto con distintos equipos de trabajo. Asimismo, se buscará que, si la plantilla, las funciones y la organización del área administrativa lo permiten, quienes realicen labores presencialmente, puedan trabajar a distancia durante dos semanas antes de asistir nuevamente a una guardia presencial.
 
-IV. Durante el período señalado en el artículo 1, quedarán integradas a los esquemas de trabajo remoto y, por lo tanto, exentas de presentarse físicamente a la realización de las guardias quienes se encuentren en una situación especial de vulnerabilidad, es decir, las personas adultas mayores de 60 años, mujeres embarazadas o en estado de puerperio inmediato o lactancia, y personas con diabetes, hipertensión, enfermedades cardiovasculares, enfermedades pulmonares crónicas, cáncer, inmunosupresión (adquirida o provocada), o con insuficiencia renal o hepática. Adicionalmente y dado que no podrán acudir a las áreas administrativas personas menores de edad, tampoco trabajarán presencialmente las y los servidores públicos que no tengan posibilidad de dejar a sus hijas e hijos menores de 14 años o con alguna discapacidad al cuidado de otra persona durante esta etapa. Finalmente, tampoco podrán acudir quienes deban permanecer en aislamiento por haber contraído o haber estado en contacto con personas que hayan dado positivo por Covid-19, durante el tiempo señalado para tal efecto.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2021)</small>
 
-En caso de que se les requiera, las personas que se encuentren en estas hipótesis deberán remitir una declaración firmada bajo protesta de decir verdad sobre dicha circunstancia o exhibir alguna constancia médica o comprobante que la sustente, siempre que pueda obtenerse sin arriesgar la salud. Para ello, podrá recurrirse a la opinión del Servicio Médico del propio Consejo. Asimismo, si la persona manifiesta que carece de equipo de cómputo para realizar labores de forma remota, cada Consejera o Consejero, o titular de secretaría ejecutiva, órgano auxiliar y demás áreas administrativas del Consejo, podrá contactar a la Dirección General de Tecnologías de la Información con el objeto de coordinar el procedimiento para que se permita la salida del equipo de cómputo asignado a la o al servidor público respectivo, previa firma de la documentación necesaria de resguardo y responsabilidad.
+IV. Son personas en situación de vulnerabilidad, las personas adultas mayores de 60 años, mujeres embarazadas o en estado de puerperio inmediato o lactancia, y personas con asma, obesidad, enfermedad cerebrovascular, diabetes, hipertensión, enfermedades cardiovasculares, enfermedades pulmonares crónicas, cáncer, inmunosupresión (adquirida o provocada), o con insuficiencia renal o hepática.
+
+Si la persona manifiesta que carece de equipo de cómputo para realizar labores de forma remota, cada Consejera o Consejero, o titular de secretaría ejecutiva, órgano auxiliar y demás áreas administrativas del Consejo, podrá contactar a la Dirección General de Tecnologías de la Información con el objeto de coordinar el procedimiento para que se permita la salida del equipo de cómputo asignado a la o al servidor público respectivo, previa firma de la documentación necesaria de resguardo y responsabilidad.
 
 Las y los titulares de las áreas administrativas otorgarán facilidades al personal a su cargo para acudir a consultas o tratamiento médico cuando así lo necesiten, en cuyo caso no reingresarán a su lugar de trabajo durante el resto de la jornada laboral.
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2021)</small>
+
+IV. Bis. Las personas en situación de vulnerabilidad que presten sus servicios en el Consejo de la Judicatura Federal, bajo protesta de decir verdad, comunicarán dicha circunstancia a las y los titulares de las áreas administrativas a los cuales se encuentren adscritos, y adjuntarán el diagnóstico médico o los estudios clínicos que acrediten tal situación.
+
+Las y los titulares de las áreas administrativas podrán solicitar la opinión de Servicios Médicos respecto a las situaciones de vulnerabilidad del personal que tengan bajo su adscripción.
+
+Las y los servidores públicos que no tengan la posibilidad de dejar al cuidado de otra persona a sus hijas o hijos menores de 14 años de edad o con alguna discapacidad, también comunicarán tal situación bajo protesta de decir verdad a las y los titulares de las áreas administrativas a las cuales se encuentran adscritos.
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2021)</small>
+
+IV. Ter. Las personas en situación de vulnerabilidad realizarán labores presenciales en las oficinas y espacios de trabajo del Consejo de la Judicatura Federal, cuando ya hubieren tenido la posibilidad de recibir el esquema completo de vacunación contra la COVID 19, conforme a los criterios establecidos en la Política Nacional de Vacunación, el calendario de vacunación aplicable en su localidad de residencia, y demás disposiciones emitidas por el Gobierno Federal.
+
+Continuarán realizando labores a distancia las personas en situación de vulnerabilidad que aún no tengan la posibilidad de recibir el esquema completo de vacunación o que, teniéndola, no lo recibieron debido única y exclusivamente a una contraindicación médica, lo cual informarán a las y los titulares de las áreas administrativas a los cuales se encuentren adscritos, así como adjuntarán, en el caso de contraindicación médica, el diagnóstico o estudios clínicos correspondientes.
+
+Sin perjuicio de lo anterior, en el caso de labores calificadas o especializadas que tengan que realizarse presencialmente por personas en situación de vulnerabilidad que no hayan tenido la posibilidad de recibir el esquema completo de vacunación, la prestación de dichos servicios se realizará necesariamente de manera voluntaria.
 
 V. Cada área administrativa deberá llevar un censo del personal que utiliza medios públicos de transporte, privilegiando que, en la medida de lo posible, esas personas realicen trabajo a distancia y que, de no ser posible, cuiden escrupulosamente los esquemas de control sanitario.
 
@@ -654,3 +672,17 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
 
 TERCERO. Se mantiene el periodo de receso para la segunda quincena de julio, que comprende del 16 de julio al 1 de agosto de 2021.
+
+D.O.F. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 10/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR 22/2020, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19, EN RELACIÓN CON EL PERIODO DE VIGENCIA, Y LAS PERSONAS EN SITUACIÓN DE VULNERABILIDAD”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Las personas que se encuentren en los supuestos del artículo 2, fracciones IV., IV. Bis. y IV. Ter., indistintamente a las previsiones establecidas en dicha disposición, deberán responder el cuestionario que se habilitará a través de medios electrónicos, a fin de actualizar y acreditar las circunstancias de vulnerabilidad y de imposibilidad de dejar al cuidado de otra persona a sus hijas o hijos menores de 14 años de edad o con alguna discapacidad, conforme a la periodicidad, alcances y especificaciones emitidos por la Dirección General de Servicios al Personal de la Secretaría Ejecutiva de Administración.
+
+Las personas obligadas podrán plantear las dudas que tengan en relación con el cuestionario al correo electrónico censo_vulnerabilidad_2021_seadgsp@cjf.gob.mx
+
+CUARTO. Se instruye a la Dirección General de Protección Civil y Salud en el Trabajo, para que continúe implementando las medidas de ventilación, limpieza y desinfección de oficinas y espacios de trabajo, así como áreas comunes, de conformidad con la Guía Técnica para el Retorno Seguro a las Actividades en los Órganos Jurisdiccionales y Áreas Administrativas del Consejo de la Judicatura Federal.
