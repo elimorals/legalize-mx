@@ -4,7 +4,7 @@ identifier: "BCN-ley-electoral-del-estado-de-baja-california-108836"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2020-09-02"
+last_updated: "2021-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -1259,7 +1259,7 @@ V. Registrar los nombramientos de los representantes de los partidos políticos,
 
 VI. Registrar los nombramientos de los representantes que los partidos políticos acrediten para la jornada electoral;
 
-VII. Realizar el sorteo de los lugares de uso común para la colocación de propaganda de los partidos políticos, de acuerdo a los lineamientos que emita para tal efecto el Consejo General;
+VII. (DEROGADA, P.O. 13 DE AGOSTO DE 2021)
 
 VIII. Aprobar la integración y ubicación de las Mesas Directivas de Casillas, cuando esta función se encuentre delegada por el Instituto Nacional a favor del Instituto Estatal;
 
@@ -2041,11 +2041,27 @@ Las actividades que comprenden la campaña electoral, son:
 
 I. Actos de campaña: las reuniones públicas, debates, asambleas, visitas domiciliarias, marchas y en general aquellos en que los candidatos o voceros de los partidos políticos o coaliciones se dirigen al electorado para promover sus candidaturas, y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE AGOSTO DE 2021)</small>
+
 II. Propaganda electoral: el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos o coaliciones, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE AGOSTO DE 2021)</small>
+
+La propaganda electoral señalada en el párrafo anterior, quedará prohibida a los partidos políticos, las coaliciones y los candidatos registrados, cuando se trate de colocar, colgar, fijar, proyectar, adherir y pintar propaganda electoral en bardas, publivallas, espectaculares, pantallas electrónicas, postes o similares, ya sean éstos de uso común o privado, así como en unidades de servicio público de transporte de pasajeros o de carga.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE AGOSTO DE 2021)</small>
+
+El Consejo General está facultado para ordenar el retiro o la suspensión inmediata de la propaganda electoral que incumpla (sic) lo señalado en este artículo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE AGOSTO DE 2021)</small>
 
 Tanto los actos de campaña, como la propaganda electoral deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos o coaliciones en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE AGOSTO DE 2021)</small>
+
 Se prohíbe la contratación por parte de terceros, de propaganda electoral a favor o en contra de algún partido político, coalición o candidato.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE AGOSTO DE 2021)</small>
 
 Para los efectos de lo dispuesto por el párrafo quinto del artículo 100 de la Constitución del Estado, y el párrafo octavo del artículo 134 de la Constitución Federal, el informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de tales informes podrá tener fines electorales, ni realizarse dentro del periodo de campaña electoral.
 
@@ -2055,7 +2071,9 @@ Los recursos que destinen los partidos políticos, las coaliciones y sus candida
 
 Para los efectos de este artículo quedarán comprendidos dentro de los topes de gasto los siguientes conceptos:
 
-I. Gastos de propaganda, que comprenden los realizados en bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados, propaganda utilitaria y otros similares;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2021)</small>
+
+I. Gastos de propaganda, que comprenden los realizados en bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados, propaganda utilitaria, redes sociales y otros similares;
 
 II. Gastos operativos de la campaña, que comprenden los sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y personal, viáticos y otros similares;
 
@@ -2175,13 +2193,15 @@ III. Podrá colgarse o fijarse en los bastidores y mamparas de uso común que de
 
 IV. No podrá fijarse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes geográficos cualquiera que sea su régimen jurídico, tales como cerros, colinas, montañas y en general cuando se modifique el paisaje natural y urbano o perjudique el entorno ecológico;
 
-V. No podrá fijarse, colgarse, pintarse, ni distribuirse en el interior de las oficinas, edificios y locales ocupados por los poderes del Estado, la administración pública centralizada y descentralizada federal, estatal o municipal, y en general en aquellos que estén destinados a la prestación de servicios públicos. En el exterior no podrá fijarse, colgarse o pintarse, y
+V. (DEROGADA, P.O. 13 DE AGOSTO DE 2021)
 
 VI. No podrá colgarse, fijarse o pintarse en monumentos históricos, arqueológicos, artísticos y construcciones de valor cultural.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 166.
 
-Se prohíbe a los partidos políticos, coaliciones y candidatos la sobreposición, destrucción o alteración de carteles, pintas y de cualquier otra modalidad de propaganda electoral de otros partidos y candidatos.
+Se prohíbe a los partidos políticos, coaliciones y candidatos la sobreposición, destrucción o alteración de cualquier modalidad de propaganda electoral de otros partidos y candidatos.
 
 ###### Artículo 167.
 
@@ -4239,6 +4259,10 @@ a) Con amonestación pública, y
 
 b) Con multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente, según la gravedad de la falta.
 
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
+Artículo 354 BIS.- A quien incumpla lo dispuesto en el artículo 152, fracción II, segundo párrafo de esta Ley, se le aplicará una multa de cincuenta a cinco mil veces al valor diario de la unidad de medida y actualización vigente.
+
 ###### Artículo 355.
 
 Ninguna sanción podrá imponerse, sin que previamente se oiga en defensa al interesado.
@@ -5112,3 +5136,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Instituto Estatal Electoral, contará con un plazo de 30 días naturales contados a partir de la vigencia del presente Decreto, para adecuar sus disposiciones reglamentarias conforme a lo dispuesto en el mismo.
 
 TERCERO. Los procedimientos sancionadores iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán rigiéndose por las disposiciones vigentes al momento de su inicio.
+
+P.O. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 276 MEDIANTE EL CUAL SE ARUEBAN DIVERSAS REFORMAS A LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, y serán aplicables en el Proceso Electoral Local 2023- (sic) 2024.
+
+SEGUNDO. La autoridad Electoral realizará las adecuaciones reglamentarias y administrativas para que la presente reforma se implemente a partir del Proceso Electoral Local 2023- (sic) 2024 en el Estado de Baja California.
