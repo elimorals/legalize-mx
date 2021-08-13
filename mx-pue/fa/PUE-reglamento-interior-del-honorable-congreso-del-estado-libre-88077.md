@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2019-09-30"
+last_updated: "2021-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -876,6 +876,24 @@ g) Armonizar la legislación estatal atendiendo los principales retos y problem�
 > <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
 
 h) Las demás que se deriven de su denominación de atender el derecho de familia, así como los derechos de la niñez.
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2021)</small>
+
+XXXVI.- DE LA AGENDA 2030 Y CONVENIOS O ACUERDOS QUE SE DETERMINEN EN EL ÁMBITO INTERNACIONAL PARA MEJORAR LAS NECESIDADES DE TODA LA POBLACIÓN:
+
+a) Adecuar el marco jurídico local con la finalidad de realizar las modificaciones y/o armonizaciones necesarias tomando como base los ejes rectores de la Agenda 2030 y convenios o acuerdos que se determinen en el ámbito internacional para mejorar las necesidades de toda la población;
+
+b) Expedir y reformar los ordenamientos legales necesarios a fin de cumplir estrictamente con los Objetivos de Desarrollo Sostenible previstos en la Agenda 2030 y convenios o acuerdos que se determinen en el ámbito internacional para mejorar las necesidades de toda la población, desde el ámbito competencial correspondiente;
+
+c) Coadyuvar con las demás Comisiones Generales, a fin de legislar tomando en consideración el enfoque de la Agenda 2030 y convenios o acuerdos que se determinen en el ámbito internacional para mejorar las necesidades de toda la población, desde el ámbito de su competencia respectiva;
+
+d) Establecer acciones o programas para lograr que los objetivos de desarrollo sostenible previstos en la Agenda 2030 y convenios o acuerdos que se determinen en el ámbito internacional para mejorar las necesidades de toda la población, abarquen a todo el Estado en sus 217 municipios, desde el ámbito de su competencia respectiva;
+
+e) Establecer acciones o programas que promueva el Poder Legislativo, la sensibilización de legisladoras y legisladores sobre su función para la consecución de los Objetivos de Desarrollo Sostenible al momento de legislar, así como que en los dictámenes de ley se reconozcan explícitamente su contribución al desarrollo sostenible;
+
+f) Establecer mediciones sobre el desarrollo y logros de los objetivos de la presente Comisión General, y
+
+g) Las demás que les confiera este Reglamento Interior, las leyes aplicables o las que le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
 #### SECCIÓN SEGUNDA. DE LAS COMISIONES TRANSITORIAS
 
@@ -3356,3 +3374,11 @@ CUARTO. Todos los actos suscritos por la Comisión de Asuntos Indígenas y/o su 
 QUINTO. Todo instrumento jurídico, que a la entrada en vigor del presente Decreto, se refiera a la Comisión de Asuntos Indígenas, se entenderá realizada por la Comisión de Pueblos Indígenas conforme al presente Decreto.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXXIV Y XXXV, Y ADICIONA LA FRACCIÓN XXXVI AL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA; ASÍ MISMO ADICIONA LA FRACCIÓN XXXVI AL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
