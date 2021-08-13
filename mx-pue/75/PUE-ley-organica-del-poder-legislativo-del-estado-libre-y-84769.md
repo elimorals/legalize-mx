@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2021-07-02"
+last_updated: "2021-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "PUE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2021 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE AGOSTO DE 2021.]</small>
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -1483,13 +1483,17 @@ XXXII.- Organizaciones No Gubernamentales;
 
 XXXIII.- Cultura;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2021)</small>
 
-XXXIV.- Participación Ciudadana y Combate a la Corrupción; y
+XXXIV.- Participación Ciudadana y Combate a la Corrupción;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2021)</small>
 
-XXXV.- De la Familia y los Derechos de la Niñez.
+XXXV.- De la Familia y los Derechos de la Niñez, y
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2021)</small>
+
+XXXVI.- De la Agenda 2030 y convenios o acuerdos que se determinen en el ámbito internacional para mejorar las necesidades de toda la población.
 
 #### SECCIÓN TERCERA. DE LAS COMISIONES TRANSITORIAS
 
@@ -2349,7 +2353,7 @@ III.- No haber sido sentenciado por delitos patrimoniales o estar inhabilitado p
 
 IV.- Poseer los conocimientos, experiencia y capacidad de acuerdo al perfil del cargo.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2021)</small>
+(ADICIONADA, P.O. 2 DE JULIO DE 2021) (F. DE E., P.O. 13 DE AGOSTO DE 2021)
 
 V.- Colaborar con el IILFS “Gilberto Bosques Saldívar” para el logro de la igualdad de género en la elaboración de publicaciones y contenidos editoriales que consoliden el proceso de institucionalización e implementación de la perspectiva de género;
 
@@ -2383,7 +2387,9 @@ III.- Proponer y coadyuvar con las instancias competentes para promover ambiente
 
 IV.- Proponer ante las instancias competentes políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios rectores de legalidad, eficiencia, probidad, objetividad, calidad, imparcialidad, competitividad, mérito y profesionalismo;
 
-V.- Colaborar con el IILFS para el logro de la igualdad de género en la elaboración de publicaciones y contenidos editoriales que consoliden el proceso de institucionalización e implementación de la perspectiva de género;
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2021)</small>
+
+V.- Colaborar con el IILFS "Gilberto Bosques Saldívar" para el logro de la igualdad de género en la elaboración de publicaciones y contenidos editoriales que consoliden el proceso de institucionalización e implementación de la perspectiva de género;
 
 VI.- Contribuir en la formación y especialización del personal de todos los niveles en materia de perspectiva de género e igualdad sustantiva;
 
@@ -2976,6 +2982,14 @@ TERCERO. Se derogan todas las disposiciones que se opongan a lo previsto en el p
 P.O. 2 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 216; Y ADICIONAN EL INCISO D) A LA FRACCIÓN III DEL ARTÍCULO 61, ASÍ COMO EL ARTÍCULO 216 QUATER AL CAPÍTULO VII, DEL TÍTULO SEXTO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXXIV Y XXXV, Y ADICIONA LA FRACCIÓN XXXVI AL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA; ASÍ MISMO ADICIONA LA FRACCIÓN XXXVI AL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
