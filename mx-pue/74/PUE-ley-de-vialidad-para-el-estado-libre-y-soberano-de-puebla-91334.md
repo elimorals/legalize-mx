@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vialidad-para-el-estado-libre-y-soberano-de-puebla-91334
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2021-07-07"
+last_updated: "2021-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
 
 Ley publicada en la Décima Séptima Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -113,13 +113,13 @@ X. Crucero o intersección: Lugar donde se unen dos o más vías públicas;
 
 XI. Depósito vehicular oficial: Al lugar destinado para resguardo y custodia de los vehículos que están a disposición de la autoridad que corresponda;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2021)</small>
 
-XII. Dirección: A la Dirección de Vialidad de la Secretaría de Seguridad Pública del Estado de Puebla;
+XII. Dirección: A la Dirección de Operaciones Policiales de la Secretaría de Seguridad Pública del Estado de Puebla;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2021)</small>
 
-XIII. Director: Al Director de Vialidad del Estado de Puebla;
+XIII. Director: La persona que dirija el área de Operaciones Policiales de la Secretaría de Seguridad Pública del Estado de Puebla;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
@@ -217,9 +217,9 @@ XXXV. Persona con movilidad limitada: Aquella persona que de forma temporal o pe
 
 XXXVI. Plantón: Al grupo de individuos que se congrega y permanece cierto tiempo en un lugar público determinado con una finalidad;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2021)</small>
 
-XXXVII. Policía vial: Al elemento de la Dirección y de las unidades administrativas que atienden la seguridad vial en el Estado de Puebla, para los efectos de la presente Ley entiéndase también como policía de vialidad y autoridad vial;
+XXXVII. Policía: Las personas integrantes de los cuerpos policiales de la Dirección y de las unidades administrativas que atienden la seguridad vial en el Estado de Puebla;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
@@ -285,7 +285,9 @@ II. El Secretario;
 
 III. El Director; y
 
-IV. Los policías viales.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2021)</small>
+
+IV. Las y los policías.
 
 ###### ARTÍCULO 6.
 
@@ -311,19 +313,27 @@ IV. Planear, aprobar, coordinar y evaluar las políticas y programas en materia 
 
 V. Autorizar el uso de vehículos de paso preferencial o de emergencia cuando éstos cumplan funciones de seguridad o de asistencia social, de conformidad con las legislaciones aplicables;
 
-VI. Disponer de los recursos humanos, económicos y materiales que estén a su alcance, necesarios para el correcto funcionamiento administrativo y operativo de la Dirección de Vialidad, considerando lo anterior en la elaboración del anteproyecto de presupuesto de egresos correspondiente;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2021)</small>
 
-VII. Proponer al Gobernador a la persona que habrá de fungir como Director de Vialidad; y
+VI. Disponer de los recursos humanos, económicos y materiales que estén a su alcance, necesarios para el correcto funcionamiento administrativo y operativo de la Dirección de Operaciones Policiales, considerando lo anterior en la elaboración del anteproyecto de presupuesto de egresos correspondiente;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2021)</small>
+
+VII. Proponer a la persona Titular del Gobierno del Estado a la persona que habrá de fungir como Director o Directora; y
 
 VIII. Las demás que establezcan los ordenamientos legales correspondientes.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 8.
 
-Las facultades del Director de Vialidad, serán las que se señalan en la presente Ley y su Reglamento, el Reglamento Interior de la Secretaría de Seguridad Pública y las que le delegue el Gobernador o el Secretario, haciendo valer su cumplimiento a través de los elementos de la policía vial adscritos a la Secretaría.
+Las facultades del Director, serán las que se señalan en la presente Ley y su Reglamento, el Reglamento Interior de la Secretaría de Seguridad Pública y las que le delegue el Gobernador o el Secretario, haciendo valer su cumplimiento a través de los elementos de la policía adscritos a la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2021)</small>
 
 ###### ARTÍCULO 9.
 
-Las facultades de los elementos de la policía vial adscritos a la Secretaría, serán las siguientes:
+Las facultades de los elementos de la policía adscritos a la Dirección, serán las siguientes:
 
 I. Las que les delegue por acuerdo el Gobernador, el Secretario o el Director;
 
@@ -455,9 +465,9 @@ V. Cruzar las vías por las esquinas o zonas marcadas para tal efecto;
 
 VI. Utilizar puentes y pasos peatonales para cruzar la vía pública;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2021)</small>
 
-VII. Obedecer las indicaciones de los policías viales, promotores voluntarios de seguridad vial y señalamientos;
+VII. Obedecer las indicaciones de las y los policías, promotores voluntarios de seguridad vial y señalamientos;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
@@ -513,7 +523,9 @@ VII. No llevar paquetes u objetos que excedan la dimensión del manubrio o vehí
 
 VIII. No conducir bajo los efectos del alcohol, enervantes, estupefacientes, psicoactivos o cualquier otro que produzca efectos similares, y
 
-IX. No sujetarse a otros vehículos en movimiento.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2021)</small>
+
+IX. No sujetarse a otros vehículos en movimiento. Los ciclistas que no cumplan con estas obligaciones, serán amonestados verbalmente por las y los policías, y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
 Los ciclistas que no cumplan con estas obligaciones, serán amonestados verbalmente por los policías viales y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
@@ -755,17 +767,21 @@ Los vehículos indebidamente estacionados, los que se encuentren presuntamente a
 
 ### CAPITULO I. HECHOS DE TRÁNSITO
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 42.
 
-Cuando se suscite un hecho de tránsito, tomarán conocimiento del mismo los policías de vialidad, en caso de competencia del Estado; en caso de competencia municipal, las autoridades de tránsito correspondientes.
+Cuando se suscite un hecho de tránsito, tomarán conocimiento del mismo las y los policías, en caso de competencia del Estado; en caso de competencia municipal, las autoridades de tránsito correspondientes.
 
 ###### ARTÍCULO 43.
 
 Las autoridades de vialidad operativas, en un hecho de tránsito, deberán cumplir con los requisitos que establece el procedimiento de cadena de custodia para los efectos legales a que haya lugar.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 44.
 
-Ante un hecho de tránsito y en caso de no presentarse delitos perseguibles de oficio, los policías viales exhortarán a las partes a convenir, sin influir de ningún modo y por ningún medio en la probable responsabilidad de las partes.
+Ante un hecho de tránsito y en caso de no presentarse delitos perseguibles de oficio, las y los policías exhortarán a las partes a convenir, sin influir de ningún modo y por ningún medio en la probable responsabilidad de las partes.
 
 ###### ARTÍCULO 45.
 
@@ -773,9 +789,11 @@ En caso de que las partes no convengan, las autoridades operativas de vialidad, 
 
 ### CAPÍTULO II. PROBABILIDAD DE HECHOS DELICTIVOS
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 46.
 
-Cuando un policía de vialidad, en ejercicio de sus funciones y acorde con la naturaleza del evento, tenga conocimiento de la comisión de probables hechos delictivos, procurará garantizar la seguridad de las probables víctimas, aplicando los protocolos que correspondan, debiendo poner a disposición del Ministerio Público, por medio del parte respectivo y en forma inmediata, a las personas que haya detenido y los objetos asegurados. Será obligación de la autoridad ministerial la recepción de las actuaciones de la autoridad administrativa de vialidad.
+Cuando las y los policías, en ejercicio de sus funciones y acorde con la naturaleza del evento, tenga conocimiento de la comisión de probables hechos delictivos, procurará garantizar la seguridad de las probables víctimas, aplicando los protocolos que correspondan, debiendo poner a disposición del Ministerio Público, por medio del parte respectivo y en forma inmediata, a las personas que haya detenido y los objetos asegurados. Será obligación de la autoridad ministerial la recepción de las actuaciones de la autoridad administrativa de vialidad.
 
 ## TÍTULO CUARTO. DE LA EDUCACIÓN VIAL
 
@@ -857,9 +875,11 @@ Para efectos de este artículo y tratándose de vehículos registrados en otra E
 
 En contra del acto administrativo de infracción procede la presentación del recurso de inconformidad, acorde con los preceptos señalados en el reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 55.
 
-El recurso de inconformidad, deberá presentarse por escrito ante el Director de Vialidad, en un término no mayor a tres días hábiles a partir de que se tenga conocimiento de lo contenido en el formato oficial en el que conste la infracción.
+El recurso de inconformidad, deberá presentarse por escrito ante el Director, en un término no mayor a tres días hábiles a partir de que se tenga conocimiento de lo contenido en el formato oficial en el que conste la infracción.
 
 ###### ARTÍCULO 56.
 
@@ -944,3 +964,11 @@ PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Est
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La Secretaría de Movilidad y Transporte, se deberá coordinar con la Secretaría de Planeación y Finanzas, para mantener un banco de datos en el cual se contenga la información de los sujetos sancionados y la temporalidad en los supuestos establecidos, en el artículo 51 Bis de la Ley de Vialidad para el Estado Libre y Soberano de Puebla, información que deberá ser consultada por la autoridad en la tramitación de las licencias.
+
+P.O. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL INCISO B) DE LA FRACCIÓN I DEL ARTÍCULO 9 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA; ASÍ MISMO REFORMA LAS FRACCIONES XII, XIII Y XXXVII DEL ARTÍCULO 4, LAS FRACCIONES VI Y VII DEL 7, LA FRACCIÓN IV DEL 5, EL 8, EL PRIMER PÁRRAFO DEL 9, LA FRACCIÓN VII DEL 18, LA FRACCIÓN IX DEL APARTADO B) DEL 18 BIS, Y LOS ARTÍCULOS 42, 44, 46 Y 55 DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
