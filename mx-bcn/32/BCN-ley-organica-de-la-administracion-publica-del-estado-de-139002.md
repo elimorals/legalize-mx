@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-139002"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2021-07-29"
+last_updated: "2021-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "BCN"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2021 Y SU ACUMULADA 128/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 289, MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA AL ARTÍCULO 38 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTINUEVE DE JULIO DE DOS MIL VEINTIUNO, LA CUAL SURTIÓ EFECTOS EL 17 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -61,7 +59,9 @@ El Gobernador del Estado, podrá proponer, la creación de organismos que requie
 
 El Gobernador del Estado podrá convocar, directamente o a través del Secretario General de Gobierno a reuniones de gabinete con los Secretarios de Estado y funcionarios de la Administración Pública Estatal que determine, a fin de definir o evaluar la política de la Administración Pública Estatal en asuntos prioritarios de la administración; cuando las circunstancias políticas, administrativas o estratégicas del gobierno lo ameriten; o para atender asuntos que sean de competencia concurrente de varias dependencias. Estas reuniones serán presididas por el Gobernador o si éste así lo determina por el Secretario General de Gobierno.
 
-Para el debido cumplimiento y vigilancia de la implementación de la política pública en materia de justicia, combate a la desigualdad social y pobreza, se instalará al inicio de cada administración la Comisión Intersecretarial para el Bienestar Integral de Baja California, integrada por la Secretaría General de Gobierno, Secretaría de Integración y Bienestar Social, Secretaría de Inclusión e Igualdad de Género, Secretaría de Educación y Secretaría de Salud, que será presidida por el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
+Para el debido cumplimiento y vigilancia de la implementación de la política pública en materia de justicia, combate a la desigualdad social y pobreza, se instalará al inicio de cada administración la Comisión Intersecretarial para el Bienestar Integral de Baja California, integrada por la Secretaría General de Gobierno, Secretaría de Integración y Bienestar Social, Secretaría de Educación y Secretaría de Salud, que será presidida por el Gobernador del Estado.
 
 Para garantizar el destino social de bienes asegurados, donados y embargados que ingresen al patrimonio del Estado en los términos de Ley, se contará con el Instituto de Administración de Bienes para la Restitución Social y Bienes Asegurados, que operara en los términos de su Decreto de creación y de la legislación aplicable.
 
@@ -175,7 +175,7 @@ VII. Secretaría del Trabajo y Previsión Social;
 
 VIII. Secretaría del Campo y la Seguridad Alimentaria;
 
-IX. Secretaría de Inclusión Social e igualdad De Género;
+IX. (DEROGADA, P.O. 13 DE AGOSTO DE 2021)
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2020)</small>
 
@@ -563,71 +563,73 @@ XXX. Las demás que se determinen expresamente en las leyes, reglamentos, acuerd
 
 ### CAPÍTULO V. DE LA SECRETARÍA DE INTEGRACIÓN Y BIENESTAR SOCIAL
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 30.
 
-La Secretaría de Integración y Bienestar Social, es la dependencia encargada de planear, coordinar, ejecutar políticas públicas, estrategias y acciones que fortalezcan e impulsen el bienestar, el desarrollo y la cohesión social de la población del Estado, así como impulsar la creación de programas, organismos y fondos necesarios para el combate efectivo a la pobreza en apego a la política nacional y estatal, teniendo para tales efectos las siguientes atribuciones y obligaciones:
+La Secretaría de Integración y Bienestar Social, es la dependencia encargada de planear, coordinar, dirigir, ejecutar políticas públicas, estrategias y acciones que fortalezcan e impulsen el bienestar, el desarrollo, la cohesión social e inclusión social, igualdad y equidad de género de la población del Estado, así como impulsar la creación de programas, organismos y fondos necesarios para el combate efectivo a los derechos sociales en apego a la política nacional y estatal, teniendo para tales efectos las siguientes atribuciones y obligaciones:
 
-I. Formular, coordinar, evaluar y ejecutar la política estatal de bienestar y prosperidad social para el combate efectivo a la pobreza y atención a los sectores sociales más desprotegidos, mediante programas de integración, desarrollo y bienestar en materia de población, salud, vivienda, servicios públicos, educación, cultura, deporte y desarrollo humano con base en la legislación federal y estatal;
+I. Formular, coordinar, dirigir, evaluar y ejecutar la política estatal de equidad, igualdad, inclusión y bienestar; en atención a la población más desprotegida y marginada, mediante programas de inclusión, integración, desarrollo y bienestar para garantizar el acceso efectivo a los derechos sociales;
 
-II. Elaborar diagnósticos en coordinación con las dependencias y entidades de la Administración Pública del Estado, Ayuntamientos y comités vecinales impulsores de la transformación, sobre la situación que presentan las comunidades marginadas, en áreas urbanas y rurales, para formular, promover e implementar programas sociales de carácter transversal;
+II. Establecer las bases y criterios que deberán observar las dependencias y entidades de la Administración Pública del Estado, para la creación e implementación de programas o acciones de inclusión, integración y bienestar social que fomenten un mejor nivel de vida, así como aquellos que contribuyan a la erradicación de cualquier manifestación de discriminación;
 
-III. Establecer las bases y criterios que deberán observar las dependencias y entidades de la Administración Pública Estatal, para la creación e implementación de programas o acciones de integración y bienestar social que fomenten un mejor nivel de vida;
+III. Formular en coordinación con la Secretaría de Hacienda, los lineamientos programáticos y financieros a los que deberán apegarse las dependencias y entidades de la Administración Pública Estatal al incorporar a sus programas institucionales, los compromisos contenidos en el Programa Sectorial de Integración y Bienestar Social;
 
-IV. Formular en coordinación con la Secretaría de Hacienda, los lineamientos programáticos y financieros a los que deberán apegarse las dependencias y entidades de la Administración Pública Estatal al incorporar a sus programas institucionales, los compromisos contenidos en el Programa Sectorial de Integración y Bienestar Social;
+IV. Evaluar y dar seguimiento a los resultados del Programa Sectorial de Integración y Bienestar Social, así como a los programas y proyectos de la Administración Pública del Estado y organismos internacionales que incidan en la inclusión, integración y bienestar de la población de la entidad, garantizando los derechos humanos, perspectiva de género e inclusión social;
 
-V. Evaluar y dar seguimiento a los resultados del Programa Sectorial de Integración y Bienestar Social, así como a los programas y proyectos de la Administración Pública del Estado y organismos internacionales que incidan en la integración y bienestar de la población de la entidad;
+V. Promover ante las dependencias de los tres órdenes de gobierno la implementación y ejecución de acciones y proyectos que coadyuven a la inclusión, igualdad, equidad, bienestar social, comunitario y familiar, coordinándose con éstas para la ejecución de los programas de bienestar que tengan impacto en la entidad;
 
-VI. Promover ante las dependencias de los tres órdenes de gobierno la implementación y ejecución de acciones y proyectos que coadyuven al bienestar social, comunitario y familiar, coordinándose con éstas para la implementación de los programas de bienestar que tengan impacto en la entidad;
+VI. Gestionar la obtención de recursos económicos, materiales e intelectuales del sector público o privado, así como de organismos nacionales e internacionales, para el desarrollo e implementación de programas de inclusión, igualdad, equidad de género integración y bienestar social, a la par de la creación de mecanismos de coordinación institucional con instancias del Gobierno Federal, Estatal y Municipal;
 
-VII. Gestionar la obtención de recursos económicos, materiales e intelectuales del sector público o privado, así como de organismos nacionales e internacionales, para el desarrollo e implementación de programas de integración y bienestar social;
+VII. Coordinar, administrar y regular los fondos o fideicomisos destinados a la infraestructura social, para la integración y el bienestar social, que promueva el desarrollo integral de la población;
 
-VIII. Coordinar, administrar y regular los fondos o fideicomisos destinados a la infraestructura social, para la integración y el bienestar social de la población;
+VIII. Fomentar la participación de instituciones académicas, de investigación, organizaciones no gubernamentales y de la sociedad en general en el desarrollo e instrumentación de estrategias para el combate efectivo a la pobreza e impulsar la inclusión, equidad e igualdad de género y el bienestar social de la población;
 
-IX. Fomentar la participación de instituciones académicas, de investigación, organizaciones no gubernamentales y de la sociedad en general en el desarrollo e instrumentación de estrategias para el combate efectivo a la pobreza e impulsar el bienestar social de la población;
+IX. Someter a consideración del Titular del Ejecutivo, la celebración de convenios entre el Gobierno del Estado, la Federación, organismos autónomos, Ayuntamientos y otras entidades federativas, así como con el sector público, privado, social e instituciones académicas y científicas;
 
-X. Someter a consideración del Titular del Ejecutivo, la celebración de convenios entre el Gobierno del Estado, la Federación, organismos autónomos, Ayuntamientos y otras entidades federativas, así como con el sector público, privado, social e instituciones académicas y científicas;
+X. Fomentar la creación y organización de comités vecinales impulsores de la transformación para gestionar la participación ciudadana en la solución de problemas comunitarios en barrios, colonias, fraccionamientos y comunidades rurales;
 
-XI. Fomentar la creación y organización de comités vecinales impulsores de la transformación, como el poder popular de la población organizada, para gestionar la participación ciudadana y la implementación de proyectos y programas que contribuyan a la solución de problemas comunitarios en barrios, colonias, fraccionamientos y comunidades rurales;
+XI. Coordinar, Implementar y ejecutar programas especiales y proyectos productivos para la atención de personas o grupos sociales en situación de vulnerabilidad, que permitan el mejoramiento y fortalecimiento de su calidad de vida de sus familias;
 
-XII. Coordinar, Implementar y ejecutar programas especiales y proyectos productivos para la atención de los sectores sociales más desprotegidos que permitan el mejoramiento y fortalecimiento de la calidad de vida de los ciudadanos, familias o grupos sociales en situación de vulnerabilidad o en zonas de mayor marginación;
+XII. Promover la realización de acciones y construcción de obra de infraestructura y equipamiento para el desarrollo comunitario y el bienestar social, autónomamente o en coordinación con los gobiernos federal y municipal;
 
-XIII. Promover la realización de acciones y construcción de obra de infraestructura y equipamiento para el desarrollo comunitario y el bienestar social, autónomamente o en coordinación con los gobiernos federal y municipal;
+XIII. Impulsar políticas y programas de protección de derechos y atención prioritaria a la niñez, juventud, adultos mayores, mujeres y personas en situación de vulnerabilidad, así como dar seguimiento a los programas de apoyo e inclusión de los jóvenes a la vida social participativa y productiva, en coordinación con las dependencias y entidades de la Administración Pública Estatal, así como de los diferentes niveles de gobierno;
 
-XIV. Impulsar políticas y programas de protección de derechos y atención prioritaria a la niñez, juventud, adultos mayores, mujeres en situación vulnerable, y personas en situación de marginalidad en coordinación con las dependencias y entidades de la Administración Pública Estatal, así como de los diferentes niveles de gobierno;
+XIV. Impulsar y fomentar programas, capacitación, profesionalización y sensibilización para la atención de adultos mayores, mujeres, personas con discapacidad, jóvenes y grupos en situación de vulnerabilidad o con rezago socioeconómico en el Estado, así como en materia de derechos humanos, inclusión social, igualdad y equidad de género, como parte integral de la formación de todos los servidores públicos del Gobierno del Estado;
 
-XV. Impulsar políticas públicas y dar seguimiento a los programas de apoyo e inclusión de los jóvenes a la vida social participativa y productiva;
+XV. Proponer y ejecutar políticas, programas y acciones en materia de prevención, protección y atención para el cumplimiento de una vida libre de violencia, especialmente de violencia en contra de las mujeres y niñas, en coordinación con las dependencias y entidades de los diferentes órdenes de gobierno correspondientes;
 
-XVI. Impulsa y fomentar políticas públicas, programas, proyectos productivos, capacitación y adiestramiento, para la atención de los adultos mayores, mujeres, personas con discapacidad, jóvenes y grupos marginados o con rezago socioeconómico en el Estado;
+XVI. Proporcionar atención integral, asistencia jurídica y psicológica a cualquier persona que afronte un conflicto relacionado con violencia de género y discriminación en el Estado, así como situaciones emergentes de gran impacto psicológico, en coordinación con las distintas dependencias en el área de su competencia;
 
-XVII. Articular programas, proyectos y acciones tendientes a la prevención social del delito y de la violencia social, instrumentando las medidas necesarias para su implementación.
+XVII. Gestionar y establecer programas y acciones de difusión y sensibilización en medios de comunicación masiva y redes sociales, que promuevan la inclusión, integración y bienestar social, así como una cultura libre de violencia de género y lenguaje inclusivo;
 
-XVIII. Impulsar a través del Sistema Estatal de Asistencia Social Pública y Privada, políticas públicas en materia de asistencia social e integración familiar;
+XVIII. Impulsar a través del Sistema Estatal de Asistencia Social Pública y Privada, políticas públicas en materia de asistencia social, integración familiar e inclusión familiar; a la par de procurar la implementación de perspectiva de género;
 
-XIX. Contribuir en el mejoramiento de la calidad de vida y nutrición de las familias y de la infancia, que habitan prioritariamente en zonas marginadas y desprotegidas;
+XIX. Promover, coordinar y administrar los centros comunitarios y escuelas de artes y oficios, como herramientas elementales para consolidar la inclusión social, con especial énfasis en zonas indígenas, rurales y urbanas marginadas;
 
-XX. Coordinar sectorialmente a los organismos públicos constituidos como instituciones financieras de inversión o descentralizados, para la promoción y fomento de la vivienda de interés social y popular en el Estado;
+XX. Contribuir en el mejoramiento de la nutrición de las familias y de la infancia que habitan prioritariamente en zonas marginadas y desprotegidas;
 
-XXI. Crear, coordinar y administrar los centros comunitarios y escuelas de artes y oficios, como herramientas elementales para consolidar la integración social, con especial énfasis en zonas indígenas, rurales y urbanas marginadas;
+XXI. Establecer y vigilar el cumplimiento de normas, modelos y recomendaciones de protocolos de prevención, atención y manejo institucional para la protección de los derechos humanos vinculados a la inclusión social de los grupos en situación de vulnerabilidad, así como los relacionados con la equidad e igualdad de género y el bienestar social;
 
-XXII. Crear, coordinar y administrar los centros de arbitraje comunitario, para incentivar una cultura de paz dentro la sociedad, resolviendo extrajudicialmente las controversias de la vida civil, de la organización y vida comunitaria y en general como instrumento de prevención y solución de conflictos, siempre y cuando no contravengan la Constitución Política del Estado Libre y Soberano de Baja California, las leyes estatales vigentes, ni se vulneren derechos humanos o de terceros;
+XXII. Establecer y actualizar el Catálogo Estatal de Organismos de la Sociedad Civil;
 
-XXIII. Coordinar e instrumentar la operación de las unidades móviles de servicios de conformidad con lo establecido por la política de integración y bienestar social del Estado;
+XXIII. Coordinar el Sistema Estatal de Asistencia Social, y el Sistema Estatal de Bienestar Social del Estado en los términos de las leyes aplicables;
 
-XXIV. Coordinar e impulsar acciones tendientes (sic) organizar y apoyar las actividades de bienestar social y asistencia que realicen los particulares, grupos intermedios y organismos no gubernamentales que actúan en el Estado;
+XXIV. Promover, coordinar, fomentar y dirigir la enseñanza y prácticas del arte urbano en las comunidades de los municipios de la entidad, que fomenten la inclusión y bienestar social, sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil;
 
-XXV. Establecer y actualizar el Registro Estatal de Organismos no gubernamentales;
+XXV. Impulsar programas para promover la corresponsabilidad de manera equitativa entre las familias, el Estado y las instituciones de asistencia social y privada, para el cuidado de la niñez y de los grupos en situación de vulnerabilidad;
 
-XXVI. Coordinar el Sistema Estatal de Asistencia social, y el Sistema Estatal de Bienestar Social del Estado en los términos de las leyes aplicables;
+XXVI. Generar y aplicar políticas públicas generales encaminadas a la inclusión social, de las personas que, por razones económicas, emocionales o cualquier condición, viva en abandono o calle, así como a quienes egresen de las instituciones públicas o privadas de rehabilitación certificadas por el Estado o centros penitenciarios, en coordinación con las dependencias o entidades;
 
-XXVII. Promover, coordinar, fomentar y dirigir la enseñanza y práctica del deporte social en las comunidades de los municipios de la entidad, sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil.
+XXVII. Elaborar diagnósticos en coordinación con las dependencias y entidades de la Administración Pública del Estado, Ayuntamientos y comités vecinales, sobre la situación que presentan las comunidades marginadas, en áreas urbanas y rurales, para formular, promover e implementar programas sociales de carácter transversal;
 
-XXVIII. Impulsar programas para promover la corresponsabilidad de manera equitativa entre las familias, el Estado y las instituciones de asistencia social y privada, para el cuidado de la niñez y de los grupos vulnerables;
+XXVIII. Integrar, mantener y actualizar un Sistema de Información de padrones de beneficiarios de programas sociales de la Administración Pública Estatal;
 
-XXIX. Integrar, mantener y actualizar un Sistema de Información de padrones de beneficiarios de programas sociales de la Administración Pública Estatal;
+XXIX. Instrumentar las actividades y compromisos derivados de los Sistemas y Consejos que establece la Ley de Desarrollo Social en donde participe la Secretaría;
 
-XXX. Formular e instrumentar la política estatal de atención a la juventud y el deporte, acorde con los objetivos, estrategias y líneas de acción contenidos en el Plan Estatal de Desarrollo; y
+XXX. Formular e instrumentar la política estatal de atención a la juventud y el deporte, acorde con los objetivos, estrategias y líneas de acción contenidos en el Plan Estatal de Desarrollo; y,
 
-XXXI. Las demás que determinen expresamente las leyes y reglamentos;
+XXXI. Las demás que determinen expresamente las leyes y reglamentos.
 
 ### CAPÍTULO VI. DE LA SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y REORDENACIÓN TERRRITORIAL (SIC)
 
@@ -941,55 +943,13 @@ XIV.- Proponer de acuerdo a las facultades de la Secretaría al Comité de Plane
 
 XV.- Las demás que determinen expresamente las leyes y reglamentos.
 
-### CAPÍTULO XI. LA SECRETARÍA DE INCLUSIÓN SOCIAL E IGUALDAD DE GÉNERO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2021)</small>
+
+### CAPÍTULO XI. SECRETARÍA DE INCLUSIÓN SOCIAL E IGUALDAD DE GÉNERO
 
 ###### ARTÍCULO 36.
 
-La Secretaría de Inclusión Social e Igualdad de Género, es la dependencia responsable de proponer, dirigir, promover, ejecutar y evaluar la política estatal en materia de inclusión social y equidad de género, y le corresponde el despacho de los asuntos siguientes:
-
-I. Realizar estudios diagnósticos, para identificar y ubicar geográficamente a grupos y personas en situación de (sic) vulnerable, en situación de exclusión social y violencia de género para realizar acciones de intervención y creación o adecuación de política (sic) públicas para su atención;
-
-II. Elaborar el Programa Estatal de Inclusión Social e Igualdad de Género, en coordinación con miembros de la sociedad civil, sector privado, universidades y grupos de interés;
-
-III. Elaborar, lineamientos y protocolos de atención, manejo e intervención dirigidos a dependencias e instituciones de la administración pública estatal, que contribuyan a la erradicación de cualquier manifestación de discriminación, y promuevan la inclusión social la igualdad y equidad de género;
-
-IV. Promover, fomentar, implementar y ejecutar políticas y programas generales para promover, difundir y proteger los derechos relacionados con la equidad de género y la inclusión social de grupos vulnerables, y de diversidad sexual;
-
-V. Promover la incorporación estratégica y transversal de los derechos humanos, perspectiva de género e inclusión social en el Plan Estatal de Desarrollo y el Presupuesto de Egresos del Estado, desde un enfoque multidisciplinario;
-
-VI. Empoderar a las mujeres y en conjunto con la Secretaria de Economía Sustentable y Turismo, incentivar a las mujeres en cuanto a su participación, promoción y capacitación en la toma de decisiones y en áreas de emprendimiento;
-
-VII. Crear mecanismos de coordinación institucional con instancias del Gobierno Federal, Estatal y Municipal, organismos no gubernamentales, instituciones de educación o investigación públicas o privadas para la promoción de la inclusión social e Igualdad de Género, así como diseño de programas y políticas publica (sic);
-
-VIII. Someter a consideración del Titular del Ejecutivo del Estado, la celebración de convenios entre los tres órdenes de gobierno y organismos autónomos, así como, con el sector público, privado, social, e instituciones académicas y científicas;
-
-IX. Desarrollar acciones necesarias para impulsar la inclusión social e igualdad de género en todas las áreas de la vida económica, política, social y cultural de la entidad, así como instrumentar mecanismos de ejecución y evaluación que permitan alcanzar el pleno desarrollo de la personalidad desde una perspectiva con base en derechos humanos;
-
-X. Contribuir en las acciones y programas que se establezcan en la Administración Pública Estatal, en materia de derechos humanos, inclusión social e igualdad de género con el objetivo de erradicar cualquier acto que atente contra el libre desarrollo de la personalidad;
-
-XI. Establecer programas de capacitación, sensibilización, formación y profesionalización, en materia de derechos humanos, inclusión social e Igualdad de género, como parte integral de la formación de todos los servidores públicos del Gobierno del Estado;
-
-XII. Gestionar y establecer programas y acciones de difusión y sensibilización en medios de comunicación masiva y redes sociales, que promuevan la inclusión, una cultura libre de violencia de género y lenguaje inclusivo, así como la identificación, erradicación y denuncia de la discriminación en todas sus formas;
-
-XIII. Coadyuvar con el sector público y privado en las demandas, necesidades y exigencias de inclusión social y equidad de género en el Estado, haciendo énfasis en las áreas de salud, empleo, educación, capacitación, seguridad, justicia, cultura y recreación;
-
-XIV. Realizar diagnósticos y estudios con enfoque de inclusión social e igualdad de género, que permitan tener datos actualizados de la problemática en la entidad para su debida atención;
-
-XV. Establecer y vigilar el cumplimiento de normas, modelos y recomendaciones de protocolos de prevención, atención y manejo institucional para la protección de los derechos humanos vinculados a la inclusión social de los grupos en situación de vulnerabilidad, así como los relacionados con la igualdad de género;
-
-XVI. Impulsar iniciativas y proyectos con la sociedad, organizaciones civiles, comunitarias, instituciones académicas y de investigación, encaminadas al diseño, instrumentación y operación de políticas, programas y acciones relacionados con las materias a cargo de esta secretaría;
-
-XVII. Proponer y ejecutar políticas, programas y acciones en materia de prevención, protección y atención para el cumplimiento de una vida libre de violencia especialmente de violencia en contra de mujeres y niñas, en coordinación con la Secretaria General de Gobierno;
-
-XVIII. Proporcionar atención integral, asistencia jurídica y psicológica a cualquier persona que afronte un conflicto relacionado con violencia de género y discriminación en el Estado;
-
-XIX. Implementar programas de difusión y acciones de sensibilización que incidan en los medios de comunicación masiva con el objetivo de propiciar y difundir una cultura libre de violencia de género y discriminación;
-
-XX. Generar y aplicar políticas públicas generales encaminadas a la inclusión social, y específicas para las personas que por razones económicas, emocionales o cualesquier condición viva en abandono o calle, así como a quienes egresen de las instituciones públicas o privadas de rehabilitación, certificadas por el Estado, en coordinación con las Secretarías competentes;
-
-XXI. Llevar acabo (sic) el registro, evaluación y estadística de las políticas, programas y acciones, que permita (sic) su consulta por parte de las dependencias, órganos desconcentrados, autónomos y la ciudadanía, a fin de favorecer una participación y distribución equitativa de los recursos, oportunidades y beneficios, relacionados con la inclusión social de los grupos en situación de vulnerabilidad, así como los relacionados con la Igualdad de género; y
-
-XXII. Las demás que determinen expresamente las leyes y reglamentos.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2021)
 
 ### CAPÍTULO XII. DE LA SECRETARÍA DE LA HONESTIDAD Y LA FUNCIÓN PÚBLICA
 
@@ -1480,3 +1440,13 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 289 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY QUE REGLAMENTA EL SERVICIO DEL AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA AL ARTÍCULO 38 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 277 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los asuntos en trámite y el presupuesto asignado a la Secretaría de Inclusión Social e Igualdad de Género estarán a cargo de la Secretaría de Integración y Bienestar Social.
+
+TERCERO. La Secretaría de Inclusión Social e Igualdad de Género deberá transferir a la Secretaría de Integración y Bienestar Social los recursos materiales, financieros y humanos que tuviere asignados para el ejercicio de sus atribuciones, de conformidad con el presente Decreto, con pleno respeto a los derechos laborales adquiridos de los servidores públicos que prestan sus servicios en ambas dependencias estatales.
