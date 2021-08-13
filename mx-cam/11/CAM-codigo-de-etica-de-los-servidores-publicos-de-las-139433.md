@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-etica-de-los-servidores-publicos-de-las-139433"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-01-16"
-last_updated: "2019-01-16"
+last_updated: "2021-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA DE LAS Y LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 13 DE AGOSTO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 16 de enero de 2019.
 
@@ -672,3 +674,25 @@ Dado en la ciudad de San Francisco de Campeche, Municipio y Estado de Campeche, 
 MTRO. JOSÉ ROMÁN RUIZ CARRILLO.
 
 SECRETARIO DE LA CONTRALORÍA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SECRETARÍA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL ESTADO DE CAMPECHE POR EL QUE SE EMITEN EL CÓDIGO DE ÉTICA DE LAS Y LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE Y LOS LINEAMIENTOS GENERALES PARA LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS COMITÉS DE ÉTICA".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de la Contraloría y demás Entes Públicos llevarán a cabo acciones que permitan el cumplimiento del presente Acuerdo.
+
+TERCERO.- Se abroga el "Acuerdo que tiene por objeto emitir el Código de Ética de los servidores públicos de las Dependencias y Entidades de la Administración Pública del Estado de Campeche", publicado en el Periódico Oficial del Estado el día 16 de enero de 2019.
+
+CUARTO.- Se abrogan los "Lineamientos Generales para propiciar la Integridad de los servidores públicos y la implementación de acciones permanentes que favorezcan su comportamiento ético, a través de los Comités de Ética y de Prevención de Conflictos de Interés", emitidos en el Artículo Décimo Segundo del Acuerdo publicado en el Periódico Oficial del Estado el día 13 de septiembre del año 2017.
+
+QUINTO.- Los Comités de Ética que se conformen por primera vez, a partir de la publicación de los Lineamientos que se emiten a través del presente Acuerdo, deberán comunicar dicha situación a la Secretaría, por conducto de la Unidad, la cual, previo análisis del caso en particular, ordenará las acciones conducentes, a efecto de dar cumplimiento a los mismos y al Tablero de Control, en términos de lo previsto en Lineamientos Generales para la integración y funcionamiento de los Comités de Ética.
+
+SEXTO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de los presentes Lineamientos se sujetarán a las disposiciones vigentes al momento de haberse iniciado.
+
+SÉPTIMO.- En tanto se lleven a cabo las adecuaciones necesarias al Sistema, la información solicitada a los Comités de Ética a la que se refiere el numeral 92 de los Lineamientos Generales para la integración y funcionamiento de los Comités de Ética, deberá de entregarse a través de correo electrónico en los formularios que para el efecto establezca la Secretaría, por conducto de la Unidad.
+
+OCTAVO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan al contenido del presente Acuerdo.
