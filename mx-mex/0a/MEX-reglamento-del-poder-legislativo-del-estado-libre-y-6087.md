@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2021-04-09"
+last_updated: "2021-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE AGOSTO DE 2021.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -672,6 +672,22 @@ Cuando la naturaleza de la materia lo amerite, el asunto o iniciativa podrá tur
 Lo dispuesto en el párrafo anterior, también será aplicable a los comités.
 
 En caso de ser necesario, la Asamblea determinará lo procedente.
+
+> <small>(ADICIONADA, G.G. 13 DE AGOSTO DE 2021)</small>
+
+XXXVI. La Comisión Para las Declaratorias de Alerta de Violencia de Género contra las Mujeres por Feminicidio y Desaparición, conocerá de forma transversal de los temas, las iniciativas y los trabajos legislativos que se citan de manera enunciativa, más no limitativa, siguientes:
+
+a.- De las iniciativas de ley, decreto o acuerdo relacionados con las medidas de prevención, justicia y seguridad contempladas en las Declaratorias de Alerta de Violencia de Género contra las Mujeres;
+
+b.- De las iniciativas de ley, decreto o acuerdo relacionados contra niñas, adolescentes y mujeres en razón de género;
+
+c.- De las iniciativas de ley, decreto o acuerdo relacionados con los feminicidios y la desaparición de niñas, adolescentes y mujeres;
+
+d.- Del seguimiento y cumplimiento de las acciones preventivas, de seguridad y justicia para enfrentar y abatir la violencia feminicida que le competan y, en su caso, el agravio comparado derivadas de las Declaratorias de Alerta de Violencia de Género contra las Mujeres;
+
+e.- Del proceso de armonización de las leyes relacionadas con el problema de la desaparición forzada y desaparición de personas por particulares;
+
+f.- Los demás asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
 ###### Artículo 14.
 
@@ -1799,15 +1815,15 @@ La organización administrativa de la Secretaría de Asuntos Parlamentarios ser�
 
 Corresponden a la Secretaría de Asuntos Parlamentarios, las siguientes atribuciones:
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 13 DE AGOSTO DE 2021)</small>
 
-I.- Auxiliar al Presidente y a los secretarios de la directiva de la Legislatura en el ejercicio de sus funciones;
+I.- Auxiliar en el ejercicio de sus funciones, al Presidente de la Legislatura, incluyendo la de representación de la legislatura en los procesos jurisdiccionales, a que se refiere el segundo párrafo de la fracción XVII del artículo 47 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, así como a los secretarios de la directiva de la Legislatura;
 
 II.- Coordinar las actividades de las áreas administrativas a su cargo;
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 13 DE AGOSTO DE 2021)</small>
 
-III.- Acordar con el Presidente de la Junta de Coordinación Política el despacho de los asuntos de su competencia;
+III.- Acordar con el Presidente de la Junta de Coordinación Política el despacho de los asuntos de su competencia, incluidos aquellos en que se delegue la representación de su competencia, para el ejercicio de sus funciones.
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1981,9 +1997,9 @@ I.- Planear, organizar, coordinar y controlar el desarrollo del personal y los r
 
 II.- Definir y establecer objetivos, políticas y procedimientos en materia de administración y desarrollo de personal, recursos materiales y financieros del Poder Legislativo;
 
-> <small>(ADICIONADA, G.G. 15 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 13 DE AGOSTO DE 2021)</small>
 
-II Bis.- El Secretario de Administración y Finanzas, asumirá de la manera más amplia la representación y defensa jurídica del Poder Legislativo, en los juicios laborales en que sea parte, contando para tal efecto, con facultades para otorgar y revocar poderes generales y especiales, o mediante carta poder u oficio para la debida representación jurídica;
+II Bis.- El Secretario de Administración y Finanzas, asumirá de la manera más amplia la representación y defensa jurídica del Poder Legislativo, en los juicios laborales en que sea parte, contando para tal efecto, con facultades para otorgar y revocar poderes generales y especiales, o mediante carta poder u oficio, asimismo, por delegación, podrá representar al Poder Legislativo de manera amplia o específica, en los asuntos a que se refiere la fracción IV del artículo 65 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, dicha representación, también podrá autorizarse con facultades amplias para otorgar y revocar poderes generales y especiales, o mediante carta poder u oficio.
 
 III.- Brindar apoyo a las dependencias del Poder Legislativo para su óptimo funcionamiento;
 
@@ -2747,27 +2763,41 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 180 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499 , EN MATERIA DE ABORTO”.]
+G.G. 13 DE AGOSTO DE 2021.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 280.- POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 47 Y LA FRACCIÓN IV DEL ARTÍCULO 65 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMAN LAS FRACCIONES I Y III DEL ARTÍCULO 152 Y LA FRACCIÓN II BIS DEL ARTÍCULO 160 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
-SEGUNDO.- En un período máximo de 120 días contados a partir de la entrada en vigor del presente Decreto, el Congreso del Estado de Guerrero armonizará, conforme a las disposiciones del presente Decreto, la Ley número 1212 de Salud del Estado de Guerrero.
+###### ARTÍCULO PRIMERO.
 
-TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-CUARTO.- Publíquese en el Periódico Oficial del Gobierno del Estado y en la Página Web Oficial de este Honorable Congreso, para su conocimiento general.
+###### ARTÍCULO SEGUNDO.
 
-P.O. 4 DE NOVIEMBRE DE 2022.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 241 POR EL QUE SE ADICIONA EL CAPÍTULO VI AL TÍTULO CUARTO DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499".]
+###### ARTÍCULO TERCERO.
 
-PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+La Junta de Coordinación Política proveerá lo necesario para el cumplimiento del presente Decreto.
 
-SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para su conocimiento y efectos legales correspondientes.
+###### ARTÍCULO CUARTO.
 
-TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+Se derogan todas las disposiciones de menor o igual jerarquía que se opongan al presente Decreto.
 
-P.O. 9 DE JUNIO DE 2023.
+G.G. 13 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 282.- POR EL QUE SE ADICIONA LA FRACCIÓN XXXVI DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE ADICIONA LA FRACCIÓN XXXVI DEL ARTÍCULO 13 A DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 444 POR EL QUE SE REFORMAN LOS ARTÍCULOS 245 Y 246 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499”.]
 
