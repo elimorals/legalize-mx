@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-consejo-estatal-de-desarrollo-96528"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-10-30"
-last_updated: "2013-10-30"
+last_updated: "2021-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO ESTATAL DE DESARROLLO ECONOMICO, ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL CONSEJO ESTATAL DE DESARROLLO ECONÓMICO, PUBLICADO EN EL P.O. DE 14 DE AGOSTO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CONSEJO ESTATAL DE DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2021 (ABROGADO).
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de octubre de 2013.
 
@@ -428,3 +430,19 @@ Primero.- El presente Estatuto Orgánico del Consejo Estatal de Desarrollo Econ�
 Segundo.- Dentro del término de 30 días naturales contados a partir de la entrada en vigor del presente Estatuto, deberá expedirse y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado el Manual General de Organización y 180 días naturales el de Procedimientos.
 
 APROBADO POR LA JUNTA DE GOBIERNO DEL CONSEJO ESTATAL DE DESARROLLO ECONÓMICO, EN SESIÓN CELEBRADA EN LA CIUDAD DE ZACATECAS, CAPITAL DEL ESTADO DEL MISMO NOMBRE, A LOS DOS DÍAS DEL MES DE OCTUBRE DEL 2013.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL CONSEJO ESTATAL DE DESARROLLO ECONÓMICO”.]
+
+Artículo Primero. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Zacatecas.
+
+Artículo Segundo. Se abroga el Estatuto Orgánico del Consejo Estatal de Desarrollo Económico publicado en el Periódico Oficial, Órgano del Estado de Zacatecas, Tomo CXXIII número 87, de fecha 13 de octubre de 2013.
+
+Artículo Tercero. Las referencias que se hagan y las atribuciones que se otorgan en leyes, convenios, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones jurídicas a las direcciones del Consejo, que cambian de denominación por virtud de este Estatuto Orgánico, en relación a las atribuciones que realizaba se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme al presente Estatuto Orgánico.
+
+Artículo Cuarto. Los asuntos en trámite, iniciados bajo la vigencia del Estatuto Orgánico del Consejo Estatal de Desarrollo Económico que se abroga, seguirán siendo atendidos hasta su conclusión por las unidades competentes, de conformidad con lo establecido en este Estatuto Orgánico.
+
+Artículo Quinto. Dentro del término de noventa días naturales se expedirá el Manual de Organización y ciento ochenta días naturales el Manual de Procedimientos, contado a partir de la entrada en vigor del presente Estatuto Orgánico.
