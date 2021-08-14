@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2021-08-07"
+last_updated: "2021-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2021.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1382,6 +1382,10 @@ III. La persona titular de la Dirección de Finanzas de la Secretaría de Admini
 IV. La o el Diputado que presida el Comité de Administración, como vocal.
 
 V. La o el Diputado que presida la Comisión de Transparencia, Acceso a la Información Pública y Parlamento Abierto, como vocal.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2021)</small>
+
+VI. La persona titular del Órgano Interno de Control, con voz pero sin voto.
 
 Tratándose de contrataciones que requieran un grado de especialidad por el tipo de adquisición, arrendamiento o servicio de que se trate, deberá asistir la persona titular del área técnica correspondiente, quien contará con voz pero sin voto.
 
@@ -3220,6 +3224,14 @@ Las denuncias y/o expedientes integrados con motivos de las mismas, materia de r
 P.O. 7 DE AGOSTO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/1039/2021 XII P.E.”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/1032/2021 XII P.E., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 123 BIS, UNA FRACCIÓN VI, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
