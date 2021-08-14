@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2021-03-20"
+last_updated: "2021-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2021.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1415,11 +1415,13 @@ La estructura orgánica de la Administración Pública del Estado y las funcione
 
 ### CAPÍTULO I. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
 Artículo 67
 
-El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, en Juzgados de Primera Instancia, Juzgados Especializados en Justicia para Adolescentes, Juzgados de Control, Tribunales de Enjuiciamiento, Juzgados de Ejecución de Penas y Medidas de Seguridad, Juzgados de Paz, y en los demás órganos auxiliares de la administración de justicia que señale su Ley Orgánica. Dicha ley fijará las atribuciones de los tribunales y juzgados, y establecerá los procedimientos a que deben sujetarse en la impartición de justicia.
+> <small>[N. DE E. DEL ANÁLISIS REALIZADO AL PROCESO LEGISLATIVO SE ADVIERTE QUE LA REFORMA REFIERE ÚNICAMENTE A LA MODIFICACIÓN DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO, P.O. 14 DE AGOSTO DE 2021.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2021)</small>
+
+El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, en Juzgados de Primera Instancia, Juzgados Especializados en Justicia para Adolescentes, Juzgados de Control, Tribunales de Enjuiciamiento, Juzgados de Ejecución de Penas y Medidas de Seguridad, Tribunales Laborales, Juzgados de Paz, y en los demás órganos auxiliares de la administración de justicia que señale su Ley Orgánica. Dicha ley fijará las atribuciones de los tribunales y juzgados, y establecerá los procedimientos a que deben sujetarse en la impartición de justicia.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
@@ -1432,6 +1434,8 @@ La independencia de las magistradas, magistrados, juezas y jueces en el ejercici
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Los (sic) magistradas, magistrados, juezas y jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 Los recintos del Pleno del Supremo Tribunal, de sus salas y de los juzgados, son inviolables.
 
@@ -1495,15 +1499,15 @@ Artículo 71
 
 Las juezas o jueces de Primera Instancia, los de Paz y los que con cualquiera otra denominación se creen en el Estado, serán nombrados y ratificados por el Supremo Tribunal de Justicia, observando que su integración sea de forma paritaria, así como las normas y requisitos que establece la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
-
-La administración de justicia en primera instancia estará a cargo de juezas o jueces. La ley determinará el número de éstos, su residencia, su competencia, sus atribuciones y la manera de cubrir sus faltas absolutas y temporales. Los Juzgados de Primera Instancia residirán en la cabecera de distrito o región que señale la Ley Orgánica.
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2021)</small>
 
 En materia penal, la primera instancia corresponde, además, a las juezas o jueces de Control, Tribunales de Enjuiciamiento y Juzgados de Ejecución de Penas y Medidas de Seguridad.
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2021)</small>
+
+En materia laboral, los procedimientos serán uniinstanciales y corresponderá su resolución a Juezas o Jueces, quienes serán titulares de los tribunales laborales. Los tribunales laborales se conformarán por Ordinarios, así como, Auxiliares y de Ejecución.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE AGOSTO DE 2021)</small>
 
 En los nombramientos que se realicen para ocupar la titularidad de los Juzgados de Primera Instancia señalados en los párrafos anteriores, se observará el principio de paridad de género.
 
@@ -3832,6 +3836,12 @@ P.O. 20 DE MARZO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Quedan derogadas las disposiciones opuestas al presente Decreto.
+
+P.O. 14 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 481.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 67 Y 71, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el periódico oficial “El Estado de Colima.”
 
 ###### ARTÍCULO ÚNICO.
 
