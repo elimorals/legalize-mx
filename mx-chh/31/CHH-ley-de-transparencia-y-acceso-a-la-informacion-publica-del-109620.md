@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1096
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-29"
-last_updated: "2021-08-07"
+last_updated: "2021-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2021.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de agosto de 2015.
 
@@ -1503,13 +1503,31 @@ V. Las cantidades recibidas por concepto de depósitos judiciales y fianzas, los
 
 VI. Las tesis y ejecutorias publicadas a través del órgano o medio de difusión, en su caso.
 
-VII. Las versiones públicas de las sentencias que sean de interés público.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2021)</small>
+
+VII. Las versiones públicas de todas las sentencias emitidas.
 
 VIII. Las versiones estenográficas de las sesiones públicas, en su caso.
 
 IX. La relacionada con los procesos de designación de los jueces.
 
 X. La lista de acuerdos que diariamente se publiquen.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2021)</small>
+
+ARTÍCULO 81 BIS. El Tribunal Estatal de Justicia Administrativa, además, deberá transparentar:
+
+I. Los acuerdos del Pleno.
+
+II. El orden del día de sus sesiones.
+
+III. Las versiones estenográficas de sus sesiones públicas y las actas de sesiones.
+
+IV. Las versiones públicas de todas las sentencias definitivas.
+
+V. El calendario oficial de suspensión de labores.
+
+VI. La información adicional que acuerde su Pleno.
 
 ###### ARTÍCULO 82.
 
@@ -2658,3 +2676,17 @@ P.O. 7 DE AGOSTO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/1035/2021 XII P.E., MEDIANTE EL CUAL SE REFORMAN (SIC) EL ARTÍCULO 81 Y SE ADICIONA EL 81 BIS, A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial del Estado y el Tribunal Estatal de Justicia Administrativa contarán con un plazo de 120 días naturales para realizar las acciones y adecuaciones necesarias que permitan la correcta aplicación del presente Decreto. Las plataformas y demás herramientas en donde se publiquen y difundan las sentencias en sus versiones públicas, deberán optimizarse para garantizar su manejo y consulta.
+
+Lo anterior, sin perjuicio de lo dispuesto por el Artículo Segundo Transitorio de la reforma al artículo 73, fracción II de la Ley General de Transparencia y Acceso a la Información Pública, publicada en el Diario Oficial de la Federación el 13 de agosto de 2020, el cual establece un plazo perentorio para iniciar la publicación de las versiones públicas de todas las sentencias emitidas.
