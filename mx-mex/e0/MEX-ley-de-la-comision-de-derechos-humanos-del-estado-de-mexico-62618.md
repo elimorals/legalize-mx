@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2019-10-23"
+last_updated: "2021-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 23 DE OCTUBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE AGOSTO DE 2021.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -269,7 +267,9 @@ El Presidente es el representante legal y la autoridad ejecutiva responsable del
 
 La o el Presidente debe reunir los requisitos siguientes:
 
-I. Ser mexicano por nacimiento en pleno goce y ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, G.G. 16 DE AGOSTO DE 2021)</small>
+
+I. Ser mexicano en pleno goce y ejercicio de sus derechos políticos y civiles;
 
 II. Tener residencia efectiva en el territorio del Estado de México no menor de cinco años anteriores al día de su elección;
 
@@ -331,7 +331,9 @@ El Secretario de la Comisión es el responsable del enlace y vinculación instit
 
 El Secretario debe reunir los requisitos siguientes:
 
-I. Ser mexicano por nacimiento en pleno goce y ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, G.G. 16 DE AGOSTO DE 2021)</small>
+
+I. Ser mexicano en pleno goce y ejercicio de sus derechos políticos y civiles;
 
 II. Tener residencia efectiva en el territorio del Estado de México no menor de tres años anteriores al día de su designación;
 
@@ -353,7 +355,9 @@ Los Visitadores son los encargados de conocer de los procedimientos establecidos
 
 Para ser Visitador General se deben reunir los requisitos siguientes:
 
-I. Ser mexicano por nacimiento en pleno goce y ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, G.G. 16 DE AGOSTO DE 2021)</small>
+
+I. Ser mexicano en pleno goce y ejercicio de sus derechos políticos y civiles;
 
 II. Tener residencia efectiva en el territorio del Estado de México no menor de tres años anteriores al día de su designación;
 
@@ -1460,3 +1464,15 @@ QUINTO.- La Comisión de Derechos Humanos del Estado de México realizará las m
 SEXTO.- La Legislatura realizará las adecuaciones presupuestales necesarias para el cumplimiento del presente Decreto, bajo los principios de transparencia y rendición de cuentas.
 
 SÉPTIMO.- La Certificación de competencias por única ocasión tendrá vigencia de 18 meses para los Defensores Municipales de Derechos Humanos en funciones, posterior a ellos se tendrá vigencia de tres años.
+
+G.G. 16 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 285.- POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 17, LA FRACCIÓN I DEL ARTÍCULO 23, Y LA FRACCIÓN I DEL ARTÍCULO 25 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
