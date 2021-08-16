@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2021-05-31"
+last_updated: "2021-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE AGOSTO DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3170,6 +3170,18 @@ II. Profane un cadáver o restos humanos con actos de vilipendio, mutilación, b
 Al responsable se le impondrán de uno a tres años de prisión y de treinta a cien días multa.
 
 Se impondrán de cuatro a ocho años de prisión y de cuarenta a doscientos días multa, si los actos de necrofilia consisten en la realización del coito.
+
+(NOTA: EL 2 DE MARZO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 136/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 17 DE AGOSTO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 284, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.G. 16 DE AGOSTO DE 2021)</small>
+
+###### Artículo 227 Bis.
+
+Al que por cualquier medio y fuera de los supuestos autorizados por la Ley, audiograbe, comercialice, comparta, difunda, distribuya, entregue, exponga, envíe, filme, fotografíe, intercambie, oferte, publique, remita, reproduzca, revele, transmita o videograbe, imágenes, audios, videos o documentos de cadáveres o parte de ellos que se encuentren relacionados con una investigación penal, de las circunstancias de la muerte o de las lesiones que éstos presentan, se le impondrán de tres a seis años de prisión y multa por un importe equivalente de cincuenta a cien veces el valor diario de la unidad de medida y actualización.
+
+Tratándose de imágenes, audios o videos de cadáveres de mujeres, niñas o adolescentes, de las circunstancias de su muerte, de las lesiones o estado de salud, las penas previstas en este artículo se incrementarán hasta en una mitad.
+
+Cuando el delito sea cometido por persona servidora pública integrante de cualquier institución de seguridad pública o de impartición o procuración de justicia, las penas previstas se incrementarán hasta en una tercera parte.
 
 SUBTITULO SEPTIMO
 
@@ -7360,3 +7372,15 @@ OCTAVO.- La Legislatura del Estado asignará los recursos presupuestales necesar
 NOVENO.- La Secretaría de Finanzas y la Secretaria de Justicia y Derechos Humanos proveerán lo necesario para el cumplimiento del presente Decreto y llevarán a cabo todos los actos necesarios de conformidad con las disposiciones jurídicas aplicables para constituir el Fondo a que hace alusión los artículos 60 al 64, en un término máximo de seis meses contados a partir de la entrada en vigor del presente Decreto.
 
 DÉCIMO.- En un plazo que no exceda de sesenta días contados a partir de la entrada en vigor del presente Decreto, la Fiscalía General de Justicia del Estado de México deberá realizar las modificaciones respectivas a su reglamento para dar cumplimiento con el presente Decreto.
+
+G.G. 16 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 284.- POR EL QUE SE ADICIONA EL ARTÍCULO 227 BIS AL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
