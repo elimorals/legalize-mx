@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2021-04-02"
+last_updated: "2021-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE AGOSTO DE 2021.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1713,11 +1713,39 @@ Dentro de los treinta días naturales posteriores a la conclusión del evento ac
 
 En caso de que el funcionario público no cumpla con los objetivos establecidos en la solicitud de licencia deberá devolver las cantidades que el Consejo le proporcionó durante el período respectivo.
 
-### Capítulo I. De la Medalla al Mérito
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, EN RELACIÓN CON LA SUSTITUCIÓN POR AUSENCIA TEMPORAL DE LAS Y LOS JUECES DE DISTRITO ESPECIALIZADOS EN MATERIA DE TRABAJO DE LOS TRIBUNALES LABORALES FEDERALES, D.O.F. 16 DE AGOSTO DE 2021)</small>
+
+### Capítulo III. De la Sustitución por Ausencia Temporal de las y los Jueces de Distrito Especializados en Materia de Trabajo de los Tribunales Laborales Federales
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, EN RELACIÓN CON LA SUSTITUCIÓN POR AUSENCIA TEMPORAL DE LAS Y LOS JUECES DE DISTRITO ESPECIALIZADOS EN MATERIA DE TRABAJO DE LOS TRIBUNALES LABORALES FEDERALES, D.O.F. 16 DE AGOSTO DE 2021)</small>
+
+###### Artículo 138 Bis.
+
+Las juezas y los jueces de Distrito Especializados en Materia de Trabajo de los Tribunales Laborales Federales, serán sustituidos en sus ausencias temporales, incluyendo vacaciones o algún otro motivo extraordinario, en la conducción de audiencias o dictado de sentencias, de la siguiente manera:
+
+I. Por juezas y jueces de Distrito Especializados en Materia de Trabajo que se encuentren pendientes de adscripción.
+
+Al hacer la designación se deberá cuidar que no se presenten potenciales conflictos de interés relativos a la revisión de las resoluciones;
+
+II. En caso de no ser posible lo previsto en la fracción anterior, por juezas y jueces de Distrito Especializados en Materia de Trabajo de su misma adscripción; y
+
+III. Si lo dispuesto en la fracción anterior no es factible, será sustituido por una jueza o juez de Distrito Especializado en Materia de Trabajo de otra adscripción.
+
+En todos los supuestos, para evitar el traslado físico, se podrá hacer uso de medios remotos de comunicación, salvo cuando sea necesario.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, EN RELACIÓN CON LA SUSTITUCIÓN POR AUSENCIA TEMPORAL DE LAS Y LOS JUECES DE DISTRITO ESPECIALIZADOS EN MATERIA DE TRABAJO DE LOS TRIBUNALES LABORALES FEDERALES, D.O.F. 16 DE AGOSTO DE 2021)</small>
+
+###### Artículo 138 Ter.
+
+Las secretarias y los secretarios adscritos a los Tribunales Laborales Federales, podrán suplir a la jueza o al juez de su adscripción durante sus ausencias temporales y periodos vacacionales únicamente en las actuaciones de trámite.
+
+En ningún caso podrán suplirlos en la conducción de las audiencias que se celebren dentro de un procedimiento laboral y en el dictado de la sentencia correspondiente.
+
+Los titulares deberán informar de esta medida a la Comisión, a la brevedad posible, a fin de que se tome conocimiento de la designación del secretario o secretaria, o bien sean autorizados para los casos de ausencias temporales mayores a quince días.
 
 ## TITULO DECIMO PRIMERO. De los Estímulos
 
-### Capítulo II. De los Años Sabáticos
+### Capítulo I. De la Medalla al Mérito
 
 ###### Artículo 139.
 
@@ -1751,7 +1779,7 @@ El Consejo publicará una semblanza de los funcionarios a quienes se haya otorga
 
 El Consejo podrá abstenerse de otorgar la distinción en una o varias categorías, cuando el Pleno así lo estime conveniente; igualmente, podrá conferir, si así lo considera, más de un reconocimiento a cada categoría de las señaladas en el artículo 139 de este Acuerdo.
 
-### Capítulo III. De las Becas
+### Capítulo II. De los Años Sabáticos
 
 ###### Artículo 144.
 
@@ -1850,6 +1878,8 @@ Al concluir el primer año sabático se iniciará el cómputo de seis años para
 ###### Artículo 158.
 
 El Secretario Ejecutivo de Carrera Judicial llevará el registro de los períodos sabáticos otorgados, así como de los resultados de éstos.
+
+### Capítulo III. De las Becas
 
 ###### Artículo 159.
 
@@ -2638,3 +2668,13 @@ TERCERO. La Dirección General de Tecnologías de la Información, en coordinaci
 CUARTO. Los recursos de revisión administrativa ante el Pleno del Consejo de la Judicatura Federal interpuestos con posterioridad a la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, relativos al Poder Judicial de la Federación, se tramitarán conforme a lo dispuesto por el presente Acuerdo.
 
 QUINTO. Se instruye a la Dirección General de Innovación, Planeación y Desarrollo Institucional para que, en coordinación con la Secretaría Ejecutiva de Carrera Judicial, presente a la brevedad una propuesta de estructura temporal que auxilie a dicha área administrativa en el cumplimiento de las nuevas atribuciones que le confiere este Acuerdo.
+
+D.O.F. 16 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, EN RELACIÓN CON LA SUSTITUCIÓN POR AUSENCIA TEMPORAL DE LAS Y LOS JUECES DE DISTRITO ESPECIALIZADOS EN MATERIA DE TRABAJO DE LOS TRIBUNALES LABORALES FEDERALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. La Secretaría Ejecutiva de Carrera Judicial, hará del conocimiento de las juezas y jueces de Distrito Especializados en Materia de Trabajo de los Tribunales Laborales Federales lo dispuesto en el presente Acuerdo.
