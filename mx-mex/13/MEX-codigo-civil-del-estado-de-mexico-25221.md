@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2021-07-22"
+last_updated: "2021-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE AGOSTO DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -3091,9 +3091,9 @@ Objeto de la tutela
 
 I. Cuando el que la ejerza es condenado por delito doloso grave;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 16 DE AGOSTO DE 2021)</small>
 
-II. Cuando por las costumbres depravadas de los que ejerzan la patria potestad, malos tratos, castigo corporal, castigo humillante, cualquier tipo o forma de violencia, incluida la violencia familiar, o abandono de sus deberes alimentarios o de guarda o custodia por más de dos meses y por ello se comprometa la salud, la seguridad o la moralidad de las niñas, los niños y adolescentes aun cuando esos hechos no constituyan delito.
+II. Por las costumbres depravadas de los que ejercen la patria potestad, malos tratos, castigo corporal, castigo humillante, cualquier tipo o forma de violencia, incluida la violencia familiar o abandono de sus deberes alimentarios o de guarda o custodia por más de dos meses.
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
@@ -18630,3 +18630,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan todas las disposiciones de menor o igual jerarquía que se opongan al presente Decreto.
+
+G.G. 16 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 286.- POR EL QUE SE REFORMA LA FRACCIÓN II, DEL ARTÍCULO 4.224 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
