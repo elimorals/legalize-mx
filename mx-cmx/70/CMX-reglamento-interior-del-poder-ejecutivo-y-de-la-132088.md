@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2021-07-30"
+last_updated: "2021-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2021.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -134,23 +134,45 @@ Para el despacho de los asuntos que competan a las Dependencias de la Administra
 
 I. A la Secretaría de Gobierno:
 
-A) Dirección General de Planeación y Desarrollo Institucional, a la que quedan adscritas:
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2021)</small>
 
-1. Dirección Ejecutiva de Desarrollo de Políticas Públicas.; (sic)
+A) Dirección Ejecutiva de Coordinación Institucional;
 
-2. Dirección Ejecutiva de Análisis Informativo;
+1. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
-3. Dirección Ejecutiva de Acuerdos; y
+2. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
-4. Dirección Ejecutiva de Enlace Institucional;
+3. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
+
+4. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 B) Dirección General Jurídica y de Enlace Legislativo;
 
-C) La Subsecretaría de Gobierno, a la que quedan adscritas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 16 DE AGOSTO DE 2021)</small>
+
+C) Subsecretaría de Gobierno, a la que quedan adscritas:
 
 1. Dirección General de Gobierno; y
 
-2. Dirección General de Concertación Política, Prevención, Atención Social y Gestión Ciudadana;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 16 DE AGOSTO DE 2021)</small>
+
+2. Coordinación General de Concertación Política, Prevención y Buen Gobierno, a la que quedan adscritas:
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.1. Dirección General de Coordinación Política, Prevención y Buen Gobierno Regional Oriente;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.2. Dirección General de Coordinación Política, Prevención y Buen Gobierno Regional Poniente;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.3. Dirección General de Coordinación Política, Prevención y Buen Gobierno Regional Norte; y
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.4. Dirección General de Coordinación Política, Prevención y Buen Gobierno Regional Sur.
 
 D) La Subsecretaría de Sistema Penitenciario, a la que quedan adscritas:
 
@@ -168,23 +190,33 @@ D) La Subsecretaría de Sistema Penitenciario, a la que quedan adscritas:
 
 7. Dirección Ejecutiva de Control y Seguimiento de Sentenciados en Libertad;
 
-> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2021)</small>
 
-E) Dirección General de Coordinación Metropolitana y Enlace Gubernamental, a la que quedan adscritas:
+E) Dirección Ejecutiva de Vinculación y Relaciones Intergubernamentales;
 
-1. Dirección Ejecutiva de Enlace Institucional con los Gobiernos de los Estados;
+1. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
-2. Dirección Ejecutiva de Planeación y Seguimiento; y
+2. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
-3. Dirección Ejecutiva de Asuntos Agrarios;
+3. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 F) La Subsecretaría de Programas de Alcaldías y Reordenamiento de la Vía Pública, a la que queda adscrita:
 
-1. Dirección General de Ordenamiento de la Vía Pública del Centro Histórico;
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+1. Dirección General de Programas de Alcaldías y Ordenamiento de la Vía Pública;
 
 G) Dirección General del Instituto de Reinserción Social, a la que queda adscrita:
 
 1. Dirección Ejecutiva de Programas de Reinserción.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+H) Dirección Ejecutiva de Análisis Informativo; y
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+I) Dirección Ejecutiva de Asuntos Agrarios.
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2020)</small>
 
@@ -218,7 +250,7 @@ A) Subsecretaría de Egresos, a la que quedan adscritas
 
 4.1. Dirección Ejecutiva de Implementación del Presupuesto Basado en Resultados y Evaluación del Desempeño;
 
-4.2. Dirección Ejecutiva de Previsión y Control del Gasto; y
+4.2. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 4.3. Dirección Ejecutiva de Normativa Presupuestaria;
 
@@ -358,7 +390,9 @@ I) Dirección General de Asuntos Jurídicos, a la que quedan adscritas:
 
 2. Dirección Ejecutiva de lo Consultivo;
 
-J) Dirección General de Enlace y Programas Especiales;
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+J) Dirección General de Enlace y Relaciones con el Congreso;
 
 K) Dirección Ejecutiva de Seguimiento y Control Institucional; y
 
@@ -612,9 +646,9 @@ B) Dirección General de Diversidad Sexual y Derechos Humanos.
 
 2. (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 16 DE AGOSTO DE 2021)</small>
 
-C) Dirección General de Inclusión Social, a la que queda adscrita:
+C) Coordinación General de Inclusión Social, a la que queda adscrita:
 
 > <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
@@ -640,9 +674,77 @@ E) Coordinación General de Participación Ciudadana, a la que quedan adscritas:
 
 1. Dirección Ejecutiva de Tequio Barrio; y
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 16 DE AGOSTO DE 2021)</small>
 
-2. Dirección Ejecutiva Territorial.
+2. Dirección General Territorial, a la que quedan adscritas:
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.1. Dirección Ejecutiva de Capacitación;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.2. Dirección Ejecutiva de Participación Ciudadana en Álvaro Obregón;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.3. Dirección Ejecutiva de Participación Ciudadana en Azcapotzalco;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.4. Dirección Ejecutiva de Participación Ciudadana en Benito Juárez;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.5. Dirección Ejecutiva de Participación Ciudadana en Coyoacán;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.6. Dirección Ejecutiva de Participación Ciudadana en Cuajimalpa de Morelos;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.7. Dirección Ejecutiva de Participación Ciudadana en Cuauhtémoc;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.8. Dirección Ejecutiva de Participación Ciudadana en Gustavo A. Madero;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.9. Dirección Ejecutiva de Participación Ciudadana en Iztacalco;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.10. Dirección Ejecutiva de Participación Ciudadana en Iztapalapa;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.11. Dirección Ejecutiva de Participación Ciudadana en La Magdalena Contreras;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.12. Dirección Ejecutiva de Participación Ciudadana en Miguel Hidalgo;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.13. Dirección Ejecutiva de Participación Ciudadana en Milpa Alta;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.14. Dirección Ejecutiva de Participación Ciudadana en Tláhuac;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.15. Dirección Ejecutiva de Participación Ciudadana en Tlalpan;
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.16. Dirección Ejecutiva de Participación Ciudadana en Venustiano Carranza; y
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+2.17. Dirección Ejecutiva de Participación Ciudadana en Xochimilco.
 
 F) (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
@@ -736,7 +838,7 @@ D) Dirección General de Seguimiento, Proyectos y Asuntos Estratégicos de Movil
 
 E) Coordinación General de Enlace Interinstitucional Territorial y Ciudadano.
 
-Asimismo, se le adscribe el Órgano Desconcentrado denominado Órgano Regulador de Transporte.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 16 DE AGOSTO DE 2021)</small>
 
 XII. A la Secretaría de las Mujeres:
 
@@ -1122,9 +1224,13 @@ XIII. Las demás que les atribuyan expresamente los demás ordenamientos jurídi
 
 La Subsecretaría de Gobierno tendrá las siguientes atribuciones:
 
-I. Coadyuvar en la conducción de las relaciones de la Jefatura de Gobierno con los Poderes de la Unión, poderes y órganos del gobierno local, gobiernos de las Entidades Federativas, Congreso de la Ciudad y ayuntamientos de los municipios;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-II. Acordar con la persona titular de la Secretaría de Gobierno, el despacho de los asuntos que guarden relación con los Poderes de la Unión, órganos locales de gobierno, Congreso de la Ciudad, gobiernos de las entidades Federativas y Ayuntamientos de los Municipios, en los asuntos de gobierno, atención Ciudadana y gestión social;
+I. Coadyuvar en la conducción de las relaciones de la Jefatura de Gobierno con los Poderes de la Unión, Poderes y Órganos locales, gobiernos de las entidades federativas, ayuntamientos de los municipios y las Alcaldías;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+II. Acordar con la persona titular de la Secretaría de Gobierno, el despacho de los asuntos que guarden relación con los Poderes de la Unión, Poderes y Órganos locales, gobiernos de las entidades federativas, ayuntamientos de los municipios y las Alcaldías en los asuntos de gobierno, atención ciudadana y gestión social;
 
 III. Coordinar reuniones periódicas de la persona titular de la Secretaría de Gobierno o, en su caso, de la Jefatura de Gobierno, con las personas titulares de las Alcaldías y llevar el seguimiento de los acuerdos;
 
@@ -1158,9 +1264,23 @@ XVII. Atender y dar seguimiento a los mecanismos del Sistema Integral de Derecho
 
 XVIII. Coadyuvar con la promoción de la igualdad sustantiva y paridad de género en los diversos ámbitos de desarrollo y coordinar la realización de programas específicos;
 
-XIX. Dar seguimiento a los convenios de colaboración o coordinación que se celebren con las autoridades federales competentes, así como apoyar en la conducción de las relaciones del Gobierno de la Ciudad de México con las asociaciones religiosas y culto público; y
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-XX. Las demás que le atribuyan expresamente las leyes, reglamentos y normas aplicables.
+XIX. Dar seguimiento a los convenios de colaboración o coordinación que se celebren con las autoridades federales competentes, así como apoyar en la conducción de las relaciones del Gobierno de la Ciudad de México con las asociaciones religiosas y culto público;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XX. Apoyar en la organización de giras y visitas de trabajo que realice la persona titular de la Jefatura de Gobierno a las demarcaciones territoriales que integran la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XXI. Auxiliar en la vigilancia del cumplimiento de las leyes, reglamentos, acuerdos, circulares, bandos, programas y demás disposiciones jurídicas y administrativas que emita la persona titular de la Jefatura de Gobierno y el Congreso de la Ciudad de México, en el ámbito territorial de las Alcaldías e informar de su cumplimiento a la persona titular de la Secretaría de Gobierno;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XXII. Coordinar y proponer proyectos para la reorganización territorial de la Ciudad de México y la determinación de las funciones y estructura orgánica, ocupacional y de organización de las Alcaldías; y
+
+XXIII. Las demás que le atribuyan expresamente las leyes, reglamentos y normas aplicables.
 
 ###### Artículo 24.
 
@@ -1284,11 +1404,11 @@ VIII. Operar, integrar y autorizar el registro de videojuegos;
 
 IX. Participar en el diseño e instrumentación de la planeación en las Alcaldías; así como participar en la elaboración del Programa General de Desarrollo de la Ciudad de México, de los Programas de las Alcaldías y de todos aquellos programas que contribuyan al desarrollo integral de la Ciudad de México, como unidad metropolitana, en coordinación con las Unidades Administrativas competentes del Gobierno Local;
 
-X. Apoyar en la organización de las giras y visitas de trabajo que realice la persona titular de la Jefatura de Gobierno a las demarcaciones territoriales que integran la Ciudad de México;
+X. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-XI. Auxiliar en la vigilancia del cumplimiento de las leyes, reglamentos, acuerdos, circulares, bandos, programas y demás disposiciones jurídicas y administrativas que emita la persona titular de la Jefatura de Gobierno y el Congreso de la Ciudad de México, en el ámbito territorial de las Alcaldías e informar de su cumplimiento a la persona titular de la Secretaría de Gobierno.
+XI. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-XII. Coordinar y proponer proyectos para la reorganización territorial de la Ciudad de México y la determinación de las funciones y la estructura orgánica, ocupacional y de organización de las Alcaldías;
+XII. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
 XIII. Promover la organización de foros y eventos que contribuyan al desarrollo integral de las Alcaldías;
 
@@ -1324,7 +1444,9 @@ III. Presentar a la consideración de la persona titular de la Secretaría el Pr
 
 IV. Autorizar y comunicar, atendiendo los términos establecidos en el Reglamento de la Ley de Presupuesto y Gasto Eficiente, los calendarios presupuestales a las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública, conforme a los montos que a estas les establezca el correspondiente Decreto de Presupuesto de Egresos, los cuales estarán en función de la capacidad financiera de la Ciudad de México;
 
-V. Registrar el ejercicio presupuestal de la Ciudad de México en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y con base en la calendarización de los diferentes capítulos del gasto y la información consignada en los documentos programático-presupuestales formulados por las unidades responsables;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+V. Registrar el compromiso y ejercicio presupuestal de la Ciudad de México en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y con base en la calendarización de los diferentes capítulos del gasto y la información consignada en los documentos programático-presupuestales formulados por las unidades responsables;
 
 VI. Expedir las normas y lineamientos a que deba sujetarse la programación, presupuesto, contabilidad y seguimiento del gasto público de la Ciudad de México; así como las normas generales a que deban sujetarse la evaluación de resultados del ejercicio de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública local, y el Sistema de Evaluación del Desempeño a que se refiere la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México;
 
@@ -1786,7 +1908,9 @@ III. Ejercer, previo acuerdo con la persona Titular de la Secretaría de Movilid
 
 IV. Coordinar la emisión de normas para regular el otorgamiento de autorizaciones, permisos, concesiones y licencias para el transporte en todas sus modalidades, en la Ciudad de México;
 
-V. Vigilar en coordinación con el Órgano Regulador de Transporte el cumplimiento de la normatividad, especificaciones y principios de la Ley por los concesionarios y permisionarios del servicio de transporte de pasajeros público;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+V. Vigilar en coordinación con el Organismo Regulador de Transporte el cumplimiento de la normatividad, especificaciones y principios de la Ley por los concesionarios y permisionarios del servicio de transporte de pasajeros público;
 
 VI. Vigilar que concesionarios y permisionarios realicen puntualmente las aportaciones al fondo de movilidad y seguridad vial;
 
@@ -1895,6 +2019,8 @@ XVI. Participar en comités técnicos en materias relativas al desarrollo integr
 XVII. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona superior jerárquica.
 
 #### SECCIÓN II. DE LA SECRETARÍA DE GOBIERNO
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 38.
 
@@ -2620,133 +2746,49 @@ XXIII. Las demás que resulten necesarias para el debido cumplimiento de sus atr
 
 ###### Artículo 50.
 
-Corresponde a la Dirección General de Planeación y Desarrollo Institucional:
+Corresponde a la Dirección Ejecutiva de Coordinación Institucional:
 
-I. Dirigir el diseño y coordinar el establecimiento de los instrumentos de planeación y seguimiento de las políticas públicas de las Unidades Administrativas de la Secretaría de Gobierno;
+I. Acordar con la persona titular de la Secretaría de Gobierno el despacho de los asuntos de su ámbito de competencia en materia de planeación de la Dependencia;
 
-II. Representar ante los sectores público y privado a la Secretaría de Gobierno, cuando así lo determine la persona titular de la Dependencia;
+II. Diseñar y coordinar el establecimiento de los instrumentos de planeación y seguimiento de las políticas públicas de las Unidades Administrativas de la Secretaría de Gobierno;
 
-III. Asegurar los mecanismos de difusión de programas, políticas públicas y acciones de la Secretaría de Gobierno;
+III. Representar, ante los sectores público y privado, a la Secretaría de Gobierno cuando así lo determine la persona titular de la Dependencia;
 
-IV. Dirigir y analizar estudios, informes y proyectos relativos a la gobernabilidad de la Ciudad;
+IV. Analizar estudios, informes y proyectos relativos a la gobernabilidad de la Ciudad y someterlos a consideración de la persona titular de la Dependencia;
 
-V. Asegurar el cumplimiento de las políticas públicas que se determinen en materia de transparencia, igualdad sustantiva y derechos humanos en la Secretaría de Gobierno;
+V. Coordinar el cumplimiento de las políticas públicas que se determinen en materia de transparencia, igualdad sustantiva y derechos humanos en la Dependencia;
 
-VI. Coordinar el seguimiento en temas prioritarios de los programas que corresponde aplicar a la Secretaría de Gobierno;
+VI. Coordinar el seguimiento en temas prioritarios de los programas que corresponde aplicar a la Dependencia;
 
-VII. Dirigir la elaboración de planes y programas institucionales, sectoriales y especiales que correspondan a la Secretaría de Gobierno;
+VII. Dirigir la elaboración de planes y programas institucionales, sectoriales y especiales que correspondan a la Secretaría de Gobierno y someterlos a la aprobación de la persona titular de la Dependencia;
 
-VIII. Asegurar el seguimiento de acuerdos de reuniones de trabajo de la persona titular de la Secretaría de Gobierno;
+VIII. Emitir opinión sobre asuntos, programas o acciones que solicite la persona titular de la Secretaría de Gobierno;
 
-IX. Emitir opinión sobre asuntos, programas o acciones que solicite la persona titular de la Secretaría de Gobierno;
+IX. Coordinar la integración y elaboración de informes anuales de la Secretaría de Gobierno, con motivo de la comparecencia de la persona titular de la Dependencia ante el Congreso de la Ciudad;
 
-X. Dirigir la integración de informes anuales de la Secretaría de Gobierno, con motivo de la comparecencia de la persona titular de la Secretaría de Gobierno ante el Congreso de la Ciudad;
+X. Coordinar la elaboración de informes, estudios, proyectos y documentos relativos a las atribuciones de la Secretaría de Gobierno;
 
-XI. Coordinar la elaboración de informes, estudios, proyectos y documentos relativos a las atribuciones de la Secretaría de Gobierno;
+XI. Representar a la Secretaría de Gobierno en consejos, comités, comisiones, juntas de gobierno, reuniones y en los temas y trabajos que indique la persona titular de la Dependencia;
 
-XII. Coordinar la organización, representación o participación de la Secretaría de Gobierno en consejos, comités, comisiones, juntas de gobierno, reuniones y en los temas y trabajos que indique la persona titular de la Dependencia;
+XII. Coordinar la planeación, realización y desarrollo de foros y eventos que instruya la persona titular de la Secretaría; y
 
-XIII. Dirigir la planeación, realización y desarrollo de foros y eventos que instruya la persona titular de la Secretaría;
-
-XIV. Las demás que se deriven de otras disposiciones legales aplicables y las que asigne la Secretaría de Gobierno.
+XIII. Las demás que se deriven de otras disposiciones legales aplicables y las que le asigne la persona titular de la Secretaría de Gobierno.
 
 ###### Artículo 51.
 
-Corresponde a la Dirección Ejecutiva de Desarrollo de Políticas Públicas:
-
-I. Acordar con la persona titular de la Dirección General de Planeación y Desarrollo Institucional el despacho de los asuntos de su ámbito de competencia en materia de planeación de la Secretaría de Gobierno;
-
-II. Coordinar con las Unidades Administrativas de la Secretaría de Gobierno para dar seguimiento a los indicadores de gestión;
-
-III. Emitir opinión sobre los asuntos que le sean encomendados en materia de desarrollo de políticas públicas;
-
-IV. Realizar estudios, informes y proyectos en materia de gobernabilidad de la Ciudad para su publicación;
-
-V. Elaborar, en coordinación con las Unidades Administrativas de la Secretaría, los programas institucionales, sectoriales y especiales;
-
-VI. Coordinar la integración y elaboración de los informes anuales de actividades de la Secretaría de Gobierno, con motivo de su comparecencia ante el Congreso de la Ciudad y aquellos solicitados por la Jefatura de Gobierno;
-
-VII. Coordinar la elaboración y/o actualización de manuales, protocolos y estrategias de implementación de la Secretaría de Gobierno, cuando se requiera;
-
-VIII. Promover la realización de foros y eventos en materia de gobernabilidad, gobernanza y buen gobierno; y
-
-IX. Representar a la Secretaría de Gobierno ante instancias de los diferentes niveles de gobierno, académicas, de investigación y de la sociedad civil, especializadas en materia de gobernabilidad, nacionales o internacionales.
+(DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 ###### Artículo 52.
 
-Corresponde a la Dirección Ejecutiva de Análisis Informativo:
-
-I. Proponer, innovar e implementar planes y/o estrategias de información que involucren a las diferentes Unidades Administrativas dependientes de la Secretaría de Gobierno y permitan tener elementos base para la toma de decisiones;
-
-II. Elaborar y proponer contenidos para las distintas plataformas digitales y medios de la Secretaría;
-
-III. Establecer un plan de desarrollo de acciones de información, para la adopción de mejores prácticas de comunicación;
-
-IV. Detectar, analizar y elaborar mecanismos que permitan evaluar qué planes y/o procesos de información son susceptibles de mejora;
-
-V. Recopilar información de las Unidades Administrativas que conforman a la Secretaría, con la finalidad de elaborar estrategias para la difusión de las acciones a implementarse;
-
-VI. Monitorear y evaluar resultados del impacto de las campañas establecidas para la difusión de las acciones de gobierno;
-
-VII. Cobertura de acciones para la generación de materiales informativos;
-
-VIII. Elaborar el plan anual de información con el objetivo de priorizar la realización de materiales que contribuyan a mejorar los mecanismos comunicativos;
-
-IX. Atender de forma permanente la información que publiquen los usuarios de las redes sociales, páginas electrónicas u otros en la red internet, así como operar las plataformas digitales de la Secretaría;
-
-X. Monitorear los hechos relacionados con las incidencias que se publican en la red, a fin de prever cualquier tipo de activación político-social;
-
-XI. Atender las demandas Ciudadanas que se generen a través de internet e informar sobre ello al área correspondiente;
-
-XII. Crear un índice de datos con la información recopilada en la red y los materiales propios;
-
-XIII. Realizar análisis cualitativos y cuantitativos de la información recabada e integrar informes periódicos con el objetivo de contribuir a la toma de decisiones de la Secretaría;
-
-XIV. Desarrollar mecanismos de búsqueda para acceder a la información que se tiene; y
-
-XV. Recopilar el acervo documental consistente en material de soporte gráfico, sonoro, videográfico e informativo derivado de las actividades de la persona titular de la Secretaría.
+(DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 ###### Artículo 53.
 
-Corresponde a la Dirección Ejecutiva de Acuerdos:
-
-I. Dar atención a las reuniones que le solicite la Dirección General;
-
-II. Intervenir y administrar el seguimiento de los temas de las diversas reuniones de Gabinete que sostiene la persona titular de la Secretaría cada vez que se origine una sesión;
-
-III. Levantar la minuta de las reuniones a las que le corresponda dar seguimiento, y hacerlas del conocimiento de la Dirección General;
-
-IV. Coordinar con la Secretaría Particular la agenda de reuniones en las que se requiera su intervención, para que en caso de ser necesario realice las gestiones que, en materia de logística, garanticen su óptimo desarrollo;
-
-V. Canalizar a la Dependencia pública respectiva, las peticiones Ciudadanas que resulten de las giras de trabajo que realice la persona titular de la Secretaría;
-
-VI. Mantener un sistema de comunicación fluida y permanente con los enlaces o responsables de las distintas Unidades Administrativas, que permita un completo y eficaz seguimiento a los acuerdos que hayan sido implementados por la persona titular de la Secretaría;
-
-VII. Elaborar los mecanismos de seguimiento de los asuntos turnados a las personas servidoras públicas adscritas a la Secretaría y supervisar su atención;
-
-VIII. Presentar a la Dirección General un informe mensual relativo a la atención brindada por las personas servidoras públicas o Unidades Administrativas correspondientes;
-
-IX. Proponer a las Unidades Administrativas de la Secretaría que corresponda, mecanismos de innovación administrativa que permitan dar un seguimiento más eficaz a los acuerdos de su competencia;
-
-X. Acordar con la persona Titular de la Dirección General los asuntos concernientes al cargo y proporcionar la información que, en su caso, le requiera; y
-
-XI. Las demás que le encomiende la persona Titular de la Dirección General.
+(DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 ###### Artículo 54.
 
-Corresponde a la Dirección Ejecutiva de Enlace Institucional:
-
-I. Establecer vínculos institucionales de coordinación para la definición y ejecución de políticas, estrategias y programas en materia de gobernabilidad que no estén expresamente asignadas a otras Unidades Administrativas;
-
-II. Contribuir con las Unidades Administrativas de la Secretaría de Gobierno para recibir, canalizar y/o atender peticiones de información relacionadas con los programas y acciones de la Secretaría;
-
-III. Establecer canales de comunicación con otras Dependencias y Entidades de la Administración Pública con el propósito de atender, orientar o canalizar las demandas Ciudadanas que recibe esta Dependencia;
-
-IV. Asistir a reuniones de trabajo con Dependencias del Gobierno de la Ciudad de México, en representación de la personar (sic) titular de la Secretaría, cuando así lo determine;
-
-V. Apoyar en la realización de las sesiones de comités, consejos, juntas directivas y de gobierno que presida la persona titular de la Secretaría;
-
-VI. Fungir como enlace de la Secretaría de Gobierno con Dependencias homólogas del Gobierno de la Ciudad de México, de otras entidades de la República, del Gobierno Federal e instituciones internacionales vinculadas a esta Secretaría, cuando así lo determine la persona titular.
+(DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 ###### Artículo 55.
 
@@ -2820,11 +2862,15 @@ IX. Participar en la organización de los actos cívicos del Gobierno de la Ciud
 
 X. Cooperar con las acciones y programas de Gobierno de la Ciudad de México en el Centro Histórico y demás vialidades, dentro del ámbito de su competencia, en lo relativo al uso de los espacios públicos, así como en la regulación (sic) espectáculos masivos que se realicen, para garantizar la convivencia pacífica y el ejercicio de los derechos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 57.
 
-Corresponde a la Dirección General de Concertación Política, Prevención, Atención Social y Gestión Ciudadana:
+Corresponde a la Coordinación General de Concertación Política, Prevención y Buen Gobierno:
 
-I. Diseñar, proponer y ejecutar las políticas públicas en materia de concertación política, prevención y gestión social;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+I. Diseñar, proponer y ejecutar las políticas públicas en materia de concertación política, prevención y gestión social para las Alcaldías de la Ciudad de México;
 
 II. Coadyuvar, en el ámbito de sus competencias, en la instrumentación de los mecanismos de participación Ciudadana previstos en la ley respectiva;
 
@@ -2834,19 +2880,61 @@ IV. Operar y participar en la prevención, gestión y búsqueda de soluciones a 
 
 V. Coordinar la planeación, diseño, promoción, ejecución, seguimiento y control de programas y proyectos que fomenten la prevención y gestión de conflictos sociales, concertación política y la gestión social, basados en una cultura de paz y de corresponsabilidad entre el gobierno y la sociedad;
 
-VI. Coordinar la planeación, creación y operación y espacios de interlocución entre organizaciones sociales y sectoriales y entre éstas y la Administración Pública, para la prevención de conflictos sociales o políticos y la búsqueda de soluciones a sus demandas o propuestas;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-VII. Auxiliar en las relaciones con los órganos de representación vecinal, tanto formales como de la sociedad civil;
+VI. Coordinar la planeación, creación y operación de espacios de interlocución entre organizaciones sociales y sectoriales y, entre éstas y la Administración Pública, a través de la vinculación con las autoridades zonales correspondientes, para la prevención de conflictos sociales o políticos y la búsqueda de soluciones a sus demandas o propuestas;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+VII. Auxiliar en las relaciones con los órganos de representación vecinal, tanto formales como de la sociedad civil a través de las autoridades zonales correspondientes;
 
 VIII. Crear espacios para la prevención, gestión y concertación entre los grupos sociales y sectoriales en conflicto;
 
 IX. Realizar los estudios necesarios en coordinación con las instancias competentes, para conocer los planteamientos Ciudadanos y proponer las mejores vías para su solución;
 
-X. Coordinarse con las distintas autoridades involucradas en la organización y supervisión de las visitas y giras a las demarcaciones territoriales, a las Alcaldías, por las personas titulares de la Jefatura de Gobierno y de la Secretaría de Gobierno, para el logro de una comunicación efectiva entre autoridades y gobernados;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-XI. Promover la creación de redes de comunicación en la Ciudad de México, en el ámbito nacional e internacional, con el fin de intercambiar experiencias, conocimientos y recursos en la búsqueda de la concertación política, la prevención y la gestión social de conflictos, la atención Ciudadana eficaz; y
+X. Coordinar con las distintas autoridades involucradas en la organización y supervisión de las visitas y giras a las demarcaciones territoriales de las personas titulares de la Jefatura de Gobierno y Secretaría de Gobierno, para el logro de una comunicación efectiva entre autoridades y gobernados;
 
-XII. Realizar recorridos y visitas periódicas a las Alcaldías con el objetivo de sensibilizar, asesorar, coadyuvar, prevenir, o dar seguimiento a acuerdos y su cumplimiento, relacionados con la gestión de conflictos sociales.
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XI. Promover la creación de redes de comunicación en la Ciudad de México, en el ámbito nacional e internacional, con el fin de intercambiar experiencias, conocimientos y recursos en la búsqueda de la concertación política, prevención, gestión social de conflictos y atención ciudadana eficaz;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XII. Realizar recorridos y visitas periódicas a las Alcaldías con el objetivo de sensibilizar, asesorar, coadyuvar, prevenir o dar seguimiento a acuerdos y su cumplimiento, relacionados con la gestión de conflictos sociales;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XIII. Proponer proyectos para la reorganización territorial de la Ciudad de México y la determinación de las funciones y la estructura orgánica, ocupacional y de organización de las Alcaldías;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XIV. Coordinar a las Direcciones Generales de Coordinación Política, Prevención y Buen Gobierno en los asuntos que les sean encomendados; y
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XV. Las demás que se deriven de otras disposiciones legales y las que le asigne la persona titular de la Secretaría de Gobierno.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+Artículo 57 BIS.- Corresponde a las Direcciones Generales de Coordinación Política, Prevención y Buen Gobierno Regional Oriente, Regional Poniente, Regional Norte y Regional Sur:
+
+I. Acordar con la persona titular de la Coordinación General de Concertación Política, Prevención y Buen Gobierno, el despacho de los asuntos de su ámbito de competencia en materias de concertación política, atención social, gestión ciudadana, coordinación política y buen gobierno;
+
+II. Propiciar los acuerdos necesarios para la ejecución de las políticas públicas y mecanismos en materia de concertación política, prevención y gestión social de las Alcaldías;
+
+III. Asistir a la Coordinación General de Concertación Política, Prevención y Buen Gobierno en la instrumentación de los mecanismos de participación ciudadana previstos en la ley respectiva, en la zona de su competencia;
+
+IV. Dar seguimiento a las demandas y peticiones ciudadanas correspondientes a la zona de su competencia;
+
+V. Articular estrategias de enlace y diálogo entre los grupos involucrados y las Alcaldías para la prevención, gestión y búsqueda de soluciones a conflictos de carácter político y de demandas sociales;
+
+VI. Establecer las relaciones con los órganos de representación vecinal, tanto formales como de la sociedad civil en la zona de su competencia;
+
+VII. Coadyuvar en la vigilancia del debido cumplimiento de las leyes, reglamentos, acuerdos, circulares, bandos, programas y demás disposiciones jurídicas y administrativas que emitan la persona titular de la Jefatura de Gobierno y el Congreso de la Ciudad de México, en la zona de su competencia, e informar de su cumplimiento a la persona titular de la Coordinación General de Concertación Política, Prevención y Buen Gobierno; y
+
+VIII. Las demás que se deriven de otras disposiciones legales y las que le asignen las personas titulares de la Secretaría de Gobierno y de la Coordinación General de Concertación Política, Prevención y Buen Gobierno.
 
 ###### Artículo 58.
 
@@ -3070,195 +3158,171 @@ XV. Crear un módulo en el Sistema de Información Penitenciaria que permita lle
 
 XVI. Conformar el Archivo de Expedientes de Personas Sentenciadas en Libertad de conformidad a lo establecido en las disposiciones legales de la materia y a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE AGOSTO DE 2021)</small>
 
-###### Artículo 64 Bis.
+Artículo 64 BIS.- Corresponde a la Dirección Ejecutiva de Vinculación y Relaciones Intergubernamentales:
 
-Corresponde a la Dirección General de Coordinación Metropolitana y Enlace Gubernamental:
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
 I. Acordar con la persona Titular de la Secretaría de Gobierno, el despacho de los asuntos que guarden relación con las Alcaldías, los Gobiernos de las Entidades Federativas y sus poderes legislativos, los Municipios que colindan con la Ciudad de México, y el Congreso de la Ciudad en los asuntos que correspondan a su ámbito de competencia;
 
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
 II. Acordar con la persona Titular de la Secretaría de Gobierno el despacho de los asuntos en materia de coordinación y planeación metropolitana, en lo referente a las comisiones metropolitanas y a los diversos mecanismos de coordinación con gobiernos de las Entidades Federativas y Municipios que colindan con la Ciudad, asimismo, colaborar en la organización de reuniones de la persona Titular de la Jefatura de Gobierno con las personas Titulares de los gobiernos antes referidos;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
 III. Mantener informada a la persona Titular de la Secretaría de Gobierno del cumplimiento de los convenios suscritos por la persona Titular de la Jefatura de Gobierno con gobiernos de las Entidades Federativas que colindan con la Ciudad;
 
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
 IV. Participar en el diseño e instrumentación de la planeación metropolitana; así como participar en la elaboración del Programa General de Desarrollo de la Ciudad de México, de los Programas y planes de las Alcaldías y de todos aquellos que contribuyan al desarrollo integral de la Ciudad como Unidad Metropolitana, en coordinación con las Unidades Administrativas competentes de la Administración Pública de la Ciudad;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
 V. Participar en las actividades materia de límites, en términos de lo dispuesto por las disposiciones jurídicas y administrativas aplicables y coadyuvar en los trabajos de amojonamiento y señalización de límites de la Ciudad con las Entidades Federativas colindantes;
 
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
 VI. Representar, por instrucciones de la persona Titular de la Secretaría de Gobierno, a la Administración Pública de la Ciudad, ante los diversos mecanismos de coordinación metropolitana, en términos de lo dispuesto por los respectivos convenios de creación;
 
-VII. En coordinación con las personas Titulares de las Dependencias respectivas, someter a consideración de la persona titular de la Secretaría de Gobierno la suscripción de convenios por parte de la Jefatura de Gobierno para la constitución, integración y funcionamiento de comisiones metropolitanas, en las materias de asentamientos humanos, protección al ambiente, preservación y restauración del equilibrio ecológico, transporte y vialidad, agua potable y drenaje, recolección, tratamiento y disposición de desechos sólidos, seguridad pública y procuración de justicia; así como de aquellos otros que contribuyan al desarrollo de la Ciudad, con la participación que corresponda a la Federación y a los Estados y Municipios que colindan con la Ciudad;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+VII. Someter a consideración de la persona titular de la Secretaría de Gobierno la suscripción de convenios por parte de la Jefatura de Gobierno para la constitución, integración y funcionamiento de comisiones metropolitanas, en las materias de asentamientos humanos, protección al ambiente, preservación y restauración del equilibrio ecológico, transporte y vialidad, agua potable y drenaje, recolección, tratamiento y disposición de desechos sólidos, seguridad pública y procuración de justicia; así como de aquellos otros que contribuyan al desarrollo de la Ciudad con la participación que corresponda a la Federación y a los Estados y Municipios que colindan con la Ciudad;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
 VIII. Promover la difusión de convenios que, en materia de coordinación metropolitana, suscriba la persona Titular de la Jefatura de Gobierno;
 
-IX. Promover y coordinar las relaciones institucionales de las Alcaldías limítrofes con los Municipios de la zona metropolitana;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+IX. Promover, en acuerdo con la persona titular de la Secretaría de Gobierno, las relaciones institucionales de las Alcaldías limítrofes con los Municipios de la zona metropolitana;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
 X. Promover las relaciones de colaboración, y asistir como testigo de calidad en la suscripción de convenios, entre las Alcaldías y los Municipios limítrofes, de conformidad con las normas aplicables;
 
-XI. Promover y realizar estudios, y en su caso, elaborar proyectos para sustentar técnicamente la coordinación metropolitana que propicien formas eficientes de coordinación con los distintos órdenes de gobierno que inciden en la Ciudad;
+XI. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-XII. Promover la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-XIII. Establecer y coordinar el Sistema de Información y Análisis de la problemática de la Zona Metropolitana del Valle de México;
+XII. Proponer a la persona titular de la Secretaría de Gobierno la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana;
 
-XIV. Promover la creación de fondos orientados al desarrollo de la Zona Metropolitana del Valle de México;
+XIII. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-XV. Apoyar las tareas del Consejo de Población de la Ciudad de México, en los términos de las disposiciones aplicables a la materia;
+XIV. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-XVI. Proponer a la persona Titular de la Secretaría de Gobierno, los estudios y proyectos relativos al enlace institucional, con el propósito de priorizar la realización de programas y acciones que permitan mejorar las condiciones de vida de los sectores más desprotegidos;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XV. Apoyar, cuando así lo solicite la persona titular de la Secretaría de Gobierno, en las tareas del Consejo de Población de la Ciudad de México en términos de las disposiciones aplicables a la materia;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XVI. Proponer a la persona titular de la Secretaría de Gobierno, los estudios y proyectos relativos al enlace institucional, con el propósito de priorizar la realización de programas y acciones que permitan mejorar las condiciones de vida de los grupos de atención prioritaria;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
 XVII. Coadyuvar con las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad para establecer vínculos de cooperación con las personas representantes y las autoridades de los gobiernos de los Estados, a solicitud de la persona Titular de la Secretaría de Gobierno;
 
-XVIII. Establecer los enlaces institucionales entre las diferentes autoridades de la Administración Pública de la Ciudad y los organismos empresariales, asociaciones religiosas y organizaciones sociales, para fortalecer las relaciones con la Administración Pública de la Ciudad.
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-XIX. Coordinarse con las diversas Dependencias y Órganos Desconcentrados, para el seguimiento de los asuntos de su competencia;
+XVIII. Coadyuvar con la persona titular de la Secretaría de Gobierno en el establecimiento de enlaces institucionales entre las diferentes autoridades de la Administración Pública de la Ciudad y los organismos empresariales, asociaciones religiosas y organizaciones sociales para fortalecer las relaciones con la Administración Pública de la Ciudad;
 
-XX. Instrumentar la aplicación de las políticas demográficas que fije la Secretaría de Gobernación en el ámbito de la competencia de la Ciudad; así como fomentar y propiciar la coordinación interinstitucional y a la que corresponda en el Consejo Nacional de Población; y
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XIX. Coordinarse con las diversas Dependencias y Órganos Desconcentrados para el seguimiento de los asuntos de su competencia, cuando así lo solicite la persona titular de la Secretaría de Gobierno;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XX. Coadyuvar con la persona titular de la Secretaría de Gobierno en la aplicación de las políticas demográficas que fije la Secretaría de Gobernación en el ámbito de la competencia de la Ciudad; así como en el fomento a la coordinación interinstitucional y, a la que corresponda en el Consejo Nacional de Población; y
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
 XXI. Las demás que se deriven de otras disposiciones legales aplicables y las que asigne la persona Titular de la Secretaría de Gobierno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
-
 ###### Artículo 65.
 
-Corresponde a la Dirección Ejecutiva de Enlace Institucional con los Gobiernos de los Estados:
-
-> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-I. Fortalecer los enlaces institucionales con las diferentes autoridades y coadyuvar con el Gobierno local en el desarrollo de programas especiales y estratégicos para dar seguimiento a los asuntos de carácter relevante;
-
-II. Llevar a cabo las acciones necesarias para la debida atención de las personas titulares del Poder Ejecutivo de los estados en sus visitas a la persona titular de la Jefatura de Gobierno de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-III. Desempeñar las comisiones y funciones que sus superiores jerárquicos le confieran, comunicando el desarrollo y cumplimiento de las mismas;
-
-> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-IV. Intervenir por acuerdo de las personas Titulares de la Secretaría de Gobierno o de la Dirección General de Coordinación Metropolitana y Enlace Gubernamental en las comisiones, congresos, conferencias y exposiciones nacionales e internacionales y participar en los organismos e institutos en que el Gobierno de la Ciudad forme parte e intervengan los Gobiernos Estatales;
-
-V. Proveer de información y análisis de los acontecimientos más importantes que sucedan en las Entidades Federativas, que tengan repercusión en el ámbito de la Ciudad de México;
-
-VI. Promover a través de la vinculación institucional ante las instancias nacionales e internacionales, los programas y acciones de gobierno de la Ciudad de México para atraer inversiones que coadyuven al desarrollo de las zonas marginadas;
-
-VII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
-
-VIII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
-
-> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-IX. Proponer la realización de programas de intercambio y fomento tecnológico y cultural en materia de administración pública con la Federación, los Estados y sus representaciones en la Ciudad;
-
-X. Llevar a cabo el seguimiento, análisis, opinión e informes de los diversos asuntos que se tratan en las comisiones de la Conferencia Nacional de Gobernadores; y
-
-XI. Las demás que le atribuyan otras disposiciones legales y administrativas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
+(DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 ###### Artículo 66.
 
-Corresponde a la Dirección Ejecutiva de Planeación y Seguimiento:
-
-> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-I. Acordar con la persona Titular de la Dirección General de Coordinación Metropolitana y Enlace Gubernamental, el despacho de los asuntos de su ámbito de competencia en materia de planeación y evaluación;
-
-> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-II. Proponer las líneas generales de planeación y el proyecto de programa de trabajo anual de la Dirección General de Coordinación Metropolitana y Enlace Gubernamental, mismo que se presentará para su aprobación a la persona Titular de la Secretaría de Gobierno;
-
-> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-III. Participar, dentro del ámbito de competencia de la Dirección General de Coordinación Metropolitana y Enlace Gubernamental, en los mecanismos de atención y seguimiento del Programa General de Desarrollo de la Ciudad de México; así como emitir opinión en el ámbito de su competencia, en los programas sectoriales y de las Alcaldías;
-
-IV. Opinar sobre la integración de los programas regionales y metropolitanos, y en aquellos del ámbito de los asuntos agrarios así como de los de regularización de la tenencia de la tierra;
-
-V. Proponer estudios e investigaciones así como promover la realización y ejecución de proyectos en el ámbito regional y metropolitano;
-
-VI. Promover la integración de los planes y programas regionales y los convenios de colaboración con los gobiernos estatales, para facilitar su consulta y con ello la planeación y seguimiento al cumplimiento de los convenios;
-
-VII. Proponer mecanismos de coordinación interinstitucional para atender los asuntos que requiera el Congreso de la Ciudad de México;
-
-VIII. Recopilar clasificar y archivar los informes remitidos a los órganos legislativos en materia de asuntos agrarios, regularización territorial, vinculación con las Entidades Federativas y desarrollo regional y metropolitano, a fin de dar un seguimiento puntual al cumplimiento de las obligaciones contraídas con dichos órganos;
-
-> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-IX. Llevar puntual seguimiento respecto del cumplimiento del programa de trabajo de la Dirección General de Coordinación Metropolitana y Enlace Gubernamental;
-
-X. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
-
-> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-XI. Fortalecer los enlaces institucionales con las diferentes autoridades y coadyuvar en el desarrollo de programas especiales y estratégicos para dar seguimiento a los asuntos de su competencia;
-
-XII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
-
-XIII. Realizar el seguimiento de los proyectos estratégicos, que se requieran con las diferentes Unidades Administrativas de la Dependencia; y
-
-XIV. Las demás que le atribuyan otras disposiciones legales y administrativas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
+(DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 ###### Artículo 67.
 
-Corresponde a la Dirección Ejecutiva de Asuntos Agrarios:
+(DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
-I. Fungir como una unidad de consulta, coordinación, concertación y ejecución de acciones, para la inmediata atención de asuntos y conflictos en materia agraria, así como la realización de estudios y acciones que permitan la promoción de políticas que fomenten la actividad agraria en la Ciudad de México;
-
-II. Coadyuvar a la atención integral de las demandas campesinas, proponiendo programas y acciones dirigidas a su solución;
-
-III. Promover la coordinación entre el sector agrario y la Administración Pública, para procurar la regularización de la propiedad rural;
-
-IV. Ejecutar las políticas en materia agraria de la Administración Pública, con relación a la tenencia de la tierra;
-
-V. Asesorar y atender a los poseedores rurales, así como a las organizaciones que éstos conformen, en los trámites relativos a la regularización de sus tierras, así como para gestionar, preparar y ejecutar proyectos de capacitación agraria para propietarios y poseedores rurales;
-
-VI. Emitir opinión, sobre la ubicación de predios, que sirvan para determinar si los mismos se encuentran en terrenos rurales;
-
-VII. Coadyuvar con la Dirección General de Regularización Territorial, así como con el Instituto Nacional del Suelo Sustentable, para que inicien el procedimiento correspondiente para la regularización de la propiedad rural;
-
-VIII. Coordinarse con la Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural, en el seguimiento de los programas y acciones del fomento agropecuario para la Ciudad de México;
-
-IX. Promover la celebración de convenios entre las Dependencias de la Administración Pública y las organizaciones de propietarios rurales de la Ciudad de México para el apoyo y fomento en materia agraria;
-
-X. Intervenir como una instancia conciliadora que permita solucionar los conflictos en materia agraria;
-
-XI. Promover convenios de coordinación en materia agraria entre las Dependencias de la Administración Pública Federal, Estatal y de la Ciudad de México;
-
-XII. Integrar un sistema de información agraria que dé a conocer las necesidades de ese sector en la Ciudad de México;
-
-XIII. Elaborar estudios para realizar el diagnóstico de las necesidades de organización y capacitación agraria, así como proponer las políticas para el desarrollo de ese sector;
-
-XIV. Analizar la problemática a la que se enfrenten los grupos y núcleos agrarios de la Ciudad de México y emitir opinión sobre alternativas de solución; y
-
-XV. Las demás que le atribuyan otras disposiciones legales y administrativas.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 68.
 
-Corresponde a la Dirección General de Ordenamiento de la Vía Pública del Centro Histórico:
+Corresponde a la Dirección General de Programas de Alcaldías y Ordenamiento de la Vía Pública:
 
-I. Acordar con la persona Titular de la Subsecretaría de Programas de Alcaldías y Reordenamiento de la Vía Pública el despacho de los asuntos relacionados con el seguimiento de las acciones realizadas en el Centro Histórico de la Ciudad;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2020)</small>
+I. Acordar, con la persona titular de la Subsecretaría de Programas de Alcaldías y Reordenamiento de la Vía Pública, el despacho de los asuntos relacionados con el seguimiento de las acciones realizadas para la regulación y reordenamiento de las actividades que se realizan en la vía pública de la Ciudad de México, los establecimientos mercantiles, los espectáculos públicos y videojuegos;
 
-II. Planear, hacer propuestas, reorganizar y realizar de manera directa acciones tendientes a reordenar las actividades que se realizan en la vía pública del Centro Histórico;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-III. Coordinar las acciones interinstitucionales con las demás Dependencias, Unidades Administrativas, Alcaldías Y Órganos Desconcentrados de la Administración Pública, local y federal, así como organizaciones sociales, en materia de Reordenamiento en vía pública, en los Perímetros “A” y “B” del Centro Histórico de la Ciudad de México;
+II. Planear, reorganizar y hacer propuestas de acciones tendientes a reordenar las actividades que se realizan en la vía pública de la Ciudad de México;
 
-IV. Determinar junto con las diversas Unidades Administrativas las medidas y acciones necesarias para el uso adecuado de la vía pública en los Perímetros “A” y “B” del Centro Histórico de la Ciudad de México;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+III. Coordinar, en acuerdo con la persona titular de la Subsecretaría de Programas de Alcaldías y Reordenamiento de la Vía Pública, las acciones interinstitucionales con las demás Dependencias, Unidades Administrativas, Alcaldías y Órganos Desconcentrados de la Administración Pública, local y federal, así como organizaciones sociales en materia de reordenamiento en vía pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+IV. Dirigir, en acuerdo con la persona titular de la Subsecretaría de Programas de Alcaldías y Reordenamiento de la Vía Pública, las medidas y acciones necesarias para el uso adecuado de la vía pública en la Ciudad de México;
 
 V. Coordinar con las Unidades Administrativas que regulan el uso de la vía pública y los espectáculos mercantiles, la elaboración de proyectos y actividades que permitan el uso del espacio público;
 
-VI. Participar en la Comisión de Reordenamiento del Comercio en Vía Pública a fin de elaborar planteamientos que permitan implementar medidas para el adecuado desarrollo de las actividades que se lleven a cabo en los perímetros “A” y “B” del Centro Histórico;
+VI. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-VII. Recopilar y mantener actualizada la información de los locatarios y de quienes realizan actividades públicas en el Centro Histórico; y
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-VIII. Participar y opinar sobre las propuestas de reglamentos, disposiciones jurídicas y administrativas en coordinación con la Secretaría de Gobierno, las Alcaldías y la Autoridad del Centro Histórico en materia de asuntos relativos a la vía pública de los Perímetros “A” y “B” del Centro Histórico.
+VII. Recopilar y mantener actualizada la información de las personas locatarias y de quienes realizan actividades públicas en la Ciudad de México;
 
-> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2020)</small>
+VIII. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-IX. Coordinar y ejecutar con apoyo de la Secretaría de Seguridad Ciudadana, las medidas administrativas que sean necesarias a fin de mantener o recuperar la vía pública mediante el retiro de obstáculos que impidan su uso adecuado en el Centro Histórico.
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+IX. Coordinar y ejecutar con apoyo de la Secretaría de Seguridad Ciudadana, las medidas administrativas que sean necesarias a fin de mantener o recuperar la vía pública, mediante el retiro de obstáculos que impidan su uso adecuado en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+X. Recibir, concentrar y mantener actualizada la información proporcionada por las Alcaldías sobre los establecimientos mercantiles, espectáculos públicos, videojuegos y las actividades que se realicen en la vía pública, salvo que competa a otra Dependencia o Unidad Administrativa expresamente;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XI. Concertar, en acuerdo con la persona titular de la Subsecretaría de Programas de Alcaldías y Reordenamiento de la Vía Pública, acciones con particulares y representantes de las organizaciones que realicen espectáculos públicos, así como actividades en establecimientos mercantiles, en la vía pública y, en general, con lo relacionado a los programas de las Alcaldías para conciliar los intereses de diversos sectores, salvo que competa a otra Dependencia o Unidad Administrativa expresamente;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XII. Operar, integrar y autorizar el registro de videojuegos;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XIII. Llevar y actualizar de forma permanente un registro de las personas que ejerzan actividades en la vía pública de la Ciudad de México y en su caso a las organizaciones que se encuentren inscritos, así como de los establecimientos mercantiles y espectáculos públicos;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XIV. Coordinar la realización de estudios técnicos para determinar la viabilidad del establecimiento de empresas y unidades productivas, como una alternativa para las personas que realizan actividades en la vía pública de la Ciudad de México, con el fin de someter a consideración de la persona titular de la Subsecretaría de Programas de Alcaldías y Reordenamiento de la Vía Pública, los planes y programas que resulten;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XV. Proporcionar asesoría técnica, jurídica y administrativa a las personas que realicen sus actividades en la vía pública;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XVI. Instrumentar mecanismos de coordinación entre las Alcaldías y las Unidades Administrativas de la Administración Pública de la Ciudad de México, para mejorar el desempeño de los programas de las Alcaldías;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XVII. Impulsar y coadyuvar en las acciones emprendidas por las Alcaldías para la recuperación de espacios públicos a favor de la Ciudadanía; y
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XVIII. Las demás que se deriven de otras disposiciones legales aplicables y las que le asigne la persona titular de la Subsecretaría de Programas de Alcaldías y Reordenamiento de la Vía Pública.
 
 ###### Artículo 69.
 
@@ -3320,13 +3384,85 @@ IX. Diseñar acciones y programas de prevención del delito para las personas qu
 
 X. Las demás que se deriven de otras disposiciones legales aplicables y las que asigne la persona Titular de la Dirección General.
 
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+Artículo 70 BIS. Corresponde a la Dirección Ejecutiva de Análisis Informativo:
+
+I. Proponer, innovar e implementar planes y/o estrategias de información que involucren a las diferentes Unidades Administrativas dependientes de la Secretaría de Gobierno y permitan tener elementos base para la toma de decisiones;
+
+II. Elaborar y proponer contenidos para las distintas plataformas digitales y medios de la Secretaría;
+
+III. Establecer un plan de desarrollo de acciones de información, para la adopción de mejores prácticas de comunicación en la Secretaría;
+
+IV. Detectar, analizar y elaborar mecanismos que permitan evaluar qué planes y/o procesos de información son susceptibles de mejora;
+
+V. Recopilar información de las Unidades Administrativas que conforman a la Secretaría, con la finalidad de elaborar estrategias para la difusión de las acciones a implementarse;
+
+VI. Monitorear y evaluar resultados del impacto de las campañas establecidas para la difusión de las acciones de gobierno;
+
+VII. Cobertura de acciones para la generación de materiales informativos;
+
+VIII. Elaborar el plan anual de información con el objetivo de priorizar la realización de materiales que contribuyan a mejorar los mecanismos comunicativos;
+
+IX. Atender de forma permanente la información que publiquen los usuarios de las redes sociales, páginas electrónicas u otros en la red internet, así como operar las plataformas digitales de la Secretaría;
+
+X. Monitorear los hechos relacionados con las incidencias que se publican en la red, a fin de prever cualquier tipo de activación político-social;
+
+XI. Atender las demandas ciudadanas que se generen a través de internet e informar sobre ello al área correspondiente;
+
+XII. Crear un índice de datos con la información recopilada en la red y los materiales propios;
+
+XIII. Realizar análisis cualitativos y cuantitativos de la información recabada e integrar informes periódicos con el objetivo de contribuir a la toma de decisiones de la Secretaría;
+
+XIV. Desarrollar mecanismos de búsqueda para acceder a la información que se tiene; y
+
+XV. Recopilar el acervo documental consistente en material de soporte gráfico, sonoro, videográfico e informativo derivado de las actividades de la persona titular de la Secretaría.
+
+XVI. Las demás que le atribuyan otras disposiciones legales y administrativas, así como aquellas que le asigne la persona titular de la Secretaría de Gobierno.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+Artículo 70 TER.- Corresponde a la Dirección Ejecutiva de Asuntos Agrarios:
+
+I. Fungir como unidad de consulta, coordinación, concertación y ejecución de acciones para la inmediata atención de asuntos y conflictos en materia agraria, así como la realización de estudios y acciones que permitan la promoción de políticas que fomenten la actividad agraria en la Ciudad de México;
+
+II. Coadyuvar a la atención integral de las demandas campesinas, proponiendo programas y acciones dirigidas a su solución;
+
+III. Promover la coordinación entre el sector agrario y la Administración Pública para procurar la regularización de la propiedad rural;
+
+IV. Ejecutar las políticas en materia agraria con relación a la tenencia de la tierra;
+
+V. Asesorar y atender a los poseedores rurales, así como a las organizaciones que estos conformen, en los trámites relativos a la regularización de sus tierras, así como para gestionar, preparar y ejecutar proyectos de capacitación agraria para propietarios y poseedores rurales;
+
+VI. Emitir opinión sobre la ubicación de predios que sirvan para determinar si los mismos se encuentran en terrenos rurales;
+
+VII. Coadyuvar con la Dirección General de Regularización Territorial, así como con el Instituto Nacional del Suelo Sustentable, para que inicien el procedimiento correspondiente para la regularización de la propiedad rural;
+
+VIII. Coordinarse con la Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural, en el seguimiento de los programas y acciones del fomento agropecuario para la Ciudad de México;
+
+IX. Promover la celebración de convenios entre las Dependencias de la Administración Pública y las organizaciones de propietarios rurales de la Ciudad de México para el apoyo y fomento en materia agraria;
+
+X. Intervenir como una instancia conciliadora que permita solucionar los conflictos en materia agraria;
+
+XI. Promover convenios de coordinación en materia agraria entre las Dependencias de la Administración Pública Federal, Estatal y de la Ciudad de México;
+
+XII. Integrar un sistema de información agraria que dé a conocer las necesidades de ese sector en la Ciudad de México;
+
+XIII. Elaborar estudios para realizar el diagnóstico de las necesidades de organización y capacitación agraria, así como proponer las políticas para el desarrollo de ese sector;
+
+XIV. Analizar la problemática a la que se enfrenten los grupos y núcleos agrarios de la Ciudad de México y emitir opinión sobre alternativas de solución; y
+
+XV. Las demás que le atribuyan otras disposiciones legales y administrativas, así como aquellas que le asigne la persona titular de la Secretaría de Gobierno.
+
 #### SECCIÓN VII. DE LA SECRETARÍA DE DESARROLLO URBANO Y VIVIENDA
 
 ###### Artículo 71.
 
 Corresponde a la Dirección General de Armonización Contable y Rendición de Cuentas:
 
-I. Normar y establecer los lineamientos para la captación de información programático-presupuestal de las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública local, así como integrar la información para la elaboración de los informes de avance trimestral que la normatividad señale sobre la ejecución y resultados obtenidos de los presupuestos y programas aprobados;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+I. Normar y establecer los lineamientos para la captación de información presupuestal de las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública local, así como integrar la información para la elaboración de los informes de avance trimestral que la normatividad señale sobre la ejecución de los presupuestos aprobados;
 
 II. Efectuar, conforme a la normatividad en la materia, los registros contables de la administración pública central adicionalmente a los que incorporen los centros de registro al sistema electrónico que administra la Secretaría de Administración y Finanzas, así como los necesarios para la consolidación de la información para la emisión y presentación de informes financieros del Poder Ejecutivo;
 
@@ -3338,11 +3474,17 @@ IV. Consolidar la información financiera de la Administración Pública Central
 
 V. Emitir, actualizar, difundir y aplicar la Normatividad Contable de la Administración Pública de la Ciudad de México, y adoptar la que se derive de la Ley General de Contabilidad Gubernamental y demás normatividad aplicable;
 
-VI. Normar y establecer los lineamientos que deberán observar las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública Local, para el envío de la información programática, presupuestal, contable y financiera, para la formulación del informe de la Cuenta Pública de la Ciudad de México;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-VII. Establecer los lineamientos que deberán observar los Órganos de Gobierno y los Órganos Autónomos a los que se refiere la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México, respecto de la información programática, presupuestal, contable y financiera que deberán remitir para efectos de la integración, conforme lo establezca la normatividad aplicable, de la Cuenta Pública de la Ciudad de México, y
+VI. Normar y establecer los lineamientos que deberán observar las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública Local, para el envío de la información presupuestal, contable y financiera, para la formulación del informe de la Cuenta Pública de la Ciudad de México;
 
-VIII. Establecer los lineamientos que deberán observar los Órganos de Gobierno y los Órganos Autónomos a los que se refiere la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México, respecto de la información programático-presupuestal y de otra índole que deberán remitir para efectos de la integración de los informes trimestrales de la Ciudad de México que establezca la normatividad aplicable;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+VII. Establecer los lineamientos que deberán observar los Órganos de Gobierno y los Órganos Autónomos a los que se refiere la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México, respecto de la información presupuestal, contable y financiera que deberán remitir para efectos de la integración, conforme lo establezca la normatividad aplicable, de la Cuenta Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+VIII. Establecer los lineamientos que deberán observar los Órganos de Gobierno y los Órganos Autónomos a los que se refiere la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México, respecto de la información presupuestal y de otra índole que deberán remitir para efectos de la integración de los informes trimestrales de la Ciudad de México que establezca la normatividad aplicable;
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -3380,17 +3522,25 @@ IV. Establecer los lineamientos de la armonización contable que deberán de obs
 
 Corresponde a la Dirección Ejecutiva de Integración de Informes de Rendición de Cuentas:
 
-I. Normar e integrar la información programática presupuestal remitida por las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública Local, para la elaboración del Informe de Avance Trimestral sobre la ejecución y cumplimiento de los presupuestos y programas aprobados;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-II. Definir la metodología para la captación de información programática-presupuestal de las Unidades Responsables del Gasto, para la integración de los diferentes informes sobre el ejercicio del gasto de las finanzas públicas de la Ciudad de México; y
+I. Normar e integrar la información presupuestal remitida por las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública Local, para la elaboración del Informe de Avance Trimestral sobre la ejecución y cumplimiento de los presupuestos aprobados;
 
-III. Supervisar las acciones de integración y revisión de la información programático-presupuestal que se capta de las Unidades Responsables del Gasto, para efectos de la integración de los distintos informes requeridos respecto del ejercicio del gasto de las finanzas públicas de la Ciudad de México.
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+II. Definir la metodología para la captación de información presupuestal de las Unidades Responsables del Gasto, para la integración de los diferentes informes sobre el ejercicio del gasto de las finanzas públicas de la Ciudad de México; y
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+III. Supervisar las acciones de integración y revisión de la información presupuestal que se capta de las Unidades Responsables del Gasto, para efectos de la integración de los distintos informes requeridos respecto del ejercicio del gasto de las finanzas públicas de la Ciudad de México.
 
 ###### Artículo 75.
 
 Corresponde a la Dirección General de Gasto Eficiente “A”:
 
-I. Recabar e integrar, de acuerdo con la normatividad aplicable, los programas operativos anuales y anteproyectos de presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+I. Recabar e integrar, de acuerdo con la normativa aplicable, los anteproyectos de presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas;
 
 II. Proponer y, en su caso, opinar sobre las modificaciones al marco normativo competencia de la Subsecretaría de Egresos;
 
@@ -3400,27 +3550,35 @@ IV. Asesorar y apoyar a las Unidades Responsables del Gasto que le sean asignada
 
 V. Verificar que los proyectos de calendarios presupuestales remitidos por las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, atiendan la normatividad aplicable, y, en su caso, emitir los comentarios y solicitar las adecuaciones correspondientes;
 
-VI. Formular el anteproyecto, programa operativo anual o calendario de presupuesto de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, cuando no los presenten conforme a la normatividad, los términos solicitados o las previsiones de ingreso comunicadas;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-VII. Analizar el comportamiento del ejercicio del presupuesto autorizado a las Unidades Responsables del Gasto que le sean asignadas, para generar informes que coadyuven en la toma de decisiones;
+VI. Formular el anteproyecto o calendario de presupuesto de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, cuando no los presenten conforme a la normatividad, los términos solicitados o las previsiones de ingreso comunicadas;
 
-VIII. Verificar que las acciones que establezcan en sus presupuestos de egresos las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, se vinculen, conforme a la normatividad, con los objetivos del Plan General de Desarrollo de la Ciudad de México;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+VII. Analizar el comportamiento del compromiso y ejercicio del presupuesto autorizado a las Unidades Responsables del Gasto que le sean asignadas, para generar informes que coadyuven en la toma de decisiones;
+
+VIII. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
 IX. Analizar y, en su caso, autorizar las adecuaciones programático-presupuestales compensadas solicitadas, conforme a la normatividad aplicable, por las Unidades Responsables del Gasto que le sean asignadas;
 
-X. Registrar el ejercicio presupuestal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y conforme a la calendarización del Presupuesto de Egresos; lo anterior con base en los documentos elaborados y autorizados para tal fin por los funcionarios facultados por las Unidades Responsables del Gasto que le sean asignadas;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-XI. Efectuar las conciliaciones programático-presupuestales mensuales con las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que le sean asignadas, dentro de los plazos que establece la normatividad aplicable;
+X. Registrar el compromiso y ejercicio presupuestal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y conforme a la calendarización del Presupuesto de Egresos; lo anterior con base en los documentos elaborados y autorizados para tal fin por los funcionarios facultados por las Unidades Responsables del Gasto que le sean asignadas;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XI. Efectuar las conciliaciones presupuestales mensuales con las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que le sean asignadas, dentro de los plazos que establece la normatividad aplicable;
 
 XII. Recabar e integrar el monto y características del pasivo circulante del año inmediato anterior a cargo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, de acuerdo a la normatividad aplicable;
 
 XIII. Participar en los órganos colegiados y órganos de gobierno de las Entidades, Dependencias, Unidades Administrativas, Órganos Desconcentrados y Alcaldías de la Administración Pública, atendiendo la aplicación de la normatividad relacionada con aspectos presupuestales;
 
-XIV. Llevar a cabo el monitoreo y seguimiento de los indicadores de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, mediante las acciones que al respecto establezca la normatividad;
+XIV. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-XV. Dar seguimiento a las acciones que las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas realicen a efecto de cumplir con las recomendaciones o mejoras que deriven de la evaluación de los resultados del ejercicio de los programas presupuestarios, emitiendo los comentarios sobre el avance del cumplimiento de dichas recomendaciones o mejoras; y
+XV. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-XVI. Emitir la opinión que soliciten las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, respecto del impacto presupuestal que podría generar la creación o modificación de sus estructuras administrativas; y
+XVI. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
 XVII. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
@@ -3432,9 +3590,11 @@ I. Dirigir el análisis y la integración de los anteproyectos de presupuesto de
 
 II. Coordinar el análisis de las adecuaciones programático presupuestarias compensadas solicitadas por las Unidades Responsables del Gasto asignadas;
 
-III. Dirigir la atención de las Cuentas por Liquidar Certificadas y los Documentos Múltiples elaborados y autorizados por los funcionarios públicos de las Unidades Responsables del Gasto asignadas y solicitados en el sistema informático;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-IV. Coordinar las acciones que permitan coadyuvar en el seguimiento a los programas presupuestarios de las Unidades Responsables del Gasto asignadas;
+III. Dirigir el registro del compromiso presupuestal, así como la atención de las Cuentas por Liquidar Certificadas y los Documentos Múltiples elaborados y autorizados por los funcionarios públicos de las Unidades Responsables del Gasto asignadas y solicitados en el sistema informático;
+
+IV. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
 V. Coordinar la atención de los requerimientos de órganos jurisdiccionales, órganos autónomos, órganos de control y de fiscalización, que le sean solicitados directamente a la Dirección General de Gasto Eficiente o a las áreas adscritas a ésta, en su caso, coadyuvar en la atención de aquellas que le sean requeridas a la Subsecretaría de Egresos; así como de las solicitudes de información pública cuando incidan en el presupuesto de egresos de las Unidades Responsables del Gasto asignadas; y
 
@@ -3448,9 +3608,11 @@ I. Dirigir el análisis y la integración de los anteproyectos de presupuesto de
 
 II. Coordinar el análisis de las adecuaciones programático presupuestarias compensadas solicitadas por las Unidades Responsables del Gasto asignadas;
 
-III. Dirigir la atención de las Cuentas por Liquidar Certificadas y los Documentos Múltiples elaborados y autorizados por los funcionarios públicos de las Unidades Responsables del Gasto asignadas y solicitados en el sistema informático;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-IV. Coordinar las acciones que permitan coadyuvar en el seguimiento a los programas presupuestarios de las Unidades Responsables del Gasto asignadas;
+III. Dirigir el registro del compromiso presupuestal, así como la atención de las Cuentas por Liquidar Certificadas y los Documentos Múltiples elaborados y autorizados por los funcionarios públicos de las Unidades Responsables del Gasto asignadas y solicitados en el sistema informático;
+
+IV. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
 V. Coordinar la atención de los requerimientos de órganos jurisdiccionales, órganos autónomos, órganos de control y de fiscalización, que le sean solicitados directamente a la Dirección General de Gasto Eficiente o a las áreas adscritas a ésta, en su caso, coadyuvar en la atención de aquellas que le sean requeridas a la Subsecretaría de Egresos; así como de las solicitudes de información pública cuando incidan en el presupuesto de egresos de las Unidades Responsables del Gasto asignadas; y
 
@@ -3460,7 +3622,9 @@ VI. Coordinar, en el ámbito de las Unidades Responsables del Gasto asignadas, l
 
 Corresponde a la Dirección General de Gasto Eficiente "B":
 
-I. Recabar e integrar, de acuerdo con la normatividad aplicable, los programas operativos anuales y anteproyectos de presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+I. Recabar e integrar, de acuerdo con la normatividad aplicable, los anteproyectos de presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas;
 
 II. Proponer y, en su caso, opinar sobre las modificaciones al marco normativo competencia de la Subsecretaría de Egresos;
 
@@ -3470,29 +3634,27 @@ IV. Asesorar y apoyar a las Unidades Responsables del Gasto que le sean asignada
 
 V. Verificar que los proyectos de calendarios presupuestales remitidos por las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, atiendan la normatividad aplicable, y, en su caso, emitir los comentarios y solicitar las adecuaciones correspondientes;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-VI. Formular el anteproyecto, programa operativo anual o calendario de presupuesto de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, cuando no los presenten conforme a la normatividad, los términos solicitados o las previsiones de ingreso comunicadas;
+VI. Formular el anteproyecto o calendario de presupuesto de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, cuando no los presenten conforme a la normatividad, los términos solicitados o las previsiones de ingreso comunicadas;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-VII. Analizar el comportamiento del ejercicio del presupuesto autorizado a las Unidades Responsables del Gasto que le sean asignadas, para generar informes que coadyuven en la toma de decisiones;
+VII. Analizar el comportamiento del compromiso y ejercicio del presupuesto autorizado a las Unidades Responsables del Gasto que le sean asignadas, para generar informes que coadyuven en la toma de decisiones;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-VIII. Verificar que las acciones que establezcan en sus presupuestos de egresos las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública que le sean asignadas, se vinculen, conforme a la normatividad, con los objetivos del Plan General de Desarrollo de la Ciudad de México;
+VIII. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 IX. Analizar y, en su caso, autorizar las adecuaciones programático-presupuestales compensadas solicitadas, conforme a la normatividad aplicable, por las Unidades Responsables del Gasto que le sean asignadas;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-X. Registrar el ejercicio presupuestal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y conforme a la calendarización del Presupuesto de Egresos; lo anterior con base en los documentos elaborados y autorizados para tal fin por los funcionarios facultados por las Unidades Responsables del Gasto que le sean asignadas;
+X. Registrar el compromiso y ejercicio presupuestal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y conforme a la calendarización del Presupuesto de Egresos; lo anterior con base en los documentos elaborados y autorizados para tal fin por los funcionarios facultados por las Unidades Responsables del Gasto que le sean asignadas;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-XI. Efectuar las conciliaciones programático-presupuestales mensuales con las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que le sean asignadas, dentro de los plazos que establece la normatividad aplicable;
+XI. Efectuar las conciliaciones presupuestales mensuales con las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que le sean asignadas, dentro de los plazos que establece la normatividad aplicable;
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -3502,17 +3664,11 @@ XII. Recabar e integrar el monto y características del pasivo circulante del a�
 
 XIII. Participar en los órganos colegiados y órganos de gobierno de las Entidades, Dependencias, Unidades Administrativas, Órganos Desconcentrados y Alcaldías de la Administración Pública, atendiendo la aplicación de la normatividad relacionada con aspectos presupuestales;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+XIV. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-XIV. Llevar a cabo el monitoreo y seguimiento de los indicadores de los programas presupuestarios de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, mediante las acciones que al respecto establezca la normatividad;
+XV. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XV. Dar seguimiento a las acciones que las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas realicen a efecto de cumplir con las recomendaciones o mejoras que deriven de la evaluación de los resultados del ejercicio de los programas presupuestarios, emitiendo los comentarios sobre el avance del cumplimiento de dichas recomendaciones o mejoras;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XVI. Emitir la opinión que soliciten las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, respecto del impacto presupuestal que podría generar la creación o modificación de sus estructuras administrativas; y
+XVI. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -3526,9 +3682,11 @@ I. Dirigir el análisis y la integración de los anteproyectos de presupuesto de
 
 II. Coordinar el análisis de las adecuaciones programático presupuestarias compensadas solicitadas por las Unidades Responsables del Gasto asignadas;
 
-III. Dirigir la atención de las Cuentas por Liquidar Certificadas y los Documentos Múltiples elaborados y autorizados por los funcionarios públicos de las Unidades Responsables del Gasto asignadas y solicitados en el sistema informático;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-IV. Coordinar las acciones que permitan coadyuvar en el seguimiento a los programas presupuestarios de las Unidades Responsables del Gasto asignadas;
+III. Dirigir el registro del compromiso presupuestal, así como la atención de las Cuentas por Liquidar Certificadas y los Documentos Múltiples elaborados y autorizados por los funcionarios públicos de las Unidades Responsables del Gasto asignadas y solicitados en el sistema informático;
+
+IV. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
 V. Coordinar la atención de los requerimientos de órganos jurisdiccionales, órganos autónomos, órganos de control y de fiscalización, que le sean solicitados directamente a la Dirección General de Gasto Eficiente o a las áreas adscritas a ésta, en su caso, coadyuvar en la atención de aquellas que le sean requeridas a la Subsecretaría de Egresos; así como de las solicitudes de información pública cuando incidan en el presupuesto de egresos de las Unidades Responsables del Gasto asignadas; y
 
@@ -3542,9 +3700,11 @@ I. Dirigir el análisis y la integración de los anteproyectos de presupuesto de
 
 II. Coordinar el análisis de las adecuaciones programático presupuestarias compensadas solicitadas por las Unidades Responsables del Gasto asignadas;
 
-III. Dirigir la atención de las Cuentas por Liquidar Certificadas y los Documentos Múltiples elaborados y autorizados por los funcionarios públicos de las Unidades Responsables del Gasto asignadas y solicitados en el sistema informático;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-IV. Coordinar las acciones que permitan coadyuvar en el seguimiento a los programas presupuestarios de las Unidades Responsables del Gasto asignadas;
+III. Dirigir el registro del compromiso presupuestal, así como la atención de las Cuentas por Liquidar Certificadas y los Documentos Múltiples elaborados y autorizados por los funcionarios públicos de las Unidades Responsables del Gasto asignadas y solicitados en el sistema informático;
+
+IV. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
 V. Coordinar la atención de los requerimientos de órganos jurisdiccionales, órganos autónomos, órganos de control y de fiscalización, que le sean solicitados directamente a la Dirección General de Gasto Eficiente o a las áreas adscritas a ésta, en su caso, coadyuvar en la atención de aquellas que le sean requeridas a la Subsecretaría de Egresos; así como de las solicitudes de información pública cuando incidan en el presupuesto de egresos de las Unidades Responsables del Gasto asignadas; y
 
@@ -3568,7 +3728,9 @@ VI. Expedir las disposiciones, lineamientos o metodologías específicas para la
 
 VII. Opinar sobre el perfil que debe cubrir el personal de las Unidades Ejecutoras que realice tareas relativas a la implementación y operación del Presupuesto Basado en Resultados y el Sistema de Evaluación del Desempeño, así como capacitar y otorgar el apoyo técnico a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades para la formulación de sus programas presupuestarios, y analizar y emitir los comentarios respecto de las propuestas de programas presupuestarios que aquellas le presenten; así como capacitar y otorgar el apoyo técnico en las materias de monitoreo, seguimiento, y demás vinculadas a la evaluación de los resultados de los programas presupuestarios;
 
-VIII. Integrar el Anteproyecto de Presupuesto de Egresos y Programa Operativo Anual, conforme a los lineamientos que para tal efecto se emitan de acuerdo a la fracción anterior, y someterlos a consideración del superior;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+VIII. Integrar el Anteproyecto de Presupuesto de Egresos y Programa Operativo Anual, conforme a los lineamientos que para tal efecto se emitan y someterlos a consideración del superior;
 
 IX. Analizar y en su caso, emitir las autorizaciones previas que, con base en los anteproyectos de presupuesto de egresos, soliciten las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades para contraer compromisos que permitan iniciar o continuar a partir del primero de enero del año siguiente, los proyectos, servicios y obras que por su importancia y características así lo requieran; los compromisos estarán condicionados a la aprobación del presupuesto de egresos correspondiente;
 
@@ -3582,7 +3744,9 @@ XIII. Emitir la validación presupuestal de los Programas Anuales de Adquisicion
 
 XIV. Analizar y, en su caso, autorizar y registrar las afectaciones programático presupuestarias líquidas que las Unidades Responsables del Gasto soliciten a través del Sistema Informático de Planeación de Recursos Gubernamentales;
 
-XV. Recopilar la información derivada de los documentos de gestión presupuestal registrados en el Sistema Informático de Planeación de Recursos Gubernamentales, para su envío a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, a fin de que estas realicen las conciliaciones respectivas;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XV. Analizar el comportamiento del gasto de la Administración Pública de la Ciudad de México en las diversas fuentes de financiamiento aprobadas, con base en la información derivada de los documentos de gestión presupuestal registrados en el Sistema Informático de Planeación de Recursos Gubernamentales, que permita la toma de decisiones y sugerir medidas para su contención, en su caso, formulando el balance presupuestal; así como remitir la información presupuestal a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, a fin de que estas realicen las conciliaciones respectivas;
 
 XVI. Analizar y en su caso, incorporar al Sistema Informático de Planeación de Recursos Gubernamentales, las solicitudes de adición de claves presupuestales que presenten las Unidades Responsables del Gasto, así como actualizar en el mismo sistema los catálogos de los elementos que conforman la clave presupuestal;
 
@@ -3596,9 +3760,23 @@ XX. Llevar a cabo acciones de seguimiento para asegurar que los servidores públ
 
 XXI. Llevar a cabo el monitoreo y seguimiento de los indicadores de los programas presupuestarios de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública local; someter a consideración del superior jerárquico las correspondientes normas generales, y; expedir las respectivas disposiciones, lineamientos o metodologías específicas;
 
-XXII. Analizar y, en su caso, integrar las fichas técnicas de los proyectos de inversión que remitan las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades a través del Sistema Informático de Planeación de Recursos Gubernamentales; y
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-XXIII. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+XXII. Controlar la cartera de proyectos de inversión, así como analizar y, en su caso, integrar las fichas técnicas de los proyectos de inversión que remitan las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, a través del Sistema Informático de Planeación de Recursos Gubernamentales;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XXIII. Expedir las disposiciones específicas relativas a la integración de información para la formulación de los informes de resultados de los programas presupuestarios de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública local, que se reportan en los Informes de Avance Trimestral y en la Cuenta Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XXIV. Emitir la opinión que soliciten las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública que le sean asignadas, respecto del impacto presupuestal que podría generar la creación o modificación de sus estructuras administrativas;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XXV. Administrar y operar el Sistema Informático de Planeación de Recursos Gubernamentales promoviendo la optimización y simplificación de los procesos presupuestarios; y
+
+XXVI. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
 ###### Artículo 82.
 
@@ -3606,47 +3784,49 @@ Corresponde a la Dirección Ejecutiva de Implementación del Presupuesto Basado 
 
 I. Llevar a cabo las acciones que permitan, de manera progresiva, el diseño, implementación y operación del Presupuesto Basado en Resultados y el Sistema de Evaluación del Desempeño a que se refiere la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México en las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías de la Administración Pública local;
 
-II. Emitir las normas y lineamientos que deberán de observar las Dependencias, Órganos Desconcentrados y Alcaldías de la Administración Pública Local para la implementación del Presupuesto Basado en Resultados y el Sistema de Evaluación del Desempeño;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+II. Emitir las normas y lineamientos que deberán de observar las Dependencias, Órganos Desconcentrados Entidades y Alcaldías de la Administración Pública Local para la implementación del Presupuesto Basado en Resultados y el Sistema de Evaluación del Desempeño; así como para la integración de los informes de resultados de los Programas presupuestarios que se reportan en los Informes de Avance Trimestral y la Cuenta Pública de la Ciudad de México;
 
 III. Capacitar y otorgar el apoyo técnico a las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías para la formulación de las matrices indicadores (sic) para resultados bajo la metodología del marco lógico;
 
 IV. Dar seguimiento a las acciones que las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías realicen a efecto de solventar las recomendaciones o mejoras que deriven de la evaluación de los resultados del ejercicio del gasto público, emitiendo los comentarios u observaciones que al respecto considere;
 
-V. Llevar a cabo acciones de capacitación de los servidores públicos de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías, en materia del Presupuesto Basado en Resultados y el Sistema de Evaluación del Desempeño; y
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-VI. Llevar a cabo el monitoreo y seguimiento de los indicadores de los programas presupuestarios de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías de la Administración Pública local.
+V. Llevar a cabo acciones de capacitación de las personas servidoras públicas de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías, en materia del Presupuesto Basado en Resultados y el Sistema de Evaluación del Desempeño;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+VI. Llevar a cabo el monitoreo y seguimiento de los indicadores de los programas presupuestarios de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías de la Administración Pública local;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+VII. Analizar los movimientos programáticos de los Programas presupuestarios de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+VIII. Dirigir la emisión de los lineamientos que deberán observar las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, para efecto de la vinculación de sus presupuestos con los objetivos contenidos en el Programa General de Desarrollo de la Ciudad de México o, en su caso, en los instrumentos de planeación vigentes;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+IX. Dirigir las etapas de planeación y programación de los anteproyectos de presupuesto de egresos de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías y su captura y registro en el Sistema Informático de Planeación de Recursos Gubernamentales;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+X. Coordinar la emisión de las normas, lineamientos y términos que deberán observar las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades, para la formulación y envío de los Programas Operativos Anuales y Anteproyectos de Presupuesto de Egresos con enfoque a resultados;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XI. Supervisar la integración de los Programas Operativos Anuales de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías; y
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XII. Dirigir la integración de la Estructura programática de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías, así como el estudio y procedencia de las solicitudes de creación de nuevas estructuras presupuestarias que requieran las Unidades Responsables de Gasto.
 
 ###### Artículo 83.
 
-Corresponde a la Dirección Ejecutiva de Previsión y Control del Gasto:
-
-I. Dirigir las actividades tendientes a la integración del anteproyecto de presupuesto, en observancia de las disposiciones contenidas en los instrumentos de planeación vigentes y en coordinación con la Dirección Ejecutiva de Implementación del Presupuesto basado en resultados y Evaluación del Desempeño;
-
-II. Dirigir, en coordinación con la Dirección Ejecutiva de Implementación del Presupuesto basado en resultados y Evaluación del Desempeño, la emisión de los lineamientos que deberán observar las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, para efecto de la vinculación de sus presupuestos con los objetivos contenidos en el Programa General de Desarrollo de la Ciudad de México o, en su caso, en los instrumentos de planeación vigentes;
-
-III. Coordinar la emisión de las normas, lineamientos y términos que deberán observar las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades, para la formulación y envío de los Programas Operativos Anuales y Anteproyectos de Presupuesto de Egresos con enfoque a resultados;
-
-IV. Coordinar la integración de los techos presupuestales, la previsión de gastos de operación de la Administración Pública de la Ciudad de México, así como los calendarios presupuestales;
-
-V. Dirigir el estudio y evaluación de la funcionalidad del sistema informático hacia su potencialización, la mejora de procesos presupuestarios, su optimización y simplificación;
-
-VI. Controlar el gasto de la Administración Pública de la Ciudad de México y generar los informes que se precisan para la toma de decisiones, así como sugerir al Director General la expedición de normativa específica que se precisa;
-
-VII. Dirigir la preparación del avance del ejercicio del gasto de recursos propios y federales de las Dependencias, Órganos Desconcentrados, Entidades y de las Alcaldías; así como también formular el balance presupuestal;
-
-VIII. Coordinar la cartera de proyectos de inversión y la aprobación de las fichas técnicas correspondientes;
-
-IX. Dirigir la gestión integral de las autorizaciones multianuales requeridas por las Unidades Responsables de Gasto que coadyuven al cumplimiento de sus objetivos, dentro del marco normativo aplicable;
-
-X. Dirigir la atención de las solicitudes de autorización previa tramitadas por las Unidades Responsables de Gasto, así como los requerimientos para convocar a procesos de adjudicación sin contar con la suficiencia presupuestal;
-
-XI. Analizar el informe del comportamiento presupuestal del Sector Paraestatal de la Ciudad de México, así como determinar la procedencia del registro de los instrumentos presupuestarios promovidos por dicho Sector en coordinación con las Direcciones Generales de Gasto Eficiente;
-
-XII. Coordinar la integración de información que normativamente debe publicar la Subsecretaría de Egresos, respecto al calendario de entrega, porcentaje, fórmulas y variables utilizadas, de los Fondos de Aportaciones y de las Participaciones de Ingresos Federales, así como las publicaciones trimestrales y de ajuste anual establecidas en la Ley de Coordinación Fiscal;
-
-XIII. Dirigir la validación del Programa Anual de Adquisiciones Arrendamiento y Prestación de Servicios, en términos presupuestales, que presentan las Unidades Responsables de Gasto; y
-
-XIV. Dirigir el estudio y la procedencia de las solicitudes de creación de nuevas estructuras presupuestarias y Actividades Institucionales que requieran las Unidades Responsables de Gasto, en conjunto con la Dirección Ejecutiva de Implementación del Presupuesto basado en resultados y Evaluación del Desempeño.
+(DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 ###### Artículo 84.
 
@@ -4748,11 +4928,17 @@ Corresponde a la Dirección General de Recursos Materiales y Servicios Generales
 
 I. Participar con carácter de asesor permanente y, en su caso, de acuerdo con sus atribuciones, coadyuvar en el funcionamiento de los órganos colegiados legalmente constituidos, así como proponer las medidas tendientes a eficientar su operación; de acuerdo a los principios de transparencia, austeridad, racionalidad y eficacia;
 
-II. Realizar los análisis correspondientes para determinar el procedimiento a llevar acabo (sic), a fin de optimizar costos, tiempos y transparentar las adquisiciones de bienes o servicios que requieran las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad, así como las Alcaldías;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-III. Asesorar a las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad, así como las Alcaldías, por conducto de las Direcciones Generales de Administración y homólogos de la Administración Pública de la Ciudad de México en materia de adquisiciones, arrendamientos, prestación de servicios y compras consolidadas;
+II. Realizar los análisis correspondientes para determinar el procedimiento a fin de optimizar costos, tiempos y transparentar las adquisiciones de bienes o servicios que requieran las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad y Alcaldías. Asimismo, integrar informes periódicos de análisis y recomendaciones del gasto público en adquisiciones a partir del avance del Programa Anual de Adquisiciones, Arrendamientos y Prestación de Servicios y sus actualizaciones, que comprendan propuestas de mejora normativa, procesos y gestión, además de participar y conducir la coordinación entre Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad que tengan como propósito garantizar mayor eficiencia, trazabilidad, transparencia, apertura, inclusión y competencia en los procedimientos de contratación;
 
-IV. Supervisar a las dependencias, órganos desconcentrados y entidades de la administración pública de la ciudad, así como las alcaldías en la elaboración de su Programa Anual de Adquisiciones, Arrendamientos y Prestación de Servicios.
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+III. Asesorar a las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad, así como las Alcaldías, por conducto de las Direcciones Generales de Administración y homólogos de la Administración Pública de la Ciudad de México en materia de adquisiciones, arrendamientos, prestación de servicios y compras consolidadas, así como requerir la información necesaria para este fin;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+IV. Supervisar a las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad, así como las Alcaldías en la elaboración de su Programa Anual de Adquisiciones, Arrendamientos y Prestación de Servicios, así como monitorear los procedimientos de contratación y contratos reportados con indicadores periódicos de eficiencia, transparencia, competencia y de riesgos de corrupción;
 
 V. Asesorar a las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad, así como las Alcaldías, en la elaboración de sus programas de seguridad y vigilancia a instalaciones, y aseguramiento de bienes del patrimonio de la Ciudad de México;
 
@@ -4774,21 +4960,27 @@ XIII. Fungir como Secretario Ejecutivo del Comité de Autorizaciones de Adquisic
 
 XIV. Certificar, por sí o a través de sus Direcciones, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo;
 
-XV. Proponer estrategias para eficientar los estudios de mercado que se realicen para la adquisición de bienes y servicios que requieran las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad, así como las Alcaldías, de acuerdo a las medidas de austeridad, racionalidad y transparencia;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XV. Proponer estrategias para eficientar los estudios de mercado que se realicen para la adquisición de bienes y servicios que requieran las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad, así como las Alcaldías, de acuerdo a las medidas de austeridad, racionalidad y transparencia, que incluya la gestión de estudios de mercado a través de sistemas informáticos, proponer anexos técnicos con especificaciones y unidades de medida homologadas para estandarizar las compras más comunes y permitir el seguimiento de precios de referencia, elaborar estudios e investigaciones de mercado periódicos, estructurar y sistematizar la información de precios adjudicados históricos, proveedores y condiciones de contratación originados en los procedimientos de contratación, así como solicitar información específica a Unidades Responsables de Gasto, como las cotizaciones y estudios de precios realizados en términos de la Ley de Adquisiciones para el Distrito Federal, su reglamento y circulares, para fines estadísticos, de seguimiento e inteligencia de mercado;
 
 XVI. Analizar y ejecutar las acciones tendientes a robustecer los procesos de consolidación, determinando la viabilidad de su inclusión en los lineamientos de la materia;
 
 XVII. Coordinar y asesorar a las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad, así como las Alcaldías en materia de adquisiciones, arrendamientos, prestación de servicios y compras consolidadas;
 
-XVIII. Presentar ante el Cabildo, un informe pormenorizado que contenga las mejores condiciones de costo, beneficio y condiciones de entrega respecto de las presupuestadas por la o las Alcaldías, cuando se trate de la compra consolidada de un bien o servicio; y
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE OCTUBRE DE 2019)</small>
+XVIII. Llevar el registro y actualización del padrón de proveedores de la Administración Pública de la Ciudad de México, así como todas las plataformas o bases relacionadas con el mismo;
 
-XIX. Suscribir los instrumentos jurídicos relativos al ejercicio de sus atribuciones o que le sean delegados; así como certificar, por sí o a través de sus Direcciones Ejecutivas; y
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 11 DE OCTUBRE DE 2019)</small>
+XIX. Suscribir los instrumentos jurídicos relativos al ejercicio de sus atribuciones o que le sean delegados; así como certificar, por sí o a través de sus Direcciones Ejecutivas;
 
-XX. Las demás que le sean conferidas por la persona titular de la Secretaría de Administración y Finanzas, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XX. Conducir y conceptualizar la estrategia, planificación y ejecución de productos digitales y de innovación que mejorarán la gestión de los procedimientos de contratación e integrarán el Sistema de Compras Públicas de la Ciudad de México, así como la estandarización de documentos y procesos e implementar herramientas para la sistematización y publicación de información de adquisiciones, arrendamientos y prestación de servicios y compras consolidadas, procurando herramientas de interoperabilidad; y
+
+XXI. Las demás que le sean conferidas por la persona titular de la Secretaría de Administración y Finanzas, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 ###### Artículo 117.
 
@@ -4812,7 +5004,9 @@ VII. Formalizar los contratos y/o convenios correspondientes derivados de los pr
 
 VIII. Asesorar a las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías de la Administración Pública de la Ciudad de México, en adquisiciones, arrendamientos y prestación de servicios;
 
-IX. Realizar los pagos correspondientes de las adquisiciones consolidadas de conformidad con la normatividad aplicable; y
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+IX. Realizar los pagos centralizados relacionados únicamente a las contrataciones consolidadas de vestuario operativo, equipo de protección, vales para el estímulo de fin de año y complementarios, así como aquellas que sean autorizadas por autoridad competente; y
 
 X. Las demás que determine la normatividad aplicable.
 
@@ -4846,11 +5040,21 @@ I. Asesorar y en su caso elaborar las políticas y lineamientos que sirvan para 
 
 II. Integrar, tramitar y dar seguimiento a las solicitudes de compras consolidadas que requieran las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, así como de las Alcaldías;
 
-III. Asegurar de manera permanente el patrimonio propiedad y/o a cargo del Gobierno de la Ciudad de México, mediante la instrumentación y coordinación del Programa de Aseguramiento Institucional, con el fin de garantizar el pago de los daños que provoque la ocurrencia de un siniestro;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-IV. Prever que las unidades administrativas adheridas a las consolidaciones de bienes y/o servicios, obtengan el suministro oportuno de combustibles (gasolina, diesel y gas natural comprimido), para el parque vehicular y maquinaria, así como de vehículos utilitarios, llantas, cámaras y corbatas; aseguramiento de los bienes patrimoniales, aseguramiento de personas, servicios de telecomunicaciones y radiocomunicaciones, así como los servicios de vigilancia a instalaciones del Gobierno de la Ciudad de México; y
+III. Asegurar de manera permanente el patrimonio propiedad y/o a cargo del gobierno de la Ciudad de México, mediante la instrumentación y coordinación del programa de aseguramiento institucional;
 
-V. Las demás que le sean conferidas, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+IV. Prever que las unidades administrativas adheridas a las consolidaciones de bienes y/o servicios, obtengan el suministro oportuno de combustibles (gasolina, diesel y gas natural comprimido), para el parque vehicular y maquinaria, así como de vehículos utilitarios, llantas, cámaras y corbatas; aseguramiento de los bienes patrimoniales, aseguramiento de personas, servicios de telecomunicaciones y radiocomunicaciones, así como los servicios de vigilancia a instalaciones del Gobierno de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+V. Realizar los pagos centralizados relacionados únicamente a las contrataciones consolidadas de papel bond, tóner, cartuchos, tambores, cabezales, fotocopiado e ingeniería de planos, equipo de cómputo, software, gasolina, diésel, gas natural comprimido, telefonía tradicional, internet, radiocomunicación, servicio de vigilancia, adquisición de vehículos, seguro de bienes, pago de deducibles, así como aquellas que sean autorizadas por autoridad competente; y
+
+> <small>(REFORMADA Y REUBICADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+VI. Las demás que le sean conferidas, así como las que corresponda a las unidades que le sean adscritas, las que expresamente le atribuya este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 ###### Artículo 120.
 
@@ -5134,9 +5338,11 @@ V. Solicitar información y documentos a las Unidades Administrativas adscritas 
 
 VI. Las demás que le instruya (sic) persona Titular de la Dirección General de Asuntos Jurídicos de la Secretaría de Administración y Finanzas de la Ciudad de México; las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 127.
 
-Corresponde a la Dirección General de Enlace y Programas Especiales:
+Corresponde a la Dirección General de Enlace y Relaciones con el Congreso:
 
 I. Establecer comunicación con los integrantes de las Comisiones Legislativas orientadas a revisar y dictaminar temas en materia de política fiscal y/o financiera en el Congreso Local;
 
@@ -5144,29 +5350,23 @@ II. Supervisar el envío de información en donde se comunique al interior de la
 
 III. Establecer las medidas de seguimiento necesarias para coordinar la revisión y análisis por parte de los titulares de las Unidades Administrativas de la Secretaría de Administración y Finanzas, de los Decretos, Iniciativas de Ley, Puntos de Acuerdo, Exhortos y/o Dictámenes, que impacten la política fiscal y/o financiera del Gobierno de la Ciudad de México;
 
-IV. Coordinar el intercambio de información entre la Administración Pública de la Ciudad de México y la Administración Pública Federal, para que se lleve a cabo la asignación oportuna de recursos a través de la suscripción de los instrumentos jurídicos correspondientes;
+IV. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-V. Impulsar acciones de comunicación y seguimiento en las áreas correspondientes de la Secretaría de Hacienda y Crédito Público, y al interior de la Secretaría de Administración y Finanzas, para coadyuvar al cumplimiento de los compromisos que deriven de la coordinación administrativa;
+V. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-VI. Analizar la viabilidad de fuentes de financiamiento Federal, para (sic) las Unidades Ejecutivas de Gasto cuenten con información que les permita acceder a la asignación de dichos recursos para la realización de programas y/o proyectos de la Ciudad de México;
+VI. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-VII. Analizar las fuentes de financiamiento Público, Privado y/o Concurrente que defina esquemas novedosos de su operación para la realización de programas y/o proyectos Especiales de la Ciudad de México;
+VII. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-VIII. Coordinar con las Unidades Administrativas de la Secretaría de Administración y Finanzas los esquemas y trámites necesarios para concretar los instrumentos idóneos para la participación del sector privado en los programas y/o proyectos Especiales de la Ciudad de México; y
+VIII. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-IX. Revisar, analizar y difundir información generada desde el interior de la Secretaría de Administración y Finanzas para la publicación en las redes sociales, internet y diferentes medios de comunicación.
+IX. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-> <small>(ADICIONADA, G.O. 11 DE OCTUBRE DE 2019)</small>
+X. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-X. Proponer a la persona titular de la Secretaría de Administración y Finanzas, el diseño de estrategias de difusión de los procesos de planeación, programación, seguimiento y evaluación del presupuesto;
+XI. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
-> <small>(ADICIONADA, G.O. 11 DE OCTUBRE DE 2019)</small>
-
-XI. Diseñar los materiales idóneos para la difusión de información relacionada con las atribuciones competencia de la Secretaría de Administración y Finanzas;
-
-> <small>(ADICIONADA, G.O. 11 DE OCTUBRE DE 2019)</small>
-
-XII. Generar, acorde a las directrices de la persona titular de la Secretaría de Administración y Finanzas, las acciones comunicativas para que la ciudadanía acceda de manera oportuna, clara y sencilla a información presupuestal y financiera del Gobierno de la Ciudad de México; y
+XII. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
 
 > <small>(ADICIONADA, G.O. 11 DE OCTUBRE DE 2019)</small>
 
@@ -7262,11 +7462,11 @@ VI. Las demás atribuciones conferidas por la persona titular de la Secretaría,
 
 (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 174.
 
-Corresponde a la Dirección General de Inclusión Social:
+Corresponde a la Coordinación General de Inclusión Social:
 
 I. Formular, promover y ejecutar políticas y programas sociales que favorezcan la inclusión, el bienestar de todas las personas en sus distintas etapas de vida, que reduzcan las desigualdades y eliminen las dinámicas de exclusión social de los grupos de atención prioritaria;
 
@@ -7412,59 +7612,169 @@ III. Mejorar las condiciones de vida y las oportunidades de desarrollo de los ha
 
 IV. Implementar y dar seguimiento a los programas y acciones de mejoramiento barrial en beneficio de los habitantes de los barrios, colonias, pueblos en coordinación con las Alcaldías y las Dependencias, Órganos Desconcentrados y Entidades, a efecto de garantizar la canalización oportuna y transparente de los recursos económicos, técnicos y materiales.
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE AGOSTO DE 2021)</small>
 
-###### Artículo 181 Bis.
+Artículo 181 BIS.- Corresponde a la Dirección General Territorial:
 
-Corresponde a la Dirección Ejecutiva Territorial:
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 I. Planear estrategias de operación territorial de los programas y acciones sociales de participación ciudadana para que garanticen el correcto acercamiento de los ciudadanos, en igualdad de circunstancias a los programas y acciones sociales;
 
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
 II. Establecer estrategias operativas, con base en la demanda comunitaria de los programas y acciones sociales;
 
-III. Instruir a las Coordinaciones de Participación Ciudadana en la aplicación de estrategias de trabajo, resultado de reuniones;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-IV. Coordinar y vigilar las actividades que realizan las Coordinaciones de Participación Ciudadana, en la implementación de los programas y acciones sociales del Gobierno de la Ciudad de México;
+III. Instruir a las Direcciones Ejecutivas de Participación Ciudadana en la aplicación de estrategias de trabajo, resultado de reuniones;
 
-V. Administrar y coordinar los beneficios que se entregan a los grupos de trabajo de las Coordinaciones de Participación Ciudadana en las Alcaldías, para su distribución a los beneficiarios de los programas sociales;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+IV. Coordinar y vigilar las actividades que realizan las Direcciones Ejecutivas de Participación Ciudadana, en la implementación de los programas y acciones sociales del Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+V. Administrar y coordinar los beneficios que se entregan a los grupos de trabajo de las Direcciones Ejecutivas de Participación Ciudadana en las Alcaldías, para su distribución a los beneficiarios de los programas sociales;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 VI. Establecer los vínculos necesarios con las diferentes instancias, tanto del Gobierno de la Ciudad de México como de las Alcaldías, para generar acciones de carácter comunitario en territorio;
 
-VII. Supervisar y vigilar los planes y programas de trabajo de las Coordinaciones de Participación Ciudadana bajo su responsabilidad;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-VIII. Realizar reuniones de trabajo con las Coordinaciones de Participación Ciudadana de las Alcaldías, a fin de conocer la problemática y buscar soluciones en la operatividad y ejecución de los programas y acciones sociales;
+VII. Supervisar y vigilar los planes y programas de trabajo de las Direcciones Ejecutivas de Participación Ciudadana bajo su responsabilidad;
 
-IX. Planear capacitaciones para los beneficiarios del programa Servidores de la Ciudad de México;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+VIII. Realizar reuniones de trabajo con las Direcciones Ejecutivas de Participación Ciudadana de las Alcaldías, a fin de conocer la problemática y buscar soluciones en la operatividad y ejecución de los programas y acciones sociales;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+IX. Planear capacitaciones para las personas beneficiarias facilitadores de servicios del programa social que se realice;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 X. Diseñar las Reglas de Operación de los Programas Sociales correspondientes a la Coordinación General de Participación Ciudadana;
 
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
 XI. Diseñar el Programa Anual de Capacitación para el personal de la Coordinación General de Participación Ciudadana, así como de los participantes de las redes vecinales, con el fin de aportar elementos al programa de capacitación;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 XII. Coordinar y vigilar la correcta aplicación de programas federales asignados al Gobierno de la Ciudad de México;
 
-XIII. Coordinar líneas de acción con el personal de la Dirección Ejecutiva Territorial y con las Coordinaciones de Participación Ciudadana ante posibles contingencias que pongan en riesgo la integridad de los habitantes de la Ciudad de México;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-XIV. Establecer directrices de trabajo con las Coordinaciones de Participación Ciudadana durante las gestiones administrativas para la realización de las acciones territoriales;
+XIII. Coordinar líneas de acción entre el personal de la Dirección General Territorial y las Direcciones Ejecutivas de Participación Ciudadana ante posibles contingencias que pongan en riesgo la integridad de los habitantes de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XIV. Establecer directrices de trabajo con las Direcciones Ejecutivas de Participación Ciudadana durante las gestiones administrativas para la realización de las acciones territoriales;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 XV. Difundir los programas y acciones que promueven la inclusión y bienestar social participativo entre los habitantes de la Ciudad de México, a través del contacto directo y material impreso;
 
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
 XVI. Colaborar con otras áreas del Gobierno de la Ciudad de México en la difusión y divulgación de sus programas y acciones sociales en territorio;
 
-XVII. Promover entre las Coordinaciones de Participación Ciudadana el material de difusión impreso de los programas sociales;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-XVIII. Establecer los mecanismos de evaluación de las acciones y programas sociales con las Coordinaciones de Participación Ciudadana a fin de que se dé la debida aplicación y ejecución de los mismos;
+XVII. Promover entre las Direcciones Ejecutivas de Participación Ciudadana el material de difusión impreso de los programas sociales;
 
-XIX. Instruir a las Coordinaciones de Participación Ciudadana la implementación de estrategias para evaluar el funcionamiento de las actividades programadas en los Módulos de Participación Ciudadana;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XVIII. Establecer los mecanismos de evaluación de las acciones y programas sociales con las Direcciones Ejecutivas de Participación Ciudadana, a fin de que se dé la debida aplicación y ejecución de los mismos;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XIX. Instruir a las Direcciones Ejecutivas de Participación Ciudadana la implementación de estrategias para evaluar el funcionamiento de las actividades programadas en los Módulos de Participación Ciudadana;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 XX. Establecer los medios de evaluación en la ejecución de los programas y acciones sociales con el uso de reportes e informes;
 
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
 XXI. Formular dictámenes, opiniones e informes sobre los avances de la participación de la ciudadanía en las políticas públicas, a fin de mejorar la aplicación de las mismas;
 
-XXII. Comunicar a las Coordinaciones de Participación Ciudadana las tareas encaminadas a evaluar el desempeño de las actividades desarrolladas por los Coordinadores Zonales y Promotor es de Participación Ciudadana en las acciones y programas sociales;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XXII. Comunicar a las Direcciones Ejecutivas de Participación Ciudadana las tareas para aplicar la evaluación en el desempeño de las actividades desarrolladas por todas las personas adscritas a ellas, en las acciones y programas sociales que le correspondan;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 XXIII. Apoyar en las actividades de las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia y en las evaluaciones de desempeño; y
 
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
 XXIV. Las demás atribuciones que les sean conferidas por otros ordenamientos o por su superior jerárquico.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+Artículo 181 TER.- Corresponde a la Dirección Ejecutiva de Capacitación:
+
+I. Diseñar el plan de capacitación anual de programas, talleres y actualizaciones dirigidas a las personas que forman parte de la Coordinación General de Participación Ciudadana, para una adecuada difusión, desarrollo y articulación en el territorio de programas y acciones sociales;
+
+II. Diseñar acciones, programas y proyectos de capacitación vinculados con el saber local y utilizando metodologías participativas, que permitan mejorar el entorno social de las personas vecinas, habitantes y transeuntes en la Ciudad de México, así como incrementar las posibilidades de sostenibilidad de los barrios, colonias, pueblos y unidades habitacionales de la Ciudad de México;
+
+III. Diseñar e instrumentar talleres para la utilización de herramientas tecnológicas de información y ubicación geoespacial;
+
+IV. Impulsar la formación y el desarrollo de competencias para la organización comunitaria y el trabajo en territorio de las personas adscritas y asignadas al área encargada del trabajo territorial;
+
+V. Diagnosticar, monitorear y evaluar el desarrollo de habilidades y competencias de las personas adscritas y asignadas al área encargada del trabajo territorial, a fin de estimar sus fortalezas y áreas de oportunidad;
+
+VI. Verificar que el proceso de formación y capacitación dirigido a las personas adscritas y asignadas al área encargada del trabajo territorial se refleje en el trabajo territorial; y
+
+VII. Todas aquellas que le sean asignadas por sus superiores jerárquicos.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+Artículo 181 QUATER.- Corresponde a las Direcciones Ejecutivas de Participación Ciudadana:
+
+I. Instrumentar las acciones planeadas por la Coordinación General de Participación Ciudadana y la Dirección General Territorial que vinculen a la comunidad con las políticas de inclusión y bienestar social, así como con los programas y acciones derivadas de éstas dentro de su Alcaldía;
+
+II. Supervisar el funcionamiento de los Módulos de Seguridad y Participación Ciudadana con la participación de las personas adscritas a ellas;
+
+III. Verificar que tanto las personas adscritas a las Direcciones Ejecutivas, como aquellas personas beneficiarias que le sean asignadas, desarrollen su actividad en el marco de la institucionalidad;
+
+IV. Establecer relaciones de colaboración para la organización de las Asambleas Ciudadanas que favorezcan el cumplimiento de la Ley de Participación Ciudadana de la Ciudad de México y las políticas de inclusión y bienestar, encaminadas a favorecer su desarrollo socio-económico;
+
+V. Asesorar a la ciudadanía en la organización y realización de Asambleas Ciudadanas;
+
+VI. Coordinar, en el ámbito de sus atribuciones, reuniones de trabajo para planear, evaluar y dar seguimiento a las acciones realizadas corresponsablemente entre la ciudadanía y la Coordinación General de Participación Ciudadana;
+
+VII. Coordinar jornadas de divulgación de los programas y acciones sociales en su área territorial;
+
+VIII. Intervenir en los diversos programas y acciones sociales, ejecutados por la Coordinación General de Participación Ciudadana para eliminar el rezago en materia de inclusión y bienestar social;
+
+IX. Organizar el trabajo territorial para la difusión y operación de los programas y acciones sociales, con la participación de todas las personas adscritas a ellas;
+
+X. Implementar las actividades en materia territorial respecto a Tequio Barrio y Asambleas Ciudadanas, con apoyo de las personas adscritas a ellas, así como de los beneficiarios que le sean asignados;
+
+XI. Generar informes que contengan indicadores cuantitativos y cualitativos respecto a la ejecución de los programas y acciones sociales, en el ámbito de sus atribuciones;
+
+XII. Apoyar, en el ámbito de sus atribuciones, en la implementación de programas y acciones sociales;
+
+XIII. Concentrar, para su resguardo, toda la información que resulte de la implementación de acciones y programas de carácter social, en el ámbito de sus atribuciones;
+
+XIV. Colaborar, en el ámbito de sus atribuciones, en la organización de las acciones de vinculación con las instancias del Gobierno Federal y de la Ciudad de México, relacionadas con los programas y acciones sociales;
+
+XV. Supervisar los asuntos referentes a las actividades y acciones programadas en su respectiva Alcaldía;
+
+XVI. Efectuar las acciones y actividades establecidas en los calendarios y programas de trabajo diseñados por la Coordinación General de Participación Ciudadana;
+
+XVII. Apoyar en la implementación de acciones determinadas por el Gobierno Federal;
+
+XVIII. Por instrucciones de su superior jerárquico, hacer del conocimiento público los resultados obtenidos de los programas y acciones realizadas en su demarcación territorial;
+
+XIX. Coordinar y vigilar en el ámbito de sus atribuciones, las estrategias de operación territorial en situaciones de contingencia y/o emergencia planteadas por la Coordinación General de Participación Ciudadana y la Dirección General Territorial necesarias para garantizar el correcto acercamiento con la ciudadanía durante las mismas;
+
+XX. Organizar la recepción y entrega de material de difusión, insumos y diversos materiales para la adecuada distribución entre el personal de su Dirección; y
+
+XXI. Las demás atribuciones que les sean conferidas por otros ordenamientos o por su superior jerárquico.
 
 ###### Artículo 182.
 
@@ -8164,7 +8474,9 @@ III. Regular, programar, orientar, organizar, controlar y, en su caso, modificar
 
 IV. Calificar las infracciones e imponer las sanciones correspondientes por violaciones a la Ley de Movilidad del Distrito Federal, disposiciones administrativas y reglamentarias, cometidas por los concesionarios, permisionarios, operadores, empleados o personas relacionados directamente con la prestación del servicio de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular), a excepción de aquellas que deriven de un procedimiento de verificación administrativa cuya atribución corresponde exclusivamente al Instituto correspondiente y las que por atribución le competan a las Alcaldías y a la Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
-V. Diseñar, redistribuir, modificar y adecuar los itinerarios, recorridos y rutas locales y de penetración urbana y suburbana, y bases del transporte público de pasajeros, privado y de carga en forma coordinada con la Dirección General de Planeación y Políticas, así como con el Órgano Regulador de Transporte; en congruencia con las políticas, programas y normas establecidas en el Sector y los resultados de la evaluación correspondiente;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+V. Diseñar, redistribuir, modificar y adecuar los itinerarios, recorridos y rutas locales y de penetración urbana y suburbana, y bases del transporte público de pasajeros, privado y de carga en forma coordinada con la Dirección General de Planeación y Políticas, así como con el Organismo Regulador de Transporte; en congruencia con las políticas, programas y normas establecidas en el Sector y los resultados de la evaluación correspondiente;
 
 VI. Proyectar y establecer las normas adecuadas para el funcionamiento de los Centros de Transferencia Modal y Corredores de Transporte, así como su operación y servicios, y propiciar los mecanismos de coordinación interinstitucional;
 
@@ -8200,7 +8512,9 @@ XXI. Tramitar la expedición de las concesiones, permisos, licencias, registro v
 
 XXII. Regular, orientar, organizar, y controlar la prestación del servicio de transporte de pasajeros público individual y ciclotaxis en la Ciudad de México, conforme a lo establecido en la Ley de Movilidad del Distrito Federal, y demás disposiciones jurídicas y administrativas aplicables; así como también, a las necesidades de movilidad de la Ciudad, procurando la preservación del medio ambiente y la seguridad de los usuarios del Sistema de Movilidad;
 
-XXIII. Diseñar, redistribuir, modificar y adecuar los itinerarios, recorridos y rutas locales y de penetración urbana y suburbana, sitios y bases del servicio de transporte de pasajeros público individual y ciclotaxis en forma coordinada con la Dirección General de Planeación y Políticas, así como el Órgano Regulador de Transporte; en congruencia con las políticas, programas y normas establecidas en el Sector y con base en las necesidades de los usuarios y la evaluación de los servicios;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+XXIII. Diseñar, redistribuir, modificar y adecuar los itinerarios, recorridos y rutas locales y de penetración urbana y suburbana, sitios y bases del servicio de transporte de pasajeros público individual y ciclotaxis en forma coordinada con la Dirección General de Planeación y Políticas, así como el Organismo Regulador de Transporte; en congruencia con las políticas, programas y normas establecidas en el Sector y con base en las necesidades de los usuarios y la evaluación de los servicios;
 
 XXIV. Realizar todas las acciones necesarias para que el servicio de transporte de pasajeros público individual y ciclotaxis, garantice la integridad y la seguridad de los usuarios, los derechos de los permisionarios y concesionarios y el cumplimiento de sus obligaciones; y desalentar el uso del automóvil particular y estimular el uso del transporte público, mediante medidas novedosas en materia económica y de promoción de la cultura de la movilidad;
 
@@ -10696,9 +11010,17 @@ V. Elaborar estudios relativos a los ingresos de origen federal que corresponden
 
 VI. Colaborar en la elaboración de las proyecciones de los ingresos de origen federal de la Ciudad de México para la integración de su Iniciativa de Ley de Ingresos;
 
-VII. Orientar a las Alcaldías, Órganos Desconcentrados, Entidades, Órganos Autónomos y de Gobierno de la Administración Pública de la Ciudad de México, en materia de proyectos financiables con recursos federales; y
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
-VIII. Fungir como enlace con las Dependencias, Órganos Político-Administrativos, Órganos Desconcentrados, Entidades, Órganos Autónomos y de Gobierno de la Administración Pública de la Ciudad de México, en la gestión para la suscripción de los instrumentos jurídicos requeridos por el Gobierno Federal, para formalizar los proyectos que se ejecuten en la Ciudad de México con recursos federales, que deriven del Presupuesto de Egresos de la Federación.
+VII. Orientar a las Alcaldías, Órganos Desconcentrados, Entidades, Órganos Autónomos y de Gobierno de la Administración Pública de la Ciudad de México, en materia de proyectos financiables con recursos federales;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+VIII. Fungir como enlace con las Dependencias, Órganos Político-Administrativos, Órganos Desconcentrados, Entidades, Órganos Autónomos y de Gobierno de la Administración Pública de la Ciudad de México, en la gestión para la suscripción de los instrumentos jurídicos requeridos por el Gobierno Federal, para formalizar los proyectos que se ejecuten en la Ciudad de México con recursos federales, que deriven del Presupuesto de Egresos de la Federación; y
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
+IX. Coordinar la comunicación entre las áreas correspondientes de la Secretaría de Hacienda y Crédito Público y al interior de la Secretaría de Administración y Finanzas, para coadyuvar al cumplimiento de los compromisos que deriven de la colaboración administrativa.
 
 ### CAPITULO TERCERO
 
@@ -11529,8 +11851,6 @@ XXIX. Someter en conjunto con las direcciones generales de coordinación de órg
 XXX. Las demás que le instruya la persona Titular de la Secretaría de la Contraloría General, las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo a él adscritas, las que expresamente le atribuya este Reglamento y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
 
 #### SECCIÓN V. ADSCRITO A LA SECRETARÍA DE MOVILIDAD
-
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
 
 ###### Artículo 269.
 
@@ -14300,195 +14620,27 @@ XXVI. Las demás que le otorguen la legislación vigente.
 
 ###### Artículo 316.
 
-El Órgano Regulador de Transporte es el Órgano Desconcentrado que tiene por objeto planear, regular y verificar el Servicio de Corredores de Transporte, que no regule el Sistema de Corredores de Transporte Público de Pasajeros de la Ciudad de México Metrobús; así como administrar, operar, supervisar y regular el servicio en los Centros de Transferencia Modal; gestionar y administrar la plataforma digital de monitoreo de transporte público colectivo concesionado; y llevar a cabo las gestiones para la liberación del derecho de vía del Sistema de Transporte Público Cablebús.
+(DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 ###### Artículo 317.
 
-Para el despacho de los asuntos que competen al Órgano Regulador de Transporte tiene adscritas:
-
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
-
-1. Dirección General del Órgano Regulador de Transporte;
-
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
-
-2. Dirección Ejecutiva de los Centros de Transferencia Modal;
-
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
-
-3. Dirección Ejecutiva de Corredores y Gestión Tecnológica; y
-
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
-
-4. Dirección Ejecutiva de Asuntos Jurídicos.
-
-5. (DEROGADO, G.O. 31 DE ENERO DE 2020)
-
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
+(DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 ###### Artículo 318.
 
-Corresponde a la Dirección General del Órgano Regulador de Transporte:
-
-I. Proponer y diseñar proyectos de obra necesarios para la mejora de los servicios de los Centros de Transferencia Modal y de los Corredores de Transporte Público de Pasajeros;
-
-II. Coordinar, administrar, autorizar, vigilar, operar, regular y controlar el mantenimiento de los servicios de Corredores de Transporte Público de Pasajeros de los Centros de Transferencia Modal, Paraderos de Autobuses, y demás espacios físicos destinados a la infraestructura y equipamiento auxiliar del servicio;
-
-III. Instrumentar la normatividad necesaria para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación del servicio de Corredores de Transporte e implementar las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
-
-IV. Planear, diseñar y autorizar los estudios para la prestación de servicios de Corredores de Transporte Público de Pasajeros;
-
-V. Coordinar con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México, acciones para el desarrollo e implementación de estrategias, proyectos de obras, infraestructura y de servicios de los Corredores de Transporte Público y Centros de Transferencia Modal, en el ámbito de sus competencias;
-
-VI. Coordinar la gestión y actualización de la plataforma digital de indicadores de transporte público colectivo concesionado, para el monitoreo de unidades del transporte público de pasajeros concesionado;
-
-VII. Suscribir instrumentos de vinculación con organismos de cooperación, nacionales e internacionales, para el cumplimiento de los objetivos del Órgano, relacionados con la movilidad eficiente e integral de los usuarios en la Ciudad de México;
-
-VIII. Emitir las normas de operación, supervisión y reglamentación para la prestación de servicios asignados dentro de los Centros de Transferencia Modal, así como dentro de los Corredores de Transporte Público;
-
-IX. Coordinar la revisión y actualización continua y permanente del padrón de acceso vehicular a los Centros de Transferencia Modal; así como de los Corredores del Servicio de Transporte Público;
-
-X. Actualizar, revisar y modificar Convenios, Contratos y Permisos Administrativos, a efecto de adecuarlos al marco normativo vigente;
-
-XI. Intervenir en los procedimientos para la autorización, otorgamiento, prórroga, revocación, caducidad y extinción de concesiones y de la agrupación de personas morales concesionarias para el servicio de Corredores de Transporte de Pasajeros, bajo el esquema de consorcios, que prestan el servicio de manera exclusiva en uno o más corredores, sin que exceda el número de concesiones, de conformidad con lo establecido en las disposiciones legales aplicables, con un control y dirección centralizado de los diferentes concesionarios;
-
-XII. Requerir durante la vigencia de la concesión a los concesionarios, la documentación e información económica y financiera que considere pertinente para identificar esquemas financieros que permitan la prestación del servicio de manera permanente y uniforme, así como establecer las medidas de seguridad necesarias que permitan la viabilidad para dar continuidad de la prestación de los servicios;
-
-XIII. Coadyuvar con el Instituto de Verificación Administrativa en la coordinación de acciones de verificación al servicio de Corredores de Transporte Público y los asuntos vinculados con el Órgano;
-
-XIV. Coordinar con la Secretaría de Seguridad Ciudadana, o a través de las personas servidoras que le sean adscritas, las acciones necesarias para poner a disposición de la autoridad competente -Juez Cívico o Ministerio Público-, a quienes infrinjan las disposiciones legales aplicables en los Centros de Transferencia Modal, así como de los Corredores de Transporte Público;
-
-XV. Proponer e implementar el uso de nuevas tecnologías para hacer más eficientes los servicios en los Centros de Transferencia Modal, así como en los Corredores de Transporte Público;
-
-XVI. Realizar las gestiones administrativas ante las instancias correspondientes, para la liberación del derecho de vía del Sistema de Transporte Público Cablebús;
-
-XVII. Colaborar con la Secretaría de Movilidad para determinar los cursos y programas de capacitación para los operadores del Servicio de Corredores de Transporte Público;
-
-XVIII. Las demás que le confieran las disposiciones legales aplicables y los que sean para el cumplimiento de su objetivo.
-
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
+(DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 ###### Artículo 319.
 
-Corresponde a la Dirección Ejecutiva de los Centros de Transferencia Modal:
-
-I. Coordinar, administrar y supervisar los espacios físicos destinados a la infraestructura y equipamiento auxiliar del servicio que se brinda; así como proponer los instrumentos para llevar a cabo las actividades y servicios que se prestan en los Centros de Transferencia Modal, para que sean utilizados de acuerdo a su finalidad;
-
-II. Establecer los criterios de coordinación con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México, para el desarrollo e implementación de estrategias y proyectos de obra, infraestructura y de servicios;
-
-III. Proponer instrumentos de vinculación y de colaboración con organismos de cooperación, nacionales e internacionales, para la implementación, operación y administración de los proyectos y servicios, así como los relativos a programas y proyectos que se requieran para la eficiente operación y funcionamiento de los Centros de Transferencia Modal;
-
-IV. Plantear e implementar estudios y proyectos para el otorgamiento de concesiones orientados a mejorar la operatividad, coordinación, mantenimiento y financiamiento de los Centros de Transferencia Modal;
-
-V. Diseñar un sistema que permita integrar y mantener actualizado el padrón de los concesionarios y permisionarios competencia de los Centros de Transferencia Modal;
-
-VI. Solicitar a los concesionarios la documentación e información económica y financiera que consideré pertinente, durante la vigencia de la concesión, así como implementar los mecanismos de seguimiento y evaluación necesarios para que se identifiquen esquemas financieros y de sostenimiento, que permitan la continuidad de la prestación del servicio de manera permanente, uniforme y establecer las medidas de seguridad necesarias;
-
-VII. Proponer y elaborar esquemas de destino para los aprovechamientos generados por el uso de los bienes muebles e inmuebles de los Centros de Transferencia Modal, a aquellas actividades relacionadas con operación, administración, funcionamiento y supervisión de las instalaciones;
-
-VIII. Instrumentar las medidas necesarias para optimizar la recaudación de los diferentes conceptos por ingresos autogenerados, de conformidad con la normatividad aplicable;
-
-IX. Implementar estrategias, programas, estudios y proyectos para el otorgamiento de concesiones u otros modelos de administración, supervisión, financiamiento y regulación de los Centros de Transferencia Modal;
-
-X. Proponer las bases e instrumentos de los procedimientos necesarios para la adecuada supervisión y vigilancia, así como implementar los mecanismos de operación y administración sobre actividades que se desarrollen en las instalaciones de los Centros de Transferencia Modal;
-
-XI. Proponer e Implementar el uso de nuevas tecnologías para hacer más eficientes los servicios en los Centros de Transferencia Modal;
-
-XII. Coordinar las acciones relacionadas para el uso y aprovechamiento de los Centros de Transferencia Modal y para el otorgamiento de las autorizaciones de acceso vehicular;
-
-XIII. Proponer los “Elementos Operativos para la Autorización de Acceso Vehicular”, para determinar la procedencia de la autorización o la revocación de uso del espacio asignado en las instalaciones de los Centros de Transferencia Modal;
-
-XIV. Revisar la vigencia de las autorizaciones de acceso vehicular, el cumplimiento de la prestación del servicio y del pago por aprovechamientos, para el uso de los Centros de Transferencia Modal e informar a la Dirección Ejecutiva de Asuntos Jurídicos cualquier anomalía o incumplimiento detectado;
-
-XV. Coordinar, ordenar y supervisar la operación, ubicación y reubicación de los concesionarios y permisionarios de servicios de transporte público de pasajeros, dentro de las áreas definitivas y provisionales de los Centros de Transferencia Modal, contemplados en proyectos de coinversión, concesión y otros modelos de operación, en coordinación con los entes de la Administración Pública Local y Federal competentes;
-
-XVI. Proponer e implementar los procedimientos de actuación de las personas servidoras públicas asignados a los Centros de Transferencia Modal, conforme a los requerimientos de las necesidades propias del Órgano, para uniformar los criterios y acciones de administración y supervisión;
-
-XVII. Participar en la coordinación con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México en el desarrollo e implementación de estrategias, programas, proyectos de obras, infraestructura y de servicios;
-
-XVIII. Coordinar con la Secretaría de Obras y Servicios las actividades relativas al diseño de obras y servicios destinados a la infraestructura y equipamiento de los Centros de Transferencia a su cargo;
-
-XIX. Coordinar con la Secretaría de Seguridad Ciudadana, o a través de las personas servidoras que le sean adscritas, las acciones necesarias para poner a disposición de la autoridad competente -Juez Cívico o Ministerio Público-, a quienes infrinjan las disposiciones legales aplicables en los Centros de Transferencia Modal;
-
-XX. Requerir en coordinación con el Instituto de Verificación Administrativa operativos y visitas de verificación al servicio de transporte dentro de los Centros de Transferencia Modal; y
-
-XXI. Las demás que le confieran las disposiciones legales aplicables y los que sean para el cumplimiento de su objetivo.
-
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
+(DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 ###### Artículo 320.
 
-Corresponde a la Dirección Ejecutiva de Corredores y Gestión Tecnológica:
-
-I. Administrar, autorizar, regular, supervisar y controlar la operación de los servicios de Corredores de Transporte Público de Pasajeros;
-
-II. Solicitar durante la vigencia de la concesión a los concesionarios, la documentación e información económica y financiera que considere pertinente para identificar esquemas financieros que permitan la prestación del servicio de manera permanente, uniforme y establecer las medidas de seguridad necesarias;
-
-III. Autorizar, regular, supervisar y controlar los servicios y el mantenimiento de la infraestructura y equipamiento auxiliar de los Corredores de Transporte Público;
-
-IV. Administrar, regular, supervisar y controlar la revista del parque vehicular de los Corredores de Transporte Público de Pasajeros;
-
-V. Dictaminar y autorizar los estudios técnicos y proyectos ingresados para la prestación del Servicio de Corredores de Transporte Público de Pasajeros, con base en la normatividad vigente;
-
-VI. Programar, orientar, organizar y, en su caso, modificar la prestación del Servicio de Corredores de Transporte Público de Pasajeros;
-
-VII. Emitir los acuerdos necesarios para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación del Servicio de Corredores de Transporte Público de Pasajeros;
-
-VIII. Establecer medidas de seguridad necesarias para que los concesionarios presten el servicio en condiciones de calidad, seguridad e higiene;
-
-IX. Colaborar con la Secretaría de Movilidad para determinar los cursos y programas de capacitación para los operadores del Servicio de Corredores de Transporte;
-
-X. Coordinar con el Instituto de Verificación Administrativa operativos y visitas de verificación al servicio de Corredores de Transporte;
-
-XI. Intervenir en los procesos administrativos para el otorgamiento, prórroga, revocación, caducidad y extinción de concesiones;
-
-XII. Realizar todas aquellas acciones tendientes a que el servicio de Corredores de Transporte se lleve a cabo con calidad, eficiencia, cuidado del medio ambiente y seguridad de los usuarios;
-
-XIII. Integrar y mantener actualizado el padrón de los concesionarios y permisionarios;
-
-XIV. Participar en la coordinación con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México en el desarrollo e implementación de estrategias, programas, proyectos de obras, infraestructura y servicios para corredores de transporte;
-
-XV. Supervisar el cumplimiento de las frecuencias de los derroteros autorizados con los que operan los prestadores del servicio de transporte público de pasajeros en su modalidad de Corredores;
-
-XVI. Generar la información e indicadores sobre la operación y recorridos de las unidades de transporte público colectivo concesionado mediante la plataforma digital de monitoreo;
-
-XVII. Gestionar, administrar y supervisar el servicio integral de plataforma digital para el monitoreo de unidades de transporte público de pasajeros concesionado;
-
-XVIII. Proponer e implementar el uso de nuevas tecnologías para hacer más eficientes los servicios en los Corredores de Transporte Público; así como en las unidades de transporte público colectivo concesionado; y
-
-XIX. Las demás que le confieran las disposiciones legales aplicables y los que sean para el cumplimiento de su objetivo.
-
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
+(DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 ###### Artículo 321.
 
-Corresponde a la Dirección Ejecutiva de Asuntos Jurídicos:
-
-I. Elaborar, revisar, contestar y dar seguimiento hasta su conclusión a todos aquellos actos tendientes a la defensa de los intereses jurídicos del Órgano, como es el caso de demandas civiles, laborales, juicios de nulidad, lesividad, juicios de amparo; así como formular denuncias o querellas y coadyuvar -en su caso-, ante el Ministerio Público por la probable constitución de hechos delictivos en los que el Órgano resulte agraviado. O bien, otorgar el perdón en los casos que corresponda, todo ello en coordinación con la Dirección General de Asuntos Jurídicos de la Secretaría de Movilidad;
-
-II. Revisar, analizar y emitir opinión jurídica respecto de los convenios, contratos y demás instrumentos jurídicos-administrativos que suscriba el Órgano y sus Unidades Administrativas;
-
-III. Promover y suscribir instrumentos de vinculación con organismos de cooperación, nacionales e internacionales, para el cumplimiento de los objetivos del Órgano, relacionados con la movilidad eficiente e integral de los usuarios en la Ciudad de México;
-
-IV. Emitir instrumentos de vinculación y de colaboración con organismos de cooperación, nacionales e internacionales, parala implementación, operación y administración de servicios, así como los relativos a programas y proyectos que se requieran para la eficiente operación y funcionamiento de los Centros de Transferencia Modal, así como del servicio de Corredores del Transporte Público de Pasajeros;
-
-V. Suscribir documentos relativos a la Representación Legal, así como celebrar, otorgar y suscribir los contratos, convenios y demás actos jurídicos y de carácter administrativo, o de cualquier otra índole dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones- y en su caso-, de las Unidades Administrativas adscritas al Órgano;
-
-VI. Actualizar, revisar y modificar Convenios, Contratos, Permisos Administrativos y demás instrumentos jurídicos, con la finalidad de adecuarlos al marco normativo vigente;
-
-VII. Mantener actualizada la normatividad, mediante la revisión continua del cumplimiento de las obligaciones contractuales, por parte de los concesionarios y permisionarios;
-
-VIII. Realizar las gestiones administrativas ante las instancias correspondientes, para la liberación del derecho de vía del Sistema de Transporte Público Cablebús.
-
-IX. Emitir bases y lineamientos de operación, regulación, mantenimiento, funcionamiento y conservación de los Centros de Transferencia Modal, así como de los Corredores de Transporte Público de Pasajeros;
-
-X. Coordinar con la Secretaría de Seguridad Ciudadana, o a través de las personas servidoras que le sean adscritas, las acciones necesarias para poner a disposición de la autoridad competente -Juez Cívico o Ministerio Público-, a quienes infrinjan las disposiciones legales aplicables en los Centros de Transferencia Modal, así como en los Corredores Públicos;
-
-XI. Analizar, formular y proponer modificaciones a leyes, reglamentos, decretos, acuerdos, circulares y demás ordenamientos que sean competencia del Órgano;
-
-XII. Coordinar con el Instituto de Verificación Administrativa las acciones de operativos y visitas de verificación de los servicios que tiene vinculados el Órgano;
-
-XIII. Las demás que le confieran las disposiciones legales aplicables y los que sean para el cumplimiento de su objetivo.
+(DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
 ###### Artículo 322.
 
@@ -15029,3 +15181,15 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los asuntos que con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas respecto de las cuales se deroguen o modifiquen sus atribuciones, serán atendidos y resueltos por aquellas que asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia.
 
 CUARTO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, así como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
+
+G.O. 16 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
+
+TERCERO.- Los asuntos que, con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas respecto de las cuales se deroguen o modifiquen sus atribuciones, serán atendidos y resueltos por aquellas que asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia.
+
+CUARTO.- Las referencias hechas en este Reglamento, así como de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
