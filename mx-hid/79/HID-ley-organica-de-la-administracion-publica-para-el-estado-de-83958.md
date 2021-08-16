@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2018-07-31"
+last_updated: "2021-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -111,21 +111,23 @@ Las entidades de la Administración Pública Paraestatal podrán integrarse a di
 
 El Gobernador del Estado determinará los asuntos específicos en que las Dependencias del Ejecutivo Estatal y Entidades Paraestatales deban coordinarse, tanto entre sí, como con las Administraciones Municipales y, en el marco del Sistema Nacional de Planeación, con Dependencias y Entidades de la Administración Pública Federal, mediante la celebración de los acuerdos correspondientes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 8.
 
-El Gobernador del Estado, de conformidad con lo dispuesto por la legislación aplicable en la materia, fijará y conducirá la política de igualdad entre mujeres y hombres, de acceso de las mujeres a una vida libre de violencia, educativa, cultural y deportiva y determinará la orientación de la planeación, organización, dirección y evaluación de los programas y metas. En materia de salud y ecología, lo hará de acuerdo con las disposiciones legales vigentes.
+El Gobernador del Estado, de conformidad con lo dispuesto por la legislación aplicable en la materia, fijará y conducirá la política de igualdad entre mujeres y hombres, de acceso de las mujeres a una vida libre de violencia, paridad de género, educativa, cultural y deportiva y determinará la orientación de la planeación, organización, dirección y evaluación de los programas y metas. En materia de salud y ecología, lo hará de acuerdo con las disposiciones legales vigentes.
+
+Como parte de la política que desarrolle la persona Titular del Poder Ejecutivo Estatal al interior de las Dependencias y Entidades de la Administración Pública, deberá promover las acciones necesarias para prevenir el acoso y hostigamiento laboral, por medio de la elaboración y difusión de protocolos y campañas informativas.
 
 ###### Artículo 9.
 
 El Titular del Ejecutivo, en representación del Estado, podrá convenir con la Federación, con otras Entidades Federativas, con los Municipios, con entidades de la Administración Pública Paraestatal, con personas físicas o morales de los sectores público, social y privado, cumpliendo con las formalidades de Ley que en cada caso procedan, la prestación de servicios, la ejecución de obras o la realización de cualquier otro propósito de beneficio para el Estado; así como, otorgar concesiones para el uso y aprovechamiento de bienes del dominio público del Estado o la prestación de servicios públicos a su cargo.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 10.
 
-El Gobernador del Estado, nombrará y removerá libremente a los Servidores Públicos de la Administración Pública y determinará la forma en que los titulares deban ser suplidos en sus ausencias, con las limitaciones que establezcan las leyes.
+El Gobernador del Estado, nombrará y removerá libremente a los servidores públicos de la Administración Pública y determinará la forma en que los titulares deban ser suplidos en sus ausencias, con las limitaciones que establezcan las leyes, procurando observar el principio de paridad de género en los nombramientos de las personas titulares de las dependencias de la Administración Pública estatal.
 
 ###### Artículo 11.
 
@@ -211,6 +213,12 @@ XVIII.- Oficialía Mayor.
 
 Cada dependencia del Poder Ejecutivo deberá contar con una Unidad Institucional para la Igualdad entre Mujeres y Hombres que tendrá la función de vigilar la incorporación de la perspectiva de género en la planeación, organización, ejecución y evaluación de las políticas públicas, así como garantizar la institucionalización de la igualdad sustantiva, con base en lo establecido en la Ley para la Igualdad entre Mujeres y Hombres del Estado de Hidalgo. Dicha Unidad dependerá y será designada por la persona titular de cada Secretaria, además tendrá mínimo el nivel de subdirección.
 
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2021)</small>
+
+###### Artículo 13 Ter.
+
+Cada dependencia del Poder Ejecutivo deberá garantizar la contratación de personas adultas mayores dentro de su plantilla laboral, en términos de lo establecido en la Ley para los Derechos de los Adultos Mayores del Estado de Hidalgo.
+
 ###### Artículo 14.
 
 Las dependencias del Poder Ejecutivo podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia que se determine de conformidad con las disposiciones legales aplicables.
@@ -241,11 +249,29 @@ Para ser titular de las dependencias y entidades del Ejecutivo a que se refiere 
 
 I.- Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos;
 
-II.- Contar con experiencia profesional;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2021)</small>
 
-III.- No ser ministro de cualquier culto religioso ni haber sido sentenciado por la comisión de algún delito intencional; y
+II.- Tener idoneidad para el cargo y contar con experiencia profesional;
 
-IV.- No desempeñar ningún otro puesto, empleo, cargo o comisión, incompatible al encargo por cuestión de función o materia, a excepción de los relacionados con la docencia, beneficencia y los que sean expresamente autorizados por el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2021)</small>
+
+III.- No ser ministro de cualquier culto religioso ni haber sido sentenciado por la comisión de algún delito intencional;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2021)</small>
+
+III Bis.- No estar inhabilitado para el desempeño de cargos públicos;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2021)</small>
+
+IV.- No desempeñar ningún otro puesto, empleo, cargo o comisión, incompatible al encargo por cuestión de función o materia, a excepción de los relacionados con la docencia, beneficencia y los que sean expresamente autorizados por el Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2021)</small>
+
+V.- No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, tramite el descuento correspondiente; y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2021)</small>
+
+VI.- No estar condenado mediante sentencia ejecutoriada, por delito doloso, de acoso sexual o abuso sexual y/o delitos de violencia de género o por violencia familiar.
 
 (F. DE., P.O. 28 DE NOVIEMBRE DE 2011)
 
@@ -288,6 +314,18 @@ IV Ter.- Coordinar en vinculación con las organizaciones de la sociedad civil t
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 IV Quáter.- Promover el respeto irrestricto de los derechos humanos de toda persona que se encuentre en el territorio estatal, permanente o transitoriamente, a través de la instancia correspondiente;
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES SILILAR AL DE LA FRACCIÓN IV QUINQUIES (SIC), VÉASE LITERALIDAD DEL P.O. 16 DE AGOSTO DE 2021, PÁGINA 7]</small>
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2021)</small>
+
+IV Quinquies.- Formular, coordinar y vigilar las políticas, planes y programas tendientes a homologar y unificar de manera integral la atención de las mujeres víctimas de violencia, así como establecer la coordinación y cooperación conjunta entre los diferentes poderes de (sic) Estado y Municipios.
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES SILILAR AL DE LA FRACCIÓN IV QUINQUIES QUE ANTECEDE, VÉASE LITERALIDAD DEL P.O. 16 DE AGOSTO DE 2021, PÁGINA 7]</small>
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2021)</small>
+
+IV Quinquies (sic).- Formular, coordinar y vigilar las políticas, planes y programas tendientes a homologar y unificar de manera integral la atención de las mujeres víctimas de violencia de género, así como establecer la coordinación y cooperación entre los diferentes poderes de (sic) Estado y Municipios;
 
 V.- Atender la política en materia de población;
 
@@ -397,7 +435,9 @@ XIII. Fomentar entre las dependencias y entidades de la Administración Pública
 
 XIV. Solicitar a las dependencias y entidades de la Administración Pública Estatal, en el caso que así se requiera la reorientación de las acciones de gobierno en coherencia con la planeación estatal;
 
-XV. Promover y coordinar las acciones de modernización e innovación gubernamental, así como la aplicación y uso de las tecnologías de información y comunicaciones, que contribuyan al seguimiento de los asuntos gubernamentales, mejorar los sistemas de desempeño, productividad y aprovechamiento óptimo de recursos de la gestión pública, tanto estatal como municipal, de conformidad a la legislación y reglamentación aplicable vigente;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2021)</small>
+
+XV. Promover y coordinar las acciones de gobierno digital, modernización e innovación gubernamental, así como la aplicación y uso de las tecnologías de información y comunicaciones, que contribuyan al seguimiento de los asuntos gubernamentales, mejorar los sistemas de desempeño, productividad y aprovechamiento óptimo de recursos de la gestión pública, tanto estatal como municipal, de conformidad a la legislación y reglamentación aplicable vigente;
 
 XVI.- (DEROGADA, P.O. 31 DE JULIO DE 2018)
 
@@ -1493,6 +1533,10 @@ XXV.- Proponer y coordinar las campañas publicitarias encaminadas a difundir lo
 
 XXVI.- Mantener relaciones con la Comisión Nacional de Salarios Mínimos y las instancias que correspondan para la protección y mejoramiento del salario en el Estado;
 
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2021)</small>
+
+XXVI Bis.- Promover que el personal que labore en la Junta de Conciliación y Arbitraje, Tribunal de Arbitraje y Procuraduría del Trabajo, sea certificado en materia laboral por instituciones con reconocimiento de validez oficial;
+
 XXVII.- Dirigir, formular e instrumentar programas de capacitación y adiestramiento para el desarrollo de los trabajadores en activo y desempleados, en coordinación con las autoridades competentes de la Administración Pública Federal y Estatal, así como coordinar el Servicio Nacional de Empleo Hidalgo; y
 
 XXVIII.- Los demás que le fijen expresamente las Leyes y Reglamentos.
@@ -1715,7 +1759,9 @@ IX. Establecer los lineamientos y criterios para la administración de los servi
 
 X. Dirigir, coordinar y regular la formulación, ejecución y difusión de las políticas, planes, programas, proyectos y acciones establecidas en la normatividad vigente al Sistema Estatal de Archivos, que garantice la adecuada administración documental de los archivos del Poder Ejecutivo;
 
-XI. Conformar y administrar el archivo general del Estado, estableciendo y vigilando el cumplimiento de las políticas y lineamientos para la organización, preservación, difusión, guarda y custodia de los acervos documentales;
+(NOTA: EL 17 DE MARZO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+XI. CONFORMAR Y ADMINISTRAR EL ARCHIVO GENERAL DEL ESTADO, ESTABLECIENDO Y VIGILANDO EL CUMPLIMIENTO DE LAS POLÍTICAS Y LINEAMIENTOS PARA LA ORGANIZACIÓN, PRESERVACIÓN, DIFUSIÓN, GUARDA Y CUSTODIA DE LOS ACERVOS DOCUMENTALES;
 
 XII. Actuar como depositario de bienes transferidos al Estado bajo cualquier título; y
 
@@ -1884,3 +1930,9 @@ Segundo. Dentro de un plazo no mayor a 90 días deberán realizarse las modifica
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Cuarto. Las modificaciones realizadas al artículo 37 entrarán en vigor una vez que sea puesto en operación el Centro de Conciliación Laboral.
+
+P.O. 16 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 724 QUE REFORMA Y ADICIONA, DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
