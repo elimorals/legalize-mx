@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2021-07-05"
+last_updated: "2021-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -35855,7 +35855,9 @@ III. Premio "Presea, Puebla de Zaragoza";
 
 IV. Premio "Municipal de la Juventud";
 
-V. Premio Municipal "Natalia Serdán";
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2021)</small>
+
+V. Premio Municipal a la Mujer "Natalia Serdán";
 
 VI. Premio Municipal "Del Deporte";
 
@@ -36207,17 +36209,31 @@ IV. Los Regidores integrantes de la Comisión permanente del Ayuntamiento que at
 
 DEL PREMIO MUNICIPAL "NATALIA SERDÁN"
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 2311.
 
-El Premio Municipal "Natalia Serdán" constituye un reconocimiento que otorga el Ayuntamiento de Puebla a las mujeres mayores de dieciocho años que sobresalgan por su iniciativa o trabajo desarrollado con el objeto de promover y apoyar el ejercicio pleno de los derechos humanos de las mujeres y la igualdad de género y/o por haber realizado alguna contribución significativa en el campo de la ciencia, en el Municipio de Puebla.
+El Premio Municipal a la Mujer "Natalia Serdán" constituye un reconocimiento que otorga el Ayuntamiento de Puebla, a las mujeres, mayores de dieciocho años, que sobresalgan por su iniciativa o trabajo desarrollado con el objeto de promover y apoyar el ejercicio pleno de los derechos humanos de las mujeres y la igualdad de género, o por haber realizado alguna contribución significativa en grado eminente en el campo de la ciencia, historia, cultura, arte, comunicación, política, economía o sociedad; que generen cambios y transformaciones a fin de cerrar la brecha de género; contribuyendo al desarrollo de las mujeres.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2021)</small>
+
+Este premio podrá otorgarse post mortem, a las mujeres que históricamente hayan contribuido en lo establecido en el párrafo anterior, o como servidores de nuestra Patria o de la humanidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 2312.
 
-A la ganadora del Premio Municipal "Natalia Serdán", se le reconocerá mediante el otorgamiento de un Diploma el cual será entregado en Acto Protocolario, por acuerdo del Consejo de Premiación, preferentemente, en el marco de la conmemoración del Día Internacional de la Mujer.
+A la ganadora o ganadoras del Premio Municipal a la Mujer "Natalia Serdán", se les reconocerá mediante el otorgamiento de un Diploma entregado en Acto Protocolario, por acuerdo del Consejo de Premiación, preferentemente, en el marco de la conmemoración del Día Internacional de la Mujer.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2021)</small>
+
+En caso de que lo determine el Consejo de Premiación, podrá colocarse una placa o busto de la ganadora o ganadoras post modem, en una vialidad importante, área verde, parque, rotonda o camellón del municipio de Puebla, atendiendo a que se establezca que la labor de la ganadora o ganadoras post mortem sea trascendente y significativa en los rubros que reconoce este premio.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2021)</small>
+
+Previamente el Consejo de Premiación aprobará los estándares para las bases, placas o bustos a propuesta de la Secretaría del Ayuntamiento, con la intervención de la Secretaría de Desarrollo Urbano y Sustentabilidad, debiendo cumplir con la normatividad aplicable; en caso de colocarse en la Zona de Monumentos intervendrá la Gerencia del Centro Histórico.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 16 DE AGOSTO DE 2021)</small>
 
 La convocatoria se dará a conocer, preferentemente en el mes de enero o cuando el Consejo de Premiación lo determine.
 
@@ -36229,25 +36245,39 @@ Podrán participar las mujeres que destaquen en alguno de los siguientes rubros:
 
 I. Acciones o iniciativas para promover los derechos humanos de las mujeres, incluyendo acciones de difusión o desarrollo de programas específicos que contribuyan a que las mujeres de cualquier grupo de edad mejoren su calidad de vida;
 
-II. Las contribuciones significativas de mujeres científicas, creadoras, o artistas, misma que reconoce a las mujeres que se hayan destacado en el campo de las Ciencias, en el de la creación y el arte, en cualquiera de sus áreas;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2021)</small>
 
-III. Las contribuciones significativas de mujeres que laboran en el servicio público municipal, que se concederá a aquellas mujeres que se hayan distinguido dentro del servicio público en el gobierno del municipio de Puebla; y
+II. Contribuciones significativas de mujeres científicas, creadoras, o artistas: misma que reconoce a las mujeres que se hayan destacado en el campo de las Ciencias, en el de la creación y el arte, en cualquiera de sus áreas;
 
-IV. Las contribuciones significativas de mujeres en el ámbito de la vida política y participación en la toma de decisiones, que se otorgará a aquellas mujeres que tengan una trayectoria destacada en el ámbito político o que hayan ocupado posiciones destacadas en el ámbito de la toma de decisiones, incluyendo a quienes destacan por sus iniciativas y logros en el ámbito empresarial.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+III. Contribuciones significativas de mujeres que se hayan distinguido dentro del servicio público en el gobierno del municipio de Puebla;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2021)</small>
+
+IV. Contribuciones significativas de mujeres en el ámbito de la vida política y participación en la toma de decisiones, que se otorgará a aquellas mujeres que tengan una trayectoria destacada en el ámbito político o que hayan ocupado posiciones destacadas en el ámbito de la toma de decisiones, incluyendo a quienes destacan por sus iniciativas y logros en el ámbito empresarial;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2021)</small>
+
+V. Acciones que impulsen a las demás mujeres para participar activamente en causas sociales, que generen cambios y transformaciones a fin de cerrar la brecha de género, contribuyendo al desarrollo de las mujeres y fomentando la mejora en la economía; y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2021)</small>
+
+VI. En la realización de una actividad que incentive la conservación de las tradiciones, y en la promoción de acciones encaminadas al bienestar de la sociedad.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 2314.
 
-La entrega del Premio Municipal "Natalia Serdán", estará a cargo de un Consejo de Premiación que estará integrado por:
+La entrega del Premio Municipal a la Mujer "Natalia Serdán", estará a cargo de un Consejo de Premiación integrado por:
 
-I. El Presidente Municipal, quien fungirá como Presidente, con voz y voto, quien en caso de empate tendrá voto de calidad;
+I. La persona titular de la Presidencia Municipal quien lo presidirá con voz y voto; además en caso de empate tendrá voto de calidad;
 
-II. El Secretario del Ayuntamiento, con voz y voto;
+II. La persona titular de la Secretaría del Ayuntamiento con voz y voto;
 
-III. Dos Regidores integrantes de la Comisión o Comisiones permanentes del Ayuntamiento que atiendan los temas de Derechos Humanos, Equidad entre Géneros, Desarrollo Social y Participación Ciudadana, designados por la propia comisión; quienes fungirán como Vocales, con voz y voto; y
+III. Quienes presidan las Comisiones del Ayuntamiento de Derechos Humanos e Igualdad de Género y de Participación Ciudadana, quienes fungirán como Vocales, con voz y voto; y
 
-IV. El titular de la Secretaría de Desarrollo Social y del Instituto Municipal de las Mujeres, quienes fungirán como Vocales, con voz y voto.
+IV. El o la titular de la Secretaría de Bienestar y de la Secretaría para la Igualdad Sustantiva de Género, quienes fungirán como Vocales, con voz y voto.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -39650,3 +39680,11 @@ TERCERO. La Sindicatura Municipal en un lapso de 90 días, contados a partir de 
 CUARTO. A partir de la entrada en vigor del presente dictamen se deberá entender por Juzgados y Jueces de Justicia Cívica cuando la normatividad vigente refiera a los Juzgados y Jueces Calificadores.
 
 QUINTO. La imposición de sanciones en lo que respecta a infracciones de tránsito o vialidad, por parte de las y los Jueces de Justicia Cívica, se implementará una vez que se realicen las reformas conducentes en la Ley, Código y Reglamento pertinente, a efecto de no vulnerar las atribuciones, facultades y competencia de autoridades diversas.
+
+P.O. 16 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 20 DE JULIO DE 2021, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CAPÍTULO 36 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. Las reformas y adiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
