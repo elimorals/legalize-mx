@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-823-que-regula-las-construcciones-publicas-y-74401"
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-31"
-last_updated: "2018-12-21"
+last_updated: "2021-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 823 QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2021.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de marzo de 2010.
 
@@ -504,6 +504,10 @@ Todas las edificaciones deberán contar con buzones accesibles desde el exterior
 ###### Artículo 54.
 
 Las edificaciones públicas y privadas deberán garantizar su rápido desalojo en caso de emergencias provocadas por sismos, incendios, explosiones o cualquier otra causa y se sujetarán a lo que la reglamentación municipal establezca en relación con las características de puertas de acceso y de emergencias, circulaciones verticales y horizontales, rampas y, en su caso, de asientos y butacas.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+
+Adicionalmente, deberán contar con un letrero visible en su exterior en el que se especifique, conforme a la lengua originaria que se hable en el lugar donde se ubican, el nombre el establecimiento, una breve descripción del servicio público que se presta, así como las medidas de seguridad y de atención de emergencias.
 
 ###### Artículo 55.
 
@@ -1028,3 +1032,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Ejecutivo contará con un plazo de sesenta días a partir de la entrada en vigor del presente Decreto para hacer las adecuaciones necesarias al Reglamento de la Ley que Regula las Construcciones Públicas y privadas del Estado de Veracruz de Ignacio de la Llave y demás disposiciones.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 16 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 859 QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 54 DE LA LEY QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
