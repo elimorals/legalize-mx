@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-defensoria-publica-para-el-estado-de-nuevo-leon-66949"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-06"
-last_updated: "2021-03-19"
+last_updated: "2021-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DEFENSORÍA PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 6 de febrero de 2009.
 
@@ -559,9 +559,9 @@ VI. Acatar las normas que regulan el ejercicio profesional del abogado y las que
 
 VII. Rendir un informe mensual a su superior jerárquico;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2021)</small>
 
-VIII. Someterse a una capacitación y actualización permanente que asegure la eficiencia del servicio. Deberá cumplir con carácter obligatorio el programa de capacitación y actualización anual que el Director General determine;
+VIII. Someterse a una capacitación y actualización permanente que asegure la eficiencia del servicio. Deberá cumplir con carácter obligatorio el programa de capacitación y actualización anual que el Director General determine, mismo que deberá incluir, capacitación y actualización en materia de perspectiva de género y violencia contra las mujeres;
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
@@ -828,3 +828,9 @@ P.O. 19 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 462. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 39 DE LA LEY DE DEFENSORÍA PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 519. SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 33, DE LA LEY DE DEFENSORÍA PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
