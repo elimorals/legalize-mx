@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-y-reglas-de-integridad-de-la-secretaria-1392
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-21"
-last_updated: "2019-11-21"
+last_updated: "2021-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARIA DE OBRA PUBLICA DEL GOBIERNO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRA DEL GOBIERNO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 17 DE AGOSTO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE OBRA PÚBLICA DEL GOBIERNO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2021 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 21 de noviembre de 2019.
 
@@ -514,3 +516,17 @@ INSTRUCTIVO DE LLENADO
 (7) Año de elaboración de la Carta Compromiso.
 
 (8) Nombre y firma de la persona servidora pública, que elabora la Carta Compromiso.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 17 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRA DEL GOBIERNO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Código de Conducta en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Se abrogan el Código de Conducta y Reglas de Integridad de la Secretaría de Obra Pública del Gobierno del Estado de México, publicado en el periódico oficial “Gaceta del Gobierno” el 21 de noviembre de 2019, y el Código de Conducta y Reglas de Integridad de la Secretaría de Desarrollo Urbano y Metropolitano, publicado en el periódico oficial “Gaceta del Gobierno” el 18 de septiembre de 2018, así como, las demás disposiciones de igual o menor jerarquía que se contrapongan a lo establecido en el presente Código.
+
+TERCERO. Con el objeto de dar certeza a las personas servidoras públicas, el Comité y el Órgano Interno de Control, serán competentes para la interpretación, consulta y asesoría en caso de dudas con motivo de la aplicación u observancia del presente Código.
+
+CUARTO. El presente Código entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
