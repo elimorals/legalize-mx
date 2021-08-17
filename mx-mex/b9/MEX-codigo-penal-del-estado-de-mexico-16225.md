@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2021-08-16"
+last_updated: "2021-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3309,7 +3309,7 @@ Se perseguirán de oficio las conductas establecidas en el artículo 228, fracci
 
 ### CAPÍTULO III. MALTRATO ANIMAL
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 235.
 
@@ -3349,33 +3349,29 @@ La reparación del daño respecto de los delitos contenidos en este subtítulo, 
 
 ###### Artículo 235 Bis.
 
-Comete el delito de maltrato animal, el que cause lesiones dolosas a cualquier animal que no constituya plaga, con el propósito o no, de causarle la muerte y se le impondrá pena de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+Comete el delito de maltrato animal, el que cause lesiones dolosas a cualquier animal que no constituya plaga, con el propósito o no, de causarle la muerte y se le impondrá pena de seis meses a cuatro años de prisión y de ciento cincuenta a trescientos días multa.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
 La pena prevista en el párrafo anterior también se aplicará a quien abandone a cualquier animal de tal manera que quede expuesto a riesgos que amenacen su integridad, la de otros animales o de las personas.
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.G. 17 DE AGOSTO DE 2021)</small>
 
-A quien realice actos eróticos sexuales a un animal o le introduzca por vía vaginal o rectal el miembro viril, cualquier parte del cuerpo, objeto o instrumento se le impondrán de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+A quien realice actos eróticos sexuales a un animal o le introduzca por vía vaginal o rectal el miembro viril, cualquier parte del cuerpo, objeto o instrumento, se le impondrá una pena de seis meses a cuatro años de prisión y de cincuenta a ciento cincuenta días multa.
 
-> <small>(ADICIONADO, G.G. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 17 DE AGOSTO DE 2021)</small>
 
-La pena contenida en el presente artículo se incrementará hasta en una mitad cuando el maltrato animal sea videograbado o difundido.
+La pena contenida en el presente artículo se incrementará hasta en una mitad cuando el maltrato animal sea fotografiado, videograbado y/o difundido.
 
 > <small>(ADICIONADO, G.G. 5 DE DICIEMBRE DE 2017)</small>
 
 En cualquier caso, se procederá inmediatamente al aseguramiento de los animales, de conformidad con lo dispuesto en el cuarto párrafo del artículo 48 del presente código.
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 17 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 235 Ter.
 
-A quien cause la muerte no inmediata, utilizando cualquier medio que prolongue la agonía de cualquier animal que no constituya plaga, se le impondrá una pena de seis meses a tres años de prisión y de cien a doscientos días multa.
-
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2019)</small>
-
-Las penas contenidas en este capítulo se incrementarán hasta en una mitad cuando el maltrato animal sea cometido por servidores públicos que tengan por encargo el manejo de animales.
+A quien cause la muerte no inmediata, utilizando cualquier medio que prolongue la agonía de cualquier animal que no constituya plaga, se le impondrá una pena de tres a seis años de prisión y de doscientos a cuatrocientos días multa. Las penas contenidas en este capítulo se incrementarán hasta en una mitad cuando el maltrato animal sea cometido por servidores públicos que tengan por encargo el manejo de animales.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
@@ -7384,3 +7380,23 @@ Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 17 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 289.- POR EL QUE SE ADICIONA EL CAPÍTULO SEXTO BIS AL TÍTULO IV, Y LOS ARTÍCULOS 124 BIS, 124 TER, 124 QUATER, 125 QUINQUIES, 124 SEXIES, Y 124 SEPTIES, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y SE REFORMAN LOS ARTÍCULOS 235 BIS Y 235 TER, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos contarán con un plazo de un año para habilitar las Unidades de Control de Bienestar Animal.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
