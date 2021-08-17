@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-mejora-regulatoria-del-estado-de-mexico-y-sus-13045
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-17"
-last_updated: "2018-09-17"
+last_updated: "2021-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 17 de septiembre de 2018.
 
@@ -131,7 +131,9 @@ XIII. Dependencias: A las dependencias de las administraciones públicas estatal
 
 XIV. Ejecutivo Estatal: Al Gobernador Constitucional del Estado de México;
 
-XV. Enlace de Mejora Regulatoria: Al servidor público designado por el titular del sujeto obligado, como responsables de la mejora regulatoria al interior de sus áreas;
+> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2021)</small>
+
+XV. Enlace de Mejora Regulatoria: A las unidades designadas por el titular del sujeto obligado, como responsables de la mejora regulatoria al interior de sus áreas;
 
 XVI. Ley: A la Ley para la Mejora Regulatoria del Estado de México y sus Municipios;
 
@@ -168,6 +170,10 @@ XXXI. Solicitud de Protesta Ciudadana: Al escrito por el que una persona manifie
 XXXII. Sujeto Obligado: A las dependencias de la Administración Pública del Estado, los municipios, los poderes Legislativo y Judicial, los organismos con autonomía constitucional y los organismos con jurisdicción contenciosa, que no formen parte del poder judicial; y
 
 XXXIII. Trámite: A la solicitud o gestión que realizan las personas físicas o jurídicas colectivas, con base en un ordenamiento jurídico, ya sea para cumplir una obligación que tiene a su cargo, o bien, para obtener información, un beneficio, un servicio o una resolución, y que los sujetos obligados a que se refiere el propio ordenamiento están obligados a resolver en los términos del mismo.
+
+> <small>(ADICIONADA, G.G. 17 DE AGOSTO DE 2021)</small>
+
+XXXIV. Unidades: A la Unidad de Mejora Regulatoria de las Dependencias, Organismos y Entidades del Poder Ejecutivo del Estado.
 
 ###### Artículo 5.
 
@@ -491,9 +497,11 @@ Los Reglamentos Municipales de Mejora Regulatoria establecerán los términos en
 
 ### CAPÍTULO QUINTO. De los Sujetos Obligados
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 27.
 
-Los titulares de los sujetos obligados designarán a un servidor público con nivel jerárquico inmediato inferior al de éstos, como Enlace de Mejora Regulatoria, para coordinar, articular y vigilar el cumplimiento de la política de mejora regulatoria del Estado, al interior de cada Sujeto Obligado, conforme a lo dispuesto en esta Ley y en las disposiciones que de ella deriven.
+Los titulares de los sujetos obligados crearán dentro de su estructura orgánica Unidades como Enlace de Mejora Regulatoria, para coordinar, articular y vigilar el cumplimiento de la política de mejora regulatoria del Estado, al interior de cada Sujeto Obligado, con base en la suficiencia presupuestal correspondiente y conforme a lo dispuesto a esta Ley y en las disposiciones que de ella deriven.
 
 En el caso del poder Legislativo y Judicial, éstos decidirán lo conducente de conformidad con sus disposiciones orgánicas.
 
@@ -528,6 +536,22 @@ Lo previsto en el párrafo anterior no será aplicable para procesos jurisdiccio
 ###### Artículo 30.
 
 La Comisión será responsable de analizar las propuestas de creación de nuevas regulaciones o de reforma específica, mediante los Análisis de Impacto Regulatorio que le presenten los Sujetos Obligados y, en su caso, aprobarlas.
+
+> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2021)</small>
+
+###### Artículo 30 Bis.
+
+Son funciones de las Unidades, además de las señaladas a los Enlaces de Mejora Regulatoria, las siguientes:
+
+I. Promover y vigilar el seguimiento y cumplimiento de las acciones y programas de mejora regulatoria;
+
+II. Organizar las sesiones ordinarias y extraordinarias de los Comités Internos de Mejora Regulatoria;
+
+III. Coadyuvar en la atención de las protestas y observaciones ciudadanas que se reciban en materia de mejora regulatoria;
+
+IV. Auxiliar en la identificación de los trámites y servicios que presentan procesos complejos y costosos, para disminuir requisitos y tiempos de resolución; y
+
+V. Coadyuvar en la revisión de aquellas regulaciones cuyos costos superan a sus beneficios, las que han dejado de cumplir con su objetivo o están duplicadas o desactualizadas para eliminarlas.
 
 ## TÍTULO TERCERO. De la Implementación de la Mejora Regulatoria
 
@@ -1076,3 +1100,21 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. SERGIO ALEJANDRO OZUNA RIVERO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 17 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 288.- POR EL QUE SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 4 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 27; SE ADICIONA LA FRACCIÓN XXXIV DEL ARTÍCULO 4 Y EL ARTÍCULO 30 BIS DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado, actualizará los reglamentos y ordenamientos internos correspondientes de manera gradual, con base en la disponibilidad presupuestaria, y podrá adscribir las Unidades materia del presente Decreto a unidades administrativas existentes en atención a las medidas de austeridad y contención del gasto público.
