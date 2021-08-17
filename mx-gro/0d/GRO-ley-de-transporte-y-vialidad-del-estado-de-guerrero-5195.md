@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-transporte-y-vialidad-del-estado-de-guerrero-5195"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2018-08-28"
+last_updated: "2021-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de junio de 1989.
 
@@ -243,6 +243,10 @@ V. El Secretario de Fomento y Desarrollo Económico; y
 
 VI. El Secretario de Agricultura, Ganadería, Pesca y Desarrollo Rural.
 
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2021)</small>
+
+VII. El Presidente del Consejo Estatal Consultivo de Transporte y Vialidad, quien tendrá derecho a voz y voto, y un vocal del Consejo Consultivo, con derecho a voz, este último deberá asignarse dependiendo los temas a tratar por el Consejo Técnico y que sean competencia de la Región Económica que representa.
+
 El Director General de la Comisión Técnica de Transporte y Vialidad será nombrado y removido por el Titular del Poder Ejecutivo, mismo que podrá participar en las sesiones del Consejo con voz pero sin voto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
@@ -329,21 +333,63 @@ El Consejo Técnico, celebrará sesiones ordinarias bimensuales, pudiendo su Pre
 
 ### CAPITULO III. DE LA PARTICIPACION CIUDADANA
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 19.
 
-El Consejo Estatal Consultivo de Transporte y Vialidad será el órgano de consulta y se integrará por la Comisión Técnica de Transporte y Vialidad, cuyo titular la presidirá; así como, por las dependencias, entidades y organismos en materia de transporte público de pasajeros, y los representantes de las organizaciones de concesionarios, permisionarios y técnicos, que al efecto sean invitados.
+El Consejo Estatal Consultivo de Transporte y Vialidad será el órgano de consulta de la Comisión Técnica de Transporte y Vialidad; se integrará por los representantes de las organizaciones de concesionarios y permisionarios que estén legalmente registrados en el Estado, bajo la siguiente estructura:
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+I. Un Presidente;
+
+II. Un Vicepresidente;
+
+III. Un Secretario;
+
+IV. Un Vocal por cada una de las regiones económicas del Estado;
+
+V. Un Vocal por cada municipio que cuente con más de 100 mil habitantes;
+
+VI. Un representante de la Comisión de Transporte del Congreso del Estado, y
+
+VII. Un representante de la Universidad Autónoma de Guerrero, quien actuará con voz, pero sin voto.
+
+El Consejo sesionará válidamente con el 51% de sus integrantes, de manera ordinaria cada tres meses, pudiendo reunirse de manera extraordinaria las veces que sean necesarias previa convocatoria de su Presidente y Secretario.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 20.
 
-El Consejo Estatal Consultivo de Transporte y Vialidad emitirá opiniones y recomendaciones generales, específicas y vinculatorias para el mejoramiento del servicio público y la mejor atención de las necesidades colectivas.
+El Consejo Estatal Consultivo de Transporte y Vialidad, tendrá las siguientes atribuciones:
+
+I. Discutir, analizar y opinar sobre las alternativas de solución a la problemática en materia de transporte y la movilidad, a fin de conciliar y armonizar las opiniones, expectativas e intereses de los sectores público, social y privado involucrados;
+
+II. Proponer al Consejo Técnico de la Comisión Técnica de Transporte y Vialidad, la realización de acciones de mejora regulatoria y aseguramiento de la calidad de los servicios;
+
+III. Colaborar con la Secretaría de Desarrollo Urbano, Obras Publicas y Ordenamiento Territorial del Ejecutivo estatal en la elaboración y diseño de los planes, estrategias, programas y estudios en materia de transporte y movilidad;
+
+IV. Emitir opinión sobre la factibilidad del servicio de transporte urbano de pasajeros en las unidades urbanas, municipios, regiones del Estado;
+
+V. Con el sustento de estudios técnicos y financieros presentar opinión al Consejo Técnico de la Comisión Técnica de Transporte y Vialidad, para la revisión de las tarifas del servicio público de pasajeros;
+
+VI. Opinar y proponer mecanismos de solución a la problemática del transporte en el Estado, desde la planeación y diseño de políticas, programas, proyectos y acciones;
+
+VII. Emitir opinión de los estudios de ingeniería, desarrollo y evaluación de proyectos en materia de transporte y movilidad, sus temas afines y correlativos;
+
+VIII. Proporcionar a los municipios que así se lo soliciten, asesoría y opinión técnica en materia de transporte y movilidad;
+
+IX. Emitir opinión sobre el procedimiento de otorgamiento, modificación, revocación y cancelación de concesiones y permisos, y
+
+X. Elaborar y aprobar su Reglamento Interior y sus demás instrumentos normativos.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 21.
 
-Los Comités Consultivos de Transporte y Vialidad de carácter regional o municipal que se establezcan se conformarán con los servidores públicos, los representantes de las organizaciones locales de concesionarios y los técnicos que el Consejo Técnico designe.
+Los Integrantes del Consejo Estatal Consultivo de Transporte y Vialidad, serán nombrados por el Congreso del Estado, la Junta de Coordinación Política emitirá la convocatoria pública dirigida a los trabajadores y concesionarios del transporte público legalmente constituidos; a la Universidad Autónoma de Guerrero, y a los ayuntamientos de Municipios que cuenten con más de 100 mil habitantes, a fin de que registren o propongan candidatos a integrar el Consejo; la Comisión Ordinaria de Transportes será la encargada de desahogar el procedimiento de selección y propuesta de designación ante el Pleno.
+
+Para la designación de los integrantes del Consejo se requerirá de las dos terceras partes de los Diputados presentes en sesión ordinaria. El cargo será honorífico y durará hasta por seis años improrrogables.
+
+En la designación de los integrantes del Consejo, el Congreso del Estado velará por la pluralidad entre los concesionarios y trabajadores del volante, así como de organizaciones. Evitando que más de un miembro de dichas representaciones o agrupaciones ocupe más de un espacio dentro del Consejo Estatal Consultivo de Transporte y Vialidad.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
@@ -939,7 +985,9 @@ Las concesiones y permisos a que se refiere esta Ley sólo se otorgarán a mexic
 
 I. Trabajadores guerrerenses del transporte;
 
-II. Núcleos agrarios y comisarías municipales;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2021)</small>
+
+II. Núcleos agrarios y comisarías municipales, para transporte rural.
 
 III. Organizaciones representativas de los trabajadores del transporte;
 
@@ -949,7 +997,9 @@ V. A quien cuente con mejor equipo, infraestructura y experiencia para la eficie
 
 VI. A quien haya resultado afectado por expropiaciones agrarias o por razón de equidad social.
 
-Cuando un núcleo agrario obtenga una concesión o permiso de los que prevé esta Ley, y carezca de la capacidad económica para la adquisición del equipo de transporte, su asamblea general propondrá a la Comisión Técnica de Transporte y Vialidad al ejidatario o comunero que pueda obtener la concesión o permiso para, en su caso, explotarla en beneficio del núcleo agrario que lo haya propuesto.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2021)</small>
+
+Para que un núcleo agrario obtenga una concesión o permiso de los que prevé esta Ley, deberá acreditar su afiliación como organización agraria, por parte de la Secretaría de Desarrollo Agrario, Territorial y Urbano, así como la propiedad del vehículo con que se prestará el servicio.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -1029,6 +1079,10 @@ I. Haber trabajado como mínimo cinco años continuos en este tipo de servicio, 
 
 II. Que dicha antigüedad la hayan computado en la localidad donde se vayan a otorgar las concesiones.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2021)</small>
+
+La Comisión Técnica de Transporte y Vialidad deberá realizar un estudio de los trabajadores del volante que cumplan con la antigüedad requerida, a efecto que la concesión se otorgue a quien tenga el mayor número de años en el servicio y reúna los requisitos para ser beneficiario de una concesión.
+
 ###### ARTICULO 60.
 
 Cuando el concesionario de un vehículo de alquiler opte porque su concesión se configure como patrimonio familiar en los términos de ley, para que se generen las prerrogativas y límites propias de esa institución jurídica, la autorización subsistirá hasta que fallezca el titular, o su cónyuge, concubina o concubino; o bien sus hijos sean mayores de edad.
@@ -1091,7 +1145,21 @@ II. Cumplir con los horarios, rutas, itinerarios, territorios de operación y ta
 
 III. Mantener los vehículos, terminales, bases de operación y servicios conexos en condiciones de seguridad e higiene para el servicio;
 
-IV. Emplear personal que cumpla con los requisitos que señale el Reglamento respectivo;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2021)</small>
+
+IV. Cuando emplee personal para la explotación de la concesión, deberá reunir los siguientes requisitos;
+
+a) Identificación Oficial Vigente, principalmente la expedida por el Instituto Nacional Electoral;
+
+b) Carta de recomendación;
+
+c) Carta de antecedentes no penales;
+
+d) Examen toxicológico, el cuál deberá realizarse por lo menos una vez cada semestre;
+
+e) Cursar talleres de formación orientados a la mejora continua en el servicio de transporte publico
+
+f) Contar con licencia de manejo emitida por transito estatal.
 
 V. Exigir al personal a su cargo, el trato correcto a los usuarios;
 
@@ -1106,6 +1174,10 @@ IX. Establecer su domicilio en el lugar del Estado que fije la concesión;
 X. Cumplir con las disposiciones de las demás leyes y reglamentos aplicables, y
 
 XI. En los casos a que se refiere la fracción III, la autoridad podrá otorgar plazos para que se subsanen las deficiencias.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2021)</small>
+
+La Comisión Técnica de Transporte y Vialidad, en coordinación con las agrupaciones o asociaciones del Transporte Público deberán establecer programas de capacitación, orientación y mejora del servicio del transporte público, dirigido a los trabajadores del volante, con el objetivo de profesionalizar el servicio y cumplir con lo señalado en el inciso e) de la fracción IV, del presente artículo.
 
 ###### ARTICULO 70.
 
@@ -1712,3 +1784,29 @@ TERCERO. Los asuntos que actualmente se encuentran en trámite y los que se inic
 CUARTO. Remítase este Decreto al Gobernador Constitucional del Estado Libre y Soberano de Guerrero para los efectos legales conducentes.
 
 QUINTO. Publíquese el presente Decreto para el conocimiento general en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 792 POR EL QUE SE REFORMAN LOS ARTÍCULOS 19, 20 Y 21 Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 12 DE LA LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. A los 30 días de entrada en vigor las presentes reformas, la Junta de Coordinación Política del Congreso del Estado, emitirá la convocatoria para elegir y designar a los integrantes del Consejo Estatal Consultivo de Transporte y Vialidad.
+
+TERCERO. El Consejo Estatal Consultivo de Transporte y Vialidad deberá instalarse a los 30 días de la toma de protesta y aprobar su Reglamento Interno en un término de 60 días hábiles contados a partir de su instalación.
+
+CUARTO. Remítase al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes y para su publicación en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
+
+P.O. 17 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 793 POR EL QUÉ SE POR EL QUE SE (SIC) REFORMAN LA FRACCIÓN II Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 52; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 69, LA FRACCIÓN IV DEL ARTÍCULO 69, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 59 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 69 DE LA LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Las concesiones otorgadas en contravención a las disposiciones aprobadas surtirán efectos por el tiempo que fueron otorgadas y para el servicio otorgado.
+
+TERCERO. Los concesionarios en un término de 30 días posteriores a la entrada en vigor de las presentes reformas, deberán dar cumplimiento a lo dispuesto en el artículo 69, fracción IV.
+
+CUARTO. Remítase al Titular del Ejecutivo del Estado para los efectos legales procedentes.
+
+QUINTO. Publíquese en el Periódico oficial del gobierno del Estado, para el conocimiento general y efectos legales conducentes.
