@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2021-08-16"
+last_updated: "2021-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -12981,6 +12981,10 @@ Nulidad de la donación del total de bienes
 
 622.- Es nula la donación que comprende la totalidad de los bienes del donante, si éste no se reserva en propiedad o en usufructo el setenta por ciento de los bienes o derechos que formen parte de su patrimonio; en todo caso deberá conservar el donante lo necesario para vivir.
 
+> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2021)</small>
+
+Cuando el donante sea una persona de 60 años o más, el usufructo a que se refiere el párrafo anterior deberá ser vitalicio, lo cual deberá establecerse en el documento en que se haga constar.
+
 Donaciones inoficiosas
 
 ###### Artículo 7.
@@ -18642,3 +18646,15 @@ Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 17 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 287.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 7.622 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta de (sic) Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
