@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2021-01-26"
+last_updated: "2021-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2021.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -2721,11 +2721,93 @@ Los órganos de control y evaluación gubernamental de los ayuntamientos, serán
 
 Asimismo, serán responsables de informar a la Secretaría de Finanzas sobre la constitución de aquellos fideicomisos simples que utilicen recursos públicos, estando obligados a proporcionar la información que la misma les solicite, en cumplimiento a lo previsto por el Código Financiero del Estado de México y Municipios y demás disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 17 DE AGOSTO DE 2021)</small>
+
+### CAPITULO SEXTO BIS
+
+De las Unidades Municipales de Control y Bienestar Animal, y del Consejo Municipal de Control y Bienestar Animal.
+
+> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2021)</small>
+
+###### Artículo 124 Bis.
+
+En cada municipio se establecerá una Unidad de Control y Bienestar Animal, la cual tendrá las siguientes funciones:
+
+I. Desarrollar y aplicar programas de esterilización permanente de perros y gatos de compañía y en situación de calle;
+
+II. Promoción de la educación y cultura de la convivencia responsable de los animales de compañía;
+
+III. De vacunación y esterilización;
+
+IV. De difusión, promoción y fomento de adopción de animales;
+
+V. Capacitación para la promoción del bienestar animal;
+
+VI. Control poblacional de perros y gatos en situación de calle; por medio de la esterilización.
+
+> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2021)</small>
+
+###### Artículo 124 Ter.
+
+Para el cumplimiento de sus funciones deberá realizar las siguientes acciones:
+
+I. Coordinar, organizar y difundir la operación de programas permanentes de control y bienestar animal en situación de calle, apoyándose en el respectivo Consejo Municipal.
+
+II. Atender y canalizar los reportes de maltrato animal en situación de calle;
+
+III. Aplicar y atender la normatividad en materia de control y bienestar animal, con el objetivo de garantizar la protección a los animales de compañía en situación de calle, y demás animales a que se refiere el artículo 6.3 del Código para la Biodiversidad del Estado de México.
+
+IV. Establecer un plan de trabajo anual, mismo que se pondrá a consideración del Consejo Municipal de Control y Bienestar Animal durante el mes de enero de cada año;
+
+V. Contar con las medidas adecuadas de control sanitario en sus instalaciones y en la implementación de acciones de control animal;
+
+VI. Disponer de un equipo que, proporcione servicio médico veterinario de manera rutinaria;
+
+VII. Habilitar unidades en desuso para la instalación de unidades móviles de esterilización de animales de compañía y en situación de calle.
+
+VIII. Contar con las unidades móviles que determinen las necesidades de cada municipio en materia de control poblacional animal.
+
+IX. Contar con personal médico capacitado para la implementación de acciones de control animal.
+
+X. Contar con equipo y medidas adecuadas de control sanitario en las unidades móviles, o en instalaciones para la implementación de acciones de control animal
+
+XI. Disponer de un equipo que proporcione servicio médico veterinario de manera rutinaria en unidades móviles o instalaciones.
+
+XII. Esterilizar a diez por ciento del total de animales en situación de calle anualmente.
+
+Para el cumplimiento de sus funciones, podrá auxiliarse de las dependencias de la administración pública municipal, y solicitar colaboración de otras instancias de gobierno, iniciativa privada o de la sociedad civil.
+
+> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2021)</small>
+
+###### Artículo 124 Quater.
+
+Para ser titular de la Unidad Municipal de Control y Bienestar Animal, se requiere, además de los requisitos del artículo 32 de esta Ley, contar con Licenciatura y Cédula en Medicina Veterinaria, Zootecnista o profesión que se relacione con el conocimiento del cuidado y manejo de animales.
+
+> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2021)</small>
+
+###### Artículo 124 Quinquies.
+
+Cada Ayuntamiento constituirá un Consejo Municipal de Protección y Bienestar Animal, con funciones de órgano de consulta para la prevención, acuerdos, y ejecución de acciones necesarias para la atención de los asuntos relacionados con el control y bienestar animal.
+
+> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2021)</small>
+
+###### Artículo 124 Sexies.
+
+En la integración del Consejo Municipal se deberá garantizar la inclusión de personas con experiencia en materia de cuidado animal y aquellas provenientes de organizaciones de la sociedad civil que realicen acciones en pro del cuidado animal.
+
+> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2021)</small>
+
+###### Artículo 124 Septies.
+
+El Consejo Municipal de Protección y Bienestar Animal, contará con las siguientes facultades:
+
+I. Opinar sobre el programa anual de trabajo que la titular o el titular de la Unidad de Control Animal ponga a consideración del consejo;
+
+II. Emitir opiniones sobre las acciones a realizar en materia de cuidado animal en situación de calle, las cuales deberán ser atendidas por la titular o el titular de la Unidad de Control Animal;
+
+III. Emitir opiniones para la mejora continua en las actividades que realice la Unidad Municipal de Control y Bienestar Animal.
+
 ### CAPITULO SEPTIMO. De los Servicios Públicos
-
-### CAPITULO OCTAVO. De los Cuerpos de Seguridad Pública y Tránsito
-
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 125.
 
@@ -2875,7 +2957,9 @@ El ayuntamiento emitirá la declaratoria de municipalización, una vez oído a l
 
 Una vez decretada la municipalización del servicio, si el ayuntamiento carece de recursos para prestarlo, podrá concesionarlo en términos de esta Ley.
 
-### CAPITULO NOVENO. Del Sistema de Mérito y Reconocimiento al Servicio Público Municipal
+### CAPITULO OCTAVO. De los Cuerpos de Seguridad Pública y Tránsito
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 142.
 
@@ -2922,6 +3006,58 @@ El Servicio Profesional de Carrera para Bomberos y Protección Civil comprende e
 ###### Artículo 144 Quinquies.
 
 Los municipios en uso de su autonomía hacendaria, podrán convenir con instituciones públicas o privadas, un sistema de ahorro para la obtención de vivienda, a favor de los Bomberos, Protección Civil y de los cuerpos de seguridad pública.
+
+### CAPITULO NOVENO. Del Sistema de Mérito y Reconocimiento al Servicio Público Municipal
+
+###### Artículo 145.
+
+En cada municipio se establecerá un sistema de mérito y reconocimiento al servicio público municipal con los siguientes objetivos:
+
+I. Mejorar la capacidad de los recursos humanos, estimulados por la capacitación o motivación de los servidores públicos municipales;
+
+II. Mejorar la calidad de los servicios públicos;
+
+III. Desarrollar un sistema efectivo de capacitación y desarrollo;
+
+IV. Lograr la continuidad de los programas;
+
+V. Aprovechar integralmente la experiencia del servidor público municipal;
+
+VI. Orientar la función pública municipal a la calidad total en los servicios públicos;
+
+VII. Propiciar el desarrollo integral de los servidores públicos.
+
+###### Artículo 146.
+
+El sistema de mérito y reconocimiento al servicio público municipal contará con una Comisión Municipal de Evaluación y Reconocimiento Público Municipal en la que participarán:
+
+I. El presidente municipal, quien la presidirá;
+
+II. Un regidor como secretario técnico;
+
+III. A invitación del presidente municipal, un representante del Gobierno del Estado;
+
+IV. En su caso, representantes de colegios o asociaciones profesionales o técnicas.
+
+###### Artículo 147.
+
+Las funciones de la Comisión Municipal de Evaluación y Reconocimiento del Servicio Público Municipal serán las siguientes:
+
+I. Diseñar y operar un sistema de méritos y reconocimientos a la función pública en áreas técnicas;
+
+II. Aplicar exámenes de oposición a los candidatos a ocupar los puestos en áreas técnicas;
+
+III. Emitir dictámenes sobre el desempeño de los servidores públicos de áreas técnicas;
+
+IV. Celebrar evaluaciones cada seis meses a los servidores públicos de áreas técnicas;
+
+V. Llevar un expediente individual de cada una de las personas que colaboran en la Administración Pública Municipal de manera permanente, donde consten los aspectos de las fracciones anteriores para la promoción y desarrollo del personal;
+
+VI. Promover la capacitación y especialización permanente del personal que labora en las áreas técnicas;
+
+VII. Las que el ayuntamiento le asigne.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO DECIMO. Selección, Nombramiento, Atribuciones y Obligaciones del Defensor Municipal de Derechos Humanos
 
@@ -3133,56 +3269,6 @@ Artículo 147 O.- Corresponderá a la Comisión de Derechos Humanos del Estado d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE JULIO DE 2013)</small>
 
-###### Artículo 145.
-
-En cada municipio se establecerá un sistema de mérito y reconocimiento al servicio público municipal con los siguientes objetivos:
-
-I. Mejorar la capacidad de los recursos humanos, estimulados por la capacitación o motivación de los servidores públicos municipales;
-
-II. Mejorar la calidad de los servicios públicos;
-
-III. Desarrollar un sistema efectivo de capacitación y desarrollo;
-
-IV. Lograr la continuidad de los programas;
-
-V. Aprovechar integralmente la experiencia del servidor público municipal;
-
-VI. Orientar la función pública municipal a la calidad total en los servicios públicos;
-
-VII. Propiciar el desarrollo integral de los servidores públicos.
-
-###### Artículo 146.
-
-El sistema de mérito y reconocimiento al servicio público municipal contará con una Comisión Municipal de Evaluación y Reconocimiento Público Municipal en la que participarán:
-
-I. El presidente municipal, quien la presidirá;
-
-II. Un regidor como secretario técnico;
-
-III. A invitación del presidente municipal, un representante del Gobierno del Estado;
-
-IV. En su caso, representantes de colegios o asociaciones profesionales o técnicas.
-
-###### Artículo 147.
-
-Las funciones de la Comisión Municipal de Evaluación y Reconocimiento del Servicio Público Municipal serán las siguientes:
-
-I. Diseñar y operar un sistema de méritos y reconocimientos a la función pública en áreas técnicas;
-
-II. Aplicar exámenes de oposición a los candidatos a ocupar los puestos en áreas técnicas;
-
-III. Emitir dictámenes sobre el desempeño de los servidores públicos de áreas técnicas;
-
-IV. Celebrar evaluaciones cada seis meses a los servidores públicos de áreas técnicas;
-
-V. Llevar un expediente individual de cada una de las personas que colaboran en la Administración Pública Municipal de manera permanente, donde consten los aspectos de las fracciones anteriores para la promoción y desarrollo del personal;
-
-VI. Promover la capacitación y especialización permanente del personal que labora en las áreas técnicas;
-
-VII. Las que el ayuntamiento le asigne.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE AGOSTO DE 2009)</small>
-
 ### CAPITULO DECIMO PRIMERO. Del Cronista Municipal
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE NOVIEMBRE DE 2020)</small>
@@ -3263,17 +3349,13 @@ Artículo 147 V.- Preferentemente, el Cronista Municipal tendrá el nivel de Dir
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. De las Oficialías Mediadora-Conciliadoras y de las Oficialías Calificadoras Municipales
-
-> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
-
 ## TITULO V. De la Función Mediadora-Conciliadora y de la Calificadora de los Ayuntamientos
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. De los Recursos Administrativos
+### CAPITULO PRIMERO. De las Oficialías Mediadora-Conciliadoras y de las Oficialías Calificadoras Municipales
 
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 148.
 
@@ -3491,6 +3573,16 @@ Para el debido cumplimiento de las atribuciones que en este capítulo se previen
 
 Las faltas temporales de los oficiales calificadores serán cubiertas por el secretario de la propia oficialía o por el servidor público que el Presidente Municipal designe, quienes estarán habilitados para actuar en nombre del titular, siempre y cuando cumplan los requisitos de Ley.
 
+### CAPITULO SEGUNDO. De los Recursos Administrativos
+
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
+
+###### Artículo 154.
+
+Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
 ### CAPITULO SEGUNDO BIS. De la Acción Popular
 
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
@@ -3525,16 +3617,6 @@ g). Listado de nombres de los accionantes el cual no deberá ser menor a diez pe
 
 Artículo 154 D.- En la acción popular procede el recurso de revisión ante la Sala Superior, en los términos y contra los actos previstos en los artículos 285, 286, 287 y 288 del Código de Procedimientos Administrativos del Estado de México.
 
-###### Artículo 154.
-
-Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
-
-### CAPITULO PRIMERO. Del Bando y los Reglamentos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
-
 ###### Artículo 155.
 
 (DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
@@ -3557,7 +3639,9 @@ Contra los actos y resoluciones administrativos que dicten o ejecuten las autori
 
 ## TITULO VI. De la Reglamentación Municipal
 
-### CAPITULO SEGUNDO. De las Sanciones
+### CAPITULO PRIMERO. Del Bando y los Reglamentos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 160.
 
@@ -3631,7 +3715,7 @@ Los ayuntamientos podrán expedir los reglamentos, circulares y disposiciones ad
 
 Los Bandos, sus reformas y adiciones, así como los reglamentos municipales deberán promulgarse estableciendo su obligatoriedad y vigencia y darse a la publicidad en la Gaceta Municipal y en los estrados de los ayuntamientos, así como en los medios que se estime conveniente.
 
-### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos Municipales
+### CAPITULO SEGUNDO. De las Sanciones
 
 ###### Artículo 166.
 
@@ -3654,6 +3738,8 @@ V. Arresto administrativo hasta por treinta y seis horas.
 Los acuerdos, concesiones, permisos o autorizaciones otorgados por autoridades o servidores públicos municipales que carezcan de la competencia necesaria para ello, o los que se dicten por error, dolo o violencia, que perjudiquen o restrinjan los derechos del municipio sobre sus bienes del dominio público, o cualquier otra materia, serán anulados administrativamente por los ayuntamientos, previa audiencia de los interesados.
 
 ## TITULO VII. De los Servidores Públicos Municipales
+
+### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos Municipales
 
 ###### Artículo 168.
 
@@ -5386,3 +5472,23 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+G.G. 17 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 289.- POR EL QUE SE ADICIONA EL CAPÍTULO SEXTO BIS AL TÍTULO IV, Y LOS ARTÍCULOS 124 BIS, 124 TER, 124 QUATER, 125 QUINQUIES, 124 SEXIES, Y 124 SEPTIES, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y SE REFORMAN LOS ARTÍCULOS 235 BIS Y 235 TER, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos contarán con un plazo de un año para habilitar las Unidades de Control de Bienestar Animal.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
