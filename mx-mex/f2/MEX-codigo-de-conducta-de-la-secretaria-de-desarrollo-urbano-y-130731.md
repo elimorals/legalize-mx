@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-la-secretaria-de-desarrollo-urbano-y-1307
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-18"
-last_updated: "2019-09-04"
+last_updated: "2021-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE DESARROLLO URBANO Y METROPOLITANO DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO URBANO Y METROPOLITANO, PUBLICADO EN LA G.G. DE 4 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARIA DE DESARROLLO URBANO Y OBRA DEL GOBIERNO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 17 DE AGOSTO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO URBANO Y METROPOLITANO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE SEPTIEMBRE DE 2019 (SIN EFECTOS).
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2021 (ABROGADO).
 
 Código publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el martes 18 de septiembre de 2018.
 
@@ -693,3 +693,15 @@ PRIMERO. Publíquese el presente Código en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se deja sin efectos el Código de Conducta de los Servidores Públicos de la Secretaría de Desarrollo Urbano y Metropolitano, publicado en el Periódico Oficial “Gaceta del Gobierno”, en fecha 18 de septiembre de 2018.
+
+G.G. 17 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARIA DE DESARROLLO URBANO Y OBRA DEL GOBIERNO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Código de Conducta en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Se abrogan el Código de Conducta y Reglas de Integridad de la Secretaría de Obra Pública del Gobierno del Estado de México, publicado en el periódico oficial "Gaceta del Gobierno" el 21 de noviembre de 2019, y el Código de Conducta y Reglas de Integridad de la Secretaría de Desarrollo Urbano y Metropolitano, publicado en el periódico oficial "Gaceta del Gobierno" el 18 de septiembre de 2018, así como, las demás disposiciones de igual o menor jerarquía que se contrapongan a lo establecido en el presente Código.
+
+TERCERO. Con el objeto de dar certeza a las personas servidoras públicas, el Comité y el Órgano Interno de Control, serán competentes para la interpretación, consulta y asesoría en caso de dudas con motivo de la aplicación u observancia del presente Código.
+
+CUARTO. El presente Código entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
