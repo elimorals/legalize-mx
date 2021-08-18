@@ -4,7 +4,7 @@ identifier: "CMX-presupuesto-de-egresos-de-la-ciudad-de-mexico-para-el-145807"
 country: "mx"
 rank: "presupuesto"
 publication_date: "2020-12-21"
-last_updated: "2020-12-21"
+last_updated: "2021-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145807&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2020-12-18"
 
 PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO, PARA EL EJERCICIO FISCAL 2021
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE AGOSTO DE 2021.
 
 Presupuesto publicado en el No. 498 TOMO II de la Gaceta Oficial de la Ciudad de México, el lunes 21 de diciembre de 2020.
 
@@ -1336,8 +1336,38 @@ Artículo Décimo Sexto.- En el primer trimestre del ejercicio fiscal 2021, la S
 
 Artículo Décimo Séptimo.- En el primer trimestre del ejercicio fiscal 2021, la Secretaría en coordinación con el Tribunal Electoral de la Ciudad de México, y en función de sus necesidades, planteará la ampliación de recursos al mismo, de acuerdo con los ingresos e indicadores económicos de la Ciudad, reportados en ese periodo.
 
+> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2021)</small>
+
+Artículo Décimo Octavo.- Para el caso de que exista alguna circunstancia de índole jurídica, formal o material que impida llevar a cabo algún proyecto ganador del presupuesto participativo de las anualidades 2020 o 2021, considerado en los importes señalados en los artículos 18 y/o 21 del presente Decreto, se liberarán inmediatamente los recursos.
+
+La persona titular de la Alcaldía responsable podrá, de manera excepcional, destinar el recurso del proyecto a acciones que tengan como finalidad el fortalecimiento del desarrollo comunitario, la convivencia y la acción comunitaria que contribuya a la reconstrucción del tejido social y la solidaridad entre las personas de su demarcación territorial. Dichos recursos deberán aplicarse estrictamente a gasto en infraestructura pública, equipamiento y servicios urbanos.
+
+Para poder llevar a cabo estas acciones, la Alcaldía deberá informar y justificar dicha circunstancia a la Secretaría de Administración y Finanzas de la Ciudad de México en los términos que ésta determine.
+
+> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2021)</small>
+
+Artículo Décimo Noveno.- Tratándose de proyectos que hayan resultado ganadores en los años 2020 y 2021, cuyos montos se encuentren incluidos dentro de las erogaciones previstas en los artículos 18 y/o 21 del presente Decreto y que la Alcaldía hubiere ejercido de manera previa a la etapa de Ejecución con cargo a recursos distintos a los del presupuesto participativo, los importes ejercidos por la Alcaldía le podrán ser liberados del presupuesto participativo, a fin de compensar su presupuesto ejercido en términos de su autonomía, durante 2021.
+
 > <small>[N. DE E. VÉASE ANEXO I ESTRATEGIAS DEL PROGRAMA DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO EN LA G.O. DE 21 DE DICIEMBRE DE 2020, PÁGINAS DE LA 40 A LA 97.]</small>
 
 Palacio Legislativo del Congreso de la Ciudad de México, a los quince días del mes de diciembre del año dos mil veinte.- POR LA MESA DIRECTIVA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, PRESIDENTA.- DIPUTADA DONAJI OFELIA OLIVERA REYES, SECRETARIA.- DIPUTADO HÉCTOR BARRERA MARMOLEJO, SECRETARIO.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los dieciocho días del mes diciembre del año dos mil veinte.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- LA SECRETARIA DE CULTURA, VANNESA BOHÓRQUEZ LÓPEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, INGRID AURORA GÓMEZ SARACÍBAR.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LAURA ITA ANDEHUI RUIZ MONDRAGÓN.- FIRMA.-LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, NÉSTOR VARGAS SOLANO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 18 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS TRANSITORIOS VIGÉSIMO PRIMERO Y VIGÉSIMO SEGUNDO A LA LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO Y SE ADICIONAN LOS ARTÍCULOS TRANSITORIOS DÉCIMO OCTAVO Y DÉCIMO NOVENO AL DECRETO POR EL QUE SE EXPIDE EL PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2021”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. La Secretaría de Administración y Finanzas de la Ciudad de México deberá incluir en los Informes de Avance Trimestral restantes del 2021, así como en la Cuenta Pública de la Ciudad de México 2021, un apartado especial donde se dé cuenta de los casos, montos y razones por el que el recurso del presupuesto participativo fue destinando por las Alcaldías a acciones para el fortalecimiento del desarrollo comunitario, la convivencia y la acción comunitaria, debiendo informar a detalle el monto y descripción de dichas acciones.
+
+Cuarto. La Secretaría de Administración y Finanzas de la Ciudad de México deberá incluir en los Informes de Avance Trimestral restantes del 2021, así como en la Cuenta Pública de la Ciudad de México 2021, un apartado especial donde se dé cuenta de los casos, montos y razones por el que el recurso del presupuesto participativo le fue liberado a las Alcaldías, a efecto de compensar su presupuesto ejercido.
+
+Quinto. La Secretaría de Administración y Finanzas de la Ciudad de México deberá realizar las acciones necesarias a fin de dar cumplimiento al presente Decreto.
+
+Sexto. A más tardar el 5 de septiembre de 2021, el Instituto Electoral de la Ciudad de México deberá publicar en la Gaceta Oficial de la Ciudad de México, el porcentaje de avance de la celebración de las asambleas de información y selección, así como la constitución de los comités de Ejecución y de Vigilancia.
