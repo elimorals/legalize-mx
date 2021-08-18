@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-loteria-nacional-150727"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-12-30"
-last_updated: "2020-12-30"
+last_updated: "2021-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150727&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-11-20"
 
 ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE AGOSTO DE 2021.
 
 Estatuto publicado en el Número 33 del Diario Oficial de la Federación, el miércoles 30 de diciembre de 2020.
 
@@ -739,7 +739,9 @@ TERCERO.- El presente Estatuto, deberá inscribirse, en su oportunidad, en el Re
 
 CUARTO.- Los asuntos que al momento de la entrada en vigor del presente Estatuto se encuentren en trámite por parte de una determinada unidad administrativa de la Entidad, y que conforme al mismo deban en lo sucesivo ser atendidos por una unidad administrativa distinta, deberán continuar su desahogo y ser resueltos por aquella o aquellas que inicialmente hayan tenido conocimiento de dichos asuntos hasta su conclusión.
 
-QUINTO.- Todas las áreas administrativas y sustantivas de la Entidad deberán actualizar la normatividad interna en congruencia con el presente estatuto en un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2021)</small>
+
+QUINTO.- Todas las áreas administrativas y sustantivas de la Entidad deberán actualizar la normatividad interna en congruencia con el presente estatuto en un plazo no mayor a 360 días naturales a partir de la entrada en vigor del presente.
 
 El Consejo Directivo de Lotería Nacional, aprobó el presente Estatuto Orgánico de Lotería Nacional en Sesión Extraordinaria LVII de fecha 20 de noviembre de 2020.
 
@@ -750,3 +752,11 @@ Directora General de Lotería Nacional
 Lic. Margarita González Saravia Calderón
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE MODIFICA EL TRANSITORIO QUINTO DEL ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DÍA 30 DE DICIEMBRE DE 2020”.]
+
+Único.- La presente modificación al Estatuto Orgánico de Lotería Nacional entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
