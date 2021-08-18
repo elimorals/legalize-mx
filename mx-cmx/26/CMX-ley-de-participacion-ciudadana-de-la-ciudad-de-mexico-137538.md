@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-de-la-ciudad-de-mexico-137538"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-12"
-last_updated: "2020-07-29"
+last_updated: "2021-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137538&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-08-12"
 
 LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE AGOSTO DE 2021.
 
 Ley publicada en el Número 154 Bis de la Gaceta Oficial de la Ciudad de México, el lunes 12 de agosto de 2019.
 
@@ -2264,6 +2264,28 @@ LA PERSONA TITULAR DE LA JEFATURA DE GOBIERNO DE LA CIUDAD DE MÉXICO INCLUIRÁ 
 
 EN VIRTUD DE LA PANDEMIA ORIGINADA POR EL COVID-19, ASÍ COMO LA IMPOSIBILIDAD REAL PARA CONTINUAR DE MANERA ADECUADA CON EL PROCESO DE PRESUPUESTO PARTICIPATIVO 2020, LA EJECUCIÓN DE LOS RECURSOS DESTINADOS A LOS PROYECTOS GANADORES SELECCIONADOS PARA DICHA ANUALIDAD, SERÁ REALIZADA EN EL AÑO 2021.
 
+> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2021)</small>
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+PARA EL CASO QUE EXISTA ALGUNA CIRCUNSTANCIA DE ÍNDOLE JURÍDICA, FORMAL O MATERIAL QUE IMPIDA LLEVAR A CABO ALGÚN PROYECTO GANADOR DEL PRESUPUESTO PARTICIPATIVO DE LOS AÑOS 2020 O 2021, SE LIBERARÁN INMEDIATAMENTE LOS RECURSOS.
+
+LA PERSONA TITULAR DE LA ALCALDÍA RESPONSABLE PODRÁ, DE MANERA EXCEPCIONAL, DESTINAR DICHO RECURSO DEL PROYECTO PARA ACCIONES QUE TENGAN COMO FINALIDAD EL FORTALECIMIENTO DEL DESARROLLO COMUNITARIO, LA CONVIVENCIA Y ACCIÓN COMUNITARIA QUE CONTRIBUYA A LA RECONSTRUCCIÓN DEL TEJIDO SOCIAL Y LA SOLIDARIDAD ENTRE LAS PERSONAS VECINAS Y HABITANTES DE SU DEMARCACIÓN TERRITORIAL.
+
+DICHOS RECURSOS DEBERÁN APLICARSE ESTRICTAMENTE A GASTO EN INFRAESTRUCTURA PÚBLICA, EQUIPAMIENTO Y SERVICIOS URBANOS.
+
+PARA PODER LLEVAR A CABO ESTAS ACCIONES, LA ALCALDÍA DEBERÁ INFORMAR Y JUSTIFICAR DE DICHA CIRCUNSTANCIA A LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS DE LA CIUDAD DE MÉXICO EN LOS TÉRMINOS QUE ÉSTA DETERMINE.
+
+EN EL SUPUESTO DE QUE SE RESUELVA O SUBSANE LA SITUACIÓN QUE IMPIDIÓ LA EJECUCIÓN DEL PROYECTO EN AÑOS SUBSECUENTES, ÉSTE CONTARÁ CON PREFERENCIA PARA SU EJERCICIO CON CARGO AL PRESUPUESTO PARTICIPATIVO DEL PERIODO QUE CORRESPONDA.
+
+> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2021)</small>
+
+###### ARTÍCULO VIGÉSIMO SEGUNDO.
+
+TRATÁNDOSE DE PROYECTOS GANADORES DE LOS AÑOS 2020 Y 2021 Y QUE LA ALCALDÍA HUBIERE MATERIALIZADO LA CONCRECIÓN DE DICHO PROYECTO DE MANERA PREVIA A LA ETAPA DE EJECUCIÓN CON CARGO A RECURSOS DISTINTOS A LOS DEL PRESUPUESTO PARTICIPATIVO, LOS IMPORTES EJERCIDOS POR LA ALCALDÍA LE PODRÁN SER LIBERADOS DEL PRESUPUESTO PARTICIPATIVO, A FIN DE COMPENSAR SU PRESUPUESTO EJERCIDO EN TÉRMINOS DE SU AUTONOMÍA.
+
+EN DICHO SUPUESTO LA PERSONA TITULAR DE LA ALCALDÍA DEBERÁ INFORMAR Y JUSTIFICAR DICHA CIRCUNSTANCIA A LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS DE LA CIUDAD DE MÉXICO EN LOS TÉRMINOS QUE ÉSTA DETERMINE.
+
 EL CONGRESO DE LA CIUDAD DE MÉXICO, DEBE APROBAR EN EL DECRETO DE PRESUPUESTO DE EGRESOS PARA LOS EJERCICOS FISCALES CORRESPONDIENTES EL MONTO TOTAL DE RECURSOS QUE SE DESTINARÁN PARA EL PRESUPUESTO PARTICIPATIVO.
 
 A EFECTO DE DAR CUMPLIMIENTO AL MONTO DESTINADO PARA EL PRESUPUESTO PARTICIPATIVO QUE SE SEÑALA EN LOS ARTÍCULOS 118, 119 Y 127 DE LA PRESENTE LEY, SE ATENDERÁ LO SIGUIENTE:
@@ -2287,3 +2309,19 @@ Primero. Publíquese en la Gaceta Oficial de la Ciudad de México.
 Segundo. El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Tercero. Para dar cumplimiento a lo dispuesto por el artículo Vigésimo Transitorio del presente Decreto, en el Proyecto de Presupuesto de Egresos para el ejercicio fiscal 2021 que la Jefa de Gobierno de la Ciudad de México remita al Congreso de la Ciudad de México, se deberán identificar y diferenciar los rubros correspondientes a los montos del Presupuesto Participativo 2020 y 2021.
+
+G.O. 18 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS TRANSITORIOS VIGÉSIMO PRIMERO Y VIGÉSIMO SEGUNDO A LA LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO Y SE ADICIONAN LOS ARTÍCULOS TRANSITORIOS DÉCIMO OCTAVO Y DÉCIMO NOVENO AL DECRETO POR EL QUE SE EXPIDE EL PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2021”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. La Secretaría de Administración y Finanzas de la Ciudad de México deberá incluir en los Informes de Avance Trimestral restantes del 2021, así como en la Cuenta Pública de la Ciudad de México 2021, un apartado especial donde se dé cuenta de los casos, montos y razones por el que el recurso del presupuesto participativo fue destinando por las Alcaldías a acciones para el fortalecimiento del desarrollo comunitario, la convivencia y la acción comunitaria, debiendo informar a detalle el monto y descripción de dichas acciones.
+
+Cuarto. La Secretaría de Administración y Finanzas de la Ciudad de México deberá incluir en los Informes de Avance Trimestral restantes del 2021, así como en la Cuenta Pública de la Ciudad de México 2021, un apartado especial donde se dé cuenta de los casos, montos y razones por el que el recurso del presupuesto participativo le fue liberado a las Alcaldías, a efecto de compensar su presupuesto ejercido.
+
+Quinto. La Secretaría de Administración y Finanzas de la Ciudad de México deberá realizar las acciones necesarias a fin de dar cumplimiento al presente Decreto.
+
+Sexto. A más tardar el 5 de septiembre de 2021, el Instituto Electoral de la Ciudad de México deberá publicar en la Gaceta Oficial de la Ciudad de México, el porcentaje de avance de la celebración de las asambleas de información y selección, así como la constitución de los comités de Ejecución y de Vigilancia.
