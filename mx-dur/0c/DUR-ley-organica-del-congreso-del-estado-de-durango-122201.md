@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2021-06-20"
+last_updated: "2021-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -33,7 +33,7 @@ En diversas fechas fueron presentadas a esta H. LXVII Legislatura del Estado, in
 
 A N T E C E D E N T E S
 
-[…]
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXVII Legislatura del Estado, expide el siguiente:
 
@@ -1227,9 +1227,17 @@ La Comisión rendirá sus dictámenes al Pleno legislativo a más tardar treinta
 
 Cualquier miembro de la Legislatura podrá formular excitativa a las comisiones a efecto de que dictaminen un asunto en lo particular; en este caso, y una vez vencidos los plazos a los que se refiere el párrafo anterior, el Presidente de la Mesa Directiva formulará prevención al Presidente de la Comisión legislativa, a efecto de que proceda a rendir informe dentro de los tres días hábiles siguientes, respecto de las razones que imperaron para no dictaminar en forma oportuna; dicho informe será hecho del conocimiento del Pleno para que resuelva si ha lugar o no a implementar medidas que permitan la dictaminacion del asunto en trámite, dentro de un plazo máximo de cinco días hábiles. Si existiere nuevamente reiteración de la dilación, el Presidente de la Mesa Directiva de la Legislatura, sustituirá al Presidente de la Comisión dictaminadora, respecto del asunto de que se trate.
 
-Al término de cada período ordinario de sesiones, la Mesa Directiva, hará del conocimiento de las formas de organización parlamentaria, el estado que guardan las iniciativas pendientes de dictaminación, a efecto de que comuniquen, dentro de los cinco días naturales siguientes, si ha lugar o no de proseguir el procedimiento parlamentario; si dichas organizaciones partidistas no lo hicieran o notifican de su falta de interés, las iniciativas serán dadas de baja y declarada su improcedencia.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2021)</small>
 
-Los Diputados y las formas de organización parlamentaria, podrán en cualquier tiempo, si así lo decidieren, desistirse del trámite legislativo propuesto en alguna o algunas iniciativas.
+Al término de cada segundo período ordinario de sesiones de cada año de ejercicio constitucional, la Mesa Directiva, hará del conocimiento de las formas de los sujetos legitimados para presentar iniciativas, el estado que guardan las iniciativas pendientes de dictaminación, a efecto de que comuniquen, dentro de los cinco días naturales siguientes, si ha lugar o no de proseguir el procedimiento parlamentario; si los sujetos legitimados no lo hicieran o notifican de su falta de interés, la Mesa Directiva declarará su caducidad legislativa.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+Los sujetos legitimados para presentar iniciativas, podrán en cualquier tiempo, si así lo decidieren, desistirse del trámite legislativo propuesto en alguna o algunas iniciativas.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+La caducidad legislativa se entenderá como la desestimación de toda iniciativa no dictaminada y que no cuente con trabajo de análisis o estudio legislativo, ni registro de solicitud de prórroga, de conformidad al procedimiento establecido en la presente ley, durante el periodo correspondiente a la legislatura en que fue presentada.
 
 ###### Artículo 104.
 
@@ -3170,3 +3178,13 @@ El presente Decreto entrará (sic) el 31 de agosto de 2021 previa publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 614.- QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 31 de agosto de 2021 previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- En un plazo que no exceda de 20 días, el Centro de Investigaciones y Estudios Legislativos deberá informar a la Mesa Directiva el estado en que se encuentren las iniciativas presentadas.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto
