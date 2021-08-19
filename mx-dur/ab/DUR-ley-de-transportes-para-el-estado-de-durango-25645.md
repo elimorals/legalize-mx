@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transportes-para-el-estado-de-durango-25645"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-13"
-last_updated: "2021-05-25"
+last_updated: "2021-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 13 de junio de 2002.
 
@@ -708,6 +708,10 @@ XIII. Contar con terminales para la salida y llegada de autobuses, así como lug
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2010)</small>
 
 XIV. Otorgar a los estudiantes de cualquier grado, así como a los adultos mayores y a las personas con discapacidad, que se identifiquen con la credencial única de transporte, que para tal efecto expida gratuitamente la Dirección de Transportes del Estado de Durango, un descuento del 50% sobre el importe de la tarifa autorizada para los vehículos destinados exclusivamente al transporte colectivo de personas, en las zonas urbanas y suburbanas;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+XIV BIS. En caso de declaratoria general de emergencia sanitaria, que restrinja el libre tránsito, el personal de salud, sanitario y de emergencia, tendrán prioridad de desplazamiento a sus centros laborales y domicilios; para ello impulsarán la creación de programas, rutas o modalidades para prestar sus servicios de manera gratuita durante la emergencia.
 
 XV. Proporcionar a la autoridad los informes y documentos técnicos o estadísticos que le solicite para conocer y evaluar la forma de prestación del servicio; y
 
@@ -1572,3 +1576,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En un plazo que no exceda de 90 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá expedir la reglamentación necesaria para dar cumplimiento a este decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 613. QUE CONTIENE REFORMAS A LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
