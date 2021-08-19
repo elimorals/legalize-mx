@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-del-instituto-estatal-de-las-mujeres-del-132
 country: "mx"
 rank: "codigo"
 publication_date: "2018-11-15"
-last_updated: "2018-11-15"
+last_updated: "2021-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO ESTATAL DE LAS MUJERES DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO ESTATAL DE LAS MUJERES, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO ESTATAL DE LAS MUJERES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2021 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 15 de noviembre de 2018.
 
@@ -340,3 +342,15 @@ Dado en la Ciudad Victoria de Durango, Dgo., a los nueve días del mes de marzo 
 LA DIRECTORA GENERAL DEL INSTITUTO ESTATAL DE LAS MUJERES
 
 C. LAURA ELENA ESTRADA RODRÍGUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL INSTITUTO ESTATAL DE LAS MUJERES”.]
+
+PRIMERO.- El presente acuerdo entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga el Código de Conducta del Instituto Estatal de las Mujeres, publicado en el Periódico Oficial No. 91 del Gobierno del Estado de Durango de fecha 15 de Noviembre del año 2018.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet del Instituto Estatal de las Mujeres.
