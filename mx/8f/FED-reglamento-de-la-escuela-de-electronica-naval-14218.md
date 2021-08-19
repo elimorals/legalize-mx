@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-de-electronica-naval-14218"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-05-25"
-last_updated: "1999-05-25"
+last_updated: "2021-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14218&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1999-05-17"
 ---
 # REGLAMENTO DE LA ESCUELA DE ELECTRONICA NAVAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CENTRO DE FORMACIÓN Y CAPACITACIÓN DE LA ARMADA DE MÉXICO, PUBLICADO EN EL D.O.F. DE 19 DE AGOSTO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA ESCUELA DE ELECTRONICA NAVAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE AGOSTO DE 2021 (ABROGADO).
 
 Reglamento Publicado en la Primera Sección del Diario Oficial de la Federación el martes 25 de mayo de 1999.
 
@@ -846,3 +848,33 @@ Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente d
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de mayo de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL CENTRO DE FORMACIÓN Y CAPACITACIÓN DE LA ARMADA DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan los reglamentos de la Escuela de Intendencia Naval, de la Escuela de Electrónica Naval y del Centro de Capacitación de la Armada de México, los cuales fueron publicados en el Diario Oficial de la Federación el 9 de noviembre de 1998, el 25 de mayo de 1999 y el 29 de noviembre de 1982, respectivamente.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias que se hagan a las unidades administrativas que cambian de denominación conforme al presente Reglamento en otras disposiciones administrativas, se entenderán realizadas a las que se prevén en el presente ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que se encuentren en trámite en las unidades que desaparezcan conforme al presente Reglamento, deberán ser resueltos por las unidades administrativas que las sustituyan o que asuman su competencia conforme al presente ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento deberán de cubrirse con cargo al presupuesto aprobado a la Secretaría de Marina en el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente, por lo que no se requerirá de ampliaciones presupuestales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal.
+
+###### ARTÍCULO SEXTO.
+
+Se expedirán los manuales, catálogos y demás disposiciones administrativas a que se refiere el presente Reglamento, dentro de un plazo de noventa días siguientes a la entrada en vigor del presente ordenamiento.
