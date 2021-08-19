@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-pensiones-del-estado-de-durango-124923"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-03"
-last_updated: "2019-12-05"
+last_updated: "2021-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PENSIONES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 3 de diciembre de 2017.
 
@@ -35,7 +35,7 @@ Con fecha 06 de noviembre de 2017, el C. Dr. José Rosas Aispuro Torres, Goberna
 
 C O N S I D E R A N D O S
 
-[…]
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXVII Legislatura del Estado, expide el siguiente:
 
@@ -561,7 +561,9 @@ En los supuestos en que se requiera la comparecencia personal del afiliado o sus
 
 Para la conservación de la pensión, se seguirá el procedimiento siguiente:
 
-I.- El pensionado o pensionista está obligado a presentarse en la Dirección dos veces al año conforme a las reglas que al efecto se establezcan, con la finalidad de corroborar su supervivencia;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+I.- El pensionado o pensionista está obligado a presentarse en la Dirección dos veces al año conforme a las reglas que al efecto se establezcan, con la finalidad de corroborar su supervivencia; la Dirección promoverá la implementación de un modelo de comprobación de supervivencia a través del uso las nuevas tecnologías de la comunicación e información, para que esta verificación pueda realizarse a distancia, en atención a las diferentes condiciones físicas y de salud de los pensionados o pensionistas.
 
 II.- La Dirección estará facultada para realizar visitas a los domicilios en cualquier tiempo con el fin de corroborar la veracidad de la información proporcionada por el pensionado o pensionista; y
 
@@ -1688,3 +1690,11 @@ P.O. 5 DE DICIEMBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 612.- QUE CONTIENE REFORMAS A LA LEY DE PENSIONES DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
