@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-instituciones-y-procedimientos-electorales-para-el-10196
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2019-11-17"
+last_updated: "2021-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2014.
 
@@ -83,7 +83,11 @@ ARTÍCULO 2
 
 5. El Instituto dispondrá lo necesario para asegurar el cumplimiento de las normas antes establecidas y de las demás dispuestas en esta Ley.
 
-6. La interpretación de las disposiciones de esta Ley, se hará conforme a los criterios gramatical, sistemático y funcional; y en último caso, se sujetará a los principios generales del derecho.
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+6. Además el Instituto, los partidos políticos, las personas precandidatas y candidatas, deberán garantizar el cumplimiento del principio de paridad de género en el ejercicio de los derechos político electorales, así como el respeto a sus derechos humanos de las mujeres.
+
+7. La interpretación de las disposiciones de esta Ley, se hará conforme a los criterios gramatical, sistemático y funcional; y en último caso, se sujetará a los principios generales del derecho.
 
 ARTÍCULO 3
 
@@ -113,9 +117,21 @@ XI. Ley General: Ley General de Instituciones y Procedimientos Electorales;
 
 XII. Ley General de Partidos: Ley General de Partidos Políticos;
 
-XIII. Periódico Oficial: Periódico Oficial del Gobierno del Estado de Durango; y
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
 
-XIV. Tribunal Electoral: Tribunal Electoral del Estado de Durango.
+XIII. Paridad de Género: Igualdad política entre mujeres y hombres, la cual se garantiza con la asignación del cincuenta por ciento de mujeres y el cincuenta por ciento de hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+XIV. Periódico Oficial: Periódico Oficial del Gobierno del Estado de Durango;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+XV. Tribunal Electoral: Tribunal Electoral del Estado de Durango; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+XVI. Violencia política contra las mujeres en razón de género: Toda acción u omisión, incluida la tolerancia, basadas en elementos de género y ejercida dentro de la esfera pública o privada, que tengan por objeto o resultado, limitar, menoscabar o anular el ejercicio efectivo de los derechos político-electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo. Se entenderá que las acciones u omisiones, se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella. Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley de las Mujeres para una vida sin Violencia y puede ser perpetrada indistintamente por agentes estatales, superiores jerárquicos, colegas de trabajo, dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 ARTÍCULO 4
 
@@ -138,6 +154,10 @@ ARTÍCULO 5
 5. Es derecho y obligación de los ciudadanos, votar en las consultas populares y en los procesos de participación ciudadana sobre temas de trascendencia en el territorio estatal, en los términos previstos en la ley de la materia.
 
 6. Corresponde al Instituto, al cual concurrirán los partidos políticos y los ciudadanos, ejercer las funciones que le correspondan respecto de los procesos electorales en la Entidad Federativa, conforme a las facultades y atribuciones establecidas en la Constitución, la Constitución Local, la Ley General y la Ley General de Partidos, para tal efecto.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+8 (SIC). Los derechos político-electorales, se ejercen libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ARTÍCULO 6
 
@@ -189,17 +209,21 @@ ARTÍCULO 10
 
 1. Los ciudadanos que reúnan los requisitos establecidos en la Constitución Local y en esta Ley, son elegibles en los términos de la misma para los cargos de diputados al Congreso, de Gobernador, de presidentes municipales, síndicos y regidores de los ayuntamientos, según corresponda.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
 
-2. Para el caso de diputados que aspiren a la elección consecutiva, deberán separarse del cargo noventa días antes de la elección.
+2. En ningún caso procederá el registro de candidatura para los cargos señalados en el numeral anterior, a las y los ciudadanos que hayan sido sancionados por infracciones o delitos relacionados con violencia política contra las mujeres por razones de género.
 
-3. Los ministros de cualquier culto religioso que aspiren a algún cargo de elección popular, además de cumplir con los requisitos establecidos en el párrafo anterior, deberán haber renunciado formal, material y definitivamente de su ministerio, cuando menos con cinco años de antelación al día en que se celebre la elección.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2021)</small>
 
-4. Son duranguenses migrantes, las personas nativas del Estado, y los mexicanos nacidos fuera del mismo, hijos de padre o madre duranguense, que posean domicilio simultáneo en el extranjero y en el territorio de la Entidad Federativa.
+3. Para el caso de diputados que aspiren a la elección consecutiva, no será necesario separarse del cargo.
 
-5. Es causa de inhabilidad para asumir el cargo si se acredita que un ciudadano duranguense migrante electo como diputado posee o adquiere una nacionalidad extranjera antes del día en que rinda la protesta de ley. En tal caso, será sustituido por el diputado suplente.
+4. Los ministros de cualquier culto religioso que aspiren a algún cargo de elección popular, además de cumplir con los requisitos establecidos en el párrafo anterior, deberán haber renunciado formal, material y definitivamente de su ministerio, cuando menos con cinco años de antelación al día en que se celebre la elección.
 
-6. Los ciudadanos duranguenses migrantes que resulten electos como diputados y hayan asumido el cargo, serán suspendidos en sus funciones y separados del cargo, en su caso, cuando se acredite ante el Congreso, mediante los medios de prueba pertinentes, que posee o adquirió una nacionalidad extranjera antes o durante el ejercicio de su encargo. En caso de ser separado del cargo, será sustituido por el diputado suplente.
+5. Son duranguenses migrantes, las personas nativas del Estado, y los mexicanos nacidos fuera del mismo, hijos de padre o madre duranguense, que posean domicilio simultáneo en el extranjero y en el territorio de la Entidad Federativa.
+
+6. Es causa de inhabilidad para asumir el cargo si se acredita que un ciudadano duranguense migrante electo como diputado posee o adquiere una nacionalidad extranjera antes del día en que rinda la protesta de ley. En tal caso, será sustituido por el diputado suplente.
+
+7. Los ciudadanos duranguenses migrantes que resulten electos como diputados y hayan asumido el cargo, serán suspendidos en sus funciones y separados del cargo, en su caso, cuando se acredite ante el Congreso, mediante los medios de prueba pertinentes, que posee o adquirió una nacionalidad extranjera antes o durante el ejercicio de su encargo. En caso de ser separado del cargo, será sustituido por el diputado suplente.
 
 ARTÍCULO 11
 
@@ -279,6 +303,10 @@ IV. En los demás municipios se elegirán siete regidores.
 
 3. La asignación de regidores será de acuerdo y en el orden en que fueron presentados en las planillas para contender en la elección correspondiente.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+4. Para el caso ciudadanos que aspiren a cargos municipales en la modalidad de elección consecutiva, no será necesario separarse del cargo.
+
 ### CAPÍTULO IV. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
 ARTÍCULO 20
@@ -317,11 +345,17 @@ ARTÍCULO 26
 
 1. Es derecho de los ciudadanos mexicanos formar parte de los partidos políticos y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones civiles, sociales o gremiales, nacionales o extranjeras; o con objeto social diferente en la creación de partidos, y cualquier forma de afiliación corporativa a ellos.
 
-2. Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2021)</small>
 
-3. Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas que postulen. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+2. Los partidos políticos promoverán los valores cívicos y la cultura democrática, la igualdad sustantiva entre niñas, niños y adolescentes, y garantizarán la participación paritaria en la integración de sus órganos, así como en la postulación de candidaturas.
 
-4. En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+3. Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas que postulen. Éstos deberán ser objetivos y asegurar condiciones de igualdad sustantiva entre hombres y mujeres. En caso de incumplimiento a esta disposición serán acreedores a las sanciones que establezcan las leyes.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+4. En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos o municipios en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
 5. Los partidos políticos se regirán internamente por sus documentos básicos, tendrán la libertad de organizarse y determinarse de conformidad con las normas establecidas en la Constitución, la Constitución Local, la Ley General, la Ley General de Partidos, y las que conforme a las mismas establezcan sus estatutos.
 
@@ -397,7 +431,15 @@ XV. Cumplir con lo establecido en esta Ley en materia de registro de candidatos;
 
 XVI. Dar cumplimiento a las obligaciones que en materia de transparencia y acceso a la información le imponga la ley de la materia; y
 
-XVII. Las demás que establezca la Ley General y la Ley General de Partidos.
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+XVII. Garantizar a las mujeres el ejercicio de sus derechos político electorales libres de violencia política, en los términos de la Ley General de Acceso de las Mujeres para una Vida Libre de Violencia y de la Ley de las Mujeres para una Vida sin Violencia;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+XVIII. Sancionar por medio de los mecanismos y procedimientos internos con los que se cuente todo acto relacionado con la violencia política contra las mujeres en razón de género;
+
+XIX. Las demás que establezca la Ley General y la Ley General de Partidos.
 
 ARTÍCULO 30
 
@@ -1227,9 +1269,15 @@ XXXVI. Aplicar las disposiciones generales, reglas, lineamientos, criterios y fo
 
 XXXVII. Aprobar la estructura de las direcciones y demás órganos del Instituto conforme a las necesidades del servicio y los recursos presupuestales autorizados nombrando y removiendo a sus titulares por mayoría de votos;
 
-XXXVIII. Elaborar sus programas anuales de trabajo; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
 
-XXXIX. Las demás que establezca la Ley General, la Ley General de Partidos, y aquéllas que establezca esta Ley y que no estén reservadas al Instituto Nacional Electoral.
+XXXVIII. Elaborar sus programas anuales de trabajo;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+XXXIX. Desarrollar y ejecutar los programas de educación cívica, de paridad de género y de respeto a los derechos humanos de las mujeres en el ámbito político-electoral; y
+
+XL. Las demás que establezca la Ley General, la Ley General de Partidos, y aquéllas que establezca esta Ley y que no estén reservadas al Instituto Nacional Electoral.
 
 2. El Consejo General, en ocasión de la celebración de los procesos electorales, podrá invitar y acordar las bases y criterios en que habrá de atenderse e informar a los visitantes que acudan a conocer las modalidades de su desarrollo en cualesquiera de sus etapas.
 
@@ -1573,7 +1621,9 @@ ARTÍCULO 104
 
 2. En cada uno de los municipios en que se divide el Estado, funcionará un Consejo Municipal con residencia en la cabecera del municipio.
 
-3. Los Consejos Municipales iniciarán sus funciones a más tardar la primera semana del mes de noviembre del año anterior al de la elección y las concluirá al término del proceso electoral. A partir de su instalación y hasta el término del proceso sesionarán por lo menos una vez al mes.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+3. Los Consejos Municipales iniciarán sus funciones a más tardar la primera semana del mes de enero del año de la elección y las concluirá al término del proceso electoral. A partir de su instalación y hasta el término del proceso sesionarán por lo menos una vez al mes.
 
 ARTÍCULO 105
 
@@ -2005,7 +2055,11 @@ XII. Conocer y resolver sobre las excusas o impedimentos de los magistrados elec
 
 XIII. Conceder licencias que no excedan de tres meses a los Magistrados Electorales; y
 
-XIV. Las demás que le señalen las leyes.
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+XIV. Designar al titular del Órgano Interno de Control; y
+
+XV. Las demás que le señalen las leyes.
 
 ## TÍTULO SEGUNDO. DEL TRIBUNAL ELECTORAL DEL ESTADO DE DURANGO
 
@@ -2365,11 +2419,47 @@ ARTÍCULO 162
 
 1. Los servidores públicos y empleados del Tribunal Electoral, serán considerados como servidores públicos de confianza, y estarán sujetos al régimen laboral previsto para los trabajadores al servicio del Estado.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DE 2021)</small>
+
+### CAPÍTULO X. DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+Artículo 162 bis.-
+
+1.- El Órgano Interno de Control del Tribunal Electoral, es el órgano de apoyo que tiene a su cargo ejercer, dentro del ámbito del Tribunal, las atribuciones que la legislación en materia de responsabilidades administrativas confiere a los órganos internos de control.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+Artículo 162 ter.-
+
+1.- La persona titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
+
+II. Tener por lo menos veintiocho años cumplidos el día de la designación;
+
+III. Contar con una residencia de por lo menos 3 años en el territorio estatal;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena de prisión;
+
+V. Contar al momento de su designación con experiencia en el control, manejo o fiscalización de recursos y responsabilidades administrativas;
+
+VI. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado en áreas o disciplinas vinculadas a la función que habrá de desempeñar, expedido por autoridad o institución legalmente facultada para ello;
+
+VII. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos que hubieren prestado sus servicios al Tribunal Electoral o haber fungido como consultor o auditor externo al Tribunal en lo individual durante ese periodo; y
+
+VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ARTÍCULO 163
 
-1. El proceso electoral es el conjunto de actos ordenados por la Constitución y esta Ley, realizados por las autoridades electorales, los partidos políticos con registro o acreditación y los ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los Poderes Legislativo y Ejecutivo, así como de los integrantes de los Ayuntamientos del Estado.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+1. El proceso electoral es el conjunto de actos ordenados por la Constitución y esta Ley, realizados por las autoridades electorales, los partidos políticos con registro o acreditación y los ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los Poderes Legislativo y Ejecutivo, así como de integrantes de los Ayuntamientos del Estado. En la elección e integración de ayuntamientos existirá la paridad de género vertical y horizontal.
 
 ARTÍCULO 164
 
@@ -2511,6 +2601,14 @@ ARTÍCULO 175
 
 1. La coordinación en materia de inteligencia financiera, se hará de conformidad con lo señalado por la Ley General.
 
+###### Artículo 162 Quater.
+
+1.- El titular del Órgano de Control Interno será designado por la mayoría del Pleno del Tribunal Electoral, previa convocatoria pública que expida; durará en su encargo cinco años y no podrá ser removido sino en los casos que establezcan las leyes de la materia.
+
+# LIBRO CUARTO. DEL PROCESO ELECTORAL
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
 ### CAPÍTULO I. DE LAS PRECAMPAÑAS
 
 ARTÍCULO 176
@@ -2587,9 +2685,7 @@ ARTÍCULO 183
 
 1. El Consejo General emitirá los reglamentos y acuerdos que sean necesarios para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en esta Ley.
 
-# LIBRO CUARTO. DEL PROCESO ELECTORAL
-
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TÍTULO SEGUNDO. DE LOS ACTOS PREPARATORIOS DE LA ELECCIÓN
 
 ### CAPÍTULO II. DEL REGISTRO DE CANDIDATOS
 
@@ -2599,13 +2695,31 @@ ARTÍCULO 184
 
 2. Las candidaturas a diputados a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, así como las de integrantes de los ayuntamientos, se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y serán consideradas, fórmulas y candidatos, por separado, salvo para efectos de la votación.
 
-3. Los partidos políticos promoverán y garantizarán, la paridad entre los géneros en la postulación a cargos de elección popular para la integración del Congreso.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+3. Los partidos políticos promoverán y garantizarán, la paridad entre los géneros en la postulación a cargos de elección popular para la integración del Congreso y los Ayuntamientos.
 
 4. El Instituto tendrá facultades para rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
 
 5. En el caso de que para un mismo cargo de elección popular sean registrados diferentes candidatos por un mismo partido político, el Secretario del Consejo, una vez detectada esta situación, requerirá al partido político a efecto de que informe al Consejo General, en un término de cuarenta y ocho horas, qué candidato o fórmula prevalece. En caso de no hacerlo se entenderá que el partido político opta por el último de los registros presentados, quedando sin efecto los demás.
 
-6. De la totalidad de solicitudes de registro de las candidaturas a diputados que presenten los partidos políticos o las coaliciones ante el Instituto, deberán integrarse salvaguardando la paridad entre los géneros mandatada en la Constitución, la Ley General y la presente Ley.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 19 DE AGOSTO DE 2021)</small>
+
+6. La totalidad de solicitudes de registro de las candidaturas a diputaciones y ayuntamientos que presenten los partidos políticos, las coaliciones o las candidaturas comunes ante el Instituto, deberán integrarse salvaguardando la paridad entre los géneros mandatada en la Constitución, la Ley General y la presente Ley.
+
+Para dar cumplimiento a la paridad horizontal y vertical en elección de Ayuntamientos, las solicitudes de registro establecidas en el párrafo anterior, se sujetarán a lo siguiente:
+
+I. Se deberá postular por lo menos 19 mujeres como candidatas y 19 hombres como candidatos a presidenta y presidente municipal respectivamente.
+
+II. Si por la presidencia municipal contiende un hombre, la candidatura para la sindicatura deberá ser para una mujer, la primera regiduría para un hombre, la segunda para una mujer, y así sucesivamente hasta agotar todas las posiciones.
+
+III. Si por la presidencia municipal contiende una mujer, la candidatura para la sindicatura deberá ser para un hombre, la primera regiduría para una mujer, la segunda para un hombre, y así sucesivamente hasta agotar todas las posiciones.
+
+Para dar cumplimiento a la paridad en elección de Diputaciones, las solicitudes de registro establecidas en el primer párrafo del numeral 6 del presente artículo, se sujetarán a lo siguiente:
+
+I. Si de las postulaciones, más del 50 por ciento en los Distritos por el principio de mayoría relativa corresponde a hombres, la primera candidatura por el principio de representación proporcional deberá ser para una mujer, la segunda para un hombre, y así sucesivamente hasta agotar todas las posiciones.
+
+II. Si de las postulaciones, más del 50 por ciento en los Distritos por el principio de mayoría relativa corresponde a mujeres, la primera candidatura por el principio de representación proporcional deberá ser para un hombre, la segunda para una mujer, y así sucesivamente hasta agotar todas las posiciones.
 
 7. Las listas de representación proporcional se integrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada lista.
 
@@ -2702,8 +2816,6 @@ I. Dentro del plazo establecido para el registro de candidatos podrán sustituir
 II. Vencido el plazo a que se refiere el inciso anterior, exclusivamente podrán sustituirlos por causas de fallecimiento, inhabilitación, incapacidad, o renuncia a la candidatura. En este último caso, no podrán sustituirlos cuando la renuncia se presente dentro de los treinta días anteriores al de la elección. Para la corrección o sustitución, en su caso, de las boletas electorales se estará a lo dispuesto en el (sic) en esta Ley; y
 
 III. En los casos en que la renuncia del candidato fuera notificada por éste al Consejo General, se hará del conocimiento del partido político que lo registró para que proceda, en su caso a su sustitución, en los términos de la presente Ley.
-
-## TÍTULO SEGUNDO. DE LOS ACTOS PREPARATORIOS DE LA ELECCIÓN
 
 ### CAPÍTULO III. DE LAS CAMPAÑAS ELECTORALES
 
@@ -3195,6 +3307,8 @@ ARTÍCULO 227
 
 1. La etapa denominada de la Jornada Electoral comprende los actos, resoluciones, tareas y actividades que los órganos electorales, los partidos políticos y los ciudadanos en general, realizan desde la instalación de la casilla hasta la clausura.
 
+## TÍTULO TERCERO. DE LA JORNADA ELECTORAL
+
 ### CAPÍTULO II. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
 
 ARTÍCULO 228
@@ -3274,8 +3388,6 @@ IV. Las condiciones del local no permitan asegurar la libertad o el secreto del 
 V. El Consejo Municipal así lo disponga por causa de fuerza mayor o caso fortuito y se lo notifique al Presidente de la casilla.
 
 2. Para los casos señalados en el párrafo anterior la casilla deberá quedar instalada en la misma sección y en el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del lugar original que no reunió los requisitos.
-
-## TÍTULO TERCERO. DE LA JORNADA ELECTORAL
 
 ### CAPÍTULO III. DE LA VOTACIÓN
 
@@ -3599,6 +3711,8 @@ IV. Los Presidentes de los Consejos Municipales, bajo su responsabilidad, los sa
 
 2. De la recepción de los paquetes que contengan los expedientes de casilla, se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala esta Ley.
 
+## TÍTULO CUARTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN Y LOS RESULTADOS ELECTORALES
+
 ### CAPÍTULO II. DE LA INFORMACIÓN PRELIMINAR DE LOS RESULTADOS
 
 ARTÍCULO 259
@@ -3630,8 +3744,6 @@ ARTÍCULO 262
 ARTÍCULO 263
 
 1. Para el mejor conocimiento de los ciudadanos, concluido el plazo para la recepción de los paquetes electorales y las actas de escrutinio y cómputo de todas las casillas instaladas en el Municipio, el presidente deberá fijar en el exterior del local del Consejo Municipal, los resultados preliminares de las elecciones en el Municipio.
-
-## TÍTULO CUARTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN Y LOS RESULTADOS ELECTORALES
 
 ### CAPÍTULO III. DE LOS CÓMPUTOS MUNICIPALES Y DE LA FÓRMULA PARA LA ASIGNACIÓN DE REGIDORES DE REPRESENTACIÓN PROPORCIONAL
 
@@ -3969,72 +4081,6 @@ II. Los aspirantes al cargo de Diputado o integrantes de los ayuntamientos, ante
 
 5. La persona moral a la que se refiere el párrafo anterior deberá estar constituida con por lo menos el aspirante a candidato independiente, su representante legal y el encargado de la administración de los recursos de la candidatura independiente.
 
-### CAPÍTULO III. DE LA OBTENCIÓN DEL APOYO CIUDADANO
-
-ARTÍCULO 299
-
-1. A partir del día siguiente de la fecha en que obtengan la calidad de aspirantes, éstos podrán realizar actos tendentes a recabar el porcentaje de apoyo ciudadano requerido por medios diversos a la radio y la televisión, siempre que los mismos no constituyan actos anticipados de campaña.
-
-2. Los actos tendentes a recabar el apoyo ciudadano, se sujetarán a los siguientes plazos, según corresponda:
-
-I. Los aspirantes a candidato independiente para el cargo de Gobernador del Estado, contarán con cuarenta días;
-
-II. Los aspirantes a candidato independiente para el cargo de Diputado, contará con treinta días; y
-
-III. Los aspirantes a candidato independiente para integrantes de los Ayuntamientos, contarán con treinta días.
-
-3. El Consejo General podrá realizar ajustes a los plazos a fin de garantizar los plazos de registro y que la duración de los actos tendentes a recabar el apoyo ciudadano se ciñan a lo establecido en los incisos anteriores. Cualquier ajuste que el Consejo General realice deberá ser difundido ampliamente.
-
-ARTÍCULO 300
-
-1. Se entiende por actos tendentes a recabar el apoyo ciudadano, el conjunto de reuniones públicas, asambleas, marchas y todas aquellas actividades dirigidas a la ciudadanía en general, que realizan los aspirantes con el objeto de obtener el apoyo ciudadano para satisfacer el requisito en los términos de esta Ley.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
-
-ARTÍCULO 301
-
-1. Para la candidatura de Gobernador del Estado, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al uno por ciento, de la lista nominal de electores con corte al treinta y uno de agosto del año previo al de la elección y estar integrada por electores de por lo menos veinte municipios, que sumen cuando menos el 0.5·por ciento, de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
-
-2. Para fórmulas de diputados de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al uno por ciento de la lista nominal de electores correspondiente al distrito de que se trate, con corte al treinta y uno de agosto del año previo al de la elección, y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que comprenda, que sumen como mínimo el 0.5 por ciento de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
-
-3. Para los integrantes de ayuntamientos por el principio de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al uno ciento (sic) de la lista nominal de electores correspondiente al Municipio en cuestión, con corte al treinta y uno de agosto del año previo al de la elección y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen cuando menos el 0.5 por ciento, de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
-
-ARTÍCULO 302
-
-1. Los aspirantes no podrán realizar actos anticipados de campaña por ningún medio. La violación a esta disposición se sancionará con la negativa de registro como Candidato Independiente.
-
-2. Queda prohibido a los aspirantes, en todo tiempo, la contratación de propaganda o cualquier otra forma de promoción personal en radio y televisión. La violación a esta norma se sancionará con la negativa de registro como Candidato Independiente o, en su caso, con la cancelación de dicho registro.
-
-ARTÍCULO 303
-
-1. La cuenta bancaria a que se refiere esta Ley, servirá para el manejo de los recursos para obtener el apoyo ciudadano y para, en su caso, la campaña electoral.
-
-2. La utilización de la cuenta será a partir del inicio de los actos tendentes a obtener el apoyo ciudadano y hasta la conclusión de las campañas electorales y con posterioridad, exclusivamente para cubrir los pasivos contraídos y demás erogaciones. Su cancelación deberá realizarse una vez que se concluyan los procedimientos que correspondan al Instituto Nacional Electoral.
-
-ARTÍCULO 304
-
-1. Los actos tendentes a recabar el apoyo ciudadano se financiarán con recursos privados de origen lícito, en los términos de la legislación aplicable, y estarán sujetos al tope de gastos que determine el Consejo General por el tipo de elección para la que pretenda ser postulado.
-
-2. El Consejo General determinará el tope de gastos equivalente al diez por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
-
-ARTÍCULO 305
-
-1. Los aspirantes que rebasen el tope de gastos señalado en el artículo anterior perderán el derecho a ser registrados como candidato independiente o, en su caso, si ya está hecho el registro, se cancelará el mismo.
-
-ARTÍCULO 306
-
-1. Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica y los comprobantes que los amparen, deberán ser expedidos a nombre del aspirante y la persona encargada del manejo de recursos financieros en cuentas mancomunadas, debiendo constar en original como soporte a los informes financieros de los actos tendentes a obtener el apoyo ciudadano.
-
-2. Le serán aplicables a los aspirantes las disposiciones relacionadas con el financiamiento privado de los candidatos independientes de esta Ley.
-
-3. Los aspirantes deberán nombrar una persona encargada del manejo de los recursos financieros y administración de los recursos relacionados con el apoyo ciudadano, así como de la presentación de los informes a que se refieren la Ley General de Partidos, la Ley General y esta Ley.
-
-ARTÍCULO 307
-
-1. El aspirante que no entregue el informe de ingresos y egresos, dentro de los treinta días siguientes a la conclusión del periodo para recabar el apoyo ciudadano, le será negado el registro como candidato independiente.
-
-2. Los aspirantes que sin haber obtenido el registro a la candidatura independiente no entreguen los informes antes señalados, serán sancionados en los términos de la Ley General.
-
 # LIBRO QUINTO. DE LAS CANDIDATURAS INDEPENDIENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
@@ -4111,6 +4157,72 @@ III. De la obtención del apoyo ciudadano; y
 
 IV. Del registro de Candidatos independientes.
 
+### CAPÍTULO III. DE LA OBTENCIÓN DEL APOYO CIUDADANO
+
+ARTÍCULO 299
+
+1. A partir del día siguiente de la fecha en que obtengan la calidad de aspirantes, éstos podrán realizar actos tendentes a recabar el porcentaje de apoyo ciudadano requerido por medios diversos a la radio y la televisión, siempre que los mismos no constituyan actos anticipados de campaña.
+
+2. Los actos tendentes a recabar el apoyo ciudadano, se sujetarán a los siguientes plazos, según corresponda:
+
+I. Los aspirantes a candidato independiente para el cargo de Gobernador del Estado, contarán con cuarenta días;
+
+II. Los aspirantes a candidato independiente para el cargo de Diputado, contará con treinta días; y
+
+III. Los aspirantes a candidato independiente para integrantes de los Ayuntamientos, contarán con treinta días.
+
+3. El Consejo General podrá realizar ajustes a los plazos a fin de garantizar los plazos de registro y que la duración de los actos tendentes a recabar el apoyo ciudadano se ciñan a lo establecido en los incisos anteriores. Cualquier ajuste que el Consejo General realice deberá ser difundido ampliamente.
+
+ARTÍCULO 300
+
+1. Se entiende por actos tendentes a recabar el apoyo ciudadano, el conjunto de reuniones públicas, asambleas, marchas y todas aquellas actividades dirigidas a la ciudadanía en general, que realizan los aspirantes con el objeto de obtener el apoyo ciudadano para satisfacer el requisito en los términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 301
+
+1. Para la candidatura de Gobernador del Estado, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al uno por ciento, de la lista nominal de electores con corte al treinta y uno de agosto del año previo al de la elección y estar integrada por electores de por lo menos veinte municipios, que sumen cuando menos el 0.5·por ciento, de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+
+2. Para fórmulas de diputados de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al uno por ciento de la lista nominal de electores correspondiente al distrito de que se trate, con corte al treinta y uno de agosto del año previo al de la elección, y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que comprenda, que sumen como mínimo el 0.5 por ciento de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+
+3. Para los integrantes de ayuntamientos por el principio de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al uno ciento (sic) de la lista nominal de electores correspondiente al Municipio en cuestión, con corte al treinta y uno de agosto del año previo al de la elección y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen cuando menos el 0.5 por ciento, de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+
+ARTÍCULO 302
+
+1. Los aspirantes no podrán realizar actos anticipados de campaña por ningún medio. La violación a esta disposición se sancionará con la negativa de registro como Candidato Independiente.
+
+2. Queda prohibido a los aspirantes, en todo tiempo, la contratación de propaganda o cualquier otra forma de promoción personal en radio y televisión. La violación a esta norma se sancionará con la negativa de registro como Candidato Independiente o, en su caso, con la cancelación de dicho registro.
+
+ARTÍCULO 303
+
+1. La cuenta bancaria a que se refiere esta Ley, servirá para el manejo de los recursos para obtener el apoyo ciudadano y para, en su caso, la campaña electoral.
+
+2. La utilización de la cuenta será a partir del inicio de los actos tendentes a obtener el apoyo ciudadano y hasta la conclusión de las campañas electorales y con posterioridad, exclusivamente para cubrir los pasivos contraídos y demás erogaciones. Su cancelación deberá realizarse una vez que se concluyan los procedimientos que correspondan al Instituto Nacional Electoral.
+
+ARTÍCULO 304
+
+1. Los actos tendentes a recabar el apoyo ciudadano se financiarán con recursos privados de origen lícito, en los términos de la legislación aplicable, y estarán sujetos al tope de gastos que determine el Consejo General por el tipo de elección para la que pretenda ser postulado.
+
+2. El Consejo General determinará el tope de gastos equivalente al diez por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
+
+ARTÍCULO 305
+
+1. Los aspirantes que rebasen el tope de gastos señalado en el artículo anterior perderán el derecho a ser registrados como candidato independiente o, en su caso, si ya está hecho el registro, se cancelará el mismo.
+
+ARTÍCULO 306
+
+1. Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica y los comprobantes que los amparen, deberán ser expedidos a nombre del aspirante y la persona encargada del manejo de recursos financieros en cuentas mancomunadas, debiendo constar en original como soporte a los informes financieros de los actos tendentes a obtener el apoyo ciudadano.
+
+2. Le serán aplicables a los aspirantes las disposiciones relacionadas con el financiamiento privado de los candidatos independientes de esta Ley.
+
+3. Los aspirantes deberán nombrar una persona encargada del manejo de los recursos financieros y administración de los recursos relacionados con el apoyo ciudadano, así como de la presentación de los informes a que se refieren la Ley General de Partidos, la Ley General y esta Ley.
+
+ARTÍCULO 307
+
+1. El aspirante que no entregue el informe de ingresos y egresos, dentro de los treinta días siguientes a la conclusión del periodo para recabar el apoyo ciudadano, le será negado el registro como candidato independiente.
+
+2. Los aspirantes que sin haber obtenido el registro a la candidatura independiente no entreguen los informes antes señalados, serán sancionados en los términos de la Ley General.
+
 ### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS ASPIRANTES
 
 ARTÍCULO 308
@@ -4161,9 +4273,13 @@ VI. Abstenerse de proferir ofensas, difamación, calumnia o cualquier expresión
 
 VII. Rendir el informe de ingresos y egresos;
 
-VIII. Respetar los topes de gastos fijados para obtener el apoyo ciudadano, en los términos que establece la presente Ley; y
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
 
-IX. Las demás establecidas por esta Ley.
+VIII. Abstenerse de ejercer violencia política contra las mujeres por razón de género o recurrir a expresiones que degraden, denigren o discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas;
+
+IX. Respetar los topes de gastos fijados para obtener el apoyo ciudadano, en los términos que establece la presente Ley; y
+
+X. Las demás establecidas por esta Ley.
 
 ### CAPÍTULO V. DEL REGISTRO DE CANDIDATOS INDEPENDIENTES
 
@@ -4235,31 +4351,21 @@ XIII. Abstenerse de recibir aportaciones y donaciones en efectivo, así como met
 
 XIV. Presentar, en los mismos términos en que lo hagan los partidos políticos, los informes de campaña sobre el origen y monto de todos sus ingresos, así como su aplicación y empleo, en conformidad con lo dispuesto por la Ley General de Partidos, la Ley General de Instituciones y Procedimientos Electorales, y demás ordenamientos aplicables;
 
-XV. Ser responsable solidario, junto con el encargado de la administración de sus recursos financieros, dentro de los procedimientos de fiscalización de los recursos correspondientes; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
 
-XVI. Las demás que establezcan esta Ley, y los demás ordenamientos.
+XVI (SIC). Ser responsable solidario, junto con el encargado de la administración de sus recursos financieros, dentro de los procedimientos de fiscalización de los recursos correspondientes;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+XVII. Abstenerse de ejercer violencia política contra las mujeres por razón de género o recurrir a expresiones que degraden, denigren o discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas; y
+
+XVIII. Las demás que establezcan esta Ley, y los demás ordenamientos.
 
 ARTÍCULO 323
 
 1. Los candidatos independientes que incumplan con la normatividad electoral que les resulte aplicable, serán sancionados en términos de esta Ley y los ordenamientos aplicables.
 
 ### CAPÍTULO II. DE LAS PRERROGATIVAS
-
-### CAPÍTULO I. DE LA BOLETA ELECTORAL
-
-ARTÍCULO 353
-
-1. Los candidatos independientes figurarán en la misma boleta que el Instituto Nacional Electoral apruebe para los candidatos de los partidos políticos o coaliciones, según la elección en la que participen, de conformidad con esta Ley.
-
-2. Se utilizará un recuadro para cada candidato independiente o fórmula de candidatos independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos y si fueran varios candidatos o fórmulas, aparecerán en el orden en que hayan solicitado su registro correspondiente.
-
-ARTÍCULO 354
-
-1. En la boleta, de acuerdo a la elección de que se trate, aparecerá el nombre completo del candidato independiente o de los integrantes de la fórmula de candidatos independientes.
-
-ARTÍCULO 355
-
-1. En la boleta no se incluirá, ni la fotografía, ni la silueta del candidato.
 
 #### Sección Primera. De los Requisitos de Elegibilidad
 
@@ -4375,15 +4481,21 @@ ARTÍCULO 320
 
 ## TÍTULO TERCERO. DE LAS PRERROGATIVAS, DERECHOS Y OBLIGACIONES
 
-### CAPÍTULO II. DEL CÓMPUTO DE LOS VOTOS
+### CAPÍTULO I. DE LA BOLETA ELECTORAL
 
-ARTÍCULO 356
+ARTÍCULO 353
 
-1. Se contará como voto válido la marca que haga el elector en un solo recuadro en el que se contenga el emblema o el nombre de un candidato independiente, en términos de lo dispuesto por esta Ley.
+1. Los candidatos independientes figurarán en la misma boleta que el Instituto Nacional Electoral apruebe para los candidatos de los partidos políticos o coaliciones, según la elección en la que participen, de conformidad con esta Ley.
 
-ARTÍCULO 357
+2. Se utilizará un recuadro para cada candidato independiente o fórmula de candidatos independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos y si fueran varios candidatos o fórmulas, aparecerán en el orden en que hayan solicitado su registro correspondiente.
 
-1. Para determinar la votación estatal emitida que servirá de base para la asignación de diputados por el principio de representación proporcional, no serán contabilizados los votos recibidos a favor de candidatos independientes.
+ARTÍCULO 354
+
+1. En la boleta, de acuerdo a la elección de que se trate, aparecerá el nombre completo del candidato independiente o de los integrantes de la fórmula de candidatos independientes.
+
+ARTÍCULO 355
+
+1. En la boleta no se incluirá, ni la fotografía, ni la silueta del candidato.
 
 #### Sección Primera. De los Representantes ante los Órganos del Instituto
 
@@ -4407,283 +4519,15 @@ ARTÍCULO 325
 
 1. Los candidatos independientes tendrán derecho a nombrar representantes ante las mesas directivas de casilla y generales. El registro de estos nombramientos, se realizará en los términos previstos en esta Ley.
 
-### CAPÍTULO I. SUJETOS, CONDUCTAS SANCIONABLES Y SANCIONES
+### CAPÍTULO II. DEL CÓMPUTO DE LOS VOTOS
 
-ARTÍCULO 358
+ARTÍCULO 356
 
-1. En la sustanciación de los procedimientos sancionadores, se aplicará supletoriamente, en lo no previsto, las disposiciones de la ley de la materia previstas para el trámite, sustanciación y resolución de los medios de impugnación en materia electoral.
+1. Se contará como voto válido la marca que haga el elector en un solo recuadro en el que se contenga el emblema o el nombre de un candidato independiente, en términos de lo dispuesto por esta Ley.
 
-ARTÍCULO 359
+ARTÍCULO 357
 
-1. Son sujetos de responsabilidad por infracciones cometidas a las disposiciones electorales contenidas en esta Ley:
-
-I. Los partidos políticos;
-
-II. Las agrupaciones políticas estatales;
-
-III. Los aspirantes, precandidatos y candidatos a cargos de elección popular;
-
-IV. Los ciudadanos, o cualquier persona física o moral;
-
-V. Los observadores electorales o las organizaciones de observadores electorales;
-
-VI. Las autoridades o los servidores públicos de cualquiera de los Poderes de la Unión; de los poderes locales; órganos de gobierno municipales; organismos autónomos, y cualquier otro ente público;
-
-VII. Los notarios públicos;
-
-VIII. Los extranjeros;
-
-IX. Las organizaciones de ciudadanos que pretendan formar un partido político;
-
-X. Las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como sus integrantes o dirigentes, en lo relativo a la creación y registro de partidos políticos;
-
-XI. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión; y
-
-XII. Los demás sujetos obligados en los términos de la presente Ley.
-
-ARTÍCULO 360
-
-1. Constituyen infracciones de los partidos políticos a la presente Ley:
-
-I. El incumplimiento de las obligaciones señaladas en esta Ley;
-
-II. El incumplimiento de las resoluciones o acuerdos del Instituto;
-
-III. Incumplir las demás disposiciones previstas en la presente Ley en materia de precampañas y campañas electorales;
-
-IV. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas;
-
-V. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
-
-VI. La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia; y
-
-VII. La comisión de cualquier otra falta de las previstas en esta Ley.
-
-ARTÍCULO 361
-
-1. Constituyen infracciones de las agrupaciones políticas estatales a la presente Ley:
-
-I. El incumplimiento de las obligaciones que les señala esta Ley, y
-
-II. El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en esta Ley.
-
-ARTÍCULO 362
-
-1. Constituyen infracciones de los aspirantes, precandidatos o candidatos a cargos de elección popular a la presente Ley:
-
-I. la realización de actos anticipados de precampaña o campaña, según sea el caso;
-
-II. La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia; y
-
-III. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
-
-ARTÍCULO 363
-
-1. Constituyen infracciones de los aspirantes y candidatos independientes a cargos de elección popular a la presente Ley:
-
-I. El incumplimiento de las obligaciones establecidas en esta Ley;
-
-II. La realización de actos anticipados de campaña;
-
-III. Solicitar o recibir recursos en efectivo o en especie, de personas no autorizadas por esta Ley;
-
-IV. Liquidar o pagar, así como aceptar la liquidación o el pago de actos u operaciones mediante el uso de efectivo o metales y piedras preciosas;
-
-V. Utilizar recursos de procedencia ilícita para el financiamiento de cualquiera de sus actividades;
-
-VI. Recibir aportaciones y donaciones en efectivo, así como metales y/o piedras preciosas de cualquier persona física o moral;
-
-VII. No presentar los informes que correspondan para obtener el apoyo ciudadano y de campaña establecidos en esta Ley;
-
-VIII. Exceder el tope de gastos para obtener el apoyo ciudadano y de campaña establecido por el Consejo General;
-
-IX. No reembolsar los recursos provenientes del financiamiento público no ejercidos durante las actividades de campaña;
-
-X. El incumplimiento de las resoluciones y acuerdos del Instituto;
-
-XI. La obtención de bienes inmuebles con recursos provenientes del financiamiento público o privado;
-
-XII. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas, instituciones o los partidos políticos;
-
-XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
-
-XIV. La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia; y
-
-XV. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
-
-ARTÍCULO 364
-
-1. Constituyen infracciones de los ciudadanos, de los dirigentes y afiliados a partidos políticos, o en su caso de cualquier persona física o moral, a la presente Ley:
-
-I. La negativa a entregar la información requerida por el Instituto, entregarla en forma incompleta o con datos falsos, o fuera de los plazos que señale el requerimiento;
-
-II La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia; y
-
-III. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
-
-ARTÍCULO 365
-
-1. Constituyen infracciones a la presente Ley de las autoridades o los servidores públicos, según sea el caso, de cualquiera de los Poderes de la Unión; de los poderes locales; órganos de gobierno municipales; organismos autónomos, y cualquier otro ente público:
-
-I. La omisión o el incumplimiento de la obligación de prestar colaboración y auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
-
-II. La difusión, por cualquier medio distinto a la radio y televisión, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
-
-III. El incumplimiento a los párrafos séptimo y octavo del artículo 134 de la Constitución;
-
-IV. La utilización de programas sociales y de sus recursos, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato, y
-
-V. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
-
-ARTÍCULO 366
-
-1. Constituyen infracciones a la presente Ley por parte de los notarios públicos, el no mantener abiertas sus oficinas el día de la elección y no atender las solicitudes que les hagan los funcionarios de casilla, los ciudadanos y los representantes de partidos políticos, para dar fe de hechos o certificar documentos concernientes a la elección.
-
-ARTÍCULO 367
-
-1. Constituyen infracciones a la presente Ley por parte de los extranjeros, las conductas que violen lo dispuesto por el artículo 33 de la Constitución y las leyes aplicables.
-
-ARTÍCULO 368
-
-1. Constituyen infracciones a la presente Ley por parte de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
-
-I. Permitir que en la creación del partido político intervengan organizaciones gremiales u otras con objeto social diferente a dicho propósito, salvo el caso de agrupaciones políticas estatales; y
-
-II. Realizar o promover la afiliación colectiva de ciudadanos a la organización o al partido para el que se pretenda (sic) registro.
-
-ARTÍCULO 369
-
-1. Constituyen infracciones a la presente Ley por parte de las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como de sus integrantes o dirigentes, cuando actúen o se ostenten con tal carácter, o cuando dispongan de los recursos patrimoniales de su organización:
-
-I. Intervenir en la creación y registro de un partido político o en actos de afiliación colectiva a los mismos; y
-
-II. Incumplir, en lo conducente, cualquiera de las disposiciones contenidas en esta Ley.
-
-ARTÍCULO 370
-
-1. Constituyen infracciones a la presente Ley por parte de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión:
-
-I. Inducir a la abstención, a votar por un candidato o partido político, o a no hacerlo por cualquiera de ellos, en los lugares destinados al culto, en locales de uso público o en los medios de comunicación;
-
-II. Realizar o promover aportaciones económicas a un partido político, aspirante o candidato a cargo de elección popular, así como a una agrupación política; y
-
-III. Incumplir, en lo conducente, cualquiera de las disposiciones contenidas en esta Ley.
-
-ARTÍCULO 371
-
-1. Las infracciones señaladas en los artículos anteriores serán sancionadas conforme a lo siguiente:
-
-I. Respecto de los partidos políticos:
-
-a). Con amonestación pública;
-
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
-
-b). Con multa de hasta diez mil veces la Unidad de Medida y Actualización, según la gravedad de la falta;
-
-c). Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución; y
-
-d). En los casos de graves y reiteradas conductas violatorias de la Constitución y de esta Ley, con la cancelación de su registro o acreditación como partido político ante el Instituto.
-
-II. Respecto de las agrupaciones políticas estatales:
-
-a). Con amonestación pública;
-
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
-
-b). Con multa de hasta cinco mil veces la Unidad de Medida y Actualización, según la gravedad de la falta; y
-
-c). Con la suspensión o cancelación de su registro, que en el primer caso no podrá ser menor a seis meses.
-
-III. Respecto de los aspirantes, precandidatos o candidatos a cargos de elección popular:
-
-a). Con amonestación pública;
-
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
-
-b). Con multa de hasta mil veces la Unidad de Medida y Actualización; y
-
-c). Con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato;
-
-IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o de cualquier persona física o moral:
-
-a). Con amonestación pública;
-
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
-
-b). Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos: con multa de hasta quinientas veces la Unidad de Medida y Actualización; y
-
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
-
-c). Respecto de las personas morales por las conductas señaladas en el inciso anterior: con multa de hasta cien mil veces la Unidad de Medida y Actualización;
-
-V. Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
-
-a). Con amonestación pública;
-
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
-
-b). Con multa de hasta cinco mil veces la Unidad de Medida y Actualización, según la gravedad de la falta; y
-
-c). Con la cancelación del procedimiento tendiente a obtener el registro como partido político estatal;
-
-VI. Respecto de las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como sus integrantes o dirigentes, en lo relativo a la creación y registro de partidos políticos:
-
-a). Con amonestación pública; y
-
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
-
-b). Con multa de hasta cinco mil veces de la Unidad de Medida y Actualización, según la gravedad de la falta.
-
-VII. Respecto de los Candidatos Independientes:
-
-a). Con amonestación pública;
-
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
-
-b). Con multa de hasta cinco mil veces (sic) Unidad de Medida y Actualización;
-
-c). Con la pérdida del derecho del aspirante infractor a ser registrado como candidato independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo;
-
-d). En caso de que el aspirante omita informar y comprobar a la unidad de fiscalización del Instituto los gastos tendentes a recabar el apoyo ciudadano, no podrá ser registrado en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable; y
-
-e). En caso de que el Candidato Independiente omita informar y comprobar a la unidad de fiscalización del Instituto Nacional Electoral los gastos de campaña y no los reembolse al Instituto, no podrá ser registrado como candidato en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable.
-
-ARTÍCULO 372
-
-1. Cuando las autoridades federales, estatales o municipales incumplan los mandatos de la autoridad electoral; no proporcionen en tiempo y forma la información que les sea solicitada, o no presten el auxilio y colaboración que les sea requerida por los órganos del Instituto, se estará a lo siguiente:
-
-I. Conocida la infracción, la Secretaría Ejecutiva integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de ley;
-
-II. El superior jerárquico a que se refiere la fracción anterior deberá comunicar al Instituto las medidas que haya adoptado en el caso; y
-
-III. Si la autoridad infractora no tuviese superior jerárquico, el requerimiento será turnado a la Auditoría Superior de la Federación, o su equivalente en la entidad, a fin de que se proceda en los términos de las leyes aplicables.
-
-2. Cuando el Instituto conozca del incumplimiento por parte de los notarios públicos a las obligaciones que la presente Ley les impone, la Secretaría Ejecutiva integrará un expediente que se remitirá a la autoridad competente, para que proceda en los términos de la legislación aplicable; estos últimos deberán comunicar al Instituto, dentro del plazo de un mes, las medidas que haya adoptado y las sanciones impuestas. En todo caso, la autoridad competente ordenará las medidas cautelares a fin de que la conducta infractora cese de inmediato.
-
-3. Cuando el Instituto tenga conocimiento de que un extranjero, por cualquier forma, pretenda inmiscuirse o se inmiscuya en asuntos políticos, tomará las medidas conducentes y procederá a informar de inmediato a las Secretarías de Gobernación y General de Gobierno del Estado, para los efectos previstos por la ley. Si el infractor se encuentra fuera del territorio nacional, el Instituto procederá a informar a la Secretaría de Relaciones Exteriores para los efectos a que haya lugar.
-
-4. Cuando el Instituto tenga conocimiento de la comisión de una infracción por parte de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, informará a las Secretarías de Gobernación y General de Gobierno del Estado para los efectos legales conducentes.
-
-ARTÍCULO 373
-
-1. Para la individualización de las sanciones a que se refiere este Libro, una vez acreditada la existencia de una infracción y su imputación, la autoridad electoral deberá tomar en cuenta las circunstancias que rodean la contravención de la norma administrativa, entre otras, las siguientes:
-
-I. La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley, en atención al bien jurídico tutelado, o las que se dicten con base en él;
-
-II. Las circunstancias de modo, tiempo y lugar de la infracción;
-
-III. Las condiciones socioeconómicas del infractor;
-
-IV. Las condiciones externas y los medios de ejecución;
-
-V. La reincidencia en el incumplimiento de obligaciones; y
-
-VI. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
-
-2. Se considerará reincidente al infractor que habiendo sido declarado responsable del incumplimiento a alguna de las obligaciones a que se refiere la presente Ley incurra nuevamente en la misma conducta infractora al presente ordenamiento legal.
-
-3. Las multas que no hubiesen sido recurridas, o bien que fuesen confirmadas por la autoridad competente, deberán ser pagadas en la Dirección de Administración del Instituto en un plazo improrrogable de quince días contados a partir de la notificación; si el infractor no cumple con su obligación, el Instituto dará vista a la Secretaría de Finanzas y de Administración de Gobierno del Estado a efecto de que procedan a su cobro conforme a la legislación aplicable. En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.
+1. Para determinar la votación estatal emitida que servirá de base para la asignación de diputados por el principio de representación proporcional, no serán contabilizados los votos recibidos a favor de candidatos independientes.
 
 #### Sección Primera. Del Financiamiento
 
@@ -4839,6 +4683,342 @@ ARTÍCULO 352
 
 ## TÍTULO SEXTO. DE LOS ACTOS DE LA JORNADA ELECTORAL
 
+### CAPÍTULO I. SUJETOS, CONDUCTAS SANCIONABLES Y SANCIONES
+
+ARTÍCULO 358
+
+1. En la sustanciación de los procedimientos sancionadores, se aplicará supletoriamente, en lo no previsto, las disposiciones de la ley de la materia previstas para el trámite, sustanciación y resolución de los medios de impugnación en materia electoral.
+
+ARTÍCULO 359
+
+1. Son sujetos de responsabilidad por infracciones cometidas a las disposiciones electorales contenidas en esta Ley:
+
+I. Los partidos políticos;
+
+II. Las agrupaciones políticas estatales;
+
+III. Los aspirantes, precandidatos y candidatos a cargos de elección popular;
+
+IV. Los ciudadanos, o cualquier persona física o moral;
+
+V. Los observadores electorales o las organizaciones de observadores electorales;
+
+VI. Las autoridades o los servidores públicos de cualquiera de los Poderes de la Unión; de los poderes locales; órganos de gobierno municipales; organismos autónomos, y cualquier otro ente público;
+
+VII. Los notarios públicos;
+
+VIII. Los extranjeros;
+
+IX. Las organizaciones de ciudadanos que pretendan formar un partido político;
+
+X. Las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como sus integrantes o dirigentes, en lo relativo a la creación y registro de partidos políticos;
+
+XI. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión; y
+
+XII. Los demás sujetos obligados en los términos de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+2. Cuando alguno de los sujetos señalados en este artículo sea responsable de las conductas relacionadas por violencia política contra las mujeres en razón de género, contenidas en el articulo 359 BIS de esta Ley, así como en la Ley General, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley de las Mujeres para una Vida sin Violencia, será sancionado en términos de los dispuesto en este capítulo.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+3. Las quejas o denuncias por violencia política contra las mujeres en razón de género, se substanciarán a través del procedimiento especial sancionador.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+ARTÍCULO 359 BIS
+
+1. La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción a la presente Ley por parte de los sujetos de responsabilidad señalados en el artículo 359 de esta Ley, y se manifiesta, entre otras, a través de las siguientes conductas:
+
+I. Obstaculizar a las mujeres, los derechos de asociación o afiliación política;
+
+II. Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
+
+III. Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
+
+IV. Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
+
+V. Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad; y
+
+VI. Cualquiera otra acción que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
+
+ARTÍCULO 360
+
+1. Constituyen infracciones de los partidos políticos a la presente Ley:
+
+I. El incumplimiento de las obligaciones señaladas en esta Ley;
+
+II. El incumplimiento de las resoluciones o acuerdos del Instituto;
+
+III. Incumplir las demás disposiciones previstas en la presente Ley en materia de precampañas y campañas electorales;
+
+IV. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas;
+
+V. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+VI. La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+VII. El incumplimiento a las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, en los términos de la presente Ley, la Ley General y la Ley General de Partidos Políticos; y
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+VIII. La comisión de cualquier otra falta de las previstas en la Ley.
+
+ARTÍCULO 361
+
+1. Constituyen infracciones de las agrupaciones políticas estatales a la presente Ley:
+
+I. El incumplimiento de las obligaciones que les señala esta Ley, y
+
+II. El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en esta Ley.
+
+ARTÍCULO 362
+
+1. Constituyen infracciones de los aspirantes, precandidatos o candidatos a cargos de elección popular a la presente Ley:
+
+I. la realización de actos anticipados de precampaña o campaña, según sea el caso;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+II. La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+III. Ejercer violencia política contra las mujeres en razón de género; y
+
+IV. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+
+ARTÍCULO 363
+
+1. Constituyen infracciones de los aspirantes y candidatos independientes a cargos de elección popular a la presente Ley:
+
+I. El incumplimiento de las obligaciones establecidas en esta Ley;
+
+II. La realización de actos anticipados de campaña;
+
+III. Solicitar o recibir recursos en efectivo o en especie, de personas no autorizadas por esta Ley;
+
+IV. Liquidar o pagar, así como aceptar la liquidación o el pago de actos u operaciones mediante el uso de efectivo o metales y piedras preciosas;
+
+V. Utilizar recursos de procedencia ilícita para el financiamiento de cualquiera de sus actividades;
+
+VI. Recibir aportaciones y donaciones en efectivo, así como metales y/o piedras preciosas de cualquier persona física o moral;
+
+VII. No presentar los informes que correspondan para obtener el apoyo ciudadano y de campaña establecidos en esta Ley;
+
+VIII. Exceder el tope de gastos para obtener el apoyo ciudadano y de campaña establecido por el Consejo General;
+
+IX. No reembolsar los recursos provenientes del financiamiento público no ejercidos durante las actividades de campaña;
+
+X. El incumplimiento de las resoluciones y acuerdos del Instituto;
+
+XI. La obtención de bienes inmuebles con recursos provenientes del financiamiento público o privado;
+
+XII. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas, instituciones o los partidos políticos;
+
+XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+XIV. La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+XV. Ejercer violencia política contra las mujeres en razón de género; y
+
+XVI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
+
+ARTÍCULO 364
+
+1. Constituyen infracciones de los ciudadanos, de los dirigentes y afiliados a partidos políticos, o en su caso de cualquier persona física o moral, a la presente Ley:
+
+I. La negativa a entregar la información requerida por el Instituto, entregarla en forma incompleta o con datos falsos, o fuera de los plazos que señale el requerimiento;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+II. La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+III. Ejercer violencia política contra las mujeres en razón de género; y
+
+IV. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+
+ARTÍCULO 365
+
+1. Constituyen infracciones a la presente Ley de las autoridades o los servidores públicos, según sea el caso, de cualquiera de los Poderes de la Unión; de los poderes locales; órganos de gobierno municipales; organismos autónomos, y cualquier otro ente público:
+
+I. La omisión o el incumplimiento de la obligación de prestar colaboración y auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
+
+II. La difusión, por cualquier medio distinto a la radio y televisión, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
+
+III. El incumplimiento a los párrafos séptimo y octavo del artículo 134 de la Constitución;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+IV. La utilización de programas sociales y de sus recursos, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+V. Ejercer violencia política contra las mujeres en razón de género; y
+
+VI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+
+ARTÍCULO 366
+
+1. Constituyen infracciones a la presente Ley por parte de los notarios públicos, el no mantener abiertas sus oficinas el día de la elección y no atender las solicitudes que les hagan los funcionarios de casilla, los ciudadanos y los representantes de partidos políticos, para dar fe de hechos o certificar documentos concernientes a la elección.
+
+ARTÍCULO 367
+
+1. Constituyen infracciones a la presente Ley por parte de los extranjeros, las conductas que violen lo dispuesto por el artículo 33 de la Constitución y las leyes aplicables.
+
+ARTÍCULO 368
+
+1. Constituyen infracciones a la presente Ley por parte de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
+
+I. Permitir que en la creación del partido político intervengan organizaciones gremiales u otras con objeto social diferente a dicho propósito, salvo el caso de agrupaciones políticas estatales; y
+
+II. Realizar o promover la afiliación colectiva de ciudadanos a la organización o al partido para el que se pretenda (sic) registro.
+
+ARTÍCULO 369
+
+1. Constituyen infracciones a la presente Ley por parte de las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como de sus integrantes o dirigentes, cuando actúen o se ostenten con tal carácter, o cuando dispongan de los recursos patrimoniales de su organización:
+
+I. Intervenir en la creación y registro de un partido político o en actos de afiliación colectiva a los mismos; y
+
+II. Incumplir, en lo conducente, cualquiera de las disposiciones contenidas en esta Ley.
+
+ARTÍCULO 370
+
+1. Constituyen infracciones a la presente Ley por parte de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión:
+
+I. Inducir a la abstención, a votar por un candidato o partido político, o a no hacerlo por cualquiera de ellos, en los lugares destinados al culto, en locales de uso público o en los medios de comunicación;
+
+II. Realizar o promover aportaciones económicas a un partido político, aspirante o candidato a cargo de elección popular, así como a una agrupación política; y
+
+III. Incumplir, en lo conducente, cualquiera de las disposiciones contenidas en esta Ley.
+
+ARTÍCULO 371
+
+1. Las infracciones señaladas en los artículos anteriores serán sancionadas conforme a lo siguiente:
+
+I. Respecto de los partidos políticos:
+
+a). Con amonestación pública;
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+b). Con multa de hasta diez mil veces la Unidad de Medida y Actualización, según la gravedad de la falta;
+
+c). Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución; y
+
+d). En los casos de graves y reiteradas conductas violatorias de la Constitución y de esta Ley, con la cancelación de su registro o acreditación como partido político ante el Instituto.
+
+II. Respecto de las agrupaciones políticas estatales:
+
+a). Con amonestación pública;
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+b). Con multa de hasta cinco mil veces la Unidad de Medida y Actualización, según la gravedad de la falta; y
+
+c). Con la suspensión o cancelación de su registro, que en el primer caso no podrá ser menor a seis meses.
+
+III. Respecto de los aspirantes, precandidatos o candidatos a cargos de elección popular:
+
+a). Con amonestación pública;
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+b). Con multa de hasta mil veces la Unidad de Medida y Actualización; y
+
+c). Con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato;
+
+IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o de cualquier persona física o moral:
+
+a). Con amonestación pública;
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+b). Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos: con multa de hasta quinientas veces la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+c). Respecto de las personas morales por las conductas señaladas en el inciso anterior: con multa de hasta cien mil veces la Unidad de Medida y Actualización;
+
+V. Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
+
+a). Con amonestación pública;
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+b). Con multa de hasta cinco mil veces la Unidad de Medida y Actualización, según la gravedad de la falta; y
+
+c). Con la cancelación del procedimiento tendiente a obtener el registro como partido político estatal;
+
+VI. Respecto de las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como sus integrantes o dirigentes, en lo relativo a la creación y registro de partidos políticos:
+
+a). Con amonestación pública; y
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+b). Con multa de hasta cinco mil veces de la Unidad de Medida y Actualización, según la gravedad de la falta.
+
+VII. Respecto de los Candidatos Independientes:
+
+a). Con amonestación pública;
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+b). Con multa de hasta cinco mil veces (sic) Unidad de Medida y Actualización;
+
+c). Con la pérdida del derecho del aspirante infractor a ser registrado como candidato independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo;
+
+d). En caso de que el aspirante omita informar y comprobar a la unidad de fiscalización del Instituto los gastos tendentes a recabar el apoyo ciudadano, no podrá ser registrado en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable; y
+
+e). En caso de que el Candidato Independiente omita informar y comprobar a la unidad de fiscalización del Instituto Nacional Electoral los gastos de campaña y no los reembolse al Instituto, no podrá ser registrado como candidato en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable.
+
+ARTÍCULO 372
+
+1. Cuando las autoridades federales, estatales o municipales incumplan los mandatos de la autoridad electoral; no proporcionen en tiempo y forma la información que les sea solicitada, o no presten el auxilio y colaboración que les sea requerida por los órganos del Instituto, se estará a lo siguiente:
+
+I. Conocida la infracción, la Secretaría Ejecutiva integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de ley;
+
+II. El superior jerárquico a que se refiere la fracción anterior deberá comunicar al Instituto las medidas que haya adoptado en el caso; y
+
+III. Si la autoridad infractora no tuviese superior jerárquico, el requerimiento será turnado a la Auditoría Superior de la Federación, o su equivalente en la entidad, a fin de que se proceda en los términos de las leyes aplicables.
+
+2. Cuando el Instituto conozca del incumplimiento por parte de los notarios públicos a las obligaciones que la presente Ley les impone, la Secretaría Ejecutiva integrará un expediente que se remitirá a la autoridad competente, para que proceda en los términos de la legislación aplicable; estos últimos deberán comunicar al Instituto, dentro del plazo de un mes, las medidas que haya adoptado y las sanciones impuestas. En todo caso, la autoridad competente ordenará las medidas cautelares a fin de que la conducta infractora cese de inmediato.
+
+3. Cuando el Instituto tenga conocimiento de que un extranjero, por cualquier forma, pretenda inmiscuirse o se inmiscuya en asuntos políticos, tomará las medidas conducentes y procederá a informar de inmediato a las Secretarías de Gobernación y General de Gobierno del Estado, para los efectos previstos por la ley. Si el infractor se encuentra fuera del territorio nacional, el Instituto procederá a informar a la Secretaría de Relaciones Exteriores para los efectos a que haya lugar.
+
+4. Cuando el Instituto tenga conocimiento de la comisión de una infracción por parte de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, informará a las Secretarías de Gobernación y General de Gobierno del Estado para los efectos legales conducentes.
+
+ARTÍCULO 373
+
+1. Para la individualización de las sanciones a que se refiere este Libro, una vez acreditada la existencia de una infracción y su imputación, la autoridad electoral deberá tomar en cuenta las circunstancias que rodean la contravención de la norma administrativa, entre otras, las siguientes:
+
+I. La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley, en atención al bien jurídico tutelado, o las que se dicten con base en él;
+
+II. Las circunstancias de modo, tiempo y lugar de la infracción;
+
+III. Las condiciones socioeconómicas del infractor;
+
+IV. Las condiciones externas y los medios de ejecución;
+
+V. La reincidencia en el incumplimiento de obligaciones; y
+
+VI. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+
+2. Se considerará reincidente al infractor que habiendo sido declarado responsable del incumplimiento a alguna de las obligaciones a que se refiere la presente Ley incurra nuevamente en la misma conducta infractora al presente ordenamiento legal.
+
+3. Las multas que no hubiesen sido recurridas, o bien que fuesen confirmadas por la autoridad competente, deberán ser pagadas en la Dirección de Administración del Instituto en un plazo improrrogable de quince días contados a partir de la notificación; si el infractor no cumple con su obligación, el Instituto dará vista a la Secretaría de Finanzas y de Administración de Gobierno del Estado a efecto de que procedan a su cobro conforme a la legislación aplicable. En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.
+
 ### CAPÍTULO II. DEL PROCEDIMIENTO SANCIONADOR DISPOSICIONES GENERALES
 
 ARTÍCULO 374
@@ -4936,6 +5116,44 @@ ARTÍCULO 377
 ARTÍCULO 378
 
 1. Para la resolución expedita de las quejas o denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos por que existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTENGRAN, P.O. 19 DE AGOSTO DE 2021)</small>
+
+# LIBRO SEXTO. DEL PROCEDIMIENTO SANCIONADOR ELECTORAL
+
+## TÍTULO PRIMERO. DE LAS FALTAS ELECTORALES Y SU SANCIÓN
+
+### CAPÍTULO II BIS. DE LAS MEDIDAS CAUTELARES Y DE REPARACIÓN EN LOS PROCEDIMIENTOS DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+ARTÍCULO 378 BIS
+
+1. Las medidas cautelares que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
+
+I. Realizar análisis de riesgos y un plan de seguridad;
+
+II. Retirar la campaña violenta contra la víctima, haciendo públicas las razones;
+
+III. Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora;
+
+IV. Ordenar la suspensión del cargo partidista, de la persona agresora; y
+
+V. Cualquier otra requerida para la protección de la mujer víctima, o quien ella solicite.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+ARTÍCULO 378 TER
+
+1. En la resolución de los procedimientos sancionadores, por violencia política en contra de las mujeres por razón de género, la autoridad resolutora deberá considerar ordenar las medidas de reparación integral que correspondan considerando al menos las siguientes:
+
+I. Indemnización de la victima;
+
+II. Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia;
+
+III. Disculpa pública; y
+
+IV. Medidas de no repetición.
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO SANCIONADOR ORDINARIO
 
@@ -5079,19 +5297,25 @@ V. Rechazado un proyecto de resolución se entiende que se aprueba un acuerdo de
 
 9. En el desahogo de los puntos de la orden del día en que el Consejo General deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, éstos se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
 
-# LIBRO SEXTO. DEL PROCEDIMIENTO SANCIONADOR ELECTORAL
-
-## TÍTULO PRIMERO. DE LAS FALTAS ELECTORALES Y SU SANCIÓN
-
 ### CAPÍTULO IV. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
 
 ARTÍCULO 385
 
-1. Dentro de los procesos electorales, la Secretaría del Consejo General instruirá el procedimiento especial establecido por el presente capítulo, cuando se denuncie la comisión de conductas que:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2021)</small>
 
-I. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en esta Ley; o
+1. Dentro de los procesos electorales, la Secretaría Ejecutiva y las Secretarías de los Consejos Municipales instruirán el procedimiento especial establecido por el presente capítulo, cuando se denuncie la comisión de conductas que:
 
-II. Constituyan actos anticipados de precampaña o campaña.
+I. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en esta Ley;
+
+II. Constituyan actos anticipados de precampaña o campaña; o
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+III. Cometan actos de violencia política contra las mujeres por razón de género, o aquellos que atenten en contra del bien superior de los niños y niñas.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
+
+2. La Secretaría Ejecutiva y las Secretarías de los Consejos Municipales, instruirán el procedimiento especial establecido en este capítulo, en cualquier momento, cuando se presenten denuncias, o de oficio por hechos relacionados con violencia política contra las mujeres en razón de género.
 
 ARTÍCULO 386
 
@@ -5404,3 +5628,23 @@ SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entr
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
+
+P.O. 19 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 600.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo Tercero. El Tribunal Electoral del Estado de Durango, realizará las adecuaciones normativas necesarias procedentes para el cumplimiento de este decreto en un plazo que no exceda de 90 días a partir de la entrada en vigencia del presente.
+
+Artículo Cuarto. El Tribunal Electoral del Estado de Durango, emitirá la convocatoria a que se refiere este decreto en un plazo que no exceda de 180 días a partir de la entrada en vigencia del presente.
+
+P.O. 19 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 601.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO, EN MATERIA DE CREACIÓN DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL ELECTORAL DEL ESTADO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
