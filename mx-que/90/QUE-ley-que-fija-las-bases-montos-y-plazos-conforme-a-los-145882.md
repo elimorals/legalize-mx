@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-fija-las-bases-montos-y-plazos-conforme-a-los-145882"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-21"
-last_updated: "2020-12-21"
+last_updated: "2021-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE FIJA LAS BASES, MONTOS Y PLAZOS CONFORME A LOS CUALES SE DISTRIBUIRÁN LAS PARTICIPACIONES FEDERALES CORRESPONDIENTES A LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, PARA EL EJERCICIO FISCAL 2021
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2021.
 
 Ley publicada en el No. 101 del Periódico Oficial del Estado de Querétaro, el lunes 21 de diciembre de 2020.
 
@@ -49,9 +49,11 @@ La presente Ley tiene por objeto establecer las bases, fórmulas, porcentajes, v
 
 Para los efectos de esta Ley, son Participaciones Federales las asignaciones que por ingresos federales correspondan a los municipios, en los términos de la Ley de Coordinación Fiscal y las que señalen otros ordenamientos fiscales aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 3.
 
-Las Participaciones Federales provenientes del Fondo General de Participaciones, del Fondo de Fiscalización y del Fondo de Fomento Municipal; las derivadas del Impuesto Federal sobre Tenencia y Uso de Vehículos; del Impuesto Especial sobre Producción y Servicios; del Impuesto Sobre Automóviles Nuevos y del Impuesto sobre la Venta de Bienes, cuya enajenación se encuentra gravada por la Ley del Impuesto Especial sobre Producción y Servicios, serán cubiertas a los municipios por conducto del Estado y se sujetarán al régimen que contienen las leyes en la materia.
+Las Participaciones Federales provenientes del Fondo General de Participaciones, del Fondo de Fiscalización y del Fondo de Fomento Municipal; las derivadas del Impuesto Federal sobre Tenencia y Uso de Vehículos; del Impuesto Especial sobre Producción y Servicios; del Impuesto Sobre Automóviles Nuevos; del Impuesto sobre la Venta de Bienes, cuya enajenación se encuentra gravada por la Ley del Impuesto Especial sobre Producción y Servicios; y de los Incentivos por la enajenación de bienes inmuebles derivados del Impuesto Sobre la Renta, serán cubiertas a los municipios por conducto del Estado y se sujetarán al régimen que contienen las leyes en la materia.
 
 ###### Artículo 4.
 
@@ -93,51 +95,55 @@ D. La relación porcentual por Zonificación municipal representa el 10% del coe
 
 Determinadas las relaciones porcentuales por componente y por municipio, estas se sumarán y se multiplicarán por 100, con lo que se determinará el porcentaje que servirá para la distribución de las Participaciones Federales y el fondo de fomento municipal.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 5.
 
-Se distribuirá entre los municipios del Estado de Querétaro el 22.50% (veintidós punto cincuenta por ciento) de las Participaciones Federales que corresponden al Estado, provenientes del Fondo General de Participaciones, del Fondo de Fiscalización, del Impuesto sobre Tenencia o uso de vehículos, del Impuesto Especial sobre Producción y Servicios, del Impuesto sobre Automóviles Nuevos, en términos de la Ley de Coordinación Fiscal, así como del Impuesto sobre la Venta de Bienes, cuya Enajenación se encuentra gravada por la Ley del Impuesto Especial sobre Producción y Servicios que se refiere la Ley de Hacienda del Estado; y el 100% (cien por ciento) del Fondo de Fomento Municipal que perciba el Estado de Querétaro, en el ejercicio fiscal 2021.
+Se distribuirá entre los municipios del Estado de Querétaro el 22.50% (veintidós punto cincuenta por ciento) de las Participaciones Federales que corresponden al Estado, provenientes del Fondo General de Participaciones, del Fondo de Fiscalización, del Impuesto sobre Tenencia o uso de vehículos, del Impuesto Especial sobre Producción y Servicios, del Impuesto sobre Automóviles Nuevos, en términos de la Ley de Coordinación Fiscal, así como del Impuesto sobre la Venta de Bienes, cuya Enajenación se encuentra gravada por la Ley del Impuesto Especial sobre Producción y Servicios (sic) que se refiere la Ley de Hacienda del Estado, de los Incentivos por la enajenación de bienes inmuebles derivados del Impuesto Sobre la Renta; y el 100% (cien por ciento) del Fondo de Fomento Municipal que perciba el Estado de Querétaro, en el ejercicio fiscal 2021.
 
 ###### Artículo 6.
 
 De las Participaciones Federales a que se refiere el artículo 4 de esta Ley, exceptuando la recaudación por concepto del Impuesto Especial sobre Producción y Servicios por la enajenación de gasolinas o diésel, a que se refiere el artículo 4o-A de la Ley de Coordinación Fiscal, que correspondan a los municipios del Estado por concepto de ingresos federales, el 20% (veinte por ciento) se distribuirá de acuerdo a los siguientes porcentajes:
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
 Municipios Porcentaje 20%
 
-Amealco de Bonfil 3.0916
+Amealco de Bonfil 2.9677
 
-Arroyo Seco 2.4145
+Arroyo Seco 2.4090
 
-Cadereyta de Montes 4.2823
+Cadereyta de Montes 4.1025
 
-Colón 3.7136
+Colón 3.5682
 
-Corregidora 7.5583
+Corregidora 7.5865
 
-El Marqués 9.4452
+El Marqués 10.2508
 
-Ezequiel Montes 1.9796
+Ezequiel Montes 1.9578
 
-Huimilpan 2.0530
+Huimilpan 1.8912
 
-Jalpan de Serra 3.3627
+Jalpan de Serra 3.2209
 
-Landa de Matamoros 2.6743
+Landa de Matamoros 2.6675
 
-Pedro Escobedo 2.7566
+Pedro Escobedo 2.6895
 
-Peñamiller 2.2553
+Peñamiller 2.2032
 
-Pinal de Amoles 2.7723
+Pinal de Amoles 2.7590
 
-Querétaro 35.9623
+Querétaro 36.4400
 
-San Joaquín 1.4418
+San Joaquín 1.5563
 
-San Juan del Río 8.9096
+San Juan del Río 8.6810
 
-Tequisquiapan 2.9373
+Tequisquiapan 2.7414
 
-Tolimán 2.3897
+Tolimán 2.3075
 
 Total 100.0000
 
@@ -147,43 +153,45 @@ El 2.50% (dos punto cincuenta por ciento) restante de las Participaciones Federa
 
 La determinación de su coeficiente resulta de aplicar la función de proporcionalidad inversa al porcentaje que se determinó para la distribución de las Participaciones Federales y el Fondo de Fomento Municipal, de acuerdo al artículo 6 de la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro y al artículo 4 de esta misma ley. Lo anterior consiste en que se divida un valor constante que en este caso será la unidad (1) entre el porcentaje determinado y detallado en el artículo 5 de esta Ley, el coeficiente que resulte por municipio se dividirá a su vez entre la sumatoria de los coeficientes de los 18 municipios del Estado, obteniendo con ello el factor que servirá para la distribución del excedente del 2.5% autorizado por la Legislatura, el que por último tendrá que multiplicarse por 100.
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
 Municipios Porcentaje 2.5%
 
-Amealco de Bonfil 5.4809
+Amealco de Bonfil 5.6143
 
-Arroyo Seco 7.0177
+Arroyo Seco 6.9165
 
-Cadereyta de Montes 3.9569
+Cadereyta de Montes 4.0614
 
-Colón 4.5629
+Colón 4.6695
 
-Corregidora 2.2418
+Corregidora 2.1961
 
-El Marqués 1.7940
+El Marqués 1.6254
 
-Ezequiel Montes 8.5596
+Ezequiel Montes 8.5104
 
-Huimilpan 8.2537
+Huimilpan 8.8099
 
-Jalpan de Serra 5.0390
+Jalpan de Serra 5.1729
 
-Landa de Matamoros 6.3360
+Landa de Matamoros 6.2462
 
-Pedro Escobedo 6.1470
+Pedro Escobedo 6.1951
 
-Peñamiller 7.5132
+Peñamiller 7.5623
 
-Pinal de Amoles 6.1121
+Pinal de Amoles 6.0391
 
-Querétaro 0.4712
+Querétaro 0.4572
 
-San Joaquín 11.7527
+San Joaquín 10.7060
 
-San Juan del Río 1.9018
+San Juan del Río 1.9193
 
-Tequisquiapan 5.7688
+Tequisquiapan 6.0778
 
-Tolimán 7.0907
+Tolimán 7.2206
 
 Total 100.0000
 
@@ -195,43 +203,45 @@ I. La primera parte representa el 70% del coeficiente de distribución, su cálc
 
 II. La segunda parte representa el 30% del coeficiente de distribución, su cálculo resulta de multiplicar los montos relativos a ingresos propios de cada municipio por el 30%, el resultado se dividirá entre la suma total de los ingresos percibidos por todos los municipios, para obtener la relación porcentual, conforme a los datos ofrecidos por la Entidad Superior de Fiscalización del Estado, que corresponde, según sea el caso, al periodo fijado en la fracción II del artículo 5, de la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro.
 
-Municipios Población Ingresos
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-Amealco de Bonfil 2.1037 0.1455
+Municipios Población Ingresos Propios
 
-Arroyo Seco 0.4570 0.0166
+Amealco de Bonfil 1.9755 0.1455
 
-Cadereyta de Montes 2.3884 0.1176
+Arroyo Seco 0.3884 0.0166
 
-Colón 2.1521 0.5313
+Cadereyta de Montes 2.0415 0.1176
 
-Corregidora 6.2392 3.3203
+Colón 1.9838 0.5313
 
-El Marqués 5.3667 4.8127
+Corregidora 6.2824 3.3203
 
-Ezequiel Montes 1.3933 0.1982
+El Marqués 6.8469 4.8127
 
-Huimilpan 1.3151 0.2123
+Ezequiel Montes 1.3341 0.1982
 
-Jalpan de Serra 0.9238 0.0654
+Huimilpan 1.0879 0.2123
 
-Landa de Matamoros 0.6163 0.0347
+Jalpan de Serra 0.8081 0.0654
 
-Pedro Escobedo 2.3459 0.4226
+Landa de Matamoros 0.5555 0.0347
 
-Peñamiller 0.6918 0.0165
+Pedro Escobedo 2.2877 0.4226
 
-Pinal de Amoles 0.8799 0.0239
+Peñamiller 0.5657 0.0165
 
-Querétaro 30.1834 17.4619
+Pinal de Amoles 0.8088 0.0239
 
-San Joaquín 0.3256 0.0272
+Querétaro 31.0260 17.4619
 
-San Juan del Río 9.2174 2.0724
+San Joaquín 0.2471 0.0272
 
-Tequisquiapan 2.4294 0.4816
+San Juan del Río 8.8016 2.0724
 
-Tolimán 0.9710 0.0393
+Tequisquiapan 2.1339 0.4816
+
+Tolimán 0.8251 0.0393
 
 Total 70.0000 30.0000
 
@@ -328,3 +338,17 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY QUE FIJA LAS BASES, MONTOS Y PLAZOS CONFORME A LOS CUALES SE DISTRIBUIRÁN LAS PARTICIPACIONES FEDERALES CORRESPONDIENTES A LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, PARA EL EJERCICIO FISCAL 2021”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero Se autoriza a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro, a realizar las adecuaciones necesarias para la aplicación de los factores de la presente Ley, tomando en consideración las participaciones, convenios e incentivos derivados de la colaboración fiscal, que se perciban en el ejercicio fiscal 2021. Lo anterior, de conformidad con lo que en su caso establezcan las disposiciones de carácter federal o local que resulten aplicables.
+
+> <small>[N. DE E. VÉASE ANEXOS EN EL P.O. DE 20 DE AGOSTO DE 2021, PÁGINAS DE LA 33559 A LA 33560.]</small>
