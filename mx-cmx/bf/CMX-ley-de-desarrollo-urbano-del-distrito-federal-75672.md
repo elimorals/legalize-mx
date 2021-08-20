@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2018-03-22"
+last_updated: "2021-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -528,7 +528,9 @@ II. Proponer la procedencia de la regularización del asentamiento de que se tra
 
 III. Determinar la improcedencia de la regularización del asentamiento de que se trate, con base en los documentos previstos en la fracción II del presente artículo;
 
-IV. Proponer el monto y plazo o periodicidad del pago por servicios ambientales, así como las formas de participación social, que los habitantes de los asentamientos de que se trate deberán realizar para mitigar los daños ambientales causados al territorio ocupado;
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2021)</small>
+
+IV. Proponer el monto y plazo o periodicidad del pago por servicios ambientales y/o las formas de participación social que las personas habitantes de los asentamientos de que se trate deberán realizar, para mitigar los daños ambientales causados al territorio ocupado;
 
 V. Proponer las normas de zonificación aplicables al asentamiento cuya regularización se proponga, seleccionando la del uso del suelo de entre las siguientes: RE (Rescate Ecológico), PE; PRA (Producción Rural Agroindustrial); HR (Habitacional Rural de Baja Densidad), HRB (Habitacional Rural Baja) y HRC (Habitacional Rural con Comercio en planta baja);
 
@@ -540,35 +542,65 @@ VIII. Proponer las normas de sustentabilidad que deberán observarse en cada ase
 
 IX. Las demás que establezca la presente Ley.
 
-> <small>(ADICIONADO, G.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 24 Quinquies.
 
-Cuando el Presidente de la Comisión de Evaluación de Asentamientos Humanos Irregulares, reciba una denuncia de un asentamiento humano irregular ubicado en Suelo de Conservación, o cuando cuente con elementos que demuestren la existencia de alguno, se llevará a cabo el siguiente procedimiento:
+Cuando el Presidente de la Comisión de Evaluación de Asentamientos Humanos Irregulares, reciba una denuncia de un asentamiento humano irregular ubicado en Suelo de Conservación, o cuente con elementos que demuestren la existencia de alguno, se llevará a cabo el siguiente procedimiento:
+
+> <small>(ADICIONADA, G.O. 16 DE MARZO DE 2017)</small>
 
 I. El Presidente de la Comisión convocará a sesión a los integrantes de la Comisión, en la cual expondrá el caso del asentamiento que dio lugar a la denuncia o al inicio del procedimiento;
 
+> <small>(ADICIONADA, G.O. 16 DE MARZO DE 2017)</small>
+
 II. La Delegación, previa licitación pública, contratará la elaboración del “Estudio para Determinar la Afectación Urbana y Ambiental”, para lo cual convocará únicamente a instituciones públicas de educación superior, con áreas especializadas en materia ambiental, que cuenten con investigadores adscritos al Sistema Nacional de Investigadores, e informará a la Comisión sobre el desarrollo de la licitación. La Secretaría de Protección Civil, por su parte, elaborará un “Estudio de Riesgo” en el que señalará el nivel de riesgo (bajo, medio o alto) de los predios o construcciones de que se trate, y las obras y acciones necesarias para disminuir el nivel de riesgo determinado. El Sistema de Aguas de la Ciudad de México emitirá a su vez la “Factibilidad Técnica para la Dotación de los Servicios de Agua Potable y Drenaje”;
+
+> <small>(ADICIONADA, G.O. 16 DE MARZO DE 2017)</small>
 
 III. La Delegación competente cubrirá, con cargo a su presupuesto, los honorarios y gastos que se causen por la realización del “Estudio para Determinar la Afectación Urbana y Ambiental”;
 
+> <small>(ADICIONADA, G.O. 16 DE MARZO DE 2017)</small>
+
 IV. El “Estudio para Determinar la Afectación Urbana y Ambiental” deberá contener: 1) La “Ubicación georreferenciada del asentamiento”; 2) Un “Diagnóstico de Aspectos Urbanos y Aspectos del Medio Ambiente”, que incluya la caracterización del asentamiento de que se trate, a partir de censos de familias por predio y de viviendas, que incluyan el número de integrantes, edades y ocupación, los servicios al interior del lote, número de cuartos, y material de la vivienda; las características socioeconómicas del asentamiento; su antigüedad promedio; la zonificación actual del suelo ocupado; el grado de consolidación; características de la infraestructura urbana y factibilidad de dotación de servicios públicos; situación jurídica de la tenencia del suelo; características físicas del entorno; capacidad de infiltración de agua pluvial; captura de carbono; biodiversidad; relación y cercanía con poblados rurales, con otros asentamientos humanos y con zonas federales, y riesgo de conurbación; 3) La “Delimitación física y superficie del polígono a ordenar”, que incluya un levantamiento topográfico en plano a escala 1:2500, en el que se ilustren las manzanas, lotes, vías, caminos, derechos de paso y afectaciones, con la referencia de cada propietario o poseedor, así como la estructura vial propuestos; 4) La “Identificación y descripción de impactos ambientales”; 5) Las posibles “Medidas de mitigación, compensación y restauración del impacto ambiental provocado”; 6) Una “Propuesta de abastecimiento de agua potable y tratamiento de residuos sólidos y líquidos mediante tecnologías alternativas”, y 7) Las “Restricciones y afectaciones necesarias al ordenamiento territorial”;
+
+> <small>(ADICIONADA, G.O. 16 DE MARZO DE 2017)</small>
 
 V. La Comisión recibirá en sesión los documentos señalados en la fracción II del presente artículo, y un informe de sus autores, en el que expondrán una síntesis de sus conclusiones;
 
+> <small>(ADICIONADA, G.O. 16 DE MARZO DE 2017)</small>
+
 VI. Si la Comisión determinare procedente proponer la regularización del asentamiento; con base en los documentos entregados conforme a la fracción V del presente artículo, elaborará un proyecto de Iniciativa de Decreto de reforma al Programa de Desarrollo Urbano aplicable, en el que se incluirán todas y cada una de las propuestas previstas en el artículo 24 Quater de la presente Ley, si no lo estuvieren ya con motivo de la integración de los documentos entregados;
+
+> <small>(ADICIONADA, G.O. 16 DE MARZO DE 2017)</small>
 
 VII. La Secretaría elaborará el plano que contenga la propuesta de zonificación que apruebe la Comisión, la cual se agregará al proyecto de Iniciativa de Decreto correspondiente;
 
+> <small>(ADICIONADA, G.O. 16 DE MARZO DE 2017)</small>
+
 VIII. La Comisión, por conducto de su Presidente, remitirá al Jefe de Gobierno el proyecto de Iniciativa de Decreto a que hace referencia la fracción VI del presente artículo, en un plazo de cinco días hábiles contados a partir de su aprobación, y el Jefe de Gobierno, a su vez, presentará la Iniciativa de Decreto correspondiente, ante la Asamblea Legislativa, dentro de un plazo de treinta días hábiles contados a partir de la recepción del proyecto de la Comisión;
+
+> <small>(ADICIONADA, G.O. 16 DE MARZO DE 2017)</small>
 
 IX. Si la Asamblea Legislativa aprobare la Iniciativa de Decreto presentada por el Jefe de Gobierno, a la que se refiere la fracción VIII del presente artículo, y una vez publicada en la Gaceta Oficial del Distrito Federal, la Comisión procederá a aprobar o desechar, según el caso, los proyectos de lotificación y vivienda popular o de interés social, ubicadas dentro del mismo polígono del asentamiento de que se trate, destinados a sustituir las viviendas precarias, en alto riesgo estructural, con alto índice de hacinamiento, o de alta marginalidad, del asentamiento regularizado;
 
-X. Si la Asamblea Legislativa desechare la Iniciativa de Decreto a la que se refiere la fracción VIII del presente artículo, o si la Comisión determinare improcedente la propuesta de regularización del asentamiento, con base en los documentos entregados conforme a la fracción V del presente artículo; los integrantes de la Comisión que sean titulares de Dependencias u Órganos de la Administración Pública Local con competencia, elaborarán un proyecto de reubicación de los habitantes de dicho asentamiento, y un plan de restauración del suelo ocupado, y procederán a la ejecución de ambos. La Comisión fijará el plazo para dar cumplimiento a las disposiciones anteriores, el cual no podrá ser menor de treinta días naturales ni mayor de seis meses; así como el monto y plazo o periodicidad del pago que, por concepto de servicios ambientales, deberán realizar los integrantes de los asentamientos mismos; y el plazo para llevar a cabo las formas de participación social de cada uno de ellos;
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2021)</small>
+
+X. Si la Asamblea Legislativa desechare la Iniciativa de Decreto a la que se refiere la fracción VIII del presente artículo, o si la Comisión determinare improcedente la propuesta de regularización del asentamiento, con base en los documentos entregados conforme a la fracción V del presente artículo; los integrantes de la Comisión que sean titulares de Dependencias u Órganos de la Administración Pública Local con competencia, elaborarán un proyecto de reubicación de las personas habitantes de dicho asentamiento, así como un plan de restauración del suelo ocupado, y
+
+(sic) procederán a la ejecución de ambos.
+
+La Comisión fijará el plazo para dar cumplimiento a las disposiciones anteriores, el cual no podrá ser menor de treinta días naturales ni mayor de seis meses; así como el monto y periodicidad del pago y/o las formas de participación social que, por concepto de servicios ambientales las personas habitantes de los asentamientos irregulares podrán realizar y el plazo para llevarlas a cabo;
+
+> <small>(ADICIONADA, G.O. 16 DE MARZO DE 2017)</small>
 
 XI. Los integrantes de los asentamientos de que se trate, deberán efectuar los pagos por concepto de servicios ambientales correspondientes, al Fideicomiso previsto en el artículo 24 Sexies de la presente Ley, dentro del plazo que determine el Decreto de Reforma del Programa de Desarrollo Urbano aplicable, o en su caso, dentro del plazo que determine la Comisión al resolver improcedente la regularización;
 
+> <small>(ADICIONADA, G.O. 16 DE MARZO DE 2017)</small>
+
 XII. Los pagos por concepto de servicios ambientales, se harán sin perjuicio del pago de los derechos aplicables, pero igualmente serán considerados créditos fiscales, y la Secretaría de Finanzas iniciará el procedimiento administrativo de ejecución para reclamarlos coactivamente ante cualquier incumplimiento, y
+
+> <small>(ADICIONADA, G.O. 16 DE MARZO DE 2017)</small>
 
 XIII. La Comisión determinará el destino y prioridad de los recursos aportados al Fideicomiso al que se refiere el artículo 24 Sexies de la presente Ley.
 
@@ -2133,3 +2165,15 @@ G.O. 22 DE MARZO DE 2018.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 24 QUATER; PRIMER PÁRRAFO Y FRACCIÓN X DEL ARTÍCULO 24 QUINQUIES, DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Todos los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento; las personas habitantes de los asentamientos sujetos a procedimiento administrativo podrán tramitar los esquemas de participación social que implementen las autoridades ambientales en el ejercicio de sus atribuciones.
+
+CUARTO.- Todas las referencias que se hagan a la Asamblea Legislativa del Distrito Federal en la Ley de Desarrollo Urbano del Distrito Federal, se entenderán que son competencia del Congreso de la Ciudad de México.
