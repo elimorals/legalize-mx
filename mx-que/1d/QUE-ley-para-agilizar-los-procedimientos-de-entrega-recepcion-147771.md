@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-agilizar-los-procedimientos-de-entrega-recepcion-14777
 country: "mx"
 rank: "ley"
 publication_date: "2021-02-17"
-last_updated: "2021-02-17"
+last_updated: "2021-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA AGILIZAR LOS PROCEDIMIENTOS DE ENTREGA-RECEPCIÓN DE FRACCIONAMIENTOS EN EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2021.
 
 Ley Publicada en el Número 15 del Periódico Oficial del Estado de Querétaro, el miércoles 17 de febrero de 2021.
 
@@ -88,6 +88,10 @@ I. Que el desarrollador o propietario esté acreditado como ilocalizable o en un
 II. Cuando cuenten con una antigüedad mayor a 10 años previos a la entrada en vigor de la presente Ley, siempre que dichos fraccionamientos acrediten haber contado con licencias de ejecución de obras de urbanización y de venta provisional de lotes.
 
 Aquellos fraccionamientos que realicen entregas parciales por etapas, sección, fases o servicios de conformidad con los programas o lineamientos establecidos por las autoridades municipales para el efecto y que cuenten una antigüedad menor a 10 años a partir de la autorización de la entrada en vigor de la presente Ley, deberán presentar la fianza que corresponda a la etapa, sección, fase o servicio que pretendan entregar.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
+También quedan eximidos de la presentación de la fianza a que se refiere el artículo 208 del Código Urbano del Estado de Querétaro, el Estado, dependencias y organismos descentralizados que hayan desarrollado fraccionamientos de tipo habitacional, comercial e industrial.
 
 ###### Artículo 5.
 
@@ -164,3 +168,15 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 4 DE LA LEY PARA AGILIZAR LOS PROCEDIMIENTOS DE ENTREGA-RECEPCIÓN DE FRACCIONAMIENTOS EN EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Querétaro, La Sombra de Arteaga.
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente reforma.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
