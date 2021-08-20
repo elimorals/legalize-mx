@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-214-para-prevenir-combatir-y-eliminar-la-116662"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-19"
-last_updated: "2017-05-09"
+last_updated: "2021-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2021.
 
 Ley publicada en el Número 58 Alcance I del Periódico Oficial del Estado de Guerrero, el martes 19 de julio de 2016.
 
@@ -47,9 +47,11 @@ LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTA
 
 Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en el Estado de Guerrero, la cual tiene como objeto promover la igualdad, respetar, proteger, garantizar, prevenir, investigar, sancionar, reparar y eliminar todas las formas de discriminación que se ejerzan contra cualquier persona en términos del artículo 1o, párrafos primero, segundo y quinto de la Constitución Política de los Estados Unidos Mexicanos; 2 de la Declaración Universal de los Derechos Humanos; 2.1, de la Convención Internacional para la Eliminación de Todas las Formas de Discriminación Racial; 1.2. de la Convención Interamericana para la Eliminación de todas las Formas de Discriminación contra las Personas con Discapacidad; 1 de la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer, y 5o, fracción VIII de la Constitución Política del Estado Libre y Soberano de Guerrero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 2.
 
-Para los efectos de esta Ley se entenderá por:
+Para los efectos de esta ley se entenderá por:
 
 I. Acciones afirmativas. Medidas especiales, específicas y de carácter temporal, a favor de personas o grupos en situación de discriminación, cuyo objetivo es corregir situaciones patentes de desigualdad en el disfrute o ejercicio de derechos y libertades, aplicables mientras subsistan dichas situaciones. Se adecuarán a la situación que quiera remediarse, deberán ser legítimas y respetar los principios de justicia y proporcionalidad;
 
@@ -61,9 +63,9 @@ IV. Constitución Federal. La Constitución Política de los Estados Unidos Mexi
 
 V. Constitución Estatal. La Constitución Política del Estado Libre y Soberano de Guerrero;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-VI. Discriminación. Toda distinción, exclusión, restricción o preferencia qué; por acción u omisión, con intención o sin ella; no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, impedir, anular o menoscabar el reconocimiento, goce o el ejercicio de los derechos y libertades cuando se base en uno o más de los motivos siguientes: origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, las opiniones, las preferencias sexuales, la identidad de género, el estado civil, la situación familiar, las responsabilidades familiares, la apariencia física, las características genéticas, la condición migratoria, el embarazo, la lengua, el idioma, las ideas políticas, los antecedentes penales o cualquier motivo;
+VI. Discriminación. Toda distinción, exclusión, restricción o preferencia qué; por acción u omisión, con intención o sin ella; no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, impedir, anular o menoscabar el reconocimiento, goce o el ejercicio de los derechos y libertades cuando se base en uno o más de los motivos siguientes: origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, las opiniones, las preferencias sexuales, la identidad de género, el estado civil, la situación familiar, las responsabilidades familiares, la apariencia física, las características genéticas, la condición migratoria, el embarazo, la lengua, el lenguaje para mejorar la comunicación, el idioma, las ideas políticas, los antecedentes penales, tatuajes, piercing y cualquier tipo de modificación visible permanente o transitoria, o cualquier motivo;
 
 VII. Diseño universal. Se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado;
 
@@ -145,7 +147,9 @@ I. Limitar o impedir el acceso o la permanencia a la educación pública o priva
 
 II. Establecer contenidos, métodos o instrumentos pedagógicos contrarios a la igualdad o que promuevan una condición de subordinación;
 
-III. Prohibir la libre elección de empleo o restringir las oportunidades de acceso, permanencia o ascenso en el mismo;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+III. Prohibir la libre elección de empleo o restringir las oportunidades de acceso, permanencia o ascenso, o solicitar requisitos no indispensables que constituyan actos de discriminación, para el desempeño del mismo;
 
 IV. Establecer diferencias en remuneraciones, prestaciones o condiciones laborales para trabajos iguales;
 
@@ -221,6 +225,10 @@ XXXV. En general cualquier otro acto u omisión discriminatorio en términos del
 
 Cada uno de los poderes públicos estatales y municipales, organismos autónomos y particulares están obligados a realizar las medidas de inclusión y de nivelación y acciones afirmativas necesarias para garantizar a toda persona la igualdad y el derecho a la no discriminación.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
+Todas estas medidas de inclusión, de nivelación y acciones afirmativas, serán difundidas y publicadas por los medios de comunicación social y redes digitales.
+
 La adopción de estas medidas forma parte de la perspectiva antidiscriminatoria, la cual debe ser incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas que lleve a cabo cada uno de los poderes públicos estatales y municipales, organismos autónomos y particulares.
 
 La aplicación de este tipo de medidas y acciones tomará en cuenta la situación de discriminación múltiple en la que se encuentren las personas, entendiendo por esta la situación de distinción, exclusión, restricción o preferencia, a que hace referencia el artículo 1, de la presente Ley.
@@ -233,7 +241,9 @@ Las medidas de inclusión podrán comprender, entre otras, las siguientes:
 
 I. La educación para la igualdad y la diversidad dentro del sistema educativo estatal, así como en las instituciones gubernamentales estatales y municipales;
 
-II. La integración en el diseño, instrumentación y evaluación de las políticas públicas del derecho a la igualdad y no discriminación;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+II. La integración en el diseño, instrumentación y evaluación, difusión y publicación de las políticas públicas del derecho a la igualdad y no discriminación;
 
 III. El desarrollo de políticas públicas contra la homofobia, xenofobia, la misoginia y la discriminación por apariencia;
 
@@ -241,9 +251,9 @@ III. El desarrollo de políticas públicas contra la homofobia, xenofobia, la mi
 
 IV. Las acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-V. El llevar a cabo campañas de difusión al interior de los poderes públicos estatales, municipales y organismos autónomos, y
+V. El llevar a cabo campañas de difusión al interior de los poderes públicos estatales, municipales y organismos autónomos, así como la publicación de sus resultados, y
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2017)</small>
 
@@ -992,3 +1002,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Remítase este Decreto al Gobernador Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el portal oficial del Congreso del Estado, para su difusión.
+
+P.O. 20 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 814 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NUMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero para los efectos legales conducentes.
