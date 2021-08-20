@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2018-12-20"
+last_updated: "2021-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2021.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -517,6 +517,10 @@ s) Convocar a elección de delegados municipales;
 
 t) Designar en el ámbito de sus respectivas competencias al titular de la Coordinación Municipal de Derechos Humanos, y crear la Coordinación Municipal para la Inclusión de las Personas con Discapacidad;
 
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2021)</small>
+
+u) Autorizar el otorgamiento de nuevas plazas de base sindicalizadas, de conformidad con las disposiciones legales que resulten aplicables.
+
 II.- En materia de obra pública y desarrollo urbano:
 
 a) Acordar la división territorial del Municipio, determinando las categorías políticas y su denominación;
@@ -667,6 +671,10 @@ XIV.- Proponer al Ayuntamiento, las personas que deban ocupar los cargos de secr
 
 XV.- Conceder o negar licencias a todos los servidores públicos municipales no previstos en la fracción anterior;
 
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2021)</small>
+
+XV Bis.- Solicitar autorización al Ayuntamiento para proceder al otorgamiento de nuevas plazas de base sindicalizadas.
+
 XVI.- Promover la educación cívica y la celebración de ceremonias públicas, conforme al calendario cívico oficial;
 
 XVII.- Vigilar que se integren y funcionen las dependencias y entidades de la Administración Pública Municipal;
@@ -722,6 +730,10 @@ VI. Utilizar a los servidores públicos municipales para asuntos particulares;
 VII. Residir durante su gestión fuera del territorio municipal.
 
 VIII. Conceder cualquier tipo de descuento que cause perjuicio al erario municipal.
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2021)</small>
+
+IX. Otorgar nuevas plazas de base sindicalizadas, sin la autorización previa de sus Ayuntamientos.
 
 ###### Artículo 57.
 
@@ -1105,9 +1117,11 @@ Cuando uno o más de los miembros del Consejo no cumpla con sus obligaciones y t
 
 La Administración Pública Municipal será centralizada y descentralizada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 99.
 
-El Ayuntamiento podrá crear dependencias administrativas, que le estén subordinadas directamente, así como fusionar, modificar o suprimir las ya existentes, a excepción de las señaladas en los artículos 102 y 103 de esta Ley, atendiendo para ello a sus necesidades y capacidad financiera. Asimismo, podrá crear órganos desconcentrados, dependientes jerárquicamente de las dependencias, con las facultades y obligaciones específicas que fije el reglamento y acuerdo respectivo.
+El Ayuntamiento podrá crear dependencias administrativas, que le estén subordinadas directamente, así como fusionar, modificar o suprimir las ya existentes, a excepción de las señaladas en el artículo 102 de esta Ley, atendiendo para ello a sus necesidades y capacidad financiera. Asimismo, podrá crear órganos desconcentrados, dependientes jerárquicamente de las dependencias, con las facultades y obligaciones específicas que fije el reglamento y acuerdo respectivo.
 
 También, podrá crear entidades descentralizadas, cuando el desarrollo económico y social lo haga necesario.
 
@@ -1135,29 +1149,21 @@ III. Contraloría Municipal;
 
 IV. Oficialía Mayor.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 103.
 
-Para el despacho, estudio y planeación de los diversos ramos de la administración municipal, el Ayuntamiento contará por lo menos con las siguientes Dependencias Administrativas que se denominarán Direcciones Generales:
+Para el despacho, estudio y planeación de los diversos ramos de la administración municipal, el Ayuntamiento contará con dependencias administrativas que se denominarán Direcciones Generales, las cuales estarán determinadas en el Reglamento de la Administración Pública Municipal.
 
-I. Obras Públicas y Asentamientos Humanos;
-
-II. Servicios Públicos;
-
-III. Desarrollo Social y Económico;
-
-IV. Seguridad Pública, Policía Preventiva y Transito Municipal;
-
-VI (SIC). Desarrollo Urbano y Ecología;
-
-VII. Registro Civil
-
-VIII. Registro Público de la Propiedad y del Comercio
-
-IX. Las demás que el Ayuntamiento determine, considerando las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera del Municipio, así como el ramo o servicio que se pretenda atender, en los términos de la presente Ley y otras disposiciones legales aplicables.
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 104.
 
-En el Reglamento de la Administración Pública Municipal de cada municipio, se contemplaran las subdirecciones que el Ayuntamiento estime necesarias y especificará claramente las facultades y obligaciones de los titulares de dichas dependencias.
+Las facultades y obligaciones de los titulares de las dependencias señaladas en los artículos 102 y 103 estarán señaladas en el referido reglamento.
+
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2021)</small>
+
+De igual forma, estas dependencias contarán con las Direcciones de Área, Subdirecciones, Coordinaciones, Jefaturas de Departamento o unidades administrativas que se prevean en el reglamento, atendiendo a criterios de eficiencia administrativa y de capacidad presupuestal.
 
 ###### Artículo 105.
 
@@ -2534,3 +2540,11 @@ B.O. 20 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2579 SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 38 SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 46 AMBOS DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMA LA FRACCIÓN II DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 76 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2773 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor rango jerárquico que se opongan al presente decreto.
