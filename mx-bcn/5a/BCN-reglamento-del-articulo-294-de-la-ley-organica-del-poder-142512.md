@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-articulo-294-de-la-ley-organica-del-poder-142512
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-03-06"
-last_updated: "2021-03-26"
+last_updated: "2021-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DEL ARTÍCULO 294 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2021.
 
 Reglamento publicado en el Número 13 del Periódico Oficial del Estado de Baja California, el viernes 6 de marzo de 2020.
 
@@ -181,9 +181,9 @@ El resultado de los estudios de actualización se informará de forma anual a lo
 
 ## TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
 
-Artículo primero.- El presente Reglamento entrará en vigor el primero de agosto del año 2021.
+Artículo primero.- El presente Reglamento entrará en vigor el primero de marzo del año 2022.
 
 Artículo Segundo.- Publíquese en el Boletín Judicial del Estado, una vez que acontezca lo indicado en el artículo transitorio anterior.
 
@@ -284,6 +284,14 @@ Artículo Segundo.- Remítase el presente acuerdo para su publicación en el Per
 P.O. 26 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EXPIDE LA MODIFICACIÓN AL ARTÍCULO PRIMERO TRANSITORIO, DEL REGLAMENTO DEL ARTÍCULO 294 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+Artículo Primero.- La presente reforma entrará en vigor a partir del momento de su aprobación por parte del pleno del Consejo de la Judicatura del Estado.
+
+Artículo Segundo.- Remítase el presente acuerdo para su publicación en el Periódico Oficial del Estado, así como en el Boletín Judicial del Estado de Baja California.
+
+P.O. 20 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE EXPIDE LA MODIFICACIÓN AL ARTÍCULO TRANSITORIO PRIMERO DEL REGLAMENTO DEL ARTÍCULO 294 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
 
 Artículo Primero.- La presente reforma entrará en vigor a partir del momento de su aprobación por parte del pleno del Consejo de la Judicatura del Estado.
 
