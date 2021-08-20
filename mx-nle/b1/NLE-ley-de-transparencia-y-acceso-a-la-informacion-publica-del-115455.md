@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1154
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-01"
-last_updated: "2021-08-06"
+last_updated: "2021-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 1 de julio de 2016.
 
@@ -77,25 +77,49 @@ IV. Ajustes Razonables: Modificaciones y adaptaciones necesarias y adecuadas que
 
 V. Áreas: Instancias que cuentan o puedan contar con la información. Tratándose del sector público, serán aquellas que estén previstas en el reglamento interior, estatuto orgánico respectivo o equivalentes;
 
-VI. Clasificación: Acto por el cual se determina que la información que posee un sujeto obligado es reservada o confidencial;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-VII. Clasificación de la Información: Proceso mediante el cual el sujeto obligado determina que la información que le ha sido solicitada actualiza alguno de los supuestos de reserva y/o confidencialidad. Dicho proceso incluye la revisión y marcado de los documentos y expedientes así como el señalamiento por escrito del fundamento y los motivos por los cuales la información se encuentra clasificada;
+VI. Área Metropolitana: La que comprende los municipios de Apodaca, García, General Escobedo, Guadalupe, Juárez, Monterrey, San Pedro Garza García, San Nicolás de los Garza y Santa Catarina, Nuevo León, que integran el área metropolitana de Monterrey.
 
-VIII. Comisión: Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-IX. Comisionado: Cada uno de los integrantes del pleno de la Comisión;
+VII. Clasificación: Acto por el cual se determina que la información que posee un sujeto obligado es reservada o confidencial;
 
-X. Comité de Transparencia: Instancia a la que hace referencia el artículo 56 de la presente Ley;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-XI. Conjunto de Datos: La serie de datos estructurados, con caracteres reconocibles por computadora y dispositivos electrónicos vinculados entre sí y agrupados dentro de una misma unidad temática y física, de forma que puedan ser procesados apropiadamente por computadora o cualquier otro dispositivo electrónico para obtener información;
+VIII. Clasificación de la Información: Proceso mediante el cual el sujeto obligado determina que la información que le ha sido solicitada actualiza alguno de los supuestos de reserva y/o confidencialidad. Dicho proceso incluye la revisión y marcado de los documentos y expedientes, así como el señalamiento por escrito del fundamento y los motivos por los cuales la información se encuentra clasificada;
 
-XII. Consejo Nacional: Consejo Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-XIII. Cuota: Se refiere al valor diario de la Unidad de Medida y Actualización (UMA);
+IX. Comisión: Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León;
 
-XIV. Datos: El registro informativo simbólico, cuantitativo o cualitativo, generado u obtenido por los sujetos obligados;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-XV. Datos abiertos: Los datos digitales de carácter público que son accesibles en línea que pueden ser usados, reutilizados y redistribuidos por cualquier interesado y que deben tener las siguientes características:
+X. Comisionado: Cada uno de los integrantes del pleno de la Comisión;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XI. Comité de Transparencia: Instancia a la que hace referencia el artículo 56 de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XII. Conjunto de Datos: La serie de datos estructurados, con caracteres reconocibles por computadora y dispositivos electrónicos vinculados entre sí y agrupados dentro de una misma unidad temática y física, de forma que puedan ser procesados apropiadamente por computadora o cualquier otro dispositivo electrónico para obtener información;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XIII. Consejo Nacional: Consejo Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XIV. Cuota: Se refiere al valor diario de la Unidad de Medida y Actualización (UMA);
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XV. Datos: El registro informativo simbólico, cuantitativo o cualitativo, generado u obtenido por los sujetos obligados;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XVI. Datos abiertos: Los datos digitales de carácter público que son accesibles en línea que pueden ser usados, reutilizados y redistribuidos por cualquier interesado y que deben tener las siguientes características:
 
 a) Accesibles: Están disponibles para la gama más amplia de usuarios, para cualquier propósito;
 
@@ -117,63 +141,119 @@ i) En formatos abiertos: Están disponibles con el conjunto de características 
 
 j) De libre uso: Citan la fuente de origen como único requerimiento para ser utilizados libremente.
 
-XVI. Datos personales: La información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo concerniente a una persona física identificada o identificable, relativa al origen étnico o racial, las características físicas, morales o emocionales, a la vida afectiva y familiar, domicilio particular, número telefónico particular, cuenta personal de correo electrónico, patrimonio personal y familiar, ideología y opiniones políticas, creencias, convicciones religiosas o filosóficas, estados de salud físico o mental, las preferencias sexuales, la huella digital, ácido desoxirribonucleico (ADN), fotografía, número de seguridad social, y toda aquélla que permita la identificación de la misma;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-XVII. Días: Los días hábiles;
+XVII. Datos personales: La información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo concerniente a una persona física identificada o identificable, relativa al origen étnico o racial, las características físicas, morales o emocionales, a la vida afectiva y familiar, domicilio particular, número telefónico particular, cuenta personal de correo electrónico, patrimonio personal y familiar, ideología y opiniones políticas, creencias, convicciones religiosas o filosóficas, estados de salud físico o mental, las preferencias sexuales, la huella digital, ácido desoxirribonucleico (ADN), fotografía, número de seguridad social, y toda aquélla que permita la identificación de la misma;
 
-XVIII. Disponibilidad de la información: Principio que constriñe a los sujetos obligados a poner al alcance de los particulares la información;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-XIX. Documento: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades, funciones y competencias de los sujetos obligados, sus servidores públicos e integrantes, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, sea escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
+XVIII. Días: Los días hábiles que serán todos los días del año a excepción de los sábados, los domingos; así como aquellos en los que se suspendan las labores de la Comisión por acuerdo del Pleno o por determinación de otras disposiciones legales;
 
-XX. Enlace de información: El servidor público designado expresamente por los titulares de cualquier sujeto obligado, como responsables del trámite de las solicitudes de acceso a la información pública y las relativas a los datos personales y demás facultades que le confiera la presente;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-XXI. Enlace de transparencia: El servidor público designado expresamente por los titulares de cualquier sujeto obligado, para dar cumplimiento a la información pública de oficio a que se refiere la presente Ley;
+XIX. Disponibilidad de la información: Principio que constriñe a los sujetos obligados a poner al alcance de los particulares la información;
 
-XXII. Estado: El Estado Libre y Soberano de Nuevo León;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-XXIII. Expediente: Unidad documental constituida por uno o varios documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite de los sujetos obligados;
+XX. Documento: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades, funciones y competencias de los sujetos obligados, sus servidores públicos e integrantes, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, sea escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
 
-XXIV. Formatos Abiertos: Conjunto de características técnicas y de presentación de la información que corresponden a la estructura lógica usada para almacenar datos de forma integral y facilitan su procesamiento digital, cuyas especificaciones están disponibles públicamente y que permiten el acceso sin restricción de uso por parte de los usuarios, los cuales deberán ser en formatos que permitan la manipulación de la información con fines de análisis de la misma;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-XXV. Formatos Accesibles: Cualquier manera o forma alternativa que dé acceso a los solicitantes de información, en forma tan viable y cómoda como la de las personas sin discapacidad ni otras dificultades para acceder a cualquier texto impreso y/o cualquier otro formato convencional en el que la información pueda encontrarse;
+XXI. Enlace de información: El servidor público designado expresamente por los titulares de cualquier sujeto obligado, como responsables del trámite de las solicitudes de acceso a la información pública y las relativas a los datos personales y demás facultades que le confiera la presente;
 
-XXVI. Fuente de acceso público: Aquellos sistemas de datos personales cuya consulta puede ser realizada por cualquier persona, no impedida por una disposición limitativa y sin más exigencia que, en su caso, el pago de una contraprestación económica. No se considerará fuente de acceso público cuando la información contenida en la misma sea obtenida o tenga una procedencia ilícita, conforme a las disposiciones establecidas por la presente Ley y demás normativa aplicable;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-XXVII. Fuente de origen: El sujeto obligado que en el ámbito de su respectiva competencia genere y resguarde los datos;
+XXII. Enlace de transparencia: El servidor público designado expresamente por los titulares de cualquier sujeto obligado, para dar cumplimiento a la información derivada de las obligaciones a que se refiere la presente Ley;
 
-XXVIII. Formatos reutilizables: Archivos electrónicos que contienen información que generen, obtengan, adquieran, transformen o conserven por cualquier título los sujetos obligados, susceptibles de ser utilizados mediante herramientas o aplicaciones libres o propietarias, cuyos datos pueden estar estructurados;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-XXIX. Indicador de gestión pública: Expresión cuantitativa o cualitativa, correspondiente a un índice, medida, cociente o fórmula, que mide el grado de cumplimiento de los objetivos y metas de los sujetos obligados y de sus programas que impactan de manera directa en la población;
+XXIII. Estado: El Estado Libre y Soberano de Nuevo León;
 
-XXX. Información: Los datos contenidos en los documentos que los sujetos obligados generan, obtienen, adquieren, transforman o conservan por cualquier título o aquella que por disposición legal deban generar;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-XXXI. Información clasificada: Aquélla que no es susceptible de acceso público por ser reservada o confidencial;
+XXIV. Expediente: Unidad documental constituida por uno o varios documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite de los sujetos obligados;
 
-XXXII. Información confidencial: Aquélla relativa a particulares que no es accesible a terceros, salvo que medie el consentimiento de su titular o por disposición de una Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-XXXIII. Información relevante: La información que demanda el público en general o por grupos específicos, estimada con base en metodologías que se hagan públicas, así como aquélla que dé cuenta de las tareas sustantivas de los sujetos obligados;
+XXV. Formatos Abiertos: Conjunto de características técnicas y de presentación de la información que corresponden a la estructura lógica usada para almacenar datos de forma integral y facilitan su procesamiento digital, cuyas especificaciones están disponibles públicamente y que permiten el acceso sin restricción de uso por parte de los usuarios, los cuales deberán ser en formatos que permitan la manipulación de la información con fines de análisis de la misma;
 
-XXXIV. Información reservada: Aquélla cuyo acceso se encuentre restringido de manera excepcional y temporal por una razón de interés público prevista en una Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-XXXV. Información de interés público: Se refiere a la información que resulta relevante o beneficiosa para la sociedad y no simplemente de interés individual, cuya divulgación resulta útil para que el público comprenda las actividades que llevan a cabo los sujetos obligados;
+XXVI. Formatos Accesibles: Cualquier manera o forma alternativa que dé acceso a los solicitantes de información, en forma tan viable y cómoda como la de las personas sin discapacidad ni otras dificultades para acceder a cualquier texto impreso y/o cualquier otro formato convencional en el que la información pueda encontrarse;
 
-XXXVI. Instituto: El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-XXXVII. Ley: La Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León;
+XXVII. Fuente de acceso público: Aquellos sistemas de datos personales cuya consulta puede ser realizada por cualquier persona, no impedida por una disposición limitativa y sin más exigencia que, en su caso, el pago de una contraprestación económica. No se considerará fuente de acceso público cuando la información contenida en la misma sea obtenida o tenga una procedencia ilícita, conforme a las disposiciones establecidas por la presente Ley y demás normativa aplicable;
 
-XXXVIII. Ley General: La Ley General de Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-XXXIX. Metadatos: Los datos estructurados y actualizados que describen el contexto y las características de contenido, captura, procesamiento, calidad, condición, acceso y distribución de un conjunto de datos, que sirven para facilitar su búsqueda, identificación y uso;
+XXVIII. Fuente de origen: El sujeto obligado que en el ámbito de su respectiva competencia genere y resguarde los datos;
 
-XL. Modalidad: Formato en que será otorgada la información pública que sea requerida, la cual podrá ser por escrito, mediante copias simples o certificadas, correo electrónico, fotografías, cintas de video, dispositivos de archivos electrónicos o magnéticos, registros digitales, sonoros, visuales, holográficos, y en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología en que obre la información;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-XLI. Obligaciones de transparencia: La información que por disposición legal los sujetos obligados deben publicar y actualizar en un portal de internet en los términos y condiciones previstas en esta Ley;
+XXIX. Formatos reutilizables: Archivos electrónicos que contienen información que generen, obtengan, adquieran, transformen o conserven por cualquier título los sujetos obligados, susceptibles de ser utilizados mediante herramientas o aplicaciones libres o propietarias, cuyos datos pueden estar estructurados;
 
-XLII. Plataforma: La Plataforma de Transparencia a que hace referencia el Título Tercero de la presente Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-XLIII. Plataforma Nacional de Transparencia: Sistema informático que se integrará por sistemas de transparencia, de acceso a la información, y de datos personales para dar cumplimiento a la Ley General;
+XXX. Indicador de gestión pública: Expresión cuantitativa o cualitativa, correspondiente a un índice, medida, cociente o fórmula, que mide el grado de cumplimiento de los objetivos y metas de los sujetos obligados y de sus programas que impactan de manera directa en la población;
 
-XLIV. Principios rectores en materia de derechos humanos:
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XXXI. Información: Los datos contenidos en los documentos que los sujetos obligados generan, obtienen, adquieren, transforman o conservan por cualquier título o aquella que por disposición legal deban generar;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XXXII. Información clasificada: Aquélla que no es susceptible de acceso público por ser reservada o confidencial;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XXXIII. Información confidencial: Aquélla relativa a particulares que no es accesible a terceros, salvo que medie el consentimiento de su titular o por disposición de una Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XXXIV. Información relevante: La información que demanda el público en general o por grupos específicos, estimada con base en metodologías que se hagan públicas, así como aquélla que dé cuenta de las tareas sustantivas de los sujetos obligados;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XXXV. Información reservada: Aquélla cuyo acceso se encuentre restringido de manera excepcional y temporal por una razón de interés público prevista en una Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XXXVI. Información de interés público: Se refiere a la información que resulta relevante o beneficiosa para la sociedad y no simplemente de interés individual, cuya divulgación resulta útil para que el público comprenda las actividades que llevan a cabo los sujetos obligados;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XXXVII. Instituto: El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XXXVIII. Ley: La Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XXXIX. Ley General: La Ley General de Transparencia y Acceso a la Información Pública;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XL. Metadatos: Los datos estructurados y actualizados que describen el contexto y las características de contenido, captura, procesamiento, calidad, condición, acceso y distribución de un conjunto de datos, que sirven para facilitar su búsqueda, identificación y uso;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XLI. Modalidad: Formato en que será otorgada la información pública que sea requerida, la cual podrá ser por escrito, mediante copias simples o certificadas, correo electrónico, fotografías, cintas de video, dispositivos de archivos electrónicos o magnéticos, registros digitales, sonoros, visuales, holográficos, y en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología en que obre la información;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XLII. Obligaciones de transparencia: La información que por disposición legal los sujetos obligados deben publicar y actualizar en un portal de internet en los términos y condiciones previstas en esta Ley;
+
+XLIII. (DEROGADA, P.O. 20 DE AGOSTO DE 2021)
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+XLIV. Plataforma Nacional de Transparencia: Sistema informático que se integrará por sistemas de transparencia, de acceso a la información, y de datos personales a que hace referencia el Título Tercero de la Ley General;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XLV. Principios rectores en materia de derechos humanos:
 
 a) Indivisibilidad: Principio que sostiene que los derechos humanos son en sí mismos infragmentables, puesto que son inherentes al ser humano y derivan de su propia dignidad;
 
@@ -183,17 +263,31 @@ c) Progresividad: Principio que establece, por una parte, la obligación del Est
 
 d) Universalidad: Principio fundamental en virtud del cual se reconoce que los derechos humanos corresponden a todas las personas, sin excepción.
 
-XLV. Prueba de daño: Procedimiento para valorar, mediante elementos objetivos o verificables, que la información a clasificarse como reservada tiene una alta probabilidad de dañar el interés público protegido al ser difundida;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-XLVI. Prueba de interés público: Es el proceso de ponderación entre el beneficio que reporta dar a conocer la información pedida o solicitada contra el daño que su divulgación genera en los derechos de las personas, llevado a cabo por el Organismo Garante en el ámbito de su respectiva competencia;
+XLVI. Prueba de daño: Procedimiento para valorar, mediante elementos objetivos o verificables, que la información a clasificarse como reservada tiene una alta probabilidad de dañar el interés público protegido en caso de ser difundida;
 
-XLVII. Recursos públicos: Conjunto de personas, bienes materiales, financieros y técnicos con que cuenta y utiliza cualquier autoridad, entidad, órgano y organismo de los poderes Legislativo, Ejecutivo y Judicial, organismos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato, independientemente de su origen para alcanzar sus objetivos y producir los bienes o servicios que son de su competencia;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-XLVIII. Servidores Públicos: Los mencionados en el párrafo primero del artículo 105 de la Constitución Política del Estado Libre y Soberano de Nuevo León;
+XLVII. Prueba de interés público: Es el proceso de ponderación entre el beneficio que reporta dar a conocer la información pedida o solicitada contra el daño que su divulgación genera en los derechos de las personas, llevado a cabo por la Comisión;
 
-XLIX. Sujetos obligados:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-a) El Poder Legislativo, conformado por la legislatura local, así como el organismo de fiscalización correspondiente, Diputación Permanente o equivalente, grupos parlamentarios o análogos, comisiones, comités, mesas, juntas, fideicomisos o fondos públicos y cualquiera de sus órganos;
+XLVIII. Quórum: El Pleno de la Comisión requiere de la asistencia de la mitad más uno de sus integrantes para sesionar válidamente y ejercer sus atribuciones, requiriéndose en todo momento la asistencia del Presidente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XLIX. Recursos públicos: Conjunto de personas, bienes materiales, financieros y técnicos con que cuenta y utiliza cualquier autoridad, entidad, órgano y organismo de los poderes Legislativo, Ejecutivo y Judicial, organismos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato, independientemente de su origen para alcanzar sus objetivos y producir los bienes o servicios que son de su competencia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+L. Servidores Públicos: Los mencionados en el párrafo primero del artículo 105 de la Constitución Política del Estado Libre y Soberano de Nuevo León;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE AGOSTO DE 2021)</small>
+
+LI. Sujetos obligados:
+
+a) El Poder Legislativo, conformado por la legislatura local, así como el organismo de fiscalización correspondiente, Diputación Permanente o equivalente, grupos legislativos o análogos, comisiones, comités, mesas, juntas, fideicomisos o fondos públicos y cualquiera de sus órganos;
 
 b) El Poder Ejecutivo, conformado por sus dependencias, organismos desconcentrados, organismos subsidiarios o descentralizados, empresas de participación estatal, fideicomisos o fondos públicos y los demás que sean equiparables;
 
@@ -215,11 +309,17 @@ j) Cualquier entidad, programa, fondo o fideicomiso sujeto a control presupuesta
 
 k) Cualquier otro órgano o autoridad estatal o municipal.
 
-L. Transparencia proactiva: Conjunto de actividades e iniciativas que promueven la reutilización de la información relevante por parte de la sociedad, publicada en un esfuerzo que va más allá de las obligaciones establecidas en las leyes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
 
-LI. Unidad de Transparencia: Instancia a la que hace referencia el artículo 58 de esta Ley.
+LII. Transparencia proactiva: Conjunto de actividades e iniciativas que promueven la reutilización de la información relevante por parte de la sociedad, publicada en un esfuerzo que va más allá de las obligaciones establecidas en las leyes;
 
-LII. Versión Pública: Documento o Expediente en el que se da acceso a información, eliminando u omitiendo las partes o secciones clasificadas.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+LIII. Unidad de Transparencia: Es la encargada de recabar y difundir información relativa a las obligaciones de transparencia, recibir y dar trámite (sic) las solicitudes de acceso a la información; así como proponer e implementar acciones conjuntas para asegurar una mayor eficiencia en los procesos de transparencia y protección de datos personales al interior de la Comisión de acuerdo a lo establecido en el artículo 58 de esta Ley.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+LIV. Versión Pública: Documento o Expediente en el que se da acceso a información, eliminando u omitiendo las partes o secciones clasificadas.
 
 ###### Artículo 4.
 
@@ -373,9 +473,21 @@ XI. Publicar y mantener actualizada la información relativa a las obligaciones 
 
 XII. Difundir proactivamente información de interés público;
 
-XIII. Dar atención a las recomendaciones de la Comisión; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-XIV. Las demás que resulten de la normatividad aplicable.
+XIII. Dar atención a las recomendaciones de la Comisión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XIV. Dar aviso a la Comisión con la documentación correspondiente, en un plazo de hasta quince días, de la creación o la extinción del sujeto obligado;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+XV. Señalar a la Comisión el domicilio y dirección de correo electrónico para oír y recibir notificaciones, así mismo, dar aviso en caso de variación de domicilio o correo electrónico para los efectos antes señalados; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XVI. Las demás que resulten de la normatividad aplicable.
 
 ###### Artículo 25.
 
@@ -387,121 +499,75 @@ Los fideicomisos y fondos públicos, considerados entidades paraestatales deber�
 
 ## TÍTULO SEGUNDO. SISTEMAS DE TRANSPARENCIA, ACCESO A LA INFORMACION Y PROTECCION DE DATOS PERSONALES
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ### Capítulo I. Sistema Estatal
 
 ###### Artículo 27.
 
-El presente Capítulo tiene por objeto regular la integración, organización y función del Sistema Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, así como establecer las bases de coordinación entre sus integrantes.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ###### Artículo 28.
 
-El Sistema Estatal se integra por el conjunto orgánico y articulado de sus miembros, procedimientos, instrumentos y políticas, con el objeto de fortalecer la transparencia y acceso a la información pública en el Estado. Tiene como finalidad coordinar y evaluar las acciones relativas a la política pública transversal de transparencia, acceso a la información y protección de datos personales, así como establecer e implementar los criterios y lineamientos, de conformidad con lo señalado en la presente Ley y demás normatividad aplicable.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ###### Artículo 29.
 
-El Sistema Estatal se conformará a partir de la coordinación que se realice entre las distintas instancias que, en razón de sus ámbitos de competencia, contribuyen a la vigencia de la transparencia a nivel estatal. Este esfuerzo conjunto e integral, en conjunto con el Sistema Nacional contribuirá a la generación de información de calidad, a la gestión de la información, al procesamiento de la misma como un medio para facilitar el conocimiento y evaluación de la gestión pública, la promoción del derecho de acceso a la información y la difusión de una cultura de la transparencia y su accesibilidad, así como a una fiscalización y rendición de cuentas efectivas.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ###### Artículo 30.
 
-Son parte integrante del Sistema Estatal:
-
-I. La Comisión;
-
-II. El Archivo General del Estado;
-
-III. La Auditoría Superior del Estado; y
-
-IV. El Consejo Estatal de Armonización Contable.
-
-El Instituto Nacional de Estadística y Geografía, podrá participar con carácter de invitado permanente, a través de la representación que para tal efecto designe.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ###### Artículo 31.
 
-El Sistema Estatal tiene como funciones, fortalecer la implementación en el Estado de las disposiciones que establezca el Sistema Nacional y en lo que corresponda coadyuvar a nivel local a:
-
-I. Vigilar el cumplimiento de los lineamientos, instrumentos, objetivos, indicadores, metas, estrategias, códigos de buenas prácticas, modelos y políticas integrales, sistemáticas, continuas y evaluables, tendientes a cumplir con los objetivos de la presente Ley;
-
-II. Promover e implementar acciones para garantizar condiciones de accesibilidad para que los grupos vulnerables puedan ejercer, en igualdad de condiciones, el derecho de acceso a la información;
-
-III. Darle seguimiento a la implementación de programas comunes de alcance estatal, para la promoción, investigación, diagnóstico y difusión en materias de transparencia, acceso a la información, protección de datos personales y apertura gubernamental en el Estado;
-
-IV. Reforzar el cumplimiento de los criterios para la publicación de los indicadores que permitan a los sujetos obligados rendir cuentas del cumplimiento de sus objetivos y resultados obtenidos;
-
-V. Coadyuvar en la elaboración, fomento y difusión entre los sujetos obligados de los criterios para la sistematización y conservación de archivos que permitan localizar eficientemente la información pública de acuerdo a la normatividad en la materia;
-
-VI. Vigilar el cumplimiento de los lineamientos para la implementación de la Plataforma Nacional de Transparencia de conformidad con lo señalado en la Ley General y en la presente Ley;
-
-VII. Reforzar las políticas en cuanto a la digitalización de la información pública en posesión de los sujetos obligados y el uso de tecnologías de información y la implementación de Ajustes Razonables, que garanticen el pleno acceso a ésta;
-
-VIII. Apoyar el diseño e implementación de políticas en materia de generación, actualización, organización, clasificación, publicación, difusión, conservación y accesibilidad de la información pública de conformidad con la normatividad aplicable;
-
-IX. Promover la participación ciudadana a través de mecanismos eficaces en la planeación, implementación y evaluación de políticas en la materia;
-
-X. Establecer programas de profesionalización, actualización y capacitación de los Servidores Públicos e integrantes de los sujetos obligados en materia de transparencia, acceso a la información pública, así como de protección de datos personales;
-
-XI. Emitir acuerdos y resoluciones generales para el funcionamiento del Sistema Estatal;
-
-XII. Aprobar, ejecutar y evaluar el Programa Estatal de Transparencia y Acceso a la Información;
-
-XIII. Promover el ejercicio del derecho de acceso a la información pública en todo el Estado;
-
-XIV. Promover la coordinación efectiva de las instancias que integran el Sistema Estatal y dar seguimiento a las acciones que para tal efecto se establezcan por el mismo y por el Sistema Nacional; y
-
-XV. Las demás que se desprendan de esta Ley.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ###### Artículo 32.
 
-El Sistema Estatal contará con un Consejo Estatal, conformado por los integrantes del sistema y será presidido por el Presidente de la Comisión.
-
-La Comisión estará representada por los tres Comisionados Propietarios.
-
-Los demás integrantes estarán representados por su titular o un suplente que deberá tener nivel mínimo de Director o similar, quien tendrá las mismas facultades que los propietarios.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ###### Artículo 33.
 
-El Consejo Estatal podrá invitar, por la naturaleza de los asuntos a tratar, a las personas, instituciones, representantes de los sujetos obligados y representantes de la sociedad para el desahogo de las reuniones del Sistema Estatal.
-
-Los Organismos municipales encargados de la materia de Transparencia serán invitados permanentes representados por su titular o a falta de éste por quien nombre, únicamente con voz.
-
-En todo caso, los sujetos obligados tendrán la potestad de solicitar ser invitados a estas reuniones.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ###### Artículo 34.
 
-El Consejo Estatal funcionará en Pleno. El Pleno se reunirá por lo menos cada seis meses a convocatoria de su Presidente o la mitad más uno de sus integrantes. El convocante deberá integrar la agenda de los asuntos a tratar.
-
-El quórum para las reuniones del Consejo Estatal se integrará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de los miembros presentes.
-
-Los acuerdos se tomarán por mayoría simple de votos, teniendo voto de calidad el presidente en caso de empate.
-
-Corresponderá al Presidente del Consejo Estatal, además, la facultad de promover en todo tiempo la efectiva coordinación y funcionamiento del Sistema Estatal.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ###### Artículo 35.
 
-Los miembros del Consejo Estatal podrán formular propuestas de acuerdos o reglamentos internos que permitan el mejor funcionamiento del Sistema Estatal.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ###### Artículo 36.
 
-El Sistema Estatal contará con un Secretario Ejecutivo designado por el Pleno de la Comisión y contará con las siguientes atribuciones:
-
-I. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal y de su Presidente;
-
-II. Informar periódicamente al Consejo Estatal y a su Presidente de sus actividades;
-
-III. Verificar el cumplimiento de los programas, estrategias, acciones, políticas y servicios que se adopten por el Consejo Estatal; y
-
-IV. Elaborar y publicar informes de actividades del Consejo Estatal.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ###### Artículo 37.
 
-La Comisión coordinará sus acciones con la entidad de fiscalización superior del Estado, con la entidad especializada en materia de archivos y con el organismo encargado de regular la captación, procesamiento y publicación de la información estadística y geográfica.
-
-Lo anterior, a fin de fortalecer la rendición de cuentas en el Estado de Nuevo León, y contribuir a la generación de información de calidad, a la gestión de la información, al procesamiento de la misma como un medio para facilitar el conocimiento y evaluación de la gestión pública, la promoción del derecho de acceso a la información, el cumplimiento de las determinaciones del Sistema Nacional y la difusión de una cultura de la transparencia y su accesibilidad, así como a una fiscalización y rendición de cuentas efectivas.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ### Capítulo II. De la Comisión
 
 ###### Artículo 38.
 
 La Comisión de Transparencia y Acceso a la Información es un órgano autónomo, especializado, independiente, imparcial y colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar, en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información y la protección de datos personales, conforme a los principios y bases establecidos por el artículo 6° de la Constitución Política de los Estados Unidos Mexicanos, el artículo 6° de la Constitución Política del Estado Libre y Soberano de Nuevo León, así como por lo previsto en las demás disposiciones aplicables.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES E INCISOS], P.O. 20 DE AGOSTO DE 2021)</small>
+
+La Comisión elaborará el Programa de la Cultura de Transparencia y de Protección de Datos Personales, conforme a las bases siguientes:
+
+I. Se definirán los objetivos, estrategias y acciones particulares para hacer de conocimiento general el derecho de acceso a la información pública y la protección de datos personales;
+
+II. Se definirá la participación que corresponde a los sujetos obligados y a la comunidad en general;
+
+III. Se deberá propiciar la colaboración y participación activa de la Comisión con los sujetos obligados y las personas, conforme a las disposiciones siguientes:
+
+a) Se instrumentarán cursos de capacitación, talleres, conferencias o cualquier otra forma de aprendizaje, a fin de que las personas tengan la oportunidad de ejercer los derechos que establece esta Ley;
+
+b) La Comisión certificará a los sujetos obligados, organizaciones o asociaciones de la sociedad, así como personas en general, que ofrezcan, en forma interdisciplinaria y profesional, cursos o talleres en materia de acceso a la información pública y protección de datos personales, la Comisión para llevar a cabo esta certificación podrá celebrar convenios de colaboración con otros organismos garantes, esto de acuerdo a lo que se establezca en la normatividad y/o lineamientos que se emitan al respecto; y
+
+c) La Comisión tendrá la obligación de prestar la asesoría, el apoyo o el auxilio necesario a las personas que pretendan ejercitar el derecho a la información pública y de protección de datos personales. Para tal efecto, diseñará e instrumentará mecanismos que faciliten el ejercicio pleno de estos derechos.
 
 ###### Artículo 39.
 
@@ -629,9 +695,17 @@ I. El Pleno como órgano máximo; y
 
 II. La estructura orgánica que acuerde el Pleno y se establezca en el reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 53.
 
-Las sesiones del Pleno serán ordinarias y extraordinarias y se desarrollarán de manera pública.
+Las sesiones del Pleno serán ordinarias y extraordinarias y se desarrollarán de manera pública. Las sesiones se llevarán a cabo en el recinto oficial de la Comisión, salvo que por causas de fuerza mayor o caso fortuito no fuera posible celebrarlas en ese local, o que el Pleno estime pertinente cambiar de sede. En estos casos, en la convocatoria se señalará el lugar en que tendrá verificativo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE AGOSTO DE 2021)</small>
+
+Cuando exista declaratoria de emergencia de protección civil o sanitaria emitida por autoridad competente en términos de la legislación aplicable, o en otros casos en los cuales, de manera excepcional y justificada, la realización de sesiones presenciales no fuera posible, éstas se podrán celebrar de manera virtual o a distancia durante el período de duración de las medidas, utilizando para ello herramientas tecnológicas, debiéndose cumplir los requisitos y formalidades establecidas en esta Ley y las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 20 DE AGOSTO DE 2021)</small>
 
 En las sesiones se tratarán primordialmente los asuntos relacionados con el recurso de revisión y demás procedimientos previstos en esta Ley. Las ordinarias se celebrarán una vez por semana, previa convocatoria con 48 horas de anticipación; y las extraordinarias se celebrarán en cualquier momento y se convocarán con al menos 24 horas de anticipación.
 
@@ -703,9 +777,13 @@ XXXI. Formular observaciones y recomendaciones a los entes públicos sobre temas
 
 XXXII. Promover y difundir el ejercicio del derecho de acceso a la información;
 
-XXXIII. Promover la cultura de la transparencia en el sistema educativo;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-XXXIV. Capacitar a los Servidores Públicos y brindar apoyo técnico a los sujetos obligados en materia de transparencia y acceso a la información;
+XXXIII. Promover la cultura de la transparencia y la protección de datos personales en el sistema educativo.
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+XXXIV. Capacitar a los Servidores Públicos y brindar apoyo técnico a los sujetos obligados en materia de transparencia y acceso a la información, así como en la protección de datos personales;
 
 XXXV. Instruir la elaboración de guías que expliquen los procedimientos y trámites que deban realizarse ante los sujetos obligados y ante la Comisión;
 
@@ -717,7 +795,9 @@ XXXVIII. Promover la igualdad sustantiva;
 
 XXXIX. Garantizar condiciones de accesibilidad para que los grupos vulnerables puedan ejercer, en igualdad de circunstancias, su derecho de acceso a la información;
 
-XL. Elaborar y publicar estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia de acceso a la información;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+XL. Elaborar y publicar estudios e investigaciones para difundir y ampliar el conocimiento sobre materia de acceso a la información y protección de datos personales.
 
 XLI. Promover que en los programas y planes de estudio, libros y materiales que se utilicen en las instituciones educativas, de todos los niveles y modalidades del Estado, se incluyan contenidos y referencias a los derechos tutelados en esta Ley;
 
@@ -727,9 +807,21 @@ XLIII. Impulsar conjuntamente con instituciones de educación superior, la integ
 
 XLIV. Fomentar, en el ejercicio de sus atribuciones y para el cumplimiento de los objetivos de la presente Ley, los principios de gobierno abierto, la transparencia, la rendición de cuentas, la participación ciudadana, la accesibilidad y la innovación tecnológica;
 
-XLV. Elaborar y presentar públicamente ante el Congreso del Estado, dentro de la segunda quincena del mes de enero, un informe anual de actividades y de la evaluación general en materia de acceso a la información pública en el Estado, así como del ejercicio de su actuación; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-XLVI. Las demás que les confieran esta Ley y otras disposiciones aplicables.
+XLV. Elaborar y presentar públicamente ante el Congreso del Estado, dentro de la segunda quincena del mes de enero, un informe anual de actividades y de la evaluación general en materia de acceso a la información pública y en (sic) protección de datos personales en el Estado, así como del ejercicio de su actuación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XLVI. Aprobar los informes de avances de gestión financiera trimestrales, así como la cuenta pública anual;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+XLVII. La Comisión certificará a los sujetos obligados, organizaciones o asociaciones de la sociedad, así como personas en general, que ofrezcan, en forma interdisciplinaria y profesional, cursos o talleres en materia de acceso a la información pública y protección de datos personales, la Comisión para llevar a cabo esta certificación podrá celebrar convenios de colaboración con otros organismos garantes, esto de acuerdo a lo que se establezca en la normatividad y/o lineamientos que se emitan al respecto; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XLVIII. Las demás que les confieran esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 55.
 
@@ -817,9 +909,17 @@ IX. Promover e implementar políticas de transparencia proactiva procurando su a
 
 X. Fomentar la transparencia y accesibilidad al interior del sujeto obligado;
 
-XI. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la presente Ley y en las demás disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-XII. Las demás que se desprendan de la normatividad aplicable.
+XI. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la presente Ley y en las demás disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XII. Comparecer en representación legal del sujeto obligado dentro de los procedimientos que se estén sustanciando ante la Comisión, dándoles el seguimiento que corresponde; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2021)</small>
+
+XIII. Las demás que se desprendan de la normatividad aplicable.
 
 Los sujetos obligados promoverán acuerdos con instituciones públicas especializadas que pudieran auxiliarles a entregar las repuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente.
 
@@ -832,6 +932,10 @@ Cuando persista la negativa de colaboración, la Unidad de Transparencia lo har�
 ###### Artículo 60.
 
 Sin perjuicio de lo establecido en el artículo 58 cada sujeto obligado en el ámbito de su competencia podrá determinar la forma de organización y funcionamiento, con la naturaleza jurídica que sea más adecuada, para la consecución de sus funciones y el cumplimiento de las obligaciones derivadas de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
+Cada sujeto obligado procurará que las personas designadas como responsables de la Unidad de Transparencia estén certificadas y tengan preferentemente un nivel directivo o equivalente y cuenten con conocimientos y experiencia afines en materia de acceso a la información pública y protección de datos personales.
 
 ### Capítulo V. Del Consejo Consultivo de la Comisión
 
@@ -877,65 +981,79 @@ VII. Analizar y proponer la ejecución de programas, proyectos y acciones relaci
 
 ## TÍTULO TERCERO. PLATAFORMA DE TRANSPARENCIA
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ### Capítulo Único. De la Plataforma de Transparencia
 
 ###### Artículo 64.
 
-La Comisión desarrollará, administrará, implementará y pondrá en funcionamiento la plataforma electrónica que de conformidad con la normatividad que establezca el Sistema Nacional, permita cumplir con los procedimientos, obligaciones y disposiciones señaladas en la presente Ley para los sujetos obligados y la Comisión, atendiendo a las necesidades de accesibilidad de los usuarios.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ###### Artículo 65.
 
-La Comisión, establecerá las medidas necesarias para garantizar la estabilidad y seguridad de la plataforma, promoviendo la homologación de procesos y la simplicidad del uso de los sistemas por parte de los usuarios.
-
-Esta Plataforma deberá homologarse a la Plataforma Nacional de Transparencia, de conformidad con los lineamientos que, para tal efecto, emita el Sistema Nacional.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ###### Artículo 66.
 
-La Plataforma de Transparencia estará conformada por, al menos, los siguientes sistemas:
-
-I. Sistema de solicitudes de acceso a la información;
-
-II. Sistema de gestión de medios de impugnación;
-
-III. Sistema de portales de obligaciones de transparencia; y
-
-IV. Sistema de comunicación entre Organismos garantes y sujetos obligados.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ###### Artículo 67.
 
-La Comisión promoverá la publicación de la información de Datos Abiertos y Accesibles. El Sistema Estatal establecerá las medidas necesarias para garantizar la estabilidad y seguridad de la plataforma, promoviendo la homologación de procesos y la simplicidad del uso de los sistemas por parte de los usuarios.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ## TÍTULO CUARTO. CULTURA DE TRANSPARENCIA Y APERTURA GUBERNAMENTAL
 
-### Capítulo I. De la promoción de la transparencia y el derecho de acceso a la información
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE AGOSTO DE 2021)</small>
+
+### Capítulo I. De la promoción de la transparencia, el derecho de acceso a la información y protección de datos personales
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 68.
 
-Los sujetos obligados deberán cooperar con la Comisión para capacitar y actualizar, de forma permanente, a todos sus Servidores Públicos en materia del derecho de acceso a la información, a través de los medios que se considere pertinente.
+Los sujetos obligados deberán cooperar con la Comisión para capacitar y actualizar, de forma permanente, a todos sus Servidores Públicos en materia del derecho de acceso a la información y protección de datos personales, a través de los medios que se considere pertinente (sic).
 
-Con el objeto de crear una cultura de la transparencia y acceso a la información entre los habitantes del Estado de Nuevo León, la Comisión deberá promover, en colaboración con instituciones educativas y culturales del sector público o privado, actividades, mesas de trabajo, exposiciones y concursos relativos a la transparencia y acceso a la información.
+Con el objeto de crear una cultura de la transparencia, acceso a la información y protección de datos personales entre los habitantes del Estado de Nuevo León, la Comisión deberá promover, en colaboración con instituciones educativas y culturales del sector público o privado, actividades, mesas de trabajo, exposiciones y concursos relativos a la transparencia y acceso a la información y protección de datos personales.
 
 ###### Artículo 69.
 
 La Comisión podrá:
 
-I. Proponer, a las autoridades educativas competentes que incluyan contenidos sobre la importancia social del derecho de acceso a la información en los planes y programas de estudio de educación preescolar, primaria, secundaria, normal y para la formación de maestros de educación básica en sus respectivas jurisdicciones;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-II. Promover, entre las instituciones públicas y privadas de educación media superior y superior, la inclusión, dentro de sus programas de estudio, actividades académicas curriculares y extracurriculares, de temas que ponderen la importancia social del derecho de acceso a la información y rendición de cuentas;
+I. Proponer, a las autoridades educativas competentes que incluyan contenidos sobre la importancia social del derecho de acceso a la información y protección de datos personales en los planes y programas de estudio de educación preescolar, primaria, secundaria, normal y para la formación de maestros de educación básica en sus respectivas jurisdicciones;
 
-III. Promover, que en las bibliotecas y entidades especializadas en materia de archivos se prevea la instalación de módulos de información pública, que faciliten el ejercicio del derecho de acceso a la información y la consulta de la información derivada de las obligaciones de transparencia a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-IV. Proponer, entre las instituciones públicas y privadas de educación superior, la creación de centros de investigación, difusión y docencia sobre transparencia, derecho de acceso a la información y rendición de cuentas;
+II. Promover, entre las instituciones públicas y privadas de educación media superior y superior, la inclusión, dentro de sus programas de estudio, actividades académicas curriculares y extracurriculares, de temas que ponderen la importancia social del derecho de acceso a la información, protección de datos personales y rendición de cuentas;
 
-V. Establecer, entre las instituciones públicas de educación, acuerdos para la elaboración y publicación de materiales que fomenten la cultura del derecho de acceso a la información y rendición de cuentas;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-VI. Promover, en coordinación con autoridades federales, estatales y municipales, la participación ciudadana y de organizaciones sociales en talleres, seminarios y actividades que tengan por objeto la difusión de los temas de transparencia y derecho de acceso a la información;
+III. Promover, que en las bibliotecas y entidades especializadas en materia de archivos se prevea la instalación de módulos de información pública, que faciliten el ejercicio del derecho de acceso a la información, protección de datos personales y la consulta de la información derivada de las obligaciones de transparencia a que se refiere esta Ley;
 
-VII. Desarrollar, programas de formación de usuarios de este derecho para incrementar su ejercicio y aprovechamiento, privilegiando a integrantes de sectores vulnerables o marginados de la población;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-VIII. Impulsar, estrategias que pongan al alcance de los diversos sectores de la sociedad los medios para el ejercicio del derecho de acceso a la información, acordes a su contexto sociocultural; y
+IV. Proponer, entre las instituciones públicas y privadas de educación superior, la creación de centros de investigación, difusión y docencia sobre transparencia, derecho de acceso a la información, protección de datos personales y rendición de cuentas;
 
-IX. Desarrollar, con el concurso de centros comunitarios digitales y bibliotecas públicas, universitarias, gubernamentales y especializadas, programas para la asesoría y orientación de sus usuarios en el ejercicio y aprovechamiento del derecho de acceso a la información.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+V. Establecer, entre las instituciones públicas de educación, acuerdos para la elaboración y publicación de materiales que fomenten la cultura del derecho de acceso a la información, protección de datos personales y rendición de cuentas;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+VI. Promover, en coordinación con autoridades federales, estatales y municipales, la participación ciudadana y de organizaciones sociales en talleres, seminarios y actividades que tengan por objeto la difusión de los temas de transparencia, derecho de acceso a la información y protección de datos personales;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+VII. Desarrollar, programas de formación de usuarios de estos derechos para incrementar su ejercicio y aprovechamiento, privilegiando a integrantes de sectores vulnerables o marginados de la población;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+VIII. Impulsar, estrategias que pongan al alcance de los diversos sectores de la sociedad los medios para el ejercicio del derecho de acceso a la información y protección de datos personales, acordes a su contexto sociocultural; y
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+IX. Desarrollar, con el concurso de centros comunitarios digitales y bibliotecas públicas, universitarias, gubernamentales y especializadas, programas para la asesoría y orientación de sus usuarios en el ejercicio y aprovechamiento del derecho de acceso a la información y protección de datos personales.
 
 ###### Artículo 70.
 
@@ -945,15 +1063,29 @@ I. Elevar el nivel de cumplimiento de las disposiciones previstas en la presente
 
 II. Armonizar el acceso a la información por sectores;
 
-III. Facilitar el ejercicio del derecho de acceso a la información a las personas; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-IV. Procurar la accesibilidad de la información.
+III. Facilitar el ejercicio del derecho de acceso a la información a las personas;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+IV. Procurar la accesibilidad de la información;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+V. Fomentar la protección de datos personales; y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+VI. Llevar a cabo la capacitación permanente de los titulares de la Unidad de Transparencia y personal adscrito a la misma, en las materias de transparencia, protección de datos personales, archivo, gobierno abierto, datos abiertos y sus formatos.
 
 ### Capítulo II. De la Transparencia Proactiva
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 71.
 
-La Comisión emitirá políticas de transparencia proactiva, en atención a los lineamientos generales definidos para ello por el Sistema Nacional, diseñadas para incentivar a los sujetos obligados a publicar información adicional a la que establece como mínimo la presente Ley. Dichas políticas tendrán por objeto, entre otros, promover la reutilización de la información que generan los sujetos obligados, considerando la demanda de la sociedad, identificada con base en las metodologías previamente establecidas.
+La Comisión emitirá políticas de transparencia proactiva, para el cumplimiento a los lineamientos generales definidos para ello por el Sistema Nacional, diseñadas para incentivar a los sujetos obligados a publicar información adicional a la que se establece en la presente Ley. Dichas políticas tendrán por objeto, entre otros, promover la reutilización de la información que generan los sujetos obligados, considerando la demanda de la sociedad, identificada con base en las metodologías previamente establecidas.
 
 ###### Artículo 72.
 
@@ -1013,9 +1145,11 @@ VI. Formatos abiertos: publicados en estándares abiertos y que puedan ser opera
 
 Las dependencias y entidades del Gobierno del Estado, así como sus fideicomisos, órganos desconcentrados y organismos descentralizados, deberán observar las disposiciones que formule la Unidad de Mejora Regulatoria Estatal y emita el Titular del Ejecutivo como Reglamento, en las que se establecerán las directrices para los datos abiertos en sus procesos de generación, recolección, conversión, publicación, administración y actualización en formatos abiertos. Asimismo, se indicará expresamente que en la formulación de políticas públicas y propuestas de todo tipo de regulación, se deberá observar la evidencia contenida en los conjuntos de datos disponibles y los cruces de los mismos.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 81.
 
-Los Ayuntamientos deben adecuar sus Reglamentos Municipales para que la Unidad Administrativa que realice las funciones de la Unidad de Mejora Regulatoria, formule la propuesta de Reglamento ante el Presidente Municipal, y éste la someta al Ayuntamiento para que se cumpla con lo dispuesto en el párrafo anterior, en el marco de la regulación municipal.
+Los Ayuntamientos deben adecuar sus Reglamentos Municipales para que la Unidad Administrativa que realice las funciones de la Unidad de Mejora Regulatoria, formule la propuesta de Reglamento ante el Presidente Municipal, y éste la someta a la consideración y en su caso aprobación del Ayuntamiento para que se cumpla con lo dispuesto en el párrafo anterior, en el marco de la regulación municipal.
 
 ###### Artículo 82.
 
@@ -1037,11 +1171,15 @@ Los sujetos obligados deberán atender los lineamientos técnicos que emita el S
 
 Estos lineamientos contemplarán la homologación en la presentación de la información a la que hace referencia este Título por parte de los sujetos obligados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 85.
 
-La información correspondiente a las obligaciones de transparencia de la presente Ley, deberá de actualizarse durante los siguientes treinta días naturales a partir de la fecha en que se generó la misma o a más tardar a los treinta días naturales posteriores de la conclusión del periodo que informa, lo que sea menor, señalando la fecha de su actualización.
+La información correspondiente a las obligaciones de transparencia de la presente Ley, deberá de publicarse y actualizarse durante los siguientes treinta días naturales a partir de la fecha en que se generó la misma o a más tardar a los treinta días naturales posteriores de la conclusión del periodo que informa, lo que sea menor, señalando la fecha de su actualización.
 
-Conforme al Artículo 62 de la Ley General, los sujetos obligados deberán acatar los criterios que emita el Sistema Nacional para determinar el plazo mínimo que deberá permanecer disponible y accesible la información, atendiendo a las cualidades de la misma.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
+Los sujetos obligados deberán acatar los criterios que emita el Sistema Nacional para determinar el plazo mínimo que deberá permanecer disponible y accesible la información, atendiendo a las cualidades de la misma.
 
 La publicación de la información deberá indicar el sujeto obligado encargado de generarla, así como la fecha de su última actualización.
 
@@ -1057,13 +1195,17 @@ La página de inicio de los portales de Internet de los sujetos obligados tendr�
 
 La información de obligaciones de transparencia deberá publicarse con perspectiva de género y discapacidad, cuando así corresponda a su naturaleza.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 88.
 
-La Comisión y los sujetos obligados establecerán las medidas que faciliten el acceso y búsqueda de la información para personas con discapacidad y se procurará que la información publicada sea accesible de manera focalizada a personas que hablen alguna lengua indígena.
+La Comisión y los sujetos obligados promoverán la implementación de ajustes razonables y de medidas de inclusión social, a través de la suscripción de acuerdos con instituciones públicas especializadas, para llevar a cabo la transcripción en braille o en general con la generación de cualquier formato que permita garantizar a las personas el derecho humano de acceso a la información y protección de datos personales.
 
 Por lo que, por sí mismos o a través del Sistema Nacional, deberán promover y desarrollar de forma progresiva, políticas y programas tendientes a garantizar la accesibilidad de la información en la máxima medida posible.
 
-Se promoverá la homogeneidad y la estandarización de la información, a través de la verificación del seguimiento a lineamientos y de formatos emitidos por parte del Sistema Nacional y el sistema Estatal.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
+Se promoverá la homogeneidad y la estandarización de la información, a través de la verificación del seguimiento a lineamientos y de formatos emitidos por parte del Sistema Nacional.
 
 ###### Artículo 89.
 
@@ -1135,7 +1277,9 @@ X. Los gastos de representación y viáticos, así como el objeto e informe de c
 
 XI. El número total de las plazas y del personal de base y confianza, especificando el total de las vacantes, por nivel de puesto, para cada unidad administrativa;
 
-XII. Las contrataciones de servicios profesionales por honorarios, señalando los nombres de los prestadores de servicios, los servicios contratados, el monto de los honorarios y el periodo de contratación, así como la relación analítica mensual de pagos hechos a contratistas, proveedores, representaciones, asesorías y en general todas las erogaciones que por cualquier concepto se realicen;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+XII. Las contrataciones de servicios profesionales por honorarios, señalando los nombres de los prestadores de servicios, los servicios contratados, el monto de los honorarios y el periodo de contratación, así como la relación analítica mensual de pagos hechos a contratistas, proveedores, representaciones, (sic) asesorías;
 
 XIII. La información en versión pública de las declaraciones patrimoniales de los Servidores Públicos que así lo determinen, en los sistemas habilitados para ello, de acuerdo a la normatividad aplicable;
 
@@ -1189,7 +1333,9 @@ XX. Los servicios que ofrecen señalando los requisitos para acceder a ellos;
 
 XXI. Los trámites, con sus requisitos, formatos, plazos y costos que ofrecen;
 
-XXII. Para al menos los últimos 5 ejercicios fiscales La información financiera sobre el presupuesto asignado, así como los informes del ejercicio trimestral del gasto, en términos de la Ley General de Contabilidad Gubernamental y demás normatividad aplicable;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+XXII. La información financiera sobre el presupuesto asignado, así como los informes del ejercicio trimestral del gasto, en términos de la Ley General de Contabilidad Gubernamental y demás normatividad aplicable, esto para al menos los últimos 6 ejercicios fiscales;
 
 XXIII. La información relativa a la deuda pública, en términos de la normatividad aplicable la cual deberá contener por lo menos, lo siguiente:
 
@@ -1437,13 +1583,17 @@ II. Las actas de sesiones de cabildo, los controles de asistencia de los integra
 
 III. Las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras, incluyendo las tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-IV. La conformación de las Comisiones de los integrantes del Cabildo, así como los registros de asistencia de sus integrantes a las sesiones de trabajo de las mismas y del R. Ayuntamiento; y La información detallada que contengan los planes o programas en materia de desarrollo urbano, ordenamiento territorial y ecológico, los tipos y usos de suelo, licencias de uso y construcción otorgadas por los gobiernos municipales.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+IV. La conformación de las Comisiones de los integrantes del Cabildo, así como los registros de asistencia de sus integrantes a las sesiones de trabajo de las mismas y del R. Ayuntamiento.
 
 Sin perjuicio de que la información que generen y posean es considerada pública, de conformidad con lo señalado en la presente Ley y que le son aplicables los procedimientos, principios y bases de la misma; en tanto el Sistema Nacional emite los lineamientos, mecanismos y criterios correspondientes para determinar las acciones a tomar, los municipios con población menor a 70,000 habitantes cumplirán con las obligaciones de transparencia de conformidad con sus posibilidades presupuestarias.
 
 Lo anterior, sin perjuicio de que dichos municipios continuarán cumpliendo con las obligaciones de información a que se refiere la Ley General de Contabilidad Gubernamental y las disposiciones que emanan de ésta, en los plazos, términos y condiciones previstas en dicha ley y en las disposiciones referidas.
 
-Dichos municipios podrán solicitar al (sic) Comisión, que, de manera subsidiaria, divulgue vía Internet las obligaciones de transparencia correspondientes.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
+Dichos municipios podrán solicitar a la Comisión, que, de manera subsidiaria, divulgue vía internet las obligaciones de transparencia correspondientes. Para ello, el Congreso del Estado deberá hacer las previsiones presupuestales que se requieran para la integración y publicación en línea de la información obligatoria en medios electrónicos.
 
 ###### Artículo 98.
 
@@ -1507,9 +1657,17 @@ IV. La relacionada con los procesos por medio de los cuales fueron designados lo
 
 V. Los servicios que ofrezcan distintos a los jurisdiccionales, así como los trámites administrativos, requisitos y formatos que, en su caso, sean necesarios para acceder a ellos;
 
-VI. Los principales indicadores sobre la actividad jurisdiccional que deberán incluir, al menos, asuntos ingresados, egresados y existencia, por unidad jurisdiccional y agregados por todo el órgano de impartición de justicia, el número de sentencias dictadas; y, en su caso, las que sean confirmadas, revocadas o modificadas por unidad jurisdiccional; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-VII. La lista de Peritos en los términos de la Ley Orgánica del Poder Judicial del Estado.
+VI. Los principales indicadores sobre la actividad jurisdiccional que deberán incluir, al menos, asuntos ingresados, egresados y existencia, por unidad jurisdiccional y agregados por todo el órgano de impartición de justicia, el número de sentencias dictadas; y, en su caso, las que sean confirmadas, revocadas o modificadas por unidad jurisdiccional;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+VII. La lista de Peritos en los términos de la Ley Orgánica del Poder Judicial del Estado; y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+VIII. La lista de acuerdos que diariamente se publiquen.
 
 ###### Artículo 100.
 
@@ -1575,9 +1733,17 @@ e) Las medidas solicitadas a las autoridades competentes para evitar la consumac
 
 f) Los programas para la promoción, respeto, protección y garantía de los derechos humanos;
 
-g) La información relacionada con las acciones y resultados de defensa, promoción y protección de los derechos humanos; y
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
 
-h) El estado que guardan los derechos humanos en el sistema penitenciario y de readaptación social en el Estado.
+g) La información relacionada con las acciones y resultados de defensa, promoción y protección de los derechos humanos;
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
+h) El estado que guardan los derechos humanos en el sistema penitenciario y de readaptación social en el Estado; y
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
+i) Actas y versiones estenográficas de sesiones del Consejo Consultivo en Derechos Humanos.
 
 Además de las obligaciones de transparencia previstas en las fracciones anteriores, la Comisión Estatal de Derechos Humanos, deberá publicar y actualizar la información relativa al estado que guardan las investigaciones de los hechos que constituyan violaciones graves de derechos humanos y, en su caso, el resultado de las mismas.
 
@@ -1851,7 +2017,9 @@ Las diligencias de verificación que realice la Comisión, se sujetarán a lo si
 
 I. La verificación tendrá por objeto revisar y constatar el debido cumplimiento a las obligaciones de transparencia en términos de lo previsto en esta Ley, según corresponda a cada sujeto obligado, y demás disposiciones aplicables;
 
-II. La revisión se practicará por el personal o área facultada para ello del Instituto;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+II. La revisión se practicará por el personal o área facultada para ello de la Comisión;
 
 III. Se deberá constatar que la información esté completa, publicada y actualizada en tiempo y forma;
 
@@ -1869,15 +2037,23 @@ d) Nombre y firma de quienes hayan llevado a cabo la verificación.
 
 VI. La Comisión deberá acopiar y resguardar los soportes necesarios para sustentar la verificación efectuada;
 
-VII. Transcurrido lo anterior, el Instituto deberá emitir una resolución dentro del término de diez días hábiles, en la que podrá determinar que el sujeto obligado se ajusta a lo establecido por esta Ley y demás disposiciones, o contrariamente determinar que existe incumplimiento a lo previsto por la Ley y demás normatividad aplicable, caso en que formulará los requerimientos que procedan al sujeto obligado, a efecto de que subsane las inconsistencias detectadas dentro del plazo y condiciones que al efecto se determinen;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-VIII. El sujeto obligado deberá cumplir con la resolución en un plazo no mayor de veinte días contados a partir del día siguiente al en que se le notifique la misma;
+VII. Transcurrido lo anterior, el Pleno de la Comisión deberá aprobar la verificación llevada a cabo en la que determinará si el sujeto obligado se ajusta a lo establecido por esta Ley y demás disposiciones aplicables, o contrariamente determinar que existe incumplimiento a lo previsto por la Ley y demás normatividad aplicable, caso en que formulará, dentro del término de diez días, los requerimientos que procedan al sujeto obligado, a efecto de que subsane las inconsistencias detectadas dentro del plazo y condiciones que al efecto se determinen;
 
-IX. Transcurrido el plazo señalado en la fracción anterior, el sujeto obligado deberá informar al organismo garante sobre el cumplimento de la resolución, en un plazo no mayor a tres días;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-X. El Instituto verificará el cumplimiento a la resolución; si considera que se dio cumplimiento a la misma, se emitirá un acuerdo de cumplimiento y se ordenará el archivo del expediente; y
+VIII. El sujeto obligado deberá cumplir con la resolución en un plazo no mayor de veinte días contados a partir del día siguiente al (sic) en que se le notifique la misma, así mismo deberá informar dentro del mismo plazo el cumplimiento de la resolución;
 
-XI. Cuando el Instituto considere que existe un incumplimiento total o parcial de la resolución, le notificará al superior jerárquico del servidor público responsable de dar cumplimiento, para el efecto de que, en un plazo no mayor a cinco días, se dé cumplimiento a la resolución.
+IX. (DEROGADA, P.O. 20 DE AGOSTO DE 2021)
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+X. La Comisión verificará el cumplimiento a la resolución; si considera que se dio cumplimiento a la misma, se emitirá un acuerdo de cumplimiento y se ordenará el archivo del expediente; y
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+XI. Cuando la Comisión considere que existe un incumplimiento total o parcial de la resolución, le notificará al superior jerárquico del servidor público responsable de dar cumplimiento, para el efecto de que, en un plazo no mayor a cinco días, se dé cumplimiento a la resolución.
 
 ###### Artículo 112.
 
@@ -1911,13 +2087,19 @@ La denuncia por incumplimiento a las obligaciones de transparencia deberá cumpl
 
 I. Nombre del sujeto obligado denunciado;
 
-II. Descripción clara y precisa del incumplimiento denunciado;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+II. Descripción clara y precisa del incumplimiento denunciado, especificando el artículo, fracción y ejercicio;
 
 III. El denunciante podrá adjuntar los medios de prueba que estime necesarios para respaldar el incumplimiento denunciado;
 
 IV. En caso de que la denuncia se presente por escrito, el denunciante deberá señalar el domicilio en la jurisdicción que corresponda o la dirección de correo electrónico para recibir notificaciones. En caso de que la denuncia se presente por medios electrónicos, se entenderá que se acepta que las notificaciones se efectúen por el mismo medio. En caso de que no se señale domicilio o dirección de correo electrónico o se señale un domicilio fuera de la jurisdicción respectiva, las notificaciones, aún las de carácter personal, se practicarán a través de los estrados físicos de la Comisión; y
 
-V. El nombre del denunciante y, opcionalmente, su perfil, únicamente para propósitos estadísticos. Esta información será proporcionada por el denunciante de manera voluntaria. En ningún caso el dato sobre el nombre y el perfil podrán ser un requisito para la procedencia y trámite de la denuncia.
+V. (DEROGADA, P.O. 20 DE AGOSTO DE 2021)
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
+El denunciante proporcionará su nombre y cualquier otro dato sobre su perfil, si lo desea, únicamente para propósitos estadísticos. Esta información será proporcionada por el denunciante de manera voluntaria, sin que, por ningún motivo, se considere requisito indispensable para la procedencia y trámite de la denuncia.
 
 ###### Artículo 117.
 
@@ -1929,7 +2111,9 @@ a) A través de la Plataforma Nacional de Transparencia; o
 
 b) Por correo electrónico, dirigido a la dirección electrónica que al efecto se establezca.
 
-II. Por escrito, presentado físicamente, ante la Unidad de Transparencia de la Comisión, según corresponda.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+II. Por escrito, presentado físicamente, ante la Comisión, según corresponda.
 
 ###### Artículo 118.
 
@@ -2009,7 +2193,9 @@ Para los casos previstos por la fracción II, cuando se trate de información cu
 
 Cada Área del sujeto obligado elaborará un índice de los Expedientes clasificados como reservados, por Área responsable de la información y tema.
 
-El índice deberá elaborarse mensualmente y publicarse en Formatos Abiertos al día siguiente de su elaboración. Dicho índice deberá indicar el Área que generó la información, el nombre del Documento, si se trata de una reserva completa o parcial, la fecha en que inicia y finaliza la reserva, su justificación, el plazo de reserva y, en su caso, las partes del Documento que se reservan y si se encuentra en prórroga.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
+El índice deberá elaborarse mensualmente y publicarse en su portal en Formatos Abiertos al día siguiente de su elaboración. Dicho índice deberá indicar el Área que generó la información, el nombre del Documento, si se trata de una reserva completa o parcial, la fecha en que inicia y finaliza la reserva, su justificación, el plazo de reserva y, en su caso, las partes del Documento que se reservan y si se encuentra en prórroga.
 
 En ningún caso el índice será considerado como información reservada.
 
@@ -2077,6 +2263,8 @@ La información contenida en las obligaciones de transparencia no podrá omitirs
 
 ### Capítulo III. De la Información Confidencial
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 138.
 
 Como información reservada podrá clasificarse aquella cuya publicación:
@@ -2117,13 +2305,21 @@ II. Se trate de información relacionada con actos de corrupción de acuerdo con
 
 ###### Artículo 141.
 
-Se considera información confidencial la que contiene datos personales concernientes a una persona identificada o identificable.
+Se considera información confidencial:
+
+a) La que contiene datos personales concernientes a una persona física identificada o identificable.
+
+b) Los secretos bancario, fiduciario, industrial, comercial, fiscal, bursátil y postal, cuya titularidad corresponda a particulares, sujetos de derecho internacional o a sujetos obligados cuando no involucren el ejercicio de recursos públicos.
+
+c) Aquella que presenten los particulares a los sujetos obligados, siempre que tengan el derecho a ello, de conformidad con lo dispuesto por las leyes o los tratados internacionales.
 
 La información confidencial no estará sujeta a temporalidad alguna y sólo podrán tener acceso a ella los titulares de la misma, sus representantes y los Servidores Públicos facultados para ello.
 
-Se considera como información confidencial: los secretos bancario, fiduciario, industrial, comercial, fiscal, bursátil y postal, cuya titularidad corresponda a particulares, sujetos de derecho internacional o a sujetos obligados cuando no involucren el ejercicio de recursos públicos.
+En caso de vulneraciones en materia de información confidencial, establecidas en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Nuevo León, el procedimiento correspondiente se sustanciará de la siguiente manera:
 
-Asimismo, será información confidencial aquella que presenten los particulares a los sujetos obligados, siempre que tengan el derecho a ello, de conformidad con lo dispuesto por las leyes o los tratados internacionales.
+Para la información referente al inciso a), se observará lo establecido por la Ley de protección de datos personales vigente.
+
+Para la información a que hacen referencia los incisos b) y c), se considerará lo señalado en la presente Ley.
 
 ###### Artículo 142.
 
@@ -2249,15 +2445,21 @@ En cualquier caso, se deberá fundar y motivar la necesidad de ofrecer otras mod
 
 Los sujetos obligados establecerán la forma y términos en que darán trámite interno a las solicitudes en materia de acceso a la información.
 
-La elaboración de versiones públicas, cuya modalidad de reproducción o envío tenga un costo, procederá una vez que se acredite el pago respectivo.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
 
-Ante la falta de respuesta a una solicitud en el plazo previsto y en caso de que proceda el acceso, los costos de reproducción y envío correrán a cargo del sujeto obligado.
+La elaboración de versiones públicas, se llevará a cabo como lo establecen los Lineamientos en materia de clasificación y desclasificación de la información, así como para la elaboración de versiones públicas de los sujetos obligados del Estado de Nuevo León y cuando la modalidad de reproducción o envío tenga un costo, procederá una vez que se acredite el pago respectivo.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
+Ante la falta de respuesta a una solicitud en el plazo previsto y en caso de que proceda el acceso, los costos de reproducción, de certificación y envío correrán a cargo del sujeto obligado.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 160.
 
 La Unidad de Transparencia tendrá disponible la información solicitada, durante un plazo mínimo de sesenta días, contado a partir de que el solicitante hubiere realizado, en su caso, el pago respectivo, el cual deberá efectuarse en un plazo no mayor a treinta días.
 
-Transcurridos dichos plazos, los sujetos obligados darán por concluida la solicitud y procederán, de ser el caso, a la destrucción del material en el que se reprodujo la información.
+Transcurrido el plazo de treinta días, sin que el solicitante hubiere realizado el pago respectivo, los sujetos obligados darán por concluida la solicitud; de igual forma, si se hubiere efectuado el pago, y transcurren los sesenta días posteriores a éste, los sujetos obligados, darán por concluida la solicitud; y procederán, de ser el caso, a la destrucción del material en el que se reprodujo la información.
 
 ###### Artículo 161.
 
@@ -2343,7 +2545,9 @@ IV. La entrega de información incompleta;
 
 V. La entrega de información que no corresponda con lo solicitado;
 
-VI. La falta de respuesta a una solicitud de acceso a la información dentro de los plazos establecidos en la Ley;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+VI. La falta de respuesta a una solicitud de acceso a la información dentro de los plazos establecidos en la Ley, siempre y cuando se inconforme con el contenido de la respuesta;
 
 VII. La notificación, entrega o puesta a disposición de información en una modalidad o formato distinto al solicitado;
 
@@ -2355,9 +2559,17 @@ X. La falta de trámite a una solicitud;
 
 XI. La negativa a permitir la consulta directa de la información;
 
-XII. La falta, deficiencia o insuficiencia de la fundamentación y/o motivación en la respuesta; o
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-XIII. La orientación a un trámite específico.
+XII. La falta, deficiencia o insuficiencia de la fundamentación y/o motivación en la respuesta;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+XIII. La orientación a un trámite específico; o
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+XIV. La falta de respuesta a una solicitud de acceso a la información.
 
 La respuesta que den los sujetos obligados derivada de la resolución a un recurso de revisión que proceda por las causales señaladas en las fracciones III, VI, VIII, IX, X y XI es susceptible de ser impugnada de nueva cuenta, mediante recurso de revisión, ante la Comisión.
 
@@ -2433,13 +2645,23 @@ Dentro del plazo señalado en el párrafo anterior, el organismo garante podrá 
 
 II. Admitido el recurso de revisión, el Comisionado ponente requerirá al sujeto obligado para que dentro de un plazo de siete días siguientes a la notificación rinda un informe justificado respecto del acto impugnado, pudiendo ofrecer las pruebas que estime pertinentes, de conformidad con lo establecido en la presente Ley;
 
-III. Recibida la contestación o transcurrido el plazo para contestar el recurso, la Comisión dentro de un plazo de tres días hábiles deberá citar a las partes a una audiencia de conciliación, en la cual, de llegar a un acuerdo satisfactorio, éste tendrá efectos vinculantes para las partes, suspendiéndose el trámite de procedimiento durante el término que dure la conciliación.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
 
-En caso de que se cumpla el acuerdo antes mencionado, se emitirá la resolución correspondiente, y en el supuesto de incomparecencia de alguna de las partes, por no llegar a un acuerdo favorable entre las mismas, o por incumplimiento de dicho acuerdo, se continuará con la secuela procesal y se dará vista al recurrente, para que en el plazo de tres días manifieste lo que a su derecho convenga, pudiendo ofrecer las pruebas que estime pertinentes, de conformidad con lo establecido en la presente Ley;
+III. Recibida la contestación o transcurrido el plazo para contestar el recurso, la Comisión dará vista al recurrente, para que en el plazo de tres días manifieste lo que a su derecho convenga, pudiendo ofrecer las pruebas que estime pertinentes, de conformidad con lo establecido en la presente Ley;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE AGOSTO DE 2021)</small>
+
+Una vez desahogada o no, la vista de contestación, este órgano garante deberá citar a las partes a una audiencia de conciliación, en la que, de llegar a un acuerdo satisfactorio, ésta tendrá efectos vinculantes; si dentro de la audiencia no se llega a un acuerdo satisfactorio para ambas partes, pero manifiestan su intención de llegar a un acuerdo, la audiencia deberá de ser diferida, suspendiéndose el trámite del procedimiento durante el término que dure la conciliación. En caso de que las partes se encuentren satisfechas con sus pretensiones, se levantará el acta respectiva, y en su momento, se emitirá la resolución correspondiente.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE AGOSTO DE 2021)</small>
+
+En caso de incomparecencia de alguna de las partes, o por no encontrarse satisfechas con sus pretensiones, se continuará con la secuela procesal.
 
 IV. En caso de existir tercero interesado, en el acuerdo en que se reconozca su interés en el asunto, se le dará vista con el recurso de revisión para que en el plazo de siete días acredite su carácter, alegue lo que a su derecho convenga y aporte las pruebas que estime pertinentes;
 
-V. Las partes y el tercero interesado podrán ofrecer únicamente como pruebas de su intención las documentales públicas, documentales privadas, testigos, fotografías, copias fotostáticas, cintas de vídeo, dispositivos de archivos electrónicos o magnéticos, registros dactiloscópicos, electrónicos y, en general, todos aquellos elementos derivados de los avances de la ciencia y la tecnología y presuncionales. El desahogo y la calificación de las mismas, así como las notificaciones se realizarán aplicando supletoriamente el Código de Procedimientos Civiles del Estado de Nuevo León. En cualquier caso, corresponderá al Instituto desechar de plano aquellas pruebas que no guarden relación con el recurso;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+V. Las partes y el tercero interesado podrán ofrecer únicamente como pruebas de su intención las documentales públicas, documentales privadas, testigos, fotografías, copias fotostáticas, cintas de vídeo, dispositivos de archivos electrónicos o magnéticos, registros dactiloscópicos, electrónicos y, en general, todos aquellos elementos derivados de los avances de la ciencia y la tecnología y presuncionales. El desahogo y la calificación de las mismas, se realizarán aplicando supletoriamente la Ley de Justicia Administrativa para el Estado y los Municipios de Nuevo León, y en defecto de ésta, el Código de Procedimientos Civiles para el Estado de Nuevo León. En cualquier caso, corresponderá a la Comisión desechar de plano aquellas pruebas que no guarden relación con el recurso;
 
 VI. Una vez desahogadas las pruebas, las partes tendrán un plazo común de tres días para que aleguen lo que a su derecho convenga, durante dicho plazo el Comisionado ponente podrá determinar la celebración de audiencias con las partes, así como decretar diligencias para mejor proveer;
 
@@ -2467,7 +2689,9 @@ I. Desechar o sobreseer el recurso;
 
 II. Confirmar la respuesta del sujeto obligado;
 
-III. Revocar o modificar la respuesta del sujeto obligado; o
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+III. Revocar o modificar la respuesta del sujeto obligado; u
 
 IV. Ordenar la emisión de una respuesta.
 
@@ -2507,9 +2731,17 @@ V. Se impugne la veracidad de la información proporcionada;
 
 VI. Se trate de una consulta a la que no se le pueda otorgar respuesta a partir de lo dispuesto en la presente ley;
 
-VII. Se interponga contra un mismo acto o resolución con el que haya identidad de partes, pretensiones y actos reclamados, respecto a otro recurso de revisión; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
 
-VIII. El recurrente amplíe su solicitud en el recurso de revisión, únicamente respecto de los nuevos contenidos.
+VII. Se interponga contra un mismo acto o resolución con el que haya identidad de partes, pretensiones y actos reclamados, respecto a otro recurso de revisión;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+VIII. El recurrente amplíe su solicitud en el recurso de revisión, únicamente respecto de los nuevos contenidos; y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2021)</small>
+
+IX. La Comisión no sea competente.
 
 ###### Artículo 181.
 
@@ -2539,6 +2771,8 @@ El recurso de inconformidad ante el Instituto o cualquier otro medio de impugnac
 
 ### Capítulo IV. Del Cumplimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 185.
 
 La Comisión podrá solicitar al Instituto que ejerza la facultad de atracción, en los términos de la Ley General.
@@ -2555,17 +2789,19 @@ Previo a la decisión del Instituto sobre el ejercicio de la facultad de atracci
 
 ###### Artículo 187.
 
-Los sujetos obligados, a través de la Unidad de Transparencia, darán estricto cumplimiento a las resoluciones de la Comisión y deberán informar a ésta sobre su cumplimiento.
+En un plazo de no mayor a tres días los sujetos obligados de manera directa, o a través de sus respectivas Unidades de Transparencia, darán estricto cumplimiento a las resoluciones de la Comisión, debiendo informar a esta última sobre su cumplimiento, allegando los documentos necesarios para acreditar el referido cumplimiento conforme a lo establecido en el artículo 178 de la presente ley.
 
 Excepcionalmente, considerando las circunstancias especiales del caso, los sujetos obligados podrán solicitar a la Comisión, de manera fundada y motivada, una ampliación del plazo para el cumplimiento de la resolución.
 
 Dicha solicitud deberá presentarse, a más tardar, dentro de los primeros tres días del plazo otorgado para el cumplimiento, a efecto de que la Comisión resuelva sobre la procedencia de la misma dentro de los cinco días siguientes.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 188.
 
-Transcurrido el plazo señalado en el artículo anterior, el sujeto obligado deberá informar a la Comisión sobre el cumplimento de la resolución.
+Una vez que se haya rendido el informe de cumplimiento a la Comisión conforme a lo establecido en el artículo anterior, esta última requerirá al particular a fin de que en un término de cinco días manifieste lo que a su derecho convenga sobre la información proporcionada por el sujeto obligado, apercibido de que en caso de que el particular no realice manifestación alguna, se tendrá por satisfecho de la respuesta.
 
-La Comisión verificará de oficio la calidad de la información y, a más tardar al día siguiente de recibir el informe, dará vista al recurrente para que, dentro de los cinco días siguientes, manifieste lo que a su derecho convenga. Si dentro del plazo señalado el recurrente manifiesta que el cumplimiento no corresponde a lo ordenado por la Comisión, deberá expresar las causas específicas por las cuales así lo considera.
+Si dentro del plazo señalado en el párrafo anterior, el recurrente manifiesta que el cumplimiento no corresponde a lo ordenado por la Comisión, deberá expresar las causas específicas por las cuales así lo considera, para lo cual, la Comisión analizará la respuesta del sujeto obligado y en su caso, requerirá al sujeto obligado, para que dentro de un plazo no mayor a cinco días allegue mayor información que estime necesaria o realice las acciones correspondientes, a fin de que se dé el debido cumplimiento a la resolución.
 
 ###### Artículo 189.
 
@@ -2579,6 +2815,8 @@ III. Determinará las medidas de apremio o sanciones, según corresponda, que de
 
 ### Capítulo I. De las Medidas de Apremio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 190.
 
 Una vez que hayan causado ejecutoria las resoluciones dictadas en los recursos que se sometan a su competencia, la Comisión podrá emitir los criterios de interpretación que estime pertinentes y que deriven de lo resuelto en dichos asuntos.
@@ -2591,7 +2829,9 @@ Todo criterio que emita la Comisión, deberá contener una clave de control para
 
 La Comisión podrá interrumpir el criterio si estima la inaplicabilidad del razonamiento en él contenido, a fin de dejarlo sin efectos. Para proceder a la interrupción a que se refiere este artículo, se requerirá la resolución de un recurso en el que se sostenga un criterio contrario al previamente establecido.
 
-La aprobación de un criterio por parte de los integrantes de la Comisión, no será motivo para vincular a los nuevos integrantes que, en su caso, formen parte del propio organismo garante en lo sucesivo, por lo que el tema contenido en el criterio en cuestión podrá ser discutido bajo la nueva integración del organismo garante, mismo que podrá ser interrumpido.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
+La aprobación de un criterio por parte de los integrantes del Pleno de la Comisión, no será motivo para vincular a los nuevos integrantes que, en su caso, formen parte del propio organismo garante en lo sucesivo, por lo que el tema contenido en el criterio en cuestión podrá ser discutido bajo la nueva integración del organismo garante, mismo que podrá ser interrumpido.
 
 Cualquier persona podrá denunciar ante la Comisión, la contradicción de criterios.
 
@@ -2601,7 +2841,7 @@ Cualquier persona podrá denunciar ante la Comisión, la contradicción de crite
 
 ###### Artículo 191.
 
-La Comisión podrá imponer al servidor público encargado de cumplir con la resolución, o a los miembros de los sindicatos, partidos políticos o a la persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
+La Comisión podrá imponer al servidor público encargado de cumplir con la resolución, o a quien fungía con el carácter de servidor público al momento de cometer la infracción, o a los miembros de los sindicatos, partidos políticos o a la persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
 
 I. Apercibimiento;
 
@@ -2639,7 +2879,7 @@ Transcurrido el plazo, sin que se haya dado cumplimiento, se determinarán las s
 
 ###### Artículo 194.
 
-Vencido el plazo para el cumplimiento de la determinación de la Comisión, sin que hubiere sido acatada, la Comisión podrá imponer las medidas de apremio que considere, previa audiencia del sujeto obligado, debiendo notificárselas dentro de los tres días siguientes. El sujeto obligado deberá informar a la Comisión respecto de su cumplimiento, en un plazo máximo de quince días, contados a partir de que le sea notificada la medida de apremio.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2021)
 
 ###### Artículo 195.
 
@@ -2689,9 +2929,11 @@ XV. No atender los requerimientos establecidos en la presente Ley, emitidos por 
 
 XVI. No acatar las resoluciones emitidas por la Comisión, en ejercicio de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 198.
 
-Las conductas establecidas en el artículo anterior, cometidas por sujetos obligados que tengan el carácter de servidores públicos, se sancionarán de la siguiente manera:
+Las conductas establecidas en el artículo anterior, cometidas por sujetos obligados que tengan el carácter de servidores públicos, o quien fungía con el carácter de servidor público al momento de cometer la infracción, se sancionarán de la siguiente manera:
 
 I. Multa de ciento cincuenta a doscientas cincuenta cuotas, tratándose de los supuestos previstos en las fracciones I, III, V y VI del artículo 197 de esta Ley;
 
@@ -2703,9 +2945,11 @@ IV. Arresto Administrativo, hasta por treinta y seis horas, al que incumpla con 
 
 Se aplicará multa adicional de hasta cincuenta cuotas por día, a quien persista en las infracciones citadas en los incisos anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 199.
 
-Las infracciones a lo previsto en la presente Ley por parte de sujetos obligados que no cuenten con la calidad de servidor público, serán sancionadas con:
+Las infracciones a lo previsto en la presente Ley por parte de sujetos obligados que no cuenten con la calidad de servidor público, o quien tenía la obligación al momento de cometer la infracción, serán sancionadas con:
 
 I. El apercibimiento, por única ocasión, para que el sujeto obligado cumpla su obligación de manera inmediata, en los términos previstos en esta Ley, tratándose de los supuestos previstos en las fracciones I, III, V y VI del artículo 197 de esta Ley. Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de ciento cincuenta a doscientos cincuenta cuotas;
 
@@ -2757,9 +3001,11 @@ Una vez analizadas las pruebas y demás elementos de convicción, la Comisión r
 
 Cuando haya causa justificada, por acuerdo indelegable del Pleno de la Comisión se podrá ampliar por una sola vez y hasta por un periodo igual el plazo de resolución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 204.
 
-Ante incumplimientos en materia de transparencia y acceso a la información por parte de los partidos políticos, la Comisión dará vista al organismo público estatal electoral, para que resuelva lo conducente, de acuerdo con el procedimiento previsto por el artículo 203 de esta Ley, sin perjuicio de las sanciones establecidas para los partidos políticos en las leyes aplicables.
+Ante incumplimientos en materia de transparencia, acceso a la información, protección de datos personales y de lo que establece la Ley por parte de los partidos políticos, la Comisión dará vista al organismo público estatal electoral, para que resuelva lo conducente, de acuerdo con el procedimiento previsto por el artículo 203 de esta Ley, sin perjuicio de las sanciones establecidas para los partidos políticos en las leyes aplicables.
 
 El organismo público estatal electoral deberá informar de la conclusión del procedimiento y en su caso, de la ejecución de la sanción a la Comisión.
 
@@ -2775,9 +3021,15 @@ Las multas se harán efectivas ante la autoridad estatal competente en materia d
 
 Las sanciones de carácter económico no podrán ser cubiertas con recursos públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 207.
 
-En todo lo no previsto por esta Ley, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado de Nuevo León, y en defecto de ésta, el Código de Procedimientos Civiles para el Estado de Nuevo León.
+En todo lo no previsto por esta Ley, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, y en defecto de ésta, el Código de Procedimientos Civiles del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2021)</small>
+
+Cuando la ley no señale término alguno, se tendrá por señalado el de tres días.
 
 ###### Artículo 208.
 
@@ -2884,3 +3136,11 @@ P.O. 6 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 506. SE REFORMA LA FRACCIÓN LIII DEL ARTÍCULO 95 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM 505 SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para efectos de las certificaciones a que se refiere el inciso b) de la fracción III del artículo 38 de la (sic) presente decreto, la Comisión deberá adecuar su normativa interna o emitir los lineamientos correspondientes.
