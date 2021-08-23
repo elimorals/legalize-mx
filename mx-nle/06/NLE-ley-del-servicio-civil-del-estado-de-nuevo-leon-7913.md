@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2020-11-06"
+last_updated: "2021-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -116,6 +116,24 @@ Todos los trabajadores de las dependencias que funcionan en cooperación entre l
 ###### Art. 6o.
 
 Todos los trabajadores que prestan sus servicios al Gobierno del Estado y a los Municipios, deberán de ser de nacionalidad mexicana, y sólo podrán ser substituídos por extranjeros cuando no existan mexicanos técnicos que puedan desarrollar eficientemente el servicio de que se trata. La substitución será decidida por el C. Gobernador del Estado, Jefe del Depto. respectivo, Ayuntamiento o Presidente Municipal que corresponda, oyendo antes a la Organización representativa del interés profesional de los trabajadores al servicio del Estado y de los Ayuntamientos; y en caso de desacuerdo entre ellos, se estará a lo que resuelva el Tribunal de Arbitraje.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2021)</small>
+
+Todos los trabajadores que presten sus servicios a cualquiera de los tres poderes del Gobierno del Estado y los ayuntamientos, cursarán capacitación en materia de igualdad de género entre mujeres y hombres, así como no violencia contra las mujeres, con arreglo a los Lineamientos que cada uno expida.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2021)</small>
+
+###### Art. 6o Bis.
+
+El Instituto Estatal de las Mujeres será el organismo responsable de elaborar el programa y emitir la certificación de los lineamientos para la capacitación que implementen los tres poderes del Gobierno del Estado y los ayuntamientos.
+
+Para la elaboración del programa y certificación de los lineamientos, el Instituto se coordinará con organismos autónomos u organizaciones de la Sociedad Civil expertos en la materia.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2021)</small>
+
+###### Art. 6o Bis 1.
+
+Los tres poderes del Gobierno del Estado y los ayuntamientos, deberán publicar y difundir por medio de sus Portales Oficiales de Internet un informe anual sobre el cumplimiento de lo dispuesto en esta Ley, incluyendo un listado de las personas responsables de cumplir con las obligaciones que establece la presente Ley, el porcentaje de personas capacitadas, desagregadas según su jerarquía. También deberán publicarse indicadores de evaluación sobre el impacto de la capacitación realizada.
 
 ###### Art. 7o.
 
@@ -375,7 +393,9 @@ X.- Proporcionar a los trabajadores al Servicio del Estado y sus familiares y a 
 
 XI.- Cubrir las indemnizaciones por separación injustificada por los accidentes que sufran los trabajadores con motivo del trabajo o a consecuencia de él, y por las enfermedades profesionales que contraigan en el trabajo o en el ejercicio de la profesión que desempeñen.
 
-XII.- Establecer academias en las que impartan los cursos necesarios para los trabajadores a su servicio, que lo deseen, puedan adquirir los conocimientos indispensables para obtener ascensos conforme al escalafón y asegurar el mantenimiento de su aptitud profesional.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2021)</small>
+
+XII.- Establecer academias en las que impartan los cursos necesarios para los trabajadores a su servicio, que lo deseen, puedan adquirir los conocimientos indispensables para obtener ascensos conforme al escalafón y asegurar el mantenimiento de su aptitud profesional; así como facilitar y fomentar la capacitación en materia de igualdad de género entre mujeres y hombres, así como de no violencia contra las mujeres a las que se refieren los artículos 6o y 6o Bis de esta Ley.
 
 XIII.- Proporcionar dentro de sus posibilidades económicas, campos deportivos para el desarrollo físico de los trabajadores.
 
@@ -414,6 +434,10 @@ V.- Evitar la ejecución de actos que pongan en peligro su seguridad y la de sus
 VI.- Asistir puntualmente a sus labores.
 
 VII.- Sustraerse a propagandas de todas clases durante las horas de trabajo.
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2021)</small>
+
+VIII.- Cursar la capacitación en materia de igualdad de género entre mujeres y hombres, así como de no violencia contra las mujeres a las que se refieren los artículos 6o y 6º Bis de esta Ley.
 
 ### CAPITULO SEXTO. De la suspensión de los efectos del nombramiento de los Trabajadores
 
@@ -1144,3 +1168,17 @@ P.O. 6 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 529. SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones contenidas en el presente decreto estarán sujetas al presupuesto del año en curso. Los tres poderes del Gobierno del Estado y los ayuntamientos, incluirán en sus presupuestos de Egresos para el Ejercicio 2022, los recursos necesarios para la aplicación del presente decreto.
+
+TERCERO.- El Titular del Poder Ejecutivo y el Instituto Estatal de las Mujeres de Nuevo León contarán con un plazo de 90 días hábiles para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del presente, contados a partir de la entrada en vigor de este Decreto.
+
+CUARTO.- Los tres poderes del Gobierno del Estado y los ayuntamientos contarán con un plazo de 45 días hábiles para expedir sus Lineamientos interiores para dar cumplimiento a las atribuciones que se les otorgan por medio del presente, contados a partir del día siguiente a aquél en el que el Instituto Estatal de las Mujeres de Nuevo León expida las disposiciones administrativas a las que se refiere el Transitorio tercero.
+
+QUINTO.- Una vez expedidas las disposiciones reglamentarias y administrativas y los lineamientos interiores referidos en los transitorios tercero y cuarto, Los tres poderes del Gobierno del Estado y los ayuntamientos deberán dar cumplimiento a la obligación de iniciar a capacitar los trabajadores o servidores públicos, en los términos de lo dispuesto en el presente decreto en un plazo que no exceda de 30 días hábiles contados a partir del día siguiente a aquél en que se venza el plazo del Transitorio cuarto.
