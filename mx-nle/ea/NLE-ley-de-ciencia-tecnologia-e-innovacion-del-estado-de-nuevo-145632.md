@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-nuevo-1456
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-21"
-last_updated: "2020-12-21"
+last_updated: "2021-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 21 de diciembre de 2020.
 
@@ -797,6 +797,26 @@ QUINTO.- El Consejo General formulará y aprobará el Programa de Ciencia, Tecno
 
 SEXTO.- La Junta de Gobierno del I2T2, deberá de emitir en un plazo de 90 días un nuevo Reglamento Interior del Instituto acorde con los objetivos de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2021)</small>
+
+SÉPTIMO.- Para todos los efectos legales subsiste el organismo público descentralizado denominado Instituto de Innovación y Transferencia de Tecnología de Nuevo León, con todos sus bienes, recursos, derechos y obligaciones contraídos.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2021)</small>
+
+OCTAVO.- El nombramiento del Director General del Instituto de Innovación y Transferencia de Tecnología de Nuevo León, continúa vigente, en los términos conferidos por el Titular del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2021)</small>
+
+NOVENO.- El nombramiento del representante de la Junta de Gobierno, designado por el Titular del Ejecutivo Estatal previo a la publicación de la presente Ley, continuará vigente hasta en tanto se realice la designación del Presidente de la Junta de Gobierno, de acuerdo a lo establecido en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2021)</small>
+
+DÉCIMO.- Los poderes, nombramientos y cargos conferidos a los funcionarios, apoderados y representantes del Instituto de Innovación y Transferencia de Tecnología de Nuevo León, continuarán vigentes.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2021)</small>
+
+DÉCIMO PRIMERO.- El personal administrativo del Instituto de Innovación y Transferencia de Tecnología de Nuevo León, será el mismo que forma parte de dicho Instituto, conservando todos sus derechos laborales.
+
 Por lo tanto, envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los veintiocho días de octubre de dos mil veinte.
@@ -848,3 +868,11 @@ MAURICIO TORRES ELIZONDO
 EL C. SECRETARIO DE DESARROLLO SUSTENTABLE
 
 JOSÉ MANUEL VITAL COUTURIER
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 526. SE ADICIONAN DIVERSOS TRANSITORIOS AL DECRETO 259, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 21 DE DICIEMBRE DE 2020, QUE REFIERE A LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
