@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-51-del-estatuto-de-los-trabajadores-al-servicio-1473
 country: "mx"
 rank: "ley"
 publication_date: "1976-04-21"
-last_updated: "2021-05-11"
+last_updated: "2021-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 21 de abril de 1976.
 
@@ -317,13 +317,19 @@ VII.- Determinar las condiciones generales de trabajo, expidiendo los reglamento
 
 VIII.- Cumplir en sus términos los laudos del Tribunal de Arbitraje del Estado.
 
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2021)</small>
+
+IX.- Otorgar permiso al trabajador que tenga hijos en el nivel preescolar o primaria, para ausentarse de sus labores hasta en tres ocasiones por ciclo escolar, por las horas específicas de la actividad a desarrollar en la institución educativa; debiendo presentar al inicio del ciclo escolar el acta de nacimiento del menor, la constancia de estudios, y solicitar con tres días mínimo de anticipación el permiso correspondiente agregando por escrito o invitación respectiva, donde se indique el tiempo requerido para la actividad a desarrollar.
+
+En el supuesto de que el trabajador sea tutor, deberá presentar adicionalmente a los requisitos señalados, el documento que acredite que ejerce la tutoría del mismo.
+
 > <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2020)</small>
 
-IX.- Otorgar permiso con goce de sueldo al trabajador o trabajadora por un plazo de 24 horas, a quien acuda voluntariamente a donar sangre en el Estado de Guerrero hasta cuatro veces al año, con intervalos no menores a tres meses entre cada donación.
+X.- Otorgar permiso con goce de sueldo al trabajador o trabajadora por un plazo de 24 horas, a quien acuda voluntariamente a donar sangre en el Estado de Guerrero hasta cuatro veces al año, con intervalos no menores a tres meses entre cada donación.
 
 El trabajador o trabajadora deberá comprobar la donación de sangre con constancia de una institución de salud, hospital, clínica o banco de sangre, con domicilio en el Estado de Guerrero, bajo ninguna circunstancia le producirá pérdida o disminución de sueldos, salarios o permisos por este concepto o causa.
 
-> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN IX], P.O. 4 DE FEBRERO DE 2020]</small>
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN X], P.O. 4 DE FEBRERO DE 2020]</small>
 
 En el caso de que el trabajador haya realizado una donación de sangre en forma altruista, en horario fuera de su jornada laboral, previa comprobación oficial de ello, tendrá derecho a licencia de un día de descanso, con goce de salario.
 
@@ -1004,3 +1010,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase este Decreto al Gobernador Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes:
 
 TERCERO.- Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 24 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 836 POR EL QUE SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA LA FRACCIÓN IX Y SE RECORRE LA SUBSECUENTE AL ARTÍCULO 42 DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248, Y LA FRACCIÓN IX Y SE RECORRE LA SUBSECUENTE AL ARTÍCULO 33 DE LA LEY NÚMERO 51, ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en la página web del Congreso del Estado y divúlguese en los medios de comunicación.
