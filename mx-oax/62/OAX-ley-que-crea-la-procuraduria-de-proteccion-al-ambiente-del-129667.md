@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-la-procuraduria-de-proteccion-al-ambiente-del-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-16"
-last_updated: "2018-06-16"
+last_updated: "2021-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 16 de junio de 2018.
 
@@ -93,7 +93,9 @@ V. Junta Directiva: El órgano superior de dirección de la Procuraduría de Pro
 
 VI. Justicia Ambiental: Herramienta que tiene por objeto evitar que, ante procesos de degradación ambiental, los grupos más vulnerables sean los más afectados; convirtiéndose así en una manifestación de reivindicación legal, de respeto a los derechos humanos y prerrogativas de carácter social, económico, laboral y de desarrollo humano;
 
-VII. LEEEO: Ley del Equilibrio Ecológico del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2021)</small>
+
+VII. LEEPAEO: Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca;
 
 VIII. Ley: Ley que crea la Procuraduría de Protección al Ambiente del Estado de Oaxaca;
 
@@ -273,13 +275,17 @@ V. Efectuar las visitas de inspección cuando exista denuncia presentada ante la
 
 VI. Realizar visitas de verificación para vigilar el cumplimiento de las medidas de prevención, control, mitigación y restauración señaladas en las resoluciones, autorizaciones, permisos y licencias derivadas de la legislación en materia de prevención y control de la contaminación e impacto ambiental en el ámbito de su competencia;
 
-VII. Instaurar en caso de ser procedente, los procedimientos jurídico administrativos de inspección y vigilancia ambiental por incumplimiento de las obligaciones previstas en la LEEEO, Ley de Cambio Climático para el Estado de Oaxaca y Ley para la Prevención y Gestión Integral de los Residuos Sólidos, sus reglamentos y demás ordenamientos en la materia y dictar las resoluciones correspondientes;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2021)</small>
+
+VII. Instaurar en caso de ser procedente, los procedimientos jurídico administrativos de inspección y vigilancia ambiental por incumplimiento de las obligaciones previstas en la LEEPAEO, Ley de Cambio Climático para el Estado de Oaxaca y Ley para la Prevención y Gestión Integral de los Residuos Sólidos, sus reglamentos y demás ordenamientos en la materia y dictar las resoluciones correspondientes;
 
 VIII. Emitir recomendaciones a las dependencias y entidades de la administración pública estatal y municipal, con el propósito de promover el cumplimiento de la legislación ambiental de competencia estatal, así como para la ejecución de las acciones procedentes derivadas de su falta de aplicación o incumplimiento;
 
 IX. Imponer las medidas preventivas, correctivas, de mitigación y de urgente aplicación necesarias, en el ámbito de su competencia, para restaurar o proteger los recursos naturales, ecosistemas y el ambiente;
 
-X. Dictar resoluciones derivadas de los procedimientos jurídico administrativos que instaure e imponer las sanciones administrativas correspondientes, de conformidad con lo establecido en la LEEEO, Ley de Cambio Climático para el Estado de Oaxaca y Ley para la Prevención y Gestión Integral de los Residuos Sólidos sus reglamentos y demás ordenamientos en la materia y dictar las resoluciones correspondientes;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2021)</small>
+
+X. Dictar resoluciones derivadas de los procedimientos jurídico administrativos que instaure e imponer las sanciones administrativas correspondientes, de conformidad con lo establecido en la LEEPAEO, Ley de Cambio Climático para el Estado de Oaxaca y Ley para la Prevención y Gestión Integral de los Residuos Sólidos sus reglamentos y demás ordenamientos en la materia y dictar las resoluciones correspondientes;
 
 XI. Denunciar ante las autoridades competentes cuando conozca de actos, hechos y omisiones que constituyan violaciones o incumplimiento a la legislación local o federal en materia ambiental;
 
@@ -423,9 +429,11 @@ Para el mejor desempeño de las funciones de la Procuraduría, el Procurador pod
 
 Los servidores públicos de la Procuraduría tienen el deber de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en sus funciones. Aquel que incumpla con las disposiciones y obligaciones previstas en esta Ley, y demás disposiciones que sean aplicables, será sancionado de acuerdo con lo establecido en la Ley de Responsabilidades Administrativas del Estado y de los Municipios de Oaxaca.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2021)</small>
+
 ###### ARTÍCULO 35.
 
-La actuación de la Procuraduría se sujetará a lo establecido en la Ley del Equilibrio Ecológico del Estado de Oaxaca.
+La actuación de la Procuraduría se sujetará a lo establecido en la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca.
 
 TRANSITORIOS:
 
@@ -456,3 +464,13 @@ DÉCIMO SEGUNDO.- Las Secretarías de Finanzas y de Administración fijaran la p
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 15 de Abril de 2018.- Dip. José de Jesús Romero López, Presidente.- Dip. María de Jesús Melgar Vásquez, Secretaria.- Dip. Silvia Flores Peña, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 10 de Mayo de 2018. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2578.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 5; LAS FRACCIONES VII Y X DEL ARTÍCULO 21; Y EL ARTÍCULO 35 DE LA LEY QUE CREA LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
