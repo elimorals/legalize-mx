@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2021-08-16"
+last_updated: "2021-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2021.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -2635,17 +2635,21 @@ En pleno respeto a los derechos laborales del personal jurisdiccional, la consec
 
 SÉPTIMO. Las prohibiciones a que se refiere el artículo 72 y los nuevos esquemas de selección y contratación del personal sólo aplican para nuevos nombramientos, de modo que la presente reforma no afecta los derechos laborales adquiridos por las personas contratadas con anterioridad a su entrada en vigor y que se ubiquen en dichos supuestos. Consecuentemente, las y los titulares deberán respetar dichos derechos.
 
-OCTAVO. El Instituto de la Judicatura definirá los procesos necesarios para la integración de las Listas dentro de un plazo de 30 días hábiles a partir de la entrada en vigor del presente Acuerdo, y tendrá hasta 6 meses después para que éstas queden integradas, de conformidad con lo expuesto en este instrumento.
-
-La caducidad de 3 años a que se refiere el tercer párrafo del artículo 65 comenzará a correr a partir de la entrada en vigor del presente Acuerdo.
+OCTAVO. (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 24 DE AGOSTO DE 2021)
 
 NOVENO. Las reformas relativas a los cursos y la aplicación de exámenes de aptitud en modalidad a distancia y las referentes a la normativa interna del Instituto de la Judicatura, producirán efectos hasta 6 meses después de la entrada en vigor del presente Acuerdo, para que el Instituto de la Judicatura lleve a cabo las adecuaciones pertinentes.
 
-DÉCIMO. Las nuevas categorías previstas para la Carrera Judicial entrarán en vigor cuando se prevean en la Ley Orgánica del Poder Judicial de la Federación. No obstante, las plazas de oficial judicial que ya se crearon administrativamente, operaran conforme a lo aprobado en el Acuerdo con independencia de que su incorporación formal a la Carrera también esté sujeta a lo que diga la Ley.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 24 DE AGOSTO DE 2021)</small>
+
+DÉCIMO. Las nuevas categorías de la carrera judicial previstas en la Ley de Carrera Judicial del Poder Judicial de la Federación, entrarán en vigor a partir de la emisión y publicación de la Declaratoria a que se refiere el Transitorio Séptimo del Decreto de la Reforma Judicial publicado el 7 de junio de 2021. Las plazas de oficial judicial que ya se crearon administrativamente, operaran conforme a lo aprobado en el Acuerdo con independencia de que su incorporación formal a la Carrera también esté sujeta a lo que diga la Ley.
 
 DECIMOPRIMERO. Los plazos para el llenado del Padrón Electrónico de Relaciones Familiares empezarán a correr a partir de la entrada en vigor del presente Acuerdo, reiniciando los previstos originalmente cuando se aprobó el citado Padrón, y reconociendo la validez de los registros que ya se hubieren realizado.
 
 DECIMOSEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 24 DE AGOSTO DE 2021)</small>
+
+DECIMOTERCERO. Lo relativo a las listas de acceso a la carrera judicial y sus reglas de caducidad; las nuevas categorías; los certificados de actualización; así como todas aquellas disposiciones de este Acuerdo cuya aplicación está sujeta a la regulación de la Ley de Carrera Judicial del Poder Judicial de la Federación, entrarán en vigor una vez que se emita y publique en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, la declaratoria prevista en el artículo Séptimo Transitorio del Decreto de la Reforma Judicial publicado el 7 de junio de 2021.
 
 D.O.F. 21 DE DICIEMBRE DE 2020.
 
@@ -2678,3 +2682,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
 
 TERCERO. La Secretaría Ejecutiva de Carrera Judicial, hará del conocimiento de las juezas y jueces de Distrito Especializados en Materia de Trabajo de los Tribunales Laborales Federales lo dispuesto en el presente Acuerdo.
+
+D.O.F. 24 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
