@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2021-08-07"
+last_updated: "2021-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -153,7 +153,7 @@ XIV. Alimentos: Comprenden la comida, el vestido, habitación y asistencia en ca
 
 XV. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-((REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
 
 XVI. Refugios: Son los albergues, estancias, centros o establecimientos constituidos por instituciones gubernamentales y/o privadas para la atención y protección de las mujeres y sus hijas e hijos víctimas de violencia; y
 
@@ -1979,7 +1979,15 @@ VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácti
 
 VIII. Permanecer en los Refugios con sus hijas e hijos; y
 
-IX. Los demás previstos por esta Ley.
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2021)</small>
+
+IX. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia.
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2021)</small>
+
+X. A la protección de su identidad e intimidad y la de sus hijas e hijos.
+
+XI. Los demás previstos por esta Ley.
 
 ###### Artículo 85.
 
@@ -2338,3 +2346,11 @@ P.O. 7 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2577.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES IX Y X RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 84, DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
