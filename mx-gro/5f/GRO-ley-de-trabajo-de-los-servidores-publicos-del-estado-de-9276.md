@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-trabajo-de-los-servidores-publicos-del-estado-de-9276"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-06"
-last_updated: "2021-05-11"
+last_updated: "2021-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 6 de enero de 1989.
 
@@ -361,7 +361,9 @@ ARTICULO 24 BIS.- Los padres trabajadores tendrán los siguientes derechos:
 
 I.- Gozarán de tres días de descanso en los casos de que su esposa o concubina tenga un aborto legal o clínico;
 
-II.- Disfrutarán de cinco días de descanso cuando su esposa o concubina tenga un parto;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2021)</small>
+
+II. Disfrutarán de licencia de paternidad, por diez días, con goce de sueldo, cuando su esposa o concubina tenga un parto;
 
 III.- Disfrutarán de hasta dos de las semanas de descanso a las que su esposa o concubina tuviera derecho cuando ella expresamente se lo concediera, conforme a lo previsto en la fracción III del artículo 24 de la presente Ley;
 
@@ -473,13 +475,23 @@ IV.- Asociarse para la defensa de sus intereses, y los demás derivados de esta 
 
 V.- Disfrutar de licencias y permisos por maternidad o paternidad a fin de fomentar la igualdad en las responsabilidades familiares, en los términos establecidos en los artículos 24 y 24 BIS de la presente Ley.
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2021)</small>
 
-VI. Percibir licencia de cinco días hábiles con goce de sueldo, por el fallecimiento de padres, hijos, cónyuge, concubina o concubinario.
+VI.- Percibir licencia de cinco días hábiles con goce de sueldo, por el fallecimiento de padres, hijos, cónyuge, concubina o concubinario.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 11 DE MAYO DE 2021]</small>
+El órgano gubernamental que funja como patrón estará obligado a otorgar los días de descanso siempre y cuando el trabajador así lo desee; y
 
-El órgano gubernamental que funja como patrón estará obligado a otorgar los días de descanso siempre y cuando el trabajador así lo desee.
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2021)</small>
+
+VII.- Las y los trabajadores tendrán derecho a la desconexión digital a efecto de que les sean garantizados, fuera del tiempo de trabajo legal o convencionalmente establecido, el respeto a su tiempo de descanso, permisos y vacaciones, así como de su intimidad personal y familiar.
+
+La regulación y modalidades para el ejercicio de este derecho atenderán a la naturaleza y objeto de la relación laboral, privilegiarán el derecho a la conciliación de la actividad laboral y la vida personal y se sujetarán a lo establecido en la negociación colectiva o, en su caso, a lo acordado entre el patrón y los representantes de las y los trabajadores.
+
+Asimismo, el patrón, en coordinación con las personas representantes de las y los trabajadores, deberá elaborar una política interna dirigida a las y los trabajadores, incluidos los que ocupen puestos directivos, en la habrán de definirse las modalidades para ejercicio del derecho a la desconexión y las acciones de formación y de sensibilización del personal sobre un uso razonable de las herramientas tecnológicas que evite el riesgo de fatiga u otros problemas de salud.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 24 DE AGOSTO DE 2021.]</small>
+
+La política a la que se refiere el párrafo anterior deberá contener, además, mecanismos para prevenir y sancionar los actos hostiles que, en su caso, puedan suscitarse cuando la o el trabajador ejerza su derecho a la desconexión digital en el ámbito laboral, incluyendo aquellos actos que segreguen a las y los trabajadores o impliquen afectaciones a las prestaciones a que tengan derecho.
 
 ###### ARTICULO 42.
 
@@ -497,17 +509,25 @@ V.- Establecer sistemas de adiestramiento, capacitación y estímulos a la produ
 
 VI.- Cubrir las aportaciones que fijen las leyes relativas, para que los trabajadores reciban los beneficios de la seguridad y servicios sociales, y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE AGOSTO DE 2021)</small>
+
 VII.- Proporcionar a los trabajadores que no estén incorporados al régimen de seguridad social aplicable, las prestaciones de seguridad y servicios sociales a que tengan derecho de acuerdo con la Ley y demás disposiciones en vigor;
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE AGOSTO DE 2021)</small>
 
-VIII.- Vigilar para garantizar que los servidores públicos se abstengan de realizar cualquier acto de abuso, hostigamiento o aprovechamiento sexual en contra de él o la trabajadora, o contra los familiares de éste o ésta.
+VIII.- Vigilar para garantizar que los servidores públicos se abstengan de realizar cualquier acto de abuso, hostigamiento o aprovechamiento sexual en contra de él o la trabajadora, o contra los familiares de éste o ésta;
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2021)</small>
+
+IX.- Otorgar permiso al trabajador que tenga hijos en el nivel preescolar o primaria, para ausentarse de sus labores hasta en tres ocasiones por ciclo escolar, por las horas específicas de la actividad a desarrollar en la institución educativa; debiendo presentar al inicio del ciclo escolar el acta de nacimiento del menor, la constancia de estudios, y solicitar con tres días mínimo de anticipación el permiso correspondiente agregando por escrito o invitación respectiva, donde se indique el tiempo requerido para la actividad a desarrollar.
+
+En el supuesto de que el trabajador sea tutor, deberá presentar adicionalmente a los requisitos señalados, el documento que acredite que ejerce la tutoría del mismo, y
 
 > <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2020)</small>
 
-IX.- Otorgar permiso con goce de sueldo al trabajador o trabajadora por un plazo de 24 horas, a quien acuda voluntariamente a donar sangre en el Estado de Guerrero hasta cuatro veces al año, con intervalos no menores a tres meses entre cada donación.
+X.- Otorgar permiso con goce de sueldo al trabajador o trabajadora por un plazo de 24 horas, a quien acuda voluntariamente a donar sangre en el Estado de Guerrero hasta cuatro veces al año, con intervalos no menores a tres meses entre cada donación.
 
-El trabajador o trabajadora deberá comprobar la donación de sangre con constancia de una institución de salud, hospital, clínica o banco de sangre, con domicilio en el Estado de Guerrero, bajo ninguna circunstancia le producirá pérdida o disminución de sueldos, salarios o premios por este concepto o causa.
+El trabajador o trabajadora deberá comprobar la donación de sangre con constancia de una institución de salud, hospital, clínica o banco de sangre, con domicilio en el Estado de Guerrero, bajo ninguna circunstancia le producirá pérdida o disminución de sueldos, salarios o permisos por este concepto o causa.
 
 En el caso de que el trabajador haya realizado una donación de sangre en forma altruista, en horario fuera de su jornada laboral, previa comprobación oficial de ello, tendrá derecho a licencia de un día de descanso, con goce de salario.
 
@@ -1368,3 +1388,35 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase este Decreto al Gobernador Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes:
 
 TERCERO.- Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.”
+
+P.O. 24 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 840 POR EL QUE SE REFORMA LA FRACCIÓN VI Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 41 DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO, NÚMERO 248".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en la página web del Congreso del Estado y divúlguese en los medios de comunicación.
+
+P.O. 24 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 836 POR EL QUE SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA LA FRACCIÓN IX Y SE RECORRE LA SUBSECUENTE AL ARTÍCULO 42 DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248, Y LA FRACCIÓN IX Y SE RECORRE LA SUBSECUENTE AL ARTÍCULO 33 DE LA LEY NÚMERO 51, ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en la página web del Congreso del Estado y divúlguese en los medios de comunicación.
+
+P.O. 24 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 835 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 24 BIS DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO, NÚMERO 248".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se derogan todas las disposiciones que contraríen este Decreto.
+
+TERCERO.- Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
+
+CUARTO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en la página web del Congreso del Estado y divúlguese en los medios de comunicación.
