@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2021-06-05"
+last_updated: "2021-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -1127,13 +1127,33 @@ IV. Coordinar los asuntos jurídicos que se deriven de la vida interna del Congr
 
 V. Verificar la recepción y el debido trámite de los asuntos que se reciben a través de la oficialía de partes del Congreso;
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2021)</small>
+
+La recepción y acuse de documentos podrán tramitarse en formato digital vía correo electrónico, para ello deberá (sic) estar debidamente firmados, sellados y escaneados y, organizados mediante un listado de documentos y archivos organizados para su trámite.
+
 VI. Brindar asistencia técnica a la Mesa Directiva;
 
 VII. Apoyar el desarrollo de las sesiones del Pleno;
 
 VIII. Auxiliar el trabajo de las Comisiones Permanentes y Especiales;
 
-IX. Coordinar las actividades relacionadas con el Diario de los Debates, la Gaceta Parlamentaria, Estrado Electrónico y las comunicaciones telemáticas;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 24 DE AGOSTO DE 2021)</small>
+
+IX. Coordinar las actividades relacionadas con:
+
+a) Diario de debates;
+
+b) La Gaceta Parlamentaria;
+
+c) El Estrado Electrónico y las comunicaciones telemáticas;
+
+d) La actualización en la página electrónica del Congreso del Estado de Oaxaca a más tardar tres días hábiles después de la publicación del Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca;
+
+e) Los Comunicados oficiales que por Decreto o Acuerdos del Pleno o Comisiones deba realizar;
+
+f) La actualización que deba de publicarse en la Plataforma Nacional de Transparencia;
+
+g) Los demás comunicados que por disposición legal deba de realizar.
 
 X. Coordinar la Correcta administración y custodia del archivo del Congreso;
 
@@ -1141,9 +1161,15 @@ X. Coordinar la Correcta administración y custodia del archivo del Congreso;
 
 XI. Coordinar los servicios de la Dirección de Biblioteca y Archivo;
 
-XII. Recabar y sistematizar la información relativa a los indicadores de evaluación del desempeño legislativo, en coordinación con la Comisión Permanente de Transparencia, Acceso a la Información y Congreso Abierto, para hacerlos de conocimiento de los integrantes de la Jucopo, y;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2021)</small>
 
-XIII. Las demás que se desprendan de esta Ley, su Reglamento y los Acuerdos Parlamentarios.
+XII. Recabar y sistematizar la información relativa a los indicadores de evaluación del desempeño legislativo, en coordinación con la Comisión Permanente de Transparencia, Acceso a la Información y Congreso Abierto, para hacerlos de conocimiento de los integrantes de la Jucopo;
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2021)</small>
+
+XIII. Llevar el registro de control de la firma electrónica de los Diputados, conforme a las disposiciones de la Ley de Firma Electrónica Avanzada del Estado de Oaxaca y;
+
+XIV. Las demás que se desprendan de esta Ley, su Reglamento y los Acuerdos Parlamentarios.
 
 ###### ARTÍCULO 90.
 
@@ -1552,3 +1578,11 @@ PRIMERO. El presente Decreto entrará en vigor a partir del 13 de noviembre del 
 SEGUNDO. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. La Sexagésima Cuarta Legislatura del Honorable Congreso del Estado de Oaxaca, tendrá un plazo improrrogable de ocho meses para realizar las modificaciones correspondientes a la normatividad interna, a partir de la publicación de este Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2580.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES IX Y XII, Y SE ADICIONAN (SIC) UN SEGUNDO PÁRRAFO A LA FRACCIÓN V Y LA FRACCIÓN XIII RECORRIÉNDOSE LA SUBSECUENTE, TODAS DEL ARTÍCULO 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 55 RECORRIÉNDOSE LA SUBSECUENTE; UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, Y UN TERCER PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 61, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
