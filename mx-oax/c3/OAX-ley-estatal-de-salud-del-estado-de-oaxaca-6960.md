@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2020-12-19"
+last_updated: "2021-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -575,15 +575,11 @@ IV.- Otros que se presten de conformidad con lo que establezca el Gobierno del E
 
 Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicas de los usuarios.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 36.
 
-Las cuotas de recuperación que en su caso se recauden por la prestación de Servicios de Salud, se ajustarán a lo que disponga la legislación fiscal del Estado y a los ordenamientos legales que crean La Administración del Patrimonio de la Beneficencia Pública del Estado; y el organismo descentralizado de la administración pública estatal, servicios de salud de Oaxaca. El Gobierno del Estado podrá celebrar convenios de coordinación en la materia con el Ejecutivo Federal.
-
-Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
-
-Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social, conforme a las disposiciones del Gobierno del Estado.
+La prestación de los servicios de salud, los medicamentos y demás insumos asociados deberán ser otorgadas de manera gratuita por el Estado. Para tal efecto, el Gobierno Estatal deberá proveer los recursos necesarios, ya sea por sí o a través de la celebración de convenios con la Federación en los términos de la Ley General de Salud.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3648,3 +3644,11 @@ P.O. 19 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1783.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 71 A LA LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE OAXACA; SE REFORMAN LAS FRACCIONES XXIII Y XXIV Y SE ADICIONAN LAS FRACCIONES XXV y XXVI, RECORRIÉNDOSE LA SUBSECUENTE, AL APARTADO A DEL ARTÍCULO 4 DE LA LEY ESTATAL DE SALUD”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2581.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 36 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Estado de Oaxaca
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango contrarios al presente.
