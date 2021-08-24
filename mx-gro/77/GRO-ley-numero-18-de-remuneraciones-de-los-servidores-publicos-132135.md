@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-18-de-remuneraciones-de-los-servidores-publicos-1321
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-14"
-last_updated: "2018-12-14"
+last_updated: "2021-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 18 DE REMUNERACIONES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL DÍA PRIMERO DE ENERO DEL AÑO DOS MIL DIECINUEVE.]</small>
-
 LEY NÚMERO 18 DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 14 de diciembre de 2018.
 
@@ -257,13 +255,19 @@ LOS CONCEPTOS DESCRITOS EN EL PÁRRAFO PRECEDENTE NO SE HACEN EXTENSIVOS A FAVOR
 
 Las remuneraciones, incluyendo prestaciones o beneficios económicos, establecidas en contratos colectivos de trabajo, contratos ley o condiciones generales de trabajo que por mandato de la ley que regula la relación jurídico laboral se otorgan a los servidores públicos que ocupan puestos de los niveles descritos en el párrafo anterior se fijan en un capítulo específico de dichos instrumentos y se incluyen en los tabuladores respectivos. Tales remuneraciones sólo se mantienen en la medida en que la remuneración total del servidor público no excede los límites máximos previstos en el artículo 127 de la Constitución Federal y el Presupuesto de Egresos del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2021)</small>
+
 ###### Artículo 13.
 
 No se autorizará a ningún servidor público, la contratación con cargo al erario, de seguros privados de separación individualizada o colectiva, gastos médicos o de vida.
 
-Los extitulares del Ejecutivo Estatal únicamente tendrán acceso al seguro de retiro, cesantía en edad avanzada y vejez que otorga la Ley número 912 de Seguridad Social de los Servidores Públicos del Estado de Guerrero, cuando se cumplan con los requisitos previstos en la misma.
+El párrafo anterior aplicará únicamente a aquellos servidores públicos que, sean designados por disposición de Ley, por elección popular o por nombramiento de autoridad competente, para ocupar grados superiores de la estructura orgánica y para asumir funciones de representatividad, iniciativa, decisión y mando.
 
-Se prohíbe y se cancela cualquier otro tipo de pensión que se hubiere creado exprofeso para su beneficio, lo mismo se hará respecto de la asignación de cualquier tipo de servidores públicos, personal civil, cuyos costos sean cubiertos con recursos del Estado o de los Municipios, así como de los bienes muebles o inmuebles que estén a su disposición y formen parte del patrimonio Estatal o Municipal. A partir de que esta Ley entre en vigencia, dichos recursos humanos y materiales se reintegrarán a las dependencias correspondientes.
+Lo dispuesto en el párrafo primero se exceptuará en aquellos casos que se encuentren previamente establecidos como derechos adquiridos en contratos colectivos de trabajo, contratos ley, contratos o condiciones generales de trabajo que por mandato de la ley regulan la relación jurídico laboral y se otorgan a los servidores públicos estatales o municipales.
+
+Los funcionarios públicos podrán disfrutar de este derecho, siempre y cuando sus remuneraciones se mantengan en la medida en que la remuneración total que perciban no exceda los límites máximos previstos en el artículo 127 de la Constitución Federal y el Presupuesto de Egresos del Estado.
+
+Los extitulares del Ejecutivo Estatal únicamente tendrán acceso al seguro de retiro, cesantía en edad avanzada y vejez que otorga la Ley número 912 de Seguridad Social de los Servidores Públicos del Estado de Guerrero, cuando se cumplan con los requisitos previstos en la misma.
 
 ### Capítulo V. Del Comportamiento Austero y Probo de los Servidores Públicos
 
@@ -392,3 +396,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 833 POR EL QUE SE REFORMA EL ARTÍCULO 13 DE LA LEY NÚMERO 18 DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en la página web del Congreso del Estado y divúlguese en los medios de comunicación.
