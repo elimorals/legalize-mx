@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2021-03-27"
+last_updated: "2021-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -1235,6 +1235,14 @@ VII. A los pueblos y comunidades indígenas y afromexicanas.
 
 Toda iniciativa será presentada por escrito. Las iniciativas presentadas por los diputados podrán ser leídas por el promovente para exponer los fundamentos de su proyecto.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2021)</small>
+
+En casos de contingencia sanitaria, por indicaciones de protección civil, seguridad pública o alguna otra circunstancia que impidan ingresar a las instalaciones del Honorable Congreso del Estado, podrá presentarse la iniciativa mediante las herramientas tecnológicas disponibles, como el correo electrónico.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2021)</small>
+
+De manera excepcional, cuando el Congreso suspenda sus actividades presenciales, por razones de salubridad, protección civil, seguridad pública o cualquier otra contingencia que ponga en riesgo la integridad del personal de la legislatura, las iniciativas, podrán presentarse y tramitarse ante el área respectiva, por correo electrónico o cualquier herramienta tecnológica disponible que garantice la eficacia y legalidad del acto, obteniéndose de la misma forma el acuse de recibo respectivo.
+
 Una vez presentada, la iniciativa será turnada a la comisión o comisiones correspondientes para su dictaminación.
 
 ###### ARTÍCULO 56.
@@ -1297,11 +1305,19 @@ Las proposiciones con punto de acuerdo se sujetarán a lo siguiente:
 
 I. Deberán presentarse a través de un escrito fundado, con una propuesta clara de resolutivo y firmada por el o los promoventes;
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2021)</small>
+
+En casos de contingencia sanitaria por indicaciones de protección civil, seguridad pública o alguna otra circunstancia ·que impidan ingresar a las instalaciones del Honorable Congreso del Estado, podrá presentarse el punto de acuerdo mediante las herramientas tecnológicas disponibles, como el correo electrónico.
+
 II. Las proposiciones presentadas por los diputados y las que se registren a nombre de grupo pasaran a comisión;
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
 Las y los diputados podrán exponer los fundamentos de los puntos de acuerdo presentados.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2021)</small>
+
+De manera excepcional las proposiciones podrán ser presentadas en los mismos términos que lo establecido en el párrafo del artículo 55 del presente reglamento.
 
 III. Para presentar una proposición con punto de acuerdo ante Pleno como de urgente y obvia resolución, deberá ser solicitada previamente por el diputado proponente o por la Jucopo mediante acuerdo, salvo aquellas sobre desastres naturales, que se considerarán siempre con este carácter;
 
@@ -2944,3 +2960,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- La Junta de coordinación Política y la Mesa Directiva deberá realizar las acciones necesarias para dar cumplimiento al presente.
+
+P.O. 24 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2580.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES IX Y XII, Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN V Y LA FRACCION XIII RECORRIÉNDOSE LA SUBSECUENTE, TODAS DEL ARTÍCULO 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 55 RECORRIÉNDOSE LA SUBCUECUENTE; UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, Y UN TERCER PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 61 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
