@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2021-06-05"
+last_updated: "2021-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -63,6 +63,10 @@ II. Establecer la coordinación del Estado con los Municipios, para integrar y a
 
 III. Establecer y desarrollar las bases para salvaguardar la integridad y derechos de las personas, así como, preservar el libre tránsito, el orden y la paz pública, comprendiendo la prevención de los delitos, auxiliando en la investigación y persecución para hacerla efectiva, así como, la aplicación de las sanciones por infracciones administrativas, en términos de esta Ley y demás disposiciones normativas aplicables, en las respectivas competencias establecidas en las Constituciones Federal y del Estado.
 
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2021)</small>
+
+IV. Regular el servicio público de arrastre de vehículos, en las vías públicas de competencia estatal, por parte de las y los concesionarios autorizados por parte del titular del poder ejecutivo y/o la Secretaría de Movilidad.
+
 ###### Artículo 3.
 
 Para la aplicación e interpretación de la presente Ley, se entenderá por:
@@ -87,95 +91,99 @@ f) Participar en talleres, exposiciones, muestras culturales, artísticas y/o de
 
 g) Las demás que determine la autoridad correspondiente.
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2021)</small>
 
-II. Banqueta: La porción de vía destinada a la movilidad peatonal para permitir accesos cómodos, seguros y universalmente accesibles, generalmente comprendida entre el arroyo de circulación de vehículos y el alineamiento de las propiedades.
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
-
-III. Bicicleta: Vehículo impulsado directamente por la fuerza humana, que consta de dos o más ruedas alineadas, donde una o más personas se pueden sentar o montar sobre asientos. Se considerará como un medio de transporte cuando se le utilice en la vía pública;
+II. Arrastre: Traslado de un vehículo de un lugar a otro sobre sus propias ruedas o sobre plataforma de grúa;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-IV. Carril bicibus: Es un carril exclusivo para transporte público y bicicletas, con un ancho adecuado para que conductores de autobuses y ciclistas compartan el carril de manera segura. Los vehículos pueden ser de combustión de diésel, gasolina, gas natural o eléctrico, incluso a través de catenarias (en el caso de los trolebuses), pero no deben tener rieles para su rodamiento;
+III. Banqueta: La porción de vía destinada a la movilidad peatonal para permitir accesos cómodos, seguros y universalmente accesibles, generalmente comprendida entre el arroyo de circulación de vehículos y el alineamiento de las propiedades.
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-V. Carril compartido ciclista: El carril compartido ciclista se define como el que está ubicado en la extrema derecha del área de circulación vehicular, con un ancho suficiente para permitir que ciclistas y conductores de vehículos motorizados compartan el espacio de forma segura;
+IV. Bicicleta: Vehículo impulsado directamente por la fuerza humana, que consta de dos o más ruedas alineadas, donde una o más personas se pueden sentar o montar sobre asientos. Se considerará como un medio de transporte cuando se le utilice en la vía pública;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-VI. Carril preferente ciclista: Zona o espacio de la vialidad destinado para el uso compartido de vehículos motorizados o ciclistas donde la preferencia siempre la tendrá la bicicleta;
+V. Carril bicibus: Es un carril exclusivo para transporte público y bicicletas, con un ancho adecuado para que conductores de autobuses y ciclistas compartan el carril de manera segura. Los vehículos pueden ser de combustión de diésel, gasolina, gas natural o eléctrico, incluso a través de catenarias (en el caso de los trolebuses), pero no deben tener rieles para su rodamiento;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-VII. Ciclista: Persona que transita por las vías públicas del Estado y los Municipios a bordo de un vehículo de tracción humana;
+VI. Carril compartido ciclista: El carril compartido ciclista se define como el que está ubicado en la extrema derecha del área de circulación vehicular, con un ancho suficiente para permitir que ciclistas y conductores de vehículos motorizados compartan el espacio de forma segura;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-VIII. Ciclocarril: Carril exclusivo para la circulación ciclista, delimitado con marcas en el pavimento;
+VII. Carril preferente ciclista: Zona o espacio de la vialidad destinado para el uso compartido de vehículos motorizados o ciclistas donde la preferencia siempre la tendrá la bicicleta;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-IX. Ciclovía: Carril de circulación exclusiva para ciclistas, físicamente segregado del tránsito automotor. Puede estar confinado con elementos fijos en el pavimento o semifijos;
-
-X. Conductor: A la persona que conduce un vehículo terrestre en cualquiera de sus modalidades, o que tiene control físico sobre él, cuando éste se encuentra en movimiento;
+VIII. Ciclista: Persona que transita por las vías públicas del Estado y los Municipios a bordo de un vehículo de tracción humana;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XI. Cruce peatonal: Zonas en la vialidad que forman una intersección entre el tránsito vehicular y el peatonal ya sea en un mismo o diferente nivel que su función es obligar a los vehículos a detenerse para permitir el cruce seguro de los peatones exista o no semáforo, generalmente está señalizado por franjas paralelas de color blanco o amarillo;
-
-XII. Delegados Regionales: A los encargados de coordinar las acciones de tránsito, movilidad y vialidad en las regiones del Estado;
-
-XIII. Dispositivos para el control de la vialidad: A los elementos de diversa índole empleados para regular y guiar el tránsito de peatones y vehículos, tales como semáforos, señalizaciones viales, reductores de velocidad, medios electrónicos, instrumentos tecnológicos y otros similares;
-
-XIV. Director: Al Director General de la Policía Vial Estatal de la Secretaría de Seguridad Pública;
+IX. Ciclocarril: Carril exclusivo para la circulación ciclista, delimitado con marcas en el pavimento;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XV. Estacionamiento: Espacio físico o lugar utilizado para detener, custodiar y/o guardar un vehículo por tiempo determinado;
+X. Ciclovía: Carril de circulación exclusiva para ciclistas, físicamente segregado del tránsito automotor. Puede estar confinado con elementos fijos en el pavimento o semifijos;
+
+XI. Conductor: A la persona que conduce un vehículo terrestre en cualquiera de sus modalidades, o que tiene control físico sobre él, cuando éste se encuentra en movimiento;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XVI. Estacionamiento en vía pública: Espacio físico establecido en la vialidad, para detener y desocupar los vehículos, cuando así lo disponga la autoridad se realizará el pago de una tarifa;
+XII. Cruce peatonal: Zonas en la vialidad que forman una intersección entre el tránsito vehicular y el peatonal ya sea en un mismo o diferente nivel que su función es obligar a los vehículos a detenerse para permitir el cruce seguro de los peatones exista o no semáforo, generalmente está señalizado por franjas paralelas de color blanco o amarillo;
+
+XIII. Delegados Regionales: A los encargados de coordinar las acciones de tránsito, movilidad y vialidad en las regiones del Estado;
+
+XIV. Dispositivos para el control de la vialidad: A los elementos de diversa índole empleados para regular y guiar el tránsito de peatones y vehículos, tales como semáforos, señalizaciones viales, reductores de velocidad, medios electrónicos, instrumentos tecnológicos y otros similares;
+
+XV. Director: Al Director General de la Policía Vial Estatal de la Secretaría de Seguridad Pública;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XVII. Estacionamiento público: Espacio físico para satisfacer las necesidades del público en general para el resguardo mediante el pago de una tarifa;
-
-XVIII. Estado de ebriedad: Cuando los conductores o peatones tengan una cantidad superior a 0.8 gramos por litro de alcohol en la sangre o una cantidad superior a 0.4 miligramos por litro de alcohol en aire espirado;
-
-XIX. Encierro: Al lugar autorizado, propiedad del Gobierno del Estado o de un particular concesionado, para resguardar los vehículos asegurados por la autoridad competente;
-
-XX. Grúa: Al servicio motorizado para el traslado de vehículos;
-
-XXI. Ley: A la Ley de Tránsito y Vialidad del Estado de Oaxaca;
-
-XXII. Licencia: Al Documento expedido por la Secretaría de Movilidad, que autoriza a personas a conducir un vehículo;
-
-XXIII. Pasajero: A la persona distinta al conductor que viaja a bordo de un vehículo;
-
-XXIV. Peatón: A la persona que transita a pie por la vía pública;
-
-XXV. Policía Vial Estatal: A los elementos dependientes o adscritos a la Dirección General de la Policía Vial Estatal, de la Secretaría de Seguridad Pública;
-
-XXVI. Reglamento: Al Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca;
+XVI. Estacionamiento: Espacio físico o lugar utilizado para detener, custodiar y/o guardar un vehículo por tiempo determinado;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XXVII. Sistema Citybus: El Organismo público descentralizado, denominado Sistema de Transporte Colectivo Metropolitano Citybus Oaxaca;
+XVII. Estacionamiento en vía pública: Espacio físico establecido en la vialidad, para detener y desocupar los vehículos, cuando así lo disponga la autoridad se realizará el pago de una tarifa;
 
-XXVIII. Secretaría: A la Secretaría de Seguridad Pública del Estado;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-XXIX. Tránsito: Al movimiento de vehículos o peatones, que se desplazan sobre una vialidad;
+XVIII. Estacionamiento público: Espacio físico para satisfacer las necesidades del público en general para el resguardo mediante el pago de una tarifa;
 
-XXX. UMA: A la Unidad de Medida y Actualización que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes. Establecida por el Instituto Nacional de Estadística y Geografía;
+XIX. Estado de ebriedad: Cuando los conductores o peatones tengan una cantidad superior a 0.8 gramos por litro de alcohol en la sangre o una cantidad superior a 0.4 miligramos por litro de alcohol en aire espirado;
 
-XXXI. Vialidad: Al conjunto de Servicios pertenecientes a las vías públicas, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos;
+XX. Encierro: Al lugar autorizado, propiedad del Gobierno del Estado o de un particular concesionado, para resguardar los vehículos asegurados por la autoridad competente;
 
-XXXII. Vehículo: Todo medio de transporte, de personas, carga o mixto, motorizado o eléctrico, de tracción humana o animal, autorizado por el Estado para circular en vía pública, y
+XXI. Grúa: Al servicio motorizado para el traslado de vehículos;
 
-XXXIII. Vía Pública: Todo espacio de dominio público y de uso común destinado al tránsito de personas y vehículos.
+XXII. Ley: A la Ley de Tránsito y Vialidad del Estado de Oaxaca;
+
+XXIII. Licencia: Al Documento expedido por la Secretaría de Movilidad, que autoriza a personas a conducir un vehículo;
+
+XXIV. Pasajero: A la persona distinta al conductor que viaja a bordo de un vehículo;
+
+XXV. Peatón: A la persona que transita a pie por la vía pública;
+
+XXVI. Policía Vial Estatal: A los elementos dependientes o adscritos a la Dirección General de la Policía Vial Estatal, de la Secretaría de Seguridad Pública;
+
+XXVII. Reglamento: Al Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+
+XXVIII. Sistema Citybus: El Organismo público descentralizado, denominado Sistema de Transporte Colectivo Metropolitano Citybus Oaxaca;
+
+XXIX. Secretaría: A la Secretaría de Seguridad Pública del Estado;
+
+XXX. Tránsito: Al movimiento de vehículos o peatones, que se desplazan sobre una vialidad;
+
+XXXI. UMA: A la Unidad de Medida y Actualización que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes. Establecida por el Instituto Nacional de Estadística y Geografía;
+
+XXXII. Vialidad: Al conjunto de Servicios pertenecientes a las vías públicas, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos;
+
+XXXIII. Vehículo: Todo medio de transporte, de personas, carga o mixto, motorizado o eléctrico, de tracción humana o animal, autorizado por el Estado para circular en vía pública, y
+
+XXXIV. Vía Pública: Todo espacio de dominio público y de uso común destinado al tránsito de personas y vehículos.
 
 ###### Artículo 4.
 
@@ -701,6 +709,22 @@ Los conductores deberán obedecer los dispositivos para el control de vialidad, 
 
 Las licencias de conducir expedidas en otro país, que se encuentren vigentes, y sean utilizadas en el Territorio Nacional, serán válidas y admitidas para conducir en el Estado de Oaxaca, durante la permanencia, conforme a las disposiciones internacionales sobre la materia.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2021)</small>
+
+###### Artículo 35 Bis.
+
+Son derechos de los concesionarios del servicio público de arrastre vehicular:
+
+I. Cobrar, a quienes acrediten interés legítimo sobre los vehículos, la tarifa autorizada por la Secretaría, por la prestación del servicio;
+
+II. Proponer, la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio;
+
+III. Estar autorizado para prestar este servicio público de conformidad con la Ley de Movilidad para el Estado de Oaxaca y su Reglamento;
+
+IV. El servicio que presta será auxiliar, del servicio público de encierros y arrastres de vehículos, y;
+
+V. Los demás que le otorgue la presente Ley y su Reglamento, la Ley de Encierros y Depósitos de Vehículos para el Estado de Oaxaca y su Reglamento, y la Ley de Movilidad para el Estado de Oaxaca y su Reglamento.
+
 ### CAPÍTULO V. DE LOS VEHICULOS Y PROHIBICIONES
 
 ###### Artículo 36.
@@ -1141,13 +1165,79 @@ Si con motivo de la detención, arrastre o encierro del vehículo este sufriera 
 
 La Dirección General de la Policía Vial Estatal deberá establecer los procedimientos para garantizar el estado que guarda el vehículo y las pertenencias, accesorios o bienes con que cuente al momento del encierro, arrastre o detención.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2021)</small>
+
+### CAPÍTULO XII BIS. DEL SERVICIO PÚBLICO DE ARRASTRE VEHICULAR
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE AGOSTO DE 2021)</small>
+
+#### SECCIÓN PRIMERA. CONDICIONES DEL SERVICIO
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2021)</small>
+
+###### Artículo 88 Bis.
+
+El servicio público de arrastre vehicular corresponde originariamente al Estado, quien podrá prestarlo, por sí mismo o a través de terceros, en cuyo caso otorgará la concesión que corresponda en términos de la Ley de movilidad para el Estado de Oaxaca y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2021)</small>
+
+###### Artículo 88 Ter.
+
+En los municipios que cuenten con dos o más concesionarios autorizados para prestar el servicio de arrastre vehicular, se dará prioridad al establecimiento que esté más cerca de la ubicación del vehículo sobre el que se realiza el servicio.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2021)</small>
+
+###### Artículo 88 Quáter.
+
+Para las operaciones de arrastre de vehículos en el Estado de Oaxaca, se estará a lo que disponga la presente Ley y su Reglamento, las leyes federales y estatales correspondientes, así como las normas oficiales mexicanas y las normas técnicas complementarias emitidas por las autoridades estatales para tal efecto.
+
+Para prestar el servicio público de arrastre, las autoridades correspondientes o los concesionarios, deberán contar con una Póliza de Seguro por Responsabilidad Civil amplio que ampare el robo, o daños que pudiera sufrir el vehículo durante su traslado.
+
+Los vehículos destinados para prestar el servicio de arrastre deberán contar con una antigüedad no mayor a diez años, a partir de su fabricación, o estar autorizado (sic) en los términos de la Ley de Movilidad para el Estado de Oaxaca y su Reglamento.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE AGOSTO DE 2021)</small>
+
+#### SECCIÓN SEGUNDA. DE LA PRESTACIÓN DEL SERVICIO DE ARRATRE (SIC)
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2021)</small>
+
+###### Artículo 88 Quinquies.
+
+Al efectuar el arrastre vehicular, la autoridad y el concesionario estarán obligados a elaborar un reporte de servicio, que de ser posible firme el propietario y/o conductor, o si estuviese ausente dos testigos o en su defecto fotografías de la unidad; que proporcionará en copia al propietario y/o conductor del vehículo y que contendrá como mínimo lo siguiente:
+
+I. Fecha y hora de servicio al vehículo;
+
+II. Número de serie y placas de circulación de la grúa que realice el traslado del vehículo;
+
+III. Las características generales del vehículo, indicando cuando menos:
+
+a) Marca y tipo.
+
+b) Año del modelo.
+
+c) Color.
+
+d) Número de motor.
+
+e) Número de serie, y;
+
+f) Número de placas de circulación o del permiso provisional para circular, si los portara;
+
+IV. Descripción del estado físico interior y exterior del vehículo, incluyendo cofre, cajuela, cabina y áreas accesorias de la unidad;
+
+V. Ubicación donde se presta el servicio;
+
+VI. En su caso, el nombre y cargo del servidor público que pone el vehículo a disposición y motivo de retención;
+
+VII. Desglose, por conceptos del cobro de servicios; y
+
+VIII. Número de folio que permita individualizar e identificar el reporte.
+
+La Secretaría deberá elaborar formatos específicos para el reporte a que se refiere este artículo, cuyo uso, en este caso, es obligatorio para los concesionarios.
+
+Durante la realización de las maniobras necesarias para el arrastre de vehículos, que deban de ser trasladados, el concesionario deberá establecer la señalización preventiva necesaria mediante abanderamiento manual o a través de cualquier artefacto luminoso, que permita advertir a los usuarios de las calles, caminos y puentes, sobre la presencia de vehículos para arrastre.
+
 ### CAPÍTULO XIII. DE LA CULTURA Y EDUCACIÓN VIAL
-
-#### SECCIÓN PRIMERA. DE LAS SANCIONES
-
-#### SECCIÓN SEGUNDA. EJECUCIÓN DE LA SANCIÓN
-
-### CAPÍTULO XIV. DE LAS SANCIONES, EJECUCIÓN Y RECURSOS
 
 ###### Artículo 89.
 
@@ -1179,9 +1269,9 @@ VIII. Promover una relación digna, honesta y respetuosa, entre la ciudadanía y
 
 IX. Llevar a cabo todas las acciones en beneficio y enriquecimiento de los principios de la educación vial, señalados en la normatividad aplicable.
 
-#### SECCIÓN TERCERA. DEL RECURSO ADMINISTRATIVO
+### CAPÍTULO XIV. DE LAS SANCIONES, EJECUCIÓN Y RECURSOS
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
+#### SECCIÓN PRIMERA. DE LAS SANCIONES
 
 ###### Artículo 92.
 
@@ -1277,6 +1367,8 @@ Las infracciones en materia de tránsito y vialidad, serán sancionadas administ
 
 Se considera reincidencia el haber cometido más de una falta a las normas de tránsito y vialidad en un periodo de ciento ochenta días, de conformidad con lo establecido en esta Ley y su Reglamento.
 
+#### SECCIÓN SEGUNDA. EJECUCIÓN DE LA SANCIÓN
+
 ###### Artículo 99.
 
 La ejecución de las sanciones económicas que se impongan por violación a las normas de la presente Ley y su Reglamento, estarán a cargo de la Secretaría de Finanzas del Poder Ejecutivo del Estado, y prescribirán en cinco años, en términos del Código Fiscal para el Estado de Oaxaca.
@@ -1284,6 +1376,10 @@ La ejecución de las sanciones económicas que se impongan por violación a las 
 ###### Artículo 100.
 
 La Secretaría de Finanzas del Poder Ejecutivo del Estado, adoptará las medidas indispensables para facilitar el pago, el recaudo de las multas y demás derechos establecidos a su favor.
+
+#### SECCIÓN TERCERA. DEL RECURSO ADMINISTRATIVO
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
 
 ###### Artículo 101.
 
@@ -1482,3 +1578,11 @@ P.O. 5 DE JUNIO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- En un plazo de 90 días naturales contados a partir de la fecha de entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado de Oaxaca, expedirá el Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca, que permita la plena ejecución del presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2579.- MEDIANTE EL CUAL ADICIONAN, LA FRACCIÓN IV AL ARTÍCULO 2, LA FRACCIÓN II RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 3; EL ARTÍCULO 35 BIS; Y EL CAPÍTULO XII BIS "DEL SERVICIO PÚBLICO DE ARRASTRE VEHICULAR" QUE SE CONFORMA DE LA SECCIÓN PRIMERA, "CONDICIONES DEL SERVICIO", QUE COMPRENDE LOS ARTÍCULOS 88 BIS, 88 TER Y 88 QUÁTER, Y DE LA SECCIÓN SEGUNDA, "DE LA PRESTACIÓN DEL SERVICIO DE ARRASTRE", QUE COMPRENDE EL ARTÍCULO 88 QUINQUIES, A LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. Publíquese este Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. En un plazo de 90 días naturales contados a partir de la fecha de entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado de Oaxaca, expedirá el Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca.
