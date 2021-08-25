@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2021-08-06"
+last_updated: "2021-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,47 +21,33 @@ state: "NLE"
 ---
 # CODIGO PENAL PARA EL ESTADO DE NUEVO LEON
 
-CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1934.
+CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2021.
 
-JOSE MORANTE, Gobernador Provisional del Estado libre y soberano de Tamaulipas, a todos sus habitantes, sabed:
+Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
-Que el H. Congreso del Estado ha decretado lo siguiente:
+EL CIUDADANO LIC. JORGE A. TREVIÑO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
 
-"La XXVII Legislatura del Estado con su carácter de Constituyente, ha tenido a bien expedir la siguiente
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
-CONSTITUCION POLITICA
+D E C R E T O
 
-DEL
+NÚM. 94
 
-ESTADO DE TAMAULIPAS
+CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN
 
 # LIBRO PRIMERO. PARTE GENERAL
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
-## TITULO I. DEL ESTADO Y SUS HABITANTES
+## TITULO PRIMERO. DE LOS AMBITOS DE VALIDEZ DE LA LEY PENAL
 
-### CAPITULO I. Condición Política y Territorio
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
-###### Art. 1o.
-
-El Estado de Tamaulipas es libre, soberano e independiente en cuanto a su Gobierno y administración interiores; pero está ligado a los Poderes de la Unión como parte integrante de los Estados Unidos Mexicanos, en todo aquello que fija expresamente la Constitución General y las leyes que de ella emanan.
-
-###### Art. 2o.
-
-El territorio del Estado comprende la antigua Provincia llamada Nuevo Santander, con las limitaciones que le hizo el Tratado de Guadalupe.
-
-###### Art. 3o.
-
-El Estado se divide en Distritos Electorales, Distritos Judiciales y Municipios. Las leyes secundarias respectivas determinarán la extensión de cada Distrito y la organización del Municipio conforme a las bases que la Constitución General establece.
-
-###### Art. 4o.
-
-El Estado adopta para su régimen interior la forma de Gobierno Republicano, Representativo y Popular, teniendo como base de su organización política y administrativa el Municipio Libre, en los términos que establezca la Ley Orgánica Municipal.
+### CAPITULO I. APLICACION DE LA LEY PENAL EN EL AMBITO ESPACIAL
 
 ###### ARTICULO 1.
 
@@ -91,17 +77,9 @@ LA SENTENCIA PENAL ABSOLUTORIA, PRONUNCIADA EN EL EXTRANJERO Y EN LAS DISTINTAS 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
-### CAPITULO II. De los tamaulipecos
+### CAPITULO II. APLICACION DE LA LEY PENAL EN EL AMBITO TEMPORAL
 
-###### Art. 5o.
-
-Son tamaulipecos:
-
-I. Los mexicanos nacidos dentro del territorio del Estado.
-
-II. Los mexicanos que adquieran vecindad en cualquier lugar del Estado, si no manifiestan ante la autoridad municipal respectiva su deseo de conservar su anterior origen.
-
-III. Los hijos de padres tamaulipecos nacidos fuera del territorio del Estado y que al llegar a la mayor edad manifiesten al Congreso Local su deseo de tener la condición de tamaulipecos.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 7.
 
@@ -133,73 +111,9 @@ TRATANDOSE DE MEDIDAS DE SEGURIDAD IMPUESTAS COMO CONSECUENCIAS JURIDICAS DEL DE
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
-### CAPITULO III. De los Ciudadanos
+### CAPITULO III. APLICACION DE LA LEY PENAL EN EL AMBITO PERSONAL
 
-###### Art. 6o.
-
-Son ciudadanos del Estado los tamaulipecos de diez y ocho años de edad, si son casados o viudos, y los de veintiuno cualquiera que sea su estado civil, siempre que unos y otros tengan un modo honesto de vivir.
-
-###### Art. 7o.
-
-Son derechos de los ciudadanos tamaulipecos:
-
-I. Sufragar en todas las elecciones de autoridades del Estado y de su respectiva Municipalidad.
-
-II. Poder ser electos para todos los cargos públicos, siempre que reúnan las condiciones que en cada caso exija la ley.
-
-III. Ser nombrado para cualquier empleo o comisión oficiales, en la forma y términos que prescriben las leyes, con preferencia en igualdad de circunstancias a los que no fueren tamaulipecos.
-
-IV. Reunirse para tratar y discutir los negocios públicos.
-
-V. Ejercer en materias políticas el derecho de petición.
-
-###### Art. 8o.
-
-Son obligaciones de los ciudadanos del Estado:
-
-I. Votar en las elecciones populares en la forma que disponga la ley.
-
-II. Desempeñar los cargos de elección popular y los concejiles para que fuere nombrado conforme a la ley, salvo excusa legítima.
-
-III. Alistarse en la Guardia Nacional.
-
-IV. Alistarse en los Cuerpos de Policía Rural del Estado para defender su territorio y su soberanía, y para sostener su Constitución, sus leyes y autoridad.
-
-V. Inscribirse en el Padrón de su Municipalidad, manifestando la propiedad que tiene, o la industria, profesión o trabajo de que subsiste.
-
-###### Art. 9o.
-
-Los derechos de ciudadanos tamaulipecos se suspenden:
-
-I. Por incapacidad declarada legalmente.
-
-II. Por estar procesado. La suspensión produce efectos desde el momento en que se notifique el auto de formal prisión o desde que se declare que hay lugar para la formación de causa, tratándose de funcionarios que gocen de fuero constitucional.
-
-III. Por falta de cumplimiento sin causa justificada, de las obligaciones impuestas por el artículo anterior. Esta suspensión durará un año y se impondrá sin perjuicio de las otras penas que para la misma falta señale la ley .
-
-IV. Por sentencia judicial.
-
-V. Por ser vago, ebrio consuetudinario o tahur de profesión.
-
-VI. En los casos de suspensión de la ciudadanía mexicana.
-
-###### Art. 10.
-
-Los derechos de ciudadano tamaulipeco se pierden:
-
-I. En los casos de pérdida de la ciudadanía mexicana.
-
-II. Por adquirir la ciudadanía de otro Estado, salvo cuando sea concedida a título honorífico.
-
-III. Por sentencia judicial.
-
-###### Art. 11.
-
-La calidad de ciudadano se recobra por haber cesado la causa que dio motivo a la suspensión.
-
-###### Art. 12.
-
-Las leyes determinarán a qué autoridad corresponde decretar la suspensión, pérdida o recuperación de los derechos de los ciudadanos, y en qué términos y con qué requisitos ha de dictarse el fallo respectivo y el tiempo que debe durar la pena.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 12.
 
@@ -207,31 +121,11 @@ LA LEY PENAL EN EL ESTADO DE NUEVO LEON SE APLICARA A TODAS LAS PERSONAS A PARTI
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
-## TITULO II. De la soberanía del Estado
+## TITULO SEGUNDO. DEL DELITO
 
-### CAPITULO IV. De los vecinos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
-###### Art. 13.
-
-Son vecinos los que residen de una manera habitual y constante en el territorio del Estado durante seis meses, ejerciendo alguna profesión, arte, oficio o industria, o durante dos si adquieren bienes raíces.
-
-###### Art. 14.
-
-La vecindad se pierde:
-
-I. Por dejar de residir habitualmente más de seis meses dentro de su territorio.
-
-II. Desde el momento de separarse del territorio del Estado, siempre que se manifieste que va a cambiarse de residencia, o que de cualquier otro modo se pruebe la intención de cambiarla.
-
-###### Art. 15.
-
-La vecindad no se pierde:
-
-I. Por ausencia en virtud de comisión del servicio público de la Federación, del Estado o de algún Municipio de este.
-
-II. Por ausencia con motivo de persecuciones políticas, si el hecho que las origina no implica al mismo tiempo la comisión de un delito del orden común.
-
-III. Por ausencia con ocasión de estudios o comisiones científicas o artísticas.
+### CAPITULO I. DE LA FORMA, TIEMPO Y LUGAR DEL DELITO
 
 ###### ARTICULO 13.
 
@@ -267,57 +161,47 @@ NO HABRA CONDUCTA DELICTIVA PARA EL QUE OBRA IMPULSADO POR UNA FUERZA FISICA EXT
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
-### CAPITULO V. De los habitantes
+### CAPITULO I BIS. DELITOS GRAVES
 
-###### Art. 16.
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
-Son habitantes del Estado todas las personas que residen en su territorio, sea cual fuere su estado y condición.
+ARTICULO 16 BIS.- PARA TODOS LOS EFECTOS LEGALES SE CALIFICAN COMO DELITOS GRAVES CONSIGNADOS EN ESTE CODIGO:
 
-###### Art. 17.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-El Estado reconoce a sus habitantes:
+I.- LOS CASOS PREVISTOS EN LOS ARTICULOS 66, PRIMER PARRAFO; 150; 151; 152; 153; 154; 158; 159; 160; 163; 164; 165; 165 BIS; 166 FRACCIONES III Y IV; 172 ULTIMO PARRAFO; 176; 176 BIS; 181 BIS 1; 183; 191; 192; 196; 197; 197 BIS; 201 BIS; 201 BIS 2; 203 SEGUNDO PARRAFO; 204; 208 ULTIMO PARRAFO; 211; 212 FRACCION II; 214 BIS; 216 FRACCIONES II Y III; 216 BIS ULTIMO PARRAFO; 218 FRACCION III; 222 BIS CUARTO PARRAFO; 223 BIS; 225; 226 BIS; 240; 241; 242; 242 BIS; 243; 245; 250 SEGUNDO PARRAFO; 265; 266; 267; 268; 271 BIS 3; 298; 299; 303 FRACCION III; 312; 313; 313 BIS 1; 315; 318; 320 PARRAFO PRIMERO; 321 BIS; 321 BIS 1; 321 BIS 3; 322; 325; 329 ULTIMA PARTE; 331 BIS 2; 355 SEGUNDO PARRAFO; 358 BIS 4; 363 BIS 4 FRACCIONES I Y II; 365 FRACCION VI; 365 BIS; 365 BIS I; 367 FRACCION III; 371; 374 FRACCION X; 374 ULTIMO PARRAFO; 377 FRACCION III; 379 SEGUNDO PARRAFO; 387; 395; 401; 403; 406 BIS; 431. TAMBIEN LOS GRADOS DE TENTATIVA EN AQUELLOS CASOS, DE LOS ANTES MENCIONADOS, EN QUE LA PENA A APLICAR EXCEDA DE CINCO AÑOS EN SU TERMINO MEDIO ARITMETICO;
 
-I. La inviolabilidad de la propiedad, la cual no podrá ser ocupada sino por causa de utilidad pública y previa indemnización.
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-II. La libertad de asociarse o reunirse con cualquier objeto lícito, pero en asuntos políticos es exclusiva de los ciudadanos tamaulipecos en los términos que establece la Constitución General de la República.
+II.- EL CASO PREVISTO EN EL SEGUNDO PARRAFO DEL ARTICULO 66, CUANDO SE PRODUZCAN UNA O MAS MUERTES Y EL RESPONSABLE CONDUJERA UN VEHICULO DE MOTOR, EN ESTADO DE VOLUNTARIA INTOXICACION POR ALCOHOL, ESTUPEFACIENTES, PSICOTROPICOS O SUSTANCIAS QUE PRODUZCAN EFECTOS SIMILARES O SE AUSENTE DEL LUGAR DE LOS HECHOS SIN PRESENTARSE ANTE LA AUTORIDAD INVESTIGADORA DENTRO DEL TERMINO DE TRES HORAS A PARTIR DE SUSCITADO EL HECHO Y NO JUSTIFIQUE SU AUSENCIA DEL LUGAR
 
-III. Los derechos que la Constitución General expresa bajo el título de "Garantías Individuales".
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-###### Art. 18.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
-Todos los habitantes del Estado están obligados:
+PARA EFECTOS DE DETERMINAR SI EXISTE CAUSA JUSTIFICADA, SE ESTARA A LO DISPUESTO POR EL ARTICULO 30 DE ESTE CODIGO.
 
-I. A respetar y cumplir las leyes, disposiciones y reglamentos expedidos por autoridad legítima con arreglo a sus facultades legales. Nadie podrá, para sustraerse de propia autoridad a la observancia de los preceptos legales, alegar que los ignora, que son notoriamente injustos o que pugnan con sus opiniones.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-II. A contribuir para todos los gastos públicos de la manera proporcional y equitativa que dispongan las leyes, quedando en todo caso prohibidos los impuestos de carácter meramente personal.
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
-III. A prestar auxilio a las autoridades, cuando para ello sean legalmente requeridos.
+III.- EL CASO PREVISTO EN EL ARTICULO 374 FRACCION XI;
 
-IV. A recibir la educación primaria elemental en la forma prevenida por las leyes y conforme los reglamento y programas que de acuerdo con ellos se expidiere por el Ejecutivo.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2010)</small>
 
-V. Hacer que sus hijos, pupilos y menores, que por cualquier título tengan a su cuidado, reciban la educación primaria con arreglo a lo prescripto en la fracción anterior.
+IV.- LOS DELITOS TIPIFICADOS EN LEYES ESPECIALES DEL ESTADO, CUANDO LA PENA MAXIMA EXCEDA DE OCHO AÑOS DE PRISION;
 
-VI. Asistir los días y horas designados por el Ayuntamiento del Municipio en que residan, para recibir la instrucción cívica y militar que los mantenga aptos en el ejercicio de todos sus derechos de ciudadano, y diestros en el manejo de las armas y conocedores de la disciplina militar.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2010)</small>
 
-VII. Tomar las armas en defensa del pueblo en que vivan cuanto este fuere amagado por partidas de malhechores, acatando las disposiciones que al efecto emanen de la autoridad local.
+V.- EN LOS CASOS PREVISTOS EN LOS ARTICULOS 306 BIS 2 Y 306 BIS 3 FRACCIONES I Y II SALVO LO DISPUESTO EN EL ARTICULO 307. TAMBIEN SERA CONSIDERADO GRAVE EL CASO ESTABLECIDO EN EL ARTICULO 306 BIS 3 FRACCION III; O
 
-###### Art. 19.
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2010)</small>
 
-A nadie podrá obligársele a que pague un impuesto que no haya sido previamente decretado por el Congreso.
+VI.- LOS CASOS PREVISTOS EN EL ARTICULO 374 FRACCION I, CUANDO EL IMPUTADO HUBIERE SIDO SENTENCIADO EN UN PERIODO DE CINCO AÑOS ANTERIORES A LA CONDUCTA QUE SE LE IMPUTA, O BIEN HUBIERE SIDO SUJETO DE UNA O MAS AVERIGUACIONES O DE UNO O MAS PROCESOS POR LOS DELITOS CONTEMPLADOS EN LOS CAPITULOS I Y II DEL TITULO DECIMO NOVENO DE ESTE CODIGO, SIEMPRE Y CUANDO NO EXISTA A SU FAVOR SENTENCIA ABSOLUTORIA O INEJERCICIO DE LA ACCION PENAL.
 
-### CAPITULO UNICO
+### CAPITULO II. CAUSAS DE JUSTIFICACION
 
-###### Art. 20.
-
-La soberanía del Estado reside en el pueblo, y a nombre de este la ejerce el Poder Público del modo y en los términos que establece esta Constitución y la General de la República. El Estado no reconoce en los Poderes Supremos de la Unión ni en otro alguno, derecho para pactar o convenir entre ellos o con Nación extraña, aquello que lesione la integridad de su territorio, su nacionalidad, soberanía, libertad e independencia, salvo el caso a que se refiere la fracción III del artículo 73 de la Constitución General de la República.
-
-###### Art. 21.
-
-El Estado adopta la forma de Gobierno establecida en el artículo 4º de esta Constitución.
-
-###### Art. 22.
-
-El Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más poderes en una Corporación o persona, ni depositarse el Legislativo en un solo individuo.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 20 DE ENERO DE 2020)</small>
 
 ###### ARTICULO 17.
 
@@ -389,15 +273,9 @@ EN LOS CASOS DE EXCESO DE LEGITIMA DEFENSA, SE APLICARA UNA SANCION NO MENOR DE 
 
 LAS CAUSAS DE JUSTIFICACION SE HARAN VALER DE OFICIO.
 
-### CAPITULO UNICO. De la residencia de los Poderes
+### CAPITULO III. INIMPUTABILIDAD
 
-###### Art. 23.
-
-Los Poderes del Estado residirán en Ciudad Victoria.
-
-###### Art. 24.
-
-La residencia de los Poderes únicamente podrá cambiarse por resolución del Congreso, aprobada por las dos terceras partes de sus miembros presentes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 22.
 
@@ -425,95 +303,7 @@ SE EQUIPARA AL ESTADO DE NECESIDAD, LA SITUACION EN QUE, TRATANDO DE ESCAPAR DE 
 
 SI EL PROCESADO PADECIERE UN ESTADO DE PSICOSIS O RETRASO MENTAL DURANTE EL PROCEDIMIENTO, SE ESTARA A LO DISPUESTO EN EL TITULO DECIMO DEL CODIGO DE PROCEDIMIENTOS PENALES.
 
-### CAPITULO I. De la organización del Congreso
-
-###### Art. 25.
-
-El ejercicio de las funciones propias del Poder Legislativo, se encomienda a una asamblea que se denominará: "Congreso del Estado libre y soberano de Tamaulipas."
-
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
-
-###### Art. 26.
-
-El Congreso se compondrá de siete Diputados propietarios, por cada Diputado Propietario se elegirá un suplente.
-
-###### Art. 27.
-
-La elección de Diputados será directa y se verificará en los términos que disponga la Ley Electoral.
-
-(REFORMADO, P.O. 29 DE AGOSTO DE 1934) (REPUBLICADO, P.O. 29 DE AGOSTO DE 1934)
-
-ART. 28.- Para ser Diputado Propietario o Suplente, se requiere:
-
-I.- Ser ciudadano del Estado en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años.
-
-II.- Poseer suficiente instrucción.
-
-(REFORMADO, P.O. 29 DE AGOSTO DE 1934) (REPUBLICADO, P.O. 29 DE AGOSTO DE 1934)
-
-ART. 29.- No podrán ser electos Diputados:
-
-I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia y el Procurador de Justicia.
-
-II.- Los Diputados y Senadores al Congreso de la Unión, que hubieren estado en ejercicio, sí no han transcurrido por lo menos dos años, contados desde la fecha en que conforme a la Ley haya terminado el período para el cual fueron electos.
-
-III.- Los Magistrados, Jueces y Empleados de la Federación en el Estado.
-
-IV.- Los Militares que hayan estado en servicio dentro de los diez meses anteriores a la fecha de la elección.
-
-V.- Los que hayan sido condenados por algún delito contra la propiedad o grave contra las personas.
-
-VI.- Los Ministros de cualquier culto, estén o no en ejercicio.
-
-VII.- Los Presidentes Municipales si han estado desempeñando sus funciones dentro de los diez meses anteriores al día de la elección.
-
-VIII.- Los Secretarios de Ayuntamiento, los Jueces y empleados del Estado y Municipales, todos ellos en su circunscripción, si estuvieren en ejercicio dentro de los cuatro meses anteriores a la elección.
-
-IX.- Nunca podrán ser electos los que alguna vez hubieren desempeñado el cargo de Diputados al Congreso Local.
-
-Esta prohibición no comprende a los Suplentes.
-
-###### Art. 30.
-
-Los Diputados propietarios, desde el día de su elección y los suplentes en ejercicio, no pueden aceptar sin permiso del Congreso, empleo alguno de la Federación, del Estado o de los Municipios, por el cual se disfrute sueldo, excepto en el Ramo de Instrucción. Satisfecha esta condición y sólo en los casos en que sea necesaria, el Diputado quedará suspenso en sus funciones de representante del pueblo por todo el tiempo que desempeñe la nueva comisión o empleo. Las mismas disposiciones rigen respecto a los Diputados suplentes en ejercicio.
-
-###### Art. 31.
-
-Los Diputados son inviolables por las opiniones que manifiesten en el ejercicio de su encargo.
-
-###### Art. 32.
-
-Los Diputados propietarios, desde el día de su elección y los suplentes cuando estén ejerciendo sus funciones, no podrán ser procesados por delitos comunes ni oficiales, sin que proceda la declaración del Congreso de haber lugar a formación de causa.
-
-###### Art. 33.
-
-Si un individuo fuere electo por dos o más Distritos, subsistirá la elección de su vecindad; si no fuere vecino de alguno de ellos, subsistirá la de su origen; y si no fuere natural de ninguno de ellos, queda a su arbitrio concurrir al Congreso por el Distrito que quisiere.
-
-###### Art. 34.
-
-En estos casos y en el de muerte o imposibilidad calificada de los Diputados propietarios, concurrirán los suplentes respectivos.
-
-###### Art. 35.
-
-Por muerte o imposibilidad calificada del Diputado propietario y del suplente de un mismo Distrito, el Congreso dispondrá que se haga nueva elección.
-
-###### Art. 36.
-
-Entre tanto se verifique esta y si no pudiere integrarse el quorum legal, la Junta de Diputados llamará al suplente que a su juicio pueda concurrir con más prontitud, cesando este tan luego como se presente otro Diputado que complete el quorum.
-
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
-
-###### Art. 37.
-
-La Legislatura requiere para el ejercicio de sus funciones la asistencia de cinco diputados por lo menos. No habiendo la mayoría referida, los Diputados que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes, con la advertencia de que si no lo hacen ni acreditan debidamente ante el Congreso, dentro del mismo término, que fuerza mayor, caso fortuito u otra causa los imposibilita, se entenderá por ese sólo hecho que renuncian el cargo y se convocará a nueva elección. Entre tanto transcurran los treinta días concedidos a los Diputados Propietarios, serán citados los suplentes respectivos para integrar el quorum, y si fenece el mencionado término sin obtenerse la comparecencia de los suplentes, se llamará nuevamente a estos con el apercibimiento de declarar vacante el cargo si no concurren dentro de quince días, convocándose a elecciones para cubrir la vacante.
-
-###### Art. 38.
-
-Los Diputados pueden faltar a cinco sesiones consecutivas con simple aviso, y sólo con licencia concedida por el Congreso a mayor número de sesiones. El Diputado que no observe las formalidades prescriptas (sic), se presume que falta sin causa justificada y no se le admitirá prueba en contrario; además perderá el derecho de asistir al período respectivo de sesiones, si no se desintegrare el quorum por su falta, cuando deje de concurrir a treinta sesiones consecutivas.
-
-###### Art. 39.
-
-Los Diputados que no concurran a una sesión sin causa justificada, no tendrán derecho a la dieta correspondiente.
+### CAPITULO IV. CULPABILIDAD
 
 ###### ARTICULO 26.
 
@@ -535,101 +325,7 @@ OBRA CON CULPA QUIEN REALIZA EL HECHO LEGALMENTE DESCRITO, POR INOBSERVANCIA DEL
 
 OBRA PRETERINTENCIONALMENTE, CUANDO POR LA FORMA Y MEDIO DE EJECUCION SE ACREDITE PLENAMENTE QUE EL RESULTADO EXCEDIO EL PROPOSITO DEL ACTIVO; EN ESTE CASO PODRA DISMINUIRSE LA PENA HASTA LAS DOS TERCERAS PARTES DE LA SANCION A IMPONER POR EL DELITO COMETIDO.
 
-### CAPITULO II. De la instalación y labores del Congreso
-
-###### Art. 40.
-
-El Congreso se renovará en su totalidad cada dos años, y se reunirá para celebrar sus sesiones en la forma y términos que señala esta Constitución.
-
-###### Art. 41.
-
-El día 5 de diciembre del año en que deba hacerse la elección, se reunirán en sesión los nuevos Diputados y la Diputación Permanente, funcionando como Presidente y Secretarios los de la misma Diputación. Se leerá el informe de esta sobre la legitimidad de las credenciales y las cualidades de los Diputados, y las dudas que ocurran sobre estos dos puntos, se resolverán por la misma Junta a pluralidad de votos, sin que lo tengan los miembros de la Diputación Permanente.
-
-###### Art. 42.
-
-Concluidos los actos de que habla el artículo anterior, los nuevos Diputados otorgarán el día primero de enero siguiente la protesta de ley. Si no hubiere Diputación Permanente, los presuntos Diputados designarán en escrutinio una Comisión de tres miembros de su seno, para hacer las veces de aquella en lo que expresa el artículo anterior.
-
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
-
-###### Art. 43.
-
-En seguida se hará el nombramiento de un Presidente, dos Secretarios y un suplente, quien cubrirá la falta de cualquiera de los miembros de la Mesa en quien ocurra; el Presidente del Congreso declarará a esta legítimamente constituida y en aptitud de ejercer sus funciones.
-
-###### Art. 44.
-
-El Congreso tendrá dos períodos de sesiones ordinarias cada año: el primero, improrrogable, comenzará el día primero de enero y terminará el treinta de abril; el segundo, prorrogable hasta por un mes, dará principio el primero de septiembre y terminará el treinta de noviembre. El Gobernador asistirá a la apertura de las sesiones informando sobre el estado de la Administración Pública el día primero de cada año y, además, mandará informes por escrito acerca de todos o de algunos ramos del servicio público, cuando así lo estime conveniente o cuando así lo solicite el Congreso.
-
-###### Art. 45.
-
-Durante el primer período de sesiones, el Congreso se ocupará de los asuntos siguientes:
-
-I. De examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos municipales correspondientes al año anterior, las que le serán remitidas por conducto del Ejecutivo antes del 28 de febrero de cada año; así como examinar y calificar la recaudación y distribución de los fondos públicos del Estado en el mismo período, cuya documentación le será presentada por el Tesorero General por conducto del Ejecutivo para la fecha antes indicada; declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los Presupuestos y leyes reformatorias dictadas posteriormente; si los gastos están justificados y si hay lugar a exigir alguna responsabilidad.
-
-II. De estudiar, discutir y votar las iniciativas de ley que se presenten, y resolver los demás asuntos que le corresponden conforme a esta Constitución.
-
-###### Art. 46.
-
-En el segundo período de sesiones se ocupará el Congreso:
-
-I.- De preferencia, en discutir y decretar los Presupuestos de Ingresos y Egresos del Estado y de los Municipios, que le serán presentados antes del día treinta y uno de octubre de cada año por el Ejecutivo, quien podrá hacer las observaciones que estime convenientes sobre la formación de los Presupuestos Municipales y la distribución de los gastos que demanden los distintos servicios públicos.
-
-II.- En su caso, de lo enunciado en la fracción II del artículo anterior.
-
-###### Art. 47.
-
-El Congreso tendrá sesiones todos los días hábiles, estas serán públicas, salvo las que según el Reglamento interior deban tener carácter de secretas.
-
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
-
-###### Art. 48.
-
-El Congreso antes de cerrar cada período de sesiones nombrará de su seno una Diputación Permanente compuesta de tres miembros propietarios y un suplente que funcionarán mientras no vuelva a reunirse el Congreso.- El primer nombrado asumirá la Presidencia y los dos últimos actuarán de Secretarios.
-
-###### Art. 49.
-
-Se reunirá el Congreso en sesiones extraordinarias cada vez que fuere convocado por la Diputación Permanente, cuando lo acuerde por sí o lo pida el Ejecutivo, y durante ellas solamente se ocupará de los asuntos comprendidos en la Convocatoria.
-
-###### Art. 50.
-
-Si durante el receso del Congreso fuere este convocado a sesiones extraordinarias, concluidas estas continuará la Diputación Permanente electa hasta que llegue el nuevo período de sesiones ordinarias. La Permanente puede funcionar con su carácter dentro del período extraordinario.
-
-###### Art. 51.
-
-Si al tiempo que deba abrirse el período de sesiones ordinarias no se hubiere cerrado el de las extraordinarias, cesarán estas y en aquellas se continuará de preferencia el estudio de los negocios que debieron tratarse en las extraordinarias.
-
-###### Art. 52.
-
-Para la celebración de sesiones extraordinarias, se reunirán los Diputados precisamente en la fecha de su apertura, para que procedan a la elección de la Mesa.
-
-###### Art. 53.
-
-Las sesiones extraordinarias se abrirán y cerrarán con las mismas formalidades que las ordinarias, pero el Ejecutivo o el Presidente de la Comisión Permanente en su caso, expondrá los motivos de la convocatoria.
-
-###### Art. 54.
-
-Si por causa extraordinaria el Congreso se disolviere sin haber nombrado la Diputación Permanente, se entenderá por tal el personal de la última Mesa del Congreso.
-
-###### Art. 55.
-
-Es deber de cada Diputado visitar en los recesos del Congreso, a lo menos una vez cada año, los pueblos del Distrito que representa para informarse:
-
-I. Del estado en que se encuentra la educación y beneficencia públicas.
-
-II. De cómo los funcionarios y empleados públicos, cumplen con sus respectivas obligaciones.
-
-III. Del estado en que se encuentre la Industria, el Comercio, la Agricultura, la Ganadería, la Minería y las vías de comunicación.
-
-IV. De los obstáculos que se opongan al adelanto y progreso del Distrito y de las medidas que sea conveniente dictar para remover tales obstáculos, y para favorecer el desarrollo de todos o de algunos de los ramos de la riqueza pública.
-
-V. Velar constantemente por el bienestar y prosperidad de su Distrito, allegando al o a los Municipios que lo compongan, su ayuda directa para conseguir ese fin.
-
-###### Art. 56.
-
-Para que los Diputados puedan cumplir con lo dispuesto en el artículo anterior, las oficinas públicas les facilitarán todos los datos que pidieren, a no ser que conforme a la ley deban permanecer en secreto.
-
-###### Art. 57.
-
-Al abrirse el período de sesiones siguiente a la visita, los Diputados presentarán al Congreso una memoria que contenga las observaciones que hayan hecho y en la que propondrán las medidas que sean conducentes al objeto de la fracción IV del art. 55.
+### CAPITULO V. CAUSAS DE INCULPABILIDAD
 
 ###### ARTICULO 30.
 
@@ -665,155 +361,7 @@ VIII.- EL QUE OBRE EN DEFENSA SUPUESTA, ENTENDIENDO POR TAL UN ERROR ESENCIAL E 
 
 IX.- CAUSAR UN DAÑO POR MERO ACCIDENTE, SIN DOLO NI CULPA, EJECUTANDO UN HECHO LICITO CON TODAS LAS PRECAUCIONES DEBIDAS. POR ACCIDENTE, DEBE ENTENDERSE UNA CONCAUSA PURAMENTE MATERIAL QUE DESVIA EL CURSO DE LA ACCION.
 
-### CAPITULO III. De las facultades del Congreso
-
-###### Art. 58.
-
-Son facultades del Congreso:
-
-I. Expedir, interpretar, reformar y derogar las leyes y decretos en todos los ramos de la Administración Pública.
-
-II. Fijar a propuesta del Gobernador, los gastos de la Administración Pública del Estado, y decretar contribuciones e impuestos para cubrirlos, determinando la duración de estos y el modo de recaudarlos. Ningún pago será legal si no está incluido en el Presupuesto o determinado por ley posterior.
-
-III. Condonar impuestos del Estado, en los casos que estime conveniente.
-
-IV. Fijar a propuesta de los respectivos Ayuntamientos por conducto del Ejecutivo, los presupuestos de egresos y las contribuciones e impuestos que deban formar la Hacienda Pública de los Municipios, procurando que sean suficientes para cubrir sus necesidades.
-
-V. Nombrar los empleados de la Contaduría Mayor de Glosa y Secretaría del Congreso, y removerlos con causa justificada.
-
-VI. Revisar, por conducto de la Contaduría Mayor de Glosa, las cuentas del Estado y de los Municipios. Una ley determinará la organización y funcionamiento de dicha Contaduría, que dependerá en absoluto del Congreso y estará bajo la vigilancia de la Comisión de Hacienda.
-
-VII. Fijar las bases para que el Ejecutivo pueda celebrar emprésitos sobre el crédito del Estado, con las limitaciones que marca la fracción VIII del artículo 117 de la Constitución General de la República; aprobar los contratos respectivos, y reconocer y mandar pagar las deudas que contraiga el Estado.
-
-VIII. Fijar las bases al Ejecutivo para renovar los contratos de donde se origine la deuda del Estado.
-
-IX. Autorizar la enajenación y gravamen de los bienes raíces del Estado y de los Municipios. Los bienes muebles podrán venderse sin la autorización del Congreso, pero la venta se hará en pública subasta.
-
-X. Fijar las bases a los Ayuntamientos para la contratación de emprésitos.
-
-XI. Suprimir empleos públicos, no pudiendo crear nuevas partidas ni aumentar la dotación de las aprobadas en el Presupuesto.
-
-XII. Conceder permisos y decretar honores por servicios eminentes prestados a la Humanidad, a la Patria o al Estado.
-
-XIII. Expedir leyes para la jubilación de los maestros de instrucción pública que lo merezcan en atención a la antigüedad y eficacia de sus servicios.
-
-XIV. Decretar pensiones en favor de las familias de los que hayan prestado servicios eminentes al Estado.
-
-XV. Iniciar ante el Congreso General las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como la (sic) reformas o derogación de unas y otras, y secundar cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados.
-
-XVI. Reclamar ante el Congreso de la Unión cuando alguna ley general constituye un ataque a la soberanía o independencia del Estado o a la Constitución Federal.
-
-XVII. Llamar a los Diputados suplentes para que concurran al Congreso, previa calificación del impidimento (sic) de los propietarios.
-
-XVIII. Nombrar al Director de Educación Pública a propuesta en terna del Ejecutivo.
-
-XIX. Erigirse en Gran Jurado para declarar si hay o no lugar a formación de causa, cuando por delitos oficiales o comunes fueren acusados el Gobernador, los Magistrados del Supremo Tribunal de Justicia y los Diputados.
-
-XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado.
-
-XXI.- Nombrar a los Magistrados del Supremo Tribunal de Justicia.
-
-XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
-
-XXIII. Nombrar el Gobernador Interino en los casos a que se refiere el artículo 85 de esta Constitución, para que promulgue el Decreto convocando a elecciones en los términos y forma que dicha disposición constitucional establece y para que desempeñe el Poder Ejecutivo mientras se hace cargo del mismo el Gobernador Constitucional Substituto que resulte electo.
-
-XXIV. Comunicarse con el Ejecutivo por medio de Comisiones nombradas de su seno.
-
-XXV. Decidir sobre las elecciones de los Ayuntamientos, cuando se reclame contra ellas.
-
-XXVI. Formar su Reglamento Interior y acordar las providencias necesarias, a más de las señaladas por la Constitución, para hacer concurrir a los Diputados ausentes.
-
-XXVII. Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar estos en su caso y pedir al Congreso de la Unión su aprobación.
-
-XXVIII. Resolver las cuestiones de límites que se susciten entre Municipios del Estado, siempre que entre ellos no se hayan puesto de acuerdo.
-
-XXIX. Dar la ley sobre el número máximo de Ministros de los Cultos a que le faculta el artículo 130 de la Constitución General de la República.
-
-XXX. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y Diputados a la Legislatura del Estado; calificar dichas elecciones; declarar quiénes, por haber obtenido mayoría de votos, deben desempeñar dichos cargos, y resolver sobre la renuncia que presentaren los expresados funcionarios, convocando a nuevas elecciones en los casos previstos por esta Constitución.
-
-XXXI. Resolver cualquiera duda que ocurra sobre la validez de las elecciones populares y cualidades de los elegidos. Las resoluciones del Congreso en funciones de Colegio Electoral son irrevocables.
-
-XXXII. Determinar lo que crea conveniente sobre la renuncia que sobre su cargo haga el Gobernador y calificar los impedimentos que no le permitan encargarse de su cometido, decretando nueva elección si la renuncia o impedimento ocurriere dentro de los dos primeros años del período.
-
-XXXIII. Computar los votos y declarar electos Senadores al Congreso de la Unión, conforme a lo dispuesto en el artículo 56 de la Constitución General, a los ciudadanos que hayan obtenido mayoría absoluta de votos, erigiéndose para el efecto en Colegio Electoral.
-
-XXXIV. Solicitar del ciudadano Presidente de la República, conforme a lo dispuesto por el artículo 29 de la Constitución Federal, la suspención de las garantías que ella otorga a los habitantes del Estado, con excepción de las que aseguran la vida del hombre; pero deberá hacerlo a petición del Ejecutivo del Estado y solamente en los casos de invasión, pertubación grave de la paz pública y cualesquiera otro que pongan al Estado en grave peligro o conflicto. En los recesos del Congreso, si el caso fuere declarado urgentísimo por unanimidad de la Diputación Permanente, esta, llamando a los Diputados existentes en el lugar donde celebre sus sesiones, que tendrán voz y voto en las deliberaciones, podrá hacer la petición antes dicha, sin perjuicio de convocarlo inmediatamente para darle cuenta y para que resuelva lo conveniente.
-
-XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda al Estado para el Ejército de la Nación.
-
-XXXVI. Convocar a elecciones extraordinarias de Diputados y Ayuntamientos en los casos que disponga la ley.
-
-XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados del Supremo Tribunal de Justicia, a los suplentes de estos y a todos los empleados de su nombramiento que conforme a las leyes no deban otorgar la protesta de otro modo.
-
-XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general.
-
-XXXIX. Estimular la beneficencia pública, reglamentarla para que llene sus fines y para que estén debidamente asegurados sus bienes.
-
-XL. Conceder o negar al Gobernador licencia temporal para separarse de su puesto y para salir del Estado, y designar a la persona que deba suplirlo interinamente en los casos que así se requiera.
-
-XLI. Autorizar al Ejecutivo para crear fuerzas de servicio temporal cuando lo demanden las necesidades del Estado.
-
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1928)</small>
-
-XLII. Conceder facultades extraordinarias al Ejecutivo en alguno o en todos los ramos de la Administración Pública cuando circunstancias apremiantes así lo exijan siendo necesario para ello los votos de cuatro de los Diputados presentes.
-
-XLIII. La facultad que le concede el artículo 24 de esta Constitución.
-
-XLIV. Concurrir a la reforma de la Constitución General de la República en los términos que establece el artículo 135 de la misma Constitución.
-
-XLV. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado.
-
-XLVI. Dirimir los conflictos que se susciten entre el Ejecutivo del Estado y el Tribunal Superior de Justicia, sólo cuando tengan carácter puramente administrativo.
-
-XLVII. Dictar leyes tendentes a combatir con la mayor energía el alcoholismo.
-
-XLVIII. Dictar leyes para organizar en el territorio del Estado, el sistema penal por colonias penitenciarias sobre la base del trabajo como medio de regeneración.
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
-
-LIX. (sic) Convocar a elecciones en caso de muerte del Gobernador, o cuando por haber declarado que ha lugar a formación de causa en su contra, haya sido consignado y quede acéfalo el Poder Ejecutivo y siempre que la falta obsoluta (sic) ocurra durante los tres primeros años del período.
-
-L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Supremo Tribunal de Justicia y de los impedimentos que tengan para desempeñar sus cargos, nombrando en su caso quien deba substituirlos.
-
-LI. Proponer candidato para el puesto de Magistrado de la Suprema Corte de Justicia de la Nación, con arreglo a lo dispuesto en el artículo 96 de la Constitución General.
-
-LII. Conceder facultades extraordinarias al Ejecutivo, en alguno o en todos los ramos de la Administración Pública, cuando circunstancias apremiantes así lo exijan, siendo necesario para ello los votos de dos tercios de los Diputados presentes.
-
-LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
-
-LIV. Conceder por tiempo limitado privilegio exclusivo a los inventores, introductores o perfeccionadores de algún arte o mejora útil.
-
-LV. Ejercer las demás facultades que le señala esta Constitución y la General de la República.
-
-###### Art. 59.
-
-No puede el Congreso:
-
-I. Imponer préstamos forzosos de cualquier especie y naturaleza que sean.
-
-II. Abrogarse en ningún caso facultades extraordinarias.
-
-III. Atentar contra el sistema representativo, popular y federal.
-
-IV. Dejar de señalar retribución a un empleo establecido por la ley. En caso de que se omita fijar tal remuneración, se entenderá señalada la última que hubiere tenido.
-
-V. Mandar hacer cortes de cuentas con los acreedores del Estado, a fin de dejar sus créditos ínsolutos.
-
-VI. Dispensar estudios para el efecto de otorgar títulos profesionales.
-
-VII. Hacer lo demás que prohibe esta Constitución.
-
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
-
-###### Art. 60.
-
-El día anterior al de la clausura de cada período de sesiones ordinarias el Congreso nombrará una Comisión que se denominará Diputación Permanente compuesta de tres Diputados, un Presidente y dos Secretarios, nombrará igualmente un suplente.
-
-###### Art. 61.
-
-La Diputación Permanente funcionará durante los períodos de receso del Congreso y aun cuando hubiere sesiones extraordinarias.
+### CAPITULO VI. TENTATIVA
 
 ###### ARTICULO 31.
 
@@ -837,35 +385,7 @@ SIENDO VARIOS LOS QUE PARTICIPEN EN EL HECHO, NO SE SANCIONARA POR TENTATIVA, A 
 
 NO SE APLICARA LA PENA CORRESPONDIENTE A LA TENTATIVA, CUANDO FUERE IMPOSIBLE LA CONSUMACION DEL DELITO.
 
-### CAPITULO IV. De la Diputación Permanente
-
-###### Art. 62.
-
-Son atribuciones de la Diputación Permanente:
-
-I. Velar sobre la observancia de la Constitución y de las leyes.
-
-II. Dictaminar sobre todos los asuntos que quedaren pendientes al terminar el período de sesiones ordinarias del Congreso y sobre los asuntos que admita, y presentar estos dictámenes el día en que se abra el nuevo período de sesiones ordinarias.
-
-III. Convocar al Congreso a sesiones extraordinarias y en su caso para que conozca de las acusaciones que por delitos oficiales o del orden común se presenten en contra de los altos funcionarios que gozan de fuero; el Congreso no prolongará sus sesiones por más tiempo que el indispensable para tratar el asunto para el que fuere convocado.
-
-IV. Circular la convocatoria si después de tres días de comunicada al Ejecutivo no la hubiere este verificado.
-
-V. Admitir las renuncias de los altos funcionarios, mandando cubrir sus vacantes en la forma que la Constitución establece.
-
-VI. Ejercer las atribuciones económicas que le demarca el Reglamento interior.
-
-VII. Recibir los expedientes de elección de Diputados al Congreso del Estado y los de Gobernador, para los efectos señalados en esta Constitución.
-
-VIII. Recibir la protesta de los funcionarios en los casos en que deban rendirla ante el Congreso.
-
-IX. Resolver sobre las solicitudes de carácter urgente que se le presentaren; cuando la resolución exija la expedición de una ley o decreto, se concretará la Comisión a formular dictamen para dar cuenta a la Legislatura.
-
-X. Ejercer en su caso las facultades que al Congreso concede la fracción XVI del artículo 58 de esta Constitución.
-
-###### Art. 63.
-
-Si por no haberse verificado las elecciones o por cualquiera otra causa, el Congreso no pudiera renovarse el día fijado, la Diputación Permanente continuará con tal carácter, hasta que deje instalado al nuevo Congreso conforme a las leyes, convocando a elecciones en su caso.
+### CAPITULO VII. UNIDAD Y PLURALIDAD DE HECHOS DELICTUOSOS
 
 ###### ARTICULO 35.
 
@@ -887,77 +407,9 @@ NO HAY CONCURSO, CUANDO LOS HECHOS CONSTITUYAN UN DELITO CONTINUADO.
 
 > <small>(REFORMADA SU DENOMINACIÓN P.O. 28 DE JULIO DE 2004)</small>
 
-## TITULO III
+## TITULO TERCERO. DE LAS PERSONAS RESPONSABLES DE LOS DELITOS
 
-### CAPITULO V. De la Iniciativa y Formación de las Leyes
-
-###### Art. 64.
-
-El derecho de iniciativa compete:
-
-I. A los Diputados al Congreso del Estado.
-
-II. Al Gobernador del mismo.
-
-III. Al Supremo Tribunal de Justicia.
-
-IV. A los Ayuntamientos, para los asuntos de sus respectivas localidades.
-
-V. A todos los ciudadanos, por conducto de sus Diputaciones.
-
-###### Art. 65.
-
-Las votaciones de leyes o decretos serán nominales.
-
-###### Art. 66.
-
-El Reglamento interior del Congreso prescribirá las reglas que deben observarse sobre la discusión y formación de las leyes.
-
-###### Art. 67.
-
-Ningún proyecto de ley que fuere desechado podrá volverse a presentar en el mismo período de sesiones.
-
-###### Art. 68.
-
-Los proyectos e iniciativas adquirirán el carácter de ley o decreto, cuando sean aprobados por la mayoría de los Diputados presentes, salvo que se requiera mayor número de votos, y entrarán en vigor después de sancionados y publicados por el Ejecutivo.
-
-###### Art. 69.
-
-Las leyes o decretos aprobados por el Congreso, se remitirán al Ejecutivo, quien los mandará publicar y circular para su cumplimiento, si obtuviesen su sanción, y en caso contrario los devolverá dentro de los primeros diez días útiles después de haberlos recibido, con las observaciones que estime conveniente, las cuales serán tomadas en consideración, examinadas y discutidas por el Congreso.
-
-###### Art. 70.
-
-Si al cerrarse el período de sesiones no se hubiere cumplido el término concedido al Gobernador para hacer observaciones, la devolución del proyecto se verificará precisamente el primer día en que se reuniere el Congreso.
-
-###### Art. 71.
-
-Si el Gobernador hace observaciones a algún proyecto, lo devolverá al Congreso dentro del término fijado, manifestando por escrito las razones que tenga que oponer. El Congreso discutirá por segunda vez el proyecto y el Ejecutivo podrá nombrar el representante que quiera para que asista con voz y sin voto a la discusión.
-
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
-
-###### Art. 72.
-
-Concluída esta se votará un proyecto de escrutinio secreto y se tendrá por aprobado con el voto de cinco de los Diputados presentes.
-
-###### Art. 73.
-
-Si se aprobare por segunda vez el proyecto, se devolverá al Gobernador para su promulgación inmediata.
-
-###### Art. 74.
-
-Se reputará aprobado por el Ejecutivo toda ley o decreto que no se devuelva al Congreso dentro de diez días, o en su caso en el tiempo que fija el artículo 79 de esta Constitución.
-
-###### Art. 75.
-
-En la interpretación, reforma o derogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación.
-
-###### Art. 76.
-
-El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso, cuando este ejerza funciones de Colegio Electoral o de Jurado, ni en los casos de aceptación de renuncias o convocación a nuevas elecciones.
-
-###### Art. 77.
-
-Ninguna resolución del Congreso tendrá otro carácter que el de ley, decreto o acuerdo económico. Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente y los Secretarios del Congreso, empléandose la siguiente fórmula: El Congreso del Estado libre y soberano de Tamaulipas, decreta: (texto de la ley o decreto), y los acuerdos económicos sólo por los Secretarios.
+### CAPITULO I. AUTORES O PARTICIPANTES
 
 ###### ARTICULO 39.
 
@@ -989,211 +441,9 @@ CUANDO HAYA INTERVENCION MATERIAL DE VARIAS PERSONAS EN LA EJECUCION DE UN DELIT
 
 LAS CIRCUNSTANCIAS PERSONALES DE LOS PARTICIPES, QUE SE COMPRENDA COMO PARTE DE LA DESCRIPCION LEGAL, NO IMPLICA, POR QUIEN LO DESCONOZCA, LA COMISION DE FIGURA DISTINTA, SALVO LAS EXCEPCIONES PREVISTAS EN ESTE CODIGO.
 
-### CAPITULO I. Del Ejecutivo
+### CAPITULO II. REINCIDENCIA Y HABITUALIDAD
 
-###### Art. 78.
-
-El Poder Ejecutivo se deposita en un funcionario que se denominará "GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS" y que será electo el mismo día en que se verifiquen las elecciones de los Diputados. La elección de Gobernador será directa en los términos que señale la Ley Electoral.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1934)</small>
-
-ART. 79.- Para ser Gobernador, se requiere:
-
-I.- Ser mexicano por nacimiento.
-
-II.- Ser ciudadano del Estado, en ejercicio de sus derechos con cinco años de residencia por lo menos en su territorio, o uno si fuere nacido en él.
-
-III.- Ser mayor de veinticinco años de edad para el día de la elección.
-
-IV.- Poseer suficiente instrucción.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1934)</small>
-
-###### Art. 80.
-
-No pueden obtener el cargo de Gobernador por elección:
-
-I. Los Ministros de cualquier culto aún cuando hayan renunciado a su ministerio.
-
-II. Los que tengan mando de fuerzas en el Estado si lo han conservado dentro del año inmediato a la elección.
-
-III. Los militares que no se hayan separado del servicio por lo menos dos años antes de la elección.
-
-IV. Los que desempeñen algún cargo o comisión de otros Estados, de la Federación o de esta última a menos que se separen de ella un año antes de la elección.
-
-V. Los Magistrados del Supremo Tribunal de Justicia, el Secretario Gral. de Gobierno o quien haga sus veces, si no se encuentran separados de su cargo cuando menos noventa días antes de la elección.
-
-(REFORMADO, P.O. 29 DE AGOSTO DE 1934)(REPUBLICADO, P.O. 29 DE AGOSTO DE 1934)
-
-###### Art. 81.
-
-El día cinco de Febrero inmediato a la elección entrará el Gobernador a ejercer sus funciones por cuatro años y nunca podrá volver a desempeñar este cargo ni por nueva elección ni con el carácter de provisional o interina.
-
-Tampoco podrá ser electo al Congreso del Estado.
-
-###### Art. 82.
-
-El Congreso, dentro de los diez primeros días de sus sesiones ordinarias del año que corresponda, procederá, erigido en Colegio Electoral, a hacer conforme a la ley respectiva, el escrutinio de los votos emitidos en la elección y hará la declaración del ciudadano que resulte electo para Gobernador por medio de un decreto.
-
-###### Art. 83.
-
-La elección de Gobernador prefiere a cualquiera otra. Sólo es renunciable este cargo por causa grave, que calificará el Congreso.
-
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
-
-###### Art. 84.
-
-Si no hubiere habido elección de Goberndor (sic), si se hubiere hecho y publicado para el día cuatro de febrero o el nuevamente electo no sé presentare a tomar posesión de su cargo cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente constituídos aquel o esta en su caso en sesión permanente y secreta por cinco del número total de sus miembros si se tratare del Congreso o por mayoría si se tratare de la Diputación Permanente.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1934)</small>
-
-ART. 85.- En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar (sic) formación de causa ya sea por violación a la presnte (sic) Constitución, o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del período, el Congreso Local constituído en sesión permanente y secreta nombrará, por el voto cuando menos de cinco del número total de sus miembrns (sic), un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción LIX del Artículo 58 de esta Constitución. El Congreso convocará a alecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado.
-
-El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro del último año del período, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el período. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican, convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino, para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
-
-###### Art. 86.
-
-Si al abrirse el período de sesiones ordinarias estuviere corriendo término de licencia concedida al Gobernador por la Permanente, el Congreso ratificará o revocará dicha licencia.
-
-###### Art. 87.
-
-Mientras se hace la designación ordenada en el artículo anterior o en cualquiera otra circunstancia no prevista , el Secretario General de Gobierno se hará cargo del Despacho del Ejecutivo, sin que esta situación pueda durar por más de cuarenta y ocho horas.
-
-###### Art. 88.
-
-En los casos de licencia temporal concedida al Gobernador, el Congreso o la Comisión Permanente, en caso de receso, por mayoría de los Diputados presentes, nombrará un substituto a propuesta en terna del Ejecutivo, para el tiempo que dure la licencia, debiendo tener el substituto los mismos requisitos que el Constitucional. Si la licencia no excede de ocho días, no se designará substituto, y el Secretario General se encargará del Poder Ejecutivo.
-
-###### Art. 89.
-
-Los Gobernadores que con el carácter de interinos o substitutos nombrados por el Congreso, no podrán ser electos para el período inmediato siguiente, ni para el que se convoque, si estuvieren en funciones un año antes de la elección.
-
-###### Art. 90.
-
-Al Gobernador nunca se le concederá licencia con el carácter de indefinida, ni tampoco por más de seis meses. Si concluida la licencia no se presentare de nuevo dicho funcionario, se declarará vacante el puesto y se procederá a lo dispuesto en el artículo 85 de esta Constitución.
-
-###### Art. 91.
-
-El Gobernador al tomar posesión de su cargo, prestará ante el Congreso y en sus recesos ante la Diputación Permanente, la protesta que sigue: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ella emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así, que la Nación y el Estado me lo demande."
-
-###### Art. 92.
-
-Las facultades y obligaciones del Gobernador son las siguientes:
-
-I. En el orden federal, las que determinen la Constitución y las Leyes Federales.
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1934)</small>
-
-II.- Cuidar de la seguridad y tranquilidad del Estado, según la Constitución y las leyes, para cuyo efecto podrá nombrar y remover libremente los Jefes, Oficiales y Sub-oficiales de Policía, Municipales.
-
-III. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, procurando que se haga efectiva la responsabilidad en que aquella incurriere.
-
-IV. Informar a la Secretaría de Gobernación sobre la conveniencia o inconveniencia de permitir se dediquen nuevos locales a cultos religiosos.
-
-V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Estado, las leyes, decretos y acuerdos del Congreso, y proveer en la esfera administrativa cuanto fuere necesario a su exacta observancia, expidiendo para el efecto los reglamentos respectivos.
-
-VI. Cuidar en los distintos ramos de la Administración de que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las leyes.
-
-VII. Presentar al Congreso los Presupuestos de Ingresos y Egresos del Estado y de los Municipios, y las cuentas comprobadas de recaudación y aplicación de los fondos públicos en el año próximo anterior.
-
-VIII. Disponer de la Guardia Nacional y Policía Rural del Estado según la ley.
-
-IX. Nombrar y remover libremente al Secretario General de Gobierno, Procurador General de Justicia, Tesorero General, Agentes del Ministerio Público y Defensores de Oficio, y a todos los demás empleados del Estado, cuyo nombramiento y remoción no encomiende la ley a otra autoridad.
-
-X. Pasar al Procurador General todos los asuntos que deban ventilarse dentro de los Tribunales, para que ejercite ante ellos las atribuciones de su ministerio.
-
-XI. Resolver gubernativamente los asuntos que pongan las leyes bajo su inspección.
-
-XII. Iniciar ante el Congreso las leyes y decretos que estime convenientes para el mejoramiento de los ramos de la Administración Pública del Estado y pedirle que inicie ante el Congreso de la Unión lo que sea de la competencia federal.
-
-XIII. Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias.
-
-XIV. Proponer terna al Congreso para Director General de Educación Pública.
-
-XV. Cuidar de que la justicia se administre pronta y cumplidamente por los Tribunales y Jueces del Estado y de que se ejecuten sus sentencias.
-
-XVI. Proponer terna al Supremo Tribunal de Justicia para el nombramiento de Jueces de Primera Instancia.
-
-XVII. Celebrar convenios con los Gobernadores de los Estados limítrofes, para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso.
-
-XVIII. Celebrar, con la aprobación del Congreso del Estado y General de la Nación, tratados amistosos con los Estados vecinos para el arreglo de límites.
-
-XIX. Convocar a los miembros del Congreso para el desempeño de sus funciones, cuando por algún incidente no hubiere Diputación Permanente.
-
-XX. Ejercer la superior inspección, no sólo de la Haciende Pública del Estado, si no de todos los fondos municipales, y velar por su recaudación, custodia, administración e inversión.
-
-XXI. Mandar que se practiquen visitas en las Tesorerías Municipales, con el objeto de cerciorarse de que los ingresos se han recaudado y los gastos se han hecho de acuerdo con los Presupuestos respectivos, dando cuenta inmediatamente al Congreso con las irregularidades que se encuentren.
-
-XXII. Conocer de las quejas que se interpongan contra los Ayuntamientos o sus Presidentes.
-
-XXIII. Visitar durante su período los Municipios del Estado, dictar las providencias que conforme a sus facultades fueren oportunas, y dar cuenta al Congreso con el resultado de cada visita.
-
-XXIV. Dictar las disposiciones necesarias para combatir los juegos prohibidos.
-
-XXV. Expedir los Fiats de Notarios y Títulos profesionales con arreglo a las leyes.
-
-XXVI. Conceder indulto de las penas en los términos y con los requisitos que expresa la ley.
-
-XXVII. Organizar la Secretaría General de Gobierno y demás Departamentos, sin alterar los presupuestos.
-
-XXVIII. Castigar correccionalmente a los que le falten al respeto o desobedezcan sus disposiciones como Gobernante, con una pena que no exceda de treinta y seis horas de arresto, o multa hasta de trescientos pesos, sujetándose a lo dispuesto en la parte final del artículo 21 de la Constitución Federal de la República. Si la multa no fuese pagada, se conmutará esta por el arresto correspondiente que nunca excederá de quince días.
-
-XXIX. Nombrar uno o más apoderados para asuntos judiciales y administratiivos (sic), dentro o fuera del Estado.
-
-XXX. Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa presentada por el Ejecutivo, o enviar en su representación al Secretario General de Gobierno o a la persona que designe para el mismo objeto, o para informar cuando lo solicite el Congreso, pudiendo rendir tales informes por escrito.
-
-XXXI. Pedir al Congreso, o a la Comisión Permanente, si aquel no estuviere reunido, las facultades extraordinarias que sea necesarias para restablecer el orden en el Estado, cuando por causa de invasión o de conmoción interior se hubiere alterado. Del uso que haya hecho de tales facultades dará cuenta detallada al Congreso.
-
-XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
-
-XXXIII. Concurrir a la apertura de los períodos de sesiones del Congreso, rindiendo un informe sobre los diversos ramos de la Administración en la del primero de enero de cada año
-
-XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
-
-XXXV. Conceder licencia a los funcionarios y empleados que dependan del Ejecutivo, con o sin sueldo, conforme las leyes; suspenderlos hasta por el término de tres meses de empleo y goce de sueldo, por faltas comprobadas en el desempeño de sus obligaciones, que no den motivo a que se les instruya causa o a que se les destituya; y resolver sobre las renuncias que hagan los mismos funcionarios y empleados.
-
-XXXVI. Tomar en caso de invasión exterior o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar el Estado, sujetándolas lo más pronto posible a la aprobación del Congreso o de la Diputación Permanente.
-
-XXXVII. En caso de sublevación o de trastorno interior en el Estado, excitar, de acuerdo con el Congreso o la Diputación Permanente, a los Poderes Federales a que ministren la protección debida, si los elementos de que dispone el Ejecutivo del Estado no fueren bastantes para restablecer el orden.
-
-XXXVIII. Recibir la protesta de ley a los funcionarios y empleados de nombramiento del Ejecutivo, cuando no estuviere determinado otra cosa en la ley.
-
-XXXIX. Acordar la expropiación por causas de utilidad pública con los requisitos de ley.
-
-XL. Excitar a los Ayuntamientos en los casos que a su juicio sea necesario, para que cuiden del mejoramiento de los distintos ramos de la Administración
-
-XLI. Conceder pensiones dentro o fuera del Estado a los estudiantes que acrediten que no pueden sostenerse de por sí.
-
-XLII. Suspender los acuerdos de los Ayuntamientos cuando fueren contrarios a la Constitución General, a la local del Estado o cualquiera otra ley, o cuando lesionen los intereses municipales, dando cuenta al Congreso para que este resuelva en definitiva.
-
-XLIII. Respetar y hacer que se respete la libre emisión del voto popular en las elecciones.
-
-XLIV. Conceder con arreglo a las leyes habilitaciones de edad a los menores para contraer matrimonio.
-
-XLV. Los demás que le confiere esta Constitución u otra ley.
-
-###### Art. 93.
-
-Se prohibe al Gobernador:
-
-I. Negarse a sancionar y publicar las leyes y decretos que expida el Congreso, en los términos que prescribe esta Constitución.
-
-II. Ingerirse directa o indirectamente en las funciones del Poder Legislativo, excepto el caso de iniciar alguna ley o hacer observaciones a las que se remitan para su sanción.
-
-III. Decretar la prisión de alguna persona o privarla de su libertad, sino cuando el bien y seguridad del Estado lo exijan, y aun entonces deberá ponerla en libertad o a disposición de la autoridad competente en el preciso término de treinta y seis horas, salvo lo prevenido en la fracción XXXII del artículo anterior.
-
-IV. Ocupar la propiedad particular, salvo en los casos de expropiación, por causa de utilidad pública y en la forma legal.
-
-V. Mezclarse en los asuntos judiciales, ni disponer durante el juicio de las cosas que en él se versan o de las personas que estén bajo la acción de la justicia.
-
-VI. Distraer los caudales públicos de los objetos a que están destinados por la ley.
-
-VII. Expedir ordenes de recaudación o pago, sino por conducto de la Tesorería General.
-
-VIII. Impedir o retardar la instalación del Congreso.
-
-IX. Salir del territorio del Estado por más de cuarenta y ocho horas, sin permiso del Congreso o de la Diputación Permanente.
-
-X. Mandar personalmente en campaña la fuerza pública, sin permiso del Congreso o de la Diputación Permanente.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 43.
 
@@ -1233,45 +483,9 @@ III.- REPARACION DEL DAÑO Y PERJUICIO.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
-## TITULO IV. DEL PODER LEGISLATIVO
+## TITULO CUARTO. CONSECUENCIAS JURIDICAS DEL DELITO
 
-### CAPITULO II. Del Secretario General de Gobierno
-
-Art.- 94.- Para el desempeño de los asuntos oficiales, el Ejecutivo tendrá un funcionario que se denominará "Secretario General de Gobierno."
-
-###### Art. 95.
-
-Para ser Secretario General de Gobierno, se requiere:
-
-I. Ser ciudadano mexicano en ejercicio de sus derechos.
-
-II. Ser mayor de treinta años de edad.
-
-III. Ser abogado con título expedido por alguna escuela oficial.
-
-IV. No ser militar ni ministro de algún culto, esté o no en ejercicio.
-
-V. No haber sido condenado por delito infamante. La calificación la hace el H. Congreso.
-
-###### Art. 96.
-
-Los acuerdos, circulares, ordenes y disposiciones que dictare el Gobernador, así como los documentos que subscriba en ejercicio de sus funciones constitucionales, deben ser autorizados por el Secretario General, sin el cual requisito no surtirán efectos legales.
-
-###### Art. 97.
-
-El Secretario General de Gobierno no podrá desempeñar cargo, empleo ni comisión oficiales remunerados salvo en el Ramo de la Educación.
-
-###### Art. 98.
-
-El Secretario General de Gobierno sólo podrá litigar en negocios propios o de su familia.
-
-###### Art. 99.
-
-El Secretario General de Gobierno tendrá responsabilidad solidaria con el Gobernador por los decretos, reglamentos, circulares o acuerdos que firme.
-
-###### Art. 100.
-
-Las faltas temporales del Secretario General de Gobierno se suplirán por el Oficial Mayor de la Secretaría, quien tendrá mientras tanto las mismas prerrogativas, obligaciones y responsabilidades de aquel.
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 46.
 
@@ -1345,37 +559,9 @@ PARA LOS EFECTOS ANTERIORES EL JUEZ DEBERA TOMAR CONOCIMIENTO DIRECTO DEL SUJETO
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
-### CAPITULO I. De la Administración de Justicia
+### CAPITULO II. DE LAS SANCIONES EN PARTICULAR
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 1926)</small>
-
-###### Art. 101.
-
-El Poder Judicial en el Estado se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Jueces de Primera Instancia, en los Jueces Menores Letrados, en los de Paz y en los Tribunales y Jurados que en lo sucesivo establezca la Ley, salvo las excepciones determinadas por esta Constitución.
-
-###### Art. 102.
-
-Ningún otro Poder, salvo cuando el Congreso actúe como Jurado, podrá ejercer funciones judiciales, avocarse el conocimiento de las causas pendientes o mandar abrir las fenecidas.
-
-###### Art. 103.
-
-Los Tribunales y Jueces en ningún caso podrán interpretar las leyes, suspender su cumplimiento ni formar reglamentos para la administración de justicia.
-
-###### Art. 104.
-
-Las leyes arreglarán las formalidades de los procedimientos judiciales.
-
-###### Art. 105.
-
-En ningún negocio podrá haber más de dos instancias. La ley determinará cuál de las sentencias causa ejecutoria.
-
-###### Art. 106.
-
-El Juez que haya sentenciado un negocio en alguna instancia, no podrá hacerlo en otra.
-
-###### Art. 107.
-
-Los delitos de cohecho, soborno o prevaricación, producen acción popular contra los Magistrado, Jueces, Secretarios o empleados que lo cometan, y lo mismo contra los autores que contra sus cómplices.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 48.
 
@@ -1511,95 +697,9 @@ EN EL CASO DE ARMAS DE FUEGO SE ESTARA A LO DISPUESTO EN LAS LEYES RELATIVAS.
 
 EN SU SENTENCIA, LOS JUECES RESOLVERAN LO PREVISTO EN ESTE ARTICULO.
 
-### CAPITULO II. De Los Magistrados
+### CAPITULO III. APLICACION DE LAS SANCIONES A DELITOS CULPOSOS
 
-###### Art. 108.
-
-El Supremo Tribunal de Justicia se compone de tres Magistrados, que funcionarán en acuerdo pleno o por Salas en la forma que determine la ley.
-
-###### Art. 109.
-
-Los Magistrados serán electos por el Congreso erigido en Colegio Electoral y a mayoría absoluta de votos de sus miembros presentes; durarán en sus funciones dos años y podrán ser reelectos. En los recesos del Congreso, la Diputación Permanente nombrará Magistrados, con el carácter de provisionales para suplir las faltas temporales de los propietarios.
-
-###### Art. 110.
-
-Los Magistrados comenzarán a ejercer su encargo el día cinco de febrero inmediato a la elección de Diputados.
-
-###### Art. 111.
-
-Durante su encargo los Magistrados y Jueces sólo podrán ser separados previo juicio de responsabilidad, en el cual deberán observarse las formalidades esenciales a todo juicio.
-
-###### Art. 112.
-
-Para ser Magistrado se requiere:
-
-I. Ser ciudadano mexicano en ejercicio de sus derechos.
-
-II. Ser abogado recibido conforme a las leyes, con cinco años cuando menos de práctica profesional.
-
-III. Ser mayor de treinta años de edad-
-
-IV. Gozar de buena reputación.
-
-V. No ser militar ni ministro de algún culto, esté o no en ejercicio.
-
-VI. No haber sido condenado por algún delito grave del orden común.
-
-###### Art. 113.
-
-No podrán formar parte del Tribunal dos o más Magistrados que sean parientes entre sí, por consanguinidad hasta el cuarto grado inclusive, y por afinidad hasta el segundo.
-
-###### Art. 114.
-
-Los Magistrados al entrar a desempeñar su cargo, rendirán ante el Congreso, o en sus recesos ante la Diputación Permanente, la siguiente protesta: Presidente.- "¿Protéstais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, así como también las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado?." – Magistrado. "Si protesto." – Presidente. "Si no lo hiciéreis así, la Nación y el Estado os lo demandarán".
-
-###### Art. 115.
-
-Son atribuciones del Supremo Tribunal de Justicia.
-
-I. Conocer en primera instancia de las controversias que se susciten sobre cumplimientos de contratos celebrados por particulares con los Ayuntamientos o con el Estado.
-
-II. Dirigir las competencias que surjan entre las Autoridades Judiciales del Estado, siguiendo el procedimiento que fijan las leyes.
-
-III. Conocer como Jurado de Sentencia de los delitos oficiales de que fueren acusados los altos funcionarios que gocen de fuero.
-
-IV. Iniciar ante el Congreso leyes tendentes a mejorar la Administración de Justicia.
-
-V. Nombrar los Jueces de Primera Instancia, a propuesta en terna del Ejecutivo.
-
-VI. Dirigir al Congreso iniciativas de ley, con especialidad en sus ramos y pedir aclaración y reforma de las leyes vigentes.
-
-VII. Dirimir las competencias de jurisdicción que se susciten entre los Jueces inferiores del Estado.
-
-VIII. Examinar, con el objeto prevenido por las leyes, los partes y listas de las causas que remitan los Jueces inferiores.
-
-IX. Sentenciar, sin recurso ulterior, erigido en Jurado de Sentencia, las causas que por delitos oficiales hayan de formarse contra los funcionarios de que habla el artículo 58, fracción XIX, con excepción de las que se instruyan contra todos los Magistrados del mismo Tribunal.
-
-X. Conocer y fallar las causas que se presenten contra algunos de sus miembros, contra los Jueces de Primera Instancia por delitos oficiales, y de las que deban formarse contra los Secretarios del mismo tribunal, por faltas y abusos cometidos en el desempeño de sus empleos.
-
-XI. De los asuntos civiles y criminales que remitan en grado los Jueces de Primera Instancia.
-
-XII. Nombrar los Jueces de Paz, a propuesta en terna de los Ayuntamientos respectivos donde aquellos radican.
-
-XIII. Formar su Reglamento interior.
-
-XIV. Conceder licencias hasta por un mes a los Magistrados y Jueces.
-
-XV. Ordenar visitas de cárceles.
-
-XVI. Ordenar visitas a los Juzgados de Primera Instancia y de Paz.
-
-XVII. Nombrar y remover libremente los empleados del propio Tribunal.
-
-XVIII. Conocer de las quejas formuladas contra los Jueces de Primera Instancia.
-
-XIX. Las demás facultades y obligaciones que les señalen las leyes.
-
-###### Art. 116.
-
-Los Magistrados y Jueces no podrán desempeñar ningún otro cargo del Estado, de la Federación de los Ayuntamientos o de particulares, por los que se reciba remuneración. Quedan exceptuados los cargos de la Beneficencia y de la Educación públicas.
-
-Art.- 117.- En las causas que hubiere de formarse a todos los Magistrados en funciones, una vez que el Congreso, actuando como Gran Jurado o Jurado de Acusación declare por la afirmativa, se reintegrará por los medios señalados en la presente Constitución el Supremo Tribunal de Justicia, y este sentenciará a los encausados, pero separadamente a cada uno de ellos. El Procurador General de Justicia tendrá en esas causas la intervención que le confiere la ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 65.
 
@@ -1693,59 +793,15 @@ C) QUE NO HAYA SIDO CONDENADO POR SENTENCIA EJECUTORIA POR ESTA CLASE DE DELITOS
 
 D) QUE SE HAYA REPARADO EL DAÑO ANTE LA AUTORIDAD.
 
-### CAPITULO III. De los Tribunales Inferiores
+### CAPITULO IV. APLICACION DE SANCIONES EN CASO DE TENTATIVA
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 1926)</small>
-
-###### Art. 118.
-
-Los Tribunales Inferiores para la Administración de Justicia, estarán a cargo de los Jueces de Primera Instancia, los Jueces Menores Letrados y los de Paz.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 1926)</small>
-
-###### Art. 119.
-
-Los Jueces de Primera Instancia del Estado y Menores Letrados, serán nombrados por el Supremo Tribunal de Justicia a propuesta en terna del Ejecutivo, pudiéndose nombrar dos o más Jueces de Primera Instancia, con jurisdicción independiente en los Ramos Civil y Penal, para un mismo Distrito Judicial, cuando el número de negocios lo haga necesario, a iniciativa del propio Tribunal o del Ejecutivo.
-
-###### Art. 120.
-
-Los Jueces de Paz funcionarán cuando menos uno en cada Municipio.
-
-###### Art. 121.
-
-Una ley determinará el número de Distritos Judicialas (sic) en que se divide el Estado; el número de Jueces de Primera Instancia y de Paz; sus requisitos, su competencia, jurisdicción, duración de sus funciones, dotación de empleados y todo lo relativo a su organización.
-
-###### Art. 122.
-
-Los Juzgados de Primera Instancia serán sostenidos por el Estado o por los Municipios, según el caso, y los Jueces de Paz serán retribuidos precisamente por sus respectivos Municipios.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 1926)</small>
-
-###### Art. 123.
-
-Los Jueces de Primera Instancia y Menores Letrados, antes de tomar posesión de su empleo, otorgarán la protesta de estilo ante el Supremo Tribunal de Justicia, o ante el Ayuntamiento del Municipio o Cabecera del Distrito Judicial, si así lo dispusiere aquel.
-
-###### Art. 124.
-
-Los Jueces de Paz otorgarán la protesta de ley ante los respectivos Ayuntamientos.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 73.
 
 AL RESPONSABLE EN CASO DE TENTATIVA SE LE APLICARA PENA DE PRISION, TOMANDO EN CUENTA LAS PREVENCIONES DEL ARTICULO 47 DE ESTE CODIGO, DE UN CUARTO DE LA SANCION MINIMA ESTABLECIDA PARA EL DELITO QUE SE PRETENDIO CONSUMAR, HASTA LAS DOS TERCERAS PARTES DE LA SANCION QUE SE LE DEBIERA IMPONER SI ESTE SE HUBIERE CONSUMADO, EXCEPTO CUANDO ESTE CODIGO DISPONGA OTRA COSA. EN EL SUPUESTO DE QUE LA PENA DE PRISION SE SUBSTITUYA POR MULTA, DE MANERA CONJUNTA SE LE IMPONDRA AL ACUSADO TRABAJO EN BENEFICIO DE LA COMUNIDAD SUJETANDOSE A LO DISPUESTO POR EL ARTICULO 51 DE ESTE CODIGO.
 
-### CAPITULO UNICO. Disposiciones generales
-
-###### Art. 125.
-
-El Ministerio Público tiene por misión: en los asuntos del orden criminal, ejercitar la acción penal; en los asuntos civiles, la defensa de los intereses de los menores y demás incapacitados; en el orden administrativo, la defensa de los intereses fiscales y, en general, el Ministerio Público tendrá la intervención que disponga las leyes en aquellos asuntos que afecten el orden público.
-
-###### Art. 126.
-
-Las funciones del Ministerio Público serán desempeñadas en el Estado por el Procurador General de Justicia y por los Agentes adscritos, nombrados por el Ejecutivo.
-
-###### Art. 127.
-
-Una ley reglamentará la organización del Ministerio Público y los requisitos que se necesitan para desempeñar este cargo y el de Procurador.
+### CAPITULO V. APLICACION DE SANCIONES EN CASO DE CONCURSO
 
 ###### ARTICULO 74.
 
@@ -1771,19 +827,9 @@ EN CASO DE CONCURSO IDEAL O FORMAL, SE APLICARA LA PENA CORRESPONDIENTE AL DELIT
 
 SI CONCURRIERA LA PENA DE PRISION CON LA DE MULTA, ESTA ULTIMA SE IMPONDRA BAJO LOS MISMOS LINEAMIENTOS DE LA PENA CORPORAL.
 
-### CAPITULO UNICO. Disposiciones generales
+### CAPITULO VI. BASES PARA APLICAR LA SANCION SEGUN EL MONTO DE LO OBTENIDO O DAÑADO
 
-###### Art. 128.
-
-En cumplimiento de lo mandado por el artículo 20, fracción IX, de la Constitución Federal, se establece en el Estado la Defensoría de Oficio, que se encargará de defender ante cualquiera autoridad a los acusados y aconsejar a los pobres de solemnidad en los asuntos civiles.
-
-###### Art. 129.
-
-El personal de esta institución lo forman un Director General y los defensores de oficio subalternos, quienes serán nombrados por el Ejecutivo.
-
-###### Art. 130.
-
-Una ley reglamentará la organización de la Defensoría de Oficio y los requisitos que se necesitan para desempeñar este cargo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 79.
 
@@ -1793,73 +839,7 @@ EN LAS RESOLUCIONES BASADAS EN FACTORES DE CARACTER ECONOMICO QUE DICTEN LOS JUE
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
-### CAPITULO UNICO. Disposiciones generales
-
-###### Art. 131.
-
-Las funciones políticas y administrativas de carácter municipal, serán desempeñadas por los Ayuntamientos, y las judiciales por los Jueces de Paz.
-
-###### Art. 132.
-
-En cada Municipalidad habrá un Ayuntamiento de elección popular directa, el cual tendrá su residencia en la cabecera de la misma.
-
-###### Art. 133.
-
-Las atribuciones y obligaciones de los Ayuntamientos, su composición y sus relaciones con los Poderes del Estado, se determinarán en la Ley Orgánica del Municipio, la cual deberá sujetarse a las siguientes bases:
-
-I. Los Ayuntamientos se renovarán por mitad cada año.
-
-II. Los Ayuntamientos se compondrán de un número de miembros proporcional al de habitantes de la Municipalidad, pero nunca será menor de cinco.
-
-III. Los Municipios administrarán libremente su hacienda, la cual se formará, a más de sus bienes propios, de las contribuciones que señale el Congreso, que en todo caso serán las suficientes para atender a sus necesidades.
-
-IV. Los Ayuntamientos tendrán personalidad jurídica para contratar y obligarse. Los Síndicos serán los representantes de la personalidad jurídica de los Ayuntamientos.
-
-(REFORMADA, P.O. 29 DE AGOSTO DE 1934) (REPUBLICADO, P.O. 29 DE AGOSTO DE 1934)
-
-V.- No podrá ser electo miembro de un Ayuntamiento el que hubiere desempeñado otro cargo de elección popular del mismo Municipio, si no ha transcurrido un año por lo menos, contado desde la fecha en que conforme a la Ley feneció el período para el cual fue electo.
-
-El que haya desempeñado las funciones de Presidente Municipal supliendo faltas, no podrá desempeñar de ningún modo este puesto en el período siguiente;
-
-VI. Por cada miembro propietario del Ayuntamiento se eligirá un suplente.
-
-VII. Los Ayuntamientos, en la segunda quincena del mes de septiembre de cada año, someterán a la aprobación del Congreso, por conducto del Ejecutivo, sus Presupuestos de Ingresos y Egresos, y sus cuentas anuales para el día quince de abril.
-
-VIII. La responsabilidad oficial de los miembros del Ayuntamiento, sólo podrá exigirse durante el tiempo que ejerzan sus funciones, y un año después de haber terminado en ellas.
-
-IX. El Gobernador del Estado tendrá el mando de la Policía y Fuerza Pública de los Municipios donde residiere habitual o transitoriamente. La misma policía y fuerza pública del Municipio auxiliarán a las fuerzas del Estado y recíprocamente.
-
-X. Para prevenir o sofocar graves trastornos del orden público, el Gobernador del Estado, por sí o por medio de delegados que lo representen, podrá hacerse cargo de la fuerza pública existente en los Municipios.
-
-XI. Las faltas absolutas de miembros propietario y suplente de Ayuntamientos, serán cubiertas por suplentes que, a propuesta en terna del Ejecutivo, nombre el mismo Ayuntamiento. Los así nombrados durarán en su encargo hasta que se verifique nueva elección. Las faltas temporales de cualquier miembro de un Ayuntamiento, serán cubiertas por el suplente respectivo.
-
-XII. En todo caso de inhabilidad, renuncia o desaparición de un Ayuntamiento, el Ejecutivo del Estado llamará a funcionar la Corporación que juzgue conveniente de uno de los años anteriores; si esta no estuviere integrada, se integrará con los concejales de cualquiera otra de las que hayan servido y por personas del Municipio que designe el mismo Ejecutivo. Terminada la causa que motiva la suspensión continuará el Ayuntamiento electo, y en caso de que dicha suspensión fuere absoluta, se convocará a elecciones si la falta ocurriere dentro del primer semestre de ejercicio.
-
-XIII. En las poblaciones que no sean cabeceras de Municipalidad, según la importancia del poblado, los Ayuntamientos respectivos nombrarán delegados o subdelegados con las facultades y obligaciones que señalará la Ley Orgánica Municipal, los cuales serán sus representantes directos.
-
-XIV. En cada Municipalidad se dará entera fe y crédito a los actos públicos, registros y procedimientos de los demás Municipios del Estado.
-
-XV. Los miembros de los Ayuntamientos serán responsables personal y colectivamente conforme a las leyes, de los actos que ejecuten en el ejercicio de sus funciones, y dichas responsabilidades podrán ser exigidas ante las autoridades que corresponda, ya sean directamente por los particulares cuando se ofendan sus derechos, o ya por Síndicos Procuradores Municipales o del Procurador General de Justicia del Estado cuando se ofendan los de la sociedad.
-
-###### Art. 134.
-
-Los Ayuntamientos no podrán enajenar ni gravar sus bienes raíces, ni contraer empréstitos sin la autorización del Congreso. Para adquirir bienes raíces y para celebrar contratos de diversas naturaleza a los enumerados en la primera parte de este artículo cuyo término exceda de un año, necesitan la aprobación del Ejecutivo.
-
-###### Art. 135.
-
-Cuando un acuerdo del Ayuntamiento sea violatorio de la Constitución Federal o la del Estado, u ostensiblemente perjudicial a los intereses municipales, el Ejecutivo suspenderá su cumplimiento, dando cuenta inmediatamente al Congreso, el que resolverá en definitiva si los revoca o aprueba.
-
-###### Art. 136.
-
-Los Ayuntamientos no podrán gravar e (sic) tránsito o salida de mercancías.
-
-###### Art. 137.
-
-Los Municipios arreglarán entre sí por convenios amistosos, las dificultades que se susciten por cuestión de límites; pero dichos convenios no surtirán sus efectos hasta que el Congreso los apruebe.
-
-###### Art. 138.
-
-Una ley organizará la Administración Municipal, fijando el número de Regidores y Síndicos Procuradores que deban componer un Ayuntamiento y demás cuestiones relativas.
+### CAPITULO VII. APLICACION DE SANCIONES EN LOS CASOS DE REINCIDENCIA Y HABITUALIDAD
 
 ###### ARTICULO 80.
 
@@ -1871,31 +851,9 @@ EN EL CASO DE DELINCUENTES HABITUALES, LA SANCION SE AUMENTARA HASTA EL DOBLE DE
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
-### CAPITULO I. De la Enseñanza Pública
+### CAPITULO VIII. SUBSTITUCION DE SANCIONES
 
-###### Art. 139.
-
-Es obligación del Estado impartir y fomentar enseñanza pública en todos sus grados y muy especialmente la primaria.
-
-###### Art. 140.
-
-La Educación Primaria Elemental o en su defecto la rudimentaria, será obligatoria para todos los habitantes del Estado y uniforme hasta donde sea posible.
-
-###### Art. 141.
-
-La enseñanza primaria que se imparta en las Escuelas Oficiales será laica y gratuita. La que se dé en los establecimientos particulares, se sujetará a lo prescrito en el artículo 3º. de la Constitución Federal.
-
-###### Art. 142.
-
-El Estado protegerá la Enseñanza Profesional. No podrán ejercerce en el Estado las profesiones de Médico, Abogado, Ingeniero, Farmacéutico y otras, sin que sean llenados los requisitos establecidos en la Ley Orgánica respectiva.
-
-###### Art. 143.
-
-El Estado considera altamente honroso y meritorio servir a la educación pública y enaltecer el ejercicio del Magisterio de educación primaria. La ley determinará las recompensas y distinciones a los Profesores, en atención a mérito de sus labores y a la antigüedad de sus servicios.
-
-###### Art. 144.
-
-La Dirección Técnica de las Escuelas Oficiales en el Estado y la administración y distribución de los fondos propios de la Hacienda escolar, estará a cargo del Ejecutivo, por conducto de un Departamento que se denominará "DIRECCION GENERAL DE ENSEÑANZA PUBLICA EN TAMAULIPAS," una ley organizará esta y el número y modo de designación de sus agentes en cada Municipalidad.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 81.
 
@@ -1923,17 +881,9 @@ LA SUBSTITUCION DE LA PRISION POR MULTA, EXCLUYE LA APLICACION SIMULTANEA O SUCE
 
 PARA QUE PUEDA OPERAR LA CONVERSION, CONMUTACION O SUSTITUCION, ES INDISPENSABLE CUBRIR O GARANTIZAR LA REPARACION DEL DAÑO.
 
-## TITULO V. DEL PODER EJECUTIVO
+## TITULO QUINTO. MEDIDAS DE SEGURIDAD
 
-### CAPITULO II. De la Higiene Pública
-
-###### Art. 145.
-
-Habrá en el Estado una Corporación que se denominará "CONSEJO DE HIGIENE PUBLICA," encargada de dictar disposiciones tendentes a conservar la salubridad y vigilar por su cumplimiento. Las resoluciones que dicte ese Consejo, previo acuerdo con el Ejecutivo, serán de observancia obligatoria para todos los habitantes del Estado. Los miembros del Consejo serán nombrados por el Ejecutivo.
-
-###### Art. 146.
-
-Una ley organizará todo lo relativo al funcionamiento del Consejo.
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 86.
 
@@ -2011,11 +961,7 @@ II.- CUANDO HAYAN CESADO LOS EFECTOS QUE LES DIERON ORIGEN; O
 
 III.- CUANDO SE CUMPLA EL TERMINO QUE REFIERE EL ARTICULO 22 DE ESTE CODIGO.
 
-### CAPITULO III. De las vías de comunicación
-
-###### Art. 147.
-
-El Gobernador vigilará la conservación, mejoramiento y amplio desarrollo de las vías de comunicación en el territorio del Estado; asimismo expedirá las disposiciones convenientes para la realización y fomento de las obras de utilidad pública, general o local, en su mismo territorio, dando preferencia a las de irrigación. El Congreso expedirá las leyes que fueren necesarias y que fijarán la contribución especial que se dedicará a este Ramo.
+### CAPITULO II. RECLUSION PARA ENFERMOS MENTALES
 
 ###### ARTICULO 95.
 
@@ -2029,49 +975,15 @@ CUANDO EL JUEZ ESTIME QUE NI AUN CON LA GARANTIA PUEDA ASEGURARSE EL INTERES A L
 
 EN LOS CASOS PREVISTOS EN EL ARTICULO 91, EL JUEZ Y LAS AUTORIDADES ADMINISTRATIVAS PODRAN TOMAR ESTAS MEDIDAS PERO, AL CUMPLIRSE EL TERMINO DE ELLAS, RECOMENDARAN A SUS FAMILIARES CONTINUAR EL TRATAMIENTO CURATIVO, Y SE ESTABLECERA PARA ESTOS CASOS CONSULTA PSIQUIATRICA EXTERNA EN EL CENTRO QUE DETERMINE EL EJECUTIVO DEL ESTADO.
 
-### CAPITULO IV. Del Trabajo y Previsión Social
-
-###### Art. 148.
-
-Para reunir todos los elementos de información y de estudio que sea necesario, para que se expidan las leyes complementarias del artículo 123 de la Constitución Federal; para la solución de todas las cuestiones relativas al trabajo y para la organización de todos los establecimientos de previsión, se crea en el Estado, como dependencia del Poder Ejecutivo, una Oficina especial, que llevará el nombre de "DEPARTAMENTO DEL TRABAJO Y DE LA PREVISION SOCIAL." Una ley determinará el funcionamiento de este Departamento.
+### CAPITULO III. SANCIONES Y MEDIDAS TOMADAS EN CONTRA DE LOS ALCOHOLICOS, FARMACODEPENDIENTES, INADAPTADOS Y PERVERSOS SEXUALES
 
 ###### ARTICULO 97.
 
 TRATANDOSE DE ALCOHOLICOS, FARMACODEPENDIENTES, PERVERSOS SEXUALES E INADAPTADOS, QUE HUBIERAN COMETIDO UN DELITO, SE APLICARA LA SANCION Y LA MEDIDA DE SEGURIDAD QUE LES CORRESPONDA, TENIENDO EN CUENTA SU PELIGROSIDAD, Y SE PROCURARA QUE EL TRATAMIENTO QUE SE SIGA EN RELACION CON ESTOS SUJETOS SEA DE AQUELLOS QUE TENGAN EL CARACTER DE CURATIVO, POR LO QUE SE REFIERE AL ALCOHOLISMO Y A LA FARMACODEPENDENCIA, ASI COMO EL TOMAR LAS MEDIDAS NECESARIAS PARA MEJORAR LAS CONDICIONES DE LOS PERVERSOS SEXUALES E INADAPTADOS, PROCURANDO APLICAR TAMBIEN MEDIDAS DE INTERNAMIENTO, EN LAS CONDICIONES A QUE SE REFIERE EL ARTICULO 91.
 
-### CAPITULO I
+### CAPITULO IV. MEDIDAS DE VIGILANCIA
 
-Del fuero de los altos funcionarios.
-
-###### Art. 149.
-
-El Gobernador del Estado, los Diputados al Congreso y los suplentes en ejercicio, son responsables de los delitos de orden común que cometan durante el desempeño del mismo.
-
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
-
-###### Art. 150.
-
-Cuando se acuse de un delito del orden común a alguno de los funcionarios enumerados en el artículo anterior, el Congreso, erigido en Gran Jurado y a votación cuando menos de cinco de los miembros que concurran, declarará si ha lugar o no a proceder en contra del acusado. Si la declaración fuese negativa, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que una vez que el acusado haya dejado de tener fuero, se continúe la averiguación, comenzando entonces la prescripción, pues la resolución del Congreso no prejuzga la culpabilidad o inculpabilidad del acusado. Si la resolución fuere que ha lugar a proceder, el acusado quedará separado de su cargo y a la disposición de la autoridad judicial competente para juzgarlo.
-
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
-
-Art.- 151.- SI (sic) fuere oficial el delito de que se acusa al funcionario que goza de fuero, y después de que el Congreso haya declarado por votación cuando menos de cinco de los miembros presentes que ha lugar a proceder, el acusado quedará separado de su encargo y a la disposición del Supremo Tribunal de Justicia, que es la autoridad competente para juzgarlo.
-
-###### Art. 152.
-
-Los altos funcionarios que tienen fuero conforme a esta Constitución, no gozarán de él por los delitos oficiales que cometieren en el desempeño de algún cargo o comisión que aceptaren durante el período que conforme a la ley disfruten del fuero. Tampoco gozarán de fuero por los delitos del orden común que cometieren no estando en funciones, pero lo recobrarán al volver al desempeño de ellas.
-
-###### Art. 153.
-
-Prescribirá en un año la acción penal por los delitos y faltas oficiales, el cual se contará desde la fecha en que el funcionario se haya separado de su cargo.
-
-###### Art. 154.
-
-El sentenciado por un delito oficial no podrá ser indultado.
-
-###### Art. 155.
-
-Para las acciones del orden civil no habrá fuero ni inmunidad establecidos en favor de persona alguna.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 98.
 
@@ -2079,59 +991,77 @@ LAS MEDIDAS DE VIGILANCIA DEFINIDAS EN EL QUINTO PARRAFO DEL ARTICULO 88, DEBERA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2012)</small>
 
-### CAPITULO I. Prevenciones generales
+### CAPITULO V. ORDENES DE PROTECCION
 
-###### Art. 156.
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-En el caso de desaparición de Poderes previsto por la fracción V del artículo 76 de la Constitución Federal, serán llamados para que se encarguen provisionalmente del Ejecutivo, según el siguiente orden de preferencia.
+ARTICULO 98 BIS.- LAS ORDENES DE PROTECCION CONSTITUYEN UN DERECHO PARA QUIENES SEAN SUJETOS PASIVOS DE LOS HECHOS PRESUNTAMENTE CONSTITUTIVOS DEL DELITO DE VIOLENCIA FAMILIAR, O DE EQUIPARABLE A LA VIOLENCIA FAMILIAR O DE HOSTIGAMIENTO SEXUAL, TENIENDO FACULTADES PARA SOLICITARLAS LA VICTIMA U OFENDIDO, EL MINISTERIO PUBLICO O LOS REPRESENTANTES LEGALES DE LOS MENORES DE 12 AÑOS O INCAPACES, EN SU CASO.
 
-I. El último Secretario General de Gobierno, siempre que sea tamaulipeco por nacimiento.
+LAS ORDENES DE PROTECCION SERAN DECRETADAS DE OFICIO TRATANDOSE DE VICTIMAS DE CUALQUIER TIPO DE VIOLENCIA FAMILIAR, O DE EQUIPARABLE A LA VIOLENCIA FAMILIAR O DE HOSTIGAMIENTO SEXUAL, PREVISTAS POR ESTE CODIGO. EN ESTOS CASOS, LA PERSONA EN CUYO FAVOR SE ORDENEN, GOZA DE LA PRESUNCION DE NECESITARLAS POR LO CUAL NO SE REQUERIRA LA PRESENTACION DE DIVERSO MEDIO DE PRUEBA.
 
-II. El último Presidente del Supremo Tribunal de Justicia, y a falta de este los demás Magistrados por orden numérico, siempre que sean tamaulipecos por nacimiento.
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-III. El último presidente del Congreso, y a falta de este los anteriores, prefiriéndose a los más próximos sobre los más lejanos con el requisito anterior.
+ARTICULO 98 BIS 1. LAS ORDENES DE PROTECCION, TENDRAN EL CARACTER DE PERSONALISIMAS E INTRANSFERIBLES, Y PODRAN SER:
 
-###### Art. 157.
+I. DE EMERGENCIA; O
 
-El Gobernador Provisional convocará a elecciones, no pudiendo ser electo para el período a que se convoca.
+II. PREVENTIVAS.
 
-###### Art. 158.
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-Todos los funcionarios y empleados públicos al entrar en funciones, deberán rendir protesta de guardar y hacer guardar la Constitución Federal y la del Estado, obligándose a desempeñar leal y patrióticamente el cargo conferido.
+ARTICULO 98 BIS 2.- SON ORDENES DE PROTECCION DE EMERGENCIA LAS SIGUIENTES:
 
-###### Art. 159.
+I. DESOCUPACION, POR EL AGRESOR O PROBABLE RESPONSABLE, DEL DOMICILIO CONYUGAL O DEL QUE HABITE LA VICTIMA U OFENDIDO, INDEPENDIENTEMENTE DE LA ACREDITACION DE PROPIEDAD O POSESION DEL INMUEBLE, AUN EN LOS CASOS DE ARRENDAMIENTO O COMODATO DEL MISMO;
 
-Ningún ciudadano podrá desempeñar dos cargos de elección popular en el Estado o Municipio, debiendo elegir el que quisiere desempeñar; pero una vez que hubiere hecho la elección, perderá el derecho de desempeñar el otro.
+II. PROHIBICION AL PROBABLE RESPONSABLE DE ACERCARSE AL DOMICILIO, LUGAR DE TRABAJO, DE ESTUDIOS, AL DOMICILIO DE LAS Y LOS ASCENDIENTES Y DESCENDIENTES O CUALQUIER OTRO QUE FRECUENTE LA VICTIMA U OFENDIDO DE CIEN A QUINIENTOS METROS, SEGUN DETERMINE LA AUTORIDAD;
 
-###### Art. 160.
+III. REINGRESO DE LA VICTIMA AL DOMICILIO, UNA VEZ QUE SE SALVAGUARDE SU SEGURIDAD;
 
-Ningún empleado o funcionario público percibirá más de un sueldo, excepción hechas de los cargos de Instrucción pública y Beneficencia.
+IV. PROHIBICION DE INTIMIDAR O MOLESTAR A LA VICTIMA U OFENDIDO, ASI COMO A CUALQUIER INTEGRANTE DE SU NUCLEO FAMILIAR; Y
 
-###### Art. 161.
+V. SUSPENSION TEMPORAL AL AGRESOR, DEL REGIMEN DE VISITAS Y CONVIVENCIA CON SUS DESCENDIENTES.
 
-Los empleados y funcionarios que manejen fondos públicos, caucionarán su manejo a juicio del Ejecutivo.
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-###### Art. 162.
+ARTICULO 98 BIS 3.- SON ORDENES DE PROTECCION PREVENTIVAS LAS SIGUIENTES:
 
-La Tesorería General del Estado y Oficinas de su dependencia, no harán pago alguno que no vaya autorizado con la firma del Gobernador y del Secretarlo (sic) General de Gobierno. Los Tesoreros Municipales sólo harán pagos obedeciendo órdenes firmadas por el Presidente Municipal y el Secretario del Ayuntamiento. El Tesorero o empleado que desobedeciere esta regla, será castigado con la pena de destitución, sin perjuicio de consignarlo a la autoridad judicial competente.
+I. RETENCION Y GUARDA DE ARMAS DE FUEGO QUE ESTEN EN POSESION DEL AGRESOR. ES APLICABLE LO ANTERIOR A LAS ARMAS PUNZANTES, CORTANTES Y CONTUNDENTES Y CUALQUIER COMBINACION DE LAS ANTERIORES QUE, INDEPENDIENTEMENTE DE SU USO, HAYAN SIDO EMPLEADAS PARA AMENAZAR O LESIONAR A LA VICTIMA U OFENDIDO;
 
-###### Art. 163.
+II. INVENTARIO DE LOS BIENES MUEBLES E INMUEBLES DE PROPIEDAD COMUN, INCLUYENDO LOS IMPLEMENTOS DE TRABAJO DE LA VICTIMA U OFENDIDO;
 
-El año fiscal comenzará el día primero de enero y terminará el día último de diciembre.
+III. USO Y GOCE DE BIENES MUEBLES QUE SE ENCUENTREN EN EL INMUEBLE QUE SIRVA DE DOMICILIO A LA VICTIMA U OFENDIDO;
 
-###### Art. 164.
+IV. ACCESO AL DOMICILIO COMUN DE LA VICTIMA U OFENDIDO Y EL AGRESOR, DE AUTORIDADES POLICIACAS O DE PERSONAS QUE AUXILIEN AL SUJETO PASIVO DE LA CONDUCTA DESCRITA COMO DELICTUOSA, PARA TOMAR LAS PERTENENCIAS PERSONALES Y FAMILIARES DE LA O LAS VICTIMAS U OFENDIDOS QUE VIVAN EN EL DOMICILIO;
 
-En todas las Escuelas de Instrucción Primaria Elemental, Superior y Normal, será obligatoria la enseñanza de la Instrucción Cívica.
+V. ENTREGA INMEDIATA DE OBJETOS DE USO PERSONAL Y DOCUMENTOS DE IDENTIDAD DE LA VICTIMA U OFENDIDO Y DE SUS FAMILIARES QUE VIVAN EN EL DOMICILIO;
 
-## TITULO VI. DEL PODER JUDICIAL
+VI. AUXILIO POLICIACO DE REACCION INMEDIATA A FAVOR DE LA VICTIMA U OFENDIDO, CON AUTORIZACION EXPRESA DE INGRESO AL DOMICILIO DONDE SE LOCALICE ESTA ULTIMA EN EL MOMENTO DE SOLICITAR EL AUXILIO, O
 
-### CAPITULO I. De las reformas a la Constitución
+VII. BRINDAR AL AGRESOR SERVICIOS REEDUCATIVOS INTEGRALES, ESPECIALIZADOS, GRATUITOS Y CON PERSPECTIVA DE GENERO, EN INSTITUCIONES DEBIDAMENTE ACREDITADAS.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+EN EL CASO DE LO DISPUESTO EN LAS FRACCIONES I, III Y V SE RESPETARAN SIEMPRE LOS DERECHOS DE TERCEROS.
 
-###### Art. 165.
+LAS ORDENES DE PROTECCION DE EMERGENCIA Y PREVENTIVAS, SOLO PODRAN SER DECRETADAS POR LA AUTORIDAD JUDICIAL. SI SON SOLICITADAS DURANTE LA ETAPA DE PREPARACION DE LA ACCION PENAL. EL MINISTERIO PUBLICO SOLICITARA SU EXPEDICION AL JUEZ COMPETENTE.
 
-Esta Constitución podrá ser reformada y adicionada; pero para que las adiciones y reformas lleguen a ser parte de la misma se requiere que previamente sea tomada en cuenta la iniciativa de reformas o adición por la declaratoria de la mayoría de los Diputados presentes y que sea aprobada cuando menos por cinco de los miembros del Congreso.
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+ARTICULO 98 BIS 4.- EL ORGANO JURISDICCIONAL QUE ESTE CONOCIENDO DEL PROCEDIMIENTO, EN CUALQUIERA DE SUS ETAPAS, DECRETARA LAS ORDENES DE PROTECCION DE EMERGENCIA O PREVENTIVAS, TOMANDO EN CONSIDERACION LO DISPUESTO EN EL ULTIMO PARRAFO DEL ARTICULO ANTERIOR, ADEMAS DE LO SIGUIENTE:
+
+I. EL RIESGO O PELIGRO EXISTENTE;
+
+II. LA SEGURIDAD DE LA VICTIMA; Y
+
+III. LOS ELEMENTOS CON QUE SE CUENTE.
+
+LAS ORDENES DE PROTECCION DE EMERGENCIA Y PREVENTIVAS TENDRAN UNA TEMPORALIDAD DE HASTA TREINTA DIAS Y DEBERAN EXPEDIRSE DENTRO DE LAS VEINTICUATRO HORAS SIGUIENTES AL CONOCIMIENTO DE LOS HECHOS QUE LAS GENERAN.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
+
+ARTICULO 98 BIS 5.- AL TRANSCURRIR EL TERMINO DE SU DURACION, LA AUTORIDAD JURISDICCIONAL VALORARA LAS ORDENES DE PROTECCION QUE HAYA DECRETADO, ASI COMO LA DETERMINACION DE MEDIDAS SIMILARES, PARA EXTENDERLAS.
+
+## TITULO SEXTO. EJECUCION DE SENTENCIAS
+
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 99.
 
@@ -2141,105 +1071,7 @@ Esta Constitución podrá ser reformada y adicionada; pero para que las adicione
 
 (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
-### CAPITULO II. De la Inviolabilidad de la Constitución
-
-###### Art. 166.
-
-Esta Constitución no perderá su fuerza ni vigor, aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público, se establezca en el Estado un Gobierno contrario a los principios que ella preconiza, tan luego como el pueblo recobre su libertad, volverá a su observancia y con arreglo a las Leyes serán juzgados los que hubieren figurado en el Gobierno emanado de la rebelión.
-
-###### Art. 167.
-
-Ninguna autoridad tendrá facultad para dispensar la observancia de esta Constitución en ninguno de sus preceptos.
-
-## TRANSITORIOS
-
-###### Art. 1º.
-
-Esta Constitución se promulgará desde luego por Bando solemne en todo el Estado, y comenzará a regir el día diez y seis de febrero de mil novecientos veintiuno en que será protestada por todos los empleados y funcionarios públicos.
-
-###### Art. 2º.
-
-Quedan derogadas todas las leyes, circulares y disposiciones, en cuanto se opongan a la presente Constitución.
-
-###### Art. 3º.
-
-El período constitucional para los Diputados electos el día siete de noviembre último, comenzará a contarse desde el día primero de enero de mil novecientos veintiuno.
-
-###### Art. 4º.
-
-El período constitucional para el Gobernador electo el día siete de noviembre último, comenzará a contarse desde el día cinco de febrero de mil novecientos veintiuno, pero tomará posesión hasta el día diez y seis del propio mes.
-
-###### Art. 5º.
-
-Los Magistrados del Supremo Tribunal de Justicia electos el día siete de noviembre último, tomarán posesión el día diez y seis de febrero de mil novecientos veintiuno y durarán en funciones mientras el Congreso nombre los que deban sucederles.
-
-###### Art. 6º.
-
-El Congreso tendrá en el año de mil novecientos veintinno (sic), tres períodos de sesiones ordinarias: el primero, en el mes de febrero; el segundo, en los meses de abril, mayo y junio, estos dos improrrogables; y el tercero, prorrogable hasta por un mes, en los meses de septiembre, octubre y noviembre. En estos períodos se ocupará especialmente de expedir las leyes que sean necesarias para la reorganización de los servicios públicos, de conformidad con los preceptos de esta Constitución, ya sea que la iniciativa de ellas se haga por el mismo Congreso o por el Ejecutivo.
-
-###### Art. 7º.
-
-Los recursos de casación y súplica pendientes al comenzar a regir esta Constitución, continuarán tramitándose hasta terminarse.
-
-###### Art. 8º.
-
-Mientras no se expida la Ley Orgánica de los Tribunales del Estado, los Juzgados menores que funcionan actualmente en algunas cabeceras de Fracción, continuarán como Juzgados de Primera Instancia, con igual competencia y jurisdicción que los Jueces de Primera Instancia que hoy existen, y sostenidos por los fondos municipales.
-
-###### Art. 9º.
-
-Las cuentas del Gobierno y Municipales correspondientes al tiempo que no ha habido Congreso, serán enviadas a este en la primera quincena de mayo próximo para su revisión.
-
-Dado en el Salón de Sesiones del H. Congreso del Estado de Tamaulipas, a los veintisiete días del mes de enero de mil novecientos veintiuno.
-
-Por el Décimocuarto Distrito Electoral, Donaciano de Lassaulx, Diputado Presidente.
-
-Por el Segundo Distrito Electoral, Ing. José F. Montesinos, Diputado Vicepresidente.
-
-Dr. Antonio Valdez Rojas, Diputado por el Primer Distrito Electoral.
-
-Cipriano Martínez, Diputado por el Tercer Distrito Electoral.
-
-Refugio Vargas, Diputado por el Quinto Distrito Electoral.
-
-Prof. Juan Gual Vidal, Diputado por el Sexto Distrito Electoral.
-
-Rafael Zamudio, Diputado por el Séptimo Distrito Electoral.
-
-Joaquín F. Flores, Diputado por el Octavo Distrito Electoral.
-
-Prof. Hilario Pérez, Diputado por el Noveno Distrito Electoral.
-
-Prof. José C. Rangel, Diputado por el Décimo Distrito Electoral.
-
-Feliciano García, Diputado por el Décimoquinto Distrito Electoral.
-
-Por el Décimosegundo Distrito Electoral, Ing. Martiniano Domínguez y Villarreal, Diputado Secretario.
-
-Por el Décimotercer Distrito Electoral, Gregorio Garza Salinas, Diputado Secretario.
-
-Por lo tanto, mando se imprima y promulgue por Bando solemne.
-
-Palacio del Poder Ejecutivo, a los cinco días del mes de febrero de mil novecientos veintiuno.
-
-El Gobernador Provisional,
-
-José Morante.
-
-El Srio. Gral. de Gobierno,
-
-Lic. Luis Ilizaliturri.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
-
-P.O. 6 DE MARZO DE 1926.
-
-Este decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE SEPTIEMBRE DE 1926.
-
-TRANSITORIO. Comenzará a surtir sus efectos desde la fecha de su promulgación.
-
-P.O. 23 DE JUNIO DE 1928.
+### CAPITULO II. TRABAJO DE LOS INTERNOS
 
 ###### ARTICULO 101.
 
@@ -2341,7 +1173,7 @@ VII.- CUANDO EL FIADOR TENGA MOTIVOS FUNDADOS PARA NO CONTINUAR DESEMPEÑANDO EL
 
 QUEDAN EXCLUIDOS DEL BENEFICIO DE LA CONDENA CONDICIONAL LOS DELITOS PREVISTOS EN LOS ARTICULOS 153, 154, 164, 165, 165 BIS, 176, 265, 267, 268, 313, 322, 403 Y 406 BIS DE ESTE CODIGO.
 
-## TITULO VII. DEL MINISTERIO PUBLICO
+## TITULO SEPTIMO. EXTINCION DE LA RESPONSABILIDAD PENAL
 
 ### CAPITULO I. MUERTE DEL DELINCUENTE
 
@@ -2573,7 +1405,9 @@ II.- CUANDO HABIENDO COMPARECIDO A LA AUDIENCIA, SE AUSENTE DE ELLA SIN CAUSA JU
 
 EN ESTOS CASOS QUEDARAN A SALVO LOS DERECHOS DEL OFENDIDO RESPECTO A LA REPARACION DEL DAÑO, PARA QUE LOS HAGA VALER EN LA VIA Y FORMA QUE CORRESPONDA.
 
-## TITULO VIII. DE LA DEFENSORIA DE OFICIO
+## TITULO OCTAVO. RESPONSABILIDAD PECUNIARIA DERIVADA DEL DELITO
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
@@ -2667,7 +1501,7 @@ LAS COSAS, BIENES, OBJETOS O VALORES QUE ESTEN A DISPOSICION DE LAS AUTORIDADES 
 
 # LIBRO SEGUNDO. PARTE ESPECIAL
 
-## TITULO IX. DE LOS MUNICIPIOS
+## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
 ### CAPITULO I. REBELION
 
@@ -2833,7 +1667,7 @@ IGUAL SANCION SE IMPONDRA A TODOS LOS PARTICIPANTES, CUANDO DOS O MAS PERSONAS I
 
 ARTICULO 165 BIS 1.- LAS PENAS A QUE SE REFIERE EL ARTICULO ANTERIOR SE AUMENTARAN HASTA EN UNA MITAD DE LA QUE CORRESPONDA POR EL DELITO COMETIDO, CUANDO PARA SU PERPETRACION SE UTILICE A UNO O VARIOS MENORES DE EDAD; O CUANDO EL RESPONSABLE SEA UN SERVIDOR PUBLICO O HAYA TENIDO TAL CARACTER DENTRO DE LOS CINCO AÑOS ANTERIORES A LA COMISION DELICTIVA.
 
-## TITULO X. SECCION DE ADMINISTRACION GENERAL
+## TITULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD PUBLICA
 
 ### CAPITULO I. EVASION DE PRESOS
 
@@ -3021,9 +1855,7 @@ EN CASO DE QUE EL RESPONSABLE SE HAGA ACOMPAÑAR DE MENOR O MENORES DE EDAD, SE 
 
 ARTICULO 177 BIS 3.- A QUIEN DIRIJA, ORGANICE, INCITE, OBLIGUE O PATROCINE DE CUALQUIER FORMA A COMETER EL DELITO DE OBSTRUCCION DE LA VIA PUBLICA SE LE IMPONDRA DE TRES A SEIS AÑOS DE PRISION Y MULTA DE DOSCIENTAS A CUATROCIENTAS CUOTAS.
 
-## TITULO XI
-
-DISPOSICIONES GENERALES.
+## TITULO TERCERO
 
 ### CAPITULO UNICO. VIOLACION DE CORRESPONDENCIA
 
@@ -3045,7 +1877,7 @@ AL RESPONSABLE DE ESTE DELITO SE LE IMPONDRA UNA PENA DE PRISION DE TRES DIAS A 
 
 NO SE CONSIDERA QUE OBRAN DELICTUOSAMENTE LOS PADRES QUE ABRAN O INTERCEPTEN LAS COMUNICACIONES ESCRITAS DIRIGIDAS A SUS HIJAS O HIJOS MENORES DE EDAD; LOS TUTORES RESPECTO DE LAS PERSONAS QUE SE HALLEN BAJO SU DEPENDENCIA Y LOS CONYUGES ENTRE SI
 
-## TITULO XII
+## TITULO CUARTO. DELITOS CONTRA LA AUTORIDAD
 
 ### CAPITULO I. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
@@ -3183,7 +2015,7 @@ LAS PENAS SEÑALADAS EN ESTE ARTICULO, SE AUMENTARAN DESDE UN TERCIO HASTA UN TA
 
 (DEROGADO, P.O. 8 DE JULIO DE 1992)
 
-## TITULO XIII
+## TITULO QUINTO. DELITOS CONTRA LA MORAL PUBLICA
 
 ### CAPITULO I. ULTRAJES A LA MORAL PUBLICA O A LAS BUENAS COSTUMBRES
 
@@ -4719,21 +3551,19 @@ LA TENTATIVA DE VIOLACION Y LA TENTATIVA DE LOS DELITOS EQUIPARADOS A LA VIOLACI
 
 ARTICULO 266 BIS.- TAMBIEN COMETE EL DELITO DE VIOLACION, Y SE CASTIGARA COMO TAL, QUIEN POR MEDIO DE LA VIOLENCIA FISICA O MORAL TIENE COPULA CON SU CONYUGE O CONCUBINA, SIN LA VOLUNTAD DEL SUJETO PASIVO.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 267.
 
-SE EQUIPARA A LA VIOLACION Y SE CASTIGARA COMO TAL, LA COPULA CON PERSONA MENOR DE QUINCE AÑOS DE EDAD, O CON PERSONA, AUNQUE SEA MAYOR DE EDAD, QUE SE HALLE SIN SENTIDO, QUE NO TENGA EXPEDITO EL USO DE LA RAZON, O QUE POR CUALQUIER CAUSA NO PUEDA RESISTIR LA CONDUCTA DELICTUOSA
+SE EQUIPARA A LA VIOLACION Y SE CASTIGARA COMO TAL, LA COPULA CON PERSONA MENOR DE QUINCE AÑOS DE EDAD, O CON PERSONA, AUNQUE SEA MAYOR DE EDAD, QUE SE HALLE SIN SENTIDO, QUE NO TENGA EXPEDITO EL USO DE LA RAZON, O QUE POR CUALQUIER CAUSA NO PUEDA RESISTIR LA CONDUCTA DELICTUOSA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 268.
 
-SE EQUIPARA A LA VIOLACION Y SE SANCIONARA COMO TAL, LA INTRODUCCION POR VIA VAGINAL O ANAL, DE CUALQUIER ELEMENTO O INSTRUMENTO DISTINTO AL MIEMBRO VIRIL, ASI COMO LA INTRODUCCION DE ESTE ULTIMO POR LA VIA ORAL, SIN LA VOLUNTAD DEL SUJETO PASIVO O AUN CON LA VOLUNTAD DE ESTE ULTIMO SI FUERE DE TRECE AÑOS O MENOR.
+SE EQUIPARA A LA VIOLACION Y SE SANCIONARA COMO TAL, LA INTRODUCCION POR VIA VAGINAL O ANAL, DE CUALQUIER ELEMENTO O INSTRUMENTO DISTINTO AL MIEMBRO VIRIL, ASI COMO LA INTRODUCCION DE ESTE ULTIMO POR LA VIA ORAL, SIN LA VOLUNTAD DEL SUJETO PASIVO O AUN CON LA VOLUNTAD DE ESTE ULTIMO SI FUERE DE QUINCE AÑOS O MENOR.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2007)</small>
-
-ASIMISMO, SE EQUIPARA A LA VIOLACION Y SE SANCIONARA COMO TAL, CUANDO EL ACTIVO INTRODUZCA EN SU PROPIA BOCA EL MIEMBRO VIRIL DE UNA PERSONA MENOR DE TRECE AÑOS DE EDAD, O DE PERSONA, AUNQUE SEA MAYOR DE EDAD, QUE SE HALLE SIN SENTIDO, QUE NO TENGA EXPEDITO EL USO DE LA RAZON, O QUE POR CUALQUIER CAUSA NO PUDIERE RESISTIR LA CONDUCTA DELICTUOSA.
+ASIMISMO, SE EQUIPARA A LA VIOLACION Y SE SANCIONARA COMO TAL, CUANDO EL ACTIVO INTRODUZCA EN SU PROPIA BOCA EL MIEMBRO VIRIL DE UNA PERSONA MENOR DE QUINCE AÑOS DE EDAD, O DE PERSONA, AUNQUE SEA MAYOR DE EDAD, QUE SE HALLE SIN SENTIDO, QUE NO TENGA EXPEDITO EL USO DE LA RAZON, O QUE POR CUALQUIER CAUSA NO PUDIERE RESISTIR LA CONDUCTA DELICTUOSA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2016)</small>
 
@@ -6335,7 +5165,9 @@ III.- A TODO AQUEL QUE HAGA APARECER COMO SUYO UN DEPOSITO QUE GARANTICE EL CUMP
 
 SE REPUTA COMO ABUSO DE CONFIANZA, Y SE SANCIONARA COMO TAL, LA ILEGITIMA POSESION DE LA COSA RETENIDA, SI EL TENEDOR O POSEEDOR DE ELLA NO LA DEVUELVE O NO LA ENTREGA A LA AUTORIDAD PARA QUE SE DISPONGA DE LA MISMA CONFORME A LA LEY, A PESAR DE SER REQUERIDO FORMALMENTE PARA ELLO.
 
-### CAPITULO VI. CHANTAJE
+### CAPITULO VI. EXTORSION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 385.
 
@@ -6477,47 +5309,73 @@ AL RESPONSABLE DEL DELITO DE USURA SE LE IMPONDRAN DE SEIS MESES A OCHO AÑOS DE
 
 LA SANCION PRIVATIVA DE LA LIBERTAD SEÑALADA EN EL ARTICULO ANTERIOR, SE REDUCIRA EN UNA TERCERA PARTE, SI DESDE LA FECHA EN QUE SE DECRETE EL AUTO DE FORMAL PRISION HASTA ANTES DE QUE SE DICTE SENTENCIA EJECUTORIADA, SE DEVOLVIERE INCONDICIONALMENTE A LA VICTIMA LA CANTIDAD LUCRADA ILICITAMENTE, CON EL PAGO DE LOS INTERESES CORRESPONDIENTES, Y SE GARANTICE EL PAGO DE LA MULTA.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE AGOSTO DE 2021)</small>
+
 ### CAPITULO VIII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 395.
 
-COMETE EL DELITO DE CHANTAJE EL QUE, CON ANIMO DE CONSEGUIR UN LUCRO O PROVECHO, AMENAZARE A OTRO CON DAÑOS MORALES, FISICOS O PATRIMONIALES, QUE AFECTEN AL AMENAZADO O A PERSONA FISICA O MORAL CON QUIEN ESTE TUVIERA LIGAS DE CUALQUIER ORDEN, QUE LO DETERMINEN A PROTEGERLA.
+COMETE EL DELITO DE EXTORSION Y SERA SANCIONADO CON PENA DE CUATRO A DIEZ AÑOS DE PRISION, EL QUE, CON ANIMO DE CONSEGUIR UN LUCRO O PROVECHO, DISTINTO A LOS ESTABLECIDOS PARA EL DELITO DE AMENAZAS; COACCIONE, AMEDRENTE O AMENACE, POR CUALQUIER MEDIO A OTRO CON CAUSAR DAÑOS MORALES, FISICOS O PATRIMONIALES, QUE AFECTEN AL AMENAZADO O A PERSONA FISICA O MORAL CON QUIEN ESTE TUVIERA LIGAS DE CUALQUIER ORDEN, QUE LO DETERMINEN A PROTEGERLA.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
 
-EL CULPABLE DE ESTE DELITO SERA SANCIONADO CON LA PENA DE CUATRO A DIEZ AÑOS DE PRISION. SI LA AMENAZA VERSA SOBRE PRIVACION DE LA LIBERTAD, DAÑOS FISICOS O CAUSE DAÑO A LA INTEGRIDAD PSICOLOGICA AL PASIVO O CUALQUIER PERSONA CON QUIEN ESTE TUVIERE VINCULOS DE CUALQUIER ORDEN QUE LO DETERMINAN A PROTEGERLA, LA PENA A APLICAR SERA DE OCHO A QUINCE AÑOS DE PRISION.
+SI LA COACCION, AMEDRENTAMIENTO O LA AMENAZA CAUSARE DAÑO A LA INTEGRIDAD PSICOLOGICA DEL PASIVO O CUALQUIER PERSONA CON QUIEN ESTE TUVIERE VINCULOS DE CUALQUIER ORDEN QUE LO DETERMINAN A PROTEGERLA, LA PENA A APLICAR SERA DE OCHO A QUINCE AÑOS DE PRISION.
 
 > <small>(ADICIONADO, P.O. 17 DE JULIO DE 2009)</small>
 
 SE ENTENDERA COMO DAÑO A LA INTEGRIDAD PSICOLOGICA, EL TRASTORNO MENTAL QUE PROVOQUE MODIFICACIONES A LA PERSONALIDAD, A LA CONDUCTA O AMBAS, RESULTANTE DE LA AGRESION.
 
-EN LOS PROCESOS POR CHANTAJE, EL PROCEDIMIENTO SERA SECRETO, SOLO ENTRE LAS PARTES, SIN PUBLICACION DE NINGUNA DE LAS CONSTANCIAS DE AUTOS, CUANDO LOS HECHOS AFECTEN, A JUICIO DEL JUEZ, AL HONOR, PRESTIGIO O CREDITO DE LAS PERSONAS FISICAS O MORALES.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+EN LOS PROCESOS POR EXTORSION, EL PROCEDIMIENTO SERA SECRETO, SOLO ENTRE LAS PARTES, SIN PUBLICACION DE NINGUNA DE LAS CONSTANCIAS DE AUTOS, CUANDO LOS HECHOS AFECTEN, A JUICIO DEL JUEZ, AL HONOR, PRESTIGIO O CREDITO DE LAS PERSONAS FISICAS O MORALES.
 
-SE INCREMENTARA LA PENA EN UNA MITAD MAS, CUANDO LA COMISION DEL DELITO SE REALICE EN ALGUNA DE LAS SIGUIENTES MODALIDADES:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE AGOSTO DE 2021)</small>
 
-I. EL SUJETO PASIVO DEL DELITO SEA PERSONA CON DISCAPACIDAD, MIGRANTE, MENOR DE DIECIOCHO AÑOS, MAYOR DE SETENTA AÑOS, INDIGENA, O MUJER EMBARAZADA;
+SE INCREMENTARA LA PENA HASTA EN UNA MITAD MAS, CUANDO EN LA COMISION DEL DELITO SE PRESENTE ALGUNA DE LAS SIGUIENTES CIRCUNSTANCIAS:
 
-II. INTERVENGAN DOS O MAS PERSONAS;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
-III. SE EMPLEE VIOLENCIA FISICA;
+I. EL SUJETO PASIVO DEL DELITO SEA PERSONA CON DISCAPACIDAD, MIGRANTE, MENOR DE DIECIOCHO AÑOS, ADULTO MAYOR DE SESENTA AÑOS, INDIGENA, O MUJER EMBARAZADA;
 
-IV. SE REALICE DESDE EL INTERIOR DE UN RECLUSORIO O CENTRO DE REINSERCION SOCIAL;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
-V. TENGA ALGUNA RELACION DE CONFIANZA, LABORAL, DE PARENTESCO O DE NEGOCIOS CON EL PASIVO O CON QUIEN ESTE ULTIMO ESTE LIGADO POR ALGUN VINCULO;
+II. INTERVENGAN DOS O MAS PERSONAS COMO SUJETOS ACTIVOS DEL DELITO, BAJO CUALQUIERA DE LAS MODALIDADES DE AUTORIA O PARTICIPACION DETERMINADAS EN ESTA CODIFICACION;
 
-VI. ES O FUE DENTRO DE LOS CINCO AÑOS ANTERIORES A LA COMISION DELICTIVA, MIEMBRO DE INSTITUCIONES DE SEGURIDAD PUBLICA, FUERZAS ARMADAS, PROCURACION O IMPARTICION DE JUSTICIA O DE EJECUCION DE SANCIONES PENALES. ADEMAS SE APLICARA LA DESTITUCION E INHABILITACION DE SEIS A QUINCE AÑOS PARA EJERCER CARGO PUBLICO;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+III. SE EMPLEE VIOLENCIA FISICA EN CONTRA DE LA VICTIMA O ALGUNA DE LAS PERSONAS CON QUIEN ESTE TUVIERA LIGAS DE CUALQUIER ORDEN, QUE LO DETERMINEN A PROTEGERLA O SE UTILICE CUALQUIER TIPO DE ARMA O DE INSTRUMENTO QUE SUPONGA PELIGRO PARA LA VICTIMA DEL DELITO;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+IV. SE REALICE DESDE EL INTERIOR DE UN RECLUSORIO, CENTRO DE REINSERCION SOCIAL O CUALQUIER CENTRO DE DETENCION;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+V. EL SUJETO ACTIVO DEL DELITO TENGA ALGUNA RELACION DE CONFIANZA, LABORAL, DE PARENTESCO O DE NEGOCIOS CON EL PASIVO O CON QUIEN ESTE ULTIMO ESTE LIGADO POR ALGUN VINCULO;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+VI. EL RESPONSABLE DEL DELITO ES O FUE DENTRO DE LOS CINCO AÑOS ANTERIORES A LA COMISION DELICTIVA, MIEMBRO DE INSTITUCIONES DE SEGURIDAD PUBLICA, FUERZAS ARMADAS, PROCURACION O IMPARTICION DE JUSTICIA O DE EJECUCION DE SANCIONES PENALES. EN TAL CASO, ADEMAS SE APLICARA LA DESTITUCION E INHABILITACION DE SEIS A QUINCE AÑOS PARA EJERCER CARGO PUBLICO;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
 
 VII. EL ACTIVO SE OSTENTE, POR CUALQUIER MEDIO, COMO INTEGRANTE DE UNA BANDA O AGRUPACION DELICTUOSA;
 
-VIII. SE REALICE POR VIA TELEFONICA O CUALQUIER MEDIO DE COMUNICACION ELECTRONICA, RADIAL O SATELITAL, PARA COMETER EL DELITO;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
-IX. SE LOGRE QUE EL SUJETO PASIVO O UN TERCERO, ENTREGUE ALGUNA CANTIDAD DE DINERO O BIENES DE MANERA REITERADA, POR EL COBRO DE CUOTAS DE CUALQUIER INDOLE; O
+VIII. SE UTILICE LA VIA TELEFONICA, CORREO ELECTRONICO, REDES SOCIALES, APLICACIONES MOVILES O CUALQUIER MEDIO DE COMUNICACION ELECTRONICA, RADIAL O SATELITAL, PARA COMETER EL DELITO;
 
-X. PARTICIPEN TRABAJADORES DE INSTITUCIONES PUBLICAS QUE TENGAN ACCESO A BANCOS DE DATOS PERSONALES Y QUE LOS UTILICEN O LOS SUSTRAIGAN PARA SI O PARA TERCEROS, CON EL OBJETO DE COMETER EL DELITO DE CHANTAJE EN CUALQUIERA DE SUS MODALIDADES.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+IX. SE LOGRE QUE EL SUJETO PASIVO O UN TERCERO, ENTREGUE AL ACTIVO O A ALGUNA OTRA PERSONA QUE ACTUE EN REPRESENTACION DE ESTE O DEPOSITE EN LUGAR DETERMINADO POR ESTAS, ALGUNA CANTIDAD DE DINERO O BIENES DE MANERA REITERADA, POR CONCEPTO DE COBRO DE CUOTAS DE CUALQUIER INDOLE.
+
+SE ENTENDERA POR CUOTA, EL REQUERIMIENTO DE PAGO O ENTREGA DE BIENES QUE INDEBIDAMENTE UNA PERSONA HAGA A OTRA CON EL FIN DE QUE LA PRIMERA NO CAUSE ALGUN DAÑO A LA PERSONA REQUERIDA O A LAS PERSONAS CON QUIEN ESTA TENGA ALGUN VINCULO QUE LO DETERMINE A PROTEGERLA; A LOS BIENES DE CUALQUIERA DE ESTAS; O, A LAS PERSONAS MORALES VINCULADAS CON CUALQUIERA DE ELLAS; O,
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+
+X. PARTICIPEN TRABAJADORES DE INSTITUCIONES PUBLICAS QUE TENGAN ACCESO A BANCOS DE DATOS PERSONALES Y QUE LOS UTILICEN O LOS SUSTRAIGAN PARA SI O PARA TERCEROS, CON EL OBJETO DE COMETER EL DELITO DE EXTORSION EN CUALQUIERA DE SUS MODALIDADES.
 
 ### CAPITULO IX. DAÑO EN PROPIEDAD AJENA
 
@@ -6855,7 +5713,7 @@ PARA EFECTOS DE ESTE ARTICULO SE ENTIENDE QUE SON PRODUCTO DE UNA ACTIVIDAD ILIC
 
 ### CAPITULO UNICO. MALTRATO O CRUELDAD CONTRA LOS ANIMALES DOMESTICOS
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2021)</small>
 
 ###### ARTICULO 432.
 
@@ -6937,11 +5795,11 @@ LAS SANCIONES PREVISTAS EN EL PARRAFO ANTERIOR SE AUMENTARAN HASTA EN UNA MITAD 
 
 ###### ARTICULO 445.
 
-AL QUE COMETA ACTOS DE MALTRATO O CRUELDAD EN CONTRA DE CUALQUIER ESPECIE DE ANIMAL DOMESTICO, CAUSANDOLE LESIONES SE LE IMPONDRA DE TRES DIAS A UN MES DE PRISION Y MULTA DE TRES A CINCO CUOTAS; SI LAS LESIONES PONEN EN PELIGRO LA VIDA DEL ANIMAL DOMESTICO SE AUMENTARA EN UNA MITAD LA PENA SEÑALADA; EN CASO DE QUE LAS LESIONES LE CAUSAN LA MUERTE AL ANIMAL DOMESTICO, SE IMPONDRA DE QUINCE DIAS A SEIS MESES DE PRISION Y MULTA DE CINCO A QUINCE CUOTAS.
+AL QUE POR ACCION U OMISION COMETA MALTRATO O CRUELDAD ANIMAL EN CONTRA DE CUALQUIER ESPECIE DE ANIMAL DOMESTICO, CAUSANDOLE LESIONES U OCASIONANDOLE DOLOR O SUFRIMIENTO AFECTANDO SU BIENESTAR, SE LE IMPONDRAN DE 1 A 3 MESES DE PRISION Y SANCION PECUNIARIA DE 25 A 50 CUOTAS. CUANDO EL MALTRATO O CRUELDAD IMPLIQUE PONER EN PELIGRO LA VIDA DEL ANIMAL DOMESTICO, LA PENA SE INCREMENTARA HASTA EN UNA MITAD; Y EN CASO DE QUE EL MALTRATO O CRUELDAD ANIMAL LE CAUSE LA MUERTE AL ANIMAL DOMESTICO, SE IMPONDRAN DE SEIS MESES A DOS AÑOS DE PRISION Y SANCION PECUNIARIA DE 100 A 250 CUOTAS.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+ADEMAS DE LAS SANCIONES PREVISTAS PARA ESTE DELITO, CUANDO EL MALTRATO O CRUELDAD EN CONTRA DE CUALQUIER ANIMAL DOMESTICO EN TERMINOS DEL PARRAFO ANTERIOR SEA COMETIDO POR UN SERVIDOR PUBLICO QUE DERIVADO DE SU FUNCION TENGA POR ENCARGO EL CUIDADO DE ANIMALES DOMESTICOS, SERA SANCIONADO CON INHABILITACION O SUSPENSION PARA EJERCER UN CARGO O COMISION POR UN TIEMPO IGUAL A LA PENA DE PRISION.
 
-LA AUTORIDAD PODRA SUSTITUIR TOTAL O PARCIALMENTE LA PENA POR TRATAMIENTO PSICOLOGICO HASTA DE 180 DIAS, O POR LA PRESTACION DE JORNADAS DE TRABAJO EN FAVOR DE LA COMUNIDAD DE 60 HASTA 90 DIAS.
+LA AUTORIDAD PODRA SUSTITUIR TOTAL O PARCIALMENTE LA PENA POR TRATAMIENTO PSICOLOGICO HASTA DE 180 DIAS, O POR LA PRESTACION DE JORNADAS DE TRABAJO EN FAVOR DE LA COMUNIDAD DE HASTA 180 DIAS.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
 
@@ -7097,49 +5955,11 @@ UNICO:- El presente Decreto entrara en vigor al día siguiente de su publicació
 
 P.O. 3 DE JULIO DE 1991.
 
-###### ARTICULO UNICO.
+###### ARTICULO UNICO
 
-Este Decreto empezará a regir tan luego como sean debidamente sancionadas las reformas del artículo 115 de la Constitución General.
+- Este Decreto entrara en vigor el día de su publicación en el Periódico Oficial del Estado.
 
-P.O. 14 DE DICIEMBRE DE 1932.
-
-UNICO:- Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE ABRIL DE 1933.
-
-Unico.- Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial de Estado.
-
-P.O. 16 DE JUNIO DE 1934.
-
-TRANSITORIO: Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 27 DE JUNIO DE 1934.
-
-TRANSITORIO: Este Decreto comenzará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
-
-P.O. 25 DE AGOSTO DE 1934.
-
-TRANSITORIO.- Este Decreto en cuanto no tenga relación con los preceptos de la Constitución Política de la República, que en el mismo se invocan, principiará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE AGOSTO DE 1934. (DECRETO NUM. 71)
-
-REPUBLICADO, P.O. 29 DE AGOSTO DE 1934.
-
-TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE AGOSTO DE 1934. (DECRETO NUM. 72)
-
-TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE AGOSTO DE 1934. (DECRETO NUM. 86)
-
-TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 10 DE NOVIEMBRE DE 1934.
-
-(DEROGADO POR DECRETO No. 109, P.O. 8 DE DICIEMBRE DE 1934) (N. DE E. PERMANECE VIGENTE EL TEXTO DEL DECRETO DE FECHA 5 DE FEBRERO DE 1921)
-
-Este decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+P.O. 23 DE DICIEMBRE DE 1991.
 
 ###### ARTICULO UNICO
 
@@ -8282,6 +7102,28 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- El Ejecutivo del Estado tendrá 90 días naturales para elaborar los lineamientos, bajo los que se llevará a cabo lo dispuesto en el presente Decreto. La Procuraduría de Protección de Niñas, Niños y Adolescentes, la Secretaría Estatal de Salud y la Secretaría de Educación del Estado de Nuevo León, deberán adecuar todas las disposiciones normativas correspondientes 30 días naturales después de emitidos los lineamientos mencionados.
 
 TERCERO.- En los lineamientos que se realicen, deberá darse prioridad a que el Tamiz de Salud Mental, se aplique haciendo uso de medios telemáticos, aprovechando los recursos materiales, humanos y tecnológicos con los que ya se cuenta, tanto en la Secretaria de Educación, así como en la Secretaria de Salud, sin que sea limitativo, en caso de que el Titular del Ejecutivo del Estado, considere la dispensa de mayores recursos para cumplir debidamente con lo dispuesto en el presente Decreto, deberá de prever en su proyecto de presupuesto de egresos para el ejercicio fiscal siguiente, la partida presupuestal correspondiente.
+
+P.O. 6 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 517. SE REFORMAN LOS ARTÍCULOS 267 Y 268 DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 520. SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VI DEL TÍTULO DÉCIMO NOVENO QUE ACTUALMENTE SE DENOMINA “CHANTAJE” PARA PASAR A SER “EXTORSIÓN” Y LOS PÁRRAFOS PRIMERO, SEGUNDO, CUARTO Y QUINTO, ASÍ COMO LAS FRACCIONES I, II, III, IV, V, VI, VIII, IX Y X DEL MISMO PÁRRAFO QUINTO, TODO DEL ARTÍCULO 395 DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Los procesos penales iniciados antes de la entrada en vigor del presente decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron lugar a dicho proceso, excepto en los casos en que la reforma resulte más benéfica para el imputado, en atención al principio Pro-persona.
+
+TERCERO: Cualquier referencia al delito de chantaje contenida en el cuerpo del presente ordenamiento, se entenderá referido al delito de extorsión.
+
+P.O. 25 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 518. SE REFORMA EL ARTÍCULO 445 DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO UNICO.
 
